@@ -1,6 +1,6 @@
 ---
-aliases: ["Ysara Dawnstrider the Swift", "ysara dawnstrider the swift", "Ysara Dawnstrider Swift", "Swift the Dawnstrider Ysara"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Ysara Dawnstrider the Swift", "ysara dawnstrider the swift", "Ysara Dawnstrider Swift", "Swift the Dawnstrider Ysaratags: [npc, character, combat, magic, exploration, lore]er]
 type: npc
 ---
 
@@ -136,3 +136,151 @@ Forming expedition to dangerous location
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Noble** (MM p.348)
+Modifications:
+- HP: 41
+- AC: 10
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Volo's Guide to Monsters (VGM) p.21
+- Mordenkainen's Tome of Foes (MTF) p.74
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+- **Skills**: See PHB p.174-179
+- **Spellcasting**: See PHB p.201-205
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Leads to [[step_046 (phase_080)]]
+- See also: [[step_023]]
+- Requires [[step_026 (phase_080)]]
+- Related: [[QUEST00046_Main_Quest_47]]
+- Leads to [[spirit-troll-mpmm (giant)]]
+- Originates from [[Great Sunderin]]
+- Affected by [[step_066]]
+- Connects to [[step_051 (phase_005)]]
+- Compare with [[Giant Wolf Spider Xmm]]
+- Affected by [[scriptorium]]
+- Parallels [[step_018]]
+- Related: [[Polymorph Xphb]]
+- Related: [[Scholars of Divine Lore 2]]
+- Connects to [[DUN00026_Dungeon_27]]
+- Related: [[Session 7 - Connections Revealed]]
+- Related: [[step_010 (phase_053)]]
+- Influences [[Quest - Truth Market_1 (01_Adventures)]]
+- Connects to [[level-1-hit-points-by-class-xphb (tables)]]
+- See also: [[Lighthouse Peak   Resoce Chamber]]
+- Parallels [[The Current Riders]]
+- Parallels [[step_098 (phase_037)]]
+- Requires [[ENC00450_Combat_Encounter_451]]
+- Related: [[step_064 (phase_052)]]
+- Affected by [[step_015]]
+- Influences [[The Tide Speakers]]
+- Compare with [[step_043 (phase_017)]]
+- Compare with [[ENC00489_Combat_Encounter_490]]
+- Originates from [[step_074 (phase_099)]]
+- Leads to [[Dr Tidal Depth]]
+- Influences [[Consequence Chain 2 - Crystal Trade Disruption (D&D_References)]]
+- Compare with [[ITEM00147_Frost_Dagger_of_Wounding]]
+- Influences [[step_033 (phase_093)]]
+- Related: [[step_081]]
+- Affected by [[LOC00082_Towns_Location_83]]
+- Requires [[The Shadowmere (D&D_References)]]
+- Compare with [[SPELL00162_Divine_Spell_163]]
+- Requires [[Assets Locations Location City Warehouse District V1 Warehouse District.svg]]
+- See also: [[step_095 (phase_099)]]
+- Affected by [[Portrait NPC Captain Morgrim Lastvessel V1 Captain Morgrim Lastvessel.svg]]
+- Requires [[Complete_Reality_Merger_System (D&D_References)]]
+- Related: [[work-wages-xge (tables)]]
+- Requires [[Armor of Vulnerability Slashing Xdmg]]
+- Originates from [[QUEST00106_Personal_Quest_107]]
+- Leads to [[Market Prophet (D&D_References)]]
+- Connects to [[forest-encounters-levels-510-xge (tables)]]
+- See also: [[SPELL00072_Nature_Spell_73]]
+- Leads to [[portrait-npc-session-4-v2-session-4.svg]]
+- Connects to [[Melody Crystalsong]]
+- Connects to [[Quest - Corruption in the Temple]]
+- Originates from [[Dr. Marina Deepcurrent]]
+- Connects to [[Assets Portraits Portrait NPC Senator Cordelia Deepcurrent Senator Cordelia Deepcurrent.svg]]
+- Compare with [[Student Engineer Bronze]]
+- Influences [[Crocodile Xmm]]
+- Affected by [[Deep Mother Cultist Profiles (People)]]
+- Connects to [[Privacy Protection Agency 2]]
+- Originates from [[step_009 (phase_067)]]
+- Parallels [[step_001 (phase_022)]]
+- Related: [[NPC01399_Orion_Ashford_the_Bold]]
+- Connects to [[The Observatory]]
+- Affected by [[step_047]]
+- Influences [[NPC00879_Felicia_Frostwhisper_the_Swift]]
+- Compare with [[step_002]]
+- See also: [[Relentless Hex Xge]]
+- Leads to [[step_050 (phase_071)]]
+- Affected by [[step_076 (phase_007)]]
+- Requires [[SPELL00049_Nature_Spell_50]]
+- Related: [[Portrait NPC Queen Morwyn Lumengarde V1 Queen Morwyn Lumengarde.svg]]
+- Requires [[vegepygmy-chief-mpmm (plant)]]
+- Leads to [[Creative Visionweaver]]
+- Influences [[Coastal Encounters Levels 14 Xge]]
+- Affected by [[House Deepforge]]
+- Leads to [[location-city-portal-network-portal-network.svg]]
+- Connects to [[step_056 (phase_052)]]
+- Requires [[Lord Flux the Inconsistent (D&D_References)]]
+- See also: [[The Crimson Foundries]]
+- Related: [[NPC00682_Nerys_Ashford_the_Broken]]
+- Compare with [[Portrait NPC Lord Admiral Gaius Windcutter V1 Lord Admiral Gaius Windcutter.svg]]
+- Requires [[Assets Locations Location City Quest the Missing Fleet Quest the Missing Fleet.svg]]
+- Originates from [[Location City Divine Communication Studies V1 Divine Communication Studies.svg]]
+- See also: [[Transformation Assistance]]
+- Connects to [[The Healer's Persecution (D&D_References)]]
+- See also: [[Memory_Pearls (02_Worldbuilding)]]
+- See also: [[LORE00239_Legends_Entry_240]]
+- Parallels [[Location City Pressure Guard Steelwall V1 Pressure Guard Steelwall.svg]]
+- Leads to [[02_Worldbuilding_Locations_Archive_of_Echoes]]
+- Connects to [[step_088 (phase_051)]]
+- Connects to [[The Deep Markets]]
+- Influences [[NPC01397_Orion_Emberfall_the_Guardian]]
+- Requires [[Quest - Memory Restoration 2]]
+- Requires [[Elite Wind Rider Captain]]
+- Related: [[The Festival Archives]]
+- Influences [[step_001]]
+- Compare with [[step_037 (phase_029)]]
+- Originates from [[location-city-depth-merchants-depth-merchants.svg]]
+- Compare with [[Deepcaster]]
+- Connects to [[Location City Memory Coral Reefs Memory Coral Reefs.svg]]
+- Parallels [[SPELL00035_Arcane_Spell_36]]
+- Affected by [[ITEM00610_Enchanted_Gauntlets_of_Fortitude]]
+- Influences [[step_049 (phase_040)]]
+- Compare with [[Transmute Rock Xge]]

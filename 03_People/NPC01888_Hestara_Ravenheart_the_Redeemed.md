@@ -1,6 +1,6 @@
 ---
-aliases: ["Hestara Ravenheart the Redeemed", "hestara ravenheart the redeemed", "Hestara Ravenheart Redeemed", "Redeemed the Ravenheart Hestara"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Hestara Ravenheart the Redeemed", "hestara ravenheart the redeemed", "Hestara Ravenheart Redeemed", "Redeemed the Ravenheart Hestaratags: [npc, character, combat, magic, social, lore]er]
 type: npc
 ---
 
@@ -145,3 +145,147 @@ Provides information for a price
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Commoner** (MM p.345)
+Modifications:
+- HP: 29
+- AC: 14
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Leads to [[LORE00118_History_Entry_119]]
+- Originates from [[step_073]]
+- Originates from [[Troglodyte Xmm]]
+- Requires [[Location City Historical Prophetic Analysis Historical Prophetic Analysis.svg]]
+- Leads to [[Duke Hadal]]
+- Parallels [[Quest - The Pretender_3 (01_Adventures)]]
+- Compare with [[ITEM00996_Pure_Herb_of_Swiftness]]
+- Related: [[ITEM00510_Warded_Boots_of_Grace]]
+- See also: [[Quality Inspector Wave Purewater 2]]
+- See also: [[step_059]]
+- Related: [[Political Compromise Costs]]
+- Affected by [[Far Realm Incursions]]
+- Related: [[step_067 (phase_027)]]
+- Requires [[ITEM00301_Radiant_Hammer_of_Speed]]
+- Connects to [[step_065 (phase_090)]]
+- Affected by [[vegepygmy-mpmm (plant)]]
+- Compare with [[Location City Royal Palace of Meridian V1 Royal Palace of Meridian.svg]]
+- Originates from [[The Convergence Entity 2]]
+- Requires [[Burrow Speed Xphb]]
+- Connects to [[The Community Feast Halls (Places)]]
+- See also: [[LOC00134_Towns_Location_135]]
+- Compare with [[Location City Community Organizations V1 Community Organizations.svg]]
+- Compare with [[step_031]]
+- Affected by [[Blood Price Protocol]]
+- See also: [[Wanted_Poster]]
+- Affected by [[Quest - Harbor Security 2]]
+- Related: [[Resonance Bomb (D&D_References)]]
+- Related: [[step_070 (phase_056)]]
+- Originates from [[step_078 (phase_068)]]
+- Leads to [[Council of Depths 3 (D&D_References)]]
+- Connects to [[List Spells Classes Light Domain Xphb]]
+- Originates from [[Equipment Sizes Phb]]
+- Originates from [[Manes Vaporspawn Xmm]]
+- Connects to [[The Great Shattering 2]]
+- Influences [[EVENT00075_Natural_Event_76]]
+- See also: [[FAC00007_Guilds_8]]
+- Compare with [[step_034 (phase_008)]]
+- Connects to [[QUEST00042_Main_Quest_43]]
+- Influences [[Doctor Helena Voidwalker]]
+- Related: [[ITEM01082_Greater_Herb_of_Fortune]]
+- Leads to [[EVENT00023_Natural_Event_24]]
+- See also: [[The Grove Keepers (D&D_References)]]
+- Influences [[Economic Architect Dr. Prosperity Sharewell]]
+- Connects to [[High Stormcaller Cirrus Cloudweaver]]
+- See also: [[Glaive Xphb]]
+- See also: [[adult-brass-dragon-xmm]]
+- Compare with [[Whip Xphb]]
+- Leads to [[02_Worldbuilding_Factions_The_Order_of_the_Veil]]
+- Leads to [[Tidal Council]]
+- Leads to [[ITEM00799_Celestial_Chalice_of_Destiny]]
+- See also: [[step_002 (phase_062)]]
+- Leads to [[Master of Whispers Shade-Tongue Aldric]]
+- Compare with [[The Deep Harvest (D&D_References)]]
+- Connects to [[04_Resources_Assets_Locations_location-city-astrologer-prime-cassandra-starweaver-v1-astrologer-prime-cassandra-starweaver.svg]]
+- Originates from [[portrait-npc-the-king-s-ears-the-king-s-ears.svg]]
+- Related: [[Archshadow Voice Shadowspeak]]
+- Related: [[step_032]]
+- Leads to [[step_010 (phase_068)]]
+- Connects to [[Webs Xdmg]]
+- Parallels [[Location City Coral Reef Sanctuaries V1 Coral Reef Sanctuaries.svg]]
+- Parallels [[cranium-rat-mpmm (aberration)]]
+- Related: [[NPC00116_Branwen_Silverleaf]]
+- Affected by [[Market Squar]]
+- Requires [[Purification Order (Orders)]]
+- Originates from [[step_078 (phase_062)]]
+- Requires [[Crystal-Powered Vessels (D&D_References)]]
+- Connects to [[list-spells-classes-eldritch-knight-xphb (lists)]]
+- Influences [[Location City Whisper Touched William V1 Whisper Touched William.svg]]
+- Compare with [[object-hit-points (tables)]]
+- Requires [[step_051]]
+- Affected by [[step_050 (phase_084)]]
+- Requires [[Assets Locations Location City Magnus Ledgerkeep Magnus Ledgerkeep.svg]]
+- Related: [[SPELL00070_Divine_Spell_71]]
+- See also: [[QUEST0012_In_Search_of_Truth]]
+- Affected by [[step_073 (phase_091)]]
+- Leads to [[Aethermoor Trade Commission 2]]
+- Affected by [[step_026]]
+- Requires [[SHOP00003_Magical_Shop_4]]
+- Parallels [[LORE00191_History_Entry_192]]
+- Compare with [[ENC00274_Combat_Encounter_275]]
+- See also: [[NPC00138_Nerys_Ravenheart_the_Risen]]
+- Parallels [[The Paradox Gardens]]
+- Affected by [[Adamantine Ammunition Xge]]
+- Related: [[Portrait NPC Reflection Captain Vantage Reflection Captain Vantage.svg]]
+- Influences [[step_005]]
+- Affected by [[step_099 (phase_043)]]
+- Connects to [[ITEM00587_Dragon_Scale_Helm_of_Protection]]
+- Leads to [[Location City Causality Shadow Causality Shadow.png]]
+- Related: [[Madame Crystal Eye]]
+- Affected by [[The Memory Meadows Black Market (D&D_References)]]
+- Originates from [[pan-flute-xphb (items)]]
+- Requires [[Border Castles]]
+- Influences [[Assets Locations Location City Noble Titles and Ranks V1 Noble Titles and Ranks.svg]]
+- Connects to [[ITEM00724_Divine_Crown_of_Destiny]]
+- Leads to [[step_088 (phase_053)]]
+- Compare with [[step_056 (phase_080)]]
+- Related: [[Influence Detector (D&D_References)]]
+- Leads to [[NPC01087_Orion_Winterborn_the_Scholar]]
+- Influences [[Ω_System-CLI-spells-school-transmutation (Lore)]]
+- Requires [[Thief of Five Fates]]

@@ -1,6 +1,6 @@
 ---
-aliases: ["Rhiannon Brightblade", "rhiannon brightblade", "Brightblade Rhiannon"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Rhiannon Brightblade", "rhiannon brightblade", "Brightblade Rhiannontags: [npc, character, combat, magic, lore]er]
 type: npc
 ---
 
@@ -147,3 +147,132 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Guard** (MM p.347)
+Modifications:
+- HP: 42
+- AC: 14
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Affected by [[LORE00261_Prophecies_Entry_262]]
+- Connects to [[step_076 (phase_023)]]
+- Requires [[The Soul Forge]]
+- Compare with [[NPC00746_Gavril_Winterborn_the_Risen]]
+- See also: [[Geometric Tidepools (D&D_References)]]
+- Related: [[step_072 (phase_044)]]
+- Influences [[Coded Reflection Language]]
+- Influences [[trebuchet-xdmg (objects)]]
+- Originates from [[gnome-tables-gnome-bonds-mtf (tables)]]
+- Leads to [[Healer Marina Greenboug]]
+- Leads to [[Whisper Ward Amulet (D&D_References)]]
+- Influences [[Assets Portraits Portrait NPC the Depth Wardens the Depth Wardens.svg]]
+- Compare with [[LOC00108_Planes_Location_109]]
+- Parallels [[NPC01168_Faelyn_Ashford_the_Lost]]
+- Related: [[Assets Locations Location City the Temporal Convergence Storms V1 the Temporal Convergence Storms.svg]]
+- Influences [[Location City Artist Wave Creator Artist Wave Creator.svg]]
+- Connects to [[nonhuman-maglubiyet (deities)]]
+- Compare with [[FAC00040_Cults_41]]
+- Influences [[Scene Scene the Party S First Glimpse of Abyssos Prime the Party S First Glimpse of Abyssos Prime.png]]
+- Originates from [[Crystal Keepers (D&D_References)]]
+- Requires [[SPELL0048_Arcane_Binding]]
+- Influences [[Abyssal Steel 2]]
+- Requires [[step_075 (phase_081)]]
+- Connects to [[04 Creating Adventures]]
+- Requires [[Location City Deep Watchfulrest V1 Deep Watchfulrest.svg]]
+- Influences [[paper-whirlwind-rot (construct)]]
+- Influences [[The Suicide Bridges]]
+- Influences [[gith-tables-githyanki-bonds-mtf (tables)]]
+- Requires [[Cosmic Horror Conditioning]]
+- Connects to [[The Artisans' Collective 2]]
+- See also: [[Item Artifact Explorers Pack Xphb V3 Explorers Pack Xphb.png]]
+- Leads to [[copper-dragon-xmm (legendary-group)]]
+- Parallels [[step_097 (phase_057)]]
+- Originates from [[Professor Diana Shadowbane]]
+- See also: [[Location City Keeper of Secrets Whisper Darkhold V1 Keeper of Secrets Whisper Darkhold.svg]]
+- Parallels [[The Shard Resonance]]
+- Influences [[LORE00046_Legends_Entry_47]]
+- Affected by [[Portrait NPC the Bloodline Carrier the Bloodline Carrier.svg]]
+- See also: [[step_089 (phase_034)]]
+- Influences [[step_080]]
+- Parallels [[step_097]]
+- Compare with [[The Cerulean Breath (People)]]
+- Compare with [[Tenebrarum (People)]]
+- Compare with [[ITEM0098_Cursed_Tome_of_the_Dawn]]
+- Compare with [[LOC0100_Haventon]]
+- Compare with [[step_029 (phase_012)]]
+- Leads to [[giant-bat-xmm (beast)]]
+- Parallels [[MON00118_Undead_Creature_119]]
+- Requires [[LOC00133_Wilderness_Location_134]]
+- Parallels [[Grand Master Tempest Windvoic]]
+- Influences [[QUEST00060_Main_Quest_61]]
+- Affected by [[Hereditary House 2]]
+- Influences [[Session 24 - New Horizons]]
+- Originates from [[step_064 (phase_059)]]
+- Originates from [[ITEM00985_Pure_Potion_of_Fortune]]
+- Connects to [[ITEM00426_Mithril_Helm_of_the_Guardian]]
+- Parallels [[step_022]]
+- Parallels [[Travel Calculator (D&D_References)]]
+- Leads to [[Biological Authentication Scanner]]
+- Related: [[Master Artificer Coral Gemwright (NPCs)]]
+- Influences [[Session 5 the Wind Singer]]
+- Influences [[NPC00876_Hilda_Hawthorne_the_Mystic]]
+- Affected by [[Portrait NPC Zephyr Goldwhisper V2 Zephyr Goldwhisper.svg_1 (Portraits)]]
+- Affected by [[Location City Keeper Temporal Safehaven Keeper Temporal Safehaven.svg]]
+- Leads to [[Voluntary Taxation]]
+- Leads to [[urban-encounters-levels-14-xge (tables)]]
+- Requires [[Noble Houses of Aethermoor]]
+- See also: [[step_023 (phase_084)]]
+- Affected by [[Quick_Start_Guide.md]]
+- Connects to [[Depth Plague]]
+- Compare with [[FAC00063_Cults_64]]
+- Influences [[SPELL00087_Divine_Spell_88]]
+- Leads to [[ENC00298_Social_Encounter_299]]
+- Related: [[Inter-Realm Trade Routes]]
+- Originates from [[step_069]]
+- Connects to [[Portrait NPC Jasper Three Eyes Flint Jasper Three Eyes Flint.png_1 (Portraits)]]
+- Compare with [[QUEST00337_Side_Quest_338]]
+- Parallels [[The Crystal Cult (Cults_and_Movements)]]
+- Compare with [[step_051 (phase_090)]]
+- Connects to [[list-spells-backgrounds-witherbloom-student-scc]]
+- Parallels [[Shadow Ability Ethics 2]]
+- Influences [[Multi-Phase Boss Fights]]
+- Requires [[step_099]]
+- Originates from [[step_055 (phase_062)]]
+- Connects to [[step_089 (phase_005)]]
+- Related: [[Introduction]]
+- Compare with [[QUEST00179_Side_Quest_180]]
+- Parallels [[step_080 (phase_026)]]
+- Parallels [[Assets Art the Last Dance.png]]
+- Requires [[Weather_And_Seasons.md]]
+- Influences [[step_060 (phase_017)]]
+- Related: [[fortifications-maintenance-costs-xdmg (tables)]]
+- Influences [[ITEM0087_Hidden_Crown_of_the_Dawn]]
+- See also: [[Intelligence Processing Center (D&D_References)]]
+- See also: [[NPC00908_Brenna_Ashford_the_Strong]]
+- Affected by [[LOC0006_OldHaven]]
+- Parallels [[LOC00168_Planes_Location_169]]
+- Requires [[Shadow Kraken (D&D_References)]]
+- Parallels [[Bone Scribes (D&D_References)]]
+- Originates from [[step_029 (phase_033)]]

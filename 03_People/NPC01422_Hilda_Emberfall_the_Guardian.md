@@ -1,4 +1,5 @@
 ---
+created: 2025-08-15
 aliases: ["Hilda Emberfall the Guardian", "hilda emberfall the guardian", "Hilda Emberfall Guardian", "Guardian the Emberfall Hilda"]
 tags: [npc, character]
 type: npc
@@ -151,3 +152,142 @@ Forming expedition to dangerous location
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Mordenkainen's Tome of Foes (MTF) p.108
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+- **Spellcasting**: See PHB p.201-205
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Leads to [[ITEM01024_Distilled_Salve_of_Fortune]]
+- Requires [[treasure-xdmg (tables)]]
+- Compare with [[step_036]]
+- Connects to [[Template_Planet_Placeholder.png_2 (09_Templates)]]
+- Requires [[04_Resources_Assets_Locations_location-city-master-archivist-thomas-scrollkeeper-v1-master-archivist-thomas-scrollkeeper.png]]
+- Influences [[Sacred Healing Springs (D&D_References)]]
+- Connects to [[portrait-npc-assassin-assassin.svg_1 (Portraits)]]
+- Influences [[LOC00254_Planes_Location_255]]
+- Compare with [[LOC00169_Dungeons_Location_170]]
+- Originates from [[Assets Locations Location City the Sunken Library of Thalassius the Sunken Library of Thalassius.svg]]
+- Related: [[Dawn War Vecna Dmg]]
+- See also: [[Inter-Dimensional Artifacts Museum]]
+- See also: [[NPC0136_Quinn_Darkwater_the_Ancient]]
+- Influences [[earth-elemental-myrmidon-mpmm (elemental)]]
+- Requires [[DUN00165_Dungeon_166]]
+- Requires [[Culinary Dreamweaver Sage Gentlespice 2]]
+- Connects to [[She-Who-Sees-Beyond 2]]
+- Influences [[Hobgoblin Devastator Mpmm]]
+- Parallels [[step_056]]
+- Related: [[SPELL00101_Divine_Spell_102]]
+- Compare with [[NPC01722_Branwen_Oakenshield_the_Mystic]]
+- Parallels [[The Hopekeeper Academy]]
+- Connects to [[NPC00469_Delara_Oakenshield_the_Seeker]]
+- Leads to [[step_100]]
+- Connects to [[step_048 (phase_037)]]
+- Affected by [[tankard-of-plenty-hotdq (items)]]
+- Parallels [[Assets Locations Location City Court Herald Master Proclamation Crownvoice Court Herald Master Proclamation Crownvoice.svg]]
+- Affected by [[Assets Portraits Portrait NPC Merchant Captain Tobias Stormwind Merchant Captain Tobias Stormwind.svg]]
+- Leads to [[Portrait NPC Vespara Nightwhisper Thorne Vespara Nightwhisper Thorne.svg_1 (Portraits)]]
+- Influences [[step_098]]
+- Connects to [[Atmospheric Research Society]]
+- Influences [[Bestiary - Aquabyssos Creature Compendium]]
+- Connects to [[QUEST0082_In_Search_of_Redemption]]
+- Affected by [[Location City Shadow Trackhound V1 Shadow Trackhound.svg]]
+- Requires [[Royal Palace 2]]
+- Requires [[Unified Aquabyssos Legal Code]]
+- Originates from [[step_032 (phase_091)]]
+- See also: [[red-dragon-wyrmling-xmm (dragon)]]
+- Compare with [[step_033]]
+- Originates from [[dual-wielder-xphb (feats)]]
+- See also: [[step_042 (phase_087)]]
+- See also: [[LOC00134_Dungeons_Location_135]]
+- Influences [[Ecosystem_Simulation_Engine (D&D_References)]]
+- Connects to [[step_078 (phase_093)]]
+- Affected by [[02_Worldbuilding_Lore_Censorship_Magic]]
+- Influences [[Doctor_Silas_Voidtouch.png]]
+- See also: [[step_070 (phase_023)]]
+- Affected by [[location-city-high-court-high-court.svg]]
+- Influences [[step_031]]
+- Parallels [[Portrait NPC Captain Sterling Lightshield V2 Captain Sterling Lightshield.svg]]
+- Leads to [[Assets Locations Location City the Last Dance the Last Dance.svg]]
+- Leads to [[The Whisper Core Chamber]]
+- See also: [[Paradox Legal Counsel 2]]
+- Connects to [[step_036 (phase_047)]]
+- Compare with [[norse-njord (deities)]]
+- Originates from [[The Wind Roads (D&D_References)]]
+- Parallels [[step_013 (phase_089)]]
+- Compare with [[MON00153_Undead_Creature_154]]
+- Affected by [[The Cleaner]]
+- Related: [[paladin-xphb-oath-of-the-ancients-xphb (classes)]]
+- Connects to [[Mixed_Events_Pack_B]]
+- Connects to [[step_045 (phase_064)]]
+- Requires [[Tinderstrike Pota]]
+- Leads to [[step_017 (phase_067)]]
+- Influences [[step_011 (phase_094)]]
+- Connects to [[Mechanics Shadow Surgery]]
+- Parallels [[LORE00134_Legends_Entry_135]]
+- Connects to [[life-events-xge (tables)]]
+- Originates from [[Phantom Metropolis]]
+- See also: [[NPC00433_Vesper_Emberfall_the_Fallen]]
+- Compare with [[step_004 (phase_034)]]
+- Affected by [[step_046]]
+- Affected by [[ITEM00866_Ancient_Amulet_of_the_Gods]]
+- Requires [[Memory Extraction Laboratory]]
+- Parallels [[The Great Resonance]]
+- Parallels [[EVENT00036_Political_Event_37]]
+- Originates from [[SHOP00065_Specialty_Shop_66]]
+- Originates from [[NPC00915_Qadim_Ravenheart_the_Swift]]
+- Requires [[Fine Wine Bottle Xphb]]
+- Related: [[02_Worldbuilding_Factions_The_Void_Sculptors]]
+- See also: [[Identify Important Npcs Adventure Allies]]
+- Originates from [[02_Worldbuilding_Tactics_Pressure_Differential]]
+- Originates from [[The Listener's Code (D&D_References)]]
+- Related: [[SPELL00050_Divine_Spell_51]]
+- Originates from [[step_077]]
+- See also: [[step_032]]
+- Influences [[Federation of Crystal Trader]]
+- Leads to [[NPC01791_Aeliana_Oakenshield_the_Bold]]
+- Influences [[Sacred Historian Coral Deepscribe 2]]
+- Leads to [[NPC01578_Faelyn_Brightblade_the_Lost]]
+- Originates from [[step_093]]
+- Related: [[Stormwatch Keep 2]]
+- Influences [[ITEM00169_Shadow_Bow_of_Power]]
+- Requires [[Oni Xmm]]
+- Leads to [[ITEM01255_Refined_Potion_of_Clarity]]
+- Requires [[step_013 (phase_025)]]
+- Influences [[step_012 (phase_082)]]
+- Influences [[NPC00206_Hestara_Frostwhisper_the_Wanderer]]
+- Affected by [[step_059 (phase_038)]]
+- Affected by [[Quest - International Crisis]]

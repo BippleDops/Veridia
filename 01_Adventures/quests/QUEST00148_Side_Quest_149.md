@@ -37,3 +37,10 @@ Complete the side quest objective.
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+
+## Rewards
+- A map to greater treasures
+
+## Quest Hook
+A mysterious note arrives

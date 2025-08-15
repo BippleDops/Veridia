@@ -1,6 +1,6 @@
 ---
-aliases: ["Lyanna Winterborn the Wise", "lyanna winterborn the wise", "Lyanna Winterborn Wise", "Wise the Winterborn Lyanna"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Lyanna Winterborn the Wise", "lyanna winterborn the wise", "Lyanna Winterborn Wise", "Wise the Winterborn Lyannatags: [npc, character, combat, magic, social, exploration, puzzle, lore]er]
 type: npc
 ---
 
@@ -140,3 +140,135 @@ Has map to lost treasure
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Guard** (MM p.347)
+Modifications:
+- HP: 44
+- AC: 16
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Advantage**: See PHB p.173
+- **Combat**: See PHB p.189-198
+- **Conditions**: See PHB p.290-292
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Originates from [[step_090 (phase_022)]]
+- Connects to [[step_081 (phase_024)]]
+- Compare with [[step_030 (phase_093)]]
+- Leads to [[crusaders-shortsword-cos (items)]]
+- Affected by [[troglodyte-dmg (races)]]
+- Leads to [[SPELL00056_Nature_Spell_57]]
+- See also: [[ITEM00084_Blessed_Bow_of_Wounding]]
+- Affected by [[Ring of the Ram Xdmg]]
+- Affected by [[Embassy District]]
+- Leads to [[Port Meridian - Market District 2]]
+- Compare with [[Assets Locations Location City Artistic Communities V1 Artistic Communities.svg]]
+- Influences [[step_009]]
+- Leads to [[step_070]]
+- Requires [[step_079 (phase_068)]]
+- Affected by [[random-buildings-tavern-name-generator (tables)]]
+- Compare with [[step_009 (phase_099)]]
+- Parallels [[Kenku Dmg]]
+- Affected by [[step_029]]
+- Connects to [[ENC00077_Social_Encounter_78]]
+- Affected by [[step_011]]
+- Leads to [[Location City the Whisper Island Mystery V1 the Whisper Island Mystery.png]]
+- Compare with [[11-appendix-a-random-dungeons (dungeon-masters-guide-2014)]]
+- Originates from [[Engineer Shadowbuild 2]]
+- Originates from [[human-names-norse-female-xge 2 (tables)]]
+- Originates from [[step_003]]
+- See also: [[scarab-of-protection-xdmg (items)]]
+- Compare with [[Assets Item Artifact Mess Kit V6 Mess Kit.png]]
+- Leads to [[Ancient Mining Communities 2]]
+- Originates from [[step_051 (phase_035)]]
+- Related: [[City of Screams]]
+- Parallels [[githyanki-warrior-xmm (aberration)]]
+- Requires [[step_038 (phase_052)]]
+- Requires [[step_026]]
+- Connects to [[Count Harmony Celestine]]
+- Parallels [[step_063 (phase_017)]]
+- Compare with [[LOC00215_Dungeons_Location_216]]
+- Originates from [[INV-002.png]]
+- Parallels [[Deep Initiation 2]]
+- Requires [[QUEST00207_Personal_Quest_208]]
+- See also: [[1 DM Toolkit Home Dv]]
+- Leads to [[Greek Athena]]
+- See also: [[step_028 (phase_089)]]
+- Affected by [[step_064 (phase_088)]]
+- Compare with [[ITEM00589_Enchanted_Shield_of_Protection]]
+- Leads to [[Confusion Xphb]]
+- See also: [[LOC00156_Wilderness_Location_157]]
+- Requires [[step_056 (phase_020)]]
+- Influences [[dawn-war-ioun-dmg (deities)]]
+- Connects to [[LORE00085_Prophecies_Entry_86]]
+- Originates from [[Inverse Colonies 2]]
+- Connects to [[NPC0132_Magnus_Darkwater_the_Young]]
+- Parallels [[Kelp Highway 2]]
+- Influences [[ENC00187_Combat_Encounter_188]]
+- Compare with [[Cities]]
+- Leads to [[list-spells-school-abjuration (lists)]]
+- Parallels [[Shadow Chancellor (D&D_References)]]
+- See also: [[ENC00413_Combat_Encounter_414]]
+- Influences [[step_078 (phase_054)]]
+- Influences [[step_093 (phase_036)]]
+- Related: [[The Evolution Catalyst]]
+- Compare with [[LOC00243_Cities_Location_244]]
+- Connects to [[step_001 (phase_036)]]
+- Influences [[Location City Reflection Broker Mirrors V1 Reflection Broker Mirrors.svg]]
+- See also: [[04_Resources_Assets_Locations_location-city-grief-overwhelming-syndrome-grief-overwhelming-syndrome.svg]]
+- Parallels [[The Cloud Shepherd Guild]]
+- Connects to [[step_099 (phase_028)]]
+- Originates from [[Ring of Elemental Command Water Xdmg]]
+- Originates from [[NPC00835_Urien_Jadeclaw_the_Wanderer]]
+- Influences [[step_037]]
+- Leads to [[LOC00005_Dungeons_Location_6]]
+- See also: [[step_035 (phase_012)]]
+- See also: [[100_PERCENT_COMPLETE]]
+- See also: [[nolzurs-marvelous-pigments-xdmg (items)]]
+- Influences [[QUEST00050_Side_Quest_51]]
+- See also: [[DUN00122_Dungeon_123]]
+- See also: [[step_010]]
+- Parallels [[Treaty of Neutral Commerce (D&D_References)]]
+- See also: [[step_064 (phase_092)]]
+- Influences [[step_038 (phase_083)]]
+- See also: [[ring-mail-xphb (items)]]
+- Parallels [[NPC01396_Delara_Proudmore_the_Risen]]
+- Compare with [[Dr. Marina Voidseeker]]
+- Parallels [[step_067 (phase_060)]]
+- Influences [[Living Coral Architecture 2]]
+- Requires [[death-dog-xmm (monstrosity)]]
+- Originates from [[SPELL00012_Divine_Spell_13]]
+- Compare with [[Portrait NPC Nerissa Deepcurrent Nerissa Deepcurrent.svg_1 (Portraits)]]
+- Leads to [[step_035]]
+- Compare with [[Ambush Point]]
+- Originates from [[Port Meridian Council Chamber (D&D_References)]]
+- Related: [[Abyssos Prime - Pressure Terminal 2]]
+- Leads to [[step_084]]
+- Affected by [[step_048 (phase_025)]]
+- Requires [[SPELL00161_Arcane_Spell_162]]
+- Compare with [[Locations the Cosmic Library]]
+- See also: [[Portrait NPC Priest Faith Crystalsong V2 Priest Faith Crystalsong.svg_1 (Portraits)]]
+- Compare with [[step_037 (phase_084)]]
+- Leads to [[step_055]]
+- Connects to [[S-004_Cloud_Canyon_Player]]
+- Affected by [[Assets Handouts Handout Handout Ship Manifests with Stamps Ship Manifests with Stamps.png]]

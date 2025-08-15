@@ -5,6 +5,7 @@ tags:
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
+tags: [combat, magic, lore]
 ---
 
 # Player_Comfort_Check
@@ -168,3 +169,130 @@ Contextual improvement based on 07_Player_Resources
 ## 07_Player_Resources Specific Content
 
 Contextual improvement based on 07_Player_Resources
+
+
+> [!dm] DM Note
+> Ancient magic still lingers here
+
+## See Also
+- [[Related_Content]]
+
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+
+## Connections
+
+- Originates from [[ITEM00863_Ancient_Ring_of_Dominion]]
+- Parallels [[Deep-Root Caretaker Nereon (D&D_References)]]
+- Connects to [[LORE00149_Prophecies_Entry_150]]
+- Connects to [[Dawn War Erathis Dmg]]
+- Connects to [[The Phantom Current]]
+- Requires [[Location City Harvester Keth Reefrender V1 Harvester Keth Reefrender.svg]]
+- Affected by [[SHOP00022_Specialty_Shop_23]]
+- See also: [[jallarzis-storm-of-radiance-xphb (spells)]]
+- Parallels [[Community Support Networks 2]]
+- See also: [[Assets Locations Location City Port Crystalfall V1 Port Crystalfall.svg]]
+- Influences [[Assets Locations Location City the Hybrid Harbor V1 the Hybrid Harbor.svg]]
+- Requires [[QUEST00271_Personal_Quest_272]]
+- Requires [[LOC0085_LowerFalls]]
+- Originates from [[MON00107_Aberrations_Creature_108]]
+- Requires [[step_030 (phase_051)]]
+- Compare with [[step_036 (phase_021)]]
+- Affected by [[Oceanic Historical Society 2]]
+- Connects to [[Gold Gp]]
+- Connects to [[Coral Silkweaver 2]]
+- Compare with [[step_042 (phase_042)]]
+- Requires [[otyugh-xmm (aberration)]]
+- Affected by [[Acolyte Sister Tidal Deepfaith 2]]
+- Requires [[ITEM01291_Refined_Elixir_of_Fortune]]
+- Related: [[LOC00115_Cities_Location_116]]
+- Leads to [[ITEM01417_Ornate_Compass_of_Reliability]]
+- Requires [[Session 02 (Crystal_Plague)]]
+- Originates from [[Future Glimpse Glass]]
+- Parallels [[devastation-orb-of-earth-pota (items)]]
+- Affected by [[step_042]]
+- Originates from [[NPC01185_Dara_Grimholt_the_Bold]]
+- Affected by [[Flow Circlemaker 2]]
+- Influences [[step_068]]
+- Compare with [[step_077]]
+- Connects to [[LORE00310_History_Entry_311]]
+- Requires [[step_045 (phase_034)]]
+- Influences [[LOC0084_Hillwick]]
+- Requires [[step_010 (phase_040)]]
+- Requires [[ENC00478_Combat_Encounter_479]]
+- Compare with [[ITEM01376_Practical_Compass_of_Quality]]
+- Related: [[Border Patrol Unit]]
+- Originates from [[Crystal Resonance Networks]]
+- Influences [[04_Resources_Assets_Portraits_portrait-npc-captain-dr-bloodletting-captain-dr-bloodletting.svg_Quick_Ref]]
+- Parallels [[elven-fenmarel-mestarine-mtf (deities)]]
+- Influences [[Queen Seraphina 2]]
+- Influences [[step_041 (phase_004)]]
+- Related: [[Deck of Many Things]]
+- Influences [[augury-xphb (spells)]]
+- Leads to [[Portrait NPC Senator Glaucus V1 Senator Glaucus.svg]]
+- Affected by [[LOC00174_Cities_Location_175]]
+- Connects to [[ice-mephit-xmm]]
+- Connects to [[duergar-raiding-parties-duergar-special-allies-mtf]]
+- Leads to [[The Abyss Beneath Aquabyssos 2]]
+- Originates from [[NPC01128_Vesper_Jadeclaw_the_Swift]]
+- Parallels [[LORE00286_History_Entry_287]]
+- See also: [[step_011 (phase_094)]]
+- Affected by [[ITEM00139_Frost_Axe_of_Slaying]]
+- Connects to [[step_072]]
+- Parallels [[NPC 1 (D&D_References)]]
+- See also: [[Item Artifact Poisoners Kit Xphb V6 Poisoners Kit Xphb.png]]
+- Compare with [[LOC00211_Towns_Location_212]]
+- Compare with [[List Spells Classes College of Lore Xphb]]
+- Leads to [[Azer Sentinel Xmm]]
+- See also: [[step_075]]
+- Influences [[02_Worldbuilding_Spells_Memory_Mirror]]
+- Requires [[Shadow-Crystal Synthesis 2]]
+- Requires [[step_065 (phase_054)]]
+- Related: [[death-dog-xmm (monstrosity)]]
+- Affected by [[The Signal Keepers]]
+- Originates from [[LOC00202_Planes_Location_203]]
+- Connects to [[Elven Solonor Thelandira Mtf]]
+- Affected by [[mummy-lord-xmm]]
+- Influences [[step_044 (phase_043)]]
+- Related: [[Player_Handouts (D&D_References)]]
+- Affected by [[Beast Master Krell Chainbreaker (D&D_References)]]
+- See also: [[step_044 (phase_090)]]
+- Originates from [[step_043 (phase_041)]]
+- Connects to [[LORE00042_Prophecies_Entry_43]]
+- Related: [[QUEST00074_Main_Quest_75]]
+- Parallels [[LOC00206_Planes_Location_207]]
+- Compare with [[step_020 (phase_046)]]
+- See also: [[vampiric-touch-xphb (spells)]]
+- Parallels [[LOC00178_Towns_Location_179]]
+- Influences [[City_District_Map_Port_Meridian_Harbo]]
+- Parallels [[Portrait NPC Vespara Nightwhisper Thorne V1 Vespara Nightwhisper Thorne.svg]]
+- Requires [[item-artifact-ruby-xdmg-v5-ruby-xdmg.png]]
+- Related: [[SHOP00042_Specialty_Shop_43]]
+- Connects to [[step_059]]
+- See also: [[NPC01891_Wynne_Xendar_the_Seeker]]
+- Leads to [[FAC00099_Cults_100]]
+- Affected by [[Deep Script]]
+- Parallels [[The Golden Loom]]
+- Influences [[step_041]]
+- Compare with [[Temporal Locks]]
+- See also: [[step_019 (phase_048)]]
+- Connects to [[Assets Locations Location City Goldspire Port Goldspire Port.svg]]
+- Compare with [[The Azure Fleet Corporation]]
+- Connects to [[Location City Scepter of Winter S Command Scepter of Winter S Command.svg]]
+- Leads to [[step_094 (phase_087)]]
+- Connects to [[Portrait NPC Emperor Abyssal the Deep Sighted V2 Emperor Abyssal the Deep Sighted.svg_1 (Portraits)]]
+- Requires [[Dwarven Hanseath Mtf]]

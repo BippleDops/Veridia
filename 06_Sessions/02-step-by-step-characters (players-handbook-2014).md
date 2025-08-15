@@ -8,6 +8,7 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
+tags: [combat, magic, exploration, puzzle, lore]
 --- # 02-step-by-step-characters ---
 
 ## Description
@@ -130,3 +131,168 @@ world: Both
 ## Secrets
 - Hidden knowledge
 - Personal mysteries
+
+
+> [!dm] DM Note
+> This location connects to the main plot
+
+## Prep Checklist
+
+### Npcs Needed
+- [ ] List key NPCs for this session
+- [ ] Prepare voices and mannerisms
+
+### Locations
+- [ ] Review location descriptions
+- [ ] Prepare battle maps if needed
+
+### Encounters
+- [ ] Balance combat encounters
+- [ ] Prepare social encounter notes
+
+### Props
+- [ ] Handouts ready
+- [ ] Music/ambiance selected
+
+### Rules
+- [ ] Review relevant rules
+- [ ] Prepare quick reference
+
+## Campaign Connection
+Holds a clue about the ancient prophecy
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[10K_GENERATION_REPORT]]
+- [[ULTIMATE_VAULT_ACHIEVEMENT]]
+- [[NEXT_LEVEL_IMPROVEMENTS]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Compare with [[list-spells-optional-features-eldritch-sight (lists)]]
+- Influences [[step_027]]
+- Related: [[Otilukes Freezing Sphere Xphb]]
+- Requires [[step_006]]
+- Parallels [[step_054]]
+- See also: [[Forest Encounters Levels 14 Xge]]
+- Related: [[Thermal Truth Detector]]
+- Connects to [[Spell Scroll Level 5 Xdmg]]
+- Requires [[Robe of Stars Xdmg]]
+- Parallels [[Merchant of Shadows]]
+- Related: [[Witch Bolt Xphb]]
+- Originates from [[step_079 (phase_007)]]
+- See also: [[LOC00278_Planes_Location_279]]
+- Requires [[step_035 (phase_066)]]
+- Parallels [[ENC00057_Social_Encounter_58]]
+- Affected by [[LORE00247_Prophecies_Entry_248]]
+- Requires [[Ruby Xdmg]]
+- Compare with [[Kraken Priest Mpmm]]
+- Related: [[step_027 (phase_045)]]
+- Influences [[ENC00030_Social_Encounter_31]]
+- Related: [[step_029 (phase_078)]]
+- Leads to [[FAC00002_Guilds_3]]
+- Related: [[Vehicles - Merger Hybrid Vehicles]]
+- Leads to [[step_074]]
+- Parallels [[step_002]]
+- Influences [[step_051 (phase_079)]]
+- Originates from [[location-city-royal-vault-v1-royal-vault.svg]]
+- Connects to [[forgotten-realms-tyr (deities)]]
+- Originates from [[SPELL00126_Divine_Spell_127]]
+- Parallels [[NPC00990_Fiora_Moonshadow_the_Redeemed]]
+- Compare with [[ITEM00118_Cursed_Bow_of_Accuracy]]
+- Related: [[Deep Sea Environmental Specialist (D&D_References)]]
+- Compare with [[NPC00654_Orion_Winterborn_the_Swift]]
+- Requires [[step_060 (phase_060)]]
+- Compare with [[greyhawk-vecna-xdmg (deities)]]
+- Requires [[Treaty of Seven Skies (D&D_References)]]
+- See also: [[LOC00253_Dungeons_Location_254]]
+- See also: [[starting-equipment-starting-wealth-by-class-phb]]
+- See also: [[Portrait NPC High Chamberlain Nautilus Deepcurrent V2 High Chamberlain Nautilus Deepcurrent.svg]]
+- Influences [[EVENT00062_Natural_Event_63]]
+- Requires [[step_084]]
+- Requires [[Sky_Events_Pack_B]]
+- Compare with [[chrysoprase-xdmg (items)]]
+- Parallels [[Kelp Highway Security Forces]]
+- Related: [[The Smuggler's Den]]
+- See also: [[NPC01444_Pyria_Brightblade_the_Seeker]]
+- See also: [[Portrait NPC Reflection Pools V2 Reflection Pools.svg_1 (Portraits)]]
+- Leads to [[step_056 (phase_080)]]
+- Parallels [[LOC00161_Dungeons_Location_162]]
+- Leads to [[step_020]]
+- Connects to [[Portrait NPC Archbishop Mordecai Stormwright V2 Archbishop Mordecai Stormwright.svg_1 (Portraits)]]
+- Related: [[NPC01843_Branwen_Jadeclaw_the_Fallen]]
+- Originates from [[Location City Entertainment Industry Entertainment Industry.svg]]
+- Related: [[step_012]]
+- Connects to [[portrait-npc-the-soul-market-the-soul-market.svg]]
+- Influences [[LOC00044_Towns_Location_45]]
+- Compare with [[Nonhuman Deep Sashelas]]
+- Related: [[Dr Tidal Depth]]
+- Parallels [[step_035]]
+- Leads to [[step_060 (phase_070)]]
+- Requires [[Rules Reference]]
+- See also: [[Ancient Pacts 2]]
+- Compare with [[Symbol Heraldry Factional Conflicts Factional Conflicts.svg]]
+- Requires [[step_070 (phase_037)]]
+- Originates from [[eye-and-hand-of-vecna-xdmg (items)]]
+- Requires [[pteranodon-xmm (beast)]]
+- Related: [[bat-xmm (beast)]]
+- Originates from [[Campaign Guide]]
+- Compare with [[step_038 (phase_050)]]
+- Related: [[step_028]]
+- Leads to [[LOC00153_Planes_Location_154]]
+- Influences [[NPC01729_Kaelen_Dawnstrider_the_Fallen]]
+- Originates from [[LORE00115_Prophecies_Entry_116]]
+- Affected by [[fireball-fungus-xdmg (traps-hazards)]]
+- Leads to [[step_004 (phase_036)]]
+- Parallels [[Quest - The Final Tide 2]]
+- Originates from [[Crystal Addiction Victims (D&D_References)]]
+- Influences [[QUEST00215_Personal_Quest_216]]
+- See also: [[step_044]]
+- Requires [[NPC01000_Zephyr_Keenblade_the_Fallen]]
+- Originates from [[Location City Deep Studycurrent Deep Studycurrent.svg]]
+- Connects to [[Portrait NPC Quest the Divine Test V2 Quest the Divine Test.svg]]
+- Related: [[ENC00220_Social_Encounter_221]]
+- Requires [[EVENT00032_Political_Event_33]]
+- See also: [[LORE00278_History_Entry_279]]
+- Influences [[Council Speaker Tide 2]]
+- Originates from [[step_052 (phase_028)]]
+- Compare with [[Marina Currentflow]]
+- Originates from [[step_056]]
+- Related: [[Location Name (D&D_References)]]
+- See also: [[step_020 (phase_027)]]
+- Affected by [[Assets Locations Location City Martha Hillbrook Martha Hillbrook.svg]]
+- Requires [[step_075 (phase_061)]]
+- Related: [[Location City Military Intelligence Military Intelligence.svg]]
+- See also: [[Javelin of Lightning Xdmg]]
+- Requires [[Weapon Attack Xphb]]
+- Compare with [[Singing Coral 2]]
+- Parallels [[Stormwatch Keep]]
+- See also: [[Great Preparatio 2]]
+- Leads to [[step_079 (phase_004)]]

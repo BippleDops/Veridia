@@ -8,6 +8,7 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
+tags: [combat, magic, social, exploration, puzzle, lore]
 --- # 07-chapter-6-equipment ---
 
 ## Description
@@ -58,3 +59,185 @@ world: Both
 ## Notes
 
 *Additional notes*
+
+
+> [!dm] DM Note
+> This character is not who they seem
+
+## Prep Checklist
+
+### Npcs Needed
+- [ ] List key NPCs for this session
+- [ ] Prepare voices and mannerisms
+
+### Locations
+- [ ] Review location descriptions
+- [ ] Prepare battle maps if needed
+
+### Encounters
+- [ ] Balance combat encounters
+- [ ] Prepare social encounter notes
+
+### Props
+- [ ] Handouts ready
+- [ ] Music/ambiance selected
+
+### Rules
+- [ ] Review relevant rules
+- [ ] Prepare quick reference
+
+## Campaign Connection
+Connected to the main villain's plan
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Advantage**: See PHB p.173
+- **Combat**: See PHB p.189-198
+- **Conditions**: See PHB p.290-292
+- **Movement**: See PHB p.190-192
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Equipment: PHB p.143-161)*
+*(Weapons: PHB p.146-147)*
+*(Armor: PHB p.144-146)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Compare with [[Quest - The Defector]]
+- Connects to [[step_068 (phase_049)]]
+- Affected by [[step_089 (phase_088)]]
+- Influences [[location-city-market-mystery-market-mystery.svg]]
+- Parallels [[step_093 (phase_010)]]
+- Related: [[step_100 (phase_045)]]
+- Requires [[Memory Keeper Lament]]
+- Connects to [[Candle of Invocation Xdmg]]
+- See also: [[Young Bulette Pota]]
+- Connects to [[Emergency Signal Mirrors]]
+- Requires [[LOC00293_Wilderness_Location_294]]
+- Related: [[NPC01214_Corvus_Ashford_the_Fallen]]
+- Leads to [[step_082 (phase_006)]]
+- Compare with [[Potion of Supreme Healing Xdmg]]
+- Requires [[Sacred Flame]]
+- Related: [[LORE00223_History_Entry_224]]
+- Connects to [[telepathy-xphb (spells)]]
+- Compare with [[Centaur Warden Xmm]]
+- Connects to [[Swarm of Rot Grubs Mpmm]]
+- Requires [[Captain Thaddeus Stormwright (D&D_References)]]
+- Connects to [[Portrait NPC Fence Queen Sticky Fingers Sal V2 Fence Queen Sticky Fingers Sal.svg]]
+- Requires [[Scroll Mishaps]]
+- Parallels [[The Wake (D&D_References)]]
+- Influences [[The Floating Stacks]]
+- Compare with [[04_Resources_Assets_Portraits_portrait-npc-pirate-lords-of-the-spiral-depths-pirate-lords-of-the-spiral-depths.svg_Quick_Ref]]
+- Related: [[QUEST00141_Side_Quest_142]]
+- Affected by [[Assets Locations Location City the Harvest the Harvest.svg]]
+- Affected by [[ENC00218_Combat_Encounter_219]]
+- Compare with [[Share Handout]]
+- Originates from [[The Neutral Tavern (D&D_References)]]
+- Compare with [[step_048 (phase_075)]]
+- Leads to [[Purple Worm Xmm]]
+- Related: [[QUEST00369_Side_Quest_370]]
+- Connects to [[The Lighthouse of Storms]]
+- Connects to [[Memory Keeper Ancient Nerida]]
+- Requires [[Silver Necklace With a Gemstone Pendant Xdmg]]
+- Influences [[Portrait NPC Quest the Blackmail Papers V1 Quest the Blackmail Papers.svg]]
+- Parallels [[Treasurer Mint Coinwise]]
+- Originates from [[Navigator Saltwind (D&D_References)]]
+- Related: [[Marcus Clausewright 2]]
+- Leads to [[Sword of Answering Answerer]]
+- Leads to [[Assets Vehicles Vehicle Ship Depth Piercer Research Sub V2 Depth Piercer Research Sub.svg]]
+- Requires [[QUEST00070_Side_Quest_71]]
+- Compare with [[drow-high-magic-xge (feats)]]
+- Originates from [[The Love Bridge]]
+- Leads to [[The Neutral Zones]]
+- Compare with [[Level Advancement Without Xp]]
+- Related: [[Legal Defense Network]]
+- Leads to [[rod-of-security-xdmg (items)]]
+- Requires [[Quarterstaff of the Acrobat Xdmg]]
+- Related: [[burning-xphb (traps-hazards)]]
+- Affected by [[Military Bases (D&D_References)]]
+- Parallels [[step_048]]
+- See also: [[Captain Rodrigo Ironanchor]]
+- Affected by [[Location City Quieting the Depths Quieting the Depths.svg]]
+- Compare with [[gold-ring-set-with-bloodstones-xdmg (items)]]
+- Connects to [[ENC00176_Social_Encounter_177]]
+- Leads to [[Troll Limb Xmm]]
+- Connects to [[step_053]]
+- Related: [[Medic Captain Truewater (D&D_References)]]
+- Requires [[step_083 (phase_047)]]
+- Influences [[Create_New_Session.png_1 (Art)]]
+- Affected by [[step_050 (phase_042)]]
+- Compare with [[elemental-adept-xphb (feats)]]
+- Leads to [[The Deep Prophets 2]]
+- Originates from [[Shadow Nullification Field]]
+- Leads to [[Forgotten Realms Lathander]]
+- Influences [[Coastal Communities]]
+- Originates from [[LOC00158_Dungeons_Location_159]]
+- Affected by [[The Great Crystallization 3 (D&D_References)]]
+- Originates from [[step_025 (phase_019)]]
+- Influences [[SPELL00095_Nature_Spell_96]]
+- Influences [[Gateway Keeper Riftwalk (D&D_References)]]
+- Influences [[location-city-captain-marcus-v1-captain-marcus.svg]]
+- Influences [[Giant Seahorses]]
+- Connects to [[Deep_Mother_Corruption_Warning]]
+- Connects to [[Master Chef Umami Deepfeast]]
+- Affected by [[step_090]]
+- Connects to [[Assets Locations Location City Depth Merchants Depth Merchants.svg]]
+- Connects to [[NPC0060_Ulric_Ironforge]]
+- Parallels [[step_058 (phase_087)]]
+- See also: [[DUN00117_Dungeon_118]]
+- Related: [[Archshadow Nerissa Deepcurrent]]
+- Compare with [[thunderwave-xphb (spells)]]
+- Influences [[The Crystal Caverns]]
+- Originates from [[Cultural Heritage Center]]
+- See also: [[charm-of-darkvision-xdmg (rewards)]]
+- Connects to [[The Vault Keepers]]
+- Influences [[Portrait NPC Crystal Plague Infected Npcs Crystal Plague Infected Npcs.svg_1 (Portraits)]]
+- Connects to [[Portrait NPC Captain Nerida Stormcrest V1 Captain Nerida Stormcrest.svg]]
+- Requires [[location-city-tribune-cassia-v1-tribune-cassia.svg]]
+- Leads to [[Lord Commander Thorne]]
+- Parallels [[Crystal Magic 2]]
+- Parallels [[The Evolution District]]
+- See also: [[merrenoloth-mpmm (fiend)]]
+- Leads to [[step_042]]
+- Requires [[Crystal Architecture Philosophy]]
+- Leads to [[Location City Crown of Eternal Ice V1 Crown of Eternal Ice.svg]]
+- Compare with [[Portrait NPC Abyssos Prime Government V2 Abyssos Prime Government.svg]]
+- Parallels [[Eastern Kingdoms 2]]

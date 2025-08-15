@@ -1,6 +1,5 @@
 ---
-enhanced: true
-tags: [enhanced, 09_performance]
+enhanced: trtags: [enhanced, 09_performance, combat, exploration, puzzle, lore]ce]
 created: 2025-08-15T12:24:36.107709
 modified: 2025-08-15T12:24:36.107710
 aliases: [ONE MILLION ACHIEVED]
@@ -231,3 +230,127 @@ Your vault doesn't just contain your campaign - it represents the absolute pinna
 
 ## Thematic Elements
 This content explores themes of power and corruption, adding narrative depth to your campaign.
+
+> [!dm] DM Note
+> The villain has agents watching this place
+
+## See Also
+- [[Related_Content]]
+
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Related: [[Purification Order (Orders)]]
+- Connects to [[Elder Willow Moonwhisper (D&D_References)]]
+- Leads to [[step_020]]
+- Originates from [[step_017 (phase_084)]]
+- Affected by [[Assets Portraits Portrait NPC Pilgrim Guide Samuel Walkingfaith Pilgrim Guide Samuel Walkingfaith.svg]]
+- Affected by [[step_011 (phase_047)]]
+- Affected by [[Trade Commissioner Coral Goldbalance]]
+- Influences [[EVENT00061_Political_Event_62]]
+- Related: [[Eberron the Fury]]
+- Affected by [[bard-xphb-college-of-valor-xphb (classes)]]
+- Related: [[kruthik-hive-lord-mpmm (monstrosity)]]
+- Affected by [[step_019 (phase_020)]]
+- Related: [[University of Current Studies]]
+- Originates from [[LORE0016_Legend_of_the_First_King]]
+- Affected by [[Dr Reef Brightwater]]
+- Originates from [[Pressure Lords (D&D_References)]]
+- Connects to [[Seal Keepers 2]]
+- Requires [[step_074 (phase_025)]]
+- Originates from [[LORE00332_History_Entry_333]]
+- Requires [[Emperor Thalassius the Wise (D&D_Statblocks)]]
+- Compare with [[Surface World Theories]]
+- Compare with [[psychic-wind-location-effects-xdmg (tables)]]
+- Related: [[Location City Crystalline Wastes Crystalline Wastes.svg]]
+- See also: [[step_053 (phase_039)]]
+- Requires [[list-spells-classes-oath-of-devotion-xphb (lists)]]
+- Requires [[dragonlance-majere-phb (deities)]]
+- Affected by [[ale-gallon (items)]]
+- Influences [[abominable-yeti-xmm]]
+- Connects to [[step_006 (phase_029)]]
+- Affected by [[step_058 (phase_037)]]
+- Compare with [[Keeper Thundercall 2]]
+- Connects to [[step_035 (phase_100)]]
+- Connects to [[QUEST00070_Main_Quest_71]]
+- Leads to [[portrait-npc-the-cure-v1-the-cure.svg_1 (Portraits)]]
+- Leads to [[step_005 (phase_062)]]
+- Related: [[Shadow-Touched Mine Foreman Brokk]]
+- See also: [[Warhorse Skeleton Xmm]]
+- Connects to [[Assets Locations Location City the Wandering Atoll V1 the Wandering Atoll.svg]]
+- Parallels [[Silver Dragon Wyrmling Xmm]]
+- Influences [[step_076 (phase_040)]]
+- Related: [[giant-insect-xphb (spells)]]
+- Originates from [[ENC00441_Combat_Encounter_442]]
+- Leads to [[step_074]]
+- Related: [[Portrait NPC Free Current Safe Houses V1 Free Current Safe Houses.svg]]
+- Connects to [[Aquabyssos World Overview#The Surface Seekers]]
+- Originates from [[Archivist Supreme Indexa (D&D_References)]]
+- Originates from [[step_057]]
+- Influences [[LOC00236_Towns_Location_237]]
+- Parallels [[Eldritch Knowledg]]
+- Affected by [[Symbol Heraldry Ech... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- See also: [[Council of Admiralties]]
+- Leads to [[step_046 (phase_019)]]
+- Connects to [[NPC00921_Qadim_Frostwhisper_the_Seeker]]
+- Affected by [[The Soul Forge]]
+- Related: [[Player_Handout_Aquabyssos_Submarines]]
+- Leads to [[ENC00062_Social_Encounter_63]]
+- Related: [[Bio-Integration Researcher Coral Lifeshaper 2]]
+- Connects to [[detect-magic-xphb (spells)]]
+- Compare with [[LOC00149_Wilderness_Location_150]]
+- Originates from [[DUN00043_Dungeon_44]]
+- Influences [[ITEM00042_Cursed_Staff_of_Power]]
+- Connects to [[LOC0121_Bridgeford]]
+- Related: [[conditions#Petrified]]
+- Related: [[astral-brig-mtf (vehicles)]]
+- Influences [[step_069 (phase_040)]]
+- Affected by [[step_025 (phase_035)]]
+- Requires [[step_060 (phase_046)]]
+- Originates from [[Instructor Combat Shadow]]
+- See also: [[04_Resources_Assets_Locations_location-city-port-nimbus-v1-port-nimbus.svg]]
+- Requires [[elemental-gem-xdmg (items)]]
+- Compare with [[step_084 (phase_083)]]
+- Connects to [[Magical Theory (D&D_References)]]
+- Connects to [[step_080 (phase_069)]]
+- Influences [[LOC00040_Towns_Location_41]]
+- Leads to [[SPELL00118_Arcane_Spell_119]]
+- Requires [[Crystal Corruption 2]]
+- Affected by [[silver-necklace-with-a-gemstone-pendant-xdmg (items)]]
+- Connects to [[Baroness Seraphina Moonweaver]]
+- Compare with [[LOC00176_Cities_Location_177]]
+- Related: [[step_067 (phase_007)]]
+- Related: [[Location City Surface Expert Grainwise V1 Surface Expert Grainwise.svg]]
+- Originates from [[Assets Locations Location City Crystal Powered Vessels V1 Crystal Powered Vessels.svg]]
+- See also: [[LOC0077_NewPeak]]
+- Related: [[QUEST00012_Main_Quest_13]]
+- Affected by [[The Children's Grotto (D&D_References)]]
+- Parallels [[LORE00226_History_Entry_227]]
+- Influences [[step_010 (phase_057)]]
+- Related: [[QUEST00055_Main_Quest_56]]
+- See also: [[step_022 (phase_079)]]
+- Influences [[location-city-royal-treasury-v1-royal-treasury.svg]]
+- Originates from [[step_035]]
+- Affected by [[The Lost Shipment (D&D_References)]]
+- Related: [[Assets Portraits Portrait NPC the Ancient Nobility the Ancient Nobility.svg]]
+- Originates from [[Location City Healer Tide Touch Healer Tide Touch.svg]]
+- Influences [[Hereditary House (D&D_References)]]
+- Connects to [[step_060 (phase_014)]]
+- Compare with [[The Crystal Pier (D&D_References)]]
+- Parallels [[SPELL00120_Arcane_Spell_121]]
+- See also: [[The Drowning Welcome (D&D_References)]]
+- Parallels [[step_004 (phase_014)]]

@@ -8,6 +8,7 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
+tags: [combat, magic, exploration, lore]
 --- # 12-spells ---
 
 ## Description
@@ -58,3 +59,169 @@ world: Both
 ## Notes
 
 *Additional notes*
+
+
+> [!dm] DM Note
+> This NPC knows more than they let on
+
+## Prep Checklist
+
+### Npcs Needed
+- [ ] List key NPCs for this session
+- [ ] Prepare voices and mannerisms
+
+### Locations
+- [ ] Review location descriptions
+- [ ] Prepare battle maps if needed
+
+### Encounters
+- [ ] Balance combat encounters
+- [ ] Prepare social encounter notes
+
+### Props
+- [ ] Handouts ready
+- [ ] Music/ambiance selected
+
+### Rules
+- [ ] Review relevant rules
+- [ ] Prepare quick reference
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[11 Rules Glossary]]
+- [[AUTONOMOUS_SYSTEM_ACTIVE]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+- **Movement**: See PHB p.190-192
+- **Spellcasting**: See PHB p.201-205
+
+
+## Thematic Connections
+- Magical theory from [[Schools of Magic]]
+- Spell components and [[Material Components]]
+- Wild magic effects via [[Chaos Magic]]
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Equipment: PHB p.143-161)*
+*(Weapons: PHB p.146-147)*
+*(Armor: PHB p.144-146)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Influences [[step_048 (phase_057)]]
+- See also: [[Temporal Protection (D&D_References)]]
+- Influences [[Ranger Skybow]]
+- Requires [[poltergeist-xmm (undead)]]
+- Requires [[EVENT00066_Natural_Event_67]]
+- Parallels [[LORE00033_Prophecies_Entry_34]]
+- See also: [[Wind Singer]]
+- Connects to [[ITEM00109_Shadow_Axe_of_Accuracy]]
+- Related: [[step_005]]
+- Parallels [[Neural Pathway Rebuilder]]
+- Parallels [[step_030]]
+- See also: [[Order of the Shattered Crown]]
+- See also: [[LORE00270_Legends_Entry_271]]
+- Compare with [[Location City the Contract Archive the Contract Archive.svg]]
+- Requires [[NPC_Reactions_Quick_Ref]]
+- Compare with [[Chancellor Marcus Provinces]]
+- Originates from [[Pressure Angel Benthia (D&D_Statblocks)]]
+- Requires [[ITEM00728_Infernal_Orb_of_Truth]]
+- Related: [[step_045]]
+- Originates from [[NPC00985_Qadim_Xendar_the_Strong]]
+- Requires [[step_038]]
+- Affected by [[Quest2]]
+- Leads to [[Elder Matthias Stoneward]]
+- Parallels [[Assets Item Artifact Ioun Stone Greater Absorption Xdmg V6 Ioun Stone Greater Absorption Xdmg.png]]
+- Parallels [[step_098 (phase_071)]]
+- Connects to [[Eldritch Sight]]
+- Related: [[scroll-of-titan-summoning-empyrean-xdmg (items)]]
+- Compare with [[LORE00169_Prophecies_Entry_170]]
+- Influences [[step_083]]
+- Connects to [[Portrait NPC Prie... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Influences [[NPC01619_Hilda_Ashford_the_Mystic]]
+- Connects to [[Assets Art the Perfect Symbiosis.png]]
+- Influences [[Quest - The Silver Revolution 2]]
+- Related: [[step_013 (phase_079)]]
+- Connects to [[LORE00052_Legends_Entry_53]]
+- Compare with [[Portrait NPC the Corroded Crown V2 the Corroded Crown.svg_1 (Portraits)]]
+- Leads to [[Leviathan Shrines]]
+- Originates from [[skills#Persuasion]]
+- Requires [[Assets Locations Location City Military Command V1 Military Command.svg]]
+- Requires [[Aethermoor Daily Rhythms (D&D_References)]]
+- Requires [[LORE00194_Legends_Entry_195]]
+- Requires [[ENC00198_Combat_Encounter_199]]
+- Influences [[QUEST0091_Escape_the_Thieves]]
+- See also: [[NPC00133_Lyanna_Oakenshield_the_Seeker]]
+- Affected by [[The Mirror of Succession]]
+- See also: [[Shadow Conspiracy Mechanics]]
+- See also: [[ITEM0149_Forgotten_Crown_of_Shadows]]
+- Influences [[NPC00843_Vesper_Thornweave_the_Redeemed]]
+- Influences [[step_098 (phase_091)]]
+- Affected by [[step_039 (phase_025)]]
+- Influences [[Werewolf Xmm]]
+- Parallels [[senses]]
+- Affected by [[step_034 (phase_084)]]
+- See also: [[Portrait NPC Surf... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Affected by [[Working Class Routines (D&D_References)]]
+- Connects to [[Deputy Archmerchant Scroll Deepmin]]
+- Compare with [[Identify Important Npcs Adventure Patrons]]
+- Affected by [[Sixth Shard of Convergence]]
+- Affected by [[Luminar the Builder]]
+- Parallels [[step_091 (phase_037)]]
+- Requires [[Seven Shards]]
+- Related: [[step_075 (phase_021)]]
+- Requires [[ITEM0145_Blessed_Crown_of_Shadows]]
+- Originates from [[ITEM01127_Lesser_Salve_of_Swiftness]]
+- Leads to [[enemies-abound-xge (spells)]]
+- Compare with [[LOC00117_Planes_Location_118]]
+- See also: [[Thieves' Guild]]
+- Influences [[step_043]]
+- Parallels [[Crystal Refineries]]
+- Influences [[step_099 (phase_046)]]
+- See also: [[step_081]]
+- Originates from [[step_074 (phase_011)]]
+- Leads to [[forest-encounters-levels-1720-xge (tables)]]
+- Originates from [[Location City Environmental Monitor Reef Ecowatch V1 Environmental Monitor Reef Ecowatch.svg]]
+- Requires [[Portrait NPC Shadow Broker Mist V2 Shadow Broker Mist.svg]]
+- Requires [[step_030 (phase_084)]]
+- Influences [[step_043]]
+- Originates from [[nonhuman-blibdoolpoolp (deities)]]
+- Requires [[Symphony of the Abyss Recipe 2]]
+- Affected by [[Customs House 3 (D&D_References)]]
+- Influences [[Northgate]]
+- Originates from [[step_085 (phase_088)]]
+- Leads to [[seeking-arrow-xge (optional-features)]]
+- Connects to [[Mold Earth Xge]]
+- Compare with [[Location City Elder Scribe Marcus the Lost V1 Elder Scribe Marcus the Lost.svg]]
+- Connects to [[The Silent Watcher]]
+- Parallels [[Spell Gem Topaz Oota]]
+- Related: [[The Quantum Accountant 2]]
+- Affected by [[Allied Nation Military Units 2]]
+- Affected by [[step_020 (phase_088)]]
+- Related: [[Location City Secular Community Practices V1 Secular Community Practices.svg]]
+- Related: [[Alchemists Doom Scc]]
+- Parallels [[step_061 (phase_086)]]
+- Leads to [[The Sacred Pearl Beds (D&D_References)]]
+- Compare with [[Joint Council Emergency Session]]
+- Originates from [[list-spells-feats-strixhaven-mascot-scc (lists)]]
+- Compare with [[step_019 (phase_077)]]
+- Compare with [[Velociraptor Mpmm]]
+- Originates from [[Greyhawk Olidammara Xdmg]]
+- Leads to [[Daemogoth Titan Scc]]

@@ -5,6 +5,7 @@ tags:
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
+tags: [combat, lore]
 ---
 
 # Parliamentary_Voting_Guide
@@ -130,3 +131,133 @@ Mentioned in The Second Prophecy of Winds
 ## 07_Player_Resources Specific Content
 
 Contextual improvement based on 07_Player_Resources
+
+
+> [!dm] DM Note
+> Hidden treasure can be found here with a DC 15 Investigation check
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[11 Rules Glossary]]
+- [[06 Equipment]]
+- [[10 Combat]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Equipment: PHB p.143-161)*
+*(Weapons: PHB p.146-147)*
+*(Armor: PHB p.144-146)*
+
+## Connections
+
+- Related: [[Legal Defense Network]]
+- Originates from [[Reality Stability Commission]]
+- Affected by [[Assets Locations Location City Heritage Keeper Memoryshade V1 Heritage Keeper Memoryshade.svg]]
+- Compare with [[Proficiency Dice (variant-rules)]]
+- Connects to [[step_092 (phase_056)]]
+- See also: [[Beast of the Sea Xphb]]
+- Requires [[MON00096_Undead_Creature_97]]
+- Influences [[ITEM01139_Lesser_Potion_of_Fortune]]
+- Related: [[step_046 (phase_074)]]
+- Requires [[ITEM00856_Time-worn_Ring_of_Destiny]]
+- Originates from [[ITEM01329_Elegant_Map_Case_of_Durability]]
+- Related: [[Sun Blade Xdmg]]
+- Influences [[step_060 (phase_004)]]
+- Requires [[The Grand Bazaar of Echoing Coins 2]]
+- See also: [[Attitude Xphb]]
+- Related: [[Portrait NPC Sister Thalassa the Depth Touched V1 Sister Thalassa the Depth Touched.svg]]
+- Influences [[step_049 (phase_023)]]
+- Leads to [[Mithral Armor Xdmg]]
+- Originates from [[Quest - The Symbiotic Sacrament]]
+- Connects to [[step_061 (phase_018)]]
+- Related: [[step_006 (phase_041)]]
+- Influences [[Archivist Memory Bank 2]]
+- See also: [[Giant Insect Wasp Xphb]]
+- Parallels [[Portrait NPC Storm Empress Tempestas Maelstrom Storm Empress Tempestas Maelstrom.svg]]
+- Affected by [[Arcana Dualweave (D&D_References)]]
+- Affected by [[step_037 (phase_011)]]
+- Influences [[step_044 (phase_044)]]
+- Requires [[Vampire Umbral Lord Xmm]]
+- Related: [[flaming-skeleton-xmm (undead)]]
+- Parallels [[Nagpa Mpmm]]
+- Related: [[LOC00226_Planes_Location_227]]
+- Originates from [[LOC00276_Planes_Location_277]]
+- Affected by [[step_052 (phase_033)]]
+- Parallels [[EVENT00053_Magical_Event_54]]
+- Affected by [[path-of-blades-xge (traps-hazards)]]
+- Requires [[LOC00234_Planes_Location_235]]
+- Leads to [[Assets Locations Location City Transformation Specialist Anemone Flowshift Transformation Specialist Anemone Flowshift.svg]]
+- Parallels [[step_027 (phase_051)]]
+- Leads to [[INV-002]]
+- Related: [[spell-gem-star-ruby-oota (items)]]
+- Connects to [[ENC00034_Combat_Encounter_35]]
+- Leads to [[QUEST00263_Personal_Quest_264]]
+- See also: [[Crystal Corruption Timeline]]
+- Affected by [[Assets Locations Location City Keeper of Sorrows Tidal Memento V1 Keeper of Sorrows Tidal Memento.svg]]
+- Connects to [[Ring of Elemental Command Xdmg]]
+- Compare with [[step_028 (phase_010)]]
+- Originates from [[Hadal Depth]]
+- Affected by [[Location City Port Meridian Noble Quarter Port Meridian Noble Quarter.svg]]
+- Compare with [[step_011]]
+- Connects to [[ITEM00468_Ethereal_Chain_Mail_of_Fortitude]]
+- Influences [[Location City Basalt Depthwright Basalt Depthwright.svg]]
+- Affected by [[ITEM01371_Elegant_Rope_of_Durability]]
+- Connects to [[Organizations the Chroniclers]]
+- See also: [[LOC00126_Towns_Location_127]]
+- Related: [[step_063 (phase_098)]]
+- Requires [[step_010 (phase_093)]]
+- Affected by [[Session 3 the Duplicate Crisis]]
+- Parallels [[Crystal Ball Xdmg]]
+- Leads to [[QUEST00133_Personal_Quest_134]]
+- Connects to [[NPC00362_Pyria_Stormwind_the_Wise]]
+- Originates from [[The Shadow Shard (Lore)]]
+- Requires [[Lord Blackwater]]
+- Leads to [[Marina Clearwater]]
+- Originates from [[step_043 (phase_079)]]
+- Leads to [[SPELL00022_Arcane_Spell_23]]
+- See also: [[location-city-coral-courts-coral-courts.svg]]
+- Requires [[LOC00168_Cities_Location_169]]
+- Originates from [[SHOP00031_Specialty_Shop_32]]
+- Leads to [[portrait-npc-the-siren-the-siren.svg_1 (Portraits)]]
+- Leads to [[QUEST00072_Main_Quest_73]]
+- Leads to [[Assets Locations Location City Finn Goodtide V1 Finn Goodtide.svg]]
+- Leads to [[Assets Locations Location City Inter Realm Diplomacy Inter Realm Diplomacy.svg]]
+- Leads to [[step_060 (phase_038)]]
+- Influences [[SHOP00022_General_Shop_23]]
+- Related: [[Location City Temporal Viewing Chambers Temporal Viewing Chambers.svg]]
+- See also: [[The Reality Laboratory]]
+- Affected by [[Random Tricks Trick Objects]]
+- Related: [[QUEST00212_Side_Quest_213]]
+- Affected by [[Demon Customization Tables Demon Flaws Mtf]]
+- Related: [[Symbol Heraldry The... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Leads to [[Location City the Purification Temples V1 the Purification Temples.svg]]
+- Affected by [[Consequence Chain 4 - Deep Mother Awakening 2]]
+- See also: [[LOC00233_Dungeons_Location_234]]
+- Parallels [[step_032 (phase_066)]]
+- Related: [[Commander Void Tacticia 2]]
+- Influences [[ITEM0031_Hidden_Orb_of_Power]]
+- Influences [[step_059]]
+- Parallels [[vehicle-ship-maelstrom-tug-maelstrom-tug.svg]]
+- See also: [[Location City Reality Stabilization Centers V1 Reality Stabilization Centers.svg]]
+- Requires [[LORE00203_Legends_Entry_204]]
+- Leads to [[Dark Gift of Zrin Hala the Howling Storm Cos]]
+- Influences [[The Progenitors]]
+- Originates from [[NPC0008_Ivan_Stormwind]]
+- Requires [[step_076 (phase_084)]]
+- Affected by [[Assets Locations Location City Phantom Harbor Charter V1 Phantom Harbor Charter.svg]]
+- Leads to [[Assets Locations Location City Deep Watchfulrest Deep Watchfulrest.svg]]
+- Compare with [[SPELL00065_Arcane_Spell_66]]
+- Leads to [[step_010 (phase_089)]]
+- Related: [[LOC0082_Watchwick]]
+- Originates from [[Dracolich Xmm]]

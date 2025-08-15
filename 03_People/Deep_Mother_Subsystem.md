@@ -1,6 +1,5 @@
 ---
-enhanced: true
-tags: [enhanced, 03_people]
+enhanced: trtags: [enhanced, 03_people, combat, exploration, lore]le]
 created: 2025-08-15T12:24:41.163245
 modified: 2025-08-15T12:24:41.163247
 aliases: [Deep Mother Subsystem]
@@ -172,3 +171,136 @@ publish: false --- -|--------|
 ![[04_Resources/Assets/Scenes/scene-scene-deep-mother-s-tentacles-rising-v2-deep-mother-s-tentacles-rising.png]]
 ![[04_Resources/Assets/Scenes/scene-scene-deep-mother-s-tentacles-rising-deep-mother-s-tentacles-rising.png]]
 ![[04_Resources/Assets/Scenes/scene-scene-deep-mother-s-tentacles-rising-v1-deep-mother-s-tentacles-rising.png]]
+
+
+> [!warning] ⚠️ Warning
+> Important safety or rule information
+
+
+## Related Content
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Advantage**: See PHB p.173
+- **Combat**: See PHB p.189-198
+- **Conditions**: See PHB p.290-292
+- **Death Saves**: See PHB p.197
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Affected by [[Aberrant Spirit Star Spawn Xphb]]
+- Affected by [[NPC00781_Aeliana_Hawthorne_the_Seeker]]
+- Requires [[step_028 (phase_027)]]
+- Influences [[Location City Port Meridian Noble Quarter V1 Port Meridian Noble Quarter.svg]]
+- Leads to [[location-city-world-map-world-map.svg]]
+- Leads to [[The Convergence Crown]]
+- Originates from [[LOC00182_Cities_Location_183]]
+- Compare with [[The Phosphor Markets 2]]
+- Leads to [[Cult_and_Religious_Guide]]
+- Influences [[step_040 (phase_023)]]
+- Parallels [[INV 003]]
+- Influences [[step_026]]
+- Requires [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- Connects to [[SPELL00062_Divine_Spell_63]]
+- Connects to [[step_043 (phase_100)]]
+- Originates from [[Quest - Medical Breakthrough]]
+- See also: [[step_041 (phase_057)]]
+- Originates from [[step_068]]
+- Influences [[FINAL_GENERATION_REPORT]]
+- Leads to [[Portrait NPC Deep Mother Cultist Profiles Deep Mother Cultist Profiles.svg_1 (Portraits)]]
+- Compare with [[step_090]]
+- Connects to [[step_032 (phase_016)]]
+- Originates from [[Free Current Safe Houses]]
+- Parallels [[04_Resources_Assets_Locations_location-city-master-elena-preserver-master-elena-preserver.svg]]
+- Parallels [[Cosmic_Truth_Seekers (02_Worldbuilding)]]
+- Leads to [[Lighthouse Pea]]
+- Influences [[step_017 (phase_069)]]
+- Leads to [[Umberlee (D&D_References)]]
+- Requires [[step_062]]
+- See also: [[step_089 (phase_072)]]
+- Compare with [[LOC00103_Wilderness_Location_104]]
+- See also: [[Paradox Resolution Society (D&D_References)]]
+- Leads to [[step_058 (phase_084)]]
+- Parallels [[step_012 (phase_023)]]
+- Requires [[step_072]]
+- Related: [[Personality_Traits]]
+- Leads to [[list-spells-races-tiefling-mephistopheles-mtf (lists)]]
+- Related: [[Courier Ripplestone (D&D_References)]]
+- See also: [[step_044 (phase_045)]]
+- Connects to [[Ethics Review Board Chairman]]
+- Related: [[Elder Whisper-In-The-Dark 2]]
+- Influences [[EVENT00046_Magical_Event_47]]
+- Requires [[The Azure Prophet Nerissa (D&D_References)]]
+- Connects to [[star-spawn-grue-mpmm (aberration)]]
+- Affected by [[step_050 (phase_097)]]
+- See also: [[Deck of Many Things Xdmg]]
+- Originates from [[LORE00197_Prophecies_Entry_198]]
+- See also: [[step_081 (phase_055)]]
+- Parallels [[probabilities-sylvan-forest-encounters (tables)]]
+- Leads to [[charm-monster-xphb (spells)]]
+- Compare with [[step_077 (phase_042)]]
+- Leads to [[Emergency Management 2]]
+- Affected by [[Luck Spirit (D&D_References)]]
+- See also: [[The Crimson Hand]]
+- Influences [[step_004 (phase_007)]]
+- Connects to [[step_042 (phase_055)]]
+- Parallels [[Depth_Events_Pack_B]]
+- Influences [[Marcus Goldweaver 2]]
+- Parallels [[LORE00092_Prophecies_Entry_93]]
+- Affected by [[Seven Shards]]
+- Originates from [[Enhancement Ethics Advisor (Lore)]]
+- Parallels [[location-city-neutrality-laws-neutrality-laws.svg]]
+- Requires [[Portrait NPC Investigator Supreme Lucian Brightwater V1 Investigator Supreme Lucian Brightwater.svg_1 (Portraits)]]
+- Related: [[LOC00069_Planes_Location_70]]
+- Related: [[Location City Culinary Dreamweaver Sage Gentlespice Culinary Dreamweaver Sage Gentlespice.svg]]
+- See also: [[LOC00082_Dungeons_Location_83]]
+- Affected by [[step_033 (phase_059)]]
+- See also: [[ITEM01026_Distilled_Powder_of_Clarity]]
+- See also: [[Creature Creature Githyanki Knight Xmm Githyanki Knight Xmm.png]]
+- Connects to [[ITEM00986_Concentrated_Oil_of_Fortune]]
+- Compare with [[List Spells Feats Strixhaven Mascot Scc]]
+- Parallels [[Kraken Xmm (monstrosity)]]
+- Affected by [[SPELL00090_Arcane_Spell_91]]
+- See also: [[NPC00263_Zephyr_Ironforge_the_Guardian]]
+- Influences [[SPELL00164_Nature_Spell_165]]
+- See also: [[SPELL0006_Infernal_Bolt]]
+- Requires [[step_087 (phase_049)]]
+- Connects to [[Symbol Heraldry Resonance Bomb V1 Resonance Bomb.svg]]
+- Related: [[step_012 (phase_036)]]
+- Originates from [[Rod of Alertness Xdmg]]
+- Requires [[Quest - Succession Crisis]]
+- Related: [[Encounter Xphb]]
+- Requires [[Fire Crystal]]
+- Affected by [[step_078 (phase_052)]]
+- Parallels [[#Regional Organization]]
+- See also: [[step_013]]
+- Related: [[step_092 (phase_018)]]
+- See also: [[Circle of Nature's Balance 2]]
+- Parallels [[Bead of Force Xdmg]]
+- Originates from [[Location City the Reef Communities V1 the Reef Communities.svg]]
+- Compare with [[LORE00195_Prophecies_Entry_196]]
+- Influences [[giant-rat-xmm (beast)]]
+- Requires [[step_050 (phase_019)]]
+- Parallels [[Reaction Xphb]]
+- Related: [[tarokka-deck-cos (decks)]]
+- Related: [[04_Resources_Assets_Portraits_portrait-npc-lady-nexus-goldcurrent-lady-nexus-goldcurrent.svg_Quick_Ref]]
+- Influences [[Quest - Nature_1 (01_Adventures)]]
+- Originates from [[step_084]]
+- Affected by [[QUEST00435_Side_Quest_436]]
+- See also: [[Palace Guard Captain Neutralis 2]]

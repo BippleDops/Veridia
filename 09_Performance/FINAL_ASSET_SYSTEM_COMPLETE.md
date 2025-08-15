@@ -1,5 +1,4 @@
----
-tags: [misc]
+-tags: [misc, combat, magic, exploration, lore]sc]
 type: misc
 aliases: ["FINAL ASSET SYSTEM COMPLETE"]
 ---
@@ -153,3 +152,139 @@ Your TTRPG vault is now equipped with one of the most comprehensive asset system
 
 ---
 *Final Asset System - Complete and Operational*
+
+
+> [!dm] DM Note
+> This NPC knows more than they let on
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[ULTIMATE_VAULT_ACHIEVEMENT]]
+- [[ULTIMATE_SYSTEM_REPORT]]
+- [[SVG_REPLACEMENT_REPORT]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Affected by [[step_046 (phase_094)]]
+- Originates from [[step_061 (phase_040)]]
+- Leads to [[step_062]]
+- See also: [[step_059 (phase_044)]]
+- Compare with [[Portrait NPC Marina Red Tide Coralheart Aquabyssos V2 Marina Red Tide Coralheart Aquabyssos.svg_1 (Portraits)]]
+- Affected by [[Portrait NPC Duke Cyrus Reefheart V1 Duke Cyrus Reefheart.svg_1 (Portraits)]]
+- Affected by [[step_064]]
+- Requires [[Captain Steelhart]]
+- Connects to [[step_078 (phase_076)]]
+- Parallels [[Vote Engineer Abyssal Cog (D&D_References)]]
+- Related: [[Assets Locations Location City Constitutional Monarchy Constitutional Monarchy.svg]]
+- Connects to [[Prince Aurelius Lightbringer (D&D_References)]]
+- Parallels [[LOC00258_Planes_Location_259]]
+- Originates from [[Portrait NPC the King S Ears V1 the King S Ears.svg]]
+- See also: [[the-outer-planes-outer-planes-xphb (tables)]]
+- Requires [[Ring of Force Resistance Xdmg]]
+- Leads to [[step_079]]
+- Requires [[step_076 (phase_068)]]
+- Leads to [[sacristy]]
+- Requires [[Assets Locations Location City the Transition Centers the Transition Centers.svg]]
+- Compare with [[earthquake-xphb (spells)]]
+- Compare with [[step_031 (phase_032)]]
+- Compare with [[Temple of Shadows 2]]
+- Originates from [[Wave Traderwind]]
+- Affected by [[step_037 (phase_063)]]
+- See also: [[gust-xge (spells)]]
+- Requires [[Quest - The Crown's Return]]
+- Connects to [[The Crystal Council]]
+- Originates from [[The Shadow Singer Naia (D&D_Statblocks)]]
+- See also: [[step_056 (phase_098)]]
+- Requires [[step_007 (phase_042)]]
+- Affected by [[flind-mpmm (fiend)]]
+- Influences [[explorers-pack-xphb (items)]]
+- Related: [[The Convergence Points]]
+- Influences [[MON00070_Aberrations_Creature_71]]
+- Connects to [[giant-centipede-xmm]]
+- Leads to [[QUEST00154_Personal_Quest_155]]
+- See also: [[Carved Bone Statuette Xdmg]]
+- Influences [[The Exchange Point]]
+- Related: [[ENC00167_Social_Encounter_168]]
+- Affected by [[ITEM0076_Eldritch_Shield_of_the_Dawn]]
+- Affected by [[Assets Symbols Symbol Heraldry Temporal Engineering Guil Temporal Engineering Guil.svg]]
+- Leads to [[Identity Trader Masquerad (D&D_References)]]
+- Originates from [[The Coral Courts (D&D_References)]]
+- See also: [[step_023 (phase_033)]]
+- Influences [[step_091 (phase_045)]]
+- See also: [[12-credits (players-handbook-2024)]]
+- See also: [[step_054 (phase_027)]]
+- Leads to [[step_062 (phase_004)]]
+- Leads to [[Location City Silent Guardian Marcus Silent Guardian Marcus.svg]]
+- Originates from [[LOC00160_Dungeons_Location_161]]
+- Related: [[step_081 (phase_065)]]
+- Connects to [[Prophetic Weather Charts 2]]
+- Compare with [[step_066 (phase_050)]]
+- See also: [[step_049 (phase_033)]]
+- Related: [[LOC00106_Cities_Location_107]]
+- Parallels [[LOC00155_Planes_Location_156]]
+- Originates from [[Supernatural Mysteries 2]]
+- Related: [[step_016 (phase_012)]]
+- Requires [[potion-of-healing-xdmg (items)]]
+- Originates from [[Session Zero Guide]]
+- Affected by [[Assets Locations Location City Tenebrarum Embassy V1 Tenebrarum Embassy.svg]]
+- Parallels [[50K_ENHANCEMENT_MASTER_PROMPT]]
+- Parallels [[old-keoland-locations-xdmg (tables)]]
+- See also: [[Portrait NPC Quest the Brother S Burden Quest the Brother S Burden.svg]]
+- Originates from [[Blood in the Water (D&D_References)]]
+- Originates from [[The Crystal Gardens 2]]
+- Influences [[Corruption Trackers]]
+- Originates from [[S_018_Choir_Pirates_Player]]
+- Originates from [[Location City Tenebrarum Embassy V1 Tenebrarum Embassy.svg]]
+- Influences [[Creature Creature Aerisi Kalinoth Pota V2 Aerisi Kalinoth Pota.png]]
+- Parallels [[Order of the Silent Vigil (Groups)]]
+- See also: [[sphere-of-annihilation (traps-hazards)]]
+- Related: [[step_031 (phase_075)]]
+- Leads to [[NPC00026_Nerys_Thornweave]]
+- See also: [[Secondary Tables Tragedies Xge]]
+- Related: [[dungeon-decay-states-of-ruin-xdmg (tables)]]
+- Related: [[04_Resources_Assets_Symbols_symbol-heraldry-navigation-geography-navigation-geography.svg]]
+- Related: [[LOC00179_Planes_Location_180]]
+- Related: [[step_041 (phase_020)]]
+- Parallels [[Lady Venetia Silkwind (D&D_References)]]
+- Requires [[step_021 (phase_029)]]
+- Influences [[NPC00484_Zephyr_Underhill_the_Redeemed]]
+- See also: [[Torpor Xdmg]]
+- Requires [[Temple Coalition (D&D_References)]]
+- Leads to [[NPC01647_Zephyr_Crystalbrook_the_Bold]]
+- Affected by [[step_098]]
+- Affected by [[step_060]]
+- Compare with [[step_026]]
+- Affected by [[NPC00580_Fiora_Ravenheart_the_Seeker]]
+- Influences [[Beholder Xmm]]
+- Related: [[step_099 (phase_098)]]
+- See also: [[step_009 (phase_031)]]
+- Requires [[Location City the Luminous Dawn Cathedral V1 the Luminous Dawn Cathedral.svg]]
+- Connects to [[Location City Voices From Below Voices From Below.svg]]
+- Compare with [[step_003]]
+- Connects to [[step_081 (phase_009)]]
+- Affected by [[step_100 (phase_026)]]
+- Originates from [[The Facilitator 2]]
+- See also: [[creature-creature-sphinx-xmm-sphinx-xmm.png]]

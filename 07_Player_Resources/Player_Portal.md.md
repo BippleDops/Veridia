@@ -1,6 +1,5 @@
 ---
-enhanced: true
-tags: [enhanced, 07_player_resources]
+enhanced: trtags: [enhanced, 07_player_resources, combat, magic, exploration, lore]es]
 created: 2025-08-15T12:24:41.149651
 modified: 2025-08-15T12:24:41.149652
 aliases: [Player Portal.md]
@@ -84,3 +83,133 @@ publish: false --- -|--------|
 ![[04_Resources/Assets/Misc/07_player_resources_visual_handouts_guild_seal_document_silverscale_consortiu.png]]
 ![[04_Resources/Assets/Misc/faction_overview_for_players.png]]
 ![[04_Resources/Assets/Misc/07_player_resources_faction_guide_md.png]]
+
+
+> [!quote] 💬 Quote
+> Notable saying or prophecy
+
+
+## Related Content
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Affected by [[step_022 (phase_044)]]
+- Compare with [[SPELL00096_Arcane_Spell_97]]
+- Connects to [[Quest - Patient Zero 2]]
+- Affected by [[LOC00146_Planes_Location_147]]
+- Originates from [[list-spells-optional-features-fiendish-vigor-xphb]]
+- Leads to [[QUEST00173_Side_Quest_174]]
+- Leads to [[02_Worldbuilding_Items_Resot_Crystals]]
+- See also: [[LOC00050_Towns_Location_51]]
+- Compare with [[Mystery Key Xdmg]]
+- Connects to [[ITEM01280_Distilled_Crystal_of_Clarity]]
+- Parallels [[Assets Symbols Symbol Heraldry Void Echo Silence Deafmake V1 Void Echo Silence Deafmake.svg]]
+- Related: [[Thalassius the Wise (D&D_References)]]
+- Leads to [[step_018 (phase_028)]]
+- Connects to [[Assets Portraits Portrait NPC Quest the Void Conspiracy Quest the Void Conspiracy.png]]
+- Compare with [[Scything Blade Trap Xge]]
+- Related: [[Session 16 - The Hidden Guardian]]
+- Influences [[step_013]]
+- Affected by [[step_050 (phase_063)]]
+- Influences [[step_069]]
+- Parallels [[Admiral_Marina_Stormcrest (People)]]
+- Requires [[step_078 (phase_018)]]
+- Requires [[LORE00188_Prophecies_Entry_189]]
+- Affected by [[ITEM00533_Enchanted_Helm_of_Protection]]
+- Influences [[ITEM00726_Primordial_Mirror_of_Destiny]]
+- Compare with [[step_075 (phase_044)]]
+- Leads to [[Portrait NPC Scholar Emperor Thalassius the Wise V1 Scholar Emperor Thalassius the Wise.svg]]
+- Parallels [[talisman-of-the-sphere-xdmg (items)]]
+- Leads to [[Portrait NPC Crystal Wardens V1 Crystal Wardens.svg]]
+- Connects to [[Keeper Brinescale]]
+- See also: [[Archivist Reef Bookkeeper]]
+- Influences [[Lord Goldhand]]
+- Related: [[step_025 (phase_073)]]
+- Related: [[step_095 (phase_035)]]
+- Related: [[Assets Locations Location City Iron Rapids Fleetcurrent Iron Rapids Fleetcurrent.svg]]
+- Affected by [[QUEST00047_Side_Quest_48]]
+- Affected by [[Deities of Eberron]]
+- Originates from [[Deities of Greyhawk Phb]]
+- See also: [[QUEST00159_Main_Quest_160]]
+- Requires [[Sacred Order of Luminous Daw (Orders)]]
+- Compare with [[LOC00042_Towns_Location_43]]
+- Parallels [[Cultural Patron]]
+- Related: [[basilisk-xmm (monstrosity)]]
+- Influences [[SPELL00067_Arcane_Spell_68]]
+- Influences [[step_079]]
+- Originates from [[step_063 (phase_085)]]
+- Leads to [[step_066 (phase_096)]]
+- Compare with [[NPC01823_Xander_Quicksilver_the_Broken]]
+- Connects to [[Banker Merchant]]
+- Requires [[NPC01643_Lyanna_Grimholt_the_Wanderer]]
+- Compare with [[Elven Tethrin Veralde Mtf]]
+- Requires [[Hidden Smuggler's Cove (D&D_Statblocks)]]
+- Requires [[Assets Locations Location City Marina Stormwright V1 Marina Stormwright.svg]]
+- Compare with [[step_045 (phase_053)]]
+- Originates from [[Quest - Economic Development 2]]
+- Connects to [[Winter Eladrin Mpmm]]
+- Affected by [[step_022 (phase_049)]]
+- Leads to [[Portrait NPC Captain Henrik Saltbreeze V1 Captain Henrik Saltbreeze.svg]]
+- Influences [[ENC00294_Social_Encounter_295]]
+- Related: [[ITEM00325_Radiant_Axe_of_Power]]
+- See also: [[step_008 (phase_051)]]
+- Originates from [[location-city-chef-gastropod-v1-chef-gastropod.svg]]
+- Leads to [[step_028]]
+- Originates from [[ENC00206_Combat_Encounter_207]]
+- Affected by [[NPC0115_Katarina_Goldleaf_the_Mad]]
+- Requires [[Assets Locations Location City the Probability Merchant V1 the Probability Merchant.svg]]
+- Compare with [[Sea Witches Coven]]
+- See also: [[QUEST00463_Side_Quest_464]]
+- Leads to [[step_091 (phase_077)]]
+- Requires [[fly-xphb (spells)]]
+- Compare with [[location-city-pearl-sharpedge-pearl-sharpedge.svg]]
+- Originates from [[step_075 (phase_095)]]
+- Connects to [[The Networker (D&D_References)]]
+- Connects to [[step_019]]
+- Leads to [[The Island of Screams.jpg (Lore)]]
+- Related: [[List Spells Classes Oath of the Ancients Xphb]]
+- Parallels [[Symbol Heraldry Min... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- See also: [[INV 008]]
+- Related: [[height-and-weight-vgm (tables)]]
+- See also: [[Location City Memory Sharing Techniques Memory Sharing Techniques.svg]]
+- Compare with [[Sculptor of Flesh]]
+- Parallels [[Assets Locations Location City Deep Mother Zealots V1 Deep Mother Zealots.svg]]
+- Affected by [[step_093 (phase_059)]]
+- Affected by [[step_076]]
+- Affected by [[step_078 (phase_048)]]
+- Compare with [[Shop Inventories]]
+- Leads to [[step_041]]
+- Leads to [[Commander Elena Crystalbreaker]]
+- Parallels [[The Inter-Realm Marriage Guild (Guilds)]]
+- Related: [[Portrait NPC Captain Thornback Captain Thornback.svg]]
+- Connects to [[step_017]]
+- Requires [[ENC00125_Environmental_Encounter_126]]
+- Parallels [[The Reality Compass (D&D_References)]]
+- Related: [[Memory Alterations 2]]
+- Related: [[Location City Deep Mother Spawning Pools Deep Mother Spawning Pools.svg]]
+- Originates from [[The Paradox Gardens]]
+- Leads to [[step_012]]
+- Leads to [[step_074 (phase_031)]]
+- Leads to [[feats-phb (variant-rules)]]
+- Leads to [[Prophetic Studies (D&D_References)]]
+- Influences [[step_068 (phase_033)]]

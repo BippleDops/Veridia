@@ -8,6 +8,7 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
+tags: [combat, magic, exploration, puzzle, lore]
 --- # 06 Equipment ---
 
 ## Description
@@ -72,3 +73,187 @@ world: Both
 ## Notes
 
 *Additional notes*
+
+
+> [!dm] DM Note
+> This NPC knows more than they let on
+
+## Prep Checklist
+
+### Npcs Needed
+- [ ] List key NPCs for this session
+- [ ] Prepare voices and mannerisms
+
+### Locations
+- [ ] Review location descriptions
+- [ ] Prepare battle maps if needed
+
+### Encounters
+- [ ] Balance combat encounters
+- [ ] Prepare social encounter notes
+
+### Props
+- [ ] Handouts ready
+- [ ] Music/ambiance selected
+
+### Rules
+- [ ] Review relevant rules
+- [ ] Prepare quick reference
+
+## Campaign Connection
+Holds a clue about the ancient prophecy
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Monster Manual (MM) p.208
+- Xanathar's Guide to Everything (XGE) p.135
+- Volo's Guide to Monsters (VGM) p.75
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Advantage**: See PHB p.173
+- **Combat**: See PHB p.189-198
+- **Conditions**: See PHB p.290-292
+- **Death Saves**: See PHB p.197
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Equipment: PHB p.143-161)*
+*(Weapons: PHB p.146-147)*
+*(Armor: PHB p.144-146)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Originates from [[LORE0022_Prophecy_of_the_Fallen_Star]]
+- Originates from [[ITEM00572_Ethereal_Leather_of_Grace]]
+- Related: [[LOC00155_Wilderness_Location_156]]
+- Connects to [[step_075]]
+- Related: [[item properties#Loading]]
+- Related: [[step_087]]
+- Parallels [[LOC00087_Dungeons_Location_88]]
+- Originates from [[location-city-shadow-current-shadow-current.svg]]
+- Related: [[lessons-of-the-first-ones-xphb (optional-features)]]
+- Leads to [[Location City Abyssos Prime Upper Districts V1 Abyssos Prime Upper Districts.png]]
+- Affected by [[Prophecy Translation Center]]
+- Connects to [[step_058 (phase_068)]]
+- Leads to [[step_097]]
+- Influences [[QUEST00282_Personal_Quest_283]]
+- Originates from [[LOC0082_Watchwick]]
+- Requires [[Marquis Benedict Riversen (D&D_References)]]
+- Originates from [[LORE00270_History_Entry_271]]
+- Requires [[LOC00031_Wilderness_Location_32]]
+- Compare with [[QUEST0056_Investigate_the_Demons]]
+- Requires [[norse-skadi (deities)]]
+- See also: [[NPC01674_Delara_Dawnstrider_the_Wanderer]]
+- Originates from [[step_056 (phase_077)]]
+- Compare with [[The Symbiotic Compact]]
+- Connects to [[step_098 (phase_024)]]
+- Requires [[Owlin Scc]]
+- Related: [[step_093 (phase_079)]]
+- Connects to [[list-spells-classes-oath-of-vengeance-xphb (lists)]]
+- Parallels [[NPC00194_Pyria_Brightblade_the_Broken]]
+- Compare with [[Assets Locations Location City Marquis Aldwin Goldcurrent V1 Marquis Aldwin Goldcurrent.svg]]
+- See also: [[4-gith-and-their-endless-war (mordenkainens-tome-of-foes)]]
+- Leads to [[spirit-naga-xmm (fiend)]]
+- Originates from [[ITEM00841_Time-worn_Tome_of_Eternity]]
+- Parallels [[Pirate Confederacy Player]]
+- Influences [[step_072 (phase_080)]]
+- See also: [[Captain Rhea Blackwater (D&D_References)]]
+- Originates from [[step_098 (phase_017)]]
+- Requires [[Portrait NPC Warr... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- See also: [[step_024 (phase_073)]]
+- Compare with [[NPC00178_Ewan_Emberfall_the_Cunning]]
+- Connects to [[adult-blue-dragon-xmm (dragon)]]
+- Parallels [[step_015 (phase_088)]]
+- Affected by [[MON00108_Undead_Creature_109]]
+- Related: [[FAC00063_Cults_64]]
+- Connects to [[FAC00085_Guilds_86]]
+- Parallels [[Assets Handouts Handout Handout Aged Treasure Map Aged Treasure Map.png]]
+- Connects to [[step_089]]
+- Connects to [[step_064 (phase_096)]]
+- Originates from [[QUEST0005_The_Lost_Artifact]]
+- Requires [[step_083 (phase_051)]]
+- See also: [[step_088 (phase_060)]]
+- Requires [[step_067]]
+- Leads to [[Assets Locations Location City Sea Sprite V1 Sea Sprite.svg]]
+- Compare with [[3d6]]
+- Parallels [[DUN00161_Dungeon_162]]
+- Affected by [[Cloak of the Manta Ray Xdmg]]
+- Compare with [[ENC00223_Combat_Encounter_224]]
+- Compare with [[location-city-divine-magic-v1-divine-magic.svg]]
+- Originates from [[Memory Meadows Black Market (D&D_References)]]
+- Compare with [[political_intrigue_mechanics]]
+- Influences [[Aethermoor Wind Rider Traditions (D&D_References)]]
+- Compare with [[hide-armor-xphb (items)]]
+- Influences [[gnome-sheyanna-flaxenstrand-mtf (deities)]]
+- Parallels [[Portrait NPC Captain Finn Crosscurrent V1 Captain Finn Crosscurrent.svg]]
+- Related: [[step_029]]
+- Leads to [[Quest - The Deep Mother Awakens]]
+- Connects to [[Supernatural Mysterie (D&D_References)]]
+- Influences [[downtime-revisited-xge (variant-rules)]]
+- Compare with [[Navigation_Challenges]]
+- Compare with [[LORE00013_History_Entry_14]]
+- Compare with [[QUEST00284_Side_Quest_285]]
+- Compare with [[giant-ape-xmm]]
+- Parallels [[step_006 (phase_093)]]
+- Requires [[Biomech Specialist Tide Metalweaver]]
+- Related: [[Portrait NPC Quest the Siren S Price Quest the Siren S Price.svg]]
+- Leads to [[Time-Lost Delegate Chronus]]
+- Affected by [[The Lighthouse of Storms (D&D_References)]]
+- Parallels [[NPC00994_Urien_Frostwhisper_the_Guardian]]
+- Affected by [[Training Simulators]]
+- Affected by [[Potion of Storm Giant Strength Xdmg]]
+- Parallels [[The Forbidden Section]]
+- Affected by [[Assets Portraits Portrait NPC Brother Marcus Steelbane Brother Marcus Steelbane.svg]]
+- Requires [[step_032]]
+- Originates from [[SPELL00052_Arcane_Spell_53]]
+- See also: [[Quest - Medical Breakthrough]]
+- Originates from [[Location City the Spectral Gallery V1 the Spectral Gallery.svg]]
+- Originates from [[Sprite Xmm]]
+- Compare with [[Assets Locations Location City the Synthesis Gardens V1 the Synthesis Gardens.svg]]
+- Affected by [[Npc Appearance]]
+- Influences [[step_070 (phase_070)]]
+- Compare with [[opal-xdmg (items)]]
+- Compare with [[Embassy of Emptines (D&D_References)]]
+- Leads to [[Ambush Xphb]]
+- Leads to [[map]]
+- Leads to [[Diplomatic Service 2]]
+- Originates from [[Location City Merchant Guild Headquarters V1 Merchant Guild Headquarters.svg]]
+- Related: [[Assets Locations Location City the Coral Palace Complex the Coral Palace Complex.svg]]
+- Influences [[Merrenoloth Mpmm]]
+- Affected by [[Marcus Ironwrigh]]
+- Connects to [[Weather Sage Ancient Tempest 2]]
+- Compare with [[step_013 (phase_013)]]

@@ -8,6 +8,7 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
+tags: [combat, magic, exploration, puzzle, lore]
 --- # 10-combat ---
 
 ## Description
@@ -91,3 +92,190 @@ world: Both
 ## Notes
 
 *Additional notes*
+
+
+> [!dm] DM Note
+> The villain has agents watching this place
+
+## Prep Checklist
+
+### Npcs Needed
+- [ ] List key NPCs for this session
+- [ ] Prepare voices and mannerisms
+
+### Locations
+- [ ] Review location descriptions
+- [ ] Prepare battle maps if needed
+
+### Encounters
+- [ ] Balance combat encounters
+- [ ] Prepare social encounter notes
+
+### Props
+- [ ] Handouts ready
+- [ ] Music/ambiance selected
+
+### Rules
+- [ ] Review relevant rules
+- [ ] Prepare quick reference
+
+## Campaign Connection
+Connected to the main villain's plan
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Advantage**: See PHB p.173
+- **Combat**: See PHB p.189-198
+- **Conditions**: See PHB p.290-292
+- **Death Saves**: See PHB p.197
+
+
+## Thematic Connections
+- Tactical combat using [[Combat Maneuvers]]
+- Environmental hazards from [[Battlefield Terrain]]
+- Victory conditions beyond [[Death and Dying]]
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Equipment: PHB p.143-161)*
+*(Weapons: PHB p.146-147)*
+*(Armor: PHB p.144-146)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Leads to [[pit-fighting-complications-xge (tables)]]
+- Affected by [[ITEM00610_Enchanted_Gauntlets_of_Fortitude]]
+- Originates from [[NPC01805_Faelyn_Goldleaf_the_Wanderer]]
+- Connects to [[step_077 (phase_099)]]
+- Compare with [[step_042 (phase_017)]]
+- Connects to [[Thugs (D&D_References)]]
+- Connects to [[Memory Merchant Mneme]]
+- Related: [[ENC00098_Environmental_Encounter_99]]
+- Related: [[Location City Master Smith Coral Hammer Master Smith Coral Hammer.svg]]
+- Connects to [[location-city-royal-guard-royal-guard.svg]]
+- Influences [[blue-dragon (legendary-group)]]
+- Originates from [[cloudkill-xphb (spells)]]
+- Leads to [[Location City the Progressive Coalition Headquarters V1 the Progressive Coalition Headquarters.svg]]
+- Leads to [[step_071 (phase_085)]]
+- Connects to [[NPC00291_Orion_Hawthorne_the_Bold]]
+- Related: [[The Crystal Academies]]
+- See also: [[09 Adventuring#movement#climbing, Swimming, and Crawling]]
+- Compare with [[step_034]]
+- Parallels [[NPC01780_Solas_Hawthorne_the_Strong]]
+- See also: [[Character Backstories_Quick_Ref]]
+- Compare with [[FINAL_DEPLOYMENT_STATUS]]
+- Parallels [[The Shadow-Touched Farmer, Blight-Heart Maddox]]
+- Related: [[Royal Bunker (D&D_References)]]
+- Affected by [[Guardian Tree Network]]
+- Leads to [[step_066 (phase_089)]]
+- Affected by [[Assets Locations Location City Shadow Crystals V1 Shadow Crystals.svg]]
+- See also: [[Assets Art Sage Lyralei Starweaver.png]]
+- Affected by [[Tavern_Menu]]
+- Originates from [[step_033 (phase_097)]]
+- Compare with [[Location City Surface Trade Ports Surface Trade Ports.svg]]
+- Connects to [[The Leviathan Cult (Cults_and_Movements)]]
+- Affected by [[step_010 (phase_053)]]
+- Related: [[step_044 (phase_067)]]
+- Originates from [[step_057 (phase_067)]]
+- Affected by [[Ambush Drake Hotdq]]
+- Affected by [[step_044 (phase_046)]]
+- Influences [[step_023 (phase_006)]]
+- Requires [[Drill Sergeant Discipline (D&D_References)]]
+- Compare with [[saving-throws (tables)]]
+- Leads to [[step_039]]
+- Affected by [[step_038 (phase_009)]]
+- Influences [[step_088 (phase_062)]]
+- Parallels [[Depth's End Cathedral]]
+- Originates from [[Marina's Identity Crisis]]
+- Affected by [[step_006]]
+- See also: [[Assets Locations Location City Artisan Felix Reefwright V1 Artisan Felix Reefwright.svg]]
+- See also: [[Assets Locations Location City the Pressure Crown V1 the Pressure Crown.svg]]
+- Affected by [[step_020 (phase_012)]]
+- Related: [[step_024]]
+- Influences [[Admiral Diplomatic Envoy Thornwick 2]]
+- Originates from [[International Trade]]
+- Parallels [[Dragon Hide Xge]]
+- Related: [[LORE0042_Prophecy_of_the_Sundering]]
+- Requires [[immunity-xphb (variant-rules)]]
+- Leads to [[The Verdant Reach (D&D_References)]]
+- Influences [[step_024 (phase_076)]]
+- Connects to [[Sea Witches Coven]]
+- Related: [[Central Crystal Processing Plant]]
+- See also: [[Afflictions Reality Madness]]
+- See also: [[Portrait NPC the Royal Treasury Depths V1 the Royal Treasury Depths.svg]]
+- Originates from [[step_098]]
+- Leads to [[list-spells-classes-monk (lists)]]
+- Connects to [[step_059 (phase_007)]]
+- Connects to [[Assets Locations Location City the Evolution District V1 the Evolution District.svg]]
+- Originates from [[step_042 (phase_048)]]
+- Compare with [[step_002 (phase_014)]]
+- Requires [[ITEM01081_Concentrated_Herb_of_Vigor]]
+- Connects to [[The Last Acorn 2]]
+- Connects to [[Sundered Steel]]
+- See also: [[Location City Master Curator Pearl Artflow Master Curator Pearl Artflow.svg]]
+- Affected by [[LORE00245_Legends_Entry_246]]
+- Originates from [[step_008 (phase_018)]]
+- Requires [[LORE00270_History_Entry_271]]
+- Influences [[Tenebrarum Embassy 2]]
+- See also: [[Random Encounter Tables - Aquabyssos]]
+- Parallels [[ENC00109_Environmental_Encounter_110]]
+- Influences [[Ancient Ruins 2]]
+- Parallels [[step_069 (phase_028)]]
+- Originates from [[step_018 (phase_056)]]
+- Originates from [[step_053 (phase_037)]]
+- Originates from [[step_041 (phase_052)]]
+- Influences [[Actions in Combat Describing Actions Xdmg]]
+- Influences [[The Anonymous Accord]]
+- Compare with [[Location City Adventure Boldexplorer Adventure Boldexplorer.svg]]
+- Originates from [[step_024 (phase_084)]]
+- Related: [[deathlock-mpmm (undead)]]
+- Connects to [[step_073 (phase_022)]]
+- Influences [[the-egyptian-pantheon-egyptian-deities-phb (tables)]]
+- Requires [[MON00100_Constructs_Creature_101]]
+- Affected by [[step_043 (phase_092)]]
+- Originates from [[Strike Team Communications 2]]
+- Compare with [[gnoll-witherling-mpmm (undead)]]
+- Affected by [[Crystal Workers Union]]
+- Requires [[step_073 (phase_017)]]
+- Requires [[step_078]]
+- Compare with [[Ancient Historian Memento (D&D_References)]]
+- Related: [[LOC00054_Towns_Location_55]]
+- Affected by [[LOC00003_Dungeons_Location_4]]
+- Related: [[Exotic Imports Market 2]]
+- See also: [[Location City Maritime Security Chief Reef Maritime Security Chief Reef.svg]]

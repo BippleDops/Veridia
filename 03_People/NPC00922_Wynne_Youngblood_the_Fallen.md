@@ -1,6 +1,6 @@
 ---
-aliases: ["Wynne Youngblood the Fallen", "wynne youngblood the fallen", "Wynne Youngblood Fallen", "Fallen the Youngblood Wynne"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Wynne Youngblood the Fallen", "wynne youngblood the fallen", "Wynne Youngblood Fallen", "Fallen the Youngblood Wynnetags: [npc, character, combat, social, exploration, lore]er]
 type: npc
 ---
 
@@ -134,3 +134,128 @@ Has map to lost treasure
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Advantage**: See PHB p.173
+- **Combat**: See PHB p.189-198
+- **Conditions**: See PHB p.290-292
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Requires [[SHOP00005_General_Shop_6]]
+- Connects to [[revivify-xphb (spells)]]
+- Related: [[The Depth Compass]]
+- See also: [[step_009 (phase_097)]]
+- Requires [[ITEM00198_Thunder_Axe_of_Slaying]]
+- Compare with [[Barkeep Mira Algaebrew 2]]
+- Parallels [[step_095 (phase_063)]]
+- Originates from [[step_053 (phase_056)]]
+- Affected by [[14-chapter-14-the-labyrinth (out-of-the-abyss)]]
+- Leads to [[step_070 (phase_098)]]
+- Related: [[Shadow-Child Advisory]]
+- Originates from [[MON00137_Aberrations_Creature_138]]
+- Related: [[Location City Secondary Education Secondary Education.svg]]
+- See also: [[The Great Tidal Amphitheater (D&D_References)]]
+- Connects to [[Hadal-Resistant Equipment]]
+- Leads to [[Azure Citadel]]
+- Connects to [[step_011]]
+- Leads to [[step_020 (phase_097)]]
+- See also: [[vehicles (vehicles)]]
+- Leads to [[Portrait NPC Captain Guard Peacehold V1 Captain Guard Peacehold.svg]]
+- Connects to [[Marcus Evenscale 2]]
+- Connects to [[ITEM01290_Concentrated_Oil_of_Clarity]]
+- Originates from [[NPC01775_Baelor_Emberfall_the_Mystic]]
+- Connects to [[Coral 2]]
+- Requires [[ENC00058_Combat_Encounter_59]]
+- Affected by [[step_073 (phase_088)]]
+- Connects to [[Training Simulators]]
+- Related: [[DUN00048_Dungeon_49]]
+- Requires [[The Shattering (D&D_References)]]
+- Affected by [[02_Worldbuilding_Groups_The_Memory_Keepers]]
+- Related: [[darkling-elder-mpmm (fey)]]
+- Leads to [[The Inter-Guild Conference Center]]
+- See also: [[Count Viktor Pressureborn (D&D_References)]]
+- Compare with [[Searing Smite Xphb]]
+- Parallels [[Vehicle Ship Harbor Guardian Gunboat Harbor Guardian Gunboat.svg]]
+- Affected by [[SHOP00049_General_Shop_50]]
+- Connects to [[ITEM01094_Distilled_Herb_of_Clarity]]
+- Influences [[The Whisper Island Mystery (D&D_References)]]
+- Requires [[QUEST00375_Side_Quest_376]]
+- Originates from [[black-dragon-mask-hotdq (items)]]
+- Parallels [[Greyhawk Fharlanghn Xdmg]]
+- Leads to [[LOC00228_Cities_Location_229]]
+- Requires [[wings-of-flying-xdmg (items)]]
+- Leads to [[step_037 (phase_069)]]
+- Related: [[Crushing Depths]]
+- Connects to [[Topic_Matrix (Indexes)]]
+- Parallels [[Seven_Shards_Publishing_Package]]
+- Affected by [[ITEM00884_Celestial_Crown_of_Eternity]]
+- Connects to [[Session_Recaps]]
+- Related: [[Portrait NPC Banker Titus Goldcurrent Banker Titus Goldcurrent.svg]]
+- Originates from [[Adventuring Gear Container Capacity Phb]]
+- Affected by [[The Foreclosure Squad]]
+- Leads to [[Sister Thalassa the Depth-Touched]]
+- Related: [[Location City Harbormaster Tidal Stormcrest V1 Harbormaster Tidal Stormcrest.svg]]
+- Originates from [[Weapons Trader Gareth Steelmerchant]]
+- Parallels [[step_064]]
+- Connects to [[Beta Leader Torres Coastalambush]]
+- Affected by [[Frequency Weapons 2]]
+- Related: [[dwarven-dugmaren-brightmantle-mtf (deities)]]
+- Originates from [[urban-encounters-levels-1116-xge (tables)]]
+- Influences [[Identity Trader Masquerad (D&D_References)]]
+- Compare with [[Portrait NPC Sage Lysander Deepthought V1 Sage Lysander Deepthought.svg]]
+- Related: [[step_059 (phase_100)]]
+- Connects to [[NPC00208_Cedric_Oakenshield]]
+- Connects to [[ITEM00358_Radiant_Spear_of_Speed]]
+- Compare with [[QUEST00021_Main_Quest_22]]
+- Originates from [[FRONTMATTER_FIX_COMPLETE]]
+- Leads to [[step_049]]
+- Leads to [[kuo-toa-monitor-xmm (aberration)]]
+- Related: [[step_042 (phase_067)]]
+- Compare with [[Silvery Barbs Scc]]
+- Originates from [[Potion of Supreme Healing Xdmg]]
+- Affected by [[Active_NPCs (02_Worldbuilding)]]
+- Influences [[Master Cultivator Thalia Greenglow]]
+- Affected by [[City of Screams 2]]
+- Requires [[training-complications-xge (tables)]]
+- See also: [[step_003 (phase_079)]]
+- Leads to [[README]]
+- Compare with [[Assets Locations Location City Royal Treasury V1 Royal Treasury.svg]]
+- Parallels [[Banker Kess]]
+- Leads to [[Assets Locations Location City His Eternal Majesty Keeper of the Throne of Bubbles V1 His Eternal Majesty Keeper of the Throne of Bubbles.svg]]
+- Connects to [[step_054 (phase_037)]]
+- Related: [[step_041 (phase_013)]]
+- Influences [[Assets Locations Location City Palace Artificers Palace Artificers.svg]]
+- See also: [[step_086 (phase_033)]]
+- Related: [[LORE00168_Legends_Entry_169]]
+- Leads to [[Location City Terminal Director Admiral Current Swiftflow V1 Terminal Director Admiral Current Swiftflow.svg]]
+- Affected by [[MON0014_Bone_Reaper]]
+- Originates from [[greek-aphrodite (deities)]]
+- Compare with [[ITEM0062_Glorious_Circlet_of_Power]]
+- Affected by [[Location City Merchant Quarter V1 Merchant Quarter.svg]]
+- Affected by [[Archshadow Morrigan Voidheart]]
+- Parallels [[NPC01026_Xander_Ironforge_the_Lost]]
+- Originates from [[step_053]]
+- Influences [[step_034 (phase_058)]]
+- Related: [[step_010 (phase_094)]]
+- Related: [[step_009 (phase_015)]]
+- Compare with [[random-traps-trap-damage-severity (tables)]]
+- Compare with [[Master_Golemancer]]
+- See also: [[NPC01407_Ysara_Blackstone_the_Mystic]]

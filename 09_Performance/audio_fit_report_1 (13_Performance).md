@@ -1,6 +1,5 @@
 ---
-enhanced: true
-tags: [enhanced, 13_performance]
+enhanced: trtags: [enhanced, 13_performance, combat, exploration, lore]ce]
 created: 2025-08-15T12:24:41.055463
 modified: 2025-08-15T12:24:41.055465
 aliases: [audio fit report 1 (13 Performance)]
@@ -282,3 +281,135 @@ publish: false --- |---|---:|:---:|---|
 ![[04_Resources/Assets/Maps/World/Continents/world_reports_bidirectional_links_gm.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_reports_bidirectional_links_player.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_witness_reports_gm.png]]
+
+
+> [!dm] DM Note
+> This character is not who they seem
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Compare with [[step_072]]
+- See also: [[Quest - Shadow Medicine 2]]
+- Leads to [[Archbishop Mordecai Stormwright]]
+- Related: [[LORE00163_Legends_Entry_164]]
+- Parallels [[Halfling Tables Halfling Bonds Mtf]]
+- Parallels [[step_028 (phase_020)]]
+- Compare with [[Council Speaker Tide 2]]
+- Parallels [[The Strategic Command Center]]
+- Leads to [[Assets Locations Location City the Contract Archive the Contract Archive.svg]]
+- Requires [[Resistance Leader Thane Freeheart]]
+- Influences [[LOC0018_FortBridge]]
+- Affected by [[bottled-breath-pota (items)]]
+- See also: [[MON00095_Constructs_Creature_96]]
+- Influences [[Judge-Militant Adamant Trueston]]
+- See also: [[ITEM01206_Concentrated_Incense_of_Swiftness]]
+- Compare with [[step_007]]
+- Leads to [[step_070 (phase_024)]]
+- Originates from [[Coral Courts]]
+- Originates from [[step_011 (phase_059)]]
+- Requires [[step_087]]
+- Parallels [[step_043]]
+- Parallels [[Symbol Heraldry Dee... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Compare with [[ability-score-point-costs-xphb (tables)]]
+- See also: [[Water Walk Xphb]]
+- Related: [[Player_Notes]]
+- Affected by [[adventuring-gear-container-capacity-phb (tables)]]
+- See also: [[Dockworkers' Union (D&D_References)]]
+- Connects to [[<% questGiver %>]]
+- See also: [[step_021 (phase_048)]]
+- Affected by [[step_051 (phase_082)]]
+- Requires [[draakhorn-rot (items)]]
+- Influences [[Location City Memoriam the Forgotten Continent V1 Memoriam the Forgotten Continent.svg]]
+- Connects to [[README (Rules)]]
+- See also: [[The Azure Prophet Nerissa (D&D_References)]]
+- Requires [[ITEM0122_Cursed_Circlet_of_the_Dawn]]
+- Influences [[02-chapter-1-playing-the-game#Healing]]
+- Affected by [[Assets Locations Location City Ancient Treasury of Tides Ancient Treasury of Tides.svg]]
+- Parallels [[King Consort Meridian (D&D_References)]]
+- Leads to [[Aquabyssos Kelp Wine]]
+- Connects to [[gnoll-demoniac-xmm (fiend)]]
+- Compare with [[step_092 (phase_023)]]
+- Connects to [[giant-crocodile-xmm]]
+- Affected by [[step_022 (phase_094)]]
+- Affected by [[Quest - Breaking the Scales_1 (01_Adventures)]]
+- Affected by [[gnoll-dmg (races)]]
+- Compare with [[Councillor Elara Brightwater]]
+- Related: [[step_099]]
+- Affected by [[The Gilded Serpent]]
+- Compare with [[DUN00148_Dungeon_149]]
+- Affected by [[step_045 (phase_064)]]
+- Compare with [[Quest - Harbor Expansion]]
+- Influences [[Portrait NPC Quest the Cure for Madness V2 Quest the Cure for Madness.svg]]
+- Requires [[step_065]]
+- Leads to [[step_076]]
+- See also: [[Quest - Harbor Security 2]]
+- Affected by [[Elemental Gem Blue Sapphire Xdmg]]
+- Related: [[camel-xmm (beast)]]
+- Compare with [[Character Creation Guide (D&D_References)]]
+- Connects to [[Deputy Inspector Crystal-Flow Maria (D&D_References)]]
+- Connects to [[Deep Current Flowmaster (D&D_References)]]
+- Compare with [[Null-Field Generators (Items)]]
+- Compare with [[step_066]]
+- Requires [[Assets Locations Location City Voices From Below V1 Voices From Below.svg]]
+- Compare with [[LOC00015_Planes_Location_16]]
+- Influences [[faerie-fire-xphb (spells)]]
+- Originates from [[lance-xphb (items)]]
+- See also: [[Current_Location]]
+- Originates from [[creature-type-xphb (variant-rules)]]
+- Requires [[LORE00143_Prophecies_Entry_144]]
+- Requires [[step_075 (phase_038)]]
+- Influences [[step_069]]
+- Parallels [[Location City Community Organizations V1 Community Organizations.svg]]
+- See also: [[Scene Scene Whisper Island Fog Dawn V1 Whisper Island Fog Dawn.svg]]
+- Affected by [[choose-languages-rare-languages-xphb (tables)]]
+- See also: [[Nondetection Xphb]]
+- Influences [[Githzerai Monk Xmm]]
+- Compare with [[Air Elemental Myrmidon Mpmm]]
+- Influences [[Assets Locations Location City Twilight Depths V1 Twilight Depths.svg]]
+- Requires [[04_Resources_Assets_Locations_location-city-noble-palatemaster-v1-noble-palatemaster.png]]
+- Originates from [[Crystalline Depths (D&D_Statblocks)]]
+- Affected by [[step_084]]
+- Affected by [[seeking-spell-xphb (optional-features)]]
+- Leads to [[Portrait NPC Captain Torrent Swiftcurrent V1 Captain Torrent Swiftcurrent.svg]]
+- Influences [[step_073 (phase_011)]]
+- Requires [[npc-appearance (tables)]]
+- Affected by [[Location City Calm Soothingwave Calm Soothingwave.svg]]
+- Affected by [[step_076]]
+- Compare with [[Planar Entities]]
+- See also: [[net-xphb (items)]]
+- See also: [[step_032 (phase_094)]]
+- Originates from [[Session 1 the Queens Summons_1 (06_Sessions)]]
+- Compare with [[02_Worldbuilding_Factions_The_Prismatic_Order]]
+- Connects to [[Royal Crystal Laboratory 2]]
+- Influences [[step_066 (phase_009)]]
+- See also: [[LOC00020_Towns_Location_21]]
+- Connects to [[04_Resources_Assets_Locations_location-city-master-cultivator-reef-growstone-v1-master-cultivator-reef-growstone.svg]]
+- Affected by [[step_024]]
+- Affected by [[Assets Portraits Portrait NPC Duke Hadal Duke Hadal.svg]]
+- Affected by [[Roleplaying a Beholder Beholder Personality]]
+- Originates from [[Portrait NPC Priest Faith Crystalsong V2 Priest Faith Crystalsong.svg_1 (Portraits)]]

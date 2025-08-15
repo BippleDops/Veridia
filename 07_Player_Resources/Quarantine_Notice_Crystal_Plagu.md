@@ -10,6 +10,7 @@ created: '2025-08-14'
 modified: '2025-08-14'
 evaluated: '2025-08-14'
 improvements: 20
+tags: [combat, lore]
 ---
 
 ## 🔧 Deep Evaluation Improvements
@@ -93,3 +94,130 @@ improvements: 20
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+
+> [!dm] DM Note
+> This location connects to the main plot
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+
+## Connections
+
+- Originates from [[cover-xphb (variant-rules)]]
+- Connects to [[step_086 (phase_065)]]
+- Originates from [[Quest - Legislative Control_1 (01_Adventures)]]
+- Requires [[LOC00238_Towns_Location_239]]
+- Parallels [[step_082 (phase_089)]]
+- Compare with [[meazel-mpmm (monstrosity)]]
+- Compare with [[Portrait NPC Sir Ruben Redtape V2 Sir Ruben Redtape.svg_1 (Portraits)]]
+- Requires [[Sage Moonwhisper]]
+- Originates from [[step_078 (phase_089)]]
+- Compare with [[EVENT00068_Natural_Event_69]]
+- Compare with [[The Academy of Investigative Arts]]
+- Connects to [["$python_version" < "3.9"]]
+- See also: [[step_081 (phase_011)]]
+- See also: [[ITEM01210_Refined_Salve_of_Vigor]]
+- Affected by [[NPC00347_Ysara_Dawnstrider]]
+- Leads to [[step_011 (phase_013)]]
+- See also: [[LORE00190_Prophecies_Entry_191]]
+- See also: [[FAC00029_Orders_30]]
+- Compare with [[The Crystal Temple]]
+- Compare with [[Location City the Lighthouse Keepers the Lighthouse Keepers.svg]]
+- Parallels [[Dragonlance Shinare Phb]]
+- Leads to [[QUEST00145_Side_Quest_146]]
+- Affected by [[The Green Apocalypse]]
+- See also: [[NPC00516_Gavril_Lightbringer_the_Scholar]]
+- Parallels [[21 Appendix D Demon Lords]]
+- Connects to [[Treasurer Darkfunds]]
+- Affected by [[ITEM00872_Divine_Scepter_of_Truth]]
+- Compare with [[Larva Xmm]]
+- See also: [[step_018 (phase_042)]]
+- Leads to [[Wall of Thorns Xphb]]
+- See also: [[step_037 (phase_016)]]
+- Related: [[The Great Tidal Amphitheater 2]]
+- Leads to [[MASTER_NAVIGATION]]
+- See also: [[Variant Customizing Ability Scores Ability Scores and Modifiers Phb]]
+- See also: [[Emergency Technology Development Foundation]]
+- See also: [[Symbol Heraldry the Memory Wars V1 the Memory Wars.svg]]
+- Leads to [[step_004]]
+- Compare with [[The Depth Plague]]
+- Leads to [[02_Worldbuilding_Spells_Truth_Reflection]]
+- Compare with [[Portrait NPC Quest the Cure for Madness Quest the Cure for Madness.svg]]
+- Originates from [[Emergency Backup]]
+- Influences [[step_018]]
+- See also: [[Celestial Gardens]]
+- Leads to [[talisman-of-the-sphere-xdmg (items)]]
+- Influences [[LOC00161_Planes_Location_162]]
+- Related: [[step_005 (phase_089)]]
+- Affected by [[Lord Chancellor Prism Valdrick (D&D_References)]]
+- Originates from [[Shadow Surgeon Thorn]]
+- Parallels [[Assets Locations Location City Knowledge Truthseeker Knowledge Truthseeker.svg]]
+- Originates from [[QUEST00114_Personal_Quest_115]]
+- Leads to [[Assets Locations Location City Crystals Curiosities Crystals Curiosities.svg]]
+- See also: [[step_028 (phase_084)]]
+- See also: [[devastation-orb-pota (items)]]
+- Originates from [[Location City Mediator Cardinal Harmony Mediator Cardinal Harmony.svg]]
+- Related: [[NPC00761_Aldric_Moonshadow_the_Guardian]]
+- Requires [[ITEM00464_Mithril_Cloak_of_Protection]]
+- Compare with [[LOC00263_Dungeons_Location_264]]
+- Requires [[step_036 (phase_092)]]
+- See also: [[Location City Dock Boss Marina Irongrip Dock Boss Marina Irongrip.svg]]
+- Compare with [[Pirates 2]]
+- Affected by [[astral-dreadnought-mpmm (monstrosity)]]
+- Connects to [[MON00003_Constructs_Creature_4]]
+- See also: [[Assets Locations Location City Thomas Deepanchor Thomas Deepanchor.svg]]
+- Connects to [[Assets Locations Location City Echo Keeper Selin V1 Echo Keeper Selin.svg]]
+- See also: [[Assets Locations Location City International Void Treaties V1 International Void Treaties.svg]]
+- Leads to [[04_Resources_Assets_Locations_location-city-marine-druids-marine-druids.svg]]
+- Originates from [[Location City Security Chief Wade Peacekeep V1 Security Chief Wade Peacekeep.svg]]
+- Parallels [[Count Spark Lightning]]
+- Related: [[step_069 (phase_035)]]
+- Compare with [[human-names-indian-female-xge (tables)]]
+- Connects to [[Symbol Heraldry Factional Conflicts V1 Factional Conflicts.svg_1 (Symbols)]]
+- Related: [[Portrait NPC Merchant Captain Tobias Stormwind V2 Merchant Captain Tobias Stormwind.svg]]
+- Leads to [[step_083 (phase_020)]]
+- Compare with [[Captain Henrik Proudbanner (D&D_References)]]
+- Requires [[Trident of Accord]]
+- Leads to [[QUEST00455_Side_Quest_456]]
+- Influences [[ITEM00577_Mithril_Chain_Mail_of_Fortitude]]
+- Related: [[step_076]]
+- Influences [[step_098 (phase_068)]]
+- Requires [[Master Cultivator Polyp Growe (Cults_and_Movements)]]
+- Parallels [[QUEST00319_Side_Quest_320]]
+- Influences [[Location City Aquabyssos Government Aquabyssos Government.svg]]
+- Related: [[SPELL0047_Primal_Wave]]
+- Influences [[MAP_INDEX]]
+- Parallels [[Abyssos Prime - Pressure Terminal 2]]
+- Originates from [[NPC01880_Ewan_Brightblade_the_Wise]]
+- Influences [[Bubble District (D&D_References)]]
+- Affected by [[Location City Wealthy Goldcurrent Wealthy Goldcurrent.svg]]
+- See also: [[step_061 (phase_093)]]
+- Connects to [[step_042 (phase_052)]]
+- Compare with [[step_023]]
+- Parallels [[Electric Eel (D&D_References)]]
+- Parallels [[Quest - Construct Liberation]]
+- Requires [[step_039 (phase_100)]]
+- Related: [[The Crystal Metropolis]]
+- Parallels [[Handouts Ships Player Handout Aquabyssos Submarines]]
+- See also: [[step_001 (phase_097)]]
+- Originates from [[Vulture Xmm]]
+- See also: [[LOC00267_Towns_Location_268]]
+- Originates from [[Memory Recording Chambers]]

@@ -9,6 +9,7 @@ created: '2025-08-14'
 modified: '2025-08-14'
 evaluated: '2025-08-14'
 improvements: 20
+tags: [combat, lore]
 ---
 
 ## 🔧 Deep Evaluation Improvements
@@ -98,3 +99,130 @@ improvements: 20
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+
+> [!quote] 💬 Quote
+> Notable saying or prophecy
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+
+## Connections
+
+- Requires [[Void Whirlpools]]
+- Affected by [[NPC0019_Tara_Stormwind_the_Bold]]
+- Parallels [[location-city-pearlshell-v1-pearlshell.svg]]
+- See also: [[Bard Xphb]]
+- Compare with [[step_033]]
+- Originates from [[Location City Sacred Grief Protocols V1 Sacred Grief Protocols.png]]
+- Requires [[step_003 (phase_026)]]
+- Originates from [[Assets Locations Location City Elder Scribe Marcus the Lost V1 Elder Scribe Marcus the Lost.svg]]
+- Compare with [[Scrying Scramblers]]
+- Related: [[step_091 (phase_038)]]
+- Parallels [[Portrait NPC the Parasite Priests V2 the Parasite Priests.svg_1 (Portraits)]]
+- Originates from [[Resonance Peaks]]
+- Requires [[Location City Sage Lyralei Starweaver V1 Sage Lyralei Starweaver.svg]]
+- Related: [[Field Worker Communities]]
+- Connects to [[The Great Crystallization 2]]
+- See also: [[Pressure Suit of the Depths (D&D_References)]]
+- Compare with [[Location City Abyss Currentbinder Abyss Currentbinder.svg]]
+- Influences [[Tempest Peak]]
+- Parallels [[Assets Locations Location City Family Portrait V1 Family Portrait.svg]]
+- See also: [[Assets Locations Location City Archivist Stone Memorykeeper V1 Archivist Stone Memorykeeper.svg]]
+- Leads to [[NPC01873_Baelor_Stormwind_the_Broken]]
+- Connects to [[Symbiotic Integration Specialists 2]]
+- Leads to [[Prince Caspian Duskwater]]
+- Parallels [[Aethermoor Navigation Crystal (D&D_References)]]
+- Requires [[step_084 (phase_020)]]
+- Leads to [[Scimitar Xphb]]
+- Parallels [[The Groundling Liberation Movement]]
+- Leads to [[Quest - The Public Revelation_1 (01_Adventures)]]
+- See also: [[step_077 (phase_055)]]
+- Parallels [[Curse of Eternal Winter]]
+- Influences [[explosives (variant-rules)]]
+- Affected by [[step_053 (phase_091)]]
+- Requires [[step_076 (phase_043)]]
+- Affected by [[ITEM01105_Refined_Crystal_of_Healing]]
+- Originates from [[Survival Codex 2]]
+- Affected by [[Serenity Stillwater (D&D_References)]]
+- Requires [[DUN00196_Dungeon_197]]
+- Requires [[step_009]]
+- Parallels [[LOC00204_Wilderness_Location_205]]
+- Compare with [[Drow Lolth Mtf]]
+- Leads to [[Depth Supremacy Movement]]
+- Originates from [[The Resoce Forge Hammer]]
+- Influences [[elemental]]
+- Influences [[step_002 (phase_060)]]
+- Originates from [[Elk Xmm]]
+- Compare with [[Assets Locations Location City Sage Lyralei Starweaver V1 Sage Lyralei Starweaver.svg]]
+- Compare with [[physical-characteristics-beholder-teeth-shape-vgm]]
+- Parallels [[Captain Mistwalker]]
+- Related: [[hand-of-vecna-xdmg (items)]]
+- Connects to [[step_088]]
+- See also: [[river-styx-xdmg (traps-hazards)]]
+- Related: [[Templates World Builder Templates Template Quest.md]]
+- Affected by [[Location City the Crystal Stock Exchange V1 the Crystal Stock Exchange.svg]]
+- Requires [[Assets Locations Location City Temporal Navigation V1 Temporal Navigation.svg]]
+- Requires [[step_070]]
+- Influences [[LORE00069_Legends_Entry_70]]
+- Parallels [[Faction Reputation]]
+- Leads to [[Ω_System-CLI-spells-school-necromancy]]
+- Related: [[step_088 (phase_072)]]
+- Connects to [[Royal Treasury]]
+- Leads to [[QUEST00196_Side_Quest_197]]
+- Requires [[Moral Quandaries]]
+- See also: [[step_008 (phase_059)]]
+- Parallels [[step_023 (phase_060)]]
+- Leads to [[QUEST00228_Side_Quest_229]]
+- Originates from [[Random Encounter Tables - Aquabyssos (Lore)]]
+- See also: [[Session 4 (06_Sessions)]]
+- Originates from [[step_069 (phase_038)]]
+- Related: [[NPC01346_Hilda_Xendar_the_Broken]]
+- Requires [[Portrait NPC Jasper Three Eyes Flint Jasper Three Eyes Flint.png_1 (Portraits)]]
+- Leads to [[Location City Tide Bondkeeper V1 Tide Bondkeeper.svg]]
+- Connects to [[QUEST0037_In_Search_of_Justice]]
+- Connects to [[Assets Locations Location City Economic Planning V1 Economic Planning.png]]
+- Requires [[Political Intrigue of Meridian]]
+- Compare with [[step_035]]
+- Affected by [[step_079 (phase_100)]]
+- Connects to [[goblin-hexer-xmm (fey)]]
+- Parallels [[half-orc (races)]]
+- Leads to [[Marine Druids 2]]
+- Related: [[ENC00221_Social_Encounter_222]]
+- Influences [[step_021]]
+- Influences [[step_078 (phase_027)]]
+- Requires [[Keeper Elara Mindwell 2]]
+- Connects to [[Aboleth Territories]]
+- Parallels [[Portrait NPC Pressure Angel Benthia Pressure Angel Benthia.png_1 (Portraits)]]
+- Affected by [[NPC0134_Osric_Darkwater]]
+- See also: [[EVENT00056_Political_Event_57]]
+- See also: [[Crown Reunification Protocols]]
+- Connects to [[The Memory Nexus]]
+- Originates from [[Githyanki Raiding Parties Githyanki Purpose]]
+- Influences [[Assets Locations Location City Harbor Facilities V1 Harbor Facilities.svg]]
+- See also: [[Treaty of the Depths (D&D_References)]]
+- Originates from [[step_062 (phase_043)]]
+- Compare with [[step_037 (phase_035)]]
+- Related: [[step_099]]
+- Originates from [[Crisis Command Center 2]]
+- Originates from [[Faction_Information]]
+- Related: [[Assets Locations Location City Portal Technician Voidwalk V1 Portal Technician Voidwalk.svg]]
+- Compare with [[Internal Affairs Divisio (D&D_References)]]
+- Compare with [[Armor of Psychic Resistance Xdmg]]

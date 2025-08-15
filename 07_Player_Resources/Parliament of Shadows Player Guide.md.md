@@ -9,6 +9,7 @@ created: '2025-08-14'
 modified: '2025-08-14'
 evaluated: '2025-08-14'
 improvements: 20
+tags: [combat, magic, exploration, lore]
 ---
 
 ## 🔧 Deep Evaluation Improvements
@@ -128,3 +129,136 @@ Mentioned in The Second Prophecy of Shadows
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+
+> [!quote] 💬 Quote
+> Notable saying or prophecy
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Influences [[step_046 (phase_023)]]
+- Leads to [[ITEM01493_Decorated_Lock_of_Durability]]
+- Originates from [[step_016]]
+- See also: [[Portrait NPC Reflection Captain Vantage V1 Reflection Captain Vantage.svg]]
+- Affected by [[step_068]]
+- See also: [[Procedures Dual Integration Therapy]]
+- Leads to [[transport-via-plants-xphb (spells)]]
+- Affected by [[LOC0122_Watchford]]
+- Leads to [[Keeper of Crowns Lydia Starfall (D&D_References)]]
+- Influences [[step_025 (phase_084)]]
+- Influences [[Ranger Xphb Monster Slayer Xge]]
+- Parallels [[giant-venomous-snake-xmm (beast)]]
+- Compare with [[step_033]]
+- Influences [[adventuring-gear-xphb (tables)]]
+- Originates from [[Assets Locations Location City Courier Ripplestone V1 Courier Ripplestone.svg]]
+- Influences [[step_090 (phase_009)]]
+- Compare with [[Memory Souvenirs]]
+- See also: [[Location City Stormwind Supplies V1 Stormwind Supplies.png]]
+- Parallels [[step_090 (phase_032)]]
+- Affected by [[Quartermaster Judith Steadyhold]]
+- Originates from [[step_091 (phase_023)]]
+- Compare with [[Location City Prophetic Dreams V1 Prophetic Dreams.svg]]
+- See also: [[step_019 (phase_072)]]
+- Related: [[Deepcaster]]
+- Compare with [[Assets Locations Location City the Harbormaster S Office the Harbormaster S Office.svg]]
+- Compare with [[NPC01447_Baelor_Winterborn_the_Strong]]
+- Connects to [[step_100 (phase_049)]]
+- Parallels [[shapechange-xphb (spells)]]
+- Compare with [[grimlock-dmg (races)]]
+- Connects to [[LORE00043_History_Entry_44]]
+- Compare with [[ITEM00558_Warded_Leather_of_Fortitude]]
+- Connects to [[step_018 (phase_033)]]
+- Related: [[The Dual Mind]]
+- See also: [[step_042 (phase_026)]]
+- Compare with [[Hallow Xphb]]
+- Connects to [[The Glass Twins 2]]
+- Connects to [[Lord Flux the Inconsistent]]
+- Originates from [[ancient-brass-dragon-xmm (dragon)]]
+- Influences [[The Drowned Prophets]]
+- Related: [[QUEST00235_Personal_Quest_236]]
+- Connects to [[ENC00196_Combat_Encounter_197]]
+- See also: [[Assets Portraits Portrait NPC Surface Supremacists Surface Supremacists.svg]]
+- Parallels [[step_053 (phase_094)]]
+- Requires [[Forgotten Realms Bane]]
+- Connects to [[step_007 (phase_051)]]
+- Affected by [[Multi-Dimensional Perception]]
+- Leads to [[Abyssal Trenches 2]]
+- Affected by [[Location City Archivist Reef Bookkeeper Archivist Reef Bookkeeper.svg]]
+- Requires [[step_055 (phase_072)]]
+- Leads to [[step_081 (phase_076)]]
+- Leads to [[Githyanki Raiding Parties Raiding Party Transport Mtf]]
+- Requires [[Fragment Wars (D&D_References)]]
+- See also: [[mire-the-mind (optional-features)]]
+- Connects to [[step_010 (phase_085)]]
+- Connects to [[The Shattering 2]]
+- Affected by [[04_Resources_Assets_Locations_location-city-commander-reef-shadowstrike-v1-commander-reef-shadowstrike.svg]]
+- Compare with [[DUN00150_Dungeon_151]]
+- Originates from [[Portrait NPC the Golden Fishook Tavern the Golden Fishook Tavern.svg]]
+- Affected by [[animated-flying-sword-xmm (construct)]]
+- Leads to [[Flying Xphb]]
+- See also: [[The Great Sky Harbor 2]]
+- Requires [[EVENT00009_Political_Event_10]]
+- Related: [[NPC01844_Hilda_Thornweave_the_Redeemed]]
+- Leads to [[step_085 (phase_021)]]
+- Connects to [[location-city-tribune-cassia-v1-tribune-cassia.svg]]
+- Connects to [[step_057]]
+- Leads to [[Location City Senator Marina Tidecaller V1 Senator Marina Tidecaller.svg]]
+- Related: [[ITEM00807_Time-worn_Ring_of_Truth]]
+- Compare with [[Abyssos Prime Docks]]
+- Requires [[The Future Seer (D&D_References)]]
+- Related: [[Candle Xphb]]
+- Related: [[ITEM00093_Venomous_Staff_of_Power]]
+- Leads to [[step_093 (phase_077)]]
+- Originates from [[02_Worldbuilding_Places_The_Philosophical_Depths]]
+- See also: [[step_072 (phase_022)]]
+- Influences [[crab-xmm (beast)]]
+- See also: [[quetzalcoatlus-mpmm (beast)]]
+- Related: [[step_052 (phase_049)]]
+- Connects to [[Noble Knight Variant]]
+- Compare with [[Portrait NPC the Emperor S Memories the Emperor S Memories.svg]]
+- Leads to [[aberrant-spirit-beholderkin-xphb (aberration)]]
+- Requires [[The Progressive Coalition Headquarters]]
+- Influences [[Memory Gardens (D&D_References)]]
+- Originates from [[LOC00228_Cities_Location_229]]
+- Originates from [[Secret Society Membership Rolls]]
+- Compare with [[Assets Locations Location City Sage Iris Crystalbloom Sage Iris Crystalbloom.svg]]
+- Leads to [[QUEST00146_Side_Quest_147]]
+- Originates from [[LOC00210_Planes_Location_211]]
+- Originates from [[National Security Council]]
+- Originates from [[LOC0061_Bridgemoor]]
+- See also: [[Quest - The Healing Mission]]
+- Originates from [[gunpowder-powder-horn-xdmg (items)]]
+- Affected by [[Harmonic_Resonance_Evolution]]
+- Affected by [[Temporal Paradox Prevention]]
+- Influences [[Location City Education Department V1 Education Department.svg]]
+- Originates from [[LOC00104_Dungeons_Location_105]]
+- Leads to [[Trade_Goods_Catalog (02_Worldbuilding)]]
+- Affected by [[lizardfolk-vgm (races)]]
+- See also: [[step_044 (phase_011)]]
+- Connects to [[random-settlements-current-calamity (tables)]]

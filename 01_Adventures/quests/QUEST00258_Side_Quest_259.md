@@ -37,3 +37,10 @@ Complete the side quest objective.
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+
+## Rewards
+- Knowledge of ancient secrets
+
+## Quest Hook
+An old friend asks for help

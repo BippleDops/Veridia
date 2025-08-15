@@ -8,6 +8,7 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
+tags: [combat, magic, social, exploration, lore]
 --- # 04-chapter-3-character-classes ---
 
 ## Description
@@ -137,3 +138,169 @@ world: Both
 ## Secrets
 - Hidden knowledge
 - Personal mysteries
+
+
+> [!dm] DM Note
+> Hidden treasure can be found here with a DC 15 Investigation check
+
+## Prep Checklist
+
+### Npcs Needed
+- [ ] List key NPCs for this session
+- [ ] Prepare voices and mannerisms
+
+### Locations
+- [ ] Review location descriptions
+- [ ] Prepare battle maps if needed
+
+### Encounters
+- [ ] Balance combat encounters
+- [ ] Prepare social encounter notes
+
+### Props
+- [ ] Handouts ready
+- [ ] Music/ambiance selected
+
+### Rules
+- [ ] Review relevant rules
+- [ ] Prepare quick reference
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Equipment: PHB p.143-161)*
+*(Weapons: PHB p.146-147)*
+*(Armor: PHB p.144-146)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- See also: [[step_016]]
+- Compare with [[physical-variations-yuan-ti-snake-head-shape-vgm]]
+- See also: [[LOC00114_Wilderness_Location_115]]
+- Affected by [[Location City the Perfect Symbiosis the Perfect Symbiosis.svg]]
+- Requires [[LOC00247_Cities_Location_248]]
+- Originates from [[Silence-Keeper Mute]]
+- See also: [[The Coral Palace Complex]]
+- Related: [[Symbol Heraldry Financial Crime Investigation Financial Crime Investigation.svg]]
+- Requires [[NPC00850_Dara_Ravenheart_the_Strong]]
+- Influences [[step_033 (phase_068)]]
+- See also: [[ENC00275_Social_Encounter_276]]
+- Originates from [[LOC00133_Wilderness_Location_134]]
+- Connects to [[The Merchant's Covenant 3 (D&D_References)]]
+- Leads to [[The Artisans' Collective]]
+- Connects to [[MOC_Locations]]
+- See also: [[Crystal Singers (Lore)]]
+- Parallels [[Interfaith Community Centers]]
+- Influences [[step_028 (phase_037)]]
+- Compare with [[Harbor Master's Tower (D&D_References)]]
+- Leads to [[cow-xdmg (items)]]
+- Requires [[step_018]]
+- Related: [[Portrait NPC Quee... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- See also: [[Template-Group]]
+- Leads to [[step_048 (phase_044)]]
+- Connects to [[LOC00264_Dungeons_Location_265]]
+- Requires [[MON00136_Undead_Creature_137]]
+- Related: [[step_029 (phase_086)]]
+- Connects to [[LOC00230_Cities_Location_231]]
+- See also: [[Umbral Exchange (Lore)]]
+- Parallels [[step_088 (phase_090)]]
+- Affected by [[Whispering Wildlands]]
+- Requires [[ITEM00570_Dragon_Scale_Cloak_of_Resistance]]
+- Parallels [[ENC00078_Combat_Encounter_79]]
+- Connects to [[DUN00132_Dungeon_133]]
+- Requires [[step_097]]
+- Requires [[step_006 (phase_012)]]
+- Parallels [[Quest1 (01_Adventures)]]
+- Related: [[step_067 (phase_065)]]
+- Leads to [[step_065 (phase_021)]]
+- Related: [[ONE_MILLION_ACHIEVED]]
+- Connects to [[NPC01605_Qadim_Ironwood_the_Wise]]
+- Parallels [[step_058]]
+- See also: [[Location City Interfaith Cooperation V1 Interfaith Cooperation.svg]]
+- Leads to [[Drow Keptolo Mtf]]
+- Compare with [[step_082 (phase_022)]]
+- Parallels [[Merchant Guild Headquarters]]
+- See also: [[Enspelled Weapon Level 2 Xdmg]]
+- Affected by [[The Archive of Unremembered Things (D&D_References)]]
+- Requires [[LORE0074_Secret_of_the_Sundering]]
+- Influences [[Drider Xmm]]
+- Requires [[Location City Paradox Engineer Zeno Paradox Engineer Zeno.svg]]
+- Connects to [[step_062 (phase_094)]]
+- Originates from [[Assets Handouts Handout Handout Cult Text with Marginalia Cult Text with Marginalia.png]]
+- Leads to [[FAC00052_Cults_53]]
+- Influences [[Tidal Deepvoice (D&D_References)]]
+- Originates from [[Temporal Control]]
+- Compare with [[Assets Locations Location City the Shadowmire Tavern the Shadowmire Tavern.svg]]
+- Originates from [[step_083 (phase_020)]]
+- Related: [[Actions in Combat Describing Actions Xdmg]]
+- See also: [[Family Structures and Child-Rearing]]
+- Originates from [[ENC00147_Social_Encounter_148]]
+- Parallels [[step_038 (phase_035)]]
+- Influences [[QUEST00159_Personal_Quest_160]]
+- Compare with [[The_Destiny_Uprising]]
+- See also: [[spinel-xdmg (items)]]
+- See also: [[step_099]]
+- Connects to [[NPC00890_Corvus_Xendar_the_Swift]]
+- Influences [[QUEST00193_Personal_Quest_194]]
+- See also: [[QUEST00189_Side_Quest_190]]
+- Parallels [[Quartermaster Judith Supplycurrent]]
+- Connects to [[Enspelled Armor Level 7 Xdmg]]
+- Leads to [[step_073 (phase_085)]]
+- Leads to [[step_034 (phase_083)]]
+- Connects to [[Medical Director Healing Tidecurrent]]
+- Related: [[Thieves Guild (Guilds)]]
+- Related: [[step_019]]
+- Leads to [[step_066 (phase_005)]]
+- Parallels [[04_Resources_Assets_Portraits_portrait-npc-master-smith-priest-vulcan-depthforge-master-smith-priest-vulcan-depthforge.svg_Quick_Ref]]
+- Originates from [[Forbidden Knowledge 2]]
+- Related: [[Location City Scholar David Crossref V1 Scholar David Crossref.svg]]
+- Requires [[Map Map Singing Trenches Rift V2 Singing Trenches Rift.svg]]
+- Requires [[LORE00095_Prophecies_Entry_96]]
+- Originates from [[Merged Magic 2]]
+- Requires [[Assets Locations Location City Foam Deepferment V1 Foam Deepferment.svg]]
+- Compare with [[NPC01289_Orion_Ironforge_the_Swift]]
+- Influences [[Location City Current Riders Guild Current Riders Guild.svg]]
+- Originates from [[Norse Hermod]]
+- Connects to [[step_003 (phase_082)]]
+- Originates from [[step_027]]
+- Compare with [[step_060 (phase_035)]]
+- Originates from [[Aquabyssos]]
+- Requires [[Educational Systems and Institutions (02_Worldbuilding)]]
+- Influences [[Creating a Gnoll War Band Notable Behavior]]
+- Leads to [[Vehicle Ship Trench Lantern Surveyor V2 Trench Lantern Surveyor.svg]]
+- Leads to [[Location City Hybrid Communities Integration Hybrid Communities Integration.svg]]
+- See also: [[maw-demon-mpmm (fiend)]]
+- Connects to [[Assets Symbols Symbol Heraldry Border Castles Border Castles.svg]]
+- Parallels [[LORE00218_History_Entry_219]]
+- Influences [[step_023]]
+- Originates from [[forcecage-xphb (spells)]]

@@ -1,6 +1,6 @@
 ---
-aliases: ["Branwen Proudmore the Strong", "branwen proudmore the strong", "Branwen Proudmore Strong", "Strong the Proudmore Branwen"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Branwen Proudmore the Strong", "branwen proudmore the strong", "Branwen Proudmore Strong", "Strong the Proudmore Branwentags: [npc, character, combat, magic, social, exploration, puzzle, lore]er]
 type: npc
 ---
 
@@ -144,3 +144,132 @@ Being extorted by criminals
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Noble** (MM p.348)
+Modifications:
+- HP: 39
+- AC: 16
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Parallels [[The Deepmost Current 2]]
+- Originates from [[NPC00163_Jorah_Ravenheart]]
+- Connects to [[step_100 (phase_021)]]
+- Influences [[step_044]]
+- Leads to [[The Future Seer (D&D_References)]]
+- Originates from [[SHOP00041_Specialty_Shop_42]]
+- Compare with [[LORE00064_History_Entry_65]]
+- See also: [[Assets Item Artifact Enspelled Armor Level 7 Xdmg V7 Enspelled Armor Level 7 Xdmg.png]]
+- Requires [[The Shattering of the Crown]]
+- Leads to [[ENC00066_Environmental_Encounter_67]]
+- Affected by [[step_012]]
+- Leads to [[Rival Merchant Prince Gold]]
+- Connects to [[Parliament of Echoes - Public Gallery (D&D_References)]]
+- Leads to [[Marid Xmm]]
+- Leads to [[step_026 (phase_030)]]
+- Affected by [[LOC00235_Wilderness_Location_236]]
+- Parallels [[University Heights 2]]
+- Compare with [[Portrait NPC Financial Corruption V2 Financial Corruption.svg_1 (Portraits)]]
+- Connects to [[NPC00241_Urien_Hawthorne]]
+- Originates from [[Buying a Magic Item Magic Item Price Xge]]
+- Requires [[Arcane Study]]
+- Compare with [[MON00081_Constructs_Creature_82]]
+- Influences [[step_007]]
+- Requires [[Translator Polyglot Petra]]
+- Influences [[Location City Harbor District Customs House V1 Harbor District Customs House.svg]]
+- Connects to [[Artificer's Row (D&D_References)]]
+- Related: [[NPC01466_Urien_Nightfall_the_Guardian]]
+- Parallels [[step_061 (phase_055)]]
+- Influences [[step_003]]
+- Connects to [[reliquary-charm-xdmg (rewards)]]
+- Leads to [[ENC0038_Random_Encounter_39]]
+- Influences [[step_050 (phase_043)]]
+- Requires [[Market Mystery]]
+- Requires [[Item Artifact Dagger of Venom Xdmg V3 Dagger of Venom Xdmg.png]]
+- Parallels [[Customs Authority]]
+- Originates from [[Elven Mythrien Sarath Mtf]]
+- Originates from [[step_080 (phase_056)]]
+- Influences [[step_057 (phase_056)]]
+- Parallels [[SHOP00008_Magical_Shop_9]]
+- See also: [[step_066]]
+- Parallels [[improvised-damage-xdmg (traps-hazards)]]
+- Requires [[Location City Echo Scribe Matthias Echo Scribe Matthias.svg]]
+- Connects to [[Location City Constitutional Monarchy Constitutional Monarchy.svg]]
+- See also: [[Assets Locations Location City Council of Currents V1 Council of Currents.svg]]
+- Requires [[step_059 (phase_077)]]
+- See also: [[Counter-Surveillance]]
+- Affected by [[portrait-npc-mayor-thompson-v1-mayor-thompson.svg]]
+- See also: [[Health Educator Rose Awareness]]
+- Compare with [[size-xphb (variant-rules)]]
+- Affected by [[Portrait NPC Quest the Kingpin S Fall V2 Quest the Kingpin S Fall.svg]]
+- Leads to [[LOC00087_Towns_Location_88]]
+- Requires [[DUN00195_Dungeon_196]]
+- Influences [[step_086]]
+- Requires [[Norse Heimdall]]
+- Affected by [[step_081 (phase_091)]]
+- Influences [[step_081]]
+- Compare with [[portrait-npc-azure-shard-v1-azure-shard.svg]]
+- Originates from [[Thought-Speaker Silent]]
+- Influences [[System Operator Tide Watchwright 2]]
+- Compare with [[step_029 (phase_077)]]
+- Leads to [[Treble-Echo Whistle Brainsplitter]]
+- Requires [[Spymaster Quartz Clearview (D&D_References)]]
+- Connects to [[ENC00031_Combat_Encounter_32]]
+- See also: [[Crystal Technology (D&D_References)]]
+- Compare with [[Stop the Crystal Festival Ritual]]
+- Connects to [[Handout Handout Embassy Invitation Embassy Invitation.png]]
+- Leads to [[Location City Deep Watchfulrest Deep Watchfulrest.svg]]
+- Connects to [[step_026 (phase_085)]]
+- Affected by [[Engineering Chief Master Wrench Pressureborn]]
+- Requires [[fighter-xphb-champion-xphb (classes)]]
+- Leads to [[theater]]
+- See also: [[Location City Whisper Island Docks Whisper Island Docks.svg]]
+- Connects to [[SPELL00144_Arcane_Spell_145]]
+- Requires [[Commercial Navigation Services]]
+- Related: [[Portrait NPC Archbishop Mordecai Stormwright V1 Archbishop Mordecai Stormwright.svg_1 (Portraits)]]
+- Compare with [[Calendar_Conversions_Realm_Window]]
+- Originates from [[NPC01109_Rhiannon_Winterborn_the_Mystic]]
+- Compare with [[Magic User 2]]
+- Connects to [[Assets Locations Location City the Diplomatic Quarter V1 the Diplomatic Quarter.svg]]
+- Affected by [[step_098]]
+- Leads to [[Celtic Belenus]]
+- Compare with [[step_062]]
+- Compare with [[step_021]]
+- Requires [[Public Safety Complex]]
+- Affected by [[Falling Net Xdmg]]
+- Requires [[step_008 (phase_066)]]
+- Related: [[Scholar-Merchant Remembrance Tidekeep]]
+- See also: [[step_032]]
+- See also: [[step_090 (phase_009)]]
+- Compare with [[Flying Snake Xmm]]
+- Compare with [[The Memory Anchor (D&D_References)]]
+- Originates from [[Embassy Quarter 2]]
+- Parallels [[NPC00782_Ewan_Underhill_the_Fallen]]
+- Leads to [[step_079 (phase_037)]]
+- Affected by [[Credit Networks]]
+- Related: [[Surface Coalition 2]]
+- See also: [[step_079 (phase_100)]]
+- Compare with [[step_046 (phase_008)]]
+- See also: [[step_073 (phase_058)]]
+- Affected by [[Portrait NPC Quest the Seventh Song V1 Quest the Seventh Song.svg]]

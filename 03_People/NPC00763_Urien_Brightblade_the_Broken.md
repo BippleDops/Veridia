@@ -1,6 +1,6 @@
 ---
-aliases: ["Urien Brightblade the Broken", "urien brightblade the broken", "Urien Brightblade Broken", "Broken the Brightblade Urien"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Urien Brightblade the Broken", "urien brightblade the broken", "Urien Brightblade Broken", "Broken the Brightblade Urientags: [npc, character, combat, exploration, lore]er]
 type: npc
 ---
 
@@ -146,3 +146,134 @@ Discovered something valuable
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Priest** (MM p.348)
+Modifications:
+- HP: 47
+- AC: 16
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Advantage**: See PHB p.173
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Compare with [[Master Banker Cornelius Coinwright]]
+- Leads to [[Brother Thaddeus the Rememberer]]
+- Parallels [[Location Tracker 2]]
+- Parallels [[The Phantom Current]]
+- Originates from [[Marcus Aurelius Shimmerstone]]
+- Parallels [[The_Crown''s_Burden (02_Worldbuilding)]]
+- Leads to [[SPELL00034_Divine_Spell_35]]
+- Requires [[Bridesmaid of Zuggtmoy Oota]]
+- Originates from [[MON00123_Aberrations_Creature_124]]
+- Compare with [[ENC00148_Environmental_Encounter_149]]
+- Leads to [[the-norse-pantheon-norse-deities-phb (tables)]]
+- Influences [[step_082 (phase_019)]]
+- Related: [[potion-of-diminution-xdmg (items)]]
+- Compare with [[deck-of-illusions-xdmg (decks)]]
+- Related: [[Map World Layer World Political Boundaries V1 World Political Boundaries.svg]]
+- Connects to [[The Temporal War Battlefields]]
+- Connects to [[step_086]]
+- Related: [[ENC00093_Social_Encounter_94]]
+- Originates from [[Quantum Compromise Protocols 2]]
+- Connects to [[LOC00177_Dungeons_Location_178]]
+- Leads to [[Assets Art Identity Crisis Resolution.png]]
+- Parallels [[Skyfall Observatory]]
+- Influences [[step_085]]
+- Affected by [[DUN00103_Dungeon_104]]
+- Related: [[Captain Sky Horizon]]
+- Related: [[feinting-attack-xphb (optional-features)]]
+- Originates from [[step_074 (phase_050)]]
+- Affected by [[Port Quarter 2]]
+- Influences [[step_087]]
+- Related: [[step_084 (phase_016)]]
+- Influences [[step_047 (phase_072)]]
+- Affected by [[step_075 (phase_009)]]
+- Related: [[Assets Locations Location City Tribune Cassia V1 Tribune Cassia.svg]]
+- Originates from [[Russet Mold Vgm]]
+- Originates from [[Assets Art Npcs the Corroded Crown.png]]
+- Compare with [[Location City Surface Contacts V1 Surface Contacts.svg]]
+- See also: [[Assets Locations Location City Withered Court V1 Withered Court.svg]]
+- Originates from [[step_017 (phase_028)]]
+- Affected by [[construct-spirit-metal-xphb (construct)]]
+- Affected by [[exotic-languages-phb (tables)]]
+- Compare with [[orc-xphb (races)]]
+- Compare with [[step_071 (phase_085)]]
+- Leads to [[lesser-restoration-xphb (spells)]]
+- Originates from [[Assets Locations Location City Elena Prismweaver Elena Prismweaver.svg]]
+- Connects to [[Continental Connections Map]]
+- See also: [[step_063 (phase_024)]]
+- See also: [[Assets Locations Location City the Deepmost Current V1 the Deepmost Current.svg]]
+- Compare with [[Assets Locations Location City Poseidon V1 Poseidon.svg]]
+- Leads to [[X L-12 the Deep Mothers Bridge of Dreams (Encounters)]]
+- Requires [[NPC0183_Xara_Brightblade]]
+- Leads to [[QUEST00014_Main_Quest_15]]
+- Originates from [[Nolzurs Marvelous Pigments Xdmg]]
+- Compare with [[step_025 (phase_023)]]
+- See also: [[step_021]]
+- Affected by [[Roleplaying a Beholder Beholder Bonds Vgm]]
+- Originates from [[Location City Temporal Viewing Chambers Temporal Viewing Chambers.svg]]
+- Parallels [[step_001 (phase_090)]]
+- Influences [[NPC00566_Dara_Darkwater_the_Wanderer]]
+- Affected by [[step_037 (phase_052)]]
+- Leads to [[step_049]]
+- Related: [[step_056 (phase_054)]]
+- Parallels [[ENC00222_Combat_Encounter_223]]
+- Leads to [[Nightmare Protection]]
+- Connects to [[NPC01792_Rhiannon_Ironwood_the_Scholar]]
+- Requires [[ITEM01142_Superior_Elixir_of_Fortune]]
+- Compare with [[Location City Adult Education Programs Adult Education Programs.svg]]
+- Related: [[Network Coordinator Wave Linkmaster]]
+- Influences [[step_081 (phase_028)]]
+- Leads to [[step_060 (phase_080)]]
+- Influences [[The Depth Speaker (D&D_References)]]
+- Leads to [[The Soul Forge 2]]
+- Affected by [[Location City the Mourning Depths the Mourning Depths.svg]]
+- Originates from [[LORE00185_Prophecies_Entry_186]]
+- Related: [[Cleric Xphb Death Domain Dmg]]
+- Requires [[Ecological Balance Protocols 2]]
+- Requires [[THIRTY_THOUSAND_IMPROVEMENTS_ACHIEVED]]
+- Compare with [[step_051 (phase_016)]]
+- Requires [[Titan Foundationbearer]]
+- See also: [[06-chapter-6-blingdenstone (out-of-the-abyss)]]
+- See also: [[step_024 (phase_083)]]
+- Affected by [[step_042 (phase_041)]]
+- Influences [[Portrait NPC Duke Lysander Crystalvein V1 Duke Lysander Crystalvein.svg_1 (Portraits)]]
+- Originates from [[SPELL00073_Nature_Spell_74]]
+- Leads to [[Sunlight Crystal]]
+- Affected by [[Assets Locations Location City Memory Preservation Technology Memory Preservation Technology.svg]]
+- Requires [[QUEST00182_Personal_Quest_183]]
+- Connects to [[Assets Locations Location City Void Touched Pilgrims V1 Void Touched Pilgrims.svg]]
+- Originates from [[The Forbidden Archives]]
+- Influences [[Beast Bond Xge]]
+- Related: [[Portrait NPC Embassy of Eternal Shadows V2 Embassy of Eternal Shadows.svg_1 (Portraits)]]
+- Compare with [[LORE00252_Prophecies_Entry_253]]
+- Requires [[step_018]]
+- Originates from [[Merchant Council of Port Meridian]]
+- Originates from [[step_098 (phase_018)]]
+- See also: [[NPC00170_Zephyr_Quicksilver_the_Wise]]
+- Connects to [[step_055]]
+- Influences [[Inspector Helena Truthseeker]]
+- Influences [[LOC00142_Towns_Location_143]]
+- Requires [[04_Resources_Assets_Symbols_symbol-heraldry-divine-transformation-theolog-divine-transformation-theolog.svg]]
+- Affected by [[FAC00076_Guilds_77]]

@@ -1,6 +1,5 @@
 ---
-enhanced: true
-tags: [enhanced, 13_performance]
+enhanced: trtags: [enhanced, 13_performance, combat, magic, lore]ce]
 created: 2025-08-15T12:24:41.119892
 modified: 2025-08-15T12:24:41.119897
 aliases: [MULTIMEDIA GENERATION COMPLETE]
@@ -59,3 +58,139 @@ publish: false --- # MULTIMEDIA GENERATION COMPLETE ## Overview MULTIMEDIA GENER
 ![[04_Resources/Assets/Items/Items/item_illusion_generation_mirrors_icon.png]]
 ![[04_Resources/Assets/Items/Items/item_illusion_generation_mirrors_display.png]]
 ![[04_Resources/Assets/Misc/complete_faction_warfare_system_resource_management.png]]
+
+
+> [!dm] DM Note
+> Ancient magic still lingers here
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[ULTIMATE_VAULT_ACHIEVEMENT]]
+- [[optimization_report_20250814_180706]]
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+- [[ULTIMATE_ASSET_REPORT]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Inspiration**: See PHB p.125
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+
+## Connections
+
+- See also: [[step_026 (phase_048)]]
+- Influences [[mind-blade-vgm (items)]]
+- Influences [[QUEST00235_Personal_Quest_236]]
+- Influences [[step_077 (phase_040)]]
+- Related: [[Working Class Culture and Traditions]]
+- Connects to [[Grappler Xphb]]
+- Connects to [[The Wind-Rider Cultural Center (02_Worldbuilding)]]
+- Requires [[ITEM00805_Time-worn_Ring_of_Destiny]]
+- Connects to [[ITEM00703_Infernal_Tome_of_Eternity]]
+- Affected by [[The Kelp Whisperer]]
+- Parallels [[Memory Tides]]
+- See also: [[step_089 (phase_071)]]
+- See also: [[Scene Scene Pressure Dome Festival Night Pressure Dome Festival Night.png]]
+- See also: [[Dr. Coral Soulseeker]]
+- Leads to [[Assets Locations Location City the Temple of Eternal Tides the Temple of Eternal Tides.svg]]
+- Originates from [[Assets Locations Location City Registry Keeper Mordecai Truthbane V1 Registry Keeper Mordecai Truthbane.svg]]
+- Parallels [[Campaign Epilogues]]
+- Requires [[Scene Scene Crystal Trench Aurora V1 Crystal Trench Aurora.png]]
+- See also: [[NPC00794_Orion_Youngblood_the_Wanderer]]
+- Connects to [[step_055 (phase_045)]]
+- Compare with [[ITEM00223_Blessed_Staff_of_Wounding]]
+- Related: [[Location City Underwater Fermentation V1 Underwater Fermentation.svg]]
+- Related: [[Assets Locations Location City Maelstrom Palace V1 Maelstrom Palace.svg]]
+- Leads to [[dwarves-in-the-clan-clans-notable-trait-mtf (tables)]]
+- Influences [[Location City Diplomatic Immunity V1 Diplomatic Immunity.svg]]
+- Parallels [[Chicken Xdmg]]
+- Connects to [[step_044]]
+- Leads to [[SPELL00028_Arcane_Spell_29]]
+- Leads to [[Assets Item Artifact Enspelled Armor Level 7 Xdmg V7 Enspelled Armor Level 7 Xdmg.png]]
+- Connects to [[MON00072_Constructs_Creature_73]]
+- Originates from [[green-hag-xmm]]
+- Affected by [[Madame Pearl Currentflow]]
+- Requires [[QUEST00376_Side_Quest_377]]
+- See also: [[Assets Locations Location City Councilor Tidal Balancekeeper V1 Councilor Tidal Balancekeeper.svg]]
+- Leads to [[Historical Prophetic Analysis 2]]
+- Connects to [[Crystals & Curiosities]]
+- Influences [[Navigator Abyssal Truthseeker]]
+- Affected by [[Public Works Director Boris Bridgewright]]
+- Requires [[Tiefling Names Virtue Xge]]
+- Influences [[step_013 (phase_074)]]
+- Leads to [[ENC00128_Environmental_Encounter_129]]
+- Connects to [[Palace Guard Captain Ironclad]]
+- Connects to [[step_097 (phase_077)]]
+- Parallels [[Elf Random Height and Weight Mtf]]
+- Requires [[Assets Locations Location City Senator Cornelius Depthwalker Senator Cornelius Depthwalker.svg]]
+- Parallels [[step_099 (phase_007)]]
+- See also: [[Ancient Tunnels Beneath Palace 2]]
+- Leads to [[LOC00153_Cities_Location_154]]
+- Originates from [[step_022 (phase_011)]]
+- Connects to [[DUN00122_Dungeon_123]]
+- Requires [[Expedition to the Sunless Depths (D&D_References)]]
+- Affected by [[step_066 (phase_030)]]
+- Requires [[03-chapter-2-creating-a-character (players-handbook-2024)]]
+- Leads to [[skills-phb (tables)]]
+- Leads to [[Journey Board 2]]
+- Connects to [[Spider Xmm]]
+- Influences [[Portrait NPC Paladin Commander Sir Radiant Dawnbreaker V1 Paladin Commander Sir Radiant Dawnbreaker.svg_1 (Portraits)]]
+- Influences [[step_091 (phase_055)]]
+- See also: [[Memory Merchant Centers]]
+- See also: [[Transformations]]
+- Affected by [[Symbol Heraldry Ela... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Influences [[Royal Intelligence Service]]
+- Requires [[Assets Locations Location City University Philosophy Departments University Philosophy Departments.svg]]
+- Requires [[NPC00812_Kaelen_Jadeclaw_the_Seeker]]
+- Parallels [[Wind Songs]]
+- Leads to [[FAC00019_Guilds_20]]
+- Compare with [[ITEM00928_Lesser_Salve_of_Clarity]]
+- Parallels [[earth-elemental-xmm]]
+- Connects to [[step_091 (phase_094)]]
+- Influences [[step_026 (phase_018)]]
+- Leads to [[FAC00052_Guilds_53]]
+- Connects to [[Foreign Crime Syndicate]]
+- Leads to [[Scene Scene Golden Trade Route Convoy V1 Golden Trade Route Convoy.svg]]
+- Requires [[The Eternal Senate 2]]
+- Originates from [[Symbol Heraldry the Anonymous Accords V1 the Anonymous Accords.svg]]
+- Connects to [[step_064 (phase_080)]]
+- See also: [[Portrait NPC God King Aetheron God King Aetheron.svg_1 (Portraits)]]
+- Compare with [[SPELL00073_Divine_Spell_74]]
+- Requires [[Cultural Anthropologist Warden Clearlight]]
+- Parallels [[Active Content]]
+- Related: [[Scepter of Tidal Command]]
+- Affected by [[LOC00021_Cities_Location_22]]
+- Related: [[step_033 (phase_042)]]
+- Connects to [[Pilgrim Guide Nautilus Pathfinder]]
+- Originates from [[NPC00753_Branwen_Ashford_the_Mystic]]
+- Influences [[Alpha Leader Marina Depthstrike]]
+- Compare with [[stone-giant-dreamwalker-mpmm (giant)]]
+- Connects to [[gnome-urdlen-mtf (deities)]]
+- See also: [[Portrait NPC Deep... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Originates from [[Cross-Realm Travel Guidelines]]
+- Parallels [[Portrait NPC Storm Empress Tempestas Maelstrom V2 Storm Empress Tempestas Maelstrom.svg_1 (Portraits)]]
+- Compare with [[lolths-sting-xdmg (items)]]
+- Related: [[pot-of-awakening-xdmg (items)]]
+- Related: [[step_045 (phase_050)]]
+- Connects to [[The Restoration Movement (D&D_References)]]
+- Originates from [[downtime-activity-practicing-a-profession-phb (variant-rules)]]
+- Requires [[step_090 (phase_026)]]
+- Requires [[Portrait NPC Deep Anarchists V2 Deep Anarchists.svg]]
+- Requires [[NPC00944_Felicia_Silverleaf_the_Scholar]]
+- Leads to [[step_084]]

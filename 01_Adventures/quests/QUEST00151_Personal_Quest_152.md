@@ -37,3 +37,10 @@ Complete the personal quest objective.
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+
+## Rewards
+- Knowledge of ancient secrets
+
+## Quest Hook
+Strange dreams point the way

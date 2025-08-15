@@ -1,6 +1,6 @@
 ---
-aliases: ["Gareth Quicksilver the Risen", "gareth quicksilver the risen", "Gareth Quicksilver Risen", "Risen the Quicksilver Gareth"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Gareth Quicksilver the Risen", "gareth quicksilver the risen", "Gareth Quicksilver Risen", "Risen the Quicksilver Garethtags: [npc, character, combat, magic, exploration, lore]er]
 type: npc
 ---
 
@@ -144,3 +144,152 @@ Needs help with personal quest
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Bandit** (MM p.343)
+Modifications:
+- HP: 43
+- AC: 12
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Dungeon Master's Guide (DMG) p.38
+- Monster Manual (MM) p.5
+- Volo's Guide to Monsters (VGM) p.10
+- Mordenkainen's Tome of Foes (MTF) p.261
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+- **Spellcasting**: See PHB p.201-205
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Related: [[downtime-activity-research-xge (variant-rules)]]
+- Related: [[Assets Portraits Portrait NPC High Chamberlain Nautilus Deepcurrent High Chamberlain Nautilus Deepcurrent.svg]]
+- See also: [[Assets Locations Location City Keeper of Sorrows Tidal Memento Keeper of Sorrows Tidal Memento.svg]]
+- Compare with [[DUN00080_Dungeon_81]]
+- Influences [[Captain Tempest-Eye Marelda (D&D_References)]]
+- Parallels [[NIGHT_WORK_COMPREHENSIVE_LINKING]]
+- Influences [[Assets Item Artifact Ruby Xdmg V7 Ruby Xdmg.png]]
+- Leads to [[Assets Locations Location City the Dreamwhisper Inn the Dreamwhisper Inn.svg]]
+- Leads to [[Yuan Ti Merrshaulk Vgm]]
+- Compare with [[Location City Memorial Wall of Names Memorial Wall of Names.png]]
+- Requires [[Spell Points]]
+- Connects to [[Healer Dawnshade]]
+- Parallels [[animated-drow-statue-oota (elemental)]]
+- Leads to [[windvane-pota (items)]]
+- Compare with [[step_086 (phase_070)]]
+- Leads to [[Portrait NPC High Cultivist Jasper Lifebinder High Cultivist Jasper Lifebinder.svg]]
+- See also: [[MON00091_Aberrations_Creature_92]]
+- See also: [[Transportation Guild Masters]]
+- Requires [[Temporal Echo]]
+- Influences [[Lysandra Tidecaller (D&D_References)]]
+- Influences [[step_064]]
+- Requires [[The Unity Protocols]]
+- Originates from [[Crystal-Powered Vessels 2]]
+- Related: [[revenant-xmm (undead)]]
+- Originates from [[QUEST00355_Side_Quest_356]]
+- Affected by [[Cross-Realm Cooperation Authority]]
+- Affected by [[Faerunian Gond Scag]]
+- Requires [[step_066 (phase_097)]]
+- Parallels [[step_020 (phase_024)]]
+- Compare with [[Portal Commander Marina Bridgewright (D&D_References)]]
+- Compare with [[mind-blank-xphb (spells)]]
+- Influences [[Assets Locations Location City Anchor Stronghaul Anchor Stronghaul.svg]]
+- Compare with [[The Crystal Forge Guild]]
+- Connects to [[step_055 (phase_091)]]
+- See also: [[Location City Screaming Gardens Songwood Grove Screaming Gardens Songwood Grove.svg]]
+- Requires [[step_097 (phase_030)]]
+- Compare with [[step_010]]
+- Originates from [[step_025 (phase_059)]]
+- Parallels [[step_052]]
+- Leads to [[Portrait NPC Duke Theron Depthguard V2 Duke Theron Depthguard.svg]]
+- Originates from [[Bio-Integration Researcher Coral Lifeshaper]]
+- Leads to [[step_005 (phase_080)]]
+- Affected by [[chef-xphb (feats)]]
+- Connects to [[Artificer's Row 2]]
+- Originates from [[Portrait NPC Quest the Crown S Return Quest the Crown S Return.svg]]
+- See also: [[step_023 (phase_036)]]
+- Influences [[NPC00781_Aeliana_Hawthorne_the_Seeker]]
+- Compare with [[Temporal Harvest (D&D_References)]]
+- Affected by [[Vehicle Ship Void Skimmer Cutter Void Skimmer Cutter.svg]]
+- Connects to [[ENC00119_Social_Encounter_120]]
+- Affected by [[Location City Count Viktor Pressureborn V1 Count Viktor Pressureborn.svg]]
+- Compare with [[step_032 (phase_097)]]
+- Related: [[NPC01390_Aeliana_Ironwood_the_Bold]]
+- Affected by [[Memoriam]]
+- See also: [[step_094 (phase_040)]]
+- Leads to [[Pilgrimage Coordinators]]
+- Related: [[LOC00264_Cities_Location_265]]
+- See also: [[Prismatic Falls]]
+- Parallels [[Deep Adaptation Processes (D&D_References)]]
+- Parallels [[step_063]]
+- Compare with [[LORE00075_Legends_Entry_76]]
+- Requires [[ENC00173_Environmental_Encounter_174]]
+- Related: [[Voidmist Essence]]
+- Originates from [[step_022]]
+- Leads to [[step_087 (phase_093)]]
+- Parallels [[step_087]]
+- Requires [[step_052 (phase_014)]]
+- See also: [[Piwafwi of Fire Resistance Oota]]
+- Influences [[step_090 (phase_049)]]
+- Originates from [[adult-gold-dragon-xmm]]
+- Leads to [[Quest - The Sanctuary's Secret]]
+- Compare with [[Random_Shop (02_Worldbuilding)]]
+- Leads to [[Map Map Bioluminescent Forest Ambush V2 Bioluminescent Forest Ambush.svg]]
+- Connects to [[Commercial Hubs and Markets (D&D_References)]]
+- See also: [[step_029]]
+- Requires [[LOC00081_Dungeons_Location_82]]
+- Connects to [[NPC00430_Ewan_Proudmore_the_Wise]]
+- Compare with [[Quest - Memory War 2]]
+- Leads to [[LOC0116_OldBridge]]
+- Related: [[LORE00151_Prophecies_Entry_152]]
+- Leads to [[Session 05 (The_Sunken_Conspiracy)]]
+- Affected by [[Maddening Darkness Xge]]
+- Requires [[Shadow Script]]
+- Leads to [[figurine-of-wondrous-power-golden-lions-xdmg (items)]]
+- Requires [[LOC00284_Wilderness_Location_285]]
+- Originates from [[step_069]]
+- Connects to [[Portrait NPC Warr... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Compare with [[location-city-the-tidecaller-v1-the-tidecaller.svg]]
+- Connects to [[ENC00284_Social_Encounter_285]]
+- Related: [[Portrait NPC the Silhouette Surgeon Prime the Silhouette Surgeon Prime.svg_1 (Portraits)]]
+- See also: [[step_023 (phase_062)]]
+- Influences [[ENC00016_Combat_Encounter_17]]
+- Connects to [[galeb-duhr-xmm (elemental)]]
+- Compare with [[step_084]]
+- Connects to [[QUEST00260_Personal_Quest_261]]
+- Parallels [[1_DM_Toolkit_DM_Board]]
+- Leads to [[step_028 (phase_046)]]
+- Leads to [[LOC00279_Planes_Location_280]]
+- Affected by [[The Scribes' Sanctuary]]
+- Influences [[The Archive of Suppressed Evidence]]

@@ -8,6 +8,7 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
+tags: [combat, exploration, lore]
 --- # 08-using-ability-scores ---
 
 ## Description
@@ -33,3 +34,128 @@ world: Both
 ## Notes
 
 *Additional notes*
+
+
+> [!dm] DM Note
+> This NPC knows more than they let on
+
+## See Also
+- [[Related_Content]]
+
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Related: [[FAC00068_Guilds_69]]
+- Affected by [[step_085]]
+- Originates from [[Council of Mages (D&D_References)]]
+- Related: [[NPC00752_Dara_Ashford_the_Risen]]
+- Originates from [[step_041 (phase_053)]]
+- Related: [[SPELL00161_Divine_Spell_162]]
+- See also: [[Assets Art Barkeep Salty Sarah.png]]
+- Parallels [[step_089 (phase_027)]]
+- Compare with [[Truth and Madness]]
+- Affected by [[npc-bonds (tables)]]
+- Influences [[Young Silver Dragon Xmm]]
+- Leads to [[Instrument of the Bards Anstruth Harp Xdmg]]
+- Influences [[Shadow Surgery Network (D&D_References)]]
+- Influences [[Circle of Eternal Seasons (D&D_References)]]
+- Related: [[Eldritch Secrets 2]]
+- Influences [[Home Embeds Vault Graph]]
+- Connects to [[step_028 (phase_065)]]
+- Parallels [[step_009 (phase_018)]]
+- See also: [[LORE00240_Prophecies_Entry_241]]
+- Compare with [[chain-xphb (items)]]
+- Compare with [[frigid-water-xdmg (traps-hazards)]]
+- Parallels [[step_021]]
+- See also: [[LOC0092_EastGrove]]
+- Related: [[NPC01959_Caelum_Dawnstrider_the_Wanderer]]
+- Leads to [[02_Worldbuilding_Lore_The_Memory_Trade]]
+- Influences [[MON00101_Aberrations_Creature_102]]
+- Parallels [[step_083]]
+- Leads to [[draakhorn-rot (items)]]
+- Leads to [[step_059 (phase_012)]]
+- Originates from [[Causality Shadow]]
+- Parallels [[Portrait NPC Lich Queen Morwyn the Deathless Lich Queen Morwyn the Deathless.svg]]
+- Affected by [[Portrait NPC Captain Threshold V1 Captain Threshold.svg]]
+- Requires [[step_093 (phase_017)]]
+- Influences [[step_035]]
+- Leads to [[LOC00047_Dungeons_Location_48]]
+- Influences [[The Waking Prophets]]
+- Requires [[Rogue Xphb Thief Xphb]]
+- Originates from [[step_065 (phase_064)]]
+- Related: [[Resonance Peaks]]
+- Influences [[Location City Diplomatic Deepcurrent V1 Diplomatic Deepcurrent.svg]]
+- Related: [[Order of the Crystal Flame (Groups)]]
+- Connects to [[COMPLETE_SYSTEM_SUMMARY]]
+- Parallels [[ENC00127_Combat_Encounter_128]]
+- Related: [[Assets Locations Location City Quest the Blackmail Papers V1 Quest the Blackmail Papers.svg]]
+- See also: [[High Vigil Keeper Thalassa Depthmind (D&D_References)]]
+- Affected by [[The Seventh Shard (D&D_References)]]
+- Related: [[Memory Merchant Valeria (Lore)]]
+- Compare with [[ENC0049_Random_Encounter_50]]
+- Requires [[step_075 (phase_065)]]
+- Connects to [[step_074]]
+- Affected by [[Assets Item Artifact Weird Tank Pota V7 Weird Tank Pota.png]]
+- Connects to [[07-chapter-6-equipment (players-handbook-2024)]]
+- See also: [[Reality Anchor Bombs]]
+- Affected by [[step_001 (phase_021)]]
+- Influences [[Depth Effect Quick Reference 2]]
+- Influences [[LOC00202_Planes_Location_203]]
+- See also: [[Summon Fiend Xphb]]
+- Connects to [[step_091 (phase_074)]]
+- Affected by [[Mirror Duchess Silviana]]
+- Related: [[INV-001 (D&D_References)]]
+- Parallels [[step_068]]
+- Leads to [[step_057 (phase_011)]]
+- See also: [[SPELL00033_Nature_Spell_34]]
+- Connects to [[List Spells Classes Sorcerer]]
+- Requires [[Symbol Heraldry Sacred Texts of Transformation V1 Sacred Texts of Transformation.svg]]
+- Connects to [[step_095 (phase_045)]]
+- Parallels [[Portrait NPC the Reality Sick Mayor Lord Quantum Aldrich V1 the Reality Sick Mayor Lord Quantum Aldrich.svg]]
+- See also: [[norse-thrym (deities)]]
+- Influences [[step_063]]
+- Originates from [[LOC00227_Towns_Location_228]]
+- Leads to [[Memory Vault]]
+- Affected by [[Pressure-Lock Systems]]
+- Compare with [[ENC00298_Social_Encounter_299]]
+- Leads to [[step_092 (phase_100)]]
+- Requires [[step_034]]
+- See also: [[Hematite Xdmg]]
+- Related: [[step_071 (phase_053)]]
+- See also: [[Depth Spirituality 2]]
+- Parallels [[First Officer Marina Depthcurrent]]
+- Parallels [[ENC00374_Combat_Encounter_375]]
+- Parallels [[urban-encounters (tables)]]
+- Requires [[step_061 (phase_026)]]
+- Leads to [[step_035 (phase_046)]]
+- Parallels [[QUEST00000_Side_Quest_1]]
+- Compare with [[step_021 (phase_033)]]
+- Affected by [[Emergency Coordinator Storm Quickfix]]
+- Related: [[SPELL00050_Arcane_Spell_51]]
+- See also: [[Location City the Crystalline Wastes the Crystalline Wastes.svg]]
+- Originates from [[The Unnamed Chronicler (D&D_References)]]
+- Requires [[Creature Creature Young Green Dragon Xmm V4 Young Green Dragon Xmm.png]]
+- Affected by [[Beholder Xmm (legendary-group)]]
+- Compare with [[NPCs_Statblocks (D&D_Sourcebooks)]]
+- Parallels [[step_049 (phase_051)]]
+- Requires [[Captain Dimensional (D&D_References)]]
+- See also: [[FAC00039_Guilds_40]]
+- Originates from [[step_017 (phase_007)]]
+- Originates from [[First Officer Marina Depthcurrent 2]]
+- Requires [[Comparative Religion Experts]]
+- Requires [[NPC00784_Urien_Frostwhisper_the_Mystic]]
+- Parallels [[step_018 (phase_019)]]

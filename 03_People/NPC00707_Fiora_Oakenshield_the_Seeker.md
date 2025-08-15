@@ -1,6 +1,6 @@
 ---
-aliases: ["Fiora Oakenshield the Seeker", "fiora oakenshield the seeker", "Fiora Oakenshield Seeker", "Seeker the Oakenshield Fiora"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Fiora Oakenshield the Seeker", "fiora oakenshield the seeker", "Fiora Oakenshield Seeker", "Seeker the Oakenshield Fioratags: [npc, character, combat, puzzle, lore]er]
 type: npc
 ---
 
@@ -139,3 +139,127 @@ Family member has gone missing
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Advantage**: See PHB p.173
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Affected by [[ENC00466_Combat_Encounter_467]]
+- Affected by [[LOC00182_Cities_Location_183]]
+- Requires [[step_040 (phase_030)]]
+- Parallels [[step_086 (phase_033)]]
+- Leads to [[Pearlshell 2]]
+- Compare with [[step_062 (phase_071)]]
+- See also: [[step_085 (phase_014)]]
+- Leads to [[step_051 (phase_006)]]
+- Compare with [[Deepsteel (D&D_References)]]
+- Parallels [[ITEM01257_Lesser_Incense_of_Vigor]]
+- Connects to [[Clues by Location 2]]
+- Influences [[LOC00209_Planes_Location_210]]
+- Requires [[The Null Cathedral (D&D_References)]]
+- Connects to [[Portrait NPC Quest the Failing Magic Quest the Failing Magic.svg]]
+- Requires [[Icon of Ravenloft Cos]]
+- Connects to [[potion-of-climbing-xdmg (items)]]
+- Influences [[step_024 (phase_066)]]
+- Influences [[The Resonant Hermit]]
+- Influences [[NPC0077_Minerva_Ironforge]]
+- Connects to [[Aethermoor_Royal_Navy (02_Worldbuilding)]]
+- Parallels [[Map World Layer World Political Boundaries World Political Boundaries.svg]]
+- Connects to [[SPELL00002_Nature_Spell_3]]
+- Influences [[Shadow Protocol Facility 2]]
+- Connects to [[NPC00216_Nerys_Proudmore_the_Scholar]]
+- Influences [[Ecological Balance Protocols (D&D_References)]]
+- See also: [[EVENT00060_Natural_Event_61]]
+- Related: [[QUEST00265_Personal_Quest_266]]
+- Affected by [[LOC00110_Towns_Location_111]]
+- Compare with [[NPC01367_Lyanna_Xendar_the_Wise]]
+- Influences [[Portrait NPC Scholar Priest Tidal Memory V2 Scholar Priest Tidal Memory.svg_1 (Portraits)]]
+- Parallels [[destructive-wave-xphb (spells)]]
+- Connects to [[step_094 (phase_092)]]
+- Originates from [[The Banshee Caverns]]
+- Influences [[Assets Locations Location City Feast Saltyflavor Feast Saltyflavor.svg]]
+- Affected by [[ITEM00979_Pure_Elixir_of_Healing]]
+- Influences [[step_055 (phase_027)]]
+- Parallels [[Phantom Orchestras]]
+- Connects to [[The Aether Works 2]]
+- Related: [[linen-1-sq-yd-xdmg (items)]]
+- Leads to [[Foreign Crime Syndicate]]
+- Compare with [[step_099 (phase_088)]]
+- Requires [[NPC01568_Lyanna_Winterborn_the_Strong]]
+- Compare with [[Underground Network]]
+- Originates from [[belt-of-hill-giant-strength-xdmg (items)]]
+- Leads to [[NPC00585_Brenna_Crystalbrook]]
+- Compare with [[step_031 (phase_057)]]
+- Related: [[LOC00292_Cities_Location_293]]
+- Leads to [[Poisoned Needle Xdmg]]
+- Requires [[location-city-tribune-cassia-tribune-cassia.svg]]
+- Related: [[NPC01813_Cedric_Ironwood_the_Seeker]]
+- See also: [[Lighthouse of Storms 2]]
+- Requires [[step_032 (phase_066)]]
+- Compare with [[LOC0136_Marshstead]]
+- Originates from [[LORE00232_Prophecies_Entry_233]]
+- Related: [[Location City Experimental Medical Ethics Experimental Medical Ethics.svg]]
+- Affected by [[Falling Xphb]]
+- Connects to [[ITEM01485_Elegant_Tool_Kit_of_Convenience]]
+- Compare with [[Planning Director Strategy Deepthink]]
+- Leads to [[LOC00074_Towns_Location_75]]
+- Connects to [[bullywug-bog-sage-xmm (fey)]]
+- Related: [[step_024 (phase_055)]]
+- Leads to [[NPC00401_Baelor_Ironwood_the_Lost]]
+- Related: [[guidance-xphb (spells)]]
+- Leads to [[step_096]]
+- Leads to [[portrait-npc-captain-between-captain-between.svg]]
+- Connects to [[LOC00151_Planes_Location_152]]
+- Influences [[step_043 (phase_028)]]
+- Related: [[NPC01752_Thalia_Voidwalker_the_Wanderer]]
+- See also: [[QUEST00158_Personal_Quest_159]]
+- Related: [[Temporal Anchor Points]]
+- Related: [[ENC00196_Combat_Encounter_197]]
+- Influences [[step_020 (phase_057)]]
+- Related: [[special-features-what-minor-property-does-it-have]]
+- Related: [[Portrait NPC High Priestess Scylla Deepdream V2 High Priestess Scylla Deepdream.svg_1 (Portraits)]]
+- Related: [[NPC0087_Hilda_Goldleaf]]
+- Requires [[Note Name]]
+- Influences [[Crystal Sentinels]]
+- Originates from [[02_Worldbuilding_Items_Elemental_Air_Filter]]
+- Affected by [[step_061]]
+- See also: [[step_058 (phase_038)]]
+- Requires [[NPC01918_Malakai_Proudmore_the_Redeemed]]
+- Originates from [[LOC00020_Cities_Location_21]]
+- Affected by [[NPC01641_Ysara_Winterborn_the_Redeemed]]
+- Originates from [[The Recursion Oracle]]
+- Influences [[The Growth Gardens]]
+- Leads to [[NPC00667_Felicia_Goldleaf_the_Strong]]
+- Compare with [[step_075 (phase_064)]]
+- Requires [[Dame Rosanna Truthseeker]]
+- Parallels [[Palace Security Chief (D&D_References)]]
+- Originates from [[jeweled-platinum-ring-xdmg (items)]]
+- Leads to [[step_010]]
+- Influences [[female-steeder-mpmm (monstrosity)]]
+- Related: [[Emergency Reality Generators]]
+- Leads to [[Deep Mother (D&D_References)]]
+- Affected by [[step_075 (phase_025)]]
+- Connects to [[The Memory War Academy]]
+- Related: [[Portrait NPC the Lady S Garden Society the Lady S Garden Society.svg]]
+- Affected by [[step_050]]
+- Affected by [[QUEST00032_Personal_Quest_33]]
+- Requires [[step_084 (phase_048)]]

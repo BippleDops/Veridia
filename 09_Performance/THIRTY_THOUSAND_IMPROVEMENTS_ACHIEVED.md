@@ -1,6 +1,5 @@
 ---
-enhanced: true
-tags: [enhanced, 09_performance]
+enhanced: trtags: [enhanced, 09_performance, combat, magic, puzzle, lore]ce]
 created: 2025-08-15T12:24:36.085242
 modified: 2025-08-15T12:24:36.085243
 aliases: [THIRTY THOUSAND IMPROVEMENTS ACHIEVED]
@@ -170,3 +169,139 @@ publish: false --- # 🚀 30,056 Improvements Successfully Implemented! ## 🎯 
 
 
 *The adventure continues...*
+
+> [!dm] DM Note
+> This NPC knows more than they let on
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[10K_GENERATION_REPORT]]
+- [[ULTIMATE_VAULT_ACHIEVEMENT]]
+- [[NEXT_LEVEL_IMPROVEMENTS]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Combat**: See PHB p.189-198
+- **Conditions**: See PHB p.290-292
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Leads to [[step_082 (phase_078)]]
+- Influences [[steel-wind-strike-xphb (spells)]]
+- Related: [[step_044 (phase_031)]]
+- Requires [[Creature Creature Aerisi Kalinoth Pota V2 Aerisi Kalinoth Pota.png]]
+- See also: [[deck-of-many-things#Moon]]
+- Compare with [[Duergar Hammerer Mpmm]]
+- Leads to [[Portrait NPC Captain Depths Walker Marina Captain Depths Walker Marina.svg]]
+- Originates from [[Quest - Parliamentary Corruptio]]
+- Parallels [[Portrait NPC the Pressure Pirates V1 the Pressure Pirates.svg]]
+- Originates from [[underwater-encounter-distance (tables)]]
+- Compare with [[step_062 (phase_078)]]
+- Leads to [[step_098 (phase_021)]]
+- Compare with [[Location City Meditation Centers Meditation Centers.svg]]
+- Requires [[Field Engineer Stone Installwrigh]]
+- Requires [[Reality Anchor Networks (Items)]]
+- Influences [[SPELL00163_Arcane_Spell_164]]
+- Parallels [[Nonhuman Deep Sashelas]]
+- Influences [[ITEM00286_Venomous_Axe_of_Wounding]]
+- Related: [[step_079 (phase_078)]]
+- Connects to [[location-city-depth-wardens-v1-depth-wardens.svg]]
+- Leads to [[Order of Mirrors]]
+- Influences [[Age of Wonders (D&D_References)]]
+- Influences [[Portrait NPC Vex Shadowthorn V2 Vex Shadowthorn.svg]]
+- Influences [[Emergency Medical Research Foundation]]
+- Related: [[LOC00269_Cities_Location_270]]
+- See also: [[Coral Reef Republics]]
+- Affected by [[NPC01659_Alaric_Xendar_the_Swift]]
+- Affected by [[Wind Song Traditions (D&D_References)]]
+- Parallels [[NPC00215_Solas_Dawnstrider_the_Wise]]
+- Compare with [[The Zone Map Codex (D&D_References)]]
+- Parallels [[step_027 (phase_044)]]
+- Parallels [[Blood Current Express]]
+- Influences [[Ethereal Anchors (D&D_References)]]
+- Leads to [[LOC00165_Dungeons_Location_166]]
+- Leads to [[step_014 (phase_070)]]
+- Affected by [[orc-names-orc-female-names-vgm (tables)]]
+- Leads to [[LORE00190_Legends_Entry_191]]
+- See also: [[Aquabyssos_World_Guide.png]]
+- Related: [[QUEST00055_Main_Quest_56]]
+- See also: [[The Godhead Ritual]]
+- See also: [[The Twilight Gardens (D&D_References)]]
+- Leads to [[MON00092_Aberrations_Creature_93]]
+- Requires [[Crystal Singers (Lore)]]
+- Compare with [[nabassu-mpmm (fiend)]]
+- Compare with [[polearm-master-xphb (feats)]]
+- Influences [[Assets Locations Location City Pressure Engineers Pressure Engineers.svg]]
+- Influences [[Surgeon Coral Seamender (D&D_References)]]
+- Parallels [[LOC00260_Dungeons_Location_261]]
+- Originates from [[Portrait NPC Investigator Supreme Lucian Brightwater Investigator Supreme Lucian Brightwater.svg]]
+- Leads to [[Quest - Missing Shipments]]
+- Leads to [[step_094]]
+- Compare with [[Assets Locations Location City Serenity Stillwater V1 Serenity Stillwater.svg]]
+- Compare with [[Campaign_Era_Timeline]]
+- Requires [[Communications Officer Tidecall 2]]
+- Connects to [[Shadow Surgical Instruments (D&D_References)]]
+- Affected by [[Greek Athena]]
+- Connects to [[step_040 (phase_086)]]
+- Leads to [[Quest - The Shadow Conspiracy]]
+- Connects to [[Port Meridian Medical Institute (D&D_References)]]
+- Related: [[allosaurus-xmm (beast)]]
+- Parallels [[Jasper Xdmg]]
+- Originates from [[step_005 (phase_032)]]
+- Leads to [[LOC00151_Dungeons_Location_152]]
+- Requires [[QUEST0060_The_Cursed_Secret]]
+- Originates from [[Temporal Magic Research 2]]
+- Parallels [[hallucinatory-terrain-xphb (spells)]]
+- See also: [[The Safe Houses (D&D_References)]]
+- Requires [[Portrait NPC Original Glaucus V2 Original Glaucus.svg_1 (Portraits)]]
+- Parallels [[NPC01692_Cedric_Lightbringer_the_Cunning]]
+- Parallels [[elf-names-family-xge (tables)]]
+- Related: [[Bowl of Commanding Water Elementals Xdmg]]
+- Related: [[Assets Vehicles Vehicle Ship Trench Lantern Surveyor V1 Trench Lantern Surveyor.svg]]
+- Leads to [[LOC00074_Cities_Location_75]]
+- Leads to [[QUEST00360_Side_Quest_361]]
+- Parallels [[step_090 (phase_027)]]
+- Affected by [[list-spells-optional-features-gong-of-the-summit]]
+- Related: [[Religious Privacy Advocates 2]]
+- Connects to [[Location City Madame Rosalind Goldleaf V1 Madame Rosalind Goldleaf.svg]]
+- See also: [[Medical Applications Coordinator]]
+- Related: [[step_022 (phase_019)]]
+- Related: [[Portrait NPC Admiral Cassandra Stormwind Admiral Cassandra Stormwind.svg]]
+- See also: [[Cultural Festivals Committee (Groups)]]
+- Compare with [[ITEM00909_Concentrated_Herb_of_Swiftness]]
+- Affected by [[step_037 (phase_095)]]
+- Requires [[step_026]]
+- Influences [[The Bridge of Understanding]]
+- Influences [[ENC0026_Random_Encounter_27]]
+- Affected by [[step_034 (phase_081)]]
+- Parallels [[NPC01142_Nerys_Brightblade_the_Redeemed]]
+- Influences [[Assets Locations Location City Moderate Depth Coalition Moderate Depth Coalition.svg]]
+- Requires [[Chorus Master Melodia Depthsong]]
+- Parallels [[Historical Research 2]]
+- Influences [[step_068 (phase_097)]]
+- Leads to [[ENC00401_Combat_Encounter_402]]
+- Related: [[step_004 (phase_089)]]
+- Connects to [[step_094]]
+- See also: [[lightly-obscured-xphb (variant-rules)]]
+- Compare with [[Sunken Kingdom of Nereon]]
+- Leads to [[Research Director Aquarius Brightwater]]
+- Requires [[Aquabyssos (D&D_References)]]

@@ -1,4 +1,5 @@
 ---
+created: 2025-08-15
 aliases: ["Alaric Frostwhisper the Scholar", "alaric frostwhisper the scholar", "Alaric Frostwhisper Scholar", "Scholar the Frostwhisper Alaric"]
 tags: [npc, character]
 type: npc
@@ -149,3 +150,143 @@ Is secretly testing the party
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Tasha's Cauldron of Everything (TCE) p.190
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+- **Skills**: See PHB p.174-179
+- **Spellcasting**: See PHB p.201-205
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Compare with [[step_012 (phase_084)]]
+- Connects to [[Mule Xphb]]
+- Originates from [[SPELL00000_Arcane_Spell_1]]
+- Related: [[Spell_Components]]
+- Leads to [[ENC00448_Combat_Encounter_449]]
+- Compare with [[Portrait NPC Enforcer Chief Mako Ironjaw V1 Enforcer Chief Mako Ironjaw.svg_1 (Portraits)]]
+- Originates from [[Portrait NPC Queen Glacialis V1 Queen Glacialis.svg_1 (Portraits)]]
+- Compare with [[step_033 (phase_023)]]
+- Related: [[step_036]]
+- Related: [[Cultural Heritage Center]]
+- Connects to [[Forgotten Realms Tempus]]
+- Compare with [[Gnome Flandal Steelskin Mtf]]
+- See also: [[step_003 (phase_036)]]
+- Influences [[physical-variations-yuan-ti-tongue-color-vgm (tables)]]
+- Requires [[step_018]]
+- Compare with [[step_057 (phase_041)]]
+- Connects to [[Location City Sea Witches Coven Sea Witches Coven.svg]]
+- Leads to [[step_011 (phase_084)]]
+- Related: [[Prep Note (Lore)]]
+- Connects to [[dawn-war-moradin-dmg (deities)]]
+- Originates from [[Blade Ward Xphb]]
+- Influences [[step_027 (phase_062)]]
+- Parallels [[step_066]]
+- Related: [[SPELL00092_Arcane_Spell_93]]
+- Compare with [[10 combat#Dropping_to_0_Hit_Points#Stabilizing_a_Creature]]
+- See also: [[Goldwave Academy]]
+- Originates from [[M-003 Duplicate Crew Player]]
+- Leads to [[step_011 (phase_080)]]
+- Leads to [[Assets Locations Location City Pressure Point Settlement V1 Pressure Point Settlement.svg]]
+- Leads to [[Assets Locations Location City the Pearl Markets V1 the Pearl Markets.svg]]
+- See also: [[QUEST0062_In_Search_of_Peace]]
+- Connects to [[ENC00480_Combat_Encounter_481]]
+- Influences [[trade-goods-phb]]
+- Parallels [[step_005 (phase_033)]]
+- Originates from [[Ecological Balance Protocols 2]]
+- Leads to [[QUEST00027_Main_Quest_28]]
+- Requires [[Portrait NPC the Emerald Sage Willowbark the Emerald Sage Willowbark.svg]]
+- Affected by [[Scholar Temporal Chronos (D&D_References)]]
+- Parallels [[Elder Coral Doomteller]]
+- Compare with [[NPC00595_Wynne_Moonshadow_the_Seeker]]
+- Requires [[Vicious Weapon Xdmg]]
+- See also: [[step_011 (phase_044)]]
+- Parallels [[Memory Extraction Laboratory]]
+- Leads to [[services-phb (tables)]]
+- Connects to [[LOC00021_Towns_Location_22]]
+- See also: [[NPC00786_Jorah_Underhill_the_Risen]]
+- See also: [[Assets Handouts Handout Handout Cult Text with Marginalia V3 Cult Text with Marginalia.png]]
+- Requires [[step_044]]
+- Compare with [[ether-cyclones (tables)]]
+- See also: [[Marina Administration Center]]
+- Influences [[enspelled-weapon-level-6-xdmg (items)]]
+- Influences [[Religious Purists 2]]
+- Leads to [[step_065]]
+- Connects to [[LOC00247_Cities_Location_248]]
+- Connects to [[roleplaying-an-orc-orc-personality-traits-vgm (tables)]]
+- Parallels [[Sacred Historian Coral Deepscribe 2]]
+- See also: [[Assets Locations Location City Commercial District V1 Commercial District.svg]]
+- Requires [[Whisper Jack]]
+- Influences [[MON00041_Constructs_Creature_42]]
+- Compare with [[LOC00148_Planes_Location_149]]
+- Leads to [[Assets Portraits Portrait NPC the Pearl Heist the Pearl Heist.svg]]
+- Influences [[step_067 (phase_056)]]
+- Compare with [[Ancient White Dragon Xmm]]
+- Requires [[SPELL00122_Nature_Spell_123]]
+- Related: [[The Breathing Stone]]
+- See also: [[Portrait NPC Free... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Originates from [[step_065 (phase_055)]]
+- Related: [[cleric-xphb-grave-domain-xge (classes)]]
+- Leads to [[04-chapter-3-dragon-hatchery (hoard-of-the-dragon-queen)]]
+- Requires [[Kelp Extraction Tools]]
+- Leads to [[map_placeholder]]
+- Parallels [[swarm-of-lemures-xmm (fiend)]]
+- Requires [[step_075 (phase_039)]]
+- Compare with [[step_056 (phase_025)]]
+- Originates from [[eberron-the-spirits-of-the-past (deities)]]
+- Parallels [[Special Purpose Sentient Items Communication]]
+- Originates from [[Assets Locations Location City Port Meridian V1 Port Meridian.svg]]
+- See also: [[LOC0040_Havenhollow]]
+- Originates from [[LOC00178_Planes_Location_179]]
+- Connects to [[LOC00112_Wilderness_Location_113]]
+- Originates from [[greyhawk-tharizdun-xdmg (deities)]]
+- Compare with [[step_099]]
+- See also: [[Resonant Starcrystal]]
+- Parallels [[aquamarine-xdmg (items)]]
+- Requires [[High Priest Dagon Deepcaller]]
+- Influences [[Bloodtide Brotherhood (D&D_References)]]
+- Connects to [[DUN00011_Dungeon_12]]
+- Related: [[step_075 (phase_017)]]
+- Compare with [[Vehicle Ship Coral Frame Diver Tender Coral Frame Diver Tender.svg]]
+- Requires [[Barlgura Xmm]]
+- Leads to [[Sentinel Constructs (D&D_References)]]
+- Influences [[step_050]]
+- Leads to [[step_024 (phase_099)]]
+- Influences [[Location City the Wandering Atoll V1 the Wandering Atoll.svg]]
+- Compare with [[Assets Locations Location City the Great Sky Harbor the Great Sky Harbor.svg]]
+- Requires [[Quest - Hadal Expedition 2]]
+- Parallels [[Fort Nautilus (D&D_References)]]
+- Compare with [[step_050 (phase_058)]]
+- Connects to [[step_091 (phase_011)]]
+- See also: [[yuan-ti-broodguard-mpmm]]

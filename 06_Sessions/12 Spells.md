@@ -8,6 +8,7 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
+tags: [combat, magic, exploration, puzzle, lore]
 --- # 12 Spells ---
 
 ## Description
@@ -50,3 +51,172 @@ world: Both
 ## Notes
 
 *Additional notes*
+
+
+> [!dm] DM Note
+> Ancient magic still lingers here
+
+## Prep Checklist
+
+### Npcs Needed
+- [ ] List key NPCs for this session
+- [ ] Prepare voices and mannerisms
+
+### Locations
+- [ ] Review location descriptions
+- [ ] Prepare battle maps if needed
+
+### Encounters
+- [ ] Balance combat encounters
+- [ ] Prepare social encounter notes
+
+### Props
+- [ ] Handouts ready
+- [ ] Music/ambiance selected
+
+### Rules
+- [ ] Review relevant rules
+- [ ] Prepare quick reference
+
+## Campaign Connection
+Holds a clue about the ancient prophecy
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[11 Rules Glossary]]
+- [[AUTONOMOUS_SYSTEM_ACTIVE]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+- **Movement**: See PHB p.190-192
+- **Spellcasting**: See PHB p.201-205
+
+
+## Thematic Connections
+- Magical theory from [[Schools of Magic]]
+- Spell components and [[Material Components]]
+- Wild magic effects via [[Chaos Magic]]
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Equipment: PHB p.143-161)*
+*(Weapons: PHB p.146-147)*
+*(Armor: PHB p.144-146)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Influences [[Dust of Sneezing and Choking Xdmg]]
+- Parallels [[Random_Location_Generator (D&D_References)]]
+- Compare with [[step_094 (phase_030)]]
+- Influences [[step_054 (phase_076)]]
+- Parallels [[SPELL00022_Nature_Spell_23]]
+- Compare with [[NPC00700_Corvus_Hawthorne_the_Broken]]
+- Leads to [[ENC00062_Environmental_Encounter_63]]
+- Connects to [[step_072]]
+- Connects to [[The Seventh Shard (D&D_References)]]
+- Leads to [[Chief Researcher Prism Studywright]]
+- Related: [[Travel Calculator 2]]
+- Affected by [[Assets Locations Location City the Exotic Emporium V1 the Exotic Emporium.svg]]
+- See also: [[Character_Bonds]]
+- See also: [[The Convergence Laboratory]]
+- Related: [[step_033 (phase_071)]]
+- Affected by [[NPC00533_Hilda_Crystalbrook_the_Strong]]
+- Parallels [[sentient-magic-item-communication (tables)]]
+- Compare with [[step_074 (phase_015)]]
+- Influences [[Shadow Duchess Lysandra Voidgrace]]
+- Affected by [[Welcome to Strixhaven Colleges of Strixhaven]]
+- Connects to [[Coastal Communities]]
+- Originates from [[River of Hungry Flame]]
+- Influences [[Corallion (D&D_References)]]
+- Requires [[Portrait NPC Ethics Coordinator Elena Compassion V1 Ethics Coordinator Elena Compassion.svg]]
+- Requires [[step_031]]
+- Requires [[Uniting the Factions]]
+- See also: [[NPC01565_Felicia_Zephyrblade_the_Redeemed]]
+- Compare with [[sprig-of-mistletoe-xphb (items)]]
+- Compare with [[Location1 (Places)]]
+- Leads to [[Assets Locations Location City the Evolution District V1 the Evolution District.svg]]
+- Parallels [[location-city-golden-coral-golden-coral.svg]]
+- Compare with [[NPC00236_Dara_Brightblade]]
+- Requires [[step_044 (phase_023)]]
+- Influences [[step_012]]
+- Connects to [[Three Dragon Ante Set Xphb]]
+- Requires [[Memory Thief 2]]
+- Influences [[step_014 (phase_097)]]
+- Related: [[The Great Convergence Prophecies (Lore)]]
+- Influences [[Assets Locations Location City Envoy Blackwater Jr Envoy Blackwater Jr.svg]]
+- Leads to [[step_050]]
+- Affected by [[Hazards Crystal Plague]]
+- Parallels [[LOC00053_Dungeons_Location_54]]
+- Parallels [[Downtime Activity Crafting an Item Xge]]
+- Requires [[Assets Locations Location City Current Bridgewater Current Bridgewater.svg]]
+- Affected by [[tome-of-the-stilled-tongue-xdmg (items)]]
+- Parallels [[Altitude & Wind Effects]]
+- Influences [[NPC01216_Elric_Darkwater_the_Lost]]
+- Connects to [[Research Outcomes Xge]]
+- Originates from [[step_067]]
+- Connects to [[SPELL00124_Arcane_Spell_125]]
+- Originates from [[Port Meridian - Market Square]]
+- Originates from [[step_062 (phase_100)]]
+- Compare with [[SPELL00108_Divine_Spell_109]]
+- Requires [[star-ruby-xdmg (items)]]
+- Affected by [[Community Mediator Balance Wright 2]]
+- Affected by [[Session 5 the Wind Singer_1 (06_Sessions)]]
+- Affected by [[Echo-Translator Vera 2]]
+- Originates from [[step_056 (phase_039)]]
+- Connects to [[Marina Tidecrest (People)]]
+- Parallels [[Oceanic Historical Society (D&D_References)]]
+- Influences [[step_097 (phase_017)]]
+- Compare with [[09-adventuring#Movement#Activity While Traveling]]
+- Originates from [[step_047 (phase_066)]]
+- Compare with [[Local Informants]]
+- Compare with [[step_084 (phase_014)]]
+- Affected by [[Location City Wealthy Goldstream V1 Wealthy Goldstream.svg]]
+- Parallels [[storage]]
+- Compare with [[04_Resources_Assets_Locations_location-city-master-gardener-sage-harmony-bloomtender-v1-master-gardener-sage-harmony-bloomtender.svg]]
+- Influences [[Void Current Survivors (D&D_References)]]
+- See also: [[Location City the Banshee Caverns the Banshee Caverns.svg]]
+- Leads to [[Portrait NPC Captain Cornelius Deepwater V2 Captain Cornelius Deepwater.svg]]
+- Affected by [[The Dreaming Trench]]
+- Leads to [[Ambassador Coral (D&D_References)]]
+- Requires [[Portrait NPC Duke Sterling Truecrystal V2 Duke Sterling Truecrystal.svg_1 (Portraits)]]
+- Connects to [[Unite or Divide (D&D_References)]]
+- See also: [[giant-crocodile-xmm (beast)]]
+- Parallels [[step_014 (phase_040)]]
+- See also: [[Quest - Cultural Preservation]]
+- Leads to [[Portrait NPC High Cultivist Jasper Lifebinder High Cultivist Jasper Lifebinder.svg_1 (Portraits)]]
+- See also: [[construct]]
+- Connects to [[Shadow Community Political Power]]
+- Compare with [[Foreign Shadow Syndicates]]
+- Originates from [[step_053]]
+- Originates from [[Elder Brain Mpmm]]
+- Affected by [[Assets Locations Location City Coral Craftsman Coral Craftsman.svg]]
+- Connects to [[The Depth Reapers]]
+- Connects to [[step_052]]
+- Affected by [[step_077 (phase_043)]]
+- Compare with [[Aquabyssos Memory Currency]]
+- Leads to [[step_058]]
+- See also: [[step_029]]
+- Affected by [[step_016]]
+- Requires [[NPC0165_Fiora_Brightblade]]
+- Connects to [[Fire Crystals (D&D_References)]]
+- Requires [[Adaptive Architecture]]
+- Compare with [[EVENT00002_Natural_Event_3]]
+- Requires [[step_050 (phase_064)]]
+- Originates from [[QUEST00075_Main_Quest_76]]
+- See also: [[Orthon Mpmm]]
+- Related: [[ITEM00067_Venomous_Sword_of_Wounding]]

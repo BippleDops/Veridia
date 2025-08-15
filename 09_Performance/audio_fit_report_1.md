@@ -1,6 +1,5 @@
 ---
-enhanced: true
-tags: [enhanced, 13_performance]
+enhanced: trtags: [enhanced, 13_performance, combat, exploration, lore]ce]
 created: 2025-08-15T12:24:40.971582
 modified: 2025-08-15T12:24:40.971588
 aliases: [audio fit report 1]
@@ -284,3 +283,131 @@ publish: false --- |---|---:|:---:|---|
 ![[04_Resources/Assets/Maps/World/Continents/world_reports_bidirectional_links_gm.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_reports_bidirectional_links_player.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_witness_reports_gm.png]]
+
+
+> [!dm] DM Note
+> Hidden treasure can be found here with a DC 15 Investigation check
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[audio_fit_report]]
+- [[SVG_REPLACEMENT_REPORT]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Compare with [[Port_Meridian_Harbor_District]]
+- Influences [[Crystal Resonance Detector]]
+- Requires [[adult-green-dragon-xmm (dragon)]]
+- Influences [[ENC00007_Environmental_Encounter_8]]
+- Affected by [[Resistance Leader Thane Freeheart]]
+- Affected by [[step_075 (phase_089)]]
+- Connects to [[Blade Ward Xphb]]
+- Compare with [[Multi-Realm Banking]]
+- Influences [[Crystal Mines (Places)]]
+- Leads to [[Spellcasting Multiclass Spellcaster Spell Slots Per Spell Level Phb]]
+- Compare with [[Location City Harbormaster Tidal Stormcrest Harbormaster Tidal Stormcrest.svg]]
+- Influences [[Assets Locations Location City the Floating Markets of Nereidios the Floating Markets of Nereidios.svg]]
+- Compare with [[Creature Creature Young Green Dragon Xmm Young Green Dragon Xmm.png]]
+- Compare with [[LOC00253_Wilderness_Location_254]]
+- Leads to [[Kuo Toa Dmg]]
+- Connects to [[step_097 (phase_028)]]
+- Requires [[step_013]]
+- Originates from [[MON00041_Constructs_Creature_42]]
+- Originates from [[Seasonal Quarters 2]]
+- Influences [[Symbol Xphb]]
+- Related: [[step_021 (phase_042)]]
+- Affected by [[Cross-Cultural Mediator Balance Wright]]
+- See also: [[Location City Master Elena Preserver V1 Master Elena Preserver.svg]]
+- Connects to [[Scroll of Protection Celestials Xdmg]]
+- See also: [[The Spire of Mercy]]
+- Originates from [[step_081 (phase_027)]]
+- Affected by [[NPC0182_Willem_Brightblade]]
+- Leads to [[FAC00051_Guilds_52]]
+- Related: [[step_007 (phase_023)]]
+- Affected by [[ENC00260_Social_Encounter_261]]
+- Influences [[Portrait NPC Sir Ruben Redtape Sir Ruben Redtape.svg_1 (Portraits)]]
+- Originates from [[beholder-xmm (aberration)]]
+- Requires [[Sage of Two Worlds 2]]
+- Parallels [[ENC00183_Social_Encounter_184]]
+- Connects to [[step_064]]
+- Related: [[Public Libraries]]
+- Requires [[step_071 (phase_087)]]
+- Connects to [[step_071 (phase_064)]]
+- Affected by [[Quest - The Depth War_1 (01_Adventures)]]
+- Influences [[Remorhaz Xmm]]
+- Leads to [[Cult of Screams]]
+- Originates from [[7-appendix-b-monsters (lost-mine-of-phandelver)]]
+- Related: [[Fire Crystal]]
+- Connects to [[Location City Harbor Facilities V1 Harbor Facilities.svg]]
+- Affected by [[Location City Wealthy Goldcurrent Wealthy Goldcurrent.svg]]
+- Requires [[Portrait NPC Duke Lysander Crystalvein V2 Duke Lysander Crystalvein.svg_1 (Portraits)]]
+- Connects to [[Melody Crystalsong]]
+- Related: [[ENC00244_Social_Encounter_245]]
+- Affected by [[ixitxachitl-oota (aberration)]]
+- Leads to [[Cambion Xmm]]
+- Leads to [[Academy of Depths (Academies)]]
+- Parallels [[Quest the Blackmail Papers.png]]
+- Parallels [[In-World_Handouts_Gallery]]
+- Compare with [[Map World Layer World Political Boundaries V2 World Political Boundaries.svg]]
+- See also: [[step_001 (phase_036)]]
+- Affected by [[Azure Shard]]
+- Compare with [[NPC00713_Vesper_Jadeclaw_the_Lost]]
+- Related: [[theater]]
+- Affected by [[Pre-Submersion Ruins 2]]
+- Originates from [[demilich-xmm (legendary-group)]]
+- Parallels [[QUEST0053_The_Frozen_Fortress_Plague]]
+- Connects to [[step_020 (phase_010)]]
+- Compare with [[Assets Locations Location City Port Meridian Harbor District V1 Port Meridian Harbor District.svg]]
+- Compare with [[The Phantom Fleet (D&D_References)]]
+- Affected by [[Spear Xphb]]
+- Related: [[Location City the Sundered Peaks V1 the Sundered Peaks.svg]]
+- Leads to [[Dagger of Venom Xdmg]]
+- Leads to [[step_053 (phase_011)]]
+- Parallels [[step_026 (phase_033)]]
+- Connects to [[Commune With Nature Xphb]]
+- Compare with [[Assets Locations Location City Navigator Flux Timewalker Navigator Flux Timewalker.svg]]
+- Originates from [[Assets Locations Location City Forge Master Korax Hammerdeep Forge Master Korax Hammerdeep.svg]]
+- Requires [[ULTIMATE_ENHANCEMENT_COMPLETE]]
+- Compare with [[Explorer Captain Twist Realitywalker]]
+- Affected by [[ogrillon-ogre-xmm (giant)]]
+- Originates from [[step_090 (phase_075)]]
+- Originates from [[LOC00051_Dungeons_Location_52]]
+- Originates from [[Assets Locations Location City Enchanter Valdris Peacewarden V1 Enchanter Valdris Peacewarden.svg]]
+- Parallels [[portrait-npc-mayor-thompson-v2-mayor-thompson.svg]]
+- Requires [[ITEM00594_Enchanted_Leather_of_Resistance]]
+- See also: [[step_059]]
+- Connects to [[Pool of Sacred Drowning]]
+- Affected by [[dragonguard-lmop (items)]]
+- Originates from [[step_018]]
+- Related: [[Master Thorne Blackforge 2]]
+- Influences [[LORE00249_Legends_Entry_250]]
+- Leads to [[Chronos Tidekeep]]
+- Related: [[Deep-Sea Agricultural Research Institut (D&D_References)]]
+- Parallels [[step_042 (phase_018)]]
+- Leads to [[step_085]]
+- Influences [[03_Mechanics_Conditions_Quick_Ref]]
+- Influences [[QUEST00131_Side_Quest_132]]
+- Originates from [[step_008 (phase_092)]]
+- Influences [[ITEM01322_Ornate_Lantern_of_Reliability]]
+- See also: [[summon-elemental-xphb (spells)]]
+- Originates from [[step_043 (phase_078)]]
+- Compare with [[ENC00403_Combat_Encounter_404]]
+- Affected by [[step_015]]
+- Originates from [[Describe Appearance and Personality Intelligence Xphb]]
+- Related: [[The Sundered Peaks]]

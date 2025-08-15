@@ -8,6 +8,7 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
+tags: [combat, magic, social, exploration, lore]
 --- # 04 Chapter 3 Character Classes ---
 
 ## Description
@@ -76,3 +77,172 @@ world: Both
 ## Secrets
 - Hidden knowledge
 - Personal mysteries
+
+
+> [!dm] DM Note
+> Ancient magic still lingers here
+
+## Prep Checklist
+
+### Npcs Needed
+- [ ] List key NPCs for this session
+- [ ] Prepare voices and mannerisms
+
+### Locations
+- [ ] Review location descriptions
+- [ ] Prepare battle maps if needed
+
+### Encounters
+- [ ] Balance combat encounters
+- [ ] Prepare social encounter notes
+
+### Props
+- [ ] Handouts ready
+- [ ] Music/ambiance selected
+
+### Rules
+- [ ] Review relevant rules
+- [ ] Prepare quick reference
+
+## Campaign Connection
+Former associate of the party's patron
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Equipment: PHB p.143-161)*
+*(Weapons: PHB p.146-147)*
+*(Armor: PHB p.144-146)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Parallels [[MON00096_Constructs_Creature_97]]
+- Affected by [[Assets Locations Location City Keeper of Sorrows Tidal Memento V1 Keeper of Sorrows Tidal Memento.svg]]
+- Parallels [[QUEST0070_The_Sacred_Secret]]
+- Connects to [[NPC01072_Solas_Proudmore_the_Redeemed]]
+- See also: [[The Seven Seals]]
+- Influences [[LOC00286_Cities_Location_287]]
+- Leads to [[step_051]]
+- Parallels [[FAC00088_Guilds_89]]
+- Leads to [[FAC00009_Cults_10]]
+- Related: [[step_040 (phase_004)]]
+- Influences [[NPC01665_Malakai_Ravenheart_the_Strong]]
+- Leads to [[NPC01238_Branwen_Ashford_the_Lost]]
+- Compare with [[Pony Xphb]]
+- Influences [[deck-of-many-things#Ruin]]
+- Related: [[Silver Threadweaver 2]]
+- Requires [[QUEST00167_Personal_Quest_168]]
+- Originates from [[Assets Art Syndicate Enforcers.png]]
+- Requires [[Assets Locations Location City Scribe Master Elena Truthkeeper Scribe Master Elena Truthkeeper.svg]]
+- Connects to [[Map Map Embassy Quarter Court V1 Embassy Quarter Court.svg]]
+- Affected by [[step_036 (phase_052)]]
+- Compare with [[Portrait NPC Shadow Duchess Nyx V2 Shadow Duchess Nyx.svg_1 (Portraits)]]
+- See also: [[Shadow Constitution 2]]
+- Compare with [[Security Chief Razor Currentstorm (D&D_References)]]
+- Parallels [[The Last Acorn]]
+- Influences [[Shadow Magistrate Umbrian Darkwise 2]]
+- Influences [[Underwater Breathing]]
+- Related: [[The First Drowning]]
+- Connects to [[Zircon Xdmg]]
+- Leads to [[Assets Locations Location City Senior Nurse Polyp Tendercurrent V1 Senior Nurse Polyp Tendercurrent.svg]]
+- See also: [[Location City Surface Underwater Trade Surface Underwater Trade.svg]]
+- Connects to [[LORE00085_Legends_Entry_86]]
+- Requires [[step_098 (phase_012)]]
+- Parallels [[Pressure Cult (Cults_and_Movements)]]
+- Connects to [[Portrait NPC Ancient King Pelagios V1 Ancient King Pelagios.svg_1 (Portraits)]]
+- See also: [[Staff of Frost Xdmg]]
+- Related: [[Assets Locations Location City Elena Recordkeeper V1 Elena Recordkeeper.svg]]
+- Compare with [[SPELL00016_Arcane_Spell_17]]
+- Connects to [[NPC00553_Elric_Winterborn_the_Fallen]]
+- Influences [[Assets Item Artifact Dagger of Venom Xdmg Dagger of Venom Xdmg.png]]
+- Requires [[step_066]]
+- See also: [[Assets Locations Location City the Infinite Garden the Infinite Garden.svg]]
+- Parallels [[04_Resources_Assets_Symbols_symbol-heraldry-sister-astara-the-ever-watching-sister-astara-the-ever-watching.svg]]
+- Related: [[Adamantine Weapon Xdmg]]
+- See also: [[individual-treasure-challenge-510 (tables)]]
+- See also: [[step_037 (phase_021)]]
+- Influences [[Bard Xphb College of Swords Xge]]
+- Compare with [[Assets Locations Location City the Foundation Depths V1 the Foundation Depths.svg]]
+- Affected by [[Theoretical Physicist Marina Voidwright 2]]
+- Influences [[Location City the Lighthouse Keepers the Lighthouse Keepers.svg]]
+- Leads to [[boon-of-quick-casting (rewards)]]
+- Leads to [[ENC00173_Social_Encounter_174]]
+- Influences [[QUEST00043_Main_Quest_44]]
+- Affected by [[Assets Symbols Symbol Heraldry Border Castles Border Castles.svg]]
+- Connects to [[Arcane Master Voidweav 2]]
+- Requires [[shovel-xphb (items)]]
+- See also: [[NPC0032_Gideon_Stormwind]]
+- Originates from [[NPC01402_Faelyn_Hawthorne_the_Swift]]
+- Originates from [[Harmony Cores (Items)]]
+- Requires [[step_086 (phase_023)]]
+- Originates from [[step_038]]
+- Connects to [[step_097 (phase_043)]]
+- Requires [[step_006 (phase_043)]]
+- Related: [[FAC00034_Guilds_35]]
+- Originates from [[step_009 (phase_092)]]
+- See also: [[Brave Depthfixer 2]]
+- See also: [[NPC00673_Lyanna_Xendar_the_Broken]]
+- Affected by [[The Hall of Records (D&D_References)]]
+- Compare with [[SPELL00153_Nature_Spell_154]]
+- Requires [[Shadow Conspiracy Investigation]]
+- Compare with [[Root-Speaker Vera Deepbark]]
+- Originates from [[step_084 (phase_064)]]
+- Leads to [[step_087 (phase_046)]]
+- Affected by [[The Emperor's Memories (D&D_References)]]
+- Influences [[Cultural Integration Council (Organizations)]]
+- Compare with [[Assets Locations Location City Lumengarde V1 Lumengarde.svg]]
+- Connects to [[swarm-of-rot-grubs-mpmm (beast)]]
+- Connects to [[The Green Apocalypse 2]]
+- Originates from [[Portrait NPC Deep Priest Covenant V2 Deep Priest Covenant.svg]]
+- See also: [[Shadow Trackhound 2]]
+- Influences [[The Emerald Sage Willowbark]]
+- See also: [[Assets Locations Location City Sea Sprite Sea Sprite.svg]]
+- Related: [[Map World Layer Faction Territories and Influence V1 Faction Territories and Influence.svg]]
+- Leads to [[Quest - The Successor's Burden]]
+- Requires [[Portrait NPC Queen Glacialis V2 Queen Glacialis.svg]]
+- Parallels [[Deepwatch Guard (Lore)]]
+- Connects to [[riding-horse-xmm]]
+- See also: [[Quick Save]]
+- Affected by [[step_009]]
+- Compare with [[LORE00182_History_Entry_183]]
+- Influences [[light-hammer-xphb (items)]]
+- Related: [[LOC00172_Dungeons_Location_173]]
+- Connects to [[FAC00071_Orders_72]]
+- See also: [[Keras Stormwind]]
+- Parallels [[ITEM01120_Superior_Elixir_of_Fortune]]
+- See also: [[Scene Scene Frozen Throne Coronation V1 Frozen Throne Coronation.svg]]
+- Originates from [[Memory Crystal Archivist Nautilus Storykeeper (D&D_References)]]
+- Requires [[3 Phandalin]]
+- Requires [[Crystal Navigation Tools (Items)]]
+- Related: [[portrait-npc-the-party-v2-the-party.svg_1 (Portraits)]]
+- See also: [[step_029]]

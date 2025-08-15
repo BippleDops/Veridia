@@ -1,6 +1,6 @@
 ---
-aliases: ["Pyria Stormwind the Wise", "pyria stormwind the wise", "Pyria Stormwind Wise", "Wise the Stormwind Pyria"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Pyria Stormwind the Wise", "pyria stormwind the wise", "Pyria Stormwind Wise", "Wise the Stormwind Pyriatags: [npc, character, combat, magic, social, puzzle, lore]er]
 type: npc
 ---
 
@@ -137,3 +137,132 @@ Needs discrete help with family scandal
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Veteran** (MM p.350)
+Modifications:
+- HP: 19
+- AC: 11
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Originates from [[Strike Team Communications (D&D_References)]]
+- Influences [[Travel Xphb]]
+- Requires [[Economic Manipulation (D&D_References)]]
+- Requires [[step_094 (phase_059)]]
+- Connects to [[Roleplaying a Giant Giant Bonds Vgm]]
+- Related: [[step_028]]
+- Connects to [[MON00131_Aberrations_Creature_132]]
+- See also: [[step_043 (phase_049)]]
+- Related: [[MON00021_Constructs_Creature_22]]
+- Influences [[step_098]]
+- Requires [[Pain-Artist Cruelty Refined]]
+- Requires [[Location City Echo Translator Vera Echo Translator Vera.svg]]
+- Affected by [[potion-of-healing-gv (items)]]
+- Leads to [[02_Worldbuilding_Groups_Cultural_Preservation_Societ]]
+- Related: [[step_015]]
+- Related: [[LOC00131_Towns_Location_132]]
+- Originates from [[SPELL00044_Divine_Spell_45]]
+- Originates from [[Cultural_Ambassador_Bridge-Builder]]
+- Compare with [[creature-creature-troll-xmm-v4-troll-xmm.png]]
+- Originates from [[step_044 (phase_014)]]
+- Compare with [[step_100]]
+- See also: [[step_070]]
+- Connects to [[NPC00297_Gavril_Stormwind_the_Cunning]]
+- Related: [[Maurezhi Mpmm]]
+- Requires [[Nonhuman Garl Glittergold]]
+- See also: [[NPC01240_Orion_Grimholt_the_Lost]]
+- Affected by [[NPC00536_Brenna_Darkwater_the_Redeemed]]
+- Influences [[Portrait NPC Embassy of Eternal Shadows V2 Embassy of Eternal Shadows.svg_1 (Portraits)]]
+- Originates from [[LORE00153_Legends_Entry_154]]
+- Influences [[ENC00239_Combat_Encounter_240]]
+- Leads to [[The Deep Mother 2]]
+- Affected by [[Symbol Heraldry the Question Council V1 the Question Council.svg]]
+- Affected by [[beast-speech (optional-features)]]
+- Compare with [[ITEM01354_Practical_Journal_of_Quality]]
+- Leads to [[step_100]]
+- Affected by [[Location City Wise Tide Truthseeker V1 Wise Tide Truthseeker.svg]]
+- Requires [[Research D&d Statblocks]]
+- Influences [[step_054]]
+- Connects to [[EVENT00094_Natural_Event_95]]
+- See also: [[The Crimson Tide Pirates 2]]
+- See also: [[LOC00283_Planes_Location_284]]
+- Originates from [[step_006]]
+- Leads to [[Boon of the Stormborn]]
+- Compare with [[step_094]]
+- Originates from [[NPC00939_Thalia_Jadeclaw_the_Swift]]
+- Parallels [[greyhawk-pelor-xdmg (deities)]]
+- See also: [[NPC0149_Delilah_Darkwater]]
+- Compare with [[step_038 (phase_059)]]
+- Leads to [[QUEST00116_Side_Quest_117]]
+- Leads to [[Chief Surgeon Dr. Coral Mindsplice]]
+- Affected by [[Philosopher-Reformer Unity Bridgewright (D&D_References)]]
+- Compare with [[step_081]]
+- Originates from [[mariners-armor-xdmg (items)]]
+- Requires [[step_074 (phase_054)]]
+- Leads to [[Surface Signals (D&D_Statblocks)]]
+- Originates from [[step_020 (phase_072)]]
+- Originates from [[ENC00168_Environmental_Encounter_169]]
+- See also: [[The Great Balance]]
+- Requires [[NPC00218_Fiora_Youngblood]]
+- Leads to [[step_035 (phase_063)]]
+- Leads to [[power-word-pain-xge (spells)]]
+- Leads to [[step_036]]
+- Requires [[step_035]]
+- Requires [[gold-dragon-wyrmling-xmm (dragon)]]
+- Originates from [[step_009]]
+- Related: [[Sentinel Xphb]]
+- Originates from [[step_018 (phase_007)]]
+- Affected by [[Diplomatic Liaison Cordelia Treatywriter]]
+- Affected by [[LORE00323_Prophecies_Entry_324]]
+- Parallels [[step_020 (phase_098)]]
+- Compare with [[Dwarven Dumathoin Mtf]]
+- Compare with [[Commercial Dispute Resolution Procedures]]
+- Related: [[QUEST00170_Side_Quest_171]]
+- Influences [[Symbol Heraldry Witness Protection Protocols Witness Protection Protocols.svg]]
+- See also: [[step_066 (phase_005)]]
+- Requires [[ITEM01192_Greater_Herb_of_Fortune]]
+- Affected by [[step_006 (phase_046)]]
+- Leads to [[step_052]]
+- Requires [[Portrait NPC Jasper Three Eyes Flint 2 Jasper Three Eyes Flint 2.svg_1 (Portraits)]]
+- Leads to [[scholars-of-lorehold-lorehold-scholars-scc (tables)]]
+- Related: [[The Azure Coast 2]]
+- Leads to [[Ranger Skybow]]
+- Parallels [[Physical Variations Type 4 Malison Lower]]
+- Requires [[Aquabyssos]]
+- Requires [[Location City House Pressureborn House Pressureborn.svg]]
+- Related: [[Complete Reality Merger System]]
+- Originates from [[LORE00155_Prophecies_Entry_156]]
+- Requires [[The First Dreamer]]
+- Related: [[NPC01380_Brenna_Keenblade_the_Risen]]
+- Originates from [[step_062 (phase_057)]]
+- Influences [[Eldritch Spear Xphb]]
+- Connects to [[step_081]]
+- Originates from [[QUEST00009_Side_Quest_10]]
+- Connects to [[NPC01891_Wynne_Xendar_the_Seeker]]
+- Compare with [[Game_Design_Articles]]
+- See also: [[ENC00046_Environmental_Encounter_47]]
+- Connects to [[Egyptian Ptah]]
+- Originates from [[M-001 Physics Denial Player]]
+- Leads to [[Investigate Shadow Surgeons (Criminal_Organizations)]]
+- Related: [[step_020 (phase_097)]]

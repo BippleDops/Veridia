@@ -1,5 +1,4 @@
----
-tags: [misc]
+-tags: [misc, combat, exploration]sc]
 type: misc
 aliases: ["ASSET GENERATION COMPLETE"]
 ---
@@ -61,3 +60,129 @@ With subdirectories for each type:
 
 ---
 *Comprehensive Asset Generation System*
+
+> [!dm] DM Note
+> Hidden treasure can be found here with a DC 15 Investigation check
+
+## See Also
+- [[Related_Content]]
+
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Requires [[Vessel_Horror_Intensifier]]
+- Affected by [[step_082 (phase_013)]]
+- Parallels [[step_071]]
+- Parallels [[step_035 (phase_039)]]
+- Affected by [[step_085 (phase_062)]]
+- Connects to [[The Tidal Shard of Memory 2]]
+- See also: [[Church of Tidal Harmony]]
+- Related: [[Wings of Flying Xdmg]]
+- Requires [[The Whisper Network]]
+- Connects to [[Quest - The Sanctuary's Secret_1 (01_Adventures)]]
+- Requires [[step_087 (phase_061)]]
+- Connects to [[Assets Locations Location City Harbor Patrol V1 Harbor Patrol.svg]]
+- Affected by [[step_056]]
+- Parallels [[step_031 (phase_054)]]
+- Compare with [[QUEST00475_Side_Quest_476]]
+- Parallels [[Location City Courier Ripplestone Courier Ripplestone.svg]]
+- Related: [[step_040]]
+- Leads to [[Forbidden Tomes of Deep Mother]]
+- Requires [[step_088]]
+- See also: [[step_068 (phase_048)]]
+- Influences [[Assets Item Artifact Mess Kit V5 Mess Kit.png]]
+- Influences [[LOC00191_Towns_Location_192]]
+- Originates from [[Enterprise Director Duskwork]]
+- Requires [[LOC00047_Planes_Location_48]]
+- Related: [[young-blue-dragon-xmm]]
+- Connects to [[Unarmed Strike Xphb]]
+- Requires [[step_005 (phase_022)]]
+- Requires [[step_010 (phase_035)]]
+- Related: [[NPC00860_Gavril_Winterborn_the_Swift]]
+- Affected by [[Tinderbox Xphb]]
+- Influences [[ITEM00425_Fortified_Plate_of_Fortitude]]
+- Parallels [[Chronicle Keeper Sage Deepmemory (D&D_References)]]
+- See also: [[extreme-cold-xdmg (traps-hazards)]]
+- Parallels [[step_048 (phase_092)]]
+- See also: [[final_link_repair_20250814_175237]]
+- Requires [[portrait-npc-pressure-lords-v2-pressure-lords.svg]]
+- Affected by [[Agent Viktor Cleanslate (D&D_References)]]
+- Parallels [[young-brass-dragon-xmm]]
+- Requires [[step_001 (phase_096)]]
+- Affected by [[Symbol Heraldry Chaplain Abyssos the Deepseeke Chaplain Abyssos the Deepseeke.svg]]
+- Leads to [[step_003]]
+- Requires [[racial-feats-xge (tables)]]
+- Influences [[Progress Through Power Faction 2]]
+- Connects to [[Shield]]
+- Affected by [[Assets Locations Location City the Gloom Gardens V1 the Gloom Gardens.svg]]
+- Compare with [[Animal Lord Hunter Xmm]]
+- See also: [[step_084 (phase_004)]]
+- Related: [[step_011 (phase_059)]]
+- Leads to [[downtime-activity-carousing-xge (variant-rules)]]
+- Parallels [[S_018_Choir_Pirates]]
+- Requires [[ENC00153_Social_Encounter_154]]
+- Affected by [[status-symbols-vgm (tables)]]
+- Requires [[NPC00986_Lyanna_Emberfall_the_Redeemed]]
+- Originates from [[Resonant Crystals]]
+- Requires [[The Singer Beyond]]
+- Affected by [[step_048 (phase_048)]]
+- Requires [[step_099 (phase_023)]]
+- See also: [[LORE00056_Legends_Entry_57]]
+- See also: [[NPC00159_Delara_Keenblade_the_Wanderer]]
+- Compare with [[Sustainable Commerce Guidelines]]
+- Originates from [[Healer Elena Mindmender (D&D_References)]]
+- Requires [[step_034]]
+- Affected by [[NPC01619_Hilda_Ashford_the_Mystic]]
+- Requires [[QUEST00234_Personal_Quest_235]]
+- Connects to [[jeweled-anklet-xdmg (items)]]
+- Parallels [[prestidigitation-xphb (spells)]]
+- Requires [[step_044 (phase_075)]]
+- Affected by [[Drider Xmm]]
+- Originates from [[step_086]]
+- Originates from [[Magic Item Sale Complications Xge]]
+- Affected by [[step_010 (phase_068)]]
+- Compare with [[Communications Officer Tidecall (D&D_References)]]
+- Parallels [[Echo-Translator Vera]]
+- Leads to [[QUEST00127_Personal_Quest_128]]
+- Compare with [[The Whispering Expanse]]
+- Parallels [[modron-pentadrone-xmm (construct)]]
+- Leads to [[Battle Map Descriptions_1]]
+- Leads to [[step_060 (phase_048)]]
+- Affected by [[step_076]]
+- Originates from [[step_032 (phase_098)]]
+- Leads to [[symbol-heraldry-the-code-wars-v1-the-code-wars.svg]]
+- Compare with [[Figurine of Wondrous Power Obsidian Steed]]
+- Affected by [[Random_Encounter_Tables (D&D_References)]]
+- Leads to [[Assets Locations Location City the Last Seeds the Last Seeds.svg]]
+- Affected by [[hellfire-engine-mpmm (construct)]]
+- Connects to [[piercer-xphb (feats)]]
+- Originates from [[Silk Rope 50 Feet]]
+- Connects to [[keoghtoms-ointment-xdmg (items)]]
+- Requires [[LORE00166_Legends_Entry_167]]
+- Requires [[The Drowning Welcome]]
+- Connects to [[step_065]]
+- Influences [[list-spells-feats-magic-initiate-xphb (lists)]]
+- Related: [[step_020 (phase_083)]]
+- Affected by [[step_031 (phase_086)]]
+- Influences [[Location City Abyssos Prime Docks V1 Abyssos Prime Docks.svg]]
+- Originates from [[Assets Locations Location City Abyssos Prime Abyssos Prime.svg]]
+- Originates from [[The__Cathedral]]
+- Compare with [[NPC01950_Baelor_Grimholt_the_Broken]]
+- Compare with [[NPC0021_Vera_Stormwind]]
+- See also: [[QUEST00005_Main_Quest_6]]

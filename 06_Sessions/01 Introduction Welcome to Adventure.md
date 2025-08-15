@@ -8,6 +8,7 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
+tags: [combat, exploration, puzzle, lore]
 --- # 01 Introduction Welcome to Adventure ## Overview
 
 This document contains important information regarding 01 Introduction Welcome to Adventure and its role within the greater narrative. ## Description
@@ -67,3 +68,160 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+
+> [!dm] DM Note
+> The villain has agents watching this place
+
+## Prep Checklist
+
+### Npcs Needed
+- [ ] List key NPCs for this session
+- [ ] Prepare voices and mannerisms
+
+### Locations
+- [ ] Review location descriptions
+- [ ] Prepare battle maps if needed
+
+### Encounters
+- [ ] Balance combat encounters
+- [ ] Prepare social encounter notes
+
+### Props
+- [ ] Handouts ready
+- [ ] Music/ambiance selected
+
+### Rules
+- [ ] Review relevant rules
+- [ ] Prepare quick reference
+
+## Campaign Connection
+Holds a clue about the ancient prophecy
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[ULTIMATE_VAULT_ACHIEVEMENT]]
+- [[optimization_report_20250814_180706]]
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+- [[ULTIMATE_ASSET_REPORT]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Related: [[step_013 (phase_039)]]
+- Parallels [[Location City Keeper of the Dead Sister Morwyn V1 Keeper of the Dead Sister Morwyn.svg]]
+- Related: [[quaals-feather-token-fan-xdmg (items)]]
+- Leads to [[Master Cultivator Apprenticeship (Cults_and_Movements)]]
+- Affected by [[SPELL00154_Divine_Spell_155]]
+- Originates from [[NPC00168_Jorah_Quicksilver_the_Broken]]
+- See also: [[firearms-xdmg (tables)]]
+- Parallels [[step_030 (phase_033)]]
+- Leads to [[Assets Art Barkeep Salty Sarah.png]]
+- Requires [[Wave Xdmg]]
+- Requires [[LORE00247_History_Entry_248]]
+- Affected by [[step_056 (phase_059)]]
+- Affected by [[Assets Locations Location City Crystal Palace Complex V1 Crystal Palace Complex.svg]]
+- Influences [[Assets Locations Location City Official Memory Keepers Official Memory Keepers.svg]]
+- Parallels [[Ambassador Marina Depthbridge]]
+- Parallels [[Marine Protection Guild (Guilds)]]
+- Affected by [[list-spells-classes-archfey-patron-xphb (lists)]]
+- Originates from [[step_027 (phase_006)]]
+- Influences [[Assets Locations Location City Garden Keeper Zen Currentdancer V1 Garden Keeper Zen Currentdancer.svg]]
+- Originates from [[potion-of-cloud-giant-strength-xdmg (items)]]
+- Compare with [[Magic Item Table D]]
+- See also: [[Reality Bridge]]
+- Influences [[step_014]]
+- Leads to [[step_017 (phase_067)]]
+- See also: [[SPELL00128_Divine_Spell_129]]
+- Compare with [[LORE00044_Prophecies_Entry_45]]
+- Parallels [[LORE00056_Prophecies_Entry_57]]
+- Connects to [[Assets Locations Location City Temple of Echoing Tides Temple of Echoing Tides.svg]]
+- Originates from [[step_044]]
+- Compare with [[Tidal Memento]]
+- Influences [[Assets Portraits Portrait NPC Goldwave Financial Offices Goldwave Financial Offices.svg]]
+- Originates from [[NPC0113_Helena_Goldleaf]]
+- Compare with [[The Crown of Consciousness]]
+- Influences [[Portrait NPC Quest the Perfect Purifier Quest the Perfect Purifier.svg]]
+- Leads to [[ENC00413_Combat_Encounter_414]]
+- Parallels [[MON00004_Constructs_Creature_5]]
+- Affected by [[step_100 (phase_086)]]
+- Leads to [[Tidal Chambers 2]]
+- Connects to [[Quest Two Minds One Body]]
+- Affected by [[step_070 (phase_092)]]
+- Affected by [[Link_Integrity_Report (D&D_References)]]
+- Influences [[Admiral Storm Tidecaller]]
+- Influences [[Prophet Nerida Voidgazer (D&D_References)]]
+- Affected by [[step_027]]
+- Leads to [[ITEM00935_Pure_Potion_of_Vigor]]
+- Connects to [[Assets Locations Location City Memory Farmers V1 Memory Farmers.svg]]
+- Compare with [[Defense Captain Ironguard]]
+- Affected by [[Template-Item]]
+- Requires [[Thugs (Lore)]]
+- Related: [[Axe of the Dwarvish Lords Xdmg]]
+- See also: [[step_052 (phase_089)]]
+- Affected by [[Assets Locations Location City Mira Algaebrew Mira Algaebrew.svg]]
+- Parallels [[step_016 (phase_046)]]
+- Influences [[Detective-Prime Clarity Truthseeke]]
+- Requires [[ITEM00913_Pure_Elixir_of_Swiftness]]
+- Leads to [[Historian Lisa Outreach (D&D_References)]]
+- Related: [[location-city-the-lock-the-lock.svg]]
+- Influences [[The Crystal Wardens (D&D_References)]]
+- Requires [[step_045 (phase_040)]]
+- Related: [[Enspelled Armor Level 6 Xdmg]]
+- Affected by [[Democratic Erosion]]
+- Parallels [[Ancient King Pelagios]]
+- See also: [[step_074 (phase_091)]]
+- Originates from [[NPC00864_Thalia_Ravenheart_the_Wanderer]]
+- Leads to [[step_089 (phase_024)]]
+- See also: [[step_078]]
+- See also: [[tabaxi-vgm (races)]]
+- See also: [[step_091 (phase_093)]]
+- Affected by [[Thalassa the Life-Weaver (D&D_References)]]
+- Parallels [[step_035 (phase_054)]]
+- Influences [[Captain Morgrim Lastvessel (D&D_References)]]
+- Parallels [[oil-of-sharpness-xdmg (items)]]
+- Parallels [[Interfaith Dialogue]]
+- Compare with [[list-optfeaturetype-fs-b#Fighting%20Style,%20Bard]]
+- See also: [[step_067 (phase_048)]]
+- Requires [[step_014 (phase_096)]]
+- Related: [[Shadow Conspiracy Timeline (Lore)]]
+- Connects to [[step_062 (phase_052)]]
+- Related: [[step_099]]
+- Parallels [[staff-xphb (items)]]
+- Requires [[Assets Locations Location City Quest the Portal Crisis V1 Quest the Portal Crisis.svg]]
+- Originates from [[step_032 (phase_040)]]
+- Leads to [[Forest Encounters Levels 1116 Xge]]
+- Connects to [[potion-of-longevity-xdmg (items)]]
+- Parallels [[Security Chief Voidguard]]
+- See also: [[LOC00174_Planes_Location_175]]
+- Originates from [[sphinx-of-wonder-xmm (celestial)]]
+- Related: [[difficulty-class-typical-dcs-xdmg (tables)]]
+- Connects to [[Assets Locations Location City Reflection Pools Surgical Theater Reflection Pools Surgical Theater.svg]]
+- See also: [[Pearl Sharpedge]]
+- Originates from [[Aria the Windwhisperer]]
+- See also: [[Trade Route Stations]]
+- Parallels [[Assets Locations Location City Archivist Methodius Recordkeeper V1 Archivist Methodius Recordkeeper.svg]]
+- Compare with [[Portrait NPC Ice Kingdom Magic V2 Ice Kingdom Magic.svg_1 (Portraits)]]
+- Influences [[physical-characteristics-beholder-teeth-shape-vgm]]
+- Compare with [[step_046 (phase_052)]]
+- Affected by [[human-names-egyptian-female-xge (tables)]]
+- See also: [[Communications Officer Tidecall]]
+- Compare with [[Assets Locations Location City the Banker Fish the Banker Fish.svg]]
+- Compare with [[step_009 (phase_097)]]

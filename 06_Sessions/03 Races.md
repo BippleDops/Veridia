@@ -8,6 +8,7 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
+tags: [combat, magic, exploration, lore]
 --- # 03 Races ---
 
 ## Description
@@ -43,3 +44,161 @@ world: Both
 ## Notes
 
 *Additional notes*
+
+
+> [!dm] DM Note
+> Ancient magic still lingers here
+
+## Prep Checklist
+
+### Npcs Needed
+- [ ] List key NPCs for this session
+- [ ] Prepare voices and mannerisms
+
+### Locations
+- [ ] Review location descriptions
+- [ ] Prepare battle maps if needed
+
+### Encounters
+- [ ] Balance combat encounters
+- [ ] Prepare social encounter notes
+
+### Props
+- [ ] Handouts ready
+- [ ] Music/ambiance selected
+
+### Rules
+- [ ] Review relevant rules
+- [ ] Prepare quick reference
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[10K_GENERATION_REPORT]]
+- [[ULTIMATE_VAULT_ACHIEVEMENT]]
+- [[NEXT_LEVEL_IMPROVEMENTS]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Compare with [[04_Resources_Assets_Locations_location-city-quartermaster-judith-supplycurrent-v1-quartermaster-judith-supplycurrent.svg]]
+- Parallels [[Assets Locations Location City Replacement Survivor Support Replacement Survivor Support Groups.svg]]
+- Influences [[Rapid Assault Craft]]
+- Compare with [[NPC00203_Qadim_Crystalbrook_the_Strong]]
+- Leads to [[Downtime Activity Selling Magic Items]]
+- Connects to [[Quest - Nature's Balance]]
+- Affected by [[fighter-xphb-arcane-archer-xge (classes)]]
+- See also: [[step_006 (phase_093)]]
+- Compare with [[pot-of-awakening-xdmg (items)]]
+- Leads to [[NPC00388_Ysara_Goldleaf]]
+- Influences [[Admiral Marina]]
+- Leads to [[step_053 (phase_015)]]
+- Originates from [[step_021 (phase_018)]]
+- Influences [[04_Resources_Assets_Locations_location-city-the--cathedral-v1-the--cathedral.svg]]
+- Related: [[Cross-Realm Cultural Exchange]]
+- Affected by [[Assets Locations Location City Gallery of Echoing Truths V1 Gallery of Echoing Truths.svg]]
+- Compare with [[step_040]]
+- Affected by [[step_038 (phase_046)]]
+- Influences [[NPC_Name_Generator]]
+- Influences [[LOC0135_LowerGate]]
+- Leads to [[MON00034_Aberrations_Creature_35]]
+- Requires [[Mirror Merchant Marina 2]]
+- Parallels [[Portrait NPC House of Lords Secret Chamber V1 House of Lords Secret Chamber.svg]]
+- Requires [[Crystal Workers Union]]
+- Related: [[Maritime Security Chief Reef (D&D_References)]]
+- Originates from [[Portrait NPC Agent Whisper Voidheart Agent Whisper Voidheart.svg]]
+- Related: [[step_052 (phase_059)]]
+- Parallels [[Portrait NPC Director of Experimental Procedures Dr Siren Voidtouch Director of Experimental Procedures Dr Siren Voidtouch.svg_1 (Portraits)]]
+- Parallels [[step_006 (phase_084)]]
+- Connects to [[step_084]]
+- See also: [[step_021 (phase_067)]]
+- Influences [[Assets Art Npcs Quest Nature.png]]
+- Leads to [[MON00009_Undead_Creature_10]]
+- Related: [[step_042]]
+- Related: [[QUEST00392_Side_Quest_393]]
+- Originates from [[sleep-of-ages-trap-xge (traps-hazards)]]
+- Affected by [[LORE00034_Prophecies_Entry_35]]
+- Requires [[gas-spore-fungus-xmm (plant)]]
+- Affected by [[mace-of-smiting-xdmg (items)]]
+- See also: [[step_031 (phase_092)]]
+- Requires [[step_015 (phase_034)]]
+- Affected by [[step_049 (phase_062)]]
+- Leads to [[Campaign Director Umbra Bridgeworth]]
+- Requires [[LORE00190_History_Entry_191]]
+- Originates from [[QUEST00009_Main_Quest_10]]
+- Related: [[dungeon-delver (feats)]]
+- Requires [[LORE00033_Legends_Entry_34]]
+- Parallels [[VAULT_MASTER_INDEX]]
+- Requires [[Censorship Magic]]
+- See also: [[step_084]]
+- Originates from [[Portrait NPC Lady Elena the Eternal Lady Elena the Eternal.svg]]
+- Affected by [[LORE00239_Legends_Entry_240]]
+- Leads to [[ENC00043_Social_Encounter_44]]
+- Requires [[04_Resources_Assets_Portraits_portrait-npc-captain-mistwalker-captain-mistwalker.svg_Quick_Ref]]
+- Leads to [[Clerics of Thalassa (D&D_References)]]
+- Affected by [[step_083 (phase_024)]]
+- Related: [[Shadow Surgical Instruments]]
+- Affected by [[Memorial Day Observances]]
+- Parallels [[The Love Token (D&D_References)]]
+- See also: [[list-spells-classes-paladin 2 (lists)]]
+- Compare with [[QUEST00047_Side_Quest_48]]
+- Parallels [[SPELL00003_Nature_Spell_4]]
+- Influences [[Sky Trader Zephyr Windcatcher]]
+- See also: [[D-019_Oracle_Whale]]
+- Influences [[INV-006 2]]
+- Compare with [[LORE00209_Legends_Entry_210]]
+- Originates from [[Orc Gruumsh Vgm]]
+- Originates from [[QUEST00102_Personal_Quest_103]]
+- Compare with [[climbing-xphb (variant-rules)]]
+- Originates from [[Damage Threshold Xphb]]
+- Influences [[step_096]]
+- Leads to [[step_002 (phase_019)]]
+- Affected by [[Symbol Heraldry the Silence Experiments the Silence Experiments.svg]]
+- Requires [[step_040 (phase_040)]]
+- Compare with [[Symbol Heraldry Shadow Conspiracy Investigation Shadow Conspiracy Investigation.png]]
+- Related: [[greyhawk-syrul-xdmg (deities)]]
+- Affected by [[Master Astronomer Cornelius Starweave]]
+- Affected by [[step_061 (phase_049)]]
+- Parallels [[Location City Regional Courts V1 Regional Courts.svg]]
+- Connects to [[Investigation Laboratories]]
+- Parallels [[step_009 (phase_092)]]
+- Connects to [[The Drowned Prophets 2]]
+- Affected by [[step_022]]
+- Parallels [[step_061]]
+- Requires [[kuo-toa-xmm]]
+- Parallels [[step_012 (phase_007)]]
+- Requires [[Inverse Colonie 2]]
+- Leads to [[step_032]]
+- Requires [[Chef Amara Tastecurrent (D&D_References)]]
+- Originates from [[Assets Locations Location City the Trade Quarter V1 the Trade Quarter.svg]]
+- Compare with [[Underwater Fermentation 2]]
+- Affected by [[Pressure-Tube System 2]]
+- Requires [[location-city-memory-heist-memory-heist.svg]]
+- Related: [[SHOP00060_Magical_Shop_61]]
+- See also: [[Social_Encounter_Guidelines]]
+- Connects to [[Location City Resonance Roses V1 Resonance Roses.svg]]
+- Compare with [[Assets Art Npcs the Corroded Crown.png]]
+- Compare with [[step_062 (phase_045)]]
+- Affected by [[EVENT00034_Magical_Event_35]]
+- Influences [[NPC01302_Zephyr_Frostwhisper_the_Strong]]

@@ -1,6 +1,6 @@
 ---
-aliases: ["Alaric Ravenheart the Risen", "alaric ravenheart the risen", "Alaric Ravenheart Risen", "Risen the Ravenheart Alaric"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Alaric Ravenheart the Risen", "alaric ravenheart the risen", "Alaric Ravenheart Risen", "Risen the Ravenheart Alarictags: [npc, character, combat, magic, lore]er]
 type: npc
 ---
 
@@ -137,3 +137,134 @@ Is secretly testing the party
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Mage** (MM p.347)
+Modifications:
+- HP: 31
+- AC: 12
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+- **Skills**: See PHB p.174-179
+- **Spellcasting**: See PHB p.201-205
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Influences [[Seeds of Tomorrow (D&D_References)]]
+- Requires [[Merchant Thane Goldwhisper]]
+- Related: [[Assets Locations Location City Coral Lifeshaper V1 Coral Lifeshaper.svg]]
+- Affected by [[Portrait NPC Captain Prism Shield Valeria V2 Captain Prism Shield Valeria.svg]]
+- See also: [[step_076 (phase_013)]]
+- See also: [[Location City the First Failure the First Failure.svg]]
+- Related: [[Reflection Pools (D&D_References)]]
+- Originates from [[Aquabyssos Trade Seal (Lore)]]
+- Compare with [[step_031 (phase_068)]]
+- Compare with [[step_007 (phase_006)]]
+- Connects to [[Professor Aldric Crystalweaver (D&D_Statblocks)]]
+- Connects to [[Runaway_Golem_Quest]]
+- Influences [[SPELL00050_Divine_Spell_51]]
+- Parallels [[step_035 (phase_083)]]
+- Compare with [[Portrait NPC the Great Trade Routes the Great Trade Routes.svg_1 (Portraits)]]
+- Leads to [[LOC00299_Cities_Location_300]]
+- Leads to [[step_012]]
+- Affected by [[Temple Districts]]
+- Affected by [[list-spells-feats-fey-touched-xphb (lists)]]
+- Requires [[Duke Marcus Brightshield]]
+- Affected by [[step_032 (phase_022)]]
+- Affected by [[Leomunds Tiny Hut Xphb]]
+- See also: [[LOC00127_Planes_Location_128]]
+- Requires [[Assets Portraits Portrait NPC Mirror Breaking Crystals Mirror Breaking Crystals.svg]]
+- Influences [[step_044 (phase_089)]]
+- Leads to [[Location City Hybrid Communities Integration V1 Hybrid Communities Integration.svg]]
+- Parallels [[02-chapter-1-playing-the-game#Dropping Prone]]
+- Influences [[potion-of-longevity-xdmg (items)]]
+- Influences [[Master of the Gallery Cornelius Publicvoice 2]]
+- Originates from [[LOC00269_Dungeons_Location_270]]
+- Leads to [[storm-giant-quintessent-vgm (legendary-group)]]
+- Requires [[minotaur-skeleton-xmm (undead)]]
+- Parallels [[step_072 (phase_073)]]
+- Connects to [[item-properties (CLI_Reference)]]
+- Connects to [[step_077 (phase_009)]]
+- Parallels [[Bard Xphb]]
+- Parallels [[The Smuggler's Den (D&D_References)]]
+- Connects to [[Assets Locations Location City Trader Compass Rose Trader Compass Rose.svg]]
+- Requires [[potion-of-comprehension-xdmg (items)]]
+- Parallels [[Aquabyssos Culture and Society]]
+- Related: [[step_004 (phase_043)]]
+- See also: [[Shadow Contamination Scanners]]
+- Requires [[step_018 (phase_013)]]
+- Influences [[ITEM01291_Refined_Elixir_of_Fortune]]
+- Affected by [[Wayfarer Xphb]]
+- Requires [[Reality Anchoring Technology (D&D_References)]]
+- Related: [[step_023 (phase_034)]]
+- Related: [[step_034 (phase_033)]]
+- Parallels [[step_063 (phase_048)]]
+- Related: [[step_083 (phase_070)]]
+- Affected by [[step_064 (phase_089)]]
+- Leads to [[Location City the Crystal Caves V1 the Crystal Caves.svg]]
+- Connects to [[food-drink-and-lodging-xphb (tables)]]
+- Originates from [[Liminal Constantinople (D&D_References)]]
+- Compare with [[Acolyte Sister Tidal Deepfaith]]
+- Originates from [[The_Forgotten_Archive.png]]
+- Influences [[portrait-npc-queen-nerida-v2-queen-nerida.svg_1 (Portraits)]]
+- Influences [[Cultural Exchange Protocols]]
+- Parallels [[Location City Guide Helpfulcurrent Guide Helpfulcurrent.svg]]
+- Related: [[DUN00102_Dungeon_103]]
+- Compare with [[scroll-of-protection-celestials-xdmg (items)]]
+- See also: [[step_071]]
+- Requires [[Portrait NPC Quest the Bio Adaptation Crisis Quest the Bio Adaptation Crisis.svg]]
+- See also: [[Assets Locations Location City Undead Services Bureau Undead Services Bureau.svg]]
+- Leads to [[Location City Maze Heart Crystal Maze Heart Crystal.svg]]
+- Originates from [[step_064]]
+- Requires [[step_017_implement_audio_organization]]
+- Requires [[SPELL00007_Nature_Spell_8]]
+- Requires [[Reality Maintenance Department 2]]
+- Connects to [[myconid-adult-xmm (plant)]]
+- Connects to [[Field Medic Shadowstitch]]
+- Connects to [[step_068]]
+- Connects to [[NPC00035_Wynne_Youngblood]]
+- See also: [[QUEST00168_Main_Quest_169]]
+- Connects to [[supernatural-hooks-xdmg (tables)]]
+- Connects to [[Contingency Xphb]]
+- Related: [[step_015 (phase_034)]]
+- Influences [[Assets Locations Location City Trade War Trade War.svg]]
+- See also: [[scroll-of-protection-oozes-xdmg (items)]]
+- Related: [[The Coral Estates (D&D_References)]]
+- Parallels [[portrait-npc-senator-marius-v1-senator-marius.svg_1 (Portraits)]]
+- See also: [[step_073 (phase_036)]]
+- Influences [[step_034 (phase_085)]]
+- Affected by [[Choir_Master_Celestine_Hymnsinger.png]]
+- Originates from [[step_040]]
+- Compare with [[Surgeon Battle Shadow]]
+- Connects to [[The Contract Archive]]
+- Influences [[step_029]]
+- Requires [[Quest - The Great Census]]
+- Leads to [[short-term-madness (tables)]]
+- See also: [[step_004]]
+- Requires [[Quest   Refugees of the Deep]]
+- Related: [[QUEST00015_Side_Quest_16]]
+- Related: [[step_083 (phase_045)]]
+- Originates from [[Quarantine_Notice_Crystal_Plagu]]
+- Leads to [[Archshadow Daemon Shadowrift]]
+- Requires [[Intelligence Services]]
+- Originates from [[Rival Merchant Prince Gold]]
+- Influences [[Symbol Heraldry Political Parties of Aquabyssos Political Parties of Aquabyssos.svg]]
+- Influences [[Forgotten Realms Gond]]

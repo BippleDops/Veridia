@@ -8,6 +8,7 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
+tags: [combat, magic, exploration, puzzle, lore]
 --- # 10 Combat ---
 
 ## Description
@@ -80,3 +81,192 @@ world: Both
 ## Notes
 
 *Additional notes*
+
+
+> [!dm] DM Note
+> Hidden treasure can be found here with a DC 15 Investigation check
+
+## Prep Checklist
+
+### Npcs Needed
+- [ ] List key NPCs for this session
+- [ ] Prepare voices and mannerisms
+
+### Locations
+- [ ] Review location descriptions
+- [ ] Prepare battle maps if needed
+
+### Encounters
+- [ ] Balance combat encounters
+- [ ] Prepare social encounter notes
+
+### Props
+- [ ] Handouts ready
+- [ ] Music/ambiance selected
+
+### Rules
+- [ ] Review relevant rules
+- [ ] Prepare quick reference
+
+## Campaign Connection
+Holds a clue about the ancient prophecy
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Xanathar's Guide to Everything (XGE) p.271
+- Tasha's Cauldron of Everything (TCE) p.97
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Advantage**: See PHB p.173
+- **Combat**: See PHB p.189-198
+- **Conditions**: See PHB p.290-292
+- **Death Saves**: See PHB p.197
+
+
+## Thematic Connections
+- Tactical combat using [[Combat Maneuvers]]
+- Environmental hazards from [[Battlefield Terrain]]
+- Victory conditions beyond [[Death and Dying]]
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Equipment: PHB p.143-161)*
+*(Weapons: PHB p.146-147)*
+*(Armor: PHB p.144-146)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Connects to [[EVENT00019_Magical_Event_20]]
+- See also: [[LORE00172_History_Entry_173]]
+- Originates from [[location-city-void-currents-void-currents.svg]]
+- See also: [[step_001 (phase_016)]]
+- Originates from [[Portrait NPC Quest the Refugee Evacuation V1 Quest the Refugee Evacuation.svg]]
+- Parallels [[lightly-armored-xphb (feats)]]
+- Originates from [[step_045 (phase_054)]]
+- Affected by [[EVENT00048_Natural_Event_49]]
+- Requires [[The Lighthouse Keepers]]
+- Leads to [[power-word-heal-xphb (spells)]]
+- Compare with [[Consciousness Contracts 2]]
+- See also: [[Flaming Skeleton Xmm]]
+- Compare with [[Emergency Response Station]]
+- Connects to [[Session 2 - The Crystal Fever]]
+- Related: [[Elder Scribe Marcus the Lost (D&D_References)]]
+- Originates from [[EVENT00014_Magical_Event_15]]
+- Requires [[step_088 (phase_081)]]
+- Requires [[Portrait NPC Quest the Admiral S Gambit V2 Quest the Admiral S Gambit.svg]]
+- Affected by [[step_012 (phase_044)]]
+- Influences [[ENC00003_Social_Encounter_4]]
+- Parallels [[step_036 (phase_086)]]
+- Parallels [[Innovative Artisa (D&D_References)]]
+- Leads to [[molydeus-mpmm (fiend)]]
+- Requires [[step_008 (phase_058)]]
+- Affected by [[step_002 (phase_036)]]
+- Influences [[Quest - Seeds of the Deep]]
+- Related: [[Assets Locations Location City Depth Raider V1 Depth Raider.svg]]
+- Affected by [[The Map Room]]
+- Affected by [[Pressure Polyps 2]]
+- Affected by [[step_056 (phase_047)]]
+- Originates from [[step_050 (phase_006)]]
+- Leads to [[step_067 (phase_051)]]
+- Affected by [[Distribution by Rarity Magic Awarded by Tier Xge]]
+- Connects to [[Institute of Adaptive Sciences]]
+- Related: [[step_074]]
+- Originates from [[The Dimensional Barrier]]
+- See also: [[QUEST00136_Main_Quest_137]]
+- Originates from [[roleplaying-a-giant-giant-bonds-vgm (tables)]]
+- Requires [[ITEM00281_Radiant_Staff_of_Power]]
+- Compare with [[Depth Spirituality (D&D_References)]]
+- Originates from [[Environmental Hazards]]
+- Affected by [[Marquis Aldwin Goldcurrent 2]]
+- Originates from [[Shadow Energy Extraction Sites]]
+- Parallels [[Wereboar Xmm]]
+- Connects to [[Greyhawk Iuz Xdmg]]
+- Parallels [[LOC00208_Dungeons_Location_209]]
+- Parallels [[NPC01581_Faelyn_Hawthorne_the_Risen]]
+- Related: [[The Coral Courts (D&D_References)]]
+- See also: [[ITEM00714_Void-touched_Amulet_of_Dominion]]
+- Requires [[QUEST00261_Side_Quest_262]]
+- Related: [[Seeds of Tomorrow]]
+- Originates from [[step_093 (phase_009)]]
+- Compare with [[Portrait NPC the Shadow Surgeons the Shadow Surgeons.svg_1 (Portraits)]]
+- Connects to [[LORE00196_Prophecies_Entry_197]]
+- See also: [[#Religious & Spiritual Organizations]]
+- Related: [[NPC01100_Drusilla_Goldleaf_the_Broken]]
+- Parallels [[step_069 (phase_050)]]
+- Influences [[step_063 (phase_070)]]
+- Affected by [[step_004 (phase_004)]]
+- Affected by [[LOC00245_Planes_Location_246]]
+- Affected by [[Portrait NPC Lady Dawn Pureheart V1 Lady Dawn Pureheart.svg]]
+- Related: [[LOC00191_Towns_Location_192]]
+- Compare with [[Crystal Power Nodes]]
+- Related: [[step_084 (phase_038)]]
+- Compare with [[NPC01216_Elric_Darkwater_the_Lost]]
+- Related: [[ITEM00172_Thunder_Dagger_of_Speed]]
+- Affected by [[step_048 (phase_096)]]
+- Influences [[MON00087_Undead_Creature_88]]
+- Compare with [[step_041 (phase_090)]]
+- Leads to [[step_088]]
+- Compare with [[ENC00452_Combat_Encounter_453]]
+- See also: [[Surface Contact Prohibition (D&D_References)]]
+- Connects to [[Assets Item Artifact Poisoners Kit Xphb V7 Poisoners Kit Xphb.png]]
+- Compare with [[Avatar of Death Xdmg]]
+- See also: [[Assets Locations Location City Wealthy Goldstream Wealthy Goldstream.svg]]
+- Leads to [[step_021]]
+- Related: [[Aquabyssos_Session_01 (D&D_References)]]
+- Influences [[Explorers Pack Xphb]]
+- Originates from [[Savage Attacker Xphb]]
+- Leads to [[step_077 (phase_095)]]
+- Requires [[griffon-xmm (monstrosity)]]
+- See also: [[step_043]]
+- Influences [[ITEM00919_Superior_Salve_of_Vigor]]
+- Compare with [[ITEM00518_Mithril_Helm_of_Resistance]]
+- Connects to [[LOC00237_Dungeons_Location_238]]
+- Affected by [[step_100]]
+- Requires [[Summon Beast Xphb]]
+- Affected by [[Location City Guide Helpfulcurrent V1 Guide Helpfulcurrent.svg]]
+- Originates from [[Assets Portraits Portrait NPC the Coral Throne Syndicate the Coral Throne Syndicate.svg]]
+- Originates from [[Ioun Stone Absorption Xdmg]]
+- Influences [[Silverscale Consortium 2]]
+- Compare with [[LOC00093_Towns_Location_94]]
+- Originates from [[step_022 (phase_049)]]
+- Influences [[QUEST00049_Main_Quest_50]]
+- Related: [[step_018]]
+- Requires [[Assets Locations Location City Dream Enhancement Techniques V1 Dream Enhancement Techniques.svg]]
+- Compare with [[Old Tongue (D&D_References)]]
+- Connects to [[step_097 (phase_052)]]
+- Parallels [[Festival Calendar Complete]]
+- Requires [[Assets Locations Location City Warrior Scarredheart V1 Warrior Scarredheart.svg]]

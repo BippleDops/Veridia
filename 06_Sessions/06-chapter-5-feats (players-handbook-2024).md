@@ -8,6 +8,7 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
+tags: [combat, magic, exploration, lore]
 --- # 06-chapter-5-feats ---
 
 ## Description
@@ -42,3 +43,142 @@ world: Both
 ## Notes
 
 *Additional notes*
+
+
+> [!dm] DM Note
+> This location connects to the main plot
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Equipment: PHB p.143-161)*
+*(Weapons: PHB p.146-147)*
+*(Armor: PHB p.144-146)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Affected by [[Portrait NPC Brother Matthias the Amber Bearer Brother Matthias the Amber Bearer.svg]]
+- See also: [[ENC0040_Random_Encounter_41]]
+- Parallels [[Commander Aurelius]]
+- Parallels [[Staff of Swarming Insects Xdmg]]
+- Related: [[step_033]]
+- Originates from [[step_007 (phase_092)]]
+- Requires [[Abyssal Garden (D&D_References)]]
+- Leads to [[step_019]]
+- Affected by [[FAC00045_Orders_46]]
+- Compare with [[revivify-xphb (spells)]]
+- Leads to [[ENC00118_Combat_Encounter_119]]
+- Parallels [[Barbarian Xphb Path of the Berserker Xphb]]
+- Affected by [[potion-of-hill-giant-strength-xdmg (items)]]
+- Leads to [[norse-tyr (deities)]]
+- Influences [[02_Worldbuilding_Lore_The_Lighthouse_of_Storms.md]]
+- Originates from [[The Sundered Vaults (D&D_References)]]
+- Leads to [[The Order of the Silent Vigi]]
+- Related: [[The Crystal Concordance]]
+- Requires [[step_070 (phase_096)]]
+- Compare with [[portrait-npc-tenebrarum-v1-tenebrarum.svg_1 (Portraits)]]
+- Influences [[Transformations - Transformation Compendium]]
+- Leads to [[Assets Locations Location City Abyssos Prime Inverse Palace Abyssos Prime Inverse Palace.svg]]
+- Originates from [[Resonance Peaks (D&D_References)]]
+- Originates from [[Assets Item Artifact Windvane Pota Windvane Pota.png]]
+- Leads to [[Detection Technology Laboratory 2]]
+- Originates from [[step_053 (phase_076)]]
+- Influences [[Architect Prime Crystalline Vision (D&D_References)]]
+- Affected by [[climbers-kit-xphb (items)]]
+- Originates from [[step_073]]
+- Affected by [[step_007 (phase_053)]]
+- Requires [[step_098 (phase_027)]]
+- See also: [[ITEM00161_Radiant_Spear_of_the_Ancients]]
+- Affected by [[step_066 (phase_012)]]
+- Related: [[locations]]
+- Connects to [[Crystal_Workers_Union (02_Worldbuilding)]]
+- Compare with [[Port facilities]]
+- Leads to [[Cultural Organization.md]]
+- Influences [[Portable Hole Xdmg]]
+- Influences [[Investigation Laboratorie]]
+- Connects to [[step_078 (phase_066)]]
+- Requires [[Location City Doctor Silas Voidtouch Doctor Silas Voidtouch.svg]]
+- Requires [[Resource Flow Control]]
+- See also: [[Adult White Dragon Xmm]]
+- Requires [[step_041 (phase_070)]]
+- Influences [[LOC0096_Marshthorpe]]
+- Leads to [[Session 14 - Shadow Market]]
+- Leads to [[ITEM00876_Void-touched_Amulet_of_Dominion]]
+- Requires [[ENC00309_Combat_Encounter_310]]
+- Requires [[LOC00042_Dungeons_Location_43]]
+- Influences [[location-city-surge-mixmaster-surge-mixmaster.png]]
+- Influences [[step_088 (phase_078)]]
+- Requires [[step_094 (phase_053)]]
+- Affected by [[Symbol Heraldry the War Room Sanctuary the War Room Sanctuary.svg]]
+- Leads to [[observatory]]
+- Compare with [[04_Resources_Assets_Symbols_symbol-heraldry-salvage-master-ironwork-salvage-master-ironwork.svg]]
+- Influences [[Portrait NPC Ice Kingdom Magic Ice Kingdom Magic.svg_1 (Portraits)]]
+- Compare with [[Location City Enchanter Valdris Peacewarden V1 Enchanter Valdris Peacewarden.svg]]
+- Leads to [[Active Quests]]
+- Compare with [[LOC00084_Planes_Location_85]]
+- Influences [[step_045 (phase_071)]]
+- Affected by [[Session 1 - Strange Tides Rising]]
+- See also: [[planetar-xmm (celestial)]]
+- See also: [[Complete Rules Reference]]
+- See also: [[ENC00110_Combat_Encounter_111]]
+- Leads to [[step_042 (phase_074)]]
+- Leads to [[Shard-Touched Artifacts]]
+- Related: [[step_030]]
+- Related: [[13-appendix-c-maps (dungeon-masters-guide-2014)]]
+- Influences [[Quest - The Voice Beneath_1 (01_Adventures)]]
+- Related: [[The Crystal Sovereign]]
+- Leads to [[The Underground Market]]
+- Connects to [[Assets Locations Location City Political Alliances V1 Political Alliances.svg]]
+- Influences [[The Authentication Crisis]]
+- Compare with [[LORE00076_Legends_Entry_77]]
+- Leads to [[step_042]]
+- Leads to [[03-races (players-handbook-2014)]]
+- Connects to [[Assets Locations Location City Crystal Powered Vessels V1 Crystal Powered Vessels.svg]]
+- Leads to [[LOC00134_Wilderness_Location_135]]
+- Requires [[Financial Crime Investigation 2]]
+- Leads to [[massive-damage-system-shock (tables)]]
+- Leads to [[The Obsidian Archive 2]]
+- Parallels [[step_044 (phase_020)]]
+- Connects to [[step_009 (phase_095)]]
+- Compare with [[The Siren's Mask]]
+- Leads to [[step_012]]
+- Leads to [[Falling Portcullis Xge]]
+- Affected by [[tentacle-rod-xdmg (items)]]
+- Influences [[step_027]]
+- Influences [[Boon of High Magic]]
+- Leads to [[The Strangling Vine (D&D_References)]]
+- Connects to [[Species Purity Advocate]]
+- Parallels [[Azure Shard]]
+- Parallels [[Location City Black Market Deal Black Market Deal.svg]]
+- Requires [[Assets Locations Location City Temple of the Eternal Flame Temple of the Eternal Flame.svg]]
+- Originates from [[Temporal Distortion Zones (D&D_References)]]
+- Affected by [[step_071 (phase_050)]]
+- Requires [[LOC00253_Dungeons_Location_254]]
+- Affected by [[Shadow Duchess Nyx]]
+- See also: [[#Travel]]
+- Parallels [[Fusion Artifacts]]

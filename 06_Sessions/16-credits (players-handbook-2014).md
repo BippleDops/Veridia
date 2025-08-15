@@ -8,6 +8,7 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
+tags: [combat, exploration, lore]
 --- # 16-credits ---
 
 ## Description
@@ -44,3 +45,154 @@ world: Both
 ## Notes
 
 *Additional notes*
+
+
+> [!dm] DM Note
+> The villain has agents watching this place
+
+## Prep Checklist
+
+### Npcs Needed
+- [ ] List key NPCs for this session
+- [ ] Prepare voices and mannerisms
+
+### Locations
+- [ ] Review location descriptions
+- [ ] Prepare battle maps if needed
+
+### Encounters
+- [ ] Balance combat encounters
+- [ ] Prepare social encounter notes
+
+### Props
+- [ ] Handouts ready
+- [ ] Music/ambiance selected
+
+### Rules
+- [ ] Review relevant rules
+- [ ] Prepare quick reference
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Requires [[Banker Kess (D&D_References)]]
+- See also: [[Assets Locations Location City High Hierophant Meridius High Hierophant Meridius.svg]]
+- See also: [[step_098 (phase_050)]]
+- Originates from [[Assets Locations Location City the Sunken Markets V1 the Sunken Markets.svg]]
+- Related: [[Security Services 2]]
+- Compare with [[Location City the Thirteen Keys V1 the Thirteen Keys.svg]]
+- Leads to [[Location City Whisper Island Docks V1 Whisper Island Docks.svg]]
+- Connects to [[Chef Lafayette]]
+- Affected by [[step_009]]
+- Connects to [[Assets Locations Location City Dr Siphon Gillwater V1 Dr Siphon Gillwater.png]]
+- Affected by [[QUEST00065_Side_Quest_66]]
+- See also: [[staff-of-birdcalls-xdmg (items)]]
+- Leads to [[Brightwater Detection Array]]
+- Compare with [[The Coral Gardens]]
+- Related: [[step_071 (phase_080)]]
+- Requires [[Surface Expert Grainwise 2]]
+- Parallels [[Potion of Force Resistance Xdmg]]
+- See also: [[Session Timer]]
+- Affected by [[Quest - The Haunted Depths_1 (01_Adventures)]]
+- Influences [[Template_Quest_Placeholder.png]]
+- Influences [[Aquabyssos - Session 07 - The Resonance Revelation]]
+- Compare with [[Portrait NPC the Parasite Priests V1 the Parasite Priests.svg_1 (Portraits)]]
+- Requires [[LOC00278_Planes_Location_279]]
+- Connects to [[step_054 (phase_019)]]
+- Affected by [[High Oracle Serenity Deepcall 2]]
+- See also: [[step_064]]
+- See also: [[Dominate Beast Xphb]]
+- Requires [[step_078 (phase_089)]]
+- See also: [[step_068]]
+- Parallels [[Copper Dragon Wyrmling Xmm]]
+- Influences [[Portrait NPC the Current Merchants V2 the Current Merchants.svg_1 (Portraits)]]
+- Leads to [[Location City International Void Treaties V1 International Void Treaties.svg]]
+- Compare with [[Assets Vehicles Vehicle Ship Void Skimmer Cutter V1 Void Skimmer Cutter.svg]]
+- Requires [[The Crystal Caves]]
+- Related: [[location-city-sacred-grottos-v1-sacred-grottos.svg]]
+- Parallels [[SPELL00000_Nature_Spell_1]]
+- Connects to [[Quest - The Family Reunio 2]]
+- Leads to [[Assets Locations Location City Phantom Harbor Charter V1 Phantom Harbor Charter.svg]]
+- Related: [[step_048 (phase_039)]]
+- Requires [[Portrait NPC the Emperor S Memories V2 the Emperor S Memories.svg_1 (Portraits)]]
+- Compare with [[Choker Mpmm]]
+- Requires [[ice-troll-rot (giant)]]
+- Parallels [[conditions#Poisoned]]
+- Parallels [[Portrait NPC Quest the Pretender V1 Quest the Pretender.svg]]
+- Connects to [[01 Introduction Welcome to Adventure]]
+- Parallels [[Equipment Testing Ranges]]
+- Influences [[list-spells-classes-great-old-one-patron-xphb (lists)]]
+- Parallels [[ITEM00213_Cursed_Staff_of_Wounding]]
+- Related: [[Portrait NPC the Throne Chamber of Eternal Bubbles V1 the Throne Chamber of Eternal Bubbles.svg_1 (Portraits)]]
+- Parallels [[step_050]]
+- Compare with [[step_067 (phase_087)]]
+- See also: [[Shadow Convergence 2]]
+- Requires [[ITEM01271_Refined_Elixir_of_Healing]]
+- Parallels [[step_012 (phase_029)]]
+- Originates from [[Echo Resident Sam]]
+- Connects to [[QUEST00015_Side_Quest_16]]
+- Leads to [[Assets Locations Location City Royal Treasury Royal Treasury.svg]]
+- Connects to [[Wild_Magic_Table]]
+- Leads to [[04_Resources_Assets_Symbols_symbol-heraldry-acoustic-infection-acoustic-infection.svg]]
+- Connects to [[step_057 (phase_099)]]
+- Affected by [[LOC00081_Wilderness_Location_82]]
+- Influences [[Portrait NPC Parliament Loyalists Parliament Loyalists.svg_1 (Portraits)]]
+- Influences [[Marina the Unifie (D&D_References)]]
+- Leads to [[Location City Historical Research V1 Historical Research.svg]]
+- Influences [[Cross-Realm Research Coalition (Groups)]]
+- Leads to [[Post-Merge Chronology]]
+- Parallels [[Shadow Conspiracy NPCs]]
+- Requires [[step_002 (phase_061)]]
+- Originates from [[Assets Locations Location City Vault Keeper Eternal Vault Keeper Eternal.svg]]
+- Leads to [[step_003 (phase_064)]]
+- Influences [[step_007 (phase_055)]]
+- Affected by [[step_038 (phase_025)]]
+- Influences [[step_076]]
+- See also: [[step_004 (phase_076)]]
+- Originates from [[Quest - The Pressure Cure]]
+- See also: [[LOC00162_Towns_Location_163]]
+- Parallels [[The First Watcher (D&D_References)]]
+- Influences [[list-spells-races-gith-githzerai-mtf (lists)]]
+- Influences [[02-chapter-1-playing-the-game#Skill List]]
+- Related: [[step_009]]
+- Parallels [[step_029]]
+- Affected by [[Magic Item Table C]]
+- Originates from [[step_003]]
+- Parallels [[Alternative Technology Promotion]]
+- Originates from [[copper-xdmg (items)]]
+- Originates from [[LORE00214_Legends_Entry_215]]
+- Parallels [[NPC01128_Vesper_Jadeclaw_the_Swift]]
+- Originates from [[step_070 (phase_015)]]
+- Influences [[04_Resources_Assets_Vehicles_vehicle-ship-resoce-drive-yacht-v2-resoce-drive-yacht.svg]]
+- See also: [[step_029]]
+- Influences [[Adaptation Medical Society (Groups)]]
+- Related: [[Nonhuman Deities Phb]]
+- Compare with [[LORE00241_Legends_Entry_242]]
+- Originates from [[step_009 (phase_025)]]
+- Originates from [[The Hybrid Harbor (D&D_References)]]
+- Connects to [[Portrait NPC Abyssos Prime Government V1 Abyssos Prime Government.svg]]
+- Affected by [[MON00028_Constructs_Creature_29]]
+- Originates from [[step_066 (phase_018)]]
+- Leads to [[step_072 (phase_075)]]
+- Affected by [[NPC00822_Baelor_Lightbringer_the_Mystic]]

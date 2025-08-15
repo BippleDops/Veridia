@@ -8,6 +8,7 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
+tags: [combat, magic, exploration, lore]
 --- # 13 Conditions ---
 
 ## Description
@@ -68,3 +69,164 @@ world: Both
 ## Notes
 
 *Additional notes*
+
+
+> [!dm] DM Note
+> Ancient magic still lingers here
+
+## Prep Checklist
+
+### Npcs Needed
+- [ ] List key NPCs for this session
+- [ ] Prepare voices and mannerisms
+
+### Locations
+- [ ] Review location descriptions
+- [ ] Prepare battle maps if needed
+
+### Encounters
+- [ ] Balance combat encounters
+- [ ] Prepare social encounter notes
+
+### Props
+- [ ] Handouts ready
+- [ ] Music/ambiance selected
+
+### Rules
+- [ ] Review relevant rules
+- [ ] Prepare quick reference
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Advantage**: See PHB p.173
+- **Combat**: See PHB p.189-198
+- **Conditions**: See PHB p.290-292
+- **Death Saves**: See PHB p.197
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Equipment: PHB p.143-161)*
+*(Weapons: PHB p.146-147)*
+*(Armor: PHB p.144-146)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Influences [[LORE00269_History_Entry_270]]
+- Parallels [[Noble House Politics (D&D_References)]]
+- Related: [[Shape the Flowing River]]
+- Influences [[step_018]]
+- Related: [[The Deep Settlements]]
+- Connects to [[ENC00348_Combat_Encounter_349]]
+- Originates from [[The Seven Shard Guardians 2]]
+- Leads to [[kuo-toa-monitor-xmm]]
+- Influences [[LOC00156_Towns_Location_157]]
+- Compare with [[Factional Conflicts]]
+- Influences [[Quest - Precision Strike_1 (01_Adventures)]]
+- Parallels [[Groundbreaker's Hamme 2]]
+- Related: [[SHOP00048_General_Shop_49]]
+- Originates from [[Crystal Pirate Crew 2]]
+- Compare with [[step_048 (phase_034)]]
+- Leads to [[step_031 (phase_049)]]
+- Connects to [[The Healer's Codex]]
+- Leads to [[LOC00052_Cities_Location_53]]
+- Related: [[step_003 (phase_004)]]
+- Leads to [[Dissonant Whispers Xphb]]
+- Influences [[Inter-Realm Commercial Cour]]
+- Requires [[step_095 (phase_053)]]
+- Compare with [[Map World Layer Faction Territories and Influence V2 Faction Territories and Influence.svg]]
+- Leads to [[Concepts Cosmic Truth]]
+- Requires [[LOC0014_Hillshire]]
+- Affected by [[Quest - The Memory Bridge]]
+- Parallels [[Location City the Great Sky Harbor V1 the Great Sky Harbor.svg]]
+- Parallels [[location-city-neutrality-laws-neutrality-laws.svg]]
+- Affected by [[Portrait NPC the Resonance Prophet V1 the Resonance Prophet.svg_1 (Portraits)]]
+- Compare with [[step_064 (phase_025)]]
+- Affected by [[Symbol Heraldry Anc... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Affected by [[Harbor Master Captain Dockwise]]
+- Related: [[Research Director Past Future 2]]
+- Affected by [[step_058 (phase_007)]]
+- See also: [[step_044 (phase_011)]]
+- Affected by [[explorers-pack-xphb (items)]]
+- Affected by [[Services Reality Protection]]
+- Affected by [[step_091 (phase_042)]]
+- See also: [[Spectral Librarian Reverent Bookmark (D&D_References)]]
+- See also: [[NPC01572_Gavril_Jadeclaw_the_Redeemed]]
+- Related: [[Throne of Bubbles (People)]]
+- Requires [[MON00133_Undead_Creature_134]]
+- Related: [[Quest - The Successor's Burden]]
+- Influences [[ITEM01084_Lesser_Potion_of_Swiftness]]
+- Originates from [[Archdruid Marina Kelpweaver 2]]
+- Compare with [[Deep Harbor]]
+- Originates from [[Captain Rodrigo Ironanchor 2]]
+- See also: [[kuo-toa-xmm]]
+- See also: [[Master Elena Preserver (D&D_References)]]
+- Influences [[Dust of Sneezing and Choking Xdmg]]
+- See also: [[Haven Reef]]
+- Related: [[Attack Roll Xphb]]
+- Originates from [[Glassblowers Tools Xphb]]
+- Connects to [[Portrait NPC High Priest Nereon High Priest Nereon.svg]]
+- Influences [[Order of the Silver Ancho (Groups)]]
+- See also: [[LORE00300_Legends_Entry_301]]
+- See also: [[MON00064_Constructs_Creature_65]]
+- Compare with [[step_056]]
+- Requires [[step_003]]
+- Parallels [[step_072 (phase_060)]]
+- Connects to [[Necromantic Rituals 2]]
+- Affected by [[Welfare Director Caretake]]
+- Affected by [[Religious Communities 2]]
+- Originates from [[Deep Trenches 2]]
+- Leads to [[step_097]]
+- Connects to [[Scholar Echo-Thought]]
+- Influences [[location-city-echo-truthseer-v1-echo-truthseer.svg]]
+- Related: [[step_084 (phase_055)]]
+- Parallels [[Scimitar of Speed Xdmg]]
+- Connects to [[step_068]]
+- Related: [[Assets Locations Location City Diplomatic Minister Reef Diplomatic Minister Reef.svg]]
+- Influences [[step_049 (phase_038)]]
+- Parallels [[step_088 (phase_090)]]
+- Connects to [[layers-of-arborea-xdmg (tables)]]
+- Parallels [[step_097 (phase_032)]]
+- Influences [[Wise Tide Truthseeker (D&D_References)]]
+- Parallels [[Fashion Guild]]
+- Originates from [[Balhannoth Mpmm]]
+- Compare with [[High Archivist Pearl Voidmemory]]
+- Parallels [[portrait-npc-reflection-pools-reflection-pools.svg_1 (Portraits)]]
+- Connects to [[Baroness Seraphina Moonweaver 2]]
+- Compare with [[step_037 (phase_092)]]
+- Connects to [[Location City Temporal Harvest V1 Temporal Harvest.svg]]
+- See also: [[step_056]]
+- Compare with [[Antitoxin Xphb]]
+- Affected by [[Symbol Heraldry Chaplain Abyssos the Deepseeke Chaplain Abyssos the Deepseeke.svg]]
+- Related: [[Assets Locations Location City Nereidios Nereidios.svg]]
+- Connects to [[Reality_Breach_Event_Compiler (D&D_References)]]
+- Leads to [[step_059]]
+- Originates from [[The Primordial Vaults (D&D_References)]]
+- Influences [[Dawn War Sehanine Dmg]]
+- Requires [[D_005_Shadow_Bloom_Player]]
+- Parallels [[Bloom Field Cultivation Guild (Guilds)]]
+- Requires [[Marina the Unifier (D&D_References)]]
+- Compare with [[ITEM00052_Thunder_Staff_of_Speed]]
+- Related: [[Far Realms (D&D_References)]]
+- Affected by [[step_076 (phase_039)]]
+- See also: [[step_071 (phase_026)]]
+- Connects to [[10 Combat#dropping to 0 Hit Points#falling Unconscious]]
+- Connects to [[The Ghost Walker (D&D_References)]]

@@ -1,4 +1,5 @@
 ---
+created: 2025-08-15
 aliases: ["Nerys Silverleaf the Strong", "nerys silverleaf the strong", "Nerys Silverleaf Strong", "Strong the Silverleaf Nerys"]
 tags: [npc, character]
 type: npc
@@ -135,3 +136,144 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Dungeon Master's Guide (DMG) p.30
+- Volo's Guide to Monsters (VGM) p.151
+- Mordenkainen's Tome of Foes (MTF) p.30
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+- **Spellcasting**: See PHB p.201-205
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Originates from [[Constitutional Monarchy 2]]
+- Influences [[halfling-names-female-xge (tables)]]
+- Related: [[SPELL00082_Divine_Spell_83]]
+- Leads to [[giant-fly-dmg (beast)]]
+- Originates from [[Public Works Director Boris Bridgewright]]
+- Compare with [[The Deep Prophecies 2]]
+- Compare with [[ENC00177_Social_Encounter_178]]
+- Leads to [[step_029]]
+- See also: [[step_085 (phase_072)]]
+- Affected by [[witherbloom-primer-scc (items)]]
+- Parallels [[Template_Species_Placeholder.png_2 (09_Templates)]]
+- See also: [[Sphere of Crushing Doom Xge]]
+- Related: [[Assets Portraits Portrait NPC Surface Supremacists Surface Supremacists.svg]]
+- Originates from [[Sky Trader Zephyr Windcatcher]]
+- Compare with [[Thugs (D&D_References)]]
+- See also: [[forgotten-realms-waukeen (deities)]]
+- Requires [[step_052 (phase_012)]]
+- Originates from [[step_040]]
+- Connects to [[step_030]]
+- Influences [[Safe House Network]]
+- Affected by [[LOC00037_Planes_Location_38]]
+- Leads to [[SPELL00161_Nature_Spell_162]]
+- See also: [[Assets Locations Location City Temple Ward Temple Ward.svg]]
+- Compare with [[Obsidian Xdmg]]
+- Parallels [[Character_Bonds_Quick_Ref]]
+- Connects to [[LOC00021_Wilderness_Location_22]]
+- Related: [[Staff of Swarming Insects Xdmg]]
+- Leads to [[step_017 (phase_040)]]
+- Affected by [[Location City Brother Thaddeus the Rememberer V1 Brother Thaddeus the Rememberer.svg]]
+- Related: [[Portrait NPC the Deepmind Conspiracy V1 the Deepmind Conspiracy.svg_1 (Portraits)]]
+- Related: [[Human Names Spanish Female Xge]]
+- Leads to [[step_029]]
+- Originates from [[Lady Penelope Procedure (D&D_References)]]
+- See also: [[Pressure & Weather Events]]
+- Connects to [[step_060 (phase_063)]]
+- Related: [[The Great Tidal Shrine]]
+- Leads to [[ENC00440_Combat_Encounter_441]]
+- Affected by [[NPC01303_Aldric_Zephyrblade_the_Guardian]]
+- Related: [[Public Safety]]
+- Compare with [[Portrait NPC High Priestess Marina Oracleguard V2 High Priestess Marina Oracleguard.svg_1 (Portraits)]]
+- Related: [[step_073 (phase_094)]]
+- Parallels [[Surgery Master Dr Marcus Deptblade]]
+- Affected by [[step_035 (phase_054)]]
+- Affected by [[The Crystal Cathedral]]
+- Connects to [[step_044]]
+- Parallels [[Bottled Breath Pota]]
+- See also: [[The Crystal Stock Exchange 2]]
+- Leads to [[Portrait NPC Queen Morwyn Lumengarde V2 Queen Morwyn Lumengarde.svg]]
+- See also: [[Memory Sharing Techniques (D&D_References)]]
+- Originates from [[Common Goods Market (D&D_References)]]
+- Requires [[Old Tongue 2]]
+- Connects to [[NPC00942_Nerys_Silverleaf_the_Wanderer]]
+- Leads to [[ancient-blue-dragon-xmm (dragon)]]
+- Connects to [[Gentle Repose Xphb]]
+- Compare with [[signet-ring (items)]]
+- Originates from [[Master Spy Shadows]]
+- Leads to [[#GM Notes]]
+- Compare with [[Location City Current Navigation Techniques Current Navigation Techniques.svg]]
+- See also: [[ITEM00158_Venomous_Crossbow_of_Power]]
+- Compare with [[step_028]]
+- Related: [[Sorcerer Xphb Storm Sorcery Xge]]
+- Requires [[QUEST00146_Main_Quest_147]]
+- See also: [[NPC00773_Urien_Blackstone_the_Bold]]
+- Requires [[step_051 (phase_068)]]
+- Leads to [[Truth Verification Magic]]
+- Connects to [[Void Entity Banishment]]
+- Related: [[The Convergence Oracle (D&D_References)]]
+- Originates from [[step_022 (phase_084)]]
+- Requires [[crossbow-bolt-case-xphb (items)]]
+- Originates from [[summon-fey-xphb (spells)]]
+- Originates from [[step_049 (phase_028)]]
+- Related: [[DUN00144_Dungeon_145]]
+- Related: [[step_074 (phase_084)]]
+- Compare with [[NPC01832_Qadim_Dawnstrider_the_Wanderer]]
+- Influences [[divine-word-xphb (spells)]]
+- Connects to [[Location City Ambassador Silk Bridgewater Ambassador Silk Bridgewater.svg]]
+- Compare with [[step_063 (phase_057)]]
+- Connects to [[step_074 (phase_026)]]
+- Connects to [[ITEM01191_Greater_Crystal_of_Vigor]]
+- Originates from [[Memory Coral Reefs (D&D_References)]]
+- Influences [[The Awakened Grove Council 2]]
+- Leads to [[human-names-polynesian-female-xge (tables)]]
+- Requires [[Keeper of the Dead, Sister Morwyn]]
+- Requires [[DUN00147_Dungeon_148]]
+- Related: [[Corruption Mystic Serafina Shadowheart 2]]
+- Connects to [[Human Names Chinese Male Xge]]
+- Requires [[Stormwind Supplies]]
+- Related: [[Quest - The Merged Reality 2]]
+- Related: [[cleric-xphb-grave-domain-xge (classes)]]
+- Compare with [[Portrait NPC Queen Glacialis V1 Queen Glacialis.svg]]
+- Affected by [[step_007 (phase_051)]]
+- Connects to [[LOC00094_Wilderness_Location_95]]
+- Affected by [[step_044 (phase_040)]]
+- Originates from [[FAC00068_Guilds_69]]
+- Connects to [[Multiverse 2]]
+- Originates from [[Location City Quieting the Depths V1 Quieting the Depths.svg]]
+- Influences [[Triton Vgm]]
+- Leads to [[Portal Mirror Mage 2]]
+- See also: [[Assets Locations Location City Magnus Ledgerkeep Magnus Ledgerkeep.svg]]
+- Influences [[Crystal-Enhanced Businesses (D&D_References)]]

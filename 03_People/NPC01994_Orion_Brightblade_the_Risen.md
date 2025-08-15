@@ -1,6 +1,6 @@
 ---
-aliases: ["Orion Brightblade the Risen", "orion brightblade the risen", "Orion Brightblade Risen", "Risen the Brightblade Orion"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Orion Brightblade the Risen", "orion brightblade the risen", "Orion Brightblade Risen", "Risen the Brightblade Oriontags: [npc, character, combat, magic, social, exploration, lore]er]
 type: npc
 ---
 
@@ -134,3 +134,134 @@ Is secretly testing the party
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Bandit** (MM p.343)
+Modifications:
+- HP: 42
+- AC: 13
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+- **Skills**: See PHB p.174-179
+- **Spellcasting**: See PHB p.201-205
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Connects to [[magic-item-purchase-complications-xge (tables)]]
+- Parallels [[LORE00143_Prophecies_Entry_144]]
+- Originates from [[Community Organizations (D&D_References)]]
+- Related: [[The Tethyan Hegemony]]
+- Leads to [[QUEST00120_Side_Quest_121]]
+- Compare with [[step_097]]
+- Influences [[Assets Locations Location City Void Prophet Nullus the Erased V1 Void Prophet Nullus the Erased.svg]]
+- Parallels [[Portrait_Prompts - NPCs]]
+- Affected by [[Cultural Studies Program]]
+- Leads to [[Lyre Xphb]]
+- Affected by [[step_073]]
+- Leads to [[step_072 (phase_058)]]
+- Compare with [[Assets Locations Location City Grief Overwhelming Syndrome Grief Overwhelming Syndrome.svg]]
+- Parallels [[The First King's Diary (D&D_References)]]
+- See also: [[Treaty of the Depths]]
+- Connects to [[Obsidian Statuette With Gold Fittings and]]
+- Compare with [[Examples of Faction Ranks]]
+- Originates from [[step_066 (phase_046)]]
+- Connects to [[Ancient Historian Memento (D&D_References)]]
+- Compare with [[step_033 (phase_075)]]
+- See also: [[Deep Mining Guild]]
+- Leads to [[Information Storage Crystals]]
+- Influences [[step_084 (phase_059)]]
+- Connects to [[Navigation Master Course (D&D_References)]]
+- Compare with [[NPC01315_Cedric_Jadeclaw_the_Seeker]]
+- Influences [[Strike Team Communications 2]]
+- Leads to [[obsidian-xdmg (items)]]
+- Affected by [[NPC01611_Gavril_Ironwood_the_Wise]]
+- Leads to [[ENC00008_Social_Encounter_9]]
+- Requires [[Location City Professional Associations Professional Associations.svg]]
+- Compare with [[copper-chalice-with-silver-filigree-xdmg (items)]]
+- Parallels [[step_060 (phase_014)]]
+- Influences [[ITEM00201_Cursed_Staff_of_Accuracy]]
+- Requires [[Deep Current Networks]]
+- Originates from [[Portrait NPC Quest the Deep Mother S Truth V1 Quest the Deep Mother S Truth.svg]]
+- Leads to [[FAC00003_Cults_4]]
+- Leads to [[Location City Abyssal Territories Abyssal Territories.svg]]
+- Compare with [[MON00012_Constructs_Creature_13]]
+- Originates from [[ITEM00448_Adamantine_Leather_of_Protection]]
+- Connects to [[step_047 (phase_038)]]
+- Leads to [[step_070 (phase_012)]]
+- Leads to [[Quest - Patient Zero_1 (01_Adventures)]]
+- Influences [[Quest - Memory War_1 (01_Adventures)]]
+- Compare with [[ITEM00436_Ethereal_Chain_Mail_of_Fortitude]]
+- See also: [[step_009 (phase_037)]]
+- Originates from [[ITEM0084_Eldritch_Crown_of_the_Dawn]]
+- See also: [[frostbite-xge (spells)]]
+- Requires [[Submersible_Schematic_Pressure_Gate_Scou]]
+- Connects to [[step_094 (phase_039)]]
+- Leads to [[NPC01016_Malakai_Ravenheart_the_Redeemed]]
+- See also: [[step_080 (phase_013)]]
+- Leads to [[step_070 (phase_091)]]
+- Related: [[Quest - Harbor Expansion_1 (01_Adventures)]]
+- Requires [[Parliament Building Maps]]
+- Leads to [[step_090 (phase_024)]]
+- Influences [[Location City Master Curator Pearl Artflow V1 Master Curator Pearl Artflow.svg]]
+- Requires [[step_079 (phase_093)]]
+- Compare with [[location-city-fire-crystals-v1-fire-crystals.svg]]
+- Connects to [[Shadow_Surgeon_Rogue]]
+- Requires [[step_067 (phase_076)]]
+- Parallels [[#Planet Details]]
+- Requires [[Potion of Stone Giant Strength Xdmg]]
+- Compare with [[Mind Flayer Arcanist Xmm]]
+- Originates from [[step_060 (phase_067)]]
+- Originates from [[NPC01647_Zephyr_Crystalbrook_the_Bold]]
+- Related: [[step_024]]
+- Leads to [[SHOP00065_Specialty_Shop_66]]
+- Related: [[ITEM00954_Lesser_Crystal_of_Healing]]
+- Connects to [[Greyhawk Syrul Xdmg]]
+- Parallels [[04_Resources_Assets_Portraits_portrait-npc-lady-celestine-windborne-lady-celestine-windborne.svg_Quick_Ref]]
+- Requires [[Cloud of Daggers Xphb]]
+- Requires [[ITEM01238_Pure_Oil_of_Swiftness]]
+- Leads to [[Customer Relations Director Seraphina Calmcurrent (D&D_References)]]
+- Originates from [[Reference Quick Reference Dnd5e DM Screen 2014]]
+- Connects to [[step_064 (phase_046)]]
+- Requires [[Scholar-Priest Tidal-Memory (D&D_References)]]
+- Requires [[vampire]]
+- See also: [[silk-xdmg (items)]]
+- Compare with [[Traditional Spy Networks]]
+- Connects to [[step_099]]
+- Compare with [[step_068]]
+- Compare with [[Assets Handouts Handout Handout Aged Treasure Map V2 Aged Treasure Map.png]]
+- Related: [[Assets Locations Location City Admiral Thalassa Stormcurrent V1 Admiral Thalassa Stormcurrent.svg]]
+- Requires [[step_056 (phase_027)]]
+- Affected by [[Assets Locations Location City Storm Guard Storm Guard.svg]]
+- Originates from [[Lord_Lady_Chamberlain_Court_Manager]]
+- Affected by [[NPC01993_Drusilla_Ironwood_the_Risen]]
+- Parallels [[NPC00027_Faelyn_Proudmore]]
+- Leads to [[create-bonfire-xge (spells)]]
+- See also: [[The Sunken Conspiracy]]
+- Requires [[step_056 (phase_087)]]
+- Leads to [[Transformation Techniques 2]]
+- Originates from [[witherbloom-primer-scc (items)]]
+- See also: [[Quest - Parliamentary Infiltratio]]
+- Affected by [[duergar-screamer-mpmm (construct)]]
+- Connects to [[Location City the Spiral Sanctum the Spiral Sanctum.svg]]
+- Originates from [[Session 02 (06_Sessions)]]
+- Leads to [[step_008 (phase_097)]]
+- Affected by [[Marcus the Jus]]
+- Related: [[The Brotherhood of the Black Anchor 2]]

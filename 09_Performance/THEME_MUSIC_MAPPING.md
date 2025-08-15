@@ -1,6 +1,5 @@
 ---
-enhanced: true
-tags: [enhanced, 13_performance]
+enhanced: trtags: [enhanced, 13_performance, combat, magic, exploration, lore]ce]
 created: 2025-08-15T12:24:41.114974
 modified: 2025-08-15T12:24:41.114975
 aliases: [THEME MUSIC MAPPING]
@@ -165,3 +164,137 @@ type: note
 
 
 *Every story needs its heroes.*
+
+> [!dm] DM Note
+> Hidden treasure can be found here with a DC 15 Investigation check
+
+
+## Related Content
+- [[ULTIMATE_VAULT_ACHIEVEMENT]]
+- [[optimization_report_20250814_180706]]
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+- [[ULTIMATE_ASSET_REPORT]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- See also: [[EVENT00075_Political_Event_76]]
+- Affected by [[List Spells Classes Oathbreaker Dmg]]
+- Parallels [[step_011]]
+- Affected by [[Lich Xmm]]
+- See also: [[step_088]]
+- Related: [[Agent Infiltrator]]
+- Parallels [[LORE00307_Legends_Entry_308]]
+- See also: [[Location City Memorial Wall of Names V1 Memorial Wall of Names.png]]
+- Leads to [[Eberron the Fury]]
+- Influences [[QUEST00076_Main_Quest_77]]
+- See also: [[Crystal Academy Council]]
+- See also: [[step_028 (phase_095)]]
+- Originates from [[step_040]]
+- Influences [[Assets Art the Divine Trial.png]]
+- Influences [[The Silence Experiments]]
+- See also: [[Location Index 2]]
+- Affected by [[The Reality Sick Mayor Lord Quantum Aldrich]]
+- Affected by [[Mind Flayer Arcanist Xmm]]
+- Connects to [[D_005_Shadow_Bloom_Player]]
+- Leads to [[step_014 (phase_030)]]
+- Leads to [[NPC01909_Hilda_Quicksilver_the_Mystic]]
+- Influences [[List Spells Classes Clockwork Sorcery Xphb]]
+- Parallels [[boon-of-dimensional-travel-xphb (feats)]]
+- Originates from [[LOC00069_Dungeons_Location_70]]
+- Parallels [[step_009]]
+- Connects to [[Quest - The Traitor Within_1 (01_Adventures)]]
+- Leads to [[Crafting Magic Items Magic Item Crafting]]
+- Compare with [[Lords of the Nine Layers and Rulers of the Nine Hells Mtf]]
+- Related: [[Infiltrate Surgical Facilities (Lore)]]
+- See also: [[step_022 (phase_100)]]
+- Originates from [[step_092 (phase_036)]]
+- Leads to [[step_073 (phase_033)]]
+- Parallels [[piton]]
+- Connects to [[step_056]]
+- Compare with [[Location City Black Market Deal Black Market Deal.svg]]
+- See also: [[step_052 (phase_046)]]
+- Leads to [[SPELL00100_Divine_Spell_101]]
+- Compare with [[Purist Coalition Thugs 2]]
+- Parallels [[Location City Navigator Depthseer V1 Navigator Depthseer.svg]]
+- Parallels [[Backpack Xphb]]
+- Affected by [[Guard Drake Mpmm]]
+- Requires [[Crystal Network]]
+- Leads to [[Master Thorne Blackforge (D&D_References)]]
+- Influences [[location-city-pearlshell-pearlshell.svg]]
+- Related: [[Sister Morwyn (D&D_References)]]
+- Originates from [[step_042 (phase_006)]]
+- Originates from [[desert-encounters-levels-14-xge (tables)]]
+- Compare with [[kobold-dmg (races)]]
+- Originates from [[step_047 (phase_074)]]
+- Requires [[step_059 (phase_019)]]
+- Related: [[NPC00680_Nerys_Keenblade_the_Wanderer]]
+- Parallels [[step_057 (phase_078)]]
+- See also: [[step_079 (phase_064)]]
+- Connects to [[The Facilitator 2]]
+- Requires [[The Reality Guards 2]]
+- Parallels [[step_044]]
+- Influences [[giant-goat-xmm (beast)]]
+- Connects to [[Location City the Lighthouse Keeper S Ghost V1 the Lighthouse Keeper S Ghost.png]]
+- Affected by [[The Kraken's Wake]]
+- Leads to [[Meditation Chamber]]
+- Parallels [[Archaic Scc]]
+- Compare with [[Temporal_Mechanics_System]]
+- Leads to [[Services Memory Adjustment]]
+- Leads to [[Symbol Heraldry the Architects of Depths V1 the Architects of Depths.svg]]
+- Compare with [[The Drowning 2]]
+- Requires [[The Scream Archives]]
+- Leads to [[Storyteller Memorykeeper]]
+- Connects to [[NPC1]]
+- Compare with [[step_025 (phase_085)]]
+- Requires [[ITEM01321_Simple_Journal_of_Quality]]
+- Related: [[ITEM00669_Mithril_Boots_of_the_Guardian]]
+- Related: [[Assets Locations Location City Wise Counselor Deep Wise Counselor Deep.svg]]
+- Parallels [[Portrait NPC Captain Torren Stormwright V2 Captain Torren Stormwright.svg]]
+- Leads to [[step_082 (phase_082)]]
+- Related: [[Mira Stormwind 2]]
+- Requires [[LOC00137_Planes_Location_138]]
+- Affected by [[Crystal-Corruption-Tracking-Sheet (D&D_References)]]
+- Compare with [[step_097]]
+- Compare with [[ITEM01450_Sturdy_Spyglass_of_Reliability]]
+- Compare with [[NPC01972_Idris_Darkwater_the_Redeemed]]
+- Connects to [[step_093 (phase_043)]]
+- Requires [[step_020 (phase_095)]]
+- Related: [[list-spells-feats-fey-teleportation-xge (lists)]]
+- Requires [[Revolution Prevention]]
+- Affected by [[step_034 (phase_076)]]
+- Compare with [[step_082 (phase_050)]]
+- Related: [[Location City Chancellor S Advisory Council Chancellor S Advisory Council.svg]]
+- See also: [[step_094 (phase_057)]]
+- Originates from [[Professor Abyssal Deepthought (D&D_References)]]
+- Affected by [[Sword of Wounding Xdmg]]
+- See also: [[Symbol Heraldry Supernatural Mysterie Supernatural Mysterie.svg]]
+- Related: [[location-city-trade-unions-v1-trade-unions.svg]]
+- See also: [[The Unity Shard 2]]
+- Leads to [[step_039]]
+- Affected by [[The Memory Purist Movement (D&D_References)]]
+- Requires [[Hat of Wizardry Xdmg]]
+- See also: [[step_047 (phase_075)]]
+- Affected by [[Roleplaying a Giant Giant Flaws Vgm]]
+- See also: [[step_040]]
+- Connects to [[step_025]]

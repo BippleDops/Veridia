@@ -1,6 +1,6 @@
 ---
-aliases: ["Thalia Lightbringer the Fallen", "thalia lightbringer the fallen", "Thalia Lightbringer Fallen", "Fallen the Lightbringer Thalia"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Thalia Lightbringer the Fallen", "thalia lightbringer the fallen", "Thalia Lightbringer Fallen", "Fallen the Lightbringer Thaliatags: [npc, character, combat, lore]er]
 type: npc
 ---
 
@@ -148,3 +148,150 @@ Provides information for a price
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Noble** (MM p.348)
+Modifications:
+- HP: 43
+- AC: 11
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Tasha's Cauldron of Everything (TCE) p.104
+- Mordenkainen's Tome of Foes (MTF) p.68
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Related: [[step_080 (phase_074)]]
+- Influences [[step_028]]
+- Affected by [[ENC00196_Social_Encounter_197]]
+- Connects to [[poisoned-darts-xdmg (traps-hazards)]]
+- Connects to [[portrait-npc-the-wake-the-wake.svg]]
+- See also: [[Purist Coalition]]
+- Affected by [[step_005 (phase_027)]]
+- Related: [[Symbol Heraldry Healing Ministries V1 Healing Ministries.svg]]
+- Leads to [[Communication Systems Consortium]]
+- Parallels [[step_017 (phase_069)]]
+- Influences [[step_030 (phase_084)]]
+- Influences [[animated-halberd-cos (construct)]]
+- Related: [[LOC00253_Planes_Location_254]]
+- Related: [[NPC01064_Gareth_Blackstone_the_Strong]]
+- Related: [[NPC00164_Solas_Thornweave]]
+- Affected by [[Historical Research Institute]]
+- Requires [[step_059 (phase_049)]]
+- Originates from [[Enemy Xphb]]
+- Leads to [[step_018 (phase_011)]]
+- Compare with [[step_034]]
+- Connects to [[NPC01273_Alaric_Ironwood_the_Guardian]]
+- Leads to [[step_029 (phase_023)]]
+- Connects to [[Chief Temporal Engineer Paradox Timeweaver (D&D_References)]]
+- Affected by [[LOC00271_Dungeons_Location_272]]
+- Leads to [[Location City Enchanter Valdris Peacewarden Enchanter Valdris Peacewarden.svg]]
+- Compare with [[step_065 (phase_024)]]
+- Leads to [[step_082 (phase_032)]]
+- Parallels [[step_013 (phase_040)]]
+- Leads to [[step_094 (phase_093)]]
+- Affected by [[#Membership]]
+- Affected by [[step_100]]
+- Parallels [[The Bloom Fields (Lore)]]
+- Originates from [[SPELL00076_Divine_Spell_77]]
+- Affected by [[Spellcasting Multiclass Spellcaster Spell Slots Per Spell Level Phb]]
+- Compare with [[Admiral Cassandra Stormwind]]
+- Compare with [[step_097 (phase_052)]]
+- Parallels [[Trade Captain Marina Pathkeeper]]
+- Originates from [[Temporal Sentinels 2]]
+- Leads to [[Banderhobb Mpmm]]
+- Related: [[step_065 (phase_042)]]
+- Compare with [[LOC00215_Planes_Location_216]]
+- Originates from [[Corruption Trackers]]
+- Compare with [[LOC00167_Wilderness_Location_168]]
+- Originates from [[ITEM00856_Time-worn_Ring_of_Destiny]]
+- See also: [[Portrait NPC the Parasite Priests the Parasite Priests.svg_1 (Portraits)]]
+- Compare with [[step_074 (phase_095)]]
+- Compare with [[Using a Map Map Travel Pace]]
+- Leads to [[step_045 (phase_079)]]
+- Originates from [[Portrait NPC Deep Mother Cultist Profiles V1 Deep Mother Cultist Profiles.svg_1 (Portraits)]]
+- Affected by [[LORE00306_Prophecies_Entry_307]]
+- Parallels [[step_060]]
+- Requires [[hag-vgm (legendary-group)]]
+- Parallels [[ITEM00617_Ethereal_Shield_of_Resistance]]
+- Leads to [[Pressure Palace (D&D_References)]]
+- Requires [[mixing-potions-potion-miscibility-xdmg (tables)]]
+- Originates from [[Creature Creature Nightmare Xmm V1 Nightmare Xmm.png]]
+- Affected by [[Academy of Sciences]]
+- Connects to [[Master Sergeant Reef Ironwall]]
+- See also: [[step_079 (phase_052)]]
+- Originates from [[Aquabyssos Content]]
+- Influences [[celtic-math-mathonwy (deities)]]
+- Compare with [[Semiautomatic Pistol Xdmg]]
+- Parallels [[Aboleth Adjunct Yzz (D&D_References)]]
+- Parallels [[Assets Locations Location City Whisper Island Docks V1 Whisper Island Docks.svg]]
+- Related: [[ITEM01163_Superior_Herb_of_Vigor]]
+- See also: [[step_067 (phase_087)]]
+- See also: [[Travel Calculator (D&D_References)]]
+- Affected by [[egyptian-re-horakhty (deities)]]
+- Requires [[The Hidden Constitution Archive 2]]
+- Leads to [[Ambassador Marina Tidecrest]]
+- Originates from [[Banker Titus Goldcurrent (People)]]
+- Connects to [[Banishing Arrow Xge]]
+- See also: [[Sister Thalassa the Depth-Touched (D&D_References)]]
+- Requires [[Portrait NPC the Deep Trade Routes V1 the Deep Trade Routes.svg_1 (Portraits)]]
+- Originates from [[Portrait NPC the Nameless Auditor V1 the Nameless Auditor.svg]]
+- Originates from [[Void Whirlpools]]
+- Parallels [[armor-of-invulnerability-xdmg (items)]]
+- Leads to [[step_012]]
+- Parallels [[step_099]]
+- See also: [[Assets Item Artifact Explorers Pack Xphb V4 Explorers Pack Xphb.png]]
+- Influences [[illithilich-vgm (undead)]]
+- See also: [[Chancellor Marcus Provinces]]
+- Requires [[Portrait NPC King Marcus Lumengarde King Marcus Lumengarde.svg_1 (Portraits)]]
+- Connects to [[random-settlements-known-for-its (tables)]]
+- Requires [[Reality Anchor Networks (Items)]]
+- See also: [[ITEM0089_Blessed_Orb_of_the_Dawn]]
+- Affected by [[Princess Lyralei 2]]
+- Influences [[step_086 (phase_067)]]
+- Connects to [[Battle Map Descriptions]]
+- Connects to [[starry-wisp-xphb (spells)]]
+- Compare with [[Experience Points Xphb]]
+- Compare with [[Location City Ancient Treasury of Tides Ancient Treasury of Tides.svg]]
+- Parallels [[NPC Directory.base (Lore)]]
+- Affected by [[Assets Locations Location City Liminal Constantinople Liminal Constantinople.svg]]
+- Connects to [[Security Quarters (D&D_References)]]
+- Affected by [[ITEM01020_Lesser_Powder_of_Fortune]]
+- Leads to [[step_090 (phase_075)]]
+- Related: [[step_009]]
+- Compare with [[Arcane Assembly 2]]
+- Connects to [[The Masked Broker]]

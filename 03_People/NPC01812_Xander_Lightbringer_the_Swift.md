@@ -1,6 +1,6 @@
 ---
-aliases: ["Xander Lightbringer the Swift", "xander lightbringer the swift", "Xander Lightbringer Swift", "Swift the Lightbringer Xander"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Xander Lightbringer the Swift", "xander lightbringer the swift", "Xander Lightbringer Swift", "Swift the Lightbringer Xandertags: [npc, character, combat, magic, social, exploration, puzzle, lore]er]
 type: npc
 ---
 
@@ -144,3 +144,127 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+- **Skills**: See PHB p.174-179
+- **Spellcasting**: See PHB p.201-205
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Related: [[Work Complications Xge]]
+- Parallels [[The Wind Shrine Archipelago 2]]
+- See also: [[step_020 (phase_018)]]
+- Affected by [[step_060 (phase_095)]]
+- Originates from [[NPC01597_Gavril_Nightfall_the_Swift]]
+- Connects to [[thaumaturgy-xphb (spells)]]
+- See also: [[Tomb of Levistus Xge]]
+- Affected by [[construct-spirit-xphb (construct)]]
+- Compare with [[step_039 (phase_009)]]
+- Compare with [[step_089 (phase_079)]]
+- Affected by [[Deep Trenches]]
+- Connects to [[04_Resources_Assets_Locations_location-city-pool-of-sacred-drowning-pool-of-sacred-drowning.svg]]
+- Parallels [[step_095 (phase_011)]]
+- Leads to [[Current Region]]
+- Originates from [[step_085 (phase_027)]]
+- Connects to [[02_Worldbuilding_Factions_The_Prismatic_Order]]
+- Related: [[step_018 (phase_090)]]
+- Parallels [[step_059 (phase_058)]]
+- Leads to [[Corrupted Merrow]]
+- Leads to [[step_037 (phase_098)]]
+- Parallels [[step_007 (phase_075)]]
+- Requires [[step_044 (phase_027)]]
+- Connects to [[The Scholar of Eight Arms]]
+- Originates from [[step_019 (phase_004)]]
+- See also: [[Assets Locations Location City the Inverse Palace V1 the Inverse Palace.svg]]
+- Compare with [[step_043 (phase_091)]]
+- Affected by [[step_080]]
+- Originates from [[Location City Archkeeper Nereon Archkeeper Nereon.svg]]
+- Requires [[ITEM00287_Radiant_Staff_of_the_Ancients]]
+- Affected by [[MON00146_Undead_Creature_147]]
+- Parallels [[SHOP00044_Specialty_Shop_45]]
+- Compare with [[Rod of Resurrection Xdmg]]
+- Influences [[The Evolution District (D&D_References)]]
+- Originates from [[Location City the Cerulean Archipelago V1 the Cerulean Archipelago.svg]]
+- Compare with [[EVENT00018_Natural_Event_19]]
+- Requires [[The Unnamed Knowledge]]
+- Leads to [[Central Territories]]
+- Affected by [[Sunlight Crystal]]
+- See also: [[step_088 (phase_070)]]
+- Influences [[Northern Principalities 2]]
+- Connects to [[NPC00817_Malakai_Silverleaf_the_Wanderer]]
+- Influences [[Sanctuary Emergency Systems]]
+- Requires [[Winds of Rebellion]]
+- See also: [[step_090 (phase_008)]]
+- Requires [[step_033 (phase_035)]]
+- See also: [[step_014 (phase_010)]]
+- Parallels [[Portrait NPC High King Aurelius Skyborn V2 High King Aurelius Skyborn.svg_1 (Portraits)]]
+- Connects to [[Duergar Raiding Parties 1 Mtf]]
+- Related: [[step_053 (phase_007)]]
+- Requires [[step_034 (phase_010)]]
+- See also: [[Location City Foreign Intelligence Foreign Intelligence.svg]]
+- Influences [[step_083]]
+- Affected by [[Surface Tensions 2]]
+- Related: [[LOC0049_Grovehollow]]
+- Compare with [[Assets Locations Location City Quest Harbor Security Quest Harbor Security.svg]]
+- Requires [[Motion_Specs (D&D_References)]]
+- Leads to [[Travel Terrain Xdmg]]
+- Originates from [[Location City Angels and Depths V1 Angels and Depths.svg]]
+- Requires [[LOC00054_Dungeons_Location_55]]
+- Leads to [[Portrait NPC Ice Kingdom Spirits V2 Ice Kingdom Spirits.svg_1 (Portraits)]]
+- Affected by [[short-rest-xphb]]
+- Leads to [[Private Arbitration 2]]
+- Originates from [[Location City Keeper Aquaeous Depth Scholar Keeper Aquaeous Depth Scholar.svg]]
+- See also: [[The Community Feast Halls_1 (02_Worldbuilding)]]
+- Related: [[Location City the Lighthouse Keeper S Ghost V1 the Lighthouse Keeper S Ghost.png]]
+- Affected by [[LOC00199_Dungeons_Location_200]]
+- Related: [[stone-cursed-mpmm (construct)]]
+- Compare with [[step_071 (phase_100)]]
+- Requires [[Death Hunters Guild]]
+- See also: [[5-wave-echo-cave (lost-mine-of-phandelver)]]
+- Influences [[step_056 (phase_015)]]
+- Parallels [[List Spells School Abjuration]]
+- Connects to [[step_075]]
+- Affected by [[Coral]]
+- Requires [[Commercial Dispute Resolution Procedures]]
+- Affected by [[Doctor Silas Voidtouch]]
+- Affected by [[step_055 (phase_036)]]
+- Parallels [[Independent Contractor]]
+- Related: [[mind-flayer-xmm]]
+- Connects to [[step_063]]
+- Compare with [[banishing-arrow-xge (optional-features)]]
+- Influences [[ITEM01148_Superior_Elixir_of_Swiftness]]
+- Leads to [[Combat Training Facilities]]
+- Originates from [[Gold Bar 5 Pound Xdmg]]
+- See also: [[Resources Spell Scroll Costs Xge]]
+- Influences [[Group Conference Mirrors]]
+- Parallels [[Forgotten Realms Shar]]
+- Connects to [[Basil Prismtender (D&D_References)]]
+- Influences [[High Altitude Xdmg]]
+- Affected by [[step_097 (phase_086)]]
+- Influences [[step_035]]
+- See also: [[EVENT00038_Political_Event_39]]
+- Compare with [[The Free Traders Alliance]]
+- Originates from [[step_054]]
+- See also: [[step_095 (phase_071)]]
+- Parallels [[The Oracle of Bathyal Palace]]
+- Compare with [[Portrait NPC King Marcus Lumengarde King Marcus Lumengarde.svg_1 (Portraits)]]
+- Leads to [[Location City Abyssal Crystals Abyssal Crystals.svg]]
+- Affected by [[step_032 (phase_051)]]
+- Parallels [[NPC01393_Erasmus_Winterborn_the_Broken]]

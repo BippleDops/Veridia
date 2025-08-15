@@ -8,6 +8,7 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
+tags: [combat, magic, exploration, lore]
 --- # 05 Chapter 4 Character Origins ---
 
 ## Description
@@ -68,3 +69,173 @@ world: Both
 ## Secrets
 - Hidden knowledge
 - Personal mysteries
+
+
+> [!dm] DM Note
+> Hidden treasure can be found here with a DC 15 Investigation check
+
+## Prep Checklist
+
+### Npcs Needed
+- [ ] List key NPCs for this session
+- [ ] Prepare voices and mannerisms
+
+### Locations
+- [ ] Review location descriptions
+- [ ] Prepare battle maps if needed
+
+### Encounters
+- [ ] Balance combat encounters
+- [ ] Prepare social encounter notes
+
+### Props
+- [ ] Handouts ready
+- [ ] Music/ambiance selected
+
+### Rules
+- [ ] Review relevant rules
+- [ ] Prepare quick reference
+
+## Campaign Connection
+Connected to the main villain's plan
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[10K_GENERATION_REPORT]]
+- [[ULTIMATE_VAULT_ACHIEVEMENT]]
+- [[NEXT_LEVEL_IMPROVEMENTS]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Equipment: PHB p.143-161)*
+*(Weapons: PHB p.146-147)*
+*(Armor: PHB p.144-146)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- See also: [[Assets Locations Location City Shipwreck Cove V1 Shipwreck Cove.svg]]
+- Influences [[step_057 (phase_093)]]
+- Connects to [[Druid Xphb Circle of the Shepherd Xge]]
+- Affected by [[step_086]]
+- Related: [[Symbol Heraldry Shadow Conspiracy Investigation V1 Shadow Conspiracy Investigation.png]]
+- Related: [[step_031 (phase_028)]]
+- Leads to [[Dr. Marina Depthsight]]
+- Parallels [[dryad-xmm (fey)]]
+- Originates from [[LOC00067_Wilderness_Location_68]]
+- Compare with [[step_076 (phase_058)]]
+- Connects to [[Portrait NPC Lich Queen Morwyn the Deathless Lich Queen Morwyn the Deathless.svg]]
+- Related: [[Community Resource Sharing 2]]
+- Originates from [[The Vault of Values 2]]
+- Connects to [[Location City Quest the Blackmail Papers V1 Quest the Blackmail Papers.svg]]
+- Requires [[step_046 (phase_047)]]
+- Originates from [[Arcanum Heights 2]]
+- Compare with [[step_074 (phase_013)]]
+- Affected by [[Shadow Bazaar]]
+- Connects to [[step_012]]
+- See also: [[step_056 (phase_095)]]
+- Requires [[Merchant Family Alliances]]
+- Related: [[step_033 (phase_045)]]
+- Leads to [[NPC00265_Kaelen_Stormwind_the_Risen]]
+- Compare with [[step_025]]
+- Connects to [[Emergency Response Procedures 2]]
+- Related: [[QUEST00334_Side_Quest_335]]
+- Leads to [[Portrait NPC High Cultivist Jasper Lifebinder High Cultivist Jasper Lifebinder.svg]]
+- See also: [[The Null Cathedral (D&D_References)]]
+- Influences [[Whisper Jack]]
+- See also: [[step_010]]
+- Leads to [[Relationship Webcanvas]]
+- Affected by [[swarm-of-venomous-snakes-xmm (beast)]]
+- Parallels [[Master_Narrative_Web (Indexes)]]
+- Originates from [[step_026 (phase_011)]]
+- Connects to [[Blinding Smite Xphb]]
+- Compare with [[pact-of-the-blade-xphb (optional-features)]]
+- Compare with [[Pressure Portals (D&D_References)]]
+- Connects to [[LORE00037_Legends_Entry_38]]
+- Connects to [[potters-tools-xphb (items)]]
+- Related: [[Depth Pulse]]
+- Originates from [[step_064 (phase_071)]]
+- Related: [[Organizations the Chroniclers]]
+- Requires [[step_045]]
+- Influences [[Voluntary Taxation 2]]
+- Connects to [[Quest - Depth Pilgrimage 2]]
+- Affected by [[Educational Institutions]]
+- Requires [[step_027 (phase_066)]]
+- Requires [[High Priestess Scylla Deepdream]]
+- Influences [[Constitutional Monarchy]]
+- Influences [[The Order of the Silent Vigil]]
+- Related: [[DnD5e-DM Screen-2014]]
+- Requires [[Depth Effect Quick Reference (Lore)]]
+- Influences [[step_024 (phase_015)]]
+- See also: [[potion-of-heroism-xdmg (items)]]
+- Influences [[step_029 (phase_025)]]
+- Affected by [[Orc Names Orc Male Names Vgm]]
+- Affected by [[NPC01902_Aldric_Moonshadow_the_Redeemed]]
+- Requires [[Assets Locations Location City Royal Guard V1 Royal Guard.svg]]
+- Leads to [[step_018 (phase_012)]]
+- Leads to [[Location City Liberty Coalition V1 Liberty Coalition.svg]]
+- Parallels [[Interrogation Techniques]]
+- Originates from [[The Crystal Festival 3 (D&D_References)]]
+- Related: [[bullywug-warrior-xmm (fey)]]
+- Connects to [[step_026 (phase_061)]]
+- Related: [[step_044 (phase_063)]]
+- Related: [[Aquabyssos Noble Houses]]
+- Affected by [[LORE00291_Legends_Entry_292]]
+- Parallels [[elf-tables-drow-adventurer-story-hooks-mtf (tables)]]
+- Influences [[DUN00126_Dungeon_127]]
+- Requires [[step_090 (phase_004)]]
+- Affected by [[LOC00022_Towns_Location_23]]
+- Affected by [[step_002]]
+- Originates from [[Quick_NPC (02_Worldbuilding)]]
+- Leads to [[QUEST00075_Main_Quest_76]]
+- Compare with [[step_054 (phase_020)]]
+- Originates from [[Current Innovator]]
+- Connects to [[Vault Prime]]
+- Originates from [[Assets Locations Location City Wisdom Futureseer Wisdom Futureseer.svg]]
+- Requires [[step_078 (phase_078)]]
+- Connects to [[QUEST00051_Personal_Quest_52]]
+- Compare with [[step_036 (phase_073)]]
+- Compare with [[The Shattering of the Crown 2]]
+- Affected by [[step_009 (phase_062)]]
+- Parallels [[Creature Creature Young Green Dragon Xmm Young Green Dragon Xmm.png]]
+- Originates from [[The Convergence Crisis (D&D_References)]]
+- Parallels [[Crisis Response Centers (D&D_References)]]
+- Affected by [[Assets Portraits Portrait NPC Queen Seraphina Lumengarde Queen Seraphina Lumengarde.svg]]
+- Connects to [[Location City Maritime Commerce Maritime Commerce.svg]]
+- Requires [[NPC00536_Brenna_Darkwater_the_Redeemed]]
+- Connects to [[Crisis Communication Array]]
+- Requires [[Quest - War of Tides 2]]
+- Related: [[Location City International Relations V1 International Relations.svg]]
+- Connects to [[MON00144_Undead_Creature_145]]
+- Originates from [[step_084]]
+- Compare with [[step_073 (phase_058)]]
+- Originates from [[Thunderwave Xphb]]
+- Related: [[Director Marina Coralstudent (Lore)]]
+- See also: [[Portrait NPC Aboleth Prime Yoth V1 Aboleth Prime Yoth.svg_1 (Portraits)]]
+- Compare with [[NPC0197_Minerva_Brightblade_the_Strong]]
+- Leads to [[step_045 (phase_037)]]

@@ -1,6 +1,5 @@
 ---
-enhanced: true
-tags: [enhanced, 07_player_resources]
+enhanced: trtags: [enhanced, 07_player_resources, combat, lore]es]
 created: 2025-08-15T12:24:41.131420
 modified: 2025-08-15T12:24:41.131421
 aliases: [Quick Start Guide.md]
@@ -65,3 +64,149 @@ publish: false --- -|--------|
 ![[04_Resources/Assets/Digital/ui-ui-quick-reference-overlay-v1-quick-reference-overlay.png]]
 ![[04_Resources/Assets/Digital/ui-ui-quick-reference-overlay-v2-quick-reference-overlay.png]]
 ![[04_Resources/Assets/Digital/ui-ui-quick-reference-overlay-quick-reference-overlay.png]]
+
+
+> [!dm] DM Note
+> Hidden treasure can be found here with a DC 15 Investigation check
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Player's Handbook (PHB) p.108
+- Dungeon Master's Guide (DMG) p.77
+
+## Related Content
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+
+## Connections
+
+- Influences [[Portrait NPC Free Current Safe Houses V2 Free Current Safe Houses.svg_1 (Portraits)]]
+- See also: [[Spell Scroll Level 2 Xdmg]]
+- Affected by [[step_049 (phase_043)]]
+- Parallels [[step_047]]
+- Leads to [[The Crystal Stock Exchange]]
+- Originates from [[step_047 (phase_071)]]
+- Related: [[Assets Locations Location City Port Meridian Merchant Quarter V1 Port Meridian Merchant Quarter.svg]]
+- Influences [[step_013]]
+- Affected by [[step_026 (phase_016)]]
+- Requires [[Captain Henrik Proudbanner (D&D_References)]]
+- See also: [[QUEST00162_Personal_Quest_163]]
+- Requires [[tiefling-names-female-xge (tables)]]
+- Originates from [[Sunken Kingdom of Nereon]]
+- Compare with [[step_015 (phase_086)]]
+- Influences [[NPC0073_Helena_Ironforge]]
+- See also: [[Location City Quill Precisequote V1 Quill Precisequote.svg]]
+- Compare with [[LORE00178_History_Entry_179]]
+- Influences [[Shadow Wells 2]]
+- Related: [[The Pressure Forges]]
+- Influences [[step_096 (phase_099)]]
+- Influences [[step_005]]
+- See also: [[Monkey's Paw (D&D_References)]]
+- Connects to [[step_012 (phase_084)]]
+- See also: [[Commercial Ethics Enforcement Agency]]
+- Influences [[step_058 (phase_022)]]
+- Connects to [[Shadow-Touched Mine Foreman Brokk 2]]
+- Requires [[LOC0018_FortBridge]]
+- Connects to [[Manual of Clay Golems Xdmg]]
+- Originates from [[ENC00067_Social_Encounter_68]]
+- Influences [[The Spice Road]]
+- Influences [[EVENT00006_Political_Event_7]]
+- Related: [[step_013]]
+- See also: [[step_023]]
+- Requires [[Guardian Council Dreams]]
+- Influences [[Lady Dawn Pureheart (D&D_References)]]
+- Related: [[NPC01334_Faelyn_Ironwood_the_Seeker]]
+- Affected by [[gaseous-form-xphb (spells)]]
+- See also: [[Symbol Heraldry Ste... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- See also: [[step_058 (phase_024)]]
+- See also: [[EVENT00076_Natural_Event_77]]
+- See also: [[step_070]]
+- Parallels [[LORE00237_History_Entry_238]]
+- See also: [[Assets Locations Location City Guardian Neutralwatch Guardian Neutralwatch.svg]]
+- Compare with [[LORE00316_Prophecies_Entry_317]]
+- Connects to [[Bexley City Hall]]
+- Requires [[step_005 (phase_039)]]
+- Related: [[item-artifact-ruby-xdmg-v2-ruby-xdmg.png]]
+- See also: [[SPELL00157_Divine_Spell_158]]
+- Originates from [[roleplaying-a-hag-hag-flaws-vgm (tables)]]
+- Related: [[Portrait NPC Lady Shadowmere V1 Lady Shadowmere.svg]]
+- Influences [[blessing-of-health-xdmg (rewards)]]
+- Originates from [[step_051 (phase_046)]]
+- Affected by [[ITEM0122_Cursed_Circlet_of_the_Dawn]]
+- Affected by [[ITEM00598_Adamantine_Leather_of_Protection]]
+- Connects to [[ITEM01236_Greater_Herb_of_Fortune]]
+- Leads to [[The Kraken's Wake 2]]
+- Parallels [[The Unknown Original (D&D_References)]]
+- Related: [[Portrait NPC Ranger Captain Orin Swiftarrow Ranger Captain Orin Swiftarrow.svg]]
+- Parallels [[symbol-heraldry-the-archivist-the-archivist.svg]]
+- Influences [[Religious Education Programs]]
+- Connects to [[list-spells-feats-wood-elf-magic-xge (lists)]]
+- Requires [[step_045 (phase_056)]]
+- Affected by [[NPC Name Generator 2]]
+- Originates from [[Captain Sterling Coinguard]]
+- Originates from [[Keeper Sage Remembrance]]
+- Requires [[MON00079_Undead_Creature_80]]
+- Related: [[NPC00558_Malakai_Frostwhisper_the_Mystic]]
+- Compare with [[ITEM00030_Venomous_Bow_of_the_Ancients]]
+- Compare with [[QUEST00270_Personal_Quest_271]]
+- Originates from [[step_038]]
+- Parallels [[step_065]]
+- Parallels [[LOC00206_Planes_Location_207]]
+- Leads to [[portrait-npc-knight-v2-knight.svg_1 (Portraits)]]
+- Originates from [[step_091 (phase_004)]]
+- Compare with [[enspelled-staff-level-1-xdmg (items)]]
+- Affected by [[Assets Locations Location City Pelagic Cup V1 Pelagic Cup.svg]]
+- Requires [[Duergar in the World Duergar Adventurer]]
+- Compare with [[step_068 (phase_044)]]
+- Affected by [[Crisis Response Service 2]]
+- Parallels [[NPC00888_Aldric_Oakenshield_the_Lost]]
+- Related: [[Assets Locations Location City Sacred Grottos Sacred Grottos.svg]]
+- Originates from [[Location City Temporal Magic Research Temporal Magic Research.svg]]
+- Influences [[step_037 (phase_017)]]
+- Compare with [[beast-sense-xphb (spells)]]
+- Originates from [[step_067 (phase_041)]]
+- Related: [[Portrait NPC Quest Faith and Doubt V2 Quest Faith and Doubt.svg]]
+- Affected by [[Session Notes Template_1 (09_Templates)]]
+- Parallels [[Handout Handout Te... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Affected by [[Assets Locations Location City Quieting the Depths V1 Quieting the Depths.svg]]
+- Compare with [[FAC00091_Guilds_92]]
+- Compare with [[Symbol Heraldry Vex Shadowthorn Boss Fight Vex Shadowthorn Boss Fight.png]]
+- Originates from [[criminal-spy-variant (backgrounds)]]
+- See also: [[Shadow Surgery Center]]
+- Compare with [[step_037 (phase_041)]]
+- Compare with [[step_004 (phase_013)]]
+- Affected by [[The Deep Markets]]
+- Originates from [[ENC00146_Combat_Encounter_147]]
+- See also: [[The Sacred Pearl Beds 2]]
+- See also: [[NPC00230_Cedric_Xendar]]
+- See also: [[Location City Garden Keeper Earthshade Garden Keeper Earthshade.svg]]

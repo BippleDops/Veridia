@@ -1,4 +1,5 @@
 ---
+created: 2025-08-15
 aliases: ["Lyanna Brightblade the Scholar", "lyanna brightblade the scholar", "Lyanna Brightblade Scholar", "Scholar the Brightblade Lyanna"]
 tags: [npc, character]
 type: npc
@@ -149,3 +150,144 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Monster Manual (MM) p.77
+- Mordenkainen's Tome of Foes (MTF) p.141
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+- **Skills**: See PHB p.174-179
+- **Spellcasting**: See PHB p.201-205
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Related: [[Assets Locations Location City His Eternal Majesty Keeper of the Throne of Bubbles V1 His Eternal Majesty Keeper of the Throne of Bubbles.svg]]
+- Parallels [[Thalassopolis Ruins]]
+- Connects to [[Drowned (Lore)]]
+- Originates from [[step_052]]
+- Compare with [[Location City Anti Smuggling Operations V1 Anti Smuggling Operations.svg]]
+- Influences [[wizard-xphb-war-magic-xge (classes)]]
+- Originates from [[step_030]]
+- Leads to [[The Weather Wardens Council]]
+- Related: [[Combat Medicine Laboratory 2]]
+- Compare with [[Master Artificer Korvin]]
+- Influences [[step_085 (phase_063)]]
+- Originates from [[QUEST00083_Side_Quest_84]]
+- Affected by [[The Sundering]]
+- Connects to [[step_003 (phase_029)]]
+- Affected by [[Location City the Coral Palace Complex the Coral Palace Complex.svg]]
+- Affected by [[Geometric Tidepools]]
+- Related: [[Peryton Xmm]]
+- See also: [[step_001]]
+- Affected by [[Assets Portraits Portrait NPC Quest the Diplomatic Immunity Case Quest the Diplomatic Immunity Case.svg]]
+- Influences [[Cultural Integration Council (Organizations)]]
+- Leads to [[Prism_Soul]]
+- Connects to [[Wand of Polymorph Xdmg]]
+- Compare with [[NPC00315_Qadim_Frostwhisper]]
+- Originates from [[Institute for Supernatural Health Studies (D&D_References)]]
+- Connects to [[Portrait NPC Quest the Queen S Secret Quest the Queen S Secret.svg]]
+- Requires [[Portrait NPC Director of Experimental Procedures Dr Siren Voidtouch V1 Director of Experimental Procedures Dr Siren Voidtouch.svg_1 (Portraits)]]
+- Influences [[Portrait NPC Lady Catherine Mourning V2 Lady Catherine Mourning.svg]]
+- Related: [[LOC00032_Dungeons_Location_33]]
+- Compare with [[oil-xphb (items)]]
+- Affected by [[step_038 (phase_006)]]
+- Related: [[Rod Xphb]]
+- Influences [[The Whispered Broker]]
+- Originates from [[step_086 (phase_028)]]
+- Connects to [[step_046 (phase_070)]]
+- Compare with [[Siege Tower Xdmg]]
+- Leads to [[step_001]]
+- Parallels [[Lyre Xphb]]
+- Leads to [[Portrait NPC Tidal Priest Marina Deepcurrent V1 Tidal Priest Marina Deepcurrent.svg]]
+- Related: [[Map Map Floating Market Barges V1 Floating Market Barges.svg]]
+- Requires [[Marcus the Shade Blackwood]]
+- See also: [[step_081 (phase_070)]]
+- Originates from [[NPC00309_Lyanna_Xendar_the_Cunning]]
+- Related: [[step_009]]
+- Connects to [[step_098]]
+- Leads to [[The Unity Seekers (D&D_References)]]
+- Influences [[Location City Church of the Tidal Throne Church of the Tidal Throne.svg]]
+- Affected by [[all-is-well-xdmg (tables)]]
+- Originates from [[The Infinite Garden (D&D_Statblocks)]]
+- Connects to [[step_029 (phase_046)]]
+- Requires [[step_056 (phase_085)]]
+- Originates from [[step_013 (phase_060)]]
+- Related: [[LORE00175_History_Entry_176]]
+- Influences [[guardian-naga-xmm (celestial)]]
+- See also: [[step_016 (phase_071)]]
+- Originates from [[treasure-hoard-challenge-1116 (tables)]]
+- Parallels [[Symbol Heraldry Regulatory Medical Authorit V1 Regulatory Medical Authorit.svg]]
+- Connects to [[The Anonymous Inquisitor (D&D_References)]]
+- Requires [[step_087 (phase_080)]]
+- Requires [[Pearl Harbor City (D&D_References)]]
+- Compare with [[Professor Marina Reefbuilder (D&D_References)]]
+- Affected by [[staff-of-defense-lmop (items)]]
+- Related: [[Potion of Psychic Resistance Xdmg]]
+- Affected by [[LOC00097_Towns_Location_98]]
+- See also: [[step_033]]
+- Parallels [[Aethermoor_Airships_Catalog]]
+- Parallels [[Gravenhollow Compass Ring Oota]]
+- Parallels [[04_Resources_Assets_Locations_location-city-court-herald-master-proclamation-crownvoice-court-herald-master-proclamation-crownvoice.svg]]
+- Connects to [[Location City Historical Analysis V1 Historical Analysis.svg]]
+- Parallels [[step_049]]
+- Requires [[Depth Pressure Rings]]
+- See also: [[step_047 (phase_050)]]
+- Requires [[Location City Community Support Networks Community Support Networks.svg]]
+- Parallels [[Gnome Tables Gnome Ideals Mtf]]
+- Parallels [[Shadow Government Complex]]
+- See also: [[Artisan Glow-Finger Nerida (D&D_References)]]
+- Affected by [[step_089 (phase_006)]]
+- Originates from [[step_065]]
+- Affected by [[The Consciousness Shard Discovery]]
+- Originates from [[Assets Locations Location City Veiled Hierophant Veiled Hierophant.svg]]
+- Related: [[list-spells-school-abjuration (lists)]]
+- Connects to [[step_026 (phase_027)]]
+- Requires [[The Diplomatic Depths]]
+- Connects to [[ENC00095_Combat_Encounter_96]]
+- Originates from [[ITEM00876_Void-touched_Amulet_of_Dominion]]
+- Connects to [[step_007]]
+- Compare with [[step_029]]
+- Requires [[Complete_Temporal_Mechanics_System (D&D_References)]]
+- Related: [[portrait-npc-the-cure-v1-the-cure.svg]]
+- Influences [[Location City Portal Terminal Central Portal Terminal Central.png]]
+- Requires [[wingwear-pota (items)]]
+- Originates from [[Portrait NPC House Guard Captains V2 House Guard Captains.svg]]
+- Originates from [[step_078 (phase_099)]]
+- Influences [[step_056 (phase_019)]]
+- Connects to [[step_080 (phase_100)]]
+- Parallels [[DUN00070_Dungeon_71]]
+- Related: [[The Boundary Accords]]
+- Influences [[relics-common-xdmg (tables)]]
+- Affected by [[ITEM01482_Ornate_Rope_of_Quality]]
+- Parallels [[Downtime Activity Carousing Xge]]
+- Compare with [[ITEM00770_Time-worn_Ring_of_Dominion]]

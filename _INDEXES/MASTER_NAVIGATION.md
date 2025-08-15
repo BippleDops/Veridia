@@ -1,5 +1,4 @@
----
-tags: [index, navigation, master, flattened]
+-tags: [index, navigation, master, flattened, combat, magic, exploration, lore]ed]
 created: 2025-08-15
 ---
 
@@ -165,3 +164,185 @@ LIMIT 10
 
 ---
 *Vault successfully flattened and reorganized on 2025-08-15*
+
+> [!dm] DM Note
+> This location connects to the main plot
+
+## Campaign Connection
+Has information about the party's enemies
+
+
+## Recent NPCs
+```dataview
+TABLE file.mtime as "Modified"
+FROM "03_People"
+SORT file.mtime DESC
+LIMIT 10
+```
+
+## Active Quests
+```dataview
+LIST
+FROM "01_Adventures"
+WHERE contains(status, "active")
+```
+
+## Session Log
+```dataview
+TABLE date as "Date", players_present as "Players"
+FROM "06_Sessions"
+SORT date DESC
+```
+
+## Location Network
+```dataview
+LIST
+FROM "02_Worldbuilding"
+WHERE contains(file.name, "Location") OR contains(tags, "location")
+```
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Player's Handbook (PHB) p.76
+
+## Related Content
+- [[10K_GENERATION_REPORT]]
+- [[ULTIMATE_VAULT_ACHIEVEMENT]]
+- [[NEXT_LEVEL_IMPROVEMENTS]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Parallels [[Personal_Horror_Customization (D&D_References)]]
+- Affected by [[step_075]]
+- Requires [[Amulet of Proof Against Detection and Location Xdmg]]
+- Related: [[ENC00302_Combat_Encounter_303]]
+- Originates from [[LOC00215_Dungeons_Location_216]]
+- Requires [[giant-centipede-xmm (beast)]]
+- Requires [[Manacles Xphb]]
+- Influences [[step_082 (phase_018)]]
+- See also: [[ENC00062_Social_Encounter_63]]
+- Leads to [[Leucrotta Mpmm]]
+- Connects to [[step_018]]
+- Requires [[Location City Miranda Hopekeeper Miranda Hopekeeper.svg]]
+- Influences [[NPC0064_Yorick_Ironforge]]
+- Parallels [[Spell_Slots]]
+- Compare with [[step_053 (phase_045)]]
+- Leads to [[DUN00170_Dungeon_171]]
+- Affected by [[step_100 (phase_085)]]
+- Requires [[Magic Item Table H]]
+- Leads to [[step_027 (phase_016)]]
+- Requires [[Assets Locations Location City Chief Engineer Nereus Flowstream Chief Engineer Nereus Flowstream.svg]]
+- Requires [[ioun-stone-regeneration-xdmg (items)]]
+- Related: [[Grand Engineer Prism Masterwork]]
+- Requires [[Strixhaven Pennant Scc]]
+- Originates from [[Assets Locations Location City the Azure Coast V1 the Azure Coast.svg]]
+- See also: [[step_011 (phase_096)]]
+- Related: [[ITEM01174_Pure_Herb_of_Fortune]]
+- Affected by [[ENC00030_Environmental_Encounter_31]]
+- Related: [[Assets Locations Location City Ancient Tunnels Beneath Palace V1 Ancient Tunnels Beneath Palace.svg]]
+- Parallels [[step_010 (phase_088)]]
+- Connects to [[VAULT_CLEAN_STATUS]]
+- Affected by [[step_024 (phase_037)]]
+- See also: [[Assets Locations Location City Pressure Portals Pressure Portals.svg]]
+- Compare with [[Location City the Whispering Depths the Whispering Depths.svg]]
+- Leads to [[step_027 (phase_025)]]
+- Connects to [[Quest - Shadow Citizenship Act]]
+- Requires [[EVENT00027_Magical_Event_28]]
+- Related: [[LORE00155_Legends_Entry_156]]
+- Originates from [[ITEM01306_Elegant_Tool_Kit_of_Durability]]
+- Influences [[Great Reconciliatio 2]]
+- Influences [[Ambassador Marina Depthbridge]]
+- Compare with [[step_094 (phase_096)]]
+- Requires [[Audit Investigator Thomas Truthseeker (D&D_References)]]
+- Originates from [[Sphinx of Lore Xmm]]
+- Parallels [[#Membership]]
+- Parallels [[step_074]]
+- Influences [[LORE00167_Prophecies_Entry_168]]
+- Parallels [[The Unity Crystal]]
+- Parallels [[step_040]]
+- See also: [[step_090 (phase_033)]]
+- Influences [[Current Riders Union 2]]
+- Originates from [[Healer Tide-Touch]]
+- Leads to [[04_Resources_Assets_Locations_location-city-archdruid-marina-kelpweaver-archdruid-marina-kelpweaver.svg]]
+- Originates from [[The Bleeding Chambers (D&D_References)]]
+- Leads to [[belt-of-hill-giant-strength-xdmg (items)]]
+- Connects to [[Nightmarket Plaza 2]]
+- Leads to [[CLAUDE]]
+- Parallels [[Temporal Magic Research (D&D_References)]]
+- Leads to [[step_033 (phase_062)]]
+- Compare with [[LOC00008_Wilderness_Location_9]]
+- Connects to [[The Parliament of Shadows Campaign]]
+- Requires [[QUEST00077_Personal_Quest_78]]
+- Requires [[step_089 (phase_039)]]
+- Compare with [[Location City Archaeological Discoveries Archaeological Discoveries.svg]]
+- Parallels [[step_029 (phase_066)]]
+- Affected by [[Quest - The Family Reunion]]
+- Requires [[life-events-by-age-xge (tables)]]
+- Influences [[Crystal Festival Grounds]]
+- Originates from [[Surface Portal Alpha]]
+- Connects to [[step_011]]
+- Parallels [[SPELL00024_Arcane_Spell_25]]
+- Connects to [[step_008]]
+- Influences [[Secular Community Practices]]
+- Requires [[Assets Locations Location City Innkeeper Mara Ironlung V1 Innkeeper Mara Ironlung.svg]]
+- Affected by [[The Memory Meadows Black Market (D&D_References)]]
+- Compare with [[Roper Xmm]]
+- Originates from [[step_033 (phase_070)]]
+- Affected by [[NPC01744_Idris_Xendar_the_Mystic]]
+- See also: [[Location City Temple of the Deep Current Temple of the Deep Current.svg]]
+- Leads to [[Trade Union 2]]
+- Influences [[Portrait NPC Militant Priest Abyssal Militant Priest Abyssal.svg]]
+- Related: [[step_034]]
+- Parallels [[step_073 (phase_068)]]
+- Requires [[Jet Xdmg]]
+- Originates from [[NPC00085_Pyria_Xendar_the_Seeker]]
+- Originates from [[His Eternal Majesty Keeper of the Throne of]]
+- Compare with [[list-optfeaturetype-fs-b#Fighting%20Style,%20Bard]]
+- Compare with [[step_055 (phase_092)]]
+- Compare with [[giant-crocodile-xmm]]
+- Leads to [[Emergency Life Support Research Foundation 2]]
+- Affected by [[QUEST00071_Side_Quest_72]]
+- Connects to [[step_037]]
+- Parallels [[List Spells Classes Arcane Trickster Xphb]]
+- Parallels [[step_005 (phase_022)]]
+- Affected by [[step_054 (phase_045)]]
+- See also: [[step_042 (phase_085)]]
+- See also: [[Kelp Forest Monasteries (D&D_References)]]
+- Affected by [[Relics Very Rare Xdmg]]
+- Originates from [[MON00023_Aberrations_Creature_24]]
+- Affected by [[ENC00384_Combat_Encounter_385]]
+- Parallels [[QUEST00043_Side_Quest_44]]

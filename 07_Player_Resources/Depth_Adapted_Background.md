@@ -11,6 +11,7 @@ tags:
 title: Depth Adapted Background
 type: npc
 updated: 2025-08-14
+tags: [combat, social, puzzle]
 ---
 
 # Depth_Adapted_Background
@@ -78,3 +79,136 @@ Actively involved in current events, pursuing their own agenda while maintaining
 ## Secrets
 - Hidden knowledge
 - Personal mysteries
+
+
+> [!warning] ⚠️ Warning
+> Important safety or rule information
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[ULTIMATE_VAULT_ACHIEVEMENT]]
+- [[optimization_report_20250814_180706]]
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+- [[ULTIMATE_ASSET_REPORT]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Equipment: PHB p.143-161)*
+*(Weapons: PHB p.146-147)*
+*(Armor: PHB p.144-146)*
+
+## Connections
+
+- Requires [[goblin-warrior-xmm]]
+- Parallels [[step_038 (phase_010)]]
+- Affected by [[Continuity Protocol 2]]
+- Related: [[step_075 (phase_068)]]
+- Affected by [[Portrait NPC Duke Alexander Tidecrest V2 Duke Alexander Tidecrest.svg]]
+- Compare with [[step_052]]
+- Influences [[Portrait NPC Captain Nerion Deepward V2 Captain Nerion Deepward.svg]]
+- Related: [[bullywug-warrior-xmm (fey)]]
+- Influences [[step_032]]
+- Connects to [[step_088]]
+- See also: [[Dwarven Vergadain Mtf]]
+- Leads to [[Portrait NPC Warrior Priest Abyss Sworn V2 Warrior Priest Abyss Sworn.svg]]
+- See also: [[Assets Locations Location City Grief Harvester Melancholy Grief Harvester Melancholy.svg]]
+- Related: [[Senator Marina Tidecaller]]
+- See also: [[step_079 (phase_088)]]
+- Requires [[step_092]]
+- Parallels [[bronze-dragon (legendary-group)]]
+- Influences [[ENC00022_Social_Encounter_23]]
+- Influences [[Merchants Scale]]
+- Parallels [[Assets Locations Location City Magical Services Magical Services.svg]]
+- Leads to [[ITEM00551_Adamantine_Plate_of_Fortitude]]
+- Compare with [[Assets Locations Location City Kelp Based Brewing Kelp Based Brewing.svg]]
+- Influences [[Prismatic Wall Xphb]]
+- Requires [[Assets Locations Location City Shadow Portal Nexus V1 Shadow Portal Nexus.svg]]
+- Connects to [[Professor Marina Reefbuilder]]
+- See also: [[giant-strider-mpmm (elemental)]]
+- Connects to [[02_Worldbuilding_Artifacts_Shard_of_Empathy]]
+- Compare with [[MON00048_Aberrations_Creature_49]]
+- Leads to [[location-city-aquabyssos-v1-aquabyssos.svg]]
+- Leads to [[ITEM00766_Primordial_Crown_of_Destiny]]
+- Parallels [[step_011 (phase_049)]]
+- Originates from [[Dimensional Scholar Arcturus Voidwalker]]
+- Connects to [[step_038]]
+- Leads to [[ENC00074_Combat_Encounter_75]]
+- Originates from [[Location City the Diplomatic Quarter the Diplomatic Quarter.svg]]
+- Influences [[random-dungeon-hazards-dungeon-hazards (tables)]]
+- Related: [[Assets Locations Location City Palace Guardians V1 Palace Guardians.svg]]
+- Related: [[Session 02 the Crystal Fever]]
+- Influences [[Order of Azure Flame (Orders)]]
+- Influences [[step_075 (phase_086)]]
+- Related: [[The Grand Crystal Exchange 2]]
+- See also: [[step_090 (phase_045)]]
+- Connects to [[LORE00141_History_Entry_142]]
+- Parallels [[Session Planning Toolkit]]
+- Related: [[Temporal Sentinels]]
+- Related: [[step_051 (phase_056)]]
+- Leads to [[#lore Location Connection Matrix]]
+- Affected by [[dawn-war-tharizdun-dmg (deities)]]
+- Requires [[Faction Standing System]]
+- Related: [[MON00035_Constructs_Creature_36]]
+- See also: [[step_007]]
+- Originates from [[Deep Energy Consortium (D&D_References)]]
+- Affected by [[Vehicle Ship Harbor Guardian Gunboat V1 Harbor Guardian Gunboat.svg]]
+- Influences [[The Deep Mother Rises 2]]
+- See also: [[step_043 (phase_028)]]
+- Related: [[04_Resources_Assets_Locations_location-city-marina-dreamwhisper-marina-dreamwhisper.svg]]
+- Originates from [[ENC00293_Social_Encounter_294]]
+- Parallels [[step_095 (phase_066)]]
+- Leads to [[step_089 (phase_053)]]
+- Influences [[Teleport Xphb]]
+- Influences [[Cross-Dimensional Research Consortium]]
+- Influences [[Location City Crystals Curiosities Crystals Curiosities.svg]]
+- Leads to [[QUEST0062_In_Search_of_Truth]]
+- Connects to [[LOC00153_Planes_Location_154]]
+- Requires [[Captain Hadal Voidwright]]
+- Leads to [[Treasure Hoard Challenge 17 (tables)]]
+- Compare with [[step_088 (phase_014)]]
+- See also: [[Reality_Manipulation (Lore)]]
+- Related: [[LOC00049_Dungeons_Location_50]]
+- Leads to [[Shadow Network]]
+- Connects to [[Portrait NPC High Priestess Celeste V2 High Priestess Celeste.svg]]
+- Affected by [[Underwater Diplomatic Complex]]
+- Related: [[step_025 (phase_082)]]
+- Parallels [[Graveyard Revenant Xmm]]
+- Parallels [[step_064 (phase_086)]]
+- Influences [[Dimensional Security Guards]]
+- Influences [[step_079 (phase_008)]]
+- Parallels [[step_008 (phase_064)]]
+- Connects to [[step_025 (phase_059)]]
+- Requires [[LOC00227_Cities_Location_228]]
+- Affected by [[ITEM00586_Enchanted_Leather_of_Grace]]
+- Influences [[step_031 (phase_051)]]
+- Parallels [[Ω_System-CLI-spells-school-transmutation (Lore)]]
+- Influences [[QUEST00128_Personal_Quest_129]]
+- Originates from [[The Grand Crystal Exchange (D&D_References)]]
+- Requires [[step_029 (phase_045)]]
+- Compare with [[step_091]]
+- Connects to [[QUEST00142_Main_Quest_143]]
+- Connects to [[Parliamentary Infiltration List]]
+- Influences [[Mule Xphb]]
+- Related: [[fiendish-cults-cult-goals-mtf (tables)]]
+- Compare with [[Silverscale Trade Embassy (D&D_References)]]
+- Related: [[step_074]]
+- Leads to [[location-city-fire-crystals-fire-crystals.svg]]
+- Connects to [[Ankheg Xmm]]
+- Related: [[The Iteration Collective (D&D_References)]]
+- Leads to [[step_031 (phase_047)]]
+- Requires [[step_077 (phase_043)]]
+- Compare with [[step_027 (phase_059)]]
+- See also: [[step_030]]

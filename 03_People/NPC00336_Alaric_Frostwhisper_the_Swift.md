@@ -1,6 +1,6 @@
 ---
-aliases: ["Alaric Frostwhisper the Swift", "alaric frostwhisper the swift", "Alaric Frostwhisper Swift", "Swift the Frostwhisper Alaric"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Alaric Frostwhisper the Swift", "alaric frostwhisper the swift", "Alaric Frostwhisper Swift", "Swift the Frostwhisper Alarictags: [npc, character, combat, exploration, lore]er]
 type: npc
 ---
 
@@ -148,3 +148,132 @@ Needs discrete help with family scandal
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Veteran** (MM p.350)
+Modifications:
+- HP: 11
+- AC: 16
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Connects to [[step_002 (phase_029)]]
+- See also: [[Item Template.png (Art)]]
+- Originates from [[QUEST00027_Main_Quest_28]]
+- Affected by [[step_024]]
+- See also: [[NPC00014_Alaric_Lightbringer]]
+- See also: [[Location City Embassy Quarter V1 Embassy Quarter.svg]]
+- See also: [[Location City Court Herald Master Proclamation Crownvoice V1 Court Herald Master Proclamation Crownvoice.svg]]
+- Compare with [[Chronicler Marcus Truthseeker]]
+- See also: [[step_097 (phase_092)]]
+- Compare with [[step_089 (phase_074)]]
+- Related: [[nonplayer-character-xphb (variant-rules)]]
+- Originates from [[New Location]]
+- Parallels [[LORE00178_History_Entry_179]]
+- Affected by [[Item Artifact Dagger of Venom Xdmg Dagger of Venom Xdmg.png]]
+- Related: [[Archshadow Gold Shadowstream]]
+- See also: [[The Scribes' Covenant 2]]
+- Originates from [[SPELL00161_Arcane_Spell_162]]
+- Compare with [[step_005]]
+- Affected by [[step_040 (phase_023)]]
+- Requires [[step_090 (phase_087)]]
+- Requires [[Silvered Ammunition]]
+- See also: [[step_059]]
+- Connects to [[Portrait_Prompts - NPCs]]
+- Connects to [[Crossbow Trap Xge]]
+- Connects to [[staff-of-the-adder-xdmg (items)]]
+- Requires [[step_032 (phase_070)]]
+- Connects to [[ITEM00623_Adamantine_Helm_of_Protection]]
+- Compare with [[step_098]]
+- Influences [[step_041]]
+- Leads to [[Advanced Construct Schematics]]
+- Parallels [[sorcerous-burst-xphb (spells)]]
+- Connects to [[Aetheric Wind Songs (Lore)]]
+- Connects to [[Portrait NPC Ranger Captain Orin Swiftarrow V1 Ranger Captain Orin Swiftarrow.svg]]
+- See also: [[Bone Naga Xmm]]
+- Leads to [[NPC01931_Thalia_Lightbringer_the_Fallen]]
+- Leads to [[step_068]]
+- Requires [[step_058 (phase_058)]]
+- Connects to [[ITEM00148_Blessed_Spear_of_Speed]]
+- Related: [[Crown Reunification Protocols]]
+- Requires [[Information Exchanges (D&D_References)]]
+- See also: [[Wind Songs]]
+- Related: [[NPC01184_Ewan_Ironwood_the_Guardian]]
+- Affected by [[Location City Duchess Seraphina Crimsontide Duchess Seraphina Crimsontide.svg]]
+- Requires [[True Polymorph Xphb]]
+- Influences [[step_064 (phase_088)]]
+- Connects to [[celestial-spirit-defender-xphb (celestial)]]
+- Affected by [[Assets Locations Location City Treasury Department Treasury Department.svg]]
+- Affected by [[Boneclaw Mpmm]]
+- Connects to [[step_043 (phase_091)]]
+- Affected by [[LOC00129_Cities_Location_130]]
+- Leads to [[Floating Crystal Peaks]]
+- Influences [[step_002 (phase_027)]]
+- See also: [[NPC00159_Delara_Keenblade_the_Wanderer]]
+- Leads to [[Assets Art Pressure Crystals.png]]
+- Leads to [[step_007 (phase_046)]]
+- Compare with [[Thalassius the Wise (D&D_References)]]
+- See also: [[Witness Reports 2]]
+- Related: [[LOC0039_PortGate]]
+- Parallels [[Scholar Wisdom Clearwater]]
+- Leads to [[Assets Locations Location City Aethermoor V1 Aethermoor.svg]]
+- Related: [[giant-wolf-spider-xmm]]
+- Connects to [[SPELL00106_Arcane_Spell_107]]
+- Connects to [[giant-scorpion-xmm]]
+- Leads to [[step_028 (phase_059)]]
+- Leads to [[step_011 (phase_012)]]
+- Parallels [[FAC00091_Cults_92]]
+- Affected by [[A Day in Aquabyssos (D&D_References)]]
+- Compare with [[LOC00280_Towns_Location_281]]
+- Related: [[Tobias Expenditure]]
+- Requires [[The Gilded Anchor 2]]
+- Originates from [[LORE0001_Legend_of_the_Dragon_Wars]]
+- Requires [[step_024 (phase_100)]]
+- Compare with [[step_059 (phase_017)]]
+- Parallels [[Creating Npcs From Scratch NPC Features]]
+- Related: [[zariel-mtf (legendary-group)]]
+- Affected by [[Tidal District]]
+- Requires [[LORE00171_Prophecies_Entry_172]]
+- See also: [[step_071]]
+- Related: [[carpenters-tools-xphb (items)]]
+- Parallels [[The Void Shard]]
+- Parallels [[LOC0092_EastGrove]]
+- Influences [[Prevent Resonance Cascade]]
+- Requires [[Mourning Depths 2]]
+- Affected by [[step_046 (phase_028)]]
+- Parallels [[Baphomet Mtf]]
+- Originates from [[step_037 (phase_020)]]
+- Compare with [[step_032 (phase_023)]]
+- Requires [[Pirates 2]]
+- Related: [[LORE00269_Legends_Entry_270]]
+- See also: [[Assets Locations Location City Scarlet Torrent V1 Scarlet Torrent.svg]]
+- Compare with [[MON00026_Aberrations_Creature_27]]
+- See also: [[instrument-of-the-bards-ollamh-harp-xdmg (items)]]
+- Requires [[The Reunification Faction 2]]
+- Compare with [[step_091]]
+- Related: [[step_074 (phase_008)]]
+- See also: [[step_073]]
+- Connects to [[high-jump-xphb (variant-rules)]]
+- Originates from [[The_Wind-Rider_Cultural_Center]]
+- Compare with [[LORE00327_Legends_Entry_328]]
+- Parallels [[step_047 (phase_030)]]

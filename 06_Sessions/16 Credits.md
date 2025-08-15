@@ -8,6 +8,7 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
+tags: [combat, exploration, lore]
 --- # 16 Credits ---
 
 ## Description
@@ -46,3 +47,157 @@ world: Both
 ## Notes
 
 *Additional notes*
+
+
+> [!dm] DM Note
+> The villain has agents watching this place
+
+## Prep Checklist
+
+### Npcs Needed
+- [ ] List key NPCs for this session
+- [ ] Prepare voices and mannerisms
+
+### Locations
+- [ ] Review location descriptions
+- [ ] Prepare battle maps if needed
+
+### Encounters
+- [ ] Balance combat encounters
+- [ ] Prepare social encounter notes
+
+### Props
+- [ ] Handouts ready
+- [ ] Music/ambiance selected
+
+### Rules
+- [ ] Review relevant rules
+- [ ] Prepare quick reference
+
+## Campaign Connection
+Former associate of the party's patron
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Connects to [[ENC00090_Combat_Encounter_91]]
+- Influences [[gith-tables-githzerai-flaws-mtf (tables)]]
+- Parallels [[Symbol Heraldry the Neutral Current V1 the Neutral Current.svg]]
+- Originates from [[Saint Markovias Thighbone Cos]]
+- Influences [[step_030 (phase_043)]]
+- Related: [[step_083 (phase_051)]]
+- Requires [[Order of the Eternal Current (Orders)]]
+- Related: [[Location City Wandering Prophet Coral Stormrider V1 Wandering Prophet Coral Stormrider.svg]]
+- Compare with [[Integration Institute]]
+- Parallels [[EVENT00064_Magical_Event_65]]
+- Requires [[Scene Scene Trench Fire Battlefield Aftermath Trench Fire Battlefield Aftermath.svg]]
+- Parallels [[downtime-activity-recuperating-phb (variant-rules)]]
+- See also: [[Heart Crysta]]
+- See also: [[Portrait NPC Shadow Guard Units V2 Shadow Guard Units.svg]]
+- Related: [[The Meridian Opera House 2]]
+- Leads to [[QUEST00079_Main_Quest_80]]
+- Related: [[step_094 (phase_066)]]
+- See also: [[Assets Item Artifact Warhammer Xphb V4 Warhammer Xphb.png]]
+- Leads to [[step_024]]
+- Parallels [[Potion of Healing Gv]]
+- Originates from [[step_036 (phase_077)]]
+- Parallels [[step_011]]
+- Requires [[step_094]]
+- Originates from [[Assets Locations Location City House Pressureborn House Pressureborn.svg]]
+- Connects to [[halfling-arvoreen-mtf (deities)]]
+- Affected by [[step_022 (phase_049)]]
+- Compare with [[Assets Locations Location City Merchant Prince Akula Merchant Prince Akula.png]]
+- Connects to [[Creature Creature Goblin Hexer Xmm V4 Goblin Hexer Xmm.png]]
+- Influences [[NPC0022_Willem_Stormwind]]
+- Parallels [[List Spells Feats Fey Teleportation Xge]]
+- Parallels [[Assets Locations Location City Chronomancer Paradox V1 Chronomancer Paradox.svg]]
+- Connects to [[ascendant-step-xphb (optional-features)]]
+- Requires [[deities-of-dragonlance-neutral-phb (tables)]]
+- Leads to [[step_008 (phase_010)]]
+- Related: [[step_056]]
+- Influences [[Character_Creation]]
+- Leads to [[step_036 (phase_076)]]
+- Originates from [[step_075]]
+- Connects to [[Establish New World Order]]
+- Leads to [[ITEM00804_Void-touched_Chalice_of_Eternity]]
+- See also: [[Assets Locations Location City the Singing Shadows the Singing Shadows.svg]]
+- Affected by [[SPELL00043_Nature_Spell_44]]
+- Connects to [[horn-xphb (items)]]
+- Connects to [[step_071]]
+- Connects to [[step_001]]
+- Compare with [[barbed-devil-xmm (fiend)]]
+- See also: [[Downtime Activity Training to Gain Levels]]
+- Affected by [[The Archives (D&D_References)]]
+- Affected by [[Truth Weavers]]
+- Influences [[Prominent Merchant]]
+- Originates from [[Location City Scholarly Theologians V1 Scholarly Theologians.svg]]
+- Connects to [[Portrait NPC Shadow Duchess Nyx Shadow Duchess Nyx.svg_1 (Portraits)]]
+- See also: [[The Free Traders Alliance]]
+- Related: [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- Leads to [[QUEST00008_Main_Quest_9]]
+- Originates from [[step_072 (phase_019)]]
+- Related: [[Temple of the Deep Waters (D&D_References)]]
+- Related: [[Portrait NPC Crown Dome Conspiracy Crown Dome Conspiracy.svg]]
+- Compare with [[Lord Commander Steelborn (D&D_References)]]
+- Requires [[LORE00057_Legends_Entry_58]]
+- Compare with [[step_020 (phase_020)]]
+- Parallels [[animated-broom-xmm (construct)]]
+- Leads to [[DUN00069_Dungeon_70]]
+- Originates from [[QUEST00285_Personal_Quest_286]]
+- See also: [[step_079 (phase_025)]]
+- Parallels [[Treasurer Nightcoin]]
+- See also: [[Religious Communities (D&D_References)]]
+- Compare with [[The Noble Compact (D&D_References)]]
+- Leads to [[Investigation Log INV-000]]
+- Compare with [[ioun-stone-strength-xdmg (items)]]
+- Related: [[LOC00277_Cities_Location_278]]
+- Connects to [[Gm Resources]]
+- Influences [[skills#Medicine]]
+- Influences [[step_040 (phase_069)]]
+- Parallels [[step_021 (phase_062)]]
+- Leads to [[Quest - The Dark Harvest]]
+- Connects to [[The Shadow Awakening]]
+- Leads to [[step_036 (phase_062)]]
+- Parallels [[step_034 (phase_096)]]
+- Requires [[LORE00021_Legends_Entry_22]]
+- Leads to [[NPC00313_Ysara_Moonshadow]]
+- Compare with [[step_051 (phase_034)]]
+- Related: [[Portrait NPC Captain Marcus Voidward Captain Marcus Voidward.svg]]
+- Originates from [[step_054 (phase_030)]]
+- Leads to [[ENC00260_Combat_Encounter_261]]
+- Affected by [[Hill Encounters Levels 14 Xge]]
+- See also: [[Ray of Frost Xphb]]
+- Requires [[Memory Keeper Lament (D&D_References)]]
+- Compare with [[Location City Security Services Security Services.svg]]
+- Affected by [[Portrait NPC Shadow Binding Sanctum Shadow Binding Sanctum.svg_1 (Portraits)]]
+- Compare with [[MON00064_Aberrations_Creature_65]]
+- Related: [[16-chapter-16-the-fetid-wedding (out-of-the-abyss)]]
+- Requires [[step_007 (phase_056)]]
+- Affected by [[contagion-xphb (spells)]]
+- Compare with [[Pressure Theorist Dr. Current Deepthink]]
+- Connects to [[step_079 (phase_093)]]
+- Affected by [[Mayor Thompson]]
+- See also: [[Shadow Resonance Medical Scanner]]
+- Originates from [[Military Moral Quandaries 2]]
+- Influences [[QUEST0062_In_Search_of_Peace]]

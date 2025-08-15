@@ -8,6 +8,7 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
+tags: [combat, magic, exploration, lore]
 --- # 10-appendix-b-creature-stat-blocks ---
 
 ## Description
@@ -42,3 +43,163 @@ world: Both
 ## Notes
 
 *Additional notes*
+
+
+> [!dm] DM Note
+> Hidden treasure can be found here with a DC 15 Investigation check
+
+## Prep Checklist
+
+### Npcs Needed
+- [ ] List key NPCs for this session
+- [ ] Prepare voices and mannerisms
+
+### Locations
+- [ ] Review location descriptions
+- [ ] Prepare battle maps if needed
+
+### Encounters
+- [ ] Balance combat encounters
+- [ ] Prepare social encounter notes
+
+### Props
+- [ ] Handouts ready
+- [ ] Music/ambiance selected
+
+### Rules
+- [ ] Review relevant rules
+- [ ] Prepare quick reference
+
+## Campaign Connection
+Connected to the main villain's plan
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[10K_GENERATION_REPORT]]
+- [[ULTIMATE_VAULT_ACHIEVEMENT]]
+- [[NEXT_LEVEL_IMPROVEMENTS]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Equipment: PHB p.143-161)*
+*(Weapons: PHB p.146-147)*
+*(Armor: PHB p.144-146)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Influences [[The Tide Rises (D&D_Statblocks)]]
+- Requires [[step_072]]
+- Parallels [[Crisis Communication Array]]
+- Influences [[Technology Dimensional Sensors]]
+- Leads to [[modron-monodrone-xmm (construct)]]
+- Requires [[Resistance Leader Thane Freeheart]]
+- See also: [[gnome-flandal-steelskin-mtf (deities)]]
+- Compare with [[step_086]]
+- Leads to [[Assets Portraits Portrait NPC Quest Storm Lord S Challenge Quest Storm Lord S Challenge.svg]]
+- Leads to [[Portrait NPC Marcus Shardbreaker Grimm V2 Marcus Shardbreaker Grimm.svg_1 (Portraits)]]
+- Requires [[Combat Master Surge Battlewright]]
+- Requires [[The Scholar's Guild]]
+- Affected by [[Assets Portraits Portrait NPC Sirens Sirens.svg]]
+- Related: [[Assets Locations Location City Archkeeper Nereon V1 Archkeeper Nereon.svg]]
+- Influences [[ITEM01314_Masterwork_Compass_of_Convenience]]
+- Connects to [[flesh-golem-xmm (construct)]]
+- Compare with [[Green Dragon Xmm]]
+- Compare with [[step_034 (phase_015)]]
+- Affected by [[step_056 (phase_097)]]
+- Connects to [[Scarab of Protection Xdmg]]
+- Requires [[step_019]]
+- Originates from [[step_087 (phase_010)]]
+- See also: [[Acid Xphb]]
+- Originates from [[03_Mechanics_Honesty_Mechanics_Quick_Ref]]
+- Influences [[The Shadow War Coalition]]
+- Requires [[Assets Locations Location City Merchant Delilah Currentrunner V1 Merchant Delilah Currentrunner.svg]]
+- Connects to [[step_082 (phase_028)]]
+- Influences [[step_021]]
+- Compare with [[Temporal Harvest (D&D_References)]]
+- See also: [[The Spire of Knowledge]]
+- Compare with [[NPC0021_Vera_Stormwind_the_Just]]
+- Affected by [[ITEM00566_Mithril_Leather_of_Resistance]]
+- Affected by [[ranger-xphb-horizon-walker-xge (classes)]]
+- Parallels [[portrait-npc-the-siren-s-mask-the-siren-s-mask.svg]]
+- Affected by [[Ancient Crystaldeep]]
+- Parallels [[portrait-npc-neutral-zone-v2-neutral-zone.svg_1 (Portraits)]]
+- Compare with [[LOC00169_Dungeons_Location_170]]
+- Parallels [[skills#Acrobatics]]
+- Influences [[Template-Character]]
+- Parallels [[step_004 (phase_085)]]
+- Requires [[NPC01231_Ewan_Voidwalker_the_Swift]]
+- Connects to [[step_044 (phase_037)]]
+- Leads to [[LORE00333_Legends_Entry_334]]
+- Connects to [[step_013 (phase_071)]]
+- Requires [[Portrait NPC Trade Captain Sterling V1 Trade Captain Sterling.svg]]
+- Influences [[Location City Terminal Director Admiral Current Swiftflow V1 Terminal Director Admiral Current Swiftflow.svg]]
+- Parallels [[step_091 (phase_015)]]
+- Connects to [[04_Resources_Assets_Symbols_symbol-heraldry-aquabyssos-faction-web-aquabyssos-faction-web.svg]]
+- Affected by [[NPC00903_Solas_Silverleaf_the_Strong]]
+- See also: [[blessing-of-weapon-enhancement-xdmg (rewards)]]
+- Compare with [[step_094 (phase_005)]]
+- Influences [[Aquatic Ghoul Pota]]
+- Related: [[step_038 (phase_039)]]
+- Originates from [[Location City International Trade Agreements V1 International Trade Agreements.svg]]
+- Compare with [[The Great Infiltration]]
+- Compare with [[Shadow-touched Equipment Set]]
+- Compare with [[Portrait NPC Unite the Emperor V2 Unite the Emperor.svg_1 (Portraits)]]
+- Requires [[Fire Elemental Xmm]]
+- Originates from [[Northern Principalities (D&D_References)]]
+- Parallels [[LORE00282_Prophecies_Entry_283]]
+- Affected by [[step_068 (phase_048)]]
+- Requires [[thunderous-smite-xphb (spells)]]
+- Requires [[Forgotten Realms Kelemvor]]
+- Compare with [[SPELL00084_Arcane_Spell_85]]
+- Connects to [[Quest - The Seventh Song]]
+- Originates from [[FAC00017_Cults_18]]
+- Affected by [[step_017]]
+- Compare with [[bodak-mpmm (undead)]]
+- Related: [[Prismari Primer Scc]]
+- Affected by [[Forgotten Realms Mystra]]
+- Requires [[kraken-xmm (monstrosity)]]
+- See also: [[LORE00208_History_Entry_209]]
+- Leads to [[List Spells School Evocation]]
+- Originates from [[ENC00324_Combat_Encounter_325]]
+- Influences [[step_078 (phase_088)]]
+- Compare with [[step_019 (phase_010)]]
+- Compare with [[The Umbral Exchange 2]]
+- Related: [[ENC00104_Combat_Encounter_105]]
+- Affected by [[The Deep Vault 2]]
+- Connects to [[boon-of-energy-resistance-xphb (feats)]]
+- Connects to [[Tree Blight Xmm]]
+- Requires [[Vehicles - Transportation Infrastructure]]
+- Connects to [[Steel Depthguard (D&D_References)]]
+- Connects to [[Cloak of the Manta Ray Xdmg]]
+- Originates from [[step_044 (phase_031)]]
+- Originates from [[step_048]]
+- Parallels [[step_081 (phase_017)]]
+- Connects to [[location-city-memory-thief-v1-memory-thief.svg]]
+- Originates from [[Warrior Thane Visionward 2]]
+- Originates from [[Centaur Warden Xmm]]
+- Parallels [[Assets Locations Location City Memoriam Keeper Marcus Remembrance Memoriam Keeper Marcus Remembrance.svg]]
+- Parallels [[dark-gift-of-zrin-hala-the-howling-storm-cos (rewards)]]
+- Affected by [[ITEM00893_Infernal_Chalice_of_Eternity]]
+- Requires [[List Spells Optional Features Mist Stance]]
+- Requires [[step_092 (phase_058)]]
+- Related: [[02-chapter-2-into-darkness (out-of-the-abyss)]]
+- Originates from [[Combat Training Facilities]]
+- Compare with [[step_095 (phase_026)]]
+- Influences [[Random_Encounters - Aquabyssos_Encounters (D&D_References)]]
+- Parallels [[NPC_Portraits_Gallery 2_Quick_Ref]]

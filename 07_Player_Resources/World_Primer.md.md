@@ -1,6 +1,5 @@
 ---
-enhanced: true
-tags: [enhanced, 07_player_resources]
+enhanced: trtags: [enhanced, 07_player_resources, combat, exploration, lore]es]
 created: 2025-08-15T12:24:41.156506
 modified: 2025-08-15T12:24:41.156507
 aliases: [World Primer.md]
@@ -62,3 +61,148 @@ improvements: 20
 ![[04_Resources/Assets/Maps/world-map.png]]
 ![[04_Resources/Assets/Misc/02_worldbuilding_groups_respiratory_engineering_guild.png]]
 ![[04_Resources/Assets/Misc/02_worldbuilding_groups_cultural_organization_md.png]]
+
+
+> [!tip] 💡 Tip
+> Useful information for players
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+
+## Related Content
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Affected by [[Mayor's Manor (D&D_References)]]
+- Affected by [[ITEM00564_Dragon_Scale_Shield_of_Resistance]]
+- Compare with [[List Spells Feats Drow High Magic Xge]]
+- Requires [[International Pressure 2]]
+- Originates from [[Advanced Construct Schematics]]
+- Affected by [[LOC00131_Cities_Location_132]]
+- See also: [[ITEM00452_Mithril_Boots_of_Grace]]
+- Requires [[step_059]]
+- Parallels [[step_075]]
+- Compare with [[ITEM01457_Masterwork_Lock_of_Reliability]]
+- Parallels [[step_075 (phase_022)]]
+- Parallels [[Assets Locations Location City Archaeological Society V1 Archaeological Society.svg]]
+- Related: [[Corallion (D&D_References)]]
+- See also: [[Figurine of Wondrous Power Obsidian Steed]]
+- Originates from [[Templater Advanced]]
+- Originates from [[step_006 (phase_087)]]
+- Compare with [[step_009]]
+- Originates from [[step_006]]
+- Requires [[step_030 (phase_063)]]
+- Requires [[spell-scroll-level-1-xdmg (items)]]
+- Originates from [[The Life Shard]]
+- Affected by [[NPC00699_Pyria_Darkwater_the_Wise]]
+- Requires [[QUEST00093_Side_Quest_94]]
+- See also: [[EVENT00064_Natural_Event_65]]
+- Leads to [[step_010 (phase_092)]]
+- Requires [[Convergence_Points (Lore)]]
+- Compare with [[The Deepmind Conspiracy]]
+- Originates from [[Milestone_Tracker]]
+- Originates from [[The Drowning Spires]]
+- Compare with [[DUN00140_Dungeon_141]]
+- Related: [[Location City Archivist Vera Glowmind V1 Archivist Vera Glowmind.png]]
+- Compare with [[Dr. Elena Compassion]]
+- Connects to [[LORE00208_Prophecies_Entry_209]]
+- Connects to [[Maintenance_Checklist_Template]]
+- Affected by [[Assets Locations Location City Temporal Viewing Chambers V1 Temporal Viewing Chambers.svg]]
+- Leads to [[Location City House Depthguard V1 House Depthguard.svg]]
+- See also: [[ITEM01466_Decorated_Compass_of_Reliability]]
+- Requires [[step_004 (phase_033)]]
+- Related: [[Sterling Goldbalance]]
+- Connects to [[step_078 (phase_080)]]
+- Parallels [[The Deepwater Trading Consortium (D&D_References)]]
+- Compare with [[step_067 (phase_065)]]
+- Influences [[LOC00117_Towns_Location_118]]
+- Related: [[LORE0056_Legend_of_the_First_King]]
+- Parallels [[Necromantic Rituals 2]]
+- See also: [[step_055]]
+- Parallels [[QUEST00006_Side_Quest_7]]
+- Influences [[step_072 (phase_024)]]
+- Requires [[ITEM00536_Adamantine_Gauntlets_of_Grace]]
+- Originates from [[Paradox Engine Room]]
+- Compare with [[NPC00009_Caelum_Ironforge_the_Redeemed]]
+- See also: [[The Unremembered Parliament]]
+- Leads to [[ENC00161_Combat_Encounter_162]]
+- Influences [[Foreign Trader Captain Hassan al-Rimal (D&D_References)]]
+- Affected by [[NPC00284_Thalia_Winterborn_the_Broken]]
+- Connects to [[Assets Locations Location City Crystal Palace Complex Crystal Palace Complex.svg]]
+- Parallels [[Forge District (Places)]]
+- Parallels [[Shadow Network]]
+- Affected by [[step_095 (phase_022)]]
+- Compare with [[dungeons-dungeon-quirks-xdmg (tables)]]
+- See also: [[Void Sanctum (D&D_References)]]
+- Influences [[potion-of-supreme-healing-xdmg (items)]]
+- Parallels [[LOC00293_Wilderness_Location_294]]
+- Connects to [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- Leads to [[Location City the Iteration Collective the Iteration Collective.svg]]
+- Requires [[SPELL00018_Divine_Spell_19]]
+- Related: [[Portrait NPC High Cultivist Jasper Lifebinder High Cultivist Jasper Lifebinder.svg_1 (Portraits)]]
+- Leads to [[Symbol Heraldry the Navigation Post the Navigation Post.svg]]
+- Compare with [[step_017]]
+- See also: [[step_065]]
+- Affected by [[ITEM01371_Elegant_Rope_of_Durability]]
+- Affected by [[NPC01637_Hestara_Xendar_the_Guardian]]
+- Related: [[04_Resources_Assets_Locations_location-city-master-jeweler-sapphire-delicatehand-master-jeweler-sapphire-delicatehand.svg]]
+- Connects to [[OPTIMIZATION_COMPLETE]]
+- Originates from [[Sentient Magic Item Alignment]]
+- Parallels [[step_012 (phase_095)]]
+- Leads to [[green-hag-xmm (fey)]]
+- Parallels [[LOC00193_Wilderness_Location_194]]
+- Compare with [[cave-badger-oota (beast)]]
+- Originates from [[Location City Veiled Hierophant V1 Veiled Hierophant.svg]]
+- Requires [[step_025 (phase_083)]]
+- Compare with [[EVENT00074_Magical_Event_75]]
+- Compare with [[Quality Inspector Reef Perfectwright]]
+- Compare with [[step_018 (phase_033)]]
+- Originates from [[Temple of the Eternal Flame 2]]
+- See also: [[Wall of Stone Xphb]]
+- See also: [[Class Training I Became]]
+- Connects to [[step_024 (phase_018)]]
+- Connects to [[04_Resources_Assets_Locations_location-city-master-chronologist-temporal-truthkeeper-v1-master-chronologist-temporal-truthkeeper.svg]]
+- Requires [[poltergeist-xmm (undead)]]
+- Related: [[step_091 (phase_060)]]
+- Leads to [[ENC00145_Social_Encounter_146]]
+- Parallels [[QUEST00104_Main_Quest_105]]
+- Originates from [[Professor Darklight (D&D_References)]]
+- Requires [[ITEM01242_Greater_Potion_of_Vigor]]
+- Originates from [[step_055 (phase_070)]]
+- Connects to [[settlement-tables-and-tracker-claims-to-fame-xdmg]]
+- Originates from [[04_Resources_Assets_Portraits_portrait-npc-captain-threshold-captain-threshold.svg_Quick_Ref]]
+- Compare with [[carrion-crawler-xmm (monstrosity)]]
+- Originates from [[step_055]]

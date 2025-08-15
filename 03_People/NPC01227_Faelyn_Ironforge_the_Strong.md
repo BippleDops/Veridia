@@ -1,4 +1,5 @@
 ---
+created: 2025-08-15
 aliases: ["Faelyn Ironforge the Strong", "faelyn ironforge the strong", "Faelyn Ironforge Strong", "Strong the Ironforge Faelyn"]
 tags: [npc, character]
 type: npc
@@ -142,3 +143,144 @@ Knows secret about major threat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Monster Manual (MM) p.28
+- Tasha's Cauldron of Everything (TCE) p.264
+- Mordenkainen's Tome of Foes (MTF) p.26
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+- **Spellcasting**: See PHB p.201-205
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Originates from [[Reality_Anchor_Syndrome]]
+- Requires [[ITEM01166_Greater_Crystal_of_Vigor]]
+- Related: [[Luna Shimmerleaf 2]]
+- Affected by [[03-chapter-2-creating-a-character (players-handbook-2024)]]
+- Compare with [[blood-spear-cos (items)]]
+- Originates from [[LOC00280_Planes_Location_281]]
+- Influences [[06-chapter-5-feats (players-handbook-2024)]]
+- Parallels [[step_044]]
+- See also: [[Services Reality Protection]]
+- Originates from [[step_079]]
+- Leads to [[step_083 (phase_042)]]
+- Originates from [[The Pearl Guard (D&D_References)]]
+- See also: [[Portrait NPC Marina Red Tide Coralheart Marina Red Tide Coralheart.svg]]
+- Parallels [[Crystalhaven Envoy Lord Reginald Brightspire (D&D_References)]]
+- Connects to [[otyugh-xmm (aberration)]]
+- Affected by [[step_082 (phase_061)]]
+- Affected by [[step_057]]
+- See also: [[Mule Xphb]]
+- Related: [[Portrait NPC Quest the Dying Forest V2 Quest the Dying Forest.svg]]
+- Related: [[NPC00589_Baelor_Ironforge]]
+- Leads to [[location-city-royal-vault-royal-vault.svg]]
+- Leads to [[NPC01460_Zephyr_Jadeclaw_the_Bold]]
+- Affected by [[step_095 (phase_075)]]
+- Connects to [[ITEM00950_Superior_Elixir_of_Fortune]]
+- Connects to [[MON00062_Aberrations_Creature_63]]
+- Originates from [[04_Resources_Assets_Locations_location-city-captain-echo-captain-echo.svg]]
+- Compare with [[NPC0091_Lyra_Goldleaf]]
+- Originates from [[step_004]]
+- Influences [[step_031 (phase_018)]]
+- Requires [[Location City Community Leaders Community Leaders.svg]]
+- Parallels [[Prism Sword]]
+- Leads to [[The Exchange Rate]]
+- See also: [[Celestial Spirit Defender Xphb]]
+- Requires [[Ghostly Gaze Xge]]
+- Influences [[step_016 (phase_045)]]
+- Originates from [[Archshadow Mortis Voidcut]]
+- Affected by [[Aquamarine Xdmg]]
+- Leads to [[DUN00147_Dungeon_148]]
+- Influences [[step_003 (phase_017)]]
+- Affected by [[Research Institutes (D&D_References)]]
+- Parallels [[Assets Art Hybrid Abominations.png]]
+- Originates from [[LOC0052_Watchridge]]
+- Leads to [[Cloud Shepherd Guild Customs (D&D_References)]]
+- Influences [[step_075 (phase_035)]]
+- Related: [[Business Card Dungeon - config]]
+- Originates from [[Memory Merchant Kellan Depthseer 2]]
+- Leads to [[Assets Locations Location City Sahuagin V1 Sahuagin.svg]]
+- Originates from [[ITEM01285_Lesser_Oil_of_Healing]]
+- Parallels [[Assets Locations Location City Mourning Depths V1 Mourning Depths.svg]]
+- Affected by [[Tidal Stormcrest (D&D_References)]]
+- Affected by [[LOC00213_Planes_Location_214]]
+- Leads to [[The Six Abilities Ability Descriptions Xphb]]
+- Parallels [[Forgotten Realms Tempus]]
+- See also: [[Portrait NPC Empe... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Parallels [[item-properties#Two-Handed]]
+- Connects to [[Memory Merchant Valeria]]
+- Parallels [[QUEST00042_Personal_Quest_43]]
+- Connects to [[README]]
+- Requires [[step_006 (phase_069)]]
+- Leads to [[The Forbidden Archives]]
+- Parallels [[The Corrupted Admiralty]]
+- Connects to [[The Bone Palace of Sorrows (D&D_References)]]
+- Influences [[Void Watchers]]
+- Influences [[Insurance Industry (D&D_References)]]
+- Connects to [[LOC00236_Cities_Location_237]]
+- Related: [[step_030 (phase_004)]]
+- Connects to [[Deities of Dragonlance Evil Phb]]
+- Requires [[step_047 (phase_062)]]
+- Parallels [[step_020]]
+- Affected by [[DUN00190_Dungeon_191]]
+- Influences [[perfume-xphb (items)]]
+- Parallels [[Spell Sniper Xphb]]
+- Influences [[Spiked Pit Xdmg]]
+- Related: [[Council of Faiths 2]]
+- Parallels [[step_078]]
+- Requires [[dragontooth-dagger-rot (items)]]
+- Related: [[step_029 (phase_082)]]
+- Originates from [[QUEST00293_Personal_Quest_294]]
+- Compare with [[step_042 (phase_022)]]
+- Compare with [[Campaign Path (D&D_References)]]
+- Requires [[Location City Quill Precisequote Quill Precisequote.svg]]
+- Connects to [[Master Cultivator Thalia Greenglow_1]]
+- Originates from [[Assets Locations Location City Magnus Ledgerkeep V1 Magnus Ledgerkeep.svg]]
+- Leads to [[Assets Locations Location City Drift Harbor District V1 Drift Harbor District.svg]]
+- Compare with [[Diplomatic Architecture (D&D_References)]]
+- Leads to [[Polar Bear Xmm]]
+- Leads to [[item mastery#Sap]]
+- Requires [[Assets Portraits Portrait NPC the Depth Blessed Fisherman Captain Sal Deepcurrent the Depth Blessed Fisherman Captain Sal Deepcurrent.svg]]
+- Compare with [[Sahuagin (D&D_References)]]
+- Requires [[Cave Badger Oota]]
+- Originates from [[Paradox Storms]]
+- Compare with [[International Training Exchanges]]
+- Compare with [[Map_Whisper_Island_Docks_Sketc]]
+- See also: [[NPC00299_Aeliana_Keenblade_the_Bold]]
+- See also: [[mordenkainens-sword-xphb (spells)]]
+- Influences [[Senator's Private Chambers 2]]
+- Related: [[The Corruption Codex]]
+- Influences [[step_083 (phase_060)]]
+- Requires [[creature-creature-dragon-v4-dragon.png]]
+- Related: [[Environmental Engineering Authority]]

@@ -1,6 +1,6 @@
 ---
-aliases: ["Erasmus Xendar the Strong", "erasmus xendar the strong", "Erasmus Xendar Strong", "Strong the Xendar Erasmus"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Erasmus Xendar the Strong", "erasmus xendar the strong", "Erasmus Xendar Strong", "Strong the Xendar Erasmustags: [npc, character, combat, magic, social, lore]er]
 type: npc
 ---
 
@@ -145,3 +145,134 @@ Is secretly testing the party
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Bandit** (MM p.343)
+Modifications:
+- HP: 44
+- AC: 14
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+- **Skills**: See PHB p.174-179
+- **Spellcasting**: See PHB p.201-205
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Compare with [[step_062 (phase_064)]]
+- Leads to [[Eldritch Secret]]
+- Leads to [[step_059 (phase_015)]]
+- Influences [[Periapt of Health Xdmg]]
+- Leads to [[step_088 (phase_096)]]
+- Parallels [[Common Goods Market 2]]
+- Leads to [[summon-fiend-xphb (spells)]]
+- Influences [[step_012 (phase_077)]]
+- Affected by [[Magic Items Awarded by Rarity Major Xge]]
+- Affected by [[step_002 (phase_046)]]
+- See also: [[Quest   The Corruption Cure]]
+- Originates from [[Depth Raider (D&D_References)]]
+- See also: [[Sister Astara the Ever-Watching 2]]
+- Requires [[Portrait NPC Weaponsmith Captain Marcus Sharpedge V2 Weaponsmith Captain Marcus Sharpedge.svg]]
+- See also: [[Palace Courtyard - Crystal Garden (D&D_References)]]
+- Influences [[step_083]]
+- Originates from [[step_071]]
+- Affected by [[Diamond Xdmg]]
+- Originates from [[Assets Locations Location City Cathedral of Light Cathedral of Light.png]]
+- Affected by [[Ω_System-CLI-spells-school-conjuration]]
+- Connects to [[Portrait NPC Defense Captain Ironguard V2 Defense Captain Ironguard.svg]]
+- Related: [[step_071 (phase_081)]]
+- Originates from [[Master_Quest_Index]]
+- Compare with [[Portrait NPC Mili... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Compare with [[step_052 (phase_013)]]
+- Requires [[NPC01488_Orion_Keenblade_the_Wise]]
+- Compare with [[step_072 (phase_084)]]
+- Parallels [[Map Map Sky Whale Back Hunt V2 Sky Whale Back Hunt.svg]]
+- Connects to [[Location City Grief Harvester Melancholy Grief Harvester Melancholy.svg]]
+- Compare with [[step_090 (phase_062)]]
+- See also: [[step_004]]
+- Originates from [[Secondary Tables War Xge]]
+- Influences [[The Crystal Throne]]
+- See also: [[step_025]]
+- Related: [[Boon of Luck]]
+- Compare with [[item-artifact-ruby-xdmg-ruby-xdmg.png]]
+- Affected by [[Dark Gift of Seriach the Hell Hound]]
+- Related: [[step_032]]
+- Requires [[step_099 (phase_047)]]
+- Leads to [[The Memory Weapon Vault 2]]
+- Leads to [[step_091 (phase_044)]]
+- See also: [[LORE00261_Prophecies_Entry_262]]
+- See also: [[step_007]]
+- Leads to [[step_070]]
+- Parallels [[Location City Council of Currents V1 Council of Currents.svg]]
+- Related: [[step_065 (phase_091)]]
+- Parallels [[step_003 (phase_055)]]
+- Originates from [[step_087]]
+- Related: [[Triton (D&D_References)]]
+- Affected by [[step_017 (phase_035)]]
+- See also: [[Kobold Dmg]]
+- Affected by [[02-chapter-1-playing-the-game#Conditions]]
+- Connects to [[High Inquisitor Maltheos]]
+- Parallels [[step_046 (phase_068)]]
+- Related: [[Portrait NPC Ice ... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Connects to [[Potion of Necrotic Resistance Xdmg]]
+- Parallels [[Location City Master Trader Abyss Currentbinder V1 Master Trader Abyss Currentbinder.svg]]
+- See also: [[step_015 (phase_076)]]
+- Requires [[LORE00082_Prophecies_Entry_83]]
+- Parallels [[Flameskull Xmm]]
+- Influences [[Assets Locations Location City the Trencher Folk the Trencher Folk.svg]]
+- Affected by [[Map World Layer Faction Territories and Influence V2 Faction Territories and Influence.svg]]
+- Requires [[Korred Mpmm]]
+- Requires [[QUEST0003_The_Haunted_Manor_War]]
+- Affected by [[NPC00824_Malakai_Lightbringer_the_Lost]]
+- See also: [[portrait-npc-senator-marius-v1-senator-marius.svg_1 (Portraits)]]
+- Originates from [[Institute of Recursive Reality Studies (D&D_References)]]
+- Leads to [[The Noble Quarter Market 2]]
+- Affected by [[The Floating Market]]
+- Affected by [[step_061 (phase_096)]]
+- Influences [[location-city-sage-nereon-sage-nereon.svg]]
+- Affected by [[Scene Scene Trench Fire Battlefield Aftermath V2 Trench Fire Battlefield Aftermath.svg]]
+- Connects to [[Location City Amnesia Gallery V1 Amnesia Gallery.svg]]
+- Compare with [[The Mirror Merchants Guild]]
+- Parallels [[Shadow Binding Sanctum (D&D_References)]]
+- Requires [[elf-deities-the-seldarine-mtf (tables)]]
+- Leads to [[Shard-Touched Artifacts]]
+- Influences [[step_069 (phase_093)]]
+- Connects to [[Battle Map Descriptions (Maps)]]
+- Connects to [[EVENT00006_Magical_Event_7]]
+- Requires [[step_094]]
+- Influences [[NPC00038_Kaelen_Nightfall]]
+- Connects to [[Underwater_Combat]]
+- Affected by [[The Embassy Quarter_1]]
+- Connects to [[Paladins of Light]]
+- Related: [[step_057 (phase_058)]]
+- Affected by [[monster-relationships-xge (tables)]]
+- Parallels [[Symbol Heraldry the Light Preservation Society the Light Preservation Society.svg]]
+- Affected by [[step_095 (phase_031)]]
+- Related: [[Portrait NPC Sea Spirit Priests V1 Sea Spirit Priests.svg]]
+- Compare with [[Mass_Combat_Evolution (D&D_References)]]
+- Originates from [[Work Wages Xge]]
+- Connects to [[Assets Locations Location City Transformation Medicine Techniques Transformation Medicine Techniques.svg]]
+- Influences [[LOC00019_Planes_Location_20]]
+- Related: [[ENC00488_Combat_Encounter_489]]
+- Originates from [[step_066 (phase_093)]]
+- Connects to [[Shadow-Touched Mine Foreman Brokk]]
+- Requires [[ENC00013_Social_Encounter_14]]
+- See also: [[mantle-of-spell-resistance-xdmg (items)]]
+- Influences [[Location City Quest the Blackmail Papers Quest the Blackmail Papers.svg]]

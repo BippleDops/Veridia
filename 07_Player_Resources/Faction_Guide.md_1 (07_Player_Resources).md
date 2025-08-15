@@ -1,6 +1,5 @@
 ---
-enhanced: true
-tags: [enhanced, 07_player_resources]
+enhanced: trtags: [enhanced, 07_player_resources, combat, magic, exploration, lore]es]
 created: 2025-08-15T12:24:41.139490
 modified: 2025-08-15T12:24:41.139495
 aliases: [Faction Guide.md 1 (07 Player Resources)]
@@ -81,3 +80,136 @@ publish: false --- -|--------|
 ![[04_Resources/Assets/Digital/ui-ui-faction-reputation-bar-v1-faction-reputation-bar.png]]
 ![[04_Resources/Assets/Digital/ui-ui-faction-reputation-bar-v2-faction-reputation-bar.png]]
 ![[04_Resources/Assets/Digital/ui-ui-faction-reputation-bar-faction-reputation-bar.png]]
+
+
+> [!dm] DM Note
+> Hidden treasure can be found here with a DC 15 Investigation check
+
+
+## Related Content
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Leads to [[Spell Lists]]
+- Related: [[05-personality-and-background (players-handbook-2014)]]
+- Parallels [[SPELL00021_Arcane_Spell_22]]
+- Originates from [[step_074 (phase_006)]]
+- Connects to [[Scholar Thomas Precedent 2]]
+- Influences [[step_096 (phase_017)]]
+- Related: [[Pain-Artist Cruelty Refined]]
+- Related: [[NPC01884_Ysara_Crystalbrook_the_Risen]]
+- Connects to [[LORE00137_Prophecies_Entry_138]]
+- Leads to [[step_094]]
+- Originates from [[step_095]]
+- Connects to [[Portrait NPC Keeper of the Shattered Crown Marcus Crystalvein V1 Keeper of the Shattered Crown Marcus Crystalvein.svg]]
+- Requires [[step_018 (phase_080)]]
+- See also: [[Security Officer Guard Stormwind (D&D_References)]]
+- Originates from [[step_061 (phase_085)]]
+- Affected by [[LOC00021_Towns_Location_22]]
+- Affected by [[Assets Locations Location City the Deep Patrol the Deep Patrol.svg]]
+- Connects to [[Resonance Cascade Attack]]
+- Originates from [[NPC01722_Branwen_Oakenshield_the_Mystic]]
+- See also: [[Portrait NPC Captain Dr Bloodletting Captain Dr Bloodletting.svg]]
+- See also: [[Gith Tables Githyanki Names Female Mtf]]
+- Parallels [[Portrait NPC Captain Truth Ironwill Captain Truth Ironwill.svg]]
+- Compare with [[step_095]]
+- Connects to [[List Spells Classes Sorcerer]]
+- Connects to [[The Battle Forge Arena 2]]
+- Connects to [[step_009]]
+- Related: [[Location City Archkeeper Nereon V1 Archkeeper Nereon.svg]]
+- Compare with [[step_041 (phase_043)]]
+- Leads to [[portrait-npc-lady-shadowmere-lady-shadowmere.svg]]
+- Influences [[The Crystal Cathedral]]
+- Originates from [[Travel_Rules]]
+- Influences [[Quest - The Seventh Song]]
+- Originates from [[dwarves-on-the-move-purpose-of-travel-mtf (tables)]]
+- See also: [[Royal Academy of Arcane Arts Ruins (Places)]]
+- Parallels [[Darkness Xphb]]
+- Leads to [[Assets Locations Location City Luxury Goods Market Luxury Goods Market.svg]]
+- Parallels [[Quest - The Crown's Shadow]]
+- See also: [[Deep Strike Forces]]
+- Leads to [[Imperial Vaults (D&D_References)]]
+- Related: [[Xorn Xmm]]
+- Influences [[step_089]]
+- Parallels [[step_023]]
+- Requires [[step_011]]
+- Leads to [[Session 18 (06_Sessions)]]
+- Leads to [[LOC00247_Wilderness_Location_248]]
+- Requires [[step_049 (phase_082)]]
+- Affected by [[FAC00098_Orders_99]]
+- Parallels [[step_092]]
+- Influences [[step_070]]
+- Parallels [[step_009 (phase_092)]]
+- Requires [[The Pearl Markets 2]]
+- Requires [[NPC00940_Thalia_Keenblade_the_Fallen]]
+- Influences [[Lieutenant Bloodcoral Vex Tidebreaker]]
+- Compare with [[NPC01406_Fiora_Lightbringer_the_Wise]]
+- Originates from [[step_066 (phase_052)]]
+- Related: [[Assets Art the Final Sealing.png]]
+- Parallels [[Symbol Heraldry Commander Void Tacticia Commander Void Tacticia.svg]]
+- Originates from [[Assets Locations Location City Guide Helpfulcurrent Guide Helpfulcurrent.svg]]
+- Affected by [[step_089 (phase_079)]]
+- Influences [[dawn-war-asmodeus-dmg (deities)]]
+- Parallels [[step_074]]
+- Affected by [[step_044 (phase_023)]]
+- Compare with [[step_100 (phase_052)]]
+- Connects to [[step_006 (phase_090)]]
+- Related: [[step_019]]
+- Compare with [[location-city-the-portal-wars-the-portal-wars.svg]]
+- Requires [[Reality Distortion 2]]
+- Originates from [[EVENT00091_Natural_Event_92]]
+- Influences [[step_067 (phase_049)]]
+- See also: [[Sage Freedom Philosopher (D&D_References)]]
+- Related: [[step_006 (phase_086)]]
+- Influences [[LOC00098_Planes_Location_99]]
+- Related: [[1-monster-lore (volos-guide-to-monsters)]]
+- Parallels [[step_027 (phase_058)]]
+- Originates from [[step_008 (phase_080)]]
+- Related: [[Provincial Nobility]]
+- Related: [[step_060]]
+- Related: [[Scaling Physics Laboratory (D&D_References)]]
+- Originates from [[LOC00035_Planes_Location_36]]
+- Requires [[Spymaster Quartz Clearview]]
+- Related: [[Elemental Court]]
+- Influences [[Constitutional Monarchy (D&D_References)]]
+- Leads to [[LORE00140_Prophecies_Entry_141]]
+- Compare with [[step_010 (phase_008)]]
+- See also: [[The Crystal Eye]]
+- Originates from [[Veiled Hierophant (D&D_References)]]
+- Compare with [[Trinket Cos]]
+- Originates from [[avatar-of-death-dmg (undead)]]
+- Connects to [[LORE00190_Legends_Entry_191]]
+- Influences [[step_090 (phase_100)]]
+- Originates from [[barbarian-xphb (classes)]]
+- Parallels [[halfling-brandobaris-mtf (deities)]]
+- Parallels [[Pearl Divers 2]]
+- Compare with [[Map Map Shadow Market Alley Shadow Market Alley.svg]]
+- Related: [[step_033 (phase_028)]]
+- Influences [[Portrait NPC Lady Shadowmere V1 Lady Shadowmere.svg]]
+- Affected by [[SPELL00158_Divine_Spell_159]]
+- Requires [[Assets Item Artifact Windvane Pota V6 Windvane Pota.png]]
+- Requires [[step_012]]
+- Affected by [[Portrait NPC House Guard Captains V1 House Guard Captains.svg]]

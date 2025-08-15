@@ -1,6 +1,5 @@
 ---
-enhanced: true
-tags: [enhanced, 07_player_resources]
+enhanced: trtags: [enhanced, 07_player_resources, combat, magic, exploration, lore]es]
 created: 2025-08-15T12:24:41.126316
 modified: 2025-08-15T12:24:41.126318
 aliases: [Player Dashboard]
@@ -77,3 +76,138 @@ publish: false --- -|--------|
 ![[04_Resources/Assets/Misc/07_player_resources_visual_handouts_guild_seal_document_silverscale_consortiu.png]]
 ![[04_Resources/Assets/Misc/faction_overview_for_players.png]]
 ![[04_Resources/Assets/Misc/07_player_resources_faction_guide_md.png]]
+
+
+> [!dm] DM Note
+> Ancient magic still lingers here
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Influences [[step_024 (phase_034)]]
+- Influences [[step_097]]
+- Leads to [[MON00097_Constructs_Creature_98]]
+- Requires [[NPC Name Generator (Lore)]]
+- Parallels [[Depth_Events_Pack_B]]
+- Compare with [[Location City Master Archivist Thomas Scrollkeeper Master Archivist Thomas Scrollkeeper.png]]
+- See also: [[Training Director Tide Teachwright]]
+- Leads to [[Inter-Realm Council]]
+- Leads to [[04_Resources_Assets_Locations_location-city-quartermaster-david-simpleton-quartermaster-david-simpleton.svg]]
+- Connects to [[step_098 (phase_018)]]
+- Influences [[Grell Xmm]]
+- Connects to [[step_050 (phase_055)]]
+- Originates from [[swarm-of-piranhas-xmm (beast)]]
+- See also: [[Assets Locations Location City Merchant Merchant.svg]]
+- Originates from [[ITEM01166_Greater_Crystal_of_Vigor]]
+- Affected by [[LOC00094_Planes_Location_95]]
+- Requires [[Craftmaster Engineer Gearwhispe (D&D_References)]]
+- Originates from [[List Spells Optional Features Tricksters Escape Xge]]
+- Influences [[The Meditation Spheres]]
+- Requires [[Symbol Heraldry the Forsaken Consortium Collective V1 the Forsaken Consortium Collective.svg]]
+- Originates from [[step_047 (phase_013)]]
+- Compare with [[Project Seven Laboratory (D&D_References)]]
+- Connects to [[step_035]]
+- Leads to [[Mediator Supreme Cora Peaceweaver]]
+- Parallels [[Acolyte Sister Tidal Deepfaith (D&D_References)]]
+- Connects to [[Assets Art the Divine Trial.png]]
+- Leads to [[step_075 (phase_047)]]
+- Compare with [[step_038]]
+- Requires [[Shadow Surgery Network]]
+- Parallels [[LOC00169_Towns_Location_170]]
+- Influences [[The Convergence Laboratory]]
+- Influences [[embroidered-silk-handkerchief-xdmg (items)]]
+- Compare with [[step_068 (phase_058)]]
+- Affected by [[portrait-npc-senator-marius-v1-senator-marius.svg]]
+- Originates from [[NPC00093_Branwen_Thornweave]]
+- Leads to [[Athlete Xphb]]
+- Connects to [[step_012 (phase_052)]]
+- Compare with [[House Mercurial]]
+- Originates from [[step_055]]
+- Influences [[step_006 (phase_083)]]
+- See also: [[step_062 (phase_090)]]
+- Connects to [[Pressure Tolerance]]
+- Originates from [[LOC00102_Planes_Location_103]]
+- Influences [[ITEM00099_Thunder_Dagger_of_Power]]
+- Leads to [[forgotten-realms-umberlee (deities)]]
+- Compare with [[Victoria Harbormane]]
+- Affected by [[The Grand Trade Routes (D&D_References)]]
+- Compare with [[LOC00143_Cities_Location_144]]
+- Related: [[LORE00197_History_Entry_198]]
+- Related: [[Prophetic Visions]]
+- Originates from [[Admiral Marina Stormcrest 2]]
+- Influences [[step_007]]
+- Requires [[Void-warded Cloak 2]]
+- Affected by [[step_059 (phase_067)]]
+- Requires [[step_063 (phase_047)]]
+- Requires [[ENC00271_Social_Encounter_272]]
+- Originates from [[LOC0058_FortVale]]
+- Requires [[darkness-xphb (variant-rules)]]
+- Requires [[Symbol Heraldry Inventor Chief Adaptatio V1 Inventor Chief Adaptatio.svg]]
+- Related: [[Void Magic 2]]
+- Affected by [[Port Shadowmere]]
+- Affected by [[mighty-fortress-xge (spells)]]
+- Related: [[creating-a-monster-stat-block-monster-features]]
+- Requires [[EVENT00086_Natural_Event_87]]
+- Requires [[MON00114_Constructs_Creature_115]]
+- Parallels [[step_012 (phase_048)]]
+- Requires [[NPC01106_Jorah_Thornweave_the_Guardian]]
+- Originates from [[step_019 (phase_031)]]
+- See also: [[Illumination Crysta (D&D_References)]]
+- Connects to [[Assets Locations Location City Entertainment Industry Entertainment Industry.svg]]
+- Influences [[School of Deep Resonance]]
+- Parallels [[#Threads]]
+- Affected by [[QUEST00423_Side_Quest_424]]
+- Originates from [[LOC0124_Hillford]]
+- See also: [[Werebear Xmm]]
+- Originates from [[step_070 (phase_073)]]
+- Requires [[Fire Opal Xdmg]]
+- Influences [[step_071 (phase_007)]]
+- Connects to [[LOC00017_Cities_Location_18]]
+- Requires [[dwarven-thard-harr-mtf (deities)]]
+- See also: [[human-names-french-male-xge (tables)]]
+- Leads to [[SPELL00151_Divine_Spell_152]]
+- Requires [[Assets Locations Location City Keeper of the Past Elderly Morgan Keeper of the Past Elderly Morgan.svg]]
+- Parallels [[Master_Places_Index]]
+- Compare with [[step_062]]
+- Connects to [[step_078]]
+- Compare with [[Crystallium (D&D_References)]]
+- Affected by [[step_060]]
+- Affected by [[Quartermaster Judith Steadyhold]]
+- Connects to [[Location City Meditation Centers V1 Meditation Centers.svg]]
+- Originates from [[step_063]]
+- Related: [[Character_Creation_Flowchart_Quick_Ref]]
+- Leads to [[step_054 (phase_045)]]
+- Affected by [[Memory Trading Economy System]]
+- Connects to [[Great Preparatio 2]]
+- Related: [[hobgoblin-warrior-xmm (fey)]]
+- Affected by [[step_006 (phase_084)]]
+- Affected by [[Location City the Drowned Embassy V1 the Drowned Embassy.svg]]
+- Connects to [[LORE00082_History_Entry_83]]
+- Leads to [[Coral Gardens District]]

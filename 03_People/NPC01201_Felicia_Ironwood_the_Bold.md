@@ -1,6 +1,6 @@
 ---
-aliases: ["Felicia Ironwood the Bold", "felicia ironwood the bold", "Felicia Ironwood Bold", "Bold the Ironwood Felicia"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Felicia Ironwood the Bold", "felicia ironwood the bold", "Felicia Ironwood Bold", "Bold the Ironwood Feliciatags: [npc, character, combat, magic, exploration, lore]er]
 type: npc
 ---
 
@@ -138,3 +138,148 @@ Forming expedition to dangerous location
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Bandit** (MM p.343)
+Modifications:
+- HP: 32
+- AC: 11
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Mordenkainen's Tome of Foes (MTF) p.237
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Affected by [[ITEM00645_Ethereal_Leather_of_the_Guardian]]
+- Leads to [[Royal Bunker]]
+- Originates from [[step_057 (phase_070)]]
+- Affected by [[Cross-Realm Conspiracy]]
+- Leads to [[Marcus "The Shade" Blackwood]]
+- Originates from [[Admiral Cordelia Tidewright (D&D_References)]]
+- Leads to [[Portrait NPC High Priest Dagon Deepcaller V1 High Priest Dagon Deepcaller.svg]]
+- Leads to [[extreme-heat-xdmg (traps-hazards)]]
+- Influences [[step_065 (phase_066)]]
+- Leads to [[Portrait NPC Quest the Healer S Burden Quest the Healer S Burden.svg]]
+- See also: [[Harmony Resonators (Items)]]
+- Connects to [[step_041 (phase_097)]]
+- Compare with [[tankard]]
+- Leads to [[FAC00006_Guilds_7]]
+- Requires [[ITEM00321_Radiant_Bow_of_Slaying]]
+- Compare with [[Midnight Trenches]]
+- Influences [[ENC00142_Social_Encounter_143]]
+- Connects to [[painted-gold-war-mask-xdmg (items)]]
+- Leads to [[step_035 (phase_027)]]
+- Affected by [[list-spells-classes-college-of-glamour-xphb (lists)]]
+- Parallels [[ITEM01388_Decorated_Journal_of_Quality]]
+- Connects to [[step_061 (phase_035)]]
+- Affected by [[Secondary Tables Weird Stuff Xge]]
+- Originates from [[Underground Network]]
+- Requires [[Location (D&D_References)]]
+- Influences [[Eye of Vecna Xdmg]]
+- Requires [[Syndicate War]]
+- Related: [[Dimensional Security Guards]]
+- Parallels [[step_090]]
+- Connects to [[EVENT00008_Magical_Event_9]]
+- Connects to [[ITEM0019_Divine_Crown_of_Power]]
+- Compare with [[rowboat-xphb (items)]]
+- Originates from [[QUEST00208_Side_Quest_209]]
+- Parallels [[Resonance Peaks (Lore)]]
+- See also: [[Electoral Strategist Marcus Votepower]]
+- Related: [[The Memory Palace (D&D_References)]]
+- See also: [[Symbols - Faction_Heraldry (D&D_References)]]
+- Influences [[step_072 (phase_045)]]
+- See also: [[Order of the Silver Anchor]]
+- Affected by [[MON00115_Undead_Creature_116]]
+- Originates from [[step_024]]
+- Affected by [[QUEST00355_Side_Quest_356]]
+- Connects to [[step_050 (phase_087)]]
+- Requires [[Transformation Specialist Doctor Prism-Current]]
+- Affected by [[gold-bar-5-pound-xdmg (items)]]
+- See also: [[step_009 (phase_082)]]
+- Originates from [[ITEM00794_Divine_Amulet_of_Truth]]
+- Related: [[Young Merchant Guild]]
+- Parallels [[Silence Seekers]]
+- Influences [[step_029]]
+- Leads to [[step_008]]
+- Originates from [[The Depth Accords (D&D_References)]]
+- Parallels [[MON00138_Aberrations_Creature_139]]
+- Requires [[Bulette Pup Xmm]]
+- Related: [[Parry Xphb]]
+- See also: [[NPC01882_Cedric_Ironforge_the_Swift]]
+- Requires [[Scene Scene Cloud Citadel Duel Cloud Citadel Duel.svg]]
+- Compare with [[Location City Miranda Hopekeeper Miranda Hopekeeper.svg]]
+- Leads to [[List Spells Classes Shadow Magic Xge]]
+- Parallels [[The Information Exchange]]
+- Influences [[staff-of-the-magi-xdmg (items)]]
+- Compare with [[spike-growth-xphb (spells)]]
+- Connects to [[Healing Ministries 2]]
+- Leads to [[Guild of Cross Realm Navigators]]
+- Leads to [[step_029]]
+- Originates from [[Kenku Xmm]]
+- Parallels [[Dr. Coral Mindmend]]
+- Influences [[Portrait NPC Parliament Loyalists V1 Parliament Loyalists.svg_1 (Portraits)]]
+- Connects to [[SPELL00037_Nature_Spell_38]]
+- Leads to [[LOC00161_Cities_Location_162]]
+- Compare with [[swarm-of-insects-xmm (beast)]]
+- Parallels [[ITEM0113_Blessed_Pendant_of_the_Dawn]]
+- Parallels [[step_090 (phase_071)]]
+- Influences [[Snare Xge]]
+- Leads to [[step_048]]
+- Compare with [[02_Worldbuilding_Procedures_Shadow_Resoce_Scanning]]
+- Related: [[step_095 (phase_013)]]
+- Influences [[Map Map Sunken Crown Crypt V1 Sunken Crown Crypt.svg]]
+- Connects to [[Location City Arts Communities Arts Communities.svg]]
+- Connects to [[Cleaning Fish]]
+- Related: [[The Divine Reunion]]
+- Compare with [[Marina-Red-Tide-Coralheart (People)]]
+- Compare with [[The Pressure Pirates (D&D_References)]]
+- Influences [[Assets Handouts Handout Handout Aged Treasure Map V2 Aged Treasure Map.png]]
+- Requires [[step_019]]
+- See also: [[Brontosaurus Mpmm]]
+- See also: [[09 Adventuring]]
+- Related: [[09-appendix-a-lore-glossary (dungeon-masters-guide-2024)]]
+- Requires [[step_085]]
+- Affected by [[step_042]]
+- Affected by [[Market Analysis]]
+- Parallels [[step_031]]
+- Requires [[step_031 (phase_079)]]
+- Affected by [[NPC00498_Fiora_Ironwood_the_Guardian]]
+- Influences [[Doctor_Silas_Voidtouch.png]]
+- Originates from [[Religious Leaders (D&D_References)]]
+- Originates from [[Portrait NPC Corrupted Clients V1 Corrupted Clients.svg_1 (Portraits)]]
+- Leads to [[step_076]]
+- Affected by [[Event_Log]]
+- Requires [[step_028 (phase_056)]]

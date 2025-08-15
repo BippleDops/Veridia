@@ -1,6 +1,5 @@
 ---
-enhanced: true
-tags: [enhanced, 09_performance]
+enhanced: trtags: [enhanced, 09_performance, combat, exploration, lore]ce]
 created: 2025-08-15T12:24:36.065365
 modified: 2025-08-15T12:24:36.065366
 aliases: [THOUSAND MICRO IMPROVEMENTS FAST]
@@ -82,3 +81,133 @@ publish: false --- # 1000+ Micro-Improvements Report (Fast Version) ## Executive
 ![[04_Resources/[[Assets|Assets]]/Items/Items/item_cellular_corruption_microscope_icon.png]]
 ![[04_Resources/Assets/Items/Items/item_cellular_corruption_microscope_display.png]]
 ![[04_Resources/Assets/[[Maps|Maps]]/World/Continents/world_quartermaster_judith_steadfast_gm.png]]
+
+
+> [!dm] DM Note
+> The villain has agents watching this place
+
+
+## Related Content
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Affected by [[cleric-xphb-nature-domain 2 (classes)]]
+- Compare with [[Assets Locations Location City the Purification Temples the Purification Temples.svg]]
+- Influences [[step_029]]
+- Parallels [[QUEST00030_Main_Quest_31]]
+- See also: [[spell-scroll-level-4-xdmg (items)]]
+- Influences [[step_062 (phase_080)]]
+- Affected by [[Training Sergeant Major Veteran Teachstrike]]
+- Compare with [[NPC00243_Vesper_Nightfall_the_Redeemed]]
+- Leads to [[NPC00511_Delara_Youngblood_the_Strong]]
+- Influences [[Portrait NPC Senator Cordelia Deepcurrent V2 Senator Cordelia Deepcurrent.svg_1 (Portraits)]]
+- See also: [[The Thorned Sanctuary]]
+- Influences [[Defense Captain Ironguard]]
+- Originates from [[Location City Mad Prophet Silas the Depth Touched V1 Mad Prophet Silas the Depth Touched.svg]]
+- Leads to [[Assets Locations Location City Crystallium Crystallium.svg]]
+- Influences [[Lamp Xphb]]
+- Leads to [[Environmental Engineer Current Depthwrigh]]
+- Influences [[Thunderclap Xphb]]
+- Requires [[LOC00043_Wilderness_Location_44]]
+- Related: [[forgotten-realms-waukeen (deities)]]
+- Compare with [[Royal Court of Aethermoor]]
+- Parallels [[step_080 (phase_024)]]
+- Leads to [[Location City Keeper of Contracts Minerva Bindingword Keeper of Contracts Minerva Bindingword.svg]]
+- Affected by [[step_096 (phase_077)]]
+- Requires [[LOC00050_Planes_Location_51]]
+- Affected by [[Lord Admiral Gaius Windcutter]]
+- Influences [[Market Heist]]
+- Parallels [[step_046]]
+- Leads to [[Settlement Tables and Tracker Tavern Names]]
+- Compare with [[NPC00077_Vesper_Ironwood]]
+- Requires [[ENC00293_Social_Encounter_294]]
+- Influences [[Session 04 (Shadow_Conspiracy)]]
+- Requires [[Location City the Living Quarters V1 the Living Quarters.svg]]
+- Parallels [[step_023 (phase_079)]]
+- Influences [[guards-and-wards-xphb (spells)]]
+- See also: [[Crystal Addiction Victims]]
+- Originates from [[Aethermoor Session 07 the Festival of Transformation]]
+- Influences [[Locate Object Xphb]]
+- Requires [[Boon of Invincibility]]
+- Parallels [[ITEM00060_Radiant_Hammer_of_Power]]
+- Originates from [[Assets Locations Location City Priest Thomas Messagekeeper Priest Thomas Messagekeeper.svg]]
+- Leads to [[Portrait NPC Admiral Thorne Blackwater V1 Admiral Thorne Blackwater.svg]]
+- See also: [[step_087]]
+- Related: [[step_024]]
+- Influences [[The Liminal Trading Company]]
+- Connects to [[Assets Vehicles Vehicle Ship Harbor Guardian Gunboat V2 Harbor Guardian Gunboat.svg]]
+- Connects to [[Crystal Sanctum]]
+- Leads to [[ENC00124_Combat_Encounter_125]]
+- Parallels [[NPC01973_Faelyn_Keenblade_the_Scholar]]
+- Requires [[step_040 (phase_099)]]
+- Compare with [[step_048 (phase_062)]]
+- Influences [[NPC01904_Kaelen_Thornweave_the_Swift]]
+- See also: [[Beholder Xmm]]
+- Related: [[Adaptation Medical Society]]
+- Parallels [[Assets Locations Location City Temple of the Deep Waters Temple of the Deep Waters.svg]]
+- Compare with [[Location City Memorial Current Memorial Current.png]]
+- Compare with [[step_023 (phase_070)]]
+- Influences [[step_018 (phase_066)]]
+- See also: [[spider-xmm (beast)]]
+- See also: [[wretched-sorrowsworn-mpmm (monstrosity)]]
+- Requires [[Wanted_Poster]]
+- Influences [[Academic Institutions 2]]
+- Influences [[stone-giant-xmm]]
+- Connects to [[Fighter Xphb Psi Warrior Xphb]]
+- Originates from [[Memory Meadows 3 (D&D_References)]]
+- Compare with [[NPC_Interaction_Review]]
+- Parallels [[step_050 (phase_090)]]
+- Parallels [[step_100]]
+- Influences [[Living Reef]]
+- Requires [[04_Resources_Assets_Locations_location-city-communications-master-signal-cryptkeeper-v1-communications-master-signal-cryptkeeper.svg]]
+- Related: [[Symbol Heraldry the Succession Crisis V1 the Succession Crisis.svg]]
+- Leads to [[LOC00130_Cities_Location_131]]
+- Originates from [[Location City Memory Tide Pools V1 Memory Tide Pools.svg]]
+- Parallels [[The Diplomatic Protocol Commission]]
+- Connects to [[step_067]]
+- Affected by [[Family Retainer 2]]
+- See also: [[step_039 (phase_009)]]
+- Influences [[Aethermoor Council (D&D_References)]]
+- Connects to [[chime-of-opening-xdmg (items)]]
+- Affected by [[LORE00103_Legends_Entry_104]]
+- Influences [[step_093 (phase_048)]]
+- Related: [[step_015 (phase_081)]]
+- Affected by [[ITEM01079_Pure_Incense_of_Clarity]]
+- Connects to [[step_084 (phase_081)]]
+- Affected by [[Memory Sanctity Laws 2]]
+- Compare with [[danse-macabre-xge (spells)]]
+- Related: [[The Dimensional Hospital]]
+- Parallels [[Veritas the Drowned]]
+- Leads to [[Art_Brief_Database (Assets)]]
+- Parallels [[step_001 (phase_081)]]
+- Influences [[Downtime Activity Selling a Magic Item Xge]]
+- Affected by [[Yuan Ti Dendar Vgm]]
+- See also: [[Session 30 Campaign Finale]]
+- Leads to [[ITEM00982_Refined_Elixir_of_Clarity]]
+- Affected by [[QUEST0047_In_Search_of_Power]]
+- Related: [[NPC0008_Ivan_Stormwind]]
+- Related: [[War Machine Engineers 2]]
+- See also: [[Quest - The Shattered Memories_1 (01_Adventures)]]
+- Parallels [[ITEM00017_Blessed_Bow_of_Speed]]
+- Influences [[Alpha-Prime (D&D_References)]]
+- Leads to [[Location City Duchess Cordelia Pearlheart V1 Duchess Cordelia Pearlheart.svg]]

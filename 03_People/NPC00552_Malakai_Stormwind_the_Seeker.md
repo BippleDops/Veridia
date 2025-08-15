@@ -1,6 +1,6 @@
 ---
-aliases: ["Malakai Stormwind the Seeker", "malakai stormwind the seeker", "Malakai Stormwind Seeker", "Seeker the Stormwind Malakai"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Malakai Stormwind the Seeker", "malakai stormwind the seeker", "Malakai Stormwind Seeker", "Seeker the Stormwind Malakaitags: [npc, character, combat, magic, exploration, lore]er]
 type: npc
 ---
 
@@ -139,3 +139,156 @@ Being extorted by criminals
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Mage** (MM p.347)
+Modifications:
+- HP: 13
+- AC: 11
+- Notable abilities: Varies by individual
+
+
+> [!warning] ⚠️ Warning
+> Important safety or rule information
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Advantage**: See PHB p.173
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Equipment: PHB p.143-161)*
+*(Weapons: PHB p.146-147)*
+*(Armor: PHB p.144-146)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Leads to [[Location City the First Truth V1 the First Truth.svg]]
+- Requires [[Monster Lore Vgm]]
+- Influences [[Matre D' Pelagia Smoothcurrent]]
+- See also: [[gaming-set-xphb (items)]]
+- Parallels [[Reef Shark (D&D_References)]]
+- Originates from [[Crystal-Enhanced Democracy]]
+- Compare with [[ITEM01104_Lesser_Potion_of_Swiftness]]
+- Connects to [[Rural Resistance]]
+- Originates from [[MON00091_Aberrations_Creature_92]]
+- Related: [[Portrait NPC the Pressure King the Pressure King.svg]]
+- Compare with [[step_080]]
+- Compare with [[Portrait NPC High Cultivist Jasper Lifebinder High Cultivist Jasper Lifebinder.svg]]
+- Influences [[Bio-Magical Integration Laboratory (D&D_References)]]
+- See also: [[Chronarch Supreme]]
+- Related: [[step_044 (phase_017)]]
+- Requires [[step_061 (phase_075)]]
+- Connects to [[ITEM00694_Dragon_Scale_Helm_of_Grace]]
+- Influences [[step_035]]
+- Leads to [[Portrait NPC Lord Aldric Highwind Lord Aldric Highwind.svg]]
+- Influences [[Community Mediator Balance Wright]]
+- Requires [[step_046]]
+- Originates from [[Steel Depthguard (D&D_References)]]
+- Connects to [[Nautilus Threadmender (D&D_References)]]
+- Influences [[The Cold Houses 2]]
+- Originates from [[ITEM00035_Radiant_Hammer_of_Slaying]]
+- Affected by [[step_003 (phase_092)]]
+- Originates from [[Cell-Based Revolutionary Organization 2]]
+- Compare with [[step_020 (phase_097)]]
+- See also: [[step_084]]
+- Connects to [[step_038 (phase_010)]]
+- Related: [[step_032 (phase_053)]]
+- Affected by [[Dr Elena Mirthorn]]
+- Connects to [[NPC01577_Orion_Moonshadow_the_Seeker]]
+- Influences [[Magic_Items (03_Mechanics)_1]]
+- Compare with [[Location City Port Meridian Harbor District V1 Port Meridian Harbor District.svg]]
+- Connects to [[Symbols - Faction_Heraldry (D&D_References)]]
+- Related: [[LORE0055_History_of_the_Ancient_Pact]]
+- Affected by [[Indefinite Madness]]
+- Requires [[Location City Marina Clearwater Marina Clearwater.svg]]
+- Leads to [[step_074 (phase_091)]]
+- Parallels [[NPC01458_Aldric_Silverleaf_the_Scholar]]
+- Leads to [[LOC00210_Dungeons_Location_211]]
+- Parallels [[step_036 (phase_048)]]
+- Influences [[step_033]]
+- See also: [[Mind Spike Xphb]]
+- Affected by [[World Map (D&D_References)]]
+- Connects to [[Assets Locations Location City Liminal Constantinople V1 Liminal Constantinople.svg]]
+- Affected by [[Scene Scene Drowned Cathedral Vigil V1 Drowned Cathedral Vigil.png]]
+- Related: [[step_007 (phase_004)]]
+- Related: [[ENC00111_Combat_Encounter_112]]
+- Affected by [[LOC0113_WestBridge]]
+- Requires [[step_084 (phase_056)]]
+- Related: [[LORE00235_Legends_Entry_236]]
+- Related: [[Symbol Heraldry Mer... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- See also: [[Goblin Warrior Xmm]]
+- Leads to [[forgotten-realms-azuth (deities)]]
+- Affected by [[step_017 (phase_043)]]
+- Parallels [[step_025 (phase_092)]]
+- See also: [[step_029 (phase_069)]]
+- Requires [[Intervention Windows]]
+- Requires [[Underground Railroad Leader]]
+- Related: [[Assets Locations Location City Market Mystery V1 Market Mystery.svg]]
+- Connects to [[step_044]]
+- Requires [[step_011 (phase_080)]]
+- Affected by [[Cloud of Daggers Xphb]]
+- Connects to [[QUEST0073_The_Frozen_Fortress_Uprising]]
+- Leads to [[step_016 (phase_047)]]
+- Compare with [[step_037 (phase_018)]]
+- Related: [[trident-xphb (items)]]
+- Connects to [[Assets Locations Location City Seeds of the Past Seeds of the Past.svg]]
+- See also: [[High Administrator Cornelius Protocols (D&D_References)]]
+- Compare with [[location-city-sister-morwyn-sister-morwyn.svg]]
+- See also: [[INV 006]]
+- See also: [[SPELL00113_Divine_Spell_114]]
+- Parallels [[The Ascending Spirit]]
+- Related: [[Artisan Felix Reefwright]]
+- Requires [[Session 14 (06_Sessions)]]
+- See also: [[step_096 (phase_087)]]
+- See also: [[Tidal Chambers]]
+- Originates from [[Save the Citizens]]
+- Affected by [[The Tide Speakers]]
+- Leads to [[Light Repeating Crossbow Oota]]
+- Parallels [[step_090]]
+- Connects to [[step_041 (phase_100)]]
+- Related: [[Phantom Steed Xphb]]
+- Parallels [[Portrait NPC the King S Ears V2 the King S Ears.svg]]
+- Related: [[Crown of Pearls Eternal]]
+- Compare with [[step_049 (phase_050)]]
+- See also: [[QUEST00148_Main_Quest_149]]
+- Affected by [[Location City Echo Scribe Matthias V1 Echo Scribe Matthias.svg]]
+- Influences [[young-black-dragon-xmm]]
+- Originates from [[Assets Symbols Symbol Heraldry Deputy Archmerchant Scroll Deepmin Deputy Archmerchant Scroll Deepmin.svg]]
+- See also: [[NPC00965_Faelyn_Quicksilver_the_Mystic]]
+- Related: [[Siege Engineers]]
+- See also: [[LOC00156_Planes_Location_157]]
+- Originates from [[QUEST0084_Baron's_Request]]
+- Requires [[Mechanics Custom Classes]]
+- Affected by [[Symbol Heraldry Dep... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Influences [[step_061 (phase_050)]]
+- Connects to [[Assets Locations Location City Beast Master Krell Chainbreaker Beast Master Krell Chainbreaker.svg]]

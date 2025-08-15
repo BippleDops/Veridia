@@ -1,4 +1,5 @@
 ---
+created: 2025-08-15
 aliases: ["Corvus Moonshadow the Swift", "corvus moonshadow the swift", "Corvus Moonshadow Swift", "Swift the Moonshadow Corvus"]
 tags: [npc, character]
 type: npc
@@ -132,3 +133,140 @@ Needs help with personal quest
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Influences [[Surface Reconnection Coalition]]
+- Compare with [[step_083 (phase_077)]]
+- Related: [[Boots of the Winterlands Xdmg]]
+- See also: [[step_056 (phase_059)]]
+- Affected by [[Reality Monitoring Specialists (D&D_References)]]
+- Influences [[step_052 (phase_017)]]
+- See also: [[Eberron Olladra]]
+- See also: [[step_044 (phase_082)]]
+- See also: [[Dr Marina Truthsight]]
+- Affected by [[High Counci]]
+- Leads to [[EVENT00046_Natural_Event_47]]
+- Requires [[Safety Coordinator Reef Safeguard]]
+- Leads to [[step_001]]
+- Connects to [[ITEM01096_Refined_Oil_of_Vigor]]
+- See also: [[modron-duodrone-xmm (construct)]]
+- Affected by [[Aquabyssos]]
+- Parallels [[Marine Environmental Institute]]
+- Parallels [[NPC01837_Idris_Ashford_the_Bold]]
+- Requires [[step_011 (phase_020)]]
+- See also: [[Pearl Merchant Tidal Goldflow]]
+- Influences [[step_024 (phase_062)]]
+- Leads to [[LOC00123_Planes_Location_124]]
+- Compare with [[Whisper-Witch Naia Softcurrent 2]]
+- Affected by [[QUEST00270_Personal_Quest_271]]
+- Leads to [[NPC01287_Solas_Crystalbrook_the_Seeker]]
+- Parallels [[QUEST00195_Side_Quest_196]]
+- Leads to [[step_029 (phase_094)]]
+- Leads to [[The Amnesia Rehabilitation Centers (D&D_References)]]
+- Affected by [[Crystal Palace (D&D_References)]]
+- Leads to [[Heart Grove]]
+- Originates from [[QUEST00060_Side_Quest_61]]
+- Requires [[Umbral Scholar Valentina Depthlore (D&D_References)]]
+- Affected by [[Portrait NPC Goldwave Financial Offices Goldwave Financial Offices.svg]]
+- Related: [[step_081 (phase_093)]]
+- Compare with [[hit-points-hit-dice-by-size-mm (tables)]]
+- See also: [[The Deep Defense Project]]
+- Parallels [[SPELL0049_Divine_Binding]]
+- Connects to [[Keeper of the Past Elderly Morgan]]
+- Connects to [[tinderbox-xphb (items)]]
+- Leads to [[Location City Exchange Fairflow Exchange Fairflow.svg]]
+- Parallels [[step_074 (phase_039)]]
+- Related: [[step_086]]
+- Affected by [[Hell Hound Xmm]]
+- Connects to [[Thermal Shields]]
+- Affected by [[NPC01509_Faelyn_Ironforge_the_Scholar]]
+- Requires [[step_087]]
+- Connects to [[potion-of-poison-xdmg (items)]]
+- Connects to [[Aquabyssos_Content (02_Worldbuilding)]]
+- Affected by [[step_075]]
+- Compare with [[NPC00787_Cedric_Voidwalker_the_Scholar]]
+- Compare with [[The Void Currents (Lore)]]
+- Related: [[step_054 (phase_030)]]
+- Affected by [[ENC00092_Environmental_Encounter_93]]
+- Affected by [[figurine-of-wondrous-power-bronze-griffon-xdmg]]
+- See also: [[1-introduction (lost-mine-of-phandelver)]]
+- Influences [[Assets Locations Location City Shadow Current V1 Shadow Current.svg]]
+- Related: [[step_006 (phase_004)]]
+- See also: [[SPELL0010_Eldritch_Shield]]
+- Compare with [[step_030]]
+- Originates from [[Underground Training Facilities]]
+- Originates from [[step_012]]
+- Related: [[list-spells-feats-ritual-caster-xphb (lists)]]
+- Influences [[step_079 (phase_093)]]
+- Influences [[Vehicle Core Rules#12) Parasite Boarding & Biohazards]]
+- Leads to [[The Phantom Lighthouse 2]]
+- Compare with [[step_008 (phase_082)]]
+- Leads to [[step_052 (phase_086)]]
+- Compare with [[step_013 (phase_096)]]
+- Compare with [[Elven Sehanine Moonbow Mtf]]
+- Affected by [[step_030]]
+- Affected by [[Brother Matthias Inkdrinker]]
+- See also: [[Assets Portraits Portrait NPC the Reality Sick Mayor Lord Quantum Aldrich the Reality Sick Mayor Lord Quantum Aldrich.svg]]
+- Parallels [[step_049 (phase_018)]]
+- Compare with [[step_088 (phase_095)]]
+- Compare with [[NPC01952_Branwen_Brightblade_the_Wise]]
+- See also: [[Valley of Eternal Mourning]]
+- Connects to [[Gold Statuette Set With Rubies Xdmg]]
+- Affected by [[NPC2]]
+- Influences [[Tradeway Road]]
+- Connects to [[Long Term Madness]]
+- Leads to [[step_032 (phase_011)]]
+- Affected by [[Portrait NPC Captain Nautilus the Deep Wanderer V1 Captain Nautilus the Deep Wanderer.svg]]
+- Compare with [[Treasure Orc Trophies Vgm]]
+- Originates from [[step_018 (phase_050)]]
+- Influences [[Reef Truescale]]
+- Requires [[step_041 (phase_081)]]
+- Influences [[Location City Historical Prophetic Analysis Historical Prophetic Analysis.svg]]
+- Affected by [[Assets Locations Location City International Trade Routes International Trade Routes.svg]]
+- Related: [[DUN00144_Dungeon_145]]
+- See also: [[Location City Chief Engineer Vera Steamheart Chief Engineer Vera Steamheart.svg]]
+- Connects to [[04_Resources_Assets_Symbols_symbol-heraldry-elara-crystalline-elara-crystalline.svg]]
+- Related: [[Location City the Crystal Caves V1 the Crystal Caves.svg]]
+- Related: [[step_071]]
+- Influences [[The Crystal Queen Mother]]
+- Compare with [[Quest - The Memory Heist]]
+- Leads to [[Location City Dr Vera Spectrumseeker V1 Dr Vera Spectrumseeker.svg]]
+- Compare with [[item mastery#Nick]]
+- Affected by [[step_066]]
+- Requires [[Moderate Depth Coalition (D&D_References)]]
+- Influences [[Portrait NPC Abyssal Cathedral Abyssal Cathedral.svg_1 (Portraits)]]

@@ -1,6 +1,6 @@
 ---
-aliases: ["Urien Zephyrblade", "urien zephyrblade", "Zephyrblade Urien"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Urien Zephyrblade", "urien zephyrblade", "Zephyrblade Urientags: [npc, character, combat, social, puzzle, lore]er]
 type: npc
 ---
 
@@ -146,3 +146,132 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Mage** (MM p.347)
+Modifications:
+- HP: 46
+- AC: 13
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Parallels [[steel-wind-strike-xphb (spells)]]
+- Related: [[step_065 (phase_093)]]
+- Influences [[NPC01374_Ewan_Nightfall_the_Broken]]
+- Affected by [[Assets Locations Location City the Phantom Current the Phantom Current.svg]]
+- See also: [[Wind Songs 2]]
+- Affected by [[mounts-and-vehicles-waterborne-vehicles-phb (tables)]]
+- Connects to [[Archive of Depths (D&D_References)]]
+- Compare with [[step_055 (phase_051)]]
+- Influences [[portrait-npc-sire-v1-sire.svg_1 (Portraits)]]
+- See also: [[Infiltrate_Surgical_Facilities.png]]
+- Related: [[meazel-mpmm (monstrosity)]]
+- Connects to [[step_080]]
+- Connects to [[Crystal-Enhanced Businesses 2]]
+- Leads to [[QUEST00315_Side_Quest_316]]
+- Compare with [[egyptian-bast (deities)]]
+- Requires [[step_008 (phase_087)]]
+- Compare with [[step_011 (phase_013)]]
+- Affected by [[step_098 (phase_030)]]
+- See also: [[MON00061_Aberrations_Creature_62]]
+- Originates from [[Portrait NPC Admiral Thorne Blackwater V1 Admiral Thorne Blackwater.svg_1 (Portraits)]]
+- Originates from [[Ring of Elemental Command Air Xdmg]]
+- Related: [[Heroism Xphb]]
+- Compare with [[step_074 (phase_011)]]
+- See also: [[Ice Mephit Xmm]]
+- Parallels [[Planar Incursions]]
+- Leads to [[step_083 (phase_067)]]
+- Parallels [[step_018]]
+- Originates from [[step_019 (phase_092)]]
+- Related: [[step_013]]
+- Compare with [[Diplomat Supreme International (D&D_References)]]
+- Related: [[step_096 (phase_069)]]
+- Compare with [[Conditions_Reference]]
+- Parallels [[ENC00014_Social_Encounter_15]]
+- Originates from [[02_Worldbuilding_Places_Alternative-Path-Fled-City]]
+- Related: [[Art Brief Database]]
+- Connects to [[step_024 (phase_100)]]
+- Requires [[LOC00196_Cities_Location_197]]
+- Originates from [[step_021]]
+- Related: [[LORE00210_Prophecies_Entry_211]]
+- Leads to [[Assets Locations Location City Political Alliances Political Alliances.svg]]
+- Requires [[List Spells Classes Oath of Redemption Xge]]
+- Parallels [[Royal Academy of Magical Science]]
+- Compare with [[Create Bonfire Xge]]
+- Parallels [[Master Trader Darkmarke]]
+- Related: [[LORE00029_Prophecies_Entry_30]]
+- Compare with [[step_058 (phase_015)]]
+- Compare with [[Symbol Heraldry Family Matriarch Anvil Family Matriarch Anvil.svg]]
+- Related: [[NPC0054_Osric_Ironforge_the_Just]]
+- Requires [[yuan-ti-pit-master-mpmm]]
+- Originates from [[Portrait NPC the Shadow Singer Naia V1 the Shadow Singer Naia.svg]]
+- Affected by [[item-artifact-whelm-xdmg-v4-whelm-xdmg.png]]
+- Requires [[NPC0166_Gareth_Brightblade]]
+- Requires [[#Hubs]]
+- Influences [[Location City Master Chef Coral Seasweaver V1 Master Chef Coral Seasweaver.svg]]
+- Related: [[step_010]]
+- Originates from [[gith-tables-githzerai-personality-traits-mtf (tables)]]
+- Compare with [[Shadow Energy Processing Facilities]]
+- Originates from [[Location City Archkeeper Nereon Archkeeper Nereon.svg]]
+- See also: [[Location City the Bone Colosseum V1 the Bone Colosseum.svg]]
+- Leads to [[step_056 (phase_097)]]
+- Originates from [[Paladin Xphb Oath of Vengeance Xphb]]
+- See also: [[step_088 (phase_090)]]
+- Connects to [[The Sunken Markets]]
+- See also: [[The Pearl Divers Guil]]
+- Requires [[step_095]]
+- Affected by [[step_009 (phase_033)]]
+- See also: [[Symbol Heraldry the Anonymous Accord V1 the Anonymous Accord.svg]]
+- Affected by [[NPC00565_Qadim_Blackstone_the_Redeemed]]
+- Leads to [[step_027]]
+- Requires [[LOC0070_Havendale]]
+- Influences [[Portrait NPC Keeper of the Shattered Crown Marcus Crystalvein V2 Keeper of the Shattered Crown Marcus Crystalvein.svg]]
+- See also: [[Cultural Exchange Cente (Groups)]]
+- Parallels [[step_002]]
+- Related: [[Elf Eladrin Mtf]]
+- Compare with [[02_Worldbuilding_Procedures_Biological_Authentication]]
+- Related: [[Purifier Marcus Steelbane 2]]
+- Parallels [[Common Idioms and Sayings]]
+- Compare with [[SPELL00138_Arcane_Spell_139]]
+- Parallels [[QUEST00381_Side_Quest_382]]
+- Originates from [[Hybrid Abominations (Lore)]]
+- Related: [[step_048]]
+- Influences [[step_036 (phase_028)]]
+- Affected by [[Merfolk (D&D_References)]]
+- Requires [[Random Tricks Trick Objects]]
+- Leads to [[step_055 (phase_010)]]
+- Requires [[step_099 (phase_055)]]
+- Connects to [[Location City Wave Soothingtouch Wave Soothingtouch.svg]]
+- Connects to [[step_019 (phase_082)]]
+- See also: [[ITEM00319_Shadow_Dagger_of_Speed]]
+- Influences [[Faction-Quick-Reference]]
+- Requires [[The Dream Shard]]
+- Affected by [[LOC0028_Fallsford]]
+- Leads to [[step_062 (phase_015)]]
+- Requires [[Grinding_Workshop]]
+- Connects to [[NPC00157_Branwen_Goldleaf_the_Redeemed]]
+- Connects to [[Major Trading Companies 2]]
+- Originates from [[star-rose-quartz-xdmg (items)]]
+- Originates from [[Roleplaying a Beholder Beholder Personality]]
+- Originates from [[step_002 (phase_092)]]
+- See also: [[step_055 (phase_039)]]

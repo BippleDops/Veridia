@@ -1,6 +1,6 @@
 ---
-aliases: ["Thalia Ironwood the Broken", "thalia ironwood the broken", "Thalia Ironwood Broken", "Broken the Ironwood Thalia"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Thalia Ironwood the Broken", "thalia ironwood the broken", "Thalia Ironwood Broken", "Broken the Ironwood Thaliatags: [npc, character, combat, social, exploration, lore]er]
 type: npc
 ---
 
@@ -140,3 +140,128 @@ Competitor sabotaging business
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Advantage**: See PHB p.173
+- **Combat**: See PHB p.189-198
+- **Conditions**: See PHB p.290-292
+- **Death Saves**: See PHB p.197
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Originates from [[step_083 (phase_040)]]
+- Affected by [[step_033 (phase_094)]]
+- Influences [[Assets Portraits Portrait NPC Brother Marcus Steelbane Brother Marcus Steelbane.svg]]
+- Affected by [[step_090]]
+- Compare with [[step_051]]
+- Parallels [[Vehicle Ship Depth Piercer Research Sub Depth Piercer Research Sub.svg]]
+- Requires [[The Loyal Shadows]]
+- Influences [[NPC01481_Hestara_Ravenheart_the_Wise]]
+- Affected by [[step_074]]
+- Requires [[NPC00137_Rhiannon_Ravenheart]]
+- Originates from [[portrait-npc-aether-crystal-aether-crystal.svg_1 (Portraits)]]
+- Affected by [[NPC01427_Vesper_Dawnstrider_the_Lost]]
+- Influences [[LORE00063_Prophecies_Entry_64]]
+- Requires [[Egyptian Nephthys]]
+- See also: [[Portrait NPC Queen Lyralei Stormheart Queen Lyralei Stormheart.svg_1 (Portraits)]]
+- Originates from [[Guardian Captain Marcus Shieldwall (D&D_References)]]
+- Parallels [[Treasurer Elena Goldflow]]
+- See also: [[Information Systems Alliance (D&D_References)]]
+- Related: [[Location City Sage Prism Lightweaver Sage Prism Lightweaver.svg]]
+- Leads to [[step_055 (phase_041)]]
+- Requires [[The Spiral Sanctum]]
+- Connects to [[step_097 (phase_041)]]
+- Influences [[MON00093_Undead_Creature_94]]
+- Leads to [[step_051 (phase_047)]]
+- See also: [[dwarven-haela-brightaxe-mtf (deities)]]
+- Requires [[step_048 (phase_039)]]
+- Originates from [[Location City Experimental Medical Ethics Experimental Medical Ethics.svg]]
+- Parallels [[LORE00004_History_Entry_5]]
+- Compare with [[Bathyal Succession (D&D_References)]]
+- Parallels [[clockwork-iron-cobra-mpmm (construct)]]
+- See also: [[step_031]]
+- Leads to [[step_040 (phase_063)]]
+- Affected by [[LOC00152_Dungeons_Location_153]]
+- Influences [[Portrait NPC Deep Fortress Network V1 Deep Fortress Network.svg_1 (Portraits)]]
+- Related: [[SPELL00141_Arcane_Spell_142]]
+- Originates from [[red-dragon-xmm (legendary-group)]]
+- Parallels [[Crystals & Curiosities 2]]
+- Originates from [[Location City the Memory Storm Fields V1 the Memory Storm Fields.svg]]
+- Leads to [[Sage Analytical Mindweaver (D&D_References)]]
+- Originates from [[ITEM00025_Frost_Bow_of_Slaying]]
+- Compare with [[ENC00070_Combat_Encounter_71]]
+- Parallels [[LORE00261_Legends_Entry_262]]
+- Affected by [[Nightmarket Plaza]]
+- Originates from [[LOC00162_Planes_Location_163]]
+- Compare with [[Paper Whirlwind Rot]]
+- Influences [[Marcus Ledgerbor 2]]
+- Originates from [[The Seven Shards Mystery]]
+- Parallels [[Location City Keeper of Contracts Minerva Bindingword V1 Keeper of Contracts Minerva Bindingword.svg]]
+- Connects to [[11-chapter-11-gravenhollow (out-of-the-abyss)]]
+- Compare with [[Forge Master Korax Hammerdeep 2]]
+- Compare with [[Size Categories Mm]]
+- Connects to [[step_068 (phase_072)]]
+- Connects to [[dragonlance-zeboim-phb (deities)]]
+- Compare with [[step_046 (phase_067)]]
+- Compare with [[step_062 (phase_023)]]
+- Parallels [[Portrait NPC Pilgrim Guide Samuel Walkingfaith V1 Pilgrim Guide Samuel Walkingfaith.svg]]
+- Compare with [[location-city-middle-harbor-middle-harbor.svg]]
+- Compare with [[ITEM00197_Thunder_Axe_of_Speed]]
+- Requires [[dretch-xmm (fiend)]]
+- Requires [[Portrait NPC Lord General Harrison Ironhold V1 Lord General Harrison Ironhold.svg]]
+- Influences [[Githzerai Groups Githzerai Group Leader Mtf]]
+- Compare with [[Master Cultivators Guild (Groups)]]
+- Requires [[Deep Mother Spawning Pools (D&D_References)]]
+- See also: [[The First Failure 2]]
+- Originates from [[step_012 (phase_021)]]
+- Connects to [[Public Works Director Boris Bridgewright (D&D_References)]]
+- Affected by [[step_082 (phase_077)]]
+- Parallels [[dragongleam-hotdq (items)]]
+- Compare with [[Truth Serum Xdmg]]
+- Affected by [[Economic Systems and Currency (D&D_References)]]
+- Leads to [[Groundling (D&D_References)]]
+- Originates from [[ITEM01094_Distilled_Herb_of_Clarity]]
+- Influences [[chaos-bolt-xge (spells)]]
+- Parallels [[Port Meridian Council Chamber 2]]
+- Parallels [[The Great Circuit 2]]
+- Leads to [[step_005]]
+- Requires [[Assets Locations Location City Captain Trawl Netcaster V1 Captain Trawl Netcaster.svg]]
+- Compare with [[Blue Dragon Wyrmling Xmm]]
+- Connects to [[step_083]]
+- Connects to [[ITEM0103_Hidden_Tome_of_the_Dawn]]
+- See also: [[step_039 (phase_099)]]
+- Affected by [[NPC01130_Vesper_Oakenshield_the_Mystic]]
+- Requires [[Elven Rellavar Danuvien Mtf]]
+- Affected by [[Assets Art Save Transform Reality.png]]
+- Influences [[step_001 (phase_073)]]
+- Originates from [[art-elemental-mascot-scc]]
+- Parallels [[Symbol Heraldry Border Patrol Unit Border Patrol Unit.svg]]
+- Compare with [[Shadow Transformation Psychology]]
+- Compare with [[step_010 (phase_009)]]
+- Requires [[QUEST00255_Side_Quest_256]]
+- Influences [[step_092 (phase_061)]]
+- Influences [[ENC00091_Social_Encounter_92]]
+- Connects to [[young-green-dragon-xmm (dragon)]]
+- Originates from [[step_040 (phase_096)]]
+- Affected by [[Detection Technology Laboratory]]
+- Originates from [[Symbols - Faction_Heraldry (D&D_References)]]
+- Affected by [[passages-passage (tables)]]
+- See also: [[step_024]]
+- Affected by [[Keeper Luminous Truehart]]
+- Parallels [[step_061 (phase_062)]]

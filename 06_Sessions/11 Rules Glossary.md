@@ -8,6 +8,7 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
+tags: [combat, magic, exploration, lore]
 --- # 11 Rules Glossary ---
 
 ## Description
@@ -202,3 +203,170 @@ world: Both
 ## Notes
 
 *Additional notes*
+
+
+> [!dm] DM Note
+> This character is not who they seem
+
+## Prep Checklist
+
+### Npcs Needed
+- [ ] List key NPCs for this session
+- [ ] Prepare voices and mannerisms
+
+### Locations
+- [ ] Review location descriptions
+- [ ] Prepare battle maps if needed
+
+### Encounters
+- [ ] Balance combat encounters
+- [ ] Prepare social encounter notes
+
+### Props
+- [ ] Handouts ready
+- [ ] Music/ambiance selected
+
+### Rules
+- [ ] Review relevant rules
+- [ ] Prepare quick reference
+
+## Campaign Connection
+Connected to the main villain's plan
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Advantage**: See PHB p.173
+- **Combat**: See PHB p.189-198
+- **Conditions**: See PHB p.290-292
+- **Death Saves**: See PHB p.197
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Equipment: PHB p.143-161)*
+*(Weapons: PHB p.146-147)*
+*(Armor: PHB p.144-146)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Connects to [[QUEST00136_Personal_Quest_137]]
+- Connects to [[relics-uncommon-xdmg (tables)]]
+- Originates from [[Variant Spell Points Spell Points by Level]]
+- Requires [[SHOP00033_Specialty_Shop_34]]
+- Parallels [[NPC00971_Jorah_Ravenheart_the_Scholar]]
+- Connects to [[The Mourning Depths]]
+- Compare with [[Breaking the Deep (D&D_References)]]
+- Influences [[step_048 (phase_010)]]
+- Compare with [[Inverted Ballroom Wing 2]]
+- Compare with [[Councilor Luna Transcendent 2]]
+- Leads to [[step_004 (phase_012)]]
+- Originates from [[Shadow Navigation Charts]]
+- Originates from [[Assets Locations Location City Admiral Thalassa Stormcurrent V1 Admiral Thalassa Stormcurrent.svg]]
+- Compare with [[NPC00720_Hilda_Ironforge_the_Broken]]
+- Compare with [[step_026]]
+- See also: [[step_054 (phase_030)]]
+- Originates from [[Fighter Xphb Champion Xphb]]
+- See also: [[ITEM00089_Blazing_Bow_of_the_Ancients]]
+- Originates from [[portrait-npc-aria-lumengarde-aria-lumengarde.svg_1 (Portraits)]]
+- Affected by [[step_054]]
+- Affected by [[step_068]]
+- Parallels [[step_074 (phase_047)]]
+- Requires [[Navigation Master Course (D&D_References)]]
+- Connects to [[Master Shadow Harmonist Penumbra Duskweaver]]
+- Affected by [[step_068 (phase_042)]]
+- Requires [[EVENT00017_Natural_Event_18]]
+- Connects to [[Creature Creature Nightmare Xmm V3 Nightmare Xmm.png]]
+- Influences [[The Keening Cliffs]]
+- Affected by [[EVENT00002_Political_Event_3]]
+- Originates from [[step_040 (phase_004)]]
+- Leads to [[LOC00233_Planes_Location_234]]
+- Related: [[Assets Locations Location City Port Meridian Market District V1 Port Meridian Market District.svg]]
+- Affected by [[step_019 (phase_074)]]
+- Requires [[MON00113_Undead_Creature_114]]
+- Leads to [[Travel_Mishaps]]
+- Affected by [[09 Appendix a Lore Glossary]]
+- Requires [[Symbol Heraldry the Convergence Seekers the Convergence Seekers.svg]]
+- Originates from [[step_099 (phase_012)]]
+- Leads to [[Iron Spikes Xphb]]
+- See also: [[Gold Jewelry Box With Platinum Filigree Xdmg]]
+- See also: [[LORE00090_Prophecies_Entry_91]]
+- Leads to [[LOC00189_Planes_Location_190]]
+- Compare with [[Portrait NPC the Ancient Nobility V1 the Ancient Nobility.svg_1 (Portraits)]]
+- Leads to [[drow-1-armor-mm (items)]]
+- Requires [[Talisman of the Sphere Xdmg]]
+- Originates from [[Quest - The Seventh Shard]]
+- Connects to [[Regional Coordinator Harbor Watchful]]
+- Related: [[step_011]]
+- Influences [[Mantle of Spell Resistance Xdmg]]
+- Influences [[step_070 (phase_004)]]
+- Influences [[step_061 (phase_085)]]
+- Affected by [[flensing-claws-large-vgm (items)]]
+- Leads to [[INDEX]]
+- Compare with [[step_064]]
+- Connects to [[step_038]]
+- Originates from [[Gnome Tables Gnome Bonds Mtf]]
+- Related: [[Aquabyssos-Aethermoor Treaties]]
+- Originates from [[The Ancient Compact (D&D_References)]]
+- See also: [[step_095 (phase_095)]]
+- Affected by [[step_074 (phase_039)]]
+- Leads to [[enspelled-weapon-xdmg (items)]]
+- Affected by [[vicious-mockery-xphb (spells)]]
+- Connects to [[step_038 (phase_061)]]
+- Compare with [[couatl-xmm (celestial)]]
+- Originates from [[The Coral Estates (D&D_References)]]
+- Related: [[LORE00124_Prophecies_Entry_125]]
+- Compare with [[Create_New_Session.png]]
+- Requires [[step_019 (phase_056)]]
+- Leads to [[The Whispered Voice]]
+- Affected by [[Location City Crown of Eternal Ice Crown of Eternal Ice.svg]]
+- See also: [[Assets Locations Location City Portal Commander Marina Bridgewright V1 Portal Commander Marina Bridgewright.png]]
+- Affected by [[horn-of-valhalla-bronze-xdmg (items)]]
+- See also: [[step_065 (phase_068)]]
+- Requires [[ITEM00139_Frost_Axe_of_Slaying]]
+- Affected by [[Livestock Trader Big Ben Beastmaster]]
+- Leads to [[step_006 (phase_056)]]
+- Leads to [[whip-xphb (items)]]
+- Leads to [[Cultural Preservation]]
+- Compare with [[The Sunken Palace (D&D_References)]]
+- Related: [[step_060 (phase_023)]]
+- Parallels [[ENC00243_Combat_Encounter_244]]
+- See also: [[Order Of The Drowned Star]]
+- Originates from [[Adult Red Dragon Xmm]]
+- Requires [[step_054 (phase_031)]]
+- Compare with [[The Wind Shrine Archipelago (D&D_References)]]
+- Parallels [[Viscount Deeper-Still (D&D_References)]]
+- Influences [[Complete_NPC_Matrix.md]]
+- Requires [[Captain Voidguard]]
+- Affected by [[Adventure Boldexplorer]]
+- Influences [[Artistic Communities (D&D_References)]]
+- Related: [[Location City Wise Tide Truthseeker V1 Wise Tide Truthseeker.svg]]
+- Affected by [[Pirates 2]]
+- Influences [[Portrait NPC Surface Ambassador Lord Seaworthy Surface Ambassador Lord Seaworthy.svg]]
+- Affected by [[step_006 (phase_017)]]
+- Requires [[step_034 (phase_046)]]
+- Leads to [[norse-odur (deities)]]
+- Originates from [[step_048 (phase_094)]]
+- Affected by [[Depth Moss]]
+- Affected by [[LORE00183_Legends_Entry_184]]
+- Leads to [[step_009 (phase_031)]]

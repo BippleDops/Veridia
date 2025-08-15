@@ -1,6 +1,6 @@
 ---
-aliases: ["Zephyr Youngblood the Lost", "zephyr youngblood the lost", "Zephyr Youngblood Lost", "Lost the Youngblood Zephyr"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Zephyr Youngblood the Lost", "zephyr youngblood the lost", "Zephyr Youngblood Lost", "Lost the Youngblood Zephyrtags: [npc, character, combat, magic, lore]er]
 type: npc
 ---
 
@@ -140,3 +140,134 @@ Being extorted by criminals
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Guard** (MM p.347)
+Modifications:
+- HP: 12
+- AC: 15
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Advantage**: See PHB p.173
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Related: [[Symbol Heraldry Merchant Princes Merchant Princes.svg]]
+- Leads to [[step_014 (phase_056)]]
+- See also: [[step_060 (phase_061)]]
+- Requires [[Criminal Boss 2]]
+- Originates from [[Argyros the Silver]]
+- Affected by [[DUN00141_Dungeon_142]]
+- Leads to [[Creature Creature Githyanki Knight Xmm V4 Githyanki Knight Xmm.png]]
+- Related: [[step_029 (phase_032)]]
+- Related: [[Unite or Divide (Lore)]]
+- Originates from [[NPC01111_Ysara_Crystalbrook_the_Strong]]
+- Influences [[step_029 (phase_040)]]
+- Affected by [[ITEM00396_Blessed_Staff_of_the_Ancients]]
+- Affected by [[step_079]]
+- Parallels [[Hill Giant Xmm]]
+- Influences [[step_039]]
+- Connects to [[Imperial Vaults 2]]
+- Related: [[NPC00439_Thalia_Silverleaf]]
+- Leads to [[step_009]]
+- Leads to [[Location City the Transition Centers V1 the Transition Centers.svg]]
+- Parallels [[Assets Locations Location City the Purification Temples the Purification Temples.svg]]
+- Connects to [[Portrait NPC Emperor Abyssal the Deep Sighted V2 Emperor Abyssal the Deep Sighted.svg_1 (Portraits)]]
+- Leads to [[Memory Crystal Archivist Nautilus Storykeeper (D&D_References)]]
+- Requires [[QUEST00257_Side_Quest_258]]
+- Leads to [[08-chapter-7-spells (players-handbook-2024)]]
+- Influences [[step_024]]
+- Influences [[The Senator's Office]]
+- Originates from [[Assets Locations Location City Undead Services Bureau Undead Services Bureau.svg]]
+- Parallels [[Symbol Heraldry the Liminal Trading Company V1 the Liminal Trading Company.svg]]
+- See also: [[step_019]]
+- Related: [[step_035 (phase_048)]]
+- Related: [[pixie-wonderbringer-xmm (fey)]]
+- See also: [[human-names-celtic-female-xge (tables)]]
+- Compare with [[step_032 (phase_083)]]
+- Influences [[ENC00194_Combat_Encounter_195]]
+- Originates from [[step_051 (phase_020)]]
+- Related: [[improvising-damage (tables)]]
+- Compare with [[step_061 (phase_077)]]
+- Requires [[LOC0073_WestPeak]]
+- Originates from [[step_058 (phase_100)]]
+- Compare with [[step_035 (phase_047)]]
+- Influences [[Probability Shields]]
+- See also: [[step_097 (phase_006)]]
+- Originates from [[Assets Locations Location City Martha Hillbrook V1 Martha Hillbrook.svg]]
+- Parallels [[location-city-memory-thief-v1-memory-thief.svg]]
+- Parallels [[celtic-dunatis (deities)]]
+- Related: [[Assets Locations Location City Ambassador Silk Bridgewater V1 Ambassador Silk Bridgewater.svg]]
+- Leads to [[Mirror Window]]
+- Connects to [[step_015]]
+- Compare with [[location-city-crystalhaven-crystalhaven.svg]]
+- Related: [[SPELL00153_Arcane_Spell_154]]
+- Originates from [[04_Resources_Assets_Portraits_portrait-npc-lady-celestine-windborne-lady-celestine-windborne.svg_Quick_Ref]]
+- Originates from [[Initiate Shadow-Walker 2]]
+- See also: [[cloak-of-many-fashions-xdmg (items)]]
+- Related: [[Political System Rules (02_Worldbuilding)]]
+- Affected by [[Ambassador Current 2]]
+- See also: [[Infernal Constitution Xge]]
+- Originates from [[ability-checks-typical-difficulty-classes-phb (tables)]]
+- Related: [[step_091 (phase_018)]]
+- See also: [[step_084 (phase_031)]]
+- Affected by [[divine-word-xphb (spells)]]
+- Influences [[NPC00653_Vesper_Ironwood_the_Seeker]]
+- See also: [[ENC00222_Social_Encounter_223]]
+- Influences [[Assets Locations Location City Great Plague of Ages Past V1 Great Plague of Ages Past.svg]]
+- Leads to [[QUEST00069_Personal_Quest_70]]
+- Influences [[NPC00757_Zephyr_Quicksilver_the_Swift]]
+- Connects to [[Pressure Networks]]
+- Related: [[Scene Scene Sunken Library Revelation V2 Sunken Library Revelation.svg]]
+- See also: [[Cross-Cultural_Legal_Association]]
+- See also: [[step_007 (phase_067)]]
+- See also: [[step_034 (phase_046)]]
+- Connects to [[The Silent Watcher 2]]
+- Connects to [[half-orc (races)]]
+- Influences [[LOC00299_Dungeons_Location_300]]
+- See also: [[FAC00007_Guilds_8]]
+- Compare with [[devastation-orb-pota (items)]]
+- Requires [[Shadow Tide Syndicate]]
+- Related: [[The Shattered Sanctum_1]]
+- Influences [[SPELL00022_Divine_Spell_23]]
+- See also: [[LOC00226_Towns_Location_227]]
+- Requires [[The Infinite Garden 2]]
+- Influences [[step_066 (phase_066)]]
+- Leads to [[step_050 (phase_026)]]
+- Requires [[step_090 (phase_007)]]
+- Compare with [[MON0010_Fire_Reaper]]
+- Affected by [[Vote Vaults 2]]
+- Related: [[NPC01337_Elric_Dawnstrider_the_Scholar]]
+- Requires [[The Consciousness Archive Key 2]]
+- Leads to [[dwarves-on-the-move-purpose-of-travel-mtf (tables)]]
+- Affected by [[Portrait NPC Marina Red Tide Coralheart Aquabyssos V1 Marina Red Tide Coralheart Aquabyssos.svg_1 (Portraits)]]
+- Originates from [[Portrait NPC Senator Glaucus Brain Senator Glaucus Brain.svg_1 (Portraits)]]
+- Related: [[MON00045_Undead_Creature_46]]
+- Related: [[LORE00127_History_Entry_128]]
+- Influences [[Assets Locations Location City Religious Religious Groups.svg]]
+- See also: [[Portrait NPC Emperor Pelagic the Last V2 Emperor Pelagic the Last.svg_1 (Portraits)]]
+- Requires [[location-city-scarlet-torrent-scarlet-torrent.svg]]
+- Compare with [[step_050 (phase_005)]]
+- See also: [[LOC00011_Wilderness_Location_12]]
+- Influences [[Chief Temporal Engineer Paradox Timeweaver]]
+- Requires [[Assets Portraits Portrait NPC High King Aurelius Skyborn High King Aurelius Skyborn.svg]]
+- Connects to [[Assets Locations Location City Titan Foundationbearer V1 Titan Foundationbearer.svg]]

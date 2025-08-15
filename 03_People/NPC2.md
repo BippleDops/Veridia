@@ -1,6 +1,5 @@
 ---
-enhanced: true
-tags: [enhanced, 03_people]
+enhanced: trtags: [enhanced, 03_people, combat, exploration, lore]le]
 created: 2025-08-15T12:24:41.182434
 modified: 2025-08-15T12:24:41.182437
 aliases: [NPC2]
@@ -87,3 +86,22 @@ tags:
 ![[04_Resources/Assets/Portraits/NPCs/portrait_npc2.png]]
 ![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_npc2_people_friendly.png]]
 ![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_npc2_people_dramatic.png]]
+
+
+## Related Content
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+- **Movement**: See PHB p.190-192
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]

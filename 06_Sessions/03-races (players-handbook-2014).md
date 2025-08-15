@@ -8,6 +8,7 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
+tags: [combat, magic, exploration, lore]
 --- # 03-races ---
 
 ## Description
@@ -42,3 +43,164 @@ world: Both
 ## Notes
 
 *Additional notes*
+
+
+> [!dm] DM Note
+> This character is not who they seem
+
+## Prep Checklist
+
+### Npcs Needed
+- [ ] List key NPCs for this session
+- [ ] Prepare voices and mannerisms
+
+### Locations
+- [ ] Review location descriptions
+- [ ] Prepare battle maps if needed
+
+### Encounters
+- [ ] Balance combat encounters
+- [ ] Prepare social encounter notes
+
+### Props
+- [ ] Handouts ready
+- [ ] Music/ambiance selected
+
+### Rules
+- [ ] Review relevant rules
+- [ ] Prepare quick reference
+
+## Campaign Connection
+Connected to the main villain's plan
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[10K_GENERATION_REPORT]]
+- [[ULTIMATE_VAULT_ACHIEVEMENT]]
+- [[NEXT_LEVEL_IMPROVEMENTS]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Affected by [[NPC01735_Kaelen_Oakenshield_the_Broken]]
+- Requires [[step_017 (phase_100)]]
+- Influences [[Commander Tidal Strongcurrent]]
+- Requires [[step_071]]
+- Leads to [[side-quests (tables)]]
+- Originates from [[step_090 (phase_027)]]
+- Originates from [[Hill Encounters Levels 510 Xge]]
+- Related: [[Prismatic Plankton]]
+- Parallels [[Ochre Jelly Xmm]]
+- Requires [[step_017 (phase_006)]]
+- Originates from [[step_006 (phase_079)]]
+- Leads to [[Salamander Fire Snake Xmm]]
+- Influences [[Longstrider Xphb]]
+- See also: [[The War of Forgotten Currents]]
+- Affected by [[Location City Sage Prism Lightweaver V1 Sage Prism Lightweaver.svg]]
+- Compare with [[Master Resonant 2]]
+- Related: [[World Events]]
+- Related: [[step_006 (phase_041)]]
+- Requires [[ITEM0028_Eldritch_Orb_of_Power]]
+- Affected by [[Archive of the Absent]]
+- Originates from [[step_033]]
+- Originates from [[step_026]]
+- Related: [[Captain Thaddeus Stormwright]]
+- Connects to [[LOC00037_Towns_Location_38]]
+- Influences [[Assets Locations Location City Temple Ward Temple Ward.svg]]
+- See also: [[Location City Thomas Deepanchor Thomas Deepanchor.svg]]
+- Affected by [[step_070 (phase_082)]]
+- Affected by [[ENC0048_Random_Encounter_49]]
+- Requires [[02_Worldbuilding_Lore_Surface_World_Theories]]
+- Influences [[step_058 (phase_100)]]
+- See also: [[Item Artifact Dagger of Venom Xdmg V4 Dagger of Venom Xdmg.png]]
+- Affected by [[ITEM01489_Sturdy_Tool_Kit_of_Convenience]]
+- See also: [[portrait-npc-the-emperor-v1-the-emperor.svg_1 (Portraits)]]
+- Related: [[step_097]]
+- Connects to [[Luminar the Builder]]
+- Originates from [[LOC00121_Cities_Location_122]]
+- Influences [[ruin-grinder-scc]]
+- Influences [[step_079 (phase_039)]]
+- Related: [[step_080 (phase_076)]]
+- Originates from [[chain-shirt-xphb (items)]]
+- Parallels [[step_053 (phase_099)]]
+- See also: [[Determine Ability Modifiers Ability Scores and Modifiers Xphb]]
+- Connects to [[step_017]]
+- Originates from [[Luxury Crystal Market 2]]
+- Compare with [[step_044 (phase_018)]]
+- Connects to [[ITEM0014_Glorious_Shield_of_Power]]
+- Affected by [[Aarakocra Dmg]]
+- See also: [[step_027 (phase_015)]]
+- Connects to [[Assets Handouts Handout Handout Guild License Certificate V3 Guild License Certificate.png]]
+- Compare with [[step_095 (phase_086)]]
+- Leads to [[Pure Essence Crystals 2]]
+- Parallels [[The Disappeared Explorer]]
+- Parallels [[Portrait NPC King Torrhen Lumengarde King Torrhen Lumengarde.svg]]
+- Requires [[Prince Aurelius Lightbringer (D&D_References)]]
+- See also: [[LOC00087_Dungeons_Location_88]]
+- Affected by [[Admiral Darkwater 2]]
+- Requires [[Session 1 Shadows in the Senate-Session 1]]
+- Influences [[Engineer Shadowbuil]]
+- Related: [[Scenes - Atmospheric_Art (D&D_References)]]
+- Parallels [[step_053]]
+- Related: [[Crafting Complications Xge]]
+- Affected by [[Quest - The Corruption Investigation]]
+- Related: [[Location City Port Crystalfall V1 Port Crystalfall.svg]]
+- Parallels [[Temple of the Eternal Flame 2]]
+- Requires [[ITEM00550_Adamantine_Helm_of_Resistance]]
+- Parallels [[S-009 Void Moan Player (Encounters)]]
+- Related: [[Assets Locations Location City Living Coral Architecture V1 Living Coral Architecture.svg]]
+- Originates from [[step_009]]
+- Originates from [[step_075 (phase_035)]]
+- Compare with [[grassland-encounters-levels-15-xge (tables)]]
+- Requires [[step_054]]
+- Affected by [[ENC00250_Combat_Encounter_251]]
+- Connects to [[SPELL00037_Nature_Spell_38]]
+- Connects to [[The Northern Kingdoms (D&D_References)]]
+- Compare with [[Session 15 (06_Sessions)]]
+- Affected by [[resources-spell-scroll-costs-xge (tables)]]
+- Related: [[Kelp Forests (D&D_References)]]
+- Parallels [[10 Inspiration]]
+- See also: [[Forge Master Petra Hammerdeep]]
+- Compare with [[magic-item-table-a (tables)]]
+- Originates from [[Chronarch Supreme 2]]
+- Compare with [[Summon Elemental Xphb]]
+- Originates from [[Information Warfare]]
+- Affected by [[step_071 (phase_087)]]
+- Compare with [[LOC00059_Towns_Location_60]]
+- Requires [[step_073]]
+- Requires [[step_041 (phase_076)]]
+- Compare with [[Portrait NPC Throne of Bubbles V1 Throne of Bubbles.svg]]
+- Connects to [[NPC_Relationship_Web.png_1 (03_People)_Quick_Ref]]
+- Influences [[step_035 (phase_100)]]
+- Influences [[Location City Representative Coral Youngcurrent V1 Representative Coral Youngcurrent.svg]]
+- Influences [[step_038 (phase_074)]]
+- Influences [[step_017 (phase_052)]]
+- Affected by [[staff-of-flowers-xdmg (items)]]
+- Originates from [[Diplomatic Immunity Systems (D&D_References)]]
+- See also: [[Location City Marina Dreamwhisper V1 Marina Dreamwhisper.svg]]
+- Leads to [[step_082 (phase_011)]]
+- Parallels [[Royal Treasurer 2]]
+- Influences [[boon-of-irresistible-offense-xphb (feats)]]
+- Connects to [[Portal Chambers (D&D_References)]]

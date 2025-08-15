@@ -8,6 +8,7 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
+tags: [combat, magic, exploration, puzzle, lore]
 --- # 06-equipment ---
 
 ## Description
@@ -76,3 +77,163 @@ world: Both
 ## Notes
 
 *Additional notes*
+
+
+> [!dm] DM Note
+> This NPC knows more than they let on
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Dungeon Master's Guide (DMG) p.287
+- Xanathar's Guide to Everything (XGE) p.182
+- Volo's Guide to Monsters (VGM) p.182
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Advantage**: See PHB p.173
+- **Combat**: See PHB p.189-198
+- **Conditions**: See PHB p.290-292
+- **Death Saves**: See PHB p.197
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Equipment: PHB p.143-161)*
+*(Weapons: PHB p.146-147)*
+*(Armor: PHB p.144-146)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Related: [[Investigation Laboratories 2]]
+- See also: [[location-city-surface-traders-surface-traders.svg]]
+- Compare with [[Identity Trader Masquerad (D&D_References)]]
+- Affected by [[Cleric Xphb Life Domain Xphb]]
+- Parallels [[wings-of-flying-xdmg (items)]]
+- See also: [[Assets Locations Location City Grand Harbor Grand Harbor.svg]]
+- Influences [[Depth Crystal Harvest (D&D_References)]]
+- Related: [[frost-salamander-mpmm (elemental)]]
+- Compare with [[LOC00115_Dungeons_Location_116]]
+- Influences [[red-dragon-wyrmling-xmm (dragon)]]
+- Requires [[The Sky Academy]]
+- Affected by [[sequester-xphb (spells)]]
+- Connects to [[Memory Integration Devices (Items)]]
+- Leads to [[The Memory Pool]]
+- Parallels [[12 Credits (players-handbook-2024)]]
+- Influences [[ENC00109_Social_Encounter_110]]
+- Originates from [[step_100]]
+- Originates from [[ioun-stone-sustenance-xdmg (items)]]
+- Influences [[ITEM00178_Shadow_Bow_of_Slaying]]
+- Connects to [[NPC01030_Erasmus_Nightfall_the_Strong]]
+- Parallels [[step_086]]
+- Influences [[Portrait NPC Ques... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Connects to [[potion-of-invulnerability-xdmg (items)]]
+- Connects to [[elemental-cataclysm-xmm (elemental)]]
+- Related: [[Distant Spell Xphb]]
+- Requires [[step_085]]
+- Parallels [[step_013 (phase_092)]]
+- Requires [[Assets Locations Location City Port Meridian Merchant Quarter V1 Port Meridian Merchant Quarter.svg]]
+- Connects to [[Quest - Crystal Core Sabotage]]
+- Originates from [[step_078 (phase_052)]]
+- Related: [[Scream Crystals 2]]
+- Leads to [[LORE00000_History_Entry_1]]
+- Originates from [[Marina the Unifier (D&D_References)]]
+- Connects to [[10 combat#Dropping_to_0_Hit_Points#Monsters_and_Death]]
+- Leads to [[step_073 (phase_040)]]
+- Related: [[02_Worldbuilding_Lore_The_Emperor''s_Gambit]]
+- Requires [[step_046 (phase_094)]]
+- Related: [[Portrait NPC Deep Sea Explorer Captain Abyss Deep Sea Explorer Captain Abyss.svg]]
+- Connects to [[trophy-room (bastions)]]
+- Leads to [[SPELL00115_Divine_Spell_116]]
+- Originates from [[Assets Locations Location City Property Markets V1 Property Markets.svg]]
+- Compare with [[ENC0064_Random_Encounter_65]]
+- Parallels [[step_017 (phase_089)]]
+- See also: [[Character_Creation_Guide]]
+- Influences [[Deep_Current_Academy (Places)]]
+- Affected by [[step_020]]
+- Parallels [[narzugon-mpmm (fiend)]]
+- Parallels [[Location_Network_Graph.md]]
+- Related: [[Reality Stabilization Corps]]
+- Parallels [[step_066 (phase_100)]]
+- Compare with [[grell-xmm (aberration)]]
+- Connects to [[Mirror Image Xphb]]
+- Requires [[step_057]]
+- Compare with [[Portrait NPC Quest the Pretender V2 Quest the Pretender.svg]]
+- Requires [[Battle Maps Gallery]]
+- Originates from [[LOC00271_Wilderness_Location_272]]
+- Related: [[Creature Creature Goblin Hexer Xmm Goblin Hexer Xmm.png]]
+- Originates from [[The_Final_Sealing.png]]
+- Compare with [[step_085 (phase_054)]]
+- Affected by [[NPC01510_Thalia_Youngblood_the_Cunning]]
+- Compare with [[04_Resources_Assets_Symbols_symbol-heraldry-border-territories-border-territories.svg]]
+- Compare with [[Session 03 (06_Sessions)]]
+- Connects to [[ITEM00835_Void-touched_Tome_of_Dominion]]
+- Requires [[ITEM00553_Enchanted_Shield_of_the_Guardian]]
+- Originates from [[Crystal Caverns (D&D_References)]]
+- Originates from [[Location City Observatory Network Nodes V1 Observatory Network Nodes.svg]]
+- Compare with [[step_036 (phase_062)]]
+- See also: [[LOC00228_Cities_Location_229]]
+- Leads to [[step_031 (phase_015)]]
+- Originates from [[Periapt of Wound Closure Xdmg]]
+- See also: [[location-city-trade-war-trade-war.svg]]
+- Requires [[step_025 (phase_036)]]
+- Requires [[step_084]]
+- See also: [[NPC00789_Caelum_Ravenheart_the_Scholar]]
+- Affected by [[step_089]]
+- Related: [[step_099]]
+- Related: [[step_099]]
+- Connects to [[step_037 (phase_032)]]
+- See also: [[step_087 (phase_007)]]
+- Requires [[Extra-Dimensional Invasions]]
+- Influences [[The Windswept Heights]]
+- Compare with [[SPELL00113_Arcane_Spell_114]]
+- Parallels [[Assets Locations Location City the Hadal Depths V1 the Hadal Depths.svg]]
+- Influences [[EVENT00019_Political_Event_20]]
+- Connects to [[The Sorrow Gardens (D&D_References)]]
+- See also: [[Forgotten Realms Auril]]
+- See also: [[step_072]]
+- Originates from [[step_068]]
+- Compare with [[Portrait NPC the Azure Prophet Nerissa the Azure Prophet Nerissa.svg_1 (Portraits)]]
+- Connects to [[step_032 (phase_061)]]
+- Influences [[Dungeon Dressing General Features]]
+- Requires [[NPC00352_Idris_Quicksilver_the_Seeker]]
+- Originates from [[Master Cultivators Guild]]
+- Leads to [[layers-of-the-beastlands-xdmg (tables)]]
+- Originates from [[nycaloth-xmm (fiend)]]
+- Leads to [[LORE00093_History_Entry_94]]
+- Leads to [[Care Coordinator Nightlight]]
+- See also: [[haunting-revet-xmm]]
+- Originates from [[SPELL00030_Nature_Spell_31]]
+- Originates from [[step_003 (phase_099)]]

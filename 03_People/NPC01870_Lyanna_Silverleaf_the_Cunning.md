@@ -1,6 +1,6 @@
 ---
-aliases: ["Lyanna Silverleaf the Cunning", "lyanna silverleaf the cunning", "Lyanna Silverleaf Cunning", "Cunning the Silverleaf Lyanna"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Lyanna Silverleaf the Cunning", "lyanna silverleaf the cunning", "Lyanna Silverleaf Cunning", "Cunning the Silverleaf Lyannatags: [npc, character, combat, magic, social, lore]er]
 type: npc
 ---
 
@@ -143,3 +143,134 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Bandit** (MM p.343)
+Modifications:
+- HP: 46
+- AC: 15
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+- **Skills**: See PHB p.174-179
+- **Spellcasting**: See PHB p.201-205
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Requires [[Abstract Cosmic Forces]]
+- Leads to [[step_058 (phase_026)]]
+- Parallels [[Pressure's End]]
+- Influences [[Queen_Seraphina_Lumengarde (People)]]
+- Influences [[Speak With Animals Xphb]]
+- Affected by [[Chronological Compass 2]]
+- Compare with [[LOC00069_Towns_Location_70]]
+- Connects to [[04_Resources_Assets_Symbols_symbol-heraldry-the-great-recognition-the-great-recognition.svg]]
+- Requires [[Assets Locations Location City Current Riders Guild V1 Current Riders Guild.svg]]
+- Influences [[LORE00093_Prophecies_Entry_94]]
+- Originates from [[norse-skadi (deities)]]
+- Parallels [[Example Party ]]
+- Affected by [[Location City Courier Ripplestone V1 Courier Ripplestone.svg]]
+- Connects to [[Crimson Hand Strike Team]]
+- Compare with [[armor-of-lightning-resistance-xdmg (items)]]
+- Originates from [[step_074 (phase_062)]]
+- Compare with [[location-city-bubble-burst-bubble-burst.svg]]
+- Influences [[Mage Slayer Xphb]]
+- Requires [[step_067 (phase_020)]]
+- Related: [[Whisper]]
+- Requires [[Assets Portraits Portrait NPC Duke Blackwater S Estate Duke Blackwater S Estate.svg]]
+- Parallels [[Cloud Gardens 2]]
+- Originates from [[Green Dragon Wyrmling Xmm]]
+- Parallels [[Memory Authentication Device]]
+- Parallels [[Council of Currents (D&D_References)]]
+- Affected by [[Assets Locations Location City Captain Echo V1 Captain Echo.svg]]
+- Influences [[step_031 (phase_046)]]
+- Parallels [[Institute of Recursive Reality Studies]]
+- Originates from [[FAC00088_Cults_89]]
+- Affected by [[Quartermaster Judith Steadfast]]
+- Requires [[step_014 (phase_027)]]
+- Affected by [[step_050]]
+- Connects to [[Angels and Depths]]
+- Connects to [[step_060 (phase_073)]]
+- Parallels [[Frequency Manipulatio]]
+- Connects to [[Assets Locations Location City Abyssal Crystals V1 Abyssal Crystals.svg]]
+- Influences [[Ring of Invisibility Xdmg]]
+- Requires [[ITEM00690_Warded_Boots_of_Protection]]
+- Leads to [[Iron Pot Xphb]]
+- Related: [[Barkeep Salty Sarah (D&D_References)]]
+- Compare with [[Whisper Collective]]
+- Leads to [[Chorus Master Melodia Depthsong (D&D_References)]]
+- Leads to [[Princess Lyralei]]
+- Affected by [[Treasurer Goldenshadow]]
+- Related: [[Location City Emergency Management Emergency Management.svg]]
+- Leads to [[Symbol Heraldry Treasurer Goldenshadow Treasurer Goldenshadow.svg]]
+- Leads to [[fear-xphb (spells)]]
+- Affected by [[Historic Shipwreck Site]]
+- See also: [[location-city-poseidon-poseidon.svg]]
+- Compare with [[step_027 (phase_024)]]
+- Connects to [[step_002]]
+- Parallels [[Marianas Abys (D&D_References)]]
+- Originates from [[step_060 (phase_032)]]
+- Requires [[step_062 (phase_074)]]
+- Compare with [[Location City Builder Coral Architect V1 Builder Coral Architect.png]]
+- Related: [[QUEST00148_Main_Quest_149]]
+- Related: [[Implements Uncommon Xdmg]]
+- Requires [[Passwall Xphb]]
+- Requires [[step_079 (phase_090)]]
+- Compare with [[SPELL00035_Divine_Spell_36]]
+- Affected by [[03_Mechanics_Underwater_Adaptation_Rules_Quick_Ref]]
+- Requires [[NPC00088_Vesper_Oakenshield]]
+- Leads to [[Bullywug Warrior Xmm]]
+- Requires [[step_006 (phase_056)]]
+- Compare with [[step_010 (phase_008)]]
+- Affected by [[step_089 (phase_046)]]
+- Affected by [[step_034 (phase_071)]]
+- See also: [[Location City Sommelier Bacchus Deepbottle V1 Sommelier Bacchus Deepbottle.svg]]
+- Originates from [[step_099]]
+- Requires [[greyhawk-vecna-xdmg (deities)]]
+- Related: [[downtime-activity-pit-fighting-xge (variant-rules)]]
+- Originates from [[The Sunken City of Aeridor]]
+- Influences [[identify-important-npcs-adventure-patrons (tables)]]
+- Originates from [[step_013 (phase_097)]]
+- Related: [[step_068 (phase_044)]]
+- Affected by [[step_086 (phase_072)]]
+- Parallels [[summon-beast-xphb (spells)]]
+- Compare with [[ITEM00382_Frost_Hammer_of_Accuracy]]
+- Related: [[The Overflow]]
+- Requires [[step_087 (phase_064)]]
+- Related: [[leviathan-mpmm (elemental)]]
+- Affected by [[step_080 (phase_048)]]
+- See also: [[MON00066_Aberrations_Creature_67]]
+- Affected by [[potion-of-giant-strength-xdmg (items)]]
+- Leads to [[SHOP00064_Specialty_Shop_65]]
+- Originates from [[ITEM01490_Ornate_Lock_of_Durability]]
+- See also: [[step_040 (phase_024)]]
+- See also: [[awakened-zurkhwood-oota (plant)]]
+- Compare with [[step_065 (phase_068)]]
+- Originates from [[step_099 (phase_073)]]
+- Related: [[Assets Portraits Portrait NPC Marina Red Tide Coralheart Aquabyssos Marina Red Tide Coralheart Aquabyssos.svg]]
+- Compare with [[LOC00270_Dungeons_Location_271]]
+- Leads to [[Surface Observation Posts 2]]
+- Requires [[Demon Customization Tables Demon Personality Traits Mtf]]
+- See also: [[LORE00289_History_Entry_290]]
+- Parallels [[Location City the Gloom Gardens V1 the Gloom Gardens.svg]]
+- Originates from [[Whisper Archives 2]]
+- Originates from [[The Current Readers 2]]
+- Requires [[Master Tidal Engineer Coral Wavewright 2]]
+- Affected by [[Assets Locations Location City Memory Crystal Archivist Nautilus Storykeeper V1 Memory Crystal Archivist Nautilus Storykeeper.svg]]

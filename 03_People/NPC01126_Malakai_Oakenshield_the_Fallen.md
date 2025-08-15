@@ -1,6 +1,6 @@
 ---
-aliases: ["Malakai Oakenshield the Fallen", "malakai oakenshield the fallen", "Malakai Oakenshield Fallen", "Fallen the Oakenshield Malakai"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Malakai Oakenshield the Fallen", "malakai oakenshield the fallen", "Malakai Oakenshield Fallen", "Fallen the Oakenshield Malakaitags: [npc, character, combat, magic, social, exploration, lore]er]
 type: npc
 ---
 
@@ -141,3 +141,133 @@ Competitor sabotaging business
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Commoner** (MM p.345)
+Modifications:
+- HP: 44
+- AC: 13
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Conditions**: See PHB p.290-292
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Originates from [[Location City the Memory Storm Fields the Memory Storm Fields.svg]]
+- Originates from [[Assets Locations Location City the Cerulean Trench the Cerulean Trench.svg]]
+- Originates from [[QUEST00135_Personal_Quest_136]]
+- Related: [[step_055 (phase_061)]]
+- Affected by [[Community Education]]
+- See also: [[ENC00065_Environmental_Encounter_66]]
+- Affected by [[Heart Grove]]
+- Influences [[Carnelian Xdmg]]
+- Influences [[The Memory-Fragmented Child, Little Luna Patchwork]]
+- Parallels [[step_033 (phase_021)]]
+- Related: [[step_005 (phase_009)]]
+- See also: [[step_059 (phase_058)]]
+- Requires [[ENC00256_Combat_Encounter_257]]
+- Related: [[Faction_Name (02_Worldbuilding)]]
+- Requires [[Monster Xphb]]
+- Related: [[step_019 (phase_059)]]
+- See also: [[Deep Guard (D&D_References)]]
+- See also: [[location-city-umberlee-v1-umberlee.svg]]
+- Compare with [[step_076 (phase_051)]]
+- Parallels [[cloud-giant-smiling-one-mpmm (giant)]]
+- Requires [[Portrait NPC Lady Resistance Brightshield V1 Lady Resistance Brightshield.svg]]
+- Leads to [[amulet-of-the-planes-xdmg (items)]]
+- Parallels [[MON00002_Undead_Creature_3]]
+- Originates from [[step_065 (phase_076)]]
+- Originates from [[MON00115_Constructs_Creature_116]]
+- Leads to [[International Pressur]]
+- Compare with [[Harpy Xmm]]
+- Originates from [[step_065]]
+- Related: [[step_079 (phase_014)]]
+- Originates from [[damage-xphb (variant-rules)]]
+- Requires [[step_024]]
+- Compare with [[NPC00154_Dara_Winterborn]]
+- Requires [[Charter of  Rights]]
+- Leads to [[04_Resources_Assets_Locations_location-city-reef-guard-captain-torrent-shellborn-v1-reef-guard-captain-torrent-shellborn.svg]]
+- Connects to [[LORE0049_Secret_of_the_Dragon_Wars]]
+- Related: [[LORE00183_Legends_Entry_184]]
+- Leads to [[ENC00157_Environmental_Encounter_158]]
+- Parallels [[Portrait NPC the Lady S Garden Society the Lady S Garden Society.svg]]
+- See also: [[The Deep Mother (D&D_References)]]
+- See also: [[Portrait NPC Embassy of Eternal Shadows V2 Embassy of Eternal Shadows.svg]]
+- See also: [[LORE00147_Legends_Entry_148]]
+- Affected by [[step_073 (phase_063)]]
+- Requires [[The Reflection Pools 2]]
+- Compare with [[ITEM00282_Blessed_Staff_of_Slaying]]
+- Leads to [[Deep Compressmaster (D&D_References)]]
+- Compare with [[step_036 (phase_041)]]
+- Originates from [[step_013 (phase_083)]]
+- Related: [[Ring of Spell Turning Xdmg]]
+- Originates from [[Items - Artifact Visuals]]
+- Leads to [[NPC00809_Caelum_Xendar_the_Wanderer]]
+- Influences [[Describe Appearance and Personality]]
+- Connects to [[Artistic Communities 2]]
+- Parallels [[DUN00061_Dungeon_62]]
+- Connects to [[Void Krakens (D&D_References)]]
+- Parallels [[step_012 (phase_060)]]
+- Related: [[Assets Locations Location City Chronomancer Paradox V1 Chronomancer Paradox.svg]]
+- Influences [[ENC00130_Environmental_Encounter_131]]
+- Compare with [[step_014 (phase_038)]]
+- Influences [[Convergence Maze]]
+- Influences [[Monk Xphb Way of the Sun Soul Xge]]
+- Connects to [[The Depth Blessed Fisherman Captain Sal]]
+- Requires [[step_006]]
+- Requires [[Human Names English Male Xge]]
+- Originates from [[step_097]]
+- Related: [[step_089]]
+- Connects to [[NPC00101_Caelum_Hawthorne]]
+- Affected by [[Symbol Heraldry Witness Protection Network V1 Witness Protection Network.svg]]
+- Connects to [[Lady Vivienne Thornwhisper (D&D_References)]]
+- Compare with [[Port Meridian - Market Square]]
+- Influences [[Marina''s Identity Crisis]]
+- Parallels [[hat-of-disguise-xdmg (items)]]
+- Leads to [[Harmonic Defense Grid]]
+- Requires [[SPELL00037_Nature_Spell_38]]
+- Affected by [[step_049 (phase_083)]]
+- Parallels [[location-city-port-authority-v1-port-authority.svg]]
+- Related: [[The Memory Walls (D&D_References)]]
+- Affected by [[Emergency Signal Mirrors]]
+- Originates from [[Market Prophet 2]]
+- Compare with [[step_049 (phase_058)]]
+- Requires [[NPC00634_Gareth_Silverleaf_the_Scholar]]
+- Related: [[step_066 (phase_054)]]
+- Requires [[location-city-vote-vaults-v1-vote-vaults.svg]]
+- Affected by [[Sealing Wax]]
+- Originates from [[step_086 (phase_083)]]
+- Related: [[ITEM00434_Enchanted_Shield_of_Protection]]
+- Compare with [[step_005]]
+- Influences [[Assets Locations Location City Chronicle Keeper Sage Deepmemory V1 Chronicle Keeper Sage Deepmemory.svg]]
+- Requires [[step_091 (phase_036)]]
+- Leads to [[step_038 (phase_023)]]
+- Parallels [[step_058 (phase_026)]]
+- Originates from [[step_073]]
+- Influences [[Portrait NPC Deep Mother Priestess Sira V1 Deep Mother Priestess Sira.svg_1 (Portraits)]]
+- Leads to [[Symbol Heraldry Purist Coalition V1 Purist Coalition.svg]]
+- See also: [[ring-of-x-ray-vision-xdmg (items)]]
+- Compare with [[NPC01189_Aeliana_Voidwalker_the_Bold]]
+- Related: [[04_Resources_Assets_Locations_location-city-master-archivist-thomas-scrollkeeper-master-archivist-thomas-scrollkeeper.png]]
+- Originates from [[The Great Circuit]]
+- Compare with [[deities-of-eberron (tables)]]
+- Influences [[DUN00021_Dungeon_22]]
+- Leads to [[Deepwater Trading Consortium]]

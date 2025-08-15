@@ -1,6 +1,6 @@
 ---
-aliases: ["Branwen Lightbringer the Swift", "branwen lightbringer the swift", "Branwen Lightbringer Swift", "Swift the Lightbringer Branwen"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Branwen Lightbringer the Swift", "branwen lightbringer the swift", "Branwen Lightbringer Swift", "Swift the Lightbringer Branwentags: [npc, character, combat, magic, exploration, lore]er]
 type: npc
 ---
 
@@ -142,3 +142,152 @@ Knows secret about major threat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Priest** (MM p.348)
+Modifications:
+- HP: 39
+- AC: 14
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Dungeon Master's Guide (DMG) p.110
+- Monster Manual (MM) p.143
+- Volo's Guide to Monsters (VGM) p.275
+- Mordenkainen's Tome of Foes (MTF) p.178
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+- **Spellcasting**: See PHB p.201-205
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Parallels [[The Meridian Amnesia Zone]]
+- See also: [[xvart-mpmm (monstrosity)]]
+- Connects to [[step_069]]
+- Influences [[The Observatory of Depths]]
+- Related: [[Submersible_Schematic_Pressure_Gate_Scou]]
+- Related: [[Marquis Storm Tempest]]
+- Leads to [[Arsenal Keeper Thane Ironwill]]
+- Affected by [[Egyptian Ptah]]
+- Related: [[Portrait NPC Reflection Captain Vantage V1 Reflection Captain Vantage.svg]]
+- Influences [[step_068]]
+- Related: [[NPC01107_Kaelen_Lightbringer_the_Swift]]
+- Affected by [[Crystal Forest]]
+- Influences [[The Chronicle Scribes]]
+- Originates from [[NPC00030_Urien_Winterborn]]
+- Leads to [[step_019 (phase_006)]]
+- Related: [[step_079 (phase_073)]]
+- Influences [[Thalassa the Pathfinder (D&D_References)]]
+- Compare with [[step_056 (phase_069)]]
+- Originates from [[QUEST00012_Side_Quest_13]]
+- Affected by [[Quest1 (01_Adventures)]]
+- Connects to [[Location City Crystal Powered Vessels Crystal Powered Vessels.svg]]
+- See also: [[Emergency Response Coordinator Time Guardia]]
+- Influences [[LORE00198_Prophecies_Entry_199]]
+- Connects to [[step_001 (phase_086)]]
+- Leads to [[Divination_Expanded]]
+- Leads to [[step_015 (phase_100)]]
+- Compare with [[Monsters and Motivations Monster Motivation]]
+- See also: [[Portrait NPC the Void Watchers Shrines V1 the Void Watchers Shrines.svg_1 (Portraits)]]
+- Requires [[spells-scc (tables)]]
+- Requires [[step_036 (phase_091)]]
+- Originates from [[Portrait NPC Otherworldly Patron V1 Otherworldly Patron.svg_1 (Portraits)]]
+- Leads to [[NPC00455_Branwen_Nightfall]]
+- Requires [[Assets Locations Location City the Wandering Atoll V1 the Wandering Atoll.svg]]
+- Compare with [[step_083]]
+- See also: [[Random_Encounters - Aquabyssos Encounters]]
+- See also: [[EVENT00090_Magical_Event_91]]
+- Compare with [[step_049 (phase_022)]]
+- Connects to [[Assets Locations Location City Social Clubs V1 Social Clubs.svg]]
+- Requires [[artisans-tools-xphb (items)]]
+- Related: [[Location City the Free Current V1 the Free Current.svg]]
+- Related: [[Ancient Historian Memento (D&D_References)]]
+- Originates from [[Drow 2 Armor Mm]]
+- Related: [[The Tethyan Hegemony (D&D_References)]]
+- Originates from [[Galley Xphb]]
+- Influences [[LOC0056_Marshridge]]
+- Affected by [[Earl Thaddeus Blackthorn 2]]
+- Connects to [[SPELL00073_Nature_Spell_74]]
+- Parallels [[step_088 (phase_044)]]
+- Parallels [[LOC0035_Valestead]]
+- Requires [[ENC00487_Combat_Encounter_488]]
+- Affected by [[step_038 (phase_034)]]
+- Connects to [[SPELL0010_Eldritch_Shield]]
+- See also: [[wings-of-flying-xdmg (items)]]
+- Originates from [[Location City Memory Sharing Techniques V1 Memory Sharing Techniques.svg]]
+- Affected by [[step_098 (phase_044)]]
+- Affected by [[Celtic Goibhniu]]
+- Connects to [[animated-rug-of-smothering-xmm (construct)]]
+- Requires [[Aarakocra Skirmisher Xmm]]
+- Leads to [[bead-of-force-xdmg (items)]]
+- Requires [[sword-wraith-commander-mpmm (undead)]]
+- Affected by [[step_045 (phase_062)]]
+- Requires [[EVENT00034_Natural_Event_35]]
+- Related: [[magic-mouth-xphb (spells)]]
+- Requires [[Gambling Complications Xge]]
+- Requires [[Master Appraiser Keen-Eye Korvyn]]
+- Compare with [[Location City Enchanter Valdris Peacewarden V1 Enchanter Valdris Peacewarden.svg]]
+- Parallels [[location-city-port-abyssos-v1-port-abyssos.svg]]
+- Compare with [[Portrait NPC Ambassador Korvin Blacktide V2 Ambassador Korvin Blacktide.svg]]
+- Affected by [[The Hammer Squad]]
+- Requires [[mass-heal-xphb (spells)]]
+- Connects to [[Kraken (D&D_References)]]
+- See also: [[Assets Portraits Portrait NPC Quest the Brother S Burden Quest the Brother S Burden.svg]]
+- Leads to [[MON00129_Constructs_Creature_130]]
+- Related: [[Soul Cage Xge]]
+- Leads to [[unarmed-fighting-xphb (feats)]]
+- Influences [[step_046 (phase_030)]]
+- Related: [[step_059 (phase_010)]]
+- Originates from [[Location City Scholar Thalosseus V1 Scholar Thalosseus.svg]]
+- See also: [[step_088 (phase_012)]]
+- See also: [[The Umbral Market Plaza (D&D_References)]]
+- Affected by [[step_070 (phase_069)]]
+- Requires [[step_028 (phase_031)]]
+- Affected by [[Portrait NPC the Parasite Priests V2 the Parasite Priests.svg]]
+- Compare with [[Marcus Goldweaver (D&D_References)]]
+- Related: [[Captain Valeria (D&D_References)]]
+- Affected by [[Shipwreck Cove]]
+- See also: [[LORE00183_Prophecies_Entry_184]]
+- Parallels [[Crystal_Academy (Places)]]
+- See also: [[Mind Flayer Psion Vgm]]
+- Influences [[List Spells Classes Warlock]]
+- Influences [[ENC00006_Social_Encounter_7]]
+- Compare with [[Quest - Seeds of the Deep]]
+- Originates from [[step_057 (phase_004)]]
+- Related: [[The Unity Shard]]
+- Compare with [[Battle Priest Cassius Depthshield 2]]
+- Influences [[Spell Scroll Level 2 Xdmg]]
+- Originates from [[Location City Marcus Clausewright V1 Marcus Clausewright.svg]]
+- Influences [[The Sorrowmaster (D&D_Statblocks)]]
+- Requires [[step_056 (phase_024)]]
+- Related: [[short-rest-xphb]]

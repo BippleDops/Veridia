@@ -1,6 +1,6 @@
 ---
-aliases: ["Orion Nightfall the Broken", "orion nightfall the broken", "Orion Nightfall Broken", "Broken the Nightfall Orion"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Orion Nightfall the Broken", "orion nightfall the broken", "Orion Nightfall Broken", "Broken the Nightfall Oriontags: [npc, character, combat, magic, puzzle, lore]er]
 type: npc
 ---
 
@@ -143,3 +143,133 @@ Family member has gone missing
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Commoner** (MM p.345)
+Modifications:
+- HP: 29
+- AC: 16
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Advantage**: See PHB p.173
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- See also: [[The Spire of Justice]]
+- Influences [[step_097 (phase_010)]]
+- Parallels [[yan-c-bin-pota (legendary-group)]]
+- See also: [[Assets Symbols Symbol Heraldry Deep Sea Agricultural Research Institut Deep Sea Agricultural Research Institut.svg]]
+- Affected by [[Mirror Merchant Marina 2]]
+- Related: [[Memory Trader Kellian (D&D_References)]]
+- Connects to [[step_050 (phase_038)]]
+- Compare with [[Biological Authentication]]
+- Requires [[step_035]]
+- Parallels [[step_017]]
+- Related: [[ITEM00503_Adamantine_Boots_of_Protection]]
+- Related: [[Scene Scene Deep Mother S Tentacles Rising V2 Deep Mother S Tentacles Rising.png]]
+- Compare with [[Sky_Events_Pack_D]]
+- Leads to [[short-rest-xphb]]
+- Affected by [[Infernal Constitution Xge]]
+- Parallels [[Magic Item Special Features Magic Minor Property Xdmg]]
+- Originates from [[Assets Locations Location City Pressure Suit Malfunction V1 Pressure Suit Malfunction.svg]]
+- Related: [[DUN00181_Dungeon_182]]
+- Requires [[Assets Locations Location City Memory Tide Pools V1 Memory Tide Pools.svg]]
+- Related: [[04_Resources_Assets_Portraits_portrait-npc-captain-twin-reality-marsh-captain-twin-reality-marsh.svg_Quick_Ref]]
+- Originates from [[Quest - Criminal Alliance_1 (01_Adventures)]]
+- Affected by [[Location City High Tide Keeper Nautilus Primordial V1 High Tide Keeper Nautilus Primordial.svg]]
+- Parallels [[Lord Aldric Thornwhisper (D&D_References)]]
+- Compare with [[step_056 (phase_040)]]
+- Leads to [[NPC_Template]]
+- Compare with [[QUEST00172_Main_Quest_173]]
+- See also: [[Assets Item Artifact Warhammer Xphb V5 Warhammer Xphb.png]]
+- See also: [[Crystal Markets]]
+- Requires [[House Brightshield]]
+- Influences [[Druidcraft Xphb]]
+- Originates from [[quandrix-primer-scc (items)]]
+- Parallels [[QUEST00292_Side_Quest_293]]
+- Connects to [[LORE00255_History_Entry_256]]
+- Influences [[potion-of-speed-xdmg (items)]]
+- Related: [[step_009 (phase_082)]]
+- Requires [[EVENT00077_Political_Event_78]]
+- Affected by [[QUEST00132_Side_Quest_133]]
+- See also: [[ITEM00920_Superior_Powder_of_Healing]]
+- Connects to [[ENC00385_Combat_Encounter_386]]
+- Affected by [[NPC01766_Urien_Moonshadow_the_Wise]]
+- Leads to [[Umbros Shadowdrain]]
+- See also: [[step_042 (phase_014)]]
+- Leads to [[LOC00264_Cities_Location_265]]
+- Affected by [[step_032 (phase_004)]]
+- Related: [[step_008]]
+- Compare with [[Tenebrarum (D&D_References)]]
+- See also: [[Harbor Master Captain Dockwise]]
+- Connects to [[Location City High Hierophant Meridius V1 High Hierophant Meridius.svg]]
+- Leads to [[step_066 (phase_006)]]
+- Influences [[Doctrine_Quick_Reference]]
+- Affected by [[LORE00051_Legends_Entry_52]]
+- Connects to [[step_063]]
+- Connects to [[dawn-war-zehir-dmg (deities)]]
+- Originates from [[step_091 (phase_027)]]
+- Parallels [[Location City Teacher Miranda Hopekeeper V1 Teacher Miranda Hopekeeper.svg]]
+- See also: [[Countess Marina Stormcrest (D&D_References)]]
+- Connects to [[downtime-activity-building-a-stronghold (variant-rules)]]
+- Originates from [[Allied Special Forces]]
+- Affected by [[Celestial Spirit Avenger Xphb]]
+- Related: [[Crystal Technology 3 (D&D_References)]]
+- Leads to [[Assets Locations Location City Truth Verification Magic Truth Verification Magic.svg]]
+- Parallels [[Communications Manager Jessica Spokesperson]]
+- Compare with [[NPC01535_Wynne_Winterborn_the_Wanderer]]
+- Originates from [[NPC01374_Ewan_Nightfall_the_Broken]]
+- Requires [[The Depth Wardens (D&D_References)]]
+- Influences [[Information Systems Alliance 2]]
+- Influences [[Portrait NPC Empress Tethys the Ever Drowning V1 Empress Tethys the Ever Drowning.svg_1 (Portraits)]]
+- Affected by [[The Healing Waters Chalice 2]]
+- Influences [[step_062 (phase_034)]]
+- Originates from [[step_082 (phase_010)]]
+- Originates from [[LOC00103_Dungeons_Location_104]]
+- Connects to [[The Convergence Garden Festival]]
+- Affected by [[step_038]]
+- Influences [[FAC00036_Cults_37]]
+- Related: [[devouring-blade-xphb (optional-features)]]
+- Parallels [[Cultural_Integration_Council]]
+- See also: [[step_080]]
+- Leads to [[Emperor Thalassius]]
+- Connects to [[Memory Tides]]
+- See also: [[Location City Silent Guardian Marcus V1 Silent Guardian Marcus.svg]]
+- Leads to [[step_040 (phase_098)]]
+- Parallels [[Ancestor Memorial Spaces 2]]
+- See also: [[step_021]]
+- Compare with [[step_003]]
+- Related: [[step_082 (phase_028)]]
+- Connects to [[step_040]]
+- Affected by [[High Diplomat Coral Bridgewater (Lore)]]
+- Parallels [[gith-tables-githyanki-bonds-mtf (tables)]]
+- Influences [[step_097]]
+- See also: [[NPC01345_Pyria_Oakenshield_the_Wise]]
+- Originates from [[LOC00202_Dungeons_Location_203]]
+- Leads to [[step_015 (phase_094)]]
+- Leads to [[step_027 (phase_089)]]
+- Connects to [[LORE00288_Legends_Entry_289]]
+- Leads to [[LOC00253_Wilderness_Location_254]]
+- Related: [[Duergar Laduguer Mtf]]
+- Leads to [[Silverscale_Banking_House.png]]
+- Requires [[step_016 (phase_068)]]
+- Compare with [[Creature Creature Nightwalker Mpmm V3 Nightwalker Mpmm.png]]
+- See also: [[MON0015_Blood_Reaper]]

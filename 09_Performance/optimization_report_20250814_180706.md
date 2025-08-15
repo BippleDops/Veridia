@@ -1,6 +1,5 @@
 ---
-enhanced: true
-tags: [enhanced, 13_performance]
+enhanced: trtags: [enhanced, 13_performance, combat, exploration, lore]ce]
 created: 2025-08-15T12:24:41.009515
 modified: 2025-08-15T12:24:41.009519
 aliases: [optimization report 20250814 180706]
@@ -100,3 +99,34 @@ modified: '2025-01-15'
 ![[04_Resources/Assets/Maps/World/Continents/world_reports_bidirectional_links_gm.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_reports_bidirectional_links_player.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_witness_reports_gm.png]]
+
+
+> [!dm] DM Note
+> This location connects to the main plot
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[ULTIMATE_VAULT_ACHIEVEMENT]]
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+- [[ULTIMATE_ASSET_REPORT]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*

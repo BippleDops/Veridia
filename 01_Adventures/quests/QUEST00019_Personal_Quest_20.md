@@ -37,3 +37,10 @@ Complete the personal quest objective.
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+
+## Rewards
+- Favor with an influential faction
+
+## Quest Hook
+A mysterious note arrives

@@ -9,6 +9,7 @@ created: '2025-08-14'
 modified: '2025-08-14'
 evaluated: '2025-08-14'
 improvements: 20
+tags: [combat, lore]
 ---
 
 ## 🔧 Deep Evaluation Improvements
@@ -104,3 +105,129 @@ improvements: 20
 ## References
 
 - [[Player Portal]]
+
+
+> [!dm] DM Note
+> This location connects to the main plot
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+
+## Connections
+
+- Requires [[step_070 (phase_031)]]
+- Requires [[Cultural Districts]]
+- Requires [[step_044]]
+- Related: [[step_071 (phase_043)]]
+- See also: [[The Starlight Chamber]]
+- Connects to [[The Last Priest 2]]
+- Related: [[LOC00200_Cities_Location_201]]
+- Influences [[LORE00223_Legends_Entry_224]]
+- Parallels [[LOC00217_Wilderness_Location_218]]
+- Compare with [[ENC00344_Combat_Encounter_345]]
+- Influences [[dark-gift-of-norganas-the-finger-of-oblivion-cos]]
+- Related: [[Portrait NPC Abyssos Prime Government V1 Abyssos Prime Government.svg]]
+- Affected by [[Axe Beak Xmm]]
+- Leads to [[step_100 (phase_095)]]
+- Connects to [[LOC00016_Planes_Location_17]]
+- Leads to [[Forgotten Realms Mielikki]]
+- Influences [[Public Safety 2]]
+- Connects to [[Well Made Tapestry That Is 10 Feet by 10]]
+- Influences [[Lumengarde]]
+- Leads to [[LOC0121_Bridgeford]]
+- Connects to [[NPC0151_Freya_Darkwater]]
+- Leads to [[step_092]]
+- Compare with [[Raise Dead Xphb]]
+- Influences [[Mordenkainens Sword Xphb]]
+- Leads to [[Symbol Heraldry Aquabyssos Faction Web Aquabyssos Faction Web.svg]]
+- Originates from [[Symbol Heraldry Amb... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Originates from [[LOC00164_Wilderness_Location_165]]
+- Parallels [[Location City the Frozen Throne V1 the Frozen Throne.svg]]
+- Influences [[greyhawk-fharlanghn-xdmg (deities)]]
+- See also: [[LOC00188_Planes_Location_189]]
+- Influences [[ITEM00897_Void-touched_Tome_of_Eternity]]
+- Related: [[Portrait NPC Quest the Tide War V2 Quest the Tide War.svg]]
+- See also: [[iron-bands-of-bilarro-xdmg (items)]]
+- See also: [[09 Templates]]
+- Connects to [[step_040 (phase_068)]]
+- Influences [[Coral Gardens District (D&D_References)]]
+- Influences [[step_029 (phase_007)]]
+- See also: [[Deep Sea Environmental Specialist]]
+- See also: [[step_024]]
+- See also: [[Deep Mother 3 (D&D_References)]]
+- Parallels [[The Whisper Keepers 2]]
+- Compare with [[SPELL00154_Arcane_Spell_155]]
+- See also: [[Saving Throws Proficiency Bonus by Challenge]]
+- Influences [[Wisdom Futureseer 2]]
+- Leads to [[Ability Scores Xphb]]
+- Affected by [[step_028]]
+- Leads to [[Factions the Tide Singers]]
+- Originates from [[step_027]]
+- Parallels [[FAC00013_Orders_14]]
+- Influences [[green-slime-xdmg (traps-hazards)]]
+- See also: [[LOC0009_Groveton]]
+- Requires [[step_083]]
+- Requires [[Portrait NPC Jasper Three Eyes Flint V1 Jasper Three Eyes Flint.png]]
+- See also: [[Dawn War Lolth Dmg]]
+- Requires [[The Deepwatch Guard]]
+- Influences [[step_017]]
+- Leads to [[step_005 (phase_091)]]
+- Requires [[Shadow Energy Processing Facilities]]
+- Connects to [[The Crystal Academy Council]]
+- Connects to [[sword-of-answering-answerer (items)]]
+- Compare with [[fey-teleportation-xge (feats)]]
+- Related: [[oil-of-taggit-xdmg (items)]]
+- Originates from [[04_Resources_Assets_Art_Places_Astrologer_Prime_Cassandra_Starweaver.png]]
+- Connects to [[bone-devil-xmm (fiend)]]
+- Affected by [[step_080 (phase_055)]]
+- Related: [[MON00059_Constructs_Creature_60]]
+- Originates from [[Portrait NPC Archbishop Mordecai Stormwright Archbishop Mordecai Stormwright.svg_1 (Portraits)]]
+- See also: [[List Spells Optional Features Clench of the North Wind]]
+- See also: [[step_032 (phase_041)]]
+- Influences [[Faction Intelligence (D&D_References)]]
+- Related: [[Item Artifact Poisoners Kit Xphb V2 Poisoners Kit Xphb.png]]
+- Leads to [[Assets Locations Location City Specimen Careful Lifeguard V1 Specimen Careful Lifeguard.svg]]
+- Leads to [[02_Worldbuilding_Groups_Truth_Keepers]]
+- Connects to [[animal-lord-forager-xmm (celestial)]]
+- Leads to [[step_047 (phase_085)]]
+- Compare with [[Location City Dockmaster Bruno Steadyanchor V1 Dockmaster Bruno Steadyanchor.svg]]
+- Influences [[step_066 (phase_018)]]
+- Leads to [[LORE00319_Legends_Entry_320]]
+- Affected by [[Shadow Cultis]]
+- See also: [[Symbols - Faction Heraldry]]
+- Leads to [[step_051]]
+- Originates from [[step_052 (phase_030)]]
+- Connects to [[Emergency Navigation Coordinator Storm Guidewright]]
+- Related: [[step_075 (phase_099)]]
+- Compare with [[MON00020_Constructs_Creature_21]]
+- Requires [[step_092]]
+- Leads to [[step_092]]
+- Parallels [[MOC_Locations]]
+- See also: [[Doctor Harmony Whisperfall 2]]
+- Originates from [[step_065]]
+- Connects to [[step_039 (phase_017)]]
+- Originates from [[step_052 (phase_084)]]
+- Leads to [[MON00028_Constructs_Creature_29]]
+- Influences [[Treasure_Tables]]
+- Related: [[Blink Dog Xmm]]
+- Affected by [[Map or Scroll Case Xphb]]
+- Connects to [[bullywug-dmg (races)]]
+- Connects to [[Northern Principalities 2]]
+- Leads to [[step_093]]
+- Parallels [[Assets Symbols Symbol Heraldry the Cipher Current the Cipher Current.svg]]

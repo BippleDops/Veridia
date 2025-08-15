@@ -8,6 +8,7 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
+tags: [combat, magic, exploration, lore]
 --- # 10 Appendix B Creature Stat Blocks ---
 
 ## Description
@@ -50,3 +51,163 @@ world: Both
 ## Notes
 
 *Additional notes*
+
+
+> [!dm] DM Note
+> The villain has agents watching this place
+
+## Prep Checklist
+
+### Npcs Needed
+- [ ] List key NPCs for this session
+- [ ] Prepare voices and mannerisms
+
+### Locations
+- [ ] Review location descriptions
+- [ ] Prepare battle maps if needed
+
+### Encounters
+- [ ] Balance combat encounters
+- [ ] Prepare social encounter notes
+
+### Props
+- [ ] Handouts ready
+- [ ] Music/ambiance selected
+
+### Rules
+- [ ] Review relevant rules
+- [ ] Prepare quick reference
+
+## Campaign Connection
+Former associate of the party's patron
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[10K_GENERATION_REPORT]]
+- [[ULTIMATE_VAULT_ACHIEVEMENT]]
+- [[NEXT_LEVEL_IMPROVEMENTS]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Equipment: PHB p.143-161)*
+*(Weapons: PHB p.146-147)*
+*(Armor: PHB p.144-146)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Connects to [[5 Shared Campaigns]]
+- Compare with [[Assets Locations Location City Chef Amara Tastecurrent Chef Amara Tastecurrent.svg]]
+- Originates from [[Quest - Economic Development]]
+- Requires [[ITEM0084_Eldritch_Crown_of_the_Dawn]]
+- Influences [[Chorus Master Melodia Depthsong (D&D_References)]]
+- See also: [[step_088 (phase_021)]]
+- See also: [[ITEM00878_Divine_Amulet_of_Destiny]]
+- Originates from [[04_Resources_Assets_Portraits_portrait-npc-captain-torren-stormwright-captain-torren-stormwright.svg_Quick_Ref]]
+- Parallels [[Silver Sword Mtf]]
+- Requires [[Market Heist]]
+- Compare with [[Reef Tenders (D&D_References)]]
+- Requires [[step_095]]
+- Originates from [[deities-of-dragonlance-neutral-phb (tables)]]
+- Influences [[Vampire Nightbringer Xmm]]
+- Requires [[The Surgical Sanctum (D&D_References)]]
+- Affected by [[Crystal_Observatory]]
+- Related: [[Portrait NPC Captain Tempest Eye Marelda V2 Captain Tempest Eye Marelda.svg]]
+- Compare with [[Depth Speak Variations 2]]
+- Affected by [[The Seven Shard Guardians (D&D_References)]]
+- Influences [[ITEM00616_Mithril_Cloak_of_Resistance]]
+- Affected by [[LORE00084_History_Entry_85]]
+- Originates from [[International Void Treaties 2]]
+- Leads to [[LOC00201_Dungeons_Location_202]]
+- Connects to [[neothelid-mpmm (aberration)]]
+- Parallels [[NPC01654_Kaelen_Frostwhisper_the_Scholar]]
+- Parallels [[step_040 (phase_026)]]
+- Requires [[Determine Aquabyssos (Lore)]]
+- Leads to [[The Deep Sovereign]]
+- Requires [[Assets Locations Location City the Perfect Symbiosis the Perfect Symbiosis.svg]]
+- Connects to [[Giant Vulture Xmm]]
+- Compare with [[Celestial Gardens]]
+- Related: [[NPC00056_Gavril_Underhill]]
+- Influences [[Dr. Memory Lane]]
+- Related: [[The Great Shattering]]
+- See also: [[step_074]]
+- See also: [[NPC00232_Hilda_Blackstone]]
+- Influences [[step_070]]
+- Requires [[step_060 (phase_087)]]
+- Affected by [[LORE00299_Prophecies_Entry_300]]
+- Requires [[step_025]]
+- Related: [[step_095 (phase_074)]]
+- Related: [[step_058]]
+- Related: [[Whisper-Witch Naia Softcurrent 2]]
+- Requires [[step_082 (phase_020)]]
+- See also: [[Healer Tide-Touch 2]]
+- Compare with [[ITEM00447_Fortified_Plate_of_the_Guardian]]
+- Influences [[Shadow-Touched Individuals]]
+- Connects to [[Scene Scene the Party S First Glimpse of Abyssos Prime the Party S First Glimpse of Abyssos Prime.svg]]
+- Parallels [[step_059]]
+- Leads to [[step_098]]
+- Related: [[Amethyst Xdmg]]
+- Related: [[Final Challenge Rating Experience Points by]]
+- Connects to [[Location City the Forgotten One the Forgotten One.png]]
+- Related: [[Item Finder]]
+- Leads to [[Emergency Response Protocol]]
+- Influences [[The Sorrow Gardens (D&D_References)]]
+- Influences [[Physical Variations Scale Pattern Vgm]]
+- Influences [[step_059 (phase_056)]]
+- Compare with [[ITEM01103_Lesser_Crystal_of_Vigor]]
+- Originates from [[white-dragon-wyrmling-xmm (dragon)]]
+- Leads to [[NPC01368_Corvus_Crystalbrook_the_Cunning]]
+- Affected by [[LOC00248_Cities_Location_249]]
+- Leads to [[Fire Chief Michael Rescue]]
+- Affected by [[NPC01183_Fiora_Jadeclaw_the_Mystic]]
+- Related: [[Session 3 Underwater Chase]]
+- See also: [[NPC00288_Branwen_Ashford_the_Seeker]]
+- Parallels [[step_008 (phase_042)]]
+- Originates from [[step_062 (phase_079)]]
+- Leads to [[step_046 (phase_060)]]
+- Requires [[flame-tongue-xdmg (items)]]
+- Requires [[step_074]]
+- Requires [[step_020 (phase_028)]]
+- Related: [[step_058]]
+- Related: [[step_011 (phase_029)]]
+- Leads to [[step_094 (phase_095)]]
+- Affected by [[Symbol Heraldry the Great Cacophony V1 the Great Cacophony.svg]]
+- Compare with [[SPELL00109_Arcane_Spell_110]]
+- Connects to [[Natural Order Movemen]]
+- Connects to [[step_049 (phase_096)]]
+- Affected by [[Deep Current Academy]]
+- Parallels [[Circle of Power Xphb]]
+- Leads to [[step_023]]
+- Related: [[NPC01593_Xander_Ironforge_the_Wanderer]]
+- Originates from [[Clues_by_Location.png]]
+- Compare with [[Shadow Physiology and Anatomy 2]]
+- Requires [[DM_Advice_Articles]]
+- Parallels [[Location City the Noble Quarter Market V1 the Noble Quarter Market.svg]]
+- Compare with [[Phase Spider Xmm]]
+- Connects to [[Finn Worldwalker]]
+- Related: [[step_012 (phase_070)]]
+- Requires [[ENC00042_Environmental_Encounter_43]]
+- Parallels [[D-005 Shadow Bloom Player (Encounters)]]
+- Influences [[LORE00100_History_Entry_101]]
+- Requires [[NPC00320_Malakai_Hawthorne_the_Redeemed]]
+- Originates from [[step_040]]
+- Related: [[celtic-math-mathonwy (deities)]]
+- Connects to [[NPC01173_Alaric_Voidwalker_the_Broken]]
+- Requires [[Gith Random Height and Weight Mtf]]
+- See also: [[Depth Safety Authorit 2]]
+- Compare with [[step_095 (phase_099)]]

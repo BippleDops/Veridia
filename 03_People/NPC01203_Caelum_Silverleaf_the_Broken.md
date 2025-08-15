@@ -1,4 +1,5 @@
 ---
+created: 2025-08-15
 aliases: ["Caelum Silverleaf the Broken", "caelum silverleaf the broken", "Caelum Silverleaf Broken", "Broken the Silverleaf Caelum"]
 tags: [npc, character]
 type: npc
@@ -147,3 +148,142 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Mordenkainen's Tome of Foes (MTF) p.269
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+- **Spellcasting**: See PHB p.201-205
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Compare with [[Empress Tethys the Ever-Drowning (D&D_References)]]
+- Influences [[location-city-sage-nereon-v1-sage-nereon.svg]]
+- Leads to [[step_091 (phase_073)]]
+- Parallels [[QUEST00153_Main_Quest_154]]
+- Connects to [[Witness Reports 2]]
+- Originates from [[The Temple of First Tide (D&D_References)]]
+- Requires [[step_026 (phase_045)]]
+- Related: [[Reality Maintenance Department]]
+- Leads to [[Corruption Gardens]]
+- Originates from [[Shadow Information Brokers (D&D_References)]]
+- Parallels [[LOC00219_Towns_Location_220]]
+- Connects to [[SPELL00075_Divine_Spell_76]]
+- Compare with [[Thermal Vent Fields]]
+- Affected by [[Location City Cora Peaceweaver Cora Peaceweaver.svg]]
+- Originates from [[Crystal Forest (D&D_References)]]
+- Parallels [[The Missing Diplomat]]
+- Affected by [[SHOP00026_Specialty_Shop_27]]
+- Connects to [[LOC00265_Dungeons_Location_266]]
+- Affected by [[LORE00160_History_Entry_161]]
+- Affected by [[Portrait NPC Lady Catherine Mourning Lady Catherine Mourning.svg]]
+- Affected by [[Cinematic Sequences]]
+- Originates from [[Spirit Guardians Xphb]]
+- Connects to [[location-city-surge-mixmaster-surge-mixmaster.png]]
+- Requires [[Portrait NPC Militant Priest Abyssal Militant Priest Abyssal.svg_1 (Portraits)]]
+- Leads to [[step_076 (phase_087)]]
+- Originates from [[step_090 (phase_087)]]
+- Originates from [[LOC0095_LowerGrove]]
+- Influences [[NPC01098_Erasmus_Goldleaf_the_Fallen]]
+- Parallels [[step_068 (phase_096)]]
+- Requires [[Memory_Keepers]]
+- Leads to [[Kelp Forest Monasteries (D&D_References)]]
+- Leads to [[step_059 (phase_086)]]
+- Affected by [[step_021 (phase_049)]]
+- Leads to [[Kelp Extraction Tools]]
+- Related: [[step_008 (phase_057)]]
+- Connects to [[step_067 (phase_069)]]
+- Parallels [[Random Loot]]
+- Affected by [[step_080 (phase_062)]]
+- Affected by [[step_071 (phase_056)]]
+- Connects to [[Assets Portraits Portrait NPC Storm Empress Tempestas Maelstrom Storm Empress Tempestas Maelstrom.svg]]
+- Affected by [[Githzerai Groups Githzerai Mission Purpose]]
+- Influences [[Portrait NPC Abyssos Prime Throne of Bubbles V1 Abyssos Prime Throne of Bubbles.svg_1 (Portraits)]]
+- Affected by [[NPC0097_Rhea_Goldleaf]]
+- Affected by [[ITEM01014_Superior_Incense_of_Clarity]]
+- Leads to [[NPC00999_Pyria_Stormwind_the_Risen]]
+- Parallels [[Portrait NPC Sir Ruben Redtape V2 Sir Ruben Redtape.svg_1 (Portraits)]]
+- Originates from [[step_006]]
+- Affected by [[step_094 (phase_047)]]
+- Requires [[step_020]]
+- Connects to [[Lady Resistance Brightshield]]
+- Originates from [[Greater Restoration Xphb]]
+- Parallels [[Location City the Living Weapon the Living Weapon.svg]]
+- Parallels [[step_019 (phase_087)]]
+- Influences [[explosives]]
+- Affected by [[ITEM00280_Venomous_Staff_of_Power]]
+- Compare with [[LOC0026_Marshford]]
+- Compare with [[Healer Dawnshade]]
+- Parallels [[Portrait NPC Queen Glacialis V1 Queen Glacialis.svg_1 (Portraits)]]
+- Influences [[Corrupt Officials]]
+- Originates from [[greyhawk-iuz-xdmg (deities)]]
+- Leads to [[NPC00224_Dara_Jadeclaw]]
+- Affected by [[ENC00132_Social_Encounter_133]]
+- See also: [[step_032 (phase_060)]]
+- Influences [[Magic Item Special Features Magic History Xdmg]]
+- Related: [[Portrait NPC Free Current Safe Houses V1 Free Current Safe Houses.svg_1 (Portraits)]]
+- Parallels [[Archmage Velina Duskweaver]]
+- Influences [[longsword-xphb (items)]]
+- Leads to [[step_064 (phase_066)]]
+- Leads to [[Location City the Grove Keepers the Grove Keepers.svg]]
+- Affected by [[ENC00290_Social_Encounter_291]]
+- Requires [[hourglass]]
+- Related: [[step_087 (phase_044)]]
+- Requires [[ENC00006_Combat_Encounter_7]]
+- Parallels [[Bountiful Luck Xge]]
+- Influences [[investiture-of-ice-xge (spells)]]
+- Compare with [[Portrait NPC Duke... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Parallels [[Festival Grounds]]
+- Originates from [[QUEST00383_Side_Quest_384]]
+- Connects to [[step_041 (phase_029)]]
+- Connects to [[Void Breaker Staffs (Items)]]
+- Affected by [[step_021 (phase_095)]]
+- Related: [[step_084 (phase_050)]]
+- Originates from [[Shadow Citizenship Act (D&D_References)]]
+- Connects to [[step_087 (phase_015)]]
+- See also: [[The Merchant's Covenant (D&D_References)]]
+- Influences [[step_097 (phase_075)]]
+- Leads to [[Ancient Empire]]
+- Requires [[NPC01896_Qadim_Blackstone_the_Wise]]
+- Compare with [[step_085 (phase_043)]]
+- Related: [[ITEM00502_Enchanted_Gauntlets_of_Protection]]
+- Affected by [[step_090]]
+- Influences [[Knight of the Order Cos]]
+- Affected by [[step_059 (phase_020)]]
+- See also: [[step_005 (phase_083)]]
+- Originates from [[step_084 (phase_090)]]
+- Parallels [[Location City Transportation Guild Masters V1 Transportation Guild Masters.svg]]
+- Influences [[adventure-patrons-patron-hooks-xdmg (tables)]]
+- Compare with [[Portrait NPC Fina... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Requires [[M L-07 the Anchor Cataclysm Player]]
+- See also: [[Thunderous Smite Xphb]]

@@ -8,6 +8,7 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
+tags: [combat, magic, exploration, lore]
 --- # 04 Classes ---
 
 ## Description
@@ -38,3 +39,177 @@ world: Both
 ## Notes
 
 *Additional notes*
+
+
+> [!dm] DM Note
+> Ancient magic still lingers here
+
+## Prep Checklist
+
+### Npcs Needed
+- [ ] List key NPCs for this session
+- [ ] Prepare voices and mannerisms
+
+### Locations
+- [ ] Review location descriptions
+- [ ] Prepare battle maps if needed
+
+### Encounters
+- [ ] Balance combat encounters
+- [ ] Prepare social encounter notes
+
+### Props
+- [ ] Handouts ready
+- [ ] Music/ambiance selected
+
+### Rules
+- [ ] Review relevant rules
+- [ ] Prepare quick reference
+
+## Campaign Connection
+Knows the location of a key artifact
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Monster Manual (MM) p.205
+- Volo's Guide to Monsters (VGM) p.288
+
+## Related Content
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Parallels [[Captain Contraband (D&D_References)]]
+- Originates from [[Elder Matthias Stoneward (D&D_References)]]
+- See also: [[step_051 (phase_053)]]
+- Affected by [[portrait-npc-sirens-sirens.svg_1 (Portraits)]]
+- See also: [[LOC00142_Wilderness_Location_143]]
+- Originates from [[step_093]]
+- Leads to [[step_017]]
+- Affected by [[ITEM00180_Blazing_Axe_of_the_Ancients]]
+- Parallels [[step_015]]
+- Requires [[step_006]]
+- Compare with [[step_036 (phase_094)]]
+- Connects to [[Assets Item Artifact Travelers Clothes Xphb V6 Travelers Clothes Xphb.png]]
+- Compare with [[The Convergence Seekers]]
+- Influences [[SPELL00145_Divine_Spell_146]]
+- See also: [[step_051 (phase_044)]]
+- See also: [[step_064]]
+- Leads to [[Location City the Resonant Hermit V1 the Resonant Hermit.svg]]
+- Leads to [[portrait-npc-senator-marius-v2-senator-marius.svg_1 (Portraits)]]
+- Affected by [[Cultural Exchange Cente]]
+- Originates from [[Mastiff Xmm]]
+- Related: [[Assets Locations Location City Aquabyssos Government Aquabyssos Government.svg]]
+- Leads to [[Shape Shifting Xphb]]
+- Originates from [[step_068 (phase_007)]]
+- Leads to [[NPC00786_Jorah_Underhill_the_Risen]]
+- Affected by [[step_009]]
+- Requires [[Location City Guardian Neutralwatch V1 Guardian Neutralwatch.svg]]
+- Related: [[Shape Water Xge]]
+- Connects to [[Captain Trawl Netcaster]]
+- Related: [[Admiral Thalassa Stormcurrent 2]]
+- Affected by [[step_034 (phase_049)]]
+- Influences [[Deep Biology Institute 2]]
+- See also: [[Assets Locations Location City Time Lost Delegate Chronus Time Lost Delegate Chronus.svg]]
+- Compare with [[step_042]]
+- Requires [[step_076]]
+- Parallels [[step_060 (phase_028)]]
+- Parallels [[step_015 (phase_041)]]
+- Affected by [[The Umbral Exchange]]
+- Related: [[beacon-of-hope-xphb (spells)]]
+- Compare with [[step_098 (phase_081)]]
+- Related: [[step_093 (phase_009)]]
+- Connects to [[Assets Locations Location City Tidal Runner Nerissa Tidal Runner Nerissa.svg]]
+- Influences [[List Spells Optional Features Beast Speech]]
+- Originates from [[Assets Symbols Symbol Heraldry Merchant Princes Merchant Princes.svg]]
+- Parallels [[LORE00108_Legends_Entry_109]]
+- Related: [[step_094 (phase_088)]]
+- Parallels [[Assets Portraits Portrait NPC the Waking Prophets the Waking Prophets.svg]]
+- Affected by [[portrait-npc-refugee-camps-v2-refugee-camps.svg_1 (Portraits)]]
+- Related: [[Alpha-Prime 2]]
+- Leads to [[Underwater_Adaptation_Rules]]
+- Leads to [[QUEST0010_The_Hidden_Alliance]]
+- Compare with [[Chronomancer Paradox (D&D_References)]]
+- See also: [[SPELL00034_Nature_Spell_35]]
+- Parallels [[trade-goods-phb (tables)]]
+- Influences [[LOC0005_Valeton]]
+- Connects to [[step_058 (phase_058)]]
+- Connects to [[SPELL00030_Nature_Spell_31]]
+- Requires [[ITEM00607_Warded_Plate_of_Protection]]
+- See also: [[Assets Art Npcs Quest the Root Network.png]]
+- Leads to [[LOC0130_Havenstead]]
+- Requires [[Location City Temple Coalition Temple Coalition.svg]]
+- Affected by [[Abandoned Consortium Warehouse]]
+- Leads to [[step_016 (phase_017)]]
+- See also: [[Dungeon Delver]]
+- Affected by [[step_049 (phase_056)]]
+- Connects to [[Eastern Kingdom 2]]
+- Leads to [[step_037 (phase_045)]]
+- Requires [[step_026 (phase_011)]]
+- Related: [[step_058]]
+- Originates from [[Student Prime Coral]]
+- See also: [[step_098 (phase_022)]]
+- Affected by [[Ultimate_GM_Screen]]
+- Affected by [[dragonlance-branchala-phb (deities)]]
+- Influences [[Military Moral Quandaries]]
+- Originates from [[Assets Locations Location City Clara Truthscale V1 Clara Truthscale.svg]]
+- Requires [[portrait-npc-the-senator-the-senator.svg]]
+- Originates from [[Portrait NPC Free Current Safe Houses V1 Free Current Safe Houses.svg]]
+- Compare with [[ruby-of-the-war-mage-xdmg (items)]]
+- Parallels [[Resonance Bomb (D&D_References)]]
+- See also: [[MON0029_Crystal_Devourer]]
+- Connects to [[SPELL00046_Arcane_Spell_47]]
+- Connects to [[step_054]]
+- Parallels [[Roleplaying a Yuan Ti Yuan Ti Personality]]
+- See also: [[SPELL00032_Divine_Spell_33]]
+- Requires [[Egyptian Thoth]]
+- Leads to [[step_092]]
+- Affected by [[QUEST00058_Side_Quest_59]]
+- Related: [[dragonlance-sargonnas-phb (deities)]]
+- Leads to [[Location City Crystalline Wastes V1 Crystalline Wastes.svg]]
+- Influences [[step_064 (phase_022)]]
+- Connects to [[NPC00171_Aldric_Winterborn_the_Mystic]]
+- See also: [[step_010]]
+- Leads to [[Portrait NPC Captain Thaddeus Blackwater Captain Thaddeus Blackwater.svg]]
+- Compare with [[step_058 (phase_067)]]
+- Affected by [[Healer Dawnshade 2]]
+- Originates from [[Gith Tables Githyanki Personality Traits Mtf]]
+- Related: [[step_041 (phase_049)]]
+- Requires [[Lizardfolk Geomancer Xmm]]
+- Leads to [[Assets Locations Location City the Gloom Gardens the Gloom Gardens.svg]]
+- Requires [[NPC0072_Gideon_Ironforge]]
+- Originates from [[FAC00092_Cults_93]]

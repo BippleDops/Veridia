@@ -1,6 +1,6 @@
 ---
-aliases: ["Fiora Proudmore the Wanderer", "fiora proudmore the wanderer", "Fiora Proudmore Wanderer", "Wanderer the Proudmore Fiora"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Fiora Proudmore the Wanderer", "fiora proudmore the wanderer", "Fiora Proudmore Wanderer", "Wanderer the Proudmore Fioratags: [npc, character, combat, lore]er]
 type: npc
 ---
 
@@ -143,3 +143,149 @@ Witnessed a crime
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Mage** (MM p.347)
+Modifications:
+- HP: 33
+- AC: 14
+- Notable abilities: Varies by individual
+
+
+> [!tip] 💡 Tip
+> Useful information for players
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Advantage**: See PHB p.173
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Equipment: PHB p.143-161)*
+*(Weapons: PHB p.146-147)*
+*(Armor: PHB p.144-146)*
+
+## Connections
+
+- Compare with [[Portrait NPC Find the Shadow Cure Find the Shadow Cure.svg_1 (Portraits)]]
+- Related: [[step_034 (phase_007)]]
+- Compare with [[Minister of Trade Relations]]
+- Originates from [[ice-toad-rot (monstrosity)]]
+- Leads to [[step_063 (phase_076)]]
+- Affected by [[Ecological Balance Protocols]]
+- See also: [[step_075]]
+- Originates from [[potion-of-greater-healing-xdmg (items)]]
+- Influences [[LORE00119_Legends_Entry_120]]
+- Connects to [[Reality Protection]]
+- Affected by [[swarm-of-larvae-xmm (fiend)]]
+- Originates from [[Parliament of Echoes - Public Gallery 2]]
+- Compare with [[Dr Jasper Memorymend]]
+- Influences [[Deputy Archmerchant Scroll Deepmind (D&D_References)]]
+- Affected by [[Gambling Results Xge]]
+- Compare with [[ITEM00488_Fortified_Boots_of_Resistance]]
+- Parallels [[Assets Art Martha Hillbrook.png]]
+- Affected by [[Location City Crimson Velocity V1 Crimson Velocity.svg]]
+- Originates from [[Valley of Eternal Mourning]]
+- Parallels [[step_083]]
+- Requires [[Assets Locations Location City Memory Parasite Infection Memory Parasite Infection.svg]]
+- Related: [[Theater of Impossible Dreams]]
+- Related: [[LOC0116_Marshshire]]
+- Requires [[ITEM00724_Divine_Crown_of_Destiny]]
+- Parallels [[Temple Coalition 2]]
+- Parallels [[step_012 (phase_007)]]
+- Leads to [[Abyssal Cartel]]
+- Related: [[Deep Mother Protocol (D&D_References)]]
+- Connects to [[Portrait NPC Surface Liaison Captain Reed Bridgewater V1 Surface Liaison Captain Reed Bridgewater.svg]]
+- Connects to [[silver-and-gold-brooch-xdmg (items)]]
+- See also: [[guardian-naga-xmm (celestial)]]
+- Connects to [[SPELL00052_Divine_Spell_53]]
+- Leads to [[Tide-Speaker Nerida of House Abyssos]]
+- Related: [[Inquisitor Thorne]]
+- Connects to [[step_068 (phase_097)]]
+- Connects to [[Trader Cross-Current Jin]]
+- Affected by [[Deep Mother]]
+- Connects to [[step_052]]
+- Related: [[Duke Lysander Crystalvein (D&D_References)]]
+- Connects to [[FAC00019_Cults_20]]
+- Related: [[cover-xphb (tables)]]
+- Compare with [[step_040 (phase_021)]]
+- Requires [[step_089 (phase_038)]]
+- Requires [[LORE00162_History_Entry_163]]
+- Leads to [[Harbor Patrol 2]]
+- Influences [[Plot Points]]
+- Compare with [[The Depth Reapers 2]]
+- Leads to [[step_037 (phase_074)]]
+- Requires [[D_005_Shadow_Bloom]]
+- Compare with [[Coral Empress Scarletina (D&D_References)]]
+- Requires [[step_035 (phase_067)]]
+- Compare with [[frost-giant-xmm]]
+- Requires [[NPC00897_Gareth_Hawthorne_the_Mystic]]
+- Originates from [[step_016 (phase_077)]]
+- Requires [[Assets Portraits Portrait NPC Senator Cordelia Deepcurrent Senator Cordelia Deepcurrent.svg]]
+- Requires [[lucky-xphb (feats)]]
+- Affected by [[The Current Maps 2]]
+- Parallels [[Assets Locations Location City Observatory Network Nodes V1 Observatory Network Nodes.svg]]
+- Originates from [[Resonance Roses]]
+- See also: [[step_088 (phase_067)]]
+- Compare with [[The Archcrystal]]
+- Affected by [[Wind Song Linguistic Guide]]
+- Compare with [[step_014 (phase_023)]]
+- Affected by [[Surgeon Shadow-Touched]]
+- Leads to [[ENC00146_Social_Encounter_147]]
+- Related: [[step_021 (phase_021)]]
+- Related: [[Reality_Breach_Event_Compiler (D&D_References)]]
+- Related: [[NPC00779_Lyanna_Lightbringer_the_Redeemed]]
+- Influences [[step_036 (phase_005)]]
+- See also: [[LOC00025_Cities_Location_26]]
+- See also: [[Maritime Security Chief Reef (D&D_References)]]
+- Requires [[Location City Navigator Abyssal Truthseeker Navigator Abyssal Truthseeker.svg]]
+- Leads to [[The Crown of Consciousness]]
+- Compare with [[Quest - Parliament Corruption]]
+- Parallels [[step_080 (phase_030)]]
+- Requires [[ENC00249_Combat_Encounter_250]]
+- Leads to [[step_061 (phase_014)]]
+- Influences [[LOC0085_Valewick]]
+- Affected by [[step_040 (phase_056)]]
+- Requires [[Portrait NPC Aria... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Leads to [[The Memory Integration (D&D_References)]]
+- Influences [[Portrait NPC Quest the Failing Magic V2 Quest the Failing Magic.svg]]
+- Originates from [[pair-of-engraved-bone-dice-xdmg (items)]]
+- Influences [[EVENT00004_Political_Event_5]]
+- Connects to [[Elena Starweaver.md (People)]]
+- Compare with [[step_028]]
+- Parallels [[Pilgrim Guide Nautilus Pathfinder]]
+- Affected by [[step_013 (phase_039)]]
+- Requires [[sack-xphb (items)]]
+- Parallels [[location-city-grand-harbor-v1-grand-harbor.svg]]
+- Originates from [[Queen Seraphina Lumengarde]]
+- Affected by [[half-elf (races)]]
+- See also: [[The Amnesia Rehabilitation Centers (D&D_References)]]
+- Originates from [[star-rose-quartz-xdmg (items)]]
+- Compare with [[NPC00579_Zephyr_Hawthorne_the_Broken]]
+- Requires [[Brother Marcus Steelbane (People)]]
+- Affected by [[Crisis Exploitation]]
+- Connects to [[LOC0009_PortHaven]]
+- Influences [[#Relationships]]
+- Connects to [[Symbol Heraldry Doctor Harmony Whisperfall V1 Doctor Harmony Whisperfall.svg]]

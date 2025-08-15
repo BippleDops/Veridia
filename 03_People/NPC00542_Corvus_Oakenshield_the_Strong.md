@@ -1,6 +1,6 @@
 ---
-aliases: ["Corvus Oakenshield the Strong", "corvus oakenshield the strong", "Corvus Oakenshield Strong", "Strong the Oakenshield Corvus"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Corvus Oakenshield the Strong", "corvus oakenshield the strong", "Corvus Oakenshield Strong", "Strong the Oakenshield Corvustags: [npc, character, combat, lore]er]
 type: npc
 ---
 
@@ -137,3 +137,138 @@ Witnessed a crime
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Veteran** (MM p.350)
+Modifications:
+- HP: 37
+- AC: 11
+- Notable abilities: Varies by individual
+
+
+> [!example] 📝 Example
+> How this works in play
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Advantage**: See PHB p.173
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Related: [[Consortium Security Constructs 2]]
+- Influences [[Memory Merchant Valeria]]
+- Connects to [[Assets Locations Location City Keeper Temporal Safehaven V1 Keeper Temporal Safehaven.svg]]
+- Compare with [[imp-xmm (fiend)]]
+- Requires [[NPC01291_Xander_Thornweave_the_Risen]]
+- Affected by [[step_080 (phase_039)]]
+- Compare with [[Political Prison Complexes]]
+- Related: [[step_067 (phase_097)]]
+- Influences [[step_073 (phase_015)]]
+- Originates from [[hill-encounters-levels-1116-xge (tables)]]
+- Related: [[NPC01708_Corvus_Ravenheart_the_Strong]]
+- Influences [[Assets Item Artifact Poisoners Kit Xphb V1 Poisoners Kit Xphb.png]]
+- Influences [[step_008 (phase_035)]]
+- Connects to [[The Ledger Hall]]
+- Compare with [[visibility-underwater-underwater-encounter-distance-xdmg]]
+- Leads to [[Locations the Temporal Scars]]
+- Affected by [[step_008]]
+- See also: [[Nonhuman Semuanya]]
+- Influences [[Underdark Encounters Levels 14 Xge]]
+- See also: [[Deck of Many Things 13 Cards]]
+- Requires [[yuan-ti-malison-type-2-xmm]]
+- Affected by [[Wizard_Journal]]
+- Leads to [[step_047 (phase_047)]]
+- Influences [[#Cross-Campaign Locations]]
+- Related: [[step_082]]
+- Affected by [[Deep Mother Influence (Lore)]]
+- Originates from [[rank-status-and-title-vgm (tables)]]
+- Leads to [[Prismatic Falls]]
+- Originates from [[The Cosmic Library]]
+- Parallels [[Nerissa Depthsong (D&D_References)]]
+- Requires [[Bone Scribes (D&D_References)]]
+- Related: [[The Noble Quarter Market (D&D_References)]]
+- Affected by [[step_074]]
+- Compare with [[Dr. Siphon Gillwater]]
+- Connects to [[step_001 (phase_078)]]
+- Leads to [[Creature Creature Goblin Hexer Xmm V4 Goblin Hexer Xmm.png]]
+- Requires [[LORE00129_Prophecies_Entry_130]]
+- See also: [[QUEST00168_Main_Quest_169]]
+- Originates from [[Hawk Xmm]]
+- Related: [[The Original Palace]]
+- Connects to [[Harbor Pilot Captain Storm Skyreacher 2]]
+- Originates from [[step_095 (phase_026)]]
+- Requires [[Assets Locations Location City Memorial District of Abyssos Prime V1 Memorial District of Abyssos Prime.svg]]
+- Parallels [[Location City Keeper Valdris Goldvault Keeper Valdris Goldvault.svg]]
+- Affected by [[Portrait NPC House Guard Captains V2 House Guard Captains.svg]]
+- Affected by [[step_032]]
+- Influences [[Gold Locket With a Painted Portrait Inside]]
+- Parallels [[MON00153_Constructs_Creature_154]]
+- Compare with [[The Whispering Chambers]]
+- Compare with [[X-001_Trench_to_Cloud_Transfer]]
+- Leads to [[step_026 (phase_075)]]
+- Influences [[Portrait NPC Prophet Nerida Voidgazer V1 Prophet Nerida Voidgazer.svg]]
+- Compare with [[Royal Advisor Wise Counselor]]
+- Influences [[human-names-chinese-male-xge (tables)]]
+- Related: [[step_065 (phase_011)]]
+- Related: [[step_097 (phase_012)]]
+- Requires [[Memory Trader Kellian]]
+- Influences [[young-blue-dragon-xmm (dragon)]]
+- Influences [[Safe Passage Guild (Guilds)]]
+- Compare with [[identify-important-npcs-adventure-villains (tables)]]
+- See also: [[LORE00031_Legends_Entry_32]]
+- Connects to [[LORE00177_Legends_Entry_178]]
+- Parallels [[LORE00100_History_Entry_101]]
+- Related: [[Location City Maritime Security Chief Reef V1 Maritime Security Chief Reef.svg]]
+- Connects to [[Research Institutes]]
+- Parallels [[ice-troll-rot (giant)]]
+- Influences [[step_055 (phase_019)]]
+- Connects to [[Crystal Plague]]
+- Originates from [[contagion-xphb (spells)]]
+- Affected by [[step_099 (phase_014)]]
+- Parallels [[Abyssal Trenches (D&D_References)]]
+- Originates from [[symbol-heraldry-the-archivist-v1-the-archivist.svg]]
+- Related: [[LOC00172_Wilderness_Location_173]]
+- Compare with [[Assets Locations Location City Thalassa the Deepmother V1 Thalassa the Deepmother.svg]]
+- Originates from [[QUEST00048_Main_Quest_49]]
+- Influences [[step_039 (phase_039)]]
+- See also: [[Trader Cross-Current Jin 2]]
+- Related: [[ITEM0029_Forgotten_Orb_of_Power]]
+- Originates from [[ale-mug-xphb (items)]]
+- Affected by [[MON00043_Constructs_Creature_44]]
+- Parallels [[ENC0094_Random_Encounter_95]]
+- Compare with [[NPC01655_Orion_Underhill_the_Risen]]
+- Related: [[Market Prophet (D&D_References)]]
+- Compare with [[step_066 (phase_081)]]
+- Affected by [[Template-Lore]]
+- Compare with [[ITEM01219_Greater_Salve_of_Swiftness]]
+- Influences [[NPC01350_Hestara_Lightbringer_the_Seeker]]
+- Affected by [[step_066 (phase_085)]]
+- Compare with [[SHOP00056_Magical_Shop_57]]
+- Compare with [[step_003 (phase_045)]]
+- Parallels [[Merchants Guild (Guilds)]]
+- Parallels [[MON00050_Undead_Creature_51]]
+- Leads to [[will-o-wisp-xmm]]
+- Influences [[ITEM00472_Adamantine_Cloak_of_Grace]]
+- Originates from [[location-city-scarlet-torrent-scarlet-torrent.svg]]
+- Compare with [[Pressure Theorist Dr Current Deepthink]]
+- Requires [[step_026]]
+- Parallels [[step_086 (phase_030)]]
+- Influences [[Depth_Events_Pack_B]]
+- Related: [[step_043 (phase_087)]]

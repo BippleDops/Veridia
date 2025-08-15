@@ -1,4 +1,5 @@
 ---
+created: 2025-08-15
 aliases: ["Xander Zephyrblade the Risen", "xander zephyrblade the risen", "Xander Zephyrblade Risen", "Risen the Zephyrblade Xander"]
 tags: [npc, character]
 type: npc
@@ -149,3 +150,142 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Xanathar's Guide to Everything (XGE) p.121
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Compare with [[Reality Stabilization Corps]]
+- Affected by [[Truth-seeker's Lens (D&D_References)]]
+- Affected by [[Military Moral Quandaries]]
+- Compare with [[Portrait NPC the Pressure King V1 the Pressure King.svg]]
+- Affected by [[People_1 (02_Worldbuilding)]]
+- Requires [[Medical Ethics in Plague Crisis]]
+- See also: [[experience-points-xphb (variant-rules)]]
+- Connects to [[The Void Watchers 2]]
+- Related: [[Symbol Heraldry Aquabyssos Faction Web V1 Aquabyssos Faction Web.svg]]
+- Leads to [[ITEM01336_Ornate_Rope_of_Durability]]
+- Affected by [[QUEST0028_The_Haunted_Manor_Conspiracy]]
+- Connects to [[Assets Locations Location City Dockworkers Union V1 Dockworkers Union.svg]]
+- Leads to [[Temple Coalition (D&D_References)]]
+- Originates from [[Elena Prismweaver]]
+- Parallels [[The Slave Markets of Tethys]]
+- Parallels [[step_026 (phase_015)]]
+- Compare with [[Quest - The Deep Cartographer_1 (01_Adventures)]]
+- Originates from [[Modron Duodrone Xmm]]
+- Requires [[Quest - The Moderate Path]]
+- Connects to [[The Siren (People)]]
+- Affected by [[Assets Locations Location City Screaming Gardens Songwood Grove V1 Screaming Gardens Songwood Grove.svg]]
+- See also: [[Multi-Dimensional Perception]]
+- Affected by [[step_045]]
+- Leads to [[step_096]]
+- Compare with [[Captain Dara Ironwill]]
+- Parallels [[Halfling Tables Reasons for Adventuring Mtf]]
+- Affected by [[04_Resources_Assets_Portraits_portrait-npc-captain-torrent-swiftcurrent-captain-torrent-swiftcurrent.svg_Quick_Ref]]
+- Compare with [[Shadow Cultist]]
+- Affected by [[step_032]]
+- Leads to [[Private Investigator Rex Coldcase (D&D_References)]]
+- Affected by [[step_053 (phase_010)]]
+- See also: [[Senator Shadow-Glaucus (D&D_References)]]
+- Compare with [[step_086 (phase_065)]]
+- Related: [[Portrait NPC Deep Lord Pelagios the Eternal V1 Deep Lord Pelagios the Eternal.svg]]
+- Related: [[double brackets]]
+- Parallels [[LOC00205_Cities_Location_206]]
+- Requires [[step_036]]
+- Originates from [[step_058]]
+- See also: [[ENC00135_Environmental_Encounter_136]]
+- Connects to [[ITEM00160_Thunder_Sword_of_the_Ancients]]
+- Connects to [[step_030 (phase_079)]]
+- Related: [[Dock Mistress Marina Saltwind]]
+- See also: [[List Spells Optional Features Rush of the Gale Spirits]]
+- Requires [[LOC00270_Cities_Location_271]]
+- Compare with [[The Tide Rises]]
+- Requires [[Location City Chef Amara Tastecurrent V1 Chef Amara Tastecurrent.svg]]
+- Influences [[Temple of the Dawn (D&D_References)]]
+- Compare with [[master-of-myriad-forms-xphb (optional-features)]]
+- Parallels [[warship-xphb (items)]]
+- Requires [[LOC00068_Cities_Location_69]]
+- Affected by [[ENC00351_Combat_Encounter_352]]
+- Requires [[The Corrupted Admiralty]]
+- See also: [[The Corruption Codex 2]]
+- Connects to [[step_023 (phase_067)]]
+- See also: [[The Shattering]]
+- Affected by [[Hewards Handy Haversack Xdmg]]
+- Originates from [[The_Pressure_Maelstroms (D&D_References)]]
+- Leads to [[step_019 (phase_086)]]
+- Requires [[EVENT00082_Natural_Event_83]]
+- Affected by [[Assets Locations Location City Keeper Finn Goodtide V1 Keeper Finn Goodtide.svg]]
+- Leads to [[System Cli Spells School Divination]]
+- Connects to [[NPC01311_Zephyr_Xendar_the_Wanderer]]
+- Leads to [[step_021]]
+- Connects to [[NPC01668_Elric_Keenblade_the_Strong]]
+- Affected by [[step_060 (phase_008)]]
+- Related: [[Portrait NPC the Harmony Collective V1 the Harmony Collective.svg]]
+- Related: [[step_022 (phase_074)]]
+- Compare with [[Portrait NPC Investigator Supreme Lucian Brightwater V1 Investigator Supreme Lucian Brightwater.svg_1 (Portraits)]]
+- Compare with [[critical-hit-xphb (variant-rules)]]
+- Related: [[Convergence Engine 2]]
+- Parallels [[Male Steeder Mpmm]]
+- Leads to [[step_054 (phase_075)]]
+- Originates from [[FAC00070_Guilds_71]]
+- Parallels [[Alternative Healing]]
+- Connects to [[FAC00073_Cults_74]]
+- Compare with [[LOC00251_Planes_Location_252]]
+- Originates from [[Mechanics Shadow Surgery]]
+- Requires [[step_051 (phase_093)]]
+- Related: [[Portrait NPC Captain Dimensional V2 Captain Dimensional.svg]]
+- Compare with [[ENC00159_Environmental_Encounter_160]]
+- Originates from [[magic-item-table-g (tables)]]
+- Affected by [[EVENT00071_Natural_Event_72]]
+- See also: [[step_017 (phase_023)]]
+- Parallels [[Assets Locations Location City Maze Heart Crystal Maze Heart Crystal.svg]]
+- Affected by [[Corporate Justice Codex]]
+- Affected by [[QUEST00424_Side_Quest_425]]
+- See also: [[LOC00191_Dungeons_Location_192]]
+- Related: [[garnet-xdmg (items)]]
+- Influences [[EVENT00064_Natural_Event_65]]
+- Connects to [[step_016 (phase_068)]]
+- Connects to [[NPC00274_Brenna_Hawthorne]]
+- Affected by [[step_092]]
+- Affected by [[Abyssal Garden]]
+- Requires [[NPC01756_Vesper_Voidwalker_the_Wanderer]]
+- Leads to [[step_079]]
+- Compare with [[Template-Star-System]]
+- Compare with [[LORE00098_Legends_Entry_99]]
+- Parallels [[step_096 (phase_081)]]
+- Originates from [[Memory Extraction Center]]
+- Parallels [[Memory_Trader_Kellian.png]]

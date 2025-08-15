@@ -1,6 +1,6 @@
 ---
-aliases: ["Solas Darkwater the Strong", "solas darkwater the strong", "Solas Darkwater Strong", "Strong the Darkwater Solas"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Solas Darkwater the Strong", "solas darkwater the strong", "Solas Darkwater Strong", "Strong the Darkwater Solastags: [npc, character, combat, magic, social, exploration, lore]er]
 type: npc
 ---
 
@@ -143,3 +143,133 @@ Competitor sabotaging business
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Noble** (MM p.348)
+Modifications:
+- HP: 27
+- AC: 14
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Conditions**: See PHB p.290-292
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Originates from [[darkness-xphb (variant-rules)]]
+- Requires [[QUEST00385_Side_Quest_386]]
+- Parallels [[Pressure Brewing Technology 2]]
+- Compare with [[NPC00902_Delara_Underhill_the_Seeker]]
+- Requires [[step_023]]
+- Influences [[step_009 (phase_038)]]
+- See also: [[step_092]]
+- Related: [[Living Democracy]]
+- Compare with [[list-spells-classes-grave-domain-xge (lists)]]
+- See also: [[step_038 (phase_056)]]
+- Leads to [[step_046 (phase_100)]]
+- Affected by [[roleplaying-a-hag-hag-ideals-vgm (tables)]]
+- Influences [[MON0030_Bone_Devourer]]
+- Compare with [[LORE00279_Prophecies_Entry_280]]
+- Connects to [[Scene Scene Sunken Library Revelation V1 Sunken Library Revelation.svg]]
+- Related: [[ITEM00307_Shadow_Dagger_of_Speed]]
+- Parallels [[Innkeeper Marcus Thorne]]
+- Compare with [[ENC00140_Environmental_Encounter_141]]
+- Parallels [[Canal Master Typhoon Currentwise]]
+- See also: [[step_046 (phase_020)]]
+- Related: [[step_070 (phase_058)]]
+- Originates from [[SPELL00091_Nature_Spell_92]]
+- Requires [[LOC00130_Towns_Location_131]]
+- Originates from [[NPC00790_Ewan_Oakenshield_the_Lost]]
+- Parallels [[Item Artifact Dagger of Venom Xdmg V3 Dagger of Venom Xdmg.png]]
+- Related: [[Location City Void Prophet Nullus the Erased V1 Void Prophet Nullus the Erased.svg]]
+- Leads to [[Portrait NPC the Scattered Emperor the Scattered Emperor.svg]]
+- Compare with [[Cloak of Many Fashions Xdmg]]
+- Leads to [[Portrait NPC the Harmony Collective V1 the Harmony Collective.svg_1 (Portraits)]]
+- Parallels [[Portrait NPC Sir Theron Crystalward Sir Theron Crystalward.svg_1 (Portraits)]]
+- Compare with [[Memoriam Keeper Marcus Remembrance]]
+- Related: [[The Coral Palace Complex]]
+- Related: [[Coral Silkweaver 2]]
+- Affected by [[greyhawk-wee-jas-xdmg (deities)]]
+- Related: [[Bartender Marina Dualborn]]
+- Influences [[ability-checks (tables)]]
+- Parallels [[Talking Doll Xdmg]]
+- See also: [[step_035]]
+- See also: [[Map Map Aethermoor Harbor Skirmish V1 Aethermoor Harbor Skirmish.png]]
+- Affected by [[Portrait NPC Ethics Coordinator Elena Compassion Ethics Coordinator Elena Compassion.svg_1 (Portraits)]]
+- Compare with [[Light Gardeners]]
+- Influences [[Librarian Scholar Reef Documentcurrent]]
+- Affected by [[step_063 (phase_053)]]
+- Affected by [[step_009 (phase_041)]]
+- Influences [[Tide Risktaker]]
+- Related: [[NPC00704_Elric_Winterborn_the_Wise]]
+- Leads to [[The Watcher Sanctums]]
+- See also: [[Portrait NPC Captain Finn Crosscurrent V1 Captain Finn Crosscurrent.svg]]
+- Affected by [[Wave Merchant (D&D_References)]]
+- Compare with [[Grazzt Mtf]]
+- Influences [[04_Resources_Assets_Locations_location-city-quartermaster-judith-steadfast-quartermaster-judith-steadfast.svg]]
+- Requires [[step_047 (phase_077)]]
+- Originates from [[The Archive of Unremembered Things (D&D_References)]]
+- Parallels [[NPC00176_Idris_Oakenshield]]
+- Influences [[Symbol Heraldry the Scream Archives the Scream Archives.svg]]
+- Originates from [[list-optfeaturetype-mm#Metamagic]]
+- Related: [[Crown of Currents]]
+- Affected by [[step_036]]
+- Connects to [[Cultural Centers]]
+- Connects to [[EVENT00084_Natural_Event_85]]
+- Connects to [[step_046]]
+- Compare with [[step_041]]
+- See also: [[location-city-the-tidecaller-the-tidecaller.svg]]
+- Related: [[Location City Pressure Point Settlement V1 Pressure Point Settlement.svg]]
+- Parallels [[step_030 (phase_071)]]
+- Influences [[step_047]]
+- Parallels [[MON00038_Constructs_Creature_39]]
+- See also: [[step_072]]
+- Requires [[Pressure Symbiont (D&D_References)]]
+- Requires [[QUEST00113_Side_Quest_114]]
+- Compare with [[ITEM00454_Warded_Cloak_of_the_Guardian]]
+- Compare with [[Merchant Guild Headquarters]]
+- Influences [[magic-item-special-features-magic-items-quirk-xdmg]]
+- Connects to [[NPC00169_Aldric_Zephyrblade_the_Wise]]
+- Leads to [[faerie-dragon-youth-xmm]]
+- Requires [[Handout Handout Guild License Certificate V3 Guild License Certificate.png]]
+- Originates from [[scroll-of-titan-summoning-kraken-xdmg (items)]]
+- Parallels [[ITEM0098_Cursed_Tome_of_the_Dawn]]
+- Connects to [[Location City Deep Studycurrent Deep Studycurrent.svg]]
+- Affected by [[Quartermaster Sterling Suppystone 2]]
+- Originates from [[Void Krakens]]
+- See also: [[ITEM01052_Superior_Oil_of_Fortune]]
+- Requires [[09-adventuring#Resting]]
+- Leads to [[Whispering Wildlands]]
+- Related: [[Portrait NPC the Resonance Prophet V1 the Resonance Prophet.svg_1 (Portraits)]]
+- See also: [[location-city-plague-crisis-plague-crisis.png]]
+- Leads to [[Map Map Shadow Market Alley Shadow Market Alley.svg]]
+- Influences [[Unite or Divide (D&D_References)]]
+- Influences [[step_061]]
+- Influences [[Portrait NPC Golden Scale Transformation Golden Scale Transformation.svg]]
+- Originates from [[Random_Location_Generator (D&D_References)]]
+- Influences [[The Crystal Harmony Collective 2]]
+- Influences [[Dr Silent Treatment]]
+- Parallels [[Assets Portraits Portrait NPC Captain Torren Stormwright Captain Torren Stormwright.svg]]
+- Originates from [[step_069 (phase_062)]]
+- Compare with [[Dr. Shade Scalpel]]
+- Originates from [[MON00056_Constructs_Creature_57]]
+- See also: [[step_086 (phase_028)]]
+- Requires [[Entertainment Industry (D&D_References)]]
+- Connects to [[02_Worldbuilding_People_Veritas_the_Drowned]]

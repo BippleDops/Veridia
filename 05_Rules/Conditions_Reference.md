@@ -28,3 +28,10 @@ created: 2025-08-15T12:34:11.167793
 4. HP maximum halved
 5. Speed reduced to 0
 6. Death
+## Quick Reference
+- **When to use**: During gameplay when this rule applies
+- **Key point**: The most important thing to remember
+- **Common mistake**: What people often get wrong
+
+## Example
+*A player wants to attempt this action. Here's how it works in play...*

@@ -1,6 +1,6 @@
 ---
-aliases: ["Pyria Quicksilver the Scholar", "pyria quicksilver the scholar", "Pyria Quicksilver Scholar", "Scholar the Quicksilver Pyria"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Pyria Quicksilver the Scholar", "pyria quicksilver the scholar", "Pyria Quicksilver Scholar", "Scholar the Quicksilver Pyriatags: [npc, character, combat, social, exploration, lore]er]
 type: npc
 ---
 
@@ -142,3 +142,154 @@ Seeks rare merchandise
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Noble** (MM p.348)
+Modifications:
+- HP: 34
+- AC: 16
+- Notable abilities: Varies by individual
+
+
+> [!tip] 💡 Tip
+> Useful information for players
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Advantage**: See PHB p.173
+- **Combat**: See PHB p.189-198
+- **Conditions**: See PHB p.290-292
+- **Death Saves**: See PHB p.197
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Equipment: PHB p.143-161)*
+*(Weapons: PHB p.146-147)*
+*(Armor: PHB p.144-146)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Requires [[ITEM01126_Lesser_Salve_of_Clarity]]
+- Influences [[13-appendix-c-maps (dungeon-masters-guide-2014)]]
+- Affected by [[Magical Engineer Reef Spellbreath]]
+- Compare with [[The Deep Mother (D&D_References)]]
+- Influences [[Location City Surface Tensions Surface Tensions.svg]]
+- Connects to [[young-blue-dragon-xmm (dragon)]]
+- Related: [[Portrait NPC Memory Harvester Kythara V1 Memory Harvester Kythara.svg]]
+- Influences [[Location City Thorek Crystalhammer Thorek Crystalhammer.png]]
+- See also: [[ITEM00980_Lesser_Incense_of_Clarity]]
+- Influences [[SPELL00108_Arcane_Spell_109]]
+- Connects to [[Cinematic Sequences]]
+- See also: [[LORE00106_Prophecies_Entry_107]]
+- Originates from [[NPC01649_Ysara_Lightbringer_the_Bold]]
+- Originates from [[Potions of Healing Xdmg]]
+- Influences [[Engineer Prisma Depthwright]]
+- Originates from [[Location City Innkeeper Marcus Thorne V1 Innkeeper Marcus Thorne.svg]]
+- See also: [[step_074 (phase_097)]]
+- Leads to [[QUEST00255_Personal_Quest_256]]
+- Compare with [[Aboleth Mind Mazes (Lore)]]
+- Connects to [[step_071 (phase_089)]]
+- Influences [[step_028 (phase_058)]]
+- Related: [[EVENT00085_Natural_Event_86]]
+- Originates from [[Portrait NPC Quest the Queen S Secret Quest the Queen S Secret.svg]]
+- Leads to [[NPC Name Generator 2]]
+- See also: [[ITEM01104_Lesser_Potion_of_Swiftness]]
+- Connects to [[Location City Merchant Guild Headquarters V1 Merchant Guild Headquarters.svg]]
+- See also: [[step_073 (phase_034)]]
+- Requires [[Cross-Realm Goods]]
+- See also: [[DUN00129_Dungeon_130]]
+- Parallels [[Memory Instruments (D&D_References)]]
+- See also: [[Instrument of Illusions Xdmg]]
+- Requires [[Assets Locations Location City Communications Master Signal Cryptkeeper Communications Master Signal Cryptkeeper.svg]]
+- Compare with [[Groups (02_Worldbuilding)]]
+- Originates from [[Quest1 (01_Adventures)]]
+- Parallels [[Common Goods Market]]
+- Leads to [[step_024 (phase_051)]]
+- Compare with [[find-the-path-xphb (spells)]]
+- Influences [[Consequence_Chain_Name_2 (02_Worldbuilding)]]
+- Affected by [[step_054]]
+- Compare with [[LOC00214_Dungeons_Location_215]]
+- Connects to [[The Reunification Coalition]]
+- Requires [[step_021 (phase_078)]]
+- Originates from [[Quest - The Perfect Purifier_1 (01_Adventures)]]
+- Compare with [[step_026]]
+- Connects to [[Portrait NPC Captain Marina Saltborn V1 Captain Marina Saltborn.svg]]
+- Related: [[04_Resources_Assets_Portraits_portrait-npc-captain-nautilus-the-deep-wanderer-captain-nautilus-the-deep-wanderer.svg_Quick_Ref]]
+- Leads to [[step_049 (phase_044)]]
+- Requires [[step_016]]
+- Compare with [[SHOP00051_General_Shop_52]]
+- Influences [[Filter_Exchange_Quest]]
+- Requires [[step_046 (phase_083)]]
+- Leads to [[Portrait NPC Lord Marcus Goldweaver V2 Lord Marcus Goldweaver.svg]]
+- Compare with [[step_031 (phase_041)]]
+- Parallels [[step_024 (phase_055)]]
+- Requires [[The Shard Incident]]
+- See also: [[Hat of Wizardry Xdmg]]
+- Connects to [[Identify Xphb]]
+- Compare with [[Emergency Response Stations 2]]
+- Requires [[Elder Matthias Stoneward]]
+- Influences [[NPC00515_Baelor_Crystalbrook_the_Seeker]]
+- Compare with [[Lumengarde 2]]
+- Leads to [[QUEST00477_Side_Quest_478]]
+- Originates from [[Vehicle Ship Trench Lantern Surveyor V2 Trench Lantern Surveyor.svg]]
+- Related: [[step_049 (phase_070)]]
+- Compare with [[forgotten-realms-helm (deities)]]
+- Originates from [[Merged Reality Zones]]
+- Parallels [[NPC01657_Dara_Dawnstrider_the_Mystic]]
+- See also: [[SPELL00087_Arcane_Spell_88]]
+- Parallels [[The Children's Grotto (D&D_References)]]
+- Affected by [[item properties#Heavy]]
+- See also: [[bread-loaf-xphb (items)]]
+- Compare with [[Delta Leader Precise Shadowsurgeon 2]]
+- See also: [[Sanity System]]
+- See also: [[step_008 (phase_081)]]
+- Connects to [[step_003 (phase_084)]]
+- Connects to [[retriever-mpmm (construct)]]
+- Influences [[The Drowned God]]
+- See also: [[Quest - The Crystal Refugees_1 (01_Adventures)]]
+- Connects to [[Crafter Xphb]]
+- Originates from [[Portrait NPC Captain Torrent Freewater Captain Torrent Freewater.svg]]
+- Leads to [[QUEST00404_Side_Quest_405]]
+- Influences [[Elemental Crystal]]
+- Requires [[step_080 (phase_064)]]
+- Influences [[ITEM00411_Enchanted_Gauntlets_of_Grace]]
+- Related: [[Assets Locations Location City the Temple of Eternal Tides the Temple of Eternal Tides.svg]]
+- Affected by [[elf-sea-mtf (races)]]
+- Influences [[Arcturus Lumenblade 2]]
+- Influences [[step_082 (phase_089)]]
+- Influences [[Agent Infiltrator (D&D_References)]]
+- Related: [[Symbol Heraldry Lysara Brightshield V1 Lysara Brightshield.svg]]
+- Compare with [[step_003 (phase_058)]]
+- Leads to [[Family Portrait (D&D_References)]]
+- Requires [[kuo-toa-monitor-xmm (aberration)]]
+- Influences [[White Abishai Mpmm]]
+- See also: [[Pirate Captain Blacktide (D&D_References)]]
+- Requires [[step_027 (phase_011)]]
+- Compare with [[Monsters by Habitat Any Habitat Monsters Xmm]]
+- Originates from [[Assets Locations Location City Depth Merchant S Consortium Depth Merchant S Consortium.svg]]
+- Connects to [[ITEM00788_Divine_Amulet_of_Dominion]]
+- Influences [[The Tide Singers]]

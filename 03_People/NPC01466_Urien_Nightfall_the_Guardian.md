@@ -1,6 +1,6 @@
 ---
-aliases: ["Urien Nightfall the Guardian", "urien nightfall the guardian", "Urien Nightfall Guardian", "Guardian the Nightfall Urien"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Urien Nightfall the Guardian", "urien nightfall the guardian", "Urien Nightfall Guardian", "Guardian the Nightfall Urientags: [npc, character, combat, magic, social, exploration, lore]er]
 type: npc
 ---
 
@@ -149,3 +149,133 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Guard** (MM p.347)
+Modifications:
+- HP: 25
+- AC: 10
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+- **Spellcasting**: See PHB p.201-205
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- See also: [[Assets Locations Location City the Depth Market the Depth Market.svg]]
+- Affected by [[step_098]]
+- Compare with [[Portrait NPC Duke Theron Depthguard Duke Theron Depthguard.svg_1 (Portraits)]]
+- See also: [[ULTIMATE_SYSTEM_REPORT]]
+- See also: [[LOC00034_Dungeons_Location_35]]
+- Connects to [[step_074 (phase_047)]]
+- Originates from [[step_069 (phase_049)]]
+- Affected by [[step_057 (phase_011)]]
+- Requires [[guild-artisan (backgrounds)]]
+- Leads to [[step_028 (phase_012)]]
+- Influences [[step_061 (phase_066)]]
+- Influences [[03 Chapter 3 Dms Toolbox]]
+- Requires [[Quest - The Kingpin's Fall_1 (01_Adventures)]]
+- Related: [[step_007]]
+- See also: [[Location City Pool of Sacred Drowning V1 Pool of Sacred Drowning.svg]]
+- Parallels [[step_002 (phase_045)]]
+- Influences [[step_019 (phase_009)]]
+- Affected by [[The Opposition Leader (D&D_References)]]
+- Connects to [[NPC00864_Thalia_Ravenheart_the_Wanderer]]
+- Connects to [[Jenny Copperwrigh]]
+- Affected by [[DM_Screen (02_Worldbuilding)]]
+- Influences [[Trophy Room]]
+- Related: [[The Dimensional Hospital (D&D_References)]]
+- Affected by [[step_082]]
+- See also: [[LOC0139_Grovestead]]
+- Parallels [[Surface Observation Posts (D&D_References)]]
+- Influences [[Scene Scene Merged Zone Reality Fracture V2 Merged Zone Reality Fracture.svg]]
+- Parallels [[teleportation-xphb (variant-rules)]]
+- Compare with [[Quest - The Bio-Adaptation Crisis_1 (01_Adventures)]]
+- Affected by [[Shadow Currency]]
+- Leads to [[Portrait NPC Quest the Successor S Burden Quest the Successor S Burden.svg]]
+- Originates from [[Assets Locations Location City Sacred Healing Springs Sacred Healing Springs.svg]]
+- Requires [[step_024 (phase_004)]]
+- Influences [[The Neutral Current Tavern 2]]
+- Affected by [[Marina the Unifie (D&D_References)]]
+- Connects to [[step_049 (phase_005)]]
+- Compare with [[LOC00276_Towns_Location_277]]
+- Influences [[LORE00016_Prophecies_Entry_17]]
+- Leads to [[Military Bases (D&D_References)]]
+- Affected by [[item-artifact-ruby-xdmg-v5-ruby-xdmg.png]]
+- Influences [[step_051 (phase_028)]]
+- Affected by [[Military Coordinator Strong]]
+- Related: [[Democratic Technology Development (D&D_References)]]
+- Related: [[The Scribes' Sanctuary]]
+- Connects to [[Combat_Actions]]
+- Parallels [[step_011 (phase_088)]]
+- Compare with [[Party_Quests]]
+- Requires [[LOC00267_Wilderness_Location_268]]
+- Parallels [[LOC00203_Cities_Location_204]]
+- Affected by [[The Shadow Merchant Prime (Criminal_Organizations)]]
+- Leads to [[Assets Locations Location City Inter Realm Diplomacy Inter Realm Diplomacy.svg]]
+- Connects to [[Assets Locations Location City Deep Harbor Technology V1 Deep Harbor Technology.svg]]
+- Affected by [[Quest Two Minds One Body]]
+- Originates from [[Information_Trading_System (02_Worldbuilding)]]
+- Affected by [[The Original Target (D&D_References)]]
+- Parallels [[Portrait NPC Banking Lord Cornelius Coinwright V2 Banking Lord Cornelius Coinwright.svg]]
+- Related: [[Session 5 Conspiracy Revealed]]
+- Leads to [[devils-sight-xphb (optional-features)]]
+- Parallels [[NPC01785_Aldric_Brightblade_the_Redeemed]]
+- Compare with [[Location City Crystalline Wastes Crystalline Wastes.svg]]
+- Requires [[LOC00252_Dungeons_Location_253]]
+- Connects to [[Damage Roll Xphb]]
+- Compare with [[Assets Locations Location City Scholar David Crossref Scholar David Crossref.svg]]
+- Leads to [[step_083]]
+- See also: [[step_098 (phase_098)]]
+- Parallels [[Assets Locations Location City the Plague Ward the Plague Ward.svg]]
+- Leads to [[Pier 7 (D&D_References)]]
+- Leads to [[The Unnamed Chronicler]]
+- Requires [[step_054]]
+- Affected by [[Location City Depth Merchants V1 Depth Merchants.svg]]
+- Compare with [[Crystal Mines (Places)]]
+- Related: [[Emergency Protocols Cente 2]]
+- Originates from [[Symbol Heraldry Agricultural Provinces V1 Agricultural Provinces.svg]]
+- See also: [[Bracers of Defense Xdmg]]
+- Leads to [[Secret Society Membership Rolls]]
+- Originates from [[Multiverse (D&D_References)]]
+- See also: [[step_021 (phase_013)]]
+- Leads to [[ITEM00445_Enchanted_Plate_of_Fortitude]]
+- Connects to [[Spell Compendium]]
+- Parallels [[Location City Maritime Security Chief Reef V1 Maritime Security Chief Reef.svg]]
+- Related: [[LOC0082_Watchwick]]
+- Related: [[QUEST0046_Infiltrate_the_Tyrant]]
+- See also: [[step_033 (phase_006)]]
+- Influences [[Assets Item Artifact Explorers Pack Xphb V4 Explorers Pack Xphb.png]]
+- Parallels [[QUEST00453_Side_Quest_454]]
+- Leads to [[Aethermoor Wind Rider Traditions (D&D_References)]]
+- Leads to [[Bone Princes]]
+- Affected by [[LOC0104_UpperHaven]]
+- Parallels [[step_043 (phase_060)]]
+- Requires [[list-spells-classes-oath-of-conquest-xge (lists)]]
+- Connects to [[ITEM00237_Cursed_Spear_of_Wounding]]
+- Compare with [[ENC00291_Social_Encounter_292]]
+- Connects to [[Magic Item Table G]]
+- Related: [[location-city-deepsteel-deepsteel.svg]]
+- Leads to [[step_081 (phase_055)]]
+- Compare with [[Warden Marcus Stonehand]]
+- Originates from [[International Law Enforcement]]
+- Parallels [[Marine Druids (D&D_References)]]
+- Requires [[step_087]]
+- Leads to [[05 Chapter 5 Creating Campaigns]]

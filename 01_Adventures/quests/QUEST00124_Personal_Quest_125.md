@@ -37,3 +37,10 @@ Complete the personal quest objective.
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+
+## Rewards
+- Access to restricted areas
+
+## Quest Hook
+A mysterious note arrives

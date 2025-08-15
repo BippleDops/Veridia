@@ -8,6 +8,7 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
+tags: [combat, magic, exploration, lore]
 --- # 08 Using Ability Scores ---
 
 ## Description
@@ -36,3 +37,164 @@ world: Both
 ## Notes
 
 *Additional notes*
+
+
+> [!dm] DM Note
+> This character is not who they seem
+
+## Prep Checklist
+
+### Npcs Needed
+- [ ] List key NPCs for this session
+- [ ] Prepare voices and mannerisms
+
+### Locations
+- [ ] Review location descriptions
+- [ ] Prepare battle maps if needed
+
+### Encounters
+- [ ] Balance combat encounters
+- [ ] Prepare social encounter notes
+
+### Props
+- [ ] Handouts ready
+- [ ] Music/ambiance selected
+
+### Rules
+- [ ] Review relevant rules
+- [ ] Prepare quick reference
+
+## Campaign Connection
+Connected to the main villain's plan
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Leads to [[Greyhawk Ralishaz Xdmg]]
+- Parallels [[New Location]]
+- Affected by [[ENC00019_Social_Encounter_20]]
+- Compare with [[step_033 (phase_024)]]
+- Parallels [[Gareth Ironforge]]
+- Compare with [[step_078 (phase_025)]]
+- Affected by [[Archive_Optimizers]]
+- Parallels [[step_054]]
+- Requires [[LOC00126_Cities_Location_127]]
+- Leads to [[step_087 (phase_062)]]
+- Originates from [[NPC00040_Gareth_Ironwood_the_Guardian]]
+- Requires [[Assets Locations Location City Memory Merchant Headquarters V1 Memory Merchant Headquarters.svg]]
+- Influences [[Soundscape_Guide (D&D_References)]]
+- Compare with [[Coastal Communities 2]]
+- Requires [[LOC00104_Planes_Location_105]]
+- Originates from [[Start Session]]
+- Related: [[Portrait NPC the Royal Treasury Depths V1 the Royal Treasury Depths.svg_1 (Portraits)]]
+- Requires [[step_006 (phase_010)]]
+- Requires [[astral-skiff-mtf (vehicles)]]
+- Influences [[Witness Protection Protocols]]
+- Affected by [[step_044]]
+- Parallels [[step_050 (phase_023)]]
+- Connects to [[Location City Tide Bondkeeper V1 Tide Bondkeeper.svg]]
+- Related: [[The Divine Reunion (D&D_References)]]
+- Originates from [[See Invisibility Xphb]]
+- Parallels [[step_079 (phase_093)]]
+- See also: [[step_070 (phase_029)]]
+- Related: [[ENC00489_Combat_Encounter_490]]
+- Parallels [[Assets Locations Location City Quartermaster Judith Supplycurrent Quartermaster Judith Supplycurrent.svg]]
+- Connects to [[ITEM0113_Blessed_Pendant_of_the_Dawn]]
+- Originates from [[step_067 (phase_043)]]
+- Influences [[Wind_Touched_Evolution]]
+- Leads to [[04_Resources_Assets_Portraits_portrait-npc-lord-marcus-goldweaver-lord-marcus-goldweaver.svg_Quick_Ref]]
+- Leads to [[Location City the Unremembered Parliament the Unremembered Parliament.svg]]
+- Influences [[Current Scene]]
+- Related: [[The Seven Breathing Stones 2]]
+- Influences [[NPC00127_Thalia_Quicksilver]]
+- Leads to [[Location City the Purification Temples V1 the Purification Temples.svg]]
+- Connects to [[step_006 (phase_016)]]
+- Leads to [[Home Embeds Vault Graph]]
+- Parallels [[dragonborn-names-clan-xge (tables)]]
+- Requires [[step_016]]
+- Parallels [[step_051 (phase_047)]]
+- Affected by [[Riding Horse Xmm]]
+- Requires [[NPC00023_Corvus_Ashford_the_Mystic]]
+- Related: [[Warrior Scarredheart]]
+- Related: [[step_028 (phase_014)]]
+- Influences [[QUEST00198_Main_Quest_199]]
+- Requires [[#NPC-Location Relationship Matrix]]
+- Requires [[step_002 (phase_094)]]
+- Related: [[forgotten-realms-talos (deities)]]
+- Originates from [[Entities Extra Dimensional Beings]]
+- Requires [[Communications Center 2]]
+- Leads to [[Amnesia Gallery]]
+- Connects to [[step_098 (phase_086)]]
+- Leads to [[step_057]]
+- Connects to [[Travel_Rules]]
+- Originates from [[Human Names Niger Congo Female Xge]]
+- See also: [[LOC00048_Cities_Location_49]]
+- Parallels [[NPC00178_Ewan_Emberfall_the_Cunning]]
+- Parallels [[step_003 (phase_075)]]
+- Compare with [[Storm-Caller Staff]]
+- Influences [[step_037]]
+- Related: [[Elder Scribe Marcus the Lost]]
+- Influences [[Reliquary Charm Xdmg]]
+- See also: [[jeweled-platinum-ring-xdmg (items)]]
+- Affected by [[step_049 (phase_041)]]
+- Requires [[NPC01124_Idris_Moonshadow_the_Guardian]]
+- Compare with [[step_063 (phase_088)]]
+- Leads to [[mummy-lord (legendary-group)]]
+- Connects to [[LOC00297_Planes_Location_298]]
+- Parallels [[Admiral Cordelia Tidewright (D&D_References)]]
+- Leads to [[Senator Glaucus Brain (People)]]
+- Affected by [[step_033]]
+- See also: [[emerald-xdmg (items)]]
+- Connects to [[LOC00174_Cities_Location_175]]
+- Compare with [[step_062 (phase_008)]]
+- Requires [[Yeti Xmm]]
+- Affected by [[Assets Locations Location City Archivist Vera Glowmind V1 Archivist Vera Glowmind.png]]
+- Connects to [[shadow-demon-xmm (fiend)]]
+- Requires [[The Convergence Key]]
+- Influences [[Artifact Properties Major Detrimental]]
+- Affected by [[NPC01430_Rhiannon_Oakenshield_the_Cunning]]
+- Parallels [[Symbol Heraldry Fin... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Related: [[step_002]]
+- Affected by [[Dataview Query Guide (D&D_References)]]
+- Requires [[Power Word Pain Xge]]
+- Related: [[Senator Abyssos Traditionkeeper]]
+- Connects to [[step_037 (phase_058)]]
+- Parallels [[Fear Effects Sample Fear Dcs Xdmg]]
+- See also: [[NPC00930_Thalia_Darkwater_the_Wanderer]]
+- Originates from [[Assets Locations Location City Silence Keeper Mute V1 Silence Keeper Mute.svg]]
+- Affected by [[staff-of-thunder-and-lightning-xdmg (items)]]
+- Compare with [[The Identity Chamber (D&D_References)]]
+- Affected by [[LOC00181_Planes_Location_182]]
+- Leads to [[QUEST00251_Personal_Quest_252]]
+- Compare with [[Shard_Locations (D&D_Sourcebooks)]]
+- Originates from [[MON00152_Constructs_Creature_153]]
+- Influences [[green-abishai-mpmm (fiend)]]
+- Requires [[The Order of the Azure Flame]]

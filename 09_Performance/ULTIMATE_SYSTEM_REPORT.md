@@ -1,6 +1,5 @@
 ---
-enhanced: true
-tags: [enhanced, 09_performance]
+enhanced: trtags: [enhanced, 09_performance, combat, magic, exploration, lore]ce]
 created: 2025-08-15T12:24:36.078411
 modified: 2025-08-15T12:24:36.078414
 aliases: [ULTIMATE SYSTEM REPORT]
@@ -209,3 +208,133 @@ Your vault is no longer just a collection of notes - it's a living, breathing, i
 ![[04_Resources/[[Assets|Assets]]/Misc/complete_faction_warfare_system_resource_management.png]]
 ![[04_Resources/Assets/Misc/filtration_systems_guild.png]]
 ![[04_Resources/Assets/[[Maps|Maps]]/World/Continents/world_assets_locations_location_city_pressure_tube_system_pressure_tube_system_svg_player.png]]
+
+
+> [!dm] DM Note
+> Ancient magic still lingers here
+
+## See Also
+- [[Related_Content]]
+
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Connects to [[step_060 (phase_089)]]
+- See also: [[ENC00411_Combat_Encounter_412]]
+- Affected by [[LOC00203_Dungeons_Location_204]]
+- Affected by [[The Memory Pools]]
+- Connects to [[Carved Wooden Harp with Ivory Inlay and Zircon Gems Xdmg]]
+- See also: [[step_079 (phase_071)]]
+- Leads to [[step_047 (phase_045)]]
+- Influences [[step_059 (phase_044)]]
+- Influences [[step_017]]
+- See also: [[step_059 (phase_028)]]
+- Compare with [[Assets Locations Location City Divine Communication Studies V1 Divine Communication Studies.svg]]
+- Compare with [[step_098 (phase_023)]]
+- Connects to [[Merfolk Wavebender Xmm]]
+- Related: [[illithilich-vgm (undead)]]
+- Originates from [[Quest - Truth Market]]
+- Influences [[step_026 (phase_045)]]
+- Parallels [[list-spells-races-dwarf-duergar-mtf (lists)]]
+- Influences [[step_091 (phase_052)]]
+- Leads to [[Aboleth]]
+- See also: [[Map Map Gloom Gardens Paths Gloom Gardens Paths.svg]]
+- Affected by [[Random_Event_Generator]]
+- Related: [[Portrait NPC Quest the Throne Succession V1 Quest the Throne Succession.svg]]
+- Compare with [[Dr. Marina Biolume]]
+- Parallels [[Aquabyssos Content]]
+- Leads to [[step_033 (phase_072)]]
+- Influences [[MON0010_Fire_Reaper]]
+- Affected by [[step_028]]
+- Connects to [[step_055 (phase_012)]]
+- Related: [[step_016 (phase_089)]]
+- Requires [[ITEM01489_Sturdy_Tool_Kit_of_Convenience]]
+- Parallels [[Session 21 - The Final Guardian]]
+- See also: [[Abyssos Prime Docks (D&D_References)]]
+- Connects to [[step_002]]
+- Connects to [[The Consciousness Vault]]
+- See also: [[step_090 (phase_099)]]
+- Originates from [[Bridge-Builder Community Center]]
+- Compare with [[step_020 (phase_080)]]
+- Parallels [[Tidal Deepvoice 2]]
+- See also: [[step_056 (phase_099)]]
+- Originates from [[step_075]]
+- Parallels [[step_022 (phase_015)]]
+- Influences [[Merged Magic]]
+- Parallels [[step_046]]
+- Originates from [[Portrait NPC the Parasite Priests V2 the Parasite Priests.svg]]
+- Parallels [[The_Professional_Training_Academy (Places)]]
+- Originates from [[step_003]]
+- Related: [[Talisman of Pure Good Xdmg]]
+- Related: [[horned-devil-xmm (fiend)]]
+- See also: [[Merchant Quarter Guildhalls 2]]
+- Requires [[Starting Equipment Starting Wealth by Class]]
+- See also: [[Random Traps Trap Trigger]]
+- Originates from [[ITEM00379_Radiant_Crossbow_of_Slaying]]
+- Influences [[step_026]]
+- Influences [[The Current Merchants (D&D_Statblocks)]]
+- Affected by [[Memory Merchant Kellan Depthseer 2]]
+- Influences [[LOC0130_Havenstead]]
+- Requires [[The Coral Throne 2]]
+- Connects to [[S-004 Cloud Canyon Player (Encounters)]]
+- Originates from [[step_033 (phase_039)]]
+- Originates from [[step_028 (phase_015)]]
+- Affected by [[Portrait NPC Captain Sterling Lightshield V2 Captain Sterling Lightshield.svg]]
+- Compare with [[Location City Memorial Current V1 Memorial Current.png]]
+- Related: [[QUEST00294_Side_Quest_295]]
+- Affected by [[step_076]]
+- Connects to [[Detect Magic Xphb]]
+- Leads to [[step_061 (phase_071)]]
+- Originates from [[LORE00326_Prophecies_Entry_327]]
+- Requires [[location-city-finn-goodtide-v1-finn-goodtide.svg]]
+- Compare with [[Independent Shadow Cell (Criminal_Organizations)]]
+- Requires [[The Siren (People)]]
+- Connects to [[ITEM01050_Concentrated_Salve_of_Clarity]]
+- See also: [[Void Watchers (Lore)]]
+- Related: [[step_067 (phase_036)]]
+- Affected by [[tiefling-levistus-mtf (races)]]
+- Parallels [[step_061 (phase_082)]]
+- Originates from [[step_030]]
+- Parallels [[step_014]]
+- Affected by [[Block and Tackle Xphb]]
+- Requires [[Portrait NPC Shadow Binding Sanctum V1 Shadow Binding Sanctum.svg_1 (Portraits)]]
+- Requires [[step_071 (phase_032)]]
+- Affected by [[step_090 (phase_026)]]
+- Related: [[step_019]]
+- See also: [[step_059 (phase_099)]]
+- Leads to [[LORE00212_Legends_Entry_213]]
+- Affected by [[step_067 (phase_035)]]
+- See also: [[Echo-Theorist Maya]]
+- Related: [[Symbol Heraldry Tem... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Requires [[Assets Locations Location City Tide Risktaker Tide Risktaker.svg]]
+- Connects to [[Information Systems Alliance]]
+- Influences [[step_064 (phase_092)]]
+- Related: [[Location City Truth and Madness V1 Truth and Madness.svg]]
+- Originates from [[Gentle Repose Xphb]]
+- Parallels [[Research Council (Groups)]]
+- Influences [[LORE00225_History_Entry_226]]
+- Originates from [[gem-of-brightness-xdmg (items)]]
+- Leads to [[MON00100_Undead_Creature_101]]
+- Parallels [[Memorial Tender Sarah]]
+- Influences [[Location_Generator]]
+- Leads to [[Dire Troll Mpmm]]
+- Requires [[step_064 (phase_037)]]

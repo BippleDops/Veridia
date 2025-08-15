@@ -1,6 +1,5 @@
 ---
-enhanced: true
-tags: [enhanced, 13_performance]
+enhanced: trtags: [enhanced, 13_performance, combat, lore]ce]
 created: 2025-08-15T12:24:41.032530
 modified: 2025-08-15T12:24:41.032535
 aliases: [deep quality enhancement 20250814 175143]
@@ -70,3 +69,26 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Scenes/scene-scene-deep-mother-s-tentacles-rising-v2-deep-mother-s-tentacles-rising.png]]
 ![[04_Resources/Assets/Scenes/scene-scene-deep-mother-s-tentacles-rising-deep-mother-s-tentacles-rising.png]]
 ![[04_Resources/Assets/Scenes/scene-scene-deep-mother-s-tentacles-rising-v1-deep-mother-s-tentacles-rising.png]]
+
+
+> [!dm] DM Note
+> Hidden treasure can be found here with a DC 15 Investigation check
+
+
+## Related Content
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*

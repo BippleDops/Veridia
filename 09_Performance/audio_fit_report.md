@@ -1,6 +1,5 @@
 ---
-enhanced: true
-tags: [enhanced, 13_performance]
+enhanced: trtags: [enhanced, 13_performance, combat, magic, exploration, lore]ce]
 created: 2025-08-15T12:24:40.995065
 modified: 2025-08-15T12:24:40.995070
 aliases: [audio fit report]
@@ -293,3 +292,31 @@ publish: false --- |---|---:|:---:|---|
 ![[04_Resources/Assets/Maps/World/Continents/world_reports_bidirectional_links_gm.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_reports_bidirectional_links_player.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_witness_reports_gm.png]]
+
+
+> [!dm] DM Note
+> Ancient magic still lingers here
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*

@@ -1,6 +1,6 @@
 ---
-aliases: ["Idris Moonshadow the Broken", "idris moonshadow the broken", "Idris Moonshadow Broken", "Broken the Moonshadow Idris"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Idris Moonshadow the Broken", "idris moonshadow the broken", "Idris Moonshadow Broken", "Broken the Moonshadow Idristags: [npc, character, combat, magic, social, lore]er]
 type: npc
 ---
 
@@ -135,3 +135,127 @@ Offers deal too good to refuse
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+- **Skills**: See PHB p.174-179
+- **Spellcasting**: See PHB p.201-205
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Originates from [[step_037]]
+- Affected by [[Wandering Prophet Coral Stormrider (D&D_References)]]
+- Leads to [[SPELL00136_Nature_Spell_137]]
+- Leads to [[step_031 (phase_079)]]
+- Influences [[Doctor_Silas_Voidtouch.png]]
+- Leads to [[portrait-npc-mayor-s-manor-v2-mayor-s-manor.svg_1 (Portraits)]]
+- Originates from [[Border Territories]]
+- Parallels [[04_Resources_Assets_Locations_location-city-the--cathedral-the--cathedral.svg]]
+- Affected by [[Faerunian Kelemvor Scag]]
+- Parallels [[remove-curse-xphb (spells)]]
+- Influences [[step_025 (phase_089)]]
+- See also: [[Assets Locations Location City the Drowning Truth V1 the Drowning Truth.svg]]
+- Originates from [[step_028 (phase_024)]]
+- Compare with [[step_033]]
+- Connects to [[Shadow Energy Processing Facilities 2]]
+- Compare with [[Derro Mpmm]]
+- Parallels [[step_003]]
+- Compare with [[LORE00276_History_Entry_277]]
+- Leads to [[Faction Interaction Rules]]
+- See also: [[step_099 (phase_016)]]
+- Influences [[step_050 (phase_034)]]
+- Influences [[The Border Marches]]
+- Connects to [[step_051 (phase_089)]]
+- Connects to [[Boots of Elvenkind Xdmg]]
+- Leads to [[Void Shepherds]]
+- Originates from [[The Forgotten Mourner (D&D_References)]]
+- See also: [[Spiritual Healing]]
+- Influences [[Harbor Master's Tower 2]]
+- Parallels [[Location City Sommelier Bacchus Deepbottle Sommelier Bacchus Deepbottle.svg]]
+- Leads to [[step_079 (phase_081)]]
+- Connects to [[NPC01052_Idris_Brightblade_the_Mystic]]
+- Influences [[step_018 (phase_086)]]
+- Influences [[Coastal Encounters Levels 510 Xge]]
+- Parallels [[step_029]]
+- Originates from [[Sister Astara the Ever-Watching 2]]
+- Leads to [[step_016]]
+- Connects to [[instrument-of-the-bards-xdmg (items)]]
+- Connects to [[Magic Initiate Xphb]]
+- Compare with [[MON00147_Undead_Creature_148]]
+- Parallels [[NPC0107_Beatrix_Goldleaf]]
+- Originates from [[step_080]]
+- Connects to [[Minister Nightpolicy]]
+- Connects to [[MON00073_Constructs_Creature_74]]
+- Compare with [[Lord Reginald Seaworthy (D&D_References)]]
+- Related: [[step_037 (phase_033)]]
+- Compare with [[LOC0135_LowerGate]]
+- Influences [[NPC00931_Erasmus_Winterborn_the_Swift]]
+- Parallels [[step_069 (phase_039)]]
+- Influences [[LOC0011_SouthBridge]]
+- Influences [[Elder Kythara]]
+- Compare with [[MON00143_Aberrations_Creature_144]]
+- See also: [[The Forgotten One 2]]
+- Parallels [[QUEST00145_Personal_Quest_146]]
+- Influences [[Master Smith-Priest Vulcan Depthforge (D&D_References)]]
+- Related: [[Wind Songs (D&D_References)]]
+- Compare with [[Roleplaying a Beholder Beholder Bonds Vgm]]
+- Affected by [[LORE00065_History_Entry_66]]
+- See also: [[Minister of Trade Relations]]
+- Parallels [[Trade Goods Catalog (D&D_References)]]
+- See also: [[hook-horror-spore-servant-oota (plant)]]
+- Leads to [[Calendar_Conversions_Realm_Window]]
+- Compare with [[figuring-out-alien-technology (tables)]]
+- Influences [[NPC Relationship Web 2]]
+- Originates from [[cleaving-through-creatures (variant-rules)]]
+- Compare with [[Surface Syndicate (D&D_References)]]
+- Compare with [[step_092 (phase_055)]]
+- See also: [[Animations - Motion_Specs]]
+- Compare with [[step_045]]
+- Leads to [[Goristro Xmm]]
+- Connects to [[step_074]]
+- Affected by [[List Spells Optional Features Dreadful Word]]
+- Connects to [[Memory Whales 2]]
+- See also: [[ITEM00751_Ancient_Mirror_of_Dominion]]
+- See also: [[EVENT00052_Natural_Event_53]]
+- Requires [[NPC00287_Ysara_Underhill_the_Wise]]
+- Parallels [[step_032 (phase_012)]]
+- Influences [[The Mediator 2]]
+- Requires [[Location_Prompts - Cities (Assets)]]
+- Influences [[Location City Pressure Guard Steelwall V1 Pressure Guard Steelwall.svg]]
+- Requires [[List Spells Classes Monk]]
+- Influences [[Enspelled Weapon Level 7 Xdmg]]
+- See also: [[The Observatory of Celestial Wisdom]]
+- Leads to [[Regenerating Black Pudding Oota]]
+- Related: [[step_006 (phase_019)]]
+- Affected by [[Medical Director Healing Tidecurrent]]
+- Requires [[step_037 (phase_059)]]
+- Parallels [[Lady Victoria Pennworth (D&D_References)]]
+- Parallels [[Enforcer Chief Mako Ironjaw (D&D_References)]]
+- Influences [[12_Research_D&D_Statblocks_High_Priestess_Celeste_Dawnbringer]]
+- See also: [[step_092 (phase_042)]]
+- Compare with [[LORE00268_History_Entry_269]]
+- Parallels [[location-city-artificer-s-row-artificer-s-row.svg]]
+- Compare with [[Portrait NPC the Lady S Garden Society V1 the Lady S Garden Society.svg]]
+- Related: [[step_070 (phase_035)]]
+- Affected by [[brass-mug-with-jade-inlay-xdmg (items)]]
+- Leads to [[step_088 (phase_038)]]
+- Compare with [[Location City the Original Palace V1 the Original Palace.svg]]
+- Related: [[Portrait NPC Tenebrarum Ambassadors V2 Tenebrarum Ambassadors.svg_1 (Portraits)]]
+- Compare with [[location-city-pressure-tubes-v1-pressure-tubes.svg]]
+- Affected by [[Creature Creature Nightwalker Mpmm V4 Nightwalker Mpmm.png]]

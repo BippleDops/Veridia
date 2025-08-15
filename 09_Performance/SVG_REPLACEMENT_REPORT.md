@@ -1,6 +1,5 @@
 ---
-enhanced: true
-tags: [enhanced, 13_performance]
+enhanced: trtags: [enhanced, 13_performance, combat, magic, exploration, lore]ce]
 created: 2025-08-15T12:24:40.980504
 modified: 2025-08-15T12:24:40.980509
 aliases: [SVG REPLACEMENT REPORT]
@@ -111,3 +110,135 @@ publish: false --- -|--------|
 - A mysterious message arrives regarding this location
 - Rumors speak of hidden treasures nearby
 - Strange occurrences have been reported recently
+
+
+> [!dm] DM Note
+> Ancient magic still lingers here
+
+
+## Related Content
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Conditions**: See PHB p.290-292
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Related: [[The Schooling (D&D_References)]]
+- Influences [[Symbol Heraldry Sal... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Influences [[LOC00223_Cities_Location_224]]
+- Originates from [[DUN00052_Dungeon_53]]
+- Leads to [[The Phantom Current]]
+- See also: [[Portrait NPC Abyssal Cathedral V1 Abyssal Cathedral.svg_1 (Portraits)]]
+- Connects to [[The Whistleblower (D&D_References)]]
+- Connects to [[Reality Distortion (D&D_References)]]
+- Influences [[Dungeon Dressing Noises]]
+- Parallels [[QUEST00192_Main_Quest_193]]
+- Related: [[step_012 (phase_021)]]
+- Affected by [[NPC01088_Dara_Xendar_the_Redeemed]]
+- Affected by [[The Sunken Observatory 2]]
+- Connects to [[Location City Harbor Pilot Captain Storm Skyreacher Harbor Pilot Captain Storm Skyreacher.svg]]
+- See also: [[SPELL00017_Arcane_Spell_18]]
+- Influences [[Location City Choir Master Celestine Hymnsinger Choir Master Celestine Hymnsinger.svg]]
+- Connects to [[Portrait NPC Deep Mother Cultist Profiles Deep Mother Cultist Profiles.svg]]
+- Requires [[step_069]]
+- See also: [[Assets Locations Location City Builder Coral Architect Builder Coral Architect.png]]
+- Influences [[step_068 (phase_074)]]
+- Influences [[location-city-amnesia-gallery-amnesia-gallery.svg]]
+- Affected by [[Commander Tidal Strongcurrent]]
+- Parallels [[Spiritual Healing]]
+- Compare with [[QUEST00190_Main_Quest_191]]
+- Influences [[step_044 (phase_093)]]
+- Affected by [[creature-creature-dragon-v2-dragon.png]]
+- Originates from [[step_016 (phase_088)]]
+- Related: [[NPC00245_Delara_Dawnstrider_the_Cunning]]
+- Compare with [[step_017 (phase_005)]]
+- Influences [[Shadow Energy Sources]]
+- Connects to [[DUN00110_Dungeon_111]]
+- Connects to [[quaals-feather-token-swan-boat-xdmg (items)]]
+- Influences [[The Memory Trade]]
+- Compare with [[The Reality Reformation]]
+- Connects to [[The Battle Forge Arena]]
+- Compare with [[Dragonlance Chemosh Phb]]
+- Leads to [[Location City Port Meridian Harbor Port Meridian Harbor.svg]]
+- Affected by [[step_053]]
+- Affected by [[Assets Locations Location City Maestro Finn Whirlstep V1 Maestro Finn Whirlstep.svg]]
+- Affected by [[Helm of Comprehending Languages Xdmg]]
+- Originates from [[Assets Locations Location City Foam Deepferment V1 Foam Deepferment.svg]]
+- Leads to [[The Audit Tower (D&D_References)]]
+- Related: [[rhinoceros-xmm (beast)]]
+- See also: [[NPC00855_Felicia_Hawthorne_the_Wanderer]]
+- Compare with [[Parliament of Echoes - Public Gallery (D&D_References)]]
+- See also: [[Forest Encounters Levels 14 Xge]]
+- Compare with [[Portrait NPC Free Current Safe Houses V2 Free Current Safe Houses.svg]]
+- Influences [[Assets Handouts Handout Handout Embassy Invitation V2 Embassy Invitation.png]]
+- Connects to [[spyglass-xphb (items)]]
+- Connects to [[step_047]]
+- Originates from [[Potion of Fire Resistance Xdmg]]
+- Parallels [[Mirror Merchant Marina 2]]
+- Related: [[step_012 (phase_075)]]
+- Leads to [[elven-zandilar-mtf (deities)]]
+- Compare with [[The Reflection Pools (D&D_Statblocks)]]
+- Leads to [[Symbol Heraldry Commander Void Tacticia V1 Commander Void Tacticia.svg]]
+- Parallels [[NPC01121_Malakai_Thornweave_the_Scholar]]
+- Originates from [[step_088]]
+- Originates from [[Assets Item Artifact Enspelled Armor Level 7 Xdmg Enspelled Armor Level 7 Xdmg.png]]
+- Related: [[Unity Ambassador Cross-Current]]
+- Affected by [[Drill Sergeant Discipline]]
+- Requires [[Githzerai Groups Githzerai Special Allies Mtf]]
+- Influences [[iron-bands-of-bilarro-xdmg (items)]]
+- Related: [[step_004]]
+- See also: [[step_005]]
+- Affected by [[LOC00141_Dungeons_Location_142]]
+- Compare with [[LOC00248_Cities_Location_249]]
+- Leads to [[NPC01920_Cedric_Winterborn_the_Wanderer]]
+- Leads to [[Dimensional Specialists]]
+- See also: [[Symbol Heraldry Factional Conflicts Factional Conflicts.svg_1 (Symbols)]]
+- Requires [[LOC00286_Planes_Location_287]]
+- Requires [[Location City Admiral Thalassa Stormcurrent Admiral Thalassa Stormcurrent.svg]]
+- Affected by [[Portrait NPC Captain Thorne Darkwater Captain Thorne Darkwater.svg]]
+- Parallels [[Professional Training]]
+- Requires [[Assets Portraits Portrait NPC Sire Sire.svg]]
+- Related: [[chrysoberyl-xdmg (items)]]
+- See also: [[step_043 (phase_064)]]
+- Leads to [[ITEM01165_Greater_Potion_of_Swiftness]]
+- See also: [[location-city-depth-merchants-depth-merchants.svg]]
+- Connects to [[SHOP00013_Magical_Shop_14]]
+- Compare with [[EVENT00025_Natural_Event_26]]
+- Influences [[Location City Keeper Seafoam the Neutral V1 Keeper Seafoam the Neutral.svg]]
+- Compare with [[The Azure Chamber]]
+- Parallels [[Assets Locations Location City Transportation Guild V1 Transportation Guild.svg]]
+- Compare with [[LOC00134_Dungeons_Location_135]]
+- Compare with [[portrait-npc-mayor-thompson-mayor-thompson.svg_1 (Portraits)]]
+- Parallels [[Forbidden Tomes]]
+- Compare with [[EVENT00025_Political_Event_26]]
+- Connects to [[NPC01693_Kaelen_Crystalbrook_the_Risen]]
+- Compare with [[Queen Seraphina Lumengarde]]
+- Affected by [[Symbol Heraldry Archmerchant Codex Goldstrea Archmerchant Codex Goldstrea.svg]]
+- Leads to [[Prophetic Visions 2]]
+- Requires [[step_017]]
+- Connects to [[Shadow Medical Ethics]]
+- Originates from [[downtime-activity-crafting-an-item-xge (variant-rules)]]
+- Requires [[The Resurgent Tide]]
+- Parallels [[ITEM01384_Elegant_Compass_of_Convenience]]
+- Related: [[Interfaith Cooperation 2]]
+- Influences [[Abyssos Prime - Pressure Terminal (D&D_References)]]
+- Requires [[step_015 (phase_063)]]

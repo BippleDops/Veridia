@@ -1,4 +1,5 @@
 ---
+created: 2025-08-15
 aliases: ["Kaelen Voidwalker the Cunning", "kaelen voidwalker the cunning", "Kaelen Voidwalker Cunning", "Cunning the Voidwalker Kaelen"]
 tags: [npc, character]
 type: npc
@@ -146,3 +147,144 @@ Knows secret about major threat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Player's Handbook (PHB) p.251
+- Xanathar's Guide to Everything (XGE) p.281
+- Volo's Guide to Monsters (VGM) p.1
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+- **Spellcasting**: See PHB p.201-205
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Parallels [[step_047 (phase_009)]]
+- Parallels [[Goldwave Financial Offices]]
+- Related: [[step_040 (phase_061)]]
+- See also: [[step_079 (phase_079)]]
+- Compare with [[ITEM01146_Greater_Powder_of_Clarity]]
+- Related: [[Shadow Nullification Field]]
+- Related: [[QUEST00197_Side_Quest_198]]
+- Compare with [[The Phantom Docks]]
+- Related: [[LOC00268_Dungeons_Location_269]]
+- Requires [[QUEST00199_Personal_Quest_200]]
+- Influences [[NPC00946_Fiora_Proudmore_the_Fallen]]
+- Leads to [[The Throne Room (D&D_References)]]
+- Leads to [[ITEM00660_Mithril_Leather_of_Protection]]
+- Parallels [[warlock-xphb-great-old-one-patron-xphb (classes)]]
+- Influences [[step_039 (phase_011)]]
+- Parallels [[Assets Locations Location City Registry Keeper Mordecai Truthbane Registry Keeper Mordecai Truthbane.svg]]
+- Affected by [[Scene Scene Storm Approaching the Airship Storm Approaching the Airship.png]]
+- Compare with [[step_071]]
+- Related: [[Elven Tethrin Veralde Mtf]]
+- Influences [[NPC00671_Cedric_Goldleaf_the_Mystic]]
+- Influences [[Language Evolution Tracker]]
+- Connects to [[step_017]]
+- Influences [[sled-dog-rot (beast)]]
+- See also: [[step_034 (phase_048)]]
+- Requires [[The Last Seeds]]
+- Connects to [[Bone Princes]]
+- Connects to [[Creature Creature Nightmare Xmm V2 Nightmare Xmm.png]]
+- Requires [[ITEM00828_Void-touched_Mirror_of_the_Gods]]
+- Originates from [[LOC00116_Wilderness_Location_117]]
+- Leads to [[step_029 (phase_015)]]
+- Leads to [[step_062 (phase_082)]]
+- Influences [[cloak-of-arachnida-xdmg (items)]]
+- Leads to [[QUEST00168_Side_Quest_169]]
+- See also: [[step_064 (phase_023)]]
+- Originates from [[Portrait NPC Blackwater Estate V2 Blackwater Estate.svg]]
+- Affected by [[step_001 (phase_019)]]
+- Connects to [[The Deep Patrol (D&D_References)]]
+- Related: [[step_076 (phase_069)]]
+- Originates from [[Aquabyssos Medical University 2]]
+- Affected by [[Scene Scene the Party S First Glimpse of Abyssos Prime V1 the Party S First Glimpse of Abyssos Prime.png]]
+- Affected by [[Assets Locations Location City Pressure Gems Pressure Gems.svg]]
+- Influences [[ENC00438_Combat_Encounter_439]]
+- See also: [[Crystal Caves of Aethermoor (D&D_References)]]
+- See also: [[giant-toad-xmm]]
+- Requires [[Aboleth Memories]]
+- Parallels [[Assets Locations Location City the Noble Quarter Market the Noble Quarter Market.svg]]
+- Originates from [[step_048 (phase_015)]]
+- Related: [[Master Cartographer Current Deepmap]]
+- Connects to [[ENC00223_Social_Encounter_224]]
+- Related: [[Deep Sea Research Facilities]]
+- Leads to [[Circle of Nature's Balance (D&D_References)]]
+- Compare with [[Symbol Heraldry the Umbral Exchange the Umbral Exchange.svg]]
+- Leads to [[FAC00035_Guilds_36]]
+- Parallels [[item-properties (CLI_Reference)]]
+- Related: [[step_094 (phase_031)]]
+- See also: [[Chancellor_Octavius.png]]
+- Originates from [[International Crystal Trade Associatio]]
+- Influences [[egyptian-re-horakhty (deities)]]
+- Connects to [[LOC00226_Cities_Location_227]]
+- Connects to [[step_055]]
+- Leads to [[FAC00072_Cults_73]]
+- Compare with [[Identify the Partys Goals Other Goals]]
+- Related: [[SPELL00101_Arcane_Spell_102]]
+- Originates from [[Random_Loot (02_Worldbuilding)]]
+- Influences [[Staff of Thunder and Lightning Xdmg]]
+- Compare with [[thunderwave-xphb (spells)]]
+- Originates from [[step_069 (phase_044)]]
+- Requires [[magma-mephit-xmm (elemental)]]
+- Influences [[step_092 (phase_058)]]
+- Related: [[step_047]]
+- Leads to [[downtime-activity-carousing-xge (variant-rules)]]
+- Requires [[Assets Locations Location City Symphony of the Abyss Recipe Symphony of the Abyss Recipe.svg]]
+- Parallels [[Portrait NPC Pirate Captain Blacktide V2 Pirate Captain Blacktide.svg]]
+- Connects to [[Timeline of Crimes (D&D_References)]]
+- Originates from [[Symbol Heraldry Foreman Prime Salvage Maste Foreman Prime Salvage Maste.svg]]
+- Leads to [[step_062 (phase_017)]]
+- See also: [[step_062]]
+- Affected by [[step_029 (phase_020)]]
+- Requires [[step_064 (phase_025)]]
+- Parallels [[step_061 (phase_025)]]
+- Connects to [[Assets Locations Location City Shadow Portal Nexus V1 Shadow Portal Nexus.svg]]
+- Related: [[ITEM00249_Blazing_Hammer_of_Wounding]]
+- Originates from [[step_051]]
+- Originates from [[QUEST00115_Side_Quest_116]]
+- Originates from [[Coverage Dashboard]]
+- Leads to [[Market Squar]]
+- Affected by [[Ironhold Dock]]
+- Connects to [[step_090]]
+- See also: [[LOC00058_Planes_Location_59]]
+- Affected by [[LORE00219_Legends_Entry_220]]
+- Related: [[Serenity Stillwater (D&D_References)]]
+- Influences [[Leviathan Shrines]]
+- See also: [[Conceptual Being #7]]
+- Connects to [[ITEM00696_Warded_Shield_of_the_Guardian]]
+- Leads to [[Quest - Liberation of The Deepmind]]
+- Affected by [[Cleric Xphb Nature Domain]]
+- Compare with [[The Shadow Exchange]]
+- Connects to [[False Breather 2]]
+- Influences [[step_068 (phase_048)]]
+- Connects to [[step_069 (phase_020)]]

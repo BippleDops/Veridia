@@ -1,6 +1,6 @@
 ---
-aliases: ["Thalia Brightblade the Guardian", "thalia brightblade the guardian", "Thalia Brightblade Guardian", "Guardian the Brightblade Thalia"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Thalia Brightblade the Guardian", "thalia brightblade the guardian", "Thalia Brightblade Guardian", "Guardian the Brightblade Thaliatags: [npc, character, combat, magic, lore]er]
 type: npc
 ---
 
@@ -137,3 +137,132 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Mage** (MM p.347)
+Modifications:
+- HP: 50
+- AC: 12
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- See also: [[Communications Officer Echo Farspeak]]
+- Affected by [[LORE00013_Prophecies_Entry_14]]
+- See also: [[step_099]]
+- See also: [[ITEM0104_Ancient_Gauntlet_of_the_Dawn]]
+- Requires [[Portrait NPC the Crimson Sage V1 the Crimson Sage.svg]]
+- Affected by [[NPC01387_Xander_Zephyrblade_the_Redeemed]]
+- Leads to [[step_057 (phase_031)]]
+- See also: [[Portrait NPC Lady Crystal Heart Miraleth V1 Lady Crystal Heart Miraleth.svg]]
+- Related: [[SPELL00077_Arcane_Spell_78]]
+- Influences [[#Planets]]
+- Parallels [[ITEM00155_Shadow_Crossbow_of_Power]]
+- See also: [[The Scribes' Covenant (D&D_References)]]
+- Originates from [[Assets Locations Location City Religious Leaders V1 Religious Leaders.svg]]
+- Influences [[ITEM01212_Pure_Herb_of_Clarity]]
+- Affected by [[step_074]]
+- Affected by [[scholars-of-witherbloom-witherbloom-scholars-scc]]
+- Parallels [[step_010 (phase_033)]]
+- Compare with [[step_097 (phase_011)]]
+- Compare with [[QUEST00093_Main_Quest_94]]
+- Leads to [[Working Class Routines (Lore)]]
+- Influences [[Dragonlance Branchala Phb]]
+- Requires [[step_089 (phase_075)]]
+- Related: [[ITEM00270_Blessed_Sword_of_Speed]]
+- Influences [[LOC00082_Wilderness_Location_83]]
+- Originates from [[step_036 (phase_052)]]
+- See also: [[speak-with-animals-xphb (spells)]]
+- See also: [[Fighter Xphb Samurai Xge]]
+- Influences [[Academy of Crystalline Art]]
+- Parallels [[step_032]]
+- See also: [[Depth Adaptation Therapy]]
+- Requires [[Cultural Districts (D&D_References)]]
+- See also: [[step_066 (phase_058)]]
+- Requires [[ITEM00427_Enchanted_Gauntlets_of_Resistance]]
+- Requires [[Symbol Heraldry Ambassador Blacktrade Ambassador Blacktrade.svg]]
+- Leads to [[step_059 (phase_039)]]
+- Requires [[University of Deepcurrent]]
+- Leads to [[silver-chalice-set-with-moonstones-xdmg (items)]]
+- Leads to [[step_013 (phase_046)]]
+- Connects to [[multiclassing-xphb (variant-rules)]]
+- Affected by [[Magic Schools and Academies]]
+- Affected by [[step_087 (phase_043)]]
+- Originates from [[step_053 (phase_082)]]
+- Influences [[step_075]]
+- Leads to [[Assets Locations Location City Marina Deepcurrent V1 Marina Deepcurrent.svg]]
+- Parallels [[location-city-sister-morwyn-sister-morwyn.svg]]
+- See also: [[geas-xphb (spells)]]
+- Requires [[step_007]]
+- Requires [[Assets Locations Location City Observatory District Observatory District.svg]]
+- Influences [[The Pearl Guard (D&D_References)]]
+- Related: [[Assets Handouts Handout Handout Docking Permit V2 Docking Permit.png]]
+- Originates from [[QUEST00036_Personal_Quest_37]]
+- Leads to [[step_034]]
+- Affected by [[Forgotten Realms Eldath]]
+- Related: [[suffocation-xphb (traps-hazards)]]
+- Originates from [[Downtime Activity Buying a Magic Item Xge]]
+- Connects to [[Portrait NPC Sister Thalassa the Depth Touched V2 Sister Thalassa the Depth Touched.svg]]
+- Leads to [[Location City Elder Matthias Stoneward V1 Elder Matthias Stoneward.svg]]
+- Leads to [[LORE00035_Prophecies_Entry_36]]
+- Leads to [[step_076 (phase_087)]]
+- Compare with [[Interrogation Techniques (D&D_References)]]
+- Requires [[Market Charte 2]]
+- Influences [[prophets-gambit-cos (variant-rules)]]
+- Compare with [[step_041 (phase_035)]]
+- Affected by [[step_009 (phase_090)]]
+- Leads to [[Artist Voidbrush 2]]
+- Related: [[Location City Education Department Education Department.svg]]
+- Parallels [[Dawn War Torog Dmg]]
+- Parallels [[step_003]]
+- Leads to [[Citizens' Budget Review]]
+- See also: [[Guardian Isolation Syndrom 2]]
+- See also: [[Portrait NPC Aria... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Leads to [[Automatic Success]]
+- Influences [[Cultural Studies Program]]
+- Leads to [[step_061]]
+- See also: [[Brother_Matthias_Inkdrinker.png]]
+- Compare with [[Assets Handouts Handout Handout Embassy Invitation Embassy Invitation.png]]
+- Leads to [[Portrait NPC Deep Mother Priestess Sira Deep Mother Priestess Sira.svg_1 (Portraits)]]
+- See also: [[The Void Walkers]]
+- Related: [[Leviathan Shrines]]
+- Influences [[ITEM00114_Thunder_Staff_of_Accuracy]]
+- Connects to [[1 DM Toolkit Home Embeds Dv]]
+- Leads to [[Portrait NPC Captain Torrent Swiftcurrent V2 Captain Torrent Swiftcurrent.svg]]
+- Leads to [[Investigation Mechanics]]
+- Connects to [[Continental War 3 (D&D_References)]]
+- Related: [[pale-tincture-xdmg (items)]]
+- Related: [[Archivist Elena Sorrowkeeper 2]]
+- Leads to [[List Spells Optional Features Bewitching]]
+- Influences [[step_002 (phase_078)]]
+- See also: [[step_067]]
+- Leads to [[step_069 (phase_035)]]
+- See also: [[Expedition to the Sunless Depths 2]]
+- Related: [[The Final Forgetting (D&D_References)]]
+- Related: [[Crystal_Corruption (03_Mechanics)]]
+- Parallels [[The Crystal Integration Festival 2]]
+- Leads to [[step_090 (phase_099)]]
+- Leads to [[Student Researcher Brightwater (D&D_References)]]
+- Leads to [[Assets Locations Location City Pressure Brewing Technology V1 Pressure Brewing Technology.svg]]
+- Leads to [[Major Surgeon Nightfall]]
+- See also: [[step_065 (phase_049)]]
+- Related: [[vine-blight-xmm]]

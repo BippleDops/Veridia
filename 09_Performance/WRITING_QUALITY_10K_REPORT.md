@@ -1,6 +1,5 @@
 ---
-enhanced: true
-tags: [enhanced, 09_performance]
+enhanced: trtags: [enhanced, 09_performance, combat, magic, exploration, puzzle, lore]ce]
 created: 2025-08-15T12:24:36.161414
 modified: 2025-08-15T12:24:36.161418
 aliases: [WRITING QUALITY 10K REPORT]
@@ -264,3 +263,140 @@ Your TTRPG vault is now not just organized and complete - it's beautifully writt
 ![[04_Resources/[[Assets|Assets]]/[[Maps|Maps]]/World/Continents/world_assets_locations_location_city_quality_inspector_reef_perfectwright_quality_inspector_reef_perfectwright_svg_political.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_quality_inspector_reef_perfectwright_quality_inspector_reef_perfectwright_svg_physical.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_quality_inspector_reef_perfectwright_v1_quality_inspector_reef_perfectwright_svg_physical.png]]
+
+
+> [!dm] DM Note
+> This location connects to the main plot
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[10K_GENERATION_REPORT]]
+- [[ULTIMATE_VAULT_ACHIEVEMENT]]
+- [[NEXT_LEVEL_IMPROVEMENTS]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Combat**: See PHB p.189-198
+- **Resting**: See PHB p.186
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Originates from [[Captain Blackwater's Fate]]
+- Affected by [[MON00025_Aberrations_Creature_26]]
+- Requires [[step_058 (phase_048)]]
+- Compare with [[Beast of the Land Xphb]]
+- Related: [[NPC00859_Idris_Voidwalker_the_Guardian]]
+- Connects to [[step_060 (phase_081)]]
+- Parallels [[Church of the Tidal Throne 2]]
+- Parallels [[DUN00093_Dungeon_94]]
+- Originates from [[step_092 (phase_027)]]
+- Compare with [[#Services]]
+- Parallels [[step_066]]
+- Requires [[Map Map Gloom Gardens Paths Gloom Gardens Paths.svg]]
+- Connects to [[Sacred Depth Sites]]
+- Originates from [[LORE00084_History_Entry_85]]
+- Leads to [[MON00025_Constructs_Creature_26]]
+- Originates from [[step_072 (phase_016)]]
+- Connects to [[random-buildings-religious-building (tables)]]
+- Affected by [[skills#Deception]]
+- Compare with [[High Tide Keeper Nautilus Primordial 2]]
+- Connects to [[Session Zero Checklist]]
+- Affected by [[bastion-events-xdmg (tables)]]
+- Leads to [[step_026]]
+- Leads to [[step_026 (phase_048)]]
+- Leads to [[Bejeweled Ivory Drinking Horn with Gold Filigree Xdmg]]
+- Requires [[Timeline_Tracker.base]]
+- Influences [[Location City the Deepmost Current V1 the Deepmost Current.svg]]
+- Parallels [[Law Enforcement (D&D_References)]]
+- Influences [[Fiendish Cults Cult Organization Mtf]]
+- Parallels [[amulet-xphb (items)]]
+- Leads to [[step_087 (phase_097)]]
+- Leads to [[missing-caravan.png]]
+- Compare with [[List Spells Classes Warrior of the Elements]]
+- Related: [[step_027]]
+- See also: [[ITEM00460_Enchanted_Shield_of_Protection]]
+- Affected by [[LOC00208_Cities_Location_209]]
+- Affected by [[Session 06 the Sky Throne]]
+- Compare with [[step_029]]
+- Influences [[step_071 (phase_078)]]
+- Affected by [[Assets Locations Location City the Trade Quarter the Trade Quarter.svg]]
+- Related: [[LEAN_IMPROVEMENT_GLIDE_PATH]]
+- Related: [[Systematic Governmental Reform]]
+- Parallels [[physical-characteristics-beholder-skin-texture-vgm]]
+- Connects to [[Portrait NPC High King Aurelius Skyborn V1 High King Aurelius Skyborn.svg_1 (Portraits)]]
+- Related: [[step_046 (phase_047)]]
+- Requires [[step_048]]
+- Related: [[02_Worldbuilding_Lore_The_Void_Shard]]
+- Affected by [[Merchant Family Tidewalker 2]]
+- Compare with [[NPC01478_Solas_Voidwalker_the_Strong]]
+- Compare with [[step_081 (phase_070)]]
+- Related: [[step_044 (phase_073)]]
+- Requires [[Half Orc]]
+- Connects to [[step_083]]
+- Affected by [[step_072 (phase_085)]]
+- Influences [[step_049 (phase_016)]]
+- See also: [[step_049 (phase_080)]]
+- Connects to [[Reference Quick Reference Dnd5e Sidescreen 2014]]
+- See also: [[Deep Mother Subsystem]]
+- Leads to [[The Perfect Symbiosis 2]]
+- Parallels [[elven-sehanine-moonbow-mtf (deities)]]
+- Leads to [[step_003 (phase_092)]]
+- Affected by [[Minister of Trade Relations 2]]
+- Affected by [[enspelled-weapon-level-4-xdmg (items)]]
+- Influences [[LORE00123_History_Entry_124]]
+- Influences [[Complete_Pressure_Adaptation_System (D&D_References)]]
+- Influences [[Session 8 - The Stellar Convergence]]
+- Requires [[keg-launcher-xdmg (objects)]]
+- Connects to [[Gravity Anomaly Mechanics 2]]
+- Related: [[ULTIMATE_SYSTEM_REPORT]]
+- Compare with [[alternatives-to-epic-boons (variant-rules)]]
+- Compare with [[yuan-ti-malison-type-2-xmm]]
+- Originates from [[step_090]]
+- Requires [[Assets Locations Location City Navigator Abyssal Truthseeker V1 Navigator Abyssal Truthseeker.svg]]
+- Requires [[Assets Locations Location City Deep Stone Eaters Deep Stone Eaters.svg]]
+- Related: [[NPC00272_Rhiannon_Brightblade]]
+- Leads to [[The Forbidden Archives]]
+- Requires [[step_041]]
+- Related: [[step_047 (phase_032)]]
+- Originates from [[step_033 (phase_014)]]
+- Parallels [[Void-Keeper Null (D&D_References)]]
+- Compare with [[Tlincalli Mpmm]]
+- Originates from [[creature-creature-dragon-v1-dragon.png]]
+- Leads to [[Warforged 2]]
+- Connects to [[step_054]]
+- Parallels [[SPELL00055_Arcane_Spell_56]]
+- See also: [[ITEM00671_Ethereal_Helm_of_Protection]]
+- Related: [[The Overflow]]
+- Affected by [[step_019 (phase_088)]]
+- Connects to [[step_057 (phase_056)]]
+- Parallels [[step_087 (phase_047)]]
+- Parallels [[NPC00504_Qadim_Darkwater_the_Redeemed]]
+- Connects to [[step_077]]
+- Compare with [[Assets Locations Location City Vote Vaults Vote Vaults.svg]]
+- Originates from [[step_082 (phase_050)]]
+- Leads to [[Assets Locations Location City Truth Seeker Cornelius Truth Seeker Cornelius.svg]]
+- Parallels [[MON00003_Aberrations_Creature_4]]
+- See also: [[Downtime Activity Selling a Magic Item Xge]]
+- Connects to [[disarming-attack-xphb (optional-features)]]
+- Leads to [[step_080 (phase_082)]]
+- See also: [[step_043 (phase_016)]]
+- Leads to [[Anti-Corruption Research Institute (D&D_References)]]

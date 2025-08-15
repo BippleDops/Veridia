@@ -8,6 +8,7 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
+tags: [combat, exploration, lore]
 --- # 09 Appendix a the Multiverse ---
 
 ## Description
@@ -35,3 +36,149 @@ world: Both
 ## Notes
 
 *Additional notes*
+
+
+> [!dm] DM Note
+> This location connects to the main plot
+
+## Prep Checklist
+
+### Npcs Needed
+- [ ] List key NPCs for this session
+- [ ] Prepare voices and mannerisms
+
+### Locations
+- [ ] Review location descriptions
+- [ ] Prepare battle maps if needed
+
+### Encounters
+- [ ] Balance combat encounters
+- [ ] Prepare social encounter notes
+
+### Props
+- [ ] Handouts ready
+- [ ] Music/ambiance selected
+
+### Rules
+- [ ] Review relevant rules
+- [ ] Prepare quick reference
+
+## See Also
+- [[Related_Content]]
+
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Affected by [[step_008 (phase_009)]]
+- Leads to [[ENC00167_Environmental_Encounter_168]]
+- Affected by [[Quest - The Missing Guards_1 (01_Adventures)]]
+- Compare with [[Beings Non Reality Consciousnesses]]
+- Related: [[Marcus Goldledger]]
+- Connects to [[froghemoth-mpmm (monstrosity)]]
+- Related: [[Chancellor Squall Deepcurrent (D&D_References)]]
+- Compare with [[ITEM01247_Superior_Herb_of_Vigor]]
+- Parallels [[The Last Acorn]]
+- Related: [[NPC00078_Qadim_Goldleaf]]
+- Influences [[step_087]]
+- Requires [[Human Names Greek Female Xge]]
+- Related: [[step_080 (phase_019)]]
+- Influences [[crafting-complications-xge (tables)]]
+- Parallels [[LOC00038_Wilderness_Location_39]]
+- Compare with [[ITEM00169_Shadow_Bow_of_Power]]
+- See also: [[step_096 (phase_014)]]
+- Compare with [[step_048 (phase_009)]]
+- Compare with [[step_097]]
+- Related: [[Assets Locations Location City Quartermaster Sterling Suppystone Quartermaster Sterling Suppystone.svg]]
+- Leads to [[Master Artificer Korvin Gearwright (D&D_References)]]
+- Leads to [[step_063]]
+- Influences [[Ettin Xmm]]
+- Related: [[step_095]]
+- Compare with [[Assets Locations Location City the Whispering Depths V1 the Whispering Depths.svg]]
+- Influences [[The Depth Councils]]
+- Originates from [[The Voting Crypts]]
+- Compare with [[The Wind Roads 2]]
+- Affected by [[Deep Mining Consortium]]
+- Requires [[Nonhuman Gruumsh]]
+- Influences [[step_050 (phase_063)]]
+- See also: [[Doctrine_Quick_Reference]]
+- Related: [[Resonance_Body]]
+- Parallels [[greek-hades (deities)]]
+- See also: [[Allied Nation Military Units 2]]
+- Connects to [[step_028]]
+- Influences [[Agricultural Provinces]]
+- Leads to [[step_081 (phase_064)]]
+- Influences [[Merchant Guild Headquarters (D&D_References)]]
+- Originates from [[Commander Ironprice 2]]
+- Connects to [[location-city-fire-crystal-v1-fire-crystal.svg]]
+- Requires [[list-spells-races-firbolg-vgm (lists)]]
+- Originates from [[Temporal Observation Deck]]
+- Compare with [[list-spells-classes-warrior-of-shadow-xphb (lists)]]
+- Requires [[ENC00019_Environmental_Encounter_20]]
+- Leads to [[elf-tables-drow-adventurer-story-hooks-mtf (tables)]]
+- Parallels [[step_018 (phase_097)]]
+- Parallels [[step_100]]
+- Affected by [[LORE00154_Legends_Entry_155]]
+- See also: [[Windwright_Academy (Groups)]]
+- Parallels [[Assets Locations Location City Shadow Portal Nexus V1 Shadow Portal Nexus.svg]]
+- Parallels [[step_079 (phase_031)]]
+- Influences [[Princess Celestine Lumengarde]]
+- Originates from [[EVENT00024_Magical_Event_25]]
+- Leads to [[bit-and-bridle (items)]]
+- Leads to [[Communications Officer Echo Farspeak]]
+- Parallels [[Face_the_Ancient_Threat.png]]
+- Parallels [[Artisans Tools Xphb]]
+- Originates from [[Assets Locations Location City Diplomatic Deepcurrent V1 Diplomatic Deepcurrent.svg]]
+- Leads to [[step_003 (phase_038)]]
+- Compare with [[NPC01538_Caelum_Moonshadow_the_Seeker]]
+- Influences [[step_053]]
+- Originates from [[step_041]]
+- Influences [[step_031]]
+- Leads to [[NPC01357_Ysara_Ashford_the_Lost]]
+- Related: [[Quantum Compromise Protocols 2]]
+- Requires [[quickened-spell-xphb (optional-features)]]
+- Compare with [[Kraken]]
+- Related: [[Alpha-Prime (D&D_References)]]
+- Parallels [[EVENT00000_Magical_Event_1]]
+- Affected by [[Temporal Anomaly Zones (D&D_References)]]
+- See also: [[Location City Depth Crystal Harvest Depth Crystal Harvest.svg]]
+- Affected by [[ITEM0106_Cursed_Gauntlet_of_the_Dawn]]
+- Affected by [[step_050 (phase_070)]]
+- Requires [[Victoria Harbormane]]
+- Originates from [[EVENT00032_Magical_Event_33]]
+- Related: [[deathlock-mastermind-mpmm (undead)]]
+- Related: [[NPC00070_Erasmus_Silverleaf_the_Wise]]
+- See also: [[The Crystal Hive Collective (D&D_References)]]
+- Related: [[LORE00131_Legends_Entry_132]]
+- Influences [[EVENT00032_Natural_Event_33]]
+- Leads to [[npc-appearance-xdmg (tables)]]
+- Requires [[Shatter Xphb]]
+- Originates from [[ENC00238_Combat_Encounter_239]]
+- Leads to [[Location City Futures Master Economic Sense V1 Futures Master Economic Sense.svg]]
+- Originates from [[QUEST00375_Side_Quest_376]]
+- Originates from [[life-transference-xge (spells)]]
+- Related: [[step_056 (phase_066)]]
+- Leads to [[Aethermoor Archives 2]]
+- Originates from [[Find the Ideal Introduction Adventure]]
+- Related: [[LOC00018_Dungeons_Location_19]]
+- See also: [[block-and-tackle-xphb (items)]]
+- Requires [[LORE0090_History_of_the_Sundering]]
+- Connects to [[ITEM00995_Distilled_Elixir_of_Fortune]]
+- Related: [[Assets Locations Location City Historical Analysis Historical Analysis.svg]]
+- Influences [[INDEX (Icewind_Dale_Rime_of_the_Frostmaiden)]]
+- Leads to [[Assets Locations Location City Security Services V1 Security Services.svg]]
+- Influences [[Location City Stormwind Supplies Stormwind Supplies.png]]
+- Connects to [[step_095 (phase_058)]]
+- Parallels [[step_067 (phase_084)]]

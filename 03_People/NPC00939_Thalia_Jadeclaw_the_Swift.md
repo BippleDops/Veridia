@@ -1,6 +1,6 @@
 ---
-aliases: ["Thalia Jadeclaw the Swift", "thalia jadeclaw the swift", "Thalia Jadeclaw Swift", "Swift the Jadeclaw Thalia"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Thalia Jadeclaw the Swift", "thalia jadeclaw the swift", "Thalia Jadeclaw Swift", "Swift the Jadeclaw Thaliatags: [npc, character, combat, magic, social, exploration, lore]er]
 type: npc
 ---
 
@@ -144,3 +144,135 @@ Competitor sabotaging business
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Priest** (MM p.348)
+Modifications:
+- HP: 15
+- AC: 11
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Advantage**: See PHB p.173
+- **Combat**: See PHB p.189-198
+- **Conditions**: See PHB p.290-292
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Originates from [[LORE00205_Prophecies_Entry_206]]
+- Connects to [[step_005 (phase_096)]]
+- Leads to [[step_075 (phase_085)]]
+- Influences [[Chambers Exit Type]]
+- Requires [[horn-of-valhalla-bronze-xdmg (items)]]
+- See also: [[NPC01207_Orion_Thornweave_the_Wanderer]]
+- Compare with [[Instructor Combat Shadows]]
+- Parallels [[step_099]]
+- Leads to [[Maritime Security Chief Reef 2]]
+- Originates from [[EVENT00031_Natural_Event_32]]
+- Requires [[Diplomatic Event Scenarios (D&D_References)]]
+- Leads to [[yuan-ti-abomination-xmm]]
+- Parallels [[Location City Pressure Terminal Pressure Terminal.svg]]
+- Compare with [[Mirror of Life Trapping Xdmg]]
+- Affected by [[Foam Deepferment 2]]
+- Affected by [[Councilor Tidal Balancekeeper (D&D_References)]]
+- Leads to [[QUEST00080_Side_Quest_81]]
+- Parallels [[Foreign Trader Captain Hassan al-Rimal (D&D_References)]]
+- Affected by [[Location City Crystal Engineer Reef Sparkwright V1 Crystal Engineer Reef Sparkwright.svg]]
+- Compare with [[Portrait NPC Envoy Blackwater Jr Envoy Blackwater Jr.svg_1 (Portraits)]]
+- Compare with [[Bridge Currentcrosser 2]]
+- See also: [[Librarian Scholar Reef Documentcurrent]]
+- Related: [[feywild-time-warp-xdmg (tables)]]
+- Influences [[ENC00021_Combat_Encounter_22]]
+- See also: [[ITEM00671_Ethereal_Helm_of_Protection]]
+- Requires [[step_068 (phase_076)]]
+- Connects to [[darkness-xphb (spells)]]
+- Related: [[Portrait NPC Commodity Queen Abundance V1 Commodity Queen Abundance.svg_1 (Portraits)]]
+- Originates from [[The Drowning Welcome]]
+- Originates from [[ogremoch-pota (legendary-group)]]
+- Requires [[Assets Locations Location City Tenebrarum Embassy V1 Tenebrarum Embassy.svg]]
+- Requires [[Angel of the Depths]]
+- Originates from [[SPELL0003_Mystic_Bolt]]
+- Compare with [[Portrait NPC Prince Caspian Duskwater V2 Prince Caspian Duskwater.svg_1 (Portraits)]]
+- Leads to [[step_088]]
+- Parallels [[Location City Wealthy Goldcurrent Wealthy Goldcurrent.svg]]
+- See also: [[step_053 (phase_094)]]
+- Affected by [[step_018 (phase_016)]]
+- Originates from [[Rogue Xphb]]
+- See also: [[longship-xphb (items)]]
+- Parallels [[step_045 (phase_018)]]
+- Compare with [[step_031 (phase_049)]]
+- Influences [[figurine-of-wondrous-power-bronze-griffon-xdmg]]
+- Requires [[04_Resources_Assets_Portraits_portrait-npc-high-priestess-scylla-deepdream-high-priestess-scylla-deepdream.svg_Quick_Ref]]
+- Related: [[step_009 (phase_017)]]
+- Parallels [[NPC01543_Delara_Crystalbrook_the_Risen]]
+- Originates from [[step_036 (phase_007)]]
+- Originates from [[List Spells Feats Blessed Warrior Xphb]]
+- See also: [[Symbol Heraldry the Shadow Crystal Synthesis the Shadow Crystal Synthesis.png]]
+- Requires [[step_051]]
+- Leads to [[LORE00279_History_Entry_280]]
+- Originates from [[Abandoned Lighthouse of Convergence]]
+- Influences [[LOC00185_Planes_Location_186]]
+- See also: [[step_025 (phase_075)]]
+- Affected by [[LORE00282_History_Entry_283]]
+- Compare with [[Assets Locations Location City Interfaith Cooperation Interfaith Cooperation.svg]]
+- Connects to [[Elven Rillifane Rallathil Mtf]]
+- Requires [[Lorehold Trinket Scc]]
+- Originates from [[step_073 (phase_013)]]
+- Related: [[Rare Ingredient Network (D&D_References)]]
+- See also: [[LOC00037_Wilderness_Location_38]]
+- Connects to [[Faith Testing Grounds]]
+- See also: [[NPC_Name_Generator.png]]
+- Compare with [[MON0047_Blood_Wraith]]
+- Parallels [[Location City the Memory Thief V1 the Memory Thief.svg]]
+- Influences [[step_010]]
+- Requires [[ITEM00240_Cursed_Crossbow_of_Slaying]]
+- Related: [[construct-spirit-stone-xphb (construct)]]
+- Originates from [[The Observation Sphere]]
+- Compare with [[step_092]]
+- Originates from [[Portrait NPC Quest the Deepest Current Quest the Deepest Current.svg]]
+- Connects to [[list-spells-races-tiefling-xphb (lists)]]
+- Influences [[Shield Master Xphb]]
+- Leads to [[Reliquary Charm Xdmg]]
+- Requires [[The Exchange Rate Wars]]
+- Related: [[LORE00218_Prophecies_Entry_219]]
+- Influences [[Portrait NPC High Priestess Nerida Soulcurrent V1 High Priestess Nerida Soulcurrent.svg_1 (Portraits)]]
+- Affected by [[step_097 (phase_055)]]
+- Requires [[step_071 (phase_028)]]
+- Parallels [[MON00163_Aberrations_Creature_164]]
+- Influences [[Marina Stormwright 2]]
+- Influences [[Describe Appearance and Personality Constitution Xphb]]
+- Requires [[Marina Deepcurrent (D&D_References)]]
+- Leads to [[QUEST00242_Personal_Quest_243]]
+- Related: [[portrait-npc-oracle-v1-oracle.svg_1 (Portraits)]]
+- Originates from [[Reaction Xphb]]
+- Affected by [[step_015]]
+- Compare with [[step_025 (phase_066)]]
+- Leads to [[Spell Components]]
+- See also: [[Silverscale Consortium (02_Worldbuilding)]]
+- Originates from [[step_021 (phase_012)]]
+- Parallels [[deck-of-many-things (decks)]]
+- Originates from [[Reality Protection]]
+- Requires [[step_095 (phase_100)]]
+- Affected by [[SHOP00036_Specialty_Shop_37]]
+- Compare with [[ENC00186_Social_Encounter_187]]
+- Requires [[LOC00200_Towns_Location_201]]
+- Originates from [[List Spells Classes Diviner Xphb]]
+- Connects to [[Location City Rare Ingredient Network V1 Rare Ingredient Network.svg]]
+- Connects to [[step_072]]

@@ -1,6 +1,6 @@
 ---
-aliases: ["Delara Ravenheart the Redeemed", "delara ravenheart the redeemed", "Delara Ravenheart Redeemed", "Redeemed the Ravenheart Delara"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Delara Ravenheart the Redeemed", "delara ravenheart the redeemed", "Delara Ravenheart Redeemed", "Redeemed the Ravenheart Delaratags: [npc, character, combat, magic, social, lore]er]
 type: npc
 ---
 
@@ -139,3 +139,135 @@ Requires champions for trial by combat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Noble** (MM p.348)
+Modifications:
+- HP: 18
+- AC: 16
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Advantage**: See PHB p.173
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+- **Spellcasting**: See PHB p.201-205
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- See also: [[cambion-xmm (fiend)]]
+- Related: [[LOC0134_Hillstead]]
+- Compare with [[step_010 (phase_046)]]
+- Leads to [[Location City Royal Palace of Meridian Royal Palace of Meridian.svg]]
+- Affected by [[Quest - Storm Lord's Challenge]]
+- Influences [[Assets Portraits Portrait NPC Aria Lumengarde Aria Lumengarde.svg]]
+- See also: [[ENC00393_Combat_Encounter_394]]
+- Parallels [[step_013]]
+- See also: [[Sister Morwyn]]
+- Influences [[step_066 (phase_029)]]
+- See also: [[step_095 (phase_059)]]
+- Affected by [[Portrait NPC Lord Magistrate Aldrich Thornwick V2 Lord Magistrate Aldrich Thornwick.svg]]
+- Affected by [[Ambassador Mark Exchangekeeper (D&D_References)]]
+- Connects to [[Alexandrite Xdmg]]
+- Requires [[step_001 (phase_060)]]
+- Originates from [[Drill Sergeant Discipline (D&D_References)]]
+- Compare with [[LORE00248_Legends_Entry_249]]
+- Influences [[NPC01038_Kaelen_Grimholt_the_Wise]]
+- Parallels [[Symbol Heraldry Commerce Manager Fairdealin V1 Commerce Manager Fairdealin.svg]]
+- Related: [[Depth Effect Quick Reference]]
+- Influences [[NPC00762_Felicia_Nightfall_the_Seeker]]
+- Related: [[LORE00181_Legends_Entry_182]]
+- Leads to [[step_095]]
+- Compare with [[Aquabyssos Embassy]]
+- Related: [[Map Map Shadow Market Alley V2 Shadow Market Alley.svg]]
+- Requires [[step_057 (phase_009)]]
+- Influences [[Map Map Bioluminescent Forest Ambush V2 Bioluminescent Forest Ambush.png]]
+- Compare with [[step_009 (phase_020)]]
+- Compare with [[Goading Attack Xphb]]
+- Leads to [[Familiars Vgm]]
+- Originates from [[Marcus Righteousness]]
+- Connects to [[Charger Xphb]]
+- Connects to [[step_045]]
+- Leads to [[Fortress Blueprints]]
+- Affected by [[The Royal Palace]]
+- Leads to [[LOC00146_Towns_Location_147]]
+- Influences [[Moonblade Xdmg]]
+- Related: [[yuan-ti-dendar-vgm (deities)]]
+- Influences [[step_062 (phase_064)]]
+- Parallels [[Locations Crystal Shadow Storms]]
+- Originates from [[Banker Merchant]]
+- Leads to [[step_045]]
+- Affected by [[NPC00871_Ysara_Ironwood_the_Scholar]]
+- Leads to [[Dimensional Travel Stress]]
+- See also: [[special-features-what-quirk-does-it-have (tables)]]
+- Originates from [[Location City Security Services Security Services.svg]]
+- Compare with [[step_024 (phase_039)]]
+- Parallels [[step_041 (phase_099)]]
+- Parallels [[location-city-twilight-depths-twilight-depths.svg]]
+- Leads to [[Portrait NPC Otherworldly Patron Otherworldly Patron.svg_1 (Portraits)]]
+- Originates from [[QUEST00137_Personal_Quest_138]]
+- Leads to [[Jeeves]]
+- Requires [[Sage Rememberall (D&D_References)]]
+- Affected by [[NPC00104_Dara_Darkwater]]
+- See also: [[2 Monsters a to Z]]
+- Requires [[Saving Throws Proficiency Bonus by Challenge]]
+- Requires [[step_053]]
+- Leads to [[Keeper Elara Mindwell 2]]
+- See also: [[LOC00251_Dungeons_Location_252]]
+- Related: [[Councillor Elara Brightwater]]
+- Leads to [[Guild Seal Document Silverscale Consortiu]]
+- Connects to [[SPELL00044_Divine_Spell_45]]
+- Parallels [[step_053]]
+- Influences [[The Festival Archives]]
+- Affected by [[Deep Sea Environmental Specialist (D&D_References)]]
+- Influences [[step_085 (phase_041)]]
+- See also: [[step_065]]
+- Requires [[sword-of-kas-xdmg (items)]]
+- Compare with [[LOC00161_Dungeons_Location_162]]
+- Originates from [[Assets Locations Location City Vault Keeper Eternal Vault Keeper Eternal.svg]]
+- Influences [[SPELL00040_Divine_Spell_41]]
+- Influences [[Location_Generator]]
+- Connects to [[Cross Realm Research Coalition]]
+- Affected by [[Gallery Guide Captain Marina Civicvoice (D&D_References)]]
+- Requires [[Assets Locations Location City Quest the Blackmail Papers Quest the Blackmail Papers.svg]]
+- Affected by [[step_076]]
+- Parallels [[NPC01629_Urien_Brightblade_the_Seeker]]
+- Influences [[Professor Reef Growthseeker (D&D_References)]]
+- Parallels [[step_096]]
+- Parallels [[step_045 (phase_036)]]
+- Leads to [[Phantom Archivist Silent Catalogue]]
+- Influences [[physical-variations-scale-color-vgm (tables)]]
+- Compare with [[step_007]]
+- Influences [[Celtic Brigantia]]
+- Parallels [[The First Healing]]
+- Parallels [[Detailed Life Sized Dragonborn Skull Cast in]]
+- Parallels [[step_007]]
+- Parallels [[step_047 (phase_041)]]
+- See also: [[step_063]]
+- Connects to [[Artist Dreamweaver]]
+- Affected by [[Investiture of Stone Xge]]
+- Leads to [[Scarecrow Xmm]]
+- Influences [[Assets Portraits Portrait NPC Nerissa Deepcurrent Nerissa Deepcurrent.svg]]
+- Affected by [[LOC00108_Cities_Location_109]]
+- Related: [[LOC00261_Towns_Location_262]]
+- Connects to [[step_049 (phase_065)]]
+- Requires [[step_065 (phase_033)]]
+- Compare with [[Elder Willow Moonwhisper (D&D_References)]]
+- Parallels [[04_Resources_Assets_Locations_location-city-merchant-prince-aldric-goldcurrent-merchant-prince-aldric-goldcurrent.svg]]
+- Originates from [[eberron-the-path-of-light (deities)]]

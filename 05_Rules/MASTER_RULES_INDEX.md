@@ -203,3 +203,11 @@ Discuss with players before implementing
 ![[04_Resources/Assets/Locations/location-city-guildmaster-harwick-v1-guildmaster-harwick.png]]
 ![[04_Resources/Assets/Locations/location-city-surge-mixmaster-v1-surge-mixmaster.png]]
 ![[04_Resources/Assets/Locations/location-city-master-archivist-thomas-scrollkeeper-v1-master-archivist-thomas-scrollkeeper.png]]
+
+## Quick Reference
+- **When to use**: During gameplay when this rule applies
+- **Key point**: The most important thing to remember
+- **Common mistake**: What people often get wrong
+
+## Example
+*A player wants to attempt this action. Here's how it works in play...*

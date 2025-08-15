@@ -1,6 +1,6 @@
 ---
-aliases: ["Orion Oakenshield the Broken", "orion oakenshield the broken", "Orion Oakenshield Broken", "Broken the Oakenshield Orion"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Orion Oakenshield the Broken", "orion oakenshield the broken", "Orion Oakenshield Broken", "Broken the Oakenshield Oriontags: [npc, character, combat, magic, social, exploration, lore]er]
 type: npc
 ---
 
@@ -142,3 +142,150 @@ Is secretly testing the party
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Mage** (MM p.347)
+Modifications:
+- HP: 46
+- AC: 16
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Monster Manual (MM) p.81
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+- **Skills**: See PHB p.174-179
+- **Spellcasting**: See PHB p.201-205
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Related: [[ITEM00608_Warded_Cloak_of_Resistance]]
+- Compare with [[Portrait NPC Sunken Kingdom of Nereon V2 Sunken Kingdom of Nereon.svg]]
+- Influences [[step_065]]
+- Affected by [[Races (Homebrew)]]
+- Leads to [[scroll-of-titan-summoning-elemental-cataclysm-xdmg]]
+- Influences [[step_098 (phase_050)]]
+- Influences [[step_037 (phase_017)]]
+- Related: [[step_050 (phase_059)]]
+- See also: [[Location City Deputy Harbor Master Marina Stormwright V1 Deputy Harbor Master Marina Stormwright.svg]]
+- Connects to [[step_035 (phase_040)]]
+- Affected by [[Portrait NPC Captain Dr Bloodletting V1 Captain Dr Bloodletting.svg]]
+- Leads to [[The Growth Gardens]]
+- See also: [[Master of Crystals Prism Multifacet]]
+- Compare with [[step_006 (phase_013)]]
+- Influences [[step_053]]
+- Affected by [[Ranger Captain Orin Swiftarrow (D&D_References)]]
+- Parallels [[step_067 (phase_082)]]
+- Leads to [[World_Primer.md]]
+- Requires [[QUEST00262_Side_Quest_263]]
+- Related: [[poisoned-tempest-xge (traps-hazards)]]
+- Originates from [[Current Peaceweaver]]
+- Parallels [[step_037]]
+- Influences [[NPC01336_Ewan_Hawthorne_the_Strong]]
+- See also: [[High-Speed Transportation (D&D_References)]]
+- See also: [[ring-of-three-wishes-xdmg (items)]]
+- Affected by [[step_014]]
+- Requires [[War Machine Engineers]]
+- Parallels [[Merchant Family Alliances (D&D_References)]]
+- See also: [[step_015 (phase_039)]]
+- Influences [[item-mastery (CLI_Reference)]]
+- Parallels [[SPELL00156_Nature_Spell_157]]
+- Originates from [[Location City Memory Sharing Techniques Memory Sharing Techniques.svg]]
+- Influences [[step_065 (phase_006)]]
+- Leads to [[step_057]]
+- Parallels [[QUEST00092_Main_Quest_93]]
+- Affected by [[NPC00322_Qadim_Quicksilver_the_Redeemed]]
+- Parallels [[step_019 (phase_014)]]
+- Leads to [[Shadow Currency]]
+- See also: [[step_066]]
+- See also: [[LOC00139_Towns_Location_140]]
+- Connects to [[Temple Ward]]
+- See also: [[ITEM00946_Distilled_Potion_of_Healing]]
+- Related: [[step_052 (phase_039)]]
+- Related: [[NPC00702_Fiora_Proudmore_the_Redeemed]]
+- Affected by [[The Unity Shard (D&D_References)]]
+- Influences [[step_025 (phase_059)]]
+- Influences [[elven-tarsellis-meunniduin-mtf (deities)]]
+- Compare with [[EVENT00027_Magical_Event_28]]
+- Requires [[portrait-npc-duke-hadal-v1-duke-hadal.svg]]
+- Originates from [[QUEST00087_Main_Quest_88]]
+- Related: [[step_013 (phase_052)]]
+- Affected by [[Roper Xmm]]
+- Requires [[step_090]]
+- Influences [[tiefling-zariel-mtf (races)]]
+- Affected by [[QUEST00159_Personal_Quest_160]]
+- Connects to [[S-L-11_Platform_Unmooring]]
+- Originates from [[Random Traps Trap Trigger]]
+- Parallels [[step_073 (phase_016)]]
+- Compare with [[step_022]]
+- Parallels [[SHOP00045_Specialty_Shop_46]]
+- Affected by [[NPC01315_Cedric_Jadeclaw_the_Seeker]]
+- Originates from [[LOC00206_Planes_Location_207]]
+- Connects to [[Full Official Name]]
+- Affected by [[Potion of Diminution Xdmg]]
+- Affected by [[LORE00062_Legends_Entry_63]]
+- Connects to [[simulacrum-xphb (spells)]]
+- Originates from [[DUN00123_Dungeon_124]]
+- Compare with [[Actor Xphb]]
+- See also: [[EVENT00062_Natural_Event_63]]
+- Parallels [[phantom-warrior-archer-cos (undead)]]
+- See also: [[Assets Locations Location City Tidal Runner Nerissa V1 Tidal Runner Nerissa.svg]]
+- See also: [[The Great Crystallization 3 (D&D_References)]]
+- See also: [[LORE00268_History_Entry_269]]
+- Requires [[NPC00103_Drusilla_Moonshadow_the_Guardian]]
+- Related: [[The Great Crystal-Shadow Engine]]
+- Influences [[Portrait NPC Marcus the Shade Blackwood Marcus the Shade Blackwood.svg]]
+- Originates from [[step_079 (phase_076)]]
+- Parallels [[step_016 (phase_074)]]
+- Related: [[step_068 (phase_020)]]
+- See also: [[LOC00054_Towns_Location_55]]
+- Influences [[step_068]]
+- Compare with [[step_016]]
+- Influences [[LOC00207_Wilderness_Location_208]]
+- Compare with [[Symbol Heraldry Merchant Family Tidewalker V1 Merchant Family Tidewalker.svg]]
+- Requires [[The Unity Seekers]]
+- Requires [[ITEM00622_Ethereal_Boots_of_Grace]]
+- Leads to [[Symbiotic Integration Specialists (D&D_References)]]
+- Connects to [[Mad Prophet Silas the Depth-Touched (D&D_References)]]
+- Connects to [[step_058 (phase_077)]]
+- Parallels [[step_086]]
+- Parallels [[LOC00259_Towns_Location_260]]
+- Compare with [[04_Resources_Assets_Symbols_symbol-heraldry-border-fortresses-border-fortresses.svg]]
+- See also: [[step_028]]
+- Compare with [[Masons Tools Xphb]]
+- Affected by [[NPC00394_Fiora_Blackstone_the_Fallen]]
+- Connects to [[step_039 (phase_012)]]
+- Requires [[Symbol Heraldry the Archive of Questions the Archive of Questions.svg]]
+- See also: [[Ship Wright Shadowhull]]
+- See also: [[The Groundling Liberation Movement (D&D_References)]]
+- Compare with [[Harbor Master Nautilus Tideguard 2]]

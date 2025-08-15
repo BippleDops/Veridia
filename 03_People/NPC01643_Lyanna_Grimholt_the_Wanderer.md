@@ -1,4 +1,5 @@
 ---
+created: 2025-08-15
 aliases: ["Lyanna Grimholt the Wanderer", "lyanna grimholt the wanderer", "Lyanna Grimholt Wanderer", "Wanderer the Grimholt Lyanna"]
 tags: [npc, character]
 type: npc
@@ -138,3 +139,143 @@ Is secretly testing the party
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Monster Manual (MM) p.255
+- Volo's Guide to Monsters (VGM) p.288
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+- **Spellcasting**: See PHB p.201-205
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- See also: [[Cultural Ministry]]
+- Requires [[Portrait NPC High Techno Priest Lumina Skyweaver V2 High Techno Priest Lumina Skyweaver.svg]]
+- Leads to [[Alarm Xphb]]
+- See also: [[Location City Truth Seeker Cornelius V1 Truth Seeker Cornelius.svg]]
+- Affected by [[Nagpa Mpmm]]
+- Related: [[Portrait NPC Working Class Citizens Working Class Citizens.svg]]
+- Connects to [[step_086]]
+- See also: [[Security Officer Guard Stormwind]]
+- Compare with [[step_036 (phase_062)]]
+- Influences [[Crystal_Corruption_Identification_Chart]]
+- Parallels [[Circle of Nature's Balance 2]]
+- Affected by [[step_003 (phase_078)]]
+- Leads to [[Portrait NPC High Priestess Nerida Soulcurrent High Priestess Nerida Soulcurrent.svg]]
+- Leads to [[Shadow Senate Leaders (D&D_References)]]
+- Connects to [[Portrait NPC Scholar Priest Tidal Memory V2 Scholar Priest Tidal Memory.svg]]
+- Influences [[Birthplace Xge]]
+- Parallels [[Unite the Two Worlds (Lore)]]
+- See also: [[step_093 (phase_086)]]
+- See also: [[step_019]]
+- Influences [[step_085 (phase_088)]]
+- Originates from [[step_009 (phase_031)]]
+- Originates from [[step_072 (phase_025)]]
+- Leads to [[giant-shark-xmm (beast)]]
+- See also: [[Location City Bartender Marina Dualborn V1 Bartender Marina Dualborn.svg]]
+- Affected by [[list-spells-races-elf-xphb (lists)]]
+- Affected by [[Character_Creation_Flowchart_Quick_Ref]]
+- Compare with [[Shadow Broker Mist (D&D_References)]]
+- Leads to [[Assets Locations Location City Pressure Gems V1 Pressure Gems.svg]]
+- Requires [[Stellar Commander Nereus Voidcaller 2]]
+- Parallels [[Assets Portraits Portrait NPC Marina Red Tide Coralheart Marina Red Tide Coralheart.svg]]
+- Influences [[Intellectual Freedom Movement (D&D_References)]]
+- Influences [[Assets Locations Location City Scholar Merchant Remembrance Tidekeep Scholar Merchant Remembrance Tidekeep.svg]]
+- Parallels [[1-introduction 2 (xanathars-guide-to-everything)]]
+- Parallels [[MON00154_Undead_Creature_155]]
+- Leads to [[step_047 (phase_022)]]
+- Leads to [[amulet-of-the-planes-xdmg (items)]]
+- Related: [[LOC00168_Wilderness_Location_169]]
+- Connects to [[step_021 (phase_033)]]
+- See also: [[Current Riders Union 2]]
+- Requires [[step_029 (phase_009)]]
+- Influences [[Engineer Brass Gearspin]]
+- Influences [[LOC00275_Dungeons_Location_276]]
+- Affected by [[Continental Connections & Story Weave 2]]
+- Influences [[step_053 (phase_004)]]
+- Related: [[piwafwi-cloak-of-elvenkind-oota (items)]]
+- Compare with [[step_086]]
+- Parallels [[step_086 (phase_066)]]
+- See also: [[step_005]]
+- Influences [[hammer-of-thunderbolts-xdmg (items)]]
+- Compare with [[ENC00115_Environmental_Encounter_116]]
+- Parallels [[The Depth Blessed Fisherman Captain Sal]]
+- Influences [[Master Cultivators Guild (Groups)]]
+- Affected by [[summon-greater-demon-xge (spells)]]
+- Originates from [[step_096]]
+- Connects to [[martial-weapon-training-xphb (feats)]]
+- Related: [[step_079 (phase_039)]]
+- Related: [[Mammoth Xmm]]
+- Originates from [[step_023 (phase_081)]]
+- Influences [[Assets Locations Location City Security Chief Wade Peacekeep V1 Security Chief Wade Peacekeep.svg]]
+- See also: [[portrait-npc-lord-bathysmal-v1-lord-bathysmal.svg]]
+- Leads to [[step_062]]
+- Compare with [[NPC00533_Hilda_Crystalbrook_the_Strong]]
+- Originates from [[step_080]]
+- Originates from [[Vehicle Ship Hybrid Rift Runner Sloop Hybrid Rift Runner Sloop.png]]
+- Requires [[The Hybrid Harbor (D&D_References)]]
+- Originates from [[The Guild Innovation Committee]]
+- See also: [[QUEST00163_Side_Quest_164]]
+- Requires [[Location City Keeper Deepcurrent Keeper Deepcurrent.svg]]
+- Connects to [[Ω_System-CLI-spells-school-abjuration]]
+- Originates from [[Encrypted Orders]]
+- Compare with [[ENC0058_Random_Encounter_59]]
+- Connects to [[The Trade Quarter (D&D_References)]]
+- Requires [[step_071 (phase_073)]]
+- Compare with [[item-artifact-windvane-pota-v7-windvane-pota.png]]
+- Related: [[elven-mythrien-sarath-mtf (deities)]]
+- Influences [[NPC01536_Brenna_Blackstone_the_Risen]]
+- Parallels [[step_079 (phase_087)]]
+- Parallels [[Portrait NPC Brother Matthias the Amber Bearer V1 Brother Matthias the Amber Bearer.svg_1 (Portraits)]]
+- Requires [[maurezhi-mpmm (fiend)]]
+- Influences [[Periapt of Proof Against Poison Xdmg]]
+- Influences [[step_050]]
+- Leads to [[step_071 (phase_020)]]
+- See also: [[Dawn War Corellon Dmg]]
+- Requires [[MON00003_Aberrations_Creature_4]]
+- Influences [[step_088 (phase_060)]]
+- Leads to [[Divine Communication Specialists (D&D_References)]]
+- Connects to [[step_002]]
+- Related: [[MON00100_Aberrations_Creature_101]]
+- Connects to [[step_093]]
+- Influences [[Transformation Techniques 2]]
+- Affected by [[New Death Faction]]
+- Compare with [[The Crimson Foundries 2]]
+- Parallels [[NPC00076_Aeliana_Grimholt_the_Bold]]
+- Originates from [[04_Resources_Assets_Symbols_symbol-heraldry-the-shadow-crystal-synthesis-the-shadow-crystal-synthesis.png]]
+- Affected by [[location-city-shadow-crystals-shadow-crystals.svg]]
+- Related: [[EVENT00032_Natural_Event_33]]
+- Requires [[step_036 (phase_009)]]
+- Requires [[Quest - The Deep Mother's Truth]]
+- Connects to [[Location City Artisan Felix Reefwright V1 Artisan Felix Reefwright.svg]]
+- Originates from [[SHOP00033_General_Shop_34]]

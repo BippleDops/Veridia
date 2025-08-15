@@ -1,6 +1,6 @@
 ---
-aliases: ["Urien Underhill the Scholar", "urien underhill the scholar", "Urien Underhill Scholar", "Scholar the Underhill Urien"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Urien Underhill the Scholar", "urien underhill the scholar", "Urien Underhill Scholar", "Scholar the Underhill Urientags: [npc, character, combat, magic, exploration, puzzle, lore]er]
 type: npc
 ---
 
@@ -147,3 +147,149 @@ Knows secret about major threat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Mage** (MM p.347)
+Modifications:
+- HP: 37
+- AC: 10
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Dungeon Master's Guide (DMG) p.149
+- Tasha's Cauldron of Everything (TCE) p.139
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Connects to [[step_010 (phase_012)]]
+- Compare with [[Portrait NPC Queen Lyralei Stormheart V1 Queen Lyralei Stormheart.svg_1 (Portraits)]]
+- Parallels [[Attack Roll Xphb]]
+- Leads to [[step_015 (phase_078)]]
+- Related: [[SHOP00026_General_Shop_27]]
+- Affected by [[LORE00041_Legends_Entry_42]]
+- Requires [[Location City the Bone Palace of Sorrows the Bone Palace of Sorrows.png]]
+- Originates from [[FAC00057_Guilds_58]]
+- Influences [[Wight Xmm]]
+- Affected by [[Assets Locations Location City the Crystal Caves V1 the Crystal Caves.svg]]
+- Leads to [[step_079 (phase_026)]]
+- Connects to [[step_098 (phase_058)]]
+- Leads to [[Corrupt Guards 2]]
+- Compare with [[Disadvantage Xphb]]
+- See also: [[Gith Tables Githyanki Personality Traits Mtf]]
+- See also: [[Assets Art Random Encounter Tables Aethermoor.png]]
+- Related: [[Entertainers Pack Xphb]]
+- See also: [[LOC00060_Wilderness_Location_61]]
+- Parallels [[gauntlets-of-ogre-power-xdmg (items)]]
+- Connects to [[Noble Culture and Etiquette]]
+- Connects to [[Potion of Fire Resistance Xdmg]]
+- Compare with [[feather-fall-xphb (spells)]]
+- Connects to [[Sorcerer Xphb Aberrant Sorcery Xphb]]
+- Compare with [[15 Credits (dungeon-masters-guide-2014)]]
+- Influences [[dawn-war-tharizdun-dmg (deities)]]
+- Compare with [[flanking]]
+- Compare with [[young-purple-worm-pota]]
+- Connects to [[ioun-stone-leadership-xdmg (items)]]
+- Requires [[FAC00006_Cults_7]]
+- Originates from [[EVENT00066_Magical_Event_67]]
+- Leads to [[NPC01010_Ysara_Frostwhisper_the_Redeemed]]
+- Connects to [[step_046]]
+- See also: [[Crystal_Singer_Bard]]
+- Compare with [[Location City the Pressure Crown V1 the Pressure Crown.svg]]
+- Originates from [[step_050 (phase_042)]]
+- Affected by [[NPC0085_Fiora_Goldleaf_the_Merciful]]
+- Connects to [[arcane-focus-xphb (items)]]
+- Leads to [[Location City Crown of Eternal Ice Crown of Eternal Ice.svg]]
+- Connects to [[FAC00090_Guilds_91]]
+- Requires [[step_046 (phase_032)]]
+- Parallels [[Cult_and_Religious_Guide]]
+- Parallels [[10 Appendix B Creature Stat Blocks]]
+- Requires [[EVENT00011_Political_Event_12]]
+- Requires [[ITEM00686_Mithril_Helm_of_Grace]]
+- Influences [[step_012 (phase_038)]]
+- Compare with [[NPC01773_Drusilla_Silverleaf_the_Wanderer]]
+- Compare with [[Trade Union]]
+- Influences [[Assets Locations Location City Seeds of the Past V1 Seeds of the Past.svg]]
+- Parallels [[step_061]]
+- Leads to [[Portrait NPC Marcus Shardbreaker Grimm Marcus Shardbreaker Grimm.svg]]
+- See also: [[Ring of Elemental Command Water Xdmg]]
+- Influences [[Crafter Xphb]]
+- Parallels [[QUEST00169_Personal_Quest_170]]
+- Affected by [[step_006]]
+- Influences [[step_060 (phase_041)]]
+- Originates from [[Corallion (D&D_References)]]
+- Related: [[Professor Euclid Mindmaze]]
+- Affected by [[figurine-of-wondrous-power-ivory-goats-xdmg (items)]]
+- Compare with [[Poet Laureate Tidal Wordsmith 2]]
+- Originates from [[The Scholar's Guild]]
+- Leads to [[Difficult Terrain Xphb]]
+- Leads to [[Portrait NPC Free Captains Alliance V1 Free Captains Alliance.svg]]
+- Affected by [[step_025 (phase_011)]]
+- Affected by [[step_035 (phase_059)]]
+- Related: [[step_084 (phase_012)]]
+- See also: [[step_025 (phase_096)]]
+- Related: [[step_040]]
+- Compare with [[The Forgotten Archive]]
+- Parallels [[sling-bullets-20-xphb (items)]]
+- Related: [[Location City the Sundered Vaults V1 the Sundered Vaults.svg]]
+- Connects to [[step_079 (phase_044)]]
+- Influences [[SPELL00107_Divine_Spell_108]]
+- Parallels [[Strahd Von Zarovich Cos]]
+- See also: [[step_069 (phase_061)]]
+- Related: [[Gith Names Githyanki Male Mtf]]
+- Connects to [[Downtime_Activities]]
+- See also: [[step_097 (phase_039)]]
+- Influences [[LORE00048_Legends_Entry_49]]
+- Originates from [[Campaign_Timeline_Tracker]]
+- Influences [[step_018 (phase_028)]]
+- Requires [[Quill Precisequote (D&D_References)]]
+- Connects to [[NPC00697_Jorah_Stormwind_the_Mystic]]
+- Leads to [[Art_Brief_Database (Assets)]]
+- Originates from [[carpet-of-flying-3-ft-5-ft-xdmg (items)]]
+- Leads to [[step_022 (phase_087)]]
+- Related: [[Lizardfolk Dmg]]
+- Connects to [[04_Resources_Assets_Portraits_portrait-npc-captain-shadowsail-captain-shadowsail.svg_Quick_Ref]]
+- Leads to [[NPC01442_Baelor_Thornweave_the_Lost]]
+- Originates from [[List Spells Races Tiefling Asmodeus Mtf]]
+- Affected by [[ENC00159_Social_Encounter_160]]
+- Related: [[step_020 (phase_009)]]
+- Affected by [[Assets Locations Location City Heritage Keeper Memoryshade V1 Heritage Keeper Memoryshade.svg]]
+- See also: [[Symbol Heraldry Chaplain Abyssos the Deepseeke Chaplain Abyssos the Deepseeke.svg]]
+- Influences [[NPC00010_Lyanna_Grimholt]]
+- See also: [[step_077 (phase_018)]]
+- Affected by [[step_024]]
+- Leads to [[Assets Locations Location City Crystal Master Prism Lightweaver V1 Crystal Master Prism Lightweaver.svg]]
+- Parallels [[step_072 (phase_060)]]
+- Parallels [[step_048]]
+- Originates from [[Locations the Probability Engine]]

@@ -10,6 +10,7 @@ created: '2025-08-14'
 modified: '2025-08-14'
 evaluated: '2025-08-14'
 improvements: 20
+tags: [combat, lore]
 ---
 
 ## 🔧 Deep Evaluation Improvements
@@ -105,3 +106,130 @@ improvements: 20
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+
+> [!dm] DM Note
+> Hidden treasure can be found here with a DC 15 Investigation check
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+
+## Connections
+
+- Affected by [[Secular Community Practices (D&D_References)]]
+- Affected by [[The Hybrid Settlements]]
+- Compare with [[ENC00139_Environmental_Encounter_140]]
+- Affected by [[special-purpose-sentient-items-communication-xdmg]]
+- Affected by [[ENC00028_Environmental_Encounter_29]]
+- Related: [[step_001 (phase_030)]]
+- Compare with [[Magical Engineer Reef Spellbreath (D&D_References)]]
+- Leads to [[LOC00124_Towns_Location_125]]
+- See also: [[step_064 (phase_031)]]
+- Leads to [[Wand of Magic Detection Xdmg]]
+- Leads to [[step_043 (phase_027)]]
+- Affected by [[step_011]]
+- Originates from [[The Shadowmire Tavern (D&D_References)]]
+- Affected by [[Kraken Territories (D&D_References)]]
+- Influences [[step_061 (phase_040)]]
+- Leads to [[Lady Catherine Mourning (D&D_References)]]
+- Originates from [[Former Admiral Cortez]]
+- Related: [[Warhorse Xphb]]
+- Parallels [[S-114_Gravity_Well_Rescue]]
+- Parallels [[ITEM00774_Divine_Scepter_of_Dominion]]
+- Compare with [[Location City Memorial Mason Kane V1 Memorial Mason Kane.svg]]
+- Influences [[Assets Item Artifact Explorers Pack Xphb V2 Explorers Pack Xphb.png]]
+- Compare with [[list-spells-classes-evoker-xphb (lists)]]
+- Leads to [[NPC00945_Wynne_Voidwalker_the_Seeker]]
+- Parallels [[step_074 (phase_044)]]
+- Related: [[step_099 (phase_070)]]
+- See also: [[Location City Surface Portal Alpha Surface Portal Alpha.svg]]
+- Leads to [[Location City Forge Master Korax Hammerdeep Forge Master Korax Hammerdeep.svg]]
+- Compare with [[Court Mage Apprentices]]
+- Affected by [[hawk-xmm (beast)]]
+- Affected by [[Astral Color Pools Xdmg]]
+- Affected by [[Assets Locations Location City Dolphin Dolphin.svg]]
+- Parallels [[step_013]]
+- Connects to [[Sword Wraith Warrior Mpmm]]
+- Leads to [[Downtime Activity Practicing a Profession Phb]]
+- Connects to [[The Free Cities (D&D_References)]]
+- Related: [[step_096 (phase_057)]]
+- Compare with [[Construct Spirit Xphb]]
+- Originates from [[ITEM00140_Venomous_Sword_of_Wounding]]
+- See also: [[QUEST00217_Side_Quest_218]]
+- Related: [[Central Location]]
+- Originates from [[The_Forgotten_Collective.png]]
+- Related: [[fey-touched-xphb (feats)]]
+- See also: [[QUEST00324_Side_Quest_325]]
+- Requires [[step_050 (phase_029)]]
+- See also: [[Vehicle Ship Depth Piercer Research Sub V2 Depth Piercer Research Sub.svg]]
+- Influences [[The Shadow Markets New (D&D_References)]]
+- Influences [[Portrait NPC Original Glaucus V1 Original Glaucus.svg_1 (Portraits)]]
+- Connects to [[Shadow Market Canals]]
+- Compare with [[Merchant Prince Aldric Goldcurrent]]
+- Affected by [[DUN00174_Dungeon_175]]
+- Parallels [[step_055 (phase_013)]]
+- Related: [[LOC00220_Dungeons_Location_221]]
+- Parallels [[Portrait NPC Captain Echoing Thunder Captain Echoing Thunder.svg]]
+- Connects to [[Portrait NPC Tidal Priests Circle V1 Tidal Priests Circle.svg_1 (Portraits)]]
+- Compare with [[Assets Portraits Portrait NPC Militant Priest Abyssal Militant Priest Abyssal.svg]]
+- Affected by [[step_055 (phase_089)]]
+- Related: [[Portrait NPC the Deepmind Conspiracy V2 the Deepmind Conspiracy.svg_1 (Portraits)]]
+- Influences [[SHOP00030_General_Shop_31]]
+- Connects to [[Marina-Red-Tide-Coralheart]]
+- Connects to [[04_Resources_Assets_Locations_location-city-harbor-master-captain-dockwise-harbor-master-captain-dockwise.svg]]
+- Affected by [[Assets Locations Location City Military Intelligence Military Intelligence.svg]]
+- Originates from [[step_050 (phase_031)]]
+- Originates from [[Symbol Heraldry the Border Marches the Border Marches.svg]]
+- Connects to [[step_068 (phase_045)]]
+- See also: [[NPC01801_Faelyn_Nightfall_the_Guardian]]
+- Related: [[more-difficult-identification (variant-rules)]]
+- Originates from [[Audit Investigator Thomas Truthseeker 2]]
+- Parallels [[Reality Structure Analysis Group]]
+- See also: [[NPC00836_Brenna_Ironwood_the_Broken]]
+- Related: [[step_006 (phase_044)]]
+- Related: [[LORE00298_History_Entry_299]]
+- Requires [[Assets Locations Location City Court Manager Noble Court Manager Noble.svg]]
+- See also: [[QUEST00059_Main_Quest_60]]
+- Affected by [[The Forgotten Mourner]]
+- Influences [[Admiral Cordelia Tidewright 2]]
+- Parallels [[step_064 (phase_005)]]
+- Parallels [[Criminal Information Exchange]]
+- Originates from [[Mayor Thompson]]
+- Compare with [[step_094 (phase_007)]]
+- Influences [[step_034 (phase_044)]]
+- Affected by [[step_015]]
+- Leads to [[Maze Xphb]]
+- Affected by [[Quest - Elite Selection_1 (01_Adventures)]]
+- Leads to [[pyrotechnics-xge (spells)]]
+- Originates from [[ITEM00884_Celestial_Crown_of_Eternity]]
+- Connects to [[Assets Locations Location City the Iteration Collective the Iteration Collective.svg]]
+- Leads to [[ITEM01092_Greater_Powder_of_Healing]]
+- Related: [[Quality Inspector Wave Purewater (D&D_References)]]
+- Originates from [[Gnome Baervan Wildwanderer Mtf]]
+- Affected by [[step_049]]
+- Related: [[Assets Locations Location City Ironhold V1 Ironhold.svg]]
+- See also: [[step_069 (phase_013)]]
+- Parallels [[Aquabyssos World Overview#The Great Drowning]]
+- See also: [[giant-elk-xmm (celestial)]]
+- Connects to [[Trade_Route_Map_Aquabyssos_to_Aethermoor]]
+- See also: [[Assets Locations Location City House Depthguard V1 House Depthguard.svg]]
+- Originates from [[step_037 (phase_094)]]
+- Related: [[Chief Engineer Marina Crystalwright]]
+- Connects to [[step_066 (phase_027)]]

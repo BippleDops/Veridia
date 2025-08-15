@@ -8,6 +8,7 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
+tags: [combat, magic, exploration, lore]
 --- # 13-conditions ---
 
 ## Description
@@ -64,3 +65,166 @@ world: Both
 ## Notes
 
 *Additional notes*
+
+
+> [!dm] DM Note
+> Hidden treasure can be found here with a DC 15 Investigation check
+
+## Prep Checklist
+
+### Npcs Needed
+- [ ] List key NPCs for this session
+- [ ] Prepare voices and mannerisms
+
+### Locations
+- [ ] Review location descriptions
+- [ ] Prepare battle maps if needed
+
+### Encounters
+- [ ] Balance combat encounters
+- [ ] Prepare social encounter notes
+
+### Props
+- [ ] Handouts ready
+- [ ] Music/ambiance selected
+
+### Rules
+- [ ] Review relevant rules
+- [ ] Prepare quick reference
+
+## Campaign Connection
+Former associate of the party's patron
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Advantage**: See PHB p.173
+- **Combat**: See PHB p.189-198
+- **Conditions**: See PHB p.290-292
+- **Death Saves**: See PHB p.197
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Equipment: PHB p.143-161)*
+*(Weapons: PHB p.146-147)*
+*(Armor: PHB p.144-146)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Connects to [[Deep Prophecy 2]]
+- Connects to [[step_001]]
+- Affected by [[Traditional Craft Districts]]
+- Leads to [[step_056 (phase_083)]]
+- Connects to [[carpet-of-flying-5-ft-7-ft-xdmg (items)]]
+- See also: [[coins-coin-values-xphb (tables)]]
+- See also: [[Assets Locations Location City Scholarly Theologians V1 Scholarly Theologians.svg]]
+- See also: [[Portrait NPC Ambassador Korvin Blacktide V1 Ambassador Korvin Blacktide.svg_1 (Portraits)]]
+- Parallels [[Adult White Dragon Xmm]]
+- Originates from [[Dawn War Avandra Dmg]]
+- Affected by [[Theater of Impossible Dreams]]
+- Originates from [[Deep-Sea Cultural Protocol]]
+- Affected by [[Memory Tide Pools (D&D_References)]]
+- Connects to [[step_005 (phase_092)]]
+- Compare with [[Assets Locations Location City Marine Druids Marine Druids.svg]]
+- Influences [[5-credits (monster-manual-2025)]]
+- Influences [[Portrait NPC Paladin Commander Sir Radiant Dawnbreaker V2 Paladin Commander Sir Radiant Dawnbreaker.svg_1 (Portraits)]]
+- Leads to [[LORE00003_Legends_Entry_4]]
+- Originates from [[befuddlement-xphb (spells)]]
+- Connects to [[Creature Creature Storm Giant Quintessent Mpmm V2 Storm Giant Quintessent Mpmm.png]]
+- Influences [[Scepter of Tidal Command 2]]
+- Influences [[step_011]]
+- Related: [[Sensory_Signature_Guides (D&D_References)]]
+- See also: [[step_078 (phase_037)]]
+- See also: [[glamoured-studded-leather-xdmg (items)]]
+- Compare with [[Assets Locations Location City Current Solidarity Current Solidarity.svg]]
+- Affected by [[LOC00122_Towns_Location_123]]
+- Related: [[step_070 (phase_008)]]
+- Leads to [[NPC01932_Hestara_Darkwater_the_Scholar]]
+- See also: [[Hold Monster Xphb]]
+- Leads to [[Dungeon Purpose]]
+- Parallels [[step_070 (phase_058)]]
+- Connects to [[step_068 (phase_044)]]
+- Connects to [[Magic Item Sale Complications Xge]]
+- Parallels [[ENC00286_Combat_Encounter_287]]
+- Parallels [[SPELL00087_Divine_Spell_88]]
+- See also: [[step_083 (phase_048)]]
+- Influences [[difficulty-class-typical-dcs-xdmg (tables)]]
+- Influences [[step_071]]
+- Originates from [[step_092 (phase_067)]]
+- Affected by [[LOC00120_Cities_Location_121]]
+- Affected by [[Blackrazor Xdmg]]
+- Originates from [[ITEM00752_Time-worn_Tome_of_Destiny]]
+- Compare with [[MON00145_Constructs_Creature_146]]
+- Influences [[Shadow Surgeon Strike Team (Criminal_Organizations)]]
+- Affected by [[NPC01421_Ewan_Hawthorne_the_Wanderer]]
+- See also: [[step_004 (phase_070)]]
+- Related: [[step_028 (phase_075)]]
+- Parallels [[Character_Journals]]
+- Compare with [[poisonous-gas-xdmg (traps-hazards)]]
+- Parallels [[step_040 (phase_067)]]
+- Influences [[The Neutral Zones (D&D_References)]]
+- Leads to [[step_098 (phase_083)]]
+- Affected by [[NPC00991_Hestara_Ravenheart_the_Wanderer]]
+- See also: [[reaction-xphb (variant-rules)]]
+- Leads to [[Session Summary Template]]
+- Originates from [[step_026]]
+- Parallels [[LORE00281_Legends_Entry_282]]
+- Influences [[Echo-Prime Cacophony Voidlungs 2]]
+- Influences [[step_067 (phase_004)]]
+- Originates from [[burnt-othur-fumes-xdmg (items)]]
+- Parallels [[03_Mechanics_Underwater_Adaptation_Rules_Quick_Ref]]
+- Influences [[Animations - Motion_Specs]]
+- Related: [[action-options (variant-rules)]]
+- Originates from [[Location City Skyship Technology Skyship Technology.svg]]
+- Influences [[step_032 (phase_079)]]
+- Leads to [[guardian-portrait-cos (construct)]]
+- Connects to [[NPC01896_Qadim_Blackstone_the_Wise]]
+- Leads to [[Food Drink and Lodging Phb]]
+- Affected by [[Siren]]
+- Connects to [[Foreign Shadow Syndicates]]
+- Parallels [[level-advancement-without-xp (variant-rules)]]
+- Originates from [[Levels 1116 Masters of the Realm Levels 1116 Adventure Situations Xdmg]]
+- Affected by [[step_073 (phase_040)]]
+- Originates from [[Master Curator Pearl Artflow]]
+- Affected by [[04_Resources_Assets_Locations_location-city-master-elena-preserver-v1-master-elena-preserver.svg]]
+- Parallels [[individual-treasure-challenge-04 (tables)]]
+- Compare with [[Archshadow Mortis Voidcut]]
+- Connects to [[special-purpose-sentient-items-senses-xdmg (tables)]]
+- Related: [[step_008 (phase_019)]]
+- Connects to [[QUEST00455_Side_Quest_456]]
+- Related: [[LOC00278_Towns_Location_279]]
+- Compare with [[Portrait NPC Captain Nerida Stormcrest V2 Captain Nerida Stormcrest.svg]]
+- See also: [[LOC0143_Gatehollow]]
+- Influences [[step_039]]
+- Originates from [[NPC01441_Brenna_Ravenheart_the_Fallen]]
+- Compare with [[ENC00232_Combat_Encounter_233]]
+- Connects to [[Introduction (D&D_Sourcebooks)]]
+- Affected by [[wall-of-ice-xphb (spells)]]
+- Connects to [[Location City the Singing Trenches the Singing Trenches.svg]]
+- Compare with [[Enhancement Ethics Advisor]]
+- Influences [[LORE00008_Legends_Entry_9]]
+- Influences [[Wave Traderwind]]
+- Originates from [[Assets Locations Location City Crown of Eternal Ice Crown of Eternal Ice.svg]]
+- Affected by [[The Bone Bridges]]
+- Leads to [[Infiltration Recruitment]]
+- Compare with [[LOC00207_Wilderness_Location_208]]
+- Compare with [[LORE00075_Legends_Entry_76]]
+- See also: [[step_063]]
+- Affected by [[Dark Gift of Delban the Star of Ice and Hate]]

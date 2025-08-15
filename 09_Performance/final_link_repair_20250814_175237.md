@@ -1,6 +1,5 @@
 ---
-enhanced: true
-tags: [enhanced, 13_performance]
+enhanced: trtags: [enhanced, 13_performance, combat, magic, exploration, puzzle, lore]ce]
 created: 2025-08-15T12:24:41.002703
 modified: 2025-08-15T12:24:41.002706
 aliases: [final link repair 20250814 175237]
@@ -75,3 +74,32 @@ This connects to the sky realm of Sky realm of eternal winds and floating island
 
 The eternal winds of Aethermoor carry whispers of ancient power, where Aarakocra, Air Genasi, Storm Giants 
 navigate floating islands connected by bridges of solidified cloud.
+
+
+> [!dm] DM Note
+> Ancient magic still lingers here
+
+
+## Related Content
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*

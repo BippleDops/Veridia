@@ -37,3 +37,10 @@ Complete the side quest objective.
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+
+## Rewards
+- Favor with an influential faction
+
+## Quest Hook
+Strange dreams point the way

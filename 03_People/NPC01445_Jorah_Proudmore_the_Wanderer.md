@@ -1,4 +1,5 @@
 ---
+created: 2025-08-15
 aliases: ["Jorah Proudmore the Wanderer", "jorah proudmore the wanderer", "Jorah Proudmore Wanderer", "Wanderer the Proudmore Jorah"]
 tags: [npc, character]
 type: npc
@@ -145,3 +146,144 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Xanathar's Guide to Everything (XGE) p.13
+- Tasha's Cauldron of Everything (TCE) p.231
+- Mordenkainen's Tome of Foes (MTF) p.262
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+- **Spellcasting**: See PHB p.201-205
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Affected by [[Post-Merge Chronology 2]]
+- Affected by [[heal-xphb (spells)]]
+- Connects to [[Rising Dark 2]]
+- Leads to [[Patrol Boundaryrider (D&D_References)]]
+- Related: [[step_008 (phase_023)]]
+- Connects to [[Location City the Kraken S Harbor the Kraken S Harbor.svg]]
+- Originates from [[The Neutral Tavern]]
+- Requires [[step_081 (phase_072)]]
+- Compare with [[ENC00060_Combat_Encounter_61]]
+- Parallels [[step_036]]
+- Connects to [[step_054]]
+- Influences [[LOC00100_Dungeons_Location_101]]
+- Parallels [[step_017]]
+- Originates from [[FAC00089_Cults_90]]
+- Originates from [[step_056 (phase_030)]]
+- Influences [[Quest   The Perfect Purifier]]
+- Leads to [[Armaments Uncommon Xdmg]]
+- See also: [[Deep Sea Cultist (Cults_and_Movements)]]
+- Related: [[step_090]]
+- Related: [[step_047 (phase_043)]]
+- Compare with [[LOC00206_Cities_Location_207]]
+- Originates from [[Democratic Erosion (D&D_References)]]
+- Compare with [[Merchant Princess Seren Goldwave]]
+- Requires [[NPC00085_Pyria_Xendar_the_Seeker]]
+- Affected by [[Assets Locations Location City Keeper Stormwall V1 Keeper Stormwall.svg]]
+- Parallels [[step_032]]
+- Related: [[Innkeeper Marcus Thorne (D&D_References)]]
+- Connects to [[Leomunds Tiny Hut Xphb]]
+- Connects to [[Physical Characteristics Beholder Skin]]
+- Connects to [[step_040]]
+- Parallels [[Diplomats Pack Xphb]]
+- Connects to [[Quest - Crystal Corruption]]
+- Connects to [[Location City Archdruid Marina Kelpweaver V1 Archdruid Marina Kelpweaver.svg]]
+- Originates from [[The Aether Works]]
+- Influences [[The Reality Reformation]]
+- Related: [[Faction_Name (02_Worldbuilding)]]
+- Affected by [[Royal Intelligence]]
+- Connects to [[chasme-xmm (fiend)]]
+- Originates from [[The Crystal Goverce Institute]]
+- Requires [[cheese-wedge-xphb (items)]]
+- Leads to [[Factional Conflicts]]
+- Compare with [[QUEST00262_Personal_Quest_263]]
+- Connects to [[Economic Pressure]]
+- Leads to [[step_049]]
+- Related: [[11 Chapter 11 Gravenhollow]]
+- Influences [[step_041]]
+- Connects to [[Location City the Plague Ward V1 the Plague Ward.svg]]
+- Parallels [[The Growth Gardens 2]]
+- Leads to [[Actions in Combat Describing Actions Xdmg]]
+- Originates from [[Investigative Chronicler Darius Truthseeker]]
+- See also: [[flour-xdmg (items)]]
+- Requires [[LOC00268_Cities_Location_269]]
+- Compare with [[MON00131_Undead_Creature_132]]
+- Influences [[Assets Portraits Portrait NPC Militant Priest Abyssal Militant Priest Abyssal.svg]]
+- Compare with [[Intelligence Chief Marina Shadowcurrent]]
+- Connects to [[Customs House (Lore)]]
+- Compare with [[giant-crocodile-xmm (beast)]]
+- Compare with [[Portrait NPC Captain Repossession Captain Repossession.svg]]
+- Parallels [[Scribe Master Elena Truthkeeper (D&D_References)]]
+- Related: [[Location City Keeper Aquaeous Depth Scholar V1 Keeper Aquaeous Depth Scholar.svg]]
+- Related: [[Assets Item Artifact Poisoners Kit Xphb V5 Poisoners Kit Xphb.png]]
+- Requires [[Location City Madame Rosalind Goldleaf Madame Rosalind Goldleaf.svg]]
+- Parallels [[Assets Locations Location City Haven Reef Haven Reef.svg]]
+- Influences [[Royal Advisor Wise Counselor]]
+- Requires [[step_081 (phase_045)]]
+- Originates from [[step_032 (phase_054)]]
+- Compare with [[The Dockworkers Union]]
+- Leads to [[step_063 (phase_065)]]
+- Related: [[step_098 (phase_027)]]
+- Affected by [[NPC00667_Felicia_Goldleaf_the_Strong]]
+- See also: [[03-races (players-handbook-2014)]]
+- Originates from [[Location City Surface Contact Prohibition V1 Surface Contact Prohibition.svg]]
+- Connects to [[Portrait NPC Enforcer Chief Mako Ironjaw V1 Enforcer Chief Mako Ironjaw.svg_1 (Portraits)]]
+- Leads to [[Shadow Shard]]
+- Influences [[step_086 (phase_030)]]
+- Related: [[LORE00156_Prophecies_Entry_157]]
+- See also: [[Creature Creature Nightmare Xmm V2 Nightmare Xmm.png]]
+- Affected by [[step_009 (phase_098)]]
+- Compare with [[LOC00212_Wilderness_Location_213]]
+- Originates from [[The Sunken Cities 3 (D&D_References)]]
+- Compare with [[Underwater Cuisine Techniques]]
+- Leads to [[Terminal Director Admiral Current Swiftflow (D&D_References)]]
+- Originates from [[Location City Quest Harbor Expansion Quest Harbor Expansion.svg]]
+- Originates from [[step_059]]
+- Leads to [[Depth Warden Patrol 2]]
+- Requires [[linen-1-sq-yd-xdmg (items)]]
+- Influences [[Cinematic Sequences]]
+- Connects to [[Keras Stormwind]]
+- Compare with [[Location City the Singing Trenches the Singing Trenches.svg]]
+- Connects to [[Cube of Force Xdmg]]
+- Connects to [[Captain Rodrigo Ironanchor]]
+- Leads to [[LOC00069_Cities_Location_70]]
+- Influences [[implements-very-rare-xdmg (tables)]]
+- Influences [[step_092 (phase_088)]]
+- Affected by [[The Memory Anchor]]
+- Requires [[strahd-zombie-cos (undead)]]
+- Related: [[QUEST00061_Main_Quest_62]]
+- Parallels [[step_038]]
+- Connects to [[NPC Reaction Matrix]]
+- Leads to [[Sylvan Talon Xdmg]]

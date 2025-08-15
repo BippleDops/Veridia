@@ -1,6 +1,6 @@
 ---
-aliases: ["Ysara Youngblood", "ysara youngblood", "Youngblood Ysara"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Ysara Youngblood", "ysara youngblood", "Youngblood Ysaratags: [npc, character, combat, magic, social, puzzle, lore]er]
 type: npc
 ---
 
@@ -148,3 +148,132 @@ Wants rivals investigated
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Commoner** (MM p.345)
+Modifications:
+- HP: 34
+- AC: 14
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Influences [[githyanki-knight-xmm (aberration)]]
+- Connects to [[Pressure-Weighted Representation]]
+- Parallels [[S-105_Star_Anchor_Choir]]
+- Connects to [[Pouch Xphb]]
+- Parallels [[Foreign Affairs]]
+- Related: [[step_099 (phase_055)]]
+- Parallels [[step_053]]
+- Connects to [[ENC00108_Combat_Encounter_109]]
+- Originates from [[step_069]]
+- Connects to [[ITEM0105_Blessed_Gauntlet_of_the_Dawn]]
+- Connects to [[EVENT00090_Political_Event_91]]
+- Influences [[step_083]]
+- Originates from [[handheld-mirror-set-in-a-painted-wooden-frame-xdmg]]
+- Compare with [[04_Resources]]
+- Originates from [[ENC00252_Combat_Encounter_253]]
+- Parallels [[NPC00319_Zephyr_Blackstone]]
+- Connects to [[Triton]]
+- Originates from [[step_016 (phase_090)]]
+- Related: [[step_009 (phase_053)]]
+- Related: [[NPC00659_Gavril_Ironforge_the_Lost]]
+- See also: [[Hidden Sanctuary]]
+- Parallels [[step_082 (phase_042)]]
+- Connects to [[Vehicle Ship Abyssal Scout Submarine V2 Abyssal Scout Submarine.png]]
+- Affected by [[Existence Erosion]]
+- Affected by [[Finn Worldwalker (D&D_References)]]
+- Compare with [[Terrestrial Coalition (D&D_References)]]
+- Originates from [[INDEX (Waterdeep_Dragon_Heist)]]
+- Requires [[Young Diver Coral Swiftcurrent (D&D_References)]]
+- Leads to [[step_073 (phase_046)]]
+- Related: [[Memory Sanctity Laws 2]]
+- See also: [[Expedition to the Sunless Depths]]
+- Related: [[The Crystal Express 2]]
+- Affected by [[vicious-mockery-xphb (spells)]]
+- Connects to [[step_025 (phase_005)]]
+- Connects to [[NPC01194_Malakai_Blackstone_the_Broken]]
+- Parallels [[Propaganda Distribution Networks 2]]
+- Originates from [[step_072 (phase_024)]]
+- Requires [[LOC00076_Wilderness_Location_77]]
+- Compare with [[Roleplaying a Beholder Beholder Ideals Vgm]]
+- Leads to [[NPC_Portraits_Gallery 2]]
+- Connects to [[step_084]]
+- Influences [[step_076 (phase_088)]]
+- Related: [[step_001]]
+- Parallels [[fire-shield-xphb (spells)]]
+- Influences [[ITEM0093_Forgotten_Orb_of_the_Dawn]]
+- Connects to [[Gnome Urdlen Mtf]]
+- Compare with [[incubus-xmm (fiend)]]
+- Affected by [[maximilians-earthen-grasp-xge (spells)]]
+- Affected by [[step_025 (phase_086)]]
+- Connects to [[Enlarge Reduce Xphb]]
+- Connects to [[Community Resource Sharing (D&D_References)]]
+- Leads to [[step_098 (phase_030)]]
+- Influences [[Assets Locations Location City Diplomatic Dining Protocol V1 Diplomatic Dining Protocol.svg]]
+- Requires [[MON00070_Aberrations_Creature_71]]
+- Connects to [[step_090 (phase_075)]]
+- See also: [[LOC00063_Towns_Location_64]]
+- Requires [[The Memory Weapon Vault (D&D_References)]]
+- See also: [[NPC00130_Aldric_Oakenshield]]
+- Connects to [[Assets Locations Location City the Threshold Chambers the Threshold Chambers.svg]]
+- Compare with [[supplemental-tables-alignment-xge (tables)]]
+- Influences [[Quantum Compromise Protocols (D&D_References)]]
+- Originates from [[Island of Screams]]
+- Leads to [[SHOP00040_General_Shop_41]]
+- Originates from [[Assets Locations Location City Harbor Pilot Captain Storm Skyreacher Harbor Pilot Captain Storm Skyreacher.svg]]
+- Related: [[MON00072_Constructs_Creature_73]]
+- Parallels [[level-based-renown-xdmg (tables)]]
+- Compare with [[Assets Locations Location City Archaeological Society V1 Archaeological Society.svg]]
+- Affected by [[erupting-earth-xge (spells)]]
+- Originates from [[Memory Farmers]]
+- Requires [[forgotten-realms-ilmater (deities)]]
+- Requires [[Assets Locations Location City Chancellor Octavius Chancellor Octavius.svg]]
+- Parallels [[ITEM00935_Pure_Potion_of_Vigor]]
+- Requires [[step_047 (phase_058)]]
+- Parallels [[step_055]]
+- Originates from [[Trade Goods Catalog (D&D_References)]]
+- Affected by [[step_063]]
+- Parallels [[describe-appearance-and-personality-charisma-xphb]]
+- Related: [[ENC00376_Combat_Encounter_377]]
+- Compare with [[02_Worldbuilding_People_Portal_Engineer_Shade_Linkwright]]
+- Influences [[Student Researcher Brightwater (D&D_References)]]
+- Requires [[Symbol Heraldry the Echo Succession V1 the Echo Succession.svg]]
+- See also: [[Portrait NPC Ice Kingdom Spirits V1 Ice Kingdom Spirits.svg_1 (Portraits)]]
+- Originates from [[Downtime Activity Crafting an Item Xge]]
+- Compare with [[step_074 (phase_022)]]
+- Leads to [[Symbol Heraldry Sis... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Related: [[step_005 (phase_081)]]
+- Originates from [[Lady Nexus Goldstream]]
+- Leads to [[NPC00169_Aldric_Zephyrblade_the_Wise]]
+- Leads to [[Location City Quest Portal Conspiracy V1 Quest Portal Conspiracy.svg]]
+- Related: [[Memorial Current 2]]
+- Parallels [[step_057]]
+- Affected by [[location-city-sea-sprite-sea-sprite.svg]]
+- Connects to [[Convergence Crisis Scenarios Index]]
+- Connects to [[Session Planning Template]]
+- Affected by [[Assets Item Artifact Ruby Xdmg V4 Ruby Xdmg.png]]
+- Connects to [[step_002]]
+- Connects to [[entangle-xphb (spells)]]
+- Related: [[aspect-of-the-moon-xge (optional-features)]]
+- Connects to [[guard-drake-black-mpmm (dragon)]]
+- Affected by [[step_030 (phase_014)]]

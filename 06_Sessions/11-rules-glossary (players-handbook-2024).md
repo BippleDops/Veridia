@@ -8,6 +8,7 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
+tags: [combat, magic, exploration, lore]
 --- # 11-rules-glossary ---
 
 ## Description
@@ -202,3 +203,186 @@ world: Both
 ## Notes
 
 *Additional notes*
+
+
+> [!dm] DM Note
+> This character is not who they seem
+
+## Prep Checklist
+
+### Npcs Needed
+- [ ] List key NPCs for this session
+- [ ] Prepare voices and mannerisms
+
+### Locations
+- [ ] Review location descriptions
+- [ ] Prepare battle maps if needed
+
+### Encounters
+- [ ] Balance combat encounters
+- [ ] Prepare social encounter notes
+
+### Props
+- [ ] Handouts ready
+- [ ] Music/ambiance selected
+
+### Rules
+- [ ] Review relevant rules
+- [ ] Prepare quick reference
+
+## Campaign Connection
+Knows the location of a key artifact
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Mordenkainen's Tome of Foes (MTF) p.232
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Advantage**: See PHB p.173
+- **Combat**: See PHB p.189-198
+- **Conditions**: See PHB p.290-292
+- **Death Saves**: See PHB p.197
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Equipment: PHB p.143-161)*
+*(Weapons: PHB p.146-147)*
+*(Armor: PHB p.144-146)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Originates from [[location-city-harbor-patrol-harbor-patrol.svg]]
+- See also: [[SPELL00040_Arcane_Spell_41]]
+- Originates from [[step_030]]
+- See also: [[Ocean's_Balance_Circle (02_Worldbuilding)]]
+- Related: [[Supernatural Mysteries (D&D_References)]]
+- Influences [[Patrol Boundaryrider (D&D_References)]]
+- Parallels [[Assets Locations Location City Deepsteel V1 Deepsteel.svg]]
+- Leads to [[step_054 (phase_030)]]
+- Affected by [[step_099 (phase_027)]]
+- Influences [[QUEST00010_Main_Quest_11]]
+- Related: [[coral-xdmg (items)]]
+- See also: [[EVENT00043_Magical_Event_44]]
+- Parallels [[QUEST00302_Side_Quest_303]]
+- Compare with [[step_063 (phase_009)]]
+- Connects to [[Gnome Sheyanna Flaxenstrand Mtf]]
+- Affected by [[ENC00161_Combat_Encounter_162]]
+- Leads to [[Reality Health Scanners]]
+- Connects to [[death-tyrant (legendary-group)]]
+- Leads to [[Inverted Ballroom Wing - Party Quarters]]
+- Related: [[LORE00301_Legends_Entry_302]]
+- Related: [[Trader Cross-Current Jin 2]]
+- Originates from [[Memory Traders]]
+- Connects to [[step_004]]
+- Compare with [[step_072 (phase_030)]]
+- Originates from [[Shadowhaven Merchant Marine]]
+- Related: [[The Sinking Atoll]]
+- Related: [[Portrait NPC Merchant Captain Tobias Stormwind Merchant Captain Tobias Stormwind.svg]]
+- Affected by [[step_083]]
+- Related: [[greek-apollo (deities)]]
+- Leads to [[Portrait NPC High Priest Nereon V2 High Priest Nereon.svg]]
+- Requires [[ally-xphb (variant-rules)]]
+- Leads to [[LORE00257_Prophecies_Entry_258]]
+- Originates from [[step_088 (phase_044)]]
+- Related: [[step_011 (phase_056)]]
+- Affected by [[Location City Master Cultivator Reef Growstone V1 Master Cultivator Reef Growstone.svg]]
+- Leads to [[inflict-wounds-xphb (spells)]]
+- Influences [[Abyssal Flora (D&D_References)]]
+- Influences [[step_071 (phase_021)]]
+- Leads to [[Ancient King Pelagios (D&D_References)]]
+- Influences [[step_053 (phase_081)]]
+- See also: [[README]]
+- Compare with [[step_010 (phase_096)]]
+- Connects to [[NPC00411_Aldric_Proudmore_the_Redeemed]]
+- Leads to [[EVENT00094_Natural_Event_95]]
+- Originates from [[Archive Index]]
+- Originates from [[Assets Locations Location City Port Abyssos Port Abyssos.svg]]
+- Requires [[step_091]]
+- See also: [[ITEM00500_Dragon_Scale_Chain_Mail_of_Protection]]
+- Connects to [[step_002 (phase_037)]]
+- Connects to [[Portrait NPC Captain Redbeard V2 Captain Redbeard.svg]]
+- Leads to [[ITEM00822_Time-worn_Crown_of_Eternity]]
+- Parallels [[Symbol Heraldry Agricultural Provinces V1 Agricultural Provinces.svg]]
+- Parallels [[Sorceress Luna Prismatic (D&D_References)]]
+- See also: [[step_005 (phase_010)]]
+- Leads to [[Svirfneblin Magic Mtf]]
+- Originates from [[Manual of Clay Golems Xdmg]]
+- Originates from [[step_062 (phase_074)]]
+- Connects to [[shield-of-faith-xphb (spells)]]
+- Influences [[step_077 (phase_051)]]
+- Related: [[Noble Xphb]]
+- Related: [[Portrait NPC Lady Nexus Goldcurrent V2 Lady Nexus Goldcurrent.svg]]
+- See also: [[step_046 (phase_024)]]
+- Compare with [[Giant Crab Xmm]]
+- Connects to [[11-appendix-c-tracking-sheets (dungeon-masters-guide-2024)]]
+- See also: [[step_074]]
+- Influences [[step_087 (phase_085)]]
+- Leads to [[Portrait NPC House Guard Captains V2 House Guard Captains.svg]]
+- Parallels [[step_047]]
+- Affected by [[Bright Light Xphb]]
+- Related: [[Quick_Reference_and_Handouts]]
+- Originates from [[Institute of Applied Respiration]]
+- Related: [[Quest - The Collective Consciousness_1 (01_Adventures)]]
+- See also: [[step_082 (phase_071)]]
+- Influences [[wand-of-fireballs-xdmg (items)]]
+- Leads to [[The Crimson Shard Guardian (D&D_Statblocks)]]
+- Requires [[System Cli Spells School Abjuration]]
+- Parallels [[windvane-pota (items)]]
+- Related: [[step_061 (phase_050)]]
+- Affected by [[LOC00189_Dungeons_Location_190]]
+- Parallels [[step_037 (phase_075)]]
+- Originates from [[step_036 (phase_066)]]
+- Influences [[step_029 (phase_089)]]
+- Compare with [[Assets Locations Location City Temple of the Eternal Flame V1 Temple of the Eternal Flame.svg]]
+- Parallels [[LORE00222_Legends_Entry_223]]
+- Requires [[Portrait NPC Tribune Cassia Deepcurrent V1 Tribune Cassia Deepcurrent.svg_1 (Portraits)]]
+- Requires [[Portrait NPC Oracle Nerida the Tidereader Oracle Nerida the Tidereader.svg_1 (Portraits)]]
+- Parallels [[Imperial Nav (D&D_References)]]
+- Parallels [[Temple of Perpetual Tides 2]]
+- See also: [[NPC00544_Jorah_Goldleaf_the_Strong]]
+- Influences [[Information_Trading_System (D&D_References)]]
+- Connects to [[Forbidden Tomes of Deep Mother 2]]
+- Connects to [[Forgotten Realms Eldath]]
+- Parallels [[Campaign_Relationship_Matrix]]
+- Influences [[step_033]]
+- Affected by [[step_049 (phase_100)]]
+- Compare with [[Archive Kelpmere]]
+- Compare with [[Scene Scene Sky Whale Migration at Sunset V1 Sky Whale Migration at Sunset.svg]]
+- Connects to [[step_018 (phase_059)]]
+- Originates from [[The_Sunken_Crown_Cipher.png]]
+- Compare with [[dragonlance-sirrion-phb (deities)]]

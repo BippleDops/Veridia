@@ -1,6 +1,5 @@
 ---
-enhanced: true
-tags: [enhanced, 09_performance]
+enhanced: trtags: [enhanced, 09_performance, combat, exploration, lore]ce]
 created: 2025-08-15T12:24:36.095709
 modified: 2025-08-15T12:24:36.095710
 aliases: [FINAL LEAN IMPROVEMENTS COMPLETE]
@@ -101,3 +100,131 @@ publish: false --- # 🎉 Complete Lean Improvements Report Generated: ${new Dat
 ![[04_Resources/[[Assets|Assets]]/[[Maps|Maps]]/World/Continents/world_assets_locations_location_city_fresh_cleanwave_fresh_cleanwave_svg_physical.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_the_cleaner_the_cleaner_svg_gm.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_the_cerulean_archipelago_the_cerulean_archipelago_svg_physical.png]]
+
+
+> [!dm] DM Note
+> This NPC knows more than they let on
+
+## See Also
+- [[Related_Content]]
+
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Influences [[Police Chief Sarah Lawkeeper 2]]
+- See also: [[Lingering Injuries]]
+- Parallels [[step_029 (phase_052)]]
+- Influences [[Captain Hadal Drake]]
+- Leads to [[D_019_Oracle_Whale]]
+- Originates from [[step_024]]
+- Requires [[ITEM00028_Blessed_Crossbow_of_Wounding]]
+- Requires [[step_015 (phase_072)]]
+- Connects to [[LOC00134_Dungeons_Location_135]]
+- See also: [[QUEST0022_In_Search_of_Justice]]
+- Influences [[step_100 (phase_066)]]
+- Originates from [[Harbor Pilot Guild]]
+- Connects to [[SPELL00066_Nature_Spell_67]]
+- See also: [[step_075 (phase_029)]]
+- Related: [[Community Support Progra... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- Connects to [[EVENT00058_Political_Event_59]]
+- Related: [[Player Notes (02_Worldbuilding)]]
+- See also: [[Quest - The Siren's Price_1 (01_Adventures)]]
+- Originates from [[QUEST00121_Side_Quest_122]]
+- Leads to [[Transformation Facilities]]
+- Originates from [[step_011 (phase_011)]]
+- Affected by [[Prince Caelum Stormwright]]
+- See also: [[step_048]]
+- Requires [[Symbol Heraldry the Deepwatch Guard V1 the Deepwatch Guard.svg]]
+- Influences [[ENC00033_Combat_Encounter_34]]
+- Leads to [[ENC00251_Social_Encounter_252]]
+- Connects to [[FAC00034_Cults_35]]
+- Requires [[step_068 (phase_006)]]
+- Connects to [[MON00166_Undead_Creature_167]]
+- Related: [[step_032 (phase_025)]]
+- Originates from [[step_035]]
+- Influences [[Ring of Force Resistance Xdmg]]
+- Parallels [[step_071 (phase_023)]]
+- Affected by [[Skyfall Observatory 2]]
+- Requires [[Elemental Attunement]]
+- Originates from [[System Operator Tide Watchwright (D&D_References)]]
+- Originates from [[step_093]]
+- Originates from [[QUEST00133_Main_Quest_134]]
+- Parallels [[QUEST00103_Main_Quest_104]]
+- Compare with [[step_069 (phase_090)]]
+- Leads to [[step_099 (phase_078)]]
+- Connects to [[Environmental Protection Specialist]]
+- Influences [[step_028]]
+- Affected by [[List Spells Classes Horizon Walker Xge]]
+- See also: [[Scene Scene Frozen Throne Coronation V2 Frozen Throne Coronation.svg]]
+- Connects to [[Portal Terminal Central]]
+- Influences [[twinned-spell-xphb (optional-features)]]
+- Affected by [[magma-mephit-xmm]]
+- Leads to [[Information Broker Whisper Goldtongue]]
+- Influences [[step_081 (phase_016)]]
+- Compare with [[Assets Locations Location City Tide Risktaker Tide Risktaker.svg]]
+- Originates from [[Social Architect Luna Newdawn]]
+- Affected by [[step_023]]
+- Connects to [[Scholar Temporal Chronos 2]]
+- Parallels [[Portrait NPC Parliament Loyalists V1 Parliament Loyalists.svg]]
+- Related: [[step_021]]
+- Connects to [[step_095 (phase_062)]]
+- Compare with [[NPC00188_Hilda_Grimholt]]
+- Affected by [[step_092]]
+- Related: [[step_015]]
+- See also: [[EVENT00095_Political_Event_96]]
+- Parallels [[ITEM00304_Blessed_Staff_of_Accuracy]]
+- Affected by [[Quest - The Silver Revolution_1 (01_Adventures)]]
+- Related: [[EVENT00092_Political_Event_93]]
+- Affected by [[Tide Welcomeheart (D&D_References)]]
+- Leads to [[Location City Courier Ripplestone V1 Courier Ripplestone.svg]]
+- Requires [[LOC00213_Towns_Location_214]]
+- Parallels [[step_048 (phase_100)]]
+- Affected by [[ENC00182_Environmental_Encounter_183]]
+- Compare with [[Well Made Tapestry That Is 10 Feet by 10]]
+- Leads to [[NPC00255_Caelum_Jadeclaw]]
+- Leads to [[Revenant Xmm]]
+- Influences [[step_033 (phase_085)]]
+- Leads to [[Portrait NPC Captain Zara Stormwind Captain Zara Stormwind.svg]]
+- See also: [[potions-of-healing-xdmg (items)]]
+- Leads to [[04_Resources_Assets_Locations_location-city-pool-of-sacred-drowning-v1-pool-of-sacred-drowning.svg]]
+- Leads to [[step_006 (phase_094)]]
+- Influences [[step_100]]
+- Originates from [[Location City the Whisper Island Mystery the Whisper Island Mystery.png]]
+- Affected by [[ITEM00685_Fortified_Plate_of_the_Guardian]]
+- Parallels [[04_Resources_Assets_Symbols_symbol-heraldry-port-sorrow-trading-company-port-sorrow-trading-company.svg]]
+- Originates from [[DUN00147_Dungeon_148]]
+- Compare with [[Portrait NPC the Pearl Guard V2 the Pearl Guard.svg_1 (Portraits)]]
+- Compare with [[Assets Locations Location City the Singing Shadows V1 the Singing Shadows.svg]]
+- Parallels [[LOC00263_Dungeons_Location_264]]
+- Originates from [[step_032 (phase_020)]]
+- Influences [[04_Resources_Assets_Locations_location-city-temple-guardian-marcus-the-drowned-v1-temple-guardian-marcus-the-drowned.svg]]
+- Related: [[Assets Locations Location City Keeper Elara Moonwhisper V1 Keeper Elara Moonwhisper.svg]]
+- Leads to [[LORE00147_Prophecies_Entry_148]]
+- Compare with [[Investiture of Stone Xge]]
+- Affected by [[War of Burning Skies]]
+- Influences [[step_080]]
+- Originates from [[ITEM01111_Lesser_Salve_of_Vigor]]
+- Influences [[Scepter of Winter's Command 2]]
+- Requires [[ITEM01005_Refined_Crystal_of_Fortune]]
+- Compare with [[Goristro Xmm]]
+- Compare with [[Master Craftsman Hydros]]
+- See also: [[War Machine Assembly Halls]]
+- Related: [[ITEM00313_Frost_Crossbow_of_Power]]
+- Requires [[step_083 (phase_009)]]

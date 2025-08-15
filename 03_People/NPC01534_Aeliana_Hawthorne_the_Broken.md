@@ -1,4 +1,5 @@
 ---
+created: 2025-08-15
 aliases: ["Aeliana Hawthorne the Broken", "aeliana hawthorne the broken", "Aeliana Hawthorne Broken", "Broken the Hawthorne Aeliana"]
 tags: [npc, character]
 type: npc
@@ -146,3 +147,142 @@ Knows secret about major threat
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Dungeon Master's Guide (DMG) p.264
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Originates from [[step_050 (phase_021)]]
+- Influences [[step_076]]
+- Requires [[Cordelia Truthseeker]]
+- Related: [[Activate the Grief Bomb]]
+- Related: [[NPC00583_Malakai_Proudmore_the_Strong]]
+- Originates from [[ITEM00757_Celestial_Scepter_of_the_Gods]]
+- Related: [[step_032 (phase_004)]]
+- Influences [[step_060 (phase_058)]]
+- Related: [[Truth-seeker's Lens]]
+- Compare with [[step_071]]
+- Originates from [[step_069 (phase_010)]]
+- Parallels [[LORE00067_Prophecies_Entry_68]]
+- Influences [[Keepers of Memory (D&D_References)]]
+- Influences [[List Spells School Abjuration]]
+- Parallels [[Seal Vault Complex (D&D_References)]]
+- Parallels [[step_075]]
+- Related: [[Military Moral Quandaries 2]]
+- Related: [[pot-of-awakening-xdmg (items)]]
+- Requires [[step_051 (phase_063)]]
+- Affected by [[Assets Handouts Handout Handout Love Letter with Hidden Message V1 Love Letter with Hidden Message.png]]
+- Leads to [[Location City Current Riders Guild V1 Current Riders Guild.svg]]
+- Originates from [[Novice Apprentice Sarah Hopeful]]
+- Compare with [[step_047 (phase_089)]]
+- Requires [[LOC00218_Towns_Location_219]]
+- Influences [[step_055 (phase_017)]]
+- Originates from [[ITEM01143_Distilled_Powder_of_Healing]]
+- Compare with [[NPC00367_Jorah_Brightblade_the_Fallen]]
+- Related: [[NPC01625_Qadim_Lightbringer_the_Swift]]
+- Originates from [[Arch Hag Xmm (legendary-group)]]
+- Leads to [[Portrait NPC Merchant Captain Tobias Stormwind V1 Merchant Captain Tobias Stormwind.svg]]
+- Affected by [[step_054 (phase_081)]]
+- Connects to [[step_060 (phase_086)]]
+- Influences [[Assets Locations Location City Public Libraries Public Libraries.svg]]
+- Requires [[step_039 (phase_042)]]
+- Affected by [[Assets Handouts Handout Handout Tavern Bill of Fare V3 Tavern Bill of Fare.png]]
+- Originates from [[SPELL0034_Eldritch_Storm]]
+- Connects to [[02_Worldbuilding_People_Brother_Marcus_the_Willing]]
+- See also: [[The Observers]]
+- Related: [[Amnesia Gallery]]
+- Originates from [[step_011]]
+- Affected by [[step_045 (phase_034)]]
+- Originates from [[Location City the Infinite Garden the Infinite Garden.svg]]
+- Originates from [[step_025 (phase_038)]]
+- Affected by [[Human Names Slavic Female Xge]]
+- Requires [[Scholars of Silverquill Silverquill Scholars]]
+- Connects to [[step_038 (phase_046)]]
+- See also: [[Shadow Shipyard]]
+- See also: [[step_051 (phase_047)]]
+- Requires [[Symbol Heraldry Transformation Techniques Transformation Techniques.svg]]
+- Parallels [[LOC0079_Grovedale]]
+- Related: [[Depth Current Crisis]]
+- See also: [[ENC00149_Social_Encounter_150]]
+- Leads to [[The Vault of Scales]]
+- Parallels [[SHOP00041_Specialty_Shop_42]]
+- Connects to [[Culinary Dreamweaver Sage Gentlespice]]
+- Connects to [[LORE00111_Prophecies_Entry_112]]
+- Requires [[Portrait NPC Captain Garrett Stormcutter V2 Captain Garrett Stormcutter.svg]]
+- Affected by [[The Harmonic Gardens]]
+- Influences [[step_032 (phase_017)]]
+- Affected by [[Giant Vulture Xmm]]
+- Requires [[Supplemental Tables Relationship Xge]]
+- Originates from [[backpack-xphb (items)]]
+- Requires [[Potions for Sale Xge]]
+- Requires [[location-city-regional-courts-regional-courts.svg]]
+- Connects to [[Location City Interfaith Councils V1 Interfaith Councils.svg]]
+- Leads to [[Portrait NPC Quest the Corruption Cure V2 Quest the Corruption Cure.svg]]
+- Affected by [[LORE00035_History_Entry_36]]
+- Leads to [[Minister Truth Darknes 2]]
+- Originates from [[step_007]]
+- Leads to [[step_001 (phase_085)]]
+- Connects to [[location-city-crimson-reef-v1-crimson-reef.svg]]
+- Leads to [[The Memory Garden 2]]
+- Related: [[Royal Palace of Meridian 2]]
+- Leads to [[step_078]]
+- Parallels [[pixie-xmm (fey)]]
+- Related: [[Portrait NPC Economic Manipulation V1 Economic Manipulation.svg_1 (Portraits)]]
+- Influences [[Depth Safety Authorit (D&D_References)]]
+- Leads to [[Assets Locations Location City Depth Warden Depth Warden.svg]]
+- Compare with [[NPC00163_Jorah_Ravenheart]]
+- Influences [[Academic Research Societies]]
+- See also: [[Portrait NPC Lord Aurelius Goldwave V1 Lord Aurelius Goldwave.svg]]
+- Parallels [[step_028 (phase_018)]]
+- Originates from [[1 the Blood War]]
+- Originates from [[Quest_-_The_Filter_Exchange]]
+- See also: [[Temporal Control 2]]
+- See also: [[QUEST00121_Personal_Quest_122]]
+- Leads to [[SHOP00046_Magical_Shop_47]]
+- Affected by [[Location City Seeds of the Past Seeds of the Past.svg]]
+- Compare with [[Assets Locations Location City Sage Lyralei Starweaver Sage Lyralei Starweaver.svg]]
+- Related: [[Parasite Boarding & Biohazards]]
+- Leads to [[Assets Item Artifact Weird Tank Pota V2 Weird Tank Pota.png]]
+- See also: [[White Abishai Mpmm]]
+- Requires [[adult-kruthik-mpmm (monstrosity)]]
+- See also: [[ENC00266_Combat_Encounter_267]]
+- Related: [[Location City Ambassador Silk Bridgewater Ambassador Silk Bridgewater.svg]]
+- See also: [[Assets Locations Location City Risk Assessor Probability Risk Assessor Probability.svg]]
+- Parallels [[The Meridian Amnesia Zone]]
+- Related: [[enemy-xphb (variant-rules)]]
+- Leads to [[step_069 (phase_040)]]
+- Connects to [[Thalassa the Life-Weaver]]

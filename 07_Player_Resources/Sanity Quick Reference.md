@@ -9,6 +9,7 @@ created: '2025-08-14'
 modified: '2025-08-14'
 evaluated: '2025-08-14'
 improvements: 20
+tags: [combat, magic, exploration, lore]
 ---
 
 ## 🔧 Deep Evaluation Improvements
@@ -137,3 +138,136 @@ improvements: 20
 ## References
 
 - [[Player Portal]]
+
+
+> [!dm] DM Note
+> This location connects to the main plot
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Influences [[step_001 (phase_046)]]
+- Parallels [[Portrait NPC the Resonance Prophet V2 the Resonance Prophet.svg]]
+- Originates from [[Assets Locations Location City Scribe Master Elena Truthkeeper Scribe Master Elena Truthkeeper.svg]]
+- Related: [[step_091 (phase_004)]]
+- Related: [[Professor Diana Shadowbane (D&D_References)]]
+- Compare with [[Magic User]]
+- Related: [[psychic-wind-location-effects-xdmg (tables)]]
+- Influences [[Vehicle Ship Cloud Anchor Freighter V1 Cloud Anchor Freighter.svg]]
+- Leads to [[step_086 (phase_072)]]
+- Originates from [[16 Chapter 16 the Fetid Wedding]]
+- Related: [[FAC00014_Orders_15]]
+- Requires [[charger-xphb (feats)]]
+- Influences [[step_049]]
+- Originates from [[5 Halflings and Gnomes]]
+- Affected by [[Scene Scene Deep Mother S Tentacles Rising V2 Deep Mother S Tentacles Rising.svg]]
+- Parallels [[Assets Locations Location City Phantom Harbor Charter V1 Phantom Harbor Charter.svg]]
+- Requires [[ASSET_REORGANIZATION_REPORT]]
+- Related: [[step_093 (phase_089)]]
+- Parallels [[Symbol Heraldry Cross Realm Agricultural Exchang V1 Cross Realm Agricultural Exchang.svg]]
+- Related: [[step_080 (phase_078)]]
+- Influences [[ENC00177_Environmental_Encounter_178]]
+- Influences [[NPC00613_Aldric_Stormwind]]
+- Affected by [[Inter-Realm Relations]]
+- Compare with [[The Contract Archive (D&D_References)]]
+- Requires [[Shadow Trackhound (D&D_References)]]
+- Compare with [[Senator Cornelius Depthwalker (D&D_References)]]
+- Compare with [[Current Rider Captain Crimson Velocity]]
+- Parallels [[SPELL00116_Divine_Spell_117]]
+- Originates from [[step_054]]
+- Requires [[LORE00042_History_Entry_43]]
+- Affected by [[ITEM00049_Thunder_Hammer_of_Wounding]]
+- Connects to [[NPC00285_Xander_Goldleaf_the_Mystic]]
+- See also: [[NPC01531_Pyria_Goldleaf_the_Wise]]
+- Leads to [[Cultural Festivals Committee (02_Worldbuilding)]]
+- Originates from [[locate-animals-or-plants-xphb (spells)]]
+- See also: [[stonespeaker-crystal-oota (items)]]
+- Originates from [[Location City Paradox Engineer Zeno V1 Paradox Engineer Zeno.svg]]
+- Parallels [[02_Worldbuilding_Lore_The_Emperor''s_Gambit]]
+- Influences [[befuddlement-xphb (spells)]]
+- Leads to [[Battle_Maps.md]]
+- Connects to [[step_056]]
+- Leads to [[Commander Transparent (D&D_References)]]
+- Connects to [[Crystal Preservation Society (Groups)]]
+- See also: [[Depth Supremacist Movement]]
+- Influences [[flask-xphb (items)]]
+- Compare with [[Dr Nereon Deepcurrent]]
+- Compare with [[step_047]]
+- Leads to [[step_078 (phase_015)]]
+- Related: [[Reflection Captain Vantage (D&D_References)]]
+- Connects to [[step_095 (phase_046)]]
+- Originates from [[step_016 (phase_081)]]
+- Compare with [[Quest - Mother's Mercy 2]]
+- Leads to [[Chamber Purpose Dungeon Mine]]
+- Affected by [[purple-worm-xmm (monstrosity)]]
+- Parallels [[LOC00153_Dungeons_Location_154]]
+- Compare with [[Condition Tracker]]
+- Requires [[The Authentication Crisis (D&D_References)]]
+- Requires [[Eastern Kingdom Fleet]]
+- Parallels [[Location City the Inverse Palace V1 the Inverse Palace.svg]]
+- See also: [[symbol-heraldry-bexley-v1-bexley.svg]]
+- Affected by [[Location City the Exotic Emporium the Exotic Emporium.svg]]
+- Requires [[step_069]]
+- Compare with [[LOC00268_Dungeons_Location_269]]
+- Related: [[FAC00052_Cults_53]]
+- Connects to [[Skywind Cloak (D&D_References)]]
+- Compare with [[Arcane-Depth Void]]
+- Influences [[ITEM01097_Superior_Elixir_of_Vigor]]
+- Affected by [[colossus-xmm (construct)]]
+- See also: [[Jasper Worldbridge]]
+- Influences [[LOC00224_Cities_Location_225]]
+- Related: [[step_035 (phase_057)]]
+- Compare with [[QUEST00440_Side_Quest_441]]
+- Affected by [[List Spells Feats Strixhaven Initiate Scc]]
+- Related: [[Undead Spirit Putrid Xphb]]
+- See also: [[Location City the Pressure Crown V1 the Pressure Crown.svg]]
+- Connects to [[The Forgotten Archive (D&D_Statblocks)]]
+- Compare with [[EVENT00061_Magical_Event_62]]
+- Compare with [[Department of Public Health]]
+- Leads to [[NPC01703_Elric_Goldleaf_the_Swift]]
+- Requires [[Cellular Shadow Trackers]]
+- Originates from [[Location City the Tidepool Markets the Tidepool Markets.svg]]
+- See also: [[The Screaming Chamber]]
+- Influences [[razorvine-xdmg (traps-hazards)]]
+- Requires [[Futures Master Economic-Sense]]
+- See also: [[NPC00402_Hestara_Grimholt_the_Mystic]]
+- Leads to [[portrait-npc-the-schooling-v2-the-schooling.svg]]
+- Influences [[The Shadow-Crystal Synthesis]]
+- Affected by [[Underwater Breathing 2]]
+- See also: [[step_009]]
+- Related: [[Meta Bind Examples (D&D_References)]]
+- Parallels [[The Deepmind Conspiracy (D&D_References)]]
+- Requires [[Assets Vehicles Vehicle Ship Aethermoor Courier Class Airship V2 Aethermoor Courier Class Airship.png]]
+- Requires [[sanctuary-charm-xdmg (rewards)]]
+- Requires [[Handout Handout Wanted Poster with Reward Wanted Poster with Reward.png]]
+- Compare with [[Royal Academy of Ethical Commerce]]
+- Requires [[portrait-npc-seventh-shard-seventh-shard.svg_1 (Portraits)]]
+- Affected by [[NPC01158_Baelor_Silverleaf_the_Strong]]
+- Parallels [[LOC00095_Towns_Location_96]]
+- Requires [[step_087 (phase_044)]]
+- Parallels [[DUN00117_Dungeon_118]]

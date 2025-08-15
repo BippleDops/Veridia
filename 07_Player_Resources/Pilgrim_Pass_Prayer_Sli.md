@@ -9,6 +9,7 @@ created: '2025-08-14'
 modified: '2025-08-14'
 evaluated: '2025-08-14'
 improvements: 20
+tags: [combat, lore]
 ---
 
 ## 🔧 Deep Evaluation Improvements
@@ -113,3 +114,129 @@ improvements: 20
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+
+> [!tip] 💡 Tip
+> Useful information for players
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+
+## Connections
+
+- Affected by [[Assets Locations Location City Deepstone Deepstone.svg]]
+- Parallels [[step_079]]
+- Requires [[NPC00174_Aldric_Silverleaf_the_Fallen]]
+- Affected by [[Assets Portraits Portrait NPC Marina Red Tide Coralheart Marina Red Tide Coralheart.svg]]
+- Compare with [[Sage Analytical Mindweaver (D&D_References)]]
+- Related: [[Creature Creature Young Green Dragon Xmm V2 Young Green Dragon Xmm.png]]
+- Requires [[Harbor District Medical Corps]]
+- See also: [[choose-languages-standard-languages-xphb (tables)]]
+- Originates from [[LOC0082_EastFalls]]
+- Connects to [[location-city-harbor-patrol-v1-harbor-patrol.svg]]
+- Connects to [[The Mercy Accords 2]]
+- Leads to [[Portrait NPC the Lady S Garden Society V2 the Lady S Garden Society.svg]]
+- Parallels [[Taverner Bubbles McGill (D&D_References)]]
+- Influences [[location-city-the-conductor-v1-the-conductor.png]]
+- Compare with [[Roleplaying a Beholder Beholder Bonds Vgm]]
+- Influences [[step_043 (phase_096)]]
+- Connects to [[Quest - The Seventh Song_1 (01_Adventures)]]
+- Leads to [[Noble Quarter (D&D_Statblocks)]]
+- Influences [[Cliffside Manors]]
+- Requires [[Twilight Depths (D&D_References)]]
+- Originates from [[Master Smith Coral-Hammer]]
+- Requires [[DUN00064_Dungeon_65]]
+- Leads to [[LOC00074_Planes_Location_75]]
+- Parallels [[Assets Locations Location City Chancellor S Advisory Council V1 Chancellor S Advisory Council.svg]]
+- Leads to [[NPC00455_Branwen_Nightfall]]
+- Leads to [[Assets Locations Location City Flame Keeper Brother Ignatius Flame Keeper Brother Ignatius.svg]]
+- Related: [[step_055]]
+- See also: [[LOC00057_Towns_Location_58]]
+- Connects to [[Thieves Guild (Guilds)]]
+- Originates from [[step_020]]
+- Influences [[Dawn War Melora Dmg]]
+- Influences [[NPC01751_Pyria_Ravenheart_the_Strong]]
+- Compare with [[SPELL00054_Arcane_Spell_55]]
+- Originates from [[Handout Handout Smuggler Ledger Page V2 Smuggler Ledger Page.png]]
+- See also: [[Lady Resistance Brightshield]]
+- Requires [[#Cross-Campaign Connection Matrix]]
+- Influences [[Phase Omega Enhanced Index]]
+- Related: [[step_056 (phase_029)]]
+- See also: [[LOC00036_Planes_Location_37]]
+- Related: [[step_031 (phase_064)]]
+- Parallels [[Recursion_Travel_System]]
+- Originates from [[Residential Districts]]
+- Related: [[gnoll-hunter-mpmm (monstrosity)]]
+- See also: [[location-city-age-of-wonders-age-of-wonders.svg]]
+- Connects to [[step_043]]
+- Related: [[Reputation System (Lore)]]
+- Originates from [[Assets Locations Location City Surface Underwater Trade V1 Surface Underwater Trade.svg]]
+- Leads to [[Sister Marina Tidehealer]]
+- Parallels [[step_045 (phase_049)]]
+- Related: [[FAC00017_Orders_18]]
+- Parallels [[Lieutenant Marcus (D&D_References)]]
+- See also: [[The Debt Collectors]]
+- Related: [[Pressure Engineers (D&D_References)]]
+- Influences [[Contradiction Chamber (D&D_References)]]
+- Compare with [[Location City Pressure Terminal V1 Pressure Terminal.svg]]
+- Leads to [[List Spells Feats Strixhaven Mascot Scc]]
+- Parallels [[step_022]]
+- Related: [[Armor of Radiant Resistance Xdmg]]
+- Requires [[Portrait NPC Trade Captain Current V2 Trade Captain Current.svg]]
+- Compare with [[creature-creature-griffon-xmm-griffon-xmm.png]]
+- Influences [[underwater-encounters-levels-14-xge (tables)]]
+- Related: [[step_096]]
+- Influences [[step_028]]
+- Connects to [[step_099 (phase_063)]]
+- Leads to [[INV-002.png]]
+- Influences [[Location City Pool of Sacred Drowning V1 Pool of Sacred Drowning.svg]]
+- Leads to [[Location City Restorative Justice Restorative Justice.svg]]
+- Originates from [[04_Resources_Assets_Vehicles_vehicle-ship-resoce-drive-yacht-resoce-drive-yacht.svg]]
+- Influences [[NPC01269_Felicia_Dawnstrider_the_Swift]]
+- Affected by [[Control Water Xphb]]
+- Originates from [[The Neutral Current (D&D_References)]]
+- Related: [[SPELL00119_Arcane_Spell_120]]
+- Originates from [[ITEM00672_Fortified_Gauntlets_of_Fortitude]]
+- Connects to [[step_077]]
+- Related: [[step_031 (phase_043)]]
+- Leads to [[Location City Registrar Cornelius Scrollkeeper Registrar Cornelius Scrollkeeper.svg]]
+- Connects to [[Profit Crosscurrent 2]]
+- Connects to [[Final Messages]]
+- Affected by [[step_003 (phase_082)]]
+- Influences [[step_023]]
+- Requires [[Quest - Budget Crisis 2]]
+- Compare with [[step_086]]
+- Compare with [[Korra Mindshield]]
+- Parallels [[Symbol Heraldry Crystal Pirate Crew Crystal Pirate Crew.svg]]
+- Connects to [[Assets Locations Location City Exotic Imports Market Exotic Imports Market.svg]]
+- Compare with [[The Addicted Nobles 2]]
+- Leads to [[Location City Palace Staff Guild Palace Staff Guild.svg]]
+- Leads to [[Player_Feedback_Form.md]]
+- See also: [[adult-gold-dragon-xmm (dragon)]]
+- Requires [[SHOP00031_Specialty_Shop_32]]
+- Influences [[ENC0055_Random_Encounter_56]]
+- Parallels [[Assets Locations Location City Finn Deepmarket Finn Deepmarket.svg]]
+- Connects to [[Merfolk Wavebender Xmm]]
+- Affected by [[step_058 (phase_083)]]
+- Parallels [[step_023 (phase_098)]]
+- Affected by [[Novelist Current Stories]]
+- Connects to [[Aether Crystals]]
+- Originates from [[item-artifact-mess-kit-v3-mess-kit.png]]
+- See also: [[step_075]]
+- Originates from [[LOC00009_Planes_Location_10]]

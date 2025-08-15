@@ -1,6 +1,6 @@
 ---
-aliases: ["Thalia Underhill the Fallen", "thalia underhill the fallen", "Thalia Underhill Fallen", "Fallen the Underhill Thalia"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Thalia Underhill the Fallen", "thalia underhill the fallen", "Thalia Underhill Fallen", "Fallen the Underhill Thaliatags: [npc, character, combat, social, exploration, puzzle, lore]er]
 type: npc
 ---
 
@@ -136,3 +136,135 @@ Caravan needs guards
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Commoner** (MM p.345)
+Modifications:
+- HP: 22
+- AC: 11
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Advantage**: See PHB p.173
+- **Combat**: See PHB p.189-198
+- **Conditions**: See PHB p.290-292
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Related: [[LOC00102_Dungeons_Location_103]]
+- Related: [[step_034 (phase_006)]]
+- Parallels [[Brother Pelagios Irondeep]]
+- Compare with [[Original Trackers]]
+- Requires [[Gith Tables Githyanki Personality Traits Mtf]]
+- See also: [[Assets Portraits Portrait NPC Deep Fortress Network Deep Fortress Network.svg]]
+- Affected by [[Assets Locations Location City Garden Keeper Zen Currentdancer Garden Keeper Zen Currentdancer.svg]]
+- Compare with [[step_053 (phase_096)]]
+- Affected by [[The Temporal Monks 2]]
+- Leads to [[step_090 (phase_038)]]
+- Influences [[QUEST00079_Main_Quest_80]]
+- Affected by [[SPELL00050_Nature_Spell_51]]
+- Related: [[Location City Scepter of Winter S Command Scepter of Winter S Command.svg]]
+- Leads to [[Environmental Systems Suppliers]]
+- Related: [[meazel-mpmm (monstrosity)]]
+- Connects to [[Elemental Spirit Water Xphb]]
+- See also: [[LORE00237_Legends_Entry_238]]
+- See also: [[QUEST00362_Side_Quest_363]]
+- Related: [[ENC00224_Combat_Encounter_225]]
+- Parallels [[Aquabyssos_Character_Backgrounds]]
+- Related: [[gray-ooze-xmm (ooze)]]
+- Originates from [[Assets Locations Location City Archaeological Society V1 Archaeological Society.svg]]
+- Affected by [[Assets Locations Location City the Phosphor Markets the Phosphor Markets.png]]
+- See also: [[Martial Weapon Training Xphb]]
+- Related: [[step_062 (phase_087)]]
+- See also: [[MON00137_Aberrations_Creature_138]]
+- Affected by [[The Deep Mother 3 (D&D_References)]]
+- Leads to [[Deep Current Academy (Places)]]
+- Requires [[ENC00042_Environmental_Encounter_43]]
+- Influences [[step_086]]
+- Requires [[step_098 (phase_098)]]
+- Requires [[NPC00898_Elric_Hawthorne_the_Mystic]]
+- Parallels [[ensnaring-strike-xphb (spells)]]
+- Related: [[step_076]]
+- Parallels [[step_019 (phase_054)]]
+- Related: [[Community Organizations 2]]
+- Leads to [[ASSET_EXPANSION_COMPLETE]]
+- Parallels [[step_064 (phase_085)]]
+- Related: [[Captain Sky Horizon (D&D_References)]]
+- Requires [[Senator Cornelius Depthwalker (D&D_References)]]
+- Related: [[centaur-trooper-xmm]]
+- Related: [[step_004 (phase_081)]]
+- Influences [[Portrait NPC Otherworldly Patron Otherworldly Patron.svg_1 (Portraits)]]
+- Originates from [[LOC00040_Cities_Location_41]]
+- Originates from [[Assets Item Artifact Boots of Striding and Springing Xdmg V6 Boots of Striding and Springing Xdmg.png]]
+- Related: [[step_066 (phase_080)]]
+- Affected by [[step_001 (phase_048)]]
+- Compare with [[step_076 (phase_082)]]
+- Originates from [[Session Planning Workflow]]
+- Originates from [[step_003 (phase_090)]]
+- Compare with [[Abyssos Prime Government (D&D_References)]]
+- Affected by [[Shared Dreaming]]
+- Compare with [[step_075 (phase_044)]]
+- Originates from [[sunburst-xphb (spells)]]
+- Connects to [[Solar Corruption 2]]
+- Influences [[Combat_Actions]]
+- Affected by [[step_049 (phase_069)]]
+- Connects to [[The Cultural Exchange Center]]
+- See also: [[Defense Xphb]]
+- Influences [[Location City Scholar David Crossref Scholar David Crossref.svg]]
+- Affected by [[ENC00253_Social_Encounter_254]]
+- Requires [[step_081 (phase_008)]]
+- Leads to [[Power Word Kill Xphb]]
+- See also: [[NPC01411_Idris_Oakenshield_the_Lost]]
+- Leads to [[Spell Gem Amber Oota]]
+- Leads to [[Explorer Captain Reef Deepdiver (D&D_References)]]
+- Parallels [[location-city-deepsteel-v1-deepsteel.svg]]
+- Influences [[step_047]]
+- See also: [[Goldspire Confederacy (D&D_Statblocks)]]
+- Compare with [[Assets Portraits Portrait NPC Quest the Failing Magic Quest the Failing Magic.svg]]
+- Connects to [[step_052]]
+- Affected by [[MON0009_Frost_Reaper]]
+- Related: [[Equipment_Catalogs (D&D_References)]]
+- Compare with [[Location City Military Intelligence Military Intelligence.svg]]
+- Connects to [[step_099 (phase_092)]]
+- See also: [[Assassin (D&D_Statblocks)]]
+- Originates from [[The Unnamed Chronicler 2]]
+- Parallels [[whip-xphb (items)]]
+- Compare with [[Symbol Heraldry Divine Transformation Theolog V1 Divine Transformation Theolog.svg]]
+- Originates from [[lantern-of-revealing-xdmg (items)]]
+- Originates from [[LORE00050_Prophecies_Entry_51]]
+- Connects to [[step_096 (phase_087)]]
+- Affected by [[improvement_report_20250815_140442]]
+- Requires [[step_040]]
+- See also: [[step_015 (phase_063)]]
+- Parallels [[ENC0002_Random_Encounter_3]]
+- Connects to [[Quest - The Deep Cartographer_1 (01_Adventures)]]
+- Affected by [[Assets Locations Location City Marina Oracleguard V1 Marina Oracleguard.svg]]
+- Parallels [[Assets Locations Location City Senior Nurse Polyp Tendercurrent V1 Senior Nurse Polyp Tendercurrent.svg]]
+- Related: [[The Pressure King (D&D_References)]]
+- Requires [[book-of-vile-darkness-xdmg (items)]]
+- Related: [[Aboleth Servants]]
+- Originates from [[Captain_Trawl_Netcaster.png]]
+- Connects to [[Resonance Equipment]]
+- See also: [[step_100]]
+- Affected by [[Portrait NPC Admiral Cassandra Stormwind V1 Admiral Cassandra Stormwind.svg]]
+- Parallels [[Commander Eastwind Stormbreak (D&D_References)]]
+- Compare with [[step_042]]
+- Affected by [[The Archcrystal]]
+- Connects to [[Living Library]]

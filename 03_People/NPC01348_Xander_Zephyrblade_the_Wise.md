@@ -1,6 +1,6 @@
 ---
-aliases: ["Xander Zephyrblade the Wise", "xander zephyrblade the wise", "Xander Zephyrblade Wise", "Wise the Zephyrblade Xander"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Xander Zephyrblade the Wise", "xander zephyrblade the wise", "Xander Zephyrblade Wise", "Wise the Zephyrblade Xandertags: [npc, character, combat, magic, social, exploration, puzzle, lore]er]
 type: npc
 ---
 
@@ -137,3 +137,149 @@ Forming expedition to dangerous location
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Bandit** (MM p.343)
+Modifications:
+- HP: 49
+- AC: 14
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Dungeon Master's Guide (DMG) p.288
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+- **Spellcasting**: See PHB p.201-205
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Originates from [[Pressure-Responsive Fabrics (D&D_References)]]
+- Leads to [[step_024 (phase_069)]]
+- Originates from [[Cliffside Manors]]
+- Parallels [[average-results-mob-results-xdmg (tables)]]
+- Affected by [[step_030 (phase_024)]]
+- Related: [[LORE00253_History_Entry_254]]
+- Originates from [[Future Aquabyssos]]
+- See also: [[item-artifact-weird-tank-pota-weird-tank-pota.png]]
+- Compare with [[Security Chief Marcus Ironbrand]]
+- Influences [[step_087]]
+- See also: [[elf-tables-drow-adventurer-story-hooks-mtf (tables)]]
+- Influences [[Deepwatch Guard 2]]
+- Related: [[step_097]]
+- Parallels [[Criminal Boss]]
+- Affected by [[Azure Citadel (D&D_References)]]
+- See also: [[tashas-hideous-laughter-xphb (spells)]]
+- See also: [[ENC00217_Combat_Encounter_218]]
+- Affected by [[Senior Nurse Polyp Tendercurrent (D&D_References)]]
+- Leads to [[minions-of-chaos (optional-features)]]
+- Requires [[step_050]]
+- Influences [[Balta Kaine (D&D_References)]]
+- Originates from [[Master Cultivator Apprenticeship (Cults_and_Movements)]]
+- Requires [[SPELL0016_Arcane_Curse]]
+- Parallels [[Portrait NPC Lady Victoria Pennworth V1 Lady Victoria Pennworth.svg]]
+- See also: [[LOC0078_FortPeak]]
+- Parallels [[step_061]]
+- Affected by [[step_070 (phase_067)]]
+- Connects to [[ITEM01131_Refined_Elixir_of_Swiftness]]
+- Parallels [[step_068]]
+- See also: [[ENC00094_Combat_Encounter_95]]
+- Connects to [[step_017 (phase_006)]]
+- Leads to [[step_095 (phase_081)]]
+- Parallels [[exotic-saddle-xphb (items)]]
+- Influences [[step_096 (phase_061)]]
+- Requires [[ITEM00522_Adamantine_Plate_of_Grace]]
+- Influences [[The Stellar Confluence (D&D_References)]]
+- Parallels [[ITEM00656_Dragon_Scale_Boots_of_Resistance]]
+- Parallels [[step_024]]
+- Parallels [[step_068 (phase_077)]]
+- Connects to [[step_078 (phase_030)]]
+- Parallels [[Rod of the Pact Keeper Xdmg]]
+- Leads to [[Danse Macabre Xge]]
+- Originates from [[ENC00450_Combat_Encounter_451]]
+- Related: [[Depths Alliance 2]]
+- Affected by [[Half Orc Parents Xge]]
+- Affected by [[step_037]]
+- Compare with [[Creature Creature Ancient Brass Dragon Xmm V4 Ancient Brass Dragon Xmm.png]]
+- See also: [[The Memory Palace 2]]
+- See also: [[MON00130_Constructs_Creature_131]]
+- See also: [[Silk Rope 50 Feet]]
+- Leads to [[cogwork-archivist-scc (construct)]]
+- Requires [[Location City the Synthesis Gardens V1 the Synthesis Gardens.svg]]
+- Leads to [[Temporal Navigation Hazards]]
+- Leads to [[NPC00918_Erasmus_Dawnstrider_the_Broken]]
+- Originates from [[Assets Locations Location City Councilor Tidal Balancekeeper Councilor Tidal Balancekeeper.svg]]
+- Related: [[README (Maps)]]
+- Affected by [[Location Prompts (Assets)]]
+- Affected by [[Unified Aquabyssos Legal Code (D&D_References)]]
+- Influences [[The Great Sky Harbor (D&D_References)]]
+- Related: [[Faction_Relationship_Web]]
+- Influences [[ITEM00549_Fortified_Chain_Mail_of_Grace]]
+- Leads to [[step_073 (phase_076)]]
+- Parallels [[step_032 (phase_088)]]
+- Influences [[adventure-xphb (variant-rules)]]
+- Affected by [[Medusa Xmm]]
+- See also: [[NPC00162_Xander_Thornweave]]
+- Originates from [[Shadow Storms]]
+- Affected by [[Assets Locations Location City Senator Bartholomew Bonewright Senator Bartholomew Bonewright.svg]]
+- Originates from [[Assets Locations Location City Planning Director Victor Visionkeeper V1 Planning Director Victor Visionkeeper.svg]]
+- Requires [[04_Resources_Assets_Locations_location-city-lady-vivienne-the-unfrozen-lady-vivienne-the-unfrozen.svg]]
+- Originates from [[Family Retaine 2]]
+- Parallels [[step_064]]
+- Parallels [[Magnus Ledgerkeep]]
+- Originates from [[LORE00094_History_Entry_95]]
+- Compare with [[step_010]]
+- Originates from [[step_041 (phase_075)]]
+- Connects to [[Assets Locations Location City Wave Soothingtouch V1 Wave Soothingtouch.svg]]
+- Compare with [[Agricultural Provinces]]
+- Related: [[belt-of-fire-giant-strength-xdmg (items)]]
+- Parallels [[dungeon-dressing-air (tables)]]
+- Requires [[Location City the Kelp Highway V1 the Kelp Highway.svg]]
+- Requires [[NPC00831_Hilda_Youngblood_the_Strong]]
+- See also: [[NPC01316_Kaelen_Thornweave_the_Risen]]
+- Requires [[SHOP00038_General_Shop_39]]
+- Requires [[ITEM01343_Simple_Tool_Kit_of_Reliability]]
+- Influences [[Location City Twilight Depths V1 Twilight Depths.svg]]
+- See also: [[Parliament Loyalists (D&D_References)]]
+- Affected by [[NPC00067_Caelum_Stormwind]]
+- Leads to [[Community Demonstration Sites 2]]
+- See also: [[War Machine Engineers (D&D_References)]]
+- Leads to [[Portrait NPC the Free Current Movement V2 the Free Current Movement.svg]]
+- Influences [[step_077]]
+- Parallels [[Noble Houses]]
+- Originates from [[portrait-comfy-latest.png]]
+- Connects to [[Session 04 (Crystal_Plague)]]
+- Parallels [[Torch Xphb]]
+- Originates from [[Scarecrow Xmm]]
+- Parallels [[step_035 (phase_005)]]
+- Related: [[Symbol Heraldry the Neutral Current V1 the Neutral Current.svg]]
+- Affected by [[step_023]]

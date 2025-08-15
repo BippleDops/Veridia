@@ -1,6 +1,6 @@
 ---
-aliases: ["Zephyr Silverleaf the Wanderer", "zephyr silverleaf the wanderer", "Zephyr Silverleaf Wanderer", "Wanderer the Silverleaf Zephyr"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Zephyr Silverleaf the Wanderer", "zephyr silverleaf the wanderer", "Zephyr Silverleaf Wanderer", "Wanderer the Silverleaf Zephyrtags: [npc, character, combat, magic, social, exploration, lore]er]
 type: npc
 ---
 
@@ -137,3 +137,135 @@ Seeks rare merchandise
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Bandit** (MM p.343)
+Modifications:
+- HP: 10
+- AC: 15
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Advantage**: See PHB p.173
+- **Combat**: See PHB p.189-198
+- **Conditions**: See PHB p.290-292
+- **Death Saves**: See PHB p.197
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Originates from [[location-city-the-deepmind-v1-the-deepmind.svg]]
+- Parallels [[Bexley Port Authority]]
+- Compare with [[step_068 (phase_098)]]
+- Parallels [[step_035 (phase_008)]]
+- Requires [[02_Worldbuilding_Lore_The_Memory_Trade]]
+- Compare with [[Location City Stormwind Supplies Stormwind Supplies.png]]
+- Related: [[NPC01956_Zephyr_Thornweave_the_Guardian]]
+- Originates from [[Depth Moss 2]]
+- Influences [[Crisis Response Centers 2]]
+- Related: [[step_058 (phase_069)]]
+- Influences [[ITEM0042_Cursed_Gauntlet_of_Power]]
+- See also: [[NPC1 (People)]]
+- Compare with [[Symbol Heraldry Silverscale Consortium V1 Silverscale Consortium.svg]]
+- See also: [[Assets Locations Location City Depth Merchants Depth Merchants.svg]]
+- Connects to [[baboon-xmm (beast)]]
+- Influences [[weather-precipitation (tables)]]
+- Influences [[Medium Armor Master Xphb]]
+- Affected by [[step_034 (phase_005)]]
+- Originates from [[greek-tyche (deities)]]
+- Originates from [[Assets Item Artifact Spell Gem Lapis Lazuli Oota V3 Spell Gem Lapis Lazuli Oota.png]]
+- Affected by [[ITEM00501_Mithril_Leather_of_Fortitude]]
+- Leads to [[Quest - The Blackmail Papers_1 (01_Adventures)]]
+- See also: [[waterskin-xphb (items)]]
+- Requires [[step_055 (phase_034)]]
+- Compare with [[SHOP00021_Specialty_Shop_22]]
+- Originates from [[step_078 (phase_063)]]
+- Related: [[mage-hunter-scc (monstrosity)]]
+- Related: [[ENC00095_Social_Encounter_96]]
+- Compare with [[list-spells-races-yuan-ti-pureblood-vgm (lists)]]
+- Originates from [[Handout Handout Tavern Bill of Fare V3 Tavern Bill of Fare.png]]
+- Related: [[LOC00063_Dungeons_Location_64]]
+- Influences [[QUEST00024_Side_Quest_25]]
+- Originates from [[location-city-express-racers-express-racers.svg]]
+- See also: [[QUEST0014_Champion's_Dilemma]]
+- Connects to [[step_032]]
+- Parallels [[Assets Portraits Portrait NPC Warrior Priest Abyss Sworn V1 Warrior Priest Abyss Sworn.svg]]
+- See also: [[dragonlance-gilean-phb (deities)]]
+- See also: [[QUEST00011_Side_Quest_12]]
+- Requires [[Assets Locations Location City Tide Welcomeheart Tide Welcomeheart.svg]]
+- See also: [[step_021 (phase_100)]]
+- Related: [[Detailed Life Sized Dragonborn Skull Cast in Electrum Xdmg]]
+- See also: [[Assets Locations Location City Madame Rosalind Goldleaf Madame Rosalind Goldleaf.svg]]
+- Influences [[Quest - The Failing Magic]]
+- Compare with [[The Addicted Nobles (D&D_References)]]
+- Compare with [[Institute_of_Adaptive_Sciences (02_Worldbuilding)]]
+- Related: [[step_027 (phase_069)]]
+- Affected by [[Brother Matthias the Amber Bearer (People)]]
+- See also: [[step_087]]
+- Compare with [[eberron-the-keeper (deities)]]
+- See also: [[Assets Locations Location City Elena Prismweaver V1 Elena Prismweaver.svg]]
+- Compare with [[Master Chef Umami Deepfeast]]
+- Originates from [[heal-xphb (spells)]]
+- Connects to [[Assets Locations Location City Mad Prophet Silas the Depth Touched Mad Prophet Silas the Depth Touched.svg]]
+- Compare with [[Regent Thalassa]]
+- Parallels [[EVENT00052_Magical_Event_53]]
+- Originates from [[Location City Harbormaster Tidal Stormcrest V1 Harbormaster Tidal Stormcrest.svg]]
+- See also: [[step_035 (phase_050)]]
+- Parallels [[Assets Locations Location City the Purification Temples the Purification Temples.svg]]
+- Compare with [[D_005_Shadow_Bloom]]
+- See also: [[level-and-lethality-damage-severity-by-level-xge]]
+- Originates from [[step_041 (phase_013)]]
+- Influences [[ITEM00302_Shadow_Dagger_of_Wounding]]
+- Influences [[step_057 (phase_070)]]
+- Compare with [[Location City Crown of Eternal Ice V1 Crown of Eternal Ice.svg]]
+- Parallels [[step_070]]
+- Influences [[step_014 (phase_088)]]
+- Connects to [[Aquabyssos Depth Caste System (D&D_References)]]
+- Related: [[step_003 (phase_069)]]
+- Requires [[07 Chapter 6 Equipment]]
+- See also: [[QUEST00107_Side_Quest_108]]
+- Influences [[Celestial Heights]]
+- Compare with [[step_079]]
+- Connects to [[LORE00072_History_Entry_73]]
+- Related: [[step_051 (phase_042)]]
+- See also: [[The Grand Trade Routes (D&D_References)]]
+- Parallels [[step_009 (phase_004)]]
+- Compare with [[step_009 (phase_086)]]
+- Related: [[LORE00271_History_Entry_272]]
+- Leads to [[Vegepygmy Chief Mpmm]]
+- Originates from [[step_059 (phase_057)]]
+- Related: [[list-spells-feats-magic-initiate-xphb (lists)]]
+- Originates from [[step_008 (phase_047)]]
+- Related: [[Quest - Shadow Medicine]]
+- Affected by [[giant-badger-xmm]]
+- Connects to [[Time's Mercy]]
+- Parallels [[Armor of Vulnerability Bludgeoning Xdmg]]
+- Related: [[ENC00050_Environmental_Encounter_51]]
+- Influences [[QUEST00246_Personal_Quest_247]]
+- Parallels [[step_065 (phase_042)]]
+- Affected by [[Conservation Director Ecosystem Protector]]
+- Related: [[Forgotten Realms Auril]]
+- Leads to [[Portrait NPC Lady Shadowmere V1 Lady Shadowmere.svg]]
+- Requires [[step_047 (phase_065)]]
+- Requires [[LOC00166_Wilderness_Location_167]]
+- Compare with [[Enspelled Weapon Level 6 Xdmg]]
+- Originates from [[relationships-starting-relationship-points-scc]]
+- Connects to [[Will O Wisp Xmm]]
+- Related: [[Portrait NPC Captain Sarah Oathbound V1 Captain Sarah Oathbound.svg]]
+- Connects to [[step_097]]
+- Connects to [[step_066 (phase_082)]]

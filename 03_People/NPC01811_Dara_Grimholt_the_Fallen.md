@@ -1,4 +1,5 @@
 ---
+created: 2025-08-15
 aliases: ["Dara Grimholt the Fallen", "dara grimholt the fallen", "Dara Grimholt Fallen", "Fallen the Grimholt Dara"]
 tags: [npc, character]
 type: npc
@@ -135,3 +136,145 @@ Provides information for a price
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Xanathar's Guide to Everything (XGE) p.212
+- Tasha's Cauldron of Everything (TCE) p.111
+- Volo's Guide to Monsters (VGM) p.181
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+- **Skills**: See PHB p.174-179
+- **Spellcasting**: See PHB p.201-205
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Affected by [[NPC01915_Thalia_Quicksilver_the_Broken]]
+- Requires [[ITEM00503_Adamantine_Boots_of_Protection]]
+- Influences [[Surface Coalition 3 (D&D_References)]]
+- See also: [[layers-of-hades-xdmg (tables)]]
+- Affected by [[Central Crystal Processing Plant]]
+- Influences [[Diplomatic Event Scenarios 2]]
+- Affected by [[Founding Nation]]
+- Parallels [[step_011]]
+- See also: [[step_016 (phase_078)]]
+- Connects to [[oil-of-taggit-xdmg (items)]]
+- Leads to [[NPC00519_Alaric_Darkwater_the_Risen]]
+- Originates from [[Quest - Combat Medicine Crisis 2]]
+- Connects to [[Basic Poison Xphb]]
+- Compare with [[Mediator's Pendant]]
+- Related: [[Cultural Exchange]]
+- Parallels [[step_042 (phase_011)]]
+- Connects to [[using-a-published-setting-d-d-settings-xdmg (tables)]]
+- Related: [[step_036 (phase_077)]]
+- Parallels [[Portrait NPC the Shadow Surgeons V1 the Shadow Surgeons.svg]]
+- Influences [[step_012]]
+- Related: [[list-spells-classes-grave-domain-xge (lists)]]
+- Requires [[Magical Theory (D&D_References)]]
+- Parallels [[Harbor Master's Compass]]
+- See also: [[The Dockworkers Union]]
+- Related: [[QUEST00185_Side_Quest_186]]
+- Related: [[step_061 (phase_055)]]
+- Connects to [[Counter-Mirror Safe Houses (D&D_References)]]
+- Related: [[The Deep Temple (D&D_References)]]
+- Leads to [[LOC0123_Gateford]]
+- Related: [[ENC00179_Environmental_Encounter_180]]
+- Affected by [[Astral Projection Xphb]]
+- Parallels [[LOC0115_LowerBridge]]
+- Affected by [[step_067]]
+- See also: [[step_020 (phase_079)]]
+- Connects to [[Portrait NPC Captain Valeria V2 Captain Valeria.svg]]
+- Leads to [[step_083 (phase_005)]]
+- Connects to [[Silver Dragon Scale Mail Xdmg]]
+- Affected by [[Judge Tidal Fairweather (D&D_References)]]
+- See also: [[Duergar Raiding Parties Duergar Purpose of Raid Mtf]]
+- Leads to [[Lord Vex]]
+- Requires [[Theron Justcurrent]]
+- See also: [[NPC_Generator]]
+- Affected by [[Assets Item Artifact Mess Kit V4 Mess Kit.png]]
+- Affected by [[Investigator Lucian Brightwater]]
+- See also: [[The Floating Markets]]
+- Connects to [[The Shadowwatch Bastion 2]]
+- Originates from [[step_076]]
+- Compare with [[Trade Bars Xdmg]]
+- Connects to [[NPC00124_Delara_Ravenheart_the_Redeemed]]
+- Parallels [[The Contemplation Abyss 2]]
+- Related: [[Random Settlements Notable Traits]]
+- Originates from [[circle-of-power-xphb (spells)]]
+- Influences [[Dissolution Chambers (Lore)]]
+- Related: [[Assets Locations Location City Temple of Shadows V1 Temple of Shadows.png]]
+- Leads to [[ENC00126_Environmental_Encounter_127]]
+- Related: [[NPC0087_Hilda_Goldleaf]]
+- Leads to [[Portrait NPC Banker Titus Goldcurrent Banker Titus Goldcurrent.svg]]
+- See also: [[step_051 (phase_079)]]
+- Parallels [[step_020 (phase_076)]]
+- Parallels [[Dark Shard Amulet Xdmg]]
+- Leads to [[Artificer Magnus Weightless (D&D_References)]]
+- Connects to [[SPELL00154_Divine_Spell_155]]
+- Parallels [[Chef Gastropod]]
+- Originates from [[Haven Reef]]
+- Affected by [[ENC00046_Environmental_Encounter_47]]
+- Parallels [[step_092 (phase_043)]]
+- See also: [[dragon-fear-xge (feats)]]
+- Related: [[NPC01704_Ewan_Stormwind_the_Mystic]]
+- Related: [[The Soul Market]]
+- See also: [[giant-crocodile-xmm (beast)]]
+- Leads to [[Chancellor's Advisory Council (D&D_References)]]
+- Parallels [[Falling Net Xdmg]]
+- Affected by [[ENC00042_Social_Encounter_43]]
+- Affected by [[Assets Locations Location City Astrologer Prime Cassandra Starweaver V1 Astrologer Prime Cassandra Starweaver.svg]]
+- Originates from [[LOC00092_Dungeons_Location_93]]
+- Affected by [[location-city-coral-courts-coral-courts.svg]]
+- Connects to [[downtime-activity-crafting-phb (variant-rules)]]
+- Influences [[Eternal Mountain Defense]]
+- Related: [[Location City the Sunken Cathedral of Perfect Order the Sunken Cathedral of Perfect Order.svg]]
+- Parallels [[Noble Quarter Salons (D&D_References)]]
+- Parallels [[SHOP00046_Magical_Shop_47]]
+- Connects to [[Wise Counselor Deep 2]]
+- Compare with [[Portrait NPC Memo... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements]]
+- See also: [[Rations Xphb]]
+- Affected by [[FAC00067_Guilds_68]]
+- Related: [[step_017]]
+- Related: [[Location City the Crystal Palace Throne Room V1 the Crystal Palace Throne Room.svg]]
+- Affected by [[Personal Horror Customization]]
+- Connects to [[step_023 (phase_054)]]
+- See also: [[LOC0109_Groveton]]
+- Requires [[The Aether Works 2]]
+- Affected by [[04_Places_Lighthouse_of_Storms]]
+- Compare with [[step_050 (phase_031)]]
+- Requires [[step_060]]
+- Leads to [[Reef Tenders (D&D_References)]]
+- Leads to [[Bard Xphb]]
+- Leads to [[rod-of-lordly-might-xdmg (items)]]
+- Affected by [[Aboleth]]
+- See also: [[ENC00065_Social_Encounter_66]]
+- Leads to [[Reszur Pota]]

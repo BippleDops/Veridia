@@ -8,6 +8,7 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
+tags: [combat, magic, exploration, lore]
 --- # 06 Chapter 5 Feats ---
 
 ## Description
@@ -43,3 +44,167 @@ world: Both
 ## Notes
 
 *Additional notes*
+
+
+> [!dm] DM Note
+> This character is not who they seem
+
+## Prep Checklist
+
+### Npcs Needed
+- [ ] List key NPCs for this session
+- [ ] Prepare voices and mannerisms
+
+### Locations
+- [ ] Review location descriptions
+- [ ] Prepare battle maps if needed
+
+### Encounters
+- [ ] Balance combat encounters
+- [ ] Prepare social encounter notes
+
+### Props
+- [ ] Handouts ready
+- [ ] Music/ambiance selected
+
+### Rules
+- [ ] Review relevant rules
+- [ ] Prepare quick reference
+
+## Campaign Connection
+Has information about the party's enemies
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Equipment: PHB p.143-161)*
+*(Weapons: PHB p.146-147)*
+*(Armor: PHB p.144-146)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Compare with [[Beast of the Sky Xphb]]
+- Leads to [[Session Summary Template]]
+- Related: [[Resonance Bombs]]
+- Leads to [[Assets Locations Location City Keeper of the Dead Sister Morwyn Keeper of the Dead Sister Morwyn.svg]]
+- Compare with [[step_094 (phase_046)]]
+- Leads to [[step_090 (phase_073)]]
+- Requires [[NPC01613_Kaelen_Voidwalker_the_Wanderer]]
+- Requires [[bugbear-vgm (races)]]
+- Parallels [[M-L-05_The_Dream_Sovereign]]
+- Requires [[Underdark Encounters Levels 510 Xge]]
+- Originates from [[friends-and-foes-strixhaven-creatures-scc (tables)]]
+- Influences [[step_063 (phase_026)]]
+- See also: [[step_090 (phase_027)]]
+- Compare with [[LOC00018_Cities_Location_19]]
+- Requires [[ITEM01029_Refined_Potion_of_Healing]]
+- See also: [[monk-xphb-way-of-the-drunken-master-xge (classes)]]
+- Leads to [[step_031 (phase_050)]]
+- Affected by [[halfling-sheela-peryroyl-mtf (deities)]]
+- Related: [[step_074 (phase_080)]]
+- Influences [[Sister Morwyn Veilkeeper]]
+- Compare with [[step_096 (phase_085)]]
+- Connects to [[strixhaven-mascot-scc (feats)]]
+- Requires [[Amber Golem Cos]]
+- Requires [[Dr Nereus Thoughtweaver]]
+- Leads to [[step_028]]
+- Connects to [[Assets Locations Location City the Silent Watcher the Silent Watcher.svg]]
+- Requires [[step_039 (phase_050)]]
+- Originates from [[LOC00081_Planes_Location_82]]
+- Compare with [[QUEST00166_Side_Quest_167]]
+- Related: [[Complete Reality Merger System (D&D_References)]]
+- Related: [[Portrait NPC Tidal Priest Marina Deepcurrent Tidal Priest Marina Deepcurrent.svg_1 (Portraits)]]
+- Parallels [[step_097 (phase_059)]]
+- Parallels [[08_Archive_Planning_100_NEXT_LEVEL_IMPROVEMENTS]]
+- Parallels [[Assets Locations Location City Quest the Truth Unveiled V1 Quest the Truth Unveiled.svg]]
+- Parallels [[Location City Sunken Palace of Tides Sunken Palace of Tides.svg]]
+- Requires [[SPELL00025_Divine_Spell_26]]
+- Related: [[Assets Locations Location City Finn Deepmarket V1 Finn Deepmarket.svg]]
+- See also: [[step_003]]
+- Affected by [[Elementalism Xphb]]
+- Requires [[Ambassador Marina Tidecaller (D&D_References)]]
+- Connects to [[Parliamentary Infiltration List]]
+- Requires [[step_007 (phase_036)]]
+- Leads to [[Symbol Heraldry Ste... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Requires [[Navigators Tools Xphb]]
+- Leads to [[LORE00078_Prophecies_Entry_79]]
+- Compare with [[Item_Catalog_Complete (Indexes)]]
+- Connects to [[Portrait NPC Parliament Loyalists V2 Parliament Loyalists.svg_1 (Portraits)]]
+- Connects to [[Location City Quest the Harbor War Quest the Harbor War.svg]]
+- Originates from [[The Kelp Highway 2]]
+- Parallels [[Location City Crystal Cult Temples V1 Crystal Cult Temples.svg]]
+- Originates from [[step_052 (phase_039)]]
+- Connects to [[Divine Favor Xphb]]
+- Connects to [[jug-xphb (items)]]
+- Related: [[The Eel Keepers (D&D_References)]]
+- Originates from [[step_083 (phase_087)]]
+- Affected by [[Quest - The Cure for Madness_1 (01_Adventures)]]
+- Parallels [[Pressure Politics 2]]
+- Compare with [[D-019_Oracle_Whale]]
+- Affected by [[Social_Encounter_Reference]]
+- Compare with [[DUN00146_Dungeon_147]]
+- Related: [[Assets Locations Location City the Crystal Merchant the Crystal Merchant.svg]]
+- Related: [[ITEM00653_Dragon_Scale_Cloak_of_Fortitude]]
+- Influences [[Citizens' Budget Review 2]]
+- Parallels [[02_Worldbuilding_Locations_Theater_of_Impossible_Dreams]]
+- Originates from [[List Spells Classes Arcane Archer Xge]]
+- See also: [[The Counting House 2]]
+- Related: [[step_060]]
+- Requires [[ITEM00645_Ethereal_Leather_of_the_Guardian]]
+- Influences [[dawn-war-tharizdun-dmg (deities)]]
+- Requires [[The Grand Archive (D&D_References)]]
+- See also: [[Item Artifact Travelers Clothes Xphb V3 Travelers Clothes Xphb.png]]
+- Leads to [[NPC01326_Faelyn_Emberfall_the_Seeker]]
+- Connects to [[gift-of-the-ever-living-ones-xge (optional-features)]]
+- Related: [[SHOP00060_Magical_Shop_61]]
+- Influences [[Cultural Districts 2]]
+- Originates from [[Adult White Dragon Xmm]]
+- Leads to [[ITEM01494_Simple_Spyglass_of_Reliability]]
+- Originates from [[step_015 (phase_085)]]
+- Affected by [[Warlock Xphb Great Old One Patron Xphb]]
+- Related: [[LORE00149_Legends_Entry_150]]
+- Connects to [[Scholars of Silverquill Silverquill Scholars]]
+- Originates from [[The Void Realms]]
+- Related: [[Abyssos Prime Docks (D&D_References)]]
+- Related: [[step_007 (phase_021)]]
+- Originates from [[starting-equipment-at-higher-levels-xphb (tables)]]
+- Requires [[The Great Cacophony]]
+- Influences [[Location City Courier Chief Swift Currentrider V1 Courier Chief Swift Currentrider.svg]]
+- Compare with [[ITEM00749_Divine_Amulet_of_Destiny]]
+- See also: [[The Audit Tower (D&D_References)]]
+- Originates from [[step_018 (phase_095)]]
+- Compare with [[QUEST00218_Personal_Quest_219]]
+- See also: [[LORE00027_Prophecies_Entry_28]]
+- Requires [[LORE00032_Legends_Entry_33]]
+- Parallels [[Harmony Cores]]
+- Requires [[Item Template.png (Art)]]
+- Compare with [[Valley of Eternal Mourning (D&D_References)]]
+- Originates from [[Symbol Heraldry Border Fortresses Border Fortresses.svg]]
+- Requires [[Trader Compass Rose (D&D_References)]]
+- Compare with [[DUN00065_Dungeon_66]]
+- Related: [[ENC0081_Random_Encounter_82]]

@@ -1,4 +1,5 @@
 ---
+created: 2025-08-15
 aliases: ["Jorah Underhill the Broken", "jorah underhill the broken", "Jorah Underhill Broken", "Broken the Underhill Jorah"]
 tags: [npc, character]
 type: npc
@@ -136,3 +137,142 @@ Forming expedition to dangerous location
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Tasha's Cauldron of Everything (TCE) p.99
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+- **Spellcasting**: See PHB p.201-205
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- See also: [[soap]]
+- Leads to [[step_071 (phase_086)]]
+- Requires [[step_033 (phase_074)]]
+- Parallels [[step_028 (phase_081)]]
+- Affected by [[Scroll of Protection Fey Xdmg]]
+- Influences [[inkling-mascot-scc]]
+- Requires [[step_089 (phase_064)]]
+- Parallels [[Assets Locations Location City Current Peacefulflow Current Peacefulflow.svg]]
+- Related: [[QUEST0093_The_Shadow_Realm_Curse]]
+- Requires [[Map World Layer World Political Boundaries V2 World Political Boundaries.svg]]
+- Originates from [[Assets Locations Location City Artistic Communities V1 Artistic Communities.svg]]
+- Affected by [[step_088]]
+- Related: [[flaw-or-secret-npc-flaws-and-secrets (tables)]]
+- Influences [[Bioluminescence]]
+- See also: [[roper-xmm (aberration)]]
+- Affected by [[Location City Tenebrarum Embassy V1 Tenebrarum Embassy.svg]]
+- Leads to [[LORE00254_Prophecies_Entry_255]]
+- Related: [[NPC00710_Corvus_Quicksilver_the_Scholar]]
+- Compare with [[Assets Locations Location City Sorceress Luna Prismatic V1 Sorceress Luna Prismatic.svg]]
+- Compare with [[Cross-Cultural_Legal_Association]]
+- Affected by [[step_011 (phase_024)]]
+- Influences [[Resistance Xphb (variant-rules)]]
+- Affected by [[ITEM00027_Radiant_Axe_of_Power]]
+- Requires [[step_045]]
+- Requires [[Scholars Pack Xphb]]
+- Originates from [[ENC00147_Social_Encounter_148]]
+- Connects to [[Location City University Philosophy Departments University Philosophy Departments.svg]]
+- Influences [[sailing-ship-xphb (items)]]
+- Influences [[step_035 (phase_019)]]
+- Parallels [[SHOP00046_Magical_Shop_47]]
+- Affected by [[The Crystal Integration Festival (D&D_References)]]
+- See also: [[Tree Blight Xmm]]
+- Parallels [[step_066 (phase_096)]]
+- Affected by [[squat-nimbleness-xge (feats)]]
+- See also: [[Aquabyssos World Map]]
+- Originates from [[ENC00089_Social_Encounter_90]]
+- Influences [[ITEM01458_Sturdy_Spyglass_of_Durability]]
+- Requires [[copper-dragon-xmm (legendary-group)]]
+- Requires [[step_082 (phase_097)]]
+- Related: [[QUEST00160_Side_Quest_161]]
+- Parallels [[step_011]]
+- Leads to [[spell-sniper-xphb (feats)]]
+- Requires [[Assets Locations Location City Void Krakens V1 Void Krakens.svg]]
+- Related: [[step_037 (phase_044)]]
+- Originates from [[Swarm of Lemures Xmm]]
+- See also: [[Memoriam]]
+- Leads to [[step_071]]
+- Affected by [[Kobold Warrior Xmm]]
+- Affected by [[Depth Pulse]]
+- Influences [[step_017 (phase_042)]]
+- Parallels [[Assets Locations Location City Manta Ray Manta Ray.svg]]
+- Originates from [[step_099 (phase_033)]]
+- Connects to [[location-city-pressure-tubes-v1-pressure-tubes.svg]]
+- Leads to [[Assets Locations Location City Depth Cardinal Justice Currentkeeper Depth Cardinal Justice Currentkeeper.svg]]
+- Originates from [[NPC00156_Gareth_Winterborn_the_Guardian]]
+- Affected by [[Abyssal Covenant]]
+- Requires [[step_097 (phase_060)]]
+- Requires [[step_070 (phase_018)]]
+- Parallels [[step_009 (phase_036)]]
+- Compare with [[step_054 (phase_060)]]
+- Connects to [[INV-006.png (Art)]]
+- Requires [[Quest   The Shadow Fleet]]
+- Leads to [[Tinderbox Xphb]]
+- Influences [[ENC00084_Environmental_Encounter_85]]
+- Connects to [[Lady Willow Greenbough (D&D_References)]]
+- Connects to [[Swarm of Rot Grubs Mpmm]]
+- See also: [[Portrait NPC Castellan Ironledger Iii Castellan Ironledger Iii.svg]]
+- Compare with [[Secular Community Practices 2]]
+- Connects to [[Leviathan Prophet Thalassa]]
+- Influences [[step_069 (phase_024)]]
+- Requires [[QUEST00051_Personal_Quest_52]]
+- Leads to [[EVENT00093_Political_Event_94]]
+- Compare with [[step_063 (phase_082)]]
+- Related: [[DUN00041_Dungeon_42]]
+- Requires [[step_006]]
+- Originates from [[saddlebags]]
+- Affected by [[step_090 (phase_021)]]
+- See also: [[LOC00127_Planes_Location_128]]
+- Originates from [[Location City Harbormaster Creedence Tidereader V1 Harbormaster Creedence Tidereader.svg]]
+- Related: [[NPC0012_Magnus_Stormwind]]
+- Originates from [[ITEM00478_Dragon_Scale_Boots_of_Protection]]
+- Parallels [[step_085 (phase_054)]]
+- Connects to [[Assets Locations Location City Memory Parasite Infection Memory Parasite Infection.svg]]
+- See also: [[Duchess Marina Ever-Drowning]]
+- Related: [[component-pouch-xphb (items)]]
+- Affected by [[step_008]]
+- Related: [[Skywrite Xge]]
+- Connects to [[Atmospheric Research Society (D&D_References)]]
+- See also: [[LORE00304_Prophecies_Entry_305]]
+- Affected by [[spell-scroll-level-8-xdmg (items)]]
+- Leads to [[Downtime Activity Relaxation Xge]]
+- Compare with [[The First King's Diary (D&D_References)]]
+- Compare with [[EVENT00028_Magical_Event_29]]
+- Affected by [[step_039]]
+- Leads to [[step_071]]
+- Compare with [[Order of the Silver Anchor (Orders)]]
+- Parallels [[ENC00256_Social_Encounter_257]]
+- Related: [[LOC00223_Cities_Location_224]]
+- Influences [[LORE00326_Prophecies_Entry_327]]
+- Parallels [[Harbor Master Captain Dockwise 2]]

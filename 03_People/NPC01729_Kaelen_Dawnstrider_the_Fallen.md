@@ -1,4 +1,5 @@
 ---
+created: 2025-08-15
 aliases: ["Kaelen Dawnstrider the Fallen", "kaelen dawnstrider the fallen", "Kaelen Dawnstrider Fallen", "Fallen the Dawnstrider Kaelen"]
 tags: [npc, character]
 type: npc
@@ -144,3 +145,145 @@ Blackmails party into service
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Dungeon Master's Guide (DMG) p.59
+- Monster Manual (MM) p.101
+- Mordenkainen's Tome of Foes (MTF) p.127
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Death Saves**: See PHB p.197
+- **Skills**: See PHB p.174-179
+- **Spellcasting**: See PHB p.201-205
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Requires [[step_010]]
+- Originates from [[NPC01703_Elric_Goldleaf_the_Swift]]
+- Leads to [[ITEM0045_Forgotten_Gauntlet_of_Power]]
+- Leads to [[Portrait NPC Fence Queen Sticky Fingers Sal V1 Fence Queen Sticky Fingers Sal.svg]]
+- Affected by [[prodigy-xge (feats)]]
+- Originates from [[NPC00378_Malakai_Moonshadow_the_Broken]]
+- Affected by [[Private Arbitration]]
+- Influences [[NPC00462_Fiora_Ironforge_the_Seeker]]
+- Influences [[Pressure Terminal (D&D_Statblocks)]]
+- Leads to [[step_071]]
+- Originates from [[using-a-published-setting-d-d-settings-xdmg (tables)]]
+- Leads to [[SPELL00063_Nature_Spell_64]]
+- Affected by [[The Great Mother Tree (D&D_References)]]
+- Originates from [[ITEM01030_Pure_Elixir_of_Swiftness]]
+- Compare with [[Pack Saddle]]
+- Related: [[step_014 (phase_058)]]
+- See also: [[ITEM00399_Blazing_Sword_of_Wounding]]
+- Originates from [[Skill List Skills Xphb]]
+- Related: [[Government Seal of Authority]]
+- Compare with [[List Spells Feats Magic Initiate Xphb]]
+- Influences [[borrowed-knowledge-scc (spells)]]
+- Influences [[Pressure Politics 2]]
+- Compare with [[step_086 (phase_057)]]
+- Requires [[MON0011_Storm_Reaper]]
+- Connects to [[Transformations]]
+- Parallels [[Keeper of Memories Echo Truthseer (D&D_References)]]
+- Related: [[dungeon-decay-states-of-ruin-xdmg (tables)]]
+- Leads to [[step_003 (phase_075)]]
+- Leads to [[Portrait NPC Quest the Pretender Quest the Pretender.svg]]
+- Leads to [[Port Meridian Medical Institute]]
+- Affected by [[Location City Memory Sanctity Laws V1 Memory Sanctity Laws.svg]]
+- Leads to [[Gnome Garl Glittergold Mtf]]
+- Leads to [[step_034 (phase_013)]]
+- See also: [[Location City Reality Stabilization Centers Reality Stabilization Centers.svg]]
+- Requires [[step_098 (phase_030)]]
+- Connects to [[ring-of-shooting-stars-xdmg (items)]]
+- Leads to [[step_032 (phase_073)]]
+- Connects to [[The Shipwright Guilds (Guilds)]]
+- Originates from [[step_021]]
+- Leads to [[S-004_Cloud_Canyon]]
+- Connects to [[Quick_Rules_Reference]]
+- Leads to [[dagger-xphb (items)]]
+- Compare with [[ENC00263_Combat_Encounter_264]]
+- Parallels [[DUN00027_Dungeon_28]]
+- Affected by [[04_Resources_Assets_Locations_location-city-harbor-master-nereid-deepcurrent-harbor-master-nereid-deepcurrent.svg]]
+- Requires [[step_099 (phase_059)]]
+- Connects to [[portrait-npc-the-senator-the-senator.svg]]
+- Leads to [[Fear Xphb]]
+- Related: [[NPC01278_Rhiannon_Goldleaf_the_Fallen]]
+- Influences [[step_097]]
+- Parallels [[Assets Locations Location City the Trencher Folk the Trencher Folk.svg]]
+- Leads to [[Hobgoblin Dmg]]
+- Compare with [[Reference Homebrew Races]]
+- Parallels [[The Salt Merchants]]
+- Parallels [[Portrait NPC Duke Alexander Tidecrest V2 Duke Alexander Tidecrest.svg_1 (Portraits)]]
+- Influences [[ITEM00380_Blazing_Axe_of_the_Ancients]]
+- See also: [[step_065]]
+- Leads to [[step_012 (phase_043)]]
+- Affected by [[Quest - Portal Conspiracy 2]]
+- Leads to [[Portrait NPC Duke Theron Depthguard V1 Duke Theron Depthguard.svg_1 (Portraits)]]
+- Leads to [[QUEST00168_Main_Quest_169]]
+- Leads to [[Assets Locations Location City Abyssos Prime Docks Abyssos Prime Docks.svg]]
+- Connects to [[ITEM0144_Ancient_Crown_of_Shadows]]
+- Influences [[list-spells-feats-druidic-warrior-xphb (lists)]]
+- Requires [[step_045 (phase_092)]]
+- Influences [[NPC01985_Gavril_Grimholt_the_Strong]]
+- Originates from [[Symbol Heraldry Factional Conflicts Factional Conflicts.svg_1 (Symbols)]]
+- Affected by [[step_009 (phase_059)]]
+- Originates from [[Royal Physician Doctor Prism-Heart Matthias]]
+- Originates from [[Anti-Corruption Research Institute 2]]
+- See also: [[Clockwork Oaken Bolter Mpmm]]
+- See also: [[QUEST00426_Side_Quest_427]]
+- Leads to [[Archdruid Marina Kelpweaver (D&D_References)]]
+- Leads to [[step_002]]
+- Related: [[Sunsword Cos]]
+- Related: [[Secondary Tables Weird Stuff Xge]]
+- Leads to [[Assets Symbols Symbol Heraldry Scream Crystals Scream Crystals.svg]]
+- Leads to [[Scene Scene Cloud Citadel Duel V2 Cloud Citadel Duel.svg]]
+- Influences [[step_050]]
+- Originates from [[step_005 (phase_056)]]
+- Affected by [[SPELL00104_Arcane_Spell_105]]
+- Leads to [[The Wind Altar]]
+- Requires [[step_056 (phase_012)]]
+- Compare with [[step_006 (phase_083)]]
+- Compare with [[Lore_1 (02_Worldbuilding)]]
+- Influences [[Ammunition Varies Ammunition Xphb]]
+- Leads to [[step_002]]
+- Compare with [[step_032]]
+- See also: [[step_078 (phase_024)]]
+- See also: [[NPC01261_Wynne_Keenblade_the_Wanderer]]
+- Affected by [[Assets Vehicles Vehicle Ship Hybrid Rift Runner Sloop V2 Hybrid Rift Runner Sloop.png]]
+- Influences [[Transformations - Crystal - Crystal Resonance]]
+- Connects to [[Memory Bank Central (D&D_References)]]
+- Leads to [[Royal Vault (D&D_References)]]
+- Originates from [[Gloves of Swimming and Climbing Xdmg]]
+- Requires [[rewards]]
+- See also: [[Assets Locations Location City Tidal Stormcrest V1 Tidal Stormcrest.svg]]
+- Related: [[Artificers' Consortium (D&D_References)]]
+- Requires [[step_079 (phase_041)]]
+- Connects to [[ENC00015_Combat_Encounter_16]]

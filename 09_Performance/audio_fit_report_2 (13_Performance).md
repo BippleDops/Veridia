@@ -1,6 +1,5 @@
 ---
-enhanced: true
-tags: [enhanced, 13_performance]
+enhanced: trtags: [enhanced, 13_performance, combat, exploration, lore]ce]
 created: 2025-08-15T12:24:41.025414
 modified: 2025-08-15T12:24:41.025416
 aliases: [audio fit report 2 (13 Performance)]
@@ -282,3 +281,132 @@ publish: false --- |---|---:|:---:|---|
 ![[04_Resources/Assets/Maps/World/Continents/world_reports_bidirectional_links_gm.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_reports_bidirectional_links_player.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_witness_reports_gm.png]]
+
+
+> [!dm] DM Note
+> This location connects to the main plot
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Related: [[step_011 (phase_035)]]
+- Influences [[NPC01093_Kaelen_Zephyrblade_the_Broken]]
+- Leads to [[NPC00026_Nerys_Thornweave]]
+- Parallels [[The Deep Mother's Garden 2]]
+- Parallels [[Location City Melody Crystalsong Melody Crystalsong.svg]]
+- Originates from [[Assets Locations Location City Church of the Tidal Throne V1 Church of the Tidal Throne.svg]]
+- Requires [[Symbol Heraldry Arcturus Lumenblade V1 Arcturus Lumenblade.svg]]
+- Requires [[step_031 (phase_063)]]
+- Compare with [[FAC00007_Guilds_8]]
+- Leads to [[locations]]
+- Requires [[step_065]]
+- Affected by [[QUEST0020_The_Sacred_Prophecy]]
+- Related: [[Heroic Inspiration Xphb]]
+- Parallels [[Inter-Realm Diplomacy]]
+- See also: [[skull-lord-mpmm (undead)]]
+- Requires [[LORE00227_History_Entry_228]]
+- Leads to [[Lance Xphb]]
+- Influences [[step_033]]
+- Leads to [[SPELL00122_Divine_Spell_123]]
+- Parallels [[Medium Armor Master Xphb]]
+- Related: [[step_099 (phase_025)]]
+- Affected by [[LOC00117_Planes_Location_118]]
+- Requires [[step_013]]
+- Influences [[Corruption Exposure Tracking 2]]
+- Parallels [[Merchant_Guild_Membership_Benefits]]
+- See also: [[Scholar Thomas Truthseeker]]
+- Leads to [[step_064 (phase_072)]]
+- See also: [[step_022 (phase_058)]]
+- Originates from [[step_070 (phase_065)]]
+- Leads to [[The Academy of Corporate Security]]
+- Leads to [[step_033 (phase_067)]]
+- Leads to [[QUEST00154_Side_Quest_155]]
+- Parallels [[Separatist Movements]]
+- Leads to [[step_052 (phase_068)]]
+- Originates from [[step_097 (phase_065)]]
+- Compare with [[04_Resources_Assets_Portraits_portrait-npc-captain-swift-cloudracer-captain-swift-cloudracer.svg_Quick_Ref]]
+- Leads to [[aarakocra-skirmisher-xmm (elemental)]]
+- Connects to [[Crystal Artillery Player]]
+- Related: [[Procedures Energy State Conversion]]
+- Requires [[Student Scholar Inkwell Brightmind]]
+- Originates from [[Summon Beast Xphb]]
+- Requires [[Resilient Xphb]]
+- Originates from [[step_021]]
+- Originates from [[dragonborn-names-female-xge (tables)]]
+- Compare with [[Portrait NPC Unite the Emperor V1 Unite the Emperor.svg_1 (Portraits)]]
+- Leads to [[The Purification Protocols]]
+- Related: [[Cultural Festival]]
+- Leads to [[Location City Royal Advisor Wise Counselor V1 Royal Advisor Wise Counselor.svg]]
+- Requires [[Symbol Heraldry Transformation Assistance Transformation Assistance.svg]]
+- Requires [[Portrait NPC Deep Anarchists V1 Deep Anarchists.svg]]
+- Related: [[Illusion Generation Mirrors]]
+- See also: [[Senior Tidal Engineer Marina Flowmaster (D&D_References)]]
+- Parallels [[The Deep Sanctum]]
+- Requires [[Basic_Rules]]
+- Requires [[QUEST00073_Main_Quest_74]]
+- Compare with [[Combat Tracker]]
+- Affected by [[Depth Guard 3 (D&D_References)]]
+- Requires [[step_023 (phase_056)]]
+- Originates from [[firearms-xdmg (tables)]]
+- Requires [[ENC00281_Social_Encounter_282]]
+- Originates from [[step_039 (phase_031)]]
+- Compare with [[NPC01635_Vesper_Ironforge_the_Cunning]]
+- Leads to [[ITEM00484_Fortified_Boots_of_Protection]]
+- Requires [[step_075 (phase_013)]]
+- Parallels [[The Spire of Healing]]
+- See also: [[ITEM00488_Fortified_Boots_of_Resistance]]
+- See also: [[step_042]]
+- Compare with [[step_091 (phase_063)]]
+- Compare with [[The Silent Marketplace]]
+- Originates from [[Captain Zara Stormwind (D&D_References)]]
+- Related: [[LOC00102_Planes_Location_103]]
+- Leads to [[Portrait NPC Gareth Ironforge V2 Gareth Ironforge.svg]]
+- Compare with [[NPC00915_Qadim_Ravenheart_the_Swift]]
+- Requires [[breaking-objects-xphb (variant-rules)]]
+- Originates from [[Institute_of_Aquatic_Mysticism (02_Worldbuilding)]]
+- Affected by [[step_038]]
+- See also: [[EVENT00058_Political_Event_59]]
+- Compare with [[ENC00310_Combat_Encounter_311]]
+- Related: [[SHOP00064_General_Shop_65]]
+- Related: [[hand-crossbow-xphb (items)]]
+- Compare with [[Mountain Encounters Levels 14 Xge]]
+- See also: [[step_024 (phase_071)]]
+- Requires [[Portrait NPC High Priest Absence V2 High Priest Absence.svg_1 (Portraits)]]
+- Compare with [[04 Chapter 4 Creating Adventures]]
+- Influences [[Luxury Goods Market]]
+- Leads to [[step_042 (phase_021)]]
+- Connects to [[step_097 (phase_064)]]
+- Connects to [[step_095 (phase_033)]]
+- Requires [[DUN00028_Dungeon_29]]
+- See also: [[Assets Locations Location City Memory Sanctity Laws Memory Sanctity Laws.svg]]
+- See also: [[The Catastrophe: Hour by Hour]]
+- Requires [[Fragment Wars (D&D_References)]]
+- Influences [[step_016 (phase_081)]]
+- Originates from [[Elena Starweaver]]
+- See also: [[Forgotten Realms Ilmater]]
+- Influences [[step_026 (phase_026)]]
+- Affected by [[step_018 (phase_066)]]
+- Related: [[ENC00133_Combat_Encounter_134]]
+- Originates from [[step_058 (phase_015)]]
+- Leads to [[step_031]]

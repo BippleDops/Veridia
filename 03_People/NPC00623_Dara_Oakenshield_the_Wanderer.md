@@ -1,6 +1,6 @@
 ---
-aliases: ["Dara Oakenshield the Wanderer", "dara oakenshield the wanderer", "Dara Oakenshield Wanderer", "Wanderer the Oakenshield Dara"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Dara Oakenshield the Wanderer", "dara oakenshield the wanderer", "Dara Oakenshield Wanderer", "Wanderer the Oakenshield Daratags: [npc, character, combat, magic, exploration, lore]er]
 type: npc
 ---
 
@@ -140,3 +140,133 @@ Family member has gone missing
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Veteran** (MM p.350)
+Modifications:
+- HP: 30
+- AC: 10
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Advantage**: See PHB p.173
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Parallels [[step_014 (phase_013)]]
+- Affected by [[Storm Giant Quintessent Mpmm]]
+- Compare with [[cloak-of-flies-xge (optional-features)]]
+- See also: [[Assets Handouts Handout Handout Merchant Contract with Fine Print V2 Merchant Contract with Fine Print.png]]
+- Influences [[Ancient Imperial Cities]]
+- Affected by [[Harbor Master's License]]
+- Connects to [[step_070]]
+- Related: [[Spellcasting Services Xphb]]
+- Originates from [[downtime-activity-recuperating-phb (variant-rules)]]
+- Leads to [[step_071]]
+- Leads to [[balhannoth-mpmm (aberration)]]
+- Parallels [[The Depth Mysteries Cult]]
+- See also: [[step_020 (phase_065)]]
+- Leads to [[Portrait NPC Banker Titus Goldcurrent V1 Banker Titus Goldcurrent.svg_1 (Portraits)]]
+- Affected by [[NPC00088_Vesper_Oakenshield]]
+- Related: [[QUEST00289_Personal_Quest_290]]
+- Parallels [[location-city-free-current-free-current.svg]]
+- Leads to [[The Crystal Festival]]
+- Parallels [[Quest - The Final Tide 2]]
+- Originates from [[The Depth Councils]]
+- Related: [[Armor of Fire Resistance Xdmg]]
+- Originates from [[step_090 (phase_027)]]
+- Originates from [[step_015]]
+- Related: [[ENC00153_Combat_Encounter_154]]
+- Related: [[step_041 (phase_057)]]
+- Requires [[gith-tables-githyanki-flaws-mtf (tables)]]
+- See also: [[Scene Scene Sky Whale Migration at Sunset Sky Whale Migration at Sunset.svg]]
+- See also: [[ENC00479_Combat_Encounter_480]]
+- Affected by [[LORE00169_Legends_Entry_170]]
+- Affected by [[step_086 (phase_061)]]
+- Connects to [[NPC01291_Xander_Thornweave_the_Risen]]
+- Affected by [[Dr. Elena Mirthorn]]
+- Originates from [[location-city-wave-merchant-wave-merchant.svg]]
+- Influences [[Other Details Birth Order Xge]]
+- Affected by [[dungeon-dressing-odor (tables)]]
+- Related: [[Zombie Dmg]]
+- Influences [[LORE00240_Prophecies_Entry_241]]
+- Affected by [[LOC0026_Marshford]]
+- Related: [[Wooden Staff Xphb]]
+- Leads to [[Blessing of Understanding Xdmg]]
+- Compare with [[The Coral Palace Complex (D&D_References)]]
+- Compare with [[NPC0120_Aldric_Darkwater]]
+- Originates from [[LORE00054_Legends_Entry_55]]
+- Requires [[ITEM00926_Concentrated_Salve_of_Healing]]
+- Compare with [[Assets Portraits Portrait NPC the Coral Throne Syndicate the Coral Throne Syndicate.svg]]
+- Connects to [[The Unity Seekers 2]]
+- Affected by [[NPC00826_Pyria_Dawnstrider_the_Wanderer]]
+- Leads to [[Vex Shadowthorn (D&D_References)]]
+- Affected by [[Reality Maintenance Department 2]]
+- Parallels [[npc - Amarith Coppervein Oota]]
+- Leads to [[NPC00480_Delara_Thornweave_the_Wanderer]]
+- Leads to [[step_077 (phase_095)]]
+- Leads to [[Shadow Binding Sanctum (D&D_References)]]
+- Related: [[Assets Locations Location City Victoria Harbormane Victoria Harbormane.svg]]
+- Parallels [[Violet Fungus Necrohulk Xmm]]
+- Connects to [[QUEST00392_Side_Quest_393]]
+- Compare with [[Mother Superior Cordelia Mercyheart (D&D_References)]]
+- See also: [[MON00028_Aberrations_Creature_29]]
+- See also: [[Assets Locations Location City Mediator Cardinal Harmony Mediator Cardinal Harmony.svg]]
+- Leads to [[ITEM00768_Primordial_Mirror_of_the_Gods]]
+- Requires [[Memoriam - The Forgotten Continent 2]]
+- Leads to [[monster-conversions-stat-block-conversions-xmm]]
+- Compare with [[greek-hera (deities)]]
+- Affected by [[SHOP00004_Specialty_Shop_5]]
+- Influences [[Portrait NPC Lord Aurelius Goldwave V1 Lord Aurelius Goldwave.svg]]
+- Compare with [[ENC00140_Combat_Encounter_141]]
+- Connects to [[Barbarian Xphb]]
+- Connects to [[Temporal Anomaly Resolution 2]]
+- Connects to [[The Deepwater Current]]
+- Influences [[step_022]]
+- Compare with [[Illyana Glowstream 2]]
+- Leads to [[step_044 (phase_062)]]
+- Compare with [[defense-xphb (feats)]]
+- See also: [[NPC00327_Ewan_Ravenheart]]
+- See also: [[Portrait NPC Quest the Crystal Refugees V2 Quest the Crystal Refugees.svg]]
+- Requires [[Location City Chancellor Octavius Chancellor Octavius.svg]]
+- Originates from [[Senator Nereon Tidecaller]]
+- Influences [[Assets Locations Location City the Cleaner the Cleaner.svg]]
+- Influences [[Elemental Gem Yellow Diamond Xdmg]]
+- Influences [[step_076]]
+- Originates from [[step_056 (phase_037)]]
+- See also: [[step_001 (phase_051)]]
+- Affected by [[Mage Armor Xphb]]
+- Requires [[The Shadow Integration]]
+- Affected by [[NPC00376_Dara_Zephyrblade_the_Seeker]]
+- Related: [[QUEST00199_Side_Quest_200]]
+- Originates from [[step_045 (phase_094)]]
+- Leads to [[Location City Elena Prismweaver V1 Elena Prismweaver.svg]]
+- Related: [[step_081 (phase_007)]]
+- Compare with [[step_078]]
+- Leads to [[Rational Philosophy Framework]]
+- Leads to [[Assets Locations Location City Senator S Widow Marcella V1 Senator S Widow Marcella.svg]]
+- Related: [[The Time Anchor]]
+- Compare with [[Shadow Conspiracy Investigation]]
+- Leads to [[step_003 (phase_099)]]
+- Connects to [[bowl-of-commanding-water-elementals-xdmg (items)]]
+- Requires [[Assets Locations Location City Pressure Engineers V1 Pressure Engineers.svg]]
+- Compare with [[step_019 (phase_090)]]
+- Requires [[potion-of-storm-giant-strength-xdmg (items)]]
+- Requires [[step_009 (phase_022)]]

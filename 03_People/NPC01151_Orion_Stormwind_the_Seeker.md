@@ -1,6 +1,6 @@
 ---
-aliases: ["Orion Stormwind the Seeker", "orion stormwind the seeker", "Orion Stormwind Seeker", "Seeker the Stormwind Orion"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Orion Stormwind the Seeker", "orion stormwind the seeker", "Orion Stormwind Seeker", "Seeker the Stormwind Oriontags: [npc, character, combat, magic, social, lore]er]
 type: npc
 ---
 
@@ -133,3 +133,139 @@ Seeks rare merchandise
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Mage** (MM p.347)
+Modifications:
+- HP: 28
+- AC: 16
+- Notable abilities: Varies by individual
+
+
+> [!quote] 💬 Quote
+> Notable saying or prophecy
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Advantage**: See PHB p.173
+- **Combat**: See PHB p.189-198
+- **Conditions**: See PHB p.290-292
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Related: [[step_035 (phase_041)]]
+- Compare with [[Entertainers Pack Xphb]]
+- Related: [[Assets Locations Location City Whisper Touched William Whisper Touched William.svg]]
+- Affected by [[LOC00131_Planes_Location_132]]
+- Influences [[norse-thrym (deities)]]
+- Parallels [[unoccupied-space-xphb (variant-rules)]]
+- Connects to [[step_002]]
+- Originates from [[The Resistance Formation 2]]
+- Related: [[Shadow Legislative Records]]
+- Affected by [[step_028 (phase_070)]]
+- Connects to [[Institute of Recursive Reality Studies (D&D_References)]]
+- Related: [[augury-xphb (spells)]]
+- Leads to [[Emanation Area of Effect Xphb]]
+- Affected by [[dragonlance-branchala-phb (deities)]]
+- Connects to [[step_007 (phase_071)]]
+- See also: [[pale-tincture-xdmg (items)]]
+- Parallels [[step_088]]
+- Affected by [[step_041]]
+- Originates from [[jeweled-gold-crown-xdmg (items)]]
+- Affected by [[Portrait NPC Shadow Broker Mist Shadow Broker Mist.svg]]
+- Affected by [[SPELL00162_Nature_Spell_163]]
+- Influences [[LORE00313_Legends_Entry_314]]
+- Parallels [[modron-monodrone-xmm (construct)]]
+- Originates from [[Assets Locations Location City the Depth Market the Depth Market.svg]]
+- Connects to [[step_073]]
+- Requires [[EVENT00072_Political_Event_73]]
+- Parallels [[ITEM01019_Concentrated_Oil_of_Clarity]]
+- Affected by [[step_037 (phase_100)]]
+- See also: [[step_009 (phase_009)]]
+- Requires [[step_024 (phase_024)]]
+- Connects to [[Ability Score and Modifier Xphb]]
+- Compare with [[step_052 (phase_009)]]
+- Leads to [[The Seasonal Courts]]
+- Originates from [[Professional Divers Association]]
+- Affected by [[Healing Ministries]]
+- Related: [[step_077 (phase_044)]]
+- Leads to [[The Convergence Point]]
+- Related: [[step_063]]
+- Compare with [[Location City Surgeon Coral Seamender Surgeon Coral Seamender.svg]]
+- Influences [[ENC00373_Combat_Encounter_374]]
+- Requires [[step_037 (phase_014)]]
+- Influences [[ITEM01310_Practical_Map_Case_of_Convenience]]
+- Influences [[NPC00934_Jorah_Ravenheart_the_Swift]]
+- See also: [[Luck Spirits Allianc]]
+- Connects to [[QUEST00035_Personal_Quest_36]]
+- Leads to [[step_030]]
+- Connects to [[Assets Locations Location City the Kelp Highway V1 the Kelp Highway.svg]]
+- Leads to [[NPC00763_Urien_Brightblade_the_Broken]]
+- Influences [[War Machine Engineers (D&D_References)]]
+- Leads to [[Senator Abyssos Traditionkeeper 2]]
+- See also: [[Necklace String of Small Pink Pearls Xdmg]]
+- Influences [[step_064 (phase_072)]]
+- Originates from [[step_019 (phase_094)]]
+- Affected by [[Military Families Support Groups]]
+- Influences [[Generate Campaign NPCs (Text Generator Templates)]]
+- Influences [[Assets Portraits Portrait NPC High Priest Nereon High Priest Nereon.svg]]
+- Leads to [[step_044]]
+- Affected by [[step_049 (phase_083)]]
+- Related: [[Deep Mother Resistance Traits]]
+- See also: [[Location City Elena Prismweaver Elena Prismweaver.svg]]
+- Leads to [[EVENT00020_Political_Event_21]]
+- Requires [[Celtic Oghma]]
+- Connects to [[Aethermoor Wind Rider Traditions (Lore)]]
+- Originates from [[Temple of the Deep Waters]]
+- Influences [[delayed-blast-fireball-xphb (spells)]]
+- Affected by [[LOC00021_Wilderness_Location_22]]
+- Affected by [[Multiverse 2]]
+- See also: [[bard-xphb (classes)]]
+- Compare with [[Scholar Thomas Precedent (D&D_References)]]
+- Compare with [[Police Chief Sarah Lawkeeper]]
+- See also: [[step_059]]
+- Compare with [[Assets Locations Location City the Crystal Cathedral of Pure Light the Crystal Cathedral of Pure Light.svg]]
+- Affected by [[10K_GENERATION_REPORT]]
+- Leads to [[step_045 (phase_015)]]
+- Influences [[step_073 (phase_072)]]
+- Compare with [[LOC00052_Planes_Location_53]]
+- Requires [[GM Resource]]
+- Related: [[Crystal Cult Temples (D&D_References)]]
+- See also: [[Green Slime Xdmg]]
+- Leads to [[The Reunification Faction (D&D_References)]]
+- Leads to [[step_047 (phase_021)]]
+- See also: [[Portrait NPC Commodity Queen Abundance Commodity Queen Abundance.svg_1 (Portraits)]]
+- Leads to [[ITEM01455_Elegant_Compass_of_Reliability]]
+- Originates from [[Captain Elara Shadowshard (D&D_References)]]
+- Parallels [[gith-tables-githzerai-personality-traits-mtf (tables)]]
+- Affected by [[Crystal Jammers]]
+- Originates from [[LOC00268_Cities_Location_269]]
+- See also: [[step_053 (phase_099)]]
+- Related: [[step_021 (phase_011)]]
+- Related: [[step_042 (phase_004)]]
+- Requires [[Home Embeds#Recently Modifie 2]]
+- Connects to [[step_085]]
+- Requires [[step_024 (phase_064)]]
+- Related: [[Crystal_Observatory]]
+- Originates from [[ITEM01041_Refined_Powder_of_Fortune]]
+- Requires [[step_071]]
+- Compare with [[Archmage Deflector Windturner 2]]
+- Requires [[Previous Session]]
+- Leads to [[Assets Locations Location City Tide Welcomeheart V1 Tide Welcomeheart.svg]]
+- Leads to [[Pressure Symbiont (D&D_References)]]

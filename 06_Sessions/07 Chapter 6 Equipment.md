@@ -8,6 +8,7 @@ tags:
 created: '2025-01-15'
 modified: '2025-01-15'
 
+tags: [combat, magic, social, exploration, puzzle, lore]
 --- # 07 Chapter 6 Equipment ---
 
 ## Description
@@ -63,3 +64,186 @@ world: Both
 ## Notes
 
 *Additional notes*
+
+
+> [!dm] DM Note
+> The villain has agents watching this place
+
+## Prep Checklist
+
+### Npcs Needed
+- [ ] List key NPCs for this session
+- [ ] Prepare voices and mannerisms
+
+### Locations
+- [ ] Review location descriptions
+- [ ] Prepare battle maps if needed
+
+### Encounters
+- [ ] Balance combat encounters
+- [ ] Prepare social encounter notes
+
+### Props
+- [ ] Handouts ready
+- [ ] Music/ambiance selected
+
+### Rules
+- [ ] Review relevant rules
+- [ ] Prepare quick reference
+
+## Campaign Connection
+Connected to the main villain's plan
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Monster Manual (MM) p.220
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Advantage**: See PHB p.173
+- **Combat**: See PHB p.189-198
+- **Conditions**: See PHB p.290-292
+- **Movement**: See PHB p.190-192
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+*(Spellcasting: PHB p.201-205)*
+*(Spell slots: PHB p.201)*
+*(Ritual casting: PHB p.201-202)*
+*(Character creation: PHB p.11-15)*
+*(Ability scores: PHB p.12-13)*
+*(Backgrounds: PHB p.125-141)*
+*(Equipment: PHB p.143-161)*
+*(Weapons: PHB p.146-147)*
+*(Armor: PHB p.144-146)*
+*(Exploration: DMG p.242-243)*
+*(Travel pace: PHB p.182)*
+*(Wilderness survival: DMG p.109-112)*
+
+## Connections
+
+- Originates from [[guard-drake-blue-mpmm (dragon)]]
+- Leads to [[step_075 (phase_020)]]
+- Related: [[step_005 (phase_039)]]
+- See also: [[Vault_Self_Improvement_Engine (D&D_References)]]
+- See also: [[Location City Pressure Technology V1 Pressure Technology.svg]]
+- Related: [[Faction (02_Worldbuilding)]]
+- Connects to [[LORE0092_Prophecy_of_the_Dark_Times]]
+- Related: [[Aquabyssos Depth Caste System (D&D_References)]]
+- Leads to [[ITEM00209_Venomous_Bow_of_the_Ancients]]
+- Related: [[young-copper-dragon-xmm]]
+- Related: [[Portrait NPC Corrupted Clients Corrupted Clients.svg_1 (Portraits)]]
+- Related: [[Portrait NPC Investigator Supreme Lucian Brightwater V2 Investigator Supreme Lucian Brightwater.svg]]
+- Connects to [[Handout Handout Ship Manifests with Stamps V2 Ship Manifests with Stamps.png]]
+- Related: [[step_016 (phase_081)]]
+- Affected by [[ENC00166_Social_Encounter_167]]
+- Parallels [[02_Worldbuilding_Factions_The_Skyborne_Merchants]]
+- Leads to [[ENC00391_Combat_Encounter_392]]
+- See also: [[step_003 (phase_099)]]
+- Leads to [[MON00014_Constructs_Creature_15]]
+- Originates from [[LOC00005_Towns_Location_6]]
+- Affected by [[Freedrift Network 2]]
+- See also: [[step_036 (phase_014)]]
+- See also: [[Tide Turner's Trident]]
+- Originates from [[enfeebling-arrow-xge (optional-features)]]
+- Related: [[ENC00292_Combat_Encounter_293]]
+- Requires [[step_080]]
+- Originates from [[step_020 (phase_031)]]
+- Connects to [[The Void Seals]]
+- Compare with [[step_036 (phase_020)]]
+- See also: [[LOC0068_FortMarsh]]
+- Connects to [[step_002 (phase_075)]]
+- See also: [[Assets Locations Location City Spy Games V1 Spy Games.svg]]
+- Affected by [[Githyanki Raiding Parties Githyanki Purpose of Raid Mtf]]
+- Leads to [[Half Orc]]
+- Influences [[The Pearl Markets 2]]
+- Leads to [[step_072]]
+- Connects to [[The Listening Posts]]
+- Influences [[Assets Locations Location City Crystal Powered Vessels Crystal Powered Vessels.svg]]
+- Compare with [[The First Zone Formation]]
+- Influences [[step_094 (phase_081)]]
+- Affected by [[step_095 (phase_071)]]
+- Leads to [[The Forgotten Collective]]
+- Originates from [[Assets Locations Location City Resonance Roses V1 Resonance Roses.svg]]
+- Connects to [[Adjudicating Areas of Effect Targets in Area of Effect Xdmg]]
+- Requires [[QUEST00062_Main_Quest_63]]
+- Compare with [[LOC00165_Wilderness_Location_166]]
+- Parallels [[QUEST00015_Main_Quest_16]]
+- Connects to [[Assets Locations Location City the Gilded Shard the Gilded Shard.svg]]
+- Requires [[step_007]]
+- Affected by [[step_087]]
+- Affected by [[NPC00189_Corvus_Quicksilver]]
+- Originates from [[Historical Societies (D&D_References)]]
+- See also: [[Location City Surface Loyalist Safe Houses V1 Surface Loyalist Safe Houses.svg]]
+- Compare with [[familiars-mm (variant-rules)]]
+- See also: [[Creature Creature Dire Troll Mpmm V3 Dire Troll Mpmm.png]]
+- Compare with [[Portrait NPC Golden Scale Transformation V1 Golden Scale Transformation.svg_1 (Portraits)]]
+- Originates from [[step_075 (phase_033)]]
+- Originates from [[PHASES_3_8_COMPLETE]]
+- Connects to [[beguiling-influence (optional-features)]]
+- Leads to [[step_024 (phase_021)]]
+- See also: [[reaction-xphb (variant-rules)]]
+- Originates from [[Assets Portraits Portrait NPC Captain Lyanna Brightshield Captain Lyanna Brightshield.svg]]
+- Compare with [[cape-of-the-mountebank-xdmg (items)]]
+- Leads to [[Druid Xphb Circle of the Shepherd Xge]]
+- Parallels [[Scrap & Salvage (D&D_References)]]
+- Originates from [[Location City Paradox Engineer Zeno V1 Paradox Engineer Zeno.svg]]
+- Connects to [[Portrait NPC Captain Truth Ironwill Captain Truth Ironwill.svg]]
+- Related: [[NPC00959_Alaric_Dawnstrider_the_Lost]]
+- Related: [[The First Failure 2]]
+- Originates from [[darkness-xphb (variant-rules)]]
+- Parallels [[Quest - Succession Crisis 2]]
+- Leads to [[gnome-urdlen-mtf (deities)]]
+- Influences [[The Vault of Whispers]]
+- Parallels [[Crystal Palace Throne Room]]
+- Related: [[ITEM01037_Concentrated_Potion_of_Swiftness]]
+- See also: [[Shadow Crystals (D&D_References)]]
+- See also: [[step_045 (phase_068)]]
+- Parallels [[Depth Pulse 2]]
+- Leads to [[Crystal Wardens (People)]]
+- Influences [[ITEM01430_Simple_Journal_of_Reliability]]
+- Compare with [[Random Encounter]]
+- Compare with [[Environmental Protection]]
+- Connects to [[location-city-pressure-palace-pressure-palace.png]]
+- Requires [[step_083 (phase_036)]]
+- Parallels [[High Cultivist Jasper Lifebinder]]
+- Requires [[Assets Locations Location City Court Manager Noble V1 Court Manager Noble.svg]]
+- Influences [[Assets Locations Location City Keeper Stormheart Keeper Stormheart.svg]]
+- See also: [[Quest - The Silent Majority]]
+- Connects to [[Grandmother Nightcomfor (D&D_References)]]
+- See also: [[Assets Locations Location City Shadow Wells Shadow Wells.svg]]
+- Related: [[step_001 (phase_010)]]
+- Related: [[step_051 (phase_015)]]
+- Parallels [[Duergar Raiding Parties 1 Mtf]]
+- Leads to [[LOC0106_Marshton]]
+- Influences [[LORE00296_Prophecies_Entry_297]]
+- Connects to [[LOC0013_WestBridge]]
+- Leads to [[Memory Eternal Keeper (D&D_References)]]
+- Affected by [[Financial Corruption (D&D_References)]]
+- Affected by [[Head of Memory Integration Dr. Nautilus Depthc... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Compare with [[LORE00081_Legends_Entry_82]]

@@ -1,6 +1,6 @@
 ---
-aliases: ["Wynne Frostwhisper the Strong", "wynne frostwhisper the strong", "Wynne Frostwhisper Strong", "Strong the Frostwhisper Wynne"]
-tags: [npc, character]
+created: 2025-08-15
+aliases: ["Wynne Frostwhisper the Strong", "wynne frostwhisper the strong", "Wynne Frostwhisper Strong", "Strong the Frostwhisper Wynnetags: [npc, character, combat, magic, social, exploration, puzzle, lore]er]
 type: npc
 ---
 
@@ -144,3 +144,134 @@ Seeks bodyguards for dangerous journey
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## Combat Stats
+Base: **Commoner** (MM p.345)
+Modifications:
+- HP: 34
+- AC: 13
+- Notable abilities: Varies by individual
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Ability Checks**: See PHB p.174
+- **Advantage**: See PHB p.173
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- Compare with [[LOC00052_Cities_Location_53]]
+- See also: [[location-city-trade-union-trade-union.svg]]
+- Requires [[Harbor Pilot Captain Storm Skyreacher 2]]
+- Influences [[step_019 (phase_046)]]
+- Influences [[The Prophecy of Tides]]
+- Connects to [[step_040 (phase_048)]]
+- Leads to [[ITEM01169_Concentrated_Salve_of_Fortune]]
+- Requires [[fear-xphb (spells)]]
+- Originates from [[step_072]]
+- Related: [[step_055 (phase_099)]]
+- Originates from [[step_060 (phase_088)]]
+- Parallels [[step_089]]
+- Compare with [[step_048 (phase_086)]]
+- Leads to [[dark-gift-of-norganas-the-finger-of-oblivion-cos]]
+- Related: [[step_031 (phase_059)]]
+- Connects to [[step_039 (phase_063)]]
+- Connects to [[step_100 (phase_061)]]
+- Leads to [[step_072 (phase_100)]]
+- Influences [[step_034 (phase_019)]]
+- Originates from [[Portrait NPC Unite the Emperor Unite the Emperor.svg_1 (Portraits)]]
+- Connects to [[QUEST00128_Personal_Quest_129]]
+- Parallels [[QUEST00259_Personal_Quest_260]]
+- Leads to [[LOC0080_NorthFalls]]
+- Compare with [[step_028 (phase_014)]]
+- Leads to [[Assets Symbols Symbol Heraldry Border Checkpoints Border Checkpoints.svg]]
+- Originates from [[step_086 (phase_015)]]
+- Affected by [[Assets Locations Location City Historical Societies Historical Societies.svg]]
+- Originates from [[EVENT00017_Natural_Event_18]]
+- Affected by [[Deep Adaptation Processes]]
+- Compare with [[Nonhuman Grolantor]]
+- Influences [[Guild of Cross-Realm Navigators (02_Worldbuilding)]]
+- Related: [[Duke Blackwater's Estate]]
+- Related: [[S-004_Cloud_Canyon]]
+- Requires [[Interfaith Dialogue]]
+- Requires [[Tide Risktaker (D&D_References)]]
+- Parallels [[Communication_Systems]]
+- Originates from [[Master_Resots]]
+- Related: [[SHOP00044_General_Shop_45]]
+- Affected by [[ITEM01302_Simple_Lock_of_Durability]]
+- Related: [[Smuggler Captain Marina Darkwater]]
+- See also: [[ENC00216_Social_Encounter_217]]
+- Leads to [[Wizard Xphb School of Necromancy]]
+- Compare with [[Assets Locations Location City Memoriam the Forgotten Continent Memoriam the Forgotten Continent.svg]]
+- Originates from [[step_007 (phase_089)]]
+- Connects to [[step_021 (phase_080)]]
+- Connects to [[ITEM00934_Pure_Herb_of_Swiftness]]
+- Leads to [[#Relationships]]
+- Connects to [[Quests Quest the Forge of Memory]]
+- Affected by [[Aether Crystal (D&D_References)]]
+- Leads to [[step_014 (phase_015)]]
+- Related: [[step_033 (phase_047)]]
+- Affected by [[10-combat#Shoving a Creature]]
+- Requires [[NPC01396_Delara_Proudmore_the_Risen]]
+- Originates from [[step_056 (phase_014)]]
+- Affected by [[Information Exchanges 2]]
+- Requires [[step_099]]
+- Related: [[Assets Locations Location City Sage Currentknow V1 Sage Currentknow.svg]]
+- See also: [[step_025 (phase_031)]]
+- Requires [[LORE00150_History_Entry_151]]
+- Related: [[Light Gardener]]
+- Originates from [[Technology Dimensional Sensors]]
+- Originates from [[step_067 (phase_075)]]
+- Leads to [[LORE00111_Prophecies_Entry_112]]
+- Requires [[List Spells Races Tiefling Mammon Mtf]]
+- Affected by [[NPC01196_Brenna_Underhill_the_Wise]]
+- Connects to [[The Depth Plague (D&D_References)]]
+- Influences [[Advanced Combat Training Methods (D&D_References)]]
+- Connects to [[Portrait NPC Queen Seraphina Lumengarde Queen Seraphina Lumengarde.svg_1 (Portraits)]]
+- Related: [[step_030 (phase_088)]]
+- Requires [[Assets Locations Location City Fresh Cleanwave V1 Fresh Cleanwave.svg]]
+- Leads to [[sacred-flame-xphb (spells)]]
+- Requires [[Feywild Time Warp Xdmg]]
+- Related: [[Location City Bartender Marina Dualborn Bartender Marina Dualborn.svg]]
+- Related: [[04_Resources_Assets_Symbols_symbol-heraldry-acoustic-infection-acoustic-infection.svg]]
+- Requires [[Queen Seraphina Lumengarde (D&D_References)]]
+- Requires [[bullseye-lantern-xphb (items)]]
+- Related: [[List Spells Optional Features Gift of the]]
+- Affected by [[potions-of-healing-xdmg (items)]]
+- Originates from [[Assets Locations Location City Constitutional Monarchy Constitutional Monarchy.svg]]
+- Connects to [[Assets Locations Location City Religious Religious Groups.svg]]
+- See also: [[locations]]
+- Related: [[LOC0040_NorthHill]]
+- Affected by [[SPELL00118_Arcane_Spell_119]]
+- Connects to [[NPC01819_Brenna_Moonshadow_the_Mystic]]
+- Connects to [[The Grand Trade Routes]]
+- Leads to [[Symbol Heraldry Sister Benthos Scrollheart V1 Sister Benthos Scrollheart.svg]]
+- Requires [[NPC00673_Lyanna_Xendar_the_Broken]]
+- Requires [[step_044 (phase_072)]]
+- Requires [[step_045]]
+- See also: [[Northgate]]
+- Connects to [[step_007 (phase_014)]]
+- Connects to [[step_054]]
+- Affected by [[step_034 (phase_065)]]
+- Compare with [[gold-dragon (legendary-group)]]
+- Affected by [[Current_Scene (02_Worldbuilding)]]
+- See also: [[fangs-of-the-fire-snake (optional-features)]]
+- Influences [[candle-of-invocation-xdmg (items)]]
+- Originates from [[The Maritime Alliance]]
+- Affected by [[step_068 (phase_029)]]
+- See also: [[step_009 (phase_007)]]

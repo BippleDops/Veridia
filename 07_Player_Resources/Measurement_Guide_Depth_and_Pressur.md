@@ -9,6 +9,7 @@ created: '2025-08-14'
 modified: '2025-08-14'
 evaluated: '2025-08-14'
 improvements: 20
+tags: [combat, lore]
 ---
 
 ## 🔧 Deep Evaluation Improvements
@@ -101,3 +102,129 @@ improvements: 20
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+
+> [!info] ℹ️ Info
+> Additional context or lore
+
+## See Also
+- [[Related_Content]]
+
+
+## Related Content
+- [[audio_fit_report]]
+- [[audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+
+
+## D&D 5e References
+
+*(Combat rules: PHB p.189-198)*
+*(Attack rolls: PHB p.194)*
+*(Damage & Healing: PHB p.196-197)*
+
+## Connections
+
+- Originates from [[Random Encounters (Lore)]]
+- See also: [[NPC00789_Caelum_Ravenheart_the_Scholar]]
+- Compare with [[SPELL00090_Arcane_Spell_91]]
+- Originates from [[High Theologian ... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- Affected by [[LOC00033_Dungeons_Location_34]]
+- Requires [[Dimensional Guard]]
+- Affected by [[Location City Anti Smuggling Operations V1 Anti Smuggling Operations.svg]]
+- See also: [[step_098 (phase_043)]]
+- Compare with [[random-dungeon-hazards-dungeon-hazards (tables)]]
+- Connects to [[Dragontooth Dagger Rot]]
+- Parallels [[item-artifact-warhammer-xphb-v5-warhammer-xphb.png]]
+- Influences [[Current-Crystals]]
+- Parallels [[staff-of-fire-xdmg (items)]]
+- Affected by [[Dr. Tidal Depthhealer]]
+- Leads to [[LOC00123_Planes_Location_124]]
+- Requires [[Ancient Skyforge]]
+- Requires [[Master_Timeline_Unified]]
+- Requires [[Crystal Singing]]
+- Influences [[NPC00323_Aldric_Grimholt_the_Seeker]]
+- Originates from [[step_008 (phase_093)]]
+- Related: [[Orb Xphb]]
+- Influences [[step_098 (phase_049)]]
+- Parallels [[Motion_Specs (D&D_References)]]
+- Influences [[QUEST0098_The_Crystal_Cave_Invasion]]
+- Connects to [[LOC00044_Cities_Location_45]]
+- See also: [[NPC01152_Urien_Ashford_the_Wanderer]]
+- Leads to [[step_092 (phase_071)]]
+- Influences [[ITEM01310_Practical_Map_Case_of_Convenience]]
+- Connects to [[SPELL00164_Arcane_Spell_165]]
+- Leads to [[Madame Whisper 2]]
+- Leads to [[LOC0143_Gatehollow]]
+- See also: [[step_056 (phase_069)]]
+- Originates from [[The Sunken Library of Thalassius 2]]
+- Parallels [[portrait-npc-the-senator-v1-the-senator.svg]]
+- Influences [[Welfare Director Caretake]]
+- Parallels [[sentient-magic-item-alignment (tables)]]
+- Influences [[Deities of Greyhawk Phb]]
+- Parallels [[Location City Coral Reef Republics V1 Coral Reef Republics.svg]]
+- Leads to [[Portrait NPC Quest the Deep Mother S Truth Quest the Deep Mother S Truth.svg]]
+- Requires [[NPC00715_Alaric_Stormwind_the_Wanderer]]
+- Influences [[Shadow Conspiracy Timeline]]
+- See also: [[step_024 (phase_080)]]
+- Influences [[Beta Leader Torres Coastalambush]]
+- Related: [[instrument-of-the-bards-canaith-mandolin-xdmg (items)]]
+- Affected by [[step_080]]
+- Compare with [[Shadow Contamination Scanners]]
+- Connects to [[ITEM01323_Decorated_Lantern_of_Convenience]]
+- Requires [[Template Starsystem Placeholder.png]]
+- Affected by [[step_004]]
+- Parallels [[step_081]]
+- See also: [[step_068]]
+- Requires [[MON00033_Constructs_Creature_34]]
+- Parallels [[step_078 (phase_079)]]
+- Parallels [[ITEM00696_Warded_Shield_of_the_Guardian]]
+- Connects to [[step_070 (phase_044)]]
+- Affected by [[step_091 (phase_076)]]
+- Originates from [[step_027]]
+- Originates from [[step_026 (phase_084)]]
+- Originates from [[High Priestess Celeste Dawnbringer]]
+- Requires [[Rod of the Pact Keeper Xdmg]]
+- Affected by [[LOC00281_Planes_Location_282]]
+- Affected by [[NPC00724_Ewan_Moonshadow_the_Lost]]
+- Connects to [[step_042 (phase_095)]]
+- Requires [[minions-of-chaos (optional-features)]]
+- Parallels [[step_013 (phase_095)]]
+- See also: [[NPC00136_Elric_Ashford_the_Seeker]]
+- Connects to [[QUEST0088_The_Crystal_Cave_Disappearances]]
+- Leads to [[NPC00518_Zephyr_Quicksilver_the_Scholar]]
+- Influences [[step_060 (phase_044)]]
+- Influences [[Family Portrait (D&D_References)]]
+- Affected by [[Location Tracker (02_Worldbuilding)]]
+- Compare with [[Golden Ballroo]]
+- Leads to [[creature-creature-murgaxor-scc-v3-murgaxor-scc.png]]
+- Parallels [[physical-variations-type-2-malison-arms-vgm (tables)]]
+- Compare with [[The Chroniclers]]
+- See also: [[step_010 (phase_018)]]
+- Originates from [[Citizens Against Shadows]]
+- Originates from [[Government_Officials_Guide]]
+- See also: [[step_044 (phase_080)]]
+- Parallels [[Dream Scholar Memoriam]]
+- See also: [[step_051 (phase_082)]]
+- Compare with [[Portrait NPC the Shadow Singer Naia V2 the Shadow Singer Naia.svg_1 (Portraits)]]
+- Compare with [[portrait-npc-the-barnacle-v2-the-barnacle.svg]]
+- Affected by [[step_071 (phase_010)]]
+- Originates from [[Location City Keeper Elara Mindwell Keeper Elara Mindwell.svg]]
+- Influences [[step_066 (phase_052)]]
+- Originates from [[Captain Echo]]
+- Related: [[Chronomancer Paradox 2]]
+- Affected by [[Screaming Gardens - Songwood Grove 2]]
+- Influences [[Assets Locations Location City Trader Grimm Voidheart Trader Grimm Voidheart.png]]
+- Connects to [[step_039 (phase_031)]]
+- Compare with [[Location City Depth Cardinal Justice Currentkeeper V1 Depth Cardinal Justice Currentkeeper.svg]]
+- See also: [[Quest - Budget Crisis 2]]
+- Influences [[Throne of Bubbles]]
+- Requires [[quaals-feather-token-xdmg (items)]]
+- Connects to [[NPC00100_Faelyn_Ravenheart]]
+- Affected by [[NPC00766_Alaric_Grimholt_the_Seeker]]
+- Related: [[step_062]]
+- Influences [[step_012 (phase_094)]]
+- Parallels [[Location City the Exotic Emporium V1 the Exotic Emporium.svg]]

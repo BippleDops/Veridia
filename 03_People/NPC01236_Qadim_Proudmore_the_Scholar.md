@@ -1,4 +1,5 @@
 ---
+created: 2025-08-15
 aliases: ["Qadim Proudmore the Scholar", "qadim proudmore the scholar", "Qadim Proudmore Scholar", "Scholar the Proudmore Qadim"]
 tags: [npc, character]
 type: npc
@@ -150,3 +151,142 @@ Has information about legendary item
 ## Combat Tactics
 - Preferred strategies
 - Special moves
+
+## See Also
+- [[Related_Content]]
+
+
+
+## Item Rarity & Balance
+Following magic item guidelines (DMG p.135-136):
+- **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
+- **Attunement**: Required for powerful effects
+- **Charges**: Limited uses per day (DMG p.141)
+- **Curse**: Optional drawback (DMG p.138-139)
+
+### Comparable Official Items
+- Power level similar to [[Flame Tongue]] (DMG p.170)
+- Utility comparable to [[Bag of Holding]] (DMG p.153)
+- Activation like [[Wand of Magic Missiles]] (DMG p.211)
+
+## Source References
+- Xanathar's Guide to Everything (XGE) p.140
+
+## Related Content
+- [[SYSTEM_STATUS]]
+- [[13-conditions (players-handbook-2014)]]
+- [[06 Equipment]]
+
+## Game Mechanics
+- **Combat**: See PHB p.189-198
+- **Skills**: See PHB p.174-179
+- **Spellcasting**: See PHB p.201-205
+
+
+## Thematic Connections
+- Character development and [[NPC Motivations]]
+- Social encounters and [[Diplomacy Rules]]
+- Faction relationships with [[Political Factions]]
+
+## Connections
+
+- See also: [[Deep Sea Cultists]]
+- Influences [[NPC00531_Idris_Brightblade_the_Lost]]
+- Compare with [[Epic Encounter Scaling]]
+- Originates from [[Captain Blackwater's Fate]]
+- Related: [[Assets Locations Location City Luxury Goods Market V1 Luxury Goods Market.svg]]
+- Leads to [[LOC00046_Planes_Location_47]]
+- See also: [[Imperial Chronicle of Deep History]]
+- Leads to [[Oceanic Historical Society (D&D_References)]]
+- Influences [[The Future Market]]
+- Leads to [[step_068]]
+- Leads to [[NPC00831_Hilda_Youngblood_the_Strong]]
+- Affected by [[angry-sorrowsworn-mpmm (monstrosity)]]
+- Requires [[Item Artifact Spell Gem Lapis Lazuli Oota V2 Spell Gem Lapis Lazuli Oota.png]]
+- Requires [[location-city-divine-magic-v1-divine-magic.svg]]
+- Influences [[QUEST00002_Main_Quest_3]]
+- Leads to [[LORE00031_Prophecies_Entry_32]]
+- Parallels [[Assets Locations Location City Military Command Military Command.svg]]
+- Requires [[ITEM01159_Lesser_Powder_of_Clarity]]
+- Influences [[Filtration Systems Guild]]
+- Originates from [[Master Chamberlain Geoffrey Wellesle]]
+- Parallels [[step_008]]
+- Compare with [[step_099 (phase_035)]]
+- Compare with [[ITEM00111_Blessed_Staff_of_Speed]]
+- Connects to [[random-settlements-race-relations (tables)]]
+- Parallels [[SPELL00144_Nature_Spell_145]]
+- Leads to [[ENC0099_Random_Encounter_100]]
+- Originates from [[LOC00127_Towns_Location_128]]
+- Originates from [[The Healing Sanctuary]]
+- Related: [[Location City Dr Siphon Gillwater Dr Siphon Gillwater.png]]
+- Originates from [[Secret Vault Beneath Throne 2]]
+- Leads to [[Assets Locations Location City Memory Sharing Techniques V1 Memory Sharing Techniques.svg]]
+- Leads to [[step_075 (phase_077)]]
+- Compare with [[Assets Locations Location City Archdruid Marina Kelpweaver V1 Archdruid Marina Kelpweaver.svg]]
+- See also: [[04_Resources_Assets_Symbols_symbol-heraldry-navigation-geograph-navigation-geograph.svg]]
+- Influences [[step_088 (phase_009)]]
+- See also: [[step_063 (phase_009)]]
+- Connects to [[LOC00261_Towns_Location_262]]
+- Compare with [[step_058 (phase_044)]]
+- Requires [[step_050]]
+- Affected by [[Crisis Management]]
+- Affected by [[step_025]]
+- Originates from [[The Great Tidal Amphitheater 2]]
+- Affected by [[step_017 (phase_066)]]
+- Originates from [[step_080]]
+- Originates from [[daerns-instant-fortress-xdmg (items)]]
+- Influences [[04_Resources_Assets_Locations_location-city-harbormaster-tidal-stormcrest-v1-harbormaster-tidal-stormcrest.svg]]
+- Originates from [[step_039 (phase_039)]]
+- Compare with [[Chain Devil Xmm]]
+- Related: [[location-city-the-cleaner-v1-the-cleaner.svg]]
+- See also: [[Crystalline Wastes (D&D_References)]]
+- Parallels [[Spell Scroll Level 8 Xdmg]]
+- Parallels [[step_012]]
+- Related: [[04_Resources_Assets_Portraits_portrait-npc-captain-torrent-swiftcurrent-captain-torrent-swiftcurrent.svg_Quick_Ref]]
+- Influences [[The Living Tide Temples (D&D_References)]]
+- Related: [[The Great Crystal-Shadow Engine]]
+- Influences [[Shadow Duchess Nyx (D&D_References)]]
+- Related: [[cloudkill-xphb (spells)]]
+- Related: [[step_022]]
+- Originates from [[step_098]]
+- Parallels [[Quest - Rescue the Originals]]
+- Compare with [[Ancestor Memorial Spaces]]
+- Affected by [[step_054 (phase_084)]]
+- See also: [[step_046 (phase_098)]]
+- Connects to [[NPC00099_Ewan_Dawnstrider]]
+- Leads to [[Dimensional Researchers]]
+- Compare with [[Location City Intelligence Dealer Echo Whisperwave Intelligence Dealer Echo Whisperwave.svg]]
+- Originates from [[Clench of the North Wind]]
+- Requires [[step_057 (phase_093)]]
+- Influences [[EVENT00057_Political_Event_58]]
+- See also: [[step_098 (phase_063)]]
+- Affected by [[step_052 (phase_038)]]
+- Leads to [[step_011]]
+- Related: [[Alternative-Path-Fled-City (D&D_References)]]
+- Affected by [[Windweaver Spire]]
+- See also: [[LOC00164_Planes_Location_165]]
+- Originates from [[step_016 (phase_090)]]
+- Related: [[NPC01073_Zephyr_Ironwood_the_Strong]]
+- Originates from [[Location City Sage Iris Crystalbloom Sage Iris Crystalbloom.svg]]
+- Originates from [[step_026]]
+- See also: [[thin-ice-xdmg (traps-hazards)]]
+- See also: [[Location City Pressure Suit Malfunction Pressure Suit Malfunction.svg]]
+- See also: [[step_005 (phase_047)]]
+- Related: [[ENC00096_Environmental_Encounter_97]]
+- Affected by [[wall-of-ice-xphb (spells)]]
+- Compare with [[Portrait NPC Marcus Shardbreaker Grimm Marcus Shardbreaker Grimm.svg_1 (Portraits)]]
+- Affected by [[SHOP00013_Magical_Shop_14]]
+- See also: [[04_Places_The_Outfitters_Shop]]
+- Leads to [[a-sample-pantheon-dawn-war-deities (tables)]]
+- Compare with [[ITEM01434_Ornate_Lantern_of_Quality]]
+- Originates from [[LORE00167_History_Entry_168]]
+- Related: [[QUEST0084_Princess's_Gambit]]
+- See also: [[SPELL00123_Divine_Spell_124]]
+- Parallels [[LOC00233_Wilderness_Location_234]]
+- Compare with [[Keeper of Memories Echo Truthseer]]
+- Connects to [[Assets Symbols Symbol Heraldry Ambassador Blacktrade Ambassador Blacktrade.svg]]
+- Originates from [[NPC01202_Hilda_Blackstone_the_Swift]]
+- Related: [[Crystalline Depths]]
+- Leads to [[Potion of Frost Giant Strength Xdmg]]
+- Connects to [[step_026]]
+- Affected by [[The Great Unraveling 2]]

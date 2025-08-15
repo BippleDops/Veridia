@@ -1,3 +1,9 @@
+---
+aliases: ["Concentrated Oil of Swiftness", "concentrated oil of swiftness", "Swiftness of Oil Concentrated"]
+tags: [item, equipment]
+type: item
+---
+
 # Concentrated Oil of Swiftness
 
 *Consumables, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A concentrated oil swirling with colors
 - Breathe underwater 1 hour
 - Invisible for 10 minutes
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -30,7 +34,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.450Z*

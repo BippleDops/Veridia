@@ -91,3 +91,9 @@ improvements: 20
 
 - A corpse reveals the truth about this place
 - A noble needs help investigating before dawn
+
+## References
+
+- [[Events Dimensional Incursions]]
+- [[Great Drowning]]
+- [[Void Currents]]

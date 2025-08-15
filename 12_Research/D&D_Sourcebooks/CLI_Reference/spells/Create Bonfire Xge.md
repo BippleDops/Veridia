@@ -45,3 +45,9 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[09 Appendix B Spells]]
+- [[09-appendix-b-spells (princes-of-the-apocalypse)]]

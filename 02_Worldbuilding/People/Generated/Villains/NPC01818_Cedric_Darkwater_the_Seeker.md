@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Darkwater the Seeker", "cedric darkwater the seeker", "Cedric Darkwater Seeker", "Seeker the Darkwater Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Darkwater the Seeker
 
 *Tiefling Crime Boss (Villains), Age 59, Male*
@@ -36,12 +42,10 @@ Believes their evil acts serve a greater good Strange abilities have begun manif
 - **Short Term**: Gather information
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Zephyr Frostwhisper the Wise (Personal - Best friend)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ### Vesper Ravenheart the Scholar (Professional - Partner)
 - **Status**: Mutually beneficial
@@ -52,7 +56,6 @@ Believes their evil acts serve a greater good Strange abilities have begun manif
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Pyria Keenblade the Lost (Professional - Employee)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
@@ -61,7 +64,6 @@ Believes their evil acts serve a greater good Strange abilities have begun manif
 ### Malakai Moonshadow the Risen (Professional - Employer)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Is being controlled by darker force

@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Moonshadow the Strong", "ewan moonshadow the strong", "Ewan Moonshadow Strong", "Strong the Moonshadow Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Moonshadow the Strong
 
 *Human Ranger (Adventurers), Age 22, Non-binary*
@@ -13,7 +19,6 @@
 Below average and wiry, with Tied back brown hair and Brown eyes. Dark skin. Birthmark shaped like a constellation.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Compulsive liar about minor things; Believes in every conspiracy theory
@@ -52,11 +57,9 @@ Chosen by fate to fulfill an ancient prophecy A prophetic dream has been hauntin
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
 
-
 ### Drusilla Emberfall the Scholar (Professional - Rival)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Is from the future

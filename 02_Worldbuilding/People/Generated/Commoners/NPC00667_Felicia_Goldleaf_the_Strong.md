@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Goldleaf the Strong", "felicia goldleaf the strong", "Felicia Goldleaf Strong", "Strong the Goldleaf Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Goldleaf the Strong
 
 *Aasimar Carpenter (Commoners), Age 50, Female*
@@ -13,7 +19,6 @@
 Very short and compact, with Partially shaved brown hair and Black eyes. Freckled skin. Intricate tattoos covering arms.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Collects unusual and worthless objects; Never backs down from any challenge
@@ -42,21 +47,17 @@ Former soldier trying to adjust to civilian life They recently discovered a secr
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
 
-
 ### Aldric Quicksilver the Mystic (Political - Opposition)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ### Jorah Grimholt the Risen (Political - Opposition)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Thalia Hawthorne the Wise (Political - Patron)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
-
 
 ### Aldric Voidwalker the Scholar (Criminal - Target)
 - **Status**: Recently reconciled
@@ -66,7 +67,6 @@ Former soldier trying to adjust to civilian life They recently discovered a secr
 ### Gareth Proudmore the Mystic (Personal - Ex-lover)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Knows location of ancient treasure

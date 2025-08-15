@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Darkwater the Redeemed", "gareth darkwater the redeemed", "Gareth Darkwater Redeemed", "Redeemed the Darkwater Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Darkwater the Redeemed
 
 *Elf Bard (Adventurers), Age 61, Female*
@@ -13,7 +19,6 @@
 Above average and heavyset, with Tied back silver hair and Violet eyes. Dark skin. Constantly changing hair color.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Flirts with everyone regardless of interest; Incredibly optimistic despite evidence
@@ -42,7 +47,6 @@ Running from a dark past that won't stay buried They've made a deal they're begi
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Gavril Grimholt the Wise (Family - Spouse)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
@@ -52,16 +56,13 @@ Running from a dark past that won't stay buried They've made a deal they're begi
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Dara Ironforge the Mystic (Professional - Mentor)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Dara Stormwind the Wanderer (Personal - Best friend)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Has died and been resurrected

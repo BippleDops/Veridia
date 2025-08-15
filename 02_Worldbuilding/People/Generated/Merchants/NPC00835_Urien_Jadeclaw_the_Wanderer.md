@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Jadeclaw the Wanderer", "urien jadeclaw the wanderer", "Urien Jadeclaw Wanderer", "Wanderer the Jadeclaw Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Jadeclaw the Wanderer
 
 *Dragonborn Caravan Master (Merchants), Age 37, Non-binary*
@@ -36,12 +42,10 @@ Part of a merchant family with connections everywhere A prophetic dream has been
 - **Short Term**: Sabotage competition
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Nerys Jadeclaw the Broken (Professional - Partner)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ### Rhiannon Blackstone the Fallen (Political - Opposition)
 - **Status**: On the verge of collapse
@@ -51,7 +55,6 @@ Part of a merchant family with connections everywhere A prophetic dream has been
 ### Qadim Proudmore the Guardian (Personal - Nemesis)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ### Elric Proudmore the Redeemed (Family - Child)
 - **Status**: Secretly hostile

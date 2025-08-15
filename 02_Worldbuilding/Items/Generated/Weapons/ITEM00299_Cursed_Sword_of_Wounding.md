@@ -1,3 +1,9 @@
+---
+aliases: ["Cursed Sword of Wounding", "cursed sword of wounding", "Wounding of Sword Cursed"]
+tags: [item, equipment]
+type: item
+---
+
 # Cursed Sword of Wounding
 
 *Weapons, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A cursed sword made of crystallized magic
 - Deals extra 1d6 elemental damage
 - Ignores resistance to damage type
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -31,7 +35,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.369Z*

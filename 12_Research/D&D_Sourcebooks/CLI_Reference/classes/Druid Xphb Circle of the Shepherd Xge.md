@@ -155,3 +155,31 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Druid Xphb Circle of the Moon Xphb]]
+- [[Druid Xphb Circle of the Sea Xphb]]
+- [[Druid Xphb Circle of the Stars Xphb]]
+- [[druid-xphb-circle-of-the-moon-xphb (classes)]]
+- [[druid-xphb-circle-of-the-sea-xphb (classes)]]
+- [[druid-xphb-circle-of-the-shepherd-xge (classes)]]
+- [[druid-xphb-circle-of-the-stars-xphb (classes)]]
+- [[Assign Ability Scores Standard Array by]]
+- [[Choose a Class Class Overview Xphb]]
+- [[Classes Phb]]
+- [[Level 1 Hit Points by Class Xphb]]
+- [[Multiclassing Prerequisites Phb]]
+- [[Multiclassing Proficiencies Phb]]
+- [[Preparing Spells Spell Preparation by Class]]
+- [[Spells Scc]]
+- [[assign-ability-scores-standard-array-by-class-xphb]]
+- [[choose-a-class-class-overview-xphb (tables)]]
+- [[classes-phb (tables)]]
+- [[level-1-hit-points-by-class-xphb (tables)]]
+- [[multiclassing-prerequisites-phb (tables)]]
+- [[multiclassing-proficiencies-phb (tables)]]
+- [[preparing-spells-spell-preparation-by-class-xphb]]
+- [[spells-scc (tables)]]
+- [[Spell Points]]
+- [[spell-points (variant-rules)]]

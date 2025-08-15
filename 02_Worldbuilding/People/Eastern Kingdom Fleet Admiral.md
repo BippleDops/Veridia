@@ -34,8 +34,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
-
 ## Relationships
 - **Allies**: Notable allies and friends
 - **Rivals**: Competitors and rivals  
@@ -232,7 +230,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 20% middle class
 - 79% working poor
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -268,3 +265,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Archdruid Marina Kelpweaver V1 Archdruid Marina Kelpweaver.svg]]
+- [[Envoy Blackwater Jr (D&D_Statblocks)]]
+- [[Envoy Blackwater Jr.]]

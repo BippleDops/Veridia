@@ -115,7 +115,6 @@ Sir Marcus Dawnforge is a conflicted veteran knight of the [[Order of the Shatte
 
 **Spells:** Protection from Evil and Good, Detect Magic, Shield of Faith, Zone of Truth, Lesser Restoration
 
-
 ## Relationships
 - **Allies**: Notable allies and friends
 - **Rivals**: Competitors and rivals  
@@ -214,7 +213,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Natural disasters
 - Current power structures established
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -250,3 +248,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Communications Master Signal Cryptkeeper Communications Master Signal Cryptkeeper.svg]]
+- [[Assets Locations Location City Ghost of Dr Thaddeus Brightwater V1 Ghost of Dr Thaddeus Brightwater.svg]]
+- [[Economic Warfare (D&D_Statblocks)]]
+- [[The Green Death (D&D_Statblocks)]]

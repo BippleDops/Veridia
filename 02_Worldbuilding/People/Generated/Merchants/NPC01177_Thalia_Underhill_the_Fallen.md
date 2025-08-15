@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Underhill the Fallen", "thalia underhill the fallen", "Thalia Underhill Fallen", "Fallen the Underhill Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Underhill the Fallen
 
 *Genasi Caravan Master (Merchants), Age 46, Non-binary*
@@ -13,7 +19,6 @@
 Short and heavyset, with Wild and unkempt silver hair and Violet eyes. Freckled skin. Birthmark shaped like a constellation.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Never uses people's real names
@@ -36,27 +41,22 @@ Former adventurer who retired to open a shop A prophetic dream has been haunting
 - **Short Term**: Survive until next week
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Wynne Winterborn the Guardian (Political - Spy)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Fiora Underhill the Wise (Personal - Nemesis)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ### Ysara Stormwind the Risen (Professional - Mentor)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
 
-
 ### Lyanna Quicksilver the Mystic (Political - Puppet)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Is actually a spy for foreign power

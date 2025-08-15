@@ -192,3 +192,7 @@ This NPC can serve multiple roles:
 - **Rival**: [[High Priest Oceanus Deepflow]]
 - **Victim**: [[Portrait NPC Oracle Nerida the Tidereader V1 Oracle Nerida the Tidereader.svg]]
 - **Child**: [[Assets Locations Location City Master Archivist Valdric Stonewhisper V1 Master Archivist Valdric Stonewhisper.svg]]
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-reef-guard-captain-torrent-shellborn-reef-guard-captain-torrent-shellborn.svg]]

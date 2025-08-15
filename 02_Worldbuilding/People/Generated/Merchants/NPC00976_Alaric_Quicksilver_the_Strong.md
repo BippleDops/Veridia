@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Quicksilver the Strong", "alaric quicksilver the strong", "Alaric Quicksilver Strong", "Strong the Quicksilver Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Quicksilver the Strong
 
 *Elf Broker (Merchants), Age 24, Male*
@@ -36,7 +42,6 @@ Inherited a failing business and turned it around A family member's death has le
 - **Short Term**: Avoid the authorities
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Ysara Oakenshield the Wanderer (Personal - Ex-lover)
 - **Status**: Mutually beneficial
@@ -62,11 +67,9 @@ Inherited a failing business and turned it around A family member's death has le
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
 
-
 ### Wynne Ravenheart the Redeemed (Criminal - Handler)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Killed previous business owner

@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Xendar the Wanderer", "caelum xendar the wanderer", "Caelum Xendar Wanderer", "Wanderer the Xendar Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Xendar the Wanderer
 
 *Firbolg Trader (Merchants), Age 54, Male*
@@ -13,7 +19,6 @@
 Towering and lanky, with Tied back silver hair and Heterochromic eyes. Weathered skin. Burn scars on one side of face.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Speaks to inanimate objects; Always tells the absolute truth
@@ -36,12 +41,10 @@ Inherited a failing business and turned it around A family member's death has le
 - **Short Term**: Recruit new members
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Nerys Lightbringer the Bold (Family - Spouse)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ### Alaric Darkwater the Bold (Criminal - Handler)
 - **Status**: On the verge of collapse
@@ -51,7 +54,6 @@ Inherited a failing business and turned it around A family member's death has le
 ### Elric Ironforge the Mystic (Personal - Ex-lover)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Smuggles illegal magical items

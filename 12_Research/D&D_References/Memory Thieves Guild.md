@@ -71,3 +71,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Memory Merchant Zephyr Mindweaver]]
+- [[Memory Merchant Zephyr Mindweaver (D&D_Statblocks)]]

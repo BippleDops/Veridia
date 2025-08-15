@@ -177,3 +177,10 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[death-slaad-xmm (aberration)]]
+- [[Artifact Properties Major Detrimental Properties Xdmg]]
+- [[Artifact Properties Major Detrimental]]
+- [[artifact-properties-major-detrimental-properties]]

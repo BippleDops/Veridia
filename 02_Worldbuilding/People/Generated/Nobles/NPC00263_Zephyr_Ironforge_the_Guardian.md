@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Ironforge the Guardian", "zephyr ironforge the guardian", "Zephyr Ironforge Guardian", "Guardian the Ironforge Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Ironforge the Guardian
 
 *Elf Courtier (Nobles), Age 38, Female*
@@ -42,16 +48,13 @@ Recently elevated to nobility through service, still learning courtly ways A pro
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Cedric Proudmore (Political - Opposition)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Malakai Hawthorne the Seeker (Criminal - Accomplice)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Practicing forbidden magic

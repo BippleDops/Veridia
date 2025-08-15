@@ -75,3 +75,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
+
+## References
+
+- [[Illithilich Vgm (undead)]]
+- [[illithilich-vgm (undead)]]
+- [[3 Bestiary]]
+- [[3-bestiary (volos-guide-to-monsters)]]

@@ -1,4 +1,5 @@
 ---
+aliases: ["Shadow Devourer", "shadow devourer", "Devourer Shadow"]
 tags: [generated]
 id: MON0024_Shadow_Devourer
 created: 2025-08-15T04:09:51.427Z
@@ -27,7 +28,6 @@ A terrifying creature that stalks its prey from the shadows
 
 ---
 *Generated: 2025-08-15T03:21:47.463Z*
-
 
 ## Habitat
 - Natural environment and territories

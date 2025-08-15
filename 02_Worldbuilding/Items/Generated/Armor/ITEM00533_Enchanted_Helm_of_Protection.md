@@ -1,3 +1,9 @@
+---
+aliases: ["Enchanted Helm of Protection", "enchanted helm of protection", "Protection of Helm Enchanted"]
+tags: [item, equipment]
+type: item
+---
+
 # Enchanted Helm of Protection
 
 *Armor, Uncommon*
@@ -14,8 +20,6 @@ A enchanted helm bearing ancient runes
 - +2 to AC
 - No stealth disadvantage
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -30,7 +34,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.391Z*

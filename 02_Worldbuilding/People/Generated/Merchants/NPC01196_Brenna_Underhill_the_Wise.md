@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Underhill the Wise", "brenna underhill the wise", "Brenna Underhill Wise", "Wise the Underhill Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Underhill the Wise
 
 *Halfling Broker (Merchants), Age 21, Non-binary*
@@ -42,11 +48,9 @@ Inherited a failing business and turned it around They recently discovered a sec
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Elric Frostwhisper the Swift (Family - Child)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ### Delara Emberfall the Swift (Political - Spy)
 - **Status**: Complicated history

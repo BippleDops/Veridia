@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Jadeclaw the Wise", "xander jadeclaw the wise", "Xander Jadeclaw Wise", "Wise the Jadeclaw Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Jadeclaw the Wise
 
 *Half-Orc Wizard (Adventurers), Age 39, Male*
@@ -36,17 +42,14 @@ Seeking vengeance for a murdered mentor Strange abilities have begun manifesting
 - **Short Term**: Make this month's payment
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Hestara Crystalbrook the Redeemed (Family - Parent)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Erasmus Ashford the Redeemed (Personal - Best friend)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
-
 
 ### Baelor Silverleaf the Cunning (Political - Spy)
 - **Status**: One-sided affection
@@ -56,7 +59,6 @@ Seeking vengeance for a murdered mentor Strange abilities have begun manifesting
 ### Gareth Youngblood the Cunning (Personal - Love interest)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Possessed by ancient spirit

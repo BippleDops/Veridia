@@ -1,4 +1,5 @@
 ---
+aliases: ["Secret of the Hero's Sacrifice", "secret of the hero's sacrifice", "Secret of Hero's Sacrifice", "Sacrifice Hero's the of Secret"]
 tags: [generated]
 id: LORE0029_Secret_of_the_Hero's_Sacrifice
 created: 2025-08-15T04:09:51.135Z

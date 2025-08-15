@@ -238,13 +238,11 @@ Spy Games is a notable location characterized by its unique features and strateg
 ### Founding
 Spy Games was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -252,13 +250,11 @@ Spy Games was established in the distant past, growing from humble beginnings to
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -327,7 +323,6 @@ Mentioned in The Hidden Prophecy of Shadows
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions

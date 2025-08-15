@@ -1,11 +1,11 @@
 ---
+aliases: ["Aldric Ironforge", "aldric ironforge", "Ironforge Aldric"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Born into a noble family but cast out for scandal. Years ago, they survived a pl
 ### Skills
 Arcana, Investigation, Deception, Perception
 
-
-
 ## Possessions
 - 44 gold pieces
 - Family heirloom (locket)
@@ -92,7 +90,6 @@ Arcana, Investigation, Deception, Perception
 
 ---
 *Generated: 2025-08-15T03:21:04.031Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Nightfall the Broken", "lyanna nightfall the broken", "Lyanna Nightfall Broken", "Broken the Nightfall Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Nightfall the Broken
 
 *Elf Trader (Merchants), Age 30, Male*
@@ -13,7 +19,6 @@
 Tall and heavyset, with Mohawk unusual color hair and Green eyes. Freckled skin. Crooked nose from multiple breaks.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Extremely superstitious about everything
@@ -36,37 +41,30 @@ Built their business from nothing through cunning and hard work A prophetic drea
 - **Short Term**: Sabotage competition
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Corvus Oakenshield the Fallen (Professional - Employee)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Qadim Emberfall the Wise (Family - Sibling)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
-
 
 ### Qadim Dawnstrider the Redeemed (Family - Spouse)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Cedric Silverleaf the Broken (Professional - Partner)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ### Gavril Oakenshield the Wise (Personal - Ex-lover)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Gavril Underhill the Seeker (Personal - Love interest)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Smuggles illegal magical items

@@ -1,3 +1,9 @@
+---
+aliases: ["Personal Quest 227", "personal quest 227", "227 Quest Personal"]
+tags: [quest, adventure]
+type: quest
+---
+
 # Personal Quest 227
 
 *Personal Quest*

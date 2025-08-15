@@ -98,3 +98,7 @@ improvements: 20
 - A shipment has gone missing and truth emerges
 - A journal reveals a conspiracy about the cult
 - Someone is hunting a witness for money
+
+## References
+
+- [[02_Worldbuilding_Lore_Planar_Breaches_of_Aquabyssos]]

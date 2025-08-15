@@ -1,3 +1,9 @@
+---
+aliases: ["Simple Spyglass of Convenience", "simple spyglass of convenience", "Convenience of Spyglass Simple"]
+tags: [item, equipment]
+type: item
+---
+
 # Simple Spyglass of Convenience
 
 *Mundane, Common*
@@ -13,8 +19,6 @@ A simple spyglass expertly crafted
 ## Properties
 - Provides comfort
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -29,7 +33,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.488Z*

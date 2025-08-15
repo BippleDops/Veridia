@@ -1,4 +1,5 @@
 ---
+aliases: ["In Search of Truth", "in search of truth", "Truth of Search In"]
 tags: [quest, adventure, generated]
 type: quest
 ---
@@ -20,8 +21,6 @@ Gain access to the sunken temple and complete the ritual
 
 ### Secondary
 - Maintain cover identity
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they once saved a noble's life and earned their favor, which changed their life forever. Now, circumstances demand immediate action.

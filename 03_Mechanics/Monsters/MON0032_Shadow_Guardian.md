@@ -1,4 +1,5 @@
 ---
+aliases: ["Shadow Guardian", "shadow guardian", "Guardian Shadow"]
 tags: [generated]
 id: MON0032_Shadow_Guardian
 created: 2025-08-15T04:09:51.429Z
@@ -28,7 +29,6 @@ A being of pure elemental energy given form
 
 ---
 *Generated: 2025-08-15T03:21:47.464Z*
-
 
 ## Habitat
 - Natural environment and territories

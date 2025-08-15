@@ -133,3 +133,9 @@ Tide Singers represents a crucial aspect of the world's history, cosmology, or f
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Factions the Tide Singers]]
+- [[System Cli Spells School Enchantment]]
+- [[System Cli Spells School Illusion]]

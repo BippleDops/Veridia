@@ -188,3 +188,7 @@ This NPC can serve multiple roles:
 - [[02_Worldbuilding_People_Admiral_Marina_Stormcrest]] (friend)
 ---
 *Tags*: #npc #contact #worldbuilding
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-foreman-prime-salvage-maste-foreman-prime-salvage-maste.svg]]

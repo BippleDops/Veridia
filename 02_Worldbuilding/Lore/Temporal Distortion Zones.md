@@ -59,7 +59,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -137,7 +137,7 @@ Working with temporal manipulation creates unique dangers requiring specialized 
 - **Paradox Detection Arrays**: Networks monitoring for temporal contradictions that could destabilize reality
 - **Emergency Temporal Evacuation**: Rapid extraction systems for personnel in temporal danger
 - **Temporal [[Shield]]ing**: Personal protection equipment for workers in distorted time fields
-- **[[[[Reality Anchor Network]]s]]**: Systems maintaining stable causality within and around temporal zones
+- **[[Reality Anchor Network|[[Reality Anchor Network]]s]]**: Systems maintaining stable causality within and around temporal zones
 
 **Containment Protocols:**
 Sophisticated containment systems manage temporal effects:
@@ -154,7 +154,7 @@ Complex interface systems enable safe interaction between normal time and tempor
 
 **Interface Components:**
 - **Temporal Transition Chambers**: Facilities enabling safe passage between different temporal flow rates
-- **Chronological [[Communication Systems]]**: Technology enabling communication across temporal boundaries
+- **Chronological [[Communication_Systems|Communication Systems]]**: Technology enabling communication across temporal boundaries
 - **Temporal Synchronization Networks**: Systems coordinating activities across different temporal flow rates
 - **Time-Differential Compensation**: Equipment enabling normal function despite temporal variations
 - **Temporal Status Monitoring**: Continuous tracking of temporal conditions throughout Zone facilities
@@ -449,7 +449,7 @@ Involvement with Temporal Distortion Zones provides unique opportunities for cha
 - [[Aethermoor]] - Partner civilization for cross-dimensional temporal research
 - [[Resoce Chamber]] - Related facility providing acoustic research supporting temporal studies
 - [[Umbral Exchange]] - Interdimensional facility utilizing temporal coordination systems
-- [[[[The Crown]] Authority|[[02 Worldbuilding]]/[[Groups]]/The Crown Authority]] - Government organization overseeing temporal research
+- [[The Crown|[[The Crown]] Authority|[[02_Worldbuilding|02 Worldbuilding]]/[[Groups]]/The Crown Authority]] - Government organization overseeing temporal research
 - [[Chief Temporal Engineer Paradox Timeweaver|02 Worldbuilding/[[People]]/Chief Temporal Engineer Paradox Timeweaver]] - Director of Chronological Research
 - [[Senior Temporal Engineer Chronos Fieldwright|02 Worldbuilding/People/Senior Temporal Engineer Chronos Fieldwright]] - Temporal field generation specialist
 - [[Paradox Analyst Echo Causality|02 Worldbuilding/People/Paradox Analyst Echo Causality]] - Paradox prevention expert
@@ -467,7 +467,7 @@ Temporal Distortion Zones is a undersea element of the setting, known for biolum
 
 Legends speak of Temporal Distortion Zones as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Temporal Distortion Zones.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -479,3 +479,11 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
+## References
+
+- [[Depth Effect Quick Reference]]
+- [[Initiative Tracker (02_Worldbuilding)]]
+- [[Random Encounters]]
+- [[Depth Effect Quick Reference (D&D_References)]]
+- [[Initiative Tracker (D&D_References)]]
+- [[Random Encounters (D&D_Statblocks)]]

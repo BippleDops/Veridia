@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -71,7 +71,7 @@ Temporal Echo represents a crucial aspect of the world's history, cosmology, or 
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -82,3 +82,18 @@ Temporal Echo represents a crucial aspect of the world's history, cosmology, or 
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Stars
+
+## References
+
+- [[Temporal Anomaly Resolution]]
+- [[The Final Choice]]
+- [[The Tethyan Hegemony]]
+- [[Crystal Caverns]]
+- [[Surface Signals]]
+- [[The Great Drowning]]
+- [[The Primordial Vaults]]
+- [[The Reflection Pools]]
+- [[The Seven Shards Mystery]]
+- [[The Void Tears]]
+- [[Whisper-Touched William]]
+- [[Session 07 the Convergence Approaches]]

@@ -199,3 +199,8 @@ Member of House Lionblood - Trait: divine blood
 - **Enemy**: [[Captain Valeria]]
 - **Student**: [[Portrait NPC Abyssos Prime Government V2 Abyssos Prime Government.svg]]
 - **Blackmailer**: [[Captain Nerion Deepward]]
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-magical-component-manufacturers-guil-magical-component-manufacturers-guil.svg]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-stellar-commander-nereus-voidcaller-stellar-commander-nereus-voidcaller.svg]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Ironwood the Lost", "baelor ironwood the lost", "Baelor Ironwood Lost", "Lost the Ironwood Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Ironwood the Lost
 
 *Goliath Blacksmith (Commoners), Age 64, Male*
@@ -36,12 +42,10 @@ Former soldier trying to adjust to civilian life They've been marked by a secret
 - **Short Term**: Avoid the authorities
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Felicia Blackstone the Wise (Personal - Ex-lover)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ### Solas Quicksilver the Fallen (Criminal - Informant)
 - **Status**: Strained but maintaining

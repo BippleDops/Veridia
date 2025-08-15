@@ -74,7 +74,7 @@ improvements: 20
 
 ## Overview
 
-[[[[[[Economic System]]s and Currency]] (D&D_References)]] Rules represents a crucial aspect of the world's history, cosmology, or fundamental nature.
+[[Economic_System|[[[[Economic System]]s and Currency]] (D&D_References)]] Rules represents a crucial aspect of the world's history, cosmology, or fundamental nature.
 
 ---
 
@@ -125,7 +125,6 @@ Mentioned in The Second Prophecy of Shadows
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## Campaign Notes
 *How this connects to the ongoing campaign*

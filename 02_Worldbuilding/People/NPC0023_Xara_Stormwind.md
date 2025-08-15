@@ -1,8 +1,8 @@
 ---
+aliases: ["Xara Stormwind", "xara stormwind", "Stormwind Xara"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,7 +76,6 @@ Perception, Investigation, Stealth
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 105 gold pieces
 - Map to unknown location
@@ -88,7 +87,6 @@ Perception, Investigation, Stealth
 
 ---
 *Generated: 2025-08-15T03:20:13.074Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

@@ -138,3 +138,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Weasel Xmm]]
+- [[weasel-xmm (beast)]]
+- [[2 Appendix a Miscellaneous Creatures]]
+- [[2-appendix-a-miscellaneous-creatures (monster-manual-2014)]]
+- [[3 Animals]]
+- [[3-animals (monster-manual-2025)]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[10-appendix-b-creature-stat-blocks (players-handbook-2024)]]
+- [[Bag of Tricks Gray Xdmg]]
+- [[bag-of-tricks-gray-xdmg (items)]]
+- [[Find Familiar Xphb]]
+- [[find-familiar-xphb (spells)]]
+- [[Monsters by Habitat Forest Monsters Xmm]]
+- [[Monsters by Habitat Grassland Monsters Xmm]]
+- [[Monsters by Habitat Hill Monsters Xmm]]
+- [[monsters-by-habitat-forest-monsters-xmm (tables)]]
+- [[monsters-by-habitat-grassland-monsters-xmm (tables)]]
+- [[monsters-by-habitat-hill-monsters-xmm (tables)]]

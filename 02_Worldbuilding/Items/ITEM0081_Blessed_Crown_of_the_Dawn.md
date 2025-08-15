@@ -1,4 +1,5 @@
 ---
+aliases: ["Blessed Crown of the Dawn", "blessed crown of the dawn", "Blessed Crown of Dawn", "Dawn the of Crown Blessed"]
 tags: [generated]
 id: ITEM0081
 created: 2025-08-15T04:09:51.104Z

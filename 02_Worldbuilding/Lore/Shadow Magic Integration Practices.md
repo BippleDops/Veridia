@@ -44,7 +44,7 @@ improvements: 20
 *The Art of Living with Darkness Made Light*
 
 > *"Shadow magic is not the absence of light, but light's intimate partner in the dance of existence. In the years since the Catastrophe tore reality asunder, we have learned that darkness need not be feared—it must be embraced, understood, and woven into the very fabric of our daily lives. Through careful practice and cultural evolution, shadow has become not our enemy, but our most reliable ally in navigating a world where the boundaries between light and dark, reality and dream, safety and danger have become beautifully, terrifyingly fluid."*
-> — [[Master Shadow Harmonist Penumbra Duskweaver]], Director of [[The [[Integration Institute]]]]
+> — [[Master Shadow Harmonist Penumbra Duskweaver]], Director of [[Integration Institute|The [[Integration Institute]]]]
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -60,7 +60,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -509,7 +509,7 @@ Shadow magic integration has influenced how communities organize and govern them
 - **Policy Development**: Community processes for creating shadow magic-related policies and regulations
 - **Regional Cooperation**: Inter-community cooperation on shadow magic integration initiatives
 
-**[[Economic System]] Evolution:**
+**[[Economic_System|Economic System]] Evolution:**
 - **Integration Economics**: Economic theories and practices incorporating shadow magic as economic factor
 - **Resource Sharing**: Community systems for sharing shadow magic resources and capabilities
 - **Cooperative Enterprises**: Business organizations based on shadow magic integration principles
@@ -683,7 +683,7 @@ Shadow Magic Integration Practices is a undersea element of the setting, known f
 
 Legends speak of Shadow Magic Integration Practices as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Magic Integration Practices.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -732,3 +732,12 @@ Mentioned in The First Prophecy of Shadows
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Silver Mask]]
+- [[Umbral Exchange]]
+- [[Master_Lore_Index]]
+- [[Silver Mask (D&D_References)]]
+- [[Umbral Exchange (D&D_References)]]

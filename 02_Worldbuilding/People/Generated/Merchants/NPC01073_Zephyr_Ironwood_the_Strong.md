@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Ironwood the Strong", "zephyr ironwood the strong", "Zephyr Ironwood Strong", "Strong the Ironwood Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Ironwood the Strong
 
 *Genasi Caravan Master (Merchants), Age 24, Female*
@@ -36,7 +42,6 @@ Former adventurer who retired to open a shop Strange abilities have begun manife
 - **Short Term**: Gather information
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Jorah Stormwind the Redeemed (Criminal - Target)
 - **Status**: Secretly hostile
@@ -52,7 +57,6 @@ Former adventurer who retired to open a shop Strange abilities have begun manife
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Elric Oakenshield the Seeker (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
@@ -62,11 +66,9 @@ Former adventurer who retired to open a shop Strange abilities have begun manife
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Elric Ravenheart the Scholar (Criminal - Target)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Smuggles illegal magical items

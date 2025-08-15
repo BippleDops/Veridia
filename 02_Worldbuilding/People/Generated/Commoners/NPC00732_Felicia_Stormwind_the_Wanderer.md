@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Stormwind the Wanderer", "felicia stormwind the wanderer", "Felicia Stormwind Wanderer", "Wanderer the Stormwind Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Stormwind the Wanderer
 
 *Human Carpenter (Commoners), Age 42, Male*
@@ -13,7 +19,6 @@
 Average height and compact, with Wild and unkempt unusual color hair and Amber eyes. Dark skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Laughs at the most inappropriate times; Flirts with everyone regardless of interest; Incredibly optimistic despite evidence
@@ -42,11 +47,9 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Hestara Grimholt the Broken (Professional - Rival)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ### Vesper Zephyrblade the Mystic (Criminal - Accomplice)
 - **Status**: Strained but maintaining

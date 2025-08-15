@@ -42,7 +42,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-brother-matthias-the-amber-bearer-brother-matthias-the-amber-bearer.svg)
 
@@ -50,7 +49,6 @@ improvements: 20
 
 # Brother Matthias the Amber Bearer
 *Unwitting Guardian of the Amber Shard, The Righteous Crusader*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -395,7 +393,6 @@ Legends speak of Brother Matthias the Amber Bearer as a nexus where past and pre
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -431,3 +428,10 @@ Legends speak of Brother Matthias the Amber Bearer as a nexus where past and pre
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Stop the Shadow Harvest (Criminal_Organizations)]]
+- [[Assets Portraits Portrait NPC Lord Admiral Gaius Windcutter Lord Admiral Gaius Windcutter.svg]]
+- [[Assets Symbols Symbol Heraldry Frequency Weapons Frequency Weapons.svg]]
+- [[Stop the Shadow Harvest]]

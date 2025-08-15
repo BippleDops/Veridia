@@ -47,7 +47,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -91,7 +91,7 @@ improvements: 20
 
 ## Overview
 
-The Phosphor Markets are a massive floating collection of bioluminescent platforms, ships, and structures that drift through [[The Gloom Gardens]], never staying in one location for more than a week. This mobile marketplace is the economic heart of [[[[Aquabyssos]] [[World Overview]]]], where all factions trade despite political tensions. The market's neutrality is enforced by the [[[[Merchant]]'s Covet]], a powerful trading guild that predates [[The Drowning]].
+The Phosphor Markets are a massive floating collection of bioluminescent platforms, ships, and structures that drift through [[The Gloom Gardens]], never staying in one location for more than a week. This mobile marketplace is the economic heart of [[Aquabyssos|[[Aquabyssos]] [[World Overview]]]], where all factions trade despite political tensions. The market's neutrality is enforced by the [[Merchant|[[Merchant]]'s Covet]], a powerful trading guild that predates [[The Drowning]].
 
 ### The Central Exchange
 
@@ -103,7 +103,7 @@ Living market stalls made from cultivated bioluminescent [[Coral]] and kelp. [[M
 
 ### The Deep Bazaar
 
-Lower platforms dealing in goods from the dangerous depths. [[Trader Grimm Voidheart]] specializes in items from [[The Cerulean Trench]] and [[The [[Hadal Depths]]]].
+Lower platforms dealing in goods from the dangerous depths. [[Trader Grimm Voidheart]] specializes in items from [[The Cerulean Trench]] and [[Hadal Depths|The [[Hadal Depths]]]].
 
 ### The Memory Lane
 
@@ -157,7 +157,7 @@ The market moves on a semi-predictable route:
 ## Current Events
 
 1. Rare [[Depth Crystals]] from the trench flooding the market
-2. [[The [[Free Current]]]] planning major heist
+2. [[Free Current|The [[Free Current]]]] planning major heist
 3. Mysterious buyer purchasing all memory bubbles
 4. Faction tensions threatening market neutrality
 5. Guardian creatures acting strangely aggressive
@@ -171,7 +171,7 @@ The market moves on a semi-predictable route:
 > - The market's movement pattern is spelling out a summoning ritual
 > - Several [[Prominent Merchant]]s are information brokers for all factions
 
-## [[[[Random Encounter]]s]] (d12)
+## [[Random Encounter|[[Random Encounter]]s]] (d12)
 
 1. Merchant hawking "genuine" pre-drowning artifacts
 2. Pickpocket attempting theft
@@ -245,7 +245,7 @@ The market's constant movement creates dangerous pressure variations:
 
 The markets are protected by ancient covet-bound entities:
 
-#### The [[[[Krake]]n]]'s Debt Collector
+#### The [[Krake|[[Krake]]n]]'s Debt Collector
 
 *Huge monstrosity, lawful neutral*
 - Enforces payment of debts and market fees
@@ -470,7 +470,7 @@ Legends speak of The Phosphor Markets as a nexus where past and present converge
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -486,13 +486,11 @@ The Phosphor Markets is a notable location characterized by its unique features 
 ### Founding
 The Phosphor Markets was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -500,13 +498,11 @@ The Phosphor Markets was established in the distant past, growing from humble be
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -536,7 +532,6 @@ The Phosphor Markets was established in the distant past, growing from humble be
 - Civil war
 - Natural disasters
 - Current [[Power Structures]] established
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -573,3 +568,11 @@ The Phosphor Markets was established in the distant past, growing from humble be
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Lumengarde]]
+- [[Maelstrom Palace]]
+- [[Abyssos Prime - Pressure Terminal (D&D_References)]]
+- [[Lumengarde (D&D_References)]]

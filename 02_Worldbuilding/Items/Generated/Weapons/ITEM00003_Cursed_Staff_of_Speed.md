@@ -1,3 +1,9 @@
+---
+aliases: ["Cursed Staff of Speed", "cursed staff of speed", "Speed of Staff Cursed"]
+tags: [item, equipment]
+type: item
+---
+
 # Cursed Staff of Speed
 
 *Weapons, Common*
@@ -13,8 +19,6 @@ A cursed staff forged from meteoric iron
 ## Properties
 - +2 to attack and damage rolls
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -29,7 +33,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.342Z*

@@ -194,3 +194,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[ancient-copper-dragon-xmm (dragon)]]
+- [[Hill Encounters Levels 1116 Xge]]
+- [[Hill Encounters Levels 1720 Xge]]
+- [[Monsters by Habitat Hill Monsters Xmm]]
+- [[hill-encounters-levels-1116-xge (tables)]]
+- [[hill-encounters-levels-1720-xge (tables)]]
+- [[monsters-by-habitat-hill-monsters-xmm (tables)]]

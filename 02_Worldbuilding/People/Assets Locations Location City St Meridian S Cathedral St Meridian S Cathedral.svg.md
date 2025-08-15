@@ -189,3 +189,8 @@ This NPC can serve multiple roles:
 1. **Catalyst Event**: Betrayal
 2. **Challenge**: Must overcome external threat
 3. **Growth Moment**: Learns acceptance
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-enchanter-valdris-peacewarden-enchanter-valdris-peacewarden.svg]]
+- [[04_Resources_Assets_Locations_location-city-spymaster-crow-v1-spymaster-crow.svg]]

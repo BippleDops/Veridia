@@ -73,3 +73,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Strange disappearances suggest a conspiracy
 - A prisoner has gone missing and truth emerges
 - A stranger needs help investigating before winter
+
+## References
+
+- [[Gods of Greyhawk Xdmg]]
+- [[gods-of-greyhawk-xdmg (tables)]]

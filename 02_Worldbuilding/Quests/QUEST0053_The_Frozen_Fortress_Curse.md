@@ -1,4 +1,5 @@
 ---
+aliases: ["The Frozen Fortress Curse", "the frozen fortress curse", "Curse Fortress Frozen The"]
 tags: [generated]
 id: QUEST0053
 created: 2025-08-15T04:09:51.393Z
@@ -22,8 +23,6 @@ Map the uncharted the sunken temple and report findings
 ### Secondary
 - Rescue any prisoners found
 - Rescue any prisoners found
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they was falsely accused of a crime, which changed their life forever. Now, circumstances demand immediate action.
@@ -61,8 +60,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Show mercy and gain intel - Future ally but justice denied
 2. Execute for crimes committed - Justice served but opportunity lost
-
-
 
 ## Rewards
 ### On Success

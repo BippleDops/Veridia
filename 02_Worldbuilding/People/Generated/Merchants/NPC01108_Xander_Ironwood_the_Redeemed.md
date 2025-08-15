@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Ironwood the Redeemed", "xander ironwood the redeemed", "Xander Ironwood Redeemed", "Redeemed the Ironwood Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Ironwood the Redeemed
 
 *Elf Shopkeeper (Merchants), Age 58, Non-binary*
@@ -36,12 +42,10 @@ Uses their business as cover for other activities An old debt has come due at th
 - **Short Term**: Gather information
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Elric Lightbringer the Wanderer (Political - Spy)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
-
 
 ### Delara Silverleaf the Cunning (Family - Child)
 - **Status**: Secretly hostile
@@ -56,7 +60,6 @@ Uses their business as cover for other activities An old debt has come due at th
 ### Urien Blackstone the Cunning (Family - Spouse)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Is actually a spy for foreign power

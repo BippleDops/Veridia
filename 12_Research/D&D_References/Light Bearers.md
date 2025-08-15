@@ -56,3 +56,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[The Shadow Conspiracy (Criminal_Organizations)]]
+- [[The Shadow Conspiracy]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure (D&D_References)]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure 3 (D&D_References)]]

@@ -79,7 +79,6 @@ creature: Custom NPC
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
 
-
 ## See Also
 - Related content
 - Similar topics
@@ -99,3 +98,16 @@ creature: Custom NPC
 | 4  | Option D |
 | 5  | Option E |
 | 6  | Option F |
+
+## References
+
+- [[step_017_implement_audio_organization]]
+- [[Character Backstories_Quick_Ref]]
+- [[Complete NPC Matrix]]
+- [[Topic_Matrix (Indexes)]]
+- [[final_link_repair_20250814_175237]]
+- [[optimization_report_20250814_180743 (13_Performance)]]
+- [[step_005_create_quality_assessment]]
+- [[step_011_create_faction_symbols]]
+- [[step_012_build_creature_pipeline]]
+- [[step_020_implement_audio_mixing]]

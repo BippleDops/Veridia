@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-sage-lysander-deepthought-sage-lysander-deepthought.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -232,7 +230,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -268,3 +265,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Abyssal Academy]]
+- [[Assets Locations Location City Harbor Master Tideshade Harbor Master Tideshade.svg]]
+- [[Assets Locations Location City Harbor Master Tideshade V1 Harbor Master Tideshade.svg]]
+- [[Assets Portraits Portrait NPC Captain Steelhart Captain Steelhart.svg]]
+- [[The Cerulean Trench]]
+- [[The Infinite Garden]]
+- [[The Void Touched Depths]]
+- [[The Cerulean Trench (D&D_References)]]
+- [[The Void Touched Depths (D&D_Statblocks)]]

@@ -37,7 +37,7 @@ improvements: 20
 *Social Standing in the Merged Realms*
 
 > *"In a world where surface and depth have collided, your reputation isn't just about what [[People]] think of you—it's about survival. The wrong word in the right place can seal borders, start wars, or save civilizations. Every action echoes through both realms, and memory runs deeper than the ocean trenches."*
-> — [[Social Navigator [[Coral]] Diplomacy]], Master of Cross-Realm Relations
+> — [[Coral|Social Navigator [[Coral]] Diplomacy]], Master of Cross-Realm Relations
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -53,7 +53,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -196,7 +196,7 @@ Actions affecting one faction often impact others based on their relationships:
 - Undermining royal authority: -5 to -15
 - Threatening royal family: -15 to -30
 
-#### [[The [[Silverscale Consortium]]]]
+#### [[Silverscale Consortium|The [[Silverscale Consortium]]]]
 
 **Leadership**: [[Director Hadrian Silverscale]] and the Board
 **Values**: Profit, efficiency, innovation, market domice
@@ -215,7 +215,7 @@ Actions affecting one faction often impact others based on their relationships:
 
 #### The [[Deep Guard]]
 
-**Leadership**: [[[[Captain Nautilus]] Deepwatch]] and the Command Structure
+**Leadership**: [[Captain Nautilus|[[Captain Nautilus]] Deepwatch]] and the Command Structure
 **Values**: Duty, protection, law enforcement, citizen safety
 **Benefits by Reputation Level**:
 - **Honored+**: Legal assistance, guard cooperation
@@ -537,7 +537,7 @@ Reputation naturally decays over [[Time]] without maintece:
 **Unknown Standings**:
 Some factions maintain secret reputation scores:
 - **Spy Networks**: Track character without their knowledge
-- **[[Criminal Organizations]]**: Monitor threats and opportunities
+- **[[Criminal_Organizations|Criminal Organizations]]**: Monitor threats and opportunities
 - **Religious Cults**: Judge theological compatibility
 - **Secret Societies**: Evaluate membership potential
 
@@ -679,7 +679,7 @@ Faction relationships create complex political networks:
 
 - **[[Diplomatic Corps]]**: Professional reputation management services
 - **[[Social Intelligence Network]]**: Reputation monitoring and analysis
-- **[[Cross-Realm [[Cultural Exchange]]]]**: Reputation building between realms
+- **[[Cultural Exchange|Cross-Realm [[Cultural Exchange]]]]**: Reputation building between realms
 - **[[Reputation Recovery Services]]**: Professional reputation rehabilitation
 - **[[Groups]]**: Strategic reputation campaign management
 
@@ -693,7 +693,7 @@ Reputation System is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Reputation System as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Reputation System.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -711,3 +711,19 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Someone is protecting a artifact for money
 - A stranger needs help delivering before the festival
 - Strange disappearances suggest a curse
+
+## References
+
+- [[Initiative Tracker (02_Worldbuilding)]]
+- [[Random Encounters]]
+- [[Silver Mask]]
+- [[The Restoration Movement]]
+- [[The Silverscale Conspiracy]]
+- [[Blood Current Express]]
+- [[Surface Tensions]]
+- [[The Depth Market]]
+- [[Initiative Tracker (D&D_References)]]
+- [[Silver Mask (D&D_References)]]
+- [[The Restoration Movement (D&D_References)]]
+- [[The Silverscale Conspiracy (D&D_References)]]
+- [[Random Encounters (D&D_Statblocks)]]

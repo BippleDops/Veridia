@@ -1,4 +1,5 @@
 ---
+aliases: ["Forgotten Pendant of Power", "forgotten pendant of power", "Power of Pendant Forgotten"]
 tags: [generated]
 id: ITEM0053
 created: 2025-08-15T04:09:51.095Z
@@ -19,8 +20,6 @@ Crafted from adamantine with glowing gems, in ancient but unbreakable. It emanat
 
 ## Quirk
 *Vibrates near magic*
-
-
 
 ## History
 This item was hidden away by its last owner decades ago. It has passed through many hands, each leaving their mark upon its destiny.

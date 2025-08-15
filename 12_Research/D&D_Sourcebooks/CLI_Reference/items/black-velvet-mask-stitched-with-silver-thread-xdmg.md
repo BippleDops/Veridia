@@ -69,3 +69,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[25 Gp Art Objects Xdmg]]
+- [[25 Gp Art Objects]]
+- [[25-gp-art-objects (tables)]]
+- [[25-gp-art-objects-xdmg (tables)]]

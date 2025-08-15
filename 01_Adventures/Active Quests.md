@@ -1,6 +1,5 @@
 ---
 
-
 title: Active Quests
 type: adventure
 tags:
@@ -177,7 +176,6 @@ An exciting quest that challenges heroes to uncover the truth.
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## Objectives
 - **Primary**: Main quest goal
 - **Optional**: Secondary objectives
@@ -226,3 +224,7 @@ An exciting quest that challenges heroes to uncover the truth.
 - Related content
 - Similar topics
 - Connected elements
+
+## References
+
+- [[Active_Quests (02_Worldbuilding)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Keenblade the Cunning", "kaelen keenblade the cunning", "Kaelen Keenblade Cunning", "Cunning the Keenblade Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Keenblade the Cunning
 
 *Halfling Cleric (Adventurers), Age 53, Female*
@@ -42,21 +48,17 @@ Seeking vengeance for a murdered mentor They're being blackmailed by someone fro
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
 
-
 ### Drusilla Brightblade the Broken (Professional - Employer)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
-
 
 ### Hilda Lightbringer the Mystic (Professional - Partner)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
 
-
 ### Aldric Crystalbrook the Swift (Professional - Mentor)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Has died and been resurrected

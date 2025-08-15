@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Jadeclaw the Swift", "vesper jadeclaw the swift", "Vesper Jadeclaw Swift", "Swift the Jadeclaw Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Jadeclaw the Swift
 
 *Firbolg Shopkeeper (Merchants), Age 32, Female*
@@ -13,7 +19,6 @@
 Short and wiry, with Shaved black hair and Violet eyes. Freckled skin. Unusual eye color for their race.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Sees doom and gloom everywhere
@@ -36,27 +41,22 @@ Inherited a failing business and turned it around A family member's death has le
 - **Short Term**: Recruit new members
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Kaelen Ashford the Swift (Criminal - Target)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Delara Silverleaf the Swift (Professional - Partner)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ### Delara Brightblade the Bold (Professional - Employee)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Zephyr Stormwind the Risen (Political - Spy)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
-
 
 ### Pyria Ashford the Wise (Criminal - Accomplice)
 - **Status**: Strong and trusting
@@ -66,7 +66,6 @@ Inherited a failing business and turned it around A family member's death has le
 ### Wynne Silverleaf the Wanderer (Personal - Love interest)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Running a cult from their basement

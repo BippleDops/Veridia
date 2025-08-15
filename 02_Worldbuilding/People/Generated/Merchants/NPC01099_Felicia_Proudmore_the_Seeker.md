@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Proudmore the Seeker", "felicia proudmore the seeker", "Felicia Proudmore Seeker", "Seeker the Proudmore Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Proudmore the Seeker
 
 *Tiefling Broker (Merchants), Age 58, Female*
@@ -13,7 +19,6 @@
 Tall and lanky, with Mohawk silver hair and Heterochromic eyes. Weathered skin. Gold tooth that glints when smiling.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Never uses people's real names; Sees doom and gloom everywhere
@@ -42,7 +47,6 @@ Inherited a failing business and turned it around A family member's death has le
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
 
-
 ### Rhiannon Oakenshield the Redeemed (Family - Cousin)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
@@ -52,21 +56,17 @@ Inherited a failing business and turned it around A family member's death has le
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Ysara Dawnstrider the Bold (Family - Child)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
-
 
 ### Erasmus Quicksilver the Cunning (Criminal - Fence)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Malakai Keenblade the Strong (Family - Sibling)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Smuggles illegal magical items

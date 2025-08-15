@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-lady-nexus-goldcurrent-lady-nexus-goldcurrent.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -202,7 +200,6 @@ Mentioned in The Second Prophecy of Depths
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Daily Routine
 - **Morning**: Typical activities

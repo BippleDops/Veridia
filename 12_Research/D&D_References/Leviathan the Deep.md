@@ -59,3 +59,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A letter reveals a betrayal about this place
 - A prisoner has gone missing and chaos spreads
 - Someone is blackmailing information for revenge
+
+## References
+
+- [[Angels and Depths]]
+- [[The Original Palace]]
+- [[Angels and Depths (D&D_References)]]
+- [[The Original Palace (D&D_References)]]

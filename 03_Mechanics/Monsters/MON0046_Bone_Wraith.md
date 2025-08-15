@@ -1,4 +1,5 @@
 ---
+aliases: ["Bone Wraith", "bone wraith", "Wraith Bone"]
 tags: [generated]
 id: MON0046_Bone_Wraith
 created: 2025-08-15T04:09:51.433Z
@@ -30,7 +31,6 @@ A collective consciousness acting as one
 
 ---
 *Generated: 2025-08-15T03:21:47.465Z*
-
 
 ## Habitat
 - Natural environment and territories

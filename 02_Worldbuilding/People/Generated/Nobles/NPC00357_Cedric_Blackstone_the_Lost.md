@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Blackstone the Lost", "cedric blackstone the lost", "Cedric Blackstone Lost", "Lost the Blackstone Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Blackstone the Lost
 
 *Halfling Noble (Nobles), Age 61, Non-binary*
@@ -36,12 +42,10 @@ Recently elevated to nobility through service, still learning courtly ways A cha
 - **Short Term**: Recruit new members
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Hestara Voidwalker the Strong (Political - Spy)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ### Corvus Stormwind the Lost (Criminal - Informant)
 - **Status**: One-sided affection
@@ -57,11 +61,9 @@ Recently elevated to nobility through service, still learning courtly ways A cha
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Malakai Moonshadow (Criminal - Informant)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Actually a bastard with no real claim

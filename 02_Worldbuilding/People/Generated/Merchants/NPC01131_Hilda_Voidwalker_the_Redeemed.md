@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Voidwalker the Redeemed", "hilda voidwalker the redeemed", "Hilda Voidwalker Redeemed", "Redeemed the Voidwalker Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Voidwalker the Redeemed
 
 *Half-Elf Appraiser (Merchants), Age 64, Non-binary*
@@ -52,11 +58,9 @@ Uses their business as cover for other activities They've fallen in love with so
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Felicia Silverleaf the Bold (Political - Patron)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ### Cedric Emberfall the Wise (Political - Patron)
 - **Status**: Complicated history
@@ -66,7 +70,6 @@ Uses their business as cover for other activities They've fallen in love with so
 ### Cedric Ironwood the Wanderer (Professional - Employee)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Killed previous business owner

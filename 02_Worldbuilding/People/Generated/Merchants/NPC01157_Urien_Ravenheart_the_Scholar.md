@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Ravenheart the Scholar", "urien ravenheart the scholar", "Urien Ravenheart Scholar", "Scholar the Ravenheart Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Ravenheart the Scholar
 
 *Dwarf Appraiser (Merchants), Age 43, Female*
@@ -13,7 +19,6 @@
 Towering and athletic, with Long and flowing black hair and Heterochromic eyes. Scarred skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Constantly quotes ancient texts; Believes in every conspiracy theory; Collects unusual and worthless objects
@@ -42,21 +47,17 @@ Former adventurer who retired to open a shop They've been marked by a secret soc
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Idris Hawthorne the Cunning (Criminal - Informant)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ### Aldric Keenblade the Seeker (Family - Parent)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Gavril Zephyrblade the Wanderer (Criminal - Informant)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Sells information to all sides

@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Oakenshield", "aldric oakenshield", "Oakenshield Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Oakenshield
 
 *Human Ambassador (Nobles), Age 19, Non-binary*
@@ -13,7 +19,6 @@
 Average height and compact, with Braided elaborately red hair and Gray eyes. Unusual hue skin. Prominent scar across the face.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Speaks to inanimate objects; Laughs at the most inappropriate times
@@ -36,17 +41,14 @@ Secretly adopted into nobility, living in fear of discovery A prophetic dream ha
 - **Short Term**: Find missing person
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Jorah Keenblade (Professional - Partner)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
 
-
 ### Aldric Goldleaf the Risen (Professional - Employee)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ### Lyanna Frostwhisper (Political - Opposition)
 - **Status**: One-sided affection
@@ -57,16 +59,13 @@ Secretly adopted into nobility, living in fear of discovery A prophetic dream ha
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Ysara Voidwalker (Family - Spouse)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Solas Proudmore (Family - Sibling)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Secretly funding the rebellion

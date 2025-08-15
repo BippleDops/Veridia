@@ -1,3 +1,9 @@
+---
+aliases: ["Primordial Crown of Destiny", "primordial crown of destiny", "Destiny of Crown Primordial"]
+tags: [item, equipment]
+type: item
+---
+
 # Primordial Crown of Destiny
 
 *Artifacts, Artifact*

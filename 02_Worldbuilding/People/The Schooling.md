@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-schooling-the-schooling.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -233,7 +231,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Natural disasters
 - Current power structures established
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -269,3 +266,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Portraits Portrait NPC Captain Dr Bloodletting Captain Dr Bloodletting.svg]]

@@ -143,3 +143,9 @@ Mentioned in The First Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Zuggtmoy Mtf]]
+- [[zuggtmoy-mtf (legendary-group)]]
+- [[gas-spore-fungus-xmm (plant)]]

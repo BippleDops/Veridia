@@ -1,4 +1,5 @@
 ---
+aliases: ["Legend of the Hero's Sacrifice", "legend of the hero's sacrifice", "Legend of Hero's Sacrifice", "Sacrifice Hero's the of Legend"]
 tags: [generated]
 id: LORE0061_Legend_of_the_Hero's_Sacrifice
 created: 2025-08-15T04:09:51.145Z

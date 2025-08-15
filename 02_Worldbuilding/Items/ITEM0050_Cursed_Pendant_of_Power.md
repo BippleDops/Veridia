@@ -1,4 +1,5 @@
 ---
+aliases: ["Cursed Pendant of Power", "cursed pendant of power", "Power of Pendant Cursed"]
 tags: [generated]
 id: ITEM0050
 created: 2025-08-15T04:09:51.094Z
@@ -19,8 +20,6 @@ Crafted from dragonscale with intricate runes, in pristine condition. It emanate
 
 ## Quirk
 *Vibrates near magic*
-
-
 
 ## History
 This item was reforged from broken artifacts centuries ago. It has passed through many hands, each leaving their mark upon its destiny.

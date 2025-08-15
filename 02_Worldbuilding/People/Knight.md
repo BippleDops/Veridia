@@ -147,7 +147,6 @@ Born into minor nobility, Theron earned his knighthood through valor during the 
 
 His armor bears the crystalline sigil of his order, and intricate engravings tell the story of his greatest victories. Most notably, the crystal embedded in his breastplate pulses with a gentle light—a fragment of the original Heart of Aethermoor, gifted to him by [[Queen Seraphina Lumengarde]] herself.
 
-
 ## Stats
 - **AC**: 12
 - **HP**: 22 (4d8)
@@ -193,7 +192,6 @@ His armor bears the crystalline sigil of his order, and intricate engravings tel
 **Primary**: Protect Aethermoor and its people from shadow corruption at any cost
 **Secondary**: Preserve the ideals of knighthood in a world growing increasingly gray
 **Hidden**: Find a way to permanently end the shadow threat while maintaining his own purity
-
 
 ## Secrets
 - Hidden information about this character
@@ -346,7 +344,6 @@ Mentioned in The Second Prophecy of Winds
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -382,3 +379,14 @@ Mentioned in The Second Prophecy of Winds
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Aethermoor Wind Rider Traditions]]
+- [[Merchant Family Alliances]]
+- [[Multi-Phase Boss Fights]]
+- [[Professional Terminology]]
+- [[deck-of-many-things#Knight]]
+- [[Assets Locations Location City Master Host Torrent Welcomeall V1 Master Host Torrent Welcomeall.svg]]
+- [[The Crystalline Foundry]]
+- [[The Order of the Shattered Crown]]

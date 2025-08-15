@@ -1,3 +1,9 @@
+---
+aliases: ["Frost Staff of Accuracy", "frost staff of accuracy", "Accuracy of Staff Frost"]
+tags: [item, equipment]
+type: item
+---
+
 # Frost Staff of Accuracy
 
 *Weapons, Legendary*
@@ -16,8 +22,6 @@ A frost staff forged from meteoric iron
 - Ignores resistance to damage type
 - Can strike ethereal creatures
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -32,7 +36,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.364Z*

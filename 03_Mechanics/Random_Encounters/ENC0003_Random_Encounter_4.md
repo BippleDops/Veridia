@@ -1,4 +1,5 @@
 ---
+aliases: ["Random Encounter 4", "random encounter 4", "4 Encounter Random"]
 tags: [generated]
 id: ENC0003_Random_Encounter_4
 created: 2025-08-15T04:09:51.436Z
@@ -18,11 +19,8 @@ Enemies coordinate attacks and use terrain to their advantage
 ## Treasure
 103 gp in various coins, plus one random magic item
 
-
-
 ---
 *Generated: 2025-08-15T03:21:47.436Z*
-
 
 ## Scaling by Party Level
 - **Level 1-4**: Reduce enemies

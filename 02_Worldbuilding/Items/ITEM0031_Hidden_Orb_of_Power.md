@@ -1,4 +1,5 @@
 ---
+aliases: ["Hidden Orb of Power", "hidden orb of power", "Power of Orb Hidden"]
 tags: [generated]
 id: ITEM0031
 created: 2025-08-15T04:09:51.087Z
@@ -19,8 +20,6 @@ Crafted from blessed silver with intricate runes, in pristine condition. It eman
 
 ## Quirk
 *Makes user sneeze in sunlight*
-
-
 
 ## History
 This item was lost in a great battle millennia ago. It has passed through many hands, each leaving their mark upon its destiny.

@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Brightblade the Guardian", "vesper brightblade the guardian", "Vesper Brightblade Guardian", "Guardian the Brightblade Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Brightblade the Guardian
 
 *Aasimar Fighter (Adventurers), Age 59, Male*
@@ -36,17 +42,14 @@ Seeking vengeance for a murdered mentor A family member's death has left them wi
 - **Short Term**: Sabotage competition
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Kaelen Hawthorne the Strong (Family - Child)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
 
-
 ### Erasmus Ironforge the Strong (Professional - Employee)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ### Jorah Nightfall the Redeemed (Personal - Childhood friend)
 - **Status**: On the verge of collapse
@@ -57,16 +60,13 @@ Seeking vengeance for a murdered mentor A family member's death has left them wi
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Branwen Stormwind the Cunning (Political - Opposition)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
 
-
 ### Baelor Crystalbrook the Fallen (Professional - Employee)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Secretly working for the villain

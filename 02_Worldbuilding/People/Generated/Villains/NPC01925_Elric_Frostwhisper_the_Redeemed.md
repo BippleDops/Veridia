@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Frostwhisper the Redeemed", "elric frostwhisper the redeemed", "Elric Frostwhisper Redeemed", "Redeemed the Frostwhisper Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Frostwhisper the Redeemed
 
 *Genasi Crime Boss (Villains), Age 49, Female*
@@ -13,7 +19,6 @@
 Towering and compact, with Wild and unkempt white hair and Hazel eyes. Tan skin. Burn scars on one side of face.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Extremely superstitious about everything; Compulsive liar about minor things
@@ -47,11 +52,9 @@ Driven mad by knowledge humanity wasn't meant to know A prophetic dream has been
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
 
-
 ### Cedric Ironforge the Fallen (Political - Ally)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ### Qadim Ironwood the Scholar (Criminal - Accomplice)
 - **Status**: Strong and trusting

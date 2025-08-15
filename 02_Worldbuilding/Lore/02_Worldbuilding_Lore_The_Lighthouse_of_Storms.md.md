@@ -2,7 +2,7 @@
 tags: ['[[Lore]]']
 ---
 
-# [[02 Worldbuilding]]/Lore/The [[Lighthouse of Storms]].md
+# [[02_Worldbuilding|02 Worldbuilding]]/Lore/The [[Lighthouse_of_Storms|Lighthouse of Storms]].md
 
 ## Overview
 

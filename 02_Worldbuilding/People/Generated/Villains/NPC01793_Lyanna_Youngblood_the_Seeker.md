@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Youngblood the Seeker", "lyanna youngblood the seeker", "Lyanna Youngblood Seeker", "Seeker the Youngblood Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Youngblood the Seeker
 
 *Goliath Assassin (Villains), Age 28, Non-binary*
@@ -36,22 +42,18 @@ Believes their evil acts serve a greater good They're being blackmailed by someo
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Wynne Zephyrblade the Swift (Family - Parent)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
 
-
 ### Nerys Lightbringer the Guardian (Political - Spy)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Aldric Ironwood the Wise (Political - Ally)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Has a child they're protecting

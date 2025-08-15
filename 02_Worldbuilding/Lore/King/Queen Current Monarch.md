@@ -94,3 +94,9 @@ King/Queen Current Monarch represents a crucial aspect of the world's history, c
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[King_Queen_Current_Monarch]]
+- [[Royal Palace]]
+- [[Royal Palace (D&D_References)]]

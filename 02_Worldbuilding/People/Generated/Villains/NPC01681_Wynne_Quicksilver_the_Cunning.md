@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Quicksilver the Cunning", "wynne quicksilver the cunning", "Wynne Quicksilver Cunning", "Cunning the Quicksilver Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Quicksilver the Cunning
 
 *Elf Crime Boss (Villains), Age 52, Female*
@@ -13,7 +19,6 @@
 Very tall and muscular, with Long and flowing brown hair and Brown eyes. Weathered skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Compulsive liar about minor things
@@ -36,37 +41,30 @@ Driven mad by knowledge humanity wasn't meant to know They recently discovered a
 - **Short Term**: Find missing person
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Nerys Lightbringer the Lost (Political - Ally)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Ewan Frostwhisper the Swift (Professional - Employer)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
-
 
 ### Alaric Moonshadow the Guardian (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Qadim Ironforge the Mystic (Family - Cousin)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ### Idris Moonshadow the Wanderer (Political - Patron)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
 
-
 ### Dara Jadeclaw the Cunning (Family - Sibling)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Knows how the world will end

@@ -1,4 +1,5 @@
 ---
+aliases: ["Cursed Blade of Power", "cursed blade of power", "Power of Blade Cursed"]
 tags: [generated]
 id: ITEM0002
 created: 2025-08-15T04:09:51.077Z
@@ -19,8 +20,6 @@ Crafted from adamantine with battle scars, in ancient but unbreakable. It emanat
 
 ## Quirk
 *Hums when enemies are near*
-
-
 
 ## History
 This item was created to seal an ancient evil centuries ago. It has passed through many hands, each leaving their mark upon its destiny.

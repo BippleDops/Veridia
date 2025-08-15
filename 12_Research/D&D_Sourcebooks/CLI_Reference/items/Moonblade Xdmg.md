@@ -126,3 +126,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Strange dreams suggest a portal
 - A prisoner has gone missing and evil awakens
 - A corpse reveals ancient history about this place
+
+## References
+
+- [[Master_Item_Catalog]]

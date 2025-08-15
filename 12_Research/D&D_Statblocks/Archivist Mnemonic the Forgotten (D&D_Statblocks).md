@@ -27,10 +27,10 @@ created: '2025-08-09'
 modified: '2025-08-14'
 status: complete
 race: Human (Memory-Touched)
-location: '[[The Archive of Unremembered Things]] - The Forgetting Vaults'
+location: ' - The Forgetting Vaults'
 world: Aquabyssos
 role: Keeper of Lost Memories
-affiliation: '[[The Archive of Unremembered Things]]'
+affiliation: ''
 age: Unknown (memory fragments suggest centuries)
 created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'
@@ -56,7 +56,7 @@ cr: '5'
 - Add 12_Research-specific enhancement
 
 ## Overview
-Archivist Mnemonic exists in a paradoxical state—he remembers everything that others have forgotten, but cannot remember his own past or identity. Chosen by the [[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] to preserve memories that would otherwise be lost forever, he maintains the [[The Archive of Unremembered Things]] where discarded, stolen, or destroyed memories find sanctuary. His existence sustains the balance between remembering and forgetting that keeps the Deep Mother's dreams stable.
+Archivist Mnemonic exists in a paradoxical state—he remembers everything that others have forgotten, but cannot remember his own past or identity. Chosen by the  where discarded, stolen, or destroyed memories find sanctuary. His existence sustains the balance between remembering and forgetting that keeps the Deep Mother's dreams stable.
 
 ## Adventure Hooks
 1. **The Lost History**: Recover suppressed memories of historical atrocity
@@ -90,7 +90,7 @@ Archivist Mnemonic exists in a paradoxical state—he remembers everything that 
 
 **Legendary Resistance (3/Day).** If Mnemonic fails a saving throw, he can choose to succeed instead.
 
-**Memory Archive Access.** Mnemonic can access any memory stored in [[The Archive of Unremembered Things]] as an action. He gains perfect knowledge of events, skills, or information contained in accessed memories.
+**Memory Archive Access.** Mnemonic can access any memory stored in  as an action. He gains perfect knowledge of events, skills, or information contained in accessed memories.
 
 **The Forgetting Touch.** As a bonus action, Mnemonic can touch a willing creature and remove painful or unwanted memories, storing them in the Archive. The creature gains relief from trauma but loses associated knowledge.
 
@@ -136,7 +136,7 @@ Mnemonic can take 3 legendary actions, choosing from the options below. Only one
 **Memory Attack (Costs 2 Actions).** Mnemonic makes a Memory Projection attack.
 
 ### Lair Actions
-When encountered in [[The Archive of Unremembered Things]], Mnemonic can take lair actions on initiative count 20:
+When encountered in , Mnemonic can take lair actions on initiative count 20:
 
 **Archive Awakening.** Stored memories throughout the Archive become semi-active, providing information and minor assistance to Mnemonic and his allies.
 

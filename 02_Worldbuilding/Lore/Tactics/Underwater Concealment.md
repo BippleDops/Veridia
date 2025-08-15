@@ -124,3 +124,9 @@ improvements: 20
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Shadow Ambush - Optional (Criminal_Organizations)]]
+- [[02_Worldbuilding_Tactics_Underwater_Concealment]]
+- [[Shadow Ambush - Optional]]

@@ -1,11 +1,11 @@
 ---
+aliases: ["Jora Brightblade", "jora brightblade", "Brightblade Jora"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -74,8 +74,6 @@ Grew up on the streets, learning to survive. Years ago, they witnessed something
 ### Skills
 Investigation, Insight, Stealth, Deception
 
-
-
 ## Possessions
 - 91 gold pieces
 - Family heirloom (locket)
@@ -89,7 +87,6 @@ Investigation, Insight, Stealth, Deception
 
 ---
 *Generated: 2025-08-15T03:20:13.091Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

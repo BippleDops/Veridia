@@ -344,3 +344,17 @@ The economy is in crisis due to magical phenomena.
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Artist Dreamweaver]]
+- [[Central Territories]]
+- [[Coastal Ports]]
+- [[Crime Boss Viper]]
+- [[Eastern Port]]
+- [[Elena Gemcutter]]
+- [[Founding Nation]]
+- [[Immortal Watcher]]
+- [[Lord Commander Thorne]]
+- [[Northville]]
+- [[The Chronicler]]

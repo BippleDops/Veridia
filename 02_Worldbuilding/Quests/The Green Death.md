@@ -123,6 +123,5 @@ Mentioned in The Hidden Prophecy of Depths
 2. **The Devil's Bargain**: Accept dark power OR fight with [[Disadvantage]]
 3. **The Succession Choice**: Support the heir OR the usurper
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*

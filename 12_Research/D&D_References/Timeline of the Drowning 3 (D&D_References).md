@@ -514,7 +514,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 - Political pressure for surface world contact and possible return
 
 ### Artifacts and Technology
-- [[Deep Archives]] - Complete record of Drowning process
+-  - Complete record of Drowning process
 - [[Memory Crystals]] - Technology preserving pre-Drowning experiences
 - [[The Pressure Crown]] - Symbol of successful adaptation
 - [[The Shadow Integration]] - Methods for managing corruption

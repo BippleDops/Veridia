@@ -34,8 +34,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
-
 ## Relationships
 - **Allies**: Notable allies and friends
 - **Rivals**: Competitors and rivals  
@@ -259,7 +257,6 @@ Member of House Dragonblood - Trait: divine blood
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -295,3 +292,13 @@ Member of House Dragonblood - Trait: divine blood
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Elder Whisper-In-The-Dark (People)]]
+- [[Assets Locations Location City Master Cultivator Reef Growstone V1 Master Cultivator Reef Growstone.svg]]
+- [[Assets Locations Location City Noble Palatemaster Noble Palatemaster.png]]
+- [[Assets Locations Location City Quartermaster Sterling Suppystone Quartermaster Sterling Suppystone.svg]]
+- [[Elder Whisper-In-The-Dark]]
+- [[Elder Whisper-In-The-Dark (D&D_References)]]
+- [[Elder Whisper-In-The-Dark (D&D_Statblocks)]]

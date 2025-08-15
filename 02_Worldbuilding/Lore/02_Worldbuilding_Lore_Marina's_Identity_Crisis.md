@@ -2,7 +2,7 @@
 tags: ['[[Lore]]']
 ---
 
-# [[02 Worldbuilding]]/Lore/[[Marina's Identity Crisis]]
+# [[02_Worldbuilding|02 Worldbuilding]]/Lore/[[Marina's Identity Crisis]]
 
 ## Overview
 

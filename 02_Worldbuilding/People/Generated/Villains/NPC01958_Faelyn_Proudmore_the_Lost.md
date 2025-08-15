@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Proudmore the Lost", "faelyn proudmore the lost", "Faelyn Proudmore Lost", "Lost the Proudmore Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Proudmore the Lost
 
 *Tiefling Dark Wizard (Villains), Age 72, Non-binary*
@@ -13,7 +19,6 @@
 Very short and slender, with Partially shaved red hair and Gray eyes. Unusual hue skin. Burn scars on one side of face.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Collects unusual and worthless objects
@@ -42,7 +47,6 @@ Born into evil but questioning their path An old debt has come due at the worst 
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Brenna Stormwind the Wise (Family - Spouse)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
@@ -51,7 +55,6 @@ Born into evil but questioning their path An old debt has come due at the worst 
 ### Lyanna Brightblade the Swift (Professional - Rival)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ### Fiora Voidwalker the Scholar (Professional - Partner)
 - **Status**: Strained but maintaining

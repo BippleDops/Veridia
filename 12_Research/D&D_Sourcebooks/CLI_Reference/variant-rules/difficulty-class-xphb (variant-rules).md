@@ -69,3 +69,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]
+- [[Glossary Conventions Xphb]]
+- [[glossary-conventions-xphb (tables)]]

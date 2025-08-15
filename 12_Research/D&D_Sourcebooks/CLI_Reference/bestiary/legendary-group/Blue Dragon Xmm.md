@@ -81,3 +81,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Blue Dragon]]
+- [[blue-dragon (legendary-group)]]
+- [[Coastal Encounters Levels 1720 Xge]]
+- [[Monsters by Habitat Coastal Monsters Xmm]]
+- [[coastal-encounters-levels-1720-xge (tables)]]
+- [[monsters-by-habitat-coastal-monsters-xmm (tables)]]

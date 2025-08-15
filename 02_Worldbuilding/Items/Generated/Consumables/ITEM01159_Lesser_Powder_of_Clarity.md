@@ -1,3 +1,9 @@
+---
+aliases: ["Lesser Powder of Clarity", "lesser powder of clarity", "Clarity of Powder Lesser"]
+tags: [item, equipment]
+type: item
+---
+
 # Lesser Powder of Clarity
 
 *Consumables, Rare*
@@ -15,8 +21,6 @@ A lesser powder glowing softly
 - Restore 4d4+4 hit points
 - Remove one condition
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -31,7 +35,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.461Z*

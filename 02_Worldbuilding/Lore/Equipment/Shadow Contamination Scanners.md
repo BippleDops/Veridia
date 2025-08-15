@@ -83,3 +83,7 @@ Mentioned in The First Prophecy of Depths
 
 - A corpse reveals the truth about the cult
 - A corpse reveals a conspiracy about the cult
+
+## References
+
+- [[02_Worldbuilding_Equipment_Shadow_Contamination_Scanners]]

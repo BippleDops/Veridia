@@ -153,12 +153,10 @@ The main reason parties get involved
 2. **The Devil's Bargain**: Accept dark power OR fight with disadvantage
 3. **The Succession Choice**: Support the heir OR the usurper
 
-
 ## Pronunciation Guide
 - **Theme**: [THEME]
 - **Theme**: [THEME]
 - **Themes**: [THEMES]
-
 
 ## See Also
 - Related content

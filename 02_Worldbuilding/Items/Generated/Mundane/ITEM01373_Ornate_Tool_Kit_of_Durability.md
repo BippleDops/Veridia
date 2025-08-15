@@ -1,3 +1,9 @@
+---
+aliases: ["Ornate Tool Kit of Durability", "ornate tool kit of durability", "Durability of Kit Tool Ornate"]
+tags: [item, equipment]
+type: item
+---
+
 # Ornate Tool Kit of Durability
 
 *Mundane, Uncommon*
@@ -14,8 +20,6 @@ A ornate tool kit expertly crafted
 - Functions in antimagic
 - Grants minor benefit
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -30,7 +34,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.481Z*

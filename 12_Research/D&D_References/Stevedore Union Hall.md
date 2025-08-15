@@ -59,3 +59,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A letter reveals a conspiracy about the government
 - Strange disappearances suggest ancient magic
 - The authorities needs help finding before winter
+
+## References
+
+- [[Port Meridian - Merchant Quarter]]
+- [[Port Meridian - Merchant Quarter (D&D_References)]]

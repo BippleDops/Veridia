@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Underhill the Risen", "qadim underhill the risen", "Qadim Underhill Risen", "Risen the Underhill Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Underhill the Risen
 
 *Tabaxi Fisher (Commoners), Age 71, Male*
@@ -42,11 +48,9 @@ Former soldier trying to adjust to civilian life They recently discovered a secr
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Wynne Thornweave the Strong (Family - Child)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
-
 
 ### Brenna Lightbringer the Swift (Professional - Partner)
 - **Status**: Professional only

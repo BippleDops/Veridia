@@ -166,7 +166,7 @@ Use investigation procedures to create realistic consequences for player actions
 **A:** Specialized protocols exist for each intelligent species, with cultural liaisons and species-appropriate interrogation techniques.
 
 **Q:** What happens when investigations cross into the deep dangers beyond the city?
-**A:** Special deep-current investigation teams with enhanced equipment and [[[[Emergency Protocol]]s]] handle such cases.
+**A:** Special deep-current investigation teams with enhanced equipment and [[Emergency Protocol|[[Emergency Protocol]]s]] handle such cases.
 
 ### Customization Options
 
@@ -234,6 +234,16 @@ Different cultures interpret this lore through their own lens, creating variatio
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*
+
+## References
+
+- [[Random Encounters]]
+- [[Silver Mask]]
+- [[The Restoration Movement]]
+- [[The Silverscale Conspiracy]]
+- [[Silver Mask (D&D_References)]]
+- [[The Restoration Movement (D&D_References)]]
+- [[The Silverscale Conspiracy (D&D_References)]]
+- [[Random Encounters (D&D_Statblocks)]]

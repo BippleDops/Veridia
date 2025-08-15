@@ -1,4 +1,5 @@
 ---
+aliases: ["Hunt the Demons", "hunt the demons", "Hunt Demons", "Demons the Hunt"]
 tags: [generated]
 id: QUEST0061
 created: 2025-08-15T04:09:51.397Z

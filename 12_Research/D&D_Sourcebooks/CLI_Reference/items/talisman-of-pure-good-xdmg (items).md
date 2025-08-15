@@ -92,3 +92,13 @@ Mentioned in The Second Prophecy of Stars
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Magic Item Table I]]
+- [[Random Magic Items Relics]]
+- [[Relics Legendary Xdmg]]
+- [[magic-item-table-i (tables)]]
+- [[random-magic-items-relics (tables)]]
+- [[relics-legendary-xdmg (tables)]]

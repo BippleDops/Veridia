@@ -1,3 +1,9 @@
+---
+aliases: ["Fortified Boots of Resistance", "fortified boots of resistance", "Resistance of Boots Fortified"]
+tags: [item, equipment]
+type: item
+---
+
 # Fortified Boots of Resistance
 
 *Armor, Uncommon*

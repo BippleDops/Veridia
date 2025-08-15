@@ -114,10 +114,8 @@ Session 23 - The Seven Become One represents a crucial aspect of the world's his
 - 20% middle class
 - 79% working poor
 
-
 ## Pronunciation Guide
 - **Wealth**: [WEALTH]
-
 
 ## See Also
 - Related content
@@ -128,3 +126,7 @@ Session 23 - The Seven Become One represents a crucial aspect of the world's his
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
 - **Hidden Details**: Secret aspects
+
+## References
+
+- [[Campaign_Overview_1 (01_Adventures)]]

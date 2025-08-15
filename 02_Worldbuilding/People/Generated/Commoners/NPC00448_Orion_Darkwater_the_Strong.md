@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Darkwater the Strong", "orion darkwater the strong", "Orion Darkwater Strong", "Strong the Darkwater Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Darkwater the Strong
 
 *Elf Carpenter (Commoners), Age 49, Female*
@@ -13,7 +19,6 @@
 Very short and heavyset, with Partially shaved auburn hair and Red eyes. Olive skin. Missing ear from old battle.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Always speaks in metaphors and riddles; Believes in every conspiracy theory
@@ -42,26 +47,21 @@ Family has worked the same trade for generations, but times are changing They've
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Erasmus Hawthorne the Risen (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
-
 
 ### Baelor Goldleaf the Bold (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Fiora Darkwater (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Branwen Keenblade the Wise (Political - Opposition)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Has dragon blood in their veins

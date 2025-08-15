@@ -34,8 +34,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
-
 ## Relationships
 - **Allies**: Notable allies and friends
 - **Rivals**: Competitors and rivals  
@@ -181,7 +179,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -251,3 +248,10 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Art Palace Guard Captain Neutralis.png]]
+- [[Assets Locations Location City Harbor Master Nereid Deepcurrent Harbor Master Nereid Deepcurrent.svg]]
+- [[Memory Merchant Zephyr Mindweaver]]
+- [[Memory Merchant Zephyr Mindweaver (D&D_Statblocks)]]

@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-thalia-stormguard-captain-thalia-stormguard.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -182,7 +180,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -252,3 +249,9 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Quest - Hearts and Minds]]
+- [[Queen Lyralei Stormheart]]
+- [[Queen Lyralei Stormheart (D&D_References)]]

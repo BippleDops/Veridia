@@ -76,3 +76,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[Pearl_Harbor_City (Places)]]
+- [[Pearl_Harbor_City (D&D_References)]]

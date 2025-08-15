@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Underhill the Risen", "orion underhill the risen", "Orion Underhill Risen", "Risen the Underhill Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Underhill the Risen
 
 *Human Crime Boss (Villains), Age 76, Female*
@@ -36,7 +42,6 @@ Betrayed by those they trusted, now seeking revenge on the world Strange abiliti
 - **Short Term**: Survive until next week
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Lyanna Xendar the Wanderer (Personal - Nemesis)
 - **Status**: Complicated history
@@ -47,11 +52,9 @@ Betrayed by those they trusted, now seeking revenge on the world Strange abiliti
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Alaric Hawthorne the Scholar (Professional - Rival)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ### Drusilla Youngblood the Fallen (Personal - Childhood friend)
 - **Status**: Strong and trusting
@@ -62,11 +65,9 @@ Betrayed by those they trusted, now seeking revenge on the world Strange abiliti
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
 
-
 ### Thalia Dawnstrider the Swift (Family - Parent)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Believes they're saving the world

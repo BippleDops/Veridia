@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Moonshadow the Lost", "xander moonshadow the lost", "Xander Moonshadow Lost", "Lost the Moonshadow Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Moonshadow the Lost
 
 *Genasi Ranger (Adventurers), Age 19, Non-binary*
@@ -36,22 +42,18 @@ Accidentally gained powers and learning to control them A chance encounter last 
 - **Short Term**: Sabotage competition
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Drusilla Quicksilver the Redeemed (Professional - Partner)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
 
-
 ### Faelyn Frostwhisper the Scholar (Personal - Love interest)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Faelyn Lightbringer the Wanderer (Family - Sibling)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ### Drusilla Xendar the Cunning (Personal - Best friend)
 - **Status**: Recently reconciled

@@ -86,3 +86,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Arcana Very Rare Xdmg]]
+- [[Implements Very Rare Xdmg]]
+- [[Magic Item Table D]]
+- [[Random Magic Items Arcana]]
+- [[Random Magic Items Implements]]
+- [[arcana-very-rare-xdmg (tables)]]
+- [[implements-very-rare-xdmg (tables)]]
+- [[magic-item-table-d (tables)]]
+- [[random-magic-items-arcana (tables)]]
+- [[random-magic-items-implements (tables)]]

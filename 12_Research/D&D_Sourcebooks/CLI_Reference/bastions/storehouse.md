@@ -85,3 +85,8 @@ Mentioned in The First Prophecy of Winds
 - The authorities needs help investigating before winter
 - An heirloom has gone missing and chaos spreads
 - A stranger needs help delivering before dawn
+
+## References
+
+- [[Special Facility Descriptions Special Facilities Xdmg]]
+- [[Special Facility Descriptions Special]]

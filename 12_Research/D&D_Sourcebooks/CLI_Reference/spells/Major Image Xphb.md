@@ -108,3 +108,35 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Death Slaad Xmm]]
+- [[Gray Slaad Xmm]]
+- [[death-slaad-xmm (aberration)]]
+- [[gray-slaad-xmm (aberration)]]
+- [[Adult Brass Dragon Xmm]]
+- [[Adult Copper Dragon Xmm]]
+- [[Ancient Brass Dragon Xmm]]
+- [[Ancient Copper Dragon Xmm]]
+- [[adult-brass-dragon-xmm (dragon)]]
+- [[adult-copper-dragon-xmm (dragon)]]
+- [[ancient-brass-dragon-xmm (dragon)]]
+- [[ancient-copper-dragon-xmm (dragon)]]
+- [[Efreeti Xmm]]
+- [[efreeti-xmm (elemental)]]
+- [[Pixie Wonderbringer Xmm]]
+- [[pixie-wonderbringer-xmm (fey)]]
+- [[Green Abishai Mpmm]]
+- [[Lamia Xmm]]
+- [[Rakshasa Xmm]]
+- [[green-abishai-mpmm (fiend)]]
+- [[lamia-xmm (fiend)]]
+- [[rakshasa-xmm (fiend)]]
+- [[Cloud Giant Smiling One Mpmm]]
+- [[cloud-giant-smiling-one-mpmm (giant)]]
+- [[Brass Dragon Xmm]]
+- [[brass-dragon-xmm (legendary-group)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]

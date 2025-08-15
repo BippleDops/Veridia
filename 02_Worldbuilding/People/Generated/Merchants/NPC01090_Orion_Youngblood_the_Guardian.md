@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Youngblood the Guardian", "orion youngblood the guardian", "Orion Youngblood Guardian", "Guardian the Youngblood Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Youngblood the Guardian
 
 *Firbolg Trader (Merchants), Age 49, Non-binary*
@@ -47,11 +53,9 @@ Part of a merchant family with connections everywhere A chance encounter last wi
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Xander Zephyrblade the Scholar (Professional - Employer)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ### Pyria Underhill the Bold (Personal - Love interest)
 - **Status**: Recently reconciled
@@ -61,7 +65,6 @@ Part of a merchant family with connections everywhere A chance encounter last wi
 ### Pyria Frostwhisper the Strong (Political - Opposition)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
-
 
 ### Malakai Moonshadow the Bold (Criminal - Fence)
 - **Status**: On the verge of collapse

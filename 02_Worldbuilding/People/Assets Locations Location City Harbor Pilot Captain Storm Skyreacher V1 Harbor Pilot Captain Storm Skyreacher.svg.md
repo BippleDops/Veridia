@@ -205,3 +205,8 @@ Mentioned in The Hidden Prophecy of Winds
 - **Lover**: [[Portrait NPC Lady Dawn Pureheart V1 Lady Dawn Pureheart.svg]]
 - **Student**: [[The Siren's Mask]]
 - **Debtor**: [[Portrait NPC Agent Whisper Voidheart Agent Whisper Voidheart.svg]]
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-master-chen-wei-master-chen-wei.png]]
+- [[04_Resources_Assets_Locations_location-city-merchant-lord-silas-copperfield-v1-merchant-lord-silas-copperfield.svg]]

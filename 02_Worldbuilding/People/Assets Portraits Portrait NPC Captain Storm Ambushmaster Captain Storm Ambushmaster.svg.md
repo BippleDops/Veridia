@@ -219,3 +219,8 @@ Member of House Serpentblood - Trait: magical affinity
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-dockworkers-union-dockworkers-union.svg]]
+- [[04_Resources_Assets_Locations_location-city-harbor-master-nereid-deepcurrent-harbor-master-nereid-deepcurrent.svg]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Quicksilver the Bold", "lyanna quicksilver the bold", "Lyanna Quicksilver Bold", "Bold the Quicksilver Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Quicksilver the Bold
 
 *Aasimar Farmer (Commoners), Age 49, Male*
@@ -36,37 +42,30 @@ Survivor of a disaster that destroyed their village They've fallen in love with 
 - **Short Term**: Sabotage competition
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Delara Hawthorne the Guardian (Political - Opposition)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
 
-
 ### Idris Dawnstrider (Family - Spouse)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ### Drusilla Xendar the Bold (Family - Cousin)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
 
-
 ### Delara Dawnstrider the Bold (Professional - Employee)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ### Hilda Moonshadow the Redeemed (Personal - Ex-lover)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Erasmus Jadeclaw the Redeemed (Personal - Love interest)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Witnessed a noble's crime

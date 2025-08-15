@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Grimholt the Mystic", "hestara grimholt the mystic", "Hestara Grimholt Mystic", "Mystic the Grimholt Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Grimholt the Mystic
 
 *Genasi Farmer (Commoners), Age 46, Female*
@@ -13,7 +19,6 @@
 Above average and athletic, with Partially shaved blonde hair and Violet eyes. Fair skin. Warm smile that puts people at ease.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Compulsive liar about minor things
@@ -35,7 +40,6 @@ Runaway from an arranged marriage, starting a new life An old debt has come due 
 ### Goals
 - **Short Term**: Make this month's payment
 - **Long Term**: Overthrow the current order
-
 
 ## Relationships
 ### Caelum Ashford the Scholar (Personal - Best friend)

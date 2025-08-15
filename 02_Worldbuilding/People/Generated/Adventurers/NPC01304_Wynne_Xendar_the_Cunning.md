@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Xendar the Cunning", "wynne xendar the cunning", "Wynne Xendar Cunning", "Cunning the Xendar Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Xendar the Cunning
 
 *Tiefling Fighter (Adventurers), Age 29, Non-binary*
@@ -36,22 +42,18 @@ Accidentally gained powers and learning to control them They recently discovered
 - **Short Term**: Complete current contract
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Alaric Oakenshield the Risen (Political - Puppet)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Delara Ironwood the Bold (Personal - Childhood friend)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Nerys Hawthorne the Redeemed (Family - Sibling)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ### Malakai Voidwalker the Wanderer (Political - Patron)
 - **Status**: Recently reconciled

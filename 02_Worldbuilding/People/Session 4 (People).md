@@ -51,9 +51,7 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 # Session-4
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -223,8 +221,6 @@ cr: 1/4
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-
 
 ## Daily Routine
 - **Morning**: Typical activities

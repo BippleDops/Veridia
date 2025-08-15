@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Goldleaf the Redeemed", "solas goldleaf the redeemed", "Solas Goldleaf Redeemed", "Redeemed the Goldleaf Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Goldleaf the Redeemed
 
 *Half-Orc Farmer (Commoners), Age 70, Female*
@@ -36,17 +42,14 @@ Family has worked the same trade for generations, but times are changing They've
 - **Short Term**: Survive until next week
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Thalia Ironwood the Wise (Family - Spouse)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Jorah Ironforge the Scholar (Political - Puppet)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ### Rhiannon Keenblade the Wise (Political - Opposition)
 - **Status**: Blood oath bound

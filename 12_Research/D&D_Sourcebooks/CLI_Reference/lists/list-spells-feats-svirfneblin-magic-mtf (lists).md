@@ -69,7 +69,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -88,4 +87,4 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[list-spells-feats-svirfneblin-magic-mtf (lists)-phb]]` in CLI_Reference/spells/
+See: `[[feats|list-spells-feats-svirfneblin-magic-mtf (lists)-phb]]` in CLI_Reference/spells/

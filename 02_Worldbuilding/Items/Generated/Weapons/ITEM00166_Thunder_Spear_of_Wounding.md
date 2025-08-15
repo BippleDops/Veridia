@@ -1,3 +1,9 @@
+---
+aliases: ["Thunder Spear of Wounding", "thunder spear of wounding", "Wounding of Spear Thunder"]
+tags: [item, equipment]
+type: item
+---
+
 # Thunder Spear of Wounding
 
 *Weapons, Rare*
@@ -15,8 +21,6 @@ A thunder spear forged from meteoric iron
 - Deals extra 1d6 elemental damage
 - +2 to attack and damage rolls
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -31,7 +35,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.357Z*

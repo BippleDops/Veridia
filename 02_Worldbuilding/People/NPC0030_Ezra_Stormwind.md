@@ -1,8 +1,8 @@
 ---
+aliases: ["Ezra Stormwind", "ezra stormwind", "Stormwind Ezra"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,7 +76,6 @@ Stealth, Deception, Persuasion
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 91 gold pieces
 - Family heirloom (locket)
@@ -88,7 +87,6 @@ Stealth, Deception, Persuasion
 
 ---
 *Generated: 2025-08-15T03:20:13.075Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

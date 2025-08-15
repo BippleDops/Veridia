@@ -135,3 +135,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Crawling Claw Xmm]]
+- [[Monsters by Habitat Any Habitat Monsters Xmm]]
+- [[monsters-by-habitat-any-habitat-monsters-xmm (tables)]]
+- [[Familiars Mm]]
+- [[Familiars Vgm]]
+- [[familiars-mm (variant-rules)]]
+- [[familiars-vgm (variant-rules)]]

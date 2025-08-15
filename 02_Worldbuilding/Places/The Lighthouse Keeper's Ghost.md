@@ -42,7 +42,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -91,7 +91,7 @@ Legends speak of The Lighthouse Keeper's Ghost as a nexus where past and present
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -112,13 +112,11 @@ The Lighthouse Keeper's Ghost is a notable location characterized by its unique 
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -126,13 +124,11 @@ The Lighthouse Keeper's Ghost is a notable location characterized by its unique 
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -161,7 +157,7 @@ Key stop on spices trade route
 - A corpse reveals a conspiracy about this place
 - Someone is searching for information for power
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -211,7 +207,6 @@ Key stop on spices trade route
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions

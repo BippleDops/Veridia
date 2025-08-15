@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Winterborn the Redeemed", "ysara winterborn the redeemed", "Ysara Winterborn Redeemed", "Redeemed the Winterborn Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Winterborn the Redeemed
 
 *Elf Cultist (Villains), Age 45, Non-binary*
@@ -42,16 +48,13 @@ Betrayed by those they trusted, now seeking revenge on the world A family member
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
 
-
 ### Gavril Ashford the Broken (Political - Puppet)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Hilda Ravenheart the Fallen (Family - Spouse)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Believes they're saving the world

@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Brightblade the Guardian", "gavril brightblade the guardian", "Gavril Brightblade Guardian", "Guardian the Brightblade Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Brightblade the Guardian
 
 *Firbolg Shopkeeper (Merchants), Age 55, Female*
@@ -36,12 +42,10 @@ Former adventurer who retired to open a shop They've made a deal they're beginni
 - **Short Term**: Make this month's payment
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Vesper Keenblade the Broken (Criminal - Handler)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
-
 
 ### Dara Voidwalker the Broken (Criminal - Handler)
 - **Status**: Strong and trusting
@@ -51,7 +55,6 @@ Former adventurer who retired to open a shop They've made a deal they're beginni
 ### Branwen Hawthorne the Fallen (Professional - Rival)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Is actually a spy for foreign power

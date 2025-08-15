@@ -31,7 +31,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -73,7 +73,7 @@ Healing Two Worlds is a undersea element of the setting, known for bioluminescen
 
 Legends speak of Healing Two Worlds as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Healing Two Worlds.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -94,3 +94,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - A document has gone missing and truth emerges
 - An heirloom has gone missing and chaos spreads
 - A journal reveals ancient history about this place
+
+## References
+
+- [[Aethermoor - Session 09 The Price of Unity]]

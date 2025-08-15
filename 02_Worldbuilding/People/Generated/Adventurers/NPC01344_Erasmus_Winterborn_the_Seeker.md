@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Winterborn the Seeker", "erasmus winterborn the seeker", "Erasmus Winterborn Seeker", "Seeker the Winterborn Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Winterborn the Seeker
 
 *Dragonborn Wizard (Adventurers), Age 65, Non-binary*
@@ -13,7 +19,6 @@
 Short and heavyset, with Long and flowing brown hair and Hazel eyes. Freckled skin. Missing ear from old battle.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Sees doom and gloom everywhere; Always hungry and eating something
@@ -36,12 +41,10 @@ Accidentally gained powers and learning to control them A family member's death 
 - **Short Term**: Recruit new members
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Rhiannon Jadeclaw the Scholar (Professional - Employer)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ### Ewan Brightblade the Strong (Personal - Ex-lover)
 - **Status**: Secretly hostile
@@ -51,7 +54,6 @@ Accidentally gained powers and learning to control them A family member's death 
 ### Thalia Silverleaf the Wanderer (Political - Spy)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Has died and been resurrected

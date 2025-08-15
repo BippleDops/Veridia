@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Jadeclaw the Guardian", "brenna jadeclaw the guardian", "Brenna Jadeclaw Guardian", "Guardian the Jadeclaw Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Jadeclaw the Guardian
 
 *Dragonborn Cleric (Adventurers), Age 31, Male*
@@ -36,12 +42,10 @@ Accidentally gained powers and learning to control them An old debt has come due
 - **Short Term**: Gather information
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Gavril Quicksilver the Redeemed (Criminal - Accomplice)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ### Caelum Nightfall the Broken (Criminal - Informant)
 - **Status**: Professional only
@@ -52,11 +56,9 @@ Accidentally gained powers and learning to control them An old debt has come due
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Orion Grimholt the Redeemed (Family - Child)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Carries a world-ending artifact

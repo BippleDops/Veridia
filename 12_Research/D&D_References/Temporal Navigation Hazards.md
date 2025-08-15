@@ -223,3 +223,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[The Final Choice (D&D_References)]]
+- [[The Final Choice 3 (D&D_References)]]

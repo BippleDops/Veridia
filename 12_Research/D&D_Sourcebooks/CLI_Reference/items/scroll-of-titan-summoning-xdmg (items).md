@@ -112,3 +112,15 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Arcana Legendary Xdmg]]
+- [[Random Magic Items Arcana]]
+- [[Random Magic Items Relics]]
+- [[Relics Legendary Xdmg]]
+- [[arcana-legendary-xdmg (tables)]]
+- [[random-magic-items-arcana (tables)]]
+- [[random-magic-items-relics (tables)]]
+- [[relics-legendary-xdmg (tables)]]

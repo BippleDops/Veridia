@@ -405,20 +405,17 @@ Archivist Vera Glowmind is a notable location characterized by its unique featur
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
-
 
 ## Connections
 - **North**: Trade road to neighboring settlement
@@ -461,7 +458,6 @@ Mentioned in The Hidden Prophecy of Winds
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -497,3 +493,13 @@ Mentioned in The Hidden Prophecy of Winds
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Keeper Elara Mindwell]]
+- [[Lumengarde]]
+- [[The Forgotten One]]
+- [[Archivist Vera Glowmind (D&D_References)]]
+- [[Lumengarde (D&D_References)]]
+- [[The Forgotten One (D&D_References)]]
+- [[Keeper Elara Mindwell (D&D_Statblocks)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Blazing Spear of the Ancients", "blazing spear of the ancients", "Blazing Spear of Ancients", "Ancients the of Spear Blazing"]
+tags: [item, equipment]
+type: item
+---
+
 # Blazing Spear of the Ancients
 
 *Weapons, Rare (requires attunement)*

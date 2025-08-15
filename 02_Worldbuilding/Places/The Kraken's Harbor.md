@@ -1,6 +1,6 @@
 ---
 
-title: The [[[[Krake]]n]]'s Harbor
+title: The [[Krake|[[Krake]]n]]'s Harbor
 type: [[location]]
 tags:
 - both
@@ -50,7 +50,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -98,12 +98,12 @@ The Kraken's Harbor is the primary naval base of [[The Crimson Fleet]], built wi
 > - The kraken isn't dead - it's in magical stasis, slowly healing
 > - [[Captain Marrow Drinker]] has pact with kraken's spirit
 > - Fortress contains portal to underwater realm of [[Abyssos Prime]]
-> - One of [[The [[Seven Shards]]]] powers the kraken's undead state
+> - One of [[Seven Shards|The [[Seven Shards]]]] powers the kraken's undead state
 
 ### Strategic Intelligence
 
 > - Plans for massive assault on [[Crystalhaven]] during [[Crystal Festival]]
-> - Secret alliance negotiations with [[[[Prince Caspian]] Duskwater]]
+> - Secret alliance negotiations with [[Prince Caspian|[[Prince Caspian]] Duskwater]]
 > - Location of sunken treasure fleet worth 100,000 gold
 > - Corruption experiments creating hybrid human-sea creature warriors
 
@@ -143,7 +143,7 @@ Legends speak of The Kraken's Harbor as a nexus where past and present converge.
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -167,13 +167,11 @@ The Kraken's Harbor is a notable location characterized by its unique features a
 ### Founding
 The Kraken's Harbor was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -181,13 +179,11 @@ The Kraken's Harbor was established in the distant past, growing from humble beg
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -205,7 +201,7 @@ Ongoing situations affecting The Kraken's Harbor:
 - External threats
 - Opportunities arising
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -221,7 +217,6 @@ Ongoing situations affecting The Kraken's Harbor:
 - Civil war
 - Natural disasters
 - Current [[Power Structures]] established
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions

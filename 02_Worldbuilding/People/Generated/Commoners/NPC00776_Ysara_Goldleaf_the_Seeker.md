@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Goldleaf the Seeker", "ysara goldleaf the seeker", "Ysara Goldleaf Seeker", "Seeker the Goldleaf Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Goldleaf the Seeker
 
 *Dragonborn Farmer (Commoners), Age 22, Female*
@@ -13,7 +19,6 @@
 Very tall and slender, with Braided elaborately auburn hair and Blue eyes. Freckled skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Extremely superstitious about everything
@@ -36,12 +41,10 @@ Grew up in poverty but discovered a talent that might change everything An old d
 - **Short Term**: Complete current contract
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Faelyn Zephyrblade the Lost (Criminal - Informant)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
-
 
 ### Baelor Goldleaf the Cunning (Political - Puppet)
 - **Status**: Strained but maintaining
@@ -52,11 +55,9 @@ Grew up in poverty but discovered a talent that might change everything An old d
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Wynne Winterborn the Seeker (Family - Parent)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ### Orion Youngblood the Risen (Personal - Love interest)
 - **Status**: Blood oath bound
@@ -66,7 +67,6 @@ Grew up in poverty but discovered a talent that might change everything An old d
 ### Solas Emberfall the Scholar (Professional - Employer)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Can hear the thoughts of others

@@ -91,3 +91,12 @@ Mentioned in The Hidden Prophecy of Depths
 - Someone is blackmailing a artifact for love
 - A shipment has gone missing and evil awakens
 - A prisoner has gone missing and truth emerges
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Life Domain Xphb]]
+- [[cleric-xphb-life-domain-xphb (classes)]]
+- [[cleric-xphb-life-domain-xphb 2 (classes)]]

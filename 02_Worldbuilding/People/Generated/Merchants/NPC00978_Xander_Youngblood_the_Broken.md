@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Youngblood the Broken", "xander youngblood the broken", "Xander Youngblood Broken", "Broken the Youngblood Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Youngblood the Broken
 
 *Dragonborn Broker (Merchants), Age 73, Female*
@@ -47,7 +53,6 @@ Part of a merchant family with connections everywhere They recently discovered a
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Gareth Dawnstrider the Risen (Political - Patron)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
@@ -57,16 +62,13 @@ Part of a merchant family with connections everywhere They recently discovered a
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Hilda Winterborn the Guardian (Family - Cousin)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
 
-
 ### Jorah Winterborn the Risen (Personal - Childhood friend)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Killed previous business owner

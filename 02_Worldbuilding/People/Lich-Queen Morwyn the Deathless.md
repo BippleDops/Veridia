@@ -36,12 +36,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-lich-queen-morwyn-the-deathless-lich-queen-morwyn-the-deathless.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -228,7 +226,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
-
 
 ## Daily Routine
 - **Morning**: Typical activities

@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Blackstone the Guardian", "lyanna blackstone the guardian", "Lyanna Blackstone Guardian", "Guardian the Blackstone Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Blackstone the Guardian
 
 *Dragonborn Bard (Adventurers), Age 48, Male*
@@ -36,17 +42,14 @@ Searching for a legendary treasure their parent died seeking An old debt has com
 - **Short Term**: Sabotage competition
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Pyria Ravenheart the Mystic (Family - Child)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Jorah Moonshadow the Mystic (Professional - Employee)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ### Baelor Nightfall the Lost (Professional - Rival)
 - **Status**: Secretly hostile
@@ -57,16 +60,13 @@ Searching for a legendary treasure their parent died seeking An old debt has com
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
 
-
 ### Lyanna Grimholt the Scholar (Criminal - Fence)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Drusilla Underhill the Mystic (Family - Sibling)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Secretly working for the villain

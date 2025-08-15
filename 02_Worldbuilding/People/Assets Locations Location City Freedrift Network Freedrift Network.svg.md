@@ -232,3 +232,8 @@ This NPC can serve multiple roles:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-commander-reef-shadowstrike-v1-commander-reef-shadowstrike.svg]]
+- [[04_Resources_Assets_Locations_location-city-master-archivist-thomas-scrollkeeper-v1-master-archivist-thomas-scrollkeeper.png]]

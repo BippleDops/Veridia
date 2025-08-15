@@ -14,18 +14,15 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 > [!figure] Asset
 ![](04_Resources/Assets/Portraits/portrait-npc-quest-the-prophecy-fulfilled-quest-the-prophecy-fulfilled.svg)
 
 # Quest - The Prophecy Fulfilled
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -114,7 +111,6 @@ Confronting the source of the problem and determining outcomes.
 ### Optional Areas
 - *[Side locations]*
 
-
 ## Hooks
 - **Personal**: Character connection
 - **Professional**: Hired for the job
@@ -174,3 +170,8 @@ Confronting the source of the problem and determining outcomes.
 ## Player Tips
 > 🎮 **Strategy**: How to approach this content
 > Work together and communicate
+
+## References
+
+- [[Watch Captain Roderick Shieldbreaker]]
+- [[Watch Captain Roderick Shieldbreaker (D&D_References)]]

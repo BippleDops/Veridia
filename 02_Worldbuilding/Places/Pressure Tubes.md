@@ -374,13 +374,11 @@ Pressure Tubes is a notable location characterized by its unique features and st
 ### Founding
 Pressure Tubes was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -388,13 +386,11 @@ Pressure Tubes was established in the distant past, growing from humble beginnin
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -449,7 +445,6 @@ Mentioned in The First Prophecy of Stars
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -485,3 +480,26 @@ Mentioned in The First Prophecy of Stars
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Crystal Forest]]
+- [[Depth Effect Quick Reference]]
+- [[Eastern Kingdom]]
+- [[Pressure Adaptation System]]
+- [[The Deep Harvest]]
+- [[Tidal Chambers]]
+- [[Underwater Breathing]]
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Pressure Tube Terminal]]
+- [[Crystal Forest (D&D_References)]]
+- [[Depth Effect Quick Reference (D&D_References)]]
+- [[Eastern Kingdom (D&D_References)]]
+- [[Pressure Adaptation System (D&D_References)]]
+- [[Pressure Tube Terminal (D&D_References)]]
+- [[The Deep Harvest (D&D_References)]]
+- [[The Depth Chart]]
+- [[Tidal Chambers (D&D_References)]]
+- [[Underwater Breathing (D&D_References)]]
+- [[Topic Matrix]]
+- [[Topic_Matrix (Indexes)]]

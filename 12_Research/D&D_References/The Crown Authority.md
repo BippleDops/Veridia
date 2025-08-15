@@ -228,3 +228,12 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Vex Shadowthorn's Apprentices]]
+- [[Northgate]]
+- [[Temporal Distortion Zones (D&D_References)]]
+- [[Vex Shadowthorn's Apprentices (D&D_References)]]
+- [[Dr. Siphon Gillwater (D&D_Statblocks)]]

@@ -83,3 +83,12 @@ Mentioned in The First Prophecy of Winds
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Quick_Reference - DnD5e-SideScreen-2024 (D&D_References)]]
+- [[Reference Quick Reference Dnd5e Sidescreen 2024 (D&D_References)]]
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]
+- [[Hover Xphb]]
+- [[hover-xphb (variant-rules)]]

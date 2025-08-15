@@ -65,7 +65,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -208,7 +208,7 @@ Taboo systems achieved sophisticated integration with broader cultural instituti
 - Commercial law regulating trade in potentially corrupted goods
 - International law addressing cross-border corruption incidents
 
-**Economic Integration**: Corruption considerations becoming central to [[Economic System]]s
+**Economic Integration**: Corruption considerations becoming central to [[Economic_System|Economic System]]s
 - Insurance systems accounting for corruption risks
 - [[Trade Networks]] avoiding corruption-affected areas
 - Professional guilds restricting membership based on corruption history
@@ -316,9 +316,9 @@ Gradual modification of taboo systems to reduce harm while maintaining protectio
 Reform efforts creating new problems and social tensions:
 
 **Conservative Resistance**: Traditional communities opposing taboo modification
-- [[Religious [[Groups]]]] maintaining strict taboo interpretation as divine mandate
+- [[Groups|Religious [[Groups]]]] maintaining strict taboo interpretation as divine mandate
 - Communities with successful taboo-based corruption prevention opposing change
-- [[[[Economic Interest]]s]] benefiting from corruption-based labor and social stratification
+- [[Economic Interest|[[Economic Interest]]s]] benefiting from corruption-based labor and social stratification
 - Cultural traditionalists viewing taboo reform as dangerous innovation
 - Inter-generational conflict between reformist youth and traditionalist elders
 
@@ -1079,7 +1079,7 @@ Crystal Corruption Taboos is a undersea element of the setting, known for biolum
 
 Legends speak of Crystal Corruption Taboos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Crystal Corruption Taboos.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -1121,3 +1121,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Campaign_Relationship_Matrix]]

@@ -128,3 +128,9 @@ Mentioned in The First Prophecy of Stars
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[bestial-spirit-xphb (beast)]]
+- [[Summon Beast Xphb]]
+- [[summon-beast-xphb (spells)]]

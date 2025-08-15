@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Voidwalker the Seeker", "aeliana voidwalker the seeker", "Aeliana Voidwalker Seeker", "Seeker the Voidwalker Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Voidwalker the Seeker
 
 *Half-Elf Baker (Commoners), Age 49, Non-binary*
@@ -36,7 +42,6 @@ Grew up in poverty but discovered a talent that might change everything A family
 - **Short Term**: Survive until next week
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Qadim Blackstone the Scholar (Family - Child)
 - **Status**: On the verge of collapse
@@ -47,7 +52,6 @@ Grew up in poverty but discovered a talent that might change everything A family
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Kaelen Ironforge the Risen (Family - Cousin)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
@@ -56,7 +60,6 @@ Grew up in poverty but discovered a talent that might change everything A family
 ### Gavril Brightblade the Lost (Personal - Best friend)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Can hear the thoughts of others

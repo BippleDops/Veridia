@@ -1,11 +1,11 @@
 ---
+aliases: ["Lyra Darkwater the Cunning", "lyra darkwater the cunning", "Lyra Darkwater Cunning", "Cunning the Darkwater Lyra"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -95,7 +95,6 @@ Perception, Insight, Persuasion
 
 ---
 *Generated: 2025-08-15T03:21:04.040Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

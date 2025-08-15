@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Proudmore the Guardian", "solas proudmore the guardian", "Solas Proudmore Guardian", "Guardian the Proudmore Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Proudmore the Guardian
 
 *Tiefling Appraiser (Merchants), Age 54, Male*
@@ -13,7 +19,6 @@
 Average height and athletic, with Dreadlocks blonde hair and Heterochromic eyes. Dark skin. Missing finger on left hand.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Believes in every conspiracy theory
@@ -36,17 +41,14 @@ Part of a merchant family with connections everywhere They've made a deal they'r
 - **Short Term**: Sabotage competition
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Lyanna Oakenshield the Redeemed (Criminal - Handler)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Kaelen Thornweave the Bold (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ### Qadim Goldleaf the Risen (Personal - Nemesis)
 - **Status**: Strained but maintaining
@@ -56,7 +58,6 @@ Part of a merchant family with connections everywhere They've made a deal they'r
 ### Nerys Ironwood the Wise (Criminal - Fence)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
-
 
 ### Urien Stormwind the Wanderer (Criminal - Accomplice)
 - **Status**: Complicated history

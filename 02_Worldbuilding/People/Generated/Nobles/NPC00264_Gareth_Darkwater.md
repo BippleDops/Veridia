@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Darkwater", "gareth darkwater", "Darkwater Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Darkwater
 
 *Goliath Heir (Nobles), Age 45, Male*
@@ -36,27 +42,22 @@ Secretly adopted into nobility, living in fear of discovery They've been marked 
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Orion Ravenheart the Guardian (Criminal - Accomplice)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Baelor Underhill the Fallen (Personal - Nemesis)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
-
 
 ### Thalia Keenblade the Wise (Criminal - Fence)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Qadim Thornweave the Cunning (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Practicing forbidden magic

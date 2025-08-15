@@ -1,4 +1,5 @@
 ---
+aliases: ["Cursed Blade of Shadows", "cursed blade of shadows", "Shadows of Blade Cursed"]
 tags: [generated]
 id: ITEM0130
 created: 2025-08-15T04:09:51.119Z
@@ -20,8 +21,6 @@ Crafted from starfall iron with delicate filigree, in ancient but unbreakable. I
 
 ## Quirk
 *Glows during full moon*
-
-
 
 ## History
 This item was forged during the War of Shadows millennia ago. It has passed through many hands, each leaving their mark upon its destiny.

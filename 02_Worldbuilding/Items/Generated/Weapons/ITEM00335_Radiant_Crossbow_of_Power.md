@@ -1,3 +1,9 @@
+---
+aliases: ["Radiant Crossbow of Power", "radiant crossbow of power", "Power of Crossbow Radiant"]
+tags: [item, equipment]
+type: item
+---
+
 # Radiant Crossbow of Power
 
 *Weapons, Common*
@@ -13,8 +19,6 @@ A radiant crossbow made of crystallized magic
 ## Properties
 - Can strike ethereal creatures
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -29,7 +33,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.372Z*

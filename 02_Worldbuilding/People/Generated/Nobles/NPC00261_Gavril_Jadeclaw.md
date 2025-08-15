@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Jadeclaw", "gavril jadeclaw", "Jadeclaw Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Jadeclaw
 
 *Halfling Aristocrat (Nobles), Age 74, Non-binary*
@@ -36,17 +42,14 @@ Last survivor of a fallen house, seeking to restore family honor They've been ma
 - **Short Term**: Make this month's payment
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Malakai Voidwalker the Broken (Professional - Employer)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Drusilla Quicksilver (Family - Cousin)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
-
 
 ### Felicia Blackstone (Political - Spy)
 - **Status**: Mutually beneficial

@@ -1,3 +1,9 @@
+---
+aliases: ["Ancient Ring of Dominion", "ancient ring of dominion", "Dominion of Ring Ancient"]
+tags: [item, equipment]
+type: item
+---
+
 # Ancient Ring of Dominion
 
 *Artifacts, Legendary*
@@ -16,8 +22,6 @@ A ancient ring pulsing with inner light
 - Grant true sight
 - Grant true sight
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -32,7 +36,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.433Z*

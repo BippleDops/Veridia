@@ -41,7 +41,6 @@ improvements: 20
 - Time pressure
 - Moral dilemmas
 
-
 ## Objectives
 ### Primary
 - Main quest goal
@@ -49,7 +48,6 @@ improvements: 20
 ### Optional
 - Secondary objectives
 - Hidden goals
-
 
 > [!figure] View
 
@@ -195,7 +193,7 @@ The players become involved at this critical moment when the conspiracy's desper
 
 ### Primary Investigation Sites
 
-**[[The Archives]]** - The central repository of government documents, where careful examination reveals patterns of document alteration, missing files, and suspicious cross-references. Hidden sections contain evidence of the conspiracy's activities, but accessing this information requires overcoming both magical and mundane security measures.
+**** - The central repository of government documents, where careful examination reveals patterns of document alteration, missing files, and suspicious cross-references. Hidden sections contain evidence of the conspiracy's activities, but accessing this information requires overcoming both magical and mundane security measures.
 
 **[[Noble District]]** - The residential area where many conspiracy members live and conduct their secret meetings. Investigation here requires social infiltration, surveillance techniques, and careful timing to avoid detection while gathering evidence of suspicious activities and connections.
 
@@ -544,7 +542,6 @@ Ongoing situations affecting Quest - The Truth Unveiled:
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Time Limit
 - **Deadline**: When it must be completed

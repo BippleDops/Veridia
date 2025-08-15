@@ -1,3 +1,9 @@
+---
+aliases: ["Ethereal Plate of the Guardian", "ethereal plate of the guardian", "Ethereal Plate of Guardian", "Guardian the of Plate Ethereal"]
+tags: [item, equipment]
+type: item
+---
+
 # Ethereal Plate of the Guardian
 
 *Armor, Very Rare*
@@ -16,8 +22,6 @@ A ethereal plate bearing ancient runes
 - Resistance to one damage type
 - +1 to AC
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -32,7 +36,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.389Z*

@@ -42,7 +42,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -107,7 +107,7 @@ Legends speak of Trade Regulations as a nexus where past and present converge. L
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -128,13 +128,11 @@ Trade Regulations is a notable location characterized by its unique features and
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -142,13 +140,11 @@ Trade Regulations is a notable location characterized by its unique features and
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -205,7 +201,6 @@ Key stop on spices trade route
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -241,3 +236,24 @@ Key stop on spices trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Eastern Kingdoms (02_Worldbuilding)]]
+- [[Abyssos Prime Docks]]
+- [[Community Support Programs]]
+- [[Deep_Current_Academy (Places)]]
+- [[Depth Warden Patrol]]
+- [[Harbor District Customs House]]
+- [[Madame Rosalind Goldleaf]]
+- [[Pearl_Harbor_City]]
+- [[Royal Academy of Arcane Arts Ruins (Places)]]
+- [[Royal_Academy_of_Arcane_Arts (Places)]]
+- [[Services Inter Realm Transportation]]
+- [[Surface Tensions]]
+- [[The_Academy_of_Investigative_Arts (Places)]]
+- [[The_Academy_of_Resoce]]
+- [[The_Professional_Training_Academy (Places)]]
+- [[Windwright Academy]]
+- [[Abyssos Prime Docks (D&D_References)]]
+- [[Harbor District Customs House (D&D_References)]]

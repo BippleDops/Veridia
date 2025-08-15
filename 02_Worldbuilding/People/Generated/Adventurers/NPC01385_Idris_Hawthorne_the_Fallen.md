@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Hawthorne the Fallen", "idris hawthorne the fallen", "Idris Hawthorne Fallen", "Fallen the Hawthorne Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Hawthorne the Fallen
 
 *Half-Orc Bard (Adventurers), Age 46, Male*
@@ -36,32 +42,26 @@ Seeking vengeance for a murdered mentor A family member's death has left them wi
 - **Short Term**: Find missing person
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Faelyn Ashford the Seeker (Criminal - Target)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Gareth Lightbringer the Wise (Political - Ally)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
-
 
 ### Pyria Zephyrblade the Seeker (Criminal - Informant)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
 
-
 ### Zephyr Youngblood the Seeker (Political - Opposition)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
 
-
 ### Qadim Hawthorne the Fallen (Political - Patron)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Possessed by ancient spirit

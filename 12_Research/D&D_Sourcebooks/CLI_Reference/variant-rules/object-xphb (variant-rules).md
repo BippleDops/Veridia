@@ -63,3 +63,10 @@ Mentioned in The Hidden Prophecy of Depths
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Haunting Revenant Xmm]]
+- [[haunting-revenant-xmm (undead)]]
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]

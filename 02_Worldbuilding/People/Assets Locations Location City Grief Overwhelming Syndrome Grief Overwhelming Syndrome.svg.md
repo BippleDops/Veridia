@@ -188,3 +188,7 @@ This NPC can serve multiple roles:
 - [[Senator]] (colleague)
 ---
 *Tags*: #npc #contact #worldbuilding
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-freedrift-network-v1-freedrift-network.svg]]

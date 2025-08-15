@@ -151,3 +151,11 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[swarm-of-rot-grubs-mpmm (beast)]]
+- [[4 Assorted Beasts]]
+- [[4-assorted-beasts (volos-guide-to-monsters)]]
+- [[Rot Grub Vgm]]
+- [[rot-grub-vgm (traps-hazards)]]

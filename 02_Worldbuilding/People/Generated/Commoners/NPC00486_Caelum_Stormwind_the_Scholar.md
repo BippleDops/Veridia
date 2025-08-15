@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Stormwind the Scholar", "caelum stormwind the scholar", "Caelum Stormwind Scholar", "Scholar the Stormwind Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Stormwind the Scholar
 
 *Dwarf Farmer (Commoners), Age 63, Male*
@@ -47,11 +53,9 @@ Grew up in poverty but discovered a talent that might change everything A family
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Gavril Hawthorne the Redeemed (Criminal - Informant)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is the lost heir to the throne

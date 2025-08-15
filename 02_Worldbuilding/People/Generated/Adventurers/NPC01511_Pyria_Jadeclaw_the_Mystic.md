@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Jadeclaw the Mystic", "pyria jadeclaw the mystic", "Pyria Jadeclaw Mystic", "Mystic the Jadeclaw Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Jadeclaw the Mystic
 
 *Dwarf Wizard (Adventurers), Age 54, Male*
@@ -36,12 +42,10 @@ Running from a dark past that won't stay buried A family member's death has left
 - **Short Term**: Complete current contract
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Cedric Zephyrblade the Guardian (Political - Opposition)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ### Vesper Stormwind the Broken (Criminal - Handler)
 - **Status**: Strained but maintaining
@@ -61,7 +65,6 @@ Running from a dark past that won't stay buried A family member's death has left
 ### Qadim Keenblade the Lost (Family - Cousin)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ### Baelor Hawthorne the Lost (Family - Sibling)
 - **Status**: Recently reconciled

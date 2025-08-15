@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Ironforge the Swift", "rhiannon ironforge the swift", "Rhiannon Ironforge Swift", "Swift the Ironforge Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Ironforge the Swift
 
 *Tabaxi Noble (Nobles), Age 65, Female*
@@ -51,7 +57,6 @@ Recently elevated to nobility through service, still learning courtly ways A pro
 ### Rhiannon Quicksilver (Family - Spouse)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ### Elric Oakenshield (Professional - Employer)
 - **Status**: Strained but maintaining

@@ -10,7 +10,7 @@ modified: '2025-01-15'
 # Culture_Builder
 
 ---
-title: [[Culture Builde]]r
+title: [[Culture_Builde|Culture Builde]]r
 type: Group
 tags:
 - both

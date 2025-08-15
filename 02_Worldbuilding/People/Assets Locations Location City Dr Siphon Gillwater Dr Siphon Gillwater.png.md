@@ -208,3 +208,7 @@ Mentioned in The Second Prophecy of Winds
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-quest-storm-lord-s-challenge-quest-storm-lord-s-challenge.svg]]

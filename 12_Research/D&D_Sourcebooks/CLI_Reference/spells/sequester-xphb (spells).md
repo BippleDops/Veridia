@@ -85,7 +85,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Mentioned in The Second Prophecy of Depths
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -104,4 +103,10 @@ Mentioned in The Second Prophecy of Depths
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[sequester-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[sequester-xphb (spells)|sequester-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]

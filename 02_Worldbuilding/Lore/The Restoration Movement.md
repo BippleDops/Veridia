@@ -58,7 +58,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -119,7 +119,7 @@ Covet's doctrine emphasized that [[Aquabyssos]]'s monarchical traditions were no
 The theological framework attracted support from traditional [[Religious Communities]] throughout [[Aquabyssos]], particularly in [[region]]s where ancient religious practices remained strong. Temples and shrines became centers for Restoration activities, providing [[Organization]]al infrastructure and legitimacy for the growing movement.
 
 **Years 5-8 of the New Democratic Era** - **Political Organization**
-As democratic goverce faced its first major challenges—economic difficulties, administrative inexperience, and external threats—the Restoration Movement evolved from informal religious opposition into organized political activity. [[Noble-Born [[Marina Deepcurrent]]]] emerged as a key political organizer, using her family's traditional influence and resources to create formal political structures.
+As democratic goverce faced its first major challenges—economic difficulties, administrative inexperience, and external threats—the Restoration Movement evolved from informal religious opposition into organized political activity. [[Marina Deepcurrent|Noble-Born [[Marina Deepcurrent]]]] emerged as a key political organizer, using her family's traditional influence and resources to create formal political structures.
 
 The formation of the "Sacred Covet Party" marked the movement's entry into democratic politics, creating the paradox of using democratic processes to oppose democracy itself. [[The Party]]'s early electoral successes, particularly in traditional and rural areas, demonstrated significant popular support for Restoration ideals.
 
@@ -188,8 +188,8 @@ The Democratic Traditionalists represent the most moderate and politically succe
 
 **Leader**: [[Tidal Crown]]
 **Philosophy**: Complete restoration of traditional monarchical goverce
-**Methods**: Religious authority through [[[[Deep Mother]] Cult Practices]], alternative goverce structures, revolutionary preparation coordinating with [[The Crimson Hand]] [[Shadow Network]]s
-**Membership**: ~25,000 committed activists, extensive underground network utilizing [[Umbral Exchange]] [[Communication Systems]]
+**Methods**: Religious authority through [[Deep Mother|[[Deep Mother]] Cult Practices]], alternative goverce structures, revolutionary preparation coordinating with [[The Crimson Hand]] [[Shadow Network]]s
+**Membership**: ~25,000 committed activists, extensive underground network utilizing [[Umbral Exchange]] [[Communication_Systems|Communication Systems]]
 **Influence**: Limited in formal politics, significant in traditional religious communities and [[Crystal Forest]] resource extraction territories
 
 The Pure Restorationists reject democratic goverce entirely, viewing it as a historical aberration that must be completely replaced with restored traditional monarchy. They emphasize religious authority, hereditary legitimacy, and the sacred nature of traditional goverce structures.
@@ -358,19 +358,19 @@ The Restoration Movement continues to evolve in response to changing circumstanc
 
 ### Political Intrigue Adventures
 
-**The Restoration Conspiracy**: Characters could become involved in investigating or preventing a Restoration Movement plot to overthrow democratic goverce, requiring use of [[Investigation Procedures]] and [[[[Evidence]] Chain Analysis]] while navigating complex political loyalties and competing definitions of legitimacy and loyalty.
+**The Restoration Conspiracy**: Characters could become involved in investigating or preventing a Restoration Movement plot to overthrow democratic goverce, requiring use of [[Investigation Procedures]] and [[Evidence|[[Evidence]] Chain Analysis]] while navigating complex political loyalties and competing definitions of legitimacy and loyalty.
 
 **Electoral Manipulation**: A campaign could involve characters investigating or participating in electoral contests where Restoration Movement factions attempt to achieve their objectives through democratic processes, utilizing [[Reputation System]] mechanics and [[Interrogation Techniques]] to uncover vote manipulation schemes connected to [[The Silverscale Conspiracy]].
 
 **Diplomatic Tensions**: International implications of the Restoration Movement could draw characters into diplomatic missions involving neighboring powers concerned about political instability in [[Aquabyssos]] or opportunities created by internal political divisions, potentially involving coordination with [[Silver Mask]] intelligence networks and [[The Great Convergence Prophecies]] strategic considerations.
 
-**The Shadow Alliance**: Investigation reveals connections between Restoration Movement extremists and [[The Crimson Hand]], requiring characters to navigate the dangerous intersection of political ideology and cosmic conspiracy while managing [[[[Memory Alteration]] Consequences]] from exposure to [[Supernatural Influence]].
+**The Shadow Alliance**: Investigation reveals connections between Restoration Movement extremists and [[The Crimson Hand]], requiring characters to navigate the dangerous intersection of political ideology and cosmic conspiracy while managing [[Memory Alteration|[[Memory Alteration]] Consequences]] from exposure to [[Supernatural Influence]].
 
 ### Cultural and Religious Missions
 
-**Sacred Site Restoration**: Characters might be hired to assist in restoring ancient temples or religious sites, potentially uncovering connections to [[Temple of the First Tide]] traditional architecture, [[The Seven Betrayers]] historical sites, or [[[[Deep Mother Cult]] Practices]] sacred [[location]]s that complicate simple cultural preservation projects.
+**Sacred Site Restoration**: Characters might be hired to assist in restoring ancient temples or religious sites, potentially uncovering connections to [[Temple of the First Tide]] traditional architecture, [[The Seven Betrayers]] historical sites, or [[Deep Mother Cult|[[Deep Mother Cult]] Practices]] sacred [[location]]s that complicate simple cultural preservation projects.
 
-**Artifact Recovery**: Movement efforts to recover traditional cultural artifacts could involve characters in adventures that combine historical research through [[Aquabyssos|02 Worldbuilding/[[Quests]]/Aquabyssos]]'s collections, exploration of [[[[Leviathan]] Graveyard]] ruins, and potential conflicts with [[The Crimson Hand]] operatives seeking the same materials for convergence-related purposes.
+**Artifact Recovery**: Movement efforts to recover traditional cultural artifacts could involve characters in adventures that combine historical research through [[Aquabyssos|02 Worldbuilding/[[Quests]]/Aquabyssos]]'s collections, exploration of [[Leviathan|[[Leviathan]] Graveyard]] ruins, and potential conflicts with [[The Crimson Hand]] operatives seeking the same materials for convergence-related purposes.
 
 **Religious Conflicts**: Tensions between traditional and modern religious practices could create missions involving characters in mediating disputes using [[Reputation System]] diplomatic mechanics, protecting religious freedom while investigating connections to [[Memory Trader]] [[Memory Manipulation]], or uncovering alleged religious persecution by [[Silver Mask]] infiltrators in government positions.
 
@@ -426,7 +426,7 @@ The Restoration Movement is a undersea element of the setting, known for biolumi
 
 Legends speak of The Restoration Movement as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Restoration Movement.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -494,3 +494,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Abyssal Academy]]

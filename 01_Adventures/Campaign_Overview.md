@@ -162,7 +162,6 @@ modified: '2025-08-14'
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition
@@ -170,3 +169,7 @@ modified: '2025-08-14'
 ## Player Tips
 > 🎮 **Strategy**: How to approach this content
 > Work together and communicate
+
+## References
+
+- [[MASTER_VAULT_INDEX]]

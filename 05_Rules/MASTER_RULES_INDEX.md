@@ -168,19 +168,19 @@ type: index
 ## CLI Reference Integration
 
 ### Monster Manual
-See: [[CLI_Reference/bestiary/]]
+See: [[Bestiary|CLI_Reference/bestiary/]]
 
 ### Spell Compendium
-See: [[CLI_Reference/spells/]]
+See: [[spells|CLI_Reference/spells/]]
 
 ### Magic Items
-See: [[CLI_Reference/items/]]
+See: [[Items|CLI_Reference/items/]]
 
 ### Backgrounds
-See: [[CLI_Reference/backgrounds/]]
+See: [[backgrounds|CLI_Reference/backgrounds/]]
 
 ### Class Options
-See: [[CLI_Reference/classes/]]
+See: [[classes|CLI_Reference/classes/]]
 
 ## Quick DM Reference
 

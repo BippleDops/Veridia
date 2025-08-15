@@ -167,7 +167,7 @@ Creating defensive technologies for [[The Lock]] and other critical facilities:
 - Early warning systems for threats from [[The Hadal Depths]]
 - Communication networks resistant to extreme conditions
 
-### [[The Memory Preservation Archive]]
+### 
 Preserving the knowledge and experiences of pre-Drowning civilization:
 - Recovery of surface world memories from survivors
 - Documentation of lost technologies and magical techniques

@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Ironwood the Strong", "aldric ironwood the strong", "Aldric Ironwood Strong", "Strong the Ironwood Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Ironwood the Strong
 
 *Dwarf Trader (Merchants), Age 18, Male*
@@ -36,27 +42,22 @@ Uses their business as cover for other activities Strange abilities have begun m
 - **Short Term**: Recruit new members
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Gareth Underhill the Wanderer (Political - Ally)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
 
-
 ### Xander Quicksilver the Swift (Personal - Childhood friend)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ### Ewan Thornweave the Scholar (Political - Spy)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
 
-
 ### Nerys Silverleaf the Cunning (Personal - Childhood friend)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ### Vesper Thornweave the Wanderer (Professional - Employee)
 - **Status**: Recently reconciled
@@ -66,7 +67,6 @@ Uses their business as cover for other activities Strange abilities have begun m
 ### Hilda Nightfall the Mystic (Political - Ally)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Running a cult from their basement

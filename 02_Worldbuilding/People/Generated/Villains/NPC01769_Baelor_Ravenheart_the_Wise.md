@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Ravenheart the Wise", "baelor ravenheart the wise", "Baelor Ravenheart Wise", "Wise the Ravenheart Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Ravenheart the Wise
 
 *Firbolg Assassin (Villains), Age 31, Male*
@@ -13,7 +19,6 @@
 Towering and stocky, with Tied back brown hair and Brown eyes. Pale skin. Burn scars on one side of face.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Always speaks in metaphors and riddles; Always hungry and eating something; Compulsive liar about minor things
@@ -36,7 +41,6 @@ Betrayed by those they trusted, now seeking revenge on the world They've fallen 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Qadim Stormwind the Guardian (Personal - Love interest)
 - **Status**: Blood oath bound
@@ -47,16 +51,13 @@ Betrayed by those they trusted, now seeking revenge on the world They've fallen 
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Gareth Crystalbrook the Redeemed (Criminal - Handler)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Ysara Voidwalker the Fallen (Family - Sibling)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
-
 
 ### Xander Hawthorne the Fallen (Professional - Employer)
 - **Status**: Professional only
@@ -66,7 +67,6 @@ Betrayed by those they trusted, now seeking revenge on the world They've fallen 
 ### Erasmus Winterborn the Mystic (Professional - Partner)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Has a child they're protecting

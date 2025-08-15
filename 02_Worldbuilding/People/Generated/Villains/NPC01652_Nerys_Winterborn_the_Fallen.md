@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Winterborn the Fallen", "nerys winterborn the fallen", "Nerys Winterborn Fallen", "Fallen the Winterborn Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Winterborn the Fallen
 
 *Elf Corrupt Noble (Villains), Age 72, Male*
@@ -13,7 +19,6 @@
 Average height and compact, with Tied back blonde hair and Blue eyes. Dark skin. Weather-beaten face showing hard life.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Believes in every conspiracy theory; Never uses people's real names; Always speaks in metaphors and riddles
@@ -36,7 +41,6 @@ Believes their evil acts serve a greater good They recently discovered a secret 
 - **Short Term**: Find missing person
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Vesper Moonshadow the Strong (Political - Patron)
 - **Status**: Mutually beneficial
@@ -52,16 +56,13 @@ Believes their evil acts serve a greater good They recently discovered a secret 
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Malakai Emberfall the Swift (Personal - Ex-lover)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
 
-
 ### Baelor Crystalbrook the Lost (Family - Parent)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Knows how the world will end

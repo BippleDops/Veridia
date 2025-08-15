@@ -102,3 +102,10 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Art Captain Trawl Netcaster.png]]
+- [[Assets Locations Location City Captain Echo V1 Captain Echo.svg]]
+- [[Assets Locations Location City Weapon Master Dain Sharpedge Weapon Master Dain Sharpedge.svg]]
+- [[Assets Portraits Portrait NPC Master Smith Priest Vulcan Depthforge Master Smith Priest Vulcan Depthforge.svg]]

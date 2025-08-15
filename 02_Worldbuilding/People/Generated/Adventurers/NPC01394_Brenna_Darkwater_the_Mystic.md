@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Darkwater the Mystic", "brenna darkwater the mystic", "Brenna Darkwater Mystic", "Mystic the Darkwater Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Darkwater the Mystic
 
 *Half-Elf Cleric (Adventurers), Age 52, Non-binary*
@@ -36,12 +42,10 @@ Accidentally gained powers and learning to control them They've made a deal they
 - **Short Term**: Make this month's payment
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Malakai Blackstone the Cunning (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ### Aldric Grimholt the Strong (Professional - Partner)
 - **Status**: Secretly hostile
@@ -52,11 +56,9 @@ Accidentally gained powers and learning to control them They've made a deal they
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Nerys Brightblade the Seeker (Professional - Employer)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ### Orion Ironwood the Bold (Political - Spy)
 - **Status**: On the verge of collapse
@@ -66,7 +68,6 @@ Accidentally gained powers and learning to control them They've made a deal they
 ### Zephyr Underhill the Bold (Criminal - Fence)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Has died and been resurrected

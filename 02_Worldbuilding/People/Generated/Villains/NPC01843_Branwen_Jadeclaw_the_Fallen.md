@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Jadeclaw the Fallen", "branwen jadeclaw the fallen", "Branwen Jadeclaw Fallen", "Fallen the Jadeclaw Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Jadeclaw the Fallen
 
 *Goliath Cultist (Villains), Age 66, Male*
@@ -36,17 +42,14 @@ Corrupted by an artifact or dark magic They've fallen in love with someone they 
 - **Short Term**: Recruit new members
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Caelum Zephyrblade the Lost (Personal - Love interest)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
 
-
 ### Hestara Emberfall the Guardian (Family - Cousin)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ### Caelum Quicksilver the Broken (Personal - Childhood friend)
 - **Status**: On the verge of collapse
@@ -56,7 +59,6 @@ Corrupted by an artifact or dark magic They've fallen in love with someone they 
 ### Felicia Crystalbrook the Wanderer (Criminal - Fence)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Knows how the world will end

@@ -106,6 +106,5 @@ Mentioned in The Hidden Prophecy of Winds
 - Stealing medicine to save a plague victim
 - Choosing between two villages to save
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*

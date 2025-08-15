@@ -26,3 +26,9 @@ Further information about this topic will be developed as the campaign progresse
 - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery
+
+## References
+
+- [[Assets Locations Location City Brother Matthias Inkdrinker V1 Brother Matthias Inkdrinker.svg]]
+- [[Assets Locations Location City Court Herald Master Proclamation Crownvoice V1 Court Herald Master Proclamation Crownvoice.svg]]
+- [[Assets Locations Location City Master Elena Preserver V1 Master Elena Preserver.svg]]

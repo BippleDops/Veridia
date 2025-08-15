@@ -89,7 +89,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -108,4 +107,52 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[spellcasting-focus-xphb (variant-rules)-phb]]` in CLI_Reference/spells/
+See: `[[spellcasting-focus-xphb (variant-rules)|spellcasting-focus-xphb (variant-rules)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Arcane Study]]
+- [[arcane-study (bastions)]]
+- [[demiplane]]
+- [[observatory]]
+- [[reliquary]]
+- [[sacristy]]
+- [[sanctuary]]
+- [[sanctum]]
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]
+- [[Bard Xphb College of Valor Xphb]]
+- [[Bard Xphb]]
+- [[Cleric Xphb]]
+- [[Druid Xphb Circle of the Stars Xphb]]
+- [[Paladin Xphb]]
+- [[Rogue Xphb Arcane Trickster Xphb]]
+- [[Sorcerer Xphb Clockwork Sorcery Xphb]]
+- [[Sorcerer Xphb]]
+- [[bard-xphb (classes)]]
+- [[bard-xphb 2 (classes)]]
+- [[bard-xphb-college-of-valor-xphb (classes)]]
+- [[bard-xphb-college-of-valor-xphb 2 (classes)]]
+- [[cleric-xphb (classes)]]
+- [[druid-xphb-circle-of-the-stars-xphb (classes)]]
+- [[paladin-xphb (classes)]]
+- [[rogue-xphb-arcane-trickster-xphb (classes)]]
+- [[sorcerer-xphb (classes)]]
+- [[sorcerer-xphb-clockwork-sorcery-xphb (classes)]]
+- [[Cauldron of Rebirth Xdmg]]
+- [[Dark Shard Amulet Xdmg]]
+- [[Hat of Wizardry Xdmg]]
+- [[Natures Mantle Xdmg]]
+- [[Ruby of the War Mage Xdmg]]
+- [[cauldron-of-rebirth-xdmg (items)]]
+- [[dark-shard-amulet-xdmg (items)]]
+- [[hat-of-wizardry-xdmg (items)]]
+- [[natures-mantle-xdmg (items)]]
+- [[ruby-of-the-war-mage-xdmg (items)]]
+- [[Pact of the Blade Xphb]]
+- [[Pact of the Tome Xphb]]
+- [[pact-of-the-blade-xphb (optional-features)]]
+- [[pact-of-the-tome-xphb (optional-features)]]
+- [[Special Facility Descriptions Special Facilities Xdmg]]
+- [[Special Facility Descriptions Special]]

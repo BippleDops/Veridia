@@ -1,4 +1,5 @@
 ---
+aliases: ["Forgotten Blade of Shadows", "forgotten blade of shadows", "Shadows of Blade Forgotten"]
 tags: [generated]
 id: ITEM0133
 created: 2025-08-15T04:09:51.120Z
@@ -18,8 +19,6 @@ Crafted from blessed silver with glowing gems, in showing age but sturdy. It ema
 
 ## Quirk
 *Whispers names of previous owners*
-
-
 
 ## History
 This item was stolen from a dragon's hoard millennia ago. It has passed through many hands, each leaving their mark upon its destiny.

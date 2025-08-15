@@ -28,15 +28,12 @@ improvements: 20
 - Time pressure
 - Moral dilemmas
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
 
-
 ![Quest - Parliamentary Infiltratio](../../../04_Resources/Assets/Generated/Misc/quest___parliamentary_infiltratio.png)
-
 
 ## Objectives
 ### Primary
@@ -190,7 +187,6 @@ Things widely suspected
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Hooks
 - **Personal**: Character connection

@@ -1,11 +1,11 @@
 ---
+aliases: ["Fiora Darkwater", "fiora darkwater", "Darkwater Fiora"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -75,8 +75,6 @@ Raised by monks in a remote monastery. Years ago, they made a deal they now regr
 ### Skills
 Perception, Stealth, Athletics
 
-
-
 ## Possessions
 - 31 gold pieces
 - Family heirloom (locket)
@@ -88,7 +86,6 @@ Perception, Stealth, Athletics
 
 ---
 *Generated: 2025-08-15T03:21:04.039Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

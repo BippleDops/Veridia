@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Youngblood the Bold", "xander youngblood the bold", "Xander Youngblood Bold", "Bold the Youngblood Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Youngblood the Bold
 
 *Goliath Shopkeeper (Merchants), Age 62, Female*
@@ -36,27 +42,22 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 - **Short Term**: Gather information
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Orion Quicksilver the Seeker (Personal - Childhood friend)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
 
-
 ### Aeliana Ashford the Risen (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
-
 
 ### Felicia Zephyrblade the Bold (Professional - Employee)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Ysara Keenblade the Cunning (Family - Child)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
-
 
 ### Wynne Darkwater the Mystic (Professional - Employee)
 - **Status**: On the verge of collapse

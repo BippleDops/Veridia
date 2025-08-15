@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Lightbringer the Cunning", "cedric lightbringer the cunning", "Cedric Lightbringer Cunning", "Cunning the Lightbringer Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Lightbringer the Cunning
 
 *Dwarf Dark Wizard (Villains), Age 54, Male*
@@ -36,27 +42,22 @@ Corrupted by an artifact or dark magic They've been marked by a secret society.
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Drusilla Ironforge the Broken (Personal - Nemesis)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Hestara Quicksilver the Wise (Family - Parent)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ### Fiora Oakenshield the Scholar (Professional - Mentor)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Ewan Hawthorne the Cunning (Personal - Ex-lover)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Has a child they're protecting

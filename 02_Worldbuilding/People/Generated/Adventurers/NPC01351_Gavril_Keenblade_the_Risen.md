@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Keenblade the Risen", "gavril keenblade the risen", "Gavril Keenblade Risen", "Risen the Keenblade Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Keenblade the Risen
 
 *Gnome Bard (Adventurers), Age 74, Non-binary*
@@ -36,17 +42,14 @@ Chosen by fate to fulfill an ancient prophecy They've made a deal they're beginn
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Baelor Quicksilver the Wanderer (Professional - Employee)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
 
-
 ### Rhiannon Brightblade the Scholar (Personal - Ex-lover)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ### Felicia Brightblade the Guardian (Family - Child)
 - **Status**: Recently reconciled

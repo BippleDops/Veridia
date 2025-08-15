@@ -146,3 +146,11 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[art-elemental-mascot-scc (elemental)]]
+- [[Strixhaven Mascot Scc]]
+- [[strixhaven-mascot-scc (feats)]]
+- [[Strixhaven Mascots Scc]]
+- [[strixhaven-mascots-scc (tables)]]

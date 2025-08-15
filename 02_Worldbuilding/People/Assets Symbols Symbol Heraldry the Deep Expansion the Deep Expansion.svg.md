@@ -225,3 +225,7 @@ Member of House Lionblood - Trait: prophecy
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-shadowsail-captain-shadowsail.svg]]

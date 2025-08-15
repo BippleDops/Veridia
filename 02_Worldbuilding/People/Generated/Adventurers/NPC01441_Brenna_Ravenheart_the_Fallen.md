@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Ravenheart the Fallen", "brenna ravenheart the fallen", "Brenna Ravenheart Fallen", "Fallen the Ravenheart Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Ravenheart the Fallen
 
 *Aasimar Fighter (Adventurers), Age 72, Non-binary*
@@ -36,7 +42,6 @@ Searching for a legendary treasure their parent died seeking They recently disco
 - **Short Term**: Avoid the authorities
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Hilda Lightbringer the Broken (Professional - Employee)
 - **Status**: Blood oath bound
@@ -47,16 +52,13 @@ Searching for a legendary treasure their parent died seeking They recently disco
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
 
-
 ### Vesper Ravenheart the Risen (Political - Ally)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Drusilla Emberfall the Redeemed (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Is from the future

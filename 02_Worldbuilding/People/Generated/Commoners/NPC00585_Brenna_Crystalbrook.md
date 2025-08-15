@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Crystalbrook", "brenna crystalbrook", "Crystalbrook Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Crystalbrook
 
 *Halfling Baker (Commoners), Age 23, Female*
@@ -36,12 +42,10 @@ Survivor of a disaster that destroyed their village They've fallen in love with 
 - **Short Term**: Survive until next week
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Malakai Oakenshield the Bold (Criminal - Fence)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ### Ysara Silverleaf the Wise (Political - Spy)
 - **Status**: On the verge of collapse
@@ -56,7 +60,6 @@ Survivor of a disaster that destroyed their village They've fallen in love with 
 ### Pyria Moonshadow the Bold (Political - Puppet)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Witnessed a noble's crime

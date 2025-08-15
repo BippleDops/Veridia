@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Brightblade the Guardian", "gareth brightblade the guardian", "Gareth Brightblade Guardian", "Guardian the Brightblade Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Brightblade the Guardian
 
 *Genasi Broker (Merchants), Age 21, Male*
@@ -51,7 +57,6 @@ Former adventurer who retired to open a shop A prophetic dream has been haunting
 ### Lyanna Ironforge the Cunning (Personal - Best friend)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Sells information to all sides

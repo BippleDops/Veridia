@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Silverleaf the Seeker", "solas silverleaf the seeker", "Solas Silverleaf Seeker", "Seeker the Silverleaf Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Silverleaf the Seeker
 
 *Tiefling Fisher (Commoners), Age 72, Male*
@@ -13,7 +19,6 @@
 Short and lanky, with Mohawk bald hair and Red eyes. Scarred skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Constantly quotes ancient texts; Always speaks in metaphors and riddles
@@ -36,27 +41,22 @@ Family has worked the same trade for generations, but times are changing A famil
 - **Short Term**: Survive until next week
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Alaric Silverleaf the Fallen (Family - Child)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
 
-
 ### Jorah Lightbringer the Strong (Political - Spy)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
-
 
 ### Lyanna Moonshadow the Mystic (Family - Child)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Elric Jadeclaw the Cunning (Criminal - Accomplice)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Witnessed a noble's crime

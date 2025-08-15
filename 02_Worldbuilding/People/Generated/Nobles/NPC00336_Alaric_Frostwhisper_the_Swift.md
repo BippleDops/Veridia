@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Frostwhisper the Swift", "alaric frostwhisper the swift", "Alaric Frostwhisper Swift", "Swift the Frostwhisper Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Frostwhisper the Swift
 
 *Aasimar Aristocrat (Nobles), Age 28, Non-binary*
@@ -42,11 +48,9 @@ Recently elevated to nobility through service, still learning courtly ways They 
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Corvus Grimholt the Seeker (Professional - Rival)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ### Elric Stormwind (Personal - Nemesis)
 - **Status**: Recently reconciled
@@ -57,11 +61,9 @@ Recently elevated to nobility through service, still learning courtly ways They 
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Corvus Goldleaf the Cunning (Personal - Best friend)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
-
 
 ### Caelum Lightbringer (Political - Spy)
 - **Status**: Complicated history

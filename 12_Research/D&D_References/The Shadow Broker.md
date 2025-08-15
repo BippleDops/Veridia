@@ -63,3 +63,7 @@ Mentioned in The Hidden Prophecy of Depths
 - A noble needs help finding before dawn
 - A corpse reveals a betrayal about the government
 - A stranger needs help delivering before the new moon
+
+## References
+
+- [[Smuggler (D&D_Statblocks)]]

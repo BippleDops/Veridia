@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Underhill the Lost", "nerys underhill the lost", "Nerys Underhill Lost", "Lost the Underhill Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Underhill the Lost
 
 *Dragonborn Cultist (Villains), Age 30, Male*
@@ -36,12 +42,10 @@ Driven mad by knowledge humanity wasn't meant to know Strange abilities have beg
 - **Short Term**: Survive until next week
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Thalia Silverleaf the Broken (Personal - Best friend)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ### Pyria Ashford the Wanderer (Criminal - Fence)
 - **Status**: Strong and trusting
@@ -51,7 +55,6 @@ Driven mad by knowledge humanity wasn't meant to know Strange abilities have beg
 ### Corvus Quicksilver the Seeker (Family - Spouse)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Was once a renowned hero

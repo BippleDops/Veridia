@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Underhill the Swift", "fiora underhill the swift", "Fiora Underhill Swift", "Swift the Underhill Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Underhill the Swift
 
 *Dwarf Carpenter (Commoners), Age 45, Female*
@@ -13,7 +19,6 @@
 Very short and slender, with Long and flowing black hair and Red eyes. Freckled skin. Missing finger on left hand.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Collects unusual and worthless objects
@@ -42,16 +47,13 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Orion Ironforge (Criminal - Handler)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Hestara Grimholt the Bold (Professional - Mentor)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ### Felicia Darkwater the Cunning (Professional - Employee)
 - **Status**: Professional only
@@ -62,11 +64,9 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Solas Stormwind the Scholar (Political - Patron)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Witnessed a noble's crime

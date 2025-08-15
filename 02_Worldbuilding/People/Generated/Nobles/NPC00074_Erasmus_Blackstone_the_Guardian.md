@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Blackstone the Guardian", "erasmus blackstone the guardian", "Erasmus Blackstone Guardian", "Guardian the Blackstone Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Blackstone the Guardian
 
 *Aasimar Ambassador (Nobles), Age 38, Female*
@@ -13,7 +19,6 @@
 Short and compact, with Braided elaborately brown hair and Blue eyes. Scarred skin. Crooked nose from multiple breaks.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Compulsive liar about minor things
@@ -36,17 +41,14 @@ Exiled from their homeland, trying to rebuild their power base A chance encounte
 - **Short Term**: Gather information
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Ewan Crystalbrook the Strong (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Gavril Youngblood (Family - Cousin)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ### Elric Frostwhisper (Criminal - Fence)
 - **Status**: Blood oath bound
@@ -57,11 +59,9 @@ Exiled from their homeland, trying to rebuild their power base A chance encounte
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
 
-
 ### Gareth Hawthorne the Broken (Family - Spouse)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

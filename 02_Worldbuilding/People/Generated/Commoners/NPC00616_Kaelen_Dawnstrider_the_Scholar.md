@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Dawnstrider the Scholar", "kaelen dawnstrider the scholar", "Kaelen Dawnstrider Scholar", "Scholar the Dawnstrider Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Dawnstrider the Scholar
 
 *Genasi Baker (Commoners), Age 56, Male*
@@ -42,7 +48,6 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Felicia Stormwind the Swift (Family - Parent)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
@@ -52,11 +57,9 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Gavril Stormwind (Criminal - Accomplice)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Has dragon blood in their veins

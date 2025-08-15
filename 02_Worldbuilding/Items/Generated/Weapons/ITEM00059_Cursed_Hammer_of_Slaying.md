@@ -1,3 +1,9 @@
+---
+aliases: ["Cursed Hammer of Slaying", "cursed hammer of slaying", "Slaying of Hammer Cursed"]
+tags: [item, equipment]
+type: item
+---
+
 # Cursed Hammer of Slaying
 
 *Weapons, Common*

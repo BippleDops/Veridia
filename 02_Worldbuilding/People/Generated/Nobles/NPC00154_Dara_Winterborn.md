@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Winterborn", "dara winterborn", "Winterborn Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Winterborn
 
 *Elf Courtier (Nobles), Age 40, Female*
@@ -13,7 +19,6 @@
 Tall and stocky, with Shaved unusual color hair and Violet eyes. Scarred skin. Intricate tattoos covering arms.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Speaks to inanimate objects
@@ -47,26 +52,21 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Lyanna Keenblade (Political - Patron)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ### Hilda Youngblood the Wanderer (Family - Spouse)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
 
-
 ### Solas Emberfall the Seeker (Personal - Best friend)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
 
-
 ### Caelum Brightblade the Fallen (Family - Child)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Secretly funding the rebellion

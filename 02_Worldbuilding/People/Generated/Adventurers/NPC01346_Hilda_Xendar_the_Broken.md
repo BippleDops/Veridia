@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Xendar the Broken", "hilda xendar the broken", "Hilda Xendar Broken", "Broken the Xendar Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Xendar the Broken
 
 *Half-Elf Rogue (Adventurers), Age 61, Male*
@@ -47,11 +53,9 @@ Searching for a legendary treasure their parent died seeking Strange abilities h
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Cedric Proudmore the Bold (Personal - Love interest)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ### Zephyr Voidwalker the Risen (Family - Child)
 - **Status**: Strong and trusting

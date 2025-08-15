@@ -102,3 +102,8 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Locations Location City Scout Captain Vera Deepwatch Scout Captain Vera Deepwatch.svg]]
+- [[Assets Locations Location City Scribe Master Elena Truthkeeper V1 Scribe Master Elena Truthkeeper.svg]]

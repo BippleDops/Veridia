@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Voidwalker the Wise", "gareth voidwalker the wise", "Gareth Voidwalker Wise", "Wise the Voidwalker Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Voidwalker the Wise
 
 *Aasimar Noble (Nobles), Age 39, Non-binary*
@@ -36,12 +42,10 @@ Last survivor of a fallen house, seeking to restore family honor A chance encoun
 - **Short Term**: Sabotage competition
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Hilda Keenblade the Guardian (Criminal - Fence)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ### Pyria Lightbringer (Political - Spy)
 - **Status**: Complicated history
@@ -52,11 +56,9 @@ Last survivor of a fallen house, seeking to restore family honor A chance encoun
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
 
-
 ### Wynne Darkwater the Wise (Political - Opposition)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Child from scandalous affair

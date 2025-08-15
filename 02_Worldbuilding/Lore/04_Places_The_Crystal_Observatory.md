@@ -2,7 +2,7 @@
 tags: ['[[Lore]]']
 ---
 
-# 04_[[Places]]/The [[Crystal Observatory]]
+# 04_[[Places]]/The [[Crystal_Observatory|Crystal Observatory]]
 
 ## Overview
 

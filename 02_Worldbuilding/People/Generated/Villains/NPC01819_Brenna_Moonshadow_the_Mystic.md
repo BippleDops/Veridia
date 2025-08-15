@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Moonshadow the Mystic", "brenna moonshadow the mystic", "Brenna Moonshadow Mystic", "Mystic the Moonshadow Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Moonshadow the Mystic
 
 *Genasi Corrupt Noble (Villains), Age 40, Non-binary*
@@ -13,7 +19,6 @@
 Below average and lanky, with Mohawk bald hair and Hazel eyes. Weathered skin. Crooked nose from multiple breaks.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Incredibly optimistic despite evidence
@@ -42,7 +47,6 @@ Betrayed by those they trusted, now seeking revenge on the world Strange abiliti
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Pyria Ironforge the Redeemed (Personal - Love interest)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
@@ -57,7 +61,6 @@ Betrayed by those they trusted, now seeking revenge on the world Strange abiliti
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Solas Crystalbrook the Cunning (Professional - Employee)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
@@ -66,7 +69,6 @@ Betrayed by those they trusted, now seeking revenge on the world Strange abiliti
 ### Baelor Youngblood the Redeemed (Personal - Childhood friend)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Believes they're saving the world

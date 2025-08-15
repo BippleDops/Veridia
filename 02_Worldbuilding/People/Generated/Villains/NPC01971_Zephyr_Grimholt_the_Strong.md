@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Grimholt the Strong", "zephyr grimholt the strong", "Zephyr Grimholt Strong", "Strong the Grimholt Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Grimholt the Strong
 
 *Dragonborn Dark Wizard (Villains), Age 40, Female*
@@ -13,7 +19,6 @@
 Short and imposing, with Braided elaborately black hair and Violet eyes. Freckled skin. Missing finger on left hand.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Flirts with everyone regardless of interest; Incredibly optimistic despite evidence; Sees doom and gloom everywhere
@@ -36,12 +41,10 @@ Driven mad by knowledge humanity wasn't meant to know They've made a deal they'r
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Idris Oakenshield the Strong (Criminal - Fence)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ### Erasmus Hawthorne the Swift (Professional - Employer)
 - **Status**: Mutually beneficial
@@ -52,11 +55,9 @@ Driven mad by knowledge humanity wasn't meant to know They've made a deal they'r
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
 
-
 ### Erasmus Zephyrblade the Seeker (Professional - Rival)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Believes they're saving the world

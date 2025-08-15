@@ -71,3 +71,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[NPC00743_Ysara_Lightbringer_the_Broken]]
+- [[The Floating Market]]
+- [[The Floating Market (D&D_References)]]

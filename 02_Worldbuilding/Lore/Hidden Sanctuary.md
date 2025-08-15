@@ -56,7 +56,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -168,7 +168,7 @@ Internal defenses feature choke points at critical passages where small numbers 
 
 The sanctuary maintains early warning systems including [[Surface Observation Posts]], [[Communication Networks]] with external contacts, and detection methods for identifying crystal influence approaching the facility. These systems provide advance notice of potential threats.
 
-Emergency procedures include evacuation protocols, secure [[Communication Systems]] for coordinating with other resistance cells, and contingency plans for continuing operations even if the main sanctuary is compromised or destroyed.
+Emergency procedures include evacuation protocols, secure [[Communication_Systems|Communication Systems]] for coordinating with other resistance cells, and contingency plans for continuing operations even if the main sanctuary is compromised or destroyed.
 
 ### Leadership Structure
 
@@ -178,7 +178,7 @@ The Hidden Sanctuary operates under a military-style command structure adapted t
 
 Deputy commanders oversee specific operational areas including military training, intelligence gathering, supply management, and civilian affairs. This structure ensures that all aspects of sanctuary life receive appropriate attention while maintaining clear chains of command for operational decisions.
 
-Council representatives from different [[Community [[Groups]]]] participate in decision-making processes affecting sanctuary policy, resource allocation, and long-term planning. This democratic element helps maintain morale and ensures that diverse perspectives are considered in resistance planning.
+Council representatives from different [[Groups|Community [[Groups]]]] participate in decision-making processes affecting sanctuary policy, resource allocation, and long-term planning. This democratic element helps maintain morale and ensures that diverse perspectives are considered in resistance planning.
 
 Specialized officers manage critical functions including medical care, education, engineering and maintece, and external communications. These positions require specific expertise and maintain the sanctuary's operational capabilities.
 
@@ -354,7 +354,7 @@ Leadership progression storylines allow experienced characters to take on comman
 
 The sanctuary's situation provides opportunities to explore complex moral questions about resistance, sacrifice, and the costs of fighting corruption while maintaining human dignity and values.
 
-Resource allocation decisions force difficult choices between immediate needs and long-term objectives, creating [[Moral Dilemmas]] that test character values and priorities.
+Resource allocation decisions force difficult choices between immediate needs and long-term objectives, creating [[Moral_Dilemmas|Moral Dilemmas]] that test character values and priorities.
 
 Risk versus reward calculations in planning operations require balancing potential benefits against dangers to resistance fighters and the sanctuary itself, creating complex decision-making scenarios.
 
@@ -370,7 +370,7 @@ Hidden Sanctuary is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of Hidden Sanctuary as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Hidden Sanctuary.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -432,3 +432,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Aethermoor - Session 06 The Bloodline Awakens]]

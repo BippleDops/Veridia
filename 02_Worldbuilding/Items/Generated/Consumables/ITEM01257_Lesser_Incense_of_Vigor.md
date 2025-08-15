@@ -1,3 +1,9 @@
+---
+aliases: ["Lesser Incense of Vigor", "lesser incense of vigor", "Vigor of Incense Lesser"]
+tags: [item, equipment]
+type: item
+---
+
 # Lesser Incense of Vigor
 
 *Consumables, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A lesser incense swirling with colors
 - Fly for 1 hour
 - Remove one condition
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -31,7 +35,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.471Z*

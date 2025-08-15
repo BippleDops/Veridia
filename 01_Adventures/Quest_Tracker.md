@@ -14,7 +14,6 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 # Quest_Tracker
 
 ---
@@ -49,12 +48,10 @@ SORT priority DESC
 WHERE status = "active" AND type = "side"
 SORT level ASC
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -172,7 +169,6 @@ GROUP BY status
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Hooks
 - **Personal**: Character connection

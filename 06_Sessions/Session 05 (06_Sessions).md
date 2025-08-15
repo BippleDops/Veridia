@@ -131,7 +131,6 @@ The main reason parties get involved
 
 Mentioned in The First Prophecy of Stars
 
-
 ## See Also
 - Related content
 - Similar topics

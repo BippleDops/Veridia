@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Proudmore the Wanderer", "jorah proudmore the wanderer", "Jorah Proudmore Wanderer", "Wanderer the Proudmore Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Proudmore the Wanderer
 
 *Gnome Ranger (Adventurers), Age 52, Female*
@@ -36,12 +42,10 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 - **Short Term**: Recruit new members
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Thalia Frostwhisper the Seeker (Professional - Rival)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ### Wynne Keenblade the Cunning (Family - Spouse)
 - **Status**: Strong and trusting
@@ -57,11 +61,9 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Rhiannon Silverleaf the Strong (Family - Parent)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Secretly working for the villain

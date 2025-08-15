@@ -1,11 +1,11 @@
 ---
+aliases: ["Tara Goldleaf", "tara goldleaf", "Goldleaf Tara"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Former soldier who left after a traumatic battle. Years ago, they lost everythin
 ### Skills
 Investigation, Arcana, Stealth
 
-
-
 ## Possessions
 - 16 gold pieces
 - Family heirloom (locket)
@@ -92,7 +90,6 @@ Investigation, Arcana, Stealth
 
 ---
 *Generated: 2025-08-15T03:21:04.037Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

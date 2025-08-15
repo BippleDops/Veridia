@@ -1,3 +1,9 @@
+---
+aliases: ["Ancient Orb of Destiny", "ancient orb of destiny", "Destiny of Orb Ancient"]
+tags: [item, equipment]
+type: item
+---
+
 # Ancient Orb of Destiny
 
 *Artifacts, Artifact (requires attunement)*
@@ -16,8 +22,6 @@ A ancient orb covered in mysterious symbols
 - Regenerate 1 hp/round
 - Cast spell 3/day
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -32,7 +36,6 @@ Priceless
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.419Z*

@@ -1,3 +1,9 @@
+---
+aliases: ["Side Quest 324", "side quest 324", "324 Quest Side"]
+tags: [quest, adventure]
+type: quest
+---
+
 # Side Quest 324
 
 *Side Quest*

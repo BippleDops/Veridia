@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Voidwalker the Strong", "qadim voidwalker the strong", "Qadim Voidwalker Strong", "Strong the Voidwalker Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Voidwalker the Strong
 
 *Gnome Trader (Merchants), Age 26, Non-binary*
@@ -13,7 +19,6 @@
 Below average and slender, with Carefully styled gray hair and Blue eyes. Tan skin. Crooked nose from multiple breaks.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Speaks to inanimate objects; Flirts with everyone regardless of interest; Always tells the absolute truth
@@ -36,12 +41,10 @@ Part of a merchant family with connections everywhere They've fallen in love wit
 - **Short Term**: Recruit new members
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Kaelen Jadeclaw the Swift (Personal - Love interest)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
-
 
 ### Branwen Blackstone the Fallen (Personal - Childhood friend)
 - **Status**: Secretly hostile
@@ -56,7 +59,6 @@ Part of a merchant family with connections everywhere They've fallen in love wit
 ### Fiora Ironwood the Scholar (Professional - Mentor)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Smuggles illegal magical items

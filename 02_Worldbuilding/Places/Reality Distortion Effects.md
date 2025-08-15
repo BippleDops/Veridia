@@ -130,13 +130,11 @@ Reality Distortion Effects is a notable location characterized by its unique fea
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -144,13 +142,11 @@ Reality Distortion Effects is a notable location characterized by its unique fea
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -171,7 +167,6 @@ Ongoing situations affecting Reality Distortion Effects:
 ## Trade Importance
 
 Key stop on textiles trade route
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -208,3 +203,9 @@ Key stop on textiles trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[The Void Tears]]
+- [[Void Currents]]
+- [[Void Currents (D&D_References)]]

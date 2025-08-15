@@ -49,7 +49,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -133,7 +133,7 @@ Areas under strong Deep Mother influence gradually shift to resemble the deep oc
 
 The first recorded large-scale Deep Mother influence event occurred in the settlement of **Pelagic's Rest**, a small fishing community on the edge of the **Marianas Shelf**. Over eight years, the entire population of 2,347 individuals gradually succumbed to the influence, transforming their settlement into a bizarre deep-sea research station.
 
-**[[[[Time]]line]] of Corruption:**
+**[[Time|[[Time]]line]] of Corruption:**
 - **Year 1-2**: Increased fishing yields as residents learned to navigate deeper waters
 - **Year 3-4**: Community isolation as residents became uncomfortable with "shallow" visitors
 - **Year 5-6**: Physical [[Transformations]] became obvious, normal food supplies abandoned
@@ -378,7 +378,7 @@ Deep Mother Influence is a undersea element of the setting, known for biolumines
 
 Legends speak of Deep Mother Influence as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Deep Mother Influence.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -423,3 +423,10 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[The Bathyal Succession]]
+- [[The Deep Prophecies]]
+- [[The Transformed Citizens]]
+- [[The Transformed Citizens (D&D_References)]]

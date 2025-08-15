@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Xendar the Wise", "gavril xendar the wise", "Gavril Xendar Wise", "Wise the Xendar Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Xendar the Wise
 
 *Half-Elf Cultist (Villains), Age 51, Non-binary*
@@ -41,7 +47,6 @@ Driven mad by knowledge humanity wasn't meant to know They recently discovered a
 ### Xander Youngblood the Redeemed (Professional - Employer)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ### Delara Hawthorne the Seeker (Family - Child)
 - **Status**: Secretly hostile

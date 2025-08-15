@@ -182,3 +182,9 @@ Pressure_Artifacts is a blessed armor that radiates unknown energy.
 
 ### Curse (if applicable)
 - *[Negative effects]*
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Topic Matrix]]
+- [[Topic_Matrix (Indexes)]]

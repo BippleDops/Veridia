@@ -2,7 +2,7 @@
 tags: ['[[Lore]]']
 ---
 
-# [[02 Worldbuilding]]/Lore/[[Philosophy of Truth]]
+# [[02_Worldbuilding|02 Worldbuilding]]/Lore/[[Philosophy of Truth]]
 
 ## Overview
 

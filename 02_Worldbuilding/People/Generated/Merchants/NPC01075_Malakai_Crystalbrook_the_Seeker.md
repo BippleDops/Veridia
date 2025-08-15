@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Crystalbrook the Seeker", "malakai crystalbrook the seeker", "Malakai Crystalbrook Seeker", "Seeker the Crystalbrook Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Crystalbrook the Seeker
 
 *Dwarf Broker (Merchants), Age 30, Non-binary*
@@ -41,7 +47,6 @@ Inherited a failing business and turned it around A prophetic dream has been hau
 ### Cedric Keenblade the Broken (Political - Patron)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ### Dara Voidwalker the Lost (Personal - Nemesis)
 - **Status**: Recently reconciled

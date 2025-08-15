@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Grimholt the Risen", "faelyn grimholt the risen", "Faelyn Grimholt Risen", "Risen the Grimholt Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Grimholt the Risen
 
 *Firbolg Fisher (Commoners), Age 18, Female*
@@ -13,7 +19,6 @@
 Above average and athletic, with Carefully styled unusual color hair and Blue eyes. Tan skin. Intricate tattoos covering arms.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth
@@ -36,22 +41,18 @@ Former soldier trying to adjust to civilian life A chance encounter last winter 
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Hilda Frostwhisper the Strong (Professional - Partner)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Caelum Nightfall the Cunning (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
 
-
 ### Idris Stormwind the Mystic (Family - Cousin)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Knows location of ancient treasure

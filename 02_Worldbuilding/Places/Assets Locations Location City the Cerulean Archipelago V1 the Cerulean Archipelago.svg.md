@@ -257,7 +257,6 @@ Key stop on textiles trade route
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Adventure Seeds
 - Mysterious occurrence
 - Local conflict

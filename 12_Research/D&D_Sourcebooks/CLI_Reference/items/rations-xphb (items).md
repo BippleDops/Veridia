@@ -87,3 +87,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[garden]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Burglars Pack Xphb]]
+- [[Cooks Utensils Xphb]]
+- [[Dungeoneers Pack Xphb]]
+- [[Entertainers Pack Xphb]]
+- [[Explorers Pack Xphb]]
+- [[Priests Pack Xphb]]
+- [[burglars-pack-xphb (items)]]
+- [[cooks-utensils-xphb (items)]]
+- [[dungeoneers-pack-xphb (items)]]
+- [[entertainers-pack-xphb (items)]]
+- [[explorers-pack-xphb (items)]]
+- [[priests-pack-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

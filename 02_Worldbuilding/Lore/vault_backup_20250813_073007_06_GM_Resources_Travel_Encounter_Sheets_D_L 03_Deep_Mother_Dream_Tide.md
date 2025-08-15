@@ -33,3 +33,11 @@ Further information about this topic will be developed as the campaign progresse
 - **Level 5-10**: Standard difficulty
 - **Level 11-15**: Add elite enemies
 - **Level 16-20**: Legendary difficulty
+
+## References
+
+- [[Assets Locations Location City Portal Commander Marina Bridgewright V1 Portal Commander Marina Bridgewright.png]]
+- [[Assets Portraits Portrait NPC Captain Thrace Deeprunner Captain Thrace Deeprunner.svg]]
+- [[Assets Portraits Portrait NPC House Guard Captains House Guard Captains.svg]]
+- [[Assets Symbols Symbol Heraldry Consortium Security Constructs Consortium Security Constructs.svg]]
+- [[Assets Symbols Symbol Heraldry the Brotherhood of the Black Anchor the Brotherhood of the Black Anchor.svg]]

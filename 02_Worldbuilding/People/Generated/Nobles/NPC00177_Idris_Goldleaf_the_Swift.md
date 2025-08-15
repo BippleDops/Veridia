@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Goldleaf the Swift", "idris goldleaf the swift", "Idris Goldleaf Swift", "Swift the Goldleaf Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Goldleaf the Swift
 
 *Tiefling Noble (Nobles), Age 77, Non-binary*
@@ -36,22 +42,18 @@ Last survivor of a fallen house, seeking to restore family honor They recently d
 - **Short Term**: Gather information
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Hestara Brightblade (Professional - Employee)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Kaelen Ravenheart (Criminal - Accomplice)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Nerys Zephyrblade (Personal - Love interest)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Practicing forbidden magic

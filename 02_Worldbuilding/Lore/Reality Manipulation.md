@@ -47,5 +47,19 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Military Moral Quandaries]]
+- [[Multi-Phase Boss Fights]]
+- [[The Crimson Hand]]
+- [[The Crown of Stars]]
+- [[The Final Choice]]
+- [[The Forgetting Bomb]]
+- [[Throne Room]]
+- [[Timeline of Crimes]]
+- [[Cross-Dimensional Transit Authority]]
+- [[Depth Warden Patrol]]
+- [[Temple of the Sunken Cathedral]]

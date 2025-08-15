@@ -1,3 +1,8 @@
+---
+tags: [faction, organization]
+type: faction
+---
+
 # Portrait Gallery
 
 Generated: 2025-08-15T02:48:50.374Z

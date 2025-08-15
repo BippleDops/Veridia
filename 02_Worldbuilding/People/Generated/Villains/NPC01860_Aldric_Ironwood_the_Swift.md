@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Ironwood the Swift", "aldric ironwood the swift", "Aldric Ironwood Swift", "Swift the Ironwood Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Ironwood the Swift
 
 *Tiefling Assassin (Villains), Age 73, Female*
@@ -13,7 +19,6 @@
 Above average and imposing, with Mohawk auburn hair and Gray eyes. Scarred skin. Crooked nose from multiple breaks.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Flirts with everyone regardless of interest
@@ -36,7 +41,6 @@ Betrayed by those they trusted, now seeking revenge on the world They recently d
 - **Short Term**: Sabotage competition
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Brenna Goldleaf the Lost (Criminal - Handler)
 - **Status**: Strained but maintaining
@@ -52,11 +56,9 @@ Betrayed by those they trusted, now seeking revenge on the world They recently d
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
 
-
 ### Malakai Crystalbrook the Redeemed (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Is being controlled by darker force

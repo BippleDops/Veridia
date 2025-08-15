@@ -49,7 +49,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-heart-of-oceanus-the-heart-of-oceanus.svg)
 
@@ -430,7 +429,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -466,3 +464,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Captain Trawl Netcaster Captain Trawl Netcaster.svg]]
+- [[Assets Portraits Portrait NPC Captain Morgrim Lastvessel Captain Morgrim Lastvessel.svg]]

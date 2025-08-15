@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Nightfall the Broken", "fiora nightfall the broken", "Fiora Nightfall Broken", "Broken the Nightfall Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Nightfall the Broken
 
 *Genasi Fisher (Commoners), Age 20, Male*
@@ -36,7 +42,6 @@ Grew up in poverty but discovered a talent that might change everything An old d
 - **Short Term**: Complete current contract
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Malakai Emberfall (Political - Spy)
 - **Status**: Strong and trusting
@@ -47,11 +52,9 @@ Grew up in poverty but discovered a talent that might change everything An old d
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Hestara Underhill the Seeker (Political - Ally)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
-
 
 ### Erasmus Underhill the Swift (Professional - Mentor)
 - **Status**: One-sided affection

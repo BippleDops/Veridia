@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Thornweave the Mystic", "lyanna thornweave the mystic", "Lyanna Thornweave Mystic", "Mystic the Thornweave Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Thornweave the Mystic
 
 *Tabaxi Aristocrat (Nobles), Age 24, Male*
@@ -36,22 +42,18 @@ Exiled from their homeland, trying to rebuild their power base They've fallen in
 - **Short Term**: Find missing person
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Felicia Silverleaf (Political - Ally)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Solas Ashford the Strong (Personal - Love interest)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Qadim Nightfall the Cunning (Professional - Mentor)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Practicing forbidden magic

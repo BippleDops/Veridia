@@ -210,13 +210,11 @@ The Bathyal Palace is a notable location characterized by its unique features an
 ### Founding
 The Bathyal Palace was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -224,13 +222,11 @@ The Bathyal Palace was established in the distant past, growing from humble begi
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -249,7 +245,6 @@ The Bathyal Palace was established in the distant past, growing from humble begi
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -286,3 +281,12 @@ The Bathyal Palace was established in the distant past, growing from humble begi
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Party Shadows (Criminal_Organizations)]]
+- [[Ancient Aquabyssos Rulers]]
+- [[Archon Meredith Saltweaver]]
+- [[Ancient Aquabyssos Rulers (D&D_References)]]
+- [[Archon Meredith Saltweaver (D&D_References)]]
+- [[Party Shadows]]

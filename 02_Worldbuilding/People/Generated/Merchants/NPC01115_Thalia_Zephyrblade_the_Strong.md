@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Zephyrblade the Strong", "thalia zephyrblade the strong", "Thalia Zephyrblade Strong", "Strong the Zephyrblade Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Zephyrblade the Strong
 
 *Half-Elf Appraiser (Merchants), Age 40, Male*
@@ -13,7 +19,6 @@
 Short and muscular, with Short and neat unusual color hair and Brown eyes. Olive skin. Prominent scar across the face.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Incredibly optimistic despite evidence
@@ -42,11 +47,9 @@ Former adventurer who retired to open a shop Strange abilities have begun manife
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Aldric Grimholt the Swift (Criminal - Informant)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ### Zephyr Ashford the Seeker (Personal - Love interest)
 - **Status**: Blood oath bound

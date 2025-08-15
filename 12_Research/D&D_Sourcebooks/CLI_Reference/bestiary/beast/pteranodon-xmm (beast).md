@@ -130,3 +130,21 @@ Mentioned in The First Prophecy of Stars
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Pteranodon Xmm]]
+- [[3 Animals]]
+- [[3-animals (monster-manual-2025)]]
+- [[Coastal Encounters Levels 14 Xge]]
+- [[Grassland Encounters Levels 15 Xge]]
+- [[Monsters by Habitat Coastal Monsters Xmm]]
+- [[Monsters by Habitat Grassland Monsters Xmm]]
+- [[Monsters by Habitat Mountain Monsters Xmm]]
+- [[Mountain Encounters Levels 14 Xge]]
+- [[coastal-encounters-levels-14-xge (tables)]]
+- [[grassland-encounters-levels-15-xge (tables)]]
+- [[monsters-by-habitat-coastal-monsters-xmm (tables)]]
+- [[monsters-by-habitat-grassland-monsters-xmm (tables)]]
+- [[monsters-by-habitat-mountain-monsters-xmm (tables)]]
+- [[mountain-encounters-levels-14-xge (tables)]]

@@ -14,7 +14,6 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 # Quest - The First Shadow
 
 ---
@@ -33,12 +32,10 @@ world: Aquabyssos
 updated: '2025-08-13T01:18:34.573408+00:00'
 ---
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -156,7 +153,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## Hooks
 - **Personal**: Character connection
 - **Professional**: Hired for the job
@@ -205,3 +201,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition
+
+## References
+
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure (D&D_References)]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure 3 (D&D_References)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Divine Mirror of the Gods", "divine mirror of the gods", "Divine Mirror of Gods", "Gods the of Mirror Divine"]
+tags: [item, equipment]
+type: item
+---
+
 # Divine Mirror of the Gods
 
 *Artifacts, Artifact (requires attunement)*
@@ -16,8 +22,6 @@ A divine mirror pulsing with inner light
 - Immunity to charm
 - Regenerate 1 hp/round
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -32,7 +36,6 @@ Priceless
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.431Z*

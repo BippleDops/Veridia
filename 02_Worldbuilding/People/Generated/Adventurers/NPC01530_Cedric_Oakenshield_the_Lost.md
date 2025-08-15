@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Oakenshield the Lost", "cedric oakenshield the lost", "Cedric Oakenshield Lost", "Lost the Oakenshield Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Oakenshield the Lost
 
 *Genasi Bard (Adventurers), Age 33, Female*
@@ -42,16 +48,13 @@ Searching for a legendary treasure their parent died seeking They're being black
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Pyria Ravenheart the Fallen (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Brenna Hawthorne the Risen (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Secretly working for the villain

@@ -144,3 +144,11 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Gulthias Blight Xmm]]
+- [[gulthias-blight-xmm (plant)]]
+- [[twig-blight-xmm (plant)]]
+- [[Gulthias Staff Cos]]
+- [[gulthias-staff-cos (items)]]

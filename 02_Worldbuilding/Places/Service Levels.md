@@ -42,7 +42,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -95,7 +95,7 @@ Legends speak of Service Levels as a nexus where past and present converge. Loca
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -116,13 +116,11 @@ Service Levels is a notable location characterized by its unique features and st
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -130,13 +128,11 @@ Service Levels is a notable location characterized by its unique features and st
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -161,7 +157,7 @@ Ongoing situations affecting Service Levels:
 - A letter reveals a conspiracy about the cult
 - Strange sightings suggest a conspiracy
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -206,7 +202,6 @@ Ongoing situations affecting Service Levels:
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -242,3 +237,10 @@ Ongoing situations affecting Service Levels:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Inverted Ballroom Wing]]
+- [[Pressure Terminal]]
+- [[The Free Current]]
+- [[Inverted Ballroom Wing (D&D_References)]]

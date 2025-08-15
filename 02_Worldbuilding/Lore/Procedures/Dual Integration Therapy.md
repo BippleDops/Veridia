@@ -88,3 +88,7 @@ improvements: 20
 
 - A corpse reveals the truth about the government
 - Someone is hunting information for love
+
+## References
+
+- [[Procedures Dual Integration Therapy]]

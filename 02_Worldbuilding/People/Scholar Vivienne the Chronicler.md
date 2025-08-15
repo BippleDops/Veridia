@@ -22,7 +22,7 @@ status: complete
 race: Half-Elf
 class: Unknown
 location: '[[Crystalhaven]] - The Grand Library'
-affiliation: '[[The Archive of Forgotten Things]]'
+affiliation: ''
 age: '62'
 created_by: auto-stub
 role: Shard Historian
@@ -43,7 +43,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-scholar-vivienne-the-chronicler-scholar-vivienne-the-chronicler.svg)
 
@@ -51,7 +50,6 @@ improvements: 20
 
 # Scholar Vivienne the Chronicler
 *Keeper of Shard Lore, Master of Ancient Texts*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -375,7 +373,6 @@ Mentioned in The Second Prophecy of Stars
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -411,3 +408,15 @@ Mentioned in The Second Prophecy of Stars
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Quest - The Convergence Crisis]]
+- [[Stop the Shadow Harvest (Criminal_Organizations)]]
+- [[Assets Symbols Symbol Heraldry Faction Intelligence Faction Intelligence.svg]]
+- [[High Priestess Nerida Soulcurrent]]
+- [[Order of the Shattered Crown]]
+- [[High Priestess Nerida Soulcurrent (D&D_References)]]
+- [[Stop the Shadow Harvest]]
+- [[Order of the Shattered Crown (D&D_Statblocks)]]

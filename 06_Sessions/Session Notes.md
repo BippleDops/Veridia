@@ -120,10 +120,8 @@ Session Notes represents a crucial aspect of the world's history, cosmology, or 
 - 20% middle class
 - 79% working poor
 
-
 ## Pronunciation Guide
 - **Wealth**: [WEALTH]
-
 
 ## See Also
 - Related content
@@ -134,3 +132,7 @@ Session Notes represents a crucial aspect of the world's history, cosmology, or 
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
 - **Hidden Details**: Secret aspects
+
+## References
+
+- [[Mobile_Dashboard]]

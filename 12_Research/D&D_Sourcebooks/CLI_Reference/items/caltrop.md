@@ -17,7 +17,7 @@ type: note
 tags:
 - both
 - ttrpg-cli/item/gear/
-- ttrpg-cli/compendium/src/5e/phb
+- ttrpg-cli/[[Compendium|Compendium]]/src/5e/phb
 - research
 - active
 - note
@@ -33,7 +33,7 @@ world: Both
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Items/item-artifact-caltrop-caltrop.svg)
+![]([[04_Resources|04_Resources]]/[[Assets|Assets]]/[[Items|Items]]/item-artifact-caltrop-caltrop.svg)
 
 # Caltrop
 *Adventuring gear*  
@@ -43,7 +43,7 @@ world: Both
 
 As an action, you can spread a single bag of caltrops to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the saving throw.
 
-*Source: Player's Handbook p. 151. Available in the SRD and the Basic Rules (2014)*
+*Source: Player's Handbook p. 151. Available in the SRD and the [[Basic_Rules|Basic Rules]] (2014)*
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -57,15 +57,15 @@ As an action, you can spread a single bag of caltrops to cover a 5-foot-square a
 
 - Add 12_Research-specific enhancement
 
-## Player-Facing Summary
+## Player-[[facing|facing]] Summary
 
 Caltrop is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore|Lore]] Details
 
-Legends speak of caltrop as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around caltrop.
+Legends speak of caltrop as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or [[Whispers|Whispers]] on the wind—that herald change around caltrop.
 
-## DM Notes
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -85,3 +85,6 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+---
+**Navigation**: [[INDEX|🏠 Home]] | [[INDEX|📚 Index]]

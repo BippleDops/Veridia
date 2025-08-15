@@ -45,3 +45,8 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[List Optfeaturetype Ed]]
+- [[list-optfeaturetype-ed (lists)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Zephyrblade the Wise", "aldric zephyrblade the wise", "Aldric Zephyrblade Wise", "Wise the Zephyrblade Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Zephyrblade the Wise
 
 *Half-Elf Courtier (Nobles), Age 50, Female*
@@ -36,22 +42,18 @@ Exiled from their homeland, trying to rebuild their power base A family member's
 - **Short Term**: Sabotage competition
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Delara Goldleaf the Seeker (Criminal - Fence)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Nerys Underhill (Political - Opposition)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Delara Frostwhisper (Political - Opposition)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ### Felicia Ironforge (Political - Puppet)
 - **Status**: One-sided affection

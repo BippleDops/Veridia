@@ -234,3 +234,8 @@ Member of House Eagleblood - Trait: prophecy
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-harbor-master-captain-dockwise-harbor-master-captain-dockwise.svg]]
+- [[04_Resources_Assets_Locations_location-city-merchant-prince-aldric-goldcurrent-v1-merchant-prince-aldric-goldcurrent.svg]]

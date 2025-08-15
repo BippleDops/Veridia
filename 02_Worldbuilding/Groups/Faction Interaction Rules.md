@@ -62,3 +62,8 @@ This content can be adapted and expanded based on specific campaign needs.
 ### Membership
 - **Size**: *[Approximate number of members]*
 - **Recruitment**: *[How they recruit new members]*
+
+## References
+
+- [[Random Encounters]]
+- [[Random Encounters (D&D_Statblocks)]]

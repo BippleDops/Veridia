@@ -1,3 +1,9 @@
+---
+aliases: ["Mithril Helm of Resistance", "mithril helm of resistance", "Resistance of Helm Mithril"]
+tags: [item, equipment]
+type: item
+---
+
 # Mithril Helm of Resistance
 
 *Armor, Common*
@@ -13,8 +19,6 @@ A mithril helm shimmering with energy
 ## Properties
 - +1 to AC
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -29,7 +33,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.402Z*

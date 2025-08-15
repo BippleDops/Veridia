@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Blackstone", "hilda blackstone", "Blackstone Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Blackstone
 
 *Elf Noble (Nobles), Age 60, Male*
@@ -13,7 +19,6 @@
 Average height and delicate, with Carefully styled bald hair and Brown eyes. Scarred skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Collects unusual and worthless objects; Always hungry and eating something
@@ -36,22 +41,18 @@ Exiled from their homeland, trying to rebuild their power base They recently dis
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Hilda Proudmore the Redeemed (Criminal - Fence)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
 
-
 ### Aeliana Emberfall (Family - Cousin)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
 
-
 ### Rhiannon Thornweave (Political - Ally)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

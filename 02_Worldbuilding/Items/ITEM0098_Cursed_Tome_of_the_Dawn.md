@@ -1,4 +1,5 @@
 ---
+aliases: ["Cursed Tome of the Dawn", "cursed tome of the dawn", "Cursed Tome of Dawn", "Dawn the of Tome Cursed"]
 tags: [generated]
 id: ITEM0098
 created: 2025-08-15T04:09:51.109Z
@@ -18,8 +19,6 @@ Crafted from crystal with battle scars, in showing age but sturdy. It emanates a
 
 ## Quirk
 *Occasionally speaks in ancient tongue*
-
-
 
 ## History
 This item was reforged from broken artifacts ages ago. It has passed through many hands, each leaving their mark upon its destiny.

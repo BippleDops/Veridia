@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Xendar the Seeker", "cedric xendar the seeker", "Cedric Xendar Seeker", "Seeker the Xendar Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Xendar the Seeker
 
 *Dwarf Baker (Commoners), Age 58, Male*
@@ -13,7 +19,6 @@
 Tall and heavyset, with Tied back blonde hair and Black eyes. Unusual hue skin. Burn scars on one side of face.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Compulsive liar about minor things; Laughs at the most inappropriate times; Collects unusual and worthless objects
@@ -36,12 +41,10 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Branwen Emberfall the Risen (Professional - Partner)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ### Alaric Nightfall the Mystic (Personal - Nemesis)
 - **Status**: Mutually beneficial
@@ -52,21 +55,17 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
 
-
 ### Qadim Winterborn the Lost (Family - Child)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ### Dara Winterborn the Wise (Criminal - Informant)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Faelyn Brightblade the Mystic (Political - Puppet)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Can hear the thoughts of others

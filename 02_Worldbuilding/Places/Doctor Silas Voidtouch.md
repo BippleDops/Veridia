@@ -56,7 +56,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -117,7 +117,7 @@ Legends speak of Doctor Silas Voidtouch as a nexus where past and present conver
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -141,13 +141,11 @@ Doctor Silas Voidtouch is a notable location characterized by its unique feature
 ### Founding
 Doctor Silas Voidtouch was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -155,13 +153,11 @@ Doctor Silas Voidtouch was established in the distant past, growing from humble 
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -196,7 +192,6 @@ Ongoing situations affecting Doctor Silas Voidtouch:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -233,3 +228,11 @@ Ongoing situations affecting Doctor Silas Voidtouch:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Lumengarde]]
+- [[The Cerulean Trench]]
+- [[Lumengarde (D&D_References)]]
+- [[The Cerulean Trench (D&D_References)]]
+- [[The Crimson Foundries (D&D_Statblocks)]]

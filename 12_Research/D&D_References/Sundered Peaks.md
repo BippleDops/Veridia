@@ -70,3 +70,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Establish the New Order (Orders)]]
+- [[Establish the New Order]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Proudmore the Mystic", "corvus proudmore the mystic", "Corvus Proudmore Mystic", "Mystic the Proudmore Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Proudmore the Mystic
 
 *Half-Orc Rogue (Adventurers), Age 49, Non-binary*
@@ -36,32 +42,26 @@ Accidentally gained powers and learning to control them A family member's death 
 - **Short Term**: Complete current contract
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Ysara Zephyrblade the Risen (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Baelor Quicksilver the Seeker (Criminal - Target)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ### Faelyn Jadeclaw the Seeker (Personal - Best friend)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Rhiannon Proudmore the Guardian (Political - Ally)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Malakai Ravenheart the Swift (Political - Opposition)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Carries a world-ending artifact

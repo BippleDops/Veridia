@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Proudmore the Fallen", "xander proudmore the fallen", "Xander Proudmore Fallen", "Fallen the Proudmore Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Proudmore the Fallen
 
 *Goliath Cultist (Villains), Age 71, Non-binary*
@@ -47,11 +53,9 @@ Believes their evil acts serve a greater good They've fallen in love with someon
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Wynne Blackstone the Bold (Criminal - Accomplice)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ### Idris Ironforge the Broken (Family - Cousin)
 - **Status**: On the verge of collapse
@@ -61,7 +65,6 @@ Believes their evil acts serve a greater good They've fallen in love with someon
 ### Delara Ashford the Bold (Political - Ally)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ### Baelor Darkwater the Lost (Political - Puppet)
 - **Status**: Professional only

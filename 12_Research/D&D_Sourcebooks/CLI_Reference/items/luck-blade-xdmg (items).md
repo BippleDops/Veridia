@@ -105,3 +105,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Armaments Legendary Xdmg]]
+- [[Magic Item Table I]]
+- [[Random Magic Items Armaments]]
+- [[armaments-legendary-xdmg (tables)]]
+- [[magic-item-table-i (tables)]]
+- [[random-magic-items-armaments (tables)]]

@@ -108,7 +108,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -127,4 +126,41 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[fog-cloud-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[fog-cloud-xphb (spells)|fog-cloud-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Ice Mephit Xmm]]
+- [[Marid Xmm]]
+- [[ice-mephit-xmm (elemental)]]
+- [[marid-xmm (elemental)]]
+- [[Annis Hag Mpmm]]
+- [[Hobgoblin Devastator Mpmm]]
+- [[Winter Eladrin Mpmm]]
+- [[annis-hag-mpmm (fey)]]
+- [[hobgoblin-devastator-mpmm (fey)]]
+- [[winter-eladrin-mpmm (fey)]]
+- [[Cloud Giant Smiling One Mpmm]]
+- [[Cloud Giant Xmm]]
+- [[cloud-giant-smiling-one-mpmm (giant)]]
+- [[cloud-giant-xmm (giant)]]
+- [[Bronze Dragon]]
+- [[bronze-dragon (legendary-group)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Tempest Domain]]
+- [[Druid Xphb Circle of the Sea Xphb]]
+- [[Rogue Xphb Arcane Trickster Xphb]]
+- [[cleric-xphb-tempest-domain (classes)]]
+- [[druid-xphb-circle-of-the-sea-xphb (classes)]]
+- [[rogue-xphb-arcane-trickster-xphb (classes)]]
+- [[Instrument of the Bards Mac Fuirmidh Cittern]]
+- [[Jakarions Staff of Frost Cos]]
+- [[Staff of Frost Xdmg]]
+- [[instrument-of-the-bards-mac-fuirmidh-cittern-xdmg]]
+- [[jakarions-staff-of-frost-cos (items)]]
+- [[staff-of-frost-xdmg (items)]]
+- [[Triton Vgm]]
+- [[triton-vgm (races)]]
+- [[Wild Magic Surge Phb]]
+- [[wild-magic-surge-phb (tables)]]

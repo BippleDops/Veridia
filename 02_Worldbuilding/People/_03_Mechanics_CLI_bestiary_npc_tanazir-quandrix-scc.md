@@ -15,7 +15,6 @@ tags: ['npc']
 
 ## Description
 
-
 ## Statistics
 ___
 - **Armor Class** 12 (natural armor)
@@ -58,7 +57,6 @@ A distinguished individual whose presence commands attention. Their appearance s
 - **Ideals**: Excellence in their craft
 - **Bonds**: Connections to local organizations
 - **Flaws**: To be discovered through interaction
-
 
 ## Stats
 - **AC**: 12
@@ -108,7 +106,6 @@ A distinguished individual whose presence commands attention. Their appearance s
 - Competing professionals
 - Political opponents
 - Business competitors
-
 
 ## Motivations
 - **Primary Goal**: Main objective

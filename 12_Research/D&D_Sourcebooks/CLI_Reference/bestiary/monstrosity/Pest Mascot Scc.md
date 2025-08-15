@@ -128,3 +128,11 @@ Mentioned in The First Prophecy of Depths
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[pest-mascot-scc (monstrosity)]]
+- [[Strixhaven Mascot Scc]]
+- [[strixhaven-mascot-scc (feats)]]
+- [[Strixhaven Mascots Scc]]
+- [[strixhaven-mascots-scc (tables)]]

@@ -12,7 +12,7 @@ modified: '2025-01-15'
  - [[Npc]]
  - [[Creatures Gallery]]
  - [[Locations_Gallery]]
- - [[Scenes Gallery]]
+ - [[Scenes_Gallery|Scenes Gallery]]
  - [[04_Resources]]
  - [[04_Resources]]
  - [[04_Resources]]

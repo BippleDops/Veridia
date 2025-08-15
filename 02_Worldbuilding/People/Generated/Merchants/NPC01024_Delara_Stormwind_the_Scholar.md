@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Stormwind the Scholar", "delara stormwind the scholar", "Delara Stormwind Scholar", "Scholar the Stormwind Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Stormwind the Scholar
 
 *Genasi Caravan Master (Merchants), Age 75, Non-binary*
@@ -13,7 +19,6 @@
 Very tall and slender, with Short and neat red hair and Violet eyes. Fair skin. Burn scars on one side of face.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Compulsive liar about minor things; Always hungry and eating something
@@ -36,22 +41,18 @@ Uses their business as cover for other activities They've been marked by a secre
 - **Short Term**: Make this month's payment
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Corvus Ashford the Swift (Criminal - Fence)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Elric Emberfall the Wise (Personal - Best friend)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
 
-
 ### Jorah Zephyrblade the Redeemed (Criminal - Target)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Killed previous business owner

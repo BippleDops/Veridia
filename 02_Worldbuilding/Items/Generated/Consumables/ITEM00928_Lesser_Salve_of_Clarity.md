@@ -1,3 +1,9 @@
+---
+aliases: ["Lesser Salve of Clarity", "lesser salve of clarity", "Clarity of Salve Lesser"]
+tags: [item, equipment]
+type: item
+---
+
 # Lesser Salve of Clarity
 
 *Consumables, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A lesser salve swirling with colors
 - Breathe underwater 1 hour
 - Increase speed by 10 ft
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -30,7 +34,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.439Z*

@@ -247,3 +247,7 @@ What they claim to pursue
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Faction_Reputation_System]]

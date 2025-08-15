@@ -189,3 +189,7 @@ This NPC can serve multiple roles:
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-vex-shadowthorn-boss-fight-vex-shadowthorn-boss-fight.png]]

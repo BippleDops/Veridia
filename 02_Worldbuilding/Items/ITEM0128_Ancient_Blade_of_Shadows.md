@@ -1,4 +1,5 @@
 ---
+aliases: ["Ancient Blade of Shadows", "ancient blade of shadows", "Shadows of Blade Ancient"]
 tags: [generated]
 id: ITEM0128
 created: 2025-08-15T04:09:51.118Z

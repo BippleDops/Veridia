@@ -1,22 +1,27 @@
+---
+tags: [misc]
+type: misc
+---
+
 # 10,000 Asset Generation Report
 
 Generated: 2025-08-15T03:51:04.242Z
 
 ## Summary
 
-**Total Assets Generated: 10,000**
+**Total [[Assets|Assets]] Generated: 10,000**
 
 ## Breakdown by Category
 
 | Category | Count | Percentage |
 |----------|-------|------------|
 | NPCs | 2,000 | 20.0% |
-| Items | 1,500 | 15.0% |
+| [[Items|Items]] | 1,500 | 15.0% |
 | Locations | 1,500 | 15.0% |
-| Quests | 1,000 | 10.0% |
+| [[Quests|Quests]] | 1,000 | 10.0% |
 | Encounters | 1,000 | 10.0% |
-| Lore | 1,000 | 10.0% |
-| Spells | 500 | 5.0% |
+| [[Lore|Lore]] | 1,000 | 10.0% |
+| [[spells|spells]] | 500 | 5.0% |
 | Monsters | 500 | 5.0% |
 | Factions | 300 | 3.0% |
 | Events | 300 | 3.0% |
@@ -30,13 +35,13 @@ All assets include:
 - Detailed descriptions
 - Game mechanics where applicable
 - Plot hooks and adventure seeds
-- Interconnected relationships
+- Interconnected [[RELATIONSHIPS|RELATIONSHIPS]]
 
-## Directory Structure
+## [[DIRECTORY_STRUCTURE|DIRECTORY STRUCTURE]]
 
 ```
-02_Worldbuilding/
-├── People/Generated/ (2,000 NPCs)
+[[02_Worldbuilding|02_Worldbuilding]]/
+├── [[People|People]]/Generated/ (2,000 NPCs)
 ├── Items/Generated/ (1,500 items)
 ├── Places/Generated/ (1,500 locations)
 ├── Quests/Generated/ (1,000 quests)
@@ -50,7 +55,7 @@ All assets include:
 ├── Spells/Custom/ (500 spells)
 └── Monsters/Custom/ (500 creatures)
 
-04_Resources/Assets/
+[[04_Resources|04_Resources]]/Assets/
 └── Real_Maps/Generated_Dungeons/ (200 dungeons)
 ```
 

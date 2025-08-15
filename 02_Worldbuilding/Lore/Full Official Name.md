@@ -114,3 +114,7 @@ Full Official Name represents a crucial aspect of the world's history, cosmology
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[CORDELIA_VAULT_USER_MANUAL]]

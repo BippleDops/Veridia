@@ -1,4 +1,5 @@
 ---
+aliases: ["Hunt the Dragon", "hunt the dragon", "Hunt Dragon", "Dragon the Hunt"]
 tags: [quest, adventure, generated]
 type: quest
 ---
@@ -60,8 +61,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Show mercy and gain intel - Future ally but justice denied
 2. Execute for crimes committed - Justice served but opportunity lost
-
-
 
 ## Rewards
 ### On Success

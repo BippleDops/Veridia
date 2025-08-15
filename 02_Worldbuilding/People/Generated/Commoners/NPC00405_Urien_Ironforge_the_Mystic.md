@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Ironforge the Mystic", "urien ironforge the mystic", "Urien Ironforge Mystic", "Mystic the Ironforge Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Ironforge the Mystic
 
 *Dwarf Farmer (Commoners), Age 77, Non-binary*
@@ -36,17 +42,14 @@ Runaway from an arranged marriage, starting a new life An old debt has come due 
 - **Short Term**: Gather information
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Qadim Stormwind (Political - Ally)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Nerys Ashford (Personal - Nemesis)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
-
 
 ### Corvus Nightfall the Fallen (Criminal - Informant)
 - **Status**: Recently reconciled

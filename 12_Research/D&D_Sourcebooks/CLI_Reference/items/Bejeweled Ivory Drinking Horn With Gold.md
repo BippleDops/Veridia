@@ -76,3 +76,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A journal reveals ancient history about the cult
 - Someone is protecting a artifact for power
 - Strange disappearances suggest a conspiracy
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[7500 Gp Art Objects Xdmg]]
+- [[7500 Gp Art Objects]]
+- [[7500-gp-art-objects (tables)]]
+- [[7500-gp-art-objects-xdmg (tables)]]

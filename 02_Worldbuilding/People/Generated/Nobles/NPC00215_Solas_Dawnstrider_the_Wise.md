@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Dawnstrider the Wise", "solas dawnstrider the wise", "Solas Dawnstrider Wise", "Wise the Dawnstrider Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Dawnstrider the Wise
 
 *Aasimar Noble (Nobles), Age 22, Non-binary*
@@ -36,17 +42,14 @@ Secretly adopted into nobility, living in fear of discovery A family member's de
 - **Short Term**: Gather information
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Gavril Silverleaf the Wanderer (Personal - Best friend)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Hilda Hawthorne (Professional - Employee)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
-
 
 ### Baelor Ashford (Criminal - Accomplice)
 - **Status**: Complicated history
@@ -56,7 +59,6 @@ Secretly adopted into nobility, living in fear of discovery A family member's de
 ### Elric Lightbringer the Swift (Political - Opposition)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Secretly funding the rebellion

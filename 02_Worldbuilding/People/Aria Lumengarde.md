@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-aria-lumengarde-aria-lumengarde.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -232,7 +230,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -268,3 +265,20 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Establish the New Order (Orders)]]
+- [[Queen Seraphina Lumengarde (People)]]
+- [[Assets Locations Location City Dr Vera Spectrumseeker Dr Vera Spectrumseeker.svg]]
+- [[Assets Locations Location City Master Engineer Cordelia Pressurewright Master Engineer Cordelia Pressurewright.svg]]
+- [[Assets Locations Location City Temple of Sacred Dreams V1 Temple of Sacred Dreams.svg]]
+- [[Assets Symbols Symbol Heraldry Commander Void Tacticia Commander Void Tacticia.svg]]
+- [[Lord Aurelius Goldwave]]
+- [[Establish the New Order]]
+- [[Prince Caspian Duskwater (D&D_References)]]
+- [[Queen Seraphina Lumengarde (D&D_References)]]
+- [[The Seven Shards (D&D_References)]]
+- [[The Seven Shards 3 (D&D_References)]]
+- [[The Verdant Reach (D&D_References)]]
+- [[Lord Aurelius Goldwave (D&D_Statblocks)]]

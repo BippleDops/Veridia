@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Goldleaf the Wise", "dara goldleaf the wise", "Dara Goldleaf Wise", "Wise the Goldleaf Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Goldleaf the Wise
 
 *Aasimar Appraiser (Merchants), Age 21, Female*
@@ -42,26 +48,21 @@ Built their business from nothing through cunning and hard work They recently di
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Jorah Hawthorne the Swift (Professional - Employee)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ### Qadim Blackstone the Mystic (Political - Ally)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Idris Nightfall the Strong (Personal - Nemesis)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
 
-
 ### Solas Lightbringer the Scholar (Professional - Employer)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Sells information to all sides

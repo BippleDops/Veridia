@@ -1,4 +1,5 @@
 ---
+aliases: ["Blessed Pendant of Power", "blessed pendant of power", "Power of Pendant Blessed"]
 tags: [generated]
 id: ITEM0049
 created: 2025-08-15T04:09:51.094Z

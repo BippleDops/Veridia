@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Frostwhisper the Seeker", "aeliana frostwhisper the seeker", "Aeliana Frostwhisper Seeker", "Seeker the Frostwhisper Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Frostwhisper the Seeker
 
 *Tabaxi Blacksmith (Commoners), Age 59, Non-binary*
@@ -13,7 +19,6 @@
 Short and compact, with Braided elaborately red hair and Amber eyes. Dark skin. Missing ear from old battle.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Never backs down from any challenge
@@ -42,16 +47,13 @@ Family has worked the same trade for generations, but times are changing They've
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Baelor Dawnstrider the Seeker (Criminal - Target)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Elric Ironwood the Broken (Family - Spouse)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
-
 
 ### Jorah Quicksilver the Risen (Professional - Employer)
 - **Status**: Recently reconciled
@@ -62,11 +64,9 @@ Family has worked the same trade for generations, but times are changing They've
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Solas Nightfall the Mystic (Criminal - Accomplice)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Knows location of ancient treasure

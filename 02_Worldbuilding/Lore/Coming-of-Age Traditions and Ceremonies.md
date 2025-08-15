@@ -105,3 +105,7 @@ Coming-of-Age Traditions and Ceremonies represents a crucial aspect of the world
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Child Life in the Realms]]

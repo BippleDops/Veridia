@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Keenblade the Guardian", "dara keenblade the guardian", "Dara Keenblade Guardian", "Guardian the Keenblade Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Keenblade the Guardian
 
 *Dwarf Crime Boss (Villains), Age 47, Female*
@@ -36,7 +42,6 @@ Driven mad by knowledge humanity wasn't meant to know Strange abilities have beg
 - **Short Term**: Find missing person
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Gareth Goldleaf the Swift (Professional - Rival)
 - **Status**: On the verge of collapse
@@ -47,11 +52,9 @@ Driven mad by knowledge humanity wasn't meant to know Strange abilities have beg
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Erasmus Voidwalker the Cunning (Criminal - Fence)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Was once a renowned hero

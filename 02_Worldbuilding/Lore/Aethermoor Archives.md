@@ -55,3 +55,12 @@ Aethermoor Archives represents an important aspect of the world's history, cultu
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
+
+
+## References
+
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Thalassius the Wise]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide (D&D_References)]]
+- [[Thalassius the Wise (D&D_References)]]
+- [[Thalassius the Wise 3 (D&D_References)]]

@@ -52,7 +52,6 @@ This content can be adapted and expanded based on specific campaign needs.
 ## DM Notes
 * Customize as needed for your specific campaign requirements.*
 
-
 ## See Also
 - Related content
 - Similar topics
@@ -82,3 +81,7 @@ status: active
 ## Player Tips
 > 🎮 **Strategy**: How to approach this content
 > Work together and communicate
+
+## References
+
+- [[Campaign_Overview_1 (01_Adventures)]]

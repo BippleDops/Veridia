@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Nightfall the Broken", "corvus nightfall the broken", "Corvus Nightfall Broken", "Broken the Nightfall Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Nightfall the Broken
 
 *Half-Elf Cleric (Adventurers), Age 74, Female*
@@ -42,21 +48,17 @@ Seeking vengeance for a murdered mentor An old debt has come due at the worst po
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Baelor Ashford the Broken (Family - Child)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
-
 
 ### Elric Zephyrblade the Broken (Personal - Nemesis)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Jorah Oakenshield the Seeker (Criminal - Target)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Secretly working for the villain

@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Winterborn the Broken", "pyria winterborn the broken", "Pyria Winterborn Broken", "Broken the Winterborn Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Winterborn the Broken
 
 *Gnome Courtier (Nobles), Age 23, Non-binary*
@@ -13,7 +19,6 @@
 Towering and lanky, with Wild and unkempt bald hair and Green eyes. Freckled skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Incredibly optimistic despite evidence
@@ -36,22 +41,18 @@ Recently elevated to nobility through service, still learning courtly ways A cha
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Wynne Quicksilver (Criminal - Accomplice)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Felicia Thornweave the Swift (Political - Opposition)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Branwen Youngblood (Political - Puppet)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Practicing forbidden magic

@@ -143,3 +143,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A corpse reveals ancient history about the government
 - A journal reveals a conspiracy about this place
+
+## References
+
+- [[Adult Kruthik Mpmm]]
+- [[adult-kruthik-mpmm (monstrosity)]]
+- [[young-kruthik-mpmm (monstrosity)]]
+- [[6 Bestiary]]
+- [[6-bestiary (mordenkainens-tome-of-foes)]]

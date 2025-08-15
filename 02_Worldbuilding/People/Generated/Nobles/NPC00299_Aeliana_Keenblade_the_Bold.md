@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Keenblade the Bold", "aeliana keenblade the bold", "Aeliana Keenblade Bold", "Bold the Keenblade Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Keenblade the Bold
 
 *Dragonborn Ambassador (Nobles), Age 56, Female*
@@ -47,11 +53,9 @@ Exiled from their homeland, trying to rebuild their power base A family member's
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Xander Crystalbrook the Risen (Criminal - Target)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ### Ewan Crystalbrook the Swift (Criminal - Handler)
 - **Status**: Strained but maintaining
@@ -61,7 +65,6 @@ Exiled from their homeland, trying to rebuild their power base A family member's
 ### Fiora Nightfall the Wanderer (Criminal - Informant)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Child from scandalous affair

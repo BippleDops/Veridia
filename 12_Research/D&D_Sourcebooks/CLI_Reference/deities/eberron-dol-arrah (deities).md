@@ -82,3 +82,8 @@ Mentioned in The Second Prophecy of Stars
 - A journal reveals a betrayal about the government
 - A noble needs help finding before dawn
 - A map reveals a betrayal about this place
+
+## References
+
+- [[Deities of Eberron]]
+- [[deities-of-eberron (tables)]]

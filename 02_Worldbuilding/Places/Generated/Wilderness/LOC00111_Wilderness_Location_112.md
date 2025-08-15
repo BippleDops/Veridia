@@ -1,3 +1,9 @@
+---
+aliases: ["Wilderness Location 112", "wilderness location 112", "112 Location Wilderness"]
+tags: [location, place]
+type: location
+---
+
 # Wilderness Location 112
 
 *Wilderness*

@@ -102,3 +102,8 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Locations Location City Deep Compressmaster V1 Deep Compressmaster.svg]]
+- [[Assets Locations Location City Pool of Sacred Drowning Pool of Sacred Drowning.svg]]

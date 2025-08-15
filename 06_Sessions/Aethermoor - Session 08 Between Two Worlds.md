@@ -183,7 +183,6 @@ Key Mechanics:
 - Heal poisoned NPC child
 - Religious debate with cult leader
 
-
 ## Alternate Descriptions
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination

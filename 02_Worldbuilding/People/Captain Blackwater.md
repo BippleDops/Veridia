@@ -34,7 +34,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-blackwater-captain-blackwater.svg)
 
@@ -315,7 +314,6 @@ Member of House Wolfblood - Trait: magical affinity
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -351,3 +349,16 @@ Member of House Wolfblood - Trait: magical affinity
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Comprehensive-World-Connection-Guide]]
+- [[Relationship Web Nuances]]
+- [[Trade Route Establishment]]
+- [[Assets Locations Location City Prophetic Dreams V1 Prophetic Dreams.svg]]
+- [[Assets Locations Location City the Drowning Truth the Drowning Truth.svg]]
+- [[Assets Portraits Portrait NPC Captain Mistwalker Captain Mistwalker.svg]]
+- [[Militant-Priest Abyssal]]
+- [[Militant-Priest Abyssal (D&D_References)]]
+- [[Topic Matrix]]
+- [[Topic_Matrix (Indexes)]]

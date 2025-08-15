@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Jadeclaw the Wanderer", "elric jadeclaw the wanderer", "Elric Jadeclaw Wanderer", "Wanderer the Jadeclaw Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Jadeclaw the Wanderer
 
 *Elf Dark Wizard (Villains), Age 32, Female*
@@ -36,22 +42,18 @@ Believes their evil acts serve a greater good A chance encounter last winter cha
 - **Short Term**: Sabotage competition
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Vesper Keenblade the Strong (Personal - Love interest)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Rhiannon Quicksilver the Fallen (Personal - Love interest)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Ysara Ravenheart the Scholar (Professional - Employee)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Is being controlled by darker force

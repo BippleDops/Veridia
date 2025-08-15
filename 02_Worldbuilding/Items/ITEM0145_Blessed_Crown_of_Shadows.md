@@ -1,4 +1,5 @@
 ---
+aliases: ["Blessed Crown of Shadows", "blessed crown of shadows", "Shadows of Crown Blessed"]
 tags: [generated]
 id: ITEM0145
 created: 2025-08-15T04:09:51.123Z
@@ -18,8 +19,6 @@ Crafted from darkwood with intricate runes, in ancient but unbreakable. It emana
 
 ## Quirk
 *Vibrates near magic*
-
-
 
 ## History
 This item was created to seal an ancient evil ages ago. It has passed through many hands, each leaving their mark upon its destiny.

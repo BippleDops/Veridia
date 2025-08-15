@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Thornweave the Guardian", "zephyr thornweave the guardian", "Zephyr Thornweave Guardian", "Guardian the Thornweave Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Thornweave the Guardian
 
 *Half-Orc Corrupt Noble (Villains), Age 67, Female*
@@ -36,32 +42,26 @@ Driven mad by knowledge humanity wasn't meant to know A prophetic dream has been
 - **Short Term**: Survive until next week
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Elric Crystalbrook the Scholar (Political - Ally)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Vesper Dawnstrider the Risen (Family - Child)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ### Jorah Thornweave the Cunning (Professional - Employer)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Jorah Grimholt the Broken (Criminal - Accomplice)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Branwen Jadeclaw the Seeker (Criminal - Fence)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ### Wynne Moonshadow the Risen (Personal - Love interest)
 - **Status**: Mutually beneficial

@@ -1,11 +1,11 @@
 ---
+aliases: ["Ophelia Darkwater", "ophelia darkwater", "Darkwater Ophelia"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Discovered magical talent late in life. Years ago, they lost everything in a fir
 ### Skills
 Insight, Deception
 
-
-
 ## Possessions
 - 100 gold pieces
 - Letter of recommendation
@@ -92,7 +90,6 @@ Insight, Deception
 
 ---
 *Generated: 2025-08-15T03:21:04.042Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

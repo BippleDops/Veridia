@@ -344,3 +344,7 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Aethermoor - Session 04 The Silverscale Gambit]]

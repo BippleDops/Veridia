@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Crystalbrook the Lost", "wynne crystalbrook the lost", "Wynne Crystalbrook Lost", "Lost the Crystalbrook Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Crystalbrook the Lost
 
 *Firbolg Cultist (Villains), Age 58, Female*
@@ -42,16 +48,13 @@ Corrupted by an artifact or dark magic A prophetic dream has been haunting them 
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Kaelen Silverleaf the Seeker (Family - Sibling)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Solas Ironforge the Wise (Political - Puppet)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Knows how the world will end

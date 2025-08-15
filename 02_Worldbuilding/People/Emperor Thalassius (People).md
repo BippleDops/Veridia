@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 
 # Emperor Thalassius the Deep-Crowned
 *The Shadow Emperor, He Who Speaks with Depths, First of the Parliament*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -202,7 +200,6 @@ Emperor Thalassius is a undersea element of the setting, known for bioluminescen
 ## Lore Details
 
 Legends speak of Emperor Thalassius as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Emperor Thalassius.
-
 
 ## Daily Routine
 - **Morning**: Typical activities

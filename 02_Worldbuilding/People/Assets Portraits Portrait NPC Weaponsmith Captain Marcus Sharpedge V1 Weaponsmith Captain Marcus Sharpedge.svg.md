@@ -184,7 +184,7 @@ This NPC can serve multiple roles:
 ## Relationships
 
 - **Friend**: [[Assets Portraits Portrait NPC Trade Captain Sterling Trade Captain Sterling.svg]]
-- **Blackmailer**: [[Quest   The Succession Crisis]]
+- **Blackmailer**: [[The Succession Crisis|Quest   The Succession Crisis]]
 - **Ally**: [[Portrait NPC the Throne Pretenders V1 the Throne Pretenders.svg]]
 - **Creditor**: [[Portrait NPC Emperor Thalassius Emperor Thalassius.svg]]
 - **Debtor**: [[Portrait NPC Empress Tethys the Ever Drowning V1 Empress Tethys the Ever Drowning.svg]]
@@ -200,3 +200,8 @@ This NPC can serve multiple roles:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-shadow-crystal-synthesis-the-shadow-crystal-synthesis.png]]
+- [[04_Resources_Assets_Locations_location-city-the-drowned-embassy-v1-the-drowned-embassy.svg]]

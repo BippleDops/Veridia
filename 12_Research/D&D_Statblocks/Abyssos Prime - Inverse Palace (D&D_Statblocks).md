@@ -244,7 +244,7 @@ The palace's reality-warping properties have created a tear in the [[Dimensional
 
 ### The Archive Heist
 
-The party is hired to steal specific knowledge from the [[Whisper Archives]], but they must:
+The party is hired to steal specific knowledge from the , but they must:
 
 - Infiltrate the most heavily guarded location in [[Aquabyssos]]
 - Navigate the palace's impossible architecture
@@ -330,3 +330,10 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Emperor Thalassius the Wise]]
+- [[Aquabyssos - Session 01 - The Drowning Welcome]]
+- [[Emperor Thalassius the Wise (D&D_Statblocks)]]
+- [[Find the Grief Bomb (D&D_Statblocks)]]

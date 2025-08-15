@@ -1,3 +1,9 @@
+---
+aliases: ["Masterwork Lock of Quality", "masterwork lock of quality", "Quality of Lock Masterwork"]
+tags: [item, equipment]
+type: item
+---
+
 # Masterwork Lock of Quality
 
 *Mundane, Uncommon*
@@ -14,8 +20,6 @@ A masterwork lock expertly crafted
 - Grants minor benefit
 - Provides comfort
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -30,7 +34,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.477Z*

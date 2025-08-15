@@ -1,3 +1,9 @@
+---
+aliases: ["Infernal Amulet of Dominion", "infernal amulet of dominion", "Dominion of Amulet Infernal"]
+tags: [item, equipment]
+type: item
+---
+
 # Infernal Amulet of Dominion
 
 *Artifacts, Very Rare*
@@ -16,8 +22,6 @@ A infernal amulet covered in mysterious symbols
 - Grant true sight
 - Grant true sight
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -32,7 +36,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.418Z*

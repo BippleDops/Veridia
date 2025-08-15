@@ -73,3 +73,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Crystal Garden]]
+- [[Crystal Garden (D&D_References)]]
+- [[Crystal Garden 3 (D&D_References)]]

@@ -23,3 +23,8 @@ Academy Alliance Archives represents a crucial aspect of the world's history, co
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## References
+
+- [[Session 10 New Horizons (06_Sessions)]]

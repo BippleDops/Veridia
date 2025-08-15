@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Voidwalker the Guardian", "idris voidwalker the guardian", "Idris Voidwalker Guardian", "Guardian the Voidwalker Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Voidwalker the Guardian
 
 *Halfling Broker (Merchants), Age 55, Female*
@@ -36,7 +42,6 @@ Built their business from nothing through cunning and hard work A family member'
 - **Short Term**: Find missing person
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Kaelen Youngblood the Guardian (Political - Ally)
 - **Status**: Strained but maintaining
@@ -46,7 +51,6 @@ Built their business from nothing through cunning and hard work A family member'
 ### Nerys Zephyrblade the Seeker (Personal - Best friend)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ### Brenna Crystalbrook the Wanderer (Political - Opposition)
 - **Status**: On the verge of collapse
@@ -61,7 +65,6 @@ Built their business from nothing through cunning and hard work A family member'
 ### Caelum Crystalbrook the Wise (Personal - Ex-lover)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Running a cult from their basement

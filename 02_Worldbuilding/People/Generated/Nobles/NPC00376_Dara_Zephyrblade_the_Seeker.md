@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Zephyrblade the Seeker", "dara zephyrblade the seeker", "Dara Zephyrblade Seeker", "Seeker the Zephyrblade Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Zephyrblade the Seeker
 
 *Firbolg Heir (Nobles), Age 32, Non-binary*
@@ -42,16 +48,13 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
 
-
 ### Xander Youngblood (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Dara Lightbringer the Seeker (Personal - Nemesis)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

@@ -162,3 +162,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[star-spawn-hulk-mpmm (aberration)]]
+- [[6 Bestiary]]
+- [[6-bestiary (mordenkainens-tome-of-foes)]]

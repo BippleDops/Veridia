@@ -75,7 +75,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -88,3 +87,23 @@ Contextual improvement based on 12_Research
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Shadow Broker Mirrors (Criminal_Organizations)]]
+- [[QUEST0018_The_Sunken_Temple_Uprising]]
+- [[Master_Spell_Compendium]]
+- [[Shadow Broker Mirrors]]
+- [[rod-of-alertness-xdmg (items)]]
+- [[List Spells School Abjuration]]
+- [[List Spells School Conjuration]]
+- [[List Spells School Enchantment]]
+- [[List Spells School Illusion]]
+- [[List Spells School Necromancy]]
+- [[List Spells School Transmutation]]
+- [[list-spells-school-abjuration (lists)]]
+- [[list-spells-school-conjuration (lists)]]
+- [[list-spells-school-enchantment (lists)]]
+- [[list-spells-school-illusion (lists)]]
+- [[list-spells-school-necromancy (lists)]]
+- [[list-spells-school-transmutation (lists)]]

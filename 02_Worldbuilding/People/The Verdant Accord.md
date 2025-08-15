@@ -51,12 +51,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-verdant-accord-the-verdant-accord.svg)
 
 # The Verdant Accord
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -259,7 +257,6 @@ Member of House Serpentblood - Trait: magical affinity
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -295,3 +292,24 @@ Member of House Serpentblood - Trait: magical affinity
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Quest - Diplomatic Immunity]]
+- [[The Senator (People)]]
+- [[Assets Locations Location City Ambassador Lysandra Silvertonge Ambassador Lysandra Silvertonge.svg]]
+- [[Assets Locations Location City Master Chronologist Temporal Truthkeeper Master Chronologist Temporal Truthkeeper.svg]]
+- [[Assets Symbols Symbol Heraldry Elara Crystalline Elara Crystalline.svg]]
+- [[Assets Symbols Symbol Heraldry the Architects of Depths the Architects of Depths.svg]]
+- [[Deep Anarchists]]
+- [[Sorrow-Root Nightbloom]]
+- [[The Emerald Sage Willowbark]]
+- [[The Senator]]
+- [[Vex Shadowthorn's Apprentices]]
+- [[Deep Anarchists (D&D_References)]]
+- [[Sorrow-Root Nightbloom (D&D_References)]]
+- [[The Senator (D&D_References)]]
+- [[The Verdant Reach (D&D_References)]]
+- [[Vex Shadowthorn's Apprentices (D&D_References)]]
+- [[Archdruid Thornweaver (D&D_Statblocks)]]
+- [[The Emerald Sage Willowbark (D&D_Statblocks)]]

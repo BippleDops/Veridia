@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Oakenshield the Wanderer", "malakai oakenshield the wanderer", "Malakai Oakenshield Wanderer", "Wanderer the Oakenshield Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Oakenshield the Wanderer
 
 *Goliath Assassin (Villains), Age 71, Non-binary*
@@ -13,7 +19,6 @@
 Towering and slender, with Carefully styled red hair and Green eyes. Pale skin. Burn scars on one side of face.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Flirts with everyone regardless of interest; Speaks to inanimate objects
@@ -47,16 +52,13 @@ Born into evil but questioning their path An old debt has come due at the worst 
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Urien Winterborn the Lost (Family - Child)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
 
-
 ### Baelor Thornweave the Mystic (Family - Child)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Believes they're saving the world

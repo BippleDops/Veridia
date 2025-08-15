@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Blackstone the Swift", "hilda blackstone the swift", "Hilda Blackstone Swift", "Swift the Blackstone Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Blackstone the Swift
 
 *Dwarf Fighter (Adventurers), Age 45, Female*
@@ -13,7 +19,6 @@
 Very short and wiry, with Braided elaborately gray hair and Hazel eyes. Olive skin. Warm smile that puts people at ease.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Always hungry and eating something; Laughs at the most inappropriate times; Collects unusual and worthless objects
@@ -42,11 +47,9 @@ Seeking vengeance for a murdered mentor They've been marked by a secret society.
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Idris Crystalbrook the Guardian (Family - Sibling)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
-
 
 ### Aldric Darkwater the Seeker (Personal - Love interest)
 - **Status**: Secretly hostile
@@ -57,7 +60,6 @@ Seeking vengeance for a murdered mentor They've been marked by a secret society.
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Brenna Ashford the Bold (Personal - Nemesis)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
@@ -66,7 +68,6 @@ Seeking vengeance for a murdered mentor They've been marked by a secret society.
 ### Drusilla Voidwalker the Mystic (Professional - Partner)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Is from the future

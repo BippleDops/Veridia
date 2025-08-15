@@ -1,4 +1,5 @@
 ---
+aliases: ["Escape the Assassins", "escape the assassins", "Escape Assassins", "Assassins the Escape"]
 tags: [generated]
 id: QUEST0001
 created: 2025-08-15T04:09:51.362Z
@@ -22,8 +23,6 @@ Eliminate the cult leader before they can complete the ritual
 ### Secondary
 - Establish future contacts
 - Maintain cover identity
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they accidentally discovered a conspiracy, which changed their life forever. Now, circumstances demand immediate action.

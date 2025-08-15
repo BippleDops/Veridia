@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Underhill the Lost", "hilda underhill the lost", "Hilda Underhill Lost", "Lost the Underhill Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Underhill the Lost
 
 *Elf Wizard (Adventurers), Age 45, Male*
@@ -36,12 +42,10 @@ Chosen by fate to fulfill an ancient prophecy A prophetic dream has been hauntin
 - **Short Term**: Sabotage competition
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Urien Proudmore the Risen (Personal - Love interest)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
-
 
 ### Dara Voidwalker the Risen (Family - Sibling)
 - **Status**: Secretly hostile
@@ -51,7 +55,6 @@ Chosen by fate to fulfill an ancient prophecy A prophetic dream has been hauntin
 ### Thalia Frostwhisper the Cunning (Criminal - Fence)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
-
 
 ### Nerys Moonshadow the Wanderer (Professional - Rival)
 - **Status**: Blood oath bound
@@ -66,7 +69,6 @@ Chosen by fate to fulfill an ancient prophecy A prophetic dream has been hauntin
 ### Solas Goldleaf the Risen (Criminal - Accomplice)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Carries a world-ending artifact

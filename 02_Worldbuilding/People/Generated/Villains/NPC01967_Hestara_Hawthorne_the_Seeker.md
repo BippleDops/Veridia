@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Hawthorne the Seeker", "hestara hawthorne the seeker", "Hestara Hawthorne Seeker", "Seeker the Hawthorne Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Hawthorne the Seeker
 
 *Half-Elf Assassin (Villains), Age 64, Non-binary*
@@ -13,7 +19,6 @@
 Towering and compact, with Carefully styled silver hair and Brown eyes. Scarred skin. Missing finger on left hand.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Laughs at the most inappropriate times; Sees doom and gloom everywhere
@@ -36,27 +41,22 @@ Driven mad by knowledge humanity wasn't meant to know They've been marked by a s
 - **Short Term**: Recruit new members
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Qadim Proudmore the Wanderer (Political - Ally)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Wynne Emberfall the Strong (Criminal - Informant)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ### Corvus Quicksilver the Redeemed (Criminal - Informant)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Branwen Emberfall the Broken (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Is being controlled by darker force

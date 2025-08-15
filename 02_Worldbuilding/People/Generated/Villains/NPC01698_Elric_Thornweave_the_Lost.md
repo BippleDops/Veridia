@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Thornweave the Lost", "elric thornweave the lost", "Elric Thornweave Lost", "Lost the Thornweave Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Thornweave the Lost
 
 *Dwarf Crime Boss (Villains), Age 36, Male*
@@ -36,7 +42,6 @@ Driven mad by knowledge humanity wasn't meant to know A family member's death ha
 - **Short Term**: Sabotage competition
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Drusilla Voidwalker the Redeemed (Criminal - Accomplice)
 - **Status**: Mutually beneficial
@@ -47,21 +52,17 @@ Driven mad by knowledge humanity wasn't meant to know A family member's death ha
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
 
-
 ### Cedric Quicksilver the Fallen (Family - Parent)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
-
 
 ### Nerys Underhill the Strong (Political - Ally)
 - **Status**: One-sided affection
 - **History**: United by common enemy
 
-
 ### Urien Ironforge the Cunning (Political - Spy)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Has a child they're protecting

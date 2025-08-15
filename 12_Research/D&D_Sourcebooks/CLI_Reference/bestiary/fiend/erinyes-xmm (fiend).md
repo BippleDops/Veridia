@@ -164,3 +164,15 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Erinyes Xmm]]
+- [[Deck of Illusions Xdmg]]
+- [[Deck of Illusions]]
+- [[deck-of-illusions (decks)]]
+- [[deck-of-illusions-xdmg (decks)]]
+- [[Deck of Illusions Xdmg (items)]]
+- [[Iron Flask Xdmg]]
+- [[deck-of-illusions-xdmg (items)]]
+- [[iron-flask-xdmg (items)]]

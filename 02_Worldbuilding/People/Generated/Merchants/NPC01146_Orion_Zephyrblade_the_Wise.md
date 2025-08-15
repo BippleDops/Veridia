@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Zephyrblade the Wise", "orion zephyrblade the wise", "Orion Zephyrblade Wise", "Wise the Zephyrblade Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Zephyrblade the Wise
 
 *Half-Elf Broker (Merchants), Age 32, Female*
@@ -13,7 +19,6 @@
 Very short and athletic, with Wild and unkempt black hair and Hazel eyes. Fair skin. Crooked nose from multiple breaks.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Sees doom and gloom everywhere; Collects unusual and worthless objects
@@ -36,7 +41,6 @@ Built their business from nothing through cunning and hard work They've been mar
 - **Short Term**: Find missing person
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Xander Frostwhisper the Lost (Political - Opposition)
 - **Status**: Secretly hostile
@@ -47,11 +51,9 @@ Built their business from nothing through cunning and hard work They've been mar
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Pyria Grimholt the Cunning (Political - Puppet)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Sells information to all sides

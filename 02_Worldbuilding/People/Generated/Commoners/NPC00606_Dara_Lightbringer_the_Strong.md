@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Lightbringer the Strong", "dara lightbringer the strong", "Dara Lightbringer Strong", "Strong the Lightbringer Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Lightbringer the Strong
 
 *Half-Elf Farmer (Commoners), Age 65, Male*
@@ -13,7 +19,6 @@
 Towering and athletic, with Tied back blonde hair and Amber eyes. Scarred skin. Gold tooth that glints when smiling.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Speaks to inanimate objects
@@ -36,17 +41,14 @@ Runaway from an arranged marriage, starting a new life An old debt has come due 
 - **Short Term**: Gather information
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Qadim Dawnstrider the Strong (Political - Opposition)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Lyanna Youngblood the Fallen (Family - Cousin)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ### Thalia Frostwhisper the Bold (Political - Opposition)
 - **Status**: Professional only
@@ -61,7 +63,6 @@ Runaway from an arranged marriage, starting a new life An old debt has come due 
 ### Branwen Dawnstrider the Fallen (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Witnessed a noble's crime

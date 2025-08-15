@@ -1,6 +1,6 @@
 ---
 
-title: [[The [[Emperor]]]]'s Gambit
+title: [[Emperor|The [[Emperor]]]]'s Gambit
 type: [[Lore]]
 tags:
 - lore
@@ -23,7 +23,7 @@ connections:
 - '[[Parliament of Echoes]]'
 - '[[Tidal Council]]'
 - '[[Deep Mother]]'
-- '[[[[Marina Red Tide [[Coral]]hear]]t - Aquabyssos (D&D_References)]]'
+- '[[Coral|[[Marina Red Tide [[Coral]]hear]]t - Aquabyssos (D&D_References)]]'
 themes:
 - political_manipulation
 - long_term_strategy
@@ -49,7 +49,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -116,7 +116,7 @@ The Emperor divided his consciousness among nine chosen vessels, each carrying s
 1. **The Strategist** - Hidden within [[The Tidal Council]]'s military archives
 2. **The Diplomat** - Encoded in treaty documents between Aquabyssos and [[Surface Kingdoms]]
 3. **The Scholar** - Preserved in deep-sea research station consciousness matrices
-4. **The Protector** - Embedded within the honor codes of [[[[Depth Warden]]s]]
+4. **The Protector** - Embedded within the honor codes of [[Depth Warden|[[Depth Warden]]s]]
 5. **The Visionary** - Scattered across prophetic texts found in both worlds
 6. **The Mourner** - Infused into memorial sites where heroes died fighting cosmic horrors
 7. **The Hope-Bearer** - Woven into songs and stories told to children in both realms
@@ -169,7 +169,7 @@ Recent events suggest the Emperor's Gambit is entering its final phase:
 
 **The Scholar** manifests through research breakthroughs that occur simultaneously in both worlds, always related to protecting against cosmic intrusion.
 
-**The Crown-Heart** shows signs of activation within individuals connected to [[[[Marina Red Tide Coralheart]] - Aquabyssos (D&D_References)]], suggesting the bloodline connection runs deeper than previously understood.
+**The Crown-Heart** shows signs of activation within individuals connected to [[Coral|[[Marina Red Tide Coralheart]] - Aquabyssos (D&D_References)]], suggesting the bloodline connection runs deeper than previously understood.
 
 ## Mechanical Effects
 
@@ -233,7 +233,7 @@ The Emperor's Gambit is a undersea element of the setting, known for bioluminesc
 
 Legends speak of The Emperor's Gambit as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Emperor's Gambit.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 

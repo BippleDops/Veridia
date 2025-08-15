@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Zephyrblade the Fallen", "gavril zephyrblade the fallen", "Gavril Zephyrblade Fallen", "Fallen the Zephyrblade Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Zephyrblade the Fallen
 
 *Gnome Cleric (Adventurers), Age 39, Male*
@@ -36,12 +42,10 @@ Searching for a legendary treasure their parent died seeking They've made a deal
 - **Short Term**: Find missing person
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Zephyr Darkwater the Mystic (Family - Child)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ### Delara Xendar the Wanderer (Family - Child)
 - **Status**: Strained but maintaining
@@ -56,7 +60,6 @@ Searching for a legendary treasure their parent died seeking They've made a deal
 ### Wynne Quicksilver the Wise (Political - Patron)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Possessed by ancient spirit

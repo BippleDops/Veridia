@@ -1,3 +1,9 @@
+---
+aliases: ["Distilled Oil of Fortune", "distilled oil of fortune", "Fortune of Oil Distilled"]
+tags: [item, equipment]
+type: item
+---
+
 # Distilled Oil of Fortune
 
 *Consumables, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A distilled oil swirling with colors
 - Breathe underwater 1 hour
 - Fly for 1 hour
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -31,7 +35,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.463Z*

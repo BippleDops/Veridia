@@ -72,3 +72,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[50 Gp Gemstones Xdmg]]
+- [[50 Gp Gemstones]]
+- [[50-gp-gemstones (tables)]]
+- [[50-gp-gemstones-xdmg (tables)]]

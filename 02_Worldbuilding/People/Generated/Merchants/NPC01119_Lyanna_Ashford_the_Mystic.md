@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Ashford the Mystic", "lyanna ashford the mystic", "Lyanna Ashford Mystic", "Mystic the Ashford Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Ashford the Mystic
 
 *Human Caravan Master (Merchants), Age 55, Non-binary*
@@ -13,7 +19,6 @@
 Average height and slender, with Tied back white hair and Green eyes. Fair skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Extremely superstitious about everything; Always tells the absolute truth
@@ -36,17 +41,14 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 - **Short Term**: Avoid the authorities
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Caelum Ashford the Redeemed (Family - Sibling)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
 
-
 ### Cedric Winterborn the Redeemed (Professional - Rival)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ### Ysara Jadeclaw the Bold (Criminal - Target)
 - **Status**: Strong and trusting
@@ -57,11 +59,9 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
 
-
 ### Elric Proudmore the Risen (Personal - Ex-lover)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ### Caelum Ravenheart the Redeemed (Family - Spouse)
 - **Status**: Strained but maintaining

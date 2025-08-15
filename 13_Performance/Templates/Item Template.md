@@ -43,14 +43,14 @@ modified: '2025-08-14'
 
 ## Semantic Connections
 *Related concepts and locations:*
-- [[armor and shields armor phb]]
-- [[bard xphb college of swords xge]]
-- [[object armor class]]
+- [[Armor and Shields Armor Phb|armor and shields armor phb]]
+- [[Bard Xphb College of Swords Xge|bard xphb college of swords xge]]
+- [[Object Armor Class|object armor class]]
 - [[Lysara Brightshield]]
-- [[starting at higher level starting equipment]]
+- [[Starting at Higher Level Starting Equipment|starting at higher level starting equipment]]
 - [[bard-xphb-college-of-swords-xge 2]]
-- [[armor xphb]]
-- [[Houses_and_Nobility   House Brightshield]]
+- [[Armor Xphb|armor xphb]]
+- [[Houses_and_Nobility___House_Brightshield|Houses_and_Nobility   House Brightshield]]
 - [[Captain Lyanna Brightshield]]
 - [[Surgery Master Dr Marcus Deptblade]]
 
@@ -72,3 +72,7 @@ Contextual improvement based on 09_Templates
 ## 09_Templates Specific Content
 
 Contextual improvement based on 09_Templates
+
+## References
+
+- [[bard-xphb-college-of-swords-xge 2]]

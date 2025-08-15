@@ -1,3 +1,9 @@
+---
+aliases: ["Divine Scepter of Truth", "divine scepter of truth", "Truth of Scepter Divine"]
+tags: [item, equipment]
+type: item
+---
+
 # Divine Scepter of Truth
 
 *Artifacts, Very Rare*
@@ -16,8 +22,6 @@ A divine scepter radiating otherworldly power
 - Immunity to charm
 - Cast spell 3/day
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -32,7 +36,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.433Z*

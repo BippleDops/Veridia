@@ -33,3 +33,8 @@ Active and ready for use in gameplay.
 
 ## Notes
 Additional details can be added as the campaign develops.
+
+
+## References
+
+- [[README (D&D_References)]]

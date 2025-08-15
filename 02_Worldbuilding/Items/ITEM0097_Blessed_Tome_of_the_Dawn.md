@@ -1,4 +1,5 @@
 ---
+aliases: ["Blessed Tome of the Dawn", "blessed tome of the dawn", "Blessed Tome of Dawn", "Dawn the of Tome Blessed"]
 tags: [generated]
 id: ITEM0097
 created: 2025-08-15T04:09:51.108Z
@@ -19,8 +20,6 @@ Crafted from dragonscale with glowing gems, in ancient but unbreakable. It emana
 
 ## Quirk
 *Glows during full moon*
-
-
 
 ## History
 This item was created to seal an ancient evil centuries ago. It has passed through many hands, each leaving their mark upon its destiny.

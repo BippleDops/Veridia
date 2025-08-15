@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Lightbringer the Wanderer", "zephyr lightbringer the wanderer", "Zephyr Lightbringer Wanderer", "Wanderer the Lightbringer Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Lightbringer the Wanderer
 
 *Aasimar Broker (Merchants), Age 49, Male*
@@ -13,7 +19,6 @@
 Very short and imposing, with Tied back silver hair and Green eyes. Brown skin. Constantly changing hair color.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Believes in every conspiracy theory
@@ -36,7 +41,6 @@ Former adventurer who retired to open a shop A chance encounter last winter chan
 - **Short Term**: Find missing person
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Caelum Zephyrblade the Wanderer (Criminal - Informant)
 - **Status**: Strained but maintaining
@@ -47,16 +51,13 @@ Former adventurer who retired to open a shop A chance encounter last winter chan
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Vesper Ironwood the Bold (Criminal - Accomplice)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Xander Emberfall the Mystic (Personal - Love interest)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Killed previous business owner

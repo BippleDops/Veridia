@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Goldleaf the Scholar", "ewan goldleaf the scholar", "Ewan Goldleaf Scholar", "Scholar the Goldleaf Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Goldleaf the Scholar
 
 *Elf Fisher (Commoners), Age 30, Male*
@@ -36,12 +42,10 @@ Family has worked the same trade for generations, but times are changing They're
 - **Short Term**: Survive until next week
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Aeliana Underhill the Mystic (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ### Solas Xendar the Bold (Professional - Mentor)
 - **Status**: Secretly hostile
@@ -52,11 +56,9 @@ Family has worked the same trade for generations, but times are changing They're
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Zephyr Voidwalker the Strong (Personal - Ex-lover)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Can hear the thoughts of others

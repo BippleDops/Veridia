@@ -14,7 +14,6 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 > [!figure] Asset
 ![](04_Resources/Assets/Portraits/portrait-npc-quest-the-perfect-purifier-quest-the-perfect-purifier.svg)
 
@@ -68,7 +67,6 @@ Alchemist Master Theron Crystalline claims to have developed the Perfect Purifie
 
 ## Quest Giver
 **Master Theron Crystalline** - Brilliant but paranoid alchemist who dedicated his life to fighting corruption. Offers his entire fortune (15,000 gp) and rare alchemical formulas as reward for the device's safe return.
-
 
 ## Objectives
 ### Primary
@@ -217,7 +215,6 @@ Contextual improvement based on 12_Research
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Hooks
 - **Personal**: Character connection

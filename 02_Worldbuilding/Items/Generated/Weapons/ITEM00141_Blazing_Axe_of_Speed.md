@@ -1,3 +1,9 @@
+---
+aliases: ["Blazing Axe of Speed", "blazing axe of speed", "Speed of Axe Blazing"]
+tags: [item, equipment]
+type: item
+---
+
 # Blazing Axe of Speed
 
 *Weapons, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A blazing axe made of crystallized magic
 - Deals extra 1d6 elemental damage
 - Returns when thrown
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -30,7 +34,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.354Z*

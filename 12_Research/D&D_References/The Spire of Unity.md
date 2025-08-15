@@ -58,3 +58,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A stranger needs help finding before winter
 - A journal reveals the truth about the cult
 - A journal reveals a conspiracy about a local noble
+
+## References
+
+- [[Cathedral of Light]]
+- [[Cathedral of Light (D&D_References)]]

@@ -84,3 +84,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Prismari Student Scc]]
+- [[Quandrix Student Scc]]
+- [[Silverquill Student Scc]]
+- [[prismari-student-scc (backgrounds)]]
+- [[quandrix-student-scc (backgrounds)]]
+- [[silverquill-student-scc (backgrounds)]]

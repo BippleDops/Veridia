@@ -1,3 +1,9 @@
+---
+aliases: ["Mithril Cloak of Resistance", "mithril cloak of resistance", "Resistance of Cloak Mithril"]
+tags: [item, equipment]
+type: item
+---
+
 # Mithril Cloak of Resistance
 
 *Armor, Common*

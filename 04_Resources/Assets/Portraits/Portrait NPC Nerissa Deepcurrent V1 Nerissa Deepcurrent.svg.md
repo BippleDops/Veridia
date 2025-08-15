@@ -100,3 +100,7 @@ improvements: 20
 - Civil war
 - Natural disasters
 - Current power structures established
+
+## References
+
+- [[Assets Locations Location City Transportation Guild Masters V1 Transportation Guild Masters.svg]]

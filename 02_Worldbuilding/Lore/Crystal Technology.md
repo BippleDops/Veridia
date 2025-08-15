@@ -31,7 +31,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -77,7 +77,7 @@ Crystal Technology is a undersea element of the setting, known for bioluminescen
 
 Legends speak of Crystal Technology as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Crystal Technology.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -113,3 +113,39 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Aetheric Wind Songs]]
+- [[Comprehensive-World-Connection-Guide]]
+- [[Continental War]]
+- [[Crystal Corruption Taboos]]
+- [[Crystal Forest]]
+- [[Customs House]]
+- [[Eastern Kingdom]]
+- [[Eastern Kingdoms (02_Worldbuilding)]]
+- [[Merchant Family Alliances]]
+- [[Name Etymology Guide]]
+- [[Post-Merge Chronology]]
+- [[Relationship Web Nuances]]
+- [[Resonance Peaks]]
+- [[Silver Mask]]
+- [[The Bloom Fields]]
+- [[The Crimson Hand]]
+- [[The Deep Prophecies]]
+- [[The Grand Trade Routes]]
+- [[The Great Crystallization]]
+- [[Timeline of the Drowning]]
+- [[Trade Route Establishment]]
+- [[Wind Song Linguistic Guide]]
+- [[Crystal Caverns]]
+- [[Crystallium Embassy]]
+- [[Elder Matthias Stoneward]]
+- [[Goldspire Port]]
+- [[Harbor District Customs House]]
+- [[Ironhold]]
+- [[Port Meridian - Market Square]]
+- [[Pressure Terminal]]
+- [[Tenebrarum Embassy]]
+- [[The Azure Coast]]
+- [[The Crystal Wardens]]

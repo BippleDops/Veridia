@@ -89,3 +89,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Quandrix Student Scc]]
+- [[quandrix-student-scc (backgrounds)]]
+- [[Unicorn Xmm]]
+- [[unicorn-xmm (celestial)]]
+- [[Dryad Xmm]]
+- [[Pixie Wonderbringer Xmm]]
+- [[dryad-xmm (fey)]]
+- [[pixie-wonderbringer-xmm (fey)]]
+- [[Barlgura Xmm]]
+- [[barlgura-xmm (fiend)]]
+- [[Vine Blight Xmm]]
+- [[vine-blight-xmm (plant)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Instrument of the Bards Fochlucan Bandore]]
+- [[instrument-of-the-bards-fochlucan-bandore-xdmg]]

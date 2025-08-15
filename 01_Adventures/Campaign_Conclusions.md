@@ -1,6 +1,5 @@
 ---
 
-
 title: Campaign Conclusions
 type: endings
 tags:
@@ -311,7 +310,6 @@ status: active
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## See Also
 - Related content

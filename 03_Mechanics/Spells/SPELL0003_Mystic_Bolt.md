@@ -1,4 +1,5 @@
 ---
+aliases: ["Mystic Bolt", "mystic bolt", "Bolt Mystic"]
 tags: [generated]
 id: SPELL0003_Mystic_Bolt
 created: 2025-08-15T04:09:51.466Z

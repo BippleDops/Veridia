@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Ironforge the Lost", "gavril ironforge the lost", "Gavril Ironforge Lost", "Lost the Ironforge Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Ironforge the Lost
 
 *Goliath Blacksmith (Commoners), Age 75, Male*
@@ -36,7 +42,6 @@ Survivor of a disaster that destroyed their village They recently discovered a s
 - **Short Term**: Recruit new members
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Cedric Jadeclaw the Cunning (Political - Ally)
 - **Status**: Recently reconciled
@@ -47,7 +52,6 @@ Survivor of a disaster that destroyed their village They recently discovered a s
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Aeliana Stormwind the Risen (Criminal - Informant)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
@@ -57,16 +61,13 @@ Survivor of a disaster that destroyed their village They recently discovered a s
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Gareth Crystalbrook the Cunning (Personal - Best friend)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Urien Voidwalker the Strong (Family - Parent)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Is the lost heir to the throne

@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -84,7 +84,7 @@ Philosopher Noble Depth Crown is a undersea element of the setting, known for bi
 
 Legends speak of Philosopher Noble Depth Crown as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Philosopher Noble Depth Crown.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -105,3 +105,8 @@ Different cultures interpret this lore through their own lens, creating variatio
 - A letter reveals ancient history about a local noble
 - Someone is hunting a witness for money
 - A shipment has gone missing and war looms
+
+## References
+
+- [[The Restoration Movement]]
+- [[The Restoration Movement (D&D_References)]]

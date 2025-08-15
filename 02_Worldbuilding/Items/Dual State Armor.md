@@ -199,3 +199,7 @@ Last known to be: - **[[Dual State Armor]]
 
 ### Curse (if applicable)
 - *[Negative effects]*
+
+## References
+
+- [[Master_Item_Catalog]]

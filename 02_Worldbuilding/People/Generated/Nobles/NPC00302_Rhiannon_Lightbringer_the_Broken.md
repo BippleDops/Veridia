@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Lightbringer the Broken", "rhiannon lightbringer the broken", "Rhiannon Lightbringer Broken", "Broken the Lightbringer Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Lightbringer the Broken
 
 *Elf Courtier (Nobles), Age 40, Female*
@@ -42,31 +48,25 @@ Secretly adopted into nobility, living in fear of discovery They've fallen in lo
 - **Status**: Recently reconciled
 - **History**: United by common enemy
 
-
 ### Brenna Brightblade (Professional - Rival)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ### Ysara Voidwalker the Cunning (Criminal - Accomplice)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Delara Goldleaf the Scholar (Criminal - Handler)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ### Felicia Xendar the Strong (Personal - Nemesis)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
 
-
 ### Felicia Keenblade the Risen (Family - Spouse)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Secretly funding the rebellion

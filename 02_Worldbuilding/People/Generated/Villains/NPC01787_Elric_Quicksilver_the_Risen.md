@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Quicksilver the Risen", "elric quicksilver the risen", "Elric Quicksilver Risen", "Risen the Quicksilver Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Quicksilver the Risen
 
 *Dwarf Assassin (Villains), Age 32, Female*
@@ -13,7 +19,6 @@
 Very tall and heavyset, with Dreadlocks blonde hair and Brown eyes. Freckled skin. Prominent scar across the face.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Never uses people's real names; Always speaks in metaphors and riddles
@@ -36,27 +41,22 @@ Believes their evil acts serve a greater good A prophetic dream has been hauntin
 - **Short Term**: Recruit new members
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Hilda Moonshadow the Wanderer (Family - Sibling)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Felicia Blackstone the Mystic (Family - Spouse)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ### Vesper Brightblade the Strong (Criminal - Accomplice)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Lyanna Jadeclaw the Wise (Political - Puppet)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Was once a renowned hero

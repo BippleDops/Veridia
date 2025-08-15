@@ -51,3 +51,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[Gods of Greyhawk Xdmg]]
+- [[gods-of-greyhawk-xdmg (tables)]]

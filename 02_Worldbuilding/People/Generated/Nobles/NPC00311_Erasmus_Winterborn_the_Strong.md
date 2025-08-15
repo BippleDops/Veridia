@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Winterborn the Strong", "erasmus winterborn the strong", "Erasmus Winterborn Strong", "Strong the Winterborn Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Winterborn the Strong
 
 *Goliath Heir (Nobles), Age 62, Female*
@@ -13,7 +19,6 @@
 Below average and delicate, with Wild and unkempt auburn hair and Red eyes. Weathered skin. Missing finger on left hand.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Sees doom and gloom everywhere; Always tells the absolute truth
@@ -36,7 +41,6 @@ Exiled from their homeland, trying to rebuild their power base They're being bla
 - **Short Term**: Make this month's payment
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Urien Hawthorne the Swift (Family - Parent)
 - **Status**: One-sided affection
@@ -47,7 +51,6 @@ Exiled from their homeland, trying to rebuild their power base They're being bla
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Erasmus Ironforge the Wise (Personal - Ex-lover)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
@@ -57,16 +60,13 @@ Exiled from their homeland, trying to rebuild their power base They're being bla
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
 
-
 ### Xander Nightfall (Professional - Partner)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
 
-
 ### Xander Zephyrblade (Family - Parent)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Actually a bastard with no real claim

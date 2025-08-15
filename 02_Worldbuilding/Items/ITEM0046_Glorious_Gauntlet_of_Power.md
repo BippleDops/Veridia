@@ -1,4 +1,5 @@
 ---
+aliases: ["Glorious Gauntlet of Power", "glorious gauntlet of power", "Power of Gauntlet Glorious"]
 tags: [generated]
 id: ITEM0046
 created: 2025-08-15T04:09:51.093Z
@@ -19,8 +20,6 @@ Crafted from starfall iron with intricate runes, in recently restored. It emanat
 
 ## Quirk
 *Changes color with user's mood*
-
-
 
 ## History
 This item was lost in a great battle ages ago. It has passed through many hands, each leaving their mark upon its destiny.

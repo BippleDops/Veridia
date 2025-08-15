@@ -1,3 +1,9 @@
+---
+aliases: ["Ornate Rope of Quality", "ornate rope of quality", "Quality of Rope Ornate"]
+tags: [item, equipment]
+type: item
+---
+
 # Ornate Rope of Quality
 
 *Mundane, Uncommon*
@@ -14,8 +20,6 @@ A ornate rope expertly crafted
 - Functions in antimagic
 - Weighs half normal
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -30,7 +34,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.492Z*

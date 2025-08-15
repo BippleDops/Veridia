@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Hawthorne the Fallen", "cedric hawthorne the fallen", "Cedric Hawthorne Fallen", "Fallen the Hawthorne Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Hawthorne the Fallen
 
 *Gnome Rogue (Adventurers), Age 62, Female*
@@ -13,7 +19,6 @@
 Below average and compact, with Short and neat gray hair and Black eyes. Olive skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Speaks to inanimate objects; Extremely superstitious about everything
@@ -36,7 +41,6 @@ Running from a dark past that won't stay buried Strange abilities have begun man
 - **Short Term**: Sabotage competition
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Ysara Brightblade the Lost (Professional - Rival)
 - **Status**: Secretly hostile
@@ -47,16 +51,13 @@ Running from a dark past that won't stay buried Strange abilities have begun man
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Fiora Emberfall the Swift (Professional - Partner)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Corvus Hawthorne the Mystic (Personal - Best friend)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ### Qadim Emberfall the Risen (Professional - Employer)
 - **Status**: Professional only

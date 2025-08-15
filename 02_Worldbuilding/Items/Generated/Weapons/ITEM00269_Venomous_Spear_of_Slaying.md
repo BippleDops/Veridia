@@ -1,3 +1,9 @@
+---
+aliases: ["Venomous Spear of Slaying", "venomous spear of slaying", "Slaying of Spear Venomous"]
+tags: [item, equipment]
+type: item
+---
+
 # Venomous Spear of Slaying
 
 *Weapons, Rare (requires attunement)*

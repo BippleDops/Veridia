@@ -198,3 +198,7 @@ Mentioned in The First Prophecy of Shadows
 - **Ally**: [[The_Seven_Seals.png]]
 - **Lover**: [[Portrait NPC Captain Torren Stormwright V2 Captain Torren Stormwright.svg]]
 - **Mentor**: [[Portrait NPC Sacred Healing Gardens V2 Sacred Healing Gardens.svg]]
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-quartermaster-judith-supplycurrent-quartermaster-judith-supplycurrent.svg]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Thornweave the Risen", "thalia thornweave the risen", "Thalia Thornweave Risen", "Risen the Thornweave Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Thornweave the Risen
 
 *Human Wizard (Adventurers), Age 44, Non-binary*
@@ -13,7 +19,6 @@
 Tall and muscular, with Short and neat black hair and Violet eyes. Unusual hue skin. Burn scars on one side of face.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Laughs at the most inappropriate times
@@ -36,22 +41,18 @@ Running from a dark past that won't stay buried A chance encounter last winter c
 - **Short Term**: Recruit new members
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Zephyr Grimholt the Scholar (Family - Parent)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
 
-
 ### Faelyn Thornweave the Mystic (Personal - Childhood friend)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Malakai Lightbringer the Mystic (Political - Opposition)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
-
 
 ### Erasmus Underhill the Lost (Political - Spy)
 - **Status**: Professional only

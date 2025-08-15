@@ -98,3 +98,7 @@ The Sacred Convergence Plaza represents a crucial aspect of the world's history,
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[The_Sacred_Convergence_Plaza (02_Worldbuilding)]]

@@ -98,3 +98,9 @@ Further information about this topic will be developed as the campaign progresse
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
+
+## References
+
+- [[Assets Portraits Portrait NPC Lady Crystal Heart Miraleth Lady Crystal Heart Miraleth.svg]]
+- [[Assets Portraits Portrait NPC Lord Marcus Shadowbane Lord Marcus Shadowbane.svg]]
+- [[Assets Symbols Symbol Heraldry the Crimson Tide Pirates the Crimson Tide Pirates.svg]]

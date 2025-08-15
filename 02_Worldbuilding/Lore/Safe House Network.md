@@ -103,3 +103,11 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Strange sightings suggest a portal
 - A corpse reveals a conspiracy about the cult
 - A document has gone missing and truth emerges
+
+## References
+
+- [[Quest - The Blackmail Papers_1 (01_Adventures)]]
+- [[Quest - The Blackmail Papers_2 (01_Adventures)]]
+- [[Hidden Sanctuary]]
+- [[Crystal Cult Temples]]
+- [[Shadow Market Canals]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Emberfall the Cunning", "alaric emberfall the cunning", "Alaric Emberfall Cunning", "Cunning the Emberfall Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Emberfall the Cunning
 
 *Firbolg Appraiser (Merchants), Age 63, Non-binary*
@@ -13,7 +19,6 @@
 Very short and athletic, with Short and neat unusual color hair and Heterochromic eyes. Dark skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Laughs at the most inappropriate times; Never uses people's real names
@@ -36,17 +41,14 @@ Built their business from nothing through cunning and hard work They recently di
 - **Short Term**: Survive until next week
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Caelum Voidwalker the Cunning (Professional - Rival)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Urien Proudmore the Swift (Political - Opposition)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ### Brenna Ashford the Wanderer (Professional - Employer)
 - **Status**: Secretly hostile

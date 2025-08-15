@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Quicksilver the Fallen", "erasmus quicksilver the fallen", "Erasmus Quicksilver Fallen", "Fallen the Quicksilver Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Quicksilver the Fallen
 
 *Halfling Fisher (Commoners), Age 45, Female*
@@ -13,7 +19,6 @@
 Towering and slender, with Wild and unkempt bald hair and Heterochromic eyes. Brown skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Flirts with everyone regardless of interest; Believes in every conspiracy theory; Collects unusual and worthless objects
@@ -36,7 +41,6 @@ Former soldier trying to adjust to civilian life A family member's death has lef
 - **Short Term**: Recruit new members
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Aldric Voidwalker the Wise (Personal - Nemesis)
 - **Status**: Mutually beneficial
@@ -47,11 +51,9 @@ Former soldier trying to adjust to civilian life A family member's death has lef
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Erasmus Brightblade (Political - Patron)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ### Corvus Zephyrblade the Fallen (Professional - Employee)
 - **Status**: Blood oath bound
@@ -61,7 +63,6 @@ Former soldier trying to adjust to civilian life A family member's death has lef
 ### Qadim Jadeclaw the Redeemed (Personal - Nemesis)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Knows location of ancient treasure

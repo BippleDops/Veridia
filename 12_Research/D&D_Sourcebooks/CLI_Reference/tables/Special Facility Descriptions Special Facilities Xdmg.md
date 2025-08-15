@@ -56,7 +56,7 @@ world: Both
 | 9 | [[theater|Theater]] | None | Empower |
 | 9 | [[Training Area]] | None | Empower |
 | 9 | [[Trophy Room]] | None | Research |
-| 13 | [[02_Worldbuilding_Locations_Archive_of_Echoes]] | None | Research |
+| 13 |  | None | Research |
 | 13 | [[meditation-chamber (bastions)]] | None | Empower |
 | 13 | [[menagerie|Menagerie]] | None | Recruit |
 | 13 | [[observatory|Observatory]] | Ability to use a [[spellcasting-focus-xphb (variant-rules)]] | Empower |

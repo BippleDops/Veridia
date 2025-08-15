@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Xendar the Lost", "vesper xendar the lost", "Vesper Xendar Lost", "Lost the Xendar Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Xendar the Lost
 
 *Gnome Heir (Nobles), Age 55, Female*
@@ -36,17 +42,14 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Short Term**: Avoid the authorities
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Orion Jadeclaw (Criminal - Accomplice)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Elric Jadeclaw the Risen (Criminal - Informant)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ### Faelyn Winterborn (Professional - Mentor)
 - **Status**: One-sided affection
@@ -57,11 +60,9 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
 
-
 ### Felicia Blackstone the Broken (Political - Opposition)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Child from scandalous affair

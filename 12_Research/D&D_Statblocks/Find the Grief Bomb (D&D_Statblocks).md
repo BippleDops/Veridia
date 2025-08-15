@@ -39,7 +39,7 @@ updated: '2025-08-13T01:18:34.507522+00:00'
 
 **Type:** Investigation/Horror  
 **Level:** 8-12  
-**Location:** [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]], [[The Archive of Unremembered Things|02 Worldbuilding/Places/The Archive Of Unremembered Things]]  
+**Location:**   
 **Duration:** 3-4 sessions  
 **Threat:** Psychological warfare device threatens to destroy collective memory
 
@@ -70,7 +70,7 @@ The [[Order of the Drowned Star]] has developed a horrifying weapon called the "
 **Objective:** Learn about the weapon and its potential hiding places
 
 **Key Locations:**
-- **[[The Archive of Unremembered Things|02 Worldbuilding/Places/The Archive Of Unremembered Things]]**: Contains research on emotional manipulation magic
+- ****: Contains research on emotional manipulation magic
 - **[[Shadow Market Canals|02 Worldbuilding/Places/Shadow Market Canals]]**: Black market dealers selling "extracted sorrows"
 - **[[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]**: Infiltrate to access classified reports
 - **[[The Deepmind|02 Worldbuilding/Places/The Deepmind]]**: Understanding the psychological impact of memory weapons
@@ -226,3 +226,7 @@ Legends speak of Find the Grief Bomb as a nexus where past and present converge.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Anti Priest us]]

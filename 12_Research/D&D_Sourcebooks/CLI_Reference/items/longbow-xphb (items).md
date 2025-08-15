@@ -75,3 +75,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Fighter Xphb]]
+- [[fighter-xphb (classes)]]
+- [[Improved Pact Weapon Xge]]
+- [[improved-pact-weapon-xge (optional-features)]]
+- [[Elf Eladrin Dmg]]
+- [[elf-eladrin-dmg (races)]]
+- [[Weapons Phb]]
+- [[Weapons Xphb]]
+- [[weapons-phb (tables)]]
+- [[weapons-xphb (tables)]]

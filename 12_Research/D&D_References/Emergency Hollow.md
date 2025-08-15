@@ -67,3 +67,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Quest - The Root Network_1 (01_Adventures)]]
+- [[Quest - The Root Network_2 (01_Adventures)]]

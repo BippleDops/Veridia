@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -76,7 +76,7 @@ DM Screen represents a crucial aspect of the world's history, cosmology, or fund
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -94,3 +94,7 @@ Mentioned in The Hidden Prophecy of Winds
 - A noble needs help finding before the new moon
 - A [[map]] reveals the truth about the government
 - A stranger needs help finding before the new moon
+
+## References
+
+- [[DM_Screen (02_Worldbuilding)]]

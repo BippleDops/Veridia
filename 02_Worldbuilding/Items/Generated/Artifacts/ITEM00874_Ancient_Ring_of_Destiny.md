@@ -1,3 +1,9 @@
+---
+aliases: ["Ancient Ring of Destiny", "ancient ring of destiny", "Destiny of Ring Ancient"]
+tags: [item, equipment]
+type: item
+---
+
 # Ancient Ring of Destiny
 
 *Artifacts, Legendary*
@@ -16,8 +22,6 @@ A ancient ring covered in mysterious symbols
 - Telepathy 120 ft
 - Plane shift 1/day
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -32,7 +36,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.434Z*

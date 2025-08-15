@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Lightbringer the Fallen", "delara lightbringer the fallen", "Delara Lightbringer Fallen", "Fallen the Lightbringer Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Lightbringer the Fallen
 
 *Human Courtier (Nobles), Age 67, Female*
@@ -36,17 +42,14 @@ Secretly adopted into nobility, living in fear of discovery Strange abilities ha
 - **Short Term**: Find missing person
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Hestara Ashford the Lost (Criminal - Accomplice)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Fiora Zephyrblade the Strong (Criminal - Accomplice)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ### Cedric Proudmore the Wanderer (Political - Puppet)
 - **Status**: On the verge of collapse

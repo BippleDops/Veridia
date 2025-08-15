@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Ironforge the Swift", "aldric ironforge the swift", "Aldric Ironforge Swift", "Swift the Ironforge Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Ironforge the Swift
 
 *Half-Elf Heir (Nobles), Age 42, Male*
@@ -13,7 +19,6 @@
 Tall and delicate, with Tied back auburn hair and Gray eyes. Dark skin. Missing ear from old battle.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Speaks to inanimate objects; Always tells the absolute truth
@@ -42,21 +47,17 @@ Exiled from their homeland, trying to rebuild their power base A chance encounte
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Brenna Underhill (Criminal - Accomplice)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ### Faelyn Blackstone (Political - Ally)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Dara Silverleaf (Criminal - Handler)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Practicing forbidden magic

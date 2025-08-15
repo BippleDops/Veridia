@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Darkwater the Scholar", "brenna darkwater the scholar", "Brenna Darkwater Scholar", "Scholar the Darkwater Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Darkwater the Scholar
 
 *Tiefling Cleric (Adventurers), Age 77, Non-binary*
@@ -36,17 +42,14 @@ Searching for a legendary treasure their parent died seeking They're being black
 - **Short Term**: Make this month's payment
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Ewan Ashford the Cunning (Criminal - Informant)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
 
-
 ### Malakai Keenblade the Broken (Political - Puppet)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
-
 
 ### Erasmus Jadeclaw the Wanderer (Criminal - Handler)
 - **Status**: Recently reconciled

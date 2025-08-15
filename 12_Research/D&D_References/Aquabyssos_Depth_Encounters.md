@@ -151,7 +151,6 @@ world: Aquabyssos
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
 
-
 ## Scaling by Party Level
 - **Level 1-4**: Reduce enemies
 - **Level 5-10**: Standard difficulty

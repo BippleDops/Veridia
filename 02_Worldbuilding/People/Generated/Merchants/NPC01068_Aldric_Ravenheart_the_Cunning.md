@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Ravenheart the Cunning", "aldric ravenheart the cunning", "Aldric Ravenheart Cunning", "Cunning the Ravenheart Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Ravenheart the Cunning
 
 *Firbolg Shopkeeper (Merchants), Age 50, Non-binary*
@@ -36,22 +42,18 @@ Built their business from nothing through cunning and hard work They're being bl
 - **Short Term**: Complete current contract
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Branwen Goldleaf the Seeker (Family - Parent)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Elric Youngblood the Scholar (Criminal - Fence)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Aeliana Winterborn the Strong (Political - Spy)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Killed previous business owner

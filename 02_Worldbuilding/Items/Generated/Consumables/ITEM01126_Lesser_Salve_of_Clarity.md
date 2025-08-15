@@ -1,3 +1,9 @@
+---
+aliases: ["Lesser Salve of Clarity", "lesser salve of clarity", "Clarity of Salve Lesser"]
+tags: [item, equipment]
+type: item
+---
+
 # Lesser Salve of Clarity
 
 *Consumables, Rare*
@@ -15,8 +21,6 @@ A lesser salve emanating sweet fragrance
 - Resistance for 10 minutes
 - Increase speed by 10 ft
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -31,7 +35,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.458Z*

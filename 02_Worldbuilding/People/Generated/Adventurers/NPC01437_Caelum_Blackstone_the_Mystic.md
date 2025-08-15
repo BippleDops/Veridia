@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Blackstone the Mystic", "caelum blackstone the mystic", "Caelum Blackstone Mystic", "Mystic the Blackstone Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Blackstone the Mystic
 
 *Human Wizard (Adventurers), Age 62, Female*
@@ -36,22 +42,18 @@ Chosen by fate to fulfill an ancient prophecy A family member's death has left t
 - **Short Term**: Gather information
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Vesper Oakenshield the Swift (Personal - Childhood friend)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Nerys Ashford the Scholar (Personal - Ex-lover)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
 
-
 ### Caelum Voidwalker the Wanderer (Criminal - Fence)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Secretly working for the villain

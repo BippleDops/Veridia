@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Ravenheart the Seeker", "faelyn ravenheart the seeker", "Faelyn Ravenheart Seeker", "Seeker the Ravenheart Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Ravenheart the Seeker
 
 *Human Fighter (Adventurers), Age 55, Female*
@@ -42,21 +48,17 @@ Chosen by fate to fulfill an ancient prophecy They're being blackmailed by someo
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
 
-
 ### Nerys Oakenshield the Strong (Family - Cousin)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ### Zephyr Moonshadow the Wise (Political - Patron)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Vesper Nightfall the Strong (Professional - Partner)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ### Aldric Emberfall the Guardian (Political - Patron)
 - **Status**: Professional only
@@ -66,7 +68,6 @@ Chosen by fate to fulfill an ancient prophecy They're being blackmailed by someo
 ### Idris Crystalbrook the Wise (Criminal - Accomplice)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Is from the future

@@ -91,3 +91,29 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Figurine of Wondrous Power Bronze Griffon]]
+- [[Figurine of Wondrous Power Ebony Fly Xdmg]]
+- [[Figurine of Wondrous Power Golden Lions Xdmg]]
+- [[Figurine of Wondrous Power Ivory Goats Xdmg]]
+- [[Figurine of Wondrous Power Marble Elephant]]
+- [[Figurine of Wondrous Power Obsidian Steed]]
+- [[Figurine of Wondrous Power Onyx Dog Xdmg]]
+- [[Figurine of Wondrous Power Serpentine Owl]]
+- [[Figurine of Wondrous Power Silver Raven Xdmg]]
+- [[figurine-of-wondrous-power-bronze-griffon-xdmg]]
+- [[figurine-of-wondrous-power-ebony-fly-xdmg (items)]]
+- [[figurine-of-wondrous-power-golden-lions-xdmg (items)]]
+- [[figurine-of-wondrous-power-ivory-goats-xdmg (items)]]
+- [[figurine-of-wondrous-power-marble-elephant-xdmg]]
+- [[figurine-of-wondrous-power-obsidian-steed-xdmg]]
+- [[figurine-of-wondrous-power-onyx-dog-xdmg (items)]]
+- [[figurine-of-wondrous-power-serpentine-owl-xdmg]]
+- [[figurine-of-wondrous-power-silver-raven-xdmg (items)]]
+- [[Arcana Rare Xdmg]]
+- [[Random Magic Items Arcana]]
+- [[arcana-rare-xdmg (tables)]]
+- [[random-magic-items-arcana (tables)]]

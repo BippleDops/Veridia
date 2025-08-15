@@ -189,7 +189,7 @@ This NPC can serve multiple roles:
 
 - **Blackmailer**: [[The Crimson Sage]]
 - **Debtor**: [[Portrait NPC Captain Echoing Thunder V1 Captain Echoing Thunder.svg]]
-- **Friend**: [[Abyssos Prime   Throne of Bubbles]]
+- **Friend**: [[Throne of Bubbles|Abyssos Prime   Throne of Bubbles]]
 
 ## Religious Observances
 
@@ -202,3 +202,8 @@ This NPC can serve multiple roles:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-lord-commander-steelborn-lord-commander-steelborn.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-trade-captain-current-trade-captain-current.svg]]

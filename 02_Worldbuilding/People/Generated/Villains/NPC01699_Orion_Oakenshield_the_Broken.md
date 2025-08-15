@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Oakenshield the Broken", "orion oakenshield the broken", "Orion Oakenshield Broken", "Broken the Oakenshield Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Oakenshield the Broken
 
 *Goliath Dark Wizard (Villains), Age 32, Male*
@@ -47,7 +53,6 @@ Born into evil but questioning their path They recently discovered a secret that
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Orion Ravenheart the Seeker (Political - Puppet)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
@@ -56,7 +61,6 @@ Born into evil but questioning their path They recently discovered a secret that
 ### Aeliana Ravenheart the Wanderer (Family - Sibling)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Knows how the world will end

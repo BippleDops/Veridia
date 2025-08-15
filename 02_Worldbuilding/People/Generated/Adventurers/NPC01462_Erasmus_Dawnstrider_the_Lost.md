@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Dawnstrider the Lost", "erasmus dawnstrider the lost", "Erasmus Dawnstrider Lost", "Lost the Dawnstrider Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Dawnstrider the Lost
 
 *Aasimar Bard (Adventurers), Age 40, Non-binary*
@@ -42,11 +48,9 @@ Chosen by fate to fulfill an ancient prophecy An old debt has come due at the wo
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Erasmus Ravenheart the Swift (Personal - Nemesis)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ### Zephyr Grimholt the Lost (Family - Parent)
 - **Status**: Complicated history
@@ -57,7 +61,6 @@ Chosen by fate to fulfill an ancient prophecy An old debt has come due at the wo
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Felicia Ashford the Lost (Criminal - Fence)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
@@ -66,7 +69,6 @@ Chosen by fate to fulfill an ancient prophecy An old debt has come due at the wo
 ### Kaelen Grimholt the Redeemed (Personal - Best friend)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Is from the future

@@ -93,3 +93,10 @@ improvements: 20
 - Someone is hunting a witness for money
 - A document has gone missing and truth emerges
 - A shipment has gone missing and chaos spreads
+
+## References
+
+- [[06 Equipment]]
+- [[06-equipment (players-handbook-2014)]]
+- [[10 Combat]]
+- [[10-combat (players-handbook-2014)]]

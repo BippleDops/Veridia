@@ -134,3 +134,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[7 Appendix B Monsters]]
+- [[7-appendix-b-monsters (lost-mine-of-phandelver)]]
+- [[Ash Zombie Lmop]]

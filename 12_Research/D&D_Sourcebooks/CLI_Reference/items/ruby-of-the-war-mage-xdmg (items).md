@@ -73,3 +73,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Arcana Common Xdmg]]
+- [[Random Magic Items Arcana]]
+- [[Random Magic Items Relics]]
+- [[Relics Common Xdmg]]
+- [[arcana-common-xdmg (tables)]]
+- [[random-magic-items-arcana (tables)]]
+- [[random-magic-items-relics (tables)]]
+- [[relics-common-xdmg (tables)]]

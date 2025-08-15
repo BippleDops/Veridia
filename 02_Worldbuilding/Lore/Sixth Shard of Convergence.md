@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -83,7 +83,7 @@ Sixth Shard of Convergence represents a crucial aspect of the world's history, c
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -91,7 +91,7 @@ Sixth Shard of Convergence represents a crucial aspect of the world's history, c
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -123,3 +123,7 @@ Sixth Shard of Convergence represents a crucial aspect of the world's history, c
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Session 07 the Convergence Approaches]]

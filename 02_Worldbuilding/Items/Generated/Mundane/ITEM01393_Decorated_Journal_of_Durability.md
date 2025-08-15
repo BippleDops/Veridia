@@ -1,3 +1,9 @@
+---
+aliases: ["Decorated Journal of Durability", "decorated journal of durability", "Durability of Journal Decorated"]
+tags: [item, equipment]
+type: item
+---
+
 # Decorated Journal of Durability
 
 *Mundane, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A decorated journal expertly crafted
 - Never breaks or wears out
 - Provides comfort
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -30,7 +34,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.483Z*

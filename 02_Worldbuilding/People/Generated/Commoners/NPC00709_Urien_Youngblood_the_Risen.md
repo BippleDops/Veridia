@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Youngblood the Risen", "urien youngblood the risen", "Urien Youngblood Risen", "Risen the Youngblood Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Youngblood the Risen
 
 *Halfling Baker (Commoners), Age 54, Female*
@@ -13,7 +19,6 @@
 Average height and heavyset, with Braided elaborately silver hair and Blue eyes. Tan skin. Weather-beaten face showing hard life.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Flirts with everyone regardless of interest; Incredibly optimistic despite evidence
@@ -36,22 +41,18 @@ Runaway from an arranged marriage, starting a new life They've been marked by a 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Erasmus Dawnstrider the Scholar (Family - Sibling)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Nerys Grimholt the Wise (Personal - Best friend)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
 
-
 ### Caelum Voidwalker the Swift (Political - Patron)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
-
 
 ### Dara Hawthorne the Mystic (Personal - Childhood friend)
 - **Status**: Strong and trusting
@@ -66,7 +67,6 @@ Runaway from an arranged marriage, starting a new life They've been marked by a 
 ### Aeliana Winterborn the Wanderer (Political - Patron)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Is the lost heir to the throne

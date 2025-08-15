@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Quicksilver the Risen", "gareth quicksilver the risen", "Gareth Quicksilver Risen", "Risen the Quicksilver Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Quicksilver the Risen
 
 *Dwarf Fighter (Adventurers), Age 33, Female*
@@ -13,7 +19,6 @@
 Very short and imposing, with Braided elaborately brown hair and Blue eyes. Brown skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Collects unusual and worthless objects
@@ -36,22 +41,18 @@ Running from a dark past that won't stay buried A chance encounter last winter c
 - **Short Term**: Avoid the authorities
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Zephyr Xendar the Swift (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
 
-
 ### Rhiannon Zephyrblade the Bold (Personal - Best friend)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Ewan Underhill the Cunning (Personal - Love interest)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
-
 
 ### Orion Emberfall the Fallen (Family - Cousin)
 - **Status**: Complicated history
@@ -61,7 +62,6 @@ Running from a dark past that won't stay buried A chance encounter last winter c
 ### Kaelen Zephyrblade the Lost (Personal - Childhood friend)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Is from the future

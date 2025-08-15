@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Emberfall", "nerys emberfall", "Emberfall Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Emberfall
 
 *Elf Heir (Nobles), Age 66, Female*
@@ -36,7 +42,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Make this month's payment
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Nerys Moonshadow (Political - Opposition)
 - **Status**: Secretly hostile
@@ -47,7 +52,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Complicated history
 - **History**: United by common enemy
 
-
 ### Hilda Darkwater (Personal - Best friend)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
@@ -57,11 +61,9 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
 
-
 ### Zephyr Thornweave (Professional - Rival)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Actually a bastard with no real claim

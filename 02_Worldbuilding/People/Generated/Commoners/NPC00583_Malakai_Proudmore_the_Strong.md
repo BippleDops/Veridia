@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Proudmore the Strong", "malakai proudmore the strong", "Malakai Proudmore Strong", "Strong the Proudmore Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Proudmore the Strong
 
 *Elf Carpenter (Commoners), Age 29, Male*
@@ -36,12 +42,10 @@ Former soldier trying to adjust to civilian life A family member's death has lef
 - **Short Term**: Gather information
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Aldric Silverleaf the Cunning (Personal - Love interest)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ### Corvus Grimholt the Lost (Personal - Childhood friend)
 - **Status**: Complicated history

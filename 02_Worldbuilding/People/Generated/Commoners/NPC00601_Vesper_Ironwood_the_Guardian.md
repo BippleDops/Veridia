@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Ironwood the Guardian", "vesper ironwood the guardian", "Vesper Ironwood Guardian", "Guardian the Ironwood Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Ironwood the Guardian
 
 *Firbolg Blacksmith (Commoners), Age 38, Non-binary*
@@ -36,17 +42,14 @@ Family has worked the same trade for generations, but times are changing They re
 - **Short Term**: Complete current contract
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Drusilla Underhill the Lost (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Elric Ravenheart the Seeker (Professional - Employee)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ### Dara Quicksilver the Wise (Professional - Employee)
 - **Status**: Recently reconciled
@@ -61,7 +64,6 @@ Family has worked the same trade for generations, but times are changing They re
 ### Aldric Quicksilver the Guardian (Political - Puppet)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Witnessed a noble's crime

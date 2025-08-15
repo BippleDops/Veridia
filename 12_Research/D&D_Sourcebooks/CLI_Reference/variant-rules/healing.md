@@ -75,3 +75,26 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Master_Spell_Compendium]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]
+- [[Potion of Healing Gv]]
+- [[Potions of Healing Xdmg]]
+- [[potion-of-healing-gv (items)]]
+- [[potions-of-healing-xdmg (items)]]
+- [[Magic Item Table C]]
+- [[Potions for Sale Xge]]
+- [[Random Magic Items Implements]]
+- [[Random Magic Items Relics]]
+- [[Relics Rare Xdmg]]
+- [[magic-item-table-c (tables)]]
+- [[potions-for-sale-xge (tables)]]
+- [[random-magic-items-implements (tables)]]
+- [[random-magic-items-relics (tables)]]
+- [[relics-rare-xdmg (tables)]]

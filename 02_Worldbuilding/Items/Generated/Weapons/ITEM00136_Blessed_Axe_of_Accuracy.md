@@ -1,3 +1,9 @@
+---
+aliases: ["Blessed Axe of Accuracy", "blessed axe of accuracy", "Accuracy of Axe Blessed"]
+tags: [item, equipment]
+type: item
+---
+
 # Blessed Axe of Accuracy
 
 *Weapons, Very Rare (requires attunement)*

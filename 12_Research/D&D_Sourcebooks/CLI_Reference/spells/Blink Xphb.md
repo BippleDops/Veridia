@@ -105,3 +105,31 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Prismari Student Scc]]
+- [[Quandrix Student Scc]]
+- [[Silverquill Student Scc]]
+- [[prismari-student-scc (backgrounds)]]
+- [[quandrix-student-scc (backgrounds)]]
+- [[silverquill-student-scc (backgrounds)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Warlock Xphb Archfey Patron Xphb]]
+- [[Warlock Xphb the Hexblade Xge]]
+- [[warlock-xphb-archfey-patron-xphb (classes)]]
+- [[warlock-xphb-the-hexblade-xge (classes)]]
+- [[Calligraphers Supplies Xphb]]
+- [[Diplomats Pack Xphb]]
+- [[Ink Pen Xphb]]
+- [[Scholars Pack Xphb]]
+- [[calligraphers-supplies-xphb (items)]]
+- [[diplomats-pack-xphb (items)]]
+- [[ink-pen-xphb (items)]]
+- [[scholars-pack-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

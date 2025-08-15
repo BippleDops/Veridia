@@ -102,7 +102,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -121,4 +120,32 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[gaseous-form-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[gaseous-form-xphb (spells)|gaseous-form-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Dao Xmm]]
+- [[Efreeti Xmm]]
+- [[Marid Xmm]]
+- [[dao-xmm (elemental)]]
+- [[efreeti-xmm (elemental)]]
+- [[marid-xmm (elemental)]]
+- [[Oni Xmm]]
+- [[Yochlol Xmm]]
+- [[oni-xmm (fiend)]]
+- [[yochlol-xmm (fiend)]]
+- [[Cloud Giant Smiling One Mpmm]]
+- [[Cloud Giant Xmm]]
+- [[cloud-giant-smiling-one-mpmm (giant)]]
+- [[cloud-giant-xmm (giant)]]
+- [[aerisi-kalinoth-pota (npc)]]
+- [[npc - Aerisi Kalinoth Pota]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Potion of Gaseous Form Xdmg]]
+- [[potion-of-gaseous-form-xdmg (items)]]
+- [[Mist Stance]]
+- [[mist-stance (optional-features)]]
+- [[Wind Wall Xphb]]
+- [[wind-wall-xphb (spells)]]

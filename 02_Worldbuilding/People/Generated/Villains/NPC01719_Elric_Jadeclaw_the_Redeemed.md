@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Jadeclaw the Redeemed", "elric jadeclaw the redeemed", "Elric Jadeclaw Redeemed", "Redeemed the Jadeclaw Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Jadeclaw the Redeemed
 
 *Aasimar Crime Boss (Villains), Age 41, Non-binary*
@@ -42,7 +48,6 @@ Corrupted by an artifact or dark magic They've made a deal they're beginning to 
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Delara Oakenshield the Wanderer (Personal - Nemesis)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
@@ -51,7 +56,6 @@ Corrupted by an artifact or dark magic They've made a deal they're beginning to 
 ### Wynne Proudmore the Lost (Family - Child)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Is being controlled by darker force

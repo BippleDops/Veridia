@@ -88,3 +88,19 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Guild Artisan Guild Merchant Variant]]
+- [[Merchant Xphb]]
+- [[Sailor Pirate Variant]]
+- [[Sailor Xphb]]
+- [[guild-artisan-guild-merchant-variant (backgrounds)]]
+- [[merchant-xphb (backgrounds)]]
+- [[sailor-pirate-variant (backgrounds)]]
+- [[sailor-xphb (backgrounds)]]
+- [[06 Equipment]]
+- [[06-equipment (players-handbook-2014)]]
+- [[Tools Phb]]
+- [[tools-phb (tables)]]

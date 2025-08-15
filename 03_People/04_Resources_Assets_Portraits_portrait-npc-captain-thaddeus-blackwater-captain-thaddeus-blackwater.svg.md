@@ -11,7 +11,7 @@ created: '2025-01-15'
 
 ## Portrait
 
-![[portrait_04_resources_assets_portraits_portrait-npc-captain-thaddeus-blackwater-captain-thaddeus-blackwater.svg.png]]
+![[04_Resources|portrait_04_resources_assets_portraits_portrait-npc-captain-thaddeus-blackwater-captain-thaddeus-blackwater.svg.png]]
 
 *Portrait reference for 04_Resources_Assets_Portraits_portrait-npc-captain-thaddeus-blackwater-captain-thaddeus-blackwater.svg*
 
@@ -75,3 +75,10 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+## References
+
+- [[Assets Locations Location City the Crystal Cathedral of Pure Light V1 the Crystal Cathedral of Pure Light.svg]]
+- [[Assets Locations Location City the Drowned Embassy the Drowned Embassy.svg]]
+- [[Assets Portraits Portrait NPC Captain Shadowsail Captain Shadowsail.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-thaddeus-blackwater-captain-thaddeus-blackwater.svg_Quick_Ref]]

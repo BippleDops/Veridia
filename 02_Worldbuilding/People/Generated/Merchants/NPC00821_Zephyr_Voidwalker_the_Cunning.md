@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Voidwalker the Cunning", "zephyr voidwalker the cunning", "Zephyr Voidwalker Cunning", "Cunning the Voidwalker Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Voidwalker the Cunning
 
 *Halfling Caravan Master (Merchants), Age 62, Non-binary*
@@ -13,7 +19,6 @@
 Towering and delicate, with Braided elaborately black hair and Red eyes. Unusual hue skin. Gold tooth that glints when smiling.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Extremely superstitious about everything
@@ -36,7 +41,6 @@ Part of a merchant family with connections everywhere A family member's death ha
 - **Short Term**: Survive until next week
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Brenna Ironforge the Seeker (Criminal - Target)
 - **Status**: Recently reconciled
@@ -47,16 +51,13 @@ Part of a merchant family with connections everywhere A family member's death ha
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Rhiannon Nightfall the Fallen (Family - Child)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Aldric Blackstone the Strong (Personal - Ex-lover)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Running a cult from their basement

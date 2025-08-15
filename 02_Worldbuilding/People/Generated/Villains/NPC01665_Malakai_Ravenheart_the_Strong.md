@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Ravenheart the Strong", "malakai ravenheart the strong", "Malakai Ravenheart Strong", "Strong the Ravenheart Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Ravenheart the Strong
 
 *Dwarf Cultist (Villains), Age 62, Non-binary*
@@ -36,7 +42,6 @@ Born into evil but questioning their path An old debt has come due at the worst 
 - **Short Term**: Sabotage competition
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Baelor Ironforge the Wise (Political - Puppet)
 - **Status**: One-sided affection
@@ -61,7 +66,6 @@ Born into evil but questioning their path An old debt has come due at the worst 
 ### Ysara Keenblade the Broken (Family - Sibling)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Was once a renowned hero

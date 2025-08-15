@@ -62,3 +62,14 @@ Mentioned in The First Prophecy of Winds
 - A corpse reveals ancient history about this place
 - A shipment has gone missing and chaos spreads
 - A corpse reveals a betrayal about the government
+
+## References
+
+- [[06 Chapter 5 Feats]]
+- [[06-chapter-5-feats (players-handbook-2024)]]
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]
+- [[Repeatable Feat List Xphb]]
+- [[repeatable-feat-list-xphb (tables)]]
+- [[Expertise Xphb]]
+- [[expertise-xphb (variant-rules)]]

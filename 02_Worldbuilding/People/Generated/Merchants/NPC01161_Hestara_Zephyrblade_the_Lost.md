@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Zephyrblade the Lost", "hestara zephyrblade the lost", "Hestara Zephyrblade Lost", "Lost the Zephyrblade Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Zephyrblade the Lost
 
 *Goliath Caravan Master (Merchants), Age 38, Non-binary*
@@ -36,27 +42,22 @@ Built their business from nothing through cunning and hard work Strange abilitie
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Gavril Crystalbrook the Bold (Family - Parent)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Faelyn Grimholt the Wanderer (Political - Puppet)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
-
 
 ### Brenna Blackstone the Fallen (Family - Cousin)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
 
-
 ### Thalia Crystalbrook the Bold (Family - Parent)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Sells information to all sides

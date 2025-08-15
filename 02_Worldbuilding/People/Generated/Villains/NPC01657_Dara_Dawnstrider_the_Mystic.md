@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Dawnstrider the Mystic", "dara dawnstrider the mystic", "Dara Dawnstrider Mystic", "Mystic the Dawnstrider Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Dawnstrider the Mystic
 
 *Genasi Crime Boss (Villains), Age 55, Non-binary*
@@ -13,7 +19,6 @@
 Very short and athletic, with Shaved gray hair and Amber eyes. Weathered skin. Intricate tattoos covering arms.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Always hungry and eating something
@@ -41,7 +46,6 @@ Corrupted by an artifact or dark magic They've been marked by a secret society.
 ### Ysara Winterborn the Strong (Criminal - Fence)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ### Orion Underhill the Cunning (Professional - Mentor)
 - **Status**: Blood oath bound

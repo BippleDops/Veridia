@@ -91,3 +91,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A journal reveals the truth about this place
 - An heirloom has gone missing and evil awakens
 - Strange sightings suggest a conspiracy
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Tiefling Mephistopheles Mtf]]
+- [[tiefling-mephistopheles-mtf (races)]]

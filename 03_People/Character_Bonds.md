@@ -80,7 +80,6 @@ creature: Custom NPC
 - **Saving Throws**: *[Proficient saves]*
 - **Skills**: *[Skill proficiencies]*
 
-
 ## See Also
 - Related content
 - Similar topics
@@ -90,3 +89,9 @@ creature: Custom NPC
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
 - **Hidden Details**: Secret aspects
+
+## References
+
+- [[The Party]]
+- [[Character_Bonds_Quick_Ref]]
+- [[The Party (D&D_References)]]

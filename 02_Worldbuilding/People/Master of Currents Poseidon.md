@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-master-of-currents-poseidon-master-of-currents-poseidon.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -232,7 +230,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -268,3 +265,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Communications Master Signal Cryptkeeper V1 Communications Master Signal Cryptkeeper.svg]]
+- [[Lord Marcus Goldweaver]]
+- [[Lord Marcus Goldweaver (D&D_References)]]

@@ -1,4 +1,5 @@
 ---
+aliases: ["Investigate the Pirates", "investigate the pirates", "Investigate Pirates", "Pirates the Investigate"]
 tags: [generated]
 id: QUEST0006
 created: 2025-08-15T04:09:51.366Z
@@ -21,8 +22,6 @@ Protect the sunken temple from the orc horde for three days
 
 ### Secondary
 - Recover additional valuable items
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they once saved a noble's life and earned their favor, which changed their life forever. Now, circumstances demand immediate action.
@@ -55,8 +54,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Save civilians and risk failure - Heroes to the people but objective compromised
 2. Complete mission at any cost - Success but blood on hands
-
-
 
 ## Rewards
 ### On Success

@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Ashford the Cunning", "delara ashford the cunning", "Delara Ashford Cunning", "Cunning the Ashford Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Ashford the Cunning
 
 *Elf Trader (Merchants), Age 38, Non-binary*
@@ -36,12 +42,10 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 - **Short Term**: Gather information
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Pyria Ironforge the Swift (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
-
 
 ### Felicia Moonshadow the Lost (Political - Spy)
 - **Status**: Professional only
@@ -56,7 +60,6 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 ### Lyanna Stormwind the Wanderer (Criminal - Handler)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Is actually a spy for foreign power

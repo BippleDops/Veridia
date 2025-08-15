@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Proudmore the Cunning", "hestara proudmore the cunning", "Hestara Proudmore Cunning", "Cunning the Proudmore Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Proudmore the Cunning
 
 *Dwarf Trader (Merchants), Age 35, Non-binary*
@@ -13,7 +19,6 @@
 Average height and slender, with Long and flowing silver hair and Hazel eyes. Weathered skin. Gold tooth that glints when smiling.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Collects unusual and worthless objects; Compulsive liar about minor things
@@ -36,12 +41,10 @@ Inherited a failing business and turned it around A prophetic dream has been hau
 - **Short Term**: Avoid the authorities
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Felicia Ironwood the Redeemed (Professional - Rival)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ### Nerys Oakenshield the Cunning (Political - Spy)
 - **Status**: Strong and trusting
@@ -51,7 +54,6 @@ Inherited a failing business and turned it around A prophetic dream has been hau
 ### Fiora Stormwind the Lost (Political - Opposition)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Sells information to all sides

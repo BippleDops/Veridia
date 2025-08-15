@@ -1,8 +1,8 @@
 ---
+aliases: ["Cedric Stormwind the Elder", "cedric stormwind the elder", "Cedric Stormwind Elder", "Elder the Stormwind Cedric"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -71,8 +71,6 @@ Apprenticed to a master craftsman from young age. Years ago, they made a deal th
 ### Skills
 Deception, Stealth, Arcana
 
-
-
 ## Possessions
 - 49 gold pieces
 - Lucky dice
@@ -84,7 +82,6 @@ Deception, Stealth, Arcana
 
 ---
 *Generated: 2025-08-15T03:21:04.024Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

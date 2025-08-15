@@ -1,4 +1,5 @@
 ---
+aliases: ["Cursed Crown of Shadows", "cursed crown of shadows", "Shadows of Crown Cursed"]
 tags: [generated]
 id: ITEM0146
 created: 2025-08-15T04:09:51.123Z
@@ -18,8 +19,6 @@ Crafted from mithril with delicate filigree, in recently restored. It emanates a
 
 ## Quirk
 *Makes user sneeze in sunlight*
-
-
 
 ## History
 This item was forged during the War of Shadows millennia ago. It has passed through many hands, each leaving their mark upon its destiny.

@@ -273,7 +273,6 @@ creature: Custom NPC
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*
 
@@ -458,3 +457,7 @@ creature: Custom NPC
 3. **Power Level**: Newer books sometimes have stronger options
 4. **Integration**: Consider how content fits campaign theme
 5. **AL Legal**: Check Adventurers League rules if applicable
+
+## References
+
+- [[02_Worldbuilding_Military_Combat_Healers_Quick_Ref]]

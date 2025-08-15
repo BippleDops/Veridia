@@ -1,3 +1,9 @@
+---
+aliases: ["Infernal Orb of Truth", "infernal orb of truth", "Truth of Orb Infernal"]
+tags: [item, equipment]
+type: item
+---
+
 # Infernal Orb of Truth
 
 *Artifacts, Legendary (requires attunement)*
@@ -16,8 +22,6 @@ A infernal orb radiating otherworldly power
 - Immunity to charm
 - Grant true sight
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -32,7 +36,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.420Z*

@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Grimholt the Guardian", "idris grimholt the guardian", "Idris Grimholt Guardian", "Guardian the Grimholt Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Grimholt the Guardian
 
 *Goliath Bard (Adventurers), Age 53, Male*
@@ -36,22 +42,18 @@ Chosen by fate to fulfill an ancient prophecy A chance encounter last winter cha
 - **Short Term**: Gather information
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Hestara Crystalbrook the Swift (Professional - Employee)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
 
-
 ### Fiora Silverleaf the Wise (Family - Parent)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Jorah Thornweave the Bold (Political - Ally)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ### Wynne Goldleaf the Seeker (Criminal - Fence)
 - **Status**: One-sided affection

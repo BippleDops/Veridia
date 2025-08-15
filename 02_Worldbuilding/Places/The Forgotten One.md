@@ -62,7 +62,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -114,7 +114,7 @@ The location shifts between being a sentient entity, an ancient ruin, a temporal
 
 ### The Approach
 
-The journey to The Forgotten One begins in the [[The [[Hadal Depths]]]], where the ocean floor drops away into trenches that seem to extend beyond physical possibility. As explorers descend, they notice their equipment beginning to malfunction - not broken, but operating in ways that feel somehow wrong.
+The journey to The Forgotten One begins in the [[Hadal Depths|The [[Hadal Depths]]]], where the ocean floor drops away into trenches that seem to extend beyond physical possibility. As explorers descend, they notice their equipment beginning to malfunction - not broken, but operating in ways that feel somehow wrong.
 
 **Environmental Changes**:
 - **Memory Fog**: A supernatural mist that causes explorers to forget why they came
@@ -252,7 +252,7 @@ Specialized gear has been developed for exploration, with limited success:
 ### The Divine Mission
 
 **Date**: Six months ago
-**Leader**: [[Battle Priest Cassius Depth[[Shield]]]]
+**Leader**: [[Shield|Battle Priest Cassius Depth[[Shield]]]]
 **Purpose**: Attempted exorcism or cleansing of the site
 **Size**: 4 battle clerics and 2 paladins
 **Outcome**: All returned, but claim they never left the city
@@ -463,7 +463,7 @@ Legends speak of The Forgotten One as a nexus where past and present converge. L
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -487,13 +487,11 @@ The Forgotten One is a notable location characterized by its unique features and
 ### Founding
 The Forgotten One was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -501,13 +499,11 @@ The Forgotten One was established in the distant past, growing from humble begin
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -575,3 +571,9 @@ Key stop on spices trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Comprehensive-World-Connection-Guide]]
+- [[The Primordial Vaults]]
+- [[The Primordial Vaults (D&D_References)]]

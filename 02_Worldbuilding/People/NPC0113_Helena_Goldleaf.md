@@ -1,11 +1,11 @@
 ---
+aliases: ["Helena Goldleaf", "helena goldleaf", "Goldleaf Helena"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -80,7 +80,6 @@ Perception, Deception, Athletics
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 61 gold pieces
 - Set of thieves' tools
@@ -95,7 +94,6 @@ Perception, Deception, Athletics
 
 ---
 *Generated: 2025-08-15T03:21:04.038Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

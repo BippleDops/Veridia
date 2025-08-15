@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Winterborn the Bold", "gavril winterborn the bold", "Gavril Winterborn Bold", "Bold the Winterborn Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Winterborn the Bold
 
 *Gnome Shopkeeper (Merchants), Age 56, Female*
@@ -36,12 +42,10 @@ Built their business from nothing through cunning and hard work Strange abilitie
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Qadim Silverleaf the Strong (Criminal - Target)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ### Idris Quicksilver the Broken (Family - Spouse)
 - **Status**: Recently reconciled
@@ -52,16 +56,13 @@ Built their business from nothing through cunning and hard work Strange abilitie
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Urien Oakenshield the Risen (Professional - Employee)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
 
-
 ### Faelyn Youngblood the Bold (Criminal - Accomplice)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Killed previous business owner

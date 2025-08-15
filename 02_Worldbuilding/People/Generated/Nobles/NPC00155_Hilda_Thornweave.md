@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Thornweave", "hilda thornweave", "Thornweave Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Thornweave
 
 *Goliath Courtier (Nobles), Age 60, Male*
@@ -42,11 +48,9 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Aeliana Crystalbrook the Redeemed (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ### Branwen Oakenshield the Strong (Personal - Nemesis)
 - **Status**: Mutually beneficial
@@ -57,11 +61,9 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Wynne Frostwhisper (Political - Puppet)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Child from scandalous affair

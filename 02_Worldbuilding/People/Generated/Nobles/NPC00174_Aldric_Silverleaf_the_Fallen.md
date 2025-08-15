@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Silverleaf the Fallen", "aldric silverleaf the fallen", "Aldric Silverleaf Fallen", "Fallen the Silverleaf Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Silverleaf the Fallen
 
 *Human Heir (Nobles), Age 29, Non-binary*
@@ -36,17 +42,14 @@ Last survivor of a fallen house, seeking to restore family honor A chance encoun
 - **Short Term**: Find missing person
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Nerys Jadeclaw the Cunning (Criminal - Informant)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Urien Voidwalker (Political - Patron)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ### Dara Lightbringer (Political - Opposition)
 - **Status**: One-sided affection

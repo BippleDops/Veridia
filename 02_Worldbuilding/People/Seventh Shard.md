@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-seventh-shard-seventh-shard.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -235,7 +233,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -271,3 +268,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Seventh Shard of Unity]]
+- [[The Great Crystallization]]
+- [[The Seventh Shard]]
+- [[Assets Locations Location City Captain Marcus V1 Captain Marcus.svg]]
+- [[Assets Locations Location City Master Curator Pearl Artflow V1 Master Curator Pearl Artflow.svg]]
+- [[Assets Symbols Symbol Heraldry Port Sorrow Trading Company Port Sorrow Trading Company.svg]]
+- [[Azure Shard]]
+- [[Verdant Shard]]
+- [[The Seven Shards Mystery]]
+- [[Azure Shard (D&D_References)]]
+- [[Verdant Shard (D&D_References)]]

@@ -365,7 +365,7 @@ The [[Pressure Conspiracy]] maintains hidden connections throughout [[Aquabyssos
 - **[[Ancient Ruins]]**: Hidden weapon caches and secret facilities
 - **[[The Pressure Storm Region]]**: Natural camouflage for operations
 - **[[Underground River Systems]]**: Alternative transportation routes
-- **[[Deep Archives|02 Worldbuilding/Lore/Deep Archives]]**: Target for intelligence gathering
+- ****: Target for intelligence gathering
 - **[[Political Prison Complexes]]**: Sites for prisoner liberation operations
 
 #### Pressure Suits

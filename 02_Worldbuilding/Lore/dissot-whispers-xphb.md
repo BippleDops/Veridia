@@ -26,3 +26,17 @@ Further information about this topic will be developed as the campaign progresse
 - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery
+
+## References
+
+- [[Silverquill Student Scc]]
+- [[silverquill-student-scc (backgrounds)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Bard Xphb]]
+- [[Sorcerer Xphb Aberrant Sorcery Xphb]]
+- [[Warlock Xphb Great Old One Patron Xphb]]
+- [[bard-xphb (classes)]]
+- [[bard-xphb 2 (classes)]]
+- [[sorcerer-xphb-aberrant-sorcery-xphb (classes)]]
+- [[warlock-xphb-great-old-one-patron-xphb (classes)]]

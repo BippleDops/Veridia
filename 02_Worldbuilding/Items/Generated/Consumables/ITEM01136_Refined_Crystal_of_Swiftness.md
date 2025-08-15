@@ -1,3 +1,9 @@
+---
+aliases: ["Refined Crystal of Swiftness", "refined crystal of swiftness", "Swiftness of Crystal Refined"]
+tags: [item, equipment]
+type: item
+---
+
 # Refined Crystal of Swiftness
 
 *Consumables, Rare*
@@ -15,8 +21,6 @@ A refined crystal swirling with colors
 - Remove one condition
 - Resistance for 10 minutes
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -31,7 +35,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.459Z*

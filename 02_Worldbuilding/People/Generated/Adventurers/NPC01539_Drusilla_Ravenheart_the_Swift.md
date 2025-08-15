@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Ravenheart the Swift", "drusilla ravenheart the swift", "Drusilla Ravenheart Swift", "Swift the Ravenheart Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Ravenheart the Swift
 
 *Firbolg Cleric (Adventurers), Age 34, Non-binary*
@@ -36,7 +42,6 @@ Accidentally gained powers and learning to control them Strange abilities have b
 - **Short Term**: Make this month's payment
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Solas Goldleaf the Wanderer (Political - Ally)
 - **Status**: On the verge of collapse
@@ -52,7 +57,6 @@ Accidentally gained powers and learning to control them Strange abilities have b
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Drusilla Keenblade the Redeemed (Professional - Employer)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
@@ -61,7 +65,6 @@ Accidentally gained powers and learning to control them Strange abilities have b
 ### Ysara Voidwalker the Lost (Personal - Ex-lover)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ### Ysara Emberfall the Strong (Personal - Nemesis)
 - **Status**: Complicated history

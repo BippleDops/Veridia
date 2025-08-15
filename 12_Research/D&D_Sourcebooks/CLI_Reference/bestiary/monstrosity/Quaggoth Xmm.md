@@ -154,3 +154,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[quaggoth-xmm (monstrosity)]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[Pets Beholder Lesser Minions Vgm]]
+- [[Underdark Encounters Levels 14 Xge]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]
+- [[pets-beholder-lesser-minions-vgm (tables)]]
+- [[underdark-encounters-levels-14-xge (tables)]]

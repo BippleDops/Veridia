@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Emberfall the Scholar", "rhiannon emberfall the scholar", "Rhiannon Emberfall Scholar", "Scholar the Emberfall Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Emberfall the Scholar
 
 *Gnome Cleric (Adventurers), Age 68, Non-binary*
@@ -13,7 +19,6 @@
 Towering and slender, with Mohawk unusual color hair and Green eyes. Pale skin. Burn scars on one side of face.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Flirts with everyone regardless of interest; Sees doom and gloom everywhere; Always speaks in metaphors and riddles
@@ -36,12 +41,10 @@ Chosen by fate to fulfill an ancient prophecy A family member's death has left t
 - **Short Term**: Gather information
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Jorah Voidwalker the Strong (Political - Opposition)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ### Idris Stormwind the Redeemed (Personal - Love interest)
 - **Status**: Professional only
@@ -51,7 +54,6 @@ Chosen by fate to fulfill an ancient prophecy A family member's death has left t
 ### Kaelen Proudmore the Redeemed (Criminal - Handler)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Possessed by ancient spirit

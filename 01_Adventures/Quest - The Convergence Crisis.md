@@ -14,7 +14,6 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 # Quest - The Convergence Crisis
 
 ---
@@ -56,12 +55,10 @@ content_warning: Contains themes of reality alteration and existential choice
 # Quest - The Convergence Crisis
 *When Two Worlds Collide*
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -402,7 +399,6 @@ Contextual improvement based on 12_Research
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## Time Limit
 - **Deadline**: When it must be completed
 - **Consequences**: What happens if late
@@ -448,3 +444,10 @@ Contextual improvement based on 12_Research
 | 4  | Option D |
 | 5  | Option E |
 | 6  | Option F |
+
+## References
+
+- [[Memory Harvester Kythara]]
+- [[Keeper of the Shattered Crown Marcus]]
+- [[Keeper of the Shattered Crown, Marcus Crystalvein]]
+- [[Memory Harvester Kythara (D&D_Statblocks)]]

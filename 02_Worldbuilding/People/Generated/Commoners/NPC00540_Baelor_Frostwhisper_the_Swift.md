@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Frostwhisper the Swift", "baelor frostwhisper the swift", "Baelor Frostwhisper Swift", "Swift the Frostwhisper Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Frostwhisper the Swift
 
 *Tabaxi Blacksmith (Commoners), Age 26, Female*
@@ -36,37 +42,30 @@ Former soldier trying to adjust to civilian life An old debt has come due at the
 - **Short Term**: Make this month's payment
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Elric Ironforge the Wise (Criminal - Informant)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
 
-
 ### Fiora Emberfall (Family - Sibling)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ### Brenna Jadeclaw the Bold (Professional - Employer)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Aldric Brightblade the Lost (Professional - Partner)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
-
 
 ### Qadim Underhill the Swift (Professional - Employer)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Faelyn Xendar the Mystic (Criminal - Handler)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Knows location of ancient treasure

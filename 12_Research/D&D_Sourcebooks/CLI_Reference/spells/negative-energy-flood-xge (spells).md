@@ -106,4 +106,8 @@ Mentioned in The Hidden Prophecy of Stars
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[negative-energy-flood-xge (spells)-phb]]` in CLI_Reference/spells/
+See: `[[negative-energy-flood-xge (spells)|negative-energy-flood-xge (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]

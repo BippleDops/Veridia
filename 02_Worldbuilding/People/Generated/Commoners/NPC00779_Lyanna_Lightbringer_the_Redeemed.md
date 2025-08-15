@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Lightbringer the Redeemed", "lyanna lightbringer the redeemed", "Lyanna Lightbringer Redeemed", "Redeemed the Lightbringer Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Lightbringer the Redeemed
 
 *Human Carpenter (Commoners), Age 63, Non-binary*
@@ -42,16 +48,13 @@ Runaway from an arranged marriage, starting a new life A chance encounter last w
 - **Status**: Complicated history
 - **History**: United by common enemy
 
-
 ### Aeliana Grimholt the Strong (Political - Patron)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Orion Jadeclaw the Cunning (Professional - Partner)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ### Aldric Stormwind the Fallen (Personal - Childhood friend)
 - **Status**: On the verge of collapse

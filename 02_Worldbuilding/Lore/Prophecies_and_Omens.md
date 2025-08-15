@@ -258,7 +258,7 @@ To save the future."
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -296,7 +296,7 @@ To save the future."
 
 - Detail funeral rites and afterlife beliefs
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs

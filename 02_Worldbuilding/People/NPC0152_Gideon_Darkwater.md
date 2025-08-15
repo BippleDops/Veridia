@@ -1,11 +1,11 @@
 ---
+aliases: ["Gideon Darkwater", "gideon darkwater", "Darkwater Gideon"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -75,8 +75,6 @@ Born into a noble family but cast out for scandal. Years ago, they lost everythi
 ### Skills
 Arcana, Perception, Persuasion
 
-
-
 ## Possessions
 - 98 gold pieces
 - Mysterious key
@@ -91,7 +89,6 @@ Arcana, Perception, Persuasion
 
 ---
 *Generated: 2025-08-15T03:21:04.041Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

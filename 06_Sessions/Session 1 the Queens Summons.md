@@ -990,12 +990,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## Pronunciation Guide
 - **Aethermoor**: [AYTHERMOOR]
 - **Queen's**: [QUEEN-S]
 - **Aethermoor**: [AYTHERMOOR]
-
 
 ## See Also
 - Related content

@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Blackstone the Redeemed", "zephyr blackstone the redeemed", "Zephyr Blackstone Redeemed", "Redeemed the Blackstone Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Blackstone the Redeemed
 
 *Tabaxi Blacksmith (Commoners), Age 75, Female*
@@ -36,32 +42,26 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Gavril Grimholt the Swift (Family - Spouse)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Hestara Winterborn the Guardian (Family - Child)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ### Brenna Goldleaf the Fallen (Professional - Rival)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
 
-
 ### Pyria Crystalbrook the Fallen (Personal - Nemesis)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Ewan Lightbringer the Scholar (Professional - Mentor)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Has dragon blood in their veins

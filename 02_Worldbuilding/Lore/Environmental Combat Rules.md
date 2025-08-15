@@ -46,12 +46,18 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 *Customize as needed for your specific campaign requirements.*
-
 
 ## Scaling by Party Level
 - **Level 1-4**: Reduce enemies
 - **Level 5-10**: Standard difficulty
 - **Level 11-15**: Add elite enemies
 - **Level 16-20**: Legendary difficulty
+
+## References
+
+- [[Initiative Tracker (02_Worldbuilding)]]
+- [[Multi-Phase Boss Fights]]
+- [[Initiative Tracker (D&D_References)]]
+- [[Multi-Phase Boss Fights (D&D_References)]]

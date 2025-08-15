@@ -62,3 +62,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A shipment has gone missing and war looms
 - Strange accidents suggest a conspiracy
+
+## References
+
+- [[QUEST0018_The_Sunken_Temple_Uprising]]
+- [[02 Chapter 1 Greenest in Flames]]
+- [[02-chapter-1-greenest-in-flames (hoard-of-the-dragon-queen)]]
+- [[14 Appendix E Concept Gallery]]
+- [[14-appendix-e-concept-gallery (hoard-of-the-dragon-queen)]]

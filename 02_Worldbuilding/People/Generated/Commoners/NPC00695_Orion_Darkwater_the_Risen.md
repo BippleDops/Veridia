@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Darkwater the Risen", "orion darkwater the risen", "Orion Darkwater Risen", "Risen the Darkwater Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Darkwater the Risen
 
 *Half-Elf Blacksmith (Commoners), Age 75, Female*
@@ -13,7 +19,6 @@
 Very tall and muscular, with Carefully styled white hair and Amber eyes. Weathered skin. Constantly changing hair color.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Constantly quotes ancient texts; Always speaks in metaphors and riddles
@@ -36,7 +41,6 @@ Family has worked the same trade for generations, but times are changing Strange
 - **Short Term**: Make this month's payment
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Hestara Stormwind the Mystic (Family - Sibling)
 - **Status**: Strained but maintaining
@@ -47,16 +51,13 @@ Family has worked the same trade for generations, but times are changing Strange
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Delara Youngblood the Wise (Criminal - Informant)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Ewan Youngblood the Risen (Political - Ally)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Knows location of ancient treasure

@@ -91,3 +91,7 @@ Mentioned in The First Prophecy of Stars
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Master_Item_Catalog]]

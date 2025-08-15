@@ -102,3 +102,8 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Locations Location City Temple Guardian Marcus the Drowned Temple Guardian Marcus the Drowned.svg]]
+- [[Assets Portraits Portrait NPC Deep Lords Deep Lords.svg]]

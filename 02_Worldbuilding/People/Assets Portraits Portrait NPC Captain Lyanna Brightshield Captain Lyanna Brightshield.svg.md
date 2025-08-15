@@ -215,3 +215,7 @@ Member of House Lionblood - Trait: divine blood
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-artisans-collective-of-master-crafters-the-artisans-collective-of-master-crafters.svg]]

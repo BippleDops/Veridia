@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Stormwind the Swift", "pyria stormwind the swift", "Pyria Stormwind Swift", "Swift the Stormwind Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Stormwind the Swift
 
 *Half-Elf Wizard (Adventurers), Age 62, Male*
@@ -36,7 +42,6 @@ Accidentally gained powers and learning to control them They recently discovered
 - **Short Term**: Complete current contract
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Drusilla Goldleaf the Redeemed (Professional - Partner)
 - **Status**: Mutually beneficial
@@ -47,11 +52,9 @@ Accidentally gained powers and learning to control them They recently discovered
 - **Status**: One-sided affection
 - **History**: United by common enemy
 
-
 ### Corvus Underhill the Risen (Family - Parent)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
-
 
 ### Felicia Oakenshield the Lost (Criminal - Target)
 - **Status**: One-sided affection

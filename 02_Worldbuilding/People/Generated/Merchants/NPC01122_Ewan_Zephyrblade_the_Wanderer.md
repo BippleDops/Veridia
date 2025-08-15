@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Zephyrblade the Wanderer", "ewan zephyrblade the wanderer", "Ewan Zephyrblade Wanderer", "Wanderer the Zephyrblade Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Zephyrblade the Wanderer
 
 *Human Caravan Master (Merchants), Age 57, Female*
@@ -13,7 +19,6 @@
 Average height and wiry, with Mohawk silver hair and Amber eyes. Dark skin. Intricate tattoos covering arms.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Incredibly optimistic despite evidence; Extremely superstitious about everything; Never backs down from any challenge
@@ -36,17 +41,14 @@ Part of a merchant family with connections everywhere A prophetic dream has been
 - **Short Term**: Find missing person
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Rhiannon Zephyrblade the Scholar (Personal - Childhood friend)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Fiora Ironforge the Risen (Family - Sibling)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
-
 
 ### Qadim Jadeclaw the Wanderer (Criminal - Target)
 - **Status**: Secretly hostile

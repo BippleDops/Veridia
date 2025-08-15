@@ -198,3 +198,7 @@ Member of House Eagleblood - Trait: curse
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-commander-typhoon-blackheart-commander-typhoon-blackheart.svg]]

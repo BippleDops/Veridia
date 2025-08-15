@@ -52,7 +52,6 @@ improvements: 20
 - Time pressure
 - Moral dilemmas
 
-
 ## Objectives
 ### Primary
 - Main quest goal
@@ -60,7 +59,6 @@ improvements: 20
 ### Optional
 - Secondary objectives
 - Hidden goals
-
 
 > [!figure] View
 
@@ -558,7 +556,6 @@ Ongoing situations affecting Quest - The Missing Fleet:
 
 ### Story Rewards
 - *[Reputation, allies, information]*
-
 
 ## Hooks
 - **Personal**: Character connection

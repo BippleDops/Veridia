@@ -81,3 +81,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Young Copper Dragon Xmm]]
+- [[young-copper-dragon-xmm (dragon)]]
+- [[Monsters by Habitat Hill Monsters Xmm]]
+- [[monsters-by-habitat-hill-monsters-xmm (tables)]]

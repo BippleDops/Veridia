@@ -46,7 +46,6 @@ This content can be adapted and expanded based on specific campaign needs.
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -59,3 +58,15 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Ancient Green Dragon Xmm]]
+- [[ancient-green-dragon-xmm (dragon)]]
+- [[Alhoon Mpmm]]
+- [[alhoon-mpmm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Warlock Xphb Great Old One Patron Xphb]]
+- [[warlock-xphb-great-old-one-patron-xphb (classes)]]

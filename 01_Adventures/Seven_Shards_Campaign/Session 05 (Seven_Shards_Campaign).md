@@ -141,7 +141,6 @@ Mentioned in The Hidden Prophecy of Winds
 - Consequences
 - Epilogue hooks
 
-
 ## Preparation Checklist
 - [ ] Review previous session
 - [ ] Prepare NPC voices

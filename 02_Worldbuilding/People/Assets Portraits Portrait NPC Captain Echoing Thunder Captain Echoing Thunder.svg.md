@@ -196,3 +196,7 @@ This NPC can serve multiple roles:
 ## Bloodline
 
 Member of House Dragonblood - Trait: magical affinity
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-quartermaster-shadow-supply-quartermaster-shadow-supply.svg]]

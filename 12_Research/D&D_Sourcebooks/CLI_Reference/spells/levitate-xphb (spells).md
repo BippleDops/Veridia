@@ -101,7 +101,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -120,4 +119,47 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[levitate-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[levitate-xphb (spells)|levitate-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Mind Flayer Psion Vgm]]
+- [[Neothelid Mpmm]]
+- [[Ulitharid Mpmm]]
+- [[mind-flayer-psion-vgm (aberration)]]
+- [[neothelid-mpmm (aberration)]]
+- [[ulitharid-mpmm (aberration)]]
+- [[Babau Mpmm]]
+- [[Barghest Mpmm]]
+- [[babau-mpmm (fiend)]]
+- [[barghest-mpmm (fiend)]]
+- [[Illithilich Vgm (undead)]]
+- [[illithilich-vgm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Drow High Magic Xge]]
+- [[drow-high-magic-xge (feats)]]
+- [[Balloon Pack Pota]]
+- [[Boots of Levitation Xdmg]]
+- [[Instrument of the Bards Anstruth Harp Xdmg]]
+- [[Instrument of the Bards Canaith Mandolin Xdmg]]
+- [[Instrument of the Bards Cli Lyre Xdmg]]
+- [[Instrument of the Bards Doss Lute Xdmg]]
+- [[Instrument of the Bards Fochlucan Bandore]]
+- [[Instrument of the Bards Mac Fuirmidh Cittern]]
+- [[Instrument of the Bards Ollamh Harp Xdmg]]
+- [[Instrument of the Bards Xdmg]]
+- [[balloon-pack-pota (items)]]
+- [[boots-of-levitation-xdmg (items)]]
+- [[instrument-of-the-bards-anstruth-harp-xdmg (items)]]
+- [[instrument-of-the-bards-canaith-mandolin-xdmg (items)]]
+- [[instrument-of-the-bards-cli-lyre-xdmg (items)]]
+- [[instrument-of-the-bards-doss-lute-xdmg (items)]]
+- [[instrument-of-the-bards-fochlucan-bandore-xdmg]]
+- [[instrument-of-the-bards-mac-fuirmidh-cittern-xdmg]]
+- [[instrument-of-the-bards-ollamh-harp-xdmg (items)]]
+- [[instrument-of-the-bards-xdmg (items)]]
+- [[Ascendant Step Xphb]]
+- [[ascendant-step-xphb (optional-features)]]
+- [[Wild Magic Surge Phb]]
+- [[wild-magic-surge-phb (tables)]]

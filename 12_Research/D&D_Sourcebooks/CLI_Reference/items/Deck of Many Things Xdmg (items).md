@@ -207,3 +207,19 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Blob of Annihilation Xmm]]
+- [[blob-of-annihilation-xmm (ooze)]]
+- [[Avatar of Death Dmg]]
+- [[avatar-of-death-dmg (undead)]]
+- [[09 Appendix a Lore Glossary]]
+- [[09-appendix-a-lore-glossary (dungeon-masters-guide-2024)]]
+- [[Arcana Legendary Xdmg]]
+- [[Magic Item Table I]]
+- [[Random Magic Items Arcana]]
+- [[arcana-legendary-xdmg (tables)]]
+- [[magic-item-table-i (tables)]]
+- [[random-magic-items-arcana (tables)]]

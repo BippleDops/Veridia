@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Ravenheart", "xander ravenheart", "Ravenheart Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Ravenheart
 
 *Goliath Noble (Nobles), Age 42, Female*
@@ -36,37 +42,30 @@ Secretly adopted into nobility, living in fear of discovery They're being blackm
 - **Short Term**: Complete current contract
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Orion Ashford (Criminal - Handler)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Faelyn Crystalbrook the Guardian (Personal - Nemesis)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ### Rhiannon Ironwood (Professional - Mentor)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Orion Silverleaf the Wanderer (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ### Aldric Nightfall the Strong (Professional - Mentor)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Faelyn Ashford the Risen (Family - Parent)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Secretly funding the rebellion

@@ -99,7 +99,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Mentioned in The Hidden Prophecy of Depths
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -112,3 +111,30 @@ Mentioned in The Hidden Prophecy of Depths
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Githyanki Knight Xmm]]
+- [[Mind Flayer Psion Vgm]]
+- [[Neothelid Mpmm]]
+- [[Ulitharid Mpmm]]
+- [[githyanki-knight-xmm (aberration)]]
+- [[mind-flayer-psion-vgm (aberration)]]
+- [[neothelid-mpmm (aberration)]]
+- [[ulitharid-mpmm (aberration)]]
+- [[Guardian Portrait Cos]]
+- [[guardian-portrait-cos (construct)]]
+- [[Molydeus Mpmm]]
+- [[molydeus-mpmm (fiend)]]
+- [[Cloud Giant Xmm]]
+- [[cloud-giant-xmm (giant)]]
+- [[Elder Oblex Mpmm]]
+- [[elder-oblex-mpmm (ooze)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Sorcerer Xphb Aberrant Sorcery Xphb]]
+- [[Warlock Xphb Great Old One Patron Xphb]]
+- [[sorcerer-xphb-aberrant-sorcery-xphb (classes)]]
+- [[warlock-xphb-great-old-one-patron-xphb (classes)]]
+- [[Ring of Telekinesis Xdmg]]
+- [[ring-of-telekinesis-xdmg (items)]]

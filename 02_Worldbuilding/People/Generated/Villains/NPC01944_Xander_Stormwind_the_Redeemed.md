@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Stormwind the Redeemed", "xander stormwind the redeemed", "Xander Stormwind Redeemed", "Redeemed the Stormwind Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Stormwind the Redeemed
 
 *Tiefling Crime Boss (Villains), Age 53, Female*
@@ -36,7 +42,6 @@ Betrayed by those they trusted, now seeking revenge on the world They've fallen 
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Brenna Nightfall the Strong (Criminal - Handler)
 - **Status**: One-sided affection
@@ -47,7 +52,6 @@ Betrayed by those they trusted, now seeking revenge on the world They've fallen 
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
 
-
 ### Nerys Keenblade the Broken (Family - Cousin)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
@@ -56,7 +60,6 @@ Betrayed by those they trusted, now seeking revenge on the world They've fallen 
 ### Dara Brightblade the Bold (Family - Sibling)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Has a child they're protecting

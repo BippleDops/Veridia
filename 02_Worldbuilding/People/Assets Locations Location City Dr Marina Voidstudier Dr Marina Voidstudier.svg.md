@@ -193,7 +193,7 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[04_Resources_Assets_Locations_location-city-dr-reef-brightwater-dr-reef-brightwater.svg]] (rival)
 - [[The Golden Fishook Tavern]] (colleague)
-- [[Mirror Breaking Crystals]] (rival)
+- [[Assets Portraits Portrait NPC Mirror Breaking Crystals Mirror Breaking Crystals.svg|Mirror Breaking Crystals]] (rival)
 ---
 *Tags*: #npc #contact #worldbuilding
 

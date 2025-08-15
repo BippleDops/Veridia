@@ -1,3 +1,9 @@
+---
+aliases: ["Celestial Crown of Truth", "celestial crown of truth", "Truth of Crown Celestial"]
+tags: [item, equipment]
+type: item
+---
+
 # Celestial Crown of Truth
 
 *Artifacts, Legendary (requires attunement)*
@@ -16,8 +22,6 @@ A celestial crown radiating otherworldly power
 - Immunity to charm
 - Telepathy 120 ft
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -32,7 +36,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.419Z*

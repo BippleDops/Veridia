@@ -59,3 +59,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A merchant needs help delivering before the new moon
 - A noble needs help stealing before the festival
 - Someone is protecting information for power
+
+## References
+
+- [[Shadow Conspiracy Investigation (Criminal_Organizations)]]
+- [[Shadow Conspiracy Investigation]]

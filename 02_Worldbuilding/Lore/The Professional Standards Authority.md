@@ -93,3 +93,7 @@ The Professional Standards Authority represents a crucial aspect of the world's 
 - A document has gone missing and chaos spreads
 - Strange disappearances suggest a conspiracy
 - A [[Merchant]] needs help finding before the new moon
+
+## References
+
+- [[The_Professional_Standards_Authority (02_Worldbuilding)]]

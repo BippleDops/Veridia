@@ -115,3 +115,8 @@ Actively involved in current events, pursuing their own agenda while maintaining
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
+
+## References
+
+- [[Investigate the Crystal Plague]]
+- [[Investigate the Crystal Plague (D&D_Statblocks)]]

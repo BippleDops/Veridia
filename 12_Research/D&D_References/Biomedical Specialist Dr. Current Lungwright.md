@@ -67,7 +67,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## Player Tips
 > 🎮 **Strategy**: How to approach this content
 > Work together and communicate
+
+## References
+
+- [[Underwater Breathing]]
+- [[Underwater Breathing (D&D_References)]]

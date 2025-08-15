@@ -147,3 +147,14 @@ Mentioned in The Hidden Prophecy of Winds
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Crystal-Corruption-Tracking-Sheet]]
+- [[Economic Crime Methods]]
+- [[Economic Systems and Currency]]
+- [[Merchant Family Alliances]]
+- [[Political Compromise Costs]]
+- [[Reputation System]]
+- [[The Crimson Hand]]
+- [[Maelstrom Palace]]

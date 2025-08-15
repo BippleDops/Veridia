@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Brightblade the Lost", "nerys brightblade the lost", "Nerys Brightblade Lost", "Lost the Brightblade Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Brightblade the Lost
 
 *Firbolg Wizard (Adventurers), Age 22, Male*
@@ -36,22 +42,18 @@ Accidentally gained powers and learning to control them They're being blackmaile
 - **Short Term**: Find missing person
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Baelor Silverleaf the Mystic (Professional - Rival)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
 
-
 ### Kaelen Brightblade the Swift (Political - Puppet)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Vesper Grimholt the Risen (Personal - Love interest)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ### Alaric Ashford the Lost (Family - Child)
 - **Status**: On the verge of collapse

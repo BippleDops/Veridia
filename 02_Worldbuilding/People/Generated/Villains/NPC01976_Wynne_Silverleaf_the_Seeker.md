@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Silverleaf the Seeker", "wynne silverleaf the seeker", "Wynne Silverleaf Seeker", "Seeker the Silverleaf Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Silverleaf the Seeker
 
 *Gnome Cultist (Villains), Age 65, Male*
@@ -13,7 +19,6 @@
 Very tall and imposing, with Shaved red hair and Green eyes. Olive skin. Unusual eye color for their race.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Laughs at the most inappropriate times; Always tells the absolute truth
@@ -36,7 +41,6 @@ Betrayed by those they trusted, now seeking revenge on the world They've made a 
 - **Short Term**: Gather information
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Caelum Proudmore the Seeker (Political - Ally)
 - **Status**: Strained but maintaining
@@ -47,11 +51,9 @@ Betrayed by those they trusted, now seeking revenge on the world They've made a 
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
 
-
 ### Malakai Ashford the Risen (Family - Child)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Believes they're saving the world

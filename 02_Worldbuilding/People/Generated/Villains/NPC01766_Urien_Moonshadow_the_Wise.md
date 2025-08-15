@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Moonshadow the Wise", "urien moonshadow the wise", "Urien Moonshadow Wise", "Wise the Moonshadow Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Moonshadow the Wise
 
 *Tiefling Cultist (Villains), Age 37, Non-binary*
@@ -13,7 +19,6 @@
 Very short and athletic, with Braided elaborately blonde hair and Blue eyes. Olive skin. Burn scars on one side of face.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Speaks to inanimate objects; Always tells the absolute truth; Collects unusual and worthless objects
@@ -36,7 +41,6 @@ Driven mad by knowledge humanity wasn't meant to know Strange abilities have beg
 - **Short Term**: Gather information
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Cedric Oakenshield the Guardian (Professional - Employer)
 - **Status**: Strong and trusting
@@ -47,16 +51,13 @@ Driven mad by knowledge humanity wasn't meant to know Strange abilities have beg
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Malakai Winterborn the Redeemed (Professional - Rival)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Malakai Stormwind the Strong (Criminal - Fence)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Has a child they're protecting

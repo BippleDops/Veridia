@@ -1,11 +1,11 @@
 ---
+aliases: ["Soren Goldleaf the Ancient", "soren goldleaf the ancient", "Soren Goldleaf Ancient", "Ancient the Goldleaf Soren"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -79,7 +79,6 @@ Insight, Investigation, Arcana
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 67 gold pieces
 - Healing potion
@@ -94,7 +93,6 @@ Insight, Investigation, Arcana
 
 ---
 *Generated: 2025-08-15T03:20:13.083Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

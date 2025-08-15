@@ -1366,12 +1366,10 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Pronunciation Guide
 - **Aethermoor**: [AYTHERMOOR]
 - **Aethermoor's**: [AYTHERMOOR-S]
 - **Singer's**: [SINGER-S]
-
 
 ## Alternate Descriptions
 - **First Impression**: Initial appearance

@@ -162,3 +162,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Modron Monodrone Xmm]]
+- [[Monster Conversions Stat Block Conversions]]
+- [[monster-conversions-stat-block-conversions-xmm]]

@@ -42,7 +42,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -103,7 +103,7 @@ Legends speak of Anti Smuggling Operations as a nexus where past and present con
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -124,13 +124,11 @@ Anti-Smuggling Operations is a notable location characterized by its unique feat
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -138,13 +136,11 @@ Anti-Smuggling Operations is a notable location characterized by its unique feat
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -171,7 +167,7 @@ Ongoing situations affecting Anti-Smuggling Operations:
 - A document has gone missing and truth emerges
 - A shipment has gone missing and war looms
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -246,7 +242,6 @@ Ongoing situations affecting Anti-Smuggling Operations:
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -282,3 +277,8 @@ Ongoing situations affecting Anti-Smuggling Operations:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Harbor District Customs House]]
+- [[Harbor District Customs House (D&D_References)]]

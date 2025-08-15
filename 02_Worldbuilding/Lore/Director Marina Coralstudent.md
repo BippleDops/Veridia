@@ -104,3 +104,7 @@ Director Marina Coralstudent represents a crucial aspect of the world's history,
 - Civil war
 - Natural disasters
 - Current power structures established
+
+## References
+
+- [[Coral Throne Syndicate HQ (D&D_References)]]

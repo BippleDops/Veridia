@@ -1,11 +1,11 @@
 ---
+aliases: ["Delilah Ironforge the Terrible", "delilah ironforge the terrible", "Delilah Ironforge Terrible", "Terrible the Ironforge Delilah"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Raised by monks in a remote monastery. Years ago, they once saved a noble's life
 ### Skills
 Insight, Perception, Investigation, Arcana
 
-
-
 ## Possessions
 - 58 gold pieces
 - Small gemstone
@@ -89,7 +87,6 @@ Insight, Perception, Investigation, Arcana
 
 ---
 *Generated: 2025-08-15T03:20:13.079Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

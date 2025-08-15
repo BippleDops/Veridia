@@ -36,12 +36,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-free-current-safe-houses-free-current-safe-houses.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -209,7 +207,6 @@ Member of House Eagleblood - Trait: prophecy
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -279,3 +276,10 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City Forge Master Petra Hammerdeep V1 Forge Master Petra Hammerdeep.svg]]
+- [[Assets Locations Location City Freedrift Network Freedrift Network.svg]]
+- [[Assets Portraits Portrait NPC Captain Thrace Deeprunner Captain Thrace Deeprunner.svg]]
+- [[Assets Symbols Symbol Heraldry Echo Prime Cacophony Voidlung Echo Prime Cacophony Voidlung.svg]]

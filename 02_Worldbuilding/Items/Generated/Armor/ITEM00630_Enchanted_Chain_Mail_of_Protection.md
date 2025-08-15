@@ -1,3 +1,9 @@
+---
+aliases: ["Enchanted Chain Mail of Protection", "enchanted chain mail of protection", "Protection of Mail Chain Enchanted"]
+tags: [item, equipment]
+type: item
+---
+
 # Enchanted Chain Mail of Protection
 
 *Armor, Very Rare (requires attunement)*

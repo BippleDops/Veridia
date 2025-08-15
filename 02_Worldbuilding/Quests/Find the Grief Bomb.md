@@ -130,6 +130,5 @@ An exciting quest that challenges heroes to claim glory.
 - Stealing medicine to save a plague victim
 - Choosing between two villages to save
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*

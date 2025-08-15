@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Jadeclaw the Broken", "xander jadeclaw the broken", "Xander Jadeclaw Broken", "Broken the Jadeclaw Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Jadeclaw the Broken
 
 *Goliath Blacksmith (Commoners), Age 72, Non-binary*
@@ -36,7 +42,6 @@ Family has worked the same trade for generations, but times are changing An old 
 - **Short Term**: Recruit new members
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Xander Blackstone the Redeemed (Political - Puppet)
 - **Status**: Mutually beneficial
@@ -51,7 +56,6 @@ Family has worked the same trade for generations, but times are changing An old 
 ### Hilda Moonshadow (Personal - Nemesis)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ### Delara Ravenheart the Mystic (Family - Parent)
 - **Status**: Secretly hostile

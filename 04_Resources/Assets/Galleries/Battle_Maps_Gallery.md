@@ -1,3 +1,8 @@
+---
+tags: [misc]
+type: misc
+---
+
 # Battle Maps Gallery
 
 %% Use reading mode for visual gallery %%

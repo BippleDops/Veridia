@@ -2,7 +2,7 @@
 tags: ['[[Lore]]']
 ---
 
-# 02 Worldbuilding/[[Groups]]/[[The Shadow [[Merchant]] Prim]]
+# 02 Worldbuilding/[[Groups]]/[[Merchant|The Shadow [[Merchant]] Prim]]
 
 ## Overview
 

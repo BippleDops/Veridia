@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Goldleaf", "ysara goldleaf", "Goldleaf Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Goldleaf
 
 *Half-Elf Heir (Nobles), Age 37, Female*
@@ -36,7 +42,6 @@ Exiled from their homeland, trying to rebuild their power base A chance encounte
 - **Short Term**: Sabotage competition
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Solas Ashford the Seeker (Criminal - Informant)
 - **Status**: Complicated history
@@ -47,16 +52,13 @@ Exiled from their homeland, trying to rebuild their power base A chance encounte
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Gavril Quicksilver the Cunning (Personal - Nemesis)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
 
-
 ### Dara Stormwind the Scholar (Criminal - Accomplice)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ### Kaelen Brightblade (Personal - Childhood friend)
 - **Status**: Professional only

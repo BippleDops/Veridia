@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Emberfall the Broken", "nerys emberfall the broken", "Nerys Emberfall Broken", "Broken the Emberfall Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Emberfall the Broken
 
 *Tabaxi Rogue (Adventurers), Age 45, Male*
@@ -13,7 +19,6 @@
 Average height and wiry, with Braided elaborately silver hair and Black eyes. Weathered skin. Unusual eye color for their race.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Compulsive liar about minor things
@@ -36,22 +41,18 @@ Accidentally gained powers and learning to control them A family member's death 
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Jorah Quicksilver the Cunning (Personal - Ex-lover)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
 
-
 ### Gavril Proudmore the Risen (Criminal - Informant)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Solas Dawnstrider the Broken (Criminal - Informant)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ### Brenna Moonshadow the Broken (Political - Patron)
 - **Status**: One-sided affection
@@ -61,7 +62,6 @@ Accidentally gained powers and learning to control them A family member's death 
 ### Pyria Blackstone the Risen (Political - Patron)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Secretly working for the villain

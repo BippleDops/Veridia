@@ -109,7 +109,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -128,4 +127,20 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[alter-self-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[alter-self-xphb (spells)|alter-self-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Arcanaloth Xmm]]
+- [[Cambion Xmm]]
+- [[Green Abishai Mpmm]]
+- [[Ultroloth Xmm]]
+- [[arcanaloth-xmm (fiend)]]
+- [[cambion-xmm (fiend)]]
+- [[green-abishai-mpmm (fiend)]]
+- [[ultroloth-xmm (fiend)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Master of Myriad Forms Xphb]]
+- [[master-of-myriad-forms-xphb (optional-features)]]

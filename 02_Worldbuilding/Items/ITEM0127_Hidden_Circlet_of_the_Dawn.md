@@ -1,4 +1,5 @@
 ---
+aliases: ["Hidden Circlet of the Dawn", "hidden circlet of the dawn", "Hidden Circlet of Dawn", "Dawn the of Circlet Hidden"]
 tags: [generated]
 id: ITEM0127
 created: 2025-08-15T04:09:51.118Z
@@ -19,8 +20,6 @@ Crafted from darkwood with delicate filigree, in pristine condition. It emanates
 
 ## Quirk
 *Vibrates near magic*
-
-
 
 ## History
 This item was lost in a great battle ages ago. It has passed through many hands, each leaving their mark upon its destiny.

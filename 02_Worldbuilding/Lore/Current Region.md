@@ -90,3 +90,8 @@ Current Region represents a crucial aspect of the world's history, cosmology, or
 - A letter reveals the truth about the government
 - A stranger needs help stealing before the festival
 - A [[map]] reveals the truth about this place
+
+## References
+
+- [[Depth Warden Patrol]]
+- [[Player_Dashboard]]

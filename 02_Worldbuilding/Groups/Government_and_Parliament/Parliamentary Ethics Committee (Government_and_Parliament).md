@@ -1,9 +1,9 @@
 ---
 
-title: Parliamentary Ethics Committee
+title: [[Parliamentary Ethics Committee|Parliamentary Ethics Committee]]
 type: Faction
 tags:
-- aquabyssos
+- [[Aquabyssos|Aquabyssos]]
 - world/aquabyssos
 - content/faction
 - faction
@@ -24,7 +24,7 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-![Parliamentary Ethics Committee](../../../04_Resources/Assets/Generated/Misc/parliamentary_ethics_committee.png)
+![Parliamentary Ethics Committee](../../../[[04_Resources|04_Resources]]/[[Assets|Assets]]/Generated/Misc/parliamentary_ethics_committee.png)
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -36,11 +36,11 @@ improvements: 20
 
 ### Culture Improvements
 
-- Define unique cultural practices and taboos
+- Define unique [[Cultural Practices|Cultural Practices]] and taboos
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -48,7 +48,7 @@ improvements: 20
 
 ### Lifestyle Improvements
 
-- Describe typical day for different social classes
+- Describe typical day for different social [[classes|classes]]
 
 ### Superstitions Improvements
 
@@ -76,21 +76,21 @@ improvements: 20
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
+- Detail common [[objects|objects]] and their cultural significance
 
 ### Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
 
-## Player-Facing Summary
+## Player-[[facing|facing]] Summary
 
 Parliamentary Ethics Committee is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore|Lore]] Details
 
-Legends speak of Parliamentary Ethics Committee as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Parliamentary Ethics Committee.
+Legends speak of Parliamentary Ethics Committee as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or [[Whispers|Whispers]] on the wind—that herald change around Parliamentary Ethics Committee.
 
-## DM Notes
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -103,7 +103,7 @@ Things widely suspected
 - The authorities needs help finding before the festival
 - Someone is searching for a witness for money
 
-## Historical Timeline
+## Historical [[Timeline|Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -115,10 +115,10 @@ Things widely suspected
 - Cultural renaissance
 - Expansion of territory
 
-### The Time of Troubles (100 years ago)
+### The [[Time|Time]] of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures|Power Structures]] established
 
 ## Cultural Practices
 
@@ -177,3 +177,6 @@ Things widely suspected
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+---
+**Navigation**: [[INDEX|🏠 Home]] | [[INDEX|📚 Index]]

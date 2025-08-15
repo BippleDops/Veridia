@@ -56,3 +56,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Someone is protecting a artifact for revenge
 - A prisoner has gone missing and truth emerges
+
+## References
+
+- [[Discover Marina's Truth]]

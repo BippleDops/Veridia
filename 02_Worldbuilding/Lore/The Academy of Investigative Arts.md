@@ -115,3 +115,8 @@ Mentioned in The Second Prophecy of Stars
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[The_Academy_of_Investigative_Arts (Places)]]
+- [[Evidence Chain Analysis]]

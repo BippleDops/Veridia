@@ -112,7 +112,6 @@ This content can be adapted and expanded based on specific campaign needs.
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## Preparation Checklist
 - [ ] Review previous session
 - [ ] Prepare NPC voices

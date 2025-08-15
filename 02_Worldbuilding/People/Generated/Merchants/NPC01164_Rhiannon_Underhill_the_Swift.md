@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Underhill the Swift", "rhiannon underhill the swift", "Rhiannon Underhill Swift", "Swift the Underhill Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Underhill the Swift
 
 *Human Caravan Master (Merchants), Age 70, Male*
@@ -36,7 +42,6 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 - **Short Term**: Survive until next week
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Solas Xendar the Mystic (Criminal - Handler)
 - **Status**: Mutually beneficial
@@ -47,21 +52,17 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Kaelen Voidwalker the Broken (Political - Spy)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
-
 
 ### Thalia Thornweave the Broken (Political - Opposition)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Zephyr Ravenheart the Fallen (Professional - Rival)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Killed previous business owner

@@ -152,3 +152,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[shadow-mastiff-alpha-mpmm (monstrosity)]]
+- [[3 Bestiary]]
+- [[3-bestiary (volos-guide-to-monsters)]]
+- [[Random Hag Minions Servants Vgm]]
+- [[random-hag-minions-servants-vgm (tables)]]

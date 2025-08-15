@@ -235,7 +235,6 @@ creature: Custom NPC
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
 
-
 ## Alternate Descriptions
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
@@ -244,3 +243,7 @@ creature: Custom NPC
 ## Player Tips
 > 🎮 **Strategy**: How to approach this content
 > Work together and communicate
+
+## References
+
+- [[NPC_Reaction_Generator_Quick_Ref]]

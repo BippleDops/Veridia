@@ -90,7 +90,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -109,4 +108,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[mass-healing-word-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[healing-word-xphb (spells)|mass-healing-word-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[sanctuary]]
+- [[Sahuagin Priest Xmm]]
+- [[sahuagin-priest-xmm (fiend)]]
+- [[Empyrean Iota Xmm]]
+- [[empyrean-iota-xmm (miscellaneous)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Bard Xphb]]
+- [[Cleric Xphb Life Domain Xphb]]
+- [[bard-xphb (classes)]]
+- [[bard-xphb 2 (classes)]]
+- [[cleric-xphb-life-domain-xphb (classes)]]
+- [[cleric-xphb-life-domain-xphb 2 (classes)]]
+- [[Sanctuary Charm Xdmg]]
+- [[sanctuary-charm-xdmg (rewards)]]

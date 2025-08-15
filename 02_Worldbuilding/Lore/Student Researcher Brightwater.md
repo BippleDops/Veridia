@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -80,7 +80,7 @@ Student Researcher Brightwater is a undersea element of the setting, known for b
 
 Legends speak of Student Researcher Brightwater as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Student Researcher Brightwater.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -100,7 +100,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 Mentioned in The Hidden Prophecy of Shadows
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -146,3 +146,8 @@ Mentioned in The Hidden Prophecy of Shadows
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[Keeper Elara Mindwell]]
+- [[Keeper Elara Mindwell (D&D_Statblocks)]]

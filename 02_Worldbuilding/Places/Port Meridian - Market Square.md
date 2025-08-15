@@ -62,7 +62,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -127,7 +127,7 @@ At the heart of the Market Square lies a perfectly circular plaza paved with lum
 
 **The Meridian Fountain** - This iconic landmark stands 30 feet tall and features a constantly shifting crystal formation that displays the current time, date, weather conditions, and dimensional stability readings. The fountain's water is infused with trace amounts of purified crystal essence, making it both beautiful and magically refreshing. The water flows in patterns that change throughout the day, creating different musical tones that serve as a subtle time-keeping system for the entire market.
 
-**[[The Speaking Stones]]** - Eight granite pillars arranged around the fountain provide formal spaces for public announcements, auctions, and ceremonial occasions. Each stone is carved with the symbols of the major [[Merchant Guilds]] and enhanced with sound-amplification crystals that ensure speakers can be heard throughout the Square.
+**[[The Speaking Stones]]** - Eight granite pillars arranged around the fountain provide formal spaces for public announcements, auctions, and ceremonial occasions. Each stone is carved with the symbols of the major [[Merchant_Guilds|Merchant Guilds]] and enhanced with sound-amplification crystals that ensure speakers can be heard throughout the Square.
 
 ### The Commercial Rings
 
@@ -617,7 +617,7 @@ A deal involving artifacts of immense power and value brings representatives fro
 Beneath the Market Square lies a hidden vault containing the original founder's treasure, including artifacts and currency from the city's earliest days. Access to this wealth could dramatically shift the economic balance of power.
 
 **The Merchant Conspiracy**
-A secret society of the most powerful merchants coordinates policy and manipulates market conditions to their advantage, operating through seemingly independent decisions that actually follow a coordinated plan with connections to [[The [[Shadow Markets]]]] and [[The [[Royal Palace]]]].
+A secret society of the most powerful merchants coordinates policy and manipulates market conditions to their advantage, operating through seemingly independent decisions that actually follow a coordinated plan with connections to [[Shadow Markets|The [[Shadow Markets]]]] and [[Royal Palace|The [[Royal Palace]]]].
 
 **The Cultural Artifact**
 Hidden within one of the permanent stalls is an artifact of immense cultural significance to a distant realm, placed there for safekeeping during a long-ago crisis and now forgotten by all who knew of its presence.
@@ -652,7 +652,7 @@ Legends speak of Port Meridian   Market Square as a nexus where past and present
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -676,13 +676,11 @@ Port Meridian - Market Square is a notable location characterized by its unique 
 ### Founding
 Port Meridian - Market Square was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -690,13 +688,11 @@ Port Meridian - Market Square was established in the distant past, growing from 
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -754,7 +750,6 @@ Ongoing situations affecting Port Meridian - Market Square:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions

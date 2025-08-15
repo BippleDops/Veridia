@@ -222,7 +222,7 @@ Modified vessels equipped with massive acoustic amplification equipment, used fo
 - [[Resoce Bombs]]
 - [[Frequency Weapons]]
 - [[Living Amplifiers]]
-- [[The Scream Archives]]
+- 
 
 **Cult Techniques**:
 - [[Acoustic Infection]]
@@ -257,3 +257,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[The Shadow Duchess Duel (Criminal_Organizations)]]
+- [[Merchant's Covet]]
+- [[Resoce Bombs]]
+- [[Resoce Cascade Attack]]
+- [[The Great Resoce]]
+- [[The Resoce Cathedral]]
+- [[The Shadow Duchess Duel]]

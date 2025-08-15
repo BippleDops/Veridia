@@ -40,7 +40,6 @@ This document contains important information regarding Captain Nautilus the Deep
 ## Description
 Captain Nautilus the Deep Wanderer represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-
 ## Statistics
 ___
 - **Armor Class** 10 (natural armor)
@@ -104,13 +103,11 @@ Possible developments and plot directions.
 - Part of larger narrative structures
 - Influences and is influenced by surrounding content
 
-
 ## Motivations
 - **Primary Goal**: Main objective
 - **Secondary Goals**: Supporting aims
 - **Fears**: What they avoid
 - **Desires**: What they seek
-
 
 ## Secrets
 - Hidden information about this character
@@ -126,7 +123,6 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns
@@ -169,3 +165,15 @@ This content can be adapted and expanded based on specific campaign needs.
 - **Truth**: Actual nature
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City Astrologer Prime Cassandra Starweaver Astrologer Prime Cassandra Starweaver.svg]]
+- [[Assets Locations Location City Lord Reginald Seaworthy Lord Reginald Seaworthy.svg]]
+- [[Assets Symbols Symbol Heraldry Vex Shadowthorn Boss Fight Vex Shadowthorn Boss Fight.png]]
+- [[Assets Symbols Symbol Heraldry the Artisans Collective of Master Crafters the Artisans Collective of Master Crafters.svg]]
+- [[Memory Merchant Valeria Siltweave]]
+- [[Pressure Angel Benthia]]
+- [[Compass Quest (D&D_References)]]
+- [[Memory Merchant Valeria Siltweave (D&D_Statblocks)]]
+- [[Pressure Angel Benthia (D&D_Statblocks)]]

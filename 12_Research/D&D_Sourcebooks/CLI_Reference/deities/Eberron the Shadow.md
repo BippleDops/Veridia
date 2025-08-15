@@ -59,3 +59,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - An heirloom has gone missing and evil awakens
 - Strange disappearances suggest a curse
 - The authorities needs help stealing before winter
+
+## References
+
+- [[Deities of Eberron]]
+- [[deities-of-eberron (tables)]]

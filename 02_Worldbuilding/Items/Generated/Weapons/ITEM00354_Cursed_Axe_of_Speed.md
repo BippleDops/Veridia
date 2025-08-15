@@ -1,3 +1,9 @@
+---
+aliases: ["Cursed Axe of Speed", "cursed axe of speed", "Speed of Axe Cursed"]
+tags: [item, equipment]
+type: item
+---
+
 # Cursed Axe of Speed
 
 *Weapons, Common*
@@ -13,8 +19,6 @@ A cursed axe forged from meteoric iron
 ## Properties
 - Deals extra 1d6 elemental damage
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -29,7 +33,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.374Z*

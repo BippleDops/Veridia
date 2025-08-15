@@ -107,3 +107,13 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Abyssos Prime - Inverse Palace]]
+- [[Temporal Navigation]]
+- [[The Pressure Conspiracy]]
+- [[The Sundering]]
+- [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]]
+- [[Temporal Navigation (D&D_Statblocks)]]
+- [[The Pressure Conspiracy (D&D_Statblocks)]]

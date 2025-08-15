@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Underhill the Broken", "drusilla underhill the broken", "Drusilla Underhill Broken", "Broken the Underhill Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Underhill the Broken
 
 *Goliath Rogue (Adventurers), Age 32, Non-binary*
@@ -13,7 +19,6 @@
 Very short and stocky, with Carefully styled brown hair and Hazel eyes. Weathered skin. Missing finger on left hand.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Never uses people's real names; Compulsive liar about minor things
@@ -36,7 +41,6 @@ Chosen by fate to fulfill an ancient prophecy They're being blackmailed by someo
 - **Short Term**: Gather information
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Elric Quicksilver the Redeemed (Criminal - Fence)
 - **Status**: Professional only
@@ -47,21 +51,17 @@ Chosen by fate to fulfill an ancient prophecy They're being blackmailed by someo
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Elric Moonshadow the Mystic (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
-
 
 ### Aldric Hawthorne the Guardian (Professional - Employee)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Malakai Darkwater the Bold (Political - Opposition)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Carries a world-ending artifact

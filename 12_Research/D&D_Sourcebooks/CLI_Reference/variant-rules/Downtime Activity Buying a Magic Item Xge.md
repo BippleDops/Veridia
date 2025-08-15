@@ -117,3 +117,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A corpse reveals the truth about the cult
 - Strange disappearances suggest a conspiracy
 - Someone is protecting a artifact for love
+
+## References
+
+- [[Downtime Revisited Xge]]
+- [[downtime-revisited-xge (variant-rules)]]

@@ -1,4 +1,5 @@
 ---
+aliases: ["Eldritch Blade of Shadows", "eldritch blade of shadows", "Shadows of Blade Eldritch"]
 tags: [generated]
 id: ITEM0132
 created: 2025-08-15T04:09:51.120Z
@@ -19,8 +20,6 @@ Crafted from darkwood with glowing gems, in showing age but sturdy. It emanates 
 
 ## Quirk
 *Makes user sneeze in sunlight*
-
-
 
 ## History
 This item was lost in a great battle ages ago. It has passed through many hands, each leaving their mark upon its destiny.

@@ -102,3 +102,10 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Locations Location City Commander Reef Shadowstrike V1 Commander Reef Shadowstrike.svg]]
+- [[Assets Locations Location City Pilgrimage Master Depth Guide Melancholy V1 Pilgrimage Master Depth Guide Melancholy.svg]]
+- [[Assets Symbols Symbol Heraldry Port Sorrow Trading Company Port Sorrow Trading Company.svg]]
+- [[Assets Symbols Symbol Heraldry the Crimson Tide Pirates the Crimson Tide Pirates.svg]]

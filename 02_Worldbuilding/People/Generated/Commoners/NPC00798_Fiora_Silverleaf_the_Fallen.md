@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Silverleaf the Fallen", "fiora silverleaf the fallen", "Fiora Silverleaf Fallen", "Fallen the Silverleaf Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Silverleaf the Fallen
 
 *Human Carpenter (Commoners), Age 66, Female*
@@ -42,7 +48,6 @@ Survivor of a disaster that destroyed their village A prophetic dream has been h
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Thalia Frostwhisper the Wise (Criminal - Fence)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
@@ -52,11 +57,9 @@ Survivor of a disaster that destroyed their village A prophetic dream has been h
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
 
-
 ### Wynne Hawthorne the Risen (Personal - Nemesis)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
-
 
 ### Caelum Oakenshield the Wise (Political - Ally)
 - **Status**: Blood oath bound
@@ -66,7 +69,6 @@ Survivor of a disaster that destroyed their village A prophetic dream has been h
 ### Xander Xendar the Lost (Personal - Nemesis)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Knows location of ancient treasure

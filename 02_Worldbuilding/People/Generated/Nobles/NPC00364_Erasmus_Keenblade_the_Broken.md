@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Keenblade the Broken", "erasmus keenblade the broken", "Erasmus Keenblade Broken", "Broken the Keenblade Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Keenblade the Broken
 
 *Firbolg Noble (Nobles), Age 62, Non-binary*
@@ -13,7 +19,6 @@
 Tall and delicate, with Mohawk silver hair and Amber eyes. Fair skin. Missing finger on left hand.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Extremely superstitious about everything
@@ -36,17 +41,14 @@ Secretly adopted into nobility, living in fear of discovery They're being blackm
 - **Short Term**: Recruit new members
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Vesper Brightblade the Cunning (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Malakai Oakenshield the Redeemed (Professional - Employer)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ### Baelor Underhill (Personal - Love interest)
 - **Status**: Blood oath bound

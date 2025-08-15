@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Ravenheart the Broken", "lyanna ravenheart the broken", "Lyanna Ravenheart Broken", "Broken the Ravenheart Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Ravenheart the Broken
 
 *Firbolg Broker (Merchants), Age 69, Non-binary*
@@ -42,7 +48,6 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Nerys Grimholt the Wanderer (Political - Patron)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
@@ -51,7 +56,6 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 ### Caelum Hawthorne the Risen (Personal - Best friend)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Smuggles illegal magical items

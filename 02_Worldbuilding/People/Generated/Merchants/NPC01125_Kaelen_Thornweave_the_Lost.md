@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Thornweave the Lost", "kaelen thornweave the lost", "Kaelen Thornweave Lost", "Lost the Thornweave Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Thornweave the Lost
 
 *Dwarf Trader (Merchants), Age 53, Male*
@@ -36,27 +42,22 @@ Part of a merchant family with connections everywhere They've made a deal they'r
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Fiora Frostwhisper the Lost (Family - Parent)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Lyanna Ravenheart the Wanderer (Political - Puppet)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ### Faelyn Ashford the Scholar (Professional - Mentor)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Gareth Hawthorne the Seeker (Professional - Employer)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ### Elric Voidwalker the Mystic (Personal - Love interest)
 - **Status**: One-sided affection

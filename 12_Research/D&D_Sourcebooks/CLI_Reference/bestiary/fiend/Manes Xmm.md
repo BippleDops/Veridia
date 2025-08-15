@@ -125,3 +125,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A prisoner has gone missing and truth emerges
 - A map reveals a conspiracy about this place
+
+## References
+
+- [[Molydeus Mpmm]]
+- [[Rutterkin Mpmm]]
+- [[Sibriex Mpmm]]
+- [[manes-xmm (fiend)]]
+- [[molydeus-mpmm (fiend)]]
+- [[rutterkin-mpmm (fiend)]]
+- [[sibriex-mpmm (fiend)]]
+- [[Summon Lesser Demons Xge]]
+- [[summon-lesser-demons-xge (spells)]]
+- [[Creating a Gnoll War Band Gnoll War Band Special Creatures Vgm]]

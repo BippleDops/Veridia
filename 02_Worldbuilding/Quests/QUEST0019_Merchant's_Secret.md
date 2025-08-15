@@ -1,4 +1,5 @@
 ---
+aliases: ["Merchant's Secret", "merchant's secret", "Secret Merchant's"]
 tags: [generated]
 id: QUEST0019
 created: 2025-08-15T04:09:51.374Z
@@ -21,8 +22,6 @@ Discover the truth behind the disappearances
 
 ### Secondary
 - Maintain cover identity
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they found an ancient artifact, which changed their life forever. Now, circumstances demand immediate action.

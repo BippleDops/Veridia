@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Ironforge the Guardian", "wynne ironforge the guardian", "Wynne Ironforge Guardian", "Guardian the Ironforge Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Ironforge the Guardian
 
 *Genasi Assassin (Villains), Age 34, Non-binary*
@@ -36,7 +42,6 @@ Born into evil but questioning their path They've made a deal they're beginning 
 - **Short Term**: Gather information
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Malakai Ironwood the Cunning (Family - Parent)
 - **Status**: Mutually beneficial
@@ -47,11 +52,9 @@ Born into evil but questioning their path They've made a deal they're beginning 
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Caelum Stormwind the Risen (Criminal - Informant)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Knows how the world will end

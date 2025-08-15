@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Darkwater the Strong", "solas darkwater the strong", "Solas Darkwater Strong", "Strong the Darkwater Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Darkwater the Strong
 
 *Dragonborn Shopkeeper (Merchants), Age 22, Male*
@@ -13,7 +19,6 @@
 Below average and athletic, with Long and flowing red hair and Violet eyes. Freckled skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Laughs at the most inappropriate times; Never uses people's real names; Always hungry and eating something
@@ -42,7 +47,6 @@ Part of a merchant family with connections everywhere An old debt has come due a
 - **Status**: Professional only
 - **History**: United by common enemy
 
-
 ### Elric Zephyrblade the Wanderer (Personal - Ex-lover)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
@@ -52,16 +56,13 @@ Part of a merchant family with connections everywhere An old debt has come due a
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
 
-
 ### Aeliana Ravenheart the Scholar (Professional - Employer)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Solas Voidwalker the Risen (Political - Puppet)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Smuggles illegal magical items

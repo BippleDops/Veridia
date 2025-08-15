@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Blackstone the Wanderer", "kaelen blackstone the wanderer", "Kaelen Blackstone Wanderer", "Wanderer the Blackstone Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Blackstone the Wanderer
 
 *Firbolg Dark Wizard (Villains), Age 42, Male*
@@ -36,7 +42,6 @@ Believes their evil acts serve a greater good They're being blackmailed by someo
 - **Short Term**: Complete current contract
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Cedric Keenblade the Bold (Family - Spouse)
 - **Status**: Strong and trusting
@@ -47,16 +52,13 @@ Believes their evil acts serve a greater good They're being blackmailed by someo
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Ysara Silverleaf the Scholar (Family - Sibling)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Gareth Emberfall the Strong (Family - Cousin)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is being controlled by darker force

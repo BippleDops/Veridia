@@ -1,3 +1,9 @@
+---
+aliases: ["Cursed Sword of the Ancients", "cursed sword of the ancients", "Cursed Sword of Ancients", "Ancients the of Sword Cursed"]
+tags: [item, equipment]
+type: item
+---
+
 # Cursed Sword of the Ancients
 
 *Weapons, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A cursed sword made of crystallized magic
 - Ignores resistance to damage type
 - Ignores resistance to damage type
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -31,7 +35,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.344Z*

@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Thornweave the Guardian", "corvus thornweave the guardian", "Corvus Thornweave Guardian", "Guardian the Thornweave Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Thornweave the Guardian
 
 *Gnome Farmer (Commoners), Age 41, Male*
@@ -36,12 +42,10 @@ Family has worked the same trade for generations, but times are changing They've
 - **Short Term**: Gather information
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Rhiannon Underhill the Scholar (Family - Cousin)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
-
 
 ### Caelum Underhill the Fallen (Criminal - Informant)
 - **Status**: Strained but maintaining
@@ -52,11 +56,9 @@ Family has worked the same trade for generations, but times are changing They've
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
 
-
 ### Erasmus Ironwood the Seeker (Professional - Partner)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Knows location of ancient treasure

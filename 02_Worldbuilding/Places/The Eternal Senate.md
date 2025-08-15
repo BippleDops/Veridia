@@ -31,7 +31,7 @@ danger_level: 7
 depth: 2200-2400 feet
 discovered: true
 factions:
-- '[[The Original [[Senator]]s]]'
+- '[[Senator|The Original [[Senator]]s]]'
 - '[[Shadow Replacements]]'
 - '[[The Transcended]]'
 - '[[New Death Faction]]'
@@ -60,7 +60,7 @@ sub_locations:
 - '[[The Spectral Gallery]]'
 - '[[Chamber of Eternal Debate]]'
 - '[[The Voting Crypts]]'
-- '[[Memory Archive Vaults]]'
+- ''
 - '[[The Speaker''s Throne]]'
 temporal_stability: 60
 updated: '2025-08-13T12:34:16.611065+00:00'
@@ -89,7 +89,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -186,7 +186,7 @@ Private voting chambers designed to accommodate senators who cannot safely inter
 
 ### Memory Archive Vaults
 
-Extensive [[Libraries]] containing the complete legislative history of both pre and post-drowning governments. [[The Archives]] serve as institutional memory, particularly important since many undead senators have memory issues.
+Extensive  serve as institutional memory, particularly important since many undead senators have memory issues.
 
 ### The Speaker's Throne
 
@@ -294,7 +294,7 @@ Debate over whether to continue the ban on contact with surface world survivors,
 
 ### Living Representatives
 
-**[[Senator [[Marina Tidecaller]]]]** - Living human (New Death)
+**[[Marina Tidecaller|Senator [[Marina Tidecaller]]]]** - Living human (New Death)
 - Youngest senator, elected to represent transition interests
 - Often serves as interpreter between living and undead factions
 - Advocates for death preparation and transition services
@@ -346,7 +346,7 @@ A secret faction of living senators is working to gradually reduce undead politi
 
 ### The Memory [[Merchant]]s
 
-Several senators are secretly selling their pre-drowning memories to [[[[Memory Farmers]]|02 Worldbuilding/Groups/Memory Farmers]], compromising their ability to represent their original constituencies.
+Several senators are secretly selling their pre-drowning memories to [[Memory Farmers|[[Memory Farmers]]|02 Worldbuilding/Groups/Memory Farmers]], compromising their ability to represent their original constituencies.
 
 ### The Resurrection Clause
 
@@ -364,11 +364,11 @@ The Eternal Speaker may not be a lich but rather a collective consciousness form
 
 ### Investigation
 
-3. **[[The [[Memory Thief]]]]:** Someone is stealing the memories of undead senators, leaving them unable to remember their political positions or constituent needs. Players must identify the culprit and restore the stolen memories before the government collapses into chaos.
+3. **[[Memory Thief|The [[Memory Thief]]]]:** Someone is stealing the memories of undead senators, leaving them unable to remember their political positions or constituent needs. Players must identify the culprit and restore the stolen memories before the government collapses into chaos.
 
 4. **The False Replacement:** A living senator claims that their undead colleague is actually a shadow replacement, but proving this requires delving into the dangerous politics of identity and consciousness in undead society.
 
-### [[Moral Dilemmas]]
+### [[Moral_Dilemmas|Moral Dilemmas]]
 
 5. **The Resurrection Referendum:** [[Evidence]] emerges that mass resurrection of drowning victims is possible, but it would dissolve the undead government and potentially harm those who have adapted to undeath. Players must help decide whether to pursue resurrection or preserve undead society.
 
@@ -380,7 +380,7 @@ The Eternal Speaker may not be a lich but rather a collective consciousness form
 
 8. **[[The Succession Crisis]]:** The Eternal Speaker is showing signs of final dissolution, and the various factions cannot agree on a replacement. Players must help manage the succession while preventing the government from falling into chaos.
 
-## [[[[Random Encounter]]s]] (d10)
+## [[Random Encounter|[[Random Encounter]]s]] (d10)
 
 | Roll | Encounter |
 |------|-----------|
@@ -430,7 +430,7 @@ Legends speak of The Eternal Senate as a nexus where past and present converge. 
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -451,13 +451,11 @@ The Eternal Senate is a notable location characterized by its unique features an
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -465,13 +463,11 @@ The Eternal Senate is a notable location characterized by its unique features an
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -533,3 +529,12 @@ Key stop on textiles trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Abyssos Prime]]
+- [[Theological Warfare]]
+- [[Whisper-Touched William]]
+- [[Aquabyssos (D&D_References)]]
+- [[Theological Warfare (D&D_References)]]
+- [[Whisper-Touched William (D&D_References)]]

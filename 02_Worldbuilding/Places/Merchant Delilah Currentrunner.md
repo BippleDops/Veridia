@@ -58,7 +58,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -112,7 +112,7 @@ As political tensions rise in Aquabyssos, Delilah finds herself in the unique po
 
 Delilah is a confident [[Triton]] woman in her early forties, with dark blue-green skin marked by intricate tattoos that [[map]] the major ocean currents of the region. Her silver hair is kept in practical braids adorned with small shells and metal tokens from her various business dealings. Her eyes are sharp amber, constantly evaluating opportunities and risks.
 
-She dresses in practical but high-quality clothing designed for both underwater and surface environments, with a distinctive coat made from shark leather that serves as her business trademark. She carries a enchanted conch shell that serves as both a communication device and a symbol of her authority in [[Mari[[Time]] Commerce]].
+She dresses in practical but high-quality clothing designed for both underwater and surface environments, with a distinctive coat made from shark leather that serves as her business trademark. She carries a enchanted conch shell that serves as both a communication device and a symbol of her authority in [[Time|Mari[[Time]] Commerce]].
 
 ## Statistics
 
@@ -179,9 +179,9 @@ She's also investigating [[reports]] of interference with shipping lanes and sus
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
-Delilah serves as both a transportation resource and a source of information about regional trade and politics. Her independent status and diverse client base make her useful for introducing plot complications and opportunities. Use her merchant network to provide information and her vessels for transportation while creating [[Moral Dilemmas]] about the nature of her various clients.
+Delilah serves as both a transportation resource and a source of information about regional trade and politics. Her independent status and diverse client base make her useful for introducing plot complications and opportunities. Use her merchant network to provide information and her vessels for transportation while creating [[Moral_Dilemmas|Moral Dilemmas]] about the nature of her various clients.
 
 ## Player-Facing Summary
 
@@ -208,13 +208,11 @@ Merchant Delilah Currentrunner is a notable location characterized by its unique
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -222,13 +220,11 @@ Merchant Delilah Currentrunner is a notable location characterized by its unique
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -288,7 +284,6 @@ Key stop on textiles trade route
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -324,3 +319,10 @@ Key stop on textiles trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Lumengarde]]
+- [[The Phosphor Markets]]
+- [[Lumengarde (D&D_References)]]
+- [[The Phosphor Markets (D&D_References)]]

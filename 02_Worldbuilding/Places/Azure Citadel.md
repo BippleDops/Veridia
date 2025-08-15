@@ -503,20 +503,17 @@ Azure Citadel is a notable location characterized by its unique features and str
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
-
 
 ## Connections
 - **North**: Trade road to neighboring settlement
@@ -564,7 +561,6 @@ Ongoing situations affecting Azure Citadel:
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -600,3 +596,30 @@ Ongoing situations affecting Azure Citadel:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Abyssos Prime Docks]]
+- [[Blood Current Express]]
+- [[Pearl_Harbor_City (Places)]]
+- [[Royal Palace]]
+- [[The Crystal Wardens]]
+- [[The Depth Market]]
+- [[The Foundation Depths]]
+- [[The Free Current]]
+- [[The Gilded Shard]]
+- [[Void Currents]]
+- [[Abyssos Prime - Pressure Terminal (D&D_References)]]
+- [[Abyssos Prime Docks (D&D_References)]]
+- [[Azure Citadel (D&D_References)]]
+- [[Blood Current Express (D&D_References)]]
+- [[Pearl_Harbor_City (D&D_References)]]
+- [[Royal Palace (D&D_References)]]
+- [[The Crystal Wardens (D&D_References)]]
+- [[The Depth Market (D&D_References)]]
+- [[The Free Current (D&D_References)]]
+- [[The Gilded Shard (D&D_References)]]
+- [[Void Currents (D&D_References)]]
+- [[The Foundation Depths (D&D_Statblocks)]]

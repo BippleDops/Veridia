@@ -86,7 +86,6 @@ improvements: 20
 
 No one knows Scarlett's real name anymore - she's been The Crimson Pearl for so long that even she might have forgotten. A hauntingly beautiful sea elf with skin like polished alabaster and eyes that glow crimson in darkness. She drapes herself in strings of blood-red pearls that pulse with an unnatural light. Her movements are too fluid, too graceful, as if she's not quite bound by the same physics as others.
 
-
 ## Stats
 - **AC**: 12
 - **HP**: 22 (4d8)
@@ -97,7 +96,6 @@ No one knows Scarlett's real name anymore - she's been The Crimson Pearl for so 
 - **Senses**: passive Perception 11
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -353,7 +351,6 @@ Legends speak of The Crimson Pearl as a nexus where past and present converge. L
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -389,3 +386,12 @@ Legends speak of The Crimson Pearl as a nexus where past and present converge. L
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Transportation Guild Masters Transportation Guild Masters.svg]]
+- [[Nerissa_Deepcurrent]]
+- [[Pearl_Harbor_City (Places)]]
+- [[Nerissa Deepcurrent (D&D_References)]]
+- [[Nerissa_Deepcurrent (D&D_References)]]
+- [[Pearl_Harbor_City (D&D_References)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Thunder Staff of Wounding", "thunder staff of wounding", "Wounding of Staff Thunder"]
+tags: [item, equipment]
+type: item
+---
+
 # Thunder Staff of Wounding
 
 *Weapons, Uncommon*
@@ -14,8 +20,6 @@ A thunder staff made of crystallized magic
 - Critical hits on 19-20
 - +2 to attack and damage rolls
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -30,7 +34,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.365Z*

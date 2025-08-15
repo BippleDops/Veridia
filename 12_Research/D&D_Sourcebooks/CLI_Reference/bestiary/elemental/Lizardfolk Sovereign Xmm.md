@@ -141,3 +141,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Strange sightings suggest a conspiracy
 - A prisoner has gone missing and truth emerges
+
+## References
+
+- [[lizardfolk-sovereign-xmm (elemental)]]
+- [[Monster Conversions Stat Block Conversions]]
+- [[Monsters by Habitat Forest Monsters Xmm]]
+- [[Monsters by Habitat Swamp Monsters Xmm]]
+- [[monster-conversions-stat-block-conversions-xmm]]
+- [[monsters-by-habitat-forest-monsters-xmm (tables)]]
+- [[monsters-by-habitat-swamp-monsters-xmm (tables)]]

@@ -212,3 +212,8 @@ Mentioned in The Hidden Prophecy of Winds
 - Civil war
 - Natural disasters
 - Current power structures established
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-supernatural-mysteries-supernatural-mysteries.svg]]
+- [[04_Resources_Assets_Art_Places_Captain_Trawl_Netcaster.png]]

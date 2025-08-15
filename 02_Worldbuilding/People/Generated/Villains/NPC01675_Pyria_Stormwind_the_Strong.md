@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Stormwind the Strong", "pyria stormwind the strong", "Pyria Stormwind Strong", "Strong the Stormwind Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Stormwind the Strong
 
 *Halfling Cultist (Villains), Age 67, Male*
@@ -36,7 +42,6 @@ Betrayed by those they trusted, now seeking revenge on the world They're being b
 - **Short Term**: Recruit new members
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Lyanna Thornweave the Broken (Personal - Best friend)
 - **Status**: Complicated history
@@ -52,16 +57,13 @@ Betrayed by those they trusted, now seeking revenge on the world They're being b
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Orion Stormwind the Fallen (Criminal - Target)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Thalia Stormwind the Redeemed (Political - Patron)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Knows how the world will end

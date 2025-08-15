@@ -34,13 +34,11 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-admiral-cassandra-stormwind-admiral-cassandra-stormwind.png)
 
 # Admiral Cassandra Stormwind
 *The Iron Lady of the Fleet, Scourge of Pirates, Guardian of the Crown Waters*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -387,7 +385,6 @@ Legends speak of Admiral Cassandra Stormwind as a nexus where past and present c
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -423,3 +420,19 @@ Legends speak of Admiral Cassandra Stormwind as a nexus where past and present c
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Abyssal Academy]]
+- [[Queen Seraphina Lumengarde (People)]]
+- [[Assets Locations Location City Market Master Cornelius Driftwood V1 Market Master Cornelius Driftwood.svg]]
+- [[Assets Locations Location City Professor Marina Reefbuilder V1 Professor Marina Reefbuilder.svg]]
+- [[Assets Symbols Symbol Heraldry Arcturus Lumenblade Arcturus Lumenblade.svg]]
+- [[Captain Scale-Walker]]
+- [[Lighthouse Keeper]]
+- [[The Senator]]
+- [[Queen Seraphina Lumengarde (D&D_References)]]
+- [[The Senator (D&D_References)]]
+- [[Captain Scale-Walker (D&D_Statblocks)]]
+- [[Lighthouse Keeper (D&D_Statblocks)]]

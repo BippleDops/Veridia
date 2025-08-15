@@ -736,7 +736,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## Alternate Descriptions
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination

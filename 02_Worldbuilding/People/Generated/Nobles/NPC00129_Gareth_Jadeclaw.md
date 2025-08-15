@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Jadeclaw", "gareth jadeclaw", "Jadeclaw Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Jadeclaw
 
 *Elf Aristocrat (Nobles), Age 28, Male*
@@ -13,7 +19,6 @@
 Above average and delicate, with Long and flowing black hair and Blue eyes. Scarred skin. Prominent scar across the face.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Believes in every conspiracy theory; Speaks to inanimate objects
@@ -36,17 +41,14 @@ Secretly adopted into nobility, living in fear of discovery They're being blackm
 - **Short Term**: Avoid the authorities
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Xander Dawnstrider (Family - Cousin)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Branwen Underhill (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ### Malakai Stormwind (Personal - Love interest)
 - **Status**: Recently reconciled
@@ -57,16 +59,13 @@ Secretly adopted into nobility, living in fear of discovery They're being blackm
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Lyanna Oakenshield (Family - Sibling)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
 
-
 ### Alaric Ravenheart the Wise (Criminal - Target)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Actually a bastard with no real claim

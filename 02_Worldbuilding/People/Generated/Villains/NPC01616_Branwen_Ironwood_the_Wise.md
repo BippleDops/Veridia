@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Ironwood the Wise", "branwen ironwood the wise", "Branwen Ironwood Wise", "Wise the Ironwood Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Ironwood the Wise
 
 *Tabaxi Corrupt Noble (Villains), Age 20, Non-binary*
@@ -36,12 +42,10 @@ Corrupted by an artifact or dark magic Strange abilities have begun manifesting 
 - **Short Term**: Survive until next week
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Aeliana Dawnstrider the Cunning (Personal - Best friend)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ### Gareth Proudmore the Bold (Political - Opposition)
 - **Status**: Blood oath bound
@@ -51,7 +55,6 @@ Corrupted by an artifact or dark magic Strange abilities have begun manifesting 
 ### Dara Ironforge the Redeemed (Professional - Employer)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ### Xander Jadeclaw the Mystic (Political - Ally)
 - **Status**: Recently reconciled

@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-high-priest-nereon-high-priest-nereon.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -179,7 +177,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 2. **Challenge**: Must overcome internal demons
 3. **Growth Moment**: Learns sacrifice
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -249,3 +246,11 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City Master Cultivator Reef Growstone Master Cultivator Reef Growstone.svg]]
+- [[Assets Symbols Symbol Heraldry Regulatory Medical Authorit Regulatory Medical Authorit.svg]]
+- [[Crystal Cult Temples]]
+- [[Mad Oracle Thessaly]]
+- [[Mad Oracle Thessaly (D&D_References)]]

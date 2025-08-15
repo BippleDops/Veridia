@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-emperor-abyssal-the-deep-sighted-emperor-abyssal-the-deep-sighted.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -177,7 +175,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
-
 
 ## Daily Routine
 - **Morning**: Typical activities

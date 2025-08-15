@@ -1,3 +1,9 @@
+---
+aliases: ["Warded Plate of Protection", "warded plate of protection", "Protection of Plate Warded"]
+tags: [item, equipment]
+type: item
+---
+
 # Warded Plate of Protection
 
 *Armor, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A warded plate shimmering with energy
 - Reduces damage by 3
 - +1 to AC
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -31,7 +35,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.398Z*

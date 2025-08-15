@@ -26,3 +26,9 @@ Further information about this topic will be developed as the campaign progresse
 - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery
+
+## References
+
+- [[Assets Locations Location City Dock Master Anchor Holdfast Dock Master Anchor Holdfast.svg]]
+- [[Assets Locations Location City Harbor Pilot Captain Storm Skyreacher Harbor Pilot Captain Storm Skyreacher.svg]]
+- [[Assets Locations Location City Terminal Master Hadrian Depthbridge V1 Terminal Master Hadrian Depthbridge.svg]]

@@ -119,7 +119,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -138,4 +137,4 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[death-ward-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[death-ward-xphb (spells)|death-ward-xphb (spells)-phb]]` in CLI_Reference/spells/

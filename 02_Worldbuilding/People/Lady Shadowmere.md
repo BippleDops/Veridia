@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-lady-shadowmere-lady-shadowmere.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -194,7 +192,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -264,3 +261,12 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City Guildmaster Harwick Guildmaster Harwick.png]]
+- [[Assets Locations Location City Terminal Master Hadrian Depthbridge V1 Terminal Master Hadrian Depthbridge.svg]]
+- [[Assets Symbols Symbol Heraldry Foreman Prime Salvage Maste Foreman Prime Salvage Maste.svg]]
+- [[The Dream Shard]]
+- [[The Floating Market]]
+- [[The Floating Market (D&D_References)]]

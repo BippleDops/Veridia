@@ -4117,7 +4117,6 @@ creature: Custom NPC
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
 
-
 ## See Also
 - Related content
 - Similar topics
@@ -4141,3 +4140,7 @@ creature: Custom NPC
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition
+
+## References
+
+- [[NPC_Portraits_Gallery (03_People)_Quick_Ref]]

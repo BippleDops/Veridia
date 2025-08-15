@@ -1,4 +1,5 @@
 ---
+aliases: ["Random Encounter 81", "random encounter 81", "81 Encounter Random"]
 tags: [generated]
 id: ENC0080_Random_Encounter_81
 created: 2025-08-15T04:09:51.459Z
@@ -18,11 +19,8 @@ Enemies coordinate attacks and use terrain to their advantage
 ## Treasure
 1196 gp in various coins, plus one random magic item
 
-
-
 ---
 *Generated: 2025-08-15T03:21:47.444Z*
-
 
 ## Scaling by Party Level
 - **Level 1-4**: Reduce enemies

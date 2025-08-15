@@ -28,7 +28,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -74,7 +74,7 @@ Shadowmere represents a crucial aspect of the world's history, cosmology, or fun
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -99,3 +99,20 @@ Shadowmere represents a crucial aspect of the world's history, cosmology, or fun
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[Archmagus Velleth Shadowmere]]
+- [[Count Viktor Shadowmere]]
+- [[Lady Venetia Shadowmere]]
+- [[Merchant Family Alliances]]
+- [[Princess Nyx Shadowmere]]
+- [[Relationship Web Nuances]]
+- [[The Great Crystallization]]
+- [[The Shadowmere Purification]]
+- [[The Shadowmere Territories]]
+- [[Port Shadowmere]]
+- [[Tenebrarum Embassy]]
+- [[QUEST0078_The_Frozen_Fortress_Invasion]]
+- [[Topic Matrix]]
+- [[Topic_Matrix (Indexes)]]

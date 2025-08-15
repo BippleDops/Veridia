@@ -1,8 +1,8 @@
 ---
+aliases: ["Jasper Stormwind", "jasper stormwind", "Stormwind Jasper"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -73,8 +73,6 @@ Apprenticed to a master craftsman from young age. Years ago, they accidentally d
 ### Skills
 Athletics, Deception, Stealth
 
-
-
 ## Possessions
 - 34 gold pieces
 - Letter of recommendation
@@ -88,7 +86,6 @@ Athletics, Deception, Stealth
 
 ---
 *Generated: 2025-08-15T03:21:04.030Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

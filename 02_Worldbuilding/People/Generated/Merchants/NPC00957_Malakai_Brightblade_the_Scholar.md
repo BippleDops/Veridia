@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Brightblade the Scholar", "malakai brightblade the scholar", "Malakai Brightblade Scholar", "Scholar the Brightblade Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Brightblade the Scholar
 
 *Tiefling Broker (Merchants), Age 68, Female*
@@ -42,26 +48,21 @@ Uses their business as cover for other activities A prophetic dream has been hau
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Lyanna Stormwind the Redeemed (Professional - Mentor)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ### Caelum Ashford the Seeker (Political - Patron)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Kaelen Hawthorne the Redeemed (Professional - Employer)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Aldric Blackstone the Seeker (Personal - Love interest)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Smuggles illegal magical items

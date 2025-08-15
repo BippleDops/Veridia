@@ -1,11 +1,11 @@
 ---
+aliases: ["Hilda Brightblade", "hilda brightblade", "Brightblade Hilda"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -75,8 +75,6 @@ Discovered magical talent late in life. Years ago, they found an ancient artifac
 ### Skills
 Athletics, Perception, Deception
 
-
-
 ## Possessions
 - 33 gold pieces
 - Small gemstone
@@ -89,7 +87,6 @@ Athletics, Perception, Deception
 
 ---
 *Generated: 2025-08-15T03:21:04.043Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

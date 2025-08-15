@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-cornelius-deepwater-captain-cornelius-deepwater.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -219,7 +217,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Mentioned in The Second Prophecy of Shadows
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -255,3 +252,11 @@ Mentioned in The Second Prophecy of Shadows
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Merchant Family Alliances]]
+- [[Relationship Web Nuances]]
+- [[Assets Art Palace Guard Captain Neutralis.png]]
+- [[Assets Portraits Portrait NPC Master of Currents Poseidon Master of Currents Poseidon.svg]]
+- [[Assets Symbols Symbol Heraldry the Stellar Confluence the Stellar Confluence.svg]]

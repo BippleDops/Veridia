@@ -40,7 +40,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -86,7 +86,7 @@ Seven Shards is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of Seven Shards as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Seven Shards.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -117,3 +117,34 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Comprehensive-World-Connection-Guide]]
+- [[Crown of Seven Shards]]
+- [[Crystal Garden]]
+- [[Customs House]]
+- [[Seven Shards Combat Encounters]]
+- [[Seven Shards Overview]]
+- [[Seven Shards Quick Reference]]
+- [[Seven_Shards_Overview (02_Worldbuilding)]]
+- [[The Great Crystallization]]
+- [[Palace Courtyard - Crystal Garden]]
+- [[Seven Shards (Places)]]
+- [[The Foundation Depths]]
+- [[The Gilded Shard]]
+- [[Throne Room - Heart of Palace]]
+- [[The Lock Saboteur]]
+- [[The Maw of Darkness]]
+- [[Palace Courtyard - Crystal Garden (D&D_References)]]
+- [[System Cli Items Weapons]]
+- [[System Cli Spells School Enchantment]]
+- [[System Cli Spells School Illusion]]
+- [[The Gilded Shard (D&D_References)]]
+- [[Throne Room - Heart of Palace (D&D_References)]]
+- [[Count_Strahd_von_Zarovich]]
+- [[Find the Grief Bomb (D&D_Statblocks)]]
+- [[The Foundation Depths (D&D_Statblocks)]]
+- [[The Lock Saboteur (D&D_Statblocks)]]
+- [[The Maw of Darkness (D&D_Statblocks)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Winterborn the Risen", "pyria winterborn the risen", "Pyria Winterborn Risen", "Risen the Winterborn Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Winterborn the Risen
 
 *Dwarf Blacksmith (Commoners), Age 19, Non-binary*
@@ -36,7 +42,6 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Short Term**: Recruit new members
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Baelor Keenblade the Cunning (Professional - Mentor)
 - **Status**: Recently reconciled
@@ -47,11 +52,9 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
 
-
 ### Baelor Oakenshield the Wanderer (Criminal - Target)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Has dragon blood in their veins

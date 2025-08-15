@@ -119,3 +119,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[hadrosaurus-mpmm (beast)]]
+- [[3 Bestiary]]
+- [[3-bestiary (volos-guide-to-monsters)]]

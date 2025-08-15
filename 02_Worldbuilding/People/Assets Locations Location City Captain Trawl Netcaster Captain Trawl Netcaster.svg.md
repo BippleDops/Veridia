@@ -220,3 +220,8 @@ Member of House Lionblood - Trait: magical affinity
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-mobile-terror-platform-mobile-terror-platform.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-sunken-cathedral-of-perfect-order-the-sunken-cathedral-of-perfect-order.svg]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Keenblade the Wanderer", "nerys keenblade the wanderer", "Nerys Keenblade Wanderer", "Wanderer the Keenblade Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Keenblade the Wanderer
 
 *Firbolg Baker (Commoners), Age 50, Male*
@@ -36,32 +42,26 @@ Runaway from an arranged marriage, starting a new life A chance encounter last w
 - **Short Term**: Avoid the authorities
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Drusilla Oakenshield the Mystic (Political - Ally)
 - **Status**: One-sided affection
 - **History**: United by common enemy
 
-
 ### Solas Ashford the Wise (Criminal - Target)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ### Elric Brightblade the Wanderer (Political - Spy)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
 
-
 ### Idris Ravenheart the Seeker (Professional - Employer)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Vesper Lightbringer the Scholar (Criminal - Handler)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Can hear the thoughts of others

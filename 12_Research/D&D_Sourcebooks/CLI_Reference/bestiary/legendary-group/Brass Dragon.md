@@ -48,3 +48,15 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Adult Brass Dragon Xmm]]
+- [[Brass Dragon Wyrmling Xmm]]
+- [[Young Brass Dragon Xmm]]
+- [[adult-brass-dragon-xmm (dragon)]]
+- [[brass-dragon-wyrmling-xmm (dragon)]]
+- [[young-brass-dragon-xmm (dragon)]]
+- [[Dragon Scale Mail Xdmg]]
+- [[dragon-scale-mail-xdmg (items)]]

@@ -29,15 +29,12 @@ improvements: 20
 - Time pressure
 - Moral dilemmas
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
 
-
 ![Quest - Parliamentary Corruptio](../../../04_Resources/Assets/Generated/Misc/quest___parliamentary_corruptio.png)
-
 
 ## Objectives
 ### Primary
@@ -232,7 +229,6 @@ Mentioned in The Hidden Prophecy of Depths
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Hooks
 - **Personal**: Character connection

@@ -1,3 +1,8 @@
+---
+tags: [location, place]
+type: location
+---
+
 # Locations Gallery
 
 %% Use reading mode for visual gallery %%
@@ -6823,3 +6828,8 @@
 
 ## locations_void_1755205559048
 ![](04_Resources/Assets/Locations/locations_void_1755205559048.png)
+
+## References
+
+- [[Index (Galleries)]]
+- [[Index]]

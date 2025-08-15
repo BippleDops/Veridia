@@ -59,3 +59,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A stranger needs help investigating before winter
 - A document has gone missing and war looms
 - Strange disappearances suggest a portal
+
+## References
+
+- [[Shadow Ambush - Optional (Criminal_Organizations)]]
+- [[Shadow Ambush - Optional]]

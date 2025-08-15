@@ -1,3 +1,9 @@
+---
+aliases: ["Greater Incense of Vigor", "greater incense of vigor", "Vigor of Incense Greater"]
+tags: [item, equipment]
+type: item
+---
+
 # Greater Incense of Vigor
 
 *Consumables, Common*
@@ -13,8 +19,6 @@ A greater incense glowing softly
 ## Properties
 - Remove one condition
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -29,7 +33,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.465Z*

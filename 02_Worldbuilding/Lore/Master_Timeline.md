@@ -1,6 +1,6 @@
 ---
 
-title: Master [[[[Time]]line]]
+title: Master [[Time|[[Time]]line]]
 type: chronology
 tags:
 - timeline
@@ -191,7 +191,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -237,7 +237,7 @@ improvements: 20
 
 - Describe how this culture exists in other [[region]]s
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -284,3 +284,17 @@ improvements: 20
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Quest_Dependency_System (01_Adventures)]]
+- [[Item_Catalog_Complete.md (Indexes)]]
+- [[Seven_Shards_Tracker.md]]
+- [[Location_Network_Graph]]
+- [[deployment_report]]
+- [[Master Narrative Web]]
+- [[Topic Matrix]]
+- [[Topic_Matrix (Indexes)]]
+- [[deep_quality_enhancement_20250814_175143]]
+- [[optimization_report_20250814_180743 (13_Performance)]]
+- [[step_011_create_faction_symbols]]

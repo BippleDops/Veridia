@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Jadeclaw the Strong", "cedric jadeclaw the strong", "Cedric Jadeclaw Strong", "Strong the Jadeclaw Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Jadeclaw the Strong
 
 *Dragonborn Crime Boss (Villains), Age 19, Female*
@@ -13,7 +19,6 @@
 Short and delicate, with Wild and unkempt red hair and Heterochromic eyes. Brown skin. Weather-beaten face showing hard life.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things
@@ -42,7 +47,6 @@ Born into evil but questioning their path They recently discovered a secret that
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
 
-
 ### Thalia Grimholt the Wise (Personal - Best friend)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
@@ -52,21 +56,17 @@ Born into evil but questioning their path They recently discovered a secret that
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Nerys Darkwater the Wise (Criminal - Informant)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ### Malakai Dawnstrider the Guardian (Personal - Childhood friend)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Lyanna Zephyrblade the Seeker (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Is being controlled by darker force

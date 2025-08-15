@@ -116,3 +116,12 @@ improvements: 20
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[02_Worldbuilding_Lore_Marina's_Identity_Crisis]]
+- [[Aquabyssos Trade Seal]]
+- [[Aurelius Goldwave]]
+- [[Customs House]]
+- [[Aquabyssos Trade Seal (D&D_References)]]
+- [[Aurelius Goldwave (D&D_Statblocks)]]

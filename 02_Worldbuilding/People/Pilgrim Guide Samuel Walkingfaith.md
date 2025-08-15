@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-pilgrim-guide-samuel-walkingfaith-pilgrim-guide-samuel-walkingfaith.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -198,7 +196,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -268,3 +265,7 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City Merchant Prince Aldric Goldcurrent V1 Merchant Prince Aldric Goldcurrent.svg]]

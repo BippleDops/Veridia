@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Ashford the Fallen", "gavril ashford the fallen", "Gavril Ashford Fallen", "Fallen the Ashford Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Ashford the Fallen
 
 *Goliath Crime Boss (Villains), Age 72, Male*
@@ -13,7 +19,6 @@
 Tall and muscular, with Long and flowing blonde hair and Gray eyes. Brown skin. Burn scars on one side of face.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Never uses people's real names; Constantly quotes ancient texts
@@ -36,7 +41,6 @@ Believes their evil acts serve a greater good A chance encounter last winter cha
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Elric Xendar the Seeker (Criminal - Accomplice)
 - **Status**: One-sided affection
@@ -47,11 +51,9 @@ Believes their evil acts serve a greater good A chance encounter last winter cha
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Hilda Ironwood the Bold (Professional - Partner)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Is being controlled by darker force

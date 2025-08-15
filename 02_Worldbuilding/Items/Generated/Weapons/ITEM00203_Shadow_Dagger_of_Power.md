@@ -1,3 +1,9 @@
+---
+aliases: ["Shadow Dagger of Power", "shadow dagger of power", "Power of Dagger Shadow"]
+tags: [item, equipment]
+type: item
+---
+
 # Shadow Dagger of Power
 
 *Weapons, Uncommon*
@@ -14,8 +20,6 @@ A shadow dagger made of crystallized magic
 - Critical hits on 19-20
 - Ignores resistance to damage type
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -30,7 +34,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.360Z*

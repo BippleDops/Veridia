@@ -18,16 +18,13 @@ updated: 2025-08-14
 - **East**: River crossing
 - **West**: Mountain pass
 
-
 # Temporal Displacement
-
 
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
 - **Law Enforcement**: Town guard
 - **Justice System**: Local magistrate
-
 
 ## Economy
 - **Primary Exports**: Local goods
@@ -46,7 +43,6 @@ The approach to Temporal Displacement reveals its significance through architect
 
 ### Interior
 Within Temporal Displacement, visitors find a carefully designed space serving multiple purposes.
-
 
 ## Demographics
 - **Population**: ~1,000
@@ -84,7 +80,6 @@ Recent developments have brought new attention to Temporal Displacement, creatin
 ## DM Notes
 *Temporal Displacement can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -120,3 +115,22 @@ Recent developments have brought new attention to Temporal Displacement, creatin
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Memory Alteration Consequences]]
+- [[Temporal Anomaly Resolution]]
+- [[The Deep Prophecies]]
+- [[Crystal Gardens]]
+- [[Mad Oracle Thessaly]]
+- [[Reality Breach Locations]]
+- [[Sister Morwyn]]
+- [[Temple of the Sunken Cathedral]]
+- [[Temporal Harvest]]
+- [[The Crystal Wardens]]
+- [[The Forgotten One]]
+- [[The Memory Storm Fields]]
+- [[The Reflection Pools]]
+- [[The Seven Shards Mystery]]
+- [[The Void Touched Depths]]

@@ -201,3 +201,8 @@ This NPC can serve multiple roles:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-pressure-lords-pressure-lords.svg]]
+- [[04_Resources_Assets_Locations_location-city-portal-commander-marina-bridgewright-portal-commander-marina-bridgewright.png]]

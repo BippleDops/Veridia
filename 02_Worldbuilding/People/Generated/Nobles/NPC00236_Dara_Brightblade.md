@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Brightblade", "dara brightblade", "Brightblade Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Brightblade
 
 *Elf Noble (Nobles), Age 71, Male*
@@ -36,27 +42,22 @@ Recently elevated to nobility through service, still learning courtly ways They 
 - **Short Term**: Find missing person
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Kaelen Nightfall the Fallen (Family - Spouse)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Dara Blackstone the Wanderer (Professional - Partner)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ### Faelyn Xendar the Seeker (Professional - Mentor)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
 
-
 ### Pyria Xendar the Swift (Personal - Love interest)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Secretly funding the rebellion

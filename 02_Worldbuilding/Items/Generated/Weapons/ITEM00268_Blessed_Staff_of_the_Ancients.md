@@ -1,3 +1,9 @@
+---
+aliases: ["Blessed Staff of the Ancients", "blessed staff of the ancients", "Blessed Staff of Ancients", "Ancients the of Staff Blessed"]
+tags: [item, equipment]
+type: item
+---
+
 # Blessed Staff of the Ancients
 
 *Weapons, Rare*
@@ -15,8 +21,6 @@ A blessed staff carved from dragon bone
 - Deals extra 1d6 elemental damage
 - Can strike ethereal creatures
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -31,7 +35,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.366Z*

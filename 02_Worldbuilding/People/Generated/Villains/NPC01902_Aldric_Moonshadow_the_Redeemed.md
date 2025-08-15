@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Moonshadow the Redeemed", "aldric moonshadow the redeemed", "Aldric Moonshadow Redeemed", "Redeemed the Moonshadow Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Moonshadow the Redeemed
 
 *Gnome Crime Boss (Villains), Age 19, Non-binary*
@@ -13,7 +19,6 @@
 Average height and delicate, with Wild and unkempt blonde hair and Green eyes. Freckled skin. Birthmark shaped like a constellation.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Flirts with everyone regardless of interest; Always tells the absolute truth
@@ -36,27 +41,22 @@ Corrupted by an artifact or dark magic A prophetic dream has been haunting them 
 - **Short Term**: Sabotage competition
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Branwen Jadeclaw the Mystic (Political - Patron)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Elric Goldleaf the Lost (Personal - Childhood friend)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ### Pyria Ashford the Cunning (Personal - Love interest)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
 
-
 ### Brenna Ironwood the Wanderer (Personal - Childhood friend)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Has a child they're protecting

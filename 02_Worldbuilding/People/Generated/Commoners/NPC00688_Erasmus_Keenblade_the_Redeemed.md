@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Keenblade the Redeemed", "erasmus keenblade the redeemed", "Erasmus Keenblade Redeemed", "Redeemed the Keenblade Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Keenblade the Redeemed
 
 *Aasimar Blacksmith (Commoners), Age 51, Female*
@@ -36,22 +42,18 @@ Grew up in poverty but discovered a talent that might change everything They rec
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Gareth Hawthorne the Wise (Political - Opposition)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
 
-
 ### Alaric Moonshadow the Scholar (Criminal - Informant)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Nerys Silverleaf (Criminal - Informant)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ### Erasmus Keenblade the Swift (Criminal - Accomplice)
 - **Status**: One-sided affection

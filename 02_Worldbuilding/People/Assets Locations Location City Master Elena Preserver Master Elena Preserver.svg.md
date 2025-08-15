@@ -217,3 +217,8 @@ Mentioned in The Hidden Prophecy of Winds
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-void-watchers-the-void-watchers.svg]]
+- [[04_Resources_Assets_Locations_location-city-temple-guardian-marcus-the-drowned-v1-temple-guardian-marcus-the-drowned.svg]]

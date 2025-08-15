@@ -108,3 +108,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[09 Appendix a Lore Glossary]]
+- [[09-appendix-a-lore-glossary (dungeon-masters-guide-2024)]]
+- [[Arcana Uncommon Xdmg]]
+- [[Armaments Uncommon Xdmg]]
+- [[Random Magic Items Arcana]]
+- [[Random Magic Items Armaments]]
+- [[arcana-uncommon-xdmg (tables)]]
+- [[armaments-uncommon-xdmg (tables)]]
+- [[random-magic-items-arcana (tables)]]
+- [[random-magic-items-armaments (tables)]]

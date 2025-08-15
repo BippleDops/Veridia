@@ -88,3 +88,11 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Cleric Xphb Knowledge Domain]]
+- [[cleric-xphb-knowledge-domain (classes)]]
+- [[cleric-xphb-knowledge-domain 2 (classes)]]
+- [[Deities of Dragonlance Neutral Phb]]
+- [[deities-of-dragonlance-neutral-phb (tables)]]

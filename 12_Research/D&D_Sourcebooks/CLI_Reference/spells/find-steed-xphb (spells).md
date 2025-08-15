@@ -110,7 +110,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -129,4 +128,14 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[find-steed-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[find-steed-xphb (spells)|find-steed-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Paladin Xphb]]
+- [[paladin-xphb (classes)]]
+- [[Find Greater Steed Xge]]
+- [[find-greater-steed-xge (spells)]]

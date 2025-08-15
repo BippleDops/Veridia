@@ -50,7 +50,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -102,7 +102,7 @@ improvements: 20
 
 ## Overview
 
-The Grand Bazaar of Echoing Coins is the largest and most influential marketplace in the known world, spanning twelve city blocks in the heart of [[Port Meridian]]. This massive [[Commercial District]] operates under the direct protection of the [[[[Merchant]] Princes]], featuring hundreds of permanent shops, thousands of temporary stalls, and the most sophisticated ficial exchange systems ever developed. The bazaar's name comes from the magical acoustics that make every coin dropped audible throughout the complex, creating a constant symphony of commerce.
+The Grand Bazaar of Echoing Coins is the largest and most influential marketplace in the known world, spanning twelve city blocks in the heart of [[Port Meridian]]. This massive [[Commercial District]] operates under the direct protection of the [[Merchant|[[Merchant]] Princes]], featuring hundreds of permanent shops, thousands of temporary stalls, and the most sophisticated ficial exchange systems ever developed. The bazaar's name comes from the magical acoustics that make every coin dropped audible throughout the complex, creating a constant symphony of commerce.
 
 ### Economic Intrigue
 
@@ -140,7 +140,7 @@ Legends speak of The Grand Bazaar of Echoing Coins as a nexus where past and pre
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -164,13 +164,11 @@ The Grand Bazaar of Echoing Coins is a notable location characterized by its uni
 ### Founding
 The Grand Bazaar of Echoing Coins was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -178,13 +176,11 @@ The Grand Bazaar of Echoing Coins was established in the distant past, growing f
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -212,7 +208,7 @@ Ongoing situations affecting The Grand Bazaar of Echoing Coins:
 - A stranger needs help investigating before the new moon
 - Strange accidents suggest a conspiracy
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -240,7 +236,6 @@ Ongoing situations affecting The Grand Bazaar of Echoing Coins:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions

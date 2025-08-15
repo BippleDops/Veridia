@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Ironwood", "corvus ironwood", "Ironwood Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Ironwood
 
 *Elf Courtier (Nobles), Age 40, Female*
@@ -46,7 +52,6 @@ Secretly adopted into nobility, living in fear of discovery A prophetic dream ha
 ### Brenna Zephyrblade the Risen (Criminal - Fence)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ### Branwen Ashford the Redeemed (Criminal - Accomplice)
 - **Status**: On the verge of collapse

@@ -102,3 +102,7 @@ Brother Gale Windwalker represents a crucial aspect of the world's history, cosm
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[Session 06 the Sky Throne]]

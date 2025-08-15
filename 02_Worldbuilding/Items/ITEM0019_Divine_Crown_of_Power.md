@@ -1,4 +1,5 @@
 ---
+aliases: ["Divine Crown of Power", "divine crown of power", "Power of Crown Divine"]
 tags: [generated]
 id: ITEM0019
 created: 2025-08-15T04:09:51.082Z
@@ -19,8 +20,6 @@ Crafted from mithril with battle scars, in pristine condition. It emanates a fai
 
 ## Quirk
 *Hums when enemies are near*
-
-
 
 ## History
 This item was reforged from broken artifacts ages ago. It has passed through many hands, each leaving their mark upon its destiny.

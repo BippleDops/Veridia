@@ -73,3 +73,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Strange sightings suggest a conspiracy
 - A journal reveals the truth about the government
 - A stranger needs help investigating before the festival
+
+## References
+
+- [[Aquabyssos_Submarines]]
+- [[Ecosystem Simulation Engine]]
+- [[Ecosystem_Simulation_Engine (D&D_References)]]
+- [[Fleet_Dynamics_Generator]]
+- [[Infinite Dungeon Generator]]
+- [[Infinite_Dungeon_Generator (D&D_References)]]
+- [[Merger_Hybrid_Vehicles (D&D_References)]]
+- [[Vehicles - Aquabyssos Submarines]]
+- [[Vehicles - Fleet Dynamics Generator]]
+- [[Vehicles - Merger Hybrid Vehicles]]

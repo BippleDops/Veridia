@@ -51,12 +51,10 @@ This content can be adapted and expanded based on specific campaign needs.
 ## DM Notes
 * Customize as needed for your specific campaign requirements.*
 
-
 ## Pronunciation Guide
 - **Gathering**: [GATHERING]
 - **Gathering**: [GATHERING]
 - **Gathering**: [GATHERING]
-
 
 ## See Also
 - Related content
@@ -67,3 +65,7 @@ This content can be adapted and expanded based on specific campaign needs.
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
 - **Hidden Details**: Secret aspects
+
+## References
+
+- [[Campaign_Overview_1 (01_Adventures)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Hawthorne the Wanderer", "ysara hawthorne the wanderer", "Ysara Hawthorne Wanderer", "Wanderer the Hawthorne Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Hawthorne the Wanderer
 
 *Tabaxi Ambassador (Nobles), Age 56, Female*
@@ -13,7 +19,6 @@
 Average height and muscular, with Shaved black hair and Hazel eyes. Brown skin. Gold tooth that glints when smiling.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Sees doom and gloom everywhere
@@ -47,11 +52,9 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Rhiannon Ashford the Swift (Personal - Ex-lover)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Practicing forbidden magic

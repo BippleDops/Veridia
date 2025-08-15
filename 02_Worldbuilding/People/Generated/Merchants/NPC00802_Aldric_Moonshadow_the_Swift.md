@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Moonshadow the Swift", "aldric moonshadow the swift", "Aldric Moonshadow Swift", "Swift the Moonshadow Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Moonshadow the Swift
 
 *Human Shopkeeper (Merchants), Age 73, Female*
@@ -36,7 +42,6 @@ Built their business from nothing through cunning and hard work A family member'
 - **Short Term**: Sabotage competition
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Hestara Oakenshield the Risen (Family - Sibling)
 - **Status**: One-sided affection
@@ -51,7 +56,6 @@ Built their business from nothing through cunning and hard work A family member'
 ### Pyria Moonshadow the Swift (Personal - Love interest)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ### Nerys Ironforge the Lost (Family - Spouse)
 - **Status**: Mutually beneficial

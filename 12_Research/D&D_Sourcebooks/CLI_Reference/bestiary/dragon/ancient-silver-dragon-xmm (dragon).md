@@ -208,3 +208,17 @@ Mentioned in The Second Prophecy of Depths
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Ancient Silver Dragon Xmm]]
+- [[Monsters by Habitat Mountain Monsters Xmm]]
+- [[Monsters by Habitat Urban Monsters Xmm]]
+- [[Mountain Encounters Levels 1116 Xge]]
+- [[Urban Encounters Levels 1116 Xge]]
+- [[Urban Encounters Levels 1720 Xge]]
+- [[monsters-by-habitat-mountain-monsters-xmm (tables)]]
+- [[monsters-by-habitat-urban-monsters-xmm (tables)]]
+- [[mountain-encounters-levels-1116-xge (tables)]]
+- [[urban-encounters-levels-1116-xge (tables)]]
+- [[urban-encounters-levels-1720-xge (tables)]]

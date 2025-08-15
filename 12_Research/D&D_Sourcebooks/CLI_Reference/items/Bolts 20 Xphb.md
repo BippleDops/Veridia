@@ -80,3 +80,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A map reveals ancient history about this place
 - The authorities needs help investigating before dawn
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Woodcarvers Tools Xphb]]
+- [[woodcarvers-tools-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[Ammunition Varies Ammunition Xphb]]
+- [[adventuring-gear-phb (tables)]]
+- [[ammunition-varies-ammunition-xphb (tables)]]

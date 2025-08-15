@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Brightblade the Swift", "faelyn brightblade the swift", "Faelyn Brightblade Swift", "Swift the Brightblade Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Brightblade the Swift
 
 *Tabaxi Crime Boss (Villains), Age 44, Non-binary*
@@ -13,7 +19,6 @@
 Very short and muscular, with Braided elaborately brown hair and Violet eyes. Weathered skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Speaks to inanimate objects; Always tells the absolute truth; Always hungry and eating something
@@ -42,26 +47,21 @@ Born into evil but questioning their path Strange abilities have begun manifesti
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Orion Youngblood the Cunning (Criminal - Accomplice)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ### Aeliana Ironwood the Risen (Professional - Employee)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Thalia Silverleaf the Risen (Criminal - Target)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
 
-
 ### Brenna Xendar the Wanderer (Professional - Mentor)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
-
 
 ### Caelum Nightfall the Fallen (Family - Parent)
 - **Status**: Secretly hostile

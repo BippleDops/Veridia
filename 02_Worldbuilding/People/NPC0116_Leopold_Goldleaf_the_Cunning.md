@@ -1,11 +1,11 @@
 ---
+aliases: ["Leopold Goldleaf the Cunning", "leopold goldleaf the cunning", "Leopold Goldleaf Cunning", "Cunning the Goldleaf Leopold"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Merchant family that lost everything to pirates. Years ago, they was falsely acc
 ### Skills
 Investigation, Deception, Insight
 
-
-
 ## Possessions
 - 65 gold pieces
 - Healing potion
@@ -92,7 +90,6 @@ Investigation, Deception, Insight
 
 ---
 *Generated: 2025-08-15T03:21:04.038Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

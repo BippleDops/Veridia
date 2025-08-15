@@ -102,3 +102,10 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Art Captain Trawl Netcaster.png]]
+- [[Assets Locations Location City Commander Reef Shadowstrike V1 Commander Reef Shadowstrike.svg]]
+- [[Assets Locations Location City Master Finn Liquidlight Master Finn Liquidlight.svg]]
+- [[Assets Portraits Portrait NPC Lady Celestine Windborne Lady Celestine Windborne.svg]]

@@ -107,3 +107,28 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Beholder Xmm]]
+- [[beholder-xmm (aberration)]]
+- [[Animated Halberd Cos]]
+- [[Broom of Animated Attack Cos]]
+- [[Guardian Portrait Cos]]
+- [[animated-halberd-cos (construct)]]
+- [[broom-of-animated-attack-cos (construct)]]
+- [[guardian-portrait-cos (construct)]]
+- [[Animated Drow Statue Oota]]
+- [[animated-drow-statue-oota (elemental)]]
+- [[Astral Dreadnought Mpmm]]
+- [[astral-dreadnought-mpmm (monstrosity)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Unbreakable Arrow Xge]]
+- [[unbreakable-arrow-xge (items)]]
+- [[Prismatic Wall Xphb]]
+- [[antimagic-field-xphb (spells)]]
+- [[prismatic-wall-xphb (spells)]]
+- [[Dead Magic Zone Xdmg]]
+- [[dead-magic-zone-xdmg (traps-hazards)]]

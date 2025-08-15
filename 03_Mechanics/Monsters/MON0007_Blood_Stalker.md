@@ -1,4 +1,5 @@
 ---
+aliases: ["Blood Stalker", "blood stalker", "Stalker Blood"]
 tags: [generated]
 id: MON0007_Blood_Stalker
 created: 2025-08-15T04:09:51.423Z
@@ -24,7 +25,6 @@ A twisted abomination created by dark magic
 
 ---
 *Generated: 2025-08-15T03:21:47.461Z*
-
 
 ## Habitat
 - Natural environment and territories

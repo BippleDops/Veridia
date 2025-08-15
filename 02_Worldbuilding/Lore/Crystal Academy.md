@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -71,7 +71,7 @@ Crystal Academy represents a crucial aspect of the world's history, cosmology, o
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -85,7 +85,7 @@ Crystal Academy represents a crucial aspect of the world's history, cosmology, o
 - A noble needs help investigating before dawn
 - The authorities needs help investigating before the new moon
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -101,3 +101,10 @@ Crystal Academy represents a crucial aspect of the world's history, cosmology, o
 - Civil war
 - Natural disasters
 - Current [[Power Structures]] established
+
+## References
+
+- [[Crystal Academy Council]]
+- [[Crystal Academy Networks]]
+- [[Merchant Family Alliances]]
+- [[Name Etymology Guide]]

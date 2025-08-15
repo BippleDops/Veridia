@@ -241,3 +241,7 @@ Mentioned in The Second Prophecy of Stars
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Cultural Festivals Committee (02_Worldbuilding)]]

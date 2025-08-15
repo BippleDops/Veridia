@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Youngblood the Broken", "malakai youngblood the broken", "Malakai Youngblood Broken", "Broken the Youngblood Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Youngblood the Broken
 
 *Tabaxi Blacksmith (Commoners), Age 70, Female*
@@ -13,7 +19,6 @@
 Very tall and delicate, with Carefully styled white hair and Violet eyes. Freckled skin. Burn scars on one side of face.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Sees doom and gloom everywhere; Laughs at the most inappropriate times
@@ -36,12 +41,10 @@ Former soldier trying to adjust to civilian life They've made a deal they're beg
 - **Short Term**: Gather information
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Erasmus Proudmore (Personal - Love interest)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ### Corvus Keenblade the Lost (Personal - Ex-lover)
 - **Status**: Strained but maintaining
@@ -52,16 +55,13 @@ Former soldier trying to adjust to civilian life They've made a deal they're beg
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
 ### Rhiannon Keenblade the Cunning (Personal - Childhood friend)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Delara Ashford (Criminal - Handler)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Is the lost heir to the throne

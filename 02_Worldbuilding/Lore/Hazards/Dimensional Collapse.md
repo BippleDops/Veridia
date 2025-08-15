@@ -97,3 +97,11 @@ improvements: 20
 - Civil war
 - Natural disasters
 - Current power structures established
+
+## References
+
+- [[Deep Mother Influence]]
+- [[Hazards Dimensional Collapse]]
+- [[Ritual Redirection Options]]
+- [[Reality Anchor Network]]
+- [[The Shrinking Sanctuary]]

@@ -197,3 +197,20 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Continental War]]
+- [[Economic Systems and Currency]]
+- [[Merchant Princess Coral Goldtide]]
+- [[Merchant Princess Seren Goldwave]]
+- [[The Grand Trade Routes]]
+- [[Trade Route Establishment]]
+- [[Admiral Cassandra Stormwind]]
+- [[Admiral Cassandra Stormwind (D&D_References)]]
+- [[Economic Systems and Currency (D&D_References)]]
+- [[Economic Warfare and Trade Sanctions]]
+- [[The Grand Bazaar of Echoing Coins (D&D_References)]]
+- [[The Grand Trade Routes (D&D_References)]]
+- [[The Iron Pits of Malachar (D&D_Statblocks)]]

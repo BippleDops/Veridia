@@ -82,3 +82,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A merchant needs help delivering before dawn
 - A prisoner has gone missing and war looms
 - Strange sightings suggest ancient magic
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[workshop]]
+- [[Artisans Tools Xphb]]
+- [[artisans-tools-xphb (items)]]
+- [[Magic Item Tools Xdmg]]
+- [[Tools Phb]]
+- [[magic-item-tools-xdmg (tables)]]
+- [[tools-phb (tables)]]

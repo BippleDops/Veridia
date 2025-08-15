@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Crystalbrook the Risen", "solas crystalbrook the risen", "Solas Crystalbrook Risen", "Risen the Crystalbrook Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Crystalbrook the Risen
 
 *Half-Orc Fighter (Adventurers), Age 31, Non-binary*
@@ -13,7 +19,6 @@
 Towering and muscular, with Shaved gray hair and Gray eyes. Scarred skin. Missing ear from old battle.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Believes in every conspiracy theory; Never backs down from any challenge
@@ -36,17 +41,14 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 - **Short Term**: Gather information
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Ewan Lightbringer the Broken (Family - Cousin)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Delara Keenblade the Cunning (Personal - Ex-lover)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
-
 
 ### Thalia Zephyrblade the Scholar (Personal - Love interest)
 - **Status**: One-sided affection
@@ -57,11 +59,9 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Gareth Voidwalker the Swift (Professional - Employer)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Possessed by ancient spirit

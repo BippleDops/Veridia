@@ -1,3 +1,9 @@
+---
+aliases: ["Pure Powder of Vigor", "pure powder of vigor", "Vigor of Powder Pure"]
+tags: [item, equipment]
+type: item
+---
+
 # Pure Powder of Vigor
 
 *Consumables, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A pure powder glowing softly
 - Remove one condition
 - Grant advantage for 1 hour
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -30,7 +34,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.457Z*

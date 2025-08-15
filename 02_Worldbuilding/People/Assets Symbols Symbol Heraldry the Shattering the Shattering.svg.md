@@ -179,6 +179,6 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[Parliament Loyalists]] (rival)
 - [[Queen Seraphina Lumengarde]] (enemy)
-- [[Quest   The Cure for Madness]] (rival)
+- [[The Cure|Quest   The Cure for Madness]] (rival)
 ---
 *Tags*: #npc #contact #worldbuilding

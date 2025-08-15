@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Brightblade the Wise", "faelyn brightblade the wise", "Faelyn Brightblade Wise", "Wise the Brightblade Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Brightblade the Wise
 
 *Goliath Shopkeeper (Merchants), Age 35, Female*
@@ -51,7 +57,6 @@ Former adventurer who retired to open a shop An old debt has come due at the wor
 ### Solas Proudmore the Mystic (Professional - Partner)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Running a cult from their basement

@@ -681,3 +681,10 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Daily Routine Nuances and Details]]
+- [[Working Class Routines]]
+- [[Daily Routine Nuances and Details (D&D_References)]]
+- [[Working Class Routines (D&D_References)]]

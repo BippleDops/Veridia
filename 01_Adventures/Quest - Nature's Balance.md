@@ -14,7 +14,6 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 ## Objectives
 ### Primary
 - Main quest goal
@@ -22,7 +21,6 @@ status: active
 ### Optional
 - Secondary objectives
 - Hidden goals
-
 
 # Quest - Nature's Balance
 
@@ -402,7 +400,6 @@ Contextual improvement based on 12_Research
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Time Limit
 - **Deadline**: When it must be completed

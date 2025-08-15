@@ -60,3 +60,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Mourning Depths]]
+- [[Mourning Depths (D&D_References)]]

@@ -165,3 +165,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Azer Pyromancer Xmm]]
+- [[Monsters by Habitat Mountain Monsters Xmm]]
+- [[monsters-by-habitat-mountain-monsters-xmm (tables)]]

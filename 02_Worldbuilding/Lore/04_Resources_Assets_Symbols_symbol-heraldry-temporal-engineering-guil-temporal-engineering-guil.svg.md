@@ -26,3 +26,8 @@ Further information about this topic will be developed as the campaign progresse
 - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery
+
+## References
+
+- [[Assets Locations Location City Deputy Harbor Master Marina Stormwright V1 Deputy Harbor Master Marina Stormwright.svg]]
+- [[Assets Locations Location City Grief Overwhelming Syndrome V1 Grief Overwhelming Syndrome.svg]]

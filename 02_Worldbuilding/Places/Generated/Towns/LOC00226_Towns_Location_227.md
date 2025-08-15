@@ -1,3 +1,9 @@
+---
+aliases: ["Towns Location 227", "towns location 227", "227 Location Towns"]
+tags: [location, place]
+type: location
+---
+
 # Towns Location 227
 
 *Towns*

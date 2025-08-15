@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Hawthorne the Wise", "corvus hawthorne the wise", "Corvus Hawthorne Wise", "Wise the Hawthorne Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Hawthorne the Wise
 
 *Dwarf Cultist (Villains), Age 54, Male*
@@ -42,16 +48,13 @@ Driven mad by knowledge humanity wasn't meant to know They've made a deal they'r
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Hestara Zephyrblade the Seeker (Professional - Rival)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
 
-
 ### Delara Stormwind the Bold (Criminal - Target)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ### Solas Winterborn the Wise (Criminal - Handler)
 - **Status**: Strained but maintaining

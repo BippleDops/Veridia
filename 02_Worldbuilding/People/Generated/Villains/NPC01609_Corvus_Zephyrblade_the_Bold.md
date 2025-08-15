@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Zephyrblade the Bold", "corvus zephyrblade the bold", "Corvus Zephyrblade Bold", "Bold the Zephyrblade Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Zephyrblade the Bold
 
 *Elf Corrupt Noble (Villains), Age 74, Non-binary*
@@ -13,7 +19,6 @@
 Towering and compact, with Partially shaved brown hair and Brown eyes. Scarred skin. Constantly changing hair color.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Sees doom and gloom everywhere; Always hungry and eating something
@@ -36,7 +41,6 @@ Betrayed by those they trusted, now seeking revenge on the world They've been ma
 - **Short Term**: Avoid the authorities
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Felicia Underhill the Lost (Criminal - Handler)
 - **Status**: Strong and trusting
@@ -47,11 +51,9 @@ Betrayed by those they trusted, now seeking revenge on the world They've been ma
 - **Status**: Strong and trusting
 - **History**: United by common enemy
 
-
 ### Qadim Zephyrblade the Swift (Family - Sibling)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ### Orion Winterborn the Seeker (Criminal - Accomplice)
 - **Status**: One-sided affection
@@ -62,11 +64,9 @@ Betrayed by those they trusted, now seeking revenge on the world They've been ma
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Corvus Emberfall the Fallen (Criminal - Informant)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Knows how the world will end

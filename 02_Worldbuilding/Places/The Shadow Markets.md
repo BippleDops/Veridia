@@ -44,7 +44,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -101,7 +101,7 @@ Legends speak of The Shadow Markets as a nexus where past and present converge. 
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -125,13 +125,11 @@ The Shadow Markets is a notable location characterized by its unique features an
 ### Founding
 The Shadow Markets was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -139,13 +137,11 @@ The Shadow Markets was established in the distant past, growing from humble begi
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -185,7 +181,6 @@ Ongoing situations affecting The Shadow Markets:
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -221,3 +216,22 @@ Ongoing situations affecting The Shadow Markets:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Shadow Conspiracy (People)]]
+- [[Port Meridian - Market Square]]
+- [[Port Meridian Harbor]]
+- [[Shadow Market Canals]]
+- [[Aquabyssos - Session 05 - Descent into Darkness]]
+- [[Goldwave Manor (D&D_References)]]
+- [[Goldwave Manor 3 (D&D_References)]]
+- [[Port Meridian - Market Square (D&D_References)]]
+- [[Port Meridian Harbor (D&D_References)]]
+- [[Shadow Conspiracy (D&D_References)]]
+- [[Shadow Market Canals (D&D_References)]]
+- [[The Bone Colosseum (D&D_References)]]
+- [[The Royal Palace (D&D_References)]]
+- [[Memory Thief (D&D_Statblocks)]]
+- [[Smuggler (D&D_Statblocks)]]
+- [[Traveling Merchant Finn (D&D_Statblocks)]]

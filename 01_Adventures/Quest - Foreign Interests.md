@@ -14,7 +14,6 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 # Quest - Foreign Interests
 
 ---
@@ -51,12 +50,10 @@ obsidianUIMode: preview
 # Quest - Foreign Interests
 *Spies in the Crystal Court, The Ambassador's Game, Shadows Across Borders*
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -380,7 +377,6 @@ Contextual improvement based on 12_Research
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Time Limit
 - **Deadline**: When it must be completed

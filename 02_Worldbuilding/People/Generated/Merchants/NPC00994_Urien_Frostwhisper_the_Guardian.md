@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Frostwhisper the Guardian", "urien frostwhisper the guardian", "Urien Frostwhisper Guardian", "Guardian the Frostwhisper Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Frostwhisper the Guardian
 
 *Aasimar Shopkeeper (Merchants), Age 59, Male*
@@ -36,12 +42,10 @@ Uses their business as cover for other activities A family member's death has le
 - **Short Term**: Avoid the authorities
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Aldric Zephyrblade the Broken (Professional - Mentor)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ### Orion Nightfall the Swift (Criminal - Handler)
 - **Status**: One-sided affection
@@ -57,11 +61,9 @@ Uses their business as cover for other activities A family member's death has le
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Baelor Keenblade the Scholar (Political - Patron)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
-
 
 ### Erasmus Grimholt the Risen (Political - Puppet)
 - **Status**: One-sided affection

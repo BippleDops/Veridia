@@ -252,3 +252,12 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Ancient Aquabyssos Rulers]]
+- [[The Azure Coast]]
+- [[Aethermoor - Session 09 The Price of Unity]]
+- [[Ancient Aquabyssos Rulers (D&D_References)]]
+- [[The Azure Coast (D&D_References)]]
+- [[The Embassy Quarter (D&D_References)]]

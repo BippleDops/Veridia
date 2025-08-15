@@ -110,4 +110,18 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[gate-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[gate-xphb (spells)|gate-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Candle of Invocation Xdmg]]
+- [[Cubic Gate Xdmg]]
+- [[Sphere of Annihilation Xdmg]]
+- [[candle-of-invocation-xdmg (items)]]
+- [[cubic-gate-xdmg (items)]]
+- [[sphere-of-annihilation-xdmg (items)]]
+- [[Forbiddance Xphb]]
+- [[forbiddance-xphb (spells)]]

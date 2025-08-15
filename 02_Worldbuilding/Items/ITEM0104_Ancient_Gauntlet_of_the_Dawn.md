@@ -1,4 +1,5 @@
 ---
+aliases: ["Ancient Gauntlet of the Dawn", "ancient gauntlet of the dawn", "Ancient Gauntlet of Dawn", "Dawn the of Gauntlet Ancient"]
 tags: [generated]
 id: ITEM0104
 created: 2025-08-15T04:09:51.111Z
@@ -19,8 +20,6 @@ Crafted from blessed silver with delicate filigree, in ancient but unbreakable. 
 
 ## Quirk
 *Makes user sneeze in sunlight*
-
-
 
 ## History
 This item was corrupted by dark magic millennia ago. It has passed through many hands, each leaving their mark upon its destiny.

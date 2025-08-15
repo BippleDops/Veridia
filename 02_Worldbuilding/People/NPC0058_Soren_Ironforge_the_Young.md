@@ -1,11 +1,11 @@
 ---
+aliases: ["Soren Ironforge the Young", "soren ironforge the young", "Soren Ironforge Young", "Young the Ironforge Soren"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -95,7 +95,6 @@ Arcana, Athletics, Investigation
 
 ---
 *Generated: 2025-08-15T03:20:13.078Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

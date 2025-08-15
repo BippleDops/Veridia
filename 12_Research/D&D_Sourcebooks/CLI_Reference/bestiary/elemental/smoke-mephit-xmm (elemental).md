@@ -147,3 +147,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Smoke Mephit Xmm]]
+- [[Urban Encounters Levels 14 Xge]]
+- [[Urban Encounters Levels 510 Xge]]
+- [[urban-encounters-levels-14-xge (tables)]]
+- [[urban-encounters-levels-510-xge (tables)]]

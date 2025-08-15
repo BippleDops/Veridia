@@ -45,3 +45,12 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[03 Races]]
+- [[03-races (players-handbook-2014)]]
+- [[Orcish Fury Xge]]
+- [[orcish-fury-xge (feats)]]
+- [[Random Height and Weight Phb]]
+- [[random-height-and-weight-phb (tables)]]

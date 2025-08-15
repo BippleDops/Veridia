@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Ironforge the Mystic", "solas ironforge the mystic", "Solas Ironforge Mystic", "Mystic the Ironforge Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Ironforge the Mystic
 
 *Genasi Trader (Merchants), Age 54, Non-binary*
@@ -13,7 +19,6 @@
 Very short and muscular, with Short and neat gray hair and Amber eyes. Weathered skin. Intricate tattoos covering arms.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Speaks to inanimate objects; Always tells the absolute truth
@@ -36,27 +41,22 @@ Built their business from nothing through cunning and hard work A prophetic drea
 - **Short Term**: Complete current contract
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Erasmus Grimholt the Strong (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
 
-
 ### Caelum Ashford the Strong (Professional - Mentor)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ### Corvus Goldleaf the Wanderer (Professional - Rival)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Wynne Voidwalker the Swift (Political - Patron)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Running a cult from their basement

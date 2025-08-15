@@ -183,7 +183,7 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[04_Resources_Assets_Locations_location-city-dr-marina-voidstudier-v1-dr-marina-voidstudier.svg]] (enemy)
 - [[Quest   The Tide War]] (rival)
-- [[Quest   The Ancient Compact]] (rival)
+- [[The Ancient Compact|Quest   The Ancient Compact]] (rival)
 ---
 *Tags*: #npc #contact #worldbuilding
 
@@ -240,3 +240,7 @@ Member of House Wolfblood - Trait: magical affinity
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-dr-marina-voidstudier-v1-dr-marina-voidstudier.svg]]

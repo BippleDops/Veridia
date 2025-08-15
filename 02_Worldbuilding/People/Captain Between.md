@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-between-captain-between.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -208,7 +206,6 @@ Member of House Serpentblood - Trait: curse
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -278,3 +275,8 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City the Crystal Cathedral of Pure Light V1 the Crystal Cathedral of Pure Light.svg]]
+- [[Assets Locations Location City the Crystalline Foundry the Crystalline Foundry.svg]]

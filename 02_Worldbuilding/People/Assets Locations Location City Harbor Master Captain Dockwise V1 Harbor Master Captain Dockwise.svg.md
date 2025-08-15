@@ -207,7 +207,7 @@ This NPC can serve multiple roles:
 - **Lover**: [[Portrait NPC the Ancient Nobility the Ancient Nobility.svg]]
 - **Child**: [[Portrait NPC God King Aetheron V1 God King Aetheron.svg]]
 - **Rival**: [[Portrait NPC Quest the Royal Treatment Quest the Royal Treatment.svg]]
-- **Ally**: [[Quest   The Cure for Madness]]
+- **Ally**: [[The Cure|Quest   The Cure for Madness]]
 
 ## Economic Structure
 
@@ -242,3 +242,7 @@ This NPC can serve multiple roles:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-dr-reef-brightwater-dr-reef-brightwater.svg]]

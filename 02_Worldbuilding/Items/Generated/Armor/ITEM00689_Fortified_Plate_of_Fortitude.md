@@ -1,3 +1,9 @@
+---
+aliases: ["Fortified Plate of Fortitude", "fortified plate of fortitude", "Fortitude of Plate Fortified"]
+tags: [item, equipment]
+type: item
+---
+
 # Fortified Plate of Fortitude
 
 *Armor, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A fortified plate crafted from exotic materials
 - Resistance to one damage type
 - Resistance to one damage type
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -30,7 +34,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.416Z*

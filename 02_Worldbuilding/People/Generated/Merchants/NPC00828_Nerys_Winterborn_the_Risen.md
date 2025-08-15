@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Winterborn the Risen", "nerys winterborn the risen", "Nerys Winterborn Risen", "Risen the Winterborn Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Winterborn the Risen
 
 *Elf Caravan Master (Merchants), Age 46, Male*
@@ -36,27 +42,22 @@ Part of a merchant family with connections everywhere They've fallen in love wit
 - **Short Term**: Complete current contract
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Pyria Voidwalker the Swift (Professional - Mentor)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Solas Darkwater the Swift (Professional - Rival)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ### Delara Thornweave the Lost (Political - Opposition)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Brenna Nightfall the Wanderer (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is actually a spy for foreign power

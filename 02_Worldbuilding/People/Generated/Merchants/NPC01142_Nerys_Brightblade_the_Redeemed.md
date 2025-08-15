@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Brightblade the Redeemed", "nerys brightblade the redeemed", "Nerys Brightblade Redeemed", "Redeemed the Brightblade Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Brightblade the Redeemed
 
 *Dwarf Shopkeeper (Merchants), Age 63, Non-binary*
@@ -42,11 +48,9 @@ Uses their business as cover for other activities They've fallen in love with so
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Hilda Frostwhisper the Redeemed (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
-
 
 ### Ewan Stormwind the Wanderer (Professional - Mentor)
 - **Status**: Complicated history
@@ -57,11 +61,9 @@ Uses their business as cover for other activities They've fallen in love with so
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
 
-
 ### Erasmus Brightblade the Redeemed (Personal - Love interest)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ### Caelum Goldleaf the Scholar (Criminal - Target)
 - **Status**: One-sided affection

@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Brightblade the Seeker", "ysara brightblade the seeker", "Ysara Brightblade Seeker", "Seeker the Brightblade Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Brightblade the Seeker
 
 *Gnome Wizard (Adventurers), Age 33, Female*
@@ -36,22 +42,18 @@ Accidentally gained powers and learning to control them They've been marked by a
 - **Short Term**: Find missing person
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Malakai Crystalbrook the Broken (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Ewan Stormwind the Wise (Political - Puppet)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
 
-
 ### Gareth Stormwind the Wanderer (Political - Puppet)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Secretly working for the villain

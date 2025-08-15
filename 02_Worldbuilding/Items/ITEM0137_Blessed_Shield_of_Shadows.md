@@ -1,4 +1,5 @@
 ---
+aliases: ["Blessed Shield of Shadows", "blessed shield of shadows", "Shadows of Shield Blessed"]
 tags: [generated]
 id: ITEM0137
 created: 2025-08-15T04:09:51.121Z
@@ -19,8 +20,6 @@ Crafted from dragonscale with glowing gems, in ancient but unbreakable. It emana
 
 ## Quirk
 *Makes user sneeze in sunlight*
-
-
 
 ## History
 This item was stolen from a dragon's hoard ages ago. It has passed through many hands, each leaving their mark upon its destiny.

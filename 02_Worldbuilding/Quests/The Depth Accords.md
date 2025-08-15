@@ -83,6 +83,11 @@ An exciting quest that challenges heroes to uncover the truth.
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*
+
+## References
+
+- [[The Original Palace]]
+- [[The Original Palace (D&D_References)]]
+- [[Diplomatic Tides (D&D_Statblocks)]]

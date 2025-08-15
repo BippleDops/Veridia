@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Lightbringer the Strong", "malakai lightbringer the strong", "Malakai Lightbringer Strong", "Strong the Lightbringer Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Lightbringer the Strong
 
 *Halfling Appraiser (Merchants), Age 72, Female*
@@ -42,7 +48,6 @@ Uses their business as cover for other activities An old debt has come due at th
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Faelyn Stormwind the Lost (Personal - Nemesis)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
@@ -57,7 +62,6 @@ Uses their business as cover for other activities An old debt has come due at th
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Aldric Jadeclaw the Mystic (Personal - Love interest)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
@@ -66,7 +70,6 @@ Uses their business as cover for other activities An old debt has come due at th
 ### Fiora Zephyrblade the Redeemed (Criminal - Target)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Running a cult from their basement

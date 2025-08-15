@@ -30,12 +30,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-high-priestess-scylla-deepdream-high-priestess-scylla-deepdream.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -239,7 +237,6 @@ Mentioned in The First Prophecy of Winds
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -275,3 +272,15 @@ Mentioned in The First Prophecy of Winds
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Court Herald Master Proclamation Crownvoice Court Herald Master Proclamation Crownvoice.svg]]
+- [[Memory Harvester Kythara]]
+- [[Oracle]]
+- [[The Sorrowmaster]]
+- [[Tribune Cassia Deepcurrent]]
+- [[Tribune Cassia Deepcurrent (D&D_References)]]
+- [[Memory Harvester Kythara (D&D_Statblocks)]]
+- [[Oracle (D&D_Statblocks)]]
+- [[The Sorrowmaster (D&D_Statblocks)]]

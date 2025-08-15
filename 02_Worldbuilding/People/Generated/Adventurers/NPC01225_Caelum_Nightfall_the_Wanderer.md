@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Nightfall the Wanderer", "caelum nightfall the wanderer", "Caelum Nightfall Wanderer", "Wanderer the Nightfall Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Nightfall the Wanderer
 
 *Dragonborn Wizard (Adventurers), Age 40, Male*
@@ -36,22 +42,18 @@ Running from a dark past that won't stay buried An old debt has come due at the 
 - **Short Term**: Make this month's payment
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Drusilla Proudmore the Wise (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Cedric Blackstone the Scholar (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Ysara Voidwalker the Broken (Personal - Ex-lover)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ### Thalia Crystalbrook the Broken (Political - Patron)
 - **Status**: Recently reconciled

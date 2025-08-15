@@ -1,4 +1,5 @@
 ---
+aliases: ["Mystic Storm", "mystic storm", "Storm Mystic"]
 tags: [generated]
 id: SPELL0035_Mystic_Storm
 created: 2025-08-15T04:09:51.474Z

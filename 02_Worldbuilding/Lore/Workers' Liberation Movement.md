@@ -46,5 +46,11 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Consequence Chain 2 - Crystal Trade Disruption]]
+- [[Consequence Chain 2 - Crystal Trade Disruption (D&D_References)]]
+- [[Consequence Chain 2 - Crystal Trade Disruption 3 (D&D_References)]]

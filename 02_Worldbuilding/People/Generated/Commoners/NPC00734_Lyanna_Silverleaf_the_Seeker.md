@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Silverleaf the Seeker", "lyanna silverleaf the seeker", "Lyanna Silverleaf Seeker", "Seeker the Silverleaf Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Silverleaf the Seeker
 
 *Half-Orc Fisher (Commoners), Age 73, Non-binary*
@@ -13,7 +19,6 @@
 Below average and heavyset, with Partially shaved blonde hair and Heterochromic eyes. Weathered skin. Missing ear from old battle.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Compulsive liar about minor things
@@ -36,7 +41,6 @@ Survivor of a disaster that destroyed their village They've fallen in love with 
 - **Short Term**: Complete current contract
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Ewan Winterborn the Scholar (Political - Spy)
 - **Status**: Strong and trusting
@@ -51,7 +55,6 @@ Survivor of a disaster that destroyed their village They've fallen in love with 
 ### Zephyr Underhill the Wise (Professional - Mentor)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ### Thalia Crystalbrook the Swift (Personal - Love interest)
 - **Status**: Mutually beneficial

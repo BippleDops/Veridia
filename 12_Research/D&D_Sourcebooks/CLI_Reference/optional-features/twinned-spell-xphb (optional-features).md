@@ -75,7 +75,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -94,4 +93,9 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[twinned-spell-xphb (optional-features)-phb]]` in CLI_Reference/spells/
+See: `[[twinned-spell-xphb (optional-features)|twinned-spell-xphb (optional-features)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[List Optfeaturetype Mm]]
+- [[list-optfeaturetype-mm (lists)]]

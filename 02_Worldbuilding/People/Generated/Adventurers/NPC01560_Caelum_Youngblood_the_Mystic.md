@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Youngblood the Mystic", "caelum youngblood the mystic", "Caelum Youngblood Mystic", "Mystic the Youngblood Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Youngblood the Mystic
 
 *Tabaxi Ranger (Adventurers), Age 32, Male*
@@ -13,7 +19,6 @@
 Below average and imposing, with Wild and unkempt white hair and Violet eyes. Unusual hue skin. Crooked nose from multiple breaks.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Flirts with everyone regardless of interest; Sees doom and gloom everywhere
@@ -36,37 +41,30 @@ Accidentally gained powers and learning to control them They've fallen in love w
 - **Short Term**: Sabotage competition
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Kaelen Voidwalker the Swift (Family - Sibling)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
 
-
 ### Rhiannon Lightbringer the Risen (Family - Parent)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ### Hestara Nightfall the Guardian (Personal - Childhood friend)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Hilda Silverleaf the Risen (Personal - Love interest)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ### Xander Xendar the Broken (Political - Ally)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Jorah Nightfall the Guardian (Professional - Rival)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Is from the future

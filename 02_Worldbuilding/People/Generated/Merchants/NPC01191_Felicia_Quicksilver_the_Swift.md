@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Quicksilver the Swift", "felicia quicksilver the swift", "Felicia Quicksilver Swift", "Swift the Quicksilver Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Quicksilver the Swift
 
 *Aasimar Shopkeeper (Merchants), Age 58, Male*
@@ -36,12 +42,10 @@ Former adventurer who retired to open a shop They've fallen in love with someone
 - **Short Term**: Gather information
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Corvus Frostwhisper the Lost (Criminal - Accomplice)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
-
 
 ### Branwen Hawthorne the Broken (Family - Cousin)
 - **Status**: On the verge of collapse
@@ -51,7 +55,6 @@ Former adventurer who retired to open a shop They've fallen in love with someone
 ### Hestara Winterborn the Broken (Professional - Employee)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Sells information to all sides

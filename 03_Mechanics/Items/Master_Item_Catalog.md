@@ -13,13 +13,10 @@ type: catalog
 - **Attunement**: Not required
 - **Weight**: 1 lb.
 
-
 # Master Item Catalog
-
 
 ## History
 The origins and notable events involving this item.
-
 
 ## Value
 - **Market Price**: 50-200 gp
@@ -3726,8 +3723,6 @@ The origins and notable events involving this item.
 - [[Crown of Tidal Sovereignty]] (A) - Unknown
 - [[The Resonance Forge Hammer]] (A) - Unknown
 - [[The Tidal Shard of Memory]] (A) - Unknown
-
-
 
 ## Appearance
 - **Visual Description**: How it looks

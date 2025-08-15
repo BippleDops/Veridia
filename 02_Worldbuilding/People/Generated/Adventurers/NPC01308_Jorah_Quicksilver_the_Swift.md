@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Quicksilver the Swift", "jorah quicksilver the swift", "Jorah Quicksilver Swift", "Swift the Quicksilver Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Quicksilver the Swift
 
 *Elf Wizard (Adventurers), Age 70, Female*
@@ -13,7 +19,6 @@
 Above average and slender, with Long and flowing brown hair and Green eyes. Fair skin. Unusual eye color for their race.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest
@@ -36,22 +41,18 @@ Running from a dark past that won't stay buried An old debt has come due at the 
 - **Short Term**: Recruit new members
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Ewan Ironforge the Scholar (Professional - Employee)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
 
-
 ### Rhiannon Keenblade the Redeemed (Political - Puppet)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
 
-
 ### Kaelen Grimholt the Wanderer (Professional - Partner)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Is from the future

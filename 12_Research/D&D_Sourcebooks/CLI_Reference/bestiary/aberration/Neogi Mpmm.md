@@ -159,3 +159,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - The authorities needs help investigating before winter
 - A journal reveals the truth about the government
 - A letter reveals ancient history about a local noble
+
+## References
+
+- [[neogi-mpmm (aberration)]]
+- [[3 Bestiary]]
+- [[3-bestiary (volos-guide-to-monsters)]]

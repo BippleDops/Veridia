@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Ravenheart the Swift", "delara ravenheart the swift", "Delara Ravenheart Swift", "Swift the Ravenheart Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Ravenheart the Swift
 
 *Genasi Wizard (Adventurers), Age 67, Non-binary*
@@ -13,7 +19,6 @@
 Below average and muscular, with Partially shaved silver hair and Red eyes. Fair skin. Missing finger on left hand.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Constantly quotes ancient texts
@@ -36,22 +41,18 @@ Accidentally gained powers and learning to control them A family member's death 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Urien Ironwood the Risen (Personal - Best friend)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Alaric Quicksilver the Scholar (Family - Spouse)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
 
-
 ### Corvus Zephyrblade the Scholar (Personal - Nemesis)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Has died and been resurrected

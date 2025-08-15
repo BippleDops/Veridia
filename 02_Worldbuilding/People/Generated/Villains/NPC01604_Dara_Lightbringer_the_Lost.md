@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Lightbringer the Lost", "dara lightbringer the lost", "Dara Lightbringer Lost", "Lost the Lightbringer Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Lightbringer the Lost
 
 *Tiefling Assassin (Villains), Age 34, Non-binary*
@@ -36,22 +42,18 @@ Driven mad by knowledge humanity wasn't meant to know An old debt has come due a
 - **Short Term**: Survive until next week
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Felicia Ravenheart the Guardian (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
 
-
 ### Hestara Emberfall the Swift (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Lyanna Nightfall the Fallen (Criminal - Fence)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ### Aeliana Blackstone the Lost (Professional - Partner)
 - **Status**: Professional only

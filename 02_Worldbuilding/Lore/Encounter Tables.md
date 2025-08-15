@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -71,7 +71,7 @@ Encounter Tables represents a crucial aspect of the world's history, cosmology, 
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -83,9 +83,17 @@ Encounter Tables represents a crucial aspect of the world's history, cosmology, 
 
 Mentioned in The Second Prophecy of Shadows
 
-
 ## Scaling by Party Level
 - **Level 1-4**: Reduce enemies
 - **Level 5-10**: Standard difficulty
 - **Level 11-15**: Add elite enemies
 - **Level 16-20**: Legendary difficulty
+
+## References
+
+- [[Encounter_Tables (02_Worldbuilding)]]
+- [[Random Encounter Tables - Aquabyssos]]
+- [[Random Encounters]]
+- [[Random_Encounter_Tables]]
+- [[Cathedral of Light]]
+- [[Location-Based Encounter Tables]]

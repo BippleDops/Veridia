@@ -41,7 +41,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-memory-merchant-valeria-siltweave-memory-merchant-valeria-siltweave.svg)
 
@@ -50,13 +49,11 @@ improvements: 20
 # Memory Merchant Valeria Siltweave
 *The Conscientious Trader, Champion of Ethical Memory Commerce*
 
-
 ## Relationships
 - **Allies**: Notable allies and friends
 - **Rivals**: Competitors and rivals  
 - **Family**: Family connections
 - **Organizations**: Group affiliations
-
 
 ## Motivations
 - **Primary Goal**: Main objective
@@ -427,7 +424,6 @@ Legends speak of Memory Merchant Valeria Siltweave as a nexus where past and pre
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -463,3 +459,19 @@ Legends speak of Memory Merchant Valeria Siltweave as a nexus where past and pre
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[House Shadowmere (Houses_and_Nobility)]]
+- [[Merchant Family Alliances]]
+- [[Relationship Web Nuances]]
+- [[Archivist Mnemonic the Forgotten]]
+- [[Assets Locations Location City Captain Marlowe Tidecrest V1 Captain Marlowe Tidecrest.svg]]
+- [[Assets Symbols Symbol Heraldry Port Sorrow Trading Company Port Sorrow Trading Company.svg]]
+- [[His Own Shadow]]
+- [[The Sorrowmaster]]
+- [[Houses_and_Nobility - House Shadowmere]]
+- [[Archivist Mnemonic the Forgotten (D&D_Statblocks)]]
+- [[His Own Shadow (D&D_Statblocks)]]
+- [[The Sorrowmaster (D&D_Statblocks)]]

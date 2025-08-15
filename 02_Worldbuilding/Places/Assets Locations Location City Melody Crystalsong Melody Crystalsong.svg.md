@@ -226,7 +226,6 @@ Key locations marked:
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Adventure Seeds
 - Mysterious occurrence
 - Local conflict

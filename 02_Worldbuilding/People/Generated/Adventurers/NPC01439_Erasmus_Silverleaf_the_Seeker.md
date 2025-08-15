@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Silverleaf the Seeker", "erasmus silverleaf the seeker", "Erasmus Silverleaf Seeker", "Seeker the Silverleaf Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Silverleaf the Seeker
 
 *Gnome Fighter (Adventurers), Age 44, Non-binary*
@@ -36,7 +42,6 @@ Seeking vengeance for a murdered mentor They recently discovered a secret that c
 - **Short Term**: Recruit new members
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Nerys Frostwhisper the Strong (Professional - Mentor)
 - **Status**: Complicated history
@@ -52,7 +57,6 @@ Seeking vengeance for a murdered mentor They recently discovered a secret that c
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Felicia Thornweave the Strong (Professional - Employee)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
@@ -62,11 +66,9 @@ Seeking vengeance for a murdered mentor They recently discovered a secret that c
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
 
-
 ### Erasmus Keenblade the Lost (Family - Spouse)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Has died and been resurrected

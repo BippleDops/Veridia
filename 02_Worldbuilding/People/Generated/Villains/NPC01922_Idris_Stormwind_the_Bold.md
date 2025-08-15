@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Stormwind the Bold", "idris stormwind the bold", "Idris Stormwind Bold", "Bold the Stormwind Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Stormwind the Bold
 
 *Human Corrupt Noble (Villains), Age 63, Female*
@@ -42,26 +48,21 @@ Born into evil but questioning their path A chance encounter last winter changed
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
 
-
 ### Rhiannon Crystalbrook the Wise (Professional - Employer)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
-
 
 ### Aeliana Dawnstrider the Lost (Personal - Childhood friend)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Felicia Blackstone the Bold (Political - Opposition)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Wynne Emberfall the Wanderer (Family - Spouse)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Believes they're saving the world

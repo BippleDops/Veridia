@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Blackstone the Broken", "malakai blackstone the broken", "Malakai Blackstone Broken", "Broken the Blackstone Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Blackstone the Broken
 
 *Elf Appraiser (Merchants), Age 72, Male*
@@ -52,7 +58,6 @@ Uses their business as cover for other activities A chance encounter last winter
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
 ### Gareth Dawnstrider the Wanderer (Family - Child)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
@@ -62,11 +67,9 @@ Uses their business as cover for other activities A chance encounter last winter
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Ewan Frostwhisper the Redeemed (Criminal - Handler)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Running a cult from their basement

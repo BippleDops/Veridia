@@ -118,3 +118,13 @@ Mentioned in The First Prophecy of Shadows
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[Aquabyssos Trade Seal]]
+- [[Eastern Kingdoms (02_Worldbuilding)]]
+- [[The Bathyal Succession]]
+- [[Mad Oracle Thessaly]]
+- [[Madame Rosalind Goldleaf]]
+- [[Royal Palace]]
+- [[The Tidecaller (Places)]]

@@ -74,3 +74,8 @@ Mentioned in The Second Prophecy of Stars
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[List Optfeaturetype Ed]]
+- [[list-optfeaturetype-ed (lists)]]

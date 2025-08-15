@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Silverleaf", "jorah silverleaf", "Silverleaf Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Silverleaf
 
 *Tiefling Heir (Nobles), Age 59, Non-binary*
@@ -36,32 +42,26 @@ Exiled from their homeland, trying to rebuild their power base Strange abilities
 - **Short Term**: Survive until next week
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Hestara Thornweave the Scholar (Criminal - Informant)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Aldric Proudmore (Personal - Nemesis)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ### Thalia Zephyrblade the Redeemed (Personal - Best friend)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Zephyr Darkwater (Criminal - Target)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Ysara Zephyrblade the Lost (Family - Sibling)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Practicing forbidden magic

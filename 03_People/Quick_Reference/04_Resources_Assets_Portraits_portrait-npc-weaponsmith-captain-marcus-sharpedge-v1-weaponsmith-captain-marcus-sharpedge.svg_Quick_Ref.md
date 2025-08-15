@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # 04_Resources_Assets_Portraits_portrait-npc-weaponsmith-captain-marcus-sharpedge-v1-weaponsmith-captain-marcus-sharpedge.svg - Quick Reference
 
 ## Key Info

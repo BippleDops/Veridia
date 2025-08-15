@@ -1,3 +1,9 @@
+---
+aliases: ["Frost Staff of Slaying", "frost staff of slaying", "Slaying of Staff Frost"]
+tags: [item, equipment]
+type: item
+---
+
 # Frost Staff of Slaying
 
 *Weapons, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A frost staff carved from dragon bone
 - Deals extra 1d6 elemental damage
 - Can strike ethereal creatures
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -31,7 +35,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.344Z*

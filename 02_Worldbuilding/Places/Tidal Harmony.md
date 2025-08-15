@@ -38,7 +38,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -99,7 +99,7 @@ Legends speak of Tidal Harmony as a nexus where past and present converge. Local
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -120,13 +120,11 @@ Tidal Harmony is a notable location characterized by its unique features and str
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -134,13 +132,11 @@ Tidal Harmony is a notable location characterized by its unique features and str
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -192,7 +188,6 @@ Ongoing situations affecting Tidal Harmony:
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -228,3 +223,11 @@ Ongoing situations affecting Tidal Harmony:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Church of Tidal Harmony]]
+- [[Marriage Counselor Tidal Harmony]]
+- [[Marriage_Counselor_Tidal_Harmony (02_Worldbuilding)]]
+- [[Reality Breach Locations]]
+- [[Temple of the Sunken Cathedral]]

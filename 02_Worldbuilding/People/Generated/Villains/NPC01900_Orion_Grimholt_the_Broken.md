@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Grimholt the Broken", "orion grimholt the broken", "Orion Grimholt Broken", "Broken the Grimholt Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Grimholt the Broken
 
 *Elf Crime Boss (Villains), Age 24, Male*
@@ -13,7 +19,6 @@
 Tall and heavyset, with Short and neat bald hair and Heterochromic eyes. Tan skin. Prominent scar across the face.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Flirts with everyone regardless of interest; Never backs down from any challenge
@@ -36,37 +41,30 @@ Corrupted by an artifact or dark magic A family member's death has left them wit
 - **Short Term**: Gather information
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Urien Nightfall the Seeker (Political - Spy)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Alaric Darkwater the Wise (Personal - Childhood friend)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ### Kaelen Crystalbrook the Mystic (Personal - Best friend)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
 
-
 ### Cedric Stormwind the Redeemed (Professional - Rival)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ### Ysara Jadeclaw the Mystic (Professional - Partner)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Nerys Blackstone the Wanderer (Personal - Childhood friend)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Was once a renowned hero

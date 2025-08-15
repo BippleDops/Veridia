@@ -36,7 +36,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-thaddeus-blackwater-captain-thaddeus-blackwater.svg)
 
@@ -44,7 +43,6 @@ improvements: 20
 
 # Captain Thaddeus Blackwater
 *The Lost Explorer, Seeker of Truth*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -272,7 +270,6 @@ Legends speak of Captain Thaddeus Blackwater as a nexus where past and present c
 - 20% middle class
 - 79% working poor
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -308,3 +305,15 @@ Legends speak of Captain Thaddeus Blackwater as a nexus where past and present c
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Admiral Cassandra Stormwind]]
+- [[Assets Locations Location City Culinary Dreamweaver Sage Gentlespice Culinary Dreamweaver Sage Gentlespice.svg]]
+- [[Captain Blackwater]]
+- [[The Kraken's Harbor]]
+- [[Admiral Cassandra Stormwind (D&D_References)]]
+- [[Aethermoor (D&D_References)]]
+- [[The Kraken's Harbor (D&D_References)]]
+- [[The Sunken Markets (D&D_References)]]
+- [[Captain Blackwater (D&D_Statblocks)]]

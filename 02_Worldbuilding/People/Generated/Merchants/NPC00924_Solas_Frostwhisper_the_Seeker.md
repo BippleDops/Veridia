@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Frostwhisper the Seeker", "solas frostwhisper the seeker", "Solas Frostwhisper Seeker", "Seeker the Frostwhisper Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Frostwhisper the Seeker
 
 *Dwarf Broker (Merchants), Age 45, Female*
@@ -13,7 +19,6 @@
 Short and delicate, with Dreadlocks brown hair and Gray eyes. Scarred skin. Weather-beaten face showing hard life.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Sees doom and gloom everywhere; Collects unusual and worthless objects; Laughs at the most inappropriate times
@@ -36,7 +41,6 @@ Inherited a failing business and turned it around Strange abilities have begun m
 - **Short Term**: Make this month's payment
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Drusilla Thornweave the Strong (Personal - Nemesis)
 - **Status**: On the verge of collapse
@@ -46,7 +50,6 @@ Inherited a failing business and turned it around Strange abilities have begun m
 ### Rhiannon Ravenheart the Wise (Criminal - Target)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ### Ysara Frostwhisper the Fallen (Personal - Ex-lover)
 - **Status**: Professional only

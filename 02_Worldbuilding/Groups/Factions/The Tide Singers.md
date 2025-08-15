@@ -50,3 +50,8 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[02_Worldbuilding_Factions_The_Tide_Singers]]
+- [[Factions the Tide Singers]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Dawnstrider the Broken", "erasmus dawnstrider the broken", "Erasmus Dawnstrider Broken", "Broken the Dawnstrider Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Dawnstrider the Broken
 
 *Genasi Shopkeeper (Merchants), Age 61, Male*
@@ -13,7 +19,6 @@
 Tall and stocky, with Tied back white hair and Heterochromic eyes. Scarred skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Compulsive liar about minor things
@@ -36,17 +41,14 @@ Inherited a failing business and turned it around A prophetic dream has been hau
 - **Short Term**: Gather information
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Faelyn Winterborn the Risen (Professional - Employee)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Pyria Keenblade the Cunning (Political - Spy)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ### Hestara Quicksilver the Broken (Criminal - Handler)
 - **Status**: Blood oath bound
@@ -56,7 +58,6 @@ Inherited a failing business and turned it around A prophetic dream has been hau
 ### Gavril Zephyrblade the Scholar (Professional - Partner)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Killed previous business owner

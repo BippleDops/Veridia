@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Lightbringer the Mystic", "kaelen lightbringer the mystic", "Kaelen Lightbringer Mystic", "Mystic the Lightbringer Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Lightbringer the Mystic
 
 *Halfling Blacksmith (Commoners), Age 33, Non-binary*
@@ -36,27 +42,22 @@ Former soldier trying to adjust to civilian life A family member's death has lef
 - **Short Term**: Recruit new members
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Elric Lightbringer (Personal - Childhood friend)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Xander Hawthorne the Cunning (Personal - Ex-lover)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ### Baelor Proudmore the Swift (Personal - Best friend)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
 
-
 ### Thalia Ravenheart (Family - Sibling)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Is the lost heir to the throne

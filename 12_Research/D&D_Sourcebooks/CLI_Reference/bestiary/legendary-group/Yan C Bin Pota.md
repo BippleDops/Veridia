@@ -96,3 +96,14 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[07 Chapter 7 Monsters and Magic Items]]
+- [[07-chapter-7-monsters-and-magic-items (princes-of-the-apocalypse)]]
+- [[Aerisi Kalinoth Pota]]
+- [[aerisi-kalinoth-pota (legendary-group)]]
+- [[aerisi-kalinoth-pota (npc)]]
+- [[npc - Aerisi Kalinoth Pota]]
+- [[Windvane Pota]]
+- [[windvane-pota (items)]]

@@ -52,7 +52,6 @@ modified: '2025-08-14'
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Alternate Descriptions
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination

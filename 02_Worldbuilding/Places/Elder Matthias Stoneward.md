@@ -58,7 +58,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -178,7 +178,7 @@ He's been conducting discrete investigations while maintaining his regular dutie
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Matthias serves as a valuable source of information about Aethermoor's hidden areas and structural vulnerabilities. His engineering expertise can provide creative solutions to challenges or create dramatic scenarios involving the island's stability. Use his outsider perspective and growing suspicions to highlight the Silverscale Conspiracy's influence while providing a trustworthy ally for characters seeking to uncover the truth.
 
@@ -213,13 +213,11 @@ Elder Matthias Stoneward is a notable location characterized by its unique featu
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -227,13 +225,11 @@ Elder Matthias Stoneward is a notable location characterized by its unique featu
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -258,7 +254,7 @@ Ongoing situations affecting Elder Matthias Stoneward:
 - A stranger needs help delivering before the festival
 - Strange sightings suggest ancient magic
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -305,7 +301,6 @@ Ongoing situations affecting Elder Matthias Stoneward:
 - 20% middle class
 - 79% working poor
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -341,3 +336,7 @@ Ongoing situations affecting Elder Matthias Stoneward:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Elder Matthias Stoneward (D&D_References)]]

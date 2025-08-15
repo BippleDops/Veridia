@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Brightblade the Fallen", "aeliana brightblade the fallen", "Aeliana Brightblade Fallen", "Fallen the Brightblade Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Brightblade the Fallen
 
 *Firbolg Fighter (Adventurers), Age 77, Female*
@@ -13,7 +19,6 @@
 Short and imposing, with Tied back gray hair and Brown eyes. Unusual hue skin. Unusual eye color for their race.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Never backs down from any challenge
@@ -36,7 +41,6 @@ Accidentally gained powers and learning to control them A family member's death 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Cedric Keenblade the Wise (Political - Patron)
 - **Status**: On the verge of collapse
@@ -47,7 +51,6 @@ Accidentally gained powers and learning to control them A family member's death 
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Pyria Ashford the Seeker (Personal - Love interest)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
@@ -57,7 +60,6 @@ Accidentally gained powers and learning to control them A family member's death 
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Kaelen Silverleaf the Wise (Professional - Employer)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
@@ -66,7 +68,6 @@ Accidentally gained powers and learning to control them A family member's death 
 ### Cedric Underhill the Guardian (Professional - Mentor)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is from the future

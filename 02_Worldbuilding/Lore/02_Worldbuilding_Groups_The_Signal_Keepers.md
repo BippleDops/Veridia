@@ -6,7 +6,7 @@ tags: ['[[Lore]]']
 
 ## Overview
 
-02_Worldbuilding/Groups/[[The [[Signal Keepers]]]] represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
+02_Worldbuilding/Groups/[[Signal_Keepers|The [[Signal Keepers]]]] represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
 
 ## Description
 

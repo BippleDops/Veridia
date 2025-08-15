@@ -171,12 +171,10 @@ If the party chooses to proceed, they must navigate the treacherous **Leviathan 
 
 Contextual improvement based on 12_Research
 
-
 ## Pronunciation Guide
 - **Mother**: [MOTHER]
 - **Mother**: [MOTHER]
 - **Mother**: [MOTHER]
-
 
 ## Alternate Descriptions
 - **First Impression**: Initial appearance

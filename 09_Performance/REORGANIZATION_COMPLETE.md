@@ -1,3 +1,8 @@
+---
+tags: [faction, [[Organization|Organization]]]
+type: faction
+---
+
 # Content Reorganization Complete
 
 Generated: ${new Date().toISOString()}
@@ -17,8 +22,8 @@ Successfully reorganized all generated content from subdirectories to their pare
 
 Instead of:
 ```
-02_Worldbuilding/People/Generated/NPC0001.md
-02_Worldbuilding/Items/Generated/ITEM0001.md
+[[02_Worldbuilding|02_Worldbuilding]]/[[People|People]]/Generated/NPC0001.md
+02_Worldbuilding/[[Items|Items]]/Generated/ITEM0001.md
 ```
 
 Now:
@@ -42,16 +47,16 @@ To find all generated content in Obsidian:
 
 ## Statistics
 
-- NPCs: 267 files tagged
+- [[npcs|npcs]]: 267 files tagged
 - Items: 150 files tagged
-- Locations: 217 files tagged
-- Quests: 195 files tagged
+- [[locations|locations]]: 217 files tagged
+- [[Quests|Quests]]: 195 files tagged
 - Encounters: 100 files tagged
-- Lore: 100 files tagged
-- Spells: 50 files tagged
+- [[Lore|Lore]]: 100 files tagged
+- [[spells|spells]]: 50 files tagged
 - Monsters: 50 files tagged
 
 Total: 1,129+ files successfully reorganized and tagged
 
 ---
-*Reorganization script: scripts/reorganize_generated_content.js*
+*Reorganization script: [[scripts|scripts]]/reorganize_generated_content.js*

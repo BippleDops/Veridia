@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Jadeclaw the Broken", "kaelen jadeclaw the broken", "Kaelen Jadeclaw Broken", "Broken the Jadeclaw Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Jadeclaw the Broken
 
 *Halfling Cleric (Adventurers), Age 62, Non-binary*
@@ -13,7 +19,6 @@
 Short and slender, with Long and flowing brown hair and Heterochromic eyes. Brown skin. Constantly changing hair color.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Never backs down from any challenge; Compulsive liar about minor things
@@ -36,7 +41,6 @@ Chosen by fate to fulfill an ancient prophecy A prophetic dream has been hauntin
 - **Short Term**: Recruit new members
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Drusilla Ironforge the Lost (Personal - Best friend)
 - **Status**: One-sided affection
@@ -47,11 +51,9 @@ Chosen by fate to fulfill an ancient prophecy A prophetic dream has been hauntin
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Xander Ironwood the Fallen (Political - Spy)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ### Xander Moonshadow the Fallen (Personal - Childhood friend)
 - **Status**: Complicated history
@@ -61,7 +63,6 @@ Chosen by fate to fulfill an ancient prophecy A prophetic dream has been hauntin
 ### Gareth Frostwhisper the Mystic (Professional - Employer)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
-
 
 ### Jorah Underhill the Cunning (Criminal - Target)
 - **Status**: Strained but maintaining

@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Zephyrblade the Cunning", "kaelen zephyrblade the cunning", "Kaelen Zephyrblade Cunning", "Cunning the Zephyrblade Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Zephyrblade the Cunning
 
 *Genasi Bard (Adventurers), Age 32, Male*
@@ -36,17 +42,14 @@ Seeking vengeance for a murdered mentor A prophetic dream has been haunting them
 - **Short Term**: Avoid the authorities
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Orion Xendar the Seeker (Criminal - Fence)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
 
-
 ### Rhiannon Winterborn the Seeker (Professional - Rival)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
-
 
 ### Idris Brightblade the Scholar (Personal - Best friend)
 - **Status**: Recently reconciled
@@ -61,7 +64,6 @@ Seeking vengeance for a murdered mentor A prophetic dream has been haunting them
 ### Vesper Ironwood the Wanderer (Family - Child)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Carries a world-ending artifact

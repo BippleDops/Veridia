@@ -175,3 +175,25 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Incubus Xmm]]
+- [[Succubus Xmm]]
+- [[succubus-xmm (fiend)]]
+- [[Deck of Illusions Xdmg]]
+- [[deck-of-illusions-xdmg (decks)]]
+- [[Deck of Illusions Xdmg (items)]]
+- [[Iron Flask Xdmg]]
+- [[deck-of-illusions-xdmg (items)]]
+- [[iron-flask-xdmg (items)]]
+- [[Monsters by Habitat Urban Monsters Xmm]]
+- [[Urban Encounters Levels 1116 Xge]]
+- [[Urban Encounters Levels 14 Xge]]
+- [[Urban Encounters Levels 1720 Xge]]
+- [[Urban Encounters Levels 510 Xge]]
+- [[monsters-by-habitat-urban-monsters-xmm (tables)]]
+- [[urban-encounters-levels-1116-xge (tables)]]
+- [[urban-encounters-levels-14-xge (tables)]]
+- [[urban-encounters-levels-1720-xge (tables)]]
+- [[urban-encounters-levels-510-xge (tables)]]

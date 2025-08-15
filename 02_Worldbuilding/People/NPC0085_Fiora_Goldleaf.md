@@ -1,11 +1,11 @@
 ---
+aliases: ["Fiora Goldleaf", "fiora goldleaf", "Goldleaf Fiora"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -91,7 +91,6 @@ Arcana, Insight
 
 ---
 *Generated: 2025-08-15T03:20:13.081Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

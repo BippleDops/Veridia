@@ -2,7 +2,7 @@
 tags: ['[[Lore]]']
 ---
 
-# [[02 Worldbuilding]]/Lore/[[Surface World Theories]]
+# [[02_Worldbuilding|02 Worldbuilding]]/Lore/[[Surface World Theories]]
 
 ## Overview
 

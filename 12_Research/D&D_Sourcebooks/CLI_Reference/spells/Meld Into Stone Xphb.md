@@ -104,3 +104,15 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Mind Flayer Psion Vgm]]
+- [[mind-flayer-psion-vgm (aberration)]]
+- [[Lizardfolk Geomancer Xmm]]
+- [[lizardfolk-geomancer-xmm (elemental)]]
+- [[Korred Mpmm]]
+- [[korred-mpmm (fey)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]

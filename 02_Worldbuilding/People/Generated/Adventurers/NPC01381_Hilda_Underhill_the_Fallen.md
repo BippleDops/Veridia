@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Underhill the Fallen", "hilda underhill the fallen", "Hilda Underhill Fallen", "Fallen the Underhill Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Underhill the Fallen
 
 *Halfling Bard (Adventurers), Age 64, Female*
@@ -42,7 +48,6 @@ Running from a dark past that won't stay buried Strange abilities have begun man
 - **Status**: Recently reconciled
 - **History**: United by common enemy
 
-
 ### Baelor Zephyrblade the Guardian (Personal - Love interest)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
@@ -51,7 +56,6 @@ Running from a dark past that won't stay buried Strange abilities have begun man
 ### Qadim Jadeclaw the Broken (Political - Spy)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
-
 
 ### Lyanna Moonshadow the Fallen (Professional - Rival)
 - **Status**: One-sided affection

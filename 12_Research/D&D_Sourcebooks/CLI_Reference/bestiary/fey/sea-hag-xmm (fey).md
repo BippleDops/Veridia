@@ -174,3 +174,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Sea Hag Xmm]]
+- [[Monsters by Habitat Coastal Monsters Xmm]]
+- [[Monsters by Habitat Underwater Monsters Xmm]]
+- [[Undersea Encounters]]
+- [[Underwater Encounters Levels 14 Xge]]
+- [[Underwater Encounters Levels 510 Xge]]
+- [[monsters-by-habitat-coastal-monsters-xmm (tables)]]
+- [[monsters-by-habitat-underwater-monsters-xmm (tables)]]
+- [[undersea-encounters (tables)]]
+- [[underwater-encounters-levels-14-xge (tables)]]
+- [[underwater-encounters-levels-510-xge (tables)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Void-touched Mirror of Eternity", "void-touched mirror of eternity", "Eternity of Mirror Void-touched"]
+tags: [item, equipment]
+type: item
+---
+
 # Void-touched Mirror of Eternity
 
 *Artifacts, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A void-touched mirror radiating otherworldly power
 - Plane shift 1/day
 - Cast spell 3/day
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -32,7 +36,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.435Z*

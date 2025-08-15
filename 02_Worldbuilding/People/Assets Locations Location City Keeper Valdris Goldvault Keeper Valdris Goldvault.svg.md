@@ -224,3 +224,7 @@ Mentioned in The Hidden Prophecy of Winds
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-dockmaster-bruno-steadyanchor-v1-dockmaster-bruno-steadyanchor.svg]]

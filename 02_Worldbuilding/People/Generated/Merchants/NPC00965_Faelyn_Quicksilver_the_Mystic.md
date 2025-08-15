@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Quicksilver the Mystic", "faelyn quicksilver the mystic", "Faelyn Quicksilver Mystic", "Mystic the Quicksilver Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Quicksilver the Mystic
 
 *Halfling Broker (Merchants), Age 51, Male*
@@ -42,11 +48,9 @@ Inherited a failing business and turned it around A family member's death has le
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
 
-
 ### Aeliana Underhill the Bold (Professional - Employer)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
-
 
 ### Urien Underhill the Lost (Criminal - Accomplice)
 - **Status**: Mutually beneficial
@@ -61,7 +65,6 @@ Inherited a failing business and turned it around A family member's death has le
 ### Corvus Ironwood the Strong (Professional - Employer)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Killed previous business owner

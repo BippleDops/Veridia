@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Stormwind the Risen", "hilda stormwind the risen", "Hilda Stormwind Risen", "Risen the Stormwind Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Stormwind the Risen
 
 *Dwarf Rogue (Adventurers), Age 23, Male*
@@ -36,7 +42,6 @@ Seeking vengeance for a murdered mentor They're being blackmailed by someone fro
 - **Short Term**: Survive until next week
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Caelum Oakenshield the Wanderer (Personal - Love interest)
 - **Status**: Secretly hostile
@@ -47,26 +52,21 @@ Seeking vengeance for a murdered mentor They're being blackmailed by someone fro
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Ewan Frostwhisper the Guardian (Political - Opposition)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ### Kaelen Lightbringer the Redeemed (Criminal - Informant)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Thalia Darkwater the Guardian (Family - Cousin)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Ewan Proudmore the Cunning (Personal - Best friend)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Is from the future

@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Keenblade the Strong", "elric keenblade the strong", "Elric Keenblade Strong", "Strong the Keenblade Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Keenblade the Strong
 
 *Half-Orc Dark Wizard (Villains), Age 35, Female*
@@ -36,12 +42,10 @@ Believes their evil acts serve a greater good Strange abilities have begun manif
 - **Short Term**: Recruit new members
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Wynne Darkwater the Cunning (Professional - Employee)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ### Jorah Emberfall the Wise (Personal - Ex-lover)
 - **Status**: Secretly hostile

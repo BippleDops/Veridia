@@ -75,3 +75,10 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Archivist Mnemonic the Forgotten]]
+- [[Memory Harvester Kythara]]
+- [[Archivist Mnemonic the Forgotten (D&D_Statblocks)]]
+- [[Memory Harvester Kythara (D&D_Statblocks)]]

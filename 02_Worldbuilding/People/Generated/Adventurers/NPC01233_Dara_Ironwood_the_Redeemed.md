@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Ironwood the Redeemed", "dara ironwood the redeemed", "Dara Ironwood Redeemed", "Redeemed the Ironwood Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Ironwood the Redeemed
 
 *Goliath Rogue (Adventurers), Age 74, Male*
@@ -36,27 +42,22 @@ Searching for a legendary treasure their parent died seeking An old debt has com
 - **Short Term**: Avoid the authorities
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Vesper Jadeclaw the Risen (Family - Cousin)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Alaric Proudmore the Redeemed (Personal - Ex-lover)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ### Thalia Blackstone the Strong (Political - Spy)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Solas Winterborn the Swift (Family - Child)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Is from the future

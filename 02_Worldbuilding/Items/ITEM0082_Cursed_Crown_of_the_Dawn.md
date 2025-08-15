@@ -1,4 +1,5 @@
 ---
+aliases: ["Cursed Crown of the Dawn", "cursed crown of the dawn", "Cursed Crown of Dawn", "Dawn the of Crown Cursed"]
 tags: [generated]
 id: ITEM0082
 created: 2025-08-15T04:09:51.104Z
@@ -18,8 +19,6 @@ Crafted from darkwood with battle scars, in recently restored. It emanates a fai
 
 ## Quirk
 *Vibrates near magic*
-
-
 
 ## History
 This item was created to seal an ancient evil millennia ago. It has passed through many hands, each leaving their mark upon its destiny.

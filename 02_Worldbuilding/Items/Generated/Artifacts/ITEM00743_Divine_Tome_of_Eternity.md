@@ -1,3 +1,9 @@
+---
+aliases: ["Divine Tome of Eternity", "divine tome of eternity", "Eternity of Tome Divine"]
+tags: [item, equipment]
+type: item
+---
+
 # Divine Tome of Eternity
 
 *Artifacts, Very Rare*
@@ -16,8 +22,6 @@ A divine tome pulsing with inner light
 - Time stop 1/week
 - Plane shift 1/day
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -32,7 +36,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.422Z*

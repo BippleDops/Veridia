@@ -169,7 +169,6 @@ Mentioned in The Second Prophecy of Winds
 
 Contextual improvement based on 12_Research
 
-
 ## Scaling by Party Level
 - **Level 1-4**: Reduce enemies
 - **Level 5-10**: Standard difficulty

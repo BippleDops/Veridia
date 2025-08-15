@@ -1,4 +1,5 @@
 ---
+aliases: ["The Shadow Realm Plague", "the shadow realm plague", "Plague Realm Shadow The"]
 tags: [generated]
 id: QUEST0018
 created: 2025-08-15T04:09:51.373Z
@@ -21,8 +22,6 @@ Safely deliver the ambassador to the capital
 
 ### Secondary
 - Document findings for scholars
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they found an ancient artifact, which changed their life forever. Now, circumstances demand immediate action.

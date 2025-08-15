@@ -116,3 +116,7 @@ Mentioned in The Hidden Prophecy of Shadows
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Assets Portraits Portrait NPC Captain Depths Walker Marina Captain Depths Walker Marina.svg]]

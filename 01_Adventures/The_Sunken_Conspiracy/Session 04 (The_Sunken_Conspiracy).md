@@ -122,7 +122,6 @@ The main reason parties get involved
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Preparation Checklist
 - [ ] Review previous session
 - [ ] Prepare NPC voices

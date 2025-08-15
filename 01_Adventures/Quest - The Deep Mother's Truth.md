@@ -14,7 +14,6 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 > [!figure] Asset
 ![](04_Resources/Assets/Portraits/portrait-npc-quest-the-deep-mother-s-truth-quest-the-deep-mother-s-truth.svg)
 
@@ -37,12 +36,10 @@ world: Both
 
 > [!figure] Portrait
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -170,7 +167,6 @@ Contextual improvement based on 12_Research
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Hooks
 - **Personal**: Character connection

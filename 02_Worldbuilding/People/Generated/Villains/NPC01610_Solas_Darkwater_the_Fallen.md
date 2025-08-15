@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Darkwater the Fallen", "solas darkwater the fallen", "Solas Darkwater Fallen", "Fallen the Darkwater Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Darkwater the Fallen
 
 *Firbolg Assassin (Villains), Age 54, Male*
@@ -42,26 +48,21 @@ Corrupted by an artifact or dark magic Strange abilities have begun manifesting 
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Dara Youngblood the Swift (Criminal - Handler)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ### Brenna Hawthorne the Seeker (Personal - Nemesis)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Jorah Thornweave the Redeemed (Political - Spy)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
 
-
 ### Urien Stormwind the Broken (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Has a child they're protecting

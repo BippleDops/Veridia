@@ -1,4 +1,5 @@
 ---
+aliases: ["Bone Howler", "bone howler", "Howler Bone"]
 tags: [generated]
 id: MON0022_Bone_Howler
 created: 2025-08-15T04:09:51.427Z
@@ -28,7 +29,6 @@ An ancient being of immense power and malevolence
 
 ---
 *Generated: 2025-08-15T03:21:47.463Z*
-
 
 ## Habitat
 - Natural environment and territories

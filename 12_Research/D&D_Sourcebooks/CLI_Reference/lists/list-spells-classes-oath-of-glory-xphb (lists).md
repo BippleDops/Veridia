@@ -62,7 +62,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Mentioned in The Second Prophecy of Shadows
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -81,4 +80,4 @@ Mentioned in The Second Prophecy of Shadows
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[list-spells-classes-oath-of-glory-xphb (lists)-phb]]` in CLI_Reference/spells/
+See: `[[classes|list-spells-classes-oath-of-glory-xphb (lists)-phb]]` in CLI_Reference/spells/

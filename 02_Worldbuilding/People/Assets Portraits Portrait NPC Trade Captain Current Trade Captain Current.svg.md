@@ -183,7 +183,7 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[Quest   The Throne Succession]] (enemy)
 - [[Captain Torrent Swiftcurrent]] (colleague)
-- [[NPC Cross World Connections]] (colleague)
+- [[Npc|NPC Cross World Connections]] (colleague)
 ---
 *Tags*: #npc #contact #worldbuilding
 

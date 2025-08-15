@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Dawnstrider", "ysara dawnstrider", "Dawnstrider Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Dawnstrider
 
 *Firbolg Heir (Nobles), Age 18, Female*
@@ -47,16 +53,13 @@ Secretly adopted into nobility, living in fear of discovery A chance encounter l
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
 
-
 ### Gavril Darkwater the Bold (Political - Patron)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Pyria Jadeclaw the Guardian (Family - Spouse)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ### Aeliana Moonshadow the Redeemed (Family - Spouse)
 - **Status**: Blood oath bound

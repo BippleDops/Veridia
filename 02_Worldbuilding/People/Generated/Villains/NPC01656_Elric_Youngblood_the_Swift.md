@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Youngblood the Swift", "elric youngblood the swift", "Elric Youngblood Swift", "Swift the Youngblood Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Youngblood the Swift
 
 *Human Dark Wizard (Villains), Age 18, Female*
@@ -42,7 +48,6 @@ Born into evil but questioning their path A chance encounter last winter changed
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
 
-
 ### Hestara Youngblood the Broken (Political - Opposition)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
@@ -52,16 +57,13 @@ Born into evil but questioning their path A chance encounter last winter changed
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Hestara Darkwater the Bold (Political - Opposition)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Aldric Keenblade the Guardian (Personal - Ex-lover)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Believes they're saving the world

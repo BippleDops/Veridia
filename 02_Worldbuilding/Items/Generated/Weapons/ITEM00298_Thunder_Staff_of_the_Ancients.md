@@ -1,3 +1,9 @@
+---
+aliases: ["Thunder Staff of the Ancients", "thunder staff of the ancients", "Thunder Staff of Ancients", "Ancients the of Staff Thunder"]
+tags: [item, equipment]
+type: item
+---
+
 # Thunder Staff of the Ancients
 
 *Weapons, Legendary*
@@ -16,8 +22,6 @@ A thunder staff made of crystallized magic
 - +2 to attack and damage rolls
 - Critical hits on 19-20
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -32,7 +36,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.368Z*

@@ -22,7 +22,7 @@ tags:
 - note
 - content/item
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/[[Compendium|Compendium]]/src/5e/xphb
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -34,7 +34,7 @@ world: Both
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Items/item-artifact-shawm-xphb-shawm-xphb.svg)
+![]([[04_Resources|04_Resources]]/[[Assets|Assets]]/[[Items|Items]]/item-artifact-shawm-xphb-shawm-xphb.svg)
 
 # Shawm
 *Instrument*  
@@ -59,15 +59,15 @@ world: Both
 
 - Add 12_Research-specific enhancement
 
-## Player-Facing Summary
+## Player-[[facing|facing]] Summary
 
 Shawm xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore|Lore]] Details
 
-Legends speak of shawm xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around shawm xphb.
+Legends speak of shawm xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or [[Whispers|Whispers]] on the wind—that herald change around shawm xphb.
 
-## DM Notes
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -78,3 +78,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+---
+**Navigation**: [[INDEX|🏠 Home]] | [[INDEX|📚 Index]]
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Musical Instrument Xphb]]
+- [[musical-instrument-xphb (items)]]
+- [[Tools Phb]]
+- [[tools-phb (tables)]]

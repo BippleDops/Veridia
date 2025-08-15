@@ -1,4 +1,5 @@
 ---
+aliases: ["In Search of Redemption", "in search of redemption", "Redemption of Search In"]
 tags: [generated]
 id: QUEST0067
 created: 2025-08-15T04:09:51.401Z
@@ -22,8 +23,6 @@ Discover the truth behind the disappearances
 ### Secondary
 - Document findings for scholars
 - Minimize civilian casualties
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they made a deal they now regret, which changed their life forever. Now, circumstances demand immediate action.

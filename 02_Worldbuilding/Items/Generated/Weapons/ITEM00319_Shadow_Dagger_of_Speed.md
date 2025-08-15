@@ -1,3 +1,9 @@
+---
+aliases: ["Shadow Dagger of Speed", "shadow dagger of speed", "Speed of Dagger Shadow"]
+tags: [item, equipment]
+type: item
+---
+
 # Shadow Dagger of Speed
 
 *Weapons, Legendary*
@@ -16,8 +22,6 @@ A shadow dagger made of crystallized magic
 - Deals extra 1d6 elemental damage
 - Returns when thrown
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -32,7 +36,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.371Z*

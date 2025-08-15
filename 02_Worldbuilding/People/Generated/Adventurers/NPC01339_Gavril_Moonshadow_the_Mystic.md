@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Moonshadow the Mystic", "gavril moonshadow the mystic", "Gavril Moonshadow Mystic", "Mystic the Moonshadow Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Moonshadow the Mystic
 
 *Half-Orc Cleric (Adventurers), Age 34, Female*
@@ -42,21 +48,17 @@ Chosen by fate to fulfill an ancient prophecy A chance encounter last winter cha
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Rhiannon Keenblade the Mystic (Criminal - Accomplice)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ### Hilda Voidwalker the Risen (Family - Cousin)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
 
-
 ### Gareth Underhill the Mystic (Criminal - Fence)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ### Vesper Quicksilver the Risen (Professional - Rival)
 - **Status**: Secretly hostile

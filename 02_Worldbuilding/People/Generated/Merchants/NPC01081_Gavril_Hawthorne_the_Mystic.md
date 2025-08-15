@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Hawthorne the Mystic", "gavril hawthorne the mystic", "Gavril Hawthorne Mystic", "Mystic the Hawthorne Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Hawthorne the Mystic
 
 *Elf Appraiser (Merchants), Age 37, Female*
@@ -13,7 +19,6 @@
 Above average and lanky, with Braided elaborately white hair and Brown eyes. Pale skin. Birthmark shaped like a constellation.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Never uses people's real names
@@ -42,26 +47,21 @@ Inherited a failing business and turned it around An old debt has come due at th
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Hestara Moonshadow the Cunning (Political - Patron)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ### Kaelen Stormwind the Strong (Political - Spy)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Aldric Ironforge the Lost (Personal - Childhood friend)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Erasmus Blackstone the Wanderer (Professional - Employer)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Smuggles illegal magical items

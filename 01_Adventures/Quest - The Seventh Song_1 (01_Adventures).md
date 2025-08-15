@@ -28,15 +28,12 @@ improvements: 20
 - Time pressure
 - Moral dilemmas
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
 
-
 > [!figure] Portrait
-
 
 ## Objectives
 ### Primary
@@ -285,7 +282,6 @@ Member of House Dragonblood - Trait: divine blood
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Hooks
 - **Personal**: Character connection

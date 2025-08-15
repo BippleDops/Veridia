@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Youngblood", "felicia youngblood", "Youngblood Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Youngblood
 
 *Dwarf Noble (Nobles), Age 62, Female*
@@ -13,7 +19,6 @@
 Above average and heavyset, with Shaved brown hair and Black eyes. Fair skin. Weather-beaten face showing hard life.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Never backs down from any challenge
@@ -36,27 +41,22 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Short Term**: Avoid the authorities
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Thalia Hawthorne the Swift (Criminal - Target)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Drusilla Crystalbrook (Personal - Childhood friend)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ### Caelum Jadeclaw the Wanderer (Professional - Partner)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Xander Brightblade the Wise (Family - Child)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
-
 
 ### Branwen Ravenheart (Criminal - Accomplice)
 - **Status**: One-sided affection
@@ -66,7 +66,6 @@ Recently elevated to nobility through service, still learning courtly ways They'
 ### Wynne Blackstone (Political - Ally)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Secretly funding the rebellion

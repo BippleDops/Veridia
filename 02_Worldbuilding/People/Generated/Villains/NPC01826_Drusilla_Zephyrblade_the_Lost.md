@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Zephyrblade the Lost", "drusilla zephyrblade the lost", "Drusilla Zephyrblade Lost", "Lost the Zephyrblade Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Zephyrblade the Lost
 
 *Half-Orc Dark Wizard (Villains), Age 74, Male*
@@ -13,7 +19,6 @@
 Above average and muscular, with Short and neat white hair and Black eyes. Olive skin. Missing ear from old battle.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Compulsive liar about minor things; Sees doom and gloom everywhere
@@ -36,22 +41,18 @@ Born into evil but questioning their path A family member's death has left them 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Vesper Oakenshield the Bold (Personal - Ex-lover)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Hilda Dawnstrider the Lost (Political - Spy)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Qadim Xendar the Redeemed (Family - Cousin)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Has a child they're protecting

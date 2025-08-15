@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Voidwalker the Mystic", "rhiannon voidwalker the mystic", "Rhiannon Voidwalker Mystic", "Mystic the Voidwalker Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Voidwalker the Mystic
 
 *Half-Orc Appraiser (Merchants), Age 40, Female*
@@ -36,7 +42,6 @@ Part of a merchant family with connections everywhere They've made a deal they'r
 - **Short Term**: Make this month's payment
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Nerys Jadeclaw the Wanderer (Personal - Best friend)
 - **Status**: Recently reconciled
@@ -47,7 +52,6 @@ Part of a merchant family with connections everywhere They've made a deal they'r
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Orion Hawthorne the Strong (Personal - Best friend)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
@@ -57,11 +61,9 @@ Part of a merchant family with connections everywhere They've made a deal they'r
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
 
-
 ### Solas Lightbringer the Mystic (Personal - Childhood friend)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Killed previous business owner

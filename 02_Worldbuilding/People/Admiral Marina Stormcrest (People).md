@@ -26,8 +26,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
-
 ## Relationships
 - **Allies**: Notable allies and friends
 - **Rivals**: Competitors and rivals  
@@ -212,7 +210,6 @@ This NPC can serve multiple roles:
 
 Mentioned in The Hidden Prophecy of Shadows
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -248,3 +245,7 @@ Mentioned in The Hidden Prophecy of Shadows
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-dr-siphon-gillwater-dr-siphon-gillwater.png]]

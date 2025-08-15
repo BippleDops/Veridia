@@ -1,3 +1,9 @@
+---
+aliases: ["Refined Salve of Vigor", "refined salve of vigor", "Vigor of Salve Refined"]
+tags: [item, equipment]
+type: item
+---
+
 # Refined Salve of Vigor
 
 *Consumables, Common*
@@ -13,8 +19,6 @@ A refined salve glowing softly
 ## Properties
 - Restore 4d4+4 hit points
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -29,7 +33,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.471Z*

@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Keenblade the Scholar", "faelyn keenblade the scholar", "Faelyn Keenblade Scholar", "Scholar the Keenblade Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Keenblade the Scholar
 
 *Genasi Corrupt Noble (Villains), Age 56, Non-binary*
@@ -36,22 +42,18 @@ Driven mad by knowledge humanity wasn't meant to know An old debt has come due a
 - **Short Term**: Avoid the authorities
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Idris Goldleaf the Seeker (Criminal - Informant)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Elric Stormwind the Redeemed (Political - Spy)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Malakai Silverleaf the Fallen (Political - Ally)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Was once a renowned hero

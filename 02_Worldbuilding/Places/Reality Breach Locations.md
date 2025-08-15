@@ -42,7 +42,6 @@ improvements: 20
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-reality-breach-locations-reality-breach-locations.svg)
 
@@ -52,20 +51,17 @@ improvements: 20
 
 *"Here the world grows thin, and through the cracks, She watches."*
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -87,7 +83,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -252,7 +248,7 @@ Reality Breach Locations are areas where strange phenomena occur due to "geologi
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Breach sites work best as investigative locations that gradually reveal their true nature. Start with subtle wrongness that players can rationalize, then slowly introduce elements that can't be explained normally. Each breach should feel unique while supporting the overall Deep Mother narrative.
 
@@ -312,7 +308,6 @@ Ongoing situations affecting Reality Breach Locations:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions

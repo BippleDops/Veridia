@@ -97,3 +97,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Paladin Xphb Oath of Redemption Xge]]
+- [[paladin-xphb-oath-of-redemption-xge (classes)]]
+- [[Cube of Force Xdmg]]
+- [[cube-of-force-xdmg (items)]]

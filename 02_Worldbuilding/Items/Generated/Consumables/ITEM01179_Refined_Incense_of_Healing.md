@@ -1,3 +1,9 @@
+---
+aliases: ["Refined Incense of Healing", "refined incense of healing", "Healing of Incense Refined"]
+tags: [item, equipment]
+type: item
+---
+
 # Refined Incense of Healing
 
 *Consumables, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A refined incense emanating sweet fragrance
 - Breathe underwater 1 hour
 - Resistance for 10 minutes
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -31,7 +35,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.463Z*

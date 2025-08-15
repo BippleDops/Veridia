@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Frostwhisper the Lost", "dara frostwhisper the lost", "Dara Frostwhisper Lost", "Lost the Frostwhisper Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Frostwhisper the Lost
 
 *Genasi Bard (Adventurers), Age 52, Male*
@@ -36,7 +42,6 @@ Seeking vengeance for a murdered mentor They recently discovered a secret that c
 - **Short Term**: Recruit new members
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Elric Stormwind the Cunning (Family - Child)
 - **Status**: On the verge of collapse
@@ -47,16 +52,13 @@ Seeking vengeance for a murdered mentor They recently discovered a secret that c
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Brenna Ironforge the Wanderer (Personal - Ex-lover)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Faelyn Jadeclaw the Bold (Professional - Employee)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Carries a world-ending artifact

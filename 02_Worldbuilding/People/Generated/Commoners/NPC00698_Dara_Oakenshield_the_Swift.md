@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Oakenshield the Swift", "dara oakenshield the swift", "Dara Oakenshield Swift", "Swift the Oakenshield Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Oakenshield the Swift
 
 *Aasimar Farmer (Commoners), Age 42, Non-binary*
@@ -13,7 +19,6 @@
 Very short and athletic, with Partially shaved bald hair and Hazel eyes. Pale skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Laughs at the most inappropriate times
@@ -46,7 +51,6 @@ Family has worked the same trade for generations, but times are changing They've
 ### Faelyn Silverleaf the Bold (Family - Cousin)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ### Felicia Youngblood the Risen (Personal - Love interest)
 - **Status**: Strained but maintaining

@@ -1,3 +1,9 @@
+---
+aliases: ["Pure Incense of Fortune", "pure incense of fortune", "Fortune of Incense Pure"]
+tags: [item, equipment]
+type: item
+---
+
 # Pure Incense of Fortune
 
 *Consumables, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A pure incense swirling with colors
 - Resistance for 10 minutes
 - Resistance for 10 minutes
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -31,7 +35,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.463Z*

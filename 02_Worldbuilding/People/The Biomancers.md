@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-biomancers-the-biomancers.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -259,7 +257,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -295,3 +292,26 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assassin]]
+- [[Assets Locations Location City Scout Captain Vera Deepwatch Scout Captain Vera Deepwatch.svg]]
+- [[Assets Portraits Portrait NPC Lord Marcus Shadowbane Lord Marcus Shadowbane.svg]]
+- [[Crystal Wardens (People)]]
+- [[His Own Shadow]]
+- [[Knight]]
+- [[Oracle]]
+- [[The Barnacle]]
+- [[The Sorrowmaster]]
+- [[Vex Shadowthorn's Apprentices]]
+- [[Lumengarde]]
+- [[Lumengarde (D&D_References)]]
+- [[Vex Shadowthorn's Apprentices (D&D_References)]]
+- [[Abyssal Cathedral]]
+- [[Assassin (D&D_Statblocks)]]
+- [[His Own Shadow (D&D_Statblocks)]]
+- [[Knight (D&D_Statblocks)]]
+- [[Oracle (D&D_Statblocks)]]
+- [[The Barnacle (D&D_Statblocks)]]
+- [[The Sorrowmaster (D&D_Statblocks)]]

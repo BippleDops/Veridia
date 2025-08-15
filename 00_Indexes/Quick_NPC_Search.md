@@ -51,7 +51,6 @@ modified: '2025-08-14'
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Alternate Descriptions
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
@@ -60,3 +59,27 @@ modified: '2025-08-14'
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition
+
+## Description
+
+*To be added*
+
+## Appearance
+
+*To be added*
+
+## Personality
+
+*To be added*
+
+## Background
+
+*To be added*
+
+## Relationships
+
+*To be added*
+
+## Plot Hooks
+
+*To be added*

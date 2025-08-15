@@ -179,7 +179,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[Surface Supremacists]] (colleague)
-- [[npc directory.base]] (friend)
+- [[Npc Directory.base|npc directory.base]] (friend)
 - [[Shadow touched Communities]] (rival)
 ---
 *Tags*: #npc #contact #worldbuilding
@@ -217,3 +217,7 @@ Mentioned in The Second Prophecy of Stars
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[Assets Locations Location City Master Gardener Sage Harmony Bloomtender V1 Master Gardener Sage Harmony Bloomtender.svg]]

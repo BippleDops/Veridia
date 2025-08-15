@@ -18,16 +18,13 @@ updated: 2025-08-14
 - **East**: River crossing
 - **West**: Mountain pass
 
-
 # The Twilight Reaches
-
 
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
 - **Law Enforcement**: Town guard
 - **Justice System**: Local magistrate
-
 
 ## Economy
 - **Primary Exports**: Local goods
@@ -46,7 +43,6 @@ The approach to The Twilight Reaches reveals its significance through architectu
 
 ### Interior
 Within The Twilight Reaches, visitors find a carefully designed space serving multiple purposes.
-
 
 ## Demographics
 - **Population**: ~1,000
@@ -84,7 +80,6 @@ Recent developments have brought new attention to The Twilight Reaches, creating
 ## DM Notes
 *The Twilight Reaches can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -120,3 +115,8 @@ Recent developments have brought new attention to The Twilight Reaches, creating
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[02_Worldbuilding_Places_The_Twilight_Reaches]]
+- [[Surface Signals]]

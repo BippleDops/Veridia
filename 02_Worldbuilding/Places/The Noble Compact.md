@@ -123,13 +123,11 @@ The Noble Compact is a notable location characterized by its unique features and
 ### Founding
 The Noble Compact was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -137,13 +135,11 @@ The Noble Compact was established in the distant past, growing from humble begin
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -194,7 +190,6 @@ Ongoing situations affecting The Noble Compact:
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -230,3 +225,8 @@ Ongoing situations affecting The Noble Compact:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Noble Quarter]]
+- [[Noble Quarter (D&D_Statblocks)]]

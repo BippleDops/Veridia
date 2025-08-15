@@ -108,3 +108,7 @@ Mentioned in The Second Prophecy of Depths
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Assets Portraits Portrait NPC Captain Elara Shadowshard Captain Elara Shadowshard.svg]]

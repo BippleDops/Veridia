@@ -1,4 +1,5 @@
 ---
+aliases: ["History of the First King", "history of the first king", "History of First King", "King First the of History"]
 tags: [generated]
 id: LORE0040_History_of_the_First_King
 created: 2025-08-15T04:09:51.139Z

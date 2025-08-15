@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Frostwhisper the Lost", "qadim frostwhisper the lost", "Qadim Frostwhisper Lost", "Lost the Frostwhisper Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Frostwhisper the Lost
 
 *Dragonborn Fighter (Adventurers), Age 36, Male*
@@ -36,17 +42,14 @@ Chosen by fate to fulfill an ancient prophecy They recently discovered a secret 
 - **Short Term**: Sabotage competition
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Pyria Goldleaf the Seeker (Family - Cousin)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
 
-
 ### Brenna Thornweave the Broken (Criminal - Accomplice)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ### Caelum Oakenshield the Seeker (Political - Puppet)
 - **Status**: Recently reconciled
@@ -57,7 +60,6 @@ Chosen by fate to fulfill an ancient prophecy They recently discovered a secret 
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Lyanna Nightfall the Redeemed (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
@@ -66,7 +68,6 @@ Chosen by fate to fulfill an ancient prophecy They recently discovered a secret 
 ### Dara Ashford the Wanderer (Family - Parent)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Secretly working for the villain

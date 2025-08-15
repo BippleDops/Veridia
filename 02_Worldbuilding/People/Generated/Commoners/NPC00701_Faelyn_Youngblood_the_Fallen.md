@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Youngblood the Fallen", "faelyn youngblood the fallen", "Faelyn Youngblood Fallen", "Fallen the Youngblood Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Youngblood the Fallen
 
 *Gnome Fisher (Commoners), Age 35, Female*
@@ -36,27 +42,22 @@ Family has worked the same trade for generations, but times are changing They re
 - **Short Term**: Complete current contract
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Erasmus Frostwhisper the Wanderer (Professional - Mentor)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Xander Brightblade the Strong (Professional - Employee)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ### Idris Zephyrblade the Mystic (Family - Child)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
 
-
 ### Branwen Winterborn the Strong (Personal - Nemesis)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Can hear the thoughts of others

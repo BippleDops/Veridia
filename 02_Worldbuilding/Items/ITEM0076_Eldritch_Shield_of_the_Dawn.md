@@ -1,4 +1,5 @@
 ---
+aliases: ["Eldritch Shield of the Dawn", "eldritch shield of the dawn", "Eldritch Shield of Dawn", "Dawn the of Shield Eldritch"]
 tags: [generated]
 id: ITEM0076
 created: 2025-08-15T04:09:51.102Z

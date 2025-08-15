@@ -1,4 +1,5 @@
 ---
+aliases: ["Blessed Circlet of the Dawn", "blessed circlet of the dawn", "Blessed Circlet of Dawn", "Dawn the of Circlet Blessed"]
 tags: [generated]
 id: ITEM0121
 created: 2025-08-15T04:09:51.116Z
@@ -19,8 +20,6 @@ Crafted from starfall iron with battle scars, in recently restored. It emanates 
 
 ## Quirk
 *Vibrates near magic*
-
-
 
 ## History
 This item was hidden away by its last owner ages ago. It has passed through many hands, each leaving their mark upon its destiny.

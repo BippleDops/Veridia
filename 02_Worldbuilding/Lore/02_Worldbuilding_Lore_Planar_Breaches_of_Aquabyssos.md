@@ -2,7 +2,7 @@
 tags: ['[[Lore]]']
 ---
 
-# [[02 Worldbuilding]]/Lore/Planar Breaches of [[Aquabyssos]]
+# [[02_Worldbuilding|02 Worldbuilding]]/Lore/Planar Breaches of [[Aquabyssos]]
 
 ## Overview
 

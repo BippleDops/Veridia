@@ -14,7 +14,6 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 > [!figure] Asset
 ![](04_Resources/Assets/Locations/location-city-quest-harbor-security-quest-harbor-security.svg)
 
@@ -38,12 +37,10 @@ danger_level: Moderate
 
 > [!figure] View
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -166,7 +163,6 @@ Contextual improvement based on 12_Research
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Hooks
 - **Personal**: Character connection

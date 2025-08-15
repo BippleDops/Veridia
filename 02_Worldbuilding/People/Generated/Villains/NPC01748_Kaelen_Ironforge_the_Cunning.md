@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Ironforge the Cunning", "kaelen ironforge the cunning", "Kaelen Ironforge Cunning", "Cunning the Ironforge Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Ironforge the Cunning
 
 *Aasimar Assassin (Villains), Age 59, Female*
@@ -36,27 +42,22 @@ Driven mad by knowledge humanity wasn't meant to know They've made a deal they'r
 - **Short Term**: Gather information
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Dara Brightblade the Redeemed (Criminal - Informant)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
 
-
 ### Delara Stormwind the Seeker (Personal - Nemesis)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ### Zephyr Nightfall the Risen (Criminal - Informant)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Idris Dawnstrider the Fallen (Criminal - Target)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ### Ysara Grimholt the Lost (Family - Child)
 - **Status**: Blood oath bound

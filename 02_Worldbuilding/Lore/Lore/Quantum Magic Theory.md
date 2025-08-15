@@ -90,3 +90,7 @@ improvements: 20
 - Strange sightings suggest ancient magic
 - An heirloom has gone missing and evil awakens
 - A journal reveals a conspiracy about a local noble
+
+## References
+
+- [[02_Worldbuilding_Lore_Quantum_Magic_Theory]]

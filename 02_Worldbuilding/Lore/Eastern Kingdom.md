@@ -70,7 +70,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -157,7 +157,7 @@ The Eastern Kingdoms maintain the most advanced crystal processing capabilities 
 
 **Primary Processing Facilities**: Industrial-scale operations that convert raw crystal materials into standardized components suitable for various technological applications. These facilities employ advanced techniques for crystal purification, size standardization, and quality control that ensure consistent performance in finished products.
 
-**Specialized Enhancement Workshops**: Smaller facilities focused on creating custom crystal components for specific applications, including military equipment, medical devices, [[Communication Systems]], and experimental technologies. These workshops combine traditional craftsmanship with cutting-edge crystal science.
+**Specialized Enhancement Workshops**: Smaller facilities focused on creating custom crystal components for specific applications, including military equipment, medical devices, [[Communication_Systems|Communication Systems]], and experimental technologies. These workshops combine traditional craftsmanship with cutting-edge crystal science.
 
 **Research and Development Centers**: Advanced facilities where new crystal processing techniques are developed and tested, maintaining the Eastern Kingdoms' technological edge while exploring applications that might revolutionize existing capabilities. These centers work closely with universities and private research institutions to share knowledge and coordinate development efforts.
 
@@ -444,7 +444,7 @@ The Eastern Kingdoms operate on an economy based on innovation, expertise, and h
 
 Legends speak of Eastern Kingdoms 2 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Eastern Kingdoms 2.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -477,3 +477,8 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Civil war
 - Natural disasters
 - Current [[Power Structures]] established
+
+## References
+
+- [[Campaign Epilogues]]
+- [[Consequence Chain 3 Reality Merger Diplomatic Crisis]]

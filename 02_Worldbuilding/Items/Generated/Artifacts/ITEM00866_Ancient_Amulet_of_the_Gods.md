@@ -1,3 +1,9 @@
+---
+aliases: ["Ancient Amulet of the Gods", "ancient amulet of the gods", "Ancient Amulet of Gods", "Gods the of Amulet Ancient"]
+tags: [item, equipment]
+type: item
+---
+
 # Ancient Amulet of the Gods
 
 *Artifacts, Very Rare*
@@ -16,8 +22,6 @@ A ancient amulet covered in mysterious symbols
 - Cast spell 3/day
 - Telepathy 120 ft
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -32,7 +36,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.433Z*

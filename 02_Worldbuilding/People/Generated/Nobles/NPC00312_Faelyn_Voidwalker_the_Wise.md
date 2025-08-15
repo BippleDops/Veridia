@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Voidwalker the Wise", "faelyn voidwalker the wise", "Faelyn Voidwalker Wise", "Wise the Voidwalker Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Voidwalker the Wise
 
 *Half-Elf Courtier (Nobles), Age 42, Female*
@@ -52,7 +58,6 @@ Exiled from their homeland, trying to rebuild their power base An old debt has c
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Brenna Ravenheart the Cunning (Political - Opposition)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
@@ -61,7 +66,6 @@ Exiled from their homeland, trying to rebuild their power base An old debt has c
 ### Kaelen Moonshadow the Wanderer (Professional - Employer)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Actually a bastard with no real claim

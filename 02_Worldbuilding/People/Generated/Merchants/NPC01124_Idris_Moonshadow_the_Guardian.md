@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Moonshadow the Guardian", "idris moonshadow the guardian", "Idris Moonshadow Guardian", "Guardian the Moonshadow Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Moonshadow the Guardian
 
 *Genasi Shopkeeper (Merchants), Age 27, Male*
@@ -36,27 +42,22 @@ Uses their business as cover for other activities They've been marked by a secre
 - **Short Term**: Recruit new members
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Fiora Proudmore the Bold (Criminal - Fence)
 - **Status**: One-sided affection
 - **History**: United by common enemy
 
-
 ### Rhiannon Winterborn the Redeemed (Political - Opposition)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ### Branwen Lightbringer the Risen (Family - Spouse)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Cedric Silverleaf the Wise (Professional - Mentor)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ### Kaelen Winterborn the Cunning (Political - Spy)
 - **Status**: Strong and trusting

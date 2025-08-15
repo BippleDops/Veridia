@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Brightblade the Bold", "orion brightblade the bold", "Orion Brightblade Bold", "Bold the Brightblade Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Brightblade the Bold
 
 *Gnome Assassin (Villains), Age 26, Non-binary*
@@ -36,17 +42,14 @@ Born into evil but questioning their path They recently discovered a secret that
 - **Short Term**: Complete current contract
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Kaelen Crystalbrook the Redeemed (Family - Child)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Vesper Oakenshield the Broken (Criminal - Accomplice)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
-
 
 ### Erasmus Keenblade the Risen (Professional - Employer)
 - **Status**: Complicated history
@@ -56,7 +59,6 @@ Born into evil but questioning their path They recently discovered a secret that
 ### Qadim Jadeclaw the Guardian (Political - Spy)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Has a child they're protecting

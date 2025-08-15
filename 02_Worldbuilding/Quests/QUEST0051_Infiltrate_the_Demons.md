@@ -1,4 +1,5 @@
 ---
+aliases: ["Infiltrate the Demons", "infiltrate the demons", "Infiltrate Demons", "Demons the Infiltrate"]
 tags: [generated]
 id: QUEST0051
 created: 2025-08-15T04:09:51.392Z
@@ -21,8 +22,6 @@ Discover the truth behind the disappearances
 
 ### Secondary
 - Establish future contacts
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they witnessed something they shouldn't have, which changed their life forever. Now, circumstances demand immediate action.

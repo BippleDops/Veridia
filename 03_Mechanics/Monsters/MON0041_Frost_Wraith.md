@@ -1,4 +1,5 @@
 ---
+aliases: ["Frost Wraith", "frost wraith", "Wraith Frost"]
 tags: [generated]
 id: MON0041_Frost_Wraith
 created: 2025-08-15T04:09:51.432Z
@@ -28,7 +29,6 @@ A natural predator perfectly adapted to its environment
 
 ---
 *Generated: 2025-08-15T03:21:47.465Z*
-
 
 ## Habitat
 - Natural environment and territories

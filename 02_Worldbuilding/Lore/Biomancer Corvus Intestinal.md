@@ -55,7 +55,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -219,7 +219,7 @@ These studies resulted in the successful creation of multiple new species specif
 
 Collaboration with geological specialists during these projects led to the development of living mining systems that can extract resources from ocean floors without environmental damage while providing optimal working conditions for sentient operators.
 
-The biological sensors and [[Communication Systems]] developed during deep adaptation studies have become essential tools for ocean exploration while providing capabilities that exceed any technological alternatives.
+The biological sensors and [[Communication_Systems|Communication Systems]] developed during deep adaptation studies have become essential tools for ocean exploration while providing capabilities that exceed any technological alternatives.
 
 ### Interspecies Integration Research
 
@@ -423,7 +423,7 @@ Public policy discussions have focused on balancing innovation incentives with p
 
 [[Traditional Medicine Spokesman]] - Medical professional who argues that conventional healing techniques are safer and more appropriate than biological enhancement while opposing the adoption of experimental medical treatments.
 
-[[[[Environmental Protection]] Specialist]] - Scientist who has raised concerns about the ecological impact of new species creation while advocating for comprehensive environmental impact studies before implementing large-scale biological modification projects.
+[[Environmental Protection|[[Environmental Protection]] Specialist]] - Scientist who has raised concerns about the ecological impact of new species creation while advocating for comprehensive environmental impact studies before implementing large-scale biological modification projects.
 
 ### Mobile Research Operations
 
@@ -527,7 +527,7 @@ Biomancer Corvus Intestinal is a undersea element of the setting, known for biol
 
 Legends speak of Biomancer Corvus Intestinal as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Biomancer Corvus Intestinal.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 

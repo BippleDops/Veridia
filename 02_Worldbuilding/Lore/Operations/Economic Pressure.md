@@ -93,3 +93,22 @@ improvements: 20
 - Someone is blackmailing an heir for money
 - Someone is hunting a artifact for money
 - A journal reveals the truth about a local noble
+
+## References
+
+- [[Continental War]]
+- [[Diplomatic Event Scenarios]]
+- [[Eastern Kingdom]]
+- [[Eastern Kingdoms (02_Worldbuilding)]]
+- [[Investigation Procedures]]
+- [[Merchant Family Alliances]]
+- [[Political Compromise Costs]]
+- [[Political Intrigue Master Index]]
+- [[The Bathyal Succession]]
+- [[The Restoration Movement]]
+- [[Trade Route Establishment]]
+- [[Crystal Gardens]]
+- [[Mad Oracle Thessaly]]
+- [[Pressure Terminal]]
+- [[Shadow Market Canals]]
+- [[Tenebrarum Embassy]]

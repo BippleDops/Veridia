@@ -1,6 +1,6 @@
 ---
 
-title: [[[[Krake]]n]] Territories
+title: [[Krake|[[Krake]]n]] Territories
 type: [[Lore]]
 tags:
 - aerial
@@ -61,7 +61,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -149,7 +149,7 @@ A vast underwater library and research facility built into a network of deep oce
 - Living [[Coral]] shelving systems that preserve and catalog underwater manu[[scripts]]
 - Acoustic chambers where information is stored in complex sound patterns
 - Laboratory spaces for investigating oceanic mysteries and historical artifacts
-- Guest quarters where visiting scholars can access [[The Archives]] under strict supervision
+- Guest quarters where visiting scholars can access  under strict supervision
 
 **The Cultivation Gardens of Tender Kraken Biodiversity**
 An experimental ecosystem where the kraken Biodiversity tests new approaches to marine agriculture and species development. The territory serves as both research station and demonstration project:
@@ -239,7 +239,7 @@ Krakens maintain complex relationships with other intelligent species, character
 - Student exchange programs allowing limited cultural and scientific collaboration
 - Careful boundary management to prevent territorial conflicts
 
-**Connections to [[The [[Deep Mother]]]]**
+**Connections to [[Deep Mother|The [[Deep Mother]]]]**
 - Ancient spiritual relationships that predate current political arrangements
 - Shared concern about threats emerging from [[The Abyss Beneath Aquabyssos]]
 - Collaborative research into the deepest oceanic mysteries
@@ -348,7 +348,7 @@ Within kraken territories, ocean currents behave in ways that suggest active man
 **Practical Applications:**
 - Rapid transportation systems within and between territorial areas
 - Enhanced distribution of nutrients and oxygen throughout territorial ecosystems
-- [[Communication Systems]] based on current-carried chemical and acoustic signals
+- [[Communication_Systems|Communication Systems]] based on current-carried chemical and acoustic signals
 - Defense mechanisms that can disorient or redirect unwanted intruders
 
 ### The Singing Depths
@@ -736,7 +736,7 @@ Kraken Territories is a undersea element of the setting, known for bioluminescen
 
 Legends speak of Kraken Territories as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Kraken Territories.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -781,3 +781,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[Fortress of the Deeps (D&D_References)]]

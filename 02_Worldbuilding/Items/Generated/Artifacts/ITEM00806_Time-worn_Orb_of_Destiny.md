@@ -1,3 +1,9 @@
+---
+aliases: ["Time-worn Orb of Destiny", "time-worn orb of destiny", "Destiny of Orb Time-worn"]
+tags: [item, equipment]
+type: item
+---
+
 # Time-worn Orb of Destiny
 
 *Artifacts, Legendary*
@@ -16,8 +22,6 @@ A time-worn orb radiating otherworldly power
 - Time stop 1/week
 - Plane shift 1/day
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -32,7 +36,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.427Z*

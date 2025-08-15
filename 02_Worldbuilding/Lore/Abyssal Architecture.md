@@ -33,7 +33,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -83,7 +83,7 @@ Abyssal Architecture is a undersea element of the setting, known for bioluminesc
 
 Legends speak of Abyssal Architecture as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Abyssal Architecture.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -106,7 +106,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - A [[Merchant]] needs help delivering before winter
 - The authorities needs help finding before the festival
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -152,3 +152,8 @@ Different cultures interpret this lore through their own lens, creating variatio
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[Abyssos Prime - Inverse Palace]]
+- [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]]

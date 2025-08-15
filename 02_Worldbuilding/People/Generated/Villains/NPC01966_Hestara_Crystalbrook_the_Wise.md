@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Crystalbrook the Wise", "hestara crystalbrook the wise", "Hestara Crystalbrook Wise", "Wise the Crystalbrook Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Crystalbrook the Wise
 
 *Dragonborn Corrupt Noble (Villains), Age 71, Male*
@@ -42,16 +48,13 @@ Corrupted by an artifact or dark magic Strange abilities have begun manifesting 
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Felicia Nightfall the Risen (Family - Child)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
 
-
 ### Ysara Ironwood the Wanderer (Political - Puppet)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Believes they're saving the world

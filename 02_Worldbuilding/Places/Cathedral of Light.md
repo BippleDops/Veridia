@@ -69,7 +69,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -109,7 +109,7 @@ improvements: 20
 
 ## Overview
 
-The Cathedral of Light stands as the most magnificent religious structure in [[Aethermoor]], its crystalline spires reaching toward the heavens like prayers made manifest. Built from rare [[[[Illumination Crysta]]ls]] that glow with perpetual divine radiance, the Cathedral serves as the spiritual heart of the realm and the primary seat of the [[Sacred Order of Luminous Daw|02 Worldbuilding/Groups/Sacred Order Of Luminous Daw]]. Here, [[High Luminary Celestine Brightward]] leads thousands of faithful in worship of the Light Divine, while the Cathedral's healing halls tend to all who seek sanctuary.
+The Cathedral of Light stands as the most magnificent religious structure in [[Aethermoor]], its crystalline spires reaching toward the heavens like prayers made manifest. Built from rare [[Illumination Crysta|[[Illumination Crysta]]ls]] that glow with perpetual divine radiance, the Cathedral serves as the spiritual heart of the realm and the primary seat of the [[Sacred Order of Luminous Daw|02 Worldbuilding/Groups/Sacred Order Of Luminous Daw]]. Here, [[High Luminary Celestine Brightward]] leads thousands of faithful in worship of the Light Divine, while the Cathedral's healing halls tend to all who seek sanctuary.
 
 The Cathedral exists not merely as a place of worship but as a beacon of hope in a world touched by [[Crystal Corruption]], its holy light serving as both literal and metaphorical [[Guidance]] for those lost in darkness.
 
@@ -412,7 +412,7 @@ While in the Cathedral, characters experience:
 *"In the Cathedral of Light, all darkness is temporary, all wounds can heal, and all souls can find their way home."*
 
 > [!tip] DM Note
-> The Cathedral serves as a moral anchor and safe haven in campaigns, providing healing, information, and sanctuary for characters. Use it to introduce religious themes, [[Moral Dilemmas]], and opportunities for characters to help others. The mysteries and secrets provide ongoing plot threads, while the daily operations offer realistic downtime activities.
+> The Cathedral serves as a moral anchor and safe haven in campaigns, providing healing, information, and sanctuary for characters. Use it to introduce religious themes, [[Moral_Dilemmas|Moral Dilemmas]], and opportunities for characters to help others. The mysteries and secrets provide ongoing plot threads, while the daily operations offer realistic downtime activities.
 
 ## Player-Facing Summary
 
@@ -429,7 +429,7 @@ Legends speak of Cathedral of Light as a nexus where past and present converge. 
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -462,20 +462,17 @@ Cathedral of Light is a notable location characterized by its unique features an
 ### Founding
 Cathedral of Light was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
-
 
 ## Connections
 - **North**: Trade road to neighboring settlement
@@ -520,7 +517,6 @@ Key stop on magic items trade route
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -556,3 +552,8 @@ Key stop on magic items trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Aethermoor - Session 03 Council of Shadows]]
+- [[Cathedral of Light (D&D_References)]]

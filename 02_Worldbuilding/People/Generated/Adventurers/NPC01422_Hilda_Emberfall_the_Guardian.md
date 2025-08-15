@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Emberfall the Guardian", "hilda emberfall the guardian", "Hilda Emberfall Guardian", "Guardian the Emberfall Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Emberfall the Guardian
 
 *Genasi Wizard (Adventurers), Age 77, Male*
@@ -36,22 +42,18 @@ Seeking vengeance for a murdered mentor They recently discovered a secret that c
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Drusilla Dawnstrider the Redeemed (Political - Opposition)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Delara Grimholt the Guardian (Professional - Mentor)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Elric Ironforge the Redeemed (Family - Child)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ### Hilda Blackstone the Guardian (Criminal - Informant)
 - **Status**: One-sided affection

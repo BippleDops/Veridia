@@ -86,3 +86,7 @@ improvements: 20
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
+
+## References
+
+- [[Afflictions Reality Madness]]

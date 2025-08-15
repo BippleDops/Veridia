@@ -1,3 +1,9 @@
+---
+aliases: ["Void-touched Crown of Dominion", "void-touched crown of dominion", "Dominion of Crown Void-touched"]
+tags: [item, equipment]
+type: item
+---
+
 # Void-touched Crown of Dominion
 
 *Artifacts, Artifact*
@@ -16,8 +22,6 @@ A void-touched crown radiating otherworldly power
 - Cast spell 3/day
 - Plane shift 1/day
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -32,7 +36,6 @@ Priceless
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.432Z*

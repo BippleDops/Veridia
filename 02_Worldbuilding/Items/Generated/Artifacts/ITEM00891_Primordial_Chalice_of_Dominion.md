@@ -1,3 +1,9 @@
+---
+aliases: ["Primordial Chalice of Dominion", "primordial chalice of dominion", "Dominion of Chalice Primordial"]
+tags: [item, equipment]
+type: item
+---
+
 # Primordial Chalice of Dominion
 
 *Artifacts, Artifact*
@@ -16,8 +22,6 @@ A primordial chalice covered in mysterious symbols
 - Plane shift 1/day
 - Cast spell 3/day
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -32,7 +36,6 @@ Priceless
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.435Z*

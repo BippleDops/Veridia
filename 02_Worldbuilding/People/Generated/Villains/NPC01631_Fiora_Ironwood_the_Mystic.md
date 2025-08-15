@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Ironwood the Mystic", "fiora ironwood the mystic", "Fiora Ironwood Mystic", "Mystic the Ironwood Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Ironwood the Mystic
 
 *Genasi Dark Wizard (Villains), Age 71, Male*
@@ -42,16 +48,13 @@ Betrayed by those they trusted, now seeking revenge on the world They've fallen 
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Cedric Underhill the Risen (Family - Child)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Hestara Zephyrblade the Risen (Criminal - Informant)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
-
 
 ### Thalia Blackstone the Risen (Personal - Ex-lover)
 - **Status**: One-sided affection

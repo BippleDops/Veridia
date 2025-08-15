@@ -57,3 +57,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A stranger needs help delivering before the festival
 - A stranger needs help investigating before winter
+
+## References
+
+- [[Maelstrom Palace]]

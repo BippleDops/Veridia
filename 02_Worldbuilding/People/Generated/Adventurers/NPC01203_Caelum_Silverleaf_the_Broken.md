@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Silverleaf the Broken", "caelum silverleaf the broken", "Caelum Silverleaf Broken", "Broken the Silverleaf Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Silverleaf the Broken
 
 *Genasi Ranger (Adventurers), Age 38, Female*
@@ -36,17 +42,14 @@ Searching for a legendary treasure their parent died seeking They're being black
 - **Short Term**: Gather information
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Ewan Youngblood the Guardian (Personal - Nemesis)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Idris Voidwalker the Bold (Criminal - Informant)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ### Kaelen Ashford the Scholar (Criminal - Fence)
 - **Status**: On the verge of collapse

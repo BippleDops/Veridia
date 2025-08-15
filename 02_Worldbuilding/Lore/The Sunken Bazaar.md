@@ -115,3 +115,10 @@ Mentioned in The First Prophecy of Winds
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[Azure Citadel]]
+- [[The Gilded Shard]]
+- [[Azure Citadel (D&D_References)]]
+- [[The Gilded Shard (D&D_References)]]

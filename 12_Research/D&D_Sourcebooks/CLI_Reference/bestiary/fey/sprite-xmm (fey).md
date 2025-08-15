@@ -155,3 +155,21 @@ Mentioned in The Second Prophecy of Depths
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Sprite Xmm]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[10-appendix-b-creature-stat-blocks (players-handbook-2024)]]
+- [[Pact of the Chain Xphb]]
+- [[pact-of-the-chain-xphb (optional-features)]]
+- [[Forest Encounters Levels 14 Xge]]
+- [[Monsters by Habitat Forest Monsters Xmm]]
+- [[Probabilities Sylvan Forest Encounters]]
+- [[Size Categories Mm]]
+- [[Sylvan Forest Encounters]]
+- [[forest-encounters-levels-14-xge (tables)]]
+- [[monsters-by-habitat-forest-monsters-xmm (tables)]]
+- [[probabilities-sylvan-forest-encounters (tables)]]
+- [[size-categories-mm (tables)]]
+- [[sylvan-forest-encounters (tables)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Crystalbrook the Broken", "caelum crystalbrook the broken", "Caelum Crystalbrook Broken", "Broken the Crystalbrook Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Crystalbrook the Broken
 
 *Dragonborn Shopkeeper (Merchants), Age 74, Male*
@@ -13,7 +19,6 @@
 Average height and delicate, with Partially shaved auburn hair and Amber eyes. Unusual hue skin. Burn scars on one side of face.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Flirts with everyone regardless of interest
@@ -36,27 +41,22 @@ Inherited a failing business and turned it around They've fallen in love with so
 - **Short Term**: Sabotage competition
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Vesper Darkwater the Wise (Criminal - Handler)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Qadim Crystalbrook the Mystic (Criminal - Informant)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ### Vesper Ravenheart the Wanderer (Professional - Partner)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
 
-
 ### Elric Quicksilver the Seeker (Family - Spouse)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Smuggles illegal magical items

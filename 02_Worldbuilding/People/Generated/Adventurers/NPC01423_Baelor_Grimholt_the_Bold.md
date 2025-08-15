@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Grimholt the Bold", "baelor grimholt the bold", "Baelor Grimholt Bold", "Bold the Grimholt Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Grimholt the Bold
 
 *Half-Orc Bard (Adventurers), Age 25, Female*
@@ -36,32 +42,26 @@ Chosen by fate to fulfill an ancient prophecy They're being blackmailed by someo
 - **Short Term**: Avoid the authorities
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Ewan Keenblade the Wise (Family - Spouse)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Nerys Ravenheart the Scholar (Criminal - Accomplice)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ### Corvus Xendar the Wanderer (Political - Opposition)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Felicia Proudmore the Guardian (Family - Sibling)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Qadim Emberfall the Seeker (Criminal - Informant)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Has died and been resurrected

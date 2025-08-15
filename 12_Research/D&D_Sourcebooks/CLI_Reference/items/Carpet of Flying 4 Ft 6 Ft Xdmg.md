@@ -79,3 +79,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A shipment has gone missing and war looms
 - A map reveals a betrayal about this place
 - A corpse reveals a betrayal about a local noble
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Carpet of Flying Xdmg]]
+- [[carpet-of-flying-xdmg (items)]]

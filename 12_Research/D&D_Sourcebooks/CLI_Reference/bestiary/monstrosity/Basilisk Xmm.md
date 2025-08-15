@@ -165,3 +165,19 @@ Mentioned in The Hidden Prophecy of Winds
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[basilisk-xmm (monstrosity)]]
+- [[Monsters by Habitat Mountain Monsters Xmm]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[Mountain Encounters Levels 1116 Xge]]
+- [[Mountain Encounters Levels 14 Xge]]
+- [[Mountain Encounters Levels 510 Xge]]
+- [[Random Yuan Ti Servants Yuan Ti Protectors]]
+- [[monsters-by-habitat-mountain-monsters-xmm (tables)]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]
+- [[mountain-encounters-levels-1116-xge (tables)]]
+- [[mountain-encounters-levels-14-xge (tables)]]
+- [[mountain-encounters-levels-510-xge (tables)]]
+- [[random-yuan-ti-servants-yuan-ti-protectors-vgm]]

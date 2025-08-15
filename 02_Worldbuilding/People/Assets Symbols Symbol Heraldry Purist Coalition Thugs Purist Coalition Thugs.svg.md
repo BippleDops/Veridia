@@ -189,3 +189,9 @@ This NPC can serve multiple roles:
 - [[04_Resources_Assets_Locations_location-city-master-elena-preserver-v1-master-elena-preserver.svg]] (rival)
 ---
 *Tags*: #npc #contact #worldbuilding
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-merchant-princes-merchant-princes.svg]]
+- [[04_Resources_Assets_Locations_location-city-master-elena-preserver-v1-master-elena-preserver.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-resoce-cathedral-the-resoce-cathedral.svg]]

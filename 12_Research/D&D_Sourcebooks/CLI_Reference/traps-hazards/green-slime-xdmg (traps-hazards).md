@@ -78,3 +78,12 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Juiblex Mtf]]
+- [[juiblex-mtf (legendary-group)]]
+- [[Eye and Hand of Vecna Xdmg]]
+- [[eye-and-hand-of-vecna-xdmg (items)]]
+- [[Random Dungeon Hazards Dungeon Hazards]]
+- [[random-dungeon-hazards-dungeon-hazards (tables)]]

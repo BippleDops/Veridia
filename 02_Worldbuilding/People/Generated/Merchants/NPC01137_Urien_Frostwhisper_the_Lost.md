@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Frostwhisper the Lost", "urien frostwhisper the lost", "Urien Frostwhisper Lost", "Lost the Frostwhisper Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Frostwhisper the Lost
 
 *Gnome Shopkeeper (Merchants), Age 27, Non-binary*
@@ -36,7 +42,6 @@ Inherited a failing business and turned it around They recently discovered a sec
 - **Short Term**: Survive until next week
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Aldric Dawnstrider the Cunning (Criminal - Fence)
 - **Status**: On the verge of collapse
@@ -47,11 +52,9 @@ Inherited a failing business and turned it around They recently discovered a sec
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Qadim Quicksilver the Seeker (Family - Sibling)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Is actually a spy for foreign power

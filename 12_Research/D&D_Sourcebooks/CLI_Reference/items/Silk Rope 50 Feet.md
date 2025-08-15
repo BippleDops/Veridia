@@ -86,3 +86,11 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Sailor Pirate Variant]]
+- [[sailor-pirate-variant (backgrounds)]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

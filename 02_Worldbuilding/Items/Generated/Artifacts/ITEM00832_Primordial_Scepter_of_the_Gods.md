@@ -1,3 +1,9 @@
+---
+aliases: ["Primordial Scepter of the Gods", "primordial scepter of the gods", "Primordial Scepter of Gods", "Gods the of Scepter Primordial"]
+tags: [item, equipment]
+type: item
+---
+
 # Primordial Scepter of the Gods
 
 *Artifacts, Legendary (requires attunement)*
@@ -16,8 +22,6 @@ A primordial scepter covered in mysterious symbols
 - Cast spell 3/day
 - Increase ability score by 2
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -32,7 +36,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.430Z*

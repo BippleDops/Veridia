@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Youngblood the Swift", "corvus youngblood the swift", "Corvus Youngblood Swift", "Swift the Youngblood Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Youngblood the Swift
 
 *Dwarf Assassin (Villains), Age 77, Non-binary*
@@ -36,17 +42,14 @@ Born into evil but questioning their path They've been marked by a secret societ
 - **Short Term**: Survive until next week
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Aldric Darkwater the Wise (Family - Spouse)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Ewan Darkwater the Lost (Personal - Ex-lover)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ### Pyria Zephyrblade the Broken (Criminal - Handler)
 - **Status**: Complicated history
@@ -57,16 +60,13 @@ Born into evil but questioning their path They've been marked by a secret societ
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Nerys Quicksilver the Lost (Criminal - Accomplice)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Urien Winterborn the Cunning (Personal - Nemesis)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Knows how the world will end

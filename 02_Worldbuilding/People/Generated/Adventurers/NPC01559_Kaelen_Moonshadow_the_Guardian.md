@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Moonshadow the Guardian", "kaelen moonshadow the guardian", "Kaelen Moonshadow Guardian", "Guardian the Moonshadow Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Moonshadow the Guardian
 
 *Aasimar Fighter (Adventurers), Age 63, Non-binary*
@@ -47,16 +53,13 @@ Accidentally gained powers and learning to control them They've been marked by a
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
 
-
 ### Orion Grimholt the Strong (Family - Child)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Jorah Goldleaf the Seeker (Criminal - Handler)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Possessed by ancient spirit

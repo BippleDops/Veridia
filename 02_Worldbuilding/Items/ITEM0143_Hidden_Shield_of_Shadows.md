@@ -1,4 +1,5 @@
 ---
+aliases: ["Hidden Shield of Shadows", "hidden shield of shadows", "Shadows of Shield Hidden"]
 tags: [generated]
 id: ITEM0143
 created: 2025-08-15T04:09:51.122Z

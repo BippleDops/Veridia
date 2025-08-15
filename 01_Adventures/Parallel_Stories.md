@@ -1,6 +1,5 @@
 ---
 
-
 title: Parallel Storylines
 type: narrative
 tags:
@@ -241,7 +240,6 @@ status: active
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## See Also
 - Related content

@@ -46,8 +46,15 @@ This content can be adapted and expanded based on specific campaign needs.
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
 
-
 ## See Also
 - Related content
 - Similar topics
 - Connected elements
+
+## References
+
+- [[The Crystal Festival]]
+- [[Aethermoor Session 07 the Festival of Transformation]]
+- [[Aethermoor Session 07 the Festival of]]
+- [[The Crystal Festival (D&D_References)]]
+- [[The Crystal Festival 3 (D&D_References)]]

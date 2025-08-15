@@ -170,3 +170,11 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[poltergeist-xmm (undead)]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[Monsters by Habitat Urban Monsters Xmm]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]
+- [[monsters-by-habitat-urban-monsters-xmm (tables)]]

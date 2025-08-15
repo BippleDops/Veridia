@@ -1,6 +1,5 @@
 ---
 
-
 title: 04_Resources/Assets
 type: lore
 tags:
@@ -93,7 +92,6 @@ status: active
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## See Also
 - Related content
 - Similar topics
@@ -102,3 +100,37 @@ status: active
 ## Player Tips
 > 🎮 **Strategy**: How to approach this content
 > Work together and communicate
+
+## References
+
+- [[Parliamentary Ethics Committee (Government_and_Parliament)]]
+- [[Assets Item Artifact Explorers Pack Xphb Explorers Pack Xphb.png]]
+- [[Queen Seraphina Lumengarde (People)]]
+- [[Aether Crystal]]
+- [[Assets Locations Location City the Crystal Cathedral of Pure Light V1 the Crystal Cathedral of Pure Light.svg]]
+- [[Blood in the Water]]
+- [[Gareth Goldenheart, The Chosen Vessel]]
+- [[Intelligence Services (People)]]
+- [[Lord Marcus Goldweaver]]
+- [[Master_Artificer_Coral_Gemwright (People)]]
+- [[The Soul Market]]
+- [[Harbor Master Luna Freedrift (Places)]]
+- [[The Pearl Markets]]
+- [[Symbol Heraldry Crystal Wardens V1 Crystal Wardens.svg]]
+- [[Symbol Heraldry Information Broker Whisper Goldtongu V1 Information Broker Whisper Goldtongu.svg]]
+- [[Aether Crystal (D&D_References)]]
+- [[Ambassador Nerida Deepcurrent (D&D_References)]]
+- [[Blood in the Water (D&D_References)]]
+- [[Gareth Goldenheart, The Chosen Vessel (D&D_References)]]
+- [[Intelligence Services (D&D_References)]]
+- [[Lord Marcus Goldweaver (D&D_References)]]
+- [[Queen Seraphina Lumengarde (D&D_References)]]
+- [[fractal-mascot-scc (construct)]]
+- [[young-gold-dragon-xmm (dragon)]]
+- [[npc - Aljanor Keenblade Oota]]
+- [[Crystal Ball of Mind Reading Xdmg]]
+- [[Shawm Xphb]]
+- [[caltrop]]
+- [[rod-of-alertness-xdmg (items)]]
+- [[Archdruid Thornweaver (D&D_Statblocks)]]
+- [[VAULT_100_PERCENT_ACHIEVED]]

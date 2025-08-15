@@ -118,3 +118,7 @@ Marriage Counselor Tidal Harmony represents a crucial aspect of the world's hist
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Marriage_Counselor_Tidal_Harmony (02_Worldbuilding)]]

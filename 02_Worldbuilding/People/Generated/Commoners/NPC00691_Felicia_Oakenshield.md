@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Oakenshield", "felicia oakenshield", "Oakenshield Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Oakenshield
 
 *Halfling Baker (Commoners), Age 47, Female*
@@ -36,12 +42,10 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Short Term**: Complete current contract
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Wynne Ironforge the Cunning (Personal - Childhood friend)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
-
 
 ### Faelyn Goldleaf the Fallen (Professional - Mentor)
 - **Status**: Mutually beneficial
@@ -52,21 +56,17 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
 
-
 ### Aeliana Oakenshield the Risen (Criminal - Target)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
-
 
 ### Faelyn Dawnstrider the Strong (Political - Spy)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Caelum Proudmore the Scholar (Professional - Rival)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Knows location of ancient treasure

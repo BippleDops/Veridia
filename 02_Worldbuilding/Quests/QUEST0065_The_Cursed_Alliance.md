@@ -1,4 +1,5 @@
 ---
+aliases: ["The Cursed Alliance", "the cursed alliance", "Alliance Cursed The"]
 tags: [generated]
 id: QUEST0065
 created: 2025-08-15T04:09:51.400Z
@@ -22,8 +23,6 @@ Eliminate the cult leader before they can complete the ritual
 ### Secondary
 - Maintain cover identity
 - Recover additional valuable items
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they witnessed something they shouldn't have, which changed their life forever. Now, circumstances demand immediate action.

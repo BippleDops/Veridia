@@ -31,7 +31,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -81,7 +81,7 @@ The Crystal Influence is a undersea element of the setting, known for biolumines
 
 Legends speak of The Crystal Influence as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crystal Influence.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -100,7 +100,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Strange dreams suggest a conspiracy
 - The authorities needs help delivering before the festival
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -150,3 +150,20 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Biomancer Corvus Intestinal]]
+- [[Campaign Epilogues]]
+- [[Eastern Kingdom]]
+- [[Hidden Sanctuary]]
+- [[Biomancer Corvus Intestinal (D&D_References)]]
+- [[Campaign Epilogues (D&D_References)]]
+- [[Eastern Kingdom (D&D_References)]]
+- [[Hidden Sanctuary (D&D_References)]]
+- [[Magic Items]]
+- [[Rewriting the Ritual]]
+- [[Save Both Civilizations]]
+- [[Shattered Isles]]
+- [[Temporal Navigation Hazards]]
+- [[The Possessed Queen]]

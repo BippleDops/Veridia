@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Silverleaf the Lost", "hestara silverleaf the lost", "Hestara Silverleaf Lost", "Lost the Silverleaf Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Silverleaf the Lost
 
 *Genasi Trader (Merchants), Age 33, Male*
@@ -13,7 +19,6 @@
 Very short and compact, with Dreadlocks black hair and Black eyes. Unusual hue skin. Prominent scar across the face.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Incredibly optimistic despite evidence; Sees doom and gloom everywhere
@@ -36,17 +41,14 @@ Part of a merchant family with connections everywhere A chance encounter last wi
 - **Short Term**: Avoid the authorities
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Gareth Moonshadow the Broken (Family - Child)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
 
-
 ### Cedric Dawnstrider the Broken (Political - Patron)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ### Alaric Darkwater the Strong (Family - Parent)
 - **Status**: Strained but maintaining
@@ -57,11 +59,9 @@ Part of a merchant family with connections everywhere A chance encounter last wi
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Hestara Ironforge the Wise (Professional - Partner)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Killed previous business owner

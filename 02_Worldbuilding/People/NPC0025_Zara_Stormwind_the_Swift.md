@@ -1,8 +1,8 @@
 ---
+aliases: ["Zara Stormwind the Swift", "zara stormwind the swift", "Zara Stormwind Swift", "Swift the Stormwind Zara"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -74,8 +74,6 @@ Grew up on the streets, learning to survive. Years ago, they survived a plague t
 ### Skills
 Stealth, Investigation, Arcana
 
-
-
 ## Possessions
 - 54 gold pieces
 - Letter of recommendation
@@ -90,7 +88,6 @@ Stealth, Investigation, Arcana
 
 ---
 *Generated: 2025-08-15T03:20:13.074Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

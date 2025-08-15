@@ -182,7 +182,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[Madame Pearl Currentflow]] (ally)
-- [[Captain Prism Shield Valeria]] (ally)
+- [[Shield|Captain Prism Shield Valeria]] (ally)
 - [[04_Resources_Assets_Locations_location-city-master-jeweler-sapphire-delicatehand-master-jeweler-sapphire-delicatehand.svg]] (colleague)
 ---
 *Tags*: #npc #contact #worldbuilding

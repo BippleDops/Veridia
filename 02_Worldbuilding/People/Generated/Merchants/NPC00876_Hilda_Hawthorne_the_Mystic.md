@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Hawthorne the Mystic", "hilda hawthorne the mystic", "Hilda Hawthorne Mystic", "Mystic the Hawthorne Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Hawthorne the Mystic
 
 *Goliath Trader (Merchants), Age 46, Female*
@@ -13,7 +19,6 @@
 Towering and muscular, with Shaved bald hair and Brown eyes. Weathered skin. Birthmark shaped like a constellation.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Laughs at the most inappropriate times; Always tells the absolute truth; Believes in every conspiracy theory
@@ -36,27 +41,22 @@ Built their business from nothing through cunning and hard work They've been mar
 - **Short Term**: Recruit new members
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Rhiannon Brightblade the Swift (Family - Cousin)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
 
-
 ### Orion Ashford the Mystic (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ### Hestara Zephyrblade the Swift (Family - Cousin)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Qadim Xendar the Lost (Professional - Rival)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Running a cult from their basement

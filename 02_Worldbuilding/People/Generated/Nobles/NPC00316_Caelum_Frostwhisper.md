@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Frostwhisper", "caelum frostwhisper", "Frostwhisper Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Frostwhisper
 
 *Gnome Ambassador (Nobles), Age 63, Male*
@@ -13,7 +19,6 @@
 Above average and muscular, with Dreadlocks auburn hair and Blue eyes. Tan skin. Prominent scar across the face.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Never backs down from any challenge
@@ -42,21 +47,17 @@ Last survivor of a fallen house, seeking to restore family honor A prophetic dre
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
 
-
 ### Delara Hawthorne (Professional - Partner)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
-
 
 ### Pyria Youngblood the Strong (Professional - Mentor)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Gavril Darkwater the Redeemed (Professional - Employee)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
-
 
 ### Baelor Winterborn the Redeemed (Professional - Employer)
 - **Status**: Complicated history
@@ -66,7 +67,6 @@ Last survivor of a fallen house, seeking to restore family honor A prophetic dre
 ### Felicia Youngblood the Wanderer (Criminal - Accomplice)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Child from scandalous affair

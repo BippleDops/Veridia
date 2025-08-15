@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Voidwalker the Guardian", "alaric voidwalker the guardian", "Alaric Voidwalker Guardian", "Guardian the Voidwalker Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Voidwalker the Guardian
 
 *Gnome Heir (Nobles), Age 44, Non-binary*
@@ -13,7 +19,6 @@
 Towering and slender, with Dreadlocks black hair and Heterochromic eyes. Unusual hue skin. Prominent scar across the face.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Speaks to inanimate objects; Laughs at the most inappropriate times
@@ -36,27 +41,22 @@ Recently elevated to nobility through service, still learning courtly ways A pro
 - **Short Term**: Recruit new members
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Cedric Underhill (Family - Spouse)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Idris Zephyrblade the Wise (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
-
 
 ### Qadim Xendar the Fallen (Personal - Childhood friend)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Thalia Zephyrblade (Criminal - Target)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Practicing forbidden magic

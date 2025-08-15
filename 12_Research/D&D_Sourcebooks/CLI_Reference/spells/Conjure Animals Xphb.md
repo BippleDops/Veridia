@@ -90,3 +90,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+## References
+
+- [[Master_Spell_Compendium]]

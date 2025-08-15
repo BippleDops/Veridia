@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Voidwalker the Wise", "gavril voidwalker the wise", "Gavril Voidwalker Wise", "Wise the Voidwalker Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Voidwalker the Wise
 
 *Tabaxi Corrupt Noble (Villains), Age 52, Non-binary*
@@ -36,7 +42,6 @@ Driven mad by knowledge humanity wasn't meant to know They've fallen in love wit
 - **Short Term**: Survive until next week
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Pyria Brightblade the Guardian (Criminal - Fence)
 - **Status**: Mutually beneficial
@@ -47,7 +52,6 @@ Driven mad by knowledge humanity wasn't meant to know They've fallen in love wit
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Gareth Keenblade the Scholar (Personal - Best friend)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
@@ -57,16 +61,13 @@ Driven mad by knowledge humanity wasn't meant to know They've fallen in love wit
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Cedric Ironforge the Bold (Political - Puppet)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Felicia Crystalbrook the Lost (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Was once a renowned hero

@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Xendar the Broken", "hestara xendar the broken", "Hestara Xendar Broken", "Broken the Xendar Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Xendar the Broken
 
 *Dwarf Trader (Merchants), Age 55, Female*
@@ -13,7 +19,6 @@
 Above average and muscular, with Braided elaborately bald hair and Black eyes. Fair skin. Intricate tattoos covering arms.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Believes in every conspiracy theory; Collects unusual and worthless objects
@@ -42,11 +47,9 @@ Former adventurer who retired to open a shop They've been marked by a secret soc
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Ewan Blackstone the Risen (Family - Sibling)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ### Idris Oakenshield the Scholar (Political - Ally)
 - **Status**: On the verge of collapse

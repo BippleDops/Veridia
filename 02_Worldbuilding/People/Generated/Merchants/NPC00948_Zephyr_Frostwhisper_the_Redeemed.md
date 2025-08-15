@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Frostwhisper the Redeemed", "zephyr frostwhisper the redeemed", "Zephyr Frostwhisper Redeemed", "Redeemed the Frostwhisper Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Frostwhisper the Redeemed
 
 *Dwarf Shopkeeper (Merchants), Age 45, Male*
@@ -36,22 +42,18 @@ Uses their business as cover for other activities A chance encounter last winter
 - **Short Term**: Gather information
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Gareth Brightblade the Cunning (Political - Patron)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Brenna Jadeclaw the Redeemed (Family - Spouse)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Felicia Ironforge the Wanderer (Family - Parent)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Running a cult from their basement

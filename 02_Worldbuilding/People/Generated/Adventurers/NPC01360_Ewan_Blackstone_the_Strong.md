@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Blackstone the Strong", "ewan blackstone the strong", "Ewan Blackstone Strong", "Strong the Blackstone Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Blackstone the Strong
 
 *Tabaxi Ranger (Adventurers), Age 72, Male*
@@ -56,7 +62,6 @@ Chosen by fate to fulfill an ancient prophecy An old debt has come due at the wo
 ### Delara Grimholt the Wanderer (Criminal - Accomplice)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Carries a world-ending artifact

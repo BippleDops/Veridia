@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Hawthorne the Broken", "corvus hawthorne the broken", "Corvus Hawthorne Broken", "Broken the Hawthorne Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Hawthorne the Broken
 
 *Gnome Farmer (Commoners), Age 20, Female*
@@ -36,7 +42,6 @@ Survivor of a disaster that destroyed their village They've been marked by a sec
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Corvus Winterborn the Lost (Family - Parent)
 - **Status**: Strained but maintaining
@@ -47,16 +52,13 @@ Survivor of a disaster that destroyed their village They've been marked by a sec
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
 
-
 ### Kaelen Ashford the Broken (Political - Patron)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Erasmus Underhill the Wise (Criminal - Target)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Is the lost heir to the throne

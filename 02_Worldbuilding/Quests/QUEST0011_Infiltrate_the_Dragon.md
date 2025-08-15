@@ -1,4 +1,5 @@
 ---
+aliases: ["Infiltrate the Dragon", "infiltrate the dragon", "Infiltrate Dragon", "Dragon the Infiltrate"]
 tags: [quest, adventure, generated]
 type: quest
 ---
@@ -20,8 +21,6 @@ Discover the truth behind the disappearances
 
 ### Secondary
 - Establish future contacts
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they found an ancient artifact, which changed their life forever. Now, circumstances demand immediate action.
@@ -58,8 +57,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Save civilians and risk failure - Heroes to the people but objective compromised
 2. Complete mission at any cost - Success but blood on hands
-
-
 
 ## Rewards
 ### On Success

@@ -1,4 +1,5 @@
 ---
+aliases: ["FortMarsh", "fortmarsh"]
 tags: [generated]
 id: LOC0068
 created: 2025-08-15T04:09:51.311Z
@@ -21,20 +22,17 @@ A distinctive natural or constructed feature
 - **Current Leader**: Mayor elected every 4 years
 - **Political Stability**: Stable
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -91,7 +89,6 @@ A distinctive natural or constructed feature
 
 ---
 *Generated: 2025-08-15T03:21:04.075Z*
-
 
 ## History
 - **Founding**: Origin story

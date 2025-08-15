@@ -14,7 +14,6 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 # Quest - Shadow Medicine
 
 ---
@@ -33,12 +32,10 @@ world: Aquabyssos
 updated: '2025-08-13T01:18:35.671619+00:00'
 ---
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -170,7 +167,6 @@ Contextual improvement based on 12_Research
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Time Limit
 - **Deadline**: When it must be completed

@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Winterborn the Wanderer", "thalia winterborn the wanderer", "Thalia Winterborn Wanderer", "Wanderer the Winterborn Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Winterborn the Wanderer
 
 *Firbolg Assassin (Villains), Age 41, Male*
@@ -13,7 +19,6 @@
 Tall and slender, with Wild and unkempt unusual color hair and Hazel eyes. Dark skin. Missing finger on left hand.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Never uses people's real names; Speaks to inanimate objects
@@ -42,7 +47,6 @@ Betrayed by those they trusted, now seeking revenge on the world An old debt has
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
 ### Nerys Moonshadow the Seeker (Family - Child)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
@@ -52,16 +56,13 @@ Betrayed by those they trusted, now seeking revenge on the world An old debt has
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
 ### Hestara Youngblood the Scholar (Professional - Employer)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Vesper Oakenshield the Risen (Personal - Love interest)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Knows how the world will end

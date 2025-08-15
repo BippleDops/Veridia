@@ -220,13 +220,11 @@ Teacher Miranda Hopekeeper is a notable location characterized by its unique fea
 ### Founding
 Teacher Miranda Hopekeeper was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -234,13 +232,11 @@ Teacher Miranda Hopekeeper was established in the distant past, growing from hum
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -282,7 +278,6 @@ Key stop on spices trade route
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions

@@ -57,3 +57,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A journal reveals the truth about the government
 - A merchant needs help delivering before the new moon
+
+## References
+
+- [[Consortium Security Constructs]]
+- [[Consortium Security Constructs (D&D_References)]]

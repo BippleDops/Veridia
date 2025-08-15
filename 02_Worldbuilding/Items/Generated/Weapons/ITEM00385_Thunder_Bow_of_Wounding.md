@@ -1,3 +1,9 @@
+---
+aliases: ["Thunder Bow of Wounding", "thunder bow of wounding", "Wounding of Bow Thunder"]
+tags: [item, equipment]
+type: item
+---
+
 # Thunder Bow of Wounding
 
 *Weapons, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A thunder bow made of crystallized magic
 - Grants advantage on initiative
 - +1 to attack and damage rolls
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -30,7 +34,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.377Z*

@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Grimholt the Broken", "elric grimholt the broken", "Elric Grimholt Broken", "Broken the Grimholt Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Grimholt the Broken
 
 *Aasimar Crime Boss (Villains), Age 43, Female*
@@ -36,17 +42,14 @@ Driven mad by knowledge humanity wasn't meant to know An old debt has come due a
 - **Short Term**: Make this month's payment
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Brenna Proudmore the Strong (Criminal - Accomplice)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Corvus Xendar the Risen (Criminal - Fence)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ### Gareth Ravenheart the Mystic (Professional - Mentor)
 - **Status**: Secretly hostile
@@ -61,7 +64,6 @@ Driven mad by knowledge humanity wasn't meant to know An old debt has come due a
 ### Hilda Winterborn the Scholar (Political - Spy)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is being controlled by darker force

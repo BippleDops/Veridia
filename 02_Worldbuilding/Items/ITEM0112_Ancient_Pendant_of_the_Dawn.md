@@ -1,4 +1,5 @@
 ---
+aliases: ["Ancient Pendant of the Dawn", "ancient pendant of the dawn", "Ancient Pendant of Dawn", "Dawn the of Pendant Ancient"]
 tags: [generated]
 id: ITEM0112
 created: 2025-08-15T04:09:51.113Z
@@ -18,8 +19,6 @@ Crafted from starfall iron with battle scars, in ancient but unbreakable. It ema
 
 ## Quirk
 *Makes user sneeze in sunlight*
-
-
 
 ## History
 This item was forged during the War of Shadows ages ago. It has passed through many hands, each leaving their mark upon its destiny.

@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-otherworldly-pacts-otherworldly-pacts.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -187,7 +185,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Natural disasters
 - Current power structures established
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -257,3 +254,10 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Aurelius Goldwave]]
+- [[Assets Locations Location City the Crystal Cathedral of Pure Light the Crystal Cathedral of Pure Light.svg]]
+- [[Assets Symbols Symbol Heraldry Information Exchange Information Exchange.svg]]
+- [[Aurelius Goldwave (D&D_Statblocks)]]

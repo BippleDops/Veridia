@@ -46,6 +46,10 @@ This content can be adapted and expanded based on specific campaign needs.
 ## [[DM_Notes]]
 *Customize as needed for your specific campaign requirements.*
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*
+
+## References
+
+- [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
+- [[The Maw of Darkness (D&D_Statblocks)]]

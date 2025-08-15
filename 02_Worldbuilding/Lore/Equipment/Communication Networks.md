@@ -87,3 +87,35 @@ improvements: 20
 
 - Someone is blackmailing a witness for power
 - Strange accidents suggest ancient magic
+
+## References
+
+- [[Parliament-of-Shadows-Campaign (Government_and_Parliament)]]
+- [[Aetheric Wind Songs]]
+- [[Consequence Chain 4 - Deep Mother Awakening]]
+- [[Crystal Forest]]
+- [[Crystal Garden]]
+- [[Crystal-Corruption-Tracking-Sheet]]
+- [[Eastern Kingdom]]
+- [[Eastern Kingdoms (02_Worldbuilding)]]
+- [[Economic Crime Methods]]
+- [[Hidden Sanctuary]]
+- [[Kraken Territories]]
+- [[Resonance Peaks]]
+- [[Ritual Redirection Options]]
+- [[Silverscale Emergency Bunker]]
+- [[Temporal Anomaly Resolution]]
+- [[The Crimson Hand]]
+- [[The Deep Prophecies]]
+- [[Timeline of the Drowning]]
+- [[Underwater Breathing]]
+- [[Commander Typhoon Blackheart (Places)]]
+- [[Depth Wardens]]
+- [[Surface Tensions]]
+- [[Tethyan Hegemony]]
+- [[The Crystal Wardens]]
+- [[The Depth Market]]
+- [[The Free Current]]
+- [[The Hidden Cove of Whispers]]
+- [[The Sinking Atoll]]
+- [[Parliament-of-Shadows-Campaign]]

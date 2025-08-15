@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Jadeclaw the Mystic", "fiora jadeclaw the mystic", "Fiora Jadeclaw Mystic", "Mystic the Jadeclaw Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Jadeclaw the Mystic
 
 *Human Caravan Master (Merchants), Age 38, Non-binary*
@@ -36,32 +42,26 @@ Former adventurer who retired to open a shop They've been marked by a secret soc
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Qadim Underhill the Wanderer (Political - Spy)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Xander Silverleaf the Swift (Personal - Childhood friend)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
-
 
 ### Xander Moonshadow the Guardian (Personal - Ex-lover)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Urien Emberfall the Mystic (Political - Spy)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Urien Ashford the Strong (Political - Puppet)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ### Solas Underhill the Broken (Political - Spy)
 - **Status**: On the verge of collapse

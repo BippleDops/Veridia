@@ -85,7 +85,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -98,3 +97,8 @@ Contextual improvement based on 12_Research
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Master_Spell_Compendium]]

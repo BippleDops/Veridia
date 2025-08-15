@@ -180,7 +180,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[04_Resources_Assets_Portraits_portrait-npc-lady-celestine-windborne-lady-celestine-windborne.svg]] (colleague)
-- [[God King Aetheron]] (enemy)
+- [[Aetheron|God King Aetheron]] (enemy)
 - [[Master Artificer Coral Gemwright]] (friend)
 ---
 *Tags*: #npc #contact #worldbuilding
@@ -241,3 +241,7 @@ Member of House Dragonblood - Trait: magical affinity
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-lady-celestine-windborne-lady-celestine-windborne.svg]]

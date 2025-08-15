@@ -18,15 +18,12 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 # Quest Name
-
 
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -133,7 +130,6 @@ This content can be adapted and expanded based on specific campaign needs.
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## Hooks
 - **Personal**: Character connection
 - **Professional**: Hired for the job
@@ -183,3 +179,7 @@ This content can be adapted and expanded based on specific campaign needs.
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
 - **Hidden Details**: Secret aspects
+
+## References
+
+- [[CORDELIA_VAULT_USER_MANUAL]]

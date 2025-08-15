@@ -101,7 +101,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -114,3 +113,15 @@ Contextual improvement based on 12_Research
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[09 Appendix B Spells]]
+- [[09-appendix-b-spells (princes-of-the-apocalypse)]]
+- [[Adult Black Dragon Xmm]]
+- [[Ancient Black Dragon Xmm]]
+- [[adult-black-dragon-xmm (dragon)]]
+- [[ancient-black-dragon-xmm (dragon)]]
+- [[Bullywug Bog Sage Xmm]]
+- [[bullywug-bog-sage-xmm (fey)]]

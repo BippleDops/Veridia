@@ -60,3 +60,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Someone is protecting information for power
 - Strange dreams suggest a portal
 - An heirloom has gone missing and war looms
+
+## References
+
+- [[Parliament-of-Shadows-Campaign (Government_and_Parliament)]]
+- [[Parliament-of-Shadows-Campaign]]

@@ -1,4 +1,5 @@
 ---
+aliases: ["Prophecy of the Dragon Wars", "prophecy of the dragon wars", "Prophecy of Dragon Wars", "Wars Dragon the of Prophecy"]
 tags: [generated]
 id: LORE0097_Prophecy_of_the_Dragon_Wars
 created: 2025-08-15T04:09:51.156Z

@@ -85,3 +85,15 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Blessing of Wound Closure Xdmg]]
+- [[blessing-of-wound-closure-xdmg (rewards)]]
+- [[Magic Item Table F]]
+- [[Random Magic Items Relics]]
+- [[Relics Uncommon Xdmg]]
+- [[magic-item-table-f (tables)]]
+- [[random-magic-items-relics (tables)]]
+- [[relics-uncommon-xdmg (tables)]]

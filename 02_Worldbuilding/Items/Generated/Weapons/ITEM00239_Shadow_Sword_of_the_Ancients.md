@@ -1,3 +1,9 @@
+---
+aliases: ["Shadow Sword of the Ancients", "shadow sword of the ancients", "Shadow Sword of Ancients", "Ancients the of Sword Shadow"]
+tags: [item, equipment]
+type: item
+---
+
 # Shadow Sword of the Ancients
 
 *Weapons, Rare*
@@ -15,8 +21,6 @@ A shadow sword carved from dragon bone
 - +1 to attack and damage rolls
 - Can strike ethereal creatures
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -31,7 +35,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.363Z*

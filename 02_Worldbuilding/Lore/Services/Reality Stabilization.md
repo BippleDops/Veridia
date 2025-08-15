@@ -106,3 +106,19 @@ improvements: 20
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Campaign Epilogues]]
+- [[Comprehensive-World-Connection-Guide]]
+- [[Consequence Chain 4 - Deep Mother Awakening]]
+- [[Crystal Garden]]
+- [[Customs House]]
+- [[Reality Stabilization Anchors]]
+- [[Reality Stabilization Corps]]
+- [[Services Reality Stabilization]]
+- [[Temporal Anomaly Resolution]]
+- [[Temporal Distortion Zones]]
+- [[Depth Wardens]]
+- [[Reflection Pools - Surgical Theater]]
+- [[The Void Tears]]

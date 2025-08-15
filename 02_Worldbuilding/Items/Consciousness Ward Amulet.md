@@ -168,3 +168,7 @@ Consciousness Ward Amulet is a mysterious amulet that radiates divine energy.
 
 ### Curse (if applicable)
 - *[Negative effects]*
+
+## References
+
+- [[Master_Item_Catalog]]

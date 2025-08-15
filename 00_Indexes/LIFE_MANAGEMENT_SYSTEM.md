@@ -68,7 +68,7 @@ status: active
 
 - **Dust lamp shades and fixtures**: Remove shades, wash glass, clean bulbs, dry thoroughly
   - *Campaign Integration*: Lighthouse maintenance in coastal campaigns
-  - *Location*: [[Lighthouse of Storms]]
+  - *Location*: [[Lighthouse_of_Storms|Lighthouse of Storms]]
 
 - **Inspect air purifier filters**: Check HEPA/pre-filters for dust, vacuum/wash as applicable
   - *Campaign Integration*: Maintaining air elemental binding circles
@@ -221,7 +221,7 @@ Your real-world maintenance mirrors campaign world systems:
 ## 🔗 Related Systems
 
 - [[INDEX]] - Campaign management
-- [[09_Templates/Maintenance_Checklist_Template]] - Customizable checklists
+- [[Maintenance_Checklist_Template|09_Templates/Maintenance_Checklist_Template]] - Customizable checklists
 - [[02_Worldbuilding]] - In-world maintenance lore
 - [[01_Adventures]] - Maintenance-themed adventure
 
@@ -250,3 +250,31 @@ This system transforms mundane maintenance into engaging campaign content while 
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition
+
+## References
+
+- [[Maintenance_Checklist_Template]]
+
+## Overview
+
+*To be added*
+
+## Goals
+
+*To be added*
+
+## Structure
+
+*To be added*
+
+## Members
+
+*To be added*
+
+## Resources
+
+*To be added*
+
+## Relationships
+
+*To be added*

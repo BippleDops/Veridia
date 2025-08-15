@@ -1,3 +1,9 @@
+---
+aliases: ["Ornate Rope of Convenience", "ornate rope of convenience", "Convenience of Rope Ornate"]
+tags: [item, equipment]
+type: item
+---
+
 # Ornate Rope of Convenience
 
 *Mundane, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A ornate rope bearing maker's mark
 - Weighs half normal
 - Functions in antimagic
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -30,7 +34,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.484Z*

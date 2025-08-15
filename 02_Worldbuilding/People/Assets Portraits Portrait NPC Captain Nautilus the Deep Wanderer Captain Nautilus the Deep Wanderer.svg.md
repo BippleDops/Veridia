@@ -184,3 +184,7 @@ This NPC can serve multiple roles:
 - [[The Current Merchants]] (colleague)
 ---
 *Tags*: #npc #contact #worldbuilding
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-the-dreamwhisper-inn-the-dreamwhisper-inn.svg]]

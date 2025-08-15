@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Grimholt the Broken", "baelor grimholt the broken", "Baelor Grimholt Broken", "Broken the Grimholt Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Grimholt the Broken
 
 *Human Crime Boss (Villains), Age 20, Male*
@@ -36,7 +42,6 @@ Corrupted by an artifact or dark magic A prophetic dream has been haunting them 
 - **Short Term**: Find missing person
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Pyria Ironforge the Broken (Personal - Best friend)
 - **Status**: Blood oath bound
@@ -52,16 +57,13 @@ Corrupted by an artifact or dark magic A prophetic dream has been haunting them 
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Dara Moonshadow the Bold (Family - Parent)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Idris Dawnstrider the Wanderer (Family - Cousin)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Believes they're saving the world

@@ -24,7 +24,7 @@ modified: '2025-08-14'
 status: complete
 race: Changeling
 class: Rogue/Enchanter
-location: '[[The [[Shadow Markets]]]]'
+location: '[[Shadow Markets|The [[Shadow Markets]]]]'
 [[region]]: Unknown
 population: Unknown
 MyCategory: Criminal Operative
@@ -67,7 +67,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -260,7 +260,7 @@ Their operations represent the cutting edge of memory-based crime, utilizing adv
 **Academic Researchers**: Scholars studying memory and consciousness who need practical examples and [[data]].
 
 ### Criminal Contacts
-**Information Brokers**: [[Criminal [[Organization]]s]] needing sensitive information extracted from unwilling sources.
+**Information Brokers**: [[Organization|Criminal [[Organization]]s]] needing sensitive information extracted from unwilling sources.
 
 **Political Operatives**: Individuals seeking to modify the memories of political enemies or [[Allies]].
 
@@ -363,7 +363,7 @@ Legends speak of Memory Thief as a nexus where past and present converge. Locals
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -387,13 +387,11 @@ Memory Thief is a notable location characterized by its unique features and stra
 ### Founding
 Memory Thief was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -401,13 +399,11 @@ Memory Thief was established in the distant past, growing from humble beginnings
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -467,3 +463,13 @@ Ongoing situations affecting Memory Thief:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Multi-Phase Boss Fights]]
+- 
+- [[Reflection Pools - Surgical Theater]]
+- [[Sister Morwyn]]
+- [[The Eternal Senate]]
+- [[The Memory Storm Fields]]
+- [[The Void Tears]]

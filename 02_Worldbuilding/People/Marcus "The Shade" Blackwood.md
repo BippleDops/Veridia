@@ -33,12 +33,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-marcus-the-shade-blackwood-marcus-the-shade-blackwood.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -261,7 +259,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Member of House Lionblood - Trait: divine blood
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -297,3 +294,12 @@ Member of House Lionblood - Trait: divine blood
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Shadow Independence Levels (Criminal_Organizations)]]
+- [[The Whisper Syndicate (Criminal_Organizations)]]
+- [[Assets Locations Location City Brother Matthias Inkdrinker V1 Brother Matthias Inkdrinker.svg]]
+- [[The Whisper Syndicate]]
+- [[Shadow Independence Levels]]

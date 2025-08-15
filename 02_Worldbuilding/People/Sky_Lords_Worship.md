@@ -27,8 +27,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
-
 ## Relationships
 - **Allies**: Notable allies and friends
 - **Rivals**: Competitors and rivals  
@@ -233,7 +231,6 @@ Member of House Dragonblood - Trait: divine blood
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -269,3 +266,8 @@ Member of House Dragonblood - Trait: divine blood
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-sister-astara-the-ever-watching-sister-astara-the-ever-watching.svg]]
+- [[04_Resources_Assets_Locations_location-city-astrologer-prime-cassandra-starweaver-astrologer-prime-cassandra-starweaver.svg]]

@@ -101,3 +101,9 @@ improvements: 20
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Investigate Shadow Surgeons (Criminal_Organizations)]]
+- [[02_Worldbuilding_Equipment_Memory_Pattern_Analyzers]]
+- [[Investigate Shadow Surgeons]]

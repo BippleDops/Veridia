@@ -1,4 +1,5 @@
 ---
+aliases: ["Arcane Bolt", "arcane bolt", "Bolt Arcane"]
 tags: [generated]
 id: SPELL0000_Arcane_Bolt
 created: 2025-08-15T04:09:51.465Z

@@ -124,3 +124,22 @@ Mentioned in The First Prophecy of Winds
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[02_Worldbuilding_Tactics_Pressure_Differential]]
+- [[Crystal Forest]]
+- [[Multi-Phase Boss Fights]]
+- [[The Forgetting Bomb]]
+- [[Tidal Chambers]]
+- [[Timeline of the Drowning]]
+- [[Wind Song Linguistic Guide]]
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Abyssos Prime Docks]]
+- [[Blood Current Express]]
+- [[Commander Typhoon Blackheart (Places)]]
+- [[Gravity Anomaly Mechanics]]
+- [[Pressure Terminal]]
+- [[Pressure Tube Terminal]]
+- [[Surface Tensions]]
+- [[The Shrinking Sanctuary]]

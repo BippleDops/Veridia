@@ -178,7 +178,7 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[Quest   The Underground Railroad]] (rival)
+- [[The Underground|Quest   The Underground Railroad]] (rival)
 - [[Quest   Refugees of the Deep]] (enemy)
 - [[Archivist Mnemonic the Forgotten]] (ally)
 ---

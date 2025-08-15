@@ -80,3 +80,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A stranger needs help investigating before dawn
 - A stranger needs help finding before winter
 - A stranger needs help investigating before the festival
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Rod of the Pact Keeper Xdmg]]
+- [[rod-of-the-pact-keeper-xdmg (items)]]
+- [[Arcana Very Rare Xdmg]]
+- [[Magic Item Table H]]
+- [[Random Magic Items Arcana]]
+- [[arcana-very-rare-xdmg (tables)]]
+- [[magic-item-table-h (tables)]]
+- [[random-magic-items-arcana (tables)]]

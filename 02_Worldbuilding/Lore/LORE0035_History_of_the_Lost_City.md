@@ -1,4 +1,5 @@
 ---
+aliases: ["History of the Lost City", "history of the lost city", "History of Lost City", "City Lost the of History"]
 tags: [generated]
 id: LORE0035_History_of_the_Lost_City
 created: 2025-08-15T04:09:51.137Z

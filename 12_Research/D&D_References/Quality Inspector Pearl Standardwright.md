@@ -62,3 +62,8 @@ Mentioned in The Hidden Prophecy of Shadows
 - Someone is searching for an heir for money
 - Someone is searching for a witness for love
 - Someone is blackmailing a witness for love
+
+## References
+
+- [[The Deep Harvest]]
+- [[The Deep Harvest (D&D_References)]]

@@ -32,13 +32,13 @@ current_state: Partially Flooded Ruins
 danger_level: Moderate-High
 depth: 2500-3000 feet
 difficulty: Levels 6-12
-original_builder: '[[Scholar [[Emperor]] [[Thalassius the Wise]]]]'
+original_builder: '[[Emperor|Scholar [[Emperor]] [[Thalassius the Wise]]]]'
 related_entities:
-- '[[Scholar [[Emperor Thalassius the Wise]]]]'
+- '[[Emperor Thalassius|Scholar [[Emperor Thalassius the Wise]]]]'
 - '[[Groups]]
   Covet]]'
 - '[[Order of Preserved Knowledge]]'
-- '[[Deep Archives]]'
+- ''
 updated: '2025-08-13T12:34:16.828429+00:00'
 world: Aquabyssos
 evaluated: '2025-08-14'
@@ -56,13 +56,11 @@ This document contains important information regarding The Sunken Library of Tha
 ## Description
 The Sunken Library of Thalassius represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -70,20 +68,17 @@ The Sunken Library of Thalassius represents a significant element within the cam
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
 
-
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
 - **Law Enforcement**: Town guard
 - **Justice System**: Local magistrate
-
 
 ## Economy
 - **Primary Exports**: Local goods
@@ -119,9 +114,8 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 *Customize as needed for your specific campaign requirements.*
-
 
 ## History
 - **Founding**: Origin story
@@ -162,3 +156,13 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[02_Worldbuilding_Places_The_Sunken_Library_of_Thalassius.md]]
+- [[Crown Dome Conspiracy]]
+- [[Session 4 (People)]]
+- [[Shadow Parliament]]
+- [[Syndicate War]]
+- [[The Coral Throne Syndicate]]
+- [[The Cure]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Moonshadow", "ysara moonshadow", "Moonshadow Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Moonshadow
 
 *Aasimar Courtier (Nobles), Age 27, Female*
@@ -36,7 +42,6 @@ Exiled from their homeland, trying to rebuild their power base Strange abilities
 - **Short Term**: Sabotage competition
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Gavril Goldleaf the Broken (Professional - Employer)
 - **Status**: Professional only
@@ -47,11 +52,9 @@ Exiled from their homeland, trying to rebuild their power base Strange abilities
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
 
-
 ### Malakai Ironwood the Guardian (Political - Puppet)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
-
 
 ### Ewan Hawthorne the Risen (Political - Patron)
 - **Status**: Complicated history
@@ -66,7 +69,6 @@ Exiled from their homeland, trying to rebuild their power base Strange abilities
 ### Corvus Lightbringer (Personal - Nemesis)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

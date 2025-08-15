@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Thornweave the Risen", "xander thornweave the risen", "Xander Thornweave Risen", "Risen the Thornweave Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Thornweave the Risen
 
 *Dragonborn Wizard (Adventurers), Age 42, Non-binary*
@@ -13,7 +19,6 @@
 Above average and slender, with Partially shaved unusual color hair and Hazel eyes. Brown skin. Constantly changing hair color.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Always tells the absolute truth; Never backs down from any challenge
@@ -36,7 +41,6 @@ Seeking vengeance for a murdered mentor They've made a deal they're beginning to
 - **Short Term**: Find missing person
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Malakai Ashford the Wise (Political - Patron)
 - **Status**: Mutually beneficial
@@ -47,7 +51,6 @@ Seeking vengeance for a murdered mentor They've made a deal they're beginning to
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
 
-
 ### Nerys Voidwalker the Strong (Professional - Employer)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
@@ -57,11 +60,9 @@ Seeking vengeance for a murdered mentor They've made a deal they're beginning to
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Rhiannon Quicksilver the Guardian (Personal - Childhood friend)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Has died and been resurrected

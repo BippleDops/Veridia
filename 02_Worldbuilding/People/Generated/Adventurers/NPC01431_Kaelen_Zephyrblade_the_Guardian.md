@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Zephyrblade the Guardian", "kaelen zephyrblade the guardian", "Kaelen Zephyrblade Guardian", "Guardian the Zephyrblade Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Zephyrblade the Guardian
 
 *Dragonborn Bard (Adventurers), Age 35, Male*
@@ -36,17 +42,14 @@ Running from a dark past that won't stay buried They've fallen in love with some
 - **Short Term**: Gather information
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Zephyr Proudmore the Cunning (Criminal - Target)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
 
-
 ### Aeliana Thornweave the Redeemed (Professional - Employer)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ### Ysara Zephyrblade the Bold (Criminal - Accomplice)
 - **Status**: Recently reconciled
@@ -61,7 +64,6 @@ Running from a dark past that won't stay buried They've fallen in love with some
 ### Malakai Proudmore the Lost (Personal - Ex-lover)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Carries a world-ending artifact

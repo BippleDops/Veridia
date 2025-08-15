@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Quicksilver the Swift", "idris quicksilver the swift", "Idris Quicksilver Swift", "Swift the Quicksilver Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Quicksilver the Swift
 
 *Goliath Heir (Nobles), Age 41, Female*
@@ -36,7 +42,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Sabotage competition
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Orion Zephyrblade the Lost (Professional - Employee)
 - **Status**: Professional only
@@ -46,7 +51,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 ### Baelor Ironwood the Seeker (Criminal - Informant)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ### Branwen Oakenshield (Personal - Ex-lover)
 - **Status**: Recently reconciled

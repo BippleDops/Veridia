@@ -34,7 +34,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-merchant-captain-tobias-stormwind-merchant-captain-tobias-stormwind.svg)
 
@@ -237,7 +236,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 20% middle class
 - 79% working poor
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -273,3 +271,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Guildmaster Harwick V1 Guildmaster Harwick.png]]
+- [[Assets Symbols Symbol Heraldry Crystal Pirate Crew Crystal Pirate Crew.svg]]

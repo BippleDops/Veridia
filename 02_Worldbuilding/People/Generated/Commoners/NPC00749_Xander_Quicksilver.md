@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Quicksilver", "xander quicksilver", "Quicksilver Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Quicksilver
 
 *Aasimar Farmer (Commoners), Age 39, Male*
@@ -36,7 +42,6 @@ Survivor of a disaster that destroyed their village Strange abilities have begun
 - **Short Term**: Make this month's payment
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Corvus Ironwood the Bold (Political - Spy)
 - **Status**: Professional only
@@ -47,7 +52,6 @@ Survivor of a disaster that destroyed their village Strange abilities have begun
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
 
-
 ### Rhiannon Crystalbrook the Guardian (Criminal - Fence)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
@@ -57,11 +61,9 @@ Survivor of a disaster that destroyed their village Strange abilities have begun
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Baelor Lightbringer the Cunning (Political - Opposition)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Is the lost heir to the throne

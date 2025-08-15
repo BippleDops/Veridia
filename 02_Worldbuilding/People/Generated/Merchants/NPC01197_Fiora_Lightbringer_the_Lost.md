@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Lightbringer the Lost", "fiora lightbringer the lost", "Fiora Lightbringer Lost", "Lost the Lightbringer Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Lightbringer the Lost
 
 *Tabaxi Broker (Merchants), Age 44, Non-binary*
@@ -13,7 +19,6 @@
 Tall and compact, with Mohawk bald hair and Brown eyes. Unusual hue skin. Birthmark shaped like a constellation.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Always speaks in metaphors and riddles
@@ -36,17 +41,14 @@ Inherited a failing business and turned it around They've made a deal they're be
 - **Short Term**: Make this month's payment
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Xander Goldleaf the Guardian (Criminal - Accomplice)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Fiora Silverleaf the Lost (Criminal - Informant)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
-
 
 ### Caelum Jadeclaw the Bold (Family - Spouse)
 - **Status**: Recently reconciled
@@ -61,7 +63,6 @@ Inherited a failing business and turned it around They've made a deal they're be
 ### Orion Blackstone the Scholar (Family - Cousin)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Killed previous business owner

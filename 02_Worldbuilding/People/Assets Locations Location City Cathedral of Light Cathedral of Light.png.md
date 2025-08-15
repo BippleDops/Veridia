@@ -190,3 +190,8 @@ This NPC can serve multiple roles:
 ## Bloodline
 
 Member of House Eagleblood - Trait: prophecy
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-commander-drake-pressureborn-v1-commander-drake-pressureborn.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-drowned-embassy-the-drowned-embassy.svg]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Frostwhisper the Fallen", "hestara frostwhisper the fallen", "Hestara Frostwhisper Fallen", "Fallen the Frostwhisper Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Frostwhisper the Fallen
 
 *Human Appraiser (Merchants), Age 19, Male*
@@ -42,7 +48,6 @@ Part of a merchant family with connections everywhere A chance encounter last wi
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Branwen Zephyrblade the Cunning (Family - Cousin)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
@@ -51,7 +56,6 @@ Part of a merchant family with connections everywhere A chance encounter last wi
 ### Pyria Brightblade the Wise (Family - Child)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ### Dara Grimholt the Seeker (Personal - Nemesis)
 - **Status**: Secretly hostile

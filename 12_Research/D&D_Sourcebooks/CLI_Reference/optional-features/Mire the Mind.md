@@ -72,3 +72,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A journal reveals the truth about this place
 - An heirloom has gone missing and truth emerges
 - A letter reveals the truth about a local noble
+
+## References
+
+- [[List Optfeaturetype Ei]]
+- [[list-optfeaturetype-ei (lists)]]

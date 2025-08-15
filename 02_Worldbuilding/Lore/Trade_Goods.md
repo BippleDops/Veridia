@@ -75,7 +75,7 @@ Trade_Goods represents a crucial aspect of the world's history, cosmology, or fu
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -98,3 +98,13 @@ Trade_Goods represents a crucial aspect of the world's history, cosmology, or fu
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[Master_Campaign_Index]]
+- [[Parliamentary Ethics Committee (Government_and_Parliament)]]
+- [[Journey Board (Lore)]]
+- [[Assets Locations Location City the Crystal Cathedral of Pure Light V1 the Crystal Cathedral of Pure Light.svg]]
+- [[The Soul Market]]
+- [[Symbol Heraldry Crystal Wardens V1 Crystal Wardens.svg]]
+- [[Symbol Heraldry Information Broker Whisper Goldtongu V1 Information Broker Whisper Goldtongu.svg]]

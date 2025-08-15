@@ -135,6 +135,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*
+
+## References
+
+- [[Azure Shard]]
+- [[Verdant Shard]]
+- [[Azure Shard (D&D_References)]]
+- [[Verdant Shard (D&D_References)]]

@@ -48,3 +48,24 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Juvenile Shadow Dragon Xmm]]
+- [[Shadow Dragon Xmm]]
+- [[juvenile-shadow-dragon-xmm (dragon)]]
+- [[shadow-dragon-xmm (dragon)]]
+- [[Strahd Von Zarovich Cos]]
+- [[strahd-von-zarovich-cos (legendary-group)]]
+- [[Moonblade Xdmg]]
+- [[moonblade-xdmg (items)]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[Monsters by Habitat Urban Monsters Xmm]]
+- [[Underdark Encounters Levels 14 Xge]]
+- [[Urban Encounters Levels 14 Xge]]
+- [[Urban Encounters Levels 510 Xge]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]
+- [[monsters-by-habitat-urban-monsters-xmm (tables)]]
+- [[underdark-encounters-levels-14-xge (tables)]]
+- [[urban-encounters-levels-14-xge (tables)]]
+- [[urban-encounters-levels-510-xge (tables)]]

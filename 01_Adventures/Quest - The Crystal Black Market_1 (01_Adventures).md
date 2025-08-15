@@ -14,7 +14,6 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 # Quest - The Crystal Black Market
 
 ---
@@ -58,12 +57,10 @@ world: Both
 updated: '2025-08-13T01:18:34.468309+00:00'
 ---
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -409,7 +406,6 @@ Mentioned in The Hidden Prophecy of Depths
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Hooks
 - **Personal**: Character connection

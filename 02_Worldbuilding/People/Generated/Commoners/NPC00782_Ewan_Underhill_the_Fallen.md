@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Underhill the Fallen", "ewan underhill the fallen", "Ewan Underhill Fallen", "Fallen the Underhill Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Underhill the Fallen
 
 *Aasimar Blacksmith (Commoners), Age 45, Non-binary*
@@ -42,7 +48,6 @@ Former soldier trying to adjust to civilian life They've been marked by a secret
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Orion Oakenshield the Wanderer (Criminal - Target)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
@@ -52,11 +57,9 @@ Former soldier trying to adjust to civilian life They've been marked by a secret
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Caelum Zephyrblade the Mystic (Family - Spouse)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
-
 
 ### Felicia Winterborn the Risen (Criminal - Informant)
 - **Status**: One-sided affection

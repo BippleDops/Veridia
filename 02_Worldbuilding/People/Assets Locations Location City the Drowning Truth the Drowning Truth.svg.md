@@ -209,3 +209,8 @@ Member of House Dragonblood - Trait: divine blood
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-innkeeper-marina-dreamwhisper-innkeeper-marina-dreamwhisper.svg]]
+- [[04_Resources_Assets_Locations_location-city-master-gardener-sage-harmony-bloomtender-master-gardener-sage-harmony-bloomtender.svg]]

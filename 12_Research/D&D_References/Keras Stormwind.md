@@ -71,3 +71,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[The Floating Market]]
+- [[The Floating Market (D&D_References)]]

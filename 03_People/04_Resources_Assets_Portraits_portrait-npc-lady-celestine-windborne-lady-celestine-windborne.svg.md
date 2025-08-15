@@ -11,7 +11,7 @@ created: '2025-01-15'
 
 ## Portrait
 
-![[portrait_04_resources_assets_portraits_portrait-npc-lady-celestine-windborne-lady-celestine-windborne.svg.png]]
+![[04_Resources|portrait_04_resources_assets_portraits_portrait-npc-lady-celestine-windborne-lady-celestine-windborne.svg.png]]
 
 *Portrait reference for 04_Resources_Assets_Portraits_portrait-npc-lady-celestine-windborne-lady-celestine-windborne.svg*
 
@@ -75,3 +75,10 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+## References
+
+- [[Assets Locations Location City Quartermaster Shadow Supply V1 Quartermaster Shadow Supply.svg]]
+- [[Assets Symbols Symbol Heraldry Master Trader Darkmarke Master Trader Darkmarke.svg]]
+- [[Assets Symbols Symbol Heraldry War Commander Umbral Strategis V1 War Commander Umbral Strategis.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-lady-celestine-windborne-lady-celestine-windborne.svg_Quick_Ref]]

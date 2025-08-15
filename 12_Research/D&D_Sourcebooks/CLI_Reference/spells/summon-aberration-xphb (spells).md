@@ -100,7 +100,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -119,4 +118,15 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[summon-aberration-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[aberration|summon-aberration-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[README]]
+- [[Master_Spell_Compendium]]
+- [[Sorcerer Xphb Aberrant Sorcery Xphb]]
+- [[Warlock Xphb Great Old One Patron Xphb]]
+- [[sorcerer-xphb-aberrant-sorcery-xphb (classes)]]
+- [[warlock-xphb-great-old-one-patron-xphb (classes)]]
+- [[Cube of Summoning Xdmg]]
+- [[cube-of-summoning-xdmg (items)]]

@@ -1,4 +1,5 @@
 ---
+aliases: ["The Shadow Realm Plague", "the shadow realm plague", "Plague Realm Shadow The"]
 tags: [quest, adventure, generated]
 type: quest
 ---
@@ -20,8 +21,6 @@ Broker peace between the merchant guild and the thieves guild
 
 ### Secondary
 - Maintain cover identity
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they survived a plague that killed their family, which changed their life forever. Now, circumstances demand immediate action.

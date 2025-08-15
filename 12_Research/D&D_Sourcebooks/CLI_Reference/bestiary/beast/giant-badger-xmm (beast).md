@@ -120,3 +120,20 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Badger Xmm]]
+- [[badger-xmm (beast)]]
+- [[2 Appendix a Miscellaneous Creatures]]
+- [[2-appendix-a-miscellaneous-creatures (monster-manual-2014)]]
+- [[3 Animals]]
+- [[3-animals (monster-manual-2025)]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[10-appendix-b-creature-stat-blocks (players-handbook-2024)]]
+- [[Bag of Tricks Gray Xdmg]]
+- [[bag-of-tricks-gray-xdmg (items)]]
+- [[Forest Encounters Levels 14 Xge]]
+- [[Monsters by Habitat Forest Monsters Xmm]]
+- [[forest-encounters-levels-14-xge (tables)]]
+- [[monsters-by-habitat-forest-monsters-xmm (tables)]]

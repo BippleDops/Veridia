@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Moonshadow the Strong", "ysara moonshadow the strong", "Ysara Moonshadow Strong", "Strong the Moonshadow Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Moonshadow the Strong
 
 *Gnome Heir (Nobles), Age 21, Male*
@@ -13,7 +19,6 @@
 Above average and compact, with Carefully styled brown hair and Violet eyes. Tan skin. Birthmark shaped like a constellation.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Always hungry and eating something
@@ -47,26 +52,21 @@ Secretly adopted into nobility, living in fear of discovery An old debt has come
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
 
-
 ### Alaric Brightblade (Criminal - Informant)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ### Brenna Winterborn the Scholar (Professional - Employer)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Elric Keenblade the Lost (Political - Spy)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
 
-
 ### Erasmus Dawnstrider the Bold (Political - Ally)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Secretly funding the rebellion

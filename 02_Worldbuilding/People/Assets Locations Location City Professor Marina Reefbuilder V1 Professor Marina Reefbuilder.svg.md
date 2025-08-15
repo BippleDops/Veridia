@@ -197,3 +197,7 @@ This NPC can serve multiple roles:
 - **Sibling**: [[Lady Jade Clawgrip]]
 - **Ally**: [[Portrait NPC Merchant Lord Cornelius Generous V1 Merchant Lord Cornelius Generous.svg]]
 - **Parent**: [[Admiral Marina Stormcrest]]
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-choir-master-celestine-hymnsinger-v1-choir-master-celestine-hymnsinger.svg]]

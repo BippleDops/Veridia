@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Grimholt the Seeker", "zephyr grimholt the seeker", "Zephyr Grimholt Seeker", "Seeker the Grimholt Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Grimholt the Seeker
 
 *Elf Farmer (Commoners), Age 27, Non-binary*
@@ -13,7 +19,6 @@
 Above average and wiry, with Braided elaborately auburn hair and Green eyes. Dark skin. Gold tooth that glints when smiling.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Always hungry and eating something
@@ -36,12 +41,10 @@ Runaway from an arranged marriage, starting a new life They've made a deal they'
 - **Short Term**: Sabotage competition
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Pyria Darkwater the Swift (Criminal - Informant)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ### Solas Hawthorne the Scholar (Family - Spouse)
 - **Status**: On the verge of collapse
@@ -57,16 +60,13 @@ Runaway from an arranged marriage, starting a new life They've made a deal they'
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
 
-
 ### Pyria Brightblade the Fallen (Political - Spy)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Elric Blackstone the Redeemed (Political - Opposition)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Knows location of ancient treasure

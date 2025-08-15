@@ -188,3 +188,23 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Unicorn Xmm]]
+- [[Forest Encounters Levels 1116 Xge]]
+- [[Forest Encounters Levels 14 Xge]]
+- [[Forest Encounters Levels 1720 Xge]]
+- [[Forest Encounters Levels 510 Xge]]
+- [[Monsters by Habitat Forest Monsters Xmm]]
+- [[Probabilities Sylvan Forest Encounters]]
+- [[Sylvan Forest Encounters]]
+- [[Wild Magic Surge Phb]]
+- [[forest-encounters-levels-1116-xge (tables)]]
+- [[forest-encounters-levels-14-xge (tables)]]
+- [[forest-encounters-levels-1720-xge (tables)]]
+- [[forest-encounters-levels-510-xge (tables)]]
+- [[monsters-by-habitat-forest-monsters-xmm (tables)]]
+- [[probabilities-sylvan-forest-encounters (tables)]]
+- [[sylvan-forest-encounters (tables)]]
+- [[wild-magic-surge-phb (tables)]]

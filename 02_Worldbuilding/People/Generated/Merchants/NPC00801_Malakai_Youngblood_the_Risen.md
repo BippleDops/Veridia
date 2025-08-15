@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Youngblood the Risen", "malakai youngblood the risen", "Malakai Youngblood Risen", "Risen the Youngblood Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Youngblood the Risen
 
 *Human Broker (Merchants), Age 27, Non-binary*
@@ -13,7 +19,6 @@
 Short and athletic, with Mohawk unusual color hair and Gray eyes. Tan skin. Prominent scar across the face.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Speaks to inanimate objects
@@ -36,12 +41,10 @@ Built their business from nothing through cunning and hard work They recently di
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Malakai Proudmore the Wanderer (Personal - Ex-lover)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
-
 
 ### Orion Lightbringer the Wanderer (Criminal - Target)
 - **Status**: Secretly hostile
@@ -51,7 +54,6 @@ Built their business from nothing through cunning and hard work They recently di
 ### Urien Hawthorne the Wanderer (Family - Cousin)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ### Qadim Youngblood the Scholar (Professional - Mentor)
 - **Status**: Complicated history

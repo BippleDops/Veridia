@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Youngblood the Cunning", "jorah youngblood the cunning", "Jorah Youngblood Cunning", "Cunning the Youngblood Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Youngblood the Cunning
 
 *Elf Blacksmith (Commoners), Age 76, Male*
@@ -36,17 +42,14 @@ Family has worked the same trade for generations, but times are changing They've
 - **Short Term**: Avoid the authorities
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Thalia Moonshadow the Bold (Family - Parent)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Ysara Ironwood the Lost (Family - Parent)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ### Orion Underhill the Wanderer (Family - Cousin)
 - **Status**: On the verge of collapse

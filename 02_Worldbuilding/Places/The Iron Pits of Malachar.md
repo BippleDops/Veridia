@@ -50,7 +50,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -99,7 +99,7 @@ The Iron Pits of Malachar are a massive mining complex in the depths of [[The Su
 ### Liberation Missions
 
 1. **The Great Escape**: Help organize massive slave uprising
-2. **Rescue the Engineer**: Extract [[[[Forge Master Petra Hammerdeep]]|[[02 Worldbuilding]]/[[People]]/Forge Master Petra Hammerdeep]] before execution
+2. **Rescue the Engineer**: Extract [[Forge Master Petra Hammerdeep|[[Forge Master Petra Hammerdeep]]|[[02_Worldbuilding|02 Worldbuilding]]/[[People]]/Forge Master Petra Hammerdeep]] before execution
 3. **The Children's Exodus**: Save child laborers from corruption experiments
 4. **Break the Chains**: Destroy magical bonds holding slaves
 
@@ -120,16 +120,16 @@ The Iron Pits of Malachar are a massive mining complex in the depths of [[The Su
 ### Hidden Operations
 
 > [!warning] DM Only
-> - One of [[The [[Seven Shards]]]] powers the deepest mining operations
+> - One of [[Seven Shards|The [[Seven Shards]]]] powers the deepest mining operations
 > - Malachar's ghost has knowledge of the Shard's location
 > - The endless pit is actually a portal to the earth elemental plane
 > - Living workers are being converted into undead labor force
 
 ### Political Implications
 
-> - [[[[Prince Caspian]] Duskwater]] secretly invested in the operation
-> - Some [[[[Merchant]] Princes]] knowingly buy blood metals
-> - [[[[Lord Commander Gareth]] Steelborn]] plans military assault
+> - [[Prince Caspian|[[Prince Caspian]] Duskwater]] secretly invested in the operation
+> - Some [[Merchant|[[Merchant]] Princes]] knowingly buy blood metals
+> - [[Lord Commander Gareth|[[Lord Commander Gareth]] Steelborn]] plans military assault
 > - [[Evidence]] could implicate legitimate businesses in slavery
 
 ## Player-Facing Summary
@@ -147,7 +147,7 @@ Legends speak of The Iron Pits of Malachar as a nexus where past and present con
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -171,13 +171,11 @@ The Iron Pits of Malachar is a notable location characterized by its unique feat
 ### Founding
 The Iron Pits of Malachar was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -185,13 +183,11 @@ The Iron Pits of Malachar was established in the distant past, growing from humb
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -213,7 +209,7 @@ Ongoing situations affecting The Iron Pits of Malachar:
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -241,7 +237,6 @@ Ongoing situations affecting The Iron Pits of Malachar:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -278,3 +273,8 @@ Ongoing situations affecting The Iron Pits of Malachar:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[The Slave Markets of Tethys]]
+- [[The Slave Markets of Tethys (D&D_References)]]

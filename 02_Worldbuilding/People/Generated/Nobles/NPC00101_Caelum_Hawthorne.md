@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Hawthorne", "caelum hawthorne", "Hawthorne Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Hawthorne
 
 *Tiefling Courtier (Nobles), Age 43, Non-binary*
@@ -36,12 +42,10 @@ Secretly adopted into nobility, living in fear of discovery They're being blackm
 - **Short Term**: Sabotage competition
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Erasmus Ironforge the Wanderer (Political - Puppet)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ### Wynne Darkwater the Swift (Political - Spy)
 - **Status**: One-sided affection
@@ -51,7 +55,6 @@ Secretly adopted into nobility, living in fear of discovery They're being blackm
 ### Delara Blackstone (Political - Ally)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Secretly funding the rebellion

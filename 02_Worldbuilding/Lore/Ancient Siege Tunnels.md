@@ -24,7 +24,7 @@ tags:
 created: '2025-08-09'
 modified: '2025-08-14'
 status: draft
-builders: '[[Ancient [[Aquabyssos]] Rulers]]'
+builders: '[[Aquabyssos|Ancient [[Aquabyssos]] Rulers]]'
 current_status: Partially Collapsed, Some Sections Active
 danger_level: 7
 era: The Continental Wars
@@ -57,7 +57,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -103,7 +103,7 @@ Built primarily during the Third Continental War by the allied forces of what wo
 
 ### The Great Siege Campaign
 
-The tunnel network was conceived during the siege of the ancient fortress-city of Drakmoor, when conventional siege tactics proved inadequate against the city's crystal-enhanced defenses. [[[[Lord Commander Gareth]] Steelborn]]'s engineering corps, working with dwarven miners from [[Ironhold]] and crystal-mages from [[Crystalhaven]], spent three years excavating the first major tunnel complex.
+The tunnel network was conceived during the siege of the ancient fortress-city of Drakmoor, when conventional siege tactics proved inadequate against the city's crystal-enhanced defenses. [[Lord Commander Gareth|[[Lord Commander Gareth]] Steelborn]]'s engineering corps, working with dwarven miners from [[Ironhold]] and crystal-mages from [[Crystalhaven]], spent three years excavating the first major tunnel complex.
 
 The success of the Drakmoor operation led to an arms race of underground warfare, with cities across [[Aethermoor]] both digging new offensive tunnels and counter-mining defensive networks. By the war's end, over 200 miles of tunnels crisscrossed the continent.
 
@@ -126,7 +126,7 @@ The ancient engineers employed three distinct tunnel types:
 **The Crystalhaven Underlayers**
 - Complex web of tunnels beneath [[garden]]
 - Many passages still contain active crystal formations
-- Used by the [[[[Merchant]]'s Covet]] for secure transport
+- Used by the [[Merchant|[[Merchant]]'s Covet]] for secure transport
 - Connects to the ancient [[Royal Vault]] systems
 
 **The Ironhold Deep Roads**
@@ -203,7 +203,7 @@ The ancient engineers employed three distinct tunnel types:
 ## Current Threats & Inhabitants
 
 **Ancient Guardians**: Crystal golems and mechanical constructs still defending key areas
-**[[Criminal [[Organization]]s]]**: [[Thieves Guild|02 Worldbuilding/Groups/Thieves Guild]] members and smuggling rings
+**[[Organization|Criminal [[Organization]]s]]**: [[Thieves Guild|02 Worldbuilding/Groups/Thieves Guild]] members and smuggling rings
 **Tunnel Rats**: Survivors who've adapted to permanent underground life  
 **Undead Soldiers**: Spirits of those who died in the tunnels during the wars
 **Aberrant Creatures**: Things that have crept up from deeper caves
@@ -249,7 +249,7 @@ Ancient Siege Tunnels is a undersea element of the setting, known for biolumines
 
 Legends speak of Ancient Siege Tunnels as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ancient Siege Tunnels.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -257,7 +257,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -289,3 +289,16 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Ancient Aquabyssos Rulers]]
+- [[Continental War]]
+- [[Ironhold]]
+- [[Ancient Aquabyssos Rulers (D&D_References)]]
+- [[Aquabyssos Ambassadors]]
+- [[Continental War (D&D_References)]]
+- [[Continental War 3 (D&D_References)]]
+- [[Ironhold (D&D_References)]]
+- [[Aethermoor - Session 05 The Queens Madness]]

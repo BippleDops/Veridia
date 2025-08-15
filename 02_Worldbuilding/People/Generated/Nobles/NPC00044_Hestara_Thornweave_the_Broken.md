@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Thornweave the Broken", "hestara thornweave the broken", "Hestara Thornweave Broken", "Broken the Thornweave Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Thornweave the Broken
 
 *Goliath Heir (Nobles), Age 57, Female*
@@ -13,7 +19,6 @@
 Very tall and wiry, with Short and neat auburn hair and Amber eyes. Fair skin. Gold tooth that glints when smiling.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Sees doom and gloom everywhere
@@ -36,17 +41,14 @@ Recently elevated to nobility through service, still learning courtly ways A fam
 - **Short Term**: Recruit new members
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Thalia Nightfall (Criminal - Accomplice)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Elric Zephyrblade (Family - Child)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ### Aeliana Winterborn (Family - Child)
 - **Status**: Professional only

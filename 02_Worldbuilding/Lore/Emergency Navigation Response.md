@@ -119,3 +119,8 @@ Emergency Navigation Response represents a crucial aspect of the world's history
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Emergency_Navigation_Response (02_Worldbuilding)]]
+- [[The Depth Chart]]

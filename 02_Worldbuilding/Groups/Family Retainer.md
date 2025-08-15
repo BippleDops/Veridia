@@ -163,3 +163,7 @@ Mentioned in The First Prophecy of Depths
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Pip Goldleaf (D&D_Statblocks)]]

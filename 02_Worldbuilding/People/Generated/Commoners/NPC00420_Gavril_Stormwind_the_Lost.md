@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Stormwind the Lost", "gavril stormwind the lost", "Gavril Stormwind Lost", "Lost the Stormwind Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Stormwind the Lost
 
 *Tabaxi Baker (Commoners), Age 53, Female*
@@ -13,7 +19,6 @@
 Tall and delicate, with Braided elaborately white hair and Amber eyes. Dark skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Incredibly optimistic despite evidence
@@ -36,7 +41,6 @@ Family has worked the same trade for generations, but times are changing They've
 - **Short Term**: Recruit new members
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Alaric Silverleaf the Strong (Family - Child)
 - **Status**: Strained but maintaining
@@ -47,21 +51,17 @@ Family has worked the same trade for generations, but times are changing They've
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
 
-
 ### Ewan Proudmore (Personal - Nemesis)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
-
 
 ### Drusilla Ironforge the Seeker (Family - Cousin)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Urien Proudmore the Mystic (Family - Cousin)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Is the lost heir to the throne

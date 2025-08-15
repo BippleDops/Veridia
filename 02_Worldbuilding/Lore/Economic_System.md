@@ -166,7 +166,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -208,7 +208,7 @@ improvements: 20
 
 - Add folk tales and children's stories
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -227,7 +227,7 @@ Mentioned in The Second Prophecy of Shadows
 - Strange sightings suggest a conspiracy
 - Someone is blackmailing a artifact for revenge
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -283,3 +283,25 @@ Mentioned in The Second Prophecy of Shadows
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Aurelius Goldwave]]
+- [[Crystal Corruption Taboos]]
+- [[Crystal Forest]]
+- [[Eastern Kingdoms (02_Worldbuilding)]]
+- [[Economic Crime Methods]]
+- [[Economic Systems and Currency]]
+- [[Memory Alteration Consequences]]
+- [[Post-Merge Chronology]]
+- [[Pressure Adaptation System]]
+- [[Shadow Magic Integration Practices]]
+- [[Temporal Anomaly Resolution]]
+- [[The Bathyal Succession]]
+- [[The Forgetting Bomb]]
+- [[Timeline of the Drowning]]
+- [[Umbral Exchange]]
+- [[Working Class Routines]]
+- [[Madame Rosalind Goldleaf]]
+- [[Tenebrarum Embassy]]
+- [[The Depth Market]]

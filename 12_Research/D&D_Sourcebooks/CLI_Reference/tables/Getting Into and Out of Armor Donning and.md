@@ -87,3 +87,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[06 Equipment]]
+- [[06-equipment (players-handbook-2014)]]

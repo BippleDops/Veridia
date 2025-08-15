@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Lightbringer the Bold", "ysara lightbringer the bold", "Ysara Lightbringer Bold", "Bold the Lightbringer Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Lightbringer the Bold
 
 *Goliath Corrupt Noble (Villains), Age 70, Non-binary*
@@ -36,37 +42,30 @@ Driven mad by knowledge humanity wasn't meant to know A family member's death ha
 - **Short Term**: Gather information
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Hestara Ashford the Scholar (Criminal - Handler)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Nerys Voidwalker the Scholar (Professional - Partner)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ### Gavril Winterborn the Mystic (Criminal - Target)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Aeliana Brightblade the Mystic (Criminal - Handler)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ### Drusilla Blackstone the Wise (Political - Opposition)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Aeliana Hawthorne the Cunning (Family - Sibling)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Is being controlled by darker force

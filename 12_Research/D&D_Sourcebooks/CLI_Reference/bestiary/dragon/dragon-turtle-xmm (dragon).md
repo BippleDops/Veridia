@@ -147,3 +147,23 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Dragon Turtle Xmm]]
+- [[At Sea Encounters]]
+- [[Coastal Encounters Levels 1116 Xge]]
+- [[Coastal Encounters Levels 1720 Xge]]
+- [[Monsters by Habitat Coastal Monsters Xmm]]
+- [[Monsters by Habitat Underwater Monsters Xmm]]
+- [[Random Encounters at Sea]]
+- [[Undersea Encounters]]
+- [[Underwater Encounters Levels 1120 Xge]]
+- [[at-sea-encounters (tables)]]
+- [[coastal-encounters-levels-1116-xge (tables)]]
+- [[coastal-encounters-levels-1720-xge (tables)]]
+- [[monsters-by-habitat-coastal-monsters-xmm (tables)]]
+- [[monsters-by-habitat-underwater-monsters-xmm (tables)]]
+- [[random-encounters-at-sea (tables)]]
+- [[undersea-encounters (tables)]]
+- [[underwater-encounters-levels-1120-xge (tables)]]

@@ -1,4 +1,5 @@
 ---
+aliases: ["Captain's Revenge", "captain's revenge", "Revenge Captain's"]
 tags: [quest, adventure, generated]
 type: quest
 ---
@@ -21,8 +22,6 @@ Gain access to the sunken temple and complete the ritual
 ### Secondary
 - Maintain cover identity
 - Document findings for scholars
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they accidentally discovered a conspiracy, which changed their life forever. Now, circumstances demand immediate action.

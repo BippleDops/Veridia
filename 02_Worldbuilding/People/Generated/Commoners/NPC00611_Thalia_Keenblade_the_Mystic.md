@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Keenblade the Mystic", "thalia keenblade the mystic", "Thalia Keenblade Mystic", "Mystic the Keenblade Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Keenblade the Mystic
 
 *Half-Elf Fisher (Commoners), Age 33, Non-binary*
@@ -36,7 +42,6 @@ Runaway from an arranged marriage, starting a new life A chance encounter last w
 - **Short Term**: Find missing person
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Zephyr Darkwater the Risen (Professional - Partner)
 - **Status**: Mutually beneficial
@@ -47,7 +52,6 @@ Runaway from an arranged marriage, starting a new life A chance encounter last w
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
 
-
 ### Lyanna Blackstone the Broken (Personal - Childhood friend)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
@@ -57,16 +61,13 @@ Runaway from an arranged marriage, starting a new life A chance encounter last w
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Kaelen Emberfall the Risen (Professional - Employee)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Alaric Moonshadow the Mystic (Political - Patron)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Witnessed a noble's crime

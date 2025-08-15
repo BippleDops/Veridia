@@ -1,3 +1,9 @@
+---
+aliases: ["Thunder Hammer of Slaying", "thunder hammer of slaying", "Slaying of Hammer Thunder"]
+tags: [item, equipment]
+type: item
+---
+
 # Thunder Hammer of Slaying
 
 *Weapons, Very Rare*
@@ -16,8 +22,6 @@ A thunder hammer carved from dragon bone
 - +2 to attack and damage rolls
 - +1 to attack and damage rolls
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -32,7 +36,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.370Z*

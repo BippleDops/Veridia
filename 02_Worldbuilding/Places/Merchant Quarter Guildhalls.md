@@ -1,6 +1,6 @@
 ---
 
-title: [[[[Merchant]] Quarter]] Guildhalls
+title: [[Merchant|[[Merchant]] Quarter]] Guildhalls
 type: [[location]]
 tags:
 - both
@@ -37,7 +37,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -98,7 +98,7 @@ Legends speak of Merchant Quarter Guildhalls as a nexus where past and present c
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -122,13 +122,11 @@ Merchant Quarter Guildhalls is a notable location characterized by its unique fe
 ### Founding
 Merchant Quarter Guildhalls was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -136,13 +134,11 @@ Merchant Quarter Guildhalls was established in the distant past, growing from hu
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -160,7 +156,7 @@ Ongoing situations affecting Merchant Quarter Guildhalls:
 - External threats
 - Opportunities arising
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -176,7 +172,6 @@ Ongoing situations affecting Merchant Quarter Guildhalls:
 - Civil war
 - Natural disasters
 - Current [[Power Structures]] established
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -213,3 +208,8 @@ Ongoing situations affecting Merchant Quarter Guildhalls:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Quest - The Blackmail Papers_1 (01_Adventures)]]
+- [[Quest - The Blackmail Papers_2 (01_Adventures)]]

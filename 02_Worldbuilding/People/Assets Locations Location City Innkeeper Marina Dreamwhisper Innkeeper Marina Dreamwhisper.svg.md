@@ -182,7 +182,7 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[04_Resources_Assets_Locations_location-city-dr-reef-brightwater-v1-dr-reef-brightwater.svg]] (rival)
 - [[Supernatural Influence]] (enemy)
-- [[Quest   The Succession Crisis]] (ally)
+- [[The Succession Crisis|Quest   The Succession Crisis]] (ally)
 ---
 *Tags*: #npc #contact #worldbuilding
 
@@ -197,3 +197,7 @@ This NPC can serve multiple roles:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Assets Portraits Portrait NPC Captain Morgrim Lastvessel Captain Morgrim Lastvessel.svg]]

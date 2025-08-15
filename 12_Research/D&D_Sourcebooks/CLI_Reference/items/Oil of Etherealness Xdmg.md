@@ -82,3 +82,21 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Sovereign Glue Xdmg]]
+- [[Wand of Viscid Globs Oota]]
+- [[sovereign-glue-xdmg (items)]]
+- [[wand-of-viscid-globs-oota (items)]]
+- [[Arcana Rare Xdmg]]
+- [[Magic Item Table C]]
+- [[Random Magic Items Arcana]]
+- [[Variant Mixing Potions Potion Miscibility]]
+- [[arcana-rare-xdmg (tables)]]
+- [[magic-item-table-c (tables)]]
+- [[random-magic-items-arcana (tables)]]
+- [[variant-mixing-potions-potion-miscibility (tables)]]
+- [[Mixing Potions]]
+- [[mixing-potions (variant-rules)]]

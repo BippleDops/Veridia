@@ -14,7 +14,6 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 > [!figure] Asset
 ![](04_Resources/Assets/Portraits/portrait-npc-quest-into-the-wastes-quest-into-the-wastes.svg)
 
@@ -55,12 +54,10 @@ accessibility:
 
 # Quest - Into the Wastes
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -86,7 +83,7 @@ accessibility:
 Quest - Into the Wastes moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.
 
 - Ideal: Stability through controlled risk.
-- Bond: A family archive tied to [[Lighthouse of Storms]].
+- Bond: A family archive tied to [[Lighthouse_of_Storms|Lighthouse of Storms]].
 - Flaw: Overconfidence in leverage; underestimates zealots and true believers.
 
 ## Player-Facing Summary
@@ -205,7 +202,6 @@ Contextual improvement based on 12_Research
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Time Limit
 - **Deadline**: When it must be completed

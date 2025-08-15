@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Thornweave the Seeker", "elric thornweave the seeker", "Elric Thornweave Seeker", "Seeker the Thornweave Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Thornweave the Seeker
 
 *Tabaxi Blacksmith (Commoners), Age 23, Male*
@@ -36,12 +42,10 @@ Former soldier trying to adjust to civilian life They've made a deal they're beg
 - **Short Term**: Survive until next week
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Aeliana Grimholt the Lost (Professional - Rival)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
-
 
 ### Aldric Nightfall the Cunning (Professional - Rival)
 - **Status**: Strong and trusting
@@ -51,7 +55,6 @@ Former soldier trying to adjust to civilian life They've made a deal they're beg
 ### Ewan Winterborn the Bold (Political - Spy)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Has dragon blood in their veins

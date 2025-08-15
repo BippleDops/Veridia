@@ -1,4 +1,5 @@
 ---
+aliases: ["The Frozen Fortress Disappearances", "the frozen fortress disappearances", "Disappearances Fortress Frozen The"]
 tags: [quest, adventure, generated]
 type: quest
 ---
@@ -21,8 +22,6 @@ Protect the sunken temple from the orc horde for three days
 ### Secondary
 - Document findings for scholars
 - Document findings for scholars
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they survived a plague that killed their family, which changed their life forever. Now, circumstances demand immediate action.
@@ -57,8 +56,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Save civilians and risk failure - Heroes to the people but objective compromised
 2. Complete mission at any cost - Success but blood on hands
-
-
 
 ## Rewards
 ### On Success

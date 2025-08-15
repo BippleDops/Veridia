@@ -56,3 +56,9 @@ Actively involved in current events, pursuing their own agenda while maintaining
 
 ## DM Notes
 *This NPC can serve multiple roles depending on campaign needs. Their true loyalties are intentionally ambiguous.*
+
+## References
+
+- [[Sirens]]
+- [[Location_Network_Graph.md]]
+- [[Sirens (D&D_References)]]

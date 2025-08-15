@@ -1,3 +1,9 @@
+---
+aliases: ["Cursed Spear of Slaying", "cursed spear of slaying", "Slaying of Spear Cursed"]
+tags: [item, equipment]
+type: item
+---
+
 # Cursed Spear of Slaying
 
 *Weapons, Very Rare*
@@ -16,8 +22,6 @@ A cursed spear carved from dragon bone
 - +1 to attack and damage rolls
 - Returns when thrown
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -32,7 +36,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.345Z*

@@ -42,7 +42,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -99,7 +99,7 @@ Legends speak of Public Safety as a nexus where past and present converge. Local
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -120,13 +120,11 @@ Public Safety is a notable location characterized by its unique features and str
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -134,13 +132,11 @@ Public Safety is a notable location characterized by its unique features and str
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -169,7 +165,7 @@ Key stop on spices trade route
 - Someone is protecting an heir for money
 - Strange disappearances suggest a conspiracy
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -216,7 +212,6 @@ Key stop on spices trade route
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -252,3 +247,30 @@ Key stop on spices trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Aetheric Wind Songs]]
+- [[Crystal-Corruption-Tracking-Sheet]]
+- [[Political Compromise Costs]]
+- [[Quarantine Enforcement]]
+- [[Shadow Magic Integration Practices]]
+- [[Temporal Anomaly Resolution]]
+- [[The Crystal Festival]]
+- [[Underground Smuggling Networks]]
+- [[Blood Current Express]]
+- [[Community Support Programs]]
+- [[Crystal Cult Temples]]
+- [[Deep_Current_Academy (Places)]]
+- [[Depth Warden Patrol]]
+- [[Depth Wardens]]
+- [[Mad Oracle Thessaly]]
+- [[Pearl_Harbor_City]]
+- [[Royal Academy of Arcane Arts Ruins (Places)]]
+- [[Royal_Academy_of_Arcane_Arts (Places)]]
+- [[Services Inter Realm Transportation]]
+- [[The_Academy_of_Investigative_Arts (Places)]]
+- [[The_Academy_of_Resoce]]
+- [[The_Professional_Training_Academy (Places)]]
+- [[Windwright Academy]]
+- [[Mad Oracle Thessaly (D&D_References)]]

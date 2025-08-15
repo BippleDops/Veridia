@@ -18,16 +18,13 @@ updated: 2025-08-14
 - **East**: River crossing
 - **West**: Mountain pass
 
-
 # Parallel Realities
-
 
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
 - **Law Enforcement**: Town guard
 - **Justice System**: Local magistrate
-
 
 ## Economy
 - **Primary Exports**: Local goods
@@ -46,7 +43,6 @@ The approach to Parallel Realities reveals its significance through architectura
 
 ### Interior
 Within Parallel Realities, visitors find a carefully designed space serving multiple purposes.
-
 
 ## Demographics
 - **Population**: ~1,000
@@ -83,7 +79,6 @@ Recent developments have brought new attention to Parallel Realities, creating o
 
 ## DM Notes
 *Parallel Realities can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions

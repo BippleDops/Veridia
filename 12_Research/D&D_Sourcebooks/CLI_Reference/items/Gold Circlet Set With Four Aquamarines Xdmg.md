@@ -75,3 +75,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[2500 Gp Art Objects Xdmg]]
+- [[2500 Gp Art Objects]]
+- [[2500-gp-art-objects (tables)]]
+- [[2500-gp-art-objects-xdmg (tables)]]

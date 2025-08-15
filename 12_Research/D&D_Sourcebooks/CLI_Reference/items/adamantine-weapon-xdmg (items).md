@@ -153,3 +153,15 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[09 Appendix a Lore Glossary]]
+- [[09-appendix-a-lore-glossary (dungeon-masters-guide-2024)]]
+- [[Armaments Uncommon Xdmg]]
+- [[Random Magic Items Armaments]]
+- [[armaments-uncommon-xdmg (tables)]]
+- [[random-magic-items-armaments (tables)]]
+- [[Adamantine Weapons Xge]]
+- [[adamantine-weapons-xge (variant-rules)]]

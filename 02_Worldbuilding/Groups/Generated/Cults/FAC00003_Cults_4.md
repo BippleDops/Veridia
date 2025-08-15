@@ -1,6 +1,18 @@
-# Cults 4
+---
+aliases: ["Cults 4", "cults 4", "4 Cults"]
+tags: [note, stub-fixed]
+---
 
-*Cults*
+# Fac00003 Cults 4
+
+## Content
+Content to be added.
+
+## Related
+- [[Related content]]
+
+## Notes
+*Stub file automatically populated*
 
 ---
-*ID: FAC00003*
+*Note: This content develops through gameplay and campaign events.*

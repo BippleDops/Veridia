@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Hawthorne the Mystic", "branwen hawthorne the mystic", "Branwen Hawthorne Mystic", "Mystic the Hawthorne Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Hawthorne the Mystic
 
 *Dwarf Ambassador (Nobles), Age 74, Male*
@@ -42,16 +48,13 @@ Recently elevated to nobility through service, still learning courtly ways They 
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Zephyr Oakenshield (Professional - Employee)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
 
-
 ### Kaelen Crystalbrook the Bold (Criminal - Target)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Actually a bastard with no real claim

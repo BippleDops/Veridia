@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Ironforge the Redeemed", "malakai ironforge the redeemed", "Malakai Ironforge Redeemed", "Redeemed the Ironforge Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Ironforge the Redeemed
 
 *Half-Elf Baker (Commoners), Age 53, Female*
@@ -13,7 +19,6 @@
 Short and athletic, with Shaved silver hair and Black eyes. Unusual hue skin. Intricate tattoos covering arms.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Compulsive liar about minor things
@@ -36,32 +41,26 @@ Runaway from an arranged marriage, starting a new life They're being blackmailed
 - **Short Term**: Avoid the authorities
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Nerys Ironwood the Bold (Professional - Employer)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
 
-
 ### Hilda Ravenheart the Risen (Personal - Best friend)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
-
 
 ### Alaric Darkwater the Lost (Personal - Love interest)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Branwen Dawnstrider the Wise (Family - Spouse)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Brenna Frostwhisper the Wise (Family - Cousin)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Knows location of ancient treasure

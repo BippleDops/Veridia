@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Keenblade the Wanderer", "erasmus keenblade the wanderer", "Erasmus Keenblade Wanderer", "Wanderer the Keenblade Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Keenblade the Wanderer
 
 *Tiefling Cleric (Adventurers), Age 65, Female*
@@ -42,16 +48,13 @@ Seeking vengeance for a murdered mentor A chance encounter last winter changed t
 - **Status**: One-sided affection
 - **History**: United by common enemy
 
-
 ### Cedric Quicksilver the Lost (Criminal - Fence)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
 
-
 ### Hilda Winterborn the Bold (Criminal - Target)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Is from the future

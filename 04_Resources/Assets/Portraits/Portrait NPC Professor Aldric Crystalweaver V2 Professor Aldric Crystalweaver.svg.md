@@ -79,3 +79,7 @@ improvements: 20
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+## References
+
+- [[Assets Vehicles Vehicle Ship Resonance Drive Yacht V2 Resonance Drive Yacht.svg]]

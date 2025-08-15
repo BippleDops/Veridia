@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Dawnstrider the Guardian", "thalia dawnstrider the guardian", "Thalia Dawnstrider Guardian", "Guardian the Dawnstrider Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Dawnstrider the Guardian
 
 *Genasi Appraiser (Merchants), Age 39, Non-binary*
@@ -42,21 +48,17 @@ Inherited a failing business and turned it around A chance encounter last winter
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
 
-
 ### Brenna Grimholt the Seeker (Criminal - Informant)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
-
 
 ### Aldric Silverleaf the Guardian (Criminal - Informant)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
 
-
 ### Xander Nightfall the Lost (Personal - Ex-lover)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Sells information to all sides

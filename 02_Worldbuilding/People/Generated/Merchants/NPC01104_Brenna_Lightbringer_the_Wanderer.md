@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Lightbringer the Wanderer", "brenna lightbringer the wanderer", "Brenna Lightbringer Wanderer", "Wanderer the Lightbringer Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Lightbringer the Wanderer
 
 *Tiefling Shopkeeper (Merchants), Age 76, Male*
@@ -36,22 +42,18 @@ Built their business from nothing through cunning and hard work A chance encount
 - **Short Term**: Sabotage competition
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Faelyn Moonshadow the Redeemed (Personal - Best friend)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Gavril Zephyrblade the Wise (Family - Cousin)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
 
-
 ### Hestara Dawnstrider the Lost (Personal - Childhood friend)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Killed previous business owner

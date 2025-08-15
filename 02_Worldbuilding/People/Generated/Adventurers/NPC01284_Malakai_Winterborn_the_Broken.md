@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Winterborn the Broken", "malakai winterborn the broken", "Malakai Winterborn Broken", "Broken the Winterborn Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Winterborn the Broken
 
 *Goliath Rogue (Adventurers), Age 34, Male*
@@ -36,7 +42,6 @@ Accidentally gained powers and learning to control them A prophetic dream has be
 - **Short Term**: Complete current contract
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Jorah Grimholt the Redeemed (Criminal - Fence)
 - **Status**: On the verge of collapse
@@ -52,16 +57,13 @@ Accidentally gained powers and learning to control them A prophetic dream has be
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Vesper Ashford the Wise (Family - Parent)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
 
-
 ### Rhiannon Winterborn the Cunning (Family - Cousin)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ### Dara Darkwater the Swift (Personal - Childhood friend)
 - **Status**: Strained but maintaining

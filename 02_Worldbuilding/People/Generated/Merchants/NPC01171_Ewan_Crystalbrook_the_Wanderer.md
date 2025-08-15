@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Crystalbrook the Wanderer", "ewan crystalbrook the wanderer", "Ewan Crystalbrook Wanderer", "Wanderer the Crystalbrook Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Crystalbrook the Wanderer
 
 *Dwarf Broker (Merchants), Age 73, Female*
@@ -36,12 +42,10 @@ Former adventurer who retired to open a shop They recently discovered a secret t
 - **Short Term**: Complete current contract
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Gavril Moonshadow the Bold (Professional - Employer)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
-
 
 ### Fiora Ashford the Seeker (Political - Opposition)
 - **Status**: Mutually beneficial
@@ -51,7 +55,6 @@ Former adventurer who retired to open a shop They recently discovered a secret t
 ### Xander Jadeclaw the Seeker (Criminal - Handler)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Is actually a spy for foreign power

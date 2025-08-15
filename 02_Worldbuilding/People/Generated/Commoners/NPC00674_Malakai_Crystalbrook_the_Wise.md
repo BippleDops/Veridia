@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Crystalbrook the Wise", "malakai crystalbrook the wise", "Malakai Crystalbrook Wise", "Wise the Crystalbrook Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Crystalbrook the Wise
 
 *Half-Elf Blacksmith (Commoners), Age 75, Non-binary*
@@ -36,37 +42,30 @@ Former soldier trying to adjust to civilian life Strange abilities have begun ma
 - **Short Term**: Sabotage competition
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Faelyn Hawthorne the Redeemed (Family - Cousin)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Jorah Thornweave the Lost (Personal - Childhood friend)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ### Rhiannon Quicksilver the Lost (Professional - Mentor)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Pyria Winterborn the Cunning (Criminal - Handler)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ### Fiora Dawnstrider the Broken (Criminal - Accomplice)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Erasmus Moonshadow the Cunning (Personal - Ex-lover)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Has dragon blood in their veins

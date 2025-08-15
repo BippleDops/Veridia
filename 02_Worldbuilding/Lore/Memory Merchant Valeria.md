@@ -46,7 +46,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -100,7 +100,7 @@ Memory Merchant Valeria is a undersea element of the setting, known for biolumin
 
 Legends speak of Memory Merchant Valeria as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memory Merchant Valeria.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -115,3 +115,19 @@ Different cultures interpret this lore through their own lens, creating variatio
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+## References
+
+- [[Merchant Family Alliances]]
+- [[Reputation System]]
+- [[Silver Mask]]
+- [[The Crimson Hand]]
+- [[The Silverscale Conspiracy]]
+- [[Memory Farmers]]
+- [[Ancient Aquabyssos Rulers (D&D_References)]]
+- [[Memory Farmers (D&D_References)]]
+- [[Reputation System (D&D_References)]]
+- [[Silver Mask (D&D_References)]]
+- [[The Crimson Hand (D&D_References)]]
+- [[The Crimson Hand 3 (D&D_References)]]
+- [[The Silverscale Conspiracy (D&D_References)]]

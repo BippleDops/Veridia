@@ -35,7 +35,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-militant-priest-abyssal-militant-priest-abyssal.svg)
 
@@ -255,7 +254,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
-
 
 ## Daily Routine
 - **Morning**: Typical activities

@@ -146,3 +146,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[tree-blight-xmm (plant)]]
+- [[Monsters by Habitat Forest Monsters Xmm]]
+- [[monsters-by-habitat-forest-monsters-xmm (tables)]]

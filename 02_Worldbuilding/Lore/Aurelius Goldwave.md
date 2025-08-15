@@ -31,14 +31,14 @@ race: [[Merfolk]]
 class: Rogue (Mastermind)/Warlock (Great Old One)
 level: 14
 alignment: Lawful Evil
-allegiance: '[[[[Silverscale Banking House]]|[[02 Worldbuilding]]/[[Groups]]/Silverscale Banking]]
+allegiance: '[[Silverscale Banking House|[[Silverscale Banking House]]|[[02_Worldbuilding|02 Worldbuilding]]/[[Groups]]/Silverscale Banking]]
   House]] (secretly)'
 current_[[location]]: '[[Port Meridian]] - Ficial District'
 occupation: Senior Partner, Goldwave Ficial Consortium
 related_entities:
 - '[[Silverscale Banking House|02 Worldbuilding/Groups/Silverscale Banking House]]'
-- '[[The [[Seven Shards]]]]'
-- '[[[[Memory Meadows]] Black Market]]'
+- '[[Seven Shards|The [[Seven Shards]]]]'
+- '[[Memory Meadows|[[Memory Meadows]] Black Market]]'
 - '[[Marina]]
   Identity Crisis]]'
 updated: '2025-08-13T12:34:15.912943+00:00'
@@ -67,7 +67,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -111,7 +111,7 @@ Aurelius Goldwave presents himself as [[Aquabyssos]]'s most successful independe
 
 Operating from his luxurious offices in [[Port Meridian]]'s prestigious Ficial District, Aurelius has built an empire based on information, influence, and the subtle corruption of [[Memory Magic]]. His clients believe they are receiving expert ficial advice, unaware that their deepest secrets are being harvested, their memories subtly altered, and their wealth gradually siphoned into accounts controlled by the [[Silverscale Banking House|02 Worldbuilding/Groups/Silverscale Banking House]] conspiracy.
 
-What makes Aurelius particularly dangerous is not just his ficial acumen, but his growing connection to entities beyond the normal world—specifically, his pact with something that whispers from the depths of [[[[The Abyss Beneath Aquabyssos]]|02 Worldbuilding/[[Places]]/The Abyss Beneath Aquabyssos]]. This otherworldly patron has granted him abilities that blur the line between ficial manipulation and mind control, making him both incredibly wealthy and increasingly inhuman.
+What makes Aurelius particularly dangerous is not just his ficial acumen, but his growing connection to entities beyond the normal world—specifically, his pact with something that whispers from the depths of [[The Abyss Beneath Aquabyssos|[[The Abyss Beneath Aquabyssos]]|02 Worldbuilding/[[Places]]/The Abyss Beneath Aquabyssos]]. This otherworldly patron has granted him abilities that blur the line between ficial manipulation and mind control, making him both incredibly wealthy and increasingly inhuman.
 
 ### Distinctive Appearance
 
@@ -130,7 +130,7 @@ Years of exposure to otherworldly influence have left subtle but disturbing chan
 
 ### Professional Demeanor
 
-Aurelius maintains an impeccably professional appearance at all [[Time]]s. His clothing is always the finest available, crafted from rare deep-sea materials and adorned with authentic treasures recovered from the [[[[Leviathan]] Graveyard]]. He moves with the confident grace of someone accustomed to being the wealthiest person in any room, yet maintains an approachable demeanor that puts potential clients at ease.
+Aurelius maintains an impeccably professional appearance at all [[Time]]s. His clothing is always the finest available, crafted from rare deep-sea materials and adorned with authentic treasures recovered from the [[Leviathan|[[Leviathan]] Graveyard]]. He moves with the confident grace of someone accustomed to being the wealthiest person in any room, yet maintains an approachable demeanor that puts potential clients at ease.
 
 ### Early Life and Legitimate Success
 
@@ -163,7 +163,7 @@ Armed with otherworldly power and backed by the [[Silverscale Banking House|02 W
 
 Aurelius's most insidious current operation involves what he calls "Memory Investment"—a service offered to wealthy clients who wish to "optimize their decision-making capacity." Clients are told that traumatic or emotionally charged memories can be temporarily stored in magical containers, allowing for clearer thinking during important ficial decisions.
 
-In reality, these extracted memories are sold in the [[Memory Meadows Black Market]], providing valuable intelligence to various [[Criminal [[Organization]]s]] while leaving clients with gaps in their knowledge that Aurelius can exploit. The memories are categorized and priced based on their content:
+In reality, these extracted memories are sold in the [[Memory Meadows Black Market]], providing valuable intelligence to various [[Organization|Criminal [[Organization]]s]] while leaving clients with gaps in their knowledge that Aurelius can exploit. The memories are categorized and priced based on their content:
 
 **Corporate Secrets**: High-value memories containing trade information, business strategies, or [[Competitive Intelligence]]
 **Personal Vulnerabilities**: Embarrassing or compromising memories useful for blackmail
@@ -238,7 +238,7 @@ Aurelius represents a unique vector for shadow corruption—rather than being di
 
 The corruption he spreads is subtle but pervasive:
 - Clients gradually become more greedy, callous, and manipulative
-- [[Economic System]]s become increasingly unstable and exploitative  
+- [[Economic_System|Economic System]]s become increasingly unstable and exploitative  
 - Traditional values of community and cooperation erode in favor of pure self-interest
 - The boundary between legitimate business and supernatural manipulation dissolves
 
@@ -378,7 +378,7 @@ Aurelius Goldwave is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Aurelius Goldwave as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aurelius Goldwave.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -399,7 +399,7 @@ Mentioned in The Hidden Prophecy of Stars
 - **Mentor**: [[02 Chapter 1 Playing the Game#stabilizing a Character]]
 - **Blackmailer**: [[Npc]]
 - **Friend**: [[Npc]]
-- **Child**: [[The [[Deepmind Conspiracy]]]]
+- **Child**: [[Deepmind Conspiracy|The [[Deepmind Conspiracy]]]]
 
 ## Plot Hooks
 
@@ -436,3 +436,11 @@ Mentioned in The Hidden Prophecy of Stars
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[Trade Route Establishment]]
+- [[Goldwave Manor (D&D_References)]]
+- [[Goldwave Manor 3 (D&D_References)]]
+- [[Silver Mask (D&D_References)]]
+- [[The Silverscale Conspiracy (D&D_References)]]

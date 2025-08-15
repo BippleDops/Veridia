@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Quicksilver the Wanderer", "kaelen quicksilver the wanderer", "Kaelen Quicksilver Wanderer", "Wanderer the Quicksilver Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Quicksilver the Wanderer
 
 *Halfling Blacksmith (Commoners), Age 77, Female*
@@ -36,7 +42,6 @@ Runaway from an arranged marriage, starting a new life They've been marked by a 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Branwen Goldleaf the Fallen (Political - Spy)
 - **Status**: Professional only
@@ -47,7 +52,6 @@ Runaway from an arranged marriage, starting a new life They've been marked by a 
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Pyria Thornweave the Mystic (Political - Opposition)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
@@ -57,11 +61,9 @@ Runaway from an arranged marriage, starting a new life They've been marked by a 
 - **Status**: Professional only
 - **History**: United by common enemy
 
-
 ### Elric Thornweave the Scholar (Criminal - Fence)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ### Gavril Ravenheart the Strong (Personal - Best friend)
 - **Status**: Blood oath bound

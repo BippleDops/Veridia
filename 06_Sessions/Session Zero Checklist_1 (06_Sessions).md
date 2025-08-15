@@ -57,7 +57,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## See Also
 - Related content
 - Similar topics

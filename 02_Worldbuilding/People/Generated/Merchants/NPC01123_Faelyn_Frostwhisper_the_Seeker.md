@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Frostwhisper the Seeker", "faelyn frostwhisper the seeker", "Faelyn Frostwhisper Seeker", "Seeker the Frostwhisper Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Frostwhisper the Seeker
 
 *Elf Appraiser (Merchants), Age 74, Male*
@@ -36,22 +42,18 @@ Inherited a failing business and turned it around They've been marked by a secre
 - **Short Term**: Avoid the authorities
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Zephyr Silverleaf the Strong (Professional - Employee)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
 
-
 ### Gavril Ironwood the Mystic (Criminal - Fence)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Gavril Quicksilver the Swift (Professional - Employee)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ### Aldric Jadeclaw the Seeker (Political - Patron)
 - **Status**: Complicated history
@@ -62,11 +64,9 @@ Inherited a failing business and turned it around They've been marked by a secre
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Felicia Ravenheart the Risen (Personal - Love interest)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is actually a spy for foreign power

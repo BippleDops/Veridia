@@ -252,3 +252,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Crystal Goverce Model]]
+- [[The Crystal Goverce Institute]]
+- [[Aethermoor - Session 10 The Deep Mother Rises]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Ethereal Chain Mail of Grace", "ethereal chain mail of grace", "Grace of Mail Chain Ethereal"]
+tags: [item, equipment]
+type: item
+---
+
 # Ethereal Chain Mail of Grace
 
 *Armor, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A ethereal chain mail shimmering with energy
 - Reduces damage by 3
 - Immunity to critical hits
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -30,7 +34,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.382Z*

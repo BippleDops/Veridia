@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Quicksilver the Risen", "dara quicksilver the risen", "Dara Quicksilver Risen", "Risen the Quicksilver Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Quicksilver the Risen
 
 *Goliath Bard (Adventurers), Age 68, Non-binary*
@@ -13,7 +19,6 @@
 Very short and stocky, with Carefully styled silver hair and Gray eyes. Pale skin. Missing ear from old battle.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Compulsive liar about minor things
@@ -36,22 +41,18 @@ Running from a dark past that won't stay buried A chance encounter last winter c
 - **Short Term**: Sabotage competition
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Corvus Blackstone the Risen (Professional - Employee)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
 
-
 ### Malakai Blackstone the Redeemed (Professional - Partner)
 - **Status**: Professional only
 - **History**: United by common enemy
 
-
 ### Malakai Ravenheart the Fallen (Political - Patron)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Carries a world-ending artifact

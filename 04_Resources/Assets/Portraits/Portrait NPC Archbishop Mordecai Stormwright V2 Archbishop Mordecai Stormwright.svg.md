@@ -116,3 +116,7 @@ improvements: 20
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[Assets Locations Location City Harbormaster Creedence Tidereader V1 Harbormaster Creedence Tidereader.svg]]

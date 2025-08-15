@@ -1,3 +1,9 @@
+---
+aliases: ["Distilled Powder of Swiftness", "distilled powder of swiftness", "Swiftness of Powder Distilled"]
+tags: [item, equipment]
+type: item
+---
+
 # Distilled Powder of Swiftness
 
 *Consumables, Uncommon*

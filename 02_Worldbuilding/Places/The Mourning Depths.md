@@ -42,7 +42,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -99,7 +99,7 @@ Legends speak of The Mourning Depths as a nexus where past and present converge.
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -123,13 +123,11 @@ The Mourning Depths is a notable location characterized by its unique features a
 ### Founding
 The Mourning Depths was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -137,13 +135,11 @@ The Mourning Depths was established in the distant past, growing from humble beg
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -172,7 +168,7 @@ Ongoing situations affecting The Mourning Depths:
 - A journal reveals the truth about this place
 - A journal reveals a betrayal about this place
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -200,7 +196,6 @@ Ongoing situations affecting The Mourning Depths:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -237,3 +232,9 @@ Ongoing situations affecting The Mourning Depths:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Mourning Depths]]
+- [[Aquabyssos - Session 08 - The Fractal Conspiracy]]
+- [[Aquabyssos - Session 09 - The Mourning Strategy]]

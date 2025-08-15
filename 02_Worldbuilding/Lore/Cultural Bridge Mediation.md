@@ -109,3 +109,7 @@ Cultural Bridge Mediation represents a crucial aspect of the world's history, co
 - Civil war
 - Natural disasters
 - Current [[Power Structures]] established
+
+## References
+
+- [[Mediator Serenity Stillwater]]

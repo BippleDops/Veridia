@@ -1,3 +1,9 @@
+---
+aliases: ["Lesser Oil of Healing", "lesser oil of healing", "Healing of Oil Lesser"]
+tags: [item, equipment]
+type: item
+---
+
 # Lesser Oil of Healing
 
 *Consumables, Uncommon*
@@ -14,8 +20,6 @@ A lesser oil swirling with colors
 - Breathe underwater 1 hour
 - Restore 4d4+4 hit points
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -30,7 +34,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.438Z*

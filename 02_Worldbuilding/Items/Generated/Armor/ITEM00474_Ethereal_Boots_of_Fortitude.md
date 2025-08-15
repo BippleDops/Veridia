@@ -1,3 +1,9 @@
+---
+aliases: ["Ethereal Boots of Fortitude", "ethereal boots of fortitude", "Fortitude of Boots Ethereal"]
+tags: [item, equipment]
+type: item
+---
+
 # Ethereal Boots of Fortitude
 
 *Armor, Common*

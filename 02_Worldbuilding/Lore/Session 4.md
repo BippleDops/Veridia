@@ -13,7 +13,7 @@ created: '2025-01-15'
 # Session 4
 
 ## Overview
-This topic is referenced in [[Innkeeper [[Marina Dreamwhisper]]]] and other parts of the campaign.
+This topic is referenced in [[Marina Dreamwhisper|Innkeeper [[Marina Dreamwhisper]]]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
@@ -29,3 +29,14 @@ Further information about this topic will be developed as the campaign progresse
 - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery
+
+## References
+
+- [[Campaign_Overview_1 (01_Adventures)]]
+- [[City Watch]]
+- [[The Merchant's Guild]]
+- [[Assets Locations Location City Innkeeper Marina Dreamwhisper V1 Innkeeper Marina Dreamwhisper.svg]]
+- [[Investigate the Crystal Plague]]
+- [[Watch Captain Roderick Shieldbreaker]]
+- [[Watch Captain Roderick Shieldbreaker (D&D_References)]]
+- [[Investigate the Crystal Plague (D&D_Statblocks)]]

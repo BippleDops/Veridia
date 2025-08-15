@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Oakenshield the Seeker", "fiora oakenshield the seeker", "Fiora Oakenshield Seeker", "Seeker the Oakenshield Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Oakenshield the Seeker
 
 *Dragonborn Farmer (Commoners), Age 47, Female*
@@ -42,7 +48,6 @@ Family has worked the same trade for generations, but times are changing A famil
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Rhiannon Moonshadow the Wise (Criminal - Target)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
@@ -52,11 +57,9 @@ Family has worked the same trade for generations, but times are changing A famil
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Qadim Underhill the Seeker (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Witnessed a noble's crime

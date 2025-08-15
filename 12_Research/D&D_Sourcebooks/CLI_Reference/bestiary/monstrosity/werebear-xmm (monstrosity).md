@@ -135,3 +135,29 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[Werebear Xmm]]
+- [[Arctic Encounters Levels 1116 Xge]]
+- [[Arctic Encounters Levels 1720 Xge]]
+- [[Arctic Encounters Levels 510 Xge]]
+- [[Forest Encounters Levels 1116 Xge]]
+- [[Forest Encounters Levels 1720 Xge]]
+- [[Forest Encounters Levels 510 Xge]]
+- [[Hill Encounters Levels 1116 Xge]]
+- [[Hill Encounters Levels 1720 Xge]]
+- [[Monsters by Habitat Arctic Monsters Xmm]]
+- [[Monsters by Habitat Forest Monsters Xmm]]
+- [[Monsters by Habitat Hill Monsters Xmm]]
+- [[arctic-encounters-levels-1116-xge (tables)]]
+- [[arctic-encounters-levels-1720-xge (tables)]]
+- [[arctic-encounters-levels-510-xge (tables)]]
+- [[forest-encounters-levels-1116-xge (tables)]]
+- [[forest-encounters-levels-1720-xge (tables)]]
+- [[forest-encounters-levels-510-xge (tables)]]
+- [[hill-encounters-levels-1116-xge (tables)]]
+- [[hill-encounters-levels-1720-xge (tables)]]
+- [[monsters-by-habitat-arctic-monsters-xmm (tables)]]
+- [[monsters-by-habitat-forest-monsters-xmm (tables)]]
+- [[monsters-by-habitat-hill-monsters-xmm (tables)]]

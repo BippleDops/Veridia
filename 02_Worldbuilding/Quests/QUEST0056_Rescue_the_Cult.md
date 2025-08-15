@@ -1,4 +1,5 @@
 ---
+aliases: ["Rescue the Cult", "rescue the cult", "Rescue Cult", "Cult the Rescue"]
 tags: [generated]
 id: QUEST0056
 created: 2025-08-15T04:09:51.395Z
@@ -22,8 +23,6 @@ Retrieve the ancient artifact from the sunken temple
 ### Secondary
 - Minimize civilian casualties
 - Minimize civilian casualties
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they once saved a noble's life and earned their favor, which changed their life forever. Now, circumstances demand immediate action.

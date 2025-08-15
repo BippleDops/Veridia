@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-madame-crystal-eye-madame-crystal-eye.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -182,7 +180,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Member of House Lionblood - Trait: magical affinity
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -252,3 +249,11 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Art Choir Master Celestine Hymnsinger.png]]
+- [[Assets Locations Location City Grief Overwhelming Syndrome V1 Grief Overwhelming Syndrome.svg]]
+- [[Assets Locations Location City Harbor Pilot Captain Storm Skyreacher V1 Harbor Pilot Captain Storm Skyreacher.svg]]
+- [[Assets Portraits Portrait NPC Captain Dimensional Captain Dimensional.svg]]
+- [[Assets Symbols Symbol Heraldry Lysara Brightshield Lysara Brightshield.svg]]

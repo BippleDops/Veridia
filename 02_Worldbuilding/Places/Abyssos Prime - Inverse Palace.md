@@ -280,7 +280,7 @@ The palace's reality-warping properties have created a tear in the [[Dimensional
 
 ### The Archive Heist
 
-The party is hired to steal specific knowledge from the [[Whisper Archives]], but they must:
+The party is hired to steal specific knowledge from the , but they must:
 
 - Infiltrate the most heavily guarded location in [[Aquabyssos]]
 - Navigate the palace's impossible architecture
@@ -337,7 +337,6 @@ Forged from the pressure-compressed remains of surface metals, this armor provid
 
 The [[Inverse Palace]] stands as both a marvel of impossible architecture and a center of cosmic political power, where the laws of reality bend to the will of entities whose motivations remain as dark and mysterious as the depths they call home.
 
-
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
@@ -383,13 +382,11 @@ Abyssos Prime - Inverse Palace is a notable location characterized by its unique
 ### Founding
 Abyssos Prime - Inverse Palace was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -433,7 +430,6 @@ Key stop on metals trade route
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions

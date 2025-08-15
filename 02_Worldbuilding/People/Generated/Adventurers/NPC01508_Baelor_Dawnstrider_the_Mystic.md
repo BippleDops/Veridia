@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Dawnstrider the Mystic", "baelor dawnstrider the mystic", "Baelor Dawnstrider Mystic", "Mystic the Dawnstrider Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Dawnstrider the Mystic
 
 *Firbolg Wizard (Adventurers), Age 31, Female*
@@ -36,7 +42,6 @@ Seeking vengeance for a murdered mentor A prophetic dream has been haunting them
 - **Short Term**: Make this month's payment
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Urien Dawnstrider the Wanderer (Political - Patron)
 - **Status**: Professional only
@@ -46,7 +51,6 @@ Seeking vengeance for a murdered mentor A prophetic dream has been haunting them
 ### Dara Zephyrblade the Strong (Personal - Childhood friend)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
-
 
 ### Thalia Blackstone the Mystic (Criminal - Informant)
 - **Status**: On the verge of collapse

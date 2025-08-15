@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Keenblade", "ewan keenblade", "Keenblade Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Keenblade
 
 *Aasimar Heir (Nobles), Age 50, Male*
@@ -13,7 +19,6 @@
 Above average and stocky, with Dreadlocks unusual color hair and Amber eyes. Dark skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Always tells the absolute truth
@@ -42,11 +47,9 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Aldric Ironforge the Wanderer (Criminal - Target)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
-
 
 ### Drusilla Lightbringer (Family - Spouse)
 - **Status**: Blood oath bound
@@ -57,11 +60,9 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Solas Moonshadow the Fallen (Professional - Mentor)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Secretly funding the rebellion

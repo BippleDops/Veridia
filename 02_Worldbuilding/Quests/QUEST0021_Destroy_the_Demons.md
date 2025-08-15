@@ -1,4 +1,5 @@
 ---
+aliases: ["Destroy the Demons", "destroy the demons", "Destroy Demons", "Demons the Destroy"]
 tags: [generated]
 id: QUEST0021
 created: 2025-08-15T04:09:51.375Z
@@ -22,8 +23,6 @@ Map the uncharted the sunken temple and report findings
 ### Secondary
 - Establish future contacts
 - Sabotage enemy resources
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they once saved a noble's life and earned their favor, which changed their life forever. Now, circumstances demand immediate action.
@@ -55,8 +54,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Save civilians and risk failure - Heroes to the people but objective compromised
 2. Complete mission at any cost - Success but blood on hands
-
-
 
 ## Rewards
 ### On Success

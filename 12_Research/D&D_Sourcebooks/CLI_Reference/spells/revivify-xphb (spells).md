@@ -107,7 +107,6 @@ Mentioned in The First Prophecy of Winds
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -126,4 +125,20 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[revivify-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[revivify-xphb (spells)|revivify-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Autumn Eladrin Mpmm]]
+- [[autumn-eladrin-mpmm (fey)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Grave Domain Xge]]
+- [[Cleric Xphb Life Domain Xphb]]
+- [[Warlock Xphb Celestial Patron Xphb]]
+- [[cleric-xphb-grave-domain-xge (classes)]]
+- [[cleric-xphb-grave-domain-xge 2 (classes)]]
+- [[cleric-xphb-life-domain-xphb (classes)]]
+- [[cleric-xphb-life-domain-xphb 2 (classes)]]
+- [[warlock-xphb-celestial-patron-xphb (classes)]]

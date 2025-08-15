@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-duke-aldric-blackwater-duke-aldric-blackwater.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -174,7 +172,6 @@ Duke Aldric Blackwater is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -244,3 +241,9 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City Captain Marlowe Tidecrest Captain Marlowe Tidecrest.svg]]
+- [[Assets Locations Location City Master Archivist Valdric Stonewhisper V1 Master Archivist Valdric Stonewhisper.svg]]
+- [[Assets Vehicles Vehicle Ship Resonance Drive Yacht V1 Resonance Drive Yacht.svg]]

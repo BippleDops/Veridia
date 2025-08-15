@@ -1,8 +1,8 @@
 ---
-title: Assets Item Artifact Explorers Pack Xphb Explorers Pack Xphb.png
+title: [[Assets|Assets]] Item Artifact [[Explorers Pack Xphb|Explorers Pack Xphb]] Explorers Pack Xphb.png
 aliases:
-- 04 Resources Assets Items item artifact explorers pack xphb explorers pack xphbpng
-type: lore
+- [[04_Resources|04 Resources]] Assets [[Items|Items]] item artifact explorers pack xphb explorers pack xphbpng
+type: [[Lore|Lore]]
 tags:
 - lore
 - active
@@ -13,13 +13,13 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-# Assets Item Artifact Explorers Pack Xphb Explorers Pack Xphb.png
+# Assets [[Item Artifact Explorers Pack Xphb Explorers Pack Xphb.png|Item Artifact Explorers Pack Xphb Explorers Pack Xphb.png]]
 
 ## Overview
 This document contains important information regarding Assets Item Artifact Explorers Pack Xphb Explorers Pack Xphb.png and its role within the greater narrative.
 
 ## Description
-Assets Item Artifact Explorers Pack Xphb Explorers Pack Xphb.png represents a significant element within the campaign world, offering various opportunities for engagement and development.
+Assets Item Artifact Explorers Pack Xphb Explorers Pack Xphb.png represents a significant element within the [[Campaign World|Campaign World]], offering various opportunities for engagement and development.
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
@@ -28,7 +28,7 @@ Assets Item Artifact Explorers Pack Xphb Explorers Pack Xphb.png represents a si
 
 ## Details
 ### Background
-Historical context and development over time.
+[[Historical Context|Historical Context]] and development over [[Time|Time]].
 
 ### Current State
 Present circumstances and ongoing relevance.
@@ -49,5 +49,8 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## DM Notes
+## [[DM_Notes|DM Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+---
+**Navigation**: [[INDEX|🏠 Home]] | [[INDEX|📚 Index]]

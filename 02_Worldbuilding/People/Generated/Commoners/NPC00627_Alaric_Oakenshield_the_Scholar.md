@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Oakenshield the Scholar", "alaric oakenshield the scholar", "Alaric Oakenshield Scholar", "Scholar the Oakenshield Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Oakenshield the Scholar
 
 *Dwarf Farmer (Commoners), Age 65, Male*
@@ -36,22 +42,18 @@ Family has worked the same trade for generations, but times are changing They've
 - **Short Term**: Find missing person
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Xander Proudmore the Wanderer (Family - Cousin)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Rhiannon Hawthorne the Wise (Family - Sibling)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
 
-
 ### Cedric Brightblade the Guardian (Professional - Mentor)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ### Rhiannon Zephyrblade the Fallen (Political - Patron)
 - **Status**: Recently reconciled
@@ -62,11 +64,9 @@ Family has worked the same trade for generations, but times are changing They've
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Brenna Thornweave the Wise (Personal - Best friend)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Witnessed a noble's crime

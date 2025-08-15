@@ -199,3 +199,7 @@ Member of House Lionblood - Trait: prophecy
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-guildmaster-harwick-v1-guildmaster-harwick.png]]

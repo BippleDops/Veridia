@@ -131,3 +131,14 @@ Mentioned in The First Prophecy of Stars
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Seahorse Xmm]]
+- [[seahorse-xmm (beast)]]
+- [[2 Appendix a Miscellaneous Creatures]]
+- [[2-appendix-a-miscellaneous-creatures (monster-manual-2014)]]
+- [[3 Animals]]
+- [[3-animals (monster-manual-2025)]]
+- [[Monsters by Habitat Underwater Monsters Xmm]]
+- [[monsters-by-habitat-underwater-monsters-xmm (tables)]]

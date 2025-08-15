@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Quicksilver", "corvus quicksilver", "Quicksilver Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Quicksilver
 
 *Dwarf Aristocrat (Nobles), Age 67, Male*
@@ -42,16 +48,13 @@ Exiled from their homeland, trying to rebuild their power base An old debt has c
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
 
-
 ### Elric Crystalbrook (Personal - Love interest)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
 
-
 ### Zephyr Jadeclaw (Professional - Employer)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ### Elric Grimholt (Personal - Love interest)
 - **Status**: Complicated history

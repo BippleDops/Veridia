@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Ravenheart the Fallen", "felicia ravenheart the fallen", "Felicia Ravenheart Fallen", "Fallen the Ravenheart Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Ravenheart the Fallen
 
 *Firbolg Blacksmith (Commoners), Age 21, Male*
@@ -13,7 +19,6 @@
 Above average and compact, with Dreadlocks blonde hair and Amber eyes. Olive skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Compulsive liar about minor things
@@ -42,11 +47,9 @@ Former soldier trying to adjust to civilian life An old debt has come due at the
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
 
-
 ### Vesper Ravenheart the Wise (Political - Opposition)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
-
 
 ### Corvus Youngblood the Scholar (Personal - Love interest)
 - **Status**: Strong and trusting

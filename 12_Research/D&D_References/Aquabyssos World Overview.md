@@ -246,3 +246,27 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[Cult of Screams (Cults_and_Movements)]]
+- [[Merchant's Covenant]]
+- [[Order of the Drowned Star (Orders)]]
+- [[Admiral Thorne Blackwater]]
+- [[Captain Garrett Stormcutter]]
+- [[Duke Cyrus Reefheart]]
+- [[Harbor Master Luna Freedrift]]
+- [[The Bathyal Palace]]
+- [[The Whispering Depths]]
+- [[Order of the Drowned Star]]
+- [[Captain Garrett Stormcutter (D&D_References)]]
+- [[Cult of Screams]]
+- [[Duke Cyrus Reefheart (D&D_References)]]
+- [[Merchant's Covenant (D&D_References)]]
+- [[Pressure's End (D&D_References)]]
+- [[The Bathyal Palace (D&D_References)]]
+- [[The Cerulean Trench (D&D_References)]]
+- [[The Phosphor Markets (D&D_References)]]
+- [[The Primordial Vaults (D&D_References)]]
+- [[The Whispering Depths (D&D_References)]]
+- [[Admiral Thorne Blackwater (D&D_Statblocks)]]

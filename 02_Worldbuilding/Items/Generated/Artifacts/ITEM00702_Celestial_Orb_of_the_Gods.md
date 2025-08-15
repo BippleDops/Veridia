@@ -1,3 +1,9 @@
+---
+aliases: ["Celestial Orb of the Gods", "celestial orb of the gods", "Celestial Orb of Gods", "Gods the of Orb Celestial"]
+tags: [item, equipment]
+type: item
+---
+
 # Celestial Orb of the Gods
 
 *Artifacts, Legendary*
@@ -16,8 +22,6 @@ A celestial orb covered in mysterious symbols
 - Time stop 1/week
 - Time stop 1/week
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -32,7 +36,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.418Z*

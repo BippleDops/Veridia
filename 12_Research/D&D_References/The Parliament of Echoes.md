@@ -55,3 +55,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[The Bathyal Succession]]
+- [[The Emperor's Gambit]]
+- [[Timeline of the Drowning]]
+- [[Aboleth Prime Yoth]]
+- [[The Bathyal Succession (D&D_References)]]
+- [[The Deserter's Tale (D&D_References)]]
+- [[The Deserter's Tale 3 (D&D_References)]]
+- [[The Emperor's Gambit (D&D_References)]]
+- [[Timeline of the Drowning (D&D_References)]]
+- [[Timeline of the Drowning 3 (D&D_References)]]

@@ -122,13 +122,11 @@ Shadowport is a notable location characterized by its unique features and strate
 ### Founding
 Shadowport was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -136,13 +134,11 @@ Shadowport was established in the distant past, growing from humble beginnings t
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -195,7 +191,6 @@ Ongoing situations affecting Shadowport:
 - 20% middle class
 - 79% working poor
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -231,3 +226,8 @@ Ongoing situations affecting Shadowport:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[The Floating Market]]
+- [[The Floating Market (D&D_References)]]

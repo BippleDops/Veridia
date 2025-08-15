@@ -48,7 +48,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -180,7 +180,7 @@ Seven frequencies shall break the world,
 Seven harmonies shall open doorways,  
 Through which the Deep Mother shall step.  
 
-The [[Crystal Heart]] beats in dimensions  
+The [[Crystal_Heart|Crystal Heart]] beats in dimensions  
 Where geometry has no meaning,  
 Where mathematics serves madness,  
 And logic kneels to deeper law."*
@@ -379,7 +379,7 @@ The Deep Prophecies is a undersea element of the setting, known for bioluminesce
 
 Legends speak of The Deep Prophecies as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Deep Prophecies.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 

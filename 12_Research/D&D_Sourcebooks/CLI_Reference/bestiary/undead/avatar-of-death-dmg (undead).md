@@ -121,3 +121,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Avatar of Death Dmg]]
+- [[Deck of Many Things 13 Cards]]
+- [[deck-of-many-things-13-cards (decks)]]

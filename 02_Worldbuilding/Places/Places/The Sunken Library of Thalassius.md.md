@@ -20,16 +20,13 @@ updated: 2025-08-14
 - **East**: River crossing
 - **West**: Mountain pass
 
-
 # The Sunken Library of Thalassius.md
-
 
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
 - **Law Enforcement**: Town guard
 - **Justice System**: Local magistrate
-
 
 ## Economy
 - **Primary Exports**: Local goods
@@ -48,7 +45,6 @@ The approach to The Sunken Library of Thalassius.md reveals its significance thr
 
 ### Interior
 Within The Sunken Library of Thalassius.md, visitors find a carefully designed space serving multiple purposes.
-
 
 ## Demographics
 - **Population**: ~1,000
@@ -86,7 +82,6 @@ Recent developments have brought new attention to The Sunken Library of Thalassi
 ## DM Notes
 *The Sunken Library of Thalassius.md can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -122,3 +117,7 @@ Recent developments have brought new attention to The Sunken Library of Thalassi
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[02_Worldbuilding_Places_The_Sunken_Library_of_Thalassius.md]]

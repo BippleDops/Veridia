@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Stormwind the Wanderer", "vesper stormwind the wanderer", "Vesper Stormwind Wanderer", "Wanderer the Stormwind Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Stormwind the Wanderer
 
 *Firbolg Baker (Commoners), Age 43, Male*
@@ -36,12 +42,10 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Short Term**: Gather information
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Vesper Emberfall the Redeemed (Political - Patron)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ### Dara Keenblade the Strong (Criminal - Accomplice)
 - **Status**: Strained but maintaining
@@ -52,11 +56,9 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Aldric Lightbringer the Broken (Criminal - Fence)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Can hear the thoughts of others

@@ -101,4 +101,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[banishing-smite-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[banishing-smite-xphb (spells)|banishing-smite-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Warlock Xphb the Hexblade Xge]]
+- [[warlock-xphb-the-hexblade-xge (classes)]]

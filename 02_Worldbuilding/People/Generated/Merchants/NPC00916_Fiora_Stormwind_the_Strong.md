@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Stormwind the Strong", "fiora stormwind the strong", "Fiora Stormwind Strong", "Strong the Stormwind Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Stormwind the Strong
 
 *Firbolg Appraiser (Merchants), Age 71, Non-binary*
@@ -36,7 +42,6 @@ Built their business from nothing through cunning and hard work A prophetic drea
 - **Short Term**: Gather information
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Malakai Xendar the Cunning (Professional - Employer)
 - **Status**: Professional only
@@ -46,7 +51,6 @@ Built their business from nothing through cunning and hard work A prophetic drea
 ### Baelor Voidwalker the Swift (Criminal - Informant)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
-
 
 ### Rhiannon Lightbringer the Lost (Political - Ally)
 - **Status**: Blood oath bound

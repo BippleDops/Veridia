@@ -1,4 +1,5 @@
 ---
+aliases: ["Glorious Shield of the Dawn", "glorious shield of the dawn", "Glorious Shield of Dawn", "Dawn the of Shield Glorious"]
 tags: [generated]
 id: ITEM0078
 created: 2025-08-15T04:09:51.103Z

@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Moonshadow the Swift", "rhiannon moonshadow the swift", "Rhiannon Moonshadow Swift", "Swift the Moonshadow Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Moonshadow the Swift
 
 *Tiefling Caravan Master (Merchants), Age 55, Non-binary*
@@ -36,12 +42,10 @@ Built their business from nothing through cunning and hard work Strange abilitie
 - **Short Term**: Make this month's payment
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Orion Stormwind the Redeemed (Political - Ally)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ### Rhiannon Darkwater the Wise (Personal - Nemesis)
 - **Status**: Professional only
@@ -52,11 +56,9 @@ Built their business from nothing through cunning and hard work Strange abilitie
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Drusilla Nightfall the Scholar (Family - Sibling)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ### Idris Jadeclaw the Fallen (Criminal - Accomplice)
 - **Status**: Complicated history

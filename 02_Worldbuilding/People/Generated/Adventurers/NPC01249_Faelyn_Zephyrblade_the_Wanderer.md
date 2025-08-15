@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Zephyrblade the Wanderer", "faelyn zephyrblade the wanderer", "Faelyn Zephyrblade Wanderer", "Wanderer the Zephyrblade Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Zephyrblade the Wanderer
 
 *Tabaxi Ranger (Adventurers), Age 68, Non-binary*
@@ -47,11 +53,9 @@ Accidentally gained powers and learning to control them A family member's death 
 - **Status**: Secretly hostile
 - **History**: United by common enemy
 
-
 ### Thalia Voidwalker the Fallen (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ### Baelor Xendar the Risen (Criminal - Accomplice)
 - **Status**: Strong and trusting

@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Ironwood the Scholar", "ysara ironwood the scholar", "Ysara Ironwood Scholar", "Scholar the Ironwood Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Ironwood the Scholar
 
 *Goliath Trader (Merchants), Age 27, Non-binary*
@@ -13,7 +19,6 @@
 Above average and slender, with Wild and unkempt bald hair and Heterochromic eyes. Scarred skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Compulsive liar about minor things; Always hungry and eating something
@@ -36,17 +41,14 @@ Built their business from nothing through cunning and hard work A chance encount
 - **Short Term**: Make this month's payment
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Gareth Blackstone the Seeker (Political - Ally)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Jorah Thornweave the Strong (Professional - Mentor)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ### Vesper Proudmore the Seeker (Political - Ally)
 - **Status**: On the verge of collapse
@@ -56,7 +58,6 @@ Built their business from nothing through cunning and hard work A chance encount
 ### Malakai Stormwind the Fallen (Professional - Partner)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Smuggles illegal magical items

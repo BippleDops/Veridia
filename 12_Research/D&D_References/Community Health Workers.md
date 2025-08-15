@@ -59,3 +59,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Investigate Shadow Surgeons (Criminal_Organizations)]]
+- [[Investigate Shadow Surgeons]]

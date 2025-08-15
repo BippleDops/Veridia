@@ -1,11 +1,11 @@
 ---
+aliases: ["Willem Darkwater the Mad", "willem darkwater the mad", "Willem Darkwater Mad", "Mad the Darkwater Willem"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Child of farmers who sought adventure. Years ago, they made a deal they now regr
 ### Skills
 Insight, Deception, Perception
 
-
-
 ## Possessions
 - 104 gold pieces
 - Well-worn journal
@@ -89,7 +87,6 @@ Insight, Deception, Perception
 
 ---
 *Generated: 2025-08-15T03:20:13.088Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

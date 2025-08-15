@@ -150,3 +150,9 @@ Mentioned in The Second Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[angry-sorrowsworn-mpmm (monstrosity)]]
+- [[6 Bestiary]]
+- [[6-bestiary (mordenkainens-tome-of-foes)]]

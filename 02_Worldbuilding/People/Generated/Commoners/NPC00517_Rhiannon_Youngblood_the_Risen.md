@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Youngblood the Risen", "rhiannon youngblood the risen", "Rhiannon Youngblood Risen", "Risen the Youngblood Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Youngblood the Risen
 
 *Tabaxi Blacksmith (Commoners), Age 44, Non-binary*
@@ -36,22 +42,18 @@ Family has worked the same trade for generations, but times are changing They've
 - **Short Term**: Survive until next week
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Faelyn Dawnstrider the Lost (Family - Parent)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
 
-
 ### Ewan Xendar the Seeker (Personal - Best friend)
 - **Status**: Professional only
 - **History**: United by common enemy
 
-
 ### Delara Goldleaf the Wanderer (Political - Ally)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
-
 
 ### Ysara Quicksilver (Criminal - Informant)
 - **Status**: Mutually beneficial
@@ -61,7 +63,6 @@ Family has worked the same trade for generations, but times are changing They've
 ### Baelor Voidwalker the Strong (Family - Sibling)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Is the lost heir to the throne

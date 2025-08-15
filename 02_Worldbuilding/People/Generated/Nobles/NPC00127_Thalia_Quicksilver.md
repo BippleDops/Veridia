@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Quicksilver", "thalia quicksilver", "Quicksilver Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Quicksilver
 
 *Gnome Ambassador (Nobles), Age 45, Male*
@@ -36,12 +42,10 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Complete current contract
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Delara Frostwhisper the Scholar (Professional - Partner)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ### Lyanna Hawthorne (Professional - Employer)
 - **Status**: Strong and trusting

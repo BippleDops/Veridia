@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Xendar the Wise", "hilda xendar the wise", "Hilda Xendar Wise", "Wise the Xendar Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Xendar the Wise
 
 *Dwarf Shopkeeper (Merchants), Age 62, Female*
@@ -36,7 +42,6 @@ Built their business from nothing through cunning and hard work A family member'
 - **Short Term**: Find missing person
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Pyria Emberfall the Scholar (Family - Spouse)
 - **Status**: Mutually beneficial
@@ -47,11 +52,9 @@ Built their business from nothing through cunning and hard work A family member'
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
 
-
 ### Alaric Thornweave the Bold (Criminal - Target)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Sells information to all sides

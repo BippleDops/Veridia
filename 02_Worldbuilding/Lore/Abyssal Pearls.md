@@ -88,3 +88,9 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 - Strange disappearances suggest a portal
 - Someone is hunting a artifact for money
+
+## References
+
+- [[The Original Palace]]
+- [[The Depth Accords (D&D_References)]]
+- [[The Original Palace (D&D_References)]]

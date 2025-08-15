@@ -26,3 +26,9 @@ Further information about this topic will be developed as the campaign progresse
 - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery
+
+## References
+
+- [[Crystal-Corruption-Tracking-Sheet]]
+- [[Maintenance Tech Reef Fixwright]]
+- [[Crystal-Corruption-Tracking-Sheet (D&D_References)]]

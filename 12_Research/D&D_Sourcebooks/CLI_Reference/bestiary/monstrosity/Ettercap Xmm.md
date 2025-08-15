@@ -48,3 +48,14 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Forest Encounters Levels 14 Xge]]
+- [[Forest Encounters Levels 510 Xge]]
+- [[Monsters by Habitat Forest Monsters Xmm]]
+- [[Random Hag Minions Brutes Vgm]]
+- [[forest-encounters-levels-14-xge (tables)]]
+- [[forest-encounters-levels-510-xge (tables)]]
+- [[monsters-by-habitat-forest-monsters-xmm (tables)]]
+- [[random-hag-minions-brutes-vgm (tables)]]

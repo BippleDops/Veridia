@@ -56,3 +56,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[System Cli Items Weapons]]
+- [[System Cli Spells School Enchantment]]
+- [[System Cli Spells School Illusion]]

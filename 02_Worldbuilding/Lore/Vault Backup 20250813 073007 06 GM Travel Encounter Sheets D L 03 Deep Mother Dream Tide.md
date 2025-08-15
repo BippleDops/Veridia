@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -68,7 +68,7 @@ vault_backup_20250813_073007_06_GM_Resources_Travel_Encounter_Sheets_D_L-03_Deep
 
 *Last Updated: 2025-08-14 19:03*
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement

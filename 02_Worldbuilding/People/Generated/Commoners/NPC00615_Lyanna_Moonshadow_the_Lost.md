@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Moonshadow the Lost", "lyanna moonshadow the lost", "Lyanna Moonshadow Lost", "Lost the Moonshadow Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Moonshadow the Lost
 
 *Elf Blacksmith (Commoners), Age 28, Non-binary*
@@ -36,7 +42,6 @@ Family has worked the same trade for generations, but times are changing They re
 - **Short Term**: Find missing person
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Urien Hawthorne the Redeemed (Criminal - Informant)
 - **Status**: Strained but maintaining
@@ -47,7 +52,6 @@ Family has worked the same trade for generations, but times are changing They re
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Ewan Darkwater the Swift (Criminal - Target)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
@@ -56,7 +60,6 @@ Family has worked the same trade for generations, but times are changing They re
 ### Dara Proudmore the Mystic (Political - Opposition)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Witnessed a noble's crime

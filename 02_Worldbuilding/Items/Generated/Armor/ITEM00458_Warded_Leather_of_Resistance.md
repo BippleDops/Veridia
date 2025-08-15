@@ -1,3 +1,9 @@
+---
+aliases: ["Warded Leather of Resistance", "warded leather of resistance", "Resistance of Leather Warded"]
+tags: [item, equipment]
+type: item
+---
+
 # Warded Leather of Resistance
 
 *Armor, Very Rare*
@@ -16,8 +22,6 @@ A warded leather shimmering with energy
 - Grants swimming speed
 - Resistance to one damage type
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -32,7 +36,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.384Z*

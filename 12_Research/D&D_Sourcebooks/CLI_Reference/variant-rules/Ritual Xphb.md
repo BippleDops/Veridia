@@ -74,3 +74,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]
+- [[Barbarian Xphb Path of the Wild Heart Xphb]]
+- [[barbarian-xphb-path-of-the-wild-heart-xphb (classes)]]
+- [[barbarian-xphb-path-of-the-wild-heart-xphb 2 (classes)]]
+- [[Pact of the Tome Xphb]]
+- [[pact-of-the-tome-xphb (optional-features)]]
+- [[Glossary Conventions Xphb]]
+- [[glossary-conventions-xphb (tables)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Hawthorne the Bold", "idris hawthorne the bold", "Idris Hawthorne Bold", "Bold the Hawthorne Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Hawthorne the Bold
 
 *Aasimar Crime Boss (Villains), Age 64, Female*
@@ -36,7 +42,6 @@ Corrupted by an artifact or dark magic A family member's death has left them wit
 - **Short Term**: Find missing person
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Ewan Underhill the Mystic (Political - Puppet)
 - **Status**: Strong and trusting
@@ -47,16 +52,13 @@ Corrupted by an artifact or dark magic A family member's death has left them wit
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Drusilla Grimholt the Guardian (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Dara Ironwood the Cunning (Criminal - Target)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Has a child they're protecting

@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Ironwood the Strong", "kaelen ironwood the strong", "Kaelen Ironwood Strong", "Strong the Ironwood Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Ironwood the Strong
 
 *Aasimar Shopkeeper (Merchants), Age 74, Non-binary*
@@ -36,32 +42,26 @@ Inherited a failing business and turned it around Strange abilities have begun m
 - **Short Term**: Make this month's payment
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Xander Thornweave the Seeker (Professional - Employee)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
 
-
 ### Wynne Zephyrblade the Cunning (Family - Cousin)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ### Ewan Nightfall the Risen (Family - Sibling)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Malakai Frostwhisper the Wise (Family - Sibling)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Zephyr Stormwind the Scholar (Professional - Mentor)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Smuggles illegal magical items

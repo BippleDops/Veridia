@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Hawthorne the Fallen", "hilda hawthorne the fallen", "Hilda Hawthorne Fallen", "Fallen the Hawthorne Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Hawthorne the Fallen
 
 *Elf Dark Wizard (Villains), Age 65, Female*
@@ -13,7 +19,6 @@
 Very short and athletic, with Carefully styled black hair and Amber eyes. Brown skin. Burn scars on one side of face.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Sees doom and gloom everywhere
@@ -36,37 +41,30 @@ Betrayed by those they trusted, now seeking revenge on the world They've been ma
 - **Short Term**: Gather information
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Ewan Emberfall the Strong (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Erasmus Dawnstrider the Cunning (Criminal - Fence)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ### Erasmus Underhill the Strong (Professional - Partner)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
 
-
 ### Vesper Crystalbrook the Risen (Family - Parent)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ### Qadim Underhill the Fallen (Criminal - Fence)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Ysara Lightbringer the Redeemed (Political - Patron)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Was once a renowned hero

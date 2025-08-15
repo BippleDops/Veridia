@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Goldleaf the Mystic", "malakai goldleaf the mystic", "Malakai Goldleaf Mystic", "Mystic the Goldleaf Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Goldleaf the Mystic
 
 *Goliath Appraiser (Merchants), Age 30, Non-binary*
@@ -36,7 +42,6 @@ Former adventurer who retired to open a shop Strange abilities have begun manife
 - **Short Term**: Complete current contract
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Wynne Thornweave the Wise (Personal - Ex-lover)
 - **Status**: Secretly hostile
@@ -47,7 +52,6 @@ Former adventurer who retired to open a shop Strange abilities have begun manife
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Branwen Ironwood the Scholar (Family - Cousin)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
@@ -57,11 +61,9 @@ Former adventurer who retired to open a shop Strange abilities have begun manife
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
 
-
 ### Qadim Zephyrblade the Risen (Criminal - Fence)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
-
 
 ### Ewan Lightbringer the Wise (Personal - Love interest)
 - **Status**: Blood oath bound

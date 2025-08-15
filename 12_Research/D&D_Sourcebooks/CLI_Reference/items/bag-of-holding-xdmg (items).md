@@ -87,3 +87,25 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Bag of Devouring Xdmg]]
+- [[Hewards Handy Haversack Xdmg]]
+- [[Portable Hole Xdmg]]
+- [[bag-of-devouring-xdmg (items)]]
+- [[hewards-handy-haversack-xdmg (items)]]
+- [[portable-hole-xdmg (items)]]
+- [[Arcana Uncommon Xdmg]]
+- [[Implements Uncommon Xdmg]]
+- [[Magic Item Categories Xdmg]]
+- [[Magic Item Table A]]
+- [[Random Magic Items Arcana]]
+- [[Random Magic Items Implements]]
+- [[arcana-uncommon-xdmg (tables)]]
+- [[implements-uncommon-xdmg (tables)]]
+- [[magic-item-categories-xdmg (tables)]]
+- [[magic-item-table-a (tables)]]
+- [[random-magic-items-arcana (tables)]]
+- [[random-magic-items-implements (tables)]]

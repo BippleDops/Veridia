@@ -70,3 +70,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Abyssos Prime - Inverse Palace]]
+- [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]]

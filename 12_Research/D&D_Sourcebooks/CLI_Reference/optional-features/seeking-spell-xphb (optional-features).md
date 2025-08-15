@@ -98,4 +98,4 @@ Mentioned in The Hidden Prophecy of Winds
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[seeking-spell-xphb (optional-features)-phb]]` in CLI_Reference/spells/
+See: `[[seeking-spell-xphb (optional-features)|seeking-spell-xphb (optional-features)-phb]]` in CLI_Reference/spells/

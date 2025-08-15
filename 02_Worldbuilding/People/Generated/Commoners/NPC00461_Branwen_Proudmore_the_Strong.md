@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Proudmore the Strong", "branwen proudmore the strong", "Branwen Proudmore Strong", "Strong the Proudmore Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Proudmore the Strong
 
 *Genasi Farmer (Commoners), Age 55, Male*
@@ -36,7 +42,6 @@ Grew up in poverty but discovered a talent that might change everything A chance
 - **Short Term**: Avoid the authorities
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Wynne Winterborn the Scholar (Professional - Partner)
 - **Status**: Mutually beneficial
@@ -61,7 +66,6 @@ Grew up in poverty but discovered a talent that might change everything A chance
 ### Cedric Darkwater the Lost (Professional - Employer)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Is the lost heir to the throne

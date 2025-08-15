@@ -39,7 +39,7 @@ improvements: 20
 *The Great Awakening of Waters and Spirits*
 
 > *"When the spring tides reach their highest peak and the [[Deep Mother]] stirs from winter's rest, all of Aquabyssos rejoices in the eternal dance between water and soul. In those seven sacred days, we remember who we are - children of the tide, keepers of the depths, and guardians of the eternal flow."*
-> — [[High Tide Celebrant [[Coral]] Festivus]], Master of Ceremonies
+> — [[Coral|High Tide Celebrant [[Coral]] Festivus]], Master of Ceremonies
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,7 +55,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -562,7 +562,7 @@ Master organizer and spiritual leader for festival activities, responsible for o
 **[[Festival Coordinator Nereid Harmony]]** - Logistics Director
 Administrative leader managing practical festival arrangements, including venue preparation, resource allocation, and inter-community coordination. Essential contact for practical festival participation and problem resolution.
 
-**[[Cultural Preservation Master Tidal Archive]]** - Traditional Knowledge Keeper
+**** - Traditional Knowledge Keeper
 Expert in traditional cultural practices and historical knowledge, responsible for ensuring cultural authenticity and educational accuracy of festival activities. Primary source for cultural education and traditional practice instruction.
 
 ### Religious and Spiritual Leadership
@@ -581,7 +581,7 @@ Professional organization coordinating artisan activities, craft fairs, and cult
 **[[Inter-Community Harmony Council]]** - Diplomatic Organization
 Coordinating body managing relationships between different communities during festival activities. Key organization for diplomatic activities and inter-community cooperation.
 
-**[[[[Temple of the Healing Waters]]|[[02 Worldbuilding]]/Groups/Temple Of The Healing Waters]]** - Religious Organization
+**[[Temple of the Healing Waters|[[Temple of the Healing Waters]]|[[02_Worldbuilding|02 Worldbuilding]]/Groups/Temple Of The Healing Waters]]** - Religious Organization
 Religious institution providing spiritual services and community support during festival activities. Primary organization for religious education and spiritual healing services.
 
 ### Primary Festival Venues
@@ -589,7 +589,7 @@ Religious institution providing spiritual services and community support during 
 **[[The Great Tidal Amphitheater]]** - Central Celebration Venue
 Primary location for major festival events, performances, and community gatherings. Natural amphitheater enhanced with constructed facilities to accommodate large-scale festival activities.
 
-**[[Sacred [[Memory Gardens]]]]** - Spiritual Center
+**[[Memory Gardens|Sacred [[Memory Gardens]]]]** - Spiritual Center
 Living coral formations serving as memory preservation sites and spiritual gathering [[Places]]. Essential location for religious activities and cultural education during festival events.
 
 **[[Community Feast Halls]]** - Social Gathering Spaces
@@ -616,7 +616,7 @@ The Festival of Rising Tides is a undersea element of the setting, known for bio
 
 Legends speak of The Festival of Rising Tides as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Festival of Rising Tides.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -661,3 +661,7 @@ Mentioned in The Hidden Prophecy of Depths
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[Master_Lore_Index]]

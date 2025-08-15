@@ -69,3 +69,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Dark Gift of Vaund the Evasive Cos]]
+- [[dark-gift-of-vaund-the-evasive-cos (rewards)]]
+- [[Arcana Uncommon Xdmg]]
+- [[Magic Item Table F]]
+- [[Random Magic Items Arcana]]
+- [[arcana-uncommon-xdmg (tables)]]
+- [[magic-item-table-f (tables)]]
+- [[random-magic-items-arcana (tables)]]

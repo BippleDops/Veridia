@@ -1,3 +1,9 @@
+---
+aliases: ["Superior Potion of Swiftness", "superior potion of swiftness", "Swiftness of Potion Superior"]
+tags: [item, equipment]
+type: item
+---
+
 # Superior Potion of Swiftness
 
 *Consumables, Uncommon*
@@ -14,8 +20,6 @@ A superior potion swirling with colors
 - Invisible for 10 minutes
 - Remove one condition
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -30,7 +34,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.444Z*

@@ -1,3 +1,9 @@
+---
+aliases: ["Mithril Boots of Fortitude", "mithril boots of fortitude", "Fortitude of Boots Mithril"]
+tags: [item, equipment]
+type: item
+---
+
 # Mithril Boots of Fortitude
 
 *Armor, Common*
@@ -13,8 +19,6 @@ A mithril boots bearing ancient runes
 ## Properties
 - Grants swimming speed
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -29,7 +33,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.417Z*

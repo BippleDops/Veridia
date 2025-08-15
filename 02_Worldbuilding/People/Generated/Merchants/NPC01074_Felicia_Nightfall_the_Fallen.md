@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Nightfall the Fallen", "felicia nightfall the fallen", "Felicia Nightfall Fallen", "Fallen the Nightfall Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Nightfall the Fallen
 
 *Human Broker (Merchants), Age 69, Female*
@@ -36,17 +42,14 @@ Uses their business as cover for other activities A family member's death has le
 - **Short Term**: Sabotage competition
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Orion Ironforge the Redeemed (Professional - Rival)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Delara Grimholt the Strong (Personal - Ex-lover)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ### Kaelen Jadeclaw the Fallen (Criminal - Handler)
 - **Status**: One-sided affection
@@ -57,11 +60,9 @@ Uses their business as cover for other activities A family member's death has le
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Drusilla Thornweave the Risen (Family - Child)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ### Ysara Ironforge the Swift (Criminal - Accomplice)
 - **Status**: One-sided affection

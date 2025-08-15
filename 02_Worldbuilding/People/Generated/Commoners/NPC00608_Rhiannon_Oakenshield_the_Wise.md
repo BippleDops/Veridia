@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Oakenshield the Wise", "rhiannon oakenshield the wise", "Rhiannon Oakenshield Wise", "Wise the Oakenshield Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Oakenshield the Wise
 
 *Half-Orc Carpenter (Commoners), Age 52, Non-binary*
@@ -46,7 +52,6 @@ Runaway from an arranged marriage, starting a new life They've been marked by a 
 ### Baelor Proudmore the Lost (Professional - Employee)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
-
 
 ### Caelum Darkwater the Redeemed (Family - Parent)
 - **Status**: Mutually beneficial

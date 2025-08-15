@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Quicksilver the Broken", "aeliana quicksilver the broken", "Aeliana Quicksilver Broken", "Broken the Quicksilver Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Quicksilver the Broken
 
 *Halfling Carpenter (Commoners), Age 53, Female*
@@ -42,11 +48,9 @@ Former soldier trying to adjust to civilian life They've made a deal they're beg
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Brenna Lightbringer the Scholar (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
-
 
 ### Branwen Quicksilver the Bold (Personal - Love interest)
 - **Status**: Professional only
@@ -57,11 +61,9 @@ Former soldier trying to adjust to civilian life They've made a deal they're beg
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Aeliana Silverleaf the Broken (Criminal - Target)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Witnessed a noble's crime

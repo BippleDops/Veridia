@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Jadeclaw the Fallen", "xander jadeclaw the fallen", "Xander Jadeclaw Fallen", "Fallen the Jadeclaw Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Jadeclaw the Fallen
 
 *Halfling Cleric (Adventurers), Age 26, Non-binary*
@@ -13,7 +19,6 @@
 Very short and lanky, with Long and flowing auburn hair and Black eyes. Weathered skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Always hungry and eating something; Incredibly optimistic despite evidence
@@ -36,37 +41,30 @@ Seeking vengeance for a murdered mentor A prophetic dream has been haunting them
 - **Short Term**: Complete current contract
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Felicia Winterborn the Strong (Personal - Best friend)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Ysara Brightblade the Swift (Professional - Partner)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ### Elric Ashford the Redeemed (Family - Cousin)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Gavril Jadeclaw the Bold (Personal - Nemesis)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ### Nerys Stormwind the Cunning (Family - Cousin)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Hilda Ashford the Strong (Professional - Rival)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Carries a world-ending artifact

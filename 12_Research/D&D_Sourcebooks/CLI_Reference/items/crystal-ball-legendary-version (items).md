@@ -83,3 +83,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Magic Item Table I]]
+- [[magic-item-table-i (tables)]]

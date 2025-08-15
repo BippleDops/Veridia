@@ -435,20 +435,17 @@ The Umbral Nexus is a notable location characterized by its unique features and 
 ### Founding
 The Umbral Nexus was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
-
 
 ## Connections
 - **North**: Trade road to neighboring settlement
@@ -497,7 +494,6 @@ Ongoing situations affecting The Umbral Nexus:
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -533,3 +529,7 @@ Ongoing situations affecting The Umbral Nexus:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[The Shadow Conspiracy Hierarchy (Criminal_Organizations)]]

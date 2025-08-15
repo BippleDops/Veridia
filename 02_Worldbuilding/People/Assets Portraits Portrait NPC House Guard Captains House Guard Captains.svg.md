@@ -189,7 +189,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[04_Resources_Assets_Symbols_symbol-heraldry-witness-protection-protocols-v1-witness-protection-protocols.svg]] (colleague)
-- [[vault_backup_20250813_073007_06_GM_Resources_Travel_Encounter_Sheets_D_L 03_Deep_Mother_Dream_Tide]] (ally)
+-  (ally)
 - [[Quest   The Healer's Burden]] (enemy)
 ---
 *Tags*: #npc #contact #worldbuilding

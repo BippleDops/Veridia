@@ -79,3 +79,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Mass Combat Evolution]]
+- [[Mass_Combat_Evolution (D&D_References)]]

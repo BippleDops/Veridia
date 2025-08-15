@@ -2,7 +2,7 @@
 tags: ['[[Lore]]']
 ---
 
-# [[02 Worldbuilding]]/Lore/[[[[The Emperor]]''s Gambit]]
+# [[02_Worldbuilding|02 Worldbuilding]]/Lore/[[Emperor|[[The Emperor]]''s Gambit]]
 
 ## Overview
 

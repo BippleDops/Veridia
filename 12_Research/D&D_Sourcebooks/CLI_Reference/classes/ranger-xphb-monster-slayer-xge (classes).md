@@ -164,3 +164,33 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Ranger Xphb Beast Master Xphb]]
+- [[Ranger Xphb Fey Wanderer Xphb]]
+- [[Ranger Xphb Gloom Stalker Xphb]]
+- [[Ranger Xphb Horizon Walker Xge]]
+- [[Ranger Xphb Hunter Xphb]]
+- [[Ranger Xphb Monster Slayer Xge]]
+- [[ranger-xphb-beast-master-xphb (classes)]]
+- [[ranger-xphb-fey-wanderer-xphb (classes)]]
+- [[ranger-xphb-gloom-stalker-xphb (classes)]]
+- [[ranger-xphb-horizon-walker-xge (classes)]]
+- [[ranger-xphb-hunter-xphb (classes)]]
+- [[Assign Ability Scores Standard Array by]]
+- [[Choose a Class Class Overview Xphb]]
+- [[Classes Phb]]
+- [[Level 1 Hit Points by Class Xphb]]
+- [[Multiclassing Prerequisites Phb]]
+- [[Multiclassing Proficiencies Phb]]
+- [[Preparing Spells Spell Preparation by Class]]
+- [[assign-ability-scores-standard-array-by-class-xphb]]
+- [[choose-a-class-class-overview-xphb (tables)]]
+- [[classes-phb (tables)]]
+- [[level-1-hit-points-by-class-xphb (tables)]]
+- [[multiclassing-prerequisites-phb (tables)]]
+- [[multiclassing-proficiencies-phb (tables)]]
+- [[preparing-spells-spell-preparation-by-class-xphb]]
+- [[Spell Points]]
+- [[spell-points (variant-rules)]]

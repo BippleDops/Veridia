@@ -100,3 +100,10 @@ Mentioned in The First Prophecy of Depths
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Master_Spell_Compendium]]
+- [[Enspelled Staff Xdmg]]
+- [[enspelled-staff-xdmg (items)]]

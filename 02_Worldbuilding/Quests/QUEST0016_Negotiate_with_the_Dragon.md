@@ -1,4 +1,5 @@
 ---
+aliases: ["Negotiate with the Dragon", "negotiate with the dragon", "Negotiate with Dragon", "Dragon the with Negotiate"]
 tags: [generated]
 id: QUEST0016
 created: 2025-08-15T04:09:51.372Z

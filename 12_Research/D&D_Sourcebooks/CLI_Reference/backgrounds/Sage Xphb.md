@@ -86,3 +86,22 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Derro Savant Mpmm]]
+- [[Star Spawn Larva Mage Mpmm]]
+- [[derro-savant-mpmm (aberration)]]
+- [[star-spawn-larva-mage-mpmm (aberration)]]
+- [[Aarakocra Aeromancer Xmm]]
+- [[aarakocra-aeromancer-xmm (elemental)]]
+- [[Nagpa Mpmm]]
+- [[nagpa-mpmm (monstrosity)]]
+- [[aerisi-kalinoth-pota (npc)]]
+- [[npc - Aerisi Kalinoth Pota]]
+- [[Skull Lord Mpmm]]
+- [[skull-lord-mpmm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Sylvan Talon Xdmg]]
+- [[sylvan-talon-xdmg (items)]]

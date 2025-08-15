@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Keenblade", "fiora keenblade", "Keenblade Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Keenblade
 
 *Tabaxi Noble (Nobles), Age 20, Male*
@@ -36,7 +42,6 @@ Secretly adopted into nobility, living in fear of discovery They've made a deal 
 - **Short Term**: Make this month's payment
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Qadim Ravenheart (Political - Patron)
 - **Status**: Blood oath bound
@@ -47,11 +52,9 @@ Secretly adopted into nobility, living in fear of discovery They've made a deal 
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Solas Grimholt (Personal - Childhood friend)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Practicing forbidden magic

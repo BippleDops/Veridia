@@ -52,7 +52,6 @@ This content can be adapted and expanded based on specific campaign needs.
 ## DM Notes
 * Customize as needed for your specific campaign requirements.*
 
-
 ## See Also
 - Related content
 - Similar topics
@@ -74,3 +73,7 @@ status: active
 | 4  | Option D |
 | 5  | Option E |
 | 6  | Option F |
+
+## References
+
+- [[Campaign_Overview_1 (01_Adventures)]]

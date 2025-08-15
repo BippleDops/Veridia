@@ -99,7 +99,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -112,3 +111,13 @@ Contextual improvement based on 12_Research
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[09 Appendix B Spells]]
+- [[09-appendix-b-spells (princes-of-the-apocalypse)]]
+- [[Adult Silver Dragon Xmm]]
+- [[Ancient Silver Dragon Xmm]]
+- [[adult-silver-dragon-xmm (dragon)]]
+- [[ancient-silver-dragon-xmm (dragon)]]

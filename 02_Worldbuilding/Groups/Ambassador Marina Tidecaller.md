@@ -194,3 +194,10 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Order of the Drowned Star (Orders)]]
+- [[Cross-Realm Etiquette Guide]]
+- [[Order of the Drowned Star]]
+- [[Cross-Realm Etiquette Guide (D&D_References)]]

@@ -100,7 +100,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -119,4 +118,36 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[dancing-lights-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[dancing-lights-xphb (spells)|dancing-lights-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Deep Rothe Mpmm]]
+- [[deep-rothe-mpmm (beast)]]
+- [[Cogwork Archivist Scc]]
+- [[cogwork-archivist-scc (construct)]]
+- [[Faerie Dragon Adult Xmm]]
+- [[Faerie Dragon Youth Xmm]]
+- [[faerie-dragon-adult-xmm (dragon)]]
+- [[faerie-dragon-youth-xmm (dragon)]]
+- [[Bullywug Bog Sage Xmm]]
+- [[Green Hag Xmm]]
+- [[Pixie Wonderbringer Xmm]]
+- [[Pixie Xmm]]
+- [[bullywug-bog-sage-xmm (fey)]]
+- [[green-hag-xmm (fey)]]
+- [[pixie-wonderbringer-xmm (fey)]]
+- [[pixie-xmm (fey)]]
+- [[Draegloth Mpmm]]
+- [[draegloth-mpmm (fiend)]]
+- [[Alhoon Mpmm]]
+- [[alhoon-mpmm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Bard Xphb]]
+- [[bard-xphb (classes)]]
+- [[bard-xphb 2 (classes)]]
+- [[Ring of Shooting Stars Xdmg]]
+- [[ring-of-shooting-stars-xdmg (items)]]
+- [[Elf Xphb]]
+- [[elf-xphb (races)]]

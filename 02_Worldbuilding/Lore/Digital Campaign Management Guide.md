@@ -10,7 +10,7 @@ type: lore
 updated: 2025-08-14
 ---
 
-# Digital [[Campaign Management Guide]]
+# Digital [[Campaign_Management_Guide|Campaign Management Guide]]
 
 ## Overview
 This document contains important information regarding Digital Campaign Management Guide and its role within the greater narrative.

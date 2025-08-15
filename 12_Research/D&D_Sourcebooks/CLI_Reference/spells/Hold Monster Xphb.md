@@ -102,3 +102,33 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Adult Silver Dragon Xmm]]
+- [[Ancient Silver Dragon Xmm]]
+- [[adult-silver-dragon-xmm (dragon)]]
+- [[ancient-silver-dragon-xmm (dragon)]]
+- [[Oinoloth Mpmm]]
+- [[Pit Fiend Xmm]]
+- [[Sibriex Mpmm]]
+- [[oinoloth-mpmm (fiend)]]
+- [[pit-fiend-xmm (fiend)]]
+- [[sibriex-mpmm (fiend)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb War Domain Xphb]]
+- [[Druid Xphb Circle of the Sea Xphb]]
+- [[Paladin Xphb Oath of Redemption Xge]]
+- [[Paladin Xphb Oath of Vengeance Xphb]]
+- [[Ranger Xphb Monster Slayer Xge]]
+- [[cleric-xphb-war-domain-xphb (classes)]]
+- [[druid-xphb-circle-of-the-sea-xphb (classes)]]
+- [[paladin-xphb-oath-of-redemption-xge (classes)]]
+- [[paladin-xphb-oath-of-vengeance-xphb (classes)]]
+- [[ranger-xphb-monster-slayer-xge (classes)]]
+- [[Wand of Binding Xdmg]]
+- [[wand-of-binding-xdmg (items)]]
+- [[Chains of Carceri]]
+- [[chains-of-carceri (optional-features)]]

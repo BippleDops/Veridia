@@ -46,7 +46,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -179,7 +179,7 @@ Specialized vocabulary, jargon, and code words used by various professional guil
 - **"Void-cleansing"** - Purification methods for otherworldly contamination
 - **"Deep-oath"** - Loyalty vows enforced through surgical modification
 
-### **[[[[Crystal Engineering]] Guild]]**
+### **[[Crystal Engineering|[[Crystal Engineering]] Guild]]**
 
 **Technical Terminology:**
 - **"Resoce-[[map]]ping"** - Analysis of crystal harmonic properties
@@ -261,7 +261,7 @@ Specialized vocabulary, jargon, and code words used by various professional guil
 - **"Altitude-advantage"** - Superior tactical position through height control
 - **"Diving-strike"** - High-speed attack from elevated position
 - **"Formation-flying"** - Coordinated group combat maneuvers
-- **"Wind-jousting"** - [[Aerial Combat]] using natural air currents
+- **"Wind-jousting"** - [[Aerial_Combat|Aerial Combat]] using natural air currents
 - **"Storm-warfare"** - Combat techniques adapted for severe weather conditions
 
 **Tactical Classifications:**
@@ -312,7 +312,7 @@ Specialized vocabulary, jargon, and code words used by various professional guil
 
 **Professional Standards:**
 - **"Neutral-depth certification"** - Translator qualification for balanced cultural understanding
-- **"Cross-current competency"** - Ability to work in both realm [[Communication Systems]]
+- **"Cross-current competency"** - Ability to work in both realm [[Communication_Systems|Communication Systems]]
 - **"Emergency-interpretation"** - Rapid translation services for crisis situations
 - **"Diplomatic-immunity understanding"** - Knowledge of legal protections for international communication
 - **"Cultural-sensitivity clearance"** - Authorization to handle sensitive inter-realm negotiations
@@ -377,7 +377,7 @@ Professional Terminology is a undersea element of the setting, known for biolumi
 
 Legends speak of Professional Terminology as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Professional Terminology.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 

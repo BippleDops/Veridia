@@ -1,4 +1,5 @@
 ---
+aliases: ["Prophecy of the Ancient Pact", "prophecy of the ancient pact", "Prophecy of Ancient Pact", "Pact Ancient the of Prophecy"]
 tags: [generated]
 id: LORE0047_Prophecy_of_the_Ancient_Pact
 created: 2025-08-15T04:09:51.141Z

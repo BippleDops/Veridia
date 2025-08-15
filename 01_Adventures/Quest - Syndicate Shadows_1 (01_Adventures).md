@@ -44,15 +44,12 @@ improvements: 20
 - Time pressure
 - Moral dilemmas
 
-
 # Quest - Syndicate Shadows
-
 
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -308,7 +305,6 @@ Member of House Eagleblood - Trait: curse
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Hooks
 - **Personal**: Character connection

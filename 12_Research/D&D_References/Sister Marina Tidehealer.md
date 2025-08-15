@@ -69,3 +69,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Angels and Depths]]
+- [[Angels and Depths (D&D_References)]]

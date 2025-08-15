@@ -94,3 +94,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A noble needs help delivering before the festival
 - A document has gone missing and evil awakens
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Arcana Very Rare Xdmg]]
+- [[Magic Item Table H]]
+- [[Random Magic Items Arcana]]
+- [[Random Magic Items Relics]]
+- [[arcana-very-rare-xdmg (tables)]]
+- [[magic-item-table-h (tables)]]
+- [[random-magic-items-arcana (tables)]]
+- [[random-magic-items-relics (tables)]]

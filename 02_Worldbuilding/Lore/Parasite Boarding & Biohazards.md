@@ -102,3 +102,7 @@ Parasite Boarding & Biohazards represents a crucial aspect of the world's histor
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[Parasite_Boarding_&_Biohazards (02_Worldbuilding)]]

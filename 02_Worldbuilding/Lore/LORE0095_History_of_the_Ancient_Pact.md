@@ -1,4 +1,5 @@
 ---
+aliases: ["History of the Ancient Pact", "history of the ancient pact", "History of Ancient Pact", "Pact Ancient the of History"]
 tags: [generated]
 id: LORE0095_History_of_the_Ancient_Pact
 created: 2025-08-15T04:09:51.155Z

@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Dawnstrider the Wise", "xander dawnstrider the wise", "Xander Dawnstrider Wise", "Wise the Dawnstrider Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Dawnstrider the Wise
 
 *Half-Elf Courtier (Nobles), Age 21, Female*
@@ -36,17 +42,14 @@ Recently elevated to nobility through service, still learning courtly ways They 
 - **Short Term**: Make this month's payment
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Drusilla Ravenheart the Strong (Criminal - Informant)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Lyanna Dawnstrider (Personal - Ex-lover)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
-
 
 ### Gavril Ironwood (Personal - Love interest)
 - **Status**: Strained but maintaining
@@ -57,16 +60,13 @@ Recently elevated to nobility through service, still learning courtly ways They 
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Kaelen Zephyrblade (Professional - Rival)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Elric Proudmore (Criminal - Informant)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Actually a bastard with no real claim

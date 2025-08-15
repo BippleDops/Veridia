@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Thornweave", "solas thornweave", "Thornweave Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Thornweave
 
 *Halfling Heir (Nobles), Age 76, Non-binary*
@@ -36,7 +42,6 @@ Exiled from their homeland, trying to rebuild their power base A prophetic dream
 - **Short Term**: Avoid the authorities
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Kaelen Youngblood the Cunning (Professional - Mentor)
 - **Status**: Mutually beneficial
@@ -47,21 +52,17 @@ Exiled from their homeland, trying to rebuild their power base A prophetic dream
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Felicia Dawnstrider (Family - Parent)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
-
 
 ### Xander Emberfall (Criminal - Target)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Cedric Nightfall (Family - Child)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Secretly funding the rebellion

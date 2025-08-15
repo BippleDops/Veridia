@@ -82,3 +82,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Someone is hunting information for power
 - An heirloom has gone missing and chaos spreads
+
+## References
+
+- [[NPC00743_Ysara_Lightbringer_the_Broken]]
+- [[NPC00042_Vesper_Grimholt]]
+- [[Harbor Master Luna Freedrift (Places)]]
+- [[fractal-mascot-scc (construct)]]
+- [[npc - Aljanor Keenblade Oota]]
+- [[rod-of-alertness-xdmg (items)]]

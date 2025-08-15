@@ -1,3 +1,9 @@
+---
+aliases: ["Blazing Dagger of Speed", "blazing dagger of speed", "Speed of Dagger Blazing"]
+tags: [item, equipment]
+type: item
+---
+
 # Blazing Dagger of Speed
 
 *Weapons, Common*
@@ -13,8 +19,6 @@ A blazing dagger carved from dragon bone
 ## Properties
 - Returns when thrown
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -29,7 +33,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.378Z*

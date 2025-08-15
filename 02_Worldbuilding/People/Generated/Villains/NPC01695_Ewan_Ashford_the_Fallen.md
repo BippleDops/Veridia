@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Ashford the Fallen", "ewan ashford the fallen", "Ewan Ashford Fallen", "Fallen the Ashford Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Ashford the Fallen
 
 *Tiefling Assassin (Villains), Age 38, Female*
@@ -36,7 +42,6 @@ Born into evil but questioning their path They're being blackmailed by someone f
 - **Short Term**: Avoid the authorities
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Drusilla Silverleaf the Redeemed (Family - Child)
 - **Status**: Professional only
@@ -52,21 +57,17 @@ Born into evil but questioning their path They're being blackmailed by someone f
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Aeliana Stormwind the Fallen (Political - Patron)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ### Elric Brightblade the Risen (Family - Spouse)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Baelor Ironforge the Redeemed (Professional - Mentor)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Was once a renowned hero

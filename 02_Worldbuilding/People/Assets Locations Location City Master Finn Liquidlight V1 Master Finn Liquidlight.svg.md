@@ -218,3 +218,8 @@ Member of House Dragonblood - Trait: magical affinity
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-market-master-cornelius-driftwood-market-master-cornelius-driftwood.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-crystal-cathedral-of-pure-light-the-crystal-cathedral-of-pure-light.svg]]

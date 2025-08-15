@@ -99,3 +99,15 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Dao Xmm]]
+- [[dao-xmm (elemental)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Ring of Elemental Command Earth Xdmg]]
+- [[ring-of-elemental-command-earth-xdmg (items)]]
+- [[Wave of Rolling Earth]]
+- [[wave-of-rolling-earth (optional-features)]]

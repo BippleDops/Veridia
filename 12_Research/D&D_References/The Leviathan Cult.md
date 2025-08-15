@@ -110,3 +110,14 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[High Priest Dagon Deepcaller]]
+- [[The Deepwater Current]]
+- [[Theological Warfare]]
+- [[The Deepwater Current (D&D_References)]]
+- [[The Floating Markets of Nereidios (D&D_References)]]
+- [[The Sunken Cathedral of Stars (D&D_References)]]
+- [[Theological Warfare (D&D_References)]]
+- [[High Priest Dagon Deepcaller (D&D_Statblocks)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Goldleaf the Wise", "pyria goldleaf the wise", "Pyria Goldleaf Wise", "Wise the Goldleaf Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Goldleaf the Wise
 
 *Goliath Cleric (Adventurers), Age 66, Female*
@@ -36,22 +42,18 @@ Seeking vengeance for a murdered mentor They've fallen in love with someone they
 - **Short Term**: Gather information
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Orion Keenblade the Redeemed (Personal - Best friend)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
 
-
 ### Ewan Ironwood the Bold (Professional - Employer)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Jorah Brightblade the Swift (Family - Cousin)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Secretly working for the villain

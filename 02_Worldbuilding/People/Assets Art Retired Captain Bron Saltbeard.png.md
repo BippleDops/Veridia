@@ -191,3 +191,7 @@ This NPC can serve multiple roles:
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+## References
+
+- [[04_Resources_Assets_Vehicles_vehicle-ship-resoce-drive-yacht-v2-resoce-drive-yacht.svg]]

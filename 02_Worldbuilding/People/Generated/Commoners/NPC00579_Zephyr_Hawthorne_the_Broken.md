@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Hawthorne the Broken", "zephyr hawthorne the broken", "Zephyr Hawthorne Broken", "Broken the Hawthorne Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Hawthorne the Broken
 
 *Firbolg Farmer (Commoners), Age 27, Female*
@@ -36,22 +42,18 @@ Grew up in poverty but discovered a talent that might change everything They're 
 - **Short Term**: Sabotage competition
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Ysara Zephyrblade the Fallen (Criminal - Informant)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Caelum Ironwood (Professional - Employer)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
 
-
 ### Delara Blackstone the Wanderer (Personal - Nemesis)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Has dragon blood in their veins

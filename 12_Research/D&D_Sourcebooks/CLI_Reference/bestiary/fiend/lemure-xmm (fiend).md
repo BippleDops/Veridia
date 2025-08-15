@@ -144,3 +144,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Hellfire Engine Mpmm]]
+- [[hellfire-engine-mpmm (construct)]]
+- [[Amnizu Mpmm]]
+- [[Lemure Xmm]]
+- [[Narzugon Mpmm]]
+- [[amnizu-mpmm (fiend)]]
+- [[narzugon-mpmm (fiend)]]

@@ -1,4 +1,5 @@
 ---
+aliases: ["Primal Storm", "primal storm", "Storm Primal"]
 tags: [generated]
 id: SPELL0039_Primal_Storm
 created: 2025-08-15T04:09:51.475Z

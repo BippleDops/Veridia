@@ -1,11 +1,11 @@
 ---
+aliases: ["Katarina Goldleaf", "katarina goldleaf", "Goldleaf Katarina"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -78,7 +78,6 @@ Arcana, Athletics, Insight, Perception
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 20 gold pieces
 - Well-worn journal
@@ -93,7 +92,6 @@ Arcana, Athletics, Insight, Perception
 
 ---
 *Generated: 2025-08-15T03:21:04.038Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

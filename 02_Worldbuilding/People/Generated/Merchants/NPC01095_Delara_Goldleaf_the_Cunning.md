@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Goldleaf the Cunning", "delara goldleaf the cunning", "Delara Goldleaf Cunning", "Cunning the Goldleaf Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Goldleaf the Cunning
 
 *Human Appraiser (Merchants), Age 36, Female*
@@ -47,16 +53,13 @@ Built their business from nothing through cunning and hard work An old debt has 
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Gavril Frostwhisper the Scholar (Political - Spy)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
 
-
 ### Nerys Xendar the Redeemed (Family - Parent)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
-
 
 ### Drusilla Zephyrblade the Wanderer (Professional - Employee)
 - **Status**: Blood oath bound

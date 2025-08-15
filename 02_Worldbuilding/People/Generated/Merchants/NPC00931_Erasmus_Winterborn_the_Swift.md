@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Winterborn the Swift", "erasmus winterborn the swift", "Erasmus Winterborn Swift", "Swift the Winterborn Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Winterborn the Swift
 
 *Firbolg Caravan Master (Merchants), Age 75, Female*
@@ -36,32 +42,26 @@ Former adventurer who retired to open a shop A chance encounter last winter chan
 - **Short Term**: Avoid the authorities
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Faelyn Underhill the Wise (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: United by common enemy
 
-
 ### Baelor Blackstone the Fallen (Family - Cousin)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ### Qadim Zephyrblade the Redeemed (Professional - Partner)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Branwen Dawnstrider the Swift (Family - Sibling)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Gavril Ironwood the Bold (Political - Opposition)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Running a cult from their basement

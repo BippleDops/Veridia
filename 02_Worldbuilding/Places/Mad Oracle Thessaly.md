@@ -53,7 +53,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -91,7 +91,7 @@ improvements: 20
 
 Mad Oracle Thessaly exists at the intersection of divine wisdom and mortal fragility, serving as [[Aquabyssos]]'s most powerful and dangerous prophetic voice. For over forty years, she has channeled visions from the deepest spiritual currents of the ocean, providing insights that have shaped kingdoms and doomed heroes in equal measure. Her prophecies are renowned for their accuracy and feared for their terrible clarity, delivered through a consciousness shattered by the weight of seeing all of time's possibilities simultaneously.
 
-Once a promising young priestess named Thessaly Depthwhisper, she volunteered for a ritual communion with [[The [[Deep Mother]]]]'s most profound mysteries. The experience shattered her linear perception of time, leaving her consciousness scattered across past, present, and future like fragments of a broken mirror. Each piece reflects truth, but the complete picture drives observers to despair or madness.
+Once a promising young priestess named Thessaly Depthwhisper, she volunteered for a ritual communion with [[Deep Mother|The [[Deep Mother]]]]'s most profound mysteries. The experience shattered her linear perception of time, leaving her consciousness scattered across past, present, and future like fragments of a broken mirror. Each piece reflects truth, but the complete picture drives observers to despair or madness.
 
 Operating from [[The Spiral Sanctum]], a temple built around natural underwater vortices that amplify her prophetic abilities, Thessaly exists in a state of controlled madness carefully maintained by her devoted caretakers. Her prophecies come in fragments—cryptic images, half-remembered songs, and symbolic visions that require interpretation by trained priests and scholars.
 
@@ -443,10 +443,10 @@ Those who seek her wisdom must understand that her gift comes with a price: she 
 
 ### Religious Networks
 
-**[[The [[Deep Mother Cult]]]]**: Primary religious tradition supporting her prophetic work  
+**[[Deep Mother Cult|The [[Deep Mother Cult]]]]**: Primary religious tradition supporting her prophetic work  
 **[[Temple Hierarchies]]**: Various religious organizations seeking her spiritual guidance  
 **[[Pilgrimage Routes]]**: Travel networks bringing visitors to seek her prophecies  
-**[[[[Interfaith Council]]s]]**: Religious cooperation facilitated by her universal insights  
+**[[Interfaith_Council|[[Interfaith Council]]s]]**: Religious cooperation facilitated by her universal insights  
 **[[Spiritual Healers]]**: Medical professionals specializing in treating prophetic conditions
 
 ### Government Integration
@@ -467,8 +467,8 @@ Those who seek her wisdom must understand that her gift comes with a price: she 
 
 ### Social Networks
 
-**[[[[Noble House]]s]]**: Private consultation on family matters and succession issues  
-**[[[[Merchant]] Guilds (D&D_References)]]**: Economic prophecies affecting trade and commercial planning  
+**[[Noble House|[[Noble House]]s]]**: Private consultation on family matters and succession issues  
+**[[Merchant|[[Merchant]] Guilds (D&D_References)]]**: Economic prophecies affecting trade and commercial planning  
 **[[Cultural Organizations]]**: Spiritual guidance for artistic and cultural development  
 **[[Community Leaders]]**: Local consultation on matters affecting specific populations  
 **[[International Relations]]**: Prophetic insight into relationships with other underwater realms
@@ -484,7 +484,7 @@ Those who seek her wisdom must understand that her gift comes with a price: she 
 
 **Prophetic Guidance**: Providing players with glimpses of possible futures and hidden truths  
 **Cryptic Clues**: Delivering information in symbolic form that requires interpretation  
-**[[Moral Dilemmas]]**: Creating situations where prophetic knowledge conflicts with immediate de[[Sire]]s  
+**[[Moral_Dilemmas|Moral Dilemmas]]**: Creating situations where prophetic knowledge conflicts with immediate de[[Sire]]s  
 **Timeline Complexity**: Using prophecies to introduce time-travel or temporal magic elements  
 **Divine Connection**: Representing direct communication with campaign's divine powers
 
@@ -524,7 +524,7 @@ Legends speak of Mad Oracle Thessaly as a nexus where past and present converge.
 
 ### Key Locations
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -548,20 +548,17 @@ Mad Oracle Thessaly is a notable location characterized by its unique features a
 ### Founding
 Mad Oracle Thessaly was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
-
 
 ## Connections
 - **North**: Trade road to neighboring settlement
@@ -611,7 +608,6 @@ Key stop on magic items trade route
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -647,3 +643,8 @@ Key stop on magic items trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[The Whispering Depths]]
+- [[The Whispering Depths (D&D_References)]]

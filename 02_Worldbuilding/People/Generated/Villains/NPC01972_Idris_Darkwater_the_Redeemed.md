@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Darkwater the Redeemed", "idris darkwater the redeemed", "Idris Darkwater Redeemed", "Redeemed the Darkwater Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Darkwater the Redeemed
 
 *Tiefling Assassin (Villains), Age 74, Male*
@@ -36,12 +42,10 @@ Driven mad by knowledge humanity wasn't meant to know A chance encounter last wi
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Delara Keenblade the Swift (Family - Spouse)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ### Delara Zephyrblade the Wise (Criminal - Informant)
 - **Status**: Complicated history

@@ -1,4 +1,5 @@
 ---
+aliases: ["Void Guardian", "void guardian", "Guardian Void"]
 tags: [generated]
 id: MON0036_Void_Guardian
 created: 2025-08-15T04:09:51.430Z
@@ -27,7 +28,6 @@ A terrifying creature that stalks its prey from the shadows
 
 ---
 *Generated: 2025-08-15T03:21:47.464Z*
-
 
 ## Habitat
 - Natural environment and territories

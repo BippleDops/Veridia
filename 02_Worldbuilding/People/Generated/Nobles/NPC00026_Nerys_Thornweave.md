@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Thornweave", "nerys thornweave", "Thornweave Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Thornweave
 
 *Human Noble (Nobles), Age 69, Male*
@@ -13,7 +19,6 @@
 Short and delicate, with Shaved auburn hair and Violet eyes. Scarred skin. Prominent scar across the face.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Sees doom and gloom everywhere; Compulsive liar about minor things; Flirts with everyone regardless of interest
@@ -36,17 +41,14 @@ Exiled from their homeland, trying to rebuild their power base They recently dis
 - **Short Term**: Survive until next week
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Felicia Grimholt the Fallen (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Idris Jadeclaw (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
-
 
 ### Zephyr Brightblade (Personal - Ex-lover)
 - **Status**: On the verge of collapse
@@ -56,7 +58,6 @@ Exiled from their homeland, trying to rebuild their power base They recently dis
 ### Aldric Underhill (Professional - Rival)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Practicing forbidden magic

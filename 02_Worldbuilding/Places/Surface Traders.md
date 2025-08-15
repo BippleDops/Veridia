@@ -209,20 +209,17 @@ Surface Traders is a notable location characterized by its unique features and s
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
-
 
 ## Connections
 - **North**: Trade road to neighboring settlement
@@ -263,7 +260,6 @@ Mentioned in The Second Prophecy of Shadows
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -299,3 +295,11 @@ Mentioned in The Second Prophecy of Shadows
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[The Transformed Citizens]]
+- [[Abyssos Prime Docks]]
+- [[Pearl_Harbor_City (Places)]]
+- [[Port Meridian Harbor]]
+- [[Pearl_Harbor_City (D&D_References)]]

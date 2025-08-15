@@ -41,7 +41,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -94,7 +94,7 @@ Legends speak of Military Command as a nexus where past and present converge. Lo
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -118,13 +118,11 @@ Military Command is a notable location characterized by its unique features and 
 ### Founding
 Military Command was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -132,13 +130,11 @@ Military Command was established in the distant past, growing from humble beginn
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -196,7 +192,7 @@ Key stop on magic items trade route
 - A journal reveals a conspiracy about a local noble
 - Someone is blackmailing a artifact for power
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -212,7 +208,6 @@ Key stop on magic items trade route
 - Civil war
 - Natural disasters
 - Current [[Power Structures]] established
-
 
 ## Adventure Seeds
 - Mysterious occurrence
@@ -254,3 +249,24 @@ Key stop on magic items trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure]]
+- [[Consequence Chain 3 Reality Merger Diplomatic Crisis]]
+- [[Continental War]]
+- [[Eastern Kingdoms (02_Worldbuilding)]]
+- [[Fortress of the Deeps]]
+- [[Relationship Web Nuances]]
+- [[The Bathyal Succession]]
+- [[The Queen]]
+- [[Timeline of the Drowning]]
+- [[Ironhold]]
+- [[Mad Oracle Thessaly]]
+- [[Pressure Suit Malfunction]]
+- [[Royal Palace]]
+- [[Surface Tensions]]
+- [[Tethyan Hegemony]]
+- [[The Royal Palace]]
+- [[Throne Room - Heart of Palace]]
+- [[Mad Oracle Thessaly (D&D_References)]]

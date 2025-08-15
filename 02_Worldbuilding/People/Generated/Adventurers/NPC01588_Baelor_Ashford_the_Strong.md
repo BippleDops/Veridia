@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Ashford the Strong", "baelor ashford the strong", "Baelor Ashford Strong", "Strong the Ashford Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Ashford the Strong
 
 *Goliath Wizard (Adventurers), Age 38, Non-binary*
@@ -36,27 +42,22 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 - **Short Term**: Recruit new members
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Ysara Grimholt the Guardian (Political - Ally)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
 
-
 ### Rhiannon Jadeclaw the Strong (Political - Ally)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ### Vesper Hawthorne the Strong (Political - Spy)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Jorah Crystalbrook the Swift (Professional - Employer)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Possessed by ancient spirit

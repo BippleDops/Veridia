@@ -1,3 +1,9 @@
+---
+aliases: ["Radiant Crossbow of Slaying", "radiant crossbow of slaying", "Slaying of Crossbow Radiant"]
+tags: [item, equipment]
+type: item
+---
+
 # Radiant Crossbow of Slaying
 
 *Weapons, Uncommon (requires attunement)*

@@ -1,3 +1,9 @@
+---
+aliases: ["Mithril Boots of Resistance", "mithril boots of resistance", "Resistance of Boots Mithril"]
+tags: [item, equipment]
+type: item
+---
+
 # Mithril Boots of Resistance
 
 *Armor, Uncommon*
@@ -14,8 +20,6 @@ A mithril boots crafted from exotic materials
 - Resistance to one damage type
 - +1 to AC
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -30,7 +34,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.402Z*

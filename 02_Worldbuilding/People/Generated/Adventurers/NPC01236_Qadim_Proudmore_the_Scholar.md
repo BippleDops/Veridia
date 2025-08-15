@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Proudmore the Scholar", "qadim proudmore the scholar", "Qadim Proudmore Scholar", "Scholar the Proudmore Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Proudmore the Scholar
 
 *Aasimar Wizard (Adventurers), Age 65, Non-binary*
@@ -36,12 +42,10 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 - **Short Term**: Avoid the authorities
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Xander Quicksilver the Lost (Political - Opposition)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
-
 
 ### Caelum Moonshadow the Mystic (Criminal - Informant)
 - **Status**: On the verge of collapse
@@ -52,7 +56,6 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
 
-
 ### Gavril Crystalbrook the Strong (Personal - Ex-lover)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
@@ -62,11 +65,9 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Ewan Zephyrblade the Lost (Family - Child)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Is from the future

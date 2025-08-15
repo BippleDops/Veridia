@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Goldleaf the Wanderer", "faelyn goldleaf the wanderer", "Faelyn Goldleaf Wanderer", "Wanderer the Goldleaf Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Goldleaf the Wanderer
 
 *Aasimar Cultist (Villains), Age 75, Non-binary*
@@ -13,7 +19,6 @@
 Very tall and stocky, with Braided elaborately brown hair and Red eyes. Weathered skin. Crooked nose from multiple breaks.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Believes in every conspiracy theory; Always tells the absolute truth
@@ -36,12 +41,10 @@ Betrayed by those they trusted, now seeking revenge on the world They've been ma
 - **Short Term**: Gather information
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Fiora Ashford the Strong (Professional - Employer)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ### Hilda Dawnstrider the Wanderer (Professional - Mentor)
 - **Status**: Secretly hostile
@@ -51,7 +54,6 @@ Betrayed by those they trusted, now seeking revenge on the world They've been ma
 ### Drusilla Ravenheart the Mystic (Criminal - Accomplice)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ### Fiora Lightbringer the Broken (Political - Patron)
 - **Status**: Strained but maintaining

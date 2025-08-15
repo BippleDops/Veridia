@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Youngblood the Seeker", "hilda youngblood the seeker", "Hilda Youngblood Seeker", "Seeker the Youngblood Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Youngblood the Seeker
 
 *Human Baker (Commoners), Age 20, Non-binary*
@@ -36,7 +42,6 @@ Survivor of a disaster that destroyed their village They recently discovered a s
 - **Short Term**: Avoid the authorities
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Alaric Youngblood the Bold (Criminal - Target)
 - **Status**: Secretly hostile
@@ -47,11 +52,9 @@ Survivor of a disaster that destroyed their village They recently discovered a s
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Pyria Ashford the Mystic (Personal - Childhood friend)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Knows location of ancient treasure

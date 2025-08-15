@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Xendar the Mystic", "idris xendar the mystic", "Idris Xendar Mystic", "Mystic the Xendar Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Xendar the Mystic
 
 *Half-Elf Dark Wizard (Villains), Age 62, Male*
@@ -13,7 +19,6 @@
 Above average and stocky, with Wild and unkempt blonde hair and Gray eyes. Tan skin. Missing finger on left hand.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Never backs down from any challenge; Extremely superstitious about everything
@@ -36,7 +41,6 @@ Driven mad by knowledge humanity wasn't meant to know They've been marked by a s
 - **Short Term**: Avoid the authorities
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Thalia Quicksilver the Risen (Criminal - Target)
 - **Status**: Strained but maintaining
@@ -52,16 +56,13 @@ Driven mad by knowledge humanity wasn't meant to know They've been marked by a s
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
 
-
 ### Cedric Quicksilver the Mystic (Professional - Mentor)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
 
-
 ### Orion Dawnstrider the Risen (Criminal - Target)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Has a child they're protecting

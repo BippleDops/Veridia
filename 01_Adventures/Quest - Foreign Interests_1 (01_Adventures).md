@@ -1,6 +1,5 @@
 ---
 
-
 title: 02_Worldbuilding/Quests/Quest - Foreign Interests
 type: adventure
 tags:
@@ -19,13 +18,10 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
-
 
 ## Objectives
 ### Primary
@@ -195,7 +191,6 @@ An exciting quest that challenges heroes to save the realm.
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Hooks
 - **Personal**: Character connection

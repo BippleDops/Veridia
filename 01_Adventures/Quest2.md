@@ -15,15 +15,12 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 # Quest2
-
 
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -123,7 +120,6 @@ Further information about this topic will be developed as the campaign progresse
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## Time Limit
 - **Deadline**: When it must be completed
 - **Consequences**: What happens if late
@@ -164,3 +160,8 @@ Further information about this topic will be developed as the campaign progresse
 - Related content
 - Similar topics
 - Connected elements
+
+## References
+
+- [[Location_Template_1 (09_Templates)]]
+- [[NPC_Template_1 (09_Templates)]]

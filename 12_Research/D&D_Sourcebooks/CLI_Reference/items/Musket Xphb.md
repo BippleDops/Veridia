@@ -81,3 +81,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A merchant needs help stealing before the new moon
 - Strange disappearances suggest a curse
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Tinkers Tools Xphb]]
+- [[Woodcarvers Tools Xphb]]
+- [[tinkers-tools-xphb (items)]]
+- [[woodcarvers-tools-xphb (items)]]
+- [[Weapons Xphb]]
+- [[weapons-xphb (tables)]]

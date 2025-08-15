@@ -64,7 +64,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -187,8 +187,8 @@ All newcomers must be sponsored by established canal users:
 
 **Layer 4: Enforcement Response**
 - **[[The Current Riders]]**: Fast response team on specialized watercraft
-- **[[Depth Enforcers]]**: Armed guards trained in [[Underwater Combat]]
-- **[[The [[Tide Turner]]s]]**: Elite operatives capable of controlling water flow
+- **[[Depth Enforcers]]**: Armed guards trained in [[Underwater_Combat|Underwater Combat]]
+- **[[Tide Turner|The [[Tide Turner]]s]]**: Elite operatives capable of controlling water flow
 - **[[Emergency Response Protocol]]**: Complete canal lockdown procedures
 
 ### Primary Markets
@@ -229,7 +229,7 @@ Extracted experiences and knowledge:
 
 **The Current Express**
 Rapid transport system using trained water creatures:
-- **[[Giant [[Sea Horse]]]]s**: Fast, maneuverable, carry 2 passengers
+- **[[Sea Horse|Giant [[Sea Horse]]]]s**: Fast, maneuverable, carry 2 passengers
 - **Dire Eels**: Stealthy, can navigate narrow passages
 - **Trained [[Dolphin]]s**: Intelligence gathering while traveling
 - **Current Rays**: Large capacity, good for cargo transport
@@ -254,14 +254,14 @@ Rapid transport system using trained water creatures:
 **Background**: Former city engineer who helped design the original drainage system
 **Motivation**: Maintaining profitable operations while avoiding official attention
 **Key Relationships**: 
-- Secret arrangement with [[The [[Shadow Markets]]]] for territory division
+- Secret arrangement with [[Shadow Markets|The [[Shadow Markets]]]] for territory division
 - Information sharing agreement with [[Deepmind Conspiracy]]
 - Protection contract with [[Syndicate Enforcers]]
 
 **Abilities**: 
 - **Master Navigator**: Knows every passage and shortcut in the system
 - **Current Control**: Can manipulate water flow using engineering knowledge
-- **Network Coordinator**: Maintains communication with all major [[Criminal Organizations]]
+- **Network Coordinator**: Maintains communication with all major [[Criminal_Organizations|Criminal Organizations]]
 - **Escape Artist**: Has never been successfully captured by authorities
 
 **Statistics**: Use **Spy** stats with additional swimming speed of 40 feet and ability to hold breath for 1 hour
@@ -429,7 +429,7 @@ Memory trading and information extraction services:
 - Information verification through memory extraction
 - Protection of memory-based intelligence networks
 
-**[[[[Smuggler]]'s Cove]]**
+**[[Smuggler|[[Smuggler]]'s Cove]]**
 Goods transfer and transportation coordination:
 - Transporting mari[[Time]] smuggling goods to underground markets
 - Shared storage facilities and security arrangements
@@ -611,7 +611,7 @@ Shadow Market Canals is a undersea element of the setting, known for bioluminesc
 
 Legends speak of Shadow Market Canals as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Market Canals.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -635,13 +635,11 @@ Shadow Market Canals is a notable location characterized by its unique features 
 ### Founding
 Shadow Market Canals was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -649,13 +647,11 @@ Shadow Market Canals was established in the distant past, growing from humble be
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -715,7 +711,6 @@ Ongoing situations affecting Shadow Market Canals:
 - 20% middle class
 - 79% working poor
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -751,3 +746,12 @@ Ongoing situations affecting Shadow Market Canals:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Shadow Surgeons Collective]]
+- [[Shadow Merchant Riptide]]
+- [[Aquabyssos - Session 04 - High Tide Horror]]
+- [[Shadow Merchant Riptide (D&D_References)]]
+- [[Ambush Point (D&D_Statblocks)]]
+- [[Find the Grief Bomb (D&D_Statblocks)]]

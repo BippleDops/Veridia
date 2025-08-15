@@ -1,3 +1,9 @@
+---
+aliases: ["Fortified Shield of Protection", "fortified shield of protection", "Protection of Shield Fortified"]
+tags: [item, equipment]
+type: item
+---
+
 # Fortified Shield of Protection
 
 *Armor, Common*

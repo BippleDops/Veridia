@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Goldleaf the Fallen", "qadim goldleaf the fallen", "Qadim Goldleaf Fallen", "Fallen the Goldleaf Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Goldleaf the Fallen
 
 *Firbolg Heir (Nobles), Age 63, Female*
@@ -36,12 +42,10 @@ Recently elevated to nobility through service, still learning courtly ways They 
 - **Short Term**: Survive until next week
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Hilda Moonshadow the Mystic (Political - Spy)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ### Idris Moonshadow the Lost (Criminal - Fence)
 - **Status**: On the verge of collapse
@@ -51,7 +55,6 @@ Recently elevated to nobility through service, still learning courtly ways They 
 ### Branwen Ravenheart the Seeker (Personal - Ex-lover)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ### Qadim Jadeclaw (Professional - Employee)
 - **Status**: Recently reconciled

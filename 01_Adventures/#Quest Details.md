@@ -112,7 +112,6 @@ This content can be adapted and expanded based on specific campaign needs.
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## Time Limit
 - **Deadline**: When it must be completed
 - **Consequences**: What happens if late
@@ -153,3 +152,15 @@ This content can be adapted and expanded based on specific campaign needs.
 - Related content
 - Similar topics
 - Connected elements
+
+## Objective
+
+*To be added*
+
+## Tasks
+
+*To be added*
+
+## Complications
+
+*To be added*

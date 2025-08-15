@@ -1,11 +1,11 @@
 ---
+aliases: ["Nathaniel Goldleaf the Wise", "nathaniel goldleaf the wise", "Nathaniel Goldleaf Wise", "Wise the Goldleaf Nathaniel"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -75,8 +75,6 @@ Child of farmers who sought adventure. Years ago, they found an ancient artifact
 ### Skills
 Arcana, Persuasion
 
-
-
 ## Possessions
 - 107 gold pieces
 - Map to unknown location
@@ -89,7 +87,6 @@ Arcana, Persuasion
 
 ---
 *Generated: 2025-08-15T03:21:04.038Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

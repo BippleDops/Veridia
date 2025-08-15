@@ -96,3 +96,25 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Prismari Student Scc]]
+- [[prismari-student-scc (backgrounds)]]
+- [[aerisi-kalinoth-pota (npc)]]
+- [[npc - Aerisi Kalinoth Pota]]
+- [[Illithilich Vgm (undead)]]
+- [[illithilich-vgm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Tempest Domain]]
+- [[Druid Xphb Circle of the Sea Xphb]]
+- [[cleric-xphb-tempest-domain (classes)]]
+- [[druid-xphb-circle-of-the-sea-xphb (classes)]]
+- [[Fist of Four Thunders]]
+- [[fist-of-four-thunders (optional-features)]]
+- [[Boon of the Stormborn]]
+- [[boon-of-the-stormborn (rewards)]]
+- [[Random Traps Trap Effects]]
+- [[random-traps-trap-effects (tables)]]

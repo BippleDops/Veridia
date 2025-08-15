@@ -148,3 +148,9 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[The Queen]]
+- [[The Queen (D&D_References)]]
+- [[The Queen 3 (D&D_References)]]

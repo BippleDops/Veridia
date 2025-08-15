@@ -34,7 +34,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-enforcer-chief-mako-ironjaw-enforcer-chief-mako-ironjaw.svg)
 
@@ -42,7 +41,6 @@ improvements: 20
 
 # Enforcer Chief Mako Ironjaw
 *The Steel-Toothed Hunter, Terror of the Black Markets, The Emperor's Fang*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -222,7 +220,6 @@ Legends speak of Enforcer Chief Mako Ironjaw as a nexus where past and present c
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -258,3 +255,8 @@ Legends speak of Enforcer Chief Mako Ironjaw as a nexus where past and present c
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Master Jeweler Sapphire Delicatehand V1 Master Jeweler Sapphire Delicatehand.svg]]
+- [[Assets Symbols Symbol Heraldry Border Checkpoints Border Checkpoints.svg]]

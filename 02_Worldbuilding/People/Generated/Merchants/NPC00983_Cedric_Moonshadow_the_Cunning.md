@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Moonshadow the Cunning", "cedric moonshadow the cunning", "Cedric Moonshadow Cunning", "Cunning the Moonshadow Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Moonshadow the Cunning
 
 *Aasimar Shopkeeper (Merchants), Age 71, Male*
@@ -36,12 +42,10 @@ Former adventurer who retired to open a shop An old debt has come due at the wor
 - **Short Term**: Avoid the authorities
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Lyanna Stormwind the Risen (Professional - Partner)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ### Elric Youngblood the Cunning (Political - Puppet)
 - **Status**: On the verge of collapse

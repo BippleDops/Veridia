@@ -158,3 +158,7 @@ Mentioned in The First Prophecy of Winds
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Session 06 the Sky Throne]]

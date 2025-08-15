@@ -121,4 +121,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[soul-cage-xge (spells)-phb]]` in CLI_Reference/spells/
+See: `[[soul-cage-xge (spells)|soul-cage-xge (spells)-phb]]` in CLI_Reference/spells/

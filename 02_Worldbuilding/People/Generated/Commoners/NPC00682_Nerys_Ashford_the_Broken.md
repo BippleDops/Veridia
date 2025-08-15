@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Ashford the Broken", "nerys ashford the broken", "Nerys Ashford Broken", "Broken the Ashford Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Ashford the Broken
 
 *Half-Orc Baker (Commoners), Age 64, Male*
@@ -36,27 +42,22 @@ Runaway from an arranged marriage, starting a new life They're being blackmailed
 - **Short Term**: Avoid the authorities
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Felicia Blackstone the Strong (Personal - Nemesis)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Brenna Youngblood the Guardian (Family - Spouse)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
-
 
 ### Elric Underhill the Scholar (Personal - Love interest)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Wynne Nightfall the Seeker (Personal - Nemesis)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Knows location of ancient treasure

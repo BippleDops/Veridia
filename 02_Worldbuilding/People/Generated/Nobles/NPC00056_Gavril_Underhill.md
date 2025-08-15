@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Underhill", "gavril underhill", "Underhill Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Underhill
 
 *Half-Orc Heir (Nobles), Age 70, Non-binary*
@@ -36,27 +42,22 @@ Exiled from their homeland, trying to rebuild their power base Strange abilities
 - **Short Term**: Survive until next week
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Urien Keenblade (Professional - Employer)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Solas Frostwhisper (Professional - Rival)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ### Ysara Ashford the Strong (Professional - Employee)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Faelyn Brightblade (Criminal - Fence)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Secretly funding the rebellion

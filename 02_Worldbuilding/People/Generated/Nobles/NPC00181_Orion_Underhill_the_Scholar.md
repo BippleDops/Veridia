@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Underhill the Scholar", "orion underhill the scholar", "Orion Underhill Scholar", "Scholar the Underhill Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Underhill the Scholar
 
 *Elf Aristocrat (Nobles), Age 36, Male*
@@ -36,27 +42,22 @@ Secretly adopted into nobility, living in fear of discovery Strange abilities ha
 - **Short Term**: Find missing person
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Branwen Stormwind the Strong (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Hestara Quicksilver the Lost (Personal - Childhood friend)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
-
 
 ### Orion Moonshadow (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Brenna Voidwalker (Family - Cousin)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ### Caelum Ashford the Lost (Personal - Nemesis)
 - **Status**: Secretly hostile
@@ -66,7 +67,6 @@ Secretly adopted into nobility, living in fear of discovery Strange abilities ha
 ### Malakai Ashford (Criminal - Handler)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Secretly funding the rebellion

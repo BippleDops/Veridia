@@ -102,3 +102,8 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Locations Location City Terminal Master Hadrian Depthbridge Terminal Master Hadrian Depthbridge.svg]]
+- [[Assets Vehicles Vehicle Ship Resonance Drive Yacht Resonance Drive Yacht.svg]]

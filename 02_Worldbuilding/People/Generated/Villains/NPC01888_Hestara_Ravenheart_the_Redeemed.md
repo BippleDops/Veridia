@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Ravenheart the Redeemed", "hestara ravenheart the redeemed", "Hestara Ravenheart Redeemed", "Redeemed the Ravenheart Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Ravenheart the Redeemed
 
 *Tiefling Corrupt Noble (Villains), Age 53, Non-binary*
@@ -13,7 +19,6 @@
 Very short and lanky, with Tied back red hair and Brown eyes. Brown skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Flirts with everyone regardless of interest; Compulsive liar about minor things
@@ -36,7 +41,6 @@ Corrupted by an artifact or dark magic They've been marked by a secret society.
 - **Short Term**: Avoid the authorities
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Solas Ravenheart the Guardian (Criminal - Accomplice)
 - **Status**: One-sided affection
@@ -47,7 +51,6 @@ Corrupted by an artifact or dark magic They've been marked by a secret society.
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Alaric Silverleaf the Mystic (Criminal - Handler)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
@@ -57,11 +60,9 @@ Corrupted by an artifact or dark magic They've been marked by a secret society.
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Fiora Ironwood the Redeemed (Criminal - Fence)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Was once a renowned hero

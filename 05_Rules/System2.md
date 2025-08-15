@@ -1,6 +1,5 @@
 ---
 
-
 title: System2
 type: mechanics
 tags:
@@ -286,3 +285,7 @@ Apply this rule when:
 ### Common Table Rulings
 - Document house rules clearly
 - Maintain consistency across sessions
+
+## References
+
+- [[Location_Template_1 (09_Templates)]]

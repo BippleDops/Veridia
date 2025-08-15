@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Goldleaf the Strong", "lyanna goldleaf the strong", "Lyanna Goldleaf Strong", "Strong the Goldleaf Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Goldleaf the Strong
 
 *Half-Orc Wizard (Adventurers), Age 65, Female*
@@ -13,7 +19,6 @@
 Below average and lanky, with Mohawk auburn hair and Brown eyes. Scarred skin. Burn scars on one side of face.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Always tells the absolute truth; Never backs down from any challenge
@@ -47,11 +52,9 @@ Chosen by fate to fulfill an ancient prophecy An old debt has come due at the wo
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Baelor Ironforge the Strong (Personal - Nemesis)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ### Faelyn Youngblood the Cunning (Family - Child)
 - **Status**: Blood oath bound
@@ -62,11 +65,9 @@ Chosen by fate to fulfill an ancient prophecy An old debt has come due at the wo
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Urien Brightblade the Cunning (Criminal - Fence)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Possessed by ancient spirit

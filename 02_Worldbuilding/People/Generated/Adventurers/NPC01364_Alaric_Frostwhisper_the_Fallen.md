@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Frostwhisper the Fallen", "alaric frostwhisper the fallen", "Alaric Frostwhisper Fallen", "Fallen the Frostwhisper Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Frostwhisper the Fallen
 
 *Dwarf Wizard (Adventurers), Age 64, Female*
@@ -36,22 +42,18 @@ Chosen by fate to fulfill an ancient prophecy A chance encounter last winter cha
 - **Short Term**: Sabotage competition
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Solas Nightfall the Swift (Personal - Nemesis)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
 
-
 ### Gareth Quicksilver the Redeemed (Political - Opposition)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Fiora Silverleaf the Mystic (Family - Spouse)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
-
 
 ### Corvus Quicksilver the Bold (Criminal - Target)
 - **Status**: Secretly hostile

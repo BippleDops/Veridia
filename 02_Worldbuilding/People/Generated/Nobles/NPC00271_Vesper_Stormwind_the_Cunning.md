@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Stormwind the Cunning", "vesper stormwind the cunning", "Vesper Stormwind Cunning", "Cunning the Stormwind Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Stormwind the Cunning
 
 *Tabaxi Heir (Nobles), Age 21, Female*
@@ -57,16 +63,13 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Faelyn Underhill the Lost (Personal - Nemesis)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Wynne Thornweave (Personal - Best friend)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Child from scandalous affair

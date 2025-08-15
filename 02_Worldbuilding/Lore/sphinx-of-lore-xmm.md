@@ -185,3 +185,14 @@ Adapt this lore to fit campaign:
 
 ---
 *Tags*: #lore #history #legend #worldbuilding #mystery
+
+## References
+
+- [[Desert Encounters Levels 1116 Xge]]
+- [[Desert Encounters Levels 1720 Xge]]
+- [[Desert Encounters Levels 510 Xge]]
+- [[Monster Conversions Stat Block Conversions]]
+- [[desert-encounters-levels-1116-xge (tables)]]
+- [[desert-encounters-levels-1720-xge (tables)]]
+- [[desert-encounters-levels-510-xge (tables)]]
+- [[monster-conversions-stat-block-conversions-xmm]]

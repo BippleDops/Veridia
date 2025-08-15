@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Brightblade the Mystic", "alaric brightblade the mystic", "Alaric Brightblade Mystic", "Mystic the Brightblade Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Brightblade the Mystic
 
 *Half-Elf Dark Wizard (Villains), Age 69, Non-binary*
@@ -13,7 +19,6 @@
 Above average and lanky, with Tied back blonde hair and Hazel eyes. Dark skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Always speaks in metaphors and riddles
@@ -36,17 +41,14 @@ Born into evil but questioning their path They recently discovered a secret that
 - **Short Term**: Survive until next week
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Gareth Underhill the Cunning (Personal - Ex-lover)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
 
-
 ### Elric Goldleaf the Mystic (Professional - Employee)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
-
 
 ### Branwen Xendar the Fallen (Family - Spouse)
 - **Status**: Recently reconciled
@@ -57,7 +59,6 @@ Born into evil but questioning their path They recently discovered a secret that
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Alaric Zephyrblade the Wise (Family - Parent)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
@@ -66,7 +67,6 @@ Born into evil but questioning their path They recently discovered a secret that
 ### Thalia Lightbringer the Bold (Personal - Ex-lover)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Was once a renowned hero

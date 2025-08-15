@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Ashford the Mystic", "faelyn ashford the mystic", "Faelyn Ashford Mystic", "Mystic the Ashford Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Ashford the Mystic
 
 *Dwarf Courtier (Nobles), Age 29, Non-binary*
@@ -36,12 +42,10 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Gather information
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Rhiannon Crystalbrook (Personal - Nemesis)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ### Baelor Jadeclaw the Broken (Family - Spouse)
 - **Status**: Mutually beneficial
@@ -51,7 +55,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 ### Solas Ravenheart (Criminal - Target)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Child from scandalous affair

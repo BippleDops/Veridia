@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-silhouette-surgeon-prime-the-silhouette-surgeon-prime.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -261,7 +259,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -297,3 +294,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Party Shadows (Criminal_Organizations)]]
+- [[Draft_Content (People)]]
+- [[Aquabyssos - Session 05 - Descent into Darkness]]
+- [[Aquabyssos - Session 06 - The Silhouette Surgeons]]
+- [[Party Shadows]]

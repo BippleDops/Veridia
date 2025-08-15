@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Dawnstrider", "aeliana dawnstrider", "Dawnstrider Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Dawnstrider
 
 *Aasimar Noble (Nobles), Age 77, Non-binary*
@@ -36,32 +42,26 @@ Secretly adopted into nobility, living in fear of discovery They recently discov
 - **Short Term**: Survive until next week
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Felicia Stormwind the Redeemed (Personal - Best friend)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Thalia Brightblade the Scholar (Personal - Love interest)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
-
 
 ### Lyanna Moonshadow the Wise (Professional - Employer)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Delara Moonshadow the Broken (Professional - Employer)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
 
-
 ### Gavril Oakenshield the Scholar (Personal - Ex-lover)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ### Hilda Dawnstrider the Cunning (Political - Opposition)
 - **Status**: Recently reconciled

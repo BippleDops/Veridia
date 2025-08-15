@@ -115,3 +115,7 @@ Mentioned in The Second Prophecy of Depths
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Assets Symbols Symbol Heraldry Living Amplifiers Living Amplifiers.svg]]

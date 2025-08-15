@@ -1,3 +1,9 @@
+---
+aliases: ["Celestial Scepter of Destiny", "celestial scepter of destiny", "Destiny of Scepter Celestial"]
+tags: [item, equipment]
+type: item
+---
+
 # Celestial Scepter of Destiny
 
 *Artifacts, Very Rare*
@@ -16,8 +22,6 @@ A celestial scepter pulsing with inner light
 - Cast spell 3/day
 - Cast spell 3/day
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -32,7 +36,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.418Z*

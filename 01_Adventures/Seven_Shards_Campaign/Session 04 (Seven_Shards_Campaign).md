@@ -112,7 +112,6 @@ The events leading to this adventure have been building for some time. Forces ar
 ### Primary Hook
 The main reason parties get involved
 
-
 ## Preparation Checklist
 - [ ] Review previous session
 - [ ] Prepare NPC voices

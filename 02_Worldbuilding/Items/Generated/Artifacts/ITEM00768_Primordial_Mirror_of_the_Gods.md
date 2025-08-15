@@ -1,3 +1,9 @@
+---
+aliases: ["Primordial Mirror of the Gods", "primordial mirror of the gods", "Primordial Mirror of Gods", "Gods the of Mirror Primordial"]
+tags: [item, equipment]
+type: item
+---
+
 # Primordial Mirror of the Gods
 
 *Artifacts, Legendary*
@@ -16,8 +22,6 @@ A primordial mirror radiating otherworldly power
 - Cast spell 3/day
 - Plane shift 1/day
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -32,7 +36,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.424Z*

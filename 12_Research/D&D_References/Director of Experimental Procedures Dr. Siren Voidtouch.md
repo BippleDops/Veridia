@@ -83,3 +83,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Assets Symbols Symbol Heraldry Master Trader Darkmarke Master Trader Darkmarke.svg]]
+- [[Reflection Pools - Surgical Theater (D&D_References)]]

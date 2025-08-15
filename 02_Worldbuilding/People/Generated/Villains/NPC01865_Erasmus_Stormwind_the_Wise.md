@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Stormwind the Wise", "erasmus stormwind the wise", "Erasmus Stormwind Wise", "Wise the Stormwind Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Stormwind the Wise
 
 *Gnome Assassin (Villains), Age 70, Male*
@@ -36,17 +42,14 @@ Betrayed by those they trusted, now seeking revenge on the world They've made a 
 - **Short Term**: Complete current contract
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Qadim Crystalbrook the Wanderer (Family - Child)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Zephyr Stormwind the Bold (Family - Parent)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ### Branwen Underhill the Wanderer (Professional - Employee)
 - **Status**: Complicated history
@@ -57,11 +60,9 @@ Betrayed by those they trusted, now seeking revenge on the world They've made a 
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
 
-
 ### Hilda Ironforge the Seeker (Criminal - Fence)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Has a child they're protecting

@@ -423,7 +423,6 @@ The Tidecaller Antiquarium connects to numerous important elements throughout Aq
 
 *The Tidecaller Antiquarium stands as a bridge between the mysterious depths and the curious surface, where the treasures of lost civilizations find new purpose in illuminating the rich tapestry of oceanic history and the endless wonders that lie beneath the waves.*
 
-
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
@@ -475,13 +474,11 @@ Antiquarian Eliza Tidecaller is a notable location characterized by its unique f
 ### Founding
 Antiquarian Eliza Tidecaller was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -557,7 +554,6 @@ Ongoing situations affecting Antiquarian Eliza Tidecaller:
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -593,3 +589,10 @@ Ongoing situations affecting Antiquarian Eliza Tidecaller:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[The Phosphor Markets]]
+- [[Antiquarian Eliza Tidecaller (D&D_References)]]
+- [[Compass Quest (D&D_References)]]
+- [[The Phosphor Markets (D&D_References)]]

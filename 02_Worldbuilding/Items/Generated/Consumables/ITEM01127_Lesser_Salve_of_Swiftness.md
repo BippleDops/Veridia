@@ -1,3 +1,9 @@
+---
+aliases: ["Lesser Salve of Swiftness", "lesser salve of swiftness", "Swiftness of Salve Lesser"]
+tags: [item, equipment]
+type: item
+---
+
 # Lesser Salve of Swiftness
 
 *Consumables, Common*
@@ -13,8 +19,6 @@ A lesser salve emanating sweet fragrance
 ## Properties
 - Resistance for 10 minutes
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -29,7 +33,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.458Z*

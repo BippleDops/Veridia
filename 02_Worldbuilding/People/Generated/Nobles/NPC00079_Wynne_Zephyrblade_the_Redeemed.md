@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Zephyrblade the Redeemed", "wynne zephyrblade the redeemed", "Wynne Zephyrblade Redeemed", "Redeemed the Zephyrblade Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Zephyrblade the Redeemed
 
 *Gnome Courtier (Nobles), Age 42, Male*
@@ -13,7 +19,6 @@
 Towering and heavyset, with Short and neat unusual color hair and Brown eyes. Fair skin. Intricate tattoos covering arms.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Never backs down from any challenge; Always tells the absolute truth
@@ -36,22 +41,18 @@ Exiled from their homeland, trying to rebuild their power base They've fallen in
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Zephyr Lightbringer (Political - Patron)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
 
-
 ### Vesper Winterborn the Broken (Criminal - Fence)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
 
-
 ### Lyanna Ashford the Swift (Professional - Employee)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Child from scandalous affair

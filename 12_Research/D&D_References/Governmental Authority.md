@@ -66,3 +66,8 @@ Mentioned in The Hidden Prophecy of Shadows
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Aquabyssos Trade Seal]]
+- [[Aquabyssos Trade Seal (D&D_References)]]

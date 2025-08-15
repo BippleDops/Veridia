@@ -39,7 +39,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-character-relationship-web-core-npcs-character-relationship-web-core-npcs.svg)
 
@@ -47,7 +46,6 @@ improvements: 20
 
 # Character Relationship Web - Core NPCs
 *How the Major Characters' Backstories Interconnect and Create Plot Opportunities*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -407,7 +405,6 @@ Member of House Eagleblood - Trait: curse
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
-
 
 ## Daily Routine
 - **Morning**: Typical activities

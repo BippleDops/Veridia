@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Darkwater the Guardian", "erasmus darkwater the guardian", "Erasmus Darkwater Guardian", "Guardian the Darkwater Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Darkwater the Guardian
 
 *Half-Orc Assassin (Villains), Age 35, Male*
@@ -36,7 +42,6 @@ Born into evil but questioning their path A family member's death has left them 
 - **Short Term**: Make this month's payment
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Solas Emberfall the Swift (Political - Puppet)
 - **Status**: Strong and trusting
@@ -52,21 +57,17 @@ Born into evil but questioning their path A family member's death has left them 
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Lyanna Ashford the Wise (Professional - Partner)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ### Delara Oakenshield the Broken (Family - Parent)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
 
-
 ### Malakai Ironwood the Bold (Professional - Partner)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Has a child they're protecting

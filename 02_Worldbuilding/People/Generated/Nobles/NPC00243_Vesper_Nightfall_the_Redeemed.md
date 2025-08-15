@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Nightfall the Redeemed", "vesper nightfall the redeemed", "Vesper Nightfall Redeemed", "Redeemed the Nightfall Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Nightfall the Redeemed
 
 *Goliath Noble (Nobles), Age 20, Male*
@@ -13,7 +19,6 @@
 Very short and imposing, with Wild and unkempt black hair and Hazel eyes. Tan skin. Gold tooth that glints when smiling.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Constantly quotes ancient texts
@@ -36,12 +41,10 @@ Exiled from their homeland, trying to rebuild their power base Strange abilities
 - **Short Term**: Survive until next week
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Solas Jadeclaw the Wise (Personal - Ex-lover)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ### Urien Darkwater (Political - Puppet)
 - **Status**: On the verge of collapse
@@ -51,7 +54,6 @@ Exiled from their homeland, trying to rebuild their power base Strange abilities
 ### Fiora Darkwater the Swift (Political - Puppet)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Practicing forbidden magic

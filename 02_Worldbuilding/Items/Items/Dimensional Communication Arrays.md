@@ -108,3 +108,7 @@ Last known to be in [[Region Name]] or surrounding areas.
 
 ### Curse (if applicable)
 - *[Negative effects]*
+
+## References
+
+- [[The Crimson Hand]]

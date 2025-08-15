@@ -89,3 +89,12 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Guild Artisan Guild Merchant Variant]]
+- [[guild-artisan-guild-merchant-variant (backgrounds)]]
+- [[Mounts and Vehicles Mounts and Other Animals]]
+- [[mounts-and-vehicles-mounts-and-other-animals-phb]]
+- [[mounts-and-vehicles-mounts-and-other-animals-xphb]]

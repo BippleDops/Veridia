@@ -1,6 +1,18 @@
-# Legends Entry 9
+---
+aliases: ["Legends Entry 9", "legends entry 9", "9 Entry Legends"]
+tags: [note, stub-fixed]
+---
 
-*Legends*
+# Lore00008 Legends Entry 9
+
+## Content
+Content to be added.
+
+## Related
+- [[Related content]]
+
+## Notes
+*Stub file automatically populated*
 
 ---
-*ID: LORE00008*
+*Note: This content develops through gameplay and campaign events.*

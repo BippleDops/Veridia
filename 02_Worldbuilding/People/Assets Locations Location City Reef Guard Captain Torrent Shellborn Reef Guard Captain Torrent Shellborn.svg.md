@@ -237,3 +237,8 @@ This NPC can serve multiple roles:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-swift-cloudracer-captain-swift-cloudracer.svg]]
+- [[04_Resources_Assets_Locations_location-city-captain-echo-captain-echo.svg]]

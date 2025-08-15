@@ -1,4 +1,5 @@
 ---
+aliases: ["Blessed Orb of Power", "blessed orb of power", "Power of Orb Blessed"]
 tags: [generated]
 id: ITEM0025
 created: 2025-08-15T04:09:51.084Z

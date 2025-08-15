@@ -191,3 +191,10 @@ Last known to be: > [[improvised-weapons-xphb|Improvised Weapons]]...
 
 ### Curse (if applicable)
 - *[Negative effects]*
+
+## References
+
+- [[Quick_Reference - DnD5e-SideScreen-2024 (D&D_References)]]
+- [[Reference Quick Reference Dnd5e Sidescreen 2024 (D&D_References)]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]

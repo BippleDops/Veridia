@@ -1,3 +1,9 @@
+---
+aliases: ["Blazing Dagger of Slaying", "blazing dagger of slaying", "Slaying of Dagger Blazing"]
+tags: [item, equipment]
+type: item
+---
+
 # Blazing Dagger of Slaying
 
 *Weapons, Legendary*
@@ -16,8 +22,6 @@ A blazing dagger carved from dragon bone
 - Can strike ethereal creatures
 - Grants advantage on initiative
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -32,7 +36,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.351Z*

@@ -139,3 +139,29 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - An heirloom has gone missing and chaos spreads
 - A noble needs help investigating before the new moon
 - Strange accidents suggest a conspiracy
+
+## References
+
+- [[04 Chapter 3 Character Classes]]
+- [[04-chapter-3-character-classes (players-handbook-2024)]]
+- [[Monk Xphb Warrior of Shadow Xphb]]
+- [[Monk Xphb Warrior of the Open Hand Xphb]]
+- [[Monk Xphb Way of the Drunken Master Xge]]
+- [[Monk Xphb Way of the Kensei Xge]]
+- [[monk-xphb-warrior-of-mercy-xphb (classes)]]
+- [[monk-xphb-warrior-of-shadow-xphb (classes)]]
+- [[monk-xphb-warrior-of-the-open-hand-xphb (classes)]]
+- [[monk-xphb-way-of-the-drunken-master-xge (classes)]]
+- [[monk-xphb-way-of-the-kensei-xge (classes)]]
+- [[Assign Ability Scores Standard Array by]]
+- [[Choose a Class Class Overview Xphb]]
+- [[Classes Phb]]
+- [[Level 1 Hit Points by Class Xphb]]
+- [[Multiclassing Prerequisites Phb]]
+- [[Multiclassing Proficiencies Phb]]
+- [[assign-ability-scores-standard-array-by-class-xphb]]
+- [[choose-a-class-class-overview-xphb (tables)]]
+- [[classes-phb (tables)]]
+- [[level-1-hit-points-by-class-xphb (tables)]]
+- [[multiclassing-prerequisites-phb (tables)]]
+- [[multiclassing-proficiencies-phb (tables)]]

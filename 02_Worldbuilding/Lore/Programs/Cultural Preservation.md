@@ -104,3 +104,41 @@ improvements: 20
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Aetheric Wind Songs]]
+- [[Aethermoor Wind Rider Traditions]]
+- [[Aquabyssos Cultural Codex]]
+- [[Consequence Chain 3 Reality Merger Diplomatic Crisis]]
+- [[Consequence Chain 5 - Marina Identity Revelation]]
+- [[Cross-Realm Etiquette Guide]]
+- [[Crystal Corruption Taboos]]
+- [[Crystal Forest]]
+- 
+- [[Daily Routine Nuances and Details]]
+- [[Eastern Kingdoms (02_Worldbuilding)]]
+- [[Hidden Sanctuary]]
+- [[Memory Alteration Consequences]]
+- [[Merchant Family Alliances]]
+- [[Post-Merge Chronology]]
+- [[Shadow Magic Integration Practices]]
+- [[The Bloom Fields]]
+- [[The Crystal Festival]]
+- [[The Cultural Preservation Society]]
+- [[The Festival of Rising Tides]]
+- [[The Restoration Movement]]
+- [[Underground Smuggling Networks]]
+- [[Working Class Routines]]
+- [[Crystallium Embassy]]
+- [[Depth Wardens]]
+- [[Inverted Ballroom Wing]]
+- [[Ironhold]]
+- [[Keeper Elara Mindwell]]
+- [[Mourning Depths]]
+- [[Sylvanheart]]
+- [[Tethyan Hegemony]]
+- [[The Free Current]]
+- [[The Shrinking Sanctuary]]
+- [[The Sinking Atoll]]
+- [[Treaty of the Depths]]

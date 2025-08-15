@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Ironwood the Strong", "gareth ironwood the strong", "Gareth Ironwood Strong", "Strong the Ironwood Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Ironwood the Strong
 
 *Gnome Ambassador (Nobles), Age 74, Male*
@@ -36,12 +42,10 @@ Secretly adopted into nobility, living in fear of discovery An old debt has come
 - **Short Term**: Complete current contract
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Urien Youngblood (Personal - Nemesis)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ### Felicia Proudmore the Scholar (Personal - Love interest)
 - **Status**: Strong and trusting
@@ -52,16 +56,13 @@ Secretly adopted into nobility, living in fear of discovery An old debt has come
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Erasmus Ashford the Guardian (Criminal - Handler)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Zephyr Proudmore the Guardian (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ### Lyanna Stormwind the Lost (Professional - Rival)
 - **Status**: Secretly hostile

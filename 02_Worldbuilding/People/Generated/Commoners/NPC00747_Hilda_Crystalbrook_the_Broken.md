@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Crystalbrook the Broken", "hilda crystalbrook the broken", "Hilda Crystalbrook Broken", "Broken the Crystalbrook Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Crystalbrook the Broken
 
 *Goliath Fisher (Commoners), Age 30, Female*
@@ -36,17 +42,14 @@ Grew up in poverty but discovered a talent that might change everything A family
 - **Short Term**: Survive until next week
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Brenna Darkwater the Bold (Family - Sibling)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Idris Ironwood the Strong (Professional - Employer)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ### Hilda Frostwhisper the Wise (Personal - Childhood friend)
 - **Status**: Mutually beneficial

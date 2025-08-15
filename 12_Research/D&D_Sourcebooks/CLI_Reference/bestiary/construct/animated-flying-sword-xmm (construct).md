@@ -154,3 +154,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Animated Flying Sword Xmm]]
+- [[Monster Conversions Stat Block Conversions]]
+- [[Monsters by Habitat Urban Monsters Xmm]]
+- [[Random Traps Trap Effects]]
+- [[monster-conversions-stat-block-conversions-xmm]]
+- [[monsters-by-habitat-urban-monsters-xmm (tables)]]
+- [[random-traps-trap-effects (tables)]]

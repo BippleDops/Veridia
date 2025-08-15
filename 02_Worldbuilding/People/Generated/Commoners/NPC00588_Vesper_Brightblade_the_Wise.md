@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Brightblade the Wise", "vesper brightblade the wise", "Vesper Brightblade Wise", "Wise the Brightblade Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Brightblade the Wise
 
 *Tabaxi Fisher (Commoners), Age 55, Non-binary*
@@ -36,22 +42,18 @@ Family has worked the same trade for generations, but times are changing A famil
 - **Short Term**: Gather information
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Ysara Winterborn the Scholar (Family - Spouse)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
 
-
 ### Vesper Blackstone the Mystic (Family - Parent)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
 
-
 ### Rhiannon Ravenheart the Redeemed (Professional - Employer)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ### Gareth Emberfall the Broken (Professional - Rival)
 - **Status**: Complicated history
@@ -61,7 +63,6 @@ Family has worked the same trade for generations, but times are changing A famil
 ### Idris Brightblade the Seeker (Criminal - Fence)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Witnessed a noble's crime

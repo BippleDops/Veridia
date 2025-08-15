@@ -46,7 +46,6 @@ improvements: 20
 - Time pressure
 - Moral dilemmas
 
-
 ## Objectives
 ### Primary
 - Main quest goal
@@ -54,7 +53,6 @@ improvements: 20
 ### Optional
 - Secondary objectives
 - Hidden goals
-
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-quest-the-root-network-quest-the-root-network.svg)
@@ -523,7 +521,6 @@ Key stop on spices trade route
 
 ### Story Rewards
 - *[Reputation, allies, information]*
-
 
 ## Hooks
 - **Personal**: Character connection

@@ -1,3 +1,9 @@
+---
+aliases: ["Planes Location 178", "planes location 178", "178 Location Planes"]
+tags: [location, place]
+type: location
+---
+
 # Planes Location 178
 
 *Planes*

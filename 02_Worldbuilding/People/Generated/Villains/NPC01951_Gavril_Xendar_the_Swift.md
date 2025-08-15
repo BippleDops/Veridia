@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Xendar the Swift", "gavril xendar the swift", "Gavril Xendar Swift", "Swift the Xendar Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Xendar the Swift
 
 *Tabaxi Corrupt Noble (Villains), Age 52, Non-binary*
@@ -13,7 +19,6 @@
 Very short and wiry, with Carefully styled bald hair and Gray eyes. Weathered skin. Missing finger on left hand.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Laughs at the most inappropriate times; Compulsive liar about minor things; Never uses people's real names
@@ -36,7 +41,6 @@ Believes their evil acts serve a greater good A family member's death has left t
 - **Short Term**: Avoid the authorities
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Gavril Emberfall the Fallen (Personal - Nemesis)
 - **Status**: On the verge of collapse
@@ -47,7 +51,6 @@ Believes their evil acts serve a greater good A family member's death has left t
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Hilda Keenblade the Mystic (Personal - Best friend)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
@@ -56,7 +59,6 @@ Believes their evil acts serve a greater good A family member's death has left t
 ### Pyria Grimholt the Broken (Political - Ally)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Was once a renowned hero

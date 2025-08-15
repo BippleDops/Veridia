@@ -206,3 +206,7 @@ Mentioned in The Hidden Prophecy of Shadows
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-lady-seraphina-goldleaf-lady-seraphina-goldleaf.svg]]

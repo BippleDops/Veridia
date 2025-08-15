@@ -54,7 +54,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -108,7 +108,7 @@ improvements: 20
 
 **Who was directly affected:**
 - **[[The Deep Mother|[[02 Worldbuilding]]/[[People]]/The Deep Mother]]**: Experienced consciousness, emotion, and empathy for the first [[Time]]
-- **[[The Scattered [[Emperor]]]]**: Revealed to be partially merged with [[Cosmic Awareness]]
+- **[[Emperor|The Scattered [[Emperor]]]]**: Revealed to be partially merged with [[Cosmic Awareness]]
 - **[[Party Members]]**: Permanently altered by psychic contact with primordial consciousness
 - **[[Aquabyssos]]**: Either transformed into living thought or granted cosmic protection
 - **[[Deep Mother]] cults**: Religious worldview validated but fundamentally changed
@@ -117,7 +117,7 @@ improvements: 20
 **Immediate visible results:**
 - Deep Mother chose withdrawal to explore newfound emotions rather than consumption
 - Aquabyssos transformed into a "heart" of cosmic consciousness while retaining independence
-- Reality stabilized with new physics allowing easier cross-[[Dimensional Travel]]
+- Reality stabilized with new physics allowing easier cross-[[Dimensional_Travel|Dimensional Travel]]
 - Party gained mythic boons and cosmic awareness
 - Shadow integration accelerated across both realms as consciousness expanded
 - Time and space became more malleable in areas of high emotional resoce
@@ -257,7 +257,7 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs

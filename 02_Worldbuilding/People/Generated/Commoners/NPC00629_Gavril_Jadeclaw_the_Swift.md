@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Jadeclaw the Swift", "gavril jadeclaw the swift", "Gavril Jadeclaw Swift", "Swift the Jadeclaw Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Jadeclaw the Swift
 
 *Elf Blacksmith (Commoners), Age 44, Female*
@@ -36,12 +42,10 @@ Family has worked the same trade for generations, but times are changing They re
 - **Short Term**: Avoid the authorities
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Dara Grimholt the Redeemed (Professional - Mentor)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ### Nerys Darkwater the Cunning (Criminal - Fence)
 - **Status**: Mutually beneficial
@@ -52,16 +56,13 @@ Family has worked the same trade for generations, but times are changing They re
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Lyanna Youngblood the Guardian (Family - Sibling)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Nerys Youngblood the Broken (Professional - Rival)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Has dragon blood in their veins

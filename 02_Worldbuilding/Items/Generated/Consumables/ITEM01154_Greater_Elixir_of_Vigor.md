@@ -1,3 +1,9 @@
+---
+aliases: ["Greater Elixir of Vigor", "greater elixir of vigor", "Vigor of Elixir Greater"]
+tags: [item, equipment]
+type: item
+---
+
 # Greater Elixir of Vigor
 
 *Consumables, Common*
@@ -13,8 +19,6 @@ A greater elixir glowing softly
 ## Properties
 - Restore 4d4+4 hit points
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -29,7 +33,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.461Z*

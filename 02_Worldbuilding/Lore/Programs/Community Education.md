@@ -105,3 +105,7 @@ Mentioned in The Second Prophecy of Depths
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Crystal Corruption Taboos]]

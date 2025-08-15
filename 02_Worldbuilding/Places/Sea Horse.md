@@ -125,13 +125,11 @@ Sea Horse is a notable location characterized by its unique features and strateg
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -139,13 +137,11 @@ Sea Horse is a notable location characterized by its unique features and strateg
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -178,7 +174,6 @@ Ongoing situations affecting Sea Horse:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -215,3 +210,9 @@ Ongoing situations affecting Sea Horse:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Current Riders Guild]]
+- [[Giant Sea Horse]]
+- [[Current Riders Guild (D&D_References)]]

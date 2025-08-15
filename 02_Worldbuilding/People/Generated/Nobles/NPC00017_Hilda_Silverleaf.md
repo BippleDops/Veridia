@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Silverleaf", "hilda silverleaf", "Silverleaf Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Silverleaf
 
 *Tiefling Noble (Nobles), Age 41, Female*
@@ -36,32 +42,26 @@ Exiled from their homeland, trying to rebuild their power base A chance encounte
 - **Short Term**: Make this month's payment
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Caelum Darkwater the Bold (Professional - Employee)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Branwen Oakenshield the Bold (Family - Spouse)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ### Branwen Xendar (Professional - Employee)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Zephyr Youngblood the Wanderer (Professional - Employer)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Malakai Hawthorne (Political - Patron)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

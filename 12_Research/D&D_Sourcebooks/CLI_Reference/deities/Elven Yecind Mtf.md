@@ -76,3 +76,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Someone is protecting a artifact for power
 - A prisoner has gone missing and war looms
 - A prisoner has gone missing and evil awakens
+
+## References
+
+- [[Elf Deities the Seldarine Mtf]]
+- [[elf-deities-the-seldarine-mtf (tables)]]

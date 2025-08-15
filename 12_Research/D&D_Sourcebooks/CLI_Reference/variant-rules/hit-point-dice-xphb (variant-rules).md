@@ -59,3 +59,30 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[1 How to Use a Monster]]
+- [[1-how-to-use-a-monster (monster-manual-2025)]]
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]
+- [[Lifedrinker Xphb]]
+- [[lifedrinker-xphb (optional-features)]]
+- [[Animal Shapes Xphb]]
+- [[Arcane Vigor Xphb]]
+- [[Magic Jar Xphb]]
+- [[Polymorph Xphb]]
+- [[Shapechange Xphb]]
+- [[True Polymorph Xphb]]
+- [[animal-shapes-xphb (spells)]]
+- [[arcane-vigor-xphb (spells)]]
+- [[magic-jar-xphb (spells)]]
+- [[polymorph-xphb (spells)]]
+- [[shapechange-xphb (spells)]]
+- [[true-polymorph-xphb (spells)]]
+- [[Long Rest Xphb]]
+- [[Short Rest Xphb]]
+- [[Stat Block Xphb]]
+- [[long-rest-xphb (variant-rules)]]
+- [[short-rest-xphb (variant-rules)]]
+- [[stat-block-xphb (variant-rules)]]

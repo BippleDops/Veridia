@@ -1,4 +1,5 @@
 ---
+aliases: ["Crystal Devourer", "crystal devourer", "Devourer Crystal"]
 tags: [generated]
 id: MON0029_Crystal_Devourer
 created: 2025-08-15T04:09:51.429Z
@@ -26,7 +27,6 @@ A natural predator perfectly adapted to its environment
 
 ---
 *Generated: 2025-08-15T03:21:47.464Z*
-
 
 ## Habitat
 - Natural environment and territories

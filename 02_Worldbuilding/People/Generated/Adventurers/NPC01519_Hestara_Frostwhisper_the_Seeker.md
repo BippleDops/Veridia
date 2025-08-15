@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Frostwhisper the Seeker", "hestara frostwhisper the seeker", "Hestara Frostwhisper Seeker", "Seeker the Frostwhisper Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Frostwhisper the Seeker
 
 *Tabaxi Fighter (Adventurers), Age 23, Non-binary*
@@ -36,7 +42,6 @@ Chosen by fate to fulfill an ancient prophecy They've been marked by a secret so
 - **Short Term**: Recruit new members
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Wynne Underhill the Mystic (Political - Ally)
 - **Status**: On the verge of collapse
@@ -52,16 +57,13 @@ Chosen by fate to fulfill an ancient prophecy They've been marked by a secret so
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Aldric Keenblade the Bold (Professional - Rival)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
 
-
 ### Orion Lightbringer the Lost (Political - Spy)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Secretly working for the villain

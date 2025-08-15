@@ -108,7 +108,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -127,4 +126,40 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[wall-of-fire-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[spells|wall-of-fire-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Prismari Student Scc]]
+- [[prismari-student-scc (backgrounds)]]
+- [[Efreeti Xmm]]
+- [[efreeti-xmm (elemental)]]
+- [[Pit Fiend Xmm]]
+- [[Ultroloth Xmm]]
+- [[pit-fiend-xmm (fiend)]]
+- [[ultroloth-xmm (fiend)]]
+- [[Nagpa Mpmm]]
+- [[nagpa-mpmm (monstrosity)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Forge Domain Xge]]
+- [[Cleric Xphb Light Domain Xphb]]
+- [[Warlock Xphb Celestial Patron Xphb]]
+- [[Warlock Xphb Fiend Patron Xphb]]
+- [[cleric-xphb-forge-domain-xge (classes)]]
+- [[cleric-xphb-forge-domain-xge 2 (classes)]]
+- [[cleric-xphb-light-domain-xphb (classes)]]
+- [[cleric-xphb-light-domain-xphb 2 (classes)]]
+- [[warlock-xphb-celestial-patron-xphb (classes)]]
+- [[warlock-xphb-fiend-patron-xphb (classes)]]
+- [[Instrument of the Bards Cli Lyre Xdmg]]
+- [[Ring of Elemental Command Fire Xdmg]]
+- [[Staff of Fire Xdmg]]
+- [[instrument-of-the-bards-cli-lyre-xdmg (items)]]
+- [[ring-of-elemental-command-fire-xdmg (items)]]
+- [[staff-of-fire-xdmg (items)]]
+- [[River of Hungry Flame]]
+- [[river-of-hungry-flame (optional-features)]]
+- [[Random Obstacles Obstacles]]
+- [[random-obstacles-obstacles (tables)]]

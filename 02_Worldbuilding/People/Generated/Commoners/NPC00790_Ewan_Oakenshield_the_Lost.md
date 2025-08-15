@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Oakenshield the Lost", "ewan oakenshield the lost", "Ewan Oakenshield Lost", "Lost the Oakenshield Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Oakenshield the Lost
 
 *Dragonborn Baker (Commoners), Age 74, Male*
@@ -36,32 +42,26 @@ Family has worked the same trade for generations, but times are changing A proph
 - **Short Term**: Make this month's payment
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Gavril Nightfall the Wise (Personal - Ex-lover)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
 ### Gareth Frostwhisper the Bold (Criminal - Fence)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ### Vesper Oakenshield the Redeemed (Family - Parent)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Malakai Oakenshield the Guardian (Personal - Childhood friend)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
 
-
 ### Ewan Ironforge the Bold (Professional - Rival)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Is the lost heir to the throne

@@ -73,3 +73,12 @@ Mentioned in The Hidden Prophecy of Depths
 - A noble needs help finding before the festival
 - The authorities needs help stealing before dawn
 - Someone is searching for information for money
+
+## References
+
+- [[Phase Spider Xmm]]
+- [[phase-spider-xmm (monstrosity)]]
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]
+- [[Spare the Dying Xphb]]
+- [[spare-the-dying-xphb (spells)]]

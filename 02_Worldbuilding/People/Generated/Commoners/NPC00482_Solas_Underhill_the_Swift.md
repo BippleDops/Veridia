@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Underhill the Swift", "solas underhill the swift", "Solas Underhill Swift", "Swift the Underhill Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Underhill the Swift
 
 *Goliath Baker (Commoners), Age 20, Female*
@@ -36,7 +42,6 @@ Runaway from an arranged marriage, starting a new life They've been marked by a 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Rhiannon Thornweave the Scholar (Criminal - Handler)
 - **Status**: Strong and trusting
@@ -46,7 +51,6 @@ Runaway from an arranged marriage, starting a new life They've been marked by a 
 ### Malakai Silverleaf the Swift (Family - Sibling)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ### Solas Ashford the Mystic (Criminal - Handler)
 - **Status**: Complicated history

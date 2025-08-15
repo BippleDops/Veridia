@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Silverleaf the Cunning", "urien silverleaf the cunning", "Urien Silverleaf Cunning", "Cunning the Silverleaf Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Silverleaf the Cunning
 
 *Aasimar Baker (Commoners), Age 76, Male*
@@ -36,22 +42,18 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Short Term**: Complete current contract
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Ysara Frostwhisper the Guardian (Family - Cousin)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Cedric Keenblade the Fallen (Criminal - Fence)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Zephyr Ironwood the Scholar (Criminal - Fence)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Knows location of ancient treasure

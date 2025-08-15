@@ -117,3 +117,12 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Quest - The Root Network_1 (01_Adventures)]]
+- [[Quest - The Root Network_2 (01_Adventures)]]
+- [[10 Combat#dropping to 0 Hit Points#monsters and Death]]
+- [[The Synthesis Gardens]]
+- [[The Green Death (D&D_Statblocks)]]
+- [[The Synthesis Gardens (D&D_Statblocks)]]

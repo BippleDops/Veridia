@@ -64,3 +64,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Aurelius Goldwave]]
+- [[The Ancient Nobility]]
+- [[Coral Throne Syndicate HQ]]
+- [[The Ancient Nobility (D&D_References)]]
+- [[Aurelius Goldwave (D&D_Statblocks)]]

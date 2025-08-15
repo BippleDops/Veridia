@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Dawnstrider the Wanderer", "qadim dawnstrider the wanderer", "Qadim Dawnstrider Wanderer", "Wanderer the Dawnstrider Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Dawnstrider the Wanderer
 
 *Half-Elf Corrupt Noble (Villains), Age 42, Non-binary*
@@ -13,7 +19,6 @@
 Below average and athletic, with Partially shaved auburn hair and Gray eyes. Pale skin. Prominent scar across the face.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Always speaks in metaphors and riddles
@@ -42,26 +47,21 @@ Driven mad by knowledge humanity wasn't meant to know They're being blackmailed 
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Wynne Ironforge the Seeker (Political - Ally)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ### Gavril Keenblade the Wanderer (Political - Spy)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Caelum Winterborn the Fallen (Criminal - Accomplice)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Nerys Goldleaf the Guardian (Political - Patron)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Was once a renowned hero

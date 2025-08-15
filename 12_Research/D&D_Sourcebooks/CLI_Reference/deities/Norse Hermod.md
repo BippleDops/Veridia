@@ -68,3 +68,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[The Norse Pantheon Norse Deities Phb]]
+- [[the-norse-pantheon-norse-deities-phb (tables)]]

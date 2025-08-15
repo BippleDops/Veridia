@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -75,7 +75,7 @@ Cultural Exchange represents a crucial aspect of the world's history, cosmology,
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -87,7 +87,7 @@ Cultural Exchange represents a crucial aspect of the world's history, cosmology,
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -133,3 +133,60 @@ Cultural Exchange represents a crucial aspect of the world's history, cosmology,
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[Aetheric Wind Songs]]
+- [[Campaign Epilogues]]
+- [[Consequence Chain 5 - Marina Identity Revelation]]
+- [[Continental War]]
+- [[Cross-Realm Cultural Exchange]]
+- [[Cross-Realm Etiquette Guide]]
+- [[Crystal Corruption Taboos]]
+- [[Cultural Exchange Centers]]
+- [[Cultural Exchange Programs]]
+- [[Cultural Exchange Protocols]]
+- [[Cultural Exchanges]]
+- [[Customs House]]
+- [[Diplomatic Event Scenarios]]
+- [[Eastern Kingdom]]
+- [[Eastern Kingdoms (02_Worldbuilding)]]
+- [[Kraken Territories]]
+- [[Merchant Family Alliances]]
+- [[Political Compromise Costs]]
+- [[Political Intrigue Master Index]]
+- [[Random Encounters]]
+- [[Resonance Peaks]]
+- [[Shadow Magic Integration Practices]]
+- [[Sky Burial Traditions]]
+- [[Temporal Distortion Zones]]
+- [[The Bathyal Succession]]
+- [[The Bloom Fields]]
+- [[The Cultural Exchange Center]]
+- [[The Festival of Rising Tides]]
+- [[The Tethyan Hegemony]]
+- [[Tidal Chambers]]
+- [[Trade Route Establishment]]
+- [[Umbral Exchange]]
+- [[Cross-Dimensional Transit Authority]]
+- [[Crystal Caverns]]
+- [[Depth Wardens]]
+- [[Harbor District Customs House]]
+- [[Inverted Ballroom Wing]]
+- [[Pip Goldleaf]]
+- [[Port Meridian - Market Square]]
+- [[Pressure Terminal]]
+- [[Reality Anchor Network]]
+- [[Reality Breach Locations]]
+- [[Royal Palace]]
+- [[Surface Tensions]]
+- [[Sylvanheart]]
+- [[Temple Ward]]
+- [[Tenebrarum Embassy]]
+- [[Tethyan Hegemony]]
+- [[The Azure Coast]]
+- [[The Crystal Wardens]]
+- [[The Floating Markets of Nereidios]]
+- [[The Free Current]]
+- [[Treaty of the Depths]]
+- [[The Tide Rises]]

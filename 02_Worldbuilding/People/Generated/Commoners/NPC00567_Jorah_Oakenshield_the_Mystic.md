@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Oakenshield the Mystic", "jorah oakenshield the mystic", "Jorah Oakenshield Mystic", "Mystic the Oakenshield Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Oakenshield the Mystic
 
 *Half-Elf Fisher (Commoners), Age 72, Male*
@@ -36,22 +42,18 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Idris Youngblood the Lost (Personal - Best friend)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Idris Underhill the Redeemed (Professional - Partner)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Fiora Quicksilver the Lost (Family - Sibling)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ### Aeliana Ironforge the Swift (Criminal - Handler)
 - **Status**: One-sided affection

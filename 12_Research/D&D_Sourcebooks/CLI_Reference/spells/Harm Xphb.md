@@ -94,3 +94,11 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Mummy Lord Xmm (undead)]]
+- [[mummy-lord-xmm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]

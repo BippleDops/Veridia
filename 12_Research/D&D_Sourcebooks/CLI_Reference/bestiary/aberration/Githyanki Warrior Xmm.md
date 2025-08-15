@@ -151,3 +151,9 @@ Mentioned in The First Prophecy of Stars
 - The authorities needs help stealing before the festival
 - Someone is searching for a witness for money
 - A map reveals the truth about the government
+
+## References
+
+- [[githyanki-warrior-xmm (aberration)]]
+- [[Githyanki Raiding Parties Raiding Party Transport Mtf]]
+- [[Githyanki Raiding Parties Raiding Party]]

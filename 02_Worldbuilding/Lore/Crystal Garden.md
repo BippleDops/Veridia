@@ -52,7 +52,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -226,7 +226,7 @@ Individuals from both worlds who come seeking physical, emotional, or spiritual 
 **Research Visitors:**
 Scholars, mages, and scientists studying dimensional phenomena:
 - **[[Unity Institute]]** researchers documenting successful reality integration techniques
-- **[[The [[Crystal Academy]]]]** students learning advanced crystal consciousness communication
+- **[[Crystal Academy|The [[Crystal Academy]]]]** students learning advanced crystal consciousness communication
 - **[[The Memory Research Institute]]** academics studying the garden's memory storage capabilities
 - **Reality theorists** investigating the principles that allow impossible physics to function
 - **Healers** learning new techniques for treating transformation and corruption effects
@@ -307,7 +307,7 @@ Despite being a [[Merged Reality Zones]], the garden maintains remarkable stabil
 
 **Stabilization Mechanisms:**
 - **Consciousness Balance**: Equal representation of both crystal and aquatic awareness prevents reality domice
-- **Love Resoce**: The garden was created through cooperation rather than conflict, creating positive [[Dimensional Resoce]]
+- **Love Resoce**: The garden was created through cooperation rather than conflict, creating positive [[Dimensional_Resoce|Dimensional Resoce]]
 - **Memory Integration**: Historical memories from both realities are preserved and honored rather than suppressed
 - **Growth Symbiosis**: New developments strengthen rather than destabilize the existing balance
 - **Visitor Harmony**: The peaceful nature of most visitors contributes to the overall stability
@@ -399,7 +399,7 @@ The garden maintains complete immunity to [[Shadow Corruption]] and can actually
 
 **Territorial Claims:**
 Various factions from both worlds periodically attempt to claim exclusive control over the garden:
-- **[[The [[Crystal Throne]]]]** argues that the garden's crystal elements make it Aethermoor territory
+- **[[Crystal Throne|The [[Crystal Throne]]]]** argues that the garden's crystal elements make it Aethermoor territory
 - **[[Deep Lords]]** claim that the aquatic consciousness gives Aquabyssos jurisdiction
 - **[[The Crimson Hand]]** views the garden as a valuable resource for their convergence manipulation plans
 - **Military forces** from both worlds occasionally attempt to establish bases nearby
@@ -438,7 +438,7 @@ While the garden maintains immunity to direct [[Shadow Corruption]], hostile for
 ### The Divine Romance Connection
 
 > [!warning] DM Only
-> The Crystal Garden exists because it unconsciously manifests the love between [[The Crimson Sage]] and [[The [[Deep Mother]]]]. The garden's consciousness is actually a fragment of their combined divine awareness, expressing their relationship in physical form. This is why the garden radiates such peace and healing—it's powered by cosmic love rather than conflict or domination.
+> The Crystal Garden exists because it unconsciously manifests the love between [[The Crimson Sage]] and [[Deep Mother|The [[Deep Mother]]]]. The garden's consciousness is actually a fragment of their combined divine awareness, expressing their relationship in physical form. This is why the garden radiates such peace and healing—it's powered by cosmic love rather than conflict or domination.
 
 ### The Template for Convergence
 
@@ -452,10 +452,10 @@ While the garden maintains immunity to direct [[Shadow Corruption]], hostile for
 
 ### Essential Artifacts
 
-- [[The Garden [[[[Heart Crysta]]l]]]] - Core consciousness focus for the garden
+- [[Heart Crysta|The Garden [[[[Heart Crysta]]l]]]] - Core consciousness focus for the garden
 - [[The Memory Coral Crown]] - Artifact enabling communication with garden consciousness
 - [[The Unity Seeds]] - Crystalline seeds that can grow in either world
-- [[[[The Dimensional Anchor]] Stone]] - Artifact maintaining garden's reality stability
+- [[The Dimensional Anchor|[[The Dimensional Anchor]] Stone]] - Artifact maintaining garden's reality stability
 - [[The Healing Waters Chalice]] - Container that preserves garden's healing properties
 
 ---
@@ -471,7 +471,7 @@ Crystal Garden is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Crystal Garden as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Crystal Garden.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -494,3 +494,19 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Crystal Forest]]
+- [[Name Etymology Guide]]
+- [[The Crystal Gardens]]
+- [[The Crystal Gardens_1 (02_Worldbuilding)]]
+- [[Crystal Gardens]]
+- [[Crystal Plague Wards]]
+- [[Elder Matthias Stoneward]]
+- [[Ironhold]]
+- [[Port Meridian Harbor]]
+- [[Pressure Terminal]]
+- [[The Azure Coast]]
+- [[The Crystal Wardens]]
+- [[Aethermoor - Session 05 The Queens Madness]]

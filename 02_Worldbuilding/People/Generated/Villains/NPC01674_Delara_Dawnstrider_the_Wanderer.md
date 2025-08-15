@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Dawnstrider the Wanderer", "delara dawnstrider the wanderer", "Delara Dawnstrider Wanderer", "Wanderer the Dawnstrider Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Dawnstrider the Wanderer
 
 *Genasi Cultist (Villains), Age 47, Non-binary*
@@ -13,7 +19,6 @@
 Tall and wiry, with Partially shaved bald hair and Gray eyes. Freckled skin. Burn scars on one side of face.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Always tells the absolute truth; Sees doom and gloom everywhere; Compulsive liar about minor things
@@ -36,12 +41,10 @@ Corrupted by an artifact or dark magic They've fallen in love with someone they 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Dara Ashford the Strong (Political - Opposition)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ### Wynne Zephyrblade the Broken (Criminal - Informant)
 - **Status**: On the verge of collapse
@@ -52,11 +55,9 @@ Corrupted by an artifact or dark magic They've fallen in love with someone they 
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Corvus Goldleaf the Redeemed (Professional - Employee)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Believes they're saving the world

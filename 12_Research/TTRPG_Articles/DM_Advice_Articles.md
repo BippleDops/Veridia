@@ -68,7 +68,6 @@ modified: '2025-08-14'
 
 Contextual improvement based on 12_Research
 
-
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition

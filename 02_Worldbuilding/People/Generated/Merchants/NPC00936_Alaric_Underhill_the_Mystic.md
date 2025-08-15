@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Underhill the Mystic", "alaric underhill the mystic", "Alaric Underhill Mystic", "Mystic the Underhill Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Underhill the Mystic
 
 *Half-Elf Broker (Merchants), Age 21, Male*
@@ -42,7 +48,6 @@ Part of a merchant family with connections everywhere They recently discovered a
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Zephyr Ashford the Fallen (Political - Puppet)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
@@ -52,11 +57,9 @@ Part of a merchant family with connections everywhere They recently discovered a
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
 
-
 ### Hilda Thornweave the Strong (Personal - Best friend)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Killed previous business owner

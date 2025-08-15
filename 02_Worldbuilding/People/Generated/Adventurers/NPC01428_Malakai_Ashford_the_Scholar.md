@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Ashford the Scholar", "malakai ashford the scholar", "Malakai Ashford Scholar", "Scholar the Ashford Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Ashford the Scholar
 
 *Aasimar Cleric (Adventurers), Age 72, Male*
@@ -13,7 +19,6 @@
 Tall and muscular, with Partially shaved brown hair and Brown eyes. Scarred skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Always speaks in metaphors and riddles
@@ -36,7 +41,6 @@ Accidentally gained powers and learning to control them They've fallen in love w
 - **Short Term**: Recruit new members
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Vesper Grimholt the Cunning (Professional - Employee)
 - **Status**: Strong and trusting
@@ -47,11 +51,9 @@ Accidentally gained powers and learning to control them They've fallen in love w
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
 
-
 ### Malakai Ironwood the Risen (Criminal - Accomplice)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
-
 
 ### Qadim Ironforge the Broken (Personal - Love interest)
 - **Status**: Mutually beneficial
@@ -61,7 +63,6 @@ Accidentally gained powers and learning to control them They've fallen in love w
 ### Solas Quicksilver the Risen (Family - Parent)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
-
 
 ### Thalia Voidwalker the Wise (Professional - Partner)
 - **Status**: On the verge of collapse

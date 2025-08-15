@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Xendar the Wise", "xander xendar the wise", "Xander Xendar Wise", "Wise the Xendar Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Xendar the Wise
 
 *Halfling Fighter (Adventurers), Age 24, Male*
@@ -36,22 +42,18 @@ Running from a dark past that won't stay buried They've fallen in love with some
 - **Short Term**: Gather information
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Orion Zephyrblade the Swift (Political - Puppet)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Dara Brightblade the Lost (Criminal - Accomplice)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Idris Goldleaf the Guardian (Family - Parent)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
-
 
 ### Dara Ironforge the Seeker (Family - Sibling)
 - **Status**: Mutually beneficial

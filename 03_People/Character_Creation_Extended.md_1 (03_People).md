@@ -80,7 +80,6 @@ creature: Custom NPC
 - **Saving Throws**: *[Proficient saves]*
 - **Skills**: *[Skill proficiencies]*
 
-
 ## See Also
 - Related content
 - Similar topics
@@ -94,3 +93,7 @@ creature: Custom NPC
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition
+
+## References
+
+- [[Character_Creation_Extended.md_1 (03_People)_Quick_Ref]]

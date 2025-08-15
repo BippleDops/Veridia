@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Goldleaf the Wanderer", "alaric goldleaf the wanderer", "Alaric Goldleaf Wanderer", "Wanderer the Goldleaf Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Goldleaf the Wanderer
 
 *Tiefling Courtier (Nobles), Age 32, Male*
@@ -13,7 +19,6 @@
 Below average and stocky, with Wild and unkempt unusual color hair and Green eyes. Olive skin. Weather-beaten face showing hard life.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Collects unusual and worthless objects
@@ -42,21 +47,17 @@ Secretly adopted into nobility, living in fear of discovery They've been marked 
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Xander Blackstone the Bold (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ### Delara Zephyrblade the Swift (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Wynne Thornweave the Fallen (Criminal - Accomplice)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Practicing forbidden magic

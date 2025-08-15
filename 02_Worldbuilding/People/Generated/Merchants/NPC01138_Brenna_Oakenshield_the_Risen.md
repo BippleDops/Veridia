@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Oakenshield the Risen", "brenna oakenshield the risen", "Brenna Oakenshield Risen", "Risen the Oakenshield Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Oakenshield the Risen
 
 *Aasimar Caravan Master (Merchants), Age 40, Female*
@@ -36,32 +42,26 @@ Uses their business as cover for other activities They've been marked by a secre
 - **Short Term**: Survive until next week
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Alaric Emberfall the Bold (Family - Child)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Hestara Nightfall the Wise (Political - Ally)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
-
 
 ### Jorah Goldleaf the Scholar (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: United by common enemy
 
-
 ### Fiora Crystalbrook the Lost (Criminal - Target)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Elric Lightbringer the Fallen (Personal - Nemesis)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Running a cult from their basement

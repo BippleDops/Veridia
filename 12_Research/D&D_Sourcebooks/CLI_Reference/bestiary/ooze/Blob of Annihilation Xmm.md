@@ -211,3 +211,11 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[blob-of-annihilation-xmm (ooze)]]
+- [[Scroll of Titan Summoning Blob of Annihilation Xdmg]]
+- [[Scroll of Titan Summoning Blob of]]
+- [[Monsters by Habitat Any Habitat Monsters Xmm]]
+- [[monsters-by-habitat-any-habitat-monsters-xmm (tables)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Voidwalker the Cunning", "hilda voidwalker the cunning", "Hilda Voidwalker Cunning", "Cunning the Voidwalker Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Voidwalker the Cunning
 
 *Tabaxi Carpenter (Commoners), Age 75, Female*
@@ -42,7 +48,6 @@ Survivor of a disaster that destroyed their village An old debt has come due at 
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Brenna Brightblade the Swift (Family - Cousin)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
@@ -52,16 +57,13 @@ Survivor of a disaster that destroyed their village An old debt has come due at 
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Dara Crystalbrook the Cunning (Family - Parent)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Ewan Ironforge the Fallen (Criminal - Informant)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Witnessed a noble's crime

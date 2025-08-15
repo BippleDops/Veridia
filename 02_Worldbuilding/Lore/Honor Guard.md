@@ -48,3 +48,10 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## [[DM_Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[The Deserter's Tale]]
+- [[The Crystal Wardens]]
+- [[The Deserter's Tale (D&D_References)]]
+- [[The Deserter's Tale 3 (D&D_References)]]

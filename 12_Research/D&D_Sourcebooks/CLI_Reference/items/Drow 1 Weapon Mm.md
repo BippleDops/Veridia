@@ -185,3 +185,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A journal reveals the truth about the cult
 - Strange sightings suggest a portal
+
+## References
+
+- [[Master_Item_Catalog]]

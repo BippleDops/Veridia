@@ -120,13 +120,11 @@ Countess Marina Stormcrest is a notable location characterized by its unique fea
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -134,13 +132,11 @@ Countess Marina Stormcrest is a notable location characterized by its unique fea
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -187,7 +183,6 @@ Ongoing situations affecting Countess Marina Stormcrest:
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -223,3 +218,8 @@ Ongoing situations affecting Countess Marina Stormcrest:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Noble Quarter]]
+- [[Noble Quarter (D&D_Statblocks)]]

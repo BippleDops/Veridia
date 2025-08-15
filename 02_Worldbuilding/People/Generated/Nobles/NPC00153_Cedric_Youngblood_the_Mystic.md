@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Youngblood the Mystic", "cedric youngblood the mystic", "Cedric Youngblood Mystic", "Mystic the Youngblood Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Youngblood the Mystic
 
 *Dragonborn Heir (Nobles), Age 51, Male*
@@ -13,7 +19,6 @@
 Short and muscular, with Short and neat blonde hair and Blue eyes. Weathered skin. Constantly changing hair color.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Speaks to inanimate objects; Never uses people's real names; Sees doom and gloom everywhere
@@ -36,32 +41,26 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Survive until next week
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Alaric Winterborn (Criminal - Informant)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Qadim Emberfall the Wanderer (Criminal - Target)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
-
 
 ### Alaric Stormwind (Criminal - Accomplice)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Rhiannon Ironforge the Wanderer (Family - Parent)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Rhiannon Oakenshield the Bold (Personal - Childhood friend)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Practicing forbidden magic

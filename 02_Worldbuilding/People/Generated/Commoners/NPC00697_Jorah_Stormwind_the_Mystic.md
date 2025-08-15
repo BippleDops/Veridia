@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Stormwind the Mystic", "jorah stormwind the mystic", "Jorah Stormwind Mystic", "Mystic the Stormwind Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Stormwind the Mystic
 
 *Tiefling Blacksmith (Commoners), Age 29, Non-binary*
@@ -36,32 +42,26 @@ Survivor of a disaster that destroyed their village They recently discovered a s
 - **Short Term**: Make this month's payment
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Alaric Thornweave the Broken (Family - Child)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
 
-
 ### Vesper Proudmore the Swift (Personal - Nemesis)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ### Hestara Keenblade the Scholar (Political - Opposition)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
 
-
 ### Alaric Keenblade the Seeker (Family - Child)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
 
-
 ### Zephyr Jadeclaw the Risen (Political - Ally)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Has dragon blood in their veins

@@ -86,3 +86,10 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Cleric Xphb Death Domain Dmg]]
+- [[cleric-xphb-death-domain-dmg (classes)]]
+- [[Deities of Dragonlance Evil Phb]]
+- [[deities-of-dragonlance-evil-phb (tables)]]

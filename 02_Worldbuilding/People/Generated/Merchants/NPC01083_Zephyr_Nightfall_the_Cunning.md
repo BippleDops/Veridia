@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Nightfall the Cunning", "zephyr nightfall the cunning", "Zephyr Nightfall Cunning", "Cunning the Nightfall Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Nightfall the Cunning
 
 *Elf Shopkeeper (Merchants), Age 54, Female*
@@ -36,22 +42,18 @@ Part of a merchant family with connections everywhere They're being blackmailed 
 - **Short Term**: Complete current contract
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Nerys Keenblade the Lost (Personal - Nemesis)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
 
-
 ### Branwen Oakenshield the Cunning (Political - Opposition)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Dara Youngblood the Strong (Criminal - Fence)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Killed previous business owner

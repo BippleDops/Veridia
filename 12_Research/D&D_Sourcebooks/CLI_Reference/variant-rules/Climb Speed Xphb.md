@@ -72,3 +72,25 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Swarm of Insects Xmm]]
+- [[swarm-of-insects-xmm (beast)]]
+- [[1 How to Use a Monster]]
+- [[1-how-to-use-a-monster (monster-manual-2025)]]
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]
+- [[Barbarian Xphb Path of the Wild Heart Xphb]]
+- [[Rogue Xphb Thief Xphb]]
+- [[barbarian-xphb-path-of-the-wild-heart-xphb (classes)]]
+- [[barbarian-xphb-path-of-the-wild-heart-xphb 2 (classes)]]
+- [[rogue-xphb-thief-xphb (classes)]]
+- [[Potion of Climbing Xdmg]]
+- [[Slippers of Spider Climbing Xdmg]]
+- [[potion-of-climbing-xdmg (items)]]
+- [[slippers-of-spider-climbing-xdmg (items)]]
+- [[Spider Climb Xphb]]
+- [[spider-climb-xphb (spells)]]
+- [[Speed Xphb]]
+- [[speed-xphb (variant-rules)]]

@@ -48,7 +48,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -593,7 +593,7 @@ The working classes of both [[Aquabyssos]] and [[Aethermoor]] form the essential
 **Educational Access**:
 - **Basic Literacy**: Programs ensuring all workers can read and write
 - **Technical Training**: Specialized skills for advancing technology
-- **Business Skills**: Understanding commerce and [[Economic System]]s
+- **Business Skills**: Understanding commerce and [[Economic_System|Economic System]]s
 - **Cultural Education**: Maintaining connection to heritage and traditions
 
 #### Social Mobility Paths
@@ -625,7 +625,7 @@ From the harbor docks of Aquabyssos to the wind platforms of Aethermoor, working
 - [[Aethermoor Daily Rhythms]]
 - [[Noble Leisure Schedules]]
 - [[Child Life in the Realms]]
-- [[[[Labor Organization]]s and Guilds]]
+- [[Labor Organization|[[Labor Organization]]s and Guilds]]
 - [[Social Support Systems]]
 - [[Working Class Culture and Traditions]]
 
@@ -637,7 +637,7 @@ Working Class Routines is a undersea element of the setting, known for biolumine
 
 Legends speak of Working Class Routines as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Working Class Routines.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -652,3 +652,9 @@ Different cultures interpret this lore through their own lens, creating variatio
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+## References
+
+- [[Daily Routine Nuances and Details]]
+- [[Child Life in the Realms]]
+- [[Daily Routine Nuances and Details (D&D_References)]]

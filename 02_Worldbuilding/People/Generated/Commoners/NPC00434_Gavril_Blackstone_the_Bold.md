@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Blackstone the Bold", "gavril blackstone the bold", "Gavril Blackstone Bold", "Bold the Blackstone Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Blackstone the Bold
 
 *Tiefling Carpenter (Commoners), Age 26, Male*
@@ -47,11 +53,9 @@ Survivor of a disaster that destroyed their village A chance encounter last wint
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Rhiannon Ironwood the Strong (Family - Parent)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Witnessed a noble's crime

@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Ironwood the Redeemed", "malakai ironwood the redeemed", "Malakai Ironwood Redeemed", "Redeemed the Ironwood Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Ironwood the Redeemed
 
 *Dwarf Assassin (Villains), Age 36, Non-binary*
@@ -36,7 +42,6 @@ Driven mad by knowledge humanity wasn't meant to know A family member's death ha
 - **Short Term**: Recruit new members
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Nerys Blackstone the Redeemed (Personal - Ex-lover)
 - **Status**: Blood oath bound
@@ -52,16 +57,13 @@ Driven mad by knowledge humanity wasn't meant to know A family member's death ha
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Drusilla Thornweave the Broken (Political - Puppet)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
 
-
 ### Zephyr Keenblade the Wanderer (Personal - Childhood friend)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Has a child they're protecting

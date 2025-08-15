@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Underhill the Seeker", "felicia underhill the seeker", "Felicia Underhill Seeker", "Seeker the Underhill Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Underhill the Seeker
 
 *Genasi Wizard (Adventurers), Age 36, Non-binary*
@@ -36,7 +42,6 @@ Accidentally gained powers and learning to control them They've been marked by a
 - **Short Term**: Find missing person
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Elric Blackstone the Guardian (Family - Sibling)
 - **Status**: Strong and trusting
@@ -51,7 +56,6 @@ Accidentally gained powers and learning to control them They've been marked by a
 ### Malakai Grimholt the Fallen (Criminal - Handler)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Has died and been resurrected

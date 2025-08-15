@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Nightfall the Broken", "gareth nightfall the broken", "Gareth Nightfall Broken", "Broken the Nightfall Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Nightfall the Broken
 
 *Dwarf Caravan Master (Merchants), Age 19, Non-binary*
@@ -36,27 +42,22 @@ Former adventurer who retired to open a shop They've been marked by a secret soc
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Elric Thornweave the Redeemed (Professional - Employer)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Idris Voidwalker the Wise (Political - Puppet)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ### Aeliana Goldleaf the Cunning (Personal - Ex-lover)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Delara Thornweave the Guardian (Professional - Rival)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Smuggles illegal magical items

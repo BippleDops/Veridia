@@ -150,3 +150,7 @@ improvements: 20
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Assets Portraits Portrait NPC Captain Dr Bloodletting Captain Dr Bloodletting.svg]]

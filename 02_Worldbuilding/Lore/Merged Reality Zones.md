@@ -74,5 +74,17 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Crystal Garden]]
+- [[Customs House]]
+- [[The Transformed Citizens]]
+- [[Crystal Garden (D&D_References)]]
+- [[Crystal Garden 3 (D&D_References)]]
+- [[Customs House (D&D_References)]]
+- [[Customs House 3 (D&D_References)]]
+- [[The Transformed Citizens (D&D_References)]]

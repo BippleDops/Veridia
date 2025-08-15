@@ -95,7 +95,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -114,4 +113,9 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[resources-spell-scroll-costs-xge (tables)-phb]]` in CLI_Reference/spells/
+See: `[[resources-spell-scroll-costs-xge (tables)|resources-spell-scroll-costs-xge (tables)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[The Deep Mother 3 (D&D_References)]]

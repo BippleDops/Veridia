@@ -68,3 +68,8 @@ Mentioned in The Second Prophecy of Shadows
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Shadow Broker Mirrors (Criminal_Organizations)]]
+- [[Shadow Broker Mirrors]]

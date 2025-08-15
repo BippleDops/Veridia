@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Zephyrblade the Lost", "urien zephyrblade the lost", "Urien Zephyrblade Lost", "Lost the Zephyrblade Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Zephyrblade the Lost
 
 *Tiefling Ambassador (Nobles), Age 57, Female*
@@ -36,32 +42,26 @@ Exiled from their homeland, trying to rebuild their power base They're being bla
 - **Short Term**: Make this month's payment
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Xander Winterborn the Cunning (Political - Patron)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Faelyn Xendar the Cunning (Personal - Ex-lover)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
-
 
 ### Faelyn Ashford (Political - Patron)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
 
-
 ### Fiora Stormwind the Guardian (Criminal - Informant)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
 
-
 ### Cedric Dawnstrider the Wise (Family - Parent)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
-
 
 ### Thalia Stormwind (Political - Patron)
 - **Status**: Professional only

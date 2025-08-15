@@ -87,3 +87,18 @@ Mentioned in The Hidden Prophecy of Depths
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Entertainer Gladiator Variant]]
+- [[entertainer-gladiator-variant (backgrounds)]]
+- [[urchin]]
+- [[Rogue Xphb Mastermind Xge]]
+- [[rogue-xphb-mastermind-xge (classes)]]
+- [[Adventuring Gear Phb]]
+- [[Tools Phb]]
+- [[adventuring-gear-phb (tables)]]
+- [[tools-phb (tables)]]
+- [[Downtime Activity Carousing Xge]]
+- [[downtime-activity-carousing-xge (variant-rules)]]

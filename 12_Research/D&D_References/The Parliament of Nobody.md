@@ -219,3 +219,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Merchant's Covenant]]
+- [[Charter of  Rights]]
+- [[The  Chamber]]
+- [[Void Keeper]]
+- [[Emperor Thalassius the Wise]]
+- [[Merchant's Covenant (D&D_References)]]
+- [[Emperor Thalassius the Wise (D&D_Statblocks)]]

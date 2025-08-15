@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Nightfall the Bold", "hilda nightfall the bold", "Hilda Nightfall Bold", "Bold the Nightfall Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Nightfall the Bold
 
 *Dragonborn Corrupt Noble (Villains), Age 22, Male*
@@ -47,16 +53,13 @@ Betrayed by those they trusted, now seeking revenge on the world An old debt has
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Hilda Nightfall the Risen (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
 
-
 ### Faelyn Voidwalker the Bold (Family - Child)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
-
 
 ### Nerys Xendar the Lost (Personal - Childhood friend)
 - **Status**: Complicated history

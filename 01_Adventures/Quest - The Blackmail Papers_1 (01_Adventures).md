@@ -14,7 +14,6 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 ## Objectives
 ### Primary
 - Main quest goal
@@ -22,7 +21,6 @@ status: active
 ### Optional
 - Secondary objectives
 - Hidden goals
-
 
 # Quest - The Blackmail Papers
 
@@ -473,7 +471,6 @@ Contextual improvement based on 12_Research
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Hooks
 - **Personal**: Character connection

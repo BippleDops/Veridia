@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Darkwater the Fallen", "alaric darkwater the fallen", "Alaric Darkwater Fallen", "Fallen the Darkwater Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Darkwater the Fallen
 
 *Halfling Cleric (Adventurers), Age 32, Male*
@@ -13,7 +19,6 @@
 Tall and compact, with Mohawk gray hair and Violet eyes. Dark skin. Crooked nose from multiple breaks.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Sees doom and gloom everywhere; Extremely superstitious about everything
@@ -36,7 +41,6 @@ Seeking vengeance for a murdered mentor Strange abilities have begun manifesting
 - **Short Term**: Survive until next week
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Orion Youngblood the Broken (Criminal - Accomplice)
 - **Status**: On the verge of collapse
@@ -56,7 +60,6 @@ Seeking vengeance for a murdered mentor Strange abilities have begun manifesting
 ### Hilda Ironforge the Cunning (Personal - Ex-lover)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Secretly working for the villain

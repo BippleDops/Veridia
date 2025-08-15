@@ -125,13 +125,11 @@ Ancient Historian Memento is a notable location characterized by its unique feat
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -139,13 +137,11 @@ Ancient Historian Memento is a notable location characterized by its unique feat
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -215,7 +211,6 @@ Ongoing situations affecting Ancient Historian Memento:
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -251,3 +246,8 @@ Ongoing situations affecting Ancient Historian Memento:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Tethyan Hegemony]]
+- [[Tethyan Hegemony (D&D_References)]]

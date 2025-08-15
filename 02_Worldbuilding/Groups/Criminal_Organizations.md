@@ -62,3 +62,16 @@ This content can be adapted and expanded based on specific campaign needs.
 ### Membership
 - **Size**: *[Approximate number of members]*
 - **Recruitment**: *[How they recruit new members]*
+
+## References
+
+- [[Consequence Chain 5 - Marina Identity Revelation]]
+- [[Reputation System]]
+- [[Abyssos Prime Docks]]
+- [[Depth Wardens]]
+- [[Harbor District Customs House]]
+- [[Maelstrom Palace]]
+- [[Reflection Pools - Surgical Theater]]
+- [[Shadow Market Canals]]
+- [[The Crystal Wardens]]
+- [[The Free Current]]

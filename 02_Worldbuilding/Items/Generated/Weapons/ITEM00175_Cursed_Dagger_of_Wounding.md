@@ -1,3 +1,9 @@
+---
+aliases: ["Cursed Dagger of Wounding", "cursed dagger of wounding", "Wounding of Dagger Cursed"]
+tags: [item, equipment]
+type: item
+---
+
 # Cursed Dagger of Wounding
 
 *Weapons, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A cursed dagger made of crystallized magic
 - Can strike ethereal creatures
 - +2 to attack and damage rolls
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -31,7 +35,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.357Z*

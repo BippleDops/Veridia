@@ -82,3 +82,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A merchant needs help finding before the new moon
 - Someone is protecting an heir for love
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Grasp of Hadar Xge]]
+- [[Lance of Lethargy Xge]]
+- [[grasp-of-hadar-xge (optional-features)]]
+- [[lance-of-lethargy-xge (optional-features)]]

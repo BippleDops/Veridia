@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Grimholt the Swift", "ewan grimholt the swift", "Ewan Grimholt Swift", "Swift the Grimholt Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Grimholt the Swift
 
 *Halfling Noble (Nobles), Age 76, Male*
@@ -36,7 +42,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Sabotage competition
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Elric Crystalbrook the Fallen (Criminal - Target)
 - **Status**: Complicated history
@@ -47,7 +52,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Aeliana Moonshadow the Wise (Personal - Nemesis)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
@@ -56,7 +60,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 ### Delara Xendar (Professional - Partner)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ### Malakai Emberfall the Cunning (Political - Ally)
 - **Status**: Mutually beneficial

@@ -92,3 +92,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Leatherworkers Tools Xphb]]
+- [[Woodcarvers Tools Xphb]]
+- [[leatherworkers-tools-xphb (items)]]
+- [[woodcarvers-tools-xphb (items)]]
+- [[Magic Stone Xge]]
+- [[magic-stone-xge (spells)]]
+- [[Weapons Phb]]
+- [[Weapons Xphb]]
+- [[weapons-phb (tables)]]
+- [[weapons-xphb (tables)]]

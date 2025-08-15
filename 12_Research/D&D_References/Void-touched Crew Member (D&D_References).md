@@ -58,3 +58,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Someone is hunting a artifact for revenge
 - Strange disappearances suggest a conspiracy
+
+## References
+
+- [[Quest - The Lost Expedition]]
+- [[Aquabyssos World Overview#The Void Touched]]

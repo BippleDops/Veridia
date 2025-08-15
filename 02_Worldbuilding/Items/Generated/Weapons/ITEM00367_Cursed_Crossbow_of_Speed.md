@@ -1,3 +1,9 @@
+---
+aliases: ["Cursed Crossbow of Speed", "cursed crossbow of speed", "Speed of Crossbow Cursed"]
+tags: [item, equipment]
+type: item
+---
+
 # Cursed Crossbow of Speed
 
 *Weapons, Legendary (requires attunement)*
@@ -16,8 +22,6 @@ A cursed crossbow made of crystallized magic
 - Critical hits on 19-20
 - Returns when thrown
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -32,7 +36,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.375Z*

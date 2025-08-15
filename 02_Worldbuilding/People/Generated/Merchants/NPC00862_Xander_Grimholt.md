@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Grimholt", "xander grimholt", "Grimholt Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Grimholt
 
 *Half-Orc Broker (Merchants), Age 54, Non-binary*
@@ -13,7 +19,6 @@
 Very tall and athletic, with Mohawk red hair and Blue eyes. Scarred skin. Intricate tattoos covering arms.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Collects unusual and worthless objects; Sees doom and gloom everywhere
@@ -36,12 +41,10 @@ Inherited a failing business and turned it around They recently discovered a sec
 - **Short Term**: Avoid the authorities
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Faelyn Dawnstrider the Fallen (Criminal - Informant)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
-
 
 ### Aldric Proudmore the Mystic (Criminal - Accomplice)
 - **Status**: Complicated history

@@ -102,3 +102,10 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Locations Location City Brother Matthias Inkdrinker Brother Matthias Inkdrinker.svg]]
+- [[Assets Locations Location City the Luminous Dawn Cathedral the Luminous Dawn Cathedral.svg]]
+- [[Assets Locations Location City the Null Cathedral the Null Cathedral.svg]]
+- [[Assets Portraits Portrait NPC Empress Tethys the Ever Drowning Empress Tethys the Ever Drowning.svg]]

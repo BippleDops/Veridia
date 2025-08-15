@@ -122,13 +122,11 @@ Scholarly Theologians is a notable location characterized by its unique features
 ### Founding
 Scholarly Theologians was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -136,13 +134,11 @@ Scholarly Theologians was established in the distant past, growing from humble b
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -177,7 +173,6 @@ Ongoing situations affecting Scholarly Theologians:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -214,3 +209,8 @@ Ongoing situations affecting Scholarly Theologians:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Mad Oracle Thessaly]]
+- [[Mad Oracle Thessaly (D&D_References)]]

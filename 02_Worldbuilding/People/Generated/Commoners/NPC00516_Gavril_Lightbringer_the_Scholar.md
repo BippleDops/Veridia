@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Lightbringer the Scholar", "gavril lightbringer the scholar", "Gavril Lightbringer Scholar", "Scholar the Lightbringer Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Lightbringer the Scholar
 
 *Dragonborn Blacksmith (Commoners), Age 71, Male*
@@ -13,7 +19,6 @@
 Towering and compact, with Wild and unkempt black hair and Gray eyes. Unusual hue skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Believes in every conspiracy theory
@@ -36,12 +41,10 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 - **Short Term**: Sabotage competition
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Cedric Lightbringer the Swift (Political - Ally)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ### Brenna Jadeclaw (Professional - Employer)
 - **Status**: Secretly hostile
@@ -56,7 +59,6 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 ### Erasmus Oakenshield the Redeemed (Professional - Rival)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ### Branwen Lightbringer the Redeemed (Personal - Nemesis)
 - **Status**: Secretly hostile

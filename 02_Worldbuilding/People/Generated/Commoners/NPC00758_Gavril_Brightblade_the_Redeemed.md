@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Brightblade the Redeemed", "gavril brightblade the redeemed", "Gavril Brightblade Redeemed", "Redeemed the Brightblade Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Brightblade the Redeemed
 
 *Halfling Carpenter (Commoners), Age 31, Female*
@@ -41,7 +47,6 @@ Survivor of a disaster that destroyed their village A prophetic dream has been h
 ### Corvus Keenblade the Mystic (Professional - Mentor)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ### Drusilla Ashford the Guardian (Criminal - Handler)
 - **Status**: Complicated history

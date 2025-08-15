@@ -62,7 +62,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -108,7 +108,7 @@ improvements: 20
 
 Suspended high above [[Crystalhaven]] on crystally-powered levitation platforms, Arcanum Heights represents the pinnacle of magical achievement in [[Aethermoor]]. This district of floating towers, aerial bridges, and gravity-defying gardens serves as the premier magical research and education center for the surface world, rivaling even the infamous [[Abyssal Academy]] in the depths of [[Aquabyssos]].
 
-The Heights house the most advanced magical practitioners, dangerous experimental facilities, and the largest collection of pre-[[The [[Great Drowning]]|[[02 Worldbuilding]]/Lore/[[The Great Drowning]]]] magical knowledge remaining on the surface. Here, crystal-powered enchantments push the boundaries of what many consider possible, creating both wonders and catastrophes in equal measure.
+The Heights house the most advanced magical practitioners, dangerous experimental facilities, and the largest collection of pre-[[Great Drowning|The [[Great Drowning]]|[[02_Worldbuilding|02 Worldbuilding]]/Lore/[[The Great Drowning]]]] magical knowledge remaining on the surface. Here, crystal-powered enchantments push the boundaries of what many consider possible, creating both wonders and catastrophes in equal measure.
 
 ### The Floating Towers
 
@@ -134,7 +134,7 @@ Seven major towers hover at different altitudes above Crystalhaven, each dedicat
 **The Applicant Plaza**: Where aspiring mages demonstrate worthiness
 **The Materials Market**: Specialized shops for rare magical components
 **The Recovery Ward**: Medical facility for magical accidents and curses
-**[[The Archives]] Entrance**: Ground access to the distributed magical library system
+** Entrance**: Ground access to the distributed magical library system
 
 ### The Council of Archmages
 
@@ -302,7 +302,7 @@ Arcanum Heights is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Arcanum Heights as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Arcanum Heights.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -330,3 +330,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Comprehensive-World-Connection-Guide]]
+- [[The Azure Coast]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide (D&D_References)]]
+- [[Convergence Point]]
+- [[The Azure Coast (D&D_References)]]

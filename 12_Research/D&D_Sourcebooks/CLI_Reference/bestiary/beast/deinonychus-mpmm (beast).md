@@ -132,3 +132,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Someone is searching for a witness for money
 - Strange sightings suggest a conspiracy
+
+## References
+
+- [[Deinonychus Mpmm]]
+- [[3 Bestiary]]
+- [[3-bestiary (volos-guide-to-monsters)]]

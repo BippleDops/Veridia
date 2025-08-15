@@ -79,7 +79,6 @@ creature: Custom NPC
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
 
-
 ## See Also
 - Related content
 - Similar topics
@@ -93,3 +92,11 @@ creature: Custom NPC
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition
+
+## References
+
+- [[Assets Art Astrologer Prime Cassandra Starweaver.png]]
+- [[Assets Locations Location City Dream Enhancement Techniques Dream Enhancement Techniques.svg]]
+- [[NPC1_Quick_Ref]]
+- [[Location_Template_1 (09_Templates)]]
+- [[NPC_Template_1 (09_Templates)]]

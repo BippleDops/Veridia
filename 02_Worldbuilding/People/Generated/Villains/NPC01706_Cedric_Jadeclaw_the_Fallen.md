@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Jadeclaw the Fallen", "cedric jadeclaw the fallen", "Cedric Jadeclaw Fallen", "Fallen the Jadeclaw Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Jadeclaw the Fallen
 
 *Half-Orc Assassin (Villains), Age 23, Non-binary*
@@ -36,17 +42,14 @@ Believes their evil acts serve a greater good They've been marked by a secret so
 - **Short Term**: Sabotage competition
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Ysara Crystalbrook the Wanderer (Political - Puppet)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
 
-
 ### Thalia Ironforge the Fallen (Political - Spy)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ### Rhiannon Xendar the Seeker (Criminal - Informant)
 - **Status**: One-sided affection

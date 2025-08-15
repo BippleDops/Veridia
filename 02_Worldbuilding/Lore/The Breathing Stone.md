@@ -48,7 +48,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -112,7 +112,7 @@ The Breathing Stone was crafted during the **Age of First Submersion** (circa 2,
 
 ### The Deep Expeditions
 
-For over 1,200 years, the Breathing Stone enabled the **Deep Expeditions** - legendary journeys to the most inhospitable regions of the ocean floor. These expeditions mapped the **[[[[Abyssal Garden]]s]]**, discovered the **Methane Forests**, and established first contact with the **[[Pressure Wraiths]]** that inhabit the [[Crushing Depths]].
+For over 1,200 years, the Breathing Stone enabled the **Deep Expeditions** - legendary journeys to the most inhospitable regions of the ocean floor. These expeditions mapped the **[[Abyssal Garden|[[Abyssal Garden]]s]]**, discovered the **Methane Forests**, and established first contact with the **[[Pressure Wraiths]]** that inhabit the [[Crushing Depths]].
 
 ### The War of Suffocation
 
@@ -127,7 +127,7 @@ The Breathing Stone vanished during the **Great Drowning** itself, lost when the
 Over the past 847 years since [[The Great Drowning]], the Breathing Stone has been sighted at least forty-seven times:
 
 - **The [[Merchant]]'s Tale** (823 AGD): A pearl diver claimed the stone saved him from drowning in the **Whirlpool of Lost Souls**
-- **The Scholar's Discovery** (756 AGD): Professor Delian of the **[[Deep Archives]]** reported finding the stone in [[Ancient Ruins]], only to lose it to **Pressure [[Pirates]]**
+- **The Scholar's Discovery** (756 AGD): Professor Delian of the **** reported finding the stone in [[Ancient Ruins]], only to lose it to **Pressure [[Pirates]]**
 - **The Healer's Miracle** (634 AGD): A plague doctor used a stone matching the description to cure victims of **Lung Rot** in the **Lower Districts**
 - **Recent Sightings** (847 AGD): Multiple [[reports]] place the stone in the possession of the mysterious **Depth Walker** who aids travelers in the dangerous **Transition Zones**
 
@@ -284,7 +284,7 @@ Rumors suggest that the Breathing Stone has been spotted in the hands of **Surfa
 - [[Methane Forests]] - Dangerous breathing zones
 - [[The Depth Speaker]] - Mysterious current figure
 - [[False Breathers]] - Replica stones
-- [[Surface Raiders]] - Possible [[Current Location]]
+- [[Surface Raiders]] - Possible [[Current_Location|Current Location]]
 - [[Marianas Abyss]] - Deepest exploration point
 - [[Gill-Men]] - Transformation risk
 - [[The Final Gasp]] - Breathing plague
@@ -299,7 +299,7 @@ The Breathing Stone is a undersea element of the setting, known for bioluminesce
 
 Legends speak of The Breathing Stone as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Breathing Stone.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 

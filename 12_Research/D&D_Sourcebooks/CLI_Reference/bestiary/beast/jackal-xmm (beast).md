@@ -112,3 +112,18 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[menagerie]]
+- [[Jackal Xmm]]
+- [[2 Appendix a Miscellaneous Creatures]]
+- [[2-appendix-a-miscellaneous-creatures (monster-manual-2014)]]
+- [[3 Animals]]
+- [[3-animals (monster-manual-2025)]]
+- [[Bag of Tricks Tan Xdmg]]
+- [[bag-of-tricks-tan-xdmg (items)]]
+- [[Desert Encounters Levels 14 Xge]]
+- [[Monsters by Habitat Grassland Monsters Xmm]]
+- [[desert-encounters-levels-14-xge (tables)]]
+- [[monsters-by-habitat-grassland-monsters-xmm (tables)]]

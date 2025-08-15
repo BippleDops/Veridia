@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Youngblood the Guardian", "aldric youngblood the guardian", "Aldric Youngblood Guardian", "Guardian the Youngblood Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Youngblood the Guardian
 
 *Halfling Ranger (Adventurers), Age 25, Non-binary*
@@ -36,17 +42,14 @@ Seeking vengeance for a murdered mentor They've made a deal they're beginning to
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Wynne Silverleaf the Guardian (Professional - Employee)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Malakai Quicksilver the Wise (Professional - Employee)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ### Hilda Ironforge the Fallen (Professional - Mentor)
 - **Status**: Strained but maintaining
@@ -56,7 +59,6 @@ Seeking vengeance for a murdered mentor They've made a deal they're beginning to
 ### Solas Stormwind the Broken (Criminal - Informant)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Has died and been resurrected

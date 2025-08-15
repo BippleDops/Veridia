@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Darkwater the Cunning", "aeliana darkwater the cunning", "Aeliana Darkwater Cunning", "Cunning the Darkwater Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Darkwater the Cunning
 
 *Genasi Cultist (Villains), Age 51, Female*
@@ -36,22 +42,18 @@ Born into evil but questioning their path They've been marked by a secret societ
 - **Short Term**: Recruit new members
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Lyanna Thornweave the Bold (Political - Ally)
 - **Status**: Complicated history
 - **History**: United by common enemy
 
-
 ### Pyria Crystalbrook the Cunning (Family - Spouse)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Wynne Quicksilver the Redeemed (Political - Spy)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ### Pyria Zephyrblade the Wise (Criminal - Fence)
 - **Status**: On the verge of collapse

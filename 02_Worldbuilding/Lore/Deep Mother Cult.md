@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -71,7 +71,7 @@ Deep Mother Cult represents a crucial aspect of the world's history, cosmology, 
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -121,3 +121,14 @@ Mentioned in The Second Prophecy of Winds
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Consequence Chain 4 - Deep Mother Awakening]]
+- [[Deep Mother Cult Practices]]
+- [[Deep Mother Influence]]
+- [[Relationship Web Nuances]]
+- [[The Bathyal Succession]]
+- [[The Deep Mother Cult]]
+- [[The Final Choice]]
+- [[The Great Drowning]]

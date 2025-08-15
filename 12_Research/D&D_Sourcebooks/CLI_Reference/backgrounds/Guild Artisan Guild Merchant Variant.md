@@ -190,3 +190,32 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Quest - Reality Referendum]]
+- [[Quest - Redemption's Price]]
+- [[Artisan Collective]]
+- [[Corruption Networks]]
+- [[Delta-Operations]]
+- [[Depth Guard (D&D_References)]]
+- [[Depth-Aging Process]]
+- [[Dr. Elena Compassion]]
+- [[Duchess Nightshade]]
+- [[Environmental Court]]
+- [[Environmental Engineer Current Depthwright]]
+- [[Heart Grove]]
+- [[Marcus Ledgerborn]]
+- [[Market Square]]
+- [[Port Meridian Council Chamber (D&D_References)]]
+- [[Reality Anchor Overrides]]
+- [[Redirection Syndrome]]
+- [[Skyforge Guardians]]
+- [[Supply Master Cargo Deephaul]]
+- [[The Battlefield Convergence]]
+- [[The Chronicle Scribes]]
+- [[The Deep Mother 3 (D&D_References)]]
+- [[The Deep Territories]]
+- [[The Depth Mother's Blessing]]
+- [[The Hippocratic Vault]]
+- [[The Null Communications Hub]]

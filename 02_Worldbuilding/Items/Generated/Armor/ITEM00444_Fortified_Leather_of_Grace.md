@@ -1,3 +1,9 @@
+---
+aliases: ["Fortified Leather of Grace", "fortified leather of grace", "Grace of Leather Fortified"]
+tags: [item, equipment]
+type: item
+---
+
 # Fortified Leather of Grace
 
 *Armor, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A fortified leather crafted from exotic materials
 - Grants swimming speed
 - Advantage on saving throws
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -30,7 +34,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.382Z*

@@ -47,7 +47,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-investigate-shadow-conspiracy-investigate-shadow-conspiracy.svg)
 
@@ -56,7 +55,6 @@ improvements: 20
 
 > *"We are the whispers between the shadows, the eyes that see all, the hands that shape fate without touching it. You cannot fight what does not exist, yet we are everywhere."*
 > — Anonymous message found in [[Admiral Thorne Blackwater]]'s private chambers
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -751,7 +749,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
-
 
 ## Daily Routine
 - **Morning**: Typical activities

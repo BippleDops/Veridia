@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Thornweave", "erasmus thornweave", "Thornweave Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Thornweave
 
 *Genasi Ambassador (Nobles), Age 56, Female*
@@ -47,11 +53,9 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Rhiannon Frostwhisper the Seeker (Professional - Employer)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Secretly funding the rebellion

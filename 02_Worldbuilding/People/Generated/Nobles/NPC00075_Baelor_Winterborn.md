@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Winterborn", "baelor winterborn", "Winterborn Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Winterborn
 
 *Human Noble (Nobles), Age 35, Male*
@@ -13,7 +19,6 @@
 Above average and muscular, with Short and neat gray hair and Gray eyes. Scarred skin. Constantly changing hair color.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Sees doom and gloom everywhere; Collects unusual and worthless objects
@@ -36,12 +41,10 @@ Secretly adopted into nobility, living in fear of discovery They've made a deal 
 - **Short Term**: Find missing person
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Alaric Proudmore (Criminal - Target)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ### Orion Underhill (Criminal - Handler)
 - **Status**: Strong and trusting
@@ -56,7 +59,6 @@ Secretly adopted into nobility, living in fear of discovery They've made a deal 
 ### Ysara Darkwater (Political - Puppet)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
-
 
 ### Gareth Ravenheart the Seeker (Criminal - Informant)
 - **Status**: One-sided affection

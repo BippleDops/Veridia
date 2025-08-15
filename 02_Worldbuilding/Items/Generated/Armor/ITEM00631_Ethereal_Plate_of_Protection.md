@@ -1,3 +1,9 @@
+---
+aliases: ["Ethereal Plate of Protection", "ethereal plate of protection", "Protection of Plate Ethereal"]
+tags: [item, equipment]
+type: item
+---
+
 # Ethereal Plate of Protection
 
 *Armor, Common*
@@ -13,8 +19,6 @@ A ethereal plate bearing ancient runes
 ## Properties
 - Reduces damage by 3
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -29,7 +33,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.400Z*

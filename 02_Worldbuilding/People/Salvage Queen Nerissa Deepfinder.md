@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-salvage-queen-nerissa-deepfinder-salvage-queen-nerissa-deepfinder.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -207,7 +205,6 @@ Mentioned in The Second Prophecy of Shadows
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -277,3 +274,8 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City Harbormaster Creedence Tidereader Harbormaster Creedence Tidereader.svg]]
+- [[Assets Locations Location City Prophetic Dreams Prophetic Dreams.svg]]

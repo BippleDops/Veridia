@@ -91,3 +91,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Ball Bearing]]
+- [[Burglars Pack Xphb]]
+- [[Smiths Tools Xphb]]
+- [[ball-bearing (items)]]
+- [[burglars-pack-xphb (items)]]
+- [[smiths-tools-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

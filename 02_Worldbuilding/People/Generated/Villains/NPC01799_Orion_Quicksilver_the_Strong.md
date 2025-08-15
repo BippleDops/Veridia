@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Quicksilver the Strong", "orion quicksilver the strong", "Orion Quicksilver Strong", "Strong the Quicksilver Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Quicksilver the Strong
 
 *Aasimar Corrupt Noble (Villains), Age 39, Female*
@@ -42,11 +48,9 @@ Born into evil but questioning their path They've made a deal they're beginning 
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Aeliana Nightfall the Wanderer (Personal - Love interest)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ### Pyria Ironforge the Lost (Personal - Best friend)
 - **Status**: One-sided affection
@@ -62,11 +66,9 @@ Born into evil but questioning their path They've made a deal they're beginning 
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Vesper Goldleaf the Mystic (Professional - Employer)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Was once a renowned hero

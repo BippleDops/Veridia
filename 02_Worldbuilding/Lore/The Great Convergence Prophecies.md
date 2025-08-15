@@ -84,3 +84,16 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## [[DM_Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Eastern Kingdoms (02_Worldbuilding)]]
+- [[Silver Mask]]
+- [[The Restoration Movement]]
+- [[The Silverscale Conspiracy]]
+- [[Eastern Kingdoms (D&D_References)]]
+- [[Master_Lore_Index]]
+- [[Silver Mask (D&D_References)]]
+- [[The Restoration Movement (D&D_References)]]
+- [[The Silverscale Conspiracy (D&D_References)]]

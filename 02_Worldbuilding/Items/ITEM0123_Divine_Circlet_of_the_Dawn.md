@@ -1,4 +1,5 @@
 ---
+aliases: ["Divine Circlet of the Dawn", "divine circlet of the dawn", "Divine Circlet of Dawn", "Dawn the of Circlet Divine"]
 tags: [generated]
 id: ITEM0123
 created: 2025-08-15T04:09:51.116Z
@@ -20,8 +21,6 @@ Crafted from darkwood with ancient symbols, in recently restored. It emanates a 
 
 ## Quirk
 *Glows during full moon*
-
-
 
 ## History
 This item was created to seal an ancient evil ages ago. It has passed through many hands, each leaving their mark upon its destiny.

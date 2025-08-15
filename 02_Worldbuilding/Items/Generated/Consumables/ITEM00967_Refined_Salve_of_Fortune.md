@@ -1,3 +1,9 @@
+---
+aliases: ["Refined Salve of Fortune", "refined salve of fortune", "Fortune of Salve Refined"]
+tags: [item, equipment]
+type: item
+---
+
 # Refined Salve of Fortune
 
 *Consumables, Rare*
@@ -15,8 +21,6 @@ A refined salve emanating sweet fragrance
 - Grant advantage for 1 hour
 - Increase speed by 10 ft
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -31,7 +35,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.443Z*

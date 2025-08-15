@@ -1,3 +1,9 @@
+---
+aliases: ["Void-touched Scepter of Truth", "void-touched scepter of truth", "Truth of Scepter Void-touched"]
+tags: [item, equipment]
+type: item
+---
+
 # Void-touched Scepter of Truth
 
 *Artifacts, Legendary (requires attunement)*
@@ -16,8 +22,6 @@ A void-touched scepter pulsing with inner light
 - Grant true sight
 - Immunity to charm
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -32,7 +36,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.423Z*

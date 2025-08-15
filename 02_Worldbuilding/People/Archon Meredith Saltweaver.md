@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-archon-meredith-saltweaver-archon-meredith-saltweaver.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -209,7 +207,6 @@ Mentioned in The Hidden Prophecy of Shadows
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -249,3 +246,13 @@ Mentioned in The Hidden Prophecy of Shadows
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Comprehensive-World-Connection-Guide]]
+- [[Senator_Glaucus_Brain (People)]]
+- [[Assets Locations Location City Ghost of Dr Thaddeus Brightwater V1 Ghost of Dr Thaddeus Brightwater.svg]]
+- [[Assets Locations Location City Harbor Master Captain Dockwise Harbor Master Captain Dockwise.svg]]
+- [[Comprehensive-World-Connection-Guide (D&D_References)]]
+- [[Comprehensive-World-Connection-Guide 3 (D&D_References)]]
+- [[Senator_Glaucus_Brain (D&D_References)]]

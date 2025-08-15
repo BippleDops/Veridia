@@ -92,3 +92,25 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Blue Abishai Mpmm]]
+- [[blue-abishai-mpmm (fiend)]]
+- [[Elder Brain Vgm]]
+- [[elder-brain-vgm (legendary-group)]]
+- [[Alhoon Mpmm]]
+- [[alhoon-mpmm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Paladin Xphb Oath of Redemption Xge]]
+- [[Sorcerer Xphb Clockwork Sorcery Xphb]]
+- [[paladin-xphb-oath-of-redemption-xge (classes)]]
+- [[sorcerer-xphb-clockwork-sorcery-xphb (classes)]]
+- [[Cube of Force Xdmg]]
+- [[cube-of-force-xdmg (items)]]
+- [[Disintegrate Xphb]]
+- [[disintegrate-xphb (spells)]]
+- [[Random Obstacles Obstacles]]
+- [[random-obstacles-obstacles (tables)]]

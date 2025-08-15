@@ -44,7 +44,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -105,7 +105,7 @@ Legends speak of The Diplomatic Quarter as a nexus where past and present conver
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -126,13 +126,11 @@ The Diplomatic Quarter is a notable location characterized by its unique feature
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -140,13 +138,11 @@ The Diplomatic Quarter is a notable location characterized by its unique feature
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -204,3 +200,11 @@ Ongoing situations affecting The Diplomatic Quarter:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Aquabyssos Trade Seal]]
+- [[Surface Ambassador Lord Seaworthy]]
+- [[Harbor District Customs House]]
+- [[Aquabyssos Trade Seal (D&D_References)]]
+- [[Surface Ambassador Lord Seaworthy (D&D_Statblocks)]]

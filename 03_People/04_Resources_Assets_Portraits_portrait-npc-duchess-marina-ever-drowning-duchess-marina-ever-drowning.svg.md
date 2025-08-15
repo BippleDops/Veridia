@@ -11,7 +11,7 @@ created: '2025-01-15'
 
 ## Portrait
 
-![[portrait_04_resources_assets_portraits_portrait-npc-duchess-marina-ever-drowning-duchess-marina-ever-drowning.svg.png]]
+![[04_Resources|portrait_04_resources_assets_portraits_portrait-npc-duchess-marina-ever-drowning-duchess-marina-ever-drowning.svg.png]]
 
 *Portrait reference for 04_Resources_Assets_Portraits_portrait-npc-duchess-marina-ever-drowning-duchess-marina-ever-drowning.svg*
 
@@ -75,3 +75,9 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+## References
+
+- [[Assets Locations Location City the Harbormaster S Office the Harbormaster S Office.svg]]
+- [[Assets Symbols Symbol Heraldry Thalassa the Pathfinder Thalassa the Pathfinder.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-duchess-marina-ever-drowning-duchess-marina-ever-drowning.svg_Quick_Ref]]

@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -84,7 +84,7 @@ Sage Moonwhisper is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of Sage Moonwhisper as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sage Moonwhisper.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -106,7 +106,7 @@ Mentioned in The Second Prophecy of Depths
 - A shipment has gone missing and truth emerges
 - A stranger needs help delivering before the new moon
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -134,3 +134,8 @@ Mentioned in The Second Prophecy of Depths
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[The Floating Market]]
+- [[The Floating Market (D&D_References)]]

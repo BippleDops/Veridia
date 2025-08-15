@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Jadeclaw the Broken", "fiora jadeclaw the broken", "Fiora Jadeclaw Broken", "Broken the Jadeclaw Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Jadeclaw the Broken
 
 *Genasi Bard (Adventurers), Age 47, Male*
@@ -13,7 +19,6 @@
 Above average and delicate, with Partially shaved blonde hair and Black eyes. Scarred skin. Missing finger on left hand.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Compulsive liar about minor things; Laughs at the most inappropriate times
@@ -36,7 +41,6 @@ Running from a dark past that won't stay buried A chance encounter last winter c
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Ewan Nightfall the Swift (Political - Ally)
 - **Status**: Complicated history
@@ -47,11 +51,9 @@ Running from a dark past that won't stay buried A chance encounter last winter c
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
 ### Malakai Goldleaf the Fallen (Political - Spy)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ### Branwen Blackstone the Risen (Professional - Rival)
 - **Status**: On the verge of collapse

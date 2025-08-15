@@ -138,3 +138,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Ancient Silver Dragon Xmm]]
+- [[ancient-silver-dragon-xmm (dragon)]]
+- [[Molydeus Mpmm]]
+- [[molydeus-mpmm (fiend)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Axe of the Dwarvish Lords Xdmg]]
+- [[Eye and Hand of Vecna Xdmg]]
+- [[Hand of Vecna Xdmg]]
+- [[Helm of Teleportation Xdmg]]
+- [[axe-of-the-dwarvish-lords-xdmg (items)]]
+- [[eye-and-hand-of-vecna-xdmg (items)]]
+- [[hand-of-vecna-xdmg (items)]]
+- [[helm-of-teleportation-xdmg (items)]]

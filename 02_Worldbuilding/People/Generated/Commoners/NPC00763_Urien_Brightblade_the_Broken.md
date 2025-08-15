@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Brightblade the Broken", "urien brightblade the broken", "Urien Brightblade Broken", "Broken the Brightblade Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Brightblade the Broken
 
 *Half-Elf Farmer (Commoners), Age 49, Male*
@@ -36,17 +42,14 @@ Survivor of a disaster that destroyed their village An old debt has come due at 
 - **Short Term**: Sabotage competition
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Pyria Grimholt the Swift (Criminal - Handler)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Qadim Jadeclaw the Cunning (Personal - Best friend)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
-
 
 ### Urien Proudmore the Scholar (Family - Cousin)
 - **Status**: Mutually beneficial
@@ -57,7 +60,6 @@ Survivor of a disaster that destroyed their village An old debt has come due at 
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
 ### Nerys Hawthorne the Cunning (Personal - Love interest)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
@@ -66,7 +68,6 @@ Survivor of a disaster that destroyed their village An old debt has come due at 
 ### Orion Stormwind the Wise (Personal - Nemesis)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Has dragon blood in their veins

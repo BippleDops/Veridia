@@ -1,3 +1,9 @@
+---
+aliases: ["Enchanted Chain Mail of Fortitude", "enchanted chain mail of fortitude", "Fortitude of Mail Chain Enchanted"]
+tags: [item, equipment]
+type: item
+---
+
 # Enchanted Chain Mail of Fortitude
 
 *Armor, Very Rare*
@@ -16,8 +22,6 @@ A enchanted chain mail bearing ancient runes
 - +1 to AC
 - Advantage on saving throws
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -32,7 +36,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.394Z*

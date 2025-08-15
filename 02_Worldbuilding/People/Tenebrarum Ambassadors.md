@@ -36,7 +36,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-tenebrarum-ambassadors-tenebrarum-ambassadors.svg)
 
@@ -44,7 +43,6 @@ improvements: 20
 
 # The Tenebrarum Ambassadors
 *Voices from the Shadow Realm, Diplomats of the Dark Current*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -240,7 +238,6 @@ Legends speak of Tenebrarum Ambassadors as a nexus where past and present conver
 
 Mentioned in The Second Prophecy of Stars
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -276,3 +273,7 @@ Mentioned in The Second Prophecy of Stars
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Campaign_Relationship_Matrix]]

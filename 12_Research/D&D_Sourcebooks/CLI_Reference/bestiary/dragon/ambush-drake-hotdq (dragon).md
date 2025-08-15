@@ -112,3 +112,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[02 Chapter 1 Greenest in Flames]]
+- [[02-chapter-1-greenest-in-flames (hoard-of-the-dragon-queen)]]
+- [[13 Appendix D Monsters]]
+- [[13-appendix-d-monsters (hoard-of-the-dragon-queen)]]
+- [[13 Appendix D Monsters (rise-of-tiamat)]]
+- [[13-appendix-d-monsters (rise-of-tiamat)]]
+- [[Ambush Drake Hotdq]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Grimholt", "nerys grimholt", "Grimholt Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Grimholt
 
 *Half-Orc Aristocrat (Nobles), Age 43, Female*
@@ -36,27 +42,22 @@ Last survivor of a fallen house, seeking to restore family honor They've fallen 
 - **Short Term**: Gather information
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Jorah Winterborn (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Rhiannon Brightblade the Wanderer (Criminal - Handler)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
-
 
 ### Aeliana Ashford (Political - Puppet)
 - **Status**: Professional only
 - **History**: United by common enemy
 
-
 ### Ewan Xendar (Professional - Partner)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ### Caelum Winterborn (Professional - Rival)
 - **Status**: Complicated history

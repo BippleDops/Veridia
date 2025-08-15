@@ -1,3 +1,9 @@
+---
+aliases: ["Distilled Powder of Clarity", "distilled powder of clarity", "Clarity of Powder Distilled"]
+tags: [item, equipment]
+type: item
+---
+
 # Distilled Powder of Clarity
 
 *Consumables, Common*

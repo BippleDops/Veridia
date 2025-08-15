@@ -43,7 +43,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-investigate-the-crystal-plague-investigate-the-crystal-plague.svg)
 
@@ -267,7 +266,6 @@ nriched: true -->
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -303,3 +301,14 @@ nriched: true -->
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Quartermaster David Simpleton Quartermaster David Simpleton.svg]]
+- [[Assets Symbols Symbol Heraldry Information Broker Whisper Goldtongu Information Broker Whisper Goldtongu.svg]]
+- [[Marina-Red-Tide-Coralheart]]
+- [[Aethermoor - Session 01 Blood in the Harbor]]
+- [[Aethermoor - Session 03 Council of Shadows]]
+- [[Marina-Red-Tide-Coralheart (D&D_References)]]
+- [[Aethermoor - Session 04 The Silverscale Gambit]]
+- [[Investigate the Crystal Plague (D&D_Statblocks)]]

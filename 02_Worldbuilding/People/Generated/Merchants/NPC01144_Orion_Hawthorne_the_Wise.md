@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Hawthorne the Wise", "orion hawthorne the wise", "Orion Hawthorne Wise", "Wise the Hawthorne Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Hawthorne the Wise
 
 *Dragonborn Appraiser (Merchants), Age 49, Female*
@@ -13,7 +19,6 @@
 Towering and muscular, with Partially shaved bald hair and Green eyes. Weathered skin. Burn scars on one side of face.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Sees doom and gloom everywhere; Laughs at the most inappropriate times
@@ -42,11 +47,9 @@ Former adventurer who retired to open a shop They've fallen in love with someone
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
 
-
 ### Aldric Darkwater the Risen (Family - Sibling)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
-
 
 ### Baelor Brightblade the Swift (Political - Puppet)
 - **Status**: Complicated history

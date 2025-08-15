@@ -94,3 +94,16 @@ Mentioned in The First Prophecy of Winds
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Sphinx of Secrets Xmm]]
+- [[Sphinx of Valor Xmm]]
+- [[Sphinx of Wonder Xmm]]
+- [[sphinx-of-secrets-xmm (celestial)]]
+- [[sphinx-of-valor-xmm (celestial)]]
+- [[sphinx-of-wonder-xmm (celestial)]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[10-appendix-b-creature-stat-blocks (players-handbook-2024)]]
+- [[Pact of the Chain Xphb]]
+- [[pact-of-the-chain-xphb (optional-features)]]

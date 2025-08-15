@@ -105,3 +105,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Berbalang Mpmm]]
+- [[berbalang-mpmm (aberration)]]
+- [[Adult Black Dragon Xmm]]
+- [[Ancient Black Dragon Xmm]]
+- [[adult-black-dragon-xmm (dragon)]]
+- [[ancient-black-dragon-xmm (dragon)]]
+- [[Ghast Gravecaller Xmm]]
+- [[ghast-gravecaller-xmm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Knowledge Domain]]
+- [[cleric-xphb-knowledge-domain (classes)]]
+- [[cleric-xphb-knowledge-domain 2 (classes)]]
+- [[Stonespeaker Crystal Oota]]
+- [[stonespeaker-crystal-oota (items)]]
+- [[Whispers of the Grave Xphb]]
+- [[whispers-of-the-grave-xphb (optional-features)]]

@@ -155,3 +155,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Narzugon Mpmm]]
+- [[narzugon-mpmm (fiend)]]
+- [[nightmare-xmm (fiend)]]
+- [[Figurine of Wondrous Power Obsidian Steed]]
+- [[Infernal Tack Mtf]]
+- [[figurine-of-wondrous-power-obsidian-steed-xdmg]]
+- [[infernal-tack-mtf (items)]]

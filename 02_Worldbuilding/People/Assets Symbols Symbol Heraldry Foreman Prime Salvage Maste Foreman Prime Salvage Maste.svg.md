@@ -206,3 +206,8 @@ This NPC can serve multiple roles:
 - **Child**: [[Goldwave Financial Offices]]
 - **Friend**: [[Lady Shadowmere]]
 - **Victim**: [[Portrait NPC Deep Sea Explorer Captain Abyss Deep Sea Explorer Captain Abyss.svg]]
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-deep-lords-deep-lords.svg]]
+- [[04_Resources_Assets_Locations_location-city-quartermaster-judith-steadfast-quartermaster-judith-steadfast.svg]]

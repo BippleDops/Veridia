@@ -33,7 +33,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-gareth-goldenheart-the-chosen-vessel-gareth-goldenheart-the-chosen-vessel.svg)
 
@@ -267,7 +266,6 @@ Mentioned in The First Prophecy of Shadows
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -303,3 +301,10 @@ Mentioned in The First Prophecy of Shadows
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Symbols Symbol Heraldry the Carrion Court the Carrion Court.svg]]
+- [[Assets Symbols Symbol Heraldry the Echo Succession the Echo Succession.svg]]
+- [[Brother Matthias the Amber Bearer]]
+- [[Brother Matthias the Amber Bearer (D&D_Statblocks)]]

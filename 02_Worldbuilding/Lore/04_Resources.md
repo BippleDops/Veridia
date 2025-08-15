@@ -107,3 +107,34 @@ improvements: 20
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Parliamentary Ethics Committee (Government_and_Parliament)]]
+- [[10 Combat#dropping to 0 Hit Points#death Saving Throws]]
+- [[Assets Item Artifact Explorers Pack Xphb Explorers Pack Xphb.png]]
+- [[Archmaster Lyralei]]
+- [[Assets Locations Location City the Crystal Cathedral of Pure Light V1 the Crystal Cathedral of Pure Light.svg]]
+- [[Dr. Marina Coralheart Shadow]]
+- [[Draft_Content (People)]]
+- [[Head of Memory Integration Dr. Nautilus Depthcaller (People)]]
+- [[Master_Artificer_Coral_Gemwright (People)]]
+- [[Master_Wind_Singer_Melody_Tradition]]
+- [[Sky_Lords_Worship]]
+- [[The Soul Market]]
+- 
+- [[The Pearl Markets]]
+- [[Index (Galleries)]]
+- [[Index]]
+- [[Symbol Heraldry Crystal Wardens V1 Crystal Wardens.svg]]
+- [[Symbol Heraldry Information Broker Whisper Goldtongu V1 Information Broker Whisper Goldtongu.svg]]
+- [[Aethermoor_Session_01 (D&D_References)]]
+- [[Vehicles - Vehicles Index]]
+- [[Vehicles_Index]]
+- [[fractal-mascot-scc (construct)]]
+- [[npc - Aljanor Keenblade Oota]]
+- [[Crystal Ball of Mind Reading Xdmg]]
+- [[Shawm Xphb]]
+- [[caltrop]]
+- [[rod-of-alertness-xdmg (items)]]
+- [[VAULT_UPDATES]]

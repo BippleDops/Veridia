@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Quicksilver the Fallen", "wynne quicksilver the fallen", "Wynne Quicksilver Fallen", "Fallen the Quicksilver Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Quicksilver the Fallen
 
 *Goliath Shopkeeper (Merchants), Age 25, Male*
@@ -36,22 +42,18 @@ Part of a merchant family with connections everywhere A prophetic dream has been
 - **Short Term**: Avoid the authorities
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Erasmus Winterborn the Fallen (Family - Parent)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Idris Winterborn the Guardian (Political - Ally)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Thalia Frostwhisper the Guardian (Family - Sibling)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
-
 
 ### Aldric Dawnstrider the Scholar (Personal - Nemesis)
 - **Status**: Recently reconciled
@@ -61,7 +63,6 @@ Part of a merchant family with connections everywhere A prophetic dream has been
 ### Ewan Xendar the Redeemed (Political - Puppet)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Running a cult from their basement

@@ -1,3 +1,9 @@
+---
+aliases: ["Adamantine Helm of Protection", "adamantine helm of protection", "Protection of Helm Adamantine"]
+tags: [item, equipment]
+type: item
+---
+
 # Adamantine Helm of Protection
 
 *Armor, Common*

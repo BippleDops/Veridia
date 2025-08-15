@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -84,7 +84,7 @@ Void Sanctum is a void-touched element of the setting, known for impossible angl
 
 Legends speak of Void Sanctum as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Void Sanctum.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -106,3 +106,7 @@ Mentioned in The Second Prophecy of Winds
 - A corpse reveals the truth about this place
 - A journal reveals ancient history about the government
 - A document has gone missing and truth emerges
+
+## References
+
+- [[The Depth Accords (D&D_References)]]

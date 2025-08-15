@@ -212,3 +212,9 @@ Member of House Dragonblood - Trait: divine blood
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-war-commander-umbral-strategis-v1-war-commander-umbral-strategis.svg]]
+- [[04_Resources_Assets_Locations_location-city-dr-marina-voidstudier-dr-marina-voidstudier.svg]]
+- [[04_Resources_Assets_Locations_location-city-st-meridian-s-cathedral-st-meridian-s-cathedral.svg]]

@@ -82,12 +82,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-senator-glaucus-senator-glaucus.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -224,7 +222,6 @@ Senator Glaucus presents a distinctive figure. Their bearing suggests both compe
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
 ## Secrets
 - Hidden information about this character
 - Unknown connections or past events
@@ -289,7 +286,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 20% middle class
 - 79% working poor
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -325,3 +321,30 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure]]
+- [[Assets Locations Location City Master Archivist Thomas Scrollkeeper Master Archivist Thomas Scrollkeeper.png]]
+- [[Original Glaucus]]
+- [[Senator]]
+- [[The Senator]]
+- [[Abyssos Prime]]
+- [[Parliament of Echoes (Places)]]
+- [[The Eternal Senate]]
+- [[Rescue Senator Glaucus]]
+- [[Aquabyssos (D&D_References)]]
+- [[Comprehensive-World-Connection-Guide (D&D_References)]]
+- [[Comprehensive-World-Connection-Guide 3 (D&D_References)]]
+- [[Encounter and Loot Generators]]
+- [[Original Glaucus (D&D_References)]]
+- [[Parliament of Echoes (D&D_References)]]
+- [[Random_Tables - Encounter_and_Loot_Generators]]
+- [[The Eternal Senate (D&D_References)]]
+- [[The Senator (D&D_References)]]
+- [[The Senator's Last Stand]]
+- [[Aquabyssos - Session 01 - The Drowning Welcome]]
+- [[Senator (D&D_Statblocks)]]
+- [[Topic Matrix]]
+- [[Topic_Matrix (Indexes)]]

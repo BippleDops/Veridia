@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Nightfall the Broken", "orion nightfall the broken", "Orion Nightfall Broken", "Broken the Nightfall Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Nightfall the Broken
 
 *Aasimar Baker (Commoners), Age 35, Non-binary*
@@ -13,7 +19,6 @@
 Short and athletic, with Dreadlocks white hair and Red eyes. Tan skin. Weather-beaten face showing hard life.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Always speaks in metaphors and riddles
@@ -36,22 +41,18 @@ Runaway from an arranged marriage, starting a new life They've fallen in love wi
 - **Short Term**: Make this month's payment
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Nerys Ironwood the Mystic (Family - Sibling)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
 
-
 ### Thalia Brightblade the Mystic (Professional - Mentor)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Felicia Zephyrblade the Risen (Professional - Mentor)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ### Idris Winterborn the Risen (Professional - Mentor)
 - **Status**: Complicated history
@@ -61,7 +62,6 @@ Runaway from an arranged marriage, starting a new life They've fallen in love wi
 ### Pyria Hawthorne the Cunning (Family - Spouse)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Is the lost heir to the throne

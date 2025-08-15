@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Ravenheart the Broken", "ewan ravenheart the broken", "Ewan Ravenheart Broken", "Broken the Ravenheart Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Ravenheart the Broken
 
 *Aasimar Wizard (Adventurers), Age 43, Female*
@@ -36,37 +42,30 @@ Accidentally gained powers and learning to control them A chance encounter last 
 - **Short Term**: Complete current contract
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Alaric Hawthorne the Wanderer (Personal - Childhood friend)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
 
-
 ### Idris Crystalbrook the Redeemed (Criminal - Accomplice)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
-
 
 ### Baelor Stormwind the Swift (Political - Puppet)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
 
-
 ### Dara Ravenheart the Fallen (Criminal - Informant)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
-
 
 ### Caelum Ironwood the Wanderer (Personal - Nemesis)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
 
-
 ### Rhiannon Emberfall the Risen (Professional - Employee)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Possessed by ancient spirit

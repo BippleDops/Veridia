@@ -39,7 +39,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -89,7 +89,7 @@ Drowned is a undersea element of the setting, known for bioluminescent glow and 
 
 Legends speak of Drowned as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Drowned.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -111,7 +111,7 @@ Mentioned in The Second Prophecy of Winds
 - Someone is hunting a artifact for power
 - A corpse reveals ancient history about this place
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -161,3 +161,28 @@ Mentioned in The Second Prophecy of Winds
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Ancient Aquabyssos Rulers]]
+- [[Aquabyssos Cultural Codex]]
+- [[Deep Mother]]
+- [[The Breathing Stone]]
+- [[The Deep Prophecies]]
+- [[The Deserter's Tale]]
+- [[The Drowned Prophets]]
+- [[The Drowned Village]]
+- [[The Transformed Citizens]]
+- [[Timeline of the Drowning]]
+- [[Abyssos Prime - Inverse Palace]]
+- [[Pressure's End]]
+- [[Screaming Gardens]]
+- [[Surface Signals]]
+- [[Temple of the Sunken Cathedral]]
+- [[The Drowned Embassy]]
+- [[The Drowning Truth]]
+- [[The Phosphor Markets]]
+- [[The Primordial Vaults]]
+- [[The Lock Saboteur]]
+- [[The Tide Rises]]
+- [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]]

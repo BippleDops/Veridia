@@ -47,13 +47,11 @@ This document contains important information regarding Merchant Viktor Geargrind
 ## Description
 Merchant Viktor Geargrind represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -61,20 +59,17 @@ Merchant Viktor Geargrind represents a significant element within the campaign w
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
 
-
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
 - **Law Enforcement**: Town guard
 - **Justice System**: Local magistrate
-
 
 ## Economy
 - **Primary Exports**: Local goods
@@ -110,9 +105,8 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 *Customize as needed for your specific campaign requirements.*
-
 
 ## History
 - **Founding**: Origin story
@@ -153,3 +147,7 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Pressure's End (D&D_References)]]

@@ -34,7 +34,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-unite-the-emperor-unite-the-emperor.svg)
 
@@ -42,7 +41,6 @@ improvements: 20
 
 # Unite the Emperor
 *Lord Commander Octavius Thalassion VII, The Scattered Crown, The Last Emperor's Voice*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -248,7 +246,6 @@ Legends speak of Unite the Emperor as a nexus where past and present converge. L
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -284,3 +281,10 @@ Legends speak of Unite the Emperor as a nexus where past and present converge. L
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Harbor Master S License V1 Harbor Master S License.svg]]
+- [[Assets Portraits Portrait NPC Captain Shadowsail Captain Shadowsail.svg]]
+- [[The Scattered Emperor]]
+- [[The Scattered Emperor (D&D_References)]]

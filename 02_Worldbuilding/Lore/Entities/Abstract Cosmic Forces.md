@@ -103,3 +103,7 @@ Mentioned in The Hidden Prophecy of Shadows
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Entities Abstract Cosmic Forces]]

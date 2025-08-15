@@ -53,7 +53,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -109,7 +109,7 @@ The Depth Market stands as [[Aquabyssos]]'s most dangerous and exotic trading hu
 
 ### The Consortium Formation
 
-**[[[[Time]]line]]**: 300-280 years ago, [[Organization]] of independent traders  
+**[[Time|[[Time]]line]]**: 300-280 years ago, [[Organization]] of independent traders  
 **Need**: Coordination required for survival and mutual protection  
 **Leadership**: [[Master Trader Abyss Currentbinder]] and founding merchants  
 **Goverce**: Development of basic trading laws and mutual defense agreements  
@@ -213,7 +213,7 @@ The Depth Market stands as [[Aquabyssos]]'s most dangerous and exotic trading hu
 
 #### The Deep [[Communications Center]]
 
-**Technology**: Long-range [[Communication Systems]] adapted for deep-sea use  
+**Technology**: Long-range [[Communication_Systems|Communication Systems]] adapted for deep-sea use  
 **Networks**: [[Communication Networks]] connecting to surface and other deep settlements  
 **Information**: Commercial intelligence and market information services  
 **Emergency**: Emergency communication and distress signal capabilities  
@@ -557,7 +557,7 @@ The Depth Market stands as [[Aquabyssos]]'s most dangerous and exotic trading hu
 
 #### Deep-Sea Trading
 
-**Economy**: Unique [[Economic System]] with barter, risk premiums, and information trading  
+**Economy**: Unique [[Economic_System|Economic System]] with barter, risk premiums, and information trading  
 **Reputation**: [[Reputation System]] affecting access to goods and opportunities  
 **Specialization**: Benefits for characters with relevant knowledge and skills  
 **Networks**: Building and maintaining networks of contacts and [[Allies]]  
@@ -578,7 +578,7 @@ The Depth Market stands as [[Aquabyssos]]'s most dangerous and exotic trading hu
 **Conflict**: War between different factions of intelligent deep-sea creatures  
 **Sides**: Choosing sides or trying to maintain neutrality for continued trade  
 **Diplomacy**: Diplomatic missions to negotiate peace or advantageous alliances  
-**Combat**: [[Underwater Combat]] in extreme environment with massive creatures  
+**Combat**: [[Underwater_Combat|Underwater Combat]] in extreme environment with massive creatures  
 **Stakes**: Future of deep-sea trading and market survival
 
 #### The Pressure Plague
@@ -652,7 +652,7 @@ The Depth Market stands as [[Aquabyssos]]'s most dangerous and exotic trading hu
 **Support**: Informal support arrangements during major crises  
 **Taxation**: Negotiations over taxation of deep-sea trade
 
-### [[The [[Free Current]]]]
+### [[Free Current|The [[Free Current]]]]
 
 **Philosophy**: Shared commitment to free trade and minimal government interference  
 **Cooperation**: Cooperation on trade routes and mutual defense  
@@ -705,7 +705,7 @@ The Depth Market stands as [[Aquabyssos]]'s most dangerous and exotic trading hu
 - [[Abyssal Crystals]]
 - [[Deep-Sea Artifacts (D&D_References)]]
 - [[Pressure Technology]]
-- [[Depth [[Merchant's Consortium]]]]
+- [[Merchant's Consortium|Depth [[Merchant's Consortium]]]]
 
 ## Player-Facing Summary
 
@@ -722,7 +722,7 @@ Legends speak of The Depth Market as a nexus where past and present converge. Lo
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -743,13 +743,11 @@ The Depth Market is a notable location characterized by its unique features and 
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -757,13 +755,11 @@ The Depth Market is a notable location characterized by its unique features and 
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -808,7 +804,6 @@ Key stop on spices trade route
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -844,3 +839,11 @@ Key stop on spices trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Abyssos Prime]]
+- [[The Sinking Atoll]]
+- [[Void Currents]]
+- [[The Sinking Atoll (D&D_References)]]
+- [[Void Currents (D&D_References)]]

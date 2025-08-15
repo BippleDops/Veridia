@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Ironwood the Risen", "wynne ironwood the risen", "Wynne Ironwood Risen", "Risen the Ironwood Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Ironwood the Risen
 
 *Goliath Assassin (Villains), Age 75, Non-binary*
@@ -36,7 +42,6 @@ Driven mad by knowledge humanity wasn't meant to know They've been marked by a s
 - **Short Term**: Make this month's payment
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Orion Hawthorne the Lost (Criminal - Target)
 - **Status**: Strong and trusting
@@ -47,21 +52,17 @@ Driven mad by knowledge humanity wasn't meant to know They've been marked by a s
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
 
-
 ### Branwen Underhill the Risen (Professional - Mentor)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ### Qadim Frostwhisper the Broken (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Ewan Silverleaf the Fallen (Criminal - Informant)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Believes they're saving the world

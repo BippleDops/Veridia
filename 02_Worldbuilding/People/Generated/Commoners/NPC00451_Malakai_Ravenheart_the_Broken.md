@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Ravenheart the Broken", "malakai ravenheart the broken", "Malakai Ravenheart Broken", "Broken the Ravenheart Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Ravenheart the Broken
 
 *Dwarf Fisher (Commoners), Age 45, Non-binary*
@@ -13,7 +19,6 @@
 Towering and muscular, with Partially shaved auburn hair and Black eyes. Weathered skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Incredibly optimistic despite evidence; Flirts with everyone regardless of interest; Sees doom and gloom everywhere
@@ -42,7 +47,6 @@ Family has worked the same trade for generations, but times are changing A proph
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Alaric Proudmore the Risen (Family - Spouse)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
@@ -56,7 +60,6 @@ Family has worked the same trade for generations, but times are changing A proph
 ### Baelor Emberfall the Risen (Criminal - Informant)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Is the lost heir to the throne

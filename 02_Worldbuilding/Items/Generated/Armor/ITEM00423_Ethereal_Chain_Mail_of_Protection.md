@@ -1,3 +1,9 @@
+---
+aliases: ["Ethereal Chain Mail of Protection", "ethereal chain mail of protection", "Protection of Mail Chain Ethereal"]
+tags: [item, equipment]
+type: item
+---
+
 # Ethereal Chain Mail of Protection
 
 *Armor, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A ethereal chain mail bearing ancient runes
 - Resistance to one damage type
 - No stealth disadvantage
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -32,7 +36,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.381Z*

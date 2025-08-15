@@ -1,6 +1,5 @@
 ---
 
-
 title: Spell Slots
 type: spell-slots
 tags:
@@ -121,7 +120,6 @@ Apply this rule when:
 - Uses per day: 3
 - Comparable feature: Action Surge (1/rest)
 - Balance note: More uses but weaker effect
-
 
 ## Common Mistakes
 *Frequent misunderstandings to avoid*

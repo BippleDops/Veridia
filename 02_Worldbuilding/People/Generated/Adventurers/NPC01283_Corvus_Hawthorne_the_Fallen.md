@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Hawthorne the Fallen", "corvus hawthorne the fallen", "Corvus Hawthorne Fallen", "Fallen the Hawthorne Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Hawthorne the Fallen
 
 *Goliath Cleric (Adventurers), Age 73, Male*
@@ -13,7 +19,6 @@
 Above average and delicate, with Mohawk silver hair and Blue eyes. Pale skin. Birthmark shaped like a constellation.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Never backs down from any challenge; Extremely superstitious about everything
@@ -36,7 +41,6 @@ Running from a dark past that won't stay buried A family member's death has left
 - **Short Term**: Make this month's payment
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Kaelen Jadeclaw the Strong (Criminal - Handler)
 - **Status**: Strained but maintaining
@@ -46,7 +50,6 @@ Running from a dark past that won't stay buried A family member's death has left
 ### Zephyr Zephyrblade the Guardian (Criminal - Accomplice)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ### Pyria Crystalbrook the Risen (Criminal - Fence)
 - **Status**: Strained but maintaining

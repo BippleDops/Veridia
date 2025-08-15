@@ -79,3 +79,14 @@ Mentioned in The Second Prophecy of Winds
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Master_Spell_Compendium]]
+- [[Arcana Rare Xdmg]]
+- [[Magic Item Table G]]
+- [[Random Magic Items Arcana]]
+- [[arcana-rare-xdmg (tables)]]
+- [[magic-item-table-g (tables)]]
+- [[random-magic-items-arcana (tables)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Underhill the Seeker", "ewan underhill the seeker", "Ewan Underhill Seeker", "Seeker the Underhill Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Underhill the Seeker
 
 *Half-Elf Crime Boss (Villains), Age 47, Male*
@@ -13,7 +19,6 @@
 Tall and wiry, with Tied back blonde hair and Black eyes. Dark skin. Warm smile that puts people at ease.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Always tells the absolute truth; Collects unusual and worthless objects
@@ -36,22 +41,18 @@ Corrupted by an artifact or dark magic They've fallen in love with someone they 
 - **Short Term**: Sabotage competition
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Corvus Blackstone the Scholar (Criminal - Informant)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Urien Silverleaf the Strong (Criminal - Informant)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
 
-
 ### Idris Keenblade the Lost (Criminal - Handler)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ### Caelum Darkwater the Cunning (Family - Parent)
 - **Status**: Strained but maintaining
@@ -61,7 +62,6 @@ Corrupted by an artifact or dark magic They've fallen in love with someone they 
 ### Zephyr Nightfall the Fallen (Personal - Ex-lover)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ### Pyria Goldleaf the Wanderer (Criminal - Target)
 - **Status**: Blood oath bound

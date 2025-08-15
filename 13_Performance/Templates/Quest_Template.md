@@ -47,7 +47,7 @@ modified: '2025-08-14'
 *What's really going on*
 
 ### Quest Giver
-**Name**: [[npc]]
+**Name**: [[Npc|npc]]
 **Location**: 
 **Motivation**: 
 **Information**: 
@@ -91,15 +91,15 @@ modified: '2025-08-14'
 
 ## Semantic Connections
 *Related concepts and locations:*
-- [[dwarves on the move group leader mtf]]
+- [[Dwarves on the Move Group Leader Mtf|dwarves on the move group leader mtf]]
 - [[githzerai-groups-githzerai-mission-purpose-mtf]]
 - [[step_017_implement_audio_organization]]
 - [[guildhall]]
-- [[guild artisan]]
-- [[githzerai groups githzerai group leader mtf]]
-- [[guild artisan guild merchant variant]]
-- [[fiendish cults cult organization mtf]]
-- [[new organizations]]
+- [[Guild Artisan|guild artisan]]
+- [[Githzerai Groups Githzerai Group Leader Mtf|githzerai groups githzerai group leader mtf]]
+- [[Guild Artisan Guild Merchant Variant|guild artisan guild merchant variant]]
+- [[Fiendish Cults Cult Organization Mtf|fiendish cults cult organization mtf]]
+- [[New Organizations|new organizations]]
 - [[Border Fortresses]]
 
 ## Plot Hooks
@@ -111,3 +111,7 @@ modified: '2025-08-14'
 ## 09_Templates Specific Content
 
 Contextual improvement based on 09_Templates
+
+## References
+
+- [[NPC Name]]

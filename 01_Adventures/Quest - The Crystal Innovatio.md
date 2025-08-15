@@ -14,7 +14,6 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 > [!figure] Asset
 ![](04_Resources/Assets/Symbols/symbol-heraldry-quest-the-crystal-innovatio-quest-the-crystal-innovatio.svg)
 
@@ -37,12 +36,10 @@ updated: '2025-08-13T01:18:36.648784+00:00'
 
 > [!figure] Heraldry
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -168,7 +165,6 @@ Contextual improvement based on 12_Research
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## Hooks
 - **Personal**: Character connection
 - **Professional**: Hired for the job
@@ -208,3 +204,8 @@ Contextual improvement based on 12_Research
 ## Scaling Options
 - **Easy Mode**: Reduced difficulty
 - **Hard Mode**: Increased challenge
+
+## References
+
+- [[The Forsaken Consortium Collective]]
+- [[The Forsaken Consortium Collective (D&D_References)]]

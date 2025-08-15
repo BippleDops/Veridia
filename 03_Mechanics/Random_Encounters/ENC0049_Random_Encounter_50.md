@@ -1,4 +1,5 @@
 ---
+aliases: ["Random Encounter 50", "random encounter 50", "50 Encounter Random"]
 tags: [generated]
 id: ENC0049_Random_Encounter_50
 created: 2025-08-15T04:09:51.450Z
@@ -18,11 +19,8 @@ Enemies coordinate attacks and use terrain to their advantage
 ## Treasure
 731 gp in various coins
 
-
-
 ---
 *Generated: 2025-08-15T03:21:47.440Z*
-
 
 ## Scaling by Party Level
 - **Level 1-4**: Reduce enemies

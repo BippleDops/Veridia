@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Voidwalker the Swift", "vesper voidwalker the swift", "Vesper Voidwalker Swift", "Swift the Voidwalker Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Voidwalker the Swift
 
 *Elf Assassin (Villains), Age 19, Male*
@@ -13,7 +19,6 @@
 Very tall and imposing, with Shaved auburn hair and Hazel eyes. Scarred skin. Constantly changing hair color.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Sees doom and gloom everywhere
@@ -36,12 +41,10 @@ Born into evil but questioning their path They're being blackmailed by someone f
 - **Short Term**: Find missing person
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Erasmus Frostwhisper the Cunning (Family - Sibling)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ### Zephyr Goldleaf the Fallen (Political - Puppet)
 - **Status**: Secretly hostile
@@ -56,7 +59,6 @@ Born into evil but questioning their path They're being blackmailed by someone f
 ### Cedric Frostwhisper the Fallen (Professional - Rival)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Knows how the world will end

@@ -256,3 +256,39 @@ Legends speak of The Shadow Conspiracy as a nexus where past and present converg
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Quest - Foreign Interests]]
+- [[Quest - The Crown Reborn]]
+- [[Introduction]]
+- [[Investigate Shadow Surgeons (Criminal_Organizations)]]
+- [[Shadow Conspiracy Investigation (Criminal_Organizations)]]
+- [[Shadow Marina (Criminal_Organizations)]]
+- [[Shadow Surgeon Strike Team (Criminal_Organizations)]]
+- [[The Parliament of Nobody (Government_and_Parliament)]]
+- [[The Light Preservation Society]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure]]
+- [[Marina Red Tide Coralheart - Aquabyssos]]
+- [[Compass Quest]]
+- [[The Umbral Nexus]]
+- [[Whisper Island]]
+- [[Shadow Conspiracy Investigation]]
+- [[Ancient Aquabyssos Rulers (D&D_References)]]
+- [[Aquabyssos - Session 04 - High Tide Horror]]
+- [[Compass Quest (D&D_References)]]
+- [[Consciousness Manipulation Technology]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure (D&D_References)]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure 3 (D&D_References)]]
+- [[Investigate Shadow Surgeons]]
+- [[Marina Red Tide Coralheart - Aquabyssos (D&D_References)]]
+- [[Shadow Marina]]
+- [[Shadow Surgeon Strike Team]]
+- [[The Light Preservation Society (D&D_References)]]
+- [[The Parliament of Nobody]]
+- [[The Umbral Nexus (D&D_References)]]
+- [[Whisper Island (D&D_References)]]
+- [[Ambush Point (D&D_Statblocks)]]
+- [[Diplomatic Tides (D&D_Statblocks)]]

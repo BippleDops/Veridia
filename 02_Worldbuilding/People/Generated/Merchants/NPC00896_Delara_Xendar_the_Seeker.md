@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Xendar the Seeker", "delara xendar the seeker", "Delara Xendar Seeker", "Seeker the Xendar Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Xendar the Seeker
 
 *Tiefling Shopkeeper (Merchants), Age 36, Non-binary*
@@ -13,7 +19,6 @@
 Short and compact, with Braided elaborately gray hair and Violet eyes. Freckled skin. Intricate tattoos covering arms.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Extremely superstitious about everything
@@ -36,17 +41,14 @@ Inherited a failing business and turned it around Strange abilities have begun m
 - **Short Term**: Avoid the authorities
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Branwen Ironforge the Risen (Family - Spouse)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Cedric Dawnstrider the Fallen (Political - Patron)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ### Felicia Proudmore the Cunning (Political - Puppet)
 - **Status**: Blood oath bound
@@ -57,11 +59,9 @@ Inherited a failing business and turned it around Strange abilities have begun m
 - **Status**: Professional only
 - **History**: United by common enemy
 
-
 ### Gareth Voidwalker the Cunning (Personal - Nemesis)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Running a cult from their basement

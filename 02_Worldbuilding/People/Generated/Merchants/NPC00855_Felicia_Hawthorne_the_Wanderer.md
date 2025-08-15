@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Hawthorne the Wanderer", "felicia hawthorne the wanderer", "Felicia Hawthorne Wanderer", "Wanderer the Hawthorne Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Hawthorne the Wanderer
 
 *Goliath Appraiser (Merchants), Age 65, Non-binary*
@@ -36,17 +42,14 @@ Uses their business as cover for other activities They recently discovered a sec
 - **Short Term**: Survive until next week
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Vesper Ashford the Fallen (Political - Ally)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Faelyn Youngblood the Broken (Political - Opposition)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ### Hestara Stormwind the Guardian (Political - Ally)
 - **Status**: Strained but maintaining
@@ -57,11 +60,9 @@ Uses their business as cover for other activities They recently discovered a sec
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Drusilla Crystalbrook the Strong (Criminal - Informant)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Smuggles illegal magical items

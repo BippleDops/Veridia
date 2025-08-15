@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Winterborn the Scholar", "lyanna winterborn the scholar", "Lyanna Winterborn Scholar", "Scholar the Winterborn Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Winterborn the Scholar
 
 *Gnome Corrupt Noble (Villains), Age 38, Male*
@@ -36,27 +42,22 @@ Born into evil but questioning their path An old debt has come due at the worst 
 - **Short Term**: Gather information
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Aeliana Ravenheart the Guardian (Political - Patron)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
 
-
 ### Nerys Nightfall the Mystic (Criminal - Fence)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
-
 
 ### Dara Ironforge the Scholar (Criminal - Accomplice)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Hestara Goldleaf the Guardian (Personal - Love interest)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ### Erasmus Xendar the Swift (Criminal - Fence)
 - **Status**: Mutually beneficial

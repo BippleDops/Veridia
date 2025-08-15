@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Lightbringer the Lost", "thalia lightbringer the lost", "Thalia Lightbringer Lost", "Lost the Lightbringer Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Lightbringer the Lost
 
 *Dragonborn Cultist (Villains), Age 27, Non-binary*
@@ -36,22 +42,18 @@ Believes their evil acts serve a greater good They've been marked by a secret so
 - **Short Term**: Avoid the authorities
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Faelyn Proudmore the Risen (Family - Sibling)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Gareth Ashford the Seeker (Political - Puppet)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
 ### Qadim Nightfall the Scholar (Criminal - Informant)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ### Pyria Silverleaf the Seeker (Family - Spouse)
 - **Status**: Secretly hostile
@@ -61,7 +63,6 @@ Believes their evil acts serve a greater good They've been marked by a secret so
 ### Pyria Proudmore the Strong (Criminal - Fence)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ### Gareth Frostwhisper the Wise (Professional - Rival)
 - **Status**: Complicated history

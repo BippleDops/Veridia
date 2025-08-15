@@ -1,11 +1,11 @@
 ---
+aliases: ["Hilda Darkwater", "hilda darkwater", "Darkwater Hilda"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Discovered magical talent late in life. Years ago, they found an ancient artifac
 ### Skills
 Athletics, Investigation
 
-
-
 ## Possessions
 - 70 gold pieces
 - Healing potion
@@ -91,7 +89,6 @@ Athletics, Investigation
 
 ---
 *Generated: 2025-08-15T03:21:04.039Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

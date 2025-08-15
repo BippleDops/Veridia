@@ -1,4 +1,5 @@
 ---
+aliases: ["Prophecy of the Dark Times", "prophecy of the dark times", "Prophecy of Dark Times", "Times Dark the of Prophecy"]
 tags: [generated]
 id: LORE0012_Prophecy_of_the_Dark_Times
 created: 2025-08-15T04:09:51.129Z

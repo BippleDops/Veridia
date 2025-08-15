@@ -1,4 +1,5 @@
 ---
+aliases: ["Captain's Request", "captain's request", "Request Captain's"]
 tags: [quest, adventure, generated]
 type: quest
 ---
@@ -21,8 +22,6 @@ Map the uncharted the sunken temple and report findings
 ### Secondary
 - Establish future contacts
 - Gather intelligence on enemy plans
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they was falsely accused of a crime, which changed their life forever. Now, circumstances demand immediate action.
@@ -54,8 +53,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Save civilians and risk failure - Heroes to the people but objective compromised
 2. Complete mission at any cost - Success but blood on hands
-
-
 
 ## Rewards
 ### On Success

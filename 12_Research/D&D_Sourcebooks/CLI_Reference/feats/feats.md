@@ -67,3 +67,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[QUEST0018_The_Sunken_Temple_Uprising]]
+- [[Master_Spell_Compendium]]

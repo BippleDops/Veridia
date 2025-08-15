@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Crystalbrook the Broken", "jorah crystalbrook the broken", "Jorah Crystalbrook Broken", "Broken the Crystalbrook Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Crystalbrook the Broken
 
 *Half-Orc Ambassador (Nobles), Age 70, Non-binary*
@@ -36,12 +42,10 @@ Secretly adopted into nobility, living in fear of discovery A prophetic dream ha
 - **Short Term**: Complete current contract
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Elric Thornweave (Political - Puppet)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ### Thalia Keenblade (Criminal - Fence)
 - **Status**: Recently reconciled

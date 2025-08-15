@@ -34,7 +34,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-banker-titus-goldcurrent-banker-titus-goldcurrent.svg)
 
@@ -42,7 +41,6 @@ improvements: 20
 
 # Banker Titus Goldcurrent
 *The Pearl Counter, Master of Depths Fice, The Pressure Baron*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -256,7 +254,6 @@ Mentioned in The Second Prophecy of Depths
 - 20% middle class
 - 79% working poor
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -292,3 +289,26 @@ Mentioned in The Second Prophecy of Depths
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Major Trading Companies]]
+- [[Trade Goods Catalog]]
+- [[Economic Crime Methods]]
+- [[Economic Systems and Currency]]
+- [[The Grand Trade Routes]]
+- [[Assets Portraits Portrait NPC Captain Scarlet Torrent Captain Scarlet Torrent.svg]]
+- [[Senator]]
+- [[Commercial Hubs and Markets]]
+- [[The Crystal Stock Exchange]]
+- [[The Phosphor Markets]]
+- [[Commercial Hubs and Markets (D&D_References)]]
+- [[Economic Crime Methods (D&D_References)]]
+- [[Economic Systems and Currency (D&D_References)]]
+- [[Economic Warfare and Trade Sanctions]]
+- [[Major Trading Companies (D&D_References)]]
+- [[The Crystal Stock Exchange (D&D_References)]]
+- [[The Grand Trade Routes (D&D_References)]]
+- [[The Phosphor Markets (D&D_References)]]
+- [[Trade Goods Catalog (D&D_References)]]
+- [[Senator (D&D_Statblocks)]]

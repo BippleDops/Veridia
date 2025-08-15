@@ -79,3 +79,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Someone is protecting information for power
 - A corpse reveals a conspiracy about the government
+
+## References
+
+- [[Racial Feats Xge]]
+- [[racial-feats-xge (tables)]]

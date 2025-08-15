@@ -1,3 +1,9 @@
+---
+aliases: ["Concentrated Powder of Vigor", "concentrated powder of vigor", "Vigor of Powder Concentrated"]
+tags: [item, equipment]
+type: item
+---
+
 # Concentrated Powder of Vigor
 
 *Consumables, Rare*
@@ -15,8 +21,6 @@ A concentrated powder swirling with colors
 - Resistance for 10 minutes
 - Fly for 1 hour
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -31,7 +35,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.446Z*

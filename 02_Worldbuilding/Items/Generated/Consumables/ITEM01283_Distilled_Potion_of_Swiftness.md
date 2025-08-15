@@ -1,3 +1,9 @@
+---
+aliases: ["Distilled Potion of Swiftness", "distilled potion of swiftness", "Swiftness of Potion Distilled"]
+tags: [item, equipment]
+type: item
+---
+
 # Distilled Potion of Swiftness
 
 *Consumables, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A distilled potion glowing softly
 - Increase speed by 10 ft
 - Increase speed by 10 ft
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -30,7 +34,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.473Z*

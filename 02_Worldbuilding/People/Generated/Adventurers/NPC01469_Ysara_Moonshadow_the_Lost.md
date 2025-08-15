@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Moonshadow the Lost", "ysara moonshadow the lost", "Ysara Moonshadow Lost", "Lost the Moonshadow Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Moonshadow the Lost
 
 *Half-Elf Bard (Adventurers), Age 39, Male*
@@ -13,7 +19,6 @@
 Short and delicate, with Partially shaved silver hair and Blue eyes. Pale skin. Unusual eye color for their race.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Flirts with everyone regardless of interest; Never backs down from any challenge
@@ -36,12 +41,10 @@ Chosen by fate to fulfill an ancient prophecy A chance encounter last winter cha
 - **Short Term**: Sabotage competition
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Caelum Jadeclaw the Cunning (Personal - Love interest)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ### Solas Frostwhisper the Scholar (Family - Child)
 - **Status**: Professional only
@@ -51,7 +54,6 @@ Chosen by fate to fulfill an ancient prophecy A chance encounter last winter cha
 ### Urien Blackstone the Mystic (Professional - Partner)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ### Lyanna Underhill the Risen (Personal - Best friend)
 - **Status**: Secretly hostile

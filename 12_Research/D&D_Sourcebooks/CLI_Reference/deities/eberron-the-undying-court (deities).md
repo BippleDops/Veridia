@@ -75,3 +75,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Cleric Xphb Grave Domain Xge]]
+- [[cleric-xphb-grave-domain-xge (classes)]]
+- [[cleric-xphb-grave-domain-xge 2 (classes)]]
+- [[Deities of Eberron]]
+- [[deities-of-eberron (tables)]]

@@ -64,3 +64,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Complete Faction Warfare System]]
+- [[Complete_Faction_Warfare_System (D&D_References)]]

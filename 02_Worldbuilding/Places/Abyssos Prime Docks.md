@@ -54,7 +54,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -193,7 +193,7 @@ The Abyssos Prime Docks represent the mari[[Time]] heart of the crown city, a sp
 
 #### Trade Guildhalls
 
-**Purpose**: Headquarters for major [[Merchant Guilds]] and trading companies  
+**Purpose**: Headquarters for major [[Merchant_Guilds|Merchant Guilds]] and trading companies  
 **Services**: Business facilities, meeting halls, and commercial negotiation spaces  
 **Information**: Commercial intelligence gathering and [[Market Analysis]]  
 **Networking**: Social spaces facilitating business relationships and deals  
@@ -207,7 +207,7 @@ The Abyssos Prime Docks represent the mari[[Time]] heart of the crown city, a sp
 **Vessels**: Accommodation for the largest and most exotic deep-sea craft  
 **Innovation**: Cutting-edge technology for deep-pressure cargo handling
 
-#### [[Pressure Lock Systems]]
+#### [[Assets Locations Location City Pressure Lock Systems Pressure Lock Systems.svg|Pressure Lock Systems]]
 
 **Function**: Managing vessels transitioning between different [[Pressure Zones]]  
 **Technology**: Complex mechanical and magical systems for pressure equalization  
@@ -495,7 +495,7 @@ The Abyssos Prime Docks represent the mari[[Time]] heart of the crown city, a sp
 **Community**: Strong supporter of the independent trader community  
 **Mentor**: Mentor to younger traders and maritime entrepreneurs
 
-#### Master Shipwright [[[[Coral]] Craftsman]]
+#### Master Shipwright [[Coral|[[Coral]] Craftsman]]
 
 **Skill**: Master craftsman with unparalleled shipbuilding expertise  
 **Innovation**: Developer of new shipbuilding techniques and designs  
@@ -693,7 +693,7 @@ The Abyssos Prime Docks represent the mari[[Time]] heart of the crown city, a sp
 **Intelligence**: Intelligence sharing for security purposes  
 **Emergency**: Military support during emergencies
 
-### [[The [[Free Current]]]]
+### [[Free Current|The [[Free Current]]]]
 
 **Competition**: Commercial competition with alternative trading hub  
 **Cooperation**: Some cooperation on trade routes and security  
@@ -715,7 +715,7 @@ The Abyssos Prime Docks represent the mari[[Time]] heart of the crown city, a sp
 > Deep beneath the harbor lies an ancient vault from a pre-Aquabyssos civilization, accessible only during the lowest tides and known only to [[Harbormaster Tidal Stormcrest]]. The vault contains artifacts and knowledge that could revolutionize underwater construction, but also dangerous weapons that could threaten the entire city if misused. The harbormaster has been secretly studying these artifacts while trying to decide whether to reveal their existence to the crown.
 
 > [!secret] DM Secret - The [[Smuggler]]'s Network
-> A sophisticated smuggling network operates within the port, using a combination of corrupted officials, hidden passages in the old harbor foundations, and magical concealment to move illegal goods. The network is led by someone within the port administration itself, and has connections to [[Criminal Organizations]] throughout Aquabyssos. The operation is so well-organized that it actually helps port operations run more smoothly while evading detection.
+> A sophisticated smuggling network operates within the port, using a combination of corrupted officials, hidden passages in the old harbor foundations, and magical concealment to move illegal goods. The network is led by someone within the port administration itself, and has connections to [[Criminal_Organizations|Criminal Organizations]] throughout Aquabyssos. The operation is so well-organized that it actually helps port operations run more smoothly while evading detection.
 
 > [!secret] DM Secret - The Deep Harbor Entity
 > Something ancient and intelligent lives in the deepest parts of the harbor, a creature that has existed since before the port was built. This entity has a symbiotic relationship with the port, subtly influencing currents and marine life to benefit port operations in exchange for offerings of exotic goods and information about the surface world. Only a few of the oldest port workers know of its existence, and they maintain the traditional offerings that keep it benevolent.
@@ -755,7 +755,7 @@ Legends speak of Abyssos Prime Docks as a nexus where past and present converge.
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -776,13 +776,11 @@ Abyssos Prime Docks is a notable location characterized by its unique features a
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -790,13 +788,11 @@ Abyssos Prime Docks is a notable location characterized by its unique features a
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -852,7 +848,6 @@ Key stop on metals trade route
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -888,3 +883,8 @@ Key stop on metals trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Comprehensive-World-Connection-Guide (D&D_References)]]
+- [[Comprehensive-World-Connection-Guide 3 (D&D_References)]]

@@ -42,13 +42,11 @@ This document contains important information regarding New Tethys and its role w
 ## Description
 New Tethys represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -56,20 +54,17 @@ New Tethys represents a significant element within the campaign world, offering 
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
 
-
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
 - **Law Enforcement**: Town guard
 - **Justice System**: Local magistrate
-
 
 ## Economy
 - **Primary Exports**: Local goods
@@ -107,7 +102,6 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
-
 
 ## History
 - **Founding**: Origin story
@@ -148,3 +142,27 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Aurelius Goldwave]]
+- [[Post-Merge Chronology]]
+- [[Archon Meredith Saltweaver]]
+- [[Captain Garrett Stormcutter]]
+- [[Angels and Depths]]
+- [[Tethyan Hegemony]]
+- [[The Bathyal Palace]]
+- [[The Phosphor Markets]]
+- [[The Vanishing Depths]]
+- [[The Void Touched Depths]]
+- [[The Whispering Depths]]
+- [[Angels and Depths (D&D_References)]]
+- [[Archon Meredith Saltweaver (D&D_References)]]
+- [[Captain Garrett Stormcutter (D&D_References)]]
+- [[Tethyan Hegemony (D&D_References)]]
+- [[The Bathyal Palace (D&D_References)]]
+- [[The Phosphor Markets (D&D_References)]]
+- [[The Vanishing Depths (D&D_References)]]
+- [[The Whispering Depths (D&D_References)]]
+- [[Aurelius Goldwave (D&D_Statblocks)]]
+- [[The Void Touched Depths (D&D_Statblocks)]]

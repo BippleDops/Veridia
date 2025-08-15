@@ -1,3 +1,9 @@
+---
+aliases: ["Adamantine Plate of Protection", "adamantine plate of protection", "Protection of Plate Adamantine"]
+tags: [item, equipment]
+type: item
+---
+
 # Adamantine Plate of Protection
 
 *Armor, Rare (requires attunement)*

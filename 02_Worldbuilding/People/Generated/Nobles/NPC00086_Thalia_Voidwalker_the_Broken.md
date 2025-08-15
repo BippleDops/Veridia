@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Voidwalker the Broken", "thalia voidwalker the broken", "Thalia Voidwalker Broken", "Broken the Voidwalker Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Voidwalker the Broken
 
 *Aasimar Heir (Nobles), Age 72, Non-binary*
@@ -36,22 +42,18 @@ Last survivor of a fallen house, seeking to restore family honor A family member
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Wynne Brightblade (Professional - Employee)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Thalia Ashford (Political - Patron)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Malakai Quicksilver (Criminal - Accomplice)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Secretly funding the rebellion

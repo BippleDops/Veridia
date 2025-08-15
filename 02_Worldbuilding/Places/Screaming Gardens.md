@@ -44,7 +44,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -257,8 +257,8 @@ The gardens exist partially in [[Port Meridian]], where sensitive individuals he
 
 **Related [[Npc]]s**:
 - [[The Conductor]]
-- [[The Scattered [[Emperor]]]]
-- [[Marina-Red-Tide-[[Coral]]heart]]
+- [[Emperor|The Scattered [[Emperor]]]]
+- [[Coral|Marina-Red-Tide-[[Coral]]heart]]
 
 **Related Mechanics**:
 - [[Scream Saturation Rules]]
@@ -290,13 +290,11 @@ Screaming Gardens is a notable location characterized by its unique features and
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -304,13 +302,11 @@ Screaming Gardens is a notable location characterized by its unique features and
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -365,7 +361,6 @@ Ongoing situations affecting Screaming Gardens:
 - 20% middle class
 - 79% working poor
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -401,3 +396,12 @@ Ongoing situations affecting Screaming Gardens:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Comprehensive-World-Connection-Guide]]
+- [[Abyssos Prime]]
+- [[Screaming Gardens - Songwood Grove]]
+- [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
+- [[Comprehensive-World-Connection-Guide (D&D_References)]]
+- [[Comprehensive-World-Connection-Guide 3 (D&D_References)]]

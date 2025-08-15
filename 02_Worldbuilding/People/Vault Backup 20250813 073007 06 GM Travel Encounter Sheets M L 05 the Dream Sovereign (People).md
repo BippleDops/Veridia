@@ -290,3 +290,7 @@ This NPC can serve multiple roles:
 - **Level 5-10**: Standard difficulty
 - **Level 11-15**: Add elite enemies
 - **Level 16-20**: Legendary difficulty
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-noble-palatemaster-v1-noble-palatemaster.png]]

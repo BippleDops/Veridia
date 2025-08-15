@@ -1,3 +1,9 @@
+---
+aliases: ["Refined Oil of Healing", "refined oil of healing", "Healing of Oil Refined"]
+tags: [item, equipment]
+type: item
+---
+
 # Refined Oil of Healing
 
 *Consumables, Rare (requires attunement)*

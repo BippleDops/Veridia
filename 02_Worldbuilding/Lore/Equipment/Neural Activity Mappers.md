@@ -111,3 +111,7 @@ improvements: 20
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[02_Worldbuilding_Equipment_Neural_Activity_Mappers]]

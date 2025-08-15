@@ -1,3 +1,9 @@
+---
+aliases: ["Blazing Hammer of Accuracy", "blazing hammer of accuracy", "Accuracy of Hammer Blazing"]
+tags: [item, equipment]
+type: item
+---
+
 # Blazing Hammer of Accuracy
 
 *Weapons, Uncommon*
@@ -14,8 +20,6 @@ A blazing hammer carved from dragon bone
 - Grants advantage on initiative
 - Critical hits on 19-20
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -30,7 +34,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.359Z*

@@ -134,3 +134,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[reef-shark-xmm (beast)]]
+- [[2 Appendix a Miscellaneous Creatures]]
+- [[2-appendix-a-miscellaneous-creatures (monster-manual-2014)]]
+- [[3 Animals]]
+- [[3-animals (monster-manual-2025)]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[10-appendix-b-creature-stat-blocks (players-handbook-2024)]]
+- [[Monsters by Habitat Underwater Monsters Xmm]]
+- [[Undersea Encounters]]
+- [[Underwater Encounters Levels 14 Xge]]
+- [[Underwater Encounters Levels 510 Xge]]
+- [[monsters-by-habitat-underwater-monsters-xmm (tables)]]
+- [[undersea-encounters (tables)]]
+- [[underwater-encounters-levels-14-xge (tables)]]
+- [[underwater-encounters-levels-510-xge (tables)]]

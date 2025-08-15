@@ -1,3 +1,9 @@
+---
+aliases: ["Cursed Staff of Wounding", "cursed staff of wounding", "Wounding of Staff Cursed"]
+tags: [item, equipment]
+type: item
+---
+
 # Cursed Staff of Wounding
 
 *Weapons, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A cursed staff made of crystallized magic
 - Can strike ethereal creatures
 - Critical hits on 19-20
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -32,7 +36,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.364Z*

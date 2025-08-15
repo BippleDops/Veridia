@@ -1,3 +1,9 @@
+---
+aliases: ["Adamantine Cloak of Protection", "adamantine cloak of protection", "Protection of Cloak Adamantine"]
+tags: [item, equipment]
+type: item
+---
+
 # Adamantine Cloak of Protection
 
 *Armor, Uncommon*

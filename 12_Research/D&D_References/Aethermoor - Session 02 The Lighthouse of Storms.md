@@ -79,7 +79,7 @@ The party's boat cuts through unnatural fog thick as wool. Crystalline formation
 **Jasper's Revelation:** "They're not creating the plague... they're tuning it! Like a conductor with an orchestra of crystals. The Queen's seal was on the orders, but dated next month. How is that possible?"
 
 #### Event 3: The Lighthouse Ascent
-**Location:** [[Lighthouse of Storms|01 Campaigns/Aethermoor/Locations/Lighthouse Of Storms]] - Multiple floors
+**Location:** [[Lighthouse_of_Storms|01 Campaigns/Aethermoor/Locations/Lighthouse Of Storms]] - Multiple floors
 **NPCs:** Infected Experiments (hostile)
 **Outcome:**
 - **Ground Floor:** Ruined laboratory, broken containment circles

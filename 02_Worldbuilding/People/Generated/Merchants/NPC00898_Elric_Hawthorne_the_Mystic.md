@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Hawthorne the Mystic", "elric hawthorne the mystic", "Elric Hawthorne Mystic", "Mystic the Hawthorne Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Hawthorne the Mystic
 
 *Dwarf Broker (Merchants), Age 46, Non-binary*
@@ -13,7 +19,6 @@
 Above average and imposing, with Long and flowing blonde hair and Brown eyes. Freckled skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Sees doom and gloom everywhere; Extremely superstitious about everything
@@ -36,32 +41,26 @@ Inherited a failing business and turned it around They've been marked by a secre
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Rhiannon Ravenheart the Fallen (Family - Parent)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Orion Oakenshield the Lost (Personal - Best friend)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
-
 
 ### Branwen Goldleaf the Lost (Family - Child)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Felicia Ironwood the Mystic (Personal - Ex-lover)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Gareth Voidwalker the Scholar (Criminal - Accomplice)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Killed previous business owner

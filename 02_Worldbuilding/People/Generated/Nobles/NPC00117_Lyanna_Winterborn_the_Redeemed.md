@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Winterborn the Redeemed", "lyanna winterborn the redeemed", "Lyanna Winterborn Redeemed", "Redeemed the Winterborn Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Winterborn the Redeemed
 
 *Firbolg Heir (Nobles), Age 75, Female*
@@ -36,32 +42,26 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Short Term**: Recruit new members
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Cedric Crystalbrook (Political - Ally)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
 
-
 ### Vesper Keenblade (Political - Puppet)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
-
 
 ### Felicia Grimholt (Personal - Nemesis)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
 
-
 ### Baelor Keenblade the Swift (Political - Opposition)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
 
-
 ### Drusilla Dawnstrider (Political - Ally)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Secretly funding the rebellion

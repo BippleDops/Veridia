@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Emberfall the Redeemed", "brenna emberfall the redeemed", "Brenna Emberfall Redeemed", "Redeemed the Emberfall Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Emberfall the Redeemed
 
 *Human Bard (Adventurers), Age 46, Female*
@@ -52,11 +58,9 @@ Searching for a legendary treasure their parent died seeking A family member's d
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
 
-
 ### Caelum Grimholt the Lost (Personal - Ex-lover)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ### Malakai Dawnstrider the Fallen (Professional - Employee)
 - **Status**: Recently reconciled

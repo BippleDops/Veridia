@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Silverleaf the Scholar", "erasmus silverleaf the scholar", "Erasmus Silverleaf Scholar", "Scholar the Silverleaf Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Silverleaf the Scholar
 
 *Half-Orc Dark Wizard (Villains), Age 50, Female*
@@ -13,7 +19,6 @@
 Above average and slender, with Carefully styled auburn hair and Green eyes. Brown skin. Unusual eye color for their race.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Speaks to inanimate objects
@@ -42,7 +47,6 @@ Born into evil but questioning their path They're being blackmailed by someone f
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Pyria Hawthorne the Risen (Political - Puppet)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
@@ -52,11 +56,9 @@ Born into evil but questioning their path They're being blackmailed by someone f
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Zephyr Darkwater the Bold (Family - Sibling)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Was once a renowned hero

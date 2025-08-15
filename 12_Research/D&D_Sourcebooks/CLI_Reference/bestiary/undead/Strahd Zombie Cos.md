@@ -143,3 +143,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - The authorities needs help finding before winter
 - Strange sightings suggest a curse
 - Strange dreams suggest a curse
+
+## References
+
+- [[strahd-zombie-cos (undead)]]

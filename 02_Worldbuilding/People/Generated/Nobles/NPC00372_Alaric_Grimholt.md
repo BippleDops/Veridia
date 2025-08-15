@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Grimholt", "alaric grimholt", "Grimholt Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Grimholt
 
 *Tiefling Courtier (Nobles), Age 66, Non-binary*
@@ -47,16 +53,13 @@ Last survivor of a fallen house, seeking to restore family honor Strange abiliti
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
 
-
 ### Aeliana Darkwater the Risen (Professional - Mentor)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Corvus Emberfall the Seeker (Criminal - Informant)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Actually a bastard with no real claim

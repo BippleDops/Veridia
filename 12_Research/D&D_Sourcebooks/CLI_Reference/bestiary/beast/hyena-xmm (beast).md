@@ -128,3 +128,28 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[menagerie]]
+- [[Hyena Xmm]]
+- [[2 Appendix a Miscellaneous Creatures]]
+- [[2-appendix-a-miscellaneous-creatures (monster-manual-2014)]]
+- [[3 Animals]]
+- [[3-animals (monster-manual-2025)]]
+- [[Desert Encounters Levels 14 Xge]]
+- [[Forest Encounters Levels 14 Xge]]
+- [[Grassland Encounters Levels 1720 Xge]]
+- [[Monsters by Habitat Forest Monsters Xmm]]
+- [[Monsters by Habitat Grassland Monsters Xmm]]
+- [[Monsters by Habitat Hill Monsters Xmm]]
+- [[Probabilities Sylvan Forest Encounters]]
+- [[Sylvan Forest Encounters]]
+- [[desert-encounters-levels-14-xge (tables)]]
+- [[forest-encounters-levels-14-xge (tables)]]
+- [[grassland-encounters-levels-1720-xge (tables)]]
+- [[monsters-by-habitat-forest-monsters-xmm (tables)]]
+- [[monsters-by-habitat-grassland-monsters-xmm (tables)]]
+- [[monsters-by-habitat-hill-monsters-xmm (tables)]]
+- [[probabilities-sylvan-forest-encounters (tables)]]
+- [[sylvan-forest-encounters (tables)]]

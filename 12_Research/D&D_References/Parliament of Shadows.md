@@ -68,3 +68,13 @@ Mentioned in The Hidden Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## References
+
+- [[Party Shadows (Criminal_Organizations)]]
+- [[House Shadowmere (Houses_and_Nobility)]]
+- [[Houses_and_Nobility - House Shadowmere]]
+- [[Party Shadows]]
+- [[Topic Matrix]]
+- [[Topic_Matrix (Indexes)]]

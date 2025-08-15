@@ -293,3 +293,19 @@ Legends speak of Shadow Surgeons Collective as a nexus where past and present co
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[The Shadow Trade Network]]
+- [[Merchant's Covenant]]
+- [[Shadow Merchant Riptide]]
+- [[Sister Morwyn]]
+- [[The Maw of Darkness]]
+- [[Aquabyssos - Session 04 - High Tide Horror]]
+- [[Merchant's Covenant (D&D_References)]]
+- [[Shadow Merchant Riptide (D&D_References)]]
+- [[Sister Morwyn (D&D_References)]]
+- [[Find the Grief Bomb (D&D_Statblocks)]]
+- [[The Maw of Darkness (D&D_Statblocks)]]

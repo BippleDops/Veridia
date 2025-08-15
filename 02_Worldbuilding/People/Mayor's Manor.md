@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-mayor-s-manor-mayor-s-manor.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -187,7 +185,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -257,3 +254,11 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City Lady Vivienne the Unfrozen Lady Vivienne the Unfrozen.svg]]
+- [[Assets Locations Location City Marine Druids Marine Druids.svg]]
+- [[Assets Locations Location City Prophetic Dreams Prophetic Dreams.svg]]
+- [[Assets Portraits Portrait NPC Gallery Guide Captain Marina Civicvoice Gallery Guide Captain Marina Civicvoice.svg]]
+- [[Master_Wind_Singer_Melody_Tradition]]

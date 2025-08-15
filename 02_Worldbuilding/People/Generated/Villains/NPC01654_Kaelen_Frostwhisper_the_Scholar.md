@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Frostwhisper the Scholar", "kaelen frostwhisper the scholar", "Kaelen Frostwhisper Scholar", "Scholar the Frostwhisper Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Frostwhisper the Scholar
 
 *Human Crime Boss (Villains), Age 33, Female*
@@ -36,12 +42,10 @@ Corrupted by an artifact or dark magic They've been marked by a secret society.
 - **Short Term**: Find missing person
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Aeliana Stormwind the Seeker (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ### Aldric Keenblade the Cunning (Criminal - Accomplice)
 - **Status**: One-sided affection

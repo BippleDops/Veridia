@@ -26,3 +26,9 @@ Further information about this topic will be developed as the campaign progresse
 - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery
+
+## References
+
+- [[Assets Locations Location City Guildmaster Harwick V1 Guildmaster Harwick.png]]
+- [[Assets Locations Location City Lady Vivienne the Unfrozen Lady Vivienne the Unfrozen.svg]]
+- [[Assets Locations Location City Master Gardener Sage Harmony Bloomtender Master Gardener Sage Harmony Bloomtender.svg]]

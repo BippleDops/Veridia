@@ -621,3 +621,12 @@ The extensive festival calendar also provides natural campaign pacing, with seas
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Ironhold]]
+- [[Sylvanheart]]
+- [[Aquabyssos (D&D_References)]]
+- [[Crystalhaven (D&D_References)]]
+- [[Ironhold (D&D_References)]]
+- [[Sylvanheart (D&D_References)]]

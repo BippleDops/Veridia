@@ -58,13 +58,13 @@ modified: '2025-08-14'
 
 ## Semantic Connections
 *Related concepts and locations:*
-- [[Nightmarket Plaza (D&D References)]]
+- [[Nightmarket Plaza (D&D_References)|Nightmarket Plaza (D&D References)]]
 - [[trade-goods-phb (tables)]]
-- [[Shadow Broker Maximian Darkmarket (D&D References)]]
-- [[Archmerchant Codex Goldstrea (D&D References)]]
-- [[Deputy Archmerchant Scroll Deepmin (D&D References)]]
-- [[Deputy Archmerchant Scroll Deepmind (D&D References)]]
-- [[Finn Deepmarket (D&D References)]]
+- [[Shadow Broker Maximian Darkmarket (D&D_References)|Shadow Broker Maximian Darkmarket (D&D References)]]
+- [[Archmerchant Codex Goldstrea (D&D_References)|Archmerchant Codex Goldstrea (D&D References)]]
+- [[Deputy Archmerchant Scroll Deepmin (D&D_References)|Deputy Archmerchant Scroll Deepmin (D&D References)]]
+- [[Deputy Archmerchant Scroll Deepmind (D&D_References)|Deputy Archmerchant Scroll Deepmind (D&D References)]]
+- [[Finn Deepmarket (D&D_References)|Finn Deepmarket (D&D References)]]
 - [[trade-goods-xdmg (tables)]]
 
 ## Plot Hooks

@@ -34,7 +34,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 
 # Queen Seraphina Lumengarde
@@ -392,7 +391,6 @@ Member of House Lionblood - Trait: divine blood
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## Daily Routine
 - **Morning**: Typical activities

@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Proudmore the Broken", "nerys proudmore the broken", "Nerys Proudmore Broken", "Broken the Proudmore Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Proudmore the Broken
 
 *Dragonborn Trader (Merchants), Age 64, Non-binary*
@@ -36,22 +42,18 @@ Built their business from nothing through cunning and hard work A prophetic drea
 - **Short Term**: Find missing person
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Alaric Hawthorne the Bold (Family - Parent)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Hestara Darkwater the Fallen (Family - Spouse)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
 
-
 ### Felicia Darkwater the Mystic (Personal - Nemesis)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Smuggles illegal magical items

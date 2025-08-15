@@ -88,3 +88,8 @@ Mentioned in The Hidden Prophecy of Shadows
 
 - A map reveals a conspiracy about this place
 - A map reveals a conspiracy about the cult
+
+## References
+
+- [[Drow Deities the Dark Seldarine Mtf]]
+- [[drow-deities-the-dark-seldarine-mtf (tables)]]

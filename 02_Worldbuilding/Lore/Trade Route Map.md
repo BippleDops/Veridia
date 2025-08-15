@@ -94,3 +94,7 @@ Trade Route Map represents a crucial aspect of the world's history, cosmology, o
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Trade_Route_Map (02_Worldbuilding)]]

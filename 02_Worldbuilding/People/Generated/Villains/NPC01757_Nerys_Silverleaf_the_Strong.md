@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Silverleaf the Strong", "nerys silverleaf the strong", "Nerys Silverleaf Strong", "Strong the Silverleaf Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Silverleaf the Strong
 
 *Human Crime Boss (Villains), Age 23, Male*
@@ -13,7 +19,6 @@
 Below average and athletic, with Dreadlocks auburn hair and Brown eyes. Olive skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Collects unusual and worthless objects; Flirts with everyone regardless of interest; Believes in every conspiracy theory
@@ -36,22 +41,18 @@ Corrupted by an artifact or dark magic Strange abilities have begun manifesting 
 - **Short Term**: Complete current contract
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Rhiannon Darkwater the Swift (Personal - Childhood friend)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
 
-
 ### Aldric Emberfall the Lost (Family - Spouse)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Faelyn Dawnstrider the Cunning (Professional - Mentor)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Knows how the world will end

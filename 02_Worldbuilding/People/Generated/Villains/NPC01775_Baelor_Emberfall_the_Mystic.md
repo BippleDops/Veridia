@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Emberfall the Mystic", "baelor emberfall the mystic", "Baelor Emberfall Mystic", "Mystic the Emberfall Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Emberfall the Mystic
 
 *Half-Elf Assassin (Villains), Age 41, Non-binary*
@@ -36,32 +42,26 @@ Corrupted by an artifact or dark magic They're being blackmailed by someone from
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Drusilla Ravenheart the Broken (Professional - Mentor)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Caelum Voidwalker the Guardian (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
-
 
 ### Branwen Winterborn the Broken (Family - Spouse)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
 
-
 ### Baelor Darkwater the Strong (Family - Spouse)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Drusilla Youngblood the Redeemed (Professional - Partner)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Believes they're saving the world

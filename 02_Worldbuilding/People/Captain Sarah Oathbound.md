@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-sarah-oathbound-captain-sarah-oathbound.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -195,7 +193,6 @@ Member of House Dragonblood - Trait: magical affinity
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -265,3 +262,9 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City Master Host Torrent Welcomeall V1 Master Host Torrent Welcomeall.svg]]
+- [[Assets Locations Location City the Drowned Embassy V1 the Drowned Embassy.svg]]
+- [[Dr._Void_Mindwright (People)]]

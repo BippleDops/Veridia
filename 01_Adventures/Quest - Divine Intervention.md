@@ -14,7 +14,6 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 # Quest - Divine Intervention
 
 ---
@@ -50,12 +49,10 @@ obsidianUIMode: preview
 # Quest - Divine Intervention
 *When the Gods Fall Silent and the Deep Mother Stirs, Mortals Must Choose Their Path to Divinity*
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -522,7 +519,6 @@ Contextual improvement based on 12_Research
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Hooks
 - **Personal**: Character connection

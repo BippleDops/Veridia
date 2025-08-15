@@ -1,4 +1,5 @@
 ---
+aliases: ["Forgotten Shield of the Dawn", "forgotten shield of the dawn", "Forgotten Shield of Dawn", "Dawn the of Shield Forgotten"]
 tags: [generated]
 id: ITEM0077
 created: 2025-08-15T04:09:51.103Z
@@ -18,8 +19,6 @@ Crafted from starfall iron with intricate runes, in pristine condition. It emana
 
 ## Quirk
 *Hums when enemies are near*
-
-
 
 ## History
 This item was forged during the War of Shadows ages ago. It has passed through many hands, each leaving their mark upon its destiny.

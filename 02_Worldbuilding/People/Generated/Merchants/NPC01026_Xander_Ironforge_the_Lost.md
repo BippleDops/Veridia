@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Ironforge the Lost", "xander ironforge the lost", "Xander Ironforge Lost", "Lost the Ironforge Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Ironforge the Lost
 
 *Tiefling Broker (Merchants), Age 36, Female*
@@ -13,7 +19,6 @@
 Above average and slender, with Partially shaved bald hair and Brown eyes. Fair skin. Warm smile that puts people at ease.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Extremely superstitious about everything; Flirts with everyone regardless of interest
@@ -36,27 +41,22 @@ Former adventurer who retired to open a shop They recently discovered a secret t
 - **Short Term**: Gather information
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Urien Ironforge the Guardian (Personal - Ex-lover)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Aldric Dawnstrider the Strong (Personal - Childhood friend)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
-
 
 ### Ewan Moonshadow the Swift (Professional - Employer)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Aldric Lightbringer the Wanderer (Criminal - Accomplice)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ### Solas Zephyrblade the Seeker (Political - Patron)
 - **Status**: Recently reconciled

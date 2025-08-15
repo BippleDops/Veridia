@@ -1,4 +1,5 @@
 ---
+aliases: ["Glorious Crown of Power", "glorious crown of power", "Power of Crown Glorious"]
 tags: [generated]
 id: ITEM0022
 created: 2025-08-15T04:09:51.083Z
@@ -18,8 +19,6 @@ Crafted from darkwood with ancient symbols, in recently restored. It emanates a 
 
 ## Quirk
 *Hums when enemies are near*
-
-
 
 ## History
 This item was created to seal an ancient evil centuries ago. It has passed through many hands, each leaving their mark upon its destiny.

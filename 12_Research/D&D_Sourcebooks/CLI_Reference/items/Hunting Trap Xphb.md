@@ -85,3 +85,11 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Tinkers Tools Xphb]]
+- [[tinkers-tools-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

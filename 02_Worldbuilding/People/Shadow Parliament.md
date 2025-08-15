@@ -51,12 +51,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-shadow-parliament-shadow-parliament.svg)
 
 # Shadow Parliament
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -252,7 +250,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Natural disasters
 - Current power structures established
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -288,3 +285,30 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Shadow Conspiracy Investigation (Criminal_Organizations)]]
+- [[Campaigns Aquabyssos Investigations the Shadow Parliament Conspiracy]]
+- [[Comprehensive-World-Connection-Guide]]
+- [[Political Compromise Costs]]
+- [[The Shadow Parliament Investigation]]
+- [[Assets Locations Location City Portal Commander Marina Bridgewright Portal Commander Marina Bridgewright.png]]
+- [[Assets Locations Location City Professor Reef Growthseeker Professor Reef Growthseeker.svg]]
+- [[Assets Locations Location City Quartermaster Judith Steadfast V1 Quartermaster Judith Steadfast.svg]]
+- [[Assets Locations Location City the Drowned Embassy V1 the Drowned Embassy.svg]]
+- [[His Own Shadow]]
+- [[Knight]]
+- [[Mayor Thompson]]
+- [[Oracle]]
+- [[Senator]]
+- [[The Sorrowmaster]]
+- [[Tenebrarum Embassy]]
+- [[Whisper Island]]
+- [[Shadow Conspiracy Investigation]]
+- [[His Own Shadow (D&D_Statblocks)]]
+- [[Knight (D&D_Statblocks)]]
+- [[Mayor Thompson (D&D_Statblocks)]]
+- [[Oracle (D&D_Statblocks)]]
+- [[Senator (D&D_Statblocks)]]
+- [[The Sorrowmaster (D&D_Statblocks)]]

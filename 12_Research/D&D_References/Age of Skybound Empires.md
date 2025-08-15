@@ -58,3 +58,7 @@ Mentioned in The Second Prophecy of Shadows
 - Someone is searching for a artifact for power
 - A document has gone missing and truth emerges
 - Someone is hunting an heir for money
+
+## References
+
+- [[Quest - The Lost Expedition]]

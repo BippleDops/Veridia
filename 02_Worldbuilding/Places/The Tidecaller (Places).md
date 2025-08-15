@@ -47,7 +47,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -191,7 +191,7 @@ Marina discovered her affinity for tide magic during childhood storms that threa
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 The Tidecaller serves as powerful ally for maritime adventures, [[Quest Giver]] for ocean-related missions, and expert consultant on water magic. Her abilities can significantly impact naval combat and coastal exploration scenarios.
 
 ## Player-Facing Summary
@@ -222,13 +222,11 @@ The Tidecaller is a notable location characterized by its unique features and st
 ### Founding
 The Tidecaller was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -236,13 +234,11 @@ The Tidecaller was established in the distant past, growing from humble beginnin
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council

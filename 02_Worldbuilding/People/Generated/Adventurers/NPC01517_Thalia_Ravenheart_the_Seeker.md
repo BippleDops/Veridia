@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Ravenheart the Seeker", "thalia ravenheart the seeker", "Thalia Ravenheart Seeker", "Seeker the Ravenheart Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Ravenheart the Seeker
 
 *Half-Orc Fighter (Adventurers), Age 35, Male*
@@ -47,7 +53,6 @@ Seeking vengeance for a murdered mentor They recently discovered a secret that c
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Zephyr Hawthorne the Redeemed (Family - Parent)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
@@ -56,7 +61,6 @@ Seeking vengeance for a murdered mentor They recently discovered a secret that c
 ### Elric Ironwood the Bold (Criminal - Accomplice)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Possessed by ancient spirit

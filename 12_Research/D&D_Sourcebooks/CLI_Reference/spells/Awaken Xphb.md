@@ -83,3 +83,25 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Strange dreams suggest a conspiracy
 - Strange dreams suggest ancient magic
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Animal Lord Forager Xmm]]
+- [[Animal Lord Hunter Xmm]]
+- [[Animal Lord Sage Xmm]]
+- [[Animal Lord Xmm]]
+- [[animal-lord-forager-xmm (celestial)]]
+- [[animal-lord-hunter-xmm (celestial)]]
+- [[animal-lord-sage-xmm (celestial)]]
+- [[animal-lord-xmm (celestial)]]
+- [[Awakened Shrub Xmm]]
+- [[Awakened Tree Xmm]]
+- [[Awakened Zurkhwood Oota]]
+- [[awakened-shrub-xmm (plant)]]
+- [[awakened-tree-xmm (plant)]]
+- [[awakened-zurkhwood-oota (plant)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Staff of the Woodlands Xdmg]]
+- [[staff-of-the-woodlands-xdmg (items)]]

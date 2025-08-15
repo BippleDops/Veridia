@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Lightbringer the Mystic", "felicia lightbringer the mystic", "Felicia Lightbringer Mystic", "Mystic the Lightbringer Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Lightbringer the Mystic
 
 *Tiefling Assassin (Villains), Age 42, Female*
@@ -42,7 +48,6 @@ Driven mad by knowledge humanity wasn't meant to know A prophetic dream has been
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
 
-
 ### Faelyn Ravenheart the Guardian (Professional - Partner)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
@@ -52,7 +57,6 @@ Driven mad by knowledge humanity wasn't meant to know A prophetic dream has been
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Faelyn Crystalbrook the Broken (Criminal - Accomplice)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
@@ -61,7 +65,6 @@ Driven mad by knowledge humanity wasn't meant to know A prophetic dream has been
 ### Ewan Hawthorne the Wise (Personal - Childhood friend)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Believes they're saving the world

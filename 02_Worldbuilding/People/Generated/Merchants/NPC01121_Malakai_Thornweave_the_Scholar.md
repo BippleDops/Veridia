@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Thornweave the Scholar", "malakai thornweave the scholar", "Malakai Thornweave Scholar", "Scholar the Thornweave Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Thornweave the Scholar
 
 *Human Appraiser (Merchants), Age 68, Female*
@@ -36,17 +42,14 @@ Uses their business as cover for other activities They're being blackmailed by s
 - **Short Term**: Sabotage competition
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Lyanna Nightfall the Scholar (Professional - Partner)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Fiora Nightfall the Mystic (Personal - Childhood friend)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
-
 
 ### Orion Quicksilver the Cunning (Political - Patron)
 - **Status**: On the verge of collapse
@@ -56,7 +59,6 @@ Uses their business as cover for other activities They're being blackmailed by s
 ### Elric Silverleaf the Cunning (Criminal - Target)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Running a cult from their basement

@@ -102,7 +102,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -121,4 +120,10 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[summon-dragon-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[dragon|summon-dragon-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Cube of Summoning Xdmg]]
+- [[cube-of-summoning-xdmg (items)]]

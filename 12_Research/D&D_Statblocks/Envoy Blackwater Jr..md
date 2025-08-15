@@ -347,3 +347,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[Admiral Thorne Blackwater]]
+- [[Admiral Thorne Blackwater (D&D_Statblocks)]]
+- [[Keeper Elara Mindwell (D&D_Statblocks)]]

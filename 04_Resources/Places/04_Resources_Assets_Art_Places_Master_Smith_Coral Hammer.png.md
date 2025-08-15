@@ -102,3 +102,8 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Art Retired Captain Bron Saltbeard.png]]
+- [[Assets Locations Location City Portal Commander Marina Bridgewright V1 Portal Commander Marina Bridgewright.png]]

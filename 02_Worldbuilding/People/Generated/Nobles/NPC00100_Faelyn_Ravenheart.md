@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Ravenheart", "faelyn ravenheart", "Ravenheart Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Ravenheart
 
 *Gnome Noble (Nobles), Age 52, Male*
@@ -36,7 +42,6 @@ Exiled from their homeland, trying to rebuild their power base A prophetic dream
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Orion Underhill the Bold (Personal - Ex-lover)
 - **Status**: Strained but maintaining
@@ -47,11 +52,9 @@ Exiled from their homeland, trying to rebuild their power base A prophetic dream
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Caelum Blackstone the Strong (Personal - Love interest)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ### Nerys Nightfall (Professional - Employer)
 - **Status**: Strong and trusting
@@ -61,7 +64,6 @@ Exiled from their homeland, trying to rebuild their power base A prophetic dream
 ### Cedric Ironwood (Family - Cousin)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ### Hilda Grimholt the Bold (Family - Parent)
 - **Status**: Strong and trusting

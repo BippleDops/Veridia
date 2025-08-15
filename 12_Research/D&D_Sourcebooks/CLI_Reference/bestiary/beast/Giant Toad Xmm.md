@@ -150,3 +150,11 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[giant-toad-xmm (beast)]]
+- [[2 Appendix a Miscellaneous Creatures]]
+- [[2-appendix-a-miscellaneous-creatures (monster-manual-2014)]]
+- [[Monsters by Habitat Coastal Monsters Xmm]]
+- [[monsters-by-habitat-coastal-monsters-xmm (tables)]]

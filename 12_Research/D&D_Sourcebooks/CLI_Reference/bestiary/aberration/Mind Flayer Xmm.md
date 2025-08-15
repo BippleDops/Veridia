@@ -175,3 +175,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Ulitharid Mpmm]]
+- [[mind-flayer-xmm (aberration)]]
+- [[ulitharid-mpmm (aberration)]]
+- [[Flensing Claws Vgm]]
+- [[Mind Lash Vgm]]
+- [[Shield of Far Sight Vgm]]
+- [[flensing-claws-vgm (items)]]
+- [[mind-lash-vgm (items)]]
+- [[shield-of-far-sight-vgm (items)]]

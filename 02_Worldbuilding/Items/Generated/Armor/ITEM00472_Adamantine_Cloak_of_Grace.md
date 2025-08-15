@@ -1,3 +1,9 @@
+---
+aliases: ["Adamantine Cloak of Grace", "adamantine cloak of grace", "Grace of Cloak Adamantine"]
+tags: [item, equipment]
+type: item
+---
+
 # Adamantine Cloak of Grace
 
 *Armor, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A adamantine cloak bearing ancient runes
 - Immunity to critical hits
 - +1 to AC
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -31,7 +35,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.385Z*

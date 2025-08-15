@@ -87,7 +87,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -106,4 +105,20 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[stone-shape-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[spells|stone-shape-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Mind Flayer Psion Vgm]]
+- [[mind-flayer-psion-vgm (aberration)]]
+- [[Dao Xmm]]
+- [[dao-xmm (elemental)]]
+- [[Korred Mpmm]]
+- [[korred-mpmm (fey)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Instrument of the Bards Cli Lyre Xdmg]]
+- [[Ring of Elemental Command Earth Xdmg]]
+- [[instrument-of-the-bards-cli-lyre-xdmg (items)]]
+- [[ring-of-elemental-command-earth-xdmg (items)]]

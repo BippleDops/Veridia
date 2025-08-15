@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Quicksilver the Swift", "branwen quicksilver the swift", "Branwen Quicksilver Swift", "Swift the Quicksilver Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Quicksilver the Swift
 
 *Halfling Dark Wizard (Villains), Age 27, Female*
@@ -47,11 +53,9 @@ Born into evil but questioning their path They're being blackmailed by someone f
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Jorah Blackstone the Swift (Political - Puppet)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Was once a renowned hero

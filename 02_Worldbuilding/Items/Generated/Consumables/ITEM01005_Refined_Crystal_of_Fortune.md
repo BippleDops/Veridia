@@ -1,3 +1,9 @@
+---
+aliases: ["Refined Crystal of Fortune", "refined crystal of fortune", "Fortune of Crystal Refined"]
+tags: [item, equipment]
+type: item
+---
+
 # Refined Crystal of Fortune
 
 *Consumables, Uncommon (requires attunement)*

@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-duke-hadal-duke-hadal.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -227,7 +225,6 @@ Member of House Lionblood - Trait: divine blood
 
 Mentioned in The Second Prophecy of Stars
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -263,3 +260,9 @@ Mentioned in The Second Prophecy of Stars
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Master Trader Abyss Currentbinder Master Trader Abyss Currentbinder.svg]]
+- [[Abyssos Prime - Inverse Palace]]
+- [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]]

@@ -1,6 +1,6 @@
 ---
 
-title: [[Trade Goods]] Catalog
+title: [[Trade_Goods|Trade Goods]] Catalog
 type: [[Lore]]
 tags:
 - lore

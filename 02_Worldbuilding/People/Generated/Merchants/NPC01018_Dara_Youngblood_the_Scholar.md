@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Youngblood the Scholar", "dara youngblood the scholar", "Dara Youngblood Scholar", "Scholar the Youngblood Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Youngblood the Scholar
 
 *Half-Orc Broker (Merchants), Age 77, Male*
@@ -36,32 +42,26 @@ Built their business from nothing through cunning and hard work A prophetic drea
 - **Short Term**: Recruit new members
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Xander Ironforge the Broken (Family - Cousin)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Ysara Nightfall the Fallen (Political - Ally)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ### Zephyr Xendar the Scholar (Political - Opposition)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Malakai Moonshadow the Seeker (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Alaric Lightbringer the Lost (Professional - Mentor)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Killed previous business owner

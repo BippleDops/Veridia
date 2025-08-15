@@ -94,3 +94,17 @@ Mentioned in The Hidden Prophecy of Winds
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Arcana Rare Xdmg]]
+- [[Magic Item Table G]]
+- [[Random Magic Items Arcana]]
+- [[Random Magic Items Relics]]
+- [[Relics Rare Xdmg]]
+- [[arcana-rare-xdmg (tables)]]
+- [[magic-item-table-g (tables)]]
+- [[random-magic-items-arcana (tables)]]
+- [[random-magic-items-relics (tables)]]
+- [[relics-rare-xdmg (tables)]]

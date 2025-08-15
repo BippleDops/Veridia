@@ -1,3 +1,9 @@
+---
+aliases: ["Refined Herb of Healing", "refined herb of healing", "Healing of Herb Refined"]
+tags: [item, equipment]
+type: item
+---
+
 # Refined Herb of Healing
 
 *Consumables, Uncommon*

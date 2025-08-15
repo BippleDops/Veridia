@@ -1,3 +1,9 @@
+---
+aliases: ["Frost Sword of Slaying", "frost sword of slaying", "Slaying of Sword Frost"]
+tags: [item, equipment]
+type: item
+---
+
 # Frost Sword of Slaying
 
 *Weapons, Very Rare*
@@ -16,8 +22,6 @@ A frost sword carved from dragon bone
 - Ignores resistance to damage type
 - Critical hits on 19-20
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -32,7 +36,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.342Z*

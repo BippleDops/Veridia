@@ -1,3 +1,9 @@
+---
+aliases: ["Void-touched Scepter of Eternity", "void-touched scepter of eternity", "Eternity of Scepter Void-touched"]
+tags: [item, equipment]
+type: item
+---
+
 # Void-touched Scepter of Eternity
 
 *Artifacts, Artifact*
@@ -16,8 +22,6 @@ A void-touched scepter covered in mysterious symbols
 - Telepathy 120 ft
 - Plane shift 1/day
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -32,7 +36,6 @@ Priceless
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.424Z*

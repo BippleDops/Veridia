@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Hawthorne the Broken", "aeliana hawthorne the broken", "Aeliana Hawthorne Broken", "Broken the Hawthorne Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Hawthorne the Broken
 
 *Genasi Bard (Adventurers), Age 69, Male*
@@ -36,7 +42,6 @@ Accidentally gained powers and learning to control them A family member's death 
 - **Short Term**: Survive until next week
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Pyria Keenblade the Mystic (Professional - Mentor)
 - **Status**: Mutually beneficial
@@ -46,7 +51,6 @@ Accidentally gained powers and learning to control them A family member's death 
 ### Orion Blackstone the Bold (Criminal - Accomplice)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ### Jorah Darkwater the Bold (Personal - Ex-lover)
 - **Status**: Strong and trusting

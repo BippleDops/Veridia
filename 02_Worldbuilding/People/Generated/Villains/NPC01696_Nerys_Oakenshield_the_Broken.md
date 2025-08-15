@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Oakenshield the Broken", "nerys oakenshield the broken", "Nerys Oakenshield Broken", "Broken the Oakenshield Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Oakenshield the Broken
 
 *Dwarf Assassin (Villains), Age 24, Male*
@@ -36,7 +42,6 @@ Believes their evil acts serve a greater good A prophetic dream has been hauntin
 - **Short Term**: Survive until next week
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Corvus Emberfall the Lost (Political - Patron)
 - **Status**: Recently reconciled
@@ -47,11 +52,9 @@ Believes their evil acts serve a greater good A prophetic dream has been hauntin
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
 
-
 ### Fiora Jadeclaw the Redeemed (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ### Qadim Xendar the Mystic (Personal - Nemesis)
 - **Status**: Recently reconciled
@@ -62,11 +65,9 @@ Believes their evil acts serve a greater good A prophetic dream has been hauntin
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Vesper Hawthorne the Seeker (Personal - Love interest)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Knows how the world will end

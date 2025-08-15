@@ -52,7 +52,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -107,12 +107,12 @@ The Tenebrarum Embassy serves as the primary diplomatic mission from the shadow 
 **Objective:** Control parliamentary votes through shadow replacement program
 **Method:** Systematically replace key [[Senator]]s with shadow duplicates
 **Current Status:** 4 senators replaced, 8 more targeted for replacement
-**[[[[Time]]line]]:** Complete shadow majority within 18 months
+**[[Time|[[Time]]line]]:** Complete shadow majority within 18 months
 **Assets:** Deep cover replacement teams, memory specialists, identity workshops
 
 #### Operation Economic Shadow
 
-**Objective:** Gain control of Aquabyssos [[Economic System]]
+**Objective:** Gain control of Aquabyssos [[Economic_System|Economic System]]
 **Method:** Infiltrate banking, trade guilds, and currency management
 **Current Status:** 30% penetration of major ficial institutions
 **Timeline:** Economic influence parity within 2 years
@@ -152,7 +152,7 @@ Competition between Ambassador Nyx and Security Chief Void is creating:
 
 ### [[Economic Pressure]]
 
-[[Aquabyssos Government]] economic sanctions are causing:
+[[Aquabyssos_Government|Aquabyssos Government]] economic sanctions are causing:
 - **Funding Shortages:** Reduced resources for intelligence operations
 - **Cover Business Exposure:** Legitimate trade operations under scrutiny
 - **Asset Compromise:** Ficial pressure forcing agent exposure
@@ -235,7 +235,7 @@ Legends speak of Tenebrarum Embassy as a nexus where past and present converge. 
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -259,13 +259,11 @@ Tenebrarum Embassy is a notable location characterized by its unique features an
 ### Founding
 Tenebrarum Embassy was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -273,13 +271,11 @@ Tenebrarum Embassy was established in the distant past, growing from humble begi
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -334,7 +330,6 @@ Ongoing situations affecting Tenebrarum Embassy:
 - 20% middle class
 - 79% working poor
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -370,3 +365,7 @@ Ongoing situations affecting Tenebrarum Embassy:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Political Intrigue Master Index (D&D_References)]]

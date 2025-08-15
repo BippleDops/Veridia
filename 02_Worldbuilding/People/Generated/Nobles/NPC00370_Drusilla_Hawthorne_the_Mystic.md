@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Hawthorne the Mystic", "drusilla hawthorne the mystic", "Drusilla Hawthorne Mystic", "Mystic the Hawthorne Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Hawthorne the Mystic
 
 *Gnome Noble (Nobles), Age 48, Non-binary*
@@ -13,7 +19,6 @@
 Short and wiry, with Tied back red hair and Amber eyes. Tan skin. Missing ear from old battle.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Flirts with everyone regardless of interest; Believes in every conspiracy theory; Never uses people's real names
@@ -47,7 +52,6 @@ Exiled from their homeland, trying to rebuild their power base Strange abilities
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Aldric Underhill the Strong (Professional - Employer)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
@@ -57,16 +61,13 @@ Exiled from their homeland, trying to rebuild their power base Strange abilities
 - **Status**: One-sided affection
 - **History**: United by common enemy
 
-
 ### Qadim Ironforge the Scholar (Political - Ally)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Wynne Ashford the Lost (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Actually a bastard with no real claim

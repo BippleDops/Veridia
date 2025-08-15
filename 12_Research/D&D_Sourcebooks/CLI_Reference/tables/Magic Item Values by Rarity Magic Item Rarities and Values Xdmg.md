@@ -79,3 +79,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A merchant needs help investigating before the festival
 - A shipment has gone missing and war looms
+
+## References
+
+- [[1 Ammunition Xdmg]]
+- [[1-ammunition-xdmg (items)]]
+- [[2 Ammunition Xdmg]]
+- [[2-ammunition-xdmg (items)]]
+- [[3 Ammunition Xdmg]]
+- [[3-ammunition-xdmg (items)]]

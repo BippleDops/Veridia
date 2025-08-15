@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Ironforge the Fallen", "elric ironforge the fallen", "Elric Ironforge Fallen", "Fallen the Ironforge Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Ironforge the Fallen
 
 *Half-Elf Blacksmith (Commoners), Age 66, Male*
@@ -46,7 +52,6 @@ Survivor of a disaster that destroyed their village A prophetic dream has been h
 ### Nerys Nightfall the Strong (Criminal - Handler)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ### Baelor Nightfall the Guardian (Criminal - Accomplice)
 - **Status**: Mutually beneficial

@@ -1,4 +1,5 @@
 ---
+aliases: ["The Sunken Temple Uprising", "the sunken temple uprising", "Uprising Temple Sunken The"]
 tags: [quest, adventure, generated]
 type: quest
 ---
@@ -9,7 +10,7 @@ type: quest
 
 **ID**: QUEST0018
 
-## Quest Giver
+## [[Quest Giver|Quest Giver]]
 **Soren Goldleaf** - Dying adventurer
 - **Location**: Thieves' guild safehouse
 - **Motivation**: Wants to prevent disaster
@@ -19,10 +20,8 @@ type: quest
 Safely deliver the ambassador to the capital
 
 ### Secondary
-- Recover additional valuable items
+- Recover additional valuable [[Items|Items]]
 - Sabotage enemy resources
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they found an ancient artifact, which changed their life forever. Now, circumstances demand immediate action.
@@ -34,7 +33,7 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 
 ## Opposition
 ### Enemies
-- **Undead** led by Soren Brightblade
+- **[[undead|undead]]** led by Soren Brightblade
   - Strength: 17 combatants
   - Tactics: Aggressive but cunning
 - **Environmental**: Natural hazards and traps
@@ -47,7 +46,7 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 - Treacherous terrain
 
 ## Complications
-- Weather turns dangerous
+- [[weather|weather]] turns dangerous
 
 ## Plot Twist
 *Reveal at appropriate moment:*
@@ -62,7 +61,7 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 ## Time Limit
 ⏰ **By the next full moon**
 
-## Rewards
+## [[rewards|rewards]]
 ### On Success
 - **Gold**: 787 gp
 - **Experience**: 1,000 XP
@@ -73,7 +72,7 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 - **Success**: Region becomes safer
 - **Failure**: Evil spreads unchecked
 
-## DM Notes
+## [[DM_Notes|DM Notes]]
 - Adjust difficulty based on party composition
 - The hidden objective adds complexity for experienced players
 - Moral choices should have lasting campaign impacts
@@ -88,22 +87,22 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 
 #### Forgotten Realms
 - **SCAG** (Sword Coast Adventurer's Guide)
-  - Backgrounds: City Watch, Clan Crafter, etc.
-  - Subclasses: Purple Dragon Knight, Bladesinger
+  - [[backgrounds|backgrounds]]: City Watch, Clan Crafter, etc.
+  - Subclasses: Purple [[dragon|dragon]] Knight, Bladesinger
   - Cantrips: Booming Blade, Green-Flame Blade
 
 #### Eberron
 - **ERLW** (Eberron: Rising from the Last War)
-  - Races: Changeling, Kalashtar, Shifter, Warforged
+  - [[Races|Races]]: Changeling, Kalashtar, Shifter, Warforged
   - Artificer class (official version)
   - Dragonmarks system
-  - Magic items: Arcane focuses, warforged components
+  - [[Magic Items|Magic Items]]: Arcane focuses, warforged components
 
 #### Ravnica
 - **GGR** (Guildmaster's Guide to Ravnica)
   - Races: Centaur, Loxodon, Minotaur, Simic Hybrid, Vedalken
   - Guild backgrounds with supernatural abilities
-  - Ravnica-specific spells
+  - Ravnica-specific [[spells|spells]]
 
 #### Theros
 - **MOoT** (Mythic Odysseys of Theros)
@@ -129,7 +128,7 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 #### Spelljammer
 - **SAiS** (Spelljammer: Adventures in Space)
   - Races: Astral Elf, Autognome, Giff, Hadozee, Plasmoid, Thri-kreen
-  - Space combat rules
+  - Space [[Combat_Rules|Combat Rules]]
   - Spelljamming helms
   - Wildspace systems
 
@@ -151,7 +150,7 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 
 #### Xanathar's Guide to Everything (XGE)
 - 31 new subclasses
-- Racial feats
+- Racial [[feats|feats]]
 - Downtime activities
 - Tool uses expanded
 - Common magic items
@@ -160,7 +159,7 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 
 #### Tasha's Cauldron of Everything (TCE)
 - Custom lineage system
-- Optional class features for all classes
+- Optional class features for all [[classes|classes]]
 - 30 subclasses (new and reprinted)
 - Artificer class
 - Group patrons
@@ -187,7 +186,7 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 - Gem dragons
 
 #### Bigby's Glory of Giants (BGG)
-- Giant-themed subclasses
+- [[giant|giant]]-themed subclasses
 - Rune magic
 - Giant backgrounds
 - Goliath subraces
@@ -215,3 +214,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 3. **Power Level**: Newer books sometimes have stronger options
 4. **Integration**: Consider how content fits campaign theme
 5. **AL Legal**: Check Adventurers League rules if applicable
+
+---
+**Navigation**: [[INDEX|🏠 Home]] | [[Quests|📜 Quests]] | [[INDEX|📚 Index]]

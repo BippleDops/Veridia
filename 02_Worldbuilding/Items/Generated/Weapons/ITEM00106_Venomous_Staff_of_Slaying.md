@@ -1,3 +1,9 @@
+---
+aliases: ["Venomous Staff of Slaying", "venomous staff of slaying", "Slaying of Staff Venomous"]
+tags: [item, equipment]
+type: item
+---
+
 # Venomous Staff of Slaying
 
 *Weapons, Common*
@@ -13,8 +19,6 @@ A venomous staff forged from meteoric iron
 ## Properties
 - Ignores resistance to damage type
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -29,7 +33,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.351Z*

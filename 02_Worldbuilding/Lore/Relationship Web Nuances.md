@@ -49,7 +49,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -93,7 +93,7 @@ The following are 40+ specific relationship nuances that create dramatic tension
 
 ---
 
-### **[[Duke Marcus Bright[[Shield]]]] ↔ Lady Venetia [[Shadowmere]]**
+### **[[Shield|Duke Marcus Bright[[Shield]]]] ↔ Lady Venetia [[Shadowmere]]**
 
 *The Democratic Idealist and The Dead Spymaster*
 - **Childhood:** Best friends who explored abandoned tunnels and shared dreams of changing the world
@@ -111,7 +111,7 @@ The following are 40+ specific relationship nuances that create dramatic tension
 - **Complications:** Nyx some[[Time]]s steals memories from Theron's constructed identity
 - **Resolution Arc:** They could either help each other find authentic identity or destroy each other's remaining humanity
 
-### **[[[[Prince Caspian]] Deepcurrent]] ↔ Captain Sterling Ironwill**
+### **[[Prince Caspian|[[Prince Caspian]] Deepcurrent]] ↔ Captain Sterling Ironwill**
 
 *The Adopted Prince and The Bastard Soldier*
 - **Childhood:** Military academy friends who competed for top honors and shared girl problems
@@ -140,7 +140,7 @@ The following are 40+ specific relationship nuances that create dramatic tension
 - **Memory Dependency:** Both becoming psychologically dependent on shared memory experiences
 - **Exposure Threat:** Discovery would destroy both their careers and ideological movements
 
-### **[[Memory [[Merchant]] Valeria]] Siltweave ↔ [[Information Broker Whisper]] Goldtongue**
+### **[[Merchant|Memory [[Merchant]] Valeria]] Siltweave ↔ [[Information Broker Whisper]] Goldtongue**
 
 *The Consciousness Trader and The Information Dealer*
 - **Professional Romance:** Both deal in intangible commodities and understand each other's work
@@ -153,7 +153,7 @@ The following are 40+ specific relationship nuances that create dramatic tension
 
 ### **The Deep Magic Lineage**
 
-*Ancient Guardian Thalassios → Scholar [[[[Emperor]] Thalassius]] → Professor Thalassa Deepthought → Graduate Student Marina Bio-Future*
+*Ancient Guardian Thalassios → Scholar [[Emperor|[[Emperor]] Thalassius]] → Professor Thalassa Deepthought → Graduate Student Marina Bio-Future*
 - **Ancient Knowledge Transfer:** Pre-sinking civilization magical techniques passed down through generations
 - **Each Generation's Addition:** Every mentor adds specialized knowledge while preserving ancient wisdom
 - **Corruption Risk:** Ancient knowledge becoming diluted or perverted through generational transmission
@@ -163,7 +163,7 @@ The following are 40+ specific relationship nuances that create dramatic tension
 ### **The Combat Medicine Chain**
 
 *General Harrison [[Ironhold]] → [[Captain Sarah Ironheart]] → [[Medic Captain Truewater]] → Combat Medic [[Coral]] Battlehealer*
-- **Skill Evolution:** Military medical techniques adapted for [[Underwater Combat]] conditions
+- **Skill Evolution:** Military medical techniques adapted for [[Underwater_Combat|Underwater Combat]] conditions
 - **Personal Bonds:** Each mentorship forged through shared battlefield experiences
 - **Gender Dynamics:** Female-dominated mentorship chain in traditionally male military hierarchy
 - **Innovation Pressure:** Each generation must improve techniques while maintaining core medical ethics
@@ -241,7 +241,7 @@ The following are 40+ specific relationship nuances that create dramatic tension
 ### **Captain [[Scarlet Torrent]] ↔ [[Admiral Marina]] Stormcrest**
 
 *The Attack Survivors*
-- **Shared Experience:** Both survived Deep [[[[Krake]]n]] attack during naval training exercise
+- **Shared Experience:** Both survived Deep [[Krake|[[Krake]]n]] attack during naval training exercise
 - **Psychological Bond:** Only they truly understand the horror of that specific experience
 - **Professional Consequences:** Marina gained command; Scarlet gained reputation for bravery
 - **Trust Absolute:** They share classified information before consulting official staff
@@ -305,7 +305,7 @@ The following are 40+ specific relationship nuances that create dramatic tension
 - **Political Implications:** Their theological disputes affect [[Deep Mother Cult]] political strategy
 - **Personal Bond:** Despite professional rivalry, genuine spiritual friendship
 
-### **[[High Priestess Celeste]] Dawnbringer ↔ [[[[Brother Marcus]] the Deepgrown]]**
+### **[[High Priestess Celeste]] Dawnbringer ↔ [[Brother Marcus|[[Brother Marcus]] the Deepgrown]]**
 
 *The Light Worshipper and The Depth Convert*
 - **Theological Opposition:** Light/surface religion vs. deep/darkness spirituality
@@ -363,7 +363,7 @@ The following are 40+ specific relationship nuances that create dramatic tension
 - **Ongoing Cooperation:** Occasional collaboration when their current interests align
 - **Exposure Risk:** Either could destroy the other's current respectable reputation
 
-### **[[Captain Blackwater]] ↔ [[Information Broker [[Whisper Goldtongue]]]]**
+### **[[Captain Blackwater]] ↔ [[Whisper Goldtongue|Information Broker [[Whisper Goldtongue]]]]**
 
 *The Merchant Captain and The Intelligence Dealer*
 - **Smuggling Partnership:** Blackwater transported illegal goods; Whisper provided intelligence about enforcement
@@ -494,7 +494,7 @@ Relationship Web Nuances is a undersea element of the setting, known for biolumi
 
 Legends speak of Relationship Web Nuances as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Relationship Web Nuances.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 

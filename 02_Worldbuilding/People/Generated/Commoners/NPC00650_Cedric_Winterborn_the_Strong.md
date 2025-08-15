@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Winterborn the Strong", "cedric winterborn the strong", "Cedric Winterborn Strong", "Strong the Winterborn Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Winterborn the Strong
 
 *Dragonborn Baker (Commoners), Age 48, Non-binary*
@@ -13,7 +19,6 @@
 Very short and slender, with Dreadlocks unusual color hair and Brown eyes. Freckled skin. Constantly changing hair color.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Always speaks in metaphors and riddles; Flirts with everyone regardless of interest; Speaks to inanimate objects
@@ -36,7 +41,6 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Short Term**: Find missing person
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Vesper Dawnstrider the Redeemed (Professional - Rival)
 - **Status**: One-sided affection
@@ -52,11 +56,9 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Lyanna Frostwhisper the Lost (Criminal - Handler)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Knows location of ancient treasure

@@ -110,7 +110,6 @@ An exciting quest that challenges heroes to save the realm.
 - Consequences
 - Epilogue hooks
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*
 ## Expansion Books & Setting Guides
@@ -246,3 +245,8 @@ An exciting quest that challenges heroes to save the realm.
 3. **Power Level**: Newer books sometimes have stronger options
 4. **Integration**: Consider how content fits campaign theme
 5. **AL Legal**: Check Adventurers League rules if applicable
+
+## References
+
+- [[Ambush Point (D&D_Statblocks)]]
+- [[Traveling Merchant Finn (D&D_Statblocks)]]

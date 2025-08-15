@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Lightbringer the Swift", "solas lightbringer the swift", "Solas Lightbringer Swift", "Swift the Lightbringer Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Lightbringer the Swift
 
 *Dragonborn Baker (Commoners), Age 56, Male*
@@ -42,7 +48,6 @@ Family has worked the same trade for generations, but times are changing A chanc
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Brenna Oakenshield the Broken (Political - Opposition)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
@@ -61,7 +66,6 @@ Family has worked the same trade for generations, but times are changing A chanc
 ### Corvus Goldleaf the Lost (Personal - Ex-lover)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Has dragon blood in their veins

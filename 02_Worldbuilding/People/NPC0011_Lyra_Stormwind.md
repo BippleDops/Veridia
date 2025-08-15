@@ -1,8 +1,8 @@
 ---
+aliases: ["Lyra Stormwind", "lyra stormwind", "Stormwind Lyra"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,7 +76,6 @@ Athletics, Persuasion
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 46 gold pieces
 - Small gemstone
@@ -89,7 +88,6 @@ Athletics, Persuasion
 
 ---
 *Generated: 2025-08-15T03:21:04.026Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

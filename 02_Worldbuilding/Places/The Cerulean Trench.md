@@ -47,7 +47,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -95,11 +95,11 @@ improvements: 20
 
 ## Overview
 
-The Cerulean Trench is a massive underwater canyon that many believe was the origin point of [[Great Drownin]]. Stretching for hundreds of miles and plunging to unknown depths, its waters glow with an unnatural blue light - pure [[The Cerulean Breath]] in its most concentrated form. Strange creatures, [[Ancient Ruins]], and reality-warping phenomena make it one of the most dangerous regions in [[[[Aquabyssos]] [[World Overview]]]].
+The Cerulean Trench is a massive underwater canyon that many believe was the origin point of [[Great Drownin]]. Stretching for hundreds of miles and plunging to unknown depths, its waters glow with an unnatural blue light - pure [[The Cerulean Breath]] in its most concentrated form. Strange creatures, [[Ancient Ruins]], and reality-warping phenomena make it one of the most dangerous regions in [[Aquabyssos|[[Aquabyssos]] [[World Overview]]]].
 
 ### The Azure Shelf (5000-7000 feet)
 
-The "shallow" entry area where [[[[Depth Warden]]s]] maintain observation posts. [[Scout Captain Vera Deepwatch]] leads expeditions from Outpost Sigma, the last "safe" structure before the true trench.
+The "shallow" entry area where [[Depth Warden|[[Depth Warden]]s]] maintain observation posts. [[Scout Captain Vera Deepwatch]] leads expeditions from Outpost Sigma, the last "safe" structure before the true trench.
 
 ### The Luminous Drop (7000-10000 feet)
 
@@ -131,7 +131,7 @@ Collection of massive skeletons from creatures that shouldn't exist. [[Beast Mas
 
 ### The Echo Chamber
 
-Natural formation that amplifies sound across impossible distances. [[The [[Free Current]]]] uses it to send coded messages.
+Natural formation that amplifies sound across impossible distances. [[Free Current|The [[Free Current]]]] uses it to send coded messages.
 
 ### The First Temple
 
@@ -170,7 +170,7 @@ Various [[Groups]] that went too deep and never returned, occasionally spotted a
 > - At the bottom lies the entity's physical form, slowly awakening
 > - The Drowning Gate is counting down to something
 
-## [[[[Random Encounter]]s]] (d12)
+## [[Random Encounter|[[Random Encounter]]s]] (d12)
 
 1. Trencher Folk trading party, speaking in whispers
 2. School of glass eels phasing through area
@@ -200,7 +200,7 @@ Legends speak of The Cerulean Trench as a nexus where past and present converge.
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -221,13 +221,11 @@ The Cerulean Trench is a notable location characterized by its unique features a
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -235,13 +233,11 @@ The Cerulean Trench is a notable location characterized by its unique features a
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -300,3 +296,24 @@ Ongoing situations affecting The Cerulean Trench:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Ancient Aquabyssos Rulers]]
+- [[Fortress of the Deeps]]
+- [[Admiral Thorne Blackwater]]
+- [[Archon Meredith Saltweaver]]
+- [[Captain Garrett Stormcutter]]
+- [[Pressure's End]]
+- [[The Phosphor Markets]]
+- [[The Maw of Darkness]]
+- [[Ancient Aquabyssos Rulers (D&D_References)]]
+- [[Archon Meredith Saltweaver (D&D_References)]]
+- [[Captain Garrett Stormcutter (D&D_References)]]
+- [[Fortress of the Deeps (D&D_References)]]
+- [[Pressure's End (D&D_References)]]
+- [[Prophet Nerida Voidgazer (D&D_References)]]
+- [[The Phosphor Markets (D&D_References)]]
+- [[Admiral Thorne Blackwater (D&D_Statblocks)]]
+- [[The Maw of Darkness (D&D_Statblocks)]]
+- [[Traveling Merchant Finn (D&D_Statblocks)]]

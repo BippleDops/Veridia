@@ -126,3 +126,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Master_Spell_Compendium]]
+- [[Enspelled Armor Xdmg]]
+- [[enspelled-armor-xdmg (items)]]

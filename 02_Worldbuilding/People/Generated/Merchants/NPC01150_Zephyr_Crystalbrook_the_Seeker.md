@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Crystalbrook the Seeker", "zephyr crystalbrook the seeker", "Zephyr Crystalbrook Seeker", "Seeker the Crystalbrook Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Crystalbrook the Seeker
 
 *Half-Elf Caravan Master (Merchants), Age 56, Non-binary*
@@ -36,17 +42,14 @@ Built their business from nothing through cunning and hard work They recently di
 - **Short Term**: Complete current contract
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Aldric Voidwalker the Guardian (Criminal - Handler)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Qadim Nightfall the Mystic (Criminal - Accomplice)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ### Idris Thornweave the Broken (Personal - Childhood friend)
 - **Status**: Strained but maintaining

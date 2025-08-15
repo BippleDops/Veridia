@@ -1,3 +1,9 @@
+---
+aliases: ["Thunder Dagger of Wounding", "thunder dagger of wounding", "Wounding of Dagger Thunder"]
+tags: [item, equipment]
+type: item
+---
+
 # Thunder Dagger of Wounding
 
 *Weapons, Common*

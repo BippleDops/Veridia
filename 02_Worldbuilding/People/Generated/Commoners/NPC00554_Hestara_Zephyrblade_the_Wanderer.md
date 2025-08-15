@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Zephyrblade the Wanderer", "hestara zephyrblade the wanderer", "Hestara Zephyrblade Wanderer", "Wanderer the Zephyrblade Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Zephyrblade the Wanderer
 
 *Tiefling Fisher (Commoners), Age 70, Male*
@@ -13,7 +19,6 @@
 Average height and muscular, with Short and neat unusual color hair and Blue eyes. Olive skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Compulsive liar about minor things; Believes in every conspiracy theory; Extremely superstitious about everything
@@ -42,7 +47,6 @@ Former soldier trying to adjust to civilian life They've been marked by a secret
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Ysara Underhill the Broken (Professional - Employee)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
@@ -57,11 +61,9 @@ Former soldier trying to adjust to civilian life They've been marked by a secret
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Solas Brightblade the Seeker (Personal - Ex-lover)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ### Nerys Ironforge the Scholar (Political - Ally)
 - **Status**: Mutually beneficial

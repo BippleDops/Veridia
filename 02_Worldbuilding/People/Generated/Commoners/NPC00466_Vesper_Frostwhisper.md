@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Frostwhisper", "vesper frostwhisper", "Frostwhisper Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Frostwhisper
 
 *Half-Elf Fisher (Commoners), Age 71, Female*
@@ -13,7 +19,6 @@
 Very short and athletic, with Partially shaved silver hair and Hazel eyes. Olive skin. Gold tooth that glints when smiling.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Always tells the absolute truth
@@ -36,17 +41,14 @@ Survivor of a disaster that destroyed their village They've made a deal they're 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Qadim Proudmore the Strong (Criminal - Informant)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Urien Underhill the Seeker (Professional - Employee)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ### Gavril Stormwind the Wanderer (Professional - Employer)
 - **Status**: Mutually beneficial
@@ -56,7 +58,6 @@ Survivor of a disaster that destroyed their village They've made a deal they're 
 ### Zephyr Brightblade the Scholar (Criminal - Informant)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Witnessed a noble's crime

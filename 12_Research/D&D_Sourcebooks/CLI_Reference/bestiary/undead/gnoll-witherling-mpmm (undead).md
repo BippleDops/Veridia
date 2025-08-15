@@ -135,3 +135,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[Gnoll Witherling Mpmm]]
+- [[3 Bestiary]]
+- [[3-bestiary (volos-guide-to-monsters)]]
+- [[Creating a Gnoll War Band Gnoll War Band Special Creatures Vgm]]

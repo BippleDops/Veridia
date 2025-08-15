@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Ironwood the Guardian", "rhiannon ironwood the guardian", "Rhiannon Ironwood Guardian", "Guardian the Ironwood Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Ironwood the Guardian
 
 *Elf Bard (Adventurers), Age 37, Female*
@@ -47,11 +53,9 @@ Searching for a legendary treasure their parent died seeking They've fallen in l
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Ysara Crystalbrook the Guardian (Professional - Rival)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ### Branwen Ravenheart the Wise (Personal - Best friend)
 - **Status**: Recently reconciled
@@ -61,7 +65,6 @@ Searching for a legendary treasure their parent died seeking They've fallen in l
 ### Kaelen Emberfall the Cunning (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Carries a world-ending artifact

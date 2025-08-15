@@ -1,3 +1,8 @@
+---
+tags: [misc]
+type: misc
+---
+
 # Music Library Index
 
 Generated: 2025-08-15T02:34:53.751Z

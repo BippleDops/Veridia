@@ -58,3 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A corpse reveals the truth about a local noble
 - A noble needs help investigating before the festival
 - The authorities needs help finding before the festival
+
+## References
+
+- [[Master Smith Vulcan Deepforge]]

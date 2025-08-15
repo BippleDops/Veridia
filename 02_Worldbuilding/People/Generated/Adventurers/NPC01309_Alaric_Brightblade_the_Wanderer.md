@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Brightblade the Wanderer", "alaric brightblade the wanderer", "Alaric Brightblade Wanderer", "Wanderer the Brightblade Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Brightblade the Wanderer
 
 *Gnome Cleric (Adventurers), Age 70, Non-binary*
@@ -47,11 +53,9 @@ Seeking vengeance for a murdered mentor A prophetic dream has been haunting them
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
 
-
 ### Xander Youngblood the Cunning (Political - Ally)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Possessed by ancient spirit

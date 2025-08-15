@@ -2,7 +2,7 @@
 tags: ['[[Lore]]']
 ---
 
-# Quest - The [[Weekly Cleansing]]
+# Quest - The [[Weekly_Cleansing|Weekly Cleansing]]
 
 ## Overview
 

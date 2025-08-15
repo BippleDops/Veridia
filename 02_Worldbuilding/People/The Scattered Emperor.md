@@ -84,12 +84,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-scattered-emperor-the-scattered-emperor.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -423,7 +421,6 @@ Mentioned in The Hidden Prophecy of Stars
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -459,3 +456,46 @@ Mentioned in The Hidden Prophecy of Stars
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Crown of Tidal Sovereignty]]
+- [[Comprehensive-World-Connection-Guide]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure]]
+- [[Deep Mother]]
+- [[The Emperor's Gambit]]
+- [[Archivist Mnemonic the Forgotten]]
+- [[Assets Portraits Portrait NPC Captain Henrik Saltbreeze Captain Henrik Saltbreeze.svg]]
+- [[Pressure Angel Benthia]]
+- [[Senator Glaucus]]
+- [[Surface Ambassador Lord Seaworthy]]
+- [[Tribune Cassia Deepcurrent]]
+- [[Abyssos Prime]]
+- [[Tethyan Hegemony]]
+- [[The Lock]]
+- [[Aquabyssos (D&D_References)]]
+- [[Aquabyssos - Session 04 - High Tide Horror]]
+- [[Aquabyssos - Session 07 - The Resonance Revelation]]
+- [[Aquabyssos - Session 09 - The Mourning Strategy]]
+- [[Comprehensive-World-Connection-Guide (D&D_References)]]
+- [[Comprehensive-World-Connection-Guide 3 (D&D_References)]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure (D&D_References)]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure 3 (D&D_References)]]
+- [[Consequence Chain 3 Reality Merger Diplomatic Crisis (D&D_References)]]
+- [[Consequence Chain 3 Reality Merger]]
+- [[Consequence Chain 4 - Deep Mother Awakening (D&D_References)]]
+- [[Crown of Tidal Sovereignty (D&D_References)]]
+- [[Deep Mother (D&D_References)]]
+- [[Deep Mother 3 (D&D_References)]]
+- [[Queen Seraphina (D&D_References)]]
+- [[Queen Seraphina 3 (D&D_References)]]
+- [[Screaming Gardens (D&D_References)]]
+- [[Senator Glaucus (D&D_References)]]
+- [[Tethyan Hegemony (D&D_References)]]
+- [[The Emperor's Gambit (D&D_References)]]
+- [[The Lock (D&D_References)]]
+- [[Tribune Cassia Deepcurrent (D&D_References)]]
+- [[Aquabyssos - Session 01 - The Drowning Welcome]]
+- [[Archivist Mnemonic the Forgotten (D&D_Statblocks)]]
+- [[Pressure Angel Benthia (D&D_Statblocks)]]
+- [[Surface Ambassador Lord Seaworthy (D&D_Statblocks)]]

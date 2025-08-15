@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Nightfall the Wise", "baelor nightfall the wise", "Baelor Nightfall Wise", "Wise the Nightfall Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Nightfall the Wise
 
 *Gnome Baker (Commoners), Age 71, Non-binary*
@@ -13,7 +19,6 @@
 Short and imposing, with Short and neat silver hair and Amber eyes. Dark skin. Warm smile that puts people at ease.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Collects unusual and worthless objects; Flirts with everyone regardless of interest
@@ -47,11 +52,9 @@ Survivor of a disaster that destroyed their village They've fallen in love with 
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Qadim Emberfall (Personal - Love interest)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Knows location of ancient treasure

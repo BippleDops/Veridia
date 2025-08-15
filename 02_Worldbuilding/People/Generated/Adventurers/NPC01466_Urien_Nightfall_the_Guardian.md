@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Nightfall the Guardian", "urien nightfall the guardian", "Urien Nightfall Guardian", "Guardian the Nightfall Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Nightfall the Guardian
 
 *Human Wizard (Adventurers), Age 70, Male*
@@ -13,7 +19,6 @@
 Above average and delicate, with Long and flowing blonde hair and Blue eyes. Freckled skin. Weather-beaten face showing hard life.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Never uses people's real names; Laughs at the most inappropriate times
@@ -36,37 +41,30 @@ Accidentally gained powers and learning to control them A prophetic dream has be
 - **Short Term**: Gather information
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Alaric Silverleaf the Scholar (Personal - Ex-lover)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Felicia Dawnstrider the Broken (Political - Opposition)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
-
 
 ### Hestara Winterborn the Lost (Personal - Ex-lover)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Ewan Winterborn the Wise (Professional - Employer)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
-
 
 ### Ysara Ashford the Swift (Family - Parent)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Faelyn Nightfall the Wise (Professional - Rival)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Has died and been resurrected

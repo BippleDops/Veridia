@@ -102,3 +102,8 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Locations Location City Freedrift Network V1 Freedrift Network.svg]]
+- [[Assets Portraits Portrait NPC Lord Magnus Goldspire Lord Magnus Goldspire.svg]]

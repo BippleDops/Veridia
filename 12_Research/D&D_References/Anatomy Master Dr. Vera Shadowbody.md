@@ -63,3 +63,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Someone is hunting a witness for power
 - Strange accidents suggest a conspiracy
 - Strange sightings suggest a conspiracy
+
+## References
+
+- [[Shadow Surgeon Apprentice]]

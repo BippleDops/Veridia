@@ -84,3 +84,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Strange dreams suggest ancient magic
 - A merchant needs help delivering before winter
+
+## References
+
+- [[Master_Item_Catalog]]

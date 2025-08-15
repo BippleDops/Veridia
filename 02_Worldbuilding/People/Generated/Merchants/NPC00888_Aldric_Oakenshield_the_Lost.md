@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Oakenshield the Lost", "aldric oakenshield the lost", "Aldric Oakenshield Lost", "Lost the Oakenshield Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Oakenshield the Lost
 
 *Aasimar Trader (Merchants), Age 72, Non-binary*
@@ -13,7 +19,6 @@
 Tall and lanky, with Mohawk white hair and Blue eyes. Unusual hue skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Flirts with everyone regardless of interest; Incredibly optimistic despite evidence; Never backs down from any challenge
@@ -36,12 +41,10 @@ Former adventurer who retired to open a shop A prophetic dream has been haunting
 - **Short Term**: Complete current contract
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Thalia Grimholt the Scholar (Family - Sibling)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
-
 
 ### Drusilla Emberfall the Bold (Criminal - Informant)
 - **Status**: Recently reconciled
@@ -56,7 +59,6 @@ Former adventurer who retired to open a shop A prophetic dream has been haunting
 ### Pyria Ironwood the Bold (Political - Patron)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Smuggles illegal magical items

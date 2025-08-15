@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Quicksilver the Broken", "baelor quicksilver the broken", "Baelor Quicksilver Broken", "Broken the Quicksilver Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Quicksilver the Broken
 
 *Half-Orc Bard (Adventurers), Age 53, Male*
@@ -13,7 +19,6 @@
 Very tall and muscular, with Partially shaved bald hair and Hazel eyes. Brown skin. Intricate tattoos covering arms.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Never uses people's real names
@@ -36,12 +41,10 @@ Accidentally gained powers and learning to control them A family member's death 
 - **Short Term**: Find missing person
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Drusilla Jadeclaw the Scholar (Professional - Partner)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ### Urien Nightfall the Swift (Family - Spouse)
 - **Status**: Recently reconciled

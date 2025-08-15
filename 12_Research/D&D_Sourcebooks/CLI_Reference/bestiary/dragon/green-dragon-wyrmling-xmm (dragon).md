@@ -144,3 +144,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Strange sightings suggest ancient magic
 - Someone is searching for information for revenge
 - Strange dreams suggest a curse
+
+## References
+
+- [[Green Dragon Wyrmling Xmm]]
+- [[Monsters by Habitat Forest Monsters Xmm]]
+- [[monsters-by-habitat-forest-monsters-xmm (tables)]]

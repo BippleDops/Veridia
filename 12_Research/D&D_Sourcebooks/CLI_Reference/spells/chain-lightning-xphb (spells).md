@@ -108,7 +108,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -121,3 +120,15 @@ Contextual improvement based on 12_Research
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[aerisi-kalinoth-pota (npc)]]
+- [[npc - Aerisi Kalinoth Pota]]
+- [[Lich Xmm (undead)]]
+- [[lich-xmm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Ring of Elemental Command Air Xdmg]]
+- [[ring-of-elemental-command-air-xdmg (items)]]

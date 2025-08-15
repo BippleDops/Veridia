@@ -1,11 +1,11 @@
 ---
+aliases: ["Ewan Goldleaf the Strong", "ewan goldleaf the strong", "Ewan Goldleaf Strong", "Strong the Goldleaf Ewan"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -78,7 +78,6 @@ Stealth, Arcana, Deception
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 40 gold pieces
 - Healing potion
@@ -90,7 +89,6 @@ Stealth, Arcana, Deception
 
 ---
 *Generated: 2025-08-15T03:20:13.081Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

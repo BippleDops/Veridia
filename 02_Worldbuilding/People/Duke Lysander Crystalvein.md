@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-duke-lysander-crystalvein-duke-lysander-crystalvein.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -182,7 +180,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -252,3 +249,11 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City Transportation Guild Masters V1 Transportation Guild Masters.svg]]
+- [[Assets Portraits Portrait NPC Captain Henrik Saltbreeze Captain Henrik Saltbreeze.svg]]
+- [[Assets Symbols Symbol Heraldry the Forsaken Consortium Collective the Forsaken Consortium Collective.svg]]
+- [[Noble Quarter]]
+- [[Noble Quarter (D&D_Statblocks)]]

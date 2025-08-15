@@ -382,3 +382,7 @@ What they claim to pursue
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Consequence Chain 2 - Crystal Trade Disruption]]

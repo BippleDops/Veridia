@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Emberfall the Cunning", "ewan emberfall the cunning", "Ewan Emberfall Cunning", "Cunning the Emberfall Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Emberfall the Cunning
 
 *Gnome Ambassador (Nobles), Age 38, Female*
@@ -42,11 +48,9 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Elric Youngblood (Professional - Employee)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ### Solas Hawthorne (Personal - Best friend)
 - **Status**: Professional only
@@ -66,7 +70,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 ### Pyria Keenblade (Professional - Employee)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Child from scandalous affair

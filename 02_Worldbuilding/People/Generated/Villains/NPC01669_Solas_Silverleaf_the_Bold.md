@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Silverleaf the Bold", "solas silverleaf the bold", "Solas Silverleaf Bold", "Bold the Silverleaf Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Silverleaf the Bold
 
 *Gnome Crime Boss (Villains), Age 45, Male*
@@ -13,7 +19,6 @@
 Very tall and muscular, with Tied back brown hair and Gray eyes. Dark skin. Constantly changing hair color.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Incredibly optimistic despite evidence
@@ -47,7 +52,6 @@ Corrupted by an artifact or dark magic They're being blackmailed by someone from
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Gareth Voidwalker the Strong (Family - Cousin)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
@@ -56,7 +60,6 @@ Corrupted by an artifact or dark magic They're being blackmailed by someone from
 ### Baelor Goldleaf the Wanderer (Personal - Best friend)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ### Gareth Quicksilver the Mystic (Family - Sibling)
 - **Status**: Professional only

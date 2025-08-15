@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Ironwood the Broken", "orion ironwood the broken", "Orion Ironwood Broken", "Broken the Ironwood Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Ironwood the Broken
 
 *Goliath Noble (Nobles), Age 41, Female*
@@ -13,7 +19,6 @@
 Average height and wiry, with Wild and unkempt blonde hair and Hazel eyes. Unusual hue skin. Weather-beaten face showing hard life.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Always tells the absolute truth; Never uses people's real names
@@ -36,7 +41,6 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Short Term**: Complete current contract
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Vesper Ironforge (Personal - Best friend)
 - **Status**: On the verge of collapse
@@ -47,11 +51,9 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Hestara Lightbringer the Scholar (Professional - Employee)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Secretly funding the rebellion

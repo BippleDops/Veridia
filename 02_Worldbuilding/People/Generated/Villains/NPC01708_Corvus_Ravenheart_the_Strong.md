@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Ravenheart the Strong", "corvus ravenheart the strong", "Corvus Ravenheart Strong", "Strong the Ravenheart Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Ravenheart the Strong
 
 *Firbolg Dark Wizard (Villains), Age 36, Male*
@@ -13,7 +19,6 @@
 Below average and wiry, with Carefully styled black hair and Amber eyes. Dark skin. Birthmark shaped like a constellation.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Laughs at the most inappropriate times
@@ -52,21 +57,17 @@ Born into evil but questioning their path They're being blackmailed by someone f
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Elric Silverleaf the Wanderer (Political - Spy)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ### Elric Crystalbrook the Risen (Political - Puppet)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
 
-
 ### Ysara Emberfall the Mystic (Criminal - Fence)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is being controlled by darker force

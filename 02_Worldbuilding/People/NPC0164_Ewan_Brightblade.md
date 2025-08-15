@@ -1,11 +1,11 @@
 ---
+aliases: ["Ewan Brightblade", "ewan brightblade", "Brightblade Ewan"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Merchant family that lost everything to pirates. Years ago, they was falsely acc
 ### Skills
 Deception, Perception
 
-
-
 ## Possessions
 - 35 gold pieces
 - Healing potion
@@ -90,7 +88,6 @@ Deception, Perception
 
 ---
 *Generated: 2025-08-15T03:20:13.090Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

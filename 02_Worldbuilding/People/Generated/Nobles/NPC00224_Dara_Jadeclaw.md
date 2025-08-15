@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Jadeclaw", "dara jadeclaw", "Jadeclaw Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Jadeclaw
 
 *Tabaxi Aristocrat (Nobles), Age 39, Non-binary*
@@ -36,17 +42,14 @@ Recently elevated to nobility through service, still learning courtly ways A fam
 - **Short Term**: Complete current contract
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Gavril Dawnstrider the Cunning (Criminal - Fence)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
 
-
 ### Thalia Emberfall (Criminal - Fence)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ### Aldric Crystalbrook the Cunning (Family - Spouse)
 - **Status**: On the verge of collapse
@@ -57,7 +60,6 @@ Recently elevated to nobility through service, still learning courtly ways A fam
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Hilda Thornweave the Swift (Professional - Employee)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
@@ -66,7 +68,6 @@ Recently elevated to nobility through service, still learning courtly ways A fam
 ### Ewan Winterborn (Professional - Mentor)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Secretly funding the rebellion

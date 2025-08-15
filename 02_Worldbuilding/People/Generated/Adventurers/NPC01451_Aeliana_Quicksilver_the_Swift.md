@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Quicksilver the Swift", "aeliana quicksilver the swift", "Aeliana Quicksilver Swift", "Swift the Quicksilver Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Quicksilver the Swift
 
 *Gnome Wizard (Adventurers), Age 29, Male*
@@ -42,7 +48,6 @@ Seeking vengeance for a murdered mentor They've been marked by a secret society.
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Cedric Crystalbrook the Wise (Family - Parent)
 - **Status**: One-sided affection
 - **History**: United by common enemy
@@ -52,11 +57,9 @@ Seeking vengeance for a murdered mentor They've been marked by a secret society.
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Vesper Voidwalker the Wise (Criminal - Accomplice)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Has died and been resurrected

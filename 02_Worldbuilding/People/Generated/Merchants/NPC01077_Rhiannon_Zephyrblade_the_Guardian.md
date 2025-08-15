@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Zephyrblade the Guardian", "rhiannon zephyrblade the guardian", "Rhiannon Zephyrblade Guardian", "Guardian the Zephyrblade Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Zephyrblade the Guardian
 
 *Halfling Trader (Merchants), Age 25, Non-binary*
@@ -36,7 +42,6 @@ Uses their business as cover for other activities They're being blackmailed by s
 - **Short Term**: Avoid the authorities
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Solas Blackstone the Risen (Professional - Rival)
 - **Status**: Recently reconciled
@@ -47,21 +52,17 @@ Uses their business as cover for other activities They're being blackmailed by s
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Wynne Nightfall the Scholar (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ### Erasmus Jadeclaw the Guardian (Professional - Employer)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Kaelen Goldleaf the Broken (Personal - Love interest)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Smuggles illegal magical items

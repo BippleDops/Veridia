@@ -108,7 +108,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -127,4 +126,16 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[teleportation-circle-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[spells|teleportation-circle-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Teleportation Circle]]
+- [[teleportation-circle (bastions)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Ranger Xphb Horizon Walker Xge]]
+- [[ranger-xphb-horizon-walker-xge (classes)]]
+- [[Special Facility Descriptions Special Facilities Xdmg]]
+- [[Special Facility Descriptions Special]]

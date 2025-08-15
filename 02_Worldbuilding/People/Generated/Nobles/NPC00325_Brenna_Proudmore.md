@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Proudmore", "brenna proudmore", "Proudmore Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Proudmore
 
 *Tabaxi Noble (Nobles), Age 35, Female*
@@ -36,7 +42,6 @@ Secretly adopted into nobility, living in fear of discovery A chance encounter l
 - **Short Term**: Avoid the authorities
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Brenna Winterborn the Redeemed (Criminal - Handler)
 - **Status**: Strained but maintaining
@@ -46,7 +51,6 @@ Secretly adopted into nobility, living in fear of discovery A chance encounter l
 ### Gavril Ironforge the Wanderer (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
-
 
 ### Solas Brightblade (Criminal - Informant)
 - **Status**: Mutually beneficial

@@ -102,3 +102,25 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Adult Bronze Dragon Xmm]]
+- [[Ancient Bronze Dragon Xmm]]
+- [[adult-bronze-dragon-xmm (dragon)]]
+- [[ancient-bronze-dragon-xmm (dragon)]]
+- [[Spirit Naga Xmm]]
+- [[spirit-naga-xmm (fiend)]]
+- [[Empyrean Xmm]]
+- [[empyrean-xmm (miscellaneous)]]
+- [[Kraken Priest Mpmm]]
+- [[kraken-priest-mpmm (monstrosity)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Druid Xphb Circle of the Sea Xphb]]
+- [[druid-xphb-circle-of-the-sea-xphb (classes)]]
+- [[Gift of the Depths Xphb]]
+- [[gift-of-the-depths-xphb (optional-features)]]
+- [[Contingency Xphb]]
+- [[contingency-xphb (spells)]]

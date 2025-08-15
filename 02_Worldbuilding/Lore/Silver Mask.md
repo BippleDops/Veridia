@@ -61,7 +61,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -111,7 +111,7 @@ The investigation of Silver Mask has become one of the most complex and frustrat
 
 What makes Silver Mask particularly dangerous is not just the mystery of their identity, but the scope of their apparent influence. Intelligence [[reports]] suggest that Silver Mask has been involved in major political decisions, [[Economic Manipulation]]s, and social movements over the past three decades, potentially shaping the course of Aethermoor history while remaining completely hidden from public awareness. Each investigation reveals new layers of deception, false identities, and manufactured evidence that makes determining Silver Mask's true nature increasingly difficult.
 
-The mystery deepens when considering that Silver Mask's activities appear to be connected to other major conspiracy networks operating across both [[Aethermoor]] and [[Aquabyssos]], suggesting that this phantom agent represents a critical element in cross-dimensional conspiracy activities related to [[The Convergence Point]] and the manipulation of [[The [[Seven Shards]]]].
+The mystery deepens when considering that Silver Mask's activities appear to be connected to other major conspiracy networks operating across both [[Aethermoor]] and [[Aquabyssos]], suggesting that this phantom agent represents a critical element in cross-dimensional conspiracy activities related to [[The Convergence Point]] and the manipulation of [[Seven Shards|The [[Seven Shards]]]].
 
 ### Surface Layer: Urban Legend and Rumor
 
@@ -134,7 +134,7 @@ The mystery deepens when considering that Silver Mask's activities appear to be 
 **Initiated Knowledge (Difficulty: Moderate)**
 - Silver Mask appears to have detailed knowledge of criminal operations
 - Connections between Silver Mask sightings and major heists or cons
-- Evidence that Silver Mask has infiltrated both law enforcement and [[Criminal [[Organization]]s]]
+- Evidence that Silver Mask has infiltrated both law enforcement and [[Organization|Criminal [[Organization]]s]]
 - Ficial records suggesting Silver Mask controls significant resources
 - Communication patterns indicating Silver Mask has access to high-level intelligence
 
@@ -191,7 +191,7 @@ The mystery deepens when considering that Silver Mask's activities appear to be 
 - **Memory Inconsistencies**: Some witnesses later claim they never saw Silver Mask at all
 - **Emotional Manipulation**: Witnesses often feel unusually trusting or fearful when interacting with Silver Mask
 - **Selective Memory**: Witnesses remember some details clearly while others remain completely blank
-- **Conflicting [[[[Time]]line]]s**: Multiple witnesses place Silver Mask in different [[location]]s simultaneously
+- **Conflicting [[Time|[[Time]]line]]s**: Multiple witnesses place Silver Mask in different [[location]]s simultaneously
 
 **Documentary Evidence:**
 - **Historical Records**: References to similar masked figures throughout Aethermoor's history
@@ -404,7 +404,7 @@ Some intelligence analysts propose that Silver Mask operates as an independent a
 **Counter-Intelligence:**
 - **False Information**: Provide misleading information to test Silver Mask's intelligence sources, coordinating with [[The Restoration Movement]] information networks
 - **Surveillance Deception**: Use false surveillance efforts to identify how Silver Mask monitors investigations, utilizing [[Silverscale Emergency Bunker]] secure communications
-- **Identity Traps**: Create scenarios designed to force Silver Mask to reveal true capabilities, potentially involving [[[[Deep Mother]] Cult Practices]] spiritual detection methods
+- **Identity Traps**: Create scenarios designed to force Silver Mask to reveal true capabilities, potentially involving [[Deep Mother|[[Deep Mother]] Cult Practices]] spiritual detection methods
 - **Network Disruption**: Target support networks that enable Silver Mask operations, investigating connections to [[Umbral Exchange]] resource networks
 - **Technological Countermeasures**: Develop tools designed to defeat Silver Mask's apparent advantages, potentially utilizing [[Crystal Forest]] detection crystals and [[Shadow Magic Integration Practices]] protection methods
 
@@ -518,7 +518,7 @@ Some intelligence analysts propose that Silver Mask operates as an independent a
 - [[12 Research]] - Merchant prince whose networks may overlap with Silver Mask's resource requirements
 
 **Potential Targets and Assets:**
-- [[[[Queen Seraphina]] [[Lumengarde]]]] - High-value political target for Silver Mask influence operations
+- [[Queen Seraphina|[[Queen Seraphina]] [[Lumengarde]]]] - High-value political target for Silver Mask influence operations
 - [[Thalassius the Wise]] - Scholar who may possess knowledge about identity magic and dimensional manipulation
 - [[The Restoration Movement]] - Political organization potentially infiltrated or influenced by Silver Mask
 
@@ -556,7 +556,7 @@ Silver Mask is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of Silver Mask as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Silver Mask.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -627,3 +627,14 @@ Mentioned in The Hidden Prophecy of Stars
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[INV 001]]
+- [[INV 004]]
+- [[INV 005]]
+- [[The Restoration Movement]]
+- [[The Silverscale Conspiracy]]
+- [[Aethermoor - Session 03 Council of Shadows]]
+- [[The Restoration Movement (D&D_References)]]
+- [[The Silverscale Conspiracy (D&D_References)]]

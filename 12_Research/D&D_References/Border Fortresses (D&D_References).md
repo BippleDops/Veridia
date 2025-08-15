@@ -63,3 +63,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A shipment has gone missing and evil awakens
 - An heirloom has gone missing and truth emerges
 - An heirloom has gone missing and evil awakens
+
+## References
+
+- [[README]]

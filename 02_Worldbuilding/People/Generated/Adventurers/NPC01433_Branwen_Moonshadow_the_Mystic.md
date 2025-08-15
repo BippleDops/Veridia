@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Moonshadow the Mystic", "branwen moonshadow the mystic", "Branwen Moonshadow Mystic", "Mystic the Moonshadow Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Moonshadow the Mystic
 
 *Gnome Fighter (Adventurers), Age 43, Male*
@@ -13,7 +19,6 @@
 Towering and compact, with Short and neat white hair and Black eyes. Brown skin. Weather-beaten face showing hard life.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Collects unusual and worthless objects; Flirts with everyone regardless of interest
@@ -36,7 +41,6 @@ Accidentally gained powers and learning to control them An old debt has come due
 - **Short Term**: Gather information
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Brenna Dawnstrider the Seeker (Political - Patron)
 - **Status**: Professional only
@@ -47,16 +51,13 @@ Accidentally gained powers and learning to control them An old debt has come due
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
 
-
 ### Cedric Grimholt the Mystic (Criminal - Target)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
 
-
 ### Branwen Zephyrblade the Bold (Family - Sibling)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Is from the future

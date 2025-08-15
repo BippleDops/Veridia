@@ -1,3 +1,9 @@
+---
+aliases: ["Divine Scepter of Dominion", "divine scepter of dominion", "Dominion of Scepter Divine"]
+tags: [item, equipment]
+type: item
+---
+
 # Divine Scepter of Dominion
 
 *Artifacts, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A divine scepter radiating otherworldly power
 - Regenerate 1 hp/round
 - Grant true sight
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -32,7 +36,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.424Z*

@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Quicksilver the Broken", "thalia quicksilver the broken", "Thalia Quicksilver Broken", "Broken the Quicksilver Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Quicksilver the Broken
 
 *Halfling Cultist (Villains), Age 19, Non-binary*
@@ -13,7 +19,6 @@
 Very short and athletic, with Tied back unusual color hair and Violet eyes. Pale skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Always speaks in metaphors and riddles; Collects unusual and worthless objects
@@ -57,11 +62,9 @@ Born into evil but questioning their path Strange abilities have begun manifesti
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Ewan Xendar the Guardian (Professional - Employee)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Is being controlled by darker force

@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Brightblade the Seeker", "urien brightblade the seeker", "Urien Brightblade Seeker", "Seeker the Brightblade Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Brightblade the Seeker
 
 *Half-Orc Cultist (Villains), Age 69, Non-binary*
@@ -36,17 +42,14 @@ Betrayed by those they trusted, now seeking revenge on the world They recently d
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Baelor Ironforge the Risen (Political - Spy)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Xander Xendar the Fallen (Criminal - Fence)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
-
 
 ### Faelyn Silverleaf the Fallen (Political - Opposition)
 - **Status**: Strong and trusting
@@ -56,7 +59,6 @@ Betrayed by those they trusted, now seeking revenge on the world They recently d
 ### Branwen Ravenheart the Broken (Personal - Ex-lover)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Knows how the world will end

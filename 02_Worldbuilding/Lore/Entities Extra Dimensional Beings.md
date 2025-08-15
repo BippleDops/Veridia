@@ -1,6 +1,6 @@
 ---
 
-title: Entities [[Extra Dimensional Beings]]
+title: Entities [[Entities Extra Dimensional Beings|Extra Dimensional Beings]]
 type: [[Lore]]
 tags:
 - lore
@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 

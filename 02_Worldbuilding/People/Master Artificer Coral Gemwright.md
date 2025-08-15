@@ -27,8 +27,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
-
 ## Relationships
 - **Allies**: Notable allies and friends
 - **Rivals**: Competitors and rivals  
@@ -154,7 +152,6 @@ Currently engaged in professional duties and maintaining their position within t
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
 ## Secrets
 - Hidden information about this character
 - Unknown connections or past events
@@ -247,7 +244,6 @@ Member of House Lionblood - Trait: divine blood
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -283,3 +279,13 @@ Member of House Lionblood - Trait: divine blood
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Harbor Pilot Captain Storm Skyreacher Harbor Pilot Captain Storm Skyreacher.svg]]
+- [[Assets Symbols Symbol Heraldry Master Trader Darkmarke Master Trader Darkmarke.svg]]
+- [[Banking Lord Cornelius Coinwright]]
+- [[Korvin Blacktide]]
+- [[Banking Lord Cornelius Coinwright (D&D_References)]]
+- [[Korvin Blacktide (D&D_References)]]
+- [[Magic Items]]

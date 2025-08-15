@@ -1,4 +1,5 @@
 ---
+aliases: ["Cursed Shield of Shadows", "cursed shield of shadows", "Shadows of Shield Cursed"]
 tags: [generated]
 id: ITEM0138
 created: 2025-08-15T04:09:51.121Z
@@ -19,8 +20,6 @@ Crafted from darkwood with glowing gems, in ancient but unbreakable. It emanates
 
 ## Quirk
 *Hums when enemies are near*
-
-
 
 ## History
 This item was reforged from broken artifacts decades ago. It has passed through many hands, each leaving their mark upon its destiny.

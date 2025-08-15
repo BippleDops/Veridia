@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Hawthorne the Strong", "ewan hawthorne the strong", "Ewan Hawthorne Strong", "Strong the Hawthorne Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Hawthorne the Strong
 
 *Halfling Fighter (Adventurers), Age 66, Male*
@@ -36,37 +42,30 @@ Seeking vengeance for a murdered mentor A chance encounter last winter changed t
 - **Short Term**: Avoid the authorities
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Faelyn Quicksilver the Bold (Political - Opposition)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Thalia Winterborn the Bold (Professional - Employer)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ### Kaelen Nightfall the Broken (Political - Spy)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
 
-
 ### Alaric Blackstone the Mystic (Professional - Mentor)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ### Rhiannon Proudmore the Cunning (Personal - Best friend)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Urien Blackstone the Scholar (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Has died and been resurrected

@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Underhill the Mystic", "gavril underhill the mystic", "Gavril Underhill Mystic", "Mystic the Underhill Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Underhill the Mystic
 
 *Dragonborn Corrupt Noble (Villains), Age 71, Non-binary*
@@ -42,16 +48,13 @@ Betrayed by those they trusted, now seeking revenge on the world Strange abiliti
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Elric Thornweave the Broken (Family - Parent)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Xander Hawthorne the Risen (Criminal - Informant)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
-
 
 ### Gavril Crystalbrook the Wanderer (Criminal - Target)
 - **Status**: On the verge of collapse
@@ -61,7 +64,6 @@ Betrayed by those they trusted, now seeking revenge on the world Strange abiliti
 ### Xander Underhill the Bold (Political - Puppet)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Has a child they're protecting

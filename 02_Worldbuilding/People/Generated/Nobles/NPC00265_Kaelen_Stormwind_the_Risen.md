@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Stormwind the Risen", "kaelen stormwind the risen", "Kaelen Stormwind Risen", "Risen the Stormwind Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Stormwind the Risen
 
 *Tabaxi Ambassador (Nobles), Age 41, Male*
@@ -42,21 +48,17 @@ Secretly adopted into nobility, living in fear of discovery They've been marked 
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Fiora Thornweave (Personal - Love interest)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ### Orion Youngblood (Criminal - Target)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
 
-
 ### Vesper Xendar (Personal - Nemesis)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ### Hilda Goldleaf the Fallen (Professional - Employer)
 - **Status**: On the verge of collapse
@@ -66,7 +68,6 @@ Secretly adopted into nobility, living in fear of discovery They've been marked 
 ### Drusilla Blackstone the Fallen (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Child from scandalous affair

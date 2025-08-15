@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Brightblade the Lost", "idris brightblade the lost", "Idris Brightblade Lost", "Lost the Brightblade Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Brightblade the Lost
 
 *Half-Orc Blacksmith (Commoners), Age 56, Male*
@@ -47,7 +53,6 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Rhiannon Hawthorne the Fallen (Family - Sibling)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
@@ -61,7 +66,6 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 ### Wynne Moonshadow the Bold (Professional - Employee)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ### Delara Grimholt the Mystic (Personal - Love interest)
 - **Status**: Strained but maintaining

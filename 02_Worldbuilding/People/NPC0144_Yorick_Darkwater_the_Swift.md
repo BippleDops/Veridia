@@ -1,11 +1,11 @@
 ---
+aliases: ["Yorick Darkwater the Swift", "yorick darkwater the swift", "Yorick Darkwater Swift", "Swift the Darkwater Yorick"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -75,8 +75,6 @@ Born into a noble family but cast out for scandal. Years ago, they survived a pl
 ### Skills
 Stealth, Insight, Investigation
 
-
-
 ## Possessions
 - 46 gold pieces
 - Lucky dice
@@ -90,7 +88,6 @@ Stealth, Insight, Investigation
 
 ---
 *Generated: 2025-08-15T03:20:13.088Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

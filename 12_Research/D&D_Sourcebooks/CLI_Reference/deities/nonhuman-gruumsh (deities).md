@@ -77,3 +77,8 @@ Mentioned in The First Prophecy of Winds
 - A noble needs help finding before the festival
 - A letter reveals the truth about this place
 - A document has gone missing and war looms
+
+## References
+
+- [[Nonhuman Deities Phb]]
+- [[nonhuman-deities-phb (tables)]]

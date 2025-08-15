@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Thornweave the Guardian", "jorah thornweave the guardian", "Jorah Thornweave Guardian", "Guardian the Thornweave Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Thornweave the Guardian
 
 *Tabaxi Trader (Merchants), Age 21, Male*
@@ -13,7 +19,6 @@
 Above average and wiry, with Mohawk gray hair and Amber eyes. Olive skin. Intricate tattoos covering arms.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Speaks to inanimate objects; Always speaks in metaphors and riddles
@@ -36,22 +41,18 @@ Part of a merchant family with connections everywhere A chance encounter last wi
 - **Short Term**: Survive until next week
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Qadim Silverleaf the Mystic (Political - Patron)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Baelor Blackstone the Risen (Criminal - Informant)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Pyria Jadeclaw the Seeker (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ### Hestara Frostwhisper the Mystic (Family - Parent)
 - **Status**: Mutually beneficial

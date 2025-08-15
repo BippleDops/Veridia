@@ -1,11 +1,11 @@
 ---
+aliases: ["Rhea Darkwater", "rhea darkwater", "Darkwater Rhea"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -74,8 +74,6 @@ Grew up on the streets, learning to survive. Years ago, they survived a plague t
 ### Skills
 Perception, Insight, Persuasion
 
-
-
 ## Possessions
 - 14 gold pieces
 - Small gemstone
@@ -88,7 +86,6 @@ Perception, Insight, Persuasion
 
 ---
 *Generated: 2025-08-15T03:20:13.087Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

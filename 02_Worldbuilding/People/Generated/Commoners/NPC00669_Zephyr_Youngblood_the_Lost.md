@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Youngblood the Lost", "zephyr youngblood the lost", "Zephyr Youngblood Lost", "Lost the Youngblood Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Youngblood the Lost
 
 *Half-Elf Baker (Commoners), Age 39, Male*
@@ -13,7 +19,6 @@
 Tall and delicate, with Partially shaved brown hair and Gray eyes. Unusual hue skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Never backs down from any challenge; Always hungry and eating something
@@ -36,22 +41,18 @@ Family has worked the same trade for generations, but times are changing A famil
 - **Short Term**: Find missing person
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Solas Youngblood the Risen (Personal - Childhood friend)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
 
-
 ### Gavril Frostwhisper the Wanderer (Family - Cousin)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Gareth Hawthorne the Risen (Personal - Nemesis)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ### Jorah Ashford the Broken (Criminal - Handler)
 - **Status**: Complicated history

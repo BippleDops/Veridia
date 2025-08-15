@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Ashford the Risen", "dara ashford the risen", "Dara Ashford Risen", "Risen the Ashford Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Ashford the Risen
 
 *Genasi Blacksmith (Commoners), Age 26, Non-binary*
@@ -36,27 +42,22 @@ Survivor of a disaster that destroyed their village They're being blackmailed by
 - **Short Term**: Find missing person
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Solas Crystalbrook the Broken (Personal - Childhood friend)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Urien Voidwalker the Mystic (Professional - Mentor)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ### Erasmus Emberfall the Wise (Political - Patron)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
 
-
 ### Branwen Lightbringer the Strong (Professional - Employer)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Witnessed a noble's crime

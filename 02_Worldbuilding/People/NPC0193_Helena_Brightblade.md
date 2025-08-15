@@ -1,11 +1,11 @@
 ---
+aliases: ["Helena Brightblade", "helena brightblade", "Brightblade Helena"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Grew up on the streets, learning to survive. Years ago, they was falsely accused
 ### Skills
 Deception, Athletics
 
-
-
 ## Possessions
 - 90 gold pieces
 - Set of thieves' tools
@@ -91,7 +89,6 @@ Deception, Athletics
 
 ---
 *Generated: 2025-08-15T03:21:04.045Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

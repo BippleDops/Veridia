@@ -102,3 +102,9 @@ Mentioned in The Hidden Prophecy of Shadows
 - The authorities needs help finding before the festival
 - A shipment has gone missing and chaos spreads
 - Someone is protecting a witness for revenge
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[09 Appendix B Spells]]
+- [[09-appendix-b-spells (princes-of-the-apocalypse)]]

@@ -115,7 +115,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -128,3 +127,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Master_Spell_Compendium]]

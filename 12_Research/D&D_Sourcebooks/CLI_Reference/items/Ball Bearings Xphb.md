@@ -78,3 +78,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A letter reveals ancient history about this place
 - An heirloom has gone missing and evil awakens
+
+## References
+
+- [[Master_Item_Catalog]]

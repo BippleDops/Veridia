@@ -1,3 +1,9 @@
+---
+aliases: ["Masterwork Lantern of Reliability", "masterwork lantern of reliability", "Reliability of Lantern Masterwork"]
+tags: [item, equipment]
+type: item
+---
+
 # Masterwork Lantern of Reliability
 
 *Mundane, Common*

@@ -11,7 +11,7 @@ created: '2025-01-15'
 
 ## Portrait
 
-![[portrait_04_resources_assets_portraits_portrait-npc-lady-catherine-mourning-lady-catherine-mourning.svg.png]]
+![[04_Resources|portrait_04_resources_assets_portraits_portrait-npc-lady-catherine-mourning-lady-catherine-mourning.svg.png]]
 
 *Portrait reference for 04_Resources_Assets_Portraits_portrait-npc-lady-catherine-mourning-lady-catherine-mourning.svg*
 
@@ -75,3 +75,10 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+## References
+
+- [[Assets Art Dr. Siphon Gillwater.png]]
+- [[Assets Portraits Portrait NPC Captain Marina Saltborn Captain Marina Saltborn.svg]]
+- [[Assets Symbols Symbol Heraldry Healing Ministries Healing Ministries.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-lady-catherine-mourning-lady-catherine-mourning.svg_Quick_Ref]]

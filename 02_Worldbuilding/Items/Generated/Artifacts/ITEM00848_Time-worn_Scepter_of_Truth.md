@@ -1,3 +1,9 @@
+---
+aliases: ["Time-worn Scepter of Truth", "time-worn scepter of truth", "Truth of Scepter Time-worn"]
+tags: [item, equipment]
+type: item
+---
+
 # Time-worn Scepter of Truth
 
 *Artifacts, Artifact (requires attunement)*
@@ -16,8 +22,6 @@ A time-worn scepter covered in mysterious symbols
 - Increase ability score by 2
 - Telepathy 120 ft
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -32,7 +36,6 @@ Priceless
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.431Z*

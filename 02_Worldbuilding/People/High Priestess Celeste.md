@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-high-priestess-celeste-high-priestess-celeste.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -213,7 +211,6 @@ Member of House Lionblood - Trait: prophecy
 - 20% middle class
 - 79% working poor
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -283,3 +280,11 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Quest - The Pretender's Crown_1 (01_Adventures)]]
+- [[Relationship Web Nuances]]
+- [[The Festival of Rising Tides]]
+- [[Master_Item_Catalog]]

@@ -89,3 +89,11 @@ Mentioned in The Hidden Prophecy of Winds
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Gaming Set Xphb]]
+- [[gaming-set-xphb (items)]]
+- [[Tools Phb]]
+- [[tools-phb (tables)]]

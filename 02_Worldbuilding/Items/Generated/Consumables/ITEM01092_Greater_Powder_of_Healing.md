@@ -1,3 +1,9 @@
+---
+aliases: ["Greater Powder of Healing", "greater powder of healing", "Healing of Powder Greater"]
+tags: [item, equipment]
+type: item
+---
+
 # Greater Powder of Healing
 
 *Consumables, Rare (requires attunement)*

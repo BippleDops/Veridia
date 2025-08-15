@@ -174,3 +174,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[Vampire Spawn Xmm]]
+- [[Vampire Xmm (undead)]]
+- [[vampire-xmm (undead)]]
+- [[Holy Symbol of Ravenkind Cos]]
+- [[Saint Markovias Thighbone Cos]]
+- [[holy-symbol-of-ravenkind-cos (items)]]
+- [[saint-markovias-thighbone-cos (items)]]
+- [[Player Characters as Vampires Mm]]
+- [[player-characters-as-vampires-mm (variant-rules)]]

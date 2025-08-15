@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Dawnstrider the Wise", "thalia dawnstrider the wise", "Thalia Dawnstrider Wise", "Wise the Dawnstrider Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Dawnstrider the Wise
 
 *Goliath Corrupt Noble (Villains), Age 19, Non-binary*
@@ -36,27 +42,22 @@ Betrayed by those they trusted, now seeking revenge on the world A family member
 - **Short Term**: Avoid the authorities
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Dara Xendar the Bold (Family - Parent)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
 
-
 ### Malakai Brightblade the Wise (Family - Spouse)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ### Cedric Stormwind the Wise (Professional - Partner)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
 
-
 ### Caelum Ironwood the Broken (Family - Child)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Knows how the world will end

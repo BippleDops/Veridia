@@ -1,11 +1,11 @@
 ---
+aliases: ["Cedric Ironforge", "cedric ironforge", "Ironforge Cedric"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -75,8 +75,6 @@ Apprenticed to a master craftsman from young age. Years ago, they once saved a n
 ### Skills
 Stealth, Athletics, Persuasion
 
-
-
 ## Possessions
 - 59 gold pieces
 - Family heirloom (locket)
@@ -89,7 +87,6 @@ Stealth, Athletics, Persuasion
 
 ---
 *Generated: 2025-08-15T03:21:04.031Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

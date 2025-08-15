@@ -84,3 +84,7 @@ Mentioned in The Hidden Prophecy of Stars
 
 - A stranger needs help stealing before winter
 - An heirloom has gone missing and war looms
+
+## References
+
+- [[Master_Item_Catalog]]

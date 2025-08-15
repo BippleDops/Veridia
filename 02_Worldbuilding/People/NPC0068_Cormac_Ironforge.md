@@ -1,11 +1,11 @@
 ---
+aliases: ["Cormac Ironforge", "cormac ironforge", "Ironforge Cormac"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -74,8 +74,6 @@ Merchant family that lost everything to pirates. Years ago, they survived a plag
 ### Skills
 Athletics, Insight, Deception, Stealth
 
-
-
 ## Possessions
 - 71 gold pieces
 - Set of thieves' tools
@@ -90,7 +88,6 @@ Athletics, Insight, Deception, Stealth
 
 ---
 *Generated: 2025-08-15T03:21:04.034Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

@@ -49,3 +49,7 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## [[DM_Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[02_Worldbuilding_Lore_The_Void_Shard]]

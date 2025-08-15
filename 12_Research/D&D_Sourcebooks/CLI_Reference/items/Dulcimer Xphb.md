@@ -78,3 +78,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Stars
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Musical Instrument Xphb]]
+- [[musical-instrument-xphb (items)]]
+- [[Tools Phb]]
+- [[tools-phb (tables)]]

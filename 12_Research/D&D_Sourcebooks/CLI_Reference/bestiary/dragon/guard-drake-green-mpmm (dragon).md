@@ -126,3 +126,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - The authorities needs help investigating before the new moon
 - A stranger needs help delivering before winter
+
+## References
+
+- [[Guard Drake Green Mpmm]]

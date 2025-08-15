@@ -52,7 +52,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -208,7 +208,7 @@ The Blood Current Express represents the most dangerous and exhilarating transpo
 **Rescue**: Rescue facilities and [[Emergency Response Teams]]  
 **Medical**: Medical facilities for treating current-related injuries  
 **Repair**: Emergency repair facilities for damaged vessels  
-**Communication**: Emergency [[Communication Systems]] for distress calls
+**Communication**: Emergency [[Communication_Systems|Communication Systems]] for distress calls
 
 #### Express Racers
 
@@ -707,7 +707,7 @@ The Blood Current Express represents the most dangerous and exhilarating transpo
 **Politics**: Political implications of current transportation  
 **Development**: Infrastructure development supporting current transportation
 
-### [[The [[Free Current]]]]
+### [[Free Current|The [[Free Current]]]]
 
 **Competition**: Competition with alternative transportation methods  
 **Innovation**: Innovation and technology development in transportation  
@@ -762,7 +762,7 @@ Blood Current Express is a undersea element of the setting, known for biolumines
 
 Legends speak of Blood Current Express as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Blood Current Express.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -786,20 +786,17 @@ Blood Current Express is a notable location characterized by its unique features
 ### Founding
 Blood Current Express was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
-
 
 ## Connections
 - **North**: Trade road to neighboring settlement
@@ -834,7 +831,6 @@ Ongoing situations affecting Blood Current Express:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -871,3 +867,7 @@ Ongoing situations affecting Blood Current Express:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Comprehensive-World-Connection-Guide]]

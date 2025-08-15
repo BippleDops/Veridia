@@ -35,7 +35,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-elder-whisper-in-the-dark-elder-whisper-in-the-dark.svg)
 
@@ -293,7 +292,6 @@ Legends speak of Elder Whisper In The Dark as a nexus where past and present con
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -329,3 +327,11 @@ Legends speak of Elder Whisper In The Dark as a nexus where past and present con
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Shadow Independence Levels (Criminal_Organizations)]]
+- [[Master_Artificer_Coral_Gemwright (People)]]
+- [[The Cerulean Trench]]
+- [[Shadow Independence Levels]]
+- [[The Cerulean Trench (D&D_References)]]

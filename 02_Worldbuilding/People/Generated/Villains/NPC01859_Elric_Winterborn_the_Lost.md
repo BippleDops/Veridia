@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Winterborn the Lost", "elric winterborn the lost", "Elric Winterborn Lost", "Lost the Winterborn Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Winterborn the Lost
 
 *Goliath Assassin (Villains), Age 22, Non-binary*
@@ -36,12 +42,10 @@ Believes their evil acts serve a greater good They've fallen in love with someon
 - **Short Term**: Complete current contract
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Hestara Ashford the Guardian (Family - Spouse)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
-
 
 ### Kaelen Stormwind the Lost (Family - Parent)
 - **Status**: Mutually beneficial
@@ -52,11 +56,9 @@ Believes their evil acts serve a greater good They've fallen in love with someon
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Xander Ravenheart the Strong (Professional - Mentor)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Has a child they're protecting

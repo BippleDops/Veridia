@@ -1,4 +1,5 @@
 ---
+aliases: ["Blessed Orb of the Dawn", "blessed orb of the dawn", "Blessed Orb of Dawn", "Dawn the of Orb Blessed"]
 tags: [generated]
 id: ITEM0089
 created: 2025-08-15T04:09:51.106Z
@@ -19,8 +20,6 @@ Crafted from mithril with intricate runes, in showing age but sturdy. It emanate
 
 ## Quirk
 *Hums when enemies are near*
-
-
 
 ## History
 This item was stolen from a dragon's hoard millennia ago. It has passed through many hands, each leaving their mark upon its destiny.

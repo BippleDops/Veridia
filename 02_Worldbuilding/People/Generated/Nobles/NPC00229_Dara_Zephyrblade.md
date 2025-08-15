@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Zephyrblade", "dara zephyrblade", "Zephyrblade Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Zephyrblade
 
 *Half-Elf Courtier (Nobles), Age 33, Female*
@@ -36,22 +42,18 @@ Exiled from their homeland, trying to rebuild their power base An old debt has c
 - **Short Term**: Survive until next week
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Alaric Thornweave (Political - Puppet)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
 
-
 ### Qadim Voidwalker (Professional - Partner)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Qadim Winterborn the Wise (Family - Child)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Practicing forbidden magic

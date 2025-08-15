@@ -367,7 +367,6 @@ The Steadfast Supply Depot connects to numerous important elements throughout Aq
 
 *The Steadfast Supply Depot stands as the unseen foundation upon which Aquabyssos's prosperity rests, where the careful orchestration of countless details ensures that the right supplies reach the right people at precisely the right time, every time.*
 
-
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
@@ -413,13 +412,11 @@ Quartermaster Judith Steadfast is a notable location characterized by its unique
 ### Founding
 Quartermaster Judith Steadfast was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -448,7 +445,6 @@ Ongoing situations affecting Quartermaster Judith Steadfast:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -485,3 +481,8 @@ Ongoing situations affecting Quartermaster Judith Steadfast:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Pressure's End]]
+- [[Pressure's End (D&D_References)]]

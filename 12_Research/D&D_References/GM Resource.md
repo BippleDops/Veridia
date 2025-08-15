@@ -79,3 +79,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Campaign_Dashboard]]
+- [[The Party]]
+- [[The Party (D&D_References)]]

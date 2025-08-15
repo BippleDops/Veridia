@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Lightbringer", "alaric lightbringer", "Lightbringer Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Lightbringer
 
 *Elf Heir (Nobles), Age 72, Female*
@@ -42,7 +48,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Branwen Goldleaf the Cunning (Family - Child)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
@@ -51,7 +56,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 ### Faelyn Moonshadow (Family - Spouse)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ### Hestara Nightfall (Family - Child)
 - **Status**: Professional only
@@ -62,11 +66,9 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Corvus Hawthorne (Family - Child)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Child from scandalous affair

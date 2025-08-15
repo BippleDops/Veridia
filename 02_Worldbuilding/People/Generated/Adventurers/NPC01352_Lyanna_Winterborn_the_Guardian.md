@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Winterborn the Guardian", "lyanna winterborn the guardian", "Lyanna Winterborn Guardian", "Guardian the Winterborn Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Winterborn the Guardian
 
 *Half-Orc Fighter (Adventurers), Age 25, Female*
@@ -36,12 +42,10 @@ Accidentally gained powers and learning to control them A prophetic dream has be
 - **Short Term**: Complete current contract
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Aeliana Underhill the Redeemed (Family - Child)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ### Ysara Winterborn the Swift (Criminal - Accomplice)
 - **Status**: On the verge of collapse
@@ -52,7 +56,6 @@ Accidentally gained powers and learning to control them A prophetic dream has be
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Nerys Ashford the Lost (Political - Patron)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
@@ -62,11 +65,9 @@ Accidentally gained powers and learning to control them A prophetic dream has be
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Rhiannon Blackstone the Scholar (Criminal - Target)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Possessed by ancient spirit

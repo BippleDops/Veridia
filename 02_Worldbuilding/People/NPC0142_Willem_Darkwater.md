@@ -1,11 +1,11 @@
 ---
+aliases: ["Willem Darkwater", "willem darkwater", "Darkwater Willem"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -74,8 +74,6 @@ Child of farmers who sought adventure. Years ago, they accidentally discovered a
 ### Skills
 Stealth, Persuasion, Deception
 
-
-
 ## Possessions
 - 17 gold pieces
 - Letter of recommendation
@@ -88,7 +86,6 @@ Stealth, Persuasion, Deception
 
 ---
 *Generated: 2025-08-15T03:21:04.041Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

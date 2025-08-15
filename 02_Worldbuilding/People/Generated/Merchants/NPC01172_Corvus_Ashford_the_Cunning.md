@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Ashford the Cunning", "corvus ashford the cunning", "Corvus Ashford Cunning", "Cunning the Ashford Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Ashford the Cunning
 
 *Dragonborn Shopkeeper (Merchants), Age 22, Male*
@@ -36,22 +42,18 @@ Uses their business as cover for other activities An old debt has come due at th
 - **Short Term**: Survive until next week
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Malakai Moonshadow the Guardian (Personal - Childhood friend)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Xander Frostwhisper the Risen (Professional - Employee)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Vesper Ironforge the Lost (Political - Patron)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ### Solas Underhill the Fallen (Political - Ally)
 - **Status**: Strained but maintaining

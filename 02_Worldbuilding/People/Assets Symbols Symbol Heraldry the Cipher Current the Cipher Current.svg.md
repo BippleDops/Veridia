@@ -182,3 +182,7 @@ This NPC can serve multiple roles:
 ## Bloodline
 
 Member of House Lionblood - Trait: divine blood
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-weapon-master-dain-sharpedge-v1-weapon-master-dain-sharpedge.svg]]

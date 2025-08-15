@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Hawthorne the Strong", "idris hawthorne the strong", "Idris Hawthorne Strong", "Strong the Hawthorne Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Hawthorne the Strong
 
 *Half-Elf Courtier (Nobles), Age 68, Male*
@@ -35,7 +41,6 @@ Secretly adopted into nobility, living in fear of discovery They've fallen in lo
 ### Goals
 - **Short Term**: Avoid the authorities
 - **Long Term**: Uncover the truth about their past
-
 
 ## Relationships
 ### Alaric Darkwater (Political - Opposition)

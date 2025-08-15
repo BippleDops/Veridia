@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Oakenshield", "idris oakenshield", "Oakenshield Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Oakenshield
 
 *Aasimar Courtier (Nobles), Age 68, Female*
@@ -42,11 +48,9 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
 
-
 ### Felicia Hawthorne (Criminal - Accomplice)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ### Nerys Moonshadow the Scholar (Family - Child)
 - **Status**: Strained but maintaining
@@ -57,7 +61,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Ewan Underhill the Swift (Professional - Mentor)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
@@ -66,7 +69,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 ### Ysara Frostwhisper the Swift (Political - Opposition)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Child from scandalous affair

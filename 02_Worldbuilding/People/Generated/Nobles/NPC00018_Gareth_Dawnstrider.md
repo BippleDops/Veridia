@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Dawnstrider", "gareth dawnstrider", "Dawnstrider Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Dawnstrider
 
 *Tabaxi Aristocrat (Nobles), Age 52, Non-binary*
@@ -13,7 +19,6 @@
 Below average and athletic, with Mohawk auburn hair and Brown eyes. Freckled skin. Missing finger on left hand.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Incredibly optimistic despite evidence; Always speaks in metaphors and riddles
@@ -36,32 +41,26 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Delara Winterborn (Professional - Mentor)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Corvus Crystalbrook (Professional - Partner)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ### Hilda Xendar (Personal - Best friend)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Alaric Ironwood (Family - Sibling)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
 
-
 ### Zephyr Ironforge (Criminal - Fence)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

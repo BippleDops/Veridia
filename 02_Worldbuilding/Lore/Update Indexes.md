@@ -154,6 +154,11 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*
+
+## References
+
+- [[Location Index]]
+- [[Campaign Index 3 (D&D_References)]]
+- [[Location Index (D&D_References)]]

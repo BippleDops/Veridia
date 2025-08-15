@@ -1,3 +1,9 @@
+---
+aliases: ["Practical Compass of Convenience", "practical compass of convenience", "Convenience of Compass Practical"]
+tags: [item, equipment]
+type: item
+---
+
 # Practical Compass of Convenience
 
 *Mundane, Uncommon*

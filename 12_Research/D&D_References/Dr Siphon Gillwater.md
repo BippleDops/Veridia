@@ -90,3 +90,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[02_Worldbuilding_Lore_Master_Artificer_Coral_Gemwright]]
+- [[Admiral Marina Stormcrest (People)]]

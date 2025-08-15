@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Proudmore the Wise", "delara proudmore the wise", "Delara Proudmore Wise", "Wise the Proudmore Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Proudmore the Wise
 
 *Aasimar Ambassador (Nobles), Age 19, Male*
@@ -36,17 +42,14 @@ Secretly adopted into nobility, living in fear of discovery A prophetic dream ha
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Kaelen Thornweave the Redeemed (Criminal - Accomplice)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Thalia Ironforge (Professional - Employer)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
-
 
 ### Gareth Oakenshield the Cunning (Professional - Partner)
 - **Status**: Recently reconciled

@@ -125,13 +125,11 @@ Crisis Management is a notable location characterized by its unique features and
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -139,13 +137,11 @@ Crisis Management is a notable location characterized by its unique features and
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -193,7 +189,6 @@ Key stop on spices trade route
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -229,3 +224,37 @@ Key stop on spices trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Aquabyssos Trade Seal]]
+- [[Cross-Realm Etiquette Guide]]
+- [[Crystal Corruption Taboos]]
+- [[Crystal Forest]]
+- [[Crystal-Corruption-Tracking-Sheet]]
+- [[Eastern Kingdoms (02_Worldbuilding)]]
+- [[Fortress of the Deeps]]
+- [[Merchant Family Alliances]]
+- [[Political Compromise Costs]]
+- [[Political Intrigue Master Index]]
+- [[Pressure Adaptation System]]
+- [[Temporal Anomaly Resolution]]
+- [[Temporal Distortion Zones]]
+- [[The Bathyal Succession]]
+- [[The Restoration Movement]]
+- [[Tidal Chambers]]
+- [[Underwater Breathing]]
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Depth Warden Patrol]]
+- [[Depth Wardens]]
+- [[Lord Reginald Seaworthy]]
+- [[Mad Bell-Ringer Thomas]]
+- [[Mad Oracle Thessaly]]
+- [[Maelstrom Palace]]
+- [[Port Meridian - Market Square]]
+- [[Pressure Tube Terminal]]
+- [[Royal Palace]]
+- [[Shadow Market Canals]]
+- [[Surface Tensions]]
+- [[The Shrinking Sanctuary]]
+- [[Mad Oracle Thessaly (D&D_References)]]

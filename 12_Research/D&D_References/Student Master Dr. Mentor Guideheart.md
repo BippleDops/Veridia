@@ -61,3 +61,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A journal reveals ancient history about this place
 - An heirloom has gone missing and truth emerges
 - A prisoner has gone missing and truth emerges
+
+## References
+
+- [[Shadow Surgeon Apprentice]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Silverleaf", "urien silverleaf", "Silverleaf Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Silverleaf
 
 *Half-Orc Heir (Nobles), Age 46, Non-binary*
@@ -13,7 +19,6 @@
 Short and muscular, with Tied back blonde hair and Green eyes. Pale skin. Gold tooth that glints when smiling.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Always tells the absolute truth
@@ -36,7 +41,6 @@ Last survivor of a fallen house, seeking to restore family honor Strange abiliti
 - **Short Term**: Sabotage competition
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Rhiannon Brightblade the Seeker (Personal - Ex-lover)
 - **Status**: Mutually beneficial
@@ -47,16 +51,13 @@ Last survivor of a fallen house, seeking to restore family honor Strange abiliti
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Gavril Keenblade (Family - Cousin)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Alaric Silverleaf (Political - Patron)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Secretly funding the rebellion

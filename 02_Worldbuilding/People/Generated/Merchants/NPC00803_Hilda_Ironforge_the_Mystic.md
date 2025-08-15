@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Ironforge the Mystic", "hilda ironforge the mystic", "Hilda Ironforge Mystic", "Mystic the Ironforge Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Ironforge the Mystic
 
 *Genasi Caravan Master (Merchants), Age 50, Female*
@@ -13,7 +19,6 @@
 Short and delicate, with Carefully styled white hair and Blue eyes. Weathered skin. Crooked nose from multiple breaks.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Compulsive liar about minor things
@@ -36,7 +41,6 @@ Built their business from nothing through cunning and hard work An old debt has 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Aeliana Silverleaf the Lost (Personal - Nemesis)
 - **Status**: Mutually beneficial
@@ -47,7 +51,6 @@ Built their business from nothing through cunning and hard work An old debt has 
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Fiora Goldleaf the Lost (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
@@ -57,11 +60,9 @@ Built their business from nothing through cunning and hard work An old debt has 
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Malakai Proudmore the Scholar (Personal - Best friend)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Smuggles illegal magical items

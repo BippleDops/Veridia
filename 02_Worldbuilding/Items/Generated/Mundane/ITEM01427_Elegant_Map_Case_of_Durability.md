@@ -1,3 +1,9 @@
+---
+aliases: ["Elegant Map Case of Durability", "elegant map case of durability", "Durability of Case Map Elegant"]
+tags: [item, equipment]
+type: item
+---
+
 # Elegant Map Case of Durability
 
 *Mundane, Uncommon*

@@ -1,6 +1,5 @@
 ---
 
-
 title: 07_Player_Resources/Quick_Start_Guide.md
 type: lore
 tags:

@@ -1,8 +1,8 @@
 ---
+aliases: ["Brenna Stormwind the Mad", "brenna stormwind the mad", "Brenna Stormwind Mad", "Mad the Stormwind Brenna"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -72,8 +72,6 @@ Grew up on the streets, learning to survive. Years ago, they made a deal they no
 ### Skills
 Arcana
 
-
-
 ## Possessions
 - 22 gold pieces
 - Family heirloom (locket)
@@ -85,7 +83,6 @@ Arcana
 
 ---
 *Generated: 2025-08-15T03:21:04.024Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

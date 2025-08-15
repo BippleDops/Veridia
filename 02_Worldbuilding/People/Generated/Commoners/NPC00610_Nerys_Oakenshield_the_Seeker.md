@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Oakenshield the Seeker", "nerys oakenshield the seeker", "Nerys Oakenshield Seeker", "Seeker the Oakenshield Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Oakenshield the Seeker
 
 *Genasi Farmer (Commoners), Age 67, Female*
@@ -36,7 +42,6 @@ Runaway from an arranged marriage, starting a new life A prophetic dream has bee
 - **Short Term**: Avoid the authorities
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Orion Ashford the Guardian (Criminal - Handler)
 - **Status**: Complicated history
@@ -47,11 +52,9 @@ Runaway from an arranged marriage, starting a new life A prophetic dream has bee
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Pyria Thornweave the Redeemed (Professional - Rival)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ### Zephyr Grimholt the Mystic (Professional - Mentor)
 - **Status**: On the verge of collapse
@@ -62,11 +65,9 @@ Runaway from an arranged marriage, starting a new life A prophetic dream has bee
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
 
-
 ### Urien Hawthorne the Cunning (Personal - Best friend)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Is the lost heir to the throne

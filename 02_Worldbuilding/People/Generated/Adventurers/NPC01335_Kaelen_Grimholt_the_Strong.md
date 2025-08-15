@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Grimholt the Strong", "kaelen grimholt the strong", "Kaelen Grimholt Strong", "Strong the Grimholt Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Grimholt the Strong
 
 *Tabaxi Cleric (Adventurers), Age 40, Female*
@@ -36,7 +42,6 @@ Chosen by fate to fulfill an ancient prophecy A prophetic dream has been hauntin
 - **Short Term**: Survive until next week
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Ewan Proudmore the Wanderer (Professional - Partner)
 - **Status**: Strained but maintaining
@@ -47,11 +52,9 @@ Chosen by fate to fulfill an ancient prophecy A prophetic dream has been hauntin
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Drusilla Jadeclaw the Mystic (Personal - Nemesis)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ### Aeliana Winterborn the Fallen (Family - Spouse)
 - **Status**: Strained but maintaining

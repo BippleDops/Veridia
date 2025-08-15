@@ -60,3 +60,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A noble needs help delivering before the new moon
 - Strange accidents suggest a conspiracy
 - Someone is searching for a artifact for money
+
+## References
+
+- [[Parliament-of-Shadows-Campaign (Government_and_Parliament)]]
+- [[Parliament-of-Shadows-Campaign]]

@@ -30,7 +30,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -182,7 +182,7 @@ Known Locations can serve as:
 - **Major Setting**: Central to campaign events
 - **Background Element**: Referenced but not visited
 
-### [[[[Random Encounter]]s]] (d20)
+### [[Random Encounter|[[Random Encounter]]s]] (d20)
 1-4: [[City Watch]] patrol
 5-8: Merchant hawking wares
 9-11: Pickpocket attempt
@@ -254,3 +254,11 @@ Known Locations can serve as:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Eastport]]
+- [[Known_Locations (02_Worldbuilding)]]
+- [[Mountain Holds]]
+- [[Northern Reaches]]
+- [[Player_Dashboard]]

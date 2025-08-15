@@ -105,7 +105,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -124,4 +123,24 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[leomunds-secret-chest-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[leomunds-secret-chest-xphb (spells)|leomunds-secret-chest-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[06 Equipment]]
+- [[06-equipment (players-handbook-2014)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Carpenters Tools Xphb]]
+- [[Diplomats Pack Xphb]]
+- [[Monster Hunters Pack Vrgr]]
+- [[carpenters-tools-xphb (items)]]
+- [[diplomats-pack-xphb (items)]]
+- [[monster-hunters-pack-vrgr (items)]]
+- [[Adventuring Gear Container Capacity Phb]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-container-capacity-phb (tables)]]
+- [[adventuring-gear-phb (tables)]]

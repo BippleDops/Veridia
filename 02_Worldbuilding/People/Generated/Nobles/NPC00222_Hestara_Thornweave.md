@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Thornweave", "hestara thornweave", "Thornweave Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Thornweave
 
 *Aasimar Ambassador (Nobles), Age 35, Female*
@@ -47,11 +53,9 @@ Exiled from their homeland, trying to rebuild their power base A chance encounte
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Aeliana Underhill (Family - Spouse)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ### Xander Blackstone the Fallen (Political - Ally)
 - **Status**: Recently reconciled
@@ -61,7 +65,6 @@ Exiled from their homeland, trying to rebuild their power base A chance encounte
 ### Lyanna Crystalbrook the Swift (Political - Patron)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Practicing forbidden magic

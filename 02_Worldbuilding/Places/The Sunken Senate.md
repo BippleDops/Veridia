@@ -41,7 +41,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -98,7 +98,7 @@ Legends speak of The Sunken Senate as a nexus where past and present converge. L
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -122,13 +122,11 @@ The Sunken Senate is a notable location characterized by its unique features and
 ### Founding
 The Sunken Senate was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -136,13 +134,11 @@ The Sunken Senate was established in the distant past, growing from humble begin
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -173,7 +169,7 @@ Mentioned in The Hidden Prophecy of Depths
 - A stranger needs help delivering before dawn
 - A shipment has gone missing and chaos spreads
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -205,7 +201,6 @@ Mentioned in The Hidden Prophecy of Depths
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -242,3 +237,12 @@ Mentioned in The Hidden Prophecy of Depths
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Coral Throne Syndicate]]
+- [[Current Riders Guild]]
+- [[The Depth Plague]]
+- [[Coral Throne Syndicate (D&D_References)]]
+- [[Current Riders Guild (D&D_References)]]
+- [[The Depth Plague (D&D_References)]]

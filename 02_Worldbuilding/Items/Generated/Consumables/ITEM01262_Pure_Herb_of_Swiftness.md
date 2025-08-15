@@ -1,3 +1,9 @@
+---
+aliases: ["Pure Herb of Swiftness", "pure herb of swiftness", "Swiftness of Herb Pure"]
+tags: [item, equipment]
+type: item
+---
+
 # Pure Herb of Swiftness
 
 *Consumables, Uncommon*
@@ -14,8 +20,6 @@ A pure herb glowing softly
 - Breathe underwater 1 hour
 - Increase speed by 10 ft
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -30,7 +34,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.471Z*

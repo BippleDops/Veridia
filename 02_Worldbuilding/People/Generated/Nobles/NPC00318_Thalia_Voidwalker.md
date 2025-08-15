@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Voidwalker", "thalia voidwalker", "Voidwalker Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Voidwalker
 
 *Half-Elf Noble (Nobles), Age 55, Male*
@@ -42,16 +48,13 @@ Recently elevated to nobility through service, still learning courtly ways They 
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Solas Jadeclaw the Lost (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Aldric Nightfall the Broken (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Child from scandalous affair

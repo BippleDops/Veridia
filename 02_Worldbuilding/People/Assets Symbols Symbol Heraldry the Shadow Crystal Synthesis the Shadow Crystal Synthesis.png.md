@@ -190,3 +190,8 @@ This NPC can serve multiple roles:
 ## Bloodline
 
 Member of House Lionblood - Trait: divine blood
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-crisis-response-service-crisis-response-service.svg]]
+- [[04_Resources_Assets_Locations_location-city-master-finn-liquidlight-v1-master-finn-liquidlight.svg]]

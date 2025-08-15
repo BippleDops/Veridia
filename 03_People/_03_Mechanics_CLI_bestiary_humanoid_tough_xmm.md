@@ -273,7 +273,6 @@ creature: Custom NPC
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
 
-
 ## See Also
 - Related content
 - Similar topics
@@ -283,3 +282,7 @@ creature: Custom NPC
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
 - **Hidden Details**: Secret aspects
+
+## References
+
+- [[_03_Mechanics_CLI_bestiary_humanoid_tough_xmm_Quick_Ref]]

@@ -36,12 +36,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-scarlet-torrent-captain-scarlet-torrent.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -250,7 +248,6 @@ Mentioned in The Hidden Prophecy of Winds
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -320,3 +317,10 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Symbols Symbol Heraldry Thalassa the Pathfinder Thalassa the Pathfinder.svg]]
+- [[Assets Symbols Symbol Heraldry Welfare Director Caretake V1 Welfare Director Caretake.svg]]
+- [[Blood Current Express]]
+- [[Blood Current Express (D&D_References)]]

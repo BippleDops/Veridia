@@ -1,4 +1,5 @@
 ---
+aliases: ["Glorious Circlet of Power", "glorious circlet of power", "Power of Circlet Glorious"]
 tags: [generated]
 id: ITEM0062
 created: 2025-08-15T04:09:51.098Z
@@ -19,8 +20,6 @@ Crafted from starfall iron with delicate filigree, in ancient but unbreakable. I
 
 ## Quirk
 *Vibrates near magic*
-
-
 
 ## History
 This item was forged during the War of Shadows ages ago. It has passed through many hands, each leaving their mark upon its destiny.

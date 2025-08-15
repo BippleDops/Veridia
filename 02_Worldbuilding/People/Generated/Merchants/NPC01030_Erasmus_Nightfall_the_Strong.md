@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Nightfall the Strong", "erasmus nightfall the strong", "Erasmus Nightfall Strong", "Strong the Nightfall Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Nightfall the Strong
 
 *Dwarf Broker (Merchants), Age 37, Male*
@@ -36,17 +42,14 @@ Former adventurer who retired to open a shop A prophetic dream has been haunting
 - **Short Term**: Gather information
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Zephyr Underhill the Broken (Family - Sibling)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Rhiannon Voidwalker the Scholar (Personal - Ex-lover)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ### Wynne Xendar the Scholar (Personal - Childhood friend)
 - **Status**: Strong and trusting

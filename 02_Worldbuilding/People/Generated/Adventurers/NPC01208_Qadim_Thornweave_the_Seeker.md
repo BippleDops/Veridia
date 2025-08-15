@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Thornweave the Seeker", "qadim thornweave the seeker", "Qadim Thornweave Seeker", "Seeker the Thornweave Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Thornweave the Seeker
 
 *Tiefling Cleric (Adventurers), Age 77, Male*
@@ -13,7 +19,6 @@
 Above average and wiry, with Mohawk unusual color hair and Black eyes. Scarred skin. Birthmark shaped like a constellation.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Never backs down from any challenge; Laughs at the most inappropriate times; Speaks to inanimate objects
@@ -36,32 +41,26 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 - **Short Term**: Make this month's payment
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Rhiannon Proudmore the Risen (Criminal - Fence)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
 
-
 ### Hilda Darkwater the Fallen (Personal - Childhood friend)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
-
 
 ### Idris Blackstone the Cunning (Personal - Childhood friend)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Fiora Stormwind the Swift (Professional - Partner)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Aldric Hawthorne the Bold (Criminal - Accomplice)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Has died and been resurrected

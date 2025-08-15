@@ -89,3 +89,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Korvin Blacktide]]
+- [[Lord_Lady_Chamberlain_Court_Manager]]
+- [[Korvin Blacktide (D&D_References)]]

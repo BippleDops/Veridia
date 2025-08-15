@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # 04_Resources_Assets_Portraits_portrait-npc-captain-prism-shield-valeria-captain-prism-shield-valeria.svg - Quick Reference
 
 ## Key Info

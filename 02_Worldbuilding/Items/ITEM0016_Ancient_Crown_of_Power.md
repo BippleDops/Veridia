@@ -1,4 +1,5 @@
 ---
+aliases: ["Ancient Crown of Power", "ancient crown of power", "Power of Crown Ancient"]
 tags: [generated]
 id: ITEM0016
 created: 2025-08-15T04:09:51.081Z
@@ -19,8 +20,6 @@ Crafted from adamantine with delicate filigree, in recently restored. It emanate
 
 ## Quirk
 *Whispers names of previous owners*
-
-
 
 ## History
 This item was corrupted by dark magic millennia ago. It has passed through many hands, each leaving their mark upon its destiny.

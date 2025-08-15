@@ -77,3 +77,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Depths
+
+## References
+
+- [[06 Equipment]]
+- [[06-equipment (players-handbook-2014)]]

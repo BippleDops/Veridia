@@ -35,7 +35,6 @@ improvements: 20
 - **Law Enforcement**: Town guard
 - **Justice System**: Local magistrate
 
-
 > [!figure] View
 
 # Pearl Harbor City
@@ -237,13 +236,11 @@ Pearl_Harbor_City is a notable location characterized by its unique features and
 ### Founding
 Pearl_Harbor_City was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -293,7 +290,6 @@ Key stop on magic items trade route
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions

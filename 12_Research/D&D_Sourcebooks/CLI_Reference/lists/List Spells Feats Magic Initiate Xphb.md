@@ -81,3 +81,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Acolyte Xphb]]
+- [[Guide Xphb]]
+- [[Sage Xphb]]
+- [[acolyte-xphb (backgrounds)]]
+- [[guide-xphb (backgrounds)]]
+- [[sage-xphb (backgrounds)]]
+- [[06 Chapter 5 Feats]]
+- [[06-chapter-5-feats (players-handbook-2024)]]
+- [[Repeatable Feat List Xphb]]
+- [[repeatable-feat-list-xphb (tables)]]

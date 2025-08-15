@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Winterborn the Wanderer", "faelyn winterborn the wanderer", "Faelyn Winterborn Wanderer", "Wanderer the Winterborn Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Winterborn the Wanderer
 
 *Firbolg Shopkeeper (Merchants), Age 27, Female*
@@ -36,7 +42,6 @@ Built their business from nothing through cunning and hard work Strange abilitie
 - **Short Term**: Recruit new members
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Gareth Emberfall the Fallen (Political - Ally)
 - **Status**: Secretly hostile
@@ -47,11 +52,9 @@ Built their business from nothing through cunning and hard work Strange abilitie
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Malakai Keenblade the Redeemed (Personal - Ex-lover)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Is actually a spy for foreign power

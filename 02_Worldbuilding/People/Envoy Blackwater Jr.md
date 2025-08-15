@@ -35,7 +35,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-envoy-blackwater-jr-envoy-blackwater-jr.svg)
 
@@ -59,7 +58,6 @@ improvements: 20
 **Languages** Common, Aquabyssan, Elvish, Deep Speech, Primordial, Celestial  
 **Challenge Rating** 9 (5,000 XP)  
 **Proficiency Bonus** +4
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -281,7 +279,6 @@ Envoy Blackwater Jr presents a distinctive figure. Their bearing suggests both c
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
 ## Secrets
 - Hidden information about this character
 - Unknown connections or past events
@@ -395,7 +392,6 @@ Member of House Lionblood - Trait: divine blood
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -426,3 +422,7 @@ Member of House Lionblood - Trait: divine blood
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Symbols Symbol Heraldry Vex Shadowthorn Boss Fight Vex Shadowthorn Boss Fight.png]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Stormwind", "dara stormwind", "Stormwind Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Stormwind
 
 *Elf Aristocrat (Nobles), Age 68, Female*
@@ -36,7 +42,6 @@ Secretly adopted into nobility, living in fear of discovery They've been marked 
 - **Short Term**: Survive until next week
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Delara Emberfall (Professional - Employer)
 - **Status**: Complicated history
@@ -47,11 +52,9 @@ Secretly adopted into nobility, living in fear of discovery They've been marked 
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
 
-
 ### Qadim Youngblood (Political - Spy)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Child from scandalous affair

@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Proudmore the Cunning", "urien proudmore the cunning", "Urien Proudmore Cunning", "Cunning the Proudmore Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Proudmore the Cunning
 
 *Tabaxi Baker (Commoners), Age 63, Male*
@@ -13,7 +19,6 @@
 Short and athletic, with Carefully styled red hair and Amber eyes. Brown skin. Gold tooth that glints when smiling.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Flirts with everyone regardless of interest; Collects unusual and worthless objects
@@ -42,21 +47,17 @@ Grew up in poverty but discovered a talent that might change everything An old d
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Faelyn Grimholt the Lost (Professional - Mentor)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ### Wynne Silverleaf the Broken (Political - Opposition)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Erasmus Frostwhisper the Risen (Criminal - Accomplice)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ### Jorah Ashford the Wanderer (Professional - Rival)
 - **Status**: Blood oath bound

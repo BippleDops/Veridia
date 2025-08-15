@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Silverleaf the Risen", "ysara silverleaf the risen", "Ysara Silverleaf Risen", "Risen the Silverleaf Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Silverleaf the Risen
 
 *Gnome Rogue (Adventurers), Age 21, Male*
@@ -36,22 +42,18 @@ Running from a dark past that won't stay buried A prophetic dream has been haunt
 - **Short Term**: Survive until next week
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Idris Ironforge the Fallen (Professional - Rival)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Caelum Xendar the Swift (Criminal - Handler)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Elric Darkwater the Guardian (Political - Opposition)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ### Pyria Goldleaf the Guardian (Political - Puppet)
 - **Status**: Professional only

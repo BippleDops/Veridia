@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Emberfall the Broken", "faelyn emberfall the broken", "Faelyn Emberfall Broken", "Broken the Emberfall Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Emberfall the Broken
 
 *Dragonborn Crime Boss (Villains), Age 37, Non-binary*
@@ -36,27 +42,22 @@ Driven mad by knowledge humanity wasn't meant to know An old debt has come due a
 - **Short Term**: Gather information
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Corvus Blackstone the Wanderer (Personal - Childhood friend)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Lyanna Winterborn the Bold (Family - Child)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ### Brenna Zephyrblade the Fallen (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Xander Frostwhisper the Wanderer (Professional - Partner)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ### Alaric Brightblade the Strong (Political - Ally)
 - **Status**: On the verge of collapse

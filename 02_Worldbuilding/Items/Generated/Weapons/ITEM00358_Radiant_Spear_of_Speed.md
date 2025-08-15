@@ -1,3 +1,9 @@
+---
+aliases: ["Radiant Spear of Speed", "radiant spear of speed", "Speed of Spear Radiant"]
+tags: [item, equipment]
+type: item
+---
+
 # Radiant Spear of Speed
 
 *Weapons, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A radiant spear forged from meteoric iron
 - Grants advantage on initiative
 - Ignores resistance to damage type
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -30,7 +34,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.374Z*

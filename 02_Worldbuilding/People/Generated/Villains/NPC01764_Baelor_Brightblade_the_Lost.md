@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Brightblade the Lost", "baelor brightblade the lost", "Baelor Brightblade Lost", "Lost the Brightblade Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Brightblade the Lost
 
 *Halfling Corrupt Noble (Villains), Age 33, Non-binary*
@@ -36,22 +42,18 @@ Believes their evil acts serve a greater good They're being blackmailed by someo
 - **Short Term**: Gather information
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Aldric Proudmore the Wanderer (Criminal - Handler)
 - **Status**: Complicated history
 - **History**: United by common enemy
 
-
 ### Ysara Xendar the Wanderer (Criminal - Fence)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
 
-
 ### Kaelen Emberfall the Scholar (Family - Spouse)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Believes they're saving the world

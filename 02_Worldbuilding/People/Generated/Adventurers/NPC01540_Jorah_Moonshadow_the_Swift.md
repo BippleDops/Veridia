@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Moonshadow the Swift", "jorah moonshadow the swift", "Jorah Moonshadow Swift", "Swift the Moonshadow Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Moonshadow the Swift
 
 *Firbolg Ranger (Adventurers), Age 72, Non-binary*
@@ -36,22 +42,18 @@ Seeking vengeance for a murdered mentor An old debt has come due at the worst po
 - **Short Term**: Avoid the authorities
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Faelyn Quicksilver the Wanderer (Professional - Mentor)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
 
-
 ### Aldric Quicksilver the Lost (Professional - Partner)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
 
-
 ### Brenna Crystalbrook the Bold (Personal - Love interest)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
-
 
 ### Hilda Jadeclaw the Risen (Political - Opposition)
 - **Status**: Secretly hostile

@@ -77,3 +77,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A stranger needs help finding before dawn
 - Strange disappearances suggest a portal
 - Strange sightings suggest ancient magic
+
+## References
+
+- [[List Optfeaturetype Ei]]
+- [[list-optfeaturetype-ei (lists)]]

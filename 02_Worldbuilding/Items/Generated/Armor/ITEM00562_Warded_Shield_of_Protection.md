@@ -1,3 +1,9 @@
+---
+aliases: ["Warded Shield of Protection", "warded shield of protection", "Protection of Shield Warded"]
+tags: [item, equipment]
+type: item
+---
+
 # Warded Shield of Protection
 
 *Armor, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A warded shield bearing ancient runes
 - Advantage on saving throws
 - +2 to AC
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -30,7 +34,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.394Z*

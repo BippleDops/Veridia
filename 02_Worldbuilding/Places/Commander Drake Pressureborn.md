@@ -405,7 +405,6 @@ Fort Pressureborn connects to numerous important elements throughout Aquabyssos 
 
 *Fort Pressureborn stands as an unbreachable bastion in the depths, where the crushing power of the ocean itself serves the cause of defense, and where the finest underwater warriors forge themselves into weapons as formidable as the fortress they protect.*
 
-
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
@@ -451,13 +450,11 @@ Commander Drake Pressureborn is a notable location characterized by its unique f
 ### Founding
 Commander Drake Pressureborn was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -503,7 +500,6 @@ Key stop on spices trade route
 - 20% middle class
 - 79% working poor
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -539,3 +535,15 @@ Key stop on spices trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Captain Marrow Drinker]]
+- [[Azure Citadel]]
+- [[Depth Wardens]]
+- [[Pressure's End]]
+- [[Azure Citadel (D&D_References)]]
+- [[Captain Marrow Drinker (D&D_References)]]
+- [[Depth Wardens (D&D_References)]]
+- [[Pressure's End (D&D_References)]]
+- [[Depth Warden Patrol (D&D_Statblocks)]]

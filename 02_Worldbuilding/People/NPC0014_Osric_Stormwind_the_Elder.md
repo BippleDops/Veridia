@@ -1,8 +1,8 @@
 ---
+aliases: ["Osric Stormwind the Elder", "osric stormwind the elder", "Osric Stormwind Elder", "Elder the Stormwind Osric"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -74,8 +74,6 @@ Child of farmers who sought adventure. Years ago, they was falsely accused of a 
 ### Skills
 Athletics, Stealth
 
-
-
 ## Possessions
 - 18 gold pieces
 - Set of thieves' tools
@@ -88,7 +86,6 @@ Athletics, Stealth
 
 ---
 *Generated: 2025-08-15T03:20:13.073Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

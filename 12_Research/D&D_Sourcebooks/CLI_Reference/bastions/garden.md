@@ -109,3 +109,29 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Quest - The Root Network_2 (01_Adventures)]]
+- [[10 combat#Dropping_to_0_Hit_Points#Stabilizing_a_Creature]]
+- [[Ancient Siege Tunnels]]
+- [[Arcanum Heights]]
+- [[Comprehensive-World-Connection-Guide]]
+- [[Crystal Garden]]
+- [[The Ancient Nobility]]
+- [[Compass Quest]]
+- [[Crystal Gardens]]
+- [[Temporal Navigation]]
+- [[The Crystalline Foundry]]
+- [[The Royal Palace]]
+- [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
+- [[Crystal Garden (D&D_References)]]
+- [[Crystal Garden 3 (D&D_References)]]
+- [[The Ancient Nobility (D&D_References)]]
+- [[The Royal Palace (D&D_References)]]
+- [[Special Facility Descriptions Special Facilities Xdmg]]
+- [[Special Facility Descriptions Special]]
+- [[Aethermoor - Session 05 The Queens Madness]]
+- [[Crystal Gardens (D&D_Statblocks)]]
+- [[Find the Grief Bomb (D&D_Statblocks)]]
+- [[The Crystalline Foundry (D&D_Statblocks)]]

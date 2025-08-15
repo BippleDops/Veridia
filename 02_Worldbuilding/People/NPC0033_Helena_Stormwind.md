@@ -1,8 +1,8 @@
 ---
+aliases: ["Helena Stormwind", "helena stormwind", "Stormwind Helena"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -75,7 +75,6 @@ Arcana, Persuasion, Investigation, Insight
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 58 gold pieces
 - Book of poetry
@@ -90,7 +89,6 @@ Arcana, Persuasion, Investigation, Insight
 
 ---
 *Generated: 2025-08-15T03:20:13.075Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

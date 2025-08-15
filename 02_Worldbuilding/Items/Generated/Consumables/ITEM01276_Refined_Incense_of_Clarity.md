@@ -1,3 +1,9 @@
+---
+aliases: ["Refined Incense of Clarity", "refined incense of clarity", "Clarity of Incense Refined"]
+tags: [item, equipment]
+type: item
+---
+
 # Refined Incense of Clarity
 
 *Consumables, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A refined incense emanating sweet fragrance
 - Increase speed by 10 ft
 - Invisible for 10 minutes
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -30,7 +34,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.472Z*

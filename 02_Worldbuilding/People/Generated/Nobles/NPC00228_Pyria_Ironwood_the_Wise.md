@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Ironwood the Wise", "pyria ironwood the wise", "Pyria Ironwood Wise", "Wise the Ironwood Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Ironwood the Wise
 
 *Tiefling Noble (Nobles), Age 34, Male*
@@ -13,7 +19,6 @@
 Very short and athletic, with Tied back black hair and Gray eyes. Brown skin. Missing finger on left hand.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Never backs down from any challenge
@@ -36,12 +41,10 @@ Exiled from their homeland, trying to rebuild their power base They've made a de
 - **Short Term**: Make this month's payment
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Alaric Zephyrblade (Professional - Employer)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
-
 
 ### Cedric Zephyrblade the Mystic (Criminal - Target)
 - **Status**: Strong and trusting
@@ -61,7 +64,6 @@ Exiled from their homeland, trying to rebuild their power base They've made a de
 ### Gavril Winterborn the Seeker (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ### Caelum Underhill the Bold (Political - Spy)
 - **Status**: Strained but maintaining

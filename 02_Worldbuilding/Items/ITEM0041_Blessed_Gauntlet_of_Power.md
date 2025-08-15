@@ -1,4 +1,5 @@
 ---
+aliases: ["Blessed Gauntlet of Power", "blessed gauntlet of power", "Power of Gauntlet Blessed"]
 tags: [generated]
 id: ITEM0041
 created: 2025-08-15T04:09:51.091Z
@@ -19,8 +20,6 @@ Crafted from dragonscale with ancient symbols, in ancient but unbreakable. It em
 
 ## Quirk
 *Makes user sneeze in sunlight*
-
-
 
 ## History
 This item was corrupted by dark magic ages ago. It has passed through many hands, each leaving their mark upon its destiny.

@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Keenblade the Broken", "ewan keenblade the broken", "Ewan Keenblade Broken", "Broken the Keenblade Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Keenblade the Broken
 
 *Human Fighter (Adventurers), Age 41, Non-binary*
@@ -42,16 +48,13 @@ Running from a dark past that won't stay buried An old debt has come due at the 
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Hestara Crystalbrook the Risen (Political - Patron)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Rhiannon Thornweave the Swift (Political - Puppet)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Carries a world-ending artifact

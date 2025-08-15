@@ -121,3 +121,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Elemental Spirit Xphb]]
+- [[Summon Elemental Xphb]]
+- [[summon-elemental-xphb (spells)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Quicksilver", "idris quicksilver", "Quicksilver Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Quicksilver
 
 *Firbolg Noble (Nobles), Age 48, Non-binary*
@@ -13,7 +19,6 @@
 Short and slender, with Dreadlocks black hair and Heterochromic eyes. Olive skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Never backs down from any challenge
@@ -42,21 +47,17 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
 
-
 ### Hilda Crystalbrook the Scholar (Political - Spy)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ### Xander Brightblade (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Ysara Brightblade the Redeemed (Criminal - Fence)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Actually a bastard with no real claim

@@ -1,3 +1,9 @@
+---
+aliases: ["Greater Crystal of Swiftness", "greater crystal of swiftness", "Swiftness of Crystal Greater"]
+tags: [item, equipment]
+type: item
+---
+
 # Greater Crystal of Swiftness
 
 *Consumables, Common*
@@ -13,8 +19,6 @@ A greater crystal swirling with colors
 ## Properties
 - Resistance for 10 minutes
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -29,7 +33,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.473Z*

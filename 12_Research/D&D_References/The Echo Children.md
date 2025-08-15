@@ -56,3 +56,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Strange sightings suggest a portal
 - A letter reveals the truth about the government
+
+## References
+
+- [[Crystal Garden]]
+- [[Crystal Garden (D&D_References)]]
+- [[Crystal Garden 3 (D&D_References)]]

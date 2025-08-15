@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Jadeclaw the Redeemed", "ewan jadeclaw the redeemed", "Ewan Jadeclaw Redeemed", "Redeemed the Jadeclaw Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Jadeclaw the Redeemed
 
 *Firbolg Assassin (Villains), Age 61, Non-binary*
@@ -57,11 +63,9 @@ Betrayed by those they trusted, now seeking revenge on the world They've been ma
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Idris Crystalbrook the Wanderer (Professional - Employer)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Believes they're saving the world

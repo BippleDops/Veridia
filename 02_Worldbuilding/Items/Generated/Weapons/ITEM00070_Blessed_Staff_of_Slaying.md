@@ -1,3 +1,9 @@
+---
+aliases: ["Blessed Staff of Slaying", "blessed staff of slaying", "Slaying of Staff Blessed"]
+tags: [item, equipment]
+type: item
+---
+
 # Blessed Staff of Slaying
 
 *Weapons, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A blessed staff carved from dragon bone
 - +2 to attack and damage rolls
 - Deals extra 1d6 elemental damage
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -31,7 +35,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.348Z*

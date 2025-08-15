@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Crystalbrook the Mystic", "wynne crystalbrook the mystic", "Wynne Crystalbrook Mystic", "Mystic the Crystalbrook Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Crystalbrook the Mystic
 
 *Dragonborn Assassin (Villains), Age 74, Female*
@@ -13,7 +19,6 @@
 Towering and heavyset, with Wild and unkempt white hair and Black eyes. Scarred skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Believes in every conspiracy theory; Always hungry and eating something; Always tells the absolute truth
@@ -36,22 +41,18 @@ Believes their evil acts serve a greater good An old debt has come due at the wo
 - **Short Term**: Avoid the authorities
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Brenna Frostwhisper the Redeemed (Family - Spouse)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Kaelen Blackstone the Cunning (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
 
-
 ### Gavril Youngblood the Guardian (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ### Kaelen Ironforge the Redeemed (Family - Cousin)
 - **Status**: Professional only
@@ -61,7 +62,6 @@ Believes their evil acts serve a greater good An old debt has come due at the wo
 ### Brenna Goldleaf the Scholar (Family - Child)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Has a child they're protecting

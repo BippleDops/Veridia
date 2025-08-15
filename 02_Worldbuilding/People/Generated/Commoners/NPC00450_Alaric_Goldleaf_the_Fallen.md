@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Goldleaf the Fallen", "alaric goldleaf the fallen", "Alaric Goldleaf Fallen", "Fallen the Goldleaf Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Goldleaf the Fallen
 
 *Half-Orc Fisher (Commoners), Age 37, Non-binary*
@@ -13,7 +19,6 @@
 Very short and slender, with Short and neat silver hair and Heterochromic eyes. Weathered skin. Crooked nose from multiple breaks.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Never backs down from any challenge; Sees doom and gloom everywhere; Speaks to inanimate objects
@@ -42,11 +47,9 @@ Grew up in poverty but discovered a talent that might change everything An old d
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Qadim Crystalbrook the Fallen (Personal - Love interest)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ### Lyanna Darkwater the Broken (Criminal - Accomplice)
 - **Status**: Strained but maintaining

@@ -1,11 +1,11 @@
 ---
+aliases: ["Soren Brightblade", "soren brightblade", "Brightblade Soren"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -92,7 +92,6 @@ Deception, Athletics
 
 ---
 *Generated: 2025-08-15T03:21:04.044Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

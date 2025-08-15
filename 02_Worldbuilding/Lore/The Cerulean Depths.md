@@ -48,3 +48,8 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## [[DM_Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[The Cerulean Breath]]
+- [[The Cerulean Breath (D&D_Statblocks)]]

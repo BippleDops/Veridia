@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Hawthorne the Lost", "idris hawthorne the lost", "Idris Hawthorne Lost", "Lost the Hawthorne Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Hawthorne the Lost
 
 *Genasi Assassin (Villains), Age 45, Non-binary*
@@ -36,22 +42,18 @@ Corrupted by an artifact or dark magic A prophetic dream has been haunting them 
 - **Short Term**: Survive until next week
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Brenna Blackstone the Scholar (Criminal - Fence)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Idris Silverleaf the Swift (Family - Parent)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Cedric Proudmore the Mystic (Criminal - Accomplice)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Believes they're saving the world

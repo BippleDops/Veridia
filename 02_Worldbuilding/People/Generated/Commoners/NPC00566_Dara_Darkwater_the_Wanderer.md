@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Darkwater the Wanderer", "dara darkwater the wanderer", "Dara Darkwater Wanderer", "Wanderer the Darkwater Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Darkwater the Wanderer
 
 *Dragonborn Blacksmith (Commoners), Age 41, Male*
@@ -36,7 +42,6 @@ Former soldier trying to adjust to civilian life A family member's death has lef
 - **Short Term**: Gather information
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Hestara Ravenheart (Personal - Best friend)
 - **Status**: Strong and trusting
@@ -47,21 +52,17 @@ Former soldier trying to adjust to civilian life A family member's death has lef
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Aldric Voidwalker the Risen (Criminal - Informant)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ### Kaelen Ravenheart the Redeemed (Criminal - Fence)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Gareth Oakenshield the Strong (Political - Spy)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Has dragon blood in their veins

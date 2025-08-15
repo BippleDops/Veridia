@@ -182,3 +182,7 @@ This NPC can serve multiple roles:
 - [[Character Name]] (rival)
 ---
 *Tags*: #npc #contact #worldbuilding
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-grief-overwhelming-syndrome-v1-grief-overwhelming-syndrome.svg]]

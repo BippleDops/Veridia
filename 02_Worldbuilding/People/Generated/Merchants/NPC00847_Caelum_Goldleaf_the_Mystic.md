@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Goldleaf the Mystic", "caelum goldleaf the mystic", "Caelum Goldleaf Mystic", "Mystic the Goldleaf Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Goldleaf the Mystic
 
 *Genasi Caravan Master (Merchants), Age 35, Male*
@@ -36,12 +42,10 @@ Former adventurer who retired to open a shop A prophetic dream has been haunting
 - **Short Term**: Find missing person
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Orion Dawnstrider the Fallen (Personal - Best friend)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
-
 
 ### Corvus Lightbringer the Mystic (Personal - Nemesis)
 - **Status**: Recently reconciled
@@ -52,11 +56,9 @@ Former adventurer who retired to open a shop A prophetic dream has been haunting
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Dara Ashford the Swift (Political - Spy)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ### Gavril Lightbringer the Guardian (Political - Puppet)
 - **Status**: One-sided affection
@@ -66,7 +68,6 @@ Former adventurer who retired to open a shop A prophetic dream has been haunting
 ### Zephyr Darkwater the Strong (Professional - Employer)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Smuggles illegal magical items

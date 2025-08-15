@@ -123,3 +123,16 @@ improvements: 20
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[Crystal Garden]]
+- [[Deep Mother Influence]]
+- [[Great Drowning]]
+- [[Multi-Phase Boss Fights]]
+- [[Post-Merge Chronology]]
+- [[Ritual Redirection Options]]
+- [[The Pressure Baptism Rites]]
+- [[The Transformed Citizens]]
+- [[Mad Oracle Thessaly]]
+- [[The Living Weapon]]

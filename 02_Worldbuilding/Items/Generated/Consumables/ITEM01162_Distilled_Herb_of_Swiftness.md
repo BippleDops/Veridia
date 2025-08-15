@@ -1,3 +1,9 @@
+---
+aliases: ["Distilled Herb of Swiftness", "distilled herb of swiftness", "Swiftness of Herb Distilled"]
+tags: [item, equipment]
+type: item
+---
+
 # Distilled Herb of Swiftness
 
 *Consumables, Uncommon*
@@ -14,8 +20,6 @@ A distilled herb swirling with colors
 - Breathe underwater 1 hour
 - Fly for 1 hour
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -30,7 +34,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.461Z*

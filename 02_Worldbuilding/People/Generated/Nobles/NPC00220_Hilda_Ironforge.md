@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Ironforge", "hilda ironforge", "Ironforge Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Ironforge
 
 *Half-Orc Aristocrat (Nobles), Age 34, Female*
@@ -36,17 +42,14 @@ Exiled from their homeland, trying to rebuild their power base A prophetic dream
 - **Short Term**: Sabotage competition
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Qadim Ravenheart the Cunning (Professional - Partner)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Kaelen Oakenshield the Mystic (Criminal - Informant)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ### Lyanna Jadeclaw the Cunning (Family - Parent)
 - **Status**: Strained but maintaining
@@ -57,16 +60,13 @@ Exiled from their homeland, trying to rebuild their power base A prophetic dream
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Malakai Voidwalker (Personal - Ex-lover)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Baelor Crystalbrook the Swift (Criminal - Target)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Actually a bastard with no real claim

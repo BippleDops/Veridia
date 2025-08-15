@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Youngblood the Fallen", "wynne youngblood the fallen", "Wynne Youngblood Fallen", "Fallen the Youngblood Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Youngblood the Fallen
 
 *Dwarf Caravan Master (Merchants), Age 28, Non-binary*
@@ -36,22 +42,18 @@ Part of a merchant family with connections everywhere A chance encounter last wi
 - **Short Term**: Sabotage competition
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Thalia Underhill the Seeker (Criminal - Accomplice)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Delara Quicksilver the Guardian (Criminal - Handler)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Drusilla Underhill the Wise (Family - Cousin)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Is actually a spy for foreign power

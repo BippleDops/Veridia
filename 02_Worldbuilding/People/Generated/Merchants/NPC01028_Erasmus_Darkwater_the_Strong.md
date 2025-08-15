@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Darkwater the Strong", "erasmus darkwater the strong", "Erasmus Darkwater Strong", "Strong the Darkwater Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Darkwater the Strong
 
 *Half-Elf Trader (Merchants), Age 46, Non-binary*
@@ -47,11 +53,9 @@ Uses their business as cover for other activities A prophetic dream has been hau
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Felicia Zephyrblade the Fallen (Criminal - Target)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Killed previous business owner

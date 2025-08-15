@@ -1,3 +1,9 @@
+---
+aliases: ["Radiant Hammer of Slaying", "radiant hammer of slaying", "Slaying of Hammer Radiant"]
+tags: [item, equipment]
+type: item
+---
+
 # Radiant Hammer of Slaying
 
 *Weapons, Rare*
@@ -15,8 +21,6 @@ A radiant hammer carved from dragon bone
 - Grants advantage on initiative
 - Critical hits on 19-20
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -31,7 +35,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.370Z*

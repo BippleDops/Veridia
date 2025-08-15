@@ -256,3 +256,8 @@ Secret locations for sensitive activities.
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[_03_Mechanics_CLI_bestiary_humanoid_lorehold-apprentice-scc]]
+- [[_03_Mechanics_CLI_bestiary_npc_velomachus-lorehold-scc]]

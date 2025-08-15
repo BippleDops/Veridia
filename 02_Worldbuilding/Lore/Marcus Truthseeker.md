@@ -143,3 +143,7 @@ Marcus Truthseeker represents a crucial aspect of the world's history, cosmology
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Relationship Web Nuances]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Darkwater the Wanderer", "ewan darkwater the wanderer", "Ewan Darkwater Wanderer", "Wanderer the Darkwater Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Darkwater the Wanderer
 
 *Tiefling Baker (Commoners), Age 46, Non-binary*
@@ -13,7 +19,6 @@
 Average height and muscular, with Wild and unkempt bald hair and Brown eyes. Pale skin. Gold tooth that glints when smiling.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Always tells the absolute truth; Compulsive liar about minor things
@@ -36,17 +41,14 @@ Survivor of a disaster that destroyed their village They've fallen in love with 
 - **Short Term**: Gather information
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Xander Hawthorne the Lost (Personal - Love interest)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
 
-
 ### Aeliana Blackstone the Mystic (Professional - Mentor)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ### Dara Zephyrblade the Cunning (Political - Puppet)
 - **Status**: Mutually beneficial
@@ -56,7 +58,6 @@ Survivor of a disaster that destroyed their village They've fallen in love with 
 ### Corvus Thornweave the Broken (Professional - Employer)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Witnessed a noble's crime

@@ -56,7 +56,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -100,7 +100,7 @@ improvements: 20
 
 ## Overview
 
-The Harbor District Customs House stands as the imposing gatekeeping fortress of [[Port Meridian]]'s [[Mari[[Time]] Commerce]], a massive stone and crystal structure where all legal trade must pass through the watchful eyes of the Crown's customs authority. More than just a tax collection point, the Customs House serves as the intersection of international diplomacy, economic policy, and national security. Its offices and warehouses process thousands of shipments daily, while its investigators pursue [[Smuggler]]s, its diplomats negotiate trade agreements, and its clerks maintain the detailed records that keep [[Aethermoor]]'s economy flowing smoothly.
+The Harbor District Customs House stands as the imposing gatekeeping fortress of [[Port Meridian]]'s [[Time|Mari[[Time]] Commerce]], a massive stone and crystal structure where all legal trade must pass through the watchful eyes of the Crown's customs authority. More than just a tax collection point, the Customs House serves as the intersection of international diplomacy, economic policy, and national security. Its offices and warehouses process thousands of shipments daily, while its investigators pursue [[Smuggler]]s, its diplomats negotiate trade agreements, and its clerks maintain the detailed records that keep [[Aethermoor]]'s economy flowing smoothly.
 
 ### The [[Merchant]]'s Compact Era
 
@@ -121,7 +121,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 ### The Crystal Integration Period
 
 **Era**: 280-250 years ago, incorporation of [[Crystal Technology]]  
-**Innovation**: Crystal-enhanced record keeping and [[Communication Systems]]  
+**Innovation**: Crystal-enhanced record keeping and [[Communication_Systems|Communication Systems]]  
 **Efficiency**: Dramatic improvement in processing speed and accuracy  
 **Expansion**: Major expansion of facilities to handle increased capacity  
 **Modernization**: Transformation from simple tax office to comprehensive trade authority
@@ -547,7 +547,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Operation**: Major operation to intercept large contraband shipment  
 **Challenge**: Coordinating with various agencies to ensure successful operation  
 **Skills**: Combat, Stealth, Investigation, Athletics  
-**Danger**: Armed resistance from [[Criminal Organizations]]  
+**Danger**: Armed resistance from [[Criminal_Organizations|Criminal Organizations]]  
 **Success**: Disrupting criminal networks and recovering contraband
 
 #### Customs Authority
@@ -644,7 +644,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Communication**: Regular communication with [[Royal Government]] and advisors  
 **Reporting**: Regular reporting on trade conditions and international developments
 
-### [[The [[Crystal Academy]]]]
+### [[Crystal Academy|The [[Crystal Academy]]]]
 
 **Expertise**: Collaboration with academy experts on technical and magical matters  
 **Research**: Support for academy research through specimen and [[data]] sharing  
@@ -663,7 +663,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 ## Secrets and Hidden Aspects
 
 > [!secret] DM Secret - The Royal Exemption
-> [[Chief Inspector Magnus Ledgerkeep]] has been secretly allowing certain royal shipments to pass through customs without proper inspection, on direct orders from [[[[Queen Seraphina]] [[Lumengarde]]]]. These shipments contain dangerous [[Crystal Corruption]] research materials that would be illegal for anyone else to import. Magnus is torn between his duty to the law and his loyalty to the crown, and is keeping detailed secret records of all exempted shipments in case he needs to protect himself politically.
+> [[Chief Inspector Magnus Ledgerkeep]] has been secretly allowing certain royal shipments to pass through customs without proper inspection, on direct orders from [[Queen Seraphina|[[Queen Seraphina]] [[Lumengarde]]]]. These shipments contain dangerous [[Crystal Corruption]] research materials that would be illegal for anyone else to import. Magnus is torn between his duty to the law and his loyalty to the crown, and is keeping detailed secret records of all exempted shipments in case he needs to protect himself politically.
 
 > [!secret] DM Secret - The Double Agent
 > [[Senior Investigator Shadow Trackhound]] is actually a double agent working for a [[Foreign Intelligence]] service while maintaining his position in customs. He feeds information about Aethermoor's trade relationships and security procedures to his handlers while conducting legitimate anti-smuggling work to maintain his cover. His foreign contacts provide him with intelligence that makes him extremely effective at his job, creating a complex moral situation.
@@ -706,7 +706,7 @@ Legends speak of Harbor District Customs House as a nexus where past and present
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -727,13 +727,11 @@ Harbor District Customs House is a notable location characterized by its unique 
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -741,13 +739,11 @@ Harbor District Customs House is a notable location characterized by its unique 
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -786,7 +782,6 @@ Key stop on magic items trade route
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -822,3 +817,8 @@ Key stop on magic items trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Aethermoor - Session 01 Blood in the Harbor]]
+- [[Dr. Siphon Gillwater (D&D_Statblocks)]]

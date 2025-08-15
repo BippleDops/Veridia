@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Lightbringer the Lost", "branwen lightbringer the lost", "Branwen Lightbringer Lost", "Lost the Lightbringer Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Lightbringer the Lost
 
 *Half-Orc Heir (Nobles), Age 34, Female*
@@ -47,11 +53,9 @@ Last survivor of a fallen house, seeking to restore family honor They've fallen 
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
 
-
 ### Aldric Ashford the Wise (Political - Spy)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Actually a bastard with no real claim

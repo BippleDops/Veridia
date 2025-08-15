@@ -76,3 +76,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Strange sightings suggest a portal
 - A merchant needs help investigating before the festival
 - Strange sightings suggest a curse
+
+## References
+
+- [[Master_Item_Catalog]]

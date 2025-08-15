@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Ashford the Broken", "orion ashford the broken", "Orion Ashford Broken", "Broken the Ashford Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Ashford the Broken
 
 *Dwarf Dark Wizard (Villains), Age 51, Male*
@@ -13,7 +19,6 @@
 Very tall and wiry, with Braided elaborately black hair and Black eyes. Olive skin. Missing finger on left hand.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Compulsive liar about minor things; Believes in every conspiracy theory
@@ -36,12 +41,10 @@ Born into evil but questioning their path A chance encounter last winter changed
 - **Short Term**: Make this month's payment
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Felicia Youngblood the Broken (Criminal - Informant)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
-
 
 ### Felicia Ravenheart the Lost (Personal - Love interest)
 - **Status**: One-sided affection
@@ -52,16 +55,13 @@ Born into evil but questioning their path A chance encounter last winter changed
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
 
-
 ### Thalia Silverleaf the Guardian (Criminal - Target)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Solas Thornweave the Lost (Political - Ally)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Is being controlled by darker force

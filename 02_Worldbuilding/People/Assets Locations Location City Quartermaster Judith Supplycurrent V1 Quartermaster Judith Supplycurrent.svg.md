@@ -191,6 +191,6 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[Lord Marcus Goldweaver]] (ally)
 - [[04_Resources_Assets_Locations_location-city-the--cathedral-the--cathedral.svg]] (friend)
-- [[Emperor Abyssal the Deep Sighted]] (rival)
+- [[Emperor|Emperor Abyssal the Deep Sighted]] (rival)
 ---
 *Tags*: #npc #contact #worldbuilding

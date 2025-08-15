@@ -1,3 +1,9 @@
+---
+aliases: ["Blessed Bow of Accuracy", "blessed bow of accuracy", "Accuracy of Bow Blessed"]
+tags: [item, equipment]
+type: item
+---
+
 # Blessed Bow of Accuracy
 
 *Weapons, Very Rare (requires attunement)*

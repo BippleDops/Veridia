@@ -1,3 +1,9 @@
+---
+aliases: ["Frost Sword of Accuracy", "frost sword of accuracy", "Accuracy of Sword Frost"]
+tags: [item, equipment]
+type: item
+---
+
 # Frost Sword of Accuracy
 
 *Weapons, Legendary*
@@ -16,8 +22,6 @@ A frost sword made of crystallized magic
 - Deals extra 1d6 elemental damage
 - +2 to attack and damage rolls
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -32,7 +36,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.351Z*

@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Grimholt", "hilda grimholt", "Grimholt Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Grimholt
 
 *Firbolg Noble (Nobles), Age 30, Female*
@@ -13,7 +19,6 @@
 Average height and wiry, with Dreadlocks gray hair and Heterochromic eyes. Pale skin. Warm smile that puts people at ease.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Never backs down from any challenge
@@ -36,7 +41,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Recruit new members
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Vesper Emberfall the Strong (Personal - Nemesis)
 - **Status**: One-sided affection
@@ -47,16 +51,13 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Complicated history
 - **History**: United by common enemy
 
-
 ### Jorah Proudmore the Guardian (Personal - Nemesis)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Vesper Youngblood (Professional - Employee)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Practicing forbidden magic

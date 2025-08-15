@@ -1,3 +1,9 @@
+---
+aliases: ["Enchanted Leather of the Guardian", "enchanted leather of the guardian", "Enchanted Leather of Guardian", "Guardian the of Leather Enchanted"]
+tags: [item, equipment]
+type: item
+---
+
 # Enchanted Leather of the Guardian
 
 *Armor, Common*
@@ -13,8 +19,6 @@ A enchanted leather shimmering with energy
 ## Properties
 - Advantage on saving throws
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -29,7 +33,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.400Z*

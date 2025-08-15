@@ -1,3 +1,9 @@
+---
+aliases: ["Divine Mirror of Eternity", "divine mirror of eternity", "Eternity of Mirror Divine"]
+tags: [item, equipment]
+type: item
+---
+
 # Divine Mirror of Eternity
 
 *Artifacts, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A divine mirror radiating otherworldly power
 - Immunity to charm
 - Time stop 1/week
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -32,7 +36,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.429Z*

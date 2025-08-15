@@ -60,3 +60,8 @@ Mentioned in The Hidden Prophecy of Winds
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[04 Chapter 3 Character Classes]]
+- [[04-chapter-3-character-classes (players-handbook-2024)]]

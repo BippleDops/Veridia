@@ -93,3 +93,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[05 Chapter 4 Character Origins]]
+- [[05-chapter-4-character-origins (players-handbook-2024)]]
+- [[2 Character Races]]
+- [[2-character-races (volos-guide-to-monsters)]]
+- [[Reincarnate Xphb]]
+- [[reincarnate-xphb (spells)]]
+- [[Height and Weight Vgm]]
+- [[height-and-weight-vgm (tables)]]

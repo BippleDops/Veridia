@@ -179,9 +179,9 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[04_Resources_Assets_Symbols_symbol-heraldry-the-scream-archives-the-scream-archives.svg]] (colleague)
+-  (colleague)
 - [[02_Worldbuilding_People_Archmaster_Lyralei]] (friend)
-- [[Captain Depths Walker Marina]] (rival)
+- [[Assets Portraits Portrait NPC Captain Depths Walker Marina Captain Depths Walker Marina.svg|Captain Depths Walker Marina]] (rival)
 ---
 *Tags*: #npc #contact #worldbuilding
 

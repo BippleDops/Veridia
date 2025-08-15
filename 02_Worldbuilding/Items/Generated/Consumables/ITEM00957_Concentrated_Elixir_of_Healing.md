@@ -1,3 +1,9 @@
+---
+aliases: ["Concentrated Elixir of Healing", "concentrated elixir of healing", "Healing of Elixir Concentrated"]
+tags: [item, equipment]
+type: item
+---
+
 # Concentrated Elixir of Healing
 
 *Consumables, Rare*
@@ -15,8 +21,6 @@ A concentrated elixir emanating sweet fragrance
 - Remove one condition
 - Breathe underwater 1 hour
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -31,7 +35,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.442Z*

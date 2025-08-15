@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Ironwood the Wanderer", "aldric ironwood the wanderer", "Aldric Ironwood Wanderer", "Wanderer the Ironwood Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Ironwood the Wanderer
 
 *Halfling Shopkeeper (Merchants), Age 46, Male*
@@ -13,7 +19,6 @@
 Short and slender, with Dreadlocks red hair and Gray eyes. Brown skin. Weather-beaten face showing hard life.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Laughs at the most inappropriate times; Believes in every conspiracy theory; Flirts with everyone regardless of interest
@@ -36,22 +41,18 @@ Uses their business as cover for other activities They've fallen in love with so
 - **Short Term**: Recruit new members
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Brenna Moonshadow the Fallen (Family - Child)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Xander Proudmore the Seeker (Criminal - Target)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
 
-
 ### Jorah Voidwalker the Lost (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Killed previous business owner

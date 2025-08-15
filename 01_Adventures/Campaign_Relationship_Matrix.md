@@ -1089,8 +1089,13 @@ Contextual improvement based on 12_Research
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## See Also
 - Related content
 - Similar topics
 - Connected elements
+
+## References
+
+- [[Captain Rodrigo Irochor]]
+- [[Master_Lore_Index]]
+- [[Master_Places_Index]]

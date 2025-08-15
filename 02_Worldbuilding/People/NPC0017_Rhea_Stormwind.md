@@ -1,8 +1,8 @@
 ---
+aliases: ["Rhea Stormwind", "rhea stormwind", "Stormwind Rhea"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -72,8 +72,6 @@ Grew up on the streets, learning to survive. Years ago, they once saved a noble'
 ### Skills
 Investigation, Insight, Deception, Arcana
 
-
-
 ## Possessions
 - 100 gold pieces
 - Lucky dice
@@ -88,7 +86,6 @@ Investigation, Insight, Deception, Arcana
 
 ---
 *Generated: 2025-08-15T03:21:04.027Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

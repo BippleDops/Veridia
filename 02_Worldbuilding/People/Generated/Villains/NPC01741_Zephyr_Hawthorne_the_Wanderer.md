@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Hawthorne the Wanderer", "zephyr hawthorne the wanderer", "Zephyr Hawthorne Wanderer", "Wanderer the Hawthorne Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Hawthorne the Wanderer
 
 *Elf Cultist (Villains), Age 66, Female*
@@ -13,7 +19,6 @@
 Towering and compact, with Mohawk red hair and Gray eyes. Brown skin. Prominent scar across the face.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Never backs down from any challenge
@@ -42,16 +47,13 @@ Believes their evil acts serve a greater good A prophetic dream has been hauntin
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Caelum Blackstone the Wise (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
 ### Fiora Voidwalker the Seeker (Political - Ally)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Knows how the world will end

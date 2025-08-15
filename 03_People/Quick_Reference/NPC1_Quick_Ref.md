@@ -1,4 +1,5 @@
 ---
+aliases: ["Quick Ref", "quick ref", "Ref Quick"]
 tags: [npc, character]
 type: npc
 ---

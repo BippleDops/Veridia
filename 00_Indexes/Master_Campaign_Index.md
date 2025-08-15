@@ -162,12 +162,12 @@ Reality Stability → Merger Events
 3. Review [[Quest Campaign Tracker]] status
 4. Check [[Npc]] for active NPCs
 5. Generate encounters with [[12 Research]]
-6. Prepare scenes with [[09 Templates/Scene Framing Templates]]
+6. Prepare scenes with [[09 Templates|09 Templates/Scene Framing Templates]]
 
 ### World Building
 
 1. Use [[DM Board]] creation buttons
-2. Follow [[05 Templates|05 Templates]] for consistency
+2. Follow [[05_Templates|05 Templates]] for consistency
 3. Update relevant trackers
 4. Cross-reference with existing content
 5. Maintain completion status
@@ -301,7 +301,6 @@ updated: 2025-08-13T07:59:50.321845
 ## Related
 - [[Aquabyssos World Guide]]
 - [[Aethermoor World Guide]]
-
 
 ## Alternate Descriptions
 - **First Impression**: Initial appearance

@@ -1,3 +1,9 @@
+---
+aliases: ["Blazing Sword of the Ancients", "blazing sword of the ancients", "Blazing Sword of Ancients", "Ancients the of Sword Blazing"]
+tags: [item, equipment]
+type: item
+---
+
 # Blazing Sword of the Ancients
 
 *Weapons, Common*
@@ -13,8 +19,6 @@ A blazing sword forged from meteoric iron
 ## Properties
 - Ignores resistance to damage type
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -29,7 +33,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.361Z*

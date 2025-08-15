@@ -1,6 +1,5 @@
 ---
 
-
 title: Conditions
 type: conditions
 tags:
@@ -140,7 +139,6 @@ Apply this rule when:
 - Comparable feature: Action Surge (1/rest)
 - Balance note: More uses but weaker effect
 
-
 ## Common Mistakes
 *Frequent misunderstandings to avoid*
 
@@ -222,3 +220,16 @@ Apply this rule when:
 
 ### Table Consideration
 Discuss with players before implementing
+
+## References
+
+- [[Outfitters_Shop]]
+- [[Problems Time Stream Disruptions]]
+- [[Harbor Master Luna Freedrift (Places)]]
+- [[The Pearl Markets]]
+- [[03_Mechanics_Conditions]]
+- [[Bestiary - Custom Homebrew Monster]]
+- [[Quick_Reference - DnD5e-SideScreen-2014]]
+- [[Reference Homebrew Bestiary Custom Homebrew Monster]]
+- [[Reference Quick Reference Dnd5e Sidescreen 2014]]
+- [[Transformations - Transformation Compendium]]

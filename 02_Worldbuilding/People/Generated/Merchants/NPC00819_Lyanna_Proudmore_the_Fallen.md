@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Proudmore the Fallen", "lyanna proudmore the fallen", "Lyanna Proudmore Fallen", "Fallen the Proudmore Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Proudmore the Fallen
 
 *Tabaxi Appraiser (Merchants), Age 67, Non-binary*
@@ -42,16 +48,13 @@ Built their business from nothing through cunning and hard work A prophetic drea
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Urien Goldleaf the Swift (Family - Spouse)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Pyria Grimholt the Wise (Family - Parent)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ### Solas Ashford the Guardian (Family - Parent)
 - **Status**: Recently reconciled
@@ -62,11 +65,9 @@ Built their business from nothing through cunning and hard work A prophetic drea
 - **Status**: Secretly hostile
 - **History**: United by common enemy
 
-
 ### Pyria Moonshadow the Scholar (Family - Sibling)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Sells information to all sides

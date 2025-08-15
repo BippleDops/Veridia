@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Ashford", "urien ashford", "Ashford Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Ashford
 
 *Dwarf Courtier (Nobles), Age 69, Female*
@@ -36,22 +42,18 @@ Last survivor of a fallen house, seeking to restore family honor An old debt has
 - **Short Term**: Sabotage competition
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Erasmus Dawnstrider (Personal - Ex-lover)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
 
-
 ### Gareth Ashford (Personal - Childhood friend)
 - **Status**: One-sided affection
 - **History**: United by common enemy
 
-
 ### Jorah Stormwind (Criminal - Informant)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Practicing forbidden magic

@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Lightbringer the Scholar", "zephyr lightbringer the scholar", "Zephyr Lightbringer Scholar", "Scholar the Lightbringer Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Lightbringer the Scholar
 
 *Human Dark Wizard (Villains), Age 49, Male*
@@ -36,7 +42,6 @@ Betrayed by those they trusted, now seeking revenge on the world They've made a 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Corvus Ironwood the Wise (Professional - Rival)
 - **Status**: Recently reconciled
@@ -47,11 +52,9 @@ Betrayed by those they trusted, now seeking revenge on the world They've made a 
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Orion Frostwhisper the Mystic (Political - Patron)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Is being controlled by darker force

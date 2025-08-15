@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Hawthorne the Redeemed", "wynne hawthorne the redeemed", "Wynne Hawthorne Redeemed", "Redeemed the Hawthorne Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Hawthorne the Redeemed
 
 *Goliath Appraiser (Merchants), Age 31, Non-binary*
@@ -36,7 +42,6 @@ Built their business from nothing through cunning and hard work They're being bl
 - **Short Term**: Recruit new members
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Fiora Thornweave the Scholar (Family - Child)
 - **Status**: Professional only
@@ -47,11 +52,9 @@ Built their business from nothing through cunning and hard work They're being bl
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Erasmus Darkwater the Seeker (Personal - Best friend)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ### Kaelen Oakenshield the Seeker (Family - Cousin)
 - **Status**: Complicated history

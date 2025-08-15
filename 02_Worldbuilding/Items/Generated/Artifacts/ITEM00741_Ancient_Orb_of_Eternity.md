@@ -1,3 +1,9 @@
+---
+aliases: ["Ancient Orb of Eternity", "ancient orb of eternity", "Eternity of Orb Ancient"]
+tags: [item, equipment]
+type: item
+---
+
 # Ancient Orb of Eternity
 
 *Artifacts, Very Rare*

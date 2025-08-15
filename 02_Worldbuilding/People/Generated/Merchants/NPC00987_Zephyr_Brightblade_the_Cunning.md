@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Brightblade the Cunning", "zephyr brightblade the cunning", "Zephyr Brightblade Cunning", "Cunning the Brightblade Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Brightblade the Cunning
 
 *Half-Elf Shopkeeper (Merchants), Age 37, Male*
@@ -13,7 +19,6 @@
 Short and wiry, with Carefully styled brown hair and Brown eyes. Olive skin. Missing finger on left hand.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge
@@ -36,12 +41,10 @@ Inherited a failing business and turned it around They've made a deal they're be
 - **Short Term**: Avoid the authorities
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Idris Goldleaf the Fallen (Criminal - Target)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ### Kaelen Xendar the Wise (Personal - Ex-lover)
 - **Status**: Strong and trusting

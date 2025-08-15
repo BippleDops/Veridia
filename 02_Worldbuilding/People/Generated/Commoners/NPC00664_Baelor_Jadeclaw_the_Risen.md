@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Jadeclaw the Risen", "baelor jadeclaw the risen", "Baelor Jadeclaw Risen", "Risen the Jadeclaw Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Jadeclaw the Risen
 
 *Halfling Farmer (Commoners), Age 29, Non-binary*
@@ -36,17 +42,14 @@ Survivor of a disaster that destroyed their village They've made a deal they're 
 - **Short Term**: Complete current contract
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Erasmus Keenblade the Strong (Political - Opposition)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
 ### Qadim Ashford the Mystic (Personal - Ex-lover)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ### Aeliana Ashford the Redeemed (Personal - Love interest)
 - **Status**: Complicated history
@@ -57,11 +60,9 @@ Survivor of a disaster that destroyed their village They've made a deal they're 
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Corvus Goldleaf the Risen (Criminal - Target)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ### Solas Dawnstrider (Criminal - Handler)
 - **Status**: Complicated history

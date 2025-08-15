@@ -97,3 +97,27 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Derro Savant Mpmm]]
+- [[derro-savant-mpmm (aberration)]]
+- [[Couatl Xmm]]
+- [[couatl-xmm (celestial)]]
+- [[Dust Mephit Xmm]]
+- [[dust-mephit-xmm (elemental)]]
+- [[Pixie Xmm]]
+- [[pixie-xmm (fey)]]
+- [[Oni Xmm]]
+- [[oni-xmm (fiend)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Paladin Xphb Oath of Redemption Xge]]
+- [[Warlock Xphb Archfey Patron Xphb]]
+- [[paladin-xphb-oath-of-redemption-xge (classes)]]
+- [[warlock-xphb-archfey-patron-xphb (classes)]]
+- [[Eye and Hand of Vecna Xdmg]]
+- [[Hand of Vecna Xdmg]]
+- [[eye-and-hand-of-vecna-xdmg (items)]]
+- [[hand-of-vecna-xdmg (items)]]

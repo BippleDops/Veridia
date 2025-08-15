@@ -35,7 +35,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-high-priestess-nerida-soulcurrent-high-priestess-nerida-soulcurrent.svg)
 
@@ -199,7 +198,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -269,3 +267,13 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City Harbormaster Tidal Stormcrest V1 Harbormaster Tidal Stormcrest.svg]]
+- [[Assets Locations Location City Palace Guard Captain Neutralis Palace Guard Captain Neutralis.png]]
+- [[Assets Portraits Portrait NPC Captain Harmony Tidereader Captain Harmony Tidereader.svg]]
+- [[Assets Symbols Symbol Heraldry Arcturus Lumenblade Arcturus Lumenblade.svg]]
+- [[Assets Symbols Symbol Heraldry Deputy Archmerchant Scroll Deepmin Deputy Archmerchant Scroll Deepmin.svg]]
+- [[Temple Ward]]
+- [[Temple Ward (D&D_Statblocks)]]

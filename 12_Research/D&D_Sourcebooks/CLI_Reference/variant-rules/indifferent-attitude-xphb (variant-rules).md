@@ -76,3 +76,18 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]
+- [[Hat of Vermin Xdmg]]
+- [[Pipes of the Sewers Xdmg]]
+- [[hat-of-vermin-xdmg (items)]]
+- [[pipes-of-the-sewers-xdmg (items)]]
+- [[Calm Emotions Xphb]]
+- [[calm-emotions-xphb (spells)]]
+- [[Attitude Xphb]]
+- [[attitude-xphb (variant-rules)]]

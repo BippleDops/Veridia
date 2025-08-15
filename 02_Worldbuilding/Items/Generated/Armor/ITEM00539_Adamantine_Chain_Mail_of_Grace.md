@@ -1,3 +1,9 @@
+---
+aliases: ["Adamantine Chain Mail of Grace", "adamantine chain mail of grace", "Grace of Mail Chain Adamantine"]
+tags: [item, equipment]
+type: item
+---
+
 # Adamantine Chain Mail of Grace
 
 *Armor, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A adamantine chain mail crafted from exotic materials
 - Resistance to one damage type
 - +2 to AC
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -32,7 +36,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.392Z*

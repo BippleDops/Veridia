@@ -186,7 +186,7 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[04_Resources_Assets_Symbols_symbol-heraldry-the-stellar-confluence-the-stellar-confluence.svg]] (friend)
 - [[04_Resources_Assets_Portraits_portrait-npc-pirate-lords-of-the-spiral-depths-pirate-lords-of-the-spiral-depths.svg]] (friend)
-- [[vault_backup_20250813_073007_06_GM_Resources_Travel_Encounter_Sheets_D_L 03_Deep_Mother_Dream_Tide]] (ally)
+-  (ally)
 ---
 *Tags*: #npc #contact #worldbuilding
 

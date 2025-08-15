@@ -25,10 +25,10 @@ created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
 connections:
-- '[[[[Deep Mother]] Cult Practices]]'
-- '[[[[Kelp Forest]] Monasteries]]'
+- '[[Deep Mother|[[Deep Mother]] Cult Practices]]'
+- '[[Kelp Forest|[[Kelp Forest]] Monasteries]]'
 - '[[Temple of the First Tide]]'
-- '[[The [[Drowned]] God]]'
+- '[[Drowned|The [[Drowned]] God]]'
 - '[[Pressure Adaptation System]]'
 - '[[Aquabyssos Depth Caste System]]'
 - '[[Tidal Memory Ceremonies]]'
@@ -63,7 +63,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -235,7 +235,7 @@ Specialized baptism for those entering underwater military service, incorporatin
 **Academic Deep Immersion**
 Modified baptism for researchers and academics who need depth adaptation for scholarly work:
 - Extended time for meditation and spiritual revelation
-- Access to rare texts and artifacts housed in [[Deep Archives]]
+- Access to rare texts and artifacts housed in 
 - Connection with scholarly communities in the deepest [[Libraries]]
 - Enhanced spiritual preparation for handling dangerous knowledge
 
@@ -400,7 +400,7 @@ The Pressure Baptism Rites is a undersea element of the setting, known for biolu
 
 Legends speak of The Pressure Baptism Rites as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Pressure Baptism Rites.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 

@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Crystalbrook the Strong", "baelor crystalbrook the strong", "Baelor Crystalbrook Strong", "Strong the Crystalbrook Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Crystalbrook the Strong
 
 *Goliath Crime Boss (Villains), Age 37, Non-binary*
@@ -36,22 +42,18 @@ Believes their evil acts serve a greater good A prophetic dream has been hauntin
 - **Short Term**: Recruit new members
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Urien Youngblood the Strong (Personal - Nemesis)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Dara Underhill the Swift (Professional - Employee)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Orion Goldleaf the Guardian (Professional - Partner)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Knows how the world will end

@@ -149,3 +149,11 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[redcap-mpmm (fey)]]
+- [[3 Bestiary]]
+- [[3-bestiary (volos-guide-to-monsters)]]
+- [[Random Hag Minions Brutes Vgm]]
+- [[random-hag-minions-brutes-vgm (tables)]]

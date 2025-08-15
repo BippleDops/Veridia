@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Silverleaf the Wanderer", "zephyr silverleaf the wanderer", "Zephyr Silverleaf Wanderer", "Wanderer the Silverleaf Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Silverleaf the Wanderer
 
 *Gnome Shopkeeper (Merchants), Age 72, Female*
@@ -13,7 +19,6 @@
 Below average and compact, with Long and flowing silver hair and Heterochromic eyes. Tan skin. Crooked nose from multiple breaks.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Sees doom and gloom everywhere
@@ -36,27 +41,22 @@ Built their business from nothing through cunning and hard work A family member'
 - **Short Term**: Gather information
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Felicia Lightbringer the Wise (Political - Spy)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Gareth Blackstone the Broken (Criminal - Accomplice)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ### Orion Ironforge the Risen (Family - Parent)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
 
-
 ### Lyanna Thornweave the Risen (Personal - Best friend)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Smuggles illegal magical items

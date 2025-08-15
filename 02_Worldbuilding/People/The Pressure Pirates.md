@@ -36,12 +36,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-pressure-pirates-the-pressure-pirates.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -237,7 +235,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -273,3 +270,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City the Sunken Cathedral of Perfect Order the Sunken Cathedral of Perfect Order.svg]]
+- [[Lighthouse Keeper]]
+- [[Lord_Lady_Chamberlain_Court_Manager]]
+- [[The Final Choice (D&D_References)]]
+- [[The Final Choice 3 (D&D_References)]]
+- [[Lighthouse Keeper (D&D_Statblocks)]]

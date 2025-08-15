@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Jadeclaw the Wise", "aldric jadeclaw the wise", "Aldric Jadeclaw Wise", "Wise the Jadeclaw Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Jadeclaw the Wise
 
 *Elf Broker (Merchants), Age 45, Male*
@@ -13,7 +19,6 @@
 Average height and wiry, with Mohawk unusual color hair and Red eyes. Unusual hue skin. Intricate tattoos covering arms.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Always tells the absolute truth
@@ -36,7 +41,6 @@ Former adventurer who retired to open a shop They've made a deal they're beginni
 - **Short Term**: Avoid the authorities
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Rhiannon Keenblade the Guardian (Professional - Employee)
 - **Status**: Strained but maintaining
@@ -52,16 +56,13 @@ Former adventurer who retired to open a shop They've made a deal they're beginni
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Cedric Brightblade the Fallen (Criminal - Target)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Orion Lightbringer the Broken (Political - Puppet)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Running a cult from their basement

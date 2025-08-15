@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Stormwind the Swift", "elric stormwind the swift", "Elric Stormwind Swift", "Swift the Stormwind Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Stormwind the Swift
 
 *Elf Dark Wizard (Villains), Age 39, Female*
@@ -36,27 +42,22 @@ Betrayed by those they trusted, now seeking revenge on the world They've been ma
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Rhiannon Goldleaf the Wise (Family - Child)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Branwen Nightfall the Scholar (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ### Idris Proudmore the Redeemed (Personal - Ex-lover)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Fiora Blackstone the Redeemed (Family - Child)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Was once a renowned hero

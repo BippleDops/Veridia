@@ -1,4 +1,5 @@
 ---
+aliases: ["In Search of Knowledge", "in search of knowledge", "Knowledge of Search In"]
 tags: [generated]
 id: QUEST0027
 created: 2025-08-15T04:09:51.378Z
@@ -21,8 +22,6 @@ Discover the truth behind the disappearances
 
 ### Secondary
 - Maintain cover identity
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they was falsely accused of a crime, which changed their life forever. Now, circumstances demand immediate action.

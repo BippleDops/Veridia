@@ -84,3 +84,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Holy Symbol Xphb]]
+- [[holy-symbol-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[Holy Symbol Varies Holy Symbols Xphb]]
+- [[adventuring-gear-phb (tables)]]
+- [[holy-symbol-varies-holy-symbols-xphb (tables)]]

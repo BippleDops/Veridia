@@ -1,11 +1,11 @@
 ---
+aliases: ["Ophelia Brightblade", "ophelia brightblade", "Brightblade Ophelia"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -74,8 +74,6 @@ Discovered magical talent late in life. Years ago, they lost everything in a fir
 ### Skills
 Arcana, Investigation, Perception
 
-
-
 ## Possessions
 - 57 gold pieces
 - Family heirloom (locket)
@@ -87,7 +85,6 @@ Arcana, Investigation, Perception
 
 ---
 *Generated: 2025-08-15T03:21:04.046Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

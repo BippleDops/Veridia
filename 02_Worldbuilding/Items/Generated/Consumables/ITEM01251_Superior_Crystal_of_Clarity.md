@@ -1,3 +1,9 @@
+---
+aliases: ["Superior Crystal of Clarity", "superior crystal of clarity", "Clarity of Crystal Superior"]
+tags: [item, equipment]
+type: item
+---
+
 # Superior Crystal of Clarity
 
 *Consumables, Common*

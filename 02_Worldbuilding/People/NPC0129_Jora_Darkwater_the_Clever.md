@@ -1,11 +1,11 @@
 ---
+aliases: ["Jora Darkwater the Clever", "jora darkwater the clever", "Jora Darkwater Clever", "Clever the Darkwater Jora"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -79,7 +79,6 @@ Perception, Arcana, Investigation
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 49 gold pieces
 - Mysterious key
@@ -91,7 +90,6 @@ Perception, Arcana, Investigation
 
 ---
 *Generated: 2025-08-15T03:21:04.039Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

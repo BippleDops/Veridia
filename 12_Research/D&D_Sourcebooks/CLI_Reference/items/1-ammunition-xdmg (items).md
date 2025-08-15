@@ -109,3 +109,16 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Armaments Uncommon Xdmg]]
+- [[Implements Uncommon Xdmg]]
+- [[Magic Item Categories Xdmg]]
+- [[Random Magic Items Armaments]]
+- [[Random Magic Items Implements]]
+- [[armaments-uncommon-xdmg (tables)]]
+- [[implements-uncommon-xdmg (tables)]]
+- [[magic-item-categories-xdmg (tables)]]
+- [[random-magic-items-armaments (tables)]]
+- [[random-magic-items-implements (tables)]]

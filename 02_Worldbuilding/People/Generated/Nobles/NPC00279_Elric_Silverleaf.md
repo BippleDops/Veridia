@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Silverleaf", "elric silverleaf", "Silverleaf Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Silverleaf
 
 *Genasi Aristocrat (Nobles), Age 71, Non-binary*
@@ -36,12 +42,10 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Make this month's payment
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Idris Ravenheart the Bold (Criminal - Informant)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ### Ysara Frostwhisper the Wanderer (Family - Child)
 - **Status**: Strong and trusting
@@ -52,7 +56,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Brenna Xendar the Mystic (Political - Opposition)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
@@ -62,11 +65,9 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
 
-
 ### Pyria Quicksilver (Personal - Best friend)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

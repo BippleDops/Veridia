@@ -1,6 +1,18 @@
-# Cults 91
+---
+aliases: ["Cults 91", "cults 91", "91 Cults"]
+tags: [note, stub-fixed]
+---
 
-*Cults*
+# Fac00090 Cults 91
+
+## Content
+Content to be added.
+
+## Related
+- [[Related content]]
+
+## Notes
+*Stub file automatically populated*
 
 ---
-*ID: FAC00090*
+*Note: This content develops through gameplay and campaign events.*

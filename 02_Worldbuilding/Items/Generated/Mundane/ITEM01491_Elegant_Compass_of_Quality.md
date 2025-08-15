@@ -1,3 +1,9 @@
+---
+aliases: ["Elegant Compass of Quality", "elegant compass of quality", "Quality of Compass Elegant"]
+tags: [item, equipment]
+type: item
+---
+
 # Elegant Compass of Quality
 
 *Mundane, Common*
@@ -13,8 +19,6 @@ A elegant compass showing signs of age
 ## Properties
 - Provides comfort
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -29,7 +33,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.493Z*

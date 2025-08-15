@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Grimholt the Seeker", "branwen grimholt the seeker", "Branwen Grimholt Seeker", "Seeker the Grimholt Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Grimholt the Seeker
 
 *Half-Orc Blacksmith (Commoners), Age 69, Non-binary*
@@ -36,12 +42,10 @@ Grew up in poverty but discovered a talent that might change everything An old d
 - **Short Term**: Survive until next week
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Hilda Nightfall the Guardian (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ### Ewan Thornweave the Risen (Professional - Partner)
 - **Status**: Mutually beneficial
@@ -57,16 +61,13 @@ Grew up in poverty but discovered a talent that might change everything An old d
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
 
-
 ### Cedric Winterborn the Mystic (Political - Spy)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Pyria Quicksilver the Wanderer (Professional - Partner)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Is the lost heir to the throne

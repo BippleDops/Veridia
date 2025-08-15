@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Goldleaf the Redeemed", "wynne goldleaf the redeemed", "Wynne Goldleaf Redeemed", "Redeemed the Goldleaf Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Goldleaf the Redeemed
 
 *Tabaxi Wizard (Adventurers), Age 57, Non-binary*
@@ -42,11 +48,9 @@ Searching for a legendary treasure their parent died seeking A prophetic dream h
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
 
-
 ### Gareth Jadeclaw the Lost (Criminal - Target)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ### Corvus Oakenshield the Swift (Family - Parent)
 - **Status**: Secretly hostile
@@ -56,7 +60,6 @@ Searching for a legendary treasure their parent died seeking A prophetic dream h
 ### Jorah Darkwater the Strong (Political - Patron)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Has died and been resurrected

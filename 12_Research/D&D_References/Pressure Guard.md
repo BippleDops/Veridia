@@ -51,3 +51,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[The Breathing Stone]]
+- [[The Breathing Stone (D&D_References)]]

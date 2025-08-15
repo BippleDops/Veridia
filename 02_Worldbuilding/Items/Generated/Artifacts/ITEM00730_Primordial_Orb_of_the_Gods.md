@@ -1,3 +1,9 @@
+---
+aliases: ["Primordial Orb of the Gods", "primordial orb of the gods", "Primordial Orb of Gods", "Gods the of Orb Primordial"]
+tags: [item, equipment]
+type: item
+---
+
 # Primordial Orb of the Gods
 
 *Artifacts, Very Rare*
@@ -16,8 +22,6 @@ A primordial orb radiating otherworldly power
 - Immunity to charm
 - Cast spell 3/day
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -32,7 +36,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.420Z*

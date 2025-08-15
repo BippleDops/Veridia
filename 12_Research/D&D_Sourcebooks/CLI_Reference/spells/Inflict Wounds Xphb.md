@@ -111,3 +111,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Gar Shatterkeel Pota]]
+- [[gar-shatterkeel-pota (legendary-group)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Paladin Xphb Oathbreaker Dmg]]
+- [[paladin-xphb-oathbreaker-dmg (classes)]]

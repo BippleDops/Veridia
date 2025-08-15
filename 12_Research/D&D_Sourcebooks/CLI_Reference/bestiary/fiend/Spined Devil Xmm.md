@@ -153,3 +153,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Strange dreams suggest a conspiracy
 - A journal reveals ancient history about the government
 - A letter reveals ancient history about this place
+
+## References
+
+- [[spined-devil-xmm (fiend)]]

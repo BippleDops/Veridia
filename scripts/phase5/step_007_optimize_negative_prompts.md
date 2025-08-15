@@ -1,3 +1,8 @@
+---
+tags: [misc]
+type: misc
+---
+
 # Optimize negative prompts
 
 *Implemented: 2025-08-13 10:27*
@@ -24,13 +29,11 @@ Specific functionality can be enhanced based on requirements.
 
 *Autonomous Implementation System - Phase 5 Excellence Amplification*
 
-
 ## Connections
 
 - See also: [[World Overview]]
 - Related: [[Regional Politics]]
 - Connected to: [[Main Quest Line]]
-
 
 ## DM Notes
 

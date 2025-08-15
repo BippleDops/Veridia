@@ -70,7 +70,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -89,4 +88,4 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[list-spells-classes-monster-slayer-xge (lists)-phb]]` in CLI_Reference/spells/
+See: `[[classes|list-spells-classes-monster-slayer-xge (lists)-phb]]` in CLI_Reference/spells/

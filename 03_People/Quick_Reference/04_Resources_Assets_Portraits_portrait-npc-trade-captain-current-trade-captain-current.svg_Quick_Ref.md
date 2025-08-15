@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # 04_Resources_Assets_Portraits_portrait-npc-trade-captain-current-trade-captain-current.svg - Quick Reference
 
 ## Key Info

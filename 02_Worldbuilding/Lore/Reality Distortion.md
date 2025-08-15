@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -84,7 +84,7 @@ Reality Distortion is a undersea element of the setting, known for bioluminescen
 
 Legends speak of Reality Distortion as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Reality Distortion.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -96,7 +96,7 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -112,3 +112,42 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Civil war
 - Natural disasters
 - Current power structures established
+
+## References
+
+- [[Arcanum Heights]]
+- [[Aurelius Goldwave]]
+- [[Campaign Epilogues]]
+- [[Deep Mother Influence]]
+- [[Depth Effect Quick Reference]]
+- [[Fortress of the Deeps]]
+- [[Initiative Tracker (02_Worldbuilding)]]
+- [[Memory Alteration Consequences]]
+- [[Multi-Phase Boss Fights]]
+- [[Random Encounters]]
+- [[Reality Distortion Mechanics]]
+- [[Reality Distortion Tables]]
+- [[The Crimson Hand]]
+- [[The Deep Prophecies]]
+- [[The Forgetting Bomb]]
+- [[The Threshold]]
+- [[The Transformed Citizens]]
+- [[Throne Room]]
+- [[Timeline of Crimes]]
+- [[Bubble Burst]]
+- [[Compass Quest]]
+- [[Depth Warden Patrol]]
+- [[Reality Anchor Network]]
+- [[Reality Breach Locations]]
+- [[Reflection Pools - Surgical Theater]]
+- [[Temple of the Sunken Cathedral]]
+- [[The Crystal Wardens]]
+- [[The Living Weapon]]
+- [[The Reflection Pools]]
+- [[The Tidepool Markets]]
+- [[The Void Tears]]
+- [[Theological Warfare]]
+- [[Void Currents]]
+- [[The Maw of Darkness]]
+- [[The Whispering Expanse]]
+- [[Bubble Burst (D&D_References)]]

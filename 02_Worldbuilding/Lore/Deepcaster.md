@@ -146,3 +146,10 @@ Different cultures interpret this lore through their own lens, creating variatio
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[Abyssos Prime - Inverse Palace]]
+- [[Temporal Navigation]]
+- [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]]
+- [[Temporal Navigation (D&D_Statblocks)]]

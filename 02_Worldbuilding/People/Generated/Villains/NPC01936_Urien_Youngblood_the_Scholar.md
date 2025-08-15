@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Youngblood the Scholar", "urien youngblood the scholar", "Urien Youngblood Scholar", "Scholar the Youngblood Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Youngblood the Scholar
 
 *Gnome Assassin (Villains), Age 55, Male*
@@ -13,7 +19,6 @@
 Average height and compact, with Carefully styled auburn hair and Blue eyes. Weathered skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Always tells the absolute truth; Compulsive liar about minor things
@@ -36,27 +41,22 @@ Corrupted by an artifact or dark magic An old debt has come due at the worst pos
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Fiora Winterborn the Guardian (Professional - Rival)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Aldric Emberfall the Mystic (Family - Sibling)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ### Rhiannon Silverleaf the Scholar (Criminal - Informant)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Idris Jadeclaw the Cunning (Criminal - Handler)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Knows how the world will end

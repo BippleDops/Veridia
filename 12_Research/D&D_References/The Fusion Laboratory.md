@@ -64,3 +64,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A noble needs help delivering before the festival
 - Strange accidents suggest ancient magic
 - A stranger needs help investigating before winter
+
+## References
+
+- [[The Shadow-Crystal Synthesis (Criminal_Organizations)]]

@@ -21,14 +21,11 @@ improvements: 20
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
 
-
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
-
 
 ## Connections
 - **North**: Trade road to neighboring settlement
@@ -242,7 +239,6 @@ Key stop on textiles trade route
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions

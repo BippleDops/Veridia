@@ -1,11 +1,11 @@
 ---
+aliases: ["Jasper Ironforge the Elder", "jasper ironforge the elder", "Jasper Ironforge Elder", "Elder the Ironforge Jasper"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -74,8 +74,6 @@ Apprenticed to a master craftsman from young age. Years ago, they witnessed some
 ### Skills
 Insight, Arcana, Deception, Stealth
 
-
-
 ## Possessions
 - 44 gold pieces
 - Family heirloom (locket)
@@ -87,7 +85,6 @@ Insight, Arcana, Deception, Stealth
 
 ---
 *Generated: 2025-08-15T03:21:04.034Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

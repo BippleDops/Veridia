@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Frostwhisper the Risen", "drusilla frostwhisper the risen", "Drusilla Frostwhisper Risen", "Risen the Frostwhisper Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Frostwhisper the Risen
 
 *Goliath Blacksmith (Commoners), Age 73, Non-binary*
@@ -36,7 +42,6 @@ Survivor of a disaster that destroyed their village A family member's death has 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Elric Emberfall the Guardian (Family - Child)
 - **Status**: Strong and trusting
@@ -51,7 +56,6 @@ Survivor of a disaster that destroyed their village A family member's death has 
 ### Elric Oakenshield the Bold (Criminal - Handler)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Is the lost heir to the throne

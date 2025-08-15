@@ -82,3 +82,14 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[06 Chapter 5 Feats]]
+- [[06-chapter-5-feats (players-handbook-2024)]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Sorcerer Xphb]]
+- [[sorcerer-xphb (classes)]]
+- [[Repeatable Feat List Xphb]]
+- [[repeatable-feat-list-xphb (tables)]]

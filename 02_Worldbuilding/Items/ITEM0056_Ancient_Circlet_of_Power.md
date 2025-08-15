@@ -1,4 +1,5 @@
 ---
+aliases: ["Ancient Circlet of Power", "ancient circlet of power", "Power of Circlet Ancient"]
 tags: [generated]
 id: ITEM0056
 created: 2025-08-15T04:09:51.096Z
@@ -18,8 +19,6 @@ Crafted from mithril with intricate runes, in ancient but unbreakable. It emanat
 
 ## Quirk
 *Glows during full moon*
-
-
 
 ## History
 This item was reforged from broken artifacts millennia ago. It has passed through many hands, each leaving their mark upon its destiny.

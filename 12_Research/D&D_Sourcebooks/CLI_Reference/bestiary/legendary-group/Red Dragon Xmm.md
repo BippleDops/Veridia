@@ -87,3 +87,30 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Adult Red Dragon Xmm]]
+- [[Ancient Red Dragon Xmm]]
+- [[Young Red Dragon Xmm]]
+- [[adult-red-dragon-xmm (dragon)]]
+- [[ancient-red-dragon-xmm (dragon)]]
+- [[young-red-dragon-xmm (dragon)]]
+- [[Deck of Illusions Xdmg]]
+- [[Deck of Illusions]]
+- [[deck-of-illusions (decks)]]
+- [[deck-of-illusions-xdmg (decks)]]
+- [[Deck of Illusions Xdmg (items)]]
+- [[Draakhorn Rot]]
+- [[deck-of-illusions-xdmg (items)]]
+- [[draakhorn-rot (items)]]
+- [[Hill Encounters Levels 1116 Xge]]
+- [[Hill Encounters Levels 1720 Xge]]
+- [[Monsters by Habitat Hill Monsters Xmm]]
+- [[Monsters by Habitat Mountain Monsters Xmm]]
+- [[Mountain Encounters Levels 1116 Xge]]
+- [[hill-encounters-levels-1116-xge (tables)]]
+- [[hill-encounters-levels-1720-xge (tables)]]
+- [[monsters-by-habitat-hill-monsters-xmm (tables)]]
+- [[monsters-by-habitat-mountain-monsters-xmm (tables)]]
+- [[mountain-encounters-levels-1116-xge (tables)]]

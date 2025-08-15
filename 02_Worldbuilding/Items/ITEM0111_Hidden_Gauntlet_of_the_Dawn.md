@@ -1,4 +1,5 @@
 ---
+aliases: ["Hidden Gauntlet of the Dawn", "hidden gauntlet of the dawn", "Hidden Gauntlet of Dawn", "Dawn the of Gauntlet Hidden"]
 tags: [generated]
 id: ITEM0111
 created: 2025-08-15T04:09:51.113Z

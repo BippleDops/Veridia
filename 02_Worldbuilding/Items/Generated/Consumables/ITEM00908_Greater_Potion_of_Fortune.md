@@ -1,3 +1,9 @@
+---
+aliases: ["Greater Potion of Fortune", "greater potion of fortune", "Fortune of Potion Greater"]
+tags: [item, equipment]
+type: item
+---
+
 # Greater Potion of Fortune
 
 *Consumables, Uncommon*

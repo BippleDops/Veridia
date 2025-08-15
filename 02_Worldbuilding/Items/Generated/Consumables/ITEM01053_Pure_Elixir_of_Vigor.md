@@ -1,3 +1,9 @@
+---
+aliases: ["Pure Elixir of Vigor", "pure elixir of vigor", "Vigor of Elixir Pure"]
+tags: [item, equipment]
+type: item
+---
+
 # Pure Elixir of Vigor
 
 *Consumables, Common*
@@ -13,8 +19,6 @@ A pure elixir glowing softly
 ## Properties
 - Resistance for 10 minutes
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -29,7 +33,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.451Z*

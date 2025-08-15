@@ -182,3 +182,18 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Buying a Magic Item Buying Magic Items Xge]]
+- [[Treasure Hoard Challenge 1116 (tables)]]
+- [[Treasure Hoard Challenge 17 (tables)]]
+- [[Treasure Hoard Challenge 510 (tables)]]
+- [[buying-a-magic-item-buying-magic-items-xge (tables)]]
+- [[treasure-hoard-challenge-1116 (tables)]]
+- [[treasure-hoard-challenge-17 (tables)]]
+- [[treasure-hoard-challenge-17 2]]
+- [[treasure-hoard-challenge-510 (tables)]]
+- [[Downtime Activity Buying a Magic Item Xge]]
+- [[downtime-activity-buying-a-magic-item-xge (variant-rules)]]

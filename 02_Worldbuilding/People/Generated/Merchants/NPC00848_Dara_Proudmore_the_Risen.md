@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Proudmore the Risen", "dara proudmore the risen", "Dara Proudmore Risen", "Risen the Proudmore Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Proudmore the Risen
 
 *Half-Orc Appraiser (Merchants), Age 57, Male*
@@ -13,7 +19,6 @@
 Above average and lanky, with Partially shaved silver hair and Amber eyes. Scarred skin. Missing finger on left hand.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Flirts with everyone regardless of interest; Incredibly optimistic despite evidence
@@ -42,31 +47,25 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Vesper Thornweave the Wise (Personal - Nemesis)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ### Gareth Silverleaf the Fallen (Family - Child)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
 
-
 ### Kaelen Goldleaf the Redeemed (Professional - Employer)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ### Solas Darkwater the Guardian (Criminal - Target)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Aldric Brightblade the Seeker (Criminal - Handler)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Smuggles illegal magical items

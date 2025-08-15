@@ -21,14 +21,11 @@ improvements: 20
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
 
-
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
-
 
 ## Connections
 - **North**: Trade road to neighboring settlement

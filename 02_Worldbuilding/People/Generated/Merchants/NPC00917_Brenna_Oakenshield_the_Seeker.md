@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Oakenshield the Seeker", "brenna oakenshield the seeker", "Brenna Oakenshield Seeker", "Seeker the Oakenshield Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Oakenshield the Seeker
 
 *Genasi Appraiser (Merchants), Age 22, Non-binary*
@@ -36,12 +42,10 @@ Former adventurer who retired to open a shop They've been marked by a secret soc
 - **Short Term**: Find missing person
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Baelor Darkwater the Scholar (Personal - Best friend)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ### Lyanna Proudmore the Mystic (Family - Child)
 - **Status**: Secretly hostile
@@ -52,11 +56,9 @@ Former adventurer who retired to open a shop They've been marked by a secret soc
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Xander Moonshadow the Mystic (Personal - Love interest)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Is actually a spy for foreign power

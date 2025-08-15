@@ -84,3 +84,21 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Cleric Xphb]]
+- [[cleric-xphb (classes)]]
+- [[Lightbringer Lmop]]
+- [[Mace of Disruption Xdmg]]
+- [[Mace of Smiting Xdmg]]
+- [[Mace of Terror Xdmg]]
+- [[lightbringer-lmop (items)]]
+- [[mace-of-disruption-xdmg (items)]]
+- [[mace-of-smiting-xdmg (items)]]
+- [[mace-of-terror-xdmg (items)]]
+- [[Weapons Phb]]
+- [[Weapons Xphb]]
+- [[weapons-phb (tables)]]
+- [[weapons-xphb (tables)]]

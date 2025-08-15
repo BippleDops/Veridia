@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Hawthorne the Risen", "urien hawthorne the risen", "Urien Hawthorne Risen", "Risen the Hawthorne Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Hawthorne the Risen
 
 *Half-Orc Heir (Nobles), Age 56, Non-binary*
@@ -13,7 +19,6 @@
 Very tall and wiry, with Dreadlocks gray hair and Blue eyes. Freckled skin. Crooked nose from multiple breaks.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Collects unusual and worthless objects; Extremely superstitious about everything
@@ -36,17 +41,14 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Short Term**: Gather information
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Solas Darkwater (Family - Spouse)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
 
-
 ### Gareth Underhill the Scholar (Family - Sibling)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
-
 
 ### Vesper Emberfall (Personal - Love interest)
 - **Status**: One-sided affection

@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Grimholt the Cunning", "aeliana grimholt the cunning", "Aeliana Grimholt Cunning", "Cunning the Grimholt Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Grimholt the Cunning
 
 *Dwarf Trader (Merchants), Age 20, Male*
@@ -36,32 +42,26 @@ Built their business from nothing through cunning and hard work They're being bl
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Ewan Emberfall the Broken (Family - Cousin)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Urien Darkwater the Lost (Political - Patron)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ### Orion Ashford the Scholar (Political - Puppet)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Dara Voidwalker the Seeker (Family - Cousin)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
 
-
 ### Elric Hawthorne the Strong (Criminal - Informant)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Sells information to all sides

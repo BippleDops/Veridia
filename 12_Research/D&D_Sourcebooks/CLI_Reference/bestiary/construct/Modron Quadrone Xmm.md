@@ -170,3 +170,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[modron-quadrone-xmm (construct)]]
+- [[Monster Conversions Stat Block Conversions]]
+- [[monster-conversions-stat-block-conversions-xmm]]

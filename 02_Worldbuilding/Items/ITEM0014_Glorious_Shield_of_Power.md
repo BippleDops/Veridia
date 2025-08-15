@@ -1,4 +1,5 @@
 ---
+aliases: ["Glorious Shield of Power", "glorious shield of power", "Power of Shield Glorious"]
 tags: [generated]
 id: ITEM0014
 created: 2025-08-15T04:09:51.081Z
@@ -20,8 +21,6 @@ Crafted from dragonscale with delicate filigree, in pristine condition. It emana
 
 ## Quirk
 *Makes user sneeze in sunlight*
-
-
 
 ## History
 This item was hidden away by its last owner decades ago. It has passed through many hands, each leaving their mark upon its destiny.

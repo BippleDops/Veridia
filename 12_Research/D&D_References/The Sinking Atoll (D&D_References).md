@@ -440,7 +440,7 @@ The atoll's descent defies conventional understanding of marine geology. Neither
 **Related Items and Concepts**:
 - [[Coral Consciousness Network]]
 - [[Ancient Ocean Anchors]]
-- [[Deep-Sea Cultural Protocol (Cultural_Organizations)]]
+- [[Deep-Sea Cultural Protocol|Deep-Sea Cultural Protocol (Cultural_Organizations)]]
 - [[Sinking Phenomenon Research]]
 
 ## Player-Facing Summary

@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Emberfall the Seeker", "thalia emberfall the seeker", "Thalia Emberfall Seeker", "Seeker the Emberfall Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Emberfall the Seeker
 
 *Tabaxi Baker (Commoners), Age 66, Female*
@@ -13,7 +19,6 @@
 Above average and slender, with Tied back silver hair and Blue eyes. Weathered skin. Constantly changing hair color.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Never backs down from any challenge; Believes in every conspiracy theory
@@ -36,12 +41,10 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 - **Short Term**: Gather information
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Ewan Darkwater the Redeemed (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ### Idris Keenblade the Wanderer (Family - Sibling)
 - **Status**: Complicated history
@@ -52,21 +55,17 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Gareth Crystalbrook the Lost (Personal - Childhood friend)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
-
 
 ### Caelum Zephyrblade the Broken (Criminal - Accomplice)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Thalia Ashford the Broken (Family - Spouse)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Has dragon blood in their veins

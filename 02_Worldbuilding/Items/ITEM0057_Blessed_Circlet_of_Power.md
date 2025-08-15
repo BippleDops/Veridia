@@ -1,4 +1,5 @@
 ---
+aliases: ["Blessed Circlet of Power", "blessed circlet of power", "Power of Circlet Blessed"]
 tags: [generated]
 id: ITEM0057
 created: 2025-08-15T04:09:51.096Z
@@ -19,8 +20,6 @@ Crafted from mithril with intricate runes, in pristine condition. It emanates a 
 
 ## Quirk
 *Attracts small animals*
-
-
 
 ## History
 This item was created to seal an ancient evil centuries ago. It has passed through many hands, each leaving their mark upon its destiny.

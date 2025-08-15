@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Emberfall the Guardian", "orion emberfall the guardian", "Orion Emberfall Guardian", "Guardian the Emberfall Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Emberfall the Guardian
 
 *Tabaxi Rogue (Adventurers), Age 33, Non-binary*
@@ -36,27 +42,22 @@ Chosen by fate to fulfill an ancient prophecy A family member's death has left t
 - **Short Term**: Find missing person
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Corvus Hawthorne the Scholar (Political - Ally)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Zephyr Jadeclaw the Guardian (Political - Patron)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ### Thalia Oakenshield the Wise (Professional - Employer)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Ewan Quicksilver the Seeker (Political - Opposition)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Possessed by ancient spirit

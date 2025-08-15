@@ -27,15 +27,12 @@ improvements: 20
 - Time pressure
 - Moral dilemmas
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
 
-
 ![Quest - The Shadow Conspiracy Investigatio](../../../04_Resources/Assets/Generated/Misc/quest___the_shadow_conspiracy_investigatio.png)
-
 
 ## Objectives
 ### Primary
@@ -240,7 +237,6 @@ Things widely suspected
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Time Limit
 - **Deadline**: When it must be completed

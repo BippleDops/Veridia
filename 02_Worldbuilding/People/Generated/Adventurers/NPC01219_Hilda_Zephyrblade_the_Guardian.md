@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Zephyrblade the Guardian", "hilda zephyrblade the guardian", "Hilda Zephyrblade Guardian", "Guardian the Zephyrblade Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Zephyrblade the Guardian
 
 *Tiefling Bard (Adventurers), Age 69, Male*
@@ -36,12 +42,10 @@ Running from a dark past that won't stay buried A family member's death has left
 - **Short Term**: Sabotage competition
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Jorah Zephyrblade the Fallen (Criminal - Informant)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ### Brenna Winterborn the Strong (Political - Opposition)
 - **Status**: Secretly hostile
@@ -52,11 +56,9 @@ Running from a dark past that won't stay buried A family member's death has left
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
 
-
 ### Delara Blackstone the Swift (Personal - Childhood friend)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Secretly working for the villain

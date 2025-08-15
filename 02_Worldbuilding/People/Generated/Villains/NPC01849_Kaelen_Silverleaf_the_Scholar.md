@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Silverleaf the Scholar", "kaelen silverleaf the scholar", "Kaelen Silverleaf Scholar", "Scholar the Silverleaf Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Silverleaf the Scholar
 
 *Elf Dark Wizard (Villains), Age 50, Non-binary*
@@ -36,7 +42,6 @@ Betrayed by those they trusted, now seeking revenge on the world They've made a 
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Xander Nightfall the Fallen (Political - Patron)
 - **Status**: Blood oath bound
@@ -47,26 +52,21 @@ Betrayed by those they trusted, now seeking revenge on the world They've made a 
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Rhiannon Proudmore the Seeker (Personal - Nemesis)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ### Branwen Voidwalker the Lost (Family - Cousin)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Felicia Crystalbrook the Swift (Political - Puppet)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Idris Blackstone the Fallen (Personal - Nemesis)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Believes they're saving the world

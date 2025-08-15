@@ -98,3 +98,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Someone is hunting a witness for power
 - Someone is protecting information for money
 - Someone is protecting information for love
+
+## References
+
+- [[Master_Spell_Compendium]]

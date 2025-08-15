@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Dawnstrider the Redeemed", "alaric dawnstrider the redeemed", "Alaric Dawnstrider Redeemed", "Redeemed the Dawnstrider Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Dawnstrider the Redeemed
 
 *Dwarf Baker (Commoners), Age 70, Female*
@@ -36,32 +42,26 @@ Former soldier trying to adjust to civilian life They've made a deal they're beg
 - **Short Term**: Find missing person
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Fiora Ashford the Guardian (Personal - Love interest)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Alaric Ironforge the Mystic (Family - Child)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
-
 
 ### Idris Emberfall the Mystic (Personal - Love interest)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
 
-
 ### Alaric Moonshadow the Wise (Criminal - Target)
 - **Status**: Professional only
 - **History**: United by common enemy
 
-
 ### Felicia Frostwhisper the Wanderer (Personal - Best friend)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Can hear the thoughts of others

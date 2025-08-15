@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Proudmore the Swift", "thalia proudmore the swift", "Thalia Proudmore Swift", "Swift the Proudmore Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Proudmore the Swift
 
 *Tiefling Fighter (Adventurers), Age 24, Female*
@@ -36,12 +42,10 @@ Chosen by fate to fulfill an ancient prophecy A chance encounter last winter cha
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Vesper Proudmore the Guardian (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ### Faelyn Youngblood the Lost (Professional - Rival)
 - **Status**: On the verge of collapse
@@ -51,7 +55,6 @@ Chosen by fate to fulfill an ancient prophecy A chance encounter last winter cha
 ### Kaelen Thornweave the Cunning (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Carries a world-ending artifact

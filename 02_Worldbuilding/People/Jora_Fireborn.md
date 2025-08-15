@@ -6,7 +6,6 @@ tags:
 type: npc
 ---
 
-
 ## Stats
 - **AC**: 12
 - **HP**: 22 (4d8)
@@ -22,20 +21,17 @@ type: npc
 
 *Dwarf Barbarian 7, Chaotic Good*
 
-
 ## Relationships
 - **Allies**: Notable allies and friends
 - **Rivals**: Competitors and rivals  
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
-
 ## Motivations
 - **Primary Goal**: Main objective
 - **Secondary Goals**: Supporting aims
 - **Fears**: What they avoid
 - **Desires**: What they seek
-
 
 ## Secrets
 - Hidden information about this character
@@ -91,7 +87,6 @@ This character greedy and miserly and believes that religious devotion. They are
 
 ---
 *Generated: 2025-08-15T03:07:45.515Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

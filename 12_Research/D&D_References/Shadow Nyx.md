@@ -294,3 +294,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Shadow Nyx (Criminal_Organizations)]]
+- [[Aquabyssos - Session 04 - High Tide Horror]]

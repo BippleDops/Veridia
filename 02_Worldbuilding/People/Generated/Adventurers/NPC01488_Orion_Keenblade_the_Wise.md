@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Keenblade the Wise", "orion keenblade the wise", "Orion Keenblade Wise", "Wise the Keenblade Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Keenblade the Wise
 
 *Gnome Bard (Adventurers), Age 60, Male*
@@ -13,7 +19,6 @@
 Very tall and wiry, with Carefully styled gray hair and Gray eyes. Weathered skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Never backs down from any challenge; Extremely superstitious about everything
@@ -42,16 +47,13 @@ Seeking vengeance for a murdered mentor A family member's death has left them wi
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Branwen Brightblade the Redeemed (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Xander Goldleaf the Redeemed (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Is from the future

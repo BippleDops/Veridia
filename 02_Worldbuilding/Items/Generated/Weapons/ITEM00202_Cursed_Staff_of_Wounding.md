@@ -1,3 +1,9 @@
+---
+aliases: ["Cursed Staff of Wounding", "cursed staff of wounding", "Wounding of Staff Cursed"]
+tags: [item, equipment]
+type: item
+---
+
 # Cursed Staff of Wounding
 
 *Weapons, Common*
@@ -13,8 +19,6 @@ A cursed staff forged from meteoric iron
 ## Properties
 - +2 to attack and damage rolls
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -29,7 +33,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.360Z*

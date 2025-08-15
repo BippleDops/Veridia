@@ -117,3 +117,10 @@ improvements: 20
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Shadow Broker Mirrors (Criminal_Organizations)]]
+- [[02_Worldbuilding_Spells_Memory_Mirror]]
+- [[Memory Mirror Master]]
+- [[Shadow Broker Mirrors]]

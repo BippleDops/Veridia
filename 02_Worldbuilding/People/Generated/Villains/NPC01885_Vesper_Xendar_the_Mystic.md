@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Xendar the Mystic", "vesper xendar the mystic", "Vesper Xendar Mystic", "Mystic the Xendar Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Xendar the Mystic
 
 *Human Cultist (Villains), Age 58, Female*
@@ -42,7 +48,6 @@ Betrayed by those they trusted, now seeking revenge on the world A prophetic dre
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Faelyn Dawnstrider the Swift (Criminal - Handler)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
@@ -57,16 +62,13 @@ Betrayed by those they trusted, now seeking revenge on the world A prophetic dre
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
 
-
 ### Ewan Jadeclaw the Scholar (Family - Parent)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
 
-
 ### Dara Stormwind the Risen (Professional - Partner)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Was once a renowned hero

@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Goldleaf the Mystic", "hilda goldleaf the mystic", "Hilda Goldleaf Mystic", "Mystic the Goldleaf Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Goldleaf the Mystic
 
 *Halfling Cultist (Villains), Age 52, Female*
@@ -42,26 +48,21 @@ Driven mad by knowledge humanity wasn't meant to know A chance encounter last wi
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
 
-
 ### Kaelen Stormwind the Bold (Family - Child)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ### Malakai Thornweave the Redeemed (Family - Cousin)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Cedric Keenblade the Risen (Family - Sibling)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Drusilla Underhill the Redeemed (Personal - Ex-lover)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ### Gavril Lightbringer the Mystic (Professional - Employee)
 - **Status**: Blood oath bound

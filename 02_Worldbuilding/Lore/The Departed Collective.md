@@ -31,11 +31,11 @@ improvements: 20
 
 ### Culture Improvements
 
-- Define unique cultural practices and taboos
+- Define unique [[Cultural Practices|Cultural Practices]] and taboos
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]]]], and wealth distribution
 
 ### Religion Improvements
 
@@ -43,11 +43,11 @@ improvements: 20
 
 ### Lifestyle Improvements
 
-- Describe typical day for different social classes
+- Describe typical day for different social [[classes|classes]]
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
+- Detail common [[objects|objects]] and their cultural significance
 
 ### Diaspora Improvements
 
@@ -73,15 +73,15 @@ improvements: 20
 
 - Show how traditions are changing with new generation
 
-## Player-Facing Summary
+## Player-[[facing|facing]] Summary
 
 The Departed Collective is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of The Departed Collective as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Departed Collective.
+Legends speak of The Departed Collective as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or [[Whispers|Whispers]] on the wind—that herald change around The Departed Collective.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -144,3 +144,6 @@ Mentioned in The First Prophecy of Winds
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+---
+**Navigation**: [[INDEX|🏠 Home]] | [[INDEX|📚 Index]]

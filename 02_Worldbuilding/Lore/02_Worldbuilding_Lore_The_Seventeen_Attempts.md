@@ -2,7 +2,7 @@
 tags: ['[[Lore]]']
 ---
 
-# [[02 Worldbuilding]]/Lore/[[The Seventeen Attempts]]
+# [[02_Worldbuilding|02 Worldbuilding]]/Lore/[[The Seventeen Attempts]]
 
 ## Overview
 

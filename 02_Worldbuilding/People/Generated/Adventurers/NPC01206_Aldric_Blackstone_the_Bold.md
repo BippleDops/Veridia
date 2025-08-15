@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Blackstone the Bold", "aldric blackstone the bold", "Aldric Blackstone Bold", "Bold the Blackstone Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Blackstone the Bold
 
 *Tiefling Bard (Adventurers), Age 53, Non-binary*
@@ -36,17 +42,14 @@ Accidentally gained powers and learning to control them Strange abilities have b
 - **Short Term**: Recruit new members
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Aeliana Moonshadow the Broken (Political - Opposition)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
 
-
 ### Hilda Ironforge the Lost (Political - Opposition)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ### Gareth Dawnstrider the Broken (Political - Patron)
 - **Status**: Complicated history
@@ -61,7 +64,6 @@ Accidentally gained powers and learning to control them Strange abilities have b
 ### Nerys Darkwater the Risen (Personal - Nemesis)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Has died and been resurrected

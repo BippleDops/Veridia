@@ -1,3 +1,9 @@
+---
+aliases: ["Mithril Gauntlets of the Guardian", "mithril gauntlets of the guardian", "Mithril Gauntlets of Guardian", "Guardian the of Gauntlets Mithril"]
+tags: [item, equipment]
+type: item
+---
+
 # Mithril Gauntlets of the Guardian
 
 *Armor, Rare*
@@ -15,8 +21,6 @@ A mithril gauntlets bearing ancient runes
 - +2 to AC
 - Resistance to one damage type
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -31,7 +35,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.402Z*

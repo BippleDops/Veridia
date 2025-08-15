@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Lightbringer the Bold", "branwen lightbringer the bold", "Branwen Lightbringer Bold", "Bold the Lightbringer Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Lightbringer the Bold
 
 *Elf Carpenter (Commoners), Age 35, Female*
@@ -36,7 +42,6 @@ Former soldier trying to adjust to civilian life They've fallen in love with som
 - **Short Term**: Complete current contract
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Aeliana Blackstone the Redeemed (Personal - Ex-lover)
 - **Status**: Strong and trusting
@@ -47,26 +52,21 @@ Former soldier trying to adjust to civilian life They've fallen in love with som
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Wynne Silverleaf the Wise (Criminal - Target)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
-
 
 ### Felicia Quicksilver the Wise (Professional - Mentor)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Felicia Xendar the Seeker (Professional - Mentor)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Hilda Proudmore the Bold (Personal - Love interest)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Witnessed a noble's crime

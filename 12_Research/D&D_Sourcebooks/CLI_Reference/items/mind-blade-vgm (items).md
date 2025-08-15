@@ -96,3 +96,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - The authorities needs help delivering before winter
 - The authorities needs help investigating before winter
 - Someone is protecting a artifact for love
+
+## References
+
+- [[Master_Item_Catalog]]

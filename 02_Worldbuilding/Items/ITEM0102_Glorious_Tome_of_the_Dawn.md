@@ -1,4 +1,5 @@
 ---
+aliases: ["Glorious Tome of the Dawn", "glorious tome of the dawn", "Glorious Tome of Dawn", "Dawn the of Tome Glorious"]
 tags: [generated]
 id: ITEM0102
 created: 2025-08-15T04:09:51.110Z
@@ -19,8 +20,6 @@ Crafted from darkwood with ancient symbols, in showing age but sturdy. It emanat
 
 ## Quirk
 *Glows during full moon*
-
-
 
 ## History
 This item was corrupted by dark magic decades ago. It has passed through many hands, each leaving their mark upon its destiny.

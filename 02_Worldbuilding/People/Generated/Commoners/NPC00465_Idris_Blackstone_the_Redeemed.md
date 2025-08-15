@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Blackstone the Redeemed", "idris blackstone the redeemed", "Idris Blackstone Redeemed", "Redeemed the Blackstone Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Blackstone the Redeemed
 
 *Firbolg Baker (Commoners), Age 64, Non-binary*
@@ -13,7 +19,6 @@
 Average height and lanky, with Dreadlocks brown hair and Red eyes. Dark skin. Intricate tattoos covering arms.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Speaks to inanimate objects; Collects unusual and worthless objects
@@ -46,7 +51,6 @@ Grew up in poverty but discovered a talent that might change everything Strange 
 ### Drusilla Brightblade the Bold (Professional - Employee)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ### Alaric Blackstone the Cunning (Criminal - Handler)
 - **Status**: Secretly hostile

@@ -77,3 +77,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Someone is protecting information for revenge
 - A corpse reveals ancient history about this place
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[poisons]]

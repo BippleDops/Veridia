@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Jadeclaw the Lost", "erasmus jadeclaw the lost", "Erasmus Jadeclaw Lost", "Lost the Jadeclaw Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Jadeclaw the Lost
 
 *Gnome Wizard (Adventurers), Age 35, Male*
@@ -36,12 +42,10 @@ Chosen by fate to fulfill an ancient prophecy They've made a deal they're beginn
 - **Short Term**: Gather information
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Wynne Zephyrblade the Lost (Personal - Ex-lover)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ### Pyria Darkwater the Seeker (Criminal - Target)
 - **Status**: Complicated history
@@ -52,21 +56,17 @@ Chosen by fate to fulfill an ancient prophecy They've made a deal they're beginn
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Rhiannon Silverleaf the Guardian (Professional - Employer)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ### Elric Moonshadow the Scholar (Political - Ally)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Caelum Keenblade the Scholar (Professional - Partner)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Carries a world-ending artifact

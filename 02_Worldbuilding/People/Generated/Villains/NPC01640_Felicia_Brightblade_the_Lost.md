@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Brightblade the Lost", "felicia brightblade the lost", "Felicia Brightblade Lost", "Lost the Brightblade Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Brightblade the Lost
 
 *Tabaxi Crime Boss (Villains), Age 64, Male*
@@ -36,7 +42,6 @@ Believes their evil acts serve a greater good They've been marked by a secret so
 - **Short Term**: Gather information
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Cedric Silverleaf the Strong (Criminal - Handler)
 - **Status**: Strained but maintaining
@@ -46,7 +51,6 @@ Believes their evil acts serve a greater good They've been marked by a secret so
 ### Faelyn Nightfall the Mystic (Criminal - Informant)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
-
 
 ### Jorah Jadeclaw the Seeker (Political - Spy)
 - **Status**: On the verge of collapse
@@ -61,7 +65,6 @@ Believes their evil acts serve a greater good They've been marked by a secret so
 ### Solas Quicksilver the Seeker (Professional - Employer)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Was once a renowned hero

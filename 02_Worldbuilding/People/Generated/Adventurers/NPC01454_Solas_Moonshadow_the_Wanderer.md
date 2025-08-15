@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Moonshadow the Wanderer", "solas moonshadow the wanderer", "Solas Moonshadow Wanderer", "Wanderer the Moonshadow Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Moonshadow the Wanderer
 
 *Elf Rogue (Adventurers), Age 50, Non-binary*
@@ -36,12 +42,10 @@ Seeking vengeance for a murdered mentor Strange abilities have begun manifesting
 - **Short Term**: Find missing person
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Hilda Moonshadow the Guardian (Criminal - Handler)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ### Gareth Brightblade the Redeemed (Family - Sibling)
 - **Status**: Complicated history

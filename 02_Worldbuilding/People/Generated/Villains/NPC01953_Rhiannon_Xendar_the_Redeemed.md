@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Xendar the Redeemed", "rhiannon xendar the redeemed", "Rhiannon Xendar Redeemed", "Redeemed the Xendar Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Xendar the Redeemed
 
 *Tiefling Crime Boss (Villains), Age 76, Female*
@@ -13,7 +19,6 @@
 Below average and muscular, with Short and neat black hair and Amber eyes. Pale skin. Intricate tattoos covering arms.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Laughs at the most inappropriate times
@@ -36,12 +41,10 @@ Corrupted by an artifact or dark magic They recently discovered a secret that co
 - **Short Term**: Find missing person
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Drusilla Hawthorne the Lost (Personal - Ex-lover)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ### Zephyr Zephyrblade the Scholar (Family - Cousin)
 - **Status**: Professional only
@@ -51,7 +54,6 @@ Corrupted by an artifact or dark magic They recently discovered a secret that co
 ### Solas Frostwhisper the Mystic (Professional - Employer)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is being controlled by darker force

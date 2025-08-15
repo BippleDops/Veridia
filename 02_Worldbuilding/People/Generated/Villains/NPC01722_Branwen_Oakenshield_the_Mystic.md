@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Oakenshield the Mystic", "branwen oakenshield the mystic", "Branwen Oakenshield Mystic", "Mystic the Oakenshield Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Oakenshield the Mystic
 
 *Half-Elf Assassin (Villains), Age 70, Male*
@@ -13,7 +19,6 @@
 Very short and wiry, with Shaved gray hair and Black eyes. Freckled skin. Prominent scar across the face.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Laughs at the most inappropriate times; Always hungry and eating something
@@ -41,7 +46,6 @@ Betrayed by those they trusted, now seeking revenge on the world A chance encoun
 ### Lyanna Youngblood the Strong (Political - Ally)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
-
 
 ### Branwen Lightbringer the Guardian (Professional - Partner)
 - **Status**: On the verge of collapse

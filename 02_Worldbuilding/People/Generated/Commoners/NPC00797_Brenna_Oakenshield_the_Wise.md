@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Oakenshield the Wise", "brenna oakenshield the wise", "Brenna Oakenshield Wise", "Wise the Oakenshield Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Oakenshield the Wise
 
 *Gnome Farmer (Commoners), Age 56, Non-binary*
@@ -36,17 +42,14 @@ Runaway from an arranged marriage, starting a new life A chance encounter last w
 - **Short Term**: Sabotage competition
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Zephyr Quicksilver the Fallen (Family - Cousin)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
 
-
 ### Vesper Frostwhisper the Wise (Family - Parent)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ### Hilda Xendar the Seeker (Family - Spouse)
 - **Status**: Recently reconciled
@@ -57,16 +60,13 @@ Runaway from an arranged marriage, starting a new life A chance encounter last w
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Cedric Emberfall the Risen (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Orion Moonshadow the Wanderer (Criminal - Accomplice)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Knows location of ancient treasure

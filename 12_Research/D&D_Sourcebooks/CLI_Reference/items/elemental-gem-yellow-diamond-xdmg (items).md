@@ -93,3 +93,11 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[5000 Gp Gemstones Xdmg]]
+- [[5000 Gp Gemstones]]
+- [[5000-gp-gemstones (tables)]]
+- [[5000-gp-gemstones-xdmg (tables)]]

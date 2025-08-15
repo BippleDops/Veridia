@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Xendar the Swift", "aeliana xendar the swift", "Aeliana Xendar Swift", "Swift the Xendar Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Xendar the Swift
 
 *Human Fisher (Commoners), Age 36, Female*
@@ -36,17 +42,14 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Baelor Stormwind the Strong (Professional - Employer)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
 
-
 ### Fiora Zephyrblade the Fallen (Personal - Best friend)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
-
 
 ### Pyria Goldleaf the Broken (Family - Sibling)
 - **Status**: One-sided affection

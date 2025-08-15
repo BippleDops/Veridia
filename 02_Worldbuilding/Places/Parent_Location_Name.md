@@ -18,16 +18,13 @@ updated: 2025-08-14
 - **East**: River crossing
 - **West**: Mountain pass
 
-
 # Parent_Location_Name
-
 
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
 - **Law Enforcement**: Town guard
 - **Justice System**: Local magistrate
-
 
 ## Economy
 - **Primary Exports**: Local goods
@@ -46,7 +43,6 @@ The approach to Parent_Location_Name reveals its significance through architectu
 
 ### Interior
 Within Parent_Location_Name, visitors find a carefully designed space serving multiple purposes.
-
 
 ## Demographics
 - **Population**: ~1,000
@@ -84,7 +80,6 @@ Recent developments have brought new attention to Parent_Location_Name, creating
 ## DM Notes
 *Parent_Location_Name can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -120,3 +115,7 @@ Recent developments have brought new attention to Parent_Location_Name, creating
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Location_Template_1 (09_Templates)]]

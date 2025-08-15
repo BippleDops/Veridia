@@ -1,3 +1,9 @@
+---
+aliases: ["Mithril Helm of the Guardian", "mithril helm of the guardian", "Mithril Helm of Guardian", "Guardian the of Helm Mithril"]
+tags: [item, equipment]
+type: item
+---
+
 # Mithril Helm of the Guardian
 
 *Armor, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A mithril helm bearing ancient runes
 - +2 to AC
 - No stealth disadvantage
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -31,7 +35,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.381Z*

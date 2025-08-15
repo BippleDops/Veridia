@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Goldleaf the Guardian", "malakai goldleaf the guardian", "Malakai Goldleaf Guardian", "Guardian the Goldleaf Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Goldleaf the Guardian
 
 *Human Cleric (Adventurers), Age 61, Female*
@@ -42,7 +48,6 @@ Searching for a legendary treasure their parent died seeking An old debt has com
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Felicia Crystalbrook the Broken (Political - Patron)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
@@ -52,16 +57,13 @@ Searching for a legendary treasure their parent died seeking An old debt has com
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
 
-
 ### Caelum Ironwood the Guardian (Criminal - Handler)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Gareth Silverleaf the Guardian (Professional - Employee)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Possessed by ancient spirit

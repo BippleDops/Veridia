@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Crystalbrook the Fallen", "idris crystalbrook the fallen", "Idris Crystalbrook Fallen", "Fallen the Crystalbrook Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Crystalbrook the Fallen
 
 *Aasimar Farmer (Commoners), Age 60, Non-binary*
@@ -36,17 +42,14 @@ Family has worked the same trade for generations, but times are changing They're
 - **Short Term**: Avoid the authorities
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Kaelen Moonshadow the Lost (Political - Spy)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Elric Oakenshield the Risen (Political - Ally)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ### Hilda Frostwhisper the Mystic (Criminal - Informant)
 - **Status**: Complicated history
@@ -57,16 +60,13 @@ Family has worked the same trade for generations, but times are changing They're
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Orion Grimholt the Guardian (Family - Child)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Baelor Xendar the Wanderer (Personal - Best friend)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Can hear the thoughts of others

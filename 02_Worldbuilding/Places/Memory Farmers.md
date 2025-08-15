@@ -261,7 +261,6 @@ Memory Farmers provide:
 - Potential for redemption arcs involving reformed Memory Farmers
 EOF < /dev/
 
-
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
@@ -307,13 +306,11 @@ Memory Farmers is a notable location characterized by its unique features and st
 ### Founding
 Memory Farmers was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -387,7 +384,6 @@ Key stop on textiles trade route
 - 20% middle class
 - 79% working poor
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -423,3 +419,56 @@ Key stop on textiles trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Shadow Conspiracy Investigation (Criminal_Organizations)]]
+- [[Shadow Surgeons Collective]]
+- [[The Shadow Conspiracy (Criminal_Organizations)]]
+- [[Memory Pearls]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure]]
+- [[Memory Harvester Kythara]]
+- [[Memory Merchant Valeria Siltweave]]
+- [[Tribune Cassia Deepcurrent]]
+- [[Abyssos Prime Docks]]
+- [[Abyssos Prime]]
+- [[Azure Citadel]]
+- [[Barkeep Mira Algaebrew]]
+- [[Shadow Merchant Riptide]]
+- [[Tethyan Hegemony]]
+- [[The Forgotten One]]
+- [[The Foundation Depths]]
+- [[The Free Current]]
+- [[The Gilded Shard]]
+- [[The Shadowmire Tavern]]
+- [[Void Currents]]
+- [[Whisper Island]]
+- [[The Lock Saboteur]]
+- [[Shadow Conspiracy Investigation]]
+- [[The Shadow Conspiracy]]
+- [[Abyssos Prime Docks (D&D_References)]]
+- [[Azure Citadel (D&D_References)]]
+- [[Barkeep Mira Algaebrew (D&D_References)]]
+- [[Compass Quest (D&D_References)]]
+- [[Convergence Point]]
+- [[Mediator Serenity Stillwater]]
+- [[Memory Pearls (D&D_References)]]
+- [[Shadow Merchant Riptide (D&D_References)]]
+- [[Sister Morwyn (D&D_References)]]
+- [[Tethyan Hegemony (D&D_References)]]
+- [[The Dream Shepherds]]
+- [[The Eternal Senate (D&D_References)]]
+- [[The Free Current (D&D_References)]]
+- [[The Gilded Shard (D&D_References)]]
+- [[The Shadowmire Tavern (D&D_References)]]
+- [[Theological Warfare (D&D_References)]]
+- [[Tribune Cassia Deepcurrent (D&D_References)]]
+- [[Void Currents (D&D_References)]]
+- [[Whisper Island (D&D_References)]]
+- [[Whisper-Touched William (D&D_References)]]
+- [[Discover the Singers Beyond (D&D_Statblocks)]]
+- [[Find the Grief Bomb (D&D_Statblocks)]]
+- [[Memory Harvester Kythara (D&D_Statblocks)]]
+- [[Memory Merchant Valeria Siltweave (D&D_Statblocks)]]
+- [[The Foundation Depths (D&D_Statblocks)]]
+- [[The Lock Saboteur (D&D_Statblocks)]]

@@ -146,3 +146,10 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[dretch-xmm (fiend)]]
+- [[Summon Lesser Demons Xge]]
+- [[summon-lesser-demons-xge (spells)]]
+- [[Creating a Gnoll War Band Gnoll War Band Special Creatures Vgm]]

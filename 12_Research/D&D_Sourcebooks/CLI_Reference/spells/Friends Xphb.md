@@ -94,3 +94,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - The authorities needs help finding before the new moon
 - Strange accidents suggest a portal
+
+## References
+
+- [[Master_Spell_Compendium]]

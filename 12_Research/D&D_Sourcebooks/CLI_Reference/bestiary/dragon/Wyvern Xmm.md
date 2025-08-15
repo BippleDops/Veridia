@@ -134,3 +134,25 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[wyvern-xmm (dragon)]]
+- [[Deck of Illusions Xdmg]]
+- [[deck-of-illusions-xdmg (decks)]]
+- [[Deck of Illusions Xdmg (items)]]
+- [[deck-of-illusions-xdmg (items)]]
+- [[Hill Encounters Levels 1116 Xge]]
+- [[Hill Encounters Levels 1720 Xge]]
+- [[Hill Encounters Levels 510 Xge]]
+- [[Monsters by Habitat Hill Monsters Xmm]]
+- [[Monsters by Habitat Mountain Monsters Xmm]]
+- [[Mountain Encounters Levels 14 Xge]]
+- [[Mountain Encounters Levels 510 Xge]]
+- [[hill-encounters-levels-1116-xge (tables)]]
+- [[hill-encounters-levels-1720-xge (tables)]]
+- [[hill-encounters-levels-510-xge (tables)]]
+- [[monsters-by-habitat-hill-monsters-xmm (tables)]]
+- [[monsters-by-habitat-mountain-monsters-xmm (tables)]]
+- [[mountain-encounters-levels-14-xge (tables)]]
+- [[mountain-encounters-levels-510-xge (tables)]]

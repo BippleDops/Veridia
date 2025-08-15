@@ -188,7 +188,7 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[Sister Thalassa the Depth Touched]] (rival)
+- [[Portrait NPC Sister Thalassa the Depth Touched Sister Thalassa the Depth Touched.svg|Sister Thalassa the Depth Touched]] (rival)
 - [[04_Resources_Assets_Locations_location-city-captain-echo-v1-captain-echo.svg]] (colleague)
 - [[High Priestess Nerida Soulcurrent]] (friend)
 ---
@@ -223,3 +223,7 @@ This NPC can serve multiple roles:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-captain-echo-v1-captain-echo.svg]]

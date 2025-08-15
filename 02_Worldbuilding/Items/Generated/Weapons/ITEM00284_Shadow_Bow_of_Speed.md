@@ -1,3 +1,9 @@
+---
+aliases: ["Shadow Bow of Speed", "shadow bow of speed", "Speed of Bow Shadow"]
+tags: [item, equipment]
+type: item
+---
+
 # Shadow Bow of Speed
 
 *Weapons, Legendary*
@@ -16,8 +22,6 @@ A shadow bow made of crystallized magic
 - +2 to attack and damage rolls
 - Critical hits on 19-20
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -32,7 +36,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.367Z*

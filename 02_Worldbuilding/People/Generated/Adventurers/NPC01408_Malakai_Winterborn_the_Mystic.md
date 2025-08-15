@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Winterborn the Mystic", "malakai winterborn the mystic", "Malakai Winterborn Mystic", "Mystic the Winterborn Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Winterborn the Mystic
 
 *Aasimar Ranger (Adventurers), Age 60, Female*
@@ -36,37 +42,30 @@ Accidentally gained powers and learning to control them An old debt has come due
 - **Short Term**: Find missing person
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Ysara Frostwhisper the Strong (Political - Opposition)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
 
-
 ### Thalia Keenblade the Bold (Professional - Employer)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ### Hestara Darkwater the Strong (Family - Cousin)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Jorah Ravenheart the Guardian (Criminal - Informant)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ### Cedric Brightblade the Cunning (Professional - Employer)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
 
-
 ### Qadim Ironforge the Wise (Family - Cousin)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Secretly working for the villain

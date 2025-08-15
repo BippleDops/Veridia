@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Ashford the Broken", "hestara ashford the broken", "Hestara Ashford Broken", "Broken the Ashford Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Ashford the Broken
 
 *Tabaxi Assassin (Villains), Age 37, Non-binary*
@@ -36,27 +42,22 @@ Corrupted by an artifact or dark magic They're being blackmailed by someone from
 - **Short Term**: Sabotage competition
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Vesper Jadeclaw the Bold (Professional - Mentor)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
 
-
 ### Urien Moonshadow the Redeemed (Family - Cousin)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ### Vesper Ironwood the Scholar (Family - Parent)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Gareth Keenblade the Wise (Personal - Childhood friend)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Was once a renowned hero

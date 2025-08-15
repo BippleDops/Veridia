@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # 04_Resources_Assets_Portraits_portrait-npc-lord-commander-gareth-steelborn-lord-commander-gareth-steelborn.svg - Quick Reference
 
 ## Key Info

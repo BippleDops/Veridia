@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Moonshadow the Mystic", "hestara moonshadow the mystic", "Hestara Moonshadow Mystic", "Mystic the Moonshadow Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Moonshadow the Mystic
 
 *Half-Orc Corrupt Noble (Villains), Age 45, Female*
@@ -13,7 +19,6 @@
 Average height and wiry, with Wild and unkempt brown hair and Violet eyes. Freckled skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Always hungry and eating something; Compulsive liar about minor things
@@ -36,7 +41,6 @@ Betrayed by those they trusted, now seeking revenge on the world They've fallen 
 - **Short Term**: Recruit new members
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Erasmus Xendar the Wanderer (Personal - Childhood friend)
 - **Status**: Mutually beneficial
@@ -52,16 +56,13 @@ Betrayed by those they trusted, now seeking revenge on the world They've fallen 
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Delara Frostwhisper the Fallen (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Jorah Blackstone the Broken (Professional - Partner)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Was once a renowned hero

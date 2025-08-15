@@ -1,3 +1,9 @@
+---
+aliases: ["Superior Potion of Swiftness", "superior potion of swiftness", "Swiftness of Potion Superior"]
+tags: [item, equipment]
+type: item
+---
+
 # Superior Potion of Swiftness
 
 *Consumables, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A superior potion swirling with colors
 - Grant advantage for 1 hour
 - Fly for 1 hour
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -31,7 +35,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.472Z*

@@ -1,3 +1,9 @@
+---
+aliases: ["Pure Elixir of Vigor", "pure elixir of vigor", "Vigor of Elixir Pure"]
+tags: [item, equipment]
+type: item
+---
+
 # Pure Elixir of Vigor
 
 *Consumables, Rare*

@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Quicksilver the Strong", "lyanna quicksilver the strong", "Lyanna Quicksilver Strong", "Strong the Quicksilver Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Quicksilver the Strong
 
 *Goliath Trader (Merchants), Age 52, Female*
@@ -13,7 +19,6 @@
 Above average and wiry, with Shaved unusual color hair and Amber eyes. Tan skin. Warm smile that puts people at ease.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Sees doom and gloom everywhere
@@ -36,12 +41,10 @@ Former adventurer who retired to open a shop A prophetic dream has been haunting
 - **Short Term**: Sabotage competition
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Elric Ashford the Guardian (Personal - Best friend)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
-
 
 ### Gareth Zephyrblade the Mystic (Personal - Ex-lover)
 - **Status**: Professional only
@@ -51,7 +54,6 @@ Former adventurer who retired to open a shop A prophetic dream has been haunting
 ### Qadim Ironwood the Bold (Personal - Love interest)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Is actually a spy for foreign power

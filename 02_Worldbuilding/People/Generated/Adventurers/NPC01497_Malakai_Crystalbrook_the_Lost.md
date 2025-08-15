@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Crystalbrook the Lost", "malakai crystalbrook the lost", "Malakai Crystalbrook Lost", "Lost the Crystalbrook Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Crystalbrook the Lost
 
 *Genasi Ranger (Adventurers), Age 22, Female*
@@ -36,27 +42,22 @@ Running from a dark past that won't stay buried A prophetic dream has been haunt
 - **Short Term**: Complete current contract
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Gavril Nightfall the Bold (Political - Puppet)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
 
-
 ### Aldric Xendar the Swift (Criminal - Informant)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
-
 
 ### Faelyn Xendar the Scholar (Family - Cousin)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Branwen Jadeclaw the Wise (Criminal - Fence)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
-
 
 ### Nerys Keenblade the Mystic (Family - Sibling)
 - **Status**: Strong and trusting

@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Lightbringer the Swift", "branwen lightbringer the swift", "Branwen Lightbringer Swift", "Swift the Lightbringer Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Lightbringer the Swift
 
 *Tabaxi Rogue (Adventurers), Age 46, Non-binary*
@@ -36,32 +42,26 @@ Seeking vengeance for a murdered mentor A prophetic dream has been haunting them
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Ysara Stormwind the Seeker (Political - Puppet)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Hilda Blackstone the Wise (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ### Urien Ashford the Seeker (Family - Spouse)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
 
-
 ### Brenna Emberfall the Risen (Criminal - Accomplice)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
 
-
 ### Pyria Emberfall the Broken (Personal - Childhood friend)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Secretly working for the villain

@@ -208,3 +208,7 @@ Member of House Dragonblood - Trait: divine blood
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-henrik-proudbanner-captain-henrik-proudbanner.svg]]

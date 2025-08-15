@@ -469,3 +469,31 @@ Mentioned in The Second Prophecy of Shadows
 - The villain's family begs for mercy
 - Stealing medicine to save a plague victim
 - Choosing between two villages to save
+
+## References
+
+- [[MASTER_VAULT_INDEX]]
+- [[Aethermoor Wind Rider Traditions]]
+- [[Aquabyssos Cultural Codex]]
+- [[Continental War]]
+- [[Cross-Realm Etiquette Guide]]
+- [[Daily Routine Nuances and Details]]
+- [[Investigation Procedures]]
+- [[Kraken Territories]]
+- [[Multi-Phase Boss Fights]]
+- [[Post-Merge Chronology]]
+- [[Reputation System]]
+- [[Shadow Magic Integration Practices]]
+- [[The Festival of Rising Tides]]
+- [[Abyssos Prime Docks]]
+- [[Black Market Deal]]
+- [[Blood Current Express]]
+- [[Crystal Caverns]]
+- [[Crystal Cult Temples]]
+- [[Gravity Anomaly Mechanics]]
+- [[Harbor District Customs House]]
+- [[Inverted Ballroom Wing]]
+- [[Maelstrom Palace]]
+- [[The Crystal Wardens]]
+- [[The Sinking Atoll]]
+- [[The Crown's Burden]]

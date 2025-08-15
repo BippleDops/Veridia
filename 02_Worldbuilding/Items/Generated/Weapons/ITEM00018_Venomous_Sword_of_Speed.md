@@ -1,3 +1,9 @@
+---
+aliases: ["Venomous Sword of Speed", "venomous sword of speed", "Speed of Sword Venomous"]
+tags: [item, equipment]
+type: item
+---
+
 # Venomous Sword of Speed
 
 *Weapons, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A venomous sword forged from meteoric iron
 - Ignores resistance to damage type
 - +1 to attack and damage rolls
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -30,7 +34,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.343Z*

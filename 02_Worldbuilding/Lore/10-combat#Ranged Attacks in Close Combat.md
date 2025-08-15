@@ -49,7 +49,6 @@ This content can be adapted and expanded based on specific campaign needs.
 ## [[DM_Notes]]
 *Customize as needed for your specific campaign requirements.*
 
-
 ## Scaling by Party Level
 - **Level 1-4**: Reduce enemies
 - **Level 5-10**: Standard difficulty

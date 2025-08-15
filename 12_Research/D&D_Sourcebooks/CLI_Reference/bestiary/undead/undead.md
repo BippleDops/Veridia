@@ -73,3 +73,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[ITEM00723_Primordial_Ring_of_Dominion]]
+- [[ITEM01128_Refined_Elixir_of_Swiftness]]
+- [[ITEM00102_Blazing_Hammer_of_the_Ancients]]
+- [[QUEST0018_The_Sunken_Temple_Uprising]]
+- [[Master_Spell_Compendium]]
+- [[Undead Spirit Ghostly Xphb]]
+- [[Undead Spirit Skeletal Xphb]]
+- [[undead-spirit-ghostly-xphb (undead)]]
+- [[undead-spirit-skeletal-xphb (undead)]]

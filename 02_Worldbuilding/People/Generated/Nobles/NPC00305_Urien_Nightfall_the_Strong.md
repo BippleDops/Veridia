@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Nightfall the Strong", "urien nightfall the strong", "Urien Nightfall Strong", "Strong the Nightfall Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Nightfall the Strong
 
 *Tiefling Ambassador (Nobles), Age 30, Female*
@@ -13,7 +19,6 @@
 Above average and stocky, with Long and flowing gray hair and Gray eyes. Freckled skin. Missing ear from old battle.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Always hungry and eating something
@@ -36,17 +41,14 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Short Term**: Find missing person
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Elric Jadeclaw (Criminal - Fence)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
 
-
 ### Gareth Crystalbrook the Wanderer (Personal - Ex-lover)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ### Aldric Quicksilver the Swift (Political - Patron)
 - **Status**: Recently reconciled
@@ -57,16 +59,13 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Malakai Dawnstrider the Redeemed (Political - Spy)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Malakai Emberfall the Wise (Criminal - Accomplice)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Secretly funding the rebellion

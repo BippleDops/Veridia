@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Voidwalker the Seeker", "rhiannon voidwalker the seeker", "Rhiannon Voidwalker Seeker", "Seeker the Voidwalker Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Voidwalker the Seeker
 
 *Elf Appraiser (Merchants), Age 43, Female*
@@ -52,11 +58,9 @@ Former adventurer who retired to open a shop An old debt has come due at the wor
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
 
-
 ### Cedric Underhill the Wise (Personal - Childhood friend)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Running a cult from their basement

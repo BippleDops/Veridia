@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Grimholt the Risen", "urien grimholt the risen", "Urien Grimholt Risen", "Risen the Grimholt Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Grimholt the Risen
 
 *Genasi Corrupt Noble (Villains), Age 46, Non-binary*
@@ -36,17 +42,14 @@ Corrupted by an artifact or dark magic They're being blackmailed by someone from
 - **Short Term**: Complete current contract
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Kaelen Ravenheart the Lost (Political - Puppet)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Gavril Quicksilver the Wise (Family - Spouse)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
-
 
 ### Lyanna Quicksilver the Seeker (Political - Patron)
 - **Status**: On the verge of collapse
@@ -57,11 +60,9 @@ Corrupted by an artifact or dark magic They're being blackmailed by someone from
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Fiora Grimholt the Scholar (Personal - Best friend)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Believes they're saving the world

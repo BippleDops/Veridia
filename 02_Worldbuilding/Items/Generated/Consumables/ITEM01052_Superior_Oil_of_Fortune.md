@@ -1,3 +1,9 @@
+---
+aliases: ["Superior Oil of Fortune", "superior oil of fortune", "Fortune of Oil Superior"]
+tags: [item, equipment]
+type: item
+---
+
 # Superior Oil of Fortune
 
 *Consumables, Uncommon*

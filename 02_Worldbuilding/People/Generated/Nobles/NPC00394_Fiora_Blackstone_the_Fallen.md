@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Blackstone the Fallen", "fiora blackstone the fallen", "Fiora Blackstone Fallen", "Fallen the Blackstone Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Blackstone the Fallen
 
 *Elf Ambassador (Nobles), Age 20, Female*
@@ -36,7 +42,6 @@ Last survivor of a fallen house, seeking to restore family honor They've fallen 
 - **Short Term**: Sabotage competition
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Qadim Quicksilver the Bold (Criminal - Handler)
 - **Status**: Complicated history
@@ -52,11 +57,9 @@ Last survivor of a fallen house, seeking to restore family honor They've fallen 
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Rhiannon Voidwalker (Political - Opposition)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ### Hilda Hawthorne the Lost (Family - Parent)
 - **Status**: Strained but maintaining
@@ -66,7 +69,6 @@ Last survivor of a fallen house, seeking to restore family honor They've fallen 
 ### Urien Ironwood the Swift (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

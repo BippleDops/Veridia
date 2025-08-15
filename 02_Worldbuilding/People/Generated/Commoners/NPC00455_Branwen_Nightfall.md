@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Nightfall", "branwen nightfall", "Nightfall Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Nightfall
 
 *Half-Elf Farmer (Commoners), Age 18, Male*
@@ -13,7 +19,6 @@
 Above average and wiry, with Short and neat silver hair and Heterochromic eyes. Tan skin. Crooked nose from multiple breaks.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Collects unusual and worthless objects; Believes in every conspiracy theory
@@ -36,27 +41,22 @@ Runaway from an arranged marriage, starting a new life They've been marked by a 
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Branwen Crystalbrook the Swift (Family - Sibling)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Idris Winterborn the Swift (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ### Malakai Blackstone the Fallen (Personal - Best friend)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Caelum Voidwalker the Seeker (Family - Parent)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ### Qadim Youngblood the Wanderer (Family - Sibling)
 - **Status**: Strained but maintaining

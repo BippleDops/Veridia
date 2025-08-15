@@ -46,14 +46,12 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-party-the-party.svg)
 
 # The Party
 
 *Guidelines for integrating player characters into Aquabyssos*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -618,7 +616,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -654,3 +651,69 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Abyssal Academy]]
+- [[Active NPCs]]
+- [[Infected NPC Database]]
+- [[Investigation Procedures]]
+- [[Major NPCs]]
+- [[NPC Voices (02_Worldbuilding)]]
+- [[Senator_Glaucus_Brain (People)]]
+- [[Quarantine Enforcement]]
+- [[Quick NPC]]
+- [[Random Encounters]]
+- [[Sky Burial Traditions]]
+- 
+- [[The Grand Trade Routes]]
+- [[The Restoration Movement]]
+- [[Underground Smuggling Networks]]
+- [[Assets Symbols Symbol Heraldry Void Echo Silence Deafmake V1 Void Echo Silence Deafmake.svg]]
+- [[Banking Lord Cornelius Coinwright]]
+- [[Oracle]]
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Captain Marcus]]
+- [[Cathedral of Light]]
+- [[Crystal Cult Temples]]
+- [[Crystal Plague Wards]]
+- [[Elder Matthias Stoneward]]
+- [[Enchanter Valdris Peacewarden]]
+- [[Garden of Shadows]]
+- [[Illyana Glowstream]]
+- [[Keeper Elara Mindwell]]
+- [[Lord Reginald Seaworthy]]
+- [[Mad Bell-Ringer Thomas]]
+- [[Madame Rosalind Goldleaf]]
+- [[Madame Whisper]]
+- [[Memoriam - The Forgotten Continent]]
+- [[Memory Thief]]
+- [[Merchant Delilah Currentrunner]]
+- [[Navigator Sage Driftwood]]
+- [[Party Quarters - Inverse Palace]]
+- [[Port Meridian - Market Square]]
+- [[Port Meridian Harbor]]
+- [[Screaming Gardens]]
+- [[Shadow Market Canals]]
+- [[Supplier Erikson Tidecaller]]
+- [[Surface Signals]]
+- [[Temporal Harvest]]
+- [[The Crystal Wardens]]
+- [[The Drowning Truth]]
+- [[The First Truth]]
+- [[The Forgotten One]]
+- [[The Forgotten Representative]]
+- [[The Great Drowning]]
+- [[The Infinite Garden]]
+- [[The Living Weapon]]
+- [[The Memory Thief]]
+- [[The Reflection Pools]]
+- [[The Seven Shards Mystery]]
+- [[Warden Marcus Stonehand]]
+- [[The Crown's Burden]]
+- [[The Maw of Darkness]]
+- [[The Tide Rises]]
+- [[The Whispering Expanse]]
+- [[Banking Lord Cornelius Coinwright (D&D_References)]]
+- [[Senator_Glaucus_Brain (D&D_References)]]
+- [[Oracle (D&D_Statblocks)]]

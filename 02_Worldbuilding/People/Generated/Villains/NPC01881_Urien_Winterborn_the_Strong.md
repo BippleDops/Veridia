@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Winterborn the Strong", "urien winterborn the strong", "Urien Winterborn Strong", "Strong the Winterborn Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Winterborn the Strong
 
 *Half-Orc Crime Boss (Villains), Age 41, Non-binary*
@@ -42,26 +48,21 @@ Corrupted by an artifact or dark magic They've made a deal they're beginning to 
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Urien Ravenheart the Seeker (Family - Cousin)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ### Hestara Ashford the Wise (Professional - Rival)
 - **Status**: Professional only
 - **History**: United by common enemy
 
-
 ### Orion Oakenshield the Risen (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Dara Hawthorne the Bold (Criminal - Target)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Is being controlled by darker force

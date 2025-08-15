@@ -5,7 +5,7 @@ improvements: 20
 modified: '2025-08-14'
 tags:
 - [[Lore]]
-title: The [[[[Crystal Academy]] Council]]
+title: The [[Crystal Academy|[[Crystal Academy]] Council]]
 type: lore
 updated: 2025-08-14
 ---
@@ -46,5 +46,10 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Crystallium]]
+- [[Crystallium (D&D_References)]]

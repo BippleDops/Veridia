@@ -53,7 +53,7 @@ updated: '2025-08-11T00:00:00+00:00'
 - Add 12_Research-specific enhancement
 
 ## Overview
-Thalassius the Wise stands as one of [[Aquabyssos]]'s most revered scholars and philosophers, a figure whose intellectual contributions have shaped the underwater city's understanding of magic, history, and inter-realm relations for over three centuries. Despite his advanced age, Thalassius maintains remarkable mental acuity and continues his research into the deepest mysteries of oceanic civilization. His vast library and personal archives represent one of the most comprehensive collections of knowledge about ancient underwater cultures, magical theory, and the pre-contact history of both [[Aquabyssos]] and [[Aethermoor]]. His collection rivals the [[Aethermoor Archives]] and connects to research at [[The Forgotten Archive]].
+Thalassius the Wise stands as one of  and  and connects to research at .
 
 Known for his patient teaching methods and profound insights, Thalassius serves as mentor to generations of scholars, diplomats, and magical practitioners. His unique perspective combines traditional underwater wisdom with innovative approaches to contemporary challenges, making him an invaluable advisor to city leadership during times of crisis. His research into the connections between magical currents and ocean flows has produced practical applications that benefit all of Aquabyssos society.
 
@@ -78,7 +78,7 @@ Thalassius represents the intellectual heart of Aquabyssos culture, embodying th
 His influence extends beyond academic circles to affect practical goverce, technological development, and social policy. Many of Aquabyssos's most important institutions and practices reflect principles and innovations that originated in Thalassius's research and teaching.
 
 ### In Aethermoor
-Surface scholars from [[Aethermoor]] who have encountered Thalassius's work hold him in high regard as a peer whose insights transcend the boundaries between surface and underwater intellectual traditions. [[Professor Euclid Mindmaze]] and researchers at [[Aethermoor Archives]] regularly correspond with him. His comparative studies of magic and culture have provided valuable perspectives for Aethermoor researchers struggling to understand their underwater neighbors.
+Surface scholars from  regularly correspond with him. His comparative studies of magic and culture have provided valuable perspectives for Aethermoor researchers struggling to understand their underwater neighbors.
 
 Thalassius's role in facilitating intellectual exchange between realms has made him a respected figure in diplomatic circles, though some Surface authorities worry about the implications of his deep knowledge of ancient secrets.
 

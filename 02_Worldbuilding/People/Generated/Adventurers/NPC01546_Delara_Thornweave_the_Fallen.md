@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Thornweave the Fallen", "delara thornweave the fallen", "Delara Thornweave Fallen", "Fallen the Thornweave Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Thornweave the Fallen
 
 *Genasi Rogue (Adventurers), Age 38, Male*
@@ -13,7 +19,6 @@
 Below average and muscular, with Shaved unusual color hair and Violet eyes. Unusual hue skin. Missing finger on left hand.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Laughs at the most inappropriate times; Never backs down from any challenge
@@ -42,16 +47,13 @@ Seeking vengeance for a murdered mentor They've made a deal they're beginning to
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Qadim Stormwind the Strong (Criminal - Fence)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
 
-
 ### Jorah Dawnstrider the Fallen (Professional - Employee)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Has died and been resurrected

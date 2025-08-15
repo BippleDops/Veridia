@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Ashford the Seeker", "nerys ashford the seeker", "Nerys Ashford Seeker", "Seeker the Ashford Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Ashford the Seeker
 
 *Human Courtier (Nobles), Age 43, Female*
@@ -36,27 +42,22 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Avoid the authorities
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Cedric Blackstone the Wise (Criminal - Accomplice)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Wynne Emberfall the Cunning (Criminal - Informant)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ### Kaelen Youngblood the Lost (Criminal - Accomplice)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
 
-
 ### Faelyn Silverleaf the Wise (Family - Child)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ### Corvus Silverleaf the Risen (Professional - Employer)
 - **Status**: Mutually beneficial

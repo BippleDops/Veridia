@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Goldleaf the Broken", "drusilla goldleaf the broken", "Drusilla Goldleaf Broken", "Broken the Goldleaf Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Goldleaf the Broken
 
 *Tabaxi Broker (Merchants), Age 19, Non-binary*
@@ -36,7 +42,6 @@ Built their business from nothing through cunning and hard work An old debt has 
 - **Short Term**: Gather information
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Baelor Hawthorne the Bold (Criminal - Fence)
 - **Status**: One-sided affection
@@ -56,7 +61,6 @@ Built their business from nothing through cunning and hard work An old debt has 
 ### Ysara Zephyrblade the Mystic (Political - Opposition)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Sells information to all sides

@@ -133,7 +133,6 @@ Apply this rule when:
 - Comparable feature: Action Surge (1/rest)
 - Balance note: More uses but weaker effect
 
-
 ## Common Mistakes
 *Frequent misunderstandings to avoid*
 

@@ -1,3 +1,9 @@
+---
+aliases: ["Warded Shield of Grace", "warded shield of grace", "Grace of Shield Warded"]
+tags: [item, equipment]
+type: item
+---
+
 # Warded Shield of Grace
 
 *Armor, Very Rare*
@@ -16,8 +22,6 @@ A warded shield crafted from exotic materials
 - +1 to AC
 - No stealth disadvantage
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -32,7 +36,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.399Z*

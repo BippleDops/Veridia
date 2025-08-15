@@ -1,11 +1,11 @@
 ---
+aliases: ["Freya Goldleaf", "freya goldleaf", "Goldleaf Freya"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -78,7 +78,6 @@ Perception, Persuasion
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 30 gold pieces
 - Letter of recommendation
@@ -93,7 +92,6 @@ Perception, Persuasion
 
 ---
 *Generated: 2025-08-15T03:21:04.038Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

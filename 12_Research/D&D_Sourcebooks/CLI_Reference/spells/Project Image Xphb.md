@@ -89,3 +89,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Aboleth Xmm]]
+- [[Ulitharid Mpmm]]
+- [[aboleth-xmm (aberration)]]
+- [[ulitharid-mpmm (aberration)]]
+- [[Ancient Copper Dragon Xmm]]
+- [[ancient-copper-dragon-xmm (dragon)]]
+- [[Aboleth Xmm (legendary-group)]]
+- [[aboleth-xmm (legendary-group)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]

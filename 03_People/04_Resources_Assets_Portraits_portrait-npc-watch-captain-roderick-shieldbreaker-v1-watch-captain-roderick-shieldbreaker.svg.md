@@ -11,7 +11,7 @@ created: '2025-01-15'
 
 ## Portrait
 
-![[portrait_04_resources_assets_portraits_portrait-npc-watch-captain-roderick-shieldbreaker-v1-watch-captain-roderick-shieldbreaker.svg.png]]
+![[04_Resources|portrait_04_resources_assets_portraits_portrait-npc-watch-captain-roderick-shieldbreaker-v1-watch-captain-roderick-shieldbreaker.svg.png]]
 
 *Portrait reference for 04_Resources_Assets_Portraits_portrait-npc-watch-captain-roderick-shieldbreaker-v1-watch-captain-roderick-shieldbreaker.svg*
 
@@ -75,3 +75,9 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+## References
+
+- [[Assets Locations Location City Archdruid Marina Kelpweaver V1 Archdruid Marina Kelpweaver.svg]]
+- [[Assets Locations Location City Marina Dreamwhisper Marina Dreamwhisper.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-watch-captain-roderick-shieldbreaker-v1-watch-captain-roderick-shieldbreaker.svg_Quick_Ref]]

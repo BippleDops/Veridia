@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Winterborn the Redeemed", "caelum winterborn the redeemed", "Caelum Winterborn Redeemed", "Redeemed the Winterborn Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Winterborn the Redeemed
 
 *Tiefling Wizard (Adventurers), Age 58, Female*
@@ -36,7 +42,6 @@ Seeking vengeance for a murdered mentor They're being blackmailed by someone fro
 - **Short Term**: Recruit new members
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Vesper Crystalbrook the Cunning (Family - Child)
 - **Status**: Strong and trusting
@@ -52,11 +57,9 @@ Seeking vengeance for a murdered mentor They're being blackmailed by someone fro
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Xander Hawthorne the Guardian (Family - Spouse)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
-
 
 ### Cedric Thornweave the Bold (Family - Spouse)
 - **Status**: Strong and trusting
@@ -66,7 +69,6 @@ Seeking vengeance for a murdered mentor They're being blackmailed by someone fro
 ### Zephyr Goldleaf the Redeemed (Family - Child)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Secretly working for the villain

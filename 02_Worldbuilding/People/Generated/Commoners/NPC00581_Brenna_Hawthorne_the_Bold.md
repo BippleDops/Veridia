@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Hawthorne the Bold", "brenna hawthorne the bold", "Brenna Hawthorne Bold", "Bold the Hawthorne Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Hawthorne the Bold
 
 *Half-Elf Baker (Commoners), Age 58, Non-binary*
@@ -36,7 +42,6 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 - **Short Term**: Sabotage competition
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Baelor Ravenheart (Family - Child)
 - **Status**: One-sided affection
@@ -47,7 +52,6 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Faelyn Silverleaf the Wanderer (Family - Parent)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
@@ -57,11 +61,9 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 - **Status**: Complicated history
 - **History**: United by common enemy
 
-
 ### Urien Thornweave the Lost (Personal - Love interest)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Knows location of ancient treasure

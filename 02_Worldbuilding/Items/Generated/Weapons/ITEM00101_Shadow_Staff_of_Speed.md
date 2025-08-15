@@ -1,3 +1,9 @@
+---
+aliases: ["Shadow Staff of Speed", "shadow staff of speed", "Speed of Staff Shadow"]
+tags: [item, equipment]
+type: item
+---
+
 # Shadow Staff of Speed
 
 *Weapons, Common*
@@ -13,8 +19,6 @@ A shadow staff carved from dragon bone
 ## Properties
 - Grants advantage on initiative
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -29,7 +33,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.351Z*

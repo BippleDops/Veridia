@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Dawnstrider the Guardian", "cedric dawnstrider the guardian", "Cedric Dawnstrider Guardian", "Guardian the Dawnstrider Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Dawnstrider the Guardian
 
 *Dwarf Baker (Commoners), Age 58, Female*
@@ -13,7 +19,6 @@
 Short and wiry, with Shaved silver hair and Brown eyes. Unusual hue skin. Birthmark shaped like a constellation.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Never uses people's real names; Always tells the absolute truth
@@ -42,7 +47,6 @@ Survivor of a disaster that destroyed their village A family member's death has 
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Brenna Silverleaf the Seeker (Family - Child)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
@@ -56,7 +60,6 @@ Survivor of a disaster that destroyed their village A family member's death has 
 ### Faelyn Lightbringer (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
-
 
 ### Nerys Lightbringer the Swift (Professional - Mentor)
 - **Status**: Strained but maintaining

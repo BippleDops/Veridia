@@ -58,3 +58,34 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A stranger needs help delivering before dawn
 - A map reveals a betrayal about this place
 - A corpse reveals the truth about the government
+
+## References
+
+- [[04 Chapter 3 Character Classes]]
+- [[04-chapter-3-character-classes (players-handbook-2024)]]
+- [[Sorcerer Xphb Aberrant Sorcery Xphb]]
+- [[Sorcerer Xphb Clockwork Sorcery Xphb]]
+- [[Sorcerer Xphb Shadow Magic Xge]]
+- [[Sorcerer Xphb Storm Sorcery Xge]]
+- [[sorcerer-xphb-aberrant-sorcery-xphb (classes)]]
+- [[sorcerer-xphb-clockwork-sorcery-xphb (classes)]]
+- [[sorcerer-xphb-shadow-magic-xge (classes)]]
+- [[sorcerer-xphb-storm-sorcery-xge (classes)]]
+- [[Assign Ability Scores Standard Array by]]
+- [[Choose a Class Class Overview Xphb]]
+- [[Classes Phb]]
+- [[Level 1 Hit Points by Class Xphb]]
+- [[Multiclassing Prerequisites Phb]]
+- [[Multiclassing Proficiencies Phb]]
+- [[Preparing Spells Spell Preparation by Class]]
+- [[Spells Scc]]
+- [[assign-ability-scores-standard-array-by-class-xphb]]
+- [[choose-a-class-class-overview-xphb (tables)]]
+- [[classes-phb (tables)]]
+- [[level-1-hit-points-by-class-xphb (tables)]]
+- [[multiclassing-prerequisites-phb (tables)]]
+- [[multiclassing-proficiencies-phb (tables)]]
+- [[preparing-spells-spell-preparation-by-class-xphb]]
+- [[spells-scc (tables)]]
+- [[Spell Points]]
+- [[spell-points (variant-rules)]]

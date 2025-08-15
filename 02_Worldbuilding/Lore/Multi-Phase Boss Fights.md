@@ -54,7 +54,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -275,7 +275,7 @@ Recent convergence events have created particularly complex multi-phase encounte
 - Escape may become primary objective
 
 **Example: Deep Ocean [[Leviathan]]**
-- **Phase 1**: Standard [[Underwater Combat]]
+- **Phase 1**: Standard [[Underwater_Combat|Underwater Combat]]
 - **Phase 2**: Pressure changes, water currents
 - **Phase 3**: Whirlpools, [[Crushing Depths]], limited visibility
 - **Phase 4**: Underwater cave system collapsing
@@ -351,7 +351,7 @@ Recent convergence events have created particularly complex multi-phase encounte
 **Aethermoor Phase Examples**:
 
 **Crystal-Corrupted Sky [[Knight]]**:
-- **Phase 1**: [[Aerial Combat]] on flying mount with standard tactics
+- **Phase 1**: [[Aerial_Combat|Aerial Combat]] on flying mount with standard tactics
 - **Phase 2**: Crystal corruption spreads, mount becomes crystalline
 - **Phase 3**: Knight and mount fuse into crystal hybrid creature
 - **Phase 4**: [[Crystal Network]] spreads across battlefield, environmental control
@@ -800,7 +800,7 @@ Recent convergence events have created particularly complex multi-phase encounte
 - **Phase 3**: Artifact and wielder fully merged
 - **Phase 4**: Artifact seeks new host among party
 
-**[[The [[Memory Thief]]]] (Social/Combat Hybrid)**:
+**[[Memory Thief|The [[Memory Thief]]]] (Social/Combat Hybrid)**:
 - **Phase 1**: Social encounter with hidden memory theft
 - **Phase 2**: Memory-based attacks using stolen experiences
 - **Phase 3**: Physical combat with memory constructs
@@ -850,7 +850,7 @@ Multi Phase Boss Fights is a undersea element of the setting, known for biolumin
 
 Legends speak of Multi Phase Boss Fights as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Multi Phase Boss Fights.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -883,3 +883,10 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Initiative Tracker (02_Worldbuilding)]]
+- [[Random Encounters]]
+- [[Initiative Tracker (D&D_References)]]
+- [[Random Encounters (D&D_Statblocks)]]

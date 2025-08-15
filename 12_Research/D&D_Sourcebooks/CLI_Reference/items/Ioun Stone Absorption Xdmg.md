@@ -81,3 +81,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A document has gone missing and war looms
 - A letter reveals a conspiracy about this place
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Ioun Stone Xdmg]]
+- [[ioun-stone-xdmg (items)]]
+- [[Arcana Very Rare Xdmg]]
+- [[Magic Item Table H]]
+- [[Random Magic Items Arcana]]
+- [[arcana-very-rare-xdmg (tables)]]
+- [[magic-item-table-h (tables)]]
+- [[random-magic-items-arcana (tables)]]

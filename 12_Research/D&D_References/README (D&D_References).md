@@ -61,7 +61,7 @@ python scripts/content_generator_advanced.py --type npc --count 5
 
 ## Contributing
 
-This vault is designed for continuous improvement. See [[08_Archive/Planning/100_NEXT_LEVEL_IMPROVEMENTS|Next Level Improvements]] for roadmap.
+This vault is designed for continuous improvement. See  for roadmap.
 
 ## License & Credits
 

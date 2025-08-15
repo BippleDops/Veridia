@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Blackstone the Scholar", "caelum blackstone the scholar", "Caelum Blackstone Scholar", "Scholar the Blackstone Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Blackstone the Scholar
 
 *Dragonborn Baker (Commoners), Age 77, Non-binary*
@@ -13,7 +19,6 @@
 Below average and slender, with Mohawk auburn hair and Green eyes. Brown skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Always hungry and eating something
@@ -42,11 +47,9 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
 
-
 ### Caelum Nightfall the Lost (Criminal - Accomplice)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ### Fiora Ashford the Cunning (Criminal - Fence)
 - **Status**: Strained but maintaining
@@ -56,7 +59,6 @@ Grew up in poverty but discovered a talent that might change everything They've 
 ### Dara Silverleaf the Guardian (Personal - Love interest)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Is the lost heir to the throne

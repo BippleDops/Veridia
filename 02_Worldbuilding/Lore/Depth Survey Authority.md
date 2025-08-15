@@ -104,3 +104,8 @@ Depth Survey Authority represents a crucial aspect of the world's history, cosmo
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[Depth_Survey_Authority (02_Worldbuilding)]]
+- [[The Depth Chart]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Stormwind the Seeker", "malakai stormwind the seeker", "Malakai Stormwind Seeker", "Seeker the Stormwind Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Stormwind the Seeker
 
 *Halfling Farmer (Commoners), Age 39, Female*
@@ -36,22 +42,18 @@ Family has worked the same trade for generations, but times are changing A chanc
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Faelyn Frostwhisper the Redeemed (Political - Opposition)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Orion Zephyrblade the Seeker (Political - Patron)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Fiora Silverleaf the Guardian (Criminal - Accomplice)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ### Erasmus Ironforge (Professional - Partner)
 - **Status**: Blood oath bound

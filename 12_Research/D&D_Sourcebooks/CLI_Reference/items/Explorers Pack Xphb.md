@@ -82,3 +82,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Assets Item Artifact Explorers Pack Xphb Explorers Pack Xphb.png]]
+- [[Master_Item_Catalog]]
+- [[Barbarian Xphb]]
+- [[barbarian-xphb (classes)]]
+- [[Swamp Encounters Levels 14 Xge]]
+- [[swamp-encounters-levels-14-xge (tables)]]

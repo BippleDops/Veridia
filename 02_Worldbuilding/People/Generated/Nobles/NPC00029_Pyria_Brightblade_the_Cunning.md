@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Brightblade the Cunning", "pyria brightblade the cunning", "Pyria Brightblade Cunning", "Cunning the Brightblade Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Brightblade the Cunning
 
 *Goliath Heir (Nobles), Age 24, Female*
@@ -36,7 +42,6 @@ Exiled from their homeland, trying to rebuild their power base They've fallen in
 - **Short Term**: Survive until next week
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Jorah Blackstone (Political - Ally)
 - **Status**: Complicated history
@@ -46,7 +51,6 @@ Exiled from their homeland, trying to rebuild their power base They've fallen in
 ### Erasmus Zephyrblade (Political - Opposition)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ### Malakai Winterborn (Personal - Ex-lover)
 - **Status**: Blood oath bound

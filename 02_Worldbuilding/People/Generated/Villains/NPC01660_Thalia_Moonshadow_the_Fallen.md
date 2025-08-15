@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Moonshadow the Fallen", "thalia moonshadow the fallen", "Thalia Moonshadow Fallen", "Fallen the Moonshadow Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Moonshadow the Fallen
 
 *Human Corrupt Noble (Villains), Age 62, Non-binary*
@@ -13,7 +19,6 @@
 Above average and wiry, with Tied back gray hair and Violet eyes. Brown skin. Constantly changing hair color.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Never backs down from any challenge; Never uses people's real names; Speaks to inanimate objects
@@ -35,7 +40,6 @@ Betrayed by those they trusted, now seeking revenge on the world They've fallen 
 ### Goals
 - **Short Term**: Survive until next week
 - **Long Term**: Uncover the truth about their past
-
 
 ## Relationships
 ### Qadim Winterborn the Risen (Political - Puppet)

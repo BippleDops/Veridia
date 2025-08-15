@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Nightfall the Wise", "malakai nightfall the wise", "Malakai Nightfall Wise", "Wise the Nightfall Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Nightfall the Wise
 
 *Aasimar Crime Boss (Villains), Age 20, Male*
@@ -13,7 +19,6 @@
 Towering and athletic, with Short and neat unusual color hair and Heterochromic eyes. Dark skin. Prominent scar across the face.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Always tells the absolute truth; Never backs down from any challenge
@@ -36,37 +41,30 @@ Believes their evil acts serve a greater good They recently discovered a secret 
 - **Short Term**: Survive until next week
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Urien Proudmore the Wise (Criminal - Handler)
 - **Status**: Professional only
 - **History**: United by common enemy
 
-
 ### Urien Youngblood the Guardian (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ### Fiora Frostwhisper the Strong (Criminal - Handler)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Dara Jadeclaw the Bold (Family - Cousin)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ### Aeliana Jadeclaw the Cunning (Professional - Rival)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
 
-
 ### Elric Darkwater the Wise (Personal - Best friend)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Has a child they're protecting

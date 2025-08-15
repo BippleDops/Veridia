@@ -622,9 +622,16 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Scaling by Party Level
 - **Level 1-4**: Reduce enemies
 - **Level 5-10**: Standard difficulty
 - **Level 11-15**: Add elite enemies
 - **Level 16-20**: Legendary difficulty
+
+## References
+
+- [[actions#Improvising%20an%20Action]]
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-mistwalker-captain-mistwalker.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-morgrim-lastvessel-captain-morgrim-lastvessel.svg]]
+- [[Quick_Reference - DnD5e-SideScreen-2014]]
+- [[Reference Quick Reference Dnd5e Sidescreen 2014]]

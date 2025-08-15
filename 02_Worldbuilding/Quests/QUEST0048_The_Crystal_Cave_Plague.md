@@ -1,4 +1,5 @@
 ---
+aliases: ["The Crystal Cave Plague", "the crystal cave plague", "Plague Cave Crystal The"]
 tags: [quest, adventure, generated]
 type: quest
 ---
@@ -21,8 +22,6 @@ Retrieve the ancient artifact from the sunken temple
 ### Secondary
 - Document findings for scholars
 - Minimize civilian casualties
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they made a deal they now regret, which changed their life forever. Now, circumstances demand immediate action.
@@ -55,8 +54,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Show mercy and gain intel - Future ally but justice denied
 2. Execute for crimes committed - Justice served but opportunity lost
-
-
 
 ## Rewards
 ### On Success

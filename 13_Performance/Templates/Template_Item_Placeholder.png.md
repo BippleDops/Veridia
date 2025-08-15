@@ -55,3 +55,7 @@ Recent developments have brought new attention to Template_Item_Placeholder.png,
 
 ## DM Notes
 *Template_Item_Placeholder.png can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+
+## References
+
+- [[Region Name]]

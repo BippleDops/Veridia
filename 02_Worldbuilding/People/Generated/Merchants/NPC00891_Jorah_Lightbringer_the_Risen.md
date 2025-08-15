@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Lightbringer the Risen", "jorah lightbringer the risen", "Jorah Lightbringer Risen", "Risen the Lightbringer Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Lightbringer the Risen
 
 *Tiefling Appraiser (Merchants), Age 24, Non-binary*
@@ -13,7 +19,6 @@
 Towering and stocky, with Wild and unkempt gray hair and Brown eyes. Dark skin. Missing finger on left hand.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Flirts with everyone regardless of interest; Incredibly optimistic despite evidence
@@ -36,17 +41,14 @@ Part of a merchant family with connections everywhere A prophetic dream has been
 - **Short Term**: Complete current contract
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Erasmus Lightbringer the Bold (Family - Sibling)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
 
-
 ### Alaric Blackstone the Strong (Family - Spouse)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ### Nerys Voidwalker the Wise (Professional - Employer)
 - **Status**: On the verge of collapse
@@ -56,7 +58,6 @@ Part of a merchant family with connections everywhere A prophetic dream has been
 ### Cedric Emberfall the Wanderer (Personal - Nemesis)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Sells information to all sides

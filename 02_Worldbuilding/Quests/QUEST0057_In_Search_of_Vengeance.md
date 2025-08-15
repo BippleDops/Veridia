@@ -1,4 +1,5 @@
 ---
+aliases: ["In Search of Vengeance", "in search of vengeance", "Vengeance of Search In"]
 tags: [generated]
 id: QUEST0057
 created: 2025-08-15T04:09:51.395Z
@@ -22,8 +23,6 @@ Eliminate the cult leader before they can complete the ritual
 ### Secondary
 - Maintain cover identity
 - Gather intelligence on enemy plans
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they accidentally discovered a conspiracy, which changed their life forever. Now, circumstances demand immediate action.

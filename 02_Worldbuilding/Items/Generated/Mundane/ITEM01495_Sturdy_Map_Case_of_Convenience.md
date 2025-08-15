@@ -1,3 +1,9 @@
+---
+aliases: ["Sturdy Map Case of Convenience", "sturdy map case of convenience", "Convenience of Case Map Sturdy"]
+tags: [item, equipment]
+type: item
+---
+
 # Sturdy Map Case of Convenience
 
 *Mundane, Uncommon*
@@ -14,8 +20,6 @@ A sturdy map case expertly crafted
 - Has hidden compartment
 - Weighs half normal
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -30,7 +34,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.493Z*

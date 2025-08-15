@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Frostwhisper the Wanderer", "branwen frostwhisper the wanderer", "Branwen Frostwhisper Wanderer", "Wanderer the Frostwhisper Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Frostwhisper the Wanderer
 
 *Dragonborn Crime Boss (Villains), Age 69, Female*
@@ -13,7 +19,6 @@
 Very short and imposing, with Partially shaved bald hair and Amber eyes. Tan skin. Weather-beaten face showing hard life.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Never uses people's real names
@@ -36,7 +41,6 @@ Born into evil but questioning their path A chance encounter last winter changed
 - **Short Term**: Complete current contract
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Dara Crystalbrook the Broken (Professional - Rival)
 - **Status**: Strong and trusting
@@ -47,16 +51,13 @@ Born into evil but questioning their path A chance encounter last winter changed
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
 ### Drusilla Jadeclaw the Guardian (Criminal - Handler)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Baelor Crystalbrook the Bold (Professional - Mentor)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Was once a renowned hero

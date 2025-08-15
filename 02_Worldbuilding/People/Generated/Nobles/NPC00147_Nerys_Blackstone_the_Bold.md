@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Blackstone the Bold", "nerys blackstone the bold", "Nerys Blackstone Bold", "Bold the Blackstone Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Blackstone the Bold
 
 *Halfling Aristocrat (Nobles), Age 65, Female*
@@ -36,37 +42,30 @@ Secretly adopted into nobility, living in fear of discovery They've fallen in lo
 - **Short Term**: Gather information
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Urien Zephyrblade the Cunning (Family - Child)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Aeliana Quicksilver the Bold (Criminal - Fence)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ### Qadim Zephyrblade (Family - Parent)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Pyria Xendar (Family - Parent)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ### Gavril Frostwhisper (Criminal - Informant)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
 
-
 ### Branwen Xendar the Risen (Professional - Employee)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Secretly funding the rebellion

@@ -1,6 +1,6 @@
 ---
 
-title: The [[Memory Keepers]] Guild
+title: The [[Memory_Keepers|Memory Keepers]] Guild
 type: [[location]]
 tags:
 - [[Aquabyssos]]
@@ -37,7 +37,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -102,7 +102,7 @@ Legends speak of The Memory Keepers Guild as a nexus where past and present conv
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -123,13 +123,11 @@ The Memory Keepers Guild is a notable location characterized by its unique featu
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -137,13 +135,11 @@ The Memory Keepers Guild is a notable location characterized by its unique featu
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -170,7 +166,7 @@ Key stop on spices trade route
 - Someone is searching for information for money
 - A shipment has gone missing and war looms
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -211,7 +207,6 @@ Key stop on spices trade route
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -247,3 +242,8 @@ Key stop on spices trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Timeline of the Drowning]]
+- [[Tidal Memory Ceremonies (D&D_References)]]

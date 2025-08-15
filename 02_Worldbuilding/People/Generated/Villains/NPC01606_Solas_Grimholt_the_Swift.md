@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Grimholt the Swift", "solas grimholt the swift", "Solas Grimholt Swift", "Swift the Grimholt Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Grimholt the Swift
 
 *Dragonborn Crime Boss (Villains), Age 49, Male*
@@ -13,7 +19,6 @@
 Tall and lanky, with Long and flowing auburn hair and Brown eyes. Pale skin. Prominent scar across the face.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Speaks to inanimate objects; Believes in every conspiracy theory
@@ -36,12 +41,10 @@ Believes their evil acts serve a greater good They've fallen in love with someon
 - **Short Term**: Complete current contract
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Corvus Lightbringer the Fallen (Criminal - Fence)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
-
 
 ### Baelor Lightbringer the Wise (Personal - Childhood friend)
 - **Status**: Blood oath bound
@@ -52,11 +55,9 @@ Believes their evil acts serve a greater good They've fallen in love with someon
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Zephyr Blackstone the Scholar (Family - Child)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Knows how the world will end

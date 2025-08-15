@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Goldleaf the Scholar", "xander goldleaf the scholar", "Xander Goldleaf Scholar", "Scholar the Goldleaf Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Goldleaf the Scholar
 
 *Tabaxi Carpenter (Commoners), Age 54, Non-binary*
@@ -42,21 +48,17 @@ Grew up in poverty but discovered a talent that might change everything Strange 
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Hilda Voidwalker the Broken (Professional - Mentor)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ### Hilda Thornweave the Bold (Personal - Love interest)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Erasmus Ironforge the Fallen (Criminal - Handler)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
-
 
 ### Urien Zephyrblade the Scholar (Criminal - Target)
 - **Status**: Professional only
@@ -66,7 +68,6 @@ Grew up in poverty but discovered a talent that might change everything Strange 
 ### Faelyn Ironwood the Bold (Political - Puppet)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Witnessed a noble's crime

@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Jadeclaw the Fallen", "thalia jadeclaw the fallen", "Thalia Jadeclaw Fallen", "Fallen the Jadeclaw Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Jadeclaw the Fallen
 
 *Elf Carpenter (Commoners), Age 53, Non-binary*
@@ -42,16 +48,13 @@ Family has worked the same trade for generations, but times are changing They re
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
 
-
 ### Solas Quicksilver the Redeemed (Criminal - Handler)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Drusilla Zephyrblade the Wise (Family - Parent)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
-
 
 ### Elric Ashford the Cunning (Family - Spouse)
 - **Status**: Blood oath bound
@@ -61,7 +64,6 @@ Family has worked the same trade for generations, but times are changing They re
 ### Solas Moonshadow the Lost (Political - Opposition)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is the lost heir to the throne

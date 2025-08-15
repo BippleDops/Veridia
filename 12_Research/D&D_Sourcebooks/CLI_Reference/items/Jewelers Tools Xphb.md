@@ -97,3 +97,14 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[workshop]]
+- [[Artisans Tools Xphb]]
+- [[artisans-tools-xphb (items)]]
+- [[Magic Item Tools Xdmg]]
+- [[Tools Phb]]
+- [[magic-item-tools-xdmg (tables)]]
+- [[tools-phb (tables)]]

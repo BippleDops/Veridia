@@ -41,7 +41,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -84,7 +84,7 @@ improvements: 20
 - Add folk tales and children's stories
 
 ## Overview
-The Drowned Embassy stands partially submerged in the perpetual twilight waters of [[The [[Shadowmere]]]], serving as [[Aquabyssos]]'s official diplomatic presence in [[Aethermoor]]. Half above water, half below, the building exists in two worlds simultaneously - much like its inhabitants.
+The Drowned Embassy stands partially submerged in the perpetual twilight waters of [[Shadowmere|The [[Shadowmere]]]], serving as [[Aquabyssos]]'s official diplomatic presence in [[Aethermoor]]. Half above water, half below, the building exists in two worlds simultaneously - much like its inhabitants.
 
 ## Description
 The Embassy appears as a once-grand marble structure that seems to have been pulled partially into the swamp. The upper floors maintain an illusion of normalcy with dry meeting rooms and offices, while the lower levels are completely flooded, accessible only to those who can breathe water. Strange bioluminescent [[Coral]] grows along the waterline, pulsing with an rhythm that matches the tides of distant seas.
@@ -96,8 +96,7 @@ Strange pools that show visions of [[Aquabyssos]] and can transport small object
 A room that slowly floods and drains, used for "negotiations" and transforming willing subjects into Deep Heralds.
 
 ### The Coral Garden
-A grotesque fusion of corrupted [[[[Aether Crystal]]s]] and deep-sea coral, growing into formations that whisper in long-dead languages.
-
+A grotesque fusion of corrupted [[Aether Crystal|[[Aether Crystal]]s]] and deep-sea coral, growing into formations that whisper in long-dead languages.
 
 ## Demographics
 - **Population**: ~1,000
@@ -105,20 +104,17 @@ A grotesque fusion of corrupted [[[[Aether Crystal]]s]] and deep-sea coral, grow
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -131,7 +127,7 @@ A grotesque fusion of corrupted [[[[Aether Crystal]]s]] and deep-sea coral, grow
 > The Embassy is slowly expanding its flooded area by inches each month. At this rate, all of [[The Shadowmere]] will be underwater within five years, creating a beachhead for Aquabyssos invasion.
 
 > [!danger] The Deep Gate
-> The portal in the basement isn't just a connection - it's an anchor point for a massive ritual. If three of the [[The [[Seven Shards]]]] are brought here, it could open a permanent gateway large enough for an army.
+> The portal in the basement isn't just a connection - it's an anchor point for a massive ritual. If three of the [[Seven Shards|The [[Seven Shards]]]] are brought here, it could open a permanent gateway large enough for an army.
 
 > [!info] Hidden Prisoners
 > Several missing nobles from [[Crystalhaven]] are kept in the flooded cells, slowly being transformed into sleeper agents. They'll be returned with no memory of their [[Time]] here, but carrying Aquabyssos commands in their subconscious.
@@ -151,7 +147,7 @@ Legends speak of The Drowned Embassy as a nexus where past and present converge.
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -200,7 +196,6 @@ Key stop on magic items trade route
 - Natural disasters
 - Current [[Power Structures]] established
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -236,3 +231,8 @@ Key stop on magic items trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[The Tide Rises]]
+- [[The Tide Rises (D&D_Statblocks)]]

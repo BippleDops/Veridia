@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Ironwood the Guardian", "gareth ironwood the guardian", "Gareth Ironwood Guardian", "Guardian the Ironwood Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Ironwood the Guardian
 
 *Goliath Noble (Nobles), Age 75, Non-binary*
@@ -36,17 +42,14 @@ Exiled from their homeland, trying to rebuild their power base They've been mark
 - **Short Term**: Make this month's payment
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Hilda Brightblade (Professional - Partner)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Hestara Underhill (Political - Patron)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ### Zephyr Stormwind the Seeker (Political - Opposition)
 - **Status**: Strained but maintaining
@@ -56,7 +59,6 @@ Exiled from their homeland, trying to rebuild their power base They've been mark
 ### Aldric Ashford (Professional - Employee)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Child from scandalous affair

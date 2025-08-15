@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Moonshadow the Scholar", "jorah moonshadow the scholar", "Jorah Moonshadow Scholar", "Scholar the Moonshadow Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Moonshadow the Scholar
 
 *Genasi Shopkeeper (Merchants), Age 43, Non-binary*
@@ -13,7 +19,6 @@
 Above average and compact, with Shaved auburn hair and Brown eyes. Brown skin. Missing finger on left hand.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Constantly quotes ancient texts
@@ -41,7 +46,6 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 ### Ysara Ashford the Fallen (Personal - Ex-lover)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
-
 
 ### Fiora Ashford the Wanderer (Personal - Ex-lover)
 - **Status**: On the verge of collapse

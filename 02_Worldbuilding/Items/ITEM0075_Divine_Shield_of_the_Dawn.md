@@ -1,4 +1,5 @@
 ---
+aliases: ["Divine Shield of the Dawn", "divine shield of the dawn", "Divine Shield of Dawn", "Dawn the of Shield Divine"]
 tags: [generated]
 id: ITEM0075
 created: 2025-08-15T04:09:51.102Z
@@ -19,8 +20,6 @@ Crafted from mithril with ancient symbols, in ancient but unbreakable. It emanat
 
 ## Quirk
 *Occasionally speaks in ancient tongue*
-
-
 
 ## History
 This item was lost in a great battle ages ago. It has passed through many hands, each leaving their mark upon its destiny.

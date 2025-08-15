@@ -314,7 +314,6 @@ These mappings can be used to:
 3. Generate appropriate music for encounters
 4. Set mood for different factions and groups
 
-
 ## See Also
 - Related content
 - Similar topics

@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Oakenshield the Cunning", "fiora oakenshield the cunning", "Fiora Oakenshield Cunning", "Cunning the Oakenshield Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Oakenshield the Cunning
 
 *Firbolg Ranger (Adventurers), Age 69, Female*
@@ -13,7 +19,6 @@
 Towering and athletic, with Carefully styled blonde hair and Amber eyes. Freckled skin. Birthmark shaped like a constellation.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Flirts with everyone regardless of interest
@@ -42,7 +47,6 @@ Searching for a legendary treasure their parent died seeking They've made a deal
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Delara Frostwhisper the Risen (Family - Spouse)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
@@ -52,16 +56,13 @@ Searching for a legendary treasure their parent died seeking They've made a deal
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
 
-
 ### Fiora Stormwind the Cunning (Family - Spouse)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
 
-
 ### Cedric Brightblade the Broken (Criminal - Handler)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Possessed by ancient spirit

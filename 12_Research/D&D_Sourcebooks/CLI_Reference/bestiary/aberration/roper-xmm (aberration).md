@@ -162,3 +162,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Roper Xmm]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[Underdark Encounters Levels 1116 Xge]]
+- [[Underdark Encounters Levels 14 Xge]]
+- [[Underdark Encounters Levels 1720 Xge]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]
+- [[underdark-encounters-levels-1116-xge (tables)]]
+- [[underdark-encounters-levels-14-xge (tables)]]
+- [[underdark-encounters-levels-1720-xge (tables)]]

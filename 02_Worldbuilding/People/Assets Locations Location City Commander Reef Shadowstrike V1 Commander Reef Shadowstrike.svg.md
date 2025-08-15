@@ -201,3 +201,7 @@ This NPC can serve multiple roles:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]

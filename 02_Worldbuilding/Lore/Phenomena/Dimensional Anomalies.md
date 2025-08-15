@@ -110,3 +110,11 @@ improvements: 20
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Customs House]]
+- [[Phenomena Dimensional Anomalies]]
+- [[Random Encounters]]
+- [[The Shrinking Sanctuary]]
+- [[The Void Tears]]

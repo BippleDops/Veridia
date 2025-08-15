@@ -5045,8 +5045,6 @@ status: active
 - [[Spell Scroll Level 9 Xdmg]] (Unknown)
 - [[Spell Scroll Level 9 Xdmg]] (Unknown)
 
-
-
 ## Examples
 *Practical applications of this rule*
 

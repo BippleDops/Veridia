@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Dawnstrider the Fallen", "kaelen dawnstrider the fallen", "Kaelen Dawnstrider Fallen", "Fallen the Dawnstrider Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Dawnstrider the Fallen
 
 *Firbolg Crime Boss (Villains), Age 42, Non-binary*
@@ -13,7 +19,6 @@
 Average height and muscular, with Partially shaved gray hair and Hazel eyes. Scarred skin. Missing finger on left hand.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Compulsive liar about minor things; Extremely superstitious about everything; Constantly quotes ancient texts
@@ -42,16 +47,13 @@ Believes their evil acts serve a greater good Strange abilities have begun manif
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
 
-
 ### Cedric Ironforge the Wise (Criminal - Target)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Nerys Emberfall the Wise (Personal - Love interest)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ### Delara Nightfall the Bold (Criminal - Informant)
 - **Status**: Secretly hostile

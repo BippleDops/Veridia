@@ -1,4 +1,5 @@
 ---
+aliases: ["Negotiate with the Pirates", "negotiate with the pirates", "Negotiate with Pirates", "Pirates the with Negotiate"]
 tags: [generated]
 id: QUEST0061
 created: 2025-08-15T04:09:51.398Z
@@ -22,8 +23,6 @@ Map the uncharted the sunken temple and report findings
 ### Secondary
 - Minimize civilian casualties
 - Rescue any prisoners found
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they accidentally discovered a conspiracy, which changed their life forever. Now, circumstances demand immediate action.
@@ -56,8 +55,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Show mercy and gain intel - Future ally but justice denied
 2. Execute for crimes committed - Justice served but opportunity lost
-
-
 
 ## Rewards
 ### On Success

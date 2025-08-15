@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Dawnstrider", "pyria dawnstrider", "Dawnstrider Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Dawnstrider
 
 *Dragonborn Ambassador (Nobles), Age 40, Male*
@@ -36,27 +42,22 @@ Exiled from their homeland, trying to rebuild their power base They've been mark
 - **Short Term**: Make this month's payment
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Xander Keenblade the Guardian (Family - Child)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Corvus Ironforge (Criminal - Accomplice)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
-
 
 ### Fiora Crystalbrook (Family - Sibling)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
 
-
 ### Corvus Emberfall (Criminal - Accomplice)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

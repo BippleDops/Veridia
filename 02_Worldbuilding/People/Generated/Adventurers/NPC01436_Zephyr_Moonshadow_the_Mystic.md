@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Moonshadow the Mystic", "zephyr moonshadow the mystic", "Zephyr Moonshadow Mystic", "Mystic the Moonshadow Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Moonshadow the Mystic
 
 *Half-Orc Rogue (Adventurers), Age 40, Male*
@@ -13,7 +19,6 @@
 Very short and athletic, with Dreadlocks bald hair and Gray eyes. Freckled skin. Crooked nose from multiple breaks.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Never backs down from any challenge
@@ -36,17 +41,14 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 - **Short Term**: Make this month's payment
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Dara Moonshadow the Guardian (Political - Patron)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
 
-
 ### Malakai Frostwhisper the Lost (Political - Spy)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ### Nerys Frostwhisper the Redeemed (Personal - Best friend)
 - **Status**: Professional only
@@ -57,11 +59,9 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Ewan Voidwalker the Risen (Political - Ally)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ### Lyanna Ironwood the Strong (Personal - Love interest)
 - **Status**: Professional only

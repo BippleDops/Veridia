@@ -135,3 +135,20 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[stable]]
+- [[Pony Xmm]]
+- [[2 Appendix a Miscellaneous Creatures]]
+- [[2-appendix-a-miscellaneous-creatures (monster-manual-2014)]]
+- [[3 Animals]]
+- [[3-animals (monster-manual-2025)]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[10-appendix-b-creature-stat-blocks (players-handbook-2024)]]
+- [[Monsters by Habitat Grassland Monsters Xmm]]
+- [[Monsters by Habitat Urban Monsters Xmm]]
+- [[Urban Encounters Levels 14 Xge]]
+- [[monsters-by-habitat-grassland-monsters-xmm (tables)]]
+- [[monsters-by-habitat-urban-monsters-xmm (tables)]]
+- [[urban-encounters-levels-14-xge (tables)]]

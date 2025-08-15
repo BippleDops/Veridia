@@ -1,3 +1,9 @@
+---
+aliases: ["Greater Herb of Clarity", "greater herb of clarity", "Clarity of Herb Greater"]
+tags: [item, equipment]
+type: item
+---
+
 # Greater Herb of Clarity
 
 *Consumables, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A greater herb glowing softly
 - Resistance for 10 minutes
 - Remove one condition
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -30,7 +34,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.446Z*

@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Underhill the Scholar", "drusilla underhill the scholar", "Drusilla Underhill Scholar", "Scholar the Underhill Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Underhill the Scholar
 
 *Tabaxi Rogue (Adventurers), Age 60, Male*
@@ -36,7 +42,6 @@ Seeking vengeance for a murdered mentor They've made a deal they're beginning to
 - **Short Term**: Gather information
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Solas Keenblade the Broken (Professional - Partner)
 - **Status**: Blood oath bound
@@ -51,7 +56,6 @@ Seeking vengeance for a murdered mentor They've made a deal they're beginning to
 ### Caelum Lightbringer the Cunning (Professional - Employee)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Is from the future

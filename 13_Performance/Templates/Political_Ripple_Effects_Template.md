@@ -296,7 +296,7 @@ world: Both
 **Cultural adaptation requirements**: [How politics changed traditions]
 
 ### Relevant Mechanics
-- [[Political System Rules (02 Worldbuilding)]] - [How mechanics track political changes]
+- [[Political System Rules (02_Worldbuilding)|Political System Rules (02 Worldbuilding)]] - [How mechanics track political changes]
 - [[Faction Standing System]] - [How relationships are measured]
 
 ---

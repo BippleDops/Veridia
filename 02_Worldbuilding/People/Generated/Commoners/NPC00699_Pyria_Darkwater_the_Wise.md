@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Darkwater the Wise", "pyria darkwater the wise", "Pyria Darkwater Wise", "Wise the Darkwater Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Darkwater the Wise
 
 *Dwarf Blacksmith (Commoners), Age 60, Non-binary*
@@ -13,7 +19,6 @@
 Very tall and slender, with Braided elaborately blonde hair and Red eyes. Weathered skin. Burn scars on one side of face.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Always hungry and eating something; Collects unusual and worthless objects
@@ -36,12 +41,10 @@ Former soldier trying to adjust to civilian life They're being blackmailed by so
 - **Short Term**: Sabotage competition
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Orion Emberfall the Redeemed (Criminal - Fence)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
-
 
 ### Pyria Youngblood the Risen (Family - Sibling)
 - **Status**: Professional only
@@ -51,7 +54,6 @@ Former soldier trying to adjust to civilian life They're being blackmailed by so
 ### Malakai Stormwind the Broken (Family - Sibling)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ### Drusilla Moonshadow the Mystic (Family - Cousin)
 - **Status**: Strong and trusting

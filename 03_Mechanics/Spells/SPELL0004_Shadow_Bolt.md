@@ -1,4 +1,5 @@
 ---
+aliases: ["Shadow Bolt", "shadow bolt", "Bolt Shadow"]
 tags: [generated]
 id: SPELL0004_Shadow_Bolt
 created: 2025-08-15T04:09:51.466Z

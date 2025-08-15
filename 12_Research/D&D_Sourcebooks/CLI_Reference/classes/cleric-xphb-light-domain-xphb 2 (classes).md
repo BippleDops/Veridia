@@ -152,3 +152,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Silverquill Student Scc]]
+- [[silverquill-student-scc (backgrounds)]]
+- [[04 Chapter 3 Character Classes]]
+- [[04-chapter-3-character-classes (players-handbook-2024)]]

@@ -92,3 +92,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Crafting Transcendence]]
+- [[Crafting_Transcendence (D&D_References)]]
+- [[Ships - Player_Handout_Aethermoor_Airships]]

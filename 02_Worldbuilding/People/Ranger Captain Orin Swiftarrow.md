@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-ranger-captain-orin-swiftarrow-ranger-captain-orin-swiftarrow.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -229,7 +227,6 @@ Member of House Eagleblood - Trait: curse
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -299,3 +296,11 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Quest - The Root Network_1 (01_Adventures)]]
+- [[Quest - The Root Network_2 (01_Adventures)]]
+- [[Assets Locations Location City Innkeeper Marina Dreamwhisper V1 Innkeeper Marina Dreamwhisper.svg]]
+- [[Assets Locations Location City Noble Palatemaster V1 Noble Palatemaster.png]]
+- [[Assets Symbols Symbol Heraldry Depth Cardinal Wisdom Voidseeke Depth Cardinal Wisdom Voidseeke.svg]]

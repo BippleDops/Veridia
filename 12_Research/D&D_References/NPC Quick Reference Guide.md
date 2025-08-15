@@ -272,3 +272,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Strange sightings suggest a curse
 - The authorities needs help delivering before the new moon
 - Strange dreams suggest a conspiracy
+
+## References
+
+- [[Complete Faction Warfare System]]
+- [[Complete_Faction_Warfare_System (D&D_References)]]

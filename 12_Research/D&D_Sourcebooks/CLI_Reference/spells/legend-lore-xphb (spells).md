@@ -113,4 +113,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[legend-lore-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[Lore|legend-lore-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[06 Chapter 14 Metallic Dragons Arise]]
+- [[06-chapter-14-metallic-dragons-arise (rise-of-tiamat)]]
+- [[Sphinx of Lore Xmm]]
+- [[sphinx-of-lore-xmm (celestial)]]
+- [[Cyclops Oracle Xmm]]
+- [[cyclops-oracle-xmm (giant)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Knowledge Domain]]
+- [[Paladin Xphb Oath of Glory Xphb]]
+- [[cleric-xphb-knowledge-domain (classes)]]
+- [[cleric-xphb-knowledge-domain 2 (classes)]]
+- [[paladin-xphb-oath-of-glory-xphb (classes)]]

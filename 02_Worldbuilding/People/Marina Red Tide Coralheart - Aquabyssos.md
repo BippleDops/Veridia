@@ -46,7 +46,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-marina-red-tide-coralheart-aquabyssos-marina-red-tide-coralheart-aquabyssos.svg)
 
@@ -54,7 +53,6 @@ improvements: 20
 
 # Marina Red Tide Coralheart
 *The Adapted Guide, Shadow Switcher, Depth Walker*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -325,7 +323,6 @@ Legends speak of Marina Red Tide Coralheart   Aquabyssos as a nexus where past a
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Daily Routine
 - **Morning**: Typical activities

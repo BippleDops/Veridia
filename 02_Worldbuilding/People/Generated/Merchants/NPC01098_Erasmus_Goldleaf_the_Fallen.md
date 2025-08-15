@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Goldleaf the Fallen", "erasmus goldleaf the fallen", "Erasmus Goldleaf Fallen", "Fallen the Goldleaf Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Goldleaf the Fallen
 
 *Half-Elf Appraiser (Merchants), Age 50, Male*
@@ -36,27 +42,22 @@ Inherited a failing business and turned it around A prophetic dream has been hau
 - **Short Term**: Gather information
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Wynne Keenblade the Scholar (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Rhiannon Dawnstrider the Redeemed (Personal - Childhood friend)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
-
 
 ### Thalia Zephyrblade the Guardian (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Urien Darkwater the Scholar (Personal - Love interest)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Sells information to all sides

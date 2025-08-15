@@ -204,3 +204,7 @@ Member of House Serpentblood - Trait: curse
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-master-trader-abyss-currentbinder-v1-master-trader-abyss-currentbinder.svg]]

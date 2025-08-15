@@ -235,7 +235,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*
 ## Expansion Books & Setting Guides

@@ -45,15 +45,12 @@ improvements: 20
 - Time pressure
 - Moral dilemmas
 
-
 # Quest - The Blackmail Papers
-
 
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -352,7 +349,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Time Limit
 - **Deadline**: When it must be completed

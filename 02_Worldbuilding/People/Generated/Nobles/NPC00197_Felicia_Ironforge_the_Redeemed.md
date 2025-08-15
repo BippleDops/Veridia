@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Ironforge the Redeemed", "felicia ironforge the redeemed", "Felicia Ironforge Redeemed", "Redeemed the Ironforge Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Ironforge the Redeemed
 
 *Half-Orc Ambassador (Nobles), Age 69, Non-binary*
@@ -36,32 +42,26 @@ Secretly adopted into nobility, living in fear of discovery A prophetic dream ha
 - **Short Term**: Sabotage competition
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Brenna Moonshadow the Strong (Personal - Love interest)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Corvus Proudmore the Wanderer (Political - Ally)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ### Malakai Nightfall (Criminal - Accomplice)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Jorah Youngblood (Criminal - Target)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
 
-
 ### Kaelen Proudmore (Political - Patron)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Child from scandalous affair

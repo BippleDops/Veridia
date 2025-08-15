@@ -143,3 +143,9 @@ The main reason parties get involved
 ## Player Tips
 > 🎮 **Strategy**: How to approach this content
 > Work together and communicate
+
+## References
+
+- [[MASTER_VAULT_INDEX]]
+- [[Marina-Red-Tide-Coralheart]]
+- [[Marina-Red-Tide-Coralheart (D&D_References)]]

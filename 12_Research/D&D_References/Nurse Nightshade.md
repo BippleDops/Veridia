@@ -75,3 +75,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Aethermoor - Session 08 Between Two Worlds]]
+- [[Dr. Elena Compassion]]
+- [[Shadow Portal Nexus (D&D_References)]]

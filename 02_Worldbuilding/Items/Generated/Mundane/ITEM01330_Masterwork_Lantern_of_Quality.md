@@ -1,3 +1,9 @@
+---
+aliases: ["Masterwork Lantern of Quality", "masterwork lantern of quality", "Quality of Lantern Masterwork"]
+tags: [item, equipment]
+type: item
+---
+
 # Masterwork Lantern of Quality
 
 *Mundane, Common*
@@ -13,8 +19,6 @@ A masterwork lantern expertly crafted
 ## Properties
 - Has hidden compartment
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -29,7 +33,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.477Z*

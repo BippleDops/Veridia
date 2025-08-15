@@ -93,3 +93,14 @@ Mentioned in The Hidden Prophecy of Stars
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Grave Domain Xge]]
+- [[cleric-xphb-grave-domain-xge (classes)]]
+- [[cleric-xphb-grave-domain-xge 2 (classes)]]
+- [[Strixhaven Initiate Scc]]
+- [[strixhaven-initiate-scc (feats)]]

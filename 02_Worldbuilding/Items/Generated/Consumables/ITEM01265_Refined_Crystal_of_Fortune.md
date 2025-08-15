@@ -1,3 +1,9 @@
+---
+aliases: ["Refined Crystal of Fortune", "refined crystal of fortune", "Fortune of Crystal Refined"]
+tags: [item, equipment]
+type: item
+---
+
 # Refined Crystal of Fortune
 
 *Consumables, Common*
@@ -13,8 +19,6 @@ A refined crystal swirling with colors
 ## Properties
 - Fly for 1 hour
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -29,7 +33,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.471Z*

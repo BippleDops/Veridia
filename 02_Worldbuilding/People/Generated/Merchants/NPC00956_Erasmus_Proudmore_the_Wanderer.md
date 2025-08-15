@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Proudmore the Wanderer", "erasmus proudmore the wanderer", "Erasmus Proudmore Wanderer", "Wanderer the Proudmore Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Proudmore the Wanderer
 
 *Genasi Trader (Merchants), Age 62, Non-binary*
@@ -57,11 +63,9 @@ Part of a merchant family with connections everywhere Strange abilities have beg
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
 
-
 ### Caelum Keenblade the Strong (Personal - Nemesis)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Sells information to all sides

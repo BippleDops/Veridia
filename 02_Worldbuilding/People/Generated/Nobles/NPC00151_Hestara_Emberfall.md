@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Emberfall", "hestara emberfall", "Emberfall Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Emberfall
 
 *Gnome Noble (Nobles), Age 51, Male*
@@ -13,7 +19,6 @@
 Tall and delicate, with Long and flowing blonde hair and Violet eyes. Unusual hue skin. Burn scars on one side of face.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Believes in every conspiracy theory
@@ -36,7 +41,6 @@ Recently elevated to nobility through service, still learning courtly ways A pro
 - **Short Term**: Survive until next week
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Corvus Ashford (Criminal - Accomplice)
 - **Status**: Strong and trusting
@@ -51,7 +55,6 @@ Recently elevated to nobility through service, still learning courtly ways A pro
 ### Erasmus Emberfall (Family - Parent)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Actually a bastard with no real claim

@@ -118,13 +118,11 @@ Prophetic Dreams is a notable location characterized by its unique features and 
 ### Founding
 Prophetic Dreams was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -132,13 +130,11 @@ Prophetic Dreams was established in the distant past, growing from humble beginn
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -155,8 +151,6 @@ Ongoing situations affecting Prophetic Dreams:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -193,3 +187,15 @@ Ongoing situations affecting Prophetic Dreams:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[The Bathyal Succession]]
+- [[The Deep Prophecies]]
+- [[The Final Choice]]
+- [[The Transformed Citizens]]
+- [[Illyana Glowstream]]
+- [[Surface Signals]]
+- [[Temple Ward]]
+- [[The Void Touched Depths]]
+- [[Whisper-Touched William]]

@@ -34,7 +34,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-lord-aldric-blackwater-lord-aldric-blackwater.svg)
 
@@ -204,7 +203,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -274,3 +272,10 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Quest - The Blackmail Papers_1 (01_Adventures)]]
+- [[Quest - The Blackmail Papers_2 (01_Adventures)]]
+- [[Assets Locations Location City Dock Master Anchor Holdfast Dock Master Anchor Holdfast.svg]]
+- [[Assets Locations Location City Master Elena Preserver V1 Master Elena Preserver.svg]]

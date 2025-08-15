@@ -36,7 +36,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -90,7 +90,7 @@ Archmage Lyralei Stormwind is a undersea element of the setting, known for biolu
 
 Legends speak of Archmage Lyralei Stormwind as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Archmage Lyralei Stormwind.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -106,3 +106,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 - A letter reveals the truth about the cult
 - The authorities needs help finding before winter
+
+## References
+
+- [[Stop the Crystal Festival Ritual (D&D_Statblocks)]]

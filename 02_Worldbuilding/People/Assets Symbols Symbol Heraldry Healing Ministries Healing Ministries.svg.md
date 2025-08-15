@@ -206,3 +206,7 @@ Mentioned in The First Prophecy of Winds
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-echo-succession-the-echo-succession.svg]]

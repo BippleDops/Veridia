@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Underhill", "idris underhill", "Underhill Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Underhill
 
 *Elf Noble (Nobles), Age 64, Non-binary*
@@ -36,17 +42,14 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Avoid the authorities
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Gareth Keenblade (Political - Puppet)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Dara Goldleaf (Political - Ally)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ### Gareth Silverleaf (Professional - Employee)
 - **Status**: Mutually beneficial

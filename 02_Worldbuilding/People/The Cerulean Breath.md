@@ -47,7 +47,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-cerulean-breath-the-cerulean-breath.svg)
 
@@ -55,7 +54,6 @@ improvements: 20
 
 # The Cerulean Breath
 *Maraleth the Eternal Current, Keeper of Deep Memories, Living Library of the Abyss*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -367,7 +365,6 @@ Legends speak of The Cerulean Breath as a nexus where past and present converge.
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -398,3 +395,9 @@ Legends speak of The Cerulean Breath as a nexus where past and present converge.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Harbor Master S License Harbor Master S License.svg]]
+- [[The Cerulean Trench]]
+- [[The Cerulean Trench (D&D_References)]]

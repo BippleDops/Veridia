@@ -1,3 +1,9 @@
+---
+aliases: ["Blessed Axe of Power", "blessed axe of power", "Power of Axe Blessed"]
+tags: [item, equipment]
+type: item
+---
+
 # Blessed Axe of Power
 
 *Weapons, Very Rare*
@@ -16,8 +22,6 @@ A blessed axe carved from dragon bone
 - Grants advantage on initiative
 - Can strike ethereal creatures
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -32,7 +36,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.377Z*

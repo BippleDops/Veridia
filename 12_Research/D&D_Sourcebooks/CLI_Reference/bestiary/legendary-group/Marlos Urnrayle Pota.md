@@ -78,3 +78,8 @@ Mentioned in The Second Prophecy of Winds
 
 - A journal reveals ancient history about the government
 - A document has gone missing and truth emerges
+
+## References
+
+- [[07 Chapter 7 Monsters and Magic Items]]
+- [[07-chapter-7-monsters-and-magic-items (princes-of-the-apocalypse)]]

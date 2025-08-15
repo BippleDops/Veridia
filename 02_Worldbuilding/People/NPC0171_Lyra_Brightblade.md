@@ -1,11 +1,11 @@
 ---
+aliases: ["Lyra Brightblade", "lyra brightblade", "Brightblade Lyra"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -75,8 +75,6 @@ Former soldier who left after a traumatic battle. Years ago, they found an ancie
 ### Skills
 Arcana, Persuasion, Deception
 
-
-
 ## Possessions
 - 83 gold pieces
 - Lucky dice
@@ -88,7 +86,6 @@ Arcana, Persuasion, Deception
 
 ---
 *Generated: 2025-08-15T03:21:04.043Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

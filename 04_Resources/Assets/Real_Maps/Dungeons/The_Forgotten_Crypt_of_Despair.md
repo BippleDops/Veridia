@@ -1,3 +1,8 @@
+---
+tags: [misc]
+type: misc
+---
+
 # The Forgotten Crypt of Despair
 
 *A temple dungeon with 14 rooms*
@@ -164,7 +169,6 @@ Crates and barrels fill the room. Most have been broken open, their contents lon
 
 **Contents**: Ancient weapon rack, Hidden compartment, Puddle of water
 
-
 ## Features
 
 - **Room 0 (storage)**: Sacrificial altar
@@ -217,7 +221,6 @@ Crates and barrels fill the room. Most have been broken open, their contents lon
 - 110 gold pieces
 - Boots of Stealth
 - Treasure map
-
 
 ## Running the Dungeon
 

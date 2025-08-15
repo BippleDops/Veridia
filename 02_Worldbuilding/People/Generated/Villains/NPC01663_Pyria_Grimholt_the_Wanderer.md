@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Grimholt the Wanderer", "pyria grimholt the wanderer", "Pyria Grimholt Wanderer", "Wanderer the Grimholt Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Grimholt the Wanderer
 
 *Goliath Assassin (Villains), Age 56, Non-binary*
@@ -36,7 +42,6 @@ Born into evil but questioning their path They've fallen in love with someone th
 - **Short Term**: Complete current contract
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Nerys Silverleaf the Seeker (Criminal - Informant)
 - **Status**: Blood oath bound
@@ -47,7 +52,6 @@ Born into evil but questioning their path They've fallen in love with someone th
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
 
-
 ### Fiora Keenblade the Risen (Professional - Mentor)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
@@ -56,7 +60,6 @@ Born into evil but questioning their path They've fallen in love with someone th
 ### Lyanna Crystalbrook the Mystic (Criminal - Fence)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Believes they're saving the world

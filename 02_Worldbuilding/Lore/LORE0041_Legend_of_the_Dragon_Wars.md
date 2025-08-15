@@ -1,4 +1,5 @@
 ---
+aliases: ["Legend of the Dragon Wars", "legend of the dragon wars", "Legend of Dragon Wars", "Wars Dragon the of Legend"]
 tags: [generated]
 id: LORE0041_Legend_of_the_Dragon_Wars
 created: 2025-08-15T04:09:51.139Z

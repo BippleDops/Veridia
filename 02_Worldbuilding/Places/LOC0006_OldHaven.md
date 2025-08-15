@@ -1,4 +1,5 @@
 ---
+aliases: ["OldHaven", "oldhaven"]
 tags: [generated]
 id: LOC0006
 created: 2025-08-15T04:09:51.243Z
@@ -21,20 +22,17 @@ A dangerous underground complex filled with treasures and traps
 - **Current Leader**: Guildmaster council
 - **Political Stability**: Stable
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -94,7 +92,6 @@ A dangerous underground complex filled with treasures and traps
 
 ---
 *Generated: 2025-08-15T03:21:04.069Z*
-
 
 ## History
 - **Founding**: Origin story

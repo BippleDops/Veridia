@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Lightbringer the Strong", "vesper lightbringer the strong", "Vesper Lightbringer Strong", "Strong the Lightbringer Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Lightbringer the Strong
 
 *Tiefling Ambassador (Nobles), Age 53, Male*
@@ -36,7 +42,6 @@ Exiled from their homeland, trying to rebuild their power base They recently dis
 - **Short Term**: Sabotage competition
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Delara Ashford the Strong (Family - Child)
 - **Status**: Recently reconciled
@@ -47,7 +52,6 @@ Exiled from their homeland, trying to rebuild their power base They recently dis
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
 
-
 ### Baelor Stormwind the Wanderer (Personal - Childhood friend)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
@@ -56,7 +60,6 @@ Exiled from their homeland, trying to rebuild their power base They recently dis
 ### Baelor Keenblade (Professional - Rival)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

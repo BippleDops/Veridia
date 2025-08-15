@@ -55,3 +55,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 
 ## DM Notes
 *This NPC can serve multiple roles depending on campaign needs. Their true loyalties are intentionally ambiguous.*
+
+## References
+
+- [[Assets Symbols Symbol Heraldry Foreman Prime Salvage Maste Foreman Prime Salvage Maste.svg]]

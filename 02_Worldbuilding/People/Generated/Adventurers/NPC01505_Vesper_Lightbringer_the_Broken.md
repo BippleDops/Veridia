@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Lightbringer the Broken", "vesper lightbringer the broken", "Vesper Lightbringer Broken", "Broken the Lightbringer Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Lightbringer the Broken
 
 *Dwarf Fighter (Adventurers), Age 55, Female*
@@ -52,11 +58,9 @@ Chosen by fate to fulfill an ancient prophecy They've made a deal they're beginn
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Malakai Xendar the Guardian (Professional - Rival)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Carries a world-ending artifact

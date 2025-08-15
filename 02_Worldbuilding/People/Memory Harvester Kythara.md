@@ -42,7 +42,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-memory-harvester-kythara-memory-harvester-kythara.svg)
 
@@ -50,7 +49,6 @@ improvements: 20
 
 # Memory Harvester Kythara
 *Tender of the Mother's Dreams, Shepherd of Forgotten Thoughts*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -785,7 +783,6 @@ Mentioned in The First Prophecy of Shadows
 - 20% middle class
 - 79% working poor
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -821,3 +818,16 @@ Mentioned in The First Prophecy of Shadows
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Quest - The Convergence Crisis]]
+- [[Archivist Mnemonic the Forgotten]]
+- [[Assets Locations Location City Spymaster Crow Spymaster Crow.svg]]
+- [[Assets Symbols Symbol Heraldry the Great Resonance the Great Resonance.svg]]
+- [[Pressure Angel Benthia]]
+- [[The Barnacle]]
+- [[Archivist Mnemonic the Forgotten (D&D_Statblocks)]]
+- [[Pressure Angel Benthia (D&D_Statblocks)]]
+- [[The Barnacle (D&D_Statblocks)]]
+- [[The Crown's Burden (D&D_Statblocks)]]

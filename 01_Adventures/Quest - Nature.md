@@ -14,7 +14,6 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 > [!figure] Asset
 ![](04_Resources/Assets/Portraits/portrait-npc-quest-nature-quest-nature.svg)
 
@@ -55,12 +54,10 @@ accessibility:
 
 # Quest - Nature
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -86,7 +83,7 @@ accessibility:
 Quest - Nature moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.
 
 - Ideal: Stability through controlled risk.
-- Bond: A family archive tied to [[Lighthouse of Storms]].
+- Bond: A family archive tied to [[Lighthouse_of_Storms|Lighthouse of Storms]].
 - Flaw: Overconfidence in leverage; underestimates zealots and true believers.
 
 ## Player-Facing Summary
@@ -181,7 +178,6 @@ Mentioned in The Hidden Prophecy of Shadows
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## Time Limit
 - **Deadline**: When it must be completed
 - **Consequences**: What happens if late
@@ -217,3 +213,8 @@ Mentioned in The Hidden Prophecy of Shadows
 ## Scaling Options
 - **Easy Mode**: Reduced difficulty
 - **Hard Mode**: Increased challenge
+
+## References
+
+- [[The Forsaken Consortium Collective]]
+- [[The Forsaken Consortium Collective (D&D_References)]]

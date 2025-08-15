@@ -84,7 +84,7 @@ Crystalhaven stands as the shining jewel of [[Aethermoor|02 Worldbuilding/Places
 ### The Scholar's Sanctum
 **Sensory Signature**: Quiet contemplation enhanced by crystal-amplified mental clarity. The air carries the crisp scent of preserved knowledge and organized thought. Sound here is naturally muffled to promote concentration, while crystal formations provide perfect reading light that adjusts to individual needs. Temperature control creates comfortable study environments regardless of weather.
 
-- **[[The Grand Archive]]** - Overseen by [[Keeper Elara Moonwhisper]]
+- **** - Overseen by [[Keeper Elara Moonwhisper]]
   *Library Environment*: Crystal formations preserve and organize knowledge, creating an environment where information can literally be felt in the air. Books glow softly when relevant to a reader's research, while crystal reading-lights adjust automatically for optimal comprehension. The silence here is profound but comfortable, broken only by the soft whisper of turning pages and the occasional crystal chime of discovery.
 
 - **[[The Crystal Academy]]** - Where [[Professor Aldric Crystalweaver]] teaches

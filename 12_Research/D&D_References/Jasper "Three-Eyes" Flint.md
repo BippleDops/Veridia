@@ -68,3 +68,14 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Enforcer Chief Mako Ironjaw]]
+- [[Shadow Broker Mist]]
+- [[Shadow Conspiracy (People)]]
+- [[Aquabyssos - Session 06 - The Silhouette Surgeons]]
+- [[Crystalhaven (D&D_References)]]
+- [[Enforcer Chief Mako Ironjaw (D&D_References)]]
+- [[Shadow Broker Mist (D&D_References)]]
+- [[Shadow Conspiracy (D&D_References)]]

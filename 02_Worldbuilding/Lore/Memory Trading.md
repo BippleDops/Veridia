@@ -88,3 +88,17 @@ Memory Trading represents a crucial aspect of the world's history, cosmology, or
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+## References
+
+- [[Aquabyssos Cultural Codex]]
+- [[Aurelius Goldwave]]
+- [[Memory Trading Economy]]
+- [[Multi-Phase Boss Fights]]
+- [[Silver Mask]]
+- [[The Crimson Hand]]
+- [[Reflection Pools - Surgical Theater]]
+- [[Shadow Market Canals]]
+- [[The Phosphor Markets]]
+- [[Topic Matrix]]
+- [[Topic_Matrix (Indexes)]]

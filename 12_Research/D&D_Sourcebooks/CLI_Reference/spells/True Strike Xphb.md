@@ -101,3 +101,11 @@ Mentioned in The First Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Mind Flayer Psion Vgm]]
+- [[mind-flayer-psion-vgm (aberration)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]

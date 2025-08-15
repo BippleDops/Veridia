@@ -76,7 +76,6 @@ creature: Custom NPC
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
 
-
 ## See Also
 - Related content
 - Similar topics
@@ -90,3 +89,10 @@ creature: Custom NPC
 ## Player Tips
 > 🎮 **Strategy**: How to approach this content
 > Work together and communicate
+
+## References
+
+- [[Assets Locations Location City the Null Cathedral V1 the Null Cathedral.svg]]
+- [[NPC2_Quick_Ref]]
+- [[Location_Template_1 (09_Templates)]]
+- [[NPC_Template_1 (09_Templates)]]

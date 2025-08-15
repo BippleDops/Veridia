@@ -41,7 +41,7 @@ Born into modest circumstances, Major NPCs rose through dedication and cunning t
 - **Equipment**: Various tools of their trade
 
 ## Relationships
-- **[[Allies]]**: [[The [[Merchant]]'s Guild]], [[City Watch]]
+- **[[Allies]]**: [[Merchant|The [[Merchant]]'s Guild]], [[City Watch]]
 - **Rivals**: [[Shadow Conspiracy]]
 - **Contacts**: Network of informants throughout the city
 
@@ -53,5 +53,9 @@ Actively involved in current events, pursuing their own agenda while maintaining
 2. Has information about a mystery [[The Party]] is investigating
 3. May become an ally or adversary based on party actions
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 *This NPC can serve multiple roles depending on campaign needs. Their true loyalties are intentionally ambiguous.*
+
+## References
+
+- [[Major_NPCs (02_Worldbuilding)]]

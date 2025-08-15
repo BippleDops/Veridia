@@ -93,3 +93,20 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Hermit Xphb]]
+- [[hermit-xphb (backgrounds)]]
+- [[Monk Xphb Warrior of Mercy Xphb]]
+- [[monk-xphb-warrior-of-mercy-xphb (classes)]]
+- [[diseases]]
+- [[Adventuring Gear Phb]]
+- [[Crafting an Item Resources and Resolution Xge]]
+- [[Magic Item Tools Xdmg]]
+- [[Tools Phb]]
+- [[adventuring-gear-phb (tables)]]
+- [[crafting-an-item-resources-and-resolution-xge (tables)]]
+- [[magic-item-tools-xdmg (tables)]]
+- [[tools-phb (tables)]]

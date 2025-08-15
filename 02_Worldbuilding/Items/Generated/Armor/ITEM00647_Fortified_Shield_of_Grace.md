@@ -1,3 +1,9 @@
+---
+aliases: ["Fortified Shield of Grace", "fortified shield of grace", "Grace of Shield Fortified"]
+tags: [item, equipment]
+type: item
+---
+
 # Fortified Shield of Grace
 
 *Armor, Rare*
@@ -15,8 +21,6 @@ A fortified shield bearing ancient runes
 - Advantage on saving throws
 - Advantage on saving throws
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -31,7 +35,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.402Z*

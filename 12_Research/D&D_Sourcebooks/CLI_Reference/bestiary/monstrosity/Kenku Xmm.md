@@ -148,3 +148,19 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[kenku-xmm (monstrosity)]]
+- [[Forest Encounters Levels 14 Xge]]
+- [[Monsters by Habitat Forest Monsters Xmm]]
+- [[Monsters by Habitat Urban Monsters Xmm]]
+- [[Random Hag Minions Brutes Vgm]]
+- [[Urban Encounters Levels 14 Xge]]
+- [[Urban Encounters Levels 510 Xge]]
+- [[forest-encounters-levels-14-xge (tables)]]
+- [[monsters-by-habitat-forest-monsters-xmm (tables)]]
+- [[monsters-by-habitat-urban-monsters-xmm (tables)]]
+- [[random-hag-minions-brutes-vgm (tables)]]
+- [[urban-encounters-levels-14-xge (tables)]]
+- [[urban-encounters-levels-510-xge (tables)]]

@@ -367,7 +367,6 @@ Steadyanchor Docks connects to numerous important elements throughout Aquabyssos
 
 *Steadyanchor Docks stands as the commercial heart of Aquabyssos, where the steady flow of goods and the reliable service of dedicated professionals ensure that the city's prosperity continues to grow with each tide, anchored in the unshakeable foundation of maritime commerce.*
 
-
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
@@ -413,13 +412,11 @@ Dockmaster Bruno Steadyanchor is a notable location characterized by its unique 
 ### Founding
 Dockmaster Bruno Steadyanchor was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -487,7 +484,6 @@ Key stop on metals trade route
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -523,3 +519,8 @@ Key stop on metals trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[The Phosphor Markets]]
+- [[The Phosphor Markets (D&D_References)]]

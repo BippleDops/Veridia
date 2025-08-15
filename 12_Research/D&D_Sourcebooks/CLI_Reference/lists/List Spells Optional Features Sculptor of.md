@@ -75,3 +75,7 @@ Mentioned in The First Prophecy of Shadows
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Master_Spell_Compendium]]

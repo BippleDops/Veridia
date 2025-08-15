@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Frostwhisper the Seeker", "idris frostwhisper the seeker", "Idris Frostwhisper Seeker", "Seeker the Frostwhisper Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Frostwhisper the Seeker
 
 *Halfling Baker (Commoners), Age 58, Non-binary*
@@ -42,16 +48,13 @@ Runaway from an arranged marriage, starting a new life They've made a deal they'
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Delara Proudmore the Broken (Criminal - Accomplice)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
 
-
 ### Ewan Ashford the Bold (Political - Ally)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
-
 
 ### Baelor Stormwind the Redeemed (Family - Spouse)
 - **Status**: On the verge of collapse
@@ -61,7 +64,6 @@ Runaway from an arranged marriage, starting a new life They've made a deal they'
 ### Delara Zephyrblade the Cunning (Criminal - Target)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Can hear the thoughts of others

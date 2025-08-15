@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Ashford the Lost", "faelyn ashford the lost", "Faelyn Ashford Lost", "Lost the Ashford Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Ashford the Lost
 
 *Human Shopkeeper (Merchants), Age 38, Female*
@@ -36,22 +42,18 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 - **Short Term**: Sabotage competition
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Wynne Keenblade the Mystic (Political - Ally)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
 
-
 ### Zephyr Ashford the Broken (Family - Cousin)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
 
-
 ### Caelum Thornweave the Redeemed (Criminal - Informant)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Is actually a spy for foreign power

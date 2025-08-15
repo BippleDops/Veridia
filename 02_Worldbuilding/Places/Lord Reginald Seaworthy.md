@@ -67,7 +67,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -134,7 +134,7 @@ Originally from a mari[[Time]] [[Merchant]] family, Reginald came to [[Aquabysso
 
 ### Key Achievements
 **Trade Agreement Expansion**: Successfully negotiated multiple beneficial trade deals increasing commerce between realms  
-**[[[[Cultural Exchange]] Programs]]**: Established educational and artistic exchange [[Initiative]]s building mutual understanding  
+**[[Cultural Exchange|[[Cultural Exchange]] Programs]]**: Established educational and artistic exchange [[Initiative]]s building mutual understanding  
 **Conflict Prevention**: Prevented three potential diplomatic crises through skillful mediation and compromise  
 **Alliance Building**: Helped create cooperative frameworks for addressing shared challenges and opportunities  
 
@@ -185,7 +185,7 @@ Legends speak of Lord Reginald Seaworthy as a nexus where past and present conve
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -206,13 +206,11 @@ Lord Reginald Seaworthy is a notable location characterized by its unique featur
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -220,13 +218,11 @@ Lord Reginald Seaworthy is a notable location characterized by its unique featur
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -275,7 +271,6 @@ Ongoing situations affecting Lord Reginald Seaworthy:
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -311,3 +306,8 @@ Ongoing situations affecting Lord Reginald Seaworthy:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Pearl_Harbor_City (Places)]]
+- [[Pearl_Harbor_City (D&D_References)]]

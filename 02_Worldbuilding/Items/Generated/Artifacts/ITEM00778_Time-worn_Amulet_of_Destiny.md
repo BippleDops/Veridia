@@ -1,3 +1,9 @@
+---
+aliases: ["Time-worn Amulet of Destiny", "time-worn amulet of destiny", "Destiny of Amulet Time-worn"]
+tags: [item, equipment]
+type: item
+---
+
 # Time-worn Amulet of Destiny
 
 *Artifacts, Artifact*
@@ -16,8 +22,6 @@ A time-worn amulet radiating otherworldly power
 - Regenerate 1 hp/round
 - Plane shift 1/day
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -32,7 +36,6 @@ Priceless
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.425Z*

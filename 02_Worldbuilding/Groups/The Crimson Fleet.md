@@ -156,3 +156,23 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[The Brotherhood of the Black Anchor]]
+- [[The Grand Trade Routes]]
+- [[Admiral Cassandra Stormwind]]
+- [[The Azure Coast]]
+- [[The Crimson Foundries]]
+- [[The Floating Markets of Nereidios]]
+- [[The Iron Pits of Malachar]]
+- [[The Kraken's Harbor]]
+- [[The Slave Markets of Tethys]]
+- [[Admiral Cassandra Stormwind (D&D_References)]]
+- [[The Azure Coast (D&D_References)]]
+- [[The Brotherhood of the Black Anchor (D&D_References)]]
+- [[The Floating Markets of Nereidios (D&D_References)]]
+- [[The Kraken's Harbor (D&D_References)]]
+- [[The Slave Markets of Tethys (D&D_References)]]
+- [[The Crimson Foundries (D&D_Statblocks)]]
+- [[The Iron Pits of Malachar (D&D_Statblocks)]]

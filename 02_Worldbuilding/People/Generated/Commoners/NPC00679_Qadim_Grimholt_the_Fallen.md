@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Grimholt the Fallen", "qadim grimholt the fallen", "Qadim Grimholt Fallen", "Fallen the Grimholt Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Grimholt the Fallen
 
 *Half-Orc Blacksmith (Commoners), Age 32, Male*
@@ -36,12 +42,10 @@ Survivor of a disaster that destroyed their village They're being blackmailed by
 - **Short Term**: Survive until next week
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Hilda Nightfall the Wise (Political - Patron)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ### Branwen Thornweave the Guardian (Family - Parent)
 - **Status**: Complicated history
@@ -52,7 +56,6 @@ Survivor of a disaster that destroyed their village They're being blackmailed by
 - **Status**: Secretly hostile
 - **History**: United by common enemy
 
-
 ### Qadim Silverleaf the Wanderer (Political - Puppet)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
@@ -61,7 +64,6 @@ Survivor of a disaster that destroyed their village They're being blackmailed by
 ### Fiora Thornweave the Swift (Criminal - Target)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Witnessed a noble's crime

@@ -1,3 +1,9 @@
+---
+aliases: ["Refined Potion of Vigor", "refined potion of vigor", "Vigor of Potion Refined"]
+tags: [item, equipment]
+type: item
+---
+
 # Refined Potion of Vigor
 
 *Consumables, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A refined potion emanating sweet fragrance
 - Restore 4d4+4 hit points
 - Restore 4d4+4 hit points
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -31,7 +35,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.465Z*

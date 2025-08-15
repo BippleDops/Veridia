@@ -1,4 +1,5 @@
 ---
+aliases: ["Celestial Blessing", "celestial blessing", "Blessing Celestial"]
 tags: [generated]
 id: SPELL0029_Celestial_Blessing
 created: 2025-08-15T04:09:51.472Z

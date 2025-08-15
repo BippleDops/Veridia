@@ -114,3 +114,7 @@ improvements: 20
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Assets Locations Location City Harbor Master Tideshade Harbor Master Tideshade.svg]]

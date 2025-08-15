@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Jadeclaw", "erasmus jadeclaw", "Jadeclaw Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Jadeclaw
 
 *Half-Elf Heir (Nobles), Age 48, Male*
@@ -36,17 +42,14 @@ Exiled from their homeland, trying to rebuild their power base They're being bla
 - **Short Term**: Make this month's payment
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Drusilla Grimholt (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Gareth Lightbringer (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ### Aeliana Zephyrblade (Family - Sibling)
 - **Status**: Complicated history

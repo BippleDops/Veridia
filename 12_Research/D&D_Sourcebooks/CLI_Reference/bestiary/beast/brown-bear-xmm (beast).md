@@ -142,3 +142,16 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[menagerie]]
+- [[Brown Bear Xmm]]
+- [[2 Appendix a Miscellaneous Creatures]]
+- [[2-appendix-a-miscellaneous-creatures (monster-manual-2014)]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[10-appendix-b-creature-stat-blocks (players-handbook-2024)]]
+- [[Bag of Tricks Rust Xdmg]]
+- [[bag-of-tricks-rust-xdmg (items)]]
+- [[Monsters by Habitat Hill Monsters Xmm]]
+- [[monsters-by-habitat-hill-monsters-xmm (tables)]]

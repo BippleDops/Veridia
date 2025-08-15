@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Lightbringer the Strong", "gavril lightbringer the strong", "Gavril Lightbringer Strong", "Strong the Lightbringer Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Lightbringer the Strong
 
 *Firbolg Fisher (Commoners), Age 44, Male*
@@ -13,7 +19,6 @@
 Tall and slender, with Partially shaved blonde hair and Gray eyes. Dark skin. Unusual eye color for their race.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Extremely superstitious about everything; Collects unusual and worthless objects
@@ -36,27 +41,22 @@ Family has worked the same trade for generations, but times are changing An old 
 - **Short Term**: Make this month's payment
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Aldric Proudmore the Strong (Professional - Rival)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Thalia Thornweave the Scholar (Personal - Nemesis)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ### Aeliana Underhill the Cunning (Political - Ally)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Baelor Grimholt the Scholar (Professional - Partner)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Knows location of ancient treasure

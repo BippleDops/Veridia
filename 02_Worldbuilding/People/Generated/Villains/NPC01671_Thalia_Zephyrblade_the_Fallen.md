@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Zephyrblade the Fallen", "thalia zephyrblade the fallen", "Thalia Zephyrblade Fallen", "Fallen the Zephyrblade Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Zephyrblade the Fallen
 
 *Dwarf Corrupt Noble (Villains), Age 41, Non-binary*
@@ -36,32 +42,26 @@ Corrupted by an artifact or dark magic They're being blackmailed by someone from
 - **Short Term**: Survive until next week
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Jorah Winterborn the Broken (Family - Spouse)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Ysara Ironforge the Lost (Criminal - Handler)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
-
 
 ### Baelor Ironwood the Swift (Criminal - Accomplice)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Caelum Grimholt the Scholar (Criminal - Informant)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Dara Silverleaf the Lost (Political - Opposition)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Believes they're saving the world

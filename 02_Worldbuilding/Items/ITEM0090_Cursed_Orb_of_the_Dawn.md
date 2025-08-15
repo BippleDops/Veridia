@@ -1,4 +1,5 @@
 ---
+aliases: ["Cursed Orb of the Dawn", "cursed orb of the dawn", "Cursed Orb of Dawn", "Dawn the of Orb Cursed"]
 tags: [generated]
 id: ITEM0090
 created: 2025-08-15T04:09:51.106Z

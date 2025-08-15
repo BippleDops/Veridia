@@ -111,13 +111,11 @@ Pilgrimage Routes is a notable location characterized by its unique features and
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -125,13 +123,11 @@ Pilgrimage Routes is a notable location characterized by its unique features and
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -166,7 +162,6 @@ Ongoing situations affecting Pilgrimage Routes:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -203,3 +198,9 @@ Ongoing situations affecting Pilgrimage Routes:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Mad Oracle Thessaly]]
+- [[Temple Ward]]
+- [[Mad Oracle Thessaly (D&D_References)]]

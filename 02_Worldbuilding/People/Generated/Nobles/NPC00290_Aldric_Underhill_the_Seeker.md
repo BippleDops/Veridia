@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Underhill the Seeker", "aldric underhill the seeker", "Aldric Underhill Seeker", "Seeker the Underhill Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Underhill the Seeker
 
 *Half-Orc Aristocrat (Nobles), Age 45, Female*
@@ -36,22 +42,18 @@ Secretly adopted into nobility, living in fear of discovery They've made a deal 
 - **Short Term**: Recruit new members
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Drusilla Oakenshield (Criminal - Target)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Dara Ravenheart (Personal - Love interest)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
 
-
 ### Aeliana Hawthorne (Professional - Mentor)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

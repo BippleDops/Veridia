@@ -66,3 +66,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Timeline of the Drowning]]
+- [[Timeline of the Drowning (D&D_References)]]
+- [[Timeline of the Drowning 3 (D&D_References)]]

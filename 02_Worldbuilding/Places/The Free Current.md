@@ -48,7 +48,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -99,7 +99,7 @@ improvements: 20
 The Free Current stands as [[Aquabyssos]]'s most radical experiment in individual liberty and economic freedom. This sprawling district operates under minimal government, where trade flows as freely as the waters themselves and personal liberty is considered the highest virtue. Founded by refugees from authoritarian regimes and entrepreneurial spirits seeking opportunity, the Free Current has evolved into a bustling center of commerce, innovation, and controlled chaos where anything can be bought, sold, or traded as long as it doesn't harm others.
 
 ### The Great Exodus
-**Period**: 250 years ago, mass flight from the [[[[Coral]] Throne Syndicate]]'s oppressive rule  
+**Period**: 250 years ago, mass flight from the [[Coral|[[Coral]] Throne Syndicate]]'s oppressive rule  
 **Catalyst**: New taxation laws and trading restrictions imposed by authoritarian regimes  
 **Leaders**: [[Captain Torrent Freewater]] and the [[Liberty Coalition]]  
 **Numbers**: Over 3,000 initial refugees seeking economic and personal freedom  
@@ -128,7 +128,7 @@ The Free Current stands as [[Aquabyssos]]'s most radical experiment in individua
 
 ### The Shadow Market Crisis
 **Event**: 75 years ago, discovery of large illegal trade operations  
-**Problem**: [[Criminal Organizations]] exploiting Free Current's minimal regulations  
+**Problem**: [[Criminal_Organizations|Criminal Organizations]] exploiting Free Current's minimal regulations  
 **Response**: First major expansion of government powers to combat organized crime  
 **Debate**: Fierce internal conflict over how much freedom to sacrifice for safety  
 **Resolution**: Compromise allowing limited law enforcement while preserving core freedoms
@@ -674,7 +674,7 @@ Legends speak of The Free Current as a nexus where past and present converge. Lo
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -695,13 +695,11 @@ The Free Current is a notable location characterized by its unique features and 
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -709,13 +707,11 @@ The Free Current is a notable location characterized by its unique features and 
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -754,7 +750,6 @@ Ongoing situations affecting The Free Current:
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -790,3 +785,20 @@ Ongoing situations affecting The Free Current:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Abyssos Prime Docks]]
+- [[Blood Current Express]]
+- [[Royal Palace]]
+- [[Surface Tensions]]
+- [[The Depth Market]]
+- [[The Void Touched Depths]]
+- [[Abyssos Prime Docks (D&D_References)]]
+- [[Blood Current Express (D&D_References)]]
+- [[Royal Palace (D&D_References)]]
+- [[Surface Tensions (D&D_References)]]
+- [[The Cerulean Trench (D&D_References)]]
+- [[The Depth Market (D&D_References)]]
+- [[The Phosphor Markets (D&D_References)]]
+- [[The Void Touched Depths (D&D_Statblocks)]]

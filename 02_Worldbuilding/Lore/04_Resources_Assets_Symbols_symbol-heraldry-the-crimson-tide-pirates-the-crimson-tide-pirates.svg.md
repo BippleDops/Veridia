@@ -26,3 +26,10 @@ Further information about this topic will be developed as the campaign progresse
 - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery
+
+## References
+
+- [[Assets Locations Location City Communications Master Signal Cryptkeeper V1 Communications Master Signal Cryptkeeper.svg]]
+- [[Assets Portraits Portrait NPC Captain Scarlet Torrent Captain Scarlet Torrent.svg]]
+- [[Assets Portraits Portrait NPC Pirate Lords of the Spiral Depths Pirate Lords of the Spiral Depths.svg]]
+- [[Assets Symbols Symbol Heraldry the Crystal Throne the Crystal Throne.svg]]

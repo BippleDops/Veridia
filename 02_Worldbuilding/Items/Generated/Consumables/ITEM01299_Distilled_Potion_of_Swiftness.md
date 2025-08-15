@@ -1,3 +1,9 @@
+---
+aliases: ["Distilled Potion of Swiftness", "distilled potion of swiftness", "Swiftness of Potion Distilled"]
+tags: [item, equipment]
+type: item
+---
+
 # Distilled Potion of Swiftness
 
 *Consumables, Common*
@@ -13,8 +19,6 @@ A distilled potion emanating sweet fragrance
 ## Properties
 - Resistance for 10 minutes
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -29,7 +33,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.474Z*

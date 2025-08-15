@@ -177,3 +177,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Vampire Nightbringer Xmm]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[Monsters by Habitat Urban Monsters Xmm]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]
+- [[monsters-by-habitat-urban-monsters-xmm (tables)]]

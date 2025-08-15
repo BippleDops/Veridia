@@ -1,6 +1,5 @@
 ---
 
-
 title: Mystery Framework
 type: investigation
 tags:
@@ -372,7 +371,6 @@ Mentioned in The Second Prophecy of Winds
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## See Also
 - Related content

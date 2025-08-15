@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Oakenshield the Fallen", "zephyr oakenshield the fallen", "Zephyr Oakenshield Fallen", "Fallen the Oakenshield Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Oakenshield the Fallen
 
 *Tabaxi Assassin (Villains), Age 68, Male*
@@ -13,7 +19,6 @@
 Very short and heavyset, with Dreadlocks silver hair and Amber eyes. Brown skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Extremely superstitious about everything; Collects unusual and worthless objects
@@ -36,22 +41,18 @@ Born into evil but questioning their path They're being blackmailed by someone f
 - **Short Term**: Recruit new members
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Branwen Silverleaf the Redeemed (Family - Child)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Vesper Stormwind the Fallen (Professional - Rival)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Hilda Ashford the Risen (Professional - Employer)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
-
 
 ### Caelum Brightblade the Wanderer (Criminal - Handler)
 - **Status**: On the verge of collapse
@@ -62,11 +63,9 @@ Born into evil but questioning their path They're being blackmailed by someone f
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Elric Emberfall the Risen (Political - Opposition)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Knows how the world will end

@@ -92,3 +92,7 @@ Mentioned in The Hidden Prophecy of Shadows
 - Someone is hunting a artifact for love
 - A noble needs help investigating before dawn
 - A corpse reveals a betrayal about this place
+
+## References
+
+- [[Master_Item_Catalog]]

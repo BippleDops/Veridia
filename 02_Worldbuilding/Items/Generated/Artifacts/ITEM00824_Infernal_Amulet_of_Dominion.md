@@ -1,3 +1,9 @@
+---
+aliases: ["Infernal Amulet of Dominion", "infernal amulet of dominion", "Dominion of Amulet Infernal"]
+tags: [item, equipment]
+type: item
+---
+
 # Infernal Amulet of Dominion
 
 *Artifacts, Very Rare*

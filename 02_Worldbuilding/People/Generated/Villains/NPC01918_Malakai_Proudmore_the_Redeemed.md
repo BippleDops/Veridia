@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Proudmore the Redeemed", "malakai proudmore the redeemed", "Malakai Proudmore Redeemed", "Redeemed the Proudmore Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Proudmore the Redeemed
 
 *Gnome Crime Boss (Villains), Age 38, Female*
@@ -13,7 +19,6 @@
 Above average and lanky, with Dreadlocks silver hair and Amber eyes. Pale skin. Missing finger on left hand.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Flirts with everyone regardless of interest; Extremely superstitious about everything
@@ -36,7 +41,6 @@ Corrupted by an artifact or dark magic They've fallen in love with someone they 
 - **Short Term**: Sabotage competition
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Urien Stormwind the Seeker (Professional - Mentor)
 - **Status**: One-sided affection
@@ -47,16 +51,13 @@ Corrupted by an artifact or dark magic They've fallen in love with someone they 
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Kaelen Quicksilver the Guardian (Political - Opposition)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
 
-
 ### Drusilla Oakenshield the Seeker (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Knows how the world will end

@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Emberfall the Fallen", "vesper emberfall the fallen", "Vesper Emberfall Fallen", "Fallen the Emberfall Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Emberfall the Fallen
 
 *Dwarf Carpenter (Commoners), Age 47, Male*
@@ -13,7 +19,6 @@
 Tall and delicate, with Braided elaborately bald hair and Green eyes. Weathered skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Never backs down from any challenge
@@ -36,22 +41,18 @@ Survivor of a disaster that destroyed their village A family member's death has 
 - **Short Term**: Recruit new members
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Ysara Keenblade the Wise (Professional - Partner)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Ysara Grimholt the Wise (Personal - Best friend)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
 
-
 ### Idris Ashford the Strong (Political - Spy)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Witnessed a noble's crime

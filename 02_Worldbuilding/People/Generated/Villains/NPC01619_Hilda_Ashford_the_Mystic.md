@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Ashford the Mystic", "hilda ashford the mystic", "Hilda Ashford Mystic", "Mystic the Ashford Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Ashford the Mystic
 
 *Genasi Cultist (Villains), Age 47, Non-binary*
@@ -36,17 +42,14 @@ Born into evil but questioning their path They've made a deal they're beginning 
 - **Short Term**: Find missing person
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Idris Nightfall the Wise (Political - Opposition)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Erasmus Lightbringer the Scholar (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
-
 
 ### Lyanna Dawnstrider the Broken (Family - Child)
 - **Status**: On the verge of collapse
@@ -57,11 +60,9 @@ Born into evil but questioning their path They've made a deal they're beginning 
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Kaelen Youngblood the Swift (Criminal - Handler)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Knows how the world will end

@@ -201,3 +201,8 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[The Bone Palace of Sorrows]]
+- [[The Bone Palace of Sorrows (D&D_References)]]

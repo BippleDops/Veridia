@@ -104,3 +104,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb War Domain Xphb]]
+- [[cleric-xphb-war-domain-xphb (classes)]]
+- [[Crusaders Shortsword Cos]]
+- [[crusaders-shortsword-cos (items)]]

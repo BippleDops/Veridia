@@ -1,3 +1,9 @@
+---
+aliases: ["Blazing Crossbow of Wounding", "blazing crossbow of wounding", "Wounding of Crossbow Blazing"]
+tags: [item, equipment]
+type: item
+---
+
 # Blazing Crossbow of Wounding
 
 *Weapons, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A blazing crossbow forged from meteoric iron
 - Returns when thrown
 - Critical hits on 19-20
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -30,7 +34,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.361Z*

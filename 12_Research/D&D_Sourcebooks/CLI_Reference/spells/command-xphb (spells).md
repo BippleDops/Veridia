@@ -110,7 +110,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -123,3 +122,47 @@ Contextual improvement based on 12_Research
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[02 Chapter 1 Greenest in Flames]]
+- [[02-chapter-1-greenest-in-flames (hoard-of-the-dragon-queen)]]
+- [[Mind Flayer Psion Vgm]]
+- [[Swarm of Cranium Rats Mpmm]]
+- [[mind-flayer-psion-vgm (aberration)]]
+- [[swarm-of-cranium-rats-mpmm (aberration)]]
+- [[Adult Red Dragon Xmm]]
+- [[Ancient Red Dragon Xmm]]
+- [[adult-red-dragon-xmm (dragon)]]
+- [[ancient-red-dragon-xmm (dragon)]]
+- [[Amnizu Mpmm]]
+- [[Cambion Xmm]]
+- [[Sibriex Mpmm]]
+- [[amnizu-mpmm (fiend)]]
+- [[cambion-xmm (fiend)]]
+- [[sibriex-mpmm (fiend)]]
+- [[Grazzt Mtf]]
+- [[grazzt-mtf (legendary-group)]]
+- [[Kraken Priest Mpmm]]
+- [[kraken-priest-mpmm (monstrosity)]]
+- [[Bone Naga Xmm]]
+- [[Death Knight Xmm]]
+- [[Mummy Lord Xmm (undead)]]
+- [[Vampire Umbral Lord Xmm]]
+- [[Vampire Xmm (undead)]]
+- [[bone-naga-xmm (undead)]]
+- [[death-knight-xmm (undead)]]
+- [[mummy-lord-xmm (undead)]]
+- [[vampire-umbral-lord-xmm (undead)]]
+- [[vampire-xmm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Knowledge Domain]]
+- [[Warlock Xphb Fiend Patron Xphb]]
+- [[cleric-xphb-knowledge-domain (classes)]]
+- [[cleric-xphb-knowledge-domain 2 (classes)]]
+- [[warlock-xphb-fiend-patron-xphb (classes)]]
+- [[Staff of Charming Xdmg]]
+- [[Wand of Fear Xdmg]]
+- [[staff-of-charming-xdmg (items)]]
+- [[wand-of-fear-xdmg (items)]]

@@ -256,3 +256,21 @@ Secret locations for sensitive activities.
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Corrupted Clients (D&D_References)]]
+- [[Current Peacefulflow (D&D_References)]]
+- [[Depth Cardinal Justice Currentkeeper (D&D_References)]]
+- [[Keeper Luminous Crystalbeam (D&D_References)]]
+- [[Lord Marcus Shadowbane (D&D_References)]]
+- [[Marquis Aldwin Goldcurrent (D&D_References)]]
+- [[Military Command (D&D_References)]]
+- [[Navigation & Geograph (D&D_References)]]
+- [[Poseidon (D&D_References)]]
+- [[Pressure Portals (D&D_References)]]
+- [[Queen Lyralei Stormheart (D&D_References)]]
+- [[Royal Court (D&D_References)]]
+- [[Shadow Portal Nexus (D&D_References)]]
+- [[Silence-Keeper Mute (D&D_References)]]
+- [[Underwater Fermentation (D&D_References)]]

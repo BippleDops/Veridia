@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Goldleaf", "corvus goldleaf", "Goldleaf Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Goldleaf
 
 *Genasi Baker (Commoners), Age 33, Male*
@@ -13,7 +19,6 @@
 Above average and compact, with Carefully styled auburn hair and Brown eyes. Olive skin. Crooked nose from multiple breaks.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Never backs down from any challenge
@@ -36,17 +41,14 @@ Survivor of a disaster that destroyed their village They've fallen in love with 
 - **Short Term**: Find missing person
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Caelum Brightblade the Bold (Criminal - Handler)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
 
-
 ### Cedric Proudmore the Seeker (Personal - Ex-lover)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ### Zephyr Quicksilver the Seeker (Professional - Employer)
 - **Status**: Secretly hostile
@@ -57,16 +59,13 @@ Survivor of a disaster that destroyed their village They've fallen in love with 
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Cedric Ironforge the Strong (Personal - Best friend)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
 
-
 ### Ewan Ironforge the Strong (Family - Sibling)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Can hear the thoughts of others

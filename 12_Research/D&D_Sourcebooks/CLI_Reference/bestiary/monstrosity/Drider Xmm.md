@@ -166,3 +166,16 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[satyr-revelmaster-xmm]]
+- [[drider-xmm (monstrosity)]]
+- [[Monsters by Habitat Forest Monsters Xmm]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[Underdark Encounters Levels 1116 Xge]]
+- [[Underdark Encounters Levels 1720 Xge]]
+- [[monsters-by-habitat-forest-monsters-xmm (tables)]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]
+- [[underdark-encounters-levels-1116-xge (tables)]]
+- [[underdark-encounters-levels-1720-xge (tables)]]

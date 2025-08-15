@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Thornweave the Scholar", "jorah thornweave the scholar", "Jorah Thornweave Scholar", "Scholar the Thornweave Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Thornweave the Scholar
 
 *Aasimar Wizard (Adventurers), Age 75, Non-binary*
@@ -13,7 +19,6 @@
 Tall and muscular, with Tied back silver hair and Blue eyes. Tan skin. Warm smile that puts people at ease.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Never uses people's real names
@@ -42,21 +47,17 @@ Accidentally gained powers and learning to control them A family member's death 
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Drusilla Silverleaf the Mystic (Family - Cousin)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
-
 
 ### Rhiannon Silverleaf the Risen (Criminal - Target)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Gareth Ravenheart the Wanderer (Family - Child)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
-
 
 ### Cedric Silverleaf the Bold (Family - Sibling)
 - **Status**: Professional only
@@ -66,7 +67,6 @@ Accidentally gained powers and learning to control them A family member's death 
 ### Idris Thornweave the Swift (Personal - Ex-lover)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Has died and been resurrected

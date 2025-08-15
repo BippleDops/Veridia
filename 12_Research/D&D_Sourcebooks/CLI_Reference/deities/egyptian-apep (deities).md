@@ -72,3 +72,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Someone is blackmailing information for money
 - Someone is blackmailing an heir for revenge
+
+## References
+
+- [[The Egyptian Pantheon Egyptian Deities Phb]]
+- [[the-egyptian-pantheon-egyptian-deities-phb (tables)]]

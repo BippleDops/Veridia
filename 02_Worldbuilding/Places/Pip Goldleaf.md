@@ -71,7 +71,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -241,15 +241,15 @@ Belief that successful merchants have responsibility to contribute positively to
 
 **[[12 Research]]** - Grandmother and mentor, whose [[Guidance]] and expectations shape Pip's development while providing access to wisdom and resources.
 
-**[[[[Marcus Goldlea]]f]]** - Elder family member specializing in ficial operations, whose approval and support are important for career advancement.
+**[[Marcus Goldlea|[[Marcus Goldlea]]f]]** - Elder family member specializing in ficial operations, whose approval and support are important for career advancement.
 
-**[[[[Family Retaine]]r]]** - Loyal family servant who provides practical advice and serves as unofficial bodyguard during travels.
+**[[Family Retaine|[[Family Retaine]]r]]** - Loyal family servant who provides practical advice and serves as unofficial bodyguard during travels.
 
 ### Professional Contacts
 
 **[[Young Merchant Guild]]** - Network of apprentice and junior merchants who share information, resources, and mutual support for development.
 
-**[[[[Innovative Artisa]]n]]** - Creative craftsperson whose work represents potential new market opportunities for family business.
+**[[Innovative Artisa|[[Innovative Artisa]]n]]** - Creative craftsperson whose work represents potential new market opportunities for family business.
 
 **[[Cultural Guide]]** - Local expert in various regions who provides cultural education and practical assistance during travels.
 
@@ -330,7 +330,7 @@ Legends speak of Pip Goldleaf as a nexus where past and present converge. Locals
 
 ### Key Locations
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -354,13 +354,11 @@ Pip Goldleaf is a notable location characterized by its unique features and stra
 ### Founding
 Pip Goldleaf was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -368,13 +366,11 @@ Pip Goldleaf was established in the distant past, growing from humble beginnings
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -433,7 +429,6 @@ Mentioned in The First Prophecy of Stars
 - 20% middle class
 - 79% working poor
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -469,3 +464,7 @@ Mentioned in The First Prophecy of Stars
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Madame Rosalind Goldleaf (D&D_Statblocks)]]

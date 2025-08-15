@@ -1,11 +1,11 @@
 ---
+aliases: ["Katarina Goldleaf the Mad", "katarina goldleaf the mad", "Katarina Goldleaf Mad", "Mad the Goldleaf Katarina"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -74,8 +74,6 @@ Former soldier who left after a traumatic battle. Years ago, they made a deal th
 ### Skills
 Persuasion, Investigation, Arcana
 
-
-
 ## Possessions
 - 26 gold pieces
 - Set of thieves' tools
@@ -87,7 +85,6 @@ Persuasion, Investigation, Arcana
 
 ---
 *Generated: 2025-08-15T03:20:13.085Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

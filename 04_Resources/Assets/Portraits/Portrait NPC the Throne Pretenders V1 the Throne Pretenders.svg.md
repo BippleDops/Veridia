@@ -100,3 +100,7 @@ improvements: 20
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Assets Portraits Portrait NPC Weaponsmith Captain Marcus Sharpedge V1 Weaponsmith Captain Marcus Sharpedge.svg]]

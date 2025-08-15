@@ -124,3 +124,11 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[giant-wasp-xmm (beast)]]
+- [[2 Appendix a Miscellaneous Creatures]]
+- [[2-appendix-a-miscellaneous-creatures (monster-manual-2014)]]
+- [[Monsters by Habitat Grassland Monsters Xmm]]
+- [[monsters-by-habitat-grassland-monsters-xmm (tables)]]

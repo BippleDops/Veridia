@@ -1,4 +1,5 @@
 ---
+aliases: ["Captain's Revenge", "captain's revenge", "Revenge Captain's"]
 tags: [generated]
 id: QUEST0079
 created: 2025-08-15T04:09:51.408Z
@@ -22,8 +23,6 @@ Gain access to the sunken temple and complete the ritual
 ### Secondary
 - Recover additional valuable items
 - Maintain cover identity
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they found an ancient artifact, which changed their life forever. Now, circumstances demand immediate action.

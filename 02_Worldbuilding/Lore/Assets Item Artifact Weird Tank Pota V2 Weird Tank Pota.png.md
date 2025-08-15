@@ -292,6 +292,5 @@ Mentioned in The Hidden Prophecy of Winds
 - Natural disasters
 - Current power structures established
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*

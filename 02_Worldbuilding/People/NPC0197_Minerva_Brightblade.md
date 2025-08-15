@@ -1,11 +1,11 @@
 ---
+aliases: ["Minerva Brightblade", "minerva brightblade", "Brightblade Minerva"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Raised by monks in a remote monastery. Years ago, they survived a plague that ki
 ### Skills
 Arcana, Persuasion
 
-
-
 ## Possessions
 - 74 gold pieces
 - Map to unknown location
@@ -90,7 +88,6 @@ Arcana, Persuasion
 
 ---
 *Generated: 2025-08-15T03:20:13.096Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

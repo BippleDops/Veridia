@@ -1,3 +1,9 @@
+---
+aliases: ["Greater Elixir of Clarity", "greater elixir of clarity", "Clarity of Elixir Greater"]
+tags: [item, equipment]
+type: item
+---
+
 # Greater Elixir of Clarity
 
 *Consumables, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A greater elixir glowing softly
 - Restore 4d4+4 hit points
 - Resistance for 10 minutes
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -31,7 +35,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.460Z*

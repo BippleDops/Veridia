@@ -108,7 +108,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -127,4 +126,58 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[disguise-self-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[disguise-self-xphb (spells)|disguise-self-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Mind Flayer Arcanist Xmm]]
+- [[mind-flayer-arcanist-xmm (aberration)]]
+- [[Annis Hag Mpmm]]
+- [[Green Hag Xmm]]
+- [[Hobgoblin Iron Shadow Mpmm]]
+- [[Sea Hag Xmm]]
+- [[annis-hag-mpmm (fey)]]
+- [[green-hag-xmm (fey)]]
+- [[hobgoblin-iron-shadow-mpmm (fey)]]
+- [[sea-hag-xmm (fey)]]
+- [[Barlgura Xmm]]
+- [[Blue Abishai Mpmm]]
+- [[Incubus Xmm]]
+- [[Lamia Xmm]]
+- [[Rakshasa Xmm]]
+- [[barlgura-xmm (fiend)]]
+- [[blue-abishai-mpmm (fiend)]]
+- [[incubus-xmm (fiend)]]
+- [[lamia-xmm (fiend)]]
+- [[rakshasa-xmm (fiend)]]
+- [[Alhoon Mpmm]]
+- [[Deathlock Mastermind Mpmm]]
+- [[Deathlock Mpmm]]
+- [[Deathlock Wight Mpmm]]
+- [[alhoon-mpmm (undead)]]
+- [[deathlock-mastermind-mpmm (undead)]]
+- [[deathlock-mpmm (undead)]]
+- [[deathlock-wight-mpmm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Ranger Xphb Gloom Stalker Xphb]]
+- [[Rogue Xphb Arcane Trickster Xphb]]
+- [[ranger-xphb-gloom-stalker-xphb (classes)]]
+- [[rogue-xphb-arcane-trickster-xphb (classes)]]
+- [[Svirfneblin Magic Mtf]]
+- [[svirfneblin-magic-mtf (feats)]]
+- [[Hat of Disguise Xdmg]]
+- [[Masque Charm Scc]]
+- [[hat-of-disguise-xdmg (items)]]
+- [[masque-charm-scc (items)]]
+- [[Mask of Many Faces Xphb]]
+- [[mask-of-many-faces-xphb (optional-features)]]
+- [[Firbolg Vgm]]
+- [[Gnome Deep Dmg]]
+- [[Tiefling Dispater Mtf]]
+- [[Tiefling Glasya Mtf]]
+- [[firbolg-vgm (races)]]
+- [[gnome-deep-dmg (races)]]
+- [[tiefling-dispater-mtf (races)]]
+- [[tiefling-glasya-mtf (races)]]

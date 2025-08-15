@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Ironwood the Scholar", "gavril ironwood the scholar", "Gavril Ironwood Scholar", "Scholar the Ironwood Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Ironwood the Scholar
 
 *Gnome Rogue (Adventurers), Age 63, Non-binary*
@@ -13,7 +19,6 @@
 Tall and imposing, with Braided elaborately red hair and Black eyes. Dark skin. Warm smile that puts people at ease.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Always speaks in metaphors and riddles
@@ -42,7 +47,6 @@ Searching for a legendary treasure their parent died seeking A chance encounter 
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Ysara Goldleaf the Fallen (Professional - Rival)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
@@ -51,7 +55,6 @@ Searching for a legendary treasure their parent died seeking A chance encounter 
 ### Pyria Keenblade the Risen (Family - Spouse)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ### Faelyn Goldleaf the Scholar (Political - Patron)
 - **Status**: Complicated history

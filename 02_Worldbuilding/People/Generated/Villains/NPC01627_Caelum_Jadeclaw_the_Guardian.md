@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Jadeclaw the Guardian", "caelum jadeclaw the guardian", "Caelum Jadeclaw Guardian", "Guardian the Jadeclaw Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Jadeclaw the Guardian
 
 *Human Corrupt Noble (Villains), Age 37, Non-binary*
@@ -13,7 +19,6 @@
 Towering and imposing, with Dreadlocks gray hair and Black eyes. Weathered skin. Warm smile that puts people at ease.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Collects unusual and worthless objects; Believes in every conspiracy theory; Always tells the absolute truth
@@ -36,17 +41,14 @@ Corrupted by an artifact or dark magic A chance encounter last winter changed th
 - **Short Term**: Avoid the authorities
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Hilda Frostwhisper the Guardian (Criminal - Handler)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
 
-
 ### Cedric Underhill the Mystic (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ### Caelum Quicksilver the Mystic (Family - Sibling)
 - **Status**: Complicated history

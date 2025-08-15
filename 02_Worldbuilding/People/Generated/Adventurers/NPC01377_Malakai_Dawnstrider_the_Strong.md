@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Dawnstrider the Strong", "malakai dawnstrider the strong", "Malakai Dawnstrider Strong", "Strong the Dawnstrider Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Dawnstrider the Strong
 
 *Half-Orc Bard (Adventurers), Age 66, Female*
@@ -36,7 +42,6 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 - **Short Term**: Recruit new members
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Felicia Ravenheart the Redeemed (Personal - Nemesis)
 - **Status**: Secretly hostile
@@ -47,16 +52,13 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Urien Crystalbrook the Mystic (Family - Cousin)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Elric Ravenheart the Guardian (Professional - Employer)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Possessed by ancient spirit

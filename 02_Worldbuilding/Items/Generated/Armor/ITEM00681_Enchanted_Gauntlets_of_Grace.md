@@ -1,3 +1,9 @@
+---
+aliases: ["Enchanted Gauntlets of Grace", "enchanted gauntlets of grace", "Grace of Gauntlets Enchanted"]
+tags: [item, equipment]
+type: item
+---
+
 # Enchanted Gauntlets of Grace
 
 *Armor, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A enchanted gauntlets bearing ancient runes
 - Reduces damage by 3
 - No stealth disadvantage
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -30,7 +34,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.416Z*

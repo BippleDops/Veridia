@@ -1,3 +1,9 @@
+---
+aliases: ["Sturdy Lantern of Reliability", "sturdy lantern of reliability", "Reliability of Lantern Sturdy"]
+tags: [item, equipment]
+type: item
+---
+
 # Sturdy Lantern of Reliability
 
 *Mundane, Uncommon*

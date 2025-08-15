@@ -197,6 +197,6 @@ This NPC can serve multiple roles:
 
 - **Lover**: [[Quest   The Democratic Balance]]
 - **Blackmailer**: [[Captain Swift Cloudracer]]
-- **Parent**: [[aerisi kalinoth pota]]
+- **Parent**: [[Aerisi Kalinoth Pota|aerisi kalinoth pota]]
 - **Enemy**: [[Portrait NPC Mist Walker Captain Luna Pathfinder V2 Mist Walker Captain Luna Pathfinder.svg]]
 - **Victim**: [[Portrait NPC Weaponsmith Captain Marcus Sharpedge V1 Weaponsmith Captain Marcus Sharpedge.svg]]

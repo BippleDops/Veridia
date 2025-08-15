@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-lord-magnus-goldspire-lord-magnus-goldspire.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -224,7 +222,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -260,3 +257,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Quest - Foreign Interests]]
+- [[Assets Locations Location City Deep Current Flowmaster V1 Deep Current Flowmaster.svg]]
+- [[Assets Locations Location City Market Master Cornelius Driftwood V1 Market Master Cornelius Driftwood.svg]]
+- [[Assets Locations Location City Quartermaster David Simpleton Quartermaster David Simpleton.svg]]
+- [[Assets Portraits Portrait NPC Captain Cornelius Deepwater Captain Cornelius Deepwater.svg]]
+- [[Assets Portraits Portrait NPC Duke Aldric Blackwater Duke Aldric Blackwater.svg]]

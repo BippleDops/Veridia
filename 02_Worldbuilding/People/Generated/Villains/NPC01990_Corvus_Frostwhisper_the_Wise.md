@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Frostwhisper the Wise", "corvus frostwhisper the wise", "Corvus Frostwhisper Wise", "Wise the Frostwhisper Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Frostwhisper the Wise
 
 *Tiefling Assassin (Villains), Age 52, Non-binary*
@@ -36,32 +42,26 @@ Born into evil but questioning their path An old debt has come due at the worst 
 - **Short Term**: Find missing person
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Idris Thornweave the Wanderer (Criminal - Target)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
 
-
 ### Rhiannon Keenblade the Seeker (Political - Puppet)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
-
 
 ### Hilda Darkwater the Mystic (Political - Patron)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Aeliana Ironforge the Bold (Professional - Rival)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Nerys Blackstone the Strong (Criminal - Informant)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Believes they're saving the world

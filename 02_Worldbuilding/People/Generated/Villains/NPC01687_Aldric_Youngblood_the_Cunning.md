@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Youngblood the Cunning", "aldric youngblood the cunning", "Aldric Youngblood Cunning", "Cunning the Youngblood Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Youngblood the Cunning
 
 *Dwarf Dark Wizard (Villains), Age 19, Female*
@@ -36,7 +42,6 @@ Born into evil but questioning their path A chance encounter last winter changed
 - **Short Term**: Find missing person
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Aeliana Zephyrblade the Bold (Family - Parent)
 - **Status**: Blood oath bound
@@ -47,16 +52,13 @@ Born into evil but questioning their path A chance encounter last winter changed
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Idris Jadeclaw the Bold (Personal - Nemesis)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Ewan Frostwhisper the Wanderer (Political - Patron)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Has a child they're protecting

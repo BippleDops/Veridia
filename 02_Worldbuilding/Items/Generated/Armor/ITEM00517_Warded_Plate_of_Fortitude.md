@@ -1,3 +1,9 @@
+---
+aliases: ["Warded Plate of Fortitude", "warded plate of fortitude", "Fortitude of Plate Warded"]
+tags: [item, equipment]
+type: item
+---
+
 # Warded Plate of Fortitude
 
 *Armor, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A warded plate bearing ancient runes
 - +2 to AC
 - No stealth disadvantage
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -30,7 +34,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.390Z*

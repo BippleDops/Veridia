@@ -1,3 +1,9 @@
+---
+aliases: ["Practical Tool Kit of Reliability", "practical tool kit of reliability", "Reliability of Kit Tool Practical"]
+tags: [item, equipment]
+type: item
+---
+
 # Practical Tool Kit of Reliability
 
 *Mundane, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A practical tool kit showing signs of age
 - Has hidden compartment
 - Alerts to danger
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -30,7 +34,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.476Z*

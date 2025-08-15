@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Thornweave", "jorah thornweave", "Thornweave Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Thornweave
 
 *Tiefling Aristocrat (Nobles), Age 21, Non-binary*
@@ -36,7 +42,6 @@ Recently elevated to nobility through service, still learning courtly ways A cha
 - **Short Term**: Survive until next week
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Baelor Zephyrblade the Scholar (Family - Sibling)
 - **Status**: Strained but maintaining
@@ -47,21 +52,17 @@ Recently elevated to nobility through service, still learning courtly ways A cha
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Idris Goldleaf (Personal - Ex-lover)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
-
 
 ### Jorah Jadeclaw the Wise (Professional - Rival)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
 
-
 ### Orion Ironwood (Political - Spy)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Secretly funding the rebellion

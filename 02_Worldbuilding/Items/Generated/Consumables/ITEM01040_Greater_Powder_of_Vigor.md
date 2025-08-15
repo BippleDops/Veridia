@@ -1,3 +1,9 @@
+---
+aliases: ["Greater Powder of Vigor", "greater powder of vigor", "Vigor of Powder Greater"]
+tags: [item, equipment]
+type: item
+---
+
 # Greater Powder of Vigor
 
 *Consumables, Common*
@@ -13,8 +19,6 @@ A greater powder glowing softly
 ## Properties
 - Fly for 1 hour
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -29,7 +33,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.450Z*

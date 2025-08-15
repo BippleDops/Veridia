@@ -1,4 +1,5 @@
 ---
+aliases: ["The Lost City Conspiracy", "the lost city conspiracy", "Conspiracy City Lost The"]
 tags: [quest, adventure, generated]
 type: quest
 ---

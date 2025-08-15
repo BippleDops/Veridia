@@ -1,3 +1,9 @@
+---
+aliases: ["Lesser Powder of Vigor", "lesser powder of vigor", "Vigor of Powder Lesser"]
+tags: [item, equipment]
+type: item
+---
+
 # Lesser Powder of Vigor
 
 *Consumables, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A lesser powder glowing softly
 - Grant advantage for 1 hour
 - Remove one condition
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -30,7 +34,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.442Z*

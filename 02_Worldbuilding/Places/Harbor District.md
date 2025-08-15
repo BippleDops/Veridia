@@ -261,13 +261,11 @@ Harbor District is a notable location characterized by its unique features and s
 ### Founding
 Harbor District was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -275,13 +273,11 @@ Harbor District was established in the distant past, growing from humble beginni
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -344,7 +340,6 @@ Key stop on metals trade route
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -380,3 +375,37 @@ Key stop on metals trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Quest - The Truth Unveiled]]
+- [[Quest - The Truth Unveiled_1 (01_Adventures)]]
+- [[Ancient Siege Tunnels]]
+- [[Military Moral Quandaries]]
+- [[Quarantine Enforcement]]
+- [[Working Class Routines]]
+- [[Barkeep Mira Algaebrew]]
+- [[Crystal Plague Wards]]
+- [[Doctor Coral Shapeshift]]
+- [[Harbor District Customs House]]
+- [[Noble Quarter]]
+- [[Port Meridian - Harbor District]]
+- [[Port Meridian Harbor District (Places)]]
+- [[Port_Meridian_Harbor_District]]
+- [[Pressure Terminal]]
+- [[Supplier Erikson Tidecaller]]
+- [[Temple Guardian Marcus the Drowned]]
+- [[Temple Ward]]
+- [[Aethermoor - Session 01 Blood in the Harbor]]
+- [[Ancient Siege Tunnels (D&D_References)]]
+- [[Barkeep Mira Algaebrew (D&D_References)]]
+- [[Doctor Coral Shapeshift (D&D_References)]]
+- [[Harbor District Customs House (D&D_References)]]
+- [[Mediator Serenity Stillwater]]
+- [[Supplier Erikson Tidecaller (D&D_References)]]
+- [[Temple Guardian Marcus the Drowned (D&D_References)]]
+- [[Dr. Siphon Gillwater (D&D_Statblocks)]]
+- [[Find the Grief Bomb (D&D_Statblocks)]]
+- [[Noble Quarter (D&D_Statblocks)]]
+- [[Pressure Terminal (D&D_Statblocks)]]
+- [[Temple Ward (D&D_Statblocks)]]

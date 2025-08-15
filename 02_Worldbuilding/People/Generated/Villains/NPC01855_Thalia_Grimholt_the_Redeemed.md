@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Grimholt the Redeemed", "thalia grimholt the redeemed", "Thalia Grimholt Redeemed", "Redeemed the Grimholt Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Grimholt the Redeemed
 
 *Aasimar Assassin (Villains), Age 33, Non-binary*
@@ -13,7 +19,6 @@
 Very tall and delicate, with Short and neat red hair and Amber eyes. Dark skin. Weather-beaten face showing hard life.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Believes in every conspiracy theory; Extremely superstitious about everything
@@ -36,22 +41,18 @@ Driven mad by knowledge humanity wasn't meant to know They're being blackmailed 
 - **Short Term**: Gather information
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Zephyr Underhill the Guardian (Family - Child)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Hilda Ashford the Swift (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Baelor Blackstone the Lost (Professional - Rival)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ### Erasmus Ironwood the Lost (Political - Opposition)
 - **Status**: Strained but maintaining

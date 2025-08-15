@@ -46,12 +46,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 
 # Crystal Wardens
 *High Warden Luminara Prismheart, Guardian of the Sacred Crystals, Defender of the Light*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -349,7 +347,6 @@ Legends speak of Crystal Wardens as a nexus where past and present converge. Loc
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## Daily Routine
 - **Morning**: Typical activities

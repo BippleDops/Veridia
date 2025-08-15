@@ -55,7 +55,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -127,7 +127,7 @@ Governmental evolution addresses changes in political systems, leadership struct
 
 Organizational development examines how major institutions adapt to post-campaign circumstances, including military restructuring, economic reorganization, educational reform, and religious institutional change. These changes reflect the impact of campaign events on societal infrastructure.
 
-Alliance relationships evaluate how the connections between [[Aquabyssos]], [[Aethermoor]], and external [[Allies]] like the [[[[Eastern Kingdom]] Fleet]] develop based on campaign outcomes. This includes trade relationship evolution, military cooperation agreements, and [[Cultural Exchange]] program expansion.
+Alliance relationships evaluate how the connections between [[Aquabyssos]], [[Aethermoor]], and external [[Allies]] like the [[Eastern Kingdom|[[Eastern Kingdom]] Fleet]] develop based on campaign outcomes. This includes trade relationship evolution, military cooperation agreements, and [[Cultural Exchange]] program expansion.
 
 Economic transformation addresses how campaign events affect commerce, resource distribution, technological development, and standard of living in both worlds. These economic consequences often have long-term implications for social stability and [[International Relations]].
 
@@ -139,7 +139,7 @@ Corruption remediation explores the ongoing efforts to reverse damage caused by 
 
 Ecosystem recovery examines how natural systems adapt to post-crisis conditions, including species population recovery, habitat restoration, and the establishment of new ecological balances. These changes often involve both natural processes and active intervention by various organizations.
 
-Infrastructure rebuilding addresses the physical reconstruction of damaged cities, transportation networks, [[Communication Systems]], and other essential infrastructure. These projects often involve cooperation between different worlds and the integration of new technologies or magical systems.
+Infrastructure rebuilding addresses the physical reconstruction of damaged cities, transportation networks, [[Communication_Systems|Communication Systems]], and other essential infrastructure. These projects often involve cooperation between different worlds and the integration of new technologies or magical systems.
 
 Resource management evolution examines how both worlds adapt their approaches to resource extraction, conservation, and distribution based on lessons learned during campaign events. These changes often reflect new understanding of environmental interdependence and sustainability.
 
@@ -275,7 +275,7 @@ Campaign Epilogues is a undersea element of the setting, known for bioluminescen
 
 Legends speak of Campaign Epilogues as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Campaign Epilogues.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 

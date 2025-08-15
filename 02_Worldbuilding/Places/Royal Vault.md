@@ -119,13 +119,11 @@ Royal Vault is a notable location characterized by its unique features and strat
 ### Founding
 Royal Vault was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -133,13 +131,11 @@ Royal Vault was established in the distant past, growing from humble beginnings 
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -179,7 +175,6 @@ Key stop on spices trade route
 - 20% middle class
 - 79% working poor
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -215,3 +210,15 @@ Key stop on spices trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Ancient Siege Tunnels]]
+- [[Depth Warden Patrol]]
+- [[The Living Weapon]]
+- [[The Royal Palace]]
+- [[The Crown's Burden]]
+- [[Ancient Siege Tunnels (D&D_References)]]
+- [[The Royal Palace (D&D_References)]]
+- [[Aethermoor - Session 05 The Queens Madness]]
+- [[Depth Warden Patrol (D&D_Statblocks)]]

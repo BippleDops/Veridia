@@ -102,3 +102,8 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Locations Location City the Null Cathedral the Null Cathedral.svg]]
+- [[Assets Portraits Portrait NPC Weaponsmith Captain Marcus Sharpedge V1 Weaponsmith Captain Marcus Sharpedge.svg]]

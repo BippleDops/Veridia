@@ -1,4 +1,5 @@
 ---
+aliases: ["Ancient Shield of the Dawn", "ancient shield of the dawn", "Ancient Shield of Dawn", "Dawn the of Shield Ancient"]
 tags: [generated]
 id: ITEM0072
 created: 2025-08-15T04:09:51.101Z
@@ -19,8 +20,6 @@ Crafted from crystal with battle scars, in pristine condition. It emanates a fai
 
 ## Quirk
 *Occasionally speaks in ancient tongue*
-
-
 
 ## History
 This item was reforged from broken artifacts ages ago. It has passed through many hands, each leaving their mark upon its destiny.

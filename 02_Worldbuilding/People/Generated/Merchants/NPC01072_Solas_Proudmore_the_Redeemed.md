@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Proudmore the Redeemed", "solas proudmore the redeemed", "Solas Proudmore Redeemed", "Redeemed the Proudmore Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Proudmore the Redeemed
 
 *Elf Shopkeeper (Merchants), Age 72, Female*
@@ -13,7 +19,6 @@
 Towering and imposing, with Braided elaborately silver hair and Amber eyes. Tan skin. Unusual eye color for their race.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Compulsive liar about minor things
@@ -36,17 +41,14 @@ Former adventurer who retired to open a shop They recently discovered a secret t
 - **Short Term**: Find missing person
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Lyanna Crystalbrook the Bold (Professional - Employee)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
 
-
 ### Dara Ravenheart the Broken (Family - Child)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
-
 
 ### Urien Lightbringer the Mystic (Criminal - Fence)
 - **Status**: Professional only
@@ -57,11 +59,9 @@ Former adventurer who retired to open a shop They recently discovered a secret t
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Gavril Goldleaf the Scholar (Personal - Ex-lover)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Running a cult from their basement

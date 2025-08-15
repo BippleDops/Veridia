@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Hawthorne the Risen", "hilda hawthorne the risen", "Hilda Hawthorne Risen", "Risen the Hawthorne Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Hawthorne the Risen
 
 *Genasi Farmer (Commoners), Age 52, Male*
@@ -36,27 +42,22 @@ Grew up in poverty but discovered a talent that might change everything They're 
 - **Short Term**: Find missing person
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Lyanna Zephyrblade the Risen (Professional - Rival)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Solas Blackstone the Wanderer (Family - Child)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ### Hestara Darkwater the Guardian (Family - Sibling)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Baelor Grimholt the Guardian (Family - Cousin)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Witnessed a noble's crime

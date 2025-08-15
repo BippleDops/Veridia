@@ -102,3 +102,18 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Choldrith Mpmm]]
+- [[choldrith-mpmm (monstrosity)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Grave Domain Xge]]
+- [[Paladin Xphb Oath of Vengeance Xphb]]
+- [[cleric-xphb-grave-domain-xge (classes)]]
+- [[cleric-xphb-grave-domain-xge 2 (classes)]]
+- [[paladin-xphb-oath-of-vengeance-xphb (classes)]]
+- [[Thief of Five Fates]]
+- [[thief-of-five-fates (optional-features)]]

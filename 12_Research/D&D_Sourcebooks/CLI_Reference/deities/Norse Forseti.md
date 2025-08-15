@@ -86,3 +86,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[The Norse Pantheon Norse Deities Phb]]
+- [[the-norse-pantheon-norse-deities-phb (tables)]]

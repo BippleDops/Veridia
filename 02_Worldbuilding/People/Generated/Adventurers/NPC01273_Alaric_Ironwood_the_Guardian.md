@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Ironwood the Guardian", "alaric ironwood the guardian", "Alaric Ironwood Guardian", "Guardian the Ironwood Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Ironwood the Guardian
 
 *Aasimar Ranger (Adventurers), Age 51, Female*
@@ -36,37 +42,30 @@ Chosen by fate to fulfill an ancient prophecy A prophetic dream has been hauntin
 - **Short Term**: Avoid the authorities
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Felicia Ravenheart the Swift (Political - Patron)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Cedric Quicksilver the Broken (Criminal - Target)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ### Rhiannon Dawnstrider the Swift (Personal - Nemesis)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Cedric Brightblade the Mystic (Criminal - Fence)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
-
 
 ### Aldric Frostwhisper the Scholar (Political - Patron)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Zephyr Moonshadow the Scholar (Personal - Ex-lover)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Has died and been resurrected

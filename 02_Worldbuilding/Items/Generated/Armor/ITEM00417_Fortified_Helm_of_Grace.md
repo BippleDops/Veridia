@@ -1,3 +1,9 @@
+---
+aliases: ["Fortified Helm of Grace", "fortified helm of grace", "Grace of Helm Fortified"]
+tags: [item, equipment]
+type: item
+---
+
 # Fortified Helm of Grace
 
 *Armor, Uncommon*
@@ -14,8 +20,6 @@ A fortified helm bearing ancient runes
 - Immunity to critical hits
 - +1 to AC
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -30,7 +34,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.380Z*

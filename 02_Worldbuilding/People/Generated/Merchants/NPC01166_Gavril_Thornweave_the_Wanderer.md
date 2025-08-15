@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Thornweave the Wanderer", "gavril thornweave the wanderer", "Gavril Thornweave Wanderer", "Wanderer the Thornweave Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Thornweave the Wanderer
 
 *Dragonborn Shopkeeper (Merchants), Age 28, Non-binary*
@@ -13,7 +19,6 @@
 Very short and muscular, with Long and flowing black hair and Brown eyes. Brown skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Believes in every conspiracy theory; Extremely superstitious about everything
@@ -36,22 +41,18 @@ Uses their business as cover for other activities A prophetic dream has been hau
 - **Short Term**: Recruit new members
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Elric Brightblade the Seeker (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Corvus Xendar the Strong (Family - Cousin)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Hestara Zephyrblade the Cunning (Criminal - Fence)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
-
 
 ### Qadim Ironwood the Wanderer (Personal - Childhood friend)
 - **Status**: Complicated history

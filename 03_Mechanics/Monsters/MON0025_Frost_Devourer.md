@@ -1,4 +1,5 @@
 ---
+aliases: ["Frost Devourer", "frost devourer", "Devourer Frost"]
 tags: [generated]
 id: MON0025_Frost_Devourer
 created: 2025-08-15T04:09:51.428Z
@@ -26,7 +27,6 @@ A being of pure elemental energy given form
 
 ---
 *Generated: 2025-08-15T03:21:47.463Z*
-
 
 ## Habitat
 - Natural environment and territories

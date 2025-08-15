@@ -98,3 +98,7 @@ Legends speak of Party Quarters   Inverse Palace as a nexus where past and prese
 - The authorities needs help stealing before dawn
 - A merchant needs help investigating before dawn
 - Strange accidents suggest a portal
+
+## References
+
+- [[Aquabyssos - Session 03 - The Gallery Conspiracy]]

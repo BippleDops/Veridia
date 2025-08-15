@@ -1,8 +1,8 @@
 ---
+aliases: ["Osric Stormwind", "osric stormwind", "Stormwind Osric"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -71,8 +71,6 @@ Child of farmers who sought adventure. Years ago, they made a deal they now regr
 ### Skills
 Deception, Stealth
 
-
-
 ## Possessions
 - 17 gold pieces
 - Book of poetry
@@ -87,7 +85,6 @@ Deception, Stealth
 
 ---
 *Generated: 2025-08-15T03:21:04.027Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

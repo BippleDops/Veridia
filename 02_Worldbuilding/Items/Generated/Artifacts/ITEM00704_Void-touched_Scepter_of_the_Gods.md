@@ -1,3 +1,9 @@
+---
+aliases: ["Void-touched Scepter of the Gods", "void-touched scepter of the gods", "Void-touched Scepter of Gods", "Gods the of Scepter Void-touched"]
+tags: [item, equipment]
+type: item
+---
+
 # Void-touched Scepter of the Gods
 
 *Artifacts, Very Rare*
@@ -16,8 +22,6 @@ A void-touched scepter radiating otherworldly power
 - Cast spell 3/day
 - Cast spell 3/day
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -32,7 +36,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.418Z*

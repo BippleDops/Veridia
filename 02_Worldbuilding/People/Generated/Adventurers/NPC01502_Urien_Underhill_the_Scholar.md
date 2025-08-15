@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Underhill the Scholar", "urien underhill the scholar", "Urien Underhill Scholar", "Scholar the Underhill Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Underhill the Scholar
 
 *Firbolg Bard (Adventurers), Age 55, Male*
@@ -36,17 +42,14 @@ Searching for a legendary treasure their parent died seeking They've fallen in l
 - **Short Term**: Avoid the authorities
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Nerys Thornweave the Scholar (Professional - Employer)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Hestara Emberfall the Mystic (Criminal - Target)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ### Xander Stormwind the Lost (Criminal - Handler)
 - **Status**: Secretly hostile
@@ -57,7 +60,6 @@ Searching for a legendary treasure their parent died seeking They've fallen in l
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Brenna Ravenheart the Guardian (Political - Puppet)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
@@ -66,7 +68,6 @@ Searching for a legendary treasure their parent died seeking They've fallen in l
 ### Felicia Dawnstrider the Fallen (Criminal - Accomplice)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Carries a world-ending artifact

@@ -1,3 +1,9 @@
+---
+aliases: ["Ethereal Gauntlets of Protection", "ethereal gauntlets of protection", "Protection of Gauntlets Ethereal"]
+tags: [item, equipment]
+type: item
+---
+
 # Ethereal Gauntlets of Protection
 
 *Armor, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A ethereal gauntlets shimmering with energy
 - Grants swimming speed
 - Reduces damage by 3
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -31,7 +35,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.382Z*

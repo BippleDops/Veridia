@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Silverleaf the Wanderer", "drusilla silverleaf the wanderer", "Drusilla Silverleaf Wanderer", "Wanderer the Silverleaf Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Silverleaf the Wanderer
 
 *Gnome Dark Wizard (Villains), Age 77, Non-binary*
@@ -13,7 +19,6 @@
 Towering and slender, with Carefully styled brown hair and Red eyes. Scarred skin. Birthmark shaped like a constellation.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things
@@ -36,27 +41,22 @@ Born into evil but questioning their path They recently discovered a secret that
 - **Short Term**: Gather information
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Drusilla Quicksilver the Mystic (Professional - Mentor)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Wynne Proudmore the Bold (Political - Patron)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ### Orion Frostwhisper the Strong (Personal - Ex-lover)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
 
-
 ### Erasmus Crystalbrook the Scholar (Criminal - Accomplice)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Has a child they're protecting

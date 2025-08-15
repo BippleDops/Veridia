@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Proudmore the Scholar", "orion proudmore the scholar", "Orion Proudmore Scholar", "Scholar the Proudmore Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Proudmore the Scholar
 
 *Human Assassin (Villains), Age 20, Male*
@@ -13,7 +19,6 @@
 Very short and compact, with Braided elaborately black hair and Blue eyes. Freckled skin. Crooked nose from multiple breaks.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Never backs down from any challenge; Compulsive liar about minor things
@@ -36,17 +41,14 @@ Believes their evil acts serve a greater good A chance encounter last winter cha
 - **Short Term**: Sabotage competition
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Alaric Proudmore the Guardian (Political - Ally)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
 
-
 ### Urien Ashford the Risen (Political - Opposition)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
-
 
 ### Gareth Grimholt the Seeker (Family - Sibling)
 - **Status**: Professional only

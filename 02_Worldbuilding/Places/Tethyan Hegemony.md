@@ -49,7 +49,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -147,7 +147,7 @@ The Tethyan Hegemony stands as [[Aquabyssos]]'s oldest and most stable underwate
 **Role**: Chief executive elected by direct popular vote  
 **Term**: 8-year term with possibility of one re-election  
 **Powers**: Executive administration, diplomatic representation, emergency powers  
-**Current**: [[High Chancellor [[Nerissa Deepcurrent]]]], second term  
+**Current**: [[Nerissa_Deepcurrent|High Chancellor [[Nerissa Deepcurrent]]]], second term  
 **Selection**: Direct democratic election every 8 years  
 **Support**: Chancellor's Cabinet of appointed department heads
 
@@ -175,14 +175,14 @@ The Tethyan Hegemony stands as [[Aquabyssos]]'s oldest and most stable underwate
 
 #### The Deep Conservative Alliance
 **Ideology**: Traditional values, depth-based hierarchy, controlled change  
-**Leadership**: [[[[Senator]] Abyssos Traditionkeeper]]  
+**Leadership**: [[Senator|[[Senator]] Abyssos Traditionkeeper]]  
 **Platform**: Slower democratic evolution, cultural preservation  
 **Support**: Popular in deep settlements and rural areas  
 **Concerns**: Worried about rapid social changes and external influences
 
 #### The Progressive Tide Movement
 **Ideology**: Expanded democracy, [[Environmental Protection]], social justice  
-**Leadership**: [[[[Representative Coral]] Youngcurrent]]  
+**Leadership**: [[Coral|[[Representative Coral]] Youngcurrent]]  
 **Platform**: Democratic reform, pressure equality, environmental regulation  
 **Support**: Young voters, environmentalists, social reformers  
 **Goals**: Modernizing democratic institutions for current challenges
@@ -498,7 +498,7 @@ The Tethyan Hegemony stands as [[Aquabyssos]]'s oldest and most stable underwate
 ### Democratic Institutions and Services
 - Free public education through advanced levels
 - Universal health care and social services
-- [[Public [[Libraries]]]] and research institutions
+- [[Libraries|Public [[Libraries]]]] and research institutions
 - Democratic legal system with strong civil rights protections
 - Transparent government with strong freedom of information laws
 
@@ -514,7 +514,7 @@ The Tethyan Hegemony stands as [[Aquabyssos]]'s oldest and most stable underwate
 **Related [[Npc]]s**:
 - [[High Chancellor Nerissa Deepcurrent]] - Current leader
 - [[Admiral Thalassa Stormcurrent]] - [[Military Command]]er
-- [[Chief Diplomat [[Corallion]] Reefwright]] - International relations
+- [[Coral|Chief Diplomat [[Corallion]] Reefwright]] - International relations
 - [[Ancient Historian Memento]] - Cultural leader
 - [[Constitutional Scholar Valdris Deepthought]] - Reform advocate
 
@@ -545,7 +545,7 @@ Legends speak of Tethyan Hegemony as a nexus where past and present converge. Lo
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -566,13 +566,11 @@ Tethyan Hegemony is a notable location characterized by its unique features and 
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -580,13 +578,11 @@ Tethyan Hegemony is a notable location characterized by its unique features and 
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -627,7 +623,6 @@ Ongoing situations affecting Tethyan Hegemony:
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -663,3 +658,12 @@ Ongoing situations affecting Tethyan Hegemony:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[The Tethyan Hegemony]]
+- [[Timeline of the Drowning]]
+- [[Archon Meredith Saltweaver]]
+- [[The Bathyal Palace]]
+- [[Archon Meredith Saltweaver (D&D_References)]]
+- [[The Bathyal Palace (D&D_References)]]

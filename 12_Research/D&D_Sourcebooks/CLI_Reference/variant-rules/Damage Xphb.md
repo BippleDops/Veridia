@@ -68,3 +68,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Strange disappearances suggest a portal
 - The authorities needs help delivering before the new moon
+
+## References
+
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]
+- [[Dragonborn Xphb]]
+- [[dragonborn-xphb (races)]]

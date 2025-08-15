@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Lightbringer the Broken", "caelum lightbringer the broken", "Caelum Lightbringer Broken", "Broken the Lightbringer Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Lightbringer the Broken
 
 *Aasimar Blacksmith (Commoners), Age 70, Female*
@@ -36,17 +42,14 @@ Family has worked the same trade for generations, but times are changing A famil
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Thalia Goldleaf the Cunning (Criminal - Target)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Ysara Emberfall the Broken (Political - Opposition)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ### Felicia Lightbringer the Guardian (Political - Opposition)
 - **Status**: One-sided affection
@@ -56,7 +59,6 @@ Family has worked the same trade for generations, but times are changing A famil
 ### Malakai Crystalbrook the Fallen (Political - Spy)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ### Drusilla Lightbringer the Cunning (Criminal - Fence)
 - **Status**: Mutually beneficial

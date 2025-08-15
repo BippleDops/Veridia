@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Zephyrblade the Redeemed", "xander zephyrblade the redeemed", "Xander Zephyrblade Redeemed", "Redeemed the Zephyrblade Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Zephyrblade the Redeemed
 
 *Dwarf Fighter (Adventurers), Age 63, Male*
@@ -36,7 +42,6 @@ Chosen by fate to fulfill an ancient prophecy An old debt has come due at the wo
 - **Short Term**: Make this month's payment
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Gavril Grimholt the Wanderer (Political - Spy)
 - **Status**: Blood oath bound
@@ -47,26 +52,21 @@ Chosen by fate to fulfill an ancient prophecy An old debt has come due at the wo
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
 
-
 ### Delara Grimholt the Bold (Political - Patron)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ### Idris Lightbringer the Seeker (Family - Sibling)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
 
-
 ### Ewan Youngblood the Cunning (Political - Opposition)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
 
-
 ### Jorah Underhill the Guardian (Political - Patron)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Carries a world-ending artifact

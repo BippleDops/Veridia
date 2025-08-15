@@ -192,7 +192,6 @@ Contextual improvement based on 07_Player_Resources
 
 Contextual improvement based on 07_Player_Resources
 
-
 ## Scaling by Party Level
 - **Level 1-4**: Reduce enemies
 - **Level 5-10**: Standard difficulty

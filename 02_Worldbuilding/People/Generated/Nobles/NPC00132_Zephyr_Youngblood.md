@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Youngblood", "zephyr youngblood", "Youngblood Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Youngblood
 
 *Dragonborn Courtier (Nobles), Age 69, Male*
@@ -36,12 +42,10 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Pyria Proudmore the Seeker (Family - Spouse)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
-
 
 ### Idris Nightfall the Lost (Personal - Childhood friend)
 - **Status**: One-sided affection
@@ -51,7 +55,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 ### Vesper Voidwalker (Criminal - Informant)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Secretly funding the rebellion

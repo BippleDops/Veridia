@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Blackstone the Redeemed", "pyria blackstone the redeemed", "Pyria Blackstone Redeemed", "Redeemed the Blackstone Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Blackstone the Redeemed
 
 *Tabaxi Noble (Nobles), Age 41, Non-binary*
@@ -35,7 +41,6 @@ Last survivor of a fallen house, seeking to restore family honor A chance encoun
 ### Goals
 - **Short Term**: Recruit new members
 - **Long Term**: Build a lasting legacy
-
 
 ## Relationships
 ### Fiora Darkwater the Wise (Family - Spouse)

@@ -58,3 +58,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A corpse reveals a betrayal about a local noble
 - Strange accidents suggest a conspiracy
 - A corpse reveals the truth about the cult
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Depth Effect Quick Reference]]
+- [[Depth Effect Quick Reference (D&D_References)]]
+- [[Master_Lore_Index]]

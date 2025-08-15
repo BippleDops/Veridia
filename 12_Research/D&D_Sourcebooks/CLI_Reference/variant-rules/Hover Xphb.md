@@ -68,3 +68,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A stranger needs help investigating before winter
 - A merchant needs help finding before dawn
+
+## References
+
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]

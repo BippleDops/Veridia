@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Grimholt the Wise", "felicia grimholt the wise", "Felicia Grimholt Wise", "Wise the Grimholt Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Grimholt the Wise
 
 *Halfling Blacksmith (Commoners), Age 53, Non-binary*
@@ -13,7 +19,6 @@
 Tall and delicate, with Tied back white hair and Blue eyes. Dark skin. Birthmark shaped like a constellation.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Speaks to inanimate objects
@@ -36,7 +41,6 @@ Survivor of a disaster that destroyed their village They've fallen in love with 
 - **Short Term**: Recruit new members
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Aeliana Voidwalker the Strong (Political - Patron)
 - **Status**: Secretly hostile
@@ -47,11 +51,9 @@ Survivor of a disaster that destroyed their village They've fallen in love with 
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Hilda Voidwalker the Bold (Professional - Employee)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Is the lost heir to the throne

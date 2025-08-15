@@ -96,3 +96,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A document has gone missing and evil awakens
 - Strange accidents suggest a portal
 - A stranger needs help finding before dawn
+
+## References
+
+- [[Master_Spell_Compendium]]

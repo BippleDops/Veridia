@@ -1,11 +1,11 @@
 ---
+aliases: ["Rhea Goldleaf", "rhea goldleaf", "Goldleaf Rhea"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -78,7 +78,6 @@ Persuasion, Arcana
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 92 gold pieces
 - Set of thieves' tools
@@ -92,7 +91,6 @@ Persuasion, Arcana
 
 ---
 *Generated: 2025-08-15T03:21:04.036Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

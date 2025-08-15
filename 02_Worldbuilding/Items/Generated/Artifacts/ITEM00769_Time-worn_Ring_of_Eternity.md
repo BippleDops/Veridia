@@ -1,3 +1,9 @@
+---
+aliases: ["Time-worn Ring of Eternity", "time-worn ring of eternity", "Eternity of Ring Time-worn"]
+tags: [item, equipment]
+type: item
+---
+
 # Time-worn Ring of Eternity
 
 *Artifacts, Very Rare*
@@ -16,8 +22,6 @@ A time-worn ring radiating otherworldly power
 - Increase ability score by 2
 - Cast spell 3/day
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -32,7 +36,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.424Z*

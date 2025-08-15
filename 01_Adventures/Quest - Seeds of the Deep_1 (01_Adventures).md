@@ -28,15 +28,12 @@ improvements: 20
 - Time pressure
 - Moral dilemmas
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
 
-
 > [!figure] Portrait
-
 
 ## Objectives
 ### Primary
@@ -255,7 +252,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## Hooks
 - **Personal**: Character connection
 - **Professional**: Hired for the job
@@ -304,3 +300,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition
+
+## References
+
+- [[Banking Lord Cornelius Coinwright]]
+- [[Banking Lord Cornelius Coinwright (D&D_References)]]

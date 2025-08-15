@@ -42,7 +42,7 @@ danger_level: Moderate
 
 *Where Reality Drowns in Nothingness*
 
-> *"I have sailed every current in Aquabyssos, faced [[Leviathan]]s and survived the deepest trenches, but [[The Void Currents]][[...]] they are not of this world. They are holes in the ocean where existence itself becomes uncertain, where the laws of reality flow away like water through a broken dam."*
+> *"I have sailed every current in Aquabyssos, faced [[Leviathan]]s and survived the deepest trenches, but [[The Void Currents]][[Quest Corruption in ... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements|...]] they are not of this world. They are holes in the ocean where existence itself becomes uncertain, where the laws of reality flow away like water through a broken dam."*
 > — [[Navigator Abyssal Truthseeker]], sole survivor of the Meridian Deep Expedition
 
 ## 🔧 Deep Evaluation Improvements
@@ -59,7 +59,7 @@ danger_level: Moderate
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -207,7 +207,7 @@ The Void Currents represent the most dangerous and mysterious phenomenon in all 
 
 #### The Reality [[map]]ping Project
 
-**Period**: 150-100 years ago, systematic mapping of void [[Current Location]]s  
+**Period**: 150-100 years ago, systematic mapping of void [[Current_Location|Current Location]]s  
 **Method**: Long-distance observation and measurement techniques  
 **Results**: Partial maps showing void current locations and movement patterns  
 **Cost**: High cost in lives and resources for limited information gained  
@@ -709,7 +709,7 @@ Void Currents is a void-touched element of the setting, known for impossible ang
 
 Legends speak of Void Currents as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Void Currents.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -733,20 +733,17 @@ Void Currents is a notable location characterized by its unique features and str
 ### Founding
 Void Currents was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
-
 
 ## Connections
 - **North**: Trade road to neighboring settlement
@@ -779,7 +776,6 @@ Ongoing situations affecting Void Currents:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -816,3 +812,8 @@ Ongoing situations affecting Void Currents:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[The Void Currents]]
+- [[Compass Quest]]

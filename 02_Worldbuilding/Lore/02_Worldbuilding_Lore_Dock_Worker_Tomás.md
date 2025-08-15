@@ -2,7 +2,7 @@
 tags: ['[[Lore]]']
 ---
 
-# [[02 Worldbuilding]]/Lore/[[Dock Worker Tomás]]
+# [[02_Worldbuilding|02 Worldbuilding]]/Lore/[[Dock Worker Tomás]]
 
 ## Overview
 

@@ -1,11 +1,11 @@
 ---
+aliases: ["Petra Brightblade", "petra brightblade", "Brightblade Petra"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -78,7 +78,6 @@ Perception, Arcana, Persuasion, Insight
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 33 gold pieces
 - Mysterious key
@@ -93,7 +92,6 @@ Perception, Arcana, Persuasion, Insight
 
 ---
 *Generated: 2025-08-15T03:21:04.044Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

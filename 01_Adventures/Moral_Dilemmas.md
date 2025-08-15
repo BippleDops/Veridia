@@ -1,6 +1,5 @@
 ---
 
-
 title: Moral Dilemmas
 type: ethics
 tags:
@@ -325,8 +324,21 @@ status: active
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## See Also
 - Related content
 - Similar topics
 - Connected elements
+
+## References
+
+- [[Fortress of the Deeps]]
+- [[Hidden Sanctuary]]
+- [[Military Moral Quandaries]]
+- [[Political Compromise Costs]]
+- [[Random Encounters]]
+- [[Cathedral of Light]]
+- [[Mad Oracle Thessaly]]
+- [[Merchant Delilah Currentrunner]]
+- [[The Eternal Senate]]
+- [[Theological Warfare]]
+- [[Whisper-Touched William]]

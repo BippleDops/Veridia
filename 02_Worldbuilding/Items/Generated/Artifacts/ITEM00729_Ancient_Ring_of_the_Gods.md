@@ -1,3 +1,9 @@
+---
+aliases: ["Ancient Ring of the Gods", "ancient ring of the gods", "Ancient Ring of Gods", "Gods the of Ring Ancient"]
+tags: [item, equipment]
+type: item
+---
+
 # Ancient Ring of the Gods
 
 *Artifacts, Legendary (requires attunement)*
@@ -16,8 +22,6 @@ A ancient ring radiating otherworldly power
 - Immunity to charm
 - Time stop 1/week
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -32,7 +36,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.420Z*

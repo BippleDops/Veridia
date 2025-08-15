@@ -1,4 +1,5 @@
 ---
+aliases: ["Hidden Circlet of Power", "hidden circlet of power", "Power of Circlet Hidden"]
 tags: [generated]
 id: ITEM0063
 created: 2025-08-15T04:09:51.098Z
@@ -19,8 +20,6 @@ Crafted from darkwood with battle scars, in recently restored. It emanates a fai
 
 ## Quirk
 *Attracts small animals*
-
-
 
 ## History
 This item was blessed by the gods themselves decades ago. It has passed through many hands, each leaving their mark upon its destiny.

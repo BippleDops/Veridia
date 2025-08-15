@@ -1,4 +1,5 @@
 ---
+aliases: ["Ancient Blade of the Dawn", "ancient blade of the dawn", "Ancient Blade of Dawn", "Dawn the of Blade Ancient"]
 tags: [generated]
 id: ITEM0064
 created: 2025-08-15T04:09:51.099Z
@@ -18,8 +19,6 @@ Crafted from mithril with delicate filigree, in ancient but unbreakable. It eman
 
 ## Quirk
 *Changes color with user's mood*
-
-
 
 ## History
 This item was stolen from a dragon's hoard centuries ago. It has passed through many hands, each leaving their mark upon its destiny.

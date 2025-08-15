@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Ironforge the Mystic", "fiora ironforge the mystic", "Fiora Ironforge Mystic", "Mystic the Ironforge Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Ironforge the Mystic
 
 *Tiefling Cleric (Adventurers), Age 63, Female*
@@ -13,7 +19,6 @@
 Tall and delicate, with Braided elaborately auburn hair and Red eyes. Scarred skin. Burn scars on one side of face.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Believes in every conspiracy theory; Never uses people's real names
@@ -36,22 +41,18 @@ Accidentally gained powers and learning to control them They've made a deal they
 - **Short Term**: Find missing person
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Aeliana Quicksilver the Fallen (Political - Ally)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
 
-
 ### Brenna Quicksilver the Strong (Family - Parent)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Ysara Ravenheart the Strong (Professional - Partner)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ### Aeliana Lightbringer the Cunning (Criminal - Informant)
 - **Status**: On the verge of collapse
@@ -66,7 +67,6 @@ Accidentally gained powers and learning to control them They've made a deal they
 ### Brenna Keenblade the Lost (Personal - Love interest)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Possessed by ancient spirit

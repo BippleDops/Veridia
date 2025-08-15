@@ -26,3 +26,9 @@ Further information about this topic will be developed as the campaign progresse
 - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery
+
+## References
+
+- [[Assets Locations Location City Dream Enhancement Techniques Dream Enhancement Techniques.svg]]
+- [[Assets Locations Location City the Crystalline Foundry the Crystalline Foundry.svg]]
+- [[Assets Symbols Symbol Heraldry Aquabyssos Faction Web Aquabyssos Faction Web.svg]]

@@ -75,3 +75,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Cleric Xphb Nature Domain]]
+- [[cleric-xphb-nature-domain (classes)]]
+- [[cleric-xphb-nature-domain 2 (classes)]]
+- [[Deities of Dragonlance Neutral Phb]]
+- [[deities-of-dragonlance-neutral-phb (tables)]]

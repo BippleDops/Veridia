@@ -184,7 +184,7 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[04_Resources_Assets_Locations_location-city-enchanter-valdris-peacewarden-v1-enchanter-valdris-peacewarden.svg]] (ally)
 - [[04_Resources_Assets_Locations_location-city-innkeeper-marina-dreamwhisper-v1-innkeeper-marina-dreamwhisper.svg]] (enemy)
-- [[Quest   The Crown's Return]] (friend)
+- [[The Crown|Quest   The Crown's Return]] (friend)
 ---
 *Tags*: #npc #contact #worldbuilding
 
@@ -217,3 +217,7 @@ This NPC can serve multiple roles:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-innkeeper-marina-dreamwhisper-v1-innkeeper-marina-dreamwhisper.svg]]

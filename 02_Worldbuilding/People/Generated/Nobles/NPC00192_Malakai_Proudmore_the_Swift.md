@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Proudmore the Swift", "malakai proudmore the swift", "Malakai Proudmore Swift", "Swift the Proudmore Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Proudmore the Swift
 
 *Gnome Ambassador (Nobles), Age 26, Non-binary*
@@ -36,7 +42,6 @@ Exiled from their homeland, trying to rebuild their power base A prophetic dream
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Zephyr Hawthorne (Professional - Partner)
 - **Status**: Secretly hostile
@@ -46,7 +51,6 @@ Exiled from their homeland, trying to rebuild their power base A prophetic dream
 ### Nerys Oakenshield the Risen (Family - Sibling)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
-
 
 ### Faelyn Oakenshield (Criminal - Handler)
 - **Status**: On the verge of collapse

@@ -78,3 +78,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - An heirloom has gone missing and chaos spreads
 - A noble needs help delivering before winter
 - A journal reveals the truth about this place
+
+## References
+
+- [[Master_Item_Catalog]]

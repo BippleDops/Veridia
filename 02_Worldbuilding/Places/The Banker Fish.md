@@ -385,7 +385,6 @@ The Aquatic Bank connects to numerous important elements throughout Aquabyssos a
 
 *The Aquatic Bank stands as the ficial heart of Aquabyssos, where the wisdom of the depths meets the precision of sound banking, and where every transaction flows with the reliability of the eternal tides, anchored in trust and guided by the currents of prosperity.*
 
-
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
@@ -431,13 +430,11 @@ The Banker Fish is a notable location characterized by its unique features and s
 ### Founding
 The Banker Fish was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -494,7 +491,6 @@ Key stop on spices trade route
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -530,3 +526,8 @@ Key stop on spices trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Pearl_Harbor_City (Places)]]
+- [[Pearl_Harbor_City (D&D_References)]]

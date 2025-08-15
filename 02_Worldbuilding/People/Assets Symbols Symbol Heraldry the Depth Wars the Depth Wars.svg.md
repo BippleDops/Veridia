@@ -195,3 +195,7 @@ This NPC can serve multiple roles:
 - Civil war
 - Natural disasters
 - Current power structures established
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-lord-aldric-highwind-lord-aldric-highwind.svg]]

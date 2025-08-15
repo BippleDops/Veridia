@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Thornweave the Wanderer", "felicia thornweave the wanderer", "Felicia Thornweave Wanderer", "Wanderer the Thornweave Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Thornweave the Wanderer
 
 *Half-Orc Caravan Master (Merchants), Age 49, Male*
@@ -36,7 +42,6 @@ Uses their business as cover for other activities They've made a deal they're be
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Delara Ironforge the Bold (Personal - Nemesis)
 - **Status**: Mutually beneficial
@@ -47,11 +52,9 @@ Uses their business as cover for other activities They've made a deal they're be
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Ewan Dawnstrider the Strong (Family - Sibling)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Killed previous business owner

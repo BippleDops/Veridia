@@ -21,7 +21,7 @@ tags:
 - active
 - note
 - status/in-progress
-- ttrpg-cli/compendium/src/5e/vgm
+- ttrpg-cli/[[Compendium|Compendium]]/src/5e/vgm
 created: 2025-07-23
 modified: '2025-08-14'
 status: active
@@ -32,7 +32,7 @@ world: Both
 ---
 
 # Physical Variations; Yuan-ti Scale Pattern
-*Source: Volo's Guide to Monsters p. 97* 
+*Source: Volo's Guide to [[Monsters|Monsters]] p. 97* 
 
 **Yuan-ti Scale Pattern**
 
@@ -59,15 +59,15 @@ world: Both
 
 - Add 12_Research-specific enhancement
 
-## Player-Facing Summary
+## Player-[[facing|facing]] Summary
 
 Physical variations yuan ti scale pattern vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore|Lore]] Details
 
-Legends speak of physical variations yuan ti scale pattern vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around physical variations yuan ti scale pattern vgm.
+Legends speak of physical variations yuan ti scale pattern vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or [[Whispers|Whispers]] on the wind—that herald change around physical variations yuan ti scale pattern vgm.
 
-## DM Notes
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -90,3 +90,6 @@ Mentioned in The First Prophecy of Shadows
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+---
+**Navigation**: [[INDEX|🏠 Home]] | [[INDEX|📚 Index]]

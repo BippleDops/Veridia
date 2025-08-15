@@ -1,3 +1,9 @@
+---
+aliases: ["Superior Crystal of Swiftness", "superior crystal of swiftness", "Swiftness of Crystal Superior"]
+tags: [item, equipment]
+type: item
+---
+
 # Superior Crystal of Swiftness
 
 *Consumables, Uncommon*

@@ -1,3 +1,9 @@
+---
+aliases: ["Shadow Hammer of the Ancients", "shadow hammer of the ancients", "Shadow Hammer of Ancients", "Ancients the of Hammer Shadow"]
+tags: [item, equipment]
+type: item
+---
+
 # Shadow Hammer of the Ancients
 
 *Weapons, Uncommon (requires attunement)*

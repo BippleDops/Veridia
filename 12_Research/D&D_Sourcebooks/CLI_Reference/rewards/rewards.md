@@ -73,3 +73,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[QUEST0018_The_Sunken_Temple_Uprising]]
+- [[QUEST0078_The_Frozen_Fortress_Invasion]]

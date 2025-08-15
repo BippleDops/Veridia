@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Ironforge the Cunning", "vesper ironforge the cunning", "Vesper Ironforge Cunning", "Cunning the Ironforge Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Ironforge the Cunning
 
 *Gnome Dark Wizard (Villains), Age 49, Male*
@@ -36,22 +42,18 @@ Believes their evil acts serve a greater good A chance encounter last winter cha
 - **Short Term**: Recruit new members
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Jorah Crystalbrook the Wanderer (Professional - Mentor)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Felicia Ironforge the Scholar (Family - Spouse)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Jorah Zephyrblade the Wise (Political - Puppet)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Knows how the world will end

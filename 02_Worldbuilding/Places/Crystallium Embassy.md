@@ -51,7 +51,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -110,7 +110,7 @@ The Crystallium Embassy represents the technologically advanced crystal nation i
 **Objective:** Achieve complete technological surveillance of [[Abyssos Prime]]
 **Method:** Distribute crystal-enhanced devices throughout society with hidden monitoring functions
 **Current Status:** 30% penetration of government facilities, 60% of [[Academic Institutions]]
-**[[[[Time]]line]]:** Total surveillance capability within 2 years
+**[[Time|[[Time]]line]]:** Total surveillance capability within 2 years
 **Assets:** Technology distribution networks, research partnerships, commercial sales
 
 #### Operation Predictive Goverce
@@ -238,7 +238,7 @@ Legends speak of Crystallium Embassy as a nexus where past and present converge.
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -262,13 +262,11 @@ Crystallium Embassy is a notable location characterized by its unique features a
 ### Founding
 Crystallium Embassy was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -276,13 +274,11 @@ Crystallium Embassy was established in the distant past, growing from humble beg
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -328,7 +324,6 @@ Ongoing situations affecting Crystallium Embassy:
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -364,3 +359,7 @@ Ongoing situations affecting Crystallium Embassy:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Political Intrigue Master Index (D&D_References)]]

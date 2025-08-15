@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Xendar the Wanderer", "alaric xendar the wanderer", "Alaric Xendar Wanderer", "Wanderer the Xendar Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Xendar the Wanderer
 
 *Tiefling Shopkeeper (Merchants), Age 46, Non-binary*

@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Underhill the Lost", "gareth underhill the lost", "Gareth Underhill Lost", "Lost the Underhill Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Underhill the Lost
 
 *Aasimar Fighter (Adventurers), Age 52, Male*
@@ -13,7 +19,6 @@
 Below average and muscular, with Tied back unusual color hair and Brown eyes. Scarred skin. Missing ear from old battle.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Always tells the absolute truth; Incredibly optimistic despite evidence
@@ -36,22 +41,18 @@ Chosen by fate to fulfill an ancient prophecy A chance encounter last winter cha
 - **Short Term**: Find missing person
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Qadim Winterborn the Guardian (Personal - Childhood friend)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Ewan Youngblood the Broken (Family - Parent)
 - **Status**: Professional only
 - **History**: United by common enemy
 
-
 ### Fiora Youngblood the Fallen (Family - Spouse)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ### Kaelen Goldleaf the Seeker (Political - Ally)
 - **Status**: Mutually beneficial

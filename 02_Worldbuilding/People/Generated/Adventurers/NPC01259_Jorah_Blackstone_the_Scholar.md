@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Blackstone the Scholar", "jorah blackstone the scholar", "Jorah Blackstone Scholar", "Scholar the Blackstone Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Blackstone the Scholar
 
 *Half-Orc Bard (Adventurers), Age 35, Female*
@@ -13,7 +19,6 @@
 Short and slender, with Braided elaborately silver hair and Black eyes. Brown skin. Crooked nose from multiple breaks.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Believes in every conspiracy theory; Speaks to inanimate objects
@@ -35,7 +40,6 @@ Running from a dark past that won't stay buried They recently discovered a secre
 ### Goals
 - **Short Term**: Gather information
 - **Long Term**: Protect their loved ones
-
 
 ## Relationships
 ### Drusilla Ironwood the Cunning (Professional - Employer)

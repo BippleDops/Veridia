@@ -213,3 +213,7 @@ Member of House Serpentblood - Trait: magical affinity
 - Civil war
 - Natural disasters
 - Current power structures established
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-depth-safety-authorit-depth-safety-authorit.svg]]

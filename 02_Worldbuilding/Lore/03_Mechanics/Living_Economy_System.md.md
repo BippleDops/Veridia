@@ -96,3 +96,9 @@ improvements: 20
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[03_Mechanics_Living_Economy_System.md]]
+- [[Location_Network_Graph]]
+- [[Location Network Graph (Indexes)]]

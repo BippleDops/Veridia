@@ -99,3 +99,8 @@ improvements: 20
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[The Party]]
+- [[The Party (D&D_References)]]

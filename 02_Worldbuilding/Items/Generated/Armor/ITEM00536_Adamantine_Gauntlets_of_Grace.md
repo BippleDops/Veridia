@@ -1,3 +1,9 @@
+---
+aliases: ["Adamantine Gauntlets of Grace", "adamantine gauntlets of grace", "Grace of Gauntlets Adamantine"]
+tags: [item, equipment]
+type: item
+---
+
 # Adamantine Gauntlets of Grace
 
 *Armor, Common*

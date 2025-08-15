@@ -1,3 +1,9 @@
+---
+aliases: ["Simple Tool Kit of Reliability", "simple tool kit of reliability", "Reliability of Kit Tool Simple"]
+tags: [item, equipment]
+type: item
+---
+
 # Simple Tool Kit of Reliability
 
 *Mundane, Uncommon*
@@ -14,8 +20,6 @@ A simple tool kit bearing maker's mark
 - Never breaks or wears out
 - Functions in antimagic
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -30,7 +34,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.478Z*

@@ -122,3 +122,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[20 Appendix C Creatures]]
+- [[20-appendix-c-creatures (out-of-the-abyss)]]
+- [[chuul-spore-servant-oota (plant)]]

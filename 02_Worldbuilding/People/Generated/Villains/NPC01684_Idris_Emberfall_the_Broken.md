@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Emberfall the Broken", "idris emberfall the broken", "Idris Emberfall Broken", "Broken the Emberfall Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Emberfall the Broken
 
 *Firbolg Crime Boss (Villains), Age 28, Female*
@@ -36,17 +42,14 @@ Corrupted by an artifact or dark magic Strange abilities have begun manifesting 
 - **Short Term**: Gather information
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Baelor Quicksilver the Swift (Political - Puppet)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
 
-
 ### Hilda Ravenheart the Wanderer (Professional - Partner)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ### Alaric Jadeclaw the Bold (Political - Opposition)
 - **Status**: Professional only
@@ -61,7 +64,6 @@ Corrupted by an artifact or dark magic Strange abilities have begun manifesting 
 ### Elric Silverleaf the Wise (Professional - Employer)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Believes they're saving the world

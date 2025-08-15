@@ -1,11 +1,11 @@
 ---
+aliases: ["Ewan Goldleaf", "ewan goldleaf", "Goldleaf Ewan"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -77,7 +77,6 @@ Insight, Arcana, Athletics
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 77 gold pieces
 - Well-worn journal
@@ -91,7 +90,6 @@ Insight, Arcana, Athletics
 
 ---
 *Generated: 2025-08-15T03:21:04.035Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

@@ -226,12 +226,10 @@ Rather than a fight to the death, this is a test of the party's worthiness and u
 
 Mentioned in The Second Prophecy of Winds
 
-
 ## Pronunciation Guide
 - **Both**: [BOTH]
 - **Fourth**: [FOURTH]
 - **Aethermoor**: [AYTHERMOOR]
-
 
 ## Alternate Descriptions
 - **First Impression**: Initial appearance

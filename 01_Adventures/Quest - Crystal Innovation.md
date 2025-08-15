@@ -14,18 +14,15 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 > [!figure] Asset
 ![](04_Resources/Assets/Portraits/portrait-npc-quest-crystal-innovation-quest-crystal-innovation.svg)
 
 # Quest - Crystal Innovation
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -113,7 +110,6 @@ Confronting the source of the problem and determining outcomes.
 
 ### Optional Areas
 - *[Side locations]*
-
 
 ## Time Limit
 - **Deadline**: When it must be completed

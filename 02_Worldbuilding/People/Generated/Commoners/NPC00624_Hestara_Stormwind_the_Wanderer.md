@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Stormwind the Wanderer", "hestara stormwind the wanderer", "Hestara Stormwind Wanderer", "Wanderer the Stormwind Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Stormwind the Wanderer
 
 *Human Carpenter (Commoners), Age 31, Female*
@@ -13,7 +19,6 @@
 Below average and lanky, with Wild and unkempt silver hair and Black eyes. Olive skin. Crooked nose from multiple breaks.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Always hungry and eating something
@@ -42,7 +47,6 @@ Former soldier trying to adjust to civilian life They've been marked by a secret
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Alaric Ironforge the Broken (Personal - Ex-lover)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
@@ -51,7 +55,6 @@ Former soldier trying to adjust to civilian life They've been marked by a secret
 ### Caelum Xendar the Scholar (Political - Spy)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Can hear the thoughts of others

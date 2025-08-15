@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Proudmore the Mystic", "kaelen proudmore the mystic", "Kaelen Proudmore Mystic", "Mystic the Proudmore Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Proudmore the Mystic
 
 *Dwarf Appraiser (Merchants), Age 73, Male*
@@ -36,7 +42,6 @@ Built their business from nothing through cunning and hard work They've made a d
 - **Short Term**: Recruit new members
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Xander Keenblade the Seeker (Family - Child)
 - **Status**: Professional only
@@ -46,7 +51,6 @@ Built their business from nothing through cunning and hard work They've made a d
 ### Aldric Silverleaf the Broken (Political - Patron)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
-
 
 ### Zephyr Grimholt the Risen (Family - Child)
 - **Status**: One-sided affection

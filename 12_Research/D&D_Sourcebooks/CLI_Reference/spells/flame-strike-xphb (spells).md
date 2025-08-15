@@ -95,7 +95,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -114,4 +113,21 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[flame-strike-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[flame-strike-xphb (spells)|flame-strike-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Guardian Naga Xmm]]
+- [[guardian-naga-xmm (celestial)]]
+- [[Adult Gold Dragon Xmm]]
+- [[Ancient Gold Dragon Xmm]]
+- [[adult-gold-dragon-xmm (dragon)]]
+- [[ancient-gold-dragon-xmm (dragon)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Light Domain Xphb]]
+- [[Paladin Xphb Oath of Devotion Xphb]]
+- [[cleric-xphb-light-domain-xphb (classes)]]
+- [[cleric-xphb-light-domain-xphb 2 (classes)]]
+- [[paladin-xphb-oath-of-devotion-xphb (classes)]]

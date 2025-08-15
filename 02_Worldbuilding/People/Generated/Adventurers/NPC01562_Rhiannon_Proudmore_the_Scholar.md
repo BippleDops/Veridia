@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Proudmore the Scholar", "rhiannon proudmore the scholar", "Rhiannon Proudmore Scholar", "Scholar the Proudmore Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Proudmore the Scholar
 
 *Halfling Bard (Adventurers), Age 46, Non-binary*
@@ -36,12 +42,10 @@ Searching for a legendary treasure their parent died seeking They've been marked
 - **Short Term**: Complete current contract
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Solas Keenblade the Redeemed (Personal - Best friend)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ### Malakai Ashford the Fallen (Personal - Childhood friend)
 - **Status**: Mutually beneficial
@@ -52,11 +56,9 @@ Searching for a legendary treasure their parent died seeking They've been marked
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Elric Silverleaf the Guardian (Political - Opposition)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ### Felicia Youngblood the Wise (Professional - Partner)
 - **Status**: Strong and trusting

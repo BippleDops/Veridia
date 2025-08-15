@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Winterborn the Swift", "orion winterborn the swift", "Orion Winterborn Swift", "Swift the Winterborn Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Winterborn the Swift
 
 *Aasimar Blacksmith (Commoners), Age 43, Non-binary*
@@ -36,27 +42,22 @@ Survivor of a disaster that destroyed their village They recently discovered a s
 - **Short Term**: Recruit new members
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Xander Ironwood the Wise (Political - Opposition)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Vesper Ashford the Guardian (Political - Spy)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ### Xander Goldleaf the Wanderer (Criminal - Accomplice)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Ewan Proudmore the Mystic (Criminal - Fence)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
-
 
 ### Nerys Thornweave the Seeker (Political - Spy)
 - **Status**: Blood oath bound
@@ -66,7 +67,6 @@ Survivor of a disaster that destroyed their village They recently discovered a s
 ### Rhiannon Voidwalker the Redeemed (Political - Patron)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Has dragon blood in their veins

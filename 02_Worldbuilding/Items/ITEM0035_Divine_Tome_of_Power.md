@@ -1,4 +1,5 @@
 ---
+aliases: ["Divine Tome of Power", "divine tome of power", "Power of Tome Divine"]
 tags: [generated]
 id: ITEM0035
 created: 2025-08-15T04:09:51.088Z

@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Brightblade", "rhiannon brightblade", "Brightblade Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Brightblade
 
 *Half-Orc Courtier (Nobles), Age 58, Non-binary*
@@ -36,7 +42,6 @@ Last survivor of a fallen house, seeking to restore family honor Strange abiliti
 - **Short Term**: Make this month's payment
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Urien Oakenshield the Strong (Personal - Best friend)
 - **Status**: Professional only
@@ -47,16 +52,13 @@ Last survivor of a fallen house, seeking to restore family honor Strange abiliti
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Felicia Voidwalker (Political - Puppet)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
 
-
 ### Dara Thornweave (Family - Parent)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ### Hilda Ashford (Family - Cousin)
 - **Status**: Secretly hostile
@@ -66,7 +68,6 @@ Last survivor of a fallen house, seeking to restore family honor Strange abiliti
 ### Gavril Youngblood the Wise (Personal - Nemesis)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Actually a bastard with no real claim

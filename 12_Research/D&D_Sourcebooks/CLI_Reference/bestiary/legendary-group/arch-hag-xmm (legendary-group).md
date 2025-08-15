@@ -71,3 +71,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[Monsters by Habitat Any Habitat Monsters Xmm]]
+- [[monsters-by-habitat-any-habitat-monsters-xmm (tables)]]

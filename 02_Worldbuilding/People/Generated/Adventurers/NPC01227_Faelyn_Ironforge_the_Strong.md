@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Ironforge the Strong", "faelyn ironforge the strong", "Faelyn Ironforge Strong", "Strong the Ironforge Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Ironforge the Strong
 
 *Half-Orc Ranger (Adventurers), Age 48, Male*
@@ -36,32 +42,26 @@ Searching for a legendary treasure their parent died seeking They've fallen in l
 - **Short Term**: Complete current contract
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Aldric Darkwater the Scholar (Professional - Employer)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Rhiannon Frostwhisper the Strong (Family - Parent)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ### Delara Thornweave the Seeker (Personal - Love interest)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
 
-
 ### Hilda Darkwater the Swift (Professional - Employee)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
 
-
 ### Fiora Brightblade the Redeemed (Personal - Love interest)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Is from the future

@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Brightblade the Guardian", "thalia brightblade the guardian", "Thalia Brightblade Guardian", "Guardian the Brightblade Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Brightblade the Guardian
 
 *Half-Orc Heir (Nobles), Age 65, Male*
@@ -13,7 +19,6 @@
 Very tall and heavyset, with Partially shaved red hair and Black eyes. Unusual hue skin. Crooked nose from multiple breaks.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Compulsive liar about minor things; Always hungry and eating something
@@ -36,12 +41,10 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Short Term**: Survive until next week
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Felicia Emberfall the Wise (Political - Patron)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
-
 
 ### Zephyr Voidwalker (Personal - Nemesis)
 - **Status**: Secretly hostile
@@ -52,11 +55,9 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
 
-
 ### Ysara Proudmore (Family - Cousin)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Secretly funding the rebellion

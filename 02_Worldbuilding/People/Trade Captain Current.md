@@ -35,7 +35,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-trade-captain-current-trade-captain-current.svg)
 
@@ -189,7 +188,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -259,3 +257,9 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Quest - The Missing Fleet]]
+- [[Quest - The Missing Fleet_1 (01_Adventures)]]
+- [[Assets Locations Location City Crystal Master Prism Lightweaver V1 Crystal Master Prism Lightweaver.svg]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Stormwind the Scholar", "urien stormwind the scholar", "Urien Stormwind Scholar", "Scholar the Stormwind Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Stormwind the Scholar
 
 *Half-Elf Ranger (Adventurers), Age 40, Female*
@@ -13,7 +19,6 @@
 Tall and compact, with Wild and unkempt bald hair and Gray eyes. Freckled skin. Missing finger on left hand.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Constantly quotes ancient texts
@@ -46,7 +51,6 @@ Seeking vengeance for a murdered mentor A chance encounter last winter changed t
 ### Nerys Winterborn the Wise (Criminal - Handler)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
-
 
 ### Drusilla Darkwater the Guardian (Criminal - Handler)
 - **Status**: Recently reconciled

@@ -1,11 +1,11 @@
 ---
+aliases: ["Xara Ironforge", "xara ironforge", "Ironforge Xara"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -79,7 +79,6 @@ Persuasion, Arcana, Investigation
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 94 gold pieces
 - Set of thieves' tools
@@ -92,7 +91,6 @@ Persuasion, Arcana, Investigation
 
 ---
 *Generated: 2025-08-15T03:21:04.033Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

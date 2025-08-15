@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Ravenheart the Cunning", "solas ravenheart the cunning", "Solas Ravenheart Cunning", "Cunning the Ravenheart Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Ravenheart the Cunning
 
 *Aasimar Broker (Merchants), Age 64, Male*
@@ -36,7 +42,6 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Idris Emberfall the Cunning (Political - Patron)
 - **Status**: Complicated history
@@ -47,7 +52,6 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Branwen Stormwind the Mystic (Family - Child)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
@@ -56,7 +60,6 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 ### Jorah Underhill the Wise (Criminal - Fence)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ### Rhiannon Ashford the Strong (Criminal - Target)
 - **Status**: Blood oath bound

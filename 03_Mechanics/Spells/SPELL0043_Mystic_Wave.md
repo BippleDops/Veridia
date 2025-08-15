@@ -1,4 +1,5 @@
 ---
+aliases: ["Mystic Wave", "mystic wave", "Wave Mystic"]
 tags: [generated]
 id: SPELL0043_Mystic_Wave
 created: 2025-08-15T04:09:51.476Z

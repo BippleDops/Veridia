@@ -98,3 +98,19 @@ Further information about this topic will be developed as the campaign progresse
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
+
+## References
+
+- [[Assets Locations Location City Master Goldwin Ledgerkeeper Master Goldwin Ledgerkeeper.svg]]
+
+## Objective
+
+*To be added*
+
+## Tasks
+
+*To be added*
+
+## Complications
+
+*To be added*

@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Grimholt the Bold", "drusilla grimholt the bold", "Drusilla Grimholt Bold", "Bold the Grimholt Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Grimholt the Bold
 
 *Elf Appraiser (Merchants), Age 75, Male*
@@ -41,7 +47,6 @@ Uses their business as cover for other activities A chance encounter last winter
 ### Faelyn Lightbringer the Strong (Political - Spy)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ### Drusilla Oakenshield the Lost (Family - Spouse)
 - **Status**: Recently reconciled

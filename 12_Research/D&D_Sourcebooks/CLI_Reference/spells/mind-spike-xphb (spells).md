@@ -104,7 +104,6 @@ Mentioned in The Hidden Prophecy of Shadows
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -123,4 +122,4 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[mind-spike-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[mind-spike-xphb (spells)|mind-spike-xphb (spells)-phb]]` in CLI_Reference/spells/

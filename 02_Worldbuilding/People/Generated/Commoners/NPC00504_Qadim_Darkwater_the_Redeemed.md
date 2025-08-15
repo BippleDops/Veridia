@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Darkwater the Redeemed", "qadim darkwater the redeemed", "Qadim Darkwater Redeemed", "Redeemed the Darkwater Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Darkwater the Redeemed
 
 *Dwarf Blacksmith (Commoners), Age 41, Non-binary*
@@ -36,12 +42,10 @@ Survivor of a disaster that destroyed their village They recently discovered a s
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Felicia Crystalbrook the Fallen (Professional - Mentor)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ### Elric Hawthorne the Fallen (Personal - Childhood friend)
 - **Status**: Complicated history
@@ -51,7 +55,6 @@ Survivor of a disaster that destroyed their village They recently discovered a s
 ### Caelum Thornweave the Mystic (Personal - Best friend)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Knows location of ancient treasure

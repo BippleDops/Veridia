@@ -1,3 +1,9 @@
+---
+aliases: ["Frost Dagger of Speed", "frost dagger of speed", "Speed of Dagger Frost"]
+tags: [item, equipment]
+type: item
+---
+
 # Frost Dagger of Speed
 
 *Weapons, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A frost dagger made of crystallized magic
 - +1 to attack and damage rolls
 - Returns when thrown
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -32,7 +36,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.354Z*

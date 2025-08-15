@@ -1,3 +1,9 @@
+---
+aliases: ["Cursed Staff of the Ancients", "cursed staff of the ancients", "Cursed Staff of Ancients", "Ancients the of Staff Cursed"]
+tags: [item, equipment]
+type: item
+---
+
 # Cursed Staff of the Ancients
 
 *Weapons, Uncommon*
@@ -14,8 +20,6 @@ A cursed staff carved from dragon bone
 - Deals extra 1d6 elemental damage
 - Critical hits on 19-20
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -30,7 +34,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.366Z*

@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Voidwalker the Seeker", "hestara voidwalker the seeker", "Hestara Voidwalker Seeker", "Seeker the Voidwalker Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Voidwalker the Seeker
 
 *Human Corrupt Noble (Villains), Age 58, Female*
@@ -13,7 +19,6 @@
 Towering and compact, with Wild and unkempt gray hair and Amber eyes. Unusual hue skin. Gold tooth that glints when smiling.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Always tells the absolute truth
@@ -36,12 +41,10 @@ Born into evil but questioning their path A family member's death has left them 
 - **Short Term**: Complete current contract
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Dara Keenblade the Swift (Professional - Employer)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ### Jorah Quicksilver the Fallen (Political - Puppet)
 - **Status**: Strong and trusting

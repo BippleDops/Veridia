@@ -276,7 +276,6 @@ creature: Custom NPC
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
 
-
 ## See Also
 - Related content
 - Similar topics
@@ -320,3 +319,7 @@ creature: Custom NPC
 4. HP maximum halved
 5. Speed reduced to 0
 6. Death
+
+## References
+
+- [[03_Mechanics_Conditions_Quick_Ref]]

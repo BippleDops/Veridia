@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Oakenshield the Mystic", "idris oakenshield the mystic", "Idris Oakenshield Mystic", "Mystic the Oakenshield Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Oakenshield the Mystic
 
 *Tiefling Fighter (Adventurers), Age 21, Non-binary*
@@ -36,22 +42,18 @@ Seeking vengeance for a murdered mentor They recently discovered a secret that c
 - **Short Term**: Recruit new members
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Dara Hawthorne the Seeker (Political - Spy)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Fiora Ravenheart the Scholar (Criminal - Target)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Corvus Stormwind the Bold (Political - Puppet)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Has died and been resurrected

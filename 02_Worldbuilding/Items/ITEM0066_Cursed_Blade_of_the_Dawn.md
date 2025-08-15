@@ -1,4 +1,5 @@
 ---
+aliases: ["Cursed Blade of the Dawn", "cursed blade of the dawn", "Cursed Blade of Dawn", "Dawn the of Blade Cursed"]
 tags: [generated]
 id: ITEM0066
 created: 2025-08-15T04:09:51.099Z
@@ -18,8 +19,6 @@ Crafted from dragonscale with ancient symbols, in pristine condition. It emanate
 
 ## Quirk
 *Occasionally speaks in ancient tongue*
-
-
 
 ## History
 This item was blessed by the gods themselves decades ago. It has passed through many hands, each leaving their mark upon its destiny.

@@ -1,3 +1,9 @@
+---
+aliases: ["Ornate Map Case of Quality", "ornate map case of quality", "Quality of Case Map Ornate"]
+tags: [item, equipment]
+type: item
+---
+
 # Ornate Map Case of Quality
 
 *Mundane, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A ornate map case expertly crafted
 - Grants minor benefit
 - Works perfectly always
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -30,7 +34,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.487Z*

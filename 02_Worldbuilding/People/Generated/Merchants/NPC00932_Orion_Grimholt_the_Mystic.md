@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Grimholt the Mystic", "orion grimholt the mystic", "Orion Grimholt Mystic", "Mystic the Grimholt Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Grimholt the Mystic
 
 *Elf Appraiser (Merchants), Age 64, Female*
@@ -13,7 +19,6 @@
 Below average and delicate, with Carefully styled blonde hair and Gray eyes. Olive skin. Gold tooth that glints when smiling.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Compulsive liar about minor things
@@ -36,12 +41,10 @@ Inherited a failing business and turned it around They're being blackmailed by s
 - **Short Term**: Make this month's payment
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Pyria Youngblood the Bold (Family - Spouse)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ### Ewan Winterborn the Lost (Professional - Partner)
 - **Status**: Complicated history
@@ -57,16 +60,13 @@ Inherited a failing business and turned it around They're being blackmailed by s
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Caelum Stormwind the Bold (Criminal - Handler)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
 
-
 ### Branwen Youngblood the Seeker (Family - Child)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Smuggles illegal magical items

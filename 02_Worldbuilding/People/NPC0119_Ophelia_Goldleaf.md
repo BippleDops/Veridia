@@ -1,11 +1,11 @@
 ---
+aliases: ["Ophelia Goldleaf", "ophelia goldleaf", "Goldleaf Ophelia"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -79,7 +79,6 @@ Investigation, Perception
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 85 gold pieces
 - Well-worn journal
@@ -91,7 +90,6 @@ Investigation, Perception
 
 ---
 *Generated: 2025-08-15T03:21:04.039Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

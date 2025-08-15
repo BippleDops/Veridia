@@ -27,9 +27,9 @@ climate: Temperate, frequently shrouded in mist
 danger_level: 9
 government: None (Anarchic)
 related_entities:
-- '[[The [[Shadow Conspiracy]]|[[02 Worldbuilding]]/[[Groups]]/The Shadow Conspiracy]]'
-- '[[[[Memory Alteration]]s]]'
-- '[[[[Memory Meadows]] Black Market]]'
+- '[[Shadow Conspiracy|The [[Shadow Conspiracy]]|[[02_Worldbuilding|02 Worldbuilding]]/[[Groups]]/The Shadow Conspiracy]]'
+- '[[Memory Alteration|[[Memory Alteration]]s]]'
+- '[[Memory Meadows|[[Memory Meadows]] Black Market]]'
 size: 12 square miles
 updated: '2025-08-13T12:34:17.007400+00:00'
 world: Both Aethermoor and Aquabyssos
@@ -59,7 +59,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -135,7 +135,7 @@ Buildings on Whisper Island exist in states of constant, subtle flux:
 - Some may be the same individuals appearing with different faces
 - Communicate through implied meanings and half-spoken thoughts
 
-**[[The Archive Keepers]]**: [[Mysterious Figure]]s who maintain the island's memory repositories
+****: [[Mysterious Figure]]s who maintain the island's memory repositories
 - Rarely interact directly with visitors
 - Appear to possess complete knowledge of everything that occurs on the island
 - May not be entirely human anymore
@@ -240,7 +240,7 @@ Ongoing conflict between different memory merchant factions:
 Investigation into missing persons whose identities have been completely erased:
 - Victims include important political figures from multiple governments
 - Evidence suggests coordinated operation spanning decades
-- May be connected to larger conspiracy involving [[[[Aboleth]] Mind Mazes]]
+- May be connected to larger conspiracy involving [[Aboleth|[[Aboleth]] Mind Mazes]]
 - Potential threat to stability of both surface and underwater governments
 
 ## Quest Hooks
@@ -260,7 +260,7 @@ Investigation into missing persons whose identities have been completely erased:
 Neither surface nor underwater governments claim Whisper Island:
 - [[The Azure Coast]] authorities avoid the area entirely
 - [[Aquabyssos]] considers it "cursed waters" outside their territory
-- Various [[Criminal [[Organization]]s]] compete for informal control
+- Various [[Organization|Criminal [[Organization]]s]] compete for informal control
 - International law becomes meaningless in island's waters
 
 ## Connections to Ongoing Campaigns
@@ -275,7 +275,6 @@ Whisper Island serves as:
 - Center of identity-based adventure themes
 - [[Link]] between memory-focused storylines across the campaign world
 EOF < /dev/
-
 
 ## Government
 - **Type**: Local council
@@ -298,7 +297,7 @@ Legends speak of Whisper Island as a nexus where past and present converge. Loca
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -322,13 +321,11 @@ Whisper Island is a notable location characterized by its unique features and st
 ### Founding
 Whisper Island was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -374,7 +371,6 @@ Ongoing situations affecting Whisper Island:
 - 20% middle class
 - 79% working poor
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -406,3 +402,8 @@ Ongoing situations affecting Whisper Island:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Aethermoor - Session 01 Blood in the Harbor]]
+- [[Aquabyssos Ambassadors]]

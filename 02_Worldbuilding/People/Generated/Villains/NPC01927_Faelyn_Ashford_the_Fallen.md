@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Ashford the Fallen", "faelyn ashford the fallen", "Faelyn Ashford Fallen", "Fallen the Ashford Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Ashford the Fallen
 
 *Human Cultist (Villains), Age 60, Female*
@@ -13,7 +19,6 @@
 Short and lanky, with Dreadlocks brown hair and Brown eyes. Brown skin. Birthmark shaped like a constellation.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Always tells the absolute truth; Never backs down from any challenge; Never uses people's real names
@@ -36,22 +41,18 @@ Corrupted by an artifact or dark magic They've been marked by a secret society.
 - **Short Term**: Complete current contract
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Orion Frostwhisper the Swift (Personal - Nemesis)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
 
-
 ### Idris Quicksilver the Redeemed (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
 
-
 ### Ysara Stormwind the Cunning (Professional - Partner)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ### Erasmus Darkwater the Mystic (Criminal - Fence)
 - **Status**: Strong and trusting

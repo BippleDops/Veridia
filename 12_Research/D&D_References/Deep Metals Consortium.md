@@ -66,3 +66,10 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[The Deep Harvest]]
+- [[Underwater Breathing]]
+- [[The Deep Harvest (D&D_References)]]
+- [[Underwater Breathing (D&D_References)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Dawnstrider the Lost", "thalia dawnstrider the lost", "Thalia Dawnstrider Lost", "Lost the Dawnstrider Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Dawnstrider the Lost
 
 *Aasimar Shopkeeper (Merchants), Age 34, Female*
@@ -13,7 +19,6 @@
 Short and muscular, with Short and neat red hair and Brown eyes. Scarred skin. Birthmark shaped like a constellation.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Flirts with everyone regardless of interest; Sees doom and gloom everywhere; Collects unusual and worthless objects
@@ -36,22 +41,18 @@ Former adventurer who retired to open a shop Strange abilities have begun manife
 - **Short Term**: Recruit new members
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Aldric Thornweave the Broken (Family - Child)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Faelyn Proudmore the Guardian (Criminal - Fence)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Branwen Dawnstrider the Lost (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ### Idris Ironwood the Wise (Family - Spouse)
 - **Status**: Secretly hostile

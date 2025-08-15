@@ -191,7 +191,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Mentioned in The Hidden Prophecy of Winds
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -204,3 +203,10 @@ Mentioned in The Hidden Prophecy of Winds
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Master_Spell_Compendium]]
+- [[Enspelled Weapon Xdmg]]
+- [[enspelled-weapon-xdmg (items)]]

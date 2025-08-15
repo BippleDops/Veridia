@@ -1,4 +1,5 @@
 ---
+aliases: ["Forgotten Orb of the Dawn", "forgotten orb of the dawn", "Forgotten Orb of Dawn", "Dawn the of Orb Forgotten"]
 tags: [generated]
 id: ITEM0093
 created: 2025-08-15T04:09:51.107Z
@@ -19,8 +20,6 @@ Crafted from starfall iron with intricate runes, in showing age but sturdy. It e
 
 ## Quirk
 *Whispers names of previous owners*
-
-
 
 ## History
 This item was corrupted by dark magic ages ago. It has passed through many hands, each leaving their mark upon its destiny.

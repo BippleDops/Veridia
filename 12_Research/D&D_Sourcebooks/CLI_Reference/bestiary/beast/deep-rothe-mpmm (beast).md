@@ -130,3 +130,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A map reveals ancient history about the cult
 - Strange sightings suggest a portal
 - A shipment has gone missing and war looms
+
+## References
+
+- [[Deep Rothe Mpmm]]
+- [[4 Assorted Beasts]]
+- [[4-assorted-beasts (volos-guide-to-monsters)]]

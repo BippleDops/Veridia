@@ -75,3 +75,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A corpse reveals the truth about the government
 - Strange accidents suggest a curse
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Quaals Feather Token Xdmg]]
+- [[quaals-feather-token-xdmg (items)]]
+- [[Arcana Uncommon Xdmg]]
+- [[Implements Uncommon Xdmg]]
+- [[Random Magic Items Arcana]]
+- [[Random Magic Items Implements]]
+- [[arcana-uncommon-xdmg (tables)]]
+- [[implements-uncommon-xdmg (tables)]]
+- [[random-magic-items-arcana (tables)]]
+- [[random-magic-items-implements (tables)]]

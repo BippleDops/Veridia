@@ -48,3 +48,16 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Iron Flask Xdmg]]
+- [[Ring of Djinni Summoning Xdmg]]
+- [[iron-flask-xdmg (items)]]
+- [[ring-of-djinni-summoning-xdmg (items)]]
+- [[Coastal Encounters Levels 1116 Xge]]
+- [[Coastal Encounters Levels 1720 Xge]]
+- [[Monsters by Habitat Coastal Monsters Xmm]]
+- [[coastal-encounters-levels-1116-xge (tables)]]
+- [[coastal-encounters-levels-1720-xge (tables)]]
+- [[monsters-by-habitat-coastal-monsters-xmm (tables)]]

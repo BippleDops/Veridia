@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Voidwalker the Risen", "fiora voidwalker the risen", "Fiora Voidwalker Risen", "Risen the Voidwalker Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Voidwalker the Risen
 
 *Half-Orc Ambassador (Nobles), Age 73, Non-binary*
@@ -13,7 +19,6 @@
 Very tall and delicate, with Tied back red hair and Black eyes. Freckled skin. Crooked nose from multiple breaks.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Flirts with everyone regardless of interest; Compulsive liar about minor things
@@ -36,17 +41,14 @@ Last survivor of a fallen house, seeking to restore family honor Strange abiliti
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Caelum Keenblade (Personal - Best friend)
 - **Status**: Complicated history
 - **History**: United by common enemy
 
-
 ### Brenna Silverleaf the Broken (Personal - Love interest)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
-
 
 ### Dara Ironwood the Seeker (Family - Parent)
 - **Status**: Strong and trusting

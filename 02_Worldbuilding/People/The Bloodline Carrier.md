@@ -148,7 +148,6 @@ Lysander wears ceremonial plate armor forged from blessed metals and inscribed w
 
 He maintains the Bloodline Sanctum, a crystal cathedral where the spirits of his ancestors dwell in crystalline statues that can speak and offer guidance. This sacred space serves both as a family shrine and a meeting place for others who carry significant magical bloodlines.
 
-
 ## Stats
 - **AC**: 12
 - **HP**: 22 (4d8)
@@ -196,7 +195,6 @@ He maintains the Bloodline Sanctum, a crystal cathedral where the spirits of his
 **Primary**: Preserve and protect the purity of magical bloodlines for future generations
 **Secondary**: Restore the rightful royal bloodlines to their proper positions of power
 **Hidden**: Discover the true purpose behind his bloodline's celestial blessing
-
 
 ## Secrets
 - Hidden information about this character
@@ -346,7 +344,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -382,3 +379,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Consequence Chain 3 Reality Merger Diplomatic Crisis]]
+- [[Assets Locations Location City Master Goldwin Ledgerkeeper V1 Master Goldwin Ledgerkeeper.svg]]
+- [[Marina-Red-Tide-Coralheart]]
+- [[Marina-Red-Tide-Coralheart (D&D_References)]]

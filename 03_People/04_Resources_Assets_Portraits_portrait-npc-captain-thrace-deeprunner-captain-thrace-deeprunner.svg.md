@@ -11,18 +11,18 @@ created: '2025-01-15'
 
 ## Portrait
 
-![[portrait_04_resources_assets_portraits_portrait-npc-captain-thrace-deeprunner-captain-thrace-deeprunner.svg.png]]
+![[04_Resources|portrait_04_resources_assets_portraits_portrait-npc-captain-thrace-deeprunner-captain-thrace-deeprunner.svg.png]]
 
 *Portrait reference for 04_Resources_Assets_Portraits_portrait-npc-captain-thrace-deeprunner-captain-thrace-deeprunner.svg*
 
 ## Overview
-This topic is referenced in [[Assets Symbols Symbol Heraldry the Scream Archives the Scream Archives.svg]] and other parts of the campaign.
+This topic is referenced in  and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Assets Symbols Symbol Heraldry the Scream Archives the Scream Archives.svg]]
+- Referenced by: 
 - Related topics in the same category
 
 ## Details
@@ -75,3 +75,8 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+## References
+
+- 
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-thrace-deeprunner-captain-thrace-deeprunner.svg_Quick_Ref]]

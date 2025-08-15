@@ -82,3 +82,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+## References
+
+- [[Master_Spell_Compendium]]

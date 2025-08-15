@@ -166,3 +166,12 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Githyanki Knight Xmm]]
+- [[Iron Flask Xdmg]]
+- [[iron-flask-xdmg (items)]]
+- [[Githyanki Raiding Parties Githyanki Special Allies Mtf]]
+- [[Githyanki Raiding Parties Githyanki Special]]
+- [[githyanki-raiding-parties-raiding-party-leader-mtf]]

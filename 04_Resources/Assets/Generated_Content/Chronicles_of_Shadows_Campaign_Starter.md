@@ -1,3 +1,8 @@
+---
+tags: [misc]
+type: misc
+---
+
 # Chronicles of Shadows
 
 *A Campaign Starter for 4-6 players*

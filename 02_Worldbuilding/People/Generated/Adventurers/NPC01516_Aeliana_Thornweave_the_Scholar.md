@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Thornweave the Scholar", "aeliana thornweave the scholar", "Aeliana Thornweave Scholar", "Scholar the Thornweave Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Thornweave the Scholar
 
 *Halfling Rogue (Adventurers), Age 68, Non-binary*
@@ -36,12 +42,10 @@ Running from a dark past that won't stay buried They've made a deal they're begi
 - **Short Term**: Find missing person
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Malakai Brightblade the Fallen (Family - Cousin)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ### Faelyn Frostwhisper the Broken (Professional - Rival)
 - **Status**: Strained but maintaining
@@ -57,7 +61,6 @@ Running from a dark past that won't stay buried They've made a deal they're begi
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
 
-
 ### Ewan Winterborn the Swift (Political - Ally)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
@@ -66,7 +69,6 @@ Running from a dark past that won't stay buried They've made a deal they're begi
 ### Ysara Youngblood the Scholar (Professional - Mentor)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Is from the future

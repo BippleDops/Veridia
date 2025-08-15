@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-shadow-brokers-shadow-brokers.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -199,7 +197,6 @@ Mentioned in The Hidden Prophecy of Shadows
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -269,3 +266,9 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City Weapon Master Dain Sharpedge Weapon Master Dain Sharpedge.svg]]
+- [[Assets Locations Location City the Luminous Dawn Cathedral V1 the Luminous Dawn Cathedral.svg]]
+- [[Assets Locations Location City the Sunken Cathedral of Perfect Order the Sunken Cathedral of Perfect Order.svg]]

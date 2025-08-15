@@ -20,14 +20,11 @@ improvements: 20
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
 
-
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
-
 
 ## Connections
 - **North**: Trade road to neighboring settlement
@@ -49,7 +46,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -208,7 +205,6 @@ Key stop on metals trade route
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -240,3 +236,9 @@ Key stop on metals trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Quest - The Lost Expedition]]
+- [[comprehensive_npc_network_analysis]]
+- [[Shard_Locations (D&D_Sourcebooks)]]

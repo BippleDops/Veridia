@@ -1,3 +1,9 @@
+---
+aliases: ["Decorated Tool Kit of Quality", "decorated tool kit of quality", "Quality of Kit Tool Decorated"]
+tags: [item, equipment]
+type: item
+---
+
 # Decorated Tool Kit of Quality
 
 *Mundane, Common*

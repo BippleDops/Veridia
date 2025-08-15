@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Crystalbrook the Bold", "nerys crystalbrook the bold", "Nerys Crystalbrook Bold", "Bold the Crystalbrook Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Crystalbrook the Bold
 
 *Tiefling Fisher (Commoners), Age 50, Male*
@@ -13,7 +19,6 @@
 Short and stocky, with Wild and unkempt bald hair and Brown eyes. Dark skin. Birthmark shaped like a constellation.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Always hungry and eating something; Never backs down from any challenge
@@ -36,32 +41,26 @@ Survivor of a disaster that destroyed their village A chance encounter last wint
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Brenna Blackstone the Seeker (Criminal - Target)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Aeliana Crystalbrook the Fallen (Family - Spouse)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ### Brenna Ravenheart the Strong (Family - Child)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
 
-
 ### Cedric Ravenheart the Fallen (Political - Ally)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Xander Darkwater the Lost (Professional - Partner)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ### Solas Quicksilver the Broken (Personal - Ex-lover)
 - **Status**: Complicated history

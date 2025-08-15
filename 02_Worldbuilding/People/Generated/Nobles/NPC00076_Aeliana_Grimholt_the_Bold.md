@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Grimholt the Bold", "aeliana grimholt the bold", "Aeliana Grimholt Bold", "Bold the Grimholt Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Grimholt the Bold
 
 *Genasi Aristocrat (Nobles), Age 63, Female*
@@ -36,17 +42,14 @@ Last survivor of a fallen house, seeking to restore family honor They're being b
 - **Short Term**: Sabotage competition
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Lyanna Crystalbrook (Professional - Partner)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Drusilla Stormwind (Family - Child)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
-
 
 ### Delara Darkwater (Professional - Partner)
 - **Status**: On the verge of collapse

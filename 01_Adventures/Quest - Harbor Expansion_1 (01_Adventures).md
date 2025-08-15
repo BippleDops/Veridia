@@ -29,15 +29,12 @@ improvements: 20
 - Time pressure
 - Moral dilemmas
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
 
-
 > [!figure] View
-
 
 ## Objectives
 ### Primary
@@ -254,7 +251,6 @@ Key stop on magic items trade route
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Time Limit
 - **Deadline**: When it must be completed

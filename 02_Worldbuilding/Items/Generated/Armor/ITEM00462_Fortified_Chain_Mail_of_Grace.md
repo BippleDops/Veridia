@@ -1,3 +1,9 @@
+---
+aliases: ["Fortified Chain Mail of Grace", "fortified chain mail of grace", "Grace of Mail Chain Fortified"]
+tags: [item, equipment]
+type: item
+---
+
 # Fortified Chain Mail of Grace
 
 *Armor, Uncommon (requires attunement)*

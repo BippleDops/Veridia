@@ -1,3 +1,9 @@
+---
+aliases: ["Warded Helm of Resistance", "warded helm of resistance", "Resistance of Helm Warded"]
+tags: [item, equipment]
+type: item
+---
+
 # Warded Helm of Resistance
 
 *Armor, Rare*
@@ -15,8 +21,6 @@ A warded helm crafted from exotic materials
 - Grants swimming speed
 - +1 to AC
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -31,7 +35,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.398Z*

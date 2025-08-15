@@ -48,3 +48,12 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Blue Dragon]]
+- [[blue-dragon (legendary-group)]]
+- [[Coastal Encounters Levels 1720 Xge]]
+- [[Monsters by Habitat Coastal Monsters Xmm]]
+- [[coastal-encounters-levels-1720-xge (tables)]]
+- [[monsters-by-habitat-coastal-monsters-xmm (tables)]]

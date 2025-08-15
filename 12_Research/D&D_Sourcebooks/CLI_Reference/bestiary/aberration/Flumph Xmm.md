@@ -203,3 +203,15 @@ Mentioned in The Hidden Prophecy of Depths
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Mindwitness Mpmm]]
+- [[flumph-xmm (aberration)]]
+- [[mindwitness-mpmm (aberration)]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[Underdark Encounters Levels 14 Xge]]
+- [[Wild Magic Surge Phb]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]
+- [[underdark-encounters-levels-14-xge (tables)]]
+- [[wild-magic-surge-phb (tables)]]

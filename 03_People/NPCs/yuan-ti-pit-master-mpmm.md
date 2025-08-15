@@ -56,3 +56,8 @@ Actively involved in current events, pursuing their own agenda while maintaining
 
 ## DM Notes
 *This NPC can serve multiple roles depending on campaign needs. Their true loyalties are intentionally ambiguous.*
+
+## References
+
+- [[3 Bestiary]]
+- [[3-bestiary (volos-guide-to-monsters)]]

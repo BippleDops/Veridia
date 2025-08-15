@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Voidwalker", "ewan voidwalker", "Voidwalker Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Voidwalker
 
 *Tiefling Aristocrat (Nobles), Age 57, Female*
@@ -13,7 +19,6 @@
 Tall and delicate, with Long and flowing bald hair and Amber eyes. Olive skin. Missing ear from old battle.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Always tells the absolute truth
@@ -36,17 +41,14 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Recruit new members
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Gareth Goldleaf the Risen (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Alaric Frostwhisper (Political - Ally)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
-
 
 ### Delara Blackstone the Risen (Political - Spy)
 - **Status**: Strained but maintaining

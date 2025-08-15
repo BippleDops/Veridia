@@ -82,3 +82,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A corpse reveals a betrayal about this place
 - A journal reveals ancient history about a local noble
 - A prisoner has gone missing and war looms
+
+## References
+
+- [[Master_Item_Catalog]]

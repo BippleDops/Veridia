@@ -208,3 +208,8 @@ This NPC can serve multiple roles:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-aquabyssos-faction-web-aquabyssos-faction-web.svg]]
+- [[04_Resources_Assets_Locations_location-city-forge-master-korax-hammerdeep-v1-forge-master-korax-hammerdeep.svg]]

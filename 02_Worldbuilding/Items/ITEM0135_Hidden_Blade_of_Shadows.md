@@ -1,4 +1,5 @@
 ---
+aliases: ["Hidden Blade of Shadows", "hidden blade of shadows", "Shadows of Blade Hidden"]
 tags: [generated]
 id: ITEM0135
 created: 2025-08-15T04:09:51.120Z
@@ -19,8 +20,6 @@ Crafted from adamantine with battle scars, in pristine condition. It emanates a 
 
 ## Quirk
 *Occasionally speaks in ancient tongue*
-
-
 
 ## History
 This item was corrupted by dark magic centuries ago. It has passed through many hands, each leaving their mark upon its destiny.

@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Hawthorne the Swift", "faelyn hawthorne the swift", "Faelyn Hawthorne Swift", "Swift the Hawthorne Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Hawthorne the Swift
 
 *Tiefling Bard (Adventurers), Age 53, Non-binary*
@@ -36,22 +42,18 @@ Running from a dark past that won't stay buried They've been marked by a secret 
 - **Short Term**: Survive until next week
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Dara Frostwhisper the Broken (Political - Opposition)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
 
-
 ### Lyanna Quicksilver the Redeemed (Political - Puppet)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Xander Moonshadow the Seeker (Family - Cousin)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
-
 
 ### Branwen Winterborn the Risen (Professional - Partner)
 - **Status**: Blood oath bound

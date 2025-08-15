@@ -122,13 +122,11 @@ Whisper Island Docks is a notable location characterized by its unique features 
 ### Founding
 Whisper Island Docks was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -136,13 +134,11 @@ Whisper Island Docks was established in the distant past, growing from humble be
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -189,7 +185,6 @@ Ongoing situations affecting Whisper Island Docks:
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -225,3 +220,7 @@ Ongoing situations affecting Whisper Island Docks:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Aethermoor - Session 02 The Lighthouse of Storms]]

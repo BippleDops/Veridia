@@ -121,7 +121,6 @@ improvements: 20
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Scaling by Party Level
 - **Level 1-4**: Reduce enemies
 - **Level 5-10**: Standard difficulty

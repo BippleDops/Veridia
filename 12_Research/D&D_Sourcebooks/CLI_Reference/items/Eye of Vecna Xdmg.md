@@ -121,3 +121,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Eye and Hand of Vecna Xdmg]]
+- [[Hand of Vecna Xdmg]]
+- [[Sword of Kas Xdmg]]
+- [[eye-and-hand-of-vecna-xdmg (items)]]
+- [[hand-of-vecna-xdmg (items)]]
+- [[sword-of-kas-xdmg (items)]]

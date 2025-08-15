@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Zephyrblade the Mystic", "brenna zephyrblade the mystic", "Brenna Zephyrblade Mystic", "Mystic the Zephyrblade Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Zephyrblade the Mystic
 
 *Dwarf Ranger (Adventurers), Age 53, Non-binary*
@@ -13,7 +19,6 @@
 Above average and muscular, with Long and flowing silver hair and Violet eyes. Scarred skin. Weather-beaten face showing hard life.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Believes in every conspiracy theory; Never uses people's real names
@@ -36,17 +41,14 @@ Running from a dark past that won't stay buried Strange abilities have begun man
 - **Short Term**: Survive until next week
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Felicia Goldleaf the Seeker (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Elric Xendar the Cunning (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ### Lyanna Crystalbrook the Lost (Political - Opposition)
 - **Status**: Complicated history
@@ -56,7 +58,6 @@ Running from a dark past that won't stay buried Strange abilities have begun man
 ### Rhiannon Darkwater the Mystic (Family - Cousin)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Secretly working for the villain

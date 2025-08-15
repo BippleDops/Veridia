@@ -65,3 +65,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[04 Chapter 3 Character Classes]]
+- [[04-chapter-3-character-classes (players-handbook-2024)]]

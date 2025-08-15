@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Goldleaf", "hilda goldleaf", "Goldleaf Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Goldleaf
 
 *Dragonborn Courtier (Nobles), Age 57, Male*
@@ -42,26 +48,21 @@ Exiled from their homeland, trying to rebuild their power base They've made a de
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Nerys Dawnstrider the Swift (Professional - Employee)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ### Cedric Winterborn the Scholar (Personal - Best friend)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Gareth Quicksilver the Scholar (Professional - Employer)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
 
-
 ### Erasmus Blackstone the Fallen (Political - Spy)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
-
 
 ### Aldric Grimholt (Political - Puppet)
 - **Status**: Complicated history

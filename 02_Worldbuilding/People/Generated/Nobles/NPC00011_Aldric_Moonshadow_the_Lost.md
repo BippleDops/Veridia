@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Moonshadow the Lost", "aldric moonshadow the lost", "Aldric Moonshadow Lost", "Lost the Moonshadow Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Moonshadow the Lost
 
 *Firbolg Heir (Nobles), Age 58, Male*
@@ -36,7 +42,6 @@ Exiled from their homeland, trying to rebuild their power base They've made a de
 - **Short Term**: Gather information
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Felicia Nightfall (Personal - Childhood friend)
 - **Status**: One-sided affection
@@ -57,16 +62,13 @@ Exiled from their homeland, trying to rebuild their power base They've made a de
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Zephyr Oakenshield the Wanderer (Professional - Employee)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
 
-
 ### Faelyn Emberfall the Mystic (Criminal - Target)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

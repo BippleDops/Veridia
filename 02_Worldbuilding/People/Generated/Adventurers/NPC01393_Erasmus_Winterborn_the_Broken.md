@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Winterborn the Broken", "erasmus winterborn the broken", "Erasmus Winterborn Broken", "Broken the Winterborn Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Winterborn the Broken
 
 *Genasi Fighter (Adventurers), Age 61, Non-binary*
@@ -36,27 +42,22 @@ Accidentally gained powers and learning to control them Strange abilities have b
 - **Short Term**: Survive until next week
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Lyanna Ravenheart the Wise (Criminal - Informant)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
 
-
 ### Zephyr Keenblade the Scholar (Personal - Ex-lover)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ### Pyria Silverleaf the Lost (Professional - Rival)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Wynne Ashford the Scholar (Criminal - Fence)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ### Solas Oakenshield the Mystic (Family - Spouse)
 - **Status**: Strong and trusting
@@ -66,7 +67,6 @@ Accidentally gained powers and learning to control them Strange abilities have b
 ### Nerys Lightbringer the Broken (Family - Spouse)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Is from the future

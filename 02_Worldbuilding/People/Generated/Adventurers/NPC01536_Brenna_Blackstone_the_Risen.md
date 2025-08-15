@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Blackstone the Risen", "brenna blackstone the risen", "Brenna Blackstone Risen", "Risen the Blackstone Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Blackstone the Risen
 
 *Tabaxi Ranger (Adventurers), Age 37, Female*
@@ -13,7 +19,6 @@
 Towering and slender, with Braided elaborately gray hair and Hazel eyes. Freckled skin. Weather-beaten face showing hard life.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Collects unusual and worthless objects
@@ -36,22 +41,18 @@ Seeking vengeance for a murdered mentor They've fallen in love with someone they
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Baelor Hawthorne the Strong (Family - Spouse)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Erasmus Grimholt the Bold (Personal - Nemesis)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
 
-
 ### Malakai Ravenheart the Mystic (Professional - Employee)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Secretly working for the villain

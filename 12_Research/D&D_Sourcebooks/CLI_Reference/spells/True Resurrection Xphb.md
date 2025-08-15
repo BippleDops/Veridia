@@ -104,3 +104,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Solar Xmm]]
+- [[solar-xmm (celestial)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Rod of Resurrection Xdmg]]
+- [[rod-of-resurrection-xdmg (items)]]
+- [[List Spells School Necromancy]]
+- [[list-spells-school-necromancy (lists)]]
+- [[Disintegrate Xphb]]
+- [[disintegrate-xphb (spells)]]

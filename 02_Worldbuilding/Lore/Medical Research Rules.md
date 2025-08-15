@@ -117,3 +117,7 @@ Medical Research Rules represents a crucial aspect of the world's history, cosmo
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Campaign_Overview (Crystal_Plague)]]

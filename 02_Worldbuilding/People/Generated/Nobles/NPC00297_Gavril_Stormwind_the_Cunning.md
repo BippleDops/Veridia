@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Stormwind the Cunning", "gavril stormwind the cunning", "Gavril Stormwind Cunning", "Cunning the Stormwind Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Stormwind the Cunning
 
 *Dragonborn Noble (Nobles), Age 43, Female*
@@ -13,7 +19,6 @@
 Short and imposing, with Long and flowing blonde hair and Violet eyes. Fair skin. Weather-beaten face showing hard life.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Compulsive liar about minor things; Always speaks in metaphors and riddles
@@ -36,27 +41,22 @@ Last survivor of a fallen house, seeking to restore family honor They recently d
 - **Short Term**: Sabotage competition
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Qadim Proudmore the Cunning (Criminal - Informant)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Brenna Winterborn the Bold (Personal - Nemesis)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ### Ysara Ironwood (Family - Cousin)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Ewan Grimholt (Criminal - Informant)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Child from scandalous affair

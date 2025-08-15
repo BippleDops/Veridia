@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Ravenheart the Mystic", "fiora ravenheart the mystic", "Fiora Ravenheart Mystic", "Mystic the Ravenheart Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Ravenheart the Mystic
 
 *Elf Broker (Merchants), Age 23, Female*
@@ -42,11 +48,9 @@ Part of a merchant family with connections everywhere They're being blackmailed 
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Pyria Underhill the Broken (Criminal - Fence)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ### Vesper Nightfall the Wanderer (Criminal - Handler)
 - **Status**: Recently reconciled
@@ -56,7 +60,6 @@ Part of a merchant family with connections everywhere They're being blackmailed 
 ### Pyria Quicksilver the Fallen (Family - Cousin)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Sells information to all sides

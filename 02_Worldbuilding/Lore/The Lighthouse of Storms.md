@@ -1,5 +1,5 @@
 ---
-title: The [[Lighthouse of Storms]]
+title: The [[Lighthouse_of_Storms|Lighthouse of Storms]]
 type: [[Lore]]
 tags:
 - navigation
@@ -72,5 +72,21 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Quest - Into the Wastes_1 (01_Adventures)]]
+- [[Quest - Nature_1 (01_Adventures)]]
+- [[Quest - Syndicate Shadows_1 (01_Adventures)]]
+- [[Quest - The Blackmail Papers_3 (01_Adventures)]]
+- [[Quest - The Missing Guards_1 (01_Adventures)]]
+- [[Quest - The Pretender_3 (01_Adventures)]]
+- [[Quest - The Root Network_3 (01_Adventures)]]
+- [[02_Worldbuilding_Lore_The_Lighthouse_of_Storms.md]]
+- [[The Corroded Crown]]
+- [[The Verdant Accord]]
+- [[Uniting the Factions]]
+- [[Aetheric Wind Songs (D&D_References)]]

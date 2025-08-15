@@ -1,4 +1,5 @@
 ---
+aliases: ["The Shadow Realm Invasion", "the shadow realm invasion", "Invasion Realm Shadow The"]
 tags: [quest, adventure, generated]
 type: quest
 ---
@@ -58,8 +59,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Save civilians and risk failure - Heroes to the people but objective compromised
 2. Complete mission at any cost - Success but blood on hands
-
-
 
 ## Rewards
 ### On Success

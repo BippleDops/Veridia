@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Jadeclaw the Guardian", "hilda jadeclaw the guardian", "Hilda Jadeclaw Guardian", "Guardian the Jadeclaw Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Jadeclaw the Guardian
 
 *Human Crime Boss (Villains), Age 61, Male*
@@ -42,16 +48,13 @@ Born into evil but questioning their path They recently discovered a secret that
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
 
-
 ### Felicia Silverleaf the Lost (Criminal - Handler)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Felicia Oakenshield the Bold (Family - Child)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
-
 
 ### Hilda Silverleaf the Swift (Family - Parent)
 - **Status**: Mutually beneficial

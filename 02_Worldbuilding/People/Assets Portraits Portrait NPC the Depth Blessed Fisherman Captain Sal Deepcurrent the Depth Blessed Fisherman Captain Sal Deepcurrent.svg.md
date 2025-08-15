@@ -209,3 +209,8 @@ This NPC can serve multiple roles:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[Assets Art Market Master Cornelius Driftwood.png]]
+- [[04_Resources_Assets_Locations_location-city-master-goldwin-ledgerkeeper-v1-master-goldwin-ledgerkeeper.svg]]

@@ -88,3 +88,9 @@ improvements: 20
 
 - Someone is blackmailing a witness for revenge
 - A noble needs help stealing before winter
+
+## References
+
+- [[Shadow Broker Mirrors (Criminal_Organizations)]]
+- [[02_Worldbuilding_Spells_Echo_Reflection]]
+- [[Shadow Broker Mirrors]]

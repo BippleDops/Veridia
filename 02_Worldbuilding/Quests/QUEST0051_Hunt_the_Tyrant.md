@@ -1,4 +1,5 @@
 ---
+aliases: ["Hunt the Tyrant", "hunt the tyrant", "Hunt Tyrant", "Tyrant the Hunt"]
 tags: [generated]
 id: QUEST0051
 created: 2025-08-15T04:09:51.392Z
@@ -22,8 +23,6 @@ Discover the truth behind the disappearances
 ### Secondary
 - Sabotage enemy resources
 - Establish future contacts
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they once saved a noble's life and earned their favor, which changed their life forever. Now, circumstances demand immediate action.

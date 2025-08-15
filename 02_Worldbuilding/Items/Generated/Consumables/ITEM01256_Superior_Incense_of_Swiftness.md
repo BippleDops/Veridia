@@ -1,3 +1,9 @@
+---
+aliases: ["Superior Incense of Swiftness", "superior incense of swiftness", "Swiftness of Incense Superior"]
+tags: [item, equipment]
+type: item
+---
+
 # Superior Incense of Swiftness
 
 *Consumables, Uncommon (requires attunement)*

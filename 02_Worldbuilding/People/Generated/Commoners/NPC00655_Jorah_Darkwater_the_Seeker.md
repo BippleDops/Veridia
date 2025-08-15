@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Darkwater the Seeker", "jorah darkwater the seeker", "Jorah Darkwater Seeker", "Seeker the Darkwater Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Darkwater the Seeker
 
 *Elf Baker (Commoners), Age 33, Non-binary*
@@ -36,12 +42,10 @@ Survivor of a disaster that destroyed their village A prophetic dream has been h
 - **Short Term**: Sabotage competition
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Hestara Underhill the Redeemed (Political - Patron)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ### Felicia Silverleaf the Seeker (Personal - Ex-lover)
 - **Status**: Complicated history

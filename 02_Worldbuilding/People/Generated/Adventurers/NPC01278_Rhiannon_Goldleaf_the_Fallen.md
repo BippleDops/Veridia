@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Goldleaf the Fallen", "rhiannon goldleaf the fallen", "Rhiannon Goldleaf Fallen", "Fallen the Goldleaf Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Goldleaf the Fallen
 
 *Gnome Fighter (Adventurers), Age 21, Male*
@@ -36,22 +42,18 @@ Accidentally gained powers and learning to control them They recently discovered
 - **Short Term**: Make this month's payment
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Qadim Ironforge the Strong (Political - Ally)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Aldric Ironwood the Cunning (Professional - Partner)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
 
-
 ### Felicia Silverleaf the Mystic (Personal - Childhood friend)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
-
 
 ### Orion Goldleaf the Bold (Political - Spy)
 - **Status**: Recently reconciled
@@ -66,7 +68,6 @@ Accidentally gained powers and learning to control them They recently discovered
 ### Pyria Darkwater the Scholar (Political - Ally)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Is from the future

@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Stormwind the Broken", "branwen stormwind the broken", "Branwen Stormwind Broken", "Broken the Stormwind Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Stormwind the Broken
 
 *Gnome Aristocrat (Nobles), Age 42, Male*
@@ -36,12 +42,10 @@ Last survivor of a fallen house, seeking to restore family honor A family member
 - **Short Term**: Recruit new members
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Alaric Jadeclaw the Cunning (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ### Malakai Ravenheart the Risen (Criminal - Informant)
 - **Status**: Blood oath bound
@@ -52,11 +56,9 @@ Last survivor of a fallen house, seeking to restore family honor A family member
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Erasmus Proudmore the Broken (Criminal - Target)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ### Jorah Moonshadow the Guardian (Personal - Best friend)
 - **Status**: One-sided affection

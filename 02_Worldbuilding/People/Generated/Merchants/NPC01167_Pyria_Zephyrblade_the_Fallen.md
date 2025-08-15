@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Zephyrblade the Fallen", "pyria zephyrblade the fallen", "Pyria Zephyrblade Fallen", "Fallen the Zephyrblade Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Zephyrblade the Fallen
 
 *Half-Elf Appraiser (Merchants), Age 34, Female*
@@ -13,7 +19,6 @@
 Below average and muscular, with Shaved red hair and Red eyes. Brown skin. Missing ear from old battle.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Always speaks in metaphors and riddles; Believes in every conspiracy theory
@@ -36,17 +41,14 @@ Part of a merchant family with connections everywhere An old debt has come due a
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Qadim Quicksilver the Mystic (Political - Opposition)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Gareth Underhill the Fallen (Family - Spouse)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ### Dara Keenblade the Mystic (Personal - Childhood friend)
 - **Status**: Complicated history
@@ -57,11 +59,9 @@ Part of a merchant family with connections everywhere An old debt has come due a
 - **Status**: One-sided affection
 - **History**: United by common enemy
 
-
 ### Nerys Thornweave the Broken (Criminal - Target)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
-
 
 ### Alaric Nightfall the Bold (Criminal - Informant)
 - **Status**: On the verge of collapse

@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Nightfall the Seeker", "felicia nightfall the seeker", "Felicia Nightfall Seeker", "Seeker the Nightfall Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Nightfall the Seeker
 
 *Goliath Carpenter (Commoners), Age 33, Female*
@@ -36,7 +42,6 @@ Grew up in poverty but discovered a talent that might change everything They're 
 - **Short Term**: Find missing person
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Pyria Jadeclaw the Swift (Professional - Rival)
 - **Status**: Strained but maintaining
@@ -47,21 +52,17 @@ Grew up in poverty but discovered a talent that might change everything They're 
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Cedric Oakenshield the Risen (Personal - Love interest)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
-
 
 ### Urien Keenblade the Seeker (Criminal - Fence)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Nerys Emberfall the Seeker (Professional - Employee)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Has dragon blood in their veins

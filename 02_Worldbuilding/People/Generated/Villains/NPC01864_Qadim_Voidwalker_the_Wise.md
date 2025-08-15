@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Voidwalker the Wise", "qadim voidwalker the wise", "Qadim Voidwalker Wise", "Wise the Voidwalker Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Voidwalker the Wise
 
 *Gnome Dark Wizard (Villains), Age 54, Non-binary*
@@ -36,7 +42,6 @@ Believes their evil acts serve a greater good They've fallen in love with someon
 - **Short Term**: Avoid the authorities
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Orion Crystalbrook the Strong (Personal - Love interest)
 - **Status**: Recently reconciled
@@ -52,11 +57,9 @@ Believes their evil acts serve a greater good They've fallen in love with someon
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Zephyr Oakenshield the Cunning (Criminal - Handler)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
-
 
 ### Vesper Goldleaf the Seeker (Criminal - Fence)
 - **Status**: Professional only

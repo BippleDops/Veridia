@@ -20,16 +20,13 @@ updated: 2025-08-14
 - **East**: River crossing
 - **West**: Mountain pass
 
-
 # Pressure Gate.md
-
 
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
 - **Law Enforcement**: Town guard
 - **Justice System**: Local magistrate
-
 
 ## Economy
 - **Primary Exports**: Local goods
@@ -48,7 +45,6 @@ The approach to Pressure Gate.md reveals its significance through architectural 
 
 ### Interior
 Within Pressure Gate.md, visitors find a carefully designed space serving multiple purposes.
-
 
 ## Demographics
 - **Population**: ~1,000
@@ -85,7 +81,6 @@ Recent developments have brought new attention to Pressure Gate.md, creating opp
 
 ## DM Notes
 *Pressure Gate.md can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions

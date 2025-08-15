@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Ashford", "cedric ashford", "Ashford Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Ashford
 
 *Dragonborn Farmer (Commoners), Age 55, Female*
@@ -36,7 +42,6 @@ Survivor of a disaster that destroyed their village They've fallen in love with 
 - **Short Term**: Make this month's payment
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Corvus Thornweave the Redeemed (Family - Sibling)
 - **Status**: One-sided affection
@@ -47,11 +52,9 @@ Survivor of a disaster that destroyed their village They've fallen in love with 
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
 
-
 ### Elric Frostwhisper the Lost (Political - Opposition)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Has dragon blood in their veins

@@ -45,3 +45,22 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Master_Campaign_Index]]
+- [[Master_Spell_Compendium]]
+- [[Aethermoor - Session 08 Between Two Worlds]]
+- [[Corruption Networks]]
+- [[The Deep Mother 3 (D&D_References)]]
+- [[Mummy Lord Xmm (undead)]]
+- [[mummy-lord-xmm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Nature Domain]]
+- [[Cleric Xphb Tempest Domain]]
+- [[Warlock Xphb Fiend Patron Xphb]]
+- [[cleric-xphb-nature-domain (classes)]]
+- [[cleric-xphb-nature-domain 2 (classes)]]
+- [[cleric-xphb-tempest-domain (classes)]]
+- [[warlock-xphb-fiend-patron-xphb (classes)]]

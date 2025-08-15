@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Darkwater", "vesper darkwater", "Darkwater Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Darkwater
 
 *Genasi Heir (Nobles), Age 68, Male*
@@ -36,7 +42,6 @@ Last survivor of a fallen house, seeking to restore family honor They're being b
 - **Short Term**: Gather information
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Thalia Ironwood the Scholar (Personal - Childhood friend)
 - **Status**: Mutually beneficial
@@ -52,11 +57,9 @@ Last survivor of a fallen house, seeking to restore family honor They're being b
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Solas Voidwalker (Political - Spy)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ### Malakai Ravenheart (Criminal - Fence)
 - **Status**: Recently reconciled

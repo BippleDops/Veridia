@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Frostwhisper the Mystic", "baelor frostwhisper the mystic", "Baelor Frostwhisper Mystic", "Mystic the Frostwhisper Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Frostwhisper the Mystic
 
 *Dwarf Appraiser (Merchants), Age 69, Male*
@@ -13,7 +19,6 @@
 Above average and delicate, with Braided elaborately unusual color hair and Hazel eyes. Freckled skin. Constantly changing hair color.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Believes in every conspiracy theory
@@ -42,11 +47,9 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Alaric Ashford the Strong (Personal - Childhood friend)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ### Erasmus Moonshadow the Lost (Family - Cousin)
 - **Status**: Complicated history
@@ -57,7 +60,6 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 - **Status**: Professional only
 - **History**: United by common enemy
 
-
 ### Aldric Keenblade the Strong (Criminal - Handler)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
@@ -66,7 +68,6 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 ### Brenna Ashford the Swift (Criminal - Target)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Smuggles illegal magical items

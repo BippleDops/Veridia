@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Proudmore the Risen", "delara proudmore the risen", "Delara Proudmore Risen", "Risen the Proudmore Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Proudmore the Risen
 
 *Aasimar Wizard (Adventurers), Age 41, Non-binary*
@@ -13,7 +19,6 @@
 Average height and stocky, with Partially shaved gray hair and Heterochromic eyes. Unusual hue skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Constantly quotes ancient texts
@@ -36,12 +41,10 @@ Searching for a legendary treasure their parent died seeking A prophetic dream h
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Kaelen Voidwalker the Scholar (Criminal - Fence)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ### Thalia Grimholt the Seeker (Personal - Ex-lover)
 - **Status**: Complicated history
@@ -51,7 +54,6 @@ Searching for a legendary treasure their parent died seeking A prophetic dream h
 ### Xander Winterborn the Seeker (Family - Child)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ### Branwen Winterborn the Cunning (Criminal - Informant)
 - **Status**: Complicated history

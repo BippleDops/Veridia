@@ -205,7 +205,6 @@ Key locations marked:
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Adventure Seeds
 - Mysterious occurrence
 - Local conflict

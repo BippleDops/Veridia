@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Silverleaf the Bold", "aldric silverleaf the bold", "Aldric Silverleaf Bold", "Bold the Silverleaf Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Silverleaf the Bold
 
 *Human Rogue (Adventurers), Age 66, Female*
@@ -13,7 +19,6 @@
 Very short and imposing, with Long and flowing red hair and Red eyes. Tan skin. Missing finger on left hand.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Always speaks in metaphors and riddles
@@ -42,11 +47,9 @@ Chosen by fate to fulfill an ancient prophecy They've been marked by a secret so
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Aldric Frostwhisper the Swift (Family - Parent)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ### Kaelen Crystalbrook the Fallen (Personal - Best friend)
 - **Status**: Strong and trusting

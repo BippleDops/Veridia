@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Keenblade", "faelyn keenblade", "Keenblade Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Keenblade
 
 *Elf Noble (Nobles), Age 55, Female*
@@ -42,16 +48,13 @@ Recently elevated to nobility through service, still learning courtly ways A pro
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
 ### Caelum Voidwalker the Strong (Criminal - Fence)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Aldric Jadeclaw the Broken (Political - Spy)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Secretly funding the rebellion

@@ -242,3 +242,10 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Tidal Chambers]]
+- [[Resonance Peaks (D&D_References)]]
+- [[Tidal Chambers (D&D_References)]]

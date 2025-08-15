@@ -181,7 +181,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[04_Resources_Assets_Locations_location-city-lord-reginald-seaworthy-lord-reginald-seaworthy.svg]] (friend)
-- [[Quest   The Siren's Price]] (enemy)
+- [[Sire|Quest   The Siren's Price]] (enemy)
 - [[04_Resources_Assets_Locations_location-city-pool-of-sacred-drowning-v1-pool-of-sacred-drowning.svg]] (friend)
 ---
 *Tags*: #npc #contact #worldbuilding
@@ -239,3 +239,8 @@ Mentioned in The Hidden Prophecy of Winds
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Assets Locations Location City Admiral Thalassa Stormcurrent Admiral Thalassa Stormcurrent.svg]]
+- [[04_Resources_Assets_Locations_location-city-pool-of-sacred-drowning-v1-pool-of-sacred-drowning.svg]]

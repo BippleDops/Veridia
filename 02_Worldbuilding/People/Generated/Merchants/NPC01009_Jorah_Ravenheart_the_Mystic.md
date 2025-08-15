@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Ravenheart the Mystic", "jorah ravenheart the mystic", "Jorah Ravenheart Mystic", "Mystic the Ravenheart Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Ravenheart the Mystic
 
 *Half-Elf Caravan Master (Merchants), Age 56, Non-binary*
@@ -36,22 +42,18 @@ Part of a merchant family with connections everywhere They've made a deal they'r
 - **Short Term**: Avoid the authorities
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Gareth Crystalbrook the Seeker (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Cedric Ashford the Redeemed (Political - Patron)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Fiora Voidwalker the Redeemed (Criminal - Handler)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Killed previous business owner

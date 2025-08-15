@@ -2,7 +2,7 @@
 tags: ['[[Lore]]']
 ---
 
-# The [[[[Merchant]]'s Covet]]
+# The [[Merchant|[[Merchant]]'s Covet]]
 
 ## Overview
 

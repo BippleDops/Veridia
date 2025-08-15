@@ -1,11 +1,11 @@
 ---
+aliases: ["Lyra Ironforge", "lyra ironforge", "Ironforge Lyra"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -75,8 +75,6 @@ Former soldier who left after a traumatic battle. Years ago, they accidentally d
 ### Skills
 Investigation, Persuasion
 
-
-
 ## Possessions
 - 47 gold pieces
 - Mysterious key
@@ -88,7 +86,6 @@ Investigation, Persuasion
 
 ---
 *Generated: 2025-08-15T03:21:04.032Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

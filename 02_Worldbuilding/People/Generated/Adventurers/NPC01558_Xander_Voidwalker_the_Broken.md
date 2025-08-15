@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Voidwalker the Broken", "xander voidwalker the broken", "Xander Voidwalker Broken", "Broken the Voidwalker Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Voidwalker the Broken
 
 *Dwarf Ranger (Adventurers), Age 65, Non-binary*
@@ -13,7 +19,6 @@
 Average height and stocky, with Tied back unusual color hair and Heterochromic eyes. Fair skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Never backs down from any challenge
@@ -36,7 +41,6 @@ Seeking vengeance for a murdered mentor They recently discovered a secret that c
 - **Short Term**: Complete current contract
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Hilda Jadeclaw the Scholar (Family - Cousin)
 - **Status**: Professional only
@@ -47,21 +51,17 @@ Seeking vengeance for a murdered mentor They recently discovered a secret that c
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Ysara Keenblade the Wanderer (Criminal - Fence)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ### Pyria Ashford the Swift (Professional - Partner)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Qadim Hawthorne the Risen (Criminal - Fence)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Carries a world-ending artifact

@@ -1,6 +1,5 @@
 ---
 
-
 title: Economic System Rules
 type: mechanics
 tags:
@@ -303,3 +302,7 @@ Apply this rule when:
 
 ### Table Consideration
 Discuss with players before implementing
+
+## References
+
+- [[Economic_Ripple_Effects_Template]]

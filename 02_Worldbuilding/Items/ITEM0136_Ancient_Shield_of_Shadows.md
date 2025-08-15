@@ -1,4 +1,5 @@
 ---
+aliases: ["Ancient Shield of Shadows", "ancient shield of shadows", "Shadows of Shield Ancient"]
 tags: [generated]
 id: ITEM0136
 created: 2025-08-15T04:09:51.121Z
@@ -19,8 +20,6 @@ Crafted from mithril with ancient symbols, in recently restored. It emanates a f
 
 ## Quirk
 *Attracts small animals*
-
-
 
 ## History
 This item was reforged from broken artifacts centuries ago. It has passed through many hands, each leaving their mark upon its destiny.

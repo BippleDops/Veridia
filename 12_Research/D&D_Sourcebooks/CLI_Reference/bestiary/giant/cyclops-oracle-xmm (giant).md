@@ -154,3 +154,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Cyclops Oracle Xmm]]
+- [[Monsters by Habitat Coastal Monsters Xmm]]
+- [[Monsters by Habitat Grassland Monsters Xmm]]
+- [[Monsters by Habitat Hill Monsters Xmm]]
+- [[Monsters by Habitat Mountain Monsters Xmm]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[monsters-by-habitat-coastal-monsters-xmm (tables)]]
+- [[monsters-by-habitat-grassland-monsters-xmm (tables)]]
+- [[monsters-by-habitat-hill-monsters-xmm (tables)]]
+- [[monsters-by-habitat-mountain-monsters-xmm (tables)]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]

@@ -19,7 +19,7 @@ updated: 2025-08-14
 
 ## Portrait
 
-![[portrait_npc_name_generator.png_1_(03_people).png]]
+![[Npc|portrait_npc_name_generator.png_1_(03_people).png]]
 
 *Portrait reference for NPC_Name_Generator.png_1 (03_People)*
 
@@ -79,3 +79,7 @@ creature: Custom NPC
 - **Proficiency Bonus**: *[+X]*
 - **Saving Throws**: *[Proficient saves]*
 - **Skills**: *[Skill proficiencies]*
+
+## References
+
+- [[NPC_Name_Generator.png_1 (03_People)_Quick_Ref]]

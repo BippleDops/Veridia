@@ -186,3 +186,7 @@ This NPC can serve multiple roles:
 - [[Quest   The Perfect Purifier]] (enemy)
 ---
 *Tags*: #npc #contact #worldbuilding
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-lord-admiral-gaius-windcutter-lord-admiral-gaius-windcutter.svg]]

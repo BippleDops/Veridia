@@ -1,3 +1,9 @@
+---
+aliases: ["Mithril Leather of Protection", "mithril leather of protection", "Protection of Leather Mithril"]
+tags: [item, equipment]
+type: item
+---
+
 # Mithril Leather of Protection
 
 *Armor, Uncommon*
@@ -14,8 +20,6 @@ A mithril leather shimmering with energy
 - Advantage on saving throws
 - Grants swimming speed
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -30,7 +34,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.403Z*

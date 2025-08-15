@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Voidwalker the Wanderer", "kaelen voidwalker the wanderer", "Kaelen Voidwalker Wanderer", "Wanderer the Voidwalker Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Voidwalker the Wanderer
 
 *Tabaxi Corrupt Noble (Villains), Age 32, Male*
@@ -36,17 +42,14 @@ Corrupted by an artifact or dark magic They recently discovered a secret that co
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Caelum Lightbringer the Strong (Personal - Nemesis)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Fiora Voidwalker the Swift (Personal - Childhood friend)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ### Gareth Emberfall the Bold (Family - Child)
 - **Status**: Secretly hostile
@@ -61,7 +64,6 @@ Corrupted by an artifact or dark magic They recently discovered a secret that co
 ### Wynne Youngblood the Seeker (Family - Sibling)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Has a child they're protecting

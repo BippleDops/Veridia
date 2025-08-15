@@ -28,15 +28,12 @@ improvements: 20
 - Time pressure
 - Moral dilemmas
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
 
-
 > [!figure] Portrait
-
 
 ## Objectives
 ### Primary
@@ -236,7 +233,6 @@ Member of House Serpentblood - Trait: magical affinity
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Time Limit
 - **Deadline**: When it must be completed

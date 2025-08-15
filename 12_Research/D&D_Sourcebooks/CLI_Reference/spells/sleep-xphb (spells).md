@@ -105,7 +105,6 @@ Mentioned in The First Prophecy of Stars
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements

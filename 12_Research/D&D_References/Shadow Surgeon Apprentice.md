@@ -285,3 +285,10 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## References
+
+- [[Party Shadows (Criminal_Organizations)]]
+- [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
+- [[Party Shadows]]

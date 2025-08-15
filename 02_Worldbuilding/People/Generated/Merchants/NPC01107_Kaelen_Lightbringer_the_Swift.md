@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Lightbringer the Swift", "kaelen lightbringer the swift", "Kaelen Lightbringer Swift", "Swift the Lightbringer Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Lightbringer the Swift
 
 *Halfling Appraiser (Merchants), Age 51, Male*
@@ -42,16 +48,13 @@ Part of a merchant family with connections everywhere Strange abilities have beg
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
 
-
 ### Drusilla Ironwood the Scholar (Family - Parent)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Faelyn Zephyrblade the Mystic (Criminal - Accomplice)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ### Nerys Ironwood the Wanderer (Political - Spy)
 - **Status**: Recently reconciled

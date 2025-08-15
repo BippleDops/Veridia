@@ -131,3 +131,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A letter reveals a conspiracy about this place
 - A map reveals the truth about the government
 - A document has gone missing and chaos spreads
+
+## References
+
+- [[swarm-of-venomous-snakes-xmm (beast)]]
+- [[2 Appendix a Miscellaneous Creatures]]
+- [[2-appendix-a-miscellaneous-creatures (monster-manual-2014)]]
+- [[Monsters by Habitat Coastal Monsters Xmm]]
+- [[Monsters by Habitat Grassland Monsters Xmm]]
+- [[Monsters by Habitat Hill Monsters Xmm]]
+- [[monsters-by-habitat-coastal-monsters-xmm (tables)]]
+- [[monsters-by-habitat-grassland-monsters-xmm (tables)]]
+- [[monsters-by-habitat-hill-monsters-xmm (tables)]]

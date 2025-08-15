@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Frostwhisper the Strong", "aeliana frostwhisper the strong", "Aeliana Frostwhisper Strong", "Strong the Frostwhisper Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Frostwhisper the Strong
 
 *Goliath Cultist (Villains), Age 24, Non-binary*
@@ -13,7 +19,6 @@
 Short and athletic, with Wild and unkempt red hair and Brown eyes. Olive skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Believes in every conspiracy theory; Constantly quotes ancient texts
@@ -36,12 +41,10 @@ Corrupted by an artifact or dark magic They've been marked by a secret society.
 - **Short Term**: Complete current contract
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Idris Ashford the Fallen (Criminal - Fence)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ### Delara Ironforge the Strong (Personal - Childhood friend)
 - **Status**: Blood oath bound
@@ -52,7 +55,6 @@ Corrupted by an artifact or dark magic They've been marked by a secret society.
 - **Status**: One-sided affection
 - **History**: United by common enemy
 
-
 ### Caelum Winterborn the Lost (Family - Sibling)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
@@ -61,7 +63,6 @@ Corrupted by an artifact or dark magic They've been marked by a secret society.
 ### Gareth Ashford the Redeemed (Family - Child)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Believes they're saving the world

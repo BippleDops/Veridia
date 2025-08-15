@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Emberfall the Lost", "pyria emberfall the lost", "Pyria Emberfall Lost", "Lost the Emberfall Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Emberfall the Lost
 
 *Goliath Farmer (Commoners), Age 55, Female*
@@ -36,22 +42,18 @@ Survivor of a disaster that destroyed their village A prophetic dream has been h
 - **Short Term**: Complete current contract
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Elric Thornweave the Strong (Family - Spouse)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Qadim Grimholt the Wanderer (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
 
-
 ### Rhiannon Lightbringer the Seeker (Professional - Mentor)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ### Thalia Underhill the Broken (Political - Opposition)
 - **Status**: Strained but maintaining

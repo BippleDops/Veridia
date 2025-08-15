@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Stormwind the Fallen", "urien stormwind the fallen", "Urien Stormwind Fallen", "Fallen the Stormwind Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Stormwind the Fallen
 
 *Half-Orc Courtier (Nobles), Age 18, Non-binary*
@@ -13,7 +19,6 @@
 Towering and athletic, with Short and neat black hair and Red eyes. Scarred skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Always hungry and eating something; Flirts with everyone regardless of interest
@@ -36,7 +41,6 @@ Exiled from their homeland, trying to rebuild their power base They've been mark
 - **Short Term**: Complete current contract
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Nerys Jadeclaw the Seeker (Political - Opposition)
 - **Status**: Complicated history
@@ -46,7 +50,6 @@ Exiled from their homeland, trying to rebuild their power base They've been mark
 ### Dara Zephyrblade the Swift (Personal - Best friend)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
-
 
 ### Aeliana Brightblade (Family - Sibling)
 - **Status**: Secretly hostile

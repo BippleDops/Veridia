@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Ravenheart the Risen", "dara ravenheart the risen", "Dara Ravenheart Risen", "Risen the Ravenheart Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Ravenheart the Risen
 
 *Genasi Baker (Commoners), Age 67, Non-binary*
@@ -13,7 +19,6 @@
 Above average and delicate, with Tied back brown hair and Green eyes. Scarred skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Constantly quotes ancient texts
@@ -36,7 +41,6 @@ Former soldier trying to adjust to civilian life An old debt has come due at the
 - **Short Term**: Complete current contract
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Urien Blackstone the Seeker (Political - Ally)
 - **Status**: Professional only
@@ -47,16 +51,13 @@ Former soldier trying to adjust to civilian life An old debt has come due at the
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
 
-
 ### Hestara Stormwind the Scholar (Criminal - Accomplice)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Fiora Proudmore the Scholar (Professional - Mentor)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Can hear the thoughts of others

@@ -48,3 +48,8 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## [[DM_Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Shadow Nyx (Criminal_Organizations)]]
+- [[Shadow Nyx]]

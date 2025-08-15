@@ -123,3 +123,12 @@ Contextual improvement based on 12_Research
 4. HP maximum halved
 5. Speed reduced to 0
 6. Death
+
+## References
+
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]
+- [[Immunity Xphb]]
+- [[Stat Block Xphb]]
+- [[immunity-xphb (variant-rules)]]
+- [[stat-block-xphb (variant-rules)]]

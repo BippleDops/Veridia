@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Xendar the Seeker", "zephyr xendar the seeker", "Zephyr Xendar Seeker", "Seeker the Xendar Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Xendar the Seeker
 
 *Goliath Fisher (Commoners), Age 27, Non-binary*
@@ -41,7 +47,6 @@ Grew up in poverty but discovered a talent that might change everything They're 
 ### Wynne Proudmore the Seeker (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ### Kaelen Thornweave the Strong (Family - Child)
 - **Status**: Complicated history

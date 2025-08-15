@@ -38,7 +38,6 @@ status: active
 |------|----------|------|--------|
 | *Example* | *Location* | *Role* | *Alive/Dead* |
 
-
 ## See Also
 - Related content
 - Similar topics
@@ -58,3 +57,23 @@ status: active
 | 4  | Option D |
 | 5  | Option E |
 | 6  | Option F |
+
+## Description
+
+*To be added*
+
+## Appearance
+
+*To be added*
+
+## Personality
+
+*To be added*
+
+## Relationships
+
+*To be added*
+
+## Plot Hooks
+
+*To be added*

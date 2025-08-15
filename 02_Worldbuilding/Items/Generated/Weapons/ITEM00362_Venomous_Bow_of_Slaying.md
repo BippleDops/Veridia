@@ -1,3 +1,9 @@
+---
+aliases: ["Venomous Bow of Slaying", "venomous bow of slaying", "Slaying of Bow Venomous"]
+tags: [item, equipment]
+type: item
+---
+
 # Venomous Bow of Slaying
 
 *Weapons, Uncommon*

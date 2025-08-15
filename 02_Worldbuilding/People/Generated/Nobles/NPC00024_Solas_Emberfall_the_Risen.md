@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Emberfall the Risen", "solas emberfall the risen", "Solas Emberfall Risen", "Risen the Emberfall Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Emberfall the Risen
 
 *Dwarf Aristocrat (Nobles), Age 48, Male*
@@ -13,7 +19,6 @@
 Short and lanky, with Wild and unkempt brown hair and Blue eyes. Brown skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Always tells the absolute truth; Compulsive liar about minor things; Never uses people's real names
@@ -36,27 +41,22 @@ Last survivor of a fallen house, seeking to restore family honor A family member
 - **Short Term**: Recruit new members
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Zephyr Keenblade (Family - Child)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
 
-
 ### Jorah Xendar (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ### Fiora Blackstone the Risen (Political - Patron)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
 
-
 ### Corvus Blackstone the Fallen (Family - Spouse)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ### Erasmus Ravenheart (Political - Opposition)
 - **Status**: Recently reconciled

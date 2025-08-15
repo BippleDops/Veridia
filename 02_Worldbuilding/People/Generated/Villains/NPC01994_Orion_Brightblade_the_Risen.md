@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Brightblade the Risen", "orion brightblade the risen", "Orion Brightblade Risen", "Risen the Brightblade Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Brightblade the Risen
 
 *Dragonborn Dark Wizard (Villains), Age 51, Non-binary*
@@ -36,22 +42,18 @@ Believes their evil acts serve a greater good They've fallen in love with someon
 - **Short Term**: Avoid the authorities
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Branwen Crystalbrook the Lost (Personal - Ex-lover)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Aeliana Frostwhisper the Risen (Professional - Partner)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Thalia Ashford the Wanderer (Professional - Mentor)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Knows how the world will end

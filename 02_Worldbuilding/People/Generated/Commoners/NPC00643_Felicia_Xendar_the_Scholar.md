@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Xendar the Scholar", "felicia xendar the scholar", "Felicia Xendar Scholar", "Scholar the Xendar Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Xendar the Scholar
 
 *Gnome Farmer (Commoners), Age 28, Non-binary*
@@ -47,7 +53,6 @@ Former soldier trying to adjust to civilian life They're being blackmailed by so
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
 
-
 ### Aeliana Ashford the Wise (Family - Cousin)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
@@ -57,16 +62,13 @@ Former soldier trying to adjust to civilian life They're being blackmailed by so
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Erasmus Jadeclaw the Cunning (Criminal - Handler)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Malakai Jadeclaw the Wanderer (Political - Puppet)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Is the lost heir to the throne

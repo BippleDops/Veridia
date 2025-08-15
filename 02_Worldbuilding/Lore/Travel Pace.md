@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -72,7 +72,7 @@ Travel Pace represents a crucial aspect of the world's history, cosmology, or fu
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -84,3 +84,9 @@ Travel Pace represents a crucial aspect of the world's history, cosmology, or fu
 
 - Someone is blackmailing an heir for money
 - A stranger needs help investigating before dawn
+
+## References
+
+- [[02-chapter-1-playing-the-game#Travel Pace]]
+- [[09-adventuring#Movement#Travel Pace]]
+- [[Travel_Pace (02_Worldbuilding)]]

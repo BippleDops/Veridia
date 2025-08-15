@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Lightbringer the Wise", "kaelen lightbringer the wise", "Kaelen Lightbringer Wise", "Wise the Lightbringer Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Lightbringer the Wise
 
 *Halfling Shopkeeper (Merchants), Age 20, Female*
@@ -36,7 +42,6 @@ Former adventurer who retired to open a shop A prophetic dream has been haunting
 - **Short Term**: Sabotage competition
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Jorah Oakenshield the Broken (Professional - Employer)
 - **Status**: Strained but maintaining
@@ -47,21 +52,17 @@ Former adventurer who retired to open a shop A prophetic dream has been haunting
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Urien Goldleaf the Guardian (Professional - Partner)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ### Ysara Youngblood the Wise (Criminal - Informant)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Aeliana Emberfall the Scholar (Personal - Childhood friend)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
-
 
 ### Pyria Frostwhisper the Lost (Personal - Love interest)
 - **Status**: Recently reconciled

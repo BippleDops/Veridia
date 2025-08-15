@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Brightblade the Redeemed", "rhiannon brightblade the redeemed", "Rhiannon Brightblade Redeemed", "Redeemed the Brightblade Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Brightblade the Redeemed
 
 *Aasimar Ranger (Adventurers), Age 50, Female*
@@ -36,7 +42,6 @@ Running from a dark past that won't stay buried They recently discovered a secre
 - **Short Term**: Sabotage competition
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Vesper Grimholt the Broken (Personal - Childhood friend)
 - **Status**: Mutually beneficial
@@ -51,7 +56,6 @@ Running from a dark past that won't stay buried They recently discovered a secre
 ### Alaric Zephyrblade the Fallen (Criminal - Informant)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Carries a world-ending artifact

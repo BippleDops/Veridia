@@ -40,7 +40,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -186,7 +186,7 @@ Academic schools exploring questions raised by successful dimensional merger. Pr
 
 Spiritual belief that all significant truth resides in the deepest places - physically, emotionally, and spiritually. Regular "depth-diving" practices for personal growth.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 The Great Drowning serves as foundational lore explaining why Aquabyssos exists and operates as it does. Use convergence sites as locations where reality behaves differently - time flows strangely, dimensional boundaries are thinner, and impossible things happen more easily. Memorial locations offer opportunities for [[Historical Research]], artifact discovery, and encounters with time-displaced entities. The event's themes of transformation through cooperation can inspire quest lines about adapting to change and finding strength through diversity.
 
@@ -217,3 +217,9 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Ancient Aquabyssos Rulers]]
+- [[Arcanum Heights]]
+- [[The Azure Coast]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Stormwind the Redeemed", "kaelen stormwind the redeemed", "Kaelen Stormwind Redeemed", "Redeemed the Stormwind Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Stormwind the Redeemed
 
 *Goliath Assassin (Villains), Age 44, Non-binary*
@@ -36,7 +42,6 @@ Driven mad by knowledge humanity wasn't meant to know They're being blackmailed 
 - **Short Term**: Gather information
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Caelum Xendar the Fallen (Political - Patron)
 - **Status**: Professional only
@@ -47,26 +52,21 @@ Driven mad by knowledge humanity wasn't meant to know They're being blackmailed 
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Felicia Hawthorne the Swift (Political - Spy)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ### Malakai Brightblade the Lost (Personal - Nemesis)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
 ### Dara Proudmore the Redeemed (Personal - Best friend)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Aldric Underhill the Mystic (Personal - Ex-lover)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Believes they're saving the world

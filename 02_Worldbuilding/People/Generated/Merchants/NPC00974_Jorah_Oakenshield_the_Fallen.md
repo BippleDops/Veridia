@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Oakenshield the Fallen", "jorah oakenshield the fallen", "Jorah Oakenshield Fallen", "Fallen the Oakenshield Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Oakenshield the Fallen
 
 *Human Trader (Merchants), Age 25, Female*
@@ -42,16 +48,13 @@ Former adventurer who retired to open a shop Strange abilities have begun manife
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Gareth Youngblood the Bold (Political - Opposition)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Delara Frostwhisper the Broken (Political - Opposition)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
-
 
 ### Ysara Proudmore the Cunning (Family - Spouse)
 - **Status**: Blood oath bound

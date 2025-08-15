@@ -363,3 +363,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Quarantine Enforcement]]
+- [[Underground Smuggling Networks]]
+- [[Crystal Cult Temples]]
+- [[Crystal Cult Temples (D&D_References)]]
+- [[Medical Research Facilities]]
+- [[Quarantine Enforcement (D&D_References)]]
+- [[Underground Smuggling Networks (D&D_References)]]

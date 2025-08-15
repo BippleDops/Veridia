@@ -329,3 +329,12 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[The_Crimson_Pearl]]
+- [[Pearl_Harbor_City (D&D_References)]]
+- [[The Crimson Pearl (D&D_References)]]
+- [[The_Crimson_Pearl (D&D_References)]]
+- [[Topic Matrix]]
+- [[Topic_Matrix (Indexes)]]

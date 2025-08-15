@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Moonshadow", "solas moonshadow", "Moonshadow Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Moonshadow
 
 *Dragonborn Courtier (Nobles), Age 46, Female*
@@ -42,7 +48,6 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Alaric Voidwalker the Bold (Professional - Mentor)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
@@ -51,7 +56,6 @@ Recently elevated to nobility through service, still learning courtly ways They'
 ### Erasmus Zephyrblade the Cunning (Political - Spy)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
-
 
 ### Gavril Brightblade the Wise (Personal - Ex-lover)
 - **Status**: Strained but maintaining
@@ -66,7 +70,6 @@ Recently elevated to nobility through service, still learning courtly ways They'
 ### Malakai Darkwater (Professional - Partner)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Practicing forbidden magic

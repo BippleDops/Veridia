@@ -34,8 +34,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
-
 ## Relationships
 - **Allies**: Notable allies and friends
 - **Rivals**: Competitors and rivals  
@@ -231,7 +229,6 @@ Mentioned in The First Prophecy of Shadows
 - Natural disasters
 - Current power structures established
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -267,3 +264,11 @@ Mentioned in The First Prophecy of Shadows
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Dockmaster Bruno Steadyanchor Dockmaster Bruno Steadyanchor.svg]]
+- [[Assets Portraits Portrait NPC Captain Prism Shield Valeria Captain Prism Shield Valeria.svg]]
+- [[Assets Symbols Symbol Heraldry Scream Crystals Scream Crystals.svg]]
+- [[Inverted Ballroom Wing]]
+- [[Inverted Ballroom Wing (D&D_References)]]

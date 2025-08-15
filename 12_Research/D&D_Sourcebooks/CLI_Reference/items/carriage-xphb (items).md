@@ -75,3 +75,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Strange disappearances suggest a curse
 - A document has gone missing and war looms
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Mounts and Vehicles Tack Harness and Drawn Vehicles Phb]]
+- [[Mounts and Vehicles Tack Harness and Drawn Vehicles Xphb]]
+- [[Mounts and Vehicles Tack Harness and Drawn]]

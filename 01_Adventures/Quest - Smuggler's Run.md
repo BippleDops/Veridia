@@ -14,7 +14,6 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 # Quest - Smuggler's Run
 
 ---
@@ -32,12 +31,10 @@ updated: '2025-08-13T04:22:13.293349+00:00'
 world: Both
 ---
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -155,7 +152,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Hooks
 - **Personal**: Character connection

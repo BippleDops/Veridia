@@ -1,6 +1,18 @@
-# Cults 6
+---
+aliases: ["Cults 6", "cults 6", "6 Cults"]
+tags: [note, stub-fixed]
+---
 
-*Cults*
+# Fac00005 Cults 6
+
+## Content
+Content to be added.
+
+## Related
+- [[Related content]]
+
+## Notes
+*Stub file automatically populated*
 
 ---
-*ID: FAC00005*
+*Note: This content develops through gameplay and campaign events.*

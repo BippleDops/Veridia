@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Dawnstrider the Fallen", "wynne dawnstrider the fallen", "Wynne Dawnstrider Fallen", "Fallen the Dawnstrider Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Dawnstrider the Fallen
 
 *Half-Elf Fighter (Adventurers), Age 44, Male*
@@ -13,7 +19,6 @@
 Above average and stocky, with Partially shaved auburn hair and Brown eyes. Pale skin. Weather-beaten face showing hard life.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Never uses people's real names; Believes in every conspiracy theory
@@ -36,12 +41,10 @@ Running from a dark past that won't stay buried They've made a deal they're begi
 - **Short Term**: Gather information
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Dara Oakenshield the Strong (Family - Spouse)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
-
 
 ### Rhiannon Thornweave the Mystic (Professional - Employer)
 - **Status**: On the verge of collapse
@@ -52,16 +55,13 @@ Running from a dark past that won't stay buried They've made a deal they're begi
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Dara Darkwater the Risen (Professional - Employer)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
 
-
 ### Solas Goldleaf the Scholar (Criminal - Fence)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ### Caelum Brightblade the Redeemed (Personal - Nemesis)
 - **Status**: Recently reconciled

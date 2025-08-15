@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Xendar the Wanderer", "zephyr xendar the wanderer", "Zephyr Xendar Wanderer", "Wanderer the Xendar Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Xendar the Wanderer
 
 *Half-Orc Fighter (Adventurers), Age 31, Male*
@@ -13,7 +19,6 @@
 Towering and delicate, with Mohawk white hair and Violet eyes. Tan skin. Warm smile that puts people at ease.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects
@@ -36,17 +41,14 @@ Running from a dark past that won't stay buried An old debt has come due at the 
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Brenna Ravenheart the Mystic (Criminal - Fence)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
 
-
 ### Kaelen Blackstone the Mystic (Criminal - Accomplice)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ### Qadim Frostwhisper the Swift (Personal - Ex-lover)
 - **Status**: Recently reconciled
@@ -57,16 +59,13 @@ Running from a dark past that won't stay buried An old debt has come due at the 
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Zephyr Underhill the Cunning (Criminal - Fence)
 - **Status**: Complicated history
 - **History**: United by common enemy
 
-
 ### Alaric Ravenheart the Strong (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Carries a world-ending artifact

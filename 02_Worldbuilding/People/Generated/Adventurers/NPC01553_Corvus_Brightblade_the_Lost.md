@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Brightblade the Lost", "corvus brightblade the lost", "Corvus Brightblade Lost", "Lost the Brightblade Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Brightblade the Lost
 
 *Gnome Cleric (Adventurers), Age 19, Non-binary*
@@ -36,17 +42,14 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 - **Short Term**: Find missing person
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Delara Winterborn the Cunning (Political - Patron)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Corvus Ironforge the Redeemed (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ### Alaric Zephyrblade the Bold (Political - Puppet)
 - **Status**: On the verge of collapse
@@ -56,7 +59,6 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 ### Zephyr Moonshadow the Guardian (Political - Patron)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Carries a world-ending artifact

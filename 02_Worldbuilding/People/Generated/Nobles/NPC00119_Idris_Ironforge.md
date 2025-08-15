@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Ironforge", "idris ironforge", "Ironforge Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Ironforge
 
 *Elf Ambassador (Nobles), Age 25, Male*
@@ -36,27 +42,22 @@ Recently elevated to nobility through service, still learning courtly ways Stran
 - **Short Term**: Avoid the authorities
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Gareth Stormwind the Mystic (Political - Puppet)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Hilda Thornweave the Mystic (Professional - Employer)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
-
 
 ### Idris Winterborn (Professional - Mentor)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Qadim Ironwood (Political - Spy)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Actually a bastard with no real claim

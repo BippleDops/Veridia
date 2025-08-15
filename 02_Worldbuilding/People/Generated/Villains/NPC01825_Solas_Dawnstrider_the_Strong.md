@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Dawnstrider the Strong", "solas dawnstrider the strong", "Solas Dawnstrider Strong", "Strong the Dawnstrider Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Dawnstrider the Strong
 
 *Aasimar Crime Boss (Villains), Age 30, Female*
@@ -13,7 +19,6 @@
 Tall and compact, with Long and flowing auburn hair and Heterochromic eyes. Fair skin. Missing ear from old battle.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Laughs at the most inappropriate times
@@ -42,7 +47,6 @@ Corrupted by an artifact or dark magic A prophetic dream has been haunting them 
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
 
-
 ### Alaric Frostwhisper the Bold (Personal - Childhood friend)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
@@ -56,7 +60,6 @@ Corrupted by an artifact or dark magic A prophetic dream has been haunting them 
 ### Kaelen Proudmore the Guardian (Criminal - Fence)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Was once a renowned hero

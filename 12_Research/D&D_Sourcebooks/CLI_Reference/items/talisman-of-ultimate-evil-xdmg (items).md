@@ -84,3 +84,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Someone is hunting an heir for money
 - A shipment has gone missing and chaos spreads
 - A letter reveals a conspiracy about a local noble
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Magic Item Table I]]
+- [[Random Magic Items Relics]]
+- [[Relics Legendary Xdmg]]
+- [[magic-item-table-i (tables)]]
+- [[random-magic-items-relics (tables)]]
+- [[relics-legendary-xdmg (tables)]]

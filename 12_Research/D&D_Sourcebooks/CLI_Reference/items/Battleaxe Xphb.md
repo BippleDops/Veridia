@@ -88,3 +88,19 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Axe of the Dwarvish Lords Xdmg]]
+- [[Hew Lmop]]
+- [[Yester Hill Axe Cos]]
+- [[axe-of-the-dwarvish-lords-xdmg (items)]]
+- [[hew-lmop (items)]]
+- [[yester-hill-axe-cos (items)]]
+- [[Dwarf Duergar Mtf]]
+- [[dwarf-duergar-mtf (races)]]
+- [[Weapons Phb]]
+- [[Weapons Xphb]]
+- [[weapons-phb (tables)]]
+- [[weapons-xphb (tables)]]

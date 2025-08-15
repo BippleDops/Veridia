@@ -34,10 +34,10 @@ participants:
 - Divine Court
 related_entities:
 - '[[The Great Crystallization]]'
-- '[[The [[Seven Shards]]]]'
-- '[[The [[Crown of Stars]]]]'
+- '[[Seven Shards|The [[Seven Shards]]]]'
+- '[[Crown of Stars|The [[Crown of Stars]]]]'
 - '[[Aetheron]]'
-- '[[[[The Shattering]] of [[The Crown]]]]'
+- '[[The Shattering|[[The Shattering]] of [[The Crown]]]]'
 scale: Continental
 significance: World-Defining
 [[Time]]_period: Pre-Crystallization Era, Year 1 BGC (Before Great Crystallization)
@@ -83,5 +83,22 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[The Final Choice]]
+- [[The Great Convergence Prophecies]]
+- [[The Great Crystallization]]
+- [[The Restoration Movement]]
+- [[The Shattering of the Crown]]
+- [[The Silverscale Conspiracy]]
+- [[Lord Aurelius Goldwave]]
+- [[Evidence Chain Analysis]]
+- [[The Final Choice (D&D_References)]]
+- [[The Final Choice 3 (D&D_References)]]
+- [[The Restoration Movement (D&D_References)]]
+- [[The Silverscale Conspiracy (D&D_References)]]
+- [[Lord Aurelius Goldwave (D&D_Statblocks)]]

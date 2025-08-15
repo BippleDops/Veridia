@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Underhill the Strong", "gavril underhill the strong", "Gavril Underhill Strong", "Strong the Underhill Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Underhill the Strong
 
 *Genasi Carpenter (Commoners), Age 44, Non-binary*
@@ -13,7 +19,6 @@
 Towering and lanky, with Mohawk silver hair and Gray eyes. Brown skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Extremely superstitious about everything; Speaks to inanimate objects
@@ -42,7 +47,6 @@ Survivor of a disaster that destroyed their village A prophetic dream has been h
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Qadim Keenblade the Wise (Personal - Best friend)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
@@ -51,7 +55,6 @@ Survivor of a disaster that destroyed their village A prophetic dream has been h
 ### Qadim Underhill (Personal - Childhood friend)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Has dragon blood in their veins

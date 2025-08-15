@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Thornweave the Bold", "ysara thornweave the bold", "Ysara Thornweave Bold", "Bold the Thornweave Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Thornweave the Bold
 
 *Aasimar Aristocrat (Nobles), Age 33, Female*
@@ -13,7 +19,6 @@
 Very tall and wiry, with Long and flowing brown hair and Green eyes. Brown skin. Burn scars on one side of face.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Speaks to inanimate objects; Always speaks in metaphors and riddles
@@ -52,7 +57,6 @@ Exiled from their homeland, trying to rebuild their power base They've made a de
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Fiora Moonshadow the Bold (Professional - Employee)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
@@ -66,7 +70,6 @@ Exiled from their homeland, trying to rebuild their power base They've made a de
 ### Drusilla Ravenheart the Fallen (Personal - Love interest)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

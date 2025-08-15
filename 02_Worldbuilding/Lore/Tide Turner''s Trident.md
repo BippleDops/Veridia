@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -75,7 +75,7 @@ Tide Turner''s Trident represents a crucial aspect of the world's history, cosmo
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -119,3 +119,8 @@ Tide Turner''s Trident represents a crucial aspect of the world's history, cosmo
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Tide_Turner''s_Trident (02_Worldbuilding)]]
+- [[The Drowned God]]

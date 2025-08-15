@@ -7,7 +7,7 @@ tags: ['item']
 ## Overview
 This section contains all consumables in the campaign.
 
-## Items
+## [[Items|Items]]
 *Items will be organized here*
 
 ## Quick Reference
@@ -19,7 +19,6 @@ This section contains all consumables in the campaign.
 - **Requires Attunement**: *[Yes/No]*
 - **Weight**: *[Weight in pounds]*
 - **Value**: *[Gold piece value]*
-
 
 ## Physical Description
 *[Detailed description of the item's appearance]*
@@ -33,10 +32,9 @@ This section contains all consumables in the campaign.
 ### Identifying Features
 - *[Unique markings or characteristics]*
 
-
-## History & Lore
+## History & [[Lore|Lore]]
 ### Creation
-- **Creator**: *[Who made it]*
+- **[[Creator|Creator]]**: *[Who made it]*
 - **Date**: *[When it was made]*
 - **Purpose**: *[Why it was created]*
 
@@ -45,7 +43,6 @@ This section contains all consumables in the campaign.
 
 ### Legends
 - *[Stories told about this item]*
-
 
 ## Mechanical Effects
 ### Passive Abilities

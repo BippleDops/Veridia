@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Emberfall", "aldric emberfall", "Emberfall Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Emberfall
 
 *Genasi Heir (Nobles), Age 34, Male*
@@ -13,7 +19,6 @@
 Short and lanky, with Shaved black hair and Blue eyes. Olive skin. Warm smile that puts people at ease.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Flirts with everyone regardless of interest; Laughs at the most inappropriate times; Always speaks in metaphors and riddles
@@ -36,37 +41,30 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Complete current contract
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Drusilla Zephyrblade the Mystic (Personal - Ex-lover)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
 
-
 ### Alaric Youngblood (Criminal - Accomplice)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ### Elric Underhill (Family - Cousin)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Ysara Brightblade (Family - Child)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
-
 
 ### Felicia Grimholt the Risen (Family - Child)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
 
-
 ### Faelyn Grimholt the Bold (Personal - Nemesis)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Practicing forbidden magic

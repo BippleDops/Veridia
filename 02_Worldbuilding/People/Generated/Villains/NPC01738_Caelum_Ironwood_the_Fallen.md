@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Ironwood the Fallen", "caelum ironwood the fallen", "Caelum Ironwood Fallen", "Fallen the Ironwood Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Ironwood the Fallen
 
 *Gnome Cultist (Villains), Age 52, Female*
@@ -36,32 +42,26 @@ Born into evil but questioning their path They've fallen in love with someone th
 - **Short Term**: Recruit new members
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Elric Silverleaf the Strong (Political - Opposition)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Faelyn Zephyrblade the Wise (Professional - Employer)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ### Wynne Lightbringer the Mystic (Criminal - Informant)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Brenna Underhill the Risen (Family - Parent)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
 
-
 ### Ysara Nightfall the Mystic (Professional - Mentor)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Believes they're saving the world

@@ -58,7 +58,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -199,7 +199,7 @@ The first systematic use of organized espionage and intelligence:
 
 ### Northern Alliance Leaders
 
-**[[[[Lord Commander Gareth]] Steelborn]]**: Master strategist who developed combined arms tactics
+**[[Lord Commander Gareth|[[Lord Commander Gareth]] Steelborn]]**: Master strategist who developed combined arms tactics
 **Archmage Celestia Starweaver**: Pioneered military applications of [[Crystal Magic]]
 **Admiral Marcus Stormwind**: Naval commander who secured Alliance supply lines
 **Spymaster Vera Shadowknife**: Organized the first continental intelligence network
@@ -214,7 +214,7 @@ The first systematic use of organized espionage and intelligence:
 ### Neutral and Third-Party Actors
 
 **Elder Whisperwind of [[Sylvanheart]]**: Eventually mediated peace negotiations
-**[[[[Emperor]] Thalassius]] of [[Aquabyssos]]**: Provided crucial diplomatic pressure for peace
+**[[Emperor|[[Emperor]] Thalassius]] of [[Aquabyssos]]**: Provided crucial diplomatic pressure for peace
 **The [[Merchant Princes]]**: Trade guilds whose [[Economic Pressure]] helped end the war
 
 ### The Siege of Drakmoor (Year 893)
@@ -284,7 +284,7 @@ The original succession dispute resolved through compromise:
 
 **Military Engineering**: [[Ancient Siege Tunnels]] became permanent infrastructure
 **[[Crystal Technology]]**: Widespread adoption of magical enhancement in all fields
-**[[Communication Systems]]**: Long-distance magical communication became standard
+**[[Communication_Systems|Communication Systems]]**: Long-distance magical communication became standard
 **Medical Advances**: Battlefield medicine innovations benefited civilian healthcare
 
 ### Social Changes
@@ -356,7 +356,7 @@ Continental War is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Continental War as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Continental War.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -414,3 +414,16 @@ Different cultures interpret this lore through their own lens, creating variatio
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[Ancient Siege Tunnels]]
+- [[Eastern Kingdoms (02_Worldbuilding)]]
+- [[Ironhold]]
+- [[Sylvanheart]]
+- [[Ancient Siege Tunnels (D&D_References)]]
+- [[Convergence Point]]
+- [[Eastern Kingdoms (D&D_References)]]
+- [[Ironhold (D&D_References)]]
+- [[Sylvanheart (D&D_References)]]
+- [[The Embassy Quarter (D&D_References)]]

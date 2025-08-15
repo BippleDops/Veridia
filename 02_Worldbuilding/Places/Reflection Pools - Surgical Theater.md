@@ -67,7 +67,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -270,7 +270,7 @@ Advanced techniques for rebuilding damaged consciousness structures:
 - **Research**: Leading authority on therapeutic memory implantation
 - **Ethics**: Strong advocate for informed consent in consciousness procedures
 
-**[[Director of Experimental Procedures Dr. [[Sire]]n Voidtouch]]**
+**[[Sire|Director of Experimental Procedures Dr. [[Sire]]n Voidtouch]]**
 - **Specialization**: Consciousness transfer and extreme experimental techniques
 - **Background**: Mysterious past involving personal consciousness transfer experience
 - **Innovation**: Pioneered temporary consciousness relocation procedures
@@ -412,10 +412,10 @@ A patient scheduled for routine consciousness surgery has disappeared, leaving b
 - **Stakes**: Patient's condition may be deteriorating without treatment
 - **Resolution**: Rescue operation or convincing patient to return for needed treatment
 
-**[[The [[Memory Thief]]]]**
+**[[Memory Thief|The [[Memory Thief]]]]**
 Valuable therapeutic memories are being stolen from the facility's archives, threatening ongoing treatments.
 - **Mystery**: Investigating how memories are being accessed and stolen
-- **[[Suspects]]**: Staff with access, patients, [[Criminal Organizations]], foreign agents
+- **[[Suspects]]**: Staff with access, patients, [[Criminal_Organizations|Criminal Organizations]], foreign agents
 - **Consequences**: Stolen memories may be sold or used for harmful purposes
 - **Action**: Preventing theft and recovering stolen memories
 
@@ -464,7 +464,7 @@ Beyond official procedures, the Theater secretly facilitates [[Memory Trading]]:
 - **Experience Trading**: [[People]] selling unique or valuable experiences
 - **Identity Trafficking**: Complete personality exchanges for various purposes
 
-### [[The Consciousness Archive]]
+### 
 
 Hidden beneath the facility lies a vast archive of consciousness data:
 - **Historical Figures**: Preserved consciousness patterns of important historical personalities
@@ -501,7 +501,7 @@ Legends speak of Reflection Pools   Surgical Theater as a nexus where past and p
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -525,13 +525,11 @@ Reflection Pools - Surgical Theater is a notable location characterized by its u
 ### Founding
 Reflection Pools - Surgical Theater was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -539,13 +537,11 @@ Reflection Pools - Surgical Theater was established in the distant past, growing
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -605,7 +601,6 @@ Key stop on metals trade route
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions

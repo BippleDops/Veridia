@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Oakenshield the Scholar", "felicia oakenshield the scholar", "Felicia Oakenshield Scholar", "Scholar the Oakenshield Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Oakenshield the Scholar
 
 *Half-Orc Assassin (Villains), Age 59, Male*
@@ -36,17 +42,14 @@ Driven mad by knowledge humanity wasn't meant to know They've made a deal they'r
 - **Short Term**: Complete current contract
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Rhiannon Emberfall the Mystic (Professional - Employer)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Solas Ashford the Scholar (Criminal - Informant)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ### Caelum Quicksilver the Fallen (Personal - Childhood friend)
 - **Status**: On the verge of collapse
@@ -57,16 +60,13 @@ Driven mad by knowledge humanity wasn't meant to know They've made a deal they'r
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Rhiannon Frostwhisper the Scholar (Family - Spouse)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
 
-
 ### Jorah Xendar the Wanderer (Personal - Ex-lover)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Knows how the world will end

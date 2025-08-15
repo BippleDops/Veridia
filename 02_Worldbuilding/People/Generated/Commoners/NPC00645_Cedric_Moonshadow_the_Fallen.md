@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Moonshadow the Fallen", "cedric moonshadow the fallen", "Cedric Moonshadow Fallen", "Fallen the Moonshadow Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Moonshadow the Fallen
 
 *Tiefling Baker (Commoners), Age 64, Non-binary*
@@ -13,7 +19,6 @@
 Below average and athletic, with Wild and unkempt white hair and Black eyes. Tan skin. Constantly changing hair color.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Extremely superstitious about everything; Believes in every conspiracy theory
@@ -41,7 +46,6 @@ Survivor of a disaster that destroyed their village They've made a deal they're 
 ### Zephyr Hawthorne the Strong (Personal - Best friend)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ### Baelor Emberfall the Wanderer (Personal - Nemesis)
 - **Status**: Complicated history

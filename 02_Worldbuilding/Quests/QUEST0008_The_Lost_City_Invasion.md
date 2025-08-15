@@ -1,4 +1,5 @@
 ---
+aliases: ["The Lost City Invasion", "the lost city invasion", "Invasion City Lost The"]
 tags: [quest, adventure, generated]
 type: quest
 ---
@@ -57,8 +58,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Show mercy and gain intel - Future ally but justice denied
 2. Execute for crimes committed - Justice served but opportunity lost
-
-
 
 ## Rewards
 ### On Success

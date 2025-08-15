@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Moonshadow the Seeker", "wynne moonshadow the seeker", "Wynne Moonshadow Seeker", "Seeker the Moonshadow Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Moonshadow the Seeker
 
 *Dragonborn Fisher (Commoners), Age 20, Male*
@@ -13,7 +19,6 @@
 Very short and wiry, with Carefully styled brown hair and Red eyes. Tan skin. Gold tooth that glints when smiling.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Always speaks in metaphors and riddles
@@ -36,7 +41,6 @@ Grew up in poverty but discovered a talent that might change everything A prophe
 - **Short Term**: Survive until next week
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Rhiannon Ashford the Seeker (Criminal - Informant)
 - **Status**: Blood oath bound
@@ -47,11 +51,9 @@ Grew up in poverty but discovered a talent that might change everything A prophe
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
 
-
 ### Jorah Grimholt the Swift (Personal - Childhood friend)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Knows location of ancient treasure

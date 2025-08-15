@@ -88,3 +88,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - The authorities needs help stealing before dawn
 - An heirloom has gone missing and chaos spreads
+
+## References
+
+- [[Master_Spell_Compendium]]

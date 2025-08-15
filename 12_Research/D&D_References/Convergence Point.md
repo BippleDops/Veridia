@@ -297,3 +297,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Arcanum Heights]]
+- [[Session 09 the Shard Convergence]]
+- [[Aquabyssos - Session 04 - High Tide Horror]]
+- [[Arcanum Heights (D&D_References)]]
+- [[The Dream Shepherds]]
+- [[Convergence Point Introduction]]
+- [[Convergence_Point_Introduction (D&D_Sourcebooks)]]

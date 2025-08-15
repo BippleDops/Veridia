@@ -21,15 +21,12 @@ world: Universal
 - Time pressure
 - Moral dilemmas
 
-
 # Quest Dependency System
-
 
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -148,7 +145,6 @@ SORT questLevel ASC
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Hooks
 - **Personal**: Character connection

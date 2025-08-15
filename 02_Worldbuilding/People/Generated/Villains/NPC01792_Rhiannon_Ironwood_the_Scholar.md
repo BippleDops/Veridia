@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Ironwood the Scholar", "rhiannon ironwood the scholar", "Rhiannon Ironwood Scholar", "Scholar the Ironwood Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Ironwood the Scholar
 
 *Genasi Crime Boss (Villains), Age 62, Non-binary*
@@ -13,7 +19,6 @@
 Very tall and slender, with Wild and unkempt unusual color hair and Gray eyes. Freckled skin. Prominent scar across the face.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Speaks to inanimate objects; Sees doom and gloom everywhere; Constantly quotes ancient texts
@@ -36,27 +41,22 @@ Driven mad by knowledge humanity wasn't meant to know They've made a deal they'r
 - **Short Term**: Avoid the authorities
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Aldric Crystalbrook the Wise (Personal - Nemesis)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Urien Lightbringer the Risen (Personal - Best friend)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ### Aeliana Ironwood the Swift (Personal - Best friend)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
 
-
 ### Xander Xendar the Guardian (Professional - Partner)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ### Jorah Jadeclaw the Cunning (Criminal - Accomplice)
 - **Status**: Recently reconciled

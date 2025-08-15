@@ -1,9 +1,9 @@
 ---
 
-title: Assets Locations Location City the Crystal Cathedral of Pure Light V1 the Crystal
+title: [[Assets|Assets]] Locations [[location|location]] City [[The Crystal Cathedral|The Crystal Cathedral]] of Pure Light V1 the Crystal
   Cathedral of Pure Light.svg
 aliases:
-- 04 Resources Assets Locations location city the crystal cathedral of pure light
+- 04 Resources [[Assets Locations|Assets Locations]] location city [[The Crystal Cathedral of Pure Light|The Crystal Cathedral of Pure Light]]
   v1 the crystal cathedral of pure lightsvg
 type: npc
 tags:
@@ -30,11 +30,11 @@ improvements: 20
 
 ### Culture Improvements
 
-- Define unique cultural practices and taboos
+- Define unique [[Cultural Practices|Cultural Practices]] and taboos
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -42,7 +42,7 @@ improvements: 20
 
 ### Lifestyle Improvements
 
-- Describe typical day for different social classes
+- Describe typical day for different social [[classes|classes]]
 
 ### Oral_Tradition Improvements
 
@@ -86,7 +86,7 @@ A distinguished individual whose presence commands attention. Their appearance s
 
 ## Background
 
-04_Resources/Assets/Locations/location-city-the-crystal-cathedral-of-pure-light-v1-the-crystal-cathedral-of-pure-light.svg has established themselves as a notable figure in their domain. Their expertise and reputation precede them, making them a valuable contact for those who earn their respect.
+[[04_Resources|04_Resources]]/Assets/Locations/location-city-the-crystal-cathedral-of-pure-light-v1-the-crystal-cathedral-of-pure-light.svg has established themselves as a notable figure in their domain. Their expertise and reputation precede them, making them a valuable contact for those who earn their respect.
 
 ### Combat Abilities (if applicable)
 - **AC**: 12 (or appropriate to role)
@@ -96,7 +96,7 @@ A distinguished individual whose presence commands attention. Their appearance s
 
 **Abilities**: STR 12, DEX 14, CON 14, INT 16, WIS 15, CHA 13
 
-**Skills**: Relevant to profession (+6 to primary skills)
+**[[skills|skills]]**: Relevant to profession (+6 to primary skills)
 
 ## Voice & Mannerisms
 
@@ -114,7 +114,7 @@ Currently engaged in professional duties and maintaining their position within t
 
 1. **Professional Services**: Can provide specialized assistance
 2. **Information Source**: Knows about local events and politics
-3. **Quest Giver**: May have tasks requiring discrete handling
+3. **[[Quest Giver|Quest Giver]]**: May have tasks requiring discrete handling
 4. **Political Intrigue**: Involved in local power dynamics
 
 ## Appearance
@@ -132,7 +132,7 @@ Currently engaged in professional duties and maintaining their position within t
 
 **Secondary Objectives**:
 - Maintain their position and influence
-- Advance their organization's interests
+- Advance their [[Organization|Organization]]'s interests
 - Personal advancement or satisfaction
 
 ## Notable Quotes
@@ -146,7 +146,7 @@ Currently engaged in professional duties and maintaining their position within t
 ## Statistics (D&D 5e)
 
 ```statblock
-name: ---
+[[Name|Name]]: ---
 size: Medium
 type: Humanoid
 alignment: Neutral
@@ -160,12 +160,12 @@ int: 14
 wis: 13
 cha: 15
 skills: Relevant +4
-senses: Passive Perception 11
+[[senses|senses]]: Passive Perception 11
 languages: Common
 cr: 1/4
 ```
 
-## DM Notes
+## [[DM_Notes|DM Notes]]
 
 This NPC can serve multiple roles:
 - Information broker for their area of expertise
@@ -213,3 +213,6 @@ This NPC can serve multiple roles:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+---
+**Navigation**: [[INDEX|🏠 Home]] | [[location|📍 Locations]] | [[INDEX|📚 Index]]

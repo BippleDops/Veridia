@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Quicksilver the Wanderer", "aldric quicksilver the wanderer", "Aldric Quicksilver Wanderer", "Wanderer the Quicksilver Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Quicksilver the Wanderer
 
 *Half-Orc Dark Wizard (Villains), Age 18, Non-binary*
@@ -13,7 +19,6 @@
 Short and stocky, with Partially shaved silver hair and Amber eyes. Dark skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Constantly quotes ancient texts; Sees doom and gloom everywhere
@@ -47,11 +52,9 @@ Betrayed by those they trusted, now seeking revenge on the world Strange abiliti
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Aeliana Stormwind the Redeemed (Family - Child)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ### Vesper Stormwind the Redeemed (Criminal - Accomplice)
 - **Status**: Recently reconciled
@@ -62,11 +65,9 @@ Betrayed by those they trusted, now seeking revenge on the world Strange abiliti
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
 
-
 ### Brenna Brightblade the Bold (Personal - Best friend)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Believes they're saving the world

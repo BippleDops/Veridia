@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Xendar the Wanderer", "idris xendar the wanderer", "Idris Xendar Wanderer", "Wanderer the Xendar Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Xendar the Wanderer
 
 *Tabaxi Dark Wizard (Villains), Age 66, Female*
@@ -42,26 +48,21 @@ Betrayed by those they trusted, now seeking revenge on the world A family member
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Urien Brightblade the Fallen (Political - Puppet)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ### Corvus Silverleaf the Lost (Personal - Love interest)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Gareth Zephyrblade the Wise (Political - Opposition)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Orion Zephyrblade the Wanderer (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Believes they're saving the world

@@ -180,7 +180,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[High Priestess Nerida Soulcurrent]] (enemy)
-- [[Captain Twin Reality Marsh]] (colleague)
+- [[Assets Portraits Portrait NPC Captain Twin Reality Marsh Captain Twin Reality Marsh.svg|Captain Twin Reality Marsh]] (colleague)
 - [[The Harmony Collective]] (colleague)
 ---
 *Tags*: #npc #contact #worldbuilding
@@ -216,3 +216,7 @@ This NPC can serve multiple roles:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Assets Locations Location City Master Cultivator Reef Growstone V1 Master Cultivator Reef Growstone.svg]]

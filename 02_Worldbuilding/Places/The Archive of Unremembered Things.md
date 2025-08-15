@@ -137,3 +137,14 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Archivist Mnemonic the Forgotten]]
+- [[Sister Morwyn]]
+- [[The Maw of Darkness]]
+- [[Sister Morwyn (D&D_References)]]
+- [[Archivist Mnemonic the Forgotten (D&D_Statblocks)]]
+- [[Discover the Singers Beyond (D&D_Statblocks)]]
+- [[Find the Grief Bomb (D&D_Statblocks)]]
+- [[The Maw of Darkness (D&D_Statblocks)]]

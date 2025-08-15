@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -76,7 +76,7 @@ Tidal Council is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of Tidal Council as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Tidal Council.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -127,3 +127,13 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[The Deserter's Tale]]
+- [[The Emperor's Gambit]]
+- [[The Deserter's Tale (D&D_References)]]
+- [[The Deserter's Tale 3 (D&D_References)]]
+- [[The Emperor's Gambit (D&D_References)]]
+- [[The Senator's Last Stand]]
+- [[Tide Turner's Trident]]

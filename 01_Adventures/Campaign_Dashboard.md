@@ -13,7 +13,7 @@ status: active
 
 ---
 title: Campaign Dashboard - Aquabyssos & Aethermoor
-type: Lore
+type: [[Lore|Lore]]
 tags:
 - dashboard
 - master-control
@@ -40,12 +40,12 @@ chronology: active
 TABLE WITHOUT ID
   "⚡ " + choice(reality_stability < 25, "**CRITICAL**", 
          choice(reality_stability < 50, "**UNSTABLE**", 
-         choice(reality_stability < 75, "Wavering", "Stable"))) AC "Reality Status",
+         choice(reality_stability < 75, "Wavering", "[[stable|Stable]]"))) AC "Reality Status",
   "📊 " + reality_stability + "/100" AC "Stability",
-  "🌀 " + deep_mother_influence + "/100" AC "Deep Mother",
+  "🌀 " + deep_mother_influence + "/100" AC "[[Deep Mother|Deep Mother]]",
   "⏰ Session " + current_session AC "Progress"
 FROM "Campaign_Dashboard"
-WHERE file.name = this.file.name
+WHERE file.[[Name|name]] = this.file.name
 ```
 
 ## 🔧 Deep Evaluation Improvements
@@ -69,30 +69,30 @@ WHERE file.name = this.file.name
   "🔍 " + information AC "Information",
   "✨ " + ideological AC "Ideological",
   "📈 " + total_power AC "Total"
-FROM "02_Worldbuilding/Groups"
+FROM "[[02_Worldbuilding|02_Worldbuilding]]/Groups"
 WHERE contains(tags, "major-faction")
 SORT total_power DESC
 LIMIT 10
 
 ### Active Conflicts
-1. **Tidal Council vs Surface Seekers** - Open hostilities
+1. **Tidal Council vs [[Surface Seekers|Surface Seekers]]** - Open hostilities
 2. **Crystal Wardens vs Parasite Priests** - Ideological war
 3. **Merchant Guilds vs Everyone** - Economic manipulation
 4. **Deep Mother Cults vs Reality** - Existential threat
 
 ### Power Players
-| NPC | Location | Status | Loyalty | Next Action |
+| NPC | [[location|Location]] | Status | [[loyalty|Loyalty]] | Next Action |
 |-----|----------|--------|---------|-------------|
 | **Nerissa Deepcurrent** | Maelstrom Palace | Desperate | Neutral | Seeking allies |
 | **Queen Seraphina** | Crystal Palace | Mad | Unstable | Festival ritual |
 | **Vex Shadowthorn** | Unknown | Active | Hostile | Shadow harvest |
-| **Marina Coralheart** | Multiple | Fractured | Confused | Identity crisis |
+| **[[Marina|Marina]] Coralheart** | Multiple | Fractured | Confused | Identity crisis |
 | **Director Silverscale** | Consortium HQ | Plotting | Self | Economic war |
 
 ### Rising Threats
 | NPC | Threat Level | Growth Rate | Counter-measures |
 |-----|--------------|-------------|------------------|
-| **Deep Mother** | 8/10 | Exponential | Reality anchors failing |
+| **Deep Mother** | 8/10 | Exponential | [[Reality Anchors|Reality Anchors]] failing |
 | **The Silhouette Prime** | 7/10 | Steady | Shadow detection needed |
 | **Prophet Deepest-Dream** | 6/10 | Accelerating | Prophecy interpretation |
 | **Archive-Prince Mnemonic** | 5/10 | Unknown | Memory protection |
@@ -124,7 +124,7 @@ color blue
 
 ### Faction Action Resolver
 name Resolve Faction Turn
-action Calculate and apply all faction actions for this turn
+action Calculate and apply all faction [[actions|actions]] for this turn
 color green
 
 ### Reality Check
@@ -137,8 +137,8 @@ name Generate NPC Response
 action Create contextual NPC reaction based on current situation
 color yellow
 
-### Player-Facing Encounter Handouts
-LIST FROM "04_Resources/Handouts/Encounters"
+### Player-[[facing|Facing]] Encounter [[Handouts|Handouts]]
+LIST FROM "[[04_Resources|04_Resources]]/Handouts/Encounters"
 SORT file.name ASC
 
 ### GM Encounter Sheets
@@ -154,26 +154,26 @@ LIST FROM "06_GM_Resources/Travel/Encounter_Sheets"
 | Prophecies | Manifesting | +2/session |
 | **Total** | **Critical** | **+9/session** |
 
-### 📝 Notes for Next Session
+### 📝 Notes for [[Next Session|Next Session]]
 Key Focus Areas:
 1. Marina identity crisis resolution scene
 2. Parliament emergency vote on Surface Seal
 3. First major reality merger event
 4. Parasite outbreak containment
-5. Crystal Festival preparations reveal
+5. [[Crystal Festival|Crystal Festival]] preparations reveal
 
 Remember:
-- Players have reality anchor (2 charges left)
+- Players have [[Reality Anchor|Reality Anchor]] (2 charges left)
 - Vex Shadowthorn knows party location
 - Memory tide will reveal hidden truths
-- Queen's madness linked to Deep Mother
+- Queen's [[madness|madness]] linked to Deep Mother
 - Time loop possibility in Lighthouse
 
 ## 🔄 Auto-Update Status
 
 ```dataviewjs
 // This would automatically update based on session logs
-const lastUpdate = dv.page("Session Log").file.mtime;
+const lastUpdate = dv.page("[[Session Log|Session Log]]").file.mtime;
 const daysSinceUpdate = (Date.now() - lastUpdate) / (1000 * 60 * 60 * 24);
 
 if (daysSinceUpdate > 7) {
@@ -188,7 +188,7 @@ if (daysSinceUpdate > 7) {
 - [[Master Index]] - Complete vault navigation
 - [[World Bible]] - Comprehensive lore reference  
 - [[INDEX]] - Session archive
-- [[Quick Start Guide (D&D_References)]] - New player onboarding
+- [[[[Quick_Start_Guide|Quick Start Guide]] (D&D_References)]] - New player onboarding
 - [[GM Resource]] - Gamemaster tools
 
 ---
@@ -199,9 +199,9 @@ if (daysSinceUpdate > 7) {
 
 ## Related
 
-*Links to related content will be added here.*
+*Links to [[Related content|related content]] will be added here.*
 
-## DM Notes
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -262,14 +262,14 @@ if (daysSinceUpdate > 7) {
 ### Optional Areas
 - *[Side locations]*
 
-## Rewards
+## [[rewards|Rewards]]
 *[What PCs gain from completing this adventure]*
 
 ### Experience Points
 - *[XP awards]*
 
 ### Treasure
-- *[Gold and magic items]*
+- *[Gold and [[Magic [[Items|Items]]|Magic Items]]]*
 
 ### Story Rewards
 - *[Reputation, allies, information]*
@@ -286,7 +286,11 @@ if (daysSinceUpdate > 7) {
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition
+
+## References
+
+- [[Topic Matrix]]
+- [[Topic_Matrix (Indexes)]]

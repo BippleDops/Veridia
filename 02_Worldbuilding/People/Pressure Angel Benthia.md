@@ -42,7 +42,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-pressure-angel-benthia-pressure-angel-benthia.png)
 
@@ -54,7 +53,6 @@ improvements: 20
 
 # Pressure Angel Benthia
 *Guardian of the Depths, Herald of Divine Weight*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -513,7 +511,6 @@ Legends speak of Pressure Angel Benthia as a nexus where past and present conver
 
 Member of House Eagleblood - Trait: prophecy
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -549,3 +546,9 @@ Member of House Eagleblood - Trait: prophecy
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Quest - The Convergence Crisis]]
+- [[Memory Merchant Valeria Siltweave]]
+- [[Memory Merchant Valeria Siltweave (D&D_Statblocks)]]

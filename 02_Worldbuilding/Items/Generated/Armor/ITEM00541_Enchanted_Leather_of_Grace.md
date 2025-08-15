@@ -1,3 +1,9 @@
+---
+aliases: ["Enchanted Leather of Grace", "enchanted leather of grace", "Grace of Leather Enchanted"]
+tags: [item, equipment]
+type: item
+---
+
 # Enchanted Leather of Grace
 
 *Armor, Common*

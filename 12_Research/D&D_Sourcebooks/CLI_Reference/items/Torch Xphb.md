@@ -77,3 +77,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Carpenters Tools Xphb]]
+- [[Dungeoneers Pack Xphb]]
+- [[Explorers Pack Xphb]]
+- [[Lightbringer Lmop]]
+- [[Monster Hunters Pack Vrgr]]
+- [[Tinderbox Xphb]]
+- [[carpenters-tools-xphb (items)]]
+- [[dungeoneers-pack-xphb (items)]]
+- [[explorers-pack-xphb (items)]]
+- [[lightbringer-lmop (items)]]
+- [[monster-hunters-pack-vrgr (items)]]
+- [[tinderbox-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

@@ -287,7 +287,7 @@ Shadow Vale represents [[Aquabyssos]]'s largest and most organized community of 
 ### Important Items
 - **[[Community Charter]]** - Foundational document of community goverce
 - **[[Integration Protocols]]** - Procedures for helping shadow-touched newcomers
-- **[[Heritage Archive]]** - Collection of shadow-touched history and culture
+- **** - Collection of shadow-touched history and culture
 - **[[Community Investment Fund]]** - Collective resources for development
 - **[[Civil Rights Petition]]** - Legal documents seeking official recognition
 

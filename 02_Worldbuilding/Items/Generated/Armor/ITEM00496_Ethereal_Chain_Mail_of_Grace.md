@@ -1,3 +1,9 @@
+---
+aliases: ["Ethereal Chain Mail of Grace", "ethereal chain mail of grace", "Grace of Mail Chain Ethereal"]
+tags: [item, equipment]
+type: item
+---
+
 # Ethereal Chain Mail of Grace
 
 *Armor, Uncommon*
@@ -14,8 +20,6 @@ A ethereal chain mail crafted from exotic materials
 - Grants swimming speed
 - Grants swimming speed
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -30,7 +34,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.387Z*

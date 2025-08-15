@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Winterborn the Bold", "wynne winterborn the bold", "Wynne Winterborn Bold", "Bold the Winterborn Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Winterborn the Bold
 
 *Half-Elf Caravan Master (Merchants), Age 62, Female*
@@ -36,17 +42,14 @@ Built their business from nothing through cunning and hard work An old debt has 
 - **Short Term**: Complete current contract
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Pyria Blackstone the Mystic (Personal - Best friend)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Caelum Ironwood the Cunning (Political - Spy)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ### Corvus Silverleaf the Bold (Criminal - Informant)
 - **Status**: One-sided affection
@@ -57,7 +60,6 @@ Built their business from nothing through cunning and hard work An old debt has 
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Thalia Stormwind the Strong (Professional - Partner)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
@@ -66,7 +68,6 @@ Built their business from nothing through cunning and hard work An old debt has 
 ### Caelum Crystalbrook the Risen (Criminal - Fence)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Is actually a spy for foreign power

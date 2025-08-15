@@ -2,7 +2,7 @@
 tags: ['[[Lore]]']
 ---
 
-# 02_Worldbuilding/[[Groups]]/The [[Memory Keepers]]
+# 02_Worldbuilding/[[Groups]]/The [[Memory_Keepers|Memory Keepers]]
 
 ## Overview
 

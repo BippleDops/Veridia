@@ -161,3 +161,9 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- 
+- [[The Hidden Cove of Whispers]]
+- [[The Hidden Cove of Whispers (D&D_References)]]

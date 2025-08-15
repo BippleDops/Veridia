@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Goldleaf the Bold", "ewan goldleaf the bold", "Ewan Goldleaf Bold", "Bold the Goldleaf Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Goldleaf the Bold
 
 *Aasimar Appraiser (Merchants), Age 55, Male*
@@ -36,12 +42,10 @@ Former adventurer who retired to open a shop Strange abilities have begun manife
 - **Short Term**: Gather information
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Alaric Grimholt the Mystic (Family - Child)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ### Hestara Thornweave the Mystic (Criminal - Accomplice)
 - **Status**: One-sided affection
@@ -51,7 +55,6 @@ Former adventurer who retired to open a shop Strange abilities have begun manife
 ### Idris Crystalbrook the Swift (Criminal - Target)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Smuggles illegal magical items

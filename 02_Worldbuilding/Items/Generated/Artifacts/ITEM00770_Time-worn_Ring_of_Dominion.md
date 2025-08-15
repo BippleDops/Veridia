@@ -1,3 +1,9 @@
+---
+aliases: ["Time-worn Ring of Dominion", "time-worn ring of dominion", "Dominion of Ring Time-worn"]
+tags: [item, equipment]
+type: item
+---
+
 # Time-worn Ring of Dominion
 
 *Artifacts, Very Rare*
@@ -16,8 +22,6 @@ A time-worn ring pulsing with inner light
 - Immunity to charm
 - Immunity to charm
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -32,7 +36,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.424Z*

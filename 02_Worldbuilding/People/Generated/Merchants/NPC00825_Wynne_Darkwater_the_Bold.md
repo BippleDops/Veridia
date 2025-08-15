@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Darkwater the Bold", "wynne darkwater the bold", "Wynne Darkwater Bold", "Bold the Darkwater Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Darkwater the Bold
 
 *Genasi Shopkeeper (Merchants), Age 68, Non-binary*
@@ -36,12 +42,10 @@ Inherited a failing business and turned it around They're being blackmailed by s
 - **Short Term**: Survive until next week
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Felicia Winterborn the Seeker (Professional - Employee)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ### Vesper Jadeclaw the Wanderer (Criminal - Target)
 - **Status**: Professional only
@@ -52,11 +56,9 @@ Inherited a failing business and turned it around They're being blackmailed by s
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Orion Moonshadow the Swift (Criminal - Handler)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ### Branwen Crystalbrook the Scholar (Professional - Employer)
 - **Status**: One-sided affection
@@ -66,7 +68,6 @@ Inherited a failing business and turned it around They're being blackmailed by s
 ### Drusilla Lightbringer the Wise (Criminal - Accomplice)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Sells information to all sides

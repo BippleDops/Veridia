@@ -102,6 +102,9 @@ Memory Palace of [[The Deep Mother]] represents a crucial aspect of the world's 
 - 20% middle class
 - 79% working poor
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*
+
+## References
+
+- [[Session 09 the Shard Convergence]]

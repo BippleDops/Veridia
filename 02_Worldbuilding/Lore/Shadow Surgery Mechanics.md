@@ -10,7 +10,7 @@ type: lore
 updated: 2025-08-14
 ---
 
-# [[Shadow Surgery]] Mechanics
+# [[Shadow_Surgery|Shadow Surgery]] Mechanics
 
 ## Overview
 This document contains important information regarding Shadow Surgery Mechanics and its role within the greater narrative.
@@ -48,3 +48,8 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## [[DM_Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Campaign_Overview (Shadow_Conspiracy)]]
+- [[Session 2 the Shadow Surgery]]

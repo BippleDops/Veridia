@@ -80,3 +80,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[7500 Gp Art Objects Xdmg]]
+- [[7500 Gp Art Objects]]
+- [[7500-gp-art-objects (tables)]]
+- [[7500-gp-art-objects-xdmg (tables)]]

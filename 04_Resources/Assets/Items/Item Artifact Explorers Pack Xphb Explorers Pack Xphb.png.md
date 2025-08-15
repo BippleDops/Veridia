@@ -129,3 +129,7 @@ improvements: 20
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Assets Item Artifact Explorers Pack Xphb Explorers Pack Xphb.png]]

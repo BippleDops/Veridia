@@ -50,12 +50,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-corroded-crown-the-corroded-crown.svg)
 
 # The Corroded Crown
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -246,7 +244,6 @@ Member of House Lionblood - Trait: divine blood
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -282,3 +279,8 @@ Member of House Lionblood - Trait: divine blood
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Gareth Goldenheart, The Chosen Vessel]]
+- [[Gareth Goldenheart, The Chosen Vessel (D&D_References)]]

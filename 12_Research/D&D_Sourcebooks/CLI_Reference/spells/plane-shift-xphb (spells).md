@@ -91,7 +91,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -110,4 +109,72 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[plane-shift-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[plane-shift-xphb (spells)|plane-shift-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Berbalang Mpmm]]
+- [[Death Slaad Xmm]]
+- [[Githyanki Dracomancer Xmm]]
+- [[Githyanki Knight Xmm]]
+- [[Githzerai Psion Xmm]]
+- [[Githzerai Zerth Xmm]]
+- [[Gray Slaad Xmm]]
+- [[Mind Flayer Arcanist Xmm]]
+- [[Mind Flayer Psion Vgm]]
+- [[Mind Flayer Xmm]]
+- [[Ulitharid Mpmm]]
+- [[berbalang-mpmm (aberration)]]
+- [[death-slaad-xmm (aberration)]]
+- [[githyanki-dracomancer-xmm (aberration)]]
+- [[githyanki-knight-xmm (aberration)]]
+- [[githzerai-psion-xmm (aberration)]]
+- [[githzerai-zerth-xmm (aberration)]]
+- [[gray-slaad-xmm (aberration)]]
+- [[mind-flayer-arcanist-xmm (aberration)]]
+- [[mind-flayer-psion-vgm (aberration)]]
+- [[mind-flayer-xmm (aberration)]]
+- [[ulitharid-mpmm (aberration)]]
+- [[Sphinx of Lore Xmm]]
+- [[sphinx-of-lore-xmm (celestial)]]
+- [[Marut Mpmm]]
+- [[Retriever Mpmm]]
+- [[Steel Predator Mpmm]]
+- [[marut-mpmm (construct)]]
+- [[retriever-mpmm (construct)]]
+- [[steel-predator-mpmm (construct)]]
+- [[Dao Xmm]]
+- [[Efreeti Xmm]]
+- [[Marid Xmm]]
+- [[dao-xmm (elemental)]]
+- [[efreeti-xmm (elemental)]]
+- [[marid-xmm (elemental)]]
+- [[Cambion Xmm]]
+- [[Night Hag Xmm]]
+- [[Rakshasa Xmm]]
+- [[cambion-xmm (fiend)]]
+- [[night-hag-xmm (fiend)]]
+- [[rakshasa-xmm (fiend)]]
+- [[Empyrean Xmm]]
+- [[empyrean-xmm (miscellaneous)]]
+- [[Astral Dreadnought Mpmm]]
+- [[astral-dreadnought-mpmm (monstrosity)]]
+- [[Alhoon Mpmm]]
+- [[Haunting Revenant Xmm]]
+- [[Illithilich Vgm (undead)]]
+- [[Lich Xmm (undead)]]
+- [[alhoon-mpmm (undead)]]
+- [[haunting-revenant-xmm (undead)]]
+- [[illithilich-vgm (undead)]]
+- [[lich-xmm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Amulet of the Planes Xdmg]]
+- [[Cubic Gate Xdmg]]
+- [[amulet-of-the-planes-xdmg (items)]]
+- [[cubic-gate-xdmg (items)]]
+- [[Boon of Planar Travel]]
+- [[boon-of-planar-travel (rewards)]]
+- [[Forbiddance Xphb]]
+- [[forbiddance-xphb (spells)]]

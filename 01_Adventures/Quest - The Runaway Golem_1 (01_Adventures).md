@@ -38,7 +38,6 @@ improvements: 20
 - Time pressure
 - Moral dilemmas
 
-
 > [!figure] Portrait
 
 # Quest - The Runaway Golem
@@ -98,7 +97,6 @@ Artificer Master Elena Gearwright's prized creation, a sentient stone golem name
 
 ## Quest Giver
 **Master Elena Gearwright** - Brilliant artificer specializing in construct consciousness. Offers 2,500 gp plus magical items for Faithful's safe return.
-
 
 ## Objectives
 ### Primary
@@ -272,7 +270,6 @@ Legends speak of Quest   The Runaway Golem as a nexus where past and present con
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## Hooks
 - **Personal**: Character connection
 - **Professional**: Hired for the job
@@ -317,3 +314,7 @@ Legends speak of Quest   The Runaway Golem as a nexus where past and present con
 - Related content
 - Similar topics
 - Connected elements
+
+## References
+
+- [[Head of Memory Integration Dr. Nautilus Depthcaller (People)]]

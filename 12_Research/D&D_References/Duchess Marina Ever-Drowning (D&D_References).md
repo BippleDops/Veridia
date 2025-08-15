@@ -112,3 +112,12 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Quest - The Crown Reborn]]
+- [[Elder Whisper-In-The-Dark]]
+- [[Harbor Master Luna Freedrift]]
+- [[Vex Shadowthorn's Apprentices]]
+- [[Vex Shadowthorn's Apprentices (D&D_References)]]
+- [[Elder Whisper-In-The-Dark (D&D_Statblocks)]]

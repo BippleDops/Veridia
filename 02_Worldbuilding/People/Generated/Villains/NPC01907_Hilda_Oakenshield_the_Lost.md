@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Oakenshield the Lost", "hilda oakenshield the lost", "Hilda Oakenshield Lost", "Lost the Oakenshield Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Oakenshield the Lost
 
 *Gnome Cultist (Villains), Age 56, Male*
@@ -36,22 +42,18 @@ Born into evil but questioning their path They've made a deal they're beginning 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Orion Crystalbrook the Cunning (Criminal - Accomplice)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
 
-
 ### Xander Voidwalker the Swift (Political - Opposition)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Fiora Crystalbrook the Scholar (Political - Patron)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Knows how the world will end

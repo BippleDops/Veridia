@@ -26,3 +26,8 @@ Further information about this topic will be developed as the campaign progresse
 - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery
+
+## References
+
+- [[Assets Locations Location City Astrologer Prime Cassandra Starweaver Astrologer Prime Cassandra Starweaver.svg]]
+- [[Assets Locations Location City Master Host Torrent Welcomeall Master Host Torrent Welcomeall.svg]]

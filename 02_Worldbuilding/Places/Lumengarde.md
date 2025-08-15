@@ -200,13 +200,11 @@ Lumengarde is a notable location characterized by its unique features and strate
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -214,13 +212,11 @@ Lumengarde is a notable location characterized by its unique features and strate
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -255,7 +251,6 @@ Lumengarde is a notable location characterized by its unique features and strate
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -292,3 +287,40 @@ Lumengarde is a notable location characterized by its unique features and strate
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Establish the New Order (Orders)]]
+- [[Comprehensive-World-Connection-Guide]]
+- [[Consequence Chain 2 - Crystal Trade Disruption]]
+- [[Consequence Chain 3 Reality Merger Diplomatic Crisis]]
+- [[Consequence Chain 5 - Marina Identity Revelation]]
+- [[Lumengarde Republi]]
+- [[Prince Aurelius Lumengarde]]
+- [[Princess Celestine Lumengarde]]
+- [[Silver Mask]]
+- [[The Final Choice]]
+- [[The Great Crystallization]]
+- [[The Queen]]
+- [[Captain Blackwater]]
+- [[Captain Garrett Stormcutter]]
+- [[Duke Cyrus Reefheart]]
+- [[Crystal Gardens]]
+- [[Garden of Shadows]]
+- [[Harbor District Customs House]]
+- [[Pressure's End]]
+- [[The Cerulean Trench]]
+- [[The Crystalline Foundry]]
+- [[The Phosphor Markets]]
+- [[The Void Touched Depths]]
+- [[The Crown's Burden]]
+- [[The Tide Rises]]
+- [[Aethermoor (D&D_References)]]
+- [[Captain Garrett Stormcutter (D&D_References)]]
+- [[Duke Cyrus Reefheart (D&D_References)]]
+- [[Establish the New Order]]
+- [[Garden of Shadows (D&D_References)]]
+- [[Pressure's End (D&D_References)]]
+- [[The Cerulean Trench (D&D_References)]]
+- [[The Phosphor Markets (D&D_References)]]
+- [[Captain Blackwater (D&D_Statblocks)]]

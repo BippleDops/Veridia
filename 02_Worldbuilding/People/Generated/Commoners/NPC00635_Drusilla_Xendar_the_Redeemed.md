@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Xendar the Redeemed", "drusilla xendar the redeemed", "Drusilla Xendar Redeemed", "Redeemed the Xendar Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Xendar the Redeemed
 
 *Tiefling Blacksmith (Commoners), Age 48, Female*
@@ -42,26 +48,21 @@ Survivor of a disaster that destroyed their village They've made a deal they're 
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Hestara Emberfall the Wise (Professional - Employer)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ### Hestara Thornweave the Bold (Criminal - Target)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Alaric Dawnstrider the Seeker (Family - Child)
 - **Status**: Complicated history
 - **History**: United by common enemy
 
-
 ### Qadim Stormwind the Cunning (Criminal - Accomplice)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Can hear the thoughts of others

@@ -115,7 +115,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -134,4 +133,28 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[druidcraft-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[druidcraft-xphb (spells)|druidcraft-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Unicorn Xmm]]
+- [[unicorn-xmm (celestial)]]
+- [[Bullywug Bog Sage Xmm]]
+- [[Centaur Warden Xmm]]
+- [[Dryad Xmm]]
+- [[Pixie Wonderbringer Xmm]]
+- [[Pixie Xmm]]
+- [[bullywug-bog-sage-xmm (fey)]]
+- [[centaur-warden-xmm (fey)]]
+- [[dryad-xmm (fey)]]
+- [[pixie-wonderbringer-xmm (fey)]]
+- [[pixie-xmm (fey)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Fighter Xphb Arcane Archer Xge]]
+- [[fighter-xphb-arcane-archer-xge (classes)]]
+- [[Strixhaven Initiate Scc]]
+- [[strixhaven-initiate-scc (feats)]]
+- [[Elf Xphb]]
+- [[elf-xphb (races)]]

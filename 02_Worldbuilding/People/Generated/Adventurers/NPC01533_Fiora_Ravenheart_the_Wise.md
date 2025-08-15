@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Ravenheart the Wise", "fiora ravenheart the wise", "Fiora Ravenheart Wise", "Wise the Ravenheart Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Ravenheart the Wise
 
 *Goliath Cleric (Adventurers), Age 19, Non-binary*
@@ -13,7 +19,6 @@
 Very tall and lanky, with Short and neat white hair and Heterochromic eyes. Weathered skin. Constantly changing hair color.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth
@@ -36,7 +41,6 @@ Running from a dark past that won't stay buried They recently discovered a secre
 - **Short Term**: Avoid the authorities
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Xander Xendar the Swift (Professional - Mentor)
 - **Status**: Secretly hostile
@@ -46,7 +50,6 @@ Running from a dark past that won't stay buried They recently discovered a secre
 ### Pyria Ironwood the Strong (Criminal - Informant)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ### Gavril Underhill the Guardian (Political - Spy)
 - **Status**: Strong and trusting

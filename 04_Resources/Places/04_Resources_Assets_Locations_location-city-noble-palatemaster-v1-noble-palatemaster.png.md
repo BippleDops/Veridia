@@ -10,13 +10,13 @@ created: '2025-01-15'
 # 04_Resources_Assets_Locations_location-city-noble-palatemaster-v1-noble-palatemaster.png
 
 ## Overview
-This topic is referenced in [[Vault Backup 20250813 073007 06 GM Travel Encounter Sheets M L 05 the Dream Sovereign (People)]] and other parts of the campaign.
+This topic is referenced in  and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Vault Backup 20250813 073007 06 GM Travel Encounter Sheets M L 05 the Dream Sovereign (People)]]
+- Referenced by: 
 - Related topics in the same category
 
 ## Details

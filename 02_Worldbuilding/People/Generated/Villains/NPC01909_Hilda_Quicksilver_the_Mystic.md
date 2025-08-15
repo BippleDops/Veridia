@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Quicksilver the Mystic", "hilda quicksilver the mystic", "Hilda Quicksilver Mystic", "Mystic the Quicksilver Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Quicksilver the Mystic
 
 *Tabaxi Corrupt Noble (Villains), Age 60, Male*
@@ -13,7 +19,6 @@
 Very tall and slender, with Dreadlocks unusual color hair and Red eyes. Weathered skin. Warm smile that puts people at ease.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Always speaks in metaphors and riddles; Flirts with everyone regardless of interest
@@ -47,16 +52,13 @@ Driven mad by knowledge humanity wasn't meant to know A family member's death ha
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Orion Thornweave the Broken (Personal - Love interest)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Rhiannon Frostwhisper the Fallen (Criminal - Target)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Has a child they're protecting

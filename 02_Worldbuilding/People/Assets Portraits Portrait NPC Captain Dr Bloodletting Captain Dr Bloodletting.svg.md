@@ -241,3 +241,8 @@ This NPC can serve multiple roles:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-cornelius-deepwater-captain-cornelius-deepwater.svg]]
+- [[04_Resources_Assets_Locations_location-city-forge-master-korax-hammerdeep-forge-master-korax-hammerdeep.svg]]

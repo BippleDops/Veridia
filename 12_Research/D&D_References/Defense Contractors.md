@@ -66,3 +66,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Shadow Ambush - Optional (Criminal_Organizations)]]
+- [[Shadow Ambush - Optional]]

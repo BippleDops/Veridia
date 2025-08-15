@@ -57,3 +57,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - An heirloom has gone missing and truth emerges
 - An heirloom has gone missing and chaos spreads
 - A journal reveals a betrayal about the government
+
+## References
+
+- [[The Queen]]
+- [[The Queen (D&D_References)]]
+- [[The Queen 3 (D&D_References)]]

@@ -1,4 +1,5 @@
 ---
+aliases: ["Glorious Tome of Power", "glorious tome of power", "Power of Tome Glorious"]
 tags: [generated]
 id: ITEM0038
 created: 2025-08-15T04:09:51.089Z
@@ -18,8 +19,6 @@ Crafted from blessed silver with battle scars, in recently restored. It emanates
 
 ## Quirk
 *Changes color with user's mood*
-
-
 
 ## History
 This item was stolen from a dragon's hoard ages ago. It has passed through many hands, each leaving their mark upon its destiny.

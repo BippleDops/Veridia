@@ -47,7 +47,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -96,7 +96,7 @@ improvements: 20
 
 ## Overview
 
-The Crystalline Foundry represents the pinnacle of [[Aethermoor]]'s industrial magical achievement, a massive complex where raw [[[[Aether Crystal]]s]] are shaped, refined, and forged into everything from everyday magical items to legendary artifacts. Rising like a crystal mountain from the heart of the Industrial District, the Foundry combines traditional smithing techniques with cutting-edge crystal manipulation, employing hundreds of skilled artisans who have elevated craftsmanship to an art form.
+The Crystalline Foundry represents the pinnacle of [[Aethermoor]]'s industrial magical achievement, a massive complex where raw [[Aether Crystal|[[Aether Crystal]]s]] are shaped, refined, and forged into everything from everyday magical items to legendary artifacts. Rising like a crystal mountain from the heart of the Industrial District, the Foundry combines traditional smithing techniques with cutting-edge crystal manipulation, employing hundreds of skilled artisans who have elevated craftsmanship to an art form.
 
 ### The Great Commission
 
@@ -214,7 +214,7 @@ The Crystalline Foundry represents the pinnacle of [[Aethermoor]]'s industrial m
 **Technique**: Combines traditional jewelry making with crystal enhancement  
 **Waiting List**: Currently booking commissions 3 years in advance
 
-#### [[Weaponsmith [[Captain Marcus]] Sharpedge]]
+#### [[Captain Marcus|Weaponsmith [[Captain Marcus]] Sharpedge]]
 
 **Focus**: Crystal-enhanced weapons and armor for military applications  
 **Experience**: Former [[Knight]] who understands combat requirements  
@@ -247,7 +247,7 @@ The Crystalline Foundry represents the pinnacle of [[Aethermoor]]'s industrial m
 
 #### [[The Crown]] of Seven Lights
 
-**Commission**: Created for [[[[Queen Seraphina]] [[Lumengarde]]]]'s coronation  
+**Commission**: Created for [[Queen Seraphina|[[Queen Seraphina]] [[Lumengarde]]]]'s coronation  
 **Materials**: Seven different types of master-grade crystals  
 **Properties**: Grants true sight, protection from mental effects, enhanced magical abilities  
 **Value**: Literally priceless, considered one of world's greatest magical items  
@@ -423,7 +423,7 @@ Legends speak of The Crystalline Foundry as a nexus where past and present conve
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -444,13 +444,11 @@ The Crystalline Foundry is a notable location characterized by its unique featur
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -458,13 +456,11 @@ The Crystalline Foundry is a notable location characterized by its unique featur
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -498,7 +494,6 @@ Ongoing situations affecting The Crystalline Foundry:
 - Civil war
 - Natural disasters
 - Current [[Power Structures]] established
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -535,3 +530,12 @@ Ongoing situations affecting The Crystalline Foundry:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[The Resonance Forge Hammer]]
+- [[Master Artificer Coral Gemwright_1 (People)]]
+- [[Crystal Gardens]]
+- [[Crystalhaven (D&D_References)]]
+- [[The Resonance Forge Hammer (D&D_References)]]
+- [[Crystal Gardens (D&D_Statblocks)]]

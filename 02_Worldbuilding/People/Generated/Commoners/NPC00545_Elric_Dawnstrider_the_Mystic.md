@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Dawnstrider the Mystic", "elric dawnstrider the mystic", "Elric Dawnstrider Mystic", "Mystic the Dawnstrider Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Dawnstrider the Mystic
 
 *Dragonborn Farmer (Commoners), Age 50, Non-binary*
@@ -36,32 +42,26 @@ Runaway from an arranged marriage, starting a new life They've fallen in love wi
 - **Short Term**: Sabotage competition
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Hilda Stormwind the Bold (Political - Puppet)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Lyanna Hawthorne the Scholar (Personal - Love interest)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ### Lyanna Youngblood the Redeemed (Professional - Partner)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Delara Keenblade the Wise (Family - Child)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
 
-
 ### Solas Ironforge the Lost (Criminal - Target)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Can hear the thoughts of others

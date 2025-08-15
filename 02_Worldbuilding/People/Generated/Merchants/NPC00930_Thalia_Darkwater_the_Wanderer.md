@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Darkwater the Wanderer", "thalia darkwater the wanderer", "Thalia Darkwater Wanderer", "Wanderer the Darkwater Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Darkwater the Wanderer
 
 *Aasimar Appraiser (Merchants), Age 27, Female*
@@ -36,7 +42,6 @@ Inherited a failing business and turned it around An old debt has come due at th
 - **Short Term**: Gather information
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Solas Youngblood the Wanderer (Political - Puppet)
 - **Status**: On the verge of collapse
@@ -51,7 +56,6 @@ Inherited a failing business and turned it around An old debt has come due at th
 ### Orion Nightfall the Fallen (Personal - Ex-lover)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Sells information to all sides

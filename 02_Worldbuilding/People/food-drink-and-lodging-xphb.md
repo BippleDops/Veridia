@@ -56,7 +56,6 @@ A distinguished individual whose presence commands attention. Their appearance s
 - **Bonds**: Connections to local organizations
 - **Flaws**: To be discovered through interaction
 
-
 ## Stats
 - **AC**: 12
 - **HP**: 22 (4d8)
@@ -105,7 +104,6 @@ food-drink-and-lodging-xphb has established themselves as a notable figure in th
 - Competing professionals
 - Political opponents
 - Business competitors
-
 
 ## Motivations
 - **Primary Goal**: Main objective

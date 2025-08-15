@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Hawthorne the Redeemed", "orion hawthorne the redeemed", "Orion Hawthorne Redeemed", "Redeemed the Hawthorne Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Hawthorne the Redeemed
 
 *Goliath Broker (Merchants), Age 53, Female*
@@ -36,7 +42,6 @@ Uses their business as cover for other activities They're being blackmailed by s
 - **Short Term**: Find missing person
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Hestara Ironwood the Strong (Political - Patron)
 - **Status**: Complicated history
@@ -47,7 +52,6 @@ Uses their business as cover for other activities They're being blackmailed by s
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Drusilla Thornweave the Fallen (Family - Spouse)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
@@ -56,7 +60,6 @@ Uses their business as cover for other activities They're being blackmailed by s
 ### Idris Winterborn the Strong (Family - Cousin)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Running a cult from their basement

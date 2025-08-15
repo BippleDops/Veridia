@@ -101,3 +101,19 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Faerie Dragon Adult Xmm]]
+- [[Faerie Dragon Youth Xmm]]
+- [[faerie-dragon-adult-xmm (dragon)]]
+- [[faerie-dragon-youth-xmm (dragon)]]
+- [[Blue Abishai Mpmm]]
+- [[blue-abishai-mpmm (fiend)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Ranger Xphb Gloom Stalker Xphb]]
+- [[Warlock Xphb Archfey Patron Xphb]]
+- [[ranger-xphb-gloom-stalker-xphb (classes)]]
+- [[warlock-xphb-archfey-patron-xphb (classes)]]

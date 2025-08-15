@@ -1,3 +1,9 @@
+---
+aliases: ["Ethereal Helm of Protection", "ethereal helm of protection", "Protection of Helm Ethereal"]
+tags: [item, equipment]
+type: item
+---
+
 # Ethereal Helm of Protection
 
 *Armor, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A ethereal helm crafted from exotic materials
 - Advantage on saving throws
 - No stealth disadvantage
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -32,7 +36,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.404Z*

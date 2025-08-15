@@ -1,3 +1,9 @@
+---
+aliases: ["Distilled Herb of Clarity", "distilled herb of clarity", "Clarity of Herb Distilled"]
+tags: [item, equipment]
+type: item
+---
+
 # Distilled Herb of Clarity
 
 *Consumables, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A distilled herb emanating sweet fragrance
 - Increase speed by 10 ft
 - Fly for 1 hour
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -31,7 +35,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.459Z*

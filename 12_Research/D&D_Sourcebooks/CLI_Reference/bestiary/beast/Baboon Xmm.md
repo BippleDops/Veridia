@@ -125,3 +125,19 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[baboon-xmm (beast)]]
+- [[2 Appendix a Miscellaneous Creatures]]
+- [[2-appendix-a-miscellaneous-creatures (monster-manual-2014)]]
+- [[3 Animals]]
+- [[3-animals (monster-manual-2025)]]
+- [[Bag of Tricks Tan Xdmg]]
+- [[bag-of-tricks-tan-xdmg (items)]]
+- [[Forest Encounters Levels 14 Xge]]
+- [[Monsters by Habitat Forest Monsters Xmm]]
+- [[Monsters by Habitat Hill Monsters Xmm]]
+- [[forest-encounters-levels-14-xge (tables)]]
+- [[monsters-by-habitat-forest-monsters-xmm (tables)]]
+- [[monsters-by-habitat-hill-monsters-xmm (tables)]]

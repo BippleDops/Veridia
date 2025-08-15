@@ -192,3 +192,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[green-hag-xmm (fey)]]
+- [[Monsters by Habitat Hill Monsters Xmm]]
+- [[monsters-by-habitat-hill-monsters-xmm (tables)]]

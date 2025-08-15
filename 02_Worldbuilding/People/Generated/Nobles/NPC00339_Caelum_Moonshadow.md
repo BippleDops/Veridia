@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Moonshadow", "caelum moonshadow", "Moonshadow Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Moonshadow
 
 *Tabaxi Ambassador (Nobles), Age 52, Male*
@@ -13,7 +19,6 @@
 Below average and heavyset, with Partially shaved silver hair and Brown eyes. Olive skin. Constantly changing hair color.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Laughs at the most inappropriate times
@@ -36,17 +41,14 @@ Last survivor of a fallen house, seeking to restore family honor They're being b
 - **Short Term**: Avoid the authorities
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Alaric Proudmore the Bold (Criminal - Informant)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
 
-
 ### Hilda Grimholt the Seeker (Professional - Rival)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ### Baelor Youngblood the Seeker (Personal - Love interest)
 - **Status**: Strong and trusting
@@ -57,16 +59,13 @@ Last survivor of a fallen house, seeking to restore family honor They're being b
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
 
-
 ### Felicia Brightblade the Bold (Criminal - Informant)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Idris Frostwhisper the Swift (Political - Puppet)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

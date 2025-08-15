@@ -42,7 +42,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-purification-gardens-the-purification-gardens.svg)
 
@@ -299,7 +298,6 @@ Mentioned in The Second Prophecy of Stars
 - Natural disasters
 - Current power structures established
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -335,3 +333,8 @@ Mentioned in The Second Prophecy of Stars
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Master Finn Liquidlight Master Finn Liquidlight.svg]]
+- [[Assets Locations Location City Scribe Master Elena Truthkeeper Scribe Master Elena Truthkeeper.svg]]

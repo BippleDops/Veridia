@@ -86,3 +86,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Someone is protecting an heir for love
 - A merchant needs help stealing before the new moon
 - Someone is protecting an heir for money
+
+## References
+
+- [[Master_Item_Catalog]]

@@ -111,3 +111,9 @@ Mentioned in The Hidden Prophecy of Shadows
 - A merchant needs help investigating before winter
 - An heirloom has gone missing and chaos spreads
 - Strange sightings suggest ancient magic
+
+## References
+
+- [[20 Appendix C Creatures]]
+- [[20-appendix-c-creatures (out-of-the-abyss)]]
+- [[Drow Spore Servant Oota]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Frost Dagger of Speed", "frost dagger of speed", "Speed of Dagger Frost"]
+tags: [item, equipment]
+type: item
+---
+
 # Frost Dagger of Speed
 
 *Weapons, Legendary (requires attunement)*
@@ -16,8 +22,6 @@ A frost dagger made of crystallized magic
 - +2 to attack and damage rolls
 - +2 to attack and damage rolls
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -32,7 +36,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.371Z*

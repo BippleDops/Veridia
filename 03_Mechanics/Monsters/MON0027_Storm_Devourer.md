@@ -1,4 +1,5 @@
 ---
+aliases: ["Storm Devourer", "storm devourer", "Devourer Storm"]
 tags: [generated]
 id: MON0027_Storm_Devourer
 created: 2025-08-15T04:09:51.428Z
@@ -27,7 +28,6 @@ A being of pure elemental energy given form
 
 ---
 *Generated: 2025-08-15T03:21:47.464Z*
-
 
 ## Habitat
 - Natural environment and territories

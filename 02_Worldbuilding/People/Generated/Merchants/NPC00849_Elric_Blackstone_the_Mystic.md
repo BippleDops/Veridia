@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Blackstone the Mystic", "elric blackstone the mystic", "Elric Blackstone Mystic", "Mystic the Blackstone Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Blackstone the Mystic
 
 *Dwarf Trader (Merchants), Age 75, Non-binary*
@@ -47,11 +53,9 @@ Uses their business as cover for other activities They recently discovered a sec
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Xander Goldleaf the Strong (Personal - Best friend)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ### Solas Ravenheart the Wise (Political - Opposition)
 - **Status**: Strong and trusting
@@ -61,7 +65,6 @@ Uses their business as cover for other activities They recently discovered a sec
 ### Hestara Xendar the Mystic (Personal - Nemesis)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Smuggles illegal magical items

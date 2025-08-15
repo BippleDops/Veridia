@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Silverleaf the Wanderer", "nerys silverleaf the wanderer", "Nerys Silverleaf Wanderer", "Wanderer the Silverleaf Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Silverleaf the Wanderer
 
 *Tiefling Broker (Merchants), Age 19, Male*
@@ -13,7 +19,6 @@
 Towering and athletic, with Shaved white hair and Heterochromic eyes. Freckled skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Laughs at the most inappropriate times
@@ -36,12 +41,10 @@ Part of a merchant family with connections everywhere A family member's death ha
 - **Short Term**: Make this month's payment
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Xander Ironwood the Risen (Criminal - Accomplice)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
-
 
 ### Pyria Keenblade the Fallen (Professional - Employer)
 - **Status**: One-sided affection
@@ -52,21 +55,17 @@ Part of a merchant family with connections everywhere A family member's death ha
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Vesper Voidwalker the Strong (Family - Cousin)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ### Ysara Blackstone the Guardian (Professional - Employer)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Aeliana Quicksilver the Guardian (Family - Sibling)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Killed previous business owner

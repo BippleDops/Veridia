@@ -1,4 +1,5 @@
 ---
+aliases: ["Infiltrate the Necromancer", "infiltrate the necromancer", "Infiltrate Necromancer", "Necromancer the Infiltrate"]
 tags: [generated]
 id: QUEST0046
 created: 2025-08-15T04:09:51.388Z

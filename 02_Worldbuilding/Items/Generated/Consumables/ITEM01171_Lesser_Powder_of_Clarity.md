@@ -1,3 +1,9 @@
+---
+aliases: ["Lesser Powder of Clarity", "lesser powder of clarity", "Clarity of Powder Lesser"]
+tags: [item, equipment]
+type: item
+---
+
 # Lesser Powder of Clarity
 
 *Consumables, Uncommon (requires attunement)*

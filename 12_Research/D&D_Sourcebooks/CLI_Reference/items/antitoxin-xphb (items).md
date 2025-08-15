@@ -85,3 +85,14 @@ Mentioned in The First Prophecy of Stars
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[garden]]
+- [[Brewers Supplies Xphb]]
+- [[Herbalism Kit Xphb]]
+- [[brewers-supplies-xphb (items)]]
+- [[herbalism-kit-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

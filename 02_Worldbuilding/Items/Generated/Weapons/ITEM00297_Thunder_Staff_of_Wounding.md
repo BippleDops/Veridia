@@ -1,3 +1,9 @@
+---
+aliases: ["Thunder Staff of Wounding", "thunder staff of wounding", "Wounding of Staff Thunder"]
+tags: [item, equipment]
+type: item
+---
+
 # Thunder Staff of Wounding
 
 *Weapons, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A thunder staff carved from dragon bone
 - +2 to attack and damage rolls
 - Grants advantage on initiative
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -30,7 +34,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.368Z*

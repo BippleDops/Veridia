@@ -52,7 +52,6 @@ This content can be adapted and expanded based on specific campaign needs.
 ## DM Notes
 * Customize as needed for your specific campaign requirements.*
 
-
 ## See Also
 - Related content
 - Similar topics
@@ -78,3 +77,7 @@ status: active
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition
+
+## References
+
+- [[Campaign_Overview_1 (01_Adventures)]]

@@ -87,3 +87,10 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Mounts and Vehicles Mounts and Other Animals]]
+- [[mounts-and-vehicles-mounts-and-other-animals-phb]]
+- [[mounts-and-vehicles-mounts-and-other-animals-xphb]]

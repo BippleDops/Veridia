@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Moonshadow the Guardian", "drusilla moonshadow the guardian", "Drusilla Moonshadow Guardian", "Guardian the Moonshadow Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Moonshadow the Guardian
 
 *Firbolg Ambassador (Nobles), Age 38, Male*
@@ -13,7 +19,6 @@
 Above average and compact, with Braided elaborately brown hair and Heterochromic eyes. Tan skin. Prominent scar across the face.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Always speaks in metaphors and riddles
@@ -36,12 +41,10 @@ Last survivor of a fallen house, seeking to restore family honor A prophetic dre
 - **Short Term**: Find missing person
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Nerys Darkwater (Family - Parent)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ### Nerys Nightfall the Wanderer (Professional - Partner)
 - **Status**: Secretly hostile
@@ -52,16 +55,13 @@ Last survivor of a fallen house, seeking to restore family honor A prophetic dre
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Brenna Stormwind (Personal - Childhood friend)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
 
-
 ### Erasmus Grimholt (Political - Puppet)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
-
 
 ### Nerys Zephyrblade the Strong (Personal - Ex-lover)
 - **Status**: Strained but maintaining

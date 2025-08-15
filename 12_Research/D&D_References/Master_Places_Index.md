@@ -186,7 +186,7 @@ All locations connect to:
 - **[[Master_People_Index|Master People Index]]** - Complete NPC and character directory  
 - **[[Master_Groups_Index|Master Groups Index]]** - Faction and organization reference
 - **[[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]** - Cross-category connection mapping
-- **[[Campaign Quick Reference Sheets (vault_backup_20250813_073007_20250814_195231)]]** - Session-ready reference materials
+- **** - Session-ready reference materials
 
 ---
 
@@ -224,8 +224,11 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Sensory Details
 - **Sight**: Visual impressions
 - **Sound**: Ambient noises
 - **Smell**: Distinctive odors
+
+## References
+
+- [[Master_Lore_Index]]

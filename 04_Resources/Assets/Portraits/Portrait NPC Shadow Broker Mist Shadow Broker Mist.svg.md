@@ -109,3 +109,7 @@ improvements: 20
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Assets Vehicles Vehicle Ship Resonance Drive Yacht V2 Resonance Drive Yacht.svg]]

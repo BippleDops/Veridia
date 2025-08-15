@@ -92,3 +92,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Someone is blackmailing a artifact for revenge
 - Someone is protecting information for power
 - A corpse reveals ancient history about the cult
+
+## References
+
+- [[03 Races]]
+- [[03-races (players-handbook-2014)]]
+- [[05 Chapter 4 Character Origins]]
+- [[05-chapter-4-character-origins (players-handbook-2024)]]
+- [[Reincarnate Xphb]]
+- [[reincarnate-xphb (spells)]]
+- [[Random Height and Weight Phb]]
+- [[random-height-and-weight-phb (tables)]]

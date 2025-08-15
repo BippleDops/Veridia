@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Ironwood the Bold", "felicia ironwood the bold", "Felicia Ironwood Bold", "Bold the Ironwood Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Ironwood the Bold
 
 *Half-Elf Rogue (Adventurers), Age 33, Male*
@@ -36,7 +42,6 @@ Chosen by fate to fulfill an ancient prophecy They've made a deal they're beginn
 - **Short Term**: Recruit new members
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Baelor Frostwhisper the Broken (Professional - Partner)
 - **Status**: Professional only
@@ -47,11 +52,9 @@ Chosen by fate to fulfill an ancient prophecy They've made a deal they're beginn
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Qadim Silverleaf the Scholar (Professional - Rival)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
-
 
 ### Dara Silverleaf the Mystic (Family - Child)
 - **Status**: Complicated history

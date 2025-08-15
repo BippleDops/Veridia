@@ -18,16 +18,13 @@ updated: 2025-08-14
 - **East**: River crossing
 - **West**: Mountain pass
 
-
 # Shard Locations
-
 
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
 - **Law Enforcement**: Town guard
 - **Justice System**: Local magistrate
-
 
 ## Economy
 - **Primary Exports**: Local goods
@@ -46,7 +43,6 @@ The approach to Shard Locations reveals its significance through architectural a
 
 ### Interior
 Within Shard Locations, visitors find a carefully designed space serving multiple purposes.
-
 
 ## Demographics
 - **Population**: ~1,000
@@ -84,7 +80,6 @@ Recent developments have brought new attention to Shard Locations, creating oppo
 ## DM Notes
 *Shard Locations can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -120,3 +115,8 @@ Recent developments have brought new attention to Shard Locations, creating oppo
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Aurelius Goldwave]]
+- [[Silver Mask]]

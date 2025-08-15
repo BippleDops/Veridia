@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Stormwind", "gareth stormwind", "Stormwind Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Stormwind
 
 *Half-Orc Farmer (Commoners), Age 33, Male*
@@ -13,7 +19,6 @@
 Short and heavyset, with Dreadlocks auburn hair and Black eyes. Dark skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Always tells the absolute truth; Collects unusual and worthless objects; Never uses people's real names
@@ -36,27 +41,22 @@ Runaway from an arranged marriage, starting a new life A chance encounter last w
 - **Short Term**: Make this month's payment
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Solas Emberfall the Broken (Criminal - Target)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Malakai Goldleaf the Lost (Family - Spouse)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
-
 
 ### Jorah Oakenshield the Risen (Criminal - Informant)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Hestara Ashford (Criminal - Informant)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Knows location of ancient treasure

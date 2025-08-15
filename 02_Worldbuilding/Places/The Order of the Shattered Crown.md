@@ -52,7 +52,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -233,7 +233,7 @@ Established 50 years ago following the War of Succession, when many [[Noble Hous
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 The Order provides opportunities for redemption-themed adventures, charitable missions, and exploration of themes around forgiveness and second chances. Their unique background as former nobility creates interesting political dynamics and character development opportunities.
 
 ## Player-Facing Summary
@@ -261,13 +261,11 @@ The Order of the Shattered Crown is a notable location characterized by its uniq
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -275,13 +273,11 @@ The Order of the Shattered Crown is a notable location characterized by its uniq
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -335,3 +331,11 @@ Ongoing situations affecting The Order of the Shattered Crown:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Lord Aurelius Goldwave]]
+- [[Economic Systems and Currency (D&D_References)]]
+- [[Convergence Point Introduction]]
+- [[Convergence_Point_Introduction (D&D_Sourcebooks)]]
+- [[Lord Aurelius Goldwave (D&D_Statblocks)]]

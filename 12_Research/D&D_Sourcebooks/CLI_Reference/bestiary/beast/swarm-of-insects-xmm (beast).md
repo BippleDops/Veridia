@@ -137,3 +137,25 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Star Spawn Larva Mage Mpmm]]
+- [[star-spawn-larva-mage-mpmm (aberration)]]
+- [[Swarm of Insects Xmm]]
+- [[2 Appendix a Miscellaneous Creatures]]
+- [[2-appendix-a-miscellaneous-creatures (monster-manual-2014)]]
+- [[Demon Customization Tables Unusual Demon Features Mtf]]
+- [[Demon Customization Tables Unusual Demon]]
+- [[Exploring the Mine Xdmg]]
+- [[Monsters by Habitat Grassland Monsters Xmm]]
+- [[Monsters by Habitat Hill Monsters Xmm]]
+- [[Random Hag Minions Servants Vgm]]
+- [[Wilderness Chase Complications Xdmg]]
+- [[Wilderness Chase Complications]]
+- [[exploring-the-mine-xdmg (tables)]]
+- [[monsters-by-habitat-grassland-monsters-xmm (tables)]]
+- [[monsters-by-habitat-hill-monsters-xmm (tables)]]
+- [[random-hag-minions-servants-vgm (tables)]]
+- [[wilderness-chase-complications (tables)]]
+- [[wilderness-chase-complications-xdmg (tables)]]

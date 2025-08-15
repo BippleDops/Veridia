@@ -1,11 +1,11 @@
 ---
+aliases: ["Ezra Ironforge", "ezra ironforge", "Ironforge Ezra"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -74,8 +74,6 @@ Child of farmers who sought adventure. Years ago, they once saved a noble's life
 ### Skills
 Investigation, Arcana
 
-
-
 ## Possessions
 - 76 gold pieces
 - Small gemstone
@@ -87,7 +85,6 @@ Investigation, Arcana
 
 ---
 *Generated: 2025-08-15T03:21:04.034Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

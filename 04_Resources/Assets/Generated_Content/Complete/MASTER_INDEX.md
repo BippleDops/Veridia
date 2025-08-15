@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # Master Asset Index
 
 Generated: 2025-08-15T03:21:47.466Z
@@ -67,3 +72,8 @@ All content has been generated with:
 
 ---
 *1000 assets successfully generated!*
+
+## References
+
+- [[00_Indexes_Master_Index]]
+- [[VAULT_FINAL_STATUS]]

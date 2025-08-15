@@ -1,4 +1,5 @@
 ---
+aliases: ["Fire Howler", "fire howler", "Howler Fire"]
 tags: [generated]
 id: MON0018_Fire_Howler
 created: 2025-08-15T04:09:51.426Z
@@ -26,7 +27,6 @@ An ancient being of immense power and malevolence
 
 ---
 *Generated: 2025-08-15T03:21:47.463Z*
-
 
 ## Habitat
 - Natural environment and territories

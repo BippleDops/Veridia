@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Brightblade", "pyria brightblade", "Brightblade Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Brightblade
 
 *Tabaxi Aristocrat (Nobles), Age 66, Non-binary*
@@ -42,7 +48,6 @@ Exiled from their homeland, trying to rebuild their power base A family member's
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Drusilla Moonshadow the Fallen (Personal - Childhood friend)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
@@ -51,7 +56,6 @@ Exiled from their homeland, trying to rebuild their power base A family member's
 ### Gavril Thornweave (Family - Spouse)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ### Branwen Ironforge the Scholar (Family - Parent)
 - **Status**: Complicated history
@@ -66,7 +70,6 @@ Exiled from their homeland, trying to rebuild their power base A family member's
 ### Brenna Dawnstrider (Professional - Employee)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

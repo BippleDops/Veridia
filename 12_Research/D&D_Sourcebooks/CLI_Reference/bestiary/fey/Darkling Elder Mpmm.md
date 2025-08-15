@@ -137,3 +137,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[darkling-elder-mpmm (fey)]]
+- [[3 Bestiary]]
+- [[3-bestiary (volos-guide-to-monsters)]]

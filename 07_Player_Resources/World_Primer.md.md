@@ -111,3 +111,7 @@ improvements: 20
 ## Player Tips
 > 🎮 **Strategy**: How to approach this content
 > Work together and communicate
+
+## References
+
+- [[Quick Start Guide (D&D_References)]]

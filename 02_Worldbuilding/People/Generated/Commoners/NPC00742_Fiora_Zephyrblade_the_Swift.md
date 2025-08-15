@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Zephyrblade the Swift", "fiora zephyrblade the swift", "Fiora Zephyrblade Swift", "Swift the Zephyrblade Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Zephyrblade the Swift
 
 *Dwarf Fisher (Commoners), Age 32, Female*
@@ -13,7 +19,6 @@
 Tall and wiry, with Wild and unkempt bald hair and Blue eyes. Olive skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Sees doom and gloom everywhere
@@ -42,21 +47,17 @@ Family has worked the same trade for generations, but times are changing They're
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
 
-
 ### Cedric Oakenshield the Seeker (Professional - Employee)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ### Fiora Youngblood the Lost (Political - Ally)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Dara Underhill the Wise (Family - Cousin)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ### Pyria Darkwater the Wanderer (Family - Cousin)
 - **Status**: Secretly hostile

@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Ravenheart the Risen", "nerys ravenheart the risen", "Nerys Ravenheart Risen", "Risen the Ravenheart Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Ravenheart the Risen
 
 *Tiefling Aristocrat (Nobles), Age 36, Non-binary*
@@ -36,17 +42,14 @@ Recently elevated to nobility through service, still learning courtly ways A cha
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Jorah Oakenshield (Professional - Employee)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Delara Keenblade (Professional - Employer)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ### Erasmus Moonshadow (Criminal - Target)
 - **Status**: Recently reconciled
@@ -61,7 +64,6 @@ Recently elevated to nobility through service, still learning courtly ways A cha
 ### Ysara Jadeclaw the Guardian (Criminal - Fence)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Practicing forbidden magic

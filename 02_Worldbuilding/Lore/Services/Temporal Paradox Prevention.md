@@ -128,3 +128,8 @@ Mentioned in The First Prophecy of Shadows
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Services Temporal Paradox Prevention]]
+- [[The Final Choice]]

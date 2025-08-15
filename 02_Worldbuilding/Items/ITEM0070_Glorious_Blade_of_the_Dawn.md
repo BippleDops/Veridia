@@ -1,4 +1,5 @@
 ---
+aliases: ["Glorious Blade of the Dawn", "glorious blade of the dawn", "Glorious Blade of Dawn", "Dawn the of Blade Glorious"]
 tags: [generated]
 id: ITEM0070
 created: 2025-08-15T04:09:51.100Z
@@ -18,8 +19,6 @@ Crafted from blessed silver with ancient symbols, in showing age but sturdy. It 
 
 ## Quirk
 *Attracts small animals*
-
-
 
 ## History
 This item was forged during the War of Shadows decades ago. It has passed through many hands, each leaving their mark upon its destiny.

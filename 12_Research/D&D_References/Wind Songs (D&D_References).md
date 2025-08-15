@@ -60,3 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A noble needs help delivering before winter
 - The authorities needs help delivering before the new moon
+
+## References
+
+- [[Crystal Resoce Networks]]

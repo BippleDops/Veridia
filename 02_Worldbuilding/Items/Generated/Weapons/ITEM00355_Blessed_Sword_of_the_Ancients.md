@@ -1,3 +1,9 @@
+---
+aliases: ["Blessed Sword of the Ancients", "blessed sword of the ancients", "Blessed Sword of Ancients", "Ancients the of Sword Blessed"]
+tags: [item, equipment]
+type: item
+---
+
 # Blessed Sword of the Ancients
 
 *Weapons, Legendary (requires attunement)*
@@ -16,8 +22,6 @@ A blessed sword made of crystallized magic
 - Can strike ethereal creatures
 - Critical hits on 19-20
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -32,7 +36,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.374Z*

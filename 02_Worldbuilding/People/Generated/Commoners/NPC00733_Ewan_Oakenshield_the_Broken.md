@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Oakenshield the Broken", "ewan oakenshield the broken", "Ewan Oakenshield Broken", "Broken the Oakenshield Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Oakenshield the Broken
 
 *Aasimar Carpenter (Commoners), Age 25, Non-binary*
@@ -42,11 +48,9 @@ Runaway from an arranged marriage, starting a new life A family member's death h
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
 
-
 ### Wynne Brightblade the Risen (Political - Opposition)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
-
 
 ### Faelyn Silverleaf the Mystic (Family - Spouse)
 - **Status**: Complicated history
@@ -56,7 +60,6 @@ Runaway from an arranged marriage, starting a new life A family member's death h
 ### Erasmus Lightbringer the Lost (Professional - Mentor)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Is the lost heir to the throne

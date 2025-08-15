@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Goldleaf the Swift", "elric goldleaf the swift", "Elric Goldleaf Swift", "Swift the Goldleaf Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Goldleaf the Swift
 
 *Human Assassin (Villains), Age 75, Male*
@@ -42,16 +48,13 @@ Believes their evil acts serve a greater good Strange abilities have begun manif
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
 
-
 ### Solas Winterborn the Redeemed (Political - Spy)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Orion Winterborn the Broken (Criminal - Handler)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Is being controlled by darker force

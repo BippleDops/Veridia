@@ -95,3 +95,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Acolyte Xphb]]
+- [[Sage Xphb]]
+- [[Scribe Xphb]]
+- [[acolyte-xphb (backgrounds)]]
+- [[sage-xphb (backgrounds)]]
+- [[scribe-xphb (backgrounds)]]
+- [[scriptorium]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Monk Xphb Way of the Kensei Xge]]
+- [[monk-xphb-way-of-the-kensei-xge (classes)]]
+- [[Artisans Tools Xphb]]
+- [[artisans-tools-xphb (items)]]
+- [[Magic Item Tools Xdmg]]
+- [[Tools Phb]]
+- [[magic-item-tools-xdmg (tables)]]
+- [[tools-phb (tables)]]

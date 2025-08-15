@@ -84,3 +84,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Charlatan Xphb]]
+- [[Noble Retainers Variant]]
+- [[Noble Xphb]]
+- [[Scribe Xphb]]
+- [[charlatan-xphb (backgrounds)]]
+- [[noble-retainers-variant (backgrounds)]]
+- [[noble-xphb (backgrounds)]]
+- [[scribe-xphb (backgrounds)]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Diplomats Pack Xphb]]
+- [[Weavers Tools Xphb]]
+- [[diplomats-pack-xphb (items)]]
+- [[weavers-tools-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

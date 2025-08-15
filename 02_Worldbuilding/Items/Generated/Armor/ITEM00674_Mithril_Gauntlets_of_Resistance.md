@@ -1,3 +1,9 @@
+---
+aliases: ["Mithril Gauntlets of Resistance", "mithril gauntlets of resistance", "Resistance of Gauntlets Mithril"]
+tags: [item, equipment]
+type: item
+---
+
 # Mithril Gauntlets of Resistance
 
 *Armor, Common*
@@ -13,8 +19,6 @@ A mithril gauntlets shimmering with energy
 ## Properties
 - Grants swimming speed
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -29,7 +33,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.404Z*

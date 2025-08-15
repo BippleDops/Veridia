@@ -45,3 +45,12 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Aurelius Goldwave]]
+- [[Aurelius Goldwave (Lore)]]
+- [[02-chapter-1-playing-the-game#Stabilizing a Character]]
+- [[Quick_Reference - DnD5e-SideScreen-2024 (D&D_References)]]
+- [[Reference Quick Reference Dnd5e Sidescreen 2024 (D&D_References)]]
+- [[Aurelius Goldwave (D&D_Statblocks)]]

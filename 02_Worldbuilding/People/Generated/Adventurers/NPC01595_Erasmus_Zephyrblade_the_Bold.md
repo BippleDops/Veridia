@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Zephyrblade the Bold", "erasmus zephyrblade the bold", "Erasmus Zephyrblade Bold", "Bold the Zephyrblade Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Zephyrblade the Bold
 
 *Gnome Wizard (Adventurers), Age 22, Non-binary*
@@ -36,12 +42,10 @@ Seeking vengeance for a murdered mentor Strange abilities have begun manifesting
 - **Short Term**: Survive until next week
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Gareth Quicksilver the Fallen (Professional - Employee)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ### Baelor Thornweave the Wanderer (Criminal - Handler)
 - **Status**: Mutually beneficial
@@ -52,11 +56,9 @@ Seeking vengeance for a murdered mentor Strange abilities have begun manifesting
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Jorah Voidwalker the Cunning (Political - Patron)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Has died and been resurrected

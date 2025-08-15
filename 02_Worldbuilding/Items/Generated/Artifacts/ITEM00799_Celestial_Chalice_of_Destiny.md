@@ -1,3 +1,9 @@
+---
+aliases: ["Celestial Chalice of Destiny", "celestial chalice of destiny", "Destiny of Chalice Celestial"]
+tags: [item, equipment]
+type: item
+---
+
 # Celestial Chalice of Destiny
 
 *Artifacts, Very Rare*

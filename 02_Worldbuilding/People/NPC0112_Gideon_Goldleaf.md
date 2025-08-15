@@ -1,11 +1,11 @@
 ---
+aliases: ["Gideon Goldleaf", "gideon goldleaf", "Goldleaf Gideon"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -77,8 +77,6 @@ Born into a noble family but cast out for scandal. Years ago, they once saved a 
 ### Skills
 Stealth, Insight
 
-
-
 ## Possessions
 - 11 gold pieces
 - Lucky dice
@@ -91,7 +89,6 @@ Stealth, Insight
 
 ---
 *Generated: 2025-08-15T03:21:04.038Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

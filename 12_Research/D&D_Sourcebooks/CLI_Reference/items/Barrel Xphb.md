@@ -87,3 +87,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Carpenters Tools Xphb]]
+- [[carpenters-tools-xphb (items)]]
+- [[Adventuring Gear Container Capacity Phb]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-container-capacity-phb (tables)]]
+- [[adventuring-gear-phb (tables)]]

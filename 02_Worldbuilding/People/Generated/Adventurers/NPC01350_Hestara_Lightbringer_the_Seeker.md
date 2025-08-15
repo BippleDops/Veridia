@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Lightbringer the Seeker", "hestara lightbringer the seeker", "Hestara Lightbringer Seeker", "Seeker the Lightbringer Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Lightbringer the Seeker
 
 *Tiefling Cleric (Adventurers), Age 54, Male*
@@ -13,7 +19,6 @@
 Very tall and wiry, with Short and neat black hair and Black eyes. Weathered skin. Weather-beaten face showing hard life.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Speaks to inanimate objects; Sees doom and gloom everywhere; Extremely superstitious about everything
@@ -36,37 +41,30 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 - **Short Term**: Avoid the authorities
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Malakai Underhill the Swift (Criminal - Fence)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Vesper Moonshadow the Guardian (Political - Opposition)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
-
 
 ### Ysara Ravenheart the Wanderer (Political - Opposition)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Delara Jadeclaw the Guardian (Personal - Best friend)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ### Gavril Youngblood the Wanderer (Political - Puppet)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Zephyr Darkwater the Redeemed (Family - Parent)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Has died and been resurrected

@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Nightfall the Guardian", "alaric nightfall the guardian", "Alaric Nightfall Guardian", "Guardian the Nightfall Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Nightfall the Guardian
 
 *Dragonborn Farmer (Commoners), Age 21, Female*
@@ -13,7 +19,6 @@
 Very tall and slender, with Short and neat silver hair and Amber eyes. Scarred skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Incredibly optimistic despite evidence
@@ -36,37 +41,30 @@ Runaway from an arranged marriage, starting a new life A family member's death h
 - **Short Term**: Make this month's payment
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Baelor Jadeclaw the Seeker (Political - Patron)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Elric Jadeclaw the Wise (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
-
 
 ### Qadim Youngblood the Lost (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
 
-
 ### Alaric Voidwalker the Scholar (Criminal - Fence)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ### Zephyr Winterborn the Bold (Family - Sibling)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Hestara Nightfall the Swift (Criminal - Accomplice)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Has dragon blood in their veins

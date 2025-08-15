@@ -53,7 +53,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -101,13 +101,13 @@ improvements: 20
 
 ## Overview
 
-The Random Encounters system provides comprehensive tools for generating spontaneous adventures, complications, and story opportunities throughout [[Aquabyssos]] and [[Aethermoor]]. Unlike traditional random [[Encounter Tables]] that focus solely on combat, this system generates complete scenario frameworks that include environmental challenges, social interactions, [[Moral Dilemmas]], and narrative hooks.
+The Random Encounters system provides comprehensive tools for generating spontaneous adventures, complications, and story opportunities throughout [[Aquabyssos]] and [[Aethermoor]]. Unlike traditional random [[Encounter Tables]] that focus solely on combat, this system generates complete scenario frameworks that include environmental challenges, social interactions, [[Moral_Dilemmas|Moral Dilemmas]], and narrative hooks.
 
 The system recognizes that encounters in the merged realms are rarely simple or straightforward. A "random" meeting with travelers might reveal diplomatic tensions, uncover smuggling operations, or provide crucial information about upcoming threats. Environmental encounters can shift from natural hazards to magical phenomena to signs of larger problems requiring investigation.
 
 Each encounter is designed to feel organic to the world while advancing ongoing storylines or introducing new plot elements. The system accounts for party level, current [[location]], political climate, seasonal effects, and ongoing campaign themes to ensure encounters feel meaningful rather than arbitrary.
 
-The framework integrates with [[Environmental Hazards]], [[Reputation System]], [[Temporal Distortion Zones]], [[Multi-Phase Boss Fights]], and [[[[Initiative]] Tracker (Lore)]] to create cohesive experiences that build on established mechanics and relationships.
+The framework integrates with [[Environmental Hazards]], [[Reputation System]], [[Temporal Distortion Zones]], [[Multi-Phase Boss Fights]], and [[Initiative|[[Initiative]] Tracker (Lore)]] to create cohesive experiences that build on established mechanics and relationships.
 
 ### Basic Encounter Structure
 
@@ -176,7 +176,7 @@ Each random encounter follows a consistent framework:
 6. **Diplomatic Courier**: Official messenger carrying sensitive information between factions
 7. **Ancient Ruin Discovery**: Pre-submersion structure reveals historical secrets
 8. **Territorial [[Leviathan]]**: Massive sea creature guards important location or resource
-9. **Reality Merge Echo**: Temporal/dimensional disturbance showing events from parallel [[[[Time]]line]]
+9. **Reality Merge Echo**: Temporal/dimensional disturbance showing events from parallel [[Time|[[Time]]line]]
 10. **Underground Resistance Cell**: Secret [[Organization]] planning action against corruption
 11. **Pressure Equipment Malfunction**: Technology failure creates dangerous situation
 12. **Cultural Ceremony**: Witness or participate in important Aquabyssos tradition
@@ -459,7 +459,7 @@ Track resolved encounters and their outcomes to influence future encounters:
 
 **Dynamic Relationship Generation**:
 - **Pre-existing Connections**: [[Link]]s to known NPCs and factions
-- **Attitude Modifiers**: Based on [[Party Reputation]] and past actions
+- **Attitude Modifiers**: Based on [[Party_Reputation|Party Reputation]] and past actions
 - **Mutual Interests**: Shared goals or conflicting objectives
 - **Communication Barriers**: Language, culture, or species differences
 
@@ -538,7 +538,7 @@ Random Encounters is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Random Encounters as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Random Encounters.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -568,7 +568,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## Scaling by Party Level
 - **Level 1-4**: Reduce enemies

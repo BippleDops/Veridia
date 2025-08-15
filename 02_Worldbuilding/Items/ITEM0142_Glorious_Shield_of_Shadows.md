@@ -1,4 +1,5 @@
 ---
+aliases: ["Glorious Shield of Shadows", "glorious shield of shadows", "Shadows of Shield Glorious"]
 tags: [generated]
 id: ITEM0142
 created: 2025-08-15T04:09:51.122Z
@@ -19,8 +20,6 @@ Crafted from mithril with intricate runes, in ancient but unbreakable. It emanat
 
 ## Quirk
 *Makes user sneeze in sunlight*
-
-
 
 ## History
 This item was reforged from broken artifacts ages ago. It has passed through many hands, each leaving their mark upon its destiny.

@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Jadeclaw the Bold", "zephyr jadeclaw the bold", "Zephyr Jadeclaw Bold", "Bold the Jadeclaw Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Jadeclaw the Bold
 
 *Gnome Ranger (Adventurers), Age 52, Male*
@@ -47,16 +53,13 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
 
-
 ### Thalia Ironforge the Lost (Professional - Partner)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Dara Ravenheart the Seeker (Professional - Partner)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
-
 
 ### Gareth Underhill the Bold (Political - Opposition)
 - **Status**: Strong and trusting
@@ -66,7 +69,6 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 ### Branwen Oakenshield the Broken (Professional - Rival)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Carries a world-ending artifact

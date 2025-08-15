@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Voidwalker the Wanderer", "felicia voidwalker the wanderer", "Felicia Voidwalker Wanderer", "Wanderer the Voidwalker Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Voidwalker the Wanderer
 
 *Tabaxi Broker (Merchants), Age 27, Non-binary*
@@ -36,17 +42,14 @@ Former adventurer who retired to open a shop Strange abilities have begun manife
 - **Short Term**: Sabotage competition
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Drusilla Lightbringer the Redeemed (Professional - Rival)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Rhiannon Voidwalker the Strong (Criminal - Handler)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ### Urien Dawnstrider the Broken (Criminal - Fence)
 - **Status**: Complicated history
@@ -56,7 +59,6 @@ Former adventurer who retired to open a shop Strange abilities have begun manife
 ### Rhiannon Zephyrblade the Redeemed (Personal - Best friend)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
-
 
 ### Ysara Quicksilver the Seeker (Family - Spouse)
 - **Status**: One-sided affection

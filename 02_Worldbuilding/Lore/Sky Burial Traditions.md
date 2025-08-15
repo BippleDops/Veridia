@@ -24,9 +24,9 @@ modified: '2025-08-14'
 status: complete
 connections:
 - '[[Aethermoor]]'
-- '[[[[Skyforge]]d Crystal Worship]]'
-- '[[Aetheric [[Wind Songs]]]]'
-- '[[[[Cloud Shepherd Guild]] Customs]]'
+- '[[Skyforge|[[Skyforge]]d Crystal Worship]]'
+- '[[Wind Songs|Aetheric [[Wind Songs]]]]'
+- '[[Cloud Shepherd Guild|[[Cloud Shepherd Guild]] Customs]]'
 - '[[Aethermoor Wind Rider Traditions]]'
 - '[[Princess Celestia]]'
 - '[[Queen Seraphina]]'
@@ -61,7 +61,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -167,7 +167,7 @@ On the chosen day, the prepared body is carried in solemn procession to the city
 
 Participants include:
 - **Wind Speakers**: Priests who chant prayers in ancient languages that supposedly resonate with atmospheric currents
-- **[[Memory Keepers]]**: Family members carrying objects that hold bound memories of the deceased
+- **[[Memory_Keepers|Memory Keepers]]**: Family members carrying objects that hold bound memories of the deceased
 - **Current Guides**: Navigators and weather workers who ensure favorable atmospheric conditions
 - **Community Witnesses**: Citizens who attend to demonstrate collective support and maintain social bonds
 
@@ -363,7 +363,7 @@ Sky Burial Traditions is a sky-borne element of the setting, known for brass fit
 
 Legends speak of Sky Burial Traditions as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sky Burial Traditions.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -375,3 +375,6 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
+## References
+
+- [[Master_Lore_Index]]

@@ -40,3 +40,17 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
+
+
+## References
+
+- [[Thalassius the Wise]]
+- [[The Breathing Stone]]
+- [[The Pressure Baptism Rites]]
+- [[The Tethyan Hegemony]]
+- [[Timeline of the Drowning]]
+- [[The Pressure Conspiracy]]
+- [[The Sunken Library of Thalassius]]
+- [[Timeline of the Drowning (D&D_References)]]
+- [[Timeline of the Drowning 3 (D&D_References)]]
+- [[The Pressure Conspiracy (D&D_Statblocks)]]

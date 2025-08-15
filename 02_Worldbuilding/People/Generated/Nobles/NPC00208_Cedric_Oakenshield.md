@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Oakenshield", "cedric oakenshield", "Oakenshield Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Oakenshield
 
 *Gnome Aristocrat (Nobles), Age 42, Female*
@@ -36,7 +42,6 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Short Term**: Gather information
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Solas Winterborn the Scholar (Personal - Ex-lover)
 - **Status**: On the verge of collapse
@@ -47,11 +52,9 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Gavril Moonshadow (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
-
 
 ### Caelum Silverleaf (Family - Spouse)
 - **Status**: Mutually beneficial

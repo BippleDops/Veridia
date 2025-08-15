@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Darkwater the Risen", "alaric darkwater the risen", "Alaric Darkwater Risen", "Risen the Darkwater Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Darkwater the Risen
 
 *Tabaxi Blacksmith (Commoners), Age 54, Non-binary*
@@ -47,16 +53,13 @@ Grew up in poverty but discovered a talent that might change everything An old d
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Branwen Lightbringer the Broken (Professional - Employee)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
 
-
 ### Aeliana Ravenheart the Strong (Political - Patron)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ### Vesper Nightfall the Mystic (Personal - Ex-lover)
 - **Status**: On the verge of collapse

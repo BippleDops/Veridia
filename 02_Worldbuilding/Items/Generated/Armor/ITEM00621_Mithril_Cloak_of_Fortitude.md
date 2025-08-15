@@ -1,3 +1,9 @@
+---
+aliases: ["Mithril Cloak of Fortitude", "mithril cloak of fortitude", "Fortitude of Cloak Mithril"]
+tags: [item, equipment]
+type: item
+---
+
 # Mithril Cloak of Fortitude
 
 *Armor, Uncommon*
@@ -14,8 +20,6 @@ A mithril cloak shimmering with energy
 - No stealth disadvantage
 - Reduces damage by 3
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -30,7 +34,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.399Z*

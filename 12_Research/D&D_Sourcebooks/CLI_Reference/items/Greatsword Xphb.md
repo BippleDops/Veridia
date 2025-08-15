@@ -89,3 +89,21 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Fighter Xphb]]
+- [[fighter-xphb (classes)]]
+- [[Blackrazor Xdmg]]
+- [[Greater Silver Sword Mtf]]
+- [[Hazirawn Hotdq]]
+- [[blackrazor-xdmg (items)]]
+- [[greater-silver-sword-mtf (items)]]
+- [[hazirawn-hotdq (items)]]
+- [[Gith Githyanki Mtf]]
+- [[gith-githyanki-mtf (races)]]
+- [[Weapons Phb]]
+- [[Weapons Xphb]]
+- [[weapons-phb (tables)]]
+- [[weapons-xphb (tables)]]

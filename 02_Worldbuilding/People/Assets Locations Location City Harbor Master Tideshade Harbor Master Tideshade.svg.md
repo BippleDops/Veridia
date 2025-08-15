@@ -187,7 +187,7 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[Quest   The Sanctuary's Secret]] (enemy)
+- [[sanctuary|Quest   The Sanctuary's Secret]] (enemy)
 - [[Sage Lysander Deepthought]] (colleague)
 - [[The Wake]] (enemy)
 ---

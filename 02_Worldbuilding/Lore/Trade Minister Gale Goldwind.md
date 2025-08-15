@@ -137,3 +137,7 @@ Trade Minister Gale Goldwind represents a crucial aspect of the world's history,
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Session 06 the Sky Throne]]

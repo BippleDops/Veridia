@@ -89,3 +89,7 @@ improvements: 20
 - The authorities needs help investigating before winter
 - A document has gone missing and chaos spreads
 - The authorities needs help stealing before the festival
+
+## References
+
+- [[Services Void Entity Banishment]]

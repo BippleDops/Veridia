@@ -1,4 +1,5 @@
 ---
+aliases: ["Forgotten Blade of the Dawn", "forgotten blade of the dawn", "Forgotten Blade of Dawn", "Dawn the of Blade Forgotten"]
 tags: [generated]
 id: ITEM0069
 created: 2025-08-15T04:09:51.100Z

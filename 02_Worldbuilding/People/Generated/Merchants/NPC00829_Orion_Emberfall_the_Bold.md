@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Emberfall the Bold", "orion emberfall the bold", "Orion Emberfall Bold", "Bold the Emberfall Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Emberfall the Bold
 
 *Halfling Appraiser (Merchants), Age 73, Female*
@@ -36,17 +42,14 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Wynne Winterborn the Strong (Criminal - Fence)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
 
-
 ### Idris Proudmore the Mystic (Professional - Employee)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ### Aldric Youngblood the Bold (Criminal - Handler)
 - **Status**: Mutually beneficial
@@ -56,7 +59,6 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 ### Zephyr Winterborn the Guardian (Political - Patron)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Running a cult from their basement

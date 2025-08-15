@@ -108,3 +108,15 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[09 Appendix a Lore Glossary]]
+- [[09-appendix-a-lore-glossary (dungeon-masters-guide-2024)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Dark Gift of Dahlver Nar He of the Many]]
+- [[dark-gift-of-dahlver-nar-he-of-the-many-teeth-cos]]
+- [[Wild Magic Surge Phb]]
+- [[wild-magic-surge-phb (tables)]]

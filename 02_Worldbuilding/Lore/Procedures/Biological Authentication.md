@@ -85,3 +85,7 @@ improvements: 20
 - The authorities needs help delivering before winter
 - A corpse reveals the truth about the cult
 - Strange accidents suggest a curse
+
+## References
+
+- [[02_Worldbuilding_Procedures_Biological_Authentication]]

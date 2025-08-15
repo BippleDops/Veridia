@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Youngblood the Cunning", "thalia youngblood the cunning", "Thalia Youngblood Cunning", "Cunning the Youngblood Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Youngblood the Cunning
 
 *Dragonborn Ranger (Adventurers), Age 39, Male*
@@ -13,7 +19,6 @@
 Average height and slender, with Shaved auburn hair and Violet eyes. Fair skin. Gold tooth that glints when smiling.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Laughs at the most inappropriate times
@@ -36,7 +41,6 @@ Chosen by fate to fulfill an ancient prophecy They've been marked by a secret so
 - **Short Term**: Avoid the authorities
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Urien Winterborn the Wanderer (Criminal - Informant)
 - **Status**: Recently reconciled
@@ -52,7 +56,6 @@ Chosen by fate to fulfill an ancient prophecy They've been marked by a secret so
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Elric Brightblade the Bold (Professional - Rival)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
@@ -61,7 +64,6 @@ Chosen by fate to fulfill an ancient prophecy They've been marked by a secret so
 ### Qadim Keenblade the Scholar (Personal - Love interest)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Is from the future

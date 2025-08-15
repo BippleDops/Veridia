@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Grimholt the Wanderer", "lyanna grimholt the wanderer", "Lyanna Grimholt Wanderer", "Wanderer the Grimholt Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Grimholt the Wanderer
 
 *Elf Corrupt Noble (Villains), Age 24, Female*
@@ -13,7 +19,6 @@
 Very short and slender, with Mohawk gray hair and Black eyes. Brown skin. Intricate tattoos covering arms.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Sees doom and gloom everywhere
@@ -42,7 +47,6 @@ Corrupted by an artifact or dark magic They've fallen in love with someone they 
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Jorah Youngblood the Guardian (Criminal - Informant)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
@@ -51,7 +55,6 @@ Corrupted by an artifact or dark magic They've fallen in love with someone they 
 ### Malakai Frostwhisper the Swift (Family - Cousin)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Is being controlled by darker force

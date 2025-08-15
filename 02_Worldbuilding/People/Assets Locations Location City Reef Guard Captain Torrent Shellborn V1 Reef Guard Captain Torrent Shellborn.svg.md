@@ -185,7 +185,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[#NPCs]] (friend)
-- [[Current Lord Triton of House Pelagios]] (friend)
+- [[Assets Portraits Portrait NPC Current Lord Triton of House Pelagios Current Lord Triton of House Pelagios.svg|Current Lord Triton of House Pelagios]] (friend)
 - [[04_Resources_Assets_Symbols_symbol-heraldry-the-forsaken-consortium-collective-the-forsaken-consortium-collective.svg]] (friend)
 ---
 *Tags*: #npc #contact #worldbuilding
@@ -222,3 +222,7 @@ Member of House Lionblood - Trait: prophecy
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-forsaken-consortium-collective-the-forsaken-consortium-collective.svg]]

@@ -83,3 +83,8 @@ improvements: 20
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+## References
+
+- [[The Bathyal Succession]]
+- [[The Restoration Movement]]

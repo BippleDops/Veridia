@@ -1,11 +1,11 @@
 ---
+aliases: ["Ezra Darkwater", "ezra darkwater", "Darkwater Ezra"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -74,8 +74,6 @@ Child of farmers who sought adventure. Years ago, they witnessed something they 
 ### Skills
 Persuasion, Arcana
 
-
-
 ## Possessions
 - 103 gold pieces
 - Set of thieves' tools
@@ -90,7 +88,6 @@ Persuasion, Arcana
 
 ---
 *Generated: 2025-08-15T03:21:04.041Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

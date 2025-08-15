@@ -53,7 +53,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -97,7 +97,7 @@ improvements: 20
 
 ## Overview
 
-Carved into a massive underwater cliff face at 3,500 feet depth, Pressure's End is the military heart of [[[[Aquabyssos]] [[World Overview]]]]. This fortress-city serves as headquarters for the [[[[Depth Warden]]s]] and stands as the last major defense against the horrors rising from [[The [[Hadal Depths]]]]. Built from reinforced stone and pearlsteel, it's the only city that has never fallen to deep-sea invasion.
+Carved into a massive underwater cliff face at 3,500 feet depth, Pressure's End is the military heart of [[Aquabyssos|[[Aquabyssos]] [[World Overview]]]]. This fortress-city serves as headquarters for the [[Depth Warden|[[Depth Warden]]s]] and stands as the last major defense against the horrors rising from [[Hadal Depths|The [[Hadal Depths]]]]. Built from reinforced stone and pearlsteel, it's the only city that has never fallen to deep-sea invasion.
 
 ### The Garrison Deeps
 
@@ -125,7 +125,7 @@ Training academy for elite Depth Wardens. [[Commander Drake Pressureborn]] instr
 
 ### The Depth Chapel
 
-Fortified temple where [[Battle Priest Cassius Depth[[Shield]]]] [[Bless]]es weapons and soldiers before deep patrols. Dedicated to gods of war and protection.
+Fortified temple where [[Shield|Battle Priest Cassius Depth[[Shield]]]] [[Bless]]es weapons and soldiers before deep patrols. Dedicated to gods of war and protection.
 
 ### The Pressure Chamber
 
@@ -145,7 +145,7 @@ Veterans' gathering place run by [[Retired Captain Bron Saltbeard]]. Information
 
 ### Irondeep Supplies
 
-[[[[Merchant]] Viktor Geargrind]] sells military-grade equipment to authorized buyers. Secretly supplies resistance [[Groups]] opposing military rule.
+[[Merchant|[[Merchant]] Viktor Geargrind]] sells military-grade equipment to authorized buyers. Secretly supplies resistance [[Groups]] opposing military rule.
 
 ### The Pressure Seal
 
@@ -180,7 +180,7 @@ Inn catering to deep scouts and travelers, run by [[Innkeeper Mara Ironlung]]. E
 > - Several high-ranking officers are planning a coup
 > - The ward stones are weakening and will soon fail
 
-## [[[[Random Encounter]]s]] (d10)
+## [[Random Encounter|[[Random Encounter]]s]] (d10)
 
 1. Military patrol demanding papers
 2. Press gang recruiting "volunteers"
@@ -208,7 +208,7 @@ Legends speak of Pressure's End as a nexus where past and present converge. Loca
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -224,13 +224,11 @@ Pressure's End is a notable location characterized by its unique features and st
 ### Founding
 Pressure's End was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -238,13 +236,11 @@ Pressure's End was established in the distant past, growing from humble beginnin
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -268,7 +264,6 @@ Pressure's End was established in the distant past, growing from humble beginnin
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -305,3 +300,14 @@ Pressure's End was established in the distant past, growing from humble beginnin
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Admiral Thorne Blackwater]]
+- [[Duke Cyrus Reefheart]]
+- [[Lumengarde]]
+- [[The Lock Saboteur]]
+- [[Duke Cyrus Reefheart (D&D_References)]]
+- [[Lumengarde (D&D_References)]]
+- [[Admiral Thorne Blackwater (D&D_Statblocks)]]
+- [[The Lock Saboteur (D&D_Statblocks)]]

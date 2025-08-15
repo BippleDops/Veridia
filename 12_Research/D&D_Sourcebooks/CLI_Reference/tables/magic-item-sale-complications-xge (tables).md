@@ -83,3 +83,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Strange dreams suggest a portal
 - A map reveals the truth about this place
 - A journal reveals a conspiracy about this place
+
+## References
+
+- [[Master_Item_Catalog]]

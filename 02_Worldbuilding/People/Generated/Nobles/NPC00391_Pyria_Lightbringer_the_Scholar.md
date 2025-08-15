@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Lightbringer the Scholar", "pyria lightbringer the scholar", "Pyria Lightbringer Scholar", "Scholar the Lightbringer Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Lightbringer the Scholar
 
 *Goliath Aristocrat (Nobles), Age 37, Female*
@@ -13,7 +19,6 @@
 Tall and delicate, with Long and flowing silver hair and Gray eyes. Brown skin. Weather-beaten face showing hard life.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Extremely superstitious about everything
@@ -36,7 +41,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Sabotage competition
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Ysara Frostwhisper the Broken (Personal - Love interest)
 - **Status**: Strained but maintaining
@@ -52,21 +56,17 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
 
-
 ### Elric Ravenheart the Cunning (Criminal - Handler)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ### Ysara Crystalbrook the Redeemed (Family - Child)
 - **Status**: Professional only
 - **History**: United by common enemy
 
-
 ### Cedric Quicksilver the Strong (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Practicing forbidden magic

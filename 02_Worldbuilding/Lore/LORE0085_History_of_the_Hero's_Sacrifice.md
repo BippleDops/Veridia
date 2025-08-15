@@ -1,4 +1,5 @@
 ---
+aliases: ["History of the Hero's Sacrifice", "history of the hero's sacrifice", "History of Hero's Sacrifice", "Sacrifice Hero's the of History"]
 tags: [generated]
 id: LORE0085_History_of_the_Hero's_Sacrifice
 created: 2025-08-15T04:09:51.152Z

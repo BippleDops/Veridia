@@ -224,3 +224,7 @@ This NPC can serve multiple roles:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-commander-void-tacticia-commander-void-tacticia.svg]]

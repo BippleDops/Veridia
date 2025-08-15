@@ -142,3 +142,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Hound of Ill Omen Xge]]
+- [[Sorcerer Xphb Shadow Magic Xge]]
+- [[sorcerer-xphb-shadow-magic-xge (classes)]]

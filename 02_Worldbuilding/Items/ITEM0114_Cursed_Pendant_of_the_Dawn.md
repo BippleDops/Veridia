@@ -1,4 +1,5 @@
 ---
+aliases: ["Cursed Pendant of the Dawn", "cursed pendant of the dawn", "Cursed Pendant of Dawn", "Dawn the of Pendant Cursed"]
 tags: [generated]
 id: ITEM0114
 created: 2025-08-15T04:09:51.114Z

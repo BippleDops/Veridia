@@ -111,3 +111,9 @@ Mentioned in The Second Prophecy of Winds
 - Someone is blackmailing information for money
 - Someone is searching for information for money
 - Someone is hunting a witness for power
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Armor of Resistance Xdmg]]
+- [[armor-of-resistance-xdmg (items)]]

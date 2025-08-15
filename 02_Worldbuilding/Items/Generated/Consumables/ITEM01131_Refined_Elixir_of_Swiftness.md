@@ -1,3 +1,9 @@
+---
+aliases: ["Refined Elixir of Swiftness", "refined elixir of swiftness", "Swiftness of Elixir Refined"]
+tags: [item, equipment]
+type: item
+---
+
 # Refined Elixir of Swiftness
 
 *Consumables, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A refined elixir glowing softly
 - Grant advantage for 1 hour
 - Remove one condition
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -30,7 +34,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.458Z*

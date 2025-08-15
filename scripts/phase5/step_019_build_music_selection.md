@@ -1,3 +1,8 @@
+---
+tags: [misc]
+type: misc
+---
+
 # Build music selection
 
 *Implemented: 2025-08-13 10:27*
@@ -24,13 +29,11 @@ Specific functionality can be enhanced based on requirements.
 
 *Autonomous Implementation System - Phase 5 Excellence Amplification*
 
-
 ## Connections
 
 - See also: [[Campaign Guide]]
 - Related: [[Power Structures]]
 - Connected to: [[World Events]]
-
 
 ## DM Notes
 

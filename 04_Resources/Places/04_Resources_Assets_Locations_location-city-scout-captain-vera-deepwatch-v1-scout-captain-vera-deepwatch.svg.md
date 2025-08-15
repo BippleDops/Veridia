@@ -102,3 +102,8 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Locations Location City Hadrian Depthbridge Hadrian Depthbridge.svg]]
+- [[Assets Locations Location City Pilgrimage Master Depth Guide Melancholy Pilgrimage Master Depth Guide Melancholy.svg]]

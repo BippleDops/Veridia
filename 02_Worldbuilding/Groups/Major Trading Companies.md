@@ -533,3 +533,11 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Major_Trading_Companies (02_Worldbuilding)]]
+- [[The Grand Trade Routes]]
+- [[Commercial Hubs and Markets]]
+- [[Commercial Hubs and Markets (D&D_References)]]
+- [[Economic Warfare and Trade Sanctions]]

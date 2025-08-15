@@ -11,13 +11,13 @@ step: 10
 total_step: 1910
 ---
 
-# step_010
+# [[step_010|step_010]]
 
 ## Overview
 This document contains important information regarding step_010 and its role within the greater narrative.
 
 ## Description
-step_010 represents a significant element within the campaign world, offering various opportunities for engagement and development.
+step_010 represents a significant element within the [[Campaign World|Campaign World]], offering various opportunities for engagement and development.
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
@@ -26,7 +26,7 @@ step_010 represents a significant element within the campaign world, offering va
 
 ## Details
 ### Background
-Historical context and development over time.
+[[Historical Context|Historical Context]] and development over [[Time|Time]].
 
 ### Current State
 Present circumstances and ongoing relevance.
@@ -47,5 +47,8 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## DM Notes
+## [[DM_Notes|DM Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+---
+**Navigation**: [[INDEX|🏠 Home]] | [[INDEX|📚 Index]]

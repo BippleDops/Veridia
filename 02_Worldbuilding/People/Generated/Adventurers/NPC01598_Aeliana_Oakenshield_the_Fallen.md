@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Oakenshield the Fallen", "aeliana oakenshield the fallen", "Aeliana Oakenshield Fallen", "Fallen the Oakenshield Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Oakenshield the Fallen
 
 *Human Wizard (Adventurers), Age 35, Non-binary*
@@ -13,7 +19,6 @@
 Short and heavyset, with Long and flowing gray hair and Violet eyes. Scarred skin. Missing finger on left hand.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Constantly quotes ancient texts
@@ -42,26 +47,21 @@ Searching for a legendary treasure their parent died seeking They've fallen in l
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Hestara Xendar the Redeemed (Family - Parent)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ### Solas Nightfall the Wise (Professional - Employee)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Idris Underhill the Lost (Political - Opposition)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Faelyn Frostwhisper the Bold (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Possessed by ancient spirit

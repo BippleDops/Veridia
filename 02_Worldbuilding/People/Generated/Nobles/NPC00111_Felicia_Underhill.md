@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Underhill", "felicia underhill", "Underhill Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Underhill
 
 *Human Heir (Nobles), Age 28, Non-binary*
@@ -41,7 +47,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 ### Hilda Voidwalker the Fallen (Criminal - Handler)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
-
 
 ### Jorah Zephyrblade (Political - Ally)
 - **Status**: Secretly hostile

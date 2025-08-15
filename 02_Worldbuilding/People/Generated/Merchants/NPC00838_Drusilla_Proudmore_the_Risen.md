@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Proudmore the Risen", "drusilla proudmore the risen", "Drusilla Proudmore Risen", "Risen the Proudmore Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Proudmore the Risen
 
 *Half-Elf Caravan Master (Merchants), Age 47, Female*
@@ -36,7 +42,6 @@ Former adventurer who retired to open a shop Strange abilities have begun manife
 - **Short Term**: Find missing person
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Nerys Quicksilver the Swift (Family - Child)
 - **Status**: Blood oath bound
@@ -57,16 +62,13 @@ Former adventurer who retired to open a shop Strange abilities have begun manife
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Baelor Voidwalker the Guardian (Personal - Love interest)
 - **Status**: One-sided affection
 - **History**: United by common enemy
 
-
 ### Qadim Ravenheart the Scholar (Family - Parent)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Is actually a spy for foreign power

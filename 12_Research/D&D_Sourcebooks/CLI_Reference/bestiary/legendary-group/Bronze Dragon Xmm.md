@@ -85,3 +85,20 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Adult Bronze Dragon Xmm]]
+- [[Ancient Bronze Dragon Xmm]]
+- [[Young Bronze Dragon Xmm]]
+- [[adult-bronze-dragon-xmm (dragon)]]
+- [[ancient-bronze-dragon-xmm (dragon)]]
+- [[young-bronze-dragon-xmm (dragon)]]
+- [[Bronze Dragon]]
+- [[bronze-dragon (legendary-group)]]
+- [[Coastal Encounters Levels 1116 Xge]]
+- [[Coastal Encounters Levels 1720 Xge]]
+- [[Monsters by Habitat Coastal Monsters Xmm]]
+- [[coastal-encounters-levels-1116-xge (tables)]]
+- [[coastal-encounters-levels-1720-xge (tables)]]
+- [[monsters-by-habitat-coastal-monsters-xmm (tables)]]

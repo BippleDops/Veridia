@@ -180,7 +180,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[Quest   Crystal Innovation]] (ally)
-- [[Quest   The Ancient Compact]] (ally)
+- [[The Ancient Compact|Quest   The Ancient Compact]] (ally)
 - [[Queen Lyralei Stormheart]] (enemy)
 ---
 *Tags*: #npc #contact #worldbuilding

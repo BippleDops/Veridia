@@ -62,9 +62,12 @@ Possible outcomes
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Scaling by Party Level
 - **Level 1-4**: Reduce enemies
 - **Level 5-10**: Standard difficulty
 - **Level 11-15**: Add elite enemies
 - **Level 16-20**: Legendary difficulty
+
+## References
+
+- [[Aethermoor_Session_10 (D&D_References)]]

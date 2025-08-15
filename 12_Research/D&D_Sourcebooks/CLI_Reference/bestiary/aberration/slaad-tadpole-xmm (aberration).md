@@ -151,3 +151,11 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Slaad Tadpole Xmm]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[10-appendix-b-creature-stat-blocks (players-handbook-2024)]]
+- [[Pact of the Chain Xphb]]
+- [[pact-of-the-chain-xphb (optional-features)]]

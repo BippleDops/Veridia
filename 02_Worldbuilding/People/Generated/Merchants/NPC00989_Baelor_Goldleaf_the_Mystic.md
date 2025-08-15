@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Goldleaf the Mystic", "baelor goldleaf the mystic", "Baelor Goldleaf Mystic", "Mystic the Goldleaf Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Goldleaf the Mystic
 
 *Tabaxi Caravan Master (Merchants), Age 44, Female*
@@ -36,22 +42,18 @@ Built their business from nothing through cunning and hard work They recently di
 - **Short Term**: Survive until next week
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Cedric Ironwood the Lost (Criminal - Fence)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
 
-
 ### Erasmus Thornweave the Wise (Political - Puppet)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Elric Nightfall the Cunning (Political - Ally)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
-
 
 ### Corvus Lightbringer the Broken (Family - Cousin)
 - **Status**: Recently reconciled

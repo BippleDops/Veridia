@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Zephyrblade the Broken", "orion zephyrblade the broken", "Orion Zephyrblade Broken", "Broken the Zephyrblade Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Zephyrblade the Broken
 
 *Elf Carpenter (Commoners), Age 72, Non-binary*
@@ -36,12 +42,10 @@ Family has worked the same trade for generations, but times are changing An old 
 - **Short Term**: Complete current contract
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Elric Moonshadow the Strong (Political - Patron)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ### Delara Voidwalker the Lost (Professional - Employer)
 - **Status**: Strong and trusting
@@ -51,7 +55,6 @@ Family has worked the same trade for generations, but times are changing An old 
 ### Felicia Proudmore (Family - Child)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Is the lost heir to the throne

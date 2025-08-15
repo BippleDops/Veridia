@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Crystalbrook the Seeker", "gavril crystalbrook the seeker", "Gavril Crystalbrook Seeker", "Seeker the Crystalbrook Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Crystalbrook the Seeker
 
 *Halfling Shopkeeper (Merchants), Age 45, Male*
@@ -36,12 +42,10 @@ Uses their business as cover for other activities They're being blackmailed by s
 - **Short Term**: Find missing person
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Qadim Goldleaf the Swift (Criminal - Fence)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ### Brenna Ironforge the Cunning (Professional - Employee)
 - **Status**: Strong and trusting
@@ -51,7 +55,6 @@ Uses their business as cover for other activities They're being blackmailed by s
 ### Elric Zephyrblade the Redeemed (Professional - Employee)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Killed previous business owner

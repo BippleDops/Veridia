@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Nightfall", "vesper nightfall", "Nightfall Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Nightfall
 
 *Human Heir (Nobles), Age 65, Female*
@@ -13,7 +19,6 @@
 Below average and imposing, with Braided elaborately blonde hair and Blue eyes. Scarred skin. Intricate tattoos covering arms.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Never backs down from any challenge
@@ -36,27 +41,22 @@ Secretly adopted into nobility, living in fear of discovery They recently discov
 - **Short Term**: Survive until next week
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Alaric Frostwhisper the Cunning (Personal - Childhood friend)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Lyanna Quicksilver the Cunning (Professional - Employer)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
-
 
 ### Felicia Keenblade (Criminal - Target)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Jorah Blackstone the Guardian (Family - Spouse)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

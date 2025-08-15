@@ -1,3 +1,9 @@
+---
+aliases: ["Radiant Spear of Speed", "radiant spear of speed", "Speed of Spear Radiant"]
+tags: [item, equipment]
+type: item
+---
+
 # Radiant Spear of Speed
 
 *Weapons, Uncommon*
@@ -14,8 +20,6 @@ A radiant spear carved from dragon bone
 - Deals extra 1d6 elemental damage
 - Ignores resistance to damage type
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -30,7 +34,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.370Z*

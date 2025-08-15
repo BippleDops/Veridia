@@ -149,3 +149,23 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Pegasus Xmm]]
+- [[Find Greater Steed Xge]]
+- [[find-greater-steed-xge (spells)]]
+- [[Forest Encounters Levels 14 Xge]]
+- [[Forest Encounters Levels 510 Xge]]
+- [[Grassland Encounters Levels 15 Xge]]
+- [[Hill Encounters Levels 510 Xge]]
+- [[Monsters by Habitat Forest Monsters Xmm]]
+- [[Monsters by Habitat Grassland Monsters Xmm]]
+- [[Monsters by Habitat Hill Monsters Xmm]]
+- [[forest-encounters-levels-14-xge (tables)]]
+- [[forest-encounters-levels-510-xge (tables)]]
+- [[grassland-encounters-levels-15-xge (tables)]]
+- [[hill-encounters-levels-510-xge (tables)]]
+- [[monsters-by-habitat-forest-monsters-xmm (tables)]]
+- [[monsters-by-habitat-grassland-monsters-xmm (tables)]]
+- [[monsters-by-habitat-hill-monsters-xmm (tables)]]

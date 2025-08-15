@@ -83,7 +83,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -96,3 +95,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[09 Appendix B Spells]]
+- [[09-appendix-b-spells (princes-of-the-apocalypse)]]

@@ -14,7 +14,6 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 # Quest - Diplomatic Immunity
 
 ---
@@ -35,12 +34,10 @@ updated: '2025-08-13T01:18:34.475253+00:00'
 # Quest - Diplomatic Immunity
 *Preventing the War Nobody Wins*
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -272,7 +269,6 @@ Mentioned in The Second Prophecy of Winds
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Hooks
 - **Personal**: Character connection

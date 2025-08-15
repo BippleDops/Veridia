@@ -183,3 +183,7 @@ This NPC can serve multiple roles:
 - [[Lord Flux the Inconsistent]] (friend)
 ---
 *Tags*: #npc #contact #worldbuilding
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-noble-palatemaster-noble-palatemaster.png]]

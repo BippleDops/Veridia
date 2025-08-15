@@ -183,7 +183,7 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[Master of Currents Zephyr]] (rival)
 - [[04_Resources_Assets_Locations_location-city-cathedral-of-light-cathedral-of-light.png]] (ally)
-- [[Quest   The Deep Mother's Truth]] (colleague)
+- [[Deep Mother|Quest   The Deep Mother's Truth]] (colleague)
 ---
 *Tags*: #npc #contact #worldbuilding
 
@@ -236,3 +236,7 @@ Member of House Dragonblood - Trait: magical affinity
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-cathedral-of-light-cathedral-of-light.png]]

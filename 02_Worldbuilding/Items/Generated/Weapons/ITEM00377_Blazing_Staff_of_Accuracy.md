@@ -1,3 +1,9 @@
+---
+aliases: ["Blazing Staff of Accuracy", "blazing staff of accuracy", "Accuracy of Staff Blazing"]
+tags: [item, equipment]
+type: item
+---
+
 # Blazing Staff of Accuracy
 
 *Weapons, Legendary*
@@ -16,8 +22,6 @@ A blazing staff made of crystallized magic
 - Can strike ethereal creatures
 - Grants advantage on initiative
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -32,7 +36,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.376Z*

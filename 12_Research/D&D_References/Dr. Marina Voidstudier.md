@@ -73,3 +73,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[The Foundation Depths]]
+- [[The Foundation Depths (D&D_Statblocks)]]

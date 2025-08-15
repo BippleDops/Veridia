@@ -107,3 +107,8 @@ improvements: 20
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Assets Portraits Portrait NPC Captain Torrent Freewater Captain Torrent Freewater.svg]]
+- [[Assets Symbols Symbol Heraldry Magical Component Manufacturers Guil Magical Component Manufacturers Guil.svg]]

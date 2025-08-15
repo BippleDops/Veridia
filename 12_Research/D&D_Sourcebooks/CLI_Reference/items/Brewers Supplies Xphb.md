@@ -101,3 +101,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Monk Xphb Way of the Drunken Master Xge]]
+- [[monk-xphb-way-of-the-drunken-master-xge (classes)]]
+- [[Artisans Tools Xphb]]
+- [[Axe of the Dwarvish Lords Xdmg]]
+- [[artisans-tools-xphb (items)]]
+- [[axe-of-the-dwarvish-lords-xdmg (items)]]
+- [[Dwarf Duergar Mtf]]
+- [[dwarf-duergar-mtf (races)]]
+- [[Tools Phb]]
+- [[tools-phb (tables)]]

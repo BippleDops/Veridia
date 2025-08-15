@@ -75,3 +75,13 @@ Mentioned in The Second Prophecy of Winds
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Dark Gift of Vaund the Evasive Cos]]
+- [[dark-gift-of-vaund-the-evasive-cos (rewards)]]
+- [[Magic Item Table G]]
+- [[Random Magic Items Implements]]
+- [[magic-item-table-g (tables)]]
+- [[random-magic-items-implements (tables)]]

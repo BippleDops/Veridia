@@ -1,3 +1,9 @@
+---
+aliases: ["Elegant Compass of Reliability", "elegant compass of reliability", "Reliability of Compass Elegant"]
+tags: [item, equipment]
+type: item
+---
+
 # Elegant Compass of Reliability
 
 *Mundane, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A elegant compass showing signs of age
 - Functions in antimagic
 - Never breaks or wears out
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -30,7 +34,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.489Z*

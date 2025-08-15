@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Winterborn the Strong", "lyanna winterborn the strong", "Lyanna Winterborn Strong", "Strong the Winterborn Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Winterborn the Strong
 
 *Genasi Rogue (Adventurers), Age 43, Non-binary*
@@ -42,16 +48,13 @@ Searching for a legendary treasure their parent died seeking They've been marked
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Kaelen Brightblade the Lost (Family - Child)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
 
-
 ### Corvus Ironforge the Mystic (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ### Xander Grimholt the Wise (Professional - Partner)
 - **Status**: Strained but maintaining
@@ -61,7 +64,6 @@ Searching for a legendary treasure their parent died seeking They've been marked
 ### Urien Lightbringer the Wanderer (Criminal - Fence)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Secretly working for the villain

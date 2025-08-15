@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Dawnstrider the Swift", "solas dawnstrider the swift", "Solas Dawnstrider Swift", "Swift the Dawnstrider Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Dawnstrider the Swift
 
 *Half-Elf Dark Wizard (Villains), Age 49, Female*
@@ -36,32 +42,26 @@ Born into evil but questioning their path A prophetic dream has been haunting th
 - **Short Term**: Find missing person
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Jorah Proudmore the Scholar (Personal - Childhood friend)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
 
-
 ### Vesper Youngblood the Guardian (Political - Patron)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ### Hestara Silverleaf the Wanderer (Criminal - Handler)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
 
-
 ### Cedric Zephyrblade the Fallen (Criminal - Handler)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Dara Xendar the Cunning (Criminal - Informant)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Knows how the world will end

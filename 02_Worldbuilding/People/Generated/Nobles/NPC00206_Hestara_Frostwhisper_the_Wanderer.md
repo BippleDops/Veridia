@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Frostwhisper the Wanderer", "hestara frostwhisper the wanderer", "Hestara Frostwhisper Wanderer", "Wanderer the Frostwhisper Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Frostwhisper the Wanderer
 
 *Halfling Aristocrat (Nobles), Age 30, Male*
@@ -42,11 +48,9 @@ Secretly adopted into nobility, living in fear of discovery A prophetic dream ha
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
 
-
 ### Gavril Proudmore the Strong (Professional - Rival)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
-
 
 ### Kaelen Crystalbrook the Wanderer (Family - Child)
 - **Status**: Recently reconciled
@@ -56,7 +60,6 @@ Secretly adopted into nobility, living in fear of discovery A prophetic dream ha
 ### Thalia Lightbringer (Professional - Partner)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Practicing forbidden magic

@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Proudmore the Cunning", "jorah proudmore the cunning", "Jorah Proudmore Cunning", "Cunning the Proudmore Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Proudmore the Cunning
 
 *Firbolg Rogue (Adventurers), Age 28, Female*
@@ -36,7 +42,6 @@ Accidentally gained powers and learning to control them Strange abilities have b
 - **Short Term**: Gather information
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Solas Moonshadow the Risen (Professional - Employee)
 - **Status**: Recently reconciled
@@ -47,11 +52,9 @@ Accidentally gained powers and learning to control them Strange abilities have b
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
 ### Faelyn Quicksilver the Swift (Professional - Employee)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
-
 
 ### Corvus Zephyrblade the Strong (Personal - Best friend)
 - **Status**: Blood oath bound
@@ -61,7 +64,6 @@ Accidentally gained powers and learning to control them Strange abilities have b
 ### Drusilla Moonshadow the Risen (Criminal - Target)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
-
 
 ### Drusilla Jadeclaw the Risen (Professional - Partner)
 - **Status**: On the verge of collapse

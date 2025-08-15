@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Oakenshield the Seeker", "delara oakenshield the seeker", "Delara Oakenshield Seeker", "Seeker the Oakenshield Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Oakenshield the Seeker
 
 *Dragonborn Fisher (Commoners), Age 30, Male*
@@ -36,12 +42,10 @@ Survivor of a disaster that destroyed their village They've fallen in love with 
 - **Short Term**: Sabotage competition
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Elric Keenblade the Broken (Professional - Partner)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ### Caelum Ironforge the Guardian (Personal - Childhood friend)
 - **Status**: Strong and trusting
@@ -52,16 +56,13 @@ Survivor of a disaster that destroyed their village They've fallen in love with 
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Aldric Jadeclaw the Strong (Political - Puppet)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Branwen Goldleaf the Bold (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Can hear the thoughts of others

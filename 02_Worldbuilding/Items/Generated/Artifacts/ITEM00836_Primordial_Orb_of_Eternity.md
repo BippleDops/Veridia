@@ -1,3 +1,9 @@
+---
+aliases: ["Primordial Orb of Eternity", "primordial orb of eternity", "Eternity of Orb Primordial"]
+tags: [item, equipment]
+type: item
+---
+
 # Primordial Orb of Eternity
 
 *Artifacts, Artifact (requires attunement)*
@@ -16,8 +22,6 @@ A primordial orb pulsing with inner light
 - Increase ability score by 2
 - Grant true sight
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -32,7 +36,6 @@ Priceless
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.430Z*

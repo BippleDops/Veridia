@@ -1,3 +1,9 @@
+---
+aliases: ["Superior Powder of Swiftness", "superior powder of swiftness", "Swiftness of Powder Superior"]
+tags: [item, equipment]
+type: item
+---
+
 # Superior Powder of Swiftness
 
 *Consumables, Uncommon*
@@ -14,8 +20,6 @@ A superior powder emanating sweet fragrance
 - Remove one condition
 - Breathe underwater 1 hour
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -30,7 +34,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.443Z*

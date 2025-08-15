@@ -268,3 +268,8 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 - A shipment has gone missing and chaos spreads
 - Someone is blackmailing an heir for revenge
+
+## References
+
+- [[The Tethyan Hegemony]]
+- [[Crystal Palace]]

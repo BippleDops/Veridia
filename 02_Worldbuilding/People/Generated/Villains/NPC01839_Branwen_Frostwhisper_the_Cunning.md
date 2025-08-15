@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Frostwhisper the Cunning", "branwen frostwhisper the cunning", "Branwen Frostwhisper Cunning", "Cunning the Frostwhisper Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Frostwhisper the Cunning
 
 *Aasimar Assassin (Villains), Age 48, Female*
@@ -36,22 +42,18 @@ Born into evil but questioning their path They've made a deal they're beginning 
 - **Short Term**: Complete current contract
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Erasmus Quicksilver the Wanderer (Criminal - Informant)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Elric Blackstone the Seeker (Personal - Best friend)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Urien Xendar the Broken (Family - Cousin)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
-
 
 ### Pyria Moonshadow the Mystic (Political - Ally)
 - **Status**: One-sided affection

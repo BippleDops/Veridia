@@ -48,3 +48,9 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[12 Appendix C Magic Items]]
+- [[12-appendix-c-magic-items (hoard-of-the-dragon-queen)]]

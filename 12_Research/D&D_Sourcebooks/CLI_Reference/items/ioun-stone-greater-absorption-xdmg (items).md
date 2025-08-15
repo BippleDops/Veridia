@@ -90,3 +90,15 @@ Mentioned in The Second Prophecy of Winds
 - Strange accidents suggest a portal
 - The authorities needs help stealing before the festival
 - A stranger needs help investigating before winter
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Ioun Stone Xdmg]]
+- [[ioun-stone-xdmg (items)]]
+- [[Arcana Legendary Xdmg]]
+- [[Magic Item Table I]]
+- [[Random Magic Items Arcana]]
+- [[arcana-legendary-xdmg (tables)]]
+- [[magic-item-table-i (tables)]]
+- [[random-magic-items-arcana (tables)]]

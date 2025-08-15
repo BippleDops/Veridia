@@ -223,3 +223,9 @@ This NPC can serve multiple roles:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-border-checkpoints-border-checkpoints.svg]]
+- [[04_Resources_Assets_Locations_location-city-pool-of-sacred-drowning-pool-of-sacred-drowning.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-luminous-dawn-cathedral-v1-the-luminous-dawn-cathedral.svg]]

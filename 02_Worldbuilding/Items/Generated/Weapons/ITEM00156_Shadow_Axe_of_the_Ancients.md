@@ -1,3 +1,9 @@
+---
+aliases: ["Shadow Axe of the Ancients", "shadow axe of the ancients", "Shadow Axe of Ancients", "Ancients the of Axe Shadow"]
+tags: [item, equipment]
+type: item
+---
+
 # Shadow Axe of the Ancients
 
 *Weapons, Common*
@@ -13,8 +19,6 @@ A shadow axe made of crystallized magic
 ## Properties
 - Can strike ethereal creatures
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -29,7 +33,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.356Z*

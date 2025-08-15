@@ -92,3 +92,23 @@ Mentioned in The First Prophecy of Shadows
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Prismari Student Scc]]
+- [[Quandrix Student Scc]]
+- [[Silverquill Student Scc]]
+- [[prismari-student-scc (backgrounds)]]
+- [[quandrix-student-scc (backgrounds)]]
+- [[silverquill-student-scc (backgrounds)]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Diplomats Pack Xphb]]
+- [[Scholars Pack Xphb]]
+- [[Woodcarvers Tools Xphb]]
+- [[diplomats-pack-xphb (items)]]
+- [[scholars-pack-xphb (items)]]
+- [[woodcarvers-tools-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

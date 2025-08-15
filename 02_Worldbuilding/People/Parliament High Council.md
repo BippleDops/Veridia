@@ -41,7 +41,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-parliament-high-council-parliament-high-council.svg)
 
@@ -289,7 +288,6 @@ nriched: true -->
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -325,3 +323,14 @@ nriched: true -->
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Queen Seraphina Lumengarde (People)]]
+- [[Senator_Glaucus_Brain (People)]]
+- [[Assets Locations Location City the Drowning Truth the Drowning Truth.svg]]
+- [[Assets Portraits Portrait NPC Lord Commander Steelborn Lord Commander Steelborn.svg]]
+- 
+- [[Parliament High Council (D&D_References)]]
+- [[Queen Seraphina Lumengarde (D&D_References)]]
+- [[Senator_Glaucus_Brain (D&D_References)]]

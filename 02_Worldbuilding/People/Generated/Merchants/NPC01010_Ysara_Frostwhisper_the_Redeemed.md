@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Frostwhisper the Redeemed", "ysara frostwhisper the redeemed", "Ysara Frostwhisper Redeemed", "Redeemed the Frostwhisper Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Frostwhisper the Redeemed
 
 *Dragonborn Broker (Merchants), Age 33, Male*
@@ -35,7 +41,6 @@ Built their business from nothing through cunning and hard work A prophetic drea
 ### Goals
 - **Short Term**: Gather information
 - **Long Term**: Build a lasting legacy
-
 
 ## Relationships
 ### Jorah Ironwood the Seeker (Professional - Rival)

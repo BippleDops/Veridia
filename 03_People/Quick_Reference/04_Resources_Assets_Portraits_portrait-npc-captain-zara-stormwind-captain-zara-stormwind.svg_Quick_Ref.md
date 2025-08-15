@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # 04_Resources_Assets_Portraits_portrait-npc-captain-zara-stormwind-captain-zara-stormwind.svg - Quick Reference
 
 ## Key Info

@@ -176,3 +176,10 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[The Forsaken Consortium Collective]]
+- [[The Great Convergence Prophecies]]
+- [[The Shattering of the Crown]]
+- [[The Forsaken Consortium Collective (D&D_References)]]

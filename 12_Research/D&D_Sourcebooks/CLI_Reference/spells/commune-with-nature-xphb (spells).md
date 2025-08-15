@@ -97,7 +97,6 @@ Mentioned in The Second Prophecy of Stars
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -116,4 +115,4 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[commune-with-nature-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[commune-with-nature-xphb (spells)|commune-with-nature-xphb (spells)-phb]]` in CLI_Reference/spells/

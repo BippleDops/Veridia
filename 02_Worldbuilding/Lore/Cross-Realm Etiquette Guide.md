@@ -34,7 +34,7 @@ improvements: 20
 
 *"Where water meets air and depth encounters sky, wisdom lies in the space between traditions."*
 
-> *"The greatest diplomats are not those who master one culture perfectly, but those who can build bridges between cultures that seem impossibly different. In the dance between depth and sky, every step must honor both partners."* - [[Ambassador [[Marina Tidecaller]]|[[02 Worldbuilding]]/[[People]]/[[Ambassador Marina Tidecaller]]]]
+> *"The greatest diplomats are not those who master one culture perfectly, but those who can build bridges between cultures that seem impossibly different. In the dance between depth and sky, every step must honor both partners."* - [[Marina Tidecaller|Ambassador [[Marina Tidecaller]]|[[02_Worldbuilding|02 Worldbuilding]]/[[People]]/[[Ambassador Marina Tidecaller]]]]
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -50,7 +50,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -226,7 +226,7 @@ The Cross-Realm Etiquette Guide serves as the definitive resource for navigating
 - **Aquabyssos Deep [[Merchant]]s** ≈ **Aethermoor Sky Merchants**
 - **[[Pressure Engineers]]** ≈ **Weather Wardens**
 - **Current Navigators** ≈ **Wind-Riders**
-- **[[Memory Keepers]]** ≈ **[[Cultural Preservation]]ists**
+- **[[Memory_Keepers|Memory Keepers]]** ≈ **[[Cultural Preservation]]ists**
 - **Shadow Surgeons** ≈ **Specialized Medical Practitioners**
 
 **Professional Courtesy Protocols**:
@@ -536,7 +536,7 @@ The development of cross-realm etiquette represents a relatively recent but crit
 
 The guide represents a collaborative effort between cultural experts from both realms, attempting to create a bridge between traditions that evolved in completely different environmental and social contexts. Success in cross-cultural interactions often depends not just on following protocols correctly, but on understanding the underlying cultural values and environmental realities that shaped each tradition.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Use the cross-cultural protocols as a framework for creating complex diplomatic scenarios that require genuine understanding rather than just rule-following. Consider how misunderstandings might arise even when characters are trying to follow protocols correctly, and how cultural evolution might create new challenges as traditions adapt to increased inter-realm contact.
 
@@ -567,3 +567,9 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Sylvanheart]]
+- [[Crystalhaven (D&D_References)]]
+- [[Sylvanheart (D&D_References)]]

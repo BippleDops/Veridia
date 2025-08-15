@@ -226,3 +226,8 @@ Member of House Dragonblood - Trait: prophecy
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-deepwater-trading-consortium-the-deepwater-trading-consortium.svg]]
+- [[04_Resources_Assets_Locations_location-city-dr-reef-brightwater-v1-dr-reef-brightwater.svg]]

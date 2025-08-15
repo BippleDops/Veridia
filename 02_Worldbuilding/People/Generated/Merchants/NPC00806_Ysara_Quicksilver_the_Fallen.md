@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Quicksilver the Fallen", "ysara quicksilver the fallen", "Ysara Quicksilver Fallen", "Fallen the Quicksilver Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Quicksilver the Fallen
 
 *Dragonborn Caravan Master (Merchants), Age 35, Non-binary*
@@ -36,7 +42,6 @@ Uses their business as cover for other activities They've made a deal they're be
 - **Short Term**: Gather information
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Zephyr Quicksilver the Wanderer (Criminal - Informant)
 - **Status**: Strained but maintaining
@@ -47,7 +52,6 @@ Uses their business as cover for other activities They've made a deal they're be
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
 
-
 ### Fiora Silverleaf the Bold (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
@@ -56,7 +60,6 @@ Uses their business as cover for other activities They've made a deal they're be
 ### Dara Moonshadow the Wanderer (Family - Child)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
-
 
 ### Delara Xendar the Redeemed (Political - Puppet)
 - **Status**: One-sided affection

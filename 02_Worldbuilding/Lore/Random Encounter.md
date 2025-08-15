@@ -46,12 +46,33 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 *Customize as needed for your specific campaign requirements.*
-
 
 ## Scaling by Party Level
 - **Level 1-4**: Reduce enemies
 - **Level 5-10**: Standard difficulty
 - **Level 11-15**: Add elite enemies
 - **Level 16-20**: Legendary difficulty
+
+## References
+
+- [[Central Location]]
+- [[Cure Component Locations]]
+- [[Key Locations]]
+- [[Known Locations]]
+- [[Random Encounter Tables - Aquabyssos]]
+- [[Random_Encounters (02_Worldbuilding)]]
+- [[Crystal Caverns]]
+- [[Nereidios]]
+- [[Pressure's End]]
+- [[Sister Morwyn]]
+- [[The Cerulean Trench]]
+- [[The Crimson Foundries]]
+- [[The Eternal Senate]]
+- [[The Great Drowning]]
+- [[The Phosphor Markets]]
+- [[The Primordial Vaults]]
+- [[The Reflection Pools]]
+- [[Theological Warfare]]
+- [[Whisper-Touched William]]

@@ -92,3 +92,8 @@ Void Texts represents a crucial aspect of the world's history, cosmology, or fun
 
 ## Campaign Notes
 *How this connects to the ongoing campaign*
+
+## References
+
+- [[Topic Matrix]]
+- [[Topic_Matrix (Indexes)]]

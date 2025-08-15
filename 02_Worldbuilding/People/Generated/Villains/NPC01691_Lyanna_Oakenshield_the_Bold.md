@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Oakenshield the Bold", "lyanna oakenshield the bold", "Lyanna Oakenshield Bold", "Bold the Oakenshield Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Oakenshield the Bold
 
 *Genasi Dark Wizard (Villains), Age 61, Female*
@@ -36,22 +42,18 @@ Born into evil but questioning their path A chance encounter last winter changed
 - **Short Term**: Make this month's payment
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Branwen Ravenheart the Lost (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Felicia Frostwhisper the Wise (Professional - Employer)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
 
-
 ### Idris Crystalbrook the Cunning (Criminal - Informant)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Is being controlled by darker force

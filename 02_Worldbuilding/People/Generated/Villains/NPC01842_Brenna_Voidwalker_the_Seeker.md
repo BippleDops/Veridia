@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Voidwalker the Seeker", "brenna voidwalker the seeker", "Brenna Voidwalker Seeker", "Seeker the Voidwalker Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Voidwalker the Seeker
 
 *Goliath Cultist (Villains), Age 37, Non-binary*
@@ -36,12 +42,10 @@ Born into evil but questioning their path They're being blackmailed by someone f
 - **Short Term**: Find missing person
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Erasmus Moonshadow the Swift (Family - Cousin)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
-
 
 ### Fiora Dawnstrider the Mystic (Personal - Best friend)
 - **Status**: Complicated history
@@ -52,11 +56,9 @@ Born into evil but questioning their path They're being blackmailed by someone f
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Malakai Ashford the Seeker (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ### Branwen Oakenshield the Risen (Political - Ally)
 - **Status**: Professional only
@@ -66,7 +68,6 @@ Born into evil but questioning their path They're being blackmailed by someone f
 ### Cedric Thornweave the Guardian (Personal - Best friend)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Has a child they're protecting

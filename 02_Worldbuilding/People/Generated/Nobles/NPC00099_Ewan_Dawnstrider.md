@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Dawnstrider", "ewan dawnstrider", "Dawnstrider Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Dawnstrider
 
 *Tabaxi Ambassador (Nobles), Age 50, Non-binary*
@@ -13,7 +19,6 @@
 Below average and heavyset, with Tied back silver hair and Hazel eyes. Dark skin. Constantly changing hair color.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Constantly quotes ancient texts; Always speaks in metaphors and riddles
@@ -36,7 +41,6 @@ Last survivor of a fallen house, seeking to restore family honor They've made a 
 - **Short Term**: Complete current contract
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Branwen Frostwhisper (Personal - Childhood friend)
 - **Status**: Professional only
@@ -47,11 +51,9 @@ Last survivor of a fallen house, seeking to restore family honor They've made a 
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Hestara Jadeclaw (Political - Opposition)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ### Brenna Emberfall the Bold (Professional - Employee)
 - **Status**: Strained but maintaining

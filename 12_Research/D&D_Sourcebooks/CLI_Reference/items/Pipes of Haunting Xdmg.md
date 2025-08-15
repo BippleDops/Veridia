@@ -78,3 +78,13 @@ Mentioned in The First Prophecy of Stars
 - Strange disappearances suggest a portal
 - Strange dreams suggest a portal
 - Someone is blackmailing information for power
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Implements Uncommon Xdmg]]
+- [[Magic Item Table F]]
+- [[Random Magic Items Implements]]
+- [[implements-uncommon-xdmg (tables)]]
+- [[magic-item-table-f (tables)]]
+- [[random-magic-items-implements (tables)]]

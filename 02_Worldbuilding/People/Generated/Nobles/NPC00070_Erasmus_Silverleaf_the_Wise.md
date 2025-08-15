@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Silverleaf the Wise", "erasmus silverleaf the wise", "Erasmus Silverleaf Wise", "Wise the Silverleaf Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Silverleaf the Wise
 
 *Halfling Courtier (Nobles), Age 32, Female*
@@ -36,7 +42,6 @@ Last survivor of a fallen house, seeking to restore family honor A chance encoun
 - **Short Term**: Gather information
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Zephyr Goldleaf the Bold (Personal - Ex-lover)
 - **Status**: Complicated history
@@ -47,11 +52,9 @@ Last survivor of a fallen house, seeking to restore family honor A chance encoun
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Erasmus Hawthorne (Personal - Ex-lover)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
-
 
 ### Vesper Zephyrblade the Seeker (Political - Patron)
 - **Status**: Recently reconciled

@@ -51,7 +51,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -137,7 +137,7 @@ A series of connected chambers representing the progression of crystallization:
 **Dawn Resoce (6:00 AM)**
 All temple residents participate in harmonic meditation. Stage 1-3 members hum traditional melodies while Stage 4-5 members provide crystalline harmonics that create complex musical patterns.
 
-*Newcomer Experience:* "The sound was like being inside a living cathedral. My plague crystals tingled in rhythm with the music, and for the first [[Time]] since infection, I felt[[...]] peaceful."
+*Newcomer Experience:* "The sound was like being inside a living cathedral. My plague crystals tingled in rhythm with the music, and for the first [[Time]] since infection, I felt[[Quest Corruption in ... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements|...]] peaceful."
 
 **Midday Teaching (12:00 PM)**
 High Priestess Seraphina delivers theological instruction on the divine nature of crystalline transformation. Teachings emphasize acceptance of change and rejection of "flesh-bound limitations."
@@ -358,7 +358,7 @@ Many cult members believe the Crystal Plague is not a recent phenomenon but the 
 **Implications:**
 - Government and medical establishment allegedly suppressing historical truth
 - Cure research is attempt to prevent humanity's natural evolutionary destiny
-- [[Crystal Cults]] are restoring ancient wisdom rather than creating new religion
+- [[Crystal_Cults|Crystal Cults]] are restoring ancient wisdom rather than creating new religion
 - Plague victims are returning to humanity's original divine state
 
 ### The Divine Punishment Theory
@@ -531,13 +531,11 @@ Crystal Cult Temples is a notable location characterized by its unique features 
 ### Founding
 Crystal Cult Temples was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -545,13 +543,11 @@ Crystal Cult Temples was established in the distant past, growing from humble be
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -586,7 +582,6 @@ Ongoing situations affecting Crystal Cult Temples:
 - Natural disasters
 - Current [[Power Structures]] established
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -618,3 +613,14 @@ Ongoing situations affecting Crystal Cult Temples:
 ## Architecture
 - **Building Style**: Common structures
 - **Notable Features**: Unique elements
+
+## References
+
+- [[Quarantine Enforcement]]
+- [[Underground Smuggling Networks]]
+- [[Crystal Plague Infected NPCs]]
+- [[Black Market Crystal Trade]]
+- [[Crystal Plague Infected NPCs (D&D_References)]]
+- [[Medical Research Facilities]]
+- [[Quarantine Enforcement (D&D_References)]]
+- [[Underground Smuggling Networks (D&D_References)]]

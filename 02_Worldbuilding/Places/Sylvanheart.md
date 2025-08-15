@@ -68,7 +68,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -146,7 +146,7 @@ Sylvanheart centers on seven massive ancient trees, each serving as a district:
 ### Living Infrastructure
 
 **Grown Bridges**: Living wood connections between tree-districts
-**Root Networks**: Underground transportation and [[Communication Systems]]
+**Root Networks**: Underground transportation and [[Communication_Systems|Communication Systems]]
 **Canopy Walkways**: Elevated [[path]]ways providing city-wide access
 **Hollow Chambers**: Naturally grown spaces within tree trunks for specific functions
 
@@ -420,7 +420,7 @@ Characters spending time in Sylvanheart gain:
 
 **[[Cultural Exchange Programs]]**: Regular educational visits from other settlements allow knowledge sharing about sustainable living techniques while providing Sylvanheart citizens with perspectives on alternative approaches to civilization. These exchanges follow protocols from the [[Cross-Realm Etiquette Guide]] adapted for forest diplomacy.
 
-**Guild Coordination Meetings**: [[Professional [[Organization]]s]] coordinate their activities through weekly assemblies that follow traditions from the [[Guild Traditions Compendium]] modified for sustainable practices. These meetings ensure that all professional activities support rather than damage environmental health while maintaining high standards.
+**Guild Coordination Meetings**: [[Organization|Professional [[Organization]]s]] coordinate their activities through weekly assemblies that follow traditions from the [[Guild Traditions Compendium]] modified for sustainable practices. These meetings ensure that all professional activities support rather than damage environmental health while maintaining high standards.
 
 **Seasonal Forest Adaptations**:
 - **Spring**: Planting season requires city-wide coordination of agricultural activities, building new living architecture as trees grow, and welcoming new animal families that join the community. Citizens participate in forest renewal activities that strengthen human-nature partnerships.
@@ -444,7 +444,6 @@ Sylvanheart serves as:
 - Center for research into sustainable magic and ecological restoration
 - Symbol of hope for peaceful coexistence between civilization and nature
 
-
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
@@ -466,7 +465,7 @@ Legends speak of Sylvanheart as a nexus where past and present converge. Locals 
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -490,13 +489,11 @@ Sylvanheart is a notable location characterized by its unique features and strat
 ### Founding
 Sylvanheart was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -559,3 +556,20 @@ Mentioned in The Hidden Prophecy of Depths
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Ancient Siege Tunnels]]
+- [[Continental War]]
+- [[Cathedral of Light]]
+- [[Crystallium]]
+- [[Port Meridian - Merchant Quarter]]
+- [[Ancient Siege Tunnels (D&D_References)]]
+- [[Cathedral of Light (D&D_References)]]
+- [[Continental War (D&D_References)]]
+- [[Continental War 3 (D&D_References)]]
+- [[Crystallium (D&D_References)]]
+- [[Port Meridian - Merchant Quarter (D&D_References)]]
+- [[The Embassy Quarter (D&D_References)]]
+- [[The Verdant Reach (D&D_References)]]

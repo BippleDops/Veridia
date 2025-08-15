@@ -225,3 +225,30 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Fighter Xphb Arcane Archer Xge]]
+- [[Fighter Xphb Battle Master Xphb]]
+- [[Fighter Xphb Cavalier Xge]]
+- [[Fighter Xphb Champion Xphb]]
+- [[Fighter Xphb Samurai Xge]]
+- [[fighter-xphb-arcane-archer-xge (classes)]]
+- [[fighter-xphb-battle-master-xphb (classes)]]
+- [[fighter-xphb-cavalier-xge (classes)]]
+- [[fighter-xphb-champion-xphb (classes)]]
+- [[fighter-xphb-samurai-xge (classes)]]
+- [[Assign Ability Scores Standard Array by]]
+- [[Choose a Class Class Overview Xphb]]
+- [[Classes Phb]]
+- [[Level 1 Hit Points by Class Xphb]]
+- [[Multiclassing Prerequisites Phb]]
+- [[Multiclassing Proficiencies Phb]]
+- [[assign-ability-scores-standard-array-by-class-xphb]]
+- [[choose-a-class-class-overview-xphb (tables)]]
+- [[classes-phb (tables)]]
+- [[level-1-hit-points-by-class-xphb (tables)]]
+- [[multiclassing-prerequisites-phb (tables)]]
+- [[multiclassing-proficiencies-phb (tables)]]
+- [[Spell Points]]
+- [[spell-points (variant-rules)]]

@@ -174,3 +174,38 @@ Mentioned in The Second Prophecy of Depths
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[menagerie]]
+- [[Tiger Xmm]]
+- [[tiger-xmm (beast)]]
+- [[weretiger-xmm (monstrosity)]]
+- [[2 Appendix a Miscellaneous Creatures]]
+- [[2-appendix-a-miscellaneous-creatures (monster-manual-2014)]]
+- [[3 Animals]]
+- [[3-animals (monster-manual-2025)]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[10-appendix-b-creature-stat-blocks (players-handbook-2024)]]
+- [[Bag of Tricks Tan Xdmg]]
+- [[bag-of-tricks-tan-xdmg (items)]]
+- [[Desert Encounters Levels 1116 Xge]]
+- [[Desert Encounters Levels 14 Xge]]
+- [[Desert Encounters Levels 510 Xge]]
+- [[Forest Encounters Levels 1116 Xge]]
+- [[Forest Encounters Levels 14 Xge]]
+- [[Forest Encounters Levels 510 Xge]]
+- [[Grassland Encounters Levels 1116 Xge]]
+- [[Grassland Encounters Levels 15 Xge]]
+- [[Monsters by Habitat Forest Monsters Xmm]]
+- [[Monsters by Habitat Grassland Monsters Xmm]]
+- [[desert-encounters-levels-1116-xge (tables)]]
+- [[desert-encounters-levels-14-xge (tables)]]
+- [[desert-encounters-levels-510-xge (tables)]]
+- [[forest-encounters-levels-1116-xge (tables)]]
+- [[forest-encounters-levels-14-xge (tables)]]
+- [[forest-encounters-levels-510-xge (tables)]]
+- [[grassland-encounters-levels-1116-xge (tables)]]
+- [[grassland-encounters-levels-15-xge (tables)]]
+- [[monsters-by-habitat-forest-monsters-xmm (tables)]]
+- [[monsters-by-habitat-grassland-monsters-xmm (tables)]]

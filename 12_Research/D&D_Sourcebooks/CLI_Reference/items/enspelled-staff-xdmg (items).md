@@ -97,7 +97,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -110,3 +109,26 @@ Contextual improvement based on 12_Research
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Master_Spell_Compendium]]
+- [[Arcana Legendary Xdmg]]
+- [[Arcana Rare Xdmg]]
+- [[Arcana Uncommon Xdmg]]
+- [[Arcana Very Rare Xdmg]]
+- [[Random Magic Items Arcana]]
+- [[Random Magic Items Relics]]
+- [[Relics Legendary Xdmg]]
+- [[Relics Rare Xdmg]]
+- [[Relics Uncommon Xdmg]]
+- [[arcana-legendary-xdmg (tables)]]
+- [[arcana-rare-xdmg (tables)]]
+- [[arcana-uncommon-xdmg (tables)]]
+- [[arcana-very-rare-xdmg (tables)]]
+- [[random-magic-items-arcana (tables)]]
+- [[random-magic-items-relics (tables)]]
+- [[relics-legendary-xdmg (tables)]]
+- [[relics-rare-xdmg (tables)]]
+- [[relics-uncommon-xdmg (tables)]]

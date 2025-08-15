@@ -144,6 +144,5 @@ Information Broker Selan represents a crucial aspect of the world's history, cos
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*

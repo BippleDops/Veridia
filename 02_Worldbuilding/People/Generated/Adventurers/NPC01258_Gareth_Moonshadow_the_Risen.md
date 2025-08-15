@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Moonshadow the Risen", "gareth moonshadow the risen", "Gareth Moonshadow Risen", "Risen the Moonshadow Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Moonshadow the Risen
 
 *Goliath Ranger (Adventurers), Age 32, Female*
@@ -13,7 +19,6 @@
 Very short and heavyset, with Partially shaved brown hair and Amber eyes. Pale skin. Prominent scar across the face.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Constantly quotes ancient texts
@@ -36,12 +41,10 @@ Searching for a legendary treasure their parent died seeking They've been marked
 - **Short Term**: Make this month's payment
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Ysara Winterborn the Lost (Family - Child)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
-
 
 ### Lyanna Underhill the Fallen (Political - Ally)
 - **Status**: Strained but maintaining
@@ -51,7 +54,6 @@ Searching for a legendary treasure their parent died seeking They've been marked
 ### Branwen Ashford the Wanderer (Family - Sibling)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Is from the future

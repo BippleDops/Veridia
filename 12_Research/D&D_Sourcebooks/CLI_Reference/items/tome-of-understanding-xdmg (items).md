@@ -77,3 +77,11 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Magic Item Table H]]
+- [[Random Magic Items Relics]]
+- [[magic-item-table-h (tables)]]
+- [[random-magic-items-relics (tables)]]

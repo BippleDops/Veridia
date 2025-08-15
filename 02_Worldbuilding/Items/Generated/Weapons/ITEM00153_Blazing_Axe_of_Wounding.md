@@ -1,3 +1,9 @@
+---
+aliases: ["Blazing Axe of Wounding", "blazing axe of wounding", "Wounding of Axe Blazing"]
+tags: [item, equipment]
+type: item
+---
+
 # Blazing Axe of Wounding
 
 *Weapons, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A blazing axe made of crystallized magic
 - +2 to attack and damage rolls
 - Critical hits on 19-20
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -32,7 +36,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.355Z*

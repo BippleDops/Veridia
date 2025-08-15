@@ -185,8 +185,8 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[The Depth Lords]] (enemy)
-- [[04_Resources_Assets_Symbols_symbol-heraldry-the-scream-archives-the-scream-archives.svg]] (friend)
-- [[Quest   The Deepmind Weapon]] (ally)
+-  (friend)
+- [[The Deepmind|Quest   The Deepmind Weapon]] (ally)
 ---
 *Tags*: #npc #contact #worldbuilding
 

@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Xendar the Lost", "corvus xendar the lost", "Corvus Xendar Lost", "Lost the Xendar Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Xendar the Lost
 
 *Dwarf Baker (Commoners), Age 74, Non-binary*
@@ -36,7 +42,6 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 - **Short Term**: Complete current contract
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Brenna Ashford the Guardian (Family - Sibling)
 - **Status**: Mutually beneficial
@@ -47,11 +52,9 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
 
-
 ### Corvus Frostwhisper (Criminal - Handler)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Knows location of ancient treasure

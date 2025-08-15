@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Frostwhisper the Redeemed", "caelum frostwhisper the redeemed", "Caelum Frostwhisper Redeemed", "Redeemed the Frostwhisper Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Frostwhisper the Redeemed
 
 *Aasimar Heir (Nobles), Age 58, Female*
@@ -42,16 +48,13 @@ Secretly adopted into nobility, living in fear of discovery Strange abilities ha
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Felicia Quicksilver (Criminal - Target)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Gavril Youngblood the Fallen (Personal - Love interest)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ### Ewan Goldleaf (Criminal - Target)
 - **Status**: Secretly hostile
@@ -62,11 +65,9 @@ Secretly adopted into nobility, living in fear of discovery Strange abilities ha
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
 
-
 ### Alaric Blackstone (Personal - Love interest)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Actually a bastard with no real claim

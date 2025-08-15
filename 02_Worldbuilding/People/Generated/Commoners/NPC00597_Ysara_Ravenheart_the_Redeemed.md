@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Ravenheart the Redeemed", "ysara ravenheart the redeemed", "Ysara Ravenheart Redeemed", "Redeemed the Ravenheart Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Ravenheart the Redeemed
 
 *Goliath Carpenter (Commoners), Age 34, Non-binary*
@@ -13,7 +19,6 @@
 Tall and muscular, with Short and neat unusual color hair and Green eyes. Pale skin. Warm smile that puts people at ease.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Incredibly optimistic despite evidence; Flirts with everyone regardless of interest; Sees doom and gloom everywhere
@@ -36,12 +41,10 @@ Former soldier trying to adjust to civilian life A prophetic dream has been haun
 - **Short Term**: Avoid the authorities
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Gavril Thornweave the Seeker (Criminal - Accomplice)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ### Ewan Dawnstrider the Mystic (Professional - Employee)
 - **Status**: Blood oath bound
@@ -56,7 +59,6 @@ Former soldier trying to adjust to civilian life A prophetic dream has been haun
 ### Corvus Youngblood the Risen (Family - Parent)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Knows location of ancient treasure

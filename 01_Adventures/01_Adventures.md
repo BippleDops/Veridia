@@ -1,6 +1,5 @@
 ---
 
-
 title: 01_Adventures
 type: adventure
 tags:
@@ -157,7 +156,6 @@ An exciting quest that challenges heroes to prevent disaster.
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## See Also
 - Related content
 - Similar topics
@@ -166,3 +164,7 @@ An exciting quest that challenges heroes to prevent disaster.
 ## Player Tips
 > 🎮 **Strategy**: How to approach this content
 > Work together and communicate
+
+## References
+
+- [[LIFE_MANAGEMENT_SYSTEM]]

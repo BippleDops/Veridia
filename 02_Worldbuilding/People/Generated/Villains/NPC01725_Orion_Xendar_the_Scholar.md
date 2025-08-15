@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Xendar the Scholar", "orion xendar the scholar", "Orion Xendar Scholar", "Scholar the Xendar Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Xendar the Scholar
 
 *Half-Orc Corrupt Noble (Villains), Age 39, Female*
@@ -36,12 +42,10 @@ Driven mad by knowledge humanity wasn't meant to know A prophetic dream has been
 - **Short Term**: Sabotage competition
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Vesper Xendar the Fallen (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ### Drusilla Dawnstrider the Risen (Family - Cousin)
 - **Status**: Blood oath bound
@@ -56,7 +60,6 @@ Driven mad by knowledge humanity wasn't meant to know A prophetic dream has been
 ### Malakai Silverleaf the Wise (Family - Sibling)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Believes they're saving the world

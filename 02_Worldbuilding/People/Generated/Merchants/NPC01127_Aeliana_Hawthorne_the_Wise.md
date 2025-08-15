@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Hawthorne the Wise", "aeliana hawthorne the wise", "Aeliana Hawthorne Wise", "Wise the Hawthorne Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Hawthorne the Wise
 
 *Half-Elf Caravan Master (Merchants), Age 69, Female*
@@ -36,12 +42,10 @@ Built their business from nothing through cunning and hard work They've fallen i
 - **Short Term**: Find missing person
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Ysara Frostwhisper the Lost (Professional - Rival)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ### Gavril Youngblood the Strong (Professional - Mentor)
 - **Status**: Blood oath bound
@@ -51,7 +55,6 @@ Built their business from nothing through cunning and hard work They've fallen i
 ### Idris Goldleaf the Wanderer (Political - Opposition)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
-
 
 ### Gavril Ironwood the Strong (Personal - Childhood friend)
 - **Status**: Secretly hostile

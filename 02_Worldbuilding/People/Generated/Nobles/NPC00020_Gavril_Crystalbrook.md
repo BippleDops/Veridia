@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Crystalbrook", "gavril crystalbrook", "Crystalbrook Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Crystalbrook
 
 *Aasimar Heir (Nobles), Age 54, Female*
@@ -42,16 +48,13 @@ Recently elevated to nobility through service, still learning courtly ways A cha
 - **Status**: Complicated history
 - **History**: United by common enemy
 
-
 ### Delara Nightfall the Seeker (Professional - Employee)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Delara Winterborn the Risen (Professional - Employee)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ### Kaelen Moonshadow (Political - Ally)
 - **Status**: Secretly hostile

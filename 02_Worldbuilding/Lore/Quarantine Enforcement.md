@@ -42,7 +42,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -90,7 +90,7 @@ improvements: 20
 
 ## Overview
 
-The Crystal Plague crisis has forced [[Aquabyssos Government]]s to implement unprecedented quarantine measures. These policies represent the largest expansion of state authority in the kingdom's history, creating new law enforcement challenges, civil rights concerns, and administrative complexities that strain the existing legal and social framework.
+The Crystal Plague crisis has forced [[Aquabyssos_Government|Aquabyssos Government]]s to implement unprecedented quarantine measures. These policies represent the largest expansion of state authority in the kingdom's history, creating new law enforcement challenges, civil rights concerns, and administrative complexities that strain the existing legal and social framework.
 
 ### The Emergency Public Health Authority Act
 
@@ -127,7 +127,7 @@ The Crystal Plague crisis has forced [[Aquabyssos Government]]s to implement unp
 
 #### The Rights Coalition Lawsuit
 
-**Plaintiffs:** Civil rights advocates, [[Religious [[Groups]]]], [[Merchant]] associations  
+**Plaintiffs:** Civil rights advocates, [[Groups|Religious [[Groups]]]], [[Merchant]] associations  
 **Claims:** Emergency powers violate fundamental rights to movement, assembly, and due process  
 **Status:** Ongoing litigation with preliminary injunctions limiting some enforcement activities  
 **Political Impact:** Growing public debate about balance between safety and freedom
@@ -282,7 +282,7 @@ The Crystal Plague crisis has forced [[Aquabyssos Government]]s to implement unp
 **Phase 2: Isolation (4-12 hours)**
 - Affected individuals/areas secured
 - Family notification and initial medical assessment
-- Basic supplies and [[Communication Systems]] established
+- Basic supplies and [[Communication_Systems|Communication Systems]] established
 - Legal documentation and rights advisement
 
 **Phase 3: Investigation (12-48 hours)**  
@@ -598,3 +598,8 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Underground Smuggling Networks]]
+- [[Underground Smuggling Networks (D&D_References)]]

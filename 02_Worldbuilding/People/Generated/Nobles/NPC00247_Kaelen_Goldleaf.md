@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Goldleaf", "kaelen goldleaf", "Goldleaf Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Goldleaf
 
 *Firbolg Ambassador (Nobles), Age 70, Female*
@@ -13,7 +19,6 @@
 Short and compact, with Wild and unkempt black hair and Amber eyes. Fair skin. Missing finger on left hand.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Always hungry and eating something
@@ -42,26 +47,21 @@ Exiled from their homeland, trying to rebuild their power base They recently dis
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
 
-
 ### Lyanna Ravenheart the Strong (Professional - Mentor)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
-
 
 ### Corvus Dawnstrider the Strong (Political - Patron)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Corvus Moonshadow (Family - Parent)
 - **Status**: Complicated history
 - **History**: United by common enemy
 
-
 ### Delara Dawnstrider (Political - Opposition)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Actually a bastard with no real claim

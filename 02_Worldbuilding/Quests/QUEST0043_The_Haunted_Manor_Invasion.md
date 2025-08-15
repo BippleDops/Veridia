@@ -1,4 +1,5 @@
 ---
+aliases: ["The Haunted Manor Invasion", "the haunted manor invasion", "Invasion Manor Haunted The"]
 tags: [quest, adventure, generated]
 type: quest
 ---
@@ -21,8 +22,6 @@ Discover the truth behind the disappearances
 ### Secondary
 - Establish future contacts
 - Gather intelligence on enemy plans
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they accidentally discovered a conspiracy, which changed their life forever. Now, circumstances demand immediate action.

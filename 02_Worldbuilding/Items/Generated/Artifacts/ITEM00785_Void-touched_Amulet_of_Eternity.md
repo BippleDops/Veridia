@@ -1,3 +1,9 @@
+---
+aliases: ["Void-touched Amulet of Eternity", "void-touched amulet of eternity", "Eternity of Amulet Void-touched"]
+tags: [item, equipment]
+type: item
+---
+
 # Void-touched Amulet of Eternity
 
 *Artifacts, Artifact*
@@ -16,8 +22,6 @@ A void-touched amulet covered in mysterious symbols
 - Immunity to charm
 - Increase ability score by 2
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -32,7 +36,6 @@ Priceless
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.425Z*

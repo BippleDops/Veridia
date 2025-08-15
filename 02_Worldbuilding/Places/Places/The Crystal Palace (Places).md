@@ -18,16 +18,13 @@ updated: 2025-08-14
 - **East**: River crossing
 - **West**: Mountain pass
 
-
 # The Crystal Palace
-
 
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
 - **Law Enforcement**: Town guard
 - **Justice System**: Local magistrate
-
 
 ## Economy
 - **Primary Exports**: Local goods
@@ -46,7 +43,6 @@ The approach to The Crystal Palace reveals its significance through architectura
 
 ### Interior
 Within The Crystal Palace, visitors find a carefully designed space serving multiple purposes.
-
 
 ## Demographics
 - **Population**: ~1,000
@@ -83,7 +79,6 @@ Recent developments have brought new attention to The Crystal Palace, creating o
 
 ## DM Notes
 *The Crystal Palace can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions

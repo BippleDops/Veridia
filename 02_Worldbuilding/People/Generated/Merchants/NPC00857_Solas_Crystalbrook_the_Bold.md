@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Crystalbrook the Bold", "solas crystalbrook the bold", "Solas Crystalbrook Bold", "Bold the Crystalbrook Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Crystalbrook the Bold
 
 *Dragonborn Trader (Merchants), Age 47, Non-binary*
@@ -36,17 +42,14 @@ Built their business from nothing through cunning and hard work An old debt has 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Urien Winterborn the Redeemed (Political - Opposition)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Idris Underhill the Mystic (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
-
 
 ### Rhiannon Youngblood the Seeker (Professional - Employee)
 - **Status**: On the verge of collapse
@@ -61,7 +64,6 @@ Built their business from nothing through cunning and hard work An old debt has 
 ### Xander Underhill the Risen (Personal - Ex-lover)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is actually a spy for foreign power

@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Xendar the Swift", "alaric xendar the swift", "Alaric Xendar Swift", "Swift the Xendar Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Xendar the Swift
 
 *Tiefling Dark Wizard (Villains), Age 76, Female*
@@ -36,27 +42,22 @@ Driven mad by knowledge humanity wasn't meant to know They've been marked by a s
 - **Short Term**: Gather information
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Wynne Voidwalker the Scholar (Personal - Love interest)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Gareth Brightblade the Mystic (Criminal - Handler)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ### Ysara Xendar the Mystic (Criminal - Handler)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
 
-
 ### Cedric Ravenheart the Wise (Family - Child)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Was once a renowned hero

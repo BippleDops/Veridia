@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Xendar the Strong", "qadim xendar the strong", "Qadim Xendar Strong", "Strong the Xendar Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Xendar the Strong
 
 *Tabaxi Shopkeeper (Merchants), Age 35, Non-binary*
@@ -42,26 +48,21 @@ Former adventurer who retired to open a shop A chance encounter last winter chan
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Delara Ashford the Swift (Professional - Partner)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ### Aldric Oakenshield the Risen (Professional - Partner)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
 
-
 ### Caelum Xendar the Seeker (Political - Ally)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Brenna Hawthorne the Scholar (Political - Spy)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Running a cult from their basement

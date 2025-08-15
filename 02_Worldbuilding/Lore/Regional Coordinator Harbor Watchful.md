@@ -48,3 +48,8 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## [[DM_Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[The Light Preservation Society]]
+- [[The Light Preservation Society (D&D_References)]]

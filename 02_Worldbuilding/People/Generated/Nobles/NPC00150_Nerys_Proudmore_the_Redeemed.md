@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Proudmore the Redeemed", "nerys proudmore the redeemed", "Nerys Proudmore Redeemed", "Redeemed the Proudmore Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Proudmore the Redeemed
 
 *Half-Elf Aristocrat (Nobles), Age 53, Female*
@@ -42,16 +48,13 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Nerys Goldleaf (Professional - Employer)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Urien Ravenheart (Political - Spy)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Secretly funding the rebellion

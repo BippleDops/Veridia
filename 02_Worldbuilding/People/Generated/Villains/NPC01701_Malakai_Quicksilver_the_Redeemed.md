@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Quicksilver the Redeemed", "malakai quicksilver the redeemed", "Malakai Quicksilver Redeemed", "Redeemed the Quicksilver Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Quicksilver the Redeemed
 
 *Elf Corrupt Noble (Villains), Age 51, Female*
@@ -36,7 +42,6 @@ Born into evil but questioning their path A chance encounter last winter changed
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Rhiannon Silverleaf the Cunning (Personal - Best friend)
 - **Status**: Recently reconciled
@@ -52,11 +57,9 @@ Born into evil but questioning their path A chance encounter last winter changed
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Corvus Frostwhisper the Wanderer (Personal - Nemesis)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Is being controlled by darker force

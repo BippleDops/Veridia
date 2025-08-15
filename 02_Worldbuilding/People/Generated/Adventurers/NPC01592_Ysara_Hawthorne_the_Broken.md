@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Hawthorne the Broken", "ysara hawthorne the broken", "Ysara Hawthorne Broken", "Broken the Hawthorne Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Hawthorne the Broken
 
 *Aasimar Wizard (Adventurers), Age 27, Non-binary*
@@ -36,22 +42,18 @@ Chosen by fate to fulfill an ancient prophecy Strange abilities have begun manif
 - **Short Term**: Gather information
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Thalia Xendar the Seeker (Personal - Childhood friend)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Hilda Emberfall the Mystic (Family - Parent)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Zephyr Emberfall the Risen (Family - Spouse)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Secretly working for the villain

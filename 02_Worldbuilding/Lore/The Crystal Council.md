@@ -28,11 +28,11 @@ improvements: 20
 
 ### Culture Improvements
 
-- Define unique cultural practices and taboos
+- Define unique [[Cultural Practices|Cultural Practices]] and taboos
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[[[Trade_Goods|Trade_Goods]]|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -40,7 +40,7 @@ improvements: 20
 
 ### Lifestyle Improvements
 
-- Describe typical day for different social classes
+- Describe typical day for different social [[classes|classes]]
 
 ### Sensory Improvements
 
@@ -72,21 +72,21 @@ improvements: 20
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
+- Detail common [[objects|objects]] and their cultural significance
 
-## Player-Facing Summary
+## Player-[[facing|facing]] Summary
 
 The Crystal Council is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of The Crystal Council as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crystal Council.
+Legends speak of The Crystal Council as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or [[Whispers|Whispers]] on the wind—that herald change around The Crystal Council.
 
-## [[DM Notes]]
+## [[[[DM_Notes|DM_Notes]]|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Historical Context
+## [[Historical Context|Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -98,7 +98,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -113,7 +113,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures|Power Structures]] established
 
 ## Cultural Practices
 
@@ -138,3 +138,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+---
+**Navigation**: [[00_Indexes/Home|🏠 Home]] | [[00_Indexes/Master_Index|📚 Index]]

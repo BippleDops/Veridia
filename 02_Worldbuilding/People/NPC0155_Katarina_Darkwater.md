@@ -1,11 +1,11 @@
 ---
+aliases: ["Katarina Darkwater", "katarina darkwater", "Darkwater Katarina"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -75,8 +75,6 @@ Former soldier who left after a traumatic battle. Years ago, they lost everythin
 ### Skills
 Persuasion, Insight
 
-
-
 ## Possessions
 - 66 gold pieces
 - Book of poetry
@@ -89,7 +87,6 @@ Persuasion, Insight
 
 ---
 *Generated: 2025-08-15T03:21:04.042Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

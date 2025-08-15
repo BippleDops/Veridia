@@ -797,12 +797,10 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Pronunciation Guide
 - **Themes**: [THEMES]
 - **Party's**: [PARTY-S]
 - **Their**: [THEIR]
-
 
 ## Alternate Descriptions
 - **First Impression**: Initial appearance

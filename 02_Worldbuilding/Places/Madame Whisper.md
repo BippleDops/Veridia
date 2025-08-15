@@ -57,7 +57,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -168,7 +168,7 @@ She's also investigating [[reports]] of outside interference in Aquabyssos's pol
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Madame Whisper serves as an excellent source of information and social connections while maintaining neutrality that makes her useful to any party regardless of their factional allegiances. Her salon can serve as a safe meeting ground and her information network can advance or complicate plots as needed. Use her sophisticated approach to espionage to contrast with cruder spy operations in the campaign.
 
@@ -197,13 +197,11 @@ Madame Whisper is a notable location characterized by its unique features and st
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -211,13 +209,11 @@ Madame Whisper is a notable location characterized by its unique features and st
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -238,7 +234,6 @@ Ongoing situations affecting Madame Whisper:
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -275,3 +270,8 @@ Ongoing situations affecting Madame Whisper:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[The Phosphor Markets]]
+- [[The Phosphor Markets (D&D_References)]]

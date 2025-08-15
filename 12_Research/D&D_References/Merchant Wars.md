@@ -63,3 +63,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Someone is searching for a witness for money
 - A map reveals the truth about a local noble
 - A prisoner has gone missing and truth emerges
+
+## References
+
+- [[Consortium Security Constructs]]
+- [[Consortium Security Constructs (D&D_References)]]

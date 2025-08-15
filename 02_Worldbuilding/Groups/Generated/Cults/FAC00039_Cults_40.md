@@ -1,6 +1,18 @@
-# Cults 40
+---
+aliases: ["Cults 40", "cults 40", "40 Cults"]
+tags: [note, stub-fixed]
+---
 
-*Cults*
+# Fac00039 Cults 40
+
+## Content
+Content to be added.
+
+## Related
+- [[Related content]]
+
+## Notes
+*Stub file automatically populated*
 
 ---
-*ID: FAC00039*
+*Note: This content develops through gameplay and campaign events.*

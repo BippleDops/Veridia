@@ -234,3 +234,7 @@ Mentioned in The First Prophecy of Shadows
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[Assets Locations Location City Deep Compressmaster Deep Compressmaster.svg]]

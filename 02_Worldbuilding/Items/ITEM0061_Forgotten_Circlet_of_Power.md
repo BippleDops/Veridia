@@ -1,4 +1,5 @@
 ---
+aliases: ["Forgotten Circlet of Power", "forgotten circlet of power", "Power of Circlet Forgotten"]
 tags: [generated]
 id: ITEM0061
 created: 2025-08-15T04:09:51.098Z
@@ -19,8 +20,6 @@ Crafted from mithril with ancient symbols, in recently restored. It emanates a f
 
 ## Quirk
 *Changes color with user's mood*
-
-
 
 ## History
 This item was stolen from a dragon's hoard millennia ago. It has passed through many hands, each leaving their mark upon its destiny.

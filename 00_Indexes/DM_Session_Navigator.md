@@ -125,7 +125,6 @@ SORT priority DESC
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Alternate Descriptions
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination

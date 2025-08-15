@@ -135,3 +135,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[MASTER_VAULT_INDEX]]
+- [[README]]
+- [[Queen Seraphina Lumengarde (D&D_References)]]
+- [[Topic Matrix]]
+- [[Topic_Matrix (Indexes)]]

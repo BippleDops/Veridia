@@ -50,7 +50,7 @@ updated: '2025-08-13T01:18:34.465666+00:00'
 **Duration:** 4-6 sessions  
 **Threat:** Critical trade route under threat from multiple hostile forces
 
-**Connected Locations:** [[Pearl Harbor City|02 Worldbuilding/Places/Pearl Harbor City]], [[The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]], [[Surface Portal Alpha|02 Worldbuilding/Places/Surface Portal Alpha]]  
+**Connected Locations:** [[Pearl_Harbor_City|02 Worldbuilding/Places/Pearl Harbor City]], [[The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]], [[Surface Portal Alpha|02 Worldbuilding/Places/Surface Portal Alpha]]  
 **Related Groups:** [[Merchant's Covet|02 Worldbuilding/Groups/Merchant's Covet]], [[Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]], [[The Crown Authority|02 Worldbuilding/Groups/The Crown Authority]]  
 **Key Themes:** Frontier life, trade diplomacy, border security, resource competition, wilderness survival
 

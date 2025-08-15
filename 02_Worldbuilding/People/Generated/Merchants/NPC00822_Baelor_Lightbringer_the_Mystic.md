@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Lightbringer the Mystic", "baelor lightbringer the mystic", "Baelor Lightbringer Mystic", "Mystic the Lightbringer Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Lightbringer the Mystic
 
 *Firbolg Shopkeeper (Merchants), Age 40, Non-binary*
@@ -42,31 +48,25 @@ Inherited a failing business and turned it around They've been marked by a secre
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
 
-
 ### Dara Underhill the Lost (Political - Puppet)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ### Jorah Xendar the Lost (Criminal - Accomplice)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Cedric Xendar the Mystic (Political - Spy)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ### Orion Xendar the Mystic (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Ewan Oakenshield the Seeker (Professional - Rival)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Running a cult from their basement

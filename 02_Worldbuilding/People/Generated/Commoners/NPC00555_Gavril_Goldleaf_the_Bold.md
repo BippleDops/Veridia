@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Goldleaf the Bold", "gavril goldleaf the bold", "Gavril Goldleaf Bold", "Bold the Goldleaf Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Goldleaf the Bold
 
 *Aasimar Baker (Commoners), Age 77, Male*
@@ -13,7 +19,6 @@
 Average height and wiry, with Dreadlocks black hair and Violet eyes. Unusual hue skin. Gold tooth that glints when smiling.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Incredibly optimistic despite evidence; Constantly quotes ancient texts
@@ -35,7 +40,6 @@ Family has worked the same trade for generations, but times are changing They've
 ### Goals
 - **Short Term**: Complete current contract
 - **Long Term**: Gain ultimate power
-
 
 ## Relationships
 ### Malakai Zephyrblade the Broken (Political - Patron)

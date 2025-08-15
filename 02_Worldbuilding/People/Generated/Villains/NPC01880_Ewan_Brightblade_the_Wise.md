@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Brightblade the Wise", "ewan brightblade the wise", "Ewan Brightblade Wise", "Wise the Brightblade Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Brightblade the Wise
 
 *Halfling Corrupt Noble (Villains), Age 49, Non-binary*
@@ -13,7 +19,6 @@
 Short and muscular, with Shaved black hair and Violet eyes. Weathered skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Extremely superstitious about everything; Incredibly optimistic despite evidence
@@ -36,22 +41,18 @@ Born into evil but questioning their path They've been marked by a secret societ
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Ewan Hawthorne the Scholar (Professional - Mentor)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
 
-
 ### Gavril Jadeclaw the Cunning (Professional - Mentor)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Lyanna Voidwalker the Bold (Professional - Mentor)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Knows how the world will end

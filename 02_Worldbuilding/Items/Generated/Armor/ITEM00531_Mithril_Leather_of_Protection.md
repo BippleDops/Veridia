@@ -1,3 +1,9 @@
+---
+aliases: ["Mithril Leather of Protection", "mithril leather of protection", "Protection of Leather Mithril"]
+tags: [item, equipment]
+type: item
+---
+
 # Mithril Leather of Protection
 
 *Armor, Common*
@@ -13,8 +19,6 @@ A mithril leather crafted from exotic materials
 ## Properties
 - Grants swimming speed
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -29,7 +33,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.391Z*

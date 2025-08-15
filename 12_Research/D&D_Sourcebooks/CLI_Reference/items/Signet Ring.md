@@ -92,3 +92,12 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[NPC00042_Vesper_Grimholt]]
+- [[Master_Item_Catalog]]
+- [[Noble Retainers Variant]]
+- [[noble-retainers-variant (backgrounds)]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

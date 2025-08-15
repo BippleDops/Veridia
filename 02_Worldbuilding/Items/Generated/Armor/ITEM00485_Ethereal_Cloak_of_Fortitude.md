@@ -1,3 +1,9 @@
+---
+aliases: ["Ethereal Cloak of Fortitude", "ethereal cloak of fortitude", "Fortitude of Cloak Ethereal"]
+tags: [item, equipment]
+type: item
+---
+
 # Ethereal Cloak of Fortitude
 
 *Armor, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A ethereal cloak crafted from exotic materials
 - Grants swimming speed
 - Advantage on saving throws
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -31,7 +35,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.386Z*

@@ -119,3 +119,19 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A merchant needs help investigating before winter
 - Someone is blackmailing information for love
+
+## References
+
+- [[Hunter Shark Xmm]]
+- [[2 Appendix a Miscellaneous Creatures]]
+- [[2-appendix-a-miscellaneous-creatures (monster-manual-2014)]]
+- [[3 Animals]]
+- [[3-animals (monster-manual-2025)]]
+- [[Monsters by Habitat Underwater Monsters Xmm]]
+- [[Undersea Encounters]]
+- [[Underwater Encounters Levels 14 Xge]]
+- [[Underwater Encounters Levels 510 Xge]]
+- [[monsters-by-habitat-underwater-monsters-xmm (tables)]]
+- [[undersea-encounters (tables)]]
+- [[underwater-encounters-levels-14-xge (tables)]]
+- [[underwater-encounters-levels-510-xge (tables)]]

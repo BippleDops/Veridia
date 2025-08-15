@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Winterborn the Broken", "alaric winterborn the broken", "Alaric Winterborn Broken", "Broken the Winterborn Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Winterborn the Broken
 
 *Gnome Blacksmith (Commoners), Age 50, Female*
@@ -36,12 +42,10 @@ Grew up in poverty but discovered a talent that might change everything They rec
 - **Short Term**: Make this month's payment
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Pyria Zephyrblade (Political - Patron)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
-
 
 ### Nerys Dawnstrider the Scholar (Personal - Best friend)
 - **Status**: Strong and trusting

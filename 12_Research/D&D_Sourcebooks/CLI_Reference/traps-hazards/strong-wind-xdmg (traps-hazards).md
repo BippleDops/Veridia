@@ -63,3 +63,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Devastation Orb of Air Pota]]
+- [[devastation-orb-of-air-pota (items)]]

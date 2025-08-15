@@ -118,3 +118,7 @@ improvements: 20
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[02_Worldbuilding_Equipment_Cellular_Shadow_Trackers]]

@@ -77,3 +77,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Strange disappearances suggest ancient magic
 - A shipment has gone missing and chaos spreads
 - Someone is protecting a artifact for revenge
+
+## References
+
+- [[Master_Item_Catalog]]

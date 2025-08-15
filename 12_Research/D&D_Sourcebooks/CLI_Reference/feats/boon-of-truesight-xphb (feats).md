@@ -73,3 +73,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[senses#Truesight]]
+- [[06 Chapter 5 Feats]]
+- [[06-chapter-5-feats (players-handbook-2024)]]
+- [[Paladin Xphb]]
+- [[paladin-xphb (classes)]]
+- [[Repeatable Feat List Xphb]]
+- [[repeatable-feat-list-xphb (tables)]]

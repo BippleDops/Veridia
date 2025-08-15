@@ -65,3 +65,8 @@ Mentioned in The Second Prophecy of Stars
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[The Breathing Stone]]
+- [[The Breathing Stone (D&D_References)]]

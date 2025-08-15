@@ -75,3 +75,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A prisoner has gone missing and evil awakens
 - A noble needs help finding before dawn
 - Someone is protecting a witness for power
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Wraps of Unarmed Power Xdmg]]
+- [[wraps-of-unarmed-power-xdmg (items)]]
+- [[Armaments Very Rare Xdmg]]
+- [[Random Magic Items Armaments]]
+- [[armaments-very-rare-xdmg (tables)]]
+- [[random-magic-items-armaments (tables)]]

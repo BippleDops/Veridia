@@ -1,3 +1,9 @@
+---
+aliases: ["Practical Tool Kit of Convenience", "practical tool kit of convenience", "Convenience of Kit Tool Practical"]
+tags: [item, equipment]
+type: item
+---
+
 # Practical Tool Kit of Convenience
 
 *Mundane, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A practical tool kit showing signs of age
 - Functions in antimagic
 - Functions in antimagic
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -30,7 +34,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.478Z*

@@ -91,3 +91,8 @@ improvements: 20
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Creatures Void Entities]]
+- [[The Void Tears]]

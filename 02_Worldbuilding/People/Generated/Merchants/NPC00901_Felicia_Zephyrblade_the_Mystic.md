@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Zephyrblade the Mystic", "felicia zephyrblade the mystic", "Felicia Zephyrblade Mystic", "Mystic the Zephyrblade Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Zephyrblade the Mystic
 
 *Elf Broker (Merchants), Age 41, Male*
@@ -36,12 +42,10 @@ Built their business from nothing through cunning and hard work An old debt has 
 - **Short Term**: Complete current contract
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Zephyr Zephyrblade the Bold (Professional - Employer)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ### Delara Voidwalker the Bold (Professional - Mentor)
 - **Status**: Strong and trusting
@@ -52,11 +56,9 @@ Built their business from nothing through cunning and hard work An old debt has 
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
 
-
 ### Hestara Jadeclaw the Broken (Criminal - Informant)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Is actually a spy for foreign power

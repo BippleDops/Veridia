@@ -77,3 +77,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A map reveals ancient history about a local noble
 - Strange accidents suggest a conspiracy
 - Strange dreams suggest ancient magic
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

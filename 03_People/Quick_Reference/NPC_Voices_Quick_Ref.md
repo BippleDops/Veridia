@@ -25,3 +25,7 @@ type: npc
 
 ---
 *Quick reference for [[NPC_Voices_Quick_Ref]]*
+
+## References
+
+- [[Bookmark_Collections]]

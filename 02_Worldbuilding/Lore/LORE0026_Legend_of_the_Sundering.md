@@ -1,4 +1,5 @@
 ---
+aliases: ["Legend of the Sundering", "legend of the sundering", "Legend of Sundering", "Sundering the of Legend"]
 tags: [generated]
 id: LORE0026_Legend_of_the_Sundering
 created: 2025-08-15T04:09:51.134Z

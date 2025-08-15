@@ -36,12 +36,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-lady-vivienne-thornwhisper-lady-vivienne-thornwhisper.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -184,7 +182,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Member of House Serpentblood - Trait: magical affinity
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -254,3 +251,9 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Portraits Portrait NPC Lady Seraphina Goldleaf Lady Seraphina Goldleaf.svg]]
+- [[Lady Vivienne the Unfrozen]]
+- [[Lady Vivienne the Unfrozen (D&D_References)]]

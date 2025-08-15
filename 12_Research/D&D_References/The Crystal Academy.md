@@ -51,3 +51,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[Harbor District Customs House]]
+- [[Crystal Garden (D&D_References)]]
+- [[Crystal Garden 3 (D&D_References)]]
+- [[Crystalhaven (D&D_References)]]
+- [[Harbor District Customs House (D&D_References)]]
+- [[The Crystal Wardens (D&D_References)]]

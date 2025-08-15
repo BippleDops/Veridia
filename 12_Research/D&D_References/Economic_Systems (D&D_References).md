@@ -54,3 +54,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A prisoner has gone missing and chaos spreads
 - Strange sightings suggest ancient magic
 - A noble needs help stealing before the festival
+
+## References
+
+- [[Consequence Chain 2 - Crystal Trade Disruption]]
+- [[Economic System Rules (02_Worldbuilding)]]

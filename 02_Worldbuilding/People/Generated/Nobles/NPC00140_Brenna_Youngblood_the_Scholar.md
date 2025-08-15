@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Youngblood the Scholar", "brenna youngblood the scholar", "Brenna Youngblood Scholar", "Scholar the Youngblood Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Youngblood the Scholar
 
 *Dragonborn Ambassador (Nobles), Age 58, Female*
@@ -36,17 +42,14 @@ Secretly adopted into nobility, living in fear of discovery Strange abilities ha
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Malakai Thornweave the Strong (Family - Cousin)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Zephyr Voidwalker the Seeker (Personal - Nemesis)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ### Branwen Youngblood the Fallen (Professional - Employee)
 - **Status**: Professional only

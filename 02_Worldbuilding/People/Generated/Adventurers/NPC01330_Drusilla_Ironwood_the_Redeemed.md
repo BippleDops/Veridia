@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Ironwood the Redeemed", "drusilla ironwood the redeemed", "Drusilla Ironwood Redeemed", "Redeemed the Ironwood Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Ironwood the Redeemed
 
 *Halfling Ranger (Adventurers), Age 58, Non-binary*
@@ -36,22 +42,18 @@ Chosen by fate to fulfill an ancient prophecy They've fallen in love with someon
 - **Short Term**: Find missing person
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Delara Ashford the Wanderer (Criminal - Handler)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Branwen Moonshadow the Bold (Personal - Ex-lover)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Kaelen Emberfall the Bold (Political - Opposition)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Possessed by ancient spirit

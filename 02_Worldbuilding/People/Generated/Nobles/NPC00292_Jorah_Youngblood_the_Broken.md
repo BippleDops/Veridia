@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Youngblood the Broken", "jorah youngblood the broken", "Jorah Youngblood Broken", "Broken the Youngblood Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Youngblood the Broken
 
 *Dwarf Ambassador (Nobles), Age 67, Male*
@@ -52,7 +58,6 @@ Exiled from their homeland, trying to rebuild their power base They've fallen in
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
 
-
 ### Drusilla Quicksilver the Lost (Political - Spy)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
@@ -61,7 +66,6 @@ Exiled from their homeland, trying to rebuild their power base They've fallen in
 ### Solas Zephyrblade (Personal - Best friend)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

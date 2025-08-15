@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Xendar the Broken", "lyanna xendar the broken", "Lyanna Xendar Broken", "Broken the Xendar Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Xendar the Broken
 
 *Elf Farmer (Commoners), Age 29, Non-binary*
@@ -36,12 +42,10 @@ Runaway from an arranged marriage, starting a new life They've fallen in love wi
 - **Short Term**: Survive until next week
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Solas Ashford the Risen (Criminal - Fence)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
-
 
 ### Gareth Ravenheart the Guardian (Political - Opposition)
 - **Status**: Complicated history
@@ -52,11 +56,9 @@ Runaway from an arranged marriage, starting a new life They've fallen in love wi
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
 
-
 ### Nerys Oakenshield the Guardian (Family - Child)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Can hear the thoughts of others

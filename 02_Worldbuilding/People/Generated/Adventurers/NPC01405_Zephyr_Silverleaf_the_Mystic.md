@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Silverleaf the Mystic", "zephyr silverleaf the mystic", "Zephyr Silverleaf Mystic", "Mystic the Silverleaf Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Silverleaf the Mystic
 
 *Elf Fighter (Adventurers), Age 26, Female*
@@ -36,17 +42,14 @@ Chosen by fate to fulfill an ancient prophecy They've been marked by a secret so
 - **Short Term**: Avoid the authorities
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Drusilla Grimholt the Redeemed (Family - Child)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Zephyr Hawthorne the Cunning (Professional - Rival)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ### Qadim Brightblade the Lost (Criminal - Target)
 - **Status**: Secretly hostile

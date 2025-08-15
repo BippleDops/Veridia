@@ -1,4 +1,5 @@
 ---
+aliases: ["Eldritch Tome of the Dawn", "eldritch tome of the dawn", "Eldritch Tome of Dawn", "Dawn the of Tome Eldritch"]
 tags: [generated]
 id: ITEM0100
 created: 2025-08-15T04:09:51.109Z
@@ -19,8 +20,6 @@ Crafted from crystal with glowing gems, in recently restored. It emanates a fain
 
 ## Quirk
 *Whispers names of previous owners*
-
-
 
 ## History
 This item was hidden away by its last owner centuries ago. It has passed through many hands, each leaving their mark upon its destiny.

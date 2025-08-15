@@ -1,3 +1,9 @@
+---
+aliases: ["Pure Herb of Clarity", "pure herb of clarity", "Clarity of Herb Pure"]
+tags: [item, equipment]
+type: item
+---
+
 # Pure Herb of Clarity
 
 *Consumables, Rare*
@@ -15,8 +21,6 @@ A pure herb swirling with colors
 - Restore 4d4+4 hit points
 - Remove one condition
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -31,7 +35,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.440Z*

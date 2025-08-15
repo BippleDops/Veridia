@@ -1,3 +1,9 @@
+---
+aliases: ["Frost Spear of the Ancients", "frost spear of the ancients", "Frost Spear of Ancients", "Ancients the of Spear Frost"]
+tags: [item, equipment]
+type: item
+---
+
 # Frost Spear of the Ancients
 
 *Weapons, Uncommon (requires attunement)*

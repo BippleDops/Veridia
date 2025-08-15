@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Voidwalker the Redeemed", "idris voidwalker the redeemed", "Idris Voidwalker Redeemed", "Redeemed the Voidwalker Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Voidwalker the Redeemed
 
 *Half-Elf Assassin (Villains), Age 29, Non-binary*
@@ -13,7 +19,6 @@
 Very tall and heavyset, with Shaved blonde hair and Red eyes. Unusual hue skin. Prominent scar across the face.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Never backs down from any challenge; Sees doom and gloom everywhere
@@ -36,22 +41,18 @@ Driven mad by knowledge humanity wasn't meant to know They've fallen in love wit
 - **Short Term**: Complete current contract
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Delara Voidwalker the Guardian (Political - Puppet)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
 
-
 ### Gavril Moonshadow the Fallen (Criminal - Informant)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
 
-
 ### Corvus Ashford the Broken (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Believes they're saving the world

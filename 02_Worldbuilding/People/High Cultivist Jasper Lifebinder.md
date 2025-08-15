@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-high-cultivist-jasper-lifebinder-high-cultivist-jasper-lifebinder.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -253,7 +251,6 @@ Mentioned in The Hidden Prophecy of Depths
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -289,3 +286,11 @@ Mentioned in The Hidden Prophecy of Depths
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Quest - The Diplomatic Immunity Case]]
+- [[Quest - The Diplomatic Immunity Case_1 (01_Adventures)]]
+- [[Assets Portraits Portrait NPC Lord Aldric Highwind Lord Aldric Highwind.svg]]
+- [[Lumengarde]]
+- [[Lumengarde (D&D_References)]]

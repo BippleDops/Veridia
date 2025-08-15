@@ -1,3 +1,9 @@
+---
+aliases: ["Shadow Axe of Accuracy", "shadow axe of accuracy", "Accuracy of Axe Shadow"]
+tags: [item, equipment]
+type: item
+---
+
 # Shadow Axe of Accuracy
 
 *Weapons, Very Rare*

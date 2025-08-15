@@ -76,3 +76,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Alchemists Supplies Xphb]]
+- [[alchemists-supplies-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

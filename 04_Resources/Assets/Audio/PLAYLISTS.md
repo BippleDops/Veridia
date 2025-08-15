@@ -1,3 +1,8 @@
+---
+tags: [misc]
+type: misc
+---
+
 # TTRPG Music Playlists
 
 Generated: 2025-08-15T02:32:26.769Z

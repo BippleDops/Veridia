@@ -1,6 +1,5 @@
 ---
 
-
 title: 02_Worldbuilding/Quests/Quest - The Convergence Crisis
 type: adventure
 tags:
@@ -18,13 +17,10 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
-
 
 ## Objectives
 ### Primary
@@ -186,7 +182,6 @@ An exciting quest that challenges heroes to prevent disaster.
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Hooks
 - **Personal**: Character connection

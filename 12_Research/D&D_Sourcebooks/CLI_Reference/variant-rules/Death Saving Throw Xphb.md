@@ -89,3 +89,38 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]
+- [[Fighter Xphb Champion Xphb]]
+- [[Warlock Xphb Celestial Patron Xphb]]
+- [[fighter-xphb-champion-xphb (classes)]]
+- [[warlock-xphb-celestial-patron-xphb (classes)]]
+- [[conditions (CLI_Reference)]]
+- [[Periapt of Wound Closure Xdmg]]
+- [[periapt-of-wound-closure-xdmg (items)]]
+- [[senses]]
+- [[Shadowfell Despair Xdmg]]
+- [[shadowfell-despair-xdmg (tables)]]
+- [[Malnutrition Xphb]]
+- [[malnutrition-xphb (traps-hazards)]]
+- [[Cover Xphb (variant-rules)]]
+- [[D20 Test Xphb]]
+- [[Difficulty Class Xphb]]
+- [[Proficiency Xphb]]
+- [[Save Xphb]]
+- [[Stable Xphb]]
+- [[Stat Block Xphb]]
+- [[Target Xphb]]
+- [[Unarmed Strike Xphb]]
+- [[cover-xphb (variant-rules)]]
+- [[d20-test-xphb (variant-rules)]]
+- [[difficulty-class-xphb (variant-rules)]]
+- [[proficiency-xphb (variant-rules)]]
+- [[save-xphb (variant-rules)]]
+- [[stable-xphb (variant-rules)]]
+- [[stat-block-xphb (variant-rules)]]
+- [[target-xphb (variant-rules)]]
+- [[unarmed-strike-xphb (variant-rules)]]

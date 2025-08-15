@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Jadeclaw the Broken", "alaric jadeclaw the broken", "Alaric Jadeclaw Broken", "Broken the Jadeclaw Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Jadeclaw the Broken
 
 *Human Trader (Merchants), Age 66, Non-binary*
@@ -36,12 +42,10 @@ Former adventurer who retired to open a shop A family member's death has left th
 - **Short Term**: Gather information
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Qadim Brightblade the Risen (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ### Alaric Oakenshield the Strong (Political - Patron)
 - **Status**: Recently reconciled
@@ -51,7 +55,6 @@ Former adventurer who retired to open a shop A family member's death has left th
 ### Erasmus Ironwood the Scholar (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Sells information to all sides

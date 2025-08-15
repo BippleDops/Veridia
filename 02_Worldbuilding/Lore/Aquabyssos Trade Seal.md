@@ -30,8 +30,8 @@ danger_level: 3
 related_entities:
 - '[[Parliament of Echoes]]'
 - '[[Thalassius the Wise]]'
-- '[[The [[Seven Shards]]]]'
-- '[[[[Silverscale Banking House]]|[[02 Worldbuilding]]/[[Groups]]/Silverscale Banking House]]'
+- '[[Seven Shards|The [[Seven Shards]]]]'
+- '[[Silverscale Banking House|[[Silverscale Banking House]]|[[02_Worldbuilding|02 Worldbuilding]]/[[Groups]]/Silverscale Banking House]]'
 updated: '2025-08-13T12:34:16.203982+00:00'
 world: Aquabyssos
 evaluated: '2025-08-14'
@@ -56,7 +56,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -104,7 +104,7 @@ The Seal's importance extends far beyond mere bureaucratic function—it represe
 
 ### The Seal Itself
 
-The Aquabyssos Trade Seal measures approximately eight inches in diameter and three inches thick, carved from a single piece of deep-sea obsidian infused with crushed pearls from the [[[[Leviathan]] Graveyard]]. The obsidian base appears almost black in most lighting but reveals deep blue-green veins when exposed to magical illumination, creating patterns that seem to flow like deep ocean currents.
+The Aquabyssos Trade Seal measures approximately eight inches in diameter and three inches thick, carved from a single piece of deep-sea obsidian infused with crushed pearls from the [[Leviathan|[[Leviathan]] Graveyard]]. The obsidian base appears almost black in most lighting but reveals deep blue-green veins when exposed to magical illumination, creating patterns that seem to flow like deep ocean currents.
 
 The Seal's face bears an intricate design that changes subtly each [[Time]] it's used, incorporating elements that cannot be predetermined or copied:
 
@@ -358,7 +358,7 @@ Research reveals that the Trade Seal contains fragments of [[The Seven Shards]],
 **Associated Phenomena**:
 - [[Reality Anchoring]]
 - [[Authenticity Verification]]
-- [[[[Magical Authenticatio]]n]]
+- [[Magical Authenticatio|[[Magical Authenticatio]]n]]
 - [[Governmental Legitimacy]]
 
 ## Player-Facing Summary
@@ -369,7 +369,7 @@ Aquabyssos Trade Seal is a undersea element of the setting, known for biolumines
 
 Legends speak of Aquabyssos Trade Seal as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aquabyssos Trade Seal.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -405,3 +405,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[Aethermoor - Session 04 The Silverscale Gambit]]

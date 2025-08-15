@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Youngblood the Swift", "cedric youngblood the swift", "Cedric Youngblood Swift", "Swift the Youngblood Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Youngblood the Swift
 
 *Gnome Courtier (Nobles), Age 47, Male*
@@ -36,22 +42,18 @@ Exiled from their homeland, trying to rebuild their power base They've fallen in
 - **Short Term**: Sabotage competition
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Qadim Grimholt the Lost (Political - Spy)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Elric Crystalbrook the Lost (Criminal - Accomplice)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Erasmus Nightfall (Personal - Love interest)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
-
 
 ### Ysara Emberfall the Seeker (Personal - Nemesis)
 - **Status**: Complicated history
@@ -62,11 +64,9 @@ Exiled from their homeland, trying to rebuild their power base They've fallen in
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Idris Crystalbrook the Seeker (Political - Patron)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Secretly funding the rebellion

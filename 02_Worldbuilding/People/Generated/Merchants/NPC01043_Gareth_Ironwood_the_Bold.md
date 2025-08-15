@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Ironwood the Bold", "gareth ironwood the bold", "Gareth Ironwood Bold", "Bold the Ironwood Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Ironwood the Bold
 
 *Half-Elf Appraiser (Merchants), Age 72, Male*
@@ -36,12 +42,10 @@ Inherited a failing business and turned it around Strange abilities have begun m
 - **Short Term**: Make this month's payment
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Hilda Ironwood the Risen (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ### Ysara Silverleaf the Strong (Political - Spy)
 - **Status**: Blood oath bound
@@ -52,11 +56,9 @@ Inherited a failing business and turned it around Strange abilities have begun m
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Elric Blackstone the Broken (Personal - Childhood friend)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Killed previous business owner

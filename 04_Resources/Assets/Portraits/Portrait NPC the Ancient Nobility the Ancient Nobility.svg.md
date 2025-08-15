@@ -135,3 +135,7 @@ improvements: 20
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Assets Locations Location City Harbor Master Captain Dockwise V1 Harbor Master Captain Dockwise.svg]]

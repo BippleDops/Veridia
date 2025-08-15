@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Xendar the Lost", "rhiannon xendar the lost", "Rhiannon Xendar Lost", "Lost the Xendar Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Xendar the Lost
 
 *Goliath Appraiser (Merchants), Age 31, Non-binary*
@@ -36,12 +42,10 @@ Former adventurer who retired to open a shop They've been marked by a secret soc
 - **Short Term**: Sabotage competition
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Qadim Dawnstrider the Cunning (Professional - Partner)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ### Branwen Emberfall the Fallen (Professional - Employee)
 - **Status**: Blood oath bound
@@ -52,21 +56,17 @@ Former adventurer who retired to open a shop They've been marked by a secret soc
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
 
-
 ### Thalia Voidwalker the Redeemed (Family - Cousin)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ### Kaelen Darkwater the Guardian (Family - Parent)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Lyanna Brightblade the Mystic (Family - Spouse)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Sells information to all sides

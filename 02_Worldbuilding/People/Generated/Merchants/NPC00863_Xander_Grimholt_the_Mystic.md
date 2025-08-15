@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Grimholt the Mystic", "xander grimholt the mystic", "Xander Grimholt Mystic", "Mystic the Grimholt Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Grimholt the Mystic
 
 *Goliath Broker (Merchants), Age 42, Non-binary*
@@ -36,7 +42,6 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 - **Short Term**: Survive until next week
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Baelor Stormwind the Guardian (Personal - Ex-lover)
 - **Status**: Professional only
@@ -47,7 +52,6 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Brenna Lightbringer the Bold (Criminal - Fence)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
@@ -57,7 +61,6 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
 
-
 ### Erasmus Youngblood the Broken (Criminal - Accomplice)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
@@ -66,7 +69,6 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 ### Felicia Oakenshield the Swift (Professional - Employee)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Running a cult from their basement

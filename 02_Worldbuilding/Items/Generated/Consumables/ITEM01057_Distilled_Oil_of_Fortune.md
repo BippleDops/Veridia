@@ -1,3 +1,9 @@
+---
+aliases: ["Distilled Oil of Fortune", "distilled oil of fortune", "Fortune of Oil Distilled"]
+tags: [item, equipment]
+type: item
+---
+
 # Distilled Oil of Fortune
 
 *Consumables, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A distilled oil swirling with colors
 - Grant advantage for 1 hour
 - Restore 4d4+4 hit points
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -30,7 +34,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.452Z*

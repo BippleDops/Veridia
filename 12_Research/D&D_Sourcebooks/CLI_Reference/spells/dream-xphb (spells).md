@@ -95,7 +95,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -108,3 +107,21 @@ Contextual improvement based on 12_Research
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Couatl Xmm]]
+- [[couatl-xmm (celestial)]]
+- [[Adult Gold Dragon Xmm]]
+- [[Ancient Gold Dragon Xmm]]
+- [[adult-gold-dragon-xmm (dragon)]]
+- [[ancient-gold-dragon-xmm (dragon)]]
+- [[Incubus Xmm]]
+- [[Night Hag Xmm]]
+- [[incubus-xmm (fiend)]]
+- [[night-hag-xmm (fiend)]]
+- [[Gold Dragon Xmm]]
+- [[gold-dragon-xmm (legendary-group)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]

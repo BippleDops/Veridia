@@ -11,7 +11,7 @@ created: '2025-01-15'
 
 ## Portrait
 
-![[portrait_04_resources_assets_portraits_portrait-npc-merchant-captain-trade-merchant-captain-trade.svg.png]]
+![[04_Resources|portrait_04_resources_assets_portraits_portrait-npc-merchant-captain-trade-merchant-captain-trade.svg.png]]
 
 *Portrait reference for 04_Resources_Assets_Portraits_portrait-npc-merchant-captain-trade-merchant-captain-trade.svg*
 
@@ -75,3 +75,8 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+## References
+
+- [[Assets Portraits Portrait NPC Lord Chancellor Prism Lord Chancellor Prism.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-merchant-captain-trade-merchant-captain-trade.svg_Quick_Ref]]

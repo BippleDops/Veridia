@@ -108,3 +108,26 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Arcana Legendary Xdmg]]
+- [[Arcana Very Rare Xdmg]]
+- [[Armaments Rare Xdmg]]
+- [[Armaments Very Rare Xdmg]]
+- [[Implements Very Rare Xdmg]]
+- [[Random Magic Items Arcana]]
+- [[Random Magic Items Armaments]]
+- [[Random Magic Items Implements]]
+- [[Random Magic Items Relics]]
+- [[Relics Rare Xdmg]]
+- [[arcana-legendary-xdmg (tables)]]
+- [[arcana-very-rare-xdmg (tables)]]
+- [[armaments-rare-xdmg (tables)]]
+- [[armaments-very-rare-xdmg (tables)]]
+- [[implements-very-rare-xdmg (tables)]]
+- [[random-magic-items-arcana (tables)]]
+- [[random-magic-items-armaments (tables)]]
+- [[random-magic-items-implements (tables)]]
+- [[random-magic-items-relics (tables)]]
+- [[relics-rare-xdmg (tables)]]

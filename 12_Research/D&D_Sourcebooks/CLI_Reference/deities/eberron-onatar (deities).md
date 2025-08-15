@@ -80,3 +80,14 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Cleric Xphb Forge Domain Xge]]
+- [[Cleric Xphb Knowledge Domain]]
+- [[cleric-xphb-forge-domain-xge (classes)]]
+- [[cleric-xphb-forge-domain-xge 2 (classes)]]
+- [[cleric-xphb-knowledge-domain (classes)]]
+- [[cleric-xphb-knowledge-domain 2 (classes)]]
+- [[Deities of Eberron]]
+- [[deities-of-eberron (tables)]]

@@ -1,11 +1,11 @@
 ---
+aliases: ["Tara Ironforge", "tara ironforge", "Ironforge Tara"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -77,8 +77,6 @@ Former soldier who left after a traumatic battle. Years ago, they lost everythin
 ### Skills
 Athletics, Insight, Persuasion
 
-
-
 ## Possessions
 - 91 gold pieces
 - Lucky dice
@@ -90,7 +88,6 @@ Athletics, Insight, Persuasion
 
 ---
 *Generated: 2025-08-15T03:20:13.078Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

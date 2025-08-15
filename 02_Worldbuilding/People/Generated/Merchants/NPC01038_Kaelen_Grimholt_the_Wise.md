@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Grimholt the Wise", "kaelen grimholt the wise", "Kaelen Grimholt Wise", "Wise the Grimholt Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Grimholt the Wise
 
 *Tabaxi Appraiser (Merchants), Age 45, Non-binary*
@@ -36,12 +42,10 @@ Built their business from nothing through cunning and hard work They've fallen i
 - **Short Term**: Sabotage competition
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Xander Silverleaf the Seeker (Professional - Rival)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ### Gavril Voidwalker the Wanderer (Political - Ally)
 - **Status**: Blood oath bound
@@ -52,16 +56,13 @@ Built their business from nothing through cunning and hard work They've fallen i
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Urien Zephyrblade the Bold (Professional - Rival)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Drusilla Underhill the Strong (Political - Opposition)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Is actually a spy for foreign power

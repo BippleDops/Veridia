@@ -64,7 +64,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -214,7 +214,7 @@ Gladiatorial combatant who wielded the weapon in arena competitions and exhibiti
 **Weapon's Assessment**: "Understood that fighting is also performance art"
 
 **General Autumn Bloodcurrent** (89-76 years ago)
-The weapon's most recent wielder, who used it during the [[[[Depth Warden]]s]]' campaign against underground threats. The partnership ended when political considerations required the weapon's return to secure storage.
+The weapon's most recent wielder, who used it during the [[Depth Warden|[[Depth Warden]]s]]' campaign against underground threats. The partnership ended when political considerations required the weapon's return to secure storage.
 
 **Battle Record**: 34 engagements against various subterranean threats
 **Partnership Duration**: 13 years
@@ -585,7 +585,7 @@ Legends speak of The Living Weapon as a nexus where past and present converge. L
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -609,13 +609,11 @@ The Living Weapon is a notable location characterized by its unique features and
 ### Founding
 The Living Weapon was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -623,13 +621,11 @@ The Living Weapon was established in the distant past, growing from humble begin
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -658,7 +654,6 @@ Ongoing situations affecting The Living Weapon:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions

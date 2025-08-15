@@ -34,7 +34,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-watch-captain-roderick-shieldbreaker-v1-watch-captain-roderick-shieldbreaker.svg)
 
@@ -263,7 +262,6 @@ Member of House Dragonblood - Trait: prophecy
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -299,3 +297,11 @@ Member of House Dragonblood - Trait: prophecy
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Art Retired Captain Bron Saltbeard.png]]
+- [[Assets Locations Location City Forge Master Petra Hammerdeep Forge Master Petra Hammerdeep.svg]]
+- [[Assets Locations Location City Surge Mixmaster Surge Mixmaster.png]]
+- [[Assets Symbols Symbol Heraldry Magical Component Manufacturers Guil Magical Component Manufacturers Guil.svg]]
+- [[Assets Symbols Symbol Heraldry Void Echo Silence Deafmake V1 Void Echo Silence Deafmake.svg]]

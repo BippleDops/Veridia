@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Underhill the Scholar", "zephyr underhill the scholar", "Zephyr Underhill Scholar", "Scholar the Underhill Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Underhill the Scholar
 
 *Goliath Cleric (Adventurers), Age 59, Non-binary*
@@ -36,7 +42,6 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 - **Short Term**: Make this month's payment
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Hestara Crystalbrook the Broken (Personal - Nemesis)
 - **Status**: Professional only
@@ -47,16 +52,13 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Fiora Silverleaf the Redeemed (Family - Cousin)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Erasmus Blackstone the Wise (Personal - Nemesis)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Possessed by ancient spirit

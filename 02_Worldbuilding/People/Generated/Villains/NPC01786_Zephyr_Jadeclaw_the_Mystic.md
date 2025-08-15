@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Jadeclaw the Mystic", "zephyr jadeclaw the mystic", "Zephyr Jadeclaw Mystic", "Mystic the Jadeclaw Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Jadeclaw the Mystic
 
 *Firbolg Cultist (Villains), Age 40, Non-binary*
@@ -36,7 +42,6 @@ Betrayed by those they trusted, now seeking revenge on the world A family member
 - **Short Term**: Gather information
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Corvus Emberfall the Bold (Criminal - Target)
 - **Status**: On the verge of collapse
@@ -52,16 +57,13 @@ Betrayed by those they trusted, now seeking revenge on the world A family member
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
 
-
 ### Gavril Crystalbrook the Risen (Professional - Employee)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Nerys Grimholt the Seeker (Personal - Childhood friend)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Is being controlled by darker force

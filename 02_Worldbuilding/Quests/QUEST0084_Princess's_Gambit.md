@@ -1,4 +1,5 @@
 ---
+aliases: ["Princess's Gambit", "princess's gambit", "Gambit Princess's"]
 tags: [generated]
 id: QUEST0084
 created: 2025-08-15T04:09:51.412Z
@@ -22,8 +23,6 @@ Broker peace between the merchant guild and the thieves guild
 ### Secondary
 - Rescue any prisoners found
 - Gather intelligence on enemy plans
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they survived a plague that killed their family, which changed their life forever. Now, circumstances demand immediate action.

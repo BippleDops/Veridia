@@ -1,3 +1,9 @@
+---
+aliases: ["Superior Salve of Vigor", "superior salve of vigor", "Vigor of Salve Superior"]
+tags: [item, equipment]
+type: item
+---
+
 # Superior Salve of Vigor
 
 *Consumables, Common*
@@ -13,8 +19,6 @@ A superior salve swirling with colors
 ## Properties
 - Remove one condition
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -29,7 +33,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.438Z*

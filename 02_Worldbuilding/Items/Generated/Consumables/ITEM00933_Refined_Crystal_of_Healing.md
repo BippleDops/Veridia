@@ -1,3 +1,9 @@
+---
+aliases: ["Refined Crystal of Healing", "refined crystal of healing", "Healing of Crystal Refined"]
+tags: [item, equipment]
+type: item
+---
+
 # Refined Crystal of Healing
 
 *Consumables, Common*
@@ -13,8 +19,6 @@ A refined crystal glowing softly
 ## Properties
 - Fly for 1 hour
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -29,7 +33,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.439Z*

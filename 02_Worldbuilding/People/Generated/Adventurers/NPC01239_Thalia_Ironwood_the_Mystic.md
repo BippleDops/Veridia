@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Ironwood the Mystic", "thalia ironwood the mystic", "Thalia Ironwood Mystic", "Mystic the Ironwood Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Ironwood the Mystic
 
 *Dwarf Ranger (Adventurers), Age 69, Female*
@@ -42,31 +48,25 @@ Seeking vengeance for a murdered mentor An old debt has come due at the worst po
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Faelyn Xendar the Broken (Personal - Nemesis)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ### Rhiannon Hawthorne the Cunning (Professional - Employer)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
 
-
 ### Caelum Keenblade the Seeker (Personal - Nemesis)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ### Wynne Ravenheart the Risen (Personal - Nemesis)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Alaric Proudmore the Strong (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Has died and been resurrected

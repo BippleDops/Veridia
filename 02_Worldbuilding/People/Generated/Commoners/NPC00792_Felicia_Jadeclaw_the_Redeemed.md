@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Jadeclaw the Redeemed", "felicia jadeclaw the redeemed", "Felicia Jadeclaw Redeemed", "Redeemed the Jadeclaw Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Jadeclaw the Redeemed
 
 *Aasimar Fisher (Commoners), Age 42, Male*
@@ -42,26 +48,21 @@ Survivor of a disaster that destroyed their village They've fallen in love with 
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Solas Ravenheart the Wanderer (Political - Patron)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ### Hilda Goldleaf the Scholar (Family - Sibling)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
 
-
 ### Felicia Nightfall the Redeemed (Family - Sibling)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Cedric Moonshadow the Wanderer (Professional - Partner)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Witnessed a noble's crime

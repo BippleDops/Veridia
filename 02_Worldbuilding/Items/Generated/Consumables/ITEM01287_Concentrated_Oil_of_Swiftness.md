@@ -1,3 +1,9 @@
+---
+aliases: ["Concentrated Oil of Swiftness", "concentrated oil of swiftness", "Swiftness of Oil Concentrated"]
+tags: [item, equipment]
+type: item
+---
+
 # Concentrated Oil of Swiftness
 
 *Consumables, Common*

@@ -186,7 +186,7 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[04_Resources_Assets_Symbols_symbol-heraldry-quest-the-crystal-innovatio-quest-the-crystal-innovatio.svg]] (colleague)
 - [[Captain Nerida Stormcrest]] (colleague)
-- [[Sorrow Root Nightbloom]] (rival)
+- [[Portrait NPC Sorrow Root Nightbloom Sorrow Root Nightbloom.svg|Sorrow Root Nightbloom]] (rival)
 ---
 *Tags*: #npc #contact #worldbuilding
 
@@ -210,3 +210,7 @@ Member of House Dragonblood - Trait: prophecy
 - Civil war
 - Natural disasters
 - Current power structures established
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-quest-the-crystal-innovatio-quest-the-crystal-innovatio.svg]]

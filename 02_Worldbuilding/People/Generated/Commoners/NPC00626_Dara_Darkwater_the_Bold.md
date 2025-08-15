@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Darkwater the Bold", "dara darkwater the bold", "Dara Darkwater Bold", "Bold the Darkwater Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Darkwater the Bold
 
 *Gnome Farmer (Commoners), Age 19, Male*
@@ -13,7 +19,6 @@
 Below average and heavyset, with Short and neat unusual color hair and Violet eyes. Weathered skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Constantly quotes ancient texts; Never backs down from any challenge
@@ -36,7 +41,6 @@ Family has worked the same trade for generations, but times are changing They've
 - **Short Term**: Find missing person
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Gareth Crystalbrook the Fallen (Professional - Employee)
 - **Status**: One-sided affection
@@ -51,7 +55,6 @@ Family has worked the same trade for generations, but times are changing They've
 ### Malakai Ironwood the Wanderer (Professional - Rival)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Is the lost heir to the throne

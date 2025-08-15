@@ -94,3 +94,10 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Quick_Reference - DnD5e-SideScreen-2024 (D&D_References)]]
+- [[Reference Quick Reference Dnd5e Sidescreen 2024 (D&D_References)]]
+- [[06 Equipment]]
+- [[06-equipment (players-handbook-2014)]]

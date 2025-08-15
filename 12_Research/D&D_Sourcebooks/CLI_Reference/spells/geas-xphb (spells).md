@@ -104,7 +104,6 @@ Mentioned in The Hidden Prophecy of Depths
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -123,4 +122,26 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[geas-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[geas-xphb (spells)|geas-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Guardian Naga Xmm]]
+- [[guardian-naga-xmm (celestial)]]
+- [[Adult Green Dragon Xmm]]
+- [[Ancient Green Dragon Xmm]]
+- [[adult-green-dragon-xmm (dragon)]]
+- [[ancient-green-dragon-xmm (dragon)]]
+- [[Lamia Xmm]]
+- [[lamia-xmm (fiend)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Warlock Xphb Fiend Patron Xphb]]
+- [[warlock-xphb-fiend-patron-xphb (classes)]]
+- [[Artifact Properties Major Detrimental]]
+- [[Npc Secrets Xdmg]]
+- [[Random Tricks Tricks]]
+- [[artifact-properties-major-detrimental-properties]]
+- [[npc-secrets-xdmg (tables)]]
+- [[random-tricks-tricks (tables)]]

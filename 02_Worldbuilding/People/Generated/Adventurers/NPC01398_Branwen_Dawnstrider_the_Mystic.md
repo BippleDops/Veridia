@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Dawnstrider the Mystic", "branwen dawnstrider the mystic", "Branwen Dawnstrider Mystic", "Mystic the Dawnstrider Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Dawnstrider the Mystic
 
 *Tabaxi Rogue (Adventurers), Age 34, Non-binary*
@@ -36,37 +42,30 @@ Accidentally gained powers and learning to control them A chance encounter last 
 - **Short Term**: Sabotage competition
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Thalia Jadeclaw the Wise (Family - Parent)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Corvus Grimholt the Wanderer (Family - Sibling)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
-
 
 ### Felicia Ashford the Scholar (Political - Patron)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
 
-
 ### Fiora Winterborn the Strong (Personal - Nemesis)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ### Felicia Nightfall the Mystic (Personal - Ex-lover)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Xander Lightbringer the Bold (Criminal - Handler)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Possessed by ancient spirit

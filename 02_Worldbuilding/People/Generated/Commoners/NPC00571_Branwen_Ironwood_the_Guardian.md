@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Ironwood the Guardian", "branwen ironwood the guardian", "Branwen Ironwood Guardian", "Guardian the Ironwood Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Ironwood the Guardian
 
 *Tabaxi Baker (Commoners), Age 51, Non-binary*
@@ -47,16 +53,13 @@ Former soldier trying to adjust to civilian life They've fallen in love with som
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Cedric Jadeclaw the Bold (Personal - Ex-lover)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Malakai Goldleaf the Broken (Family - Cousin)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ### Baelor Proudmore the Cunning (Professional - Mentor)
 - **Status**: Secretly hostile

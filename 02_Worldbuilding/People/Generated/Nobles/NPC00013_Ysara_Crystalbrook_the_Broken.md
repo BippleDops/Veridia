@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Crystalbrook the Broken", "ysara crystalbrook the broken", "Ysara Crystalbrook Broken", "Broken the Crystalbrook Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Crystalbrook the Broken
 
 *Tiefling Noble (Nobles), Age 39, Non-binary*
@@ -42,31 +48,25 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Jorah Keenblade the Risen (Criminal - Target)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ### Ysara Crystalbrook (Personal - Nemesis)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
 
-
 ### Faelyn Nightfall the Wanderer (Family - Parent)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
-
 
 ### Brenna Silverleaf (Criminal - Fence)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
 
-
 ### Corvus Underhill (Criminal - Fence)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

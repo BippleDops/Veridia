@@ -1,3 +1,9 @@
+---
+aliases: ["Greater Crystal of Fortune", "greater crystal of fortune", "Fortune of Crystal Greater"]
+tags: [item, equipment]
+type: item
+---
+
 # Greater Crystal of Fortune
 
 *Consumables, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A greater crystal glowing softly
 - Resistance for 10 minutes
 - Remove one condition
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -31,7 +35,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.443Z*

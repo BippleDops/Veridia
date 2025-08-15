@@ -2,7 +2,7 @@
 
 title: Pressure Gate.md
 aliases:
-- [[02 Worldbuilding]] [[Places]] Pressure Gatemd
+- [[02_Worldbuilding|02 Worldbuilding]] [[Places]] Pressure Gatemd
 type: [[Lore]]
 tags:
 - lore
@@ -28,7 +28,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 

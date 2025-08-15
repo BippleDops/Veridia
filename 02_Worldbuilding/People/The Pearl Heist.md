@@ -43,7 +43,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-pearl-heist-the-pearl-heist.svg)
 
@@ -52,7 +51,6 @@ improvements: 20
 # The Pearl Heist
 
 *"They took more than treasure - they stole the city's confidence." - Banking Commissioner*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -294,7 +292,6 @@ iched: true -->
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -330,3 +327,11 @@ iched: true -->
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Portraits Portrait NPC Lady Celestine Windborne Lady Celestine Windborne.svg]]
+- [[The_Crimson_Pearl]]
+- [[The Crimson Pearl (D&D_References)]]
+- [[The_Crimson_Pearl (D&D_References)]]
+- [[The Pearl Heist (D&D_References)]]

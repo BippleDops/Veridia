@@ -1,4 +1,5 @@
 ---
+aliases: ["Forgotten Shield of Power", "forgotten shield of power", "Power of Shield Forgotten"]
 tags: [generated]
 id: ITEM0013
 created: 2025-08-15T04:09:51.080Z
@@ -19,8 +20,6 @@ Crafted from mithril with glowing gems, in recently restored. It emanates a fain
 
 ## Quirk
 *Hums when enemies are near*
-
-
 
 ## History
 This item was reforged from broken artifacts ages ago. It has passed through many hands, each leaving their mark upon its destiny.

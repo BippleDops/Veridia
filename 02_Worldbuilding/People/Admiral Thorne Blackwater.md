@@ -61,12 +61,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-admiral-thorne-blackwater-admiral-thorne-blackwater.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -318,7 +316,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Natural disasters
 - Current power structures established
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -358,3 +355,30 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Shadow Surgeons Collective]]
+- [[The Shadow Trade Network]]
+- [[Merchant Family Alliances]]
+- [[Relationship Web Nuances]]
+- [[Captain Garrett Stormcutter]]
+- [[Elder Whisper-In-The-Dark]]
+- [[Shadow Conspiracy (People)]]
+- [[Azure Citadel]]
+- [[Pressure's End]]
+- [[Shadow Merchant Riptide]]
+- [[The Crimson Foundries]]
+- [[The Lock]]
+- [[The Lock Saboteur]]
+- [[Azure Citadel (D&D_References)]]
+- [[Captain Garrett Stormcutter (D&D_References)]]
+- [[Pressure's End (D&D_References)]]
+- [[Shadow Conspiracy (D&D_References)]]
+- [[Shadow Merchant Riptide (D&D_References)]]
+- [[The Lock (D&D_References)]]
+- [[Discover the Singers Beyond (D&D_Statblocks)]]
+- [[Elder Whisper-In-The-Dark (D&D_Statblocks)]]
+- [[The Crimson Foundries (D&D_Statblocks)]]
+- [[The Lock Saboteur (D&D_Statblocks)]]

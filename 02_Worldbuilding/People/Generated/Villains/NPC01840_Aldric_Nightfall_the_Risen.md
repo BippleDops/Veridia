@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Nightfall the Risen", "aldric nightfall the risen", "Aldric Nightfall Risen", "Risen the Nightfall Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Nightfall the Risen
 
 *Dragonborn Dark Wizard (Villains), Age 75, Female*
@@ -36,22 +42,18 @@ Betrayed by those they trusted, now seeking revenge on the world Strange abiliti
 - **Short Term**: Find missing person
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Faelyn Brightblade the Guardian (Family - Spouse)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
 
-
 ### Gareth Xendar the Redeemed (Family - Sibling)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
 
-
 ### Malakai Xendar the Wise (Political - Ally)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Is being controlled by darker force

@@ -146,7 +146,6 @@ Umbra feeds on identity and self-doubt, growing stronger each time he successful
 
 He operates from the Reflection District, a maze-like area where mirrors line every surface and reality becomes questionable. Here, visitors often lose track of which reflection is real and which belongs to Umbra's machinations.
 
-
 ## Stats
 - **AC**: 12
 - **HP**: 22 (4d8)
@@ -194,7 +193,6 @@ He operates from the Reflection District, a maze-like area where mirrors line ev
 **Primary**: Collect and catalog all possible identities to achieve perfect adaptability
 **Secondary**: Prove that individual identity is an illusion by demonstrating its fragility
 **Hidden**: Escape his nature as a shadow by becoming something more real than reality itself
-
 
 ## Secrets
 - Hidden information about this character
@@ -354,7 +352,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -390,3 +387,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Harbor Master Captain Dockwise V1 Harbor Master Captain Dockwise.svg]]
+- [[Assets Locations Location City the Crystal Cathedral of Pure Light V1 the Crystal Cathedral of Pure Light.svg]]

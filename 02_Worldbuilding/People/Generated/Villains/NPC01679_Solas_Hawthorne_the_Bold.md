@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Hawthorne the Bold", "solas hawthorne the bold", "Solas Hawthorne Bold", "Bold the Hawthorne Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Hawthorne the Bold
 
 *Halfling Cultist (Villains), Age 30, Male*
@@ -36,37 +42,30 @@ Believes their evil acts serve a greater good They recently discovered a secret 
 - **Short Term**: Sabotage competition
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Idris Quicksilver the Wise (Criminal - Informant)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
 
-
 ### Vesper Dawnstrider the Scholar (Personal - Nemesis)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ### Cedric Grimholt the Wise (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Zephyr Frostwhisper the Bold (Criminal - Handler)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
-
 
 ### Drusilla Proudmore the Cunning (Professional - Partner)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Dara Ravenheart the Redeemed (Criminal - Target)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Knows how the world will end

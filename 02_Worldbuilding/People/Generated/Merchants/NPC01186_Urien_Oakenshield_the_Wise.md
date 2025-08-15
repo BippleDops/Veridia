@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Oakenshield the Wise", "urien oakenshield the wise", "Urien Oakenshield Wise", "Wise the Oakenshield Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Oakenshield the Wise
 
 *Goliath Caravan Master (Merchants), Age 28, Non-binary*
@@ -42,21 +48,17 @@ Former adventurer who retired to open a shop They've fallen in love with someone
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Thalia Voidwalker the Seeker (Political - Spy)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ### Pyria Lightbringer the Mystic (Personal - Love interest)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Thalia Ironwood the Lost (Criminal - Handler)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Running a cult from their basement

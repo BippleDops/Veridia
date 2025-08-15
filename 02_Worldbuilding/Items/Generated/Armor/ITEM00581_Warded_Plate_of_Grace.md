@@ -1,3 +1,9 @@
+---
+aliases: ["Warded Plate of Grace", "warded plate of grace", "Grace of Plate Warded"]
+tags: [item, equipment]
+type: item
+---
+
 # Warded Plate of Grace
 
 *Armor, Very Rare*
@@ -16,8 +22,6 @@ A warded plate bearing ancient runes
 - Immunity to critical hits
 - Advantage on saving throws
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -32,7 +36,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.396Z*

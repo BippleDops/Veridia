@@ -93,7 +93,6 @@ An exciting quest that challenges heroes to face destiny.
 - Stealing medicine to save a plague victim
 - Choosing between two villages to save
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*
 ## Expansion Books & Setting Guides

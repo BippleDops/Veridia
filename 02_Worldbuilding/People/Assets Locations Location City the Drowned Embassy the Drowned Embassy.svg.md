@@ -190,3 +190,7 @@ Member of House Serpentblood - Trait: magical affinity
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Depths
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-thaddeus-blackwater-captain-thaddeus-blackwater.svg]]

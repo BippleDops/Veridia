@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-sire-sire.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -205,7 +203,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -275,3 +272,42 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Aetheric Wind Songs]]
+- [[Aurelius Goldwave]]
+- [[Crystal Forest]]
+- [[Crystal Garden]]
+- [[Eastern Kingdoms (02_Worldbuilding)]]
+- [[Economic Systems and Currency]]
+- [[Kraken Territories]]
+- [[Professional Terminology]]
+- [[Random Encounters]]
+- [[Resonance Peaks]]
+- [[The Crimson Hand]]
+- [[The Deep Harvest]]
+- [[The Final Choice]]
+- 
+- [[The Great Crystallization]]
+- [[The Queen]]
+- [[The Siren''s Rest Tavern]]
+- [[Timeline of the Drowning]]
+- [[Trade Route Establishment]]
+- [[Assets Locations Location City Innkeeper Marina Dreamwhisper V1 Innkeeper Marina Dreamwhisper.svg]]
+- [[Compass Quest]]
+- [[Mad Oracle Thessaly]]
+- [[Madame Rosalind Goldleaf]]
+- [[Memory Thief]]
+- [[Mourning Depths]]
+- [[Navigator Sage Driftwood]]
+- [[Pip Goldleaf]]
+- [[Siren Maeve Echoborn]]
+- [[Sylvanheart]]
+- [[Temple Ward]]
+- [[The Crystalline Foundry]]
+- [[The Depth Market]]
+- [[The Order of the Shattered Crown]]
+- [[The Reflection Pools]]
+- [[Timeline of the Drowning (D&D_References)]]
+- [[Timeline of the Drowning 3 (D&D_References)]]

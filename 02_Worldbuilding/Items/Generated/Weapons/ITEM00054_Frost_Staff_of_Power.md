@@ -1,3 +1,9 @@
+---
+aliases: ["Frost Staff of Power", "frost staff of power", "Power of Staff Frost"]
+tags: [item, equipment]
+type: item
+---
+
 # Frost Staff of Power
 
 *Weapons, Uncommon (requires attunement)*

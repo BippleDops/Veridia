@@ -59,3 +59,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Winds
+
+## References
+
+- [[The Transformed Citizens]]
+- [[The Transformed Citizens (D&D_References)]]

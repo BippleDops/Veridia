@@ -11,7 +11,7 @@ created: '2025-01-15'
 
 ## Portrait
 
-![[portrait_04_resources_assets_portraits_portrait-npc-trade-captain-sterling-trade-captain-sterling.svg.png]]
+![[04_Resources|portrait_04_resources_assets_portraits_portrait-npc-trade-captain-sterling-trade-captain-sterling.svg.png]]
 
 *Portrait reference for 04_Resources_Assets_Portraits_portrait-npc-trade-captain-sterling-trade-captain-sterling.svg*
 
@@ -75,3 +75,8 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+## References
+
+- [[Assets Portraits Portrait NPC Master Smith Priest Vulcan Depthforge Master Smith Priest Vulcan Depthforge.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-trade-captain-sterling-trade-captain-sterling.svg_Quick_Ref]]

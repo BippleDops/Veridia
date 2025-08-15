@@ -1,11 +1,11 @@
 ---
+aliases: ["Leopold Ironforge", "leopold ironforge", "Ironforge Leopold"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -74,8 +74,6 @@ Merchant family that lost everything to pirates. Years ago, they witnessed somet
 ### Skills
 Arcana
 
-
-
 ## Possessions
 - 88 gold pieces
 - Family heirloom (locket)
@@ -87,7 +85,6 @@ Arcana
 
 ---
 *Generated: 2025-08-15T03:21:04.034Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

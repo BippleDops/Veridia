@@ -200,3 +200,8 @@ This NPC can serve multiple roles:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-scarlet-torrent-captain-scarlet-torrent.svg]]
+- [[04_Resources_Assets_Locations_location-city-harbormaster-creedence-tidereader-harbormaster-creedence-tidereader.svg]]

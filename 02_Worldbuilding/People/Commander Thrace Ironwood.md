@@ -41,7 +41,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-commander-thrace-ironwood-commander-thrace-ironwood.svg)
 
@@ -49,7 +48,6 @@ improvements: 20
 
 # Commander Thrace Ironwood
 *The Steel Fist of Purity, Former Crystal Warden Turned Crusader*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -526,7 +524,6 @@ Legends speak of Commander Thrace Ironwood as a nexus where past and present con
 - 20% middle class
 - 79% working poor
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -562,3 +559,12 @@ Legends speak of Commander Thrace Ironwood as a nexus where past and present con
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Quest - The Convergence Crisis]]
+- [[Establish the New Order (Orders)]]
+- [[Assets Locations Location City Beast Master Krell Chainbreaker Beast Master Krell Chainbreaker.svg]]
+- [[Assets Locations Location City Harbor Master S License V1 Harbor Master S License.svg]]
+- [[Assets Symbols Symbol Heraldry the Anonymous Protocol the Anonymous Protocol.svg]]
+- [[Establish the New Order]]

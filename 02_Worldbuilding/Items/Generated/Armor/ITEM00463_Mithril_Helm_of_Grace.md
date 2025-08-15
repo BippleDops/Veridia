@@ -1,3 +1,9 @@
+---
+aliases: ["Mithril Helm of Grace", "mithril helm of grace", "Grace of Helm Mithril"]
+tags: [item, equipment]
+type: item
+---
+
 # Mithril Helm of Grace
 
 *Armor, Very Rare*

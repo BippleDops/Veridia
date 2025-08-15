@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Crystalbrook the Scholar", "brenna crystalbrook the scholar", "Brenna Crystalbrook Scholar", "Scholar the Crystalbrook Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Crystalbrook the Scholar
 
 *Human Rogue (Adventurers), Age 28, Male*
@@ -42,11 +48,9 @@ Chosen by fate to fulfill an ancient prophecy They've made a deal they're beginn
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
 
-
 ### Dara Frostwhisper the Wise (Family - Parent)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
-
 
 ### Vesper Darkwater the Wanderer (Personal - Ex-lover)
 - **Status**: One-sided affection

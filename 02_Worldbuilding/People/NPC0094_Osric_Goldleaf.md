@@ -1,11 +1,11 @@
 ---
+aliases: ["Osric Goldleaf", "osric goldleaf", "Goldleaf Osric"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -75,8 +75,6 @@ Child of farmers who sought adventure. Years ago, they witnessed something they 
 ### Skills
 Insight, Persuasion, Stealth
 
-
-
 ## Possessions
 - 85 gold pieces
 - Mysterious key
@@ -90,7 +88,6 @@ Insight, Persuasion, Stealth
 
 ---
 *Generated: 2025-08-15T03:21:04.036Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

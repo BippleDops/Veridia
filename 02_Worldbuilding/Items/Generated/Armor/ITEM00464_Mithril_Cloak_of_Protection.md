@@ -1,3 +1,9 @@
+---
+aliases: ["Mithril Cloak of Protection", "mithril cloak of protection", "Protection of Cloak Mithril"]
+tags: [item, equipment]
+type: item
+---
+
 # Mithril Cloak of Protection
 
 *Armor, Uncommon*
@@ -14,8 +20,6 @@ A mithril cloak crafted from exotic materials
 - Resistance to one damage type
 - Advantage on saving throws
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -30,7 +34,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.384Z*

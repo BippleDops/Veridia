@@ -456,3 +456,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Crystallium]]
+- [[Crystallium (D&D_References)]]
+- [[Aethermoor - Session 04 The Silverscale Gambit]]

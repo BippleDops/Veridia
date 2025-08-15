@@ -1,3 +1,9 @@
+---
+aliases: ["Primordial Crown of Truth", "primordial crown of truth", "Truth of Crown Primordial"]
+tags: [item, equipment]
+type: item
+---
+
 # Primordial Crown of Truth
 
 *Artifacts, Legendary (requires attunement)*
@@ -16,8 +22,6 @@ A primordial crown covered in mysterious symbols
 - Immunity to charm
 - Grant true sight
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -32,7 +36,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.420Z*

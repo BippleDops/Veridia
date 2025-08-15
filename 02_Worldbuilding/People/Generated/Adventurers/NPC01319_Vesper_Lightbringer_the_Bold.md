@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Lightbringer the Bold", "vesper lightbringer the bold", "Vesper Lightbringer Bold", "Bold the Lightbringer Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Lightbringer the Bold
 
 *Tiefling Ranger (Adventurers), Age 64, Male*
@@ -13,7 +19,6 @@
 Towering and slender, with Dreadlocks bald hair and Blue eyes. Fair skin. Intricate tattoos covering arms.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Always tells the absolute truth
@@ -36,27 +41,22 @@ Chosen by fate to fulfill an ancient prophecy They've fallen in love with someon
 - **Short Term**: Sabotage competition
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Malakai Frostwhisper the Redeemed (Personal - Nemesis)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Gavril Stormwind the Wise (Personal - Best friend)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ### Brenna Grimholt the Redeemed (Family - Parent)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
 
-
 ### Erasmus Keenblade the Seeker (Political - Spy)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ### Dara Thornweave the Wise (Professional - Employee)
 - **Status**: Strained but maintaining

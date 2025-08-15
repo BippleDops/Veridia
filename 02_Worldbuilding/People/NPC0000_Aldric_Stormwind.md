@@ -1,8 +1,8 @@
 ---
+aliases: ["Aldric Stormwind", "aldric stormwind", "Stormwind Aldric"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -71,8 +71,6 @@ Born into a noble family but cast out for scandal. Years ago, they made a deal t
 ### Skills
 Insight, Persuasion, Athletics
 
-
-
 ## Possessions
 - 70 gold pieces
 - Letter of recommendation
@@ -86,7 +84,6 @@ Insight, Persuasion, Athletics
 
 ---
 *Generated: 2025-08-15T03:21:04.023Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

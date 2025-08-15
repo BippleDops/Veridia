@@ -108,3 +108,9 @@ Last known to be in [[Region Name]] or surrounding areas.
 
 ### Curse (if applicable)
 - *[Negative effects]*
+
+## References
+
+- [[Shadow Conspiracy Investigation (Criminal_Organizations)]]
+- [[02_Worldbuilding_Items_Original_Trackers]]
+- [[Shadow Conspiracy Investigation]]

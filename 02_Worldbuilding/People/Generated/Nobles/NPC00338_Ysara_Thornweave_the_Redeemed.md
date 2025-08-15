@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Thornweave the Redeemed", "ysara thornweave the redeemed", "Ysara Thornweave Redeemed", "Redeemed the Thornweave Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Thornweave the Redeemed
 
 *Half-Elf Aristocrat (Nobles), Age 22, Female*
@@ -36,12 +42,10 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Fiora Ashford (Criminal - Informant)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ### Thalia Proudmore the Strong (Personal - Childhood friend)
 - **Status**: One-sided affection

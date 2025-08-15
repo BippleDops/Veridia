@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Stormwind the Scholar", "drusilla stormwind the scholar", "Drusilla Stormwind Scholar", "Scholar the Stormwind Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Stormwind the Scholar
 
 *Tabaxi Courtier (Nobles), Age 22, Female*
@@ -13,7 +19,6 @@
 Short and stocky, with Carefully styled unusual color hair and Brown eyes. Unusual hue skin. Weather-beaten face showing hard life.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Compulsive liar about minor things
@@ -36,7 +41,6 @@ Last survivor of a fallen house, seeking to restore family honor They've fallen 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Alaric Goldleaf the Risen (Political - Opposition)
 - **Status**: Secretly hostile
@@ -47,11 +51,9 @@ Last survivor of a fallen house, seeking to restore family honor They've fallen 
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
 
-
 ### Orion Nightfall (Criminal - Fence)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
-
 
 ### Alaric Zephyrblade the Cunning (Professional - Rival)
 - **Status**: Mutually beneficial
@@ -61,7 +63,6 @@ Last survivor of a fallen house, seeking to restore family honor They've fallen 
 ### Vesper Emberfall the Wise (Criminal - Handler)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

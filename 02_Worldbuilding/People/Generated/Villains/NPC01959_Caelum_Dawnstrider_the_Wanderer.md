@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Dawnstrider the Wanderer", "caelum dawnstrider the wanderer", "Caelum Dawnstrider Wanderer", "Wanderer the Dawnstrider Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Dawnstrider the Wanderer
 
 *Gnome Cultist (Villains), Age 30, Male*
@@ -36,32 +42,26 @@ Believes their evil acts serve a greater good They've made a deal they're beginn
 - **Short Term**: Sabotage competition
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Wynne Thornweave the Cunning (Political - Ally)
 - **Status**: Professional only
 - **History**: United by common enemy
 
-
 ### Pyria Nightfall the Wise (Professional - Rival)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ### Nerys Youngblood the Strong (Personal - Nemesis)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
 
-
 ### Brenna Underhill the Bold (Professional - Employee)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Elric Ashford the Risen (Criminal - Target)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Has a child they're protecting

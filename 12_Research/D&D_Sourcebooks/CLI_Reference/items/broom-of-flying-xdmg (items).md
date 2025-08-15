@@ -75,3 +75,19 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A map reveals the truth about this place
 - A stranger needs help finding before winter
 - Strange disappearances suggest a portal
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Arcana Uncommon Xdmg]]
+- [[Implements Uncommon Xdmg]]
+- [[Magic Item Table F]]
+- [[Random Magic Items Arcana]]
+- [[Random Magic Items Implements]]
+- [[Urban Encounters Levels 1720 Xge]]
+- [[arcana-uncommon-xdmg (tables)]]
+- [[implements-uncommon-xdmg (tables)]]
+- [[magic-item-table-f (tables)]]
+- [[random-magic-items-arcana (tables)]]
+- [[random-magic-items-implements (tables)]]
+- [[urban-encounters-levels-1720-xge (tables)]]

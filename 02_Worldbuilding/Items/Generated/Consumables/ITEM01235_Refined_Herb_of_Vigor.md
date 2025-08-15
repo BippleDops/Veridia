@@ -1,3 +1,9 @@
+---
+aliases: ["Refined Herb of Vigor", "refined herb of vigor", "Vigor of Herb Refined"]
+tags: [item, equipment]
+type: item
+---
+
 # Refined Herb of Vigor
 
 *Consumables, Common*

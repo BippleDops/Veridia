@@ -243,3 +243,10 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Senator Glaucus]]
+- [[The Scattered Emperor]]
+- [[Senator Glaucus (D&D_References)]]
+- [[The Scattered Emperor (D&D_References)]]

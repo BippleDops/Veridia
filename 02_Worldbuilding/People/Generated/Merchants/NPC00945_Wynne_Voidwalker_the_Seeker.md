@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Voidwalker the Seeker", "wynne voidwalker the seeker", "Wynne Voidwalker Seeker", "Seeker the Voidwalker Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Voidwalker the Seeker
 
 *Genasi Trader (Merchants), Age 61, Non-binary*
@@ -36,12 +42,10 @@ Inherited a failing business and turned it around They recently discovered a sec
 - **Short Term**: Sabotage competition
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Pyria Ravenheart the Scholar (Political - Opposition)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
-
 
 ### Dara Proudmore the Strong (Criminal - Fence)
 - **Status**: Professional only
@@ -56,7 +60,6 @@ Inherited a failing business and turned it around They recently discovered a sec
 ### Baelor Oakenshield the Guardian (Personal - Ex-lover)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Running a cult from their basement

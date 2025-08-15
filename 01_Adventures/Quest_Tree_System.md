@@ -1,6 +1,5 @@
 ---
 
-
 title: Quest Tree System
 type: quest-framework
 tags:
@@ -19,12 +18,10 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ### Quest_26
 **Prerequisites**: Complete [Quest C], Reputation: 55
@@ -69,7 +66,6 @@ status: active
 
 2. **Investigation**: Gather 4 clues
 5. **Epilogue**: New quests unlocked
-
 
 ## Objectives
 ### Primary
@@ -233,7 +229,6 @@ status: active
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Time Limit
 - **Deadline**: When it must be completed

@@ -32,7 +32,7 @@ improvements: 20
 
 *A Generator for International Intrigue and Political Drama*
 
-> *"Diplomacy is the art of saying 'nice doggy' until you can find a rock. In Aquabyssos, we say 'nice [[[[Krake]]n]]' until we can find a harpoon."*
+> *"Diplomacy is the art of saying 'nice doggy' until you can find a rock. In Aquabyssos, we say 'nice [[Krake|[[Krake]]n]]' until we can find a harpoon."*
 > — Ambassador [[Marina Deepcurrent]], "Principles of Underwater Diplomacy"
 
 ## 🔧 Deep Evaluation Improvements
@@ -49,7 +49,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -177,7 +177,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 6. **Supernatural Threat:** Eldritch entity or magical catastrophe
 7. **Refugee Crisis:** Mass population displacement from disaster
 8. **Resource Depletion:** Critical shortage of essential materials
-9. **Communication Breakdown:** Loss of international [[Communication Systems]]
+9. **Communication Breakdown:** Loss of international [[Communication_Systems|Communication Systems]]
 10. **Political Assassination:** Murder of key international leader
 
 ### Template D: The Marriage Alliance Spectacle
@@ -331,7 +331,7 @@ Diplomatic Event Scenarios is a undersea element of the setting, known for biolu
 
 Legends speak of Diplomatic Event Scenarios as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Diplomatic Event Scenarios.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -354,3 +354,8 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[Political Intrigue Master Index]]
+- [[Political Intrigue Master Index (D&D_References)]]

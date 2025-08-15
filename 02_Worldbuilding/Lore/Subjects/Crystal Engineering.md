@@ -48,3 +48,9 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Eastern Kingdom]]
+- [[Name Etymology Guide]]
+- [[The Crystal Wardens]]

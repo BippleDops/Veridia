@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Frostwhisper the Cunning", "gavril frostwhisper the cunning", "Gavril Frostwhisper Cunning", "Cunning the Frostwhisper Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Frostwhisper the Cunning
 
 *Halfling Corrupt Noble (Villains), Age 52, Female*
@@ -36,7 +42,6 @@ Driven mad by knowledge humanity wasn't meant to know A prophetic dream has been
 - **Short Term**: Complete current contract
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Orion Thornweave the Risen (Criminal - Fence)
 - **Status**: Strong and trusting
@@ -47,16 +52,13 @@ Driven mad by knowledge humanity wasn't meant to know A prophetic dream has been
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
 
-
 ### Erasmus Ironwood the Strong (Family - Spouse)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Orion Proudmore the Seeker (Family - Child)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Knows how the world will end

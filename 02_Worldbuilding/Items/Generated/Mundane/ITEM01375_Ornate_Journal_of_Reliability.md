@@ -1,3 +1,9 @@
+---
+aliases: ["Ornate Journal of Reliability", "ornate journal of reliability", "Reliability of Journal Ornate"]
+tags: [item, equipment]
+type: item
+---
+
 # Ornate Journal of Reliability
 
 *Mundane, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A ornate journal bearing maker's mark
 - Provides comfort
 - Works perfectly always
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -30,7 +34,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.481Z*

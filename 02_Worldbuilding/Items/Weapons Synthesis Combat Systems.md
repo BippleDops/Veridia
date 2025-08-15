@@ -216,7 +216,6 @@ Last known to be: - **Military Applications**: Creating [[Current_Location]]
 ### Curse (if applicable)
 - *[Negative effects]*
 
-
 ## Scaling by Party Level
 - **Level 1-4**: Reduce enemies
 - **Level 5-10**: Standard difficulty

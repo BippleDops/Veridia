@@ -30,3 +30,7 @@ modified: '2025-08-14'
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+## References
+
+- [[LOC00260_Cities_Location_261]]

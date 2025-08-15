@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Underhill the Strong", "kaelen underhill the strong", "Kaelen Underhill Strong", "Strong the Underhill Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Underhill the Strong
 
 *Halfling Heir (Nobles), Age 72, Male*
@@ -36,22 +42,18 @@ Secretly adopted into nobility, living in fear of discovery They've made a deal 
 - **Short Term**: Make this month's payment
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Dara Zephyrblade the Guardian (Political - Opposition)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
 
-
 ### Drusilla Darkwater the Redeemed (Criminal - Handler)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Caelum Blackstone (Political - Patron)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

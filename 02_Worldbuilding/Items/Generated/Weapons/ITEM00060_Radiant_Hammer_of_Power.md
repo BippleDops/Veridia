@@ -1,3 +1,9 @@
+---
+aliases: ["Radiant Hammer of Power", "radiant hammer of power", "Power of Hammer Radiant"]
+tags: [item, equipment]
+type: item
+---
+
 # Radiant Hammer of Power
 
 *Weapons, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A radiant hammer made of crystallized magic
 - Ignores resistance to damage type
 - Deals extra 1d6 elemental damage
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -31,7 +35,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.347Z*

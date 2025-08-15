@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Quicksilver", "gavril quicksilver", "Quicksilver Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Quicksilver
 
 *Halfling Ambassador (Nobles), Age 23, Non-binary*
@@ -36,7 +42,6 @@ Secretly adopted into nobility, living in fear of discovery A prophetic dream ha
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Rhiannon Xendar (Criminal - Handler)
 - **Status**: Strong and trusting
@@ -47,11 +52,9 @@ Secretly adopted into nobility, living in fear of discovery A prophetic dream ha
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
 
-
 ### Xander Ironforge (Personal - Nemesis)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ### Brenna Ashford (Family - Spouse)
 - **Status**: On the verge of collapse
@@ -61,7 +64,6 @@ Secretly adopted into nobility, living in fear of discovery A prophetic dream ha
 ### Idris Nightfall (Personal - Nemesis)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Actually a bastard with no real claim

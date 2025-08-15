@@ -127,7 +127,6 @@ An exciting quest that challenges heroes to face destiny.
 - Consequences
 - Epilogue hooks
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*
 ## Expansion Books & Setting Guides
@@ -263,3 +262,20 @@ An exciting quest that challenges heroes to face destiny.
 3. **Power Level**: Newer books sometimes have stronger options
 4. **Integration**: Consider how content fits campaign theme
 5. **AL Legal**: Check Adventurers League rules if applicable
+
+## References
+
+- [[Aquabyssos Trade Seal]]
+- [[Aurelius Goldwave]]
+- [[Economic Systems and Currency]]
+- [[Political Intrigue Master Index]]
+- [[Reputation System]]
+- [[The Bathyal Succession]]
+- [[The Deep Harvest]]
+- [[The Forgetting Bomb]]
+- [[The Silverscale Conspiracy]]
+- [[The Tethyan Hegemony]]
+- [[Goldspire Confederacy]]
+- [[The Phosphor Markets]]
+- [[The Tidepool Markets]]
+- [[Aurelius Goldwave (D&D_Statblocks)]]

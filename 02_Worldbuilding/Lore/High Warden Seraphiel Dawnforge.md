@@ -49,6 +49,10 @@ This content can be adapted and expanded based on specific campaign needs.
 ## [[DM_Notes]]
 *Customize as needed for your specific campaign requirements.*
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*
+
+## References
+
+- [[Crystal Wardens]]
+- [[Crystal Wardens (D&D_Statblocks)]]

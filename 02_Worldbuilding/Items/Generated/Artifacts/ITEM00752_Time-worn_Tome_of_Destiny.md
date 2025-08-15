@@ -1,3 +1,9 @@
+---
+aliases: ["Time-worn Tome of Destiny", "time-worn tome of destiny", "Destiny of Tome Time-worn"]
+tags: [item, equipment]
+type: item
+---
+
 # Time-worn Tome of Destiny
 
 *Artifacts, Legendary*
@@ -16,8 +22,6 @@ A time-worn tome radiating otherworldly power
 - Grant true sight
 - Time stop 1/week
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -32,7 +36,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.422Z*

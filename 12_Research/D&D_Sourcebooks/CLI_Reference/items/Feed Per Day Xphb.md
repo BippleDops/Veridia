@@ -91,3 +91,11 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]
+- [[Mounts and Vehicles Tack Harness and Drawn Vehicles Xphb]]
+- [[Mounts and Vehicles Tack Harness and Drawn]]

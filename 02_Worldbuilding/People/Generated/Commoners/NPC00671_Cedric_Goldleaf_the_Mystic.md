@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Goldleaf the Mystic", "cedric goldleaf the mystic", "Cedric Goldleaf Mystic", "Mystic the Goldleaf Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Goldleaf the Mystic
 
 *Human Baker (Commoners), Age 51, Male*
@@ -36,7 +42,6 @@ Former soldier trying to adjust to civilian life Strange abilities have begun ma
 - **Short Term**: Gather information
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Qadim Nightfall the Bold (Family - Parent)
 - **Status**: Strong and trusting
@@ -47,21 +52,17 @@ Former soldier trying to adjust to civilian life Strange abilities have begun ma
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Thalia Winterborn the Strong (Family - Child)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ### Cedric Thornweave the Wanderer (Personal - Ex-lover)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
 
-
 ### Aeliana Silverleaf the Fallen (Professional - Employer)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is the lost heir to the throne

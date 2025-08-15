@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Silverleaf the Scholar", "aldric silverleaf the scholar", "Aldric Silverleaf Scholar", "Scholar the Silverleaf Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Silverleaf the Scholar
 
 *Aasimar Rogue (Adventurers), Age 69, Female*
@@ -47,16 +53,13 @@ Seeking vengeance for a murdered mentor Strange abilities have begun manifesting
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
 
-
 ### Aldric Nightfall the Mystic (Criminal - Fence)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Pyria Zephyrblade the Scholar (Personal - Love interest)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ### Solas Moonshadow the Broken (Criminal - Target)
 - **Status**: Mutually beneficial

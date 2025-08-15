@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Frostwhisper the Mystic", "felicia frostwhisper the mystic", "Felicia Frostwhisper Mystic", "Mystic the Frostwhisper Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Frostwhisper the Mystic
 
 *Half-Elf Fisher (Commoners), Age 38, Male*
@@ -47,16 +53,13 @@ Survivor of a disaster that destroyed their village They've fallen in love with 
 - **Status**: Professional only
 - **History**: United by common enemy
 
-
 ### Cedric Nightfall the Redeemed (Family - Cousin)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Zephyr Proudmore the Wise (Professional - Employer)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Is the lost heir to the throne

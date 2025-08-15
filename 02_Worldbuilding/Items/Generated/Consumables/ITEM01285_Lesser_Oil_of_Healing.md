@@ -1,3 +1,9 @@
+---
+aliases: ["Lesser Oil of Healing", "lesser oil of healing", "Healing of Oil Lesser"]
+tags: [item, equipment]
+type: item
+---
+
 # Lesser Oil of Healing
 
 *Consumables, Common*
@@ -13,8 +19,6 @@ A lesser oil swirling with colors
 ## Properties
 - Grant advantage for 1 hour
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -29,7 +33,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.473Z*

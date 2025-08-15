@@ -273,3 +273,8 @@ Legends speak of Shadow Surgeon Strike Team as a nexus where past and present co
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Lieutet Memory Probe]]
+- [[Aquabyssos - Session 03 - The Gallery Conspiracy]]

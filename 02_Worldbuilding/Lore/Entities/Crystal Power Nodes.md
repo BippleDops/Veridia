@@ -104,3 +104,7 @@ improvements: 20
 - Civil war
 - Natural disasters
 - Current power structures established
+
+## References
+
+- [[Entities Crystal Power Nodes]]

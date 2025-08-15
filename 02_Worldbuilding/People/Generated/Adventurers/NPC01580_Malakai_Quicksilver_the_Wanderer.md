@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Quicksilver the Wanderer", "malakai quicksilver the wanderer", "Malakai Quicksilver Wanderer", "Wanderer the Quicksilver Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Quicksilver the Wanderer
 
 *Gnome Ranger (Adventurers), Age 60, Male*
@@ -13,7 +19,6 @@
 Towering and slender, with Wild and unkempt black hair and Heterochromic eyes. Weathered skin. Missing finger on left hand.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Never uses people's real names; Sees doom and gloom everywhere; Always tells the absolute truth
@@ -36,22 +41,18 @@ Accidentally gained powers and learning to control them They've made a deal they
 - **Short Term**: Recruit new members
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Aeliana Hawthorne the Guardian (Family - Child)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Gareth Oakenshield the Mystic (Personal - Love interest)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
 
-
 ### Fiora Lightbringer the Fallen (Family - Cousin)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
-
 
 ### Zephyr Darkwater the Guardian (Professional - Partner)
 - **Status**: Blood oath bound
@@ -62,11 +63,9 @@ Accidentally gained powers and learning to control them They've made a deal they
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
 
-
 ### Caelum Grimholt the Swift (Personal - Childhood friend)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Carries a world-ending artifact

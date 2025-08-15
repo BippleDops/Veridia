@@ -50,3 +50,8 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[02_Worldbuilding_Groups_The_Memory_Keepers]]
+- [[The Memory Keepers Guild]]

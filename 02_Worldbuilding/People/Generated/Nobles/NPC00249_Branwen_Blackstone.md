@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Blackstone", "branwen blackstone", "Blackstone Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Blackstone
 
 *Half-Elf Ambassador (Nobles), Age 37, Female*
@@ -13,7 +19,6 @@
 Very tall and slender, with Short and neat silver hair and Hazel eyes. Unusual hue skin. Prominent scar across the face.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Constantly quotes ancient texts; Collects unusual and worthless objects
@@ -36,17 +41,14 @@ Exiled from their homeland, trying to rebuild their power base They recently dis
 - **Short Term**: Avoid the authorities
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Solas Nightfall (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: United by common enemy
 
-
 ### Zephyr Ironforge the Strong (Criminal - Accomplice)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ### Elric Hawthorne the Wanderer (Family - Child)
 - **Status**: Professional only
@@ -56,7 +58,6 @@ Exiled from their homeland, trying to rebuild their power base They recently dis
 ### Ysara Xendar (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
-
 
 ### Dara Crystalbrook (Criminal - Target)
 - **Status**: Mutually beneficial

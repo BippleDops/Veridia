@@ -117,3 +117,7 @@ Mentioned in The Hidden Prophecy of Winds
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Random Encounters (D&D_Statblocks)]]

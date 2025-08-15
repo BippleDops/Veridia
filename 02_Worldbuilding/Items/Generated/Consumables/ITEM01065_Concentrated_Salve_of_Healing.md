@@ -1,3 +1,9 @@
+---
+aliases: ["Concentrated Salve of Healing", "concentrated salve of healing", "Healing of Salve Concentrated"]
+tags: [item, equipment]
+type: item
+---
+
 # Concentrated Salve of Healing
 
 *Consumables, Uncommon (requires attunement)*

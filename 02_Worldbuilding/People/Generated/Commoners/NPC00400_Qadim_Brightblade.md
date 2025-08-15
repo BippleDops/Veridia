@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Brightblade", "qadim brightblade", "Brightblade Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Brightblade
 
 *Elf Blacksmith (Commoners), Age 46, Non-binary*
@@ -13,7 +19,6 @@
 Below average and lanky, with Braided elaborately brown hair and Hazel eyes. Unusual hue skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Incredibly optimistic despite evidence; Believes in every conspiracy theory; Always hungry and eating something
@@ -36,17 +41,14 @@ Family has worked the same trade for generations, but times are changing A famil
 - **Short Term**: Sabotage competition
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Vesper Moonshadow the Fallen (Political - Spy)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
 
-
 ### Alaric Lightbringer the Guardian (Family - Sibling)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
-
 
 ### Nerys Thornweave the Wanderer (Personal - Best friend)
 - **Status**: Complicated history
@@ -56,7 +58,6 @@ Family has worked the same trade for generations, but times are changing A famil
 ### Cedric Silverleaf the Redeemed (Family - Child)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Witnessed a noble's crime

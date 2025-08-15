@@ -1,3 +1,9 @@
+---
+aliases: ["Shadow Dagger of Speed", "shadow dagger of speed", "Speed of Dagger Shadow"]
+tags: [item, equipment]
+type: item
+---
+
 # Shadow Dagger of Speed
 
 *Weapons, Very Rare*
@@ -16,8 +22,6 @@ A shadow dagger made of crystallized magic
 - Critical hits on 19-20
 - +1 to attack and damage rolls
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -32,7 +36,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.369Z*

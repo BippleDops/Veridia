@@ -162,3 +162,9 @@ Mentioned in The Second Prophecy of Stars
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[The Crimson Hand]]
+- [[The Restoration Movement]]
+- [[Maelstrom Palace]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Ironwood the Broken", "qadim ironwood the broken", "Qadim Ironwood Broken", "Broken the Ironwood Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Ironwood the Broken
 
 *Tiefling Blacksmith (Commoners), Age 71, Non-binary*
@@ -13,7 +19,6 @@
 Towering and compact, with Carefully styled white hair and Black eyes. Tan skin. Unusual eye color for their race.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Laughs at the most inappropriate times; Always tells the absolute truth
@@ -36,7 +41,6 @@ Runaway from an arranged marriage, starting a new life A chance encounter last w
 - **Short Term**: Find missing person
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Ysara Ashford the Wise (Family - Sibling)
 - **Status**: Strong and trusting
@@ -47,16 +51,13 @@ Runaway from an arranged marriage, starting a new life A chance encounter last w
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
 
-
 ### Erasmus Goldleaf the Bold (Personal - Childhood friend)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
 
-
 ### Felicia Grimholt the Swift (Political - Ally)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Is the lost heir to the throne

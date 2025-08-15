@@ -203,3 +203,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A letter reveals the truth about the cult
 - Strange dreams suggest a conspiracy
 - A letter reveals a conspiracy about the cult
+
+## References
+
+- [[Political Intrigue Master Index]]
+- [[Political Intrigue Master Index (D&D_References)]]

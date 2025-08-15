@@ -1,11 +1,11 @@
 ---
+aliases: ["Ulric Darkwater the Young", "ulric darkwater the young", "Ulric Darkwater Young", "Young the Darkwater Ulric"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -77,7 +77,6 @@ Perception, Insight, Investigation, Persuasion
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 29 gold pieces
 - Lucky dice
@@ -92,7 +91,6 @@ Perception, Insight, Investigation, Persuasion
 
 ---
 *Generated: 2025-08-15T03:21:04.040Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

@@ -82,3 +82,7 @@ Mentioned in The Second Prophecy of Stars
 - Someone is blackmailing an heir for money
 - A map reveals a betrayal about the cult
 - A stranger needs help stealing before the new moon
+
+## References
+
+- [[Master_Item_Catalog]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Greater Salve of Fortune", "greater salve of fortune", "Fortune of Salve Greater"]
+tags: [item, equipment]
+type: item
+---
+
 # Greater Salve of Fortune
 
 *Consumables, Uncommon*
@@ -14,8 +20,6 @@ A greater salve swirling with colors
 - Fly for 1 hour
 - Restore 4d4+4 hit points
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -30,7 +34,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.452Z*

@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-royal-treasury-depths-the-royal-treasury-depths.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -245,7 +243,6 @@ Member of House Eagleblood - Trait: curse
 - Natural disasters
 - Current power structures established
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -281,3 +278,9 @@ Member of House Eagleblood - Trait: curse
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Admiral Marina Stormcrest (People)]]
+- [[Assets Locations Location City Master Engineer Cordelia Pressurewright Master Engineer Cordelia Pressurewright.svg]]
+- [[Assets Portraits Portrait NPC Captain Cornelius Deepwater Captain Cornelius Deepwater.svg]]

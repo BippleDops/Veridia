@@ -1,3 +1,9 @@
+---
+aliases: ["Ancient Amulet of Truth", "ancient amulet of truth", "Truth of Amulet Ancient"]
+tags: [item, equipment]
+type: item
+---
+
 # Ancient Amulet of Truth
 
 *Artifacts, Legendary (requires attunement)*
@@ -16,8 +22,6 @@ A ancient amulet pulsing with inner light
 - Regenerate 1 hp/round
 - Grant true sight
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -32,7 +36,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.432Z*

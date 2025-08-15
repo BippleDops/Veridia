@@ -62,7 +62,6 @@ Possible outcomes
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Scaling by Party Level
 - **Level 1-4**: Reduce enemies
 - **Level 5-10**: Standard difficulty

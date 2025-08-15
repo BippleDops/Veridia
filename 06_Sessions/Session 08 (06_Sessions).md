@@ -160,7 +160,6 @@ Mentioned in The Hidden Prophecy of Shadows
 - Stealing medicine to save a plague victim
 - Choosing between two villages to save
 
-
 ## See Also
 - Related content
 - Similar topics

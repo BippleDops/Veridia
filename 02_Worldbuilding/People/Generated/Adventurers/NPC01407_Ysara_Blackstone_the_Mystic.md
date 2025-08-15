@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Blackstone the Mystic", "ysara blackstone the mystic", "Ysara Blackstone Mystic", "Mystic the Blackstone Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Blackstone the Mystic
 
 *Dwarf Bard (Adventurers), Age 63, Non-binary*
@@ -42,26 +48,21 @@ Accidentally gained powers and learning to control them A prophetic dream has be
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Erasmus Xendar the Bold (Professional - Employee)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ### Cedric Hawthorne the Scholar (Criminal - Accomplice)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Corvus Ashford the Redeemed (Criminal - Informant)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Malakai Xendar the Redeemed (Criminal - Fence)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Is from the future

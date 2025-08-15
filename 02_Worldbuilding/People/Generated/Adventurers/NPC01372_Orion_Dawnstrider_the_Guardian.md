@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Dawnstrider the Guardian", "orion dawnstrider the guardian", "Orion Dawnstrider Guardian", "Guardian the Dawnstrider Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Dawnstrider the Guardian
 
 *Aasimar Wizard (Adventurers), Age 69, Male*
@@ -36,27 +42,22 @@ Chosen by fate to fulfill an ancient prophecy They recently discovered a secret 
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Elric Moonshadow the Swift (Professional - Partner)
 - **Status**: Complicated history
 - **History**: United by common enemy
 
-
 ### Pyria Thornweave the Seeker (Family - Parent)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
-
 
 ### Corvus Silverleaf the Wise (Professional - Mentor)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Cedric Underhill the Fallen (Criminal - Target)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Possessed by ancient spirit

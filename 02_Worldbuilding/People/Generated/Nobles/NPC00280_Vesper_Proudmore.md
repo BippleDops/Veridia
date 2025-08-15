@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Proudmore", "vesper proudmore", "Proudmore Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Proudmore
 
 *Tabaxi Ambassador (Nobles), Age 43, Non-binary*
@@ -13,7 +19,6 @@
 Tall and muscular, with Shaved black hair and Heterochromic eyes. Unusual hue skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Believes in every conspiracy theory; Compulsive liar about minor things
@@ -42,16 +47,13 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Drusilla Moonshadow (Personal - Ex-lover)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Gavril Ravenheart the Lost (Professional - Employee)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ### Qadim Brightblade the Wanderer (Criminal - Target)
 - **Status**: One-sided affection

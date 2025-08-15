@@ -36,7 +36,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -82,7 +82,7 @@ System Operator Tide Watchwright is a undersea element of the setting, known for
 
 Legends speak of System Operator Tide Watchwright as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around System Operator Tide Watchwright.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -100,3 +100,8 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Someone is protecting a witness for power
 - A stranger needs help delivering before dawn
 - A journal reveals a betrayal about a local noble
+
+## References
+
+- [[Crystal-Corruption-Tracking-Sheet]]
+- [[Crystal-Corruption-Tracking-Sheet (D&D_References)]]

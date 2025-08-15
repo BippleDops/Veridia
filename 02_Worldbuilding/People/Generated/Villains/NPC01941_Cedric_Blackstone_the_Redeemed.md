@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Blackstone the Redeemed", "cedric blackstone the redeemed", "Cedric Blackstone Redeemed", "Redeemed the Blackstone Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Blackstone the Redeemed
 
 *Half-Elf Assassin (Villains), Age 52, Non-binary*
@@ -36,22 +42,18 @@ Driven mad by knowledge humanity wasn't meant to know They've been marked by a s
 - **Short Term**: Avoid the authorities
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Ysara Moonshadow the Scholar (Family - Spouse)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
 
-
 ### Orion Crystalbrook the Risen (Family - Sibling)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Vesper Moonshadow the Scholar (Professional - Employee)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
-
 
 ### Gareth Underhill the Guardian (Professional - Partner)
 - **Status**: Professional only
@@ -61,7 +63,6 @@ Driven mad by knowledge humanity wasn't meant to know They've been marked by a s
 ### Rhiannon Keenblade the Lost (Family - Sibling)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Knows how the world will end

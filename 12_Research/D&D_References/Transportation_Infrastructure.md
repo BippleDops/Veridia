@@ -78,3 +78,12 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Aquabyssos_Submarines]]
+- [[Fleet_Dynamics_Generator]]
+- [[Journey_Event_Compiler]]
+- [[Vehicles - Aquabyssos Submarines]]
+- [[Vehicles - Fleet Dynamics Generator]]
+- [[Vehicles - Journey Event Compiler]]

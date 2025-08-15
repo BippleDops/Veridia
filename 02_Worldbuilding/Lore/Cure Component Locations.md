@@ -29,7 +29,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -180,7 +180,7 @@ Cure Component Locations can serve as:
 - **Major Setting**: Central to campaign events
 - **Background Element**: Referenced but not visited
 
-### [[[[Random Encounter]]s]] (d20)
+### [[Random Encounter|[[Random Encounter]]s]] (d20)
 1-4: [[City Watch]] patrol
 5-8: Merchant hawking wares
 9-11: Pickpocket attempt
@@ -245,3 +245,10 @@ Cure Component Locations can serve as:
 - Civil war
 - Natural disasters
 - Current [[Power Structures]] established
+
+## References
+
+- [[Campaign_Overview (Crystal_Plague)]]
+- [[Capital City]]
+- [[Conquered Territory]]
+- [[Southshire]]

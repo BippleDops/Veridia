@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Oakenshield the Lost", "idris oakenshield the lost", "Idris Oakenshield Lost", "Lost the Oakenshield Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Oakenshield the Lost
 
 *Tabaxi Cleric (Adventurers), Age 33, Male*
@@ -13,7 +19,6 @@
 Towering and compact, with Wild and unkempt black hair and Gray eyes. Tan skin. Intricate tattoos covering arms.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Incredibly optimistic despite evidence; Always hungry and eating something
@@ -36,7 +41,6 @@ Running from a dark past that won't stay buried An old debt has come due at the 
 - **Short Term**: Gather information
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Hestara Ashford the Seeker (Professional - Mentor)
 - **Status**: Secretly hostile
@@ -47,11 +51,9 @@ Running from a dark past that won't stay buried An old debt has come due at the 
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Delara Youngblood the Bold (Family - Child)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Possessed by ancient spirit

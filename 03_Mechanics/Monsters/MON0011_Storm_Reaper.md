@@ -1,4 +1,5 @@
 ---
+aliases: ["Storm Reaper", "storm reaper", "Reaper Storm"]
 tags: [generated]
 id: MON0011_Storm_Reaper
 created: 2025-08-15T04:09:51.424Z
@@ -26,7 +27,6 @@ A guardian entity bound to protect sacred sites
 
 ---
 *Generated: 2025-08-15T03:21:47.462Z*
-
 
 ## Habitat
 - Natural environment and territories

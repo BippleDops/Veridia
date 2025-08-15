@@ -1,4 +1,5 @@
 ---
+aliases: ["In Search of Truth", "in search of truth", "Truth of Search In"]
 tags: [generated]
 id: QUEST0082
 created: 2025-08-15T04:09:51.410Z
@@ -22,8 +23,6 @@ Safely deliver the ambassador to the capital
 ### Secondary
 - Recover additional valuable items
 - Maintain cover identity
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they witnessed something they shouldn't have, which changed their life forever. Now, circumstances demand immediate action.

@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Stormwind the Scholar", "kaelen stormwind the scholar", "Kaelen Stormwind Scholar", "Scholar the Stormwind Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Stormwind the Scholar
 
 *Genasi Dark Wizard (Villains), Age 25, Male*
@@ -13,7 +19,6 @@
 Very tall and heavyset, with Braided elaborately auburn hair and Gray eyes. Weathered skin. Unusual eye color for their race.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Believes in every conspiracy theory; Collects unusual and worthless objects; Never backs down from any challenge
@@ -36,32 +41,26 @@ Driven mad by knowledge humanity wasn't meant to know A prophetic dream has been
 - **Short Term**: Sabotage competition
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Hilda Ravenheart the Scholar (Family - Child)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Hilda Quicksilver the Swift (Political - Puppet)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ### Idris Voidwalker the Broken (Professional - Employee)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Caelum Ravenheart the Lost (Personal - Ex-lover)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Idris Hawthorne the Mystic (Family - Sibling)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Was once a renowned hero

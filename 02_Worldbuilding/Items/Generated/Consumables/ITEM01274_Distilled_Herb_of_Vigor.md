@@ -1,3 +1,9 @@
+---
+aliases: ["Distilled Herb of Vigor", "distilled herb of vigor", "Vigor of Herb Distilled"]
+tags: [item, equipment]
+type: item
+---
+
 # Distilled Herb of Vigor
 
 *Consumables, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A distilled herb glowing softly
 - Restore 4d4+4 hit points
 - Grant advantage for 1 hour
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -31,7 +35,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.472Z*

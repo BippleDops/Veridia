@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Silverleaf the Strong", "xander silverleaf the strong", "Xander Silverleaf Strong", "Strong the Silverleaf Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Silverleaf the Strong
 
 *Gnome Appraiser (Merchants), Age 41, Male*
@@ -36,22 +42,18 @@ Uses their business as cover for other activities An old debt has come due at th
 - **Short Term**: Avoid the authorities
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Vesper Goldleaf the Wanderer (Personal - Nemesis)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
 
-
 ### Aeliana Darkwater the Guardian (Personal - Love interest)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
 
-
 ### Wynne Voidwalker the Strong (Family - Parent)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
-
 
 ### Urien Ashford the Cunning (Political - Opposition)
 - **Status**: On the verge of collapse

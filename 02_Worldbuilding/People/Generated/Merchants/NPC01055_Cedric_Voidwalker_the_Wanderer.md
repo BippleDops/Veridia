@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Voidwalker the Wanderer", "cedric voidwalker the wanderer", "Cedric Voidwalker Wanderer", "Wanderer the Voidwalker Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Voidwalker the Wanderer
 
 *Halfling Broker (Merchants), Age 51, Non-binary*
@@ -42,26 +48,21 @@ Inherited a failing business and turned it around A family member's death has le
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Branwen Nightfall the Broken (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ### Nerys Oakenshield the Bold (Personal - Ex-lover)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Delara Brightblade the Wanderer (Political - Opposition)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Elric Grimholt the Redeemed (Professional - Partner)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ### Xander Moonshadow the Cunning (Professional - Mentor)
 - **Status**: Recently reconciled

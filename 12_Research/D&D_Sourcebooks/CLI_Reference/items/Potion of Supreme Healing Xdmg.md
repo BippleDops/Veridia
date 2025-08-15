@@ -78,3 +78,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A stranger needs help finding before winter
 - An heirloom has gone missing and truth emerges
 - A noble needs help stealing before the new moon
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Potion of Healing Gv]]
+- [[Potions of Healing Xdmg]]
+- [[potion-of-healing-gv (items)]]
+- [[potions-of-healing-xdmg (items)]]
+- [[Implements Very Rare Xdmg]]
+- [[Magic Item Table D]]
+- [[Magic Item Table E]]
+- [[Potions for Sale Xge]]
+- [[Random Magic Items Implements]]
+- [[Random Magic Items Relics]]
+- [[implements-very-rare-xdmg (tables)]]
+- [[magic-item-table-d (tables)]]
+- [[magic-item-table-e (tables)]]
+- [[potions-for-sale-xge (tables)]]
+- [[random-magic-items-implements (tables)]]
+- [[random-magic-items-relics (tables)]]

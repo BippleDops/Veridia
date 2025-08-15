@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Moonshadow", "gareth moonshadow", "Moonshadow Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Moonshadow
 
 *Genasi Ambassador (Nobles), Age 41, Male*
@@ -42,26 +48,21 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Idris Xendar (Professional - Rival)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
-
 
 ### Solas Grimholt the Mystic (Family - Parent)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
 
-
 ### Nerys Jadeclaw (Personal - Ex-lover)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
 
-
 ### Baelor Jadeclaw (Political - Spy)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Secretly funding the rebellion

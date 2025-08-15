@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Hawthorne the Wanderer", "ewan hawthorne the wanderer", "Ewan Hawthorne Wanderer", "Wanderer the Hawthorne Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Hawthorne the Wanderer
 
 *Goliath Wizard (Adventurers), Age 66, Non-binary*
@@ -36,7 +42,6 @@ Searching for a legendary treasure their parent died seeking Strange abilities h
 - **Short Term**: Sabotage competition
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Jorah Moonshadow the Lost (Personal - Childhood friend)
 - **Status**: Strained but maintaining
@@ -47,11 +52,9 @@ Searching for a legendary treasure their parent died seeking Strange abilities h
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Drusilla Grimholt the Lost (Personal - Nemesis)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Has died and been resurrected

@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Ironforge the Wanderer", "xander ironforge the wanderer", "Xander Ironforge Wanderer", "Wanderer the Ironforge Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Ironforge the Wanderer
 
 *Tiefling Cleric (Adventurers), Age 20, Female*
@@ -36,22 +42,18 @@ Seeking vengeance for a murdered mentor A family member's death has left them wi
 - **Short Term**: Make this month's payment
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Cedric Zephyrblade the Scholar (Political - Puppet)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Rhiannon Moonshadow the Mystic (Personal - Childhood friend)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Aeliana Underhill the Fallen (Political - Opposition)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ### Ysara Nightfall the Wise (Political - Opposition)
 - **Status**: Strained but maintaining
@@ -61,7 +63,6 @@ Seeking vengeance for a murdered mentor A family member's death has left them wi
 ### Corvus Winterborn the Fallen (Professional - Rival)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Secretly working for the villain

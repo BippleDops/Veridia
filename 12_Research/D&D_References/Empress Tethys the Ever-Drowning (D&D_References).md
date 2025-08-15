@@ -117,3 +117,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[The Parliament of Nobody (Government_and_Parliament)]]
+- [[The Parliament of Nobody]]
+- [[Diplomatic Tides (D&D_Statblocks)]]

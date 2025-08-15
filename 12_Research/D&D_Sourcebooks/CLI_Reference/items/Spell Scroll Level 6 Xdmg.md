@@ -100,3 +100,18 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Master_Spell_Compendium]]
+- [[Spell Scroll Xdmg]]
+- [[spell-scroll-xdmg (items)]]
+- [[Arcana Very Rare Xdmg]]
+- [[Magic Item Table D]]
+- [[Random Magic Items Arcana]]
+- [[Random Magic Items Relics]]
+- [[arcana-very-rare-xdmg (tables)]]
+- [[magic-item-table-d (tables)]]
+- [[random-magic-items-arcana (tables)]]
+- [[random-magic-items-relics (tables)]]

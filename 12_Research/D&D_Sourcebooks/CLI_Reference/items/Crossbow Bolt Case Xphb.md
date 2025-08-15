@@ -90,3 +90,18 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Bolt Xphb]]
+- [[Bolts 20 Xphb]]
+- [[Leatherworkers Tools Xphb]]
+- [[bolt-xphb (items)]]
+- [[bolts-20-xphb (items)]]
+- [[crossbow-bolt-case-xphb (items)]]
+- [[leatherworkers-tools-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[Ammunition Varies Ammunition Xphb]]
+- [[adventuring-gear-phb (tables)]]
+- [[ammunition-varies-ammunition-xphb (tables)]]

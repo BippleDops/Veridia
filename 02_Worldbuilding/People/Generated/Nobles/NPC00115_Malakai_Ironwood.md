@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Ironwood", "malakai ironwood", "Ironwood Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Ironwood
 
 *Firbolg Noble (Nobles), Age 55, Non-binary*
@@ -36,12 +42,10 @@ Secretly adopted into nobility, living in fear of discovery A family member's de
 - **Short Term**: Survive until next week
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Wynne Oakenshield (Political - Patron)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
-
 
 ### Qadim Stormwind the Bold (Criminal - Informant)
 - **Status**: One-sided affection
@@ -56,7 +60,6 @@ Secretly adopted into nobility, living in fear of discovery A family member's de
 ### Cedric Crystalbrook the Lost (Family - Child)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

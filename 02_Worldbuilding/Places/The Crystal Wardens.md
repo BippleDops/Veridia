@@ -63,7 +63,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -123,13 +123,13 @@ The [[Organization]] operates from their fortress-monastery, [[The Crystalline C
 
 ### Command Hierarchy
 
-**The Crystal Commander** - [[High Warden Solarius [[Brightforge]]]]
+**The Crystal Commander** - [[Brightforge|High Warden Solarius [[Brightforge]]]]
 The supreme leader of the Crystal Wardens, currently held by High Warden Solarius Brightforge, a veteran of forty years who has mastered seven different crystal disciplines. The Crystal Commander serves for life and is chosen by the Council of Prisms from among the Prism Wardens.
 
 **Council of Prisms** - Seven senior leaders
 Each member specializes in a different aspect of crystal warfare and goverce:
 - **Prism Warden of Combat** - [[Vanguard Captain Crystalla Shardstrike]] - Tactical operations and battlefield coordination
-- **Prism Warden of Research** - [[[[Artificer]]-General Magnus Gemheart]] - Crystal technology development and innovation
+- **Prism Warden of Research** - [[Artificer|[[Artificer]]-General Magnus Gemheart]] - Crystal technology development and innovation
 - **Prism Warden of Intelligence** - [[Spymaster Quartz Clearview]] - Information gathering and strategic analysis
 - **Prism Warden of Training** - [[Drill Commander Titanius Ironcrystal]] - Recruitment and education programs
 - **Prism Warden of Diplomacy** - [[Ambassador-Warden Luna Peacegem]] - External relations and treaty negotiations
@@ -140,7 +140,7 @@ Each member specializes in a different aspect of crystal warfare and goverce:
 
 **The Shardguard Battalions** (3,000 active wardens)
 Standard infantry units equipped with crystal-enhanced weapons and armor. Each battalion specializes in specific combat environments:
-- **Skyblade Battalion**: [[Aerial Combat]] specialists using flight-enabled crystal gear
+- **Skyblade Battalion**: [[Aerial_Combat|Aerial Combat]] specialists using flight-enabled crystal gear
 - **Deepward Battalion**: Underground and mining operation security forces
 - **Stormwall Battalion**: Defensive specialists for fixed installations and fortifications
 - **Swiftcurrent Battalion**: Mobile response and rapid deployment forces
@@ -240,7 +240,7 @@ Each Warden specializes in at least one crystal discipline, with masters often c
 
 ### The Academy Years
 
-All Crystal Wardens begin their journey at the [[The [[Crystal Academy]]|[[02 Worldbuilding]]/[[Groups]]/The Crystal Academy]], a massive educational complex within the Crystalline Citadel. The training program spans four years and covers every aspect of Warden life:
+All Crystal Wardens begin their journey at the [[Crystal Academy|The [[Crystal Academy]]|[[02_Worldbuilding|02 Worldbuilding]]/[[Groups]]/The Crystal Academy]], a massive educational complex within the Crystalline Citadel. The training program spans four years and covers every aspect of Warden life:
 
 **First Year - Foundation**:
 - Basic crystal theory and resoce principles
@@ -365,13 +365,13 @@ The Crystalline Citadel represents one of the most heavily defended locations in
 
 ### Primary Missions
 
-**Realm Defense**: The Crystal Wardens serve as Aethermoor's primary military force, responsible for protecting against external threats from other realms, dimensional invaders, and large-scale [[Criminal Organizations]].
+**Realm Defense**: The Crystal Wardens serve as Aethermoor's primary military force, responsible for protecting against external threats from other realms, dimensional invaders, and large-scale [[Criminal_Organizations|Criminal Organizations]].
 
 **Internal Security**: Maintaining order within Aethermoor, including suppressing rebellions, protecting important installations, and ensuring the safety of key [[Government Officia]]ls and dignitaries.
 
 **Diplomatic Protection**: Providing security for diplomatic missions, treaty negotiations, and high-level government functions, both within Aethermoor and in other realms.
 
-**Research and Development**: Advancing crystal technology for military and civilian applications, including weapons development, [[Communication Systems]], and magical research.
+**Research and Development**: Advancing crystal technology for military and civilian applications, including weapons development, [[Communication_Systems|Communication Systems]], and magical research.
 
 **Emergency Response**: Responding to natural disasters, magical accidents, and other crises that require military-level organization and resources.
 
@@ -620,7 +620,7 @@ Legends speak of The Crystal Wardens as a nexus where past and present converge.
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -644,13 +644,11 @@ The Crystal Wardens is a notable location characterized by its unique features a
 ### Founding
 The Crystal Wardens was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -658,13 +656,11 @@ The Crystal Wardens was established in the distant past, growing from humble beg
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -699,7 +695,6 @@ Ongoing situations affecting The Crystal Wardens:
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -731,3 +726,9 @@ Ongoing situations affecting The Crystal Wardens:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Crystalhaven (D&D_References)]]
+- [[The Final Choice (D&D_References)]]
+- [[The Final Choice 3 (D&D_References)]]

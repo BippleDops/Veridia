@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Frostwhisper the Seeker", "ewan frostwhisper the seeker", "Ewan Frostwhisper Seeker", "Seeker the Frostwhisper Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Frostwhisper the Seeker
 
 *Human Corrupt Noble (Villains), Age 41, Male*
@@ -42,16 +48,13 @@ Born into evil but questioning their path A family member's death has left them 
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Erasmus Crystalbrook the Swift (Criminal - Informant)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Dara Xendar the Seeker (Criminal - Fence)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ### Nerys Moonshadow the Lost (Professional - Mentor)
 - **Status**: On the verge of collapse

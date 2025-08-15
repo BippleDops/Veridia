@@ -42,7 +42,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-surface-syndicate-surface-syndicate.svg)
 
@@ -299,7 +298,6 @@ Legends speak of Surface Syndicate as a nexus where past and present converge. L
 - 20% middle class
 - 79% working poor
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -335,3 +333,18 @@ Legends speak of Surface Syndicate as a nexus where past and present converge. L
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Elder Whisper-In-The-Dark (People)]]
+- [[Assets Symbols Symbol Heraldry the Deepwater Trading Consortium the Deepwater Trading Consortium.svg]]
+- [[Elder Whisper-In-The-Dark]]
+- [[The Barnacle]]
+- [[The_Crimson_Pearl]]
+- [[Elder Whisper-In-The-Dark (Places)]]
+- [[Aquabyssos Ambassadors]]
+- [[Elder Whisper-In-The-Dark (D&D_References)]]
+- [[The Crimson Pearl (D&D_References)]]
+- [[The_Crimson_Pearl (D&D_References)]]
+- [[Elder Whisper-In-The-Dark (D&D_Statblocks)]]
+- [[The Barnacle (D&D_Statblocks)]]

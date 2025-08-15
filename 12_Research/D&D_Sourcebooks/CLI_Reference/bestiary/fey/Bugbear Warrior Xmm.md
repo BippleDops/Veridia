@@ -153,3 +153,11 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[bugbear-warrior-xmm (fey)]]
+- [[Monsters by Habitat Grassland Monsters Xmm]]
+- [[Random Hag Minions Brutes Vgm]]
+- [[monsters-by-habitat-grassland-monsters-xmm (tables)]]
+- [[random-hag-minions-brutes-vgm (tables)]]

@@ -73,3 +73,8 @@ Mentioned in The Second Prophecy of Shadows
 
 - A stranger needs help investigating before the festival
 - Someone is protecting a artifact for power
+
+## References
+
+- [[List Optfeaturetype Mm]]
+- [[list-optfeaturetype-mm (lists)]]

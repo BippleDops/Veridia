@@ -1,11 +1,11 @@
 ---
+aliases: ["Nathaniel Stormwind", "nathaniel stormwind", "Stormwind Nathaniel"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Child of farmers who sought adventure. Years ago, they survived a plague that ki
 ### Skills
 Insight, Stealth
 
-
-
 ## Possessions
 - 75 gold pieces
 - Set of thieves' tools
@@ -89,7 +87,6 @@ Insight, Stealth
 
 ---
 *Generated: 2025-08-15T03:21:04.030Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Hawthorne the Mystic", "pyria hawthorne the mystic", "Pyria Hawthorne Mystic", "Mystic the Hawthorne Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Hawthorne the Mystic
 
 *Halfling Assassin (Villains), Age 37, Female*
@@ -42,21 +48,17 @@ Corrupted by an artifact or dark magic They're being blackmailed by someone from
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Ysara Ashford the Redeemed (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ### Wynne Keenblade the Lost (Political - Patron)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Felicia Lightbringer the Wanderer (Professional - Employee)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Was once a renowned hero

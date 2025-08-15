@@ -163,3 +163,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[nalfeshnee-xmm (fiend)]]
+- [[Iron Flask Xdmg]]
+- [[iron-flask-xdmg (items)]]

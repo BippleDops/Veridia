@@ -191,7 +191,6 @@ Key locations marked:
 - Natural disasters
 - Current power structures established
 
-
 ## Adventure Seeds
 - Mysterious occurrence
 - Local conflict

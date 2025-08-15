@@ -11,7 +11,7 @@ created: '2025-01-15'
 
 ## Portrait
 
-![[portrait_04_resources_assets_portraits_portrait-npc-lord-commander-steelborn-lord-commander-steelborn.svg.png]]
+![[04_Resources|portrait_04_resources_assets_portraits_portrait-npc-lord-commander-steelborn-lord-commander-steelborn.svg.png]]
 
 *Portrait reference for 04_Resources_Assets_Portraits_portrait-npc-lord-commander-steelborn-lord-commander-steelborn.svg*
 
@@ -75,3 +75,11 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+## References
+
+- [[Assets Locations Location City Master Chronologist Temporal Truthkeeper V1 Master Chronologist Temporal Truthkeeper.svg]]
+- [[Assets Portraits Portrait NPC Captain Marcus Ironwill Captain Marcus Ironwill.svg]]
+- [[Assets Portraits Portrait NPC Master Smith Priest Vulcan Depthforge Master Smith Priest Vulcan Depthforge.svg]]
+- [[Assets Symbols Symbol Heraldry Dockworkers Union Dockworkers Union.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-lord-commander-steelborn-lord-commander-steelborn.svg_Quick_Ref]]

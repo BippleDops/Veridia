@@ -63,3 +63,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Campaign_Dashboard]]
+- [[The Observatory Between]]
+- [[Aquabyssos (D&D_References)]]
+- [[The Observatory Between (D&D_References)]]

@@ -127,3 +127,7 @@ All detailed reports saved in `13_Performance/`:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+## References
+
+- [[VAULT_OPTIMIZATION_COMPLETE]]

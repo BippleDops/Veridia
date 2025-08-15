@@ -1,3 +1,9 @@
+---
+aliases: ["Pure Herb of Swiftness", "pure herb of swiftness", "Swiftness of Herb Pure"]
+tags: [item, equipment]
+type: item
+---
+
 # Pure Herb of Swiftness
 
 *Consumables, Common*
@@ -13,8 +19,6 @@ A pure herb swirling with colors
 ## Properties
 - Breathe underwater 1 hour
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -29,7 +33,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.467Z*

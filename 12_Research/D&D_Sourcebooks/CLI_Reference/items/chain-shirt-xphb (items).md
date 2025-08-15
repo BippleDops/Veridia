@@ -77,3 +77,17 @@ Mentioned in The Second Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Drow Spore Servant Oota]]
+- [[drow-spore-servant-oota (plant)]]
+- [[Sword Wraith Warrior Mpmm]]
+- [[sword-wraith-warrior-mpmm (undead)]]
+- [[Cleric Xphb]]
+- [[cleric-xphb (classes)]]
+- [[Armor Xphb]]
+- [[Armor and Shields Armor Phb]]
+- [[armor-and-shields-armor-phb (tables)]]
+- [[armor-xphb (tables)]]

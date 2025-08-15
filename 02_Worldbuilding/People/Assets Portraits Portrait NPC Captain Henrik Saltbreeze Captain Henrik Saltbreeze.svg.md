@@ -187,3 +187,7 @@ This NPC can serve multiple roles:
 ## Bloodline
 
 Member of House Dragonblood - Trait: magical affinity
+
+## References
+
+- [[Assets Locations Location City Harbor Master Tideshade Harbor Master Tideshade.svg]]

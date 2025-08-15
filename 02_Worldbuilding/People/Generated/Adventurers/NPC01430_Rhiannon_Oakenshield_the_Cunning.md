@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Oakenshield the Cunning", "rhiannon oakenshield the cunning", "Rhiannon Oakenshield Cunning", "Cunning the Oakenshield Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Oakenshield the Cunning
 
 *Elf Wizard (Adventurers), Age 60, Non-binary*
@@ -42,7 +48,6 @@ Chosen by fate to fulfill an ancient prophecy An old debt has come due at the wo
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Brenna Dawnstrider the Guardian (Political - Opposition)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
@@ -52,11 +57,9 @@ Chosen by fate to fulfill an ancient prophecy An old debt has come due at the wo
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Erasmus Goldleaf the Strong (Personal - Ex-lover)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Possessed by ancient spirit

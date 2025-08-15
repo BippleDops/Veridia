@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Underhill the Lost", "caelum underhill the lost", "Caelum Underhill Lost", "Lost the Underhill Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Underhill the Lost
 
 *Firbolg Corrupt Noble (Villains), Age 43, Male*
@@ -13,7 +19,6 @@
 Towering and imposing, with Dreadlocks gray hair and Green eyes. Tan skin. Missing ear from old battle.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Never backs down from any challenge; Incredibly optimistic despite evidence; Sees doom and gloom everywhere
@@ -36,7 +41,6 @@ Driven mad by knowledge humanity wasn't meant to know An old debt has come due a
 - **Short Term**: Make this month's payment
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Hilda Grimholt the Wise (Criminal - Target)
 - **Status**: Complicated history
@@ -47,7 +51,6 @@ Driven mad by knowledge humanity wasn't meant to know An old debt has come due a
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Orion Crystalbrook the Guardian (Family - Cousin)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
@@ -56,7 +59,6 @@ Driven mad by knowledge humanity wasn't meant to know An old debt has come due a
 ### Hestara Zephyrblade the Wise (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is being controlled by darker force

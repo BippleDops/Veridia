@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Lightbringer the Wanderer", "drusilla lightbringer the wanderer", "Drusilla Lightbringer Wanderer", "Wanderer the Lightbringer Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Lightbringer the Wanderer
 
 *Dragonborn Aristocrat (Nobles), Age 60, Non-binary*
@@ -42,16 +48,13 @@ Secretly adopted into nobility, living in fear of discovery They recently discov
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Fiora Goldleaf (Political - Patron)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Cedric Brightblade (Family - Sibling)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ### Caelum Brightblade (Personal - Childhood friend)
 - **Status**: One-sided affection
@@ -62,11 +65,9 @@ Secretly adopted into nobility, living in fear of discovery They recently discov
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Gavril Youngblood the Risen (Political - Patron)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Practicing forbidden magic

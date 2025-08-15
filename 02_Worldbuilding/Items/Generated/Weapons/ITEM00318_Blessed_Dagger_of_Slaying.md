@@ -1,3 +1,9 @@
+---
+aliases: ["Blessed Dagger of Slaying", "blessed dagger of slaying", "Slaying of Dagger Blessed"]
+tags: [item, equipment]
+type: item
+---
+
 # Blessed Dagger of Slaying
 
 *Weapons, Very Rare*
@@ -16,8 +22,6 @@ A blessed dagger forged from meteoric iron
 - Deals extra 1d6 elemental damage
 - Returns when thrown
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -32,7 +36,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.371Z*

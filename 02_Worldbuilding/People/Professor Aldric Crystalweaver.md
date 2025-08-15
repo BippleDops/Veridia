@@ -34,7 +34,6 @@ This document contains important information regarding Professor Aldric Crystalw
 ## Description
 Professor Aldric Crystalweaver represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-
 ## Statistics
 ___
 - **Armor Class** 10 (natural armor)
@@ -98,13 +97,11 @@ Possible developments and plot directions.
 - Part of larger narrative structures
 - Influences and is influenced by surrounding content
 
-
 ## Motivations
 - **Primary Goal**: Main objective
 - **Secondary Goals**: Supporting aims
 - **Fears**: What they avoid
 - **Desires**: What they seek
-
 
 ## Secrets
 - Hidden information about this character
@@ -120,7 +117,6 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns
@@ -163,3 +159,20 @@ This content can be adapted and expanded based on specific campaign needs.
 - **Truth**: Actual nature
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Arcanum Heights]]
+- [[Relationship Web Nuances]]
+- [[Assets Locations Location City the Sunken Cathedral of Perfect Order V1 the Sunken Cathedral of Perfect Order.svg]]
+- [[Assets Symbols Symbol Heraldry Divine Transformation Theolog Divine Transformation Theolog.svg]]
+- [[The Barnacle]]
+- [[The Bloodline Carrier]]
+- [[The Gilded Shard]]
+- [[Arcanum Heights (D&D_References)]]
+- [[Crystalhaven (D&D_References)]]
+- [[The Gilded Shard (D&D_References)]]
+- [[The Void Tears (D&D_References)]]
+- [[The Barnacle (D&D_Statblocks)]]
+- [[The Bloodline Carrier (D&D_Statblocks)]]

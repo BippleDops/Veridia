@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Emberfall the Strong", "qadim emberfall the strong", "Qadim Emberfall Strong", "Strong the Emberfall Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Emberfall the Strong
 
 *Human Cleric (Adventurers), Age 66, Female*
@@ -66,7 +72,6 @@ Searching for a legendary treasure their parent died seeking They've made a deal
 ### Caelum Dawnstrider the Broken (Personal - Ex-lover)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Has died and been resurrected

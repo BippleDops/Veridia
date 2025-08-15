@@ -1,4 +1,5 @@
 ---
+aliases: ["Ancient Crown of the Dawn", "ancient crown of the dawn", "Ancient Crown of Dawn", "Dawn the of Crown Ancient"]
 tags: [generated]
 id: ITEM0080
 created: 2025-08-15T04:09:51.104Z

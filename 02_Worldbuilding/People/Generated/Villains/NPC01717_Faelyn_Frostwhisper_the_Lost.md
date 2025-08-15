@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Frostwhisper the Lost", "faelyn frostwhisper the lost", "Faelyn Frostwhisper Lost", "Lost the Frostwhisper Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Frostwhisper the Lost
 
 *Goliath Assassin (Villains), Age 55, Female*
@@ -36,7 +42,6 @@ Born into evil but questioning their path Strange abilities have begun manifesti
 - **Short Term**: Survive until next week
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Hestara Ironforge the Bold (Personal - Nemesis)
 - **Status**: Professional only
@@ -47,21 +52,17 @@ Born into evil but questioning their path Strange abilities have begun manifesti
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Malakai Zephyrblade the Swift (Personal - Nemesis)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ### Felicia Xendar the Wanderer (Professional - Employee)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Erasmus Blackstone the Redeemed (Criminal - Accomplice)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Knows how the world will end

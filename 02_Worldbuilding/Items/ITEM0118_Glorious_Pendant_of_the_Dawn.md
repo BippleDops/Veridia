@@ -1,4 +1,5 @@
 ---
+aliases: ["Glorious Pendant of the Dawn", "glorious pendant of the dawn", "Glorious Pendant of Dawn", "Dawn the of Pendant Glorious"]
 tags: [generated]
 id: ITEM0118
 created: 2025-08-15T04:09:51.115Z
@@ -19,8 +20,6 @@ Crafted from dragonscale with ancient symbols, in recently restored. It emanates
 
 ## Quirk
 *Occasionally speaks in ancient tongue*
-
-
 
 ## History
 This item was created to seal an ancient evil decades ago. It has passed through many hands, each leaving their mark upon its destiny.

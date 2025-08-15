@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Dawnstrider the Guardian", "felicia dawnstrider the guardian", "Felicia Dawnstrider Guardian", "Guardian the Dawnstrider Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Dawnstrider the Guardian
 
 *Tabaxi Assassin (Villains), Age 35, Non-binary*
@@ -13,7 +19,6 @@
 Very tall and delicate, with Mohawk brown hair and Red eyes. Fair skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Believes in every conspiracy theory
@@ -42,16 +47,13 @@ Driven mad by knowledge humanity wasn't meant to know They recently discovered a
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
 
-
 ### Corvus Goldleaf the Swift (Political - Opposition)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Corvus Winterborn the Wise (Political - Spy)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Believes they're saving the world

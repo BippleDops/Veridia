@@ -46,7 +46,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-order-of-the-shattered-crown-order-of-the-shattered-crown.svg)
 
@@ -54,7 +53,6 @@ improvements: 20
 
 # Grand Master Valdric Shardseeker
 *Founder and Supreme Leader of the Order of the Shattered Crown*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -715,7 +713,6 @@ Mentioned in The Second Prophecy of Shadows
 - Natural disasters
 - Current power structures established
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -751,3 +748,15 @@ Mentioned in The Second Prophecy of Shadows
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Assets Locations Location City Commander Typhoon Blackheart V1 Commander Typhoon Blackheart.svg]]
+- [[Assets Symbols Symbol Heraldry the Anonymous Protocol the Anonymous Protocol.svg]]
+- [[Sir Marcus Dawnforge]]
+- [[The Bloodline Carrier]]
+- [[The Order of the Shattered Crown]]
+- [[Sir Marcus Dawnforge (D&D_References)]]
+- [[Order of the Shattered Crown (D&D_Statblocks)]]
+- [[The Bloodline Carrier (D&D_Statblocks)]]

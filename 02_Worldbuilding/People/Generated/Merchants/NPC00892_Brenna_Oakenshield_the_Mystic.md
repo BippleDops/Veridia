@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Oakenshield the Mystic", "brenna oakenshield the mystic", "Brenna Oakenshield Mystic", "Mystic the Oakenshield Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Oakenshield the Mystic
 
 *Goliath Shopkeeper (Merchants), Age 65, Female*
@@ -13,7 +19,6 @@
 Very tall and imposing, with Tied back blonde hair and Brown eyes. Freckled skin. Missing ear from old battle.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Believes in every conspiracy theory
@@ -36,12 +41,10 @@ Uses their business as cover for other activities They recently discovered a sec
 - **Short Term**: Recruit new members
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Felicia Blackstone the Guardian (Political - Spy)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
-
 
 ### Corvus Thornweave the Fallen (Personal - Nemesis)
 - **Status**: Secretly hostile
@@ -57,11 +60,9 @@ Uses their business as cover for other activities They recently discovered a sec
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Urien Frostwhisper the Cunning (Personal - Love interest)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Killed previous business owner

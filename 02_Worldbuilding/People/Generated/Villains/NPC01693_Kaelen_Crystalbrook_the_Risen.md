@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Crystalbrook the Risen", "kaelen crystalbrook the risen", "Kaelen Crystalbrook Risen", "Risen the Crystalbrook Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Crystalbrook the Risen
 
 *Gnome Assassin (Villains), Age 77, Non-binary*
@@ -35,7 +41,6 @@ Believes their evil acts serve a greater good They've made a deal they're beginn
 ### Goals
 - **Short Term**: Survive until next week
 - **Long Term**: Uncover the truth about their past
-
 
 ## Relationships
 ### Hestara Voidwalker the Cunning (Political - Opposition)

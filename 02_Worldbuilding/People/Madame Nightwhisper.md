@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-madame-nightwhisper-madame-nightwhisper.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -183,7 +181,6 @@ Member of House Lionblood - Trait: prophecy
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -253,3 +250,10 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Art Merchant Lord Silas Copperfield.png]]
+- [[Assets Locations Location City Deep Current Flowmaster V1 Deep Current Flowmaster.svg]]
+- [[Assets Locations Location City Keeper Valdris Goldvault Keeper Valdris Goldvault.svg]]
+- [[Assets Locations Location City Master Smith Coral Hammer V1 Master Smith Coral Hammer.svg]]

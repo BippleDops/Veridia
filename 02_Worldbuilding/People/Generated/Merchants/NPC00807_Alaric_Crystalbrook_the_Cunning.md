@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Crystalbrook the Cunning", "alaric crystalbrook the cunning", "Alaric Crystalbrook Cunning", "Cunning the Crystalbrook Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Crystalbrook the Cunning
 
 *Tabaxi Appraiser (Merchants), Age 32, Male*
@@ -36,17 +42,14 @@ Uses their business as cover for other activities A chance encounter last winter
 - **Short Term**: Recruit new members
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Erasmus Frostwhisper the Broken (Family - Cousin)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Faelyn Underhill the Broken (Criminal - Fence)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
-
 
 ### Cedric Winterborn the Bold (Criminal - Accomplice)
 - **Status**: Secretly hostile
@@ -56,7 +59,6 @@ Uses their business as cover for other activities A chance encounter last winter
 ### Aeliana Youngblood the Lost (Political - Opposition)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Smuggles illegal magical items

@@ -1,3 +1,9 @@
+---
+aliases: ["Mithril Plate of Resistance", "mithril plate of resistance", "Resistance of Plate Mithril"]
+tags: [item, equipment]
+type: item
+---
+
 # Mithril Plate of Resistance
 
 *Armor, Very Rare*
@@ -16,8 +22,6 @@ A mithril plate bearing ancient runes
 - Immunity to critical hits
 - +2 to AC
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -32,7 +36,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.396Z*

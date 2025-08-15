@@ -105,3 +105,14 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Korred Mpmm]]
+- [[korred-mpmm (fey)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Barbarian Xphb Path of the Wild Heart Xphb]]
+- [[barbarian-xphb-path-of-the-wild-heart-xphb (classes)]]
+- [[barbarian-xphb-path-of-the-wild-heart-xphb 2 (classes)]]

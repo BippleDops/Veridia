@@ -66,7 +66,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -158,7 +158,7 @@ The Azure Coast enjoys a temperate maritime climate moderated by warm currents f
 *The Smuggler's Paradise*
 - Population: 45,000
 - Nominally independent fishing community
-- Actually controlled by various [[Criminal [[Organization]]s]]
+- Actually controlled by various [[Organization|Criminal [[Organization]]s]]
 - Hidden coves and secret harbors throughout the area
 
 ### Lighthouse Towns
@@ -286,7 +286,7 @@ Loose confederation of city-states cooperating on:
 ### The Ruins of Old Meridian
 
 *Ancient city revealed only during extreme low tides*
-- Pre-[[The [[Great Drowning]]|[[02 Worldbuilding]]/[[Lore]]/[[The Great Drowning]]]] settlement
+- Pre-[[Great Drowning|The [[Great Drowning]]|[[02_Worldbuilding|02 Worldbuilding]]/[[Lore]]/[[The Great Drowning]]]] settlement
 - Contains valuable archaeological artifacts
 - Dangerous to explore due to tidal timing
 - Source of ongoing academic and treasure-hunting expeditions
@@ -324,7 +324,6 @@ The Azure Coast provides:
 - Source of unique resources, information, and specialized services
 EOF < /dev/
 
-
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
@@ -346,7 +345,7 @@ Legends speak of The Azure Coast as a nexus where past and present converge. Loc
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -370,13 +369,11 @@ The Azure Coast is a notable location characterized by its unique features and s
 ### Founding
 The Azure Coast was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -437,7 +434,6 @@ Key stop on metals trade route
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -469,3 +465,21 @@ Key stop on metals trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Quest - The Convergence Crisis]]
+- [[The Great Crystallization]]
+- [[Goldspire Confederacy]]
+- [[Port Meridian - Merchant Quarter]]
+- [[The Floating Markets of Nereidios]]
+- [[Whisper Island]]
+- [[Aethermoor (D&D_References)]]
+- [[Port Meridian - Merchant Quarter (D&D_References)]]
+- [[The Embassy Quarter (D&D_References)]]
+- [[The Floating Markets of Nereidios (D&D_References)]]
+- [[The Great Crystallization (D&D_References)]]
+- [[The Great Crystallization 3 (D&D_References)]]
+- [[The Seven Shards (D&D_References)]]
+- [[The Seven Shards 3 (D&D_References)]]
+- [[Whisper Island (D&D_References)]]

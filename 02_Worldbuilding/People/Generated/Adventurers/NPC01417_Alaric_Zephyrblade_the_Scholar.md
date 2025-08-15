@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Zephyrblade the Scholar", "alaric zephyrblade the scholar", "Alaric Zephyrblade Scholar", "Scholar the Zephyrblade Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Zephyrblade the Scholar
 
 *Elf Rogue (Adventurers), Age 42, Male*
@@ -42,7 +48,6 @@ Seeking vengeance for a murdered mentor They're being blackmailed by someone fro
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
 
-
 ### Pyria Silverleaf the Swift (Political - Patron)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
@@ -52,7 +57,6 @@ Seeking vengeance for a murdered mentor They're being blackmailed by someone fro
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Elric Stormwind the Scholar (Professional - Rival)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
@@ -61,7 +65,6 @@ Seeking vengeance for a murdered mentor They're being blackmailed by someone fro
 ### Malakai Grimholt the Wanderer (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Has died and been resurrected

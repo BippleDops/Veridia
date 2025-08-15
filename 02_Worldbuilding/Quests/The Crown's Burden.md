@@ -269,7 +269,7 @@ Each day spent in the mindscape, the Queen deteriorates:
 - Willing sacrifice of royal blood
 - Shard from the original [[Lady Crystal-Heart Miraleth]]
 - Confession of the kingdom's greatest sin
-- Uimous consent of the [[[[Noble House]]s]]
+- Uimous consent of the [[Noble House|[[Noble House]]s]]
 - Tears of genuine sorrow for the Crown's victims
 
 **The Ritual Process**:
@@ -559,7 +559,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*
 ## Expansion Books & Setting Guides
@@ -695,3 +694,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 3. **Power Level**: Newer books sometimes have stronger options
 4. **Integration**: Consider how content fits campaign theme
 5. **AL Legal**: Check Adventurers League rules if applicable
+
+## References
+
+- [[The Crown of Stars]]
+- [[Nerissa_Deepcurrent]]
+- [[Nerissa Deepcurrent (D&D_References)]]
+- [[Nerissa_Deepcurrent (D&D_References)]]

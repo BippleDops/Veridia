@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Brightblade the Redeemed", "delara brightblade the redeemed", "Delara Brightblade Redeemed", "Redeemed the Brightblade Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Brightblade the Redeemed
 
 *Tabaxi Corrupt Noble (Villains), Age 57, Non-binary*
@@ -36,27 +42,22 @@ Believes their evil acts serve a greater good An old debt has come due at the wo
 - **Short Term**: Recruit new members
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Thalia Blackstone the Scholar (Family - Child)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
 
-
 ### Jorah Emberfall the Fallen (Political - Puppet)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ### Elric Stormwind the Guardian (Political - Opposition)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
 
-
 ### Vesper Ravenheart the Cunning (Personal - Ex-lover)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Knows how the world will end

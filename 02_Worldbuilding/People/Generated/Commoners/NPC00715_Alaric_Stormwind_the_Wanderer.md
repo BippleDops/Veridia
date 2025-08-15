@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Stormwind the Wanderer", "alaric stormwind the wanderer", "Alaric Stormwind Wanderer", "Wanderer the Stormwind Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Stormwind the Wanderer
 
 *Dragonborn Farmer (Commoners), Age 39, Male*
@@ -52,11 +58,9 @@ Survivor of a disaster that destroyed their village They've made a deal they're 
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Zephyr Ashford the Cunning (Personal - Best friend)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Witnessed a noble's crime

@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Silverleaf", "lyanna silverleaf", "Silverleaf Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Silverleaf
 
 *Halfling Noble (Nobles), Age 52, Non-binary*
@@ -13,7 +19,6 @@
 Average height and muscular, with Shaved blonde hair and Black eyes. Freckled skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Compulsive liar about minor things; Never uses people's real names
@@ -42,21 +47,17 @@ Secretly adopted into nobility, living in fear of discovery A chance encounter l
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Orion Quicksilver the Bold (Criminal - Target)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ### Ysara Oakenshield (Criminal - Fence)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Branwen Keenblade (Personal - Best friend)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Child from scandalous affair

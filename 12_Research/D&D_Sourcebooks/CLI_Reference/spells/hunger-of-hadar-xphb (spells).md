@@ -46,7 +46,6 @@ This content can be adapted and expanded based on specific campaign needs.
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -65,4 +64,22 @@ This content can be adapted and expanded based on specific campaign needs.
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[hunger-of-hadar-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[hunger-of-hadar-xphb (spells)|hunger-of-hadar-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Neogi Master Mpmm]]
+- [[neogi-master-mpmm (aberration)]]
+- [[Deathlock Mpmm]]
+- [[Vampire Umbral Lord Xmm]]
+- [[deathlock-mpmm (undead)]]
+- [[vampire-umbral-lord-xmm (undead)]]
+- [[09 Appendix a Lore Glossary]]
+- [[09-appendix-a-lore-glossary (dungeon-masters-guide-2024)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Sorcerer Xphb Aberrant Sorcery Xphb]]
+- [[Warlock Xphb Great Old One Patron Xphb]]
+- [[sorcerer-xphb-aberrant-sorcery-xphb (classes)]]
+- [[warlock-xphb-great-old-one-patron-xphb (classes)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Youngblood the Wise", "vesper youngblood the wise", "Vesper Youngblood Wise", "Wise the Youngblood Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Youngblood the Wise
 
 *Tabaxi Noble (Nobles), Age 19, Male*
@@ -46,7 +52,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 ### Pyria Proudmore the Cunning (Criminal - Fence)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
-
 
 ### Gareth Silverleaf the Wise (Political - Spy)
 - **Status**: Mutually beneficial

@@ -92,7 +92,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -105,3 +104,26 @@ Contextual improvement based on 12_Research
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Master_Spell_Compendium]]
+- [[Armaments Legendary Xdmg]]
+- [[Armaments Rare Xdmg]]
+- [[Armaments Uncommon Xdmg]]
+- [[Armaments Very Rare Xdmg]]
+- [[Implements Legendary Xdmg]]
+- [[Implements Uncommon Xdmg]]
+- [[Implements Very Rare Xdmg]]
+- [[Random Magic Items Armaments]]
+- [[Random Magic Items Implements]]
+- [[armaments-legendary-xdmg (tables)]]
+- [[armaments-rare-xdmg (tables)]]
+- [[armaments-uncommon-xdmg (tables)]]
+- [[armaments-very-rare-xdmg (tables)]]
+- [[implements-legendary-xdmg (tables)]]
+- [[implements-uncommon-xdmg (tables)]]
+- [[implements-very-rare-xdmg (tables)]]
+- [[random-magic-items-armaments (tables)]]
+- [[random-magic-items-implements (tables)]]

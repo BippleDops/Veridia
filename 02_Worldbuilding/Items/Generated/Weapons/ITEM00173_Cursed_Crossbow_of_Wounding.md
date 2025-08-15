@@ -1,3 +1,9 @@
+---
+aliases: ["Cursed Crossbow of Wounding", "cursed crossbow of wounding", "Wounding of Crossbow Cursed"]
+tags: [item, equipment]
+type: item
+---
+
 # Cursed Crossbow of Wounding
 
 *Weapons, Uncommon*
@@ -14,8 +20,6 @@ A cursed crossbow carved from dragon bone
 - Returns when thrown
 - Grants advantage on initiative
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -30,7 +34,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.357Z*

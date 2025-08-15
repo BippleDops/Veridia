@@ -208,3 +208,7 @@ This NPC can serve multiple roles:
 - Civil war
 - Natural disasters
 - Current power structures established
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-quartermaster-judith-steadfast-v1-quartermaster-judith-steadfast.svg]]

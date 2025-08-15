@@ -1,11 +1,11 @@
 ---
+aliases: ["Vera Goldleaf", "vera goldleaf", "Goldleaf Vera"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Raised by monks in a remote monastery. Years ago, they survived a plague that ki
 ### Skills
 Insight, Deception, Investigation
 
-
-
 ## Possessions
 - 97 gold pieces
 - Book of poetry
@@ -92,7 +90,6 @@ Insight, Deception, Investigation
 
 ---
 *Generated: 2025-08-15T03:21:04.037Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

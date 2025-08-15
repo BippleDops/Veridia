@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Proudmore the Redeemed", "brenna proudmore the redeemed", "Brenna Proudmore Redeemed", "Redeemed the Proudmore Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Proudmore the Redeemed
 
 *Dragonborn Blacksmith (Commoners), Age 73, Non-binary*
@@ -13,7 +19,6 @@
 Towering and delicate, with Tied back bald hair and Green eyes. Unusual hue skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Speaks to inanimate objects
@@ -36,12 +41,10 @@ Runaway from an arranged marriage, starting a new life They're being blackmailed
 - **Short Term**: Recruit new members
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Gareth Silverleaf the Redeemed (Family - Cousin)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ### Thalia Ashford the Mystic (Professional - Employer)
 - **Status**: On the verge of collapse

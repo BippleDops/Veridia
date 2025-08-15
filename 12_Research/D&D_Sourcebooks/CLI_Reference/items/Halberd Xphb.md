@@ -80,3 +80,13 @@ Mentioned in The Hidden Prophecy of Depths
 
 - Someone is blackmailing a artifact for love
 - An heirloom has gone missing and truth emerges
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Paladin Xphb]]
+- [[paladin-xphb (classes)]]
+- [[Weapons Phb]]
+- [[Weapons Xphb]]
+- [[weapons-phb (tables)]]
+- [[weapons-xphb (tables)]]

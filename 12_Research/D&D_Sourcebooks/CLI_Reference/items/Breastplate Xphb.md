@@ -83,3 +83,21 @@ Mentioned in The Hidden Prophecy of Depths
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Mind Flayer Psion Vgm]]
+- [[Ulitharid Mpmm]]
+- [[mind-flayer-psion-vgm (aberration)]]
+- [[ulitharid-mpmm (aberration)]]
+- [[Flind Mpmm]]
+- [[flind-mpmm (fiend)]]
+- [[Ogre Howdah Mpmm]]
+- [[ogre-howdah-mpmm (giant)]]
+- [[Sword Wraith Commander Mpmm]]
+- [[sword-wraith-commander-mpmm (undead)]]
+- [[Armor Xphb]]
+- [[Armor and Shields Armor Phb]]
+- [[armor-and-shields-armor-phb (tables)]]
+- [[armor-xphb (tables)]]

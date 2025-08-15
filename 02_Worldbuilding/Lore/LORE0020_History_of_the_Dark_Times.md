@@ -1,4 +1,5 @@
 ---
+aliases: ["History of the Dark Times", "history of the dark times", "History of Dark Times", "Times Dark the of History"]
 tags: [generated]
 id: LORE0020_History_of_the_Dark_Times
 created: 2025-08-15T04:09:51.132Z

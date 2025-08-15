@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Underhill the Lost", "solas underhill the lost", "Solas Underhill Lost", "Lost the Underhill Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Underhill the Lost
 
 *Dragonborn Blacksmith (Commoners), Age 19, Female*
@@ -13,7 +19,6 @@
 Above average and delicate, with Dreadlocks blonde hair and Red eyes. Brown skin. Warm smile that puts people at ease.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Believes in every conspiracy theory; Always speaks in metaphors and riddles; Always hungry and eating something
@@ -36,22 +41,18 @@ Former soldier trying to adjust to civilian life An old debt has come due at the
 - **Short Term**: Avoid the authorities
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Urien Blackstone the Risen (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Gareth Zephyrblade (Personal - Childhood friend)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Delara Underhill (Political - Puppet)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Is the lost heir to the throne

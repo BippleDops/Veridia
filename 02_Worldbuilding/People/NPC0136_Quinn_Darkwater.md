@@ -1,11 +1,11 @@
 ---
+aliases: ["Quinn Darkwater", "quinn darkwater", "Darkwater Quinn"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Born into a noble family but cast out for scandal. Years ago, they lost everythi
 ### Skills
 Arcana, Investigation, Stealth
 
-
-
 ## Possessions
 - 63 gold pieces
 - Healing potion
@@ -91,7 +89,6 @@ Arcana, Investigation, Stealth
 
 ---
 *Generated: 2025-08-15T03:21:04.040Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

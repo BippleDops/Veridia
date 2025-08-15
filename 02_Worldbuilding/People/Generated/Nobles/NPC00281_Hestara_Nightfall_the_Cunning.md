@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Nightfall the Cunning", "hestara nightfall the cunning", "Hestara Nightfall Cunning", "Cunning the Nightfall Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Nightfall the Cunning
 
 *Dragonborn Heir (Nobles), Age 38, Non-binary*
@@ -36,17 +42,14 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Short Term**: Find missing person
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Drusilla Ironwood (Political - Ally)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
 
-
 ### Felicia Lightbringer (Professional - Employee)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ### Dara Brightblade the Seeker (Professional - Employer)
 - **Status**: One-sided affection
@@ -56,7 +59,6 @@ Recently elevated to nobility through service, still learning courtly ways They'
 ### Lyanna Ironforge the Broken (Family - Spouse)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Secretly funding the rebellion

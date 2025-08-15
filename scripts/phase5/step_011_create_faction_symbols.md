@@ -1,3 +1,8 @@
+---
+tags: [faction, organization]
+type: faction
+---
+
 # Create faction symbols
 
 *Implemented: 2025-08-13 10:27*
@@ -24,13 +29,11 @@ Specific functionality can be enhanced based on requirements.
 
 *Autonomous Implementation System - Phase 5 Excellence Amplification*
 
-
 ## Connections
 
 - See also: [[Master_Timeline]]
 - Related: [[Historical Context]]
 - Connected to: [[Character Backstories]]
-
 
 ## DM Notes
 

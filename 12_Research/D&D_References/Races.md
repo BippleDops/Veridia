@@ -71,3 +71,14 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Harbor Master Luna Freedrift (Places)]]
+- [[The Pearl Markets]]
+- [[QUEST0018_The_Sunken_Temple_Uprising]]
+- [[Master_Spell_Compendium]]
+- [[Elf Xphb]]
+- [[Tiefling Xphb]]
+- [[elf-xphb (races)]]
+- [[tiefling-xphb (races)]]

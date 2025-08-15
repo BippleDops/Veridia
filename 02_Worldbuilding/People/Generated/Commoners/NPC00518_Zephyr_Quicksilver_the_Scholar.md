@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Quicksilver the Scholar", "zephyr quicksilver the scholar", "Zephyr Quicksilver Scholar", "Scholar the Quicksilver Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Quicksilver the Scholar
 
 *Half-Orc Carpenter (Commoners), Age 71, Non-binary*
@@ -36,7 +42,6 @@ Grew up in poverty but discovered a talent that might change everything An old d
 - **Short Term**: Complete current contract
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Solas Underhill the Mystic (Criminal - Fence)
 - **Status**: Recently reconciled
@@ -52,21 +57,17 @@ Grew up in poverty but discovered a talent that might change everything An old d
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Vesper Goldleaf the Cunning (Political - Opposition)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
-
 
 ### Caelum Quicksilver the Seeker (Political - Spy)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Baelor Thornweave the Wise (Criminal - Fence)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Has dragon blood in their veins

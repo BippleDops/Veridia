@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Darkwater", "idris darkwater", "Darkwater Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Darkwater
 
 *Gnome Ambassador (Nobles), Age 36, Male*
@@ -36,22 +42,18 @@ Recently elevated to nobility through service, still learning courtly ways A cha
 - **Short Term**: Complete current contract
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Nerys Quicksilver (Personal - Love interest)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Delara Dawnstrider the Strong (Personal - Childhood friend)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
 
-
 ### Baelor Youngblood (Personal - Best friend)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Practicing forbidden magic

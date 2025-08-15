@@ -82,3 +82,20 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]
+- [[Attitude Xphb]]
+- [[Challenge Rating Xphb]]
+- [[Creature Xphb]]
+- [[Death Saving Throw Xphb]]
+- [[Heroic Inspiration Xphb]]
+- [[Simultaneous Effects Xphb]]
+- [[attitude-xphb (variant-rules)]]
+- [[challenge-rating-xphb (variant-rules)]]
+- [[creature-xphb (variant-rules)]]
+- [[death-saving-throw-xphb (variant-rules)]]
+- [[heroic-inspiration-xphb (variant-rules)]]
+- [[simultaneous-effects-xphb (variant-rules)]]

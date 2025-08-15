@@ -75,3 +75,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Strange dreams suggest ancient magic
 - A letter reveals the truth about the cult
+
+## References
+
+- [[Gods of Greyhawk Xdmg]]
+- [[gods-of-greyhawk-xdmg (tables)]]

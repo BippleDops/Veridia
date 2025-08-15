@@ -1,3 +1,9 @@
+---
+aliases: ["Pure Crystal of Swiftness", "pure crystal of swiftness", "Swiftness of Crystal Pure"]
+tags: [item, equipment]
+type: item
+---
+
 # Pure Crystal of Swiftness
 
 *Consumables, Rare*
@@ -15,8 +21,6 @@ A pure crystal emanating sweet fragrance
 - Resistance for 10 minutes
 - Restore 4d4+4 hit points
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -31,7 +35,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.447Z*

@@ -58,3 +58,18 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Quest - Nature's Balance]]
+- [[Quest - Nature's Balance_1 (01_Adventures)]]
+- [[Quest - The Pretender's Crown]]
+- [[Quest - The Pretender's Crown_1 (01_Adventures)]]
+- [[Shadow Surgeon Apprentice]]
+- [[Emperor Thalassius the Wise]]
+- [[Memory Harvester Kythara]]
+- [[The Crown's Burden]]
+- [[Discover Marina's Truth]]
+- [[Emperor Thalassius the Wise (D&D_Statblocks)]]
+- [[Memory Harvester Kythara (D&D_Statblocks)]]
+- [[The Crown's Burden (D&D_Statblocks)]]

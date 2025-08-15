@@ -161,7 +161,6 @@ The main reason parties get involved
 - Consequences
 - Epilogue hooks
 
-
 ## Preparation Checklist
 - [ ] Review previous session
 - [ ] Prepare NPC voices

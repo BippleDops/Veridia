@@ -92,7 +92,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -111,4 +110,14 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[antilife-shell-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[antilife-shell-xphb (spells)|antilife-shell-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Death Domain Dmg]]
+- [[Cleric Xphb Grave Domain Xge]]
+- [[cleric-xphb-death-domain-dmg (classes)]]
+- [[cleric-xphb-grave-domain-xge (classes)]]
+- [[cleric-xphb-grave-domain-xge 2 (classes)]]

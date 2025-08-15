@@ -1,4 +1,5 @@
 ---
+aliases: ["Void Howler", "void howler", "Howler Void"]
 tags: [generated]
 id: MON0020_Void_Howler
 created: 2025-08-15T04:09:51.426Z
@@ -28,7 +29,6 @@ A natural predator perfectly adapted to its environment
 
 ---
 *Generated: 2025-08-15T03:21:47.463Z*
-
 
 ## Habitat
 - Natural environment and territories

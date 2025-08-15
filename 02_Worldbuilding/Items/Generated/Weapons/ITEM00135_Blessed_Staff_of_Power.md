@@ -1,3 +1,9 @@
+---
+aliases: ["Blessed Staff of Power", "blessed staff of power", "Power of Staff Blessed"]
+tags: [item, equipment]
+type: item
+---
+
 # Blessed Staff of Power
 
 *Weapons, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A blessed staff forged from meteoric iron
 - Grants advantage on initiative
 - Ignores resistance to damage type
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -30,7 +34,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.354Z*

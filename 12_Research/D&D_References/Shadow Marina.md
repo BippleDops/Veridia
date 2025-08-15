@@ -266,3 +266,8 @@ Legends speak of Shadow Marina as a nexus where past and present converge. Local
 - A journal reveals ancient history about the cult
 - The authorities needs help stealing before the new moon
 - An heirloom has gone missing and chaos spreads
+
+## References
+
+- [[Party Shadows (Criminal_Organizations)]]
+- [[Party Shadows]]

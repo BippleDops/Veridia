@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Winterborn the Guardian", "gareth winterborn the guardian", "Gareth Winterborn Guardian", "Guardian the Winterborn Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Winterborn the Guardian
 
 *Human Aristocrat (Nobles), Age 50, Non-binary*
@@ -13,7 +19,6 @@
 Above average and delicate, with Wild and unkempt white hair and Violet eyes. Brown skin. Constantly changing hair color.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Collects unusual and worthless objects
@@ -36,32 +41,26 @@ Recently elevated to nobility through service, still learning courtly ways A pro
 - **Short Term**: Gather information
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Wynne Ironwood (Family - Parent)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Aldric Crystalbrook (Personal - Love interest)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ### Fiora Hawthorne (Family - Cousin)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Urien Blackstone the Guardian (Political - Puppet)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Thalia Ironwood (Family - Sibling)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Actually a bastard with no real claim

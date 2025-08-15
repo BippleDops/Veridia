@@ -48,3 +48,11 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## [[DM_Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[The Forgetting Bomb]]
+- [[Timeline of the Drowning]]
+- [[The Forgetting Bomb (D&D_References)]]
+- [[Timeline of the Drowning (D&D_References)]]
+- [[Timeline of the Drowning 3 (D&D_References)]]

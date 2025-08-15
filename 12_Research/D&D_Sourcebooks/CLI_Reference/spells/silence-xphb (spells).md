@@ -102,7 +102,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -121,4 +120,15 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[silence-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[silence-xphb (spells)|silence-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Ixitxachitl Cleric Oota]]
+- [[Vampiric Ixitxachitl Cleric Oota]]
+- [[ixitxachitl-cleric-oota (aberration)]]
+- [[vampiric-ixitxachitl-cleric-oota (aberration)]]
+- [[Cogwork Archivist Scc]]
+- [[cogwork-archivist-scc (construct)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]

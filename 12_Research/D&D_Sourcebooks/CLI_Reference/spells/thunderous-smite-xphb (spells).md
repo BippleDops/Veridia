@@ -94,7 +94,6 @@ Mentioned in The Hidden Prophecy of Shadows
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements

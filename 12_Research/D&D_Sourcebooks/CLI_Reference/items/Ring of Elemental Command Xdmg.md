@@ -81,3 +81,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - An heirloom has gone missing and truth emerges
 - Strange sightings suggest a portal
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Arcana Legendary Xdmg]]
+- [[Random Magic Items Arcana]]
+- [[arcana-legendary-xdmg (tables)]]
+- [[random-magic-items-arcana (tables)]]

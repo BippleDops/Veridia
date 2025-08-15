@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Proudmore the Wanderer", "lyanna proudmore the wanderer", "Lyanna Proudmore Wanderer", "Wanderer the Proudmore Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Proudmore the Wanderer
 
 *Half-Orc Blacksmith (Commoners), Age 55, Non-binary*
@@ -42,11 +48,9 @@ Runaway from an arranged marriage, starting a new life A chance encounter last w
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Jorah Ironwood (Professional - Partner)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
-
 
 ### Xander Darkwater the Scholar (Personal - Childhood friend)
 - **Status**: Recently reconciled

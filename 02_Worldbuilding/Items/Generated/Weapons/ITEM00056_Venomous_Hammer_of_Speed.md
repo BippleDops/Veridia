@@ -1,3 +1,9 @@
+---
+aliases: ["Venomous Hammer of Speed", "venomous hammer of speed", "Speed of Hammer Venomous"]
+tags: [item, equipment]
+type: item
+---
+
 # Venomous Hammer of Speed
 
 *Weapons, Common*

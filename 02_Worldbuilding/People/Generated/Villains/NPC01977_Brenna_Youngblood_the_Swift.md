@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Youngblood the Swift", "brenna youngblood the swift", "Brenna Youngblood Swift", "Swift the Youngblood Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Youngblood the Swift
 
 *Genasi Cultist (Villains), Age 72, Male*
@@ -42,7 +48,6 @@ Believes their evil acts serve a greater good An old debt has come due at the wo
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Xander Ashford the Mystic (Political - Patron)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
@@ -51,7 +56,6 @@ Believes their evil acts serve a greater good An old debt has come due at the wo
 ### Ewan Ironforge the Wanderer (Family - Parent)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ### Lyanna Youngblood the Broken (Family - Child)
 - **Status**: On the verge of collapse

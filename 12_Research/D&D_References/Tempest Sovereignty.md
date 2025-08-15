@@ -61,3 +61,7 @@ Mentioned in The Second Prophecy of Depths
 - A journal reveals a conspiracy about this place
 - Strange accidents suggest a portal
 - Strange disappearances suggest ancient magic
+
+## References
+
+- [[Maelstrom Palace]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Hawthorne the Strong", "malakai hawthorne the strong", "Malakai Hawthorne Strong", "Strong the Hawthorne Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Hawthorne the Strong
 
 *Tabaxi Trader (Merchants), Age 62, Non-binary*
@@ -13,7 +19,6 @@
 Towering and muscular, with Tied back white hair and Green eyes. Brown skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Speaks to inanimate objects; Extremely superstitious about everything; Laughs at the most inappropriate times
@@ -36,7 +41,6 @@ Former adventurer who retired to open a shop A family member's death has left th
 - **Short Term**: Make this month's payment
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Zephyr Winterborn the Scholar (Criminal - Informant)
 - **Status**: Strained but maintaining
@@ -47,16 +51,13 @@ Former adventurer who retired to open a shop A family member's death has left th
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
 
-
 ### Gavril Ashford the Mystic (Professional - Employee)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
 
-
 ### Orion Darkwater the Broken (Family - Child)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Is actually a spy for foreign power

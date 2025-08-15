@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Xendar the Cunning", "lyanna xendar the cunning", "Lyanna Xendar Cunning", "Cunning the Xendar Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Xendar the Cunning
 
 *Genasi Heir (Nobles), Age 55, Female*
@@ -36,27 +42,22 @@ Exiled from their homeland, trying to rebuild their power base An old debt has c
 - **Short Term**: Make this month's payment
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Elric Winterborn (Professional - Partner)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Kaelen Thornweave (Professional - Employee)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ### Qadim Oakenshield the Scholar (Family - Child)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Brenna Grimholt the Risen (Personal - Best friend)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ### Gavril Underhill the Wise (Criminal - Handler)
 - **Status**: One-sided affection

@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Ironforge the Mystic", "ewan ironforge the mystic", "Ewan Ironforge Mystic", "Mystic the Ironforge Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Ironforge the Mystic
 
 *Half-Orc Wizard (Adventurers), Age 28, Male*
@@ -36,12 +42,10 @@ Seeking vengeance for a murdered mentor A prophetic dream has been haunting them
 - **Short Term**: Recruit new members
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Aeliana Youngblood the Guardian (Family - Parent)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
-
 
 ### Gareth Winterborn the Wise (Family - Sibling)
 - **Status**: Mutually beneficial

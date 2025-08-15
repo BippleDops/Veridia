@@ -261,7 +261,7 @@ Modified vessels equipped with massive acoustic amplification equipment, used fo
 - [[Resoce Bombs]]
 - [[Frequency Weapons]]
 - [[Living Amplifiers]]
-- [[The Scream Archives]]
+- 
 
 **Cult Techniques**:
 - [[Acoustic Infection]]

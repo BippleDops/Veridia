@@ -1,3 +1,9 @@
+---
+aliases: ["Ancient Crown of Eternity", "ancient crown of eternity", "Eternity of Crown Ancient"]
+tags: [item, equipment]
+type: item
+---
+
 # Ancient Crown of Eternity
 
 *Artifacts, Very Rare*
@@ -16,8 +22,6 @@ A ancient crown pulsing with inner light
 - Telepathy 120 ft
 - Cast spell 3/day
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -32,7 +36,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.425Z*

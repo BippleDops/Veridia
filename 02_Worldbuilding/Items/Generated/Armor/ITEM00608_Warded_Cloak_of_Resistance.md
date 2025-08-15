@@ -1,3 +1,9 @@
+---
+aliases: ["Warded Cloak of Resistance", "warded cloak of resistance", "Resistance of Cloak Warded"]
+tags: [item, equipment]
+type: item
+---
+
 # Warded Cloak of Resistance
 
 *Armor, Rare (requires attunement)*

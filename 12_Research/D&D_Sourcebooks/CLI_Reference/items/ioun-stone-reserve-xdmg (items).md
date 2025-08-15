@@ -88,3 +88,19 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Ioun Stone Xdmg]]
+- [[ioun-stone-xdmg (items)]]
+- [[Arcana Rare Xdmg]]
+- [[Magic Item Table G]]
+- [[Random Magic Items Arcana]]
+- [[Random Magic Items Relics]]
+- [[Relics Rare Xdmg]]
+- [[arcana-rare-xdmg (tables)]]
+- [[magic-item-table-g (tables)]]
+- [[random-magic-items-arcana (tables)]]
+- [[random-magic-items-relics (tables)]]
+- [[relics-rare-xdmg (tables)]]

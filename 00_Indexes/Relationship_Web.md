@@ -107,7 +107,6 @@ WHERE quests-given !=  OR contains(tags, "quest-giver")
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Alternate Descriptions
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
@@ -122,3 +121,33 @@ WHERE quests-given !=  OR contains(tags, "quest-giver")
 | 4  | Option D |
 | 5  | Option E |
 | 6  | Option F |
+
+## References
+
+- [[Update Indexes]]
+- [[Update Indexes (D&D_References)]]
+- [[Update Indexes 3 (D&D_References)]]
+
+## Overview
+
+*To be added*
+
+## Goals
+
+*To be added*
+
+## Structure
+
+*To be added*
+
+## Members
+
+*To be added*
+
+## Resources
+
+*To be added*
+
+## Relationships
+
+*To be added*

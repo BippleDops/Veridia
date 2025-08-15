@@ -187,7 +187,7 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[Commander Typhoon Blackheart]] (enemy)
 - [[Shadow Conspiracy]] (friend)
-- [[Lady Crystal Heart Miraleth]] (friend)
+- [[Crystal_Heart|Lady Crystal Heart Miraleth]] (friend)
 ---
 *Tags*: #npc #contact #worldbuilding
 

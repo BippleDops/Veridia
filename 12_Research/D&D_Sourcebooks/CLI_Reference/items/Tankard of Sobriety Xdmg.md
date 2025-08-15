@@ -77,3 +77,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Arcana Common Xdmg]]
+- [[Random Magic Items Arcana]]
+- [[Random Magic Items Implements]]
+- [[arcana-common-xdmg (tables)]]
+- [[random-magic-items-arcana (tables)]]
+- [[random-magic-items-implements (tables)]]

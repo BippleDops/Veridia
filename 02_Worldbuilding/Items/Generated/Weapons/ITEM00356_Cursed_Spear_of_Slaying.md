@@ -1,3 +1,9 @@
+---
+aliases: ["Cursed Spear of Slaying", "cursed spear of slaying", "Slaying of Spear Cursed"]
+tags: [item, equipment]
+type: item
+---
+
 # Cursed Spear of Slaying
 
 *Weapons, Rare*

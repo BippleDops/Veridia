@@ -1,6 +1,5 @@
 ---
 
-
 ## Description
 
 *[Add detailed physical appearance and personality traits here]*
@@ -349,7 +348,6 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
-
 
 ## Alternate Descriptions
 - **First Impression**: Initial appearance

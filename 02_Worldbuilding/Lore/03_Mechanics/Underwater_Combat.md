@@ -98,3 +98,9 @@ improvements: 20
 - **Level 5-10**: Standard difficulty
 - **Level 11-15**: Add elite enemies
 - **Level 16-20**: Legendary difficulty
+
+## References
+
+- [[Master_Campaign_Index]]
+- [[Initiative Tracker (02_Worldbuilding)]]
+- [[Underwater_Combat_Rules]]

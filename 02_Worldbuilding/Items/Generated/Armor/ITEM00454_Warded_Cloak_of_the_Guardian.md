@@ -1,3 +1,9 @@
+---
+aliases: ["Warded Cloak of the Guardian", "warded cloak of the guardian", "Warded Cloak of Guardian", "Guardian the of Cloak Warded"]
+tags: [item, equipment]
+type: item
+---
+
 # Warded Cloak of the Guardian
 
 *Armor, Common*
@@ -13,8 +19,6 @@ A warded cloak crafted from exotic materials
 ## Properties
 - +2 to AC
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -29,7 +33,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.383Z*

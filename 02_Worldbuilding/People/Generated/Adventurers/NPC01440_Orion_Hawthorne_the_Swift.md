@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Hawthorne the Swift", "orion hawthorne the swift", "Orion Hawthorne Swift", "Swift the Hawthorne Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Hawthorne the Swift
 
 *Halfling Cleric (Adventurers), Age 61, Non-binary*
@@ -13,7 +19,6 @@
 Very short and stocky, with Partially shaved black hair and Blue eyes. Tan skin. Missing finger on left hand.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Constantly quotes ancient texts
@@ -52,11 +57,9 @@ Searching for a legendary treasure their parent died seeking An old debt has com
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Qadim Ashford the Strong (Political - Puppet)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Is from the future

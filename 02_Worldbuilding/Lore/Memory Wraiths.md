@@ -101,3 +101,8 @@ Memory Wraiths represents a crucial aspect of the world's history, cosmology, or
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[The Forgotten One]]
+- [[Session 07 the Convergence Approaches]]

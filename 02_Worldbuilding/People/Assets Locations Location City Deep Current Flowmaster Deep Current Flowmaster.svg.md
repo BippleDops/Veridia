@@ -199,3 +199,7 @@ Member of House Serpentblood - Trait: magical affinity
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-terminal-director-admiral-current-swiftflow-terminal-director-admiral-current-swiftflow.svg]]

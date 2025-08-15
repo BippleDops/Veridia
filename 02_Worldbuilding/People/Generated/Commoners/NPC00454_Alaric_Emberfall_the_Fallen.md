@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Emberfall the Fallen", "alaric emberfall the fallen", "Alaric Emberfall Fallen", "Fallen the Emberfall Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Emberfall the Fallen
 
 *Aasimar Blacksmith (Commoners), Age 63, Non-binary*
@@ -13,7 +19,6 @@
 Tall and muscular, with Partially shaved silver hair and Violet eyes. Tan skin. Unusual eye color for their race.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Always speaks in metaphors and riddles; Incredibly optimistic despite evidence
@@ -36,12 +41,10 @@ Family has worked the same trade for generations, but times are changing An old 
 - **Short Term**: Gather information
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Orion Brightblade the Wise (Personal - Ex-lover)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ### Branwen Zephyrblade the Wanderer (Criminal - Informant)
 - **Status**: Strong and trusting

@@ -1,4 +1,5 @@
 ---
+aliases: ["Infernal Shield", "infernal shield", "Shield Infernal"]
 tags: [generated]
 id: SPELL0014_Infernal_Shield
 created: 2025-08-15T04:09:51.468Z

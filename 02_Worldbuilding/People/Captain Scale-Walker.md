@@ -34,7 +34,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-scale-walker-captain-scale-walker.svg)
 
@@ -43,13 +42,11 @@ improvements: 20
 # Captain Scale-Walker
 *The Deep Navigator, Keeper of Ancient Routes*
 
-
 ## Relationships
 - **Allies**: Notable allies and friends
 - **Rivals**: Competitors and rivals  
 - **Family**: Family connections
 - **Organizations**: Group affiliations
-
 
 ## Motivations
 - **Primary Goal**: Main objective
@@ -278,7 +275,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
-
 
 ## Daily Routine
 - **Morning**: Typical activities

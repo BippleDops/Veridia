@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Quicksilver the Risen", "ysara quicksilver the risen", "Ysara Quicksilver Risen", "Risen the Quicksilver Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Quicksilver the Risen
 
 *Human Fighter (Adventurers), Age 20, Non-binary*
@@ -36,12 +42,10 @@ Seeking vengeance for a murdered mentor A family member's death has left them wi
 - **Short Term**: Make this month's payment
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Baelor Quicksilver the Guardian (Political - Puppet)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ### Delara Ashford the Mystic (Criminal - Target)
 - **Status**: Professional only
@@ -51,7 +55,6 @@ Seeking vengeance for a murdered mentor A family member's death has left them wi
 ### Drusilla Winterborn the Guardian (Criminal - Handler)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Has died and been resurrected

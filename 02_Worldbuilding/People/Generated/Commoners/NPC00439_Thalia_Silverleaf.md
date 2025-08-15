@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Silverleaf", "thalia silverleaf", "Silverleaf Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Silverleaf
 
 *Genasi Carpenter (Commoners), Age 26, Non-binary*
@@ -36,7 +42,6 @@ Grew up in poverty but discovered a talent that might change everything An old d
 - **Short Term**: Recruit new members
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Vesper Moonshadow (Personal - Ex-lover)
 - **Status**: Complicated history
@@ -46,7 +51,6 @@ Grew up in poverty but discovered a talent that might change everything An old d
 ### Rhiannon Dawnstrider the Fallen (Personal - Best friend)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
-
 
 ### Lyanna Grimholt the Wise (Political - Opposition)
 - **Status**: On the verge of collapse

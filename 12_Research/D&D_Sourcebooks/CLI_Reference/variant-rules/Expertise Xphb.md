@@ -82,3 +82,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]
+- [[Bard Xphb]]
+- [[Rogue Xphb]]
+- [[bard-xphb (classes)]]
+- [[bard-xphb 2 (classes)]]
+- [[rogue-xphb (classes)]]
+- [[Deck of Many Things 13 Cards Xdmg]]
+- [[deck-of-many-things-13-cards-xdmg (decks)]]
+- [[Deck of Many Things Xdmg (items)]]
+- [[deck-of-many-things-xdmg (items)]]

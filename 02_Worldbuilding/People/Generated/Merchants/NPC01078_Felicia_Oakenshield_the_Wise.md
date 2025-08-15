@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Oakenshield the Wise", "felicia oakenshield the wise", "Felicia Oakenshield Wise", "Wise the Oakenshield Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Oakenshield the Wise
 
 *Elf Appraiser (Merchants), Age 44, Male*
@@ -36,37 +42,30 @@ Built their business from nothing through cunning and hard work A family member'
 - **Short Term**: Sabotage competition
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Xander Winterborn the Wanderer (Professional - Mentor)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Kaelen Moonshadow the Swift (Personal - Nemesis)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
-
 
 ### Delara Blackstone the Cunning (Family - Cousin)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Malakai Winterborn the Wanderer (Criminal - Fence)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ### Wynne Oakenshield the Mystic (Professional - Partner)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Faelyn Keenblade the Broken (Political - Puppet)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Killed previous business owner

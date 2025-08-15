@@ -110,3 +110,19 @@ Mentioned in The First Prophecy of Depths
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Animal Lord Forager Xmm]]
+- [[Animal Lord Hunter Xmm]]
+- [[Animal Lord Sage Xmm]]
+- [[Animal Lord Xmm]]
+- [[animal-lord-forager-xmm (celestial)]]
+- [[animal-lord-hunter-xmm (celestial)]]
+- [[animal-lord-sage-xmm (celestial)]]
+- [[animal-lord-xmm (celestial)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Figurine of Wondrous Power Silver Raven Xdmg]]
+- [[figurine-of-wondrous-power-silver-raven-xdmg (items)]]

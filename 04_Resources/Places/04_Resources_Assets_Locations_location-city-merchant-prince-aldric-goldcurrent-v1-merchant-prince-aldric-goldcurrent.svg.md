@@ -102,3 +102,8 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Locations Location City Master Gardener Sage Harmony Bloomtender Master Gardener Sage Harmony Bloomtender.svg]]
+- [[Assets Portraits Portrait NPC Empress Tethys the Ever Drowning Empress Tethys the Ever Drowning.svg]]

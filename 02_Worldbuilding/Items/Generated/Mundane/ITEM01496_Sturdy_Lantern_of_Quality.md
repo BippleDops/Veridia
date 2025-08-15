@@ -1,3 +1,9 @@
+---
+aliases: ["Sturdy Lantern of Quality", "sturdy lantern of quality", "Quality of Lantern Sturdy"]
+tags: [item, equipment]
+type: item
+---
+
 # Sturdy Lantern of Quality
 
 *Mundane, Common*
@@ -13,8 +19,6 @@ A sturdy lantern bearing maker's mark
 ## Properties
 - Grants minor benefit
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -29,7 +33,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.493Z*

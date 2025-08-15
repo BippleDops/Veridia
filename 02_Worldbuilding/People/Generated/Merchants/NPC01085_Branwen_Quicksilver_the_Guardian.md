@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Quicksilver the Guardian", "branwen quicksilver the guardian", "Branwen Quicksilver Guardian", "Guardian the Quicksilver Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Quicksilver the Guardian
 
 *Halfling Trader (Merchants), Age 47, Female*
@@ -36,27 +42,22 @@ Inherited a failing business and turned it around They've been marked by a secre
 - **Short Term**: Recruit new members
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Wynne Underhill the Scholar (Political - Opposition)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Faelyn Stormwind the Guardian (Political - Opposition)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
-
 
 ### Cedric Stormwind the Wanderer (Criminal - Target)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Aeliana Xendar the Wise (Criminal - Handler)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Running a cult from their basement

@@ -1,3 +1,9 @@
+---
+aliases: ["Ancient Scepter of Dominion", "ancient scepter of dominion", "Dominion of Scepter Ancient"]
+tags: [item, equipment]
+type: item
+---
+
 # Ancient Scepter of Dominion
 
 *Artifacts, Artifact (requires attunement)*

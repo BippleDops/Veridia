@@ -118,7 +118,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -137,4 +136,25 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[augury-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[augury-xphb (spells)|augury-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Green Hag Xmm]]
+- [[Sea Hag Xmm]]
+- [[green-hag-xmm (fey)]]
+- [[sea-hag-xmm (fey)]]
+- [[Night Hag Xmm]]
+- [[night-hag-xmm (fiend)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Barbarian Xphb Path of the Ancestral]]
+- [[Cleric Xphb Knowledge Domain]]
+- [[barbarian-xphb-path-of-the-ancestral-guardian-xge]]
+- [[cleric-xphb-knowledge-domain (classes)]]
+- [[cleric-xphb-knowledge-domain 2 (classes)]]
+- [[Icon of Ravenloft Cos]]
+- [[Spirit Board Xdmg]]
+- [[icon-of-ravenloft-cos (items)]]
+- [[spirit-board-xdmg (items)]]

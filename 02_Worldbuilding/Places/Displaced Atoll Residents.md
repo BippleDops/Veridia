@@ -18,16 +18,13 @@ updated: 2025-08-14
 - **East**: River crossing
 - **West**: Mountain pass
 
-
 # Displaced Atoll Residents
-
 
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
 - **Law Enforcement**: Town guard
 - **Justice System**: Local magistrate
-
 
 ## Economy
 - **Primary Exports**: Local goods
@@ -46,7 +43,6 @@ The approach to Displaced Atoll Residents reveals its significance through archi
 
 ### Interior
 Within Displaced Atoll Residents, visitors find a carefully designed space serving multiple purposes.
-
 
 ## Demographics
 - **Population**: ~1,000
@@ -81,9 +77,8 @@ Recent developments have brought new attention to Displaced Atoll Residents, cre
 2. Missing person last seen here
 3. Secret meeting scheduled to take place
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 *Displaced Atoll Residents can be customized to fit campaign needs. Consider adding unique [[Npc]]s or plot elements.*
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -120,3 +115,7 @@ Recent developments have brought new attention to Displaced Atoll Residents, cre
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[The Sinking Atoll (D&D_References)]]

@@ -98,3 +98,7 @@ Mentioned in The Second Prophecy of Shadows
 - The authorities needs help stealing before dawn
 - Strange accidents suggest ancient magic
 - A shipment has gone missing and war looms
+
+## References
+
+- [[Active_Content (02_Worldbuilding)]]

@@ -113,3 +113,20 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Trapper Mpmm]]
+- [[trapper-mpmm (monstrosity)]]
+- [[03 Races]]
+- [[03-races (players-handbook-2014)]]
+- [[05 Chapter 4 Character Origins]]
+- [[05-chapter-4-character-origins (players-handbook-2024)]]
+- [[Bountiful Luck Xge]]
+- [[Second Chance Xge]]
+- [[bountiful-luck-xge (feats)]]
+- [[second-chance-xge (feats)]]
+- [[Reincarnate Xphb]]
+- [[reincarnate-xphb (spells)]]
+- [[Random Height and Weight Phb]]
+- [[random-height-and-weight-phb (tables)]]

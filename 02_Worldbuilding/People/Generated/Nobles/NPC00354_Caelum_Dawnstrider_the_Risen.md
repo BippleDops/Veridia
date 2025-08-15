@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Dawnstrider the Risen", "caelum dawnstrider the risen", "Caelum Dawnstrider Risen", "Risen the Dawnstrider Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Dawnstrider the Risen
 
 *Genasi Noble (Nobles), Age 65, Non-binary*
@@ -36,7 +42,6 @@ Exiled from their homeland, trying to rebuild their power base They've fallen in
 - **Short Term**: Sabotage competition
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Zephyr Moonshadow the Cunning (Professional - Employee)
 - **Status**: Blood oath bound
@@ -52,11 +57,9 @@ Exiled from their homeland, trying to rebuild their power base They've fallen in
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Lyanna Stormwind (Personal - Best friend)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Practicing forbidden magic

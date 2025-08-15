@@ -1,3 +1,9 @@
+---
+aliases: ["Ornate Spyglass of Durability", "ornate spyglass of durability", "Durability of Spyglass Ornate"]
+tags: [item, equipment]
+type: item
+---
+
 # Ornate Spyglass of Durability
 
 *Mundane, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A ornate spyglass expertly crafted
 - Weighs half normal
 - Functions in antimagic
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -30,7 +34,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.493Z*

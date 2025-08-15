@@ -51,7 +51,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -156,7 +156,7 @@ Three supreme leaders, each representing different aspects of the organization:
 - Commands networks of [[Memory Trader]]s and consciousness manipulators
 - May be multiple individuals sharing collective identity
 
-**[[The Convergence [[Oracle]]]]** (Dimensional Entity):
+**[[Oracle|The Convergence [[Oracle]]]]** (Dimensional Entity):
 - Prophetic entity existing partially in both worlds
 - Provides visions and [[Guidance]] for long-term planning
 - Oversees spiritual and mystical aspects of organization
@@ -169,7 +169,7 @@ Three supreme leaders, each representing different aspects of the organization:
 - **Commander**: High Shadow [[Vex Shadowthorn]] (publicly known as crystal [[Merchant]])
 - **Specialization**: Crystal technology corruption, political infiltration
 - **Membership**: ~2,000 active agents, 8,000 sym[[path]]izers
-- **Operations**: Manipulation of [[The [[Seven Shards]]]] seekers, corruption of [[The [[Crystal Throne]]]]
+- **Operations**: Manipulation of [[Seven Shards|The [[Seven Shards]]]] seekers, corruption of [[Crystal Throne|The [[Crystal Throne]]]]
 - **Resources**: Corrupted [[Crystal Network]]s, shadow-enhanced magic items
 
 **Aquabyssos Division - "The Depth Whispers":**
@@ -386,7 +386,7 @@ Unlike other factions that fear or resist shadow corruption, the Crimson Hand ha
 
 ### Primary Adversaries
 
-**[[The [[Purist Coalition]]]]:**
+**[[Purist Coalition|The [[Purist Coalition]]]]:**
 - **Conflict Nature**: Ideological opposition to shadow corruption integration
 - **Threat Level**: High - significant military and political resources
 - **Crimson Hand Response**: Infiltration, memory manipulation, targeted [[Assassin]]ation
@@ -478,7 +478,7 @@ The Crimson Hand's mastery of shadow corruption gives them advantages over other
 ### The Shadow Corruption Source
 
 > [!warning] DM Secret
-> The shadow corruption that the Crimson Hand manipulates so effectively is actually memories and consciousness fragments from [[The [[Deep Mother]]]]'s dreams bleeding through dimensional barriers. Their "mastery" of shadows is really a form of communion with divine unconsciousness. This connection makes them simultaneously more powerful and more unstable than they realize.
+> The shadow corruption that the Crimson Hand manipulates so effectively is actually memories and consciousness fragments from [[Deep Mother|The [[Deep Mother]]]]'s dreams bleeding through dimensional barriers. Their "mastery" of shadows is really a form of communion with divine unconsciousness. This connection makes them simultaneously more powerful and more unstable than they realize.
 
 ### The Convergence Oracle's Nature
 
@@ -511,7 +511,7 @@ The Crimson Hand is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of The Crimson Hand as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crimson Hand.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -523,3 +523,23 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
+## References
+
+- [[Crystal Garden]]
+- [[Customs House]]
+- [[Silver Mask]]
+- [[The Forgetting Bomb]]
+- [[The Restoration Movement]]
+- [[The Silverscale Conspiracy]]
+- [[Throne Room]]
+- [[Crystal Garden (D&D_References)]]
+- [[Crystal Garden 3 (D&D_References)]]
+- [[Customs House (D&D_References)]]
+- [[Customs House 3 (D&D_References)]]
+- [[Silver Mask (D&D_References)]]
+- [[The Forgetting Bomb (D&D_References)]]
+- [[The Restoration Movement (D&D_References)]]
+- [[The Seven Shards (D&D_References)]]
+- [[The Seven Shards 3 (D&D_References)]]
+- [[The Silverscale Conspiracy (D&D_References)]]
+- [[Throne Room (D&D_References)]]

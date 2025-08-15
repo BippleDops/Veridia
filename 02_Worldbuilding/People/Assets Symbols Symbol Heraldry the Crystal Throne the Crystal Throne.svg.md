@@ -236,3 +236,7 @@ Mentioned in The First Prophecy of Shadows
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-crimson-tide-pirates-the-crimson-tide-pirates.svg]]

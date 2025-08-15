@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Ravenheart the Cunning", "urien ravenheart the cunning", "Urien Ravenheart Cunning", "Cunning the Ravenheart Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Ravenheart the Cunning
 
 *Aasimar Fisher (Commoners), Age 67, Non-binary*
@@ -36,7 +42,6 @@ Runaway from an arranged marriage, starting a new life Strange abilities have be
 - **Short Term**: Recruit new members
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Orion Goldleaf the Wanderer (Political - Opposition)
 - **Status**: Strained but maintaining
@@ -47,11 +52,9 @@ Runaway from an arranged marriage, starting a new life Strange abilities have be
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Felicia Voidwalker the Seeker (Political - Opposition)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Is the lost heir to the throne

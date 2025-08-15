@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Hawthorne", "drusilla hawthorne", "Hawthorne Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Hawthorne
 
 *Goliath Ambassador (Nobles), Age 36, Female*
@@ -36,17 +42,14 @@ Secretly adopted into nobility, living in fear of discovery They've been marked 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Cedric Hawthorne (Personal - Childhood friend)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Gavril Ironforge the Fallen (Criminal - Handler)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ### Hilda Zephyrblade (Professional - Rival)
 - **Status**: On the verge of collapse

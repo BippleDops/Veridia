@@ -293,3 +293,7 @@ Mentioned in The First Prophecy of Stars
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Lord Vexton Shadowmere (Criminal_Organizations)]]

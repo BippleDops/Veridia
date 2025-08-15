@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Emberfall the Cunning", "qadim emberfall the cunning", "Qadim Emberfall Cunning", "Cunning the Emberfall Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Emberfall the Cunning
 
 *Gnome Blacksmith (Commoners), Age 33, Male*
@@ -13,7 +19,6 @@
 Towering and compact, with Carefully styled unusual color hair and Violet eyes. Brown skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Never backs down from any challenge
@@ -36,7 +41,6 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 - **Short Term**: Make this month's payment
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Corvus Stormwind the Scholar (Professional - Partner)
 - **Status**: Professional only
@@ -47,11 +51,9 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Alaric Frostwhisper the Mystic (Family - Child)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ### Elric Voidwalker the Wise (Personal - Nemesis)
 - **Status**: On the verge of collapse
@@ -62,11 +64,9 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Idris Ironforge the Mystic (Family - Parent)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Witnessed a noble's crime

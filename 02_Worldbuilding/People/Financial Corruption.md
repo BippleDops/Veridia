@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-financial-corruption-financial-corruption.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -191,7 +189,6 @@ Mentioned in The Second Prophecy of Stars
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Daily Routine
 - **Morning**: Typical activities

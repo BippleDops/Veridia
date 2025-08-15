@@ -185,7 +185,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[04_Resources_Assets_Symbols_symbol-heraldry-the-brotherhood-of-the-black-anchor-the-brotherhood-of-the-black-anchor.svg]] (colleague)
-- [[Quest   The Ancient Compact]] (ally)
+- [[The Ancient Compact|Quest   The Ancient Compact]] (ally)
 - [[Duke Hadal]] (enemy)
 ---
 *Tags*: #npc #contact #worldbuilding
@@ -201,3 +201,7 @@ This NPC can serve multiple roles:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-brotherhood-of-the-black-anchor-the-brotherhood-of-the-black-anchor.svg]]

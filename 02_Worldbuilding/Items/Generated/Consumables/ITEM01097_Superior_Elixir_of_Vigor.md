@@ -1,3 +1,9 @@
+---
+aliases: ["Superior Elixir of Vigor", "superior elixir of vigor", "Vigor of Elixir Superior"]
+tags: [item, equipment]
+type: item
+---
+
 # Superior Elixir of Vigor
 
 *Consumables, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A superior elixir swirling with colors
 - Restore 4d4+4 hit points
 - Increase speed by 10 ft
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -30,7 +34,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.455Z*

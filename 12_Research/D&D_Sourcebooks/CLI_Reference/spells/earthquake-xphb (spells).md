@@ -106,7 +106,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -125,4 +124,15 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[earthquake-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[earthquake-xphb (spells)|earthquake-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Marlos Urnrayle Pota]]
+- [[marlos-urnrayle-pota (legendary-group)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Devastation Orb of Earth Pota]]
+- [[Ring of Elemental Command Earth Xdmg]]
+- [[devastation-orb-of-earth-pota (items)]]
+- [[ring-of-elemental-command-earth-xdmg (items)]]

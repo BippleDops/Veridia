@@ -1,3 +1,9 @@
+---
+aliases: ["Lesser Potion of Swiftness", "lesser potion of swiftness", "Swiftness of Potion Lesser"]
+tags: [item, equipment]
+type: item
+---
+
 # Lesser Potion of Swiftness
 
 *Consumables, Rare*
@@ -15,8 +21,6 @@ A lesser potion swirling with colors
 - Fly for 1 hour
 - Invisible for 10 minutes
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -31,7 +35,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.457Z*

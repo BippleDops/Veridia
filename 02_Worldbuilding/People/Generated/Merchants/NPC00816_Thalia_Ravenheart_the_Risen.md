@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Ravenheart the Risen", "thalia ravenheart the risen", "Thalia Ravenheart Risen", "Risen the Ravenheart Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Ravenheart the Risen
 
 *Dwarf Trader (Merchants), Age 32, Non-binary*
@@ -47,7 +53,6 @@ Part of a merchant family with connections everywhere They recently discovered a
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Fiora Darkwater the Bold (Family - Spouse)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
@@ -57,11 +62,9 @@ Part of a merchant family with connections everywhere They recently discovered a
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Thalia Brightblade the Wise (Family - Cousin)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Killed previous business owner

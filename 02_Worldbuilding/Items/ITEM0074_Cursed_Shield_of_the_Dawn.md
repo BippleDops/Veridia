@@ -1,4 +1,5 @@
 ---
+aliases: ["Cursed Shield of the Dawn", "cursed shield of the dawn", "Cursed Shield of Dawn", "Dawn the of Shield Cursed"]
 tags: [generated]
 id: ITEM0074
 created: 2025-08-15T04:09:51.102Z
@@ -19,8 +20,6 @@ Crafted from crystal with glowing gems, in recently restored. It emanates a fain
 
 ## Quirk
 *Hums when enemies are near*
-
-
 
 ## History
 This item was hidden away by its last owner ages ago. It has passed through many hands, each leaving their mark upon its destiny.

@@ -1,11 +1,11 @@
 ---
+aliases: ["Gareth Darkwater", "gareth darkwater", "Darkwater Gareth"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Child of farmers who sought adventure. Years ago, they made a deal they now regr
 ### Skills
 Deception, Perception
 
-
-
 ## Possessions
 - 43 gold pieces
 - Letter of recommendation
@@ -91,7 +89,6 @@ Deception, Perception
 
 ---
 *Generated: 2025-08-15T03:21:04.039Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

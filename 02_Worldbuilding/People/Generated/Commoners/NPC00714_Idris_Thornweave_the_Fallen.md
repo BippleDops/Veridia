@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Thornweave the Fallen", "idris thornweave the fallen", "Idris Thornweave Fallen", "Fallen the Thornweave Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Thornweave the Fallen
 
 *Aasimar Farmer (Commoners), Age 19, Non-binary*
@@ -13,7 +19,6 @@
 Below average and athletic, with Tied back blonde hair and Blue eyes. Olive skin. Birthmark shaped like a constellation.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Speaks to inanimate objects; Never backs down from any challenge
@@ -36,17 +41,14 @@ Runaway from an arranged marriage, starting a new life A prophetic dream has bee
 - **Short Term**: Survive until next week
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Elric Quicksilver the Broken (Criminal - Handler)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
 
-
 ### Dara Crystalbrook the Seeker (Criminal - Accomplice)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ### Aeliana Thornweave the Seeker (Criminal - Accomplice)
 - **Status**: On the verge of collapse

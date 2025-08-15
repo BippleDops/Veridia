@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Nightfall the Fallen", "aldric nightfall the fallen", "Aldric Nightfall Fallen", "Fallen the Nightfall Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Nightfall the Fallen
 
 *Half-Orc Cleric (Adventurers), Age 70, Female*
@@ -13,7 +19,6 @@
 Short and compact, with Shaved bald hair and Blue eyes. Brown skin. Prominent scar across the face.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Collects unusual and worthless objects; Speaks to inanimate objects
@@ -36,27 +41,22 @@ Chosen by fate to fulfill an ancient prophecy They've fallen in love with someon
 - **Short Term**: Survive until next week
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Alaric Xendar the Mystic (Personal - Nemesis)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
 
-
 ### Delara Emberfall the Fallen (Criminal - Informant)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
-
 
 ### Aeliana Brightblade the Broken (Criminal - Target)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
 
-
 ### Caelum Silverleaf the Lost (Political - Opposition)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Secretly working for the villain

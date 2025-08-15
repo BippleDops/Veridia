@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Dawnstrider the Wanderer", "nerys dawnstrider the wanderer", "Nerys Dawnstrider Wanderer", "Wanderer the Dawnstrider Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Dawnstrider the Wanderer
 
 *Goliath Baker (Commoners), Age 56, Non-binary*
@@ -42,16 +48,13 @@ Family has worked the same trade for generations, but times are changing A chanc
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Hilda Jadeclaw the Fallen (Political - Opposition)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
 
-
 ### Corvus Thornweave the Risen (Family - Sibling)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Is the lost heir to the throne

@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Ironforge the Seeker", "rhiannon ironforge the seeker", "Rhiannon Ironforge Seeker", "Seeker the Ironforge Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Ironforge the Seeker
 
 *Goliath Wizard (Adventurers), Age 75, Male*
@@ -36,22 +42,18 @@ Chosen by fate to fulfill an ancient prophecy They've fallen in love with someon
 - **Short Term**: Recruit new members
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Fiora Stormwind the Broken (Professional - Partner)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Elric Ashford the Bold (Family - Spouse)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Alaric Ironwood the Broken (Political - Puppet)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Possessed by ancient spirit

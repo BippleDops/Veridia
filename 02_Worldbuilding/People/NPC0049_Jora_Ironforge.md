@@ -1,11 +1,11 @@
 ---
+aliases: ["Jora Ironforge", "jora ironforge", "Ironforge Jora"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -92,7 +92,6 @@ Arcana, Persuasion, Perception
 
 ---
 *Generated: 2025-08-15T03:21:04.032Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

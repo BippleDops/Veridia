@@ -45,3 +45,12 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[09 Adventuring#movement#climbing, Swimming, and Crawling]]
+- [[09-adventuring#Movement#Difficult Terrain]]
+- [[09-adventuring#Movement#Forced March]]
+- [[09-adventuring#Movement#Jumping]]
+- [[09-adventuring#Movement#Mounts and Vehicles]]
+- [[09-adventuring#Movement#Travel Pace]]

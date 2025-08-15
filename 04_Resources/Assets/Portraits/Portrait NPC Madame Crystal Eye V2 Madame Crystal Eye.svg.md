@@ -101,3 +101,8 @@ improvements: 20
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[Assets Locations Location City Master Cultivator Reef Growstone V1 Master Cultivator Reef Growstone.svg]]
+- [[Assets Locations Location City Quartermaster Judith Steadfast V1 Quartermaster Judith Steadfast.svg]]

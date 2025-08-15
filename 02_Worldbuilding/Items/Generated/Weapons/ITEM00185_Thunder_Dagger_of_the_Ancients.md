@@ -1,3 +1,9 @@
+---
+aliases: ["Thunder Dagger of the Ancients", "thunder dagger of the ancients", "Thunder Dagger of Ancients", "Ancients the of Dagger Thunder"]
+tags: [item, equipment]
+type: item
+---
+
 # Thunder Dagger of the Ancients
 
 *Weapons, Rare*

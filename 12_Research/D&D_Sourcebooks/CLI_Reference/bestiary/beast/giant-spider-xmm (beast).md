@@ -137,3 +137,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A shipment has gone missing and truth emerges
 - A merchant needs help stealing before winter
 - A merchant needs help delivering before the festival
+
+## References
+
+- [[Giant Spider Xmm]]
+- [[2 Appendix a Miscellaneous Creatures]]
+- [[2-appendix-a-miscellaneous-creatures (monster-manual-2014)]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[10-appendix-b-creature-stat-blocks (players-handbook-2024)]]
+- [[Exploring the Mine Xdmg]]
+- [[exploring-the-mine-xdmg (tables)]]

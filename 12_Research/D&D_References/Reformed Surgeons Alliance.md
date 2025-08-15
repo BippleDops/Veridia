@@ -57,3 +57,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A stranger needs help delivering before winter
 - Strange dreams suggest a conspiracy
+
+## References
+
+- [[Shadow Surgeons Collective]]

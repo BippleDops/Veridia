@@ -256,3 +256,8 @@ Secret locations for sensitive activities.
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[LIFE_MANAGEMENT_SYSTEM]]
+- [[Maintenance_Checklist_Template]]

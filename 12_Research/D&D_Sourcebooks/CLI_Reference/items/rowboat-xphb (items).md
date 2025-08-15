@@ -82,3 +82,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Folding Boat Xdmg]]
+- [[Robe of Useful Items Xdmg]]
+- [[folding-boat-xdmg (items)]]
+- [[robe-of-useful-items-xdmg (items)]]
+- [[Large Vehicles Airborne and Waterborne Vehicles Xphb]]
+- [[Large Vehicles Airborne and Waterborne]]
+- [[Mounts and Vehicles Waterborne Vehicles Phb]]
+- [[mounts-and-vehicles-waterborne-vehicles-phb (tables)]]

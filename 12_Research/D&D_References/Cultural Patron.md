@@ -58,3 +58,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Madame Rosalind Goldleaf]]
+- [[Madame Rosalind Goldleaf (D&D_Statblocks)]]

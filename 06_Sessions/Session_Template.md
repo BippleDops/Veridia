@@ -1,3 +1,8 @@
+---
+tags: [misc]
+type: misc
+---
+
 # Session X - [Session Title]
 
 **Date**: [Date]

@@ -45,3 +45,8 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Drow Deities the Dark Seldarine Mtf]]
+- [[drow-deities-the-dark-seldarine-mtf (tables)]]

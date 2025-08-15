@@ -1,3 +1,9 @@
+---
+aliases: ["Greater Potion of Vigor", "greater potion of vigor", "Vigor of Potion Greater"]
+tags: [item, equipment]
+type: item
+---
+
 # Greater Potion of Vigor
 
 *Consumables, Uncommon*
@@ -14,8 +20,6 @@ A greater potion swirling with colors
 - Breathe underwater 1 hour
 - Resistance for 10 minutes
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -30,7 +34,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.471Z*

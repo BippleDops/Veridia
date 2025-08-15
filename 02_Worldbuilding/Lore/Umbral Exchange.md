@@ -59,7 +59,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -153,7 +153,7 @@ Working with shadow magic requires extensive safety measures:
 Complex systems handle the unique challenges of conducting business across dimensional boundaries:
 
 **Transaction Processing Components:**
-- **Dimensional Currency Exchange**: Systems for converting value between different dimensional [[Economic System]]s
+- **Dimensional Currency Exchange**: Systems for converting value between different dimensional [[Economic_System|Economic System]]s
 - **Goods Authentication**: Technology verifying the authenticity and safety of interdimensional products
 - **Contract Enforcement**: Magical systems ensuring contract compliance across dimensional boundaries
 - **Quality Assurance**: Testing and certification systems for interdimensional goods and services
@@ -315,7 +315,7 @@ The Exchange facilitates extensive cultural and educational exchange between dim
 - **Artistic Collaboration**: Projects bringing together creative individuals from multiple dimensions
 - **Educational Programs**: Student and scholar exchange programs between dimensional institutions
 - **Cultural Documentation**: Preservation and sharing of cultural knowledge across dimensions
-- **Language Development**: Creation of [[Communication Systems]] enabling interdimensional dialogue
+- **Language Development**: Creation of [[Communication_Systems|Communication Systems]] enabling interdimensional dialogue
 - **Diplomatic Training**: Programs preparing individuals for interdimensional diplomatic service
 
 **Educational Impact:**
@@ -545,7 +545,7 @@ Umbral Exchange is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Umbral Exchange as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Umbral Exchange.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -580,3 +580,21 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Civil war
 - Natural disasters
 - Current [[Power Structures]] established
+
+## References
+
+- [[Crystal Forest]]
+- [[Silver Mask]]
+- [[Temporal Distortion Zones]]
+- [[The Crimson Hand]]
+- [[The Deep Harvest]]
+- [[The Restoration Movement]]
+- [[The Silverscale Conspiracy]]
+- [[Crystal Forest (D&D_References)]]
+- [[Silver Mask (D&D_References)]]
+- [[Temporal Distortion Zones (D&D_References)]]
+- [[The Crimson Hand (D&D_References)]]
+- [[The Crimson Hand 3 (D&D_References)]]
+- [[The Deep Harvest (D&D_References)]]
+- [[The Restoration Movement (D&D_References)]]
+- [[The Silverscale Conspiracy (D&D_References)]]

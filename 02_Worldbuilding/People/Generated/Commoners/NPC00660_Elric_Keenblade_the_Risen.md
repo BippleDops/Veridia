@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Keenblade the Risen", "elric keenblade the risen", "Elric Keenblade Risen", "Risen the Keenblade Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Keenblade the Risen
 
 *Gnome Carpenter (Commoners), Age 18, Non-binary*
@@ -36,12 +42,10 @@ Runaway from an arranged marriage, starting a new life They've made a deal they'
 - **Short Term**: Survive until next week
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Hilda Frostwhisper the Lost (Professional - Mentor)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ### Dara Blackstone the Guardian (Family - Child)
 - **Status**: Strained but maintaining
@@ -51,7 +55,6 @@ Runaway from an arranged marriage, starting a new life They've made a deal they'
 ### Kaelen Emberfall the Lost (Professional - Rival)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Knows location of ancient treasure

@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Stormwind the Cunning", "drusilla stormwind the cunning", "Drusilla Stormwind Cunning", "Cunning the Stormwind Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Stormwind the Cunning
 
 *Gnome Crime Boss (Villains), Age 27, Female*
@@ -13,7 +19,6 @@
 Very tall and wiry, with Carefully styled unusual color hair and Hazel eyes. Dark skin. Birthmark shaped like a constellation.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Sees doom and gloom everywhere; Always speaks in metaphors and riddles
@@ -36,27 +41,22 @@ Driven mad by knowledge humanity wasn't meant to know A family member's death ha
 - **Short Term**: Avoid the authorities
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Malakai Grimholt the Scholar (Personal - Childhood friend)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Jorah Ravenheart the Redeemed (Criminal - Fence)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ### Aeliana Lightbringer the Lost (Professional - Rival)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
 
-
 ### Aldric Youngblood the Broken (Political - Spy)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ### Fiora Brightblade the Wanderer (Family - Spouse)
 - **Status**: Recently reconciled
@@ -66,7 +66,6 @@ Driven mad by knowledge humanity wasn't meant to know A family member's death ha
 ### Malakai Ironforge the Strong (Family - Sibling)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Is being controlled by darker force

@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Goldleaf the Risen", "idris goldleaf the risen", "Idris Goldleaf Risen", "Risen the Goldleaf Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Goldleaf the Risen
 
 *Firbolg Courtier (Nobles), Age 32, Male*
@@ -42,16 +48,13 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Dara Ravenheart the Swift (Political - Spy)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
 
-
 ### Kaelen Ashford (Political - Patron)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Secretly funding the rebellion

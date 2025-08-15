@@ -140,3 +140,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
+
+## References
+
+- [[bulezau-mpmm (fiend)]]
+- [[6 Bestiary]]
+- [[6-bestiary (mordenkainens-tome-of-foes)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Xendar", "urien xendar", "Xendar Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Xendar
 
 *Genasi Fisher (Commoners), Age 42, Male*
@@ -13,7 +19,6 @@
 Short and muscular, with Partially shaved white hair and Green eyes. Scarred skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Believes in every conspiracy theory; Extremely superstitious about everything
@@ -36,17 +41,14 @@ Former soldier trying to adjust to civilian life They've been marked by a secret
 - **Short Term**: Recruit new members
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Qadim Ironforge (Personal - Ex-lover)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Aldric Thornweave the Cunning (Personal - Love interest)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
-
 
 ### Felicia Youngblood the Redeemed (Family - Sibling)
 - **Status**: On the verge of collapse

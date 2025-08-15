@@ -64,3 +64,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Vex Shadowthorn Boss Fight (Criminal_Organizations)]]
+- [[Vex Shadowthorn Boss Fight]]

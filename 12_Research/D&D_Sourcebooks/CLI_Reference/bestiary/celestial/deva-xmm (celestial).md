@@ -180,3 +180,9 @@ Mentioned in The Hidden Prophecy of Shadows
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Deva Xmm]]
+- [[Iron Flask Xdmg]]
+- [[iron-flask-xdmg (items)]]

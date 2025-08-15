@@ -167,3 +167,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[violet-fungus-necrohulk-xmm (plant)]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]

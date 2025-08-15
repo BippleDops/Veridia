@@ -86,3 +86,11 @@ Mentioned in The Hidden Prophecy of Winds
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[100 Gp Gemstones Xdmg]]
+- [[100 Gp Gemstones]]
+- [[100-gp-gemstones (tables)]]
+- [[100-gp-gemstones-xdmg (tables)]]

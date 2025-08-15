@@ -70,3 +70,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Update Indexes]]
+- [[Update Indexes (D&D_References)]]
+- [[Update Indexes 3 (D&D_References)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Ashford the Lost", "ysara ashford the lost", "Ysara Ashford Lost", "Lost the Ashford Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Ashford the Lost
 
 *Gnome Ranger (Adventurers), Age 34, Male*
@@ -13,7 +19,6 @@
 Tall and athletic, with Short and neat bald hair and Amber eyes. Olive skin. Prominent scar across the face.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Extremely superstitious about everything; Always hungry and eating something
@@ -36,7 +41,6 @@ Running from a dark past that won't stay buried They recently discovered a secre
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Lyanna Darkwater the Cunning (Personal - Nemesis)
 - **Status**: Strained but maintaining
@@ -47,21 +51,17 @@ Running from a dark past that won't stay buried They recently discovered a secre
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Wynne Grimholt the Fallen (Professional - Employee)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ### Zephyr Keenblade the Strong (Professional - Employer)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Aeliana Ironwood the Guardian (Personal - Love interest)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ### Erasmus Winterborn the Wise (Professional - Mentor)
 - **Status**: Blood oath bound

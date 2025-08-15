@@ -120,6 +120,10 @@ Mentioned in The Second Prophecy of Stars
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*
+
+## References
+
+- [[Deep_Current_Academy (Places)]]
+- [[System Cli Spells School Conjuration]]

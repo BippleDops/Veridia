@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Quicksilver the Wise", "zephyr quicksilver the wise", "Zephyr Quicksilver Wise", "Wise the Quicksilver Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Quicksilver the Wise
 
 *Elf Noble (Nobles), Age 57, Male*
@@ -36,27 +42,22 @@ Exiled from their homeland, trying to rebuild their power base Strange abilities
 - **Short Term**: Recruit new members
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Cedric Lightbringer (Family - Spouse)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
 
-
 ### Idris Frostwhisper (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ### Urien Dawnstrider (Family - Parent)
 - **Status**: Professional only
 - **History**: United by common enemy
 
-
 ### Corvus Blackstone (Family - Parent)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Actually a bastard with no real claim

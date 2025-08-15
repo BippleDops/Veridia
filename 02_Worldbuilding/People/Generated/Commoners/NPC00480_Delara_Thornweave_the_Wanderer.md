@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Thornweave the Wanderer", "delara thornweave the wanderer", "Delara Thornweave Wanderer", "Wanderer the Thornweave Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Thornweave the Wanderer
 
 *Gnome Baker (Commoners), Age 73, Non-binary*
@@ -36,22 +42,18 @@ Grew up in poverty but discovered a talent that might change everything They're 
 - **Short Term**: Complete current contract
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Wynne Zephyrblade the Seeker (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Xander Darkwater the Bold (Professional - Mentor)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Ewan Youngblood the Lost (Political - Puppet)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Is the lost heir to the throne

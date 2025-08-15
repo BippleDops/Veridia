@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Ashford the Bold", "idris ashford the bold", "Idris Ashford Bold", "Bold the Ashford Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Ashford the Bold
 
 *Goliath Dark Wizard (Villains), Age 18, Female*
@@ -36,27 +42,22 @@ Driven mad by knowledge humanity wasn't meant to know They've made a deal they'r
 - **Short Term**: Complete current contract
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Kaelen Grimholt the Bold (Family - Child)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Branwen Jadeclaw the Strong (Professional - Employer)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
-
 
 ### Qadim Emberfall the Guardian (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Idris Oakenshield the Swift (Criminal - Handler)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ### Cedric Zephyrblade the Bold (Criminal - Target)
 - **Status**: Professional only
@@ -66,7 +67,6 @@ Driven mad by knowledge humanity wasn't meant to know They've made a deal they'r
 ### Baelor Underhill the Strong (Criminal - Fence)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Believes they're saving the world

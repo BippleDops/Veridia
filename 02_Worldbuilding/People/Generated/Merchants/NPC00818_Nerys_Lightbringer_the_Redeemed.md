@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Lightbringer the Redeemed", "nerys lightbringer the redeemed", "Nerys Lightbringer Redeemed", "Redeemed the Lightbringer Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Lightbringer the Redeemed
 
 *Halfling Caravan Master (Merchants), Age 46, Female*
@@ -36,17 +42,14 @@ Uses their business as cover for other activities An old debt has come due at th
 - **Short Term**: Complete current contract
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Cedric Ashford the Guardian (Family - Cousin)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
 
-
 ### Branwen Dawnstrider the Seeker (Family - Parent)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ### Faelyn Grimholt the Strong (Criminal - Informant)
 - **Status**: Strong and trusting
@@ -61,7 +64,6 @@ Uses their business as cover for other activities An old debt has come due at th
 ### Pyria Blackstone the Bold (Political - Spy)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Running a cult from their basement

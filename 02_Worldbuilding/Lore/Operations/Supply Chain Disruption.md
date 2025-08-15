@@ -112,3 +112,9 @@ improvements: 20
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Crystal Forest]]
+- [[The Deep Harvest]]
+- [[The Grand Trade Routes]]

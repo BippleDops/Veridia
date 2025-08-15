@@ -1,3 +1,9 @@
+---
+aliases: ["Adamantine Cloak of Resistance", "adamantine cloak of resistance", "Resistance of Cloak Adamantine"]
+tags: [item, equipment]
+type: item
+---
+
 # Adamantine Cloak of Resistance
 
 *Armor, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A adamantine cloak shimmering with energy
 - No stealth disadvantage
 - Reduces damage by 3
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -31,7 +35,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.397Z*

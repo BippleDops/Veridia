@@ -1,4 +1,5 @@
 ---
+aliases: ["Divine Shield of Shadows", "divine shield of shadows", "Shadows of Shield Divine"]
 tags: [generated]
 id: ITEM0139
 created: 2025-08-15T04:09:51.121Z
@@ -18,8 +19,6 @@ Crafted from mithril with intricate runes, in recently restored. It emanates a f
 
 ## Quirk
 *Vibrates near magic*
-
-
 
 ## History
 This item was hidden away by its last owner centuries ago. It has passed through many hands, each leaving their mark upon its destiny.

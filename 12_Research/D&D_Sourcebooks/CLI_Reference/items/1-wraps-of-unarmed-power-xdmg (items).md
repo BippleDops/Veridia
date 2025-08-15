@@ -76,3 +76,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A stranger needs help delivering before the new moon
 - Strange disappearances suggest a curse
 - A shipment has gone missing and chaos spreads
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Wraps of Unarmed Power Xdmg]]
+- [[wraps-of-unarmed-power-xdmg (items)]]
+- [[Armaments Uncommon Xdmg]]
+- [[Random Magic Items Armaments]]
+- [[armaments-uncommon-xdmg (tables)]]
+- [[random-magic-items-armaments (tables)]]

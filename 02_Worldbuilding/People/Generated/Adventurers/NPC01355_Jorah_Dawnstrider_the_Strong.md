@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Dawnstrider the Strong", "jorah dawnstrider the strong", "Jorah Dawnstrider Strong", "Strong the Dawnstrider Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Dawnstrider the Strong
 
 *Dwarf Rogue (Adventurers), Age 26, Male*
@@ -36,27 +42,22 @@ Accidentally gained powers and learning to control them A prophetic dream has be
 - **Short Term**: Survive until next week
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Thalia Darkwater the Redeemed (Family - Spouse)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Qadim Underhill the Mystic (Personal - Best friend)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
-
 
 ### Lyanna Underhill the Mystic (Personal - Ex-lover)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Branwen Stormwind the Scholar (Political - Puppet)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Is from the future

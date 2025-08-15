@@ -191,7 +191,7 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[Mirror Breaking Crystals]] (friend)
+- [[Assets Portraits Portrait NPC Mirror Breaking Crystals Mirror Breaking Crystals.svg|Mirror Breaking Crystals]] (friend)
 - [[Ficial Corruption]] (colleague)
 - [[04_Resources_Assets_Portraits_portrait-npc-captain-dr-bloodletting-captain-dr-bloodletting.svg]] (colleague)
 ---
@@ -247,3 +247,7 @@ This NPC can serve multiple roles:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-dr-bloodletting-captain-dr-bloodletting.svg]]

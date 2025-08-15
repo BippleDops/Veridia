@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Nightfall the Seeker", "qadim nightfall the seeker", "Qadim Nightfall Seeker", "Seeker the Nightfall Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Nightfall the Seeker
 
 *Half-Orc Blacksmith (Commoners), Age 47, Female*
@@ -13,7 +19,6 @@
 Above average and wiry, with Mohawk blonde hair and Brown eyes. Fair skin. Unusual eye color for their race.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Flirts with everyone regardless of interest; Never backs down from any challenge; Never uses people's real names
@@ -36,12 +41,10 @@ Former soldier trying to adjust to civilian life An old debt has come due at the
 - **Short Term**: Complete current contract
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Urien Lightbringer the Cunning (Political - Opposition)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ### Orion Nightfall the Wanderer (Criminal - Handler)
 - **Status**: Professional only
@@ -57,11 +60,9 @@ Former soldier trying to adjust to civilian life An old debt has come due at the
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
 
-
 ### Orion Jadeclaw the Broken (Political - Ally)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Is the lost heir to the throne

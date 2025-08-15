@@ -87,3 +87,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A merchant needs help investigating before dawn
 - A corpse reveals ancient history about the government
 - Someone is protecting information for love
+
+## References
+
+- [[Master_Spell_Compendium]]

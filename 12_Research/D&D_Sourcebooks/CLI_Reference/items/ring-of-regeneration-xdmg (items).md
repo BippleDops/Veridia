@@ -67,3 +67,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Arcana Very Rare Xdmg]]
+- [[Magic Item Table H]]
+- [[Random Magic Items Arcana]]
+- [[arcana-very-rare-xdmg (tables)]]
+- [[magic-item-table-h (tables)]]
+- [[random-magic-items-arcana (tables)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Jadeclaw the Mystic", "jorah jadeclaw the mystic", "Jorah Jadeclaw Mystic", "Mystic the Jadeclaw Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Jadeclaw the Mystic
 
 *Dwarf Crime Boss (Villains), Age 64, Female*
@@ -36,7 +42,6 @@ Driven mad by knowledge humanity wasn't meant to know Strange abilities have beg
 - **Short Term**: Survive until next week
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Hestara Hawthorne the Guardian (Political - Spy)
 - **Status**: One-sided affection
@@ -47,11 +52,9 @@ Driven mad by knowledge humanity wasn't meant to know Strange abilities have beg
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Caelum Ravenheart the Risen (Personal - Nemesis)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
-
 
 ### Corvus Dawnstrider the Lost (Family - Parent)
 - **Status**: Blood oath bound

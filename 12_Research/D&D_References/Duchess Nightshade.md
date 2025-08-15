@@ -83,7 +83,6 @@ Mentioned in The First Prophecy of Winds
 
 Contextual improvement based on 12_Research
 
-
 ## Player Tips
 > 🎮 **Strategy**: How to approach this content
 > Work together and communicate

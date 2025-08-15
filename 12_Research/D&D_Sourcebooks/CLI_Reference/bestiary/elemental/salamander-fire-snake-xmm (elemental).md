@@ -133,3 +133,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+## References
+
+- [[Salamander Fire Snake Xmm]]

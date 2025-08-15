@@ -1,4 +1,5 @@
 ---
+aliases: ["Shadow Curse", "shadow curse", "Curse Shadow"]
 tags: [generated]
 id: SPELL0020_Shadow_Curse
 created: 2025-08-15T04:09:51.470Z

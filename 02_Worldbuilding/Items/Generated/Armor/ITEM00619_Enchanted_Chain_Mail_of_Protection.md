@@ -1,3 +1,9 @@
+---
+aliases: ["Enchanted Chain Mail of Protection", "enchanted chain mail of protection", "Protection of Mail Chain Enchanted"]
+tags: [item, equipment]
+type: item
+---
+
 # Enchanted Chain Mail of Protection
 
 *Armor, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A enchanted chain mail crafted from exotic materials
 - Immunity to critical hits
 - Reduces damage by 3
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -30,7 +34,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.399Z*

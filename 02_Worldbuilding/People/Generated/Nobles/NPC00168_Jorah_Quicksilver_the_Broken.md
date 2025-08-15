@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Quicksilver the Broken", "jorah quicksilver the broken", "Jorah Quicksilver Broken", "Broken the Quicksilver Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Quicksilver the Broken
 
 *Half-Elf Aristocrat (Nobles), Age 30, Non-binary*
@@ -13,7 +19,6 @@
 Towering and lanky, with Tied back bald hair and Heterochromic eyes. Olive skin. Warm smile that puts people at ease.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Never uses people's real names
@@ -42,16 +47,13 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Kaelen Winterborn (Criminal - Target)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
 
-
 ### Gavril Brightblade (Criminal - Fence)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ### Delara Silverleaf (Criminal - Fence)
 - **Status**: On the verge of collapse
@@ -62,11 +64,9 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Xander Proudmore (Personal - Childhood friend)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

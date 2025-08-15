@@ -110,13 +110,11 @@ updated: 2025-08-14
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Related
 - [[Aquabyssos World Guide]]
 - [[Aethermoor World Guide]]
 - [[Shadow Conspiracy]]
 - [[Campaign_Overview]]
-
 
 ## Alternate Descriptions
 - **First Impression**: Initial appearance

@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-sky-horizon-captain-sky-horizon.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -196,7 +194,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Natural disasters
 - Current power structures established
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -266,3 +263,13 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Art Palace Guard Captain Neutralis.png]]
+- [[Assets Locations Location City Commander Drake Pressureborn V1 Commander Drake Pressureborn.svg]]
+- [[Assets Locations Location City Pilgrimage Master Depth Guide Melancholy Pilgrimage Master Depth Guide Melancholy.svg]]
+- [[Assets Portraits Portrait NPC Trade Captain Sterling Trade Captain Sterling.svg]]
+- [[Assets Symbols Symbol Heraldry Salvage Master Ironwork Salvage Master Ironwork.svg]]
+- [[Surface Tensions]]
+- [[Surface Tensions (D&D_References)]]

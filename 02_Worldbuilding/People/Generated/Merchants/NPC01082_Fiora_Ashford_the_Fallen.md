@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Ashford the Fallen", "fiora ashford the fallen", "Fiora Ashford Fallen", "Fallen the Ashford Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Ashford the Fallen
 
 *Half-Orc Appraiser (Merchants), Age 49, Male*
@@ -36,7 +42,6 @@ Part of a merchant family with connections everywhere They've been marked by a s
 - **Short Term**: Survive until next week
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Erasmus Moonshadow the Strong (Political - Spy)
 - **Status**: Professional only
@@ -47,11 +52,9 @@ Part of a merchant family with connections everywhere They've been marked by a s
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Felicia Ironforge the Bold (Political - Opposition)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ### Aeliana Brightblade the Risen (Professional - Mentor)
 - **Status**: On the verge of collapse
@@ -61,7 +64,6 @@ Part of a merchant family with connections everywhere They've been marked by a s
 ### Baelor Keenblade the Fallen (Personal - Childhood friend)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ### Pyria Crystalbrook the Mystic (Family - Sibling)
 - **Status**: Complicated history

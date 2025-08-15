@@ -76,3 +76,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - The authorities needs help investigating before winter
 - Strange sightings suggest a conspiracy
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Magic Items for Sale Scc]]
+- [[magic-items-for-sale-scc (tables)]]

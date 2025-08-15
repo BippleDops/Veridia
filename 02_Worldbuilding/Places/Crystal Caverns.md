@@ -66,7 +66,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -114,7 +114,7 @@ improvements: 20
 
 The caverns exist partially in both realms simultaneously, creating unique dimensional pockets where surface dwellers and deep-sea adapted beings can encounter each other in neutral territory. This dimensional overlap makes the caverns a crucial location for cross-realm politics, magical research, and unfortunately, the source of [[Crystal Corruption]] that threatens both civilizations.
 
-### Sensory Immersion: The [[Crystal Heart]]
+### Sensory Immersion: The [[Crystal_Heart|Crystal Heart]]
 
 **Visual Magnificence**: The caverns exist in perpetual twilight broken by the spectacular radiance of massive crystal formations that grow like underground forests of light. Each crystal formation pulses with its own internal rhythm, creating a constantly shifting kaleidoscope of co[[Lore]]d illumination that makes navigation both beautiful and disorienting. The largest crystals reach cathedral proportions, their faceted surfaces creating infinite reflections that multiply images into impossible geometries. Corruption appears as dark veins threading through otherwise pure formations, creating an unsettling contrast between light and shadow that seems to move independently.
 
@@ -309,7 +309,7 @@ The caverns exist partially in both realms simultaneously, creating unique dimen
 3. **Guardian Cooperation**: Work with crystal shepherds and transformed guardians
 4. **Research Support**: Assist scientific teams studying cavern phenomena
 
-## [[[[Random Encounter]]s]] (d20)
+## [[Random Encounter|[[Random Encounter]]s]] (d20)
 
 | Roll | Encounter |
 |------|----------|
@@ -340,7 +340,7 @@ Legends speak of Crystal Caverns as the heart of the world where crystallized ma
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Emphasize the sensory overwhelm and wonder of the crystal environment. Use the harmonic descriptions to create atmospheric mood, and remember that the caverns respond to party emotions and actions. The interdimensional aspects allow for encounters with beings from either realm, while corruption areas provide constant environmental threat.
 
@@ -364,13 +364,11 @@ Crystal Caverns is a notable location characterized by its unique features and s
 ### Founding
 Crystal Caverns was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -378,13 +376,11 @@ Crystal Caverns was established in the distant past, growing from humble beginni
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -431,7 +427,6 @@ Crystal Caverns was established in the distant past, growing from humble beginni
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -467,3 +462,13 @@ Crystal Caverns was established in the distant past, growing from humble beginni
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Economic_System]]
+- [[Master_Timeline]]
+- [[Crystal Gardens]]
+- [[The Crystal Caverns]]
+- [[The Depth Plague]]
+- [[The Depth Plague (D&D_References)]]
+- [[Shard_Locations (D&D_Sourcebooks)]]

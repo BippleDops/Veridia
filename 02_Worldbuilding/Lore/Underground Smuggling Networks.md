@@ -43,7 +43,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -116,7 +116,7 @@ Underground railroad network that moves [[People]] through a series of safe hous
 
 *Route 3 - The Foreign Connection:*  
 - Starting Point: Any major population center
-- Safe Houses: [[[[Embassy District]]s]] and diplomatic safe houses
+- Safe Houses: [[Embassy District|[[Embassy District]]s]] and diplomatic safe houses
 - Transportation: Diplomatic pouches and foreign [[Merchant]] vessels
 - Destination: Other nations with different plague policies
 
@@ -225,7 +225,7 @@ The Identity Underground operates through cell structure with compartmentalized 
 
 *Security Measures:*
 - Multiple safe house locations with regular rotation
-- Coded [[Communication Systems]] using legitimate business channels
+- Coded [[Communication_Systems|Communication Systems]] using legitimate business channels
 - Counter-surveillance training for all network members
 - [[Emergency Protocol]]s for rapid [[Evidence]] destruction and personnel evacuation
 
@@ -545,3 +545,8 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Quarantine Enforcement]]
+- [[Quarantine Enforcement (D&D_References)]]

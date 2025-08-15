@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Winterborn the Fallen", "elric winterborn the fallen", "Elric Winterborn Fallen", "Fallen the Winterborn Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Winterborn the Fallen
 
 *Halfling Farmer (Commoners), Age 43, Female*
@@ -36,22 +42,18 @@ Grew up in poverty but discovered a talent that might change everything They rec
 - **Short Term**: Gather information
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Gavril Dawnstrider the Mystic (Political - Puppet)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
 
-
 ### Kaelen Jadeclaw the Redeemed (Family - Child)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Ewan Grimholt the Seeker (Personal - Nemesis)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Witnessed a noble's crime

@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Proudmore the Wanderer", "fiora proudmore the wanderer", "Fiora Proudmore Wanderer", "Wanderer the Proudmore Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Proudmore the Wanderer
 
 *Tiefling Carpenter (Commoners), Age 42, Male*
@@ -13,7 +19,6 @@
 Above average and lanky, with Long and flowing red hair and Blue eyes. Pale skin. Unusual eye color for their race.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Never backs down from any challenge; Collects unusual and worthless objects; Incredibly optimistic despite evidence
@@ -36,12 +41,10 @@ Survivor of a disaster that destroyed their village Strange abilities have begun
 - **Short Term**: Make this month's payment
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Hestara Winterborn the Seeker (Criminal - Fence)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ### Alaric Voidwalker (Personal - Love interest)
 - **Status**: Complicated history
@@ -52,7 +55,6 @@ Survivor of a disaster that destroyed their village Strange abilities have begun
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Zephyr Nightfall the Swift (Criminal - Accomplice)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
@@ -61,7 +63,6 @@ Survivor of a disaster that destroyed their village Strange abilities have begun
 ### Aeliana Goldleaf (Family - Parent)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Has dragon blood in their veins

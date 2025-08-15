@@ -11,7 +11,7 @@ created: '2025-01-15'
 
 ## Portrait
 
-![[portrait_04_resources_assets_portraits_portrait-npc-lord-commander-gareth-steelborn-lord-commander-gareth-steelborn.svg.png]]
+![[04_Resources|portrait_04_resources_assets_portraits_portrait-npc-lord-commander-gareth-steelborn-lord-commander-gareth-steelborn.svg.png]]
 
 *Portrait reference for 04_Resources_Assets_Portraits_portrait-npc-lord-commander-gareth-steelborn-lord-commander-gareth-steelborn.svg*
 
@@ -75,3 +75,9 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+## References
+
+- [[Assets Locations Location City Hadrian Depthbridge V1 Hadrian Depthbridge.svg]]
+- [[Assets Locations Location City the Sunken Cathedral of Perfect Order V1 the Sunken Cathedral of Perfect Order.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-lord-commander-gareth-steelborn-lord-commander-gareth-steelborn.svg_Quick_Ref]]

@@ -67,3 +67,8 @@ Mentioned in The Second Prophecy of Winds
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Shadow Surgeon Strike Team (Criminal_Organizations)]]
+- [[Shadow Surgeon Strike Team]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Stormwind the Cunning", "malakai stormwind the cunning", "Malakai Stormwind Cunning", "Cunning the Stormwind Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Stormwind the Cunning
 
 *Dwarf Heir (Nobles), Age 29, Female*
@@ -36,22 +42,18 @@ Exiled from their homeland, trying to rebuild their power base They recently dis
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Baelor Goldleaf (Professional - Rival)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Urien Goldleaf (Family - Child)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Lyanna Ravenheart the Redeemed (Family - Spouse)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ### Drusilla Ashford the Cunning (Family - Parent)
 - **Status**: One-sided affection
@@ -61,7 +63,6 @@ Exiled from their homeland, trying to rebuild their power base They recently dis
 ### Ewan Youngblood (Criminal - Target)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ### Nerys Xendar the Wise (Criminal - Accomplice)
 - **Status**: Recently reconciled

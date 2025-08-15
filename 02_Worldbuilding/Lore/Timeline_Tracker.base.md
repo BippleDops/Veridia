@@ -1,6 +1,6 @@
 ---
 
-title: [[[[Time]]line]] Tracker.base
+title: [[Time|[[Time]]line]] Tracker.base
 aliases:
 - Timeline Trackerbase
 type: [[Lore]]
@@ -42,7 +42,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -106,7 +106,7 @@ Timeline Tracker.base is a undersea element of the setting, known for biolumines
 
 Legends speak of Timeline Tracker.base as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Timeline Tracker.base.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 

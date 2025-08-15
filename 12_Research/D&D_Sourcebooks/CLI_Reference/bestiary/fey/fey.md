@@ -49,3 +49,32 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Master_Spell_Compendium]]
+- [[Fey Spirit Fuming Xphb]]
+- [[Otherworldly Steed Fey Xphb]]
+- [[fey-spirit-fuming-xphb (fey)]]
+- [[otherworldly-steed-fey-xphb (fey)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[04 Chapter 3 Character Classes]]
+- [[04-chapter-3-character-classes (players-handbook-2024)]]
+- [[06 Chapter 5 Feats]]
+- [[06-chapter-5-feats (players-handbook-2024)]]
+- [[Ranger Xphb Fey Wanderer Xphb]]
+- [[Wizard Xphb Illusionist Xphb]]
+- [[ranger-xphb-fey-wanderer-xphb (classes)]]
+- [[wizard-xphb-illusionist-xphb (classes)]]
+- [[Cube of Summoning Xdmg]]
+- [[Scroll of Protection Xdmg]]
+- [[cube-of-summoning-xdmg (items)]]
+- [[scroll-of-protection-xdmg (items)]]
+- [[Summon Fey Xphb]]
+- [[summon-fey-xphb (spells)]]
+- [[Racial Feats Xge]]
+- [[Repeatable Feat List Xphb]]
+- [[racial-feats-xge (tables)]]
+- [[repeatable-feat-list-xphb (tables)]]

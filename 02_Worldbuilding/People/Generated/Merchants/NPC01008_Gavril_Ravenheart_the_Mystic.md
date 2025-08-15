@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Ravenheart the Mystic", "gavril ravenheart the mystic", "Gavril Ravenheart Mystic", "Mystic the Ravenheart Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Ravenheart the Mystic
 
 *Dragonborn Caravan Master (Merchants), Age 65, Non-binary*
@@ -42,16 +48,13 @@ Part of a merchant family with connections everywhere They recently discovered a
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
 
-
 ### Dara Moonshadow the Cunning (Criminal - Accomplice)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Hilda Youngblood the Mystic (Political - Ally)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
-
 
 ### Faelyn Crystalbrook the Mystic (Personal - Best friend)
 - **Status**: Mutually beneficial

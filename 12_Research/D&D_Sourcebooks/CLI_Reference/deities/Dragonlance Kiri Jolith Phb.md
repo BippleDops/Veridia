@@ -76,3 +76,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Deities of Dragonlance Good Phb]]
+- [[deities-of-dragonlance-good-phb (tables)]]

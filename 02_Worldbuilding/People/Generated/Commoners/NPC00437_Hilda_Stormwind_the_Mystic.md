@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Stormwind the Mystic", "hilda stormwind the mystic", "Hilda Stormwind Mystic", "Mystic the Stormwind Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Stormwind the Mystic
 
 *Halfling Farmer (Commoners), Age 20, Male*
@@ -13,7 +19,6 @@
 Very tall and slender, with Shaved bald hair and Green eyes. Olive skin. Constantly changing hair color.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Constantly quotes ancient texts
@@ -47,11 +52,9 @@ Grew up in poverty but discovered a talent that might change everything They're 
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
 
-
 ### Cedric Goldleaf the Strong (Professional - Partner)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Knows location of ancient treasure

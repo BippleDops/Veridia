@@ -138,3 +138,7 @@ Mentioned in The Second Prophecy of Depths
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Afflictions Existence Erosion]]

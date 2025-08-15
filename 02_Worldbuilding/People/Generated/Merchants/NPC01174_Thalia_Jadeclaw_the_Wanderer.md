@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Jadeclaw the Wanderer", "thalia jadeclaw the wanderer", "Thalia Jadeclaw Wanderer", "Wanderer the Jadeclaw Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Jadeclaw the Wanderer
 
 *Goliath Trader (Merchants), Age 51, Male*
@@ -42,16 +48,13 @@ Former adventurer who retired to open a shop They've made a deal they're beginni
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Erasmus Ravenheart the Mystic (Criminal - Informant)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Urien Nightfall the Scholar (Professional - Partner)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Is actually a spy for foreign power

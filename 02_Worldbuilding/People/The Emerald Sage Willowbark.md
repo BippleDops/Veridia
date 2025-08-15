@@ -43,7 +43,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-emerald-sage-willowbark-the-emerald-sage-willowbark.svg)
 
@@ -51,7 +50,6 @@ improvements: 20
 
 # The Emerald Sage Willowbark
 *Guardian of the Heart Tree, Keeper of Natural Balance*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -404,7 +402,6 @@ Legends speak of The Emerald Sage Willowbark as a nexus where past and present c
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -440,3 +437,10 @@ Legends speak of The Emerald Sage Willowbark as a nexus where past and present c
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Quest - Nature's Balance]]
+- [[Quest - Nature's Balance_1 (01_Adventures)]]
+- [[12_Research_D&D_Statblocks_The_Emerald_Sage_Willowbark]]
+- [[Assets Locations Location City Culinary Dreamweaver Sage Gentlespice V1 Culinary Dreamweaver Sage Gentlespice.svg]]

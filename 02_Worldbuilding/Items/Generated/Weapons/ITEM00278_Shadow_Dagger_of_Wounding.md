@@ -1,3 +1,9 @@
+---
+aliases: ["Shadow Dagger of Wounding", "shadow dagger of wounding", "Wounding of Dagger Shadow"]
+tags: [item, equipment]
+type: item
+---
+
 # Shadow Dagger of Wounding
 
 *Weapons, Legendary*
@@ -16,8 +22,6 @@ A shadow dagger made of crystallized magic
 - Returns when thrown
 - Grants advantage on initiative
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -32,7 +36,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.367Z*

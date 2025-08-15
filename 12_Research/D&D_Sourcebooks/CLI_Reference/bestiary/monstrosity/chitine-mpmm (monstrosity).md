@@ -142,3 +142,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A map reveals a betrayal about the cult
 - Someone is hunting a artifact for money
 - Strange dreams suggest a conspiracy
+
+## References
+
+- [[Chitine Mpmm]]
+- [[3 Bestiary]]
+- [[3-bestiary (volos-guide-to-monsters)]]

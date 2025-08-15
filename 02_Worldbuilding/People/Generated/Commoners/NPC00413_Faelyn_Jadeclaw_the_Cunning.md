@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Jadeclaw the Cunning", "faelyn jadeclaw the cunning", "Faelyn Jadeclaw Cunning", "Cunning the Jadeclaw Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Jadeclaw the Cunning
 
 *Half-Elf Farmer (Commoners), Age 22, Male*
@@ -13,7 +19,6 @@
 Tall and athletic, with Short and neat black hair and Green eyes. Brown skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Constantly quotes ancient texts
@@ -36,17 +41,14 @@ Former soldier trying to adjust to civilian life They've fallen in love with som
 - **Short Term**: Recruit new members
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Alaric Dawnstrider (Professional - Employer)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Erasmus Goldleaf the Lost (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ### Nerys Crystalbrook the Wise (Professional - Employee)
 - **Status**: Secretly hostile

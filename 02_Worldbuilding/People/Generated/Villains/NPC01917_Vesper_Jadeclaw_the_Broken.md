@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Jadeclaw the Broken", "vesper jadeclaw the broken", "Vesper Jadeclaw Broken", "Broken the Jadeclaw Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Jadeclaw the Broken
 
 *Tabaxi Cultist (Villains), Age 47, Male*
@@ -36,7 +42,6 @@ Believes their evil acts serve a greater good Strange abilities have begun manif
 - **Short Term**: Find missing person
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Xander Youngblood the Guardian (Political - Spy)
 - **Status**: Mutually beneficial
@@ -66,7 +71,6 @@ Believes their evil acts serve a greater good Strange abilities have begun manif
 ### Pyria Xendar the Bold (Family - Parent)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Is being controlled by darker force

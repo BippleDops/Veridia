@@ -64,3 +64,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A prisoner has gone missing and war looms
 - Someone is hunting a witness for power
+
+## References
+
+- [[Aethermoor_Session_10 (D&D_References)]]

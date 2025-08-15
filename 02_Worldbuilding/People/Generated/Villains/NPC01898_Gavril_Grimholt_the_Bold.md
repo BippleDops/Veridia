@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Grimholt the Bold", "gavril grimholt the bold", "Gavril Grimholt Bold", "Bold the Grimholt Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Grimholt the Bold
 
 *Halfling Corrupt Noble (Villains), Age 44, Male*
@@ -36,12 +42,10 @@ Betrayed by those they trusted, now seeking revenge on the world An old debt has
 - **Short Term**: Sabotage competition
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Faelyn Silverleaf the Redeemed (Family - Spouse)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ### Jorah Youngblood the Fallen (Political - Ally)
 - **Status**: Mutually beneficial
@@ -52,11 +56,9 @@ Betrayed by those they trusted, now seeking revenge on the world An old debt has
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Gavril Proudmore the Wise (Professional - Employee)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ### Cedric Ravenheart the Broken (Criminal - Fence)
 - **Status**: Complicated history
@@ -66,7 +68,6 @@ Betrayed by those they trusted, now seeking revenge on the world An old debt has
 ### Solas Oakenshield the Wanderer (Personal - Childhood friend)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Believes they're saving the world

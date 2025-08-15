@@ -101,3 +101,7 @@ improvements: 20
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Assets Locations Location City Master Goldwin Ledgerkeeper Master Goldwin Ledgerkeeper.svg]]

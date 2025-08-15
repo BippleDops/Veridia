@@ -217,3 +217,7 @@ Member of House Dragonblood - Trait: magical affinity
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-communications-master-signal-cryptkeeper-v1-communications-master-signal-cryptkeeper.svg]]

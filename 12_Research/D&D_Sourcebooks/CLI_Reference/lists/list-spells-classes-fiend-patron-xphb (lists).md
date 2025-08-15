@@ -91,4 +91,4 @@ Mentioned in The First Prophecy of Stars
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[list-spells-classes-fiend-patron-xphb (lists)-phb]]` in CLI_Reference/spells/
+See: `[[pat|list-spells-classes-fiend-patron-xphb (lists)-phb]]` in CLI_Reference/spells/

@@ -108,7 +108,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -127,4 +126,32 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[ice-storm-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[ice-storm-xphb (spells)|ice-storm-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Adult Silver Dragon Xmm]]
+- [[Ancient Silver Dragon Xmm]]
+- [[adult-silver-dragon-xmm (dragon)]]
+- [[ancient-silver-dragon-xmm (dragon)]]
+- [[Bheur Hag Mpmm]]
+- [[bheur-hag-mpmm (fey)]]
+- [[aerisi-kalinoth-pota (npc)]]
+- [[npc - Aerisi Kalinoth Pota]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Tempest Domain]]
+- [[Druid Xphb Circle of the Sea Xphb]]
+- [[cleric-xphb-tempest-domain (classes)]]
+- [[druid-xphb-circle-of-the-sea-xphb (classes)]]
+- [[Instrument of the Bards Anstruth Harp Xdmg]]
+- [[Jakarions Staff of Frost Cos]]
+- [[Ring of Elemental Command Water Xdmg]]
+- [[Staff of Frost Xdmg]]
+- [[Wand of Winter Hotdq]]
+- [[instrument-of-the-bards-anstruth-harp-xdmg (items)]]
+- [[jakarions-staff-of-frost-cos (items)]]
+- [[ring-of-elemental-command-water-xdmg (items)]]
+- [[staff-of-frost-xdmg (items)]]
+- [[wand-of-winter-hotdq (items)]]

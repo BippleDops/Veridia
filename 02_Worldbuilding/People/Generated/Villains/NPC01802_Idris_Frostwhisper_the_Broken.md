@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Frostwhisper the Broken", "idris frostwhisper the broken", "Idris Frostwhisper Broken", "Broken the Frostwhisper Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Frostwhisper the Broken
 
 *Dragonborn Assassin (Villains), Age 38, Female*
@@ -36,12 +42,10 @@ Believes their evil acts serve a greater good They've made a deal they're beginn
 - **Short Term**: Complete current contract
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Gavril Oakenshield the Wanderer (Criminal - Target)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ### Aldric Oakenshield the Broken (Personal - Nemesis)
 - **Status**: Strained but maintaining

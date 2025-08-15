@@ -1,3 +1,9 @@
+---
+aliases: ["Time-worn Amulet of Dominion", "time-worn amulet of dominion", "Dominion of Amulet Time-worn"]
+tags: [item, equipment]
+type: item
+---
+
 # Time-worn Amulet of Dominion
 
 *Artifacts, Legendary (requires attunement)*

@@ -75,3 +75,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A journal reveals a betrayal about this place
 - A corpse reveals a conspiracy about a local noble
 - A letter reveals a betrayal about this place
+
+## References
+
+- [[The Greek Pantheon Greek Deities Phb]]
+- [[the-greek-pantheon-greek-deities-phb (tables)]]

@@ -115,3 +115,8 @@ improvements: 20
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Procedures Hybrid Transformation]]
+- [[The Transformed Citizens]]

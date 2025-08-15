@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Ravenheart the Guardian", "delara ravenheart the guardian", "Delara Ravenheart Guardian", "Guardian the Ravenheart Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Ravenheart the Guardian
 
 *Dragonborn Broker (Merchants), Age 23, Female*
@@ -36,37 +42,30 @@ Uses their business as cover for other activities A chance encounter last winter
 - **Short Term**: Sabotage competition
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Brenna Crystalbrook the Fallen (Political - Opposition)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Nerys Proudmore the Cunning (Criminal - Target)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
-
 
 ### Zephyr Blackstone the Guardian (Family - Child)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
 
-
 ### Rhiannon Xendar the Wise (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
-
 
 ### Felicia Winterborn the Bold (Professional - Rival)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
 
-
 ### Idris Goldleaf the Wise (Political - Puppet)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Running a cult from their basement

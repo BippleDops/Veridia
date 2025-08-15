@@ -1,3 +1,9 @@
+---
+aliases: ["Venomous Axe of Slaying", "venomous axe of slaying", "Slaying of Axe Venomous"]
+tags: [item, equipment]
+type: item
+---
+
 # Venomous Axe of Slaying
 
 *Weapons, Uncommon*
@@ -14,8 +20,6 @@ A venomous axe carved from dragon bone
 - Ignores resistance to damage type
 - Can strike ethereal creatures
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -30,7 +34,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.376Z*

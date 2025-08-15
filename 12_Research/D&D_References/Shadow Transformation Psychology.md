@@ -66,3 +66,8 @@ Mentioned in The Hidden Prophecy of Stars
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Shadow Behavior Guidelines (Criminal_Organizations)]]
+- [[Shadow Behavior Guidelines]]

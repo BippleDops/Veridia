@@ -183,7 +183,7 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[Quest   The Deepmind Weapon]] (enemy)
+- [[The Deepmind|Quest   The Deepmind Weapon]] (enemy)
 - [[04_Resources_Assets_Symbols_symbol-heraldry-faction-intelligence-faction-intelligence.svg]] (rival)
 - [[Quest   Storm Lord's Challenge]] (colleague)
 ---
@@ -216,3 +216,7 @@ This NPC can serve multiple roles:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-faction-intelligence-faction-intelligence.svg]]

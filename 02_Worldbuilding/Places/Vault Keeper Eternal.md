@@ -220,13 +220,11 @@ Vault Keeper Eternal is a notable location characterized by its unique features 
 ### Founding
 Vault Keeper Eternal was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -234,13 +232,11 @@ Vault Keeper Eternal was established in the distant past, growing from humble be
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -269,7 +265,6 @@ Ongoing situations affecting Vault Keeper Eternal:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -306,3 +301,13 @@ Ongoing situations affecting Vault Keeper Eternal:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[The Living Weapon]]
+- [[The Primordial Vaults]]
+- [[The Lock Saboteur]]
+- [[The Living Weapon (D&D_References)]]
+- [[The Primordial Vaults (D&D_References)]]
+- [[The Lock Saboteur (D&D_Statblocks)]]
+- [[Vault Keeper Eternal (D&D_Statblocks)]]

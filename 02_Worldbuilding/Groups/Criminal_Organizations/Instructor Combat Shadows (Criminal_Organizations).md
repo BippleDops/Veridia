@@ -133,7 +133,6 @@ Things widely suspected
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Scaling by Party Level
 - **Level 1-4**: Reduce enemies
 - **Level 5-10**: Standard difficulty

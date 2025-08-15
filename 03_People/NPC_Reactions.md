@@ -80,7 +80,6 @@ creature: Custom NPC
 - **Saving Throws**: *[Proficient saves]*
 - **Skills**: *[Skill proficiencies]*
 
-
 ## See Also
 - Related content
 - Similar topics
@@ -90,3 +89,8 @@ creature: Custom NPC
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
 - **Hidden Details**: Secret aspects
+
+## References
+
+- [[Assets Locations Location City Ambassador Lysandra Silvertonge Ambassador Lysandra Silvertonge.svg]]
+- [[Assets Locations Location City Master Jeweler Sapphire Delicatehand V1 Master Jeweler Sapphire Delicatehand.svg]]

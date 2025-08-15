@@ -50,3 +50,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A map reveals ancient history about a local noble
 - Strange disappearances suggest a conspiracy
+
+## References
+
+- [[Quest - The Convergence Crisis]]
+- [[The Liminal Trading Company]]
+- [[Harbor District Customs House]]
+- [[The Free Current]]
+- [[Harbor District Customs House (D&D_References)]]
+- [[The Free Current (D&D_References)]]
+- [[The Liminal Trading Company (D&D_References)]]

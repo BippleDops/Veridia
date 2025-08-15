@@ -84,3 +84,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Entertainer Gladiator Variant]]
+- [[entertainer-gladiator-variant (backgrounds)]]
+- [[Weavers Tools Xphb]]
+- [[weavers-tools-xphb (items)]]
+- [[Elf Sea Mtf]]
+- [[elf-sea-mtf (races)]]
+- [[Weapons Phb]]
+- [[weapons-phb (tables)]]
+- [[Falling Net Xdmg]]
+- [[falling-net-xdmg (traps-hazards)]]

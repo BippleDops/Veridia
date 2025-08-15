@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Ironwood the Bold", "alaric ironwood the bold", "Alaric Ironwood Bold", "Bold the Ironwood Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Ironwood the Bold
 
 *Halfling Bard (Adventurers), Age 29, Male*
@@ -13,7 +19,6 @@
 Average height and wiry, with Long and flowing white hair and Heterochromic eyes. Olive skin. Gold tooth that glints when smiling.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Extremely superstitious about everything; Incredibly optimistic despite evidence; Never uses people's real names
@@ -42,7 +47,6 @@ Accidentally gained powers and learning to control them A chance encounter last 
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Ewan Quicksilver the Wanderer (Family - Sibling)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
@@ -52,16 +56,13 @@ Accidentally gained powers and learning to control them A chance encounter last 
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Zephyr Keenblade the Lost (Family - Parent)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Faelyn Hawthorne the Seeker (Professional - Partner)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Secretly working for the villain

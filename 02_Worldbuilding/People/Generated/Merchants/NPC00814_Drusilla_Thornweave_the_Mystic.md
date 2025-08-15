@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Thornweave the Mystic", "drusilla thornweave the mystic", "Drusilla Thornweave Mystic", "Mystic the Thornweave Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Thornweave the Mystic
 
 *Human Broker (Merchants), Age 67, Non-binary*
@@ -47,7 +53,6 @@ Built their business from nothing through cunning and hard work A prophetic drea
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Lyanna Thornweave the Cunning (Personal - Ex-lover)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
@@ -61,7 +66,6 @@ Built their business from nothing through cunning and hard work A prophetic drea
 ### Ewan Thornweave the Guardian (Criminal - Fence)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Killed previous business owner

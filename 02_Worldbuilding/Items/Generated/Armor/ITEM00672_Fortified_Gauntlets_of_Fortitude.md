@@ -1,3 +1,9 @@
+---
+aliases: ["Fortified Gauntlets of Fortitude", "fortified gauntlets of fortitude", "Fortitude of Gauntlets Fortified"]
+tags: [item, equipment]
+type: item
+---
+
 # Fortified Gauntlets of Fortitude
 
 *Armor, Very Rare*
@@ -16,8 +22,6 @@ A fortified gauntlets bearing ancient runes
 - Immunity to critical hits
 - Immunity to critical hits
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -32,7 +36,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.404Z*

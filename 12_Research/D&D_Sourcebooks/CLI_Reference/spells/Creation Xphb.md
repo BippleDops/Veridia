@@ -107,3 +107,14 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Githzerai Anarch Mtf]]
+- [[githzerai-anarch-mtf (legendary-group)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Forge Domain Xge]]
+- [[cleric-xphb-forge-domain-xge (classes)]]
+- [[cleric-xphb-forge-domain-xge 2 (classes)]]

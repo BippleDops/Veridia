@@ -1,4 +1,5 @@
 ---
+aliases: ["Mystic Curse", "mystic curse", "Curse Mystic"]
 tags: [generated]
 id: SPELL0019_Mystic_Curse
 created: 2025-08-15T04:09:51.470Z

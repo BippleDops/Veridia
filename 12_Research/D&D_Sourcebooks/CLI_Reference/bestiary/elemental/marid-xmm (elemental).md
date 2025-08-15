@@ -162,3 +162,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Marid Xmm]]
+- [[Iron Flask Xdmg]]
+- [[iron-flask-xdmg (items)]]
+- [[Coastal Encounters Levels 1116 Xge]]
+- [[Coastal Encounters Levels 1720 Xge]]
+- [[Monsters by Habitat Coastal Monsters Xmm]]
+- [[Monsters by Habitat Underwater Monsters Xmm]]
+- [[Underwater Encounters Levels 1120 Xge]]
+- [[Underwater Encounters Levels 510 Xge]]
+- [[coastal-encounters-levels-1116-xge (tables)]]
+- [[coastal-encounters-levels-1720-xge (tables)]]
+- [[monsters-by-habitat-coastal-monsters-xmm (tables)]]
+- [[monsters-by-habitat-underwater-monsters-xmm (tables)]]
+- [[underwater-encounters-levels-1120-xge (tables)]]
+- [[underwater-encounters-levels-510-xge (tables)]]

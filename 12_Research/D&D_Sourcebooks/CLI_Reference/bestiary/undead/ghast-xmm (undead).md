@@ -133,3 +133,33 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[Maurezhi Mpmm]]
+- [[maurezhi-mpmm (fiend)]]
+- [[Ghast Xmm]]
+- [[Create Undead Xphb]]
+- [[create-undead-xphb (spells)]]
+- [[Coastal Encounters Levels 1116 Xge]]
+- [[Monsters by Habitat Swamp Monsters Xmm]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[Monsters by Habitat Urban Monsters Xmm]]
+- [[Swamp Encounters Levels 14 Xge]]
+- [[Swamp Encounters Levels 510 Xge]]
+- [[Underdark Encounters Levels 1116 Xge]]
+- [[Underdark Encounters Levels 14 Xge]]
+- [[Urban Encounters Levels 1116 Xge]]
+- [[Urban Encounters Levels 14 Xge]]
+- [[Urban Encounters Levels 510 Xge]]
+- [[coastal-encounters-levels-1116-xge (tables)]]
+- [[monsters-by-habitat-swamp-monsters-xmm (tables)]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]
+- [[monsters-by-habitat-urban-monsters-xmm (tables)]]
+- [[swamp-encounters-levels-14-xge (tables)]]
+- [[swamp-encounters-levels-510-xge (tables)]]
+- [[underdark-encounters-levels-1116-xge (tables)]]
+- [[underdark-encounters-levels-14-xge (tables)]]
+- [[urban-encounters-levels-1116-xge (tables)]]
+- [[urban-encounters-levels-14-xge (tables)]]
+- [[urban-encounters-levels-510-xge (tables)]]

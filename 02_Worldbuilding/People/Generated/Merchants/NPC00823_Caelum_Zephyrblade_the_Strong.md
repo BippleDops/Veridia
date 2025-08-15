@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Zephyrblade the Strong", "caelum zephyrblade the strong", "Caelum Zephyrblade Strong", "Strong the Zephyrblade Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Zephyrblade the Strong
 
 *Halfling Caravan Master (Merchants), Age 43, Non-binary*
@@ -13,7 +19,6 @@
 Short and wiry, with Wild and unkempt gray hair and Green eyes. Pale skin. Unusual eye color for their race.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Laughs at the most inappropriate times; Believes in every conspiracy theory
@@ -36,7 +41,6 @@ Uses their business as cover for other activities They've made a deal they're be
 - **Short Term**: Survive until next week
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Zephyr Ashford the Risen (Criminal - Informant)
 - **Status**: On the verge of collapse
@@ -52,16 +56,13 @@ Uses their business as cover for other activities They've made a deal they're be
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Pyria Jadeclaw the Fallen (Family - Spouse)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Wynne Emberfall the Bold (Criminal - Target)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ### Dara Crystalbrook the Wise (Family - Spouse)
 - **Status**: Mutually beneficial

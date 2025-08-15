@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Ironwood the Seeker", "solas ironwood the seeker", "Solas Ironwood Seeker", "Seeker the Ironwood Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Ironwood the Seeker
 
 *Firbolg Shopkeeper (Merchants), Age 36, Female*
@@ -47,7 +53,6 @@ Former adventurer who retired to open a shop A prophetic dream has been haunting
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Fiora Emberfall the Wanderer (Family - Spouse)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
@@ -57,11 +62,9 @@ Former adventurer who retired to open a shop A prophetic dream has been haunting
 - **Status**: Strong and trusting
 - **History**: United by common enemy
 
-
 ### Brenna Goldleaf the Strong (Professional - Employer)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is actually a spy for foreign power

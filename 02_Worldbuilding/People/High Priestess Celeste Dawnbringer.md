@@ -30,7 +30,6 @@ improvements: 20
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-high-priestess-celeste-dawnbringer-high-priestess-celeste-dawnbringer.svg)
 
@@ -414,7 +413,6 @@ Member of House Lionblood - Trait: divine blood
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -450,3 +448,17 @@ Member of House Lionblood - Trait: divine blood
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Quest - Diplomatic Immunity]]
+- [[Quest - The Pretender's Crown]]
+- [[Queen Seraphina Lumengarde (People)]]
+- [[Knight]]
+- [[The Crimson Shard Guardian]]
+- [[Crystalhaven (D&D_References)]]
+- [[Queen Seraphina Lumengarde (D&D_References)]]
+- [[The Festival of Rising Tides (D&D_References)]]
+- [[Knight (D&D_Statblocks)]]
+- [[The Crimson Shard Guardian (D&D_Statblocks)]]

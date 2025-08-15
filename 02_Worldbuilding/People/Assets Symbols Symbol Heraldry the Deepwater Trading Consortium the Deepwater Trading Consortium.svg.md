@@ -184,7 +184,7 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[Lady Crystal Heart Miraleth]] (colleague)
+- [[Crystal_Heart|Lady Crystal Heart Miraleth]] (colleague)
 - [[04_Resources_Assets_Portraits_portrait-npc-pressure-lords-pressure-lords.svg]] (colleague)
 - [[Surface Syndicate]] (ally)
 ---

@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Blackstone the Wise", "thalia blackstone the wise", "Thalia Blackstone Wise", "Wise the Blackstone Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Blackstone the Wise
 
 *Firbolg Appraiser (Merchants), Age 23, Male*
@@ -42,16 +48,13 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Zephyr Darkwater the Lost (Family - Cousin)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
 
-
 ### Orion Winterborn the Bold (Political - Puppet)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ### Ewan Darkwater the Risen (Personal - Ex-lover)
 - **Status**: One-sided affection
@@ -61,7 +64,6 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 ### Cedric Stormwind the Strong (Professional - Partner)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ### Delara Voidwalker the Wanderer (Political - Puppet)
 - **Status**: Recently reconciled

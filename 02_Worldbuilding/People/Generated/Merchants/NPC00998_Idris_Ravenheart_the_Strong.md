@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Ravenheart the Strong", "idris ravenheart the strong", "Idris Ravenheart Strong", "Strong the Ravenheart Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Ravenheart the Strong
 
 *Genasi Caravan Master (Merchants), Age 67, Male*
@@ -36,7 +42,6 @@ Built their business from nothing through cunning and hard work A family member'
 - **Short Term**: Sabotage competition
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Malakai Goldleaf the Bold (Personal - Love interest)
 - **Status**: One-sided affection
@@ -47,11 +52,9 @@ Built their business from nothing through cunning and hard work A family member'
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Rhiannon Winterborn the Fallen (Family - Spouse)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Killed previous business owner

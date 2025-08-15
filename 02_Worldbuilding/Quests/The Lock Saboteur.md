@@ -128,7 +128,7 @@ updated: '2025-08-13T01:18:34.503279+00:00'
 - **Pressure Systems**: Mechanical components maintaining structural integrity
 - **Ritual Chambers**: Ongoing ceremonies that reinforce magical bindings
 - **Monitoring Network**: Sensory apparatus detecting threats from below
-- **[[[[Emergency Protocol]]s]]**: Last-resort systems for catastrophic failure
+- **[[Emergency Protocol|[[Emergency Protocol]]s]]**: Last-resort systems for catastrophic failure
 
 **[[Evidence]] of Sabotage:**
 1. **Micro-fractures**: Crystalline supports show tool marks, not wear patterns
@@ -221,7 +221,7 @@ When confronted, Brass reveals his master plan: a "controlled detonation" of the
 
 **Technical Mastery.** Brass can use an action to control any mechanical or magical system within 120 feet, including [[The Lock]]'s defenses. This functions as *dominate monster* but only affects constructs and magical systems.
 
-**Abyssal Corruption.** Brass is partially corrupted by exposure to [[The [[Hadal Depths]]]]. He has resistance to necrotic and psychic damage but vulnerability to radiant damage. His corruption level fluctuates based on stress.
+**Abyssal Corruption.** Brass is partially corrupted by exposure to [[Hadal Depths|The [[Hadal Depths]]]]. He has resistance to necrotic and psychic damage but vulnerability to radiant damage. His corruption level fluctuates based on stress.
 
 **Lock System Integration.** While within [[The Lock]], Brass can see through any surveillance system and communicate through the facility's intercom as a bonus action.
 
@@ -335,6 +335,9 @@ Legends speak of The Lock Saboteur as a nexus where past and present converge. L
 - 20% middle class
 - 79% working poor
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*
+
+## References
+
+- [[Pearl_Harbor_City (D&D_References)]]

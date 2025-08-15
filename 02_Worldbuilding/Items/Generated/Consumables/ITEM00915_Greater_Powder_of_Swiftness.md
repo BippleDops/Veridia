@@ -1,3 +1,9 @@
+---
+aliases: ["Greater Powder of Swiftness", "greater powder of swiftness", "Swiftness of Powder Greater"]
+tags: [item, equipment]
+type: item
+---
+
 # Greater Powder of Swiftness
 
 *Consumables, Rare*

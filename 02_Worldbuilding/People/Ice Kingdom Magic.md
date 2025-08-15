@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-ice-kingdom-magic-ice-kingdom-magic.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -229,7 +227,6 @@ Member of House Lionblood - Trait: divine blood
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -299,3 +296,9 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City Dr Vera Spectrumseeker Dr Vera Spectrumseeker.svg]]
+- [[Assets Locations Location City Master Gardener Sage Harmony Bloomtender V1 Master Gardener Sage Harmony Bloomtender.svg]]
+- [[Assets Symbols Symbol Heraldry Quest the Crystal Innovatio Quest the Crystal Innovatio.svg]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Dawnstrider the Bold", "aldric dawnstrider the bold", "Aldric Dawnstrider Bold", "Bold the Dawnstrider Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Dawnstrider the Bold
 
 *Firbolg Cleric (Adventurers), Age 45, Female*
@@ -13,7 +19,6 @@
 Very tall and heavyset, with Tied back silver hair and Black eyes. Unusual hue skin. Prominent scar across the face.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Speaks to inanimate objects; Never backs down from any challenge; Never uses people's real names
@@ -42,26 +47,21 @@ Accidentally gained powers and learning to control them They recently discovered
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Faelyn Jadeclaw the Swift (Personal - Childhood friend)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ### Orion Oakenshield the Guardian (Professional - Employee)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Erasmus Moonshadow the Risen (Professional - Rival)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Solas Winterborn the Broken (Personal - Nemesis)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Secretly working for the villain

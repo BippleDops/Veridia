@@ -1,3 +1,9 @@
+---
+aliases: ["Ethereal Helm of Fortitude", "ethereal helm of fortitude", "Fortitude of Helm Ethereal"]
+tags: [item, equipment]
+type: item
+---
+
 # Ethereal Helm of Fortitude
 
 *Armor, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A ethereal helm bearing ancient runes
 - Grants swimming speed
 - +2 to AC
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -30,7 +34,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.392Z*

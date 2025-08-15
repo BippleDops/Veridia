@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Keenblade the Wise", "gavril keenblade the wise", "Gavril Keenblade Wise", "Wise the Keenblade Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Keenblade the Wise
 
 *Genasi Rogue (Adventurers), Age 68, Female*
@@ -36,22 +42,18 @@ Running from a dark past that won't stay buried A prophetic dream has been haunt
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Erasmus Xendar the Scholar (Professional - Mentor)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Idris Jadeclaw the Risen (Family - Parent)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Lyanna Zephyrblade the Cunning (Family - Cousin)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Secretly working for the villain

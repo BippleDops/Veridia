@@ -182,3 +182,8 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Crystal Wardens]]
+- [[Crystal Wardens (D&D_Statblocks)]]

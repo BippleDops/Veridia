@@ -56,3 +56,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Someone is hunting a artifact for revenge
 - A noble needs help investigating before winter
+
+## References
+
+- [[Parliamentary Ethics Committee (Government_and_Parliament)]]

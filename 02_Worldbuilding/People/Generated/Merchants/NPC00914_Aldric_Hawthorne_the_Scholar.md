@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Hawthorne the Scholar", "aldric hawthorne the scholar", "Aldric Hawthorne Scholar", "Scholar the Hawthorne Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Hawthorne the Scholar
 
 *Tabaxi Appraiser (Merchants), Age 67, Non-binary*
@@ -13,7 +19,6 @@
 Very short and imposing, with Braided elaborately red hair and Blue eyes. Fair skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Never uses people's real names
@@ -36,22 +41,18 @@ Former adventurer who retired to open a shop They've fallen in love with someone
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Vesper Youngblood the Scholar (Professional - Mentor)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Fiora Ravenheart the Strong (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Fiora Youngblood the Cunning (Professional - Mentor)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Sells information to all sides

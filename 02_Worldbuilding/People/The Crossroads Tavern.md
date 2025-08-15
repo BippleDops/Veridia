@@ -34,7 +34,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -171,7 +170,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - **Sibling**: [[Queen Seraphina 3]]
 - **Child**: [[Npc]]
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -241,3 +239,7 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Queen Seraphina 3]]

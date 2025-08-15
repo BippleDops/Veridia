@@ -151,7 +151,6 @@ Marina commands attention the moment she enters a room. Her deep red hair flows 
 
 She dresses in practical sailing clothes mixed with finery stolen from a dozen ports - leather boots worth a fortune, a coat from a naval officer, rings from various "negotiations." Her voice carries the musical lilt of the Meridian docks mixed with phrases from a dozen languages. She moves with a dancer's grace and a predator's awareness.
 
-
 ## Stats
 - **AC**: 12
 - **HP**: 22 (4d8)
@@ -162,7 +161,6 @@ She dresses in practical sailing clothes mixed with finery stolen from a dozen p
 - **Senses**: passive Perception 11
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -260,7 +258,6 @@ Marina-Red-Tide-Coralheart presents a distinctive figure. Their bearing suggests
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
 ## Secrets
 - Hidden information about this character
 - Unknown connections or past events
@@ -342,7 +339,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 20% middle class
 - 79% working poor
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -373,3 +369,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[The Whisper Syndicate (Criminal_Organizations)]]
+- [[Comprehensive-World-Connection-Guide]]
+- [[Consequence Chain 5 - Marina Identity Revelation]]
+- [[Assets Locations Location City Master Gardener Sage Harmony Bloomtender V1 Master Gardener Sage Harmony Bloomtender.svg]]
+- [[The Whisper Syndicate]]
+- [[Aethermoor - Session 01 Blood in the Harbor]]
+- [[Aethermoor - Session 06 The Bloodline Awakens]]
+- [[Aethermoor - Session 09 The Price of Unity]]
+- [[Aquabyssos - Session 05 - Descent into Darkness]]
+- [[Comprehensive-World-Connection-Guide (D&D_References)]]
+- [[Comprehensive-World-Connection-Guide 3 (D&D_References)]]
+- [[Consequence Chain 2 - Crystal Trade Disruption (D&D_References)]]
+- [[Consequence Chain 2 - Crystal Trade Disruption 3 (D&D_References)]]
+- [[Consequence Chain 5 - Marina Identity Revelation (D&D_References)]]
+- [[Screaming Gardens (D&D_References)]]
+- [[Aethermoor - Session 04 The Silverscale Gambit]]

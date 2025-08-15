@@ -76,3 +76,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A merchant needs help finding before winter
 - A document has gone missing and war looms
 - A merchant needs help delivering before the new moon
+
+## References
+
+- [[Master_Item_Catalog]]

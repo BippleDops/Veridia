@@ -196,3 +196,7 @@ This NPC can serve multiple roles:
 ## Bloodline
 
 Member of House Dragonblood - Trait: magical affinity
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-master-smith-priest-vulcan-depthforge-master-smith-priest-vulcan-depthforge.svg]]

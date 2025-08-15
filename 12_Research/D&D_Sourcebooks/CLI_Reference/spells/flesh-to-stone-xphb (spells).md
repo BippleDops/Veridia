@@ -106,4 +106,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[flesh-to-stone-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[flesh-to-stone-xphb (spells)|flesh-to-stone-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Locate Creature Xphb]]
+- [[locate-creature-xphb (spells)]]
+- [[Random Traps Trap Effects]]
+- [[random-traps-trap-effects (tables)]]

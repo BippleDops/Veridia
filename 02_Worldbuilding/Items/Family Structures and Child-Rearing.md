@@ -176,3 +176,9 @@ Family Structures and Child-Rearing is a ancient artifact that radiates powerful
 
 ### Curse (if applicable)
 - *[Negative effects]*
+
+## References
+
+- [[Family_Structures_and_Child-Rearing (02_Worldbuilding)]]
+- [[Master_Item_Catalog]]
+- [[Child Life in the Realms]]

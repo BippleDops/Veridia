@@ -18,16 +18,13 @@ updated: 2025-08-14
 - **East**: River crossing
 - **West**: Mountain pass
 
-
 # Whisper-Touched William's Oracle Shrine
-
 
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
 - **Law Enforcement**: Town guard
 - **Justice System**: Local magistrate
-
 
 ## Economy
 - **Primary Exports**: Local goods
@@ -46,7 +43,6 @@ The approach to Whisper-Touched William's Oracle Shrine reveals its significance
 
 ### Interior
 Within Whisper-Touched William's Oracle Shrine, visitors find a carefully designed space serving multiple purposes.
-
 
 ## Demographics
 - **Population**: ~1,000
@@ -84,7 +80,6 @@ Recent developments have brought new attention to Whisper-Touched William's Orac
 ## DM Notes
 *Whisper-Touched William's Oracle Shrine can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -120,3 +115,10 @@ Recent developments have brought new attention to Whisper-Touched William's Orac
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Whisper-Touched William]]
+- [[The Whispering Expanse]]
+- [[Whisper-Touched William (D&D_References)]]
+- [[The Whispering Expanse (D&D_Statblocks)]]

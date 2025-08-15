@@ -184,7 +184,7 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[Marina Red Tide Coralheart   Aquabyssos]] (rival)
+- [[Coral|Marina Red Tide Coralheart   Aquabyssos]] (rival)
 - [[Lord Magnus Goldspire]] (friend)
 - [[The Royal Treasury Depths]] (enemy)
 ---

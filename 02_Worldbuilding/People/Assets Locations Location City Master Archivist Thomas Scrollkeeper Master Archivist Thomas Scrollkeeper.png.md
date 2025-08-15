@@ -217,3 +217,8 @@ This NPC can serve multiple roles:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-lyanna-brightshield-captain-lyanna-brightshield.svg]]
+- [[04_Resources_Assets_Locations_location-city-futures-master-economic-sense-v1-futures-master-economic-sense.svg]]

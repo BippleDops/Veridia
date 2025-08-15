@@ -46,7 +46,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-azure-shard-azure-shard.svg)
 
@@ -54,7 +53,6 @@ improvements: 20
 
 # Azure Shard
 *The Sky-Watcher, Guardian of the Heavens' Heart, The Blue Oracle*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -524,7 +522,6 @@ Member of House Serpentblood - Trait: magical affinity
 - 20% middle class
 - 79% working poor
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -560,3 +557,12 @@ Member of House Serpentblood - Trait: magical affinity
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[The Azure Shard]]
+- [[Assets Portraits Portrait NPC Captain Zara Stormwind Captain Zara Stormwind.svg]]
+- [[Sir Marcus Dawnforge]]
+- [[Verdant Shard]]
+- [[Sir Marcus Dawnforge (D&D_References)]]
+- [[Verdant Shard (D&D_References)]]

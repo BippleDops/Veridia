@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Stormwind the Redeemed", "aldric stormwind the redeemed", "Aldric Stormwind Redeemed", "Redeemed the Stormwind Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Stormwind the Redeemed
 
 *Half-Orc Carpenter (Commoners), Age 30, Female*
@@ -36,12 +42,10 @@ Family has worked the same trade for generations, but times are changing They've
 - **Short Term**: Survive until next week
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Aeliana Xendar the Cunning (Family - Sibling)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ### Wynne Winterborn the Fallen (Professional - Employee)
 - **Status**: Strained but maintaining
@@ -52,11 +56,9 @@ Family has worked the same trade for generations, but times are changing They've
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Nerys Xendar the Risen (Criminal - Informant)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Can hear the thoughts of others

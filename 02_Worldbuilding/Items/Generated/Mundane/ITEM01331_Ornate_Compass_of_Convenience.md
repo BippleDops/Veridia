@@ -1,3 +1,9 @@
+---
+aliases: ["Ornate Compass of Convenience", "ornate compass of convenience", "Convenience of Compass Ornate"]
+tags: [item, equipment]
+type: item
+---
+
 # Ornate Compass of Convenience
 
 *Mundane, Common*
@@ -13,8 +19,6 @@ A ornate compass bearing maker's mark
 ## Properties
 - Has hidden compartment
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -29,7 +33,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.477Z*

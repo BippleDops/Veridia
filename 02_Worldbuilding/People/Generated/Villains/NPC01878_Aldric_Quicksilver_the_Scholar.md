@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Quicksilver the Scholar", "aldric quicksilver the scholar", "Aldric Quicksilver Scholar", "Scholar the Quicksilver Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Quicksilver the Scholar
 
 *Aasimar Dark Wizard (Villains), Age 68, Female*
@@ -42,16 +48,13 @@ Driven mad by knowledge humanity wasn't meant to know A family member's death ha
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Pyria Moonshadow the Cunning (Family - Spouse)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Jorah Dawnstrider the Seeker (Criminal - Target)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Has a child they're protecting

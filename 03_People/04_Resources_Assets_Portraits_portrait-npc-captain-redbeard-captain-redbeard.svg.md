@@ -11,7 +11,7 @@ created: '2025-01-15'
 
 ## Portrait
 
-![[portrait_04_resources_assets_portraits_portrait-npc-captain-redbeard-captain-redbeard.svg.png]]
+![[04_Resources|portrait_04_resources_assets_portraits_portrait-npc-captain-redbeard-captain-redbeard.svg.png]]
 
 *Portrait reference for 04_Resources_Assets_Portraits_portrait-npc-captain-redbeard-captain-redbeard.svg*
 
@@ -75,3 +75,10 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+## References
+
+- [[Assets Locations Location City Forge Master Korax Hammerdeep V1 Forge Master Korax Hammerdeep.svg]]
+- [[Assets Locations Location City Marina Dreamwhisper Marina Dreamwhisper.svg]]
+- [[Assets Locations Location City Master Smith Coral Hammer Master Smith Coral Hammer.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-redbeard-captain-redbeard.svg_Quick_Ref]]

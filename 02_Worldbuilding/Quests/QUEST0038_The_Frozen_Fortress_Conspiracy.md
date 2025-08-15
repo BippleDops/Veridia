@@ -1,4 +1,5 @@
 ---
+aliases: ["The Frozen Fortress Conspiracy", "the frozen fortress conspiracy", "Conspiracy Fortress Frozen The"]
 tags: [quest, adventure, generated]
 type: quest
 ---

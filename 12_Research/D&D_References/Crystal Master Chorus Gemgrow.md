@@ -58,3 +58,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A journal reveals ancient history about the government
 - A shipment has gone missing and truth emerges
 - An heirloom has gone missing and truth emerges
+
+## References
+
+- [[Resonance Peaks]]
+- [[Resonance Peaks (D&D_References)]]

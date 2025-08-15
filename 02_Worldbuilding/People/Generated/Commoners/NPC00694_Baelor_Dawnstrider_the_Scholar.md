@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Dawnstrider the Scholar", "baelor dawnstrider the scholar", "Baelor Dawnstrider Scholar", "Scholar the Dawnstrider Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Dawnstrider the Scholar
 
 *Aasimar Baker (Commoners), Age 69, Non-binary*
@@ -13,7 +19,6 @@
 Very tall and wiry, with Braided elaborately red hair and Green eyes. Scarred skin. Burn scars on one side of face.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Compulsive liar about minor things; Collects unusual and worthless objects; Incredibly optimistic despite evidence
@@ -36,22 +41,18 @@ Grew up in poverty but discovered a talent that might change everything A chance
 - **Short Term**: Survive until next week
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Hestara Winterborn the Redeemed (Personal - Love interest)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
 
-
 ### Gareth Stormwind the Strong (Political - Puppet)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Hestara Thornweave the Fallen (Political - Patron)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ### Hestara Hawthorne the Lost (Family - Child)
 - **Status**: Professional only
@@ -61,7 +62,6 @@ Grew up in poverty but discovered a talent that might change everything A chance
 ### Branwen Grimholt the Cunning (Professional - Partner)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Witnessed a noble's crime

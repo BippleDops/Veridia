@@ -54,7 +54,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -106,7 +106,7 @@ Surface Tensions exists as [[Aquabyssos]]'s most politically charged and diploma
 
 ### The First Contact Wars
 
-**[[[[Time]]line]]**: 800-700 years ago, violent clashes during accidental encounters  
+**[[Time|[[Time]]line]]**: 800-700 years ago, violent clashes during accidental encounters  
 **Conflict**: Surface vessels attacking underwater settlements, underwater raids on coastal towns  
 **Escalation**: Military buildup on both sides preparing for major conflict  
 **Devastation**: Mutual destruction convincing both sides that full war would be catastrophic  
@@ -689,7 +689,7 @@ Surface Tensions exists as [[Aquabyssos]]'s most politically charged and diploma
 **Decisions**: Decision-making authority over major policy changes  
 **Democracy**: Democratic input into diplomatic and trade policies
 
-### [[The [[Free Current]]]]
+### [[Free Current|The [[Free Current]]]]
 
 **Independence**: Independent trading community with minimal political interference  
 **Commerce**: Commercial relationships less affected by political tensions  
@@ -751,7 +751,7 @@ Legends speak of Surface Tensions as a nexus where past and present converge. Lo
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -772,13 +772,11 @@ Surface Tensions is a notable location characterized by its unique features and 
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -786,13 +784,11 @@ Surface Tensions is a notable location characterized by its unique features and 
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -850,7 +846,6 @@ Ongoing situations affecting Surface Tensions:
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -886,3 +881,9 @@ Ongoing situations affecting Surface Tensions:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Investigation Procedures]]
+- [[Pearl_Harbor_City (Places)]]
+- [[Pearl_Harbor_City (D&D_References)]]

@@ -62,3 +62,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[03 Races]]
+- [[03-races (players-handbook-2014)]]
+- [[05 Chapter 4 Character Origins]]
+- [[05-chapter-4-character-origins (players-handbook-2024)]]
+- [[Flames of Phlegethos Xge]]
+- [[flames-of-phlegethos-xge (feats)]]
+- [[Reincarnate Xphb]]
+- [[reincarnate-xphb (spells)]]
+- [[Random Height and Weight Phb]]
+- [[random-height-and-weight-phb (tables)]]

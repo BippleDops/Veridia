@@ -1,4 +1,5 @@
 ---
+aliases: ["The Forbidden Treasure", "the forbidden treasure", "Treasure Forbidden The"]
 tags: [generated]
 id: QUEST0045
 created: 2025-08-15T04:09:51.388Z
@@ -21,8 +22,6 @@ Map the uncharted the sunken temple and report findings
 
 ### Secondary
 - Establish future contacts
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they made a deal they now regret, which changed their life forever. Now, circumstances demand immediate action.

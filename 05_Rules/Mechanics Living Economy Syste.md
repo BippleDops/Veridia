@@ -1,6 +1,5 @@
 ---
 
-
 title: Mechanics Living Economy Syste
 type: mechanics
 tags:
@@ -247,7 +246,6 @@ Apply this rule when:
 | Moderate | d20+mod | 15 | Complication |
 | Hard | d20+mod | 20 | Serious consequence |
 | Extreme | d20+mod | 25 | Catastrophic |
-
 
 ## Common Mistakes
 *Frequent misunderstandings to avoid*

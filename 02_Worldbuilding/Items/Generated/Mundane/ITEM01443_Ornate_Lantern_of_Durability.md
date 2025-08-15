@@ -1,3 +1,9 @@
+---
+aliases: ["Ornate Lantern of Durability", "ornate lantern of durability", "Durability of Lantern Ornate"]
+tags: [item, equipment]
+type: item
+---
+
 # Ornate Lantern of Durability
 
 *Mundane, Common*
@@ -13,8 +19,6 @@ A ornate lantern showing signs of age
 ## Properties
 - Grants minor benefit
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -29,7 +33,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.488Z*

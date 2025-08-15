@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Hawthorne the Guardian", "lyanna hawthorne the guardian", "Lyanna Hawthorne Guardian", "Guardian the Hawthorne Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Hawthorne the Guardian
 
 *Tiefling Farmer (Commoners), Age 67, Female*
@@ -36,7 +42,6 @@ Runaway from an arranged marriage, starting a new life A family member's death h
 - **Short Term**: Recruit new members
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Erasmus Hawthorne the Wise (Political - Puppet)
 - **Status**: Blood oath bound
@@ -51,7 +56,6 @@ Runaway from an arranged marriage, starting a new life A family member's death h
 ### Zephyr Ashford the Wise (Professional - Rival)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Witnessed a noble's crime

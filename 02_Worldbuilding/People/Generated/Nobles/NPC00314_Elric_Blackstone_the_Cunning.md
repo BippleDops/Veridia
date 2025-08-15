@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Blackstone the Cunning", "elric blackstone the cunning", "Elric Blackstone Cunning", "Cunning the Blackstone Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Blackstone the Cunning
 
 *Halfling Heir (Nobles), Age 39, Female*
@@ -13,7 +19,6 @@
 Short and delicate, with Shaved unusual color hair and Hazel eyes. Pale skin. Missing ear from old battle.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Laughs at the most inappropriate times
@@ -36,22 +41,18 @@ Secretly adopted into nobility, living in fear of discovery Strange abilities ha
 - **Short Term**: Complete current contract
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Jorah Silverleaf the Redeemed (Family - Spouse)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Alaric Hawthorne the Swift (Political - Puppet)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
 
-
 ### Zephyr Emberfall (Political - Opposition)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ### Ysara Proudmore the Broken (Political - Opposition)
 - **Status**: On the verge of collapse
@@ -61,7 +62,6 @@ Secretly adopted into nobility, living in fear of discovery Strange abilities ha
 ### Felicia Lightbringer the Swift (Personal - Best friend)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

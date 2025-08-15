@@ -61,3 +61,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A shipment has gone missing and truth emerges
 - A noble needs help investigating before dawn
 - A prisoner has gone missing and truth emerges
+
+## References
+
+- [[Location_Template]]

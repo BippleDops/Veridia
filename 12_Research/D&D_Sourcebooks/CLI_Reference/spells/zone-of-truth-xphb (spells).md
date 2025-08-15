@@ -88,7 +88,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -107,4 +106,24 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[zone-of-truth-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[spells|zone-of-truth-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Sphinx of Valor Xmm]]
+- [[sphinx-of-valor-xmm (celestial)]]
+- [[Adult Gold Dragon Xmm]]
+- [[Adult Silver Dragon Xmm]]
+- [[Ancient Gold Dragon Xmm]]
+- [[Ancient Silver Dragon Xmm]]
+- [[adult-gold-dragon-xmm (dragon)]]
+- [[adult-silver-dragon-xmm (dragon)]]
+- [[ancient-gold-dragon-xmm (dragon)]]
+- [[ancient-silver-dragon-xmm (dragon)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Paladin Xphb Oath of Devotion Xphb]]
+- [[Ranger Xphb Monster Slayer Xge]]
+- [[paladin-xphb-oath-of-devotion-xphb (classes)]]
+- [[ranger-xphb-monster-slayer-xge (classes)]]

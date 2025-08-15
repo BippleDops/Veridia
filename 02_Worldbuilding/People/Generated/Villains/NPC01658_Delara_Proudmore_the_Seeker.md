@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Proudmore the Seeker", "delara proudmore the seeker", "Delara Proudmore Seeker", "Seeker the Proudmore Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Proudmore the Seeker
 
 *Aasimar Cultist (Villains), Age 43, Male*
@@ -13,7 +19,6 @@
 Below average and wiry, with Shaved red hair and Heterochromic eyes. Unusual hue skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Extremely superstitious about everything; Always hungry and eating something
@@ -42,11 +47,9 @@ Believes their evil acts serve a greater good They've been marked by a secret so
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
 
-
 ### Branwen Grimholt the Swift (Professional - Employee)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ### Fiora Voidwalker the Mystic (Political - Puppet)
 - **Status**: Blood oath bound
@@ -57,11 +60,9 @@ Believes their evil acts serve a greater good They've been marked by a secret so
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Urien Goldleaf the Redeemed (Professional - Employee)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Has a child they're protecting

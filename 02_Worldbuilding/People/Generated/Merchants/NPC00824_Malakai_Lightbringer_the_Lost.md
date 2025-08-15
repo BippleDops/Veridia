@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Lightbringer the Lost", "malakai lightbringer the lost", "Malakai Lightbringer Lost", "Lost the Lightbringer Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Lightbringer the Lost
 
 *Human Broker (Merchants), Age 70, Male*
@@ -36,32 +42,26 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 - **Short Term**: Avoid the authorities
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Wynne Jadeclaw the Cunning (Personal - Ex-lover)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Brenna Brightblade the Wanderer (Professional - Partner)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ### Gavril Zephyrblade the Bold (Professional - Mentor)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Aeliana Zephyrblade the Broken (Personal - Best friend)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Faelyn Crystalbrook the Seeker (Professional - Partner)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is actually a spy for foreign power

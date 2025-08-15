@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Keenblade the Mystic", "jorah keenblade the mystic", "Jorah Keenblade Mystic", "Mystic the Keenblade Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Keenblade the Mystic
 
 *Gnome Trader (Merchants), Age 33, Non-binary*
@@ -13,7 +19,6 @@
 Below average and lanky, with Short and neat red hair and Gray eyes. Weathered skin. Weather-beaten face showing hard life.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Speaks to inanimate objects
@@ -36,12 +41,10 @@ Former adventurer who retired to open a shop They've been marked by a secret soc
 - **Short Term**: Survive until next week
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Corvus Keenblade the Wanderer (Political - Patron)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ### Brenna Lightbringer the Cunning (Criminal - Fence)
 - **Status**: Professional only
@@ -51,7 +54,6 @@ Former adventurer who retired to open a shop They've been marked by a secret soc
 ### Faelyn Youngblood the Wanderer (Family - Child)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Smuggles illegal magical items

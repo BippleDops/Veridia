@@ -60,7 +60,7 @@ accessibility:
 The Verdant Accord moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.
 
 - Ideal: Stability through controlled risk.
-- Bond: A family archive tied to [[Lighthouse of Storms]].
+- Bond: A family archive tied to [[Lighthouse_of_Storms|Lighthouse of Storms]].
 - Flaw: Overconfidence in leverage; underestimates zealots and true believers.
 
 ## Player-Facing Summary

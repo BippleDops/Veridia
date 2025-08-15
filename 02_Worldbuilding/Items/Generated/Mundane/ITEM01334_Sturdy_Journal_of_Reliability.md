@@ -1,3 +1,9 @@
+---
+aliases: ["Sturdy Journal of Reliability", "sturdy journal of reliability", "Reliability of Journal Sturdy"]
+tags: [item, equipment]
+type: item
+---
+
 # Sturdy Journal of Reliability
 
 *Mundane, Common*
@@ -13,8 +19,6 @@ A sturdy journal bearing maker's mark
 ## Properties
 - Grants minor benefit
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -29,7 +33,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.478Z*

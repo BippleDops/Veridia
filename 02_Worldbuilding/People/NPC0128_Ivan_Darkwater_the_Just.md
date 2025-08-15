@@ -1,11 +1,11 @@
 ---
+aliases: ["Ivan Darkwater the Just", "ivan darkwater the just", "Ivan Darkwater Just", "Just the Darkwater Ivan"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -75,8 +75,6 @@ Born into a noble family but cast out for scandal. Years ago, they was falsely a
 ### Skills
 Insight, Arcana, Persuasion
 
-
-
 ## Possessions
 - 68 gold pieces
 - Set of thieves' tools
@@ -90,7 +88,6 @@ Insight, Arcana, Persuasion
 
 ---
 *Generated: 2025-08-15T03:21:04.039Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

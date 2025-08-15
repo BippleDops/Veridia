@@ -86,3 +86,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Potters Tools Xphb]]
+- [[potters-tools-xphb (items)]]
+- [[Adventuring Gear Container Capacity Phb]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-container-capacity-phb (tables)]]
+- [[adventuring-gear-phb (tables)]]

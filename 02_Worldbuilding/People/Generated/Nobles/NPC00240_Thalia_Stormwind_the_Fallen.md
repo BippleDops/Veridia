@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Stormwind the Fallen", "thalia stormwind the fallen", "Thalia Stormwind Fallen", "Fallen the Stormwind Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Stormwind the Fallen
 
 *Gnome Heir (Nobles), Age 71, Female*
@@ -42,11 +48,9 @@ Last survivor of a fallen house, seeking to restore family honor They're being b
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
 
-
 ### Cedric Voidwalker (Family - Parent)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ### Pyria Hawthorne (Professional - Employer)
 - **Status**: Secretly hostile
@@ -61,7 +65,6 @@ Last survivor of a fallen house, seeking to restore family honor They're being b
 ### Solas Oakenshield (Family - Parent)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Practicing forbidden magic

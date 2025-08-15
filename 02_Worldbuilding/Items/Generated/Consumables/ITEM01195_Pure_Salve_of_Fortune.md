@@ -1,3 +1,9 @@
+---
+aliases: ["Pure Salve of Fortune", "pure salve of fortune", "Fortune of Salve Pure"]
+tags: [item, equipment]
+type: item
+---
+
 # Pure Salve of Fortune
 
 *Consumables, Rare*
@@ -15,8 +21,6 @@ A pure salve glowing softly
 - Grant advantage for 1 hour
 - Resistance for 10 minutes
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -31,7 +35,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.465Z*

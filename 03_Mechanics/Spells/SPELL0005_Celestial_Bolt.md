@@ -1,4 +1,5 @@
 ---
+aliases: ["Celestial Bolt", "celestial bolt", "Bolt Celestial"]
 tags: [generated]
 id: SPELL0005_Celestial_Bolt
 created: 2025-08-15T04:09:51.466Z

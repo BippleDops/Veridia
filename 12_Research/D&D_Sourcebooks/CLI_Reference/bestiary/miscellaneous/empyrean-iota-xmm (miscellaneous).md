@@ -161,3 +161,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Someone is blackmailing an heir for revenge
 - A stranger needs help stealing before the new moon
+
+## References
+
+- [[Empyrean Iota Xmm]]
+- [[Monsters by Habitat Any Habitat Monsters Xmm]]
+- [[monsters-by-habitat-any-habitat-monsters-xmm (tables)]]

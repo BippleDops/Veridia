@@ -1,4 +1,5 @@
 ---
+aliases: ["Crystal Reaper", "crystal reaper", "Reaper Crystal"]
 tags: [generated]
 id: MON0013_Crystal_Reaper
 created: 2025-08-15T04:09:51.424Z
@@ -25,7 +26,6 @@ A twisted abomination created by dark magic
 
 ---
 *Generated: 2025-08-15T03:21:47.462Z*
-
 
 ## Habitat
 - Natural environment and territories

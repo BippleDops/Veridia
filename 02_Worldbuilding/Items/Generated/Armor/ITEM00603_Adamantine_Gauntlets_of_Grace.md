@@ -1,3 +1,9 @@
+---
+aliases: ["Adamantine Gauntlets of Grace", "adamantine gauntlets of grace", "Grace of Gauntlets Adamantine"]
+tags: [item, equipment]
+type: item
+---
+
 # Adamantine Gauntlets of Grace
 
 *Armor, Very Rare*
@@ -16,8 +22,6 @@ A adamantine gauntlets bearing ancient runes
 - No stealth disadvantage
 - Advantage on saving throws
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -32,7 +36,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.398Z*

@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Moonshadow the Fallen", "malakai moonshadow the fallen", "Malakai Moonshadow Fallen", "Fallen the Moonshadow Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Moonshadow the Fallen
 
 *Half-Orc Trader (Merchants), Age 34, Male*
@@ -36,7 +42,6 @@ Uses their business as cover for other activities A prophetic dream has been hau
 - **Short Term**: Gather information
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Thalia Ravenheart the Redeemed (Professional - Partner)
 - **Status**: Professional only
@@ -47,11 +52,9 @@ Uses their business as cover for other activities A prophetic dream has been hau
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Cedric Emberfall the Fallen (Personal - Childhood friend)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
-
 
 ### Corvus Nightfall the Mystic (Political - Spy)
 - **Status**: Strained but maintaining

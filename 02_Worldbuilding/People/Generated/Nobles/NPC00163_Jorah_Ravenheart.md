@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Ravenheart", "jorah ravenheart", "Ravenheart Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Ravenheart
 
 *Tiefling Noble (Nobles), Age 52, Non-binary*
@@ -13,7 +19,6 @@
 Above average and heavyset, with Mohawk black hair and Blue eyes. Dark skin. Prominent scar across the face.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Sees doom and gloom everywhere; Compulsive liar about minor things; Flirts with everyone regardless of interest
@@ -36,12 +41,10 @@ Last survivor of a fallen house, seeking to restore family honor Strange abiliti
 - **Short Term**: Complete current contract
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Felicia Keenblade the Broken (Political - Puppet)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ### Drusilla Voidwalker (Personal - Childhood friend)
 - **Status**: Mutually beneficial
@@ -61,7 +64,6 @@ Last survivor of a fallen house, seeking to restore family honor Strange abiliti
 ### Idris Ravenheart (Family - Spouse)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

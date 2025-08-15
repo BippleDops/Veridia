@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Stormwind the Fallen", "branwen stormwind the fallen", "Branwen Stormwind Fallen", "Fallen the Stormwind Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Stormwind the Fallen
 
 *Gnome Farmer (Commoners), Age 57, Female*
@@ -13,7 +19,6 @@
 Average height and imposing, with Braided elaborately bald hair and Heterochromic eyes. Weathered skin. Missing ear from old battle.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Never uses people's real names
@@ -47,7 +52,6 @@ Former soldier trying to adjust to civilian life An old debt has come due at the
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Felicia Underhill the Cunning (Political - Patron)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
@@ -56,7 +60,6 @@ Former soldier trying to adjust to civilian life An old debt has come due at the
 ### Faelyn Voidwalker the Fallen (Personal - Childhood friend)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Witnessed a noble's crime

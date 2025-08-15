@@ -79,3 +79,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Horn of Valhalla Xdmg]]
+- [[horn-of-valhalla-xdmg (items)]]
+- [[Armaments Very Rare Xdmg]]
+- [[Magic Item Table H]]
+- [[Random Magic Items Armaments]]
+- [[Random Magic Items Relics]]
+- [[armaments-very-rare-xdmg (tables)]]
+- [[magic-item-table-h (tables)]]
+- [[random-magic-items-armaments (tables)]]
+- [[random-magic-items-relics (tables)]]

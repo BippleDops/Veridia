@@ -102,3 +102,19 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Cyclops Oracle Xmm]]
+- [[cyclops-oracle-xmm (giant)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Knowledge Domain]]
+- [[Cleric Xphb Light Domain Xphb]]
+- [[cleric-xphb-knowledge-domain (classes)]]
+- [[cleric-xphb-knowledge-domain 2 (classes)]]
+- [[cleric-xphb-light-domain-xphb (classes)]]
+- [[cleric-xphb-light-domain-xphb 2 (classes)]]
+- [[Visions of Distant Realms Xphb]]
+- [[visions-of-distant-realms-xphb (optional-features)]]

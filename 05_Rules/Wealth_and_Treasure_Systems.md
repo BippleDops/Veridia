@@ -1,6 +1,5 @@
 ---
 
-
 title: Wealth and Treasure Systems
 type: mechanics
 tags:
@@ -240,7 +239,6 @@ Apply this rule when:
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
 
-
 ## Common Mistakes
 *Frequent misunderstandings to avoid*
 
@@ -274,3 +272,7 @@ Apply this rule when:
 ### Common Table Rulings
 - Document house rules clearly
 - Maintain consistency across sessions
+
+## References
+
+- [[Economic_Ripple_Effects_Template]]

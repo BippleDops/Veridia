@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Xendar the Fallen", "solas xendar the fallen", "Solas Xendar Fallen", "Fallen the Xendar Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Xendar the Fallen
 
 *Dragonborn Corrupt Noble (Villains), Age 71, Male*
@@ -42,7 +48,6 @@ Believes their evil acts serve a greater good They recently discovered a secret 
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Malakai Crystalbrook the Strong (Personal - Childhood friend)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
@@ -51,7 +56,6 @@ Believes their evil acts serve a greater good They recently discovered a secret 
 ### Nerys Voidwalker the Seeker (Political - Puppet)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ### Zephyr Thornweave the Strong (Political - Puppet)
 - **Status**: Strong and trusting
@@ -66,7 +70,6 @@ Believes their evil acts serve a greater good They recently discovered a secret 
 ### Vesper Voidwalker the Broken (Family - Spouse)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Was once a renowned hero

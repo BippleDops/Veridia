@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Stormwind the Guardian", "xander stormwind the guardian", "Xander Stormwind Guardian", "Guardian the Stormwind Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Stormwind the Guardian
 
 *Dwarf Rogue (Adventurers), Age 22, Non-binary*
@@ -36,17 +42,14 @@ Seeking vengeance for a murdered mentor A chance encounter last winter changed t
 - **Short Term**: Gather information
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Pyria Moonshadow the Guardian (Professional - Rival)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
 
-
 ### Nerys Silverleaf the Wise (Professional - Employer)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ### Brenna Brightblade the Risen (Criminal - Accomplice)
 - **Status**: Complicated history
@@ -57,16 +60,13 @@ Seeking vengeance for a murdered mentor A chance encounter last winter changed t
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Aeliana Ravenheart the Swift (Political - Opposition)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Branwen Keenblade the Seeker (Political - Ally)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Carries a world-ending artifact

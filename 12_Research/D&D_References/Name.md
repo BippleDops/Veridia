@@ -92,3 +92,11 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Bookmark_Collections]]
+- [[Assets Locations Location City the Crystal Cathedral of Pure Light V1 the Crystal Cathedral of Pure Light.svg]]
+- [[fractal-mascot-scc (construct)]]
+- [[young-gold-dragon-xmm (dragon)]]
+- [[npc - Aljanor Keenblade Oota]]

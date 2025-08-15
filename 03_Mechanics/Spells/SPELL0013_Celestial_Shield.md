@@ -1,4 +1,5 @@
 ---
+aliases: ["Celestial Shield", "celestial shield", "Shield Celestial"]
 tags: [generated]
 id: SPELL0013_Celestial_Shield
 created: 2025-08-15T04:09:51.468Z

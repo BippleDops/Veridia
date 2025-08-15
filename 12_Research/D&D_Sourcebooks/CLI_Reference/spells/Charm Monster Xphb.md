@@ -96,3 +96,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Dryad Xmm]]
+- [[dryad-xmm (fey)]]
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]
+- [[Attitude Xphb]]
+- [[Challenge Rating Xphb]]
+- [[Indifferent Attitude Xphb]]
+- [[Nonplayer Character Xphb]]
+- [[Stat Block Xphb]]
+- [[attitude-xphb (variant-rules)]]
+- [[challenge-rating-xphb (variant-rules)]]
+- [[indifferent-attitude-xphb (variant-rules)]]
+- [[nonplayer-character-xphb (variant-rules)]]
+- [[stat-block-xphb (variant-rules)]]

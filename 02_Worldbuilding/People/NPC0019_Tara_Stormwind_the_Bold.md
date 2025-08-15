@@ -1,8 +1,8 @@
 ---
+aliases: ["Tara Stormwind the Bold", "tara stormwind the bold", "Tara Stormwind Bold", "Bold the Stormwind Tara"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -88,7 +88,6 @@ Arcana, Investigation
 
 ---
 *Generated: 2025-08-15T03:21:04.028Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

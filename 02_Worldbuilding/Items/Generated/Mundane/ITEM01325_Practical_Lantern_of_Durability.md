@@ -1,3 +1,9 @@
+---
+aliases: ["Practical Lantern of Durability", "practical lantern of durability", "Durability of Lantern Practical"]
+tags: [item, equipment]
+type: item
+---
+
 # Practical Lantern of Durability
 
 *Mundane, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A practical lantern showing signs of age
 - Provides comfort
 - Never breaks or wears out
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -30,7 +34,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.477Z*

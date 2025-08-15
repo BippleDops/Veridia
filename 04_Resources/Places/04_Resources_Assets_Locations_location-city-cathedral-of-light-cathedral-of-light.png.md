@@ -102,3 +102,9 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Locations Location City Spymaster Crow V1 Spymaster Crow.svg]]
+- [[Assets Symbols Symbol Heraldry Harmonic Mind Contro Harmonic Mind Contro.svg]]
+- [[Assets Symbols Symbol Heraldry the Unnamed Watcher the Unnamed Watcher.svg]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Frostwhisper the Seeker", "erasmus frostwhisper the seeker", "Erasmus Frostwhisper Seeker", "Seeker the Frostwhisper Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Frostwhisper the Seeker
 
 *Tiefling Assassin (Villains), Age 34, Female*
@@ -42,16 +48,13 @@ Corrupted by an artifact or dark magic They've fallen in love with someone they 
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Ewan Emberfall the Lost (Professional - Employee)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Lyanna Blackstone the Mystic (Personal - Nemesis)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Believes they're saving the world

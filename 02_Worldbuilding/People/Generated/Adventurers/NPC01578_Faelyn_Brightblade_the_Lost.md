@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Brightblade the Lost", "faelyn brightblade the lost", "Faelyn Brightblade Lost", "Lost the Brightblade Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Brightblade the Lost
 
 *Half-Elf Cleric (Adventurers), Age 48, Female*
@@ -36,7 +42,6 @@ Running from a dark past that won't stay buried A family member's death has left
 - **Short Term**: Gather information
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Zephyr Youngblood the Mystic (Criminal - Fence)
 - **Status**: Recently reconciled
@@ -47,16 +52,13 @@ Running from a dark past that won't stay buried A family member's death has left
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Kaelen Zephyrblade the Wanderer (Personal - Ex-lover)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Hilda Xendar the Lost (Criminal - Informant)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
-
 
 ### Gavril Blackstone the Scholar (Professional - Employer)
 - **Status**: Complicated history
@@ -66,7 +68,6 @@ Running from a dark past that won't stay buried A family member's death has left
 ### Jorah Brightblade the Broken (Criminal - Accomplice)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Possessed by ancient spirit

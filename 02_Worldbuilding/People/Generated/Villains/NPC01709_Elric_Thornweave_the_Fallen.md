@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Thornweave the Fallen", "elric thornweave the fallen", "Elric Thornweave Fallen", "Fallen the Thornweave Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Thornweave the Fallen
 
 *Half-Orc Crime Boss (Villains), Age 21, Male*
@@ -36,27 +42,22 @@ Believes their evil acts serve a greater good They've made a deal they're beginn
 - **Short Term**: Find missing person
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Urien Zephyrblade the Wise (Personal - Ex-lover)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Hilda Hawthorne the Wanderer (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ### Ewan Grimholt the Wanderer (Criminal - Informant)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Rhiannon Ironforge the Guardian (Personal - Childhood friend)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
-
 
 ### Fiora Winterborn the Risen (Professional - Employer)
 - **Status**: Secretly hostile
@@ -66,7 +67,6 @@ Believes their evil acts serve a greater good They've made a deal they're beginn
 ### Dara Dawnstrider the Bold (Political - Patron)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Believes they're saving the world

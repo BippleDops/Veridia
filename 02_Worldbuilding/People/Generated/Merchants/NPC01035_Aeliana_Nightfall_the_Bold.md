@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Nightfall the Bold", "aeliana nightfall the bold", "Aeliana Nightfall Bold", "Bold the Nightfall Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Nightfall the Bold
 
 *Half-Elf Broker (Merchants), Age 32, Female*
@@ -13,7 +19,6 @@
 Short and slender, with Short and neat brown hair and Hazel eyes. Tan skin. Gold tooth that glints when smiling.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Laughs at the most inappropriate times
@@ -36,27 +41,22 @@ Uses their business as cover for other activities Strange abilities have begun m
 - **Short Term**: Make this month's payment
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Kaelen Ironforge the Swift (Professional - Mentor)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
 
-
 ### Gavril Proudmore the Cunning (Personal - Love interest)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
-
 
 ### Caelum Oakenshield the Broken (Professional - Partner)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Malakai Grimholt the Bold (Criminal - Target)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Killed previous business owner

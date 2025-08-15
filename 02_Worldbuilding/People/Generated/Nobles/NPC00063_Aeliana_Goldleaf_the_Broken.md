@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Goldleaf the Broken", "aeliana goldleaf the broken", "Aeliana Goldleaf Broken", "Broken the Goldleaf Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Goldleaf the Broken
 
 *Dragonborn Aristocrat (Nobles), Age 76, Male*
@@ -13,7 +19,6 @@
 Above average and slender, with Carefully styled brown hair and Gray eyes. Weathered skin. Crooked nose from multiple breaks.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Compulsive liar about minor things
@@ -36,12 +41,10 @@ Last survivor of a fallen house, seeking to restore family honor They recently d
 - **Short Term**: Find missing person
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Baelor Lightbringer (Personal - Nemesis)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ### Kaelen Silverleaf (Professional - Mentor)
 - **Status**: Professional only
@@ -56,7 +59,6 @@ Last survivor of a fallen house, seeking to restore family honor They recently d
 ### Ysara Underhill (Professional - Employee)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ### Alaric Emberfall (Political - Puppet)
 - **Status**: On the verge of collapse

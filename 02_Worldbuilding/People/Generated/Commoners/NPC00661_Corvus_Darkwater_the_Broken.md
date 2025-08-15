@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Darkwater the Broken", "corvus darkwater the broken", "Corvus Darkwater Broken", "Broken the Darkwater Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Darkwater the Broken
 
 *Gnome Carpenter (Commoners), Age 53, Female*
@@ -42,21 +48,17 @@ Family has worked the same trade for generations, but times are changing They've
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Zephyr Underhill the Wanderer (Professional - Partner)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ### Felicia Ironforge the Risen (Political - Spy)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
 
-
 ### Idris Stormwind the Wise (Family - Spouse)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ### Gavril Ironwood the Lost (Criminal - Informant)
 - **Status**: One-sided affection

@@ -63,3 +63,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A corpse reveals ancient history about this place
 - A letter reveals a betrayal about the cult
 - A journal reveals the truth about the government
+
+## References
+
+- [[Abyssos Prime - Inverse Palace]]
+- [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]]

@@ -80,3 +80,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A letter reveals a betrayal about a local noble
 - Strange sightings suggest a conspiracy
+
+## References
+
+- [[Master_Item_Catalog]]

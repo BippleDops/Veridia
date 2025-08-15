@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Moonshadow the Broken", "felicia moonshadow the broken", "Felicia Moonshadow Broken", "Broken the Moonshadow Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Moonshadow the Broken
 
 *Dwarf Cultist (Villains), Age 52, Non-binary*
@@ -13,7 +19,6 @@
 Towering and compact, with Tied back unusual color hair and Heterochromic eyes. Scarred skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Incredibly optimistic despite evidence; Extremely superstitious about everything
@@ -42,31 +47,25 @@ Born into evil but questioning their path They're being blackmailed by someone f
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
 
-
 ### Alaric Ironwood the Redeemed (Professional - Employee)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ### Delara Lightbringer the Risen (Family - Sibling)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Brenna Ironforge the Redeemed (Political - Patron)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
-
 
 ### Aeliana Voidwalker the Mystic (Criminal - Accomplice)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Thalia Winterborn the Redeemed (Personal - Ex-lover)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Believes they're saving the world

@@ -1,3 +1,9 @@
+---
+aliases: ["Time-worn Orb of the Gods", "time-worn orb of the gods", "Time-worn Orb of Gods", "Gods the of Orb Time-worn"]
+tags: [item, equipment]
+type: item
+---
+
 # Time-worn Orb of the Gods
 
 *Artifacts, Artifact (requires attunement)*
@@ -16,8 +22,6 @@ A time-worn orb radiating otherworldly power
 - Regenerate 1 hp/round
 - Grant true sight
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -32,7 +36,6 @@ Priceless
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.429Z*

@@ -73,3 +73,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+## References
+
+- [[Nonhuman Deities Phb]]
+- [[nonhuman-deities-phb (tables)]]

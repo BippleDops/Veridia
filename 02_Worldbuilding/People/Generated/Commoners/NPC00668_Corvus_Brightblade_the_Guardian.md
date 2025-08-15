@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Brightblade the Guardian", "corvus brightblade the guardian", "Corvus Brightblade Guardian", "Guardian the Brightblade Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Brightblade the Guardian
 
 *Elf Baker (Commoners), Age 56, Female*
@@ -36,22 +42,18 @@ Family has worked the same trade for generations, but times are changing A proph
 - **Short Term**: Find missing person
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Drusilla Voidwalker the Scholar (Professional - Partner)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
 
-
 ### Felicia Hawthorne the Seeker (Family - Spouse)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Xander Ashford the Cunning (Professional - Partner)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ### Branwen Underhill the Guardian (Political - Ally)
 - **Status**: Mutually beneficial
@@ -61,7 +63,6 @@ Family has worked the same trade for generations, but times are changing A proph
 ### Wynne Zephyrblade the Wanderer (Personal - Nemesis)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ### Nerys Voidwalker the Swift (Family - Sibling)
 - **Status**: On the verge of collapse

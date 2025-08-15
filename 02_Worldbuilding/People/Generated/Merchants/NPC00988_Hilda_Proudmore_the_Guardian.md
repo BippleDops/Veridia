@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Proudmore the Guardian", "hilda proudmore the guardian", "Hilda Proudmore Guardian", "Guardian the Proudmore Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Proudmore the Guardian
 
 *Genasi Appraiser (Merchants), Age 74, Non-binary*
@@ -36,32 +42,26 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 - **Short Term**: Complete current contract
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Elric Jadeclaw the Broken (Personal - Best friend)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Kaelen Goldleaf the Swift (Political - Patron)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ### Cedric Moonshadow the Mystic (Family - Child)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Dara Thornweave the Broken (Political - Patron)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
 
-
 ### Fiora Stormwind the Bold (Family - Child)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ### Corvus Proudmore the Wise (Professional - Employer)
 - **Status**: On the verge of collapse

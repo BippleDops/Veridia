@@ -1,4 +1,5 @@
 ---
+aliases: ["Hidden Gauntlet of Power", "hidden gauntlet of power", "Power of Gauntlet Hidden"]
 tags: [generated]
 id: ITEM0047
 created: 2025-08-15T04:09:51.093Z

@@ -193,3 +193,8 @@ Member of House Serpentblood - Trait: magical affinity
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
+
+## References
+
+- [[Assets Locations Location City Transportation Guild Masters V1 Transportation Guild Masters.svg]]
+- [[04_Resources_Assets_Locations_location-city-master-chef-coral-seasweaver-v1-master-chef-coral-seasweaver.svg]]

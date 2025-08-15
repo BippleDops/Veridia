@@ -1,4 +1,5 @@
 ---
+aliases: ["Hidden Crown of the Dawn", "hidden crown of the dawn", "Hidden Crown of Dawn", "Dawn the of Crown Hidden"]
 tags: [generated]
 id: ITEM0087
 created: 2025-08-15T04:09:51.106Z
@@ -19,8 +20,6 @@ Crafted from darkwood with glowing gems, in recently restored. It emanates a fai
 
 ## Quirk
 *Occasionally speaks in ancient tongue*
-
-
 
 ## History
 This item was corrupted by dark magic millennia ago. It has passed through many hands, each leaving their mark upon its destiny.

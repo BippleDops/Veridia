@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Ravenheart the Wise", "hestara ravenheart the wise", "Hestara Ravenheart Wise", "Wise the Ravenheart Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Ravenheart the Wise
 
 *Human Fighter (Adventurers), Age 34, Female*
@@ -13,7 +19,6 @@
 Average height and stocky, with Shaved white hair and Amber eyes. Unusual hue skin. Missing finger on left hand.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Speaks to inanimate objects; Laughs at the most inappropriate times; Always tells the absolute truth
@@ -36,17 +41,14 @@ Chosen by fate to fulfill an ancient prophecy A family member's death has left t
 - **Short Term**: Make this month's payment
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Lyanna Ironwood the Guardian (Family - Child)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Gareth Youngblood the Guardian (Professional - Mentor)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ### Caelum Darkwater the Broken (Family - Spouse)
 - **Status**: Recently reconciled

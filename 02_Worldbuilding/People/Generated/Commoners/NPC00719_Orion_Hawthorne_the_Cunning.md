@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Hawthorne the Cunning", "orion hawthorne the cunning", "Orion Hawthorne Cunning", "Cunning the Hawthorne Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Hawthorne the Cunning
 
 *Human Blacksmith (Commoners), Age 18, Male*
@@ -36,7 +42,6 @@ Family has worked the same trade for generations, but times are changing An old 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Rhiannon Voidwalker the Bold (Family - Sibling)
 - **Status**: Blood oath bound
@@ -46,7 +51,6 @@ Family has worked the same trade for generations, but times are changing An old 
 ### Kaelen Nightfall the Strong (Personal - Nemesis)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ### Vesper Xendar the Wise (Criminal - Target)
 - **Status**: Secretly hostile

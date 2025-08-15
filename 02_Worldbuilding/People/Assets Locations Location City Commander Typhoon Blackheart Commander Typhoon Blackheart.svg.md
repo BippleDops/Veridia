@@ -197,3 +197,8 @@ This NPC can serve multiple roles:
 ## Bloodline
 
 Member of House Lionblood - Trait: divine blood
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-acoustic-infection-acoustic-infection.svg]]
+- [[04_Resources_Assets_Locations_location-city-temple-guardian-marcus-the-drowned-temple-guardian-marcus-the-drowned.svg]]

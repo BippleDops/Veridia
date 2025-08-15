@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Crystalbrook the Risen", "malakai crystalbrook the risen", "Malakai Crystalbrook Risen", "Risen the Crystalbrook Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Crystalbrook the Risen
 
 *Half-Orc Appraiser (Merchants), Age 59, Female*
@@ -13,7 +19,6 @@
 Below average and lanky, with Tied back red hair and Green eyes. Dark skin. Intricate tattoos covering arms.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Flirts with everyone regardless of interest; Extremely superstitious about everything
@@ -47,16 +52,13 @@ Inherited a failing business and turned it around Strange abilities have begun m
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Xander Quicksilver the Strong (Family - Cousin)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Cedric Dawnstrider the Strong (Family - Sibling)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
-
 
 ### Jorah Nightfall the Risen (Political - Ally)
 - **Status**: On the verge of collapse

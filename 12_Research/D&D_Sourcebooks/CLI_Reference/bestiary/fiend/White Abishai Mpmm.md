@@ -156,3 +156,9 @@ Mentioned in The First Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[white-abishai-mpmm (fiend)]]
+- [[6 Bestiary]]
+- [[6-bestiary (mordenkainens-tome-of-foes)]]

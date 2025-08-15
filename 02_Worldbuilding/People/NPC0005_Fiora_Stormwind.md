@@ -1,8 +1,8 @@
 ---
+aliases: ["Fiora Stormwind", "fiora stormwind", "Stormwind Fiora"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -74,7 +74,6 @@ Stealth, Investigation
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 24 gold pieces
 - Book of poetry
@@ -87,7 +86,6 @@ Stealth, Investigation
 
 ---
 *Generated: 2025-08-15T03:21:04.025Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

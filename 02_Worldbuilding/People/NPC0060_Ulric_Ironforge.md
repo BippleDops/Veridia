@@ -1,11 +1,11 @@
 ---
+aliases: ["Ulric Ironforge", "ulric ironforge", "Ironforge Ulric"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -74,8 +74,6 @@ Merchant family that lost everything to pirates. Years ago, they found an ancien
 ### Skills
 Perception, Deception, Investigation, Persuasion
 
-
-
 ## Possessions
 - 12 gold pieces
 - Healing potion
@@ -88,7 +86,6 @@ Perception, Deception, Investigation, Persuasion
 
 ---
 *Generated: 2025-08-15T03:20:13.078Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

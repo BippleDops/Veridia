@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Ironwood the Redeemed", "jorah ironwood the redeemed", "Jorah Ironwood Redeemed", "Redeemed the Ironwood Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Ironwood the Redeemed
 
 *Aasimar Rogue (Adventurers), Age 38, Non-binary*
@@ -36,7 +42,6 @@ Running from a dark past that won't stay buried They've been marked by a secret 
 - **Short Term**: Recruit new members
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Corvus Stormwind the Risen (Political - Patron)
 - **Status**: Strong and trusting
@@ -47,11 +52,9 @@ Running from a dark past that won't stay buried They've been marked by a secret 
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Thalia Winterborn the Seeker (Family - Parent)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ### Wynne Goldleaf the Wise (Professional - Partner)
 - **Status**: Complicated history
@@ -61,7 +64,6 @@ Running from a dark past that won't stay buried They've been marked by a secret 
 ### Cedric Silverleaf the Seeker (Family - Child)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ### Xander Ironwood the Lost (Personal - Childhood friend)
 - **Status**: Secretly hostile

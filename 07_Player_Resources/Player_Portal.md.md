@@ -1,6 +1,5 @@
 ---
 
-
 title: 07_Player_Resources/Player_Portal.md
 type: lore
 tags:
@@ -146,7 +145,6 @@ improvements: 20
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
-
 
 ## See Also
 - Related content

@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Blackstone the Swift", "caelum blackstone the swift", "Caelum Blackstone Swift", "Swift the Blackstone Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Blackstone the Swift
 
 *Firbolg Wizard (Adventurers), Age 68, Non-binary*
@@ -13,7 +19,6 @@
 Tall and muscular, with Long and flowing black hair and Gray eyes. Dark skin. Burn scars on one side of face.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Constantly quotes ancient texts; Compulsive liar about minor things
@@ -42,7 +47,6 @@ Running from a dark past that won't stay buried A chance encounter last winter c
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Malakai Silverleaf the Cunning (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
@@ -51,7 +55,6 @@ Running from a dark past that won't stay buried A chance encounter last winter c
 ### Aldric Ravenheart the Lost (Political - Puppet)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Possessed by ancient spirit

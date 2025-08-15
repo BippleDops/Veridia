@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Oakenshield the Redeemed", "wynne oakenshield the redeemed", "Wynne Oakenshield Redeemed", "Redeemed the Oakenshield Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Oakenshield the Redeemed
 
 *Gnome Shopkeeper (Merchants), Age 27, Female*
@@ -42,11 +48,9 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Erasmus Brightblade the Risen (Criminal - Accomplice)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ### Delara Xendar the Broken (Criminal - Target)
 - **Status**: Professional only

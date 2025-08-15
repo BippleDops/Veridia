@@ -1,8 +1,8 @@
 ---
+aliases: ["Vera Stormwind", "vera stormwind", "Stormwind Vera"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -73,8 +73,6 @@ Raised by monks in a remote monastery. Years ago, they was falsely accused of a 
 ### Skills
 Insight, Perception, Stealth
 
-
-
 ## Possessions
 - 58 gold pieces
 - Lucky dice
@@ -89,7 +87,6 @@ Insight, Perception, Stealth
 
 ---
 *Generated: 2025-08-15T03:20:13.074Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

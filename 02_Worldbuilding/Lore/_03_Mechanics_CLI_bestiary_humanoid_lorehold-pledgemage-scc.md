@@ -2,7 +2,7 @@
 tags: ['[[Lore]]']
 ---
 
-# /[[03 Mechanics]]/CLI/bestiary/humanoid/lorehold-pledgemage-scc
+# /[[03_Mechanics|03 Mechanics]]/CLI/bestiary/humanoid/lorehold-pledgemage-scc
 
 ## Overview
 

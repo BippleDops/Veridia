@@ -102,3 +102,27 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Silverquill Student Scc]]
+- [[silverquill-student-scc (backgrounds)]]
+- [[Cambion Xmm]]
+- [[Green Abishai Mpmm]]
+- [[Succubus Xmm]]
+- [[Yochlol Xmm]]
+- [[cambion-xmm (fiend)]]
+- [[green-abishai-mpmm (fiend)]]
+- [[succubus-xmm (fiend)]]
+- [[yochlol-xmm (fiend)]]
+- [[Nagpa Mpmm]]
+- [[nagpa-mpmm (monstrosity)]]
+- [[Elder Oblex Mpmm]]
+- [[elder-oblex-mpmm (ooze)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Paladin Xphb Oathbreaker Dmg]]
+- [[Warlock Xphb Archfey Patron Xphb]]
+- [[paladin-xphb-oathbreaker-dmg (classes)]]
+- [[warlock-xphb-archfey-patron-xphb (classes)]]

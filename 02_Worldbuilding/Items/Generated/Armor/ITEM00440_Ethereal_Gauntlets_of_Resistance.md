@@ -1,3 +1,9 @@
+---
+aliases: ["Ethereal Gauntlets of Resistance", "ethereal gauntlets of resistance", "Resistance of Gauntlets Ethereal"]
+tags: [item, equipment]
+type: item
+---
+
 # Ethereal Gauntlets of Resistance
 
 *Armor, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A ethereal gauntlets bearing ancient runes
 - +1 to AC
 - +2 to AC
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -30,7 +34,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.382Z*

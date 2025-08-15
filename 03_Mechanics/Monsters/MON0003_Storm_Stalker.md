@@ -1,4 +1,5 @@
 ---
+aliases: ["Storm Stalker", "storm stalker", "Stalker Storm"]
 tags: [generated]
 id: MON0003_Storm_Stalker
 created: 2025-08-15T04:09:51.422Z
@@ -25,7 +26,6 @@ A being of pure elemental energy given form
 
 ---
 *Generated: 2025-08-15T03:21:47.461Z*
-
 
 ## Habitat
 - Natural environment and territories

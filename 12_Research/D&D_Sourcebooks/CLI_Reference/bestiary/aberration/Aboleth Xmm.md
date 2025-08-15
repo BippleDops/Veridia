@@ -222,3 +222,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[aboleth-xmm (aberration)]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[Monsters by Habitat Underwater Monsters Xmm]]
+- [[Underdark Encounters Levels 1116 Xge]]
+- [[Underdark Encounters Levels 1720 Xge]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]
+- [[monsters-by-habitat-underwater-monsters-xmm (tables)]]
+- [[underdark-encounters-levels-1116-xge (tables)]]
+- [[underdark-encounters-levels-1720-xge (tables)]]

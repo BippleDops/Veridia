@@ -42,7 +42,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -97,7 +97,7 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 **Breakthrough**: Discovery of pressure-amplification crystals enabled passenger transport
 
 ### The Great Construction
-**[[[[Time]]line]]**: 120-100 years ago  
+**[[Time|[[Time]]line]]**: 120-100 years ago  
 **Scale**: Largest construction project in Aquabyssos history  
 **Workers**: Over 10,000 engineers, miners, and laborers involved  
 **Obstacles**: Complex geology, [[Pressure Differential]]s, underwater construction challenges  
@@ -409,7 +409,7 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 **Secret**: Working on experimental technology for interplanar pressure travel
 
 #### [[Security Chief Corwin Ironshell]]
-**Background**: Former military officer specializing in [[Underwater Combat]] and security  
+**Background**: Former military officer specializing in [[Underwater_Combat|Underwater Combat]] and security  
 **Responsibility**: All terminal security, coordination with law enforcement  
 **Skills**: Expert in crowd control, emergency response, threat assessment  
 **Challenge**: Balancing security needs with smooth passenger flow  
@@ -671,7 +671,7 @@ Legends speak of Pressure Terminal as a nexus where past and present converge. L
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -692,13 +692,11 @@ Pressure Terminal is a notable location characterized by its unique features and
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -706,13 +704,11 @@ Pressure Terminal is a notable location characterized by its unique features and
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -753,7 +749,6 @@ Ongoing situations affecting Pressure Terminal:
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -789,3 +784,15 @@ Ongoing situations affecting Pressure Terminal:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Comprehensive-World-Connection-Guide]]
+- [[Working Class Routines]]
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Abyssos Prime]]
+- [[Noble Quarter]]
+- [[Comprehensive-World-Connection-Guide (D&D_References)]]
+- [[Comprehensive-World-Connection-Guide 3 (D&D_References)]]
+- [[Dr. Siphon Gillwater (D&D_Statblocks)]]
+- [[Noble Quarter (D&D_Statblocks)]]

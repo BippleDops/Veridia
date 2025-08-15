@@ -62,3 +62,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Someone is protecting an heir for money
 - A noble needs help delivering before dawn
 - A prisoner has gone missing and war looms
+
+## References
+
+- [[Crystallium]]
+- [[Crystallium (D&D_References)]]

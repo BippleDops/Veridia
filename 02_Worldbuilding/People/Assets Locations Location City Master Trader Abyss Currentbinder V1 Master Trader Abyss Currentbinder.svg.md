@@ -201,3 +201,7 @@ This NPC can serve multiple roles:
 ## Bloodline
 
 Member of House Dragonblood - Trait: prophecy
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-culinary-dreamweaver-sage-gentlespice-v1-culinary-dreamweaver-sage-gentlespice.svg]]

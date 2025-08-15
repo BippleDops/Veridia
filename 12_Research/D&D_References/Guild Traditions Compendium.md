@@ -696,3 +696,12 @@ The extensive guild system provides natural explanations for professional compet
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Ironhold]]
+- [[Sylvanheart]]
+- [[Aquabyssos (D&D_References)]]
+- [[Crystalhaven (D&D_References)]]
+- [[Ironhold (D&D_References)]]
+- [[Sylvanheart (D&D_References)]]

@@ -1,4 +1,5 @@
 ---
+aliases: ["Princess's Secret", "princess's secret", "Secret Princess's"]
 tags: [generated]
 id: QUEST0064
 created: 2025-08-15T04:09:51.400Z
@@ -60,8 +61,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Show mercy and gain intel - Future ally but justice denied
 2. Execute for crimes committed - Justice served but opportunity lost
-
-
 
 ## Rewards
 ### On Success

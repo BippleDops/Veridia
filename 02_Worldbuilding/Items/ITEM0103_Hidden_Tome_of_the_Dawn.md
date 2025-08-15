@@ -1,4 +1,5 @@
 ---
+aliases: ["Hidden Tome of the Dawn", "hidden tome of the dawn", "Hidden Tome of Dawn", "Dawn the of Tome Hidden"]
 tags: [generated]
 id: ITEM0103
 created: 2025-08-15T04:09:51.110Z
@@ -18,8 +19,6 @@ Crafted from mithril with battle scars, in ancient but unbreakable. It emanates 
 
 ## Quirk
 *Hums when enemies are near*
-
-
 
 ## History
 This item was forged during the War of Shadows centuries ago. It has passed through many hands, each leaving their mark upon its destiny.

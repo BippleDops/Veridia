@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Emberfall the Swift", "jorah emberfall the swift", "Jorah Emberfall Swift", "Swift the Emberfall Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Emberfall the Swift
 
 *Tiefling Appraiser (Merchants), Age 39, Non-binary*
@@ -36,22 +42,18 @@ Part of a merchant family with connections everywhere Strange abilities have beg
 - **Short Term**: Complete current contract
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Drusilla Jadeclaw the Wise (Personal - Nemesis)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
 
-
 ### Rhiannon Grimholt the Fallen (Family - Parent)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Branwen Ironwood the Lost (Political - Puppet)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ### Gavril Stormwind the Fallen (Family - Sibling)
 - **Status**: One-sided affection
@@ -61,7 +63,6 @@ Part of a merchant family with connections everywhere Strange abilities have beg
 ### Nerys Brightblade the Wise (Family - Spouse)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Running a cult from their basement

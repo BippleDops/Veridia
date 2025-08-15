@@ -84,3 +84,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Manual of Golems Xdmg]]
+- [[manual-of-golems-xdmg (items)]]
+- [[Arcana Very Rare Xdmg]]
+- [[Random Magic Items Arcana]]
+- [[arcana-very-rare-xdmg (tables)]]
+- [[random-magic-items-arcana (tables)]]

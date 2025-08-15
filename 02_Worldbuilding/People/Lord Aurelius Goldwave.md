@@ -45,7 +45,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-lord-aurelius-goldwave-lord-aurelius-goldwave.svg)
 
@@ -55,7 +54,6 @@ improvements: 20
 *The Golden Tongue of Port Meridian*
 
 > *"My ancestors made a choice that damned us all. I intend to make a choice that redeems us. The price of redemption, you ask? Everything I have built, everything I am, everything I could become. But some debts can only be paid in full."*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -448,7 +446,6 @@ Mentioned in The Hidden Prophecy of Winds
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -484,3 +481,36 @@ Mentioned in The Hidden Prophecy of Winds
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Major Trading Companies]]
+- [[Merchant Princes]]
+- [[Queen Seraphina Lumengarde (People)]]
+- [[Assets Symbols Symbol Heraldry Navigation Geograph Navigation Geograph.svg]]
+- [[Assets Symbols Symbol Heraldry the Artisans Collective of Master Crafters the Artisans Collective of Master Crafters.svg]]
+- [[Marina-Red-Tide-Coralheart]]
+- [[Vex Shadowthorn's Apprentices]]
+- [[Commercial Hubs and Markets]]
+- [[Session 09 the Shard Convergence]]
+- [[Session 10 New Horizons (06_Sessions)]]
+- [[Aethermoor - Session 03 Council of Shadows]]
+- [[Captain Lyanna Brightshield (D&D_References)]]
+- [[Commercial Hubs and Markets (D&D_References)]]
+- [[Comprehensive-World-Connection-Guide (D&D_References)]]
+- [[Comprehensive-World-Connection-Guide 3 (D&D_References)]]
+- [[Economic Systems and Currency (D&D_References)]]
+- [[Economic Warfare and Trade Sanctions]]
+- [[High Inquisitor Maltheos (D&D_References)]]
+- [[Major Trading Companies (D&D_References)]]
+- [[Marina-Red-Tide-Coralheart (D&D_References)]]
+- [[Merchant Princes (D&D_References)]]
+- [[Queen Seraphina Lumengarde (D&D_References)]]
+- [[The Crystal Stock Exchange (D&D_References)]]
+- [[The Grand Trade Routes (D&D_References)]]
+- [[The Great Crystallization (D&D_References)]]
+- [[The Great Crystallization 3 (D&D_References)]]
+- [[Vex Shadowthorn's Apprentices (D&D_References)]]
+- [[Shard_Locations (D&D_Sourcebooks)]]
+- [[The Crimson Sage (D&D_Statblocks)]]

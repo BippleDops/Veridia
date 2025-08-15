@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Jadeclaw", "solas jadeclaw", "Jadeclaw Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Jadeclaw
 
 *Tiefling Blacksmith (Commoners), Age 20, Female*
@@ -42,11 +48,9 @@ Family has worked the same trade for generations, but times are changing A chanc
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Ysara Hawthorne the Guardian (Political - Opposition)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
-
 
 ### Ysara Dawnstrider the Fallen (Personal - Best friend)
 - **Status**: Blood oath bound
@@ -56,7 +60,6 @@ Family has worked the same trade for generations, but times are changing A chanc
 ### Qadim Blackstone the Guardian (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ### Fiora Voidwalker the Lost (Family - Sibling)
 - **Status**: Professional only

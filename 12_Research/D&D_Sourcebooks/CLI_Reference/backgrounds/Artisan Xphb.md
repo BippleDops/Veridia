@@ -81,3 +81,10 @@ Mentioned in The First Prophecy of Shadows
 - A document has gone missing and evil awakens
 - A noble needs help delivering before winter
 - A corpse reveals a betrayal about the government
+
+## References
+
+- [[05 Chapter 4 Character Origins]]
+- [[05-chapter-4-character-origins (players-handbook-2024)]]
+- [[Choose a Background Ability Scores and Backgrounds Xphb]]
+- [[Choose a Background Ability Scores and]]

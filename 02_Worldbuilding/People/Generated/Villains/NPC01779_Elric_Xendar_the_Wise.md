@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Xendar the Wise", "elric xendar the wise", "Elric Xendar Wise", "Wise the Xendar Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Xendar the Wise
 
 *Dragonborn Cultist (Villains), Age 58, Male*
@@ -13,7 +19,6 @@
 Average height and muscular, with Dreadlocks brown hair and Hazel eyes. Pale skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Incredibly optimistic despite evidence; Collects unusual and worthless objects; Extremely superstitious about everything
@@ -42,7 +47,6 @@ Driven mad by knowledge humanity wasn't meant to know A chance encounter last wi
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
 
-
 ### Fiora Ironwood the Fallen (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
@@ -52,16 +56,13 @@ Driven mad by knowledge humanity wasn't meant to know A chance encounter last wi
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Xander Ashford the Swift (Personal - Nemesis)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
 
-
 ### Brenna Silverleaf the Lost (Professional - Employer)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Knows how the world will end

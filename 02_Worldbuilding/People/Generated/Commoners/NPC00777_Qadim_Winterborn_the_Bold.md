@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Winterborn the Bold", "qadim winterborn the bold", "Qadim Winterborn Bold", "Bold the Winterborn Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Winterborn the Bold
 
 *Gnome Fisher (Commoners), Age 66, Non-binary*
@@ -13,7 +19,6 @@
 Average height and athletic, with Long and flowing blonde hair and Brown eyes. Fair skin. Gold tooth that glints when smiling.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Always tells the absolute truth
@@ -36,7 +41,6 @@ Runaway from an arranged marriage, starting a new life A prophetic dream has bee
 - **Short Term**: Avoid the authorities
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Xander Youngblood the Seeker (Professional - Mentor)
 - **Status**: Professional only
@@ -47,7 +51,6 @@ Runaway from an arranged marriage, starting a new life A prophetic dream has bee
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Aldric Proudmore the Seeker (Political - Patron)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
@@ -57,11 +60,9 @@ Runaway from an arranged marriage, starting a new life A prophetic dream has bee
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Aldric Oakenshield the Mystic (Political - Ally)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Can hear the thoughts of others

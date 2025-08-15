@@ -87,3 +87,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Someone is protecting a witness for power
 - A corpse reveals ancient history about the cult
 - Strange disappearances suggest ancient magic
+
+## References
+
+- [[Master_Item_Catalog]]

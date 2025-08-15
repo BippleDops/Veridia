@@ -1,4 +1,5 @@
 ---
+aliases: ["Forgotten Pendant of the Dawn", "forgotten pendant of the dawn", "Forgotten Pendant of Dawn", "Dawn the of Pendant Forgotten"]
 tags: [generated]
 id: ITEM0117
 created: 2025-08-15T04:09:51.114Z
@@ -19,8 +20,6 @@ Crafted from starfall iron with intricate runes, in pristine condition. It emana
 
 ## Quirk
 *Hums when enemies are near*
-
-
 
 ## History
 This item was corrupted by dark magic centuries ago. It has passed through many hands, each leaving their mark upon its destiny.

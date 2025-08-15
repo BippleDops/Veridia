@@ -394,3 +394,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Quest - The Lost Expedition]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide (D&D_References)]]

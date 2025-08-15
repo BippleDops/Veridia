@@ -1,4 +1,5 @@
 ---
+aliases: ["The Frozen Fortress Plague", "the frozen fortress plague", "Plague Fortress Frozen The"]
 tags: [generated]
 id: QUEST0033
 created: 2025-08-15T04:09:51.382Z
@@ -22,8 +23,6 @@ Eliminate the cult leader before they can complete the ritual
 ### Secondary
 - Maintain cover identity
 - Document findings for scholars
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they found an ancient artifact, which changed their life forever. Now, circumstances demand immediate action.

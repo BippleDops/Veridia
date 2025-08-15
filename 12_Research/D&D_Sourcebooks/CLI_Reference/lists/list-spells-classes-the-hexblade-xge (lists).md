@@ -89,4 +89,4 @@ Mentioned in The Hidden Prophecy of Shadows
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[list-spells-classes-the-hexblade-xge (lists)-phb]]` in CLI_Reference/spells/
+See: `[[classes|list-spells-classes-the-hexblade-xge (lists)-phb]]` in CLI_Reference/spells/

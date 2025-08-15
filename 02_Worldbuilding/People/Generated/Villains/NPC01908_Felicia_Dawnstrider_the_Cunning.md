@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Dawnstrider the Cunning", "felicia dawnstrider the cunning", "Felicia Dawnstrider Cunning", "Cunning the Dawnstrider Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Dawnstrider the Cunning
 
 *Human Dark Wizard (Villains), Age 26, Non-binary*
@@ -13,7 +19,6 @@
 Average height and lanky, with Tied back blonde hair and Red eyes. Fair skin. Weather-beaten face showing hard life.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Speaks to inanimate objects; Believes in every conspiracy theory
@@ -36,12 +41,10 @@ Driven mad by knowledge humanity wasn't meant to know An old debt has come due a
 - **Short Term**: Gather information
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Kaelen Ironforge the Lost (Family - Child)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ### Faelyn Oakenshield the Wanderer (Family - Child)
 - **Status**: Secretly hostile
@@ -61,7 +64,6 @@ Driven mad by knowledge humanity wasn't meant to know An old debt has come due a
 ### Baelor Quicksilver the Strong (Criminal - Target)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Is being controlled by darker force

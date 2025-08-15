@@ -128,3 +128,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Undead Spirit Xphb]]
+- [[Summon Undead Xphb]]
+- [[summon-undead-xphb (spells)]]

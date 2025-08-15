@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -71,7 +71,7 @@ Institute of Aquatic Mysticism represents a crucial aspect of the world's histor
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -85,7 +85,7 @@ Institute of Aquatic Mysticism represents a crucial aspect of the world's histor
 - Strange disappearances suggest a curse
 - Strange disappearances suggest a portal
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -101,3 +101,8 @@ Institute of Aquatic Mysticism represents a crucial aspect of the world's histor
 - Civil war
 - Natural disasters
 - Current [[Power Structures]] established
+
+## References
+
+- [[Institute_of_Aquatic_Mysticism (02_Worldbuilding)]]
+- [[System Cli Spells School Abjuration]]

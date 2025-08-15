@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Hawthorne the Swift", "delara hawthorne the swift", "Delara Hawthorne Swift", "Swift the Hawthorne Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Hawthorne the Swift
 
 *Tabaxi Noble (Nobles), Age 24, Male*
@@ -36,12 +42,10 @@ Secretly adopted into nobility, living in fear of discovery A family member's de
 - **Short Term**: Complete current contract
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Gavril Crystalbrook the Swift (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ### Brenna Zephyrblade (Professional - Employer)
 - **Status**: Recently reconciled

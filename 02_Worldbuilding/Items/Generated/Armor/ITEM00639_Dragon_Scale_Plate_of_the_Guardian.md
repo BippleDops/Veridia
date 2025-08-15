@@ -1,3 +1,9 @@
+---
+aliases: ["Dragon Scale Plate of the Guardian", "dragon scale plate of the guardian", "Dragon Scale Plate of Guardian", "Guardian the of Plate Scale Dragon"]
+tags: [item, equipment]
+type: item
+---
+
 # Dragon Scale Plate of the Guardian
 
 *Armor, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A dragon scale plate shimmering with energy
 - +1 to AC
 - Resistance to one damage type
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -31,7 +35,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.401Z*

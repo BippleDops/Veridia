@@ -93,3 +93,18 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Life Domain Xphb]]
+- [[Paladin Xphb Oath of Devotion Xphb]]
+- [[Sorcerer Xphb Clockwork Sorcery Xphb]]
+- [[Warlock Xphb Celestial Patron Xphb]]
+- [[cleric-xphb-life-domain-xphb (classes)]]
+- [[cleric-xphb-life-domain-xphb 2 (classes)]]
+- [[paladin-xphb-oath-of-devotion-xphb (classes)]]
+- [[sorcerer-xphb-clockwork-sorcery-xphb (classes)]]
+- [[warlock-xphb-celestial-patron-xphb (classes)]]

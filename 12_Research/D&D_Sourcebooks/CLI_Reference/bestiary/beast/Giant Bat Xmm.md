@@ -113,3 +113,29 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Bat Xmm]]
+- [[bat-xmm (beast)]]
+- [[giant-bat-xmm (beast)]]
+- [[2 Appendix a Miscellaneous Creatures]]
+- [[2-appendix-a-miscellaneous-creatures (monster-manual-2014)]]
+- [[3 Animals]]
+- [[3-animals (monster-manual-2025)]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[10-appendix-b-creature-stat-blocks (players-handbook-2024)]]
+- [[Cloak of the Bat Xdmg]]
+- [[Hat of Vermin Xdmg]]
+- [[cloak-of-the-bat-xdmg (items)]]
+- [[hat-of-vermin-xdmg (items)]]
+- [[Find Familiar Xphb]]
+- [[find-familiar-xphb (spells)]]
+- [[Monsters by Habitat Forest Monsters Xmm]]
+- [[Monsters by Habitat Mountain Monsters Xmm]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[Monsters by Habitat Urban Monsters Xmm]]
+- [[monsters-by-habitat-forest-monsters-xmm (tables)]]
+- [[monsters-by-habitat-mountain-monsters-xmm (tables)]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]
+- [[monsters-by-habitat-urban-monsters-xmm (tables)]]

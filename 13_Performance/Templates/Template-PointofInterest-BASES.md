@@ -92,3 +92,7 @@ Template-PointofInterest-BASES represents a crucial aspect of the world's histor
 
 - Strange dreams suggest ancient magic
 - A document has gone missing and chaos spreads
+
+## References
+
+- [[allosaurus]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Ironforge the Seeker", "kaelen ironforge the seeker", "Kaelen Ironforge Seeker", "Seeker the Ironforge Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Ironforge the Seeker
 
 *Halfling Cultist (Villains), Age 71, Male*
@@ -13,7 +19,6 @@
 Above average and muscular, with Partially shaved black hair and Brown eyes. Dark skin. Prominent scar across the face.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Incredibly optimistic despite evidence; Compulsive liar about minor things; Laughs at the most inappropriate times
@@ -36,7 +41,6 @@ Corrupted by an artifact or dark magic An old debt has come due at the worst pos
 - **Short Term**: Recruit new members
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Aldric Silverleaf the Risen (Professional - Partner)
 - **Status**: Strained but maintaining
@@ -52,7 +56,6 @@ Corrupted by an artifact or dark magic An old debt has come due at the worst pos
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Elric Winterborn the Swift (Personal - Nemesis)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
@@ -61,7 +64,6 @@ Corrupted by an artifact or dark magic An old debt has come due at the worst pos
 ### Qadim Youngblood the Cunning (Professional - Mentor)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Knows how the world will end

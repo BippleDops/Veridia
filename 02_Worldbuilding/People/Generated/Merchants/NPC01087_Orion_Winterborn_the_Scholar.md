@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Winterborn the Scholar", "orion winterborn the scholar", "Orion Winterborn Scholar", "Scholar the Winterborn Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Winterborn the Scholar
 
 *Tiefling Broker (Merchants), Age 29, Non-binary*
@@ -36,7 +42,6 @@ Inherited a failing business and turned it around A prophetic dream has been hau
 - **Short Term**: Recruit new members
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Thalia Underhill the Redeemed (Political - Opposition)
 - **Status**: Strained but maintaining
@@ -52,11 +57,9 @@ Inherited a failing business and turned it around A prophetic dream has been hau
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Xander Proudmore the Guardian (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ### Malakai Voidwalker the Risen (Professional - Rival)
 - **Status**: Blood oath bound

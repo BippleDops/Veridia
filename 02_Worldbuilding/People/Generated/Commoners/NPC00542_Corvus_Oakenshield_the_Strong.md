@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Oakenshield the Strong", "corvus oakenshield the strong", "Corvus Oakenshield Strong", "Strong the Oakenshield Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Oakenshield the Strong
 
 *Human Fisher (Commoners), Age 54, Non-binary*
@@ -13,7 +19,6 @@
 Above average and imposing, with Carefully styled white hair and Hazel eyes. Brown skin. Missing finger on left hand.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Collects unusual and worthless objects
@@ -36,17 +41,14 @@ Former soldier trying to adjust to civilian life An old debt has come due at the
 - **Short Term**: Survive until next week
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Thalia Ravenheart the Mystic (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
 ### Thalia Goldleaf the Scholar (Personal - Nemesis)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
-
 
 ### Baelor Frostwhisper the Lost (Political - Opposition)
 - **Status**: Strong and trusting
@@ -56,7 +58,6 @@ Former soldier trying to adjust to civilian life An old debt has come due at the
 ### Solas Nightfall the Fallen (Family - Sibling)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Has dragon blood in their veins

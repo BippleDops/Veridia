@@ -1,11 +1,11 @@
 ---
+aliases: ["Minerva Ironforge the Clever", "minerva ironforge the clever", "Minerva Ironforge Clever", "Clever the Ironforge Minerva"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -74,8 +74,6 @@ Raised by monks in a remote monastery. Years ago, they was falsely accused of a 
 ### Skills
 Insight, Investigation, Perception, Deception
 
-
-
 ## Possessions
 - 70 gold pieces
 - Small gemstone
@@ -90,7 +88,6 @@ Insight, Investigation, Perception, Deception
 
 ---
 *Generated: 2025-08-15T03:20:13.080Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

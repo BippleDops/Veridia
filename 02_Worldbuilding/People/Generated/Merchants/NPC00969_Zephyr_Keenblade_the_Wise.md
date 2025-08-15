@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Keenblade the Wise", "zephyr keenblade the wise", "Zephyr Keenblade Wise", "Wise the Keenblade Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Keenblade the Wise
 
 *Half-Elf Trader (Merchants), Age 22, Male*
@@ -36,22 +42,18 @@ Part of a merchant family with connections everywhere Strange abilities have beg
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Ewan Moonshadow (Political - Ally)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Aldric Xendar the Risen (Political - Ally)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Hestara Lightbringer the Bold (Criminal - Fence)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ### Thalia Xendar the Wise (Personal - Ex-lover)
 - **Status**: One-sided affection

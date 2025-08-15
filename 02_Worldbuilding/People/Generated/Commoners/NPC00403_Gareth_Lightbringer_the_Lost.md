@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Lightbringer the Lost", "gareth lightbringer the lost", "Gareth Lightbringer Lost", "Lost the Lightbringer Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Lightbringer the Lost
 
 *Dwarf Carpenter (Commoners), Age 72, Male*
@@ -42,16 +48,13 @@ Grew up in poverty but discovered a talent that might change everything A prophe
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Branwen Jadeclaw (Political - Spy)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Malakai Silverleaf the Lost (Criminal - Fence)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
-
 
 ### Corvus Dawnstrider the Broken (Political - Puppet)
 - **Status**: Recently reconciled

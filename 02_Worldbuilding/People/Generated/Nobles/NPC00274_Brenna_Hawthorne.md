@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Hawthorne", "brenna hawthorne", "Hawthorne Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Hawthorne
 
 *Dragonborn Aristocrat (Nobles), Age 40, Female*
@@ -36,37 +42,30 @@ Secretly adopted into nobility, living in fear of discovery An old debt has come
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Faelyn Darkwater (Family - Cousin)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
 
-
 ### Cedric Zephyrblade (Political - Ally)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ### Pyria Nightfall the Strong (Political - Patron)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Felicia Ironforge the Swift (Family - Sibling)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ### Gavril Blackstone (Criminal - Fence)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Caelum Xendar (Personal - Ex-lover)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Child from scandalous affair

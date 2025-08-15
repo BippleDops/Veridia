@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Ironforge", "aeliana ironforge", "Ironforge Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Ironforge
 
 *Dwarf Noble (Nobles), Age 64, Male*
@@ -42,11 +48,9 @@ Recently elevated to nobility through service, still learning courtly ways They 
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
 
-
 ### Ysara Darkwater the Fallen (Professional - Rival)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ### Brenna Emberfall the Broken (Political - Patron)
 - **Status**: Mutually beneficial
@@ -57,11 +61,9 @@ Recently elevated to nobility through service, still learning courtly ways They 
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
 
-
 ### Drusilla Winterborn (Criminal - Handler)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Child from scandalous affair

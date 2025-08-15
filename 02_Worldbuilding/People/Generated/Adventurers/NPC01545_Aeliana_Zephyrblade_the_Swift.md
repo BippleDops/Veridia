@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Zephyrblade the Swift", "aeliana zephyrblade the swift", "Aeliana Zephyrblade Swift", "Swift the Zephyrblade Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Zephyrblade the Swift
 
 *Dragonborn Cleric (Adventurers), Age 26, Female*
@@ -13,7 +19,6 @@
 Very tall and imposing, with Tied back bald hair and Violet eyes. Unusual hue skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times
@@ -36,7 +41,6 @@ Chosen by fate to fulfill an ancient prophecy They recently discovered a secret 
 - **Short Term**: Find missing person
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Hestara Grimholt the Swift (Criminal - Informant)
 - **Status**: Blood oath bound
@@ -47,7 +51,6 @@ Chosen by fate to fulfill an ancient prophecy They recently discovered a secret 
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Ysara Thornweave the Mystic (Personal - Love interest)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
@@ -57,11 +60,9 @@ Chosen by fate to fulfill an ancient prophecy They recently discovered a secret 
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Cedric Crystalbrook the Scholar (Family - Parent)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Is from the future

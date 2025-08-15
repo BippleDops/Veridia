@@ -1,4 +1,5 @@
 ---
+aliases: ["The Sacred Alliance", "the sacred alliance", "Alliance Sacred The"]
 tags: [generated]
 id: QUEST0055
 created: 2025-08-15T04:09:51.395Z
@@ -21,8 +22,6 @@ Gain access to the sunken temple and complete the ritual
 
 ### Secondary
 - Minimize civilian casualties
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they was falsely accused of a crime, which changed their life forever. Now, circumstances demand immediate action.
@@ -58,8 +57,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Show mercy and gain intel - Future ally but justice denied
 2. Execute for crimes committed - Justice served but opportunity lost
-
-
 
 ## Rewards
 ### On Success

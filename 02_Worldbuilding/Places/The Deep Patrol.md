@@ -50,7 +50,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -108,7 +108,7 @@ The Deep Patrol is Aquabyssos's elite military unit specializing in extreme dept
 ## Equipment and Gear
 **Pressure Suits**: Advanced armor rated for crushing depths
 **Depth [[Vehicles]]**: Specialized submersibles for patrol operations
-**[[Communication Systems]]**: Long-range equipment functioning at extreme depth
+**[[Communication_Systems|Communication Systems]]**: Long-range equipment functioning at extreme depth
 **Weapons**: Modified armaments effective against deep-sea creatures
 **Life Support**: Emergency breathing apparatus and pressure regulation
 
@@ -178,7 +178,7 @@ The Deep Patrol is Aquabyssos's elite military unit specializing in extreme dept
 **Mark VII Pressure Suit**: Rated for 15,000+ foot depths
 **Deep Scout Vehicle**: Two-person submersible with 72-hour endurance
 **Abyssal Communicator**: Long-range device functioning at extreme depth
-**Pressure Spear**: Weapon designed for [[Underwater Combat]] effectiveness
+**Pressure Spear**: Weapon designed for [[Underwater_Combat|Underwater Combat]] effectiveness
 **Emergency Beacon**: Distress signal detectable by surface rescue teams
 
 ## Future Developments
@@ -195,7 +195,7 @@ The Deep Patrol is Aquabyssos's elite military unit specializing in extreme dept
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 The Deep Patrol provides opportunities for extreme environment adventures, military campaigns, and exploration of deep-sea mysteries. Their specialized equipment and training make them valuable [[Allies]] or formidable opponents in appropriate scenarios.
 
 ## Player-Facing Summary
@@ -226,13 +226,11 @@ The Deep Patrol is a notable location characterized by its unique features and s
 ### Founding
 The Deep Patrol was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -240,13 +238,11 @@ The Deep Patrol was established in the distant past, growing from humble beginni
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -289,7 +285,6 @@ Key stop on textiles trade route
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -325,3 +320,10 @@ Key stop on textiles trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Depth Warden Patrol]]
+- [[Pressure Terminal]]
+- [[Depth Warden Patrol (D&D_Statblocks)]]
+- [[Pressure Terminal (D&D_Statblocks)]]

@@ -88,3 +88,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Adult Brass Dragon Xmm]]
+- [[Adult Red Dragon Xmm]]
+- [[Ancient Brass Dragon Xmm]]
+- [[Ancient Red Dragon Xmm]]
+- [[adult-brass-dragon-xmm (dragon)]]
+- [[adult-red-dragon-xmm (dragon)]]
+- [[ancient-brass-dragon-xmm (dragon)]]
+- [[ancient-red-dragon-xmm (dragon)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Light Domain Xphb]]
+- [[Warlock Xphb Fiend Patron Xphb]]
+- [[cleric-xphb-light-domain-xphb (classes)]]
+- [[cleric-xphb-light-domain-xphb 2 (classes)]]
+- [[warlock-xphb-fiend-patron-xphb (classes)]]
+- [[Circlet of Blasting Xdmg]]
+- [[circlet-of-blasting-xdmg (items)]]

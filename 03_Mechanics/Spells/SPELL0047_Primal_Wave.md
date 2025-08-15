@@ -1,4 +1,5 @@
 ---
+aliases: ["Primal Wave", "primal wave", "Wave Primal"]
 tags: [generated]
 id: SPELL0047_Primal_Wave
 created: 2025-08-15T04:09:51.477Z

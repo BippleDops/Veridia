@@ -91,3 +91,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[10 Combat]]
+- [[10-combat (players-handbook-2014)]]

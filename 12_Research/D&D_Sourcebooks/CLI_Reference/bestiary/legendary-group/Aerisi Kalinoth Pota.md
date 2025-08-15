@@ -93,3 +93,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Assets Locations Location City Quartermaster David Simpleton Quartermaster David Simpleton.svg]]
+- [[Assets Portraits Portrait NPC Captain Depths Walker Marina Captain Depths Walker Marina.svg]]

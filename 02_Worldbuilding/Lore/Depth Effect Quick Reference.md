@@ -54,7 +54,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -544,7 +544,7 @@ The [[Pressure Adaptation System]] and [[Underwater Breathing]] systems create a
 **100 to 500 feet:**
 - **Pressure Suits**: Level 1 protection systems
 - **Enhanced Tools**: Power tools adapted for pressure
-- **[[Communication Systems]]**: Electronic underwater communication
+- **[[Communication_Systems|Communication Systems]]**: Electronic underwater communication
 - **Medical Equipment**: Pressure-specific first aid supplies
 
 **500 to 2000 feet:**
@@ -669,7 +669,7 @@ Depth Effect Quick Reference is a undersea element of the setting, known for bio
 
 Legends speak of Depth Effect Quick Reference as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Depth Effect Quick Reference.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -686,3 +686,10 @@ Different cultures interpret this lore through their own lens, creating variatio
 - A document has gone missing and truth emerges
 - A noble needs help investigating before dawn
 - A letter reveals ancient history about the government
+
+## References
+
+- [[Pressure Adaptation System]]
+- [[Underwater Breathing]]
+- [[Pressure Adaptation System (D&D_References)]]
+- [[Underwater Breathing (D&D_References)]]

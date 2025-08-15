@@ -149,3 +149,16 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[_03_Mechanics_CLI_bestiary_monstrosity_young-remorhaz-xmm]]
+- [[remorhaz-xmm (monstrosity)]]
+- [[Arctic Encounters Levels 1116 Xge]]
+- [[Arctic Encounters Levels 1720 Xge]]
+- [[Arctic Encounters Levels 510 Xge]]
+- [[Monsters by Habitat Arctic Monsters Xmm]]
+- [[arctic-encounters-levels-1116-xge (tables)]]
+- [[arctic-encounters-levels-1720-xge (tables)]]
+- [[arctic-encounters-levels-510-xge (tables)]]
+- [[monsters-by-habitat-arctic-monsters-xmm (tables)]]

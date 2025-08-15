@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Xendar the Lost", "zephyr xendar the lost", "Zephyr Xendar Lost", "Lost the Xendar Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Xendar the Lost
 
 *Dragonborn Trader (Merchants), Age 33, Female*
@@ -36,17 +42,14 @@ Uses their business as cover for other activities A prophetic dream has been hau
 - **Short Term**: Avoid the authorities
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Cedric Lightbringer the Broken (Family - Sibling)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Brenna Moonshadow the Seeker (Political - Opposition)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ### Solas Ravenheart the Seeker (Political - Patron)
 - **Status**: Mutually beneficial
@@ -56,7 +59,6 @@ Uses their business as cover for other activities A prophetic dream has been hau
 ### Ysara Darkwater the Strong (Criminal - Informant)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Running a cult from their basement

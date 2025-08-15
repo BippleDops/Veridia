@@ -1,3 +1,9 @@
+---
+aliases: ["Thunder Hammer of the Ancients", "thunder hammer of the ancients", "Thunder Hammer of Ancients", "Ancients the of Hammer Thunder"]
+tags: [item, equipment]
+type: item
+---
+
 # Thunder Hammer of the Ancients
 
 *Weapons, Very Rare*
@@ -16,8 +22,6 @@ A thunder hammer made of crystallized magic
 - +2 to attack and damage rolls
 - Ignores resistance to damage type
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -32,7 +36,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.365Z*

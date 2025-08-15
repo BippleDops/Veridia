@@ -1,3 +1,9 @@
+---
+aliases: ["Sturdy Map Case of Reliability", "sturdy map case of reliability", "Reliability of Case Map Sturdy"]
+tags: [item, equipment]
+type: item
+---
+
 # Sturdy Map Case of Reliability
 
 *Mundane, Common*

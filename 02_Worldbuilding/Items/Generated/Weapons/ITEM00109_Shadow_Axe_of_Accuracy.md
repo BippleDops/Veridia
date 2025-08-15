@@ -1,3 +1,9 @@
+---
+aliases: ["Shadow Axe of Accuracy", "shadow axe of accuracy", "Accuracy of Axe Shadow"]
+tags: [item, equipment]
+type: item
+---
+
 # Shadow Axe of Accuracy
 
 *Weapons, Common*
@@ -13,8 +19,6 @@ A shadow axe made of crystallized magic
 ## Properties
 - Grants advantage on initiative
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -29,7 +33,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.352Z*

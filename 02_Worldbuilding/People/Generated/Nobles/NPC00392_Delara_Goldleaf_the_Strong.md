@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Goldleaf the Strong", "delara goldleaf the strong", "Delara Goldleaf Strong", "Strong the Goldleaf Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Goldleaf the Strong
 
 *Human Courtier (Nobles), Age 63, Male*
@@ -42,11 +48,9 @@ Secretly adopted into nobility, living in fear of discovery They've been marked 
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
 
-
 ### Corvus Winterborn the Wanderer (Political - Opposition)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ### Jorah Youngblood the Mystic (Political - Spy)
 - **Status**: Strained but maintaining
@@ -56,7 +60,6 @@ Secretly adopted into nobility, living in fear of discovery They've been marked 
 ### Solas Emberfall the Wanderer (Political - Patron)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

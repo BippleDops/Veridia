@@ -31,7 +31,6 @@ improvements: 20
 - **Law Enforcement**: Town guard
 - **Justice System**: Local magistrate
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -46,7 +45,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -100,7 +99,7 @@ Built at a naturally occurring convergence point where the realms' boundaries th
 
 ### Security Sectors
 
-**Pre-Transit Screening**: Multi-level [[Security Checkpoints]] examining physical belongings, magical auras, [[Dimensional Resoce]] signatures, and mental state assessments. Each traveler receives a temporary harmonic identifier that tracks their journey.
+**Pre-Transit Screening**: Multi-level [[Security Checkpoints]] examining physical belongings, magical auras, [[Dimensional_Resoce|Dimensional Resoce]] signatures, and mental state assessments. Each traveler receives a temporary harmonic identifier that tracks their journey.
 
 **Quarantine Bays**: Isolated chambers for travelers showing signs of dimensional contamination, reality sickness, or carrying potentially dangerous inter-realm materials.
 
@@ -253,7 +252,7 @@ Built at a naturally occurring convergence point where the realms' boundaries th
 
 ### Security Concerns
 
-**Smuggling Networks**: [[Criminal [[Organization]]s]] constantly develop new methods to bypass security screening and transport contraband.
+**Smuggling Networks**: [[Organization|Criminal [[Organization]]s]] constantly develop new methods to bypass security screening and transport contraband.
 
 **Espionage Activities**: Intelligence agents from both realms attempt to infiltrate operations and steal dimensional technology.
 
@@ -305,7 +304,7 @@ Built at a naturally occurring convergence point where the realms' boundaries th
 
 **Legal Consultation Office**: Attorneys specializing in inter-realm law, trade disputes, immigration issues, and customs violations.
 
-**Equipment Rental Division**: Specialized gear for [[Dimensional Travel]] including pressure suits, atmospheric regulators, reality anchors, and emergency supplies.
+**Equipment Rental Division**: Specialized gear for [[Dimensional_Travel|Dimensional Travel]] including pressure suits, atmospheric regulators, reality anchors, and emergency supplies.
 
 ### Support Operations
 
@@ -370,13 +369,11 @@ Cross-Dimensional Transit Authority is a notable location characterized by its u
 ### Founding
 Cross-Dimensional Transit Authority was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -436,7 +433,6 @@ Key stop on spices trade route
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions

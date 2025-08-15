@@ -104,13 +104,11 @@ Mass graves of failed experiments that have merged into shambling mounds of crys
 ### The Canopy Network
 Corrupted trees whose branches have fused into bridges and platforms. The [[Withered Court]] uses these as highways, while crystal fruit hanging from branches grants temporary abilities at the cost of corruption.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -118,13 +116,11 @@ Corrupted trees whose branches have fused into bridges and platforms. The [[With
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -222,7 +218,6 @@ Mentioned in The Hidden Prophecy of Shadows
 - 20% middle class
 - 79% working poor
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -258,3 +253,11 @@ Mentioned in The Hidden Prophecy of Shadows
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Quest - The Root Network_1 (01_Adventures)]]
+- [[12_Research_D&D_Statblocks_The_Synthesis_Gardens]]
+- [[Compass Quest (D&D_References)]]
+- [[Master Cultivator Thalia Greenglow (D&D_References)]]
+- [[The Green Death (D&D_Statblocks)]]

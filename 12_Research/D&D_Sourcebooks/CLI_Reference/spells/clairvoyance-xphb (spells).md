@@ -106,7 +106,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -125,4 +124,40 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[clairvoyance-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[clairvoyance-xphb (spells)|clairvoyance-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Mind Flayer Arcanist Xmm]]
+- [[Mind Flayer Psion Vgm]]
+- [[mind-flayer-arcanist-xmm (aberration)]]
+- [[mind-flayer-psion-vgm (aberration)]]
+- [[Giant Owl Xmm]]
+- [[Guardian Naga Xmm]]
+- [[Sphinx of Lore Xmm]]
+- [[Sphinx of Valor Xmm]]
+- [[giant-owl-xmm (celestial)]]
+- [[guardian-naga-xmm (celestial)]]
+- [[sphinx-of-lore-xmm (celestial)]]
+- [[sphinx-of-valor-xmm (celestial)]]
+- [[Ultroloth Xmm]]
+- [[ultroloth-xmm (fiend)]]
+- [[Lich Xmm]]
+- [[Sphinx Xmm]]
+- [[lich-xmm (legendary-group)]]
+- [[sphinx-xmm (legendary-group)]]
+- [[Lich Xmm (undead)]]
+- [[lich-xmm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Barbarian Xphb Path of the Ancestral]]
+- [[Warlock Xphb Great Old One Patron Xphb]]
+- [[barbarian-xphb-path-of-the-ancestral-guardian-xge]]
+- [[warlock-xphb-great-old-one-patron-xphb (classes)]]
+- [[Eye and Hand of Vecna Xdmg]]
+- [[Eye of Vecna Xdmg]]
+- [[Potion of Clairvoyance Xdmg]]
+- [[eye-and-hand-of-vecna-xdmg (items)]]
+- [[eye-of-vecna-xdmg (items)]]
+- [[potion-of-clairvoyance-xdmg (items)]]

@@ -1,4 +1,5 @@
 ---
+aliases: ["Infernal Curse", "infernal curse", "Curse Infernal"]
 tags: [generated]
 id: SPELL0022_Infernal_Curse
 created: 2025-08-15T04:09:51.471Z

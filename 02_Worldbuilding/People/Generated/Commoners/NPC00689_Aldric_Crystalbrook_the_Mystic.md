@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Crystalbrook the Mystic", "aldric crystalbrook the mystic", "Aldric Crystalbrook Mystic", "Mystic the Crystalbrook Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Crystalbrook the Mystic
 
 *Genasi Baker (Commoners), Age 37, Male*
@@ -36,7 +42,6 @@ Former soldier trying to adjust to civilian life They've made a deal they're beg
 - **Short Term**: Recruit new members
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Fiora Keenblade the Cunning (Professional - Employee)
 - **Status**: Blood oath bound
@@ -52,16 +57,13 @@ Former soldier trying to adjust to civilian life They've made a deal they're beg
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Cedric Ravenheart the Bold (Political - Spy)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
 
-
 ### Lyanna Goldleaf the Lost (Professional - Rival)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Has dragon blood in their veins

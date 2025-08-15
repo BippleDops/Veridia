@@ -113,7 +113,6 @@ Mentioned in The First Prophecy of Winds
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -132,4 +131,4 @@ Mentioned in The First Prophecy of Winds
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[shape-water-xge (spells)-phb]]` in CLI_Reference/spells/
+See: `[[shape-water-xge (spells)|shape-water-xge (spells)-phb]]` in CLI_Reference/spells/

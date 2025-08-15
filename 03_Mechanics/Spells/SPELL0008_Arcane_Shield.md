@@ -1,4 +1,5 @@
 ---
+aliases: ["Arcane Shield", "arcane shield", "Shield Arcane"]
 tags: [generated]
 id: SPELL0008_Arcane_Shield
 created: 2025-08-15T04:09:51.467Z

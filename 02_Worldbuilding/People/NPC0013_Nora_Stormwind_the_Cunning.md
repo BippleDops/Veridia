@@ -1,8 +1,8 @@
 ---
+aliases: ["Nora Stormwind the Cunning", "nora stormwind the cunning", "Nora Stormwind Cunning", "Cunning the Stormwind Nora"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -71,8 +71,6 @@ Raised by monks in a remote monastery. Years ago, they lost everything in a fire
 ### Skills
 Persuasion, Investigation
 
-
-
 ## Possessions
 - 48 gold pieces
 - Mysterious key
@@ -84,7 +82,6 @@ Persuasion, Investigation
 
 ---
 *Generated: 2025-08-15T03:21:04.027Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

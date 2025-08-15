@@ -215,3 +215,8 @@ This NPC can serve multiple roles:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-crystal-pirate-crew-crystal-pirate-crew.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-crystalline-foundry-v1-the-crystalline-foundry.svg]]

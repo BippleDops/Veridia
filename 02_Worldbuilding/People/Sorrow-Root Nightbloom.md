@@ -121,7 +121,6 @@ A growing faction of druids, rangers, and fey who believe that:
 
 **Spells:** Entangle, Spike Growth, Blight, Conjure Woodland Beings (corrupted), Contagion, Wall of Thorns, Transport via Plants
 
-
 ## Relationships
 - **Allies**: Notable allies and friends
 - **Rivals**: Competitors and rivals  
@@ -211,7 +210,6 @@ Member of House Dragonblood - Trait: magical affinity
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Daily Routine
 - **Morning**: Typical activities

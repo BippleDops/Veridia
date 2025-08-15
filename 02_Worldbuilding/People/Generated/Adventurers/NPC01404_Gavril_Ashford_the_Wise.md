@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Ashford the Wise", "gavril ashford the wise", "Gavril Ashford Wise", "Wise the Ashford Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Ashford the Wise
 
 *Genasi Fighter (Adventurers), Age 35, Male*
@@ -36,12 +42,10 @@ Seeking vengeance for a murdered mentor They recently discovered a secret that c
 - **Short Term**: Avoid the authorities
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Malakai Xendar the Seeker (Personal - Love interest)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ### Alaric Zephyrblade the Mystic (Personal - Childhood friend)
 - **Status**: Secretly hostile
@@ -51,7 +55,6 @@ Seeking vengeance for a murdered mentor They recently discovered a secret that c
 ### Wynne Oakenshield the Cunning (Professional - Rival)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ### Aldric Goldleaf the Wanderer (Personal - Best friend)
 - **Status**: Professional only

@@ -56,7 +56,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -209,7 +209,7 @@ Corruption tracking systems require specialized resources from various suppliers
 **Primary Materials:**
 - **Detection Crystals**: Specialized crystals sensitive to corruption, harvested from [[Crystal Forest]] facilities
 - **Magical Processing Components**: Enchanted materials enabling corruption analysis, sourced from [[Magical Component Manufacturers Guil]]
-- **Communication Infrastructure**: Networks and transmission equipment from [[[[Communication Systems]] Consortium]]
+- **Communication Infrastructure**: Networks and transmission equipment from [[Communication_Systems|[[Communication Systems]] Consortium]]
 - **Environmental Monitoring Equipment**: Sensors for air, water, and soil analysis from [[Environmental Systems Suppliers]]
 - **Data Storage Systems**: Magical and technological storage for corruption intelligence from [[Information Systems Alliance]]
 
@@ -450,7 +450,7 @@ Various organizations work with corruption tracking systems:
 - **[[Corruption Intelligence Agency]]**: Primary user of tracking system data
 - **[[Anti-Corruption Research Institute (D&D_References)]]**: Research organization using tracking information
 - **[[Emergency Response Coordination]]**: Crisis management using tracking system alerts
-- **[[[[Environmental Protection]] Authorit]]**: Agency using tracking data for environmental safety
+- **[[Environmental Protection|[[Environmental Protection]] Authorit]]**: Agency using tracking data for environmental safety
 - **[[International Corruption Monitoring Consortium]]**: Cross-realm cooperation organization
 
 ### Research and Development Partnerships
@@ -530,7 +530,7 @@ Crystal Corruption Tracking Sheet is a undersea element of the setting, known fo
 
 Legends speak of Crystal Corruption Tracking Sheet as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Crystal Corruption Tracking Sheet.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -561,3 +561,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Depth Warden Patrol]]
+- [[Depth Wardens]]
+- [[Depth Wardens (D&D_References)]]
+- [[The Depth Chart]]
+- [[Depth Warden Patrol (D&D_Statblocks)]]

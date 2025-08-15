@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Xendar", "malakai xendar", "Xendar Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Xendar
 
 *Halfling Noble (Nobles), Age 75, Female*
@@ -13,7 +19,6 @@
 Above average and compact, with Dreadlocks silver hair and Hazel eyes. Olive skin. Birthmark shaped like a constellation.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Always tells the absolute truth; Never backs down from any challenge; Sees doom and gloom everywhere
@@ -36,12 +41,10 @@ Exiled from their homeland, trying to rebuild their power base They recently dis
 - **Short Term**: Gather information
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Kaelen Voidwalker (Family - Parent)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ### Wynne Winterborn the Lost (Criminal - Accomplice)
 - **Status**: Strong and trusting

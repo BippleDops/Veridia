@@ -1,11 +1,11 @@
 ---
+aliases: ["Yorick Darkwater the Clever", "yorick darkwater the clever", "Yorick Darkwater Clever", "Clever the Darkwater Yorick"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -77,7 +77,6 @@ Athletics, Investigation
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 102 gold pieces
 - Map to unknown location
@@ -92,7 +91,6 @@ Athletics, Investigation
 
 ---
 *Generated: 2025-08-15T03:21:04.041Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

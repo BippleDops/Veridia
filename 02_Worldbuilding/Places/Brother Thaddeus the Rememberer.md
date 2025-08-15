@@ -116,13 +116,11 @@ Brother Thaddeus the Rememberer is a notable location characterized by its uniqu
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -130,13 +128,11 @@ Brother Thaddeus the Rememberer is a notable location characterized by its uniqu
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -157,7 +153,6 @@ Ongoing situations affecting Brother Thaddeus the Rememberer:
 ## Trade Importance
 
 Key stop on spices trade route
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -194,3 +189,8 @@ Key stop on spices trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Sister Morwyn]]
+- [[Sister Morwyn (D&D_References)]]

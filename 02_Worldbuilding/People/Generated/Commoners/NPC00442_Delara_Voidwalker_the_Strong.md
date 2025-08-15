@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Voidwalker the Strong", "delara voidwalker the strong", "Delara Voidwalker Strong", "Strong the Voidwalker Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Voidwalker the Strong
 
 *Genasi Farmer (Commoners), Age 44, Male*
@@ -42,16 +48,13 @@ Runaway from an arranged marriage, starting a new life An old debt has come due 
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Xander Brightblade the Scholar (Criminal - Handler)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
 
-
 ### Alaric Underhill (Personal - Ex-lover)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ### Drusilla Underhill the Fallen (Family - Parent)
 - **Status**: One-sided affection
@@ -66,7 +69,6 @@ Runaway from an arranged marriage, starting a new life An old debt has come due 
 ### Elric Keenblade the Redeemed (Criminal - Informant)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Is the lost heir to the throne

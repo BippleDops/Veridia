@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Zephyrblade the Guardian", "ewan zephyrblade the guardian", "Ewan Zephyrblade Guardian", "Guardian the Zephyrblade Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Zephyrblade the Guardian
 
 *Dwarf Crime Boss (Villains), Age 18, Female*
@@ -13,7 +19,6 @@
 Above average and slender, with Short and neat bald hair and Red eyes. Scarred skin. Unusual eye color for their race.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Constantly quotes ancient texts; Always speaks in metaphors and riddles; Incredibly optimistic despite evidence
@@ -42,7 +47,6 @@ Driven mad by knowledge humanity wasn't meant to know A family member's death ha
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Hestara Stormwind the Seeker (Family - Child)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
@@ -52,11 +56,9 @@ Driven mad by knowledge humanity wasn't meant to know A family member's death ha
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Urien Voidwalker the Fallen (Professional - Partner)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Knows how the world will end

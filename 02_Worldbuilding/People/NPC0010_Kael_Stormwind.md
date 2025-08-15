@@ -1,8 +1,8 @@
 ---
+aliases: ["Kael Stormwind", "kael stormwind", "Stormwind Kael"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -73,8 +73,6 @@ Apprenticed to a master craftsman from young age. Years ago, they found an ancie
 ### Skills
 Investigation, Athletics, Deception, Arcana
 
-
-
 ## Possessions
 - 68 gold pieces
 - Healing potion
@@ -89,7 +87,6 @@ Investigation, Athletics, Deception, Arcana
 
 ---
 *Generated: 2025-08-15T03:21:04.026Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

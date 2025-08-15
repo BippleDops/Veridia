@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Stormwind the Mystic", "ewan stormwind the mystic", "Ewan Stormwind Mystic", "Mystic the Stormwind Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Stormwind the Mystic
 
 *Dragonborn Crime Boss (Villains), Age 59, Male*
@@ -13,7 +19,6 @@
 Tall and muscular, with Carefully styled blonde hair and Brown eyes. Pale skin. Constantly changing hair color.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Extremely superstitious about everything
@@ -36,32 +41,26 @@ Driven mad by knowledge humanity wasn't meant to know A chance encounter last wi
 - **Short Term**: Complete current contract
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Branwen Winterborn the Mystic (Family - Parent)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
 
-
 ### Hilda Hawthorne the Redeemed (Criminal - Informant)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ### Dara Underhill the Bold (Family - Parent)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
 
-
 ### Gavril Moonshadow the Redeemed (Professional - Rival)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
 
-
 ### Corvus Moonshadow the Wanderer (Professional - Employee)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Believes they're saving the world

@@ -62,3 +62,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Coral Throne Syndicate HQ]]
+- [[Coral Throne Syndicate HQ (D&D_References)]]

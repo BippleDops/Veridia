@@ -155,3 +155,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[deck-of-many-things#Euryale]]
+- [[deck-of-many-things#Flames]]
+- [[deck-of-many-things#Fool]]
+- [[deck-of-many-things#Jester]]
+- [[deck-of-many-things#Key]]
+- [[deck-of-many-things#Knight]]
+- [[deck-of-many-things#Moon]]
+- [[deck-of-many-things#Rogue]]
+- [[deck-of-many-things#Ruin]]
+- [[deck-of-many-things#Skull]]
+- [[deck-of-many-things#Star]]
+- [[deck-of-many-things#Sun]]
+- [[deck-of-many-things#The%20Fates]]
+- [[deck-of-many-things#The%20Void]]
+- [[deck-of-many-things#Throne]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Frostwhisper the Lost", "solas frostwhisper the lost", "Solas Frostwhisper Lost", "Lost the Frostwhisper Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Frostwhisper the Lost
 
 *Half-Elf Caravan Master (Merchants), Age 19, Female*
@@ -52,11 +58,9 @@ Uses their business as cover for other activities A family member's death has le
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
 
-
 ### Gareth Goldleaf the Bold (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Running a cult from their basement

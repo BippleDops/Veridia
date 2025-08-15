@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Thornweave the Wanderer", "lyanna thornweave the wanderer", "Lyanna Thornweave Wanderer", "Wanderer the Thornweave Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Thornweave the Wanderer
 
 *Halfling Carpenter (Commoners), Age 53, Non-binary*
@@ -36,7 +42,6 @@ Survivor of a disaster that destroyed their village They've made a deal they're 
 - **Short Term**: Sabotage competition
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Corvus Keenblade the Redeemed (Personal - Ex-lover)
 - **Status**: Strained but maintaining
@@ -47,7 +52,6 @@ Survivor of a disaster that destroyed their village They've made a deal they're 
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
 
-
 ### Elric Quicksilver the Strong (Criminal - Accomplice)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
@@ -56,7 +60,6 @@ Survivor of a disaster that destroyed their village They've made a deal they're 
 ### Drusilla Winterborn the Redeemed (Political - Opposition)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
-
 
 ### Erasmus Crystalbrook the Wanderer (Political - Opposition)
 - **Status**: Strong and trusting

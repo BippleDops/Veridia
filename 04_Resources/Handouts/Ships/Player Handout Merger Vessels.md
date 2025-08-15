@@ -54,3 +54,7 @@ These ships demand anchors, charts, and strong minds. Read [[Merger Hybrid Vehic
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+## References
+
+- [[Player Portal]]

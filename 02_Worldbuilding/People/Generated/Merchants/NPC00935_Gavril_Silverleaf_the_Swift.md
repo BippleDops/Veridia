@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Silverleaf the Swift", "gavril silverleaf the swift", "Gavril Silverleaf Swift", "Swift the Silverleaf Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Silverleaf the Swift
 
 *Gnome Trader (Merchants), Age 20, Female*
@@ -36,12 +42,10 @@ Part of a merchant family with connections everywhere A prophetic dream has been
 - **Short Term**: Survive until next week
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Solas Jadeclaw the Cunning (Political - Ally)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ### Aldric Ironforge the Cunning (Family - Cousin)
 - **Status**: Mutually beneficial
@@ -51,7 +55,6 @@ Part of a merchant family with connections everywhere A prophetic dream has been
 ### Rhiannon Stormwind the Redeemed (Professional - Employee)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ### Baelor Quicksilver the Bold (Family - Parent)
 - **Status**: One-sided affection

@@ -1,4 +1,5 @@
 ---
+aliases: ["Eldritch Blade of Power", "eldritch blade of power", "Power of Blade Eldritch"]
 tags: [generated]
 id: ITEM0004
 created: 2025-08-15T04:09:51.077Z

@@ -1,3 +1,9 @@
+---
+aliases: ["Ancient Mirror of Dominion", "ancient mirror of dominion", "Dominion of Mirror Ancient"]
+tags: [item, equipment]
+type: item
+---
+
 # Ancient Mirror of Dominion
 
 *Artifacts, Very Rare (requires attunement)*

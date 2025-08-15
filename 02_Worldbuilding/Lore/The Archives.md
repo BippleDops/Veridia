@@ -38,3 +38,13 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
+
+
+## References
+
+- [[Quest - The Truth Unveiled]]
+- [[Quest - The Truth Unveiled_1 (01_Adventures)]]
+- [[Arcanum Heights]]
+- [[Kraken Territories]]
+- [[The Tethyan Hegemony]]
+- [[The Eternal Senate]]

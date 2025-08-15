@@ -204,3 +204,8 @@ Mentioned in The Second Prophecy of Depths
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-threshold-captain-threshold.svg]]
+- [[04_Resources_Assets_Locations_location-city-keeper-valdris-goldvault-keeper-valdris-goldvault.svg]]

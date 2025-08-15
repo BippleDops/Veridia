@@ -228,3 +228,8 @@ Mentioned in The Second Prophecy of Shadows
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-navigation-geography-navigation-geography.svg]]
+- [[04_Resources_Assets_Locations_location-city-beast-master-krell-chainbreaker-beast-master-krell-chainbreaker.svg]]

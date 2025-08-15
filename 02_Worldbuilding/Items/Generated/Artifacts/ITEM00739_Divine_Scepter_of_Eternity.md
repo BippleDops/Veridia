@@ -1,3 +1,9 @@
+---
+aliases: ["Divine Scepter of Eternity", "divine scepter of eternity", "Eternity of Scepter Divine"]
+tags: [item, equipment]
+type: item
+---
+
 # Divine Scepter of Eternity
 
 *Artifacts, Legendary (requires attunement)*
@@ -16,8 +22,6 @@ A divine scepter radiating otherworldly power
 - Plane shift 1/day
 - Immunity to charm
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -32,7 +36,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.421Z*

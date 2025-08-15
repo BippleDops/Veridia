@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Proudmore the Fallen", "faelyn proudmore the fallen", "Faelyn Proudmore Fallen", "Fallen the Proudmore Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Proudmore the Fallen
 
 *Firbolg Baker (Commoners), Age 21, Non-binary*
@@ -13,7 +19,6 @@
 Below average and delicate, with Partially shaved bald hair and Green eyes. Fair skin. Constantly changing hair color.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Constantly quotes ancient texts
@@ -36,7 +41,6 @@ Family has worked the same trade for generations, but times are changing An old 
 - **Short Term**: Recruit new members
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Jorah Keenblade the Bold (Professional - Partner)
 - **Status**: On the verge of collapse
@@ -47,7 +51,6 @@ Family has worked the same trade for generations, but times are changing An old 
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Aldric Quicksilver the Broken (Criminal - Accomplice)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
@@ -56,7 +59,6 @@ Family has worked the same trade for generations, but times are changing An old 
 ### Aeliana Moonshadow the Risen (Political - Opposition)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Knows location of ancient treasure

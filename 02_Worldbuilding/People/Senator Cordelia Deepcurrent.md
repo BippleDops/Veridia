@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-senator-cordelia-deepcurrent-senator-cordelia-deepcurrent.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -218,7 +216,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Bloodline
 
 Member of House Serpentblood - Trait: magical affinity
-
 
 ## Daily Routine
 - **Morning**: Typical activities

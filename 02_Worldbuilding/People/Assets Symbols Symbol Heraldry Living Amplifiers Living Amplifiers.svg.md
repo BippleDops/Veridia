@@ -214,3 +214,7 @@ This NPC can serve multiple roles:
 - Civil war
 - Natural disasters
 - Current power structures established
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-master-chronologist-temporal-truthkeeper-v1-master-chronologist-temporal-truthkeeper.svg]]

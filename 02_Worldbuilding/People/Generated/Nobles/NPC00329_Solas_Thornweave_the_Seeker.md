@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Thornweave the Seeker", "solas thornweave the seeker", "Solas Thornweave Seeker", "Seeker the Thornweave Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Thornweave the Seeker
 
 *Half-Elf Noble (Nobles), Age 24, Female*
@@ -36,27 +42,22 @@ Secretly adopted into nobility, living in fear of discovery They've fallen in lo
 - **Short Term**: Gather information
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Fiora Grimholt the Redeemed (Family - Child)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Drusilla Lightbringer the Strong (Professional - Employee)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ### Vesper Zephyrblade (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Dara Blackstone the Cunning (Political - Puppet)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ### Baelor Keenblade the Redeemed (Personal - Love interest)
 - **Status**: Blood oath bound

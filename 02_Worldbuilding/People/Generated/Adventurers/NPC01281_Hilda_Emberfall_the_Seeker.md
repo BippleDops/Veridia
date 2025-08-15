@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Emberfall the Seeker", "hilda emberfall the seeker", "Hilda Emberfall Seeker", "Seeker the Emberfall Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Emberfall the Seeker
 
 *Dragonborn Rogue (Adventurers), Age 45, Male*
@@ -36,37 +42,30 @@ Searching for a legendary treasure their parent died seeking A prophetic dream h
 - **Short Term**: Complete current contract
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Fiora Moonshadow the Lost (Political - Ally)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Faelyn Crystalbrook the Swift (Professional - Partner)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ### Felicia Ashford the Fallen (Professional - Rival)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
 
-
 ### Fiora Dawnstrider the Redeemed (Professional - Mentor)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ### Ysara Darkwater the Redeemed (Political - Spy)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Felicia Proudmore the Broken (Criminal - Target)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Secretly working for the villain

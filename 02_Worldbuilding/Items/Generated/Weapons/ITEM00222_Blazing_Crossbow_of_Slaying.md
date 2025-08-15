@@ -1,3 +1,9 @@
+---
+aliases: ["Blazing Crossbow of Slaying", "blazing crossbow of slaying", "Slaying of Crossbow Blazing"]
+tags: [item, equipment]
+type: item
+---
+
 # Blazing Crossbow of Slaying
 
 *Weapons, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A blazing crossbow carved from dragon bone
 - +1 to attack and damage rolls
 - Deals extra 1d6 elemental damage
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -30,7 +34,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.362Z*

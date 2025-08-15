@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Emberfall the Guardian", "jorah emberfall the guardian", "Jorah Emberfall Guardian", "Guardian the Emberfall Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Emberfall the Guardian
 
 *Elf Trader (Merchants), Age 31, Male*
@@ -36,7 +42,6 @@ Built their business from nothing through cunning and hard work A family member'
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Dara Nightfall the Strong (Criminal - Fence)
 - **Status**: Secretly hostile
@@ -47,16 +52,13 @@ Built their business from nothing through cunning and hard work A family member'
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Alaric Brightblade the Wise (Political - Opposition)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Thalia Ironwood the Risen (Political - Patron)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ### Faelyn Emberfall the Wanderer (Family - Parent)
 - **Status**: Secretly hostile
@@ -66,7 +68,6 @@ Built their business from nothing through cunning and hard work A family member'
 ### Brenna Zephyrblade the Guardian (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Sells information to all sides

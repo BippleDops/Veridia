@@ -354,7 +354,7 @@ The Customs House serves as an intelligence hub:
 - **[[Aethermoor]]'s Position**: Increasing restrictions due to possession concerns
 - **[[Aquabyssos]]'s Stance**: Maintaining open trade despite political changes
 - **Military Concerns**: Both worlds worried about espionage and infiltration
-- **[[[[Economic Interest]]s]]**: Business pressure to maintain profitable trade
+- **[[Economic Interest|[[Economic Interest]]s]]**: Business pressure to maintain profitable trade
 - **Public Opinion**: Citizens in both worlds increasingly suspicious of the other
 
 ### Security Concerns
@@ -393,7 +393,7 @@ The facility is crucial for preventing Shard trafficking:
 
 ### [[The Real Marina]]
 
-[[Marina's Identity Crisis]] reflects challenges faced by regular inter[[Dimensional Travel]]ers:
+[[Marina's Identity Crisis]] reflects challenges faced by regular inter[[Dimensional_Travel|Dimensional Travel]]ers:
 - **Documentation Problems**: Difficulty proving identity across realities
 - **Adaptation Services**: Helping individuals manage multidimensional existence
 - **Medical Facilities**: Treating dimensional integration disorders
@@ -446,3 +446,10 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 - Strange disappearances suggest a curse
 - Someone is blackmailing information for revenge
+
+## References
+
+- [[Harbor District Customs House]]
+- [[Port Meridian - Merchant Quarter]]
+- [[Aethermoor - Session 01 Blood in the Harbor]]
+- [[Port Meridian - Merchant Quarter (D&D_References)]]

@@ -91,3 +91,16 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Criminal Spy Variant]]
+- [[Folk Hero]]
+- [[Sailor Pirate Variant]]
+- [[criminal-spy-variant (backgrounds)]]
+- [[folk-hero (backgrounds)]]
+- [[sailor-pirate-variant (backgrounds)]]
+- [[urchin]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

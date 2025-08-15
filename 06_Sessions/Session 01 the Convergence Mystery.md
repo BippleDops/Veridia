@@ -149,12 +149,10 @@ Serafina landed the killing blow with a precision strike that severed the creatu
 
 Contextual improvement based on 12_Research
 
-
 ## Pronunciation Guide
 - **Both**: [BOTH]
 - **Aethermoor**: [AYTHERMOOR]
 - **Merchant's**: [MERCHANT-S]
-
 
 ## Alternate Descriptions
 - **First Impression**: Initial appearance

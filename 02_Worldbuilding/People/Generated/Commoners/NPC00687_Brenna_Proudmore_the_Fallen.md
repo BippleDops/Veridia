@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Proudmore the Fallen", "brenna proudmore the fallen", "Brenna Proudmore Fallen", "Fallen the Proudmore Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Proudmore the Fallen
 
 *Human Baker (Commoners), Age 47, Male*
@@ -36,22 +42,18 @@ Former soldier trying to adjust to civilian life They've made a deal they're beg
 - **Short Term**: Make this month's payment
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Aeliana Moonshadow the Cunning (Family - Cousin)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Corvus Dawnstrider the Risen (Personal - Ex-lover)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Wynne Blackstone the Lost (Political - Opposition)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
-
 
 ### Branwen Darkwater the Mystic (Criminal - Fence)
 - **Status**: Recently reconciled

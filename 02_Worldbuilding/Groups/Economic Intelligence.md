@@ -146,3 +146,10 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Merchant's Covenant]]
+- [[Eastern Kingdoms (02_Worldbuilding)]]
+- [[Tenebrarum Embassy]]
+- [[Merchant's Covenant (D&D_References)]]

@@ -1,4 +1,5 @@
 ---
+aliases: ["History of the Fallen Star", "history of the fallen star", "History of Fallen Star", "Star Fallen the of History"]
 tags: [generated]
 id: LORE0030_History_of_the_Fallen_Star
 created: 2025-08-15T04:09:51.136Z

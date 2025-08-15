@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Brightblade the Lost", "caelum brightblade the lost", "Caelum Brightblade Lost", "Lost the Brightblade Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Brightblade the Lost
 
 *Firbolg Corrupt Noble (Villains), Age 71, Male*
@@ -13,7 +19,6 @@
 Tall and stocky, with Shaved black hair and Red eyes. Freckled skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Never backs down from any challenge
@@ -36,22 +41,18 @@ Believes their evil acts serve a greater good Strange abilities have begun manif
 - **Short Term**: Sabotage competition
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Elric Brightblade the Swift (Criminal - Handler)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Qadim Darkwater the Swift (Personal - Nemesis)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Erasmus Emberfall the Cunning (Family - Spouse)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Believes they're saving the world

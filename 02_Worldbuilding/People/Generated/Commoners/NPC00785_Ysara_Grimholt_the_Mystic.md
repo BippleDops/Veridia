@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Grimholt the Mystic", "ysara grimholt the mystic", "Ysara Grimholt Mystic", "Mystic the Grimholt Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Grimholt the Mystic
 
 *Elf Baker (Commoners), Age 18, Non-binary*
@@ -42,21 +48,17 @@ Runaway from an arranged marriage, starting a new life Strange abilities have be
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Solas Jadeclaw the Guardian (Family - Child)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ### Dara Underhill the Mystic (Family - Cousin)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Urien Winterborn the Seeker (Personal - Love interest)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Knows location of ancient treasure

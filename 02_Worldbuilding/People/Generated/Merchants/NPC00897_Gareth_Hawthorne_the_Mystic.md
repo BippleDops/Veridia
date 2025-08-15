@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Hawthorne the Mystic", "gareth hawthorne the mystic", "Gareth Hawthorne Mystic", "Mystic the Hawthorne Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Hawthorne the Mystic
 
 *Genasi Appraiser (Merchants), Age 21, Non-binary*
@@ -13,7 +19,6 @@
 Very tall and wiry, with Short and neat silver hair and Violet eyes. Fair skin. Burn scars on one side of face.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Always tells the absolute truth
@@ -42,11 +47,9 @@ Uses their business as cover for other activities A prophetic dream has been hau
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Caelum Ironforge the Wise (Political - Opposition)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ### Hestara Brightblade the Fallen (Criminal - Target)
 - **Status**: Recently reconciled
@@ -56,7 +59,6 @@ Uses their business as cover for other activities A prophetic dream has been hau
 ### Gavril Ravenheart the Wanderer (Personal - Best friend)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ### Faelyn Goldleaf the Broken (Political - Patron)
 - **Status**: One-sided affection

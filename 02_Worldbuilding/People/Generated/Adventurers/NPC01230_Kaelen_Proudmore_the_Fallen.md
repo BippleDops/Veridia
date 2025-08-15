@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Proudmore the Fallen", "kaelen proudmore the fallen", "Kaelen Proudmore Fallen", "Fallen the Proudmore Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Proudmore the Fallen
 
 *Tiefling Rogue (Adventurers), Age 72, Female*
@@ -36,37 +42,30 @@ Searching for a legendary treasure their parent died seeking Strange abilities h
 - **Short Term**: Sabotage competition
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Hilda Frostwhisper the Seeker (Family - Parent)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
 
-
 ### Zephyr Dawnstrider the Broken (Family - Sibling)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ### Erasmus Keenblade the Bold (Political - Opposition)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Idris Nightfall the Mystic (Professional - Employer)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ### Vesper Goldleaf the Swift (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
 
-
 ### Corvus Oakenshield the Scholar (Professional - Mentor)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Is from the future

@@ -114,7 +114,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -133,4 +132,24 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[protection-from-energy-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[protection-from-energy-xphb (spells)|protection-from-energy-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Aethermoor - Session 08 Between Two Worlds]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Forge Domain Xge]]
+- [[Paladin Xphb Oath of Glory Xphb]]
+- [[Paladin Xphb Oath of Vengeance Xphb]]
+- [[Sorcerer Xphb Clockwork Sorcery Xphb]]
+- [[cleric-xphb-forge-domain-xge (classes)]]
+- [[cleric-xphb-forge-domain-xge 2 (classes)]]
+- [[paladin-xphb-oath-of-glory-xphb (classes)]]
+- [[paladin-xphb-oath-of-vengeance-xphb (classes)]]
+- [[sorcerer-xphb-clockwork-sorcery-xphb (classes)]]
+- [[Instrument of the Bards Canaith Mandolin Xdmg]]
+- [[Instrument of the Bards Doss Lute Xdmg]]
+- [[instrument-of-the-bards-canaith-mandolin-xdmg (items)]]
+- [[instrument-of-the-bards-doss-lute-xdmg (items)]]

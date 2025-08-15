@@ -1,4 +1,5 @@
 ---
+aliases: ["Infernal Wave", "infernal wave", "Wave Infernal"]
 tags: [generated]
 id: SPELL0046_Infernal_Wave
 created: 2025-08-15T04:09:51.477Z

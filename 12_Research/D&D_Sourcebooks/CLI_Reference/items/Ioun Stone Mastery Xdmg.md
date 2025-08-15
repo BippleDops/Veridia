@@ -77,3 +77,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Ioun Stone Xdmg]]
+- [[ioun-stone-xdmg (items)]]
+- [[Arcana Legendary Xdmg]]
+- [[Magic Item Table I]]
+- [[Random Magic Items Arcana]]
+- [[arcana-legendary-xdmg (tables)]]
+- [[magic-item-table-i (tables)]]
+- [[random-magic-items-arcana (tables)]]

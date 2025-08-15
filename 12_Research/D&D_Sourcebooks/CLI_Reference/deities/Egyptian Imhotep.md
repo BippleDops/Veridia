@@ -75,3 +75,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Someone is hunting a witness for money
 - Someone is hunting an heir for power
 - Someone is protecting a witness for money
+
+## References
+
+- [[The Egyptian Pantheon Egyptian Deities Phb]]
+- [[the-egyptian-pantheon-egyptian-deities-phb (tables)]]

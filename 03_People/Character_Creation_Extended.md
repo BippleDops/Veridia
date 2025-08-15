@@ -80,7 +80,6 @@ creature: Custom NPC
 - **Saving Throws**: *[Proficient saves]*
 - **Skills**: *[Skill proficiencies]*
 
-
 ## See Also
 - Related content
 - Similar topics
@@ -94,3 +93,14 @@ creature: Custom NPC
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition
+
+## References
+
+- [[Assets Locations Location City Dockmaster Bruno Steadyanchor V1 Dockmaster Bruno Steadyanchor.svg]]
+- [[Assets Locations Location City Harbor Master Captain Dockwise V1 Harbor Master Captain Dockwise.svg]]
+- [[Assets Portraits Portrait NPC the Depth Blessed Fisherman Captain Sal Deepcurrent the Depth Blessed Fisherman Captain Sal Deepcurrent.svg]]
+- [[Assets Symbols Symbol Heraldry Sister Benthos Scrollheart Sister Benthos Scrollheart.svg]]
+- [[Character_Creation_Extended.md_1 (03_People)]]
+- [[Character_Creation_Extended_Quick_Ref]]
+- [[Player Portal]]
+- [[Quick Start Guide (D&D_References)]]

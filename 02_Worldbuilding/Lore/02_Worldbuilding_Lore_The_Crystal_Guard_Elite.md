@@ -2,7 +2,7 @@
 tags: ['[[Lore]]']
 ---
 
-# [[02 Worldbuilding]]/Lore/[[The Crystal Guard Elite]]
+# [[02_Worldbuilding|02 Worldbuilding]]/Lore/[[The Crystal Guard Elite]]
 
 ## Overview
 

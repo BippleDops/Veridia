@@ -1,4 +1,5 @@
 ---
+aliases: ["Void Stalker", "void stalker", "Stalker Void"]
 tags: [generated]
 id: MON0004_Void_Stalker
 created: 2025-08-15T04:09:51.422Z
@@ -26,7 +27,6 @@ A terrifying creature that stalks its prey from the shadows
 
 ---
 *Generated: 2025-08-15T03:21:47.461Z*
-
 
 ## Habitat
 - Natural environment and territories

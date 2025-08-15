@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Lightbringer the Broken", "ysara lightbringer the broken", "Ysara Lightbringer Broken", "Broken the Lightbringer Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Lightbringer the Broken
 
 *Tabaxi Carpenter (Commoners), Age 75, Female*
@@ -5,7 +11,7 @@
 **ID**: NPC00743
 
 ## Quick Reference
-- **Location**: Sewers beneath the old quarter
+- **[[location|location]]**: Sewers beneath the old quarter
 - **Occupation**: Blacksmith
 - **Disposition**: Never backs down from any challenge
 
@@ -14,9 +20,8 @@ Above average and wiry, with Tied back silver hair and Gray eyes. Brown skin. Go
 
 **Clothing**: Guard uniform with polished brass buttons
 
-
 ## Personality
-- **Traits**: Never backs down from any challenge; Never uses people's real names; Incredibly optimistic despite evidence
+- **Traits**: Never backs down from any challenge; Never uses [[People|People]]'s real [[Names|Names]]; Incredibly optimistic despite [[Evidence|Evidence]]
 - **Ideal**: Redemption: Everyone deserves a second chance
 - **Bond**: I owe my life to the priest who took me in
 - **Flaw**: I have trouble keeping any secrets
@@ -29,31 +34,27 @@ Runaway from an arranged marriage, starting a new life A family member's death h
 
 ## Current Situation
 - **Occupation**: Blacksmith
-- **Resources**: Strong community ties, Practical skills
+- **Resources**: Strong community ties, Practical [[skills|skills]]
 - **Problems**: Addicted to expensive substance; Family held hostage
 
 ### Goals
 - **Short Term**: Make this month's payment
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Kaelen Emberfall the Seeker (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Ysara Dawnstrider the Mystic (Professional - Employer)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ### Aldric Youngblood the Strong (Criminal - Informant)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
-### Gareth Ironforge the Wanderer (Political - Opposition)
+### Gareth [[Ironforge|Ironforge]] the Wanderer (Political - Opposition)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
 - **Secret**: One murdered the other's family
@@ -61,7 +62,6 @@ Runaway from an arranged marriage, starting a new life A family member's death h
 ### Zephyr Ironwood the Wise (Family - Child)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
-
 
 ### Rhiannon Grimholt the Mystic (Political - Opposition)
 - **Status**: Strong and trusting
@@ -84,7 +84,7 @@ Runaway from an arranged marriage, starting a new life A family member's death h
 |-----|-----|-----|-----|-----|-----|
 | 9 | 8 | 7 | 16 | 9 | 14 |
 
-### Saving Throws
+### [[Saving Throws|Saving Throws]]
 CON, WIS
 
 ### Skills
@@ -124,11 +124,14 @@ Animal Handling, Deception
 ## Plot Hook
 Discovered something valuable
 
-## DM Notes
+## [[DM_Notes|DM Notes]]
 - Adjust stats based on party level
-- Secrets can drive major plot points
+- Secrets can drive major [[Plot Points|Plot Points]]
 - Relationships create web of connections
 - Use quirks for memorable roleplay
 
 ---
 *Generated: 2025-08-15T03:51:03.197Z*
+
+---
+**Navigation**: [[INDEX|🏠 Home]] | [[Npc|👥 NPCs]] | [[INDEX|📚 Index]]

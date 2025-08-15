@@ -65,3 +65,11 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Shadow Vale (Criminal_Organizations)]]
+- [[Timeline of the Drowning]]
+- [[Shadow Vale]]
+- [[Timeline of the Drowning (D&D_References)]]
+- [[Timeline of the Drowning 3 (D&D_References)]]

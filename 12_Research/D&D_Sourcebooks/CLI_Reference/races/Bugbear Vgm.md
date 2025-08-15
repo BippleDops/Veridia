@@ -121,3 +121,10 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[2 Character Races]]
+- [[2-character-races (volos-guide-to-monsters)]]
+- [[Height and Weight Vgm]]
+- [[height-and-weight-vgm (tables)]]

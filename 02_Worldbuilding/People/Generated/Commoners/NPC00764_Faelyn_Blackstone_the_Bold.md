@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Blackstone the Bold", "faelyn blackstone the bold", "Faelyn Blackstone Bold", "Bold the Blackstone Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Blackstone the Bold
 
 *Goliath Farmer (Commoners), Age 42, Female*
@@ -36,17 +42,14 @@ Runaway from an arranged marriage, starting a new life They've made a deal they'
 - **Short Term**: Complete current contract
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Urien Moonshadow the Seeker (Criminal - Target)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Aldric Underhill the Wise (Professional - Employer)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ### Faelyn Silverleaf the Swift (Family - Sibling)
 - **Status**: Complicated history

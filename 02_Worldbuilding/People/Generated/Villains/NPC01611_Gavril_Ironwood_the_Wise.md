@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Ironwood the Wise", "gavril ironwood the wise", "Gavril Ironwood Wise", "Wise the Ironwood Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Ironwood the Wise
 
 *Aasimar Cultist (Villains), Age 52, Male*
@@ -13,7 +19,6 @@
 Average height and delicate, with Mohawk white hair and Hazel eyes. Dark skin. Intricate tattoos covering arms.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Sees doom and gloom everywhere; Always hungry and eating something; Compulsive liar about minor things
@@ -36,7 +41,6 @@ Born into evil but questioning their path An old debt has come due at the worst 
 - **Short Term**: Make this month's payment
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Ewan Ironwood the Lost (Criminal - Handler)
 - **Status**: Professional only
@@ -47,11 +51,9 @@ Born into evil but questioning their path An old debt has come due at the worst 
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Gareth Brightblade the Strong (Criminal - Handler)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ### Kaelen Nightfall the Mystic (Professional - Employee)
 - **Status**: Strong and trusting

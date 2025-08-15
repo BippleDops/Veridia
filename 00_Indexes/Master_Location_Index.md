@@ -42,7 +42,6 @@ status: active
 ### High Level (11-20)
 - *[Advanced areas]*
 
-
 ## Sensory Details
 - **Sight**: Visual impressions
 - **Sound**: Ambient noises
@@ -61,3 +60,27 @@ status: active
 ## Player Tips
 > 🎮 **Strategy**: How to approach this content
 > Work together and communicate
+
+## Description
+
+*To be added*
+
+## Notable Features
+
+*To be added*
+
+## NPCs
+
+*To be added*
+
+## Current Events
+
+*To be added*
+
+## History
+
+*To be added*
+
+## Plot Hooks
+
+*To be added*

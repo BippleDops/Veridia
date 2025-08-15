@@ -1,3 +1,9 @@
+---
+aliases: ["Infernal Crown of Destiny", "infernal crown of destiny", "Destiny of Crown Infernal"]
+tags: [item, equipment]
+type: item
+---
+
 # Infernal Crown of Destiny
 
 *Artifacts, Artifact (requires attunement)*

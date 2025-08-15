@@ -29,19 +29,16 @@ improvements: 20
 - Time pressure
 - Moral dilemmas
 
-
 > [!figure] Portrait
 
 # Quest - The Healer's Burden
 
 *"Dr. Celeste Dawnbringer must choose who lives and who dies - and the weight of those choices may break her oath to do no harm."*
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -463,7 +460,6 @@ Member of House Lionblood - Trait: prophecy
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Hooks
 - **Personal**: Character connection

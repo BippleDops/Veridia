@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Winterborn the Bold", "malakai winterborn the bold", "Malakai Winterborn Bold", "Bold the Winterborn Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Winterborn the Bold
 
 *Half-Orc Shopkeeper (Merchants), Age 54, Non-binary*
@@ -42,11 +48,9 @@ Former adventurer who retired to open a shop A chance encounter last winter chan
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Kaelen Nightfall the Swift (Criminal - Target)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ### Alaric Quicksilver the Bold (Professional - Employer)
 - **Status**: Blood oath bound

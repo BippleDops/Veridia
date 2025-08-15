@@ -111,3 +111,7 @@ Mentioned in The First Prophecy of Shadows
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Merchant Family Alliances]]

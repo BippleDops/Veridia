@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Keenblade the Scholar", "solas keenblade the scholar", "Solas Keenblade Scholar", "Scholar the Keenblade Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Keenblade the Scholar
 
 *Elf Dark Wizard (Villains), Age 70, Female*
@@ -36,7 +42,6 @@ Betrayed by those they trusted, now seeking revenge on the world They've been ma
 - **Short Term**: Sabotage competition
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Qadim Crystalbrook the Swift (Personal - Love interest)
 - **Status**: Strong and trusting
@@ -47,16 +52,13 @@ Betrayed by those they trusted, now seeking revenge on the world They've been ma
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Ysara Hawthorne the Seeker (Criminal - Fence)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Felicia Ravenheart the Wanderer (Personal - Nemesis)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Was once a renowned hero

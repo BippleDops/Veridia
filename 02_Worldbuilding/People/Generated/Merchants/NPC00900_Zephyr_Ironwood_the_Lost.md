@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Ironwood the Lost", "zephyr ironwood the lost", "Zephyr Ironwood Lost", "Lost the Ironwood Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Ironwood the Lost
 
 *Elf Shopkeeper (Merchants), Age 71, Non-binary*
@@ -36,22 +42,18 @@ Former adventurer who retired to open a shop A prophetic dream has been haunting
 - **Short Term**: Sabotage competition
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Caelum Crystalbrook the Guardian (Professional - Employee)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Aeliana Grimholt the Guardian (Family - Child)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Drusilla Grimholt the Seeker (Family - Parent)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Is actually a spy for foreign power

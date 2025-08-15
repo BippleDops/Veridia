@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Grimholt the Fallen", "fiora grimholt the fallen", "Fiora Grimholt Fallen", "Fallen the Grimholt Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Grimholt the Fallen
 
 *Tiefling Cleric (Adventurers), Age 39, Non-binary*
@@ -13,7 +19,6 @@
 Below average and wiry, with Braided elaborately silver hair and Green eyes. Pale skin. Constantly changing hair color.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Constantly quotes ancient texts; Collects unusual and worthless objects
@@ -42,7 +47,6 @@ Seeking vengeance for a murdered mentor An old debt has come due at the worst po
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Qadim Dawnstrider the Scholar (Personal - Nemesis)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
@@ -52,11 +56,9 @@ Seeking vengeance for a murdered mentor An old debt has come due at the worst po
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
 
-
 ### Alaric Stormwind the Broken (Criminal - Accomplice)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ### Malakai Ironwood the Seeker (Criminal - Target)
 - **Status**: Professional only
@@ -66,7 +68,6 @@ Seeking vengeance for a murdered mentor An old debt has come due at the worst po
 ### Nerys Keenblade the Scholar (Political - Ally)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Is from the future

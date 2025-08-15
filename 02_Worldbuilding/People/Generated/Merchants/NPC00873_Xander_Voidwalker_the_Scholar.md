@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Voidwalker the Scholar", "xander voidwalker the scholar", "Xander Voidwalker Scholar", "Scholar the Voidwalker Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Voidwalker the Scholar
 
 *Aasimar Appraiser (Merchants), Age 55, Female*
@@ -36,7 +42,6 @@ Part of a merchant family with connections everywhere They're being blackmailed 
 - **Short Term**: Recruit new members
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Ysara Proudmore the Swift (Political - Puppet)
 - **Status**: Strong and trusting
@@ -46,7 +51,6 @@ Part of a merchant family with connections everywhere They're being blackmailed 
 ### Gavril Goldleaf the Swift (Family - Sibling)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ### Fiora Blackstone the Seeker (Political - Patron)
 - **Status**: Strained but maintaining

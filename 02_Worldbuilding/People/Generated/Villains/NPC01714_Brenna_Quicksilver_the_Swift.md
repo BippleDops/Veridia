@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Quicksilver the Swift", "brenna quicksilver the swift", "Brenna Quicksilver Swift", "Swift the Quicksilver Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Quicksilver the Swift
 
 *Human Cultist (Villains), Age 57, Male*
@@ -42,11 +48,9 @@ Corrupted by an artifact or dark magic A prophetic dream has been haunting them 
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Drusilla Lightbringer the Bold (Criminal - Fence)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
-
 
 ### Wynne Crystalbrook the Strong (Professional - Rival)
 - **Status**: Secretly hostile
@@ -56,7 +60,6 @@ Corrupted by an artifact or dark magic A prophetic dream has been haunting them 
 ### Zephyr Ashford the Redeemed (Political - Puppet)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Has a child they're protecting

@@ -1,3 +1,9 @@
+---
+aliases: ["Cursed Hammer of the Ancients", "cursed hammer of the ancients", "Cursed Hammer of Ancients", "Ancients the of Hammer Cursed"]
+tags: [item, equipment]
+type: item
+---
+
 # Cursed Hammer of the Ancients
 
 *Weapons, Legendary*
@@ -16,8 +22,6 @@ A cursed hammer made of crystallized magic
 - Returns when thrown
 - +2 to attack and damage rolls
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -32,7 +36,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.353Z*

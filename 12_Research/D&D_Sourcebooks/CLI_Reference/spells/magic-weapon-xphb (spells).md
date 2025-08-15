@@ -101,7 +101,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -120,4 +119,4 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[magic-weapon-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[magic-weapon-xphb (spells)|magic-weapon-xphb (spells)-phb]]` in CLI_Reference/spells/

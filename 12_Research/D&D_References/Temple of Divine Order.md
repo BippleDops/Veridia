@@ -48,3 +48,13 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Lord Vexton Shadowmere (Criminal_Organizations)]]
+- [[Temple Guardian Marcus the Drowned]]
+- [[Theological Warfare]]
+- [[Lord Vexton Shadowmere]]
+- [[Temple Guardian Marcus the Drowned (D&D_References)]]
+- [[Theological Warfare (D&D_References)]]

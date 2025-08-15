@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Dawnstrider the Lost", "alaric dawnstrider the lost", "Alaric Dawnstrider Lost", "Lost the Dawnstrider Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Dawnstrider the Lost
 
 *Gnome Broker (Merchants), Age 67, Female*
@@ -36,17 +42,14 @@ Built their business from nothing through cunning and hard work They've fallen i
 - **Short Term**: Sabotage competition
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Solas Ironforge the Swift (Personal - Ex-lover)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Urien Thornweave the Strong (Criminal - Accomplice)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
-
 
 ### Orion Jadeclaw the Bold (Personal - Childhood friend)
 - **Status**: Mutually beneficial
@@ -56,7 +59,6 @@ Built their business from nothing through cunning and hard work They've fallen i
 ### Lyanna Zephyrblade the Wise (Professional - Employee)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Is actually a spy for foreign power

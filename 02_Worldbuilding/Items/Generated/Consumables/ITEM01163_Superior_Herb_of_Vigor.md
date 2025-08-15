@@ -1,3 +1,9 @@
+---
+aliases: ["Superior Herb of Vigor", "superior herb of vigor", "Vigor of Herb Superior"]
+tags: [item, equipment]
+type: item
+---
+
 # Superior Herb of Vigor
 
 *Consumables, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A superior herb glowing softly
 - Grant advantage for 1 hour
 - Remove one condition
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -30,7 +34,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.462Z*

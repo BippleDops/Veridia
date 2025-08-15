@@ -159,3 +159,11 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Gazer Mpmm]]
+- [[3 Bestiary]]
+- [[3-bestiary (volos-guide-to-monsters)]]
+- [[Familiars Vgm]]
+- [[familiars-vgm (variant-rules)]]

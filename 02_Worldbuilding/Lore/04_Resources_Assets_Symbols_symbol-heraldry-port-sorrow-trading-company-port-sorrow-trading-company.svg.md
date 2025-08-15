@@ -26,3 +26,9 @@ Further information about this topic will be developed as the campaign progresse
 - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery
+
+## References
+
+- [[Assets Locations Location City Freedrift Network V1 Freedrift Network.svg]]
+- [[Assets Locations Location City the Resonance Cathedral the Resonance Cathedral.svg]]
+- [[Assets Symbols Symbol Heraldry Depth Safety Authorit Depth Safety Authorit.svg]]

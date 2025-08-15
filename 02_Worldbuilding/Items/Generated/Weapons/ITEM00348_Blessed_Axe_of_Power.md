@@ -1,3 +1,9 @@
+---
+aliases: ["Blessed Axe of Power", "blessed axe of power", "Power of Axe Blessed"]
+tags: [item, equipment]
+type: item
+---
+
 # Blessed Axe of Power
 
 *Weapons, Uncommon*
@@ -14,8 +20,6 @@ A blessed axe carved from dragon bone
 - Can strike ethereal creatures
 - Can strike ethereal creatures
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -30,7 +34,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.374Z*

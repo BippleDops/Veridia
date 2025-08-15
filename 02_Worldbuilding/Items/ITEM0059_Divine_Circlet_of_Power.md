@@ -1,4 +1,5 @@
 ---
+aliases: ["Divine Circlet of Power", "divine circlet of power", "Power of Circlet Divine"]
 tags: [generated]
 id: ITEM0059
 created: 2025-08-15T04:09:51.097Z
@@ -20,8 +21,6 @@ Crafted from mithril with delicate filigree, in showing age but sturdy. It emana
 
 ## Quirk
 *Whispers names of previous owners*
-
-
 
 ## History
 This item was created to seal an ancient evil ages ago. It has passed through many hands, each leaving their mark upon its destiny.

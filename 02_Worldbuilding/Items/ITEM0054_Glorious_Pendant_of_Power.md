@@ -1,4 +1,5 @@
 ---
+aliases: ["Glorious Pendant of Power", "glorious pendant of power", "Power of Pendant Glorious"]
 tags: [generated]
 id: ITEM0054
 created: 2025-08-15T04:09:51.095Z
@@ -19,8 +20,6 @@ Crafted from adamantine with glowing gems, in recently restored. It emanates a f
 
 ## Quirk
 *Hums when enemies are near*
-
-
 
 ## History
 This item was reforged from broken artifacts ages ago. It has passed through many hands, each leaving their mark upon its destiny.

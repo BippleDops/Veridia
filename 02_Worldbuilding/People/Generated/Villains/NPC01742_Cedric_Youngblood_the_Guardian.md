@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Youngblood the Guardian", "cedric youngblood the guardian", "Cedric Youngblood Guardian", "Guardian the Youngblood Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Youngblood the Guardian
 
 *Tabaxi Dark Wizard (Villains), Age 36, Female*
@@ -36,17 +42,14 @@ Corrupted by an artifact or dark magic They've been marked by a secret society.
 - **Short Term**: Avoid the authorities
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Baelor Oakenshield the Mystic (Family - Parent)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Thalia Grimholt the Strong (Family - Spouse)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
-
 
 ### Rhiannon Darkwater the Guardian (Personal - Nemesis)
 - **Status**: Strained but maintaining
@@ -61,7 +64,6 @@ Corrupted by an artifact or dark magic They've been marked by a secret society.
 ### Alaric Underhill the Bold (Family - Cousin)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Was once a renowned hero

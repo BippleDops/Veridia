@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Keenblade the Fallen", "zephyr keenblade the fallen", "Zephyr Keenblade Fallen", "Fallen the Keenblade Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Keenblade the Fallen
 
 *Tabaxi Shopkeeper (Merchants), Age 28, Female*
@@ -36,27 +42,22 @@ Part of a merchant family with connections everywhere They've been marked by a s
 - **Short Term**: Complete current contract
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Elric Darkwater the Wanderer (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Dara Crystalbrook the Strong (Political - Opposition)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ### Elric Thornweave the Wise (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
 
-
 ### Hestara Quicksilver the Guardian (Family - Parent)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ### Hilda Keenblade the Seeker (Professional - Partner)
 - **Status**: Strained but maintaining
@@ -66,7 +67,6 @@ Part of a merchant family with connections everywhere They've been marked by a s
 ### Branwen Zephyrblade the Fallen (Personal - Nemesis)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Running a cult from their basement

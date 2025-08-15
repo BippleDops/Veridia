@@ -1,6 +1,5 @@
 ---
 
-
 title: Compendium
 type: rules-reference
 tags:
@@ -105,7 +104,6 @@ Apply this rule when:
 - Comparable feature: Action Surge (1/rest)
 - Balance note: More uses but weaker effect
 
-
 ## Common Mistakes
 *Frequent misunderstandings to avoid*
 
@@ -143,3 +141,15 @@ Apply this rule when:
 ### Common Table Rulings
 - Document house rules clearly
 - Maintain consistency across sessions
+
+## References
+
+- [[fractal-mascot-scc (construct)]]
+- [[young-gold-dragon-xmm (dragon)]]
+- [[npc - Aljanor Keenblade Oota]]
+- [[celtic-lugh (deities)]]
+- [[Crystal Ball of Mind Reading Xdmg]]
+- [[Shawm Xphb]]
+- [[caltrop]]
+- [[rod-of-alertness-xdmg (items)]]
+- [[Physical Variations Yuan Ti Scale Pattern Vgm]]

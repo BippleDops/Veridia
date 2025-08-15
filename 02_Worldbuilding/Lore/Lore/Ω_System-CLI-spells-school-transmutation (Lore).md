@@ -136,7 +136,6 @@ Mentioned in The First Prophecy of Shadows
 - 20% middle class
 - 79% working poor
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements

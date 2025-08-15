@@ -483,3 +483,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Crystal Plague Infected NPCs]]
+- [[Crystal Cult Temples]]
+- [[Crystal Plague Wards]]
+- [[Black Market Crystal Trade]]
+- [[Crystal Cult Temples (D&D_References)]]
+- [[Crystal Plague Infected NPCs (D&D_References)]]
+- [[Crystal Plague Wards (D&D_References)]]

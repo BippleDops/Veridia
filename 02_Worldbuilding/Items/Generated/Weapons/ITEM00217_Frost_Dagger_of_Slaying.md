@@ -1,3 +1,9 @@
+---
+aliases: ["Frost Dagger of Slaying", "frost dagger of slaying", "Slaying of Dagger Frost"]
+tags: [item, equipment]
+type: item
+---
+
 # Frost Dagger of Slaying
 
 *Weapons, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A frost dagger forged from meteoric iron
 - Can strike ethereal creatures
 - +2 to attack and damage rolls
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -30,7 +34,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.361Z*

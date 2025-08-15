@@ -168,3 +168,25 @@ Mentioned in The Second Prophecy of Stars
 
 - Someone is hunting a artifact for power
 - Someone is searching for a witness for revenge
+
+## References
+
+- [[ghost-xmm (undead)]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[Monsters by Habitat Urban Monsters Xmm]]
+- [[Underdark Encounters Levels 1116 Xge]]
+- [[Underdark Encounters Levels 14 Xge]]
+- [[Underwater Encounters Levels 1120 Xge]]
+- [[Urban Encounters Levels 1116 Xge]]
+- [[Urban Encounters Levels 14 Xge]]
+- [[Urban Encounters Levels 1720 Xge]]
+- [[Urban Encounters Levels 510 Xge]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]
+- [[monsters-by-habitat-urban-monsters-xmm (tables)]]
+- [[underdark-encounters-levels-1116-xge (tables)]]
+- [[underdark-encounters-levels-14-xge (tables)]]
+- [[underwater-encounters-levels-1120-xge (tables)]]
+- [[urban-encounters-levels-1116-xge (tables)]]
+- [[urban-encounters-levels-14-xge (tables)]]
+- [[urban-encounters-levels-1720-xge (tables)]]
+- [[urban-encounters-levels-510-xge (tables)]]

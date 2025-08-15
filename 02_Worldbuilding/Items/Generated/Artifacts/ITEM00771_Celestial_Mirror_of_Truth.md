@@ -1,3 +1,9 @@
+---
+aliases: ["Celestial Mirror of Truth", "celestial mirror of truth", "Truth of Mirror Celestial"]
+tags: [item, equipment]
+type: item
+---
+
 # Celestial Mirror of Truth
 
 *Artifacts, Legendary*
@@ -16,8 +22,6 @@ A celestial mirror radiating otherworldly power
 - Plane shift 1/day
 - Regenerate 1 hp/round
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -32,7 +36,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.424Z*

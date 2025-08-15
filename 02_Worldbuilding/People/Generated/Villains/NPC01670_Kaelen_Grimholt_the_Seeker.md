@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Grimholt the Seeker", "kaelen grimholt the seeker", "Kaelen Grimholt Seeker", "Seeker the Grimholt Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Grimholt the Seeker
 
 *Human Dark Wizard (Villains), Age 26, Male*
@@ -13,7 +19,6 @@
 Towering and wiry, with Shaved red hair and Violet eyes. Tan skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Flirts with everyone regardless of interest
@@ -47,21 +52,17 @@ Born into evil but questioning their path They've been marked by a secret societ
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Lyanna Hawthorne the Cunning (Personal - Love interest)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ### Urien Crystalbrook the Wanderer (Family - Sibling)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Brenna Dawnstrider the Fallen (Professional - Partner)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Believes they're saving the world

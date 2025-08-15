@@ -70,3 +70,20 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Construct Spirit Metal Xphb]]
+- [[Construct Spirit Stone Xphb]]
+- [[Construct Spirit Xphb]]
+- [[construct-spirit-metal-xphb (construct)]]
+- [[construct-spirit-stone-xphb (construct)]]
+- [[construct-spirit-xphb (construct)]]
+- [[fractal-mascot-scc (construct)]]
+- [[Sorcerer Xphb Clockwork Sorcery Xphb]]
+- [[sorcerer-xphb-clockwork-sorcery-xphb (classes)]]
+- [[Cube of Summoning Xdmg]]
+- [[cube-of-summoning-xdmg (items)]]
+- [[Summon Construct Xphb]]
+- [[summon-construct-xphb (spells)]]

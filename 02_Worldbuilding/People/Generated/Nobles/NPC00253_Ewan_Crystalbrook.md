@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Crystalbrook", "ewan crystalbrook", "Crystalbrook Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Crystalbrook
 
 *Half-Orc Noble (Nobles), Age 57, Female*
@@ -13,7 +19,6 @@
 Very short and muscular, with Mohawk gray hair and Heterochromic eyes. Olive skin. Burn scars on one side of face.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Compulsive liar about minor things; Flirts with everyone regardless of interest; Always tells the absolute truth
@@ -47,7 +52,6 @@ Last survivor of a fallen house, seeking to restore family honor An old debt has
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Branwen Stormwind (Personal - Ex-lover)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
@@ -56,7 +60,6 @@ Last survivor of a fallen house, seeking to restore family honor An old debt has
 ### Rhiannon Dawnstrider (Political - Spy)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Child from scandalous affair

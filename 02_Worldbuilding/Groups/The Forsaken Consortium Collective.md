@@ -361,3 +361,7 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Campaign_Relationship_Matrix]]

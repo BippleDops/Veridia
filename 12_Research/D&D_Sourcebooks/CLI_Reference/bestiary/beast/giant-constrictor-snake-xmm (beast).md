@@ -130,3 +130,22 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A stranger needs help investigating before the festival
 - A map reveals a betrayal about the cult
 - A letter reveals a betrayal about this place
+
+## References
+
+- [[menagerie]]
+- [[Constrictor Snake Xmm]]
+- [[Giant Constrictor Snake Xmm]]
+- [[constrictor-snake-xmm (beast)]]
+- [[2 Appendix a Miscellaneous Creatures]]
+- [[2-appendix-a-miscellaneous-creatures (monster-manual-2014)]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[10-appendix-b-creature-stat-blocks (players-handbook-2024)]]
+- [[Staff of the Python Xdmg]]
+- [[staff-of-the-python-xdmg (items)]]
+- [[Monsters by Habitat Underwater Monsters Xmm]]
+- [[Underwater Encounters Levels 14 Xge]]
+- [[Underwater Encounters Levels 510 Xge]]
+- [[monsters-by-habitat-underwater-monsters-xmm (tables)]]
+- [[underwater-encounters-levels-14-xge (tables)]]
+- [[underwater-encounters-levels-510-xge (tables)]]

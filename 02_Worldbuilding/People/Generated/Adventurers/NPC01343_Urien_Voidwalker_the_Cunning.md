@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Voidwalker the Cunning", "urien voidwalker the cunning", "Urien Voidwalker Cunning", "Cunning the Voidwalker Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Voidwalker the Cunning
 
 *Firbolg Cleric (Adventurers), Age 29, Female*
@@ -36,7 +42,6 @@ Chosen by fate to fulfill an ancient prophecy Strange abilities have begun manif
 - **Short Term**: Complete current contract
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Orion Winterborn the Strong (Professional - Rival)
 - **Status**: Secretly hostile
@@ -47,7 +52,6 @@ Chosen by fate to fulfill an ancient prophecy Strange abilities have begun manif
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Vesper Silverleaf the Wanderer (Criminal - Accomplice)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
@@ -57,11 +61,9 @@ Chosen by fate to fulfill an ancient prophecy Strange abilities have begun manif
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
 
-
 ### Ysara Proudmore the Seeker (Family - Sibling)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ### Aeliana Emberfall the Mystic (Political - Puppet)
 - **Status**: Mutually beneficial

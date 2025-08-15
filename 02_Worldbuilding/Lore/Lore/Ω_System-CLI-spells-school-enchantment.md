@@ -117,7 +117,6 @@ Mentioned in The First Prophecy of Stars
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements

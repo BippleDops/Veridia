@@ -93,3 +93,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Cloaker Xmm]]
+- [[cloaker-xmm (aberration)]]
+- [[Illithilich Vgm (undead)]]
+- [[illithilich-vgm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Wild Magic Surge Phb]]
+- [[wild-magic-surge-phb (tables)]]

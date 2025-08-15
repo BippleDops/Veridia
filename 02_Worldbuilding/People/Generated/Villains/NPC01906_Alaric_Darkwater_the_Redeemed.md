@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Darkwater the Redeemed", "alaric darkwater the redeemed", "Alaric Darkwater Redeemed", "Redeemed the Darkwater Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Darkwater the Redeemed
 
 *Dragonborn Dark Wizard (Villains), Age 22, Male*
@@ -13,7 +19,6 @@
 Very short and heavyset, with Shaved gray hair and Violet eyes. Olive skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth
@@ -36,17 +41,14 @@ Born into evil but questioning their path A family member's death has left them 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Zephyr Youngblood the Cunning (Political - Patron)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Nerys Voidwalker the Broken (Political - Patron)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ### Urien Ironforge the Strong (Political - Puppet)
 - **Status**: Strained but maintaining

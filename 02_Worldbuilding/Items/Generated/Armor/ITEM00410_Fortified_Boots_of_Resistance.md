@@ -1,3 +1,9 @@
+---
+aliases: ["Fortified Boots of Resistance", "fortified boots of resistance", "Resistance of Boots Fortified"]
+tags: [item, equipment]
+type: item
+---
+
 # Fortified Boots of Resistance
 
 *Armor, Common*
@@ -13,8 +19,6 @@ A fortified boots crafted from exotic materials
 ## Properties
 - +1 to AC
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -29,7 +33,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.379Z*

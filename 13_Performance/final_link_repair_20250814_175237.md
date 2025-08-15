@@ -46,7 +46,6 @@ Generated: 2025-08-14T17:52:37.386497
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## See Also
 - Related content
 - Similar topics
@@ -60,3 +59,9 @@ Generated: 2025-08-14T17:52:37.386497
 ## Player Tips
 > 🎮 **Strategy**: How to approach this content
 > Work together and communicate
+
+## References
+
+- [[Regional Politics]]
+- [[World Overview]]
+- [[Character Backstories]]

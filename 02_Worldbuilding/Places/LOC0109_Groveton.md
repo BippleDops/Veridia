@@ -1,4 +1,5 @@
 ---
+aliases: ["Groveton", "groveton"]
 tags: [generated]
 id: LOC0109
 created: 2025-08-15T04:09:51.335Z
@@ -21,20 +22,17 @@ A secret location used by those who wish to remain hidden
 - **Current Leader**: Wise elders who guide by consensus
 - **Political Stability**: Stable
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -91,7 +89,6 @@ A secret location used by those who wish to remain hidden
 
 ---
 *Generated: 2025-08-15T03:20:13.148Z*
-
 
 ## History
 - **Founding**: Origin story

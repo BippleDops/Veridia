@@ -11,7 +11,7 @@ created: '2025-01-15'
 
 ## Portrait
 
-![[portrait_04_resources_assets_portraits_portrait-npc-captain-scarlet-torrent-captain-scarlet-torrent.svg.png]]
+![[04_Resources|portrait_04_resources_assets_portraits_portrait-npc-captain-scarlet-torrent-captain-scarlet-torrent.svg.png]]
 
 *Portrait reference for 04_Resources_Assets_Portraits_portrait-npc-captain-scarlet-torrent-captain-scarlet-torrent.svg*
 
@@ -75,3 +75,9 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+## References
+
+- [[Assets Locations Location City Professor Reef Growthseeker V1 Professor Reef Growthseeker.svg]]
+- [[Assets Locations Location City Scout Captain Vera Deepwatch V1 Scout Captain Vera Deepwatch.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-scarlet-torrent-captain-scarlet-torrent.svg_Quick_Ref]]

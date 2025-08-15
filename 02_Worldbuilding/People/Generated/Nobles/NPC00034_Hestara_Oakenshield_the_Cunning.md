@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Oakenshield the Cunning", "hestara oakenshield the cunning", "Hestara Oakenshield Cunning", "Cunning the Oakenshield Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Oakenshield the Cunning
 
 *Goliath Aristocrat (Nobles), Age 71, Non-binary*
@@ -13,7 +19,6 @@
 Below average and wiry, with Braided elaborately silver hair and Gray eyes. Fair skin. Gold tooth that glints when smiling.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Speaks to inanimate objects
@@ -36,22 +41,18 @@ Exiled from their homeland, trying to rebuild their power base They're being bla
 - **Short Term**: Find missing person
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Ewan Stormwind (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Zephyr Proudmore (Family - Cousin)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Ewan Emberfall (Professional - Employer)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ### Vesper Thornweave the Lost (Professional - Employer)
 - **Status**: Secretly hostile

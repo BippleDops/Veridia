@@ -118,3 +118,10 @@ Recent developments have brought new attention to Archive of Echoes, creating op
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[02_Worldbuilding_Locations_Archive_of_Echoes]]
+- [[Locations Archive of Echoes]]
+- [[System Cli Items Weapons]]
+- [[System Cli Spells School Enchantment]]

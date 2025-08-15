@@ -92,3 +92,11 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Armaments Common Xdmg]]
+- [[Random Magic Items Armaments]]
+- [[armaments-common-xdmg (tables)]]
+- [[random-magic-items-armaments (tables)]]

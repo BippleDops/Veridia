@@ -1,4 +1,5 @@
 ---
+aliases: ["Investigate the Cult", "investigate the cult", "Investigate Cult", "Cult the Investigate"]
 tags: [generated]
 id: QUEST0071
 created: 2025-08-15T04:09:51.404Z
@@ -22,8 +23,6 @@ Gain access to the sunken temple and complete the ritual
 ### Secondary
 - Rescue any prisoners found
 - Minimize civilian casualties
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they lost everything in a fire, which changed their life forever. Now, circumstances demand immediate action.

@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # NPC_Relationship_Web.png - Quick Reference
 
 ## Key Info

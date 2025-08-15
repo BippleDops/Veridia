@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Keenblade the Strong", "alaric keenblade the strong", "Alaric Keenblade Strong", "Strong the Keenblade Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Keenblade the Strong
 
 *Goliath Cultist (Villains), Age 51, Female*
@@ -42,7 +48,6 @@ Corrupted by an artifact or dark magic They've been marked by a secret society.
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Wynne Jadeclaw the Redeemed (Criminal - Fence)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
@@ -52,21 +57,17 @@ Corrupted by an artifact or dark magic They've been marked by a secret society.
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Kaelen Underhill the Broken (Professional - Rival)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
-
 
 ### Brenna Moonshadow the Scholar (Personal - Nemesis)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Branwen Lightbringer the Fallen (Professional - Employee)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Was once a renowned hero

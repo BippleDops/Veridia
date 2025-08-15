@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Jadeclaw the Bold", "kaelen jadeclaw the bold", "Kaelen Jadeclaw Bold", "Bold the Jadeclaw Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Jadeclaw the Bold
 
 *Dragonborn Trader (Merchants), Age 32, Female*
@@ -36,7 +42,6 @@ Former adventurer who retired to open a shop A prophetic dream has been haunting
 - **Short Term**: Sabotage competition
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Felicia Jadeclaw the Cunning (Professional - Rival)
 - **Status**: Strained but maintaining
@@ -47,21 +52,17 @@ Former adventurer who retired to open a shop A prophetic dream has been haunting
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Kaelen Nightfall the Wanderer (Professional - Mentor)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ### Drusilla Quicksilver the Strong (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Delara Silverleaf the Redeemed (Family - Child)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ### Elric Voidwalker the Risen (Personal - Love interest)
 - **Status**: Strong and trusting

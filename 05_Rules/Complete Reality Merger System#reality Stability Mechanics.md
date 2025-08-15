@@ -1,6 +1,5 @@
 ---
 
-
 title: Complete Reality Merger System#reality Stability Mechanics
 type: mechanics
 tags:
@@ -251,7 +250,6 @@ A: No, use the higher bonus only
 
 ### Q: What about antimagic fields?
 A: Supernatural abilities suppressed, mundane portions still function
-
 
 ## Common Mistakes
 *Frequent misunderstandings to avoid*

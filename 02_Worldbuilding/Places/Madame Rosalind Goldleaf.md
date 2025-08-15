@@ -70,7 +70,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -280,7 +280,7 @@ Contingency plans exist for various scenarios including sudden incapacitation, e
 
 **[[12 Research]]** - Younger family member being groomed for eventual leadership role, whose development and loyalty are crucial for family business continuity.
 
-**[[[[Marcus Goldlea]]f]]** - Family member specializing in ficial operations and [[International Trade]] relationships, providing essential expertise for complex commercial arrangements.
+**[[Marcus Goldlea|[[Marcus Goldlea]]f]]** - Family member specializing in ficial operations and [[International Trade]] relationships, providing essential expertise for complex commercial arrangements.
 
 **[[Elena Goldleaf]]** - Family member focused on manufacturing and quality control operations, ensuring that Goldleaf products maintain reputation for excellence.
 
@@ -294,7 +294,7 @@ Contingency plans exist for various scenarios including sudden incapacitation, e
 
 ### Social Contacts
 
-**[[[[Noble House]] Representative]]** - Connection to traditional nobility providing social legitimacy and access to exclusive social events and political discussions.
+**[[Noble House|[[Noble House]] Representative]]** - Connection to traditional nobility providing social legitimacy and access to exclusive social events and political discussions.
 
 **[[Government Official]]** - Administrative contact providing information about policy developments and regulatory changes affecting commercial operations.
 
@@ -357,7 +357,7 @@ Madame Goldleaf's combination of business acumen and social grace provides good 
 
 Her success demonstrates how characters can build influence and power through intelligence, hard work, and relationship building rather than just combat prowess or magical abilities.
 
-Interactions with Madame Goldleaf can help players understand [[Economic System]]s, political influence, and the importance of reputation and relationships in achieving long-term goals.
+Interactions with Madame Goldleaf can help players understand [[Economic_System|Economic System]]s, political influence, and the importance of reputation and relationships in achieving long-term goals.
 
 ## Player-Facing Summary
 
@@ -369,7 +369,7 @@ Legends speak of Madame Rosalind Goldleaf as a nexus where past and present conv
 
 ### Key Locations
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -393,13 +393,11 @@ Madame Rosalind Goldleaf is a notable location characterized by its unique featu
 ### Founding
 Madame Rosalind Goldleaf was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -407,13 +405,11 @@ Madame Rosalind Goldleaf was established in the distant past, growing from humbl
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -466,7 +462,6 @@ Ongoing situations affecting Madame Rosalind Goldleaf:
 - 20% middle class
 - 79% working poor
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -502,3 +497,12 @@ Ongoing situations affecting Madame Rosalind Goldleaf:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Major Trading Companies]]
+- [[Merchant Princes]]
+- [[Crystalhaven (D&D_References)]]
+- [[Major Trading Companies (D&D_References)]]
+- [[Merchant Princes (D&D_References)]]
+- [[Pip Goldleaf (D&D_Statblocks)]]

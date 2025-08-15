@@ -1,3 +1,9 @@
+---
+aliases: ["Masterwork Map Case of Reliability", "masterwork map case of reliability", "Reliability of Case Map Masterwork"]
+tags: [item, equipment]
+type: item
+---
+
 # Masterwork Map Case of Reliability
 
 *Mundane, Uncommon*
@@ -14,8 +20,6 @@ A masterwork map case expertly crafted
 - Works perfectly always
 - Provides comfort
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -30,7 +34,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.480Z*

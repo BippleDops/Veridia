@@ -48,3 +48,12 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[07 Chapter 7 Monsters and Magic Items]]
+- [[07-chapter-7-monsters-and-magic-items (princes-of-the-apocalypse)]]
+- [[Vanifer Pota]]
+- [[vanifer-pota (legendary-group)]]
+- [[Tinderstrike Pota]]
+- [[tinderstrike-pota (items)]]

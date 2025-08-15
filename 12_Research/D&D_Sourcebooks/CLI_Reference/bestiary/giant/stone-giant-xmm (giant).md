@@ -153,3 +153,15 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Stone Giant Xmm]]
+- [[Hill Encounters Levels 1720 Xge]]
+- [[Monsters by Habitat Hill Monsters Xmm]]
+- [[Monsters by Habitat Mountain Monsters Xmm]]
+- [[Pets Beholder Greater Minions Vgm]]
+- [[hill-encounters-levels-1720-xge (tables)]]
+- [[monsters-by-habitat-hill-monsters-xmm (tables)]]
+- [[monsters-by-habitat-mountain-monsters-xmm (tables)]]
+- [[pets-beholder-greater-minions-vgm (tables)]]

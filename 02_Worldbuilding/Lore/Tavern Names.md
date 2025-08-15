@@ -91,3 +91,7 @@ Mentioned in The First Prophecy of Stars
 
 ## Campaign Notes
 *How this connects to the ongoing campaign*
+
+## References
+
+- [[Tavern_Names (02_Worldbuilding)]]

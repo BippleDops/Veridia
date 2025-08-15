@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Voidwalker the Swift", "erasmus voidwalker the swift", "Erasmus Voidwalker Swift", "Swift the Voidwalker Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Voidwalker the Swift
 
 *Elf Trader (Merchants), Age 50, Female*
@@ -42,11 +48,9 @@ Part of a merchant family with connections everywhere An old debt has come due a
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Delara Stormwind the Broken (Professional - Rival)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ### Qadim Ashford the Risen (Family - Sibling)
 - **Status**: Professional only
@@ -57,11 +61,9 @@ Part of a merchant family with connections everywhere An old debt has come due a
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Elric Proudmore the Cunning (Criminal - Handler)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Killed previous business owner

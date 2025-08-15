@@ -179,7 +179,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[04_Resources_Assets_Art_Places_Retired_Captain_Bron_Saltbeard.png]] (rival)
-- [[Captain Prism Shield Valeria]] (enemy)
+- [[Shield|Captain Prism Shield Valeria]] (enemy)
 - [[The Purification Gardens]] (friend)
 ---
 *Tags*: #npc #contact #worldbuilding

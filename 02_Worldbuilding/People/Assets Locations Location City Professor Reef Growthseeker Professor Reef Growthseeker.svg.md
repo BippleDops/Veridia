@@ -222,3 +222,8 @@ This NPC can serve multiple roles:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-minister-truth-darknes-minister-truth-darknes.svg]]
+- [[04_Resources_Assets_Locations_location-city-choir-master-celestine-hymnsinger-choir-master-celestine-hymnsinger.svg]]

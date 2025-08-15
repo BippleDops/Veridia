@@ -136,7 +136,6 @@ Standing 5'6" with platinum hair streaked with shadow-black, Vespara's most stri
 
 She operates from the Shadowblade District, a neutral zone where information flows like water and contracts are sealed in blood and crystal dust. Her reputation is built on three pillars: she never misses a target, she never breaks a contract, and she never kills without cause.
 
-
 ## Stats
 - **AC**: 12
 - **HP**: 22 (4d8)
@@ -213,7 +212,6 @@ Assassin's path to their current position involved:
 - Maintain their position and influence
 - Advance their organization's interests
 - Personal advancement or satisfaction
-
 
 ## Secrets
 - Hidden information about this character
@@ -315,7 +313,6 @@ Mentioned in The Second Prophecy of Stars
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -351,3 +348,37 @@ Mentioned in The Second Prophecy of Stars
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Abyssal Academy]]
+- [[Ancient Aquabyssos Rulers]]
+- [[Diplomatic Event Scenarios]]
+- [[Investigation Procedures]]
+- [[Reputation System]]
+- [[The Crimson Hand]]
+- [[The Final Choice]]
+- [[The Great Crystallization]]
+- [[Void-touched Assassins]]
+- [[Assets Portraits Portrait NPC Merchant Captain Tobias Stormwind Merchant Captain Tobias Stormwind.svg]]
+- [[Intelligence Services (People)]]
+- [[Party Quarters - Inverse Palace]]
+- [[Pressure Terminal]]
+- [[Royal Palace of Meridian]]
+- [[Shadow Market Canals]]
+- [[Surface Tensions]]
+- [[Tenebrarum Embassy]]
+- [[The Bone Colosseum]]
+- [[The Eternal Senate]]
+- [[The Great Drowning]]
+- [[The Kraken's Harbor]]
+- [[The Living Weapon]]
+- [[The Reflection Pools]]
+- [[The Void Tears]]
+- [[Throne Room - Heart of Palace]]
+- [[Warden Marcus Stonehand]]
+- [[The Crown's Burden]]
+- [[Master_Item_Catalog]]
+- [[Intelligence Services (D&D_References)]]
+- [[greenhouse]]
+- [[poisons]]

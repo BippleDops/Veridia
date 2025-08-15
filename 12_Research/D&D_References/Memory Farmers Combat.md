@@ -90,3 +90,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ### Bonus Actions
 - Only if feature/spell grants one
 - Common: Off-hand attack, Cunning Action, Healing Word
+
+## References
+
+- [[Aquabyssos - Session 03 - The Gallery Conspiracy]]

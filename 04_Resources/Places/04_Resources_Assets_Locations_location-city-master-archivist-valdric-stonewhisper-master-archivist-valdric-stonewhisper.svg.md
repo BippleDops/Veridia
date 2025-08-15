@@ -102,3 +102,8 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Portraits Portrait NPC Captain Nerida Stormcrest Captain Nerida Stormcrest.svg]]
+- [[Assets Portraits Portrait NPC Lord Marcus Shadowbane Lord Marcus Shadowbane.svg]]

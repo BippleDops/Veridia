@@ -45,7 +45,7 @@ relationships:
   target: '[[Prince Caspian Duskwater]]'
   type: neutral
 - strength: 3
-  target: '[[Template Person]]'
+  target: '[[Template Person Placeholder.png|Template Person]]'
 updated: '2025-08-13T12:34:17.693356+00:00'
 world: Both
 evaluated: '2025-08-14'
@@ -63,12 +63,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-garrett-stormcutter-captain-garrett-stormcutter.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -291,7 +289,6 @@ Member of House Serpentblood - Trait: magical affinity
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -327,3 +324,12 @@ Member of House Serpentblood - Trait: magical affinity
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Senator_Glaucus_Brain (People)]]
+- [[Admiral Thorne Blackwater]]
+- [[Assets Art Brother Matthias Inkdrinker.png]]
+- [[Master Artificer Coral Gemwright]]
+- [[Senator_Glaucus_Brain (D&D_References)]]
+- [[Admiral Thorne Blackwater (D&D_Statblocks)]]

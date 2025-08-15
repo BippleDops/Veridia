@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Oakenshield the Mystic", "orion oakenshield the mystic", "Orion Oakenshield Mystic", "Mystic the Oakenshield Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Oakenshield the Mystic
 
 *Elf Cleric (Adventurers), Age 74, Non-binary*
@@ -42,11 +48,9 @@ Accidentally gained powers and learning to control them They've made a deal they
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Pyria Oakenshield the Fallen (Personal - Childhood friend)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
-
 
 ### Dara Keenblade the Risen (Political - Opposition)
 - **Status**: Strong and trusting
@@ -57,7 +61,6 @@ Accidentally gained powers and learning to control them They've made a deal they
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Aldric Moonshadow the Bold (Criminal - Fence)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
@@ -66,7 +69,6 @@ Accidentally gained powers and learning to control them They've made a deal they
 ### Solas Blackstone the Bold (Professional - Partner)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Secretly working for the villain

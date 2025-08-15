@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Keenblade the Wanderer", "delara keenblade the wanderer", "Delara Keenblade Wanderer", "Wanderer the Keenblade Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Keenblade the Wanderer
 
 *Firbolg Heir (Nobles), Age 25, Female*
@@ -36,12 +42,10 @@ Recently elevated to nobility through service, still learning courtly ways Stran
 - **Short Term**: Find missing person
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Aeliana Goldleaf the Mystic (Personal - Love interest)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
-
 
 ### Elric Stormwind the Wanderer (Political - Opposition)
 - **Status**: Recently reconciled
@@ -52,21 +56,17 @@ Recently elevated to nobility through service, still learning courtly ways Stran
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Brenna Blackstone (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ### Idris Thornweave the Lost (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Felicia Ashford the Broken (Political - Ally)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Practicing forbidden magic

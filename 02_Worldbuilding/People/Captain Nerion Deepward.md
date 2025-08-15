@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-nerion-deepward-captain-nerion-deepward.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -167,7 +165,6 @@ Captain Nerion Deepward is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -237,3 +234,12 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City Prophetic Dreams V1 Prophetic Dreams.svg]]
+- [[Assets Portraits Portrait NPC Captain Elara Shadowshard Captain Elara Shadowshard.svg]]
+- [[Assets Portraits Portrait NPC Patriarch Valdris Lightbringer Patriarch Valdris Lightbringer.png]]
+- [[Assets Symbols Symbol Heraldry Acoustic Infection Acoustic Infection.svg]]
+- [[The Original Palace]]
+- [[The Original Palace (D&D_References)]]

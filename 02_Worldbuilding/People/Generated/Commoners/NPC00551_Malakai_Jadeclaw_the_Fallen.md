@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Jadeclaw the Fallen", "malakai jadeclaw the fallen", "Malakai Jadeclaw Fallen", "Fallen the Jadeclaw Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Jadeclaw the Fallen
 
 *Half-Elf Farmer (Commoners), Age 75, Non-binary*
@@ -36,27 +42,22 @@ Former soldier trying to adjust to civilian life They recently discovered a secr
 - **Short Term**: Make this month's payment
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Urien Xendar the Redeemed (Professional - Partner)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
 
-
 ### Delara Blackstone the Guardian (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
-
 
 ### Aeliana Dawnstrider the Guardian (Political - Spy)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Xander Frostwhisper the Strong (Family - Spouse)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ### Urien Darkwater the Guardian (Family - Cousin)
 - **Status**: Secretly hostile
@@ -66,7 +67,6 @@ Former soldier trying to adjust to civilian life They recently discovered a secr
 ### Delara Crystalbrook (Personal - Ex-lover)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Is the lost heir to the throne

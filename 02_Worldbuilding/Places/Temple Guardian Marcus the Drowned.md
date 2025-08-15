@@ -270,13 +270,11 @@ Temple Guardian Marcus the Drowned is a notable location characterized by its un
 ### Founding
 Temple Guardian Marcus the Drowned was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -284,13 +282,11 @@ Temple Guardian Marcus the Drowned was established in the distant past, growing 
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -328,7 +324,6 @@ Ongoing situations affecting Temple Guardian Marcus the Drowned:
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -364,3 +359,11 @@ Ongoing situations affecting Temple Guardian Marcus the Drowned:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Memory Merchant Zephyr Mindweaver]]
+- [[Temple Guardian Marcus the Drowned (D&D_References)]]
+- [[Discover the Singers Beyond (D&D_Statblocks)]]
+- [[Memory Merchant Zephyr Mindweaver (D&D_Statblocks)]]
+- [[The Lock Saboteur (D&D_Statblocks)]]

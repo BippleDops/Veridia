@@ -102,3 +102,8 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Locations Location City Brother Matthias Inkdrinker Brother Matthias Inkdrinker.svg]]
+- [[Assets Portraits Portrait NPC Duchess Marina Ever Drowning Duchess Marina Ever Drowning.svg]]

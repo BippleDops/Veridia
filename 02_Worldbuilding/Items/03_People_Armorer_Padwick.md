@@ -191,3 +191,8 @@ Last known to be:   - *NPC*: [[People]] - padding...
 
 ### Curse (if applicable)
 - *[Negative effects]*
+
+## References
+
+- [[Armorer_Padwick]]
+- [[Master_Item_Catalog]]

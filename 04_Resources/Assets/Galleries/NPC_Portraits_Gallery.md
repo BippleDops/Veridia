@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # NPC Portraits Gallery
 
 %% Use reading mode for visual gallery %%

@@ -41,7 +41,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -98,7 +98,7 @@ Legends speak of Courier Chief Swift Currentrider as a nexus where past and pres
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -122,13 +122,11 @@ Courier Chief Swift Currentrider is a notable location characterized by its uniq
 ### Founding
 Courier Chief Swift Currentrider was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -136,13 +134,11 @@ Courier Chief Swift Currentrider was established in the distant past, growing fr
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -159,8 +155,6 @@ Ongoing situations affecting Courier Chief Swift Currentrider:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -197,3 +191,8 @@ Ongoing situations affecting Courier Chief Swift Currentrider:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[The Bathyal Palace]]
+- [[The Bathyal Palace (D&D_References)]]

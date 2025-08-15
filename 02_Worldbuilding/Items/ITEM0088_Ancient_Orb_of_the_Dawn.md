@@ -1,4 +1,5 @@
 ---
+aliases: ["Ancient Orb of the Dawn", "ancient orb of the dawn", "Ancient Orb of Dawn", "Dawn the of Orb Ancient"]
 tags: [generated]
 id: ITEM0088
 created: 2025-08-15T04:09:51.106Z
@@ -19,8 +20,6 @@ Crafted from darkwood with intricate runes, in showing age but sturdy. It emanat
 
 ## Quirk
 *Changes color with user's mood*
-
-
 
 ## History
 This item was hidden away by its last owner centuries ago. It has passed through many hands, each leaving their mark upon its destiny.

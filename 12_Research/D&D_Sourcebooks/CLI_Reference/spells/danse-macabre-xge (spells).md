@@ -109,4 +109,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[danse-macabre-xge (spells)-phb]]` in CLI_Reference/spells/
+See: `[[danse-macabre-xge (spells)|danse-macabre-xge (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]

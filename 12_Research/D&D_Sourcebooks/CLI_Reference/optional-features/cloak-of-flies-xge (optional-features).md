@@ -79,3 +79,8 @@ Mentioned in The Hidden Prophecy of Depths
 - Strange sightings suggest ancient magic
 - A stranger needs help investigating before winter
 - A merchant needs help stealing before dawn
+
+## References
+
+- [[List Optfeaturetype Ei]]
+- [[list-optfeaturetype-ei (lists)]]

@@ -95,3 +95,14 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[sanctuary]]
+- [[Druidic Focus Xphb]]
+- [[druidic-focus-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[Druidic Focus Varies Druidic Focuses Xphb]]
+- [[adventuring-gear-phb (tables)]]
+- [[druidic-focus-varies-druidic-focuses-xphb (tables)]]

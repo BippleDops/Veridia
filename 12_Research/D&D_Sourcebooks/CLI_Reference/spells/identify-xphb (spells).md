@@ -110,7 +110,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -129,4 +128,59 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[identify-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[identify-xphb (spells)|identify-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[6 Appendix a Magic Items]]
+- [[6-appendix-a-magic-items (lost-mine-of-phandelver)]]
+- [[Arcane Study]]
+- [[arcane-study (bastions)]]
+- [[Sphinx of Lore Xmm]]
+- [[Sphinx of Secrets Xmm]]
+- [[sphinx-of-lore-xmm (celestial)]]
+- [[sphinx-of-secrets-xmm (celestial)]]
+- [[Green Hag Xmm]]
+- [[Sea Hag Xmm]]
+- [[green-hag-xmm (fey)]]
+- [[sea-hag-xmm (fey)]]
+- [[Arcanaloth Xmm]]
+- [[Night Hag Xmm]]
+- [[arcanaloth-xmm (fiend)]]
+- [[night-hag-xmm (fiend)]]
+- [[06 Equipment]]
+- [[06-equipment (players-handbook-2014)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Cleric Xphb Forge Domain Xge]]
+- [[Cleric Xphb Knowledge Domain]]
+- [[cleric-xphb-forge-domain-xge (classes)]]
+- [[cleric-xphb-forge-domain-xge 2 (classes)]]
+- [[cleric-xphb-knowledge-domain (classes)]]
+- [[cleric-xphb-knowledge-domain 2 (classes)]]
+- [[Armor of Vulnerability Bludgeoning Xdmg]]
+- [[Armor of Vulnerability Piercing Xdmg]]
+- [[Armor of Vulnerability Slashing Xdmg]]
+- [[Devastation Orb Pota]]
+- [[Devastation Orb of Air Pota]]
+- [[Devastation Orb of Earth Pota]]
+- [[Devastation Orb of Water Pota]]
+- [[Dust of Sneezing and Choking Xdmg]]
+- [[Iron Flask Xdmg]]
+- [[Potion of Poison Xdmg]]
+- [[armor-of-vulnerability-bludgeoning-xdmg (items)]]
+- [[armor-of-vulnerability-piercing-xdmg (items)]]
+- [[armor-of-vulnerability-slashing-xdmg (items)]]
+- [[devastation-orb-of-air-pota (items)]]
+- [[devastation-orb-of-earth-pota (items)]]
+- [[devastation-orb-of-water-pota (items)]]
+- [[devastation-orb-pota (items)]]
+- [[dust-of-sneezing-and-choking-xdmg (items)]]
+- [[iron-flask-xdmg (items)]]
+- [[potion-of-poison-xdmg (items)]]
+- [[Arcane Study Charm Xdmg]]
+- [[arcane-study-charm-xdmg (rewards)]]
+- [[More Difficult Identification]]
+- [[more-difficult-identification (variant-rules)]]

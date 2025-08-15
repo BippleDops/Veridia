@@ -82,3 +82,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Improved Pact Weapon Xge]]
+- [[improved-pact-weapon-xge (optional-features)]]
+- [[Elf Sea Mtf]]
+- [[elf-sea-mtf (races)]]
+- [[Weapons Phb]]
+- [[Weapons Xphb]]
+- [[weapons-phb (tables)]]
+- [[weapons-xphb (tables)]]

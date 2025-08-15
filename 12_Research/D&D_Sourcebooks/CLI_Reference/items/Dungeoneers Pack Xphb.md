@@ -80,3 +80,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A stranger needs help delivering before winter
 - Strange accidents suggest a curse
 - A stranger needs help stealing before the festival
+
+## References
+
+- [[Master_Item_Catalog]]

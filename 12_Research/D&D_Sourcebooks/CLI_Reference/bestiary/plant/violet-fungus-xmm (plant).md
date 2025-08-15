@@ -117,3 +117,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Zuggtmoy Mtf]]
+- [[zuggtmoy-mtf (legendary-group)]]
+- [[Vegepygmy Chief Mpmm]]
+- [[vegepygmy-chief-mpmm (plant)]]
+- [[Exploring the Mine Xdmg]]
+- [[Random Dungeon Hazards Dungeon Hazards]]
+- [[exploring-the-mine-xdmg (tables)]]
+- [[random-dungeon-hazards-dungeon-hazards (tables)]]

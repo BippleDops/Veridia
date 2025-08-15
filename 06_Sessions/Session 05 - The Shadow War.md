@@ -68,7 +68,6 @@ Mentioned in The Hidden Prophecy of Shadows
 
 Contextual improvement based on 12_Research
 
-
 ## Alternate Descriptions
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
@@ -77,3 +76,7 @@ Contextual improvement based on 12_Research
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition
+
+## References
+
+- [[Aquabyssos - Session 04 - High Tide Horror]]

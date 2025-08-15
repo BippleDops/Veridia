@@ -189,7 +189,7 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[Quest   The Admiral's Gambit]] (enemy)
 - [[Free Current Safe Houses]] (ally)
-- [[vault_backup_20250813_073007_06_GM_Resources_Travel_Encounter_Sheets_D_L 03_Deep_Mother_Dream_Tide]] (rival)
+-  (rival)
 ---
 *Tags*: #npc #contact #worldbuilding
 

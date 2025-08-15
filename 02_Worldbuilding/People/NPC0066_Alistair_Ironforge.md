@@ -1,11 +1,11 @@
 ---
+aliases: ["Alistair Ironforge", "alistair ironforge", "Ironforge Alistair"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Apprenticed to a master craftsman from young age. Years ago, they survived a pla
 ### Skills
 Insight, Investigation, Athletics, Deception
 
-
-
 ## Possessions
 - 11 gold pieces
 - Family heirloom (locket)
@@ -90,7 +88,6 @@ Insight, Investigation, Athletics, Deception
 
 ---
 *Generated: 2025-08-15T03:21:04.033Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

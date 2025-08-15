@@ -115,3 +115,8 @@ Memory Tide Disaster represents a crucial aspect of the world's history, cosmolo
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Topic Matrix]]
+- [[Topic_Matrix (Indexes)]]

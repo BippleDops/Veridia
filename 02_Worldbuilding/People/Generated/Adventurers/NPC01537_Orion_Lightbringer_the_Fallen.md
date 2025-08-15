@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Lightbringer the Fallen", "orion lightbringer the fallen", "Orion Lightbringer Fallen", "Fallen the Lightbringer Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Lightbringer the Fallen
 
 *Genasi Wizard (Adventurers), Age 55, Non-binary*
@@ -36,32 +42,26 @@ Running from a dark past that won't stay buried A family member's death has left
 - **Short Term**: Complete current contract
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Fiora Xendar the Wanderer (Professional - Mentor)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
 
-
 ### Thalia Silverleaf the Lost (Family - Parent)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ### Ewan Winterborn the Cunning (Family - Sibling)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Cedric Ironforge the Seeker (Criminal - Fence)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Hilda Oakenshield the Fallen (Criminal - Handler)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Has died and been resurrected

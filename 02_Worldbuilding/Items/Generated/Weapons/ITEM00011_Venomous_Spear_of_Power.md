@@ -1,3 +1,9 @@
+---
+aliases: ["Venomous Spear of Power", "venomous spear of power", "Power of Spear Venomous"]
+tags: [item, equipment]
+type: item
+---
+
 # Venomous Spear of Power
 
 *Weapons, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A venomous spear made of crystallized magic
 - Critical hits on 19-20
 - +2 to attack and damage rolls
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -32,7 +36,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.343Z*

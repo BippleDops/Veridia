@@ -112,7 +112,7 @@ Deep beneath [[Hadal Depth]]]], something that predates even [[Deep Mother]]]] h
 
 ## Background
 
-Ancient texts in [[The Archive of Unremembered Things]] reference a "Hunger That Devours Meaning" - something that existed in the spaces between thoughts before the world took shape. The [[Great Drowning]] didn't create this entity; it disturbed its slumber in the deepest trenches. Now, as [[Aquabyssos]] has grown and prospered, the psychic "noise" of civilization has finally roused the Maw from its eons-long dormancy.
+Ancient texts in  reference a "Hunger That Devours Meaning" - something that existed in the spaces between thoughts before the world took shape. The [[Great Drowning]] didn't create this entity; it disturbed its slumber in the deepest trenches. Now, as [[Aquabyssos]] has grown and prospered, the psychic "noise" of civilization has finally roused the Maw from its eons-long dormancy.
 
 ### [[Reality Distortion]] Effects
 
@@ -155,7 +155,7 @@ As the Maw awakens, its influence spreads:
 
 ### Session 2: Into the Depths
 
-**Location:** [[The Cerulean Trench]], [[The [[Hadal Depths]]]]  
+**Location:** [[The Cerulean Trench]], [[Hadal Depths|The [[Hadal Depths]]]]  
 **Objective:** Trace the disturbances to their source
 
 **Deep Exploration Challenges:**
@@ -205,7 +205,7 @@ Traditional combat is impossible because:
 
 **Option 2: Sacrifice Strategy**
 - Feed the Maw something so complex and contradictory it becomes "full"
-- Use [[The Archive of Unremembered Things]] as bait
+- Use  as bait
 - Sacrifice abstract concepts (like "uncertainty" or "paradox") instead of real things
 - Create a "logic bomb" that gives it intellectual indigestion
 
@@ -217,7 +217,7 @@ Traditional combat is impossible because:
 
 ## Session 3-4: The Race Against Erasure
 
-**Location:** [[Abyssos Prime]], [[The Archive of Unremembered Things]]  
+**Location:**   
 **Objective:** Implement chosen solution before reality collapse becomes irreversible
 
 ### Conceptual Barriers Approach
@@ -261,7 +261,7 @@ Traditional combat is impossible because:
 - **Memory Overload** (1/day): Can force target to relive traumatic memory, DC 14 Wis save or be stunned for 1 round
 - **Escape Artist**: Can squeeze through spaces as if one size smaller
 
-**[[[[Void Cult]]ists]]**
+**[[Void Cult|[[Void Cult]]ists]]**
 **CR 4** (1,100 XP)  
 **Medium humanoid (human), chaotic evil**
 **AS** 12 (Unarmored Defense), **HP** 45 (7d8 + 14), **Speed** 30 ft.
@@ -308,7 +308,7 @@ Traditional combat is impossible because:
 - **Ethical Dilemma**: What concepts are you willing to sacrifice forever?
 
 **Possible Sacrifices:**
-- **[[The Archive of Unremembered Things]]**: All forgotten knowledge
+- ****: All forgotten knowledge
 - **Personal Identities**: The party's own sense of self
 - **Abstract Concepts**: "War," "Hatred," "Fear" - removed from reality permanently
 - **Temporal Paradoxes**: Feed it contradictory timelines that create logical loops
@@ -349,13 +349,13 @@ Success is measured in "Reality Stability Points":
 - **[[The Cerulean Trench]]**: Major geographical feature affected by reality distortion
 - **[[Abyssos Prime]]**: [[Capital City]] experiencing memory gaps and erasure events
 - **[[Aquabyssos]]**: The underwater realm threatened by conceptual consumption
-- **[[The Archive of Unremembered Things]]**: Repository that may contain tools for fighting the Maw
+- ****: Repository that may contain tools for fighting the Maw
 - **[[The Seven Shards]]**: Ancient artifacts that might power reality-stabilization magic
 - **[[The Deep Mother]]**: Primordial entity whose relationship to the Maw is unclear
 - **[[Memory Tides]]**: Psychic phenomena that may be early signs of Maw influence
 - **[[Shadow Surgeons Collective]]**: [[Organization]] whose memory work might help or hinder
 - **[[Parliament of Echoes]]**: Government body coordinating response to the crisis
-- **[[[[Depth Warden]]s]]**: Military force losing members to erasure attacks
+- **[[Depth Warden|[[Depth Warden]]s]]**: Military force losing members to erasure attacks
 - **[[The Singing Trenches]]**: Geological formations that may resonate with void energies
 - **[[Crystal Festival]]**: Annual event that might amplify reality distortions
 - **[[Time]]**: Temporal refugee whose presence weakens dimensional barriers
@@ -366,7 +366,7 @@ Connected Adventures
 - **[[Aquabyssos]]**: [[Oracle]]'s prophecies may have warned of the Maw
 - **[[Aquabyssos]]**: Political instability weakens society's ability to respond to cosmic threats
 - **[[12 Research]]**: Political unity needed for coordinated response to existential crisis
-- **[[The Archive of Unremembered Things]]**: Contains tools for fighting conceptual threats
+- ****: Contains tools for fighting conceptual threats
 - **[[The Seven Shards]]**: Power source for reality-stabilization magic
 - **[[The Deep Mother]]**: Reveals relationship between different cosmic threats
 
@@ -411,6 +411,10 @@ Legends speak of The Maw of Darkness as a nexus where past and present converge.
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*
+
+## References
+
+- [[Pearl_Harbor_City (D&D_References)]]
+- [[The Maw of Darkness (D&D_Statblocks)]]

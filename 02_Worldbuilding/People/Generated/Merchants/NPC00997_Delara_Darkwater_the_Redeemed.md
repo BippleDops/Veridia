@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Darkwater the Redeemed", "delara darkwater the redeemed", "Delara Darkwater Redeemed", "Redeemed the Darkwater Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Darkwater the Redeemed
 
 *Half-Elf Appraiser (Merchants), Age 70, Non-binary*
@@ -36,12 +42,10 @@ Built their business from nothing through cunning and hard work A chance encount
 - **Short Term**: Find missing person
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Xander Youngblood the Mystic (Family - Cousin)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ### Idris Zephyrblade the Swift (Political - Spy)
 - **Status**: Strained but maintaining
@@ -51,7 +55,6 @@ Built their business from nothing through cunning and hard work A chance encount
 ### Thalia Ashford the Wise (Professional - Employee)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Running a cult from their basement

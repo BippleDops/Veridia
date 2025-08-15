@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Hawthorne the Swift", "wynne hawthorne the swift", "Wynne Hawthorne Swift", "Swift the Hawthorne Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Hawthorne the Swift
 
 *Tiefling Trader (Merchants), Age 43, Male*
@@ -36,7 +42,6 @@ Former adventurer who retired to open a shop A chance encounter last winter chan
 - **Short Term**: Find missing person
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Hestara Ravenheart the Lost (Personal - Ex-lover)
 - **Status**: One-sided affection
@@ -47,7 +52,6 @@ Former adventurer who retired to open a shop A chance encounter last winter chan
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Baelor Xendar the Mystic (Family - Cousin)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
@@ -56,7 +60,6 @@ Former adventurer who retired to open a shop A chance encounter last winter chan
 ### Aldric Nightfall the Swift (Professional - Partner)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Running a cult from their basement

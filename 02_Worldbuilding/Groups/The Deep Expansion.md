@@ -155,3 +155,8 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Merchant's Covenant]]
+- [[Merchant's Covenant (D&D_References)]]

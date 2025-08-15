@@ -88,3 +88,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[12 Appendix C Magic Items]]
+- [[12-appendix-c-magic-items (hoard-of-the-dragon-queen)]]
+- [[14 Appendix E Concept Gallery]]
+- [[14-appendix-e-concept-gallery (hoard-of-the-dragon-queen)]]
+- [[14 Appendix E Concept Gallery (rise-of-tiamat)]]
+- [[14-appendix-e-concept-gallery (rise-of-tiamat)]]

@@ -26,7 +26,6 @@ type: npc
 ---
 *Quick reference for [[02_Worldbuilding_Equipment_Identity_Verification_Systems]]*
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*
 ## Expansion Books & Setting Guides

@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Winterborn the Mystic", "rhiannon winterborn the mystic", "Rhiannon Winterborn Mystic", "Mystic the Winterborn Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Winterborn the Mystic
 
 *Firbolg Appraiser (Merchants), Age 35, Non-binary*
@@ -13,7 +19,6 @@
 Tall and athletic, with Short and neat unusual color hair and Blue eyes. Fair skin. Birthmark shaped like a constellation.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Sees doom and gloom everywhere
@@ -42,16 +47,13 @@ Uses their business as cover for other activities An old debt has come due at th
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Corvus Ironforge the Fallen (Criminal - Target)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Faelyn Goldleaf the Seeker (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ### Zephyr Oakenshield the Seeker (Family - Parent)
 - **Status**: One-sided affection

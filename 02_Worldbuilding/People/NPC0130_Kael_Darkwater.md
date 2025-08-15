@@ -1,11 +1,11 @@
 ---
+aliases: ["Kael Darkwater", "kael darkwater", "Darkwater Kael"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -78,7 +78,6 @@ Deception, Arcana, Perception
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 91 gold pieces
 - Letter of recommendation
@@ -92,7 +91,6 @@ Deception, Arcana, Perception
 
 ---
 *Generated: 2025-08-15T03:21:04.040Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Ravenheart the Fallen", "delara ravenheart the fallen", "Delara Ravenheart Fallen", "Fallen the Ravenheart Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Ravenheart the Fallen
 
 *Human Caravan Master (Merchants), Age 18, Non-binary*
@@ -47,11 +53,9 @@ Built their business from nothing through cunning and hard work They recently di
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Dara Jadeclaw the Lost (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Is actually a spy for foreign power

@@ -1,3 +1,9 @@
+---
+aliases: ["Divine Scepter of Truth", "divine scepter of truth", "Truth of Scepter Divine"]
+tags: [item, equipment]
+type: item
+---
+
 # Divine Scepter of Truth
 
 *Artifacts, Artifact (requires attunement)*

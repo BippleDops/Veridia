@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Goldleaf the Seeker", "lyanna goldleaf the seeker", "Lyanna Goldleaf Seeker", "Seeker the Goldleaf Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Goldleaf the Seeker
 
 *Genasi Caravan Master (Merchants), Age 21, Female*
@@ -13,7 +19,6 @@
 Towering and imposing, with Tied back brown hair and Gray eyes. Weathered skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Compulsive liar about minor things; Always tells the absolute truth; Sees doom and gloom everywhere
@@ -36,12 +41,10 @@ Former adventurer who retired to open a shop They've fallen in love with someone
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Hestara Oakenshield the Lost (Personal - Best friend)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
-
 
 ### Hilda Goldleaf the Strong (Criminal - Informant)
 - **Status**: Strained but maintaining
@@ -52,16 +55,13 @@ Former adventurer who retired to open a shop They've fallen in love with someone
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Nerys Moonshadow the Cunning (Professional - Employer)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Erasmus Ravenheart the Wise (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ### Wynne Proudmore the Swift (Professional - Mentor)
 - **Status**: Strong and trusting

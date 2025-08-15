@@ -72,3 +72,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Someone is searching for a witness for money
 - A corpse reveals ancient history about a local noble
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Dust of Sneezing and Choking Xdmg]]
+- [[dust-of-sneezing-and-choking-xdmg (items)]]
+- [[Arcana Uncommon Xdmg]]
+- [[Implements Uncommon Xdmg]]
+- [[Random Magic Items Arcana]]
+- [[Random Magic Items Implements]]
+- [[arcana-uncommon-xdmg (tables)]]
+- [[implements-uncommon-xdmg (tables)]]
+- [[random-magic-items-arcana (tables)]]
+- [[random-magic-items-implements (tables)]]

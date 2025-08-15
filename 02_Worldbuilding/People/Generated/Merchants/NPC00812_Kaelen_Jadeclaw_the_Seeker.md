@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Jadeclaw the Seeker", "kaelen jadeclaw the seeker", "Kaelen Jadeclaw Seeker", "Seeker the Jadeclaw Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Jadeclaw the Seeker
 
 *Half-Elf Caravan Master (Merchants), Age 53, Non-binary*
@@ -36,22 +42,18 @@ Former adventurer who retired to open a shop Strange abilities have begun manife
 - **Short Term**: Survive until next week
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Vesper Zephyrblade the Wise (Criminal - Target)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Gavril Dawnstrider the Redeemed (Personal - Best friend)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Hestara Oakenshield the Mystic (Family - Cousin)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Running a cult from their basement

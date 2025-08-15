@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Ashford the Fallen", "corvus ashford the fallen", "Corvus Ashford Fallen", "Fallen the Ashford Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Ashford the Fallen
 
 *Tabaxi Cleric (Adventurers), Age 66, Male*
@@ -47,11 +53,9 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Malakai Jadeclaw the Lost (Political - Patron)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
-
 
 ### Aldric Grimholt the Mystic (Family - Child)
 - **Status**: Secretly hostile
@@ -66,7 +70,6 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 ### Rhiannon Brightblade the Broken (Family - Spouse)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Is from the future

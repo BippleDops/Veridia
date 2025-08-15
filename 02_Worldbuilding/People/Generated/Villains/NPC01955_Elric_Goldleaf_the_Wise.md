@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Goldleaf the Wise", "elric goldleaf the wise", "Elric Goldleaf Wise", "Wise the Goldleaf Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Goldleaf the Wise
 
 *Gnome Dark Wizard (Villains), Age 28, Female*
@@ -36,17 +42,14 @@ Driven mad by knowledge humanity wasn't meant to know A prophetic dream has been
 - **Short Term**: Survive until next week
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Brenna Keenblade the Wise (Criminal - Accomplice)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Aeliana Oakenshield the Redeemed (Criminal - Accomplice)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ### Gavril Xendar the Scholar (Professional - Employer)
 - **Status**: Secretly hostile
@@ -57,7 +60,6 @@ Driven mad by knowledge humanity wasn't meant to know A prophetic dream has been
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Zephyr Frostwhisper the Risen (Criminal - Informant)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
@@ -66,7 +68,6 @@ Driven mad by knowledge humanity wasn't meant to know A prophetic dream has been
 ### Orion Nightfall the Mystic (Personal - Love interest)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is being controlled by darker force

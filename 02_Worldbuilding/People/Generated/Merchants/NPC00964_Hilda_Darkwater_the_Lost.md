@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Darkwater the Lost", "hilda darkwater the lost", "Hilda Darkwater Lost", "Lost the Darkwater Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Darkwater the Lost
 
 *Firbolg Trader (Merchants), Age 37, Male*
@@ -36,7 +42,6 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 - **Short Term**: Sabotage competition
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Orion Crystalbrook the Bold (Professional - Employee)
 - **Status**: Secretly hostile
@@ -51,7 +56,6 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 ### Gareth Blackstone the Fallen (Professional - Employer)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ### Aldric Nightfall the Wanderer (Family - Child)
 - **Status**: One-sided affection

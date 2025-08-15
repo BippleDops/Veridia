@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Ironforge", "alaric ironforge", "Ironforge Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Ironforge
 
 *Half-Orc Ambassador (Nobles), Age 24, Non-binary*
@@ -13,7 +19,6 @@
 Above average and athletic, with Dreadlocks white hair and Hazel eyes. Tan skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Compulsive liar about minor things; Never backs down from any challenge; Speaks to inanimate objects
@@ -36,12 +41,10 @@ Exiled from their homeland, trying to rebuild their power base An old debt has c
 - **Short Term**: Sabotage competition
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Baelor Darkwater (Political - Opposition)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ### Cedric Winterborn (Family - Child)
 - **Status**: One-sided affection
@@ -57,11 +60,9 @@ Exiled from their homeland, trying to rebuild their power base An old debt has c
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
 
-
 ### Corvus Voidwalker the Risen (Personal - Childhood friend)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Secretly funding the rebellion

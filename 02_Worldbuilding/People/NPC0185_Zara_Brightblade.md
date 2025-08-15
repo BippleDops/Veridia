@@ -1,11 +1,11 @@
 ---
+aliases: ["Zara Brightblade", "zara brightblade", "Brightblade Zara"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Grew up on the streets, learning to survive. Years ago, they accidentally discov
 ### Skills
 Athletics, Investigation, Stealth
 
-
-
 ## Possessions
 - 33 gold pieces
 - Map to unknown location
@@ -90,7 +88,6 @@ Athletics, Investigation, Stealth
 
 ---
 *Generated: 2025-08-15T03:21:04.044Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

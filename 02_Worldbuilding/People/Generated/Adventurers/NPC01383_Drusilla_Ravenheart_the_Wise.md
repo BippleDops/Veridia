@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Ravenheart the Wise", "drusilla ravenheart the wise", "Drusilla Ravenheart Wise", "Wise the Ravenheart Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Ravenheart the Wise
 
 *Tabaxi Rogue (Adventurers), Age 68, Female*
@@ -36,17 +42,14 @@ Seeking vengeance for a murdered mentor They've been marked by a secret society.
 - **Short Term**: Sabotage competition
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Idris Emberfall the Guardian (Criminal - Target)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Cedric Blackstone the Risen (Family - Cousin)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ### Faelyn Ironforge the Swift (Criminal - Handler)
 - **Status**: Recently reconciled
@@ -56,7 +59,6 @@ Seeking vengeance for a murdered mentor They've been marked by a secret society.
 ### Aeliana Ashford the Guardian (Personal - Childhood friend)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Has died and been resurrected

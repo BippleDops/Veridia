@@ -2,7 +2,7 @@
 tags: ['[[Lore]]']
 ---
 
-# [[02 Worldbuilding]]/Lore/[[Temporal Anchor Points]]
+# [[02_Worldbuilding|02 Worldbuilding]]/Lore/[[Temporal Anchor Points]]
 
 ## Overview
 

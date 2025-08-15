@@ -1,3 +1,9 @@
+---
+aliases: ["Elegant Journal of Durability", "elegant journal of durability", "Durability of Journal Elegant"]
+tags: [item, equipment]
+type: item
+---
+
 # Elegant Journal of Durability
 
 *Mundane, Common*

@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Proudmore the Cunning", "corvus proudmore the cunning", "Corvus Proudmore Cunning", "Cunning the Proudmore Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Proudmore the Cunning
 
 *Goliath Fisher (Commoners), Age 44, Female*
@@ -36,17 +42,14 @@ Survivor of a disaster that destroyed their village A family member's death has 
 - **Short Term**: Gather information
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Lyanna Nightfall the Wanderer (Criminal - Target)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Brenna Voidwalker the Cunning (Family - Parent)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ### Fiora Quicksilver the Cunning (Criminal - Fence)
 - **Status**: Secretly hostile

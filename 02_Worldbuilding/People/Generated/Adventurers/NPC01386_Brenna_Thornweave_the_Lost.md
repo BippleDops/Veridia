@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Thornweave the Lost", "brenna thornweave the lost", "Brenna Thornweave Lost", "Lost the Thornweave Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Thornweave the Lost
 
 *Half-Elf Bard (Adventurers), Age 54, Male*
@@ -36,12 +42,10 @@ Accidentally gained powers and learning to control them They recently discovered
 - **Short Term**: Gather information
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Cedric Zephyrblade the Broken (Family - Child)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
-
 
 ### Lyanna Emberfall the Lost (Political - Puppet)
 - **Status**: Strong and trusting
@@ -51,7 +55,6 @@ Accidentally gained powers and learning to control them They recently discovered
 ### Hilda Grimholt the Guardian (Family - Sibling)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Secretly working for the villain

@@ -48,3 +48,13 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[The_Crimson_Pearl]]
+- [[Harbor Master Luna Freedrift (Places)]]
+- [[Pearl_Harbor_City (Places)]]
+- [[The Pearl Markets]]
+- [[Pearl_Harbor_City (D&D_References)]]
+- [[The Crimson Pearl (D&D_References)]]
+- [[The_Crimson_Pearl (D&D_References)]]

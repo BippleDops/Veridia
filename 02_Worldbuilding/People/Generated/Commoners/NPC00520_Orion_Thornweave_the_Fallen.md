@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Thornweave the Fallen", "orion thornweave the fallen", "Orion Thornweave Fallen", "Fallen the Thornweave Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Thornweave the Fallen
 
 *Elf Baker (Commoners), Age 73, Non-binary*
@@ -36,32 +42,26 @@ Family has worked the same trade for generations, but times are changing A chanc
 - **Short Term**: Find missing person
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Xander Emberfall the Scholar (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Ewan Ironwood the Wanderer (Personal - Best friend)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ### Felicia Keenblade the Seeker (Criminal - Handler)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Delara Zephyrblade the Wanderer (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
 
-
 ### Brenna Youngblood the Fallen (Personal - Love interest)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Is the lost heir to the throne

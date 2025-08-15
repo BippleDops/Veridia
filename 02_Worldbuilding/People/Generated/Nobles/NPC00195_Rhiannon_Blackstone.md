@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Blackstone", "rhiannon blackstone", "Blackstone Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Blackstone
 
 *Tiefling Heir (Nobles), Age 59, Male*
@@ -13,7 +19,6 @@
 Tall and muscular, with Long and flowing gray hair and Amber eyes. Freckled skin. Burn scars on one side of face.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Never uses people's real names; Always hungry and eating something; Always tells the absolute truth
@@ -36,22 +41,18 @@ Exiled from their homeland, trying to rebuild their power base A prophetic dream
 - **Short Term**: Sabotage competition
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Malakai Oakenshield (Personal - Ex-lover)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
 
-
 ### Wynne Frostwhisper the Seeker (Political - Patron)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Caelum Proudmore (Professional - Rival)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
-
 
 ### Rhiannon Ironwood the Redeemed (Personal - Love interest)
 - **Status**: Professional only

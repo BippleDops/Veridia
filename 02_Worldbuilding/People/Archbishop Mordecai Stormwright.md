@@ -34,7 +34,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-archbishop-mordecai-stormwright-archbishop-mordecai-stormwright.svg)
 
@@ -42,7 +41,6 @@ improvements: 20
 
 # Archbishop Mordecai Stormwright
 *Shepherd of the Pure Light*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -239,7 +237,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -275,3 +272,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[10 Combat#dropping to 0 Hit Points#stabilizing a Creature]]
+- [[Assets Symbols Symbol Heraldry Frequency Weapons Frequency Weapons.svg]]
+- [[Assets Symbols Symbol Heraldry the Void Watchers the Void Watchers.svg]]

@@ -1,4 +1,5 @@
 ---
+aliases: ["Cursed Orb of Power", "cursed orb of power", "Power of Orb Cursed"]
 tags: [generated]
 id: ITEM0026
 created: 2025-08-15T04:09:51.085Z
@@ -19,8 +20,6 @@ Crafted from crystal with intricate runes, in recently restored. It emanates a f
 
 ## Quirk
 *Vibrates near magic*
-
-
 
 ## History
 This item was reforged from broken artifacts centuries ago. It has passed through many hands, each leaving their mark upon its destiny.

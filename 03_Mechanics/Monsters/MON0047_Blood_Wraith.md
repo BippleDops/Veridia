@@ -1,4 +1,5 @@
 ---
+aliases: ["Blood Wraith", "blood wraith", "Wraith Blood"]
 tags: [generated]
 id: MON0047_Blood_Wraith
 created: 2025-08-15T04:09:51.433Z
@@ -28,7 +29,6 @@ A twisted abomination created by dark magic
 
 ---
 *Generated: 2025-08-15T03:21:47.465Z*
-
 
 ## Habitat
 - Natural environment and territories

@@ -102,3 +102,9 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Locations Location City Dream Enhancement Techniques V1 Dream Enhancement Techniques.svg]]
+- [[Assets Locations Location City Market Master Cornelius Driftwood Market Master Cornelius Driftwood.svg]]
+- [[Assets Locations Location City Master Smith Vulcan Deepforge Master Smith Vulcan Deepforge.svg]]

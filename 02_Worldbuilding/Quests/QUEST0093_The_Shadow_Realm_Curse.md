@@ -1,4 +1,5 @@
 ---
+aliases: ["The Shadow Realm Curse", "the shadow realm curse", "Curse Realm Shadow The"]
 tags: [quest, adventure, generated]
 type: quest
 ---
@@ -21,8 +22,6 @@ Map the uncharted the sunken temple and report findings
 ### Secondary
 - Maintain cover identity
 - Establish future contacts
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they was falsely accused of a crime, which changed their life forever. Now, circumstances demand immediate action.

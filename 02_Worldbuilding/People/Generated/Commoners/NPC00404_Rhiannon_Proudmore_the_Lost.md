@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Proudmore the Lost", "rhiannon proudmore the lost", "Rhiannon Proudmore Lost", "Lost the Proudmore Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Proudmore the Lost
 
 *Tabaxi Farmer (Commoners), Age 61, Male*
@@ -36,27 +42,22 @@ Former soldier trying to adjust to civilian life They're being blackmailed by so
 - **Short Term**: Gather information
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Gavril Grimholt the Risen (Personal - Nemesis)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Urien Ashford the Swift (Political - Patron)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ### Solas Voidwalker the Mystic (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
 
-
 ### Zephyr Silverleaf (Political - Opposition)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ### Wynne Grimholt the Mystic (Family - Cousin)
 - **Status**: Strong and trusting
@@ -66,7 +67,6 @@ Former soldier trying to adjust to civilian life They're being blackmailed by so
 ### Jorah Ashford the Wise (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Can hear the thoughts of others

@@ -1,4 +1,5 @@
 ---
+aliases: ["Eldritch Crown of Shadows", "eldritch crown of shadows", "Shadows of Crown Eldritch"]
 tags: [generated]
 id: ITEM0148
 created: 2025-08-15T04:09:51.124Z
@@ -20,8 +21,6 @@ Crafted from adamantine with glowing gems, in pristine condition. It emanates a 
 
 ## Quirk
 *Attracts small animals*
-
-
 
 ## History
 This item was hidden away by its last owner ages ago. It has passed through many hands, each leaving their mark upon its destiny.

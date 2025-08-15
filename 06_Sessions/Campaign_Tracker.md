@@ -59,7 +59,6 @@ status: active
 ---------|------|-------|
 | 1 | *Date* | *Campaign start* |
 
-
 ## See Also
 - Related content
 - Similar topics

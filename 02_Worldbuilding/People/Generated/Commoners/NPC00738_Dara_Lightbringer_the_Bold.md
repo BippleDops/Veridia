@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Lightbringer the Bold", "dara lightbringer the bold", "Dara Lightbringer Bold", "Bold the Lightbringer Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Lightbringer the Bold
 
 *Human Baker (Commoners), Age 64, Male*
@@ -42,16 +48,13 @@ Survivor of a disaster that destroyed their village A family member's death has 
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Faelyn Ironwood the Lost (Criminal - Accomplice)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
 
-
 ### Cedric Grimholt the Cunning (Professional - Rival)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ### Hestara Zephyrblade the Mystic (Criminal - Fence)
 - **Status**: Mutually beneficial
@@ -61,7 +64,6 @@ Survivor of a disaster that destroyed their village A family member's death has 
 ### Orion Crystalbrook the Mystic (Political - Patron)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Is the lost heir to the throne

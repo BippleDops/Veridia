@@ -1,4 +1,5 @@
 ---
+aliases: ["Fire Guardian", "fire guardian", "Guardian Fire"]
 tags: [generated]
 id: MON0034_Fire_Guardian
 created: 2025-08-15T04:09:51.430Z
@@ -28,7 +29,6 @@ An ancient being of immense power and malevolence
 
 ---
 *Generated: 2025-08-15T03:21:47.464Z*
-
 
 ## Habitat
 - Natural environment and territories

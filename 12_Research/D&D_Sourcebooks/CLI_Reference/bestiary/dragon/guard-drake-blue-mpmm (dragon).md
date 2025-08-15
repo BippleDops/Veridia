@@ -122,3 +122,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A stranger needs help finding before the new moon
 - A shipment has gone missing and evil awakens
 - A shipment has gone missing and chaos spreads
+
+## References
+
+- [[Guard Drake Blue Mpmm]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Frostwhisper", "dara frostwhisper", "Frostwhisper Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Frostwhisper
 
 *Elf Aristocrat (Nobles), Age 56, Female*
@@ -36,12 +42,10 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Sabotage competition
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Felicia Goldleaf (Criminal - Fence)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ### Drusilla Ironforge (Personal - Ex-lover)
 - **Status**: Blood oath bound
@@ -51,7 +55,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 ### Orion Ashford the Swift (Family - Parent)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Child from scandalous affair

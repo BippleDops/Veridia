@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Proudmore the Seeker", "dara proudmore the seeker", "Dara Proudmore Seeker", "Seeker the Proudmore Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Proudmore the Seeker
 
 *Elf Noble (Nobles), Age 77, Non-binary*
@@ -13,7 +19,6 @@
 Below average and wiry, with Shaved auburn hair and Brown eyes. Freckled skin. Birthmark shaped like a constellation.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Flirts with everyone regardless of interest; Never uses people's real names
@@ -36,22 +41,18 @@ Exiled from their homeland, trying to rebuild their power base A family member's
 - **Short Term**: Sabotage competition
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Cedric Ironwood the Broken (Criminal - Target)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Drusilla Silverleaf the Guardian (Professional - Partner)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Thalia Goldleaf the Bold (Family - Child)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
-
 
 ### Cedric Grimholt the Strong (Family - Sibling)
 - **Status**: One-sided affection

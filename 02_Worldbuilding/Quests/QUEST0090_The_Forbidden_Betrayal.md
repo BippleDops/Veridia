@@ -1,4 +1,5 @@
 ---
+aliases: ["The Forbidden Betrayal", "the forbidden betrayal", "Betrayal Forbidden The"]
 tags: [quest, adventure, generated]
 type: quest
 ---

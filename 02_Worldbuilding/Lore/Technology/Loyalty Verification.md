@@ -151,3 +151,8 @@ Mentioned in The Second Prophecy of Shadows
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Crystal Forest]]
+- [[The Deep Harvest]]

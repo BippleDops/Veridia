@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Goldleaf the Strong", "orion goldleaf the strong", "Orion Goldleaf Strong", "Strong the Goldleaf Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Goldleaf the Strong
 
 *Gnome Aristocrat (Nobles), Age 64, Female*
@@ -36,32 +42,26 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Avoid the authorities
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Vesper Blackstone (Political - Spy)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
 ### Malakai Jadeclaw (Professional - Rival)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ### Baelor Moonshadow (Political - Ally)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
 
-
 ### Aldric Stormwind the Cunning (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Drusilla Hawthorne the Redeemed (Criminal - Handler)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ### Wynne Winterborn (Personal - Nemesis)
 - **Status**: Secretly hostile

@@ -70,3 +70,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Weavers Tools Xphb]]
+- [[weavers-tools-xphb (items)]]
+- [[Armor Xphb]]
+- [[Armor and Shields Armor Phb]]
+- [[armor-and-shields-armor-phb (tables)]]
+- [[armor-xphb (tables)]]

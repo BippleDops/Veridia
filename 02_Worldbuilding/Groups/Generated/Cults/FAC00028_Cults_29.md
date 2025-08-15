@@ -1,6 +1,18 @@
-# Cults 29
+---
+aliases: ["Cults 29", "cults 29", "29 Cults"]
+tags: [note, stub-fixed]
+---
 
-*Cults*
+# Fac00028 Cults 29
+
+## Content
+Content to be added.
+
+## Related
+- [[Related content]]
+
+## Notes
+*Stub file automatically populated*
 
 ---
-*ID: FAC00028*
+*Note: This content develops through gameplay and campaign events.*

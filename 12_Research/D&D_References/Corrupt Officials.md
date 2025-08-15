@@ -61,3 +61,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A noble needs help delivering before winter
 - Someone is blackmailing a witness for love
+
+## References
+
+- [[Shadow Conspiracy Investigation (Criminal_Organizations)]]
+- [[Shadow Conspiracy Investigation]]

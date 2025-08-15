@@ -85,3 +85,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Someone is protecting information for power
 - Someone is hunting an heir for power
+
+## References
+
+- [[celtic-ma-mac-lir]]

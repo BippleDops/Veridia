@@ -170,3 +170,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Flesh Golem Xmm]]
+- [[Manual of Flesh Golems Xdmg]]
+- [[manual-of-flesh-golems-xdmg (items)]]
+- [[Monsters by Habitat Any Habitat Monsters Xmm]]
+- [[Random Hag Minions Servants Vgm]]
+- [[monsters-by-habitat-any-habitat-monsters-xmm (tables)]]
+- [[random-hag-minions-servants-vgm (tables)]]

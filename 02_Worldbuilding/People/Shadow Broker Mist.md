@@ -36,7 +36,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-shadow-broker-mist-shadow-broker-mist.svg)
 
@@ -44,7 +43,6 @@ improvements: 20
 
 # Shadow Broker Mist
 *The Whisper in the Dark, She Who Sells Secrets, The Living Shadow*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -212,7 +210,6 @@ Shadow Broker Mist is a undersea element of the setting, known for bioluminescen
 
 Legends speak of Shadow Broker Mist as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Broker Mist.
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -248,3 +245,14 @@ Legends speak of Shadow Broker Mist as a nexus where past and present converge. 
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Party Shadows (Criminal_Organizations)]]
+- [[Assets Locations Location City Master Cultivator Reef Growstone V1 Master Cultivator Reef Growstone.svg]]
+- [[Assets Portraits Portrait NPC Director of Experimental Procedures Dr Siren Voidtouch Director of Experimental Procedures Dr Siren Voidtouch.svg]]
+- [[Captain Garrett Stormcutter]]
+- [[Shadow Conspiracy (People)]]
+- [[Captain Garrett Stormcutter (D&D_References)]]
+- [[Party Shadows]]
+- [[Shadow Conspiracy (D&D_References)]]

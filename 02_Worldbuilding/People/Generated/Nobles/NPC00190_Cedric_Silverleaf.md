@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Silverleaf", "cedric silverleaf", "Silverleaf Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Silverleaf
 
 *Halfling Heir (Nobles), Age 50, Non-binary*
@@ -52,16 +58,13 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
 
-
 ### Hilda Jadeclaw the Wanderer (Political - Ally)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Thalia Xendar (Personal - Childhood friend)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Actually a bastard with no real claim

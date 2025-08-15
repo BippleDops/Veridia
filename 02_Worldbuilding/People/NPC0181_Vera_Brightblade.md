@@ -1,11 +1,11 @@
 ---
+aliases: ["Vera Brightblade", "vera brightblade", "Brightblade Vera"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -75,8 +75,6 @@ Raised by monks in a remote monastery. Years ago, they witnessed something they 
 ### Skills
 Athletics, Persuasion, Stealth
 
-
-
 ## Possessions
 - 19 gold pieces
 - Mysterious key
@@ -91,7 +89,6 @@ Athletics, Persuasion, Stealth
 
 ---
 *Generated: 2025-08-15T03:21:04.044Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

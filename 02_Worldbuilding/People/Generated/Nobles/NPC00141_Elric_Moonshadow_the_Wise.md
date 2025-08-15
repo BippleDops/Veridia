@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Moonshadow the Wise", "elric moonshadow the wise", "Elric Moonshadow Wise", "Wise the Moonshadow Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Moonshadow the Wise
 
 *Human Ambassador (Nobles), Age 51, Non-binary*
@@ -36,22 +42,18 @@ Recently elevated to nobility through service, still learning courtly ways They 
 - **Short Term**: Complete current contract
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Elric Dawnstrider (Criminal - Fence)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Dara Keenblade (Family - Cousin)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
 
-
 ### Jorah Darkwater (Criminal - Fence)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ### Dara Hawthorne (Personal - Childhood friend)
 - **Status**: Blood oath bound

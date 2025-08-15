@@ -1,11 +1,11 @@
 ---
+aliases: ["Brenna Darkwater", "brenna darkwater", "Darkwater Brenna"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -74,8 +74,6 @@ Grew up on the streets, learning to survive. Years ago, they survived a plague t
 ### Skills
 Arcana, Persuasion
 
-
-
 ## Possessions
 - 38 gold pieces
 - Book of poetry
@@ -90,7 +88,6 @@ Arcana, Persuasion
 
 ---
 *Generated: 2025-08-15T03:21:04.039Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

@@ -198,3 +198,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A noble needs help investigating before the festival
 - Strange dreams suggest a portal
 - A shipment has gone missing and evil awakens
+
+## References
+
+- [[Ancient Gold Dragon Xmm]]
+- [[Grassland Encounters Levels 1720 Xge]]
+- [[Monsters by Habitat Grassland Monsters Xmm]]
+- [[grassland-encounters-levels-1720-xge (tables)]]
+- [[monsters-by-habitat-grassland-monsters-xmm (tables)]]

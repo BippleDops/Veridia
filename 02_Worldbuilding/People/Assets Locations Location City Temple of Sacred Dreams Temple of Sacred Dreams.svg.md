@@ -187,3 +187,7 @@ This NPC can serve multiple roles:
 ## Bloodline
 
 Member of House Lionblood - Trait: divine blood
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-nerida-stormcrest-captain-nerida-stormcrest.svg]]

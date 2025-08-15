@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Emberfall the Guardian", "fiora emberfall the guardian", "Fiora Emberfall Guardian", "Guardian the Emberfall Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Emberfall the Guardian
 
 *Tabaxi Corrupt Noble (Villains), Age 44, Non-binary*
@@ -13,7 +19,6 @@
 Short and imposing, with Braided elaborately auburn hair and Red eyes. Unusual hue skin. Missing finger on left hand.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Never uses people's real names; Compulsive liar about minor things; Collects unusual and worthless objects
@@ -36,37 +41,30 @@ Believes their evil acts serve a greater good Strange abilities have begun manif
 - **Short Term**: Avoid the authorities
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Corvus Voidwalker the Cunning (Professional - Employer)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Gareth Ironforge the Scholar (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ### Qadim Voidwalker the Swift (Criminal - Target)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
 
-
 ### Felicia Keenblade the Fallen (Professional - Partner)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ### Felicia Goldleaf the Wanderer (Political - Puppet)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
 
-
 ### Ysara Grimholt the Cunning (Family - Sibling)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Knows how the world will end

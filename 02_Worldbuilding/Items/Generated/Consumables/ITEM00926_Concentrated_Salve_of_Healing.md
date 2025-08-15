@@ -1,3 +1,9 @@
+---
+aliases: ["Concentrated Salve of Healing", "concentrated salve of healing", "Healing of Salve Concentrated"]
+tags: [item, equipment]
+type: item
+---
+
 # Concentrated Salve of Healing
 
 *Consumables, Uncommon*
@@ -14,8 +20,6 @@ A concentrated salve glowing softly
 - Fly for 1 hour
 - Fly for 1 hour
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -30,7 +34,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.439Z*

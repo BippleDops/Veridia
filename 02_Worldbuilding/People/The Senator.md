@@ -34,7 +34,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-senator-the-senator.svg)
 
@@ -592,7 +591,6 @@ Mentioned in The Hidden Prophecy of Shadows
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -628,3 +626,10 @@ Mentioned in The Hidden Prophecy of Shadows
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Assets Portraits Portrait NPC Lady Seraphina Goldleaf Lady Seraphina Goldleaf.svg]]
+- [[Assets Portraits Portrait NPC Weaponsmith Captain Marcus Sharpedge V1 Weaponsmith Captain Marcus Sharpedge.svg]]
+- [[Assets Symbols Symbol Heraldry the Unnamed Watcher the Unnamed Watcher.svg]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Quicksilver the Mystic", "baelor quicksilver the mystic", "Baelor Quicksilver Mystic", "Mystic the Quicksilver Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Quicksilver the Mystic
 
 *Gnome Caravan Master (Merchants), Age 26, Female*
@@ -36,22 +42,18 @@ Uses their business as cover for other activities A family member's death has le
 - **Short Term**: Make this month's payment
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Kaelen Frostwhisper the Cunning (Criminal - Fence)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
 
-
 ### Gareth Dawnstrider the Guardian (Professional - Rival)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Baelor Oakenshield the Swift (Political - Ally)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Running a cult from their basement

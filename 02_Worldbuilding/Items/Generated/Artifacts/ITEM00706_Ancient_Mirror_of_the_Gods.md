@@ -1,3 +1,9 @@
+---
+aliases: ["Ancient Mirror of the Gods", "ancient mirror of the gods", "Ancient Mirror of Gods", "Gods the of Mirror Ancient"]
+tags: [item, equipment]
+type: item
+---
+
 # Ancient Mirror of the Gods
 
 *Artifacts, Very Rare*
@@ -16,8 +22,6 @@ A ancient mirror pulsing with inner light
 - Time stop 1/week
 - Plane shift 1/day
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -32,7 +36,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.418Z*

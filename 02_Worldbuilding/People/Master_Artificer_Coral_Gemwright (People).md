@@ -26,7 +26,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -142,7 +141,6 @@ Master_Artificer_Coral_Gemwright presents a distinctive figure. Their bearing su
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
 ## Secrets
 - Hidden information about this character
 - Unknown connections or past events
@@ -234,7 +232,6 @@ This NPC can serve multiple roles:
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -270,3 +267,7 @@ This NPC can serve multiple roles:
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-war-room-sanctuary-the-war-room-sanctuary.svg]]

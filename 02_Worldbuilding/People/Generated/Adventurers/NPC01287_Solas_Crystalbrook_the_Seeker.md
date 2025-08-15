@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Crystalbrook the Seeker", "solas crystalbrook the seeker", "Solas Crystalbrook Seeker", "Seeker the Crystalbrook Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Crystalbrook the Seeker
 
 *Firbolg Cleric (Adventurers), Age 24, Non-binary*
@@ -13,7 +19,6 @@
 Towering and athletic, with Braided elaborately unusual color hair and Brown eyes. Fair skin. Burn scars on one side of face.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Always speaks in metaphors and riddles; Compulsive liar about minor things; Collects unusual and worthless objects
@@ -42,21 +47,17 @@ Chosen by fate to fulfill an ancient prophecy An old debt has come due at the wo
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Cedric Ironwood the Bold (Personal - Best friend)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ### Jorah Nightfall the Mystic (Criminal - Informant)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Dara Grimholt the Wise (Professional - Partner)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Carries a world-ending artifact

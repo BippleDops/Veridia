@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Ironforge the Seeker", "lyanna ironforge the seeker", "Lyanna Ironforge Seeker", "Seeker the Ironforge Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Ironforge the Seeker
 
 *Half-Elf Baker (Commoners), Age 53, Non-binary*
@@ -36,7 +42,6 @@ Survivor of a disaster that destroyed their village A chance encounter last wint
 - **Short Term**: Avoid the authorities
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Erasmus Blackstone (Criminal - Accomplice)
 - **Status**: Strong and trusting
@@ -51,7 +56,6 @@ Survivor of a disaster that destroyed their village A chance encounter last wint
 ### Hestara Xendar (Political - Patron)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Is the lost heir to the throne

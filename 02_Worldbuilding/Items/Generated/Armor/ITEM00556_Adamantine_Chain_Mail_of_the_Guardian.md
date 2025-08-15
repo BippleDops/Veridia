@@ -1,3 +1,9 @@
+---
+aliases: ["Adamantine Chain Mail of the Guardian", "adamantine chain mail of the guardian", "Adamantine Chain Mail of Guardian", "Guardian the of Mail Chain Adamantine"]
+tags: [item, equipment]
+type: item
+---
+
 # Adamantine Chain Mail of the Guardian
 
 *Armor, Very Rare*
@@ -16,8 +22,6 @@ A adamantine chain mail shimmering with energy
 - No stealth disadvantage
 - Immunity to critical hits
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -32,7 +36,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.393Z*

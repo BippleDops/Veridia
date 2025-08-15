@@ -316,3 +316,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A corpse reveals ancient history about this place
 - A map reveals a conspiracy about this place
 - A journal reveals a betrayal about this place
+
+## References
+
+- [[Establish New World Order (Orders)]]
+- [[Aethermoor - Session 08 Between Two Worlds]]
+- [[Establish New World Order]]

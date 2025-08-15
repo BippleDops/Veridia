@@ -93,7 +93,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -112,4 +111,26 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[mage-armor-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[mage-armor-xphb (spells)|mage-armor-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Firenewt Warlock of Imix Mpmm]]
+- [[firenewt-warlock-of-imix-mpmm (elemental)]]
+- [[aerisi-kalinoth-pota (npc)]]
+- [[npc - Aerisi Kalinoth Pota]]
+- [[Deathlock Mastermind Mpmm]]
+- [[Deathlock Mpmm]]
+- [[Deathlock Wight Mpmm]]
+- [[deathlock-mastermind-mpmm (undead)]]
+- [[deathlock-mpmm (undead)]]
+- [[deathlock-wight-mpmm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cube of Force Xdmg]]
+- [[Staff of Defense Lmop]]
+- [[cube-of-force-xdmg (items)]]
+- [[staff-of-defense-lmop (items)]]
+- [[Armor of Shadows Xphb]]
+- [[armor-of-shadows-xphb (optional-features)]]

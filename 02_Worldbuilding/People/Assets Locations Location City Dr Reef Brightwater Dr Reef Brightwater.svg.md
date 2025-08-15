@@ -222,3 +222,9 @@ This NPC can serve multiple roles:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-stellar-confluence-the-stellar-confluence.svg]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-sunken-observatory-the-sunken-observatory.svg]]
+- [[04_Resources_Assets_Locations_location-city-surge-mixmaster-surge-mixmaster.png]]

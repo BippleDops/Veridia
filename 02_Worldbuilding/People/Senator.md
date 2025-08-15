@@ -135,7 +135,6 @@ Standing 5'6" with an aristocratic bearing, Cordelia adorns herself in the fines
 
 She represents the Deepcurrent District, the wealthiest area of Aquabyssos, where the most influential families maintain their ancestral coral mansions. Her political philosophy centers on maintaining Aquabyssos's independence while carefully managing the delicate relationship with surface dwellers and the growing shadow threat.
 
-
 ## Stats
 - **AC**: 12
 - **HP**: 22 (4d8)
@@ -182,7 +181,6 @@ She represents the Deepcurrent District, the wealthiest area of Aquabyssos, wher
 **Primary**: Maintain Aquabyssos's stability while positioning herself for greater power
 **Secondary**: Modernize the government without triggering revolution or civil war
 **Hidden**: Prove that political solutions can triumph over both shadow corruption and military force
-
 
 ## Secrets
 - Hidden information about this character
@@ -317,7 +315,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -353,3 +350,26 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[02_Worldbuilding_People_Senator_Nereon_Tidecaller]]
+- [[Comprehensive-World-Connection-Guide]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure]]
+- [[Political Intrigue Master Index]]
+- [[Senator Economic Shadow]]
+- [[Senator Shadow-Glaucus]]
+- [[The Bathyal Succession]]
+- [[The Original Senators]]
+- [[Assets Locations Location City Grief Overwhelming Syndrome Grief Overwhelming Syndrome.svg]]
+- [[Ice Kingdom Spirits]]
+- [[Memoriam - The Forgotten Continent]]
+- [[Senator Abyssos Traditionkeeper]]
+- [[Senator Bartholomew Bonewright]]
+- [[Senator Marina Tidecaller]]
+- [[Senator's Private Chambers]]
+- [[Senator's Widow Marcella]]
+- [[Tenebrarum Embassy]]
+- [[Rescue Senator Glaucus]]
+- [[The Maw of Darkness]]
+- [[Ice Kingdom Spirits (D&D_References)]]

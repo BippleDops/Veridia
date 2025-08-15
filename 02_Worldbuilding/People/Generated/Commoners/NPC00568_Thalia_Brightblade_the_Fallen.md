@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Brightblade the Fallen", "thalia brightblade the fallen", "Thalia Brightblade Fallen", "Fallen the Brightblade Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Brightblade the Fallen
 
 *Gnome Fisher (Commoners), Age 21, Male*
@@ -36,12 +42,10 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Short Term**: Gather information
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Hilda Nightfall the Seeker (Family - Cousin)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
-
 
 ### Kaelen Quicksilver the Scholar (Family - Spouse)
 - **Status**: Recently reconciled
@@ -52,11 +56,9 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Delara Underhill the Swift (Professional - Employee)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Knows location of ancient treasure

@@ -1,4 +1,5 @@
 ---
+aliases: ["Blessed Blade of Shadows", "blessed blade of shadows", "Shadows of Blade Blessed"]
 tags: [generated]
 id: ITEM0129
 created: 2025-08-15T04:09:51.118Z
@@ -19,8 +20,6 @@ Crafted from starfall iron with glowing gems, in showing age but sturdy. It eman
 
 ## Quirk
 *Attracts small animals*
-
-
 
 ## History
 This item was forged during the War of Shadows millennia ago. It has passed through many hands, each leaving their mark upon its destiny.

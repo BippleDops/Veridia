@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Silverleaf the Lost", "kaelen silverleaf the lost", "Kaelen Silverleaf Lost", "Lost the Silverleaf Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Silverleaf the Lost
 
 *Firbolg Farmer (Commoners), Age 40, Male*
@@ -13,7 +19,6 @@
 Short and imposing, with Wild and unkempt black hair and Violet eyes. Scarred skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Speaks to inanimate objects
@@ -36,12 +41,10 @@ Survivor of a disaster that destroyed their village They've made a deal they're 
 - **Short Term**: Find missing person
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Faelyn Blackstone the Seeker (Personal - Childhood friend)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ### Drusilla Jadeclaw the Broken (Family - Cousin)
 - **Status**: Complicated history

@@ -1,4 +1,5 @@
 ---
+aliases: ["Divine Shield of Power", "divine shield of power", "Power of Shield Divine"]
 tags: [generated]
 id: ITEM0011
 created: 2025-08-15T04:09:51.080Z

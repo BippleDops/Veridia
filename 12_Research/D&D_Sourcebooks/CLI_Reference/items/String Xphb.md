@@ -77,3 +77,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A stranger needs help investigating before winter
 - Someone is protecting an heir for money
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Weavers Tools Xphb]]
+- [[weavers-tools-xphb (items)]]

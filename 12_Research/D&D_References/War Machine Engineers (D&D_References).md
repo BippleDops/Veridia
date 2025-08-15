@@ -1,5 +1,5 @@
 ---
-title: War Machine Engineers (D&D_References)
+title: [[War Machine Engineers|War Machine Engineers]] (D&D_References)
 type: note
 tags:
 - note
@@ -11,7 +11,7 @@ modified: '2025-01-15'
 
 ---
 title: War Machine Engineers
-type: Location
+type: [[location|location]]
 tags:
 - both
 - active
@@ -39,15 +39,15 @@ danger_level: Moderate
 
 - Add 12_Research-specific enhancement
 
-## Player-Facing Summary
+## Player-[[facing|facing]] Summary
 
 War Machine Engineers is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore|Lore]] Details
 
-Legends speak of War Machine Engineers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around War Machine Engineers.
+Legends speak of War Machine Engineers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or [[Whispers|Whispers]] on the wind—that herald change around War Machine Engineers.
 
-## DM Notes
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -71,3 +71,6 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+---
+**Navigation**: [[INDEX|🏠 Home]] | [[INDEX|📚 Index]]

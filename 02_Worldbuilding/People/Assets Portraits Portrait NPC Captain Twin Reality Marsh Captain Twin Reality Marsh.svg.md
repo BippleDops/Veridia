@@ -209,3 +209,8 @@ Member of House Eagleblood - Trait: prophecy
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-depth-cardinal-wisdom-voidseeke-depth-cardinal-wisdom-voidseeke.svg]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-umbral-exchange-the-umbral-exchange.svg]]

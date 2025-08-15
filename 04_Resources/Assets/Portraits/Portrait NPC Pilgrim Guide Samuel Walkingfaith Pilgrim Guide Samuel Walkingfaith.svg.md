@@ -91,3 +91,7 @@ Mentioned in The First Prophecy of Stars
 
 - The authorities needs help delivering before the festival
 - A merchant needs help delivering before winter
+
+## References
+
+- [[Assets Locations Location City Quartermaster Judith Steadfast V1 Quartermaster Judith Steadfast.svg]]

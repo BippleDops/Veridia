@@ -1,3 +1,9 @@
+---
+aliases: ["Blazing Bow of Slaying", "blazing bow of slaying", "Slaying of Bow Blazing"]
+tags: [item, equipment]
+type: item
+---
+
 # Blazing Bow of Slaying
 
 *Weapons, Rare*
@@ -15,8 +21,6 @@ A blazing bow forged from meteoric iron
 - Critical hits on 19-20
 - Grants advantage on initiative
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -31,7 +35,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.357Z*

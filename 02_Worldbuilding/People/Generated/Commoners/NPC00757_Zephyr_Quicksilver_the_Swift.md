@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Quicksilver the Swift", "zephyr quicksilver the swift", "Zephyr Quicksilver Swift", "Swift the Quicksilver Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Quicksilver the Swift
 
 *Human Carpenter (Commoners), Age 19, Non-binary*
@@ -13,7 +19,6 @@
 Towering and stocky, with Long and flowing gray hair and Hazel eyes. Freckled skin. Unusual eye color for their race.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Sees doom and gloom everywhere
@@ -36,7 +41,6 @@ Former soldier trying to adjust to civilian life They've fallen in love with som
 - **Short Term**: Sabotage competition
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Baelor Nightfall the Fallen (Criminal - Target)
 - **Status**: Secretly hostile
@@ -47,16 +51,13 @@ Former soldier trying to adjust to civilian life They've fallen in love with som
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Zephyr Winterborn the Broken (Criminal - Handler)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Drusilla Darkwater the Strong (Political - Patron)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Witnessed a noble's crime

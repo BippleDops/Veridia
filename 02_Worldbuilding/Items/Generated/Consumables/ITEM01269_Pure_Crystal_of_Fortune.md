@@ -1,3 +1,9 @@
+---
+aliases: ["Pure Crystal of Fortune", "pure crystal of fortune", "Fortune of Crystal Pure"]
+tags: [item, equipment]
+type: item
+---
+
 # Pure Crystal of Fortune
 
 *Consumables, Rare*
@@ -15,8 +21,6 @@ A pure crystal glowing softly
 - Breathe underwater 1 hour
 - Fly for 1 hour
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -31,7 +35,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.472Z*

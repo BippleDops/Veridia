@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Darkwater the Guardian", "qadim darkwater the guardian", "Qadim Darkwater Guardian", "Guardian the Darkwater Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Darkwater the Guardian
 
 *Dwarf Assassin (Villains), Age 70, Non-binary*
@@ -36,7 +42,6 @@ Betrayed by those they trusted, now seeking revenge on the world A chance encoun
 - **Short Term**: Gather information
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Rhiannon Keenblade the Risen (Family - Cousin)
 - **Status**: On the verge of collapse
@@ -47,11 +52,9 @@ Betrayed by those they trusted, now seeking revenge on the world A chance encoun
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Hestara Goldleaf the Wise (Family - Sibling)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Was once a renowned hero

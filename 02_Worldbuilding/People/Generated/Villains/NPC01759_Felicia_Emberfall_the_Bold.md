@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Emberfall the Bold", "felicia emberfall the bold", "Felicia Emberfall Bold", "Bold the Emberfall Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Emberfall the Bold
 
 *Tiefling Corrupt Noble (Villains), Age 68, Non-binary*
@@ -36,7 +42,6 @@ Born into evil but questioning their path They've been marked by a secret societ
 - **Short Term**: Gather information
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Idris Ironwood the Cunning (Personal - Best friend)
 - **Status**: Strong and trusting
@@ -47,11 +52,9 @@ Born into evil but questioning their path They've been marked by a secret societ
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Brenna Ironwood the Seeker (Family - Parent)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
-
 
 ### Orion Proudmore the Guardian (Political - Opposition)
 - **Status**: Professional only

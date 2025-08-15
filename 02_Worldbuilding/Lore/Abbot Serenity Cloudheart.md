@@ -96,3 +96,7 @@ Abbot Serenity Cloudheart represents a crucial aspect of the world's history, co
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Session 06 the Sky Throne]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Greater Crystal of Vigor", "greater crystal of vigor", "Vigor of Crystal Greater"]
+tags: [item, equipment]
+type: item
+---
+
 # Greater Crystal of Vigor
 
 *Consumables, Common*
@@ -13,8 +19,6 @@ A greater crystal emanating sweet fragrance
 ## Properties
 - Restore 4d4+4 hit points
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -29,7 +33,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.462Z*

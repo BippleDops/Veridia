@@ -89,3 +89,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Barbarian Xphb]]
+- [[barbarian-xphb (classes)]]
+- [[Orcsplitter Pota]]
+- [[Pathfinders Greataxe Pota]]
+- [[orcsplitter-pota (items)]]
+- [[pathfinders-greataxe-pota (items)]]
+- [[Weapons Phb]]
+- [[Weapons Xphb]]
+- [[weapons-phb (tables)]]
+- [[weapons-xphb (tables)]]

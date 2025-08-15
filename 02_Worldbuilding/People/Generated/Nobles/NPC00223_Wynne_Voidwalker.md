@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Voidwalker", "wynne voidwalker", "Voidwalker Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Voidwalker
 
 *Tabaxi Ambassador (Nobles), Age 22, Non-binary*
@@ -36,12 +42,10 @@ Exiled from their homeland, trying to rebuild their power base A family member's
 - **Short Term**: Make this month's payment
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Erasmus Crystalbrook the Strong (Professional - Rival)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
-
 
 ### Gavril Nightfall the Lost (Family - Parent)
 - **Status**: Blood oath bound
@@ -51,7 +55,6 @@ Exiled from their homeland, trying to rebuild their power base A family member's
 ### Cedric Zephyrblade the Redeemed (Criminal - Accomplice)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Child from scandalous affair

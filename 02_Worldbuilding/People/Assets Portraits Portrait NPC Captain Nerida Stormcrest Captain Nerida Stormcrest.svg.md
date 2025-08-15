@@ -179,7 +179,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[Warrior-Priest Abyss-Sworn]] (friend)
-- [[Foreign Trader Captain Hassan al Rimal]] (rival)
+- [[Portrait NPC Foreign Trader Captain Hassan Al Rimal Foreign Trader Captain Hassan Al Rimal.svg|Foreign Trader Captain Hassan al Rimal]] (rival)
 - [[04_Resources_Assets_Locations_location-city-master-archivist-valdric-stonewhisper-master-archivist-valdric-stonewhisper.svg]] (ally)
 ---
 *Tags*: #npc #contact #worldbuilding
@@ -211,3 +211,7 @@ This NPC can serve multiple roles:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-master-archivist-valdric-stonewhisper-master-archivist-valdric-stonewhisper.svg]]

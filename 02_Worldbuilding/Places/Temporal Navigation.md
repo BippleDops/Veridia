@@ -466,7 +466,6 @@ A PC inherits a mysterious device that allows manipulation of local time, but us
 
 **Temporal Navigation** represents one of the most sophisticated and dangerous aspects of [[Aquabyssos]] culture, where the crushing depths of the ocean create the perfect conditions for bending the very fabric of time itself, allowing those brave or foolish enough to navigate the currents of past and future.
 
-
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
@@ -505,13 +504,11 @@ Temporal Navigation is a notable location characterized by its unique features a
 ### Founding
 Temporal Navigation was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -532,7 +529,6 @@ Ongoing situations affecting Temporal Navigation:
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -569,3 +565,14 @@ Mentioned in The Hidden Prophecy of Shadows
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Temporal Anomaly Resolution]]
+- [[The Recursion Cult]]
+- [[The Maw of Darkness]]
+- [[The Whispering Expanse]]
+- [[Discover Marina's Truth]]
+- [[Find the Grief Bomb (D&D_Statblocks)]]
+- [[The Maw of Darkness (D&D_Statblocks)]]
+- [[The Whispering Expanse (D&D_Statblocks)]]

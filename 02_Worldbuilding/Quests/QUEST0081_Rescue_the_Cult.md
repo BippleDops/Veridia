@@ -1,4 +1,5 @@
 ---
+aliases: ["Rescue the Cult", "rescue the cult", "Rescue Cult", "Cult the Rescue"]
 tags: [generated]
 id: QUEST0081
 created: 2025-08-15T04:09:51.410Z
@@ -22,8 +23,6 @@ Eliminate the cult leader before they can complete the ritual
 ### Secondary
 - Minimize civilian casualties
 - Gather intelligence on enemy plans
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they was falsely accused of a crime, which changed their life forever. Now, circumstances demand immediate action.

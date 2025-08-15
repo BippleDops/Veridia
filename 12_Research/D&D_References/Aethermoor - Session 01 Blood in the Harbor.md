@@ -133,7 +133,7 @@ The party arrives at the harbor as dock workers use hooks to pull something from
 ### Closing Scene
 **Location:** Party's lodgings
 **Cliffhanger:** 
-Investigation reveals all clues point to the abandoned [[Lighthouse of Storms]] on [[Whisper Island]]. As night falls, a pillar of violet light erupts from the lighthouse, visible across the entire harbor. The light pulses three times, and every plague victim in the city screams simultaneously.
+Investigation reveals all clues point to the abandoned [[Lighthouse_of_Storms|Lighthouse of Storms]] on [[Whisper Island]]. As night falls, a pillar of violet light erupts from the lighthouse, visible across the entire harbor. The light pulses three times, and every plague victim in the city screams simultaneously.
 
 ### Combat
 | Encounter | Location | Difficulty | Outcome |

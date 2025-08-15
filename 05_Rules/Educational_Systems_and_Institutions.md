@@ -1,6 +1,5 @@
 ---
 
-
 title: Educational Systems and Institutions
 type: mechanics
 tags:
@@ -259,7 +258,6 @@ Elena tries to jump while carrying an unconscious ally in heavy rain. DC increas
 | Hard | d20+mod | 20 | Serious consequence |
 | Extreme | d20+mod | 25 | Catastrophic |
 
-
 ## Common Mistakes
 *Frequent misunderstandings to avoid*
 
@@ -293,3 +291,7 @@ Elena tries to jump while carrying an unconscious ally in heavy rain. DC increas
 ### Common Table Rulings
 - Document house rules clearly
 - Maintain consistency across sessions
+
+## References
+
+- [[Child Life in the Realms]]

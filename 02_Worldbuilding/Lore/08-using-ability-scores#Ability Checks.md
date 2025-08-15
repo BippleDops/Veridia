@@ -48,3 +48,8 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## [[DM_Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Quick_Reference - DnD5e-SideScreen-2014]]
+- [[Reference Quick Reference Dnd5e Sidescreen 2014]]

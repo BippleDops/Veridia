@@ -45,3 +45,10 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Ulitharid Mpmm]]
+- [[ulitharid-mpmm (aberration)]]
+- [[3 Bestiary]]
+- [[3-bestiary (volos-guide-to-monsters)]]

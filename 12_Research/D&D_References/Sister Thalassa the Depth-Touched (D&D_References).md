@@ -78,3 +78,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Quest - The Convergence Crisis]]
+- [[Emperor Thalassius the Wise]]
+- [[Memory Harvester Kythara]]
+- [[Pressure Angel Benthia]]
+- [[Emperor Thalassius the Wise (D&D_Statblocks)]]
+- [[Memory Harvester Kythara (D&D_Statblocks)]]
+- [[Pressure Angel Benthia (D&D_Statblocks)]]

@@ -179,7 +179,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[Working Class Citizens]] (rival)
-- [[Mirror Breaking Crystals]] (friend)
+- [[Assets Portraits Portrait NPC Mirror Breaking Crystals Mirror Breaking Crystals.svg|Mirror Breaking Crystals]] (friend)
 - [[Sister Morwyn Veilkeeper]] (friend)
 ---
 *Tags*: #npc #contact #worldbuilding

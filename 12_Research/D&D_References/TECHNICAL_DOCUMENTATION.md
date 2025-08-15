@@ -972,3 +972,7 @@ This technical documentation provides the foundation for understanding, maintain
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[$available space  lt 2]]

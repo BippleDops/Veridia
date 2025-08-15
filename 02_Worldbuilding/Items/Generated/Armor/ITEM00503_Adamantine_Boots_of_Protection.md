@@ -1,3 +1,9 @@
+---
+aliases: ["Adamantine Boots of Protection", "adamantine boots of protection", "Protection of Boots Adamantine"]
+tags: [item, equipment]
+type: item
+---
+
 # Adamantine Boots of Protection
 
 *Armor, Rare*

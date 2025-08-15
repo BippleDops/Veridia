@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Jadeclaw the Swift", "thalia jadeclaw the swift", "Thalia Jadeclaw Swift", "Swift the Jadeclaw Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Jadeclaw the Swift
 
 *Half-Orc Broker (Merchants), Age 34, Female*
@@ -13,7 +19,6 @@
 Very short and slender, with Braided elaborately unusual color hair and Blue eyes. Weathered skin. Constantly changing hair color.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Always hungry and eating something; Sees doom and gloom everywhere
@@ -36,37 +41,30 @@ Built their business from nothing through cunning and hard work They're being bl
 - **Short Term**: Sabotage competition
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Corvus Crystalbrook the Guardian (Family - Child)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
 
-
 ### Hestara Underhill the Lost (Political - Patron)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ### Xander Keenblade the Scholar (Family - Spouse)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
 
-
 ### Corvus Voidwalker the Broken (Professional - Mentor)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ### Fiora Goldleaf the Broken (Political - Spy)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Pyria Underhill the Lost (Political - Patron)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Smuggles illegal magical items

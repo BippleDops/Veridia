@@ -184,7 +184,7 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[The Deepmind Conspiracy]] (ally)
 - [[NPC Reaction Matrix]] (rival)
-- [[Captain Tempest Eye Marelda]] (rival)
+- [[Portrait NPC Captain Tempest Eye Marelda Captain Tempest Eye Marelda.svg|Captain Tempest Eye Marelda]] (rival)
 ---
 *Tags*: #npc #contact #worldbuilding
 

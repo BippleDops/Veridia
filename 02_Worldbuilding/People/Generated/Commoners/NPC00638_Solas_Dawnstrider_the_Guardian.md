@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Dawnstrider the Guardian", "solas dawnstrider the guardian", "Solas Dawnstrider Guardian", "Guardian the Dawnstrider Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Dawnstrider the Guardian
 
 *Aasimar Carpenter (Commoners), Age 45, Male*
@@ -52,11 +58,9 @@ Survivor of a disaster that destroyed their village An old debt has come due at 
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
 
-
 ### Corvus Youngblood the Fallen (Family - Cousin)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Can hear the thoughts of others

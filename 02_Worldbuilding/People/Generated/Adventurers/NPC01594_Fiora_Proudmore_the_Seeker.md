@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Proudmore the Seeker", "fiora proudmore the seeker", "Fiora Proudmore Seeker", "Seeker the Proudmore Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Proudmore the Seeker
 
 *Dragonborn Bard (Adventurers), Age 44, Non-binary*
@@ -13,7 +19,6 @@
 Above average and imposing, with Tied back black hair and Green eyes. Tan skin. Gold tooth that glints when smiling.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Speaks to inanimate objects
@@ -36,7 +41,6 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 - **Short Term**: Make this month's payment
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Orion Goldleaf the Scholar (Personal - Childhood friend)
 - **Status**: Strong and trusting
@@ -47,11 +51,9 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Jorah Proudmore the Strong (Personal - Ex-lover)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ### Zephyr Dawnstrider the Strong (Professional - Employer)
 - **Status**: One-sided affection
@@ -61,7 +63,6 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 ### Zephyr Goldleaf the Guardian (Family - Parent)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Has died and been resurrected

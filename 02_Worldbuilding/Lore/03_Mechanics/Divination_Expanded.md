@@ -110,3 +110,9 @@ improvements: 20
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[The Reflection Pools]]
+- [[03_Mechanics_Divination_Expanded]]
+- [[The Reflection Pools (D&D_Statblocks)]]

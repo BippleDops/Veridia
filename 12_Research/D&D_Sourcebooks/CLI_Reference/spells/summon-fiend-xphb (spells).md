@@ -110,4 +110,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[summon-fiend-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[fiend|summon-fiend-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]

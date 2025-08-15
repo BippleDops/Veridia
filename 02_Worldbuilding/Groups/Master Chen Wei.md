@@ -368,3 +368,13 @@ Mentioned in The Second Prophecy of Shadows
 ### Membership
 - **Size**: *[Approximate number of members]*
 - **Recruitment**: *[How they recruit new members]*
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Major Trading Companies]]
+- [[Merchant Princes]]
+- [[Economic Warfare and Trade Sanctions]]
+- [[Major Trading Companies (D&D_References)]]
+- [[Master Chen Wei (D&D_References)]]
+- [[Merchant Princes (D&D_References)]]

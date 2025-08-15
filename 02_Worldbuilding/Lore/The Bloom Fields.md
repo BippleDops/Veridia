@@ -58,7 +58,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -169,7 +169,7 @@ Sophisticated systems managing water movement to optimize organism health and gr
 
 ### Primary Cultivation Species
 
-**Glow[[[[Kelp Forest]]s]] (Laminarialis luminescens):**
+**Glow[[Kelp Forest|[[Kelp Forest]]s]] (Laminarialis luminescens):**
 Massive underwater kelp forests that produce sustained bioluminescent illumination:
 
 **Growth Characteristics:**
@@ -251,7 +251,7 @@ Integration of [[Crystal Forest]] technology with traditional bioluminescent cul
 **Applications and Benefits:**
 - **High-Intensity Illumination**: Lighting systems providing brightness approaching surface daylight levels
 - **Magical Applications**: Organisms producing bioluminescence with magical properties and effects
-- **[[Communication Systems]]**: Light-based communication enabling complex information transmission
+- **[[Communication_Systems|Communication Systems]]**: Light-based communication enabling complex information transmission
 - **Artistic Applications**: Decorative and aesthetic uses creating spectacular environmental displays
 - **Research Applications**: Organisms serving as living laboratories for studying crystal-biological interactions
 
@@ -557,7 +557,7 @@ Adventures focused on protecting Bloom Fields from various threats:
 **Character Roles:**
 Different character types contributing to field protection efforts:
 - **Marine Biologists**: Scientists with expertise in organism health and ecosystem management
-- **[[Environmental Engineers]]**: Technical specialists designing solutions to environmental challenges
+- **[[Environmental_Engineers|Environmental Engineers]]**: Technical specialists designing solutions to environmental challenges
 - **Security Personnel**: Protectors defending fields from hostile activities and threats
 - **Medical Specialists**: Healthcare providers treating diseased organisms and affected communities
 - **Community Organizers**: Leaders coordinating community responses to environmental challenges
@@ -615,7 +615,7 @@ Working with Bloom Fields provides unique opportunities for character developmen
 ### Key Personnel
 
 - **[[Master Cultivator Luminos Deepglow]]**: Director of Bioluminescent Agriculture
-- **[[Field Supervisor [[Coral]] Lightweaver]]**: Manager of daily field operations
+- **[[Coral|Field Supervisor [[Coral]] Lightweaver]]**: Manager of daily field operations
 - **[[Research Director Spectrum Bloomwright]]**: Leader of field research programs
 - **[[Community Organizer Current Communalspirit]]**: Leader of [[Field Worker Communities]]
 - **[[Conservation Director Ecosystem Protector]]**: Manager of field environmental protection
@@ -630,7 +630,7 @@ The Bloom Fields is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of The Bloom Fields as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Bloom Fields.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -662,3 +662,8 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[The Seven Shards (D&D_References)]]
+- [[The Seven Shards 3 (D&D_References)]]

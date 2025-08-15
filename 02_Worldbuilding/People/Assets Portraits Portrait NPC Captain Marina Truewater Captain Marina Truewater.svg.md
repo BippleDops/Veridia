@@ -212,3 +212,8 @@ Member of House Serpentblood - Trait: magical affinity
 - Civil war
 - Natural disasters
 - Current power structures established
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-code-wars-the-code-wars.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-merchant-captain-tobias-stormwind-merchant-captain-tobias-stormwind.svg]]

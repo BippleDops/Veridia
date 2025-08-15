@@ -1,6 +1,18 @@
-# Cults 12
+---
+aliases: ["Cults 12", "cults 12", "12 Cults"]
+tags: [note, stub-fixed]
+---
 
-*Cults*
+# Fac00011 Cults 12
+
+## Content
+Content to be added.
+
+## Related
+- [[Related content]]
+
+## Notes
+*Stub file automatically populated*
 
 ---
-*ID: FAC00011*
+*Note: This content develops through gameplay and campaign events.*

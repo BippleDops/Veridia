@@ -55,3 +55,7 @@ Contextual improvement based on 07_Player_Resources
 ## 07_Player_Resources Specific Content
 
 Contextual improvement based on 07_Player_Resources
+
+## References
+
+- [[caltrop]]

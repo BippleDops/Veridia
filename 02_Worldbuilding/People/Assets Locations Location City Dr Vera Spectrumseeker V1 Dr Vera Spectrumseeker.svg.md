@@ -225,3 +225,8 @@ Member of House Dragonblood - Trait: magical affinity
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-captain-marcus-v1-captain-marcus.svg]]
+- [[04_Resources_Assets_Locations_location-city-quartermaster-judith-supplycurrent-v1-quartermaster-judith-supplycurrent.svg]]

@@ -122,3 +122,7 @@ improvements: 20
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Assets Symbols Symbol Heraldry Master Trader Darkmarke Master Trader Darkmarke.svg]]

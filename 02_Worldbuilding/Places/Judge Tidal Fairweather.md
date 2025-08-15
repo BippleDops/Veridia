@@ -124,13 +124,11 @@ Judge Tidal Fairweather is a notable location characterized by its unique featur
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -138,13 +136,11 @@ Judge Tidal Fairweather is a notable location characterized by its unique featur
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -220,7 +216,6 @@ Mentioned in The Hidden Prophecy of Stars
 - 20% middle class
 - 79% working poor
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -256,3 +251,8 @@ Mentioned in The Hidden Prophecy of Stars
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[The Phosphor Markets]]
+- [[The Phosphor Markets (D&D_References)]]

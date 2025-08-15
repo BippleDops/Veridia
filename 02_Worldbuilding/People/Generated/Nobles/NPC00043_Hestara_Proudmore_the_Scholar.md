@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Proudmore the Scholar", "hestara proudmore the scholar", "Hestara Proudmore Scholar", "Scholar the Proudmore Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Proudmore the Scholar
 
 *Tiefling Ambassador (Nobles), Age 75, Non-binary*
@@ -36,12 +42,10 @@ Recently elevated to nobility through service, still learning courtly ways A fam
 - **Short Term**: Make this month's payment
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Faelyn Stormwind the Swift (Professional - Rival)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ### Gavril Jadeclaw the Wanderer (Professional - Mentor)
 - **Status**: Professional only
@@ -61,7 +65,6 @@ Recently elevated to nobility through service, still learning courtly ways A fam
 ### Alaric Jadeclaw (Professional - Employer)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Child from scandalous affair

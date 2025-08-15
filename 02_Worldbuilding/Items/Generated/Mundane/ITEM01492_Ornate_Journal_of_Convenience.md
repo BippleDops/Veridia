@@ -1,3 +1,9 @@
+---
+aliases: ["Ornate Journal of Convenience", "ornate journal of convenience", "Convenience of Journal Ornate"]
+tags: [item, equipment]
+type: item
+---
+
 # Ornate Journal of Convenience
 
 *Mundane, Common*

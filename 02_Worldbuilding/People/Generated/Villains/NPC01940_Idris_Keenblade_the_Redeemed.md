@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Keenblade the Redeemed", "idris keenblade the redeemed", "Idris Keenblade Redeemed", "Redeemed the Keenblade Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Keenblade the Redeemed
 
 *Aasimar Crime Boss (Villains), Age 30, Male*
@@ -47,11 +53,9 @@ Betrayed by those they trusted, now seeking revenge on the world They've made a 
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
 
-
 ### Aeliana Ravenheart the Mystic (Family - Sibling)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
-
 
 ### Lyanna Ironforge the Redeemed (Family - Parent)
 - **Status**: Strong and trusting
@@ -61,7 +65,6 @@ Betrayed by those they trusted, now seeking revenge on the world They've made a 
 ### Corvus Crystalbrook the Strong (Criminal - Fence)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Knows how the world will end

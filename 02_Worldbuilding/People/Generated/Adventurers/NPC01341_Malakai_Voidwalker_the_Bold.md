@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Voidwalker the Bold", "malakai voidwalker the bold", "Malakai Voidwalker Bold", "Bold the Voidwalker Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Voidwalker the Bold
 
 *Half-Orc Rogue (Adventurers), Age 31, Non-binary*
@@ -42,11 +48,9 @@ Running from a dark past that won't stay buried A prophetic dream has been haunt
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
 
-
 ### Baelor Thornweave the Redeemed (Family - Sibling)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ### Alaric Youngblood the Guardian (Personal - Best friend)
 - **Status**: Mutually beneficial

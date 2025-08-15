@@ -181,7 +181,7 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[Shadow Brokers]] (rival)
 - [[Lord Admiral Gaius Windcutter]] (enemy)
-- [[Quest   The Sanctuary's Secret]] (ally)
+- [[sanctuary|Quest   The Sanctuary's Secret]] (ally)
 ---
 *Tags*: #npc #contact #worldbuilding
 

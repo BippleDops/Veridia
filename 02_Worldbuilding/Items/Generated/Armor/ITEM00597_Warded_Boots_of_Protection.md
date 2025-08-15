@@ -1,3 +1,9 @@
+---
+aliases: ["Warded Boots of Protection", "warded boots of protection", "Protection of Boots Warded"]
+tags: [item, equipment]
+type: item
+---
+
 # Warded Boots of Protection
 
 *Armor, Common*

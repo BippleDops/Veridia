@@ -1,3 +1,9 @@
+---
+aliases: ["Primordial Chalice of the Gods", "primordial chalice of the gods", "Primordial Chalice of Gods", "Gods the of Chalice Primordial"]
+tags: [item, equipment]
+type: item
+---
+
 # Primordial Chalice of the Gods
 
 *Artifacts, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A primordial chalice covered in mysterious symbols
 - Grant true sight
 - Telepathy 120 ft
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -32,7 +36,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.425Z*

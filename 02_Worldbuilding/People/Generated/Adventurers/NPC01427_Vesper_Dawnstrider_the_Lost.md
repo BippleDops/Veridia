@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Dawnstrider the Lost", "vesper dawnstrider the lost", "Vesper Dawnstrider Lost", "Lost the Dawnstrider Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Dawnstrider the Lost
 
 *Tiefling Cleric (Adventurers), Age 52, Female*
@@ -36,7 +42,6 @@ Searching for a legendary treasure their parent died seeking Strange abilities h
 - **Short Term**: Avoid the authorities
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Qadim Moonshadow the Broken (Family - Spouse)
 - **Status**: One-sided affection
@@ -46,7 +51,6 @@ Searching for a legendary treasure their parent died seeking Strange abilities h
 ### Jorah Jadeclaw the Broken (Criminal - Target)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ### Urien Keenblade the Wanderer (Family - Spouse)
 - **Status**: Secretly hostile

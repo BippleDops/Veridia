@@ -45,3 +45,11 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Devastation Orb Pota]]
+- [[Tinderstrike Pota]]
+- [[devastation-orb-pota (items)]]
+- [[tinderstrike-pota (items)]]

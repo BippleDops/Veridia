@@ -55,7 +55,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -99,7 +99,7 @@ improvements: 20
 
 ## Overview
 
-Memory alteration in [[Aquabyssos]] has grown from therapeutic necessity to widespread social phenomenon, but this technological advancement comes with severe unintended consequences. What began as medical treatment for [[[[[[Time]]line]] of [[The Drowning]]]] trauma has created a cascade of psychological, social, and even physical problems that threaten the very fabric of Aquabyssian civilization. The consequences range from individual identity crisis to societal [[Reality Distortion]], with effects that compound across generations.
+Memory alteration in [[Aquabyssos]] has grown from therapeutic necessity to widespread social phenomenon, but this technological advancement comes with severe unintended consequences. What began as medical treatment for [[Time|[[[[Time]]line]] of [[The Drowning]]]] trauma has created a cascade of psychological, social, and even physical problems that threaten the very fabric of Aquabyssian civilization. The consequences range from individual identity crisis to societal [[Reality Distortion]], with effects that compound across generations.
 
 ### Immediate Physical Effects
 
@@ -517,7 +517,7 @@ Memory alteration in [[Aquabyssos]] has grown from therapeutic necessity to wide
   - [[International Relations]] complicated by diplomatic memory inconsistencies
   - Military operations requiring new approaches when personnel memories unreliable
 
-**[[Economic System]] Transformation:**
+**[[Economic_System|Economic System]] Transformation:**
 - **Description**: Economic structures adapting to memory-based uncertainty
 - **Adaptations**:
   - Development of verification-based currencies and trading systems
@@ -749,7 +749,7 @@ Memory Alteration Consequences is a undersea element of the setting, known for b
 
 Legends speak of Memory Alteration Consequences as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memory Alteration Consequences.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -778,3 +778,17 @@ Different cultures interpret this lore through their own lens, creating variatio
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[Silver Mask]]
+- [[The Crimson Hand]]
+- [[The Forgetting Bomb]]
+- [[Silver Mask (D&D_References)]]
+- [[The Crimson Hand (D&D_References)]]
+- [[The Crimson Hand 3 (D&D_References)]]
+- [[The Final Choice (D&D_References)]]
+- [[The Final Choice 3 (D&D_References)]]
+- [[The Forgetting Bomb (D&D_References)]]
+- [[The Restoration Movement (D&D_References)]]
+- [[The Silverscale Conspiracy (D&D_References)]]

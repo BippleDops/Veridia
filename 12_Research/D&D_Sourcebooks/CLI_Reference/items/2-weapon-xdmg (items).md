@@ -191,3 +191,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Figurine of Wondrous Power Ivory Goats Xdmg]]
+- [[figurine-of-wondrous-power-ivory-goats-xdmg (items)]]
+- [[Armaments Rare Xdmg]]
+- [[Magic Item Table G]]
+- [[Random Magic Items Armaments]]
+- [[armaments-rare-xdmg (tables)]]
+- [[magic-item-table-g (tables)]]
+- [[random-magic-items-armaments (tables)]]

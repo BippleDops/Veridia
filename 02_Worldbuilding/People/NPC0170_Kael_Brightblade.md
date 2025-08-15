@@ -1,11 +1,11 @@
 ---
+aliases: ["Kael Brightblade", "kael brightblade", "Brightblade Kael"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -77,7 +77,6 @@ Insight, Perception, Stealth, Deception
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 22 gold pieces
 - Book of poetry
@@ -92,7 +91,6 @@ Insight, Perception, Stealth, Deception
 
 ---
 *Generated: 2025-08-15T03:21:04.043Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

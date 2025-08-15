@@ -34,8 +34,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
-
 ## Relationships
 - **Allies**: Notable allies and friends
 - **Rivals**: Competitors and rivals  
@@ -236,7 +234,6 @@ Member of House Dragonblood - Trait: prophecy
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -306,3 +303,8 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City Master Smith Vulcan Deepforge V1 Master Smith Vulcan Deepforge.svg]]
+- [[Assets Locations Location City the Dreamwhisper Inn V1 the Dreamwhisper Inn.svg]]

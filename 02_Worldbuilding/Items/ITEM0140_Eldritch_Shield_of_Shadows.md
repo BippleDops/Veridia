@@ -1,4 +1,5 @@
 ---
+aliases: ["Eldritch Shield of Shadows", "eldritch shield of shadows", "Shadows of Shield Eldritch"]
 tags: [generated]
 id: ITEM0140
 created: 2025-08-15T04:09:51.122Z
@@ -19,8 +20,6 @@ Crafted from dragonscale with intricate runes, in recently restored. It emanates
 
 ## Quirk
 *Occasionally speaks in ancient tongue*
-
-
 
 ## History
 This item was blessed by the gods themselves decades ago. It has passed through many hands, each leaving their mark upon its destiny.

@@ -134,3 +134,8 @@ improvements: 20
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Shadow Magic Integration Practices]]
+- [[The Festival of Rising Tides]]

@@ -49,7 +49,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -260,7 +260,7 @@ The truth about Memoriam should remain uncertain. Even the DM shouldn't be entir
 ---
 
 *"This journal entry is the only proof I have that Memoriam exists. By the time you read this, you'll have forgotten where you found it. By the time I reread it, I'll have forgotten I wrote it. But somewhere, nowhere, and everywhere, an entire continent of people lives, dies, and forgets, and forgetting, forgets to forget."*
-— Found carved into [[...]]
+— Found carved into [[Quest Corruption in ... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements|...]]
 
 ## Player-Facing Summary
 
@@ -290,13 +290,11 @@ Memoriam - The Forgotten Continent is a notable location characterized by its un
 ### Founding
 Memoriam - The Forgotten Continent was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -304,13 +302,11 @@ Memoriam - The Forgotten Continent was established in the distant past, growing 
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -345,7 +341,6 @@ Ongoing situations affecting Memoriam - The Forgotten Continent:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions

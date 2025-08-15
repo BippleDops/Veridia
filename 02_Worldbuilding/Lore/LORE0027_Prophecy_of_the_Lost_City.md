@@ -1,4 +1,5 @@
 ---
+aliases: ["Prophecy of the Lost City", "prophecy of the lost city", "Prophecy of Lost City", "City Lost the of Prophecy"]
 tags: [generated]
 id: LORE0027_Prophecy_of_the_Lost_City
 created: 2025-08-15T04:09:51.135Z

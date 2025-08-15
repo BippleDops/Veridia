@@ -1,6 +1,5 @@
 ---
 
-
 title: 07_Player_Resources/Quick_Start_Guide
 type: lore
 tags:
@@ -105,7 +104,6 @@ improvements: 20
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## See Also
 - Related content

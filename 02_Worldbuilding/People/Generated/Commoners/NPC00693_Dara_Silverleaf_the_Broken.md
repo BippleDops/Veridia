@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Silverleaf the Broken", "dara silverleaf the broken", "Dara Silverleaf Broken", "Broken the Silverleaf Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Silverleaf the Broken
 
 *Halfling Baker (Commoners), Age 36, Male*
@@ -13,7 +19,6 @@
 Very tall and stocky, with Dreadlocks black hair and Red eyes. Fair skin. Burn scars on one side of face.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Constantly quotes ancient texts; Flirts with everyone regardless of interest
@@ -47,11 +52,9 @@ Runaway from an arranged marriage, starting a new life An old debt has come due 
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Idris Keenblade the Risen (Family - Parent)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Can hear the thoughts of others

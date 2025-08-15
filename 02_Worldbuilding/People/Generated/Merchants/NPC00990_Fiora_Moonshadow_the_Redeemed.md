@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Moonshadow the Redeemed", "fiora moonshadow the redeemed", "Fiora Moonshadow Redeemed", "Redeemed the Moonshadow Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Moonshadow the Redeemed
 
 *Half-Elf Caravan Master (Merchants), Age 32, Male*
@@ -36,22 +42,18 @@ Inherited a failing business and turned it around An old debt has come due at th
 - **Short Term**: Make this month's payment
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Zephyr Ravenheart the Wise (Professional - Rival)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
 
-
 ### Pyria Moonshadow the Broken (Political - Spy)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Caelum Emberfall the Scholar (Professional - Rival)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Killed previous business owner

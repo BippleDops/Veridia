@@ -114,3 +114,8 @@ improvements: 20
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[Comprehensive-World-Connection-Guide]]
+- [[The Transformed Citizens]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Enchanted Chain Mail of Grace", "enchanted chain mail of grace", "Grace of Mail Chain Enchanted"]
+tags: [item, equipment]
+type: item
+---
+
 # Enchanted Chain Mail of Grace
 
 *Armor, Rare*
@@ -15,8 +21,6 @@ A enchanted chain mail shimmering with energy
 - Immunity to critical hits
 - Resistance to one damage type
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -31,7 +35,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.387Z*

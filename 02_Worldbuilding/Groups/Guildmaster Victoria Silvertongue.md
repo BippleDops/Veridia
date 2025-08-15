@@ -62,3 +62,10 @@ This content can be adapted and expanded based on specific campaign needs.
 ### Membership
 - **Size**: *[Approximate number of members]*
 - **Recruitment**: *[How they recruit new members]*
+
+## References
+
+- [[Quest - The Blackmail Papers_1 (01_Adventures)]]
+- [[Quest - The Blackmail Papers_2 (01_Adventures)]]
+- [[Quest - The Truth Unveiled]]
+- [[Quest - The Truth Unveiled_1 (01_Adventures)]]

@@ -1,11 +1,11 @@
 ---
+aliases: ["Gareth Goldleaf", "gareth goldleaf", "Goldleaf Gareth"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -75,8 +75,6 @@ Child of farmers who sought adventure. Years ago, they lost everything in a fire
 ### Skills
 Deception, Persuasion, Investigation, Perception
 
-
-
 ## Possessions
 - 46 gold pieces
 - Map to unknown location
@@ -88,7 +86,6 @@ Deception, Persuasion, Investigation, Perception
 
 ---
 *Generated: 2025-08-15T03:20:13.081Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

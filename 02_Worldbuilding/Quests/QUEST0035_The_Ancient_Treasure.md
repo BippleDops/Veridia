@@ -1,4 +1,5 @@
 ---
+aliases: ["The Ancient Treasure", "the ancient treasure", "Treasure Ancient The"]
 tags: [generated]
 id: QUEST0035
 created: 2025-08-15T04:09:51.383Z
@@ -21,8 +22,6 @@ Discover the truth behind the disappearances
 
 ### Secondary
 - Gather intelligence on enemy plans
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they once saved a noble's life and earned their favor, which changed their life forever. Now, circumstances demand immediate action.
@@ -59,8 +58,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Show mercy and gain intel - Future ally but justice denied
 2. Execute for crimes committed - Justice served but opportunity lost
-
-
 
 ## Rewards
 ### On Success

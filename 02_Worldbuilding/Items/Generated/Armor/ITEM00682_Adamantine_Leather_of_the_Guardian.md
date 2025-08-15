@@ -1,3 +1,9 @@
+---
+aliases: ["Adamantine Leather of the Guardian", "adamantine leather of the guardian", "Adamantine Leather of Guardian", "Guardian the of Leather Adamantine"]
+tags: [item, equipment]
+type: item
+---
+
 # Adamantine Leather of the Guardian
 
 *Armor, Uncommon*
@@ -14,8 +20,6 @@ A adamantine leather crafted from exotic materials
 - Grants swimming speed
 - Grants swimming speed
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -30,7 +34,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.416Z*

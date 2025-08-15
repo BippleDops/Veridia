@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Emberfall", "branwen emberfall", "Emberfall Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Emberfall
 
 *Half-Elf Noble (Nobles), Age 48, Non-binary*
@@ -13,7 +19,6 @@
 Short and muscular, with Tied back white hair and Brown eyes. Freckled skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Collects unusual and worthless objects; Never uses people's real names
@@ -47,7 +52,6 @@ Recently elevated to nobility through service, still learning courtly ways They 
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
 
-
 ### Orion Ironforge the Wanderer (Criminal - Fence)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
@@ -57,11 +61,9 @@ Recently elevated to nobility through service, still learning courtly ways They 
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
 
-
 ### Alaric Keenblade (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ### Alaric Goldleaf the Strong (Criminal - Target)
 - **Status**: Strong and trusting

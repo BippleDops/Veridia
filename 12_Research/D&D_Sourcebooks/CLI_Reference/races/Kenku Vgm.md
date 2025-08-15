@@ -157,3 +157,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Strange disappearances suggest ancient magic
 - A stranger needs help investigating before the festival
 - Someone is blackmailing a witness for love
+
+## References
+
+- [[2 Character Races]]
+- [[2-character-races (volos-guide-to-monsters)]]
+- [[Height and Weight Vgm]]
+- [[height-and-weight-vgm (tables)]]

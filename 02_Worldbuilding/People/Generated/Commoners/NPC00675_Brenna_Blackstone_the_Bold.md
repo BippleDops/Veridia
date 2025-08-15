@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Blackstone the Bold", "brenna blackstone the bold", "Brenna Blackstone Bold", "Bold the Blackstone Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Blackstone the Bold
 
 *Goliath Fisher (Commoners), Age 19, Non-binary*
@@ -13,7 +19,6 @@
 Average height and lanky, with Long and flowing white hair and Brown eyes. Olive skin. Burn scars on one side of face.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Laughs at the most inappropriate times
@@ -36,12 +41,10 @@ Runaway from an arranged marriage, starting a new life Strange abilities have be
 - **Short Term**: Survive until next week
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Aeliana Emberfall the Broken (Professional - Employer)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ### Baelor Voidwalker the Scholar (Family - Child)
 - **Status**: Secretly hostile
@@ -51,7 +54,6 @@ Runaway from an arranged marriage, starting a new life Strange abilities have be
 ### Aeliana Ravenheart the Lost (Personal - Childhood friend)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Can hear the thoughts of others

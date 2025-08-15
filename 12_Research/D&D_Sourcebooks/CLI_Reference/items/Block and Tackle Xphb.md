@@ -78,3 +78,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Someone is hunting a witness for power
 - A document has gone missing and war looms
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Masons Tools Xphb]]
+- [[block-and-tackle-xphb (items)]]
+- [[masons-tools-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

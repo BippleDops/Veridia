@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Silverleaf the Strong", "felicia silverleaf the strong", "Felicia Silverleaf Strong", "Strong the Silverleaf Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Silverleaf the Strong
 
 *Genasi Carpenter (Commoners), Age 36, Male*
@@ -36,12 +42,10 @@ Survivor of a disaster that destroyed their village Strange abilities have begun
 - **Short Term**: Recruit new members
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Aeliana Crystalbrook the Scholar (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ### Urien Keenblade the Mystic (Family - Sibling)
 - **Status**: Strained but maintaining
@@ -52,11 +56,9 @@ Survivor of a disaster that destroyed their village Strange abilities have begun
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
 
-
 ### Elric Underhill the Wanderer (Professional - Partner)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Has dragon blood in their veins

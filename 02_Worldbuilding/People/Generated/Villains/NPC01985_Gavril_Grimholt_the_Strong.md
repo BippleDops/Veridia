@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Grimholt the Strong", "gavril grimholt the strong", "Gavril Grimholt Strong", "Strong the Grimholt Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Grimholt the Strong
 
 *Human Crime Boss (Villains), Age 28, Female*
@@ -13,7 +19,6 @@
 Short and stocky, with Mohawk blonde hair and Blue eyes. Pale skin. Gold tooth that glints when smiling.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Incredibly optimistic despite evidence; Always tells the absolute truth
@@ -36,7 +41,6 @@ Born into evil but questioning their path A chance encounter last winter changed
 - **Short Term**: Gather information
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Lyanna Keenblade the Bold (Professional - Mentor)
 - **Status**: Secretly hostile
@@ -47,11 +51,9 @@ Born into evil but questioning their path A chance encounter last winter changed
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Solas Darkwater the Seeker (Criminal - Accomplice)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ### Ysara Ironforge the Broken (Personal - Childhood friend)
 - **Status**: Mutually beneficial
@@ -62,11 +64,9 @@ Born into evil but questioning their path A chance encounter last winter changed
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
 
-
 ### Aeliana Ravenheart the Redeemed (Criminal - Accomplice)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Has a child they're protecting

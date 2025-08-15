@@ -18,7 +18,7 @@ tags:
 - ttrpg-cli/monster/size/medium
 - both
 - ttrpg-cli/monster/type/humanoid/human
-- ttrpg-cli/compendium/src/5e/oota
+- ttrpg-cli/[[Compendium|Compendium]]/src/5e/oota
 - alive
 - npc
 - research
@@ -38,13 +38,13 @@ world: Both
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-aljanor-keenblade-oota-aljanor-keenblade-oota.svg)
+![]([[04_Resources|04_Resources]]/[[Assets|Assets]]/Creatures/creature-creature-[[aljanor-keenblade-oota|aljanor-keenblade-oota]]-aljanor-keenblade-oota.svg)
 
 # [[aljanor-keenblade-oota|Aljanor Keenblade]]
 *Source: Out of the Abyss p. 149*  
 
 ```statblock
-"name": "Aljanor Keenblade (OotA)"
+"[[Name|Name]]": "Aljanor Keenblade (OotA)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
@@ -62,13 +62,13 @@ world: Both
 "saves":
   - "constitution": !!int "4"
   - "wisdom": !!int "2"
-"senses": "passive Perception 10"
+"[[senses|senses]]": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "3"
 "traits":
-  - "desc": "Aljanor has advantage on saving throws against being [[conditions#frightened|frightened]]."
+  - "desc": "Aljanor has advantage on [[Saving Throws|Saving Throws]] against being [[Conditions|Conditions]]#frightened|frightened]]."
     "name": "Brave"
-"actions":
+"[[actions|actions]]":
   - "desc": "Aljanor makes two melee attacks."
     "name": "Multiattack"
   - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10\
@@ -81,7 +81,7 @@ world: Both
       \ a nonhostile creature that it can see within 30 feet of it makes an attack\
       \ roll or a saving throw. The creature can add a d4 to its roll provided it\
       \ can hear and understand Aljanor. A creature can benefit from only one Leadership\
-      \ die at a time. This effect ends if Aljanor is [[conditions#Incapacitated|incapacitated]]."
+      \ die at a time. This effect ends if Aljanor is [[[[conditions#Incapacitated|conditions#Incapacitated]]|incapacitated]]."
     "name": "Leadership (Recharges after a Short or Long Rest)"
 "reactions":
   - "desc": "Aljanor adds 2 to its AC against one melee attack that would hit it.\
@@ -89,7 +89,7 @@ world: Both
     "name": "Parry"
 "source":
   - "OotA"
-"image": "/03_Mechanics/CLI/bestiary/npc/token/aljanor-keenblade-oota.webp"
+"image": "/03_Mechanics/CLI/[[Bestiary|Bestiary]]/npc/token/aljanor-keenblade-oota.webp"
 ```
 ^statblock
 
@@ -105,15 +105,15 @@ world: Both
 
 - Add 12_Research-specific enhancement
 
-## Player-Facing Summary
+## Player-[[facing|facing]] Summary
 
 Aljanor keenblade oota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore|Lore]] Details
 
-Legends speak of aljanor keenblade oota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around aljanor keenblade oota.
+Legends speak of aljanor keenblade oota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or [[Whispers|Whispers]] on the wind—that herald change around aljanor keenblade oota.
 
-## DM Notes
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -143,3 +143,6 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+---
+**Navigation**: [[INDEX|🏠 Home]] | [[Npc|👥 NPCs]] | [[INDEX|📚 Index]]

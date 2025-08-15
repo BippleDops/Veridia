@@ -168,3 +168,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Clay Golem Xmm]]
+- [[Murgaxor Scc]]
+- [[murgaxor-scc (legendary-group)]]
+- [[Manual of Clay Golems Xdmg]]
+- [[manual-of-clay-golems-xdmg (items)]]
+- [[Monsters by Habitat Urban Monsters Xmm]]
+- [[monsters-by-habitat-urban-monsters-xmm (tables)]]

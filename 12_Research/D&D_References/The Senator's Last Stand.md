@@ -209,3 +209,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Senator_Glaucus_Brain (People)]]
+- [[Senator_Glaucus_Brain (D&D_References)]]

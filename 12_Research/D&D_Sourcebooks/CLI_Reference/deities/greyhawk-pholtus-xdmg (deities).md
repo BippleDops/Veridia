@@ -77,3 +77,8 @@ Mentioned in The First Prophecy of Winds
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Gods of Greyhawk Xdmg]]
+- [[gods-of-greyhawk-xdmg (tables)]]

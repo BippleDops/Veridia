@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Voidwalker the Fallen", "zephyr voidwalker the fallen", "Zephyr Voidwalker Fallen", "Fallen the Voidwalker Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Voidwalker the Fallen
 
 *Tiefling Farmer (Commoners), Age 36, Male*
@@ -36,7 +42,6 @@ Runaway from an arranged marriage, starting a new life They've made a deal they'
 - **Short Term**: Survive until next week
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Aldric Brightblade the Strong (Political - Spy)
 - **Status**: Strong and trusting
@@ -47,21 +52,17 @@ Runaway from an arranged marriage, starting a new life They've made a deal they'
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Corvus Blackstone the Cunning (Family - Cousin)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ### Jorah Winterborn the Scholar (Professional - Partner)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Aeliana Dawnstrider the Scholar (Professional - Employer)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Witnessed a noble's crime

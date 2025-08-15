@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Keenblade", "nerys keenblade", "Keenblade Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Keenblade
 
 *Half-Orc Aristocrat (Nobles), Age 22, Female*
@@ -36,27 +42,22 @@ Last survivor of a fallen house, seeking to restore family honor They're being b
 - **Short Term**: Avoid the authorities
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Brenna Xendar (Professional - Rival)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Fiora Underhill (Professional - Rival)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
-
 
 ### Felicia Stormwind (Professional - Rival)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Aldric Ravenheart the Strong (Criminal - Informant)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Actually a bastard with no real claim

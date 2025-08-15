@@ -172,3 +172,19 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[banshee-xmm (undead)]]
+- [[Coastal Encounters Levels 1116 Xge]]
+- [[Coastal Encounters Levels 14 Xge]]
+- [[Forest Encounters Levels 1116 Xge]]
+- [[Forest Encounters Levels 14 Xge]]
+- [[Forest Encounters Levels 510 Xge]]
+- [[Monsters by Habitat Any Habitat Monsters Xmm]]
+- [[coastal-encounters-levels-1116-xge (tables)]]
+- [[coastal-encounters-levels-14-xge (tables)]]
+- [[forest-encounters-levels-1116-xge (tables)]]
+- [[forest-encounters-levels-14-xge (tables)]]
+- [[forest-encounters-levels-510-xge (tables)]]
+- [[monsters-by-habitat-any-habitat-monsters-xmm (tables)]]

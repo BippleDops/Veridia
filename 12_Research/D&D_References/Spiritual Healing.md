@@ -62,3 +62,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Related content
 - Similar topics
 - Connected elements
+
+## References
+
+- [[Mourning Depths]]
+- [[Mourning Depths (D&D_References)]]

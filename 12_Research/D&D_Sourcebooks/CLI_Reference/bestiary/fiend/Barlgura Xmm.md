@@ -150,3 +150,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[barlgura-xmm (fiend)]]
+- [[Summon Greater Demon Xge]]
+- [[summon-greater-demon-xge (spells)]]
+- [[Creating a Gnoll War Band Gnoll War Band Special Creatures Vgm]]
+- [[Pets Beholder Greater Minions Vgm]]
+- [[pets-beholder-greater-minions-vgm (tables)]]

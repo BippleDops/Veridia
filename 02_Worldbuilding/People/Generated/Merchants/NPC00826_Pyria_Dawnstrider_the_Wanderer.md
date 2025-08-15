@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Dawnstrider the Wanderer", "pyria dawnstrider the wanderer", "Pyria Dawnstrider Wanderer", "Wanderer the Dawnstrider Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Dawnstrider the Wanderer
 
 *Half-Elf Appraiser (Merchants), Age 48, Male*
@@ -47,11 +53,9 @@ Built their business from nothing through cunning and hard work A family member'
 - **Status**: Complicated history
 - **History**: United by common enemy
 
-
 ### Rhiannon Ravenheart the Strong (Political - Spy)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ### Dara Darkwater the Scholar (Personal - Ex-lover)
 - **Status**: Blood oath bound
@@ -61,7 +65,6 @@ Built their business from nothing through cunning and hard work A family member'
 ### Brenna Dawnstrider the Lost (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Sells information to all sides

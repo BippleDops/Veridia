@@ -58,3 +58,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Session 4 (06_Sessions)]]
+- [[Crown Dome Conspiracy (D&D_References)]]
+- [[Shadow Parliament (D&D_References)]]
+- [[Syndicate War (D&D_References)]]
+- [[The Coral Throne Syndicate (D&D_References)]]
+- [[The Cure (D&D_References)]]

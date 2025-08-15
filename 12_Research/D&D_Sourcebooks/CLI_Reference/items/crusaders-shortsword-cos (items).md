@@ -86,3 +86,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Someone is searching for a artifact for money
 - Strange disappearances suggest a portal
 - A corpse reveals ancient history about this place
+
+## References
+
+- [[Master_Item_Catalog]]

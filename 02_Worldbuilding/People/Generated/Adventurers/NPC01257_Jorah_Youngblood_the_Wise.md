@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Youngblood the Wise", "jorah youngblood the wise", "Jorah Youngblood Wise", "Wise the Youngblood Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Youngblood the Wise
 
 *Dwarf Wizard (Adventurers), Age 68, Male*
@@ -36,7 +42,6 @@ Searching for a legendary treasure their parent died seeking They've been marked
 - **Short Term**: Survive until next week
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Gareth Stormwind the Risen (Criminal - Target)
 - **Status**: Blood oath bound
@@ -46,7 +51,6 @@ Searching for a legendary treasure their parent died seeking They've been marked
 ### Lyanna Ravenheart the Lost (Professional - Rival)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ### Corvus Jadeclaw the Scholar (Political - Opposition)
 - **Status**: On the verge of collapse

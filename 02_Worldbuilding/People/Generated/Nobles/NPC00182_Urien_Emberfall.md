@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Emberfall", "urien emberfall", "Emberfall Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Emberfall
 
 *Gnome Courtier (Nobles), Age 38, Non-binary*
@@ -36,32 +42,26 @@ Last survivor of a fallen house, seeking to restore family honor They've made a 
 - **Short Term**: Recruit new members
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Corvus Dawnstrider (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Pyria Underhill (Criminal - Fence)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ### Aldric Grimholt the Lost (Family - Sibling)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Caelum Emberfall the Cunning (Political - Puppet)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
 
-
 ### Qadim Hawthorne the Wanderer (Political - Opposition)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

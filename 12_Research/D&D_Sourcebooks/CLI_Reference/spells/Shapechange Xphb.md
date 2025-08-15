@@ -95,3 +95,35 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Couatl Xmm]]
+- [[Deva Xmm]]
+- [[couatl-xmm (celestial)]]
+- [[deva-xmm (celestial)]]
+- [[Adult Brass Dragon Xmm]]
+- [[Adult Bronze Dragon Xmm]]
+- [[Adult Copper Dragon Xmm]]
+- [[Adult Gold Dragon Xmm]]
+- [[Adult Silver Dragon Xmm]]
+- [[Ancient Brass Dragon Xmm]]
+- [[Ancient Bronze Dragon Xmm]]
+- [[Ancient Copper Dragon Xmm]]
+- [[Ancient Gold Dragon Xmm]]
+- [[Ancient Silver Dragon Xmm]]
+- [[adult-brass-dragon-xmm (dragon)]]
+- [[adult-bronze-dragon-xmm (dragon)]]
+- [[adult-copper-dragon-xmm (dragon)]]
+- [[adult-gold-dragon-xmm (dragon)]]
+- [[adult-silver-dragon-xmm (dragon)]]
+- [[ancient-brass-dragon-xmm (dragon)]]
+- [[ancient-bronze-dragon-xmm (dragon)]]
+- [[ancient-copper-dragon-xmm (dragon)]]
+- [[ancient-gold-dragon-xmm (dragon)]]
+- [[ancient-silver-dragon-xmm (dragon)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[List Spells School Transmutation]]
+- [[list-spells-school-transmutation (lists)]]

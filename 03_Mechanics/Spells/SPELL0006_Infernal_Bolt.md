@@ -1,4 +1,5 @@
 ---
+aliases: ["Infernal Bolt", "infernal bolt", "Bolt Infernal"]
 tags: [generated]
 id: SPELL0006_Infernal_Bolt
 created: 2025-08-15T04:09:51.467Z

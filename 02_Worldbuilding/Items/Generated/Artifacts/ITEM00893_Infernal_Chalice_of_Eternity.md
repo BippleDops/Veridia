@@ -1,3 +1,9 @@
+---
+aliases: ["Infernal Chalice of Eternity", "infernal chalice of eternity", "Eternity of Chalice Infernal"]
+tags: [item, equipment]
+type: item
+---
+
 # Infernal Chalice of Eternity
 
 *Artifacts, Very Rare*
@@ -16,8 +22,6 @@ A infernal chalice radiating otherworldly power
 - Cast spell 3/day
 - Immunity to charm
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -32,7 +36,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.435Z*

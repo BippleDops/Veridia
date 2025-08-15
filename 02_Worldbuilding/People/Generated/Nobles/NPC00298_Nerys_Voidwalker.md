@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Voidwalker", "nerys voidwalker", "Voidwalker Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Voidwalker
 
 *Tiefling Ambassador (Nobles), Age 69, Non-binary*
@@ -36,22 +42,18 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Zephyr Proudmore the Mystic (Political - Opposition)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
 
-
 ### Hestara Frostwhisper (Professional - Mentor)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Wynne Dawnstrider the Redeemed (Professional - Partner)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ### Xander Voidwalker (Criminal - Informant)
 - **Status**: Complicated history

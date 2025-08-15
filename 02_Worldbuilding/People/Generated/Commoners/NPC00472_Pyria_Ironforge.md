@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Ironforge", "pyria ironforge", "Ironforge Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Ironforge
 
 *Human Blacksmith (Commoners), Age 77, Non-binary*
@@ -13,7 +19,6 @@
 Very tall and slender, with Tied back auburn hair and Gray eyes. Freckled skin. Constantly changing hair color.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Always speaks in metaphors and riddles; Extremely superstitious about everything; Incredibly optimistic despite evidence
@@ -41,7 +46,6 @@ Former soldier trying to adjust to civilian life A prophetic dream has been haun
 ### Delara Goldleaf the Broken (Personal - Love interest)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
-
 
 ### Erasmus Crystalbrook the Mystic (Political - Ally)
 - **Status**: Blood oath bound

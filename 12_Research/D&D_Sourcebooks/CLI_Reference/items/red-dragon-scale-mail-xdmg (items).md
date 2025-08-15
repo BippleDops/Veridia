@@ -98,3 +98,15 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Dragon Scale Mail Xdmg]]
+- [[dragon-scale-mail-xdmg (items)]]
+- [[Armaments Very Rare Xdmg]]
+- [[Magic Item Table H]]
+- [[Random Magic Items Armaments]]
+- [[armaments-very-rare-xdmg (tables)]]
+- [[magic-item-table-h (tables)]]
+- [[random-magic-items-armaments (tables)]]

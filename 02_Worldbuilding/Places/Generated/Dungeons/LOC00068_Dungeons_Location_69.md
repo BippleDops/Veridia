@@ -1,3 +1,9 @@
+---
+aliases: ["Dungeons Location 69", "dungeons location 69", "69 Location Dungeons"]
+tags: [location, place]
+type: location
+---
+
 # Dungeons Location 69
 
 *Dungeons*

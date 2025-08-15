@@ -221,3 +221,21 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Shadow Behavior Guidelines (Criminal_Organizations)]]
+- [[Shadow Surgeon Apprentice]]
+- [[The Shadow Duchess Duel (Criminal_Organizations)]]
+- [[The Shadow Harvest (Criminal_Organizations)]]
+- [[Vex Shadowthorn Boss Fight (Criminal_Organizations)]]
+- [[Cult of Screams (Cults_and_Movements)]]
+- [[Merchant's Covenant]]
+- [[Shadow Behavior Guidelines]]
+- [[The Shadow Harvest]]
+- [[Cult of Screams]]
+- [[Merchant's Covenant (D&D_References)]]
+- [[Sister Morwyn (D&D_References)]]
+- [[The Shadow Duchess Duel]]
+- [[Vex Shadowthorn Boss Fight]]
+- [[Find the Grief Bomb (D&D_Statblocks)]]

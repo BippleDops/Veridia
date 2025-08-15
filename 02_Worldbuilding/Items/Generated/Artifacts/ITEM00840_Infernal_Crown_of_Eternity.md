@@ -1,3 +1,9 @@
+---
+aliases: ["Infernal Crown of Eternity", "infernal crown of eternity", "Eternity of Crown Infernal"]
+tags: [item, equipment]
+type: item
+---
+
 # Infernal Crown of Eternity
 
 *Artifacts, Legendary*
@@ -16,8 +22,6 @@ A infernal crown covered in mysterious symbols
 - Immunity to charm
 - Increase ability score by 2
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -32,7 +36,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.430Z*

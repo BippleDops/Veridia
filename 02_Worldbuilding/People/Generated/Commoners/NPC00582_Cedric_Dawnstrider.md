@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Dawnstrider", "cedric dawnstrider", "Dawnstrider Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Dawnstrider
 
 *Tabaxi Fisher (Commoners), Age 28, Non-binary*
@@ -36,22 +42,18 @@ Survivor of a disaster that destroyed their village A chance encounter last wint
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Faelyn Ironforge the Redeemed (Personal - Best friend)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Wynne Xendar the Bold (Criminal - Target)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
 
-
 ### Gavril Oakenshield the Redeemed (Personal - Nemesis)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Knows location of ancient treasure

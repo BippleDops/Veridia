@@ -133,3 +133,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Strange disappearances suggest a conspiracy
 - A map reveals ancient history about this place
 - An heirloom has gone missing and war looms
+
+## References
+
+- [[20 Appendix C Creatures]]
+- [[20-appendix-c-creatures (out-of-the-abyss)]]
+- [[Chamberlain of Zuggtmoy Oota]]

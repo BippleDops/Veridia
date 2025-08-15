@@ -274,7 +274,6 @@ creature: Custom NPC
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
 
-
 ## See Also
 - Related content
 - Similar topics
@@ -298,3 +297,7 @@ status: active
 | 4  | Option D |
 | 5  | Option E |
 | 6  | Option F |
+
+## References
+
+- [[_03_Mechanics_CLI_bestiary_humanoid_warrior-infantry-xmm_Quick_Ref]]

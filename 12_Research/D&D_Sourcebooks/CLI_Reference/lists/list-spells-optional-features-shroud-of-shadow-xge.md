@@ -58,7 +58,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -77,4 +76,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[list-spells-optional-features-shroud-of-shadow-xge-phb]]` in CLI_Reference/spells/
+See: `[[list-spells-optional-features-shroud-of-shadow-xge|list-spells-optional-features-shroud-of-shadow-xge-phb]]` in CLI_Reference/spells/

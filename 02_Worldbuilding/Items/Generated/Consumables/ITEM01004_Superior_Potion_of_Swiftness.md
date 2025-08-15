@@ -1,3 +1,9 @@
+---
+aliases: ["Superior Potion of Swiftness", "superior potion of swiftness", "Swiftness of Potion Superior"]
+tags: [item, equipment]
+type: item
+---
+
 # Superior Potion of Swiftness
 
 *Consumables, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A superior potion swirling with colors
 - Increase speed by 10 ft
 - Breathe underwater 1 hour
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -30,7 +34,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.447Z*

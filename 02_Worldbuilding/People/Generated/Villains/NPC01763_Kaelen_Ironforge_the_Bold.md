@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Ironforge the Bold", "kaelen ironforge the bold", "Kaelen Ironforge Bold", "Bold the Ironforge Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Ironforge the Bold
 
 *Aasimar Dark Wizard (Villains), Age 22, Non-binary*
@@ -13,7 +19,6 @@
 Very short and compact, with Mohawk auburn hair and Amber eyes. Weathered skin. Birthmark shaped like a constellation.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Laughs at the most inappropriate times
@@ -36,7 +41,6 @@ Driven mad by knowledge humanity wasn't meant to know They've fallen in love wit
 - **Short Term**: Avoid the authorities
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Aldric Moonshadow the Seeker (Professional - Employer)
 - **Status**: On the verge of collapse
@@ -47,26 +51,21 @@ Driven mad by knowledge humanity wasn't meant to know They've fallen in love wit
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
 
-
 ### Zephyr Voidwalker the Swift (Family - Spouse)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
-
 
 ### Caelum Moonshadow the Lost (Political - Spy)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
 
-
 ### Corvus Ashford the Wanderer (Personal - Best friend)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Dara Winterborn the Bold (Criminal - Informant)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Believes they're saving the world

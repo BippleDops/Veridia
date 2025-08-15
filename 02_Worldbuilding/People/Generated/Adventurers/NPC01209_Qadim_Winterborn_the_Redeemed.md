@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Winterborn the Redeemed", "qadim winterborn the redeemed", "Qadim Winterborn Redeemed", "Redeemed the Winterborn Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Winterborn the Redeemed
 
 *Elf Rogue (Adventurers), Age 22, Non-binary*
@@ -36,12 +42,10 @@ Running from a dark past that won't stay buried Strange abilities have begun man
 - **Short Term**: Find missing person
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Dara Stormwind the Mystic (Political - Ally)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ### Solas Underhill the Bold (Family - Sibling)
 - **Status**: Complicated history
@@ -51,7 +55,6 @@ Running from a dark past that won't stay buried Strange abilities have begun man
 ### Cedric Hawthorne the Cunning (Professional - Employer)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ### Zephyr Crystalbrook the Mystic (Political - Patron)
 - **Status**: Professional only
@@ -66,7 +69,6 @@ Running from a dark past that won't stay buried Strange abilities have begun man
 ### Rhiannon Lightbringer the Mystic (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Possessed by ancient spirit

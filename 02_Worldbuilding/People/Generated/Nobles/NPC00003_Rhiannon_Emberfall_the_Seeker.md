@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Emberfall the Seeker", "rhiannon emberfall the seeker", "Rhiannon Emberfall Seeker", "Seeker the Emberfall Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Emberfall the Seeker
 
 *Dragonborn Heir (Nobles), Age 57, Non-binary*
@@ -36,17 +42,14 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Urien Stormwind (Professional - Employee)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
 
-
 ### Felicia Thornweave the Cunning (Political - Spy)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
-
 
 ### Hestara Lightbringer the Risen (Political - Ally)
 - **Status**: Mutually beneficial

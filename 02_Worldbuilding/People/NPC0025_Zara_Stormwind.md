@@ -1,8 +1,8 @@
 ---
+aliases: ["Zara Stormwind", "zara stormwind", "Stormwind Zara"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -88,7 +88,6 @@ Stealth, Arcana, Deception
 
 ---
 *Generated: 2025-08-15T03:21:04.028Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

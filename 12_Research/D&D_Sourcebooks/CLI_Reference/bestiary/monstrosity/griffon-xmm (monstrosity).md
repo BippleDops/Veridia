@@ -153,3 +153,37 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Griffon Xmm]]
+- [[Figurine of Wondrous Power Bronze Griffon]]
+- [[Storm Boomerang Pota]]
+- [[figurine-of-wondrous-power-bronze-griffon-xdmg]]
+- [[storm-boomerang-pota (items)]]
+- [[Find Greater Steed Xge]]
+- [[find-greater-steed-xge (spells)]]
+- [[Arctic Encounters Levels 510 Xge]]
+- [[At Sea Encounters]]
+- [[Coastal Encounters Levels 14 Xge]]
+- [[Grassland Encounters Levels 15 Xge]]
+- [[Hill Encounters Levels 510 Xge]]
+- [[Monsters by Habitat Arctic Monsters Xmm]]
+- [[Monsters by Habitat Coastal Monsters Xmm]]
+- [[Monsters by Habitat Grassland Monsters Xmm]]
+- [[Monsters by Habitat Hill Monsters Xmm]]
+- [[Monsters by Habitat Mountain Monsters Xmm]]
+- [[Mountain Encounters Levels 14 Xge]]
+- [[Random Encounters at Sea]]
+- [[arctic-encounters-levels-510-xge (tables)]]
+- [[at-sea-encounters (tables)]]
+- [[coastal-encounters-levels-14-xge (tables)]]
+- [[grassland-encounters-levels-15-xge (tables)]]
+- [[hill-encounters-levels-510-xge (tables)]]
+- [[monsters-by-habitat-arctic-monsters-xmm (tables)]]
+- [[monsters-by-habitat-coastal-monsters-xmm (tables)]]
+- [[monsters-by-habitat-grassland-monsters-xmm (tables)]]
+- [[monsters-by-habitat-hill-monsters-xmm (tables)]]
+- [[monsters-by-habitat-mountain-monsters-xmm (tables)]]
+- [[mountain-encounters-levels-14-xge (tables)]]
+- [[random-encounters-at-sea (tables)]]

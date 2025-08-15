@@ -55,3 +55,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+## References
+
+- [[Mad Oracle Thessaly]]
+- [[Inverted Ballroom Wing (D&D_References)]]
+- [[Mad Oracle Thessaly (D&D_References)]]

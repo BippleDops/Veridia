@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Ironforge the Broken", "hilda ironforge the broken", "Hilda Ironforge Broken", "Broken the Ironforge Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Ironforge the Broken
 
 *Firbolg Carpenter (Commoners), Age 22, Male*
@@ -13,7 +19,6 @@
 Tall and heavyset, with Shaved unusual color hair and Amber eyes. Freckled skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Believes in every conspiracy theory; Laughs at the most inappropriate times; Sees doom and gloom everywhere
@@ -36,22 +41,18 @@ Runaway from an arranged marriage, starting a new life An old debt has come due 
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Hestara Proudmore the Lost (Family - Parent)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Xander Dawnstrider the Risen (Professional - Mentor)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
 
-
 ### Kaelen Keenblade the Mystic (Professional - Partner)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
-
 
 ### Dara Xendar the Risen (Criminal - Accomplice)
 - **Status**: Professional only

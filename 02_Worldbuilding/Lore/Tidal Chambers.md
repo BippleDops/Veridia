@@ -40,7 +40,7 @@ improvements: 20
 *The Heartbeat of Aquabyssos Water Management*
 
 > *"Within these chambers, we don't simply harness the tides—we become partners with the ocean itself. Every pulse of water through our systems is a conversation between engineering and nature, between mortal ambition and cosmic rhythm. The Chambers don't just move water; they move the very essence of life through our city."*
-> — [[Master Tidal Engineer [[Coral]] Wavewright]], Chief Designer of the Tidal Chamber Network
+> — [[Coral|Master Tidal Engineer [[Coral]] Wavewright]], Chief Designer of the Tidal Chamber Network
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,7 +56,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -253,7 +253,7 @@ The Tidal Chambers provide complete water management services for all of Aquabys
 Complex distribution systems ensure reliable water delivery throughout the city:
 - Primary distribution conduits carrying water from Chambers to district distribution centers
 - Secondary distribution networks serving individual neighborhoods and [[Commercial District]]s
-- [[Pressure Tube System]]s enabling rapid vertical water transport
+- [[Assets Locations Location City Pressure Tube System Pressure Tube System.svg|Pressure Tube System]]s enabling rapid vertical water transport
 - Emergency distribution systems providing backup service during main system maintece
 - Remote monitoring systems tracking water flow and quality throughout the distribution network
 
@@ -344,7 +344,7 @@ Preparation for increasing integration between Aquabyssos and [[Aethermoor]] dri
 
 **Integration Projects:**
 - **Dimensional Water Bridge**: Experimental systems enabling water transport between dimensions
-- **Cross-Realm Communication**: [[Communication Systems]] utilizing water-based signal transmission
+- **Cross-Realm Communication**: [[Communication_Systems|Communication Systems]] utilizing water-based signal transmission
 - **Environmental Synchronization**: Coordination systems managing environmental conditions across dimensional boundaries
 - **[[Cultural Exchange]] Support**: Infrastructure supporting visitors and cultural exchange between realms
 - **Emergency Cross-Dimensional Evacuation**: Systems enabling rapid population movement between dimensions during crisis situations
@@ -387,7 +387,7 @@ Comprehensive security systems address multiple threat vectors:
 - Intelligence gathering systems identifying threats before they become active
 - Redundant systems ensuring continued operation despite partial system damage
 - [[Emergency Protocol]]s enabling rapid response to security incidents
-- Cooperation with [[The [[Deepwatch Guard]]]] and other security organizations
+- Cooperation with [[Deepwatch Guard|The [[Deepwatch Guard]]]] and other security organizations
 
 ### Environmental and Sustainability Concerns
 
@@ -532,7 +532,7 @@ Involvement with Chamber operations provides numerous opportunities for characte
 - [[Pressure Adaptation System]] - Complementary technology working with Chamber systems
 - [[Underwater Breathing]] - Life support technology supported by Chamber operations
 - [[The Deepwatch Guard]] - Security organization protecting Chamber facilities
-- [[[[Master Tidal Engineer Coral Wavewright]]|[[02 Worldbuilding]]/[[People]]/Master Tidal Engineer Coral Wavewright]] - Chief Designer of Chamber network
+- [[Coral|[[Master Tidal Engineer Coral Wavewright]]|[[02_Worldbuilding|02 Worldbuilding]]/[[People]]/Master Tidal Engineer Coral Wavewright]] - Chief Designer of Chamber network
 - [[Senior Tidal Engineer Marina Flowmaster|02 Worldbuilding/People/Senior Tidal Engineer Marina Flowmaster]] - Tidal engineering specialist
 - [[Bio-Tech Supervisor Reef Lifeweaver (D&D_References)]] - Bio-magical systems specialist
 - [[Pressure Master Current Depthwright|02 Worldbuilding/People/Pressure Master Current Depthwright]] - Pressure systems operations manager
@@ -549,7 +549,7 @@ Tidal Chambers is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Tidal Chambers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Tidal Chambers.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -577,3 +577,11 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Random Encounters]]
+- [[Resonance Peaks]]
+- [[Aquabyssos - Session 04 - High Tide Horror]]
+- [[Resonance Peaks (D&D_References)]]
+- [[Random Encounters (D&D_Statblocks)]]

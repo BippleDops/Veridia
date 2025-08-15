@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Ravenheart the Lost", "urien ravenheart the lost", "Urien Ravenheart Lost", "Lost the Ravenheart Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Ravenheart the Lost
 
 *Human Assassin (Villains), Age 18, Male*
@@ -36,12 +42,10 @@ Believes their evil acts serve a greater good A chance encounter last winter cha
 - **Short Term**: Survive until next week
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Idris Frostwhisper the Scholar (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
-
 
 ### Elric Stormwind the Fallen (Personal - Nemesis)
 - **Status**: Recently reconciled
@@ -57,11 +61,9 @@ Believes their evil acts serve a greater good A chance encounter last winter cha
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Cedric Ironforge the Wanderer (Professional - Rival)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Is being controlled by darker force

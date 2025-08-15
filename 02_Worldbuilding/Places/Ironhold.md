@@ -69,7 +69,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -216,7 +216,7 @@ During [[Continental War]], Ironhold developed:
 - Advanced siege warfare techniques
 - Improved tunnel construction methods
 - Revolutionary defensive architecture
-- Integrated command and [[Communication Systems]]
+- Integrated command and [[Communication_Systems|Communication Systems]]
 
 ### The Surface City
 
@@ -377,7 +377,7 @@ Balancing extraction with sustainability:
 
 **Thermal Forge Operations**: Some industrial processes continue through night hours when ambient temperatures make working conditions more manageable. Night shift workers specialize in tasks requiring precise temperature control or extended processing times. These operations produce the finest quality goods that require uninterrupted attention over many hours.
 
-**Underground Social Life**: Night hours bring different social activities in deep mountain chambers where citizens gather for games, music, and conversations that don't interfere with day shift rest periods. These informal communities include workers from different specializations, creating cross-[[[[Cultural Exchange]]s]] within the mountain's diverse population.
+**Underground Social Life**: Night hours bring different social activities in deep mountain chambers where citizens gather for games, music, and conversations that don't interfere with day shift rest periods. These informal communities include workers from different specializations, creating cross-[[Cultural Exchange|[[Cultural Exchange]]s]] within the mountain's diverse population.
 
 **Emergency Response Preparation**: Night shifts include maintece teams that repair equipment, inspect structural integrity, and prepare for potential emergencies. Mountain environments create unique challenges requiring specialized response protocols, and night hours provide opportunities for training and preparation without disrupting regular operations.
 
@@ -387,7 +387,7 @@ Balancing extraction with sustainability:
 
 **Market Days**: Weekly trade sessions bring merchants from other settlements to exchange goods and negotiate contracts for major projects. These events require careful preparation including security arrangements, quality inspections, and cultural accommodations for visitors unfamiliar with mountain life. Trade negotiations often involve demonstrating craftsmanship techniques and touring production facilities.
 
-**Guild Assembly Meetings**: [[Professional [[Organization]]s]] meet weekly to coordinate standards, training programs, and resource allocation for major projects. These gatherings follow traditions from the [[Guild Traditions Compendium]] adapted for the unique challenges of mountain industrial life, including safety protocols and technical innovation requirements.
+**Guild Assembly Meetings**: [[Organization|Professional [[Organization]]s]] meet weekly to coordinate standards, training programs, and resource allocation for major projects. These gatherings follow traditions from the [[Guild Traditions Compendium]] adapted for the unique challenges of mountain industrial life, including safety protocols and technical innovation requirements.
 
 **Military Training Cycles**: Regular combat drills and defensive exercises ensure all citizens maintain combat readiness for potential sieges. These training sessions include tunnel fighting techniques, fortification defense, and coordination with engineering systems that provide tactical advantages. Citizens rotate through different defensive specializations to maintain comprehensive capabilities.
 
@@ -413,7 +413,6 @@ Ironhold provides:
 - Source of [[Allies]] specialized in defensive warfare and tunnel fighting
 - Location for [[Quests]] involving technological innovation and industrial espionage
 
-
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
@@ -435,7 +434,7 @@ Legends speak of Ironhold as a nexus where past and present converge. Locals des
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -459,13 +458,11 @@ Ironhold is a notable location characterized by its unique features and strategi
 ### Founding
 Ironhold was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -517,7 +514,6 @@ Ironhold was established in the distant past, growing from humble beginnings to 
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -553,3 +549,26 @@ Ironhold was established in the distant past, growing from humble beginnings to 
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Ancient Siege Tunnels]]
+- [[Continental War]]
+- [[General Viktor Ironhold]]
+- [[Ironhold Ambassador Thorin Coinbeard]]
+- [[Merchant Family Alliances]]
+- [[Relationship Web Nuances]]
+- [[Port Meridian - Merchant Quarter]]
+- [[Sylvanheart]]
+- [[The Crystal Wardens]]
+- [[The Synthesis Gardens]]
+- [[Ancient Siege Tunnels (D&D_References)]]
+- [[Aquabyssos Ambassadors]]
+- [[Continental War (D&D_References)]]
+- [[Continental War 3 (D&D_References)]]
+- [[Port Meridian - Merchant Quarter (D&D_References)]]
+- [[Sylvanheart (D&D_References)]]
+- [[The Embassy Quarter (D&D_References)]]
+- [[The Sundered Peaks (D&D_References)]]
+- [[The Synthesis Gardens (D&D_Statblocks)]]

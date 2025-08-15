@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Stormwind", "caelum stormwind", "Stormwind Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Stormwind
 
 *Tiefling Ambassador (Nobles), Age 70, Female*
@@ -13,7 +19,6 @@
 Below average and imposing, with Wild and unkempt white hair and Red eyes. Scarred skin. Warm smile that puts people at ease.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Always hungry and eating something; Extremely superstitious about everything
@@ -36,22 +41,18 @@ Exiled from their homeland, trying to rebuild their power base They've been mark
 - **Short Term**: Sabotage competition
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Gavril Silverleaf (Personal - Best friend)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Hestara Crystalbrook the Strong (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
 
-
 ### Dara Grimholt the Wanderer (Family - Sibling)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Secretly funding the rebellion

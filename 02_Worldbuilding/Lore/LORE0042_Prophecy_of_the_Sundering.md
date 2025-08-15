@@ -1,4 +1,5 @@
 ---
+aliases: ["Prophecy of the Sundering", "prophecy of the sundering", "Prophecy of Sundering", "Sundering the of Prophecy"]
 tags: [generated]
 id: LORE0042_Prophecy_of_the_Sundering
 created: 2025-08-15T04:09:51.139Z

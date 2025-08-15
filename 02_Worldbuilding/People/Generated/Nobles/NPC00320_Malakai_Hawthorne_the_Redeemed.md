@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Hawthorne the Redeemed", "malakai hawthorne the redeemed", "Malakai Hawthorne Redeemed", "Redeemed the Hawthorne Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Hawthorne the Redeemed
 
 *Firbolg Noble (Nobles), Age 77, Female*
@@ -36,7 +42,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Complete current contract
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Pyria Emberfall the Redeemed (Family - Child)
 - **Status**: Strained but maintaining
@@ -47,21 +52,17 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Delara Nightfall the Fallen (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ### Pyria Jadeclaw the Scholar (Professional - Mentor)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Kaelen Keenblade the Risen (Personal - Childhood friend)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ### Gareth Emberfall (Criminal - Informant)
 - **Status**: Mutually beneficial

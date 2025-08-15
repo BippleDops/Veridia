@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Frostwhisper the Mystic", "gavril frostwhisper the mystic", "Gavril Frostwhisper Mystic", "Mystic the Frostwhisper Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Frostwhisper the Mystic
 
 *Human Dark Wizard (Villains), Age 22, Female*
@@ -36,12 +42,10 @@ Born into evil but questioning their path A family member's death has left them 
 - **Short Term**: Make this month's payment
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Felicia Ironforge the Wise (Family - Child)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ### Hestara Lightbringer the Cunning (Criminal - Informant)
 - **Status**: One-sided affection
@@ -52,7 +56,6 @@ Born into evil but questioning their path A family member's death has left them 
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Qadim Youngblood the Swift (Political - Patron)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
@@ -62,11 +65,9 @@ Born into evil but questioning their path A family member's death has left them 
 - **Status**: Recently reconciled
 - **History**: United by common enemy
 
-
 ### Ysara Ironwood the Broken (Political - Spy)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Was once a renowned hero

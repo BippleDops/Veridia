@@ -1,4 +1,5 @@
 ---
+aliases: ["Cursed Circlet of the Dawn", "cursed circlet of the dawn", "Cursed Circlet of Dawn", "Dawn the of Circlet Cursed"]
 tags: [generated]
 id: ITEM0122
 created: 2025-08-15T04:09:51.116Z
@@ -18,8 +19,6 @@ Crafted from starfall iron with delicate filigree, in recently restored. It eman
 
 ## Quirk
 *Makes user sneeze in sunlight*
-
-
 
 ## History
 This item was corrupted by dark magic decades ago. It has passed through many hands, each leaving their mark upon its destiny.

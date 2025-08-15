@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Oakenshield the Broken", "kaelen oakenshield the broken", "Kaelen Oakenshield Broken", "Broken the Oakenshield Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Oakenshield the Broken
 
 *Half-Elf Assassin (Villains), Age 44, Male*
@@ -36,12 +42,10 @@ Born into evil but questioning their path They've fallen in love with someone th
 - **Short Term**: Find missing person
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Nerys Dawnstrider the Fallen (Criminal - Target)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ### Elric Keenblade the Seeker (Personal - Nemesis)
 - **Status**: One-sided affection
@@ -62,11 +66,9 @@ Born into evil but questioning their path They've fallen in love with someone th
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Branwen Ironwood the Cunning (Personal - Childhood friend)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Knows how the world will end

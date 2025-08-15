@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Nightfall", "brenna nightfall", "Nightfall Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Nightfall
 
 *Tabaxi Carpenter (Commoners), Age 40, Non-binary*
@@ -13,7 +19,6 @@
 Average height and wiry, with Dreadlocks red hair and Heterochromic eyes. Freckled skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Flirts with everyone regardless of interest
@@ -36,7 +41,6 @@ Former soldier trying to adjust to civilian life A family member's death has lef
 - **Short Term**: Recruit new members
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Dara Xendar the Lost (Personal - Best friend)
 - **Status**: Recently reconciled
@@ -51,7 +55,6 @@ Former soldier trying to adjust to civilian life A family member's death has lef
 ### Gareth Moonshadow the Wanderer (Political - Puppet)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ### Gareth Thornweave the Strong (Family - Cousin)
 - **Status**: Strained but maintaining

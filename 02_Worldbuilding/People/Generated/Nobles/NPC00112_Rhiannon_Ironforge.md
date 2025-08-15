@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Ironforge", "rhiannon ironforge", "Ironforge Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Ironforge
 
 *Firbolg Courtier (Nobles), Age 77, Female*
@@ -42,11 +48,9 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
 
-
 ### Corvus Zephyrblade (Personal - Love interest)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
-
 
 ### Idris Thornweave the Guardian (Political - Ally)
 - **Status**: Secretly hostile
@@ -56,7 +60,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 ### Aldric Blackstone (Criminal - Accomplice)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Child from scandalous affair

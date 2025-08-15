@@ -1,4 +1,5 @@
 ---
+aliases: ["Random Encounter 21", "random encounter 21", "21 Encounter Random"]
 tags: [generated]
 id: ENC0020_Random_Encounter_21
 created: 2025-08-15T04:09:51.441Z
@@ -23,7 +24,6 @@ Environmental hazard present
 
 ---
 *Generated: 2025-08-15T03:21:47.438Z*
-
 
 ## Scaling by Party Level
 - **Level 1-4**: Reduce enemies

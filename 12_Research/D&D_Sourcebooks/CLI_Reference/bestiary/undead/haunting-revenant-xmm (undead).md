@@ -151,3 +151,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Someone is searching for an heir for love
 - A document has gone missing and war looms
+
+## References
+
+- [[haunting-revet-xmm]]

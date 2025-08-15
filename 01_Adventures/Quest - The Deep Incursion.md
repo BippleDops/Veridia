@@ -14,7 +14,6 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 # Quest - The Deep Incursion
 
 ---
@@ -32,12 +31,10 @@ world: Both
 updated: '2025-08-13T01:18:36.931086+00:00'
 ---
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -161,7 +158,6 @@ Contextual improvement based on 12_Research
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## Time Limit
 - **Deadline**: When it must be completed
 - **Consequences**: What happens if late
@@ -207,3 +203,8 @@ Contextual improvement based on 12_Research
 | 4  | Option D |
 | 5  | Option E |
 | 6  | Option F |
+
+## References
+
+- [[Paladin Commander Sir Radiant Dawnbreaker]]
+- [[Paladin Commander Sir Radiant Dawnbreaker (D&D_References)]]

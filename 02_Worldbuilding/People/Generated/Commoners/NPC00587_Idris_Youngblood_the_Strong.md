@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Youngblood the Strong", "idris youngblood the strong", "Idris Youngblood Strong", "Strong the Youngblood Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Youngblood the Strong
 
 *Halfling Carpenter (Commoners), Age 61, Non-binary*
@@ -36,7 +42,6 @@ Family has worked the same trade for generations, but times are changing An old 
 - **Short Term**: Gather information
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Gavril Keenblade the Bold (Criminal - Handler)
 - **Status**: Complicated history
@@ -52,11 +57,9 @@ Family has worked the same trade for generations, but times are changing An old 
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Branwen Frostwhisper the Wise (Criminal - Target)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ### Delara Nightfall the Swift (Criminal - Fence)
 - **Status**: On the verge of collapse
@@ -66,7 +69,6 @@ Family has worked the same trade for generations, but times are changing An old 
 ### Wynne Ashford the Broken (Personal - Love interest)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Is the lost heir to the throne

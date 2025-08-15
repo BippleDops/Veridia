@@ -1,4 +1,5 @@
 ---
+aliases: ["Primal Curse", "primal curse", "Curse Primal"]
 tags: [generated]
 id: SPELL0023_Primal_Curse
 created: 2025-08-15T04:09:51.471Z

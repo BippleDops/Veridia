@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Winterborn the Guardian", "ewan winterborn the guardian", "Ewan Winterborn Guardian", "Guardian the Winterborn Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Winterborn the Guardian
 
 *Elf Corrupt Noble (Villains), Age 38, Male*
@@ -36,27 +42,22 @@ Corrupted by an artifact or dark magic A family member's death has left them wit
 - **Short Term**: Recruit new members
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Thalia Thornweave the Lost (Political - Puppet)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Brenna Crystalbrook the Strong (Professional - Partner)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
-
 
 ### Urien Silverleaf the Risen (Personal - Best friend)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Aeliana Jadeclaw the Strong (Political - Puppet)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ### Drusilla Ashford the Bold (Family - Cousin)
 - **Status**: Strained but maintaining

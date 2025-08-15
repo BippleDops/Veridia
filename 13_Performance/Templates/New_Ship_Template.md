@@ -62,3 +62,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Aethermoor_Airships]]
+- [[Aquabyssos_Submarines]]
+- [[Aquabyssos_Submarines_Catalog]]
+- [[Vehicle_Customization_Progression]]
+- [[Vehicles - Aethermoor Airships]]
+- [[Vehicles - Aquabyssos Submarines Catalog]]
+- [[Vehicles - Aquabyssos Submarines]]
+- [[Vehicles - Vehicle Customization Progression]]

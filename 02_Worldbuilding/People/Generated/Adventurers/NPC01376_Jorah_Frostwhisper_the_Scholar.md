@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Frostwhisper the Scholar", "jorah frostwhisper the scholar", "Jorah Frostwhisper Scholar", "Scholar the Frostwhisper Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Frostwhisper the Scholar
 
 *Half-Elf Cleric (Adventurers), Age 65, Non-binary*
@@ -42,11 +48,9 @@ Accidentally gained powers and learning to control them A family member's death 
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Aeliana Xendar the Risen (Personal - Love interest)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ### Elric Dawnstrider the Strong (Personal - Ex-lover)
 - **Status**: Mutually beneficial
@@ -57,16 +61,13 @@ Accidentally gained powers and learning to control them A family member's death 
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
 
-
 ### Pyria Lightbringer the Wanderer (Criminal - Handler)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Xander Winterborn the Redeemed (Family - Sibling)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Secretly working for the villain

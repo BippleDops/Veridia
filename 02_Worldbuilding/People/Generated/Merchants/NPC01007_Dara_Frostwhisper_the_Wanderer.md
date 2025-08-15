@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Frostwhisper the Wanderer", "dara frostwhisper the wanderer", "Dara Frostwhisper Wanderer", "Wanderer the Frostwhisper Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Frostwhisper the Wanderer
 
 *Firbolg Broker (Merchants), Age 30, Female*
@@ -47,21 +53,17 @@ Inherited a failing business and turned it around A family member's death has le
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Orion Jadeclaw the Fallen (Personal - Best friend)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ### Orion Goldleaf the Broken (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Thalia Ashford the Risen (Family - Parent)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Smuggles illegal magical items

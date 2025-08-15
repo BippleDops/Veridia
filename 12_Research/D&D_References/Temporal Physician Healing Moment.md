@@ -59,3 +59,8 @@ Mentioned in The Second Prophecy of Winds
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Temporal Distortion Zones]]
+- [[Temporal Distortion Zones (D&D_References)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Jadeclaw the Lost", "vesper jadeclaw the lost", "Vesper Jadeclaw Lost", "Lost the Jadeclaw Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Jadeclaw the Lost
 
 *Firbolg Farmer (Commoners), Age 69, Non-binary*
@@ -36,27 +42,22 @@ Runaway from an arranged marriage, starting a new life Strange abilities have be
 - **Short Term**: Sabotage competition
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Elric Jadeclaw the Strong (Political - Patron)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Jorah Darkwater the Broken (Family - Sibling)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ### Brenna Dawnstrider the Swift (Criminal - Target)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Dara Stormwind the Guardian (Professional - Employer)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ### Elric Grimholt the Seeker (Political - Ally)
 - **Status**: Recently reconciled

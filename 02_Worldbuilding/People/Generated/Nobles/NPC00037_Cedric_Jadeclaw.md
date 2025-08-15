@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Jadeclaw", "cedric jadeclaw", "Jadeclaw Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Jadeclaw
 
 *Genasi Aristocrat (Nobles), Age 25, Non-binary*
@@ -36,17 +42,14 @@ Last survivor of a fallen house, seeking to restore family honor They recently d
 - **Short Term**: Complete current contract
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Lyanna Ashford (Professional - Employer)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Xander Thornweave the Strong (Criminal - Accomplice)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ### Caelum Ravenheart (Political - Puppet)
 - **Status**: One-sided affection
@@ -56,7 +59,6 @@ Last survivor of a fallen house, seeking to restore family honor They recently d
 ### Brenna Lightbringer (Personal - Nemesis)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Actually a bastard with no real claim

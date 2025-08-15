@@ -36,7 +36,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -90,7 +90,7 @@ Political Maneuvering is a undersea element of the setting, known for biolumines
 
 Legends speak of Political Maneuvering as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Political Maneuvering.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -106,3 +106,16 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 - Strange dreams suggest a conspiracy
 - Someone is searching for a artifact for money
+
+## References
+
+- [[Master_Campaign_Index]]
+- [[Diplomatic Event Scenarios]]
+- [[Political Intrigue Master Index]]
+- [[The Bathyal Succession]]
+- [[Black Market Deal]]
+- [[Harbor District Customs House]]
+- [[Inverted Ballroom Wing]]
+- [[Maelstrom Palace]]
+- [[Royal Palace]]
+- [[Theological Warfare]]

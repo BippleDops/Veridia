@@ -128,12 +128,10 @@ The main reason parties get involved
 - Ancient map fragment
 - 1d4 gems (50 gp each)
 
-
 ## Pronunciation Guide
 - **Theme**: [THEME]
 - **Theme**: [THEME]
 - **Themes**: [THEMES]
-
 
 ## See Also
 - Related content

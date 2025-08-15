@@ -11,7 +11,7 @@ created: '2025-01-15'
 
 ## Portrait
 
-![[portrait_04_resources_assets_portraits_portrait-npc-master-smith-priest-vulcan-depthforge-master-smith-priest-vulcan-depthforge.svg.png]]
+![[04_Resources|portrait_04_resources_assets_portraits_portrait-npc-master-smith-priest-vulcan-depthforge-master-smith-priest-vulcan-depthforge.svg.png]]
 
 *Portrait reference for 04_Resources_Assets_Portraits_portrait-npc-master-smith-priest-vulcan-depthforge-master-smith-priest-vulcan-depthforge.svg*
 
@@ -75,3 +75,9 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+## References
+
+- [[Assets Locations Location City Quartermaster Shadow Supply Quartermaster Shadow Supply.svg]]
+- [[Assets Locations Location City Terminal Master Hadrian Depthbridge Terminal Master Hadrian Depthbridge.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-master-smith-priest-vulcan-depthforge-master-smith-priest-vulcan-depthforge.svg_Quick_Ref]]

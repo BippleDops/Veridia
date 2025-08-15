@@ -33,7 +33,7 @@ For each creature in the vault:
 - Add ecology and behavior from official sources
 - Create variant stat blocks for different CRs
 - Link to official lore and expand with custom content
-- Add Legendary/Lair actions where appropriate
+- Add Legendary/Lair [[actions|actions]] where appropriate
 - Create regional effects tied to locations
 
 INTEGRATION_TASKS = {
@@ -88,7 +88,7 @@ def create_conspiracy_node(entity):
     }
 
 #### 4.1 Historical Echoes (2,000 enhancements)
-For every major location/event:
+For every major [[location|location]]/event:
 - Create 3 historical periods
 - Design "history repeating" scenarios
 - Add ancient ruins beneath current structures
@@ -99,11 +99,11 @@ For every major location/event:
 
 #### 6.1 Faction Reputation Tracker (2,500 enhancements)
 
-# Script: faction_reputation_system.py
+# Script: [[Faction_Reputation_System|Faction_Reputation_System]].py
 Create a living reputation system where:
 - Actions affect multiple faction standings
 - Reputation unlocks unique opportunities
-- Faction conflicts create dynamic quests
+- Faction conflicts create dynamic [[Quests|Quests]]
 - Reputation decay over time
 - Inherited reputation from associates
 
@@ -120,7 +120,7 @@ REPUTATION_EFFECTS = {
 Use AI to find non-obvious connections:
 - Analyze all note content for themes
 - Identify potential plot connections
-- Suggest ironic twists
+- Suggest ironic [[twists|twists]]
 - Create foreshadowing
 - Design red herrings
 - Build mystery trails
@@ -164,7 +164,7 @@ python3 scripts/add_historical_echoes.py
 python3 scripts/plant_future_seeds.py
 python3 scripts/create_living_timeline.py
 
-# Phase 5: Relationships
+# Phase 5: [[RELATIONSHIPS|RELATIONSHIPS]]
 echo "Building relationship matrix..."
 python3 scripts/generate_love_web.py
 python3 scripts/create_rivalries.py
@@ -208,14 +208,14 @@ def validate_narrative_integrity():
     # Check temporal consistency
     for event in vault.get_all_events():
         if has_temporal_paradox(event):
-            issues.append(f"Temporal paradox in {event.name}")
+            issues.append(f"Temporal paradox in {event.[[Name|Name]]}")
             
     # Verify relationship logic
     for npc in vault.get_all_npcs():
         if has_impossible_relationships(npc):
             issues.append(f"Relationship conflict for {npc.name}")
             
-    # Validate economic systems
+    # Validate [[Economic Systems|Economic Systems]]
     if not is_economy_balanced():
         issues.append("Economic system imbalance detected")
         
@@ -230,7 +230,7 @@ After implementing this enhancement:
 2. **Infinite Stories**: Emergent narratives from any starting point
 3. **D&D Compatibility**: Seamless integration with official content
 4. **Time Depth**: Rich past, dynamic present, multiple futures
-5. **Relationship Web**: Complex character interconnections
+5. **[[Relationship_Web|Relationship Web]]**: Complex character interconnections
 6. **Mystery Layers**: Hidden plots within plots
 7. **Economic Reality**: Functioning economic simulation
 8. **Political Intrigue**: Dynamic faction interactions
@@ -249,9 +249,8 @@ After implementing this enhancement:
 ## Pronunciation Guide
 - **Depth**: [DEPTH]
 
-
 ## See Also
-- Related content
+- [[Related content|Related content]]
 - Similar topics
 - Connected elements
 
@@ -263,3 +262,7 @@ After implementing this enhancement:
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition
+
+## References
+
+- [[VAULT_NARRATIVE_COMPLETION_STATUS]]

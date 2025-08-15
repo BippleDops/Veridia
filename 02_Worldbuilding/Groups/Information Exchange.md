@@ -169,3 +169,19 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Customs House]]
+- [[Diplomatic Event Scenarios]]
+- [[Relationship Web Nuances]]
+- [[The Silverscale Conspiracy]]
+- [[Umbral Exchange]]
+- [[Underground Smuggling Networks]]
+- [[Madame Rosalind Goldleaf]]
+- [[Madame Whisper]]
+- [[Maelstrom Palace]]
+- [[Port Meridian - Market Square]]
+- [[Shadow Market Canals]]
+- [[The Shrinking Sanctuary]]
+- [[NPC Name 2]]

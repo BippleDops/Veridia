@@ -1,4 +1,5 @@
 ---
+aliases: ["Arcane Binding", "arcane binding", "Binding Arcane"]
 tags: [generated]
 id: SPELL0048_Arcane_Binding
 created: 2025-08-15T04:09:51.477Z

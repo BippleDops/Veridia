@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Hawthorne", "gavril hawthorne", "Hawthorne Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Hawthorne
 
 *Tiefling Noble (Nobles), Age 21, Male*
@@ -42,26 +48,21 @@ Exiled from their homeland, trying to rebuild their power base A chance encounte
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
 
-
 ### Hestara Blackstone the Bold (Criminal - Handler)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ### Rhiannon Ravenheart the Bold (Professional - Partner)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Nerys Youngblood (Political - Puppet)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
 
-
 ### Orion Ravenheart the Wise (Family - Parent)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Actually a bastard with no real claim

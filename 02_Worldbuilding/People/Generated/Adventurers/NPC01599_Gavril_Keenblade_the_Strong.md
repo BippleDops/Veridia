@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Keenblade the Strong", "gavril keenblade the strong", "Gavril Keenblade Strong", "Strong the Keenblade Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Keenblade the Strong
 
 *Half-Orc Bard (Adventurers), Age 46, Non-binary*
@@ -42,26 +48,21 @@ Running from a dark past that won't stay buried They've been marked by a secret 
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
 
-
 ### Delara Dawnstrider the Guardian (Professional - Employee)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ### Felicia Proudmore the Risen (Professional - Rival)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Faelyn Xendar the Redeemed (Family - Parent)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Alaric Emberfall the Risen (Professional - Rival)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ### Wynne Grimholt the Bold (Family - Child)
 - **Status**: Recently reconciled

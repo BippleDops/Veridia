@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # NPC_Name_Generator.png - Quick Reference
 
 ## Key Info

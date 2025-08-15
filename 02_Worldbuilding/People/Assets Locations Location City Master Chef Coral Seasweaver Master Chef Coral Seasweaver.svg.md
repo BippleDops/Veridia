@@ -194,3 +194,7 @@ This NPC can serve multiple roles:
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-the-drowning-truth-the-drowning-truth.svg]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Ravenheart the Scholar", "caelum ravenheart the scholar", "Caelum Ravenheart Scholar", "Scholar the Ravenheart Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Ravenheart the Scholar
 
 *Elf Fisher (Commoners), Age 50, Non-binary*
@@ -36,7 +42,6 @@ Runaway from an arranged marriage, starting a new life Strange abilities have be
 - **Short Term**: Survive until next week
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Aeliana Keenblade the Wanderer (Political - Ally)
 - **Status**: Mutually beneficial
@@ -47,11 +52,9 @@ Runaway from an arranged marriage, starting a new life Strange abilities have be
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
 
-
 ### Caelum Silverleaf the Fallen (Political - Spy)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ### Felicia Nightfall the Bold (Professional - Partner)
 - **Status**: Professional only

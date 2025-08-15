@@ -77,7 +77,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -505,7 +505,7 @@ The atoll's descent defies conventional understanding of marine geology. Neither
 
 **[[Cultural Preservation]]**: Preserving community memories and cultural heritage  
 **Research**: Memory-based research into atoll's history and sinking cause  
-**Documentation**: Creating permanent [[Memory Archives]] of atoll community  
+**Documentation**: Creating permanent  of atoll community  
 **Healing**: Memory therapy for community members traumatized by displacement  
 **Wisdom**: Ancient memories potentially containing information about similar past events
 
@@ -538,7 +538,7 @@ The atoll's descent defies conventional understanding of marine geology. Neither
 **Related Items and Concepts**:
 - [[Coral Consciousness Network]]
 - [[Ancient Ocean Anchors]]
-- [[Deep-Sea Cultural Protocol (Cultural_[[Organization]]s)]]
+- [[Deep-Sea Cultural Protocol|Deep-Sea Cultural Protocol (Cultural_[[Organization]]s)]]
 - [[Sinking Phenomenon Research]]
 
 ## Player-Facing Summary
@@ -549,7 +549,7 @@ The Sinking Atoll is a undersea element of the setting, known for bioluminescent
 
 Legends speak of The Sinking Atoll as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Sinking Atoll.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -573,13 +573,11 @@ The Sinking Atoll is a notable location characterized by its unique features and
 ### Founding
 The Sinking Atoll was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -587,13 +585,11 @@ The Sinking Atoll was established in the distant past, growing from humble begin
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -639,7 +635,6 @@ Ongoing situations affecting The Sinking Atoll:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions

@@ -73,3 +73,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A corpse reveals a conspiracy about the government
 - A noble needs help finding before the festival
 - A map reveals ancient history about this place
+
+## References
+
+- [[A Sample Pantheon Dawn War Deities]]
+- [[a-sample-pantheon-dawn-war-deities (tables)]]

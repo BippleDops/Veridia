@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Blackstone the Redeemed", "faelyn blackstone the redeemed", "Faelyn Blackstone Redeemed", "Redeemed the Blackstone Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Blackstone the Redeemed
 
 *Dwarf Cleric (Adventurers), Age 69, Male*
@@ -36,12 +42,10 @@ Searching for a legendary treasure their parent died seeking A prophetic dream h
 - **Short Term**: Complete current contract
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Lyanna Stormwind the Cunning (Professional - Rival)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ### Nerys Proudmore the Fallen (Political - Opposition)
 - **Status**: One-sided affection
@@ -51,7 +55,6 @@ Searching for a legendary treasure their parent died seeking A prophetic dream h
 ### Solas Jadeclaw the Broken (Professional - Mentor)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ### Delara Winterborn the Fallen (Family - Spouse)
 - **Status**: Strained but maintaining

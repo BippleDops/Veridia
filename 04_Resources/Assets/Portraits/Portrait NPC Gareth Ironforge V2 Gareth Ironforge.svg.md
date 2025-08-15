@@ -97,3 +97,7 @@ Mentioned in The Hidden Prophecy of Shadows
 - A map reveals the truth about the cult
 - The authorities needs help investigating before dawn
 - The authorities needs help finding before dawn
+
+## References
+
+- [[Assets Locations Location City Pilgrimage Master Depth Guide Melancholy Pilgrimage Master Depth Guide Melancholy.svg]]

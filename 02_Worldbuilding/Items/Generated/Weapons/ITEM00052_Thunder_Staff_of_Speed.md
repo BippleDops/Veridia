@@ -1,3 +1,9 @@
+---
+aliases: ["Thunder Staff of Speed", "thunder staff of speed", "Speed of Staff Thunder"]
+tags: [item, equipment]
+type: item
+---
+
 # Thunder Staff of Speed
 
 *Weapons, Uncommon*
@@ -14,8 +20,6 @@ A thunder staff forged from meteoric iron
 - Grants advantage on initiative
 - +2 to attack and damage rolls
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -30,7 +34,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.347Z*

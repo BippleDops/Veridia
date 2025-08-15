@@ -143,3 +143,27 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Gnoll Pack Lord Xmm]]
+- [[Desert Encounters Levels 14 Xge]]
+- [[Forest Encounters Levels 14 Xge]]
+- [[Forest Encounters Levels 510 Xge]]
+- [[Grassland Encounters Levels 15 Xge]]
+- [[Hill Encounters Levels 510 Xge]]
+- [[Monsters by Habitat Forest Monsters Xmm]]
+- [[Monsters by Habitat Grassland Monsters Xmm]]
+- [[Monsters by Habitat Hill Monsters Xmm]]
+- [[Probabilities Sylvan Forest Encounters]]
+- [[Sylvan Forest Encounters]]
+- [[desert-encounters-levels-14-xge (tables)]]
+- [[forest-encounters-levels-14-xge (tables)]]
+- [[forest-encounters-levels-510-xge (tables)]]
+- [[grassland-encounters-levels-15-xge (tables)]]
+- [[hill-encounters-levels-510-xge (tables)]]
+- [[monsters-by-habitat-forest-monsters-xmm (tables)]]
+- [[monsters-by-habitat-grassland-monsters-xmm (tables)]]
+- [[monsters-by-habitat-hill-monsters-xmm (tables)]]
+- [[probabilities-sylvan-forest-encounters (tables)]]
+- [[sylvan-forest-encounters (tables)]]

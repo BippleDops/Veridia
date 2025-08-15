@@ -84,3 +84,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Strange accidents suggest a conspiracy
 - A shipment has gone missing and truth emerges
 - A journal reveals a betrayal about the cult
+
+## References
+
+- [[Master_Item_Catalog]]

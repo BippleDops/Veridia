@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Moonshadow the Wise", "faelyn moonshadow the wise", "Faelyn Moonshadow Wise", "Wise the Moonshadow Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Moonshadow the Wise
 
 *Elf Rogue (Adventurers), Age 24, Non-binary*
@@ -13,7 +19,6 @@
 Average height and lanky, with Braided elaborately gray hair and Red eyes. Unusual hue skin. Constantly changing hair color.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Sees doom and gloom everywhere
@@ -42,31 +47,25 @@ Chosen by fate to fulfill an ancient prophecy A family member's death has left t
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Brenna Brightblade the Lost (Personal - Best friend)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
-
 
 ### Lyanna Lightbringer the Broken (Family - Sibling)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
 
-
 ### Elric Grimholt the Swift (Professional - Partner)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ### Felicia Voidwalker the Risen (Criminal - Fence)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
 
-
 ### Ewan Crystalbrook the Risen (Family - Spouse)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Is from the future

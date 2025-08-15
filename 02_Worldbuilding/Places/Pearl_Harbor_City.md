@@ -20,7 +20,7 @@ Pearl_Harbor_City stands as a significant city in the region, serving both strat
 - **Location**: Strategic position in the region
 - **Climate**: Temperate, seasonal variations
 - **Terrain**: Varied, suitable for settlement
-- **Resources**: Local materials and [[Trade Goods]]
+- **Resources**: Local materials and [[Trade_Goods|Trade Goods]]
 
 ### Architecture
 The city features architecture typical of the region, with buildings constructed from local materials. Key structures include:
@@ -73,13 +73,11 @@ Established generations ago as a strategic settlement, Pearl_Harbor_City has gro
 - Skilled artisans
 - Common laborers
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
-
 
 ## Connections
 - **North**: Trade road to neighboring settlement
@@ -163,7 +161,7 @@ The city currently faces:
 4. **Mystery**: Unexplained events requiring investigation
 5. **Social Conflict**: Tensions between different [[Groups]]
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 ### Secrets
 - Hidden passages or areas

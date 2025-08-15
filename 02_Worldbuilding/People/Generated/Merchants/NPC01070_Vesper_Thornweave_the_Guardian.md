@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Thornweave the Guardian", "vesper thornweave the guardian", "Vesper Thornweave Guardian", "Guardian the Thornweave Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Thornweave the Guardian
 
 *Elf Trader (Merchants), Age 72, Female*
@@ -13,7 +19,6 @@
 Very tall and wiry, with Dreadlocks unusual color hair and Red eyes. Dark skin. Missing finger on left hand.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Extremely superstitious about everything; Constantly quotes ancient texts
@@ -36,17 +41,14 @@ Inherited a failing business and turned it around An old debt has come due at th
 - **Short Term**: Make this month's payment
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Thalia Lightbringer the Strong (Professional - Employer)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Malakai Nightfall the Seeker (Professional - Rival)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ### Kaelen Goldleaf the Cunning (Criminal - Fence)
 - **Status**: Strained but maintaining
@@ -61,7 +63,6 @@ Inherited a failing business and turned it around An old debt has come due at th
 ### Aeliana Thornweave the Swift (Professional - Mentor)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Sells information to all sides

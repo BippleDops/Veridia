@@ -1,4 +1,5 @@
 ---
+aliases: ["Divine Pendant of Power", "divine pendant of power", "Power of Pendant Divine"]
 tags: [generated]
 id: ITEM0051
 created: 2025-08-15T04:09:51.095Z
@@ -18,8 +19,6 @@ Crafted from crystal with delicate filigree, in ancient but unbreakable. It eman
 
 ## Quirk
 *Changes color with user's mood*
-
-
 
 ## History
 This item was corrupted by dark magic decades ago. It has passed through many hands, each leaving their mark upon its destiny.

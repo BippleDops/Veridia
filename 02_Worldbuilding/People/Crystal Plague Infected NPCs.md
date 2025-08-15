@@ -38,12 +38,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-crystal-plague-infected-npcs-crystal-plague-infected-npcs.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -541,7 +539,6 @@ cr: 1/4
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -577,3 +574,7 @@ cr: 1/4
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Dockmaster Bruno Steadyanchor V1 Dockmaster Bruno Steadyanchor.svg]]

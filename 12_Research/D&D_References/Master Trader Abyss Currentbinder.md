@@ -74,3 +74,10 @@ Mentioned in The First Prophecy of Winds
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Trade Captain Current]]
+- [[The Depth Market]]
+- [[The Depth Market (D&D_References)]]
+- [[Trade Captain Current (D&D_References)]]

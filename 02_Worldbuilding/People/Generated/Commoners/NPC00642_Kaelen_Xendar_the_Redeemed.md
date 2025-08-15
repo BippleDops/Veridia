@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Xendar the Redeemed", "kaelen xendar the redeemed", "Kaelen Xendar Redeemed", "Redeemed the Xendar Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Xendar the Redeemed
 
 *Half-Orc Carpenter (Commoners), Age 50, Non-binary*
@@ -13,7 +19,6 @@
 Above average and heavyset, with Short and neat gray hair and Black eyes. Tan skin. Gold tooth that glints when smiling.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Compulsive liar about minor things; Never backs down from any challenge; Extremely superstitious about everything
@@ -36,27 +41,22 @@ Family has worked the same trade for generations, but times are changing Strange
 - **Short Term**: Sabotage competition
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Corvus Emberfall the Mystic (Professional - Rival)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Branwen Oakenshield the Redeemed (Criminal - Fence)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
-
 
 ### Cedric Oakenshield the Wise (Personal - Nemesis)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
 
-
 ### Delara Underhill the Strong (Criminal - Accomplice)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Can hear the thoughts of others

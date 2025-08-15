@@ -209,3 +209,7 @@ This NPC can serve multiple roles:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-deputy-archmerchant-scroll-deepmin-deputy-archmerchant-scroll-deepmin.svg]]

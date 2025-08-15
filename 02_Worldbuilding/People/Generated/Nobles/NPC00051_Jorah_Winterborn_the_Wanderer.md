@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Winterborn the Wanderer", "jorah winterborn the wanderer", "Jorah Winterborn Wanderer", "Wanderer the Winterborn Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Winterborn the Wanderer
 
 *Dwarf Noble (Nobles), Age 37, Female*
@@ -36,22 +42,18 @@ Secretly adopted into nobility, living in fear of discovery They've fallen in lo
 - **Short Term**: Recruit new members
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Thalia Winterborn (Personal - Love interest)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Wynne Proudmore the Strong (Personal - Ex-lover)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Delara Goldleaf (Political - Patron)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Child from scandalous affair

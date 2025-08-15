@@ -1,3 +1,9 @@
+---
+aliases: ["Time-worn Orb of Dominion", "time-worn orb of dominion", "Dominion of Orb Time-worn"]
+tags: [item, equipment]
+type: item
+---
+
 # Time-worn Orb of Dominion
 
 *Artifacts, Artifact (requires attunement)*
@@ -16,8 +22,6 @@ A time-worn orb pulsing with inner light
 - Increase ability score by 2
 - Increase ability score by 2
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -32,7 +36,6 @@ Priceless
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.432Z*

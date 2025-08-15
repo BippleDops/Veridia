@@ -204,3 +204,15 @@ Memory Pearls is a remarkable item of significant craftsmanship. Its appearance 
 
 ### Curse (if applicable)
 - *[Negative effects]*
+
+## References
+
+- [[Ancient Aquabyssos Rulers]]
+- [[Aquabyssos Cultural Codex]]
+- [[The Grand Trade Routes]]
+- [[Tidal Memory Ceremonies]]
+- [[Sister Morwyn]]
+- [[The Azure Coast]]
+- [[The Great Drowning]]
+- [[The Void Touched Depths]]
+- [[Sister Morwyn (D&D_References)]]

@@ -127,3 +127,15 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[The Crown of Stars]]
+- [[The Great Crystallization]]
+- [[The Shattering of the Crown]]
+- [[Crystallium]]
+- [[The Lock]]
+- [[Crystallium (D&D_References)]]
+- [[The Lock (D&D_References)]]
+- [[Topic Matrix]]
+- [[Topic_Matrix (Indexes)]]

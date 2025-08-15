@@ -1,4 +1,5 @@
 ---
+aliases: ["In Search of Peace", "in search of peace", "Peace of Search In"]
 tags: [generated]
 id: QUEST0062
 created: 2025-08-15T04:09:51.398Z
@@ -22,8 +23,6 @@ Protect the sunken temple from the orc horde for three days
 ### Secondary
 - Rescue any prisoners found
 - Establish future contacts
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they lost everything in a fire, which changed their life forever. Now, circumstances demand immediate action.

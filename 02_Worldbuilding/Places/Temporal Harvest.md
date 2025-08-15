@@ -57,7 +57,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -113,7 +113,7 @@ The first major documented Temporal Harvest occurred in what is now known as the
 
 ### The Age Storms (8 years ago)
 
-A series of temporal disturbances swept through the [[[[Merchant]] Quarter]], causing rapid aging and youth reversals among affected individuals. Some merchants aged decades in hours, while others reverted to childhood. Most effects reversed themselves within days, but some changes proved permanent.
+A series of temporal disturbances swept through the [[Merchant|[[Merchant]] Quarter]], causing rapid aging and youth reversals among affected individuals. Some merchants aged decades in hours, while others reverted to childhood. Most effects reversed themselves within days, but some changes proved permanent.
 
 ### The Echo Market (3 years ago)
 
@@ -196,7 +196,7 @@ Several factors suggest the Temporal Harvest may be connected to Aquabyssos's cu
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Use the Temporal Harvest to:
 - Create unique environmental challenges with time-based obstacles
@@ -233,13 +233,11 @@ Temporal Harvest is a notable location characterized by its unique features and 
 ### Founding
 Temporal Harvest was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -247,13 +245,11 @@ Temporal Harvest was established in the distant past, growing from humble beginn
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -315,7 +311,6 @@ Key stop on spices trade route
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions

@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Crystalbrook the Bold", "urien crystalbrook the bold", "Urien Crystalbrook Bold", "Bold the Crystalbrook Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Crystalbrook the Bold
 
 *Half-Elf Corrupt Noble (Villains), Age 39, Male*
@@ -36,17 +42,14 @@ Driven mad by knowledge humanity wasn't meant to know A chance encounter last wi
 - **Short Term**: Sabotage competition
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Corvus Ironwood the Guardian (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Idris Stormwind the Scholar (Professional - Mentor)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ### Gavril Emberfall the Scholar (Personal - Childhood friend)
 - **Status**: Blood oath bound
@@ -61,7 +64,6 @@ Driven mad by knowledge humanity wasn't meant to know A chance encounter last wi
 ### Branwen Emberfall the Strong (Political - Patron)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Knows how the world will end

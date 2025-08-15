@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # 04_Resources_Assets_Portraits_portrait-npc-high-priestess-scylla-deepdream-high-priestess-scylla-deepdream.svg - Quick Reference
 
 ## Key Info

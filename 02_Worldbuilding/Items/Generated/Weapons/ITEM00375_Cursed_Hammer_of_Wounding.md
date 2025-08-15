@@ -1,3 +1,9 @@
+---
+aliases: ["Cursed Hammer of Wounding", "cursed hammer of wounding", "Wounding of Hammer Cursed"]
+tags: [item, equipment]
+type: item
+---
+
 # Cursed Hammer of Wounding
 
 *Weapons, Legendary*
@@ -16,8 +22,6 @@ A cursed hammer made of crystallized magic
 - +1 to attack and damage rolls
 - Grants advantage on initiative
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -32,7 +36,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.376Z*

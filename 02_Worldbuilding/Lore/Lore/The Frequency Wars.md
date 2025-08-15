@@ -138,3 +138,9 @@ improvements: 20
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[02_Worldbuilding_Lore_The_Frequency_Wars]]
+- [[Surface Signals]]
+- [[Surface Signals (D&D_Statblocks)]]

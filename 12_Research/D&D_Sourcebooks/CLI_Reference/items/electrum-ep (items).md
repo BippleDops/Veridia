@@ -89,3 +89,7 @@ Mentioned in The Hidden Prophecy of Shadows
 
 - The authorities needs help delivering before the new moon
 - A map reveals the truth about a local noble
+
+## References
+
+- [[Master_Item_Catalog]]

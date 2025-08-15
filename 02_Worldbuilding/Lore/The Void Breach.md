@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -72,7 +72,7 @@ The Void Breach represents a crucial aspect of the world's history, cosmology, o
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -85,3 +85,8 @@ The Void Breach represents a crucial aspect of the world's history, cosmology, o
 - An heirloom has gone missing and evil awakens
 - Strange disappearances suggest a conspiracy
 - A [[map]] reveals a betrayal about the cult
+
+## References
+
+- [[Topic Matrix]]
+- [[Topic_Matrix (Indexes)]]

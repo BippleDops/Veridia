@@ -56,7 +56,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Mentioned in The First Prophecy of Winds
 
-
 ## See Also
 - Related content
 - Similar topics

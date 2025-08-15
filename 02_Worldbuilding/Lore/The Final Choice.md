@@ -61,7 +61,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -145,14 +145,14 @@ The conspiracy's first phase involved planting the seeds of future events throug
 
 ### The Betrayal Catalyst
 
-**Year 1 BGC - [[[[The Shattering]] of [[The Crown]]]]**
+**Year 1 BGC - [[The Shattering|[[The Shattering]] of [[The Crown]]]]**
 
-The conspiracy directly orchestrated [[The Seven Betrayers]]' attempt to steal [[The [[Crown of Stars]]]], knowing that their failure would trigger [[The Great Crystallization]]. This event was not an unexpected disaster, but a carefully planned catalyst designed to accelerate the [[Timeline]] toward The Final Choice.
+The conspiracy directly orchestrated [[The Seven Betrayers]]' attempt to steal [[Crown of Stars|The [[Crown of Stars]]]], knowing that their failure would trigger [[The Great Crystallization]]. This event was not an unexpected disaster, but a carefully planned catalyst designed to accelerate the [[Timeline]] toward The Final Choice.
 
 **Hidden Manipulation:**
 - **[[Marcus the Jus]]t**: His obsession with perfect order was artificially enhanced by void entity whispers
 - **[[Seraphina the Beautiful]]**: Her fear of fading was deliberately cultivated through temporal vision implants
-- **[[Goldwin the [[Merchant]]]]**: His greed was supernaturally amplified by cursed coins that increased de[[Sire]]
+- **[[Merchant|Goldwin the [[Merchant]]]]**: His greed was supernaturally amplified by cursed coins that increased de[[Sire]]
 - **Shadowthorn the [[Assassin]]**: His death-touch abilities were secretly gifts from [[Deep Mother Cult]]ists
 - **Thornweaver the Druid**: His merger with planetary consciousness was guided by ancient forest spirits
 - **Stormwind the Navigator**: His elemental madness was induced by exposure to interdimensional storms
@@ -169,9 +169,9 @@ Following [[The Great Crystallization]], the conspiracy worked to establish the 
 **Faction Development:**
 - **[[The Silverscale Conspiracy]]**: Economic control network established as surface-level conspiracy to distract from deeper plans
 - **[[The Shadow Surgeons]]**: Medical horror organization created to develop reality-alteration techniques
-- **[[The [[Crystal Wardens]]]]**: Guardians positioned to protect crucial crystallization sites
+- **[[Crystal Wardens|The [[Crystal Wardens]]]]**: Guardians positioned to protect crucial crystallization sites
 - **[[Parliament of Echoes]]**: Governmental structure designed to maintain controlled chaos
-- **[[The Pressure [[Pirates]]]]**: Maritime faction used to control transportation between key [[location]]s
+- **[[Pirates|The Pressure [[Pirates]]]]**: Maritime faction used to control transportation between key [[location]]s
 
 Each of these organizations believes they are pursuing their own agenda, but their activities have been subtly guided to create the exact conditions required for The Final Choice moment.
 
@@ -182,7 +182,7 @@ Each of these organizations believes they are pursuing their own agenda, but the
 [[Recent Events]] represent the conspiracy's final phase, where centuries of preparation converge into a rapidly accelerating timeline leading toward The Final Choice. Multiple crisis points are being triggered simultaneously to force the decision within a narrow temporal window.
 
 **Current Accelerating Factors:**
-- **[[The [[Seven Shards]]]]**: All fragments of the original crown are becoming active simultaneously
+- **[[Seven Shards|The [[Seven Shards]]]]**: All fragments of the original crown are becoming active simultaneously
 - **Reality Merge Zones**: [[Aethermoor]] and [[Aquabyssos]] are experiencing temporal/spatial overlaps
 - **Deep Mother Rising**: Ancient consciousness is approaching surface reality from [[Abyssal Depths]]
 - **Crystal Saturation**: Magical crystallization is reaching critical mass across both worlds
@@ -274,7 +274,7 @@ The conspiracy is directed by the **Convergence Council**, a collective of entit
 - His legal network creates the controlled chaos needed for crisis escalation
 - Unknowingly removes obstacles to the conspiracy's timeline
 
-**[[[[Queen Seraphina]] [[Lumengarde]]]] - Cultural Manipulation Agent:**
+**[[Queen Seraphina|[[Queen Seraphina]] [[Lumengarde]]]] - Cultural Manipulation Agent:**
 - Believes she is preserving beauty and artistic achievement
 - Actually reshaping cultural values to accept radical change
 - Her aesthetic influence prepares population psychologically for transformation
@@ -326,7 +326,7 @@ Not everyone has been successfully manipulated by the conspiracy. Several resist
 - Some members are genuine threats who must be eliminated or co-opted
 
 **The Old Faith Preservers:**
-- [[Religious [[Groups]]]] attempting to maintain pre-Crystallization beliefs
+- [[Groups|Religious [[Groups]]]] attempting to maintain pre-Crystallization beliefs
 - Oppose change and transformation in all forms
 - Their resistance provides necessary opposition to make the Choice meaningful
 - Their activities prevent premature resolution of the crisis
@@ -450,10 +450,10 @@ Perhaps most importantly, The Final Choice requires moral clarity about:
 
 ### Mechanical Systems
 
-- [[[[Evidence]] Chain Analysis]] - Investigation methods for discovering conspiracy elements
-- [[[[Memory Alteration]] Consequences]] - Effects of information manipulation on individual psychology
+- [[Evidence|[[Evidence]] Chain Analysis]] - Investigation methods for discovering conspiracy elements
+- [[Memory Alteration|[[Memory Alteration]] Consequences]] - Effects of information manipulation on individual psychology
 - [[Reality Merge Zones]] - Areas where Choice implementation is already beginning
-- [[[[Temporal Navigation]] Hazards]] - Dangers of operating within the conspiracy's timeline manipulation
+- [[Temporal Navigation|[[Temporal Navigation]] Hazards]] - Dangers of operating within the conspiracy's timeline manipulation
 
 ---
 
@@ -469,7 +469,7 @@ The Final Choice is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of The Final Choice as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Final Choice.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -523,3 +523,10 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Timeline of Crimes]]
+- [[The Crown's Burden]]
+- [[Evidence Chain Analysis]]
+- [[Timeline of Crimes (D&D_References)]]

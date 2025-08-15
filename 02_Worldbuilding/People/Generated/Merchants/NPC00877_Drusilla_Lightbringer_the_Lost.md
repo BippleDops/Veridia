@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Lightbringer the Lost", "drusilla lightbringer the lost", "Drusilla Lightbringer Lost", "Lost the Lightbringer Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Lightbringer the Lost
 
 *Goliath Caravan Master (Merchants), Age 43, Female*
@@ -36,22 +42,18 @@ Built their business from nothing through cunning and hard work They're being bl
 - **Short Term**: Make this month's payment
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Aldric Moonshadow the Wanderer (Criminal - Informant)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
 
-
 ### Baelor Thornweave the Bold (Professional - Partner)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Hestara Ironforge the Swift (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Is actually a spy for foreign power

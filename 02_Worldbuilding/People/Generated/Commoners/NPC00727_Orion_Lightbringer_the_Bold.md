@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Lightbringer the Bold", "orion lightbringer the bold", "Orion Lightbringer Bold", "Bold the Lightbringer Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Lightbringer the Bold
 
 *Tiefling Baker (Commoners), Age 58, Non-binary*
@@ -36,17 +42,14 @@ Runaway from an arranged marriage, starting a new life They've made a deal they'
 - **Short Term**: Make this month's payment
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Corvus Thornweave the Wanderer (Family - Child)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Faelyn Stormwind the Bold (Personal - Ex-lover)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ### Nerys Nightfall the Lost (Personal - Ex-lover)
 - **Status**: Complicated history
@@ -57,7 +60,6 @@ Runaway from an arranged marriage, starting a new life They've made a deal they'
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Fiora Frostwhisper the Seeker (Personal - Childhood friend)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
@@ -66,7 +68,6 @@ Runaway from an arranged marriage, starting a new life They've made a deal they'
 ### Drusilla Nightfall the Fallen (Family - Cousin)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Has dragon blood in their veins

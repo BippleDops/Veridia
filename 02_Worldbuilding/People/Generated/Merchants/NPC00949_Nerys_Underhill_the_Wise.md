@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Underhill the Wise", "nerys underhill the wise", "Nerys Underhill Wise", "Wise the Underhill Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Underhill the Wise
 
 *Dragonborn Broker (Merchants), Age 30, Female*
@@ -47,26 +53,21 @@ Part of a merchant family with connections everywhere A prophetic dream has been
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Rhiannon Ironforge the Risen (Criminal - Accomplice)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
-
 
 ### Alaric Quicksilver the Mystic (Family - Spouse)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
 
-
 ### Idris Oakenshield the Seeker (Political - Spy)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Zephyr Underhill the Risen (Family - Child)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Smuggles illegal magical items

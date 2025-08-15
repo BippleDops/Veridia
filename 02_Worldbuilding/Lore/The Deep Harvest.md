@@ -53,7 +53,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -185,7 +185,7 @@ Sophisticated facilities transform raw harvested materials into finished product
 ### Production Facilities and Expertise
 
 **The Marine Systems Manufacturing Complex:**
-Integrated facility producing all components of The Deep Harvest system under the direction of [[Chief Marine Engineer [[Coral]] Seaforge]] and specialized technical teams:
+Integrated facility producing all components of The Deep Harvest system under the direction of [[Coral|Chief Marine Engineer [[Coral]] Seaforge]] and specialized technical teams:
 
 **Manufacturing Capabilities:**
 - **Robotic Systems Assembly**: Creating autonomous harvesting and cultivation equipment
@@ -199,7 +199,7 @@ Production requires expertise across multiple technical disciplines:
 
 - **Marine Robotics**: Specialists in underwater autonomous systems ([[Robotics Engineer Wave Autowright]])
 - **Bio-Mechanical Integration**: Experts combining biological and mechanical systems ([[Bio-Mechanical Specialist Tide Lifeforge (D&D_References)]])
-- **Environmental Systems**: Specialists in deep-sea equipment design ([[[[Environmental Engineer Current Depthwrigh]]t]])
+- **Environmental Systems**: Specialists in deep-sea equipment design ([[Environmental Engineer Current Depthwrigh|[[Environmental Engineer Current Depthwrigh]]t]])
 - **Control Systems**: Experts in automation and process control ([[Control Systems Engineer Flow Processwright]])
 - **Quality Control**: Specialists ensuring equipment safety and reliability ([[Quality Inspector Reef Perfectwright]])
 
@@ -427,7 +427,7 @@ The economic importance of The Deep Harvest makes it a target for various threat
 
 **Security Risks:**
 - **Industrial Sabotage**: Competitors attempting to damage harvesting operations
-- **Resource Theft**: [[Criminal [[Organization]]s]] stealing harvested products
+- **Resource Theft**: [[Organization|Criminal [[Organization]]s]] stealing harvested products
 - **Environmental Terrorism**: Activists attempting to stop harvesting through sabotage
 - **International Conflict**: Hostile governments targeting economic infrastructure
 - **Corporate Espionage**: Competitors stealing harvesting technology and methods
@@ -507,7 +507,7 @@ The Deep Harvest is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of The Deep Harvest as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Deep Harvest.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -571,3 +571,17 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Crystal Forest]]
+- [[Crystal-Corruption-Tracking-Sheet]]
+- [[Pressure Adaptation System]]
+- [[The Silverscale Conspiracy]]
+- [[Underwater Breathing]]
+- [[Crystal Forest (D&D_References)]]
+- [[Crystal-Corruption-Tracking-Sheet (D&D_References)]]
+- [[Pressure Adaptation System (D&D_References)]]
+- [[The Depth Chart]]
+- [[The Silverscale Conspiracy (D&D_References)]]
+- [[Underwater Breathing (D&D_References)]]

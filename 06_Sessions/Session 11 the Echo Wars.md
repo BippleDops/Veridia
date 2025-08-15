@@ -494,12 +494,10 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Pronunciation Guide
 - **Three**: [THREE]
 - **These**: [THESE]
 - **Theme**: [THEME]
-
 
 ## Alternate Descriptions
 - **First Impression**: Initial appearance

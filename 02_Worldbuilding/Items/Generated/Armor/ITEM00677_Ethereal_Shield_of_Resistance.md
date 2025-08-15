@@ -1,3 +1,9 @@
+---
+aliases: ["Ethereal Shield of Resistance", "ethereal shield of resistance", "Resistance of Shield Ethereal"]
+tags: [item, equipment]
+type: item
+---
+
 # Ethereal Shield of Resistance
 
 *Armor, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A ethereal shield crafted from exotic materials
 - +1 to AC
 - Reduces damage by 3
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -32,7 +36,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.415Z*

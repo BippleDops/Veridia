@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Frostwhisper the Seeker", "felicia frostwhisper the seeker", "Felicia Frostwhisper Seeker", "Seeker the Frostwhisper Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Frostwhisper the Seeker
 
 *Half-Elf Caravan Master (Merchants), Age 60, Female*
@@ -13,7 +19,6 @@
 Tall and slender, with Braided elaborately blonde hair and Blue eyes. Olive skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Collects unusual and worthless objects; Speaks to inanimate objects; Sees doom and gloom everywhere
@@ -36,7 +41,6 @@ Former adventurer who retired to open a shop A family member's death has left th
 - **Short Term**: Complete current contract
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Solas Moonshadow the Redeemed (Personal - Nemesis)
 - **Status**: Professional only
@@ -52,11 +56,9 @@ Former adventurer who retired to open a shop A family member's death has left th
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Jorah Xendar the Redeemed (Political - Puppet)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Killed previous business owner

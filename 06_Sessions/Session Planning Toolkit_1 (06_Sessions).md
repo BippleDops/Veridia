@@ -510,12 +510,10 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Pronunciation Guide
 - **Both**: [BOTH]
 - **Everything**: [EVERYTHING]
 - **Glaucus's**: [GLAUCUS-S]
-
 
 ## Alternate Descriptions
 - **First Impression**: Initial appearance

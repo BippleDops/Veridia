@@ -69,3 +69,18 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Parliamentary Ethics Committee (Government_and_Parliament)]]
+- [[Merchant's Covenant]]
+- [[Journey Board (Lore)]]
+- [[Problems Time Stream Disruptions]]
+- [[The Departed Collective]]
+- [[Assets Locations Location City the Crystal Cathedral of Pure Light V1 the Crystal Cathedral of Pure Light.svg]]
+- [[The Soul Market]]
+- [[Harbor Master Luna Freedrift (Places)]]
+- [[The Pearl Markets]]
+- [[Symbol Heraldry Crystal Wardens V1 Crystal Wardens.svg]]
+- [[Symbol Heraldry Information Broker Whisper Goldtongu V1 Information Broker Whisper Goldtongu.svg]]
+- [[Merchant's Covenant (D&D_References)]]

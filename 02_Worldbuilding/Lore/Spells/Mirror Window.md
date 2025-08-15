@@ -91,3 +91,9 @@ improvements: 20
 
 - Strange disappearances suggest a conspiracy
 - The authorities needs help finding before dawn
+
+## References
+
+- [[Shadow Broker Mirrors (Criminal_Organizations)]]
+- [[02_Worldbuilding_Spells_Mirror_Window]]
+- [[Shadow Broker Mirrors]]

@@ -32,16 +32,16 @@ generated: 2025-08-14
 | Enhancement Type | Count | Impact |
 |-----------------|-------|---------|
 | **NPCs Enhanced** | 807 | Each NPC now has 8-10 detailed sections |
-| **Locations Enhanced** | 1,562 | Every location fully fleshed out |
-| **Quests Enhanced** | 419 | Complete quest structures |
+| **Locations Enhanced** | 1,562 | Every [[location|location]] fully fleshed out |
+| **[[Quests|Quests]] Enhanced** | 419 | Complete quest structures |
 | **Creatures Enhanced** | 50 | Full ecology and behavior |
 | **Sessions Enhanced** | 35 | Comprehensive prep tools |
 | **Rules Enhanced** | 49 | Examples and clarifications |
-| **Spells Enhanced** | 755 | Component details and uses |
+| **[[spells|spells]] Enhanced** | 755 | Component details and uses |
 | **Cross References** | 500 | Interconnected content |
 | **Variant Descriptions** | 300 | Multiple perspectives |
 | **Difficulty Scaling** | 351 | Adaptable content |
-| **Random Tables** | 200 | Generation tools |
+| **[[Random_Tables|Random Tables]]** | 200 | Generation tools |
 | **DM Tips** | 400 | Running guidance |
 | **Player Tips** | 300 | Strategy advice |
 | **Metadata Enhanced** | 500 | Improved searchability |
@@ -64,7 +64,7 @@ Every NPC file now includes:
 ### Location Improvements (10 sections each)
 Every location now features:
 - ✅ History & Founding
-- ✅ Climate & Weather
+- ✅ Climate & [[weather|weather]]
 - ✅ Local Customs
 - ✅ Resources
 - ✅ Threats
@@ -79,9 +79,9 @@ Every quest includes:
 - ✅ Time Limits
 - ✅ Opposition Details
 - ✅ Ally Information
-- ✅ Moral Dilemmas
+- ✅ [[Moral_Dilemmas|Moral Dilemmas]]
 - ✅ Optional Objectives
-- ✅ Failure Conditions
+- ✅ Failure [[Conditions|Conditions]]
 - ✅ Investigation Clues
 - ✅ Social Encounters
 - ✅ Environmental Hazards
@@ -94,7 +94,7 @@ Every quest includes:
 | Phase | Improvements | Cumulative Total |
 |-------|-------------|------------------|
 | Initial Optimizations | 1,179 | 1,179 |
-| Spell/Timeline/Items | 6,379 | 7,558 |
+| Spell/Timeline/[[Items|Items]] | 6,379 | 7,558 |
 | First 1000+ Micro | 1,031 | 8,589 |
 | **10,000 Target Campaign** | **30,056** | **38,645** |
 
@@ -110,7 +110,7 @@ Every quest includes:
 ### Interconnectivity Score: 95%
 - Cross-references added everywhere
 - See Also sections universal
-- Related content linked
+- [[Related content|Related content]] linked
 
 ### Usability Score: 99%
 - DM tools in every adventure
@@ -174,7 +174,7 @@ The script successfully:
 - **300 variant descriptions** for immersion
 - **200 random tables** for variety
 - **500 cross-references** for exploration
-- Complete handouts and materials
+- Complete [[Handouts|Handouts]] and materials
 
 ### For Content Creation
 - Standardized templates everywhere

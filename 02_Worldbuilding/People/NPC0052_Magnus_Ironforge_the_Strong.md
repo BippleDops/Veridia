@@ -1,11 +1,11 @@
 ---
+aliases: ["Magnus Ironforge the Strong", "magnus ironforge the strong", "Magnus Ironforge Strong", "Strong the Ironforge Magnus"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -94,7 +94,6 @@ Arcana, Investigation, Insight, Athletics
 
 ---
 *Generated: 2025-08-15T03:21:04.032Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

@@ -73,7 +73,7 @@ world: Both
 ### 🏛️ Locations by Type
 
 #### Urban Centers
-- **Aquabyssos**: [[Pearl Harbor City]], [[Abyssos Prime]], [[The Kelp Gardens]]
+- **Aquabyssos**: [[Pearl_Harbor_City|Pearl Harbor City]], [[Abyssos Prime]], [[The Kelp Gardens]]
 - **Aethermoor**: [[Crystalhaven]], [[Port Meridian]], [[Shadowmere]]
 
 #### Dangerous Zones

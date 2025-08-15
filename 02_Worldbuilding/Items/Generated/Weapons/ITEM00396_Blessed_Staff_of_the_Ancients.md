@@ -1,3 +1,9 @@
+---
+aliases: ["Blessed Staff of the Ancients", "blessed staff of the ancients", "Blessed Staff of Ancients", "Ancients the of Staff Blessed"]
+tags: [item, equipment]
+type: item
+---
+
 # Blessed Staff of the Ancients
 
 *Weapons, Legendary (requires attunement)*
@@ -16,8 +22,6 @@ A blessed staff carved from dragon bone
 - Ignores resistance to damage type
 - Ignores resistance to damage type
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -32,7 +36,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.378Z*

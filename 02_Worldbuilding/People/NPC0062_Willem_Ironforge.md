@@ -1,11 +1,11 @@
 ---
+aliases: ["Willem Ironforge", "willem ironforge", "Ironforge Willem"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Child of farmers who sought adventure. Years ago, they accidentally discovered a
 ### Skills
 Investigation, Insight, Persuasion
 
-
-
 ## Possessions
 - 73 gold pieces
 - Set of thieves' tools
@@ -92,7 +90,6 @@ Investigation, Insight, Persuasion
 
 ---
 *Generated: 2025-08-15T03:21:04.033Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

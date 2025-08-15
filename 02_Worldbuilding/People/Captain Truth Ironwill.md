@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-truth-ironwill-captain-truth-ironwill.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -218,7 +216,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Bloodline
 
 Member of House Lionblood - Trait: divine blood
-
 
 ## Daily Routine
 - **Morning**: Typical activities

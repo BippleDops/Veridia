@@ -1,6 +1,5 @@
 ---
 
-
 title: Mechanics Transformations
 type: mechanics
 tags:
@@ -235,7 +234,6 @@ Apply this rule when:
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Depths
-
 
 ## Common Mistakes
 *Frequent misunderstandings to avoid*

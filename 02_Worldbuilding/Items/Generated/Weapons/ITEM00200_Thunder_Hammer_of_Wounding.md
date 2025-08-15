@@ -1,3 +1,9 @@
+---
+aliases: ["Thunder Hammer of Wounding", "thunder hammer of wounding", "Wounding of Hammer Thunder"]
+tags: [item, equipment]
+type: item
+---
+
 # Thunder Hammer of Wounding
 
 *Weapons, Uncommon*
@@ -14,8 +20,6 @@ A thunder hammer forged from meteoric iron
 - Critical hits on 19-20
 - Deals extra 1d6 elemental damage
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -30,7 +34,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.360Z*

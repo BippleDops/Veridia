@@ -4,7 +4,7 @@ title: The [[Bathyal Succession]]
 type: [[Lore]]
 tags:
 - aquatic
-- [[[[Time]]line]]
+- [[Time|[[Time]]line]]
 - lore
 - bathyal-zone
 - status/complete
@@ -35,10 +35,10 @@ participants:
 - Pressure Nobility
 - Hadal Council
 related_entities:
-- '[[The [[Parliament of Echoes]]]]'
-- '[[[[Aboleth]] Prime Yoth]]'
-- '[[The [[Deep Mother]]]]'
-- '[[[[Emperor]] Thalassius]]'
+- '[[Parliament Of Echoes|The [[Parliament of Echoes]]]]'
+- '[[Aboleth|[[Aboleth]] Prime Yoth]]'
+- '[[Deep Mother|The [[Deep Mother]]]]'
+- '[[Emperor|[[Emperor]] Thalassius]]'
 - '[[The Pressure Wars]]'
 scale: Continental (All Depth Zones)
 significance: Constitutional Crisis
@@ -67,7 +67,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -440,7 +440,7 @@ Constitutional amendment creating three-way balance:
 - **The Divine Veto**: Religious council could block laws conflicting with divine will
 
 **Final Settlement (267 AS):**
-The **Constitution of Depths** established the modern [[Aquabyssos Government]]al system:
+The **Constitution of Depths** established the modern [[Aquabyssos_Government|Aquabyssos Government]]al system:
 
 - **Parliamentary Supremacy**: Civil law and goverce remain democratic
 - **Religious Integration**: Spiritual authority recognized in appropriate spheres
@@ -553,7 +553,7 @@ The crisis created unique accommodation between secular democracy and religious 
 
 #### Resource Distribution Reform
 
-Democratic goverce revolutionized [[Economic System]]s:
+Democratic goverce revolutionized [[Economic_System|Economic System]]s:
 
 **Pre-Crisis**: Depth-based resource allocation favoring royal zones
 **Post-Crisis**: Economic policy based on need and democratic representation
@@ -583,7 +583,7 @@ The crisis created modern Aquabyssos military structure:
 Warfare during the succession crisis drove technological advancement:
 
 **Depth-Combat Techniques**: New tactics for multi-zone warfare
-**[[Communication Systems]]**: Improved coordination across depth zones
+**[[Communication_Systems|Communication Systems]]**: Improved coordination across depth zones
 **Weapon Development**: Arms suitable for various pressure environments
 **Defensive Architecture**: Fortifications adapted for underwater democracy
 
@@ -649,7 +649,7 @@ Some succession-era issues remain unresolved:
 ### Cultural Exploration
 
 **The Democracy Festival**: Annual commemorations provide opportunity for political and cultural adventure
-**The [[Royal Archives]]**: Accessing restricted historical documents reveals succession secrets
+**The **: Accessing restricted historical documents reveals succession secrets
 **The Succession Museum**: Educational facility becomes center of historical mystery
 **The Democratic Pilgrimage**: Journey to sites significant in democratic transition
 
@@ -708,7 +708,7 @@ The Bathyal Succession is a undersea element of the setting, known for biolumine
 
 Legends speak of The Bathyal Succession as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Bathyal Succession.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -755,3 +755,10 @@ Different cultures interpret this lore through their own lens, creating variatio
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[Eastern Kingdoms (02_Worldbuilding)]]
+- [[The Restoration Movement]]
+- [[Eastern Kingdoms (D&D_References)]]
+- [[The Restoration Movement (D&D_References)]]

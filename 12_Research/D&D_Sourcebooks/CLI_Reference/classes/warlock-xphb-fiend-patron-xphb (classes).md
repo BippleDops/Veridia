@@ -140,3 +140,33 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[04 Chapter 3 Character Classes]]
+- [[04-chapter-3-character-classes (players-handbook-2024)]]
+- [[Warlock Xphb Archfey Patron Xphb]]
+- [[Warlock Xphb Celestial Patron Xphb]]
+- [[Warlock Xphb Fiend Patron Xphb]]
+- [[Warlock Xphb Great Old One Patron Xphb]]
+- [[Warlock Xphb the Hexblade Xge]]
+- [[warlock-xphb-archfey-patron-xphb (classes)]]
+- [[warlock-xphb-celestial-patron-xphb (classes)]]
+- [[warlock-xphb-great-old-one-patron-xphb (classes)]]
+- [[warlock-xphb-the-hexblade-xge (classes)]]
+- [[Assign Ability Scores Standard Array by]]
+- [[Choose a Class Class Overview Xphb]]
+- [[Classes Phb]]
+- [[Level 1 Hit Points by Class Xphb]]
+- [[Multiclassing Prerequisites Phb]]
+- [[Multiclassing Proficiencies Phb]]
+- [[Preparing Spells Spell Preparation by Class]]
+- [[Spells Scc]]
+- [[assign-ability-scores-standard-array-by-class-xphb]]
+- [[choose-a-class-class-overview-xphb (tables)]]
+- [[classes-phb (tables)]]
+- [[level-1-hit-points-by-class-xphb (tables)]]
+- [[multiclassing-prerequisites-phb (tables)]]
+- [[multiclassing-proficiencies-phb (tables)]]
+- [[preparing-spells-spell-preparation-by-class-xphb]]
+- [[spells-scc (tables)]]

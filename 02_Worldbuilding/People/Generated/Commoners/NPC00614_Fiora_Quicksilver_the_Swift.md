@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Quicksilver the Swift", "fiora quicksilver the swift", "Fiora Quicksilver Swift", "Swift the Quicksilver Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Quicksilver the Swift
 
 *Firbolg Baker (Commoners), Age 63, Male*
@@ -36,32 +42,26 @@ Runaway from an arranged marriage, starting a new life Strange abilities have be
 - **Short Term**: Complete current contract
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Caelum Zephyrblade (Criminal - Handler)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
 
-
 ### Alaric Darkwater the Wanderer (Professional - Employee)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ### Kaelen Proudmore the Bold (Personal - Love interest)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
 
-
 ### Erasmus Winterborn the Lost (Professional - Partner)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Aldric Oakenshield the Scholar (Criminal - Informant)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Is the lost heir to the throne

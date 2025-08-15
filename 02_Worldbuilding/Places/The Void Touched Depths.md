@@ -1,6 +1,6 @@
 ---
 
-title: The [[Void Touched]] Depths
+title: The [[Void Touched Cult|Void Touched]] Depths
 type: [[location]]
 tags:
 - both
@@ -51,7 +51,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -99,7 +99,7 @@ improvements: 20
 
 ## Overview
 
-The Void Touched Depths represent one of [[Aquabyssos]]'s most terrifying natural phenomena: a massive trench system where reality itself has been infected by something from beyond the cosmos. Located at [[Crushing Depths]] where even [[[[Aboleth]] Prime Yoth]] fears to venture, these trenches pulse with an alien hunger that consumes not just matter and energy, but concepts, memories, and the fundamental building blocks of existence itself.
+The Void Touched Depths represent one of [[Aquabyssos]]'s most terrifying natural phenomena: a massive trench system where reality itself has been infected by something from beyond the cosmos. Located at [[Crushing Depths]] where even [[Aboleth|[[Aboleth]] Prime Yoth]] fears to venture, these trenches pulse with an alien hunger that consumes not just matter and energy, but concepts, memories, and the fundamental building blocks of existence itself.
 
 ### The Screaming Gradient (18,000-20,000 feet)
 
@@ -108,7 +108,7 @@ The Void Touched Depths represent one of [[Aquabyssos]]'s most terrifying natura
 - Gravitational anomalies pull in multiple directions simultaneously
 - Temperature: 32°F (0°C) but heat is actively drained from living beings
 - Pressure: 540 atmospheres (instant death for unprepared)
-- First whispers of [[The Void Touched [[Oracle]]]] begin here
+- First whispers of [[Oracle|The Void Touched [[Oracle]]]] begin here
 - Bioluminescent organisms glow with impossible colors
 
 ### The Consumption Zone (20,000-22,000 feet)
@@ -298,7 +298,7 @@ The [[Deep Mother]] experiences [[Prophetic Dreams]] about the void:
 During convergence events:
 - Void corruption manifests in crystal formations
 - Reality stutters affect surface settlements
-- [[[[Queen Seraphina]] [[Lumengarde]]]]'s nightmares intensify
+- [[Queen Seraphina|[[Queen Seraphina]] [[Lumengarde]]]]'s nightmares intensify
 - Crystal plague victims begin showing void symptoms
 - Temporal anomalies create [[Prophetic Visions]]
 
@@ -316,9 +316,9 @@ The void may be connected to [[The Primordial Vaults]]:
 **Recent Disappearances:**
 - Deep Faith Pilgrimage: 200 faithful vanished
 - [[Silverscale Consortium]] Mining Fleet: 12 vessels lost
-- [[The [[Free Current]]]] Reconnaissance: Elite team missing
+- [[Free Current|The [[Free Current]]]] Reconnaissance: Elite team missing
 - Scientific Survey: [[Sage Lysander Deepthought]]'s colleagues
-- [[[[Depth Warden]]s]] Special Forces: Entire battalion
+- [[Depth Warden|[[Depth Warden]]s]] Special Forces: Entire battalion
 
 ### The Oracle's New Prophecies
 
@@ -369,7 +369,7 @@ New religious movement worshipping the Oracle:
 
 - [[Silverscale Consortium]] - Exploiting void resources
 - [[Depth Wardens]] - Military response to void threat
-- [[[[Order of the Sunken Crown]]|[[02 Worldbuilding]]/[[Groups]]/Order Of The Sunken Crown]] - Studying void artifacts
+- [[Order of the Sunken Crown|[[Order of the Sunken Crown]]|[[02_Worldbuilding|02 Worldbuilding]]/[[Groups]]/Order Of The Sunken Crown]] - Studying void artifacts
 - [[The Free Current]] - Reconnaissance missions
 - [[Void Touched Pilgrims]] - Worshipping the corruption
 
@@ -394,7 +394,7 @@ Legends speak of The Void Touched Depths as a nexus where past and present conve
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -418,13 +418,11 @@ The Void Touched Depths is a notable location characterized by its unique featur
 ### Founding
 The Void Touched Depths was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -432,13 +430,11 @@ The Void Touched Depths was established in the distant past, growing from humble
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -470,7 +466,6 @@ Key stop on spices trade route
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -507,3 +502,11 @@ Key stop on spices trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Quest - The Lost Expedition]]
+- [[Abyssos Prime - Inverse Palace]]
+- [[Fortress of the Deeps (D&D_References)]]
+- [[Port Meridian Harbor (D&D_References)]]
+- [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]]

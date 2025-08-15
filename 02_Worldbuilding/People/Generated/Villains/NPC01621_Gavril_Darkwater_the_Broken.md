@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Darkwater the Broken", "gavril darkwater the broken", "Gavril Darkwater Broken", "Broken the Darkwater Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Darkwater the Broken
 
 *Tabaxi Corrupt Noble (Villains), Age 65, Female*
@@ -13,7 +19,6 @@
 Short and imposing, with Mohawk blonde hair and Gray eyes. Brown skin. Warm smile that puts people at ease.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Constantly quotes ancient texts; Never backs down from any challenge
@@ -36,32 +41,26 @@ Betrayed by those they trusted, now seeking revenge on the world A family member
 - **Short Term**: Make this month's payment
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Malakai Stormwind the Bold (Professional - Employer)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Orion Silverleaf the Scholar (Criminal - Handler)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
-
 
 ### Orion Dawnstrider the Redeemed (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Gareth Xendar the Lost (Criminal - Target)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
 
-
 ### Erasmus Ironforge the Swift (Professional - Employee)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Is being controlled by darker force

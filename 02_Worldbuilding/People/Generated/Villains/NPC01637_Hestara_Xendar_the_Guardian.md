@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Xendar the Guardian", "hestara xendar the guardian", "Hestara Xendar Guardian", "Guardian the Xendar Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Xendar the Guardian
 
 *Gnome Cultist (Villains), Age 77, Male*
@@ -13,7 +19,6 @@
 Short and heavyset, with Long and flowing red hair and Violet eyes. Freckled skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Compulsive liar about minor things; Believes in every conspiracy theory; Speaks to inanimate objects
@@ -47,11 +52,9 @@ Born into evil but questioning their path A prophetic dream has been haunting th
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Felicia Underhill the Mystic (Political - Opposition)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Is being controlled by darker force

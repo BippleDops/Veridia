@@ -114,3 +114,7 @@ Mentioned in The Hidden Prophecy of Shadows
 - Civil war
 - Natural disasters
 - Current power structures established
+
+## References
+
+- [[Procedures Energy State Conversion]]

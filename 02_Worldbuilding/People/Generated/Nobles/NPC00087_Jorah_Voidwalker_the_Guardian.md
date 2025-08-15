@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Voidwalker the Guardian", "jorah voidwalker the guardian", "Jorah Voidwalker Guardian", "Guardian the Voidwalker Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Voidwalker the Guardian
 
 *Dwarf Courtier (Nobles), Age 64, Male*
@@ -42,21 +48,17 @@ Last survivor of a fallen house, seeking to restore family honor Strange abiliti
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Aeliana Ironwood the Redeemed (Professional - Partner)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ### Corvus Frostwhisper the Strong (Family - Spouse)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Faelyn Quicksilver (Professional - Rival)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
-
 
 ### Branwen Brightblade (Personal - Nemesis)
 - **Status**: Secretly hostile
@@ -66,7 +68,6 @@ Last survivor of a fallen house, seeking to restore family honor Strange abiliti
 ### Caelum Brightblade the Risen (Family - Spouse)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Actually a bastard with no real claim

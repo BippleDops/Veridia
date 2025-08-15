@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Oakenshield", "hestara oakenshield", "Oakenshield Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Oakenshield
 
 *Dragonborn Farmer (Commoners), Age 52, Non-binary*
@@ -42,21 +48,17 @@ Former soldier trying to adjust to civilian life A family member's death has lef
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Alaric Crystalbrook the Risen (Professional - Rival)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ### Corvus Goldleaf the Wise (Family - Child)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
 
-
 ### Hestara Ironforge (Family - Parent)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ### Caelum Keenblade the Cunning (Family - Sibling)
 - **Status**: Complicated history

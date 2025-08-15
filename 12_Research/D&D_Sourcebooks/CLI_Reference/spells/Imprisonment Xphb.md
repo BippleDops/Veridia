@@ -104,3 +104,25 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Blue Slaad Xmm]]
+- [[Death Slaad Xmm]]
+- [[Gray Slaad Xmm]]
+- [[Green Slaad Xmm]]
+- [[Red Slaad Xmm]]
+- [[Slaad Tadpole Xmm]]
+- [[blue-slaad-xmm (aberration)]]
+- [[death-slaad-xmm (aberration)]]
+- [[gray-slaad-xmm (aberration)]]
+- [[green-slaad-xmm (aberration)]]
+- [[red-slaad-xmm (aberration)]]
+- [[slaad-tadpole-xmm (aberration)]]
+- [[Illithilich Vgm (undead)]]
+- [[illithilich-vgm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[List Spells School Abjuration]]
+- [[list-spells-school-abjuration (lists)]]

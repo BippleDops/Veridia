@@ -35,8 +35,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
-
 ## Relationships
 - **Allies**: Notable allies and friends
 - **Rivals**: Competitors and rivals  
@@ -213,7 +211,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -283,3 +280,11 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[The Queen]]
+- [[Assets Locations Location City Transportation Guild Masters V1 Transportation Guild Masters.svg]]
+- [[Assets Portraits Portrait NPC Captain Henrik Proudbanner Captain Henrik Proudbanner.svg]]
+- [[The Queen (D&D_References)]]
+- [[The Queen 3 (D&D_References)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Keenblade the Guardian", "qadim keenblade the guardian", "Qadim Keenblade Guardian", "Guardian the Keenblade Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Keenblade the Guardian
 
 *Human Crime Boss (Villains), Age 32, Male*
@@ -36,22 +42,18 @@ Betrayed by those they trusted, now seeking revenge on the world They've made a 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Rhiannon Ironwood the Mystic (Political - Opposition)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
 
-
 ### Xander Youngblood the Scholar (Political - Patron)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Dara Underhill the Redeemed (Personal - Ex-lover)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ### Felicia Darkwater the Guardian (Family - Parent)
 - **Status**: On the verge of collapse
@@ -66,7 +68,6 @@ Betrayed by those they trusted, now seeking revenge on the world They've made a 
 ### Alaric Ironwood the Strong (Family - Parent)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Was once a renowned hero

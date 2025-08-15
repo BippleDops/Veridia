@@ -67,3 +67,8 @@ Mentioned in The Second Prophecy of Depths
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Shadow Ambush - Optional (Criminal_Organizations)]]
+- [[Shadow Ambush - Optional]]

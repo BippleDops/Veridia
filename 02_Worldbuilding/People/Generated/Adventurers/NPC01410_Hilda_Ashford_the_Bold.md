@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Ashford the Bold", "hilda ashford the bold", "Hilda Ashford Bold", "Bold the Ashford Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Ashford the Bold
 
 *Dwarf Ranger (Adventurers), Age 67, Female*
@@ -36,7 +42,6 @@ Searching for a legendary treasure their parent died seeking They've made a deal
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Solas Goldleaf the Guardian (Political - Puppet)
 - **Status**: Recently reconciled
@@ -47,16 +52,13 @@ Searching for a legendary treasure their parent died seeking They've made a deal
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Aeliana Emberfall the Guardian (Political - Opposition)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Jorah Ironwood the Guardian (Criminal - Target)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ### Nerys Dawnstrider the Guardian (Personal - Best friend)
 - **Status**: Blood oath bound

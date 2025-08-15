@@ -1,4 +1,5 @@
 ---
+aliases: ["Blessed Shield of Power", "blessed shield of power", "Power of Shield Blessed"]
 tags: [generated]
 id: ITEM0009
 created: 2025-08-15T04:09:51.079Z

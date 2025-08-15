@@ -1,4 +1,5 @@
 ---
+aliases: ["Forgotten Circlet of the Dawn", "forgotten circlet of the dawn", "Forgotten Circlet of Dawn", "Dawn the of Circlet Forgotten"]
 tags: [generated]
 id: ITEM0125
 created: 2025-08-15T04:09:51.117Z
@@ -19,8 +20,6 @@ Crafted from adamantine with glowing gems, in showing age but sturdy. It emanate
 
 ## Quirk
 *Changes color with user's mood*
-
-
 
 ## History
 This item was lost in a great battle millennia ago. It has passed through many hands, each leaving their mark upon its destiny.

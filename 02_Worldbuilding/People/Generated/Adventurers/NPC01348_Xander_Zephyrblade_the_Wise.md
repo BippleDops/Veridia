@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Zephyrblade the Wise", "xander zephyrblade the wise", "Xander Zephyrblade Wise", "Wise the Zephyrblade Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Zephyrblade the Wise
 
 *Tabaxi Wizard (Adventurers), Age 19, Female*
@@ -13,7 +19,6 @@
 Tall and imposing, with Braided elaborately blonde hair and Amber eyes. Tan skin. Birthmark shaped like a constellation.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Always speaks in metaphors and riddles
@@ -36,7 +41,6 @@ Running from a dark past that won't stay buried They've been marked by a secret 
 - **Short Term**: Complete current contract
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Solas Voidwalker the Wanderer (Professional - Partner)
 - **Status**: Professional only
@@ -47,11 +51,9 @@ Running from a dark past that won't stay buried They've been marked by a secret 
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Hilda Blackstone the Lost (Political - Ally)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Carries a world-ending artifact

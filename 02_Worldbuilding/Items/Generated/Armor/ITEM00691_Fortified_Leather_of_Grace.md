@@ -1,3 +1,9 @@
+---
+aliases: ["Fortified Leather of Grace", "fortified leather of grace", "Grace of Leather Fortified"]
+tags: [item, equipment]
+type: item
+---
+
 # Fortified Leather of Grace
 
 *Armor, Common*
@@ -13,8 +19,6 @@ A fortified leather bearing ancient runes
 ## Properties
 - Grants swimming speed
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -29,7 +33,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.417Z*

@@ -42,7 +42,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-commander-typhoon-blackheart-commander-typhoon-blackheart.svg)
 
@@ -50,7 +49,6 @@ improvements: 20
 
 # Commander Typhoon Blackheart
 *Iron Fist of the Depths, Guardian of Order*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -239,7 +237,6 @@ Legends speak of Commander Typhoon Blackheart as a nexus where past and present 
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -275,3 +272,16 @@ Legends speak of Commander Typhoon Blackheart as a nexus where past and present 
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Fortress of the Deeps]]
+- [[Assets Locations Location City Captain Marcus Captain Marcus.svg]]
+- [[Assets Locations Location City Merchant Lord Silas Copperfield Merchant Lord Silas Copperfield.svg]]
+- [[Emperor Thalassius the Wise]]
+- [[Commander Typhoon Blackheart (Places)]]
+- [[Commander Typhoon Blackheart (D&D_References)]]
+- [[Fortress of the Deeps (D&D_References)]]
+- [[Queen Seraphina (D&D_References)]]
+- [[Queen Seraphina 3 (D&D_References)]]
+- [[Emperor Thalassius the Wise (D&D_Statblocks)]]

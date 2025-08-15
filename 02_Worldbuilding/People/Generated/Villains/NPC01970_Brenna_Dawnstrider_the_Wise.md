@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Dawnstrider the Wise", "brenna dawnstrider the wise", "Brenna Dawnstrider Wise", "Wise the Dawnstrider Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Dawnstrider the Wise
 
 *Tabaxi Dark Wizard (Villains), Age 39, Non-binary*
@@ -36,7 +42,6 @@ Born into evil but questioning their path They've been marked by a secret societ
 - **Short Term**: Find missing person
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Idris Stormwind the Fallen (Political - Puppet)
 - **Status**: Recently reconciled
@@ -47,26 +52,21 @@ Born into evil but questioning their path They've been marked by a secret societ
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Hilda Xendar the Strong (Political - Ally)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ### Felicia Blackstone the Fallen (Professional - Employee)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Orion Jadeclaw the Lost (Family - Child)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Delara Jadeclaw the Risen (Family - Cousin)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Has a child they're protecting

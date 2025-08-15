@@ -1,3 +1,9 @@
+---
+aliases: ["Concentrated Herb of Vigor", "concentrated herb of vigor", "Vigor of Herb Concentrated"]
+tags: [item, equipment]
+type: item
+---
+
 # Concentrated Herb of Vigor
 
 *Consumables, Common*
@@ -13,8 +19,6 @@ A concentrated herb emanating sweet fragrance
 ## Properties
 - Remove one condition
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -29,7 +33,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.454Z*

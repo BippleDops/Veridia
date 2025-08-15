@@ -2,7 +2,7 @@
 tags: ['[[Lore]]']
 ---
 
-# [[02 Worldbuilding]]/Lore/The [[Shadow Shard]]
+# [[02_Worldbuilding|02 Worldbuilding]]/Lore/The [[Shadow Shard]]
 
 ## Overview
 

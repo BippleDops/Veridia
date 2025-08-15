@@ -35,8 +35,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
-
 ## Relationships
 - **Allies**: Notable allies and friends
 - **Rivals**: Competitors and rivals  
@@ -211,8 +209,6 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -248,3 +244,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Aurelius Goldwave]]
+- [[Silver Mask]]
+- [[The Crystal Festival]]
+- [[The Restoration Movement]]
+- [[Assets Locations Location City Innkeeper Marina Dreamwhisper Innkeeper Marina Dreamwhisper.svg]]
+- [[The First Truth]]
+- [[Throne Room - Heart of Palace]]
+- [[Aurelius Goldwave (D&D_Statblocks)]]

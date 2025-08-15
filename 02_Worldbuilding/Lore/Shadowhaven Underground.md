@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -79,7 +79,7 @@ Shadowhaven Underground represents a crucial aspect of the world's history, cosm
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -95,3 +95,7 @@ Mentioned in The First Prophecy of Stars
 
 - A [[map]] reveals a conspiracy about the cult
 - A document has gone missing and war looms
+
+## References
+
+- [[CORDELIA_VAULT_USER_MANUAL]]

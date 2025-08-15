@@ -219,3 +219,8 @@ Member of House Eagleblood - Trait: curse
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Assets Locations Location City Master Curator Pearl Artflow V1 Master Curator Pearl Artflow.svg]]
+- [[04_Resources_Assets_Locations_location-city-master-host-torrent-welcomeall-master-host-torrent-welcomeall.svg]]

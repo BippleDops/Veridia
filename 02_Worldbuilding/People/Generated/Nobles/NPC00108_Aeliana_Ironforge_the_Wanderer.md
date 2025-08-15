@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Ironforge the Wanderer", "aeliana ironforge the wanderer", "Aeliana Ironforge Wanderer", "Wanderer the Ironforge Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Ironforge the Wanderer
 
 *Human Aristocrat (Nobles), Age 60, Non-binary*
@@ -36,12 +42,10 @@ Secretly adopted into nobility, living in fear of discovery They've made a deal 
 - **Short Term**: Survive until next week
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Drusilla Frostwhisper (Personal - Nemesis)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
-
 
 ### Zephyr Crystalbrook (Criminal - Target)
 - **Status**: Secretly hostile
@@ -52,11 +56,9 @@ Secretly adopted into nobility, living in fear of discovery They've made a deal 
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Kaelen Underhill (Criminal - Informant)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Secretly funding the rebellion

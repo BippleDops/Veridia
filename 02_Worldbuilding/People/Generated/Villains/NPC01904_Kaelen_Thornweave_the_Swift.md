@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Thornweave the Swift", "kaelen thornweave the swift", "Kaelen Thornweave Swift", "Swift the Thornweave Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Thornweave the Swift
 
 *Gnome Corrupt Noble (Villains), Age 66, Male*
@@ -36,17 +42,14 @@ Betrayed by those they trusted, now seeking revenge on the world Strange abiliti
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Brenna Silverleaf the Bold (Personal - Best friend)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Zephyr Silverleaf the Redeemed (Family - Parent)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
-
 
 ### Rhiannon Jadeclaw the Wise (Political - Opposition)
 - **Status**: Mutually beneficial
@@ -57,11 +60,9 @@ Betrayed by those they trusted, now seeking revenge on the world Strange abiliti
 - **Status**: Strong and trusting
 - **History**: United by common enemy
 
-
 ### Malakai Goldleaf the Redeemed (Criminal - Accomplice)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is being controlled by darker force

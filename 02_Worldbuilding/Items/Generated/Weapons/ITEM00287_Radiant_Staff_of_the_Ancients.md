@@ -1,3 +1,9 @@
+---
+aliases: ["Radiant Staff of the Ancients", "radiant staff of the ancients", "Radiant Staff of Ancients", "Ancients the of Staff Radiant"]
+tags: [item, equipment]
+type: item
+---
+
 # Radiant Staff of the Ancients
 
 *Weapons, Uncommon*
@@ -14,8 +20,6 @@ A radiant staff made of crystallized magic
 - Returns when thrown
 - Deals extra 1d6 elemental damage
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -30,7 +34,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.368Z*

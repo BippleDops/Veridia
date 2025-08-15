@@ -23,7 +23,7 @@ modified: '2025-08-14'
 status: complete
 [[region]]: Unknown
 population: Variable (Pilgrims and Researchers)
-affiliation: '[[The [[Deep Mother]]]] (Natural Phenomenon)'
+affiliation: '[[Deep Mother|The [[Deep Mother]]]] (Natural Phenomenon)'
 created_by: auto-stub
 danger_level: Moderate
 location_type: Shadow Manifestation Sites
@@ -58,7 +58,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -110,7 +110,7 @@ Shadow Wells are mysterious phenomena scattered throughout [[Aquabyssos]], appea
 
 #### The Despair Depths
 
-**Location**: Deepest oceanic trenches near [[The [[Hadal Depths]]]]  
+**Location**: Deepest oceanic trenches near [[Hadal Depths|The [[Hadal Depths]]]]  
 **Count**: ~50 Wells  
 **Manifestations**: Existential dread, cosmic loneliness, fear of meaninglessness
 - **The Void Well**: Largest Well producing entities of pure nihilism
@@ -159,7 +159,7 @@ Shadow Wells are mysterious phenomena scattered throughout [[Aquabyssos]], appea
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
  ### Campaign Integration
 
@@ -197,13 +197,11 @@ Shadow Wells is a notable location characterized by its unique features and stra
 ### Founding
 Shadow Wells was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -211,13 +209,11 @@ Shadow Wells was established in the distant past, growing from humble beginnings
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -277,7 +273,6 @@ Ongoing situations affecting Shadow Wells:
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -313,3 +308,22 @@ Ongoing situations affecting Shadow Wells:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Quest - Nature's Balance]]
+- [[Quest - Nature's Balance_1 (01_Adventures)]]
+- [[Crystal Wardens]]
+- [[Deep Mother]]
+- [[Initiative Tracker (02_Worldbuilding)]]
+- [[Random Encounters]]
+- [[The Shadow Singer Naia]]
+- [[Depth Warden Patrol]]
+- [[Depth Wardens]]
+- [[Deep Mother (D&D_References)]]
+- [[Deep Mother 3 (D&D_References)]]
+- [[Depth Wardens (D&D_References)]]
+- [[Discover Marina's Truth]]
+- [[Crystal Wardens (D&D_Statblocks)]]
+- [[Depth Warden Patrol (D&D_Statblocks)]]
+- [[Random Encounters (D&D_Statblocks)]]

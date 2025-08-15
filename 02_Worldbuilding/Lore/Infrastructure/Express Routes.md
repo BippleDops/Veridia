@@ -88,3 +88,8 @@ improvements: 20
 
 - A shipment has gone missing and evil awakens
 - A shipment has gone missing and truth emerges
+
+## References
+
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Pressure Terminal]]

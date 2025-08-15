@@ -1,4 +1,5 @@
 ---
+aliases: ["Cursed Gauntlet of Power", "cursed gauntlet of power", "Power of Gauntlet Cursed"]
 tags: [generated]
 id: ITEM0042
 created: 2025-08-15T04:09:51.091Z
@@ -19,8 +20,6 @@ Crafted from crystal with ancient symbols, in pristine condition. It emanates a 
 
 ## Quirk
 *Vibrates near magic*
-
-
 
 ## History
 This item was created to seal an ancient evil decades ago. It has passed through many hands, each leaving their mark upon its destiny.

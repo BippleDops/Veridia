@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Hawthorne the Redeemed", "ysara hawthorne the redeemed", "Ysara Hawthorne Redeemed", "Redeemed the Hawthorne Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Hawthorne the Redeemed
 
 *Human Dark Wizard (Villains), Age 26, Male*
@@ -13,7 +19,6 @@
 Average height and lanky, with Short and neat unusual color hair and Green eyes. Freckled skin. Constantly changing hair color.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Incredibly optimistic despite evidence; Constantly quotes ancient texts
@@ -36,7 +41,6 @@ Betrayed by those they trusted, now seeking revenge on the world Strange abiliti
 - **Short Term**: Gather information
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Idris Keenblade the Fallen (Criminal - Informant)
 - **Status**: On the verge of collapse
@@ -47,21 +51,17 @@ Betrayed by those they trusted, now seeking revenge on the world Strange abiliti
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Qadim Lightbringer the Strong (Criminal - Target)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
-
 
 ### Dara Ironwood the Guardian (Personal - Childhood friend)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Ysara Moonshadow the Fallen (Professional - Mentor)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Knows how the world will end

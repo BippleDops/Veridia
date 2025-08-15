@@ -1,4 +1,5 @@
 ---
+aliases: ["The Hidden Legacy", "the hidden legacy", "Legacy Hidden The"]
 tags: [quest, adventure, generated]
 type: quest
 ---
@@ -20,8 +21,6 @@ Gain access to the sunken temple and complete the ritual
 
 ### Secondary
 - Rescue any prisoners found
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they found an ancient artifact, which changed their life forever. Now, circumstances demand immediate action.

@@ -114,3 +114,8 @@ Mentioned in The Hidden Prophecy of Winds
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Assets Locations Location City Palace Guard Captain Neutralis Palace Guard Captain Neutralis.png]]
+- [[Assets Locations Location City Quartermaster David Simpleton V1 Quartermaster David Simpleton.svg]]

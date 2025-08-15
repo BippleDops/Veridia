@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Ironwood the Seeker", "faelyn ironwood the seeker", "Faelyn Ironwood Seeker", "Seeker the Ironwood Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Ironwood the Seeker
 
 *Gnome Rogue (Adventurers), Age 36, Non-binary*
@@ -36,12 +42,10 @@ Searching for a legendary treasure their parent died seeking They've fallen in l
 - **Short Term**: Complete current contract
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Malakai Xendar the Scholar (Criminal - Accomplice)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ### Fiora Underhill the Wanderer (Personal - Childhood friend)
 - **Status**: Blood oath bound
@@ -52,16 +56,13 @@ Searching for a legendary treasure their parent died seeking They've fallen in l
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Lyanna Keenblade the Cunning (Personal - Ex-lover)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Brenna Frostwhisper the Cunning (Professional - Mentor)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Has died and been resurrected

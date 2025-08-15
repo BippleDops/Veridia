@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Voidwalker the Wise", "ewan voidwalker the wise", "Ewan Voidwalker Wise", "Wise the Voidwalker Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Voidwalker the Wise
 
 *Genasi Baker (Commoners), Age 67, Female*
@@ -36,7 +42,6 @@ Runaway from an arranged marriage, starting a new life Strange abilities have be
 - **Short Term**: Gather information
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Cedric Blackstone the Wanderer (Criminal - Target)
 - **Status**: Strong and trusting
@@ -46,7 +51,6 @@ Runaway from an arranged marriage, starting a new life Strange abilities have be
 ### Dara Lightbringer the Fallen (Family - Cousin)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ### Pyria Emberfall the Mystic (Political - Patron)
 - **Status**: Blood oath bound

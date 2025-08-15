@@ -269,7 +269,6 @@ A: Supernatural abilities suppressed, mundane portions still function
 | Hard | d20+mod | 20 | Serious consequence |
 | Extreme | d20+mod | 25 | Catastrophic |
 
-
 ## Common Mistakes
 *Frequent misunderstandings to avoid*
 ## Variant Rules Options

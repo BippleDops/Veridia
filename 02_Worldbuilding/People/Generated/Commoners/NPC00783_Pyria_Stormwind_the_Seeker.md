@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Stormwind the Seeker", "pyria stormwind the seeker", "Pyria Stormwind Seeker", "Seeker the Stormwind Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Stormwind the Seeker
 
 *Elf Farmer (Commoners), Age 73, Female*
@@ -13,7 +19,6 @@
 Below average and lanky, with Short and neat blonde hair and Green eyes. Freckled skin. Missing finger on left hand.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Laughs at the most inappropriate times; Sees doom and gloom everywhere
@@ -36,7 +41,6 @@ Former soldier trying to adjust to civilian life An old debt has come due at the
 - **Short Term**: Complete current contract
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Ysara Silverleaf the Cunning (Family - Child)
 - **Status**: Strained but maintaining
@@ -47,7 +51,6 @@ Former soldier trying to adjust to civilian life An old debt has come due at the
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
 
-
 ### Ysara Darkwater the Seeker (Political - Ally)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
@@ -56,7 +59,6 @@ Former soldier trying to adjust to civilian life An old debt has come due at the
 ### Erasmus Crystalbrook the Redeemed (Personal - Love interest)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Can hear the thoughts of others

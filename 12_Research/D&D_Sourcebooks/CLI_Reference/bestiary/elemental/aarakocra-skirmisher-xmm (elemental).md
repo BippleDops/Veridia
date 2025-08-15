@@ -136,3 +136,7 @@ Mentioned in The First Prophecy of Shadows
 
 - Strange accidents suggest a portal
 - A corpse reveals a betrayal about this place
+
+## References
+
+- [[README]]

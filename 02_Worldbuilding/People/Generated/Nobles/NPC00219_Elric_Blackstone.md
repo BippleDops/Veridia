@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Blackstone", "elric blackstone", "Blackstone Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Blackstone
 
 *Aasimar Ambassador (Nobles), Age 35, Male*
@@ -36,12 +42,10 @@ Recently elevated to nobility through service, still learning courtly ways A cha
 - **Short Term**: Gather information
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Felicia Quicksilver the Mystic (Professional - Rival)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ### Nerys Ravenheart the Cunning (Family - Spouse)
 - **Status**: Strained but maintaining
@@ -52,11 +56,9 @@ Recently elevated to nobility through service, still learning courtly ways A cha
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Wynne Nightfall the Mystic (Professional - Employer)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Child from scandalous affair

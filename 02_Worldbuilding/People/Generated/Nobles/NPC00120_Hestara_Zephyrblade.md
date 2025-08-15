@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Zephyrblade", "hestara zephyrblade", "Zephyrblade Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Zephyrblade
 
 *Tabaxi Courtier (Nobles), Age 57, Male*
@@ -13,7 +19,6 @@
 Average height and stocky, with Tied back blonde hair and Red eyes. Freckled skin. Missing finger on left hand.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Constantly quotes ancient texts; Always hungry and eating something; Speaks to inanimate objects
@@ -47,11 +52,9 @@ Exiled from their homeland, trying to rebuild their power base They're being bla
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Cedric Emberfall (Criminal - Handler)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ### Ysara Lightbringer the Wanderer (Personal - Ex-lover)
 - **Status**: Mutually beneficial
@@ -61,7 +64,6 @@ Exiled from their homeland, trying to rebuild their power base They're being bla
 ### Idris Ashford (Criminal - Handler)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

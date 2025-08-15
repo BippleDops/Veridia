@@ -175,7 +175,7 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[Foreign Trader Captain Hassan al Rimal]] (enemy)
+- [[Portrait NPC Foreign Trader Captain Hassan Al Rimal Foreign Trader Captain Hassan Al Rimal.svg|Foreign Trader Captain Hassan al Rimal]] (enemy)
 - [[04_Resources_Assets_Portraits_portrait-npc-captain-sterling-lightshield-captain-sterling-lightshield.svg]] (colleague)
 - [[Goldwave Ficial Offices]] (rival)
 ---
@@ -192,3 +192,7 @@ This NPC can serve multiple roles:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-sterling-lightshield-captain-sterling-lightshield.svg]]

@@ -88,3 +88,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A corpse reveals the truth about this place
 - A corpse reveals a betrayal about the government
+
+## References
+
+- [[Master_Spell_Compendium]]

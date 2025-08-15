@@ -1,4 +1,5 @@
 ---
+aliases: ["Storm Guardian", "storm guardian", "Guardian Storm"]
 tags: [generated]
 id: MON0035_Storm_Guardian
 created: 2025-08-15T04:09:51.430Z
@@ -28,7 +29,6 @@ A terrifying creature that stalks its prey from the shadows
 
 ---
 *Generated: 2025-08-15T03:21:47.464Z*
-
 
 ## Habitat
 - Natural environment and territories

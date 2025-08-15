@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Underhill the Broken", "jorah underhill the broken", "Jorah Underhill Broken", "Broken the Underhill Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Underhill the Broken
 
 *Goliath Ranger (Adventurers), Age 39, Male*
@@ -36,22 +42,18 @@ Running from a dark past that won't stay buried They recently discovered a secre
 - **Short Term**: Recruit new members
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Gavril Thornweave the Mystic (Family - Child)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Gareth Underhill the Seeker (Criminal - Accomplice)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Fiora Crystalbrook the Risen (Professional - Employer)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Is from the future

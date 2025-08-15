@@ -185,7 +185,7 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[Quest   The Diplomatic Immunity Case]] (friend)
+- [[Diplomatic Immunity|Quest   The Diplomatic Immunity Case]] (friend)
 - [[04_Resources_Assets_Symbols_symbol-heraldry-frequency-weapons-frequency-weapons.svg]] (friend)
 - [[04_Resources_Assets_Locations_location-city-master-chef-coral-seasweaver-v1-master-chef-coral-seasweaver.svg]] (enemy)
 ---

@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Stormwind", "erasmus stormwind", "Stormwind Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Stormwind
 
 *Human Fisher (Commoners), Age 35, Female*
@@ -13,7 +19,6 @@
 Above average and muscular, with Carefully styled red hair and Green eyes. Tan skin. Weather-beaten face showing hard life.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Laughs at the most inappropriate times
@@ -36,7 +41,6 @@ Survivor of a disaster that destroyed their village A family member's death has 
 - **Short Term**: Gather information
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Ysara Voidwalker the Wanderer (Personal - Childhood friend)
 - **Status**: One-sided affection
@@ -47,21 +51,17 @@ Survivor of a disaster that destroyed their village A family member's death has 
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Erasmus Darkwater the Bold (Personal - Ex-lover)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ### Aeliana Moonshadow the Swift (Professional - Partner)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Solas Xendar the Wanderer (Political - Spy)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Knows location of ancient treasure

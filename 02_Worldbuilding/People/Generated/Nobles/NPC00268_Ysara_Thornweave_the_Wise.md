@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Thornweave the Wise", "ysara thornweave the wise", "Ysara Thornweave Wise", "Wise the Thornweave Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Thornweave the Wise
 
 *Half-Orc Courtier (Nobles), Age 61, Female*
@@ -42,16 +48,13 @@ Secretly adopted into nobility, living in fear of discovery They're being blackm
 - **Status**: Complicated history
 - **History**: United by common enemy
 
-
 ### Urien Youngblood the Seeker (Political - Patron)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Gavril Frostwhisper the Fallen (Criminal - Informant)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Practicing forbidden magic

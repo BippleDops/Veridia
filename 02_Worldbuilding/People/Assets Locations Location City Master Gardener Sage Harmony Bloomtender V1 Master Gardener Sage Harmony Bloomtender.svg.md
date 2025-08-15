@@ -216,3 +216,8 @@ This NPC can serve multiple roles:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-professor-marina-reefbuilder-professor-marina-reefbuilder.svg]]
+- [[04_Resources_Assets_Locations_location-city-scout-captain-vera-deepwatch-scout-captain-vera-deepwatch.svg]]

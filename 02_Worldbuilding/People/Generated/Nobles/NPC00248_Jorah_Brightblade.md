@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Brightblade", "jorah brightblade", "Brightblade Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Brightblade
 
 *Dwarf Noble (Nobles), Age 36, Female*
@@ -36,22 +42,18 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Survive until next week
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Delara Stormwind (Professional - Partner)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Rhiannon Proudmore (Family - Sibling)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Ysara Thornweave (Criminal - Informant)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ### Orion Voidwalker the Seeker (Professional - Partner)
 - **Status**: Strong and trusting
@@ -61,7 +63,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 ### Alaric Moonshadow (Family - Cousin)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Practicing forbidden magic

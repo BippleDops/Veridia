@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Nightfall the Fallen", "hilda nightfall the fallen", "Hilda Nightfall Fallen", "Fallen the Nightfall Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Nightfall the Fallen
 
 *Gnome Broker (Merchants), Age 57, Male*
@@ -13,7 +19,6 @@
 Average height and athletic, with Partially shaved gray hair and Heterochromic eyes. Weathered skin. Gold tooth that glints when smiling.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Constantly quotes ancient texts
@@ -36,22 +41,18 @@ Inherited a failing business and turned it around They're being blackmailed by s
 - **Short Term**: Complete current contract
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Baelor Youngblood the Cunning (Political - Puppet)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Elric Darkwater the Mystic (Family - Parent)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Dara Goldleaf the Redeemed (Political - Opposition)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Killed previous business owner

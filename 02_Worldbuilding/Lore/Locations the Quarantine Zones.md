@@ -261,6 +261,5 @@ Adapt as needed for:
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*

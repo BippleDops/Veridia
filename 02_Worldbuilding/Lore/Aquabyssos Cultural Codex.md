@@ -46,7 +46,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -203,7 +203,7 @@ The Cultural Codex of Aquabyssos represents the accumulated wisdom of millennia 
 - **[[Pressure Engineers]]**: Copper-threaded seams and pressure gauges
 - **Deep [[Merchant]]s**: Multi-currency belt displays
 - **Navigation Specialists**: Compass rose embroidery and current [[map]]s
-- **[[Memory Keepers]]**: Pearl-[[Embed]]ded head coverings
+- **[[Memory_Keepers|Memory Keepers]]**: Pearl-[[Embed]]ded head coverings
 - **Shadow Surgeons**: Reflective fabric panels and surgical tool accessories
 
 ### 13. Ceremonial Depth Robes
@@ -411,7 +411,7 @@ The Cultural Codex of Aquabyssos represents the accumulated wisdom of millennia 
 - **Never discuss** personal Deep Mother visions in casual settings
 - **Never refuse** offerings or rituals related to the Deep Mother
 
-### 34. [[Shadow Surgery]] Silence
+### 34. [[Shadow_Surgery|Shadow Surgery]] Silence
 
 **Medical Privacy**: Restrictions on discussing shadow surgery procedures
 **Privacy Protocols**:
@@ -506,7 +506,7 @@ The Cultural Codex of Aquabyssos represents the accumulated wisdom of millennia 
 
 ### 44. Echo-Language Supplements
 
-**Sound Communication**: Non-verbal [[Communication Systems]] using echolocation and sound
+**Sound Communication**: Non-verbal [[Communication_Systems|Communication Systems]] using echolocation and sound
 **Communication Methods**:
 - **Professional Echo-Codes**: Standardized sound patterns for specific occupations
 - **Emotional Sound-Language**: Sonic expressions of feelings and relationships
@@ -524,7 +524,7 @@ The Cultural Codex of Aquabyssos represents the accumulated wisdom of millennia 
 
 ### 46. Guild Initiation Hierarchies
 
-**Professional Entry**: Formal processes for joining [[Professional [[Organization]]s]]
+**Professional Entry**: Formal processes for joining [[Organization|Professional [[Organization]]s]]
 **Initiation Levels**:
 - **Apprentice Trials**: Basic competency testing and depth capability assessment
 - **Journeyman Challenges**: Advanced skill demonstrations and specialization selection
@@ -571,7 +571,7 @@ The Aquabyssos Cultural Codex provides comprehensive guidance for understanding 
 
 The cultural traditions of Aquabyssos have evolved over millennia in response to the unique challenges of underwater life. Each custom serves both practical and symbolic purposes, helping to maintain social cohesion while addressing the physical realities of life in the depths. Many traditions can be traced back to ancient survival necessities that have become ritualized over generations.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Use the cultural customs as a framework for creating realistic social interactions and consequences. Players who learn and respect the customs will find doors opening and [[Allies]] supporting them, while those who ignore or violate traditions may face social ostracism or worse. Consider how different [[Npc]]s might react to cultural violations based on their own background and position in society.
 
@@ -607,3 +607,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Civil war
 - Natural disasters
 - Current [[Power Structures]] established
+
+## References
+
+- [[Aquabyssos (D&D_References)]]

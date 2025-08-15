@@ -178,7 +178,6 @@ Key locations marked:
   - School: Divination
   - Manifestation: Intermittent
 
-
 ## Adventure Seeds
 - Mysterious occurrence
 - Local conflict

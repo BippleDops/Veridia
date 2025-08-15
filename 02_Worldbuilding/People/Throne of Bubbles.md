@@ -37,7 +37,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-throne-of-bubbles-throne-of-bubbles.svg)
 
@@ -45,7 +44,6 @@ improvements: 20
 
 # His Eternal Majesty, Keeper of the Throne of Bubbles
 *The Suspended Emperor, He Who Breathes Water, The Eternal Sovereign of Depths*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -233,7 +231,6 @@ Member of House Dragonblood - Trait: prophecy
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -269,3 +266,7 @@ Member of House Dragonblood - Trait: prophecy
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Master Chronologist Temporal Truthkeeper V1 Master Chronologist Temporal Truthkeeper.svg]]

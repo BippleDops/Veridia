@@ -1,3 +1,9 @@
+---
+aliases: ["Ethereal Plate of Fortitude", "ethereal plate of fortitude", "Fortitude of Plate Ethereal"]
+tags: [item, equipment]
+type: item
+---
+
 # Ethereal Plate of Fortitude
 
 *Armor, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A ethereal plate crafted from exotic materials
 - +1 to AC
 - +2 to AC
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -32,7 +36,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.382Z*

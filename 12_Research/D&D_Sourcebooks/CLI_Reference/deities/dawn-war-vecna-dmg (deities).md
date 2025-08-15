@@ -81,3 +81,8 @@ Mentioned in The Hidden Prophecy of Shadows
 
 - Strange accidents suggest a portal
 - A prisoner has gone missing and chaos spreads
+
+## References
+
+- [[A Sample Pantheon Dawn War Deities]]
+- [[a-sample-pantheon-dawn-war-deities (tables)]]

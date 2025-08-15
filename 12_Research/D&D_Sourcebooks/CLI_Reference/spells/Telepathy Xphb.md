@@ -85,3 +85,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A letter reveals ancient history about a local noble
 - A document has gone missing and evil awakens
 - Someone is hunting a artifact for love
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[1 How to Use a Monster]]
+- [[1-how-to-use-a-monster (monster-manual-2025)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Jadeclaw the Lost", "branwen jadeclaw the lost", "Branwen Jadeclaw Lost", "Lost the Jadeclaw Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Jadeclaw the Lost
 
 *Genasi Fighter (Adventurers), Age 75, Male*
@@ -13,7 +19,6 @@
 Below average and muscular, with Carefully styled bald hair and Blue eyes. Scarred skin. Gold tooth that glints when smiling.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Collects unusual and worthless objects; Laughs at the most inappropriate times; Incredibly optimistic despite evidence
@@ -36,17 +41,14 @@ Accidentally gained powers and learning to control them They've fallen in love w
 - **Short Term**: Make this month's payment
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Fiora Xendar the Lost (Political - Puppet)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Xander Grimholt the Risen (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
-
 
 ### Hestara Darkwater the Cunning (Political - Puppet)
 - **Status**: One-sided affection

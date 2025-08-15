@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Brightblade", "idris brightblade", "Brightblade Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Brightblade
 
 *Tiefling Blacksmith (Commoners), Age 67, Non-binary*
@@ -42,11 +48,9 @@ Survivor of a disaster that destroyed their village They've made a deal they're 
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Ysara Oakenshield the Cunning (Political - Spy)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
-
 
 ### Idris Underhill the Swift (Professional - Mentor)
 - **Status**: One-sided affection

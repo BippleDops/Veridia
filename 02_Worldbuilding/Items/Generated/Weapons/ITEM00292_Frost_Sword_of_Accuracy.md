@@ -1,3 +1,9 @@
+---
+aliases: ["Frost Sword of Accuracy", "frost sword of accuracy", "Accuracy of Sword Frost"]
+tags: [item, equipment]
+type: item
+---
+
 # Frost Sword of Accuracy
 
 *Weapons, Rare (requires attunement)*

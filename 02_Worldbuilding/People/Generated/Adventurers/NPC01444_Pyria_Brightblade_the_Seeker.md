@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Brightblade the Seeker", "pyria brightblade the seeker", "Pyria Brightblade Seeker", "Seeker the Brightblade Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Brightblade the Seeker
 
 *Tabaxi Fighter (Adventurers), Age 48, Female*
@@ -13,7 +19,6 @@
 Below average and stocky, with Partially shaved brown hair and Brown eyes. Freckled skin. Birthmark shaped like a constellation.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Speaks to inanimate objects; Collects unusual and worthless objects
@@ -36,17 +41,14 @@ Accidentally gained powers and learning to control them They've been marked by a
 - **Short Term**: Complete current contract
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Brenna Quicksilver the Cunning (Political - Opposition)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
 
-
 ### Orion Blackstone the Risen (Criminal - Handler)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ### Alaric Ravenheart the Redeemed (Professional - Partner)
 - **Status**: On the verge of collapse
@@ -61,7 +63,6 @@ Accidentally gained powers and learning to control them They've been marked by a
 ### Xander Underhill the Guardian (Professional - Employee)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Has died and been resurrected

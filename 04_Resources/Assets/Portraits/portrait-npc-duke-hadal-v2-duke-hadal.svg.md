@@ -98,3 +98,7 @@ improvements: 20
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Assets Locations Location City Master Curator Pearl Artflow V1 Master Curator Pearl Artflow.svg]]

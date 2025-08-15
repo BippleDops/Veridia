@@ -80,3 +80,25 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Sailor Pirate Variant]]
+- [[sailor-pirate-variant (backgrounds)]]
+- [[Carpenters Tools Xphb]]
+- [[Lute of Thunderous Thumping Xdmg]]
+- [[Smiths Tools Xphb]]
+- [[Thunderous Greatclub Xdmg]]
+- [[Woodcarvers Tools Xphb]]
+- [[carpenters-tools-xphb (items)]]
+- [[lute-of-thunderous-thumping-xdmg (items)]]
+- [[smiths-tools-xphb (items)]]
+- [[thunderous-greatclub-xdmg (items)]]
+- [[woodcarvers-tools-xphb (items)]]
+- [[Weapons Phb]]
+- [[Weapons Xphb]]
+- [[weapons-phb (tables)]]
+- [[weapons-xphb (tables)]]
+- [[Improvised Weapons Xphb]]
+- [[improvised-weapons-xphb (variant-rules)]]

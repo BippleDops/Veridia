@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -84,7 +84,7 @@ Prophetic Visions is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Prophetic Visions as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Prophetic Visions.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -96,3 +96,21 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 - Strange accidents suggest ancient magic
 - A journal reveals a conspiracy about the government
+
+## References
+
+- [[The Bathyal Succession]]
+- [[The Crimson Hand]]
+- [[The Pressure Baptism Rites]]
+- [[The Tethyan Hegemony]]
+- [[The Transformed Citizens]]
+- [[Throne Room]]
+- [[Tidal Memory Ceremonies]]
+- [[Cathedral of Light]]
+- [[Mad Oracle Thessaly]]
+- [[Mourning Depths]]
+- [[Sister Morwyn]]
+- [[Temple Ward]]
+- [[Temple of the Sunken Cathedral]]
+- [[The Void Touched Depths]]
+- [[Theological Warfare]]

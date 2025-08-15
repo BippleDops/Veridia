@@ -203,3 +203,8 @@ This NPC can serve multiple roles:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-agricultural-provinces-agricultural-provinces.svg]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-echo-prime-cacophony-voidlung-echo-prime-cacophony-voidlung.svg]]

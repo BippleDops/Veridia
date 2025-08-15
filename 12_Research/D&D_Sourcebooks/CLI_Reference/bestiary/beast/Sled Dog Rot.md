@@ -120,3 +120,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
+
+## References
+
+- [[sled-dog-rot (beast)]]

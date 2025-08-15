@@ -1,4 +1,5 @@
 ---
+aliases: ["UpperMarsh", "uppermarsh"]
 tags: [generated]
 id: LOC0064
 created: 2025-08-15T04:09:51.304Z
@@ -21,20 +22,17 @@ A military stronghold built to withstand any siege
 - **Current Leader**: Mayor elected every 4 years
 - **Political Stability**: Stable
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -94,7 +92,6 @@ A military stronghold built to withstand any siege
 
 ---
 *Generated: 2025-08-15T03:20:13.143Z*
-
 
 ## History
 - **Founding**: Origin story

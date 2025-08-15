@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Winterborn the Risen", "gavril winterborn the risen", "Gavril Winterborn Risen", "Risen the Winterborn Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Winterborn the Risen
 
 *Firbolg Baker (Commoners), Age 24, Female*
@@ -13,7 +19,6 @@
 Tall and slender, with Short and neat bald hair and Red eyes. Scarred skin. Unusual eye color for their race.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Collects unusual and worthless objects
@@ -36,22 +41,18 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Baelor Darkwater the Swift (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Vesper Hawthorne the Cunning (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Faelyn Thornweave the Broken (Professional - Employer)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Witnessed a noble's crime

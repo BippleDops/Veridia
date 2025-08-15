@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Goldleaf", "rhiannon goldleaf", "Goldleaf Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Goldleaf
 
 *Tiefling Aristocrat (Nobles), Age 44, Non-binary*
@@ -47,11 +53,9 @@ Last survivor of a fallen house, seeking to restore family honor They've fallen 
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Aeliana Grimholt the Wanderer (Family - Child)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ### Urien Brightblade (Family - Cousin)
 - **Status**: Professional only
@@ -61,7 +65,6 @@ Last survivor of a fallen house, seeking to restore family honor They've fallen 
 ### Fiora Blackstone the Bold (Political - Patron)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ### Urien Ironforge (Political - Ally)
 - **Status**: On the verge of collapse

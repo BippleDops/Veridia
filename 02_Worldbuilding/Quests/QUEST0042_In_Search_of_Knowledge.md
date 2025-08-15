@@ -1,4 +1,5 @@
 ---
+aliases: ["In Search of Knowledge", "in search of knowledge", "Knowledge of Search In"]
 tags: [generated]
 id: QUEST0042
 created: 2025-08-15T04:09:51.386Z
@@ -21,8 +22,6 @@ Safely deliver the ambassador to the capital
 
 ### Secondary
 - Recover additional valuable items
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they witnessed something they shouldn't have, which changed their life forever. Now, circumstances demand immediate action.

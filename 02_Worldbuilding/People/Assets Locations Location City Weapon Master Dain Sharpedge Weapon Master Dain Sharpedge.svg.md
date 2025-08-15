@@ -192,3 +192,7 @@ This NPC can serve multiple roles:
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Shadows
+
+## References
+
+- [[Assets Symbols Symbol Heraldry Sister Benthos Scrollheart Sister Benthos Scrollheart.svg]]

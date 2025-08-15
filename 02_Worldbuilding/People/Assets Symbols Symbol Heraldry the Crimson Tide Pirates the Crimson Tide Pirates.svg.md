@@ -206,3 +206,9 @@ This NPC can serve multiple roles:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-quest-the-family-reconciliatio-quest-the-family-reconciliatio.svg]]
+- [[04_Resources_Assets_Locations_location-city-harbormaster-creedence-tidereader-v1-harbormaster-creedence-tidereader.svg]]
+- [[04_Resources_Assets_Locations_location-city-the-harbormaster-s-office-the-harbormaster-s-office.svg]]

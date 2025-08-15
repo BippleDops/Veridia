@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-goldwave-financial-offices-goldwave-financial-offices.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -174,7 +172,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Member of House Eagleblood - Trait: curse
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -244,3 +241,7 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Symbols Symbol Heraldry Foreman Prime Salvage Maste Foreman Prime Salvage Maste.svg]]

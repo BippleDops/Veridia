@@ -1,3 +1,9 @@
+---
+aliases: ["Decorated Journal of Convenience", "decorated journal of convenience", "Convenience of Journal Decorated"]
+tags: [item, equipment]
+type: item
+---
+
 # Decorated Journal of Convenience
 
 *Mundane, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A decorated journal showing signs of age
 - Weighs half normal
 - Has hidden compartment
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -30,7 +34,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.482Z*

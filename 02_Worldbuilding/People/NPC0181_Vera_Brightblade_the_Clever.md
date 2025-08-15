@@ -1,11 +1,11 @@
 ---
+aliases: ["Vera Brightblade the Clever", "vera brightblade the clever", "Vera Brightblade Clever", "Clever the Brightblade Vera"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -77,8 +77,6 @@ Raised by monks in a remote monastery. Years ago, they was falsely accused of a 
 ### Skills
 Persuasion, Perception, Athletics
 
-
-
 ## Possessions
 - 74 gold pieces
 - Family heirloom (locket)
@@ -90,7 +88,6 @@ Persuasion, Perception, Athletics
 
 ---
 *Generated: 2025-08-15T03:20:13.092Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

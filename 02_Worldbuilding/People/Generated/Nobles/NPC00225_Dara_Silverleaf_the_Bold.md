@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Silverleaf the Bold", "dara silverleaf the bold", "Dara Silverleaf Bold", "Bold the Silverleaf Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Silverleaf the Bold
 
 *Aasimar Noble (Nobles), Age 21, Non-binary*
@@ -13,7 +19,6 @@
 Towering and delicate, with Long and flowing black hair and Blue eyes. Scarred skin. Burn scars on one side of face.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Incredibly optimistic despite evidence
@@ -36,32 +41,26 @@ Last survivor of a fallen house, seeking to restore family honor They've been ma
 - **Short Term**: Sabotage competition
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Idris Moonshadow (Professional - Partner)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Orion Emberfall (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ### Malakai Brightblade the Redeemed (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Zephyr Xendar (Professional - Mentor)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
 
-
 ### Pyria Goldleaf (Professional - Employee)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ### Faelyn Frostwhisper the Swift (Political - Ally)
 - **Status**: Recently reconciled

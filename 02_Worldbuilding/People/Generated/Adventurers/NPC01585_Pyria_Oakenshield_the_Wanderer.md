@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Oakenshield the Wanderer", "pyria oakenshield the wanderer", "Pyria Oakenshield Wanderer", "Wanderer the Oakenshield Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Oakenshield the Wanderer
 
 *Dragonborn Fighter (Adventurers), Age 47, Male*
@@ -42,31 +48,25 @@ Seeking vengeance for a murdered mentor Strange abilities have begun manifesting
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
 
-
 ### Rhiannon Grimholt the Seeker (Criminal - Fence)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ### Hestara Ironwood the Cunning (Family - Sibling)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
 ### Alaric Jadeclaw the Mystic (Personal - Childhood friend)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
-
 
 ### Gareth Ravenheart the Fallen (Professional - Rival)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Erasmus Hawthorne the Broken (Professional - Mentor)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Secretly working for the villain

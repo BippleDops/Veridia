@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Silverleaf the Swift", "fiora silverleaf the swift", "Fiora Silverleaf Swift", "Swift the Silverleaf Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Silverleaf the Swift
 
 *Genasi Appraiser (Merchants), Age 55, Non-binary*
@@ -13,7 +19,6 @@
 Towering and stocky, with Braided elaborately auburn hair and Violet eyes. Dark skin. Gold tooth that glints when smiling.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Believes in every conspiracy theory
@@ -47,11 +52,9 @@ Built their business from nothing through cunning and hard work An old debt has 
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Hilda Voidwalker the Wanderer (Criminal - Accomplice)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
-
 
 ### Corvus Goldleaf the Strong (Personal - Love interest)
 - **Status**: Mutually beneficial

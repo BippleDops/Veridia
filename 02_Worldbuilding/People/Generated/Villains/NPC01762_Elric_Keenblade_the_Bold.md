@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Keenblade the Bold", "elric keenblade the bold", "Elric Keenblade Bold", "Bold the Keenblade Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Keenblade the Bold
 
 *Genasi Crime Boss (Villains), Age 42, Female*
@@ -36,17 +42,14 @@ Born into evil but questioning their path They've fallen in love with someone th
 - **Short Term**: Find missing person
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Erasmus Thornweave the Seeker (Personal - Love interest)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Ewan Youngblood the Strong (Family - Cousin)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ### Felicia Ironwood the Wise (Family - Cousin)
 - **Status**: Blood oath bound
@@ -56,7 +59,6 @@ Born into evil but questioning their path They've fallen in love with someone th
 ### Nerys Brightblade the Guardian (Personal - Childhood friend)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
-
 
 ### Delara Crystalbrook the Guardian (Criminal - Fence)
 - **Status**: Complicated history

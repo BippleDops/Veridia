@@ -1,4 +1,5 @@
 ---
+aliases: ["Celestial Curse", "celestial curse", "Curse Celestial"]
 tags: [generated]
 id: SPELL0021_Celestial_Curse
 created: 2025-08-15T04:09:51.470Z

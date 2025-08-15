@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Jadeclaw the Lost", "ysara jadeclaw the lost", "Ysara Jadeclaw Lost", "Lost the Jadeclaw Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Jadeclaw the Lost
 
 *Tiefling Wizard (Adventurers), Age 73, Non-binary*
@@ -36,12 +42,10 @@ Running from a dark past that won't stay buried A prophetic dream has been haunt
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Baelor Darkwater the Seeker (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ### Zephyr Frostwhisper the Guardian (Political - Spy)
 - **Status**: Secretly hostile
@@ -52,11 +56,9 @@ Running from a dark past that won't stay buried A prophetic dream has been haunt
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
 
-
 ### Ewan Underhill the Strong (Family - Parent)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Possessed by ancient spirit

@@ -80,3 +80,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A letter reveals a betrayal about a local noble
 - A journal reveals a betrayal about a local noble
+
+## References
+
+- [[Update Indexes (D&D_References)]]
+- [[Update Indexes 3 (D&D_References)]]

@@ -26,3 +26,9 @@ Further information about this topic will be developed as the campaign progresse
 - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery
+
+## References
+
+- [[Assets Locations Location City Harbor Master S Tower V1 Harbor Master S Tower.png]]
+- [[Assets Locations Location City Master Curator Pearl Artflow V1 Master Curator Pearl Artflow.svg]]
+- [[Assets Portraits Portrait NPC Paladin Commander Sir Radiant Dawnbreaker Paladin Commander Sir Radiant Dawnbreaker.svg]]

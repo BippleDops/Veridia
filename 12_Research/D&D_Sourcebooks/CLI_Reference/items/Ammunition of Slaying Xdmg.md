@@ -123,3 +123,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[06 Chapter 14 Metallic Dragons Arise]]
+- [[06-chapter-14-metallic-dragons-arise (rise-of-tiamat)]]
+- [[Armaments Very Rare Xdmg]]
+- [[Magic Item Table E]]
+- [[Random Magic Items Armaments]]
+- [[armaments-very-rare-xdmg (tables)]]
+- [[magic-item-table-e (tables)]]
+- [[random-magic-items-armaments (tables)]]

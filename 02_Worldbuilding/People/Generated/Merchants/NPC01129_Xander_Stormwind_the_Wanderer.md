@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Stormwind the Wanderer", "xander stormwind the wanderer", "Xander Stormwind Wanderer", "Wanderer the Stormwind Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Stormwind the Wanderer
 
 *Human Caravan Master (Merchants), Age 39, Male*
@@ -5,14 +11,14 @@
 **ID**: NPC01129
 
 ## Quick Reference
-- **Location**: Abandoned warehouse on the outskirts
+- **[[location|location]]**: Abandoned warehouse on the outskirts
 - **Occupation**: Spice trader
 - **Disposition**: Believes in every conspiracy theory
 
 ## Appearance
 Above average and compact, with Partially shaved silver hair and Violet eyes. Pale skin. Gold tooth that glints when smiling.
 
-**Clothing**: Assassin's garb, all in black
+**Clothing**: [[Assassin|Assassin]]'s garb, all in black
 **Accessories**: Pocket watch
 
 ## Personality
@@ -36,25 +42,21 @@ Uses their business as cover for other activities Strange abilities have begun m
 - **Short Term**: Make this month's payment
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Felicia Lightbringer the Bold (Professional - Partner)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Ysara Goldleaf the Scholar (Political - Opposition)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
-
 
 ### Alaric Ravenheart the Guardian (Family - Child)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ## Secrets
-1. Smuggles illegal magical items
+1. Smuggles illegal magical [[Items|Items]]
 2. Is slowly transforming into a monster
 
 ## Statistics
@@ -69,10 +71,10 @@ Uses their business as cover for other activities Strange abilities have begun m
 |-----|-----|-----|-----|-----|-----|
 | 8 | 8 | 17 | 14 | 14 | 10 |
 
-### Saving Throws
+### [[Saving Throws|Saving Throws]]
 INT, CHA
 
-### Skills
+### [[skills|skills]]
 Deception, Insight, Investigation, Persuasion
 
 ### Attacks
@@ -86,7 +88,7 @@ Deception, Insight, Investigation, Persuasion
 
 ## Possessions
 - 331 gold pieces
-- Merchant guild badge
+- [[Merchant|Merchant]] guild badge
 - Ledger book
 - Ledger book
 - Map of trade routes
@@ -99,23 +101,26 @@ Deception, Insight, Investigation, Persuasion
 - "Business or pleasure today?"
 
 ### Catchphrases
-- "Time will tell."
+- "[[Time|Time]] will tell."
 - "Mark my words..."
 
 ### Knowledge
 - Market prices and trends
-- Trade route conditions
+- Trade route [[Conditions|Conditions]]
 - Competitor weaknesses
 - New business opportunities
 
 ## Plot Hook
 Competitor sabotaging business
 
-## DM Notes
+## [[DM_Notes|DM Notes]]
 - Adjust stats based on party level
-- Secrets can drive major plot points
+- Secrets can drive major [[Plot Points|Plot Points]]
 - Relationships create web of connections
 - Use quirks for memorable roleplay
 
 ---
 *Generated: 2025-08-15T03:51:03.240Z*
+
+---
+**Navigation**: [[00_Indexes/Home|🏠 Home]] | [[00_Indexes/MOCs/NPCs_MOC|👥 NPCs]] | [[00_Indexes/Master_Index|📚 Index]]

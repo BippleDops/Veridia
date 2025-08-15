@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Ravenheart the Risen", "orion ravenheart the risen", "Orion Ravenheart Risen", "Risen the Ravenheart Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Ravenheart the Risen
 
 *Halfling Trader (Merchants), Age 53, Male*
@@ -13,7 +19,6 @@
 Tall and compact, with Tied back white hair and Violet eyes. Fair skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Incredibly optimistic despite evidence; Laughs at the most inappropriate times; Always speaks in metaphors and riddles
@@ -42,26 +47,21 @@ Inherited a failing business and turned it around A family member's death has le
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Elric Darkwater the Seeker (Criminal - Accomplice)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
-
 
 ### Ysara Darkwater the Bold (Professional - Rival)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Wynne Silverleaf the Mystic (Professional - Employer)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Kaelen Winterborn the Fallen (Personal - Nemesis)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Sells information to all sides

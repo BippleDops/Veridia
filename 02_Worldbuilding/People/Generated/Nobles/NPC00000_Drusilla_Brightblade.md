@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Brightblade", "drusilla brightblade", "Brightblade Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Brightblade
 
 *Halfling Aristocrat (Nobles), Age 27, Non-binary*
@@ -35,7 +41,6 @@ Recently elevated to nobility through service, still learning courtly ways A cha
 ### Goals
 - **Short Term**: Survive until next week
 - **Long Term**: Master their craft
-
 
 ## Relationships
 ### Rhiannon Emberfall (Political - Opposition)

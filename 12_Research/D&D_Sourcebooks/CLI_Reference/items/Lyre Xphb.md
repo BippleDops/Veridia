@@ -88,3 +88,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Instrument of the Bards Cli Lyre Xdmg]]
+- [[Musical Instrument Xphb]]
+- [[instrument-of-the-bards-cli-lyre-xdmg (items)]]
+- [[musical-instrument-xphb (items)]]
+- [[Tools Phb]]
+- [[tools-phb (tables)]]

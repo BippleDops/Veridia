@@ -59,3 +59,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - The authorities needs help delivering before the new moon
 - An heirloom has gone missing and truth emerges
 - Strange disappearances suggest a conspiracy
+
+## References
+
+- [[Purist Coalition Thugs]]
+- [[Purist Coalition Thugs (D&D_References)]]

@@ -45,3 +45,25 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Adult Silver Dragon Xmm]]
+- [[Silver Dragon Wyrmling Xmm]]
+- [[Young Silver Dragon Xmm]]
+- [[adult-silver-dragon-xmm (dragon)]]
+- [[silver-dragon-wyrmling-xmm (dragon)]]
+- [[young-silver-dragon-xmm (dragon)]]
+- [[Dragon Scale Mail Xdmg]]
+- [[dragon-scale-mail-xdmg (items)]]
+- [[Monsters by Habitat Mountain Monsters Xmm]]
+- [[Monsters by Habitat Urban Monsters Xmm]]
+- [[Mountain Encounters Levels 1116 Xge]]
+- [[Urban Encounters Levels 1116 Xge]]
+- [[Urban Encounters Levels 1720 Xge]]
+- [[monsters-by-habitat-mountain-monsters-xmm (tables)]]
+- [[monsters-by-habitat-urban-monsters-xmm (tables)]]
+- [[mountain-encounters-levels-1116-xge (tables)]]
+- [[urban-encounters-levels-1116-xge (tables)]]
+- [[urban-encounters-levels-1720-xge (tables)]]

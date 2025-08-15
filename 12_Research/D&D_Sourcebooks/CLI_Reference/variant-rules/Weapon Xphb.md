@@ -63,3 +63,22 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]
+- [[Cleric Xphb Forge Domain Xge]]
+- [[Cleric Xphb War Domain Xphb]]
+- [[Fighter Xphb]]
+- [[Paladin Xphb Oath of Glory Xphb]]
+- [[Warlock Xphb the Hexblade Xge]]
+- [[cleric-xphb-forge-domain-xge (classes)]]
+- [[cleric-xphb-forge-domain-xge 2 (classes)]]
+- [[cleric-xphb-war-domain-xphb (classes)]]
+- [[fighter-xphb (classes)]]
+- [[paladin-xphb-oath-of-glory-xphb (classes)]]
+- [[warlock-xphb-the-hexblade-xge (classes)]]

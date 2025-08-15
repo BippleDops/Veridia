@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Goldleaf the Swift", "branwen goldleaf the swift", "Branwen Goldleaf Swift", "Swift the Goldleaf Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Goldleaf the Swift
 
 *Gnome Cleric (Adventurers), Age 61, Male*
@@ -13,7 +19,6 @@
 Tall and slender, with Braided elaborately black hair and Gray eyes. Weathered skin. Missing ear from old battle.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Incredibly optimistic despite evidence; Never backs down from any challenge; Always tells the absolute truth
@@ -36,17 +41,14 @@ Seeking vengeance for a murdered mentor A chance encounter last winter changed t
 - **Short Term**: Gather information
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Drusilla Jadeclaw the Strong (Criminal - Accomplice)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Ewan Keenblade the Strong (Criminal - Target)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
-
 
 ### Branwen Youngblood the Risen (Political - Patron)
 - **Status**: Professional only
@@ -56,7 +58,6 @@ Seeking vengeance for a murdered mentor A chance encounter last winter changed t
 ### Caelum Ravenheart the Wanderer (Professional - Mentor)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Possessed by ancient spirit

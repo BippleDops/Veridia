@@ -1,3 +1,9 @@
+---
+aliases: ["Dragon Scale Cloak of Grace", "dragon scale cloak of grace", "Grace of Cloak Scale Dragon"]
+tags: [item, equipment]
+type: item
+---
+
 # Dragon Scale Cloak of Grace
 
 *Armor, Uncommon*
@@ -14,8 +20,6 @@ A dragon scale cloak crafted from exotic materials
 - Advantage on saving throws
 - Resistance to one damage type
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -30,7 +34,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.391Z*

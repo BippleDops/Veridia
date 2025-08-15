@@ -1,11 +1,11 @@
 ---
+aliases: ["Cormac Brightblade", "cormac brightblade", "Brightblade Cormac"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -89,7 +89,6 @@ Perception, Arcana
 
 ---
 *Generated: 2025-08-15T03:21:04.045Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

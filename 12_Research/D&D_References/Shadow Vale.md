@@ -245,7 +245,7 @@ Shadow Vale represents [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]'s large
 ### Important Items
 - **[[Community Charter]]** - Foundational document of community goverce
 - **[[Integration Protocols]]** - Procedures for helping shadow-touched newcomers
-- **[[Heritage Archive]]** - Collection of shadow-touched history and culture
+- **** - Collection of shadow-touched history and culture
 - **[[Community Investment Fund]]** - Collective resources for development
 - **[[Civil Rights Petition]]** - Legal documents seeking official recognition
 
@@ -282,3 +282,12 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Party Shadows (Criminal_Organizations)]]
+- [[Shadow Independence Levels (Criminal_Organizations)]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide (D&D_References)]]
+- [[Party Shadows]]
+- [[Shadow Independence Levels]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Mithril Shield of Protection", "mithril shield of protection", "Protection of Shield Mithril"]
+tags: [item, equipment]
+type: item
+---
+
 # Mithril Shield of Protection
 
 *Armor, Rare (requires attunement)*

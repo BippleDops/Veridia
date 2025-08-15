@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Xendar the Seeker", "pyria xendar the seeker", "Pyria Xendar Seeker", "Seeker the Xendar Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Xendar the Seeker
 
 *Dragonborn Aristocrat (Nobles), Age 26, Female*
@@ -13,7 +19,6 @@
 Average height and heavyset, with Wild and unkempt auburn hair and Hazel eyes. Brown skin. Intricate tattoos covering arms.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Collects unusual and worthless objects
@@ -36,7 +41,6 @@ Secretly adopted into nobility, living in fear of discovery An old debt has come
 - **Short Term**: Complete current contract
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Faelyn Ironforge the Wise (Personal - Love interest)
 - **Status**: Strong and trusting
@@ -51,7 +55,6 @@ Secretly adopted into nobility, living in fear of discovery An old debt has come
 ### Branwen Dawnstrider (Criminal - Target)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Actually a bastard with no real claim

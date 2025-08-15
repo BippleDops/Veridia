@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Winterborn the Fallen", "idris winterborn the fallen", "Idris Winterborn Fallen", "Fallen the Winterborn Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Winterborn the Fallen
 
 *Half-Elf Rogue (Adventurers), Age 38, Female*
@@ -13,7 +19,6 @@
 Tall and delicate, with Long and flowing unusual color hair and Violet eyes. Pale skin. Unusual eye color for their race.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Sees doom and gloom everywhere
@@ -36,22 +41,18 @@ Seeking vengeance for a murdered mentor They've made a deal they're beginning to
 - **Short Term**: Survive until next week
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Urien Hawthorne the Lost (Personal - Ex-lover)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Malakai Darkwater the Scholar (Personal - Love interest)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
 
-
 ### Aeliana Xendar the Scholar (Criminal - Accomplice)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Possessed by ancient spirit

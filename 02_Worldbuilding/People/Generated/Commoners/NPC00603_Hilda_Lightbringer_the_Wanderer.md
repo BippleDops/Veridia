@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Lightbringer the Wanderer", "hilda lightbringer the wanderer", "Hilda Lightbringer Wanderer", "Wanderer the Lightbringer Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Lightbringer the Wanderer
 
 *Firbolg Blacksmith (Commoners), Age 74, Male*
@@ -13,7 +19,6 @@
 Average height and muscular, with Mohawk auburn hair and Violet eyes. Freckled skin. Constantly changing hair color.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Extremely superstitious about everything; Believes in every conspiracy theory
@@ -36,7 +41,6 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Drusilla Keenblade the Scholar (Political - Ally)
 - **Status**: On the verge of collapse
@@ -47,21 +51,17 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Gareth Oakenshield (Family - Parent)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ### Lyanna Hawthorne the Swift (Family - Spouse)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Xander Voidwalker the Strong (Professional - Employer)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Knows location of ancient treasure

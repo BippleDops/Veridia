@@ -26,7 +26,6 @@ type: npc
 ---
 *Quick reference for [[02_Worldbuilding_Military_Combat_Healers]]*
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*
 

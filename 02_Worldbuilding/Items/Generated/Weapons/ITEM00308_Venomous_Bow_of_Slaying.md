@@ -1,3 +1,9 @@
+---
+aliases: ["Venomous Bow of Slaying", "venomous bow of slaying", "Slaying of Bow Venomous"]
+tags: [item, equipment]
+type: item
+---
+
 # Venomous Bow of Slaying
 
 *Weapons, Legendary (requires attunement)*
@@ -16,8 +22,6 @@ A venomous bow carved from dragon bone
 - Grants advantage on initiative
 - Critical hits on 19-20
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -32,7 +36,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.370Z*

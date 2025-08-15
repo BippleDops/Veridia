@@ -71,3 +71,8 @@ Mentioned in The Second Prophecy of Depths
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Shadow Ambush - Optional (Criminal_Organizations)]]
+- [[Shadow Ambush - Optional]]

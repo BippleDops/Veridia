@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Dawnstrider", "fiora dawnstrider", "Dawnstrider Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Dawnstrider
 
 *Firbolg Heir (Nobles), Age 50, Female*
@@ -13,7 +19,6 @@
 Average height and compact, with Dreadlocks gray hair and Red eyes. Olive skin. Intricate tattoos covering arms.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Never uses people's real names; Flirts with everyone regardless of interest
@@ -36,12 +41,10 @@ Secretly adopted into nobility, living in fear of discovery They've fallen in lo
 - **Short Term**: Avoid the authorities
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Fiora Ironforge the Redeemed (Family - Parent)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ### Hestara Grimholt the Cunning (Criminal - Handler)
 - **Status**: Secretly hostile
@@ -51,7 +54,6 @@ Secretly adopted into nobility, living in fear of discovery They've fallen in lo
 ### Zephyr Proudmore the Swift (Personal - Love interest)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ### Wynne Ashford (Political - Patron)
 - **Status**: Strong and trusting

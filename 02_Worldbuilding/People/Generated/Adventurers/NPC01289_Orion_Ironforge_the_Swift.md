@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Ironforge the Swift", "orion ironforge the swift", "Orion Ironforge Swift", "Swift the Ironforge Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Ironforge the Swift
 
 *Goliath Wizard (Adventurers), Age 43, Non-binary*
@@ -13,7 +19,6 @@
 Below average and wiry, with Braided elaborately black hair and Heterochromic eyes. Weathered skin. Intricate tattoos covering arms.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Laughs at the most inappropriate times; Always speaks in metaphors and riddles; Incredibly optimistic despite evidence
@@ -42,26 +47,21 @@ Seeking vengeance for a murdered mentor Strange abilities have begun manifesting
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Corvus Keenblade the Fallen (Professional - Mentor)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ### Faelyn Ravenheart the Wanderer (Criminal - Handler)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Qadim Ironwood the Strong (Family - Parent)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
 
-
 ### Vesper Quicksilver the Guardian (Professional - Employee)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Possessed by ancient spirit

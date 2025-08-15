@@ -126,13 +126,11 @@ Scout Captain Vera Deepwatch is a notable location characterized by its unique f
 ### Founding
 Scout Captain Vera Deepwatch was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -140,13 +138,11 @@ Scout Captain Vera Deepwatch was established in the distant past, growing from h
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -187,7 +183,6 @@ Ongoing situations affecting Scout Captain Vera Deepwatch:
 - 20% middle class
 - 79% working poor
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -223,3 +218,8 @@ Ongoing situations affecting Scout Captain Vera Deepwatch:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[The Cerulean Trench]]
+- [[The Cerulean Trench (D&D_References)]]

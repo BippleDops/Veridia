@@ -1,3 +1,9 @@
+---
+aliases: ["Concentrated Powder of Swiftness", "concentrated powder of swiftness", "Swiftness of Powder Concentrated"]
+tags: [item, equipment]
+type: item
+---
+
 # Concentrated Powder of Swiftness
 
 *Consumables, Common*

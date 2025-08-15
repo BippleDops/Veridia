@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Darkwater the Guardian", "orion darkwater the guardian", "Orion Darkwater Guardian", "Guardian the Darkwater Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Darkwater the Guardian
 
 *Half-Orc Farmer (Commoners), Age 26, Female*
@@ -36,17 +42,14 @@ Runaway from an arranged marriage, starting a new life They've fallen in love wi
 - **Short Term**: Find missing person
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Hestara Jadeclaw the Seeker (Political - Puppet)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
 
-
 ### Baelor Grimholt the Swift (Criminal - Handler)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ### Lyanna Voidwalker the Seeker (Personal - Love interest)
 - **Status**: Blood oath bound

@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Oakenshield the Mystic", "vesper oakenshield the mystic", "Vesper Oakenshield Mystic", "Mystic the Oakenshield Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Oakenshield the Mystic
 
 *Firbolg Shopkeeper (Merchants), Age 71, Female*
@@ -42,7 +48,6 @@ Former adventurer who retired to open a shop A prophetic dream has been haunting
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Vesper Underhill the Guardian (Family - Spouse)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
@@ -52,11 +57,9 @@ Former adventurer who retired to open a shop A prophetic dream has been haunting
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Qadim Lightbringer the Seeker (Family - Parent)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Smuggles illegal magical items

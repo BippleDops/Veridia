@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Goldleaf the Mystic", "urien goldleaf the mystic", "Urien Goldleaf Mystic", "Mystic the Goldleaf Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Goldleaf the Mystic
 
 *Aasimar Baker (Commoners), Age 60, Female*
@@ -47,11 +53,9 @@ Former soldier trying to adjust to civilian life An old debt has come due at the
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
 
-
 ### Zephyr Voidwalker the Mystic (Personal - Love interest)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Knows location of ancient treasure

@@ -1,4 +1,5 @@
 ---
+aliases: ["Shadow Shield", "shadow shield", "Shield Shadow"]
 tags: [generated]
 id: SPELL0012_Shadow_Shield
 created: 2025-08-15T04:09:51.468Z

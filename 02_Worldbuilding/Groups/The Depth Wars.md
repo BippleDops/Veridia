@@ -144,3 +144,8 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Order of the Drowned Star (Orders)]]
+- [[Order of the Drowned Star]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Lesser Powder of Vigor", "lesser powder of vigor", "Vigor of Powder Lesser"]
+tags: [item, equipment]
+type: item
+---
+
 # Lesser Powder of Vigor
 
 *Consumables, Rare*
@@ -15,8 +21,6 @@ A lesser powder glowing softly
 - Fly for 1 hour
 - Breathe underwater 1 hour
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -31,7 +35,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.437Z*

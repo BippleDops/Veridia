@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Ashford the Seeker", "branwen ashford the seeker", "Branwen Ashford Seeker", "Seeker the Ashford Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Ashford the Seeker
 
 *Dragonborn Courtier (Nobles), Age 59, Female*
@@ -13,7 +19,6 @@
 Average height and heavyset, with Shaved auburn hair and Black eyes. Dark skin. Crooked nose from multiple breaks.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Sees doom and gloom everywhere; Compulsive liar about minor things
@@ -42,11 +47,9 @@ Last survivor of a fallen house, seeking to restore family honor They're being b
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Drusilla Goldleaf the Fallen (Political - Spy)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ### Fiora Ironforge (Political - Ally)
 - **Status**: One-sided affection

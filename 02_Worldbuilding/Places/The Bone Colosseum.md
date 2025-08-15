@@ -49,7 +49,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -96,7 +96,7 @@ Hidden beneath the [[Warehouse District]] of [[Port Meridian]], the Bone Colosse
 > [!warning] DM Only
 > - **Torture Chambers**: Where information is extracted from prisoners
 > - **Corruption Labs**: Illegal crystal experimentation on fighters
-> - **Escape Tunnels**: Connect to [[The [[Shadow Markets]]]]
+> - **Escape Tunnels**: Connect to [[Shadow Markets|The [[Shadow Markets]]]]
 > - **Vault Room**: Contains [[Evidence]] of noble patrons' crimes
 
 ### Underground Network
@@ -104,7 +104,7 @@ Hidden beneath the [[Warehouse District]] of [[Port Meridian]], the Bone Colosse
 > - Tunnel system connects to [[Thieves Guild|02 Worldbuilding/Groups/Thieves Guild]] headquarters
 > - Hidden dock allows beast and slave smuggling
 > - Secret meeting rooms host [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] councils
-> - Emergency evacuation routes lead to [[[[Smuggler]]'s Cove]]
+> - Emergency evacuation routes lead to [[Smuggler|[[Smuggler]]'s Cove]]
 
 ### Investigation Missions
 
@@ -142,7 +142,7 @@ Legends speak of The Bone Colosseum as a nexus where past and present converge. 
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -166,13 +166,11 @@ The Bone Colosseum is a notable location characterized by its unique features an
 ### Founding
 The Bone Colosseum was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -180,13 +178,11 @@ The Bone Colosseum was established in the distant past, growing from humble begi
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -248,7 +244,6 @@ Key stop on magic items trade route
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -284,3 +279,10 @@ Key stop on magic items trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[The Shadow Markets New]]
+- [[The Slave Markets of Tethys]]
+- [[The Shadow Markets New (D&D_References)]]
+- [[The Slave Markets of Tethys (D&D_References)]]

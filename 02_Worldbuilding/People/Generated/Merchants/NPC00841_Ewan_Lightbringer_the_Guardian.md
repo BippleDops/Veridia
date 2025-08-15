@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Lightbringer the Guardian", "ewan lightbringer the guardian", "Ewan Lightbringer Guardian", "Guardian the Lightbringer Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Lightbringer the Guardian
 
 *Tabaxi Shopkeeper (Merchants), Age 76, Female*
@@ -36,12 +42,10 @@ Part of a merchant family with connections everywhere They've been marked by a s
 - **Short Term**: Sabotage competition
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Qadim Silverleaf the Seeker (Political - Patron)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
-
 
 ### Corvus Ironforge the Seeker (Personal - Nemesis)
 - **Status**: On the verge of collapse
@@ -52,16 +56,13 @@ Part of a merchant family with connections everywhere They've been marked by a s
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Xander Dawnstrider the Strong (Political - Puppet)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Baelor Nightfall the Scholar (Personal - Love interest)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Smuggles illegal magical items

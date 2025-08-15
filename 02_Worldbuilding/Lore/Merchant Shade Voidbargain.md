@@ -103,3 +103,7 @@ Merchant Shade Voidbargain represents a crucial aspect of the world's history, c
 - Civil war
 - Natural disasters
 - Current [[Power Structures]] established
+
+## References
+
+- [[Session 05 Cross Currents]]

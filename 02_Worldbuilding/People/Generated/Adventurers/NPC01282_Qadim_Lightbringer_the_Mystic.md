@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Lightbringer the Mystic", "qadim lightbringer the mystic", "Qadim Lightbringer Mystic", "Mystic the Lightbringer Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Lightbringer the Mystic
 
 *Dwarf Wizard (Adventurers), Age 58, Male*
@@ -36,7 +42,6 @@ Accidentally gained powers and learning to control them An old debt has come due
 - **Short Term**: Make this month's payment
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Cedric Youngblood the Lost (Family - Child)
 - **Status**: Blood oath bound
@@ -47,11 +52,9 @@ Accidentally gained powers and learning to control them An old debt has come due
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
 
-
 ### Aeliana Youngblood the Bold (Personal - Nemesis)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
-
 
 ### Malakai Youngblood the Guardian (Political - Ally)
 - **Status**: Blood oath bound

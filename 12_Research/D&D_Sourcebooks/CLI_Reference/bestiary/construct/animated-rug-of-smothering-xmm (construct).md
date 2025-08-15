@@ -161,3 +161,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Animated Rug of Smothering Xmm]]
+- [[Monster Conversions Stat Block Conversions]]
+- [[Monsters by Habitat Urban Monsters Xmm]]
+- [[Random Hag Minions Servants Vgm]]
+- [[Random Traps Trap Effects]]
+- [[monster-conversions-stat-block-conversions-xmm]]
+- [[monsters-by-habitat-urban-monsters-xmm (tables)]]
+- [[random-hag-minions-servants-vgm (tables)]]
+- [[random-traps-trap-effects (tables)]]

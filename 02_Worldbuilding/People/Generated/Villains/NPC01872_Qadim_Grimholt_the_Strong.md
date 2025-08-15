@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Grimholt the Strong", "qadim grimholt the strong", "Qadim Grimholt Strong", "Strong the Grimholt Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Grimholt the Strong
 
 *Half-Orc Crime Boss (Villains), Age 56, Non-binary*
@@ -13,7 +19,6 @@
 Below average and slender, with Tied back blonde hair and Blue eyes. Pale skin. Intricate tattoos covering arms.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Flirts with everyone regardless of interest; Sees doom and gloom everywhere; Collects unusual and worthless objects
@@ -42,21 +47,17 @@ Driven mad by knowledge humanity wasn't meant to know They recently discovered a
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Solas Zephyrblade the Lost (Personal - Childhood friend)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
-
 
 ### Branwen Dawnstrider the Cunning (Political - Spy)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Fiora Xendar the Cunning (Political - Opposition)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ### Alaric Hawthorne the Guardian (Political - Ally)
 - **Status**: Secretly hostile

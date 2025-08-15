@@ -110,7 +110,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -123,3 +122,58 @@ Contextual improvement based on 12_Research
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Green Slaad Xmm]]
+- [[Mind Flayer Arcanist Xmm]]
+- [[green-slaad-xmm (aberration)]]
+- [[mind-flayer-arcanist-xmm (aberration)]]
+- [[Snake Horror Rot]]
+- [[snake-horror-rot (construct)]]
+- [[Adult Red Dragon Xmm]]
+- [[Ancient Red Dragon Xmm]]
+- [[adult-red-dragon-xmm (dragon)]]
+- [[ancient-red-dragon-xmm (dragon)]]
+- [[Azer Pyromancer Xmm]]
+- [[azer-pyromancer-xmm (elemental)]]
+- [[Hobgoblin Devastator Mpmm]]
+- [[hobgoblin-devastator-mpmm (fey)]]
+- [[Pit Fiend Xmm]]
+- [[Ultroloth Xmm]]
+- [[pit-fiend-xmm (fiend)]]
+- [[ultroloth-xmm (fiend)]]
+- [[Vanifer Pota]]
+- [[vanifer-pota (legendary-group)]]
+- [[Nagpa Mpmm]]
+- [[nagpa-mpmm (monstrosity)]]
+- [[Illithilich Vgm (undead)]]
+- [[Lich Xmm (undead)]]
+- [[illithilich-vgm (undead)]]
+- [[lich-xmm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Light Domain Xphb]]
+- [[Warlock Xphb Fiend Patron Xphb]]
+- [[Wizard Xphb War Magic Xge]]
+- [[cleric-xphb-light-domain-xphb (classes)]]
+- [[cleric-xphb-light-domain-xphb 2 (classes)]]
+- [[warlock-xphb-fiend-patron-xphb (classes)]]
+- [[wizard-xphb-war-magic-xge (classes)]]
+- [[Necklace of Fireballs Xdmg]]
+- [[Ring of Elemental Command Fire Xdmg]]
+- [[Staff of Fire Xdmg]]
+- [[Wand of Fireballs Xdmg]]
+- [[necklace-of-fireballs-xdmg (items)]]
+- [[ring-of-elemental-command-fire-xdmg (items)]]
+- [[staff-of-fire-xdmg (items)]]
+- [[wand-of-fireballs-xdmg (items)]]
+- [[Flames of the Phoenix]]
+- [[flames-of-the-phoenix (optional-features)]]
+- [[Wild Magic Surge Phb]]
+- [[wild-magic-surge-phb (tables)]]
+- [[Fireball Fungus Xdmg]]
+- [[fireball-fungus-xdmg (traps-hazards)]]
+- [[Scroll Mishaps]]
+- [[scroll-mishaps (variant-rules)]]

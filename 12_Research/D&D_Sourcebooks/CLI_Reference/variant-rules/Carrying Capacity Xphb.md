@@ -87,3 +87,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Someone is protecting a witness for money
 - Someone is protecting a witness for love
 - An heirloom has gone missing and evil awakens
+
+## References
+
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]

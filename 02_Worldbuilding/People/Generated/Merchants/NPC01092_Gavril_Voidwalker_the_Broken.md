@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Voidwalker the Broken", "gavril voidwalker the broken", "Gavril Voidwalker Broken", "Broken the Voidwalker Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Voidwalker the Broken
 
 *Tabaxi Trader (Merchants), Age 45, Male*
@@ -13,7 +19,6 @@
 Tall and slender, with Mohawk bald hair and Heterochromic eyes. Tan skin. Warm smile that puts people at ease.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Never backs down from any challenge; Extremely superstitious about everything
@@ -36,32 +41,26 @@ Built their business from nothing through cunning and hard work A chance encount
 - **Short Term**: Sabotage competition
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Aeliana Youngblood the Cunning (Personal - Best friend)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Fiora Dawnstrider the Wise (Family - Parent)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ### Branwen Keenblade the Strong (Professional - Rival)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Aldric Youngblood the Risen (Personal - Nemesis)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Dara Hawthorne the Wanderer (Family - Cousin)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Sells information to all sides

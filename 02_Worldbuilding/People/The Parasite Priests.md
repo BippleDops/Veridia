@@ -48,7 +48,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-parasite-priests-the-parasite-priests.svg)
 
@@ -59,7 +58,6 @@ improvements: 20
 
 > *"We are not infected. We are evolved. The parasites do not control us - they complete us. Through symbiosis, we become more than the sum of our parts, closer to the divine unity that [[The Deep Mother]] intended."*
 > — High Symbiont Threnus Coralborn, moments before his transformation became irreversible
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -593,7 +591,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Member of House Dragonblood - Trait: prophecy
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -629,3 +626,12 @@ Member of House Dragonblood - Trait: prophecy
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Harbor Master Tideshade V1 Harbor Master Tideshade.svg]]
+- [[Assets Locations Location City Spymaster Crow Spymaster Crow.svg]]
+- [[Assets Locations Location City the Drowning Truth the Drowning Truth.svg]]
+- [[Assets Portraits Portrait NPC Captain Dr Bloodletting Captain Dr Bloodletting.svg]]
+- [[The Sorrowmaster]]
+- [[The Sorrowmaster (D&D_Statblocks)]]

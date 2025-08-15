@@ -193,7 +193,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[04_Resources_Assets_Locations_location-city-prophetic-dreams-v1-prophetic-dreams.svg]] (ally)
-- [[Quest   The Succession Crisis]] (colleague)
+- [[The Succession Crisis|Quest   The Succession Crisis]] (colleague)
 - [[04_Resources_Assets_Locations_location-city-master-smith-vulcan-deepforge-v1-master-smith-vulcan-deepforge.svg]] (friend)
 ---
 *Tags*: #npc #contact #worldbuilding
@@ -201,3 +201,7 @@ This NPC can serve multiple roles:
 ## Bloodline
 
 Member of House Lionblood - Trait: divine blood
+
+## References
+
+- [[Assets Locations Location City Reef Guard Captain Torrent Shellborn V1 Reef Guard Captain Torrent Shellborn.svg]]

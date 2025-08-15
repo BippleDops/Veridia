@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Crystalbrook the Wise", "corvus crystalbrook the wise", "Corvus Crystalbrook Wise", "Wise the Crystalbrook Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Crystalbrook the Wise
 
 *Genasi Cultist (Villains), Age 26, Non-binary*
@@ -36,22 +42,18 @@ Corrupted by an artifact or dark magic An old debt has come due at the worst pos
 - **Short Term**: Complete current contract
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Idris Darkwater the Cunning (Family - Parent)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Wynne Underhill the Bold (Criminal - Accomplice)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Kaelen Crystalbrook the Swift (Personal - Ex-lover)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Believes they're saving the world

@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Blackstone", "zephyr blackstone", "Blackstone Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Blackstone
 
 *Genasi Aristocrat (Nobles), Age 34, Female*
@@ -36,7 +42,6 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Short Term**: Gather information
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Zephyr Frostwhisper the Lost (Political - Opposition)
 - **Status**: Recently reconciled
@@ -47,26 +52,21 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
 
-
 ### Hilda Keenblade (Family - Spouse)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ### Hilda Crystalbrook (Personal - Childhood friend)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Orion Dawnstrider the Lost (Professional - Rival)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
 
-
 ### Fiora Winterborn the Fallen (Professional - Employee)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Practicing forbidden magic

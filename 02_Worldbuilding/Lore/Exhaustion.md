@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -84,7 +84,7 @@ Exhaustion is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of Exhaustion as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Exhaustion.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -109,7 +109,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Strange sightings suggest ancient magic
 - The authorities needs help finding before the festival
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -125,3 +125,27 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Civil war
 - Natural disasters
 - Current [[Power Structures]] established
+
+## References
+
+- [[Ancient Siege Tunnels]]
+- [[Continental War]]
+- [[Crystal Forest]]
+- [[Deep Mother Influence]]
+- [[Deep Mother]]
+- [[Initiative Tracker (02_Worldbuilding)]]
+- [[Multi-Phase Boss Fights]]
+- [[The Crystal Festival]]
+- [[conditions#Exhaustion]]
+- [[Crystal Gardens]]
+- [[Gravity Anomaly Mechanics]]
+- [[Mad Oracle Thessaly]]
+- [[Shadow Wells]]
+- [[The Crystalline Foundry]]
+- [[The Depth Market]]
+- [[The Drowning Truth]]
+- [[The Great Drowning]]
+- [[The Phosphor Markets]]
+- [[The Reflection Pools]]
+- [[Whisper-Touched William]]
+- [[The Maw of Darkness]]

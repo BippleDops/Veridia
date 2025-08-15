@@ -46,7 +46,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-depth-wardens-the-depth-wardens.svg)
 
@@ -54,7 +53,6 @@ improvements: 20
 
 # The Depth Wardens
 *Elite Guardians of the Deepest Places*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -353,7 +351,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -389,3 +386,43 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[The Deepwatch Guard]]
+- [[Fortress of the Deeps]]
+- [[Assets Locations Location City the Resonance Cathedral V1 the Resonance Cathedral.svg]]
+- [[Assets Portraits Portrait NPC Captain Marina Saltborn Captain Marina Saltborn.svg]]
+- [[Assets Symbols Symbol Heraldry Magical Component Manufacturers Guil Magical Component Manufacturers Guil.svg]]
+- [[Captain Marina Saltborn]]
+- [[Commander Typhoon Blackheart]]
+- [[Marina-Red-Tide-Coralheart]]
+- [[Shadow Conspiracy (People)]]
+- [[Surface Ambassador Lord Seaworthy]]
+- [[The Cerulean Breath]]
+- [[Abyssos Prime Upper Districts]]
+- [[Commander Typhoon Blackheart (Places)]]
+- [[Depth Wardens]]
+- [[Lumengarde]]
+- [[Pearl_Harbor_City (Places)]]
+- [[The Gilded Shard]]
+- [[Abyssos Prime Upper Districts (D&D_References)]]
+- [[Commander Typhoon Blackheart (D&D_References)]]
+- [[Compass Quest (D&D_References)]]
+- [[Fortress of the Deeps (D&D_References)]]
+- [[Lumengarde (D&D_References)]]
+- [[Marina-Red-Tide-Coralheart (D&D_References)]]
+- [[Pearl_Harbor_City (D&D_References)]]
+- [[Queen Seraphina (D&D_References)]]
+- [[Queen Seraphina 3 (D&D_References)]]
+- [[Shadow Conspiracy (D&D_References)]]
+- [[System Cli Items Weapons]]
+- [[System Cli Spells School Enchantment]]
+- [[System Cli Spells School Illusion]]
+- [[The Deepwatch Guard (D&D_References)]]
+- [[The Gilded Shard (D&D_References)]]
+- [[Depth Warden Patrol (D&D_Statblocks)]]
+- [[Discover the Singers Beyond (D&D_Statblocks)]]
+- [[Surface Ambassador Lord Seaworthy (D&D_Statblocks)]]
+- [[The Cerulean Breath (D&D_Statblocks)]]
+- [[The Lock Saboteur (D&D_Statblocks)]]

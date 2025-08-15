@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Frostwhisper the Bold", "aeliana frostwhisper the bold", "Aeliana Frostwhisper Bold", "Bold the Frostwhisper Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Frostwhisper the Bold
 
 *Firbolg Rogue (Adventurers), Age 30, Female*
@@ -36,17 +42,14 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 - **Short Term**: Survive until next week
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Gareth Brightblade the Bold (Personal - Ex-lover)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Nerys Darkwater the Bold (Professional - Rival)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ### Qadim Blackstone the Cunning (Professional - Rival)
 - **Status**: Secretly hostile
@@ -57,11 +60,9 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Malakai Dawnstrider the Bold (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Has died and been resurrected

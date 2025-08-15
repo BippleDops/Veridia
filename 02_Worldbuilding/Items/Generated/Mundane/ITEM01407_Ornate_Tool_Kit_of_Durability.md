@@ -1,3 +1,9 @@
+---
+aliases: ["Ornate Tool Kit of Durability", "ornate tool kit of durability", "Durability of Kit Tool Ornate"]
+tags: [item, equipment]
+type: item
+---
+
 # Ornate Tool Kit of Durability
 
 *Mundane, Common*
@@ -13,8 +19,6 @@ A ornate tool kit bearing maker's mark
 ## Properties
 - Functions in antimagic
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -29,7 +33,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.484Z*

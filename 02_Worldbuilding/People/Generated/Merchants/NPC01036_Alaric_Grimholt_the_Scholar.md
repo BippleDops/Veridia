@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Grimholt the Scholar", "alaric grimholt the scholar", "Alaric Grimholt Scholar", "Scholar the Grimholt Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Grimholt the Scholar
 
 *Tiefling Appraiser (Merchants), Age 28, Non-binary*
@@ -36,22 +42,18 @@ Built their business from nothing through cunning and hard work They've been mar
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Baelor Moonshadow the Lost (Personal - Ex-lover)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Hilda Goldleaf the Wise (Political - Opposition)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Elric Xendar the Fallen (Professional - Employer)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ### Ewan Zephyrblade the Bold (Political - Puppet)
 - **Status**: One-sided affection
@@ -61,7 +63,6 @@ Built their business from nothing through cunning and hard work They've been mar
 ### Jorah Hawthorne the Wanderer (Professional - Partner)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Running a cult from their basement

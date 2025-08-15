@@ -24,7 +24,7 @@ improvements: 20
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-pearl-markets-the-pearl-markets.svg)
+![]([[04_Resources|04_Resources]]/[[Assets|Assets]]/[[locations|locations]]/location-city-the-pearl-markets-the-pearl-markets.svg)
 
 > [!figure] View
 
@@ -38,11 +38,11 @@ improvements: 20
 
 ### Culture Improvements
 
-- Define unique cultural practices and taboos
+- Define unique [[Cultural Practices|Cultural Practices]] and taboos
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]]]], and wealth distribution
 
 ### Religion Improvements
 
@@ -50,7 +50,7 @@ improvements: 20
 
 ### Lifestyle Improvements
 
-- Describe typical day for different social classes
+- Describe typical day for different social [[classes|classes]]
 
 ### Sensory Improvements
 
@@ -82,19 +82,19 @@ improvements: 20
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
+- Detail common [[objects|objects]] and their cultural significance
 
 ### Coming_Of_Age Improvements
 
 - Describe rites of passage and adulthood markers
 
-## Player-Facing Summary
+## Player-[[facing|facing]] Summary
 
 The Pearl Markets is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## [[Lore]] Details
 
-Legends speak of The Pearl Markets as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Pearl Markets.
+Legends speak of The Pearl Markets as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or [[Whispers|Whispers]] on the wind—that herald change around The Pearl Markets.
 
 ### [[Key Locations]]
 1. Main entrance/approach
@@ -103,7 +103,7 @@ Legends speak of The Pearl Markets as a nexus where past and present converge. L
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -124,27 +124,23 @@ The Pearl Markets is a notable location characterized by its unique features and
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
-- **Races**: Diverse mix
+- **[[Races|Races]]**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
-- **Market District**: Commerce hub
+- **[[Market District|Market District]]**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
-
 
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -157,7 +153,7 @@ The Pearl Markets is a notable location characterized by its unique features and
 Ongoing situations affecting The Pearl Markets:
 
 - Political developments
-- Economic conditions
+- Economic [[Conditions|Conditions]]
 - Social movements
 - External threats
 - Opportunities arising
@@ -213,8 +209,7 @@ Ongoing situations affecting The Pearl Markets:
 - 6pm: Return home
 - 8pm: Sleep
 
-
-## Climate & Weather
+## Climate & [[weather|weather]]
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
 
@@ -249,3 +244,13 @@ Ongoing situations affecting The Pearl Markets:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+---
+**Navigation**: [[INDEX|🏠 Home]] | [[INDEX|📚 Index]]
+
+## References
+
+- [[Coral Throne Syndicate]]
+- [[Current Riders Guild]]
+- [[Coral Throne Syndicate (D&D_References)]]
+- [[Current Riders Guild (D&D_References)]]

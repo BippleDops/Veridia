@@ -18,7 +18,7 @@ tags:
 created: '2025-08-12'
 modified: '2025-08-14'
 status: complete
-headquarters: '[[The Hidden Archive]]'
+headquarters: ''
 membership: Unknown
 alignment: Lawful Good
 faction_type: Resistance Movement
@@ -190,7 +190,7 @@ Discovery of [[Shadow Surgery Network]] operations transformed the Society from 
 **Special Abilities**: Pattern recognition, intelligence synthesis, shadow operative behavior analysis
 
 #### The Preservation Keeper
-**Current Holder**: [[Keeper Light Archive]]  
+**Current Holder**:   
 **Background**: Librarian who discovered systematic destruction of historical records  
 **Responsibilities**: Knowledge preservation, archive security, cultural heritage protection  
 **Special Abilities**: Information organization, document authentication, cultural pattern analysis
@@ -378,7 +378,7 @@ Rapid removal of individuals from shadow conspiracy threat:
 Long-term protection and support for rescued individuals:
 
 **Sanctuary Facilities**:
-- **[[The Hidden Archive]]**: Primary sanctuary and organizational headquarters
+- ****: Primary sanctuary and organizational headquarters
 - **Regional Safe Houses**: Temporary protection facilities in each resistance region
 - **Deep Settlement Refuges**: Permanent relocation options in isolated communities
 - **Mobile Sanctuary Units**: Temporary protection for individuals awaiting permanent placement
@@ -711,3 +711,9 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure (D&D_References)]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure 3 (D&D_References)]]

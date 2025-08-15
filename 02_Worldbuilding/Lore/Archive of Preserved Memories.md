@@ -16,7 +16,7 @@ Archive of Preserved Memories represents a crucial aspect of the world's history
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs

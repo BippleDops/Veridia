@@ -21,17 +21,17 @@ modified: '2025-01-15'
 - [ ] **Coffee Grinder**: Cleaned after use
   - Time: _____
   - Condition: _____
-  - Related NPC: [[Brewmaster Grindstone]]
+  - Related NPC: [[Brewmaster_Grindstone|Brewmaster Grindstone]]
 
 - [ ] **VR Equipment**: Lenses and headset wiped
   - Time: _____
   - Products used: _____
-  - Scrying orb maintenance: [[Crystal Observatory]]
+  - Scrying orb maintenance: [[Crystal_Observatory|Crystal Observatory]]
 
 - [ ] **AirPods**: Quick wipe completed
   - Time: _____
   - Deep clean needed?: _____
-  - Communication crystal parallel: [[Signal Keepers]]
+  - Communication crystal parallel: [[Signal_Keepers|Signal Keepers]]
 
 ## Weekly Tasks (Complete on: {{day}})
 - [ ] **Humidifier Deep Clean**
@@ -39,13 +39,13 @@ modified: '2025-01-15'
   - Vinegar soak (30min): ☐
   - Scrubbed: ☐
   - Rinsed & dried: ☐
-  - Quest inspiration: [[Weekly Cleansing]]
+  - Quest inspiration: [[Weekly_Cleansing|Weekly Cleansing]]
 
 - [ ] **VR Face Pads**
   - Removed: ☐
   - Washed: ☐
   - Dried completely: ☐
-  - Armor padding technique: [[Armorer Padwick]]
+  - Armor padding technique: [[Armorer_Padwick|Armorer Padwick]]
 
 - [ ] **AirPods & Case Deep Clean**
   - Exterior cleaned: ☐
@@ -87,7 +87,7 @@ modified: '2025-01-15'
   - SMART status: _____
   - Error scan: ☐
   - Free space: _____%
-  - Memory crystal care: [[Memory Keepers]]
+  - Memory crystal care: [[Memory_Keepers|Memory Keepers]]
 
 ## Quarterly Tasks (Quarter: Q{{quarter}})
 - [ ] **Power Station**
@@ -100,13 +100,13 @@ modified: '2025-01-15'
   - Covers removed: ☐
   - Vents cleaned: ☐
   - Dust traps emptied: ☐
-  - Artificer wisdom: [[Artificer PlayStation]]
+  - Artificer wisdom: [[Artificer_PlayStation|Artificer PlayStation]]
 
 - [ ] **Coffee Grinder Deep Clean**
   - Fully disassembled: ☐
   - Parts washed: ☐
   - Burrs cleaned: ☐
-  - Alchemical mills: [[Grinding Workshop]]
+  - Alchemical mills: [[Grinding_Workshop|Grinding Workshop]]
 
 - [ ] **Humidifier Filter Replacement**
   - Old filter removed: ☐
@@ -118,7 +118,7 @@ modified: '2025-01-15'
   - Drives defragmented: ☐
   - Firmware updated: ☐
   - Version: _____
-  - Archive optimization: [[Archive Optimizers]]
+  - Archive optimization: [[Archive_Optimizers|Archive Optimizers]]
 
 ## Annual Tasks (Year: {{year}})
 - [ ] **HEPA Filter Replacement**
@@ -131,19 +131,19 @@ modified: '2025-01-15'
   - Scheduled date: _____
   - Technician: _____
   - Issues found: _____
-  - Guild inspection: [[Environmental Engineers]]
+  - Guild inspection: [[Environmental_Engineers|Environmental Engineers]]
 
 - [ ] **Robot Vacuum Parts Evaluation**
   - Mop pads: ☐ Replace? _____
   - Side brushes: ☐ Replace? _____
   - Battery health: _____%
-  - Golem overhaul: [[Master Golemancer]]
+  - Golem overhaul: [[Master_Golemancer|Master Golemancer]]
 
 - [ ] **VR/Audio Accessories**
   - Face foam condition: _____
   - Ear tips condition: _____
   - Replacements ordered: ☐
-  - Gear renewal: [[Outfitters Shop]]
+  - Gear renewal: [[Outfitters_Shop|Outfitters Shop]]
 
 ## 📊 Maintenance Metrics
 
@@ -180,9 +180,13 @@ modified: '2025-01-15'
 ## 🔗 Quick Links
 - [[LIFE_MANAGEMENT_SYSTEM]] - Main system
 - [[Maintenance_Schedule_{{year}}]] - Annual schedule
-- [[Equipment Inventory]] - Full inventory list
-- [[Maintenance Supplies]] - Supply tracking
+- [[Equipment_Inventory|Equipment Inventory]] - Full inventory list
+- [[Maintenance_Supplies|Maintenance Supplies]] - Supply tracking
 - [[Campaign_Parallel_Quests]] - Related adventures
 
 ---
 *Template Version: 1.0 | Last Updated: {{modified}}*
+
+## References
+
+- [[LIFE_MANAGEMENT_SYSTEM]]

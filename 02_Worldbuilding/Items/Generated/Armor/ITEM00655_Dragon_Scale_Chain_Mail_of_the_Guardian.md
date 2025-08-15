@@ -1,3 +1,9 @@
+---
+aliases: ["Dragon Scale Chain Mail of the Guardian", "dragon scale chain mail of the guardian", "Dragon Scale Chain Mail of Guardian", "Guardian the of Mail Chain Scale Dragon"]
+tags: [item, equipment]
+type: item
+---
+
 # Dragon Scale Chain Mail of the Guardian
 
 *Armor, Uncommon*
@@ -14,8 +20,6 @@ A dragon scale chain mail shimmering with energy
 - +1 to AC
 - +2 to AC
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -30,7 +34,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.402Z*

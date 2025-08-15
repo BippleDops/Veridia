@@ -129,7 +129,6 @@ improvements: 20
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements

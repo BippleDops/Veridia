@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Grimholt the Redeemed", "lyanna grimholt the redeemed", "Lyanna Grimholt Redeemed", "Redeemed the Grimholt Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Grimholt the Redeemed
 
 *Dwarf Bard (Adventurers), Age 51, Female*
@@ -13,7 +19,6 @@
 Very tall and delicate, with Shaved bald hair and Gray eyes. Scarred skin. Intricate tattoos covering arms.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Believes in every conspiracy theory
@@ -42,7 +47,6 @@ Running from a dark past that won't stay buried Strange abilities have begun man
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Vesper Youngblood the Broken (Personal - Ex-lover)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
@@ -57,11 +61,9 @@ Running from a dark past that won't stay buried Strange abilities have begun man
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Urien Grimholt the Bold (Political - Patron)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Possessed by ancient spirit

@@ -84,3 +84,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Pressure Adaptation System]]
+- [[Underwater Breathing]]
+- [[Pressure Adaptation System (D&D_References)]]
+- [[Underwater Breathing (D&D_References)]]
+- [[Special Facility Descriptions Special Facilities Xdmg]]
+- [[Special Facility Descriptions Special]]

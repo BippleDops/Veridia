@@ -42,7 +42,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -103,7 +103,7 @@ Legends speak of International Trade as a nexus where past and present converge.
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -124,13 +124,11 @@ International Trade is a notable location characterized by its unique features a
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -138,13 +136,11 @@ International Trade is a notable location characterized by its unique features a
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -165,7 +161,6 @@ Ongoing situations affecting International Trade:
 ## Trade Importance
 
 Key stop on metals trade route
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -202,3 +197,35 @@ Key stop on metals trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Aquabyssos Trade Seal]]
+- [[Consequence Chain 2 - Crystal Trade Disruption]]
+- [[Crystal Forest]]
+- [[Eastern Kingdoms (02_Worldbuilding)]]
+- [[Economic Crime Methods]]
+- [[Economic Systems and Currency]]
+- [[Memory Alteration Consequences]]
+- [[Merchant Family Alliances]]
+- [[Pressure Adaptation System]]
+- [[The Bathyal Succession]]
+- [[The Bloom Fields]]
+- [[The Deep Harvest]]
+- [[The Queen]]
+- [[Trade Route Establishment]]
+- [[Underwater Breathing]]
+- [[Harbor District Customs House]]
+- [[International Trade Agreements]]
+- [[International Trade Routes]]
+- [[Ironhold]]
+- [[Madame Rosalind Goldleaf]]
+- [[Maelstrom Palace]]
+- [[Port Meridian - Market Square]]
+- [[Pressure Terminal]]
+- [[Royal Palace]]
+- [[Sylvanheart]]
+- [[Tethyan Hegemony]]
+- [[The Free Current]]
+- [[The Grand Bazaar of Echoing Coins]]
+- [[The Phosphor Markets]]

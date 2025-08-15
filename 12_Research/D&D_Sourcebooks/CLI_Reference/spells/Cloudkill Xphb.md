@@ -106,3 +106,25 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Death Slaad Xmm]]
+- [[Gray Slaad Xmm]]
+- [[death-slaad-xmm (aberration)]]
+- [[gray-slaad-xmm (aberration)]]
+- [[Mezzoloth Xmm]]
+- [[mezzoloth-xmm (fiend)]]
+- [[aerisi-kalinoth-pota (npc)]]
+- [[npc - Aerisi Kalinoth Pota]]
+- [[Illithilich Vgm (undead)]]
+- [[Skull Lord Mpmm]]
+- [[illithilich-vgm (undead)]]
+- [[skull-lord-mpmm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Death Domain Dmg]]
+- [[cleric-xphb-death-domain-dmg (classes)]]
+- [[Survival Mantle Vgm]]
+- [[survival-mantle-vgm (items)]]

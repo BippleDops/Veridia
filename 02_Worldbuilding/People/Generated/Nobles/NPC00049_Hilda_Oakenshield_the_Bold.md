@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Oakenshield the Bold", "hilda oakenshield the bold", "Hilda Oakenshield Bold", "Bold the Oakenshield Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Oakenshield the Bold
 
 *Elf Aristocrat (Nobles), Age 28, Female*
@@ -36,22 +42,18 @@ Secretly adopted into nobility, living in fear of discovery They've made a deal 
 - **Short Term**: Complete current contract
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Orion Blackstone the Redeemed (Family - Sibling)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Branwen Silverleaf the Fallen (Family - Sibling)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Caelum Thornweave (Criminal - Accomplice)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Child from scandalous affair

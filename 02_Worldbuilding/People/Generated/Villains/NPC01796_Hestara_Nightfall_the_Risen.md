@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Nightfall the Risen", "hestara nightfall the risen", "Hestara Nightfall Risen", "Risen the Nightfall Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Nightfall the Risen
 
 *Gnome Cultist (Villains), Age 62, Non-binary*
@@ -42,7 +48,6 @@ Believes their evil acts serve a greater good They've been marked by a secret so
 - **Status**: Professional only
 - **History**: United by common enemy
 
-
 ### Branwen Nightfall the Strong (Professional - Employer)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
@@ -52,11 +57,9 @@ Believes their evil acts serve a greater good They've been marked by a secret so
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Aldric Stormwind the Wise (Political - Puppet)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
-
 
 ### Drusilla Oakenshield the Bold (Political - Ally)
 - **Status**: Blood oath bound

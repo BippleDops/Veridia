@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Stormwind the Bold", "wynne stormwind the bold", "Wynne Stormwind Bold", "Bold the Stormwind Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Stormwind the Bold
 
 *Half-Elf Bard (Adventurers), Age 57, Non-binary*
@@ -36,22 +42,18 @@ Searching for a legendary treasure their parent died seeking They've made a deal
 - **Short Term**: Complete current contract
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Elric Oakenshield the Guardian (Political - Puppet)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
 
-
 ### Vesper Zephyrblade the Broken (Family - Child)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
 
-
 ### Delara Grimholt the Wise (Criminal - Accomplice)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Secretly working for the villain

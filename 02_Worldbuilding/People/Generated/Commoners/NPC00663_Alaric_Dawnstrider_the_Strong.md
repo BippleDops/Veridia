@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Dawnstrider the Strong", "alaric dawnstrider the strong", "Alaric Dawnstrider Strong", "Strong the Dawnstrider Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Dawnstrider the Strong
 
 *Half-Orc Fisher (Commoners), Age 31, Non-binary*
@@ -13,7 +19,6 @@
 Above average and slender, with Long and flowing blonde hair and Green eyes. Unusual hue skin. Unusual eye color for their race.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Collects unusual and worthless objects
@@ -36,7 +41,6 @@ Family has worked the same trade for generations, but times are changing An old 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Lyanna Darkwater the Risen (Personal - Best friend)
 - **Status**: Strong and trusting
@@ -46,7 +50,6 @@ Family has worked the same trade for generations, but times are changing An old 
 ### Fiora Darkwater the Broken (Personal - Childhood friend)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
-
 
 ### Thalia Voidwalker the Risen (Political - Spy)
 - **Status**: One-sided affection
@@ -61,7 +64,6 @@ Family has worked the same trade for generations, but times are changing An old 
 ### Elric Ironforge the Lost (Professional - Mentor)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Witnessed a noble's crime

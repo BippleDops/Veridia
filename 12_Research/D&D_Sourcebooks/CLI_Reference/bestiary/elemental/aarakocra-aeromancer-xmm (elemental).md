@@ -144,3 +144,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+## References
+
+- [[Aarakocra Aeromancer Xmm]]
+- [[Monsters by Habitat Mountain Monsters Xmm]]
+- [[monsters-by-habitat-mountain-monsters-xmm (tables)]]

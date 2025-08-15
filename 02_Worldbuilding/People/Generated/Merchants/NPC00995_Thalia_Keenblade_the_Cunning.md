@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Keenblade the Cunning", "thalia keenblade the cunning", "Thalia Keenblade Cunning", "Cunning the Keenblade Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Keenblade the Cunning
 
 *Aasimar Broker (Merchants), Age 58, Non-binary*
@@ -36,17 +42,14 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 - **Short Term**: Recruit new members
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Elric Youngblood the Broken (Political - Spy)
 - **Status**: Professional only
 - **History**: United by common enemy
 
-
 ### Hestara Emberfall the Risen (Family - Spouse)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ### Caelum Dawnstrider the Bold (Personal - Love interest)
 - **Status**: Strained but maintaining
@@ -56,7 +59,6 @@ Former adventurer who retired to open a shop They're being blackmailed by someon
 ### Caelum Oakenshield the Risen (Criminal - Fence)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ### Rhiannon Ironforge the Fallen (Political - Patron)
 - **Status**: Strong and trusting

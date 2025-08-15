@@ -77,3 +77,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Strange accidents suggest ancient magic
 - A shipment has gone missing and evil awakens
 - Strange accidents suggest a curse
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Magic Item Table G]]
+- [[Random Magic Items Implements]]
+- [[magic-item-table-g (tables)]]
+- [[random-magic-items-implements (tables)]]

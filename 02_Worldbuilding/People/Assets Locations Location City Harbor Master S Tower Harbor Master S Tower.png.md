@@ -221,3 +221,8 @@ Member of House Lionblood - Trait: prophecy
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-witness-protection-protocols-v1-witness-protection-protocols.svg]]
+- [[04_Resources_Assets_Locations_location-city-marine-druids-v1-marine-druids.svg]]

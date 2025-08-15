@@ -1,3 +1,9 @@
+---
+aliases: ["Simple Lock of Reliability", "simple lock of reliability", "Reliability of Lock Simple"]
+tags: [item, equipment]
+type: item
+---
+
 # Simple Lock of Reliability
 
 *Mundane, Uncommon*
@@ -14,8 +20,6 @@ A simple lock bearing maker's mark
 - Has hidden compartment
 - Alerts to danger
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -30,7 +34,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.484Z*

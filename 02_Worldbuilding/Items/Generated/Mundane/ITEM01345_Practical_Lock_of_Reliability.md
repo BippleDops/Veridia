@@ -1,3 +1,9 @@
+---
+aliases: ["Practical Lock of Reliability", "practical lock of reliability", "Reliability of Lock Practical"]
+tags: [item, equipment]
+type: item
+---
+
 # Practical Lock of Reliability
 
 *Mundane, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A practical lock bearing maker's mark
 - Grants minor benefit
 - Grants minor benefit
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -30,7 +34,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.479Z*

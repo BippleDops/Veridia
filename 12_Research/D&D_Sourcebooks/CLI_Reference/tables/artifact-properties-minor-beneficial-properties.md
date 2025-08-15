@@ -83,3 +83,18 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A shipment has gone missing and evil awakens
 - A shipment has gone missing and truth emerges
 - Someone is hunting information for power
+
+## References
+
+- [[Axe of the Dwarvish Lords Xdmg]]
+- [[Eye and Hand of Vecna Xdmg]]
+- [[Eye of Vecna Xdmg]]
+- [[Hand of Vecna Xdmg]]
+- [[Orb of Dragonkind Xdmg]]
+- [[Sword of Kas Xdmg]]
+- [[axe-of-the-dwarvish-lords-xdmg (items)]]
+- [[eye-and-hand-of-vecna-xdmg (items)]]
+- [[eye-of-vecna-xdmg (items)]]
+- [[hand-of-vecna-xdmg (items)]]
+- [[orb-of-dragonkind-xdmg (items)]]
+- [[sword-of-kas-xdmg (items)]]

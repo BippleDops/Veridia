@@ -218,3 +218,7 @@ Member of House Eagleblood - Trait: curse
 - Civil war
 - Natural disasters
 - Current power structures established
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-pilgrimage-master-depth-guide-melancholy-pilgrimage-master-depth-guide-melancholy.svg]]

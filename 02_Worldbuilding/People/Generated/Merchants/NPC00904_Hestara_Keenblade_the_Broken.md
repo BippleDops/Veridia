@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Keenblade the Broken", "hestara keenblade the broken", "Hestara Keenblade Broken", "Broken the Keenblade Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Keenblade the Broken
 
 *Goliath Shopkeeper (Merchants), Age 72, Female*
@@ -13,7 +19,6 @@
 Average height and slender, with Dreadlocks red hair and Hazel eyes. Pale skin. Gold tooth that glints when smiling.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Compulsive liar about minor things
@@ -36,22 +41,18 @@ Built their business from nothing through cunning and hard work They've fallen i
 - **Short Term**: Make this month's payment
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Felicia Ironwood the Broken (Personal - Ex-lover)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Orion Brightblade the Cunning (Criminal - Accomplice)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
 
-
 ### Branwen Stormwind the Redeemed (Family - Parent)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
-
 
 ### Baelor Lightbringer the Guardian (Personal - Love interest)
 - **Status**: Secretly hostile

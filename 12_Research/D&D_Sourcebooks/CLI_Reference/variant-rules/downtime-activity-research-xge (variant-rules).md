@@ -84,3 +84,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+## References
+
+- [[Downtime Revisited Xge]]
+- [[downtime-revisited-xge (variant-rules)]]

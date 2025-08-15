@@ -137,3 +137,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A prisoner has gone missing and evil awakens
 - An heirloom has gone missing and truth emerges
 - A noble needs help stealing before the festival
+
+## References
+
+- [[guardian-portrait-cos (construct)]]

@@ -1,4 +1,5 @@
 ---
+aliases: ["Arcane Blessing", "arcane blessing", "Blessing Arcane"]
 tags: [generated]
 id: SPELL0024_Arcane_Blessing
 created: 2025-08-15T04:09:51.471Z

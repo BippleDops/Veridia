@@ -11,7 +11,7 @@ created: '2025-01-15'
 
 ## Portrait
 
-![[portrait_04_resources_assets_portraits_portrait-npc-house-guard-captains-house-guard-captains.svg.png]]
+![[04_Resources|portrait_04_resources_assets_portraits_portrait-npc-house-guard-captains-house-guard-captains.svg.png]]
 
 *Portrait reference for 04_Resources_Assets_Portraits_portrait-npc-house-guard-captains-house-guard-captains.svg*
 
@@ -75,3 +75,10 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+## References
+
+- [[Assets Locations Location City Terminal Director Admiral Current Swiftflow Terminal Director Admiral Current Swiftflow.svg]]
+- [[Assets Portraits Portrait NPC Captain Echoing Thunder Captain Echoing Thunder.svg]]
+- [[Assets Symbols Symbol Heraldry the Great Resonance the Great Resonance.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-house-guard-captains-house-guard-captains.svg_Quick_Ref]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Dawnstrider the Cunning", "delara dawnstrider the cunning", "Delara Dawnstrider Cunning", "Cunning the Dawnstrider Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Dawnstrider the Cunning
 
 *Human Heir (Nobles), Age 24, Non-binary*
@@ -36,32 +42,26 @@ Secretly adopted into nobility, living in fear of discovery They've made a deal 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Orion Blackstone (Family - Spouse)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
 
-
 ### Gareth Crystalbrook (Political - Patron)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ### Jorah Quicksilver (Criminal - Informant)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Ewan Frostwhisper the Bold (Personal - Childhood friend)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
 
-
 ### Orion Jadeclaw the Guardian (Criminal - Target)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Practicing forbidden magic

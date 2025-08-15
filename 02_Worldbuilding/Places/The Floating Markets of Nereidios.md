@@ -45,7 +45,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -83,7 +83,7 @@ improvements: 20
 The Floating Markets of Nereidios are a massive collection of interconnected ships, platforms, and artificial islands that form a mobile trading city on [[The Azure Coast]]. This unique mari[[Time]] marketplace serves as the primary hub for aquatic goods, deep-sea treasures, and [[Cultural Exchange]] between surface dwellers and underwater civilizations.
 
 ## Market Operations
-The floating city operates on tidal schedules, with different [[Merchant]] districts rotating based on ocean currents and seasonal patterns. Major trade includes pearl diving, exotic fish, underwater minerals, and cultural artifacts from [[Abyssos Prime]]. The markets face constant threats from [[The Crimson Fleet]] raids and [[The [[Leviathan]] Cult|[[02 Worldbuilding]]/[[Groups]]/The Leviathan Cult]] recruitment.
+The floating city operates on tidal schedules, with different [[Merchant]] districts rotating based on ocean currents and seasonal patterns. Major trade includes pearl diving, exotic fish, underwater minerals, and cultural artifacts from [[Abyssos Prime]]. The markets face constant threats from [[The Crimson Fleet]] raids and [[Leviathan|The [[Leviathan]] Cult|[[02_Worldbuilding|02 Worldbuilding]]/[[Groups]]/The Leviathan Cult]] recruitment.
 
 ## Player-Facing Summary
 
@@ -100,7 +100,7 @@ Legends speak of The Floating Markets of Nereidios as a nexus where past and pre
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -121,13 +121,11 @@ The Floating Markets of Nereidios is a notable location characterized by its uni
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -135,13 +133,11 @@ The Floating Markets of Nereidios is a notable location characterized by its uni
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -182,7 +178,6 @@ Ongoing situations affecting The Floating Markets of Nereidios:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions

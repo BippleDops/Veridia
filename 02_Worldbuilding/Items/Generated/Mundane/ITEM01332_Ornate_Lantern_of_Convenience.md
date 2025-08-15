@@ -1,3 +1,9 @@
+---
+aliases: ["Ornate Lantern of Convenience", "ornate lantern of convenience", "Convenience of Lantern Ornate"]
+tags: [item, equipment]
+type: item
+---
+
 # Ornate Lantern of Convenience
 
 *Mundane, Uncommon (requires attunement)*

@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Jadeclaw the Scholar", "wynne jadeclaw the scholar", "Wynne Jadeclaw Scholar", "Scholar the Jadeclaw Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Jadeclaw the Scholar
 
 *Half-Elf Farmer (Commoners), Age 64, Female*
@@ -13,7 +19,6 @@
 Above average and athletic, with Carefully styled unusual color hair and Blue eyes. Fair skin. Weather-beaten face showing hard life.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Extremely superstitious about everything
@@ -36,22 +41,18 @@ Family has worked the same trade for generations, but times are changing They re
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Urien Goldleaf the Lost (Political - Puppet)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Vesper Thornweave the Strong (Political - Opposition)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Fiora Hawthorne the Guardian (Criminal - Handler)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ### Cedric Nightfall the Lost (Personal - Ex-lover)
 - **Status**: Strong and trusting
@@ -62,11 +63,9 @@ Family has worked the same trade for generations, but times are changing They re
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Nerys Ravenheart the Strong (Personal - Nemesis)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Can hear the thoughts of others

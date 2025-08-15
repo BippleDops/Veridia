@@ -1,16 +1,16 @@
 ---
 aliases:
-- portrait npc prophet nerida voidgazer v1 prophet nerida voidgazersvg
+- portrait npc [[Prophet Nerida Voidgazer|Prophet Nerida Voidgazer]] v1 prophet nerida voidgazersvg
 class: Unknown
 created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
-location: Unknown
+[[location|location]]: Unknown
 modified: '2025-08-14'
 race: Unknown
 tags:
 - npc
-title: Portrait NPC Prophet Nerida Voidgazer V1 Prophet Nerida Voidgazer.svg
+title: [[Portrait NPC Prophet Nerida Voidgazer V1 Prophet Nerida Voidgazer.svg|Portrait NPC Prophet Nerida Voidgazer V1 Prophet Nerida Voidgazer.svg]]
 type: npc
 updated: 2025-08-14
 ---
@@ -18,7 +18,7 @@ updated: 2025-08-14
 # Portrait NPC Prophet Nerida Voidgazer V1 Prophet Nerida Voidgazer.svg_1
 
 ## Overview
-Portrait NPC Prophet Nerida Voidgazer V1 Prophet Nerida Voidgazer.svg_1 is a notable figure in the realm, known for their unique skills and complex motivations.
+Portrait NPC Prophet Nerida Voidgazer V1 Prophet Nerida Voidgazer.svg_1 is a notable figure in the realm, known for their unique [[skills|skills]] and complex motivations.
 
 ## Appearance
 - **Age**: Middle-aged
@@ -28,7 +28,7 @@ Portrait NPC Prophet Nerida Voidgazer V1 Prophet Nerida Voidgazer.svg_1 is a not
 
 ## Personality
 - **Traits**: Observant, calculating, pragmatic
-- **Ideals**: Knowledge is power, loyalty must be earned
+- **[[ideals|ideals]]**: Knowledge is power, [[loyalty|loyalty]] must be earned
 - **Bonds**: Connected to several influential organizations
 - **Flaws**: Tendency to overthink situations
 
@@ -41,7 +41,7 @@ Born into modest circumstances, Portrait NPC Prophet Nerida Voidgazer V1 Prophet
 - **Equipment**: Various tools of their trade
 
 ## Relationships
-- **Allies**: [[The Merchant's Guild]], [[City Watch]]
+- **[[Allies|Allies]]**: [[The [[Merchant|Merchant]]'s Guild]], [[City Watch]]
 - **Rivals**: [[Shadow Conspiracy]]
 - **Contacts**: Network of informants throughout the city
 
@@ -50,8 +50,11 @@ Actively involved in current events, pursuing their own agenda while maintaining
 
 ## Plot Hooks
 1. Seeks adventurers for a delicate mission
-2. Has information about a mystery the party is investigating
-3. May become an ally or adversary based on party actions
+2. Has information about a mystery [[The Party|The Party]] is investigating
+3. May become an ally or adversary based on party [[actions|actions]]
 
-## DM Notes
+## [[DM_Notes|DM Notes]]
 *This NPC can serve multiple roles depending on campaign needs. Their true loyalties are intentionally ambiguous.*
+
+---
+**Navigation**: [[00_Indexes/Home|🏠 Home]] | [[00_Indexes/MOCs/NPCs_MOC|👥 NPCs]] | [[00_Indexes/Master_Index|📚 Index]]

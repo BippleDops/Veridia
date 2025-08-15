@@ -45,15 +45,12 @@ improvements: 20
 - Time pressure
 - Moral dilemmas
 
-
 # Quest - The Pretender
-
 
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -323,7 +320,6 @@ Member of House Dragonblood - Trait: divine blood
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Time Limit
 - **Deadline**: When it must be completed

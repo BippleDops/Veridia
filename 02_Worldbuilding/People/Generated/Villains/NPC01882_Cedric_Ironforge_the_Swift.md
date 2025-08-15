@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Ironforge the Swift", "cedric ironforge the swift", "Cedric Ironforge Swift", "Swift the Ironforge Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Ironforge the Swift
 
 *Elf Corrupt Noble (Villains), Age 22, Male*
@@ -13,7 +19,6 @@
 Very tall and athletic, with Braided elaborately black hair and Brown eyes. Olive skin. Birthmark shaped like a constellation.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Compulsive liar about minor things
@@ -42,7 +47,6 @@ Believes their evil acts serve a greater good They've made a deal they're beginn
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
 
-
 ### Jorah Moonshadow the Bold (Professional - Employee)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
@@ -52,11 +56,9 @@ Believes their evil acts serve a greater good They've made a deal they're beginn
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Jorah Frostwhisper the Bold (Family - Child)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ### Caelum Underhill the Broken (Personal - Childhood friend)
 - **Status**: Secretly hostile
@@ -66,7 +68,6 @@ Believes their evil acts serve a greater good They've made a deal they're beginn
 ### Gareth Keenblade the Strong (Family - Cousin)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Was once a renowned hero

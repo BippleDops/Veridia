@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Silverleaf the Scholar", "vesper silverleaf the scholar", "Vesper Silverleaf Scholar", "Scholar the Silverleaf Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Silverleaf the Scholar
 
 *Dwarf Assassin (Villains), Age 25, Female*
@@ -36,12 +42,10 @@ Believes their evil acts serve a greater good They're being blackmailed by someo
 - **Short Term**: Find missing person
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Baelor Oakenshield the Bold (Professional - Mentor)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ### Jorah Frostwhisper the Lost (Political - Opposition)
 - **Status**: Secretly hostile
@@ -52,11 +56,9 @@ Believes their evil acts serve a greater good They're being blackmailed by someo
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Erasmus Emberfall the Wanderer (Professional - Partner)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Knows how the world will end

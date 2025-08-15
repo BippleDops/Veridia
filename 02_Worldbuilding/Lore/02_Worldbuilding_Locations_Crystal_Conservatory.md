@@ -196,7 +196,7 @@ Where to learn more:
 - Relevant texts
 - Practical experience
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 ### True Nature
 [Hidden information for DM only]

@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Frostwhisper the Wanderer", "rhiannon frostwhisper the wanderer", "Rhiannon Frostwhisper Wanderer", "Wanderer the Frostwhisper Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Frostwhisper the Wanderer
 
 *Half-Elf Corrupt Noble (Villains), Age 27, Male*
@@ -36,7 +42,6 @@ Betrayed by those they trusted, now seeking revenge on the world They recently d
 - **Short Term**: Avoid the authorities
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Hilda Thornweave the Broken (Professional - Employer)
 - **Status**: Professional only
@@ -47,21 +52,17 @@ Betrayed by those they trusted, now seeking revenge on the world They recently d
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Aldric Voidwalker the Broken (Personal - Best friend)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ### Hilda Grimholt the Wanderer (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Branwen Nightfall the Guardian (Criminal - Accomplice)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ### Erasmus Xendar the Redeemed (Family - Sibling)
 - **Status**: Secretly hostile

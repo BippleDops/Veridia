@@ -159,3 +159,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[homunculus-xmm (construct)]]
+- [[Create Homunculus Xge]]
+- [[create-homunculus-xge (spells)]]
+- [[Monsters by Habitat Any Habitat Monsters Xmm]]
+- [[monsters-by-habitat-any-habitat-monsters-xmm (tables)]]

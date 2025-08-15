@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Ashford the Wise", "wynne ashford the wise", "Wynne Ashford Wise", "Wise the Ashford Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Ashford the Wise
 
 *Half-Elf Carpenter (Commoners), Age 50, Female*
@@ -36,22 +42,18 @@ Former soldier trying to adjust to civilian life They've been marked by a secret
 - **Short Term**: Make this month's payment
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Vesper Silverleaf (Criminal - Accomplice)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Wynne Emberfall the Seeker (Criminal - Accomplice)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
 
-
 ### Aldric Winterborn the Swift (Professional - Rival)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
-
 
 ### Pyria Underhill the Risen (Professional - Employee)
 - **Status**: Strong and trusting

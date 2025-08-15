@@ -1,11 +1,11 @@
 ---
+aliases: ["Zara Ironforge", "zara ironforge", "Ironforge Zara"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Grew up on the streets, learning to survive. Years ago, they witnessed something
 ### Skills
 Athletics
 
-
-
 ## Possessions
 - 85 gold pieces
 - Small gemstone
@@ -90,7 +88,6 @@ Athletics
 
 ---
 *Generated: 2025-08-15T03:21:04.033Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

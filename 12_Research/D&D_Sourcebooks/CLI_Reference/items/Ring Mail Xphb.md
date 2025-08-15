@@ -83,3 +83,11 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Armor Xphb]]
+- [[Armor and Shields Armor Phb]]
+- [[armor-and-shields-armor-phb (tables)]]
+- [[armor-xphb (tables)]]

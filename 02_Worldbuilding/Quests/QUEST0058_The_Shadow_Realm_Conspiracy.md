@@ -1,4 +1,5 @@
 ---
+aliases: ["The Shadow Realm Conspiracy", "the shadow realm conspiracy", "Conspiracy Realm Shadow The"]
 tags: [generated]
 id: QUEST0058
 created: 2025-08-15T04:09:51.396Z
@@ -22,8 +23,6 @@ Safely deliver the ambassador to the capital
 ### Secondary
 - Establish future contacts
 - Rescue any prisoners found
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they made a deal they now regret, which changed their life forever. Now, circumstances demand immediate action.
@@ -58,8 +57,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Show mercy and gain intel - Future ally but justice denied
 2. Execute for crimes committed - Justice served but opportunity lost
-
-
 
 ## Rewards
 ### On Success

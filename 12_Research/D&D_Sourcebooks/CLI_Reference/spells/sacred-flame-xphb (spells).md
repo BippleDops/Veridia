@@ -89,7 +89,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -108,4 +107,18 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[sacred-flame-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[sacred-flame-xphb (spells)|sacred-flame-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb]]
+- [[Warlock Xphb Celestial Patron Xphb]]
+- [[cleric-xphb (classes)]]
+- [[warlock-xphb-celestial-patron-xphb (classes)]]
+- [[Blessed Warrior Xphb]]
+- [[Strixhaven Initiate Scc]]
+- [[blessed-warrior-xphb (feats)]]
+- [[strixhaven-initiate-scc (feats)]]

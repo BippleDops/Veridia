@@ -42,7 +42,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-deepmind-conspiracy-the-deepmind-conspiracy.svg)
 
@@ -51,7 +50,6 @@ improvements: 20
 # The Deepmind Conspiracy
 
 *"The deepest thoughts swim in the darkest currents." - Anonymous Whistleblower*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -294,7 +292,6 @@ Legends speak of The Deepmind Conspiracy as a nexus where past and present conve
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -330,3 +327,10 @@ Legends speak of The Deepmind Conspiracy as a nexus where past and present conve
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Aurelius Goldwave (Lore)]]
+- [[Assets Symbols Symbol Heraldry Border Territories Border Territories.svg]]
+- [[Deepmind Conspiracy]]
+- [[Aurelius Goldwave (D&D_Statblocks)]]

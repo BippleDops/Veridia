@@ -1,3 +1,9 @@
+---
+aliases: ["Dragon Scale Shield of Protection", "dragon scale shield of protection", "Protection of Shield Scale Dragon"]
+tags: [item, equipment]
+type: item
+---
+
 # Dragon Scale Shield of Protection
 
 *Armor, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A dragon scale shield shimmering with energy
 - Grants swimming speed
 - Grants swimming speed
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -32,7 +36,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.402Z*

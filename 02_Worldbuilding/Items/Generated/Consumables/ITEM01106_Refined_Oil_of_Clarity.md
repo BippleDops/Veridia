@@ -1,3 +1,9 @@
+---
+aliases: ["Refined Oil of Clarity", "refined oil of clarity", "Clarity of Oil Refined"]
+tags: [item, equipment]
+type: item
+---
+
 # Refined Oil of Clarity
 
 *Consumables, Common*
@@ -13,8 +19,6 @@ A refined oil swirling with colors
 ## Properties
 - Breathe underwater 1 hour
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -29,7 +33,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.456Z*

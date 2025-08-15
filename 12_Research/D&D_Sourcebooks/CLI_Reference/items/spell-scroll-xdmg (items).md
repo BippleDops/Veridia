@@ -97,7 +97,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -110,3 +109,49 @@ Contextual improvement based on 12_Research
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Master_Spell_Compendium]]
+- [[scriptorium]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Rogue Xphb Thief Xphb]]
+- [[rogue-xphb-thief-xphb (classes)]]
+- [[Calligraphers Supplies Xphb]]
+- [[Robe of Useful Items Xdmg]]
+- [[calligraphers-supplies-xphb (items)]]
+- [[robe-of-useful-items-xdmg (items)]]
+- [[Arcana Common Xdmg]]
+- [[Arcana Rare Xdmg]]
+- [[Arcana Uncommon Xdmg]]
+- [[Arcana Very Rare Xdmg]]
+- [[Magic Item Categories Xdmg]]
+- [[Magic Item Crafting Time and Cost Xdmg]]
+- [[Magic Item Values by Rarity Magic Item Rarities and Values Xdmg]]
+- [[Magic Item Values by Rarity Magic Item]]
+- [[Random Magic Items Arcana]]
+- [[Random Magic Items Relics]]
+- [[Relics Common Xdmg]]
+- [[Relics Legendary Xdmg]]
+- [[Relics Rare Xdmg]]
+- [[Relics Uncommon Xdmg]]
+- [[arcana-common-xdmg (tables)]]
+- [[arcana-rare-xdmg (tables)]]
+- [[arcana-uncommon-xdmg (tables)]]
+- [[arcana-very-rare-xdmg (tables)]]
+- [[magic-item-categories-xdmg (tables)]]
+- [[magic-item-crafting-time-and-cost-xdmg (tables)]]
+- [[random-magic-items-arcana (tables)]]
+- [[random-magic-items-relics (tables)]]
+- [[relics-common-xdmg (tables)]]
+- [[relics-legendary-xdmg (tables)]]
+- [[relics-rare-xdmg (tables)]]
+- [[relics-uncommon-xdmg (tables)]]
+- [[Downtime Activity Crafting a Magic Item]]
+- [[Downtime Activity Scribing a Spell Scroll Xge]]
+- [[Scroll Mishaps]]
+- [[downtime-activity-crafting-a-magic-item (variant-rules)]]
+- [[downtime-activity-scribing-a-spell-scroll-xge (variant-rules)]]
+- [[scroll-mishaps (variant-rules)]]

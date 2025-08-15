@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Keenblade the Broken", "urien keenblade the broken", "Urien Keenblade Broken", "Broken the Keenblade Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Keenblade the Broken
 
 *Tiefling Fighter (Adventurers), Age 35, Male*
@@ -36,22 +42,18 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 - **Short Term**: Gather information
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Jorah Ironforge the Fallen (Personal - Nemesis)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
 
-
 ### Felicia Brightblade the Risen (Political - Ally)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
 
-
 ### Corvus Moonshadow the Lost (Personal - Nemesis)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ### Felicia Jadeclaw the Risen (Criminal - Accomplice)
 - **Status**: Professional only
@@ -61,7 +63,6 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 ### Felicia Youngblood the Bold (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is from the future

@@ -1,3 +1,9 @@
+---
+aliases: ["Blessed Staff of Speed", "blessed staff of speed", "Speed of Staff Blessed"]
+tags: [item, equipment]
+type: item
+---
+
 # Blessed Staff of Speed
 
 *Weapons, Rare (requires attunement)*

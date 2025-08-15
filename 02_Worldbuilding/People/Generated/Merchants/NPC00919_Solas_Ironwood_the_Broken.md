@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Ironwood the Broken", "solas ironwood the broken", "Solas Ironwood Broken", "Broken the Ironwood Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Ironwood the Broken
 
 *Firbolg Trader (Merchants), Age 76, Male*
@@ -13,7 +19,6 @@
 Very short and heavyset, with Long and flowing black hair and Black eyes. Freckled skin. Warm smile that puts people at ease.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Compulsive liar about minor things; Extremely superstitious about everything
@@ -36,7 +41,6 @@ Former adventurer who retired to open a shop A prophetic dream has been haunting
 - **Short Term**: Recruit new members
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Delara Quicksilver the Scholar (Family - Spouse)
 - **Status**: Mutually beneficial
@@ -52,11 +56,9 @@ Former adventurer who retired to open a shop A prophetic dream has been haunting
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Hestara Grimholt the Risen (Family - Child)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ### Aldric Underhill the Cunning (Criminal - Fence)
 - **Status**: On the verge of collapse

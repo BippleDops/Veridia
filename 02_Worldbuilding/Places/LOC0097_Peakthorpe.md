@@ -1,4 +1,5 @@
 ---
+aliases: ["Peakthorpe", "peakthorpe"]
 tags: [generated]
 id: LOC0097
 created: 2025-08-15T04:09:51.327Z
@@ -21,20 +22,17 @@ An untamed natural area far from civilization
 - **Current Leader**: Beloved autocrat
 - **Political Stability**: Unstable
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -94,7 +92,6 @@ An untamed natural area far from civilization
 
 ---
 *Generated: 2025-08-15T03:21:04.078Z*
-
 
 ## History
 - **Founding**: Origin story

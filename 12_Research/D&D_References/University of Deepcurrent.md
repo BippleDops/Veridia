@@ -82,3 +82,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Memory Merchant Valeria Siltweave]]
+- [[Memory Merchant Valeria Siltweave (D&D_Statblocks)]]

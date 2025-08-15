@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Ironwood", "vesper ironwood", "Ironwood Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Ironwood
 
 *Goliath Ambassador (Nobles), Age 75, Male*
@@ -13,7 +19,6 @@
 Below average and lanky, with Braided elaborately auburn hair and Violet eyes. Pale skin. Gold tooth that glints when smiling.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Constantly quotes ancient texts
@@ -52,11 +57,9 @@ Last survivor of a fallen house, seeking to restore family honor They're being b
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
 
-
 ### Jorah Ironforge (Political - Ally)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ### Gareth Grimholt (Personal - Ex-lover)
 - **Status**: Strained but maintaining
@@ -66,7 +69,6 @@ Last survivor of a fallen house, seeking to restore family honor They're being b
 ### Cedric Ironforge (Family - Sibling)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Practicing forbidden magic

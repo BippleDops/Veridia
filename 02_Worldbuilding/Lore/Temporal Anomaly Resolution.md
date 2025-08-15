@@ -62,7 +62,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -137,7 +137,7 @@ The growing frequency and severity of temporal anomalies has made these services
 - Chronological measurement devices
 - Reality anchor systems
 - Personal [[Temporal Protection]] equipment
-- [[Communication Systems]] immune to temporal interference
+- [[Communication_Systems|Communication Systems]] immune to temporal interference
 
 ### Type Beta: Moderate Temporal Disturbances
 
@@ -569,7 +569,7 @@ Understanding how temporal anomalies affect food production and resource extract
 - Crop varieties bred for temporal stability or adaptation
 - Storage techniques preserving food despite temporal effects
 - Resource management strategies accounting for temporal uncertainties
-- [[Economic System]]s adapting to temporal effects on agriculture and resource extraction
+- [[Economic_System|Economic System]]s adapting to temporal effects on agriculture and resource extraction
 
 **Long-Term Sustainability:**
 - Research into sustainable practices in temporally dynamic environments
@@ -673,7 +673,7 @@ Temporal Anomaly Resolution is a undersea element of the setting, known for biol
 
 Legends speak of Temporal Anomaly Resolution as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Temporal Anomaly Resolution.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -730,3 +730,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Campaign_Relationship_Matrix]]

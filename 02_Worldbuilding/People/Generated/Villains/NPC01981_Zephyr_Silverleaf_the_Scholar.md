@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Silverleaf the Scholar", "zephyr silverleaf the scholar", "Zephyr Silverleaf Scholar", "Scholar the Silverleaf Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Silverleaf the Scholar
 
 *Dragonborn Corrupt Noble (Villains), Age 67, Male*
@@ -36,7 +42,6 @@ Born into evil but questioning their path Strange abilities have begun manifesti
 - **Short Term**: Recruit new members
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Erasmus Dawnstrider the Wanderer (Family - Parent)
 - **Status**: On the verge of collapse
@@ -47,7 +52,6 @@ Born into evil but questioning their path Strange abilities have begun manifesti
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Vesper Youngblood the Mystic (Family - Cousin)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
@@ -57,11 +61,9 @@ Born into evil but questioning their path Strange abilities have begun manifesti
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Fiora Underhill the Cunning (Criminal - Target)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Was once a renowned hero

@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Brightblade the Mystic", "idris brightblade the mystic", "Idris Brightblade Mystic", "Mystic the Brightblade Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Brightblade the Mystic
 
 *Aasimar Shopkeeper (Merchants), Age 59, Female*
@@ -13,7 +19,6 @@
 Tall and slender, with Mohawk auburn hair and Green eyes. Unusual hue skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Collects unusual and worthless objects; Speaks to inanimate objects; Compulsive liar about minor things
@@ -36,27 +41,22 @@ Former adventurer who retired to open a shop A chance encounter last winter chan
 - **Short Term**: Complete current contract
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Erasmus Xendar the Risen (Personal - Nemesis)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Urien Hawthorne the Scholar (Family - Sibling)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ### Nerys Hawthorne the Wanderer (Family - Child)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
 
-
 ### Xander Xendar the Scholar (Criminal - Target)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Is actually a spy for foreign power

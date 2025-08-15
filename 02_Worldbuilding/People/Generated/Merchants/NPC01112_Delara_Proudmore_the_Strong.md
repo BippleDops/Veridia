@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Proudmore the Strong", "delara proudmore the strong", "Delara Proudmore Strong", "Strong the Proudmore Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Proudmore the Strong
 
 *Genasi Appraiser (Merchants), Age 59, Female*
@@ -36,12 +42,10 @@ Part of a merchant family with connections everywhere They're being blackmailed 
 - **Short Term**: Gather information
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Thalia Underhill the Lost (Professional - Rival)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
-
 
 ### Corvus Underhill the Mystic (Professional - Rival)
 - **Status**: One-sided affection
@@ -51,7 +55,6 @@ Part of a merchant family with connections everywhere They're being blackmailed 
 ### Erasmus Emberfall the Guardian (Family - Cousin)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Is actually a spy for foreign power

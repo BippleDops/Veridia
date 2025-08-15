@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Ravenheart the Wanderer", "thalia ravenheart the wanderer", "Thalia Ravenheart Wanderer", "Wanderer the Ravenheart Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Ravenheart the Wanderer
 
 *Tabaxi Broker (Merchants), Age 29, Non-binary*
@@ -13,7 +19,6 @@
 Very short and heavyset, with Tied back blonde hair and Blue eyes. Scarred skin. Missing ear from old battle.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Never backs down from any challenge; Sees doom and gloom everywhere
@@ -42,26 +47,21 @@ Uses their business as cover for other activities Strange abilities have begun m
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Faelyn Thornweave the Strong (Professional - Rival)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ### Felicia Jadeclaw the Wanderer (Family - Sibling)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
 
-
 ### Faelyn Crystalbrook the Bold (Political - Opposition)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
 
-
 ### Faelyn Ravenheart the Redeemed (Personal - Love interest)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Killed previous business owner

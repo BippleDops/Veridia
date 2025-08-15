@@ -27,7 +27,6 @@ Further information about this topic will be developed as the campaign progresse
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery
 
-
 ## Scaling by Party Level
 - **Level 1-4**: Reduce enemies
 - **Level 5-10**: Standard difficulty

@@ -1,3 +1,9 @@
+---
+aliases: ["Enchanted Gauntlets of Fortitude", "enchanted gauntlets of fortitude", "Fortitude of Gauntlets Enchanted"]
+tags: [item, equipment]
+type: item
+---
+
 # Enchanted Gauntlets of Fortitude
 
 *Armor, Common*
@@ -13,8 +19,6 @@ A enchanted gauntlets crafted from exotic materials
 ## Properties
 - Advantage on saving throws
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -29,7 +33,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.398Z*

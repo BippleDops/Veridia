@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Ashford", "xander ashford", "Ashford Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Ashford
 
 *Aasimar Aristocrat (Nobles), Age 72, Female*
@@ -13,7 +19,6 @@
 Tall and lanky, with Dreadlocks red hair and Green eyes. Weathered skin. Missing ear from old battle.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Constantly quotes ancient texts; Never backs down from any challenge; Extremely superstitious about everything
@@ -42,7 +47,6 @@ Exiled from their homeland, trying to rebuild their power base A chance encounte
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Pyria Emberfall (Personal - Best friend)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
@@ -57,11 +61,9 @@ Exiled from their homeland, trying to rebuild their power base A chance encounte
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
 
-
 ### Gareth Ashford the Wise (Family - Cousin)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

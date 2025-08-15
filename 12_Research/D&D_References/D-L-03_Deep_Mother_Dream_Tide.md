@@ -63,3 +63,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Winds
+
+## References
+
+- [[Aquabyssos_Session_10 (D&D_References)]]

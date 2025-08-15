@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Thornweave the Wanderer", "orion thornweave the wanderer", "Orion Thornweave Wanderer", "Wanderer the Thornweave Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Thornweave the Wanderer
 
 *Halfling Wizard (Adventurers), Age 47, Non-binary*
@@ -36,22 +42,18 @@ Running from a dark past that won't stay buried They've made a deal they're begi
 - **Short Term**: Sabotage competition
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Wynne Dawnstrider the Seeker (Personal - Ex-lover)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Ewan Stormwind the Scholar (Criminal - Accomplice)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Gavril Nightfall the Redeemed (Professional - Rival)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Secretly working for the villain

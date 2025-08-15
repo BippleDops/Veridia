@@ -1,11 +1,11 @@
 ---
+aliases: ["Ulric Brightblade", "ulric brightblade", "Brightblade Ulric"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -74,8 +74,6 @@ Merchant family that lost everything to pirates. Years ago, they accidentally di
 ### Skills
 Perception, Arcana, Persuasion
 
-
-
 ## Possessions
 - 58 gold pieces
 - Small gemstone
@@ -87,7 +85,6 @@ Perception, Arcana, Persuasion
 
 ---
 *Generated: 2025-08-15T03:21:04.044Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

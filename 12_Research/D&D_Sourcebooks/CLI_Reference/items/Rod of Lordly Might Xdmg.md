@@ -108,3 +108,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Armaments Legendary Xdmg]]
+- [[Magic Item Table I]]
+- [[Random Magic Items Armaments]]
+- [[armaments-legendary-xdmg (tables)]]
+- [[magic-item-table-i (tables)]]
+- [[random-magic-items-armaments (tables)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Hawthorne the Seeker", "aeliana hawthorne the seeker", "Aeliana Hawthorne Seeker", "Seeker the Hawthorne Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Hawthorne the Seeker
 
 *Dragonborn Carpenter (Commoners), Age 41, Female*
@@ -36,12 +42,10 @@ Grew up in poverty but discovered a talent that might change everything A chance
 - **Short Term**: Survive until next week
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Baelor Youngblood the Bold (Professional - Mentor)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ### Gareth Keenblade the Wanderer (Professional - Rival)
 - **Status**: Professional only
@@ -52,21 +56,17 @@ Grew up in poverty but discovered a talent that might change everything A chance
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Lyanna Darkwater the Seeker (Personal - Nemesis)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ### Zephyr Blackstone the Wise (Family - Spouse)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
 
-
 ### Branwen Blackstone the Redeemed (Personal - Childhood friend)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Has dragon blood in their veins

@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Oakenshield the Lost", "pyria oakenshield the lost", "Pyria Oakenshield Lost", "Lost the Oakenshield Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Oakenshield the Lost
 
 *Half-Elf Aristocrat (Nobles), Age 65, Non-binary*
@@ -36,12 +42,10 @@ Exiled from their homeland, trying to rebuild their power base A prophetic dream
 - **Short Term**: Avoid the authorities
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Fiora Quicksilver the Guardian (Personal - Love interest)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ### Orion Darkwater (Family - Sibling)
 - **Status**: Recently reconciled
@@ -52,11 +56,9 @@ Exiled from their homeland, trying to rebuild their power base A prophetic dream
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Vesper Brightblade (Political - Patron)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

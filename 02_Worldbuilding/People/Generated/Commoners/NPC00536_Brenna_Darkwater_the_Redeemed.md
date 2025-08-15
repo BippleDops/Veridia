@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Darkwater the Redeemed", "brenna darkwater the redeemed", "Brenna Darkwater Redeemed", "Redeemed the Darkwater Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Darkwater the Redeemed
 
 *Elf Blacksmith (Commoners), Age 28, Male*
@@ -36,12 +42,10 @@ Runaway from an arranged marriage, starting a new life They've fallen in love wi
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Kaelen Goldleaf the Guardian (Political - Ally)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ### Aldric Goldleaf the Mystic (Professional - Rival)
 - **Status**: Strained but maintaining
@@ -51,7 +55,6 @@ Runaway from an arranged marriage, starting a new life They've fallen in love wi
 ### Caelum Youngblood the Swift (Criminal - Informant)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ### Fiora Blackstone the Scholar (Professional - Mentor)
 - **Status**: Mutually beneficial

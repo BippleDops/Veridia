@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Proudmore the Redeemed", "lyanna proudmore the redeemed", "Lyanna Proudmore Redeemed", "Redeemed the Proudmore Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Proudmore the Redeemed
 
 *Dragonborn Shopkeeper (Merchants), Age 30, Non-binary*
@@ -13,7 +19,6 @@
 Very tall and imposing, with Long and flowing blonde hair and Gray eyes. Freckled skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Collects unusual and worthless objects; Constantly quotes ancient texts
@@ -36,22 +41,18 @@ Built their business from nothing through cunning and hard work They've made a d
 - **Short Term**: Recruit new members
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Gavril Proudmore the Redeemed (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Ysara Darkwater the Cunning (Personal - Nemesis)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Gareth Brightblade the Swift (Criminal - Handler)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Sells information to all sides

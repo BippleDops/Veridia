@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Voidwalker the Lost", "kaelen voidwalker the lost", "Kaelen Voidwalker Lost", "Lost the Voidwalker Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Voidwalker the Lost
 
 *Dragonborn Fisher (Commoners), Age 38, Male*
@@ -36,32 +42,26 @@ Family has worked the same trade for generations, but times are changing A famil
 - **Short Term**: Make this month's payment
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Drusilla Ravenheart the Redeemed (Professional - Mentor)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Pyria Stormwind the Cunning (Family - Child)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
-
 
 ### Idris Zephyrblade the Bold (Family - Child)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Kaelen Emberfall the Mystic (Criminal - Handler)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
 
-
 ### Lyanna Ravenheart (Professional - Employee)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Has dragon blood in their veins

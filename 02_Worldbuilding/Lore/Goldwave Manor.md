@@ -28,12 +28,12 @@ location_type: Noble Estate and Ficial Complex
 parent_location: '[[Port Meridian]]'
 connected_locations:
 - '[[Port Meridian Harbor]]'
-- '[[The [[Royal Palace]]]]'
+- '[[Royal Palace|The [[Royal Palace]]]]'
 - '[[Silverscale Banking House]]'
-- '[[The [[Shadow Markets]]]]'
+- '[[Shadow Markets|The [[Shadow Markets]]]]'
 sub_locations:
 - '[[Goldwave Private Offices]]'
-- '[[The [[Crystal Conservatory]]]]'
+- '[[Crystal Conservatory|The [[Crystal Conservatory]]]]'
 - '[[Aurelius''s Private Study]]'
 - '[[The Vault of Currents]]'
 - '[[Goldwave Guest Quarters]]'
@@ -79,7 +79,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -152,7 +152,7 @@ Private family quarters designed for luxury and security:
 **The Business Wing**
 Sophisticated facilities for managing the [[Goldwave Trading Empire]]:
 - **[[Goldwave Private Offices]]:** Executive suites for senior managers and department heads
-- **Conference Chambers:** Meeting rooms equipped with magical [[Communication Systems]]
+- **Conference Chambers:** Meeting rooms equipped with magical [[Communication_Systems|Communication Systems]]
 - **Document Vaults:** Secure storage for contracts, ficial records, and trade agreements
 - **Analysis Centers:** Spaces equipped with magical tools for market research and economic forecasting
 - **Communication Hub:** Magical systems for instant contact with trading operations worldwide
@@ -193,7 +193,7 @@ Goldwave Manor is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Goldwave Manor as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Goldwave Manor.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -271,3 +271,9 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[The Silverscale Conspiracy]]
+- [[Aethermoor - Session 03 Council of Shadows]]
+- [[The Silverscale Conspiracy (D&D_References)]]

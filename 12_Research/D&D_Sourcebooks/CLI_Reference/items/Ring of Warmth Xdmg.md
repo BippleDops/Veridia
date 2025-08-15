@@ -92,3 +92,15 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Dark Gift of Delban the Star of Ice and Hate]]
+- [[dark-gift-of-delban-the-star-of-ice-and-hate-cos]]
+- [[Implements Uncommon Xdmg]]
+- [[Magic Item Table F]]
+- [[Random Magic Items Implements]]
+- [[implements-uncommon-xdmg (tables)]]
+- [[magic-item-table-f (tables)]]
+- [[random-magic-items-implements (tables)]]

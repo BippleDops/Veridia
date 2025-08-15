@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Ashford the Fallen", "baelor ashford the fallen", "Baelor Ashford Fallen", "Fallen the Ashford Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Ashford the Fallen
 
 *Dwarf Baker (Commoners), Age 38, Male*
@@ -36,7 +42,6 @@ Family has worked the same trade for generations, but times are changing They've
 - **Short Term**: Find missing person
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Zephyr Oakenshield the Wise (Criminal - Fence)
 - **Status**: Strong and trusting
@@ -47,7 +52,6 @@ Family has worked the same trade for generations, but times are changing They've
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Rhiannon Winterborn (Family - Child)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
@@ -57,7 +61,6 @@ Family has worked the same trade for generations, but times are changing They've
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
 
-
 ### Brenna Moonshadow (Personal - Ex-lover)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
@@ -66,7 +69,6 @@ Family has worked the same trade for generations, but times are changing They've
 ### Aeliana Oakenshield (Criminal - Fence)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is the lost heir to the throne

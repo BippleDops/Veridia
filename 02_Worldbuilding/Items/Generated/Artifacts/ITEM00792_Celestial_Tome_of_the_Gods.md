@@ -1,3 +1,9 @@
+---
+aliases: ["Celestial Tome of the Gods", "celestial tome of the gods", "Celestial Tome of Gods", "Gods the of Tome Celestial"]
+tags: [item, equipment]
+type: item
+---
+
 # Celestial Tome of the Gods
 
 *Artifacts, Artifact*
@@ -16,8 +22,6 @@ A celestial tome pulsing with inner light
 - Regenerate 1 hp/round
 - Immunity to charm
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -32,7 +36,6 @@ Priceless
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.426Z*

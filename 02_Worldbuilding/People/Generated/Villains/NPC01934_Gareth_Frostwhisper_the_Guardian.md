@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Frostwhisper the Guardian", "gareth frostwhisper the guardian", "Gareth Frostwhisper Guardian", "Guardian the Frostwhisper Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Frostwhisper the Guardian
 
 *Human Corrupt Noble (Villains), Age 40, Non-binary*
@@ -36,7 +42,6 @@ Driven mad by knowledge humanity wasn't meant to know An old debt has come due a
 - **Short Term**: Gather information
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Ewan Jadeclaw the Swift (Personal - Ex-lover)
 - **Status**: Recently reconciled
@@ -46,7 +51,6 @@ Driven mad by knowledge humanity wasn't meant to know An old debt has come due a
 ### Branwen Stormwind the Guardian (Criminal - Informant)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ### Fiora Lightbringer the Redeemed (Criminal - Fence)
 - **Status**: Recently reconciled

@@ -1,11 +1,11 @@
 ---
+aliases: ["Brenna Brightblade", "brenna brightblade", "Brightblade Brenna"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -74,8 +74,6 @@ Grew up on the streets, learning to survive. Years ago, they lost everything in 
 ### Skills
 Arcana, Insight, Athletics
 
-
-
 ## Possessions
 - 25 gold pieces
 - Small gemstone
@@ -88,7 +86,6 @@ Arcana, Insight, Athletics
 
 ---
 *Generated: 2025-08-15T03:21:04.042Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

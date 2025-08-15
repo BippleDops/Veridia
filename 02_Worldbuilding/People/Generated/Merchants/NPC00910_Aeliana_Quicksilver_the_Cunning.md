@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Quicksilver the Cunning", "aeliana quicksilver the cunning", "Aeliana Quicksilver Cunning", "Cunning the Quicksilver Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Quicksilver the Cunning
 
 *Half-Orc Shopkeeper (Merchants), Age 64, Female*
@@ -13,7 +19,6 @@
 Very short and stocky, with Wild and unkempt silver hair and Heterochromic eyes. Dark skin. Weather-beaten face showing hard life.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Flirts with everyone regardless of interest; Sees doom and gloom everywhere
@@ -36,7 +41,6 @@ Uses their business as cover for other activities They've made a deal they're be
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Cedric Frostwhisper the Risen (Political - Patron)
 - **Status**: Mutually beneficial
@@ -47,11 +51,9 @@ Uses their business as cover for other activities They've made a deal they're be
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Delara Hawthorne the Cunning (Criminal - Fence)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ### Ewan Goldleaf the Lost (Professional - Mentor)
 - **Status**: Strained but maintaining

@@ -79,3 +79,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A shipment has gone missing and truth emerges
 - A document has gone missing and truth emerges
+
+## References
+
+- [[Master_Item_Catalog]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Infernal Scepter of the Gods", "infernal scepter of the gods", "Infernal Scepter of Gods", "Gods the of Scepter Infernal"]
+tags: [item, equipment]
+type: item
+---
+
 # Infernal Scepter of the Gods
 
 *Artifacts, Artifact*
@@ -16,8 +22,6 @@ A infernal scepter covered in mysterious symbols
 - Grant true sight
 - Grant true sight
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -32,7 +36,6 @@ Priceless
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.422Z*

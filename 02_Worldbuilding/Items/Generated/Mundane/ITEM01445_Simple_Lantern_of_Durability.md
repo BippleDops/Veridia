@@ -1,3 +1,9 @@
+---
+aliases: ["Simple Lantern of Durability", "simple lantern of durability", "Durability of Lantern Simple"]
+tags: [item, equipment]
+type: item
+---
+
 # Simple Lantern of Durability
 
 *Mundane, Common*
@@ -13,8 +19,6 @@ A simple lantern bearing maker's mark
 ## Properties
 - Functions in antimagic
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -29,7 +33,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.488Z*

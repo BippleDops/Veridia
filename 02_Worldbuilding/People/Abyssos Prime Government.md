@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-abyssos-prime-government-abyssos-prime-government.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -273,7 +271,6 @@ Member of House Serpentblood - Trait: magical affinity
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -309,3 +306,9 @@ Member of House Serpentblood - Trait: magical affinity
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[The Scattered Emperor]]
+- [[Abyssos Prime - Pressure Terminal]]
+- [[The Scattered Emperor (D&D_References)]]

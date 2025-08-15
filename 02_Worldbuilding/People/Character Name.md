@@ -24,7 +24,6 @@ updated: 2025-08-14
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 # Character Name
 
 ## Overview
@@ -55,13 +54,11 @@ Born into modest circumstances, Character Name rose through dedication and cunni
 - **Rivals**: [[Shadow Conspiracy]]
 - **Contacts**: Network of informants throughout the city
 
-
 ## Motivations
 - **Primary Goal**: Main objective
 - **Secondary Goals**: Supporting aims
 - **Fears**: What they avoid
 - **Desires**: What they seek
-
 
 ## Secrets
 - Hidden information about this character
@@ -77,7 +74,6 @@ Actively involved in current events, pursuing their own agenda while maintaining
 
 ## DM Notes
 *This NPC can serve multiple roles depending on campaign needs. Their true loyalties are intentionally ambiguous.*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns
@@ -152,3 +148,11 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City Master Trader Abyss Currentbinder V1 Master Trader Abyss Currentbinder.svg]]
+- [[Assets Locations Location City the Dreamwhisper Inn V1 the Dreamwhisper Inn.svg]]
+- [[Assets Symbols Symbol Heraldry the Crystal Throne the Crystal Throne.svg]]
+- [[Assets Vehicles Vehicle Ship Resonance Drive Yacht Resonance Drive Yacht.svg]]
+- [[CORDELIA_VAULT_USER_MANUAL]]

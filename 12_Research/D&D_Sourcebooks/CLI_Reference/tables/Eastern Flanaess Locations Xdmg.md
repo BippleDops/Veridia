@@ -111,7 +111,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Sensory Details
 - **Sight**: Visual impressions
 - **Sound**: Ambient noises

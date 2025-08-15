@@ -100,3 +100,22 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Ogre Battering Ram Mpmm]]
+- [[Ogre Bolt Launcher Mpmm]]
+- [[Ogre Chain Brute Mpmm]]
+- [[ogre-battering-ram-mpmm (giant)]]
+- [[ogre-bolt-launcher-mpmm (giant)]]
+- [[ogre-chain-brute-mpmm (giant)]]
+- [[Chitine Mpmm]]
+- [[chitine-mpmm (monstrosity)]]
+- [[Leatherworkers Tools Xphb]]
+- [[Smiths Tools Xphb]]
+- [[leatherworkers-tools-xphb (items)]]
+- [[smiths-tools-xphb (items)]]
+- [[Armor and Shields Armor Phb]]
+- [[armor-and-shields-armor-phb (tables)]]
+- [[armor-xphb (tables)]]

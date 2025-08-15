@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Thornweave the Guardian", "dara thornweave the guardian", "Dara Thornweave Guardian", "Guardian the Thornweave Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Thornweave the Guardian
 
 *Goliath Cleric (Adventurers), Age 60, Male*
@@ -42,16 +48,13 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Zephyr Underhill the Seeker (Family - Child)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Zephyr Nightfall the Guardian (Professional - Partner)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Carries a world-ending artifact

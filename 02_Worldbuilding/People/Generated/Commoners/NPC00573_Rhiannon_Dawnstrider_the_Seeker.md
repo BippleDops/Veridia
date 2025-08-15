@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Dawnstrider the Seeker", "rhiannon dawnstrider the seeker", "Rhiannon Dawnstrider Seeker", "Seeker the Dawnstrider Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Dawnstrider the Seeker
 
 *Dragonborn Baker (Commoners), Age 53, Male*
@@ -13,7 +19,6 @@
 Tall and wiry, with Dreadlocks black hair and Brown eyes. Brown skin. Gold tooth that glints when smiling.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Speaks to inanimate objects; Always speaks in metaphors and riddles; Always tells the absolute truth
@@ -36,7 +41,6 @@ Runaway from an arranged marriage, starting a new life Strange abilities have be
 - **Short Term**: Recruit new members
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Ysara Silverleaf the Swift (Criminal - Target)
 - **Status**: Recently reconciled
@@ -47,21 +51,17 @@ Runaway from an arranged marriage, starting a new life Strange abilities have be
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Faelyn Oakenshield the Mystic (Criminal - Accomplice)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ### Zephyr Blackstone the Bold (Professional - Employee)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
 
-
 ### Urien Winterborn the Wise (Criminal - Accomplice)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Has dragon blood in their veins

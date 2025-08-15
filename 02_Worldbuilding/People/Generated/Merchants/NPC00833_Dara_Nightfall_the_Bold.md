@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Nightfall the Bold", "dara nightfall the bold", "Dara Nightfall Bold", "Bold the Nightfall Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Nightfall the Bold
 
 *Half-Orc Shopkeeper (Merchants), Age 65, Non-binary*
@@ -13,7 +19,6 @@
 Tall and stocky, with Long and flowing red hair and Hazel eyes. Weathered skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Always speaks in metaphors and riddles; Speaks to inanimate objects; Never uses people's real names
@@ -36,7 +41,6 @@ Inherited a failing business and turned it around They've made a deal they're be
 - **Short Term**: Make this month's payment
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Hilda Darkwater the Cunning (Political - Patron)
 - **Status**: Complicated history
@@ -52,16 +56,13 @@ Inherited a failing business and turned it around They've made a deal they're be
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Hestara Hawthorne the Wise (Criminal - Handler)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Rhiannon Stormwind the Scholar (Political - Puppet)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Killed previous business owner

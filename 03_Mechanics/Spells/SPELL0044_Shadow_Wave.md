@@ -1,4 +1,5 @@
 ---
+aliases: ["Shadow Wave", "shadow wave", "Wave Shadow"]
 tags: [generated]
 id: SPELL0044_Shadow_Wave
 created: 2025-08-15T04:09:51.476Z

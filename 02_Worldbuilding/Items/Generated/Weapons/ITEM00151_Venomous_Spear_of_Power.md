@@ -1,3 +1,9 @@
+---
+aliases: ["Venomous Spear of Power", "venomous spear of power", "Power of Spear Venomous"]
+tags: [item, equipment]
+type: item
+---
+
 # Venomous Spear of Power
 
 *Weapons, Uncommon*
@@ -14,8 +20,6 @@ A venomous spear carved from dragon bone
 - Critical hits on 19-20
 - Grants advantage on initiative
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -30,7 +34,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.355Z*

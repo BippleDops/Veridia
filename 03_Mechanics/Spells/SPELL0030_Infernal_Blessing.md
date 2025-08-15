@@ -1,4 +1,5 @@
 ---
+aliases: ["Infernal Blessing", "infernal blessing", "Blessing Infernal"]
 tags: [generated]
 id: SPELL0030_Infernal_Blessing
 created: 2025-08-15T04:09:51.473Z

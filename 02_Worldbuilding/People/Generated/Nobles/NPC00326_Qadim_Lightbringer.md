@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Lightbringer", "qadim lightbringer", "Lightbringer Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Lightbringer
 
 *Tiefling Aristocrat (Nobles), Age 76, Non-binary*
@@ -42,26 +48,21 @@ Secretly adopted into nobility, living in fear of discovery They've been marked 
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Caelum Voidwalker the Fallen (Professional - Rival)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
-
 
 ### Aldric Youngblood (Family - Parent)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
 
-
 ### Nerys Dawnstrider the Mystic (Family - Sibling)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Nerys Ravenheart (Criminal - Fence)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Secretly funding the rebellion

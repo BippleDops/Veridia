@@ -11,7 +11,7 @@ created: '2025-01-15'
 
 ## Portrait
 
-![[portrait_04_resources_assets_portraits_portrait-npc-lord-marcus-goldweaver-lord-marcus-goldweaver.svg.png]]
+![[04_Resources|portrait_04_resources_assets_portraits_portrait-npc-lord-marcus-goldweaver-lord-marcus-goldweaver.svg.png]]
 
 *Portrait reference for 04_Resources_Assets_Portraits_portrait-npc-lord-marcus-goldweaver-lord-marcus-goldweaver.svg*
 
@@ -75,3 +75,10 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+## References
+
+- [[Assets Art Merchant Lord Silas Copperfield.png]]
+- [[Assets Symbols Symbol Heraldry Master Chen Wei Master Chen Wei.png]]
+- [[Assets Symbols Symbol Heraldry Mobile Terror Platform Mobile Terror Platform.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-lord-marcus-goldweaver-lord-marcus-goldweaver.svg_Quick_Ref]]

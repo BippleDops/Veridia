@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Silverleaf the Cunning", "lyanna silverleaf the cunning", "Lyanna Silverleaf Cunning", "Cunning the Silverleaf Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Silverleaf the Cunning
 
 *Halfling Assassin (Villains), Age 19, Male*
@@ -13,7 +19,6 @@
 Above average and slender, with Wild and unkempt red hair and Brown eyes. Scarred skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Compulsive liar about minor things; Never uses people's real names
@@ -42,7 +47,6 @@ Born into evil but questioning their path They're being blackmailed by someone f
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
 
-
 ### Nerys Lightbringer the Strong (Family - Spouse)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
@@ -52,11 +56,9 @@ Born into evil but questioning their path They're being blackmailed by someone f
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Wynne Brightblade the Wise (Professional - Employer)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Believes they're saving the world

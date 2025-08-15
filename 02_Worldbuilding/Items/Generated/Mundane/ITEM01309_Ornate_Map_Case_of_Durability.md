@@ -1,3 +1,9 @@
+---
+aliases: ["Ornate Map Case of Durability", "ornate map case of durability", "Durability of Case Map Ornate"]
+tags: [item, equipment]
+type: item
+---
+
 # Ornate Map Case of Durability
 
 *Mundane, Uncommon*
@@ -14,8 +20,6 @@ A ornate map case showing signs of age
 - Weighs half normal
 - Functions in antimagic
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -30,7 +34,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.475Z*

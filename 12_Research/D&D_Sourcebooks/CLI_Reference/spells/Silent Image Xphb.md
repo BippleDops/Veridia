@@ -92,3 +92,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Shadows
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Hobgoblin Iron Shadow Mpmm]]
+- [[hobgoblin-iron-shadow-mpmm (fey)]]
+- [[Cloud Giant Smiling One Mpmm]]
+- [[cloud-giant-smiling-one-mpmm (giant)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Misty Visions Xphb]]
+- [[misty-visions-xphb (optional-features)]]

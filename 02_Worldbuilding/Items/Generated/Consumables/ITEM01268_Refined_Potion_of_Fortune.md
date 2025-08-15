@@ -1,3 +1,9 @@
+---
+aliases: ["Refined Potion of Fortune", "refined potion of fortune", "Fortune of Potion Refined"]
+tags: [item, equipment]
+type: item
+---
+
 # Refined Potion of Fortune
 
 *Consumables, Uncommon*
@@ -14,8 +20,6 @@ A refined potion glowing softly
 - Breathe underwater 1 hour
 - Increase speed by 10 ft
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -30,7 +34,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.472Z*

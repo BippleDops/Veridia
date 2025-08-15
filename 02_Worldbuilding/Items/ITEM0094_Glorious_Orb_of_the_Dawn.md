@@ -1,4 +1,5 @@
 ---
+aliases: ["Glorious Orb of the Dawn", "glorious orb of the dawn", "Glorious Orb of Dawn", "Dawn the of Orb Glorious"]
 tags: [generated]
 id: ITEM0094
 created: 2025-08-15T04:09:51.107Z
@@ -19,8 +20,6 @@ Crafted from adamantine with ancient symbols, in recently restored. It emanates 
 
 ## Quirk
 *Occasionally speaks in ancient tongue*
-
-
 
 ## History
 This item was corrupted by dark magic decades ago. It has passed through many hands, each leaving their mark upon its destiny.

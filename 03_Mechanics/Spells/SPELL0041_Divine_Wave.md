@@ -1,4 +1,5 @@
 ---
+aliases: ["Divine Wave", "divine wave", "Wave Divine"]
 tags: [generated]
 id: SPELL0041_Divine_Wave
 created: 2025-08-15T04:09:51.476Z

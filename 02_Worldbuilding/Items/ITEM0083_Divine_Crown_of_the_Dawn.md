@@ -1,4 +1,5 @@
 ---
+aliases: ["Divine Crown of the Dawn", "divine crown of the dawn", "Divine Crown of Dawn", "Dawn the of Crown Divine"]
 tags: [generated]
 id: ITEM0083
 created: 2025-08-15T04:09:51.104Z
@@ -20,8 +21,6 @@ Crafted from mithril with battle scars, in recently restored. It emanates a fain
 
 ## Quirk
 *Changes color with user's mood*
-
-
 
 ## History
 This item was hidden away by its last owner centuries ago. It has passed through many hands, each leaving their mark upon its destiny.

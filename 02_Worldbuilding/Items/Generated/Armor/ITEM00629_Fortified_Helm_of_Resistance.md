@@ -1,3 +1,9 @@
+---
+aliases: ["Fortified Helm of Resistance", "fortified helm of resistance", "Resistance of Helm Fortified"]
+tags: [item, equipment]
+type: item
+---
+
 # Fortified Helm of Resistance
 
 *Armor, Common*

@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Zephyrblade the Broken", "urien zephyrblade the broken", "Urien Zephyrblade Broken", "Broken the Zephyrblade Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Zephyrblade the Broken
 
 *Tiefling Cleric (Adventurers), Age 32, Non-binary*
@@ -13,7 +19,6 @@
 Above average and athletic, with Dreadlocks unusual color hair and Brown eyes. Dark skin. Unusual eye color for their race.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Always speaks in metaphors and riddles
@@ -36,22 +41,18 @@ Searching for a legendary treasure their parent died seeking They've made a deal
 - **Short Term**: Sabotage competition
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Fiora Oakenshield the Swift (Family - Parent)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
 
-
 ### Hilda Silverleaf the Scholar (Professional - Mentor)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Pyria Stormwind the Mystic (Criminal - Fence)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ### Felicia Youngblood the Cunning (Criminal - Fence)
 - **Status**: Strong and trusting
@@ -61,7 +62,6 @@ Searching for a legendary treasure their parent died seeking They've made a deal
 ### Ewan Xendar the Scholar (Family - Cousin)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Secretly working for the villain

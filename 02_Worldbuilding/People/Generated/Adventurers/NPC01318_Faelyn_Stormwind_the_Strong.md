@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Stormwind the Strong", "faelyn stormwind the strong", "Faelyn Stormwind Strong", "Strong the Stormwind Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Stormwind the Strong
 
 *Firbolg Cleric (Adventurers), Age 51, Non-binary*
@@ -13,7 +19,6 @@
 Short and stocky, with Mohawk unusual color hair and Brown eyes. Weathered skin. Crooked nose from multiple breaks.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Flirts with everyone regardless of interest; Sees doom and gloom everywhere; Incredibly optimistic despite evidence
@@ -36,17 +41,14 @@ Accidentally gained powers and learning to control them Strange abilities have b
 - **Short Term**: Avoid the authorities
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Hilda Brightblade the Wise (Political - Patron)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Zephyr Moonshadow the Risen (Professional - Mentor)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ### Vesper Darkwater the Swift (Family - Sibling)
 - **Status**: Mutually beneficial
@@ -57,7 +59,6 @@ Accidentally gained powers and learning to control them Strange abilities have b
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Pyria Nightfall the Redeemed (Personal - Nemesis)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
@@ -66,7 +67,6 @@ Accidentally gained powers and learning to control them Strange abilities have b
 ### Malakai Underhill the Broken (Personal - Love interest)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Possessed by ancient spirit

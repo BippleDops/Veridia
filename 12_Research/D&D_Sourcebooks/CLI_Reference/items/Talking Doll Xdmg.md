@@ -77,3 +77,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Strange accidents suggest a curse
 - A merchant needs help finding before winter
+
+## References
+
+- [[Master_Item_Catalog]]

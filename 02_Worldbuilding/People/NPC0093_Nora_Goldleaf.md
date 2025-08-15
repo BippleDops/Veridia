@@ -1,11 +1,11 @@
 ---
+aliases: ["Nora Goldleaf", "nora goldleaf", "Goldleaf Nora"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -90,7 +90,6 @@ Athletics, Arcana, Persuasion
 
 ---
 *Generated: 2025-08-15T03:21:04.036Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

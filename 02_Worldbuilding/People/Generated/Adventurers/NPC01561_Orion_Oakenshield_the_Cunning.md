@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Oakenshield the Cunning", "orion oakenshield the cunning", "Orion Oakenshield Cunning", "Cunning the Oakenshield Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Oakenshield the Cunning
 
 *Gnome Ranger (Adventurers), Age 19, Non-binary*
@@ -36,17 +42,14 @@ Chosen by fate to fulfill an ancient prophecy They've made a deal they're beginn
 - **Short Term**: Avoid the authorities
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Orion Brightblade the Mystic (Political - Patron)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Idris Proudmore the Seeker (Political - Spy)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ### Hestara Proudmore the Bold (Political - Patron)
 - **Status**: Recently reconciled
@@ -57,16 +60,13 @@ Chosen by fate to fulfill an ancient prophecy They've made a deal they're beginn
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
 
-
 ### Solas Keenblade the Guardian (Family - Child)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Corvus Keenblade the Risen (Family - Parent)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Carries a world-ending artifact

@@ -1,4 +1,5 @@
 ---
+aliases: ["Blood Devourer", "blood devourer", "Devourer Blood"]
 tags: [generated]
 id: MON0031_Blood_Devourer
 created: 2025-08-15T04:09:51.429Z
@@ -29,7 +30,6 @@ An ancient being of immense power and malevolence
 
 ---
 *Generated: 2025-08-15T03:21:47.464Z*
-
 
 ## Habitat
 - Natural environment and territories

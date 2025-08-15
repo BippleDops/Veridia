@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Keenblade the Seeker", "wynne keenblade the seeker", "Wynne Keenblade Seeker", "Seeker the Keenblade Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Keenblade the Seeker
 
 *Goliath Dark Wizard (Villains), Age 24, Female*
@@ -36,7 +42,6 @@ Believes their evil acts serve a greater good They've made a deal they're beginn
 - **Short Term**: Make this month's payment
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Zephyr Jadeclaw the Redeemed (Personal - Best friend)
 - **Status**: Secretly hostile
@@ -47,11 +52,9 @@ Believes their evil acts serve a greater good They've made a deal they're beginn
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
 
-
 ### Ysara Keenblade the Fallen (Family - Parent)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Is being controlled by darker force

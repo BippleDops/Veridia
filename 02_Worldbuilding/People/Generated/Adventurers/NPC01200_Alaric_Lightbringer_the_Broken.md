@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Lightbringer the Broken", "alaric lightbringer the broken", "Alaric Lightbringer Broken", "Broken the Lightbringer Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Lightbringer the Broken
 
 *Tiefling Ranger (Adventurers), Age 50, Female*
@@ -41,7 +47,6 @@ Seeking vengeance for a murdered mentor An old debt has come due at the worst po
 ### Wynne Frostwhisper the Fallen (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
-
 
 ### Delara Voidwalker the Broken (Professional - Employee)
 - **Status**: Blood oath bound

@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Youngblood the Broken", "fiora youngblood the broken", "Fiora Youngblood Broken", "Broken the Youngblood Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Youngblood the Broken
 
 *Dwarf Courtier (Nobles), Age 22, Female*
@@ -13,7 +19,6 @@
 Average height and delicate, with Carefully styled red hair and Red eyes. Fair skin. Prominent scar across the face.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Always tells the absolute truth
@@ -42,7 +47,6 @@ Last survivor of a fallen house, seeking to restore family honor They've fallen 
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Nerys Ironwood the Seeker (Professional - Partner)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
@@ -51,7 +55,6 @@ Last survivor of a fallen house, seeking to restore family honor They've fallen 
 ### Branwen Dawnstrider the Broken (Professional - Rival)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ### Aeliana Brightblade the Guardian (Personal - Nemesis)
 - **Status**: Blood oath bound

@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # 04_Resources_Assets_Portraits_portrait-npc-duchess-marina-ever-drowning-duchess-marina-ever-drowning.svg - Quick Reference
 
 ## Key Info

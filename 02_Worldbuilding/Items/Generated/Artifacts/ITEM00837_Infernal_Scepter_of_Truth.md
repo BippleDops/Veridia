@@ -1,3 +1,9 @@
+---
+aliases: ["Infernal Scepter of Truth", "infernal scepter of truth", "Truth of Scepter Infernal"]
+tags: [item, equipment]
+type: item
+---
+
 # Infernal Scepter of Truth
 
 *Artifacts, Artifact*
@@ -16,8 +22,6 @@ A infernal scepter covered in mysterious symbols
 - Immunity to charm
 - Telepathy 120 ft
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -32,7 +36,6 @@ Priceless
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.430Z*

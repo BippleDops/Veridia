@@ -1,4 +1,5 @@
 ---
+aliases: ["The Crystal Cave Invasion", "the crystal cave invasion", "Invasion Cave Crystal The"]
 tags: [quest, adventure, generated]
 type: quest
 ---
@@ -21,8 +22,6 @@ Eliminate the cult leader before they can complete the ritual
 ### Secondary
 - Rescue any prisoners found
 - Rescue any prisoners found
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they lost everything in a fire, which changed their life forever. Now, circumstances demand immediate action.
@@ -53,8 +52,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Show mercy and gain intel - Future ally but justice denied
 2. Execute for crimes committed - Justice served but opportunity lost
-
-
 
 ## Rewards
 ### On Success

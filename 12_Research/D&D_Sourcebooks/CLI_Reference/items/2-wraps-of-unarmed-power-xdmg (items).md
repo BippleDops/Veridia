@@ -91,3 +91,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Wraps of Unarmed Power Xdmg]]
+- [[wraps-of-unarmed-power-xdmg (items)]]
+- [[Armaments Rare Xdmg]]
+- [[Random Magic Items Armaments]]
+- [[armaments-rare-xdmg (tables)]]
+- [[random-magic-items-armaments (tables)]]

@@ -219,3 +219,8 @@ Last known to be: - [[Engineering Corps]]
 
 ### Curse (if applicable)
 - *[Negative effects]*
+
+## References
+
+- [[Eastern Kingdom]]
+- [[Ironhold]]

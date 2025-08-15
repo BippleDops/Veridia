@@ -50,12 +50,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-crown-dome-conspiracy-crown-dome-conspiracy.svg)
 
 # Crown Dome Conspiracy
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -260,7 +258,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 20% middle class
 - 79% working poor
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -296,3 +293,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Archon Meredith Saltweaver]]
+- [[Assets Locations Location City Lady Vivienne the Unfrozen V1 Lady Vivienne the Unfrozen.svg]]
+- [[Archon Meredith Saltweaver (D&D_References)]]

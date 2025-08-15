@@ -1,6 +1,5 @@
 ---
 
-
 title: 04_Resources/Maps
 type: lore
 tags:
@@ -122,7 +121,6 @@ status: active
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## See Also
 - Related content

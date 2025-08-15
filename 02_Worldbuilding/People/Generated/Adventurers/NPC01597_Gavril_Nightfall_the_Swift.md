@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Nightfall the Swift", "gavril nightfall the swift", "Gavril Nightfall Swift", "Swift the Nightfall Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Nightfall the Swift
 
 *Human Fighter (Adventurers), Age 64, Non-binary*
@@ -36,7 +42,6 @@ Seeking vengeance for a murdered mentor They're being blackmailed by someone fro
 - **Short Term**: Survive until next week
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Wynne Ironforge the Wise (Criminal - Accomplice)
 - **Status**: Professional only
@@ -46,7 +51,6 @@ Seeking vengeance for a murdered mentor They're being blackmailed by someone fro
 ### Aldric Lightbringer the Cunning (Professional - Employee)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ### Fiora Xendar the Fallen (Criminal - Informant)
 - **Status**: Complicated history
@@ -61,7 +65,6 @@ Seeking vengeance for a murdered mentor They're being blackmailed by someone fro
 ### Caelum Ravenheart the Bold (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Secretly working for the villain

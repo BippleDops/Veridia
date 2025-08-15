@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Jadeclaw the Cunning", "aldric jadeclaw the cunning", "Aldric Jadeclaw Cunning", "Cunning the Jadeclaw Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Jadeclaw the Cunning
 
 *Halfling Ambassador (Nobles), Age 22, Non-binary*
@@ -36,32 +42,26 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Complete current contract
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Faelyn Blackstone the Swift (Professional - Rival)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
 
-
 ### Erasmus Underhill the Fallen (Professional - Mentor)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ### Xander Underhill (Criminal - Handler)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
 
-
 ### Orion Oakenshield (Personal - Love interest)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
 
-
 ### Corvus Nightfall the Cunning (Political - Puppet)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Secretly funding the rebellion

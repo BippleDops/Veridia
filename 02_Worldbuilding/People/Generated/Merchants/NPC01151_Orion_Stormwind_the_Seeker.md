@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Stormwind the Seeker", "orion stormwind the seeker", "Orion Stormwind Seeker", "Seeker the Stormwind Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Stormwind the Seeker
 
 *Elf Broker (Merchants), Age 53, Non-binary*
@@ -13,7 +19,6 @@
 Above average and imposing, with Mohawk gray hair and Green eyes. Scarred skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Always hungry and eating something
@@ -42,16 +47,13 @@ Built their business from nothing through cunning and hard work An old debt has 
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Elric Zephyrblade the Wise (Personal - Nemesis)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Erasmus Ashford the Wise (Professional - Rival)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Sells information to all sides

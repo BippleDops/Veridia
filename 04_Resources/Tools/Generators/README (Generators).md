@@ -28,3 +28,7 @@ This document contains information about README.
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+## References
+
+- [[VAULT_MASTER_INDEX]]

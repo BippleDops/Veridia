@@ -78,3 +78,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[smithy]]
+- [[Cleric Xphb Forge Domain Xge]]
+- [[cleric-xphb-forge-domain-xge (classes)]]
+- [[cleric-xphb-forge-domain-xge 2 (classes)]]
+- [[Artisans Tools Xphb]]
+- [[Axe of the Dwarvish Lords Xdmg]]
+- [[artisans-tools-xphb (items)]]
+- [[axe-of-the-dwarvish-lords-xdmg (items)]]
+- [[Dwarf Duergar Mtf]]
+- [[dwarf-duergar-mtf (races)]]
+- [[Crafting an Item Resources and Resolution Xge]]
+- [[Magic Item Tools Xdmg]]
+- [[Tools Phb]]
+- [[crafting-an-item-resources-and-resolution-xge (tables)]]
+- [[magic-item-tools-xdmg (tables)]]
+- [[tools-phb (tables)]]

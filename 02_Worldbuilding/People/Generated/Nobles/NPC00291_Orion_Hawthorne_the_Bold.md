@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Hawthorne the Bold", "orion hawthorne the bold", "Orion Hawthorne Bold", "Bold the Hawthorne Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Hawthorne the Bold
 
 *Tabaxi Aristocrat (Nobles), Age 47, Male*
@@ -42,16 +48,13 @@ Recently elevated to nobility through service, still learning courtly ways Stran
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Ysara Ironwood the Redeemed (Personal - Ex-lover)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
 
-
 ### Idris Silverleaf (Personal - Nemesis)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Secretly funding the rebellion

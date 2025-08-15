@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Emberfall the Redeemed", "kaelen emberfall the redeemed", "Kaelen Emberfall Redeemed", "Redeemed the Emberfall Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Emberfall the Redeemed
 
 *Dwarf Fisher (Commoners), Age 44, Female*
@@ -36,12 +42,10 @@ Former soldier trying to adjust to civilian life Strange abilities have begun ma
 - **Short Term**: Make this month's payment
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Brenna Xendar the Scholar (Political - Spy)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ### Hilda Emberfall the Bold (Personal - Nemesis)
 - **Status**: Strong and trusting
@@ -51,7 +55,6 @@ Former soldier trying to adjust to civilian life Strange abilities have begun ma
 ### Ewan Grimholt the Risen (Professional - Employer)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Knows location of ancient treasure

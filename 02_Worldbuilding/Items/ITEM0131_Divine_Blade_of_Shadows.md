@@ -1,4 +1,5 @@
 ---
+aliases: ["Divine Blade of Shadows", "divine blade of shadows", "Shadows of Blade Divine"]
 tags: [generated]
 id: ITEM0131
 created: 2025-08-15T04:09:51.119Z
@@ -20,8 +21,6 @@ Crafted from adamantine with intricate runes, in recently restored. It emanates 
 
 ## Quirk
 *Vibrates near magic*
-
-
 
 ## History
 This item was lost in a great battle millennia ago. It has passed through many hands, each leaving their mark upon its destiny.

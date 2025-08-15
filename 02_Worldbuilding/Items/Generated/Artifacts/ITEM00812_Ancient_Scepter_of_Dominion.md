@@ -1,3 +1,9 @@
+---
+aliases: ["Ancient Scepter of Dominion", "ancient scepter of dominion", "Dominion of Scepter Ancient"]
+tags: [item, equipment]
+type: item
+---
+
 # Ancient Scepter of Dominion
 
 *Artifacts, Legendary (requires attunement)*
@@ -16,8 +22,6 @@ A ancient scepter radiating otherworldly power
 - Plane shift 1/day
 - Cast spell 3/day
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -32,7 +36,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.428Z*

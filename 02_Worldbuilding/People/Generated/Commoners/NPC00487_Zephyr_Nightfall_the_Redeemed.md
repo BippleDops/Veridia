@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Nightfall the Redeemed", "zephyr nightfall the redeemed", "Zephyr Nightfall Redeemed", "Redeemed the Nightfall Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Nightfall the Redeemed
 
 *Aasimar Blacksmith (Commoners), Age 68, Female*
@@ -42,11 +48,9 @@ Family has worked the same trade for generations, but times are changing They've
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Aldric Grimholt the Wise (Criminal - Handler)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ### Urien Jadeclaw the Swift (Political - Spy)
 - **Status**: Secretly hostile
@@ -56,7 +60,6 @@ Family has worked the same trade for generations, but times are changing They've
 ### Erasmus Frostwhisper (Family - Sibling)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Has dragon blood in their veins

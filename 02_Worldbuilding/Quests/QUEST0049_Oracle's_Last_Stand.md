@@ -1,4 +1,5 @@
 ---
+aliases: ["Oracle's Last Stand", "oracle's last stand", "Stand Last Oracle's"]
 tags: [quest, adventure, generated]
 type: quest
 ---

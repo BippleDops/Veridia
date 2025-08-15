@@ -1,3 +1,9 @@
+---
+aliases: ["Ornate Lantern of Convenience", "ornate lantern of convenience", "Convenience of Lantern Ornate"]
+tags: [item, equipment]
+type: item
+---
+
 # Ornate Lantern of Convenience
 
 *Mundane, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A ornate lantern bearing maker's mark
 - Functions in antimagic
 - Grants minor benefit
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -30,7 +34,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.486Z*

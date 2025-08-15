@@ -1,4 +1,5 @@
 ---
+aliases: ["Myth of the Dragon Wars", "myth of the dragon wars", "Myth of Dragon Wars", "Wars Dragon the of Myth"]
 tags: [generated]
 id: LORE0073_Myth_of_the_Dragon_Wars
 created: 2025-08-15T04:09:51.149Z

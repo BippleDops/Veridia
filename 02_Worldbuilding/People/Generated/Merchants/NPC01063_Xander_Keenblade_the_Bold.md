@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Keenblade the Bold", "xander keenblade the bold", "Xander Keenblade Bold", "Bold the Keenblade Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Keenblade the Bold
 
 *Dwarf Broker (Merchants), Age 18, Non-binary*
@@ -13,7 +19,6 @@
 Very short and stocky, with Partially shaved silver hair and Hazel eyes. Fair skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Incredibly optimistic despite evidence
@@ -36,7 +41,6 @@ Former adventurer who retired to open a shop A prophetic dream has been haunting
 - **Short Term**: Gather information
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Erasmus Ashford the Scholar (Family - Parent)
 - **Status**: Mutually beneficial
@@ -47,26 +51,21 @@ Former adventurer who retired to open a shop A prophetic dream has been haunting
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Vesper Silverleaf the Guardian (Political - Opposition)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ### Corvus Underhill the Scholar (Political - Ally)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Wynne Emberfall the Scholar (Family - Spouse)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Xander Keenblade the Fallen (Professional - Employer)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Smuggles illegal magical items

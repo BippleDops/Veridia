@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Dawnstrider the Swift", "ysara dawnstrider the swift", "Ysara Dawnstrider Swift", "Swift the Dawnstrider Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Dawnstrider the Swift
 
 *Tabaxi Ranger (Adventurers), Age 65, Male*
@@ -36,22 +42,18 @@ Running from a dark past that won't stay buried A family member's death has left
 - **Short Term**: Make this month's payment
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Fiora Youngblood the Wanderer (Professional - Employee)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Vesper Silverleaf the Risen (Political - Patron)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Rhiannon Emberfall the Guardian (Political - Puppet)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Carries a world-ending artifact

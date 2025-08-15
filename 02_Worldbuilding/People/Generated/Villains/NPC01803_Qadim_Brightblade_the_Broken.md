@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Brightblade the Broken", "qadim brightblade the broken", "Qadim Brightblade Broken", "Broken the Brightblade Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Brightblade the Broken
 
 *Tabaxi Corrupt Noble (Villains), Age 73, Non-binary*
@@ -36,12 +42,10 @@ Driven mad by knowledge humanity wasn't meant to know They recently discovered a
 - **Short Term**: Avoid the authorities
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Qadim Hawthorne the Swift (Political - Spy)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ### Faelyn Proudmore the Cunning (Political - Opposition)
 - **Status**: Strained but maintaining
@@ -52,11 +56,9 @@ Driven mad by knowledge humanity wasn't meant to know They recently discovered a
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Hilda Darkwater the Wise (Personal - Ex-lover)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
-
 
 ### Erasmus Ironwood the Bold (Personal - Best friend)
 - **Status**: Mutually beneficial

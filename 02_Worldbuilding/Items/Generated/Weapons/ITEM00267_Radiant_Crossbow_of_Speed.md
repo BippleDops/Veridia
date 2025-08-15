@@ -1,3 +1,9 @@
+---
+aliases: ["Radiant Crossbow of Speed", "radiant crossbow of speed", "Speed of Crossbow Radiant"]
+tags: [item, equipment]
+type: item
+---
+
 # Radiant Crossbow of Speed
 
 *Weapons, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A radiant crossbow forged from meteoric iron
 - Returns when thrown
 - Grants advantage on initiative
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -31,7 +35,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.366Z*

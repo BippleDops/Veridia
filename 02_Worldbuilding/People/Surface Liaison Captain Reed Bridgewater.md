@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-surface-liaison-captain-reed-bridgewater-surface-liaison-captain-reed-bridgewater.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -235,7 +233,6 @@ Member of House Dragonblood - Trait: magical affinity
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Daily Routine
 - **Morning**: Typical activities

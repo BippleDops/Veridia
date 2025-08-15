@@ -127,6 +127,21 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Natural disasters
 - Current power structures established
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*
+
+## References
+
+- [[The Shadow Conspiracy (Criminal_Organizations)]]
+- [[Consequence Chain 2 - Crystal Trade Disruption]]
+- [[Consequence Chain 5 - Marina Identity Revelation]]
+- [[Marina Red Tide Coralheart - Aquabyssos]]
+- [[The Great Drowning]]
+- [[The Shadow Conspiracy]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure (D&D_References)]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure 3 (D&D_References)]]
+- [[Consequence Chain 2 - Crystal Trade Disruption (D&D_References)]]
+- [[Consequence Chain 2 - Crystal Trade Disruption 3 (D&D_References)]]
+- [[Consequence Chain 5 - Marina Identity Revelation (D&D_References)]]
+- [[Marina Red Tide Coralheart - Aquabyssos (D&D_References)]]
+- [[The Great Drowning (D&D_Statblocks)]]

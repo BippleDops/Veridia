@@ -1,4 +1,5 @@
 ---
+aliases: ["Divine Gauntlet of the Dawn", "divine gauntlet of the dawn", "Divine Gauntlet of Dawn", "Dawn the of Gauntlet Divine"]
 tags: [generated]
 id: ITEM0107
 created: 2025-08-15T04:09:51.112Z
@@ -18,8 +19,6 @@ Crafted from adamantine with ancient symbols, in pristine condition. It emanates
 
 ## Quirk
 *Glows during full moon*
-
-
 
 ## History
 This item was reforged from broken artifacts millennia ago. It has passed through many hands, each leaving their mark upon its destiny.

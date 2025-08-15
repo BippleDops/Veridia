@@ -1,3 +1,9 @@
+---
+aliases: ["Simple Rope of Quality", "simple rope of quality", "Quality of Rope Simple"]
+tags: [item, equipment]
+type: item
+---
+
 # Simple Rope of Quality
 
 *Mundane, Common*
@@ -13,8 +19,6 @@ A simple rope expertly crafted
 ## Properties
 - Works perfectly always
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -29,7 +33,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.478Z*

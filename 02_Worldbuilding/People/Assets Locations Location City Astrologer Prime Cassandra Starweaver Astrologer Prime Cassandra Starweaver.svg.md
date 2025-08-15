@@ -180,7 +180,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[04_Resources_Assets_Symbols_symbol-heraldry-war-commander-umbral-strategis-v1-war-commander-umbral-strategis.svg]] (colleague)
-- [[Quest   The Underground Railroad]] (colleague)
+- [[The Underground|Quest   The Underground Railroad]] (colleague)
 - [[Captain Nautilus the Deep Wanderer]] (enemy)
 ---
 *Tags*: #npc #contact #worldbuilding

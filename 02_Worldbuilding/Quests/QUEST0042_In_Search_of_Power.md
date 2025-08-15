@@ -1,4 +1,5 @@
 ---
+aliases: ["In Search of Power", "in search of power", "Power of Search In"]
 tags: [generated]
 id: QUEST0042
 created: 2025-08-15T04:09:51.387Z
@@ -21,8 +22,6 @@ Safely deliver the ambassador to the capital
 
 ### Secondary
 - Rescue any prisoners found
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they made a deal they now regret, which changed their life forever. Now, circumstances demand immediate action.

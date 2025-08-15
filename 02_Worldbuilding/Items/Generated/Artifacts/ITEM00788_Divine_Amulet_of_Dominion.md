@@ -1,3 +1,9 @@
+---
+aliases: ["Divine Amulet of Dominion", "divine amulet of dominion", "Dominion of Amulet Divine"]
+tags: [item, equipment]
+type: item
+---
+
 # Divine Amulet of Dominion
 
 *Artifacts, Artifact (requires attunement)*

@@ -108,3 +108,7 @@ Mentioned in The Hidden Prophecy of Depths
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[02_Worldbuilding_Tactics_Acoustic_Masking]]

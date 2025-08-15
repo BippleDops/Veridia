@@ -165,3 +165,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A letter reveals ancient history about the cult
 - A document has gone missing and evil awakens
 - A shipment has gone missing and war looms
+
+## References
+
+- [[Modron Pentadrone Xmm]]
+- [[Monster Conversions Stat Block Conversions]]
+- [[monster-conversions-stat-block-conversions-xmm]]

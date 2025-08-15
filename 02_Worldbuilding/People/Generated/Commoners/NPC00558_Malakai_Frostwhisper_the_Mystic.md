@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Frostwhisper the Mystic", "malakai frostwhisper the mystic", "Malakai Frostwhisper Mystic", "Mystic the Frostwhisper Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Frostwhisper the Mystic
 
 *Elf Carpenter (Commoners), Age 45, Non-binary*
@@ -13,7 +19,6 @@
 Very tall and stocky, with Mohawk brown hair and Violet eyes. Pale skin. Birthmark shaped like a constellation.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Compulsive liar about minor things
@@ -36,17 +41,14 @@ Former soldier trying to adjust to civilian life They've made a deal they're beg
 - **Short Term**: Survive until next week
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Idris Jadeclaw the Redeemed (Professional - Mentor)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Erasmus Jadeclaw the Risen (Political - Puppet)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ### Nerys Zephyrblade the Wise (Personal - Nemesis)
 - **Status**: Strong and trusting
@@ -56,7 +58,6 @@ Former soldier trying to adjust to civilian life They've made a deal they're beg
 ### Solas Jadeclaw the Swift (Family - Cousin)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ### Pyria Emberfall the Bold (Personal - Childhood friend)
 - **Status**: Recently reconciled

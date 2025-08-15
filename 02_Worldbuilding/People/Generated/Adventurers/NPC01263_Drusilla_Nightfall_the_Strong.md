@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Nightfall the Strong", "drusilla nightfall the strong", "Drusilla Nightfall Strong", "Strong the Nightfall Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Nightfall the Strong
 
 *Firbolg Rogue (Adventurers), Age 27, Female*
@@ -36,12 +42,10 @@ Searching for a legendary treasure their parent died seeking They've fallen in l
 - **Short Term**: Gather information
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Caelum Blackstone the Lost (Family - Sibling)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ### Cedric Zephyrblade the Wanderer (Political - Ally)
 - **Status**: Strained but maintaining
@@ -52,16 +56,13 @@ Searching for a legendary treasure their parent died seeking They've fallen in l
 - **Status**: Complicated history
 - **History**: United by common enemy
 
-
 ### Wynne Winterborn the Wise (Family - Child)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Branwen Ironwood the Strong (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ### Nerys Thornweave the Cunning (Family - Spouse)
 - **Status**: Secretly hostile

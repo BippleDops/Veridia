@@ -1,3 +1,9 @@
+---
+aliases: ["Enchanted Gauntlets of Protection", "enchanted gauntlets of protection", "Protection of Gauntlets Enchanted"]
+tags: [item, equipment]
+type: item
+---
+
 # Enchanted Gauntlets of Protection
 
 *Armor, Common*
@@ -13,8 +19,6 @@ A enchanted gauntlets bearing ancient runes
 ## Properties
 - No stealth disadvantage
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -29,7 +33,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.400Z*

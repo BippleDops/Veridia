@@ -1,11 +1,11 @@
 ---
+aliases: ["Jasper Brightblade", "jasper brightblade", "Brightblade Jasper"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -79,7 +79,6 @@ Perception, Investigation, Persuasion
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 87 gold pieces
 - Book of poetry
@@ -94,7 +93,6 @@ Perception, Investigation, Persuasion
 
 ---
 *Generated: 2025-08-15T03:21:04.045Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

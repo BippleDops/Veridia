@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Winterborn the Mystic", "dara winterborn the mystic", "Dara Winterborn Mystic", "Mystic the Winterborn Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Winterborn the Mystic
 
 *Aasimar Cleric (Adventurers), Age 23, Non-binary*
@@ -36,12 +42,10 @@ Chosen by fate to fulfill an ancient prophecy They've been marked by a secret so
 - **Short Term**: Sabotage competition
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Jorah Dawnstrider the Mystic (Political - Ally)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ### Xander Ashford the Broken (Personal - Nemesis)
 - **Status**: Mutually beneficial
@@ -51,7 +55,6 @@ Chosen by fate to fulfill an ancient prophecy They've been marked by a secret so
 ### Aeliana Frostwhisper the Wise (Political - Ally)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ### Drusilla Proudmore the Bold (Family - Cousin)
 - **Status**: Secretly hostile

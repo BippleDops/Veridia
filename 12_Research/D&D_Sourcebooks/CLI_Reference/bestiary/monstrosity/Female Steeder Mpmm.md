@@ -163,3 +163,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[20 Appendix C Creatures]]
+- [[20-appendix-c-creatures (out-of-the-abyss)]]
+- [[Male Steeder Mpmm]]
+- [[female-steeder-mpmm (monstrosity)]]
+- [[male-steeder-mpmm (monstrosity)]]
+- [[6 Bestiary]]
+- [[6-bestiary (mordenkainens-tome-of-foes)]]
+- [[Duergar Raiding Parties 1 Mtf]]
+- [[Duergar Raiding Parties Duergar Special]]
+- [[duergar-raiding-parties-1-mtf (tables)]]
+- [[duergar-raiding-parties-duergar-special-allies-mtf]]

@@ -121,7 +121,6 @@ improvements: 20
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -134,3 +133,7 @@ improvements: 20
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Spell_Compendium]]

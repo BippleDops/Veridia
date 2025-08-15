@@ -370,3 +370,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Complete Pressure Adaptation System]]
+- [[Complete_Pressure_Adaptation_System (D&D_References)]]
+- [[Pressure_Weather_Events]]

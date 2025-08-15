@@ -70,3 +70,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Teacher Miranda Hopekeeper]]
+- [[Teacher Miranda Hopekeeper (D&D_References)]]

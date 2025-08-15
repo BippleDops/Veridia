@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Brightblade the Strong", "caelum brightblade the strong", "Caelum Brightblade Strong", "Strong the Brightblade Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Brightblade the Strong
 
 *Dwarf Carpenter (Commoners), Age 66, Male*
@@ -36,7 +42,6 @@ Grew up in poverty but discovered a talent that might change everything A family
 - **Short Term**: Recruit new members
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Hestara Silverleaf the Broken (Criminal - Informant)
 - **Status**: One-sided affection
@@ -46,7 +51,6 @@ Grew up in poverty but discovered a talent that might change everything A family
 ### Jorah Goldleaf the Wanderer (Personal - Love interest)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ### Rhiannon Underhill (Criminal - Fence)
 - **Status**: Strained but maintaining

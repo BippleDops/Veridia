@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Grimholt the Guardian", "caelum grimholt the guardian", "Caelum Grimholt Guardian", "Guardian the Grimholt Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Grimholt the Guardian
 
 *Halfling Caravan Master (Merchants), Age 22, Male*
@@ -36,17 +42,14 @@ Built their business from nothing through cunning and hard work An old debt has 
 - **Short Term**: Find missing person
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Drusilla Nightfall the Wise (Professional - Rival)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Alaric Zephyrblade the Strong (Political - Ally)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ### Ysara Dawnstrider the Strong (Professional - Employee)
 - **Status**: On the verge of collapse
@@ -57,16 +60,13 @@ Built their business from nothing through cunning and hard work An old debt has 
 - **Status**: Complicated history
 - **History**: United by common enemy
 
-
 ### Idris Brightblade the Bold (Professional - Mentor)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
 
-
 ### Thalia Grimholt the Fallen (Political - Ally)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Running a cult from their basement

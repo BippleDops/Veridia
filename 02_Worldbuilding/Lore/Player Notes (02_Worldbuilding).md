@@ -10,7 +10,7 @@ type: lore
 updated: 2025-08-14
 ---
 
-# [[Player Notes]]
+# [[Player_Notes|Player Notes]]
 
 ## Overview
 This document contains important information regarding Player Notes and its role within the greater narrative.

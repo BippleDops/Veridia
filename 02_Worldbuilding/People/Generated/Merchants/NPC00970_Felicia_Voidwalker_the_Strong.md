@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Voidwalker the Strong", "felicia voidwalker the strong", "Felicia Voidwalker Strong", "Strong the Voidwalker Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Voidwalker the Strong
 
 *Half-Elf Caravan Master (Merchants), Age 29, Male*
@@ -13,7 +19,6 @@
 Below average and stocky, with Short and neat gray hair and Gray eyes. Weathered skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Speaks to inanimate objects; Always speaks in metaphors and riddles; Always hungry and eating something
@@ -36,12 +41,10 @@ Built their business from nothing through cunning and hard work They've been mar
 - **Short Term**: Avoid the authorities
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Erasmus Quicksilver the Strong (Personal - Best friend)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ### Xander Oakenshield the Wanderer (Personal - Nemesis)
 - **Status**: Complicated history

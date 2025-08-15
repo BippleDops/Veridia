@@ -90,3 +90,11 @@ Mentioned in The First Prophecy of Stars
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Gaming Set Xphb]]
+- [[gaming-set-xphb (items)]]
+- [[Tools Phb]]
+- [[tools-phb (tables)]]

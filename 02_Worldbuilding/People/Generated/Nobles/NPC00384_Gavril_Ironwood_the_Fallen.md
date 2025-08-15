@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Ironwood the Fallen", "gavril ironwood the fallen", "Gavril Ironwood Fallen", "Fallen the Ironwood Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Ironwood the Fallen
 
 *Halfling Courtier (Nobles), Age 75, Female*
@@ -36,17 +42,14 @@ Last survivor of a fallen house, seeking to restore family honor They've been ma
 - **Short Term**: Recruit new members
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Malakai Emberfall the Strong (Criminal - Informant)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Pyria Oakenshield (Criminal - Informant)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ### Ewan Ravenheart the Bold (Personal - Nemesis)
 - **Status**: One-sided affection

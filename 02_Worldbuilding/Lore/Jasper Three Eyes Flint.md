@@ -29,7 +29,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -288,3 +288,15 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Comprehensive-World-Connection-Guide]]
+- [[Jasper Three-Eyes Flint (02_Worldbuilding)]]
+- [[Marina-Red-Tide-Coralheart]]
+- [[Aethermoor - Session 02 The Lighthouse of Storms]]
+- [[Aethermoor - Session 06 The Bloodline Awakens]]
+- [[Comprehensive-World-Connection-Guide (D&D_References)]]
+- [[Comprehensive-World-Connection-Guide 3 (D&D_References)]]
+- [[Marina-Red-Tide-Coralheart (D&D_References)]]

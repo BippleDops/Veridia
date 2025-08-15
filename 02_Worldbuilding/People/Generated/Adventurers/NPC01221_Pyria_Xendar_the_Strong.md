@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Xendar the Strong", "pyria xendar the strong", "Pyria Xendar Strong", "Strong the Xendar Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Xendar the Strong
 
 *Tabaxi Rogue (Adventurers), Age 63, Male*
@@ -36,12 +42,10 @@ Accidentally gained powers and learning to control them They've been marked by a
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Idris Moonshadow the Risen (Personal - Best friend)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ### Urien Keenblade the Risen (Family - Cousin)
 - **Status**: One-sided affection
@@ -66,7 +70,6 @@ Accidentally gained powers and learning to control them They've been marked by a
 ### Gavril Emberfall the Guardian (Personal - Best friend)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Secretly working for the villain

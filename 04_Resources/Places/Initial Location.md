@@ -10,13 +10,13 @@ created: '2025-01-15'
 # Initial Location
 
 ## Overview
-This topic is referenced in [[Template Quest]] and other parts of the campaign.
+This topic is referenced in [[Template_Quest_Placeholder.png|Template Quest]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Template Quest]]
+- Referenced by: [[Template_Quest_Placeholder.png|Template Quest]]
 - Related topics in the same category
 
 ## Details
@@ -102,3 +102,12 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Quest - Crystal Innovation]]
+- [[Quest - The Pretender_1 (01_Adventures)]]
+- [[Quest - The Prophecy Fulfilled]]
+- [[Quest - The Void Conspiracy]]
+- [[04 Creating Adventures]]
+- [[Template-Quest]]

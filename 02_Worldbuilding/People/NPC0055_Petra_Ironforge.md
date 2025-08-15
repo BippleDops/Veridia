@@ -1,11 +1,11 @@
 ---
+aliases: ["Petra Ironforge", "petra ironforge", "Ironforge Petra"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -77,8 +77,6 @@ Discovered magical talent late in life. Years ago, they lost everything in a fir
 ### Skills
 Persuasion, Athletics, Arcana, Stealth
 
-
-
 ## Possessions
 - 57 gold pieces
 - Set of thieves' tools
@@ -92,7 +90,6 @@ Persuasion, Athletics, Arcana, Stealth
 
 ---
 *Generated: 2025-08-15T03:21:04.032Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

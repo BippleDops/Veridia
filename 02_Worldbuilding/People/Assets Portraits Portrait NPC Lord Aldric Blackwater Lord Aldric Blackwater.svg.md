@@ -215,3 +215,7 @@ This NPC can serve multiple roles:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[04_Resources_Assets_Vehicles_vehicle-ship-resoce-drive-yacht-resoce-drive-yacht.svg]]

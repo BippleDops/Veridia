@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Ashford the Wise", "fiora ashford the wise", "Fiora Ashford Wise", "Wise the Ashford Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Ashford the Wise
 
 *Tabaxi Cultist (Villains), Age 75, Female*
@@ -36,17 +42,14 @@ Betrayed by those they trusted, now seeking revenge on the world A prophetic dre
 - **Short Term**: Complete current contract
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Cedric Darkwater the Broken (Personal - Love interest)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Gavril Brightblade the Mystic (Professional - Employer)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ### Caelum Hawthorne the Cunning (Family - Spouse)
 - **Status**: Recently reconciled

@@ -66,3 +66,10 @@ Mentioned in The Hidden Prophecy of Depths
 - Strange accidents suggest a curse
 - Someone is protecting information for love
 - A document has gone missing and evil awakens
+
+## References
+
+- [[05 Chapter 4 Character Origins]]
+- [[05-chapter-4-character-origins (players-handbook-2024)]]
+- [[Choose a Background Ability Scores and Backgrounds Xphb]]
+- [[Choose a Background Ability Scores and]]

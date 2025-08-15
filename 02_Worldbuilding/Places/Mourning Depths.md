@@ -53,7 +53,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -105,7 +105,7 @@ improvements: 20
 
 ### The Order's Establishment
 
-**[[[[Time]]line]]**: 750-700 years ago, formation of the Order of Eternal Tides  
+**[[Time|[[Time]]line]]**: 750-700 years ago, formation of the Order of Eternal Tides  
 **Leadership**: Spiritual leaders dedicating their lives to tending the sacred site  
 **Purpose**: Preserving burial traditions and providing comfort to the grieving  
 **Expansion**: Gradual expansion of facilities and services  
@@ -744,7 +744,7 @@ improvements: 20
 **Support**: Government support for memorial services and facilities  
 **Cooperation**: Cooperation on public health and community welfare issues
 
-### [[[[The Neutral Current]] Tavern]]
+### [[The Neutral Current|[[The Neutral Current]] Tavern]]
 
 **Referral**: Referral of grief-stricken travelers needing spiritual support  
 **Community**: Shared community members needing both social and spiritual support  
@@ -806,7 +806,7 @@ Legends speak of Mourning Depths as a nexus where past and present converge. Loc
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -827,13 +827,11 @@ Mourning Depths is a notable location characterized by its unique features and s
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -841,13 +839,11 @@ Mourning Depths is a notable location characterized by its unique features and s
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -917,7 +913,6 @@ Ongoing situations affecting Mourning Depths:
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -953,3 +948,12 @@ Ongoing situations affecting Mourning Depths:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Comprehensive-World-Connection-Guide]]
+- [[The Mourning Depths]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide (D&D_References)]]
+- [[Aquabyssos - Session 07 - The Resonance Revelation]]
+- [[System Cli Spells School Conjuration]]

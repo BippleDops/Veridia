@@ -1,4 +1,5 @@
 ---
+aliases: ["Mystic Blessing", "mystic blessing", "Blessing Mystic"]
 tags: [generated]
 id: SPELL0027_Mystic_Blessing
 created: 2025-08-15T04:09:51.472Z

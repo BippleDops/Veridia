@@ -185,7 +185,7 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[Quest   The Ancient Compact]] (friend)
+- [[The Ancient Compact|Quest   The Ancient Compact]] (friend)
 - [[Master of Currents Poseidon]] (rival)
 - [[04_Resources_Assets_Symbols_symbol-heraldry-the-crimson-tide-pirates-the-crimson-tide-pirates.svg]] (colleague)
 ---

@@ -161,3 +161,8 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Investigate Shadow Surgeons (Criminal_Organizations)]]
+- [[Investigate Shadow Surgeons]]

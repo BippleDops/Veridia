@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Winterborn the Broken", "urien winterborn the broken", "Urien Winterborn Broken", "Broken the Winterborn Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Winterborn the Broken
 
 *Elf Wizard (Adventurers), Age 71, Non-binary*
@@ -13,7 +19,6 @@
 Very short and wiry, with Braided elaborately auburn hair and Green eyes. Fair skin. Missing finger on left hand.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Collects unusual and worthless objects; Always speaks in metaphors and riddles
@@ -36,22 +41,18 @@ Chosen by fate to fulfill an ancient prophecy They've fallen in love with someon
 - **Short Term**: Gather information
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Caelum Keenblade the Bold (Personal - Best friend)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
 
-
 ### Brenna Oakenshield the Guardian (Family - Parent)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Gavril Proudmore the Wanderer (Political - Puppet)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ### Caelum Goldleaf the Fallen (Political - Patron)
 - **Status**: Secretly hostile
@@ -61,7 +62,6 @@ Chosen by fate to fulfill an ancient prophecy They've fallen in love with someon
 ### Xander Lightbringer the Fallen (Personal - Nemesis)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Has died and been resurrected

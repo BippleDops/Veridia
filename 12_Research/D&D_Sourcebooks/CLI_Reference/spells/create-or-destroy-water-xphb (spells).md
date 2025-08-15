@@ -100,7 +100,6 @@ Mentioned in The First Prophecy of Winds
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -113,3 +112,21 @@ Contextual improvement based on 12_Research
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Ixitxachitl Cleric Oota]]
+- [[Vampiric Ixitxachitl Cleric Oota]]
+- [[ixitxachitl-cleric-oota (aberration)]]
+- [[vampiric-ixitxachitl-cleric-oota (aberration)]]
+- [[Marid Xmm]]
+- [[Merfolk Wavebender Xmm]]
+- [[marid-xmm (elemental)]]
+- [[merfolk-wavebender-xmm (elemental)]]
+- [[Kraken Priest Mpmm]]
+- [[kraken-priest-mpmm (monstrosity)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Ring of Elemental Command Water Xdmg]]
+- [[ring-of-elemental-command-water-xdmg (items)]]

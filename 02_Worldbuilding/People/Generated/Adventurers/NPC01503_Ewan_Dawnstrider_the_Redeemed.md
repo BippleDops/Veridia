@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Dawnstrider the Redeemed", "ewan dawnstrider the redeemed", "Ewan Dawnstrider Redeemed", "Redeemed the Dawnstrider Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Dawnstrider the Redeemed
 
 *Human Bard (Adventurers), Age 59, Male*
@@ -36,32 +42,26 @@ Accidentally gained powers and learning to control them They've been marked by a
 - **Short Term**: Survive until next week
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Cedric Dawnstrider the Redeemed (Family - Child)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
 
-
 ### Kaelen Keenblade the Wanderer (Political - Puppet)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ### Thalia Winterborn the Swift (Criminal - Handler)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Vesper Emberfall the Swift (Political - Puppet)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Rhiannon Frostwhisper the Bold (Family - Cousin)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Has died and been resurrected

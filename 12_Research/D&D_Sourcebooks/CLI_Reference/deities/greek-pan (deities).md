@@ -84,3 +84,11 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Cleric Xphb Nature Domain]]
+- [[cleric-xphb-nature-domain (classes)]]
+- [[cleric-xphb-nature-domain 2 (classes)]]
+- [[The Greek Pantheon Greek Deities Phb]]
+- [[the-greek-pantheon-greek-deities-phb (tables)]]

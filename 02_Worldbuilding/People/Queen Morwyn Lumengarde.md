@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-queen-morwyn-lumengarde-queen-morwyn-lumengarde.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -223,7 +221,6 @@ Mentioned in The First Prophecy of Shadows
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -293,3 +290,8 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Art Market Master Cornelius Driftwood.png]]
+- [[Assets Portraits Portrait NPC Captain Morgrim Lastvessel Captain Morgrim Lastvessel.svg]]

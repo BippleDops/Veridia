@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Dawnstrider the Risen", "faelyn dawnstrider the risen", "Faelyn Dawnstrider Risen", "Risen the Dawnstrider Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Dawnstrider the Risen
 
 *Gnome Appraiser (Merchants), Age 53, Female*
@@ -36,22 +42,18 @@ Uses their business as cover for other activities A chance encounter last winter
 - **Short Term**: Gather information
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Caelum Goldleaf the Bold (Criminal - Fence)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Ewan Dawnstrider the Cunning (Family - Parent)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Ysara Dawnstrider the Broken (Professional - Mentor)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ### Aldric Ironforge the Broken (Professional - Employer)
 - **Status**: Complicated history
@@ -66,7 +68,6 @@ Uses their business as cover for other activities A chance encounter last winter
 ### Delara Silverleaf the Broken (Criminal - Target)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Running a cult from their basement

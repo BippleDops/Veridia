@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Frostwhisper the Guardian", "nerys frostwhisper the guardian", "Nerys Frostwhisper Guardian", "Guardian the Frostwhisper Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Frostwhisper the Guardian
 
 *Firbolg Trader (Merchants), Age 35, Female*
@@ -36,32 +42,26 @@ Uses their business as cover for other activities They've fallen in love with so
 - **Short Term**: Complete current contract
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Delara Zephyrblade the Mystic (Criminal - Fence)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Elric Ironforge the Seeker (Professional - Employer)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ### Gareth Ironforge the Bold (Professional - Partner)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
 
-
 ### Branwen Zephyrblade the Seeker (Criminal - Informant)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
 
-
 ### Gavril Xendar the Bold (Political - Opposition)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Running a cult from their basement

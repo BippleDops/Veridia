@@ -1,3 +1,9 @@
+---
+aliases: ["Cursed Bow of Accuracy", "cursed bow of accuracy", "Accuracy of Bow Cursed"]
+tags: [item, equipment]
+type: item
+---
+
 # Cursed Bow of Accuracy
 
 *Weapons, Common*
@@ -13,8 +19,6 @@ A cursed bow forged from meteoric iron
 ## Properties
 - Critical hits on 19-20
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -29,7 +33,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.350Z*

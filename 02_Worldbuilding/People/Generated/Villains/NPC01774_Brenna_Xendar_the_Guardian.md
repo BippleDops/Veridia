@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Xendar the Guardian", "brenna xendar the guardian", "Brenna Xendar Guardian", "Guardian the Xendar Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Xendar the Guardian
 
 *Half-Orc Cultist (Villains), Age 46, Non-binary*
@@ -13,7 +19,6 @@
 Very short and heavyset, with Tied back black hair and Brown eyes. Scarred skin. Missing ear from old battle.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Constantly quotes ancient texts; Laughs at the most inappropriate times; Believes in every conspiracy theory
@@ -36,22 +41,18 @@ Driven mad by knowledge humanity wasn't meant to know They've fallen in love wit
 - **Short Term**: Complete current contract
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Kaelen Winterborn the Bold (Personal - Best friend)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Faelyn Ironforge the Bold (Political - Spy)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Pyria Youngblood the Mystic (Professional - Employer)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Is being controlled by darker force

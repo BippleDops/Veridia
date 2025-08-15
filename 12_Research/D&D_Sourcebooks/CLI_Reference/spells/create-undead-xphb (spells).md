@@ -108,7 +108,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -121,3 +120,16 @@ Contextual improvement based on 12_Research
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[README]]
+- [[Master_Spell_Compendium]]
+- [[Ancient Black Dragon Xmm]]
+- [[ancient-black-dragon-xmm (dragon)]]
+- [[Dracolich Xmm (undead)]]
+- [[dracolich-xmm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]

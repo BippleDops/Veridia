@@ -193,3 +193,13 @@ Crown of Tidal Sovereignty is a remarkable item of significant craftsmanship. It
 
 ### Curse (if applicable)
 - *[Negative effects]*
+
+## References
+
+- [[Unite the Emperor]]
+- [[Sister Morwyn]]
+- [[Master_Item_Catalog]]
+- [[Sister Morwyn (D&D_References)]]
+- [[Unite the Emperor (D&D_References)]]
+- [[World Bible Index]]
+- [[World_Bible_Index (D&D_References)]]

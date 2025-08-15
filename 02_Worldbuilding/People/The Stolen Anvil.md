@@ -45,14 +45,12 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-stolen-anvil-the-stolen-anvil.svg)
 
 # The Stolen Anvil
 
 *"Without the Master's Anvil, true crafting dies in these waters." - Guildmaster Ironheart*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -312,7 +310,6 @@ Member of House Lionblood - Trait: divine blood
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -348,3 +345,11 @@ Member of House Lionblood - Trait: divine blood
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Portraits Portrait NPC Captain Echoing Thunder Captain Echoing Thunder.svg]]
+- [[Assets Portraits Portrait NPC Captain Navigator Captain Navigator.svg]]
+- [[Assets Portraits Portrait NPC Lady Resistance Brightshield Lady Resistance Brightshield.svg]]
+- [[Dr. Marina Coralheart Shadow]]
+- [[The Stolen Anvil (D&D_References)]]

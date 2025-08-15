@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Winterborn the Wise", "elric winterborn the wise", "Elric Winterborn Wise", "Wise the Winterborn Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Winterborn the Wise
 
 *Aasimar Farmer (Commoners), Age 26, Male*
@@ -13,7 +19,6 @@
 Above average and imposing, with Short and neat auburn hair and Green eyes. Olive skin. Burn scars on one side of face.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Compulsive liar about minor things
@@ -36,17 +41,14 @@ Survivor of a disaster that destroyed their village They've been marked by a sec
 - **Short Term**: Gather information
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Brenna Thornweave the Fallen (Personal - Ex-lover)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Gareth Goldleaf the Strong (Family - Cousin)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ### Gavril Voidwalker the Bold (Criminal - Accomplice)
 - **Status**: Mutually beneficial
@@ -56,7 +58,6 @@ Survivor of a disaster that destroyed their village They've been marked by a sec
 ### Jorah Brightblade the Wanderer (Criminal - Target)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Can hear the thoughts of others

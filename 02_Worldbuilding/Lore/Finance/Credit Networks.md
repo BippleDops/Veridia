@@ -88,3 +88,8 @@ improvements: 20
 - A document has gone missing and truth emerges
 - Strange dreams suggest a portal
 - Someone is blackmailing information for power
+
+## References
+
+- [[Trade Route Establishment]]
+- [[The Free Current]]

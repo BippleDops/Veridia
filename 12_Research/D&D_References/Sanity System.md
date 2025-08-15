@@ -62,7 +62,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## Player Tips
 > 🎮 **Strategy**: How to approach this content
 > Work together and communicate
+
+## References
+
+- [[Depth_Events_Pack_A]]
+- [[Depth_Events_Pack_D]]
+- [[Journey_Event_Permutation_Engine]]
+- [[Merger_Events_Pack_A]]
+- [[Merger_Events_Pack_D]]
+- [[Pressure_Weather_Events]]
+- [[Sky_Events_Pack_A]]
+- [[Sky_Events_Pack_D]]

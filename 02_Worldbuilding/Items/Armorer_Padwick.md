@@ -191,3 +191,7 @@ Last known to be:   - Armor padding technique: [[03_People_Armorer_Padwick]]...
 
 ### Curse (if applicable)
 - *[Negative effects]*
+
+## References
+
+- [[Maintenance_Checklist_Template]]

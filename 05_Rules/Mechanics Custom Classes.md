@@ -1,6 +1,5 @@
 ---
 
-
 title: Mechanics Custom Classes
 type: mechanics
 tags:
@@ -235,7 +234,6 @@ Apply this rule when:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Common Mistakes
 *Frequent misunderstandings to avoid*

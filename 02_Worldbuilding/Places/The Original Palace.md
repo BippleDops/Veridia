@@ -128,7 +128,7 @@ The palace consists of five great spires, each serving a distinct purpose and re
 **The Spire of Whispers** (Eastern Tower)
 - **Height:** 350 feet
 - **Function:** Libraries, archives, and scholarly pursuits
-- **Notable Features:** The [[Archive of Forgotten Depths]], crystal communication arrays
+- **Notable Features:** The , crystal communication arrays
 - **Architecture:** Honeycomb of study chambers and meditation pools
 
 **The Spire of Tides** (Western Tower)
@@ -164,7 +164,7 @@ Though the throne stands empty following the events of [[The Depth Accords]], th
 **The Court Scholars**
 - **Chief Archivist:** [[Master Koralith]]
 - **Number:** 50 scholars, scribes, and loremasters
-- **Specialty:** Maintaining the [[Archive of Forgotten Depths]] and studying ancient texts
+- **Specialty:** Maintaining the  and studying ancient texts
 - **Current Projects:** Researching the connection between the palace and other underwater realms
 
 ### The Service Staff
@@ -381,13 +381,11 @@ The Original Palace is a notable location characterized by its unique features a
 ### Founding
 The Original Palace was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -395,13 +393,11 @@ The Original Palace was established in the distant past, growing from humble beg
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -426,7 +422,6 @@ Mentioned in The Second Prophecy of Stars
 ## Trade Importance
 
 Key stop on metals trade route
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -463,3 +458,8 @@ Key stop on metals trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[The Original Palace (D&D_References)]]
+- [[Find the Grief Bomb (D&D_Statblocks)]]

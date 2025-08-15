@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Goldleaf", "hestara goldleaf", "Goldleaf Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Goldleaf
 
 *Firbolg Fisher (Commoners), Age 34, Non-binary*
@@ -36,7 +42,6 @@ Former soldier trying to adjust to civilian life They recently discovered a secr
 - **Short Term**: Complete current contract
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Gavril Nightfall the Wanderer (Criminal - Informant)
 - **Status**: Strong and trusting
@@ -52,16 +57,13 @@ Former soldier trying to adjust to civilian life They recently discovered a secr
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
 
-
 ### Gavril Ashford the Risen (Professional - Employee)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Ysara Crystalbrook the Seeker (Personal - Ex-lover)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Knows location of ancient treasure

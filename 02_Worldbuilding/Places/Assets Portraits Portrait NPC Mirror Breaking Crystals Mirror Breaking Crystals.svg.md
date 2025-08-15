@@ -222,3 +222,12 @@ Key locations marked:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Assets Locations Location City Dr Marina Voidstudier Dr Marina Voidstudier.svg]]
+- [[Assets Locations Location City Dr Reef Brightwater V1 Dr Reef Brightwater.svg]]
+- [[Assets Portraits Portrait NPC Captain Torren Stormwright Captain Torren Stormwright.svg]]
+- [[Assets Portraits Portrait NPC Pirate Lords of the Spiral Depths Pirate Lords of the Spiral Depths.svg]]
+- [[Assets Symbols Symbol Heraldry Magical Component Manufacturers Guil Magical Component Manufacturers Guil.svg]]
+- [[Assets Symbols Symbol Heraldry Void Touched Crew Member V1 Void Touched Crew Member.svg]]

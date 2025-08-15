@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Keenblade the Fallen", "thalia keenblade the fallen", "Thalia Keenblade Fallen", "Fallen the Keenblade Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Keenblade the Fallen
 
 *Human Trader (Merchants), Age 28, Male*
@@ -13,7 +19,6 @@
 Above average and delicate, with Carefully styled white hair and Violet eyes. Fair skin. Constantly changing hair color.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Never uses people's real names
@@ -36,22 +41,18 @@ Part of a merchant family with connections everywhere They're being blackmailed 
 - **Short Term**: Make this month's payment
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Faelyn Zephyrblade the Broken (Professional - Rival)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Fiora Ravenheart the Wanderer (Personal - Childhood friend)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
 
-
 ### Urien Zephyrblade the Wanderer (Criminal - Target)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ### Delara Moonshadow the Redeemed (Professional - Rival)
 - **Status**: On the verge of collapse

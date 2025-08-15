@@ -42,7 +42,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -95,7 +95,7 @@ Legends speak of Religious Leaders as a nexus where past and present converge. L
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -116,13 +116,11 @@ Religious Leaders is a notable location characterized by its unique features and
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -130,13 +128,11 @@ Religious Leaders is a notable location characterized by its unique features and
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -209,7 +205,6 @@ Key stop on metals trade route
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -245,3 +240,28 @@ Key stop on metals trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Aurelius Goldwave]]
+- [[Cross-Realm Etiquette Guide]]
+- [[Crystal Corruption Taboos]]
+- [[Crystal Garden]]
+- [[Military Moral Quandaries]]
+- [[Quarantine Enforcement]]
+- [[Shadow Magic Integration Practices]]
+- [[The Bathyal Succession]]
+- [[The Festival of Rising Tides]]
+- [[The Restoration Movement]]
+- [[Tidal Memory Ceremonies]]
+- [[Timeline of the Drowning]]
+- [[Cathedral of Light]]
+- [[Crystal Cult Temples]]
+- [[Mad Bell-Ringer Thomas]]
+- [[Mad Oracle Thessaly]]
+- [[Pearl_Harbor_City]]
+- [[Temple Ward]]
+- [[The First Truth]]
+- [[The_Academy_of_Resoce]]
+- [[Theological Warfare]]
+- [[The First Truth (D&D_References)]]

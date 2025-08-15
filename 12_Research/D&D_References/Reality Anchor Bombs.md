@@ -62,3 +62,9 @@ Mentioned in The First Prophecy of Shadows
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[The Crimson Hand]]
+- [[The Crimson Hand (D&D_References)]]
+- [[The Crimson Hand 3 (D&D_References)]]

@@ -72,3 +72,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A map reveals a betrayal about a local noble
 - Strange dreams suggest a conspiracy
+
+## References
+
+- [[The Greek Pantheon Greek Deities Phb]]
+- [[the-greek-pantheon-greek-deities-phb (tables)]]

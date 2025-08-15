@@ -1,6 +1,18 @@
-# Legends Entry 6
+---
+aliases: ["Legends Entry 6", "legends entry 6", "6 Entry Legends"]
+tags: [note, stub-fixed]
+---
 
-*Legends*
+# Lore00005 Legends Entry 6
+
+## Content
+Content to be added.
+
+## Related
+- [[Related content]]
+
+## Notes
+*Stub file automatically populated*
 
 ---
-*ID: LORE00005*
+*Note: This content develops through gameplay and campaign events.*

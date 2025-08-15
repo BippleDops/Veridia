@@ -102,3 +102,9 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Art Master Smith Coral Hammer.png]]
+- [[Assets Locations Location City Culinary Dreamweaver Sage Gentlespice V1 Culinary Dreamweaver Sage Gentlespice.svg]]
+- [[Assets Portraits Portrait NPC Captain Rescue Captain Rescue.svg]]

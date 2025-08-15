@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Youngblood", "ysara youngblood", "Youngblood Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Youngblood
 
 *Elf Ambassador (Nobles), Age 53, Non-binary*
@@ -36,7 +42,6 @@ Exiled from their homeland, trying to rebuild their power base A prophetic dream
 - **Short Term**: Avoid the authorities
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Jorah Goldleaf the Wise (Political - Spy)
 - **Status**: Recently reconciled
@@ -47,26 +52,21 @@ Exiled from their homeland, trying to rebuild their power base A prophetic dream
 - **Status**: Strong and trusting
 - **History**: United by common enemy
 
-
 ### Wynne Hawthorne (Criminal - Handler)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ### Lyanna Goldleaf (Professional - Rival)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Xander Thornweave the Guardian (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
 
-
 ### Ysara Ironforge (Family - Cousin)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Secretly funding the rebellion

@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Ironforge the Seeker", "qadim ironforge the seeker", "Qadim Ironforge Seeker", "Seeker the Ironforge Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Ironforge the Seeker
 
 *Gnome Blacksmith (Commoners), Age 73, Female*
@@ -36,7 +42,6 @@ Former soldier trying to adjust to civilian life A family member's death has lef
 - **Short Term**: Make this month's payment
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Xander Crystalbrook the Swift (Political - Patron)
 - **Status**: Professional only
@@ -46,7 +51,6 @@ Former soldier trying to adjust to civilian life A family member's death has lef
 ### Aeliana Xendar the Seeker (Family - Spouse)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
-
 
 ### Jorah Dawnstrider the Wise (Personal - Nemesis)
 - **Status**: Professional only
@@ -61,7 +65,6 @@ Former soldier trying to adjust to civilian life A family member's death has lef
 ### Aldric Jadeclaw the Risen (Political - Puppet)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Is the lost heir to the throne

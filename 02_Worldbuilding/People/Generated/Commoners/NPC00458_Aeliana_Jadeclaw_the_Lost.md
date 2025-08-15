@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Jadeclaw the Lost", "aeliana jadeclaw the lost", "Aeliana Jadeclaw Lost", "Lost the Jadeclaw Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Jadeclaw the Lost
 
 *Half-Orc Blacksmith (Commoners), Age 68, Female*
@@ -36,17 +42,14 @@ Former soldier trying to adjust to civilian life They've fallen in love with som
 - **Short Term**: Make this month's payment
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Urien Ironwood (Professional - Partner)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
 
-
 ### Alaric Thornweave the Risen (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
-
 
 ### Urien Moonshadow (Family - Parent)
 - **Status**: Blood oath bound

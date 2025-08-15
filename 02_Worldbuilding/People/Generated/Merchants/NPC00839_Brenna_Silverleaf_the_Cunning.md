@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Silverleaf the Cunning", "brenna silverleaf the cunning", "Brenna Silverleaf Cunning", "Cunning the Silverleaf Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Silverleaf the Cunning
 
 *Human Caravan Master (Merchants), Age 45, Male*
@@ -36,12 +42,10 @@ Former adventurer who retired to open a shop A family member's death has left th
 - **Short Term**: Sabotage competition
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Faelyn Nightfall the Lost (Criminal - Target)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ### Cedric Ironwood the Risen (Criminal - Target)
 - **Status**: Complicated history
@@ -52,21 +56,17 @@ Former adventurer who retired to open a shop A family member's death has left th
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Zephyr Jadeclaw the Wise (Personal - Best friend)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ### Lyanna Keenblade the Lost (Political - Puppet)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
 
-
 ### Gareth Ironforge the Broken (Family - Child)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Running a cult from their basement

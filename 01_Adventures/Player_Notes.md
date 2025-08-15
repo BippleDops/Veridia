@@ -175,7 +175,10 @@ modified: '2025-08-14'
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition
+
+## References
+
+- [[Player Notes (02_Worldbuilding)]]

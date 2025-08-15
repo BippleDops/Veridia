@@ -1,3 +1,9 @@
+---
+aliases: ["Mithril Helm of Grace", "mithril helm of grace", "Grace of Helm Mithril"]
+tags: [item, equipment]
+type: item
+---
+
 # Mithril Helm of Grace
 
 *Armor, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A mithril helm crafted from exotic materials
 - Grants swimming speed
 - Reduces damage by 3
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -32,7 +36,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.381Z*

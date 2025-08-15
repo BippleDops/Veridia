@@ -1,3 +1,9 @@
+---
+aliases: ["Concentrated Powder of Swiftness", "concentrated powder of swiftness", "Swiftness of Powder Concentrated"]
+tags: [item, equipment]
+type: item
+---
+
 # Concentrated Powder of Swiftness
 
 *Consumables, Uncommon*
@@ -14,8 +20,6 @@ A concentrated powder glowing softly
 - Resistance for 10 minutes
 - Breathe underwater 1 hour
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -30,7 +34,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.450Z*

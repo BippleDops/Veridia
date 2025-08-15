@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Brightblade the Mystic", "zephyr brightblade the mystic", "Zephyr Brightblade Mystic", "Mystic the Brightblade Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Brightblade the Mystic
 
 *Dragonborn Fisher (Commoners), Age 66, Female*
@@ -36,7 +42,6 @@ Family has worked the same trade for generations, but times are changing They've
 - **Short Term**: Make this month's payment
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Ysara Dawnstrider the Wanderer (Criminal - Handler)
 - **Status**: Professional only
@@ -47,26 +52,21 @@ Family has worked the same trade for generations, but times are changing They've
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Pyria Quicksilver the Risen (Political - Puppet)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ### Hestara Moonshadow the Seeker (Family - Cousin)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
 
-
 ### Fiora Emberfall the Lost (Family - Child)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
 
-
 ### Alaric Zephyrblade the Broken (Personal - Best friend)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Can hear the thoughts of others

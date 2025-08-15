@@ -1,3 +1,9 @@
+---
+aliases: ["Divine Chalice of Truth", "divine chalice of truth", "Truth of Chalice Divine"]
+tags: [item, equipment]
+type: item
+---
+
 # Divine Chalice of Truth
 
 *Artifacts, Legendary (requires attunement)*
@@ -16,8 +22,6 @@ A divine chalice radiating otherworldly power
 - Increase ability score by 2
 - Plane shift 1/day
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -32,7 +36,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.432Z*

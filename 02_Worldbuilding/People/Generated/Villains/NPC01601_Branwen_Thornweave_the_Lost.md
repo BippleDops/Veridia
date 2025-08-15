@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Thornweave the Lost", "branwen thornweave the lost", "Branwen Thornweave Lost", "Lost the Thornweave Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Thornweave the Lost
 
 *Dragonborn Corrupt Noble (Villains), Age 36, Female*
@@ -13,7 +19,6 @@
 Average height and imposing, with Wild and unkempt black hair and Red eyes. Weathered skin. Missing ear from old battle.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Sees doom and gloom everywhere; Always speaks in metaphors and riddles; Speaks to inanimate objects
@@ -36,7 +41,6 @@ Believes their evil acts serve a greater good A prophetic dream has been hauntin
 - **Short Term**: Avoid the authorities
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Dara Youngblood the Guardian (Political - Puppet)
 - **Status**: Strong and trusting
@@ -47,7 +51,6 @@ Believes their evil acts serve a greater good A prophetic dream has been hauntin
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Ysara Xendar the Strong (Political - Opposition)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
@@ -56,7 +59,6 @@ Believes their evil acts serve a greater good A prophetic dream has been hauntin
 ### Thalia Jadeclaw the Mystic (Criminal - Fence)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Knows how the world will end

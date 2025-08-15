@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Winterborn the Wanderer", "wynne winterborn the wanderer", "Wynne Winterborn Wanderer", "Wanderer the Winterborn Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Winterborn the Wanderer
 
 *Goliath Bard (Adventurers), Age 52, Non-binary*
@@ -36,22 +42,18 @@ Running from a dark past that won't stay buried A prophetic dream has been haunt
 - **Short Term**: Sabotage competition
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Branwen Quicksilver the Risen (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
 
-
 ### Alaric Lightbringer the Swift (Professional - Employee)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
 
-
 ### Aeliana Lightbringer the Redeemed (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Possessed by ancient spirit

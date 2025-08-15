@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Youngblood the Bold", "gavril youngblood the bold", "Gavril Youngblood Bold", "Bold the Youngblood Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Youngblood the Bold
 
 *Firbolg Courtier (Nobles), Age 38, Male*
@@ -36,7 +42,6 @@ Last survivor of a fallen house, seeking to restore family honor They've made a 
 - **Short Term**: Complete current contract
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Ewan Brightblade (Criminal - Target)
 - **Status**: Professional only
@@ -46,7 +51,6 @@ Last survivor of a fallen house, seeking to restore family honor They've made a 
 ### Fiora Darkwater the Lost (Political - Patron)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
-
 
 ### Gareth Blackstone the Mystic (Political - Patron)
 - **Status**: Blood oath bound
@@ -62,11 +66,9 @@ Last survivor of a fallen house, seeking to restore family honor They've made a 
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Gareth Lightbringer the Wanderer (Criminal - Informant)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Child from scandalous affair

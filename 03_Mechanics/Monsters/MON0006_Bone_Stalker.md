@@ -1,4 +1,5 @@
 ---
+aliases: ["Bone Stalker", "bone stalker", "Stalker Bone"]
 tags: [generated]
 id: MON0006_Bone_Stalker
 created: 2025-08-15T04:09:51.423Z
@@ -25,7 +26,6 @@ A collective consciousness acting as one
 
 ---
 *Generated: 2025-08-15T03:21:47.461Z*
-
 
 ## Habitat
 - Natural environment and territories

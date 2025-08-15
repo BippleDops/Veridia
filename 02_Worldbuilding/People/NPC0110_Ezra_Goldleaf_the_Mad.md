@@ -1,11 +1,11 @@
 ---
+aliases: ["Ezra Goldleaf the Mad", "ezra goldleaf the mad", "Ezra Goldleaf Mad", "Mad the Goldleaf Ezra"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -80,7 +80,6 @@ Athletics, Perception, Persuasion, Stealth
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 20 gold pieces
 - Letter of recommendation
@@ -94,7 +93,6 @@ Athletics, Perception, Persuasion, Stealth
 
 ---
 *Generated: 2025-08-15T03:20:13.084Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

@@ -65,3 +65,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Parliament-of-Shadows-Campaign (Government_and_Parliament)]]
+- [[Parliament-of-Shadows-Campaign]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Ravenheart", "pyria ravenheart", "Ravenheart Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Ravenheart
 
 *Tiefling Noble (Nobles), Age 26, Male*
@@ -42,11 +48,9 @@ Last survivor of a fallen house, seeking to restore family honor They've made a 
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Orion Lightbringer (Political - Puppet)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ### Corvus Ravenheart the Wanderer (Professional - Rival)
 - **Status**: One-sided affection
@@ -57,7 +61,6 @@ Last survivor of a fallen house, seeking to restore family honor They've made a 
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Rhiannon Ashford the Guardian (Personal - Nemesis)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
@@ -66,7 +69,6 @@ Last survivor of a fallen house, seeking to restore family honor They've made a 
 ### Jorah Frostwhisper the Redeemed (Family - Cousin)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Actually a bastard with no real claim

@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Lightbringer the Broken", "wynne lightbringer the broken", "Wynne Lightbringer Broken", "Broken the Lightbringer Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Lightbringer the Broken
 
 *Aasimar Shopkeeper (Merchants), Age 70, Male*
@@ -36,27 +42,22 @@ Built their business from nothing through cunning and hard work A chance encount
 - **Short Term**: Make this month's payment
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Kaelen Ashford the Risen (Professional - Employer)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
 
-
 ### Felicia Moonshadow the Bold (Professional - Employer)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ### Aeliana Winterborn the Bold (Political - Spy)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Vesper Underhill the Wanderer (Political - Spy)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Sells information to all sides

@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Xendar the Risen", "caelum xendar the risen", "Caelum Xendar Risen", "Risen the Xendar Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Xendar the Risen
 
 *Half-Elf Carpenter (Commoners), Age 51, Non-binary*
@@ -36,37 +42,30 @@ Runaway from an arranged marriage, starting a new life A family member's death h
 - **Short Term**: Avoid the authorities
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Qadim Underhill the Redeemed (Family - Sibling)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Urien Underhill the Wanderer (Political - Spy)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
-
 
 ### Ewan Ashford the Redeemed (Personal - Childhood friend)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Gavril Dawnstrider the Lost (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ### Drusilla Zephyrblade the Strong (Family - Cousin)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
 
-
 ### Baelor Brightblade the Wanderer (Family - Child)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Can hear the thoughts of others

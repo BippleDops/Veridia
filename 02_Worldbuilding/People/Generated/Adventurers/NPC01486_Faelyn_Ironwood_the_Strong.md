@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Ironwood the Strong", "faelyn ironwood the strong", "Faelyn Ironwood Strong", "Strong the Ironwood Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Ironwood the Strong
 
 *Elf Wizard (Adventurers), Age 24, Non-binary*
@@ -46,7 +52,6 @@ Searching for a legendary treasure their parent died seeking A prophetic dream h
 ### Idris Dawnstrider the Scholar (Professional - Partner)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ### Baelor Proudmore the Scholar (Political - Opposition)
 - **Status**: On the verge of collapse

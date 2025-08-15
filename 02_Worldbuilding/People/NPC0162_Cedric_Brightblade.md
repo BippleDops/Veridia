@@ -1,11 +1,11 @@
 ---
+aliases: ["Cedric Brightblade", "cedric brightblade", "Brightblade Cedric"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -94,7 +94,6 @@ Athletics, Stealth
 
 ---
 *Generated: 2025-08-15T03:20:13.090Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

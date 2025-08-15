@@ -1,4 +1,5 @@
 ---
+aliases: ["Legend of the First King", "legend of the first king", "Legend of First King", "King First the of Legend"]
 tags: [generated]
 id: LORE0096_Legend_of_the_First_King
 created: 2025-08-15T04:09:51.155Z

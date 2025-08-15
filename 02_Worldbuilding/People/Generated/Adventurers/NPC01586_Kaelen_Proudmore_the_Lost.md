@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Proudmore the Lost", "kaelen proudmore the lost", "Kaelen Proudmore Lost", "Lost the Proudmore Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Proudmore the Lost
 
 *Tabaxi Wizard (Adventurers), Age 34, Female*
@@ -13,7 +19,6 @@
 Below average and wiry, with Carefully styled silver hair and Red eyes. Pale skin. Unusual eye color for their race.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Believes in every conspiracy theory; Incredibly optimistic despite evidence
@@ -36,12 +41,10 @@ Searching for a legendary treasure their parent died seeking An old debt has com
 - **Short Term**: Sabotage competition
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Alaric Ironforge the Wise (Political - Spy)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ### Kaelen Grimholt the Scholar (Criminal - Target)
 - **Status**: On the verge of collapse

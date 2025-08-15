@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Oakenshield the Fallen", "lyanna oakenshield the fallen", "Lyanna Oakenshield Fallen", "Fallen the Oakenshield Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Oakenshield the Fallen
 
 *Dragonborn Caravan Master (Merchants), Age 76, Non-binary*
@@ -36,17 +42,14 @@ Inherited a failing business and turned it around An old debt has come due at th
 - **Short Term**: Gather information
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Ysara Quicksilver the Wise (Family - Cousin)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Ewan Silverleaf the Swift (Criminal - Handler)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
-
 
 ### Ysara Stormwind the Fallen (Personal - Best friend)
 - **Status**: Complicated history

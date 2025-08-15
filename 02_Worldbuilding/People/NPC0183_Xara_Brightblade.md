@@ -1,11 +1,11 @@
 ---
+aliases: ["Xara Brightblade", "xara brightblade", "Brightblade Xara"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -80,7 +80,6 @@ Persuasion, Deception
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 86 gold pieces
 - Lucky dice
@@ -92,7 +91,6 @@ Persuasion, Deception
 
 ---
 *Generated: 2025-08-15T03:21:04.044Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

@@ -99,7 +99,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -112,3 +111,25 @@ Contextual improvement based on 12_Research
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Prismari Student Scc]]
+- [[Quandrix Student Scc]]
+- [[prismari-student-scc (backgrounds)]]
+- [[quandrix-student-scc (backgrounds)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb War Domain Xphb]]
+- [[Paladin Xphb Oath of Devotion Xphb]]
+- [[Paladin Xphb Oath of Glory Xphb]]
+- [[Sorcerer Xphb Clockwork Sorcery Xphb]]
+- [[cleric-xphb-war-domain-xphb (classes)]]
+- [[paladin-xphb-oath-of-devotion-xphb (classes)]]
+- [[paladin-xphb-oath-of-glory-xphb (classes)]]
+- [[sorcerer-xphb-clockwork-sorcery-xphb (classes)]]
+- [[Oil of Slipperiness Xdmg]]
+- [[oil-of-slipperiness-xdmg (items)]]
+- [[Tricksters Escape Xge]]
+- [[tricksters-escape-xge (optional-features)]]

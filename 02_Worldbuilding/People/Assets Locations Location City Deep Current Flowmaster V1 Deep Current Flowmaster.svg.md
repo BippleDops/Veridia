@@ -208,3 +208,7 @@ This NPC can serve multiple roles:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Assets Portraits Portrait NPC Captain Torrent Swiftcurrent Captain Torrent Swiftcurrent.svg]]

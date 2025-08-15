@@ -1,3 +1,9 @@
+---
+aliases: ["Adamantine Plate of Fortitude", "adamantine plate of fortitude", "Fortitude of Plate Adamantine"]
+tags: [item, equipment]
+type: item
+---
+
 # Adamantine Plate of Fortitude
 
 *Armor, Rare (requires attunement)*

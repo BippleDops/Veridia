@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Silverleaf the Cunning", "vesper silverleaf the cunning", "Vesper Silverleaf Cunning", "Cunning the Silverleaf Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Silverleaf the Cunning
 
 *Firbolg Caravan Master (Merchants), Age 33, Non-binary*
@@ -13,7 +19,6 @@
 Towering and lanky, with Dreadlocks white hair and Heterochromic eyes. Weathered skin. Missing ear from old battle.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Extremely superstitious about everything; Sees doom and gloom everywhere
@@ -36,17 +41,14 @@ Uses their business as cover for other activities A family member's death has le
 - **Short Term**: Recruit new members
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Aldric Crystalbrook the Scholar (Professional - Employer)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
 
-
 ### Drusilla Lightbringer the Fallen (Political - Ally)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ### Kaelen Xendar the Seeker (Family - Cousin)
 - **Status**: Professional only

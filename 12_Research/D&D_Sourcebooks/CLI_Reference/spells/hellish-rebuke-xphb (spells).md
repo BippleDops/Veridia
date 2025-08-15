@@ -95,7 +95,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -114,4 +113,17 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[hellish-rebuke-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[hellish-rebuke-xphb (spells)|hellish-rebuke-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Azer Pyromancer Xmm]]
+- [[azer-pyromancer-xmm (elemental)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Paladin Xphb Oathbreaker Dmg]]
+- [[paladin-xphb-oathbreaker-dmg (classes)]]
+- [[Tiefling Asmodeus Mtf]]
+- [[Tiefling Xphb]]
+- [[tiefling-asmodeus-mtf (races)]]
+- [[tiefling-xphb (races)]]

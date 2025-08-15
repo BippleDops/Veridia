@@ -180,7 +180,7 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[04_Resources_Assets_Locations_location-city-forge-master-korax-hammerdeep-v1-forge-master-korax-hammerdeep.svg]] (ally)
 - [[The Cerulean Breath]] (friend)
-- [[Master Artificer Chaos Crystal]] (ally)
+- [[Artificer|Master Artificer Chaos Crystal]] (ally)
 ---
 *Tags*: #npc #contact #worldbuilding
 

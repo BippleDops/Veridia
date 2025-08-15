@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Darkwater the Lost", "kaelen darkwater the lost", "Kaelen Darkwater Lost", "Lost the Darkwater Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Darkwater the Lost
 
 *Dwarf Blacksmith (Commoners), Age 35, Non-binary*
@@ -13,7 +19,6 @@
 Below average and slender, with Shaved red hair and Violet eyes. Dark skin. Intricate tattoos covering arms.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Constantly quotes ancient texts
@@ -36,17 +41,14 @@ Family has worked the same trade for generations, but times are changing An old 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Jorah Ironforge the Guardian (Personal - Childhood friend)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
 
-
 ### Alaric Lightbringer the Wise (Professional - Employer)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ### Elric Youngblood the Guardian (Family - Sibling)
 - **Status**: Recently reconciled

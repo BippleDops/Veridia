@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Ravenheart the Guardian", "aldric ravenheart the guardian", "Aldric Ravenheart Guardian", "Guardian the Ravenheart Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Ravenheart the Guardian
 
 *Halfling Bard (Adventurers), Age 75, Female*
@@ -36,22 +42,18 @@ Searching for a legendary treasure their parent died seeking They recently disco
 - **Short Term**: Make this month's payment
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Corvus Jadeclaw the Bold (Family - Sibling)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Lyanna Xendar the Lost (Family - Sibling)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Erasmus Ashford the Mystic (Professional - Employer)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Is from the future

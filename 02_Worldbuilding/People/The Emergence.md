@@ -42,7 +42,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-emergence-the-emergence.svg)
 
@@ -51,7 +50,6 @@ improvements: 20
 # The Emergence
 
 *"From the depths of darkness, new forms of life break the surface." - Scholar Deepthought*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -252,7 +250,6 @@ Legends speak of The Emergence as a nexus where past and present converge. Local
 
 Member of House Wolfblood - Trait: magical affinity
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -288,3 +285,12 @@ Member of House Wolfblood - Trait: magical affinity
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Thalassius the Wise]]
+- [[The Pressure Baptism Rites]]
+- [[The Restoration Movement]]
+- [[Captain Garrett Stormcutter]]
+- [[Captain Garrett Stormcutter (D&D_References)]]
+- [[Prophet Nerida Voidgazer (D&D_References)]]

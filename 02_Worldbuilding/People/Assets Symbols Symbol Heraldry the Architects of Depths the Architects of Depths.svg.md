@@ -188,3 +188,7 @@ This NPC can serve multiple roles:
 1. **Catalyst Event**: Discovery
 2. **Challenge**: Must overcome internal demons
 3. **Growth Moment**: Learns sacrifice
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-cathedral-of-light-v1-cathedral-of-light.png]]

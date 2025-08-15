@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Winterborn", "urien winterborn", "Winterborn Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Winterborn
 
 *Tiefling Courtier (Nobles), Age 43, Male*
@@ -13,7 +19,6 @@
 Average height and lanky, with Wild and unkempt auburn hair and Red eyes. Scarred skin. Intricate tattoos covering arms.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Constantly quotes ancient texts; Flirts with everyone regardless of interest; Laughs at the most inappropriate times
@@ -42,16 +47,13 @@ Exiled from their homeland, trying to rebuild their power base They've made a de
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
 
-
 ### Dara Ashford (Family - Sibling)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
 
-
 ### Caelum Ashford (Professional - Employee)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Actually a bastard with no real claim

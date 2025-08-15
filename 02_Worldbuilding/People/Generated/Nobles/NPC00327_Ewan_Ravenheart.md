@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Ravenheart", "ewan ravenheart", "Ravenheart Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Ravenheart
 
 *Firbolg Ambassador (Nobles), Age 62, Male*
@@ -13,7 +19,6 @@
 Very tall and lanky, with Partially shaved black hair and Gray eyes. Brown skin. Prominent scar across the face.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Collects unusual and worthless objects; Always speaks in metaphors and riddles
@@ -36,7 +41,6 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Short Term**: Survive until next week
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Urien Winterborn the Guardian (Personal - Love interest)
 - **Status**: Strong and trusting
@@ -52,21 +56,17 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Elric Ironforge (Political - Puppet)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ### Lyanna Jadeclaw the Scholar (Personal - Love interest)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Rhiannon Moonshadow the Guardian (Family - Spouse)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Actually a bastard with no real claim

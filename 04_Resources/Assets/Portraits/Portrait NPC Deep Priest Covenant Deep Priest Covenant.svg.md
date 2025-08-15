@@ -98,3 +98,7 @@ improvements: 20
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[Assets Portraits Portrait NPC Captain Morgrim Lastvessel Captain Morgrim Lastvessel.svg]]

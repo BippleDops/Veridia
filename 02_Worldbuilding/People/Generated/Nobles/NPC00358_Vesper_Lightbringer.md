@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Lightbringer", "vesper lightbringer", "Lightbringer Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Lightbringer
 
 *Dragonborn Noble (Nobles), Age 19, Female*
@@ -13,7 +19,6 @@
 Towering and compact, with Short and neat auburn hair and Blue eyes. Freckled skin. Intricate tattoos covering arms.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Flirts with everyone regardless of interest; Collects unusual and worthless objects
@@ -36,7 +41,6 @@ Recently elevated to nobility through service, still learning courtly ways Stran
 - **Short Term**: Sabotage competition
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Xander Voidwalker the Cunning (Personal - Ex-lover)
 - **Status**: Blood oath bound
@@ -47,7 +51,6 @@ Recently elevated to nobility through service, still learning courtly ways Stran
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Felicia Ashford the Seeker (Political - Patron)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
@@ -56,7 +59,6 @@ Recently elevated to nobility through service, still learning courtly ways Stran
 ### Thalia Crystalbrook the Risen (Political - Ally)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
-
 
 ### Malakai Winterborn the Seeker (Family - Child)
 - **Status**: Complicated history

@@ -276,7 +276,6 @@ creature: Custom NPC
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
 
-
 ## See Also
 - Related content
 - Similar topics
@@ -286,3 +285,15 @@ creature: Custom NPC
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
 - **Hidden Details**: Secret aspects
+
+## References
+
+- [[detect-magic-xphb_Quick_Ref]]
+- [[Quick_Reference - DnD5e-SideScreen-2024 (D&D_References)]]
+- [[Reference Quick Reference Dnd5e Sidescreen 2024 (D&D_References)]]
+- [[Ancient Brass Dragon Xmm]]
+- [[ancient-brass-dragon-xmm (dragon)]]
+- [[Elf Xphb]]
+- [[elf-xphb (races)]]
+- [[Nystuls Magic Aura Xphb]]
+- [[nystuls-magic-aura-xphb (spells)]]

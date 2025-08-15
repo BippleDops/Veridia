@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Lightbringer the Risen", "pyria lightbringer the risen", "Pyria Lightbringer Risen", "Risen the Lightbringer Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Lightbringer the Risen
 
 *Gnome Blacksmith (Commoners), Age 55, Female*
@@ -13,7 +19,6 @@
 Tall and delicate, with Partially shaved blonde hair and Gray eyes. Tan skin. Prominent scar across the face.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Incredibly optimistic despite evidence; Never uses people's real names; Never backs down from any challenge
@@ -36,7 +41,6 @@ Former soldier trying to adjust to civilian life A prophetic dream has been haun
 - **Short Term**: Gather information
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Cedric Blackstone (Criminal - Informant)
 - **Status**: One-sided affection
@@ -47,11 +51,9 @@ Former soldier trying to adjust to civilian life A prophetic dream has been haun
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Caelum Stormwind the Lost (Family - Cousin)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Is the lost heir to the throne

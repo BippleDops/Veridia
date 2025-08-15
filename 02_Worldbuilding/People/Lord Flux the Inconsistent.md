@@ -36,12 +36,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-lord-flux-the-inconsistent-lord-flux-the-inconsistent.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -217,8 +215,6 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -254,3 +250,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Keeper Valdris Goldvault V1 Keeper Valdris Goldvault.svg]]
+- [[Assets Locations Location City Master Gardener Sage Harmony Bloomtender V1 Master Gardener Sage Harmony Bloomtender.svg]]
+- [[Assets Symbols Symbol Heraldry the Artisans Collective of Master Crafters the Artisans Collective of Master Crafters.svg]]
+- [[Aquabyssos - Session 08 - The Fractal Conspiracy]]

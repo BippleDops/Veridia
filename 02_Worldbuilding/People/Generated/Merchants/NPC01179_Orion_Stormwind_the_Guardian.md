@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Stormwind the Guardian", "orion stormwind the guardian", "Orion Stormwind Guardian", "Guardian the Stormwind Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Stormwind the Guardian
 
 *Dragonborn Caravan Master (Merchants), Age 66, Female*
@@ -42,11 +48,9 @@ Inherited a failing business and turned it around They're being blackmailed by s
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Xander Proudmore the Lost (Professional - Employee)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ### Pyria Crystalbrook the Guardian (Political - Patron)
 - **Status**: Professional only

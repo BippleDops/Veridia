@@ -1,3 +1,9 @@
+---
+aliases: ["Lesser Potion of Vigor", "lesser potion of vigor", "Vigor of Potion Lesser"]
+tags: [item, equipment]
+type: item
+---
+
 # Lesser Potion of Vigor
 
 *Consumables, Common*

@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Xendar", "lyanna xendar", "Xendar Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Xendar
 
 *Dwarf Courtier (Nobles), Age 69, Non-binary*
@@ -42,21 +48,17 @@ Recently elevated to nobility through service, still learning courtly ways A cha
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
 
-
 ### Delara Ironforge (Political - Puppet)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ### Malakai Silverleaf (Political - Spy)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Drusilla Ironwood the Strong (Family - Sibling)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ### Aeliana Frostwhisper (Personal - Best friend)
 - **Status**: Strained but maintaining

@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Stormwind the Seeker", "corvus stormwind the seeker", "Corvus Stormwind Seeker", "Seeker the Stormwind Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Stormwind the Seeker
 
 *Genasi Caravan Master (Merchants), Age 70, Male*
@@ -36,22 +42,18 @@ Part of a merchant family with connections everywhere An old debt has come due a
 - **Short Term**: Find missing person
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Faelyn Darkwater the Cunning (Political - Ally)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Thalia Ironforge the Mystic (Political - Opposition)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
 
-
 ### Felicia Emberfall the Risen (Personal - Ex-lover)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Sells information to all sides

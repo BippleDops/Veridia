@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Jadeclaw the Risen", "jorah jadeclaw the risen", "Jorah Jadeclaw Risen", "Risen the Jadeclaw Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Jadeclaw the Risen
 
 *Dwarf Appraiser (Merchants), Age 62, Non-binary*
@@ -36,7 +42,6 @@ Built their business from nothing through cunning and hard work A chance encount
 - **Short Term**: Survive until next week
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Kaelen Silverleaf the Redeemed (Professional - Mentor)
 - **Status**: Secretly hostile
@@ -47,11 +52,9 @@ Built their business from nothing through cunning and hard work A chance encount
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Rhiannon Emberfall the Cunning (Personal - Ex-lover)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Sells information to all sides

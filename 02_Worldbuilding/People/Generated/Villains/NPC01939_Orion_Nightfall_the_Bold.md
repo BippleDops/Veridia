@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Nightfall the Bold", "orion nightfall the bold", "Orion Nightfall Bold", "Bold the Nightfall Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Nightfall the Bold
 
 *Half-Elf Cultist (Villains), Age 68, Non-binary*
@@ -13,7 +19,6 @@
 Very short and slender, with Shaved unusual color hair and Gray eyes. Weathered skin. Constantly changing hair color.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Sees doom and gloom everywhere
@@ -36,32 +41,26 @@ Betrayed by those they trusted, now seeking revenge on the world A chance encoun
 - **Short Term**: Sabotage competition
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Dara Lightbringer the Cunning (Political - Puppet)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
 
-
 ### Aldric Proudmore the Risen (Family - Parent)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ### Dara Zephyrblade the Scholar (Personal - Nemesis)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Cedric Zephyrblade the Wise (Personal - Ex-lover)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Aldric Dawnstrider the Seeker (Criminal - Target)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Has a child they're protecting

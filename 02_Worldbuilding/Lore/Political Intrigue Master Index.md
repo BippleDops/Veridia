@@ -47,7 +47,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -106,15 +106,15 @@ This master index provides a comprehensive guide to the political intrigue syste
 - Blackmail networks and leverage systems throughout government
 - Emergency powers abuse and constitutional [[Crisis Management]]
 
-**Primary Use:** Understanding how laws are made, broken, and manipulated in [[Aquabyssos Government]]
+**Primary Use:** Understanding how laws are made, broken, and manipulated in [[Aquabyssos_Government|Aquabyssos Government]]
 
 ### [[Succession Crisis Contingencies]]  
 
 **Key Systems:**
-- [[The Scattered [[Emperor]]]] problem and seven personality fragments
+- [[Emperor|The Scattered [[Emperor]]]] problem and seven personality fragments
 - Competing succession laws and legal framework chaos
 - Detailed profiles of succession claimants and their secret agendas
-- Crisis escalation scenarios and governmental breakdown [[[[Time]]line]]s
+- Crisis escalation scenarios and governmental breakdown [[Time|[[Time]]line]]s
 - Foreign intervention possibilities and constitutional solutions
 
 **Primary Use:** Managing the central political crisis driving current events
@@ -133,8 +133,8 @@ This master index provides a comprehensive guide to the political intrigue syste
 ### [[Noble Houses]]
 
 - **[[House Deepcurrent]]:** Ancient nobility with deep-sea entity connections and shadow daughter secrets
-- **[[House Bright[[Shield]]]]:** Progressive democrats hiding memory plague guilt and constructed family members
-- **[[House [[Shadowmere]]]]:** Information brokers with dead matriarch and triple agent complications
+- **[[Shield|House Bright[[Shield]]]]:** Progressive democrats hiding memory plague guilt and constructed family members
+- **[[Shadowmere|House [[Shadowmere]]]]:** Information brokers with dead matriarch and triple agent complications
 
 **Interconnections:**
 - Marriage alliances creating political leverage and personal complications
@@ -144,8 +144,8 @@ This master index provides a comprehensive guide to the political intrigue syste
 
 ### [[Foreign Intelligence]] Operations
 
-- **[[[[Tenebrarum]] Embassy]]:** Shadow nation spy network with replacement program and cultural integration
-- **[[[[Crystallium]] Embassy]]:** Technology nation surveillance operation with predictive modeling and economic espionage
+- **[[Tenebrarum|[[Tenebrarum]] Embassy]]:** Shadow nation spy network with replacement program and cultural integration
+- **[[Crystallium|[[Crystallium]] Embassy]]:** Technology nation surveillance operation with predictive modeling and economic espionage
 
 **Intelligence Network Overlaps:**
 - Competing operations for same intelligence targets
@@ -153,7 +153,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 - Technology vs. shadow-based espionage methodology conflicts
 - Economic competition for influence over Aquabyssos government
 
-### [[[[Assassin]]ation Plot Frameworks]]
+### [[Assassin|[[Assassin]]ation Plot Frameworks]]
 
 **Key Methods:**
 - Pressure accidents exploiting environmental vulnerability
@@ -377,7 +377,7 @@ Political Intrigue Master Index is a undersea element of the setting, known for 
 
 Legends speak of Political Intrigue Master Index as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Political Intrigue Master Index.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 

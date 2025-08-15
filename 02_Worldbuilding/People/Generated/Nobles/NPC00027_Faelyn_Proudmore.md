@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Proudmore", "faelyn proudmore", "Proudmore Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Proudmore
 
 *Half-Orc Heir (Nobles), Age 47, Male*
@@ -36,7 +42,6 @@ Recently elevated to nobility through service, still learning courtly ways A cha
 - **Short Term**: Gather information
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Brenna Keenblade (Family - Spouse)
 - **Status**: Professional only
@@ -47,11 +52,9 @@ Recently elevated to nobility through service, still learning courtly ways A cha
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Elric Darkwater the Scholar (Personal - Nemesis)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Secretly funding the rebellion

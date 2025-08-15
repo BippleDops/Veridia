@@ -99,3 +99,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[07 Chapter 7 Monsters and Magic Items]]
+- [[07-chapter-7-monsters-and-magic-items (princes-of-the-apocalypse)]]

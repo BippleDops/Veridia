@@ -1,4 +1,5 @@
 ---
+aliases: ["The Stolen Prophecy", "the stolen prophecy", "Prophecy Stolen The"]
 tags: [generated]
 id: QUEST0015
 created: 2025-08-15T04:09:51.372Z
@@ -21,8 +22,6 @@ Gain access to the sunken temple and complete the ritual
 
 ### Secondary
 - Minimize civilian casualties
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they was falsely accused of a crime, which changed their life forever. Now, circumstances demand immediate action.

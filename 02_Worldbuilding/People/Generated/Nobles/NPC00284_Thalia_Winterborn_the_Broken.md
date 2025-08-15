@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Winterborn the Broken", "thalia winterborn the broken", "Thalia Winterborn Broken", "Broken the Winterborn Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Winterborn the Broken
 
 *Genasi Aristocrat (Nobles), Age 61, Male*
@@ -42,26 +48,21 @@ Secretly adopted into nobility, living in fear of discovery They've been marked 
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Aldric Frostwhisper (Personal - Nemesis)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ### Idris Proudmore the Fallen (Political - Opposition)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Hestara Silverleaf the Cunning (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Elric Zephyrblade the Lost (Political - Spy)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Child from scandalous affair

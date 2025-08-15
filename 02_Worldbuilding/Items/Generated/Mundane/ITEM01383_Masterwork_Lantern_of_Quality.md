@@ -1,3 +1,9 @@
+---
+aliases: ["Masterwork Lantern of Quality", "masterwork lantern of quality", "Quality of Lantern Masterwork"]
+tags: [item, equipment]
+type: item
+---
+
 # Masterwork Lantern of Quality
 
 *Mundane, Uncommon*
@@ -14,8 +20,6 @@ A masterwork lantern bearing maker's mark
 - Grants minor benefit
 - Provides comfort
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -30,7 +34,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.482Z*

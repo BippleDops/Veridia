@@ -411,3 +411,8 @@ Legends speak of Consciousness Manipulation Technology as a nexus where past and
 - A map reveals a conspiracy about the cult
 - A document has gone missing and evil awakens
 - A map reveals a betrayal about a local noble
+
+## References
+
+- [[The Umbral Nexus]]
+- [[The Umbral Nexus (D&D_References)]]

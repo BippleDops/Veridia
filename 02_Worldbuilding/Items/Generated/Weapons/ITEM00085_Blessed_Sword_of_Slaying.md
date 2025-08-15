@@ -1,3 +1,9 @@
+---
+aliases: ["Blessed Sword of Slaying", "blessed sword of slaying", "Slaying of Sword Blessed"]
+tags: [item, equipment]
+type: item
+---
+
 # Blessed Sword of Slaying
 
 *Weapons, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A blessed sword forged from meteoric iron
 - Ignores resistance to damage type
 - Deals extra 1d6 elemental damage
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -30,7 +34,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.350Z*

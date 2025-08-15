@@ -1,3 +1,9 @@
+---
+aliases: ["Lesser Elixir of Vigor", "lesser elixir of vigor", "Vigor of Elixir Lesser"]
+tags: [item, equipment]
+type: item
+---
+
 # Lesser Elixir of Vigor
 
 *Consumables, Common*
@@ -13,8 +19,6 @@ A lesser elixir swirling with colors
 ## Properties
 - Remove one condition
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -29,7 +33,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.452Z*

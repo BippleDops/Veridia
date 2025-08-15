@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Lightbringer the Fallen", "thalia lightbringer the fallen", "Thalia Lightbringer Fallen", "Fallen the Lightbringer Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Lightbringer the Fallen
 
 *Tabaxi Crime Boss (Villains), Age 22, Non-binary*
@@ -36,37 +42,30 @@ Born into evil but questioning their path A family member's death has left them 
 - **Short Term**: Survive until next week
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Aeliana Ironforge the Guardian (Political - Opposition)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Aeliana Stormwind the Broken (Family - Cousin)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
-
 
 ### Baelor Ravenheart the Wanderer (Political - Opposition)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Jorah Stormwind the Scholar (Professional - Partner)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
-
 
 ### Dara Underhill the Strong (Family - Sibling)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Hilda Oakenshield the Strong (Personal - Nemesis)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Knows how the world will end

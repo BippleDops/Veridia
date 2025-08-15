@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Ashford the Wanderer", "aeliana ashford the wanderer", "Aeliana Ashford Wanderer", "Wanderer the Ashford Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Ashford the Wanderer
 
 *Dwarf Crime Boss (Villains), Age 37, Male*
@@ -36,27 +42,22 @@ Born into evil but questioning their path They've fallen in love with someone th
 - **Short Term**: Recruit new members
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Qadim Goldleaf the Strong (Family - Sibling)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Urien Ravenheart the Redeemed (Professional - Mentor)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ### Gavril Nightfall the Broken (Family - Parent)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
 
-
 ### Vesper Blackstone the Wanderer (Political - Puppet)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ### Gareth Xendar the Swift (Professional - Rival)
 - **Status**: Strained but maintaining

@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Proudmore the Fallen", "fiora proudmore the fallen", "Fiora Proudmore Fallen", "Fallen the Proudmore Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Proudmore the Fallen
 
 *Tabaxi Trader (Merchants), Age 51, Male*
@@ -42,16 +48,13 @@ Uses their business as cover for other activities A prophetic dream has been hau
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Gavril Frostwhisper the Risen (Professional - Partner)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Hestara Silverleaf the Swift (Professional - Employee)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Smuggles illegal magical items

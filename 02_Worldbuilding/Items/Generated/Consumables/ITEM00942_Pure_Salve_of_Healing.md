@@ -1,3 +1,9 @@
+---
+aliases: ["Pure Salve of Healing", "pure salve of healing", "Healing of Salve Pure"]
+tags: [item, equipment]
+type: item
+---
+
 # Pure Salve of Healing
 
 *Consumables, Common*
@@ -13,8 +19,6 @@ A pure salve glowing softly
 ## Properties
 - Resistance for 10 minutes
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -29,7 +33,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.440Z*

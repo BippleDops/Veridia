@@ -270,12 +270,10 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Pronunciation Guide
 - **Both**: [BOTH]
 - **Other**: [OTHER]
 - **Aethermoor**: [AYTHERMOOR]
-
 
 ## Alternate Descriptions
 - **First Impression**: Initial appearance

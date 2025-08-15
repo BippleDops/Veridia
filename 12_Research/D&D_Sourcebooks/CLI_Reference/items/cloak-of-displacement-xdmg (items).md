@@ -74,3 +74,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Arcana Rare Xdmg]]
+- [[Magic Item Table G]]
+- [[Random Magic Items Arcana]]
+- [[arcana-rare-xdmg (tables)]]
+- [[magic-item-table-g (tables)]]
+- [[random-magic-items-arcana (tables)]]

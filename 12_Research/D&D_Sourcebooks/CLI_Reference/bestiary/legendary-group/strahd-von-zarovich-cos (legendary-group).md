@@ -86,3 +86,12 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[17 Chapter 15 Werewolf Den]]
+- [[17-chapter-15-werewolf-den (curse-of-strahd)]]
+- [[21 Appendix C Treasures]]
+- [[21-appendix-c-treasures (curse-of-strahd)]]
+- [[Blood Spear Cos]]
+- [[blood-spear-cos (items)]]

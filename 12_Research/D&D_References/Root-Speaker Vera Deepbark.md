@@ -52,3 +52,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[Quest - The Root Network_1 (01_Adventures)]]
+- [[Quest - The Root Network_2 (01_Adventures)]]

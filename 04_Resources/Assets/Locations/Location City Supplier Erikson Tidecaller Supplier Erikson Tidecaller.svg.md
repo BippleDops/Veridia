@@ -1,12 +1,12 @@
 ---
 aliases:
-- location city supplier erikson tidecaller supplier erikson tidecallersvg
+- [[location|location]] city [[Supplier Erikson Tidecaller|Supplier Erikson Tidecaller]] supplier erikson tidecallersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 population: Unknown
-region: Unknown
+[[region|region]]: Unknown
 tags:
 - location
 title: Location City Supplier Erikson Tidecaller Supplier Erikson Tidecaller.svg
@@ -34,7 +34,7 @@ Established generations ago, Location City Supplier Erikson Tidecaller Supplier 
 ## Inhabitants
 - **Permanent Residents**: Various individuals who maintain the location
 - **Regular Visitors**: Merchants, travelers, and locals
-- **Notable Figures**: [[Local Leader]], [[Merchant Representative]]
+- **Notable Figures**: [[Local Leader]], [[[[Merchant|Merchant]] Representative]]
 
 ## Services & Features
 - Basic amenities for travelers
@@ -55,5 +55,8 @@ Recent developments have brought new attention to Location City Supplier Erikson
 2. Missing person last seen here
 3. Secret meeting scheduled to take place
 
-## DM Notes
-*Location City Supplier Erikson Tidecaller Supplier Erikson Tidecaller.svg can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+## [[DM_Notes|DM Notes]]
+*Location City Supplier Erikson Tidecaller Supplier Erikson Tidecaller.svg can be customized to fit campaign needs. Consider adding unique [[npcs|npcs]] or plot elements.*
+
+---
+**Navigation**: [[00_Indexes/Home|🏠 Home]] | [[00_Indexes/MOCs/Locations_MOC|📍 Locations]] | [[00_Indexes/Master_Index|📚 Index]]

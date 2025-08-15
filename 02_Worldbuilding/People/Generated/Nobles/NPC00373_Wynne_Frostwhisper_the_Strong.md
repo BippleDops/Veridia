@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Frostwhisper the Strong", "wynne frostwhisper the strong", "Wynne Frostwhisper Strong", "Strong the Frostwhisper Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Frostwhisper the Strong
 
 *Gnome Courtier (Nobles), Age 65, Non-binary*
@@ -36,22 +42,18 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Survive until next week
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Erasmus Youngblood the Guardian (Political - Puppet)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Faelyn Thornweave the Wanderer (Criminal - Fence)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Branwen Hawthorne (Criminal - Fence)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
-
 
 ### Lyanna Zephyrblade (Family - Sibling)
 - **Status**: On the verge of collapse
@@ -61,7 +63,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 ### Ysara Oakenshield the Swift (Personal - Love interest)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Child from scandalous affair

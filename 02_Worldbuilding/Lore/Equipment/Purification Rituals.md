@@ -128,3 +128,16 @@ improvements: 20
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Aquabyssos Cultural Codex]]
+- [[Deep Mother Influence]]
+- [[Ritual Redirection Options]]
+- [[The Festival of Rising Tides]]
+- [[The Queen]]
+- [[Tidal Memory Ceremonies]]
+- [[Cross-Dimensional Transit Authority]]
+- [[Temple Ward]]
+- [[The Crystal Cathedral of Pure Light]]
+- [[The Crystal Wardens]]

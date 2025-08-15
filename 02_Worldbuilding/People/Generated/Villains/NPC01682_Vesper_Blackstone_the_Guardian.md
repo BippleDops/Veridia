@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Blackstone the Guardian", "vesper blackstone the guardian", "Vesper Blackstone Guardian", "Guardian the Blackstone Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Blackstone the Guardian
 
 *Firbolg Crime Boss (Villains), Age 76, Non-binary*
@@ -41,7 +47,6 @@ Believes their evil acts serve a greater good A prophetic dream has been hauntin
 ### Wynne Emberfall the Broken (Political - Spy)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ### Aeliana Youngblood the Seeker (Political - Ally)
 - **Status**: Mutually beneficial

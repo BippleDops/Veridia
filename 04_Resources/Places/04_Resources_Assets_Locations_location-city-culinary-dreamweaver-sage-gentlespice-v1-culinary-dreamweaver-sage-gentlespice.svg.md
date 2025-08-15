@@ -102,3 +102,8 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Locations Location City Master Trader Abyss Currentbinder V1 Master Trader Abyss Currentbinder.svg]]
+- [[Assets Locations Location City Merchant Prince Aldric Goldcurrent Merchant Prince Aldric Goldcurrent.svg]]

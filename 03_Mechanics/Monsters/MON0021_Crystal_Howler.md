@@ -1,4 +1,5 @@
 ---
+aliases: ["Crystal Howler", "crystal howler", "Howler Crystal"]
 tags: [generated]
 id: MON0021_Crystal_Howler
 created: 2025-08-15T04:09:51.426Z
@@ -27,7 +28,6 @@ An ancient being of immense power and malevolence
 
 ---
 *Generated: 2025-08-15T03:21:47.463Z*
-
 
 ## Habitat
 - Natural environment and territories

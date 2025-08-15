@@ -50,7 +50,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -228,7 +228,7 @@ Economic crime in [[Aethermoor]] and [[Aquabyssos]] has evolved into sophisticat
 **Sophistication Level**: High
 
 **Complex Mechanisms**:
-- **Over-Invoicing**: Paying more than actual value for imports, difference goes to [[Criminal [[Organization]]s]]
+- **Over-Invoicing**: Paying more than actual value for imports, difference goes to [[Organization|Criminal [[Organization]]s]]
 - **Under-Invoicing**: Claiming lower import values, paying difference through criminal channels
 - **Phantom Shipments**: Creating documentation for shipments that never existed
 - **Quality Manipulation**: Claiming premium prices for standard goods, excess goes to criminals
@@ -491,7 +491,7 @@ Economic crime in [[Aethermoor]] and [[Aquabyssos]] has evolved into sophisticat
 
 1. **The Robin Hood Dilemma**: Criminal economic schemes that benefit poor communities while harming wealthy elites
 2. **The Necessary Evil**: Economic crimes that prevent worse economic disasters or social problems
-3. **The System Corruption**: Discovering that legal [[Economic System]]s are more harmful than criminal alternatives
+3. **The System Corruption**: Discovering that legal [[Economic_System|Economic System]]s are more harmful than criminal alternatives
 4. **The Whistle Blower**: Protecting individuals exposing economic crimes against powerful criminal organizations
 
 #### Infiltration and Undercover Operations
@@ -543,7 +543,7 @@ Ancient criminal texts speak of the "Perfect Crime" - a theoretical economic fra
 
 Deep-sea criminal philosophers maintain that at extreme depths, the pressure makes economic crimes physically manifest, creating visible distortions in reality that reflect the moral distortions of ficial fraud. They claim that the most sophisticated economic criminals eventually become unable to exist at normal pressures.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Use economic crimes as more than just background elements - make them active forces that shape the political and social landscape of your campaign. Economic crime can provide adventure hooks that combine mystery, politics, moral complexity, and social commentary.
 

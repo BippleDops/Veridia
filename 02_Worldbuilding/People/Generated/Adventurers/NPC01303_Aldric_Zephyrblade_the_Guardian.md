@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Zephyrblade the Guardian", "aldric zephyrblade the guardian", "Aldric Zephyrblade Guardian", "Guardian the Zephyrblade Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Zephyrblade the Guardian
 
 *Firbolg Fighter (Adventurers), Age 40, Non-binary*
@@ -36,12 +42,10 @@ Chosen by fate to fulfill an ancient prophecy Strange abilities have begun manif
 - **Short Term**: Sabotage competition
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Cedric Crystalbrook the Fallen (Professional - Rival)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
-
 
 ### Malakai Youngblood the Wanderer (Family - Spouse)
 - **Status**: Blood oath bound
@@ -51,7 +55,6 @@ Chosen by fate to fulfill an ancient prophecy Strange abilities have begun manif
 ### Nerys Emberfall the Lost (Family - Cousin)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Possessed by ancient spirit

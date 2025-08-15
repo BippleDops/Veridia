@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Ironwood the Cunning", "jorah ironwood the cunning", "Jorah Ironwood Cunning", "Cunning the Ironwood Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Ironwood the Cunning
 
 *Elf Ranger (Adventurers), Age 47, Female*
@@ -42,21 +48,17 @@ Seeking vengeance for a murdered mentor They're being blackmailed by someone fro
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Zephyr Emberfall the Fallen (Personal - Best friend)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ### Qadim Dawnstrider the Swift (Criminal - Informant)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Jorah Winterborn the Bold (Personal - Best friend)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ### Xander Xendar the Risen (Political - Puppet)
 - **Status**: Complicated history

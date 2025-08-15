@@ -37,7 +37,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -83,7 +83,7 @@ Medical Combat Manual is a undersea element of the setting, known for biolumines
 
 Legends speak of Medical Combat Manual as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Medical Combat Manual.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -108,7 +108,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - A [[Merchant]] needs help finding before the festival
 - Someone is protecting a witness for power
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -171,9 +171,13 @@ Different cultures interpret this lore through their own lens, creating variatio
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Scaling by Party Level
 - **Level 1-4**: Reduce enemies
 - **Level 5-10**: Standard difficulty
 - **Level 11-15**: Add elite enemies
 - **Level 16-20**: Legendary difficulty
+
+## References
+
+- [[Shadow Surgeon Strike Team (Criminal_Organizations)]]
+- [[Shadow Surgeon Strike Team]]

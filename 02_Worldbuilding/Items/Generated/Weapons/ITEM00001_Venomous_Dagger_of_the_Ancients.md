@@ -1,3 +1,9 @@
+---
+aliases: ["Venomous Dagger of the Ancients", "venomous dagger of the ancients", "Venomous Dagger of Ancients", "Ancients the of Dagger Venomous"]
+tags: [item, equipment]
+type: item
+---
+
 # Venomous Dagger of the Ancients
 
 *Weapons, Legendary (requires attunement)*
@@ -16,8 +22,6 @@ A venomous dagger made of crystallized magic
 - Returns when thrown
 - +1 to attack and damage rolls
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -32,7 +36,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.342Z*

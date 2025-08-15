@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Thornweave the Cunning", "corvus thornweave the cunning", "Corvus Thornweave Cunning", "Cunning the Thornweave Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Thornweave the Cunning
 
 *Half-Elf Crime Boss (Villains), Age 74, Non-binary*
@@ -36,22 +42,18 @@ Believes their evil acts serve a greater good They've fallen in love with someon
 - **Short Term**: Make this month's payment
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Hilda Brightblade the Swift (Political - Patron)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Elric Quicksilver the Scholar (Family - Child)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
 
-
 ### Malakai Quicksilver the Risen (Criminal - Handler)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
-
 
 ### Caelum Jadeclaw the Fallen (Professional - Employee)
 - **Status**: Secretly hostile
@@ -62,11 +64,9 @@ Believes their evil acts serve a greater good They've fallen in love with someon
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Brenna Stormwind the Seeker (Personal - Ex-lover)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Believes they're saving the world

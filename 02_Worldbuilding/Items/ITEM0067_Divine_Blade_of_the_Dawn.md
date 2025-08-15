@@ -1,4 +1,5 @@
 ---
+aliases: ["Divine Blade of the Dawn", "divine blade of the dawn", "Divine Blade of Dawn", "Dawn the of Blade Divine"]
 tags: [generated]
 id: ITEM0067
 created: 2025-08-15T04:09:51.100Z
@@ -19,8 +20,6 @@ Crafted from blessed silver with delicate filigree, in showing age but sturdy. I
 
 ## Quirk
 *Changes color with user's mood*
-
-
 
 ## History
 This item was stolen from a dragon's hoard millennia ago. It has passed through many hands, each leaving their mark upon its destiny.

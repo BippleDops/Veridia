@@ -1,3 +1,9 @@
+---
+aliases: ["Infernal Ring of the Gods", "infernal ring of the gods", "Infernal Ring of Gods", "Gods the of Ring Infernal"]
+tags: [item, equipment]
+type: item
+---
+
 # Infernal Ring of the Gods
 
 *Artifacts, Very Rare*
@@ -16,8 +22,6 @@ A infernal ring pulsing with inner light
 - Grant true sight
 - Immunity to charm
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -32,7 +36,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.431Z*

@@ -1,6 +1,6 @@
 ---
 
-title: [[Economic System]]s and Currency
+title: [[Economic_System|Economic System]]s and Currency
 type: [[Lore]]
 tags:
 - economy
@@ -53,7 +53,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -117,7 +117,7 @@ The economic systems of [[Aethermoor]] and [[Aquabyssos]] represent a complex we
 
 #### Crystal Notes (Trade Currency)
 
-**Issuing Authority**: [[[[Merchant]] Princes]] Council
+**Issuing Authority**: [[Merchant|[[Merchant]] Princes]] Council
 **Backing**: High-grade crystal reserves held in secure vaults
 **Usage**: Preferred for long-distance trade and large transactions
 **Value**: Directly tied to crystal purity and quality ratings
@@ -226,7 +226,7 @@ The economic systems of [[Aethermoor]] and [[Aquabyssos]] represent a complex we
 **Dangers**:
 - Exposure causes physical and mental corruption
 - Extremely illegal in both realms
-- Sought after by dangerous cults and [[Criminal [[Organization]]s]]
+- Sought after by dangerous cults and [[Organization|Criminal [[Organization]]s]]
 - Can be traced by law enforcement using specialized magic
 
 #### Void Tokens
@@ -251,7 +251,7 @@ The economic systems of [[Aethermoor]] and [[Aquabyssos]] represent a complex we
 - Educational institution support
 
 **Secret Services**:
-- Funding for [[The [[Order of the Shattered Crown]]]]
+- Funding for [[Order of the Shattered Crown|The [[Order of the Shattered Crown]]]]
 - [[Temporal Magic Research]] investments
 - Shard acquisition ficing
 - Revolutionary planning support
@@ -552,7 +552,7 @@ Ancient texts speak of the first currencies emerging from the depths, where pres
 
 Legend holds that the most successful merchants are those who can speak the hidden languages of money - understanding not just exchange rates and profit margins, but the deeper currents of de[[Sire]], fear, and ambition that truly drive economic systems. Some say that in the deepest vaults of the richest banks, ancient coins still whisper secrets of forgotten civilizations and lost treasures.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Use the economic systems as a foundation for complex political intrigue, allowing players to engage with [[Power Structures]] through ficial means rather than just combat. The multi-layered currency systems provide opportunities for sophisticated plots involving market manipulation, cross-realm politics, and criminal enterprises. Consider how economic events can drive campaign storylines and create consequences that extend far beyond immediate ficial gain or loss.
 

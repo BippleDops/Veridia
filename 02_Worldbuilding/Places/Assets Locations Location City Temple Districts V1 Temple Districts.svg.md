@@ -174,7 +174,6 @@ Key locations marked:
 - A merchant needs help investigating before dawn
 - A prisoner has gone missing and truth emerges
 
-
 ## Adventure Seeds
 - Mysterious occurrence
 - Local conflict

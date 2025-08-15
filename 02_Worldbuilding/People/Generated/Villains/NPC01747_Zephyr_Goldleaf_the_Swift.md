@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Goldleaf the Swift", "zephyr goldleaf the swift", "Zephyr Goldleaf Swift", "Swift the Goldleaf Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Goldleaf the Swift
 
 *Gnome Crime Boss (Villains), Age 76, Non-binary*
@@ -42,26 +48,21 @@ Betrayed by those they trusted, now seeking revenge on the world They've been ma
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
 
-
 ### Nerys Oakenshield the Wise (Political - Opposition)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ### Orion Brightblade the Fallen (Family - Cousin)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Xander Voidwalker the Lost (Personal - Love interest)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Aldric Zephyrblade the Risen (Professional - Employer)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Knows how the world will end

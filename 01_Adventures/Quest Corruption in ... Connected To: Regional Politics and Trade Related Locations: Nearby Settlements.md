@@ -1,6 +1,5 @@
 ---
 
-
 title: 02_Worldbuilding/Quests/Quest - Corruption in ...
 - Connected to: Regional politics and trade
 - Related locations: Nearby settlements
@@ -20,13 +19,10 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
-
 
 ## Objectives
 ### Primary
@@ -176,7 +172,6 @@ An exciting quest that challenges heroes to uncover the truth.
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## Hooks
 - **Personal**: Character connection
 - **Professional**: Hired for the job
@@ -230,3 +225,13 @@ An exciting quest that challenges heroes to uncover the truth.
 ## Player Tips
 > 🎮 **Strategy**: How to approach this content
 > Work together and communicate
+
+## References
+
+- [[Head of Memory Integration Dr. Nautilus Depthc... Related To: Local Political Structure Connected Plots: to Be Developed]]
+- [[Compass Quest]]
+- [[Crystal Cult Temples]]
+- [[Crystal Plague Wards]]
+- [[Memoriam - The Forgotten Continent]]
+- [[The Void Tears]]
+- [[Void Currents]]

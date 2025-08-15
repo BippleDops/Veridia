@@ -1,4 +1,5 @@
 ---
+aliases: ["Celestial Wave", "celestial wave", "Wave Celestial"]
 tags: [generated]
 id: SPELL0045_Celestial_Wave
 created: 2025-08-15T04:09:51.477Z

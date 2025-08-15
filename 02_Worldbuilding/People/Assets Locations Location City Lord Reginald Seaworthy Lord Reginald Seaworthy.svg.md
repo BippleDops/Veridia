@@ -229,3 +229,7 @@ This NPC can serve multiple roles:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-master-host-torrent-welcomeall-v1-master-host-torrent-welcomeall.svg]]

@@ -195,3 +195,7 @@ This NPC can serve multiple roles:
 - **Parent**: [[Portrait NPC Quest the Sanctuary S Secret Quest the Sanctuary S Secret.svg]]
 - **Friend**: [[Generate Campaign NPCs]]
 - **Student**: [[Pirate Captain Blacktide]]
+
+## References
+
+- [[Assets Portraits Portrait NPC Captain Torrent Freewater Captain Torrent Freewater.svg]]

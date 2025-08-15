@@ -520,7 +520,7 @@ Master organizer and spiritual leader for festival activities, responsible for o
 **[[Festival Coordinator Nereid Harmony]]** - Logistics Director
 Administrative leader managing practical festival arrangements, including venue preparation, resource allocation, and inter-community coordination. Essential contact for practical festival participation and problem resolution.
 
-**[[Cultural Preservation Master Tidal Archive]]** - Traditional Knowledge Keeper
+**** - Traditional Knowledge Keeper
 Expert in traditional cultural practices and historical knowledge, responsible for ensuring cultural authenticity and educational accuracy of festival activities. Primary source for cultural education and traditional practice instruction.
 
 ### Religious and Spiritual Leadership

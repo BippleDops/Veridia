@@ -77,3 +77,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - The authorities needs help investigating before winter
 - Strange accidents suggest a portal
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Hammer of Thunderbolts Xdmg]]
+- [[hammer-of-thunderbolts-xdmg (items)]]
+- [[Armaments Uncommon Xdmg]]
+- [[Magic Item Table F]]
+- [[Random Magic Items Armaments]]
+- [[armaments-uncommon-xdmg (tables)]]
+- [[magic-item-table-f (tables)]]
+- [[random-magic-items-armaments (tables)]]

@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -80,7 +80,7 @@ Future Gardeners represents a crucial aspect of the world's history, cosmology, 
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -98,7 +98,7 @@ Future Gardeners represents a crucial aspect of the world's history, cosmology, 
 - A document has gone missing and chaos spreads
 - A letter reveals a betrayal about a local noble
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -126,3 +126,7 @@ Future Gardeners represents a crucial aspect of the world's history, cosmology, 
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Temporal Navigation (D&D_Statblocks)]]

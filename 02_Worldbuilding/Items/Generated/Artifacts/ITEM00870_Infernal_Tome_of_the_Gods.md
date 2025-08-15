@@ -1,3 +1,9 @@
+---
+aliases: ["Infernal Tome of the Gods", "infernal tome of the gods", "Infernal Tome of Gods", "Gods the of Tome Infernal"]
+tags: [item, equipment]
+type: item
+---
+
 # Infernal Tome of the Gods
 
 *Artifacts, Legendary (requires attunement)*

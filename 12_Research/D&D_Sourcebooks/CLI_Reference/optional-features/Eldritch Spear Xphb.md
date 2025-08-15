@@ -89,3 +89,28 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Soldier Xphb]]
+- [[soldier-xphb (backgrounds)]]
+- [[Sorcerer Xphb]]
+- [[sorcerer-xphb (classes)]]
+- [[Polearm Master Xphb]]
+- [[polearm-master-xphb (feats)]]
+- [[Blood Spear Cos]]
+- [[Dragongleam Hotdq]]
+- [[Quiver of Ehlonna Xdmg]]
+- [[Windvane Pota]]
+- [[blood-spear-cos (items)]]
+- [[dragongleam-hotdq (items)]]
+- [[quiver-of-ehlonna-xdmg (items)]]
+- [[windvane-pota (items)]]
+- [[List Optfeaturetype Ei]]
+- [[list-optfeaturetype-ei (lists)]]
+- [[Elf Sea Mtf]]
+- [[elf-sea-mtf (races)]]
+- [[Weapons Phb]]
+- [[Weapons Xphb]]
+- [[weapons-phb (tables)]]
+- [[weapons-xphb (tables)]]

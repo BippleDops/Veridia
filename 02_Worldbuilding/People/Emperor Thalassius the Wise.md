@@ -165,7 +165,6 @@ Standing seven feet tall even in his hunched, eternal posture, Thalassius wears 
 
 The emperor rarely leaves the Sunken Throne, a massive chamber at the heart of [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]], where the water itself bows to his will. Here, surrounded by the fossilized remains of his original court, he contemplates the eternal balance between the depths and the surface, between [[Aquabyssos]] and [[Aethermoor]], between life and undeath.
 
-
 ## Stats
 - **AC**: 12
 - **HP**: 22 (4d8)
@@ -176,7 +175,6 @@ The emperor rarely leaves the Sunken Throne, a massive chamber at the heart of [
 - **Senses**: passive Perception 11
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -339,7 +337,6 @@ For three millennia, he has maintained the delicate balance of power in the dept
 **Secondary**: Prevent the shadow corruption from consuming both realms
 **Hidden**: Find a way to truly die while ensuring the empire's continuation
 
-
 ## Secrets
 - Hidden information about this character
 - Unknown connections or past events
@@ -475,7 +472,6 @@ Mentioned in The Second Prophecy of Depths
 - 20% middle class
 - 79% working poor
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -511,3 +507,32 @@ Mentioned in The Second Prophecy of Depths
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Ancient Aquabyssos Rulers]]
+- [[Queen Seraphina Lumengarde (People)]]
+- [[The Emperor's Gambit]]
+- [[Elder Whisper-In-The-Dark]]
+- [[Harbor Master Luna Freedrift]]
+- [[Nerissa_Deepcurrent]]
+- [[Oracle]]
+- [[Senator]]
+- [[The Sorrowmaster]]
+- [[Unite the Emperor]]
+- [[Compass Quest]]
+- [[Ancient Aquabyssos Rulers (D&D_References)]]
+- [[Compass Quest (D&D_References)]]
+- [[Depth Wardens (D&D_References)]]
+- [[Discover Marina's Truth]]
+- [[Economic Systems and Currency (D&D_References)]]
+- [[Nerissa Deepcurrent (D&D_References)]]
+- [[Nerissa_Deepcurrent (D&D_References)]]
+- [[Queen Seraphina Lumengarde (D&D_References)]]
+- [[Sister Morwyn (D&D_References)]]
+- [[Unite the Emperor (D&D_References)]]
+- [[Elder Whisper-In-The-Dark (D&D_Statblocks)]]
+- [[Oracle (D&D_Statblocks)]]
+- [[Senator (D&D_Statblocks)]]
+- [[The Sorrowmaster (D&D_Statblocks)]]

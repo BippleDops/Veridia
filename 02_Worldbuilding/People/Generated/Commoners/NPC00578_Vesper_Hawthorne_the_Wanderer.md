@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Hawthorne the Wanderer", "vesper hawthorne the wanderer", "Vesper Hawthorne Wanderer", "Wanderer the Hawthorne Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Hawthorne the Wanderer
 
 *Firbolg Carpenter (Commoners), Age 46, Non-binary*
@@ -42,21 +48,17 @@ Survivor of a disaster that destroyed their village Strange abilities have begun
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Caelum Underhill the Wise (Family - Sibling)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
-
 
 ### Wynne Nightfall (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Erasmus Winterborn the Risen (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Can hear the thoughts of others

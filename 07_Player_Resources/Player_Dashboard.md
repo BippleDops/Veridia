@@ -99,7 +99,6 @@ SORT relationship DESC
 
 Contextual improvement based on 07_Player_Resources
 
-
 ## Alternate Descriptions
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination

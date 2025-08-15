@@ -62,3 +62,8 @@ Mentioned in The Second Prophecy of Winds
 - A shipment has gone missing and chaos spreads
 - A merchant needs help delivering before the new moon
 - Strange disappearances suggest ancient magic
+
+## References
+
+- [[Original Glaucus]]
+- [[Original Glaucus (D&D_References)]]

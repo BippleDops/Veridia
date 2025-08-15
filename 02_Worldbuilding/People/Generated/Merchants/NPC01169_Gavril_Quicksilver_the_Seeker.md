@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Quicksilver the Seeker", "gavril quicksilver the seeker", "Gavril Quicksilver Seeker", "Seeker the Quicksilver Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Quicksilver the Seeker
 
 *Half-Elf Trader (Merchants), Age 23, Non-binary*
@@ -36,7 +42,6 @@ Part of a merchant family with connections everywhere A chance encounter last wi
 - **Short Term**: Sabotage competition
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Brenna Keenblade the Cunning (Criminal - Handler)
 - **Status**: On the verge of collapse
@@ -47,7 +52,6 @@ Part of a merchant family with connections everywhere A chance encounter last wi
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
 
-
 ### Fiora Grimholt the Cunning (Political - Puppet)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
@@ -57,7 +61,6 @@ Part of a merchant family with connections everywhere A chance encounter last wi
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Hestara Stormwind the Wise (Personal - Nemesis)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
@@ -66,7 +69,6 @@ Part of a merchant family with connections everywhere A chance encounter last wi
 ### Urien Dawnstrider the Cunning (Criminal - Informant)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Sells information to all sides

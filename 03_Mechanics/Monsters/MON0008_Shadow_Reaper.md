@@ -1,4 +1,5 @@
 ---
+aliases: ["Shadow Reaper", "shadow reaper", "Reaper Shadow"]
 tags: [generated]
 id: MON0008_Shadow_Reaper
 created: 2025-08-15T04:09:51.423Z
@@ -26,7 +27,6 @@ A collective consciousness acting as one
 
 ---
 *Generated: 2025-08-15T03:21:47.462Z*
-
 
 ## Habitat
 - Natural environment and territories

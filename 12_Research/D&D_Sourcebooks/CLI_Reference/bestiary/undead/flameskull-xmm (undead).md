@@ -45,3 +45,16 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[7 Appendix B Monsters]]
+- [[7-appendix-b-monsters (lost-mine-of-phandelver)]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[Random Hag Minions Servants Vgm]]
+- [[Underdark Encounters Levels 1116 Xge]]
+- [[Underdark Encounters Levels 14 Xge]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]
+- [[random-hag-minions-servants-vgm (tables)]]
+- [[underdark-encounters-levels-1116-xge (tables)]]
+- [[underdark-encounters-levels-14-xge (tables)]]

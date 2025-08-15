@@ -125,3 +125,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[03 Races]]
+- [[03-races (players-handbook-2014)]]
+- [[Elven Accuracy Xge]]
+- [[elven-accuracy-xge (feats)]]
+- [[Random Height and Weight Phb]]
+- [[random-height-and-weight-phb (tables)]]

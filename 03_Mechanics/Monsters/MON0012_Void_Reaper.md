@@ -1,4 +1,5 @@
 ---
+aliases: ["Void Reaper", "void reaper", "Reaper Void"]
 tags: [generated]
 id: MON0012_Void_Reaper
 created: 2025-08-15T04:09:51.424Z
@@ -27,7 +28,6 @@ A creature from another plane of existence
 
 ---
 *Generated: 2025-08-15T03:21:47.462Z*
-
 
 ## Habitat
 - Natural environment and territories

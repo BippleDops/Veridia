@@ -143,3 +143,21 @@ Mentioned in The First Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[lizardfolk-geomancer-xmm (elemental)]]
+- [[Forest Encounters Levels 14 Xge]]
+- [[Forest Encounters Levels 510 Xge]]
+- [[Monster Conversions Stat Block Conversions]]
+- [[Monsters by Habitat Forest Monsters Xmm]]
+- [[Monsters by Habitat Swamp Monsters Xmm]]
+- [[Swamp Encounters Levels 14 Xge]]
+- [[Swamp Encounters Levels 510 Xge]]
+- [[forest-encounters-levels-14-xge (tables)]]
+- [[forest-encounters-levels-510-xge (tables)]]
+- [[monster-conversions-stat-block-conversions-xmm]]
+- [[monsters-by-habitat-forest-monsters-xmm (tables)]]
+- [[monsters-by-habitat-swamp-monsters-xmm (tables)]]
+- [[swamp-encounters-levels-14-xge (tables)]]
+- [[swamp-encounters-levels-510-xge (tables)]]

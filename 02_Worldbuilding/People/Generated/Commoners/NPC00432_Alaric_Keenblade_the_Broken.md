@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Keenblade the Broken", "alaric keenblade the broken", "Alaric Keenblade Broken", "Broken the Keenblade Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Keenblade the Broken
 
 *Human Farmer (Commoners), Age 27, Female*
@@ -36,7 +42,6 @@ Grew up in poverty but discovered a talent that might change everything A chance
 - **Short Term**: Avoid the authorities
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Urien Oakenshield the Fallen (Political - Spy)
 - **Status**: Professional only
@@ -61,7 +66,6 @@ Grew up in poverty but discovered a talent that might change everything A chance
 ### Kaelen Ashford the Mystic (Family - Sibling)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Has dragon blood in their veins

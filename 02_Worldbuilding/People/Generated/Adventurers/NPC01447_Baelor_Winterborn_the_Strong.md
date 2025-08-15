@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Winterborn the Strong", "baelor winterborn the strong", "Baelor Winterborn Strong", "Strong the Winterborn Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Winterborn the Strong
 
 *Dragonborn Cleric (Adventurers), Age 24, Female*
@@ -13,7 +19,6 @@
 Towering and lanky, with Wild and unkempt bald hair and Violet eyes. Scarred skin. Missing finger on left hand.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Incredibly optimistic despite evidence; Never backs down from any challenge
@@ -42,7 +47,6 @@ Seeking vengeance for a murdered mentor An old debt has come due at the worst po
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Baelor Dawnstrider the Swift (Family - Parent)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
@@ -56,7 +60,6 @@ Seeking vengeance for a murdered mentor An old debt has come due at the worst po
 ### Dara Ironwood the Broken (Personal - Love interest)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Carries a world-ending artifact

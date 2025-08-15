@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-morgrim-lastvessel-captain-morgrim-lastvessel.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -207,7 +205,6 @@ Member of House Eagleblood - Trait: curse
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -277,3 +274,9 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Art Brother Matthias Inkdrinker.png]]
+- [[Assets Locations Location City the Luminous Dawn Cathedral the Luminous Dawn Cathedral.svg]]
+- [[Assets Symbols Symbol Heraldry Quest the Family Reconciliatio Quest the Family Reconciliatio.svg]]

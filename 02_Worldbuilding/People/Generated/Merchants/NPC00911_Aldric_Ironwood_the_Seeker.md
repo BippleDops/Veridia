@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Ironwood the Seeker", "aldric ironwood the seeker", "Aldric Ironwood Seeker", "Seeker the Ironwood Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Ironwood the Seeker
 
 *Halfling Caravan Master (Merchants), Age 53, Female*
@@ -36,27 +42,22 @@ Built their business from nothing through cunning and hard work They've been mar
 - **Short Term**: Make this month's payment
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Faelyn Underhill the Seeker (Criminal - Handler)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
 
-
 ### Lyanna Blackstone the Scholar (Criminal - Handler)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ### Baelor Voidwalker the Seeker (Family - Parent)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Thalia Hawthorne the Seeker (Professional - Employer)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Killed previous business owner

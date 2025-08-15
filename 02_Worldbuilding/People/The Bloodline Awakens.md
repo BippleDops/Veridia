@@ -49,7 +49,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-bloodline-awakens-the-bloodline-awakens.svg)
 
@@ -60,7 +59,6 @@ improvements: 20
 
 > *"The blood remembers what the mind forgets. In the depths where pressure crushes hope and darkness devours light, the old powers stir. Children of forgotten lineages suddenly manifest abilities their ancestors wielded in ages past. But power without understanding is a curse that transforms blessing into nightmare."*
 > — Archives of the [[Archivist Mnemonic the Forgotten]]
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -884,7 +882,6 @@ Mentioned in The Second Prophecy of Depths
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -920,3 +917,9 @@ Mentioned in The Second Prophecy of Depths
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Dream Enhancement Techniques Dream Enhancement Techniques.svg]]
+- [[Marina-Red-Tide-Coralheart]]
+- [[Marina-Red-Tide-Coralheart (D&D_References)]]

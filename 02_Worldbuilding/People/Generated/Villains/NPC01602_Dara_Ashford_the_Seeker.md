@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Ashford the Seeker", "dara ashford the seeker", "Dara Ashford Seeker", "Seeker the Ashford Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Ashford the Seeker
 
 *Tiefling Assassin (Villains), Age 69, Non-binary*
@@ -13,7 +19,6 @@
 Towering and imposing, with Carefully styled brown hair and Heterochromic eyes. Unusual hue skin. Constantly changing hair color.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Flirts with everyone regardless of interest; Always speaks in metaphors and riddles
@@ -36,7 +41,6 @@ Driven mad by knowledge humanity wasn't meant to know A chance encounter last wi
 - **Short Term**: Sabotage competition
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Solas Ashford the Fallen (Professional - Mentor)
 - **Status**: On the verge of collapse
@@ -47,11 +51,9 @@ Driven mad by knowledge humanity wasn't meant to know A chance encounter last wi
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Qadim Crystalbrook the Risen (Family - Cousin)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ### Elric Goldleaf the Strong (Criminal - Informant)
 - **Status**: Strong and trusting
@@ -61,7 +63,6 @@ Driven mad by knowledge humanity wasn't meant to know A chance encounter last wi
 ### Erasmus Dawnstrider the Wise (Political - Patron)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ### Gavril Quicksilver the Lost (Personal - Childhood friend)
 - **Status**: Recently reconciled

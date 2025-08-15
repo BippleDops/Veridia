@@ -153,3 +153,33 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A shipment has gone missing and truth emerges
 - A prisoner has gone missing and war looms
+
+## References
+
+- [[7 Appendix B Monsters]]
+- [[7-appendix-b-monsters (lost-mine-of-phandelver)]]
+- [[Flaming Skeleton Xmm]]
+- [[Skeleton Xmm]]
+- [[Skull Lord Mpmm]]
+- [[skeleton-xmm (undead)]]
+- [[skull-lord-mpmm (undead)]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[10-appendix-b-creature-stat-blocks (players-handbook-2024)]]
+- [[Pact of the Chain Xphb]]
+- [[pact-of-the-chain-xphb (optional-features)]]
+- [[Animate Dead Xphb]]
+- [[Danse Macabre Xge]]
+- [[animate-dead-xphb (spells)]]
+- [[danse-macabre-xge (spells)]]
+- [[Desert Encounters Levels 1116 Xge]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[Monsters by Habitat Urban Monsters Xmm]]
+- [[Random Yuan Ti Servants Yuan Ti Protectors]]
+- [[Urban Encounters Levels 14 Xge]]
+- [[Urban Encounters Levels 510 Xge]]
+- [[desert-encounters-levels-1116-xge (tables)]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]
+- [[monsters-by-habitat-urban-monsters-xmm (tables)]]
+- [[random-yuan-ti-servants-yuan-ti-protectors-vgm]]
+- [[urban-encounters-levels-14-xge (tables)]]
+- [[urban-encounters-levels-510-xge (tables)]]

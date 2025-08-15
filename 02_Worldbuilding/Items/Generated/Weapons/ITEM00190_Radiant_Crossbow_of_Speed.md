@@ -1,3 +1,9 @@
+---
+aliases: ["Radiant Crossbow of Speed", "radiant crossbow of speed", "Speed of Crossbow Radiant"]
+tags: [item, equipment]
+type: item
+---
+
 # Radiant Crossbow of Speed
 
 *Weapons, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A radiant crossbow forged from meteoric iron
 - +1 to attack and damage rolls
 - Grants advantage on initiative
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -31,7 +35,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.359Z*

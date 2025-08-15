@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Jadeclaw the Guardian", "corvus jadeclaw the guardian", "Corvus Jadeclaw Guardian", "Guardian the Jadeclaw Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Jadeclaw the Guardian
 
 *Half-Elf Dark Wizard (Villains), Age 70, Female*
@@ -42,16 +48,13 @@ Driven mad by knowledge humanity wasn't meant to know A chance encounter last wi
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Caelum Winterborn the Cunning (Professional - Employer)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
 
-
 ### Felicia Keenblade the Wise (Personal - Best friend)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Knows how the world will end

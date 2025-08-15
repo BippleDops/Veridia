@@ -1,12 +1,12 @@
 ---
 aliases:
-- location city diplomatic protocol center v1 diplomatic protocol centersvg
+- [[location|location]] city [[Diplomatic Protocol Center|Diplomatic Protocol Center]] v1 diplomatic protocol centersvg
 created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
 population: Unknown
-region: Unknown
+[[region|region]]: Unknown
 tags:
 - location
 title: Location City Diplomatic Protocol Center V1 Diplomatic Protocol Center.svg
@@ -34,7 +34,7 @@ Established generations ago, Location City Diplomatic Protocol Center V1 Diploma
 ## Inhabitants
 - **Permanent Residents**: Various individuals who maintain the location
 - **Regular Visitors**: Merchants, travelers, and locals
-- **Notable Figures**: [[Local Leader]], [[Merchant Representative]]
+- **Notable Figures**: [[Local Leader]], [[Merchant|Merchant]] Representative]]
 
 ## Services & Features
 - Basic amenities for travelers
@@ -55,5 +55,8 @@ Recent developments have brought new attention to Location City Diplomatic Proto
 2. Missing person last seen here
 3. Secret meeting scheduled to take place
 
-## DM Notes
-*Location City Diplomatic Protocol Center V1 Diplomatic Protocol Center.svg can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+## [[DM_Notes|DM Notes]]
+*Location City Diplomatic Protocol Center V1 Diplomatic Protocol Center.svg can be customized to fit campaign needs. Consider adding unique [[npcs|npcs]] or plot elements.*
+
+---
+**Navigation**: [[INDEX|🏠 Home]] | [[location|📍 Locations]] | [[INDEX|📚 Index]]

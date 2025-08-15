@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Darkwater the Risen", "malakai darkwater the risen", "Malakai Darkwater Risen", "Risen the Darkwater Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Darkwater the Risen
 
 *Tiefling Dark Wizard (Villains), Age 68, Female*
@@ -36,22 +42,18 @@ Betrayed by those they trusted, now seeking revenge on the world A prophetic dre
 - **Short Term**: Sabotage competition
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Aeliana Oakenshield the Wise (Criminal - Target)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Aeliana Ashford the Strong (Political - Puppet)
 - **Status**: Professional only
 - **History**: United by common enemy
 
-
 ### Alaric Emberfall the Wise (Family - Parent)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Has a child they're protecting

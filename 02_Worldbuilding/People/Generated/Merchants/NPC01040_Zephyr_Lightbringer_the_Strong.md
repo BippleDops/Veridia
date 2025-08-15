@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Lightbringer the Strong", "zephyr lightbringer the strong", "Zephyr Lightbringer Strong", "Strong the Lightbringer Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Lightbringer the Strong
 
 *Tabaxi Appraiser (Merchants), Age 50, Male*
@@ -13,7 +19,6 @@
 Above average and stocky, with Mohawk white hair and Heterochromic eyes. Olive skin. Gold tooth that glints when smiling.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Always hungry and eating something
@@ -36,7 +41,6 @@ Former adventurer who retired to open a shop An old debt has come due at the wor
 - **Short Term**: Survive until next week
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Thalia Jadeclaw the Risen (Personal - Ex-lover)
 - **Status**: One-sided affection
@@ -56,7 +60,6 @@ Former adventurer who retired to open a shop An old debt has come due at the wor
 ### Wynne Winterborn the Swift (Personal - Love interest)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Running a cult from their basement

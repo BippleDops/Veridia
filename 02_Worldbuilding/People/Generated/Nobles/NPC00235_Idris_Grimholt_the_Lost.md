@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Grimholt the Lost", "idris grimholt the lost", "Idris Grimholt Lost", "Lost the Grimholt Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Grimholt the Lost
 
 *Half-Orc Noble (Nobles), Age 68, Female*
@@ -36,17 +42,14 @@ Secretly adopted into nobility, living in fear of discovery They've made a deal 
 - **Short Term**: Find missing person
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Lyanna Darkwater (Family - Sibling)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Malakai Oakenshield the Mystic (Family - Child)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ### Erasmus Ironforge the Cunning (Criminal - Fence)
 - **Status**: Complicated history
@@ -57,11 +60,9 @@ Secretly adopted into nobility, living in fear of discovery They've made a deal 
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Hestara Keenblade (Family - Spouse)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

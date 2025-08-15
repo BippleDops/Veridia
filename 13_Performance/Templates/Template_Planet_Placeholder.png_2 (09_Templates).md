@@ -55,3 +55,7 @@ Recent developments have brought new attention to Template_Planet_Placeholder.pn
 
 ## DM Notes
 *Template_Planet_Placeholder.png_2 can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
+
+## References
+
+- [[Merchant Representative]]

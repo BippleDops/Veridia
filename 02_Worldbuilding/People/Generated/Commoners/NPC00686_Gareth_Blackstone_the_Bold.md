@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Blackstone the Bold", "gareth blackstone the bold", "Gareth Blackstone Bold", "Bold the Blackstone Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Blackstone the Bold
 
 *Tabaxi Blacksmith (Commoners), Age 25, Male*

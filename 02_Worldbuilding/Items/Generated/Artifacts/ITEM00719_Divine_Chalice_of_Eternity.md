@@ -1,3 +1,9 @@
+---
+aliases: ["Divine Chalice of Eternity", "divine chalice of eternity", "Eternity of Chalice Divine"]
+tags: [item, equipment]
+type: item
+---
+
 # Divine Chalice of Eternity
 
 *Artifacts, Legendary*
@@ -16,8 +22,6 @@ A divine chalice radiating otherworldly power
 - Plane shift 1/day
 - Telepathy 120 ft
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -32,7 +36,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.419Z*

@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Darkwater the Strong", "gavril darkwater the strong", "Gavril Darkwater Strong", "Strong the Darkwater Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Darkwater the Strong
 
 *Gnome Dark Wizard (Villains), Age 47, Male*
@@ -13,7 +19,6 @@
 Tall and athletic, with Partially shaved blonde hair and Hazel eyes. Unusual hue skin. Unusual eye color for their race.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Speaks to inanimate objects
@@ -36,7 +41,6 @@ Betrayed by those they trusted, now seeking revenge on the world A chance encoun
 - **Short Term**: Gather information
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Pyria Dawnstrider the Scholar (Political - Patron)
 - **Status**: Professional only
@@ -47,21 +51,17 @@ Betrayed by those they trusted, now seeking revenge on the world A chance encoun
 - **Status**: Secretly hostile
 - **History**: United by common enemy
 
-
 ### Aldric Keenblade the Risen (Criminal - Informant)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
-
 
 ### Erasmus Ravenheart the Strong (Professional - Mentor)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Orion Quicksilver the Risen (Professional - Partner)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Is being controlled by darker force

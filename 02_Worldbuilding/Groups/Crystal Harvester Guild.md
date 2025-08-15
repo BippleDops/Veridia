@@ -62,3 +62,8 @@ This content can be adapted and expanded based on specific campaign needs.
 ### Membership
 - **Size**: *[Approximate number of members]*
 - **Recruitment**: *[How they recruit new members]*
+
+## References
+
+- [[Pressure Adaptation System]]
+- [[Pressure Adaptation System (D&D_References)]]

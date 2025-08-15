@@ -100,7 +100,7 @@ improvements: 20
 **Who was directly affected:**
 - **[[Silverscale Consortium]]**: Core operations exposed, leadership under investigation
 - **[[Director Hadrian Silverscale]]**: Public reputation destroyed, criminal charges pending
-- **[[Marina-Red-Tide-[[Coral]]heart]]**: Identity as [[Depth Guard]] revealed, becomes key witness
+- **[[Coral|Marina-Red-Tide-[[Coral]]heart]]**: Identity as [[Depth Guard]] revealed, becomes key witness
 - **[[Queen Seraphina]] [[Lumengarde]]]]**: Authority challenged by corporate overreach
 - **[[Vex Shadowthorn]]**: Operations disrupted, forced underground
 - **Nobles with Silverscale debts**: Ficial leverage exposed, political autonomy threatened

@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Youngblood the Bold", "idris youngblood the bold", "Idris Youngblood Bold", "Bold the Youngblood Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Youngblood the Bold
 
 *Dragonborn Courtier (Nobles), Age 45, Female*
@@ -42,21 +48,17 @@ Exiled from their homeland, trying to rebuild their power base A prophetic dream
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Hestara Quicksilver (Family - Cousin)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ### Faelyn Grimholt (Professional - Employer)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Idris Zephyrblade (Personal - Best friend)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Practicing forbidden magic

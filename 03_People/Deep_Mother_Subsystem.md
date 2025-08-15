@@ -8,7 +8,7 @@ type: npc
 
 ## Portrait
 
-![[Deep Mother Subsystem]]
+![[Deep_Mother_Subsystem|Deep Mother Subsystem]]
 
 * Portrait reference for Deep_Mother_Subsystem*
 
@@ -274,7 +274,6 @@ creature: Custom NPC
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
 
-
 ## See Also
 - Related content
 - Similar topics
@@ -302,3 +301,7 @@ status: active
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition
+
+## References
+
+- [[Complete Deep Mother Subsystem]]

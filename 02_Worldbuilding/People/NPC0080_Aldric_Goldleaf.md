@@ -1,11 +1,11 @@
 ---
+aliases: ["Aldric Goldleaf", "aldric goldleaf", "Goldleaf Aldric"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -74,8 +74,6 @@ Born into a noble family but cast out for scandal. Years ago, they accidentally 
 ### Skills
 Insight, Perception, Arcana
 
-
-
 ## Possessions
 - 45 gold pieces
 - Set of thieves' tools
@@ -90,7 +88,6 @@ Insight, Perception, Arcana
 
 ---
 *Generated: 2025-08-15T03:21:04.035Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

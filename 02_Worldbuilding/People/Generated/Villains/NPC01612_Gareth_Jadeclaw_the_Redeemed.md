@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Jadeclaw the Redeemed", "gareth jadeclaw the redeemed", "Gareth Jadeclaw Redeemed", "Redeemed the Jadeclaw Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Jadeclaw the Redeemed
 
 *Firbolg Corrupt Noble (Villains), Age 46, Male*
@@ -42,7 +48,6 @@ Believes their evil acts serve a greater good They've made a deal they're beginn
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Drusilla Thornweave the Wise (Professional - Partner)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
@@ -51,7 +56,6 @@ Believes their evil acts serve a greater good They've made a deal they're beginn
 ### Delara Ashford the Guardian (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ### Fiora Brightblade the Swift (Criminal - Fence)
 - **Status**: One-sided affection

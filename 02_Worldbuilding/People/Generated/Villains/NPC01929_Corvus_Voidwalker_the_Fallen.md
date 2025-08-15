@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Voidwalker the Fallen", "corvus voidwalker the fallen", "Corvus Voidwalker Fallen", "Fallen the Voidwalker Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Voidwalker the Fallen
 
 *Half-Orc Cultist (Villains), Age 28, Female*
@@ -36,27 +42,22 @@ Believes their evil acts serve a greater good They're being blackmailed by someo
 - **Short Term**: Avoid the authorities
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Idris Darkwater the Mystic (Family - Cousin)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Brenna Brightblade the Mystic (Family - Child)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ### Ewan Moonshadow the Fallen (Criminal - Fence)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Aeliana Darkwater the Redeemed (Criminal - Target)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Knows how the world will end

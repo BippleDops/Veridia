@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Hawthorne", "urien hawthorne", "Hawthorne Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Hawthorne
 
 *Aasimar Courtier (Nobles), Age 45, Male*
@@ -36,7 +42,6 @@ Recently elevated to nobility through service, still learning courtly ways A fam
 - **Short Term**: Find missing person
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Wynne Emberfall (Political - Opposition)
 - **Status**: Secretly hostile
@@ -47,11 +52,9 @@ Recently elevated to nobility through service, still learning courtly ways A fam
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
 
-
 ### Malakai Ironforge (Political - Ally)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Child from scandalous affair

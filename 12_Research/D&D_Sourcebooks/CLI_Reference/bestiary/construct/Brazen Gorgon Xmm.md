@@ -48,3 +48,32 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Forest Encounters Levels 1116 Xge]]
+- [[Forest Encounters Levels 14 Xge]]
+- [[Forest Encounters Levels 1720 Xge]]
+- [[Forest Encounters Levels 510 Xge]]
+- [[Grassland Encounters Levels 1116 Xge]]
+- [[Grassland Encounters Levels 15 Xge]]
+- [[Grassland Encounters Levels 1720 Xge]]
+- [[Hill Encounters Levels 1116 Xge]]
+- [[Hill Encounters Levels 1720 Xge]]
+- [[Hill Encounters Levels 510 Xge]]
+- [[Monsters by Habitat Forest Monsters Xmm]]
+- [[Monsters by Habitat Grassland Monsters Xmm]]
+- [[Monsters by Habitat Hill Monsters Xmm]]
+- [[forest-encounters-levels-1116-xge (tables)]]
+- [[forest-encounters-levels-14-xge (tables)]]
+- [[forest-encounters-levels-1720-xge (tables)]]
+- [[forest-encounters-levels-510-xge (tables)]]
+- [[grassland-encounters-levels-1116-xge (tables)]]
+- [[grassland-encounters-levels-15-xge (tables)]]
+- [[grassland-encounters-levels-1720-xge (tables)]]
+- [[hill-encounters-levels-1116-xge (tables)]]
+- [[hill-encounters-levels-1720-xge (tables)]]
+- [[hill-encounters-levels-510-xge (tables)]]
+- [[monsters-by-habitat-forest-monsters-xmm (tables)]]
+- [[monsters-by-habitat-grassland-monsters-xmm (tables)]]
+- [[monsters-by-habitat-hill-monsters-xmm (tables)]]

@@ -169,3 +169,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[efreeti-xmm (elemental)]]
+- [[Efreeti Bottle Xdmg]]
+- [[Iron Flask Xdmg]]
+- [[efreeti-bottle-xdmg (items)]]
+- [[iron-flask-xdmg (items)]]
+- [[Desert Encounters Levels 1116 Xge]]
+- [[Desert Encounters Levels 1720 Xge]]
+- [[Desert Encounters Levels 510 Xge]]
+- [[desert-encounters-levels-1116-xge (tables)]]
+- [[desert-encounters-levels-1720-xge (tables)]]
+- [[desert-encounters-levels-510-xge (tables)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Enchanted Leather of Fortitude", "enchanted leather of fortitude", "Fortitude of Leather Enchanted"]
+tags: [item, equipment]
+type: item
+---
+
 # Enchanted Leather of Fortitude
 
 *Armor, Very Rare*

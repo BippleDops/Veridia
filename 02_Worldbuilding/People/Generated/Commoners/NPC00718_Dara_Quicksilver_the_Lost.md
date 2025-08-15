@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Quicksilver the Lost", "dara quicksilver the lost", "Dara Quicksilver Lost", "Lost the Quicksilver Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Quicksilver the Lost
 
 *Firbolg Carpenter (Commoners), Age 58, Female*
@@ -36,7 +42,6 @@ Former soldier trying to adjust to civilian life A family member's death has lef
 - **Short Term**: Avoid the authorities
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Pyria Ashford the Risen (Political - Opposition)
 - **Status**: Complicated history
@@ -52,16 +57,13 @@ Former soldier trying to adjust to civilian life A family member's death has lef
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
 
-
 ### Faelyn Underhill the Redeemed (Family - Child)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Jorah Lightbringer the Broken (Family - Child)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Witnessed a noble's crime

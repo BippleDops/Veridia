@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Winterborn the Swift", "gavril winterborn the swift", "Gavril Winterborn Swift", "Swift the Winterborn Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Winterborn the Swift
 
 *Gnome Trader (Merchants), Age 22, Female*
@@ -36,12 +42,10 @@ Built their business from nothing through cunning and hard work They've been mar
 - **Short Term**: Complete current contract
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Zephyr Zephyrblade the Lost (Professional - Employee)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ### Nerys Stormwind the Wanderer (Criminal - Target)
 - **Status**: Professional only
@@ -52,16 +56,13 @@ Built their business from nothing through cunning and hard work They've been mar
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
 
-
 ### Rhiannon Youngblood the Broken (Personal - Love interest)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
 ### Felicia Ashford the Mystic (Criminal - Target)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Running a cult from their basement

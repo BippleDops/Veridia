@@ -110,7 +110,6 @@ Things widely suspected
 - 20% middle class
 - 79% working poor
 
-
 ## Scaling by Party Level
 - **Level 1-4**: Reduce enemies
 - **Level 5-10**: Standard difficulty

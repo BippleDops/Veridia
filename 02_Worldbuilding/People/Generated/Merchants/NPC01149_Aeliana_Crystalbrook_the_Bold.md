@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Crystalbrook the Bold", "aeliana crystalbrook the bold", "Aeliana Crystalbrook Bold", "Bold the Crystalbrook Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Crystalbrook the Bold
 
 *Firbolg Trader (Merchants), Age 37, Male*
@@ -36,7 +42,6 @@ Former adventurer who retired to open a shop Strange abilities have begun manife
 - **Short Term**: Sabotage competition
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Wynne Youngblood the Redeemed (Family - Spouse)
 - **Status**: Mutually beneficial
@@ -47,21 +52,17 @@ Former adventurer who retired to open a shop Strange abilities have begun manife
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
 
-
 ### Erasmus Crystalbrook the Guardian (Professional - Employee)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ### Brenna Frostwhisper the Scholar (Personal - Best friend)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Xander Darkwater the Broken (Professional - Partner)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Killed previous business owner

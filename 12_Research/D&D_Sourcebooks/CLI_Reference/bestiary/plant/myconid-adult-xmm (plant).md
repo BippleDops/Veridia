@@ -132,3 +132,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Strange disappearances suggest a portal
 - Strange accidents suggest ancient magic
+
+## References
+
+- [[Myconid Adult Xmm]]
+- [[Thorny Vegepygmy Mpmm]]
+- [[Vegepygmy Chief Mpmm]]
+- [[Vegepygmy Mpmm]]
+- [[thorny-vegepygmy-mpmm (plant)]]
+- [[vegepygmy-chief-mpmm (plant)]]
+- [[vegepygmy-mpmm (plant)]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[Underdark Encounters Levels 14 Xge]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]
+- [[underdark-encounters-levels-14-xge (tables)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Xendar the Wise", "lyanna xendar the wise", "Lyanna Xendar Wise", "Wise the Xendar Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Xendar the Wise
 
 *Aasimar Rogue (Adventurers), Age 48, Female*
@@ -13,7 +19,6 @@
 Tall and muscular, with Braided elaborately red hair and Heterochromic eyes. Scarred skin. Birthmark shaped like a constellation.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Always speaks in metaphors and riddles; Sees doom and gloom everywhere
@@ -36,7 +41,6 @@ Seeking vengeance for a murdered mentor A family member's death has left them wi
 - **Short Term**: Gather information
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Gareth Moonshadow the Guardian (Political - Ally)
 - **Status**: On the verge of collapse
@@ -47,11 +51,9 @@ Seeking vengeance for a murdered mentor A family member's death has left them wi
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Gavril Ashford the Guardian (Family - Cousin)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ### Delara Ravenheart the Strong (Family - Cousin)
 - **Status**: Blood oath bound
@@ -66,7 +68,6 @@ Seeking vengeance for a murdered mentor A family member's death has left them wi
 ### Kaelen Moonshadow the Wise (Political - Opposition)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Possessed by ancient spirit

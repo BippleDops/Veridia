@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Lightbringer the Bold", "aldric lightbringer the bold", "Aldric Lightbringer Bold", "Bold the Lightbringer Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Lightbringer the Bold
 
 *Goliath Corrupt Noble (Villains), Age 41, Non-binary*
@@ -36,32 +42,26 @@ Driven mad by knowledge humanity wasn't meant to know An old debt has come due a
 - **Short Term**: Gather information
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Qadim Silverleaf the Guardian (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Corvus Proudmore the Guardian (Criminal - Accomplice)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ### Drusilla Voidwalker the Fallen (Family - Cousin)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
 
-
 ### Malakai Oakenshield the Risen (Criminal - Handler)
 - **Status**: Complicated history
 - **History**: United by common enemy
 
-
 ### Solas Ravenheart the Strong (Criminal - Informant)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Knows how the world will end

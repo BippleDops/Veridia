@@ -1,3 +1,9 @@
+---
+aliases: ["Refined Oil of Clarity", "refined oil of clarity", "Clarity of Oil Refined"]
+tags: [item, equipment]
+type: item
+---
+
 # Refined Oil of Clarity
 
 *Consumables, Uncommon*
@@ -14,8 +20,6 @@ A refined oil glowing softly
 - Resistance for 10 minutes
 - Restore 4d4+4 hit points
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -30,7 +34,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.460Z*

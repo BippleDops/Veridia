@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Crystalbrook the Guardian", "qadim crystalbrook the guardian", "Qadim Crystalbrook Guardian", "Guardian the Crystalbrook Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Crystalbrook the Guardian
 
 *Gnome Assassin (Villains), Age 26, Female*
@@ -13,7 +19,6 @@
 Average height and heavyset, with Long and flowing black hair and Black eyes. Pale skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Flirts with everyone regardless of interest
@@ -36,7 +41,6 @@ Betrayed by those they trusted, now seeking revenge on the world They've been ma
 - **Short Term**: Complete current contract
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Erasmus Voidwalker the Risen (Criminal - Informant)
 - **Status**: Blood oath bound
@@ -46,7 +50,6 @@ Betrayed by those they trusted, now seeking revenge on the world They've been ma
 ### Hilda Ironforge the Wise (Family - Sibling)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ### Kaelen Lightbringer the Cunning (Professional - Employee)
 - **Status**: Mutually beneficial

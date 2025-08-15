@@ -229,3 +229,8 @@ What they claim to pursue
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Reputation System]]
+- [[The Living Weapon]]

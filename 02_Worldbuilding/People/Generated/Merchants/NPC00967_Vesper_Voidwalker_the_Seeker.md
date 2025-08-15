@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Voidwalker the Seeker", "vesper voidwalker the seeker", "Vesper Voidwalker Seeker", "Seeker the Voidwalker Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Voidwalker the Seeker
 
 *Elf Caravan Master (Merchants), Age 55, Non-binary*
@@ -36,7 +42,6 @@ Inherited a failing business and turned it around A prophetic dream has been hau
 - **Short Term**: Sabotage competition
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Fiora Brightblade the Wise (Personal - Ex-lover)
 - **Status**: On the verge of collapse
@@ -51,7 +56,6 @@ Inherited a failing business and turned it around A prophetic dream has been hau
 ### Solas Ironwood the Risen (Personal - Nemesis)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
-
 
 ### Solas Moonshadow the Mystic (Professional - Rival)
 - **Status**: Complicated history

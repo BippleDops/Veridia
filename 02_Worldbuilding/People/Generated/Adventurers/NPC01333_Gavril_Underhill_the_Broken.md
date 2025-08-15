@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Underhill the Broken", "gavril underhill the broken", "Gavril Underhill Broken", "Broken the Underhill Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Underhill the Broken
 
 *Firbolg Ranger (Adventurers), Age 24, Female*
@@ -47,11 +53,9 @@ Running from a dark past that won't stay buried A family member's death has left
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Drusilla Winterborn the Strong (Family - Spouse)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
-
 
 ### Lyanna Goldleaf the Bold (Political - Patron)
 - **Status**: Strained but maintaining
@@ -61,7 +65,6 @@ Running from a dark past that won't stay buried A family member's death has left
 ### Xander Hawthorne the Wanderer (Personal - Ex-lover)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Carries a world-ending artifact

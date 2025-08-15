@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Zephyrblade", "urien zephyrblade", "Zephyrblade Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Zephyrblade
 
 *Dwarf Courtier (Nobles), Age 43, Female*
@@ -36,17 +42,14 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Short Term**: Recruit new members
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Pyria Ravenheart the Lost (Personal - Love interest)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Ewan Blackstone (Criminal - Accomplice)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ### Thalia Goldleaf (Political - Spy)
 - **Status**: On the verge of collapse
@@ -62,11 +65,9 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
 
-
 ### Orion Stormwind (Political - Spy)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Child from scandalous affair

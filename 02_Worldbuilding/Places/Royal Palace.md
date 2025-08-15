@@ -53,7 +53,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -113,7 +113,7 @@ improvements: 20
 
 ### The Golden Expansion
 
-**[[[[Time]]line]]**: 500-400 years ago, major expansion under Queen Marina the Magnificent  
+**[[Time|[[Time]]line]]**: 500-400 years ago, major expansion under Queen Marina the Magnificent  
 **Growth**: Palace size tripled with addition of [[Administrative Wing]]s  
 **Art**: Golden age of underwater artistic achievement reflected in palace decoration  
 **Technology**: Integration of advanced water management and lighting systems  
@@ -736,7 +736,7 @@ improvements: 20
 **Ceremony**: Military ceremonial support for royal functions  
 **Protection**: Military protection for royal family during crises
 
-### [[The [[Free Current]]]]
+### [[Free Current|The [[Free Current]]]]
 
 **Trade**: Trade relationships and economic policy affecting free traders  
 **Independence**: Balancing royal authority with free current independence  
@@ -790,7 +790,7 @@ Legends speak of Royal Palace as a nexus where past and present converge. Locals
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -811,20 +811,17 @@ Royal Palace is a notable location characterized by its unique features and stra
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
-
 
 ## Connections
 - **North**: Trade road to neighboring settlement
@@ -878,7 +875,6 @@ Ongoing situations affecting Royal Palace:
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -914,3 +910,27 @@ Ongoing situations affecting Royal Palace:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Comprehensive-World-Connection-Guide]]
+- [[The Queen]]
+- [[The Royal Palace - Aquabyssos]]
+- [[Crystalhaven Royal Palace]]
+- [[Doctor Coral Shapeshift]]
+- [[Lord Reginald Seaworthy]]
+- [[Noble Quarter]]
+- [[Royal Palace of Meridian]]
+- [[Temple Ward]]
+- [[The Royal Palace]]
+- [[Throne Room - Heart of Palace]]
+- [[Comprehensive-World-Connection-Guide (D&D_References)]]
+- [[Comprehensive-World-Connection-Guide 3 (D&D_References)]]
+- [[Doctor Coral Shapeshift (D&D_References)]]
+- [[Lord Reginald Seaworthy (D&D_References)]]
+- [[Queen Seraphina (D&D_References)]]
+- [[Queen Seraphina 3 (D&D_References)]]
+- [[Throne Room - Heart of Palace (D&D_References)]]
+- [[Noble Quarter (D&D_Statblocks)]]
+- [[Temple Ward (D&D_Statblocks)]]

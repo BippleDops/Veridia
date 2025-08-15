@@ -62,5 +62,18 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Deep Mother]]
+- [[The Crimson Hand]]
+- [[The Final Choice]]
+- [[The Great Convergence Prophecies]]
+- [[The Great Crystallization]]
+- [[The Queen]]
+- [[The Seven Betrayers]]
+- [[The Shattering of the Crown]]
+- [[The Final Choice (D&D_References)]]
+- [[The Final Choice 3 (D&D_References)]]

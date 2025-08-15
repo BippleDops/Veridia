@@ -1,3 +1,9 @@
+---
+aliases: ["Concentrated Herb of Clarity", "concentrated herb of clarity", "Clarity of Herb Concentrated"]
+tags: [item, equipment]
+type: item
+---
+
 # Concentrated Herb of Clarity
 
 *Consumables, Uncommon*
@@ -14,8 +20,6 @@ A concentrated herb swirling with colors
 - Resistance for 10 minutes
 - Grant advantage for 1 hour
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -30,7 +34,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.442Z*

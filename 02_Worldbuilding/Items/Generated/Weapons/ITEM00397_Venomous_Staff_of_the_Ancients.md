@@ -1,3 +1,9 @@
+---
+aliases: ["Venomous Staff of the Ancients", "venomous staff of the ancients", "Venomous Staff of Ancients", "Ancients the of Staff Venomous"]
+tags: [item, equipment]
+type: item
+---
+
 # Venomous Staff of the Ancients
 
 *Weapons, Very Rare (requires attunement)*

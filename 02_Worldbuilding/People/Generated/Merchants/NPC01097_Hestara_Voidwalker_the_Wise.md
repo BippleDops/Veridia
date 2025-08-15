@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Voidwalker the Wise", "hestara voidwalker the wise", "Hestara Voidwalker Wise", "Wise the Voidwalker Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Voidwalker the Wise
 
 *Halfling Trader (Merchants), Age 33, Non-binary*
@@ -36,32 +42,26 @@ Inherited a failing business and turned it around They've made a deal they're be
 - **Short Term**: Complete current contract
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Pyria Hawthorne the Seeker (Professional - Mentor)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Hestara Emberfall the Scholar (Family - Cousin)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
-
 
 ### Zephyr Ironforge the Wise (Professional - Mentor)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Elric Brightblade the Guardian (Professional - Partner)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
 
-
 ### Erasmus Goldleaf the Guardian (Personal - Best friend)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Killed previous business owner

@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Ashford the Lost", "branwen ashford the lost", "Branwen Ashford Lost", "Lost the Ashford Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Ashford the Lost
 
 *Half-Elf Bard (Adventurers), Age 58, Male*
@@ -13,7 +19,6 @@
 Very tall and heavyset, with Dreadlocks white hair and Red eyes. Weathered skin. Missing ear from old battle.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Laughs at the most inappropriate times; Believes in every conspiracy theory; Never backs down from any challenge
@@ -36,7 +41,6 @@ Accidentally gained powers and learning to control them They recently discovered
 - **Short Term**: Survive until next week
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Idris Darkwater the Strong (Professional - Employer)
 - **Status**: Blood oath bound
@@ -47,16 +51,13 @@ Accidentally gained powers and learning to control them They recently discovered
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Delara Youngblood the Scholar (Family - Cousin)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
 ### Kaelen Youngblood the Risen (Family - Child)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Possessed by ancient spirit

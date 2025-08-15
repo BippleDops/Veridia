@@ -1,4 +1,5 @@
 ---
+aliases: ["Divine Pendant of the Dawn", "divine pendant of the dawn", "Divine Pendant of Dawn", "Dawn the of Pendant Divine"]
 tags: [generated]
 id: ITEM0115
 created: 2025-08-15T04:09:51.114Z
@@ -18,8 +19,6 @@ Crafted from mithril with ancient symbols, in showing age but sturdy. It emanate
 
 ## Quirk
 *Attracts small animals*
-
-
 
 ## History
 This item was hidden away by its last owner millennia ago. It has passed through many hands, each leaving their mark upon its destiny.

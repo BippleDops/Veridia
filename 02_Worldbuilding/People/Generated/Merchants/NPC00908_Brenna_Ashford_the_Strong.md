@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Ashford the Strong", "brenna ashford the strong", "Brenna Ashford Strong", "Strong the Ashford Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Ashford the Strong
 
 *Dwarf Appraiser (Merchants), Age 31, Female*
@@ -36,22 +42,18 @@ Former adventurer who retired to open a shop A chance encounter last winter chan
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Delara Proudmore the Scholar (Criminal - Target)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Corvus Emberfall the Cunning (Professional - Mentor)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
 
-
 ### Erasmus Crystalbrook the Fallen (Personal - Love interest)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Killed previous business owner

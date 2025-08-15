@@ -164,3 +164,10 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Crystal Wardens]]
+- [[Relationship Web Nuances]]
+- [[Crystal Wardens (D&D_Statblocks)]]
+- [[Item Template]]

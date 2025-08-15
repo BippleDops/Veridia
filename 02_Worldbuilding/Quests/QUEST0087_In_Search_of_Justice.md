@@ -1,4 +1,5 @@
 ---
+aliases: ["In Search of Justice", "in search of justice", "Justice of Search In"]
 tags: [quest, adventure, generated]
 type: quest
 ---
@@ -21,8 +22,6 @@ Gain access to the sunken temple and complete the ritual
 ### Secondary
 - Maintain cover identity
 - Gather intelligence on enemy plans
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they witnessed something they shouldn't have, which changed their life forever. Now, circumstances demand immediate action.
@@ -59,8 +58,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Show mercy and gain intel - Future ally but justice denied
 2. Execute for crimes committed - Justice served but opportunity lost
-
-
 
 ## Rewards
 ### On Success

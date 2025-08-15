@@ -1,3 +1,9 @@
+---
+aliases: ["Blazing Spear of Speed", "blazing spear of speed", "Speed of Spear Blazing"]
+tags: [item, equipment]
+type: item
+---
+
 # Blazing Spear of Speed
 
 *Weapons, Rare*

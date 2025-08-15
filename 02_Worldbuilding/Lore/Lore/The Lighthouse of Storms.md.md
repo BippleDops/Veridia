@@ -78,3 +78,7 @@ improvements: 20
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+## References
+
+- [[02_Worldbuilding_Lore_The_Lighthouse_of_Storms.md]]

@@ -76,3 +76,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A stranger needs help stealing before the new moon
 - A merchant needs help stealing before the festival
 - A prisoner has gone missing and chaos spreads
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Quaals Feather Token Xdmg]]
+- [[quaals-feather-token-xdmg (items)]]
+- [[Arcana Rare Xdmg]]
+- [[Random Magic Items Arcana]]
+- [[Random Magic Items Implements]]
+- [[arcana-rare-xdmg (tables)]]
+- [[random-magic-items-arcana (tables)]]
+- [[random-magic-items-implements (tables)]]

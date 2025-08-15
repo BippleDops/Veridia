@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Crystalbrook the Swift", "cedric crystalbrook the swift", "Cedric Crystalbrook Swift", "Swift the Crystalbrook Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Crystalbrook the Swift
 
 *Dragonborn Appraiser (Merchants), Age 59, Non-binary*
@@ -13,7 +19,6 @@
 Average height and stocky, with Wild and unkempt black hair and Black eyes. Olive skin. Prominent scar across the face.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Never backs down from any challenge; Constantly quotes ancient texts; Never uses people's real names
@@ -47,26 +52,21 @@ Built their business from nothing through cunning and hard work They've fallen i
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Ewan Xendar the Fallen (Personal - Love interest)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
-
 
 ### Zephyr Emberfall the Wise (Personal - Ex-lover)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Malakai Grimholt the Swift (Professional - Partner)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Faelyn Youngblood the Risen (Criminal - Fence)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Sells information to all sides

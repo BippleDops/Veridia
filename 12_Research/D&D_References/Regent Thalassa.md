@@ -61,3 +61,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - An heirloom has gone missing and truth emerges
 - Someone is searching for a witness for money
+
+## References
+
+- [[The Original Palace]]
+- [[The Original Palace (D&D_References)]]

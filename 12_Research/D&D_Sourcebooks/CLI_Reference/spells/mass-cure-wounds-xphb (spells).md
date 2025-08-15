@@ -99,7 +99,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -112,3 +111,46 @@ Contextual improvement based on 12_Research
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Deva Xmm]]
+- [[Guardian Naga Xmm]]
+- [[Planetar Xmm]]
+- [[Solar Xmm]]
+- [[Unicorn Xmm]]
+- [[deva-xmm (celestial)]]
+- [[guardian-naga-xmm (celestial)]]
+- [[planetar-xmm (celestial)]]
+- [[solar-xmm (celestial)]]
+- [[unicorn-xmm (celestial)]]
+- [[Autumn Eladrin Mpmm]]
+- [[autumn-eladrin-mpmm (fey)]]
+- [[Gar Shatterkeel Pota]]
+- [[gar-shatterkeel-pota (legendary-group)]]
+- [[06 Equipment]]
+- [[06-equipment (players-handbook-2014)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Life Domain Xphb]]
+- [[Cleric Xphb]]
+- [[Druid Xphb Circle of the Moon Xphb]]
+- [[Warlock Xphb Celestial Patron Xphb]]
+- [[cleric-xphb (classes)]]
+- [[cleric-xphb-life-domain-xphb (classes)]]
+- [[cleric-xphb-life-domain-xphb 2 (classes)]]
+- [[druid-xphb-circle-of-the-moon-xphb (classes)]]
+- [[warlock-xphb-celestial-patron-xphb (classes)]]
+- [[Instrument of the Bards Anstruth Harp Xdmg]]
+- [[Instrument of the Bards Canaith Mandolin Xdmg]]
+- [[Instrument of the Bards Mac Fuirmidh Cittern]]
+- [[Necklace of Prayer Beads Xdmg]]
+- [[Orb of Dragonkind Xdmg]]
+- [[Staff of Healing Xdmg]]
+- [[instrument-of-the-bards-anstruth-harp-xdmg (items)]]
+- [[instrument-of-the-bards-canaith-mandolin-xdmg (items)]]
+- [[instrument-of-the-bards-mac-fuirmidh-cittern-xdmg]]
+- [[necklace-of-prayer-beads-xdmg (items)]]
+- [[orb-of-dragonkind-xdmg (items)]]
+- [[staff-of-healing-xdmg (items)]]

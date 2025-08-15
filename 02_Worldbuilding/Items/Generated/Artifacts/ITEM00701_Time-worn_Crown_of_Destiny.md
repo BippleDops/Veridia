@@ -1,3 +1,9 @@
+---
+aliases: ["Time-worn Crown of Destiny", "time-worn crown of destiny", "Destiny of Crown Time-worn"]
+tags: [item, equipment]
+type: item
+---
+
 # Time-worn Crown of Destiny
 
 *Artifacts, Legendary*

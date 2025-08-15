@@ -47,7 +47,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -95,7 +95,7 @@ improvements: 20
 
 ## Overview
 
-The Sunken Cathedral of Stars serves as the primary headquarters for [[The [[Leviathan]] Cult|[[02 Worldbuilding]]/[[Groups]]/The Leviathan Cult]], a massive underwater structure where [[12 Research]] conducts transformation rituals and coordinates the cult's campaign to return the world to the sea.
+The Sunken Cathedral of Stars serves as the primary headquarters for [[Leviathan|The [[Leviathan]] Cult|[[02_Worldbuilding|02 Worldbuilding]]/[[Groups]]/The Leviathan Cult]], a massive underwater structure where [[12 Research]] conducts transformation rituals and coordinates the cult's campaign to return the world to the sea.
 
 ## Player-Facing Summary
 
@@ -112,7 +112,7 @@ Legends speak of The Sunken Cathedral of Stars as a nexus where past and present
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -133,13 +133,11 @@ The Sunken Cathedral of Stars is a notable location characterized by its unique 
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -147,13 +145,11 @@ The Sunken Cathedral of Stars is a notable location characterized by its unique 
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -234,7 +230,6 @@ Ongoing situations affecting The Sunken Cathedral of Stars:
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -270,3 +265,9 @@ Ongoing situations affecting The Sunken Cathedral of Stars:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[The Leviathan Cult (Cults_and_Movements)]]
+- [[Prophet Nerida Voidgazer (D&D_References)]]
+- [[The Leviathan Cult]]

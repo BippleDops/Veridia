@@ -179,3 +179,29 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[7 Appendix B Monsters]]
+- [[7-appendix-b-monsters (lost-mine-of-phandelver)]]
+- [[doppelganger-xmm (monstrosity)]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[Monsters by Habitat Urban Monsters Xmm]]
+- [[Random Hag Minions Brutes Vgm]]
+- [[Random Yuan Ti Servants Yuan Ti Agents Vgm]]
+- [[Underdark Encounters Levels 1116 Xge]]
+- [[Underdark Encounters Levels 14 Xge]]
+- [[Underdark Encounters Levels 1720 Xge]]
+- [[Urban Encounters Levels 1116 Xge]]
+- [[Urban Encounters Levels 14 Xge]]
+- [[Urban Encounters Levels 510 Xge]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]
+- [[monsters-by-habitat-urban-monsters-xmm (tables)]]
+- [[random-hag-minions-brutes-vgm (tables)]]
+- [[random-yuan-ti-servants-yuan-ti-agents-vgm (tables)]]
+- [[underdark-encounters-levels-1116-xge (tables)]]
+- [[underdark-encounters-levels-14-xge (tables)]]
+- [[underdark-encounters-levels-1720-xge (tables)]]
+- [[urban-encounters-levels-1116-xge (tables)]]
+- [[urban-encounters-levels-14-xge (tables)]]
+- [[urban-encounters-levels-510-xge (tables)]]

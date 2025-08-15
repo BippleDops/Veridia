@@ -1,3 +1,9 @@
+---
+aliases: ["Primordial Chalice of Eternity", "primordial chalice of eternity", "Eternity of Chalice Primordial"]
+tags: [item, equipment]
+type: item
+---
+
 # Primordial Chalice of Eternity
 
 *Artifacts, Artifact*
@@ -16,8 +22,6 @@ A primordial chalice covered in mysterious symbols
 - Plane shift 1/day
 - Regenerate 1 hp/round
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -32,7 +36,6 @@ Priceless
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.417Z*

@@ -96,3 +96,16 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Axe of the Dwarvish Lords Xdmg]]
+- [[Eye and Hand of Vecna Xdmg]]
+- [[Eye of Vecna Xdmg]]
+- [[Hand of Vecna Xdmg]]
+- [[Sword of Kas Xdmg]]
+- [[axe-of-the-dwarvish-lords-xdmg (items)]]
+- [[eye-and-hand-of-vecna-xdmg (items)]]
+- [[eye-of-vecna-xdmg (items)]]
+- [[hand-of-vecna-xdmg (items)]]
+- [[sword-of-kas-xdmg (items)]]

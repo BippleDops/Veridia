@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Ashford the Wanderer", "drusilla ashford the wanderer", "Drusilla Ashford Wanderer", "Wanderer the Ashford Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Ashford the Wanderer
 
 *Tiefling Cleric (Adventurers), Age 31, Non-binary*
@@ -36,27 +42,22 @@ Searching for a legendary treasure their parent died seeking A prophetic dream h
 - **Short Term**: Gather information
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Alaric Oakenshield the Cunning (Family - Cousin)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
 
-
 ### Thalia Thornweave the Mystic (Professional - Partner)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ### Ysara Jadeclaw the Fallen (Family - Child)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Delara Ironwood the Mystic (Family - Parent)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Is from the future

@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Zephyrblade the Guardian", "vesper zephyrblade the guardian", "Vesper Zephyrblade Guardian", "Guardian the Zephyrblade Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Zephyrblade the Guardian
 
 *Dwarf Blacksmith (Commoners), Age 32, Male*
@@ -36,37 +42,30 @@ Grew up in poverty but discovered a talent that might change everything A chance
 - **Short Term**: Complete current contract
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Ewan Oakenshield the Fallen (Professional - Employer)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
 
-
 ### Zephyr Silverleaf the Lost (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
-
 
 ### Erasmus Ironwood the Wanderer (Family - Sibling)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Delara Keenblade the Guardian (Personal - Nemesis)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ### Alaric Oakenshield the Bold (Political - Spy)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
 
-
 ### Alaric Crystalbrook the Lost (Criminal - Target)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Has dragon blood in their veins

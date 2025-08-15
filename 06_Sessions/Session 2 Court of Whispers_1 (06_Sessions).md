@@ -1565,12 +1565,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## Pronunciation Guide
 - **Aethermoor**: [AYTHERMOOR]
 - **Aethermoor's**: [AYTHERMOOR-S]
 - **Crown's**: [CROWN-S]
-
 
 ## See Also
 - Related content

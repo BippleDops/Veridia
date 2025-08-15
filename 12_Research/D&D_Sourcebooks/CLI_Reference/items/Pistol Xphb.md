@@ -79,3 +79,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Strange dreams suggest ancient magic
 - A map reveals ancient history about this place
 - Someone is blackmailing a artifact for revenge
+
+## References
+
+- [[Master_Item_Catalog]]

@@ -223,7 +223,6 @@ Key locations marked:
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Adventure Seeds
 - Mysterious occurrence
 - Local conflict

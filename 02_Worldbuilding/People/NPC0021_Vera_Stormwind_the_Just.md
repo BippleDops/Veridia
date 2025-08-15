@@ -1,8 +1,8 @@
 ---
+aliases: ["Vera Stormwind the Just", "vera stormwind the just", "Vera Stormwind Just", "Just the Stormwind Vera"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -74,7 +74,6 @@ Investigation, Arcana
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 32 gold pieces
 - Set of thieves' tools
@@ -87,7 +86,6 @@ Investigation, Arcana
 
 ---
 *Generated: 2025-08-15T03:21:04.028Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

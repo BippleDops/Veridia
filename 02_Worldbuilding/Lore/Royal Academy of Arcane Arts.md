@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -71,7 +71,7 @@ Royal Academy of Arcane Arts represents a crucial aspect of the world's history,
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -88,7 +88,7 @@ Royal Academy of Arcane Arts represents a crucial aspect of the world's history,
 - A [[Merchant]] needs help finding before dawn
 - Someone is blackmailing an heir for revenge
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -134,3 +134,9 @@ Royal Academy of Arcane Arts represents a crucial aspect of the world's history,
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[Royal Academy of Arcane Arts - Ruins]]
+- [[Royal Academy of Arcane Arts Ruins (Places)]]
+- [[Royal_Academy_of_Arcane_Arts (Places)]]

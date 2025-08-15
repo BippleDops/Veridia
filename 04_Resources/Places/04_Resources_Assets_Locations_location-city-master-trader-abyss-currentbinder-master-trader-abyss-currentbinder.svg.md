@@ -102,3 +102,8 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Portraits Portrait NPC Captain Torrent Swiftcurrent Captain Torrent Swiftcurrent.svg]]
+- [[Assets Symbols Symbol Heraldry Crystal Pirate Crew Crystal Pirate Crew.svg]]

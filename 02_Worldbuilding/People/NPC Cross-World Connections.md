@@ -24,7 +24,6 @@ updated: 2025-08-14
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 # NPC Cross-World Connections
 
 ## Overview
@@ -55,13 +54,11 @@ Born into modest circumstances, NPC Cross-World Connections rose through dedicat
 - **Rivals**: [[Shadow Conspiracy]]
 - **Contacts**: Network of informants throughout the city
 
-
 ## Motivations
 - **Primary Goal**: Main objective
 - **Secondary Goals**: Supporting aims
 - **Fears**: What they avoid
 - **Desires**: What they seek
-
 
 ## Secrets
 - Hidden information about this character
@@ -77,7 +74,6 @@ Actively involved in current events, pursuing their own agenda while maintaining
 
 ## DM Notes
 *This NPC can serve multiple roles depending on campaign needs. Their true loyalties are intentionally ambiguous.*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

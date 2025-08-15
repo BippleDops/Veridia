@@ -113,3 +113,11 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Civil war
 - Natural disasters
 - Current power structures established
+
+## References
+
+- [[Angels and Depths]]
+- [[Bubble Burst]]
+- [[Surface Tensions]]
+- [[Angels and Depths (D&D_References)]]
+- [[Bubble Burst (D&D_References)]]

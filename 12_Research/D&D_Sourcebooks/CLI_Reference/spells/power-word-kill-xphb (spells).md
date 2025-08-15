@@ -93,7 +93,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -112,4 +111,17 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[power-word-kill-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[power-word-kill-xphb (spells)|power-word-kill-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Illithilich Vgm (undead)]]
+- [[Lich Xmm (undead)]]
+- [[illithilich-vgm (undead)]]
+- [[lich-xmm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Bard Xphb]]
+- [[bard-xphb (classes)]]
+- [[bard-xphb 2 (classes)]]

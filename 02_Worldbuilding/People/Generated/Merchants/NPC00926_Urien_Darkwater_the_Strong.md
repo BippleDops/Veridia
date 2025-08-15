@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Darkwater the Strong", "urien darkwater the strong", "Urien Darkwater Strong", "Strong the Darkwater Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Darkwater the Strong
 
 *Genasi Broker (Merchants), Age 18, Male*
@@ -13,7 +19,6 @@
 Above average and compact, with Short and neat bald hair and Brown eyes. Weathered skin. Weather-beaten face showing hard life.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Incredibly optimistic despite evidence; Sees doom and gloom everywhere; Compulsive liar about minor things
@@ -36,7 +41,6 @@ Uses their business as cover for other activities They're being blackmailed by s
 - **Short Term**: Avoid the authorities
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Thalia Silverleaf the Mystic (Political - Patron)
 - **Status**: Blood oath bound
@@ -47,16 +51,13 @@ Uses their business as cover for other activities They're being blackmailed by s
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Aldric Ashford the Bold (Personal - Best friend)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Aeliana Youngblood the Mystic (Personal - Childhood friend)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Smuggles illegal magical items

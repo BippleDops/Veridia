@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Voidwalker", "jorah voidwalker", "Voidwalker Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Voidwalker
 
 *Tabaxi Heir (Nobles), Age 76, Male*
@@ -36,7 +42,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Complete current contract
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Gareth Youngblood the Redeemed (Political - Ally)
 - **Status**: Professional only
@@ -47,16 +52,13 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
 
-
 ### Orion Dawnstrider (Family - Cousin)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
 
-
 ### Xander Oakenshield the Redeemed (Professional - Employer)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ### Vesper Jadeclaw (Professional - Mentor)
 - **Status**: On the verge of collapse

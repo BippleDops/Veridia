@@ -25,3 +25,8 @@ type: npc
 
 ---
 *Quick reference for [[_03_Mechanics_CLI_bestiary_humanoid_witherbloom-pledgemage-scc]]*
+
+## References
+
+- [[_03_Mechanics_CLI_bestiary_humanoid_lorehold-apprentice-scc]]
+- [[_03_Mechanics_CLI_bestiary_npc_velomachus-lorehold-scc]]

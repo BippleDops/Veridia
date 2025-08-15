@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # 04_Resources_Assets_Portraits_portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png - Quick Reference
 
 ## Key Info

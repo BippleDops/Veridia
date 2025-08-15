@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Goldleaf the Guardian", "aeliana goldleaf the guardian", "Aeliana Goldleaf Guardian", "Guardian the Goldleaf Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Goldleaf the Guardian
 
 *Half-Elf Corrupt Noble (Villains), Age 35, Female*
@@ -42,11 +48,9 @@ Born into evil but questioning their path They've fallen in love with someone th
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
 ### Erasmus Proudmore the Strong (Political - Ally)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ### Qadim Ironwood the Lost (Personal - Best friend)
 - **Status**: Recently reconciled
@@ -61,7 +65,6 @@ Born into evil but questioning their path They've fallen in love with someone th
 ### Erasmus Thornweave the Strong (Criminal - Fence)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is being controlled by darker force

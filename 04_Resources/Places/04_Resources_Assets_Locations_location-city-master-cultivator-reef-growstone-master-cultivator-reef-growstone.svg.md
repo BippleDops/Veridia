@@ -102,3 +102,8 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Symbols Symbol Heraldry Commander Void Tacticia Commander Void Tacticia.svg]]
+- [[Assets Symbols Symbol Heraldry the Sunken Observatory the Sunken Observatory.svg]]

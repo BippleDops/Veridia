@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Frostwhisper the Fallen", "aeliana frostwhisper the fallen", "Aeliana Frostwhisper Fallen", "Fallen the Frostwhisper Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Frostwhisper the Fallen
 
 *Tabaxi Crime Boss (Villains), Age 29, Female*
@@ -13,7 +19,6 @@
 Above average and athletic, with Long and flowing gray hair and Violet eyes. Fair skin. Constantly changing hair color.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Flirts with everyone regardless of interest; Laughs at the most inappropriate times
@@ -36,27 +41,22 @@ Corrupted by an artifact or dark magic A family member's death has left them wit
 - **Short Term**: Recruit new members
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Cedric Ravenheart the Mystic (Political - Puppet)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Thalia Youngblood the Broken (Family - Cousin)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ### Ysara Proudmore the Scholar (Political - Puppet)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Elric Dawnstrider the Guardian (Criminal - Handler)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ### Dara Crystalbrook the Swift (Professional - Mentor)
 - **Status**: Complicated history
@@ -66,7 +66,6 @@ Corrupted by an artifact or dark magic A family member's death has left them wit
 ### Felicia Moonshadow the Scholar (Family - Sibling)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Is being controlled by darker force

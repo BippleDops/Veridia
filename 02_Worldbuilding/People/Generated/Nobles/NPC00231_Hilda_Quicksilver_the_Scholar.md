@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Quicksilver the Scholar", "hilda quicksilver the scholar", "Hilda Quicksilver Scholar", "Scholar the Quicksilver Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Quicksilver the Scholar
 
 *Human Heir (Nobles), Age 35, Non-binary*
@@ -13,7 +19,6 @@
 Very short and muscular, with Partially shaved blonde hair and Black eyes. Weathered skin. Missing ear from old battle.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Believes in every conspiracy theory; Compulsive liar about minor things
@@ -36,17 +41,14 @@ Exiled from their homeland, trying to rebuild their power base An old debt has c
 - **Short Term**: Sabotage competition
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Vesper Grimholt the Redeemed (Political - Spy)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Nerys Youngblood the Seeker (Family - Child)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ### Fiora Blackstone (Criminal - Target)
 - **Status**: Strong and trusting
@@ -61,7 +63,6 @@ Exiled from their homeland, trying to rebuild their power base An old debt has c
 ### Rhiannon Hawthorne (Political - Puppet)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Actually a bastard with no real claim

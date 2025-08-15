@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Underhill the Wise", "qadim underhill the wise", "Qadim Underhill Wise", "Wise the Underhill Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Underhill the Wise
 
 *Halfling Assassin (Villains), Age 52, Non-binary*
@@ -36,7 +42,6 @@ Driven mad by knowledge humanity wasn't meant to know They've fallen in love wit
 - **Short Term**: Complete current contract
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Solas Proudmore the Cunning (Family - Sibling)
 - **Status**: Mutually beneficial
@@ -46,7 +51,6 @@ Driven mad by knowledge humanity wasn't meant to know They've fallen in love wit
 ### Ysara Youngblood the Strong (Professional - Rival)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ### Ewan Silverleaf the Strong (Personal - Nemesis)
 - **Status**: Blood oath bound

@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Ironforge the Bold", "drusilla ironforge the bold", "Drusilla Ironforge Bold", "Bold the Ironforge Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Ironforge the Bold
 
 *Gnome Caravan Master (Merchants), Age 25, Male*
@@ -36,27 +42,22 @@ Inherited a failing business and turned it around They recently discovered a sec
 - **Short Term**: Gather information
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Lyanna Underhill the Wise (Political - Opposition)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Elric Zephyrblade the Bold (Family - Cousin)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ### Urien Jadeclaw the Mystic (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Rhiannon Frostwhisper the Wise (Political - Ally)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ### Corvus Keenblade the Swift (Political - Opposition)
 - **Status**: On the verge of collapse

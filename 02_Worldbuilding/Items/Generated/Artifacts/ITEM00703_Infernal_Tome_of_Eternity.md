@@ -1,3 +1,9 @@
+---
+aliases: ["Infernal Tome of Eternity", "infernal tome of eternity", "Eternity of Tome Infernal"]
+tags: [item, equipment]
+type: item
+---
+
 # Infernal Tome of Eternity
 
 *Artifacts, Legendary*
@@ -16,8 +22,6 @@ A infernal tome covered in mysterious symbols
 - Cast spell 3/day
 - Immunity to charm
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -32,7 +36,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.418Z*

@@ -96,3 +96,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Nilbog Mpmm]]
+- [[Pixie Wonderbringer Xmm]]
+- [[nilbog-mpmm (fey)]]
+- [[pixie-wonderbringer-xmm (fey)]]
+- [[09 Appendix a Lore Glossary]]
+- [[09-appendix-a-lore-glossary (dungeon-masters-guide-2024)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Warlock Xphb Great Old One Patron Xphb]]
+- [[warlock-xphb-great-old-one-patron-xphb (classes)]]

@@ -214,3 +214,7 @@ Mentioned in The Hidden Prophecy of Winds
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-lady-nexus-goldcurrent-lady-nexus-goldcurrent.svg]]

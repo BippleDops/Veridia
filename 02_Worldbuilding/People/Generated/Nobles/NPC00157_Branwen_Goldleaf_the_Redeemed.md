@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Goldleaf the Redeemed", "branwen goldleaf the redeemed", "Branwen Goldleaf Redeemed", "Redeemed the Goldleaf Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Goldleaf the Redeemed
 
 *Firbolg Heir (Nobles), Age 74, Male*
@@ -36,12 +42,10 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Short Term**: Find missing person
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Ewan Xendar the Lost (Personal - Best friend)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
-
 
 ### Drusilla Nightfall (Personal - Nemesis)
 - **Status**: Professional only
@@ -51,7 +55,6 @@ Recently elevated to nobility through service, still learning courtly ways They'
 ### Hestara Darkwater (Family - Cousin)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ### Caelum Grimholt (Family - Spouse)
 - **Status**: Secretly hostile

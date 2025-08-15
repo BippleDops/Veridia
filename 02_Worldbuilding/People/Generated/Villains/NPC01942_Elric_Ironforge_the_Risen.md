@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Ironforge the Risen", "elric ironforge the risen", "Elric Ironforge Risen", "Risen the Ironforge Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Ironforge the Risen
 
 *Elf Cultist (Villains), Age 51, Male*
@@ -36,12 +42,10 @@ Driven mad by knowledge humanity wasn't meant to know They're being blackmailed 
 - **Short Term**: Gather information
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Wynne Ravenheart the Guardian (Professional - Partner)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ### Rhiannon Darkwater the Cunning (Criminal - Target)
 - **Status**: On the verge of collapse
@@ -52,11 +56,9 @@ Driven mad by knowledge humanity wasn't meant to know They're being blackmailed 
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Zephyr Thornweave the Broken (Family - Parent)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Has a child they're protecting

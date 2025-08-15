@@ -1,3 +1,9 @@
+---
+aliases: ["Blazing Dagger of Accuracy", "blazing dagger of accuracy", "Accuracy of Dagger Blazing"]
+tags: [item, equipment]
+type: item
+---
+
 # Blazing Dagger of Accuracy
 
 *Weapons, Very Rare*
@@ -16,8 +22,6 @@ A blazing dagger forged from meteoric iron
 - Critical hits on 19-20
 - Returns when thrown
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -32,7 +36,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.373Z*

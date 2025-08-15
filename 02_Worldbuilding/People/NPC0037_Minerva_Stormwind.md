@@ -1,11 +1,11 @@
 ---
+aliases: ["Minerva Stormwind", "minerva stormwind", "Stormwind Minerva"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Raised by monks in a remote monastery. Years ago, they accidentally discovered a
 ### Skills
 Perception, Investigation, Deception
 
-
-
 ## Possessions
 - 20 gold pieces
 - Well-worn journal
@@ -90,7 +88,6 @@ Perception, Investigation, Deception
 
 ---
 *Generated: 2025-08-15T03:21:04.030Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

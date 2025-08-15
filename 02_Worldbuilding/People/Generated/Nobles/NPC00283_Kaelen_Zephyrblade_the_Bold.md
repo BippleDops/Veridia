@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Zephyrblade the Bold", "kaelen zephyrblade the bold", "Kaelen Zephyrblade Bold", "Bold the Zephyrblade Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Zephyrblade the Bold
 
 *Firbolg Ambassador (Nobles), Age 46, Female*
@@ -36,22 +42,18 @@ Exiled from their homeland, trying to rebuild their power base An old debt has c
 - **Short Term**: Make this month's payment
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Brenna Blackstone the Wanderer (Criminal - Informant)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
 
-
 ### Gareth Emberfall the Lost (Political - Ally)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Solas Grimholt the Bold (Professional - Rival)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
-
 
 ### Qadim Nightfall the Fallen (Family - Spouse)
 - **Status**: One-sided affection
@@ -61,7 +63,6 @@ Exiled from their homeland, trying to rebuild their power base An old debt has c
 ### Branwen Proudmore the Cunning (Personal - Ex-lover)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Secretly funding the rebellion

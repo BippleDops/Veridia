@@ -206,7 +206,6 @@ Key locations marked:
 - 20% middle class
 - 79% working poor
 
-
 ## Adventure Seeds
 - Mysterious occurrence
 - Local conflict

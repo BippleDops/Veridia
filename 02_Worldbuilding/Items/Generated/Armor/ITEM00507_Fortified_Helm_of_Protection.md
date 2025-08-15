@@ -1,3 +1,9 @@
+---
+aliases: ["Fortified Helm of Protection", "fortified helm of protection", "Protection of Helm Fortified"]
+tags: [item, equipment]
+type: item
+---
+
 # Fortified Helm of Protection
 
 *Armor, Rare*
@@ -15,8 +21,6 @@ A fortified helm crafted from exotic materials
 - Resistance to one damage type
 - Grants swimming speed
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -31,7 +35,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.388Z*

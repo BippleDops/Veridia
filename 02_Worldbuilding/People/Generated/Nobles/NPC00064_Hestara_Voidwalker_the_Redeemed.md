@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Voidwalker the Redeemed", "hestara voidwalker the redeemed", "Hestara Voidwalker Redeemed", "Redeemed the Voidwalker Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Voidwalker the Redeemed
 
 *Goliath Noble (Nobles), Age 48, Non-binary*
@@ -13,7 +19,6 @@
 Very short and compact, with Partially shaved silver hair and Red eyes. Weathered skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Sees doom and gloom everywhere
@@ -36,32 +41,26 @@ Secretly adopted into nobility, living in fear of discovery They've been marked 
 - **Short Term**: Survive until next week
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Jorah Nightfall the Bold (Criminal - Handler)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Idris Crystalbrook (Professional - Partner)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ### Erasmus Quicksilver (Professional - Employer)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Corvus Dawnstrider the Wanderer (Family - Spouse)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
 
-
 ### Orion Goldleaf (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
-
 
 ### Gareth Quicksilver (Political - Ally)
 - **Status**: Complicated history

@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Blackstone the Wise", "wynne blackstone the wise", "Wynne Blackstone Wise", "Wise the Blackstone Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Blackstone the Wise
 
 *Dwarf Crime Boss (Villains), Age 22, Female*
@@ -13,7 +19,6 @@
 Towering and compact, with Long and flowing black hair and Blue eyes. Pale skin. Warm smile that puts people at ease.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Laughs at the most inappropriate times
@@ -36,7 +41,6 @@ Betrayed by those they trusted, now seeking revenge on the world They've fallen 
 - **Short Term**: Recruit new members
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Malakai Winterborn the Scholar (Family - Cousin)
 - **Status**: Strong and trusting
@@ -47,16 +51,13 @@ Betrayed by those they trusted, now seeking revenge on the world They've fallen 
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Nerys Ironwood the Swift (Family - Child)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Nerys Hawthorne the Bold (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
-
 
 ### Erasmus Youngblood the Mystic (Professional - Partner)
 - **Status**: Blood oath bound

@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Jadeclaw the Bold", "gareth jadeclaw the bold", "Gareth Jadeclaw Bold", "Bold the Jadeclaw Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Jadeclaw the Bold
 
 *Human Farmer (Commoners), Age 58, Non-binary*
@@ -13,7 +19,6 @@
 Very tall and heavyset, with Carefully styled bald hair and Brown eyes. Weathered skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Never uses people's real names
@@ -36,27 +41,22 @@ Grew up in poverty but discovered a talent that might change everything They rec
 - **Short Term**: Sabotage competition
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Aeliana Jadeclaw (Professional - Partner)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Erasmus Hawthorne the Guardian (Professional - Employee)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ### Gavril Youngblood the Lost (Professional - Partner)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Cedric Ashford the Cunning (Professional - Rival)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Is the lost heir to the throne

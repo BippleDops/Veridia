@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Lightbringer the Scholar", "drusilla lightbringer the scholar", "Drusilla Lightbringer Scholar", "Scholar the Lightbringer Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Lightbringer the Scholar
 
 *Firbolg Courtier (Nobles), Age 52, Non-binary*
@@ -36,7 +42,6 @@ Last survivor of a fallen house, seeking to restore family honor An old debt has
 - **Short Term**: Avoid the authorities
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Xander Underhill the Broken (Family - Sibling)
 - **Status**: Mutually beneficial
@@ -46,7 +51,6 @@ Last survivor of a fallen house, seeking to restore family honor An old debt has
 ### Cedric Goldleaf (Professional - Employee)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
-
 
 ### Dara Nightfall (Political - Ally)
 - **Status**: Strained but maintaining

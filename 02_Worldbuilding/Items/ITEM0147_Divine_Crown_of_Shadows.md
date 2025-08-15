@@ -1,4 +1,5 @@
 ---
+aliases: ["Divine Crown of Shadows", "divine crown of shadows", "Shadows of Crown Divine"]
 tags: [generated]
 id: ITEM0147
 created: 2025-08-15T04:09:51.123Z
@@ -18,8 +19,6 @@ Crafted from darkwood with intricate runes, in pristine condition. It emanates a
 
 ## Quirk
 *Vibrates near magic*
-
-
 
 ## History
 This item was lost in a great battle decades ago. It has passed through many hands, each leaving their mark upon its destiny.

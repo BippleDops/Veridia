@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Ashford the Seeker", "elric ashford the seeker", "Elric Ashford Seeker", "Seeker the Ashford Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Ashford the Seeker
 
 *Goliath Aristocrat (Nobles), Age 41, Female*
@@ -46,7 +52,6 @@ Last survivor of a fallen house, seeking to restore family honor They're being b
 ### Drusilla Keenblade the Guardian (Political - Spy)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
-
 
 ### Xander Hawthorne (Personal - Nemesis)
 - **Status**: Complicated history

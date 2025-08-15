@@ -93,3 +93,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Mind Flayer Arcanist Xmm]]
+- [[Morkoth Mpmm]]
+- [[mind-flayer-arcanist-xmm (aberration)]]
+- [[morkoth-mpmm (aberration)]]
+- [[Archaic Scc]]
+- [[archaic-scc (celestial)]]
+- [[Thri Kreen Psion Xmm]]
+- [[thri-kreen-psion-xmm (monstrosity)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Sorcerer Xphb Aberrant Sorcery Xphb]]
+- [[sorcerer-xphb-aberrant-sorcery-xphb (classes)]]
+- [[Sending Stones Xdmg]]
+- [[sending-stones-xdmg (items)]]

@@ -13,19 +13,16 @@ modified: '2025-01-15'
 - **East**: River crossing
 - **West**: Mountain pass
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-first-failure-the-first-failure.svg)
 
 # The First Failure
-
 
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
 - **Law Enforcement**: Town guard
 - **Justice System**: Local magistrate
-
 
 ## Economy
 - **Primary Exports**: Local goods
@@ -44,7 +41,6 @@ The approach to The First Failure reveals its significance through architectural
 
 ### Interior
 Within The First Failure, visitors find a carefully designed space serving multiple purposes.
-
 
 ## Demographics
 - **Population**: ~1,000
@@ -79,9 +75,8 @@ Recent developments have brought new attention to The First Failure, creating op
 2. Missing person last seen here
 3. Secret meeting scheduled to take place
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 *The First Failure can be customized to fit campaign needs. Consider adding unique [[Npc]]s or plot elements.*
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -118,3 +113,8 @@ Recent developments have brought new attention to The First Failure, creating op
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[The Primordial Vaults]]
+- [[The Primordial Vaults (D&D_References)]]

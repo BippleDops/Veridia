@@ -72,3 +72,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Cleric Xphb Death Domain Dmg]]
+- [[Cleric Xphb Grave Domain Xge]]
+- [[cleric-xphb-death-domain-dmg (classes)]]
+- [[cleric-xphb-grave-domain-xge (classes)]]
+- [[cleric-xphb-grave-domain-xge 2 (classes)]]
+- [[The Egyptian Pantheon Egyptian Deities Phb]]
+- [[the-egyptian-pantheon-egyptian-deities-phb (tables)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Frost Dagger of Speed", "frost dagger of speed", "Speed of Dagger Frost"]
+tags: [item, equipment]
+type: item
+---
+
 # Frost Dagger of Speed
 
 *Weapons, Legendary*
@@ -16,8 +22,6 @@ A frost dagger carved from dragon bone
 - Deals extra 1d6 elemental damage
 - +2 to attack and damage rolls
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -32,7 +36,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.354Z*

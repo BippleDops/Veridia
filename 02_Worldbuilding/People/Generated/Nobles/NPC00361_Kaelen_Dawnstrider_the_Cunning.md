@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Dawnstrider the Cunning", "kaelen dawnstrider the cunning", "Kaelen Dawnstrider Cunning", "Cunning the Dawnstrider Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Dawnstrider the Cunning
 
 *Aasimar Noble (Nobles), Age 25, Female*
@@ -36,37 +42,30 @@ Exiled from their homeland, trying to rebuild their power base A family member's
 - **Short Term**: Recruit new members
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Fiora Zephyrblade the Bold (Personal - Childhood friend)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
 
-
 ### Vesper Zephyrblade the Swift (Family - Child)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
-
 
 ### Hestara Proudmore the Redeemed (Criminal - Fence)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Corvus Blackstone the Lost (Personal - Ex-lover)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ### Wynne Crystalbrook (Professional - Employer)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Drusilla Quicksilver the Swift (Political - Ally)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

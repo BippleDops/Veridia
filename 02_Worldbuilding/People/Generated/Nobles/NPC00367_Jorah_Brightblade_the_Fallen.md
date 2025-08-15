@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Brightblade the Fallen", "jorah brightblade the fallen", "Jorah Brightblade Fallen", "Fallen the Brightblade Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Brightblade the Fallen
 
 *Tiefling Heir (Nobles), Age 75, Female*
@@ -42,16 +48,13 @@ Exiled from their homeland, trying to rebuild their power base They recently dis
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
 
-
 ### Alaric Lightbringer the Bold (Professional - Employer)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Gareth Stormwind the Bold (Political - Puppet)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Secretly funding the rebellion

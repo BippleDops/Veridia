@@ -164,3 +164,7 @@ Mentioned in The Hidden Prophecy of Depths
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[02_Worldbuilding_Military_Siege_Engineers]]

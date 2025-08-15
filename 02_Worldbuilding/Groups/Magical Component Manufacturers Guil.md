@@ -174,3 +174,8 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Crystal-Corruption-Tracking-Sheet]]
+- [[Crystal-Corruption-Tracking-Sheet (D&D_References)]]

@@ -103,3 +103,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Bheur Hag Mpmm]]
+- [[bheur-hag-mpmm (fey)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Jakarions Staff of Frost Cos]]
+- [[Ring of Elemental Command Water Xdmg]]
+- [[Staff of Frost Xdmg]]
+- [[jakarions-staff-of-frost-cos (items)]]
+- [[ring-of-elemental-command-water-xdmg (items)]]
+- [[staff-of-frost-xdmg (items)]]

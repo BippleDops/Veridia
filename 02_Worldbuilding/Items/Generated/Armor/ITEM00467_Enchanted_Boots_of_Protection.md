@@ -1,3 +1,9 @@
+---
+aliases: ["Enchanted Boots of Protection", "enchanted boots of protection", "Protection of Boots Enchanted"]
+tags: [item, equipment]
+type: item
+---
+
 # Enchanted Boots of Protection
 
 *Armor, Uncommon*
@@ -14,8 +20,6 @@ A enchanted boots shimmering with energy
 - Immunity to critical hits
 - +1 to AC
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -30,7 +34,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.384Z*

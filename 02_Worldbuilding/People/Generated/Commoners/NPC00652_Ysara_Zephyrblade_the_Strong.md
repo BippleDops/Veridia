@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Zephyrblade the Strong", "ysara zephyrblade the strong", "Ysara Zephyrblade Strong", "Strong the Zephyrblade Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Zephyrblade the Strong
 
 *Genasi Farmer (Commoners), Age 29, Male*
@@ -13,7 +19,6 @@
 Short and stocky, with Long and flowing white hair and Green eyes. Weathered skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Always speaks in metaphors and riddles
@@ -36,27 +41,22 @@ Family has worked the same trade for generations, but times are changing They re
 - **Short Term**: Sabotage competition
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Wynne Proudmore the Wise (Criminal - Accomplice)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Gareth Grimholt the Guardian (Personal - Childhood friend)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ### Elric Frostwhisper the Strong (Political - Spy)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Cedric Ravenheart the Wanderer (Professional - Employee)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Can hear the thoughts of others

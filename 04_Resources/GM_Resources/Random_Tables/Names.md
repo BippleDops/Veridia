@@ -30,3 +30,8 @@ modified: '2025-08-14'
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+## References
+
+- [[NPC00743_Ysara_Lightbringer_the_Broken]]
+- [[NPC00042_Vesper_Grimholt]]

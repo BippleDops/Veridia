@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-hadal-voidwright-captain-hadal-voidwright.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -240,7 +238,6 @@ Member of House Dragonblood - Trait: divine blood
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Daily Routine
 - **Morning**: Typical activities

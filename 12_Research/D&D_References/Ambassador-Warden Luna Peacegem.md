@@ -57,3 +57,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Strange sightings suggest a portal
 - Strange dreams suggest a portal
+
+## References
+
+- [[The Crystal Wardens]]
+- [[Aberrant Cults]]
+- [[The Crystal Caves (D&D_References)]]
+- [[The Crystal Wardens (D&D_References)]]

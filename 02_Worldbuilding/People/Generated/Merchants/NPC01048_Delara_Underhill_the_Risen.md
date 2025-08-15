@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Underhill the Risen", "delara underhill the risen", "Delara Underhill Risen", "Risen the Underhill Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Underhill the Risen
 
 *Elf Broker (Merchants), Age 74, Non-binary*
@@ -13,7 +19,6 @@
 Tall and slender, with Carefully styled black hair and Hazel eyes. Weathered skin. Prominent scar across the face.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Collects unusual and worthless objects; Always speaks in metaphors and riddles
@@ -36,12 +41,10 @@ Inherited a failing business and turned it around They're being blackmailed by s
 - **Short Term**: Sabotage competition
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Elric Proudmore the Bold (Personal - Ex-lover)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ### Idris Nightfall the Wanderer (Family - Cousin)
 - **Status**: Secretly hostile
@@ -51,7 +54,6 @@ Inherited a failing business and turned it around They're being blackmailed by s
 ### Solas Stormwind the Risen (Family - Parent)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ### Faelyn Proudmore the Mystic (Family - Sibling)
 - **Status**: Blood oath bound

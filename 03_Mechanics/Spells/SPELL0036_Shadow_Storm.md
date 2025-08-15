@@ -1,4 +1,5 @@
 ---
+aliases: ["Shadow Storm", "shadow storm", "Storm Shadow"]
 tags: [generated]
 id: SPELL0036_Shadow_Storm
 created: 2025-08-15T04:09:51.474Z

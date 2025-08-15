@@ -92,3 +92,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A document has gone missing and chaos spreads
 - A merchant needs help investigating before the new moon
 - The authorities needs help investigating before dawn
+
+## References
+
+- [[Elf Deities the Seldarine Mtf]]
+- [[elf-deities-the-seldarine-mtf (tables)]]

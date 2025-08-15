@@ -92,3 +92,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A document has gone missing and truth emerges
 - A prisoner has gone missing and evil awakens
 - A map reveals the truth about this place
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Cube of Summoning Xdmg]]
+- [[cube-of-summoning-xdmg (items)]]

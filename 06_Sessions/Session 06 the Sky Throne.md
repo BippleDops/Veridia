@@ -314,12 +314,10 @@ Mentioned in The Hidden Prophecy of Shadows
 
 Contextual improvement based on 12_Research
 
-
 ## Pronunciation Guide
 - **Throne**: [THRONE]
 - **Throne**: [THRONE]
 - **Aethermoor**: [AYTHERMOOR]
-
 
 ## Alternate Descriptions
 - **First Impression**: Initial appearance

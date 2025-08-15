@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Oakenshield the Wanderer", "branwen oakenshield the wanderer", "Branwen Oakenshield Wanderer", "Wanderer the Oakenshield Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Oakenshield the Wanderer
 
 *Aasimar Dark Wizard (Villains), Age 69, Non-binary*
@@ -36,17 +42,14 @@ Believes their evil acts serve a greater good A prophetic dream has been hauntin
 - **Short Term**: Recruit new members
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Ysara Voidwalker the Scholar (Family - Parent)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Zephyr Lightbringer the Risen (Professional - Partner)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
-
 
 ### Alaric Youngblood the Mystic (Family - Child)
 - **Status**: Mutually beneficial
@@ -62,11 +65,9 @@ Believes their evil acts serve a greater good A prophetic dream has been hauntin
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Faelyn Hawthorne the Strong (Professional - Employee)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Believes they're saving the world

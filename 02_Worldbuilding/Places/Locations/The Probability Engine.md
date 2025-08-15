@@ -18,16 +18,13 @@ updated: 2025-08-14
 - **East**: River crossing
 - **West**: Mountain pass
 
-
 # The Probability Engine
-
 
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
 - **Law Enforcement**: Town guard
 - **Justice System**: Local magistrate
-
 
 ## Economy
 - **Primary Exports**: Local goods
@@ -46,7 +43,6 @@ The approach to The Probability Engine reveals its significance through architec
 
 ### Interior
 Within The Probability Engine, visitors find a carefully designed space serving multiple purposes.
-
 
 ## Demographics
 - **Population**: ~1,000
@@ -83,7 +79,6 @@ Recent developments have brought new attention to The Probability Engine, creati
 
 ## DM Notes
 *The Probability Engine can be customized to fit campaign needs. Consider adding unique NPCs or plot elements.*
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions

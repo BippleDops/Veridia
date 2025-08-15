@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Ravenheart the Redeemed", "delara ravenheart the redeemed", "Delara Ravenheart Redeemed", "Redeemed the Ravenheart Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Ravenheart the Redeemed
 
 *Goliath Courtier (Nobles), Age 61, Male*
@@ -36,7 +42,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Complete current contract
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Pyria Thornweave (Family - Sibling)
 - **Status**: Mutually beneficial
@@ -47,16 +52,13 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Caelum Youngblood (Professional - Employee)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Xander Brightblade the Redeemed (Professional - Rival)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Child from scandalous affair

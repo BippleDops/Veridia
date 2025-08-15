@@ -1,4 +1,5 @@
 ---
+aliases: ["Ancient Gauntlet of Power", "ancient gauntlet of power", "Power of Gauntlet Ancient"]
 tags: [generated]
 id: ITEM0040
 created: 2025-08-15T04:09:51.090Z
@@ -19,8 +20,6 @@ Crafted from darkwood with ancient symbols, in showing age but sturdy. It emanat
 
 ## Quirk
 *Whispers names of previous owners*
-
-
 
 ## History
 This item was blessed by the gods themselves decades ago. It has passed through many hands, each leaving their mark upon its destiny.

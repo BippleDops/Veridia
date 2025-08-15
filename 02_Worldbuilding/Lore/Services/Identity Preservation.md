@@ -113,3 +113,10 @@ Mentioned in The Hidden Prophecy of Shadows
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Crystal Corruption Taboos]]
+- [[Identity Preservation Crystal]]
+- [[Merchant Family Alliances]]
+- [[Reflection Pools - Surgical Theater]]

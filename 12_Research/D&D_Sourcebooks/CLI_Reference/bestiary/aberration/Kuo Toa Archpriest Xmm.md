@@ -48,3 +48,10 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Monsters by Habitat Coastal Monsters Xmm]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[monsters-by-habitat-coastal-monsters-xmm (tables)]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]

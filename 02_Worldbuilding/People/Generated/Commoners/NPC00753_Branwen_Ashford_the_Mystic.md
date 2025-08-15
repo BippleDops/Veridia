@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Ashford the Mystic", "branwen ashford the mystic", "Branwen Ashford Mystic", "Mystic the Ashford Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Ashford the Mystic
 
 *Dwarf Carpenter (Commoners), Age 61, Male*
@@ -13,7 +19,6 @@
 Very short and stocky, with Dreadlocks auburn hair and Blue eyes. Brown skin. Missing finger on left hand.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Collects unusual and worthless objects
@@ -36,12 +41,10 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Short Term**: Make this month's payment
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Faelyn Youngblood the Swift (Professional - Mentor)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ### Pyria Underhill the Seeker (Criminal - Fence)
 - **Status**: Strained but maintaining
@@ -57,11 +60,9 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Erasmus Oakenshield the Wanderer (Family - Spouse)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Witnessed a noble's crime

@@ -73,13 +73,11 @@ Established generations ago as a strategic settlement, 02 Worldbuilding/People/P
 - Skilled artisans
 - Common laborers
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
-
 
 ## Connections
 - **North**: Trade road to neighboring settlement

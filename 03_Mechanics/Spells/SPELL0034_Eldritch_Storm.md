@@ -1,4 +1,5 @@
 ---
+aliases: ["Eldritch Storm", "eldritch storm", "Storm Eldritch"]
 tags: [generated]
 id: SPELL0034_Eldritch_Storm
 created: 2025-08-15T04:09:51.474Z

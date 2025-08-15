@@ -1,3 +1,9 @@
+---
+aliases: ["Void-touched Amulet of Eternity", "void-touched amulet of eternity", "Eternity of Amulet Void-touched"]
+tags: [item, equipment]
+type: item
+---
+
 # Void-touched Amulet of Eternity
 
 *Artifacts, Artifact (requires attunement)*
@@ -16,8 +22,6 @@ A void-touched amulet pulsing with inner light
 - Grant true sight
 - Immunity to charm
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -32,7 +36,6 @@ Priceless
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.421Z*

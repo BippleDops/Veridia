@@ -71,7 +71,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -420,7 +420,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 **Specialized Units**: Different military roles within the palace guard:
 
 **The Lightning Company**: Electrical magic specialists who serve as offensive spellcasters
-**The Hurricane Company**: Wind magic experts specializing in [[Aerial Combat]] and reconnaissance  
+**The Hurricane Company**: Wind magic experts specializing in [[Aerial_Combat|Aerial Combat]] and reconnaissance  
 **The Tempest Company**: Water [[Magic User]]s focused on underwater operations and defense
 **The Thunder Company**: Heavy combat troops with storm-enhanced physical abilities
 **The Eye Company**: Intelligence and security specialists who protect imperial secrets
@@ -460,7 +460,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 **Assault Troops**: Soldiers specialized in amphibious and aerial combat:
 
 **Air Marines**: Troops trained for aerial assault using flying mounts and wind magic
-**Sea Marines**: [[Underwater Combat]] specialists with enhanced swimming and breathing abilities  
+**Sea Marines**: [[Underwater_Combat|Underwater Combat]] specialists with enhanced swimming and breathing abilities  
 **Storm Marines**: Elite troops capable of fighting effectively in any weather condition
 **Lightning Marines**: Soldiers who use electrical magic for both combat and utility purposes
 **Hurricane Marines**: Fast assault troops specializing in rapid deployment and mobility
@@ -639,10 +639,10 @@ The palace's unique nature creates a society unlike any other in the underwater 
 
 **Friendly Relationships**: Other underwater empires that cooperate with the [[Tempest Sovereignty]]:
 
-**[[The [[Coral Courts]]]]**: Traditional allies with mutual defense agreements
+**[[Coral|The [[Coral Courts]]]]**: Traditional allies with mutual defense agreements
 - **Trade Relations**: Exchange of unique magical resources and cultural goods
 - **Military Cooperation**: Joint naval operations against common enemies
-- **Diplomatic Exchange**: Regular ambassador visits and [[[[Cultural Exchange]]s]]
+- **Diplomatic Exchange**: Regular ambassador visits and [[Cultural Exchange|[[Cultural Exchange]]s]]
 - **Marriage Alliances**: Intermarriage between noble families strengthens bonds
 
 **[[The Deep Republic]]**: Democratic nation that maintains cautious friendship
@@ -671,7 +671,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 
 **Commercial Connections**: The empire's economic ties throughout [[Aquabyssos]]:
 
-**[[[[Merchant]]'s Covet]]**: Professional trading organization
+**[[Merchant|[[Merchant]]'s Covet]]**: Professional trading organization
 - **Protection Services**: [[Imperial Nav]]y provides security for merchant vessels
 - **Trade Routes**: Empire controls several major commercial shipping lanes
 - **Resource Exchange**: Merchants provide rare materials in exchange for imperial protection
@@ -717,7 +717,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 
 #### Religious Organizations
 
-**Spiritual Connections**: The empire's relationship with various [[Religious [[Groups]]]]:
+**Spiritual Connections**: The empire's relationship with various [[Groups|Religious [[Groups]]]]:
 
 **[[The Tempest Faithful]]**: Religious organization that worships storm deities
 - **Official Religion**: Provides spiritual legitimacy for imperial rule
@@ -759,7 +759,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 
 **Defense of the Realm**: Protecting imperial territory from external threats
 - **Border Patrol**: Maintaining security along extensive maritime frontiers
-- **Pirate Suppression**: Dealing with [[Criminal Organizations]] that threaten imperial shipping
+- **Pirate Suppression**: Dealing with [[Criminal_Organizations|Criminal Organizations]] that threaten imperial shipping
 - **Diplomatic Escort**: Providing security for imperial diplomats and trade missions
 - **Emergency Response**: Rapid deployment to crisis situations throughout the empire
 
@@ -874,7 +874,7 @@ Legends speak of Maelstrom Palace as a nexus where past and present converge. Lo
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -898,13 +898,11 @@ Maelstrom Palace is a notable location characterized by its unique features and 
 ### Founding
 Maelstrom Palace was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -912,13 +910,11 @@ Maelstrom Palace was established in the distant past, growing from humble beginn
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -955,7 +951,6 @@ Mentioned in The Hidden Prophecy of Winds
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions

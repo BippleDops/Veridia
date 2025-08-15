@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Proudmore the Bold", "orion proudmore the bold", "Orion Proudmore Bold", "Bold the Proudmore Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Proudmore the Bold
 
 *Goliath Trader (Merchants), Age 30, Non-binary*
@@ -42,16 +48,13 @@ Part of a merchant family with connections everywhere A chance encounter last wi
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
 
-
 ### Qadim Emberfall the Broken (Professional - Rival)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Cedric Goldleaf the Wise (Criminal - Accomplice)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Killed previous business owner

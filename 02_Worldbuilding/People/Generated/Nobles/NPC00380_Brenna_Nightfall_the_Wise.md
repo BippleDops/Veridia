@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Nightfall the Wise", "brenna nightfall the wise", "Brenna Nightfall Wise", "Wise the Nightfall Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Nightfall the Wise
 
 *Elf Courtier (Nobles), Age 61, Male*
@@ -42,16 +48,13 @@ Secretly adopted into nobility, living in fear of discovery They've fallen in lo
 - **Status**: One-sided affection
 - **History**: United by common enemy
 
-
 ### Aeliana Silverleaf (Family - Spouse)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Malakai Nightfall the Fallen (Criminal - Fence)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Child from scandalous affair

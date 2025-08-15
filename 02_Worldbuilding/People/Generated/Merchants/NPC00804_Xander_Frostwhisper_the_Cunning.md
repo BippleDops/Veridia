@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Frostwhisper the Cunning", "xander frostwhisper the cunning", "Xander Frostwhisper Cunning", "Cunning the Frostwhisper Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Frostwhisper the Cunning
 
 *Firbolg Broker (Merchants), Age 50, Female*
@@ -13,7 +19,6 @@
 Below average and athletic, with Carefully styled unusual color hair and Brown eyes. Unusual hue skin. Burn scars on one side of face.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Never uses people's real names; Never backs down from any challenge; Always hungry and eating something
@@ -42,7 +47,6 @@ Built their business from nothing through cunning and hard work They've been mar
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Malakai Xendar the Strong (Criminal - Target)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
@@ -52,16 +56,13 @@ Built their business from nothing through cunning and hard work They've been mar
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
 
-
 ### Cedric Underhill the Bold (Professional - Mentor)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Dara Ironforge the Risen (Professional - Rival)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Is actually a spy for foreign power

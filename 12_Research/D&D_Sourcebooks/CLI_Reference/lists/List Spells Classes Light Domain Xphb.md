@@ -62,3 +62,25 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Arcane Eye Xphb]]
+- [[Burning Hands Xphb]]
+- [[Faerie Fire Xphb]]
+- [[Fireball Xphb]]
+- [[Flame Strike Xphb]]
+- [[Scorching Ray Xphb]]
+- [[Scrying Xphb]]
+- [[See Invisibility Xphb]]
+- [[Wall of Fire Xphb]]
+- [[arcane-eye-xphb (spells)]]
+- [[burning-hands-xphb (spells)]]
+- [[faerie-fire-xphb (spells)]]
+- [[fireball-xphb (spells)]]
+- [[flame-strike-xphb (spells)]]
+- [[scorching-ray-xphb (spells)]]
+- [[scrying-xphb (spells)]]
+- [[see-invisibility-xphb (spells)]]
+- [[wall-of-fire-xphb (spells)]]

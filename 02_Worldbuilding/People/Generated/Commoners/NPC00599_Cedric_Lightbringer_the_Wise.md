@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Lightbringer the Wise", "cedric lightbringer the wise", "Cedric Lightbringer Wise", "Wise the Lightbringer Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Lightbringer the Wise
 
 *Tiefling Carpenter (Commoners), Age 77, Female*
@@ -42,11 +48,9 @@ Survivor of a disaster that destroyed their village They've made a deal they're 
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Xander Ravenheart the Redeemed (Professional - Mentor)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ### Delara Nightfall the Cunning (Family - Sibling)
 - **Status**: Strained but maintaining
@@ -56,7 +60,6 @@ Survivor of a disaster that destroyed their village They've made a deal they're 
 ### Wynne Youngblood the Scholar (Family - Spouse)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ### Aeliana Keenblade the Strong (Personal - Love interest)
 - **Status**: One-sided affection

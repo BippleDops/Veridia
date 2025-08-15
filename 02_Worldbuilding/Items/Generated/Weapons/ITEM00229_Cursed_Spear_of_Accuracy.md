@@ -1,3 +1,9 @@
+---
+aliases: ["Cursed Spear of Accuracy", "cursed spear of accuracy", "Accuracy of Spear Cursed"]
+tags: [item, equipment]
+type: item
+---
+
 # Cursed Spear of Accuracy
 
 *Weapons, Common*
@@ -13,8 +19,6 @@ A cursed spear forged from meteoric iron
 ## Properties
 - Deals extra 1d6 elemental damage
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -29,7 +33,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.362Z*

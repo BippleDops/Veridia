@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Nightfall the Wanderer", "zephyr nightfall the wanderer", "Zephyr Nightfall Wanderer", "Wanderer the Nightfall Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Nightfall the Wanderer
 
 *Half-Elf Carpenter (Commoners), Age 69, Non-binary*
@@ -13,7 +19,6 @@
 Very short and compact, with Mohawk black hair and Hazel eyes. Fair skin. Missing finger on left hand.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Laughs at the most inappropriate times; Sees doom and gloom everywhere
@@ -36,22 +41,18 @@ Runaway from an arranged marriage, starting a new life Strange abilities have be
 - **Short Term**: Recruit new members
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Corvus Moonshadow the Risen (Professional - Employee)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Rhiannon Darkwater the Redeemed (Personal - Love interest)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
 
-
 ### Xander Nightfall the Strong (Political - Patron)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ### Ysara Frostwhisper the Seeker (Criminal - Fence)
 - **Status**: Professional only

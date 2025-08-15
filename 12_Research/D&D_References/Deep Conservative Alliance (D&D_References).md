@@ -57,7 +57,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
 
-
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition

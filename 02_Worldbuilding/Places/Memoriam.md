@@ -272,13 +272,11 @@ Memoriam is a notable location characterized by its unique features and strategi
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -286,13 +284,11 @@ Memoriam is a notable location characterized by its unique features and strategi
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -330,7 +326,6 @@ Key stop on metals trade route
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -366,3 +361,15 @@ Key stop on metals trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Dream Scholar Memoriam]]
+- [[Name Etymology Guide]]
+- [[Memoriam - The Forgotten Continent]]
+- [[Memoriam Keeper Marcus Remembrance]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide (D&D_References)]]
+- [[Aquabyssos - Session 05 - Descent into Darkness]]
+- [[Aquabyssos - Session 08 - The Fractal Conspiracy]]
+- [[The Forgotten One (D&D_References)]]

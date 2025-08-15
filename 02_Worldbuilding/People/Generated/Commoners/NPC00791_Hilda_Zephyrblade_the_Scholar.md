@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Zephyrblade the Scholar", "hilda zephyrblade the scholar", "Hilda Zephyrblade Scholar", "Scholar the Zephyrblade Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Zephyrblade the Scholar
 
 *Elf Baker (Commoners), Age 68, Male*
@@ -36,22 +42,18 @@ Family has worked the same trade for generations, but times are changing A chanc
 - **Short Term**: Complete current contract
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Solas Youngblood the Scholar (Criminal - Target)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
 
-
 ### Gareth Voidwalker the Broken (Family - Sibling)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Rhiannon Oakenshield the Strong (Professional - Mentor)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Has dragon blood in their veins

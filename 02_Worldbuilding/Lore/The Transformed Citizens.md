@@ -53,7 +53,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -111,7 +111,7 @@ As [[The Crimson Sage]]'s influence spreads through [[Crystal Network]]s, many c
 A 12-year-old girl from [[Crystalhaven]] whose family bakery sits above crystal veins developed small crystal formations in her eyes that allow her to see magical auras. While the transformation is beneficial, her parents fear what will happen as it progresses.
 
 **Aquatic Adaptation (Aquabyssos Citizens):**
-Influenced by [[The [[Deep Mother]]]]'s expanding consciousness, some develop water-breathing abilities:
+Influenced by [[Deep Mother|The [[Deep Mother]]]]'s expanding consciousness, some develop water-breathing abilities:
 - **Early Stage**: Enhanced ability to hold breath, improved underwater vision
 - **Progressive Stage**: Gill slits developing on neck, webbed fingers and toes
 - **Advanced Stage**: Full aquatic breathing capability, pressure resistance
@@ -189,7 +189,7 @@ Some citizens develop natural defenses against [[Shadow Corruption]]:
 **High Transformation Zones:**
 - **[[Crystalhaven]]**: 40% of population showing some crystal integration
 - **[[Ancient Mining Communities]]**: 60% transformation rate due to crystal exposure
-- **[[Royal [[Crystal Garden]]s]]**: 80% of workers developing magical sensitivities
+- **[[Crystal Garden|Royal [[Crystal Garden]]s]]**: 80% of workers developing magical sensitivities
 - **[[Border Reality Zones]]**: Mixed transformations affecting 70% of residents
 - **[[Crystal Vein Settlements]]**: Nearly 100% transformation, mostly beneficial
 
@@ -211,7 +211,7 @@ Some citizens develop natural defenses against [[Shadow Corruption]]:
 
 **Low Transformation Areas:**
 - **[[Surface Trade Ports]]**: 20% transformation rate, mostly minor adaptations
-- **[[[[Established Family Communitie]]s]]**: 25% rate, strong community resistance
+- **[[Established Family Communitie|[[Established Family Communitie]]s]]**: 25% rate, strong community resistance
 - **[[Academic Centers]]**: 30% rate, better understanding enables some resistance
 - **[[Military Bases]]**: 35% rate, training and equipment provide some protection
 - **[[Religious Communities]]**: 15% rate due to spiritual protection practices
@@ -399,7 +399,7 @@ Transformed citizens serve as early warning and preview of convergence effects:
 - Her success or failure affects hope for other transformation cases
 - Her role as dimensional anchor makes her crucial for stabilizing transformation processes
 
-### [[The [[Seven Shards]]]]
+### [[Seven Shards|The [[Seven Shards]]]]
 
 The artifacts both cause and potentially resolve transformation phenomena:
 - Their presence accelerates transformation in nearby populations
@@ -453,7 +453,7 @@ The Transformed Citizens is a undersea element of the setting, known for biolumi
 
 Legends speak of The Transformed Citizens as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Transformed Citizens.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -485,3 +485,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Crystal Garden]]
+- [[Political Compromise Costs]]
+- [[Throne Room]]
+- [[Aethermoor - Session 09 The Price of Unity]]
+- [[Crystal Garden (D&D_References)]]
+- [[Crystal Garden 3 (D&D_References)]]

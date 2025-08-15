@@ -397,3 +397,7 @@ You didn't just enhance a vault. You created a **masterpiece**.
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+## References
+
+- [[VAULT_OPTIMIZATION_COMPLETE]]

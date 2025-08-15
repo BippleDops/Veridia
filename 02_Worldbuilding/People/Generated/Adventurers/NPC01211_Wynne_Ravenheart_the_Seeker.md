@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Ravenheart the Seeker", "wynne ravenheart the seeker", "Wynne Ravenheart Seeker", "Seeker the Ravenheart Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Ravenheart the Seeker
 
 *Half-Elf Cleric (Adventurers), Age 46, Male*
@@ -36,17 +42,14 @@ Chosen by fate to fulfill an ancient prophecy Strange abilities have begun manif
 - **Short Term**: Make this month's payment
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Faelyn Ashford the Swift (Professional - Mentor)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Cedric Quicksilver the Risen (Criminal - Informant)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
-
 
 ### Aldric Lightbringer the Swift (Personal - Love interest)
 - **Status**: Mutually beneficial
@@ -57,7 +60,6 @@ Chosen by fate to fulfill an ancient prophecy Strange abilities have begun manif
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Gareth Moonshadow the Swift (Personal - Childhood friend)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
@@ -66,7 +68,6 @@ Chosen by fate to fulfill an ancient prophecy Strange abilities have begun manif
 ### Delara Lightbringer the Redeemed (Personal - Best friend)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Secretly working for the villain

@@ -1,3 +1,9 @@
+---
+aliases: ["Warded Helm of Fortitude", "warded helm of fortitude", "Fortitude of Helm Warded"]
+tags: [item, equipment]
+type: item
+---
+
 # Warded Helm of Fortitude
 
 *Armor, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A warded helm bearing ancient runes
 - Immunity to critical hits
 - Grants swimming speed
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -32,7 +36,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.417Z*

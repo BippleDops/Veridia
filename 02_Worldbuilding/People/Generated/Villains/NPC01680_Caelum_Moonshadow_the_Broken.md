@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Moonshadow the Broken", "caelum moonshadow the broken", "Caelum Moonshadow Broken", "Broken the Moonshadow Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Moonshadow the Broken
 
 *Elf Corrupt Noble (Villains), Age 39, Non-binary*
@@ -42,16 +48,13 @@ Believes their evil acts serve a greater good They've made a deal they're beginn
 - **Status**: Recently reconciled
 - **History**: United by common enemy
 
-
 ### Hestara Winterborn the Wanderer (Political - Puppet)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
 
-
 ### Idris Ironwood the Scholar (Criminal - Informant)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ### Felicia Winterborn the Wanderer (Family - Spouse)
 - **Status**: One-sided affection
@@ -61,7 +64,6 @@ Believes their evil acts serve a greater good They've made a deal they're beginn
 ### Orion Xendar the Broken (Political - Puppet)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Is being controlled by darker force

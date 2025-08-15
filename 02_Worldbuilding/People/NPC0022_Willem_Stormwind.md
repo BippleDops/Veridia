@@ -1,8 +1,8 @@
 ---
+aliases: ["Willem Stormwind", "willem stormwind", "Stormwind Willem"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -73,8 +73,6 @@ Child of farmers who sought adventure. Years ago, they was falsely accused of a 
 ### Skills
 Perception, Persuasion, Deception, Investigation
 
-
-
 ## Possessions
 - 57 gold pieces
 - Lucky dice
@@ -89,7 +87,6 @@ Perception, Persuasion, Deception, Investigation
 
 ---
 *Generated: 2025-08-15T03:21:04.028Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

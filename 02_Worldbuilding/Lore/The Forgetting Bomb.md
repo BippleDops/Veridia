@@ -51,7 +51,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -244,7 +244,7 @@ Despite international condemnation and treaty obligations, multiple organization
 **Social Breakdown:**
 - Complete collapse of family and community structures
 - Loss of professional expertise and institutional knowledge
-- Breakdown of [[Economic System]]s dependent on memory and trust
+- Breakdown of [[Economic_System|Economic System]]s dependent on memory and trust
 - Elimination of cultural practices and traditions
 - Mass displacement as people cannot remember homes or jobs
 
@@ -291,7 +291,7 @@ The [[Meridian Accords]] established international law regarding Forgetting Bomb
 ### Religious and Philosophical Opposition
 
 **[[The Depth Mysteries Cult]] Position:**
-- Memory is sacred gift from [[The [[Deep Mother]]]]
+- Memory is sacred gift from [[Deep Mother|The [[Deep Mother]]]]
 - Destroying memories is form of spiritual murder
 - Forgetting Bomb represents ultimate blasphemy
 - Victims become "hollow shells" without divine connection
@@ -428,7 +428,7 @@ The Forgetting Bomb is a undersea element of the setting, known for bioluminesce
 
 Legends speak of The Forgetting Bomb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Forgetting Bomb.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 

@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Xendar the Guardian", "nerys xendar the guardian", "Nerys Xendar Guardian", "Guardian the Xendar Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Xendar the Guardian
 
 *Gnome Appraiser (Merchants), Age 33, Non-binary*
@@ -36,7 +42,6 @@ Inherited a failing business and turned it around They recently discovered a sec
 - **Short Term**: Gather information
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Baelor Underhill the Mystic (Criminal - Informant)
 - **Status**: Complicated history
@@ -47,7 +52,6 @@ Inherited a failing business and turned it around They recently discovered a sec
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Elric Ironforge the Strong (Political - Puppet)
 - **Status**: Complicated history
 - **History**: United by common enemy
@@ -57,11 +61,9 @@ Inherited a failing business and turned it around They recently discovered a sec
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Branwen Hawthorne the Guardian (Criminal - Handler)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Is actually a spy for foreign power

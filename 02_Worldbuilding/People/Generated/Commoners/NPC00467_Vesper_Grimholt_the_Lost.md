@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Grimholt the Lost", "vesper grimholt the lost", "Vesper Grimholt Lost", "Lost the Grimholt Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Grimholt the Lost
 
 *Gnome Baker (Commoners), Age 21, Non-binary*
@@ -36,17 +42,14 @@ Grew up in poverty but discovered a talent that might change everything They're 
 - **Short Term**: Recruit new members
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Qadim Ravenheart the Seeker (Criminal - Fence)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Idris Emberfall the Scholar (Professional - Partner)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ### Solas Nightfall the Strong (Family - Sibling)
 - **Status**: Recently reconciled

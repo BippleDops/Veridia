@@ -40,7 +40,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -154,7 +154,7 @@ The primary plague ward occupies an entire wing of the city's largest hospital. 
 **Marina Tidwell (Age 34, Stage 2)**
 Former dock worker, infected during cargo handling. Her crystalline patches form geometric patterns reminiscent of ship hull designs. She spends hours sketching impossible ship blueprints that seem to move on their own.
 
-*"The crystals[[...]] they show me ships that could sail between stars. I know it's the plague talking, but the designs are so beautiful."*
+*"The crystals[[Quest Corruption in ... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements|...]] they show me ships that could sail between stars. I know it's the plague talking, but the designs are so beautiful."*
 
 **Young Thomas Tidwell (Age 8, Stage 1)**  
 Marina's son, showing early symptoms. The medical staff debate separating him from his mother. He builds [[Crystal Garden]]s from his fingernail clippings, which grow overnight into tiny geometric forests.
@@ -384,13 +384,11 @@ Crystal Plague Wards is a notable location characterized by its unique features 
 ### Founding
 Crystal Plague Wards was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -398,13 +396,11 @@ Crystal Plague Wards was established in the distant past, growing from humble be
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -442,7 +438,6 @@ Mentioned in The First Prophecy of Stars
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -478,3 +473,16 @@ Mentioned in The First Prophecy of Stars
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Quarantine Enforcement]]
+- [[Underground Smuggling Networks]]
+- [[Crystal Plague Infected NPCs]]
+- [[Crystal Cult Temples]]
+- [[Black Market Crystal Trade]]
+- [[Crystal Cult Temples (D&D_References)]]
+- [[Crystal Plague Infected NPCs (D&D_References)]]
+- [[Medical Research Facilities]]
+- [[Quarantine Enforcement (D&D_References)]]
+- [[Underground Smuggling Networks (D&D_References)]]

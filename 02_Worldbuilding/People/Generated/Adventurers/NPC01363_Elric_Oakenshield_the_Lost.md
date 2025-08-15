@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Oakenshield the Lost", "elric oakenshield the lost", "Elric Oakenshield Lost", "Lost the Oakenshield Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Oakenshield the Lost
 
 *Tiefling Bard (Adventurers), Age 22, Female*
@@ -36,7 +42,6 @@ Running from a dark past that won't stay buried They recently discovered a secre
 - **Short Term**: Recruit new members
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Felicia Silverleaf the Guardian (Family - Cousin)
 - **Status**: Recently reconciled
@@ -62,11 +67,9 @@ Running from a dark past that won't stay buried They recently discovered a secre
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Gareth Ironforge the Risen (Professional - Employer)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Has died and been resurrected

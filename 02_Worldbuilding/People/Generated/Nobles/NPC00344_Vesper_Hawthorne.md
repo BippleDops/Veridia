@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Hawthorne", "vesper hawthorne", "Hawthorne Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Hawthorne
 
 *Half-Orc Courtier (Nobles), Age 74, Female*
@@ -36,22 +42,18 @@ Recently elevated to nobility through service, still learning courtly ways A fam
 - **Short Term**: Avoid the authorities
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Cedric Youngblood (Criminal - Handler)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
 
-
 ### Faelyn Youngblood (Political - Puppet)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Cedric Hawthorne the Lost (Criminal - Informant)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
-
 
 ### Xander Winterborn (Professional - Employer)
 - **Status**: Mutually beneficial

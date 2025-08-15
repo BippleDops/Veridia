@@ -313,3 +313,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Aethermoor - Session 10 The Deep Mother Rises]]
+- [[Campaign Epilogues (D&D_References)]]
+- [[Consequence Chain 3 Reality Merger Diplomatic Crisis (D&D_References)]]
+- [[Consequence Chain 3 Reality Merger]]
+- [[Shattered Isles]]
+- [[Envoy Blackwater Jr (D&D_Statblocks)]]
+- [[Envoy Blackwater Jr.]]

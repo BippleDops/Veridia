@@ -36,10 +36,8 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-master-of-currents-zephyr-master-of-currents-zephyr.svg)
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -223,7 +221,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Member of House Lionblood - Trait: divine blood
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -259,3 +256,11 @@ Member of House Lionblood - Trait: divine blood
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Merchant Lord Silas Copperfield V1 Merchant Lord Silas Copperfield.svg]]
+- [[Assets Symbols Symbol Heraldry Harmonic Mind Contro Harmonic Mind Contro.svg]]
+- [[Assets Symbols Symbol Heraldry Supernatural Mysteries Supernatural Mysteries.svg]]
+- [[Compass Quest]]
+- [[Compass Quest (D&D_References)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Darkwater", "aeliana darkwater", "Darkwater Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Darkwater
 
 *Dwarf Noble (Nobles), Age 38, Non-binary*
@@ -36,17 +42,14 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Avoid the authorities
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Hilda Proudmore (Political - Puppet)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Alaric Hawthorne the Strong (Criminal - Target)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ### Dara Oakenshield the Wise (Political - Spy)
 - **Status**: Strained but maintaining
@@ -61,7 +64,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 ### Caelum Ironforge the Risen (Political - Puppet)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Actually a bastard with no real claim

@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-free-captains-alliance-free-captains-alliance.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -208,7 +206,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -278,3 +275,9 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City Commander Drake Pressureborn Commander Drake Pressureborn.svg]]
+- [[Assets Locations Location City Prophetic Dreams V1 Prophetic Dreams.svg]]
+- [[Assets Symbols Symbol Heraldry Salvage Master Ironwork Salvage Master Ironwork.svg]]

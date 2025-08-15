@@ -340,7 +340,6 @@ The Crow's network connects to numerous other locations and organizations:
 
 *The Crow's Perch represents the shadowy underbelly of diplomacy and politics in Aquabyssos. In a world where information can be more valuable than gold and secrets can topple governments, the network serves as both a vital service and a constant reminder that someone is always watching from the shadows.*
 
-
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
@@ -386,13 +385,11 @@ Spymaster Crow is a notable location characterized by its unique features and st
 ### Founding
 Spymaster Crow was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -463,7 +460,6 @@ Ongoing situations affecting Spymaster Crow:
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -499,3 +495,11 @@ Ongoing situations affecting Spymaster Crow:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Investigation Procedures]]
+- [[Memory Merchant Zephyr Mindweaver]]
+- [[Pressure's End]]
+- [[Pressure's End (D&D_References)]]
+- [[Memory Merchant Zephyr Mindweaver (D&D_Statblocks)]]

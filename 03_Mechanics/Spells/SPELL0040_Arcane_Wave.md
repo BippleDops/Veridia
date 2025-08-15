@@ -1,4 +1,5 @@
 ---
+aliases: ["Arcane Wave", "arcane wave", "Wave Arcane"]
 tags: [generated]
 id: SPELL0040_Arcane_Wave
 created: 2025-08-15T04:09:51.475Z

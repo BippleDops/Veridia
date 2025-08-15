@@ -45,7 +45,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -97,7 +97,7 @@ The Wind Rider Traditions represent the heart and soul of Aethermoor's aerial cu
 
 ### Sky Knights - The Storm Masters
 
-**Elite Status:** Military aristocracy and [[Aerial Combat]] specialists
+**Elite Status:** Military aristocracy and [[Aerial_Combat|Aerial Combat]] specialists
 **Mount Traditions:** Partner with Greater Wind Drakes or Storm Eagles from adolescence
 **Cultural Role:** Protectors of sky cities, leaders in aerial warfare
 **Training Regimen:**
@@ -219,7 +219,7 @@ The Wind Rider Traditions represent the heart and soul of Aethermoor's aerial cu
 - Joint participation in seasonal migration duties
 - Collaborative weather prediction and storm preparation
 - Teaching children aerial skills as unified parenting approach
-- Annual renewal flights to original wedding wind-[[Current Location]]
+- Annual renewal flights to original wedding wind-[[Current_Location|Current Location]]
 
 ### Death and Mourning Practices
 
@@ -403,7 +403,7 @@ The Wind Rider Traditions represent the heart and soul of Aethermoor's aerial cu
 
 **Successful Integration Strategies:**
 - Joint festivals celebrating both aerial and aquatic themes
-- [[[[Cultural Exchange]] Programs]] pairing [[Wind Riders]] with depth swimmers
+- [[Cultural Exchange|[[Cultural Exchange]] Programs]] pairing [[Wind Riders]] with depth swimmers
 - Shared exploration of transitional environments like coastal areas
 - Combined military exercises for defending against mutual threats
 - Trade partnerships leveraging complementary transportation capabilities
@@ -451,7 +451,7 @@ Aethermoor Wind Rider Traditions is a sky-borne element of the setting, known fo
 
 Legends speak of Aethermoor Wind Rider Traditions as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aethermoor Wind Rider Traditions.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -508,3 +508,8 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Sky Burial Traditions]]
+- [[Sky Burial Traditions (D&D_References)]]

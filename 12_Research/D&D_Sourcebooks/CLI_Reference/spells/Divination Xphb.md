@@ -93,3 +93,21 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Archaic Scc]]
+- [[archaic-scc (celestial)]]
+- [[Mummy Lord]]
+- [[mummy-lord (legendary-group)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Devastation Orb Pota]]
+- [[Devastation Orb of Air Pota]]
+- [[Devastation Orb of Earth Pota]]
+- [[Devastation Orb of Water Pota]]
+- [[devastation-orb-of-air-pota (items)]]
+- [[devastation-orb-of-earth-pota (items)]]
+- [[devastation-orb-of-water-pota (items)]]
+- [[devastation-orb-pota (items)]]

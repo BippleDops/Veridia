@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Lightbringer the Seeker", "ewan lightbringer the seeker", "Ewan Lightbringer Seeker", "Seeker the Lightbringer Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Lightbringer the Seeker
 
 *Half-Orc Ranger (Adventurers), Age 68, Female*
@@ -36,17 +42,14 @@ Accidentally gained powers and learning to control them A family member's death 
 - **Short Term**: Sabotage competition
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Ysara Grimholt the Broken (Professional - Employer)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
 
-
 ### Dara Winterborn the Swift (Family - Child)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ### Kaelen Underhill the Wise (Criminal - Accomplice)
 - **Status**: Blood oath bound
@@ -56,7 +59,6 @@ Accidentally gained powers and learning to control them A family member's death 
 ### Delara Voidwalker the Fallen (Criminal - Informant)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Is from the future

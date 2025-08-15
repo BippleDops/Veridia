@@ -1,6 +1,5 @@
 ---
 
-
 title: 04_Resources/Handouts
 type: lore
 tags:
@@ -112,7 +111,6 @@ Mentioned in The Hidden Prophecy of Winds
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
-
 
 ## See Also
 - Related content

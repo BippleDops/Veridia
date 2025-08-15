@@ -1,3 +1,9 @@
+---
+aliases: ["Greater Salve of Fortune", "greater salve of fortune", "Fortune of Salve Greater"]
+tags: [item, equipment]
+type: item
+---
+
 # Greater Salve of Fortune
 
 *Consumables, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A greater salve emanating sweet fragrance
 - Grant advantage for 1 hour
 - Remove one condition
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -31,7 +35,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.462Z*

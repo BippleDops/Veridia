@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Grimholt the Redeemed", "idris grimholt the redeemed", "Idris Grimholt Redeemed", "Redeemed the Grimholt Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Grimholt the Redeemed
 
 *Human Broker (Merchants), Age 22, Male*
@@ -42,11 +48,9 @@ Former adventurer who retired to open a shop They've fallen in love with someone
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Gareth Ashford the Guardian (Criminal - Handler)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ### Fiora Zephyrblade the Risen (Family - Cousin)
 - **Status**: Blood oath bound
@@ -56,7 +60,6 @@ Former adventurer who retired to open a shop They've fallen in love with someone
 ### Erasmus Ravenheart the Lost (Political - Spy)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Sells information to all sides

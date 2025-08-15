@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Underhill the Wise", "solas underhill the wise", "Solas Underhill Wise", "Wise the Underhill Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Underhill the Wise
 
 *Human Bard (Adventurers), Age 74, Non-binary*
@@ -36,12 +42,10 @@ Seeking vengeance for a murdered mentor They recently discovered a secret that c
 - **Short Term**: Gather information
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Malakai Brightblade the Strong (Criminal - Fence)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
-
 
 ### Xander Crystalbrook the Strong (Professional - Mentor)
 - **Status**: Professional only
@@ -52,7 +56,6 @@ Seeking vengeance for a murdered mentor They recently discovered a secret that c
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Caelum Frostwhisper the Broken (Personal - Love interest)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
@@ -61,7 +64,6 @@ Seeking vengeance for a murdered mentor They recently discovered a secret that c
 ### Rhiannon Stormwind the Guardian (Family - Child)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Carries a world-ending artifact

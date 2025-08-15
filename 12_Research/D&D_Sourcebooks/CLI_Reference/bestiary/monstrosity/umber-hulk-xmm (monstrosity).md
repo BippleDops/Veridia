@@ -137,3 +137,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Umber Hulk Xmm]]
+- [[Claws of the Umber Hulk Pota]]
+- [[claws-of-the-umber-hulk-pota (items)]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[Underdark Encounters Levels 1116 Xge]]
+- [[Underdark Encounters Levels 1720 Xge]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]
+- [[underdark-encounters-levels-1116-xge (tables)]]
+- [[underdark-encounters-levels-1720-xge (tables)]]

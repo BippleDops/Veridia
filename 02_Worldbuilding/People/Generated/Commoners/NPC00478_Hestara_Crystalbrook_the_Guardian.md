@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Crystalbrook the Guardian", "hestara crystalbrook the guardian", "Hestara Crystalbrook Guardian", "Guardian the Crystalbrook Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Crystalbrook the Guardian
 
 *Gnome Fisher (Commoners), Age 56, Non-binary*
@@ -13,7 +19,6 @@
 Below average and lanky, with Braided elaborately red hair and Red eyes. Tan skin. Intricate tattoos covering arms.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Sees doom and gloom everywhere
@@ -42,16 +47,13 @@ Family has worked the same trade for generations, but times are changing A famil
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Delara Stormwind the Cunning (Family - Sibling)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Elric Emberfall the Broken (Criminal - Fence)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
-
 
 ### Aeliana Quicksilver the Redeemed (Professional - Employee)
 - **Status**: Secretly hostile

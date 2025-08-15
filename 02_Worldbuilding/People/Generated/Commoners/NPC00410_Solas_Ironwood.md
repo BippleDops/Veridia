@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Ironwood", "solas ironwood", "Ironwood Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Ironwood
 
 *Human Fisher (Commoners), Age 43, Male*
@@ -36,7 +42,6 @@ Family has worked the same trade for generations, but times are changing They've
 - **Short Term**: Find missing person
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Aeliana Keenblade (Personal - Ex-lover)
 - **Status**: Complicated history
@@ -52,11 +57,9 @@ Family has worked the same trade for generations, but times are changing They've
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
 
-
 ### Cedric Nightfall the Wise (Personal - Love interest)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
-
 
 ### Wynne Stormwind the Wanderer (Professional - Partner)
 - **Status**: Secretly hostile

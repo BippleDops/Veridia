@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Thornweave", "urien thornweave", "Thornweave Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Thornweave
 
 *Gnome Fisher (Commoners), Age 45, Non-binary*
@@ -36,7 +42,6 @@ Family has worked the same trade for generations, but times are changing A proph
 - **Short Term**: Find missing person
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Hestara Blackstone (Professional - Partner)
 - **Status**: Strong and trusting
@@ -47,21 +52,17 @@ Family has worked the same trade for generations, but times are changing A proph
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Thalia Thornweave the Redeemed (Political - Puppet)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ### Aldric Goldleaf the Redeemed (Professional - Rival)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Baelor Winterborn the Broken (Personal - Love interest)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Witnessed a noble's crime

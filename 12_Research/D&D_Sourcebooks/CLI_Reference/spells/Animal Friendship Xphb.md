@@ -102,3 +102,32 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Animal Lord Forager Xmm]]
+- [[Animal Lord Hunter Xmm]]
+- [[Animal Lord Sage Xmm]]
+- [[Animal Lord Xmm]]
+- [[animal-lord-forager-xmm (celestial)]]
+- [[animal-lord-hunter-xmm (celestial)]]
+- [[animal-lord-sage-xmm (celestial)]]
+- [[animal-lord-xmm (celestial)]]
+- [[Dryad Xmm]]
+- [[dryad-xmm (fey)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Nature Domain]]
+- [[cleric-xphb-nature-domain (classes)]]
+- [[cleric-xphb-nature-domain 2 (classes)]]
+- [[Instrument of the Bards Doss Lute Xdmg]]
+- [[Potion of Animal Friendship Xdmg]]
+- [[Ring of Animal Influence Xdmg]]
+- [[Staff of the Woodlands Xdmg]]
+- [[instrument-of-the-bards-doss-lute-xdmg (items)]]
+- [[potion-of-animal-friendship-xdmg (items)]]
+- [[ring-of-animal-influence-xdmg (items)]]
+- [[staff-of-the-woodlands-xdmg (items)]]
+- [[Yuan Ti Pureblood Vgm]]
+- [[yuan-ti-pureblood-vgm (races)]]

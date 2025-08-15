@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Emberfall the Swift", "pyria emberfall the swift", "Pyria Emberfall Swift", "Swift the Emberfall Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Emberfall the Swift
 
 *Gnome Corrupt Noble (Villains), Age 48, Male*
@@ -42,7 +48,6 @@ Betrayed by those they trusted, now seeking revenge on the world They've been ma
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Vesper Nightfall the Guardian (Family - Sibling)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
@@ -51,7 +56,6 @@ Betrayed by those they trusted, now seeking revenge on the world They've been ma
 ### Zephyr Crystalbrook the Swift (Criminal - Target)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Believes they're saving the world

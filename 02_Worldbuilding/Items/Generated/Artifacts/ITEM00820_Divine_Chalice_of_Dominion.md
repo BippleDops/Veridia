@@ -1,3 +1,9 @@
+---
+aliases: ["Divine Chalice of Dominion", "divine chalice of dominion", "Dominion of Chalice Divine"]
+tags: [item, equipment]
+type: item
+---
+
 # Divine Chalice of Dominion
 
 *Artifacts, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A divine chalice pulsing with inner light
 - Plane shift 1/day
 - Time stop 1/week
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -32,7 +36,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.429Z*

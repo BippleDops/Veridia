@@ -1,3 +1,9 @@
+---
+aliases: ["Venomous Sword of Accuracy", "venomous sword of accuracy", "Accuracy of Sword Venomous"]
+tags: [item, equipment]
+type: item
+---
+
 # Venomous Sword of Accuracy
 
 *Weapons, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A venomous sword carved from dragon bone
 - Deals extra 1d6 elemental damage
 - Returns when thrown
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -32,7 +36,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.375Z*

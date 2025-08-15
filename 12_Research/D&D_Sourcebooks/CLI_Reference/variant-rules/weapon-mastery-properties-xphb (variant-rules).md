@@ -110,3 +110,14 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Barbarian Xphb]]
+- [[Fighter Xphb]]
+- [[Paladin Xphb]]
+- [[Rogue Xphb]]
+- [[barbarian-xphb (classes)]]
+- [[fighter-xphb (classes)]]
+- [[paladin-xphb (classes)]]
+- [[rogue-xphb (classes)]]

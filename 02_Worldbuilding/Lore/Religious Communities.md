@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -84,7 +84,7 @@ Religious Communities is a undersea element of the setting, known for biolumines
 
 Legends speak of Religious Communities as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Religious Communities.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -106,3 +106,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Strange dreams suggest a portal
 - Strange disappearances suggest ancient magic
 - Strange disappearances suggest a portal
+
+## References
+
+- [[Shadow Magic Integration Practices]]
+- [[The Bathyal Succession]]
+- [[The Restoration Movement]]
+- [[The Transformed Citizens]]
+- [[Underground Smuggling Networks]]
+- [[The Transformed Citizens (D&D_References)]]

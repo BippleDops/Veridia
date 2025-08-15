@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Ravenheart the Risen", "alaric ravenheart the risen", "Alaric Ravenheart Risen", "Risen the Ravenheart Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Ravenheart the Risen
 
 *Halfling Dark Wizard (Villains), Age 40, Male*
@@ -36,7 +42,6 @@ Born into evil but questioning their path They're being blackmailed by someone f
 - **Short Term**: Gather information
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Branwen Voidwalker the Risen (Family - Sibling)
 - **Status**: Secretly hostile
@@ -47,11 +52,9 @@ Born into evil but questioning their path They're being blackmailed by someone f
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
 
-
 ### Hilda Proudmore the Lost (Personal - Childhood friend)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Was once a renowned hero

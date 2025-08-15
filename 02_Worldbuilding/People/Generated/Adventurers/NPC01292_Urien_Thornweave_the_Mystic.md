@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Thornweave the Mystic", "urien thornweave the mystic", "Urien Thornweave Mystic", "Mystic the Thornweave Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Thornweave the Mystic
 
 *Tabaxi Fighter (Adventurers), Age 63, Female*
@@ -13,7 +19,6 @@
 Tall and muscular, with Shaved auburn hair and Hazel eyes. Freckled skin. Weather-beaten face showing hard life.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Collects unusual and worthless objects
@@ -36,17 +41,14 @@ Accidentally gained powers and learning to control them They're being blackmaile
 - **Short Term**: Gather information
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Cedric Frostwhisper the Wanderer (Professional - Partner)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Aeliana Keenblade the Mystic (Criminal - Accomplice)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ### Ysara Zephyrblade the Wise (Criminal - Informant)
 - **Status**: Blood oath bound

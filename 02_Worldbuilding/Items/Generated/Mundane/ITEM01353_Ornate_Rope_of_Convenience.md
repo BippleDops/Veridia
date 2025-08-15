@@ -1,3 +1,9 @@
+---
+aliases: ["Ornate Rope of Convenience", "ornate rope of convenience", "Convenience of Rope Ornate"]
+tags: [item, equipment]
+type: item
+---
+
 # Ornate Rope of Convenience
 
 *Mundane, Uncommon*
@@ -14,8 +20,6 @@ A ornate rope bearing maker's mark
 - Weighs half normal
 - Never breaks or wears out
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -30,7 +34,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.479Z*

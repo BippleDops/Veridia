@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Frostwhisper the Scholar", "ysara frostwhisper the scholar", "Ysara Frostwhisper Scholar", "Scholar the Frostwhisper Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Frostwhisper the Scholar
 
 *Goliath Farmer (Commoners), Age 20, Female*
@@ -36,32 +42,26 @@ Family has worked the same trade for generations, but times are changing They're
 - **Short Term**: Avoid the authorities
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Cedric Zephyrblade the Lost (Professional - Partner)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Elric Silverleaf the Scholar (Personal - Love interest)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
-
 
 ### Ysara Keenblade the Lost (Personal - Ex-lover)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
 
-
 ### Faelyn Blackstone the Guardian (Family - Child)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
 
-
 ### Jorah Nightfall the Seeker (Personal - Nemesis)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Can hear the thoughts of others

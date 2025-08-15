@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Quicksilver the Scholar", "corvus quicksilver the scholar", "Corvus Quicksilver Scholar", "Scholar the Quicksilver Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Quicksilver the Scholar
 
 *Gnome Baker (Commoners), Age 63, Male*
@@ -36,17 +42,14 @@ Family has worked the same trade for generations, but times are changing A proph
 - **Short Term**: Recruit new members
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Ewan Oakenshield the Scholar (Political - Opposition)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Baelor Voidwalker the Redeemed (Professional - Mentor)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ### Qadim Proudmore the Swift (Criminal - Informant)
 - **Status**: Professional only

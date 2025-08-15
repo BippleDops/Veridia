@@ -1,3 +1,9 @@
+---
+aliases: ["Cursed Dagger of Power", "cursed dagger of power", "Power of Dagger Cursed"]
+tags: [item, equipment]
+type: item
+---
+
 # Cursed Dagger of Power
 
 *Weapons, Legendary*
@@ -16,8 +22,6 @@ A cursed dagger made of crystallized magic
 - Can strike ethereal creatures
 - Ignores resistance to damage type
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -32,7 +36,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.366Z*

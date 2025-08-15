@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Voidwalker the Wanderer", "rhiannon voidwalker the wanderer", "Rhiannon Voidwalker Wanderer", "Wanderer the Voidwalker Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Voidwalker the Wanderer
 
 *Elf Corrupt Noble (Villains), Age 33, Non-binary*
@@ -42,7 +48,6 @@ Born into evil but questioning their path Strange abilities have begun manifesti
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Xander Grimholt the Lost (Professional - Employee)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
@@ -56,7 +61,6 @@ Born into evil but questioning their path Strange abilities have begun manifesti
 ### Zephyr Darkwater the Fallen (Criminal - Accomplice)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
-
 
 ### Qadim Ironforge the Redeemed (Professional - Mentor)
 - **Status**: Mutually beneficial

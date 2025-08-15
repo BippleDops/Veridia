@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Lightbringer the Wise", "fiora lightbringer the wise", "Fiora Lightbringer Wise", "Wise the Lightbringer Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Lightbringer the Wise
 
 *Gnome Wizard (Adventurers), Age 31, Female*
@@ -13,7 +19,6 @@
 Towering and slender, with Braided elaborately brown hair and Gray eyes. Fair skin. Missing ear from old battle.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Constantly quotes ancient texts
@@ -36,7 +41,6 @@ Searching for a legendary treasure their parent died seeking Strange abilities h
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Gareth Stormwind the Scholar (Personal - Nemesis)
 - **Status**: Professional only
@@ -47,11 +51,9 @@ Searching for a legendary treasure their parent died seeking Strange abilities h
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Idris Crystalbrook the Strong (Personal - Childhood friend)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ### Thalia Zephyrblade the Mystic (Professional - Partner)
 - **Status**: Strong and trusting
@@ -61,7 +63,6 @@ Searching for a legendary treasure their parent died seeking Strange abilities h
 ### Faelyn Dawnstrider the Guardian (Family - Cousin)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Is from the future

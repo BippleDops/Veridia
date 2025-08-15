@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Dawnstrider the Strong", "kaelen dawnstrider the strong", "Kaelen Dawnstrider Strong", "Strong the Dawnstrider Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Dawnstrider the Strong
 
 *Dragonborn Crime Boss (Villains), Age 27, Male*
@@ -36,17 +42,14 @@ Driven mad by knowledge humanity wasn't meant to know They've fallen in love wit
 - **Short Term**: Complete current contract
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Wynne Lightbringer the Lost (Criminal - Informant)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Malakai Goldleaf the Wanderer (Criminal - Accomplice)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ### Gareth Hawthorne the Wanderer (Family - Spouse)
 - **Status**: Secretly hostile

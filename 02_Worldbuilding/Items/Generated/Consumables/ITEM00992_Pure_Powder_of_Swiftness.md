@@ -1,3 +1,9 @@
+---
+aliases: ["Pure Powder of Swiftness", "pure powder of swiftness", "Swiftness of Powder Pure"]
+tags: [item, equipment]
+type: item
+---
+
 # Pure Powder of Swiftness
 
 *Consumables, Rare*
@@ -15,8 +21,6 @@ A pure powder emanating sweet fragrance
 - Fly for 1 hour
 - Breathe underwater 1 hour
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -31,7 +35,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.445Z*

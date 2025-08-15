@@ -1,8 +1,8 @@
 ---
+aliases: ["Katarina Stormwind", "katarina stormwind", "Stormwind Katarina"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -71,8 +71,6 @@ Former soldier who left after a traumatic battle. Years ago, they once saved a n
 ### Skills
 Stealth
 
-
-
 ## Possessions
 - 15 gold pieces
 - Lucky dice
@@ -84,7 +82,6 @@ Stealth
 
 ---
 *Generated: 2025-08-15T03:21:04.030Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Goldleaf", "solas goldleaf", "Goldleaf Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Goldleaf
 
 *Tiefling Aristocrat (Nobles), Age 40, Male*
@@ -36,7 +42,6 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Short Term**: Avoid the authorities
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Vesper Moonshadow the Swift (Criminal - Accomplice)
 - **Status**: Blood oath bound
@@ -47,16 +52,13 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
 
-
 ### Alaric Nightfall (Family - Parent)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
 
-
 ### Urien Nightfall (Political - Puppet)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ### Dara Quicksilver the Swift (Personal - Childhood friend)
 - **Status**: Professional only

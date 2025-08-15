@@ -1,3 +1,9 @@
+---
+aliases: ["Infernal Crown of the Gods", "infernal crown of the gods", "Infernal Crown of Gods", "Gods the of Crown Infernal"]
+tags: [item, equipment]
+type: item
+---
+
 # Infernal Crown of the Gods
 
 *Artifacts, Artifact*
@@ -16,8 +22,6 @@ A infernal crown pulsing with inner light
 - Plane shift 1/day
 - Time stop 1/week
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -32,7 +36,6 @@ Priceless
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.418Z*

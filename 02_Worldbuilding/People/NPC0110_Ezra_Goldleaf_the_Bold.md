@@ -1,11 +1,11 @@
 ---
+aliases: ["Ezra Goldleaf the Bold", "ezra goldleaf the bold", "Ezra Goldleaf Bold", "Bold the Goldleaf Ezra"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -90,7 +90,6 @@ Deception, Athletics
 
 ---
 *Generated: 2025-08-15T03:21:04.038Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

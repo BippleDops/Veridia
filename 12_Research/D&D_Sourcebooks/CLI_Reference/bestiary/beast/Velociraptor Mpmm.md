@@ -141,3 +141,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[velociraptor-mpmm (beast)]]
+- [[3 Bestiary]]
+- [[3-bestiary (volos-guide-to-monsters)]]

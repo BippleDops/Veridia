@@ -56,3 +56,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A prisoner has gone missing and war looms
 - A noble needs help investigating before winter
+
+## References
+
+- [[The Depth Accords (D&D_References)]]

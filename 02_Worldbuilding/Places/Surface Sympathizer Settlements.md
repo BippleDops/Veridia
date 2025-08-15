@@ -32,14 +32,12 @@ improvements: 20
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-surface-sympathizer-settlements-surface-sympathizer-settlements.svg)
 
 # Surface Sympathizer Settlements
 
 *"Where forbidden dreams of sky and sun still burn bright."*
-
 
 ## Connections
 - **North**: Trade road to neighboring settlement
@@ -238,7 +236,6 @@ Key stop on magic items trade route
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions

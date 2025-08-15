@@ -2,7 +2,7 @@
 tags: ['[[Lore]]']
 ---
 
-# [[02 Worldbuilding]]/Lore/[[The [[Crystal Heart]] Shard]]
+# [[02_Worldbuilding|02 Worldbuilding]]/Lore/[[Crystal_Heart|The [[Crystal Heart]] Shard]]
 
 ## Overview
 

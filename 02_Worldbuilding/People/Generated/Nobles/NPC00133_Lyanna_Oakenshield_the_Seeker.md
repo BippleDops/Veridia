@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Oakenshield the Seeker", "lyanna oakenshield the seeker", "Lyanna Oakenshield Seeker", "Seeker the Oakenshield Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Oakenshield the Seeker
 
 *Tiefling Ambassador (Nobles), Age 28, Non-binary*
@@ -36,7 +42,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Recruit new members
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Fiora Lightbringer (Criminal - Handler)
 - **Status**: Secretly hostile
@@ -56,7 +61,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 ### Drusilla Ravenheart (Family - Cousin)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Actually a bastard with no real claim

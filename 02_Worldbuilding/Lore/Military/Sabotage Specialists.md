@@ -115,3 +115,8 @@ improvements: 20
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[02_Worldbuilding_Military_Sabotage_Specialists]]
+- [[Purist Coalition (D&D_References)]]

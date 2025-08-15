@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Winterborn the Cunning", "vesper winterborn the cunning", "Vesper Winterborn Cunning", "Cunning the Winterborn Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Winterborn the Cunning
 
 *Halfling Cultist (Villains), Age 75, Female*
@@ -36,22 +42,18 @@ Believes their evil acts serve a greater good A family member's death has left t
 - **Short Term**: Recruit new members
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Rhiannon Stormwind the Wanderer (Family - Child)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Idris Keenblade the Bold (Criminal - Target)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Idris Ravenheart the Scholar (Personal - Best friend)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Has a child they're protecting

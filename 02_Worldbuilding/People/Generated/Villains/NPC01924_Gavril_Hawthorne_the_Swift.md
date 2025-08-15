@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Hawthorne the Swift", "gavril hawthorne the swift", "Gavril Hawthorne Swift", "Swift the Hawthorne Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Hawthorne the Swift
 
 *Genasi Cultist (Villains), Age 58, Non-binary*
@@ -36,12 +42,10 @@ Born into evil but questioning their path Strange abilities have begun manifesti
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Ysara Nightfall the Scholar (Personal - Love interest)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ### Branwen Thornweave the Wanderer (Personal - Ex-lover)
 - **Status**: Professional only
@@ -51,7 +55,6 @@ Born into evil but questioning their path Strange abilities have begun manifesti
 ### Urien Nightfall the Risen (Personal - Love interest)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Knows how the world will end

@@ -216,3 +216,7 @@ This NPC can serve multiple roles:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-the-sunken-cathedral-of-perfect-order-v1-the-sunken-cathedral-of-perfect-order.svg]]

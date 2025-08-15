@@ -24,7 +24,6 @@ updated: 2025-08-14
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 # Shadow Conspiracy NPCs
 
 ## Overview
@@ -55,13 +54,11 @@ Born into modest circumstances, Shadow Conspiracy NPCs rose through dedication a
 - **Rivals**: [[Shadow Conspiracy]]
 - **Contacts**: Network of informants throughout the city
 
-
 ## Motivations
 - **Primary Goal**: Main objective
 - **Secondary Goals**: Supporting aims
 - **Fears**: What they avoid
 - **Desires**: What they seek
-
 
 ## Secrets
 - Hidden information about this character
@@ -77,7 +74,6 @@ Actively involved in current events, pursuing their own agenda while maintaining
 
 ## DM Notes
 *This NPC can serve multiple roles depending on campaign needs. Their true loyalties are intentionally ambiguous.*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns
@@ -152,3 +148,8 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Campaign_Overview (Shadow_Conspiracy)]]
+- 

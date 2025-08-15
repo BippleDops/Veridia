@@ -352,7 +352,6 @@ Each character should receive a personalized epilogue based on:
 
 Contextual improvement based on 12_Research
 
-
 ## Alternate Descriptions
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination

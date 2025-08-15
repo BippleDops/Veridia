@@ -102,3 +102,8 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Locations Location City St Meridian S Cathedral V1 St Meridian S Cathedral.svg]]
+- [[Assets Portraits Portrait NPC Captain Sterling Lightshield Captain Sterling Lightshield.svg]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Distilled Incense of Swiftness", "distilled incense of swiftness", "Swiftness of Incense Distilled"]
+tags: [item, equipment]
+type: item
+---
+
 # Distilled Incense of Swiftness
 
 *Consumables, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A distilled incense swirling with colors
 - Increase speed by 10 ft
 - Breathe underwater 1 hour
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -30,7 +34,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.457Z*

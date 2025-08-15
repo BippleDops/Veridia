@@ -1,3 +1,9 @@
+---
+aliases: ["Blazing Axe of Slaying", "blazing axe of slaying", "Slaying of Axe Blazing"]
+tags: [item, equipment]
+type: item
+---
+
 # Blazing Axe of Slaying
 
 *Weapons, Common*
@@ -13,8 +19,6 @@ A blazing axe made of crystallized magic
 ## Properties
 - +1 to attack and damage rolls
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -29,7 +33,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.364Z*

@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Proudmore the Broken", "thalia proudmore the broken", "Thalia Proudmore Broken", "Broken the Proudmore Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Proudmore the Broken
 
 *Half-Elf Trader (Merchants), Age 44, Female*
@@ -42,7 +48,6 @@ Inherited a failing business and turned it around They've been marked by a secre
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
 
-
 ### Baelor Blackstone the Broken (Criminal - Target)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
@@ -52,11 +57,9 @@ Inherited a failing business and turned it around They've been marked by a secre
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Hilda Underhill the Mystic (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ### Caelum Emberfall the Risen (Political - Puppet)
 - **Status**: Professional only

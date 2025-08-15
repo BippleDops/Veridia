@@ -97,3 +97,10 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[05 Chapter 4 Character Origins]]
+- [[05-chapter-4-character-origins (players-handbook-2024)]]
+- [[Choose a Background Ability Scores and Backgrounds Xphb]]
+- [[Choose a Background Ability Scores and]]

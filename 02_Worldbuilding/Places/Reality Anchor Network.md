@@ -46,7 +46,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -136,7 +136,7 @@ Each anchor station serves as both a technical marvel and a fortress, protecting
 **Monitoring Networks**: Sophisticated sensor arrays that detect changes in dimensional stability
 - **Dimensional Flux Sensors**: Equipment that measures [[Reality Distortion]]s and identifies potential trouble spots
 - **Environmental Monitors**: Systems that track how dimensional stability affects local weather, geology, and biology
-- **Communication Arrays**: Quantum-entangled [[Communication Systems]] that function even during dimensional storms
+- **Communication Arrays**: Quantum-entangled [[Communication_Systems|Communication Systems]] that function even during dimensional storms
 
 **Emergency Systems**: Failsafe mechanisms that prevent catastrophic failures
 - **Overload Protection**: Automatic systems that shut down anchor operations before dangerous resoce cascades develop
@@ -260,7 +260,7 @@ Each anchor station serves as both a technical marvel and a fortress, protecting
 
 ### Sabotage Threats
 
-**[[Criminal [[Organization]]s]]**: Sophisticated [[Groups]] seeking to exploit dimensional instability for profit
+**[[Organization|Criminal [[Organization]]s]]**: Sophisticated [[Groups]] seeking to exploit dimensional instability for profit
 - **Technology Theft**: Attempts to steal anchor technology for black market sale or reverse engineering
 - **Ransom Operations**: Threatening anchor installations to extort payments from governments
 - **Smuggling Route Creation**: Sabotaging specific anchors to create temporary gaps in border security
@@ -440,13 +440,11 @@ Reality Anchor Network is a notable location characterized by its unique feature
 ### Founding
 Reality Anchor Network was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -454,13 +452,11 @@ Reality Anchor Network was established in the distant past, growing from humble 
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -503,7 +499,6 @@ Ongoing situations affecting Reality Anchor Network:
 - 20% middle class
 - 79% working poor
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -539,3 +534,8 @@ Ongoing situations affecting Reality Anchor Network:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Great Drowning]]
+- [[Reality Anchor Networks]]

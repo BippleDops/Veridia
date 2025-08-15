@@ -1,4 +1,5 @@
 ---
+aliases: ["Myth of the Dark Times", "myth of the dark times", "Myth of Dark Times", "Times Dark the of Myth"]
 tags: [generated]
 id: LORE0028_Myth_of_the_Dark_Times
 created: 2025-08-15T04:09:51.135Z

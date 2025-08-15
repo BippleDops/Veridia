@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Emberfall the Risen", "fiora emberfall the risen", "Fiora Emberfall Risen", "Risen the Emberfall Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Emberfall the Risen
 
 *Tiefling Fisher (Commoners), Age 19, Male*
@@ -13,7 +19,6 @@
 Below average and stocky, with Mohawk auburn hair and Violet eyes. Unusual hue skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Collects unusual and worthless objects; Speaks to inanimate objects
@@ -42,11 +47,9 @@ Former soldier trying to adjust to civilian life They're being blackmailed by so
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
 
-
 ### Dara Dawnstrider the Scholar (Political - Opposition)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ### Delara Keenblade the Risen (Criminal - Handler)
 - **Status**: Secretly hostile
@@ -57,7 +60,6 @@ Former soldier trying to adjust to civilian life They're being blackmailed by so
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Aeliana Silverleaf the Swift (Personal - Ex-lover)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
@@ -66,7 +68,6 @@ Former soldier trying to adjust to civilian life They're being blackmailed by so
 ### Kaelen Darkwater (Professional - Employee)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Can hear the thoughts of others

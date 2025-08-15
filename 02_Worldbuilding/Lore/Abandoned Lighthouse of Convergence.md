@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -76,7 +76,7 @@ Abandoned Lighthouse of Convergence represents a crucial aspect of the world's h
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -89,7 +89,7 @@ Abandoned Lighthouse of Convergence represents a crucial aspect of the world's h
 - A prisoner has gone missing and war looms
 - A corpse reveals a conspiracy about the cult
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -133,3 +133,7 @@ Abandoned Lighthouse of Convergence represents a crucial aspect of the world's h
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Session 07 the Convergence Approaches]]

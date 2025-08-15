@@ -14,7 +14,6 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 ## Objectives
 ### Primary
 - Main quest goal
@@ -22,7 +21,6 @@ status: active
 ### Optional
 - Secondary objectives
 - Hidden goals
-
 
 > [!figure] Asset
 ![](04_Resources/Assets/Locations/location-city-quest-the-missing-fleet-quest-the-missing-fleet.svg)
@@ -448,7 +446,6 @@ Contextual improvement based on 12_Research
 
 ### Story Rewards
 - *[Reputation, allies, information]*
-
 
 ## Hooks
 - **Personal**: Character connection

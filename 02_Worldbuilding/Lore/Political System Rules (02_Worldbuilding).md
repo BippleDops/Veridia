@@ -128,3 +128,7 @@ Political System Rules represents a crucial aspect of the world's history, cosmo
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Political_Ripple_Effects_Template]]

@@ -44,7 +44,7 @@ updated: '2025-08-13T01:18:34.499753+00:00'
 **Duration:** 3-4 sessions  
 **Threat:** Unknown entities are sending complex musical messages from the deep trenches - are they friend, foe, or something else entirely?
 
-**Connected Locations:** [[The Deepmind|02 Worldbuilding/Places/The Deepmind]], [[Temple District|02 Worldbuilding/Places/Temple District]], [[The Archive of Unremembered Things|02 Worldbuilding/Places/The Archive Of Unremembered Things]]  
+**Connected Locations:**   
 **Related Groups:** [[The Depth Wardens|02 Worldbuilding/Groups/The Depth Wardens]], [[The Convergence Seekers|02 Worldbuilding/Groups/The Convergence Seekers]], [[Memory Farmers|02 Worldbuilding/Groups/Memory Farmers]]  
 **Key Themes:** First contact, transcendence, [[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]], consciousness evolution
 

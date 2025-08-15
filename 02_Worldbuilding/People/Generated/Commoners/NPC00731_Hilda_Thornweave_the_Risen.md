@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Thornweave the Risen", "hilda thornweave the risen", "Hilda Thornweave Risen", "Risen the Thornweave Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Thornweave the Risen
 
 *Human Fisher (Commoners), Age 76, Female*
@@ -13,7 +19,6 @@
 Short and heavyset, with Dreadlocks white hair and Violet eyes. Scarred skin. Intricate tattoos covering arms.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Sees doom and gloom everywhere
@@ -52,11 +57,9 @@ Grew up in poverty but discovered a talent that might change everything A chance
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
 
-
 ### Fiora Blackstone the Mystic (Family - Sibling)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Knows location of ancient treasure

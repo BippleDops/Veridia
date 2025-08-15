@@ -122,3 +122,9 @@ improvements: 20
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Master_Campaign_Index]]
+- [[1-DM_Toolkit_DM_Board]]
+- [[1_DM_Toolkit_DM_Board]]

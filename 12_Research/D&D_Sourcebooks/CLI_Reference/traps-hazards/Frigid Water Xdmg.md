@@ -75,3 +75,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Adult White Dragon Xmm]]
+- [[Ancient White Dragon Xmm]]
+- [[adult-white-dragon-xmm (dragon)]]
+- [[ancient-white-dragon-xmm (dragon)]]
+- [[White Dragon Xmm]]
+- [[white-dragon-xmm (legendary-group)]]
+- [[Thin Ice Xdmg]]
+- [[thin-ice-xdmg (traps-hazards)]]

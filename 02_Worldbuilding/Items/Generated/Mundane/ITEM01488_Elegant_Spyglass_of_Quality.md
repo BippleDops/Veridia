@@ -1,3 +1,9 @@
+---
+aliases: ["Elegant Spyglass of Quality", "elegant spyglass of quality", "Quality of Spyglass Elegant"]
+tags: [item, equipment]
+type: item
+---
+
 # Elegant Spyglass of Quality
 
 *Mundane, Common*
@@ -13,8 +19,6 @@ A elegant spyglass expertly crafted
 ## Properties
 - Grants minor benefit
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -29,7 +33,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.492Z*

@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Grimholt the Guardian", "jorah grimholt the guardian", "Jorah Grimholt Guardian", "Guardian the Grimholt Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Grimholt the Guardian
 
 *Half-Elf Assassin (Villains), Age 52, Male*
@@ -13,7 +19,6 @@
 Tall and athletic, with Braided elaborately bald hair and Red eyes. Weathered skin. Unusual eye color for their race.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Constantly quotes ancient texts
@@ -42,21 +47,17 @@ Born into evil but questioning their path They've been marked by a secret societ
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Fiora Dawnstrider the Seeker (Family - Parent)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ### Jorah Hawthorne the Mystic (Family - Parent)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
 
-
 ### Jorah Thornweave the Broken (Criminal - Handler)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Is being controlled by darker force

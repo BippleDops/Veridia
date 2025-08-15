@@ -1,3 +1,9 @@
+---
+aliases: ["Venomous Staff of Accuracy", "venomous staff of accuracy", "Accuracy of Staff Venomous"]
+tags: [item, equipment]
+type: item
+---
+
 # Venomous Staff of Accuracy
 
 *Weapons, Very Rare*

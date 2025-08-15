@@ -151,3 +151,34 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[menagerie]]
+- [[Lion Xmm]]
+- [[2 Appendix a Miscellaneous Creatures]]
+- [[2-appendix-a-miscellaneous-creatures (monster-manual-2014)]]
+- [[3 Animals]]
+- [[3-animals (monster-manual-2025)]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[10-appendix-b-creature-stat-blocks (players-handbook-2024)]]
+- [[Bag of Tricks Rust Xdmg]]
+- [[Figurine of Wondrous Power Golden Lions Xdmg]]
+- [[bag-of-tricks-rust-xdmg (items)]]
+- [[figurine-of-wondrous-power-golden-lions-xdmg (items)]]
+- [[Desert Encounters Levels 510 Xge]]
+- [[Grassland Encounters Levels 15 Xge]]
+- [[Hill Encounters Levels 510 Xge]]
+- [[Monsters by Habitat Grassland Monsters Xmm]]
+- [[Monsters by Habitat Hill Monsters Xmm]]
+- [[Monsters by Habitat Mountain Monsters Xmm]]
+- [[Mountain Encounters Levels 14 Xge]]
+- [[Mountain Encounters Levels 510 Xge]]
+- [[desert-encounters-levels-510-xge (tables)]]
+- [[grassland-encounters-levels-15-xge (tables)]]
+- [[hill-encounters-levels-510-xge (tables)]]
+- [[monsters-by-habitat-grassland-monsters-xmm (tables)]]
+- [[monsters-by-habitat-hill-monsters-xmm (tables)]]
+- [[monsters-by-habitat-mountain-monsters-xmm (tables)]]
+- [[mountain-encounters-levels-14-xge (tables)]]
+- [[mountain-encounters-levels-510-xge (tables)]]

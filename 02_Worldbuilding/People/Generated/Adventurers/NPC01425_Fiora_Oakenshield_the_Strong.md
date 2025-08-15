@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Oakenshield the Strong", "fiora oakenshield the strong", "Fiora Oakenshield Strong", "Strong the Oakenshield Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Oakenshield the Strong
 
 *Half-Orc Rogue (Adventurers), Age 77, Non-binary*
@@ -13,7 +19,6 @@
 Very short and muscular, with Partially shaved gray hair and Brown eyes. Weathered skin. Missing finger on left hand.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Believes in every conspiracy theory; Never backs down from any challenge
@@ -36,12 +41,10 @@ Seeking vengeance for a murdered mentor A chance encounter last winter changed t
 - **Short Term**: Survive until next week
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Drusilla Ravenheart the Wanderer (Criminal - Handler)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ### Jorah Silverleaf the Wanderer (Family - Sibling)
 - **Status**: Strong and trusting
@@ -52,11 +55,9 @@ Seeking vengeance for a murdered mentor A chance encounter last winter changed t
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Solas Lightbringer the Fallen (Personal - Childhood friend)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Secretly working for the villain

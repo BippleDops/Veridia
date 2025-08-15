@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Goldleaf the Redeemed", "ewan goldleaf the redeemed", "Ewan Goldleaf Redeemed", "Redeemed the Goldleaf Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Goldleaf the Redeemed
 
 *Half-Orc Fighter (Adventurers), Age 63, Non-binary*
@@ -13,7 +19,6 @@
 Towering and imposing, with Mohawk blonde hair and Black eyes. Weathered skin. Intricate tattoos covering arms.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Never uses people's real names
@@ -36,7 +41,6 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 - **Short Term**: Avoid the authorities
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Idris Keenblade the Scholar (Family - Parent)
 - **Status**: On the verge of collapse
@@ -47,21 +51,17 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Zephyr Dawnstrider the Scholar (Political - Opposition)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ### Caelum Thornweave the Bold (Criminal - Accomplice)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
 
-
 ### Hilda Emberfall the Redeemed (Family - Child)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Possessed by ancient spirit

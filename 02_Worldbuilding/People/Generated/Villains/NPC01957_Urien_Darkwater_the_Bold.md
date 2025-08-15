@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Darkwater the Bold", "urien darkwater the bold", "Urien Darkwater Bold", "Bold the Darkwater Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Darkwater the Bold
 
 *Half-Orc Corrupt Noble (Villains), Age 24, Female*
@@ -13,7 +19,6 @@
 Tall and slender, with Long and flowing blonde hair and Black eyes. Freckled skin. Weather-beaten face showing hard life.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Always speaks in metaphors and riddles; Incredibly optimistic despite evidence
@@ -36,37 +41,30 @@ Corrupted by an artifact or dark magic A family member's death has left them wit
 - **Short Term**: Gather information
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Baelor Darkwater the Redeemed (Family - Child)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Qadim Thornweave the Bold (Professional - Rival)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
-
 
 ### Corvus Underhill the Broken (Personal - Best friend)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
 
-
 ### Solas Zephyrblade the Wise (Professional - Employer)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ### Hestara Frostwhisper the Bold (Criminal - Accomplice)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
 
-
 ### Branwen Darkwater the Scholar (Criminal - Handler)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Was once a renowned hero

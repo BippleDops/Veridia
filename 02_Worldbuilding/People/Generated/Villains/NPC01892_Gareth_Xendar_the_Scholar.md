@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Xendar the Scholar", "gareth xendar the scholar", "Gareth Xendar Scholar", "Scholar the Xendar Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Xendar the Scholar
 
 *Human Assassin (Villains), Age 37, Male*
@@ -41,7 +47,6 @@ Driven mad by knowledge humanity wasn't meant to know A prophetic dream has been
 ### Ewan Stormwind the Lost (Professional - Rival)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ### Lyanna Voidwalker the Redeemed (Political - Spy)
 - **Status**: Strong and trusting

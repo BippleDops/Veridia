@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Blackstone the Bold", "urien blackstone the bold", "Urien Blackstone Bold", "Bold the Blackstone Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Blackstone the Bold
 
 *Dragonborn Baker (Commoners), Age 52, Male*
@@ -13,7 +19,6 @@
 Very short and imposing, with Carefully styled black hair and Amber eyes. Pale skin. Intricate tattoos covering arms.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Speaks to inanimate objects; Always hungry and eating something; Believes in every conspiracy theory
@@ -36,7 +41,6 @@ Survivor of a disaster that destroyed their village Strange abilities have begun
 - **Short Term**: Recruit new members
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Elric Thornweave the Cunning (Criminal - Handler)
 - **Status**: On the verge of collapse
@@ -57,16 +61,13 @@ Survivor of a disaster that destroyed their village Strange abilities have begun
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Caelum Moonshadow the Fallen (Family - Spouse)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Urien Ironforge the Redeemed (Personal - Best friend)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Knows location of ancient treasure

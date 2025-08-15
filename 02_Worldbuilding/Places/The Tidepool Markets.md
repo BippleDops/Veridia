@@ -64,7 +64,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -136,7 +136,7 @@ The Tidepool Markets represent Aquabyssos's largest and most dynamic commercial 
 #### The Tide Prophecy
 
 **Level**: 10-15  
-**Hook**: [[[[Oracle]] Nerida the Tidereader]] predicts disaster befalling markets  
+**Hook**: [[Oracle|[[Oracle]] Nerida the Tidereader]] predicts disaster befalling markets  
 **Urgency**: Limited time to prevent economic catastrophe affecting entire realm  
 **Complexity**: Multiple possible interpretations of prophetic warnings  
 **Investigation**: Determine which threat is real and how to prevent it  
@@ -177,13 +177,11 @@ The Tidepool Markets is a notable location characterized by its unique features 
 ### Founding
 The Tidepool Markets was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -191,13 +189,11 @@ The Tidepool Markets was established in the distant past, growing from humble be
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council

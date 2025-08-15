@@ -1,3 +1,9 @@
+---
+aliases: ["Fortified Cloak of the Guardian", "fortified cloak of the guardian", "Fortified Cloak of Guardian", "Guardian the of Cloak Fortified"]
+tags: [item, equipment]
+type: item
+---
+
 # Fortified Cloak of the Guardian
 
 *Armor, Uncommon*

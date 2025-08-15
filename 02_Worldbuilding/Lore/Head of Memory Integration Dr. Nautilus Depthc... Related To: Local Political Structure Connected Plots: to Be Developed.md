@@ -1,6 +1,6 @@
 ---
 
-title: Head of Memory Integration Dr. Nautilus Depthc[[...]]
+title: Head of Memory Integration Dr. Nautilus Depthc[[Quest Corruption in ... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements|...]]
 - Related to: Local political structure
 - Connected plots: 
 type: [[Lore]]
@@ -27,7 +27,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -79,7 +79,7 @@ Head of Memory Integration Dr. Nautilus Depthc...
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs

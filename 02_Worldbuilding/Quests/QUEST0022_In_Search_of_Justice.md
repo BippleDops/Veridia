@@ -1,4 +1,5 @@
 ---
+aliases: ["In Search of Justice", "in search of justice", "Justice of Search In"]
 tags: [quest, adventure, generated]
 type: quest
 ---
@@ -21,8 +22,6 @@ Protect the sunken temple from the orc horde for three days
 ### Secondary
 - Maintain cover identity
 - Gather intelligence on enemy plans
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they made a deal they now regret, which changed their life forever. Now, circumstances demand immediate action.

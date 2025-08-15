@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Hawthorne the Strong", "solas hawthorne the strong", "Solas Hawthorne Strong", "Strong the Hawthorne Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Hawthorne the Strong
 
 *Half-Orc Dark Wizard (Villains), Age 58, Female*
@@ -36,7 +42,6 @@ Believes their evil acts serve a greater good They've made a deal they're beginn
 - **Short Term**: Sabotage competition
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Solas Darkwater the Broken (Criminal - Accomplice)
 - **Status**: Mutually beneficial
@@ -46,7 +51,6 @@ Believes their evil acts serve a greater good They've made a deal they're beginn
 ### Kaelen Frostwhisper the Risen (Criminal - Handler)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
-
 
 ### Drusilla Lightbringer the Mystic (Professional - Employee)
 - **Status**: Blood oath bound

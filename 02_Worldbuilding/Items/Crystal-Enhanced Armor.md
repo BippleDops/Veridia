@@ -170,3 +170,7 @@ Crystal-Enhanced Armor is a mysterious ring that radiates divine energy.
 
 ### Curse (if applicable)
 - *[Negative effects]*
+
+## References
+
+- [[Master_Item_Catalog]]

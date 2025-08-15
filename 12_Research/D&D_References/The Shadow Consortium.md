@@ -60,3 +60,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Strange dreams suggest a curse
 - A letter reveals ancient history about the government
+
+## References
+
+- [[The Floating Market]]
+- [[The Floating Market (D&D_References)]]

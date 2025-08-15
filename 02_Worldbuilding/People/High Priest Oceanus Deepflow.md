@@ -34,7 +34,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 ## 🔧 Deep Evaluation Improvements
 
 *20 targeted improvements identified*
@@ -207,7 +206,6 @@ Member of House Dragonblood - Trait: magical affinity
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -277,3 +275,10 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City Transportation Guild Masters Transportation Guild Masters.svg]]
+- [[Assets Symbols Symbol Heraldry Acoustic Infection Acoustic Infection.svg]]
+- [[Assets Symbols Symbol Heraldry Archmerchant Codex Goldstrea Archmerchant Codex Goldstrea.svg]]
+- [[Assets Vehicles Vehicle Ship Resonance Drive Yacht V1 Resonance Drive Yacht.svg]]

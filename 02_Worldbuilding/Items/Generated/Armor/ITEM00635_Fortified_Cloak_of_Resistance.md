@@ -1,3 +1,9 @@
+---
+aliases: ["Fortified Cloak of Resistance", "fortified cloak of resistance", "Resistance of Cloak Fortified"]
+tags: [item, equipment]
+type: item
+---
+
 # Fortified Cloak of Resistance
 
 *Armor, Very Rare*

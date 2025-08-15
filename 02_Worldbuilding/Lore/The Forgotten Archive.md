@@ -130,7 +130,7 @@ The Archive exists in a state of perpetual paradox:
 
 **The Future History Section**
 - Prophecies that were prevented
-- [[[[Time]]line]]s that were erased
+- [[Time|[[Time]]line]]s that were erased
 - Futures that were avoided
 - Knowledge from iterations of reality that no longer exist
 
@@ -254,7 +254,7 @@ Guardians of the most dangerous knowledge:
 
 Complete records of erased civilizations:
 - **The Singing People**: Erased for knowing the true names of stars
-- **[[[[The Memory Weaver]]s]]**: Destroyed for remembering the future
+- **[[The Memory Weaver|[[The Memory Weaver]]s]]**: Destroyed for remembering the future
 - **The Truth Speakers**: Eliminated for inability to lie
 - **The Dream Walkers**: Erased for existing in multiple realities
 
@@ -324,7 +324,7 @@ A dead religion's last believer seeks their god's true name in the Archive to re
 
 A plague ravages the land, and [[The Cure]] was deliberately destroyed centuries ago because it required unconscionable acts. [[The Party]] must decide if the cure is worth its terrible cost.
 
-### [[The [[Memory Thief]]]]
+### [[Memory Thief|The [[Memory Thief]]]]
 
 Someone is stealing memories from the Archive and selling them, causing people to remember things that were erased. Reality is beginning to contradict itself.
 
@@ -411,3 +411,12 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
+
+
+## References
+
+- [[Comprehensive-World-Connection-Guide (D&D_References)]]
+- [[Comprehensive-World-Connection-Guide 3 (D&D_References)]]
+- [[Evidence Chain Analysis]]
+- [[Thalassius the Wise (D&D_References)]]
+- [[Thalassius the Wise 3 (D&D_References)]]

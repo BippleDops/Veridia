@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Thornweave the Cunning", "pyria thornweave the cunning", "Pyria Thornweave Cunning", "Cunning the Thornweave Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Thornweave the Cunning
 
 *Human Bard (Adventurers), Age 41, Male*
@@ -13,7 +19,6 @@
 Above average and wiry, with Long and flowing bald hair and Green eyes. Brown skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Laughs at the most inappropriate times; Compulsive liar about minor things; Constantly quotes ancient texts
@@ -36,32 +41,26 @@ Chosen by fate to fulfill an ancient prophecy They've made a deal they're beginn
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Ysara Ashford the Risen (Personal - Ex-lover)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Ewan Grimholt the Fallen (Personal - Ex-lover)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ### Thalia Underhill the Guardian (Family - Child)
 - **Status**: One-sided affection
 - **History**: United by common enemy
 
-
 ### Baelor Ravenheart the Mystic (Personal - Best friend)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Drusilla Zephyrblade the Seeker (Professional - Partner)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ### Fiora Thornweave the Wanderer (Family - Spouse)
 - **Status**: Strained but maintaining

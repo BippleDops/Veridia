@@ -189,7 +189,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[04_Resources_Assets_Symbols_symbol-heraldry-quest-the-family-reconciliatio-quest-the-family-reconciliatio.svg]] (colleague)
-- [[npc directory.base]] (rival)
+- [[Npc Directory.base|npc directory.base]] (rival)
 - [[04_Resources_Assets_Portraits_portrait-npc-captain-torrent-freewater-captain-torrent-freewater.svg]] (friend)
 ---
 *Tags*: #npc #contact #worldbuilding
@@ -239,3 +239,7 @@ Member of House Wolfblood - Trait: magical affinity
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-torrent-freewater-captain-torrent-freewater.svg]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Venomous Axe of Speed", "venomous axe of speed", "Speed of Axe Venomous"]
+tags: [item, equipment]
+type: item
+---
+
 # Venomous Axe of Speed
 
 *Weapons, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A venomous axe made of crystallized magic
 - Deals extra 1d6 elemental damage
 - Deals extra 1d6 elemental damage
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -30,7 +34,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.345Z*

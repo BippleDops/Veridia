@@ -134,7 +134,7 @@ What locals initially dismissed as imagination or stress has evolved into someth
 The regional government has tried multiple approaches to contain the situation:
 - **[[Scholar's Guild]]]]** sent researchers who returned speaking in tongues
 - **[[The Order of the Silent Vigi]]** dispatched paladins who never returned at all
-- **[[[[Local Militi]]a]]** established quarantine zones that were overrun from within
+- **[[Local Militi|[[Local Militi]]a]]** established quarantine zones that were overrun from within
 
 Desperate for solutions, the authorities have put out a call for capable heroes willing to venture into the [[Map of the Whispering Expanse]] and discover the truth behind the phenomenon.
 
@@ -144,7 +144,7 @@ The party is approached by **[[Magistrate Elena Greywind]]**, the regional admin
 
 #### Quiet Haven (The First Affected Settlement)
 
-Once a thriving frontier town of 800 residents, [[Quiet Haven]] now houses barely 200 survivors, most showing signs of [[Whisper Exposure]]. [[Key [[location]]s]] include:
+Once a thriving frontier town of 800 residents, [[Quiet Haven]] now houses barely 200 survivors, most showing signs of [[Whisper Exposure]]. [[location|Key [[location]]s]] include:
 
 **The Town Square**
 - A massive spiral pattern has been carved into the cobblestones
@@ -178,7 +178,7 @@ The remains of the [[The Scholar's Guild]] expedition, now a scene of academic h
 - Specialized listening devices and recording equipment
 - Several devices are still functional but produce disturbing audio
 - **Arcana DC 18**: The recordings can induce temporary madness in listeners
-- Contains research on [[[[Frequency Manipulatio]]n]] and [[Dimensional_Resoce]]
+- Contains research on [[Frequency Manipulatio|[[Frequency Manipulatio]]n]] and [[Dimensional_Resoce]]
 
 #### The Whisper Winds
 
@@ -430,3 +430,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Campaign Notes
 *How this connects to the ongoing campaign*
+
+## References
+
+- [[The Whispering Expanse.md]]
+- [[Aethermoor (D&D_References)]]
+- [[The Great Crystallization (D&D_References)]]
+- [[The Great Crystallization 3 (D&D_References)]]
+- [[Ambush Point (D&D_Statblocks)]]
+- [[Discover the Singers Beyond (D&D_Statblocks)]]

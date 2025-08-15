@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Zephyrblade the Lost", "rhiannon zephyrblade the lost", "Rhiannon Zephyrblade Lost", "Lost the Zephyrblade Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Zephyrblade the Lost
 
 *Gnome Cleric (Adventurers), Age 19, Non-binary*
@@ -13,7 +19,6 @@
 Very tall and imposing, with Carefully styled silver hair and Amber eyes. Dark skin. Unusual eye color for their race.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Always tells the absolute truth
@@ -42,16 +47,13 @@ Accidentally gained powers and learning to control them They've made a deal they
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Pyria Blackstone the Strong (Personal - Childhood friend)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Rhiannon Zephyrblade the Wanderer (Personal - Nemesis)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Has died and been resurrected

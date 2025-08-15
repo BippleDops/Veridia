@@ -75,7 +75,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition
@@ -83,3 +82,8 @@ Contextual improvement based on 12_Research
 ## Player Tips
 > 🎮 **Strategy**: How to approach this content
 > Work together and communicate
+
+## References
+
+- [[Purist Coalition Thugs]]
+- [[Purist Coalition Thugs (D&D_References)]]

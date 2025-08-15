@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Youngblood the Wanderer", "elric youngblood the wanderer", "Elric Youngblood Wanderer", "Wanderer the Youngblood Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Youngblood the Wanderer
 
 *Dwarf Appraiser (Merchants), Age 59, Non-binary*
@@ -13,7 +19,6 @@
 Very tall and heavyset, with Carefully styled silver hair and Blue eyes. Weathered skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Never uses people's real names; Compulsive liar about minor things
@@ -36,7 +41,6 @@ Part of a merchant family with connections everywhere Strange abilities have beg
 - **Short Term**: Avoid the authorities
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Ewan Proudmore the Risen (Personal - Childhood friend)
 - **Status**: Secretly hostile
@@ -52,21 +56,17 @@ Part of a merchant family with connections everywhere Strange abilities have beg
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
 
-
 ### Hilda Blackstone the Redeemed (Criminal - Informant)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ### Lyanna Hawthorne the Wanderer (Political - Spy)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Malakai Hawthorne the Risen (Personal - Love interest)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Is actually a spy for foreign power

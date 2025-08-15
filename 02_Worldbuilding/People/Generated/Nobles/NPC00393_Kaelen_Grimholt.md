@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Grimholt", "kaelen grimholt", "Grimholt Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Grimholt
 
 *Dwarf Noble (Nobles), Age 19, Male*
@@ -36,7 +42,6 @@ Recently elevated to nobility through service, still learning courtly ways They 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Lyanna Ironwood the Wanderer (Family - Parent)
 - **Status**: Blood oath bound
@@ -46,7 +51,6 @@ Recently elevated to nobility through service, still learning courtly ways They 
 ### Nerys Stormwind (Professional - Employer)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ### Malakai Blackstone the Guardian (Political - Ally)
 - **Status**: Blood oath bound

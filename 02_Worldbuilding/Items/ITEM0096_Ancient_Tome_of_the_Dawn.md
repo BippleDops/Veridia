@@ -1,4 +1,5 @@
 ---
+aliases: ["Ancient Tome of the Dawn", "ancient tome of the dawn", "Ancient Tome of Dawn", "Dawn the of Tome Ancient"]
 tags: [generated]
 id: ITEM0096
 created: 2025-08-15T04:09:51.108Z
@@ -19,8 +20,6 @@ Crafted from mithril with delicate filigree, in pristine condition. It emanates 
 
 ## Quirk
 *Changes color with user's mood*
-
-
 
 ## History
 This item was created to seal an ancient evil centuries ago. It has passed through many hands, each leaving their mark upon its destiny.

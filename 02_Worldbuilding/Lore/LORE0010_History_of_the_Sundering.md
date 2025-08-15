@@ -1,4 +1,5 @@
 ---
+aliases: ["History of the Sundering", "history of the sundering", "History of Sundering", "Sundering the of History"]
 tags: [generated]
 id: LORE0010_History_of_the_Sundering
 created: 2025-08-15T04:09:51.129Z

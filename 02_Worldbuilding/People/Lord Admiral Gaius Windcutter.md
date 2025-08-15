@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-lord-admiral-gaius-windcutter-lord-admiral-gaius-windcutter.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -187,7 +185,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Natural disasters
 - Current power structures established
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -257,3 +254,12 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Quest - Hearts and Minds]]
+- [[Assets Locations Location City the Luminous Dawn Cathedral V1 the Luminous Dawn Cathedral.svg]]
+- [[Assets Portraits Portrait NPC Pressure Lords Pressure Lords.svg]]
+- [[Assets Symbols Symbol Heraldry Financial Crime Investigatio Financial Crime Investigatio.svg]]
+- [[Paladin Commander Sir Radiant Dawnbreaker]]
+- [[Paladin Commander Sir Radiant Dawnbreaker (D&D_References)]]

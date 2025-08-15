@@ -407,3 +407,7 @@ Mentioned in The Hidden Prophecy of Shadows
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[The Scholars of Divine Lore]]

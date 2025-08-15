@@ -1,3 +1,9 @@
+---
+aliases: ["Distilled Oil of Vigor", "distilled oil of vigor", "Vigor of Oil Distilled"]
+tags: [item, equipment]
+type: item
+---
+
 # Distilled Oil of Vigor
 
 *Consumables, Rare*
@@ -15,8 +21,6 @@ A distilled oil swirling with colors
 - Restore 4d4+4 hit points
 - Resistance for 10 minutes
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -31,7 +35,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.445Z*

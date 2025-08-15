@@ -102,3 +102,8 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Locations Location City Merchant Prince Aldric Goldcurrent V1 Merchant Prince Aldric Goldcurrent.svg]]
+- [[Assets Locations Location City Terminal Director Admiral Current Swiftflow V1 Terminal Director Admiral Current Swiftflow.svg]]

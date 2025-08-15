@@ -85,3 +85,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Item Properties]]
+- [[06 Equipment]]
+- [[06-equipment (players-handbook-2014)]]
+- [[Rogue Xphb]]
+- [[rogue-xphb (classes)]]
+- [[item-properties (CLI_Reference)]]
+- [[Adventuring Gear Phb]]
+- [[Tools Phb]]
+- [[adventuring-gear-phb (tables)]]
+- [[tools-phb (tables)]]

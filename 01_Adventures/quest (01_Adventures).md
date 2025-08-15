@@ -1,6 +1,5 @@
 ---
 
-
 title: Quest
 type: adventure
 tags:
@@ -143,7 +142,6 @@ An exciting quest that challenges heroes to claim glory.
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Time Limit
 - **Deadline**: When it must be completed

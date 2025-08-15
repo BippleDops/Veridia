@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Silverleaf the Lost", "urien silverleaf the lost", "Urien Silverleaf Lost", "Lost the Silverleaf Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Silverleaf the Lost
 
 *Gnome Trader (Merchants), Age 57, Male*
@@ -36,22 +42,18 @@ Part of a merchant family with connections everywhere A chance encounter last wi
 - **Short Term**: Gather information
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Aldric Brightblade the Cunning (Personal - Love interest)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
 
-
 ### Gavril Lightbringer the Seeker (Family - Child)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Faelyn Stormwind the Seeker (Personal - Best friend)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Sells information to all sides

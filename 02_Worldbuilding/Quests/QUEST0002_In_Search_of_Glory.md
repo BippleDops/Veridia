@@ -1,4 +1,5 @@
 ---
+aliases: ["In Search of Glory", "in search of glory", "Glory of Search In"]
 tags: [quest, adventure, generated]
 type: quest
 ---

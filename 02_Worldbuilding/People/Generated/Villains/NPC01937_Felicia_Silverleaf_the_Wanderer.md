@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Silverleaf the Wanderer", "felicia silverleaf the wanderer", "Felicia Silverleaf Wanderer", "Wanderer the Silverleaf Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Silverleaf the Wanderer
 
 *Elf Cultist (Villains), Age 75, Non-binary*
@@ -13,7 +19,6 @@
 Above average and delicate, with Dreadlocks silver hair and Brown eyes. Scarred skin. Missing finger on left hand.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Compulsive liar about minor things; Always hungry and eating something; Extremely superstitious about everything
@@ -47,11 +52,9 @@ Betrayed by those they trusted, now seeking revenge on the world They've made a 
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Wynne Emberfall the Guardian (Criminal - Target)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Was once a renowned hero

@@ -143,3 +143,34 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[7 Appendix B Monsters]]
+- [[7-appendix-b-monsters (lost-mine-of-phandelver)]]
+- [[Maurezhi Mpmm]]
+- [[Nabassu Mpmm]]
+- [[maurezhi-mpmm (fiend)]]
+- [[nabassu-mpmm (fiend)]]
+- [[Ghoul Xmm]]
+- [[Create Undead Xphb]]
+- [[create-undead-xphb (spells)]]
+- [[Coastal Encounters Levels 14 Xge]]
+- [[Creating a Gnoll War Band Gnoll War Band Special Creatures Vgm]]
+- [[Monsters by Habitat Swamp Monsters Xmm]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[Monsters by Habitat Urban Monsters Xmm]]
+- [[Swamp Encounters Levels 14 Xge]]
+- [[Swamp Encounters Levels 510 Xge]]
+- [[Underdark Encounters Levels 14 Xge]]
+- [[Urban Encounters Levels 14 Xge]]
+- [[Urban Encounters Levels 510 Xge]]
+- [[coastal-encounters-levels-14-xge (tables)]]
+- [[monsters-by-habitat-swamp-monsters-xmm (tables)]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]
+- [[monsters-by-habitat-urban-monsters-xmm (tables)]]
+- [[swamp-encounters-levels-14-xge (tables)]]
+- [[swamp-encounters-levels-510-xge (tables)]]
+- [[underdark-encounters-levels-14-xge (tables)]]
+- [[urban-encounters-levels-14-xge (tables)]]
+- [[urban-encounters-levels-510-xge (tables)]]

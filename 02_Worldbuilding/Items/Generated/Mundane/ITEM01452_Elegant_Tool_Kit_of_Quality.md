@@ -1,3 +1,9 @@
+---
+aliases: ["Elegant Tool Kit of Quality", "elegant tool kit of quality", "Quality of Kit Tool Elegant"]
+tags: [item, equipment]
+type: item
+---
+
 # Elegant Tool Kit of Quality
 
 *Mundane, Common*

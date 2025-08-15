@@ -140,3 +140,13 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Merchant's Covenant]]
+- [[Merchant Family Alliances]]
+- [[Post-Merge Chronology]]
+- [[The Memory Wars (02_Worldbuilding)]]
+- [[Timeline of the Drowning]]
+- [[Memoriam - The Forgotten Continent]]
+- [[Merchant's Covenant (D&D_References)]]

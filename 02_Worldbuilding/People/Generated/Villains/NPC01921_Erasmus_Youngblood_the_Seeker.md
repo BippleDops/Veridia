@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Youngblood the Seeker", "erasmus youngblood the seeker", "Erasmus Youngblood Seeker", "Seeker the Youngblood Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Youngblood the Seeker
 
 *Aasimar Cultist (Villains), Age 73, Male*
@@ -36,7 +42,6 @@ Born into evil but questioning their path They recently discovered a secret that
 - **Short Term**: Recruit new members
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Urien Winterborn the Swift (Personal - Best friend)
 - **Status**: Mutually beneficial
@@ -47,11 +52,9 @@ Born into evil but questioning their path They recently discovered a secret that
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Dara Thornweave the Bold (Family - Parent)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Is being controlled by darker force

@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Frostwhisper", "qadim frostwhisper", "Frostwhisper Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Frostwhisper
 
 *Tabaxi Noble (Nobles), Age 45, Non-binary*
@@ -36,17 +42,14 @@ Last survivor of a fallen house, seeking to restore family honor A prophetic dre
 - **Short Term**: Make this month's payment
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Drusilla Frostwhisper the Swift (Family - Spouse)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Idris Stormwind the Broken (Professional - Rival)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ### Delara Oakenshield (Criminal - Accomplice)
 - **Status**: Complicated history
@@ -57,11 +60,9 @@ Last survivor of a fallen house, seeking to restore family honor A prophetic dre
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Hestara Hawthorne the Fallen (Family - Cousin)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Practicing forbidden magic

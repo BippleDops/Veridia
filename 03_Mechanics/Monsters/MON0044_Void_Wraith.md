@@ -1,4 +1,5 @@
 ---
+aliases: ["Void Wraith", "void wraith", "Wraith Void"]
 tags: [generated]
 id: MON0044_Void_Wraith
 created: 2025-08-15T04:09:51.432Z
@@ -29,7 +30,6 @@ A twisted abomination created by dark magic
 
 ---
 *Generated: 2025-08-15T03:21:47.465Z*
-
 
 ## Habitat
 - Natural environment and territories

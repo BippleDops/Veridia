@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Dawnstrider the Strong", "nerys dawnstrider the strong", "Nerys Dawnstrider Strong", "Strong the Dawnstrider Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Dawnstrider the Strong
 
 *Tiefling Ranger (Adventurers), Age 43, Male*
@@ -36,12 +42,10 @@ Running from a dark past that won't stay buried A chance encounter last winter c
 - **Short Term**: Recruit new members
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Gavril Brightblade the Strong (Personal - Childhood friend)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ### Qadim Thornweave the Redeemed (Family - Cousin)
 - **Status**: Strained but maintaining
@@ -52,7 +56,6 @@ Running from a dark past that won't stay buried A chance encounter last winter c
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
 
-
 ### Brenna Nightfall the Fallen (Criminal - Target)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
@@ -61,7 +64,6 @@ Running from a dark past that won't stay buried A chance encounter last winter c
 ### Brenna Frostwhisper the Broken (Professional - Employer)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Has died and been resurrected

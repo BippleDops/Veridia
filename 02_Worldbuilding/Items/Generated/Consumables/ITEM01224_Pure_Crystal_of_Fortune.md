@@ -1,3 +1,9 @@
+---
+aliases: ["Pure Crystal of Fortune", "pure crystal of fortune", "Fortune of Crystal Pure"]
+tags: [item, equipment]
+type: item
+---
+
 # Pure Crystal of Fortune
 
 *Consumables, Rare (requires attunement)*

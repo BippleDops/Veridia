@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Winterborn the Risen", "cedric winterborn the risen", "Cedric Winterborn Risen", "Risen the Winterborn Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Winterborn the Risen
 
 *Elf Carpenter (Commoners), Age 35, Non-binary*
@@ -36,12 +42,10 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Short Term**: Sabotage competition
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Vesper Crystalbrook the Fallen (Criminal - Fence)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ### Baelor Hawthorne the Fallen (Family - Child)
 - **Status**: Recently reconciled
@@ -56,7 +60,6 @@ Grew up in poverty but discovered a talent that might change everything They've 
 ### Brenna Proudmore the Bold (Personal - Ex-lover)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ### Aldric Zephyrblade the Cunning (Political - Ally)
 - **Status**: Mutually beneficial

@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # 04_Resources_Assets_Portraits_portrait-npc-captain-morgrim-lastvessel-captain-morgrim-lastvessel.svg - Quick Reference
 
 ## Key Info

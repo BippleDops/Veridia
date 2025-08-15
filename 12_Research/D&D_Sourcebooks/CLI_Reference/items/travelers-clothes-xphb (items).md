@@ -78,3 +78,31 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A corpse reveals ancient history about a local noble
 - Strange disappearances suggest a conspiracy
 - A map reveals the truth about the government
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Artisan Xphb]]
+- [[Criminal Xphb]]
+- [[Guide Xphb]]
+- [[Guild Artisan Guild Merchant Variant]]
+- [[Guild Artisan]]
+- [[Hermit Xphb]]
+- [[Merchant Xphb]]
+- [[Sailor Xphb]]
+- [[Soldier Xphb]]
+- [[Wayfarer Xphb]]
+- [[artisan-xphb (backgrounds)]]
+- [[criminal-xphb (backgrounds)]]
+- [[guide-xphb (backgrounds)]]
+- [[guild-artisan (backgrounds)]]
+- [[guild-artisan-guild-merchant-variant (backgrounds)]]
+- [[hermit-xphb (backgrounds)]]
+- [[merchant-xphb (backgrounds)]]
+- [[sailor-xphb (backgrounds)]]
+- [[soldier-xphb (backgrounds)]]
+- [[wayfarer-xphb (backgrounds)]]
+- [[Weavers Tools Xphb]]
+- [[weavers-tools-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

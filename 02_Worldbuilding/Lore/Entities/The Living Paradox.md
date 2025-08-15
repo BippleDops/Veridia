@@ -137,3 +137,8 @@ Mentioned in The Hidden Prophecy of Winds
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Entities the Living Paradox]]
+- [[The Drowning Truth]]

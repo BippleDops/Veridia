@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Crystalbrook", "branwen crystalbrook", "Crystalbrook Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Crystalbrook
 
 *Dwarf Heir (Nobles), Age 35, Female*
@@ -42,7 +48,6 @@ Last survivor of a fallen house, seeking to restore family honor They've been ma
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Jorah Emberfall (Criminal - Fence)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
@@ -56,7 +61,6 @@ Last survivor of a fallen house, seeking to restore family honor They've been ma
 ### Baelor Zephyrblade (Criminal - Target)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

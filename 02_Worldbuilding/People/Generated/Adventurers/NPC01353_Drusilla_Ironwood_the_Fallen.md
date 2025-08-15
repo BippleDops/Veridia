@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Ironwood the Fallen", "drusilla ironwood the fallen", "Drusilla Ironwood Fallen", "Fallen the Ironwood Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Ironwood the Fallen
 
 *Elf Rogue (Adventurers), Age 46, Male*
@@ -36,22 +42,18 @@ Chosen by fate to fulfill an ancient prophecy A prophetic dream has been hauntin
 - **Short Term**: Recruit new members
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Gareth Crystalbrook the Strong (Political - Ally)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Elric Dawnstrider the Wise (Personal - Nemesis)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Solas Ironforge the Bold (Criminal - Fence)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Secretly working for the villain

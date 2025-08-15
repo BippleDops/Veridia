@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Youngblood the Seeker", "corvus youngblood the seeker", "Corvus Youngblood Seeker", "Seeker the Youngblood Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Youngblood the Seeker
 
 *Goliath Ambassador (Nobles), Age 63, Female*
@@ -36,27 +42,22 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Complete current contract
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Malakai Lightbringer (Criminal - Informant)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Gavril Ironforge the Swift (Criminal - Target)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ### Corvus Ironwood the Wanderer (Political - Patron)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
 
-
 ### Nerys Lightbringer the Seeker (Criminal - Target)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Secretly funding the rebellion

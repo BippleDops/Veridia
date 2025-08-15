@@ -185,7 +185,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[04_Resources_Assets_Locations_location-city-captain-marcus-captain-marcus.svg]] (ally)
-- [[Captain Scale Walker]] (rival)
+- [[Portrait NPC Captain Scale Walker Captain Scale Walker.svg|Captain Scale Walker]] (rival)
 - [[Tenebrarum]] (colleague)
 ---
 *Tags*: #npc #contact #worldbuilding

@@ -83,3 +83,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Someone is blackmailing a artifact for love
 - A noble needs help stealing before the festival
 - A document has gone missing and chaos spreads
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[10 Gp Gemstones Xdmg]]
+- [[10-gp-gemstones-xdmg (tables)]]

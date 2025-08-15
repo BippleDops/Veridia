@@ -41,7 +41,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-harmony-collective-the-harmony-collective.svg)
 
@@ -50,7 +49,6 @@ improvements: 20
 # The Harmony Collective
 
 *"In unity of thought, in silence of discord, we find the perfect current." - Chorus Leader Serenity*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -270,7 +268,6 @@ Legends speak of The Harmony Collective as a nexus where past and present conver
 - Natural disasters
 - Current power structures established
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -306,3 +303,9 @@ Legends speak of The Harmony Collective as a nexus where past and present conver
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Assets Locations Location City Surge Mixmaster V1 Surge Mixmaster.png]]
+- [[Assets Symbols Symbol Heraldry Deputy Archmerchant Scroll Deepmin Deputy Archmerchant Scroll Deepmin.svg]]

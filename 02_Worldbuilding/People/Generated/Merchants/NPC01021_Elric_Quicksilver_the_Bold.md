@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Quicksilver the Bold", "elric quicksilver the bold", "Elric Quicksilver Bold", "Bold the Quicksilver Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Quicksilver the Bold
 
 *Genasi Trader (Merchants), Age 21, Non-binary*
@@ -13,7 +19,6 @@
 Short and muscular, with Braided elaborately black hair and Blue eyes. Freckled skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Speaks to inanimate objects
@@ -42,16 +47,13 @@ Part of a merchant family with connections everywhere They've been marked by a s
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
 
-
 ### Elric Ravenheart the Fallen (Political - Spy)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Lyanna Frostwhisper the Cunning (Family - Cousin)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Killed previous business owner

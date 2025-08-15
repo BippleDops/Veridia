@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Darkwater the Scholar", "jorah darkwater the scholar", "Jorah Darkwater Scholar", "Scholar the Darkwater Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Darkwater the Scholar
 
 *Dwarf Carpenter (Commoners), Age 62, Female*
@@ -36,12 +42,10 @@ Runaway from an arranged marriage, starting a new life A prophetic dream has bee
 - **Short Term**: Complete current contract
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Rhiannon Lightbringer the Fallen (Criminal - Accomplice)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ### Urien Lightbringer the Guardian (Professional - Employer)
 - **Status**: Recently reconciled
@@ -52,21 +56,17 @@ Runaway from an arranged marriage, starting a new life A prophetic dream has bee
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
 
-
 ### Aeliana Youngblood (Political - Opposition)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ### Dara Nightfall the Mystic (Criminal - Target)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Lyanna Ironforge the Scholar (Political - Puppet)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Witnessed a noble's crime

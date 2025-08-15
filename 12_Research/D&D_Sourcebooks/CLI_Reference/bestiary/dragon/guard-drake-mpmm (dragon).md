@@ -134,3 +134,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[13 Appendix D Monsters]]
+- [[13-appendix-d-monsters (hoard-of-the-dragon-queen)]]
+- [[13 Appendix D Monsters (rise-of-tiamat)]]
+- [[13-appendix-d-monsters (rise-of-tiamat)]]
+- [[Guard Drake Mpmm]]
+- [[3 Bestiary]]
+- [[3-bestiary (volos-guide-to-monsters)]]

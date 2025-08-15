@@ -47,7 +47,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -193,7 +193,7 @@ While the Hegemony remained powerful, internal problems and external pressures g
 The final 846 years of the Hegemony were marked by desperate attempts to maintain relevance while preparing for an increasingly uncertain future.
 
 **Emperor Abyssal the Deep-Sighted (847-823 BGD)**
-Recognizing the Hegemony's decline, Abyssal began the **[[[[Great Preparatio]]n]]** - a massive project to ready Tethyan civilization for survival in a changed world. This included:
+Recognizing the Hegemony's decline, Abyssal began the **[[Great Preparatio|[[Great Preparatio]]n]]** - a massive project to ready Tethyan civilization for survival in a changed world. This included:
 - **Deep City Construction**: Building underwater settlements as emergency refuges
 - **Knowledge Preservation**: Copying all important texts and magical knowledge
 - **Population Training**: Teaching citizens underwater survival skills
@@ -363,7 +363,7 @@ At its height, the Tethyan Navy consisted of:
 - **423 Naval Bases**: Fortified harbors with repair and supply facilities
 - **156 Fortress Islands**: Heavily defended strategic positions
 - **89 Weather Stations**: Installations controlling local climate
-- **234 Communication Towers**: Long-range magical [[Communication Systems]]
+- **234 Communication Towers**: Long-range magical [[Communication_Systems|Communication Systems]]
 - **67 Emergency Shelters**: Refuges for civilian populations during attacks
 
 ### Direct Contributions to Aquabyssos
@@ -450,7 +450,7 @@ Intelligence [[reports]] suggest that a significant portion of the Tethyan Navy 
 
 While Aquabyssos is the most visible successor to the Tethyan Hegemony, at least three other civilizations claim direct descent from the empire. These hidden kingdoms may possess different aspects of Tethyan knowledge and technology, potentially making them powerful [[Allies]] or dangerous rivals.
 
-### The [[Deep Archives]]
+### The 
 
 Beneath the ruins of the Crystal Palace lies a vast underground complex containing the complete records of the Tethyan Hegemony. These archives allegedly include detailed plans for rebuilding the empire, advanced magical techniques, and intelligence on threats from other dimensions. Access to these archives is restricted by both magical barriers and government secrecy.
 
@@ -484,7 +484,7 @@ A powerful merchant consortium has discovered Tethyan trade routes and navigatio
 
 ### The Deep Archive Expedition
 
-The government has finally decided to attempt accessing the sealed Tethyan archives beneath the Crystal Palace. The characters are recruited for this dangerous mission, facing both magical guardians and political pressure from factions that want [[The Archives]] to remain sealed.
+The government has finally decided to attempt accessing the sealed Tethyan archives beneath the Crystal Palace. The characters are recruited for this dangerous mission, facing both magical guardians and political pressure from factions that want  to remain sealed.
 
 ### The [[Temporal Echo]]
 
@@ -549,7 +549,7 @@ The Tethyan Hegemony is a undersea element of the setting, known for bioluminesc
 
 Legends speak of The Tethyan Hegemony as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Tethyan Hegemony.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -566,3 +566,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Someone is hunting an heir for money
 - A document has gone missing and chaos spreads
 - A map reveals the truth about the government
+
+## References
+
+- [[Tethyan Hegemony]]

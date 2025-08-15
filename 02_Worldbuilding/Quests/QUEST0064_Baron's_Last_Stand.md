@@ -1,4 +1,5 @@
 ---
+aliases: ["Baron's Last Stand", "baron's last stand", "Stand Last Baron's"]
 tags: [quest, adventure, generated]
 type: quest
 ---
@@ -21,8 +22,6 @@ Retrieve the ancient artifact from the sunken temple
 ### Secondary
 - Minimize civilian casualties
 - Rescue any prisoners found
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they was falsely accused of a crime, which changed their life forever. Now, circumstances demand immediate action.

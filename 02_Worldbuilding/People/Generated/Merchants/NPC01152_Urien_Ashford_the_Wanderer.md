@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Ashford the Wanderer", "urien ashford the wanderer", "Urien Ashford Wanderer", "Wanderer the Ashford Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Ashford the Wanderer
 
 *Aasimar Shopkeeper (Merchants), Age 27, Female*
@@ -52,11 +58,9 @@ Inherited a failing business and turned it around Strange abilities have begun m
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
 
-
 ### Lyanna Ashford the Guardian (Criminal - Fence)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Smuggles illegal magical items

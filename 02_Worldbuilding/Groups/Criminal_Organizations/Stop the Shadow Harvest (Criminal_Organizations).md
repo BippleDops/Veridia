@@ -264,7 +264,7 @@ Experienced members may advance to leadership roles, specialized operations, or 
 ### Safe House Network
 **Primary Sanctuaries**: Major protected facilities throughout Aquabyssos
 - **[[New Thalassopolis]] Underground**: Hidden complex beneath capital city
-- **[[Pearl Harbor City]] Docks**: Marine escape routes and underwater facilities
+- **[[Pearl_Harbor_City|Pearl Harbor City]] Docks**: Marine escape routes and underwater facilities
 - **[[The Primordial Vaults]]**: Ancient pre-Drowning facilities with natural anti-shadow properties
 - **[[The Memory Meadows]]**: Protected areas where natural phenomena prevent memory manipulation
 

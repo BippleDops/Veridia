@@ -1,4 +1,5 @@
 ---
+aliases: ["Oracle's Redemption", "oracle's redemption", "Redemption Oracle's"]
 tags: [generated]
 id: QUEST0019
 created: 2025-08-15T04:09:51.374Z
@@ -57,8 +58,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Show mercy and gain intel - Future ally but justice denied
 2. Execute for crimes committed - Justice served but opportunity lost
-
-
 
 ## Rewards
 ### On Success

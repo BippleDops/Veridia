@@ -36,12 +36,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-economic-manipulation-economic-manipulation.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -185,7 +183,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Natural disasters
 - Current power structures established
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -255,3 +252,16 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Aurelius Goldwave]]
+- [[Merchant Family Alliances]]
+- [[Political Intrigue Master Index]]
+- [[Silver Mask]]
+- [[The Crimson Hand]]
+- [[The Silverscale Conspiracy]]
+- [[Umbral Exchange]]
+- [[Maelstrom Palace]]
+- [[Pressure Tube Terminal]]
+- [[Aurelius Goldwave (D&D_Statblocks)]]

@@ -24,7 +24,7 @@ tags:
 created: '2025-08-12'
 modified: '2025-08-14'
 status: complete
-headquarters: '[[The Hidden Archive]]'
+headquarters: ''
 world: Aquabyssos
 faction_type: Resistance Movement
 alignment: Lawful Good
@@ -142,7 +142,7 @@ Discovery of [[Shadow Surgery Network|02 Worldbuilding/Places/Shadow Surgery Net
 **Special Abilities**: Pattern recognition, intelligence synthesis, shadow operative behavior analysis
 
 #### The Preservation Keeper
-**Current Holder**: [[Keeper Light Archive]]  
+**Current Holder**:   
 **Background**: Librarian who discovered systematic destruction of historical records  
 **Responsibilities**: Knowledge preservation, archive security, cultural heritage protection  
 **Special Abilities**: Information organization, document authentication, cultural pattern analysis
@@ -330,7 +330,7 @@ Rapid removal of individuals from shadow conspiracy threat:
 Long-term protection and support for rescued individuals:
 
 **Sanctuary Facilities**:
-- **[[The Hidden Archive]]**: Primary sanctuary and organizational headquarters
+- ****: Primary sanctuary and organizational headquarters
 - **Regional Safe Houses**: Temporary protection facilities in each resistance region
 - **Deep Settlement Refuges**: Permanent relocation options in isolated communities
 - **Mobile Sanctuary Units**: Temporary protection for individuals awaiting permanent placement

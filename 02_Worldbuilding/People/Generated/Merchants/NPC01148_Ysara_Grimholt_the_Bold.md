@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Grimholt the Bold", "ysara grimholt the bold", "Ysara Grimholt Bold", "Bold the Grimholt Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Grimholt the Bold
 
 *Halfling Trader (Merchants), Age 77, Female*
@@ -36,27 +42,22 @@ Former adventurer who retired to open a shop An old debt has come due at the wor
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Dara Lightbringer the Broken (Professional - Rival)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Wynne Ravenheart the Wise (Personal - Ex-lover)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ### Thalia Quicksilver the Bold (Political - Patron)
 - **Status**: One-sided affection
 - **History**: United by common enemy
 
-
 ### Qadim Moonshadow the Redeemed (Family - Cousin)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Is actually a spy for foreign power

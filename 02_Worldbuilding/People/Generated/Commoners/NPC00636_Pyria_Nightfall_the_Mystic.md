@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Nightfall the Mystic", "pyria nightfall the mystic", "Pyria Nightfall Mystic", "Mystic the Nightfall Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Nightfall the Mystic
 
 *Elf Baker (Commoners), Age 29, Non-binary*
@@ -42,16 +48,13 @@ Former soldier trying to adjust to civilian life A prophetic dream has been haun
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Erasmus Zephyrblade the Guardian (Political - Puppet)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Aldric Moonshadow the Risen (Personal - Ex-lover)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ### Urien Ashford the Guardian (Political - Opposition)
 - **Status**: Mutually beneficial

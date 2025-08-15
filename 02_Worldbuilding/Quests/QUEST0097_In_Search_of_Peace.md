@@ -1,4 +1,5 @@
 ---
+aliases: ["In Search of Peace", "in search of peace", "Peace of Search In"]
 tags: [quest, adventure, generated]
 type: quest
 ---
@@ -21,8 +22,6 @@ Eliminate the cult leader before they can complete the ritual
 ### Secondary
 - Establish future contacts
 - Document findings for scholars
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they witnessed something they shouldn't have, which changed their life forever. Now, circumstances demand immediate action.
@@ -55,8 +54,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Save civilians and risk failure - Heroes to the people but objective compromised
 2. Complete mission at any cost - Success but blood on hands
-
-
 
 ## Rewards
 ### On Success

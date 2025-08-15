@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Darkwater the Guardian", "malakai darkwater the guardian", "Malakai Darkwater Guardian", "Guardian the Darkwater Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Darkwater the Guardian
 
 *Elf Cultist (Villains), Age 40, Non-binary*
@@ -36,12 +42,10 @@ Betrayed by those they trusted, now seeking revenge on the world They've been ma
 - **Short Term**: Survive until next week
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Aldric Goldleaf the Swift (Personal - Nemesis)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
-
 
 ### Malakai Goldleaf the Risen (Personal - Love interest)
 - **Status**: One-sided affection
@@ -52,16 +56,13 @@ Betrayed by those they trusted, now seeking revenge on the world They've been ma
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Faelyn Moonshadow the Lost (Family - Cousin)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Corvus Hawthorne the Seeker (Personal - Ex-lover)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ### Gavril Keenblade the Swift (Political - Puppet)
 - **Status**: Blood oath bound

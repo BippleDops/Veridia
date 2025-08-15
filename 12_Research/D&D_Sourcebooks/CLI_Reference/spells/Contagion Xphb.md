@@ -98,3 +98,14 @@ Mentioned in The Second Prophecy of Stars
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Paladin Xphb Oathbreaker Dmg]]
+- [[paladin-xphb-oathbreaker-dmg (classes)]]
+- [[diseases]]
+- [[Dark Gift of Fekre Queen of Poxes Cos]]
+- [[dark-gift-of-fekre-queen-of-poxes-cos (rewards)]]

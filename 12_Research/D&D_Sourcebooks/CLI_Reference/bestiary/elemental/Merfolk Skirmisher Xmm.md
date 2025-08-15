@@ -128,3 +128,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Someone is hunting a witness for revenge
 - An heirloom has gone missing and evil awakens
 - Someone is protecting a artifact for power
+
+## References
+
+- [[merfolk-skirmisher-xmm (elemental)]]
+- [[Monsters by Habitat Coastal Monsters Xmm]]
+- [[Monsters by Habitat Underwater Monsters Xmm]]
+- [[Undersea Encounters]]
+- [[Underwater Encounters Levels 14 Xge]]
+- [[Underwater Encounters Levels 510 Xge]]
+- [[monsters-by-habitat-coastal-monsters-xmm (tables)]]
+- [[monsters-by-habitat-underwater-monsters-xmm (tables)]]
+- [[undersea-encounters (tables)]]
+- [[underwater-encounters-levels-14-xge (tables)]]
+- [[underwater-encounters-levels-510-xge (tables)]]

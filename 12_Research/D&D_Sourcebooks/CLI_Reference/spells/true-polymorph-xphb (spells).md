@@ -127,7 +127,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -146,4 +145,28 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[true-polymorph-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[polymorph-xphb (spells)|true-polymorph-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Faerie Dragon Adult Xmm]]
+- [[faerie-dragon-adult-xmm (dragon)]]
+- [[Pixie Wonderbringer Xmm]]
+- [[pixie-wonderbringer-xmm (fey)]]
+- [[Molydeus Mpmm]]
+- [[molydeus-mpmm (fiend)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cloak of the Bat Xdmg]]
+- [[Wand of Polymorph Xdmg]]
+- [[cloak-of-the-bat-xdmg (items)]]
+- [[wand-of-polymorph-xdmg (items)]]
+- [[Sculptor of Flesh]]
+- [[sculptor-of-flesh (optional-features)]]
+- [[Locate Creature Xphb]]
+- [[locate-creature-xphb (spells)]]
+- [[Random Tricks Tricks]]
+- [[Wild Magic Surge Phb]]
+- [[random-tricks-tricks (tables)]]
+- [[wild-magic-surge-phb (tables)]]

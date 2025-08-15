@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Voidwalker the Strong", "ewan voidwalker the strong", "Ewan Voidwalker Strong", "Strong the Voidwalker Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Voidwalker the Strong
 
 *Human Blacksmith (Commoners), Age 41, Male*
@@ -42,31 +48,25 @@ Former soldier trying to adjust to civilian life An old debt has come due at the
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
 
-
 ### Ewan Darkwater the Wise (Family - Sibling)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
-
 
 ### Zephyr Dawnstrider the Swift (Personal - Love interest)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
 
-
 ### Zephyr Winterborn the Wise (Family - Spouse)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ### Ysara Quicksilver the Lost (Family - Spouse)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Orion Emberfall the Cunning (Criminal - Handler)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Witnessed a noble's crime

@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Winterborn", "corvus winterborn", "Winterborn Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Winterborn
 
 *Half-Orc Heir (Nobles), Age 34, Non-binary*
@@ -36,7 +42,6 @@ Last survivor of a fallen house, seeking to restore family honor A prophetic dre
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Thalia Ashford the Strong (Personal - Best friend)
 - **Status**: On the verge of collapse
@@ -52,11 +57,9 @@ Last survivor of a fallen house, seeking to restore family honor A prophetic dre
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Idris Voidwalker (Professional - Employer)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ### Aldric Winterborn (Personal - Love interest)
 - **Status**: Strained but maintaining
@@ -66,7 +69,6 @@ Last survivor of a fallen house, seeking to restore family honor A prophetic dre
 ### Orion Oakenshield the Bold (Family - Cousin)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Secretly funding the rebellion

@@ -105,3 +105,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Drow Deities the Dark Seldarine Mtf]]
+- [[drow-deities-the-dark-seldarine-mtf (tables)]]

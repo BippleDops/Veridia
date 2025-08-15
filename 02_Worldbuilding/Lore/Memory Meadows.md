@@ -105,3 +105,16 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Quest - The Convergence Crisis]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure]]
+- [[Deep Mother]]
+- [[Memory Harvester Kythara]]
+- [[Memory Merchant Valeria Siltweave]]
+- [[The Memory Meadows Black Market]]
+- [[Deep Mother (D&D_References)]]
+- [[Deep Mother 3 (D&D_References)]]
+- [[Memory Harvester Kythara (D&D_Statblocks)]]
+- [[Memory Merchant Valeria Siltweave (D&D_Statblocks)]]

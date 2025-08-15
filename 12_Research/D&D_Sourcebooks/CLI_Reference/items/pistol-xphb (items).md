@@ -78,3 +78,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A noble needs help finding before winter
 - An heirloom has gone missing and evil awakens
 - A noble needs help finding before the festival
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Tinkers Tools Xphb]]
+- [[Woodcarvers Tools Xphb]]
+- [[tinkers-tools-xphb (items)]]
+- [[woodcarvers-tools-xphb (items)]]
+- [[Weapons Xphb]]
+- [[weapons-xphb (tables)]]

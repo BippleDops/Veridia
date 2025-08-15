@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Silverleaf the Wise", "vesper silverleaf the wise", "Vesper Silverleaf Wise", "Wise the Silverleaf Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Silverleaf the Wise
 
 *Gnome Cleric (Adventurers), Age 64, Non-binary*
@@ -13,7 +19,6 @@
 Average height and heavyset, with Short and neat blonde hair and Green eyes. Unusual hue skin. Crooked nose from multiple breaks.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Always speaks in metaphors and riddles; Constantly quotes ancient texts
@@ -36,7 +41,6 @@ Searching for a legendary treasure their parent died seeking They've fallen in l
 - **Short Term**: Complete current contract
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Solas Keenblade the Wanderer (Professional - Rival)
 - **Status**: Professional only
@@ -56,7 +60,6 @@ Searching for a legendary treasure their parent died seeking They've fallen in l
 ### Elric Nightfall the Wanderer (Professional - Partner)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Secretly working for the villain

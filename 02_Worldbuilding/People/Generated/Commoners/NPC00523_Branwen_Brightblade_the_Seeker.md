@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Brightblade the Seeker", "branwen brightblade the seeker", "Branwen Brightblade Seeker", "Seeker the Brightblade Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Brightblade the Seeker
 
 *Gnome Blacksmith (Commoners), Age 67, Male*
@@ -36,12 +42,10 @@ Grew up in poverty but discovered a talent that might change everything A chance
 - **Short Term**: Recruit new members
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Faelyn Lightbringer the Seeker (Political - Ally)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ### Xander Crystalbrook the Fallen (Criminal - Informant)
 - **Status**: Recently reconciled
@@ -57,11 +61,9 @@ Grew up in poverty but discovered a talent that might change everything A chance
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
 
-
 ### Gareth Underhill the Risen (Family - Sibling)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Knows location of ancient treasure

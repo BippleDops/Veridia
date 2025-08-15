@@ -1,4 +1,5 @@
 ---
+aliases: ["In Search of Knowledge", "in search of knowledge", "Knowledge of Search In"]
 tags: [quest, adventure, generated]
 type: quest
 ---
@@ -20,8 +21,6 @@ Broker peace between the merchant guild and the thieves guild
 
 ### Secondary
 - Gather intelligence on enemy plans
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they lost everything in a fire, which changed their life forever. Now, circumstances demand immediate action.
@@ -57,8 +56,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Show mercy and gain intel - Future ally but justice denied
 2. Execute for crimes committed - Justice served but opportunity lost
-
-
 
 ## Rewards
 ### On Success

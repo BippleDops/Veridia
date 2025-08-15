@@ -34,7 +34,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-harbor-master-luna-freedrift-harbor-master-luna-freedrift.svg)
 
@@ -42,7 +41,6 @@ improvements: 20
 
 # Harbor Master Luna Freedrift
 *The Current's Voice, She Who Opens All Ports, The People's Harbor*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -294,7 +292,6 @@ Legends speak of Harbor Master Luna Freedrift as a nexus where past and present 
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -330,3 +327,17 @@ Legends speak of Harbor Master Luna Freedrift as a nexus where past and present 
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Merchant Family Alliances]]
+- [[Assets Locations Location City the Resonance Cathedral the Resonance Cathedral.svg]]
+- [[Assets Portraits Portrait NPC Captain Thaddeus Blackwater Captain Thaddeus Blackwater.svg]]
+- [[Assets Portraits Portrait NPC Captain Threshold Captain Threshold.svg]]
+- [[The Crimson Shard Guardian]]
+- [[Harbor Master Luna Freedrift (Places)]]
+- [[Supplier Erikson Tidecaller]]
+- [[Supplier Erikson Tidecaller (D&D_References)]]
+- [[Dr. Siphon Gillwater (D&D_Statblocks)]]
+- [[Harbor Master Luna Freedrift (D&D_Statblocks)]]
+- [[The Crimson Shard Guardian (D&D_Statblocks)]]

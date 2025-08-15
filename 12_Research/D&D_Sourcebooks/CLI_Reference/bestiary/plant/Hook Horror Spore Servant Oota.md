@@ -119,3 +119,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[20 Appendix C Creatures]]
+- [[20-appendix-c-creatures (out-of-the-abyss)]]
+- [[hook-horror-spore-servant-oota (plant)]]

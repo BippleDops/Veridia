@@ -383,8 +383,8 @@ world: Both
 - Learning investment returns
 
 ### Related Game Mechanics
-- [[Economic System Rules]] - [How mechanics track economic changes]
-- [[Wealth and Treasure Systems]] - [How player rewards are affected]
+- [[Economic_System_Rules|Economic System Rules]] - [How mechanics track economic changes]
+- [[Wealth_and_Treasure_Systems|Wealth and Treasure Systems]] - [How player rewards are affected]
 
 ---
 

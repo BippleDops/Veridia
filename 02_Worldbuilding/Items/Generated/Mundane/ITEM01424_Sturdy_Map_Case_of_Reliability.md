@@ -1,3 +1,9 @@
+---
+aliases: ["Sturdy Map Case of Reliability", "sturdy map case of reliability", "Reliability of Case Map Sturdy"]
+tags: [item, equipment]
+type: item
+---
+
 # Sturdy Map Case of Reliability
 
 *Mundane, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A sturdy map case bearing maker's mark
 - Works perfectly always
 - Never breaks or wears out
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -30,7 +34,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.486Z*

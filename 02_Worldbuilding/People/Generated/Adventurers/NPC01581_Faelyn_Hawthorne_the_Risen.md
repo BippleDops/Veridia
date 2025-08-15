@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Hawthorne the Risen", "faelyn hawthorne the risen", "Faelyn Hawthorne Risen", "Risen the Hawthorne Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Hawthorne the Risen
 
 *Tabaxi Fighter (Adventurers), Age 37, Female*
@@ -13,7 +19,6 @@
 Short and stocky, with Tied back bald hair and Black eyes. Unusual hue skin. Weather-beaten face showing hard life.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Always speaks in metaphors and riddles; Believes in every conspiracy theory
@@ -36,7 +41,6 @@ Accidentally gained powers and learning to control them A chance encounter last 
 - **Short Term**: Sabotage competition
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Alaric Ashford the Cunning (Professional - Rival)
 - **Status**: Strained but maintaining
@@ -47,16 +51,13 @@ Accidentally gained powers and learning to control them A chance encounter last 
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
 
-
 ### Erasmus Youngblood the Cunning (Personal - Love interest)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
 
-
 ### Fiora Ironforge the Broken (Political - Opposition)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Possessed by ancient spirit

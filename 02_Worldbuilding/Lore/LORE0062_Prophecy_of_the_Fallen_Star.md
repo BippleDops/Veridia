@@ -1,4 +1,5 @@
 ---
+aliases: ["Prophecy of the Fallen Star", "prophecy of the fallen star", "Prophecy of Fallen Star", "Star Fallen the of Prophecy"]
 tags: [generated]
 id: LORE0062_Prophecy_of_the_Fallen_Star
 created: 2025-08-15T04:09:51.146Z

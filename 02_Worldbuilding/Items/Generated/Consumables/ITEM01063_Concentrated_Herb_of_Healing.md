@@ -1,3 +1,9 @@
+---
+aliases: ["Concentrated Herb of Healing", "concentrated herb of healing", "Healing of Herb Concentrated"]
+tags: [item, equipment]
+type: item
+---
+
 # Concentrated Herb of Healing
 
 *Consumables, Rare*
@@ -15,8 +21,6 @@ A concentrated herb glowing softly
 - Invisible for 10 minutes
 - Grant advantage for 1 hour
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -31,7 +35,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.452Z*

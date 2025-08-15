@@ -1,3 +1,9 @@
+---
+aliases: ["Superior Elixir of Fortune", "superior elixir of fortune", "Fortune of Elixir Superior"]
+tags: [item, equipment]
+type: item
+---
+
 # Superior Elixir of Fortune
 
 *Consumables, Uncommon*
@@ -14,8 +20,6 @@ A superior elixir swirling with colors
 - Grant advantage for 1 hour
 - Increase speed by 10 ft
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -30,7 +34,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.459Z*

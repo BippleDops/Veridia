@@ -1,11 +1,11 @@
 ---
+aliases: ["Leopold Goldleaf", "leopold goldleaf", "Goldleaf Leopold"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -79,7 +79,6 @@ Athletics, Persuasion, Investigation
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 61 gold pieces
 - Family heirloom (locket)
@@ -94,7 +93,6 @@ Athletics, Persuasion, Investigation
 
 ---
 *Generated: 2025-08-15T03:20:13.085Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

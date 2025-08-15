@@ -1,7 +1,7 @@
 ---
 
 title: Pilgrimage Coordinators
-type: Location
+type: [[location|location]]
 tags:
 - both
 - world/both
@@ -25,7 +25,7 @@ improvements: 20
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-pilgrimage-coordinators-pilgrimage-coordinators.svg)
+![]([[04_Resources|04_Resources]]/[[Assets|Assets]]/Locations/location-city-pilgrimage-coordinators-pilgrimage-coordinators.svg)
 
 > [!figure] View
 
@@ -39,11 +39,11 @@ improvements: 20
 
 ### Culture Improvements
 
-- Define unique cultural practices and taboos
+- Define unique [[Cultural Practices|Cultural Practices]] and taboos
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -51,7 +51,7 @@ improvements: 20
 
 ### Lifestyle Improvements
 
-- Describe typical day for different social classes
+- Describe typical day for different social [[classes|classes]]
 
 ### Superstitions Improvements
 
@@ -89,22 +89,22 @@ improvements: 20
 
 - Include cultural hypocrisies and double standards
 
-## Player-Facing Summary
+## Player-[[facing|facing]] Summary
 
 Pilgrimage Coordinators is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore|Lore]] Details
 
-Legends speak of Pilgrimage Coordinators as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pilgrimage Coordinators.
+Legends speak of Pilgrimage Coordinators as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or [[Whispers|Whispers]] on the wind—that herald change around Pilgrimage Coordinators.
 
-### Key Locations
+### [[Key Locations|Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -125,27 +125,23 @@ Pilgrimage Coordinators is a notable location characterized by its unique featur
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
-- **Races**: Diverse mix
+- **[[Races|Races]]**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
-- **Market District**: Commerce hub
+- **[[Market District|Market District]]**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
-
 
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -158,7 +154,7 @@ Pilgrimage Coordinators is a notable location characterized by its unique featur
 Ongoing situations affecting Pilgrimage Coordinators:
 
 - Political developments
-- Economic conditions
+- Economic [[Conditions|Conditions]]
 - Social movements
 - External threats
 - Opportunities arising
@@ -169,7 +165,7 @@ Ongoing situations affecting Pilgrimage Coordinators:
 - Strange disappearances suggest a portal
 - Strange dreams suggest a conspiracy
 
-## Climate & Weather
+## Climate & [[weather|weather]]
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
 
@@ -204,3 +200,11 @@ Ongoing situations affecting Pilgrimage Coordinators:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+---
+**Navigation**: [[00_Indexes/Home|🏠 Home]] | [[00_Indexes/Master_Index|📚 Index]]
+
+## References
+
+- [[Mad Oracle Thessaly]]
+- [[Mad Oracle Thessaly (D&D_References)]]

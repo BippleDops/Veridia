@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Quicksilver the Scholar", "pyria quicksilver the scholar", "Pyria Quicksilver Scholar", "Scholar the Quicksilver Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Quicksilver the Scholar
 
 *Dragonborn Broker (Merchants), Age 58, Female*
@@ -13,7 +19,6 @@
 Short and heavyset, with Carefully styled red hair and Brown eyes. Scarred skin. Constantly changing hair color.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Flirts with everyone regardless of interest; Speaks to inanimate objects
@@ -42,7 +47,6 @@ Part of a merchant family with connections everywhere They're being blackmailed 
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Hestara Emberfall the Cunning (Professional - Employer)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
@@ -52,16 +56,13 @@ Part of a merchant family with connections everywhere They're being blackmailed 
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Aldric Winterborn the Risen (Professional - Mentor)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
 
-
 ### Urien Ironwood the Scholar (Criminal - Target)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Sells information to all sides

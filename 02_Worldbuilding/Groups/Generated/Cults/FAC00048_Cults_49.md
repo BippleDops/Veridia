@@ -1,6 +1,18 @@
-# Cults 49
+---
+aliases: ["Cults 49", "cults 49", "49 Cults"]
+tags: [note, stub-fixed]
+---
 
-*Cults*
+# Fac00048 Cults 49
+
+## Content
+Content to be added.
+
+## Related
+- [[Related content]]
+
+## Notes
+*Stub file automatically populated*
 
 ---
-*ID: FAC00048*
+*Note: This content develops through gameplay and campaign events.*

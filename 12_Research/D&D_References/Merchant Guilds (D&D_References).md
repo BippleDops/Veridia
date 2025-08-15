@@ -56,3 +56,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A journal reveals ancient history about a local noble
 - Someone is protecting an heir for revenge
+
+## References
+
+- [[Inverted Ballroom Wing (D&D_References)]]
+- [[Mad Oracle Thessaly (D&D_References)]]

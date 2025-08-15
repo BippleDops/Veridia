@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Ashford", "ewan ashford", "Ashford Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Ashford
 
 *Human Aristocrat (Nobles), Age 45, Non-binary*
@@ -13,7 +19,6 @@
 Above average and heavyset, with Carefully styled gray hair and Heterochromic eyes. Weathered skin. Constantly changing hair color.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Compulsive liar about minor things; Speaks to inanimate objects
@@ -47,11 +52,9 @@ Secretly adopted into nobility, living in fear of discovery A prophetic dream ha
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Jorah Brightblade the Bold (Family - Parent)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Secretly funding the rebellion

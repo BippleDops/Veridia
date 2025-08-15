@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Crystalbrook the Strong", "qadim crystalbrook the strong", "Qadim Crystalbrook Strong", "Strong the Crystalbrook Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Crystalbrook the Strong
 
 *Elf Noble (Nobles), Age 35, Male*
@@ -47,11 +53,9 @@ Exiled from their homeland, trying to rebuild their power base They recently dis
 - **Status**: Secretly hostile
 - **History**: United by common enemy
 
-
 ### Malakai Underhill (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ### Elric Lightbringer the Lost (Criminal - Accomplice)
 - **Status**: Complicated history
@@ -61,7 +65,6 @@ Exiled from their homeland, trying to rebuild their power base They recently dis
 ### Aeliana Blackstone (Professional - Employee)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Child from scandalous affair

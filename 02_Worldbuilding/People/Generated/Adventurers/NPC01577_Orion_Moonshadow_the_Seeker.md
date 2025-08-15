@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Moonshadow the Seeker", "orion moonshadow the seeker", "Orion Moonshadow Seeker", "Seeker the Moonshadow Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Moonshadow the Seeker
 
 *Half-Orc Rogue (Adventurers), Age 62, Female*
@@ -36,12 +42,10 @@ Running from a dark past that won't stay buried Strange abilities have begun man
 - **Short Term**: Complete current contract
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Malakai Quicksilver the Seeker (Professional - Partner)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ### Malakai Youngblood the Scholar (Family - Spouse)
 - **Status**: Mutually beneficial
@@ -56,7 +60,6 @@ Running from a dark past that won't stay buried Strange abilities have begun man
 ### Qadim Silverleaf the Wise (Political - Puppet)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Has died and been resurrected

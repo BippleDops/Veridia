@@ -67,3 +67,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[A Sample Pantheon Dawn War Deities]]
+- [[a-sample-pantheon-dawn-war-deities (tables)]]

@@ -43,7 +43,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-reflection-pools-reflection-pools.svg)
 
@@ -52,7 +51,6 @@ improvements: 20
 # Reflection Pools
 
 *"In still waters, the future ripples backward to the present." - Oracle Miraleth*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -254,7 +252,6 @@ Reflection Pools is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of Reflection Pools as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Reflection Pools.
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -290,3 +287,15 @@ Legends speak of Reflection Pools as a nexus where past and present converge. Lo
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Dr Vera Spectrumseeker Dr Vera Spectrumseeker.svg]]
+- [[Original Glaucus]]
+- [[Senator Glaucus]]
+- [[Abyssos Prime]]
+- [[Reflection Pools - Surgical Theater]]
+- [[The Reflection Pools]]
+- [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
+- [[Original Glaucus (D&D_References)]]
+- [[Senator Glaucus (D&D_References)]]

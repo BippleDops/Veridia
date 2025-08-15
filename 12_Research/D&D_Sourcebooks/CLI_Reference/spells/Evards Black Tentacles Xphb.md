@@ -45,3 +45,13 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Kraken Priest Mpmm]]
+- [[kraken-priest-mpmm (monstrosity)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Sorcerer Xphb Aberrant Sorcery Xphb]]
+- [[sorcerer-xphb-aberrant-sorcery-xphb (classes)]]

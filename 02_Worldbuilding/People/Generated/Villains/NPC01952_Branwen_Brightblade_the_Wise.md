@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Brightblade the Wise", "branwen brightblade the wise", "Branwen Brightblade Wise", "Wise the Brightblade Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Brightblade the Wise
 
 *Dwarf Dark Wizard (Villains), Age 35, Male*
@@ -36,7 +42,6 @@ Born into evil but questioning their path They've fallen in love with someone th
 - **Short Term**: Sabotage competition
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Ysara Quicksilver the Strong (Personal - Love interest)
 - **Status**: Recently reconciled
@@ -47,16 +52,13 @@ Born into evil but questioning their path They've fallen in love with someone th
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Solas Xendar the Cunning (Political - Opposition)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
 
-
 ### Lyanna Voidwalker the Risen (Political - Spy)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Is being controlled by darker force

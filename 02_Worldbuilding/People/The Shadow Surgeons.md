@@ -42,7 +42,6 @@ This document contains important information regarding The Shadow Surgeons and i
 ## Description
 The Shadow Surgeons represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-
 ## Statistics
 ___
 - **Armor Class** 10 (natural armor)
@@ -106,13 +105,11 @@ Possible developments and plot directions.
 - Part of larger narrative structures
 - Influences and is influenced by surrounding content
 
-
 ## Motivations
 - **Primary Goal**: Main objective
 - **Secondary Goals**: Supporting aims
 - **Fears**: What they avoid
 - **Desires**: What they seek
-
 
 ## Secrets
 - Hidden information about this character
@@ -128,7 +125,6 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns
@@ -171,3 +167,7 @@ This content can be adapted and expanded based on specific campaign needs.
 - **Truth**: Actual nature
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Abyssal Academy]]

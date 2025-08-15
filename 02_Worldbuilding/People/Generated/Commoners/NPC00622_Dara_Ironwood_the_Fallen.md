@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Ironwood the Fallen", "dara ironwood the fallen", "Dara Ironwood Fallen", "Fallen the Ironwood Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Ironwood the Fallen
 
 *Firbolg Carpenter (Commoners), Age 39, Non-binary*
@@ -36,27 +42,22 @@ Former soldier trying to adjust to civilian life A prophetic dream has been haun
 - **Short Term**: Recruit new members
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Aeliana Crystalbrook the Wanderer (Personal - Nemesis)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
 
-
 ### Thalia Jadeclaw the Bold (Family - Spouse)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ### Orion Voidwalker the Bold (Family - Sibling)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Drusilla Blackstone the Seeker (Personal - Childhood friend)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
-
 
 ### Alaric Ravenheart the Broken (Criminal - Accomplice)
 - **Status**: Recently reconciled

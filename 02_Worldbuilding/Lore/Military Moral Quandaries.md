@@ -44,7 +44,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -88,7 +88,7 @@ improvements: 20
 
 ## Overview
 
-Military service has always involved moral complexity, but the supernatural threats facing Aquabyssos create unprecedented ethical challenges. Traditional concepts of combatant status, proportional response, [[Civilian Protection]], and just war theory break down when facing enemies that can corrupt consciousness itself. This guide explores the [[Moral Dilemmas]] that arise when military necessity conflicts with ethical principles in an age of [[Shadow Corruption]].
+Military service has always involved moral complexity, but the supernatural threats facing Aquabyssos create unprecedented ethical challenges. Traditional concepts of combatant status, proportional response, [[Civilian Protection]], and just war theory break down when facing enemies that can corrupt consciousness itself. This guide explores the [[Moral_Dilemmas|Moral Dilemmas]] that arise when military necessity conflicts with ethical principles in an age of [[Shadow Corruption]].
 
 ### The Corruption Factor
 
@@ -367,7 +367,7 @@ Military planning assault on cult stronghold in abandoned cathedral:
 - Can military justify using weapons whose effects are poorly understood?
 - Who bears responsibility for long-term consequences of reality damage?
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Military ethics scenarios work best when players have personal investment in military characters and institutions. Build toward major ethical crises by first presenting smaller military moral choices. Allow time for player discussion of options, but maintain time pressure appropriate to military decision-making. Remember that military ethics training helps but doesn't eliminate moral complexity - even trained officers struggle with these dilemmas.
 

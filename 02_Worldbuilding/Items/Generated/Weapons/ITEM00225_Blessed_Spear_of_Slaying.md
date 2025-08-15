@@ -1,3 +1,9 @@
+---
+aliases: ["Blessed Spear of Slaying", "blessed spear of slaying", "Slaying of Spear Blessed"]
+tags: [item, equipment]
+type: item
+---
+
 # Blessed Spear of Slaying
 
 *Weapons, Uncommon (requires attunement)*

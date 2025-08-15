@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Silverleaf the Swift", "caelum silverleaf the swift", "Caelum Silverleaf Swift", "Swift the Silverleaf Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Silverleaf the Swift
 
 *Halfling Blacksmith (Commoners), Age 46, Non-binary*
@@ -42,21 +48,17 @@ Family has worked the same trade for generations, but times are changing They've
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Dara Xendar the Guardian (Family - Sibling)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ### Faelyn Ashford the Cunning (Personal - Love interest)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Hilda Ashford the Lost (Family - Parent)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
-
 
 ### Orion Moonshadow the Strong (Political - Ally)
 - **Status**: Complicated history
@@ -66,7 +68,6 @@ Family has worked the same trade for generations, but times are changing They've
 ### Baelor Proudmore the Guardian (Political - Puppet)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Is the lost heir to the throne

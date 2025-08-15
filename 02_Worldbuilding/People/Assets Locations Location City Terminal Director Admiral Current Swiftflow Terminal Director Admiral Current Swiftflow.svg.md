@@ -243,3 +243,8 @@ This NPC can serve multiple roles:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-marina-saltborn-captain-marina-saltborn.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-house-guard-captains-house-guard-captains.svg]]

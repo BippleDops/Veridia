@@ -1,3 +1,9 @@
+---
+aliases: ["Warded Chain Mail of Grace", "warded chain mail of grace", "Grace of Mail Chain Warded"]
+tags: [item, equipment]
+type: item
+---
+
 # Warded Chain Mail of Grace
 
 *Armor, Common*
@@ -13,8 +19,6 @@ A warded chain mail crafted from exotic materials
 ## Properties
 - Immunity to critical hits
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -29,7 +33,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.388Z*

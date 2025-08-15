@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Ironforge the Mystic", "gavril ironforge the mystic", "Gavril Ironforge Mystic", "Mystic the Ironforge Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Ironforge the Mystic
 
 *Dragonborn Cultist (Villains), Age 67, Female*
@@ -42,11 +48,9 @@ Believes their evil acts serve a greater good They recently discovered a secret 
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Rhiannon Zephyrblade the Swift (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
-
 
 ### Wynne Crystalbrook the Seeker (Family - Cousin)
 - **Status**: On the verge of collapse

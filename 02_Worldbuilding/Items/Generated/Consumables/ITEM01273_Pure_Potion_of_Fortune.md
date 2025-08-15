@@ -1,3 +1,9 @@
+---
+aliases: ["Pure Potion of Fortune", "pure potion of fortune", "Fortune of Potion Pure"]
+tags: [item, equipment]
+type: item
+---
+
 # Pure Potion of Fortune
 
 *Consumables, Common*
@@ -13,8 +19,6 @@ A pure potion emanating sweet fragrance
 ## Properties
 - Grant advantage for 1 hour
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -29,7 +33,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.472Z*

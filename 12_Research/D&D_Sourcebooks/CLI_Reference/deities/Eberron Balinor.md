@@ -73,3 +73,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Cleric Xphb Nature Domain]]
+- [[cleric-xphb-nature-domain (classes)]]
+- [[cleric-xphb-nature-domain 2 (classes)]]
+- [[Deities of Eberron]]
+- [[deities-of-eberron (tables)]]

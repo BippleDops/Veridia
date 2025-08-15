@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Keenblade the Scholar", "delara keenblade the scholar", "Delara Keenblade Scholar", "Scholar the Keenblade Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Keenblade the Scholar
 
 *Tiefling Fighter (Adventurers), Age 28, Non-binary*
@@ -36,12 +42,10 @@ Running from a dark past that won't stay buried A family member's death has left
 - **Short Term**: Sabotage competition
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Orion Xendar the Redeemed (Political - Puppet)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ### Alaric Keenblade the Lost (Criminal - Informant)
 - **Status**: Secretly hostile
@@ -51,7 +55,6 @@ Running from a dark past that won't stay buried A family member's death has left
 ### Caelum Frostwhisper the Bold (Criminal - Target)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ### Aldric Frostwhisper the Strong (Personal - Love interest)
 - **Status**: Blood oath bound

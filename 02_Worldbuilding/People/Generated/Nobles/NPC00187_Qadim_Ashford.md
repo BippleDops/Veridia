@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Ashford", "qadim ashford", "Ashford Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Ashford
 
 *Aasimar Noble (Nobles), Age 55, Male*
@@ -13,7 +19,6 @@
 Below average and imposing, with Partially shaved brown hair and Blue eyes. Weathered skin. Intricate tattoos covering arms.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Always speaks in metaphors and riddles
@@ -36,7 +41,6 @@ Recently elevated to nobility through service, still learning courtly ways A fam
 - **Short Term**: Avoid the authorities
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Brenna Goldleaf (Professional - Employee)
 - **Status**: Strong and trusting
@@ -47,11 +51,9 @@ Recently elevated to nobility through service, still learning courtly ways A fam
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Ewan Emberfall the Seeker (Personal - Childhood friend)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ### Rhiannon Oakenshield (Political - Puppet)
 - **Status**: Recently reconciled

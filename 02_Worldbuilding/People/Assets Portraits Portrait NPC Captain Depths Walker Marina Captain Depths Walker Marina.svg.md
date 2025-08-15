@@ -202,7 +202,7 @@ Member of House Serpentblood - Trait: magical affinity
 
 - **Child**: [[Sister Morwyn Veilkeeper]]
 - **Ally**: [[Portrait NPC Corrupted Clients Corrupted Clients.svg]]
-- **Debtor**: [[aerisi kalinoth pota]]
+- **Debtor**: [[Aerisi Kalinoth Pota|aerisi kalinoth pota]]
 
 ## Economic Structure
 
@@ -249,3 +249,8 @@ Member of House Serpentblood - Trait: magical affinity
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Assets Portraits Portrait NPC Quest Storm Lord S Challenge Quest Storm Lord S Challenge.svg]]
+- [[Assets Symbols Symbol Heraldry Dockworkers Union Dockworkers Union.svg]]

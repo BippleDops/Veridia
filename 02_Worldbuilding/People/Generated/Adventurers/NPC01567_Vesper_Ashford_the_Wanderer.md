@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Ashford the Wanderer", "vesper ashford the wanderer", "Vesper Ashford Wanderer", "Wanderer the Ashford Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Ashford the Wanderer
 
 *Dragonborn Cleric (Adventurers), Age 43, Female*
@@ -42,11 +48,9 @@ Seeking vengeance for a murdered mentor They've fallen in love with someone they
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Delara Voidwalker the Redeemed (Political - Opposition)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ### Corvus Darkwater the Swift (Personal - Nemesis)
 - **Status**: On the verge of collapse
@@ -61,7 +65,6 @@ Seeking vengeance for a murdered mentor They've fallen in love with someone they
 ### Jorah Voidwalker the Bold (Personal - Nemesis)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Carries a world-ending artifact

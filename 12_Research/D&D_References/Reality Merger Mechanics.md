@@ -61,3 +61,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Complete Faction Warfare System]]
+- [[Complete Pressure Adaptation System]]
+- [[Complete_Faction_Warfare_System (D&D_References)]]
+- [[Complete_Pressure_Adaptation_System (D&D_References)]]

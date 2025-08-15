@@ -183,7 +183,7 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[King Torrhen Lumengarde]] (rival)
 - [[04_Resources_Assets_Portraits_portrait-npc-lord-commander-steelborn-lord-commander-steelborn.svg]] (enemy)
-- [[Captain Depths Walker Marina]] (ally)
+- [[Assets Portraits Portrait NPC Captain Depths Walker Marina Captain Depths Walker Marina.svg|Captain Depths Walker Marina]] (ally)
 ---
 *Tags*: #npc #contact #worldbuilding
 
@@ -214,3 +214,7 @@ This NPC can serve multiple roles:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Assets Portraits Portrait NPC Duke Aldric Blackwater Duke Aldric Blackwater.svg]]

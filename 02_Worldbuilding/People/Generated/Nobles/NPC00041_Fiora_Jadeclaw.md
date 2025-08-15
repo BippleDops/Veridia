@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Jadeclaw", "fiora jadeclaw", "Jadeclaw Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Jadeclaw
 
 *Tabaxi Heir (Nobles), Age 18, Female*
@@ -36,32 +42,26 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Find missing person
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Gavril Grimholt (Family - Parent)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
 
-
 ### Gareth Hawthorne (Family - Cousin)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
-
 
 ### Kaelen Xendar (Political - Ally)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
 
-
 ### Caelum Ashford the Bold (Professional - Partner)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Ysara Hawthorne the Swift (Criminal - Target)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Child from scandalous affair

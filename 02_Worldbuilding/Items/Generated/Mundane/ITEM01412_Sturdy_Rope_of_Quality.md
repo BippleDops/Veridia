@@ -1,3 +1,9 @@
+---
+aliases: ["Sturdy Rope of Quality", "sturdy rope of quality", "Quality of Rope Sturdy"]
+tags: [item, equipment]
+type: item
+---
+
 # Sturdy Rope of Quality
 
 *Mundane, Uncommon*
@@ -14,8 +20,6 @@ A sturdy rope showing signs of age
 - Grants minor benefit
 - Functions in antimagic
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -30,7 +34,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.485Z*

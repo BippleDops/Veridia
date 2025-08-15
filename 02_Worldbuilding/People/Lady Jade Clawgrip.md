@@ -43,7 +43,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-lady-jade-clawgrip-lady-jade-clawgrip.svg)
 
@@ -52,13 +51,11 @@ improvements: 20
 # Lady Jade Clawgrip
 *The Corporate Predator, Mistress of Hostile Takeovers*
 
-
 ## Relationships
 - **Allies**: Notable allies and friends
 - **Rivals**: Competitors and rivals  
 - **Family**: Family connections
 - **Organizations**: Group affiliations
-
 
 ## Motivations
 - **Primary Goal**: Main objective
@@ -466,7 +463,6 @@ Legends speak of Lady Jade Clawgrip as a nexus where past and present converge. 
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -502,3 +498,13 @@ Legends speak of Lady Jade Clawgrip as a nexus where past and present converge. 
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Art Astrologer Prime Cassandra Starweaver.png]]
+- [[Assets Locations Location City Professor Marina Reefbuilder V1 Professor Marina Reefbuilder.svg]]
+- [[Commander Thrace Ironwood]]
+- [[Sirens]]
+- [[Silverscale Consortium (D&D_References)]]
+- [[Sirens (D&D_References)]]
+- [[Commander Thrace Ironwood (D&D_Statblocks)]]

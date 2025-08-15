@@ -250,3 +250,25 @@ Mentioned in The First Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Yeth Hound Mpmm]]
+- [[yeth-hound-mpmm (fey)]]
+- [[Vampiric Mist Mpmm]]
+- [[vampire-xmm (undead)]]
+- [[vampiric-mist-mpmm (undead)]]
+- [[Saint Markovias Thighbone Cos]]
+- [[saint-markovias-thighbone-cos (items)]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[Monsters by Habitat Urban Monsters Xmm]]
+- [[Urban Encounters Levels 1116 Xge]]
+- [[Urban Encounters Levels 1720 Xge]]
+- [[Urban Encounters Levels 510 Xge]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]
+- [[monsters-by-habitat-urban-monsters-xmm (tables)]]
+- [[urban-encounters-levels-1116-xge (tables)]]
+- [[urban-encounters-levels-1720-xge (tables)]]
+- [[urban-encounters-levels-510-xge (tables)]]
+- [[Player Characters as Vampires Mm]]
+- [[player-characters-as-vampires-mm (variant-rules)]]

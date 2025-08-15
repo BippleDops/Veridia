@@ -1,4 +1,5 @@
 ---
+aliases: ["Forgotten Crown of Power", "forgotten crown of power", "Power of Crown Forgotten"]
 tags: [generated]
 id: ITEM0021
 created: 2025-08-15T04:09:51.083Z

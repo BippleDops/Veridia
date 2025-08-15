@@ -1,6 +1,5 @@
 ---
 
-
 title: 02_Worldbuilding/Lore/Quest Index
 type: adventure
 tags:
@@ -21,13 +20,10 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
-
 
 ## Objectives
 ### Primary
@@ -173,7 +169,6 @@ An exciting quest that challenges heroes to uncover the truth.
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Time Limit
 - **Deadline**: When it must be completed

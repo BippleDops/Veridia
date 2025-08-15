@@ -1,8 +1,8 @@
 ---
+aliases: ["Cedric Stormwind", "cedric stormwind", "Stormwind Cedric"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -71,8 +71,6 @@ Apprenticed to a master craftsman from young age. Years ago, they survived a pla
 ### Skills
 Insight, Stealth
 
-
-
 ## Possessions
 - 97 gold pieces
 - Mysterious key
@@ -84,7 +82,6 @@ Insight, Stealth
 
 ---
 *Generated: 2025-08-15T03:20:13.071Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

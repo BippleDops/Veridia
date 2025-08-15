@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Winterborn", "ysara winterborn", "Winterborn Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Winterborn
 
 *Tiefling Noble (Nobles), Age 23, Non-binary*
@@ -36,7 +42,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Avoid the authorities
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Jorah Hawthorne the Risen (Family - Child)
 - **Status**: Strong and trusting
@@ -47,16 +52,13 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Xander Proudmore the Broken (Criminal - Informant)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Faelyn Underhill (Criminal - Handler)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Child from scandalous affair

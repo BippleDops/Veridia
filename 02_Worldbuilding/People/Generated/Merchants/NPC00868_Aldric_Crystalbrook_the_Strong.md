@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Crystalbrook the Strong", "aldric crystalbrook the strong", "Aldric Crystalbrook Strong", "Strong the Crystalbrook Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Crystalbrook the Strong
 
 *Elf Broker (Merchants), Age 27, Male*
@@ -36,12 +42,10 @@ Uses their business as cover for other activities They recently discovered a sec
 - **Short Term**: Complete current contract
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Hilda Hawthorne the Bold (Criminal - Fence)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
-
 
 ### Fiora Winterborn the Mystic (Personal - Ex-lover)
 - **Status**: Blood oath bound
@@ -51,7 +55,6 @@ Uses their business as cover for other activities They recently discovered a sec
 ### Gareth Moonshadow the Scholar (Criminal - Target)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Is actually a spy for foreign power

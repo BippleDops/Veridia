@@ -90,7 +90,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -109,4 +108,18 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[slow-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[slow-xphb (spells)|slow-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Stone Golem Xmm]]
+- [[stone-golem-xmm (construct)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Eye and Hand of Vecna Xdmg]]
+- [[Hand of Vecna Xdmg]]
+- [[eye-and-hand-of-vecna-xdmg (items)]]
+- [[hand-of-vecna-xdmg (items)]]
+- [[Mire the Mind]]
+- [[mire-the-mind (optional-features)]]

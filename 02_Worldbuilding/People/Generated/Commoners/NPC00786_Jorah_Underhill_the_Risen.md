@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Underhill the Risen", "jorah underhill the risen", "Jorah Underhill Risen", "Risen the Underhill Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Underhill the Risen
 
 *Gnome Blacksmith (Commoners), Age 30, Female*
@@ -42,11 +48,9 @@ Family has worked the same trade for generations, but times are changing An old 
 - **Status**: One-sided affection
 - **History**: United by common enemy
 
-
 ### Hestara Ironforge the Broken (Personal - Best friend)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
-
 
 ### Baelor Brightblade the Broken (Family - Spouse)
 - **Status**: One-sided affection
@@ -57,11 +61,9 @@ Family has worked the same trade for generations, but times are changing An old 
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Delara Blackstone the Scholar (Personal - Nemesis)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Has dragon blood in their veins

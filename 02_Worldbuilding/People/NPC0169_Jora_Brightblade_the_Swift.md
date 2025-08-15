@@ -1,11 +1,11 @@
 ---
+aliases: ["Jora Brightblade the Swift", "jora brightblade the swift", "Jora Brightblade Swift", "Swift the Brightblade Jora"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -78,7 +78,6 @@ Perception, Stealth, Arcana, Deception
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 102 gold pieces
 - Mysterious key
@@ -92,7 +91,6 @@ Perception, Stealth, Arcana, Deception
 
 ---
 *Generated: 2025-08-15T03:21:04.043Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

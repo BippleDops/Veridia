@@ -1,4 +1,5 @@
 ---
+aliases: ["Forgotten Tome of Power", "forgotten tome of power", "Power of Tome Forgotten"]
 tags: [generated]
 id: ITEM0037
 created: 2025-08-15T04:09:51.089Z

@@ -1,3 +1,9 @@
+---
+aliases: ["Thunder Axe of Speed", "thunder axe of speed", "Speed of Axe Thunder"]
+tags: [item, equipment]
+type: item
+---
+
 # Thunder Axe of Speed
 
 *Weapons, Very Rare*
@@ -16,8 +22,6 @@ A thunder axe carved from dragon bone
 - +2 to attack and damage rolls
 - Ignores resistance to damage type
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -32,7 +36,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.359Z*

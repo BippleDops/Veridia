@@ -1,3 +1,9 @@
+---
+aliases: ["Personal Quest 24", "personal quest 24", "24 Quest Personal"]
+tags: [quest, adventure]
+type: quest
+---
+
 # Personal Quest 24
 
 *Personal Quest*

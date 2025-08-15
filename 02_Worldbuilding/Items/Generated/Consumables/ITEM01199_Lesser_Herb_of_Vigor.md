@@ -1,3 +1,9 @@
+---
+aliases: ["Lesser Herb of Vigor", "lesser herb of vigor", "Vigor of Herb Lesser"]
+tags: [item, equipment]
+type: item
+---
+
 # Lesser Herb of Vigor
 
 *Consumables, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A lesser herb emanating sweet fragrance
 - Remove one condition
 - Increase speed by 10 ft
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -30,7 +34,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.465Z*

@@ -63,3 +63,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]
+- [[Fighter Xphb Champion Xphb]]
+- [[fighter-xphb-champion-xphb (classes)]]
+- [[conditions (CLI_Reference)]]
+- [[Adamantine Armor Xdmg]]
+- [[Adamantine Weapon Xdmg]]
+- [[Moonblade Xdmg]]
+- [[Silvered Weapon Xdmg]]
+- [[Sword of Kas Xdmg]]
+- [[adamantine-armor-xdmg (items)]]
+- [[adamantine-weapon-xdmg (items)]]
+- [[moonblade-xdmg (items)]]
+- [[silvered-weapon-xdmg (items)]]
+- [[sword-of-kas-xdmg (items)]]
+- [[Wish Xphb]]
+- [[wish-xphb (spells)]]

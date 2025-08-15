@@ -82,3 +82,18 @@ Mentioned in The First Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Iron Spike Xphb]]
+- [[Iron Spikes Xphb]]
+- [[Smiths Tools Xphb]]
+- [[iron-spike-xphb (items)]]
+- [[iron-spikes-xphb (items)]]
+- [[smiths-tools-xphb (items)]]
+- [[List Optfeaturetype Ei]]
+- [[list-optfeaturetype-ei (lists)]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

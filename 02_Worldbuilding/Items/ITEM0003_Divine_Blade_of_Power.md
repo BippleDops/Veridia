@@ -1,4 +1,5 @@
 ---
+aliases: ["Divine Blade of Power", "divine blade of power", "Power of Blade Divine"]
 tags: [generated]
 id: ITEM0003
 created: 2025-08-15T04:09:51.077Z
@@ -19,8 +20,6 @@ Crafted from mithril with ancient symbols, in recently restored. It emanates a f
 
 ## Quirk
 *Attracts small animals*
-
-
 
 ## History
 This item was corrupted by dark magic centuries ago. It has passed through many hands, each leaving their mark upon its destiny.

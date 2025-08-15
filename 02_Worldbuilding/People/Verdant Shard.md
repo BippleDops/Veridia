@@ -50,7 +50,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-verdant-shard-v1-verdant-shard.svg)
 
@@ -58,7 +57,6 @@ improvements: 20
 
 # Verdant Shard
 *The Green Heart, Guardian of Life's Song, The Growing Eternal*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -585,7 +583,6 @@ Member of House Serpentblood - Trait: magical affinity
 - 20% middle class
 - 79% working poor
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -621,3 +618,11 @@ Member of House Serpentblood - Trait: magical affinity
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[The Verdant Shard]]
+- [[Assets Locations Location City the Harbormaster S Office V1 the Harbormaster S Office.svg]]
+- [[Azure Shard]]
+- [[Sky_Lords_Worship]]
+- [[Azure Shard (D&D_References)]]

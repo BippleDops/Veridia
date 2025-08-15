@@ -1,4 +1,5 @@
 ---
+aliases: ["Eldritch Circlet of the Dawn", "eldritch circlet of the dawn", "Eldritch Circlet of Dawn", "Dawn the of Circlet Eldritch"]
 tags: [generated]
 id: ITEM0124
 created: 2025-08-15T04:09:51.117Z
@@ -19,8 +20,6 @@ Crafted from starfall iron with glowing gems, in showing age but sturdy. It eman
 
 ## Quirk
 *Glows during full moon*
-
-
 
 ## History
 This item was hidden away by its last owner decades ago. It has passed through many hands, each leaving their mark upon its destiny.

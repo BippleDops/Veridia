@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Jadeclaw", "drusilla jadeclaw", "Jadeclaw Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Jadeclaw
 
 *Dwarf Noble (Nobles), Age 37, Non-binary*
@@ -36,17 +42,14 @@ Exiled from their homeland, trying to rebuild their power base Strange abilities
 - **Short Term**: Gather information
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Dara Nightfall the Scholar (Personal - Nemesis)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Delara Moonshadow (Professional - Employer)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
-
 
 ### Cedric Ravenheart the Guardian (Family - Sibling)
 - **Status**: Strained but maintaining
@@ -57,16 +60,13 @@ Exiled from their homeland, trying to rebuild their power base Strange abilities
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Solas Thornweave the Wise (Criminal - Handler)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Nerys Lightbringer (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Secretly funding the rebellion

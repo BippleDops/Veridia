@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Dawnstrider the Cunning", "cedric dawnstrider the cunning", "Cedric Dawnstrider Cunning", "Cunning the Dawnstrider Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Dawnstrider the Cunning
 
 *Goliath Cultist (Villains), Age 46, Female*
@@ -36,22 +42,18 @@ Betrayed by those they trusted, now seeking revenge on the world They've made a 
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Hilda Oakenshield the Broken (Professional - Employee)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Zephyr Lightbringer the Redeemed (Family - Cousin)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
 
-
 ### Aeliana Dawnstrider the Strong (Political - Spy)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Was once a renowned hero

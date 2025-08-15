@@ -1,3 +1,9 @@
+---
+aliases: ["Infernal Mirror of Eternity", "infernal mirror of eternity", "Eternity of Mirror Infernal"]
+tags: [item, equipment]
+type: item
+---
+
 # Infernal Mirror of Eternity
 
 *Artifacts, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A infernal mirror pulsing with inner light
 - Time stop 1/week
 - Immunity to charm
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -32,7 +36,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.428Z*

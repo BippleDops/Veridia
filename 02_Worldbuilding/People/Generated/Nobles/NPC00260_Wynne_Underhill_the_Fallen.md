@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Underhill the Fallen", "wynne underhill the fallen", "Wynne Underhill Fallen", "Fallen the Underhill Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Underhill the Fallen
 
 *Half-Orc Noble (Nobles), Age 56, Female*
@@ -36,7 +42,6 @@ Last survivor of a fallen house, seeking to restore family honor An old debt has
 - **Short Term**: Complete current contract
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Cedric Oakenshield the Scholar (Criminal - Fence)
 - **Status**: Recently reconciled
@@ -47,16 +52,13 @@ Last survivor of a fallen house, seeking to restore family honor An old debt has
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
 
-
 ### Thalia Brightblade (Personal - Nemesis)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Nerys Dawnstrider (Political - Spy)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

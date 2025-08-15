@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Moonshadow the Swift", "corvus moonshadow the swift", "Corvus Moonshadow Swift", "Swift the Moonshadow Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Moonshadow the Swift
 
 *Firbolg Rogue (Adventurers), Age 64, Female*
@@ -36,22 +42,18 @@ Chosen by fate to fulfill an ancient prophecy A prophetic dream has been hauntin
 - **Short Term**: Gather information
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Rhiannon Moonshadow the Bold (Family - Cousin)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Idris Zephyrblade the Guardian (Family - Spouse)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Delara Xendar the Fallen (Family - Parent)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Is from the future

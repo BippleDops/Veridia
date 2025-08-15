@@ -89,3 +89,16 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Dracolich Xmm (undead)]]
+- [[dracolich-xmm (undead)]]
+- [[Desert Encounters Levels 1116 Xge]]
+- [[Desert Encounters Levels 1720 Xge]]
+- [[Monster Conversions Stat Block Conversions]]
+- [[Monsters by Habitat Any Habitat Monsters Xmm]]
+- [[desert-encounters-levels-1116-xge (tables)]]
+- [[desert-encounters-levels-1720-xge (tables)]]
+- [[monster-conversions-stat-block-conversions-xmm]]
+- [[monsters-by-habitat-any-habitat-monsters-xmm (tables)]]

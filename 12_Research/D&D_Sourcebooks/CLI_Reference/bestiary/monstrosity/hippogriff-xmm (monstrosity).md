@@ -146,3 +146,23 @@ Mentioned in The Second Prophecy of Winds
 
 - A corpse reveals a conspiracy about a local noble
 - Strange disappearances suggest a conspiracy
+
+## References
+
+- [[Hippogriff Xmm]]
+- [[Grassland Encounters Levels 15 Xge]]
+- [[Hill Encounters Levels 510 Xge]]
+- [[Monsters by Habitat Grassland Monsters Xmm]]
+- [[Monsters by Habitat Hill Monsters Xmm]]
+- [[Monsters by Habitat Mountain Monsters Xmm]]
+- [[Mountain Encounters Levels 14 Xge]]
+- [[Mountain Encounters Levels 510 Xge]]
+- [[Size Categories Mm]]
+- [[grassland-encounters-levels-15-xge (tables)]]
+- [[hill-encounters-levels-510-xge (tables)]]
+- [[monsters-by-habitat-grassland-monsters-xmm (tables)]]
+- [[monsters-by-habitat-hill-monsters-xmm (tables)]]
+- [[monsters-by-habitat-mountain-monsters-xmm (tables)]]
+- [[mountain-encounters-levels-14-xge (tables)]]
+- [[mountain-encounters-levels-510-xge (tables)]]
+- [[size-categories-mm (tables)]]

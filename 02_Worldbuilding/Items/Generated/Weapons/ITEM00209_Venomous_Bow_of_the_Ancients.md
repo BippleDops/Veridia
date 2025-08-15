@@ -1,3 +1,9 @@
+---
+aliases: ["Venomous Bow of the Ancients", "venomous bow of the ancients", "Venomous Bow of Ancients", "Ancients the of Bow Venomous"]
+tags: [item, equipment]
+type: item
+---
+
 # Venomous Bow of the Ancients
 
 *Weapons, Uncommon*
@@ -14,8 +20,6 @@ A venomous bow made of crystallized magic
 - Grants advantage on initiative
 - Critical hits on 19-20
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -30,7 +34,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.360Z*

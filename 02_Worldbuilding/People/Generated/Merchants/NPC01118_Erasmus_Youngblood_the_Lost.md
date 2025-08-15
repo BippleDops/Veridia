@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Youngblood the Lost", "erasmus youngblood the lost", "Erasmus Youngblood Lost", "Lost the Youngblood Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Youngblood the Lost
 
 *Half-Orc Trader (Merchants), Age 31, Non-binary*
@@ -36,22 +42,18 @@ Part of a merchant family with connections everywhere A chance encounter last wi
 - **Short Term**: Complete current contract
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Qadim Ashford the Guardian (Criminal - Accomplice)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Corvus Ironwood the Seeker (Family - Cousin)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Alaric Jadeclaw the Wise (Political - Puppet)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ### Pyria Oakenshield the Seeker (Criminal - Target)
 - **Status**: Strained but maintaining

@@ -58,3 +58,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A stranger needs help finding before dawn
 - Strange accidents suggest a conspiracy
 - The authorities needs help investigating before winter
+
+## References
+
+- [[MASTER_VAULT_INDEX]]
+- [[Shadow Behavior Guidelines (Criminal_Organizations)]]
+- [[Shadow Behavior Guidelines]]

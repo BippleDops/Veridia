@@ -208,3 +208,7 @@ Mentioned in The First Prophecy of Shadows
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[04_Resources_Assets_Art_Places_Palace_Guard_Captain_Neutralis.png]]

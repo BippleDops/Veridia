@@ -1,3 +1,9 @@
+---
+aliases: ["Void-touched Mirror of the Gods", "void-touched mirror of the gods", "Void-touched Mirror of Gods", "Gods the of Mirror Void-touched"]
+tags: [item, equipment]
+type: item
+---
+
 # Void-touched Mirror of the Gods
 
 *Artifacts, Legendary (requires attunement)*

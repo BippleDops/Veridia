@@ -79,3 +79,25 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[06 Chapter 5 Feats]]
+- [[06-chapter-5-feats (players-handbook-2024)]]
+- [[Barbarian Xphb]]
+- [[Bard Xphb]]
+- [[Cleric Xphb]]
+- [[Fighter Xphb]]
+- [[Paladin Xphb]]
+- [[Rogue Xphb]]
+- [[Sorcerer Xphb]]
+- [[barbarian-xphb (classes)]]
+- [[bard-xphb (classes)]]
+- [[bard-xphb 2 (classes)]]
+- [[cleric-xphb (classes)]]
+- [[fighter-xphb (classes)]]
+- [[paladin-xphb (classes)]]
+- [[rogue-xphb (classes)]]
+- [[sorcerer-xphb (classes)]]
+- [[Repeatable Feat List Xphb]]
+- [[repeatable-feat-list-xphb (tables)]]

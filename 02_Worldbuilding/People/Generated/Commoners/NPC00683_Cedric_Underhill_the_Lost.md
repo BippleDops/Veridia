@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Underhill the Lost", "cedric underhill the lost", "Cedric Underhill Lost", "Lost the Underhill Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Underhill the Lost
 
 *Tabaxi Blacksmith (Commoners), Age 59, Male*
@@ -13,7 +19,6 @@
 Above average and stocky, with Shaved red hair and Red eyes. Unusual hue skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Never uses people's real names
@@ -36,12 +41,10 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Short Term**: Recruit new members
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Xander Youngblood the Strong (Professional - Employer)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ### Aeliana Blackstone the Swift (Political - Puppet)
 - **Status**: Blood oath bound
@@ -52,16 +55,13 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Brenna Zephyrblade the Scholar (Personal - Ex-lover)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Drusilla Silverleaf the Swift (Professional - Partner)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Witnessed a noble's crime

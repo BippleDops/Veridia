@@ -1,3 +1,9 @@
+---
+aliases: ["Warded Shield of Fortitude", "warded shield of fortitude", "Fortitude of Shield Warded"]
+tags: [item, equipment]
+type: item
+---
+
 # Warded Shield of Fortitude
 
 *Armor, Uncommon (requires attunement)*

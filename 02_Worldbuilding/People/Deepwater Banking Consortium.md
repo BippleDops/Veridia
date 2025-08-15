@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-deepwater-banking-consortium-deepwater-banking-consortium.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -249,7 +247,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 20% middle class
 - 79% working poor
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -285,3 +282,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Quartermaster Shadow Supply V1 Quartermaster Shadow Supply.svg]]
+- [[Lady Jade Clawgrip]]
+- [[Lord Marcus Goldweaver]]
+- [[Lord Marcus Goldweaver (D&D_References)]]
+- [[Lady Jade Clawgrip (D&D_Statblocks)]]

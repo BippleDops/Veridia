@@ -87,3 +87,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Noble Xphb]]
+- [[Soldier Xphb]]
+- [[Wayfarer Xphb]]
+- [[noble-xphb (backgrounds)]]
+- [[soldier-xphb (backgrounds)]]
+- [[wayfarer-xphb (backgrounds)]]
+- [[Rogue Xphb Mastermind Xge]]
+- [[rogue-xphb-mastermind-xge (classes)]]
+- [[Downtime Activity Gambling Xge]]
+- [[downtime-activity-gambling-xge (variant-rules)]]

@@ -64,3 +64,14 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[The Breathing Stone]]
+- [[Pressure's End]]
+- [[Sister Morwyn]]
+- [[The Cerulean Trench]]
+- [[The Eternal Senate]]
+- [[The Primordial Vaults]]
+- [[Theological Warfare]]
+- [[Whisper-Touched William]]

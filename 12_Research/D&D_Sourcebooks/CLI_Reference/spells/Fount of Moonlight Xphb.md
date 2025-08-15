@@ -100,3 +100,35 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Firenewt Warlock of Imix Mpmm]]
+- [[Merfolk Wavebender Xmm]]
+- [[firenewt-warlock-of-imix-mpmm (elemental)]]
+- [[merfolk-wavebender-xmm (elemental)]]
+- [[Cloud Giant Smiling One Mpmm]]
+- [[Cloud Giant Xmm]]
+- [[Storm Giant Xmm]]
+- [[cloud-giant-smiling-one-mpmm (giant)]]
+- [[cloud-giant-xmm (giant)]]
+- [[storm-giant-xmm (giant)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Druid Xphb Circle of the Moon Xphb]]
+- [[Sorcerer Xphb]]
+- [[Warlock Xphb Celestial Patron Xphb]]
+- [[druid-xphb-circle-of-the-moon-xphb (classes)]]
+- [[sorcerer-xphb (classes)]]
+- [[warlock-xphb-celestial-patron-xphb (classes)]]
+- [[Strixhaven Initiate Scc]]
+- [[strixhaven-initiate-scc (feats)]]
+- [[Driftglobe Xdmg]]
+- [[Ring of Shooting Stars Xdmg]]
+- [[Robe of Eyes Xdmg]]
+- [[driftglobe-xdmg (items)]]
+- [[ring-of-shooting-stars-xdmg (items)]]
+- [[robe-of-eyes-xdmg (items)]]
+- [[Aasimar Xphb]]
+- [[aasimar-xphb (races)]]

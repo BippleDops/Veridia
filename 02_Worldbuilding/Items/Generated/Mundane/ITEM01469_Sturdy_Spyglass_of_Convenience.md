@@ -1,3 +1,9 @@
+---
+aliases: ["Sturdy Spyglass of Convenience", "sturdy spyglass of convenience", "Convenience of Spyglass Sturdy"]
+tags: [item, equipment]
+type: item
+---
+
 # Sturdy Spyglass of Convenience
 
 *Mundane, Uncommon (requires attunement)*

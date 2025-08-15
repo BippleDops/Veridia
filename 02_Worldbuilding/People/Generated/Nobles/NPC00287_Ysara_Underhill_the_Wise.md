@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Underhill the Wise", "ysara underhill the wise", "Ysara Underhill Wise", "Wise the Underhill Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Underhill the Wise
 
 *Halfling Noble (Nobles), Age 34, Male*
@@ -13,7 +19,6 @@
 Very short and athletic, with Short and neat white hair and Gray eyes. Freckled skin. Weather-beaten face showing hard life.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Compulsive liar about minor things
@@ -36,12 +41,10 @@ Last survivor of a fallen house, seeking to restore family honor They're being b
 - **Short Term**: Find missing person
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Thalia Dawnstrider the Cunning (Family - Child)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ### Gavril Winterborn (Professional - Partner)
 - **Status**: Secretly hostile
@@ -52,11 +55,9 @@ Last survivor of a fallen house, seeking to restore family honor They're being b
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Jorah Winterborn the Mystic (Criminal - Fence)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

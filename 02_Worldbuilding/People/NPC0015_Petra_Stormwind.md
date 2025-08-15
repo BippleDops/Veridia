@@ -1,8 +1,8 @@
 ---
+aliases: ["Petra Stormwind", "petra stormwind", "Stormwind Petra"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -88,7 +88,6 @@ Investigation, Perception
 
 ---
 *Generated: 2025-08-15T03:21:04.027Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

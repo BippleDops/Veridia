@@ -1,8 +1,8 @@
 ---
+aliases: ["Ewan Stormwind", "ewan stormwind", "Stormwind Ewan"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -71,8 +71,6 @@ Merchant family that lost everything to pirates. Years ago, they witnessed somet
 ### Skills
 Stealth, Insight, Perception
 
-
-
 ## Possessions
 - 80 gold pieces
 - Book of poetry
@@ -84,7 +82,6 @@ Stealth, Insight, Perception
 
 ---
 *Generated: 2025-08-15T03:21:04.025Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

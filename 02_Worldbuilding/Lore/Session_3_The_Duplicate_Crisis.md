@@ -10,7 +10,7 @@ created: '2025-01-15'
 # Session_3_The_Duplicate_Crisis
 
 ## Overview
-This topic is referenced in [[Session 2 the [[Shadow Surgery]]]] and other parts of the campaign.
+This topic is referenced in [[Shadow_Surgery|Session 2 the [[Shadow Surgery]]]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
@@ -26,3 +26,7 @@ Further information about this topic will be developed as the campaign progresse
 - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery
+
+## References
+
+- [[Session 2 the Shadow Surgery]]

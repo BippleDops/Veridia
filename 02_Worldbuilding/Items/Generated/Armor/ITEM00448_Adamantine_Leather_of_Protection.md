@@ -1,3 +1,9 @@
+---
+aliases: ["Adamantine Leather of Protection", "adamantine leather of protection", "Protection of Leather Adamantine"]
+tags: [item, equipment]
+type: item
+---
+
 # Adamantine Leather of Protection
 
 *Armor, Very Rare (requires attunement)*

@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Darkwater", "wynne darkwater", "Darkwater Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Darkwater
 
 *Aasimar Aristocrat (Nobles), Age 24, Female*
@@ -13,7 +19,6 @@
 Tall and imposing, with Short and neat red hair and Blue eyes. Unusual hue skin. Missing ear from old battle.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Speaks to inanimate objects; Extremely superstitious about everything
@@ -36,22 +41,18 @@ Secretly adopted into nobility, living in fear of discovery An old debt has come
 - **Short Term**: Find missing person
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Wynne Underhill the Lost (Professional - Employer)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Erasmus Frostwhisper the Wise (Political - Spy)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
 
-
 ### Hilda Underhill (Criminal - Accomplice)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Actually a bastard with no real claim

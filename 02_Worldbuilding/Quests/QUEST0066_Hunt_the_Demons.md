@@ -1,4 +1,5 @@
 ---
+aliases: ["Hunt the Demons", "hunt the demons", "Hunt Demons", "Demons the Hunt"]
 tags: [generated]
 id: QUEST0066
 created: 2025-08-15T04:09:51.401Z
@@ -22,8 +23,6 @@ Safely deliver the ambassador to the capital
 ### Secondary
 - Gather intelligence on enemy plans
 - Sabotage enemy resources
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they accidentally discovered a conspiracy, which changed their life forever. Now, circumstances demand immediate action.
@@ -55,8 +54,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Show mercy and gain intel - Future ally but justice denied
 2. Execute for crimes committed - Justice served but opportunity lost
-
-
 
 ## Rewards
 ### On Success

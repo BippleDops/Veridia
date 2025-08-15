@@ -132,3 +132,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[The Pressure Baptism Rites (D&D_References)]]

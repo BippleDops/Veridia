@@ -1,3 +1,9 @@
+---
+aliases: ["Elegant Journal of Durability", "elegant journal of durability", "Durability of Journal Elegant"]
+tags: [item, equipment]
+type: item
+---
+
 # Elegant Journal of Durability
 
 *Mundane, Common*
@@ -13,8 +19,6 @@ A elegant journal showing signs of age
 ## Properties
 - Works perfectly always
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -29,7 +33,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.480Z*

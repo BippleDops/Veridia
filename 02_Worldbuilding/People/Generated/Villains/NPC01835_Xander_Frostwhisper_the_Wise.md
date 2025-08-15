@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Frostwhisper the Wise", "xander frostwhisper the wise", "Xander Frostwhisper Wise", "Wise the Frostwhisper Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Frostwhisper the Wise
 
 *Firbolg Cultist (Villains), Age 69, Non-binary*
@@ -36,17 +42,14 @@ Corrupted by an artifact or dark magic An old debt has come due at the worst pos
 - **Short Term**: Find missing person
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Pyria Frostwhisper the Bold (Family - Parent)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Solas Grimholt the Cunning (Professional - Employer)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ### Branwen Grimholt the Strong (Political - Opposition)
 - **Status**: Secretly hostile
@@ -56,7 +59,6 @@ Corrupted by an artifact or dark magic An old debt has come due at the worst pos
 ### Kaelen Frostwhisper the Redeemed (Professional - Mentor)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Has a child they're protecting

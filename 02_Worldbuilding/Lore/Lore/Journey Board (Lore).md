@@ -1,6 +1,6 @@
 ---
 
-title: 02_Worldbuilding/Lore/Journey Board
+title: [[02_Worldbuilding|02_Worldbuilding]]/[[Lore|Lore]]/[[Journey Board|Journey Board]]
 type: lore
 tags:
 - lore
@@ -22,11 +22,11 @@ improvements: 20
 
 ### Culture Improvements
 
-- Define unique cultural practices and taboos
+- Define unique [[Cultural Practices|Cultural Practices]] and taboos
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -34,7 +34,7 @@ improvements: 20
 
 ### Lifestyle Improvements
 
-- Describe typical day for different social classes
+- Describe typical day for different social [[classes|classes]]
 
 ### Diaspora Improvements
 
@@ -46,7 +46,7 @@ improvements: 20
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
+- Detail common [[objects|objects]] and their cultural significance
 
 ### Death_Customs Improvements
 
@@ -76,7 +76,7 @@ improvements: 20
 
 *Last Updated: 2025-08-14 19:03*
 
-## DM Notes
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -113,3 +113,6 @@ improvements: 20
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+---
+**Navigation**: [[INDEX|🏠 Home]] | [[INDEX|📚 Index]]

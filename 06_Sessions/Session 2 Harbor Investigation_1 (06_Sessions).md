@@ -781,12 +781,10 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Pronunciation Guide
 - **Themes**: [THEMES]
 - **Through**: [THROUGH]
 - **Gather**: [GATHER]
-
 
 ## Alternate Descriptions
 - **First Impression**: Initial appearance

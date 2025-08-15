@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Stormwind the Scholar", "nerys stormwind the scholar", "Nerys Stormwind Scholar", "Scholar the Stormwind Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Stormwind the Scholar
 
 *Gnome Courtier (Nobles), Age 76, Male*
@@ -36,17 +42,14 @@ Secretly adopted into nobility, living in fear of discovery They've been marked 
 - **Short Term**: Survive until next week
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Qadim Silverleaf (Criminal - Accomplice)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Xander Keenblade (Criminal - Target)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ### Aldric Jadeclaw (Criminal - Accomplice)
 - **Status**: Strong and trusting
@@ -57,11 +60,9 @@ Secretly adopted into nobility, living in fear of discovery They've been marked 
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
 
-
 ### Brenna Ironforge (Criminal - Fence)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ### Gavril Darkwater (Political - Opposition)
 - **Status**: Blood oath bound

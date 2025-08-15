@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Hawthorne the Mystic", "fiora hawthorne the mystic", "Fiora Hawthorne Mystic", "Mystic the Hawthorne Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Hawthorne the Mystic
 
 *Elf Bard (Adventurers), Age 28, Non-binary*
@@ -36,12 +42,10 @@ Chosen by fate to fulfill an ancient prophecy An old debt has come due at the wo
 - **Short Term**: Sabotage competition
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Thalia Proudmore the Fallen (Criminal - Accomplice)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
-
 
 ### Kaelen Keenblade the Scholar (Family - Cousin)
 - **Status**: Recently reconciled
@@ -57,11 +61,9 @@ Chosen by fate to fulfill an ancient prophecy An old debt has come due at the wo
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Rhiannon Winterborn the Risen (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Has died and been resurrected

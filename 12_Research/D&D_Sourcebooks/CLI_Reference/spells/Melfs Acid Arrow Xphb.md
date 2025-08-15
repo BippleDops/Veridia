@@ -91,3 +91,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - An heirloom has gone missing and war looms
 - Strange accidents suggest a portal
 - Someone is searching for information for money
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Adult Black Dragon Xmm]]
+- [[Ancient Black Dragon Xmm]]
+- [[adult-black-dragon-xmm (dragon)]]
+- [[ancient-black-dragon-xmm (dragon)]]
+- [[Illithilich Vgm (undead)]]
+- [[illithilich-vgm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]

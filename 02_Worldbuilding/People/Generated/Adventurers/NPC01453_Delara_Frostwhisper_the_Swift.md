@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Frostwhisper the Swift", "delara frostwhisper the swift", "Delara Frostwhisper Swift", "Swift the Frostwhisper Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Frostwhisper the Swift
 
 *Dwarf Rogue (Adventurers), Age 56, Non-binary*
@@ -36,27 +42,22 @@ Seeking vengeance for a murdered mentor They've been marked by a secret society.
 - **Short Term**: Avoid the authorities
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Thalia Jadeclaw the Lost (Political - Opposition)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
 
-
 ### Lyanna Dawnstrider the Strong (Family - Spouse)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ### Hilda Ironwood the Seeker (Criminal - Handler)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Brenna Ravenheart the Risen (Family - Child)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
-
 
 ### Delara Quicksilver the Lost (Personal - Childhood friend)
 - **Status**: Secretly hostile

@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Frostwhisper the Seeker", "qadim frostwhisper the seeker", "Qadim Frostwhisper Seeker", "Seeker the Frostwhisper Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Frostwhisper the Seeker
 
 *Genasi Caravan Master (Merchants), Age 25, Male*
@@ -13,7 +19,6 @@
 Very tall and wiry, with Dreadlocks blonde hair and Gray eyes. Brown skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Flirts with everyone regardless of interest
@@ -36,22 +41,18 @@ Built their business from nothing through cunning and hard work Strange abilitie
 - **Short Term**: Make this month's payment
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Dara Oakenshield the Scholar (Personal - Love interest)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Brenna Winterborn the Cunning (Personal - Love interest)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Fiora Nightfall the Scholar (Personal - Childhood friend)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
-
 
 ### Dara Silverleaf the Strong (Family - Child)
 - **Status**: Blood oath bound
@@ -61,7 +62,6 @@ Built their business from nothing through cunning and hard work Strange abilitie
 ### Aeliana Hawthorne the Mystic (Family - Cousin)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
-
 
 ### Aldric Thornweave the Redeemed (Political - Ally)
 - **Status**: Strong and trusting

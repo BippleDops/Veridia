@@ -83,3 +83,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A shipment has gone missing and truth emerges
 - Someone is blackmailing information for power
+
+## References
+
+- [[Master_Item_Catalog]]

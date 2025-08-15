@@ -1,3 +1,9 @@
+---
+aliases: ["Elegant Compass of Convenience", "elegant compass of convenience", "Convenience of Compass Elegant"]
+tags: [item, equipment]
+type: item
+---
+
 # Elegant Compass of Convenience
 
 *Mundane, Uncommon*
@@ -14,8 +20,6 @@ A elegant compass expertly crafted
 - Provides comfort
 - Grants minor benefit
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -30,7 +34,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.482Z*

@@ -1,6 +1,5 @@
 ---
 
-
 title: 02_Worldbuilding/Quests/Quest - Diplomatic Immunity
 type: adventure
 tags:
@@ -18,13 +17,10 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
-
 
 ## Objectives
 ### Primary
@@ -198,7 +194,6 @@ An exciting quest that challenges heroes to face destiny.
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Time Limit
 - **Deadline**: When it must be completed

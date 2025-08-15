@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-high-priest-absence-high-priest-absence.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -244,7 +242,6 @@ Member of House Lionblood - Trait: prophecy
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -280,3 +277,8 @@ Member of House Lionblood - Trait: prophecy
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Master Chef Coral Seasweaver Master Chef Coral Seasweaver.svg]]
+- [[Assets Portraits Portrait NPC Lady Catherine Mourning Lady Catherine Mourning.svg]]

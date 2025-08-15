@@ -1,3 +1,9 @@
+---
+aliases: ["Venomous Staff of Slaying", "venomous staff of slaying", "Slaying of Staff Venomous"]
+tags: [item, equipment]
+type: item
+---
+
 # Venomous Staff of Slaying
 
 *Weapons, Legendary (requires attunement)*
@@ -16,8 +22,6 @@ A venomous staff carved from dragon bone
 - +2 to attack and damage rolls
 - Ignores resistance to damage type
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -32,7 +36,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.351Z*

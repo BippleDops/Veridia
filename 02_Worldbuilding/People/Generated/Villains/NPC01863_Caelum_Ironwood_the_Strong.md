@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Ironwood the Strong", "caelum ironwood the strong", "Caelum Ironwood Strong", "Strong the Ironwood Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Ironwood the Strong
 
 *Goliath Cultist (Villains), Age 44, Non-binary*
@@ -36,7 +42,6 @@ Driven mad by knowledge humanity wasn't meant to know They've fallen in love wit
 - **Short Term**: Gather information
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Corvus Brightblade the Wanderer (Political - Opposition)
 - **Status**: Recently reconciled
@@ -47,16 +52,13 @@ Driven mad by knowledge humanity wasn't meant to know They've fallen in love wit
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Drusilla Goldleaf the Mystic (Criminal - Fence)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
 
-
 ### Aldric Proudmore the Swift (Family - Sibling)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ### Rhiannon Blackstone the Seeker (Political - Puppet)
 - **Status**: One-sided affection

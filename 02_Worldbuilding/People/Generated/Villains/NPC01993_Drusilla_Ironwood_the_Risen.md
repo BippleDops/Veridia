@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Ironwood the Risen", "drusilla ironwood the risen", "Drusilla Ironwood Risen", "Risen the Ironwood Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Ironwood the Risen
 
 *Genasi Crime Boss (Villains), Age 31, Non-binary*
@@ -13,7 +19,6 @@
 Above average and compact, with Shaved bald hair and Blue eyes. Brown skin. Gold tooth that glints when smiling.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Sees doom and gloom everywhere
@@ -36,7 +41,6 @@ Driven mad by knowledge humanity wasn't meant to know They recently discovered a
 - **Short Term**: Make this month's payment
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Baelor Lightbringer the Bold (Criminal - Target)
 - **Status**: Professional only
@@ -52,21 +56,17 @@ Driven mad by knowledge humanity wasn't meant to know They recently discovered a
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Branwen Grimholt the Wise (Family - Spouse)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ### Hilda Winterborn the Broken (Family - Spouse)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Baelor Ravenheart the Lost (Political - Ally)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Is being controlled by darker force

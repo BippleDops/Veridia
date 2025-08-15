@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Emberfall", "ysara emberfall", "Emberfall Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Emberfall
 
 *Gnome Farmer (Commoners), Age 23, Female*
@@ -13,7 +19,6 @@
 Towering and delicate, with Partially shaved black hair and Brown eyes. Dark skin. Intricate tattoos covering arms.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Speaks to inanimate objects; Never uses people's real names; Believes in every conspiracy theory
@@ -36,7 +41,6 @@ Former soldier trying to adjust to civilian life A prophetic dream has been haun
 - **Short Term**: Sabotage competition
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Brenna Stormwind the Strong (Family - Spouse)
 - **Status**: One-sided affection
@@ -47,7 +51,6 @@ Former soldier trying to adjust to civilian life A prophetic dream has been haun
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Wynne Underhill (Political - Opposition)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
@@ -56,7 +59,6 @@ Former soldier trying to adjust to civilian life A prophetic dream has been haun
 ### Aldric Ironforge the Redeemed (Personal - Best friend)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Has dragon blood in their veins

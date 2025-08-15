@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Thornweave the Wanderer", "rhiannon thornweave the wanderer", "Rhiannon Thornweave Wanderer", "Wanderer the Thornweave Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Thornweave the Wanderer
 
 *Firbolg Cultist (Villains), Age 76, Male*
@@ -42,21 +48,17 @@ Betrayed by those they trusted, now seeking revenge on the world A family member
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Alaric Ashford the Mystic (Political - Ally)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
-
 
 ### Pyria Brightblade the Wanderer (Criminal - Accomplice)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Orion Darkwater the Cunning (Political - Opposition)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Is being controlled by darker force

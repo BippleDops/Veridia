@@ -1,3 +1,9 @@
+---
+aliases: ["Fortified Plate of the Guardian", "fortified plate of the guardian", "Fortified Plate of Guardian", "Guardian the of Plate Fortified"]
+tags: [item, equipment]
+type: item
+---
+
 # Fortified Plate of the Guardian
 
 *Armor, Uncommon*
@@ -14,8 +20,6 @@ A fortified plate shimmering with energy
 - +1 to AC
 - No stealth disadvantage
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -30,7 +34,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.391Z*

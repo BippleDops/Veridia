@@ -1,3 +1,9 @@
+---
+aliases: ["Thunder Sword of Slaying", "thunder sword of slaying", "Slaying of Sword Thunder"]
+tags: [item, equipment]
+type: item
+---
+
 # Thunder Sword of Slaying
 
 *Weapons, Very Rare*
@@ -16,8 +22,6 @@ A thunder sword forged from meteoric iron
 - +1 to attack and damage rolls
 - +1 to attack and damage rolls
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -32,7 +36,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.345Z*

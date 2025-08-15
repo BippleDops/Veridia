@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Frostwhisper the Mystic", "branwen frostwhisper the mystic", "Branwen Frostwhisper Mystic", "Mystic the Frostwhisper Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Frostwhisper the Mystic
 
 *Aasimar Ranger (Adventurers), Age 73, Female*
@@ -57,16 +63,13 @@ Chosen by fate to fulfill an ancient prophecy A chance encounter last winter cha
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
 
-
 ### Gareth Nightfall the Lost (Personal - Nemesis)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
 
-
 ### Aldric Winterborn the Guardian (Family - Spouse)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Has died and been resurrected

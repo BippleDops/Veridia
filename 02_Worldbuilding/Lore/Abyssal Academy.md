@@ -27,12 +27,12 @@ status: draft
 danger_level: 6
 founded: Third Age of Aquabyssos
 government: '[[Parliament of Echoes]]'
-leader: '[[[[Professor Euclid Mindmaze]]|[[02 Worldbuilding]]/[[People]]/Professor Euclid Mindmaze]]'
+leader: '[[Professor Euclid Mindmaze|[[Professor Euclid Mindmaze]]|[[02_Worldbuilding|02 Worldbuilding]]/[[People]]/Professor Euclid Mindmaze]]'
 parent_location: '[[Abyssos Prime]]'
 related_entities:
 - '[[Deep Mother]]'
-- '[[[[Aboleth]] Mind Mazes]]'
-- '[[[[The Abyss Beneath Aquabyssos]]|02 Worldbuilding/[[Places]]/The Abyss Beneath Aquabyssos]]'
+- '[[Aboleth|[[Aboleth]] Mind Mazes]]'
+- '[[The Abyss Beneath Aquabyssos|[[The Abyss Beneath Aquabyssos]]|02 Worldbuilding/[[Places]]/The Abyss Beneath Aquabyssos]]'
 specialties:
 - Deep Lore Research
 - Psionic Studies
@@ -62,7 +62,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -133,14 +133,14 @@ The Academy consists of seven interconnected spiral towers, each devoted to a di
 ### Specialized Disciplines
 
 **The Deep Calling** - Students who show aptitude for communicating with abyssal entities
-**Memory Architects** - Specialists in consciousness exploration and [[[[Memory Meadows]] Black Market]]
+**Memory Architects** - Specialists in consciousness exploration and [[Memory Meadows|[[Memory Meadows]] Black Market]]
 **Pressure Walkers** - Those who can survive and operate in the deepest trenches
 **Synthesis Scholars** - Researchers combining science, magic, and aberrant biology
 
 ### Current Leadership
 
 **Dean Professor Euclid Mindmaze**: Renowned for her research into psionic labyrinths
-**Vice-Dean Thalasson Deepcurrent**: Former [[Ambassador [[Korvin Blacktide]]]] turned academic
+**Vice-Dean Thalasson Deepcurrent**: Former [[Korvin Blacktide|Ambassador [[Korvin Blacktide]]]] turned academic
 **Archivist Prime Nerissa Voidscribe**: Keeper of the Academy's most dangerous knowledge
 
 ### Distinguished Professors
@@ -170,12 +170,12 @@ Students can conduct independent research projects:
 **[[Admiral Cassandra Stormwind]]**: Now serves in [[Port Meridian]] naval forces
 **[[Sage Lysander Deepthought]]**: Adviser to the [[Parliament of Echoes]]
 **Dr. Helena Voidwalker**: Leading researcher in interdimensional phenomena
-**The Biomancer Collective**: Graduates who formed [[[[The Shadow Surgeons]]|02 Worldbuilding/[[Groups]]/The Shadow Surgeons]]
-**[[Memory [[Merchant]] Valeria]]**: Operates in the [[Memory Meadows Black Market]]
+**The Biomancer Collective**: Graduates who formed [[The Shadow Surgeons|[[The Shadow Surgeons]]|02 Worldbuilding/[[Groups]]/The Shadow Surgeons]]
+**[[Merchant|Memory [[Merchant]] Valeria]]**: Operates in the [[Memory Meadows Black Market]]
 
 ### Ethical Debates
 
-The Academy faces ongoing criticism from [[[[The Restoration Movement]]|02 Worldbuilding/Groups/The Restoration Movement]] and surface sym[[path]]izers regarding:
+The Academy faces ongoing criticism from [[The Restoration Movement|[[The Restoration Movement]]|02 Worldbuilding/Groups/The Restoration Movement]] and surface sym[[path]]izers regarding:
 - Use of sentient subjects in experiments
 - Research that threatens reality stability
 - Collaboration with hostile aberrant entities
@@ -229,7 +229,7 @@ Abyssal Academy is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Abyssal Academy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Abyssal Academy.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -247,3 +247,17 @@ Different cultures interpret this lore through their own lens, creating variatio
 - A shipment has gone missing and evil awakens
 - A map reveals a betrayal about the cult
 - An heirloom has gone missing and war looms
+
+## References
+
+- [[Ancient Aquabyssos Rulers]]
+- [[Arcanum Heights]]
+- [[Lumengarde]]
+- [[Memory Farmers]]
+- [[Ancient Aquabyssos Rulers (D&D_References)]]
+- [[Arcanum Heights (D&D_References)]]
+- [[Convergence Point]]
+- [[Lumengarde (D&D_References)]]
+- [[Memory Farmers (D&D_References)]]
+- [[Convergence Point Introduction]]
+- [[Convergence_Point_Introduction (D&D_Sourcebooks)]]

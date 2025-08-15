@@ -87,3 +87,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Charm of Feather Falling Xdmg]]
+- [[charm-of-feather-falling-xdmg (rewards)]]
+- [[Arcana Rare Xdmg]]
+- [[Magic Item Table G]]
+- [[Random Magic Items Arcana]]
+- [[arcana-rare-xdmg (tables)]]
+- [[magic-item-table-g (tables)]]
+- [[random-magic-items-arcana (tables)]]

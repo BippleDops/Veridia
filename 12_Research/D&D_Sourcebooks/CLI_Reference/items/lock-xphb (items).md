@@ -86,3 +86,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Lock of Trickery Xdmg]]
+- [[Tinkers Tools Xphb]]
+- [[lock-of-trickery-xdmg (items)]]
+- [[tinkers-tools-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

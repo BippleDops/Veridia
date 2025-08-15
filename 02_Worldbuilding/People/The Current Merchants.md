@@ -48,7 +48,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-current-merchants-the-current-merchants.svg)
 
@@ -56,7 +55,6 @@ improvements: 20
 
 # The Current Merchants
 *Nereon Swiftcurrent, Master of the Deep Trades, Navigator of Infinite Possibilities*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -372,7 +370,6 @@ Mentioned in The First Prophecy of Winds
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -403,3 +400,23 @@ Mentioned in The First Prophecy of Winds
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Major Trading Companies]]
+- [[Economic Crime Methods]]
+- [[Economic Systems and Currency]]
+- [[The Grand Trade Routes]]
+- [[Assets Locations Location City Pilgrimage Master Depth Guide Melancholy Pilgrimage Master Depth Guide Melancholy.svg]]
+- [[Assets Portraits Portrait NPC Captain Nautilus the Deep Wanderer Captain Nautilus the Deep Wanderer.svg]]
+- [[Assets Portraits Portrait NPC the Reality Sick Mayor Lord Quantum Aldrich the Reality Sick Mayor Lord Quantum Aldrich.svg]]
+- [[Assets Symbols Symbol Heraldry Healing Ministries Healing Ministries.svg]]
+- [[Vex Shadowthorn's Apprentices]]
+- [[Commercial Hubs and Markets]]
+- [[Commercial Hubs and Markets (D&D_References)]]
+- [[Economic Crime Methods (D&D_References)]]
+- [[Economic Systems and Currency (D&D_References)]]
+- [[Economic Warfare and Trade Sanctions]]
+- [[Major Trading Companies (D&D_References)]]
+- [[The Grand Trade Routes (D&D_References)]]
+- [[Vex Shadowthorn's Apprentices (D&D_References)]]

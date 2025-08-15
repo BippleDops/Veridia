@@ -227,3 +227,7 @@ Member of House Dragonblood - Trait: prophecy
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-anonymous-protocol-the-anonymous-protocol.svg]]

@@ -14,7 +14,6 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 > [!figure] Asset
 ![](04_Resources/Assets/Portraits/portrait-npc-quest-the-runaway-golem-quest-the-runaway-golem.svg)
 
@@ -68,7 +67,6 @@ Artificer Master Elena Gearwright's prized creation, a sentient stone golem name
 
 ## Quest Giver
 **Master Elena Gearwright** - Brilliant artificer specializing in construct consciousness. Offers 2,500 gp plus magical items for Faithful's safe return.
-
 
 ## Objectives
 ### Primary
@@ -167,7 +165,6 @@ Legends speak of Quest   The Runaway Golem as a nexus where past and present con
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## Time Limit
 - **Deadline**: When it must be completed
 - **Consequences**: What happens if late
@@ -213,3 +210,7 @@ Legends speak of Quest   The Runaway Golem as a nexus where past and present con
 | 4  | Option D |
 | 5  | Option E |
 | 6  | Option F |
+
+## References
+
+- [[LIFE_MANAGEMENT_SYSTEM]]

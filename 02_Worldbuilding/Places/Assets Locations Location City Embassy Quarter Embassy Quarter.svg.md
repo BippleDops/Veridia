@@ -225,7 +225,6 @@ Key stop on spices trade route
 - 20% middle class
 - 79% working poor
 
-
 ## Adventure Seeds
 - Mysterious occurrence
 - Local conflict

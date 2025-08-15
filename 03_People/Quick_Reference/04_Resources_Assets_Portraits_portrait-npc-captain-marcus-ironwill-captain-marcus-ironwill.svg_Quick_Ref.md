@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # 04_Resources_Assets_Portraits_portrait-npc-captain-marcus-ironwill-captain-marcus-ironwill.svg - Quick Reference
 
 ## Key Info

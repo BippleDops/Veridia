@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Xendar the Wise", "drusilla xendar the wise", "Drusilla Xendar Wise", "Wise the Xendar Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Xendar the Wise
 
 *Genasi Assassin (Villains), Age 52, Male*
@@ -36,32 +42,26 @@ Born into evil but questioning their path They've fallen in love with someone th
 - **Short Term**: Complete current contract
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Erasmus Grimholt the Wanderer (Personal - Best friend)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Malakai Xendar the Wanderer (Political - Ally)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ### Malakai Oakenshield the Seeker (Professional - Employer)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Baelor Thornweave the Fallen (Personal - Nemesis)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Caelum Underhill the Risen (Family - Parent)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ### Drusilla Silverleaf the Cunning (Criminal - Accomplice)
 - **Status**: Recently reconciled

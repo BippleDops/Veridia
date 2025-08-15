@@ -1,8 +1,8 @@
 ---
+aliases: ["Gareth Stormwind the Bold", "gareth stormwind the bold", "Gareth Stormwind Bold", "Bold the Stormwind Gareth"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -72,8 +72,6 @@ Child of farmers who sought adventure. Years ago, they survived a plague that ki
 ### Skills
 Arcana, Persuasion, Investigation
 
-
-
 ## Possessions
 - 91 gold pieces
 - Map to unknown location
@@ -86,7 +84,6 @@ Arcana, Persuasion, Investigation
 
 ---
 *Generated: 2025-08-15T03:21:04.025Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

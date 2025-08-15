@@ -103,3 +103,22 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Beholder Xmm]]
+- [[Gauth Mpmm]]
+- [[beholder-xmm (aberration)]]
+- [[gauth-mpmm (aberration)]]
+- [[Deck of Illusions Xdmg]]
+- [[Deck of Illusions]]
+- [[deck-of-illusions (decks)]]
+- [[deck-of-illusions-xdmg (decks)]]
+- [[Deck of Illusions Xdmg (items)]]
+- [[deck-of-illusions-xdmg (items)]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[Underdark Encounters Levels 1116 Xge]]
+- [[Underdark Encounters Levels 1720 Xge]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]
+- [[underdark-encounters-levels-1116-xge (tables)]]
+- [[underdark-encounters-levels-1720-xge (tables)]]

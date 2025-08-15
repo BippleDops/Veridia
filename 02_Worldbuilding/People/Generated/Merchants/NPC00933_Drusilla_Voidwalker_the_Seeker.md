@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Voidwalker the Seeker", "drusilla voidwalker the seeker", "Drusilla Voidwalker Seeker", "Seeker the Voidwalker Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Voidwalker the Seeker
 
 *Goliath Trader (Merchants), Age 63, Female*
@@ -47,16 +53,13 @@ Built their business from nothing through cunning and hard work Strange abilitie
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Brenna Lightbringer the Fallen (Criminal - Fence)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Elric Proudmore the Wanderer (Family - Parent)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ### Alaric Underhill the Lost (Personal - Ex-lover)
 - **Status**: On the verge of collapse

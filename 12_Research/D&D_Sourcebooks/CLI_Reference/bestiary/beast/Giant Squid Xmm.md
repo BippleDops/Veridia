@@ -138,3 +138,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[giant-squid-xmm (beast)]]
+- [[3 Animals]]
+- [[3-animals (monster-manual-2025)]]
+- [[Monsters by Habitat Underwater Monsters Xmm]]
+- [[monsters-by-habitat-underwater-monsters-xmm (tables)]]

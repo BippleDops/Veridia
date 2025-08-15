@@ -1,3 +1,9 @@
+---
+aliases: ["Dragon Scale Boots of Protection", "dragon scale boots of protection", "Protection of Boots Scale Dragon"]
+tags: [item, equipment]
+type: item
+---
+
 # Dragon Scale Boots of Protection
 
 *Armor, Uncommon*
@@ -14,8 +20,6 @@ A dragon scale boots crafted from exotic materials
 - Immunity to critical hits
 - Immunity to critical hits
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -30,7 +34,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.385Z*

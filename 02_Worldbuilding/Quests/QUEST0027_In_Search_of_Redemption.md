@@ -1,4 +1,5 @@
 ---
+aliases: ["In Search of Redemption", "in search of redemption", "Redemption of Search In"]
 tags: [quest, adventure, generated]
 type: quest
 ---
@@ -20,8 +21,6 @@ Discover the truth behind the disappearances
 
 ### Secondary
 - Recover additional valuable items
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they lost everything in a fire, which changed their life forever. Now, circumstances demand immediate action.

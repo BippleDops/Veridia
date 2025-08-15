@@ -1,3 +1,9 @@
+---
+aliases: ["Thunder Bow of Speed", "thunder bow of speed", "Speed of Bow Thunder"]
+tags: [item, equipment]
+type: item
+---
+
 # Thunder Bow of Speed
 
 *Weapons, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A thunder bow carved from dragon bone
 - +2 to attack and damage rolls
 - Critical hits on 19-20
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -32,7 +36,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.357Z*

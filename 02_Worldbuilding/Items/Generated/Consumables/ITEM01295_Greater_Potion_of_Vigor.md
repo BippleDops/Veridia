@@ -1,3 +1,9 @@
+---
+aliases: ["Greater Potion of Vigor", "greater potion of vigor", "Vigor of Potion Greater"]
+tags: [item, equipment]
+type: item
+---
+
 # Greater Potion of Vigor
 
 *Consumables, Uncommon*
@@ -14,8 +20,6 @@ A greater potion emanating sweet fragrance
 - Invisible for 10 minutes
 - Fly for 1 hour
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -30,7 +34,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.474Z*

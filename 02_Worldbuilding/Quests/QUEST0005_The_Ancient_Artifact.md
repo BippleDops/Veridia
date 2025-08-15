@@ -1,4 +1,5 @@
 ---
+aliases: ["The Ancient Artifact", "the ancient artifact", "Artifact Ancient The"]
 tags: [generated]
 id: QUEST0005
 created: 2025-08-15T04:09:51.365Z
@@ -22,8 +23,6 @@ Map the uncharted the sunken temple and report findings
 ### Secondary
 - Gather intelligence on enemy plans
 - Rescue any prisoners found
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they survived a plague that killed their family, which changed their life forever. Now, circumstances demand immediate action.

@@ -1,11 +1,11 @@
 ---
+aliases: ["Minerva Brightblade the Strong", "minerva brightblade the strong", "Minerva Brightblade Strong", "Strong the Brightblade Minerva"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Raised by monks in a remote monastery. Years ago, they made a deal they now regr
 ### Skills
 Insight, Perception, Arcana
 
-
-
 ## Possessions
 - 79 gold pieces
 - Mysterious key
@@ -89,7 +87,6 @@ Insight, Perception, Arcana
 
 ---
 *Generated: 2025-08-15T03:21:04.045Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Stormwind", "hestara stormwind", "Stormwind Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Stormwind
 
 *Half-Elf Blacksmith (Commoners), Age 45, Male*
@@ -13,7 +19,6 @@
 Towering and slender, with Braided elaborately blonde hair and Blue eyes. Unusual hue skin. Constantly changing hair color.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Sees doom and gloom everywhere
@@ -36,7 +41,6 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Short Term**: Gather information
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Vesper Emberfall the Lost (Political - Opposition)
 - **Status**: One-sided affection
@@ -51,7 +55,6 @@ Grew up in poverty but discovered a talent that might change everything They've 
 ### Jorah Hawthorne the Fallen (Personal - Ex-lover)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Knows location of ancient treasure

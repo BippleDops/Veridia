@@ -95,3 +95,13 @@ Mentioned in The Hidden Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Carpenters Tools Xphb]]
+- [[Robe of Useful Items Xdmg]]
+- [[carpenters-tools-xphb (items)]]
+- [[robe-of-useful-items-xdmg (items)]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

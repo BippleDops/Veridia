@@ -11,7 +11,7 @@ created: '2025-01-15'
 
 ## Portrait
 
-![[portrait_04_resources_assets_portraits_portrait-npc-lady-crystal-heart-miraleth-lady-crystal-heart-miraleth.svg.png]]
+![[04_Resources|portrait_04_resources_assets_portraits_portrait-npc-lady-crystal-heart-miraleth-lady-crystal-heart-miraleth.svg.png]]
 
 *Portrait reference for 04_Resources_Assets_Portraits_portrait-npc-lady-crystal-heart-miraleth-lady-crystal-heart-miraleth.svg*
 
@@ -75,3 +75,9 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+## References
+
+- [[Assets Locations Location City Captain Marcus V1 Captain Marcus.svg]]
+- [[Assets Locations Location City Lady Vivienne the Unfrozen V1 Lady Vivienne the Unfrozen.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-lady-crystal-heart-miraleth-lady-crystal-heart-miraleth.svg_Quick_Ref]]

@@ -76,3 +76,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Winds
+
+## References
+
+- [[Deities of Eberron]]
+- [[deities-of-eberron (tables)]]

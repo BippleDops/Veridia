@@ -1,4 +1,5 @@
 ---
+aliases: ["Random Encounter 77", "random encounter 77", "77 Encounter Random"]
 tags: [generated]
 id: ENC0076_Random_Encounter_77
 created: 2025-08-15T04:09:51.458Z
@@ -18,11 +19,8 @@ Enemies coordinate attacks and use terrain to their advantage
 ## Treasure
 938 gp in various coins, plus one random magic item
 
-
-
 ---
 *Generated: 2025-08-15T03:21:47.443Z*
-
 
 ## Scaling by Party Level
 - **Level 1-4**: Reduce enemies

@@ -1,3 +1,9 @@
+---
+aliases: ["Infernal Ring of Destiny", "infernal ring of destiny", "Destiny of Ring Infernal"]
+tags: [item, equipment]
+type: item
+---
+
 # Infernal Ring of Destiny
 
 *Artifacts, Artifact (requires attunement)*
@@ -16,8 +22,6 @@ A infernal ring covered in mysterious symbols
 - Grant true sight
 - Regenerate 1 hp/round
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -32,7 +36,6 @@ Priceless
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.433Z*

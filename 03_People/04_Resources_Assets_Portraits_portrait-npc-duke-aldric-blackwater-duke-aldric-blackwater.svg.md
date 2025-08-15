@@ -11,7 +11,7 @@ created: '2025-01-15'
 
 ## Portrait
 
-![[portrait_04_resources_assets_portraits_portrait-npc-duke-aldric-blackwater-duke-aldric-blackwater.svg.png]]
+![[04_Resources|portrait_04_resources_assets_portraits_portrait-npc-duke-aldric-blackwater-duke-aldric-blackwater.svg.png]]
 
 *Portrait reference for 04_Resources_Assets_Portraits_portrait-npc-duke-aldric-blackwater-duke-aldric-blackwater.svg*
 
@@ -75,3 +75,8 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+## References
+
+- [[Assets Locations Location City Crystal Master Prism Lightweaver Crystal Master Prism Lightweaver.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-duke-aldric-blackwater-duke-aldric-blackwater.svg_Quick_Ref]]

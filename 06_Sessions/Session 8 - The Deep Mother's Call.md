@@ -122,7 +122,6 @@ Session 8 - The Deep Mother's Call represents a crucial aspect of the world's hi
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## See Also
 - Related content
 - Similar topics

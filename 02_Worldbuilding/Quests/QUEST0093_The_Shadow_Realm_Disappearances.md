@@ -1,4 +1,5 @@
 ---
+aliases: ["The Shadow Realm Disappearances", "the shadow realm disappearances", "Disappearances Realm Shadow The"]
 tags: [generated]
 id: QUEST0093
 created: 2025-08-15T04:09:51.417Z
@@ -21,8 +22,6 @@ Map the uncharted the sunken temple and report findings
 
 ### Secondary
 - Maintain cover identity
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they made a deal they now regret, which changed their life forever. Now, circumstances demand immediate action.

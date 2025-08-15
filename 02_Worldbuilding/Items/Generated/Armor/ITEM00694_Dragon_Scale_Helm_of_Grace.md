@@ -1,3 +1,9 @@
+---
+aliases: ["Dragon Scale Helm of Grace", "dragon scale helm of grace", "Grace of Helm Scale Dragon"]
+tags: [item, equipment]
+type: item
+---
+
 # Dragon Scale Helm of Grace
 
 *Armor, Rare*
@@ -15,8 +21,6 @@ A dragon scale helm bearing ancient runes
 - Immunity to critical hits
 - +2 to AC
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -31,7 +35,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.417Z*

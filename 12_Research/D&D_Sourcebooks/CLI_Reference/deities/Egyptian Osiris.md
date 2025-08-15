@@ -92,3 +92,11 @@ Mentioned in The Second Prophecy of Winds
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Cleric Xphb Grave Domain Xge]]
+- [[cleric-xphb-grave-domain-xge (classes)]]
+- [[cleric-xphb-grave-domain-xge 2 (classes)]]
+- [[The Egyptian Pantheon Egyptian Deities Phb]]
+- [[the-egyptian-pantheon-egyptian-deities-phb (tables)]]

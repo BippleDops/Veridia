@@ -1,3 +1,9 @@
+---
+aliases: ["Primordial Orb of Dominion", "primordial orb of dominion", "Dominion of Orb Primordial"]
+tags: [item, equipment]
+type: item
+---
+
 # Primordial Orb of Dominion
 
 *Artifacts, Artifact*

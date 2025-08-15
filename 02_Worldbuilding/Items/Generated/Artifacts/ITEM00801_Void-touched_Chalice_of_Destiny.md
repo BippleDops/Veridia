@@ -1,3 +1,9 @@
+---
+aliases: ["Void-touched Chalice of Destiny", "void-touched chalice of destiny", "Destiny of Chalice Void-touched"]
+tags: [item, equipment]
+type: item
+---
+
 # Void-touched Chalice of Destiny
 
 *Artifacts, Legendary*
@@ -16,8 +22,6 @@ A void-touched chalice radiating otherworldly power
 - Telepathy 120 ft
 - Grant true sight
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -32,7 +36,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.427Z*

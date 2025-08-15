@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Keenblade the Guardian", "branwen keenblade the guardian", "Branwen Keenblade Guardian", "Guardian the Keenblade Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Keenblade the Guardian
 
 *Half-Orc Blacksmith (Commoners), Age 32, Non-binary*
@@ -36,7 +42,6 @@ Family has worked the same trade for generations, but times are changing Strange
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Nerys Frostwhisper the Seeker (Professional - Partner)
 - **Status**: Recently reconciled
@@ -47,16 +52,13 @@ Family has worked the same trade for generations, but times are changing Strange
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Wynne Ironwood the Lost (Personal - Love interest)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Malakai Brightblade the Seeker (Political - Ally)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Has dragon blood in their veins

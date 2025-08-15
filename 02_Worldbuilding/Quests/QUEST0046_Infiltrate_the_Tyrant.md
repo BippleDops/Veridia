@@ -1,4 +1,5 @@
 ---
+aliases: ["Infiltrate the Tyrant", "infiltrate the tyrant", "Infiltrate Tyrant", "Tyrant the Infiltrate"]
 tags: [generated]
 id: QUEST0046
 created: 2025-08-15T04:09:51.389Z
@@ -22,8 +23,6 @@ Protect the sunken temple from the orc horde for three days
 ### Secondary
 - Gather intelligence on enemy plans
 - Rescue any prisoners found
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they found an ancient artifact, which changed their life forever. Now, circumstances demand immediate action.
@@ -56,8 +55,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Show mercy and gain intel - Future ally but justice denied
 2. Execute for crimes committed - Justice served but opportunity lost
-
-
 
 ## Rewards
 ### On Success

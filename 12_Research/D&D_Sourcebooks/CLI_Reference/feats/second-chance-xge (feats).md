@@ -75,3 +75,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A stranger needs help delivering before dawn
 - Someone is protecting a witness for power
 - The authorities needs help delivering before dawn
+
+## References
+
+- [[Racial Feats Xge]]
+- [[racial-feats-xge (tables)]]

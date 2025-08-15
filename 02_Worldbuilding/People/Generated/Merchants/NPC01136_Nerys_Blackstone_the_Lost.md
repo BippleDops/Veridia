@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Blackstone the Lost", "nerys blackstone the lost", "Nerys Blackstone Lost", "Lost the Blackstone Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Blackstone the Lost
 
 *Half-Orc Shopkeeper (Merchants), Age 66, Male*
@@ -13,7 +19,6 @@
 Very short and slender, with Partially shaved blonde hair and Black eyes. Freckled skin. Warm smile that puts people at ease.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Collects unusual and worthless objects; Compulsive liar about minor things
@@ -47,7 +52,6 @@ Inherited a failing business and turned it around They've been marked by a secre
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Hilda Silverleaf the Strong (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
@@ -61,7 +65,6 @@ Inherited a failing business and turned it around They've been marked by a secre
 ### Corvus Emberfall the Risen (Professional - Rival)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
-
 
 ### Baelor Zephyrblade the Risen (Professional - Employee)
 - **Status**: Strong and trusting

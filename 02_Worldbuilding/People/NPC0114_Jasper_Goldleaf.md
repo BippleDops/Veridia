@@ -1,11 +1,11 @@
 ---
+aliases: ["Jasper Goldleaf", "jasper goldleaf", "Goldleaf Jasper"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -77,8 +77,6 @@ Apprenticed to a master craftsman from young age. Years ago, they once saved a n
 ### Skills
 Athletics, Perception, Persuasion
 
-
-
 ## Possessions
 - 49 gold pieces
 - Small gemstone
@@ -91,7 +89,6 @@ Athletics, Perception, Persuasion
 
 ---
 *Generated: 2025-08-15T03:21:04.038Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

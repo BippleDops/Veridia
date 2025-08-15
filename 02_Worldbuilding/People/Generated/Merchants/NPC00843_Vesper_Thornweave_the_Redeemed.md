@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Thornweave the Redeemed", "vesper thornweave the redeemed", "Vesper Thornweave Redeemed", "Redeemed the Thornweave Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Thornweave the Redeemed
 
 *Human Caravan Master (Merchants), Age 36, Female*
@@ -13,7 +19,6 @@
 Below average and wiry, with Carefully styled auburn hair and Amber eyes. Tan skin. Weather-beaten face showing hard life.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Always tells the absolute truth; Extremely superstitious about everything
@@ -36,22 +41,18 @@ Former adventurer who retired to open a shop They've fallen in love with someone
 - **Short Term**: Find missing person
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Solas Ravenheart the Swift (Personal - Love interest)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Erasmus Underhill the Guardian (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Nerys Nightfall the Redeemed (Professional - Employee)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Smuggles illegal magical items

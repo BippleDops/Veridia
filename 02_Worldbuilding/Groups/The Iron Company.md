@@ -128,3 +128,8 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Port Meridian - Merchant Quarter]]
+- [[Port Meridian - Merchant Quarter (D&D_References)]]

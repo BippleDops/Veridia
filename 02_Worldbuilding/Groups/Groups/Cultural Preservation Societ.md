@@ -50,3 +50,9 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[The Cultural Preservation Society]]
+- [[Keeper Elara Mindwell]]
+- [[Keeper Elara Mindwell (D&D_Statblocks)]]

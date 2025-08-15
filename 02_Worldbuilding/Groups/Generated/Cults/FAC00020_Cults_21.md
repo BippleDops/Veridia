@@ -1,6 +1,18 @@
-# Cults 21
+---
+aliases: ["Cults 21", "cults 21", "21 Cults"]
+tags: [note, stub-fixed]
+---
 
-*Cults*
+# Fac00020 Cults 21
+
+## Content
+Content to be added.
+
+## Related
+- [[Related content]]
+
+## Notes
+*Stub file automatically populated*
 
 ---
-*ID: FAC00020*
+*Note: This content develops through gameplay and campaign events.*

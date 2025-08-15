@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Proudmore the Mystic", "jorah proudmore the mystic", "Jorah Proudmore Mystic", "Mystic the Proudmore Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Proudmore the Mystic
 
 *Half-Orc Dark Wizard (Villains), Age 72, Male*
@@ -13,7 +19,6 @@
 Average height and muscular, with Dreadlocks white hair and Blue eyes. Brown skin. Intricate tattoos covering arms.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Incredibly optimistic despite evidence; Extremely superstitious about everything; Never backs down from any challenge
@@ -36,22 +41,18 @@ Driven mad by knowledge humanity wasn't meant to know They've made a deal they'r
 - **Short Term**: Find missing person
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Idris Zephyrblade the Cunning (Personal - Ex-lover)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
 ### Aldric Youngblood the Swift (Personal - Nemesis)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Felicia Blackstone the Swift (Political - Spy)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Knows how the world will end

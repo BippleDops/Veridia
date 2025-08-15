@@ -89,3 +89,19 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Charm of Heroism Xdmg]]
+- [[charm-of-heroism-xdmg (rewards)]]
+- [[Arcana Rare Xdmg]]
+- [[Armaments Rare Xdmg]]
+- [[Magic Item Table C]]
+- [[Random Magic Items Arcana]]
+- [[Random Magic Items Armaments]]
+- [[arcana-rare-xdmg (tables)]]
+- [[armaments-rare-xdmg (tables)]]
+- [[magic-item-table-c (tables)]]
+- [[random-magic-items-arcana (tables)]]
+- [[random-magic-items-armaments (tables)]]

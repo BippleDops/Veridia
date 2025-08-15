@@ -1,3 +1,9 @@
+---
+aliases: ["Cursed Sword of Speed", "cursed sword of speed", "Speed of Sword Cursed"]
+tags: [item, equipment]
+type: item
+---
+
 # Cursed Sword of Speed
 
 *Weapons, Uncommon*
@@ -14,8 +20,6 @@ A cursed sword forged from meteoric iron
 - +1 to attack and damage rolls
 - Ignores resistance to damage type
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -30,7 +34,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.363Z*

@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Silverleaf", "erasmus silverleaf", "Silverleaf Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Silverleaf
 
 *Halfling Heir (Nobles), Age 54, Female*
@@ -42,16 +48,13 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Aeliana Ironwood (Professional - Partner)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Felicia Ironwood (Family - Parent)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
-
 
 ### Thalia Youngblood (Political - Spy)
 - **Status**: Complicated history
@@ -62,11 +65,9 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Qadim Blackstone (Political - Puppet)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Actually a bastard with no real claim

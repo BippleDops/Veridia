@@ -91,3 +91,11 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[25 Gp Art Objects Xdmg]]
+- [[25 Gp Art Objects]]
+- [[25-gp-art-objects (tables)]]
+- [[25-gp-art-objects-xdmg (tables)]]

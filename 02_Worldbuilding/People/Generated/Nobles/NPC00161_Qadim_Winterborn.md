@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Winterborn", "qadim winterborn", "Winterborn Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Winterborn
 
 *Half-Orc Heir (Nobles), Age 47, Non-binary*
@@ -36,22 +42,18 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Sabotage competition
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Aldric Blackstone the Broken (Political - Patron)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Lyanna Lightbringer (Personal - Love interest)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Gareth Voidwalker (Professional - Employee)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ### Zephyr Goldleaf (Personal - Ex-lover)
 - **Status**: Complicated history
@@ -61,7 +63,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 ### Vesper Stormwind (Family - Cousin)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Secretly funding the rebellion

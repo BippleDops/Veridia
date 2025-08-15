@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Crystalbrook the Lost", "xander crystalbrook the lost", "Xander Crystalbrook Lost", "Lost the Crystalbrook Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Crystalbrook the Lost
 
 *Human Ranger (Adventurers), Age 62, Male*
@@ -13,7 +19,6 @@
 Tall and stocky, with Tied back brown hair and Green eyes. Weathered skin. Warm smile that puts people at ease.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Constantly quotes ancient texts
@@ -36,12 +41,10 @@ Chosen by fate to fulfill an ancient prophecy A prophetic dream has been hauntin
 - **Short Term**: Complete current contract
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Aldric Thornweave the Wise (Personal - Nemesis)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ### Idris Silverleaf the Lost (Personal - Ex-lover)
 - **Status**: Secretly hostile
@@ -51,7 +54,6 @@ Chosen by fate to fulfill an ancient prophecy A prophetic dream has been hauntin
 ### Idris Ravenheart the Broken (Family - Sibling)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Has died and been resurrected

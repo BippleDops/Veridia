@@ -97,3 +97,7 @@ Marina Currentswift Full Stats represents a crucial aspect of the world's histor
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Session 1 Shadows in the Senate]]

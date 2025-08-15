@@ -1,4 +1,5 @@
 ---
+aliases: ["PortHaven", "porthaven"]
 tags: [generated]
 id: LOC0009
 created: 2025-08-15T04:09:51.244Z
@@ -21,20 +22,17 @@ A secret location used by those who wish to remain hidden
 - **Current Leader**: Captain of the guard
 - **Political Stability**: Unstable
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -91,7 +89,6 @@ A secret location used by those who wish to remain hidden
 
 ---
 *Generated: 2025-08-15T03:20:13.134Z*
-
 
 ## History
 - **Founding**: Origin story

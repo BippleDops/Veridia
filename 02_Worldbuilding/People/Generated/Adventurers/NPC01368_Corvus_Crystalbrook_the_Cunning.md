@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Crystalbrook the Cunning", "corvus crystalbrook the cunning", "Corvus Crystalbrook Cunning", "Cunning the Crystalbrook Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Crystalbrook the Cunning
 
 *Tabaxi Bard (Adventurers), Age 18, Non-binary*
@@ -42,26 +48,21 @@ Seeking vengeance for a murdered mentor They recently discovered a secret that c
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Dara Ironforge the Bold (Criminal - Fence)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
-
 
 ### Jorah Stormwind the Swift (Criminal - Target)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Elric Oakenshield the Strong (Professional - Mentor)
 - **Status**: One-sided affection
 - **History**: United by common enemy
 
-
 ### Aldric Blackstone the Fallen (Personal - Love interest)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Has died and been resurrected

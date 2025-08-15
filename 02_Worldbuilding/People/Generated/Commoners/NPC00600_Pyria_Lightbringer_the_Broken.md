@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Lightbringer the Broken", "pyria lightbringer the broken", "Pyria Lightbringer Broken", "Broken the Lightbringer Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Lightbringer the Broken
 
 *Halfling Farmer (Commoners), Age 63, Male*
@@ -46,7 +52,6 @@ Grew up in poverty but discovered a talent that might change everything They rec
 ### Caelum Proudmore the Strong (Professional - Partner)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ### Caelum Quicksilver (Professional - Mentor)
 - **Status**: Professional only

@@ -24,7 +24,7 @@ modified: '2025-08-14'
 status: Active/Missing/Dead/Unknown
 race: Race (subrace if applicable)
 class: Class/Profession
-location: '[[Current Location|Current Location]]'
+location: '[[Current_Location|Current Location]]'
 level: X
 alignment: Alignment
 faction: '[[Faction Name|Faction Name]] OR Independent'

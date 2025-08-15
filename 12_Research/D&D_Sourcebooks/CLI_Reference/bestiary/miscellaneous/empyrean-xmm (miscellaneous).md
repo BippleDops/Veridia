@@ -185,3 +185,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Empyrean Xmm]]
+- [[Scroll of Titan Summoning Empyrean Xdmg]]
+- [[scroll-of-titan-summoning-empyrean-xdmg (items)]]
+- [[Artifact Properties Major Detrimental Properties Xdmg]]
+- [[Artifact Properties Major Detrimental]]
+- [[Monsters by Habitat Any Habitat Monsters Xmm]]
+- [[artifact-properties-major-detrimental-properties]]
+- [[monsters-by-habitat-any-habitat-monsters-xmm (tables)]]

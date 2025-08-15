@@ -53,7 +53,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -160,7 +160,7 @@ He's also investigating [[reports]] of attempts to communicate with high-securit
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Warden Stonehand represents the principled civil servant who maintains institutional integrity despite political pressure. Use him to exp[[Lore]] themes of justice, rehabilitation, and moral consistency. His prison can serve as a source of information, a secure meeting place, or the setting for rescue/extraction missions.
 
@@ -189,13 +189,11 @@ Warden Marcus Stonehand is a notable location characterized by its unique featur
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -203,13 +201,11 @@ Warden Marcus Stonehand is a notable location characterized by its unique featur
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -250,7 +246,6 @@ Key stop on textiles trade route
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -286,3 +281,8 @@ Key stop on textiles trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Pressure's End]]
+- [[Pressure's End (D&D_References)]]

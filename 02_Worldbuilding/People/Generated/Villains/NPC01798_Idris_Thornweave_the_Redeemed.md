@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Thornweave the Redeemed", "idris thornweave the redeemed", "Idris Thornweave Redeemed", "Redeemed the Thornweave Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Thornweave the Redeemed
 
 *Gnome Corrupt Noble (Villains), Age 63, Non-binary*
@@ -13,7 +19,6 @@
 Above average and athletic, with Short and neat bald hair and Red eyes. Brown skin. Unusual eye color for their race.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Compulsive liar about minor things
@@ -36,7 +41,6 @@ Driven mad by knowledge humanity wasn't meant to know An old debt has come due a
 - **Short Term**: Recruit new members
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Branwen Silverleaf the Strong (Personal - Ex-lover)
 - **Status**: Strained but maintaining
@@ -47,26 +51,21 @@ Driven mad by knowledge humanity wasn't meant to know An old debt has come due a
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
 
-
 ### Cedric Oakenshield the Strong (Political - Ally)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ### Faelyn Underhill the Cunning (Professional - Rival)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Ysara Jadeclaw the Wanderer (Family - Parent)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Solas Stormwind the Seeker (Criminal - Handler)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Knows how the world will end

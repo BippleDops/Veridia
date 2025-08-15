@@ -1,3 +1,9 @@
+---
+aliases: ["Blazing Staff of Wounding", "blazing staff of wounding", "Wounding of Staff Blazing"]
+tags: [item, equipment]
+type: item
+---
+
 # Blazing Staff of Wounding
 
 *Weapons, Legendary*
@@ -16,8 +22,6 @@ A blazing staff forged from meteoric iron
 - Returns when thrown
 - +1 to attack and damage rolls
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -32,7 +36,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.348Z*

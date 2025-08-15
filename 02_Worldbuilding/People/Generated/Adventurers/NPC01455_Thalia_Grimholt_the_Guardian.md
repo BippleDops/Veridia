@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Grimholt the Guardian", "thalia grimholt the guardian", "Thalia Grimholt Guardian", "Guardian the Grimholt Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Grimholt the Guardian
 
 *Tabaxi Ranger (Adventurers), Age 25, Male*
@@ -47,11 +53,9 @@ Running from a dark past that won't stay buried A prophetic dream has been haunt
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Malakai Xendar the Risen (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ### Dara Winterborn the Broken (Personal - Best friend)
 - **Status**: Strained but maintaining
@@ -61,7 +65,6 @@ Running from a dark past that won't stay buried A prophetic dream has been haunt
 ### Ewan Ravenheart the Wanderer (Criminal - Fence)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Has died and been resurrected

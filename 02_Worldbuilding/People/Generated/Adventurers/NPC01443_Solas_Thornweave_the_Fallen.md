@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Thornweave the Fallen", "solas thornweave the fallen", "Solas Thornweave Fallen", "Fallen the Thornweave Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Thornweave the Fallen
 
 *Elf Fighter (Adventurers), Age 72, Male*
@@ -36,27 +42,22 @@ Chosen by fate to fulfill an ancient prophecy Strange abilities have begun manif
 - **Short Term**: Find missing person
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Caelum Ravenheart the Swift (Professional - Employee)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Rhiannon Nightfall the Redeemed (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ### Lyanna Winterborn the Seeker (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Gareth Lightbringer the Cunning (Criminal - Target)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ### Faelyn Youngblood the Strong (Personal - Ex-lover)
 - **Status**: Professional only

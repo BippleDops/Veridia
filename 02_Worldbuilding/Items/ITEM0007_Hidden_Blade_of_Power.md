@@ -1,4 +1,5 @@
 ---
+aliases: ["Hidden Blade of Power", "hidden blade of power", "Power of Blade Hidden"]
 tags: [generated]
 id: ITEM0007
 created: 2025-08-15T04:09:51.078Z
@@ -19,8 +20,6 @@ Crafted from dragonscale with ancient symbols, in pristine condition. It emanate
 
 ## Quirk
 *Makes user sneeze in sunlight*
-
-
 
 ## History
 This item was reforged from broken artifacts ages ago. It has passed through many hands, each leaving their mark upon its destiny.

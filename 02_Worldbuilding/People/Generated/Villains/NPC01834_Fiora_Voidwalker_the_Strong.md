@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Voidwalker the Strong", "fiora voidwalker the strong", "Fiora Voidwalker Strong", "Strong the Voidwalker Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Voidwalker the Strong
 
 *Elf Corrupt Noble (Villains), Age 51, Non-binary*
@@ -13,7 +19,6 @@
 Average height and compact, with Dreadlocks white hair and Brown eyes. Pale skin. Birthmark shaped like a constellation.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Extremely superstitious about everything
@@ -36,7 +41,6 @@ Born into evil but questioning their path A chance encounter last winter changed
 - **Short Term**: Gather information
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Caelum Zephyrblade the Wise (Criminal - Accomplice)
 - **Status**: One-sided affection
@@ -46,7 +50,6 @@ Born into evil but questioning their path A chance encounter last winter changed
 ### Gareth Jadeclaw the Risen (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ### Zephyr Youngblood the Scholar (Criminal - Accomplice)
 - **Status**: One-sided affection

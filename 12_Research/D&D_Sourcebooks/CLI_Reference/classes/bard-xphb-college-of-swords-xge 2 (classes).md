@@ -167,3 +167,32 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Bard Xphb College of Swords Xge]]
+- [[Bard Xphb College of Valor Xphb]]
+- [[Bard Xphb College of Whispers Xge]]
+- [[bard-xphb-college-of-swords-xge (classes)]]
+- [[bard-xphb-college-of-valor-xphb (classes)]]
+- [[bard-xphb-college-of-valor-xphb 2 (classes)]]
+- [[bard-xphb-college-of-whispers-xge (classes)]]
+- [[bard-xphb-college-of-whispers-xge 2 (classes)]]
+- [[Assign Ability Scores Standard Array by]]
+- [[Choose a Class Class Overview Xphb]]
+- [[Classes Phb]]
+- [[Level 1 Hit Points by Class Xphb]]
+- [[Multiclassing Prerequisites Phb]]
+- [[Multiclassing Proficiencies Phb]]
+- [[Preparing Spells Spell Preparation by Class]]
+- [[Spells Scc]]
+- [[assign-ability-scores-standard-array-by-class-xphb]]
+- [[choose-a-class-class-overview-xphb (tables)]]
+- [[classes-phb (tables)]]
+- [[level-1-hit-points-by-class-xphb (tables)]]
+- [[multiclassing-prerequisites-phb (tables)]]
+- [[multiclassing-proficiencies-phb (tables)]]
+- [[preparing-spells-spell-preparation-by-class-xphb]]
+- [[spells-scc (tables)]]
+- [[Spell Points]]
+- [[spell-points (variant-rules)]]

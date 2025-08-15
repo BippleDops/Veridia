@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Ravenheart the Strong", "dara ravenheart the strong", "Dara Ravenheart Strong", "Strong the Ravenheart Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Ravenheart the Strong
 
 *Tiefling Caravan Master (Merchants), Age 38, Non-binary*
@@ -42,16 +48,13 @@ Uses their business as cover for other activities They've been marked by a secre
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Drusilla Hawthorne the Wanderer (Personal - Love interest)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Fiora Youngblood the Swift (Family - Spouse)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Running a cult from their basement

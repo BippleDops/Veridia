@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Ironforge the Scholar", "faelyn ironforge the scholar", "Faelyn Ironforge Scholar", "Scholar the Ironforge Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Ironforge the Scholar
 
 *Tabaxi Cleric (Adventurers), Age 41, Male*
@@ -42,31 +48,25 @@ Searching for a legendary treasure their parent died seeking An old debt has com
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Thalia Crystalbrook the Scholar (Personal - Nemesis)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ### Hestara Jadeclaw the Wise (Political - Opposition)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Aeliana Lightbringer the Scholar (Political - Patron)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
-
 
 ### Xander Nightfall the Redeemed (Criminal - Handler)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Hestara Darkwater the Mystic (Family - Sibling)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Carries a world-ending artifact

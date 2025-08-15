@@ -1,11 +1,11 @@
 ---
+aliases: ["Ophelia Ironforge", "ophelia ironforge", "Ironforge Ophelia"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -90,7 +90,6 @@ Investigation, Athletics
 
 ---
 *Generated: 2025-08-15T03:21:04.035Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

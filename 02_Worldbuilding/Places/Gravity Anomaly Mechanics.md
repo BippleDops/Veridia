@@ -70,7 +70,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -275,7 +275,7 @@ Unlike simple magical effects that temporarily alter gravity, true gravity anoma
 
 **Levitation Effects**: Items providing flight or levitation abilities often become unreliable or dangerous in altered gravitational fields.
 
-**Spatial Magic**: Teleportation, [[Dimensional Travel]], and similar effects are significantly more dangerous in areas with gravitational anomalies.
+**Spatial Magic**: Teleportation, [[Dimensional_Travel|Dimensional Travel]], and similar effects are significantly more dangerous in areas with gravitational anomalies.
 
 **Protective Items**: Some magical protections are specifically designed to [[Shield]] users from gravitational effects, though these are rare and expensive.
 
@@ -343,7 +343,7 @@ Unlike simple magical effects that temporarily alter gravity, true gravity anoma
 
 **Unit Cohesion**: Military formations adapted for three-dimensional combat spaces and constantly changing gravitational conditions.
 
-**Communication**: Enhanced [[Communication Systems]] for coordinating action when normal visual and auditory cues are disrupted.
+**Communication**: Enhanced [[Communication_Systems|Communication Systems]] for coordinating action when normal visual and auditory cues are disrupted.
 
 **Support Roles**: Specialized roles for managing gravitational effects, including technical specialists and magical support personnel.
 
@@ -426,7 +426,7 @@ Legends speak of Gravity Anomaly Mechanics as a nexus where past and present con
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -450,13 +450,11 @@ Gravity Anomaly Mechanics is a notable location characterized by its unique feat
 ### Founding
 Gravity Anomaly Mechanics was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -464,13 +462,11 @@ Gravity Anomaly Mechanics was established in the distant past, growing from humb
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -514,7 +510,6 @@ Key stop on spices trade route
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions

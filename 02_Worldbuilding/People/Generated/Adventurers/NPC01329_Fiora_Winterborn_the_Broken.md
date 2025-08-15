@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Winterborn the Broken", "fiora winterborn the broken", "Fiora Winterborn Broken", "Broken the Winterborn Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Winterborn the Broken
 
 *Genasi Wizard (Adventurers), Age 62, Male*
@@ -36,22 +42,18 @@ Searching for a legendary treasure their parent died seeking A family member's d
 - **Short Term**: Avoid the authorities
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Qadim Nightfall the Guardian (Personal - Love interest)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Qadim Zephyrblade the Wise (Criminal - Fence)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Thalia Dawnstrider the Broken (Criminal - Informant)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
-
 
 ### Aeliana Quicksilver the Lost (Criminal - Informant)
 - **Status**: On the verge of collapse

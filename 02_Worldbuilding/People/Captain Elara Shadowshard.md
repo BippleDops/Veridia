@@ -35,7 +35,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-elara-shadowshard-captain-elara-shadowshard.svg)
 
@@ -260,7 +259,6 @@ Mentioned in The Second Prophecy of Depths
 - 20% middle class
 - 79% working poor
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -296,3 +294,11 @@ Mentioned in The Second Prophecy of Depths
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Stop the Shadow Harvest (Criminal_Organizations)]]
+- [[Assets Symbols Symbol Heraldry Faction Intelligence Faction Intelligence.svg]]
+- [[Aberrant Cults]]
+- [[Stop the Shadow Harvest]]
+- [[The Crystal Caves (D&D_References)]]

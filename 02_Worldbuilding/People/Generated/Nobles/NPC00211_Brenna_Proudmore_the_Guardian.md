@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Proudmore the Guardian", "brenna proudmore the guardian", "Brenna Proudmore Guardian", "Guardian the Proudmore Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Proudmore the Guardian
 
 *Halfling Noble (Nobles), Age 50, Male*
@@ -36,17 +42,14 @@ Recently elevated to nobility through service, still learning courtly ways A pro
 - **Short Term**: Complete current contract
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Malakai Winterborn the Cunning (Criminal - Accomplice)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Brenna Ravenheart (Political - Ally)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ### Felicia Brightblade (Personal - Ex-lover)
 - **Status**: Blood oath bound
@@ -57,11 +60,9 @@ Recently elevated to nobility through service, still learning courtly ways A pro
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Branwen Ironforge (Criminal - Fence)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ### Ewan Quicksilver the Lost (Family - Cousin)
 - **Status**: Strong and trusting

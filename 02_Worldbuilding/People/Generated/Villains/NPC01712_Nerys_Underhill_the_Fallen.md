@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Underhill the Fallen", "nerys underhill the fallen", "Nerys Underhill Fallen", "Fallen the Underhill Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Underhill the Fallen
 
 *Elf Corrupt Noble (Villains), Age 20, Male*
@@ -51,7 +57,6 @@ Betrayed by those they trusted, now seeking revenge on the world An old debt has
 ### Wynne Jadeclaw the Lost (Family - Cousin)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
-
 
 ### Nerys Emberfall the Redeemed (Professional - Employer)
 - **Status**: One-sided affection

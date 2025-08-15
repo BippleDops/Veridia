@@ -38,7 +38,7 @@ related_entities:
 - '[[The Crown of Stars]]'
 - '[[The Great Crystallization]]'
 - '[[Aetheron]]'
-- '[[The [[Seven Shards]]]]'
+- '[[Seven Shards|The [[Seven Shards]]]]'
 scale: Multidimensional
 significance: Reality-Altering
 [[Time]]_period: Year 1 GC - The Moment of Great Crystallization
@@ -84,5 +84,12 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Eastern Kingdoms (02_Worldbuilding)]]
+- [[Aethermoor (D&D_References)]]
+- [[Eastern Kingdoms (D&D_References)]]

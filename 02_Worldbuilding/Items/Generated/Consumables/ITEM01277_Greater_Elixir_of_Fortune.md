@@ -1,3 +1,9 @@
+---
+aliases: ["Greater Elixir of Fortune", "greater elixir of fortune", "Fortune of Elixir Greater"]
+tags: [item, equipment]
+type: item
+---
+
 # Greater Elixir of Fortune
 
 *Consumables, Common*
@@ -13,8 +19,6 @@ A greater elixir swirling with colors
 ## Properties
 - Breathe underwater 1 hour
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -29,7 +33,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.472Z*

@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Ravenheart the Seeker", "fiora ravenheart the seeker", "Fiora Ravenheart Seeker", "Seeker the Ravenheart Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Ravenheart the Seeker
 
 *Human Carpenter (Commoners), Age 19, Male*
@@ -36,32 +42,26 @@ Survivor of a disaster that destroyed their village A prophetic dream has been h
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Elric Winterborn the Cunning (Political - Ally)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
 
-
 ### Brenna Brightblade the Wise (Political - Ally)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
-
 
 ### Baelor Voidwalker the Risen (Political - Opposition)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
 
-
 ### Corvus Youngblood the Wise (Political - Spy)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Hilda Emberfall the Strong (Personal - Love interest)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is the lost heir to the throne

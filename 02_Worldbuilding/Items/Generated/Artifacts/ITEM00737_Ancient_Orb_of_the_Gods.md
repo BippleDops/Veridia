@@ -1,3 +1,9 @@
+---
+aliases: ["Ancient Orb of the Gods", "ancient orb of the gods", "Ancient Orb of Gods", "Gods the of Orb Ancient"]
+tags: [item, equipment]
+type: item
+---
+
 # Ancient Orb of the Gods
 
 *Artifacts, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A ancient orb covered in mysterious symbols
 - Telepathy 120 ft
 - Cast spell 3/day
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -32,7 +36,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.421Z*

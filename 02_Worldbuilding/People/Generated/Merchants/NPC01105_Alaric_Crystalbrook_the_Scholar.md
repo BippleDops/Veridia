@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Crystalbrook the Scholar", "alaric crystalbrook the scholar", "Alaric Crystalbrook Scholar", "Scholar the Crystalbrook Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Crystalbrook the Scholar
 
 *Genasi Trader (Merchants), Age 64, Male*
@@ -13,7 +19,6 @@
 Short and compact, with Braided elaborately bald hair and Amber eyes. Unusual hue skin. Missing finger on left hand.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Believes in every conspiracy theory; Compulsive liar about minor things
@@ -36,12 +41,10 @@ Inherited a failing business and turned it around A family member's death has le
 - **Short Term**: Sabotage competition
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Solas Dawnstrider the Mystic (Political - Opposition)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
-
 
 ### Felicia Brightblade the Scholar (Personal - Ex-lover)
 - **Status**: Recently reconciled
@@ -52,11 +55,9 @@ Inherited a failing business and turned it around A family member's death has le
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Gavril Hawthorne the Seeker (Political - Opposition)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ### Corvus Goldleaf the Scholar (Personal - Best friend)
 - **Status**: Mutually beneficial
@@ -66,7 +67,6 @@ Inherited a failing business and turned it around A family member's death has le
 ### Urien Underhill the Mystic (Family - Child)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is actually a spy for foreign power

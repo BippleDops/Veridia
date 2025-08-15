@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Ravenheart the Swift", "jorah ravenheart the swift", "Jorah Ravenheart Swift", "Swift the Ravenheart Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Ravenheart the Swift
 
 *Aasimar Trader (Merchants), Age 60, Male*
@@ -36,22 +42,18 @@ Part of a merchant family with connections everywhere They recently discovered a
 - **Short Term**: Make this month's payment
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Qadim Lightbringer the Wise (Professional - Rival)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Thalia Darkwater the Wise (Criminal - Informant)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Felicia Proudmore the Swift (Political - Spy)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ### Zephyr Quicksilver the Bold (Personal - Best friend)
 - **Status**: Mutually beneficial
@@ -61,7 +63,6 @@ Part of a merchant family with connections everywhere They recently discovered a
 ### Dara Ironwood the Mystic (Family - Sibling)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Smuggles illegal magical items

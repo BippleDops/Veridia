@@ -93,3 +93,19 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[02 Chapter 1 Greenest in Flames]]
+- [[02-chapter-1-greenest-in-flames (hoard-of-the-dragon-queen)]]
+- [[Rust Monster Xmm]]
+- [[rust-monster-xmm (monstrosity)]]
+- [[Black Pudding Xmm]]
+- [[Gray Ooze Xmm]]
+- [[black-pudding-xmm (ooze)]]
+- [[gray-ooze-xmm (ooze)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Gnome Xphb]]
+- [[gnome-xphb (races)]]

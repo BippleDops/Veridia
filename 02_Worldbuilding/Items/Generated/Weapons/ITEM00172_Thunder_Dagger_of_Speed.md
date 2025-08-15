@@ -1,3 +1,9 @@
+---
+aliases: ["Thunder Dagger of Speed", "thunder dagger of speed", "Speed of Dagger Thunder"]
+tags: [item, equipment]
+type: item
+---
+
 # Thunder Dagger of Speed
 
 *Weapons, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A thunder dagger made of crystallized magic
 - Ignores resistance to damage type
 - Grants advantage on initiative
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -30,7 +34,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.357Z*

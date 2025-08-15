@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Voidwalker", "fiora voidwalker", "Voidwalker Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Voidwalker
 
 *Firbolg Noble (Nobles), Age 73, Male*
@@ -13,7 +19,6 @@
 Below average and stocky, with Carefully styled red hair and Blue eyes. Weathered skin. Birthmark shaped like a constellation.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Always tells the absolute truth
@@ -36,17 +41,14 @@ Recently elevated to nobility through service, still learning courtly ways An ol
 - **Short Term**: Sabotage competition
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Aldric Emberfall the Wanderer (Criminal - Accomplice)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Fiora Zephyrblade (Personal - Childhood friend)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
-
 
 ### Caelum Hawthorne the Seeker (Criminal - Informant)
 - **Status**: Recently reconciled
@@ -56,7 +58,6 @@ Recently elevated to nobility through service, still learning courtly ways An ol
 ### Elric Silverleaf the Lost (Family - Cousin)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ### Lyanna Lightbringer the Lost (Criminal - Handler)
 - **Status**: Strong and trusting

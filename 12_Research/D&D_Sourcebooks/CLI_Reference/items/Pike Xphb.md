@@ -90,3 +90,22 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Master_Spell_Compendium]]
+- [[Adult Copper Dragon Xmm]]
+- [[Adult Green Dragon Xmm]]
+- [[Ancient Copper Dragon Xmm]]
+- [[Ancient Green Dragon Xmm]]
+- [[adult-copper-dragon-xmm (dragon)]]
+- [[adult-green-dragon-xmm (dragon)]]
+- [[ancient-copper-dragon-xmm (dragon)]]
+- [[ancient-green-dragon-xmm (dragon)]]
+- [[Quaggoth Thonot Xmm]]
+- [[quaggoth-thonot-xmm (monstrosity)]]
+- [[Weapons Phb]]
+- [[Weapons Xphb]]
+- [[weapons-phb (tables)]]
+- [[weapons-xphb (tables)]]

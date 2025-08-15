@@ -89,3 +89,14 @@ Mentioned in The Second Prophecy of Winds
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[workshop]]
+- [[Monk Xphb Way of the Kensei Xge]]
+- [[monk-xphb-way-of-the-kensei-xge (classes)]]
+- [[Artisans Tools Xphb]]
+- [[artisans-tools-xphb (items)]]
+- [[Tools Phb]]
+- [[tools-phb (tables)]]

@@ -14,7 +14,6 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 ## Objectives
 ### Primary
 - Main quest goal
@@ -22,7 +21,6 @@ status: active
 ### Optional
 - Secondary objectives
 - Hidden goals
-
 
 # Quest - The Root Network
 
@@ -444,7 +442,6 @@ Contextual improvement based on 12_Research
 
 ### Story Rewards
 - *[Reputation, allies, information]*
-
 
 ## Hooks
 - **Personal**: Character connection

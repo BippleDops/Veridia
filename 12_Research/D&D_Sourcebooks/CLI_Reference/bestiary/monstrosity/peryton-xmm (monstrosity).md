@@ -146,3 +146,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Shadows
+
+## References
+
+- [[Peryton Xmm]]
+- [[Find Greater Steed Xge]]
+- [[find-greater-steed-xge (spells)]]
+- [[Hill Encounters Levels 510 Xge]]
+- [[Monsters by Habitat Hill Monsters Xmm]]
+- [[Monsters by Habitat Mountain Monsters Xmm]]
+- [[Mountain Encounters Levels 14 Xge]]
+- [[hill-encounters-levels-510-xge (tables)]]
+- [[monsters-by-habitat-hill-monsters-xmm (tables)]]
+- [[monsters-by-habitat-mountain-monsters-xmm (tables)]]
+- [[mountain-encounters-levels-14-xge (tables)]]

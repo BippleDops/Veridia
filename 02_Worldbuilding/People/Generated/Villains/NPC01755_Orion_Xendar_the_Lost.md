@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Xendar the Lost", "orion xendar the lost", "Orion Xendar Lost", "Lost the Xendar Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Xendar the Lost
 
 *Human Cultist (Villains), Age 23, Male*
@@ -36,22 +42,18 @@ Born into evil but questioning their path They recently discovered a secret that
 - **Short Term**: Sabotage competition
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Wynne Jadeclaw the Guardian (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Vesper Lightbringer the Guardian (Criminal - Accomplice)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Baelor Ashford the Mystic (Criminal - Fence)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Is being controlled by darker force

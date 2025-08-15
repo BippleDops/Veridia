@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Ashford the Bold", "orion ashford the bold", "Orion Ashford Bold", "Bold the Ashford Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Ashford the Bold
 
 *Elf Rogue (Adventurers), Age 27, Female*
@@ -36,12 +42,10 @@ Accidentally gained powers and learning to control them Strange abilities have b
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Malakai Keenblade the Guardian (Family - Spouse)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ### Ysara Blackstone the Wise (Family - Cousin)
 - **Status**: Complicated history
@@ -52,7 +56,6 @@ Accidentally gained powers and learning to control them Strange abilities have b
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Dara Oakenshield the Seeker (Professional - Rival)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
@@ -61,7 +64,6 @@ Accidentally gained powers and learning to control them Strange abilities have b
 ### Drusilla Quicksilver the Seeker (Criminal - Target)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Carries a world-ending artifact

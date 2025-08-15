@@ -642,7 +642,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
 
-
 ## See Also
 - Related content
 - Similar topics

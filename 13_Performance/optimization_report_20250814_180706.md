@@ -117,3 +117,8 @@ Generated: 2025-08-14T18:07:06.186981
 - See also: [[Central Index]]
 - Related: [[Power Structures]]
 - Connected to: [[World Events]]
+
+## References
+
+- [[Power Structures]]
+- [[World Events]]

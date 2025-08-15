@@ -197,3 +197,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[item properties#Silvered%20Weapons]]
+- [[Master_Item_Catalog]]
+- [[Armaments Common Xdmg]]
+- [[Random Magic Items Armaments]]
+- [[armaments-common-xdmg (tables)]]
+- [[random-magic-items-armaments (tables)]]

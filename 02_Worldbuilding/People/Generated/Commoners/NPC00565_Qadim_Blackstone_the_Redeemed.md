@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Blackstone the Redeemed", "qadim blackstone the redeemed", "Qadim Blackstone Redeemed", "Redeemed the Blackstone Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Blackstone the Redeemed
 
 *Dragonborn Blacksmith (Commoners), Age 45, Non-binary*
@@ -42,21 +48,17 @@ Runaway from an arranged marriage, starting a new life They've been marked by a 
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Qadim Emberfall the Scholar (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ### Erasmus Emberfall the Broken (Criminal - Target)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Delara Keenblade the Seeker (Family - Spouse)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Witnessed a noble's crime

@@ -208,3 +208,7 @@ This NPC can serve multiple roles:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-terminal-master-hadrian-depthbridge-terminal-master-hadrian-depthbridge.svg]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Dawnstrider the Broken", "idris dawnstrider the broken", "Idris Dawnstrider Broken", "Broken the Dawnstrider Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Dawnstrider the Broken
 
 *Genasi Cleric (Adventurers), Age 37, Male*
@@ -13,7 +19,6 @@
 Very short and heavyset, with Mohawk bald hair and Heterochromic eyes. Freckled skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Never backs down from any challenge; Extremely superstitious about everything
@@ -42,21 +47,17 @@ Seeking vengeance for a murdered mentor They recently discovered a secret that c
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Cedric Lightbringer the Risen (Criminal - Accomplice)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
-
 
 ### Zephyr Keenblade the Guardian (Family - Sibling)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Alaric Ashford the Swift (Personal - Nemesis)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Secretly working for the villain

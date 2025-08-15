@@ -107,4 +107,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[inflict-wounds-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[inflict-wounds-xphb (spells)|inflict-wounds-xphb (spells)-phb]]` in CLI_Reference/spells/

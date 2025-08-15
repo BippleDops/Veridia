@@ -190,3 +190,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[ancient-green-dragon-xmm (dragon)]]
+- [[Green Dragon]]
+- [[green-dragon (legendary-group)]]

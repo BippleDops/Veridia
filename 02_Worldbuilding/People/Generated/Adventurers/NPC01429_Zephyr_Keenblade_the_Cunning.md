@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Keenblade the Cunning", "zephyr keenblade the cunning", "Zephyr Keenblade Cunning", "Cunning the Keenblade Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Keenblade the Cunning
 
 *Aasimar Ranger (Adventurers), Age 29, Male*
@@ -36,7 +42,6 @@ Seeking vengeance for a murdered mentor They've been marked by a secret society.
 - **Short Term**: Survive until next week
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Gareth Thornweave the Fallen (Political - Ally)
 - **Status**: Strained but maintaining
@@ -47,7 +52,6 @@ Seeking vengeance for a murdered mentor They've been marked by a secret society.
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
 
-
 ### Baelor Youngblood the Wanderer (Political - Ally)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
@@ -56,7 +60,6 @@ Seeking vengeance for a murdered mentor They've been marked by a secret society.
 ### Elric Winterborn the Redeemed (Criminal - Fence)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ### Caelum Quicksilver the Bold (Family - Sibling)
 - **Status**: Complicated history

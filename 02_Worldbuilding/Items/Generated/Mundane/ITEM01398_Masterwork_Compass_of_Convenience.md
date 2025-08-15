@@ -1,3 +1,9 @@
+---
+aliases: ["Masterwork Compass of Convenience", "masterwork compass of convenience", "Convenience of Compass Masterwork"]
+tags: [item, equipment]
+type: item
+---
+
 # Masterwork Compass of Convenience
 
 *Mundane, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A masterwork compass showing signs of age
 - Provides comfort
 - Has hidden compartment
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -30,7 +34,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.484Z*

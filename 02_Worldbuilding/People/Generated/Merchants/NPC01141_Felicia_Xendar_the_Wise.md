@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Xendar the Wise", "felicia xendar the wise", "Felicia Xendar Wise", "Wise the Xendar Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Xendar the Wise
 
 *Genasi Appraiser (Merchants), Age 33, Non-binary*
@@ -42,7 +48,6 @@ Former adventurer who retired to open a shop Strange abilities have begun manife
 - **Status**: Complicated history
 - **History**: United by common enemy
 
-
 ### Ysara Thornweave the Broken (Criminal - Handler)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
@@ -52,16 +57,13 @@ Former adventurer who retired to open a shop Strange abilities have begun manife
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
 
-
 ### Zephyr Brightblade the Guardian (Personal - Nemesis)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Xander Underhill the Scholar (Personal - Love interest)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Killed previous business owner

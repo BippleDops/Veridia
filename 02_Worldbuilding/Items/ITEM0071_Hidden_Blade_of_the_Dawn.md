@@ -1,4 +1,5 @@
 ---
+aliases: ["Hidden Blade of the Dawn", "hidden blade of the dawn", "Hidden Blade of Dawn", "Dawn the of Blade Hidden"]
 tags: [generated]
 id: ITEM0071
 created: 2025-08-15T04:09:51.101Z
@@ -18,8 +19,6 @@ Crafted from crystal with intricate runes, in recently restored. It emanates a f
 
 ## Quirk
 *Whispers names of previous owners*
-
-
 
 ## History
 This item was hidden away by its last owner ages ago. It has passed through many hands, each leaving their mark upon its destiny.

@@ -34,8 +34,8 @@ depth: 2600-2900 feet
 discovered: true
 factions:
 - '[[Temple of Divine Order|[[02 Worldbuilding]]/[[Groups]]/Temple Of Divine Order]]'
-- '[[The [[Leviathan]] Cult|02 Worldbuilding/Groups/The Leviathan Cult]]'
-- '[[[[Deep Mother]] Zealots]]'
+- '[[Leviathan|The [[Leviathan]] Cult|02 Worldbuilding/Groups/The Leviathan Cult]]'
+- '[[Deep Mother|[[Deep Mother]] Zealots]]'
 - '[[Syncretist Mediators]]'
 government: Religious Council of War
 location_name: The Theological Warfare Grounds
@@ -82,7 +82,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -277,7 +277,7 @@ A complex theological question about whether undead beings possess souls:
 
 ### The Memory Sacred Controversy
 
-Disputes about the religious significance of memory and whether [[[[Memory Farmers]]|02 Worldbuilding/Groups/Memory Farmers]] practices are spiritually acceptable.
+Disputes about the religious significance of memory and whether [[Memory Farmers|[[Memory Farmers]]|02 Worldbuilding/Groups/Memory Farmers]] practices are spiritually acceptable.
 
 ### Pre-Combat Requirements
 
@@ -403,7 +403,7 @@ The [[Syncretist Mediators]] may have discovered a way to literally merge all th
 
 4. **The Neutrality Question:** The supposedly neutral Heresy Hunters are accused of favoring one religious faction. Players must investigate these claims while navigating the complex relationships between religious and political power.
 
-### [[Moral Dilemmas]]
+### [[Moral_Dilemmas|Moral Dilemmas]]
 
 5. **The Conversion Campaign:** One faction launches an aggressive conversion campaign that threatens to upset the careful balance of theological warfare. Players must decide whether religious freedom includes the right to aggressive proselytizing.
 
@@ -415,7 +415,7 @@ The [[Syncretist Mediators]] may have discovered a way to literally merge all th
 
 8. **The Syncretist Challenge:** Players are challenged to create a new religious synthesis that incorporates elements from all major factions. Success could bring peace, but failure might intensify religious conflicts.
 
-## [[[[Random Encounter]]s]] (d12)
+## [[Random Encounter|[[Random Encounter]]s]] (d12)
 
 | Roll | Encounter |
 |------|-----------|
@@ -491,7 +491,7 @@ Legends speak of Theological Warfare as a nexus where past and present converge.
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -515,13 +515,11 @@ Theological Warfare is a notable location characterized by its unique features a
 ### Founding
 Theological Warfare was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -529,13 +527,11 @@ Theological Warfare was established in the distant past, growing from humble beg
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -564,7 +560,7 @@ Ongoing situations affecting Theological Warfare:
 - A shipment has gone missing and truth emerges
 - A noble needs help finding before winter
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -592,7 +588,6 @@ Ongoing situations affecting Theological Warfare:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions

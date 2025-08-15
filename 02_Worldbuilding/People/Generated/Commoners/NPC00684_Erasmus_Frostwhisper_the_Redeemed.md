@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Frostwhisper the Redeemed", "erasmus frostwhisper the redeemed", "Erasmus Frostwhisper Redeemed", "Redeemed the Frostwhisper Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Frostwhisper the Redeemed
 
 *Half-Orc Blacksmith (Commoners), Age 20, Female*
@@ -36,7 +42,6 @@ Runaway from an arranged marriage, starting a new life They're being blackmailed
 - **Short Term**: Avoid the authorities
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Kaelen Stormwind the Seeker (Criminal - Handler)
 - **Status**: On the verge of collapse
@@ -52,11 +57,9 @@ Runaway from an arranged marriage, starting a new life They're being blackmailed
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Corvus Quicksilver the Broken (Professional - Mentor)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Can hear the thoughts of others

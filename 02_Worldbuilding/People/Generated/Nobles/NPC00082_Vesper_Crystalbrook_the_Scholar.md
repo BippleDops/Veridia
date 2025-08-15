@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Crystalbrook the Scholar", "vesper crystalbrook the scholar", "Vesper Crystalbrook Scholar", "Scholar the Crystalbrook Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Crystalbrook the Scholar
 
 *Genasi Ambassador (Nobles), Age 28, Male*
@@ -13,7 +19,6 @@
 Below average and wiry, with Braided elaborately white hair and Red eyes. Dark skin. Missing finger on left hand.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Never uses people's real names; Collects unusual and worthless objects; Always tells the absolute truth
@@ -36,7 +41,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Survive until next week
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Idris Lightbringer (Personal - Best friend)
 - **Status**: Strained but maintaining
@@ -52,16 +56,13 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
 
-
 ### Hestara Xendar the Scholar (Political - Opposition)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Wynne Goldleaf (Family - Spouse)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Child from scandalous affair

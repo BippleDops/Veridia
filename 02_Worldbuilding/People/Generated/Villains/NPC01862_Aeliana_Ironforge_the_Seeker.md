@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Ironforge the Seeker", "aeliana ironforge the seeker", "Aeliana Ironforge Seeker", "Seeker the Ironforge Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Ironforge the Seeker
 
 *Firbolg Crime Boss (Villains), Age 64, Male*
@@ -35,7 +41,6 @@ Driven mad by knowledge humanity wasn't meant to know They've fallen in love wit
 ### Goals
 - **Short Term**: Sabotage competition
 - **Long Term**: Gain ultimate power
-
 
 ## Relationships
 ### Ysara Voidwalker the Swift (Political - Spy)

@@ -1,3 +1,9 @@
+---
+aliases: ["Pure Herb of Fortune", "pure herb of fortune", "Fortune of Herb Pure"]
+tags: [item, equipment]
+type: item
+---
+
 # Pure Herb of Fortune
 
 *Consumables, Common*
@@ -13,8 +19,6 @@ A pure herb glowing softly
 ## Properties
 - Fly for 1 hour
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -29,7 +33,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.448Z*

@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Goldleaf the Mystic", "gareth goldleaf the mystic", "Gareth Goldleaf Mystic", "Mystic the Goldleaf Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Goldleaf the Mystic
 
 *Half-Orc Broker (Merchants), Age 35, Male*
@@ -36,22 +42,18 @@ Built their business from nothing through cunning and hard work They're being bl
 - **Short Term**: Gather information
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Thalia Emberfall the Mystic (Criminal - Handler)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Urien Winterborn the Scholar (Political - Puppet)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
 
-
 ### Malakai Jadeclaw the Cunning (Family - Sibling)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Running a cult from their basement

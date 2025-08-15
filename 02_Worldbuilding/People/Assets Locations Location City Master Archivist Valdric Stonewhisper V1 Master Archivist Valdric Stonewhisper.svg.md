@@ -201,3 +201,9 @@ This NPC can serve multiple roles:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-salvage-master-ironwork-salvage-master-ironwork.svg]]
+- [[Assets Symbols Symbol Heraldry Acoustic Infection Acoustic Infection.svg]]
+- [[04_Resources_Assets_Locations_location-city-professor-reef-growthseeker-v1-professor-reef-growthseeker.svg]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Lightbringer the Seeker", "wynne lightbringer the seeker", "Wynne Lightbringer Seeker", "Seeker the Lightbringer Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Lightbringer the Seeker
 
 *Human Farmer (Commoners), Age 26, Female*
@@ -42,16 +48,13 @@ Survivor of a disaster that destroyed their village An old debt has come due at 
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Alaric Crystalbrook the Fallen (Family - Spouse)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
 
-
 ### Jorah Moonshadow the Broken (Family - Parent)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ### Alaric Goldleaf (Professional - Partner)
 - **Status**: Mutually beneficial
@@ -62,11 +65,9 @@ Survivor of a disaster that destroyed their village An old debt has come due at 
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Kaelen Frostwhisper the Broken (Personal - Ex-lover)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Witnessed a noble's crime

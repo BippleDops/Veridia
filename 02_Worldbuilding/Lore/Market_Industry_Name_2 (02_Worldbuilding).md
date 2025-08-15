@@ -331,6 +331,5 @@ Mentioned in The First Prophecy of Depths
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*

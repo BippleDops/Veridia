@@ -66,3 +66,18 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Parliamentary Ethics Committee (Government_and_Parliament)]]
+- [[Journey Board (Lore)]]
+- [[Problems Time Stream Disruptions]]
+- [[The Departed Collective]]
+- [[NPC00042_Vesper_Grimholt]]
+- [[The Soul Market]]
+- [[The Pearl Markets]]
+- [[Symbol Heraldry Crystal Wardens V1 Crystal Wardens.svg]]
+- [[Symbol Heraldry Information Broker Whisper Goldtongu V1 Information Broker Whisper Goldtongu.svg]]
+- [[fractal-mascot-scc (construct)]]
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]

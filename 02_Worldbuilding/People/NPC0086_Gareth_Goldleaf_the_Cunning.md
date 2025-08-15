@@ -1,11 +1,11 @@
 ---
+aliases: ["Gareth Goldleaf the Cunning", "gareth goldleaf the cunning", "Gareth Goldleaf Cunning", "Cunning the Goldleaf Gareth"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -77,8 +77,6 @@ Child of farmers who sought adventure. Years ago, they once saved a noble's life
 ### Skills
 Deception, Insight
 
-
-
 ## Possessions
 - 48 gold pieces
 - Map to unknown location
@@ -92,7 +90,6 @@ Deception, Insight
 
 ---
 *Generated: 2025-08-15T03:21:04.035Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

@@ -102,3 +102,8 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Locations Location City Keeper Valdris Goldvault Keeper Valdris Goldvault.svg]]
+- [[Assets Locations Location City Terminal Master Hadrian Depthbridge V1 Terminal Master Hadrian Depthbridge.svg]]

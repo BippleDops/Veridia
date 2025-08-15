@@ -111,7 +111,6 @@ This content can be adapted and expanded based on specific campaign needs.
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## See Also
 - Related content
 - Similar topics
@@ -120,3 +119,7 @@ This content can be adapted and expanded based on specific campaign needs.
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition
+
+## References
+
+- [[Campaign Quick Reference Sheets (02_Worldbuilding)]]

@@ -1,4 +1,5 @@
 ---
+aliases: ["Glorious Blade of Shadows", "glorious blade of shadows", "Shadows of Blade Glorious"]
 tags: [generated]
 id: ITEM0134
 created: 2025-08-15T04:09:51.120Z
@@ -19,8 +20,6 @@ Crafted from darkwood with ancient symbols, in recently restored. It emanates a 
 
 ## Quirk
 *Hums when enemies are near*
-
-
 
 ## History
 This item was hidden away by its last owner decades ago. It has passed through many hands, each leaving their mark upon its destiny.

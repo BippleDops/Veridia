@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Xendar the Scholar", "pyria xendar the scholar", "Pyria Xendar Scholar", "Scholar the Xendar Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Xendar the Scholar
 
 *Genasi Heir (Nobles), Age 60, Female*
@@ -36,22 +42,18 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Survive until next week
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Brenna Youngblood (Criminal - Handler)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Thalia Proudmore (Family - Child)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Ewan Jadeclaw (Family - Spouse)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

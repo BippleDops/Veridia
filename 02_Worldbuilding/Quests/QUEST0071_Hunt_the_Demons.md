@@ -1,4 +1,5 @@
 ---
+aliases: ["Hunt the Demons", "hunt the demons", "Hunt Demons", "Demons the Hunt"]
 tags: [generated]
 id: QUEST0071
 created: 2025-08-15T04:09:51.404Z
@@ -22,8 +23,6 @@ Gain access to the sunken temple and complete the ritual
 ### Secondary
 - Rescue any prisoners found
 - Recover additional valuable items
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they was falsely accused of a crime, which changed their life forever. Now, circumstances demand immediate action.
@@ -59,8 +58,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Show mercy and gain intel - Future ally but justice denied
 2. Execute for crimes committed - Justice served but opportunity lost
-
-
 
 ## Rewards
 ### On Success

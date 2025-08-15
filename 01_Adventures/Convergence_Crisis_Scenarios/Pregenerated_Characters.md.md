@@ -55,3 +55,8 @@ Actively involved in current events, pursuing their own agenda while maintaining
 
 ## DM Notes
 *This NPC can serve multiple roles depending on campaign needs. Their true loyalties are intentionally ambiguous.*
+
+## References
+
+- [[Convergence Crisis Scenarios Index]]
+- [[Convergence_Crisis_Scenarios_Index (D&D_Sourcebooks)]]

@@ -735,3 +735,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[The Bathyal Palace]]
+- [[The Bathyal Palace (D&D_References)]]

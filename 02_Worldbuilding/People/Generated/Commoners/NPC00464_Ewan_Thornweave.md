@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Thornweave", "ewan thornweave", "Thornweave Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Thornweave
 
 *Dragonborn Carpenter (Commoners), Age 33, Male*
@@ -36,7 +42,6 @@ Runaway from an arranged marriage, starting a new life They're being blackmailed
 - **Short Term**: Make this month's payment
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Xander Brightblade the Wanderer (Family - Child)
 - **Status**: Strong and trusting
@@ -52,11 +57,9 @@ Runaway from an arranged marriage, starting a new life They're being blackmailed
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
 
-
 ### Fiora Youngblood the Wise (Political - Patron)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ### Malakai Emberfall the Scholar (Family - Cousin)
 - **Status**: On the verge of collapse

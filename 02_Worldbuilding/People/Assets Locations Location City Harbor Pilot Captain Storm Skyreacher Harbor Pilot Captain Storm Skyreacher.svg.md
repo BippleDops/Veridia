@@ -223,3 +223,9 @@ This NPC can serve multiple roles:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-border-fortresses-border-fortresses.svg]]
+- [[04_Resources_Assets_Symbols_symbol-heraldry-master-trader-darkmarke-master-trader-darkmarke.svg]]
+- [[Assets Symbols Symbol Heraldry Magical Component Manufacturers Guil Magical Component Manufacturers Guil.svg]]

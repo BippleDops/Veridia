@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-coral-empress-scarletina-coral-empress-scarletina.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -191,7 +189,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -261,3 +258,12 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City Master Trader Abyss Currentbinder V1 Master Trader Abyss Currentbinder.svg]]
+- [[Assets Locations Location City Temple of Sacred Dreams Temple of Sacred Dreams.svg]]
+- [[Coral Throne Syndicate HQ]]
+- [[Coral Throne Syndicate]]
+- [[Coral Throne Syndicate (D&D_References)]]
+- [[Coral Throne Syndicate HQ (D&D_References)]]

@@ -94,3 +94,7 @@ improvements: 20
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
+
+## References
+
+- [[Crystal-Corruption-Tracking-Sheet]]

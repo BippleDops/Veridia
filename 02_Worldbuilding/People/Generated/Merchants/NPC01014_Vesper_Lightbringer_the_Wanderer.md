@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Lightbringer the Wanderer", "vesper lightbringer the wanderer", "Vesper Lightbringer Wanderer", "Wanderer the Lightbringer Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Lightbringer the Wanderer
 
 *Dragonborn Shopkeeper (Merchants), Age 62, Male*
@@ -36,27 +42,22 @@ Uses their business as cover for other activities They've been marked by a secre
 - **Short Term**: Sabotage competition
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Lyanna Ashford the Bold (Professional - Partner)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Aldric Ironforge the Wise (Professional - Employee)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ### Fiora Frostwhisper the Swift (Family - Spouse)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
 
-
 ### Thalia Nightfall the Swift (Personal - Love interest)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
-
 
 ### Alaric Thornweave the Guardian (Family - Spouse)
 - **Status**: Strong and trusting

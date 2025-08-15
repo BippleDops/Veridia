@@ -1,4 +1,5 @@
 ---
+aliases: ["Eldritch Bolt", "eldritch bolt", "Bolt Eldritch"]
 tags: [generated]
 id: SPELL0002_Eldritch_Bolt
 created: 2025-08-15T04:09:51.466Z

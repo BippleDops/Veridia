@@ -1,8 +1,8 @@
 ---
+aliases: ["Gareth Stormwind", "gareth stormwind", "Stormwind Gareth"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -73,8 +73,6 @@ Child of farmers who sought adventure. Years ago, they accidentally discovered a
 ### Skills
 Athletics, Stealth, Investigation, Arcana
 
-
-
 ## Possessions
 - 13 gold pieces
 - Lucky dice
@@ -87,7 +85,6 @@ Athletics, Stealth, Investigation, Arcana
 
 ---
 *Generated: 2025-08-15T03:20:13.072Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

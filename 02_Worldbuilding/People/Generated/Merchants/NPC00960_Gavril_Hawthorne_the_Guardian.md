@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Hawthorne the Guardian", "gavril hawthorne the guardian", "Gavril Hawthorne Guardian", "Guardian the Hawthorne Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Hawthorne the Guardian
 
 *Firbolg Appraiser (Merchants), Age 64, Male*
@@ -36,17 +42,14 @@ Built their business from nothing through cunning and hard work A prophetic drea
 - **Short Term**: Sabotage competition
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Caelum Quicksilver the Cunning (Professional - Mentor)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Felicia Brightblade the Wise (Personal - Love interest)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ### Zephyr Xendar the Bold (Family - Sibling)
 - **Status**: On the verge of collapse

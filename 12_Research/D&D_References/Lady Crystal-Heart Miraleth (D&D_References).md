@@ -59,3 +59,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A journal reveals a conspiracy about the government
 - Strange dreams suggest a portal
 - The authorities needs help delivering before dawn
+
+## References
+
+- [[The Queen]]
+- [[The Queen (D&D_References)]]
+- [[The Queen 3 (D&D_References)]]

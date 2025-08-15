@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Nightfall the Mystic", "delara nightfall the mystic", "Delara Nightfall Mystic", "Mystic the Nightfall Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Nightfall the Mystic
 
 *Tiefling Caravan Master (Merchants), Age 58, Male*
@@ -36,32 +42,26 @@ Built their business from nothing through cunning and hard work They've made a d
 - **Short Term**: Recruit new members
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Felicia Grimholt the Scholar (Personal - Love interest)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Aldric Thornweave the Strong (Professional - Rival)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ### Gareth Ironwood the Cunning (Political - Spy)
 - **Status**: Professional only
 - **History**: United by common enemy
 
-
 ### Caelum Grimholt the Bold (Family - Sibling)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Corvus Jadeclaw the Redeemed (Personal - Nemesis)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ### Erasmus Grimholt the Swift (Professional - Employee)
 - **Status**: Secretly hostile

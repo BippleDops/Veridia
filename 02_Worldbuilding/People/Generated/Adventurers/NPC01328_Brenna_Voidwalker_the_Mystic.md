@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Voidwalker the Mystic", "brenna voidwalker the mystic", "Brenna Voidwalker Mystic", "Mystic the Voidwalker Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Voidwalker the Mystic
 
 *Firbolg Wizard (Adventurers), Age 28, Non-binary*
@@ -13,7 +19,6 @@
 Below average and stocky, with Dreadlocks silver hair and Hazel eyes. Scarred skin. Unusual eye color for their race.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Never uses people's real names; Constantly quotes ancient texts
@@ -42,21 +47,17 @@ Accidentally gained powers and learning to control them Strange abilities have b
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Jorah Lightbringer the Fallen (Family - Parent)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
-
 
 ### Faelyn Jadeclaw the Guardian (Personal - Nemesis)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Corvus Thornweave the Swift (Professional - Partner)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Has died and been resurrected

@@ -205,7 +205,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 **Year 5-15 AS: The Commitment**
 - Water levels accelerate to 10 feet per year
 - Surface infrastructure begins comprehensive conversion to underwater functionality
-- Development of the first pressure-based currency and [[Economic System]]s
+- Development of the first pressure-based currency and [[Economic_System|Economic System]]s
 - Establishment of depth-stratified social hierarchies
 - Mass extinction of surface-dependent species, evolution of aquatic replacements
 
@@ -237,7 +237,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 **Year 35-50 AS: The New Order**
 - Establishment of stable underwater ecosystem and civilization
 - Development of inter-depth trade networks and [[Communication_Systems]]
-- Creation of the modern [[Aquabyssos Government]]al structure
+- Creation of the modern [[Aquabyssos_Government|Aquabyssos Government]]al structure
 - Full integration with deep-sea entities and ecosystems
 - Beginning of expansion into previously uninhabitable ocean trenches
 
@@ -378,7 +378,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 ### Social Structure Evolution
 
 **Pre-Drowning Hierarchy:**
-- Traditional monarchy with [[[[Noble House]]s]]
+- Traditional monarchy with [[Noble House|[[Noble House]]s]]
 - [[Merchant]] class controlling trade networks
 - Scholarly class maintaining knowledge
 - Artisan class creating technology and art
@@ -584,7 +584,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 
 ### Artifacts and Technology
 
-- [[Deep Archives]] - Complete record of Drowning process
+-  - Complete record of Drowning process
 - [[Memory Crystals]] - Technology preserving pre-Drowning experiences
 - [[The Pressure Crown]] - Symbol of successful adaptation
 - [[The Shadow Integration]] - Methods for managing corruption
@@ -643,3 +643,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Memory Alteration Consequences (D&D_References)]]
+- [[Thalassius the Wise (D&D_References)]]
+- [[Thalassius the Wise 3 (D&D_References)]]
+- [[The Queen (D&D_References)]]
+- [[The Queen 3 (D&D_References)]]

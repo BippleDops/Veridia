@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Winterborn the Guardian", "faelyn winterborn the guardian", "Faelyn Winterborn Guardian", "Guardian the Winterborn Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Winterborn the Guardian
 
 *Dragonborn Noble (Nobles), Age 55, Female*
@@ -13,7 +19,6 @@
 Short and athletic, with Long and flowing bald hair and Violet eyes. Pale skin. Intricate tattoos covering arms.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Collects unusual and worthless objects
@@ -36,17 +41,14 @@ Recently elevated to nobility through service, still learning courtly ways A fam
 - **Short Term**: Complete current contract
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Idris Voidwalker the Risen (Professional - Rival)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Pyria Silverleaf the Risen (Personal - Ex-lover)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ### Qadim Keenblade (Professional - Employer)
 - **Status**: Blood oath bound

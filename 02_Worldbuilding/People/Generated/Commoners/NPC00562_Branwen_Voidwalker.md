@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Voidwalker", "branwen voidwalker", "Voidwalker Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Voidwalker
 
 *Dragonborn Fisher (Commoners), Age 24, Female*
@@ -36,17 +42,14 @@ Former soldier trying to adjust to civilian life A prophetic dream has been haun
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Dara Nightfall the Wanderer (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Drusilla Silverleaf the Bold (Professional - Employer)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ### Thalia Youngblood the Fallen (Criminal - Handler)
 - **Status**: Complicated history
@@ -57,11 +60,9 @@ Former soldier trying to adjust to civilian life A prophetic dream has been haun
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Erasmus Quicksilver the Risen (Criminal - Fence)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Can hear the thoughts of others

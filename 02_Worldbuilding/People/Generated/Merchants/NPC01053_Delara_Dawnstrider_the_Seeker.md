@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Dawnstrider the Seeker", "delara dawnstrider the seeker", "Delara Dawnstrider Seeker", "Seeker the Dawnstrider Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Dawnstrider the Seeker
 
 *Dwarf Trader (Merchants), Age 23, Female*
@@ -36,17 +42,14 @@ Built their business from nothing through cunning and hard work They've fallen i
 - **Short Term**: Gather information
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Malakai Crystalbrook the Wanderer (Professional - Mentor)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Erasmus Blackstone the Scholar (Criminal - Fence)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
-
 
 ### Gareth Lightbringer the Bold (Political - Patron)
 - **Status**: Professional only

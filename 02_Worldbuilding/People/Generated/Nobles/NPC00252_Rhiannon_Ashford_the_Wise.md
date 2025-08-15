@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Ashford the Wise", "rhiannon ashford the wise", "Rhiannon Ashford Wise", "Wise the Ashford Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Ashford the Wise
 
 *Gnome Ambassador (Nobles), Age 24, Female*
@@ -41,7 +47,6 @@ Secretly adopted into nobility, living in fear of discovery A family member's de
 ### Felicia Darkwater (Family - Cousin)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ### Idris Crystalbrook the Scholar (Family - Sibling)
 - **Status**: One-sided affection

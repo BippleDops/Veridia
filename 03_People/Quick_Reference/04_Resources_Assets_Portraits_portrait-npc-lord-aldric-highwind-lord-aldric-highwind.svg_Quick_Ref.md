@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # 04_Resources_Assets_Portraits_portrait-npc-lord-aldric-highwind-lord-aldric-highwind.svg - Quick Reference
 
 ## Key Info

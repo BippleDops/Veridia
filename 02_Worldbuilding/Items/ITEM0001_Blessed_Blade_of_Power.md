@@ -1,4 +1,5 @@
 ---
+aliases: ["Blessed Blade of Power", "blessed blade of power", "Power of Blade Blessed"]
 tags: [generated]
 id: ITEM0001
 created: 2025-08-15T04:09:51.076Z
@@ -18,8 +19,6 @@ Crafted from blessed silver with intricate runes, in recently restored. It emana
 
 ## Quirk
 *Makes user sneeze in sunlight*
-
-
 
 ## History
 This item was blessed by the gods themselves centuries ago. It has passed through many hands, each leaving their mark upon its destiny.

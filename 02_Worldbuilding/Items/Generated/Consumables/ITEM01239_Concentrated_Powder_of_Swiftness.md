@@ -1,3 +1,9 @@
+---
+aliases: ["Concentrated Powder of Swiftness", "concentrated powder of swiftness", "Swiftness of Powder Concentrated"]
+tags: [item, equipment]
+type: item
+---
+
 # Concentrated Powder of Swiftness
 
 *Consumables, Common*
@@ -13,8 +19,6 @@ A concentrated powder emanating sweet fragrance
 ## Properties
 - Invisible for 10 minutes
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -29,7 +33,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.469Z*

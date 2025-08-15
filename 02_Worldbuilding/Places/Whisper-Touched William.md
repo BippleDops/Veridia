@@ -40,7 +40,7 @@ government: Oracular Authority
 location_name: Whisper-Touched William's Oracle Shrine
 location_type: Prophetic Shrine Complex
 notable_npcs:
-- '[[Whisper-Touched William's Oracle Shrine ([[Places]])]]'
+- '[[Places|Whisper-Touched William's Oracle Shrine ([[Places]])]]'
 - '[[Echo-Translator Vera (D&D_References)]]'
 - '[[Silent Guardian Marcus]]'
 - '[[Truth-Seeker Cornelius]]'
@@ -58,7 +58,7 @@ shadow_density: Low
 sub_locations:
 - '[[Npc]]'
 - '[[Gallery of Echoing Truths]]'
-- '[[[[The Silence]] Garden]]'
+- '[[The Silence|[[The Silence]] Garden]]'
 - '[[Prophecy Translation Center]]'
 - '[[William''s Living Quarters]]'
 temporal_stability: 40
@@ -88,7 +88,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -189,7 +189,7 @@ A workspace where William's assistants work to interpret and document his often 
 
 ### William's Living Quarters
 
-Private chambers designed to provide William with as much peace as possible while accommodating his unique needs. The quarters include sound dampening systems, [[Reality Anchoring]] devices, and emergency [[Communication Systems]] for when the whispers become overwhelming.
+Private chambers designed to provide William with as much peace as possible while accommodating his unique needs. The quarters include sound dampening systems, [[Reality Anchoring]] devices, and emergency [[Communication_Systems|Communication Systems]] for when the whispers become overwhelming.
 
 ### The Whispers
 
@@ -266,7 +266,7 @@ Three months before it was proposed, William prophesied: "Shadows will seek the 
 
 ### The Memory Merchant's Downfall
 
-William predicted the collapse of a major [[[[Memory Farmers]]|[[02 Worldbuilding]]/[[Groups]]/Memory Farmers]] operation six weeks before it occurred, warning: "Those who harvest remembrance will forget their own names."
+William predicted the collapse of a major [[Memory Farmers|[[Memory Farmers]]|[[02_Worldbuilding|02 Worldbuilding]]/[[Groups]]/Memory Farmers]] operation six weeks before it occurred, warning: "Those who harvest remembrance will forget their own names."
 
 ### The Recursive Warning
 
@@ -326,7 +326,7 @@ The government archive where William was transformed may contain other individua
 
 2. **The False Prophet:** Someone is spreading fake prophecies attributed to William, causing political and social chaos. Players must identify the impostor while protecting William's reputation and the shrine's credibility.
 
-### [[Moral Dilemmas]]
+### [[Moral_Dilemmas|Moral Dilemmas]]
 
 3. **The Terrible Truth:** William receives a prophecy that revealing a specific truth would prevent a disaster but destroy the lives of innocent people. Players must help decide whether the truth should be revealed and deal with the consequences of that choice.
 
@@ -344,7 +344,7 @@ The government archive where William was transformed may contain other individua
 
 8. **The Whisper Network:** Evidence emerges that there are other whisper-touched individuals hidden throughout [[Aquabyssos]]. Players must find these people and determine whether they represent a resource, a threat, or something else entirely.
 
-## [[[[Random Encounter]]s]] (d12)
+## [[Random Encounter|[[Random Encounter]]s]] (d12)
 
 | Roll | Encounter |
 |------|-----------|
@@ -420,7 +420,7 @@ Legends speak of Whisper Touched William as a nexus where past and present conve
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -451,13 +451,11 @@ Whisper-Touched William is a notable location characterized by its unique featur
 ### Founding
 Whisper-Touched William was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -465,13 +463,11 @@ Whisper-Touched William was established in the distant past, growing from humble
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council

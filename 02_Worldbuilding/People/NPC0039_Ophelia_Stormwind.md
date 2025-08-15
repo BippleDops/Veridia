@@ -1,11 +1,11 @@
 ---
+aliases: ["Ophelia Stormwind", "ophelia stormwind", "Stormwind Ophelia"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -80,7 +80,6 @@ Investigation, Stealth
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 74 gold pieces
 - Lucky dice
@@ -93,7 +92,6 @@ Investigation, Stealth
 
 ---
 *Generated: 2025-08-15T03:21:04.031Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

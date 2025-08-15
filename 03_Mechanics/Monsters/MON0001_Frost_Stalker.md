@@ -1,4 +1,5 @@
 ---
+aliases: ["Frost Stalker", "frost stalker", "Stalker Frost"]
 tags: [generated]
 id: MON0001_Frost_Stalker
 created: 2025-08-15T04:09:51.421Z
@@ -26,7 +27,6 @@ A guardian entity bound to protect sacred sites
 
 ---
 *Generated: 2025-08-15T03:21:47.461Z*
-
 
 ## Habitat
 - Natural environment and territories

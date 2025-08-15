@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Xendar the Redeemed", "wynne xendar the redeemed", "Wynne Xendar Redeemed", "Redeemed the Xendar Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Xendar the Redeemed
 
 *Gnome Heir (Nobles), Age 62, Non-binary*
@@ -36,7 +42,6 @@ Exiled from their homeland, trying to rebuild their power base They recently dis
 - **Short Term**: Complete current contract
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Zephyr Nightfall (Professional - Employer)
 - **Status**: Secretly hostile
@@ -47,21 +52,17 @@ Exiled from their homeland, trying to rebuild their power base They recently dis
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Idris Winterborn the Bold (Family - Sibling)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ### Ysara Winterborn the Wise (Professional - Mentor)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
 
-
 ### Fiora Emberfall the Cunning (Family - Parent)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Secretly funding the rebellion

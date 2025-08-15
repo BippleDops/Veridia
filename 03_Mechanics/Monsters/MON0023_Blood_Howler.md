@@ -1,4 +1,5 @@
 ---
+aliases: ["Blood Howler", "blood howler", "Howler Blood"]
 tags: [generated]
 id: MON0023_Blood_Howler
 created: 2025-08-15T04:09:51.427Z
@@ -26,7 +27,6 @@ A creature from another plane of existence
 
 ---
 *Generated: 2025-08-15T03:21:47.463Z*
-
 
 ## Habitat
 - Natural environment and territories

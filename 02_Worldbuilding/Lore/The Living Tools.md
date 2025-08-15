@@ -307,6 +307,5 @@ Mentioned in The Hidden Prophecy of Depths
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*

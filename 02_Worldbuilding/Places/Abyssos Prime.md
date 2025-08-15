@@ -75,13 +75,11 @@ This document contains important information regarding Abyssos Prime and its rol
 ## Description
 Abyssos Prime represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -89,20 +87,17 @@ Abyssos Prime represents a significant element within the campaign world, offeri
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
 
-
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
 - **Law Enforcement**: Town guard
 - **Justice System**: Local magistrate
-
 
 ## Economy
 - **Primary Exports**: Local goods
@@ -149,7 +144,6 @@ Recommended tracks:
 - dark_capital.wav
 - sunken_palace.mp3
 
-
 ## History
 - **Founding**: Origin story
 - **Major Events**: Historical significance
@@ -189,3 +183,130 @@ Recommended tracks:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Major Trading Companies]]
+- [[Abyssal Academy]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Ancient Aquabyssos Rulers]]
+- [[Comprehensive-World-Connection-Guide]]
+- [[Fortress of the Deeps]]
+- [[The Grand Trade Routes]]
+- [[Timeline of the Drowning]]
+- [[Marina Red Tide Coralheart - Aquabyssos]]
+- [[Senator Glaucus]]
+- [[Tenebrarum Ambassadors]]
+- [[Throne of Bubbles]]
+- [[Unite the Emperor]]
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Abyssos Prime Docks]]
+- [[Abyssos Prime Upper Districts]]
+- [[Azure Citadel]]
+- [[Blood Current Express]]
+- [[Concierge Phillip Gracewater]]
+- [[Crystallium Embassy]]
+- [[Crystallium]]
+- [[Depth Warden Patrol]]
+- [[Depth Wardens]]
+- [[Doctor Coral Shapeshift]]
+- [[Memorial District of Abyssos Prime]]
+- [[Memoriam - The Forgotten Continent]]
+- [[Memory Farmers]]
+- [[Memory Thief]]
+- [[Mourning Depths]]
+- [[Noble Quarter]]
+- [[Parliament of Echoes (Places)]]
+- [[Pressure Terminal]]
+- [[Pressure Tubes]]
+- [[Royal Palace]]
+- [[Screaming Gardens]]
+- [[Sister Morwyn]]
+- [[Supplier Erikson Tidecaller]]
+- [[Surface Tensions]]
+- [[Temple Guardian Marcus the Drowned]]
+- [[Tethyan Hegemony]]
+- [[The Deepwater Current]]
+- [[The Depth Market]]
+- [[The Eternal Senate]]
+- [[The Floating Markets of Nereidios]]
+- [[The Foundation Depths]]
+- [[The Free Current]]
+- [[The Kraken's Harbor]]
+- [[The Lock]]
+- [[The Recursion Cult]]
+- [[The Shrinking Sanctuary]]
+- [[The Sinking Atoll]]
+- [[The Temple of Eternal Tides]]
+- [[The Void Touched Depths]]
+- [[Theological Warfare]]
+- [[Void Currents]]
+- [[Whisper-Touched William]]
+- [[The Lock Saboteur]]
+- [[The Maw of Darkness]]
+- [[Aquabyssos World Map]]
+- [[Abyssal Academy (D&D_References)]]
+- [[Abyssos Prime - Pressure Terminal (D&D_References)]]
+- [[Abyssos Prime Docks (D&D_References)]]
+- [[Abyssos Prime Upper Districts (D&D_References)]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide (D&D_References)]]
+- [[Ancient Aquabyssos Rulers (D&D_References)]]
+- [[Aquabyssos (D&D_References)]]
+- [[Aquabyssos - Session 05 - Descent into Darkness]]
+- [[Azure Citadel (D&D_References)]]
+- [[Blood Current Express (D&D_References)]]
+- [[Concierge Phillip Gracewater (D&D_References)]]
+- [[Crystallium (D&D_References)]]
+- [[Depth Wardens (D&D_References)]]
+- [[Doctor Coral Shapeshift (D&D_References)]]
+- [[Fortress of the Deeps (D&D_References)]]
+- [[Major Trading Companies (D&D_References)]]
+- [[Marina Red Tide Coralheart - Aquabyssos (D&D_References)]]
+- [[Memory Farmers (D&D_References)]]
+- [[Mourning Depths (D&D_References)]]
+- [[Parliament of Echoes (D&D_References)]]
+- [[Pressure Tubes (D&D_References)]]
+- [[Royal Palace (D&D_References)]]
+- [[Screaming Gardens (D&D_References)]]
+- [[Senator Glaucus (D&D_References)]]
+- [[Sister Morwyn (D&D_References)]]
+- [[Supplier Erikson Tidecaller (D&D_References)]]
+- [[Surface Tensions (D&D_References)]]
+- [[Temple Guardian Marcus the Drowned (D&D_References)]]
+- [[Tethyan Hegemony (D&D_References)]]
+- [[The Deepwater Current (D&D_References)]]
+- [[The Depth Market (D&D_References)]]
+- [[The Eternal Senate (D&D_References)]]
+- [[The Floating Markets of Nereidios (D&D_References)]]
+- [[The Free Current (D&D_References)]]
+- [[The Grand Trade Routes (D&D_References)]]
+- [[The Kraken's Harbor (D&D_References)]]
+- [[The Lock (D&D_References)]]
+- [[The Senator's Last Stand]]
+- [[The Shrinking Sanctuary (D&D_References)]]
+- [[The Sinking Atoll (D&D_References)]]
+- [[The Temple of Eternal Tides (D&D_References)]]
+- [[Theological Warfare (D&D_References)]]
+- [[Tide Turner's Trident]]
+- [[Timeline of the Drowning (D&D_References)]]
+- [[Timeline of the Drowning 3 (D&D_References)]]
+- [[Unite the Emperor (D&D_References)]]
+- [[Void Currents (D&D_References)]]
+- [[Whisper-Touched William (D&D_References)]]
+- [[Aquabyssos - Session 01 - The Drowning Welcome]]
+- [[Depth Warden Patrol (D&D_Statblocks)]]
+- [[Discover the Singers Beyond (D&D_Statblocks)]]
+- [[Memory Thief (D&D_Statblocks)]]
+- [[Noble Quarter (D&D_Statblocks)]]
+- [[Pressure Terminal (D&D_Statblocks)]]
+- [[Tenebrarum Ambassadors (D&D_Statblocks)]]
+- [[The Deepmind (D&D_Statblocks)]]
+- [[The Foundation Depths (D&D_Statblocks)]]
+- [[The Lock Saboteur (D&D_Statblocks)]]
+- [[The Maw of Darkness (D&D_Statblocks)]]
+- [[The Void Touched Depths (D&D_Statblocks)]]
+- [[Throne of Bubbles (D&D_Statblocks)]]
+- [[Traveling Merchant Finn (D&D_Statblocks)]]
+- [[Topic Matrix]]
+- [[Topic_Matrix (Indexes)]]

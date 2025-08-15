@@ -1,3 +1,9 @@
+---
+aliases: ["Blessed Spear of Power", "blessed spear of power", "Power of Spear Blessed"]
+tags: [item, equipment]
+type: item
+---
+
 # Blessed Spear of Power
 
 *Weapons, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A blessed spear forged from meteoric iron
 - Grants advantage on initiative
 - Returns when thrown
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -31,7 +35,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.366Z*

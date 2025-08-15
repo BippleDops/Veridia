@@ -116,3 +116,33 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Death Slaad Xmm]]
+- [[Githyanki Dracomancer Xmm]]
+- [[Githyanki Knight Xmm]]
+- [[Gray Slaad Xmm]]
+- [[Ixitxachitl Cleric Oota]]
+- [[Vampiric Ixitxachitl Cleric Oota]]
+- [[death-slaad-xmm (aberration)]]
+- [[githyanki-dracomancer-xmm (aberration)]]
+- [[githyanki-knight-xmm (aberration)]]
+- [[gray-slaad-xmm (aberration)]]
+- [[ixitxachitl-cleric-oota (aberration)]]
+- [[vampiric-ixitxachitl-cleric-oota (aberration)]]
+- [[Sphinx of Lore Xmm]]
+- [[sphinx-of-lore-xmm (celestial)]]
+- [[Dao Xmm]]
+- [[Efreeti Xmm]]
+- [[Marid Xmm]]
+- [[dao-xmm (elemental)]]
+- [[efreeti-xmm (elemental)]]
+- [[marid-xmm (elemental)]]
+- [[Sahuagin Priest Xmm]]
+- [[sahuagin-priest-xmm (fiend)]]
+- [[Cloud Giant Smiling One Mpmm]]
+- [[cloud-giant-smiling-one-mpmm (giant)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]

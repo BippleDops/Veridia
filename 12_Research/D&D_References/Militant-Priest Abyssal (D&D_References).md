@@ -67,3 +67,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A shipment has gone missing and evil awakens
 - A noble needs help stealing before winter
 - Strange sightings suggest a conspiracy
+
+## References
+
+- [[The Restoration Movement]]
+- [[The Heart of Oceanus]]
+- [[The Restoration Movement (D&D_References)]]
+- [[The Heart of Oceanus (D&D_Statblocks)]]

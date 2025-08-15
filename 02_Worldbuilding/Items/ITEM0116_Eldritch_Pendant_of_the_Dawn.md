@@ -1,4 +1,5 @@
 ---
+aliases: ["Eldritch Pendant of the Dawn", "eldritch pendant of the dawn", "Eldritch Pendant of Dawn", "Dawn the of Pendant Eldritch"]
 tags: [generated]
 id: ITEM0116
 created: 2025-08-15T04:09:51.114Z

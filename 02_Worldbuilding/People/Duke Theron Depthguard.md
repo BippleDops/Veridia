@@ -36,12 +36,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-duke-theron-depthguard-duke-theron-depthguard.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -280,7 +278,6 @@ Mentioned in The Second Prophecy of Winds
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -316,3 +313,9 @@ Mentioned in The Second Prophecy of Winds
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City the Drowned Embassy the Drowned Embassy.svg]]
+- [[Noble Quarter]]
+- [[Noble Quarter (D&D_Statblocks)]]

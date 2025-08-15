@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Ironforge the Scholar", "gavril ironforge the scholar", "Gavril Ironforge Scholar", "Scholar the Ironforge Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Ironforge the Scholar
 
 *Half-Elf Bard (Adventurers), Age 70, Male*
@@ -36,22 +42,18 @@ Chosen by fate to fulfill an ancient prophecy A chance encounter last winter cha
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Alaric Lightbringer the Cunning (Criminal - Target)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Baelor Moonshadow the Cunning (Personal - Best friend)
 - **Status**: Professional only
 - **History**: United by common enemy
 
-
 ### Idris Silverleaf the Mystic (Professional - Employer)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Secretly working for the villain

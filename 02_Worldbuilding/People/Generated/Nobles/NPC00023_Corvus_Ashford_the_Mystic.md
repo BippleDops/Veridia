@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Ashford the Mystic", "corvus ashford the mystic", "Corvus Ashford Mystic", "Mystic the Ashford Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Ashford the Mystic
 
 *Tabaxi Heir (Nobles), Age 58, Male*
@@ -36,12 +42,10 @@ Last survivor of a fallen house, seeking to restore family honor They're being b
 - **Short Term**: Recruit new members
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Wynne Xendar (Professional - Employer)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ### Drusilla Thornweave (Criminal - Informant)
 - **Status**: Secretly hostile
@@ -51,7 +55,6 @@ Last survivor of a fallen house, seeking to restore family honor They're being b
 ### Baelor Voidwalker (Family - Spouse)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ### Gavril Xendar (Personal - Childhood friend)
 - **Status**: Strong and trusting

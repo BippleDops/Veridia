@@ -168,3 +168,8 @@ Shard-Touched Artifacts is a ancient armor that radiates powerful magic.
 
 ### Curse (if applicable)
 - *[Negative effects]*
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Session 09 the Shard Convergence]]

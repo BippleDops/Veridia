@@ -45,3 +45,32 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[10 Appendix B Creature Stat Blocks]]
+- [[10-appendix-b-creature-stat-blocks (players-handbook-2024)]]
+- [[Pact of the Chain Xphb]]
+- [[pact-of-the-chain-xphb (optional-features)]]
+- [[Coastal Encounters Levels 14 Xge]]
+- [[Desert Encounters Levels 14 Xge]]
+- [[Forest Encounters Levels 14 Xge]]
+- [[Monsters by Habitat Coastal Monsters Xmm]]
+- [[Monsters by Habitat Forest Monsters Xmm]]
+- [[Monsters by Habitat Hill Monsters Xmm]]
+- [[Monsters by Habitat Mountain Monsters Xmm]]
+- [[Monsters by Habitat Urban Monsters Xmm]]
+- [[Urban Encounters Levels 14 Xge]]
+- [[coastal-encounters-levels-14-xge (tables)]]
+- [[desert-encounters-levels-14-xge (tables)]]
+- [[forest-encounters-levels-14-xge (tables)]]
+- [[monsters-by-habitat-coastal-monsters-xmm (tables)]]
+- [[monsters-by-habitat-forest-monsters-xmm (tables)]]
+- [[monsters-by-habitat-hill-monsters-xmm (tables)]]
+- [[monsters-by-habitat-mountain-monsters-xmm (tables)]]
+- [[monsters-by-habitat-urban-monsters-xmm (tables)]]
+- [[urban-encounters-levels-14-xge (tables)]]
+- [[Familiars Mm]]
+- [[Familiars Vgm]]
+- [[familiars-mm (variant-rules)]]
+- [[familiars-vgm (variant-rules)]]

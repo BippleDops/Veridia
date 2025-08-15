@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Lightbringer the Swift", "fiora lightbringer the swift", "Fiora Lightbringer Swift", "Swift the Lightbringer Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Lightbringer the Swift
 
 *Tiefling Cultist (Villains), Age 19, Male*
@@ -13,7 +19,6 @@
 Very short and imposing, with Wild and unkempt black hair and Hazel eyes. Dark skin. Gold tooth that glints when smiling.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Always hungry and eating something
@@ -36,7 +41,6 @@ Driven mad by knowledge humanity wasn't meant to know A family member's death ha
 - **Short Term**: Avoid the authorities
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Cedric Emberfall the Guardian (Professional - Employer)
 - **Status**: Mutually beneficial
@@ -47,11 +51,9 @@ Driven mad by knowledge humanity wasn't meant to know A family member's death ha
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
 
-
 ### Dara Winterborn the Risen (Professional - Partner)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
-
 
 ### Solas Ironwood the Scholar (Political - Puppet)
 - **Status**: Recently reconciled
@@ -61,7 +63,6 @@ Driven mad by knowledge humanity wasn't meant to know A family member's death ha
 ### Erasmus Moonshadow the Scholar (Political - Ally)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Has a child they're protecting

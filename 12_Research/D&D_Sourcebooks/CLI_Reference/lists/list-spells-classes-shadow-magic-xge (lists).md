@@ -76,7 +76,6 @@ Mentioned in The First Prophecy of Depths
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -95,4 +94,4 @@ Mentioned in The First Prophecy of Depths
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[list-spells-classes-shadow-magic-xge (lists)-phb]]` in CLI_Reference/spells/
+See: `[[classes|list-spells-classes-shadow-magic-xge (lists)-phb]]` in CLI_Reference/spells/

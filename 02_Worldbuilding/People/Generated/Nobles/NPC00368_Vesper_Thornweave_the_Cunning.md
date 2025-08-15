@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Thornweave the Cunning", "vesper thornweave the cunning", "Vesper Thornweave Cunning", "Cunning the Thornweave Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Thornweave the Cunning
 
 *Halfling Ambassador (Nobles), Age 68, Non-binary*
@@ -36,12 +42,10 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Complete current contract
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Rhiannon Silverleaf (Political - Puppet)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ### Branwen Ashford (Personal - Love interest)
 - **Status**: Strained but maintaining
@@ -51,7 +55,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 ### Caelum Winterborn the Scholar (Professional - Employer)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Actually a bastard with no real claim

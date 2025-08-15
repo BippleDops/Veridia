@@ -105,7 +105,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -124,4 +123,10 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[starry-wisp-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[spells|starry-wisp-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Druid Xphb Circle of the Moon Xphb]]
+- [[druid-xphb-circle-of-the-moon-xphb (classes)]]

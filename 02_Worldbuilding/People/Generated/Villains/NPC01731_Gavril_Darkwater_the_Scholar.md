@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Darkwater the Scholar", "gavril darkwater the scholar", "Gavril Darkwater Scholar", "Scholar the Darkwater Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Darkwater the Scholar
 
 *Halfling Cultist (Villains), Age 77, Non-binary*
@@ -36,17 +42,14 @@ Believes their evil acts serve a greater good A family member's death has left t
 - **Short Term**: Recruit new members
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Vesper Brightblade the Lost (Political - Patron)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Cedric Brightblade the Wanderer (Professional - Rival)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
-
 
 ### Malakai Proudmore the Risen (Professional - Rival)
 - **Status**: Professional only

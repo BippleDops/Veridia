@@ -123,3 +123,8 @@ Mentioned in The Second Prophecy of Depths
 - Someone is protecting an heir for love
 - Strange dreams suggest ancient magic
 - A document has gone missing and chaos spreads
+
+## References
+
+- [[04 Chapter 3 Character Classes]]
+- [[04-chapter-3-character-classes (players-handbook-2024)]]

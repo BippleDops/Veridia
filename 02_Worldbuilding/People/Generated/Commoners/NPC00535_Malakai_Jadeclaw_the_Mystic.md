@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Jadeclaw the Mystic", "malakai jadeclaw the mystic", "Malakai Jadeclaw Mystic", "Mystic the Jadeclaw Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Jadeclaw the Mystic
 
 *Tabaxi Blacksmith (Commoners), Age 71, Non-binary*
@@ -13,7 +19,6 @@
 Towering and wiry, with Shaved black hair and Amber eyes. Unusual hue skin. Missing finger on left hand.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Never uses people's real names; Always hungry and eating something
@@ -36,22 +41,18 @@ Grew up in poverty but discovered a talent that might change everything Strange 
 - **Short Term**: Recruit new members
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Elric Stormwind the Wise (Family - Sibling)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Fiora Lightbringer the Guardian (Professional - Partner)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Felicia Darkwater the Fallen (Political - Opposition)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
-
 
 ### Erasmus Winterborn (Professional - Mentor)
 - **Status**: On the verge of collapse
@@ -62,11 +63,9 @@ Grew up in poverty but discovered a talent that might change everything Strange 
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Urien Oakenshield the Guardian (Personal - Love interest)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Can hear the thoughts of others

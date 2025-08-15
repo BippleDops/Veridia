@@ -192,3 +192,8 @@ This NPC can serve multiple roles:
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-commerce-manager-fairdealin-commerce-manager-fairdealin.svg]]
+- [[04_Resources_Assets_Locations_location-city-captain-trawl-netcaster-captain-trawl-netcaster.svg]]

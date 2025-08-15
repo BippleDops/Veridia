@@ -97,7 +97,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -116,4 +115,27 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[nondetection-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[nondetection-xphb (spells)|nondetection-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Githyanki Dracomancer Xmm]]
+- [[Githyanki Knight Xmm]]
+- [[Githyanki Warrior Xmm]]
+- [[Neothelid Mpmm]]
+- [[Ulitharid Mpmm]]
+- [[githyanki-dracomancer-xmm (aberration)]]
+- [[githyanki-knight-xmm (aberration)]]
+- [[githyanki-warrior-xmm (aberration)]]
+- [[neothelid-mpmm (aberration)]]
+- [[ulitharid-mpmm (aberration)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Knowledge Domain]]
+- [[cleric-xphb-knowledge-domain (classes)]]
+- [[cleric-xphb-knowledge-domain 2 (classes)]]
+- [[Svirfneblin Magic Mtf]]
+- [[svirfneblin-magic-mtf (feats)]]
+- [[Gnome Deep Dmg]]
+- [[gnome-deep-dmg (races)]]

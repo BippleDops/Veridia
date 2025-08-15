@@ -102,7 +102,6 @@ Further information about this topic will be developed as the campaign progresse
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## Objectives
 - **Primary**: Main quest goal
 - **Optional**: Secondary objectives
@@ -170,3 +169,19 @@ Further information about this topic will be developed as the campaign progresse
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition
+
+## References
+
+- [[Quest_Dependency_System (01_Adventures)]]
+- [[Item Catalog Complete]]
+- [[Item_Catalog_Complete (Indexes)]]
+- [[Master_Narrative_Web (Indexes)]]
+- [[Monster Ecology Web]]
+- [[Topic Matrix]]
+- [[audio_fit_report]]
+- [[step_006_build_batch_processing]]
+- [[step_007_optimize_negative_prompts]]
+- [[step_009_build_location_pipeline]]
+- [[step_010_automate_item_illustrations]]
+- [[step_013_implement_battle_maps]]
+- [[step_015_build_portrait_gallery]]

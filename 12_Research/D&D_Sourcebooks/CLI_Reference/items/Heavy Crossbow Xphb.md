@@ -77,3 +77,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A journal reveals ancient history about the cult
 - A noble needs help investigating before winter
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Improved Pact Weapon Xge]]
+- [[improved-pact-weapon-xge (optional-features)]]
+- [[Weapons Phb]]
+- [[Weapons Xphb]]
+- [[weapons-phb (tables)]]
+- [[weapons-xphb (tables)]]

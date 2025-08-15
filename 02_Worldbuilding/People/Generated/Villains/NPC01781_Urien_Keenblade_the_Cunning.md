@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Keenblade the Cunning", "urien keenblade the cunning", "Urien Keenblade Cunning", "Cunning the Keenblade Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Keenblade the Cunning
 
 *Aasimar Cultist (Villains), Age 63, Female*
@@ -36,7 +42,6 @@ Born into evil but questioning their path An old debt has come due at the worst 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Fiora Winterborn the Redeemed (Personal - Nemesis)
 - **Status**: Recently reconciled
@@ -47,16 +52,13 @@ Born into evil but questioning their path An old debt has come due at the worst 
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Rhiannon Brightblade the Wise (Family - Child)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Qadim Ironforge the Bold (Criminal - Informant)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Is being controlled by darker force

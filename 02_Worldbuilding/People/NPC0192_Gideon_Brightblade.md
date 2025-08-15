@@ -1,11 +1,11 @@
 ---
+aliases: ["Gideon Brightblade", "gideon brightblade", "Brightblade Gideon"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -79,7 +79,6 @@ Perception, Insight, Stealth
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 16 gold pieces
 - Map to unknown location
@@ -93,7 +92,6 @@ Perception, Insight, Stealth
 
 ---
 *Generated: 2025-08-15T03:21:04.045Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

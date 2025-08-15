@@ -1,3 +1,9 @@
+---
+aliases: ["Blazing Spear of Slaying", "blazing spear of slaying", "Slaying of Spear Blazing"]
+tags: [item, equipment]
+type: item
+---
+
 # Blazing Spear of Slaying
 
 *Weapons, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A blazing spear made of crystallized magic
 - Grants advantage on initiative
 - Critical hits on 19-20
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -32,7 +36,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.353Z*

@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Ashford the Fallen", "gareth ashford the fallen", "Gareth Ashford Fallen", "Fallen the Ashford Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Ashford the Fallen
 
 *Gnome Dark Wizard (Villains), Age 19, Male*
@@ -13,7 +19,6 @@
 Very tall and stocky, with Partially shaved brown hair and Violet eyes. Fair skin. Gold tooth that glints when smiling.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Incredibly optimistic despite evidence; Never uses people's real names
@@ -42,16 +47,13 @@ Driven mad by knowledge humanity wasn't meant to know They've fallen in love wit
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
 
-
 ### Wynne Ashford the Swift (Professional - Rival)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Branwen Keenblade the Cunning (Family - Parent)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ### Nerys Xendar the Swift (Professional - Partner)
 - **Status**: Secretly hostile
@@ -61,7 +63,6 @@ Driven mad by knowledge humanity wasn't meant to know They've fallen in love wit
 ### Cedric Voidwalker the Risen (Personal - Love interest)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Was once a renowned hero

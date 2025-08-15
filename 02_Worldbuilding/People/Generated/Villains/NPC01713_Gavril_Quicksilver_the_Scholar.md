@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Quicksilver the Scholar", "gavril quicksilver the scholar", "Gavril Quicksilver Scholar", "Scholar the Quicksilver Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Quicksilver the Scholar
 
 *Gnome Corrupt Noble (Villains), Age 31, Non-binary*
@@ -36,7 +42,6 @@ Corrupted by an artifact or dark magic They recently discovered a secret that co
 - **Short Term**: Sabotage competition
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Felicia Winterborn the Fallen (Political - Patron)
 - **Status**: Professional only
@@ -47,11 +52,9 @@ Corrupted by an artifact or dark magic They recently discovered a secret that co
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Malakai Stormwind the Wanderer (Personal - Nemesis)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Was once a renowned hero

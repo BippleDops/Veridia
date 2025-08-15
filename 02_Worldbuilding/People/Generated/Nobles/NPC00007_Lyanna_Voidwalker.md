@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Voidwalker", "lyanna voidwalker", "Voidwalker Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Voidwalker
 
 *Tabaxi Aristocrat (Nobles), Age 61, Non-binary*
@@ -36,7 +42,6 @@ Secretly adopted into nobility, living in fear of discovery They recently discov
 - **Short Term**: Make this month's payment
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Alaric Youngblood the Swift (Professional - Partner)
 - **Status**: Strong and trusting
@@ -47,11 +52,9 @@ Secretly adopted into nobility, living in fear of discovery They recently discov
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Ysara Silverleaf (Criminal - Informant)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
-
 
 ### Aldric Hawthorne (Family - Cousin)
 - **Status**: Secretly hostile
@@ -66,7 +69,6 @@ Secretly adopted into nobility, living in fear of discovery They recently discov
 ### Rhiannon Brightblade the Bold (Professional - Partner)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Actually a bastard with no real claim

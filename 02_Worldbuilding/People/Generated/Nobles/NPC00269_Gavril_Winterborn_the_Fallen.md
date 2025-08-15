@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Winterborn the Fallen", "gavril winterborn the fallen", "Gavril Winterborn Fallen", "Fallen the Winterborn Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Winterborn the Fallen
 
 *Halfling Courtier (Nobles), Age 34, Non-binary*
@@ -13,7 +19,6 @@
 Towering and muscular, with Shaved blonde hair and Hazel eyes. Unusual hue skin. Burn scars on one side of face.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere
@@ -36,22 +41,18 @@ Exiled from their homeland, trying to rebuild their power base They recently dis
 - **Short Term**: Complete current contract
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Brenna Jadeclaw the Scholar (Professional - Employer)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Orion Thornweave (Personal - Nemesis)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
 
-
 ### Hilda Lightbringer (Criminal - Handler)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

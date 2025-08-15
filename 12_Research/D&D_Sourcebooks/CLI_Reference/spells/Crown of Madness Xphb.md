@@ -106,3 +106,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Mind Flayer Psion Vgm]]
+- [[mind-flayer-psion-vgm (aberration)]]
+- [[Guardian Portrait Cos]]
+- [[guardian-portrait-cos (construct)]]
+- [[Hydroloth Mpmm]]
+- [[hydroloth-mpmm (fiend)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Paladin Xphb Oathbreaker Dmg]]
+- [[paladin-xphb-oathbreaker-dmg (classes)]]
+- [[Eye and Hand of Vecna Xdmg]]
+- [[Eye of Vecna Xdmg]]
+- [[eye-and-hand-of-vecna-xdmg (items)]]
+- [[eye-of-vecna-xdmg (items)]]
+- [[Tiefling Baalzebul Mtf]]
+- [[tiefling-baalzebul-mtf (races)]]

@@ -1,4 +1,5 @@
 ---
+aliases: ["Divine Orb of Power", "divine orb of power", "Power of Orb Divine"]
 tags: [generated]
 id: ITEM0027
 created: 2025-08-15T04:09:51.085Z
@@ -19,8 +20,6 @@ Crafted from blessed silver with glowing gems, in ancient but unbreakable. It em
 
 ## Quirk
 *Vibrates near magic*
-
-
 
 ## History
 This item was corrupted by dark magic millennia ago. It has passed through many hands, each leaving their mark upon its destiny.

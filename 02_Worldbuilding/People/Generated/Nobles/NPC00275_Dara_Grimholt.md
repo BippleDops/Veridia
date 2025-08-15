@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Grimholt", "dara grimholt", "Grimholt Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Grimholt
 
 *Firbolg Aristocrat (Nobles), Age 60, Non-binary*
@@ -13,7 +19,6 @@
 Tall and stocky, with Partially shaved silver hair and Black eyes. Scarred skin. Missing ear from old battle.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Speaks to inanimate objects; Incredibly optimistic despite evidence
@@ -36,17 +41,14 @@ Last survivor of a fallen house, seeking to restore family honor A chance encoun
 - **Short Term**: Avoid the authorities
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Erasmus Grimholt the Scholar (Political - Patron)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Kaelen Oakenshield the Cunning (Criminal - Handler)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ### Delara Grimholt the Redeemed (Political - Spy)
 - **Status**: Complicated history
@@ -56,7 +58,6 @@ Last survivor of a fallen house, seeking to restore family honor A chance encoun
 ### Urien Quicksilver (Family - Cousin)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Actually a bastard with no real claim

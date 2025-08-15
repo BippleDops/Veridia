@@ -101,3 +101,8 @@ Different cultures interpret this lore through their own lens, creating variatio
 - A document has gone missing and truth emerges
 - Someone is blackmailing a witness for power
 - Strange sightings suggest a conspiracy
+
+## References
+
+- [[The Crown of Stars]]
+- [[The Crown of Stars (D&D_References)]]

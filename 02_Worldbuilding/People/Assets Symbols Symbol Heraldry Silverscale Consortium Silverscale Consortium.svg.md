@@ -203,3 +203,7 @@ This NPC can serve multiple roles:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-brother-matthias-inkdrinker-v1-brother-matthias-inkdrinker.svg]]

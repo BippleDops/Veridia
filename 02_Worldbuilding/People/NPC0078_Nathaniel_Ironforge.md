@@ -1,11 +1,11 @@
 ---
+aliases: ["Nathaniel Ironforge", "nathaniel ironforge", "Ironforge Nathaniel"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Child of farmers who sought adventure. Years ago, they made a deal they now regr
 ### Skills
 Persuasion, Arcana
 
-
-
 ## Possessions
 - 28 gold pieces
 - Book of poetry
@@ -89,7 +87,6 @@ Persuasion, Arcana
 
 ---
 *Generated: 2025-08-15T03:21:04.035Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

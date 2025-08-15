@@ -301,6 +301,5 @@ Different cultures interpret this lore through their own lens, creating variatio
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*

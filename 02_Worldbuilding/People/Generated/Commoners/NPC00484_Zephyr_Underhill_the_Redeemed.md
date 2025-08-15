@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Underhill the Redeemed", "zephyr underhill the redeemed", "Zephyr Underhill Redeemed", "Redeemed the Underhill Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Underhill the Redeemed
 
 *Human Baker (Commoners), Age 41, Male*
@@ -13,7 +19,6 @@
 Short and stocky, with Tied back silver hair and Hazel eyes. Fair skin. Crooked nose from multiple breaks.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Speaks to inanimate objects; Constantly quotes ancient texts
@@ -36,17 +41,14 @@ Survivor of a disaster that destroyed their village They've been marked by a sec
 - **Short Term**: Avoid the authorities
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Elric Silverleaf the Redeemed (Professional - Partner)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Erasmus Ravenheart the Broken (Political - Opposition)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ### Thalia Hawthorne the Scholar (Political - Opposition)
 - **Status**: Recently reconciled

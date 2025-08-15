@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Blackstone the Wise", "qadim blackstone the wise", "Qadim Blackstone Wise", "Wise the Blackstone Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Blackstone the Wise
 
 *Elf Crime Boss (Villains), Age 46, Male*
@@ -13,7 +19,6 @@
 Tall and athletic, with Long and flowing red hair and Black eyes. Pale skin. Prominent scar across the face.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Incredibly optimistic despite evidence
@@ -36,22 +41,18 @@ Betrayed by those they trusted, now seeking revenge on the world They recently d
 - **Short Term**: Sabotage competition
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Rhiannon Stormwind the Broken (Criminal - Accomplice)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Nerys Nightfall the Bold (Criminal - Handler)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Idris Underhill the Broken (Political - Spy)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Has a child they're protecting

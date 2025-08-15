@@ -72,3 +72,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Prophecy Connection
 
 Mentioned in The Hidden Prophecy of Stars
+
+## References
+
+- [[The Egyptian Pantheon Egyptian Deities Phb]]
+- [[the-egyptian-pantheon-egyptian-deities-phb (tables)]]

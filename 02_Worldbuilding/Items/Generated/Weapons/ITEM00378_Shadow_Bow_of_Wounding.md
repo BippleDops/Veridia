@@ -1,3 +1,9 @@
+---
+aliases: ["Shadow Bow of Wounding", "shadow bow of wounding", "Wounding of Bow Shadow"]
+tags: [item, equipment]
+type: item
+---
+
 # Shadow Bow of Wounding
 
 *Weapons, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A shadow bow forged from meteoric iron
 - Deals extra 1d6 elemental damage
 - Grants advantage on initiative
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -32,7 +36,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.376Z*

@@ -18,16 +18,13 @@ updated: 2025-08-14
 - **East**: River crossing
 - **West**: Mountain pass
 
-
 # Shadow Replacements
-
 
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
 - **Law Enforcement**: Town guard
 - **Justice System**: Local magistrate
-
 
 ## Economy
 - **Primary Exports**: Local goods
@@ -46,7 +43,6 @@ The approach to Shadow Replacements reveals its significance through architectur
 
 ### Interior
 Within Shadow Replacements, visitors find a carefully designed space serving multiple purposes.
-
 
 ## Demographics
 - **Population**: ~1,000
@@ -81,9 +77,8 @@ Recent developments have brought new attention to Shadow Replacements, creating 
 2. Missing person last seen here
 3. Secret meeting scheduled to take place
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 *Shadow Replacements can be customized to fit campaign needs. Consider adding unique [[Npc]]s or plot elements.*
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -120,3 +115,11 @@ Recent developments have brought new attention to Shadow Replacements, creating 
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure]]
+- [[Diplomatic Event Scenarios]]
+- [[Tenebrarum Embassy]]
+- [[The Eternal Senate]]
+- [[The Eternal Senate (D&D_References)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Proudmore the Bold", "malakai proudmore the bold", "Malakai Proudmore Bold", "Bold the Proudmore Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Proudmore the Bold
 
 *Half-Elf Cleric (Adventurers), Age 21, Non-binary*
@@ -36,17 +42,14 @@ Chosen by fate to fulfill an ancient prophecy They've fallen in love with someon
 - **Short Term**: Gather information
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Elric Nightfall the Guardian (Criminal - Target)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Jorah Grimholt the Scholar (Criminal - Fence)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ### Corvus Quicksilver the Wanderer (Professional - Employer)
 - **Status**: Complicated history
@@ -57,11 +60,9 @@ Chosen by fate to fulfill an ancient prophecy They've fallen in love with someon
 - **Status**: One-sided affection
 - **History**: United by common enemy
 
-
 ### Urien Ironwood the Mystic (Professional - Mentor)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Possessed by ancient spirit

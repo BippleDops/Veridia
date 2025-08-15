@@ -14,7 +14,6 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 # Quest - The Crown Reborn
 
 ---
@@ -49,12 +48,10 @@ obsidianUIMode: preview
 # Quest - The Crown Reborn
 *Unite the Seven Shards and Restore the Ancient Crown of Stars*
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -418,7 +415,6 @@ Contextual improvement based on 12_Research
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Time Limit
 - **Deadline**: When it must be completed

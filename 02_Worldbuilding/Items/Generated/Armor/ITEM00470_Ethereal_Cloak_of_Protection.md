@@ -1,3 +1,9 @@
+---
+aliases: ["Ethereal Cloak of Protection", "ethereal cloak of protection", "Protection of Cloak Ethereal"]
+tags: [item, equipment]
+type: item
+---
+
 # Ethereal Cloak of Protection
 
 *Armor, Rare*
@@ -15,8 +21,6 @@ A ethereal cloak shimmering with energy
 - Reduces damage by 3
 - Reduces damage by 3
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -31,7 +35,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.385Z*

@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Hawthorne the Redeemed", "aeliana hawthorne the redeemed", "Aeliana Hawthorne Redeemed", "Redeemed the Hawthorne Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Hawthorne the Redeemed
 
 *Tabaxi Appraiser (Merchants), Age 51, Non-binary*
@@ -46,7 +52,6 @@ Built their business from nothing through cunning and hard work They've made a d
 ### Corvus Oakenshield the Wanderer (Family - Parent)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ### Wynne Nightfall the Strong (Personal - Nemesis)
 - **Status**: Strong and trusting

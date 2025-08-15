@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Voidwalker", "gavril voidwalker", "Voidwalker Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Voidwalker
 
 *Aasimar Courtier (Nobles), Age 38, Non-binary*
@@ -13,7 +19,6 @@
 Very short and wiry, with Partially shaved silver hair and Hazel eyes. Weathered skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Extremely superstitious about everything
@@ -36,12 +41,10 @@ Last survivor of a fallen house, seeking to restore family honor They recently d
 - **Short Term**: Make this month's payment
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Wynne Ravenheart the Wanderer (Personal - Nemesis)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
-
 
 ### Jorah Lightbringer (Personal - Love interest)
 - **Status**: Blood oath bound
@@ -52,16 +55,13 @@ Last survivor of a fallen house, seeking to restore family honor They recently d
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
 ### Urien Jadeclaw (Professional - Employee)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Fiora Xendar the Mystic (Family - Cousin)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Secretly funding the rebellion

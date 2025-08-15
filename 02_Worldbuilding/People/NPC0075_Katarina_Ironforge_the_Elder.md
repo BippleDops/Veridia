@@ -1,11 +1,11 @@
 ---
+aliases: ["Katarina Ironforge the Elder", "katarina ironforge the elder", "Katarina Ironforge Elder", "Elder the Ironforge Katarina"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -78,7 +78,6 @@ Persuasion, Perception
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 34 gold pieces
 - Lucky dice
@@ -91,7 +90,6 @@ Persuasion, Perception
 
 ---
 *Generated: 2025-08-15T03:20:13.080Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

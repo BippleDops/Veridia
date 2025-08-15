@@ -1,8 +1,8 @@
 ---
+aliases: ["Helena Stormwind the Strong", "helena stormwind the strong", "Helena Stormwind Strong", "Strong the Stormwind Helena"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -71,8 +71,6 @@ Grew up on the streets, learning to survive. Years ago, they found an ancient ar
 ### Skills
 Stealth, Insight
 
-
-
 ## Possessions
 - 81 gold pieces
 - Well-worn journal
@@ -85,7 +83,6 @@ Stealth, Insight
 
 ---
 *Generated: 2025-08-15T03:21:04.030Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

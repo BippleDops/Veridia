@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Underhill", "jorah underhill", "Underhill Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Underhill
 
 *Gnome Noble (Nobles), Age 52, Non-binary*
@@ -13,7 +19,6 @@
 Below average and wiry, with Partially shaved gray hair and Hazel eyes. Brown skin. Missing finger on left hand.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Extremely superstitious about everything; Laughs at the most inappropriate times
@@ -47,16 +52,13 @@ Last survivor of a fallen house, seeking to restore family honor A prophetic dre
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Cedric Hawthorne the Wise (Family - Spouse)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Hilda Ironwood the Strong (Personal - Love interest)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Child from scandalous affair

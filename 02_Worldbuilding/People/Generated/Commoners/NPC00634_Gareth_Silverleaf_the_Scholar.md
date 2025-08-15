@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Silverleaf the Scholar", "gareth silverleaf the scholar", "Gareth Silverleaf Scholar", "Scholar the Silverleaf Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Silverleaf the Scholar
 
 *Tiefling Carpenter (Commoners), Age 60, Female*
@@ -13,7 +19,6 @@
 Above average and compact, with Braided elaborately auburn hair and Gray eyes. Tan skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Believes in every conspiracy theory
@@ -36,12 +41,10 @@ Family has worked the same trade for generations, but times are changing A famil
 - **Short Term**: Complete current contract
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Gavril Stormwind the Strong (Professional - Mentor)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ### Idris Emberfall the Fallen (Family - Spouse)
 - **Status**: Recently reconciled
@@ -52,21 +55,17 @@ Family has worked the same trade for generations, but times are changing A famil
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Kaelen Thornweave the Broken (Criminal - Informant)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ### Branwen Darkwater the Swift (Criminal - Informant)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Alaric Stormwind the Swift (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Knows location of ancient treasure

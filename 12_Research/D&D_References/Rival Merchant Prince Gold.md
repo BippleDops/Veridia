@@ -59,3 +59,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Quest - The Missing Fleet]]
+- [[Quest - The Missing Fleet_1 (01_Adventures)]]

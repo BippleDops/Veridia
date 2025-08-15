@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Xendar the Seeker", "branwen xendar the seeker", "Branwen Xendar Seeker", "Seeker the Xendar Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Xendar the Seeker
 
 *Goliath Bard (Adventurers), Age 37, Male*
@@ -36,7 +42,6 @@ Accidentally gained powers and learning to control them A chance encounter last 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Pyria Silverleaf the Fallen (Professional - Employee)
 - **Status**: On the verge of collapse
@@ -56,7 +61,6 @@ Accidentally gained powers and learning to control them A chance encounter last 
 ### Felicia Keenblade the Guardian (Political - Opposition)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Has died and been resurrected

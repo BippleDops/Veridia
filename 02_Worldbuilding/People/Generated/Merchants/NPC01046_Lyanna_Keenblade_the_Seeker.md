@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Keenblade the Seeker", "lyanna keenblade the seeker", "Lyanna Keenblade Seeker", "Seeker the Keenblade Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Keenblade the Seeker
 
 *Aasimar Broker (Merchants), Age 50, Male*
@@ -13,7 +19,6 @@
 Very tall and heavyset, with Carefully styled unusual color hair and Violet eyes. Dark skin. Missing finger on left hand.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Never uses people's real names; Always speaks in metaphors and riddles
@@ -35,7 +40,6 @@ Inherited a failing business and turned it around They recently discovered a sec
 ### Goals
 - **Short Term**: Recruit new members
 - **Long Term**: Protect their loved ones
-
 
 ## Relationships
 ### Jorah Keenblade the Swift (Professional - Mentor)

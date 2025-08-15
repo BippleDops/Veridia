@@ -135,12 +135,10 @@ The main reason parties get involved
 - Stealing medicine to save a plague victim
 - Choosing between two villages to save
 
-
 ## Pronunciation Guide
 - **Theme**: [THEME]
 - **Theme**: [THEME]
 - **Themes**: [THEMES]
-
 
 ## See Also
 - Related content

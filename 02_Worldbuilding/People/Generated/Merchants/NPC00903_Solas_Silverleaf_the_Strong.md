@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Silverleaf the Strong", "solas silverleaf the strong", "Solas Silverleaf Strong", "Strong the Silverleaf Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Silverleaf the Strong
 
 *Halfling Broker (Merchants), Age 51, Male*
@@ -42,7 +48,6 @@ Built their business from nothing through cunning and hard work A family member'
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Brenna Hawthorne the Redeemed (Professional - Employer)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
@@ -51,7 +56,6 @@ Built their business from nothing through cunning and hard work A family member'
 ### Brenna Silverleaf the Swift (Political - Puppet)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ### Rhiannon Thornweave the Wise (Political - Ally)
 - **Status**: Strained but maintaining

@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Dawnstrider the Lost", "delara dawnstrider the lost", "Delara Dawnstrider Lost", "Lost the Dawnstrider Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Dawnstrider the Lost
 
 *Dragonborn Assassin (Villains), Age 54, Male*
@@ -13,7 +19,6 @@
 Above average and muscular, with Carefully styled auburn hair and Heterochromic eyes. Freckled skin. Birthmark shaped like a constellation.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Always hungry and eating something; Never backs down from any challenge
@@ -42,21 +47,17 @@ Believes their evil acts serve a greater good They've been marked by a secret so
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
 
-
 ### Aeliana Frostwhisper the Lost (Family - Sibling)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
-
 
 ### Cedric Hawthorne the Broken (Political - Puppet)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
 
-
 ### Kaelen Silverleaf the Broken (Personal - Love interest)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Has a child they're protecting

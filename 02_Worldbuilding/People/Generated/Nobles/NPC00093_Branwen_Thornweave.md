@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Thornweave", "branwen thornweave", "Thornweave Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Thornweave
 
 *Tiefling Aristocrat (Nobles), Age 30, Female*
@@ -36,22 +42,18 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Avoid the authorities
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Baelor Crystalbrook (Professional - Mentor)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Dara Xendar (Criminal - Informant)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Zephyr Ravenheart (Personal - Best friend)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Actually a bastard with no real claim

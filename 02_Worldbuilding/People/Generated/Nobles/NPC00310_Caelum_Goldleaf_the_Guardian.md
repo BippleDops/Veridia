@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Goldleaf the Guardian", "caelum goldleaf the guardian", "Caelum Goldleaf Guardian", "Guardian the Goldleaf Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Goldleaf the Guardian
 
 *Firbolg Noble (Nobles), Age 76, Male*
@@ -42,16 +48,13 @@ Last survivor of a fallen house, seeking to restore family honor They've fallen 
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Alaric Ashford (Criminal - Accomplice)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Gavril Lightbringer the Bold (Professional - Rival)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Practicing forbidden magic

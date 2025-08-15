@@ -1,3 +1,9 @@
+---
+aliases: ["Blazing Crossbow of Accuracy", "blazing crossbow of accuracy", "Accuracy of Crossbow Blazing"]
+tags: [item, equipment]
+type: item
+---
+
 # Blazing Crossbow of Accuracy
 
 *Weapons, Legendary (requires attunement)*
@@ -16,8 +22,6 @@ A blazing crossbow made of crystallized magic
 - Deals extra 1d6 elemental damage
 - Ignores resistance to damage type
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -32,7 +36,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.343Z*

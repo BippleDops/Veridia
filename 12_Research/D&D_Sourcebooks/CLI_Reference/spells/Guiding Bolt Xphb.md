@@ -102,3 +102,29 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Quandrix Student Scc]]
+- [[quandrix-student-scc (backgrounds)]]
+- [[Adult Bronze Dragon Xmm]]
+- [[Adult Gold Dragon Xmm]]
+- [[Ancient Bronze Dragon Xmm]]
+- [[Ancient Gold Dragon Xmm]]
+- [[adult-bronze-dragon-xmm (dragon)]]
+- [[adult-gold-dragon-xmm (dragon)]]
+- [[ancient-bronze-dragon-xmm (dragon)]]
+- [[ancient-gold-dragon-xmm (dragon)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb War Domain Xphb]]
+- [[Cleric Xphb]]
+- [[Druid Xphb Circle of the Stars Xphb]]
+- [[Paladin Xphb Oath of Glory Xphb]]
+- [[Warlock Xphb Celestial Patron Xphb]]
+- [[cleric-xphb (classes)]]
+- [[cleric-xphb-war-domain-xphb (classes)]]
+- [[druid-xphb-circle-of-the-stars-xphb (classes)]]
+- [[paladin-xphb-oath-of-glory-xphb (classes)]]
+- [[warlock-xphb-celestial-patron-xphb (classes)]]

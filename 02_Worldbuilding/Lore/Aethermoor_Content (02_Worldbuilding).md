@@ -1,6 +1,6 @@
 ---
 
-title: [[[[Aethermoor]] Content]]
+title: [[Aethermoor|[[Aethermoor]] Content]]
 type: [[Lore]]
 tags:
 - lore
@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 

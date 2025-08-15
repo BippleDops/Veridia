@@ -1,3 +1,9 @@
+---
+aliases: ["Simple Journal of Quality", "simple journal of quality", "Quality of Journal Simple"]
+tags: [item, equipment]
+type: item
+---
+
 # Simple Journal of Quality
 
 *Mundane, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A simple journal bearing maker's mark
 - Provides comfort
 - Has hidden compartment
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -30,7 +34,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.476Z*

@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Darkwater the Fallen", "nerys darkwater the fallen", "Nerys Darkwater Fallen", "Fallen the Darkwater Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Darkwater the Fallen
 
 *Dwarf Noble (Nobles), Age 30, Non-binary*
@@ -13,7 +19,6 @@
 Average height and imposing, with Shaved blonde hair and Green eyes. Dark skin. Burn scars on one side of face.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Always hungry and eating something; Sees doom and gloom everywhere

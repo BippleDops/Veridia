@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Zephyrblade the Redeemed", "ysara zephyrblade the redeemed", "Ysara Zephyrblade Redeemed", "Redeemed the Zephyrblade Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Zephyrblade the Redeemed
 
 *Half-Elf Farmer (Commoners), Age 40, Female*
@@ -13,7 +19,6 @@
 Average height and muscular, with Partially shaved auburn hair and Gray eyes. Unusual hue skin. Weather-beaten face showing hard life.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Collects unusual and worthless objects; Extremely superstitious about everything
@@ -47,16 +52,13 @@ Former soldier trying to adjust to civilian life They've been marked by a secret
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
 
-
 ### Wynne Goldleaf the Mystic (Family - Spouse)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Felicia Winterborn the Lost (Professional - Mentor)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
-
 
 ### Drusilla Lightbringer the Swift (Personal - Love interest)
 - **Status**: On the verge of collapse
@@ -66,7 +68,6 @@ Former soldier trying to adjust to civilian life They've been marked by a secret
 ### Dara Oakenshield the Guardian (Family - Spouse)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Knows location of ancient treasure

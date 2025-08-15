@@ -247,3 +247,7 @@ Depth Pressure Rings is a remarkable item of significant craftsmanship. Its appe
 
 ### Curse (if applicable)
 - *[Negative effects]*
+
+## References
+
+- [[Master_Item_Catalog]]

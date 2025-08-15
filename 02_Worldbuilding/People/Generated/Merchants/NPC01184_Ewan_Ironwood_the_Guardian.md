@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Ironwood the Guardian", "ewan ironwood the guardian", "Ewan Ironwood Guardian", "Guardian the Ironwood Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Ironwood the Guardian
 
 *Halfling Appraiser (Merchants), Age 63, Non-binary*
@@ -36,22 +42,18 @@ Part of a merchant family with connections everywhere A prophetic dream has been
 - **Short Term**: Recruit new members
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Felicia Moonshadow the Redeemed (Family - Spouse)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Lyanna Darkwater the Swift (Family - Cousin)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Caelum Thornweave the Wanderer (Personal - Nemesis)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ### Gavril Voidwalker the Strong (Criminal - Accomplice)
 - **Status**: Secretly hostile
@@ -61,7 +63,6 @@ Part of a merchant family with connections everywhere A prophetic dream has been
 ### Drusilla Stormwind the Guardian (Professional - Rival)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Sells information to all sides

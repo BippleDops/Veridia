@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Dawnstrider the Bold", "zephyr dawnstrider the bold", "Zephyr Dawnstrider Bold", "Bold the Dawnstrider Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Dawnstrider the Bold
 
 *Tiefling Rogue (Adventurers), Age 57, Male*
@@ -36,22 +42,18 @@ Chosen by fate to fulfill an ancient prophecy A family member's death has left t
 - **Short Term**: Gather information
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Hestara Voidwalker the Lost (Political - Opposition)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Alaric Brightblade the Risen (Criminal - Fence)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Aeliana Stormwind the Bold (Criminal - Accomplice)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
-
 
 ### Ewan Goldleaf the Seeker (Professional - Employer)
 - **Status**: Secretly hostile
@@ -61,7 +63,6 @@ Chosen by fate to fulfill an ancient prophecy A family member's death has left t
 ### Malakai Quicksilver the Lost (Political - Opposition)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Secretly working for the villain

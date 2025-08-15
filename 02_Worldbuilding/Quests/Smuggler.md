@@ -114,7 +114,6 @@ An exciting quest that challenges heroes to prevent disaster.
 - Consequences
 - Epilogue hooks
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*
 ## Expansion Books & Setting Guides
@@ -250,3 +249,19 @@ An exciting quest that challenges heroes to prevent disaster.
 3. **Power Level**: Newer books sometimes have stronger options
 4. **Integration**: Consider how content fits campaign theme
 5. **AL Legal**: Check Adventurers League rules if applicable
+
+## References
+
+- [[Consequence Chain 5 - Marina Identity Revelation]]
+- [[Customs House]]
+- [[Economic Crime Methods]]
+- [[Smuggler''s Cove]]
+- [[The Deserter's Tale]]
+- [[The Grand Trade Routes]]
+- [[Underground Smuggling Networks]]
+- [[Abyssos Prime Docks]]
+- [[Cross-Dimensional Transit Authority]]
+- [[Crystal Plague Wards]]
+- [[Depth Warden Patrol]]
+- [[Harbor District Customs House]]
+- [[The Azure Coast]]

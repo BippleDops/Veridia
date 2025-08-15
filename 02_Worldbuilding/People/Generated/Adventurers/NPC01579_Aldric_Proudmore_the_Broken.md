@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Proudmore the Broken", "aldric proudmore the broken", "Aldric Proudmore Broken", "Broken the Proudmore Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Proudmore the Broken
 
 *Half-Orc Rogue (Adventurers), Age 77, Non-binary*
@@ -13,7 +19,6 @@
 Tall and heavyset, with Shaved black hair and Red eyes. Weathered skin. Missing finger on left hand.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Constantly quotes ancient texts; Always hungry and eating something; Flirts with everyone regardless of interest
@@ -36,7 +41,6 @@ Seeking vengeance for a murdered mentor A family member's death has left them wi
 - **Short Term**: Avoid the authorities
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Nerys Keenblade the Guardian (Political - Spy)
 - **Status**: Recently reconciled
@@ -47,7 +51,6 @@ Seeking vengeance for a murdered mentor A family member's death has left them wi
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Thalia Hawthorne the Wanderer (Personal - Love interest)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
@@ -57,11 +60,9 @@ Seeking vengeance for a murdered mentor A family member's death has left them wi
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
 
-
 ### Gavril Ironwood the Redeemed (Family - Cousin)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Has died and been resurrected

@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Blackstone the Guardian", "brenna blackstone the guardian", "Brenna Blackstone Guardian", "Guardian the Blackstone Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Blackstone the Guardian
 
 *Dragonborn Fighter (Adventurers), Age 71, Non-binary*
@@ -36,22 +42,18 @@ Running from a dark past that won't stay buried A prophetic dream has been haunt
 - **Short Term**: Complete current contract
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Gavril Underhill the Swift (Criminal - Target)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Fiora Moonshadow the Wanderer (Family - Spouse)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
 
-
 ### Gareth Voidwalker the Guardian (Criminal - Accomplice)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
-
 
 ### Kaelen Brightblade the Wise (Personal - Best friend)
 - **Status**: Recently reconciled

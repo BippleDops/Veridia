@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Darkwater the Cunning", "xander darkwater the cunning", "Xander Darkwater Cunning", "Cunning the Darkwater Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Darkwater the Cunning
 
 *Aasimar Assassin (Villains), Age 59, Male*
@@ -13,7 +19,6 @@
 Below average and wiry, with Dreadlocks unusual color hair and Blue eyes. Freckled skin. Weather-beaten face showing hard life.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Always hungry and eating something
@@ -47,26 +52,21 @@ Corrupted by an artifact or dark magic A chance encounter last winter changed th
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
 
-
 ### Rhiannon Jadeclaw the Redeemed (Family - Spouse)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ### Kaelen Underhill the Swift (Family - Cousin)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Felicia Frostwhisper the Bold (Family - Parent)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
 ### Xander Brightblade the Risen (Professional - Employer)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Has a child they're protecting

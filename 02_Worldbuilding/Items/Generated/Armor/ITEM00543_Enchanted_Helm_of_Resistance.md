@@ -1,3 +1,9 @@
+---
+aliases: ["Enchanted Helm of Resistance", "enchanted helm of resistance", "Resistance of Helm Enchanted"]
+tags: [item, equipment]
+type: item
+---
+
 # Enchanted Helm of Resistance
 
 *Armor, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A enchanted helm bearing ancient runes
 - Grants swimming speed
 - Grants swimming speed
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -32,7 +36,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.392Z*

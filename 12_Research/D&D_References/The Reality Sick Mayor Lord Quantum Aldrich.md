@@ -80,3 +80,7 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Assets Locations Location City Transportation Guild Masters V1 Transportation Guild Masters.svg]]

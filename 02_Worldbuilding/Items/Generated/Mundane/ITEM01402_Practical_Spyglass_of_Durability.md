@@ -1,3 +1,9 @@
+---
+aliases: ["Practical Spyglass of Durability", "practical spyglass of durability", "Durability of Spyglass Practical"]
+tags: [item, equipment]
+type: item
+---
+
 # Practical Spyglass of Durability
 
 *Mundane, Common*
@@ -13,8 +19,6 @@ A practical spyglass showing signs of age
 ## Properties
 - Weighs half normal
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -29,7 +33,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.484Z*

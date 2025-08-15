@@ -41,7 +41,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -111,13 +111,11 @@ Secret facility where confiscated crystal artifacts are studied and neutralized.
 ### The Market of Whispers
 Information brokerage where intelligence about Aethermoor is bought and sold. [[Zephyr Goldwhisper]] maintains an office here.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -125,13 +123,11 @@ Information brokerage where intelligence about Aethermoor is bought and sold. [[
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -170,7 +166,7 @@ Legends speak of Goldspire Port as a nexus where past and present converge. Loca
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -211,7 +207,6 @@ Ongoing situations affecting Goldspire Port:
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -247,3 +242,12 @@ Ongoing situations affecting Goldspire Port:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Goldspire Confederacy]]
+- [[The Azure Coast]]
+- [[The Azure Coast (D&D_References)]]
+- [[Economic Warfare (D&D_Statblocks)]]
+- [[The Green Death (D&D_Statblocks)]]
+- [[Traveling Merchant Finn (D&D_Statblocks)]]

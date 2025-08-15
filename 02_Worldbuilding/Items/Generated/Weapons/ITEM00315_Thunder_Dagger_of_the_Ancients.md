@@ -1,3 +1,9 @@
+---
+aliases: ["Thunder Dagger of the Ancients", "thunder dagger of the ancients", "Thunder Dagger of Ancients", "Ancients the of Dagger Thunder"]
+tags: [item, equipment]
+type: item
+---
+
 # Thunder Dagger of the Ancients
 
 *Weapons, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A thunder dagger forged from meteoric iron
 - Returns when thrown
 - +2 to attack and damage rolls
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -30,7 +34,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.370Z*

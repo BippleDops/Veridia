@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Winterborn", "hilda winterborn", "Winterborn Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Winterborn
 
 *Goliath Carpenter (Commoners), Age 25, Male*
@@ -13,7 +19,6 @@
 Average height and wiry, with Dreadlocks brown hair and Red eyes. Scarred skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Laughs at the most inappropriate times; Extremely superstitious about everything; Always speaks in metaphors and riddles
@@ -42,7 +47,6 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
 
-
 ### Delara Thornweave the Risen (Political - Ally)
 - **Status**: One-sided affection
 - **History**: United by common enemy
@@ -51,7 +55,6 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 ### Lyanna Crystalbrook the Broken (Personal - Childhood friend)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
-
 
 ### Cedric Grimholt the Broken (Family - Spouse)
 - **Status**: Recently reconciled

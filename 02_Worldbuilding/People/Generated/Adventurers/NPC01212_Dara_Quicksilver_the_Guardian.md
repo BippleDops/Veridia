@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Quicksilver the Guardian", "dara quicksilver the guardian", "Dara Quicksilver Guardian", "Guardian the Quicksilver Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Quicksilver the Guardian
 
 *Halfling Ranger (Adventurers), Age 61, Male*
@@ -41,7 +47,6 @@ Running from a dark past that won't stay buried Strange abilities have begun man
 ### Faelyn Blackstone the Wanderer (Family - Spouse)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ### Rhiannon Crystalbrook the Lost (Professional - Mentor)
 - **Status**: One-sided affection

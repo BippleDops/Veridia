@@ -30,7 +30,6 @@ improvements: 20
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-reef-guard-captain-torrent-shellborn-reef-guard-captain-torrent-shellborn.svg)
 
@@ -42,13 +41,11 @@ improvements: 20
 > *"These reefs are not merely geography - they are the lungs of our ocean, the nurseries of our future, the living foundation upon which all underwater civilization depends. We don't just guard coral and kelp; we protect the very essence of life itself."*
 > — [[Reef Guard Captain Torrent Shellborn]], Station Commander and Chief Marine Protector
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -488,7 +485,6 @@ Ongoing situations affecting Reef Guard Captain Torrent Shellborn:
 
 Key stop on magic items trade route
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -524,3 +520,7 @@ Key stop on magic items trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Reef Guard Captain Torrent Shellborn (D&D_References)]]

@@ -1,4 +1,5 @@
 ---
+aliases: ["Divine Curse", "divine curse", "Curse Divine"]
 tags: [generated]
 id: SPELL0017_Divine_Curse
 created: 2025-08-15T04:09:51.469Z

@@ -1,3 +1,8 @@
+---
+tags: [misc]
+type: misc
+---
+
 # The Burning Crypt of Despair
 
 *A cave dungeon with 11 rooms*
@@ -143,7 +148,6 @@ Weapon racks line the walls, and a table sits in the center with dice and coins 
 
 **Contents**: Broken furniture
 
-
 ## Features
 
 - **Room 5 (storage)**: Mysterious obelisk with runes
@@ -186,7 +190,6 @@ Weapon racks line the walls, and a table sits in the center with dice and coins 
 **Container**: Ancient sarcophagus
 **Contents**: 
 - 125 gold pieces
-
 
 ## Running the Dungeon
 

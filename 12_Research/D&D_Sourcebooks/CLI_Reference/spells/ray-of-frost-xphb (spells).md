@@ -98,7 +98,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -117,4 +116,22 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[ray-of-frost-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[ray-of-frost-xphb (spells)|ray-of-frost-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[aerisi-kalinoth-pota (npc)]]
+- [[npc - Aerisi Kalinoth Pota]]
+- [[Illithilich Vgm (undead)]]
+- [[illithilich-vgm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Druid Xphb Circle of the Sea Xphb]]
+- [[druid-xphb-circle-of-the-sea-xphb (classes)]]
+- [[Strixhaven Initiate Scc]]
+- [[strixhaven-initiate-scc (feats)]]
+- [[Wand of Winter Hotdq]]
+- [[wand-of-winter-hotdq (items)]]
+- [[Tiefling Levistus Mtf]]
+- [[tiefling-levistus-mtf (races)]]

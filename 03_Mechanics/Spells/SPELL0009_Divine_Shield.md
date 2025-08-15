@@ -1,4 +1,5 @@
 ---
+aliases: ["Divine Shield", "divine shield", "Shield Divine"]
 tags: [generated]
 id: SPELL0009_Divine_Shield
 created: 2025-08-15T04:09:51.467Z

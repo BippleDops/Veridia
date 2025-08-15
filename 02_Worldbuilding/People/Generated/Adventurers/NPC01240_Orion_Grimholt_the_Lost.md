@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Grimholt the Lost", "orion grimholt the lost", "Orion Grimholt Lost", "Lost the Grimholt Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Grimholt the Lost
 
 *Dwarf Bard (Adventurers), Age 48, Non-binary*
@@ -36,12 +42,10 @@ Searching for a legendary treasure their parent died seeking Strange abilities h
 - **Short Term**: Recruit new members
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Aldric Emberfall the Scholar (Family - Child)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ### Caelum Winterborn the Wanderer (Family - Spouse)
 - **Status**: Strong and trusting
@@ -52,16 +56,13 @@ Searching for a legendary treasure their parent died seeking Strange abilities h
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
 
-
 ### Lyanna Silverleaf the Risen (Criminal - Handler)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Faelyn Zephyrblade the Risen (Personal - Best friend)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Secretly working for the villain

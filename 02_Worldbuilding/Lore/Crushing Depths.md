@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -84,7 +84,7 @@ Crushing Depths is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Crushing Depths as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Crushing Depths.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -133,3 +133,34 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Aquabyssos Cultural Codex]]
+- [[Biomancer Corvus Intestinal]]
+- [[Customs House]]
+- [[Deep Mother Influence]]
+- [[Fortress of the Deeps]]
+- [[Multi-Phase Boss Fights]]
+- [[The Bloom Fields]]
+- [[The Breathing Stone]]
+- [[The Deep Harvest]]
+- [[The Pressure Baptism Rites]]
+- [[The Tethyan Hegemony]]
+- [[Abyssos Prime - Inverse Palace]]
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Commander Typhoon Blackheart (Places)]]
+- [[Compass Quest]]
+- [[Temple of the Sunken Cathedral]]
+- [[Temporal Navigation]]
+- [[The Deep Patrol]]
+- [[The Depth Market]]
+- [[The Forgotten One]]
+- [[The Phosphor Markets]]
+- [[The Pressure Conspiracy]]
+- [[The Void Touched Depths]]
+- [[War of Crushing Depths]]
+- [[The Maw of Darkness]]
+- [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]]
+- [[Temporal Navigation (D&D_Statblocks)]]
+- [[The Pressure Conspiracy (D&D_Statblocks)]]

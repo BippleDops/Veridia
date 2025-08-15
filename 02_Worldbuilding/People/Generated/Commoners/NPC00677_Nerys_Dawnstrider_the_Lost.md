@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Dawnstrider the Lost", "nerys dawnstrider the lost", "Nerys Dawnstrider Lost", "Lost the Dawnstrider Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Dawnstrider the Lost
 
 *Firbolg Farmer (Commoners), Age 49, Female*
@@ -13,7 +19,6 @@
 Tall and heavyset, with Shaved brown hair and Black eyes. Dark skin. Warm smile that puts people at ease.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Always speaks in metaphors and riddles; Always hungry and eating something
@@ -36,7 +41,6 @@ Former soldier trying to adjust to civilian life An old debt has come due at the
 - **Short Term**: Complete current contract
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Lyanna Keenblade the Wanderer (Personal - Best friend)
 - **Status**: Complicated history
@@ -47,11 +51,9 @@ Former soldier trying to adjust to civilian life An old debt has come due at the
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Faelyn Oakenshield the Strong (Professional - Employer)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Witnessed a noble's crime

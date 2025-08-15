@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Moonshadow the Lost", "pyria moonshadow the lost", "Pyria Moonshadow Lost", "Lost the Moonshadow Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Moonshadow the Lost
 
 *Gnome Corrupt Noble (Villains), Age 69, Male*
@@ -42,7 +48,6 @@ Born into evil but questioning their path They've been marked by a secret societ
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
 
-
 ### Xander Ashford the Guardian (Professional - Rival)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
@@ -51,7 +56,6 @@ Born into evil but questioning their path They've been marked by a secret societ
 ### Xander Ironwood the Mystic (Family - Child)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Was once a renowned hero

@@ -1,3 +1,9 @@
+---
+aliases: ["Pure Salve of Vigor", "pure salve of vigor", "Vigor of Salve Pure"]
+tags: [item, equipment]
+type: item
+---
+
 # Pure Salve of Vigor
 
 *Consumables, Rare*

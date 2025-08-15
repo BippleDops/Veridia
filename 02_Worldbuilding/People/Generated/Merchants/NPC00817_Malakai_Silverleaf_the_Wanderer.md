@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Silverleaf the Wanderer", "malakai silverleaf the wanderer", "Malakai Silverleaf Wanderer", "Wanderer the Silverleaf Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Silverleaf the Wanderer
 
 *Halfling Trader (Merchants), Age 63, Female*
@@ -36,12 +42,10 @@ Uses their business as cover for other activities They've fallen in love with so
 - **Short Term**: Recruit new members
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Corvus Zephyrblade the Cunning (Family - Parent)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
-
 
 ### Solas Moonshadow the Cunning (Political - Spy)
 - **Status**: Secretly hostile
@@ -51,7 +55,6 @@ Uses their business as cover for other activities They've fallen in love with so
 ### Brenna Ironforge the Guardian (Criminal - Informant)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
-
 
 ### Elric Dawnstrider the Seeker (Political - Patron)
 - **Status**: One-sided affection

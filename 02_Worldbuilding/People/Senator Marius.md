@@ -35,7 +35,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-senator-marius-senator-marius.svg)
 
@@ -57,7 +56,6 @@ improvements: 20
 **Languages** Common, Elvish, Aquabyssan, Primordial, Celestial  
 **Challenge Rating** 6 (2,300 XP)  
 **Proficiency Bonus** +3
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -314,7 +312,6 @@ Member of House Serpentblood - Trait: magical affinity
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -350,3 +347,10 @@ Member of House Serpentblood - Trait: magical affinity
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Master Jeweler Sapphire Delicatehand Master Jeweler Sapphire Delicatehand.svg]]
+- [[Assets Portraits Portrait NPC Empress Tethys the Ever Drowning Empress Tethys the Ever Drowning.svg]]
+- [[Assets Symbols Symbol Heraldry Doctor Harmony Whisperfall Doctor Harmony Whisperfall.svg]]
+- [[Session 2 the Shadow Surgery]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Darkwater the Fallen", "delara darkwater the fallen", "Delara Darkwater Fallen", "Fallen the Darkwater Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Darkwater the Fallen
 
 *Half-Elf Courtier (Nobles), Age 32, Female*
@@ -13,7 +19,6 @@
 Average height and wiry, with Braided elaborately bald hair and Black eyes. Brown skin. Missing finger on left hand.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Compulsive liar about minor things; Extremely superstitious about everything; Sees doom and gloom everywhere
@@ -36,7 +41,6 @@ Exiled from their homeland, trying to rebuild their power base A family member's
 - **Short Term**: Recruit new members
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Baelor Goldleaf the Fallen (Family - Spouse)
 - **Status**: Professional only
@@ -47,16 +51,13 @@ Exiled from their homeland, trying to rebuild their power base A family member's
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Delara Underhill the Mystic (Professional - Employer)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
 
-
 ### Orion Crystalbrook (Political - Spy)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Practicing forbidden magic

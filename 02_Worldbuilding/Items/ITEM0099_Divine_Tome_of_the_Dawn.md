@@ -1,4 +1,5 @@
 ---
+aliases: ["Divine Tome of the Dawn", "divine tome of the dawn", "Divine Tome of Dawn", "Dawn the of Tome Divine"]
 tags: [generated]
 id: ITEM0099
 created: 2025-08-15T04:09:51.109Z
@@ -18,8 +19,6 @@ Crafted from dragonscale with intricate runes, in pristine condition. It emanate
 
 ## Quirk
 *Whispers names of previous owners*
-
-
 
 ## History
 This item was corrupted by dark magic decades ago. It has passed through many hands, each leaving their mark upon its destiny.

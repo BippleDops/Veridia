@@ -102,3 +102,8 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Locations Location City Admiral Thalassa Stormcurrent Admiral Thalassa Stormcurrent.svg]]
+- [[Assets Locations Location City Beast Master Krell Chainbreaker Beast Master Krell Chainbreaker.svg]]

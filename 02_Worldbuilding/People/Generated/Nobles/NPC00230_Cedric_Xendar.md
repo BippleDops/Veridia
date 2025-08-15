@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Xendar", "cedric xendar", "Xendar Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Xendar
 
 *Dragonborn Heir (Nobles), Age 60, Female*
@@ -13,7 +19,6 @@
 Below average and athletic, with Carefully styled silver hair and Blue eyes. Brown skin. Warm smile that puts people at ease.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Always tells the absolute truth; Sees doom and gloom everywhere
@@ -42,26 +47,21 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Alaric Proudmore the Broken (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ### Hestara Underhill the Mystic (Political - Ally)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Caelum Ironforge (Family - Spouse)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Hestara Hawthorne the Broken (Political - Puppet)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ### Caelum Dawnstrider (Professional - Rival)
 - **Status**: On the verge of collapse

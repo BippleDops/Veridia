@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-nautilus-deepwatch-captain-nautilus-deepwatch.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -237,7 +235,6 @@ Member of House Lionblood - Trait: prophecy
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -307,3 +304,9 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City Scribe Master Elena Truthkeeper V1 Scribe Master Elena Truthkeeper.svg]]
+- [[Assets Portraits Portrait NPC Duke Aldric Blackwater Duke Aldric Blackwater.svg]]
+- [[Reputation System (D&D_References)]]

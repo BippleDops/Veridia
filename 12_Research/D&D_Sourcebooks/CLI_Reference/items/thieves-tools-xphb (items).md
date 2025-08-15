@@ -81,3 +81,36 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[02 Chapter 1 Greenest in Flames]]
+- [[02-chapter-1-greenest-in-flames (hoard-of-the-dragon-queen)]]
+- [[06 Chapter 5 Construction Ahead]]
+- [[06-chapter-5-construction-ahead (hoard-of-the-dragon-queen)]]
+- [[Criminal Spy Variant]]
+- [[Criminal Xphb]]
+- [[Wayfarer Xphb]]
+- [[criminal-spy-variant (backgrounds)]]
+- [[criminal-xphb (backgrounds)]]
+- [[urchin]]
+- [[wayfarer-xphb (backgrounds)]]
+- [[06 Equipment]]
+- [[06-equipment (players-handbook-2014)]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Rogue Xphb Thief Xphb]]
+- [[Rogue Xphb]]
+- [[rogue-xphb (classes)]]
+- [[rogue-xphb-thief-xphb (classes)]]
+- [[Lock Xphb]]
+- [[Manacles Xphb]]
+- [[lock-xphb (items)]]
+- [[manacles-xphb (items)]]
+- [[Multiclassing Proficiencies Phb]]
+- [[Tools Phb]]
+- [[multiclassing-proficiencies-phb (tables)]]
+- [[tools-phb (tables)]]
+- [[Falling Net Xdmg]]
+- [[falling-net-xdmg (traps-hazards)]]

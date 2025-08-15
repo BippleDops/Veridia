@@ -128,3 +128,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+## References
+
+- [[Master_Campaign_Index]]
+- [[Aethermoor - Session 08 Between Two Worlds]]
+- [[The Deep Mother 3 (D&D_References)]]

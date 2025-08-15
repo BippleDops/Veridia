@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Brightblade the Bold", "qadim brightblade the bold", "Qadim Brightblade Bold", "Bold the Brightblade Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Brightblade the Bold
 
 *Goliath Blacksmith (Commoners), Age 63, Non-binary*
@@ -13,7 +19,6 @@
 Very short and lanky, with Tied back gray hair and Brown eyes. Pale skin. Unusual eye color for their race.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Always hungry and eating something; Flirts with everyone regardless of interest
@@ -42,7 +47,6 @@ Survivor of a disaster that destroyed their village They're being blackmailed by
 - **Status**: Recently reconciled
 - **History**: United by common enemy
 
-
 ### Hilda Lightbringer the Guardian (Professional - Employer)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
@@ -51,7 +55,6 @@ Survivor of a disaster that destroyed their village They're being blackmailed by
 ### Ewan Underhill the Guardian (Personal - Ex-lover)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ### Lyanna Winterborn the Fallen (Political - Puppet)
 - **Status**: Recently reconciled

@@ -88,3 +88,19 @@ Mentioned in The Hidden Prophecy of Stars
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Horn of Valhalla Xdmg]]
+- [[horn-of-valhalla-xdmg (items)]]
+- [[Armaments Rare Xdmg]]
+- [[Magic Item Table G]]
+- [[Random Magic Items Armaments]]
+- [[Random Magic Items Relics]]
+- [[Relics Rare Xdmg]]
+- [[armaments-rare-xdmg (tables)]]
+- [[magic-item-table-g (tables)]]
+- [[random-magic-items-armaments (tables)]]
+- [[random-magic-items-relics (tables)]]
+- [[relics-rare-xdmg (tables)]]

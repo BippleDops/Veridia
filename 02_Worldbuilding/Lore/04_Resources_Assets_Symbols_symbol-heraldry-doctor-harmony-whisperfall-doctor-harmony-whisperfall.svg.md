@@ -26,3 +26,9 @@ Further information about this topic will be developed as the campaign progresse
 - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery
+
+## References
+
+- [[Assets Portraits Portrait NPC Captain Thaddeus Blackwater Captain Thaddeus Blackwater.svg]]
+- [[Assets Portraits Portrait NPC Lord Magnus Goldspire Lord Magnus Goldspire.svg]]
+- [[Assets Portraits Portrait NPC Trade Captain Sterling Trade Captain Sterling.svg]]

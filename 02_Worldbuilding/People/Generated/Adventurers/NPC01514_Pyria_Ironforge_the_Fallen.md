@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Ironforge the Fallen", "pyria ironforge the fallen", "Pyria Ironforge Fallen", "Fallen the Ironforge Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Ironforge the Fallen
 
 *Tabaxi Fighter (Adventurers), Age 38, Male*
@@ -42,7 +48,6 @@ Accidentally gained powers and learning to control them An old debt has come due
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Faelyn Oakenshield the Seeker (Personal - Nemesis)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
@@ -52,11 +57,9 @@ Accidentally gained powers and learning to control them An old debt has come due
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
 
-
 ### Urien Frostwhisper the Wise (Personal - Best friend)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Possessed by ancient spirit

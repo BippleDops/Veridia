@@ -180,7 +180,7 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[Captain Prism Shield Valeria]] (ally)
+- [[Shield|Captain Prism Shield Valeria]] (ally)
 - [[Goldwave Ficial Offices]] (rival)
 - [[The Current Merchants]] (colleague)
 ---

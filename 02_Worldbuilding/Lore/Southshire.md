@@ -26,3 +26,10 @@ Further information about this topic will be developed as the campaign progresse
 - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery
+
+## References
+
+- [[Central Location]]
+- [[Cure Component Locations]]
+- [[Clues by Location (Lore)]]
+- [[Clues_by_Location.png]]

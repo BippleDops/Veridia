@@ -77,3 +77,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Strange accidents suggest a portal
 - A journal reveals a betrayal about this place
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

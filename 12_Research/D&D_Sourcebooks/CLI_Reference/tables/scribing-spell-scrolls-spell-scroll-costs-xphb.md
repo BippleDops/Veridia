@@ -93,7 +93,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -112,4 +111,12 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[scribing-spell-scrolls-spell-scroll-costs-xphb-phb]]` in CLI_Reference/spells/
+See: `[[scribing-spell-scrolls-spell-scroll-costs-xphb|scribing-spell-scrolls-spell-scroll-costs-xphb-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Magic Item Crafting Time and Cost Xdmg]]
+- [[magic-item-crafting-time-and-cost-xdmg (tables)]]

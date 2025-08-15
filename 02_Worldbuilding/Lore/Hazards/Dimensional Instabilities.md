@@ -90,3 +90,13 @@ Mentioned in The Second Prophecy of Shadows
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Arcanum Heights]]
+- [[Order of the Sunken Crown]]
+- [[Silverscale Emergency Bunker]]
+- [[Temporal Anomaly Resolution]]
+- [[The Tethyan Hegemony]]
+- [[Trade Route Establishment]]
+- [[Shadow Market Canals]]

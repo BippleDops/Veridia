@@ -95,7 +95,7 @@ improvements: 20
 
 ## Overview
 
-Thalassius the Wise stands as one of [[Aquabyssos]]'s most revered scholars and philosophers, a figure whose intellectual contributions have shaped the underwater city's understanding of magic, history, and inter-realm relations for over three centuries. Despite his advanced age, Thalassius maintains remarkable mental acuity and continues his research into the deepest mysteries of oceanic civilization. His vast library and personal archives represent one of the most comprehensive collections of knowledge about ancient underwater cultures, [[Magical Theory]], and the pre-contact history of both [[Aquabyssos]] and [[Aethermoor]]. His collection rivals the [[Aethermoor Archives]] and connects to research at [[12 Research]].
+Thalassius the Wise stands as one of , and the pre-contact history of both  and connects to research at [[12 Research]].
 
 Known for his patient teaching methods and profound insights, Thalassius serves as mentor to generations of scholars, diplomats, and magical practitioners. His unique perspective combines traditional underwater wisdom with innovative approaches to contemporary challenges, making him an invaluable advisor to city leadership during times of crisis. His research into the connections between magical currents and ocean flows has produced practical applications that benefit all of Aquabyssos society.
 
@@ -103,7 +103,7 @@ Known for his patient teaching methods and profound insights, Thalassius serves 
 
 Born during the early expansion period of Aquabyssos, Thalassius demonstrated exceptional intellectual gifts from childhood, showing particular aptitude for understanding complex patterns in both natural phenomena and social structures. His early education encompassed traditional [[Merfolk]] scholarship, expanded to include the knowledge systems of other aquatic species as the city's population diversified.
 
-Thalassius's transformation from promising student to legendary scholar began with his discovery of ancient texts in the [[Deep Archives]], documents that revealed sophisticated magical and philosophical traditions from pre-unification underwater civilizations. His translations and interpretations of these works established his reputation and laid the foundation for his later contributions.
+Thalassius's transformation from promising student to legendary scholar began with his discovery of ancient texts in the , documents that revealed sophisticated magical and philosophical traditions from pre-unification underwater civilizations. His translations and interpretations of these works established his reputation and laid the foundation for his later contributions.
 
 ### Development
 
@@ -125,7 +125,7 @@ His influence extends beyond academic circles to affect practical goverce, techn
 
 ### In Aethermoor
 
-Surface scholars from [[Aethermoor]] who have encountered Thalassius's work hold him in high regard as a peer whose insights transcend the boundaries between surface and underwater intellectual traditions. [[Professor Euclid Mindmaze]] and researchers at [[Aethermoor Archives]] regularly correspond with him. His comparative studies of magic and culture have provided valuable perspectives for Aethermoor researchers struggling to understand their underwater neighbors.
+Surface scholars from  regularly correspond with him. His comparative studies of magic and culture have provided valuable perspectives for Aethermoor researchers struggling to understand their underwater neighbors.
 
 Thalassius's role in facilitating intellectual exchange between realms has made him a respected figure in diplomatic circles, though some Surface authorities worry about the implications of his deep knowledge of ancient secrets.
 
@@ -230,3 +230,19 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Ancient Aquabyssos Rulers]]
+- [[Aquabyssos Trade Seal]]
+- [[Economic Systems and Currency]]
+- [[Kraken Territories]]
+- [[Silver Mask]]
+- [[The Emperor's Gambit]]
+- [[Compass Quest]]
+- [[Depth Wardens]]
+- [[Sister Morwyn]]
+- [[The Sunken Library of Thalassius]]
+- [[Aquabyssos Trade Seal (D&D_References)]]
+- [[Kraken Territories (D&D_References)]]
+- [[Silver Mask (D&D_References)]]

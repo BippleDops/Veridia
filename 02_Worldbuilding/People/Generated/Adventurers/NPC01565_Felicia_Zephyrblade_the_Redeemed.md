@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Zephyrblade the Redeemed", "felicia zephyrblade the redeemed", "Felicia Zephyrblade Redeemed", "Redeemed the Zephyrblade Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Zephyrblade the Redeemed
 
 *Firbolg Cleric (Adventurers), Age 63, Male*
@@ -13,7 +19,6 @@
 Towering and imposing, with Long and flowing blonde hair and Black eyes. Unusual hue skin. Warm smile that puts people at ease.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times
@@ -36,7 +41,6 @@ Seeking vengeance for a murdered mentor They're being blackmailed by someone fro
 - **Short Term**: Sabotage competition
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Corvus Voidwalker the Scholar (Family - Cousin)
 - **Status**: On the verge of collapse
@@ -46,7 +50,6 @@ Seeking vengeance for a murdered mentor They're being blackmailed by someone fro
 ### Delara Jadeclaw the Bold (Criminal - Fence)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
-
 
 ### Baelor Ashford the Redeemed (Criminal - Informant)
 - **Status**: Mutually beneficial

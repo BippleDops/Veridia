@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Stormwind the Cunning", "xander stormwind the cunning", "Xander Stormwind Cunning", "Cunning the Stormwind Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Stormwind the Cunning
 
 *Dragonborn Farmer (Commoners), Age 34, Non-binary*
@@ -13,7 +19,6 @@
 Above average and stocky, with Dreadlocks red hair and Black eyes. Unusual hue skin. Birthmark shaped like a constellation.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Compulsive liar about minor things; Incredibly optimistic despite evidence
@@ -42,16 +47,13 @@ Former soldier trying to adjust to civilian life They've fallen in love with som
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Solas Emberfall the Mystic (Political - Puppet)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Zephyr Zephyrblade the Mystic (Professional - Employer)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ### Hestara Ravenheart the Fallen (Personal - Best friend)
 - **Status**: Strained but maintaining

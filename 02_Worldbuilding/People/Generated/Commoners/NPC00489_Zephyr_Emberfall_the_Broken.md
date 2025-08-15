@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Emberfall the Broken", "zephyr emberfall the broken", "Zephyr Emberfall Broken", "Broken the Emberfall Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Emberfall the Broken
 
 *Gnome Blacksmith (Commoners), Age 56, Female*
@@ -36,22 +42,18 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Short Term**: Survive until next week
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Zephyr Goldleaf the Seeker (Political - Opposition)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
 
-
 ### Ewan Oakenshield the Wanderer (Personal - Love interest)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
 
-
 ### Ewan Blackstone the Cunning (Professional - Mentor)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Witnessed a noble's crime

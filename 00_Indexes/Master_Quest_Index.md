@@ -31,7 +31,6 @@ status: active
 |------------|---------|-------|---------|-------|
 | *Example* | *Active/Complete* | *1-20* | *Rewards* | *Notes* |
 
-
 ## See Also
 - Related content
 - Similar topics
@@ -59,3 +58,23 @@ status: active
 ## Player Tips
 > 🎮 **Strategy**: How to approach this content
 > Work together and communicate
+
+## Objective
+
+*To be added*
+
+## Background
+
+*To be added*
+
+## Tasks
+
+*To be added*
+
+## Rewards
+
+*To be added*
+
+## Complications
+
+*To be added*

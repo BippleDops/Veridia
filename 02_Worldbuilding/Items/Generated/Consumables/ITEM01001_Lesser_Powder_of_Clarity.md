@@ -1,3 +1,9 @@
+---
+aliases: ["Lesser Powder of Clarity", "lesser powder of clarity", "Clarity of Powder Lesser"]
+tags: [item, equipment]
+type: item
+---
+
 # Lesser Powder of Clarity
 
 *Consumables, Common*
@@ -13,8 +19,6 @@ A lesser powder glowing softly
 ## Properties
 - Restore 4d4+4 hit points
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -29,7 +33,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.446Z*

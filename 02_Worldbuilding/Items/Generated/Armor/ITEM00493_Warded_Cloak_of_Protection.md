@@ -1,3 +1,9 @@
+---
+aliases: ["Warded Cloak of Protection", "warded cloak of protection", "Protection of Cloak Warded"]
+tags: [item, equipment]
+type: item
+---
+
 # Warded Cloak of Protection
 
 *Armor, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A warded cloak crafted from exotic materials
 - +1 to AC
 - +1 to AC
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -31,7 +35,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.387Z*

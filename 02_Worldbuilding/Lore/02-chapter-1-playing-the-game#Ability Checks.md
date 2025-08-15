@@ -48,3 +48,10 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## [[DM_Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Assets Locations Location City Portal Commander Marina Bridgewright V1 Portal Commander Marina Bridgewright.png]]
+- [[02-chapter-1-playing-the-game#Stabilizing a Character_Quick_Ref]]
+- [[Quick_Reference - DnD5e-SideScreen-2024 (D&D_References)]]
+- [[Reference Quick Reference Dnd5e Sidescreen 2024 (D&D_References)]]

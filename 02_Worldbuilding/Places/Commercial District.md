@@ -121,13 +121,11 @@ Commercial District is a notable location characterized by its unique features a
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -135,13 +133,11 @@ Commercial District is a notable location characterized by its unique features a
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -205,3 +201,26 @@ Ongoing situations affecting Commercial District:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Aquabyssos Trade Seal]]
+- [[Economic Systems and Currency]]
+- [[Pressure Adaptation System]]
+- [[Tidal Chambers]]
+- [[Community Support Programs]]
+- [[Deep_Current_Academy (Places)]]
+- [[Ironhold]]
+- [[Pearl_Harbor_City]]
+- [[Pressure Terminal]]
+- [[Reality Breach Locations]]
+- [[Royal Academy of Arcane Arts Ruins (Places)]]
+- [[Royal_Academy_of_Arcane_Arts (Places)]]
+- [[Services Inter Realm Transportation]]
+- [[Sylvanheart]]
+- [[The Grand Bazaar of Echoing Coins]]
+- [[The_Academy_of_Investigative_Arts (Places)]]
+- [[The_Academy_of_Resoce]]
+- [[The_Professional_Training_Academy (Places)]]
+- [[Windwright Academy]]
+- [[Aquabyssos Trade Seal (D&D_References)]]

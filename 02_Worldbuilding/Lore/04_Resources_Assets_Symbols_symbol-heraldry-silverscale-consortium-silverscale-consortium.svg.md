@@ -27,6 +27,12 @@ Further information about this topic will be developed as the campaign progresse
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*
+
+## References
+
+- [[Assets Locations Location City Ghost of Dr Thaddeus Brightwater Ghost of Dr Thaddeus Brightwater.svg]]
+- [[Assets Locations Location City Pilgrimage Master Depth Guide Melancholy V1 Pilgrimage Master Depth Guide Melancholy.svg]]
+- [[Assets Symbols Symbol Heraldry Sister Astara the Ever Watching Sister Astara the Ever Watching.svg]]
+- [[Assets Symbols Symbol Heraldry the Succession Crisis the Succession Crisis.svg]]

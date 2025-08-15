@@ -1017,3 +1017,25 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Introduction]]
+- [[Aethermoor_Airships]]
+- [[Aquabyssos_Submarines]]
+- [[Complete Faction Warfare System]]
+- [[Complete_Faction_Warfare_System (D&D_References)]]
+- [[Depth_Events_Pack_A]]
+- [[Depth_Events_Pack_D]]
+- [[Hybrid Class System]]
+- [[Hybrid_Class_System (D&D_References)]]
+- [[Phase Omega Enhanced Index]]
+- [[Phase_Omega_Enhanced_Index (D&D_References)]]
+- [[Vehicle_Core_Rules]]
+- [[Vehicles - Aethermoor Airships]]
+- [[Vehicles - Aquabyssos Submarines]]
+- [[Vehicles - Vehicle Core Rules]]
+- [[Vehicles - Vehicles Index]]
+- [[Vehicles_Index]]
+- [[Topic Matrix]]
+- [[Topic_Matrix (Indexes)]]

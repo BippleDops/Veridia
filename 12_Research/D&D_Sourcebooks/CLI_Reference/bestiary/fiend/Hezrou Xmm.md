@@ -175,3 +175,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[hezrou-xmm (fiend)]]
+- [[Iron Flask Xdmg]]
+- [[iron-flask-xdmg (items)]]
+- [[Creating a Gnoll War Band Gnoll War Band Special Creatures Vgm]]

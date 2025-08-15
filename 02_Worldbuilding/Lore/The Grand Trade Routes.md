@@ -51,7 +51,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -123,7 +123,7 @@ The Grand Trade Routes represent the most lucrative and dangerous commercial [[p
 **Risk Level**: Extreme ([[Pirates]], law enforcement, territorial disputes)
 **Profit Margins**: 1000-3000% on contraband, but with massive loss potential
 
-**Controlled By**: [[The Whisper Syndicate|[[02 Worldbuilding]]/[[Groups]]/The Whisper Syndicate]] and various [[Criminal [[Organization]]s]]
+**Controlled By**: [[The Whisper Syndicate|[[02 Worldbuilding]]/[[Groups]]/The Whisper Syndicate]] and various [[Organization|Criminal [[Organization]]s]]
 **Specializes In**: Illegal crystals, banned magic items, slaves, sensitive information, dangerous artifacts
 
 ### The Deep Abyss Run
@@ -135,7 +135,7 @@ The Grand Trade Routes represent the most lucrative and dangerous commercial [[p
 
 **Key Features**: 
 - Requires specialized pressure vessels and magical protection
-- Access to [[Deep [[Ancient Ruins]]]] and their technological treasures
+- Access to [[Ancient Ruins|Deep [[Ancient Ruins]]]] and their technological treasures
 - Controlled by select members of [[The Current Merchants]]' inner circle
 
 ### The Surface Wind Ways
@@ -433,7 +433,7 @@ Each route segment has risk factors rated 1-10:
 
 ## Player-Facing Summary
 
-The Grand Trade Routes represent the economic lifeblood connecting Aethermoor and Aquabyssos, offering opportunities for profit, adventure, and political intrigue. These maritime highways carry everything from essential supplies to forbidden luxuries, controlled by powerful [[Merchant Guilds]], criminal syndicates, and independent operators willing to brave the dangers for massive profits.
+The Grand Trade Routes represent the economic lifeblood connecting Aethermoor and Aquabyssos, offering opportunities for profit, adventure, and political intrigue. These maritime highways carry everything from essential supplies to forbidden luxuries, controlled by powerful [[Merchant_Guilds|Merchant Guilds]], criminal syndicates, and independent operators willing to brave the dangers for massive profits.
 
 ## Lore Details
 
@@ -441,7 +441,7 @@ Ancient mariners speak of golden currents that flow between the realms, carrying
 
 The routes themselves seem to have consciousness, responding to the ambitions of those who traverse them. Successful merchants report an almost mystical connection to their chosen paths, while those who abuse the trade winds find themselves cursed with perpetual misfortune, their vessels forever drawn off course by currents that lead only to ruin.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Use the trade routes as a framework for economic intrigue, political machinations, and adventure opportunities. The routes can serve as highways for plot development, connecting disparate locations and providing justification for [[Npc]] movements and resource availability. Consider how disruptions to trade affect local economies and political stability, creating ripple effects that can drive major campaign storylines.
 
@@ -484,3 +484,8 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Trade Goods Catalog]]
+- [[Trade Goods Catalog (D&D_References)]]

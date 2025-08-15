@@ -1,11 +1,11 @@
 ---
+aliases: ["Jasper Ironforge", "jasper ironforge", "Ironforge Jasper"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -89,7 +89,6 @@ Persuasion, Stealth
 
 ---
 *Generated: 2025-08-15T03:20:13.080Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

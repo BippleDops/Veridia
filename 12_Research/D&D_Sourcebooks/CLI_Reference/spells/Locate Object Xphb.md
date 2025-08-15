@@ -97,3 +97,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A map reveals ancient history about the government
 - Someone is protecting information for revenge
 - A stranger needs help delivering before the new moon
+
+## References
+
+- [[Master_Spell_Compendium]]

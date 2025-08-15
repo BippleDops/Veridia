@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Grimholt the Redeemed", "ewan grimholt the redeemed", "Ewan Grimholt Redeemed", "Redeemed the Grimholt Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Grimholt the Redeemed
 
 *Tiefling Courtier (Nobles), Age 59, Female*
@@ -36,27 +42,22 @@ Secretly adopted into nobility, living in fear of discovery They're being blackm
 - **Short Term**: Survive until next week
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Felicia Grimholt the Broken (Criminal - Accomplice)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
 
-
 ### Caelum Ironwood the Lost (Political - Puppet)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
-
 
 ### Idris Goldleaf the Bold (Family - Sibling)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
 
-
 ### Idris Blackstone the Broken (Personal - Ex-lover)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Actually a bastard with no real claim

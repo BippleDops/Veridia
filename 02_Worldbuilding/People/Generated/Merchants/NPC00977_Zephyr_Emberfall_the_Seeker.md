@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Emberfall the Seeker", "zephyr emberfall the seeker", "Zephyr Emberfall Seeker", "Seeker the Emberfall Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Emberfall the Seeker
 
 *Dragonborn Trader (Merchants), Age 44, Male*
@@ -36,17 +42,14 @@ Uses their business as cover for other activities They recently discovered a sec
 - **Short Term**: Gather information
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Cedric Silverleaf the Risen (Criminal - Target)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
 
-
 ### Qadim Proudmore the Risen (Personal - Nemesis)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ### Hilda Ironforge the Redeemed (Family - Cousin)
 - **Status**: Recently reconciled
@@ -56,7 +59,6 @@ Uses their business as cover for other activities They recently discovered a sec
 ### Orion Jadeclaw the Swift (Family - Sibling)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ### Qadim Jadeclaw the Wise (Family - Parent)
 - **Status**: Professional only

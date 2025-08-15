@@ -141,7 +141,6 @@ Standing 5'8" with an ethereal grace, Pythia is draped in flowing robes made fro
 
 She resides in the Depths of Contemplation, a sacred site where the barriers between present and future are thinnest. Here, surrounded by pools of liquid starlight and crystalline formations that sing with memories of the deep, she receives visitors who seek knowledge of tomorrow's tides.
 
-
 ## Stats
 - **AC**: 12
 - **HP**: 22 (4d8)
@@ -187,7 +186,6 @@ She resides in the Depths of Contemplation, a sacred site where the barriers bet
 **Primary**: Guide others away from the darkest futures she foresees
 **Secondary**: Understand the nature of time and fate in the cosmic scheme
 **Hidden**: Prevent the specific apocalypse she witnessed in her deepest vision
-
 
 ## Secrets
 - Hidden information about this character
@@ -355,7 +353,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 20% middle class
 - 79% working poor
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -391,3 +388,30 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Arcanum Heights]]
+- [[D-019_Oracle_Whale_Player]]
+- [[D_019_Oracle_Whale]]
+- [[D_019_Oracle_Whale_Player]]
+- [[Deep Oracle]]
+- [[Oracle Mistweaver]]
+- [[Oracle Temporal Wisdom]]
+- [[Prophecies_and_Omens]]
+- [[The Bathyal Succession]]
+- [[The Convergence Oracle]]
+- [[The Oracle]]
+- [[The Tethyan Hegemony]]
+- [[The Transformed Citizens]]
+- [[Whisper Touched William's Oracle Shrine]]
+- [[Assets Portraits Portrait NPC Duchess Marina Ever Drowning Duchess Marina Ever Drowning.svg]]
+- [[Crystal Cult Temples]]
+- [[Mad Bell-Ringer Thomas]]
+- [[Mad Oracle Thessaly]]
+- [[Temple of the Sunken Cathedral]]
+- [[The Great Drowning]]
+- [[The Reflection Pools]]
+- [[Whisper-Touched William]]
+- [[The Maw of Darkness]]
+- [[The Whispering Expanse]]

@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-pearl-guard-the-pearl-guard.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -245,7 +243,6 @@ Mentioned in The Second Prophecy of Shadows
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -281,3 +278,10 @@ Mentioned in The Second Prophecy of Shadows
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Investigation Procedures]]
+- [[Assets Locations Location City Noble Palatemaster Noble Palatemaster.png]]
+- [[Encounter and Loot Generators]]
+- [[Random_Tables - Encounter_and_Loot_Generators]]

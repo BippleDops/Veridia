@@ -93,7 +93,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -106,3 +105,22 @@ Contextual improvement based on 12_Research
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Guardian Portrait Cos]]
+- [[guardian-portrait-cos (construct)]]
+- [[Arcanaloth Xmm]]
+- [[arcanaloth-xmm (fiend)]]
+- [[Illithilich Vgm (undead)]]
+- [[Lich Xmm (undead)]]
+- [[illithilich-vgm (undead)]]
+- [[lich-xmm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Paladin Xphb Oath of Redemption Xge]]
+- [[Wizard Xphb Abjurer Xphb]]
+- [[Wizard Xphb War Magic Xge]]
+- [[paladin-xphb-oath-of-redemption-xge (classes)]]
+- [[wizard-xphb-abjurer-xphb (classes)]]
+- [[wizard-xphb-war-magic-xge (classes)]]

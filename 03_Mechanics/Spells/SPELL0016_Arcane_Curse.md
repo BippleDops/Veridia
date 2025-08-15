@@ -1,4 +1,5 @@
 ---
+aliases: ["Arcane Curse", "arcane curse", "Curse Arcane"]
 tags: [generated]
 id: SPELL0016_Arcane_Curse
 created: 2025-08-15T04:09:51.469Z

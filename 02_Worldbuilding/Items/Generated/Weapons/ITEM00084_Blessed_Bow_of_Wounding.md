@@ -1,3 +1,9 @@
+---
+aliases: ["Blessed Bow of Wounding", "blessed bow of wounding", "Wounding of Bow Blessed"]
+tags: [item, equipment]
+type: item
+---
+
 # Blessed Bow of Wounding
 
 *Weapons, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A blessed bow carved from dragon bone
 - Deals extra 1d6 elemental damage
 - Returns when thrown
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -30,7 +34,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.350Z*

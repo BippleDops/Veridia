@@ -30,7 +30,7 @@ race: Half-Elf
 location: '[[Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] - The Grand Library'
 world: Aethermoor
 role: Shard Historian
-affiliation: '[[The Archive of Forgotten Things]]'
+affiliation: ''
 age: '62'
 created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'

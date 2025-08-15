@@ -137,3 +137,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Gulthias Blight Xmm]]
+- [[Needle Blight Xmm]]
+- [[gulthias-blight-xmm (plant)]]
+- [[Forest Encounters Levels 14 Xge]]
+- [[Monsters by Habitat Forest Monsters Xmm]]
+- [[forest-encounters-levels-14-xge (tables)]]
+- [[monsters-by-habitat-forest-monsters-xmm (tables)]]

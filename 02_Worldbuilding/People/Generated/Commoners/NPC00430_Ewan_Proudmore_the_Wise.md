@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Proudmore the Wise", "ewan proudmore the wise", "Ewan Proudmore Wise", "Wise the Proudmore Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Proudmore the Wise
 
 *Tabaxi Blacksmith (Commoners), Age 76, Non-binary*
@@ -42,7 +48,6 @@ Runaway from an arranged marriage, starting a new life They've been marked by a 
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Caelum Youngblood the Wanderer (Family - Cousin)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
@@ -52,16 +57,13 @@ Runaway from an arranged marriage, starting a new life They've been marked by a 
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Jorah Lightbringer the Wise (Personal - Childhood friend)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Alaric Crystalbrook the Bold (Criminal - Fence)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Is the lost heir to the throne

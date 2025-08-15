@@ -35,7 +35,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-swift-cloudracer-captain-swift-cloudracer.svg)
 
@@ -209,7 +208,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -279,3 +277,13 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Merchant Family Alliances]]
+- [[Relationship Web Nuances]]
+- [[Assets Locations Location City Quartermaster David Simpleton Quartermaster David Simpleton.svg]]
+- [[Assets Locations Location City Weapon Master Dain Sharpedge V1 Weapon Master Dain Sharpedge.svg]]
+- [[Assets Symbols Symbol Heraldry the Code Wars the Code Wars.svg]]
+- [[Harbormaster Erik Saltbeard]]
+- [[Harbormaster Erik Saltbeard (D&D_Statblocks)]]

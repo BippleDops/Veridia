@@ -94,3 +94,15 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Instrument of the Bards Xdmg]]
+- [[instrument-of-the-bards-xdmg (items)]]
+- [[Implements Very Rare Xdmg]]
+- [[Magic Item Table H]]
+- [[Random Magic Items Implements]]
+- [[implements-very-rare-xdmg (tables)]]
+- [[magic-item-table-h (tables)]]
+- [[random-magic-items-implements (tables)]]

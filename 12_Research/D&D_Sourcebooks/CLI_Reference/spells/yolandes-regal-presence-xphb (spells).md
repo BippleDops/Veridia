@@ -91,7 +91,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -104,3 +103,8 @@ Contextual improvement based on 12_Research
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Paladin Xphb Oath of Glory Xphb]]
+- [[paladin-xphb-oath-of-glory-xphb (classes)]]

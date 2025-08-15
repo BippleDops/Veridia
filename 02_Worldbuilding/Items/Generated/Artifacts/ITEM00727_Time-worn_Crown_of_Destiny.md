@@ -1,3 +1,9 @@
+---
+aliases: ["Time-worn Crown of Destiny", "time-worn crown of destiny", "Destiny of Crown Time-worn"]
+tags: [item, equipment]
+type: item
+---
+
 # Time-worn Crown of Destiny
 
 *Artifacts, Artifact*
@@ -16,8 +22,6 @@ A time-worn crown covered in mysterious symbols
 - Regenerate 1 hp/round
 - Immunity to charm
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -32,7 +36,6 @@ Priceless
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.420Z*

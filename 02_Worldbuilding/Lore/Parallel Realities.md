@@ -307,3 +307,9 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Multi-Phase Boss Fights]]
+- [[The Final Choice]]
+- [[Umbral Exchange]]

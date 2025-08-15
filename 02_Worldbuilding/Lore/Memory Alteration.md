@@ -163,3 +163,15 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Aurelius Goldwave]]
+- [[Customs House]]
+- [[Memory Alteration Consequences]]
+- [[Memory Alterations]]
+- [[Silver Mask]]
+- [[The Crimson Hand]]
+- [[The Forgetting Bomb]]
+- [[Throne Room]]
+- [[Timeline of the Drowning]]

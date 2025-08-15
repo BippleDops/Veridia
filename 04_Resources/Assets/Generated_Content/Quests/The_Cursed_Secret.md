@@ -1,3 +1,8 @@
+---
+tags: [quest, adventure]
+type: quest
+---
+
 # The Cursed Secret
 
 *A fetch quest for 4-6 characters of levels 3-7*
@@ -63,7 +68,6 @@ Complete the quest and claim your reward
 
 **Key Locations**: Guarding a merchant caravan
 
-
 ## Complications
 These complications may arise during the quest:
 - An unexpected ally becomes an enemy
@@ -83,7 +87,6 @@ These complications may arise during the quest:
 **Consequences**:
 - **Option A**: Gain an ally but risk future problems
 - **Option B**: Solve the immediate problem but make enemies
-
 
 ## Rewards
 Upon successful completion:

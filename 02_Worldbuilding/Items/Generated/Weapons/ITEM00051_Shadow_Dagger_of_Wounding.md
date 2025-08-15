@@ -1,3 +1,9 @@
+---
+aliases: ["Shadow Dagger of Wounding", "shadow dagger of wounding", "Wounding of Dagger Shadow"]
+tags: [item, equipment]
+type: item
+---
+
 # Shadow Dagger of Wounding
 
 *Weapons, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A shadow dagger made of crystallized magic
 - +1 to attack and damage rolls
 - Returns when thrown
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -30,7 +34,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.347Z*

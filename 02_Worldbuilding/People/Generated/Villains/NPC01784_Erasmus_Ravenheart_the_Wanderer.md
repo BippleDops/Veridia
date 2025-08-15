@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Ravenheart the Wanderer", "erasmus ravenheart the wanderer", "Erasmus Ravenheart Wanderer", "Wanderer the Ravenheart Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Ravenheart the Wanderer
 
 *Goliath Dark Wizard (Villains), Age 28, Female*
@@ -36,12 +42,10 @@ Believes their evil acts serve a greater good They're being blackmailed by someo
 - **Short Term**: Avoid the authorities
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Hestara Goldleaf the Seeker (Political - Patron)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ### Jorah Lightbringer the Bold (Professional - Rival)
 - **Status**: Recently reconciled
@@ -51,7 +55,6 @@ Believes their evil acts serve a greater good They're being blackmailed by someo
 ### Drusilla Moonshadow the Broken (Political - Patron)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Knows how the world will end

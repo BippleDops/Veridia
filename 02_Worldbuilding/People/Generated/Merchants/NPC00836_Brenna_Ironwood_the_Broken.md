@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Ironwood the Broken", "brenna ironwood the broken", "Brenna Ironwood Broken", "Broken the Ironwood Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Ironwood the Broken
 
 *Firbolg Caravan Master (Merchants), Age 47, Non-binary*
@@ -36,7 +42,6 @@ Former adventurer who retired to open a shop They recently discovered a secret t
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Baelor Nightfall the Bold (Family - Spouse)
 - **Status**: Secretly hostile
@@ -47,11 +52,9 @@ Former adventurer who retired to open a shop They recently discovered a secret t
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Solas Goldleaf the Lost (Professional - Partner)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Smuggles illegal magical items

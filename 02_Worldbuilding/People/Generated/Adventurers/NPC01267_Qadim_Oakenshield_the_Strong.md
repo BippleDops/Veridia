@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Oakenshield the Strong", "qadim oakenshield the strong", "Qadim Oakenshield Strong", "Strong the Oakenshield Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Oakenshield the Strong
 
 *Tiefling Wizard (Adventurers), Age 49, Female*
@@ -13,7 +19,6 @@
 Towering and wiry, with Shaved auburn hair and Blue eyes. Dark skin. Missing finger on left hand.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Always speaks in metaphors and riddles; Constantly quotes ancient texts; Never backs down from any challenge
@@ -42,11 +47,9 @@ Seeking vengeance for a murdered mentor A family member's death has left them wi
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Brenna Goldleaf the Seeker (Family - Child)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
-
 
 ### Corvus Darkwater the Scholar (Family - Parent)
 - **Status**: Professional only

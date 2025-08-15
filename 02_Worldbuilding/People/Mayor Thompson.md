@@ -34,7 +34,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-mayor-thompson-mayor-thompson.svg)
 
@@ -57,7 +56,6 @@ improvements: 20
 **Languages** Common, Aquabyssan, Primordial, Thieves' Cant  
 **Challenge Rating** 6 (2,300 XP)  
 **Proficiency Bonus** +3
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -262,7 +260,6 @@ Mayor Thompson presents a distinctive figure. Their bearing suggests both compet
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
 ## Secrets
 - Hidden information about this character
 - Unknown connections or past events
@@ -355,7 +352,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -386,3 +382,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Captain Marlowe Tidecrest V1 Captain Marlowe Tidecrest.svg]]
+- [[Assets Locations Location City Hadrian Depthbridge Hadrian Depthbridge.svg]]

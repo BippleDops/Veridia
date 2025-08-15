@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Stormwind", "zephyr stormwind", "Stormwind Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Stormwind
 
 *Halfling Aristocrat (Nobles), Age 70, Non-binary*
@@ -13,7 +19,6 @@
 Towering and heavyset, with Partially shaved bald hair and Red eyes. Olive skin. Warm smile that puts people at ease.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Always speaks in metaphors and riddles; Constantly quotes ancient texts
@@ -46,7 +51,6 @@ Secretly adopted into nobility, living in fear of discovery They've been marked 
 ### Ysara Keenblade (Personal - Best friend)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
-
 
 ### Baelor Quicksilver (Family - Child)
 - **Status**: Secretly hostile

@@ -275,11 +275,11 @@ This is a comprehensive D&D 5e campaign world featuring two interconnected realm
 - [[Visibility Underwater Underwater Encounter Distance Xdmg]]
 - [[Aquabyssos_Submarines_Catalog]]
 - [[Ocean Ecosystem Management]]
-- [[Border Territories (D&D References)]]
+- [[Border Territories (D&D_References)|Border Territories (D&D References)]]
 - [[aarakocra-skirmisher-xmm (elemental)]]
 - [[create-undead-xphb (spells)]]
 - [[summon-aberration-xphb (spells)]]
-- [[Border Fortresses (D&D References)]]
+- [[Border Fortresses (D&D_References)|Border Fortresses (D&D References)]]
 - [[scroll-of-protection-undead-xdmg (items)]]
 
 ## Related

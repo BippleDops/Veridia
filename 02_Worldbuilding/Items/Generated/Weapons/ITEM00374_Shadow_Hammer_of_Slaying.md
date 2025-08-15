@@ -1,3 +1,9 @@
+---
+aliases: ["Shadow Hammer of Slaying", "shadow hammer of slaying", "Slaying of Hammer Shadow"]
+tags: [item, equipment]
+type: item
+---
+
 # Shadow Hammer of Slaying
 
 *Weapons, Rare*
@@ -15,8 +21,6 @@ A shadow hammer carved from dragon bone
 - Ignores resistance to damage type
 - Ignores resistance to damage type
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -31,7 +35,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.376Z*

@@ -177,3 +177,11 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[colossus-xmm (construct)]]
+- [[Scroll of Titan Summoning Colossus Xdmg]]
+- [[scroll-of-titan-summoning-colossus-xdmg (items)]]
+- [[Monsters by Habitat Any Habitat Monsters Xmm]]
+- [[monsters-by-habitat-any-habitat-monsters-xmm (tables)]]

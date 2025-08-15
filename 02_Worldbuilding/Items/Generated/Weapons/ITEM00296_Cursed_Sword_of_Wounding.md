@@ -1,3 +1,9 @@
+---
+aliases: ["Cursed Sword of Wounding", "cursed sword of wounding", "Wounding of Sword Cursed"]
+tags: [item, equipment]
+type: item
+---
+
 # Cursed Sword of Wounding
 
 *Weapons, Uncommon*
@@ -14,8 +20,6 @@ A cursed sword forged from meteoric iron
 - Deals extra 1d6 elemental damage
 - Returns when thrown
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -30,7 +34,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.368Z*

@@ -83,3 +83,7 @@ Fifth Shard of Ascension represents a crucial aspect of the world's history, cos
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+## References
+
+- [[Session 06 the Sky Throne]]

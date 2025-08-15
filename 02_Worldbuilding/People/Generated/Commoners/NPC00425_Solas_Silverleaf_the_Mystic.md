@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Silverleaf the Mystic", "solas silverleaf the mystic", "Solas Silverleaf Mystic", "Mystic the Silverleaf Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Silverleaf the Mystic
 
 *Aasimar Baker (Commoners), Age 41, Female*
@@ -36,27 +42,22 @@ Family has worked the same trade for generations, but times are changing A famil
 - **Short Term**: Survive until next week
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Ewan Proudmore the Lost (Political - Ally)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
 
-
 ### Fiora Ironwood the Broken (Professional - Employee)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ### Wynne Dawnstrider the Wise (Criminal - Target)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Ysara Nightfall the Wanderer (Family - Child)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ### Baelor Brightblade the Scholar (Professional - Partner)
 - **Status**: Complicated history

@@ -27,8 +27,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
-
 ## Relationships
 - **Allies**: Notable allies and friends
 - **Rivals**: Competitors and rivals  
@@ -154,7 +152,6 @@ Currently engaged in professional duties and maintaining their position within t
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
 ## Secrets
 - Hidden information about this character
 - Unknown connections or past events
@@ -248,7 +245,6 @@ Member of House Lionblood - Trait: divine blood
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
-
 
 ## Daily Routine
 - **Morning**: Typical activities

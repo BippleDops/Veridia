@@ -187,7 +187,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[04_Resources_Assets_Symbols_symbol-heraldry-frequency-weapon-frequency-weapon.svg]] (enemy)
-- [[04_Resources_Assets_Symbols_symbol-heraldry-the-scream-archives-the-scream-archives.svg]] (ally)
+-  (ally)
 - [[Captain Cornelius Deepwater]] (ally)
 ---
 *Tags*: #npc #contact #worldbuilding
@@ -226,3 +226,7 @@ This NPC can serve multiple roles:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- 

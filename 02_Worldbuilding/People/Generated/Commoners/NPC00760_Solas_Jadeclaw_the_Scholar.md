@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Jadeclaw the Scholar", "solas jadeclaw the scholar", "Solas Jadeclaw Scholar", "Scholar the Jadeclaw Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Jadeclaw the Scholar
 
 *Genasi Carpenter (Commoners), Age 52, Female*
@@ -13,7 +19,6 @@
 Tall and delicate, with Long and flowing silver hair and Heterochromic eyes. Pale skin. Prominent scar across the face.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Always tells the absolute truth; Laughs at the most inappropriate times
@@ -36,27 +41,22 @@ Former soldier trying to adjust to civilian life They recently discovered a secr
 - **Short Term**: Gather information
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Kaelen Moonshadow the Risen (Political - Spy)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
 
-
 ### Kaelen Underhill the Fallen (Political - Spy)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
-
 
 ### Jorah Stormwind the Seeker (Political - Spy)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Faelyn Thornweave the Fallen (Family - Sibling)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Is the lost heir to the throne

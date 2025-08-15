@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -75,7 +75,7 @@ Encounters and Challenges represents a crucial aspect of the world's history, co
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -83,7 +83,7 @@ Encounters and Challenges represents a crucial aspect of the world's history, co
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -111,7 +111,6 @@ Encounters and Challenges represents a crucial aspect of the world's history, co
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Scaling by Party Level
 - **Level 1-4**: Reduce enemies

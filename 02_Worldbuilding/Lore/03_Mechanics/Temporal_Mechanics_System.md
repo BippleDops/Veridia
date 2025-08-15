@@ -105,3 +105,11 @@ improvements: 20
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[The Great Drowning]]
+- [[The Reflection Pools]]
+- [[03_Mechanics_Temporal_Mechanics_System]]
+- [[The Great Drowning (D&D_Statblocks)]]
+- [[The Reflection Pools (D&D_Statblocks)]]

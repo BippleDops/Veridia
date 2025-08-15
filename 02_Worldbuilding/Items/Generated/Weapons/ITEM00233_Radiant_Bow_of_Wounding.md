@@ -1,3 +1,9 @@
+---
+aliases: ["Radiant Bow of Wounding", "radiant bow of wounding", "Wounding of Bow Radiant"]
+tags: [item, equipment]
+type: item
+---
+
 # Radiant Bow of Wounding
 
 *Weapons, Legendary (requires attunement)*
@@ -16,8 +22,6 @@ A radiant bow carved from dragon bone
 - Ignores resistance to damage type
 - Returns when thrown
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -32,7 +36,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.363Z*

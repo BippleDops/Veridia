@@ -51,12 +51,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-cure-the-cure.svg)
 
 # The Cure
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -290,7 +288,6 @@ Member of House Eagleblood - Trait: curse
 - 20% middle class
 - 79% working poor
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -326,3 +323,13 @@ Member of House Eagleblood - Trait: curse
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- 
+- [[The Queen]]
+- [[Assets Locations Location City Temple Guardian Marcus the Drowned V1 Temple Guardian Marcus the Drowned.svg]]
+- [[The_Crimson_Pearl]]
+- [[Crystal Plague Wards]]
+- [[The Crimson Pearl (D&D_References)]]
+- [[The_Crimson_Pearl (D&D_References)]]

@@ -1,4 +1,5 @@
 ---
+aliases: ["Watchton", "watchton"]
 tags: [generated]
 id: LOC0002
 created: 2025-08-15T04:09:51.240Z
@@ -21,20 +22,17 @@ A quiet rural community surrounded by farmland
 - **Current Leader**: Archpriest of the dominant faith
 - **Political Stability**: Unstable
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -96,7 +94,6 @@ A quiet rural community surrounded by farmland
 
 ---
 *Generated: 2025-08-15T03:21:04.068Z*
-
 
 ## History
 - **Founding**: Origin story

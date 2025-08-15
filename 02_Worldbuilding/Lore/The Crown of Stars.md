@@ -26,8 +26,8 @@ connections:
 - '[[Queen Seraphina]]'
 - '[[Aethermoor]]'
 - '[[The Forgotten Isles]]'
-- '[[[[Time]]''s Mercy]]'
-- '[[[[The [[Emperor]]]]''s Gambit]]'
+- '[[Time|[[Time]]''s Mercy]]'
+- '[[Emperor|[[The [[Emperor]]]]''s Gambit]]'
 - '[[Deep Mother]]'
 themes:
 - celestial_authority
@@ -55,7 +55,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -166,7 +166,7 @@ This creates several unusual effects:
 Each use of the crown's power creates "stellar debt" - obligations to cosmic forces that must be repaid through personal sacrifice. The more dramatic the use of power, the more severe the eventual cost:
 
 - **Minor Uses** (local reality adjustments): Temporary physical ailments, memory gaps
-- **Moderate Uses** (regional changes, [[Dimensional Travel]]): Permanent alterations to personality or physical form
+- **Moderate Uses** (regional changes, [[Dimensional_Travel|Dimensional Travel]]): Permanent alterations to personality or physical form
 - **Major Uses** (world-affecting decrees): Loss of personal relationships, sacrifice of loved ones
 - **Ultimate Uses** (convergence control, reality rewrites): Complete transformation or death of the wearer
 
@@ -186,7 +186,7 @@ Sister-rulers who attempted to share [[The Crown's Burden]] by taking turns wear
 
 For three centuries, the crown remained unworn, stored in a vault between worlds while both realms struggled with increasingly complex crises that required dual-world authority to resolve. The absence of a legitimate wearer led to numerous conflicts and the gradual weakening of cooperative structures between [[Aethermoor]] and [[Aquabyssos]].
 
-### [[Queen Seraphina [[Lumengarde]]]] (Current Wearer)
+### [[Queen Seraphina|Queen Seraphina [[Lumengarde]]]] (Current Wearer)
 
 [[Queen Seraphina]] recently claimed the crown to address the current convergence crisis, despite knowing the full cost of its power. Her reign has already shown signs of the stellar debt's influence - she has begun making decisions with perfect strategic logic but increasing emotional distance from their human consequences.
 
@@ -291,7 +291,7 @@ The Crown of Stars is a undersea element of the setting, known for bioluminescen
 
 Legends speak of The Crown of Stars as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crown of Stars.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -307,3 +307,16 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
+## References
+
+- [[The Shattering of the Crown]]
+- [[Lord Aurelius Goldwave]]
+- [[Order of the Shattered Crown]]
+- [[Scholar Vivienne the Chronicler]]
+- [[The Final Choice (D&D_References)]]
+- [[The Final Choice 3 (D&D_References)]]
+- [[Keeper of the Shattered Crown Marcus]]
+- [[Keeper of the Shattered Crown, Marcus Crystalvein]]
+- [[Lord Aurelius Goldwave (D&D_Statblocks)]]
+- [[Order of the Shattered Crown (D&D_Statblocks)]]
+- [[Scholar Vivienne the Chronicler (D&D_Statblocks)]]

@@ -26,7 +26,7 @@ improvements: 20
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-harbor-master-luna-freedrift-harbor-master-luna-freedrift.svg)
+![](04_Resources/[[Assets|Assets]]/Locations/location-city-harbor-master-luna-freedrift-harbor-master-luna-freedrift.svg)
 
 # Harbor Master Luna Freedrift
 
@@ -40,10 +40,10 @@ improvements: 20
 |-----|-----|-----|-----|-----|-----|
 | 14 (+2) | 20 (+5) | 14 (+2) | 16 (+3) | 15 (+2) | 18 (+4) |
 
-**Saving Throws** Dex +11, Int +9
-**Skills** Deception +10, Insight +8, Investigation +9, Perception +8, Persuasion +10, Sleight of Hand +11, Stealth +11
+**[[Saving Throws|Saving Throws]]** Dex +11, Int +9
+**[[skills|skills]]** Deception +10, Insight +8, Investigation +9, Perception +8, Persuasion +10, Sleight of Hand +11, Stealth +11
 **Damage Resistances** none
-**Senses** darkvision 60 ft., passive Perception 18
+**[[senses|senses]]** darkvision 60 ft., passive Perception 18
 **Languages** Common, Elvish, Aquan, Thieves' Cant, Draconic, Halfling
 **Challenge Rating** 8 (3,900 XP)
 **Proficiency Bonus** +4
@@ -58,7 +58,7 @@ improvements: 20
 
 ### Culture Improvements
 
-- Define unique cultural practices and taboos
+- Define unique [[Cultural Practices|Cultural Practices]] and taboos
 
 ### Economy Improvements
 
@@ -118,7 +118,7 @@ improvements: 20
 
 **Second Wind (1/Short Rest).** Luna can regain 1d10 + 2 hit points as a bonus action.
 
-## Actions
+## [[actions|actions]]
 
 **Multiattack.** Luna makes three attacks: two with her rapier and one with her hand crossbow, or three hand crossbow attacks.
 
@@ -141,7 +141,7 @@ improvements: 20
 [[Harbor Master Luna Freedrift]] is the charismatic and cunning administrator of [[Aquabyssos]]'s bustling [[Grand Harbor]], one of the most important maritime trade hubs in the known world. Born to an elvish sea captain and a human dock worker, Luna grew up straddling two worlds—the structured hierarchy of maritime law and the rough-and-tumble reality of port life.
 
 ### Rise to Power
-Luna's path to becoming Harbor Master was unconventional. Originally a smuggler and information broker operating from the docks, she earned her position through a combination of blackmail, genuine competence, and a spectacular public service when she single-handedly prevented a [[Kraken]] attack on the harbor by coordinating the city's defenses while the official Harbor Master cowered in his office. The [[City Council of Aquabyssos]] recognized her natural leadership and appointed her to the role, much to the chagrin of more traditional candidates.
+Luna's path to becoming Harbor Master was unconventional. Originally a smuggler and information broker operating from [[The Docks|The Docks]], she earned her position through a combination of blackmail, genuine competence, and a spectacular public service when she single-handedly prevented a [[Kraken]] attack on the harbor by coordinating the city's defenses while the official Harbor Master cowered in his office. The [[City Council of Aquabyssos]] recognized her natural leadership and appointed her to the role, much to the chagrin of more traditional candidates.
 
 ### Current Authority
 As Harbor Master, Luna oversees all maritime traffic entering and leaving [[Aquabyssos]], manages the complex web of dock fees, shipping schedules, and trade regulations, and serves as the de facto law enforcement for the harbor district. Her authority extends to investigating smuggling, piracy, and other maritime crimes, making her one of the most influential figures in the city's economy.
@@ -154,7 +154,7 @@ For those seeking special privileges or access to restricted areas of the harbor
 
 1. **The Trial of Trust:** Proving reliability through completion of a small but important task
 2. **The Trial of Value:** Demonstrating what you can offer the harbor community
-3. **The Trial of Loyalty:** Showing commitment to [[Aquabyssos]]'s prosperity and safety
+3. **The Trial of [[loyalty|loyalty]]:** Showing commitment to [[Aquabyssos]]'s prosperity and safety
 
 ## Personality & Demeanor
 
@@ -189,13 +189,13 @@ Located in the [[Harbor Master's Tower]], a converted lighthouse overlooking the
 
 *"The tide waits for no one, but a smart sailor learns to read the currents. In this harbor, I am both tide and current—cross me at your peril, sail with me to prosperity."* - Harbor Master Luna Freedrift
 
-## Player-Facing Summary
+## Player-[[facing|facing]] Summary
 
 Harbor Master Luna Freedrift is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of Harbor Master Luna Freedrift as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Harbor Master Luna Freedrift.
+Legends speak of Harbor Master Luna Freedrift as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or [[Whispers|Whispers]] on the wind—that herald change around Harbor Master Luna Freedrift.
 
 ### Key Locations
 1. Main entrance/approach
@@ -204,7 +204,7 @@ Legends speak of Harbor Master Luna Freedrift as a nexus where past and present 
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## DM Notes
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -228,27 +228,23 @@ Harbor Master Luna Freedrift is a notable location characterized by its unique f
 ### Founding
 Harbor Master Luna Freedrift was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
-- **Races**: Diverse mix
+- **[[Races|Races]]**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
-- **Market District**: Commerce hub
+- **[[Market District|Market District]]**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
-
 
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -261,7 +257,7 @@ Harbor Master Luna Freedrift was established in the distant past, growing from h
 Ongoing situations affecting Harbor Master Luna Freedrift:
 
 - Political developments
-- Economic conditions
+- Economic [[Conditions|Conditions]]
 - Social movements
 - External threats
 - Opportunities arising
@@ -301,8 +297,7 @@ Ongoing situations affecting Harbor Master Luna Freedrift:
 - Wearing red on holy days
 - Pointing at the moon
 
-
-## Climate & Weather
+## Climate & [[weather|weather]]
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
 
@@ -337,3 +332,6 @@ Ongoing situations affecting Harbor Master Luna Freedrift:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+---
+**Navigation**: [[INDEX|🏠 Home]] | [[INDEX|📚 Index]]

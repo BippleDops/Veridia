@@ -1,3 +1,9 @@
+---
+aliases: ["Thunder Bow of Slaying", "thunder bow of slaying", "Slaying of Bow Thunder"]
+tags: [item, equipment]
+type: item
+---
+
 # Thunder Bow of Slaying
 
 *Weapons, Legendary (requires attunement)*
@@ -16,8 +22,6 @@ A thunder bow carved from dragon bone
 - +1 to attack and damage rolls
 - Grants advantage on initiative
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -32,7 +36,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.354Z*

@@ -131,3 +131,7 @@ Legal Advisor Depth Justice represents a crucial aspect of the world's history, 
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Legal_Advisor_Depth_Justice (02_Worldbuilding)]]

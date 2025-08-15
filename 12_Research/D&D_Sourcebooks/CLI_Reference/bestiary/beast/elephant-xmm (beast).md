@@ -126,3 +126,21 @@ Mentioned in The Hidden Prophecy of Winds
 
 - A journal reveals the truth about this place
 - Strange dreams suggest a curse
+
+## References
+
+- [[Elephant Xmm]]
+- [[2 Appendix a Miscellaneous Creatures]]
+- [[2-appendix-a-miscellaneous-creatures (monster-manual-2014)]]
+- [[3 Animals]]
+- [[3-animals (monster-manual-2025)]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[10-appendix-b-creature-stat-blocks (players-handbook-2024)]]
+- [[Figurine of Wondrous Power Marble Elephant]]
+- [[figurine-of-wondrous-power-marble-elephant-xdmg]]
+- [[Grassland Encounters Levels 1116 Xge]]
+- [[Grassland Encounters Levels 15 Xge]]
+- [[Monsters by Habitat Grassland Monsters Xmm]]
+- [[grassland-encounters-levels-1116-xge (tables)]]
+- [[grassland-encounters-levels-15-xge (tables)]]
+- [[monsters-by-habitat-grassland-monsters-xmm (tables)]]

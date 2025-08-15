@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # 04_Resources_Assets_Portraits_portrait-npc-captain-thaddeus-blackwater-captain-thaddeus-blackwater.svg - Quick Reference
 
 ## Key Info

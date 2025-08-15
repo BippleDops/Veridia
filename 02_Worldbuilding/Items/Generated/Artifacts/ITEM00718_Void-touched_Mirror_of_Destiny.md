@@ -1,3 +1,9 @@
+---
+aliases: ["Void-touched Mirror of Destiny", "void-touched mirror of destiny", "Destiny of Mirror Void-touched"]
+tags: [item, equipment]
+type: item
+---
+
 # Void-touched Mirror of Destiny
 
 *Artifacts, Very Rare*
@@ -16,8 +22,6 @@ A void-touched mirror pulsing with inner light
 - Grant true sight
 - Increase ability score by 2
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -32,7 +36,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.419Z*

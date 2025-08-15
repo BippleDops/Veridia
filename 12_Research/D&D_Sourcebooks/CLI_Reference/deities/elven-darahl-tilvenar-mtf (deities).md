@@ -76,3 +76,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - The authorities needs help investigating before the new moon
 - An heirloom has gone missing and war looms
 - A stranger needs help investigating before the new moon
+
+## References
+
+- [[Elf Deities the Seldarine Mtf]]
+- [[elf-deities-the-seldarine-mtf (tables)]]

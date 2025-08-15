@@ -102,3 +102,8 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Locations Location City Dockmaster Bruno Steadyanchor Dockmaster Bruno Steadyanchor.svg]]
+- [[Assets Locations Location City Drift Harbor District Drift Harbor District.svg]]

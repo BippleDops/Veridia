@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Goldleaf the Wanderer", "elric goldleaf the wanderer", "Elric Goldleaf Wanderer", "Wanderer the Goldleaf Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Goldleaf the Wanderer
 
 *Dwarf Farmer (Commoners), Age 31, Female*
@@ -36,7 +42,6 @@ Grew up in poverty but discovered a talent that might change everything A family
 - **Short Term**: Make this month's payment
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Gareth Lightbringer the Redeemed (Political - Opposition)
 - **Status**: Blood oath bound
@@ -47,16 +52,13 @@ Grew up in poverty but discovered a talent that might change everything A family
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
 
-
 ### Aldric Ravenheart the Redeemed (Political - Ally)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Gareth Winterborn the Redeemed (Political - Puppet)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
-
 
 ### Solas Emberfall the Strong (Political - Opposition)
 - **Status**: Complicated history
@@ -66,7 +68,6 @@ Grew up in poverty but discovered a talent that might change everything A family
 ### Rhiannon Underhill the Wise (Family - Cousin)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Has dragon blood in their veins

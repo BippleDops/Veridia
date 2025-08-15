@@ -95,3 +95,8 @@ improvements: 20
 - Civil war
 - Natural disasters
 - Current power structures established
+
+## References
+
+- [[02_Worldbuilding_Military_Guerrilla_Fighters]]
+- [[Purist Coalition (D&D_References)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Emberfall", "gavril emberfall", "Emberfall Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Emberfall
 
 *Dragonborn Ambassador (Nobles), Age 44, Female*
@@ -36,7 +42,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Find missing person
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Zephyr Brightblade the Lost (Criminal - Handler)
 - **Status**: Professional only
@@ -52,11 +57,9 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Dara Oakenshield (Family - Spouse)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ### Xander Brightblade the Broken (Personal - Nemesis)
 - **Status**: Blood oath bound

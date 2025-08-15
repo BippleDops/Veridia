@@ -109,3 +109,7 @@ improvements: 20
 - Civil war
 - Natural disasters
 - Current power structures established
+
+## References
+
+- [[Assets Portraits Portrait NPC Captain Steelhart Captain Steelhart.svg]]

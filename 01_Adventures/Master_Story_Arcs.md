@@ -1,6 +1,5 @@
 ---
 
-
 title: Master Story Arcs
 type: narrative-framework
 tags:
@@ -305,7 +304,6 @@ While the party pursues the main quest:
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## See Also
 - Related content

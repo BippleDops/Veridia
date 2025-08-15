@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Thornweave the Cunning", "gareth thornweave the cunning", "Gareth Thornweave Cunning", "Cunning the Thornweave Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Thornweave the Cunning
 
 *Halfling Trader (Merchants), Age 46, Female*
@@ -13,7 +19,6 @@
 Short and muscular, with Dreadlocks blonde hair and Black eyes. Fair skin. Weather-beaten face showing hard life.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Speaks to inanimate objects; Extremely superstitious about everything; Never backs down from any challenge
@@ -42,11 +47,9 @@ Uses their business as cover for other activities They recently discovered a sec
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Felicia Ashford the Bold (Family - Cousin)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ### Qadim Xendar the Risen (Criminal - Handler)
 - **Status**: Complicated history

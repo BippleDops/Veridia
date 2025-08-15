@@ -78,3 +78,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Someone is blackmailing a witness for revenge
 - Someone is blackmailing information for power
 - The authorities needs help stealing before dawn
+
+## References
+
+- [[Master_Item_Catalog]]

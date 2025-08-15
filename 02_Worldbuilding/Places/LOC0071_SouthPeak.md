@@ -1,4 +1,5 @@
 ---
+aliases: ["SouthPeak", "southpeak"]
 tags: [generated]
 id: LOC0071
 created: 2025-08-15T04:09:51.315Z
@@ -21,20 +22,17 @@ A modest settlement serving as a trade hub for the surrounding area
 - **Current Leader**: Figurehead manipulated by shadows
 - **Political Stability**: Stable
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -95,7 +93,6 @@ A modest settlement serving as a trade hub for the surrounding area
 
 ---
 *Generated: 2025-08-15T03:21:04.075Z*
-
 
 ## History
 - **Founding**: Origin story

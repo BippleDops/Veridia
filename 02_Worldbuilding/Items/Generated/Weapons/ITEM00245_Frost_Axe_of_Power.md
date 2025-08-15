@@ -1,3 +1,9 @@
+---
+aliases: ["Frost Axe of Power", "frost axe of power", "Power of Axe Frost"]
+tags: [item, equipment]
+type: item
+---
+
 # Frost Axe of Power
 
 *Weapons, Common*
@@ -13,8 +19,6 @@ A frost axe carved from dragon bone
 ## Properties
 - Ignores resistance to damage type
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -29,7 +33,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.364Z*

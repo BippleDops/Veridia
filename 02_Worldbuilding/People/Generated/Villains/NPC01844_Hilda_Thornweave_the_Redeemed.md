@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Thornweave the Redeemed", "hilda thornweave the redeemed", "Hilda Thornweave Redeemed", "Redeemed the Thornweave Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Thornweave the Redeemed
 
 *Firbolg Dark Wizard (Villains), Age 41, Female*
@@ -36,22 +42,18 @@ Believes their evil acts serve a greater good They've made a deal they're beginn
 - **Short Term**: Sabotage competition
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Alaric Winterborn the Lost (Family - Sibling)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Vesper Moonshadow the Redeemed (Family - Cousin)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
 
-
 ### Xander Emberfall the Lost (Family - Spouse)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
-
 
 ### Kaelen Stormwind the Mystic (Personal - Nemesis)
 - **Status**: One-sided affection

@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Jadeclaw the Wise", "dara jadeclaw the wise", "Dara Jadeclaw Wise", "Wise the Jadeclaw Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Jadeclaw the Wise
 
 *Firbolg Cultist (Villains), Age 28, Male*
@@ -13,7 +19,6 @@
 Short and slender, with Braided elaborately black hair and Hazel eyes. Brown skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Collects unusual and worthless objects
@@ -36,27 +41,22 @@ Born into evil but questioning their path They've made a deal they're beginning 
 - **Short Term**: Recruit new members
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Baelor Nightfall the Seeker (Criminal - Informant)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Malakai Jadeclaw the Swift (Professional - Employee)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ### Cedric Xendar the Strong (Personal - Ex-lover)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Pyria Youngblood the Seeker (Criminal - Handler)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ### Hilda Underhill the Risen (Personal - Childhood friend)
 - **Status**: Blood oath bound
@@ -66,7 +66,6 @@ Born into evil but questioning their path They've made a deal they're beginning 
 ### Cedric Darkwater the Guardian (Political - Puppet)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Has a child they're protecting

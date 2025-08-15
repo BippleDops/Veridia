@@ -1,3 +1,9 @@
+---
+aliases: ["Pure Salve of Clarity", "pure salve of clarity", "Clarity of Salve Pure"]
+tags: [item, equipment]
+type: item
+---
+
 # Pure Salve of Clarity
 
 *Consumables, Uncommon*
@@ -14,8 +20,6 @@ A pure salve glowing softly
 - Breathe underwater 1 hour
 - Remove one condition
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -30,7 +34,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.461Z*

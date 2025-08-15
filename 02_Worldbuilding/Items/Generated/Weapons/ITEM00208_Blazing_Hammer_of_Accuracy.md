@@ -1,3 +1,9 @@
+---
+aliases: ["Blazing Hammer of Accuracy", "blazing hammer of accuracy", "Accuracy of Hammer Blazing"]
+tags: [item, equipment]
+type: item
+---
+
 # Blazing Hammer of Accuracy
 
 *Weapons, Common*
@@ -13,8 +19,6 @@ A blazing hammer made of crystallized magic
 ## Properties
 - +2 to attack and damage rolls
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -29,7 +33,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.360Z*

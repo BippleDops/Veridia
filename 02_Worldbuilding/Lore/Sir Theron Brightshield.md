@@ -49,6 +49,11 @@ This content can be adapted and expanded based on specific campaign needs.
 ## [[DM_Notes]]
 *Customize as needed for your specific campaign requirements.*
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*
+
+## References
+
+- [[House Shadowmere (Houses_and_Nobility)]]
+- [[Relationship Web Nuances]]
+- [[Houses_and_Nobility - House Shadowmere]]

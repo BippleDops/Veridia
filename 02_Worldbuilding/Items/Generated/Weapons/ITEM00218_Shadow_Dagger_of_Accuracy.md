@@ -1,3 +1,9 @@
+---
+aliases: ["Shadow Dagger of Accuracy", "shadow dagger of accuracy", "Accuracy of Dagger Shadow"]
+tags: [item, equipment]
+type: item
+---
+
 # Shadow Dagger of Accuracy
 
 *Weapons, Rare (requires attunement)*

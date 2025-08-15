@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Underhill the Broken", "cedric underhill the broken", "Cedric Underhill Broken", "Broken the Underhill Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Underhill the Broken
 
 *Firbolg Dark Wizard (Villains), Age 74, Male*
@@ -42,7 +48,6 @@ Corrupted by an artifact or dark magic Strange abilities have begun manifesting 
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
 
-
 ### Malakai Darkwater the Wise (Criminal - Informant)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
@@ -56,7 +61,6 @@ Corrupted by an artifact or dark magic Strange abilities have begun manifesting 
 ### Ewan Zephyrblade the Seeker (Political - Spy)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Has a child they're protecting

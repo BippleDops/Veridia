@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Grimholt", "hestara grimholt", "Grimholt Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Grimholt
 
 *Dwarf Ambassador (Nobles), Age 57, Non-binary*
@@ -36,22 +42,18 @@ Last survivor of a fallen house, seeking to restore family honor They recently d
 - **Short Term**: Complete current contract
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Idris Crystalbrook the Bold (Personal - Best friend)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
 
-
 ### Elric Darkwater (Political - Puppet)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
 
-
 ### Qadim Oakenshield (Professional - Rival)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ### Gareth Zephyrblade the Redeemed (Criminal - Accomplice)
 - **Status**: One-sided affection

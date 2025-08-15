@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Grimholt the Fallen", "caelum grimholt the fallen", "Caelum Grimholt Fallen", "Fallen the Grimholt Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Grimholt the Fallen
 
 *Dragonborn Fighter (Adventurers), Age 42, Female*
@@ -13,7 +19,6 @@
 Below average and slender, with Long and flowing silver hair and Red eyes. Pale skin. Birthmark shaped like a constellation.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Incredibly optimistic despite evidence
@@ -36,7 +41,6 @@ Accidentally gained powers and learning to control them Strange abilities have b
 - **Short Term**: Recruit new members
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Wynne Grimholt the Wise (Family - Child)
 - **Status**: Strained but maintaining
@@ -47,21 +51,17 @@ Accidentally gained powers and learning to control them Strange abilities have b
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
 
-
 ### Vesper Grimholt the Guardian (Political - Patron)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
-
 
 ### Jorah Keenblade the Broken (Political - Patron)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
 
-
 ### Vesper Lightbringer the Swift (Personal - Love interest)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ### Wynne Nightfall the Redeemed (Personal - Ex-lover)
 - **Status**: One-sided affection

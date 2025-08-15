@@ -27,7 +27,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -307,3 +307,29 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[02_Worldbuilding_Artifacts_Shard_of_Perception]]
+- [[02_Worldbuilding_Equipment_Memory_Pattern_Analyzers]]
+- [[02_Worldbuilding_Groups_The_Nameless_Librarians]]
+- [[02_Worldbuilding_Groups_The_Preservation_Protocol]]
+- [[02_Worldbuilding_Groups_Truth_Keepers]]
+- [[02_Worldbuilding_Items_Memory_Resonators]]
+- [[02_Worldbuilding_Items_Shadow_Dampeners]]
+- [[02_Worldbuilding_Locations_Abyssal_Spires]]
+- [[02_Worldbuilding_Lore_Censorship_Magic]]
+- [[02_Worldbuilding_Lore_GM_Resources]]
+- [[02_Worldbuilding_Lore_Marina''s_Identity_Crisis]]
+- [[02_Worldbuilding_Lore_The_Frequency_Wars]]
+- [[02_Worldbuilding_Lore_The_Memory_Trade]]
+- [[02_Worldbuilding_Lore_The_Void_Shard]]
+- [[02_Worldbuilding_Military_Sabotage_Specialists]]
+- [[02_Worldbuilding_People_Geology_Specialist_Stone_Soundshape]]
+- [[02_Worldbuilding_People_Senator_Nereon_Tidecaller]]
+- [[02_Worldbuilding_Places_Aquabyssos_Prime]]
+- [[02_Worldbuilding_Places_Thalassopolis_Ruins]]
+- [[02_Worldbuilding_Places_The_Twilight_Reaches]]
+- [[02_Worldbuilding_Procedures_Shadow_Resoce_Scanning]]
+- [[02_Worldbuilding_Spells_Mirror_Window]]
+- [[02_Worldbuilding_Tactics_Acoustic_Masking]]

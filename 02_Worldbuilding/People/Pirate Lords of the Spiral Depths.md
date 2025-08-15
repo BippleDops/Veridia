@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-pirate-lords-of-the-spiral-depths-pirate-lords-of-the-spiral-depths.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -251,7 +249,6 @@ Member of House Lionblood - Trait: prophecy
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -287,3 +284,9 @@ Member of House Lionblood - Trait: prophecy
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Archmaster Lyralei]]
+- [[Assets Locations Location City Spymaster Crow Spymaster Crow.svg]]
+- [[Assets Portraits Portrait NPC Lady Seraphina Goldleaf Lady Seraphina Goldleaf.svg]]

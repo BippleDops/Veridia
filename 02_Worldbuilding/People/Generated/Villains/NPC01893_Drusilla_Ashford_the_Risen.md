@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Ashford the Risen", "drusilla ashford the risen", "Drusilla Ashford Risen", "Risen the Ashford Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Ashford the Risen
 
 *Tiefling Crime Boss (Villains), Age 26, Female*
@@ -13,7 +19,6 @@
 Very tall and imposing, with Wild and unkempt brown hair and Violet eyes. Weathered skin. Weather-beaten face showing hard life.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Believes in every conspiracy theory
@@ -36,32 +41,26 @@ Born into evil but questioning their path An old debt has come due at the worst 
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Baelor Frostwhisper the Seeker (Political - Ally)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Aeliana Moonshadow the Wanderer (Political - Opposition)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
-
 
 ### Vesper Silverleaf the Strong (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Orion Underhill the Seeker (Family - Parent)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
 
-
 ### Elric Youngblood the Risen (Political - Patron)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Believes they're saving the world

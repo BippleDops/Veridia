@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Grimholt the Broken", "rhiannon grimholt the broken", "Rhiannon Grimholt Broken", "Broken the Grimholt Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Grimholt the Broken
 
 *Dwarf Ranger (Adventurers), Age 40, Female*
@@ -42,11 +48,9 @@ Chosen by fate to fulfill an ancient prophecy A family member's death has left t
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Gareth Grimholt the Lost (Political - Puppet)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
-
 
 ### Brenna Grimholt the Mystic (Criminal - Fence)
 - **Status**: Mutually beneficial

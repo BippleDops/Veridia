@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Brightblade the Cunning", "caelum brightblade the cunning", "Caelum Brightblade Cunning", "Cunning the Brightblade Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Brightblade the Cunning
 
 *Half-Elf Carpenter (Commoners), Age 35, Male*
@@ -13,7 +19,6 @@
 Below average and stocky, with Shaved auburn hair and Brown eyes. Brown skin. Burn scars on one side of face.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Believes in every conspiracy theory
@@ -42,11 +47,9 @@ Family has worked the same trade for generations, but times are changing They re
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Baelor Quicksilver the Cunning (Political - Opposition)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ### Brenna Ironforge the Mystic (Professional - Rival)
 - **Status**: Mutually beneficial
@@ -56,7 +59,6 @@ Family has worked the same trade for generations, but times are changing They re
 ### Aldric Stormwind the Scholar (Professional - Employer)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Can hear the thoughts of others

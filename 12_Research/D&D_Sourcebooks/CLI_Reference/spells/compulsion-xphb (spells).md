@@ -97,3 +97,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Silverquill Student Scc]]
+- [[silverquill-student-scc (backgrounds)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Paladin Xphb Oath of Glory Xphb]]
+- [[paladin-xphb-oath-of-glory-xphb (classes)]]
+- [[Bewitching Whispers]]
+- [[bewitching-whispers (optional-features)]]

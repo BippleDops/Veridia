@@ -1,3 +1,9 @@
+---
+aliases: ["Celestial Scepter of the Gods", "celestial scepter of the gods", "Celestial Scepter of Gods", "Gods the of Scepter Celestial"]
+tags: [item, equipment]
+type: item
+---
+
 # Celestial Scepter of the Gods
 
 *Artifacts, Legendary (requires attunement)*
@@ -16,8 +22,6 @@ A celestial scepter covered in mysterious symbols
 - Time stop 1/week
 - Regenerate 1 hp/round
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -32,7 +36,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.431Z*

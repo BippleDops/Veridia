@@ -36,7 +36,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-marrow-drinker-captain-marrow-drinker.svg)
 
@@ -236,7 +235,6 @@ Mentioned in The First Prophecy of Depths
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -272,3 +270,15 @@ Mentioned in The First Prophecy of Depths
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Introduction]]
+- [[Assets Locations Location City Admiral Thalassa Stormcurrent V1 Admiral Thalassa Stormcurrent.svg]]
+- [[Assets Locations Location City Captain Marlowe Tidecrest V1 Captain Marlowe Tidecrest.svg]]
+- [[Captain Swift Cloudracer]]
+- [[The Crimson Foundries]]
+- [[The Kraken's Harbor]]
+- [[Captain Swift Cloudracer (D&D_References)]]
+- [[The Kraken's Harbor (D&D_References)]]
+- [[The Crimson Foundries (D&D_Statblocks)]]

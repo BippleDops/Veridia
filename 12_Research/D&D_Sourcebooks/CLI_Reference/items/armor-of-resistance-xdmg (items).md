@@ -108,3 +108,19 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[06 Chapter 14 Metallic Dragons Arise]]
+- [[06-chapter-14-metallic-dragons-arise (rise-of-tiamat)]]
+- [[Armaments Rare Xdmg]]
+- [[Magic Item Table G]]
+- [[Magic Item Table H]]
+- [[Magic Item Table I]]
+- [[Random Magic Items Armaments]]
+- [[armaments-rare-xdmg (tables)]]
+- [[magic-item-table-g (tables)]]
+- [[magic-item-table-h (tables)]]
+- [[magic-item-table-i (tables)]]
+- [[random-magic-items-armaments (tables)]]

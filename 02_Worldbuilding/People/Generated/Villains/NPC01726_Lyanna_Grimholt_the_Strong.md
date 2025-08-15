@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Grimholt the Strong", "lyanna grimholt the strong", "Lyanna Grimholt Strong", "Strong the Grimholt Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Grimholt the Strong
 
 *Elf Assassin (Villains), Age 58, Male*
@@ -13,7 +19,6 @@
 Below average and athletic, with Partially shaved red hair and Amber eyes. Brown skin. Crooked nose from multiple breaks.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Collects unusual and worthless objects; Believes in every conspiracy theory
@@ -42,11 +47,9 @@ Believes their evil acts serve a greater good A chance encounter last winter cha
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Drusilla Keenblade the Fallen (Family - Spouse)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ### Orion Stormwind the Strong (Professional - Employer)
 - **Status**: Strong and trusting

@@ -1,3 +1,9 @@
+---
+aliases: ["Concentrated Elixir of Healing", "concentrated elixir of healing", "Healing of Elixir Concentrated"]
+tags: [item, equipment]
+type: item
+---
+
 # Concentrated Elixir of Healing
 
 *Consumables, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A concentrated elixir glowing softly
 - Remove one condition
 - Resistance for 10 minutes
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -31,7 +35,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.464Z*

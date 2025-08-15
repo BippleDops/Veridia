@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Ironwood the Risen", "delara ironwood the risen", "Delara Ironwood Risen", "Risen the Ironwood Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Ironwood the Risen
 
 *Tabaxi Noble (Nobles), Age 61, Non-binary*
@@ -13,7 +19,6 @@
 Very short and athletic, with Tied back red hair and Amber eyes. Pale skin. Missing ear from old battle.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Laughs at the most inappropriate times; Always tells the absolute truth
@@ -47,7 +52,6 @@ Last survivor of a fallen house, seeking to restore family honor They're being b
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Xander Frostwhisper (Professional - Partner)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
@@ -61,7 +65,6 @@ Last survivor of a fallen house, seeking to restore family honor They're being b
 ### Baelor Nightfall (Family - Sibling)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

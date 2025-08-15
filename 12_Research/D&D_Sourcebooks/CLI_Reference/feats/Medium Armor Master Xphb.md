@@ -76,3 +76,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Someone is protecting a artifact for revenge
 - A corpse reveals the truth about the government
 - A document has gone missing and chaos spreads
+
+## References
+
+- [[06 Chapter 5 Feats]]
+- [[06-chapter-5-feats (players-handbook-2024)]]
+- [[Repeatable Feat List Xphb]]
+- [[repeatable-feat-list-xphb (tables)]]

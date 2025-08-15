@@ -97,3 +97,15 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Warlock Xphb the Hexblade Xge]]
+- [[warlock-xphb-the-hexblade-xge (classes)]]
+- [[Necklace of Prayer Beads Xdmg]]
+- [[necklace-of-prayer-beads-xdmg (items)]]
+- [[Tiefling Zariel Mtf]]
+- [[tiefling-zariel-mtf (races)]]

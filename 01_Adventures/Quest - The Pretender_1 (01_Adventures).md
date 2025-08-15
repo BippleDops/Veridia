@@ -14,15 +14,12 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 # Quest - The Pretender_1
-
 
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -111,7 +108,6 @@ Confronting the source of the problem and determining outcomes.
 ### Optional Areas
 - *[Side locations]*
 
-
 ## Hooks
 - **Personal**: Character connection
 - **Professional**: Hired for the job
@@ -162,3 +158,8 @@ Confronting the source of the problem and determining outcomes.
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
 - **Hidden Details**: Secret aspects
+
+## References
+
+- [[The Crossroads Tavern]]
+- [[The Crossroads Tavern (D&D_References)]]

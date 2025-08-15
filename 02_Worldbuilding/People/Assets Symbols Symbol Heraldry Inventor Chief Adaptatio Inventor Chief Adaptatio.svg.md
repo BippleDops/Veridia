@@ -206,3 +206,8 @@ This NPC can serve multiple roles:
 - Civil war
 - Natural disasters
 - Current power structures established
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-twin-reality-marsh-captain-twin-reality-marsh.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-master-of-currents-poseidon-master-of-currents-poseidon.svg]]

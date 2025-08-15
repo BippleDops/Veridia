@@ -61,3 +61,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## References
+
+- [[LIFE_MANAGEMENT_SYSTEM]]
+- [[Master_Campaign_Index]]
+- [[Campaign_Dashboard]]
+- [[Location Index]]
+- [[Aethermoor_Session_01 (D&D_References)]]
+- [[Aethermoor_Session_10 (D&D_References)]]
+- [[Aquabyssos_Session_01 (D&D_References)]]
+- [[Aquabyssos_Session_10 (D&D_References)]]
+- [[Location Index (D&D_References)]]
+- [[D&D_SOURCEBOOK_INTEGRATION_DASHBOARD]]
+- [[Master Narrative Web]]
+- [[Master_Narrative_Web (Indexes)]]
+- [[VAULT_FINAL_STATUS]]
+- [[VAULT_MASTER_INDEX]]

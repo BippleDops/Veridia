@@ -1,3 +1,8 @@
+---
+tags: [faction, organization]
+type: faction
+---
+
 # Map Collection Index
 
 Generated: 2025-08-15T02:48:39.210Z

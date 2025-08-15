@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Dawnstrider the Strong", "thalia dawnstrider the strong", "Thalia Dawnstrider Strong", "Strong the Dawnstrider Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Dawnstrider the Strong
 
 *Half-Orc Dark Wizard (Villains), Age 60, Male*
@@ -36,17 +42,14 @@ Born into evil but questioning their path They recently discovered a secret that
 - **Short Term**: Survive until next week
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Alaric Ravenheart the Wanderer (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
 
-
 ### Nerys Ironwood the Cunning (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
-
 
 ### Orion Zephyrblade the Scholar (Professional - Employee)
 - **Status**: Mutually beneficial

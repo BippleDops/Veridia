@@ -35,7 +35,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-rescue-captain-rescue.svg)
 
@@ -226,7 +225,6 @@ Member of House Dragonblood - Trait: divine blood
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -296,3 +294,10 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Art Market Master Cornelius Driftwood.png]]
+- [[Assets Locations Location City the Drowning Truth the Drowning Truth.svg]]
+- [[Assets Portraits Portrait NPC Merchant Captain Trade Merchant Captain Trade.svg]]
+- [[Assets Symbols Symbol Heraldry Regulatory Medical Authorit Regulatory Medical Authorit.svg]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Brightblade the Broken", "pyria brightblade the broken", "Pyria Brightblade Broken", "Broken the Brightblade Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Brightblade the Broken
 
 *Tabaxi Noble (Nobles), Age 73, Non-binary*
@@ -36,7 +42,6 @@ Last survivor of a fallen house, seeking to restore family honor A prophetic dre
 - **Short Term**: Complete current contract
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Wynne Voidwalker the Mystic (Political - Opposition)
 - **Status**: Professional only
@@ -47,21 +52,17 @@ Last survivor of a fallen house, seeking to restore family honor A prophetic dre
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
 
-
 ### Faelyn Voidwalker (Political - Opposition)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
-
 
 ### Jorah Lightbringer the Guardian (Criminal - Target)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
 
-
 ### Idris Hawthorne the Broken (Professional - Employee)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Practicing forbidden magic

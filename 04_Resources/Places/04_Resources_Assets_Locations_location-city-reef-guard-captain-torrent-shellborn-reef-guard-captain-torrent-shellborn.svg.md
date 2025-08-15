@@ -102,3 +102,9 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Portraits Portrait NPC Lord General Harrison Ironhold Lord General Harrison Ironhold.svg]]
+- [[Assets Symbols Symbol Heraldry Acoustic Infection Acoustic Infection.svg]]
+- [[Assets Symbols Symbol Heraldry Welfare Director Caretake V1 Welfare Director Caretake.svg]]

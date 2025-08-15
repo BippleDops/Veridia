@@ -1,6 +1,5 @@
 ---
 
-
 title: Combat Rules
 type: mechanics
 tags:
@@ -138,7 +137,6 @@ A: No, use the higher bonus only
 ### Q: What about antimagic fields?
 A: Supernatural abilities suppressed, mundane portions still function
 
-
 ## Common Mistakes
 *Frequent misunderstandings to avoid*
 
@@ -209,3 +207,7 @@ A: Supernatural abilities suppressed, mundane portions still function
 ### Bonus Actions
 - Only if feature/spell grants one
 - Common: Off-hand attack, Cunning Action, Healing Word
+
+## References
+
+- [[QUEST0018_The_Sunken_Temple_Uprising]]

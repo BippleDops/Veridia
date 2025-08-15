@@ -42,7 +42,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-crimson-shard-guardian-the-crimson-shard-guardian.svg)
 
@@ -50,7 +49,6 @@ improvements: 20
 
 # The Crimson Shard Guardian
 *Bound Elemental, Herald of the Blood Plague*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -550,7 +548,6 @@ Member of House Lionblood - Trait: divine blood
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -586,3 +583,8 @@ Member of House Lionblood - Trait: divine blood
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Harbor Master Tideshade V1 Harbor Master Tideshade.svg]]
+- [[Assets Vehicles Vehicle Ship Resonance Drive Yacht Resonance Drive Yacht.svg]]

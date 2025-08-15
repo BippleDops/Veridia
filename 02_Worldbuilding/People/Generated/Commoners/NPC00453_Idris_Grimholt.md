@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Grimholt", "idris grimholt", "Grimholt Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Grimholt
 
 *Dwarf Farmer (Commoners), Age 41, Female*
@@ -36,22 +42,18 @@ Former soldier trying to adjust to civilian life Strange abilities have begun ma
 - **Short Term**: Avoid the authorities
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Cedric Nightfall the Swift (Professional - Rival)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Pyria Crystalbrook (Criminal - Accomplice)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Corvus Grimholt (Political - Puppet)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Can hear the thoughts of others

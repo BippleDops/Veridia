@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Silverleaf the Strong", "baelor silverleaf the strong", "Baelor Silverleaf Strong", "Strong the Silverleaf Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Silverleaf the Strong
 
 *Firbolg Broker (Merchants), Age 58, Female*
@@ -13,7 +19,6 @@
 Very tall and imposing, with Braided elaborately white hair and Blue eyes. Freckled skin. Weather-beaten face showing hard life.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Never backs down from any challenge; Believes in every conspiracy theory; Always speaks in metaphors and riddles
@@ -36,12 +41,10 @@ Uses their business as cover for other activities They're being blackmailed by s
 - **Short Term**: Find missing person
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Vesper Stormwind the Seeker (Criminal - Target)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ### Ewan Crystalbrook the Redeemed (Family - Parent)
 - **Status**: Blood oath bound
@@ -52,11 +55,9 @@ Uses their business as cover for other activities They're being blackmailed by s
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Aeliana Keenblade the Fallen (Criminal - Handler)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Is actually a spy for foreign power

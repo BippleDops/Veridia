@@ -1,3 +1,9 @@
+---
+aliases: ["Ethereal Shield of the Guardian", "ethereal shield of the guardian", "Ethereal Shield of Guardian", "Guardian the of Shield Ethereal"]
+tags: [item, equipment]
+type: item
+---
+
 # Ethereal Shield of the Guardian
 
 *Armor, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A ethereal shield bearing ancient runes
 - Reduces damage by 3
 - +2 to AC
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -30,7 +34,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.397Z*

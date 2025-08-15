@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Hawthorne the Broken", "xander hawthorne the broken", "Xander Hawthorne Broken", "Broken the Hawthorne Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Hawthorne the Broken
 
 *Half-Elf Bard (Adventurers), Age 21, Male*
@@ -13,7 +19,6 @@
 Very tall and lanky, with Tied back auburn hair and Brown eyes. Dark skin. Unusual eye color for their race.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Never uses people's real names; Believes in every conspiracy theory
@@ -36,12 +41,10 @@ Seeking vengeance for a murdered mentor They've fallen in love with someone they
 - **Short Term**: Survive until next week
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Malakai Quicksilver the Broken (Criminal - Informant)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ### Elric Crystalbrook the Guardian (Political - Spy)
 - **Status**: Mutually beneficial
@@ -52,7 +55,6 @@ Seeking vengeance for a murdered mentor They've fallen in love with someone they
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Fiora Youngblood the Risen (Professional - Employer)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
@@ -61,7 +63,6 @@ Seeking vengeance for a murdered mentor They've fallen in love with someone they
 ### Aldric Brightblade the Wanderer (Professional - Mentor)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Possessed by ancient spirit

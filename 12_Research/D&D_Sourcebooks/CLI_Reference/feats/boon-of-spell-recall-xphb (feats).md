@@ -66,7 +66,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -85,4 +84,14 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[boon-of-spell-recall-xphb (feats)-phb]]` in CLI_Reference/spells/
+See: `[[boon-of-spell-recall-xphb (feats)|boon-of-spell-recall-xphb (feats)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[06 Chapter 5 Feats]]
+- [[06-chapter-5-feats (players-handbook-2024)]]
+- [[Bard Xphb]]
+- [[bard-xphb (classes)]]
+- [[bard-xphb 2 (classes)]]
+- [[Repeatable Feat List Xphb]]
+- [[repeatable-feat-list-xphb (tables)]]

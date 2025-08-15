@@ -11,7 +11,7 @@ created: '2025-01-15'
 
 ## Portrait
 
-![[portrait_04_resources_assets_portraits_portrait-npc-trade-captain-current-trade-captain-current.svg.png]]
+![[04_Resources|portrait_04_resources_assets_portraits_portrait-npc-trade-captain-current-trade-captain-current.svg.png]]
 
 *Portrait reference for 04_Resources_Assets_Portraits_portrait-npc-trade-captain-current-trade-captain-current.svg*
 
@@ -75,3 +75,9 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+## References
+
+- [[Assets Locations Location City Commander Reef Shadowstrike Commander Reef Shadowstrike.svg]]
+- [[Assets Locations Location City Master Chronologist Temporal Truthkeeper V1 Master Chronologist Temporal Truthkeeper.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-trade-captain-current-trade-captain-current.svg_Quick_Ref]]

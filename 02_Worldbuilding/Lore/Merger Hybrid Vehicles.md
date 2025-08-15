@@ -46,5 +46,13 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Player Handout Merger Vessels]]
+- [[Merger_Events_Pack_A]]
+- [[Merger_Events_Pack_D]]
+- [[Reality Breach Event Compiler]]
+- [[Reality_Breach_Event_Compiler (D&D_References)]]

@@ -161,3 +161,10 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Shoosuva Mpmm]]
+- [[3 Bestiary]]
+- [[3-bestiary (volos-guide-to-monsters)]]
+- [[Creating a Gnoll War Band Gnoll War Band Special Creatures Vgm]]

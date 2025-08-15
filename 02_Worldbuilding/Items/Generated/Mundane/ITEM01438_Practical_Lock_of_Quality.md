@@ -1,3 +1,9 @@
+---
+aliases: ["Practical Lock of Quality", "practical lock of quality", "Quality of Lock Practical"]
+tags: [item, equipment]
+type: item
+---
+
 # Practical Lock of Quality
 
 *Mundane, Common*

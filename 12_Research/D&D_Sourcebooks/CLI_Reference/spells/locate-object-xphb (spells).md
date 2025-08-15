@@ -91,7 +91,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -110,4 +109,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[locate-object-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[locate-object-xphb (spells)|locate-object-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Sphinx of Lore Xmm]]
+- [[Sphinx of Secrets Xmm]]
+- [[sphinx-of-lore-xmm (celestial)]]
+- [[sphinx-of-secrets-xmm (celestial)]]
+- [[Green Hag Xmm]]
+- [[Sea Hag Xmm]]
+- [[green-hag-xmm (fey)]]
+- [[sea-hag-xmm (fey)]]
+- [[Night Hag Xmm]]
+- [[night-hag-xmm (fiend)]]
+- [[Cyclops Oracle Xmm]]
+- [[cyclops-oracle-xmm (giant)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Whelm Xdmg]]
+- [[whelm-xdmg (items)]]

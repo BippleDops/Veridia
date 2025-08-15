@@ -1,11 +1,11 @@
 ---
+aliases: ["Dara Brightblade", "dara brightblade", "Brightblade Dara"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -78,7 +78,6 @@ Athletics, Perception
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 83 gold pieces
 - Letter of recommendation
@@ -90,7 +89,6 @@ Athletics, Perception
 
 ---
 *Generated: 2025-08-15T03:21:04.042Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

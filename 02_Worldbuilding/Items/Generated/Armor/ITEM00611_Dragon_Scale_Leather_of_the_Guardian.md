@@ -1,3 +1,9 @@
+---
+aliases: ["Dragon Scale Leather of the Guardian", "dragon scale leather of the guardian", "Dragon Scale Leather of Guardian", "Guardian the of Leather Scale Dragon"]
+tags: [item, equipment]
+type: item
+---
+
 # Dragon Scale Leather of the Guardian
 
 *Armor, Rare*

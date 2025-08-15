@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Crystalbrook the Seeker", "baelor crystalbrook the seeker", "Baelor Crystalbrook Seeker", "Seeker the Crystalbrook Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Crystalbrook the Seeker
 
 *Firbolg Blacksmith (Commoners), Age 38, Male*
@@ -13,7 +19,6 @@
 Very short and imposing, with Dreadlocks white hair and Red eyes. Brown skin. Crooked nose from multiple breaks.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Compulsive liar about minor things; Always tells the absolute truth; Incredibly optimistic despite evidence
@@ -36,7 +41,6 @@ Survivor of a disaster that destroyed their village They've been marked by a sec
 - **Short Term**: Gather information
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Brenna Youngblood the Risen (Criminal - Informant)
 - **Status**: On the verge of collapse
@@ -46,7 +50,6 @@ Survivor of a disaster that destroyed their village They've been marked by a sec
 ### Kaelen Hawthorne the Cunning (Professional - Partner)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ### Elric Jadeclaw the Fallen (Criminal - Informant)
 - **Status**: Strong and trusting
@@ -61,7 +64,6 @@ Survivor of a disaster that destroyed their village They've been marked by a sec
 ### Wynne Proudmore the Scholar (Personal - Ex-lover)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Knows location of ancient treasure

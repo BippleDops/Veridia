@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Zephyrblade the Risen", "xander zephyrblade the risen", "Xander Zephyrblade Risen", "Risen the Zephyrblade Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Zephyrblade the Risen
 
 *Firbolg Bard (Adventurers), Age 62, Non-binary*
@@ -13,7 +19,6 @@
 Tall and compact, with Tied back white hair and Amber eyes. Brown skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Never uses people's real names; Laughs at the most inappropriate times
@@ -47,26 +52,21 @@ Running from a dark past that won't stay buried A family member's death has left
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
 
-
 ### Malakai Stormwind the Risen (Criminal - Target)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
-
 
 ### Solas Brightblade the Risen (Political - Puppet)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Lyanna Stormwind the Seeker (Professional - Partner)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Urien Winterborn the Fallen (Professional - Rival)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Is from the future

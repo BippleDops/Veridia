@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Xendar the Wanderer", "aeliana xendar the wanderer", "Aeliana Xendar Wanderer", "Wanderer the Xendar Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Xendar the Wanderer
 
 *Aasimar Trader (Merchants), Age 57, Male*
@@ -13,7 +19,6 @@
 Very short and slender, with Mohawk red hair and Brown eyes. Weathered skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Constantly quotes ancient texts; Never backs down from any challenge; Always tells the absolute truth
@@ -36,17 +41,14 @@ Former adventurer who retired to open a shop A prophetic dream has been haunting
 - **Short Term**: Survive until next week
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Pyria Ravenheart the Bold (Professional - Mentor)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Corvus Frostwhisper the Broken (Family - Parent)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
-
 
 ### Felicia Quicksilver the Strong (Professional - Rival)
 - **Status**: Secretly hostile

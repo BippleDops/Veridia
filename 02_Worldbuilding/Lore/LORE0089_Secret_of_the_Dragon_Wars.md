@@ -1,4 +1,5 @@
 ---
+aliases: ["Secret of the Dragon Wars", "secret of the dragon wars", "Secret of Dragon Wars", "Wars Dragon the of Secret"]
 tags: [generated]
 id: LORE0089_Secret_of_the_Dragon_Wars
 created: 2025-08-15T04:09:51.153Z

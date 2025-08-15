@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Jadeclaw the Seeker", "elric jadeclaw the seeker", "Elric Jadeclaw Seeker", "Seeker the Jadeclaw Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Jadeclaw the Seeker
 
 *Half-Elf Courtier (Nobles), Age 77, Male*
@@ -36,7 +42,6 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Short Term**: Complete current contract
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Alaric Thornweave the Mystic (Political - Spy)
 - **Status**: On the verge of collapse
@@ -51,7 +56,6 @@ Recently elevated to nobility through service, still learning courtly ways They'
 ### Hestara Blackstone the Wanderer (Family - Cousin)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Practicing forbidden magic

@@ -190,3 +190,10 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Nerissa_Deepcurrent]]
+- [[Ancient Aquabyssos Rulers (D&D_References)]]
+- [[Nerissa Deepcurrent (D&D_References)]]
+- [[Nerissa_Deepcurrent (D&D_References)]]

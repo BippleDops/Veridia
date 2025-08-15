@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Ironwood the Broken", "rhiannon ironwood the broken", "Rhiannon Ironwood Broken", "Broken the Ironwood Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Ironwood the Broken
 
 *Human Bard (Adventurers), Age 71, Non-binary*
@@ -13,7 +19,6 @@
 Above average and delicate, with Short and neat gray hair and Brown eyes. Weathered skin. Intricate tattoos covering arms.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Laughs at the most inappropriate times; Collects unusual and worthless objects
@@ -42,7 +47,6 @@ Running from a dark past that won't stay buried A family member's death has left
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Aeliana Crystalbrook the Broken (Criminal - Handler)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
@@ -51,7 +55,6 @@ Running from a dark past that won't stay buried A family member's death has left
 ### Wynne Hawthorne the Cunning (Criminal - Accomplice)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
-
 
 ### Zephyr Zephyrblade the Redeemed (Professional - Mentor)
 - **Status**: Complicated history

@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Stormwind the Wanderer", "kaelen stormwind the wanderer", "Kaelen Stormwind Wanderer", "Wanderer the Stormwind Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Stormwind the Wanderer
 
 *Gnome Courtier (Nobles), Age 40, Non-binary*
@@ -13,7 +19,6 @@
 Average height and heavyset, with Short and neat white hair and Hazel eyes. Pale skin. Unusual eye color for their race.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Never backs down from any challenge
@@ -36,7 +41,6 @@ Recently elevated to nobility through service, still learning courtly ways A cha
 - **Short Term**: Avoid the authorities
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Orion Zephyrblade (Personal - Childhood friend)
 - **Status**: Professional only
@@ -47,21 +51,17 @@ Recently elevated to nobility through service, still learning courtly ways A cha
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Solas Silverleaf (Family - Child)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
-
 
 ### Cedric Voidwalker the Seeker (Personal - Best friend)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
 
-
 ### Qadim Ironforge the Wanderer (Criminal - Accomplice)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Child from scandalous affair

@@ -120,12 +120,10 @@ The main reason parties get involved
 - Consequences
 - Epilogue hooks
 
-
 ## Pronunciation Guide
 - **Theme**: [THEME]
 - **Theme**: [THEME]
 - **Themes**: [THEMES]
-
 
 ## See Also
 - Related content

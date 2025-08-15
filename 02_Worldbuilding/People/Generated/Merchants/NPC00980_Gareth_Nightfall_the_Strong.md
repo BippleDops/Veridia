@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Nightfall the Strong", "gareth nightfall the strong", "Gareth Nightfall Strong", "Strong the Nightfall Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Nightfall the Strong
 
 *Gnome Appraiser (Merchants), Age 62, Female*
@@ -13,7 +19,6 @@
 Very tall and slender, with Short and neat brown hair and Red eyes. Pale skin. Missing ear from old battle.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Collects unusual and worthless objects
@@ -36,17 +41,14 @@ Former adventurer who retired to open a shop They've fallen in love with someone
 - **Short Term**: Gather information
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Erasmus Goldleaf the Wise (Personal - Love interest)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Branwen Quicksilver the Seeker (Family - Parent)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ### Erasmus Stormwind the Bold (Personal - Love interest)
 - **Status**: On the verge of collapse
@@ -57,11 +59,9 @@ Former adventurer who retired to open a shop They've fallen in love with someone
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Dara Voidwalker the Guardian (Political - Patron)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ### Zephyr Crystalbrook the Risen (Professional - Rival)
 - **Status**: Strained but maintaining

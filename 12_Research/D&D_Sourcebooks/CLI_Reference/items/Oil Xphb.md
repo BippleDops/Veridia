@@ -97,3 +97,33 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Hermit Xphb]]
+- [[Scribe Xphb]]
+- [[hermit-xphb (backgrounds)]]
+- [[scribe-xphb (backgrounds)]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Alchemists Supplies Xphb]]
+- [[Burglars Pack Xphb]]
+- [[Diplomats Pack Xphb]]
+- [[Dungeoneers Pack Xphb]]
+- [[Entertainers Pack Xphb]]
+- [[Explorers Pack Xphb]]
+- [[Lamp Xphb]]
+- [[Monster Hunters Pack Vrgr]]
+- [[Scholars Pack Xphb]]
+- [[alchemists-supplies-xphb (items)]]
+- [[burglars-pack-xphb (items)]]
+- [[diplomats-pack-xphb (items)]]
+- [[dungeoneers-pack-xphb (items)]]
+- [[entertainers-pack-xphb (items)]]
+- [[explorers-pack-xphb (items)]]
+- [[lamp-xphb (items)]]
+- [[monster-hunters-pack-vrgr (items)]]
+- [[scholars-pack-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

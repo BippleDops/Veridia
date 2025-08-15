@@ -78,7 +78,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Scaling by Party Level
 - **Level 1-4**: Reduce enemies
 - **Level 5-10**: Standard difficulty
@@ -112,3 +111,7 @@ Contextual improvement based on 12_Research
 ### Bonus Actions
 - Only if feature/spell grants one
 - Common: Off-hand attack, Cunning Action, Healing Word
+
+## References
+
+- [[README]]

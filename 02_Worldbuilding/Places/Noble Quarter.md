@@ -630,20 +630,17 @@ Noble Quarter is a notable location characterized by its unique features and str
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
-
 
 ## Connections
 - **North**: Trade road to neighboring settlement
@@ -676,7 +673,6 @@ Ongoing situations affecting Noble Quarter:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -713,3 +709,11 @@ Ongoing situations affecting Noble Quarter:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Noble Quarter Council Chambers]]
+- [[Noble Quarter Salons]]
+- [[Temple Ward]]
+- [[The Noble Quarter Market]]
+- [[Temple Ward (D&D_Statblocks)]]

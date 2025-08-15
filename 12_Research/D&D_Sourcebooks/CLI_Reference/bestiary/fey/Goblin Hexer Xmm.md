@@ -153,3 +153,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A letter reveals ancient history about the government
 - Strange sightings suggest a conspiracy
+
+## References
+
+- [[goblin-hexer-xmm (fey)]]
+- [[Monsters by Habitat Forest Monsters Xmm]]
+- [[Monsters by Habitat Grassland Monsters Xmm]]
+- [[Monsters by Habitat Hill Monsters Xmm]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[monsters-by-habitat-forest-monsters-xmm (tables)]]
+- [[monsters-by-habitat-grassland-monsters-xmm (tables)]]
+- [[monsters-by-habitat-hill-monsters-xmm (tables)]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]

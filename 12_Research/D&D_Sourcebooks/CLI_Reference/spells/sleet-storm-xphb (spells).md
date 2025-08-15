@@ -104,7 +104,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -123,4 +122,18 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[sleet-storm-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[sleet-storm-xphb (spells)|sleet-storm-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Winter Eladrin Mpmm]]
+- [[winter-eladrin-mpmm (fey)]]
+- [[Yan C Bin Pota]]
+- [[yan-c-bin-pota (legendary-group)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Tempest Domain]]
+- [[cleric-xphb-tempest-domain (classes)]]
+- [[Wand of Winter Hotdq]]
+- [[wand-of-winter-hotdq (items)]]

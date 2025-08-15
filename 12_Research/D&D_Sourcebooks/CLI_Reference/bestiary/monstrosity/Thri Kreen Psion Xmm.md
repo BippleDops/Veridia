@@ -154,3 +154,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[thri-kreen-psion-xmm (monstrosity)]]
+- [[Monsters by Habitat Grassland Monsters Xmm]]
+- [[monsters-by-habitat-grassland-monsters-xmm (tables)]]

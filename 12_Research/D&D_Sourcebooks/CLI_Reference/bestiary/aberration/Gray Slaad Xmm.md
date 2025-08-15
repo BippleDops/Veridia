@@ -163,3 +163,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+## References
+
+- [[gray-slaad-xmm (aberration)]]
+- [[Urban Encounters Levels 1116 Xge]]
+- [[Urban Encounters Levels 1720 Xge]]
+- [[Urban Encounters Levels 510 Xge]]
+- [[urban-encounters-levels-1116-xge (tables)]]
+- [[urban-encounters-levels-1720-xge (tables)]]
+- [[urban-encounters-levels-510-xge (tables)]]

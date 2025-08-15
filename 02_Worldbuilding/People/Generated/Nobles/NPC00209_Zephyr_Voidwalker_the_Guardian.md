@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Voidwalker the Guardian", "zephyr voidwalker the guardian", "Zephyr Voidwalker Guardian", "Guardian the Voidwalker Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Voidwalker the Guardian
 
 *Genasi Ambassador (Nobles), Age 55, Non-binary*
@@ -36,22 +42,18 @@ Exiled from their homeland, trying to rebuild their power base A family member's
 - **Short Term**: Complete current contract
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Qadim Xendar the Cunning (Family - Child)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Rhiannon Moonshadow the Lost (Criminal - Accomplice)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Branwen Winterborn (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

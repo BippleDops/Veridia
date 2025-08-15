@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Silverleaf the Guardian", "kaelen silverleaf the guardian", "Kaelen Silverleaf Guardian", "Guardian the Silverleaf Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Silverleaf the Guardian
 
 *Dragonborn Blacksmith (Commoners), Age 72, Female*
@@ -13,7 +19,6 @@
 Tall and athletic, with Braided elaborately auburn hair and Green eyes. Olive skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Compulsive liar about minor things; Always tells the absolute truth
@@ -47,7 +52,6 @@ Grew up in poverty but discovered a talent that might change everything They rec
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
 
-
 ### Vesper Ravenheart the Broken (Personal - Ex-lover)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
@@ -61,7 +65,6 @@ Grew up in poverty but discovered a talent that might change everything They rec
 ### Xander Quicksilver the Wanderer (Criminal - Informant)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
-
 
 ### Urien Frostwhisper the Risen (Personal - Love interest)
 - **Status**: Secretly hostile

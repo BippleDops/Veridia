@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Oakenshield the Redeemed", "ewan oakenshield the redeemed", "Ewan Oakenshield Redeemed", "Redeemed the Oakenshield Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Oakenshield the Redeemed
 
 *Dragonborn Dark Wizard (Villains), Age 63, Female*
@@ -13,7 +19,6 @@
 Above average and wiry, with Shaved auburn hair and Blue eyes. Dark skin. Weather-beaten face showing hard life.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Believes in every conspiracy theory
@@ -42,7 +47,6 @@ Betrayed by those they trusted, now seeking revenge on the world They recently d
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Orion Crystalbrook the Wise (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
@@ -51,7 +55,6 @@ Betrayed by those they trusted, now seeking revenge on the world They recently d
 ### Pyria Blackstone the Wanderer (Family - Spouse)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Believes they're saving the world

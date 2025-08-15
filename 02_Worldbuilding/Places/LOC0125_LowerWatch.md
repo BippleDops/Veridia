@@ -1,4 +1,5 @@
 ---
+aliases: ["LowerWatch", "lowerwatch"]
 tags: [generated]
 id: LOC0125
 created: 2025-08-15T04:09:51.347Z
@@ -21,20 +22,17 @@ The crumbling remains of a once-great civilization
 - **Current Leader**: Guildmaster council
 - **Political Stability**: Stable
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -91,7 +89,6 @@ The crumbling remains of a once-great civilization
 
 ---
 *Generated: 2025-08-15T03:21:04.080Z*
-
 
 ## History
 - **Founding**: Origin story

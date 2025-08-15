@@ -1,3 +1,9 @@
+---
+aliases: ["Infernal Mirror of the Gods", "infernal mirror of the gods", "Infernal Mirror of Gods", "Gods the of Mirror Infernal"]
+tags: [item, equipment]
+type: item
+---
+
 # Infernal Mirror of the Gods
 
 *Artifacts, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A infernal mirror covered in mysterious symbols
 - Plane shift 1/day
 - Immunity to charm
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -32,7 +36,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.425Z*

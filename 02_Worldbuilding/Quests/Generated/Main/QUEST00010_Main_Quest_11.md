@@ -1,3 +1,9 @@
+---
+aliases: ["Main Quest 11", "main quest 11", "11 Quest Main"]
+tags: [quest, adventure]
+type: quest
+---
+
 # Main Quest 11
 
 *Main Quest*

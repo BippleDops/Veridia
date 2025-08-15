@@ -187,7 +187,7 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[NPC Reactions]] (ally)
+- [[NPC_Reactions|NPC Reactions]] (ally)
 - [[Shadow Binding Sanctum]] (enemy)
 - [[Enforcer Chief Mako Ironjaw]] (enemy)
 ---

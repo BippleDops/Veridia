@@ -75,3 +75,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A journal reveals a betrayal about the government
 - A noble needs help investigating before the new moon
 - Strange dreams suggest a curse
+
+## References
+
+- [[celtic-lugh (deities)]]
+- [[The Celtic Pantheon Celtic Deities Phb]]
+- [[the-celtic-pantheon-celtic-deities-phb (tables)]]

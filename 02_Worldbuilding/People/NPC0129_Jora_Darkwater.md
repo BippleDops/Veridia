@@ -1,11 +1,11 @@
 ---
+aliases: ["Jora Darkwater", "jora darkwater", "Darkwater Jora"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Grew up on the streets, learning to survive. Years ago, they witnessed something
 ### Skills
 Deception, Stealth, Investigation, Athletics
 
-
-
 ## Possessions
 - 59 gold pieces
 - Mysterious key
@@ -91,7 +89,6 @@ Deception, Stealth, Investigation, Athletics
 
 ---
 *Generated: 2025-08-15T03:20:13.086Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

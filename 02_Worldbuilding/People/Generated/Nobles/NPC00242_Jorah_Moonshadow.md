@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Moonshadow", "jorah moonshadow", "Moonshadow Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Moonshadow
 
 *Half-Elf Ambassador (Nobles), Age 29, Female*
@@ -42,7 +48,6 @@ Exiled from their homeland, trying to rebuild their power base A chance encounte
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
 
-
 ### Gavril Blackstone the Lost (Political - Opposition)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
@@ -61,7 +66,6 @@ Exiled from their homeland, trying to rebuild their power base A chance encounte
 ### Nerys Underhill the Risen (Professional - Mentor)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Practicing forbidden magic

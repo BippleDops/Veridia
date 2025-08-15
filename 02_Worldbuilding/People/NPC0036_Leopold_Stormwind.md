@@ -1,11 +1,11 @@
 ---
+aliases: ["Leopold Stormwind", "leopold stormwind", "Stormwind Leopold"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -79,7 +79,6 @@ Investigation, Deception
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 23 gold pieces
 - Set of thieves' tools
@@ -94,7 +93,6 @@ Investigation, Deception
 
 ---
 *Generated: 2025-08-15T03:21:04.030Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

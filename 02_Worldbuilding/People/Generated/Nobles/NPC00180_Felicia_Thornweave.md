@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Thornweave", "felicia thornweave", "Thornweave Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Thornweave
 
 *Aasimar Ambassador (Nobles), Age 40, Female*
@@ -36,17 +42,14 @@ Last survivor of a fallen house, seeking to restore family honor They recently d
 - **Short Term**: Gather information
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Malakai Youngblood (Personal - Love interest)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
 
-
 ### Fiora Stormwind (Personal - Nemesis)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
-
 
 ### Alaric Xendar (Political - Ally)
 - **Status**: One-sided affection

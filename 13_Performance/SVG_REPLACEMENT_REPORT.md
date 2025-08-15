@@ -80,7 +80,6 @@ Generated: 2025-08-15T02:06:50.835Z
 - **forest**: canopy, moss, bark
 - **dungeon**: stone, shadow, torch
 
-
 ## Sensory Details
 - **Sight**: Visual impressions
 - **Sound**: Ambient noises

@@ -11,7 +11,7 @@ tags: ['[[Lore]]']
 ## Description
 
 ### Basic Information
-[[02 Worldbuilding]]/Items/Memory Resonators can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:
+[[02_Worldbuilding|02 Worldbuilding]]/Items/Memory Resonators can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:
 - Physical: A tangible thing or place
 - Conceptual: An idea or belief system
 - Event: Something that happened or will happen

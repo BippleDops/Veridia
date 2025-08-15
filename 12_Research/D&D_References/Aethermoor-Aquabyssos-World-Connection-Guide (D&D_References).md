@@ -63,7 +63,7 @@ Each Aquabyssos continent has an Aethermoor counterpart:
 
 #### Active Conduits
 1. **Lighthouse Network**
-   - [[Lighthouse of Storms]] - Primary portal
+   - [[Lighthouse_of_Storms|Lighthouse of Storms]] - Primary portal
    - Seven lesser lighthouses - Dormant but activatable
    - Navigation: Crystal resoce keys
    - Risk: Temporal displacement
@@ -75,7 +75,7 @@ Each Aquabyssos continent has an Aethermoor counterpart:
    - Danger: Void current exposure
 
 3. **Memory Streams**
-   - Flow between [[The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]] and [[Aethermoor Archives]]
+   - Flow between 
    - Travel: Consciousness only, body remains
    - Duration: 1d4 hours maximum
    - Cost: Temporary memory loss
@@ -202,3 +202,7 @@ Mentioned in The First Prophecy of Stars
 - Strange disappearances suggest a portal
 - Strange sightings suggest a portal
 - Someone is blackmailing a artifact for power
+
+## References
+
+- [[Resoce Peaks]]

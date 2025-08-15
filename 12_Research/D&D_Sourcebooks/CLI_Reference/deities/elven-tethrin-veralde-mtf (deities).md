@@ -82,3 +82,8 @@ Mentioned in The Hidden Prophecy of Depths
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Elf Deities the Seldarine Mtf]]
+- [[elf-deities-the-seldarine-mtf (tables)]]

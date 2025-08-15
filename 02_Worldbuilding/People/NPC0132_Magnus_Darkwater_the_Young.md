@@ -1,11 +1,11 @@
 ---
+aliases: ["Magnus Darkwater the Young", "magnus darkwater the young", "Magnus Darkwater Young", "Young the Darkwater Magnus"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -78,7 +78,6 @@ Insight, Persuasion
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 85 gold pieces
 - Family heirloom (locket)
@@ -93,7 +92,6 @@ Insight, Persuasion
 
 ---
 *Generated: 2025-08-15T03:20:13.087Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

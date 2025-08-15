@@ -46,3 +46,9 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## [[DM_Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+
+## References
+
+- [[The Festival of Rising Tides]]
+- [[The Festival of Rising Tides (D&D_References)]]

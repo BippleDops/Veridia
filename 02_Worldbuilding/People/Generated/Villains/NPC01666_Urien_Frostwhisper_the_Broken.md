@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Frostwhisper the Broken", "urien frostwhisper the broken", "Urien Frostwhisper Broken", "Broken the Frostwhisper Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Frostwhisper the Broken
 
 *Gnome Cultist (Villains), Age 27, Non-binary*
@@ -13,7 +19,6 @@
 Tall and stocky, with Shaved white hair and Amber eyes. Tan skin. Warm smile that puts people at ease.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Compulsive liar about minor things
@@ -52,7 +57,6 @@ Betrayed by those they trusted, now seeking revenge on the world Strange abiliti
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Kaelen Youngblood the Bold (Professional - Mentor)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
@@ -61,7 +65,6 @@ Betrayed by those they trusted, now seeking revenge on the world Strange abiliti
 ### Baelor Frostwhisper the Guardian (Family - Parent)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ### Lyanna Darkwater the Fallen (Family - Parent)
 - **Status**: Strong and trusting

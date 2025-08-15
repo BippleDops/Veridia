@@ -96,7 +96,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -115,4 +114,30 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[guidance-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[Guidance|guidance-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Ixitxachitl Cleric Oota]]
+- [[Mind Flayer Psion Vgm]]
+- [[Neogi Master Mpmm]]
+- [[Vampiric Ixitxachitl Cleric Oota]]
+- [[ixitxachitl-cleric-oota (aberration)]]
+- [[mind-flayer-psion-vgm (aberration)]]
+- [[neogi-master-mpmm (aberration)]]
+- [[vampiric-ixitxachitl-cleric-oota (aberration)]]
+- [[Firenewt Warlock of Imix Mpmm]]
+- [[firenewt-warlock-of-imix-mpmm (elemental)]]
+- [[Choldrith Mpmm]]
+- [[choldrith-mpmm (monstrosity)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb]]
+- [[Druid Xphb Circle of the Stars Xphb]]
+- [[cleric-xphb (classes)]]
+- [[druid-xphb-circle-of-the-stars-xphb (classes)]]
+- [[Blessed Warrior Xphb]]
+- [[Strixhaven Initiate Scc]]
+- [[blessed-warrior-xphb (feats)]]
+- [[strixhaven-initiate-scc (feats)]]

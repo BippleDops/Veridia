@@ -153,3 +153,9 @@ Mentioned in The First Prophecy of Winds
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Merchant's Covenant]]
+- [[The Neutral Current Tavern]]
+- [[Merchant's Covenant (D&D_References)]]

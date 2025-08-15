@@ -108,3 +108,8 @@ improvements: 20
 - Civil war
 - Natural disasters
 - Current power structures established
+
+## References
+
+- [[Outfitters_Shop]]
+- [[The Pearl Markets]]

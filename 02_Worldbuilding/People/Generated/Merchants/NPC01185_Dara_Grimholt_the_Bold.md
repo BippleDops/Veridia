@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Grimholt the Bold", "dara grimholt the bold", "Dara Grimholt Bold", "Bold the Grimholt Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Grimholt the Bold
 
 *Goliath Caravan Master (Merchants), Age 34, Non-binary*
@@ -42,7 +48,6 @@ Uses their business as cover for other activities They've been marked by a secre
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Aeliana Dawnstrider the Seeker (Personal - Ex-lover)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
@@ -52,7 +57,6 @@ Uses their business as cover for other activities They've been marked by a secre
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Rhiannon Goldleaf the Redeemed (Personal - Love interest)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
@@ -61,7 +65,6 @@ Uses their business as cover for other activities They've been marked by a secre
 ### Thalia Brightblade the Cunning (Personal - Love interest)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Is actually a spy for foreign power

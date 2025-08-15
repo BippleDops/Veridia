@@ -136,3 +136,11 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Tyrannosaurus Rex Xmm]]
+- [[Grassland Encounters Levels 1720 Xge]]
+- [[Monsters by Habitat Grassland Monsters Xmm]]
+- [[grassland-encounters-levels-1720-xge (tables)]]
+- [[monsters-by-habitat-grassland-monsters-xmm (tables)]]

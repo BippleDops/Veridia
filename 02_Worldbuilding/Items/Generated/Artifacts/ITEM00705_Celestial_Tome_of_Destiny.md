@@ -1,3 +1,9 @@
+---
+aliases: ["Celestial Tome of Destiny", "celestial tome of destiny", "Destiny of Tome Celestial"]
+tags: [item, equipment]
+type: item
+---
+
 # Celestial Tome of Destiny
 
 *Artifacts, Artifact (requires attunement)*
@@ -16,8 +22,6 @@ A celestial tome radiating otherworldly power
 - Cast spell 3/day
 - Grant true sight
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -32,7 +36,6 @@ Priceless
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.418Z*

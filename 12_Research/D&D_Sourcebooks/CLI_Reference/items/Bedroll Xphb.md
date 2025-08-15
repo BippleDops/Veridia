@@ -88,3 +88,23 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Guide Xphb]]
+- [[Hermit Xphb]]
+- [[Wayfarer Xphb]]
+- [[guide-xphb (backgrounds)]]
+- [[hermit-xphb (backgrounds)]]
+- [[wayfarer-xphb (backgrounds)]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Entertainers Pack Xphb]]
+- [[Explorers Pack Xphb]]
+- [[Weavers Tools Xphb]]
+- [[entertainers-pack-xphb (items)]]
+- [[explorers-pack-xphb (items)]]
+- [[weavers-tools-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

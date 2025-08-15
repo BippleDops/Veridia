@@ -93,7 +93,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -106,3 +105,34 @@ Contextual improvement based on 12_Research
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Guardian Naga Xmm]]
+- [[Planetar Xmm]]
+- [[Solar Xmm]]
+- [[Unicorn Xmm]]
+- [[guardian-naga-xmm (celestial)]]
+- [[planetar-xmm (celestial)]]
+- [[solar-xmm (celestial)]]
+- [[unicorn-xmm (celestial)]]
+- [[Sacred Statue Mpmm]]
+- [[sacred-statue-mpmm (construct)]]
+- [[Empyrean Xmm]]
+- [[empyrean-xmm (miscellaneous)]]
+- [[Graveyard Revenant Xmm]]
+- [[Haunting Revenant Xmm]]
+- [[Revenant Xmm]]
+- [[graveyard-revenant-xmm (undead)]]
+- [[haunting-revenant-xmm (undead)]]
+- [[revenant-xmm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Artifact Properties Major Detrimental]]
+- [[Optional Rule Abyssal Corruption Abyssal Corruption]]
+- [[Optional Rule Abyssal Corruption Abyssal]]
+- [[artifact-properties-major-detrimental-properties]]
+- [[Possession Xphb]]
+- [[madness]]
+- [[possession-xphb (variant-rules)]]

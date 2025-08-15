@@ -35,7 +35,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
 
@@ -47,7 +46,6 @@ improvements: 20
 
 # Patriarch Valdris Lightbringer
 *Guardian of Sacred Waters*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -210,7 +208,6 @@ cr: 1/4
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
 
 ## Daily Routine
 - **Morning**: Typical activities

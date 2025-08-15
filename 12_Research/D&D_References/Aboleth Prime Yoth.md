@@ -126,3 +126,30 @@ Legends speak of Aboleth Prime Yoth as a nexus where past and present converge. 
 
 - Strange accidents suggest a portal
 - A noble needs help delivering before the festival
+
+## References
+
+- [[Quest - The Crown Reborn]]
+- [[Deep Mother]]
+- [[The Bathyal Succession]]
+- [[Timeline of the Drowning]]
+- [[Captain Scale-Walker]]
+- [[Nerissa_Deepcurrent]]
+- [[Pressure Angel Benthia]]
+- [[The_Crimson_Pearl]]
+- [[Memory Farmers]]
+- [[Deep Mother (D&D_References)]]
+- [[Deep Mother 3 (D&D_References)]]
+- [[Memory Farmers (D&D_References)]]
+- [[Nerissa Deepcurrent (D&D_References)]]
+- [[Nerissa_Deepcurrent (D&D_References)]]
+- [[The Bathyal Succession (D&D_References)]]
+- [[The Crimson Pearl (D&D_References)]]
+- [[The_Crimson_Pearl (D&D_References)]]
+- [[The Hadal Depths (D&D_References)]]
+- [[Timeline of the Drowning (D&D_References)]]
+- [[Timeline of the Drowning 3 (D&D_References)]]
+- [[Captain Scale-Walker (D&D_Statblocks)]]
+- [[Pressure Angel Benthia (D&D_Statblocks)]]
+- [[The Deepmind (D&D_Statblocks)]]
+- [[The Void Touched Depths (D&D_Statblocks)]]

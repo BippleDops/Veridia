@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Lightbringer the Risen", "wynne lightbringer the risen", "Wynne Lightbringer Risen", "Risen the Lightbringer Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Lightbringer the Risen
 
 *Genasi Wizard (Adventurers), Age 51, Non-binary*
@@ -13,7 +19,6 @@
 Very short and wiry, with Short and neat silver hair and Amber eyes. Weathered skin. Unusual eye color for their race.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Sees doom and gloom everywhere; Incredibly optimistic despite evidence
@@ -42,21 +47,17 @@ Searching for a legendary treasure their parent died seeking They recently disco
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
 
-
 ### Orion Ironforge the Cunning (Family - Sibling)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
-
 
 ### Lyanna Ironwood the Redeemed (Professional - Partner)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Erasmus Oakenshield the Cunning (Professional - Employee)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Carries a world-ending artifact

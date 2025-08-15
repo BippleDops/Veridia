@@ -1,4 +1,5 @@
 ---
+aliases: ["Shadow Blessing", "shadow blessing", "Blessing Shadow"]
 tags: [generated]
 id: SPELL0028_Shadow_Blessing
 created: 2025-08-15T04:09:51.472Z

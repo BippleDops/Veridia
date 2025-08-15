@@ -115,7 +115,7 @@ Weapon trade forms a crucial part of the economy in both realms. The [[The Skybo
 
 The [[Organization]] has proposed shared weapon development programs to strengthen both realms against the Deep Mother, but progress remains slow due to traditional mistrust and competing interests.
 
-Recent discoveries of pre-Sundering weapons in various [[Archive of Echoes]] sites have sparked new debates about the relationship between ancient and modern crafting techniques, with some arguing that the art of weaponsmithing peaked before the realms were split.
+Recent discoveries of pre-Sundering weapons in various  sites have sparked new debates about the relationship between ancient and modern crafting techniques, with some arguing that the art of weaponsmithing peaked before the realms were split.
 
 ## Player-Facing Summary
 

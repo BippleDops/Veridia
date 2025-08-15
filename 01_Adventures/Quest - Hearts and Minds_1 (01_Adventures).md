@@ -1,6 +1,5 @@
 ---
 
-
 title: 02_Worldbuilding/Quests/Quest - Hearts and Minds
 type: adventure
 tags:
@@ -18,13 +17,10 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
-
 
 ## Objectives
 ### Primary
@@ -188,7 +184,6 @@ Mentioned in The Hidden Prophecy of Winds
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Hooks
 - **Personal**: Character connection

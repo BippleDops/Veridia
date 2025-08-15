@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Dawnstrider the Seeker", "zephyr dawnstrider the seeker", "Zephyr Dawnstrider Seeker", "Seeker the Dawnstrider Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Dawnstrider the Seeker
 
 *Half-Elf Assassin (Villains), Age 48, Male*
@@ -13,7 +19,6 @@
 Below average and imposing, with Wild and unkempt unusual color hair and Red eyes. Weathered skin. Unusual eye color for their race.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Compulsive liar about minor things
@@ -42,7 +47,6 @@ Born into evil but questioning their path A prophetic dream has been haunting th
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Elric Ashford the Broken (Political - Spy)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
@@ -51,7 +55,6 @@ Born into evil but questioning their path A prophetic dream has been haunting th
 ### Hestara Quicksilver the Scholar (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Knows how the world will end

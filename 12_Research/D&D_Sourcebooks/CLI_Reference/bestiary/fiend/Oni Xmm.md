@@ -167,3 +167,33 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[oni-xmm (fiend)]]
+- [[Deck of Illusions Xdmg]]
+- [[Deck of Illusions]]
+- [[deck-of-illusions (decks)]]
+- [[deck-of-illusions-xdmg (decks)]]
+- [[Deck of Illusions Xdmg (items)]]
+- [[deck-of-illusions-xdmg (items)]]
+- [[Forest Encounters Levels 1116 Xge]]
+- [[Forest Encounters Levels 1720 Xge]]
+- [[Forest Encounters Levels 510 Xge]]
+- [[Monsters by Habitat Forest Monsters Xmm]]
+- [[Monsters by Habitat Urban Monsters Xmm]]
+- [[Random Hag Minions Brutes Vgm]]
+- [[Urban Encounters Levels 1116 Xge]]
+- [[Urban Encounters Levels 14 Xge]]
+- [[Urban Encounters Levels 1720 Xge]]
+- [[Urban Encounters Levels 510 Xge]]
+- [[forest-encounters-levels-1116-xge (tables)]]
+- [[forest-encounters-levels-1720-xge (tables)]]
+- [[forest-encounters-levels-510-xge (tables)]]
+- [[monsters-by-habitat-forest-monsters-xmm (tables)]]
+- [[monsters-by-habitat-urban-monsters-xmm (tables)]]
+- [[random-hag-minions-brutes-vgm (tables)]]
+- [[urban-encounters-levels-1116-xge (tables)]]
+- [[urban-encounters-levels-14-xge (tables)]]
+- [[urban-encounters-levels-1720-xge (tables)]]
+- [[urban-encounters-levels-510-xge (tables)]]

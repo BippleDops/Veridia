@@ -1,4 +1,5 @@
 ---
+aliases: ["Blessed Pendant of the Dawn", "blessed pendant of the dawn", "Blessed Pendant of Dawn", "Dawn the of Pendant Blessed"]
 tags: [generated]
 id: ITEM0113
 created: 2025-08-15T04:09:51.113Z
@@ -19,8 +20,6 @@ Crafted from crystal with delicate filigree, in recently restored. It emanates a
 
 ## Quirk
 *Vibrates near magic*
-
-
 
 ## History
 This item was blessed by the gods themselves millennia ago. It has passed through many hands, each leaving their mark upon its destiny.

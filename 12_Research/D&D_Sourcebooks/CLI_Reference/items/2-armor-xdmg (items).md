@@ -114,3 +114,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Armaments Very Rare Xdmg]]
+- [[Magic Item Table H]]
+- [[Magic Item Table I]]
+- [[Random Magic Items Armaments]]
+- [[Random Magic Items Relics]]
+- [[armaments-very-rare-xdmg (tables)]]
+- [[magic-item-table-h (tables)]]
+- [[magic-item-table-i (tables)]]
+- [[random-magic-items-armaments (tables)]]
+- [[random-magic-items-relics (tables)]]

@@ -1,11 +1,11 @@
 ---
+aliases: ["Ulric Goldleaf the Wise", "ulric goldleaf the wise", "Ulric Goldleaf Wise", "Wise the Goldleaf Ulric"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -77,7 +77,6 @@ Investigation, Athletics, Arcana, Perception
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 14 gold pieces
 - Family heirloom (locket)
@@ -89,7 +88,6 @@ Investigation, Athletics, Arcana, Perception
 
 ---
 *Generated: 2025-08-15T03:20:13.083Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Blackstone the Risen", "vesper blackstone the risen", "Vesper Blackstone Risen", "Risen the Blackstone Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Blackstone the Risen
 
 *Gnome Shopkeeper (Merchants), Age 75, Male*
@@ -36,12 +42,10 @@ Inherited a failing business and turned it around A family member's death has le
 - **Short Term**: Survive until next week
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Urien Goldleaf the Scholar (Personal - Best friend)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ### Pyria Proudmore the Wise (Family - Cousin)
 - **Status**: Blood oath bound
@@ -52,11 +56,9 @@ Inherited a failing business and turned it around A family member's death has le
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Malakai Ironforge the Seeker (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Is actually a spy for foreign power

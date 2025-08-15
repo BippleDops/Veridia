@@ -96,3 +96,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Tempest Domain]]
+- [[Druid Xphb Circle of the Sea Xphb]]
+- [[cleric-xphb-tempest-domain (classes)]]
+- [[druid-xphb-circle-of-the-sea-xphb (classes)]]
+- [[Ironfang Pota]]
+- [[ironfang-pota (items)]]
+- [[Gong of the Summit]]
+- [[gong-of-the-summit (optional-features)]]

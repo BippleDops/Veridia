@@ -1,4 +1,5 @@
 ---
+aliases: ["Mystic Shield", "mystic shield", "Shield Mystic"]
 tags: [generated]
 id: SPELL0011_Mystic_Shield
 created: 2025-08-15T04:09:51.468Z

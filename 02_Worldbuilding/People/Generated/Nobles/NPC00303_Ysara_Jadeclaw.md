@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Jadeclaw", "ysara jadeclaw", "Jadeclaw Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Jadeclaw
 
 *Gnome Courtier (Nobles), Age 24, Non-binary*
@@ -36,17 +42,14 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Erasmus Frostwhisper the Swift (Personal - Love interest)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Idris Emberfall (Family - Sibling)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
-
 
 ### Kaelen Quicksilver (Political - Ally)
 - **Status**: Strained but maintaining

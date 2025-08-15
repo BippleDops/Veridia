@@ -84,8 +84,8 @@ LIMIT 5
 | [[Port Meridian Harbor]] | [[Abyssos Prime Docks]] | Tidal Overlap | Water becomes stairs |
 | [[Crystal Gardens]] | [[Screaming Gardens|02 Worldbuilding/Places/Screaming Gardens]] | Emotional Resoce | Shared suffering |
 | [[Royal Palace]] | [[The Inverse Palace|02 Worldbuilding/Places/The Inverse Palace]] | Authority Convergence | Gravity confusion |
-| [[Lighthouse of Storms]] | [[Pressure Terminal]] | Transport Hub | Direct portal |
-| [[The Forgotten Archive]] | [[The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]] | Information Bleed | Thought exchange |
+| [[Lighthouse_of_Storms|Lighthouse of Storms]] | [[Pressure Terminal]] | Transport Hub | Direct portal |
+|  | [[The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]] | Information Bleed | Thought exchange |
 
 ### 🗺️ The Seven Paired Realms
 
@@ -298,7 +298,7 @@ Each bloodline carries keys to merger or separation:
 ---
 
 #### The Lighthouse Network
-**Primary Hub**: [[Lighthouse of Storms]]
+**Primary Hub**: [[Lighthouse_of_Storms|Lighthouse of Storms]]
 **Secondary Nodes**: Seven lesser lighthouses
 **Activation**: Requires crystal shard or bloodline carrier
 **Travel Time**: Instantaneous but temporally displaced
@@ -591,3 +591,7 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Session Planning Guide]]

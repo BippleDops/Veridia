@@ -1,3 +1,9 @@
+---
+aliases: ["Superior Herb of Swiftness", "superior herb of swiftness", "Swiftness of Herb Superior"]
+tags: [item, equipment]
+type: item
+---
+
 # Superior Herb of Swiftness
 
 *Consumables, Common*

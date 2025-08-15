@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Youngblood the Strong", "delara youngblood the strong", "Delara Youngblood Strong", "Strong the Youngblood Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Youngblood the Strong
 
 *Tiefling Blacksmith (Commoners), Age 31, Female*
@@ -13,7 +19,6 @@
 Below average and lanky, with Long and flowing gray hair and Blue eyes. Weathered skin. Weather-beaten face showing hard life.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Never backs down from any challenge; Collects unusual and worthless objects
@@ -36,7 +41,6 @@ Survivor of a disaster that destroyed their village A prophetic dream has been h
 - **Short Term**: Sabotage competition
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Jorah Ironforge the Wanderer (Family - Cousin)
 - **Status**: Professional only
@@ -47,11 +51,9 @@ Survivor of a disaster that destroyed their village A prophetic dream has been h
 - **Status**: Complicated history
 - **History**: United by common enemy
 
-
 ### Ysara Quicksilver the Broken (Political - Opposition)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
-
 
 ### Hestara Brightblade the Guardian (Personal - Ex-lover)
 - **Status**: Mutually beneficial

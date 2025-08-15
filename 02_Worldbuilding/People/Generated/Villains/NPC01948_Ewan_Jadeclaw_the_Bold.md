@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Jadeclaw the Bold", "ewan jadeclaw the bold", "Ewan Jadeclaw Bold", "Bold the Jadeclaw Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Jadeclaw the Bold
 
 *Dragonborn Dark Wizard (Villains), Age 32, Female*
@@ -13,7 +19,6 @@
 Average height and imposing, with Dreadlocks unusual color hair and Hazel eyes. Brown skin. Constantly changing hair color.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Incredibly optimistic despite evidence; Never uses people's real names
@@ -42,11 +47,9 @@ Born into evil but questioning their path A family member's death has left them 
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Erasmus Nightfall the Redeemed (Family - Spouse)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ### Aldric Goldleaf the Wise (Family - Parent)
 - **Status**: Secretly hostile

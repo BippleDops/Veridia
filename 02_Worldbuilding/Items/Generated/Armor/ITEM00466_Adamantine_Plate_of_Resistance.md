@@ -1,3 +1,9 @@
+---
+aliases: ["Adamantine Plate of Resistance", "adamantine plate of resistance", "Resistance of Plate Adamantine"]
+tags: [item, equipment]
+type: item
+---
+
 # Adamantine Plate of Resistance
 
 *Armor, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A adamantine plate crafted from exotic materials
 - +1 to AC
 - Reduces damage by 3
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -30,7 +34,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.384Z*

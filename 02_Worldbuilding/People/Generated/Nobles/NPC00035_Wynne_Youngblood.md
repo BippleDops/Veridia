@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Youngblood", "wynne youngblood", "Youngblood Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Youngblood
 
 *Halfling Courtier (Nobles), Age 18, Male*
@@ -13,7 +19,6 @@
 Tall and muscular, with Braided elaborately silver hair and Black eyes. Dark skin. Unusual eye color for their race.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Flirts with everyone regardless of interest
@@ -36,17 +41,14 @@ Recently elevated to nobility through service, still learning courtly ways A pro
 - **Short Term**: Gather information
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Orion Frostwhisper (Criminal - Target)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Kaelen Ironforge (Political - Opposition)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ### Aldric Moonshadow (Professional - Rival)
 - **Status**: Complicated history
@@ -57,16 +59,13 @@ Recently elevated to nobility through service, still learning courtly ways A pro
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
 
-
 ### Baelor Ironwood (Criminal - Informant)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Zephyr Dawnstrider (Family - Spouse)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Child from scandalous affair

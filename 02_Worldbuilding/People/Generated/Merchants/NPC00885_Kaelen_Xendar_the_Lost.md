@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Xendar the Lost", "kaelen xendar the lost", "Kaelen Xendar Lost", "Lost the Xendar Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Xendar the Lost
 
 *Aasimar Appraiser (Merchants), Age 24, Female*
@@ -36,32 +42,26 @@ Built their business from nothing through cunning and hard work They recently di
 - **Short Term**: Find missing person
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Solas Winterborn the Guardian (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Pyria Blackstone the Seeker (Professional - Employer)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ### Jorah Ashford the Risen (Professional - Rival)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Xander Ashford the Strong (Family - Cousin)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Baelor Xendar the Swift (Criminal - Informant)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Is actually a spy for foreign power

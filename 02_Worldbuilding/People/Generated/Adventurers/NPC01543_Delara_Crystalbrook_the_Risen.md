@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Crystalbrook the Risen", "delara crystalbrook the risen", "Delara Crystalbrook Risen", "Risen the Crystalbrook Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Crystalbrook the Risen
 
 *Dwarf Rogue (Adventurers), Age 58, Male*
@@ -36,17 +42,14 @@ Accidentally gained powers and learning to control them A prophetic dream has be
 - **Short Term**: Make this month's payment
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Zephyr Goldleaf the Mystic (Criminal - Accomplice)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
 
-
 ### Ewan Ironforge the Risen (Political - Opposition)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
-
 
 ### Erasmus Ravenheart the Seeker (Political - Patron)
 - **Status**: On the verge of collapse
@@ -57,16 +60,13 @@ Accidentally gained powers and learning to control them A prophetic dream has be
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Corvus Ironwood the Lost (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Kaelen Keenblade the Swift (Political - Opposition)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Carries a world-ending artifact

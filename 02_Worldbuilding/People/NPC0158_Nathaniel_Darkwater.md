@@ -1,11 +1,11 @@
 ---
+aliases: ["Nathaniel Darkwater", "nathaniel darkwater", "Darkwater Nathaniel"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -74,8 +74,6 @@ Child of farmers who sought adventure. Years ago, they once saved a noble's life
 ### Skills
 Stealth, Arcana
 
-
-
 ## Possessions
 - 30 gold pieces
 - Lucky dice
@@ -88,7 +86,6 @@ Stealth, Arcana
 
 ---
 *Generated: 2025-08-15T03:21:04.042Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

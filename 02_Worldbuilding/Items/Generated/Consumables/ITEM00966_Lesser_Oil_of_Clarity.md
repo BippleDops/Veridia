@@ -1,3 +1,9 @@
+---
+aliases: ["Lesser Oil of Clarity", "lesser oil of clarity", "Clarity of Oil Lesser"]
+tags: [item, equipment]
+type: item
+---
+
 # Lesser Oil of Clarity
 
 *Consumables, Uncommon (requires attunement)*

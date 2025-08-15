@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Grimholt", "lyanna grimholt", "Grimholt Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Grimholt
 
 *Half-Elf Heir (Nobles), Age 70, Female*
@@ -52,11 +58,9 @@ Last survivor of a fallen house, seeking to restore family honor They recently d
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Zephyr Ironwood (Political - Puppet)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Child from scandalous affair

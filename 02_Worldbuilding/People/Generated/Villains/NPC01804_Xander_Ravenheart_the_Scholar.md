@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Ravenheart the Scholar", "xander ravenheart the scholar", "Xander Ravenheart Scholar", "Scholar the Ravenheart Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Ravenheart the Scholar
 
 *Half-Orc Assassin (Villains), Age 46, Non-binary*
@@ -36,12 +42,10 @@ Corrupted by an artifact or dark magic A chance encounter last winter changed th
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Idris Blackstone the Swift (Professional - Employer)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ### Solas Lightbringer the Risen (Professional - Employer)
 - **Status**: On the verge of collapse
@@ -51,7 +55,6 @@ Corrupted by an artifact or dark magic A chance encounter last winter changed th
 ### Elric Crystalbrook the Mystic (Personal - Ex-lover)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is being controlled by darker force

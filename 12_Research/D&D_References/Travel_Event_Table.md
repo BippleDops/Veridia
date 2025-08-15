@@ -45,3 +45,12 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Aethermoor_Airships]]
+- [[Journey_Event_Compiler]]
+- [[Vehicles - Aethermoor Airships]]
+- [[Vehicles - Journey Event Compiler]]
+- [[Vehicles - Vessel Horror Intensifier]]
+- [[Vessel_Horror_Intensifier]]

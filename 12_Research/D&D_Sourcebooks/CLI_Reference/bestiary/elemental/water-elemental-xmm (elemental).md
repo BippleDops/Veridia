@@ -173,3 +173,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Water Elemental Xmm]]
+- [[Drown Pota]]
+- [[Dust of Dryness Xdmg]]
+- [[Elemental Gem Emerald Xdmg]]
+- [[drown-pota (items)]]
+- [[dust-of-dryness-xdmg (items)]]
+- [[elemental-gem-emerald-xdmg (items)]]
+- [[Monsters by Habitat Coastal Monsters Xmm]]
+- [[Monsters by Habitat Underwater Monsters Xmm]]
+- [[Underwater Encounters Levels 1120 Xge]]
+- [[Underwater Encounters Levels 14 Xge]]
+- [[Underwater Encounters Levels 510 Xge]]
+- [[monsters-by-habitat-coastal-monsters-xmm (tables)]]
+- [[monsters-by-habitat-underwater-monsters-xmm (tables)]]
+- [[underwater-encounters-levels-1120-xge (tables)]]
+- [[underwater-encounters-levels-14-xge (tables)]]
+- [[underwater-encounters-levels-510-xge (tables)]]

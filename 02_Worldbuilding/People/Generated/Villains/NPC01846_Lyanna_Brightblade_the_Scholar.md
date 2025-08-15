@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Brightblade the Scholar", "lyanna brightblade the scholar", "Lyanna Brightblade Scholar", "Scholar the Brightblade Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Brightblade the Scholar
 
 *Halfling Assassin (Villains), Age 56, Male*
@@ -36,17 +42,14 @@ Corrupted by an artifact or dark magic A family member's death has left them wit
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Pyria Brightblade the Bold (Personal - Nemesis)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Wynne Hawthorne the Broken (Personal - Nemesis)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ### Baelor Dawnstrider the Fallen (Criminal - Informant)
 - **Status**: Strained but maintaining
@@ -62,11 +65,9 @@ Corrupted by an artifact or dark magic A family member's death has left them wit
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
 
-
 ### Solas Dawnstrider the Cunning (Personal - Love interest)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Has a child they're protecting

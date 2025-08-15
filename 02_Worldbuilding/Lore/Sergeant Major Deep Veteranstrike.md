@@ -35,7 +35,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -85,7 +85,7 @@ Sergeant Major Deep Veteranstrike is a undersea element of the setting, known fo
 
 Legends speak of Sergeant Major Deep Veteranstrike as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sergeant Major Deep Veteranstrike.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -105,3 +105,8 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 - A prisoner has gone missing and chaos spreads
 - An heirloom has gone missing and war looms
+
+## References
+
+- [[Shadow Ambush - Optional (Criminal_Organizations)]]
+- [[Shadow Ambush - Optional]]

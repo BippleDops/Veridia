@@ -36,7 +36,7 @@ improvements: 20
 
 # Throne Room
 
-*The [[Crystal Heart]] of a Corrupted Kingdom*
+*The [[Crystal_Heart|Crystal Heart]] of a Corrupted Kingdom*
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -52,7 +52,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -238,7 +238,7 @@ Regular attendees coordinating kingdom administration:
 **Palace Staff**
 Transformed servants maintaining the chamber:
 - **Crystal Tenders**: Workers who maintain and clean crystal formations
-- **[[Memory Keepers]]**: Archivists who organize and catalog recorded memories
+- **[[Memory_Keepers|Memory Keepers]]**: Archivists who organize and catalog recorded memories
 - **Reality Stabilizers**: Technicians who prevent dangerous dimensional fluctuations
 - **Consciousness Monitors**: Observers who watch for signs of resistance or rebellion
 - **Ceremonial Coordinators**: Staff who organize royal events and public appearances
@@ -338,7 +338,7 @@ The throne room serves as command center for convergence preparation:
 - Communication with [[Aquabyssos]] through dimensional awareness
 - Prophecy sessions predicting convergence outcomes and preparing responses
 
-### [[The [[Seven Shards]]]]
+### [[Seven Shards|The [[Seven Shards]]]]
 
 The throne room's power would be dramatically enhanced by Shard integration:
 - Crystal consciousness could potentially commune with Shard intelligence
@@ -386,7 +386,7 @@ Throne Room is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of Throne Room as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Throne Room.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -421,3 +421,15 @@ Different cultures interpret this lore through their own lens, creating variatio
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[Crystal Palace Throne Room]]
+- [[The Throne Room]]
+- [[Crystal Palace]]
+- [[Maelstrom Palace]]
+- [[Royal Palace of Meridian]]
+- [[Royal Palace]]
+- [[The Crystal Palace - Throne Room]]
+- [[Throne Room - Heart of Palace]]
+- [[Aethermoor - Session 05 The Queens Madness]]

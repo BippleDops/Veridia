@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Emberfall the Scholar", "zephyr emberfall the scholar", "Zephyr Emberfall Scholar", "Scholar the Emberfall Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Emberfall the Scholar
 
 *Elf Rogue (Adventurers), Age 52, Non-binary*
@@ -36,7 +42,6 @@ Running from a dark past that won't stay buried A chance encounter last winter c
 - **Short Term**: Make this month's payment
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Vesper Brightblade the Risen (Professional - Rival)
 - **Status**: Strong and trusting
@@ -47,16 +52,13 @@ Running from a dark past that won't stay buried A chance encounter last winter c
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Hilda Proudmore the Strong (Political - Patron)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Aldric Moonshadow the Mystic (Family - Parent)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Carries a world-ending artifact

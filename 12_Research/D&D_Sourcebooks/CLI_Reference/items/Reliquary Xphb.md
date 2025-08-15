@@ -99,3 +99,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Holy Symbol Xphb]]
+- [[holy-symbol-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[Holy Symbol Varies Holy Symbols Xphb]]
+- [[adventuring-gear-phb (tables)]]
+- [[holy-symbol-varies-holy-symbols-xphb (tables)]]

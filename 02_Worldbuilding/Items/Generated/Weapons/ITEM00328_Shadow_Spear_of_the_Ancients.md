@@ -1,3 +1,9 @@
+---
+aliases: ["Shadow Spear of the Ancients", "shadow spear of the ancients", "Shadow Spear of Ancients", "Ancients the of Spear Shadow"]
+tags: [item, equipment]
+type: item
+---
+
 # Shadow Spear of the Ancients
 
 *Weapons, Uncommon*
@@ -14,8 +20,6 @@ A shadow spear made of crystallized magic
 - Grants advantage on initiative
 - Can strike ethereal creatures
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -30,7 +34,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.372Z*

@@ -120,3 +120,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[rhinoceros-xmm (beast)]]
+- [[2 Appendix a Miscellaneous Creatures]]
+- [[2-appendix-a-miscellaneous-creatures (monster-manual-2014)]]
+- [[3 Animals]]
+- [[3-animals (monster-manual-2025)]]
+- [[Find Greater Steed Xge]]
+- [[find-greater-steed-xge (spells)]]
+- [[Grassland Encounters Levels 15 Xge]]
+- [[Monsters by Habitat Grassland Monsters Xmm]]
+- [[grassland-encounters-levels-15-xge (tables)]]
+- [[monsters-by-habitat-grassland-monsters-xmm (tables)]]

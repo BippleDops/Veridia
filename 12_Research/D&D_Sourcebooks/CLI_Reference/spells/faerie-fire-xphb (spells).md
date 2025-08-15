@@ -88,7 +88,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -107,4 +106,29 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[faerie-fire-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[faerie-fire-xphb (spells)|faerie-fire-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Goblin Hexer Xmm]]
+- [[goblin-hexer-xmm (fey)]]
+- [[Draegloth Mpmm]]
+- [[draegloth-mpmm (fiend)]]
+- [[Drider Xmm]]
+- [[Kenku Xmm]]
+- [[drider-xmm (monstrosity)]]
+- [[kenku-xmm (monstrosity)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Light Domain Xphb]]
+- [[Warlock Xphb Archfey Patron Xphb]]
+- [[cleric-xphb-light-domain-xphb (classes)]]
+- [[cleric-xphb-light-domain-xphb 2 (classes)]]
+- [[warlock-xphb-archfey-patron-xphb (classes)]]
+- [[Instrument of the Bards Fochlucan Bandore]]
+- [[Ring of Shooting Stars Xdmg]]
+- [[instrument-of-the-bards-fochlucan-bandore-xdmg]]
+- [[ring-of-shooting-stars-xdmg (items)]]
+- [[Elf Xphb]]
+- [[elf-xphb (races)]]

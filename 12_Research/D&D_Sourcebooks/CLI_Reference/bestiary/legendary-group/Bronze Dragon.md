@@ -106,3 +106,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Strange accidents suggest ancient magic
 - Someone is hunting a witness for love
 - An heirloom has gone missing and truth emerges
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Bronze Dragon Wyrmling Xmm]]
+- [[bronze-dragon-wyrmling-xmm (dragon)]]
+- [[Dragon Scale Mail Xdmg]]
+- [[dragon-scale-mail-xdmg (items)]]
+- [[Monsters by Habitat Coastal Monsters Xmm]]
+- [[monsters-by-habitat-coastal-monsters-xmm (tables)]]

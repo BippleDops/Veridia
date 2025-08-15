@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Ironforge the Wanderer", "delara ironforge the wanderer", "Delara Ironforge Wanderer", "Wanderer the Ironforge Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Ironforge the Wanderer
 
 *Halfling Wizard (Adventurers), Age 38, Male*
@@ -36,17 +42,14 @@ Running from a dark past that won't stay buried They've been marked by a secret 
 - **Short Term**: Survive until next week
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Drusilla Goldleaf the Seeker (Professional - Rival)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Delara Grimholt the Broken (Criminal - Target)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ### Ysara Ironforge the Redeemed (Professional - Rival)
 - **Status**: Strong and trusting

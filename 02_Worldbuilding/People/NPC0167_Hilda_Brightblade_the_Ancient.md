@@ -1,11 +1,11 @@
 ---
+aliases: ["Hilda Brightblade the Ancient", "hilda brightblade the ancient", "Hilda Brightblade Ancient", "Ancient the Brightblade Hilda"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Discovered magical talent late in life. Years ago, they was falsely accused of a
 ### Skills
 Arcana
 
-
-
 ## Possessions
 - 40 gold pieces
 - Well-worn journal
@@ -90,7 +88,6 @@ Arcana
 
 ---
 *Generated: 2025-08-15T03:20:13.090Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

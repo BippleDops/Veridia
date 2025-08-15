@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Nightfall the Swift", "fiora nightfall the swift", "Fiora Nightfall Swift", "Swift the Nightfall Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Nightfall the Swift
 
 *Aasimar Blacksmith (Commoners), Age 19, Non-binary*
@@ -13,7 +19,6 @@
 Very short and muscular, with Tied back bald hair and Green eyes. Pale skin. Missing finger on left hand.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Laughs at the most inappropriate times; Never backs down from any challenge
@@ -42,7 +47,6 @@ Survivor of a disaster that destroyed their village They're being blackmailed by
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Erasmus Proudmore the Wise (Personal - Nemesis)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
@@ -51,7 +55,6 @@ Survivor of a disaster that destroyed their village They're being blackmailed by
 ### Felicia Goldleaf the Cunning (Criminal - Fence)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Knows location of ancient treasure

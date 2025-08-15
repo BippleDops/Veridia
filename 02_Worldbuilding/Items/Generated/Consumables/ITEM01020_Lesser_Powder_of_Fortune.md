@@ -1,3 +1,9 @@
+---
+aliases: ["Lesser Powder of Fortune", "lesser powder of fortune", "Fortune of Powder Lesser"]
+tags: [item, equipment]
+type: item
+---
+
 # Lesser Powder of Fortune
 
 *Consumables, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A lesser powder emanating sweet fragrance
 - Increase speed by 10 ft
 - Remove one condition
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -30,7 +34,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.449Z*

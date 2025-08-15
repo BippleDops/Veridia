@@ -184,3 +184,7 @@ This NPC can serve multiple roles:
 - [[Commodity Queen Abundance]] (friend)
 ---
 *Tags*: #npc #contact #worldbuilding
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-merchant-captain-trade-merchant-captain-trade.svg]]

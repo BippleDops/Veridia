@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Xendar the Strong", "gareth xendar the strong", "Gareth Xendar Strong", "Strong the Xendar Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Xendar the Strong
 
 *Gnome Carpenter (Commoners), Age 72, Non-binary*
@@ -42,11 +48,9 @@ Grew up in poverty but discovered a talent that might change everything Strange 
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Aeliana Oakenshield the Scholar (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ### Ysara Ravenheart the Lost (Political - Opposition)
 - **Status**: Complicated history
@@ -56,7 +60,6 @@ Grew up in poverty but discovered a talent that might change everything Strange 
 ### Faelyn Underhill the Swift (Professional - Rival)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Can hear the thoughts of others

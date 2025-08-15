@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Nightfall the Seeker", "pyria nightfall the seeker", "Pyria Nightfall Seeker", "Seeker the Nightfall Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Nightfall the Seeker
 
 *Dragonborn Caravan Master (Merchants), Age 73, Female*
@@ -36,17 +42,14 @@ Part of a merchant family with connections everywhere They've been marked by a s
 - **Short Term**: Make this month's payment
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Thalia Lightbringer the Guardian (Political - Puppet)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
 
-
 ### Baelor Crystalbrook the Broken (Personal - Childhood friend)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
-
 
 ### Corvus Ashford the Lost (Personal - Childhood friend)
 - **Status**: Strained but maintaining
@@ -57,16 +60,13 @@ Part of a merchant family with connections everywhere They've been marked by a s
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Elric Emberfall the Lost (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Jorah Quicksilver the Lost (Family - Spouse)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Sells information to all sides

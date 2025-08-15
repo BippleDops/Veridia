@@ -1,11 +1,11 @@
 ---
+aliases: ["Willem Brightblade", "willem brightblade", "Brightblade Willem"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -93,7 +93,6 @@ Arcana, Athletics, Deception
 
 ---
 *Generated: 2025-08-15T03:21:04.044Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

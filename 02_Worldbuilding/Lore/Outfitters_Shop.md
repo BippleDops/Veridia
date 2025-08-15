@@ -62,7 +62,7 @@ The functional aspects of Outfitters_Shop:
 - Mechanisms or processes involved
 - Requirements or prerequisites
 - Limitations or boundaries
-- Optimal conditions
+- Optimal [[Conditions|Conditions]]
 
 ### Applications
 How Outfitters_Shop is used or encountered:
@@ -191,12 +191,12 @@ Other connected subjects:
 
 ### Further Investigation
 Where to learn more:
-- Specific locations
+- Specific [[locations|locations]]
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
 
-## DM Notes
+## [[DM_Notes|DM Notes]]
 
 ### True Nature
 [Hidden information for DM only]
@@ -217,3 +217,6 @@ Adapt as needed for:
 
 ---
 *Tags*: [[#General]] #worldbuilding #outfitters_shop
+
+---
+**Navigation**: [[INDEX|🏠 Home]] | [[INDEX|📚 Index]]

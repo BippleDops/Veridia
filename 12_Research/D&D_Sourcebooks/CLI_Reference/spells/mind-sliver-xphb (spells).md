@@ -93,7 +93,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -106,3 +105,11 @@ Contextual improvement based on 12_Research
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Rogue Xphb Arcane Trickster Xphb]]
+- [[Sorcerer Xphb Aberrant Sorcery Xphb]]
+- [[rogue-xphb-arcane-trickster-xphb (classes)]]
+- [[sorcerer-xphb-aberrant-sorcery-xphb (classes)]]

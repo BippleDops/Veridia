@@ -170,3 +170,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Lamia Xmm]]
+- [[Desert Encounters Levels 1116 Xge]]
+- [[Desert Encounters Levels 14 Xge]]
+- [[Desert Encounters Levels 510 Xge]]
+- [[desert-encounters-levels-1116-xge (tables)]]
+- [[desert-encounters-levels-14-xge (tables)]]
+- [[desert-encounters-levels-510-xge (tables)]]

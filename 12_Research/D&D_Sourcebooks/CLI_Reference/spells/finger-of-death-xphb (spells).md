@@ -98,7 +98,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -117,4 +116,24 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[finger-of-death-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[finger-of-death-xphb (spells)|finger-of-death-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Dracolich Xmm (undead)]]
+- [[Illithilich Vgm (undead)]]
+- [[Lich Xmm (undead)]]
+- [[dracolich-xmm (undead)]]
+- [[illithilich-vgm (undead)]]
+- [[lich-xmm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Eye and Hand of Vecna Xdmg]]
+- [[Hand of Vecna Xdmg]]
+- [[Sword of Kas Xdmg]]
+- [[eye-and-hand-of-vecna-xdmg (items)]]
+- [[hand-of-vecna-xdmg (items)]]
+- [[sword-of-kas-xdmg (items)]]
+- [[Dark Gift of Norganas the Finger of Oblivion]]
+- [[dark-gift-of-norganas-the-finger-of-oblivion-cos]]

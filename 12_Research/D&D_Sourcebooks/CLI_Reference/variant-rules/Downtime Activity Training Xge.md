@@ -77,3 +77,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Strange disappearances suggest a curse
 - A shipment has gone missing and evil awakens
 - Strange dreams suggest ancient magic
+
+## References
+
+- [[Downtime Revisited Xge]]
+- [[downtime-revisited-xge (variant-rules)]]

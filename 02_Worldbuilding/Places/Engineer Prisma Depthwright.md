@@ -587,20 +587,17 @@ Engineer Prisma Depthwright is a notable location characterized by its unique fe
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
-
 
 ## Connections
 - **North**: Trade road to neighboring settlement
@@ -657,7 +654,6 @@ Ongoing situations affecting Engineer Prisma Depthwright:
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -693,3 +689,9 @@ Ongoing situations affecting Engineer Prisma Depthwright:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Pearl_Harbor_City (Places)]]
+- [[Engineer Prisma Depthwright (D&D_References)]]
+- [[Pearl_Harbor_City (D&D_References)]]

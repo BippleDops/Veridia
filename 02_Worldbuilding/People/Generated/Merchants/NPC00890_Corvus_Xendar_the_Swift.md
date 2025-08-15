@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Xendar the Swift", "corvus xendar the swift", "Corvus Xendar Swift", "Swift the Xendar Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Xendar the Swift
 
 *Half-Elf Trader (Merchants), Age 56, Female*
@@ -42,16 +48,13 @@ Built their business from nothing through cunning and hard work They've fallen i
 - **Status**: Secretly hostile
 - **History**: United by common enemy
 
-
 ### Orion Ironwood the Wise (Political - Patron)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Faelyn Proudmore the Redeemed (Criminal - Fence)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
-
 
 ### Xander Stormwind the Strong (Personal - Childhood friend)
 - **Status**: Strong and trusting
@@ -66,7 +69,6 @@ Built their business from nothing through cunning and hard work They've fallen i
 ### Aldric Dawnstrider the Fallen (Family - Spouse)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Sells information to all sides

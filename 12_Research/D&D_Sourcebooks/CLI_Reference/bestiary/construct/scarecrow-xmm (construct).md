@@ -156,3 +156,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Scarecrow Xmm]]
+- [[Grassland Encounters Levels 15 Xge]]
+- [[Monsters by Habitat Grassland Monsters Xmm]]
+- [[Random Hag Minions Servants Vgm]]
+- [[grassland-encounters-levels-15-xge (tables)]]
+- [[monsters-by-habitat-grassland-monsters-xmm (tables)]]
+- [[random-hag-minions-servants-vgm (tables)]]

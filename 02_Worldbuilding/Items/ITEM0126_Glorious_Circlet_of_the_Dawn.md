@@ -1,4 +1,5 @@
 ---
+aliases: ["Glorious Circlet of the Dawn", "glorious circlet of the dawn", "Glorious Circlet of Dawn", "Dawn the of Circlet Glorious"]
 tags: [generated]
 id: ITEM0126
 created: 2025-08-15T04:09:51.117Z
@@ -19,8 +20,6 @@ Crafted from mithril with glowing gems, in ancient but unbreakable. It emanates 
 
 ## Quirk
 *Hums when enemies are near*
-
-
 
 ## History
 This item was lost in a great battle ages ago. It has passed through many hands, each leaving their mark upon its destiny.

@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Nightfall the Bold", "rhiannon nightfall the bold", "Rhiannon Nightfall Bold", "Bold the Nightfall Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Nightfall the Bold
 
 *Tiefling Appraiser (Merchants), Age 30, Male*
@@ -13,7 +19,6 @@
 Towering and muscular, with Wild and unkempt red hair and Violet eyes. Tan skin. Intricate tattoos covering arms.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Never backs down from any challenge; Never uses people's real names
@@ -36,22 +41,18 @@ Uses their business as cover for other activities A chance encounter last winter
 - **Short Term**: Recruit new members
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Aeliana Crystalbrook the Mystic (Political - Ally)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Qadim Emberfall the Fallen (Personal - Nemesis)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Malakai Darkwater the Wanderer (Professional - Employee)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Sells information to all sides

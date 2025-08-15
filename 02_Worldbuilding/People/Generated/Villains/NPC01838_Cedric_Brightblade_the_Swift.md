@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Brightblade the Swift", "cedric brightblade the swift", "Cedric Brightblade Swift", "Swift the Brightblade Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Brightblade the Swift
 
 *Tabaxi Assassin (Villains), Age 60, Male*
@@ -36,32 +42,26 @@ Driven mad by knowledge humanity wasn't meant to know A family member's death ha
 - **Short Term**: Avoid the authorities
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Hilda Ashford the Broken (Professional - Employee)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Orion Winterborn the Cunning (Criminal - Target)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ### Nerys Hawthorne the Scholar (Political - Patron)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
 
-
 ### Zephyr Ironforge the Seeker (Professional - Employee)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Gavril Voidwalker the Risen (Criminal - Informant)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Believes they're saving the world

@@ -45,7 +45,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -95,7 +95,7 @@ Each Aquabyssos continent has an Aethermoor counterpart:
 |------------|------------|----------------|---------------|
 | [[Abyssos Prime]] | [[Port Meridian]] | Political Centers | Shared Parliament |
 | [[Nereidios]] | [[Arcanum Heights]] | Knowledge Hubs | Merged [[Libraries]] |
-| [[[[Coral]]lion]] | [[Crystal Forest]] | Living Systems | Symbiotic Growth |
+| [[Coral|[[Coral]]lion]] | [[Crystal Forest]] | Living Systems | Symbiotic Growth |
 | [[Vorthak]] | [[Shattered Isles]] | Fragmented Realms | Reality Chaos |
 | [[Tenebrarum]] | [[Shadow Vale]] | Darkness Domains | Shadow Overlap |
 | [[Crystallium]] | [[Resoce Peaks]] | Harmonic Centers | Frequency Sync |
@@ -105,7 +105,7 @@ Each Aquabyssos continent has an Aethermoor counterpart:
 #### Active Conduits
 
 1. **Lighthouse Network**
-   - [[Lighthouse of Storms]] - Primary portal
+   - [[Lighthouse_of_Storms|Lighthouse of Storms]] - Primary portal
    - Seven lesser lighthouses - Dormant but activatable
    - Navigation: Crystal resoce keys
    - Risk: [[Temporal Displacement]]
@@ -117,7 +117,7 @@ Each Aquabyssos continent has an Aethermoor counterpart:
    - Danger: Void current exposure
 
 3. **Memory Streams**
-   - Flow between [[12 Research]] and [[Aethermoor Archives]]
+   - Flow between 
    - Travel: Consciousness only, body remains
    - Duration: 1d4 hours maximum
    - Cost: Temporary memory loss
@@ -132,8 +132,8 @@ Each Aquabyssos continent has an Aethermoor counterpart:
 ```mermaid
 graph TD
     A[Aethermoor Queen] -.->|Possession [[Link]]| B[Aquabyssos [[Emperor]]]
-    B -->|Fragment Control| C[[[Parliament of Echoes]]]
-    C -.->|Shadow Influence| D[[[Noble House]]s]
+    B -->|Fragment Control| C[[Parliament Of Echoes|[Parliament of Echoes]]]
+    C -.->|Shadow Influence| D[[Noble House|[Noble House]]s]
     D -->|Crystal Connection| A
     E[The [[Deep Mother]]] -->|Dreams| A
     E -->|Reality| B
@@ -233,7 +233,7 @@ Aethermoor Aquabyssos World Connection Guide is a sky-borne element of the setti
 
 Legends speak of Aethermoor Aquabyssos World Connection Guide as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aethermoor Aquabyssos World Connection Guide.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -270,3 +270,8 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Civil war
 - Natural disasters
 - Current power structures established
+
+## References
+
+- [[Aethermoor Campaign Overview]]
+- [[Aquabyssos Campaign Overview]]

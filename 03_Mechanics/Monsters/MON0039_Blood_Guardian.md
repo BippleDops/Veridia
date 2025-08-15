@@ -1,4 +1,5 @@
 ---
+aliases: ["Blood Guardian", "blood guardian", "Guardian Blood"]
 tags: [generated]
 id: MON0039_Blood_Guardian
 created: 2025-08-15T04:09:51.431Z
@@ -28,7 +29,6 @@ A natural predator perfectly adapted to its environment
 
 ---
 *Generated: 2025-08-15T03:21:47.465Z*
-
 
 ## Habitat
 - Natural environment and territories

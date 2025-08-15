@@ -79,3 +79,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Someone is hunting an heir for love
 - A stranger needs help investigating before winter
 - Strange sightings suggest a curse
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[10 Gp Gemstones Xdmg]]
+- [[10-gp-gemstones-xdmg (tables)]]

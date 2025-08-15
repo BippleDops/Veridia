@@ -1,3 +1,9 @@
+---
+aliases: ["Celestial Crown of Eternity", "celestial crown of eternity", "Eternity of Crown Celestial"]
+tags: [item, equipment]
+type: item
+---
+
 # Celestial Crown of Eternity
 
 *Artifacts, Legendary*
@@ -16,8 +22,6 @@ A celestial crown pulsing with inner light
 - Telepathy 120 ft
 - Increase ability score by 2
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -32,7 +36,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.434Z*

@@ -1,11 +1,11 @@
 ---
+aliases: ["Kael Ironforge the Wise", "kael ironforge the wise", "Kael Ironforge Wise", "Wise the Ironforge Kael"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -78,7 +78,6 @@ Perception, Persuasion
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 61 gold pieces
 - Map to unknown location
@@ -93,7 +92,6 @@ Perception, Persuasion
 
 ---
 *Generated: 2025-08-15T03:21:04.032Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

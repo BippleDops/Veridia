@@ -70,3 +70,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Quest - The Blackmail Papers_1 (01_Adventures)]]
+- [[Quest - The Blackmail Papers_2 (01_Adventures)]]

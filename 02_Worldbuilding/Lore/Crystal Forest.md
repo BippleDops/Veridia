@@ -57,7 +57,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -284,7 +284,7 @@ Crystals from the Crystal Forest power essential city infrastructure throughout 
 
 **Public Infrastructure Applications:**
 - **Pressure Regulation Networks**: Crystals managing city-wide pressure control systems
-- **[[Communication Systems]]**: Crystals enabling government and emergency communication
+- **[[Communication_Systems|Communication Systems]]**: Crystals enabling government and emergency communication
 - **Lighting and Power**: Crystals providing illumination and energy for public spaces
 - **Water Treatment**: Crystals purifying and processing the city's water supply
 - **Transportation Infrastructure**: Crystals powering the [[Pressure Tubes]] system
@@ -377,7 +377,7 @@ The Crystal Forest's importance makes it a target for various threats:
 **Security Vulnerabilities:**
 - **Industrial Espionage**: Competitors attempting to steal cultivation techniques
 - **Sabotage Attempts**: Hostile actions designed to disrupt crystal production
-- **Theft**: [[Criminal [[Organization]]s]] targeting valuable crystal supplies
+- **Theft**: [[Organization|Criminal [[Organization]]s]] targeting valuable crystal supplies
 - **Corruption Attacks**: Deliberate attempts to spread corruption through facility
 - **Political Targeting**: Hostile governments or [[Groups]] attacking infrastructure
 
@@ -448,8 +448,8 @@ Emerging markets create additional applications for Crystal Forest products:
 Cooperation with [[Aethermoor]] creates new possibilities:
 
 - **Dual-Environment Crystals**: Products functioning in both water and air
-- **Reality Bridge Technology**: Crystals supporting [[Dimensional Travel]] and communication
-- **[[[[Cultural Exchange]] Programs]]**: Crystals facilitating inter-realm cooperation
+- **Reality Bridge Technology**: Crystals supporting [[Dimensional_Travel|Dimensional Travel]] and communication
+- **[[Cultural Exchange|[[Cultural Exchange]] Programs]]**: Crystals facilitating inter-realm cooperation
 - **Emergency Response**: Crystals supporting [[Crisis Management]] across realms
 - **Convergence Preparation**: Products designed for merged reality environment
 
@@ -461,7 +461,7 @@ The Crystal Forest supports and integrates with multiple Aquabyssos systems:
 - **[[Pressure Adaptation System]]**: Primary consumer of pressure regulation crystals
 - **[[Pressure Tubes]]**: Transportation system requiring specialized crystals
 - **[[Underwater Breathing]]**: Life support systems using Crystal Forest products
-- **[[The Deep Harvest]]**: [[Economic System]]s dependent on crystal technology
+- **[[The Deep Harvest]]**: [[Economic_System|Economic System]]s dependent on crystal technology
 - **[[Umbral Exchange]]**: [[Trade Networks]] distributing Crystal Forest products
 
 ### Professional Networks and Organizations
@@ -541,7 +541,7 @@ Crystal Forest is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Crystal Forest as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Crystal Forest.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -581,3 +581,40 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[Master Artificers Guild (Guilds)]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Comprehensive-World-Connection-Guide]]
+- [[Crystal-Corruption-Tracking-Sheet]]
+- [[Eastern Kingdom]]
+- [[Pressure Adaptation System]]
+- [[Random Encounters]]
+- [[Resonance Peaks]]
+- [[Silver Mask]]
+- [[The Bloom Fields]]
+- [[The Crimson Hand]]
+- [[The Deep Harvest]]
+- [[The Restoration Movement]]
+- [[The Silverscale Conspiracy]]
+- [[Underwater Breathing]]
+- [[Compass Quest]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide (D&D_References)]]
+- [[Compass Quest (D&D_References)]]
+- [[Crystal-Corruption-Tracking-Sheet (D&D_References)]]
+- [[Eastern Kingdom (D&D_References)]]
+- [[Master Artificers Guild]]
+- [[Pressure Adaptation System (D&D_References)]]
+- [[Resonance Peaks (D&D_References)]]
+- [[Silver Mask (D&D_References)]]
+- [[The Bloom Fields (D&D_References)]]
+- [[The Crimson Hand (D&D_References)]]
+- [[The Crimson Hand 3 (D&D_References)]]
+- [[The Deep Harvest (D&D_References)]]
+- [[The Restoration Movement (D&D_References)]]
+- [[The Seven Shards (D&D_References)]]
+- [[The Seven Shards 3 (D&D_References)]]
+- [[The Silverscale Conspiracy (D&D_References)]]
+- [[Underwater Breathing (D&D_References)]]
+- [[Random Encounters (D&D_Statblocks)]]

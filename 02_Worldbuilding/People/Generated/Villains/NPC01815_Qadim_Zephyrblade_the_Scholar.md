@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Zephyrblade the Scholar", "qadim zephyrblade the scholar", "Qadim Zephyrblade Scholar", "Scholar the Zephyrblade Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Zephyrblade the Scholar
 
 *Genasi Cultist (Villains), Age 63, Female*
@@ -36,7 +42,6 @@ Betrayed by those they trusted, now seeking revenge on the world Strange abiliti
 - **Short Term**: Recruit new members
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Fiora Grimholt the Guardian (Political - Spy)
 - **Status**: Secretly hostile
@@ -47,11 +52,9 @@ Betrayed by those they trusted, now seeking revenge on the world Strange abiliti
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
 
-
 ### Faelyn Jadeclaw the Fallen (Family - Cousin)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Has a child they're protecting

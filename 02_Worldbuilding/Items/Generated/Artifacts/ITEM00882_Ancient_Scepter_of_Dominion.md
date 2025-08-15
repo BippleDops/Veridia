@@ -1,3 +1,9 @@
+---
+aliases: ["Ancient Scepter of Dominion", "ancient scepter of dominion", "Dominion of Scepter Ancient"]
+tags: [item, equipment]
+type: item
+---
+
 # Ancient Scepter of Dominion
 
 *Artifacts, Legendary*
@@ -16,8 +22,6 @@ A ancient scepter pulsing with inner light
 - Regenerate 1 hp/round
 - Increase ability score by 2
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -32,7 +36,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.434Z*

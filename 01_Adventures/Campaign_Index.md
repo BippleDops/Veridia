@@ -241,7 +241,10 @@ Contextual improvement based on 12_Research
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition
+
+## References
+
+- [[Campaign Index (02_Worldbuilding)]]

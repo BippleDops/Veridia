@@ -220,3 +220,8 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Quest - The Convergence Crisis]]
+- [[10 combat#Dropping_to_0_Hit_Points#Monsters_and_Death]]

@@ -66,3 +66,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Assets Locations Location City Astrologer Prime Cassandra Starweaver Astrologer Prime Cassandra Starweaver.svg]]
+- [[Assets Locations Location City the Drowning Truth V1 the Drowning Truth.svg]]

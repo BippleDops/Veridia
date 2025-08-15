@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Xendar the Strong", "erasmus xendar the strong", "Erasmus Xendar Strong", "Strong the Xendar Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Xendar the Strong
 
 *Firbolg Corrupt Noble (Villains), Age 35, Female*
@@ -36,7 +42,6 @@ Born into evil but questioning their path They've been marked by a secret societ
 - **Short Term**: Find missing person
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Corvus Xendar the Guardian (Political - Opposition)
 - **Status**: Mutually beneficial
@@ -47,11 +52,9 @@ Born into evil but questioning their path They've been marked by a secret societ
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Xander Ironforge the Guardian (Personal - Ex-lover)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ### Elric Ravenheart the Lost (Political - Patron)
 - **Status**: Complicated history

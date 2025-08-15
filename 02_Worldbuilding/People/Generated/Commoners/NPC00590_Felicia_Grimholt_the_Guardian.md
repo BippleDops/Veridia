@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Grimholt the Guardian", "felicia grimholt the guardian", "Felicia Grimholt Guardian", "Guardian the Grimholt Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Grimholt the Guardian
 
 *Firbolg Carpenter (Commoners), Age 70, Non-binary*
@@ -13,7 +19,6 @@
 Towering and wiry, with Wild and unkempt blonde hair and Amber eyes. Pale skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Always hungry and eating something; Collects unusual and worthless objects
@@ -36,27 +41,22 @@ Survivor of a disaster that destroyed their village Strange abilities have begun
 - **Short Term**: Make this month's payment
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Hilda Ironforge the Wanderer (Professional - Mentor)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Malakai Dawnstrider the Seeker (Professional - Employee)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
-
 
 ### Idris Winterborn the Scholar (Family - Sibling)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Faelyn Stormwind the Risen (Personal - Ex-lover)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ### Idris Underhill the Guardian (Personal - Ex-lover)
 - **Status**: Strained but maintaining

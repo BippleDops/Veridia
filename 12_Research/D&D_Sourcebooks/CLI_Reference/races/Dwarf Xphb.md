@@ -98,3 +98,18 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[03 Races]]
+- [[03-races (players-handbook-2014)]]
+- [[05 Chapter 4 Character Origins]]
+- [[05-chapter-4-character-origins (players-handbook-2024)]]
+- [[Dwarven Fortitude Xge]]
+- [[Squat Nimbleness Xge]]
+- [[dwarven-fortitude-xge (feats)]]
+- [[squat-nimbleness-xge (feats)]]
+- [[Reincarnate Xphb]]
+- [[reincarnate-xphb (spells)]]
+- [[Random Height and Weight Phb]]
+- [[random-height-and-weight-phb (tables)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Silverleaf", "ewan silverleaf", "Silverleaf Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Silverleaf
 
 *Genasi Noble (Nobles), Age 76, Female*
@@ -36,32 +42,26 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Gather information
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Hilda Brightblade the Mystic (Family - Child)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Malakai Lightbringer the Scholar (Professional - Partner)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ### Pyria Youngblood (Professional - Rival)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Hestara Ironforge the Fallen (Family - Parent)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Gareth Ironwood (Political - Puppet)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

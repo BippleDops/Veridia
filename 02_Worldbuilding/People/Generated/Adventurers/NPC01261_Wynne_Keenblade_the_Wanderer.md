@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Keenblade the Wanderer", "wynne keenblade the wanderer", "Wynne Keenblade Wanderer", "Wanderer the Keenblade Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Keenblade the Wanderer
 
 *Elf Cleric (Adventurers), Age 49, Male*
@@ -13,7 +19,6 @@
 Tall and heavyset, with Mohawk blonde hair and Black eyes. Olive skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Compulsive liar about minor things; Collects unusual and worthless objects; Extremely superstitious about everything
@@ -36,7 +41,6 @@ Seeking vengeance for a murdered mentor They've made a deal they're beginning to
 - **Short Term**: Survive until next week
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Gavril Darkwater the Guardian (Political - Puppet)
 - **Status**: Secretly hostile
@@ -57,11 +61,9 @@ Seeking vengeance for a murdered mentor They've made a deal they're beginning to
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
 
-
 ### Branwen Zephyrblade the Wise (Family - Child)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Possessed by ancient spirit

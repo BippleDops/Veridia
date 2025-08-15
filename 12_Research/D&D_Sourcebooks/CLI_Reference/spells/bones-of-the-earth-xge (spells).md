@@ -95,7 +95,6 @@ Mentioned in The Hidden Prophecy of Stars
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -114,4 +113,4 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[bones-of-the-earth-xge (spells)-phb]]` in CLI_Reference/spells/
+See: `[[bones-of-the-earth-xge (spells)|bones-of-the-earth-xge (spells)-phb]]` in CLI_Reference/spells/

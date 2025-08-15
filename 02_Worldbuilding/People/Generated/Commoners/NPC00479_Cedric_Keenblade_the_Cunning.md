@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Keenblade the Cunning", "cedric keenblade the cunning", "Cedric Keenblade Cunning", "Cunning the Keenblade Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Keenblade the Cunning
 
 *Dragonborn Carpenter (Commoners), Age 19, Male*
@@ -13,7 +19,6 @@
 Above average and delicate, with Partially shaved black hair and Red eyes. Freckled skin. Missing ear from old battle.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Compulsive liar about minor things
@@ -36,32 +41,26 @@ Family has worked the same trade for generations, but times are changing They've
 - **Short Term**: Avoid the authorities
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Urien Quicksilver the Guardian (Personal - Nemesis)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Ysara Thornweave the Lost (Personal - Nemesis)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
-
 
 ### Orion Thornweave the Guardian (Political - Opposition)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
 
-
 ### Hilda Oakenshield the Wise (Family - Spouse)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
 
-
 ### Zephyr Silverleaf the Cunning (Family - Spouse)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ### Wynne Emberfall the Lost (Professional - Employer)
 - **Status**: Strained but maintaining

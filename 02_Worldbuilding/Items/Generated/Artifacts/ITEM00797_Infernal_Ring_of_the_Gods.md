@@ -1,3 +1,9 @@
+---
+aliases: ["Infernal Ring of the Gods", "infernal ring of the gods", "Infernal Ring of Gods", "Gods the of Ring Infernal"]
+tags: [item, equipment]
+type: item
+---
+
 # Infernal Ring of the Gods
 
 *Artifacts, Legendary*
@@ -16,8 +22,6 @@ A infernal ring radiating otherworldly power
 - Plane shift 1/day
 - Time stop 1/week
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -32,7 +36,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.427Z*

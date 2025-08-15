@@ -86,3 +86,16 @@ Mentioned in The Hidden Prophecy of Shadows
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Aethermoor - Session 08 Between Two Worlds]]
+- [[Belt of Giant Strength Xdmg]]
+- [[belt-of-giant-strength-xdmg (items)]]
+- [[Armaments Legendary Xdmg]]
+- [[Magic Item Table I]]
+- [[Random Magic Items Armaments]]
+- [[armaments-legendary-xdmg (tables)]]
+- [[magic-item-table-i (tables)]]
+- [[random-magic-items-armaments (tables)]]

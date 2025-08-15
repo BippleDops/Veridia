@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Dawnstrider the Bold", "idris dawnstrider the bold", "Idris Dawnstrider Bold", "Bold the Dawnstrider Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Dawnstrider the Bold
 
 *Dwarf Wizard (Adventurers), Age 40, Non-binary*
@@ -36,12 +42,10 @@ Chosen by fate to fulfill an ancient prophecy A chance encounter last winter cha
 - **Short Term**: Sabotage competition
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Corvus Nightfall the Wise (Personal - Best friend)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
-
 
 ### Brenna Darkwater the Strong (Political - Ally)
 - **Status**: Secretly hostile
@@ -52,11 +56,9 @@ Chosen by fate to fulfill an ancient prophecy A chance encounter last winter cha
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
 
-
 ### Zephyr Thornweave the Swift (Criminal - Accomplice)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ### Hestara Underhill the Fallen (Family - Sibling)
 - **Status**: Strong and trusting
@@ -66,7 +68,6 @@ Chosen by fate to fulfill an ancient prophecy A chance encounter last winter cha
 ### Hestara Ravenheart the Mystic (Professional - Rival)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Secretly working for the villain

@@ -121,13 +121,11 @@ Kelp Forest is a notable location characterized by its unique features and strat
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -135,13 +133,11 @@ Kelp Forest is a notable location characterized by its unique features and strat
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -179,7 +175,6 @@ Mentioned in The Hidden Prophecy of Shadows
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -215,3 +210,14 @@ Mentioned in The Hidden Prophecy of Shadows
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Initiative Tracker (02_Worldbuilding)]]
+- [[Kelp Forest Monasteries]]
+- [[Kelp Forest Rangers]]
+- [[Kelp Forest Constituencies]]
+- [[Kelp Forests]]
+- [[Tethyan Hegemony]]
+- [[The Depth Plague]]
+- [[The Depth Plague (D&D_References)]]

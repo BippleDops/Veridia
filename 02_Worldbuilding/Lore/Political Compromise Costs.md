@@ -43,7 +43,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -87,7 +87,7 @@ improvements: 20
 
 ## Overview
 
-Political decision-making in crisis requires leaders to balance competing interests, make deals with questionable [[Allies]], and sacrifice some values to preserve others. In Aquabyssos, where shadow corruption threatens the very foundations of society, political leaders face unprecedented [[Moral Dilemmas]] where traditional compromises may no longer be viable, and new forms of political accommodation carry existential risks.
+Political decision-making in crisis requires leaders to balance competing interests, make deals with questionable [[Allies]], and sacrifice some values to preserve others. In Aquabyssos, where shadow corruption threatens the very foundations of society, political leaders face unprecedented [[Moral_Dilemmas|Moral Dilemmas]] where traditional compromises may no longer be viable, and new forms of political accommodation carry existential risks.
 
 #### **The [[Shadow Parliament]] Coalition Crisis**
 
@@ -186,7 +186,7 @@ Intelligence suggests cult members have access to city water treatment:
 - **Request**: 40% of emergency budget
 - **Justification**: Plague outbreak requires immediate medical intervention
 - **Political Support**: Healthcare workers, affected families, humanitarian [[Groups]]
-- **Opposition**: Military, infrastructure, [[[[Economic Interest]]s]]
+- **Opposition**: Military, infrastructure, [[Economic Interest|[[Economic Interest]]s]]
 
 **Military Defense** (Defense Minister's Priority)
 - **Request**: 50% of emergency budget  
@@ -202,7 +202,7 @@ Intelligence suggests cult members have access to city water treatment:
 
 **Infrastructure Protection** (Engineering Minister's Priority)
 - **Request**: 30% of emergency budget
-- **Justification**: Reality anchors and [[Communication Systems]] prevent societal breakdown
+- **Justification**: Reality anchors and [[Communication_Systems|Communication Systems]] prevent societal breakdown
 - **Political Support**: Technical experts, communication workers, strategic thinkers
 - **Opposition**: Those focused on immediate human needs
 
@@ -365,7 +365,7 @@ Should shadow-touched individuals have political rights? Are they still citizens
 
 Short-term survival requires decisions that may damage long-term goverce. Present crisis management conflicts with future institutional health.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Political compromise scenarios work best when players have established relationships with political figures and institutions. Build toward major political crises by first presenting smaller political decisions and their consequences. Allow extensive discussion of political options - politics is often about deliberation and negotiation rather than quick action. Remember that political compromise often involves choosing between imperfect options rather than finding perfect solutions.
 

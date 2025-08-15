@@ -1,3 +1,9 @@
+---
+aliases: ["Fortified Cloak of Grace", "fortified cloak of grace", "Grace of Cloak Fortified"]
+tags: [item, equipment]
+type: item
+---
+
 # Fortified Cloak of Grace
 
 *Armor, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A fortified cloak bearing ancient runes
 - Reduces damage by 3
 - Immunity to critical hits
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -31,7 +35,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.403Z*

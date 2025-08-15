@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Moonshadow the Wise", "pyria moonshadow the wise", "Pyria Moonshadow Wise", "Wise the Moonshadow Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Moonshadow the Wise
 
 *Half-Elf Bard (Adventurers), Age 58, Non-binary*
@@ -36,22 +42,18 @@ Searching for a legendary treasure their parent died seeking They're being black
 - **Short Term**: Sabotage competition
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Alaric Stormwind the Scholar (Criminal - Informant)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
 
-
 ### Dara Oakenshield the Broken (Political - Spy)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Xander Underhill the Mystic (Personal - Best friend)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Is from the future

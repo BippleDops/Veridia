@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Zephyrblade the Broken", "corvus zephyrblade the broken", "Corvus Zephyrblade Broken", "Broken the Zephyrblade Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Zephyrblade the Broken
 
 *Aasimar Farmer (Commoners), Age 29, Male*
@@ -13,7 +19,6 @@
 Above average and athletic, with Tied back blonde hair and Blue eyes. Weathered skin. Gold tooth that glints when smiling.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Always hungry and eating something; Always tells the absolute truth
@@ -42,16 +47,13 @@ Grew up in poverty but discovered a talent that might change everything A chance
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
 
-
 ### Branwen Voidwalker the Fallen (Professional - Partner)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Caelum Thornweave the Guardian (Professional - Rival)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ### Thalia Zephyrblade the Wanderer (Personal - Best friend)
 - **Status**: On the verge of collapse
@@ -61,7 +63,6 @@ Grew up in poverty but discovered a talent that might change everything A chance
 ### Faelyn Crystalbrook the Wise (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Is the lost heir to the throne

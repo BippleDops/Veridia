@@ -101,3 +101,9 @@ improvements: 20
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[Investigate Shadow Surgeons (Criminal_Organizations)]]
+- [[02_Worldbuilding_Procedures_Thermal_Differential_Analysis]]
+- [[Investigate Shadow Surgeons]]

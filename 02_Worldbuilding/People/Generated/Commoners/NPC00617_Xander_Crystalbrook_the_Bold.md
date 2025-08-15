@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Crystalbrook the Bold", "xander crystalbrook the bold", "Xander Crystalbrook Bold", "Bold the Crystalbrook Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Crystalbrook the Bold
 
 *Genasi Farmer (Commoners), Age 38, Non-binary*
@@ -36,32 +42,26 @@ Family has worked the same trade for generations, but times are changing They've
 - **Short Term**: Find missing person
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Xander Oakenshield the Wise (Family - Child)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
 
-
 ### Vesper Dawnstrider the Seeker (Personal - Ex-lover)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ### Orion Zephyrblade the Bold (Political - Puppet)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Rhiannon Silverleaf the Redeemed (Family - Parent)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Zephyr Jadeclaw the Fallen (Professional - Employer)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Has dragon blood in their veins

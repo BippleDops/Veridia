@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Keenblade the Risen", "brenna keenblade the risen", "Brenna Keenblade Risen", "Risen the Keenblade Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Keenblade the Risen
 
 *Gnome Cleric (Adventurers), Age 51, Male*
@@ -13,7 +19,6 @@
 Tall and athletic, with Dreadlocks auburn hair and Green eyes. Scarred skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Always tells the absolute truth; Never backs down from any challenge
@@ -36,22 +41,18 @@ Chosen by fate to fulfill an ancient prophecy They recently discovered a secret 
 - **Short Term**: Recruit new members
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Xander Thornweave the Wise (Personal - Best friend)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Alaric Moonshadow the Broken (Criminal - Accomplice)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
 
-
 ### Erasmus Nightfall the Guardian (Political - Opposition)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ### Vesper Blackstone the Swift (Family - Spouse)
 - **Status**: Professional only

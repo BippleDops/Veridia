@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Darkwater the Lost", "qadim darkwater the lost", "Qadim Darkwater Lost", "Lost the Darkwater Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Darkwater the Lost
 
 *Half-Orc Caravan Master (Merchants), Age 18, Non-binary*
@@ -36,37 +42,30 @@ Part of a merchant family with connections everywhere Strange abilities have beg
 - **Short Term**: Avoid the authorities
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Hilda Youngblood the Redeemed (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Aeliana Nightfall the Seeker (Political - Spy)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ### Hestara Grimholt the Lost (Political - Spy)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Cedric Ravenheart the Risen (Criminal - Informant)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
-
 
 ### Fiora Ironforge the Scholar (Criminal - Accomplice)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
 
-
 ### Vesper Youngblood the Redeemed (Personal - Ex-lover)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Smuggles illegal magical items

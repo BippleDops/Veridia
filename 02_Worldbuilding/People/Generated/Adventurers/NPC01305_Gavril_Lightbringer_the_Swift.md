@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Lightbringer the Swift", "gavril lightbringer the swift", "Gavril Lightbringer Swift", "Swift the Lightbringer Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Lightbringer the Swift
 
 *Dwarf Fighter (Adventurers), Age 27, Non-binary*
@@ -36,7 +42,6 @@ Seeking vengeance for a murdered mentor An old debt has come due at the worst po
 - **Short Term**: Gather information
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Pyria Nightfall the Broken (Personal - Childhood friend)
 - **Status**: Complicated history
@@ -47,16 +52,13 @@ Seeking vengeance for a murdered mentor An old debt has come due at the worst po
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Solas Frostwhisper the Wise (Political - Patron)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
 
-
 ### Gavril Lightbringer the Broken (Criminal - Informant)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ### Malakai Keenblade the Cunning (Political - Puppet)
 - **Status**: Mutually beneficial

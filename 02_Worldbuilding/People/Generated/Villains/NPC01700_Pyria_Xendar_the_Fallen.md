@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Xendar the Fallen", "pyria xendar the fallen", "Pyria Xendar Fallen", "Fallen the Xendar Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Xendar the Fallen
 
 *Genasi Cultist (Villains), Age 34, Non-binary*
@@ -13,7 +19,6 @@
 Below average and wiry, with Short and neat bald hair and Blue eyes. Unusual hue skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Incredibly optimistic despite evidence
@@ -42,11 +47,9 @@ Driven mad by knowledge humanity wasn't meant to know They've fallen in love wit
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Vesper Voidwalker the Guardian (Political - Ally)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
-
 
 ### Kaelen Crystalbrook the Lost (Political - Opposition)
 - **Status**: Strained but maintaining
@@ -56,7 +59,6 @@ Driven mad by knowledge humanity wasn't meant to know They've fallen in love wit
 ### Gavril Emberfall the Wise (Political - Opposition)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Has a child they're protecting

@@ -76,3 +76,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A shipment has gone missing and evil awakens
 - A map reveals ancient history about this place
 - Someone is searching for an heir for money
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

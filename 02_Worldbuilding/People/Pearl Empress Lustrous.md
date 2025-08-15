@@ -36,12 +36,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-pearl-empress-lustrous-pearl-empress-lustrous.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -172,7 +170,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Member of House Dragonblood - Trait: prophecy
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -242,3 +239,10 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Portraits Portrait NPC Captain Steelhart Captain Steelhart.svg]]
+- [[Assets Portraits Portrait NPC Deep Lords Deep Lords.svg]]
+- [[The Phosphor Markets]]
+- [[The Phosphor Markets (D&D_References)]]

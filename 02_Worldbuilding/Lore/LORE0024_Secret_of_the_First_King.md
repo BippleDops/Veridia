@@ -1,4 +1,5 @@
 ---
+aliases: ["Secret of the First King", "secret of the first king", "Secret of First King", "King First the of Secret"]
 tags: [generated]
 id: LORE0024_Secret_of_the_First_King
 created: 2025-08-15T04:09:51.134Z

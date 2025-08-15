@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Moonshadow the Seeker", "caelum moonshadow the seeker", "Caelum Moonshadow Seeker", "Seeker the Moonshadow Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Moonshadow the Seeker
 
 *Halfling Ranger (Adventurers), Age 65, Male*
@@ -36,32 +42,26 @@ Seeking vengeance for a murdered mentor A prophetic dream has been haunting them
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Faelyn Moonshadow the Cunning (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
 ### Gareth Stormwind the Redeemed (Family - Cousin)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
-
 
 ### Dara Ironwood the Scholar (Criminal - Accomplice)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Zephyr Ironforge the Mystic (Political - Patron)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Kaelen Quicksilver the Lost (Family - Child)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ### Drusilla Moonshadow the Seeker (Criminal - Handler)
 - **Status**: Strong and trusting

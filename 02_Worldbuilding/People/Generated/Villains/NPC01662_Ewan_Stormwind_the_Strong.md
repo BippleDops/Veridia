@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Stormwind the Strong", "ewan stormwind the strong", "Ewan Stormwind Strong", "Strong the Stormwind Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Stormwind the Strong
 
 *Half-Orc Assassin (Villains), Age 23, Non-binary*
@@ -42,11 +48,9 @@ Driven mad by knowledge humanity wasn't meant to know They're being blackmailed 
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
 
-
 ### Aldric Brightblade the Guardian (Personal - Best friend)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ### Aeliana Nightfall the Scholar (Criminal - Accomplice)
 - **Status**: Recently reconciled
@@ -57,16 +61,13 @@ Driven mad by knowledge humanity wasn't meant to know They're being blackmailed 
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Gareth Ashford the Bold (Family - Spouse)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
 
-
 ### Orion Goldleaf the Redeemed (Family - Parent)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Has a child they're protecting

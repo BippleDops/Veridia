@@ -187,3 +187,8 @@ This NPC can serve multiple roles:
 ## Bloodline
 
 Member of House Serpentblood - Trait: curse
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-port-sorrow-trading-company-port-sorrow-trading-company.svg]]
+- [[04_Resources_Assets_Locations_location-city-marine-druids-marine-druids.svg]]

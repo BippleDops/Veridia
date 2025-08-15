@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Crystalbrook the Fallen", "solas crystalbrook the fallen", "Solas Crystalbrook Fallen", "Fallen the Crystalbrook Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Crystalbrook the Fallen
 
 *Gnome Ranger (Adventurers), Age 57, Female*
@@ -13,7 +19,6 @@
 Below average and stocky, with Partially shaved gray hair and Violet eyes. Pale skin. Prominent scar across the face.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Never uses people's real names
@@ -52,21 +57,17 @@ Chosen by fate to fulfill an ancient prophecy Strange abilities have begun manif
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Caelum Frostwhisper the Lost (Political - Ally)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ### Hilda Blackstone the Scholar (Professional - Partner)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
 
-
 ### Aeliana Frostwhisper the Cunning (Personal - Best friend)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Secretly working for the villain

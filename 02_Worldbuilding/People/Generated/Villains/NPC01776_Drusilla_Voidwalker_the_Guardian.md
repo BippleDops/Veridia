@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Voidwalker the Guardian", "drusilla voidwalker the guardian", "Drusilla Voidwalker Guardian", "Guardian the Voidwalker Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Voidwalker the Guardian
 
 *Tabaxi Crime Boss (Villains), Age 47, Male*
@@ -13,7 +19,6 @@
 Short and heavyset, with Mohawk blonde hair and Black eyes. Fair skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Never uses people's real names
@@ -42,7 +47,6 @@ Believes their evil acts serve a greater good Strange abilities have begun manif
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
 
-
 ### Lyanna Darkwater the Wise (Professional - Employee)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
@@ -56,7 +60,6 @@ Believes their evil acts serve a greater good Strange abilities have begun manif
 ### Solas Moonshadow the Bold (Family - Spouse)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Was once a renowned hero

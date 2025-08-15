@@ -1,4 +1,5 @@
 ---
+aliases: ["Blessed Gauntlet of the Dawn", "blessed gauntlet of the dawn", "Blessed Gauntlet of Dawn", "Dawn the of Gauntlet Blessed"]
 tags: [generated]
 id: ITEM0105
 created: 2025-08-15T04:09:51.111Z
@@ -18,8 +19,6 @@ Crafted from darkwood with ancient symbols, in ancient but unbreakable. It emana
 
 ## Quirk
 *Occasionally speaks in ancient tongue*
-
-
 
 ## History
 This item was corrupted by dark magic ages ago. It has passed through many hands, each leaving their mark upon its destiny.

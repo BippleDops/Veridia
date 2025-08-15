@@ -1,3 +1,9 @@
+---
+aliases: ["Fortified Chain Mail of Grace", "fortified chain mail of grace", "Grace of Mail Chain Fortified"]
+tags: [item, equipment]
+type: item
+---
+
 # Fortified Chain Mail of Grace
 
 *Armor, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A fortified chain mail bearing ancient runes
 - Advantage on saving throws
 - +2 to AC
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -30,7 +34,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.393Z*

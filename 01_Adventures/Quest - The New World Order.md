@@ -18,15 +18,12 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 # Quest - The New World Order
-
 
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -132,7 +129,6 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Time Limit
 - **Deadline**: When it must be completed

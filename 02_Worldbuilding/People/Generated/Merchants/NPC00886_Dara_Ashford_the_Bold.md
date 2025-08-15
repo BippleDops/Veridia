@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Ashford the Bold", "dara ashford the bold", "Dara Ashford Bold", "Bold the Ashford Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Ashford the Bold
 
 *Genasi Appraiser (Merchants), Age 51, Male*
@@ -36,12 +42,10 @@ Part of a merchant family with connections everywhere A prophetic dream has been
 - **Short Term**: Avoid the authorities
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Malakai Ironforge the Guardian (Criminal - Accomplice)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ### Dara Darkwater the Strong (Professional - Partner)
 - **Status**: Professional only
@@ -52,11 +56,9 @@ Part of a merchant family with connections everywhere A prophetic dream has been
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
 
-
 ### Baelor Ironwood the Strong (Political - Puppet)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
-
 
 ### Qadim Darkwater the Wanderer (Professional - Partner)
 - **Status**: On the verge of collapse
@@ -66,7 +68,6 @@ Part of a merchant family with connections everywhere A prophetic dream has been
 ### Gareth Emberfall the Seeker (Personal - Ex-lover)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Running a cult from their basement

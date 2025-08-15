@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Silverleaf", "branwen silverleaf", "Silverleaf Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Silverleaf
 
 *Elf Courtier (Nobles), Age 31, Female*
@@ -42,16 +48,13 @@ Secretly adopted into nobility, living in fear of discovery They recently discov
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
 
-
 ### Ewan Ravenheart the Risen (Political - Ally)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Cedric Moonshadow (Personal - Ex-lover)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Actually a bastard with no real claim

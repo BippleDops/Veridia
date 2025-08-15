@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Proudmore the Scholar", "nerys proudmore the scholar", "Nerys Proudmore Scholar", "Scholar the Proudmore Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Proudmore the Scholar
 
 *Genasi Noble (Nobles), Age 20, Non-binary*
@@ -13,7 +19,6 @@
 Short and lanky, with Tied back auburn hair and Blue eyes. Tan skin. Weather-beaten face showing hard life.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Always tells the absolute truth; Compulsive liar about minor things; Sees doom and gloom everywhere
@@ -36,22 +41,18 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Short Term**: Complete current contract
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Faelyn Silverleaf (Political - Spy)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Malakai Blackstone (Criminal - Target)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Gareth Brightblade (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Child from scandalous affair

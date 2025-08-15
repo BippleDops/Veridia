@@ -1,11 +1,11 @@
 ---
+aliases: ["Delilah Ironforge the Strong", "delilah ironforge the strong", "Delilah Ironforge Strong", "Strong the Ironforge Delilah"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -77,7 +77,6 @@ Insight, Persuasion, Perception
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 17 gold pieces
 - Mysterious key
@@ -92,7 +91,6 @@ Insight, Persuasion, Perception
 
 ---
 *Generated: 2025-08-15T03:21:04.034Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

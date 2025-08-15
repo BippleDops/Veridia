@@ -1,8 +1,8 @@
 ---
+aliases: ["Nora Stormwind the Ancient", "nora stormwind the ancient", "Nora Stormwind Ancient", "Ancient the Stormwind Nora"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -73,8 +73,6 @@ Raised by monks in a remote monastery. Years ago, they survived a plague that ki
 ### Skills
 Athletics, Persuasion
 
-
-
 ## Possessions
 - 86 gold pieces
 - Map to unknown location
@@ -86,7 +84,6 @@ Athletics, Persuasion
 
 ---
 *Generated: 2025-08-15T03:20:13.073Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

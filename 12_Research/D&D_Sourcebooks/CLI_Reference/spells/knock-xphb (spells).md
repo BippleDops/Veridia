@@ -100,7 +100,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -113,3 +112,15 @@ Contextual improvement based on 12_Research
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Chime of Opening Xdmg]]
+- [[Daerns Instant Fortress Xdmg]]
+- [[chime-of-opening-xdmg (items)]]
+- [[daerns-instant-fortress-xdmg (items)]]
+- [[Poisoned Needle Xdmg]]
+- [[poisoned-needle-xdmg (traps-hazards)]]

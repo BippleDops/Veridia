@@ -1,4 +1,5 @@
 ---
+aliases: ["Blessed Tome of Power", "blessed tome of power", "Power of Tome Blessed"]
 tags: [generated]
 id: ITEM0033
 created: 2025-08-15T04:09:51.087Z
@@ -19,8 +20,6 @@ Crafted from darkwood with battle scars, in showing age but sturdy. It emanates 
 
 ## Quirk
 *Makes user sneeze in sunlight*
-
-
 
 ## History
 This item was lost in a great battle centuries ago. It has passed through many hands, each leaving their mark upon its destiny.

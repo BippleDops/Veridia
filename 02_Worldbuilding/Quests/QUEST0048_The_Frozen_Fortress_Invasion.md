@@ -1,4 +1,5 @@
 ---
+aliases: ["The Frozen Fortress Invasion", "the frozen fortress invasion", "Invasion Fortress Frozen The"]
 tags: [quest, adventure, generated]
 type: quest
 ---
@@ -21,8 +22,6 @@ Retrieve the ancient artifact from the sunken temple
 ### Secondary
 - Establish future contacts
 - Recover additional valuable items
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they survived a plague that killed their family, which changed their life forever. Now, circumstances demand immediate action.

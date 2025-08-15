@@ -118,7 +118,6 @@ Mentioned in The First Prophecy of Shadows
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## See Also
 - Related content
 - Similar topics
@@ -128,3 +127,7 @@ Mentioned in The First Prophecy of Shadows
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
 - **Hidden Details**: Secret aspects
+
+## References
+
+- [[Campaign_Overview_1 (01_Adventures)]]

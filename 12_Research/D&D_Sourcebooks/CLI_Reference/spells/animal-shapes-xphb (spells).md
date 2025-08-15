@@ -99,7 +99,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -112,3 +111,17 @@ Contextual improvement based on 12_Research
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Animal Lord Forager Xmm]]
+- [[Animal Lord Hunter Xmm]]
+- [[Animal Lord Sage Xmm]]
+- [[Animal Lord Xmm]]
+- [[animal-lord-forager-xmm (celestial)]]
+- [[animal-lord-hunter-xmm (celestial)]]
+- [[animal-lord-sage-xmm (celestial)]]
+- [[animal-lord-xmm (celestial)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Ironwood the Lost", "vesper ironwood the lost", "Vesper Ironwood Lost", "Lost the Ironwood Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Ironwood the Lost
 
 *Dragonborn Assassin (Villains), Age 69, Male*
@@ -36,32 +42,26 @@ Believes their evil acts serve a greater good A prophetic dream has been hauntin
 - **Short Term**: Find missing person
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Malakai Zephyrblade the Scholar (Professional - Employer)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
 
-
 ### Branwen Voidwalker the Guardian (Criminal - Informant)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ### Dara Frostwhisper the Guardian (Political - Puppet)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Qadim Blackstone the Lost (Family - Parent)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
 
-
 ### Brenna Ravenheart the Wise (Personal - Best friend)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Has a child they're protecting

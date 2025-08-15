@@ -2,7 +2,7 @@
 tags: ['[[Lore]]']
 ---
 
-# 02 Worldbuilding/[[Groups]]/[[The [[Pearl Divers]] Guil]]
+# 02 Worldbuilding/[[Groups]]/[[Pearl Divers|The [[Pearl Divers]] Guil]]
 
 ## Overview
 

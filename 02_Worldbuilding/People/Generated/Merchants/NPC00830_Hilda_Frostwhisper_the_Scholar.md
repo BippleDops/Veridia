@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Frostwhisper the Scholar", "hilda frostwhisper the scholar", "Hilda Frostwhisper Scholar", "Scholar the Frostwhisper Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Frostwhisper the Scholar
 
 *Gnome Trader (Merchants), Age 77, Non-binary*
@@ -36,7 +42,6 @@ Inherited a failing business and turned it around An old debt has come due at th
 - **Short Term**: Survive until next week
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Aeliana Ironforge the Broken (Political - Spy)
 - **Status**: Strained but maintaining
@@ -47,7 +52,6 @@ Inherited a failing business and turned it around An old debt has come due at th
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Lyanna Dawnstrider the Guardian (Family - Child)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
@@ -56,7 +60,6 @@ Inherited a failing business and turned it around An old debt has come due at th
 ### Fiora Hawthorne the Swift (Professional - Employer)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Running a cult from their basement

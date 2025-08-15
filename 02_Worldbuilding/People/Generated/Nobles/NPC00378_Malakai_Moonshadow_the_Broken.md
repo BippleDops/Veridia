@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Moonshadow the Broken", "malakai moonshadow the broken", "Malakai Moonshadow Broken", "Broken the Moonshadow Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Moonshadow the Broken
 
 *Dragonborn Heir (Nobles), Age 48, Male*
@@ -36,12 +42,10 @@ Exiled from their homeland, trying to rebuild their power base An old debt has c
 - **Short Term**: Find missing person
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Orion Proudmore (Criminal - Informant)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ### Gavril Zephyrblade the Mystic (Criminal - Fence)
 - **Status**: Secretly hostile
@@ -52,7 +56,6 @@ Exiled from their homeland, trying to rebuild their power base An old debt has c
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
 ### Nerys Underhill the Bold (Family - Child)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
@@ -61,7 +64,6 @@ Exiled from their homeland, trying to rebuild their power base An old debt has c
 ### Malakai Voidwalker the Scholar (Family - Cousin)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ### Drusilla Thornweave the Cunning (Personal - Nemesis)
 - **Status**: Professional only

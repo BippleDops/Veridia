@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Nightfall the Scholar", "erasmus nightfall the scholar", "Erasmus Nightfall Scholar", "Scholar the Nightfall Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Nightfall the Scholar
 
 *Aasimar Cleric (Adventurers), Age 65, Non-binary*
@@ -13,7 +19,6 @@
 Towering and stocky, with Shaved gray hair and Black eyes. Brown skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Collects unusual and worthless objects; Always speaks in metaphors and riddles; Sees doom and gloom everywhere
@@ -35,7 +40,6 @@ Accidentally gained powers and learning to control them They've been marked by a
 ### Goals
 - **Short Term**: Find missing person
 - **Long Term**: Uncover the truth about their past
-
 
 ## Relationships
 ### Gavril Nightfall the Scholar (Criminal - Target)
@@ -66,7 +70,6 @@ Accidentally gained powers and learning to control them They've been marked by a
 ### Corvus Brightblade the Mystic (Criminal - Target)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Possessed by ancient spirit

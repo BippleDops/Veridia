@@ -1,11 +1,11 @@
 ---
+aliases: ["Gideon Ironforge", "gideon ironforge", "Ironforge Gideon"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -74,8 +74,6 @@ Born into a noble family but cast out for scandal. Years ago, they was falsely a
 ### Skills
 Athletics, Persuasion
 
-
-
 ## Possessions
 - 86 gold pieces
 - Book of poetry
@@ -90,7 +88,6 @@ Athletics, Persuasion
 
 ---
 *Generated: 2025-08-15T03:21:04.034Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

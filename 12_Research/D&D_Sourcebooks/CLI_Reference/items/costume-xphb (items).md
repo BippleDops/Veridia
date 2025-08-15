@@ -79,3 +79,19 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Charlatan Xphb]]
+- [[Entertainer Gladiator Variant]]
+- [[charlatan-xphb (backgrounds)]]
+- [[entertainer-gladiator-variant (backgrounds)]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Disguise Kit Xphb]]
+- [[Entertainers Pack Xphb]]
+- [[disguise-kit-xphb (items)]]
+- [[entertainers-pack-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

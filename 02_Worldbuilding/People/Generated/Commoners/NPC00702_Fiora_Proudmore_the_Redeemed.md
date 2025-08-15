@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Proudmore the Redeemed", "fiora proudmore the redeemed", "Fiora Proudmore Redeemed", "Redeemed the Proudmore Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Proudmore the Redeemed
 
 *Firbolg Blacksmith (Commoners), Age 30, Non-binary*
@@ -36,12 +42,10 @@ Former soldier trying to adjust to civilian life Strange abilities have begun ma
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Rhiannon Goldleaf the Risen (Professional - Partner)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ### Idris Thornweave the Wise (Family - Child)
 - **Status**: Mutually beneficial

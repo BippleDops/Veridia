@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Grimholt", "qadim grimholt", "Grimholt Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Grimholt
 
 *Genasi Noble (Nobles), Age 69, Non-binary*
@@ -13,7 +19,6 @@
 Very tall and wiry, with Mohawk gray hair and Violet eyes. Brown skin. Warm smile that puts people at ease.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Extremely superstitious about everything; Flirts with everyone regardless of interest
@@ -36,17 +41,14 @@ Recently elevated to nobility through service, still learning courtly ways Stran
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Hestara Goldleaf the Strong (Personal - Love interest)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Zephyr Ashford (Professional - Partner)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
-
 
 ### Solas Xendar (Political - Puppet)
 - **Status**: Secretly hostile
@@ -56,7 +58,6 @@ Recently elevated to nobility through service, still learning courtly ways Stran
 ### Urien Crystalbrook (Professional - Employer)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

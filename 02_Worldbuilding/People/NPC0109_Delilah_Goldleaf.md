@@ -1,11 +1,11 @@
 ---
+aliases: ["Delilah Goldleaf", "delilah goldleaf", "Goldleaf Delilah"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Raised by monks in a remote monastery. Years ago, they was falsely accused of a 
 ### Skills
 Stealth, Insight, Athletics
 
-
-
 ## Possessions
 - 100 gold pieces
 - Lucky dice
@@ -92,7 +90,6 @@ Stealth, Insight, Athletics
 
 ---
 *Generated: 2025-08-15T03:21:04.038Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

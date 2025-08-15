@@ -1,11 +1,11 @@
 ---
+aliases: ["Rhea Ironforge the Merciful", "rhea ironforge the merciful", "Rhea Ironforge Merciful", "Merciful the Ironforge Rhea"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -78,7 +78,6 @@ Perception, Stealth, Arcana, Athletics
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 14 gold pieces
 - Family heirloom (locket)
@@ -90,7 +89,6 @@ Perception, Stealth, Arcana, Athletics
 
 ---
 *Generated: 2025-08-15T03:20:13.078Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

@@ -140,7 +140,6 @@ Mentioned in The Second Prophecy of Shadows
 - Ancient map fragment
 - 1d4 gems (50 gp each)
 
-
 ## See Also
 - Related content
 - Similar topics

@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Ironwood the Seeker", "cedric ironwood the seeker", "Cedric Ironwood Seeker", "Seeker the Ironwood Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Ironwood the Seeker
 
 *Firbolg Dark Wizard (Villains), Age 27, Non-binary*
@@ -46,7 +52,6 @@ Corrupted by an artifact or dark magic They've fallen in love with someone they 
 ### Dara Quicksilver the Seeker (Criminal - Handler)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
-
 
 ### Hestara Moonshadow the Risen (Professional - Mentor)
 - **Status**: Strong and trusting

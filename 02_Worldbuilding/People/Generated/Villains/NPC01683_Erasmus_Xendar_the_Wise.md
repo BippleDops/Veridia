@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Xendar the Wise", "erasmus xendar the wise", "Erasmus Xendar Wise", "Wise the Xendar Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Xendar the Wise
 
 *Tiefling Dark Wizard (Villains), Age 25, Non-binary*
@@ -36,17 +42,14 @@ Born into evil but questioning their path They've fallen in love with someone th
 - **Short Term**: Sabotage competition
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Elric Stormwind the Mystic (Criminal - Accomplice)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
 
-
 ### Kaelen Xendar the Wanderer (Professional - Employer)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
-
 
 ### Pyria Emberfall the Risen (Personal - Best friend)
 - **Status**: Professional only
@@ -56,7 +59,6 @@ Born into evil but questioning their path They've fallen in love with someone th
 ### Qadim Dawnstrider the Fallen (Political - Spy)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Is being controlled by darker force

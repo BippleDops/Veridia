@@ -120,3 +120,20 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A corpse reveals ancient history about a local noble
 - A noble needs help delivering before dawn
+
+## References
+
+- [[Crab Xmm]]
+- [[crab-xmm (beast)]]
+- [[2 Appendix a Miscellaneous Creatures]]
+- [[2-appendix-a-miscellaneous-creatures (monster-manual-2014)]]
+- [[3 Animals]]
+- [[3-animals (monster-manual-2025)]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[10-appendix-b-creature-stat-blocks (players-handbook-2024)]]
+- [[Coastal Encounters Levels 14 Xge]]
+- [[Monsters by Habitat Coastal Monsters Xmm]]
+- [[Monsters by Habitat Underwater Monsters Xmm]]
+- [[coastal-encounters-levels-14-xge (tables)]]
+- [[monsters-by-habitat-coastal-monsters-xmm (tables)]]
+- [[monsters-by-habitat-underwater-monsters-xmm (tables)]]

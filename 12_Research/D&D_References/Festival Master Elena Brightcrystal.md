@@ -70,3 +70,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[The Crystal Festival]]
+- [[The Crystal Festival (D&D_References)]]
+- [[The Crystal Festival 3 (D&D_References)]]

@@ -1,4 +1,5 @@
 ---
+aliases: ["Divine Orb of the Dawn", "divine orb of the dawn", "Divine Orb of Dawn", "Dawn the of Orb Divine"]
 tags: [generated]
 id: ITEM0091
 created: 2025-08-15T04:09:51.107Z
@@ -19,8 +20,6 @@ Crafted from blessed silver with ancient symbols, in recently restored. It emana
 
 ## Quirk
 *Makes user sneeze in sunlight*
-
-
 
 ## History
 This item was stolen from a dragon's hoard centuries ago. It has passed through many hands, each leaving their mark upon its destiny.

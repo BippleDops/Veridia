@@ -1,8 +1,8 @@
 ---
+aliases: ["Alistair Stormwind", "alistair stormwind", "Stormwind Alistair"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -72,8 +72,6 @@ Apprenticed to a master craftsman from young age. Years ago, they once saved a n
 ### Skills
 Perception, Stealth
 
-
-
 ## Possessions
 - 76 gold pieces
 - Small gemstone
@@ -85,7 +83,6 @@ Perception, Stealth
 
 ---
 *Generated: 2025-08-15T03:21:04.029Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

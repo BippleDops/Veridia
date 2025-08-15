@@ -122,3 +122,7 @@ Mentioned in The Second Prophecy of Shadows
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[Unite the Recursions]]

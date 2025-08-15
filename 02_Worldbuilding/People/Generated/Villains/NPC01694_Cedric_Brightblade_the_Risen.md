@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Brightblade the Risen", "cedric brightblade the risen", "Cedric Brightblade Risen", "Risen the Brightblade Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Brightblade the Risen
 
 *Half-Orc Cultist (Villains), Age 65, Female*
@@ -36,7 +42,6 @@ Born into evil but questioning their path A chance encounter last winter changed
 - **Short Term**: Avoid the authorities
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Caelum Ironforge the Lost (Criminal - Fence)
 - **Status**: Blood oath bound
@@ -46,7 +51,6 @@ Born into evil but questioning their path A chance encounter last winter changed
 ### Rhiannon Underhill the Risen (Family - Spouse)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ### Gavril Grimholt the Lost (Political - Puppet)
 - **Status**: Professional only

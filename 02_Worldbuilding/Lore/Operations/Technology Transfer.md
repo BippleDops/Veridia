@@ -117,3 +117,22 @@ improvements: 20
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[Consequence Chain 3 Reality Merger Diplomatic Crisis]]
+- [[Consequence Chain 5 - Marina Identity Revelation]]
+- [[Crystal-Corruption-Tracking-Sheet]]
+- [[Customs House]]
+- [[Diplomatic Event Scenarios]]
+- [[Eastern Kingdom]]
+- [[Economic Crime Methods]]
+- [[Political Compromise Costs]]
+- [[Pressure Adaptation System]]
+- [[Resonance Peaks]]
+- [[The Bloom Fields]]
+- [[The Deep Harvest]]
+- [[Tidal Chambers]]
+- [[Umbral Exchange]]
+- [[Maelstrom Palace]]
+- [[Reality Anchor Network]]

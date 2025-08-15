@@ -1,11 +1,11 @@
 ---
+aliases: ["Rhea Ironforge", "rhea ironforge", "Ironforge Rhea"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -74,8 +74,6 @@ Grew up on the streets, learning to survive. Years ago, they witnessed something
 ### Skills
 Investigation, Stealth, Athletics, Deception
 
-
-
 ## Possessions
 - 66 gold pieces
 - Mysterious key
@@ -88,7 +86,6 @@ Investigation, Stealth, Athletics, Deception
 
 ---
 *Generated: 2025-08-15T03:21:04.032Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

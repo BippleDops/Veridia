@@ -1,4 +1,5 @@
 ---
+aliases: ["Forgotten Crown of the Dawn", "forgotten crown of the dawn", "Forgotten Crown of Dawn", "Dawn the of Crown Forgotten"]
 tags: [generated]
 id: ITEM0085
 created: 2025-08-15T04:09:51.105Z
@@ -19,8 +20,6 @@ Crafted from starfall iron with ancient symbols, in pristine condition. It emana
 
 ## Quirk
 *Vibrates near magic*
-
-
 
 ## History
 This item was stolen from a dragon's hoard decades ago. It has passed through many hands, each leaving their mark upon its destiny.

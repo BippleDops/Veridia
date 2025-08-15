@@ -82,3 +82,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Food Drink and Lodging Phb]]
+- [[food-drink-and-lodging-phb (tables)]]

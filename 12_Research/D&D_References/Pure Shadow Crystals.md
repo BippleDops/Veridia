@@ -57,3 +57,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A map reveals a conspiracy about this place
 - A stranger needs help finding before the festival
+
+## References
+
+- [[The Shadow Harvest (Criminal_Organizations)]]
+- [[The Shadow Harvest]]

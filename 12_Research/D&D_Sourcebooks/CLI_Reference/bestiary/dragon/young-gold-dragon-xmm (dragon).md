@@ -10,13 +10,13 @@ modified: '2025-01-15'
 # young-gold-dragon-xmm
 
 ---
-title: young gold dragon xmm
+title: young [[Gold Dragon|Gold Dragon]] xmm
 aliases:
 - Young Gold Dragon
 type: monster
 tags:
 - world/surface
-- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/[[Compendium|Compendium]]/src/5e/xmm
 - ttrpg-cli/monster/cr/10
 - monster
 - research
@@ -38,7 +38,7 @@ world: Both
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-young-gold-dragon-xmm-v1-young-gold-dragon-xmm.svg)
+![](04_Resources/[[Assets|Assets]]/Creatures/creature-creature-young-gold-dragon-xmm-v1-young-gold-dragon-xmm.svg)
 
 # [[young-gold-dragon-xmm (dragon)]]
 *Source: Monster Manual (2024) p. 144. Available in the SRD and the Free Rules (2024)*  
@@ -62,18 +62,18 @@ Young gold dragons have seen glimpses of the world's true evils and crusade to o
 *Dragons of Hope and Majesty*
 
 - **Habitat.** Forest, Grassland  
-- **Treasure.** Arcana  
+- **Treasure.** [[Arcana|Arcana]]  
 
 Gold dragons work to make the world a better place. The most powerful of the metallic dragons, these awe-inspiring dragons strive to protect that which is good and bend fate toward a brighter future. Their kind dispositions don't prevent gold dragons from engaging in combat when necessary, though, and they exhale brilliant flames and weakening magic to rout their foes.
 
-Gold dragons favor grasslands and pristine forests, frequently dwelling near awe-inspiring natural wonders or guarding monuments from ancient civilizations. In their lairs, gold dragons hoard coins and gems, but they frequently put their treasure to use in pursuit of greater goals. They often use their riches to buy rare lore books, pay informants, or patronize idealistic adventurers.
+Gold dragons favor grasslands and pristine forests, frequently dwelling near awe-inspiring natural wonders or guarding [[monuments|monuments]] from ancient civilizations. In their lairs, gold dragons hoard coins and gems, but they frequently put their treasure to use in pursuit of greater goals. They often use their riches to buy rare lore books, pay informants, or patronize idealistic adventurers.
 
 ### Gold Dragon Lairs
 
 Gold dragons make their homes in places of natural and magical wonder.
 
 ```statblock
-"name": "Young Gold Dragon (XMM)"
+"[[Name|Name]]": "Young Gold Dragon (XMM)"
 "size": "Large"
 "type": "dragon"
 "subtype": "metallic"
@@ -94,7 +94,7 @@ Gold dragons make their homes in places of natural and magical wonder.
   - "dexterity": !!int "6"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[[skills#Insight|Insight]]"
+  - "name": "[[skills|skills]]#Insight|Insight]]"
     "desc": "+5"
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+9"
@@ -102,13 +102,13 @@ Gold dragons make their homes in places of natural and magical wonder.
   - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
 "damage_immunities": "fire"
-"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 19"
+"[[senses|senses]]": "blindsight 30 ft., darkvision 120 ft., passive Perception 19"
 "languages": "Common, Draconic"
 "cr": "10"
 "traits":
   - "desc": "The dragon can breathe air and water."
     "name": "Amphibious"
-"actions":
+"[[actions|actions]]":
   - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
       \ use of Weakening Breath."
     "name": "Multiattack"
@@ -128,7 +128,7 @@ Gold dragons make their homes in places of natural and magical wonder.
     "name": "Weakening Breath"
 "source":
   - "XMM"
-"image": "/03_Mechanics/CLI/bestiary/dragon/token/young-gold-dragon-xmm.webp"
+"image": "/03_Mechanics/CLI/[[Bestiary|Bestiary]]/dragon/token/young-gold-dragon-xmm.webp"
 ```
 ^statblock
 
@@ -136,15 +136,15 @@ Gold dragons make their homes in places of natural and magical wonder.
 
 forest, grassland
 
-## Player-Facing Summary
+## Player-[[facing|facing]] Summary
 
-Young gold dragon xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+Young [[Gold Dragon Xmm|Gold Dragon Xmm]] is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of young gold dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around young gold dragon xmm.
+Legends speak of [[Young Gold Dragon Xmm|Young Gold Dragon Xmm]] as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or [[Whispers|Whispers]] on the wind—that herald change around young gold dragon xmm.
 
-## DM Notes
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -159,3 +159,14 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+---
+**Navigation**: [[INDEX|🏠 Home]] | [[INDEX|📚 Index]]
+
+## References
+
+- [[Young Gold Dragon Xmm]]
+- [[Grassland Encounters Levels 1720 Xge]]
+- [[Monsters by Habitat Grassland Monsters Xmm]]
+- [[grassland-encounters-levels-1720-xge (tables)]]
+- [[monsters-by-habitat-grassland-monsters-xmm (tables)]]

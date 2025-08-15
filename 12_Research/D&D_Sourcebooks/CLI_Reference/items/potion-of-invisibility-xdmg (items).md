@@ -83,3 +83,17 @@ Mentioned in The First Prophecy of Winds
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Arcana Rare Xdmg]]
+- [[Magic Item Table D]]
+- [[Mixing Potions Potion Miscibility Xdmg]]
+- [[Potions for Sale Xge]]
+- [[Random Magic Items Arcana]]
+- [[arcana-rare-xdmg (tables)]]
+- [[magic-item-table-d (tables)]]
+- [[mixing-potions-potion-miscibility-xdmg (tables)]]
+- [[potions-for-sale-xge (tables)]]
+- [[random-magic-items-arcana (tables)]]

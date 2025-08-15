@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Hawthorne the Redeemed", "solas hawthorne the redeemed", "Solas Hawthorne Redeemed", "Redeemed the Hawthorne Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Hawthorne the Redeemed
 
 *Goliath Cultist (Villains), Age 42, Male*
@@ -42,16 +48,13 @@ Believes their evil acts serve a greater good A chance encounter last winter cha
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Malakai Ashford the Lost (Criminal - Target)
 - **Status**: Complicated history
 - **History**: United by common enemy
 
-
 ### Vesper Hawthorne the Wise (Family - Parent)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Knows how the world will end

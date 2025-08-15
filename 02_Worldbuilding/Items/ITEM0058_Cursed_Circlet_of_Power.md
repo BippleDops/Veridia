@@ -1,4 +1,5 @@
 ---
+aliases: ["Cursed Circlet of Power", "cursed circlet of power", "Power of Circlet Cursed"]
 tags: [generated]
 id: ITEM0058
 created: 2025-08-15T04:09:51.097Z
@@ -18,8 +19,6 @@ Crafted from crystal with delicate filigree, in showing age but sturdy. It emana
 
 ## Quirk
 *Glows during full moon*
-
-
 
 ## History
 This item was lost in a great battle decades ago. It has passed through many hands, each leaving their mark upon its destiny.

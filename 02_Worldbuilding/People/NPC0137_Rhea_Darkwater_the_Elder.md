@@ -1,11 +1,11 @@
 ---
+aliases: ["Rhea Darkwater the Elder", "rhea darkwater the elder", "Rhea Darkwater Elder", "Elder the Darkwater Rhea"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -78,7 +78,6 @@ Perception, Persuasion, Arcana
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 37 gold pieces
 - Well-worn journal
@@ -91,7 +90,6 @@ Perception, Persuasion, Arcana
 
 ---
 *Generated: 2025-08-15T03:21:04.040Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

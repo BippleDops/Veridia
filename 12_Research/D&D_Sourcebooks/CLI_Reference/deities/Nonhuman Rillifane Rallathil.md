@@ -57,3 +57,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A letter reveals the truth about this place
 - A journal reveals a conspiracy about a local noble
+
+## References
+
+- [[Nonhuman Deities Phb]]
+- [[nonhuman-deities-phb (tables)]]

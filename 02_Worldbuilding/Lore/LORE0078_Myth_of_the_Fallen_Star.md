@@ -1,4 +1,5 @@
 ---
+aliases: ["Myth of the Fallen Star", "myth of the fallen star", "Myth of Fallen Star", "Star Fallen the of Myth"]
 tags: [generated]
 id: LORE0078_Myth_of_the_Fallen_Star
 created: 2025-08-15T04:09:51.150Z

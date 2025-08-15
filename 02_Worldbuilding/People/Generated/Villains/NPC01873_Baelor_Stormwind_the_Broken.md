@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Stormwind the Broken", "baelor stormwind the broken", "Baelor Stormwind Broken", "Broken the Stormwind Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Stormwind the Broken
 
 *Human Assassin (Villains), Age 34, Male*
@@ -13,7 +19,6 @@
 Tall and wiry, with Shaved bald hair and Gray eyes. Fair skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Compulsive liar about minor things
@@ -36,7 +41,6 @@ Corrupted by an artifact or dark magic They're being blackmailed by someone from
 - **Short Term**: Recruit new members
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Wynne Proudmore the Fallen (Personal - Ex-lover)
 - **Status**: Blood oath bound
@@ -47,7 +51,6 @@ Corrupted by an artifact or dark magic They're being blackmailed by someone from
 - **Status**: Secretly hostile
 - **History**: United by common enemy
 
-
 ### Hilda Keenblade the Bold (Family - Sibling)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
@@ -56,7 +59,6 @@ Corrupted by an artifact or dark magic They're being blackmailed by someone from
 ### Wynne Zephyrblade the Strong (Political - Opposition)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
-
 
 ### Thalia Lightbringer the Scholar (Family - Child)
 - **Status**: Secretly hostile

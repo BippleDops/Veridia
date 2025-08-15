@@ -73,3 +73,10 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Fighter Xphb Battle Master Xphb]]
+- [[fighter-xphb-battle-master-xphb (classes)]]
+- [[Martial Adept]]
+- [[martial-adept (feats)]]

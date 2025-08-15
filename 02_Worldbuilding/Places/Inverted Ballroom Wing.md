@@ -51,7 +51,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -95,11 +95,11 @@ improvements: 20
 
 ## Overview
 
-The Inverted Ballroom Wing represents one of [[The [[Inverse Palace]]]]'s most architecturally ambitious and socially significant sections, where the complex's signature gravity-defying magic reaches its most spectacular expression. This wing serves as the primary entertainment and social hub for [[Aquabyssos]]'s nobility, hosting elaborate galas, diplomatic receptions, and cultural events in an environment where traditional concepts of floor, ceiling, and wall become fluid suggestions rather than fixed realities.
+The Inverted Ballroom Wing represents one of [[Inverse Palace|The [[Inverse Palace]]]]'s most architecturally ambitious and socially significant sections, where the complex's signature gravity-defying magic reaches its most spectacular expression. This wing serves as the primary entertainment and social hub for [[Aquabyssos]]'s nobility, hosting elaborate galas, diplomatic receptions, and cultural events in an environment where traditional concepts of floor, ceiling, and wall become fluid suggestions rather than fixed realities.
 
 Designed by the legendary architect [[Master Builder Caelum Vortexwright]] during the palace's construction, the wing spans seven interconnected levels that exist in varying states of gravitational orientation. Guests may find themselves waltzing on what appears to be a ceiling while their partners dance on traditional floors, creating a mesmerizing three-dimensional ballet of social interaction that has become the signature of [[Aquabyssos]] high society.
 
-The wing's unique architecture serves both practical and symbolic purposes - practically, it maximizes entertaining space within the palace's complex structure, while symbolically representing [[Aquabyssos]]'s mastery over the natural laws that bind surface dwellers. The magical systems that maintain the wing's multiple gravity fields require constant attention from specialized [[Palace [[Artificer]]s]] and consume a significant portion of the palace's magical energy reserves.
+The wing's unique architecture serves both practical and symbolic purposes - practically, it maximizes entertaining space within the palace's complex structure, while symbolically representing [[Aquabyssos]]'s mastery over the natural laws that bind surface dwellers. The magical systems that maintain the wing's multiple gravity fields require constant attention from specialized [[Artificer|Palace [[Artificer]]s]] and consume a significant portion of the palace's magical energy reserves.
 
 #### Central Chamber Design
 
@@ -375,10 +375,10 @@ The wing's unique architecture serves both practical and symbolic purposes - pra
 
 ### Social Networks
 
-**[[Aquabyssos [[Noble House]]s]]**: Primary users and supporters of ballroom wing  
+**[[Aquabyssos|Aquabyssos [[Noble House]]s]]**: Primary users and supporters of ballroom wing  
 **[[Diplomatic Corps]]**: Foreign representatives regularly attending events  
-**[[[[Merchant Guilds]] (D&D_References)]]**: Wealthy merchants seeking social advancement  
-**[[Cultural [[Organization]]s]]**: Artists and performers providing entertainment  
+**[[Merchant_Guilds|[[Merchant Guilds]] (D&D_References)]]**: Wealthy merchants seeking social advancement  
+**[[Organization|Cultural [[Organization]]s]]**: Artists and performers providing entertainment  
 **[[Palace Staff Guild]]**: Professional organization of palace service personnel
 
 ### Economic Connections
@@ -432,7 +432,7 @@ Legends speak of Inverted Ballroom Wing as a nexus where past and present conver
 
 ### Key Locations
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -456,13 +456,11 @@ Inverted Ballroom Wing is a notable location characterized by its unique feature
 ### Founding
 Inverted Ballroom Wing was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -470,13 +468,11 @@ Inverted Ballroom Wing was established in the distant past, growing from humble 
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -516,7 +512,6 @@ Key stop on spices trade route
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -552,3 +547,7 @@ Key stop on spices trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Aquabyssos - Session 01 - The Drowning Welcome]]

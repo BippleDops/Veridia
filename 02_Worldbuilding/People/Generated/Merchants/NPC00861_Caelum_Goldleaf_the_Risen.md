@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Goldleaf the Risen", "caelum goldleaf the risen", "Caelum Goldleaf Risen", "Risen the Goldleaf Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Goldleaf the Risen
 
 *Genasi Shopkeeper (Merchants), Age 44, Non-binary*
@@ -36,7 +42,6 @@ Part of a merchant family with connections everywhere A family member's death ha
 - **Short Term**: Survive until next week
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Baelor Jadeclaw the Swift (Personal - Ex-lover)
 - **Status**: Complicated history
@@ -47,11 +52,9 @@ Part of a merchant family with connections everywhere A family member's death ha
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Hestara Oakenshield the Scholar (Personal - Best friend)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ### Aeliana Nightfall the Wise (Personal - Best friend)
 - **Status**: Mutually beneficial

@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # 04_Resources_Assets_Portraits_portrait-npc-master-of-currents-poseidon-master-of-currents-poseidon.svg - Quick Reference
 
 ## Key Info

@@ -202,3 +202,7 @@ This NPC can serve multiple roles:
 - Civil war
 - Natural disasters
 - Current power structures established
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-quartermaster-david-simpleton-quartermaster-david-simpleton.svg]]

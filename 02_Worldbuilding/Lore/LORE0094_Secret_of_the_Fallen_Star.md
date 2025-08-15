@@ -1,4 +1,5 @@
 ---
+aliases: ["Secret of the Fallen Star", "secret of the fallen star", "Secret of Fallen Star", "Star Fallen the of Secret"]
 tags: [generated]
 id: LORE0094_Secret_of_the_Fallen_Star
 created: 2025-08-15T04:09:51.155Z

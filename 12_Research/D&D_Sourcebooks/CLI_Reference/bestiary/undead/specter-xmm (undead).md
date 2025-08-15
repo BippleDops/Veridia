@@ -159,3 +159,25 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Cadaver Collector Mpmm]]
+- [[cadaver-collector-mpmm (construct)]]
+- [[Strahd Von Zarovich Cos]]
+- [[strahd-von-zarovich-cos (legendary-group)]]
+- [[Specter Xmm]]
+- [[Wraith Xmm]]
+- [[wraith-xmm (undead)]]
+- [[Warlock Xphb the Hexblade Xge]]
+- [[warlock-xphb-the-hexblade-xge (classes)]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[Monsters by Habitat Urban Monsters Xmm]]
+- [[Underdark Encounters Levels 14 Xge]]
+- [[Urban Encounters Levels 14 Xge]]
+- [[Urban Encounters Levels 510 Xge]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]
+- [[monsters-by-habitat-urban-monsters-xmm (tables)]]
+- [[underdark-encounters-levels-14-xge (tables)]]
+- [[urban-encounters-levels-14-xge (tables)]]
+- [[urban-encounters-levels-510-xge (tables)]]

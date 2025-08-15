@@ -47,7 +47,6 @@ improvements: 20
 - **Law Enforcement**: Town guard
 - **Justice System**: Local magistrate
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-abyssos-prime-pressure-terminal-abyssos-prime-pressure-terminal.svg)
 
@@ -71,7 +70,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -306,7 +305,7 @@ During busy periods, the terminal handles over 10,000 passengers and 500 tons of
 The system operates on a hub-and-spoke model with [[Abyssos Prime]] serving as the central connection point. Major routes include:
 
 - **Northern Express**: Service to [[Crystalhaven]] and mining communities
-- **Deep Current Route**: Access to [[The [[Hadal Depths]]]] research stations
+- **Deep Current Route**: Access to [[Hadal Depths|The [[Hadal Depths]]]] research stations
 - **Coastal Circuit**: Connections to surface-accessible communities
 - **Industrial Line**: Heavy freight service to manufacturing centers
 
@@ -511,7 +510,7 @@ Legends speak of Abyssos Prime   Pressure Terminal as a nexus where past and pre
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -535,13 +534,11 @@ Abyssos Prime - Pressure Terminal is a notable location characterized by its uni
 ### Founding
 Abyssos Prime - Pressure Terminal was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place

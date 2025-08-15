@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Voidwalker the Wanderer", "vesper voidwalker the wanderer", "Vesper Voidwalker Wanderer", "Wanderer the Voidwalker Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Voidwalker the Wanderer
 
 *Half-Orc Corrupt Noble (Villains), Age 18, Non-binary*
@@ -42,11 +48,9 @@ Believes their evil acts serve a greater good They've fallen in love with someon
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Delara Xendar the Swift (Political - Puppet)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ### Solas Oakenshield the Redeemed (Family - Parent)
 - **Status**: One-sided affection

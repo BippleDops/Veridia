@@ -80,3 +80,38 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Elemental Cataclysm Xmm]]
+- [[Fire Elemental Xmm]]
+- [[Magmin Xmm]]
+- [[Salamander Inferno Master Xmm]]
+- [[elemental-cataclysm-xmm (elemental)]]
+- [[fire-elemental-xmm (elemental)]]
+- [[magmin-xmm (elemental)]]
+- [[salamander-inferno-master-xmm (elemental)]]
+- [[Barbed Devil Xmm]]
+- [[Horned Devil Xmm]]
+- [[barbed-devil-xmm (fiend)]]
+- [[horned-devil-xmm (fiend)]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]
+- [[Alchemists Fire Xphb]]
+- [[alchemists-fire-xphb (items)]]
+- [[Burning Hands Xphb]]
+- [[Delayed Blast Fireball Xphb]]
+- [[Fire Bolt Xphb]]
+- [[Fire Storm Xphb]]
+- [[Fireball Xphb]]
+- [[Flaming Sphere Xphb]]
+- [[Meteor Swarm Xphb]]
+- [[burning-hands-xphb (spells)]]
+- [[delayed-blast-fireball-xphb (spells)]]
+- [[fire-bolt-xphb (spells)]]
+- [[fire-storm-xphb (spells)]]
+- [[fireball-xphb (spells)]]
+- [[flaming-sphere-xphb (spells)]]
+- [[meteor-swarm-xphb (spells)]]

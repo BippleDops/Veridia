@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Proudmore the Bold", "xander proudmore the bold", "Xander Proudmore Bold", "Bold the Proudmore Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Proudmore the Bold
 
 *Goliath Wizard (Adventurers), Age 32, Female*
@@ -36,7 +42,6 @@ Chosen by fate to fulfill an ancient prophecy They recently discovered a secret 
 - **Short Term**: Complete current contract
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Xander Ravenheart the Lost (Political - Spy)
 - **Status**: Professional only
@@ -46,7 +51,6 @@ Chosen by fate to fulfill an ancient prophecy They recently discovered a secret 
 ### Drusilla Winterborn the Lost (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ### Thalia Darkwater the Seeker (Political - Ally)
 - **Status**: On the verge of collapse

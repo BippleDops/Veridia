@@ -85,3 +85,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Someone is hunting information for revenge
 - Someone is searching for a artifact for love
 - Someone is searching for information for revenge
+
+## References
+
+- [[conditions#Paralyzed]]

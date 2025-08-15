@@ -1,3 +1,9 @@
+---
+aliases: ["Greater Salve of Swiftness", "greater salve of swiftness", "Swiftness of Salve Greater"]
+tags: [item, equipment]
+type: item
+---
+
 # Greater Salve of Swiftness
 
 *Consumables, Rare*
@@ -15,8 +21,6 @@ A greater salve swirling with colors
 - Breathe underwater 1 hour
 - Remove one condition
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -31,7 +35,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.465Z*

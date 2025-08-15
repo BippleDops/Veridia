@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Crystalbrook the Guardian", "drusilla crystalbrook the guardian", "Drusilla Crystalbrook Guardian", "Guardian the Crystalbrook Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Crystalbrook the Guardian
 
 *Genasi Bard (Adventurers), Age 31, Male*
@@ -36,37 +42,30 @@ Seeking vengeance for a murdered mentor A prophetic dream has been haunting them
 - **Short Term**: Recruit new members
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Jorah Crystalbrook the Lost (Personal - Nemesis)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Lyanna Youngblood the Mystic (Criminal - Handler)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ### Ewan Darkwater the Seeker (Professional - Mentor)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
 
-
 ### Gavril Zephyrblade the Cunning (Criminal - Accomplice)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ### Vesper Silverleaf the Swift (Professional - Rival)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
 
-
 ### Elric Hawthorne the Seeker (Political - Puppet)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Has died and been resurrected

@@ -1,8 +1,8 @@
 ---
+aliases: ["Ivan Stormwind", "ivan stormwind", "Stormwind Ivan"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -74,7 +74,6 @@ Persuasion, Perception, Deception
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 62 gold pieces
 - Well-worn journal
@@ -88,7 +87,6 @@ Persuasion, Perception, Deception
 
 ---
 *Generated: 2025-08-15T03:21:04.025Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

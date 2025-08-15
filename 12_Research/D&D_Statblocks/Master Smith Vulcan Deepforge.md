@@ -324,3 +324,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Someone is hunting an heir for power
 - Someone is blackmailing a artifact for power
 - A journal reveals ancient history about this place
+
+## References
+
+- [[Compass Quest]]
+- [[Ironhold]]
+- [[Pressure's End]]
+- [[The Crimson Foundries]]
+- [[Compass Quest (D&D_References)]]
+- [[Ironhold (D&D_References)]]
+- [[Pressure's End (D&D_References)]]
+- [[The Crimson Foundries (D&D_Statblocks)]]

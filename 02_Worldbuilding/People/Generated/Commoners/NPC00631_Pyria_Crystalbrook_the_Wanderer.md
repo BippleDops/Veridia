@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Crystalbrook the Wanderer", "pyria crystalbrook the wanderer", "Pyria Crystalbrook Wanderer", "Wanderer the Crystalbrook Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Crystalbrook the Wanderer
 
 *Halfling Farmer (Commoners), Age 54, Non-binary*
@@ -13,7 +19,6 @@
 Towering and lanky, with Shaved white hair and Heterochromic eyes. Fair skin. Prominent scar across the face.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Laughs at the most inappropriate times
@@ -36,22 +41,18 @@ Family has worked the same trade for generations, but times are changing An old 
 - **Short Term**: Recruit new members
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Corvus Ravenheart the Wise (Political - Opposition)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Zephyr Dawnstrider the Wanderer (Family - Spouse)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
 
-
 ### Corvus Youngblood the Wanderer (Professional - Employee)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Has dragon blood in their veins

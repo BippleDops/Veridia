@@ -1,11 +1,11 @@
 ---
+aliases: ["Quinn Brightblade", "quinn brightblade", "Brightblade Quinn"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -75,8 +75,6 @@ Born into a noble family but cast out for scandal. Years ago, they once saved a 
 ### Skills
 Athletics, Arcana, Persuasion
 
-
-
 ## Possessions
 - 30 gold pieces
 - Family heirloom (locket)
@@ -91,7 +89,6 @@ Athletics, Arcana, Persuasion
 
 ---
 *Generated: 2025-08-15T03:21:04.044Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

@@ -178,7 +178,7 @@ This NPC can serve multiple roles:
 ### Known Associates
 - [[02-chapter-1-playing-the-game#Stabilizing a Character]] (friend)
 - [[04_Resources_Assets_Art_Places_Master_Smith_Coral Hammer.png]] (friend)
-- [[vault_backup_20250813_073007_06_GM_Resources_Travel_Encounter_Sheets_D_L 03_Deep_Mother_Dream_Tide]] (enemy)
+-  (enemy)
 ---
 *Tags*: #npc #contact #worldbuilding
 
@@ -216,3 +216,7 @@ This NPC can serve multiple roles:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[04_Resources_Assets_Art_Places_Master_Smith_Coral Hammer.png]]

@@ -48,7 +48,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -236,13 +236,13 @@ The establishment of major trade routes transformed the maritime empire from iso
 
 **Deep Current City-State**: Population ~80,000, specialty in memory-crystal trade
 **Twilight Trench Federation**: Population ~120,000, experts in bio-luminescent technology
-**[[[[Abyssal Garden]]s]] Collective**: Population ~60,000, cultivators of deep-sea agricultural products
+**[[Abyssal Garden|[[Abyssal Garden]]s]] Collective**: Population ~60,000, cultivators of deep-sea agricultural products
 **Midnight Canyon Republic**: Population ~90,000, masters of pressure-forging techniques
 
 #### Unique Trade Mechanisms
 
 **[[Memory Commerce]]**: Mer-folk traded in crystallized experiences and knowledge
-**Bio-luminescent Technology**: Living light sources and [[Communication Systems]]
+**Bio-luminescent Technology**: Living light sources and [[Communication_Systems|Communication Systems]]
 **Pressure Goods**: Materials that could only be created at extreme depths
 **Consciousness Exchange**: Direct sharing of skills and understanding
 
@@ -348,7 +348,7 @@ The establishment of major trade routes transformed the maritime empire from iso
 
 **Cause**: Imperial navy expansion threatened pirate confederation
 **Scale**: 200+ pirate vessels versus imperial deep fleet
-**Innovation**: First naval war involving [[Aerial Combat]] and underwater tactics
+**Innovation**: First naval war involving [[Aerial_Combat|Aerial Combat]] and underwater tactics
 **Resolution**: Treaty of Deep Waters recognizing pirate territorial rights
 
 **Imperial [[Admiral Marina]] Stormwright's War Journal** (2334 PD):
@@ -612,7 +612,7 @@ Trade Route Establishment is a undersea element of the setting, known for biolum
 
 Legends speak of Trade Route Establishment as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Trade Route Establishment.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -662,3 +662,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Surface Tensions]]

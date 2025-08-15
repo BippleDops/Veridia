@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Crystalbrook the Strong", "hilda crystalbrook the strong", "Hilda Crystalbrook Strong", "Strong the Crystalbrook Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Crystalbrook the Strong
 
 *Firbolg Baker (Commoners), Age 39, Female*
@@ -36,32 +42,26 @@ Family has worked the same trade for generations, but times are changing They're
 - **Short Term**: Recruit new members
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Hestara Xendar the Seeker (Political - Opposition)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
 
-
 ### Branwen Ironforge the Guardian (Professional - Rival)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ### Orion Youngblood the Lost (Family - Cousin)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
 
-
 ### Rhiannon Crystalbrook the Fallen (Professional - Mentor)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Malakai Nightfall the Broken (Family - Parent)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Witnessed a noble's crime

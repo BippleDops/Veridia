@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Ashford the Wanderer", "alaric ashford the wanderer", "Alaric Ashford Wanderer", "Wanderer the Ashford Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Ashford the Wanderer
 
 *Tiefling Wizard (Adventurers), Age 70, Female*
@@ -13,7 +19,6 @@
 Above average and compact, with Short and neat blonde hair and Red eyes. Brown skin. Intricate tattoos covering arms.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Collects unusual and worthless objects; Never uses people's real names
@@ -42,16 +47,13 @@ Running from a dark past that won't stay buried Strange abilities have begun man
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Kaelen Winterborn the Wanderer (Criminal - Target)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Alaric Frostwhisper the Risen (Criminal - Informant)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
-
 
 ### Nerys Zephyrblade the Scholar (Family - Child)
 - **Status**: Complicated history
@@ -61,7 +63,6 @@ Running from a dark past that won't stay buried Strange abilities have begun man
 ### Urien Grimholt the Guardian (Personal - Best friend)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is from the future

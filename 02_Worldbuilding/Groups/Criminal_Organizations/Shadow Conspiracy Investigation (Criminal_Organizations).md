@@ -18,7 +18,7 @@ tags:
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
-headquarters: '[[The Obsidian Archive]] (Hidden)'
+headquarters: ' (Hidden)'
 membership: Unknown
 alignment: Lawful Good
 created_by: auto-stub
@@ -119,7 +119,7 @@ The Shadow Conspiracy Investigation (SCI) is a covert intelligence organization 
 - Recruited academics studying shadow phenomena
 - Established safe houses throughout Aquabyssos
 - Developed counter-shadow technology and techniques
-- Created [[The Obsidian Archive]] hidden repository
+- Created  hidden repository
 
 ### Modern Operations (Last 3 Years)
 **Active Resistance**

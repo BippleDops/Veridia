@@ -1,3 +1,9 @@
+---
+aliases: ["Refined Potion of Vigor", "refined potion of vigor", "Vigor of Potion Refined"]
+tags: [item, equipment]
+type: item
+---
+
 # Refined Potion of Vigor
 
 *Consumables, Uncommon*
@@ -14,8 +20,6 @@ A refined potion glowing softly
 - Remove one condition
 - Increase speed by 10 ft
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -30,7 +34,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.448Z*

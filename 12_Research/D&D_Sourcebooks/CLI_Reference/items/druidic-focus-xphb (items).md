@@ -90,3 +90,19 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[reliquary]]
+- [[sacristy]]
+- [[sanctuary]]
+- [[sanctum]]
+- [[Painters Supplies Xphb]]
+- [[Woodcarvers Tools Xphb]]
+- [[painters-supplies-xphb (items)]]
+- [[woodcarvers-tools-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[Special Facility Descriptions Special Facilities Xdmg]]
+- [[Special Facility Descriptions Special]]
+- [[adventuring-gear-phb (tables)]]

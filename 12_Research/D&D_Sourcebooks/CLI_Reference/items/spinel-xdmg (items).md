@@ -77,3 +77,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - An heirloom has gone missing and chaos spreads
 - A journal reveals the truth about the government
 - Someone is protecting a witness for love
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[100 Gp Gemstones Xdmg]]
+- [[100 Gp Gemstones]]
+- [[100-gp-gemstones (tables)]]
+- [[100-gp-gemstones-xdmg (tables)]]

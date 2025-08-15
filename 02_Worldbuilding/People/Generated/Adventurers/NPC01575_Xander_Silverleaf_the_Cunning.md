@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Silverleaf the Cunning", "xander silverleaf the cunning", "Xander Silverleaf Cunning", "Cunning the Silverleaf Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Silverleaf the Cunning
 
 *Half-Elf Fighter (Adventurers), Age 42, Female*
@@ -42,11 +48,9 @@ Seeking vengeance for a murdered mentor They're being blackmailed by someone fro
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
 
-
 ### Drusilla Youngblood the Wanderer (Personal - Childhood friend)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ### Gavril Frostwhisper the Guardian (Political - Spy)
 - **Status**: One-sided affection
@@ -61,7 +65,6 @@ Seeking vengeance for a murdered mentor They're being blackmailed by someone fro
 ### Zephyr Brightblade the Broken (Family - Spouse)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Has died and been resurrected

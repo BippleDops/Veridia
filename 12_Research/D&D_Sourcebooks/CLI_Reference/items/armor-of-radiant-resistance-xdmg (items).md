@@ -111,3 +111,9 @@ Mentioned in The Hidden Prophecy of Stars
 - Someone is blackmailing an heir for love
 - Someone is protecting information for revenge
 - A letter reveals ancient history about a local noble
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Armor of Resistance Xdmg]]
+- [[armor-of-resistance-xdmg (items)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Winterborn the Wanderer", "pyria winterborn the wanderer", "Pyria Winterborn Wanderer", "Wanderer the Winterborn Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Winterborn the Wanderer
 
 *Elf Carpenter (Commoners), Age 60, Female*
@@ -36,12 +42,10 @@ Survivor of a disaster that destroyed their village They've fallen in love with 
 - **Short Term**: Gather information
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Qadim Dawnstrider the Wise (Personal - Nemesis)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ### Qadim Darkwater the Strong (Professional - Rival)
 - **Status**: Strained but maintaining
@@ -51,7 +55,6 @@ Survivor of a disaster that destroyed their village They've fallen in love with 
 ### Lyanna Ashford the Broken (Professional - Employee)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Witnessed a noble's crime

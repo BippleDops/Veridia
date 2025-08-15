@@ -1,3 +1,9 @@
+---
+aliases: ["Distilled Incense of Swiftness", "distilled incense of swiftness", "Swiftness of Incense Distilled"]
+tags: [item, equipment]
+type: item
+---
+
 # Distilled Incense of Swiftness
 
 *Consumables, Common*

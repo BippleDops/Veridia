@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Zephyrblade the Redeemed", "aeliana zephyrblade the redeemed", "Aeliana Zephyrblade Redeemed", "Redeemed the Zephyrblade Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Zephyrblade the Redeemed
 
 *Dragonborn Shopkeeper (Merchants), Age 33, Non-binary*
@@ -13,7 +19,6 @@
 Below average and compact, with Carefully styled white hair and Hazel eyes. Scarred skin. Prominent scar across the face.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Always tells the absolute truth; Compulsive liar about minor things; Flirts with everyone regardless of interest
@@ -36,7 +41,6 @@ Built their business from nothing through cunning and hard work They recently di
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Jorah Moonshadow the Wise (Criminal - Fence)
 - **Status**: Mutually beneficial
@@ -46,7 +50,6 @@ Built their business from nothing through cunning and hard work They recently di
 ### Qadim Blackstone the Bold (Personal - Ex-lover)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
-
 
 ### Delara Dawnstrider the Redeemed (Personal - Love interest)
 - **Status**: One-sided affection

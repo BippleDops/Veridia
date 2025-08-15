@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Jadeclaw the Guardian", "rhiannon jadeclaw the guardian", "Rhiannon Jadeclaw Guardian", "Guardian the Jadeclaw Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Jadeclaw the Guardian
 
 *Human Baker (Commoners), Age 22, Non-binary*
@@ -36,12 +42,10 @@ Runaway from an arranged marriage, starting a new life They're being blackmailed
 - **Short Term**: Avoid the authorities
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Lyanna Crystalbrook the Seeker (Political - Opposition)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ### Aldric Voidwalker the Seeker (Criminal - Accomplice)
 - **Status**: One-sided affection
@@ -52,11 +56,9 @@ Runaway from an arranged marriage, starting a new life They're being blackmailed
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Ewan Ravenheart the Mystic (Political - Opposition)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Is the lost heir to the throne

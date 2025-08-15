@@ -1,3 +1,9 @@
+---
+aliases: ["Elegant Spyglass of Quality", "elegant spyglass of quality", "Quality of Spyglass Elegant"]
+tags: [item, equipment]
+type: item
+---
+
 # Elegant Spyglass of Quality
 
 *Mundane, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A elegant spyglass expertly crafted
 - Has hidden compartment
 - Has hidden compartment
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -30,7 +34,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.488Z*

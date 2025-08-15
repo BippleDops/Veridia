@@ -209,13 +209,11 @@ Memory Meadows Black Market is a notable location characterized by its unique fe
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -223,13 +221,11 @@ Memory Meadows Black Market is a notable location characterized by its unique fe
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -281,7 +277,6 @@ Ongoing situations affecting Memory Meadows Black Market:
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -317,3 +312,20 @@ Ongoing situations affecting Memory Meadows Black Market:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Abyssal Academy]]
+- [[Aurelius Goldwave]]
+- [[Memory Farmers]]
+- [[The Memory Meadows Black Market]]
+- [[Whisper Island]]
+- [[Abyssal Academy (D&D_References)]]
+- [[Ancient Aquabyssos Rulers (D&D_References)]]
+- [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
+- [[Compass Quest (D&D_References)]]
+- [[Memory Farmers (D&D_References)]]
+- [[Whisper Island (D&D_References)]]
+- [[Aurelius Goldwave (D&D_Statblocks)]]
+- [[Diplomatic Tides (D&D_Statblocks)]]

@@ -172,3 +172,8 @@ Contextual improvement based on 12_Research
 - **Wizards Website**: Monthly UA articles (discontinued 2021)
 - **Reddit r/UnearthedArcana**: Community discussions
 - **One D&D Playtest**: D&D Beyond exclusive
+
+## References
+
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]

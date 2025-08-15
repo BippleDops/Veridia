@@ -188,7 +188,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[Gold Grave Harbor]] (friend)
-- [[Mirror Breaking Crystals]] (colleague)
+- [[Assets Portraits Portrait NPC Mirror Breaking Crystals Mirror Breaking Crystals.svg|Mirror Breaking Crystals]] (colleague)
 - [[04_Resources_Assets_Symbols_symbol-heraldry-the-crimson-tide-pirates-the-crimson-tide-pirates.svg]] (ally)
 ---
 *Tags*: #npc #contact #worldbuilding

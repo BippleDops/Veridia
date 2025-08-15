@@ -18,15 +18,12 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 # Quest Giver
-
 
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -133,7 +130,6 @@ This content can be adapted and expanded based on specific campaign needs.
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## Time Limit
 - **Deadline**: When it must be completed
 - **Consequences**: What happens if late
@@ -178,3 +174,13 @@ This content can be adapted and expanded based on specific campaign needs.
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition
+
+## References
+
+- [[Assets Locations Location City the Crystal Cathedral of Pure Light V1 the Crystal Cathedral of Pure Light.svg]]
+- [[Keeper Elara Mindwell]]
+- [[Mad Oracle Thessaly]]
+- [[The Tidecaller (Places)]]
+- [[QUEST0018_The_Sunken_Temple_Uprising]]
+- [[QUEST0078_The_Frozen_Fortress_Invasion]]
+- [[The Tide Rises]]

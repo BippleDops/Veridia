@@ -1,11 +1,11 @@
 ---
+aliases: ["Lyra Goldleaf", "lyra goldleaf", "Goldleaf Lyra"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -78,7 +78,6 @@ Insight, Investigation
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 104 gold pieces
 - Letter of recommendation
@@ -93,7 +92,6 @@ Insight, Investigation
 
 ---
 *Generated: 2025-08-15T03:21:04.036Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Crystalbrook the Strong", "ysara crystalbrook the strong", "Ysara Crystalbrook Strong", "Strong the Crystalbrook Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Crystalbrook the Strong
 
 *Dragonborn Broker (Merchants), Age 28, Male*
@@ -42,7 +48,6 @@ Uses their business as cover for other activities They've fallen in love with so
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Delara Thornweave the Broken (Personal - Ex-lover)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
@@ -52,7 +57,6 @@ Uses their business as cover for other activities They've fallen in love with so
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Brenna Silverleaf the Fallen (Professional - Employer)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
@@ -61,7 +65,6 @@ Uses their business as cover for other activities They've fallen in love with so
 ### Gareth Jadeclaw the Fallen (Personal - Childhood friend)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Running a cult from their basement

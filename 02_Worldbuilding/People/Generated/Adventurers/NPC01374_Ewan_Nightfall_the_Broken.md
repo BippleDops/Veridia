@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Nightfall the Broken", "ewan nightfall the broken", "Ewan Nightfall Broken", "Broken the Nightfall Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Nightfall the Broken
 
 *Human Cleric (Adventurers), Age 47, Male*
@@ -36,7 +42,6 @@ Seeking vengeance for a murdered mentor They've made a deal they're beginning to
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Zephyr Winterborn the Cunning (Criminal - Target)
 - **Status**: One-sided affection
@@ -47,11 +52,9 @@ Seeking vengeance for a murdered mentor They've made a deal they're beginning to
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
 
-
 ### Ysara Xendar the Guardian (Personal - Best friend)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ### Thalia Youngblood the Swift (Political - Puppet)
 - **Status**: Mutually beneficial
@@ -61,7 +64,6 @@ Seeking vengeance for a murdered mentor They've made a deal they're beginning to
 ### Cedric Crystalbrook the Seeker (Personal - Best friend)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ### Qadim Goldleaf the Mystic (Personal - Love interest)
 - **Status**: Complicated history

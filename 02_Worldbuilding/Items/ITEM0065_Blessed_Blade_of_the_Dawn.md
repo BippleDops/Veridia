@@ -1,4 +1,5 @@
 ---
+aliases: ["Blessed Blade of the Dawn", "blessed blade of the dawn", "Blessed Blade of Dawn", "Dawn the of Blade Blessed"]
 tags: [generated]
 id: ITEM0065
 created: 2025-08-15T04:09:51.099Z
@@ -19,8 +20,6 @@ Crafted from starfall iron with ancient symbols, in recently restored. It emanat
 
 ## Quirk
 *Whispers names of previous owners*
-
-
 
 ## History
 This item was forged during the War of Shadows decades ago. It has passed through many hands, each leaving their mark upon its destiny.

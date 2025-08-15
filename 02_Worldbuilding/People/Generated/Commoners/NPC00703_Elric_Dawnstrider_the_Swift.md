@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Dawnstrider the Swift", "elric dawnstrider the swift", "Elric Dawnstrider Swift", "Swift the Dawnstrider Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Dawnstrider the Swift
 
 *Goliath Blacksmith (Commoners), Age 73, Female*
@@ -36,7 +42,6 @@ Family has worked the same trade for generations, but times are changing They re
 - **Short Term**: Sabotage competition
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Faelyn Youngblood the Guardian (Professional - Employer)
 - **Status**: Complicated history
@@ -52,21 +57,17 @@ Family has worked the same trade for generations, but times are changing They re
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
 
-
 ### Rhiannon Voidwalker the Guardian (Family - Parent)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ### Kaelen Blackstone the Swift (Family - Spouse)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
 
-
 ### Brenna Silverleaf the Strong (Personal - Nemesis)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is the lost heir to the throne

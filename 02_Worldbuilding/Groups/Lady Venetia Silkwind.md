@@ -361,3 +361,14 @@ Things widely suspected
 ### Membership
 - **Size**: *[Approximate number of members]*
 - **Recruitment**: *[How they recruit new members]*
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Major Trading Companies]]
+- [[Merchant Princes]]
+- [[Commercial Hubs and Markets]]
+- [[Commercial Hubs and Markets (D&D_References)]]
+- [[Lady Venetia Silkwind (D&D_References)]]
+- [[Major Trading Companies (D&D_References)]]
+- [[Merchant Princes (D&D_References)]]

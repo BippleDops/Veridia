@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Nightfall", "elric nightfall", "Nightfall Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Nightfall
 
 *Human Noble (Nobles), Age 46, Male*
@@ -13,7 +19,6 @@
 Tall and compact, with Mohawk bald hair and Hazel eyes. Tan skin. Constantly changing hair color.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Never uses people's real names; Always speaks in metaphors and riddles; Sees doom and gloom everywhere
@@ -36,17 +41,14 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Survive until next week
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Gavril Ravenheart the Risen (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Rhiannon Zephyrblade (Political - Puppet)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
-
 
 ### Aldric Ravenheart (Professional - Rival)
 - **Status**: One-sided affection

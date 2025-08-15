@@ -60,3 +60,13 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Aquabyssos World Overview#The Void Touched]]
+- [[Entities Void Touched Crystals]]
+- [[Void Touched Sanctum]]
+- [[Void-Touched Equipment]]
+- [[Void-touched Assassins]]
+- [[The Void Touched Depths]]
+- [[Void Touched Pilgrims]]

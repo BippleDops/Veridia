@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Ironforge the Wise", "thalia ironforge the wise", "Thalia Ironforge Wise", "Wise the Ironforge Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Ironforge the Wise
 
 *Aasimar Rogue (Adventurers), Age 60, Female*
@@ -42,16 +48,13 @@ Accidentally gained powers and learning to control them A prophetic dream has be
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Idris Xendar the Broken (Criminal - Handler)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Felicia Xendar the Redeemed (Professional - Employer)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
-
 
 ### Dara Underhill the Scholar (Personal - Childhood friend)
 - **Status**: Strained but maintaining

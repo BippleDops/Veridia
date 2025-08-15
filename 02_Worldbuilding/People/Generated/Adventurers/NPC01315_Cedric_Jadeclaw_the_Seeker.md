@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Jadeclaw the Seeker", "cedric jadeclaw the seeker", "Cedric Jadeclaw Seeker", "Seeker the Jadeclaw Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Jadeclaw the Seeker
 
 *Genasi Bard (Adventurers), Age 35, Non-binary*
@@ -36,7 +42,6 @@ Accidentally gained powers and learning to control them They've made a deal they
 - **Short Term**: Avoid the authorities
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Xander Silverleaf the Redeemed (Political - Spy)
 - **Status**: On the verge of collapse
@@ -52,7 +57,6 @@ Accidentally gained powers and learning to control them They've made a deal they
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
 
-
 ### Kaelen Moonshadow the Scholar (Personal - Love interest)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
@@ -62,11 +66,9 @@ Accidentally gained powers and learning to control them They've made a deal they
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Wynne Nightfall the Wanderer (Family - Sibling)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Carries a world-ending artifact

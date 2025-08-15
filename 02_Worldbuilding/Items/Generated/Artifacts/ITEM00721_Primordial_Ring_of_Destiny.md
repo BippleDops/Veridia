@@ -1,3 +1,9 @@
+---
+aliases: ["Primordial Ring of Destiny", "primordial ring of destiny", "Destiny of Ring Primordial"]
+tags: [item, equipment]
+type: item
+---
+
 # Primordial Ring of Destiny
 
 *Artifacts, Artifact (requires attunement)*
@@ -16,8 +22,6 @@ A primordial ring pulsing with inner light
 - Increase ability score by 2
 - Immunity to charm
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -32,7 +36,6 @@ Priceless
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.419Z*

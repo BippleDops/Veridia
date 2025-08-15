@@ -1,4 +1,5 @@
 ---
+aliases: ["Secret of the Ancient Pact", "secret of the ancient pact", "Secret of Ancient Pact", "Pact Ancient the of Secret"]
 tags: [generated]
 id: LORE0039_Secret_of_the_Ancient_Pact
 created: 2025-08-15T04:09:51.138Z

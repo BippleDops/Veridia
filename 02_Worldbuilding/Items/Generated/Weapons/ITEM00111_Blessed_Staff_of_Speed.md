@@ -1,3 +1,9 @@
+---
+aliases: ["Blessed Staff of Speed", "blessed staff of speed", "Speed of Staff Blessed"]
+tags: [item, equipment]
+type: item
+---
+
 # Blessed Staff of Speed
 
 *Weapons, Common*
@@ -13,8 +19,6 @@ A blessed staff carved from dragon bone
 ## Properties
 - Critical hits on 19-20
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -29,7 +33,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.352Z*

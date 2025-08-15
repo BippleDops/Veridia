@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Youngblood the Strong", "brenna youngblood the strong", "Brenna Youngblood Strong", "Strong the Youngblood Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Youngblood the Strong
 
 *Tabaxi Rogue (Adventurers), Age 26, Non-binary*
@@ -36,27 +42,22 @@ Seeking vengeance for a murdered mentor They've made a deal they're beginning to
 - **Short Term**: Avoid the authorities
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Orion Youngblood the Bold (Political - Opposition)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Orion Nightfall the Wise (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ### Vesper Xendar the Seeker (Criminal - Fence)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Wynne Quicksilver the Mystic (Professional - Mentor)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Possessed by ancient spirit

@@ -1,6 +1,5 @@
 ---
 
-
 title: Mechanics Underwater Combat
 type: mechanics
 tags:
@@ -259,7 +258,6 @@ Mentioned in The Second Prophecy of Shadows
 - Uses per day: 3
 - Comparable feature: Action Surge (1/rest)
 - Balance note: More uses but weaker effect
-
 
 ## Common Mistakes
 *Frequent misunderstandings to avoid*

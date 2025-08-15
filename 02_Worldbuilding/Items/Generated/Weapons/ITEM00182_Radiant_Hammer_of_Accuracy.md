@@ -1,3 +1,9 @@
+---
+aliases: ["Radiant Hammer of Accuracy", "radiant hammer of accuracy", "Accuracy of Hammer Radiant"]
+tags: [item, equipment]
+type: item
+---
+
 # Radiant Hammer of Accuracy
 
 *Weapons, Legendary*
@@ -16,8 +22,6 @@ A radiant hammer made of crystallized magic
 - Can strike ethereal creatures
 - Critical hits on 19-20
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -32,7 +36,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.358Z*

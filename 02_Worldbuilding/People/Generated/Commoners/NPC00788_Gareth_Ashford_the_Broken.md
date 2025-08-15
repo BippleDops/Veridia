@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Ashford the Broken", "gareth ashford the broken", "Gareth Ashford Broken", "Broken the Ashford Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Ashford the Broken
 
 *Human Farmer (Commoners), Age 32, Male*
@@ -36,32 +42,26 @@ Family has worked the same trade for generations, but times are changing They've
 - **Short Term**: Survive until next week
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Malakai Goldleaf the Seeker (Personal - Ex-lover)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Ysara Stormwind the Wanderer (Family - Parent)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ### Faelyn Voidwalker the Swift (Criminal - Target)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Ysara Voidwalker the Wise (Criminal - Target)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
 
-
 ### Ysara Underhill the Guardian (Family - Sibling)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Has dragon blood in their veins

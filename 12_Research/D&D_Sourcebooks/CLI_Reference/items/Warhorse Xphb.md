@@ -77,3 +77,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Strange sightings suggest a conspiracy
 - A prisoner has gone missing and chaos spreads
 - A stranger needs help finding before the festival
+
+## References
+
+- [[Master_Item_Catalog]]

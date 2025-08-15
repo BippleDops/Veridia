@@ -26,3 +26,9 @@ Further information about this topic will be developed as the campaign progresse
 - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery
+
+## References
+
+- [[Assets Locations Location City Forge Master Korax Hammerdeep Forge Master Korax Hammerdeep.svg]]
+- [[Assets Locations Location City the Resonance Cathedral the Resonance Cathedral.svg]]
+- [[Assets Portraits Portrait NPC Captain Sterling Lightshield Captain Sterling Lightshield.svg]]

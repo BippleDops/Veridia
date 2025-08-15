@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Ravenheart the Bold", "corvus ravenheart the bold", "Corvus Ravenheart Bold", "Bold the Ravenheart Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Ravenheart the Bold
 
 *Genasi Broker (Merchants), Age 74, Female*
@@ -36,27 +42,22 @@ Part of a merchant family with connections everywhere An old debt has come due a
 - **Short Term**: Recruit new members
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Vesper Zephyrblade the Lost (Family - Cousin)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Fiora Thornweave the Redeemed (Personal - Childhood friend)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ### Cedric Hawthorne the Mystic (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Alaric Blackstone the Scholar (Criminal - Accomplice)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Smuggles illegal magical items

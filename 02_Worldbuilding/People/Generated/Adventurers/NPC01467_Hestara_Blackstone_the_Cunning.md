@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Blackstone the Cunning", "hestara blackstone the cunning", "Hestara Blackstone Cunning", "Cunning the Blackstone Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Blackstone the Cunning
 
 *Tiefling Bard (Adventurers), Age 32, Non-binary*
@@ -36,32 +42,26 @@ Running from a dark past that won't stay buried They've been marked by a secret 
 - **Short Term**: Survive until next week
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Jorah Lightbringer the Swift (Personal - Love interest)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Corvus Youngblood the Mystic (Criminal - Fence)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
-
 
 ### Erasmus Frostwhisper the Lost (Professional - Employee)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Lyanna Xendar the Bold (Family - Cousin)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Kaelen Underhill the Bold (Political - Ally)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Secretly working for the villain

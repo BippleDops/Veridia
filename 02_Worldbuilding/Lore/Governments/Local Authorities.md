@@ -121,3 +121,12 @@ improvements: 20
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Crystal-Corruption-Tracking-Sheet]]
+- [[Governments Local Authorities]]
+- [[Military Moral Quandaries]]
+- [[Depth Warden Patrol]]
+- [[Pressure Terminal]]
+- [[Reality Breach Locations]]

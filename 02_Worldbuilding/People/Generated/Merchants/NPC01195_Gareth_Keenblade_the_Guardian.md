@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Keenblade the Guardian", "gareth keenblade the guardian", "Gareth Keenblade Guardian", "Guardian the Keenblade Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Keenblade the Guardian
 
 *Tabaxi Broker (Merchants), Age 66, Non-binary*
@@ -13,7 +19,6 @@
 Below average and slender, with Wild and unkempt blonde hair and Violet eyes. Weathered skin. Burn scars on one side of face.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Collects unusual and worthless objects; Flirts with everyone regardless of interest
@@ -36,7 +41,6 @@ Part of a merchant family with connections everywhere A family member's death ha
 - **Short Term**: Avoid the authorities
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Ysara Grimholt the Fallen (Political - Opposition)
 - **Status**: Complicated history
@@ -47,16 +51,13 @@ Part of a merchant family with connections everywhere A family member's death ha
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Jorah Hawthorne the Wise (Personal - Childhood friend)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Solas Underhill the Risen (Professional - Employee)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Is actually a spy for foreign power

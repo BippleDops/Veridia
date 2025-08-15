@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Ironforge", "nerys ironforge", "Ironforge Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Ironforge
 
 *Firbolg Ambassador (Nobles), Age 57, Non-binary*
@@ -36,27 +42,22 @@ Last survivor of a fallen house, seeking to restore family honor Strange abiliti
 - **Short Term**: Complete current contract
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Vesper Quicksilver (Family - Cousin)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Xander Darkwater (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
-
 
 ### Aldric Darkwater (Criminal - Handler)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
 
-
 ### Rhiannon Keenblade (Family - Parent)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
-
 
 ### Orion Winterborn (Family - Sibling)
 - **Status**: On the verge of collapse

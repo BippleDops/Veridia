@@ -1,5 +1,5 @@
 ---
-title: fractal-mascot-scc (construct)
+title: fractal-mascot-scc ([[construct|construct]])
 type: note
 tags:
 - note
@@ -10,12 +10,12 @@ modified: '2025-01-15'
 # fractal-mascot-scc
 
 ---
-title: fractal mascot scc
+title: [[Fractal Mascot Scc|Fractal Mascot Scc]]
 aliases:
 - Fractal Mascot
 type: monster
 tags:
-- ttrpg-cli/compendium/src/5e/scc
+- ttrpg-cli/[[Compendium|Compendium]]/src/5e/scc
 - ttrpg-cli/monster/type/construct
 - monster
 - ttrpg-cli/monster/cr/1-4
@@ -36,7 +36,7 @@ world: Both
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-fractal-mascot-scc-fractal-mascot-scc.svg)
+![]([[04_Resources|04_Resources]]/[[Assets|Assets]]/Creatures/creature-creature-fractal-mascot-scc-fractal-mascot-scc.svg)
 
 # [[fractal-mascot-scc]]
 *Source: Strixhaven: A Curriculum of Chaos p. 192*  
@@ -46,7 +46,7 @@ To an untrained eye, a fractal mascot looks like a creature made from facets of 
 Because of their arithmetic basis, fractal mascots can alter both their size and density. Quandrix College has adopted the fractal as its mascot, and many a Quandrix student can be found playing fetch with a fractal companion in between lessons.
 
 ```statblock
-"name": "Fractal Mascot (SCC)"
+"[[Name|Name]]": "Fractal Mascot (SCC)"
 "size": "Small"
 "type": "construct"
 "alignment": "typically  Neutral"
@@ -63,22 +63,22 @@ Because of their arithmetic basis, fractal mascots can alter both their size and
   - !!int "5"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[[conditions#Poisoned|poisoned]]"
-"senses": "passive Perception 10"
+"condition_immunities": "[[Conditions|Conditions]]#Poisoned|poisoned]]"
+"[[senses|senses]]": "passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "1/4"
 "traits":
-  - "desc": "The fractal can move through creatures and objects as if they were difficult\
+  - "desc": "The fractal can move through creatures and [[objects|objects]] as if they were difficult\
       \ terrain. It takes 5 (d10) force damage if it ends its turn inside an object."
     "name": "Relative Density"
-"actions":
+"[[actions|actions]]":
   - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
       \ + 1) force damage, or 6 (2d4 + 1) force damage if the fractal is Medium or\
       \ bigger."
     "name": "Quantum Strike"
 "bonus_actions":
   - "desc": "The fractal's size increases by one category. While the fractal is Medium\
-      \ or bigger, it makes Strength checks and Strength saving throws with advantage.\
+      \ or bigger, it makes Strength checks and Strength [[Saving Throws|Saving Throws]] with advantage.\
       \ The fractal can become no larger than Huge via this bonus action."
     "name": "Augment"
   - "desc": "The fractal's size decreases by one category. While the fractal is Tiny,\
@@ -88,7 +88,7 @@ Because of their arithmetic basis, fractal mascots can alter both their size and
     "name": "Diminish"
 "source":
   - "SCC"
-"image": "/03_Mechanics/CLI/bestiary/construct/token/fractal-mascot-scc.webp"
+"image": "/03_Mechanics/CLI/[[Bestiary|Bestiary]]/construct/token/fractal-mascot-scc.webp"
 ```
 ^statblock
 
@@ -104,15 +104,15 @@ Because of their arithmetic basis, fractal mascots can alter both their size and
 
 - Add 12_Research-specific enhancement
 
-## Player-Facing Summary
+## Player-[[facing|facing]] Summary
 
 Fractal mascot scc is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of fractal mascot scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around fractal mascot scc.
+Legends speak of fractal mascot scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or [[Whispers|Whispers]] on the wind—that herald change around fractal mascot scc.
 
-## DM Notes
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -135,3 +135,6 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+---
+**Navigation**: [[INDEX|🏠 Home]] | [[INDEX|📚 Index]]

@@ -89,3 +89,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Someone is hunting a witness for power
 - A document has gone missing and chaos spreads
 - Strange accidents suggest ancient magic
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]

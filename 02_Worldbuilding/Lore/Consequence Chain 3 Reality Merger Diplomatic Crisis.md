@@ -55,7 +55,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -104,10 +104,10 @@ improvements: 20
 - Defeated/communicated with [[The Deep Mother]], stabilizing merged reality
 
 **Who was directly affected:**
-- **[[[[Queen Seraphina]] [[Lumengarde]]]]**: Had to acknowledge underwater civilization's legitimacy
-- **[[The Scattered [[Emperor]]]]**: Forced to engage in international diplomacy
+- **[[Queen Seraphina|[[Queen Seraphina]] [[Lumengarde]]]]**: Had to acknowledge underwater civilization's legitimacy
+- **[[Emperor|The Scattered [[Emperor]]]]**: Forced to engage in international diplomacy
 - **[[United Councils of Both Worlds]]**: Emergency joint government formed
-- **[[[[Eastern Kingdom]] Fleet]]**: Arrived during crisis, became mediators/observers
+- **[[Eastern Kingdom|[[Eastern Kingdom]] Fleet]]**: Arrived during crisis, became mediators/observers
 - **Citizens of merged districts**: Instant cultural integration required
 - **[[The Deep Mother|[[02 Worldbuilding]]/[[People]]/The Deep Mother]]**: Either sealed, communicated with, or departed
 
@@ -208,7 +208,7 @@ improvements: 20
 **Unexpected alliances:**
 - **Cross-realm security cooperation**: Joint forces more effective than separate militaries
 - **Scientific collaboration**: Research advances accelerated through knowledge combination
-- **[[[[Cultural Exchange]] Programs]]**: Educational institutions facilitating understanding
+- **[[Cultural Exchange|[[Cultural Exchange]] Programs]]**: Educational institutions facilitating understanding
 - **Mixed-heritage advocacy**: Political movements representing dual-citizenship rights
 - **International mediation**: Eastern Kingdoms became permanent diplomatic facilitators
 - **Religious cooperation**: Some faiths found common ground in merger experience
@@ -254,7 +254,7 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs

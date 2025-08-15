@@ -1,3 +1,9 @@
+---
+aliases: ["Refined Salve of Vigor", "refined salve of vigor", "Vigor of Salve Refined"]
+tags: [item, equipment]
+type: item
+---
+
 # Refined Salve of Vigor
 
 *Consumables, Uncommon*
@@ -14,8 +20,6 @@ A refined salve glowing softly
 - Increase speed by 10 ft
 - Resistance for 10 minutes
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -30,7 +34,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.466Z*

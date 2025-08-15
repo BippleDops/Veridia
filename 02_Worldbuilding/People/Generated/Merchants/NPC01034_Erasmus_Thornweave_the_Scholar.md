@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Thornweave the Scholar", "erasmus thornweave the scholar", "Erasmus Thornweave Scholar", "Scholar the Thornweave Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Thornweave the Scholar
 
 *Gnome Caravan Master (Merchants), Age 49, Male*
@@ -36,7 +42,6 @@ Inherited a failing business and turned it around A prophetic dream has been hau
 - **Short Term**: Avoid the authorities
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Xander Lightbringer the Scholar (Family - Spouse)
 - **Status**: Professional only
@@ -47,16 +52,13 @@ Inherited a failing business and turned it around A prophetic dream has been hau
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
 
-
 ### Branwen Darkwater the Cunning (Criminal - Accomplice)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
 
-
 ### Ewan Oakenshield the Guardian (Criminal - Fence)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Running a cult from their basement

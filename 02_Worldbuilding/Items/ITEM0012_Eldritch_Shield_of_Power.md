@@ -1,4 +1,5 @@
 ---
+aliases: ["Eldritch Shield of Power", "eldritch shield of power", "Power of Shield Eldritch"]
 tags: [generated]
 id: ITEM0012
 created: 2025-08-15T04:09:51.080Z
@@ -19,8 +20,6 @@ Crafted from dragonscale with glowing gems, in recently restored. It emanates a 
 
 ## Quirk
 *Makes user sneeze in sunlight*
-
-
 
 ## History
 This item was forged during the War of Shadows centuries ago. It has passed through many hands, each leaving their mark upon its destiny.

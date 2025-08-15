@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Youngblood the Strong", "jorah youngblood the strong", "Jorah Youngblood Strong", "Strong the Youngblood Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Youngblood the Strong
 
 *Genasi Fighter (Adventurers), Age 18, Female*
@@ -13,7 +19,6 @@
 Tall and lanky, with Mohawk brown hair and Green eyes. Olive skin. Weather-beaten face showing hard life.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Speaks to inanimate objects; Always tells the absolute truth
@@ -36,37 +41,30 @@ Searching for a legendary treasure their parent died seeking They've fallen in l
 - **Short Term**: Avoid the authorities
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Hilda Ravenheart the Lost (Professional - Partner)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Urien Thornweave the Wise (Criminal - Target)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ### Felicia Xendar the Swift (Personal - Best friend)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Hestara Dawnstrider the Guardian (Criminal - Informant)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
-
 
 ### Baelor Ironwood the Cunning (Family - Child)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Urien Proudmore the Broken (Criminal - Fence)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Carries a world-ending artifact

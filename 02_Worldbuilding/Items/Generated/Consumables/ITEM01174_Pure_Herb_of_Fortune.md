@@ -1,3 +1,9 @@
+---
+aliases: ["Pure Herb of Fortune", "pure herb of fortune", "Fortune of Herb Pure"]
+tags: [item, equipment]
+type: item
+---
+
 # Pure Herb of Fortune
 
 *Consumables, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A pure herb swirling with colors
 - Remove one condition
 - Breathe underwater 1 hour
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -30,7 +34,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.462Z*

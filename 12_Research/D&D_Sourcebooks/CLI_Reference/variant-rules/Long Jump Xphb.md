@@ -79,3 +79,36 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Githzerai Monk Xmm]]
+- [[Githzerai Zerth Xmm]]
+- [[githzerai-monk-xmm (aberration)]]
+- [[githzerai-zerth-xmm (aberration)]]
+- [[Frog Xmm]]
+- [[Giant Frog Xmm]]
+- [[Giant Toad Xmm]]
+- [[Lion Xmm]]
+- [[Saber Toothed Tiger Xmm]]
+- [[frog-xmm (beast)]]
+- [[giant-frog-xmm (beast)]]
+- [[giant-toad-xmm (beast)]]
+- [[lion-xmm (beast)]]
+- [[saber-toothed-tiger-xmm (beast)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]
+- [[Pole Xphb]]
+- [[Ring of Jumping Xdmg]]
+- [[pole-xphb (items)]]
+- [[ring-of-jumping-xdmg (items)]]
+- [[Otherworldly Leap Xphb]]
+- [[otherworldly-leap-xphb (optional-features)]]
+- [[Gith Githyanki Mtf]]
+- [[gith-githyanki-mtf (races)]]
+- [[Jumping Xphb]]
+- [[jumping-xphb (variant-rules)]]

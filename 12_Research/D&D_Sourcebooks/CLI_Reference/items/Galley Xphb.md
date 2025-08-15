@@ -79,3 +79,11 @@ Mentioned in The Hidden Prophecy of Depths
 
 - A noble needs help delivering before dawn
 - Someone is blackmailing information for love
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Large Vehicles Airborne and Waterborne Vehicles Xphb]]
+- [[Large Vehicles Airborne and Waterborne]]
+- [[Mounts and Vehicles Waterborne Vehicles Phb]]
+- [[mounts-and-vehicles-waterborne-vehicles-phb (tables)]]

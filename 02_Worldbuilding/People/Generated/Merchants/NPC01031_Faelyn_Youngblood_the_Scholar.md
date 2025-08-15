@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Youngblood the Scholar", "faelyn youngblood the scholar", "Faelyn Youngblood Scholar", "Scholar the Youngblood Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Youngblood the Scholar
 
 *Gnome Appraiser (Merchants), Age 45, Male*
@@ -13,7 +19,6 @@
 Towering and muscular, with Dreadlocks white hair and Brown eyes. Unusual hue skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Compulsive liar about minor things
@@ -36,12 +41,10 @@ Built their business from nothing through cunning and hard work A chance encount
 - **Short Term**: Gather information
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Baelor Grimholt the Mystic (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ### Vesper Underhill the Cunning (Professional - Rival)
 - **Status**: On the verge of collapse

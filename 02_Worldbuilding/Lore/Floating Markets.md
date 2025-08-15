@@ -119,3 +119,8 @@ Floating Markets represents a crucial aspect of the world's history, cosmology, 
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[Shadow Market Canals]]
+- [[The Floating Markets of Nereidios]]

@@ -123,3 +123,17 @@ Mentioned in The First Prophecy of Winds
 - Someone is blackmailing information for power
 - A map reveals ancient history about a local noble
 - Someone is protecting information for money
+
+## References
+
+- [[triceratops-xmm (beast)]]
+- [[3 Animals]]
+- [[3-animals (monster-manual-2025)]]
+- [[Grassland Encounters Levels 1116 Xge]]
+- [[Grassland Encounters Levels 15 Xge]]
+- [[Grassland Encounters Levels 1720 Xge]]
+- [[Monsters by Habitat Grassland Monsters Xmm]]
+- [[grassland-encounters-levels-1116-xge (tables)]]
+- [[grassland-encounters-levels-15-xge (tables)]]
+- [[grassland-encounters-levels-1720-xge (tables)]]
+- [[monsters-by-habitat-grassland-monsters-xmm (tables)]]

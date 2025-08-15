@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Oakenshield the Scholar", "elric oakenshield the scholar", "Elric Oakenshield Scholar", "Scholar the Oakenshield Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Oakenshield the Scholar
 
 *Aasimar Baker (Commoners), Age 51, Male*
@@ -36,17 +42,14 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 - **Short Term**: Gather information
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Hilda Crystalbrook the Fallen (Personal - Ex-lover)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
 
-
 ### Wynne Ironforge the Mystic (Family - Sibling)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ### Gavril Voidwalker the Cunning (Personal - Ex-lover)
 - **Status**: Strong and trusting
@@ -57,11 +60,9 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Pyria Voidwalker the Risen (Criminal - Target)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Knows location of ancient treasure

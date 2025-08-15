@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Oakenshield the Wanderer", "dara oakenshield the wanderer", "Dara Oakenshield Wanderer", "Wanderer the Oakenshield Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Oakenshield the Wanderer
 
 *Genasi Carpenter (Commoners), Age 60, Non-binary*
@@ -42,21 +48,17 @@ Runaway from an arranged marriage, starting a new life An old debt has come due 
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Dara Blackstone the Risen (Personal - Ex-lover)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ### Corvus Darkwater the Wise (Political - Patron)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Baelor Ashford the Wise (Personal - Love interest)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Knows location of ancient treasure

@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Quicksilver the Strong", "hilda quicksilver the strong", "Hilda Quicksilver Strong", "Strong the Quicksilver Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Quicksilver the Strong
 
 *Aasimar Wizard (Adventurers), Age 63, Female*
@@ -13,7 +19,6 @@
 Tall and lanky, with Tied back gray hair and Amber eyes. Weathered skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Always speaks in metaphors and riddles; Flirts with everyone regardless of interest
@@ -36,12 +41,10 @@ Accidentally gained powers and learning to control them A chance encounter last 
 - **Short Term**: Sabotage competition
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Alaric Grimholt the Risen (Professional - Employee)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ### Gareth Ashford the Strong (Family - Child)
 - **Status**: Strained but maintaining

@@ -1,4 +1,5 @@
 ---
+aliases: ["Storm Howler", "storm howler", "Howler Storm"]
 tags: [generated]
 id: MON0019_Storm_Howler
 created: 2025-08-15T04:09:51.426Z
@@ -25,7 +26,6 @@ A terrifying creature that stalks its prey from the shadows
 
 ---
 *Generated: 2025-08-15T03:21:47.463Z*
-
 
 ## Habitat
 - Natural environment and territories

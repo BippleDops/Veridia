@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Ravenheart", "ysara ravenheart", "Ravenheart Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Ravenheart
 
 *Half-Orc Courtier (Nobles), Age 58, Non-binary*
@@ -13,7 +19,6 @@
 Short and slender, with Partially shaved red hair and Red eyes. Tan skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Speaks to inanimate objects; Always speaks in metaphors and riddles
@@ -51,7 +56,6 @@ Recently elevated to nobility through service, still learning courtly ways They'
 ### Malakai Goldleaf the Scholar (Criminal - Accomplice)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
-
 
 ### Dara Silverleaf the Fallen (Professional - Rival)
 - **Status**: Recently reconciled

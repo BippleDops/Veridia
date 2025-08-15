@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Dawnstrider", "thalia dawnstrider", "Dawnstrider Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Dawnstrider
 
 *Human Ambassador (Nobles), Age 22, Non-binary*
@@ -13,7 +19,6 @@
 Above average and compact, with Wild and unkempt bald hair and Green eyes. Freckled skin. Weather-beaten face showing hard life.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Always tells the absolute truth
@@ -36,22 +41,18 @@ Secretly adopted into nobility, living in fear of discovery They're being blackm
 - **Short Term**: Gather information
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Pyria Proudmore the Lost (Criminal - Handler)
 - **Status**: One-sided affection
 - **History**: United by common enemy
 
-
 ### Felicia Ravenheart (Criminal - Target)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Solas Hawthorne the Wanderer (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Secretly funding the rebellion

@@ -1,11 +1,11 @@
 ---
+aliases: ["Ezra Brightblade", "ezra brightblade", "Brightblade Ezra"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Child of farmers who sought adventure. Years ago, they accidentally discovered a
 ### Skills
 Stealth, Insight, Perception
 
-
-
 ## Possessions
 - 47 gold pieces
 - Mysterious key
@@ -91,7 +89,6 @@ Stealth, Insight, Perception
 
 ---
 *Generated: 2025-08-15T03:21:04.045Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

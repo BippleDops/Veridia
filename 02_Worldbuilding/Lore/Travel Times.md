@@ -109,3 +109,11 @@ Travel Times represents a crucial aspect of the world's history, cosmology, or f
 - Civil war
 - Natural disasters
 - Current [[Power Structures]] established
+
+## References
+
+- [[Kraken Territories]]
+- [[The Grand Trade Routes]]
+- [[Travel_Times (02_Worldbuilding)]]
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Pressure Terminal]]

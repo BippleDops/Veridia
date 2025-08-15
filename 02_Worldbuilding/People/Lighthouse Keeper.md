@@ -150,7 +150,6 @@ The lighthouse he tends is no ordinary beacon—its crystal core was a gift from
 
 Alaric's quarters atop the lighthouse are spartan but functional: charts of every current and reef for fifty miles, a collection of message bottles from grateful sailors, and a small shrine to Tempus, god of storms. His most prized possession is the Storm Mirror, a scrying device that lets him observe weather patterns and potential threats across the entire coast.
 
-
 ## Stats
 - **AC**: 12
 - **HP**: 22 (4d8)
@@ -196,7 +195,6 @@ Alaric's quarters atop the lighthouse are spartan but functional: charts of ever
 **Primary**: Protect sailors and coastal communities from both natural and supernatural maritime threats
 **Secondary**: Understand and prepare for the great storm his patron has prophesied
 **Hidden**: Discover the truth about the sunken city and what it means for both realms' future
-
 
 ## Secrets
 - Hidden information about this character
@@ -364,7 +362,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 20% middle class
 - 79% working poor
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -400,3 +397,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Campaign_Overview_1 (01_Adventures)]]
+- [[Great Drowning]]
+- [[The Deep Prophecies]]
+- [[Intelligence Services (People)]]
+- [[Lighthouse Keeper Finn Deepbeacon]]
+- [[Mad Bell-Ringer Thomas]]
+- [[The Lighthouse Keeper's Ghost]]
+- [[Aethermoor - Session 02 The Lighthouse of Storms]]
+- [[Intelligence Services (D&D_References)]]

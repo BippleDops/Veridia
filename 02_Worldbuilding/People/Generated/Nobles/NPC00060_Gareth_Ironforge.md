@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Ironforge", "gareth ironforge", "Ironforge Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Ironforge
 
 *Gnome Noble (Nobles), Age 19, Non-binary*
@@ -42,11 +48,9 @@ Last survivor of a fallen house, seeking to restore family honor They've been ma
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
 
-
 ### Solas Crystalbrook (Political - Spy)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ### Elric Voidwalker (Criminal - Fence)
 - **Status**: Mutually beneficial
@@ -57,16 +61,13 @@ Last survivor of a fallen house, seeking to restore family honor They've been ma
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Malakai Grimholt (Personal - Ex-lover)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Xander Oakenshield (Professional - Rival)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Practicing forbidden magic

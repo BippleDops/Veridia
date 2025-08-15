@@ -1,11 +1,11 @@
 ---
+aliases: ["Willem Goldleaf", "willem goldleaf", "Goldleaf Willem"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -91,7 +91,6 @@ Insight, Arcana
 
 ---
 *Generated: 2025-08-15T03:21:04.037Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

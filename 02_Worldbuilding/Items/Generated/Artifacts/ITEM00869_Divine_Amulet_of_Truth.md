@@ -1,3 +1,9 @@
+---
+aliases: ["Divine Amulet of Truth", "divine amulet of truth", "Truth of Amulet Divine"]
+tags: [item, equipment]
+type: item
+---
+
 # Divine Amulet of Truth
 
 *Artifacts, Legendary (requires attunement)*
@@ -16,8 +22,6 @@ A divine amulet covered in mysterious symbols
 - Cast spell 3/day
 - Increase ability score by 2
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -32,7 +36,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.433Z*

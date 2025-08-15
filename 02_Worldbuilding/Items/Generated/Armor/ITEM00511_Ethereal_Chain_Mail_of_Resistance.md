@@ -1,3 +1,9 @@
+---
+aliases: ["Ethereal Chain Mail of Resistance", "ethereal chain mail of resistance", "Resistance of Mail Chain Ethereal"]
+tags: [item, equipment]
+type: item
+---
+
 # Ethereal Chain Mail of Resistance
 
 *Armor, Common*

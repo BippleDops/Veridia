@@ -240,3 +240,7 @@ Mentioned in The First Prophecy of Winds
 
 ### Curse (if applicable)
 - *[Negative effects]*
+
+## References
+
+- [[Master_Item_Catalog]]

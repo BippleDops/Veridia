@@ -119,3 +119,13 @@ improvements: 20
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Aquabyssos Cultural Codex]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure]]
+- [[Post-Merge Chronology]]
+- [[Shadow Surgery Center]]
+- [[Shadow Surgery Mechanics]]
+- [[Shadow Surgery Training Hospitals]]
+- [[Shadow Surgery Network]]

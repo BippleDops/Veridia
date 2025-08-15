@@ -1,3 +1,9 @@
+---
+aliases: ["Greater Herb of Swiftness", "greater herb of swiftness", "Swiftness of Herb Greater"]
+tags: [item, equipment]
+type: item
+---
+
 # Greater Herb of Swiftness
 
 *Consumables, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A greater herb swirling with colors
 - Breathe underwater 1 hour
 - Invisible for 10 minutes
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -30,7 +34,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.453Z*

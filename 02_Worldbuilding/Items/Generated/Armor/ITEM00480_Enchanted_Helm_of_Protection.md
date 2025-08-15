@@ -1,3 +1,9 @@
+---
+aliases: ["Enchanted Helm of Protection", "enchanted helm of protection", "Protection of Helm Enchanted"]
+tags: [item, equipment]
+type: item
+---
+
 # Enchanted Helm of Protection
 
 *Armor, Very Rare*
@@ -16,8 +22,6 @@ A enchanted helm bearing ancient runes
 - Resistance to one damage type
 - Resistance to one damage type
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -32,7 +36,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.386Z*

@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Ravenheart the Cunning", "ysara ravenheart the cunning", "Ysara Ravenheart Cunning", "Cunning the Ravenheart Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Ravenheart the Cunning
 
 *Half-Elf Trader (Merchants), Age 23, Male*
@@ -13,7 +19,6 @@
 Tall and heavyset, with Braided elaborately red hair and Amber eyes. Fair skin. Birthmark shaped like a constellation.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Always hungry and eating something; Always speaks in metaphors and riddles; Believes in every conspiracy theory
@@ -42,11 +47,9 @@ Built their business from nothing through cunning and hard work They recently di
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Malakai Silverleaf the Bold (Professional - Employee)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ### Malakai Blackstone the Scholar (Criminal - Fence)
 - **Status**: Strained but maintaining

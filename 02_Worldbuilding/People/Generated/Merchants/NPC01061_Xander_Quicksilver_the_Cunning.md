@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Quicksilver the Cunning", "xander quicksilver the cunning", "Xander Quicksilver Cunning", "Cunning the Quicksilver Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Quicksilver the Cunning
 
 *Half-Orc Shopkeeper (Merchants), Age 26, Female*
@@ -36,17 +42,14 @@ Built their business from nothing through cunning and hard work A chance encount
 - **Short Term**: Survive until next week
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Erasmus Winterborn the Cunning (Criminal - Handler)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Fiora Stormwind the Risen (Criminal - Handler)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ### Branwen Crystalbrook the Wise (Professional - Partner)
 - **Status**: One-sided affection
@@ -56,7 +59,6 @@ Built their business from nothing through cunning and hard work A chance encount
 ### Nerys Hawthorne the Fallen (Political - Puppet)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Sells information to all sides

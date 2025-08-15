@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Dawnstrider the Scholar", "corvus dawnstrider the scholar", "Corvus Dawnstrider Scholar", "Scholar the Dawnstrider Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Dawnstrider the Scholar
 
 *Halfling Corrupt Noble (Villains), Age 25, Non-binary*
@@ -36,32 +42,26 @@ Driven mad by knowledge humanity wasn't meant to know Strange abilities have beg
 - **Short Term**: Complete current contract
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Brenna Jadeclaw the Swift (Criminal - Fence)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Fiora Blackstone the Cunning (Criminal - Informant)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ### Xander Hawthorne the Strong (Political - Ally)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
 
-
 ### Lyanna Silverleaf the Wise (Professional - Partner)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
 
-
 ### Nerys Ironforge the Mystic (Professional - Employer)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Was once a renowned hero

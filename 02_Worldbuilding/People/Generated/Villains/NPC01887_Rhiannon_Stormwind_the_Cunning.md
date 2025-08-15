@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Stormwind the Cunning", "rhiannon stormwind the cunning", "Rhiannon Stormwind Cunning", "Cunning the Stormwind Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Stormwind the Cunning
 
 *Aasimar Crime Boss (Villains), Age 59, Non-binary*
@@ -36,12 +42,10 @@ Driven mad by knowledge humanity wasn't meant to know A chance encounter last wi
 - **Short Term**: Find missing person
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Xander Blackstone the Lost (Personal - Nemesis)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
-
 
 ### Ewan Zephyrblade the Strong (Personal - Nemesis)
 - **Status**: Blood oath bound
@@ -57,16 +61,13 @@ Driven mad by knowledge humanity wasn't meant to know A chance encounter last wi
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Idris Frostwhisper the Strong (Family - Cousin)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Malakai Moonshadow the Wise (Personal - Nemesis)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Believes they're saving the world

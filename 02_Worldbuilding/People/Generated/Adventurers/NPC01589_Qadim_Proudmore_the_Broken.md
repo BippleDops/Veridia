@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Proudmore the Broken", "qadim proudmore the broken", "Qadim Proudmore Broken", "Broken the Proudmore Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Proudmore the Broken
 
 *Gnome Wizard (Adventurers), Age 61, Male*
@@ -13,7 +19,6 @@
 Very short and wiry, with Mohawk bald hair and Green eyes. Brown skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Extremely superstitious about everything; Always hungry and eating something
@@ -47,11 +52,9 @@ Chosen by fate to fulfill an ancient prophecy They're being blackmailed by someo
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Ewan Ashford the Swift (Criminal - Accomplice)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ### Lyanna Darkwater the Lost (Political - Spy)
 - **Status**: Complicated history

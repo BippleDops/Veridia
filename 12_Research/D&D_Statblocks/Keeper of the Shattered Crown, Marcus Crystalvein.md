@@ -294,3 +294,12 @@ Legends speak of Keeper of the Shattered Crown, Marcus Crystalvein as a nexus wh
 - A noble needs help finding before the new moon
 - Someone is protecting a artifact for love
 - A shipment has gone missing and war looms
+
+## References
+
+- [[Quest - The Convergence Crisis]]
+- [[Assets Symbols Symbol Heraldry Foreman Prime Salvage Maste Foreman Prime Salvage Maste.svg]]
+- [[Order of the Shattered Crown]]
+- [[The Bloodline Carrier]]
+- [[Order of the Shattered Crown (D&D_Statblocks)]]
+- [[The Bloodline Carrier (D&D_Statblocks)]]

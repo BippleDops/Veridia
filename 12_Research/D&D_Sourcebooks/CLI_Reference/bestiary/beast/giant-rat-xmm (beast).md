@@ -129,3 +129,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Giant Rat Xmm]]
+- [[2 Appendix a Miscellaneous Creatures]]
+- [[2-appendix-a-miscellaneous-creatures (monster-manual-2014)]]
+- [[Bag of Tricks Gray Xdmg]]
+- [[Pipes of the Sewers Xdmg]]
+- [[bag-of-tricks-gray-xdmg (items)]]
+- [[pipes-of-the-sewers-xdmg (items)]]

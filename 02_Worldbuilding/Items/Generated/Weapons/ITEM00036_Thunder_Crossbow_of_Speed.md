@@ -1,3 +1,9 @@
+---
+aliases: ["Thunder Crossbow of Speed", "thunder crossbow of speed", "Speed of Crossbow Thunder"]
+tags: [item, equipment]
+type: item
+---
+
 # Thunder Crossbow of Speed
 
 *Weapons, Very Rare*
@@ -16,8 +22,6 @@ A thunder crossbow carved from dragon bone
 - +1 to attack and damage rolls
 - Returns when thrown
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -32,7 +36,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.345Z*

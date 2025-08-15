@@ -102,3 +102,19 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Death Domain Dmg]]
+- [[Cleric Xphb Grave Domain Xge]]
+- [[Cleric Xphb Life Domain Xphb]]
+- [[cleric-xphb-death-domain-dmg (classes)]]
+- [[cleric-xphb-grave-domain-xge (classes)]]
+- [[cleric-xphb-grave-domain-xge 2 (classes)]]
+- [[cleric-xphb-life-domain-xphb (classes)]]
+- [[cleric-xphb-life-domain-xphb 2 (classes)]]
+- [[Orb of Dragonkind Xdmg]]
+- [[orb-of-dragonkind-xdmg (items)]]

@@ -1,4 +1,5 @@
 ---
+aliases: ["UpperHaven", "upperhaven"]
 tags: [generated]
 id: LOC0104
 created: 2025-08-15T04:09:51.330Z
@@ -21,20 +22,17 @@ A military stronghold built to withstand any siege
 - **Current Leader**: Captain of the guard
 - **Political Stability**: Unstable
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -94,7 +92,6 @@ A military stronghold built to withstand any siege
 
 ---
 *Generated: 2025-08-15T03:20:13.147Z*
-
 
 ## History
 - **Founding**: Origin story

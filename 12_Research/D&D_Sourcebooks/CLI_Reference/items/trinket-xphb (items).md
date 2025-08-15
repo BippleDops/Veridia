@@ -45,3 +45,25 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Prismari Student Scc]]
+- [[Quandrix Student Scc]]
+- [[Sailor Pirate Variant]]
+- [[Silverquill Student Scc]]
+- [[prismari-student-scc (backgrounds)]]
+- [[quandrix-student-scc (backgrounds)]]
+- [[sailor-pirate-variant (backgrounds)]]
+- [[silverquill-student-scc (backgrounds)]]
+- [[06 Equipment]]
+- [[06-equipment (players-handbook-2014)]]
+- [[Lorehold Trinket Scc]]
+- [[Prismari Trinket Scc]]
+- [[Quandrix Trinket Scc]]
+- [[lorehold-trinket-scc (items)]]
+- [[prismari-trinket-scc (items)]]
+- [[quandrix-trinket-scc (items)]]
+- [[Treasure Orc Trophies Vgm]]
+- [[treasure-orc-trophies-vgm (tables)]]

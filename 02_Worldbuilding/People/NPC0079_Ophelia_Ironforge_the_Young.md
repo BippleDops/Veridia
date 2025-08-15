@@ -1,11 +1,11 @@
 ---
+aliases: ["Ophelia Ironforge the Young", "ophelia ironforge the young", "Ophelia Ironforge Young", "Young the Ironforge Ophelia"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -91,7 +91,6 @@ Deception, Stealth, Perception
 
 ---
 *Generated: 2025-08-15T03:20:13.080Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

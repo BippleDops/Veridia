@@ -151,13 +151,11 @@ Zephyr Mindweaver appears as an ethereally beautiful sea elf with silver-blue sk
 
 She dresses in robes woven from [[Abyssal Kelp]], adorned with crystalline memory orbs that hang like jewelry around her neck and wrists. These orbs glow softly with different colors, each hue representing different types of memories - golden for joy, blue for sorrow, silver for knowledge, and crimson for passion.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -165,13 +163,11 @@ She dresses in robes woven from [[Abyssal Kelp]], adorned with crystalline memor
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -322,7 +318,6 @@ Key stop on spices trade route
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -358,3 +353,12 @@ Key stop on spices trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Quest - The Pretender's Crown]]
+- [[12_Research_D&D_Statblocks_Memory_Merchant_Zephyr_Mindweaver]]
+- [[Emperor Thalassius the Wise]]
+- [[Discover Marina's Truth]]
+- [[The Phosphor Markets (D&D_References)]]
+- [[Emperor Thalassius the Wise (D&D_Statblocks)]]

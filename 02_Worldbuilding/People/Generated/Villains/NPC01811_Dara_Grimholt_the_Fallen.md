@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Grimholt the Fallen", "dara grimholt the fallen", "Dara Grimholt Fallen", "Fallen the Grimholt Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Grimholt the Fallen
 
 *Firbolg Cultist (Villains), Age 37, Female*
@@ -36,7 +42,6 @@ Corrupted by an artifact or dark magic A family member's death has left them wit
 - **Short Term**: Survive until next week
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Pyria Zephyrblade the Risen (Professional - Employer)
 - **Status**: Recently reconciled
@@ -47,11 +52,9 @@ Corrupted by an artifact or dark magic A family member's death has left them wit
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Solas Ironwood the Swift (Family - Spouse)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Believes they're saving the world

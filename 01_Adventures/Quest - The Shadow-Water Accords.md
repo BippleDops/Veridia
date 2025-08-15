@@ -14,7 +14,6 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 > [!figure] Asset
 ![](04_Resources/Assets/Portraits/portrait-npc-quest-the-shadow-water-accords-quest-the-shadow-water-accords.svg)
 
@@ -37,12 +36,10 @@ updated: '2025-08-13T01:18:37.001236+00:00'
 
 > [!figure] Portrait
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -169,7 +166,6 @@ Contextual improvement based on 12_Research
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## Time Limit
 - **Deadline**: When it must be completed
 - **Consequences**: What happens if late
@@ -209,3 +205,8 @@ Contextual improvement based on 12_Research
 ## Player Tips
 > 🎮 **Strategy**: How to approach this content
 > Work together and communicate
+
+## References
+
+- [[Assets Locations Location City Master Thorek Crystalhammer V1 Master Thorek Crystalhammer.svg]]
+- [[Assets Portraits Portrait NPC Captain Prism Shield Valeria Captain Prism Shield Valeria.svg]]

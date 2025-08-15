@@ -1,8 +1,8 @@
 ---
 
-title: Symbol Heraldry Information Broker Whisper Goldtongu V1 Information Broker
+title: Symbol Heraldry Information Broker [[Whisper|Whisper]] Goldtongu V1 Information Broker
   Whisper Goldtongu.svg
-type: lore
+type: [[Lore|Lore]]
 tags:
 - lore
 - worldbuilding
@@ -23,11 +23,11 @@ improvements: 20
 
 ### Culture Improvements
 
-- Define unique cultural practices and taboos
+- Define unique [[Cultural Practices|Cultural Practices]] and taboos
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -35,7 +35,7 @@ improvements: 20
 
 ### Lifestyle Improvements
 
-- Describe typical day for different social classes
+- Describe typical day for different social [[classes|classes]]
 
 ### Evolution Improvements
 
@@ -59,7 +59,7 @@ improvements: 20
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
+- Detail common [[objects|objects]] and their cultural significance
 
 ### Contradictions Improvements
 
@@ -67,13 +67,13 @@ improvements: 20
 
 ## Overview
 
-04_Resources/Assets/Symbols/symbol-heraldry-information-broker-whisper-goldtongu-v1-information-broker-whisper-goldtongu.svg represents a crucial aspect of the world's history, cosmology, or fundamental nature.
+[[04_Resources|04_Resources]]/[[Assets|Assets]]/Symbols/symbol-heraldry-information-broker-whisper-goldtongu-v1-information-broker-whisper-goldtongu.svg represents a crucial aspect of the world's history, cosmology, or fundamental nature.
 
 ---
 
 *Last Updated: 2025-08-14 19:03*
 
-## DM Notes
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -81,7 +81,7 @@ improvements: 20
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-## Historical Timeline
+## Historical [[Timeline|Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -93,10 +93,10 @@ improvements: 20
 - Cultural renaissance
 - Expansion of territory
 
-### The Time of Troubles (100 years ago)
+### The [[Time|Time]] of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current power structures established
+- Current [[Power Structures|Power Structures]] established
 
 ## Economic Structure
 
@@ -127,3 +127,6 @@ improvements: 20
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+---
+**Navigation**: [[INDEX|🏠 Home]] | [[INDEX|📚 Index]]

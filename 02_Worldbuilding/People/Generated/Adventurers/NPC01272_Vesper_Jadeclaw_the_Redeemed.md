@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Jadeclaw the Redeemed", "vesper jadeclaw the redeemed", "Vesper Jadeclaw Redeemed", "Redeemed the Jadeclaw Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Jadeclaw the Redeemed
 
 *Half-Orc Ranger (Adventurers), Age 21, Female*
@@ -13,7 +19,6 @@
 Tall and athletic, with Dreadlocks black hair and Violet eyes. Brown skin. Gold tooth that glints when smiling.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Flirts with everyone regardless of interest; Extremely superstitious about everything
@@ -42,21 +47,17 @@ Chosen by fate to fulfill an ancient prophecy A chance encounter last winter cha
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Thalia Zephyrblade the Swift (Professional - Employer)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ### Idris Nightfall the Seeker (Family - Cousin)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
 
-
 ### Ysara Lightbringer the Swift (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ### Dara Voidwalker the Cunning (Political - Patron)
 - **Status**: Mutually beneficial

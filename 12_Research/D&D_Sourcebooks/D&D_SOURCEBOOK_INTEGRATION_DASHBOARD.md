@@ -324,3 +324,10 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[#create-new-adaptation]]
+- [[#generate-conversion-report]]
+- [[#review-integration-progress]]
+- [[#update-sourcebook-status]]

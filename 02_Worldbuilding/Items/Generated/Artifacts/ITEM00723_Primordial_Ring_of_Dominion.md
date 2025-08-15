@@ -1,3 +1,9 @@
+---
+aliases: ["Primordial Ring of Dominion", "primordial ring of dominion", "Dominion of Ring Primordial"]
+tags: [item, equipment]
+type: item
+---
+
 # Primordial Ring of Dominion
 
 *Artifacts, Artifact*
@@ -16,8 +22,6 @@ A primordial ring covered in mysterious symbols
 - Grant true sight
 - Regenerate 1 hp/round
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -28,11 +32,13 @@ Priceless
 
 **Weight**: 2 lbs
 
-## DM Notes
+## [[DM_Notes|DM Notes]]
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
-- The creator might still be alive (or undead)
-
+- The [[Creator|Creator]] might still be alive (or [[undead|undead]])
 
 ---
 *Generated: 2025-08-15T03:51:03.420Z*
+
+---
+**Navigation**: [[INDEX|🏠 Home]] | [[INDEX|📚 Index]]

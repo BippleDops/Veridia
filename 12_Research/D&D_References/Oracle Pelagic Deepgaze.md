@@ -63,3 +63,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A journal reveals a betrayal about the government
 - Strange disappearances suggest a curse
 - Someone is protecting information for power
+
+## References
+
+- [[System Cli Spells School Divination]]

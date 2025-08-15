@@ -1,4 +1,5 @@
 ---
+aliases: ["The Forbidden Betrayal", "the forbidden betrayal", "Betrayal Forbidden The"]
 tags: [generated]
 id: QUEST0040
 created: 2025-08-15T04:09:51.386Z
@@ -21,8 +22,6 @@ Retrieve the ancient artifact from the sunken temple
 
 ### Secondary
 - Document findings for scholars
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they made a deal they now regret, which changed their life forever. Now, circumstances demand immediate action.

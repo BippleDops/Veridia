@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Keenblade the Wanderer", "baelor keenblade the wanderer", "Baelor Keenblade Wanderer", "Wanderer the Keenblade Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Keenblade the Wanderer
 
 *Aasimar Ranger (Adventurers), Age 69, Non-binary*
@@ -36,17 +42,14 @@ Accidentally gained powers and learning to control them A family member's death 
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Zephyr Youngblood the Broken (Personal - Childhood friend)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Xander Grimholt the Cunning (Personal - Childhood friend)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
-
 
 ### Ewan Dawnstrider the Guardian (Political - Opposition)
 - **Status**: On the verge of collapse

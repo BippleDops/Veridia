@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Keenblade the Redeemed", "hestara keenblade the redeemed", "Hestara Keenblade Redeemed", "Redeemed the Keenblade Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Keenblade the Redeemed
 
 *Goliath Fighter (Adventurers), Age 18, Female*
@@ -42,31 +48,25 @@ Running from a dark past that won't stay buried They've made a deal they're begi
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Corvus Nightfall the Scholar (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ### Dara Ashford the Broken (Personal - Love interest)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
 
-
 ### Wynne Ironwood the Mystic (Professional - Partner)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ### Idris Xendar the Fallen (Family - Sibling)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Fiora Nightfall the Bold (Criminal - Handler)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Possessed by ancient spirit

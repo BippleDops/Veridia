@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Oakenshield the Guardian", "jorah oakenshield the guardian", "Jorah Oakenshield Guardian", "Guardian the Oakenshield Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Oakenshield the Guardian
 
 *Half-Elf Caravan Master (Merchants), Age 60, Non-binary*
@@ -36,17 +42,14 @@ Part of a merchant family with connections everywhere They recently discovered a
 - **Short Term**: Sabotage competition
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Nerys Thornweave the Wise (Personal - Love interest)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Idris Oakenshield the Cunning (Personal - Love interest)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ### Xander Thornweave the Swift (Personal - Childhood friend)
 - **Status**: Recently reconciled
@@ -57,11 +60,9 @@ Part of a merchant family with connections everywhere They recently discovered a
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
 
-
 ### Xander Keenblade the Broken (Professional - Employee)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ### Ysara Youngblood the Swift (Personal - Best friend)
 - **Status**: On the verge of collapse

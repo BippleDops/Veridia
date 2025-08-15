@@ -1,3 +1,9 @@
+---
+aliases: ["Infernal Scepter of Destiny", "infernal scepter of destiny", "Destiny of Scepter Infernal"]
+tags: [item, equipment]
+type: item
+---
+
 # Infernal Scepter of Destiny
 
 *Artifacts, Legendary*
@@ -16,8 +22,6 @@ A infernal scepter pulsing with inner light
 - Telepathy 120 ft
 - Time stop 1/week
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -32,7 +36,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.426Z*

@@ -85,3 +85,14 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Assets Locations Location City Professor Marina Reefbuilder V1 Professor Marina Reefbuilder.svg]]
+- [[High Priestess Nerida Soulcurrent]]
+- [[The_Crimson_Pearl]]
+- [[Pearl_Harbor_City (Places)]]
+- [[High Priestess Nerida Soulcurrent (D&D_References)]]
+- [[Pearl_Harbor_City (D&D_References)]]
+- [[The Crimson Pearl (D&D_References)]]
+- [[The_Crimson_Pearl (D&D_References)]]

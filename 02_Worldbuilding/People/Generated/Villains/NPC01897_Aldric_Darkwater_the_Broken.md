@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Darkwater the Broken", "aldric darkwater the broken", "Aldric Darkwater Broken", "Broken the Darkwater Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Darkwater the Broken
 
 *Dragonborn Assassin (Villains), Age 42, Male*
@@ -36,7 +42,6 @@ Betrayed by those they trusted, now seeking revenge on the world They've been ma
 - **Short Term**: Find missing person
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Zephyr Goldleaf the Scholar (Personal - Nemesis)
 - **Status**: Professional only
@@ -52,7 +57,6 @@ Betrayed by those they trusted, now seeking revenge on the world They've been ma
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
 
-
 ### Baelor Silverleaf the Guardian (Political - Patron)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
@@ -61,7 +65,6 @@ Betrayed by those they trusted, now seeking revenge on the world They've been ma
 ### Delara Voidwalker the Scholar (Criminal - Fence)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Has a child they're protecting

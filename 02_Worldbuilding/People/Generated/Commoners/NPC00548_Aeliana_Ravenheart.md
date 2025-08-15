@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Ravenheart", "aeliana ravenheart", "Ravenheart Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Ravenheart
 
 *Genasi Farmer (Commoners), Age 35, Male*
@@ -13,7 +19,6 @@
 Very short and delicate, with Partially shaved auburn hair and Black eyes. Tan skin. Unusual eye color for their race.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Flirts with everyone regardless of interest
@@ -36,7 +41,6 @@ Runaway from an arranged marriage, starting a new life They've made a deal they'
 - **Short Term**: Find missing person
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Caelum Nightfall the Strong (Family - Parent)
 - **Status**: Recently reconciled
@@ -47,11 +51,9 @@ Runaway from an arranged marriage, starting a new life They've made a deal they'
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
 
-
 ### Fiora Lightbringer the Bold (Criminal - Target)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Can hear the thoughts of others

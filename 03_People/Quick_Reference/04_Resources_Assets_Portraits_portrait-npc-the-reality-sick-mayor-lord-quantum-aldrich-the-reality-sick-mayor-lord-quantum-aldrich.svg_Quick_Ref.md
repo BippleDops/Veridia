@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # 04_Resources_Assets_Portraits_portrait-npc-the-reality-sick-mayor-lord-quantum-aldrich-the-reality-sick-mayor-lord-quantum-aldrich.svg - Quick Reference
 
 ## Key Info

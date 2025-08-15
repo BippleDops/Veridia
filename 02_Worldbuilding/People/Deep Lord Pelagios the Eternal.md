@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-deep-lord-pelagios-the-eternal-deep-lord-pelagios-the-eternal.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -190,7 +188,6 @@ Member of House Dragonblood - Trait: magical affinity
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -260,3 +257,11 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City Dream Enhancement Techniques V1 Dream Enhancement Techniques.svg]]
+- [[Assets Locations Location City Master Chef Coral Seasweaver V1 Master Chef Coral Seasweaver.svg]]
+- [[Assets Locations Location City Portal Commander Marina Bridgewright Portal Commander Marina Bridgewright.png]]
+- [[Assets Portraits Portrait NPC Lord General Harrison Ironhold Lord General Harrison Ironhold.svg]]
+- [[Assets Symbols Symbol Heraldry Salvage Master Ironwork Salvage Master Ironwork.svg]]

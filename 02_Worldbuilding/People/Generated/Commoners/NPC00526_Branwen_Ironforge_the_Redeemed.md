@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Ironforge the Redeemed", "branwen ironforge the redeemed", "Branwen Ironforge Redeemed", "Redeemed the Ironforge Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Ironforge the Redeemed
 
 *Halfling Farmer (Commoners), Age 36, Male*
@@ -42,16 +48,13 @@ Survivor of a disaster that destroyed their village An old debt has come due at 
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Thalia Nightfall the Strong (Personal - Best friend)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Hestara Hawthorne the Redeemed (Family - Cousin)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
-
 
 ### Alaric Proudmore the Swift (Criminal - Handler)
 - **Status**: Strong and trusting

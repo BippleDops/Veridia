@@ -1,3 +1,9 @@
+---
+aliases: ["Lesser Potion of Fortune", "lesser potion of fortune", "Fortune of Potion Lesser"]
+tags: [item, equipment]
+type: item
+---
+
 # Lesser Potion of Fortune
 
 *Consumables, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A lesser potion emanating sweet fragrance
 - Remove one condition
 - Breathe underwater 1 hour
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -31,7 +35,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.459Z*

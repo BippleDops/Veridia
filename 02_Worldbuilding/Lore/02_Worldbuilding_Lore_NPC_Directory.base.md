@@ -2,7 +2,7 @@
 tags: ['[[Lore]]']
 ---
 
-# [[02 Worldbuilding]]/Lore/[[Npc]] Directory.base
+# [[02_Worldbuilding|02 Worldbuilding]]/Lore/[[Npc]] Directory.base
 
 ## Overview
 

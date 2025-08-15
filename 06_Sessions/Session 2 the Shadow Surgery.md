@@ -354,12 +354,10 @@ status: active
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## Pronunciation Guide
 - **They'll**: [THEY-LL]
 - **Theme**: [THEME]
 - **Stealth**: [STEALTH]
-
 
 ## Alternate Descriptions
 - **First Impression**: Initial appearance
@@ -369,3 +367,8 @@ status: active
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition
+
+## References
+
+- [[Session_3_The_Duplicate_Crisis]]
+- [[Session 1 Shadows in the Senate]]

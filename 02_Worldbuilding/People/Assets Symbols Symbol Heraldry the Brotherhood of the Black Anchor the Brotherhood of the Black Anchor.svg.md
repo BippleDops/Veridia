@@ -188,7 +188,7 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[vault_backup_20250813_073007_06_GM_Resources_Travel_Encounter_Sheets_D_L 03_Deep_Mother_Dream_Tide]] (friend)
+-  (friend)
 - [[Shadow touched Communities]] (colleague)
 - [[Original Glaucus]] (rival)
 ---

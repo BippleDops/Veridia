@@ -1,8 +1,8 @@
 ---
+aliases: ["Magnus Stormwind", "magnus stormwind", "Stormwind Magnus"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -71,8 +71,6 @@ Merchant family that lost everything to pirates. Years ago, they found an ancien
 ### Skills
 Investigation, Deception
 
-
-
 ## Possessions
 - 72 gold pieces
 - Set of thieves' tools
@@ -86,7 +84,6 @@ Investigation, Deception
 
 ---
 *Generated: 2025-08-15T03:21:04.027Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

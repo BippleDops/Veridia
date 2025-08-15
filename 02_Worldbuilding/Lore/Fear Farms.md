@@ -36,7 +36,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -82,7 +82,7 @@ Fear Farms is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of Fear Farms as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Fear Farms.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -102,3 +102,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 - A corpse reveals a betrayal about the government
 - A letter reveals a conspiracy about the cult
+
+## References
+
+- [[The Restoration Movement]]
+- [[Aquabyssos - Session 05 - Descent into Darkness]]
+- [[Evidence Chain Analysis]]
+- [[The Restoration Movement (D&D_References)]]
+- [[The Seven Shards (D&D_References)]]
+- [[The Seven Shards 3 (D&D_References)]]

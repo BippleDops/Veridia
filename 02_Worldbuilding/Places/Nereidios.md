@@ -61,7 +61,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -132,7 +132,7 @@ The scholars discovered their reality is itself being written. The Infinite Arch
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### [[[[Random Encounter]]s]] (d6)
+### [[Random Encounter|[[Random Encounter]]s]] (d6)
 
 1. Aggressive autobiography trying to rewrite passersby
 2. Swarm of punctuation marks escaped from grammar prison
@@ -169,20 +169,17 @@ Nereidios is a notable location characterized by its unique features and strateg
 ### Founding
 Nereidios was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
-
 
 ## Connections
 - **North**: Trade road to neighboring settlement
@@ -199,8 +196,6 @@ Ongoing situations affecting Nereidios:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -237,3 +232,12 @@ Ongoing situations affecting Nereidios:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Comprehensive-World-Connection-Guide]]
+- [[Crystallium]]
+- [[The Floating Markets of Nereidios]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide (D&D_References)]]
+- [[Crystallium (D&D_References)]]

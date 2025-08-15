@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Ashford the Seeker", "ewan ashford the seeker", "Ewan Ashford Seeker", "Seeker the Ashford Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Ashford the Seeker
 
 *Half-Elf Wizard (Adventurers), Age 45, Female*
@@ -47,7 +53,6 @@ Searching for a legendary treasure their parent died seeking A chance encounter 
 - **Status**: One-sided affection
 - **History**: United by common enemy
 
-
 ### Zephyr Brightblade the Bold (Personal - Nemesis)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
@@ -56,7 +61,6 @@ Searching for a legendary treasure their parent died seeking A chance encounter 
 ### Cedric Crystalbrook the Guardian (Criminal - Accomplice)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Is from the future

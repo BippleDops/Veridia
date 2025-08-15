@@ -191,7 +191,7 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[Mirror Breaking Crystals]] (colleague)
+- [[Assets Portraits Portrait NPC Mirror Breaking Crystals Mirror Breaking Crystals.svg|Mirror Breaking Crystals]] (colleague)
 - [[The Depth Wardens]] (enemy)
 - [[04_Resources_Assets_Symbols_symbol-heraldry-elara-crystalline-elara-crystalline.svg]] (colleague)
 ---
@@ -206,3 +206,7 @@ Member of House Dragonblood - Trait: prophecy
 - **Rival**: [[Watch Captain Roderick Shieldbreaker]]
 - **Creditor**: [[Portrait NPC Archdruid Thornweaver V2 Archdruid Thornweaver.svg]]
 - **Creditor**: [[Assets Locations Location City Harbor Pilot Captain Storm Skyreacher Harbor Pilot Captain Storm Skyreacher.svg]]
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-elara-crystalline-elara-crystalline.svg]]

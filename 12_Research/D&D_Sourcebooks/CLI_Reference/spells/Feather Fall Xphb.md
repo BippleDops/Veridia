@@ -95,3 +95,25 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Githzerai Monk Xmm]]
+- [[Githzerai Psion Xmm]]
+- [[Githzerai Zerth Xmm]]
+- [[githzerai-monk-xmm (aberration)]]
+- [[githzerai-psion-xmm (aberration)]]
+- [[githzerai-zerth-xmm (aberration)]]
+- [[Aarakocra Aeromancer Xmm]]
+- [[aarakocra-aeromancer-xmm (elemental)]]
+- [[Quaggoth Thonot Xmm]]
+- [[quaggoth-thonot-xmm (monstrosity)]]
+- [[aerisi-kalinoth-pota (npc)]]
+- [[npc - Aerisi Kalinoth Pota]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Balloon Pack Pota]]
+- [[Ring of Elemental Command Air Xdmg]]
+- [[balloon-pack-pota (items)]]
+- [[ring-of-elemental-command-air-xdmg (items)]]

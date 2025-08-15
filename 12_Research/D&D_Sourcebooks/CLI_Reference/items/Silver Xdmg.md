@@ -71,3 +71,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Horn of Valhalla Xdmg]]
+- [[horn-of-valhalla-xdmg (items)]]
+- [[Blessing of Valhalla Xdmg]]
+- [[blessing-of-valhalla-xdmg (rewards)]]
+- [[Armaments Rare Xdmg]]
+- [[Magic Item Table G]]
+- [[Random Magic Items Armaments]]
+- [[Random Magic Items Relics]]
+- [[Relics Rare Xdmg]]
+- [[Trade Goods Xdmg]]
+- [[armaments-rare-xdmg (tables)]]
+- [[magic-item-table-g (tables)]]
+- [[random-magic-items-armaments (tables)]]
+- [[random-magic-items-relics (tables)]]
+- [[relics-rare-xdmg (tables)]]
+- [[trade-goods-xdmg (tables)]]

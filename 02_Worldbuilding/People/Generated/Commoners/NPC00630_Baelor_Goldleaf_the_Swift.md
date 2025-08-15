@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Goldleaf the Swift", "baelor goldleaf the swift", "Baelor Goldleaf Swift", "Swift the Goldleaf Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Goldleaf the Swift
 
 *Tabaxi Fisher (Commoners), Age 77, Female*
@@ -36,22 +42,18 @@ Survivor of a disaster that destroyed their village They recently discovered a s
 - **Short Term**: Find missing person
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Jorah Proudmore the Redeemed (Personal - Love interest)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Aeliana Ironforge the Strong (Family - Parent)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
 
-
 ### Orion Grimholt the Swift (Personal - Ex-lover)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Witnessed a noble's crime

@@ -126,3 +126,10 @@ improvements: 20
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Underwater Breathing]]
+- [[Commander Typhoon Blackheart (Places)]]
+- [[Emergency Life Support Research Foundation]]
+- [[The Depth Market]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Thornweave the Lost", "baelor thornweave the lost", "Baelor Thornweave Lost", "Lost the Thornweave Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Thornweave the Lost
 
 *Goliath Bard (Adventurers), Age 31, Non-binary*
@@ -42,16 +48,13 @@ Accidentally gained powers and learning to control them They're being blackmaile
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
 
-
 ### Thalia Jadeclaw the Cunning (Professional - Employer)
 - **Status**: Professional only
 - **History**: United by common enemy
 
-
 ### Ysara Crystalbrook the Scholar (Criminal - Target)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ### Drusilla Crystalbrook the Wise (Personal - Ex-lover)
 - **Status**: Secretly hostile

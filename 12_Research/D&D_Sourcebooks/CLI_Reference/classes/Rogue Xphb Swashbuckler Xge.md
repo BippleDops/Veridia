@@ -143,3 +143,27 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Rogue Xphb Arcane Trickster Xphb]]
+- [[Rogue Xphb Mastermind Xge]]
+- [[Rogue Xphb Thief Xphb]]
+- [[rogue-xphb-arcane-trickster-xphb (classes)]]
+- [[rogue-xphb-mastermind-xge (classes)]]
+- [[rogue-xphb-swashbuckler-xge (classes)]]
+- [[rogue-xphb-thief-xphb (classes)]]
+- [[Assign Ability Scores Standard Array by]]
+- [[Choose a Class Class Overview Xphb]]
+- [[Classes Phb]]
+- [[Level 1 Hit Points by Class Xphb]]
+- [[Multiclassing Prerequisites Phb]]
+- [[Multiclassing Proficiencies Phb]]
+- [[assign-ability-scores-standard-array-by-class-xphb]]
+- [[choose-a-class-class-overview-xphb (tables)]]
+- [[classes-phb (tables)]]
+- [[level-1-hit-points-by-class-xphb (tables)]]
+- [[multiclassing-prerequisites-phb (tables)]]
+- [[multiclassing-proficiencies-phb (tables)]]
+- [[Spell Points]]
+- [[spell-points (variant-rules)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Brightblade the Wise", "solas brightblade the wise", "Solas Brightblade Wise", "Wise the Brightblade Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Brightblade the Wise
 
 *Dragonborn Fisher (Commoners), Age 39, Female*
@@ -36,22 +42,18 @@ Grew up in poverty but discovered a talent that might change everything A family
 - **Short Term**: Complete current contract
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Xander Goldleaf the Fallen (Personal - Nemesis)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Orion Blackstone the Guardian (Professional - Partner)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
 
-
 ### Pyria Proudmore the Swift (Family - Sibling)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Can hear the thoughts of others

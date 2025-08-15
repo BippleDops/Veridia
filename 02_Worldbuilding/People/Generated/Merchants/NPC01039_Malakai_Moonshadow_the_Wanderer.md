@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Moonshadow the Wanderer", "malakai moonshadow the wanderer", "Malakai Moonshadow Wanderer", "Wanderer the Moonshadow Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Moonshadow the Wanderer
 
 *Firbolg Trader (Merchants), Age 23, Male*
@@ -36,27 +42,22 @@ Built their business from nothing through cunning and hard work They've been mar
 - **Short Term**: Find missing person
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Nerys Goldleaf the Wanderer (Family - Cousin)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Orion Ashford the Wise (Professional - Partner)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
-
 
 ### Thalia Underhill the Strong (Criminal - Handler)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
 
-
 ### Branwen Goldleaf the Guardian (Family - Child)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Killed previous business owner

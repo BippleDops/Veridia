@@ -221,3 +221,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A map reveals a conspiracy about a local noble
 - A letter reveals a conspiracy about a local noble
 - Strange accidents suggest a curse
+
+## References
+
+- [[Death Tyrant Xmm (undead)]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[Underdark Encounters Levels 1116 Xge]]
+- [[Underdark Encounters Levels 1720 Xge]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]
+- [[underdark-encounters-levels-1116-xge (tables)]]
+- [[underdark-encounters-levels-1720-xge (tables)]]

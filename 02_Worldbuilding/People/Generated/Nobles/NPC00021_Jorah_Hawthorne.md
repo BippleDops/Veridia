@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Hawthorne", "jorah hawthorne", "Hawthorne Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Hawthorne
 
 *Halfling Courtier (Nobles), Age 71, Non-binary*
@@ -36,22 +42,18 @@ Last survivor of a fallen house, seeking to restore family honor An old debt has
 - **Short Term**: Make this month's payment
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Malakai Goldleaf (Family - Sibling)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
 
-
 ### Aldric Zephyrblade (Personal - Nemesis)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Dara Moonshadow (Political - Puppet)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
-
 
 ### Corvus Oakenshield (Criminal - Informant)
 - **Status**: Secretly hostile

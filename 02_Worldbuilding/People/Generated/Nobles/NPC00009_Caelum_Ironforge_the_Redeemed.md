@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Ironforge the Redeemed", "caelum ironforge the redeemed", "Caelum Ironforge Redeemed", "Redeemed the Ironforge Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Ironforge the Redeemed
 
 *Elf Noble (Nobles), Age 22, Non-binary*
@@ -36,7 +42,6 @@ Exiled from their homeland, trying to rebuild their power base Strange abilities
 - **Short Term**: Recruit new members
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Fiora Darkwater the Wanderer (Professional - Mentor)
 - **Status**: Complicated history
@@ -47,16 +52,13 @@ Exiled from their homeland, trying to rebuild their power base Strange abilities
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
 
-
 ### Cedric Darkwater (Professional - Mentor)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Caelum Proudmore the Fallen (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Secretly funding the rebellion

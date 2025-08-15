@@ -27,6 +27,10 @@ Further information about this topic will be developed as the campaign progresse
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*
+
+## References
+
+- [[Assets Locations Location City Futures Master Economic Sense Futures Master Economic Sense.svg]]
+- [[Assets Locations Location City Scout Captain Vera Deepwatch Scout Captain Vera Deepwatch.svg]]

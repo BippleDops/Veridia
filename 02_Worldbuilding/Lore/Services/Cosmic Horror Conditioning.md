@@ -95,3 +95,7 @@ Mentioned in The Hidden Prophecy of Shadows
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Services Cosmic Horror Conditioning]]

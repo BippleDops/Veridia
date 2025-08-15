@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Ravenheart the Guardian", "zephyr ravenheart the guardian", "Zephyr Ravenheart Guardian", "Guardian the Ravenheart Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Ravenheart the Guardian
 
 *Elf Baker (Commoners), Age 34, Male*
@@ -36,22 +42,18 @@ Runaway from an arranged marriage, starting a new life A prophetic dream has bee
 - **Short Term**: Gather information
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Aldric Youngblood the Lost (Political - Puppet)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Dara Hawthorne the Scholar (Professional - Mentor)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Thalia Blackstone the Broken (Family - Parent)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Knows location of ancient treasure

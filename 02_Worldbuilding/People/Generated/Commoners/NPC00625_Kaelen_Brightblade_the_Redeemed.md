@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Brightblade the Redeemed", "kaelen brightblade the redeemed", "Kaelen Brightblade Redeemed", "Redeemed the Brightblade Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Brightblade the Redeemed
 
 *Elf Blacksmith (Commoners), Age 22, Female*
@@ -47,21 +53,17 @@ Survivor of a disaster that destroyed their village They've fallen in love with 
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
 
-
 ### Nerys Brightblade the Cunning (Family - Child)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
-
 
 ### Zephyr Ravenheart the Swift (Political - Ally)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Qadim Underhill the Strong (Family - Sibling)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Witnessed a noble's crime

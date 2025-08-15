@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Winterborn the Strong", "malakai winterborn the strong", "Malakai Winterborn Strong", "Strong the Winterborn Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Winterborn the Strong
 
 *Genasi Cultist (Villains), Age 34, Male*
@@ -13,7 +19,6 @@
 Average height and stocky, with Shaved red hair and Blue eyes. Freckled skin. Intricate tattoos covering arms.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Always hungry and eating something
@@ -47,7 +52,6 @@ Betrayed by those they trusted, now seeking revenge on the world They've been ma
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Orion Quicksilver the Lost (Personal - Ex-lover)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
@@ -57,11 +61,9 @@ Betrayed by those they trusted, now seeking revenge on the world They've been ma
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
 
-
 ### Felicia Keenblade the Wanderer (Personal - Nemesis)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Knows how the world will end

@@ -1,3 +1,9 @@
+---
+aliases: ["Venomous Crossbow of Accuracy", "venomous crossbow of accuracy", "Accuracy of Crossbow Venomous"]
+tags: [item, equipment]
+type: item
+---
+
 # Venomous Crossbow of Accuracy
 
 *Weapons, Very Rare*
@@ -16,8 +22,6 @@ A venomous crossbow made of crystallized magic
 - Can strike ethereal creatures
 - Can strike ethereal creatures
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -32,7 +36,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.371Z*

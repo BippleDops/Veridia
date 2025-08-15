@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Ashford the Scholar", "jorah ashford the scholar", "Jorah Ashford Scholar", "Scholar the Ashford Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Ashford the Scholar
 
 *Human Cleric (Adventurers), Age 37, Male*
@@ -36,17 +42,14 @@ Searching for a legendary treasure their parent died seeking A family member's d
 - **Short Term**: Gather information
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Thalia Hawthorne the Fallen (Criminal - Informant)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Brenna Jadeclaw the Broken (Personal - Ex-lover)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ### Urien Grimholt the Wise (Professional - Employer)
 - **Status**: On the verge of collapse
@@ -57,16 +60,13 @@ Searching for a legendary treasure their parent died seeking A family member's d
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Felicia Moonshadow the Wanderer (Family - Sibling)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Corvus Ironwood the Cunning (Political - Opposition)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Carries a world-ending artifact

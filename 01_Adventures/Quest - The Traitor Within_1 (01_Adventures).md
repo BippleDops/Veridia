@@ -39,7 +39,6 @@ improvements: 20
 - Time pressure
 - Moral dilemmas
 
-
 > [!figure] Portrait
 
 # Quest - The Traitor Within
@@ -107,7 +106,6 @@ Sensitive military intelligence has been leaked to enemy forces, resulting in fa
 
 ## Quest Giver
 **General Marcus Ironward** - Veteran military commander torn between loyalty to his officers and duty to protect his soldiers. Offers 5,000 gp and military commendations for successfully identifying the traitor.
-
 
 ## Objectives
 ### Primary
@@ -319,7 +317,6 @@ Legends speak of Quest   The Traitor Within as a nexus where past and present co
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Time Limit
 - **Deadline**: When it must be completed

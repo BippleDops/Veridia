@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Thornweave the Broken", "gavril thornweave the broken", "Gavril Thornweave Broken", "Broken the Thornweave Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Thornweave the Broken
 
 *Human Shopkeeper (Merchants), Age 68, Male*
@@ -36,27 +42,22 @@ Built their business from nothing through cunning and hard work A prophetic drea
 - **Short Term**: Complete current contract
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Malakai Proudmore the Fallen (Personal - Ex-lover)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Gavril Brightblade the Bold (Professional - Employee)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ### Aldric Lightbringer the Strong (Professional - Partner)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Solas Darkwater the Cunning (Political - Patron)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Smuggles illegal magical items

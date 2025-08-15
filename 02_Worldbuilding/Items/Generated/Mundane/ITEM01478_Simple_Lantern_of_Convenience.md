@@ -1,3 +1,9 @@
+---
+aliases: ["Simple Lantern of Convenience", "simple lantern of convenience", "Convenience of Lantern Simple"]
+tags: [item, equipment]
+type: item
+---
+
 # Simple Lantern of Convenience
 
 *Mundane, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A simple lantern showing signs of age
 - Works perfectly always
 - Alerts to danger
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -30,7 +34,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.491Z*

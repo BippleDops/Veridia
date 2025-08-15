@@ -180,7 +180,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[Ambassador Korvin Blacktide]] (rival)
-- [[Sister Thalassa the Depth Touched]] (enemy)
+- [[Portrait NPC Sister Thalassa the Depth Touched Sister Thalassa the Depth Touched.svg|Sister Thalassa the Depth Touched]] (enemy)
 - [[Deep Mother Priestess Sira]] (enemy)
 ---
 *Tags*: #npc #contact #worldbuilding

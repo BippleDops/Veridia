@@ -211,3 +211,8 @@ Mentioned in The Second Prophecy of Shadows
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Master_Spell_Compendium]]

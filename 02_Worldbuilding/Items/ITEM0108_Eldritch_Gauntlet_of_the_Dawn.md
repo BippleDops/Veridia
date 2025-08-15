@@ -1,4 +1,5 @@
 ---
+aliases: ["Eldritch Gauntlet of the Dawn", "eldritch gauntlet of the dawn", "Eldritch Gauntlet of Dawn", "Dawn the of Gauntlet Eldritch"]
 tags: [generated]
 id: ITEM0108
 created: 2025-08-15T04:09:51.112Z
@@ -19,8 +20,6 @@ Crafted from crystal with ancient symbols, in pristine condition. It emanates a 
 
 ## Quirk
 *Occasionally speaks in ancient tongue*
-
-
 
 ## History
 This item was forged during the War of Shadows centuries ago. It has passed through many hands, each leaving their mark upon its destiny.

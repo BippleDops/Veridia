@@ -88,3 +88,7 @@ improvements: 20
 - A document has gone missing and chaos spreads
 - A stranger needs help investigating before winter
 - Someone is blackmailing an heir for love
+
+## References
+
+- [[Location City Diplomatic Protocol Center V1 Diplomatic Protocol Center.svg]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Dawnstrider the Swift", "felicia dawnstrider the swift", "Felicia Dawnstrider Swift", "Swift the Dawnstrider Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Dawnstrider the Swift
 
 *Dragonborn Rogue (Adventurers), Age 28, Male*
@@ -13,7 +19,6 @@
 Short and athletic, with Shaved blonde hair and Blue eyes. Tan skin. Prominent scar across the face.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Speaks to inanimate objects; Collects unusual and worthless objects; Incredibly optimistic despite evidence
@@ -42,7 +47,6 @@ Running from a dark past that won't stay buried They recently discovered a secre
 - **Status**: Complicated history
 - **History**: United by common enemy
 
-
 ### Fiora Winterborn the Scholar (Family - Cousin)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
@@ -51,7 +55,6 @@ Running from a dark past that won't stay buried They recently discovered a secre
 ### Qadim Grimholt the Guardian (Professional - Employee)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Is from the future

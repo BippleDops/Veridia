@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Youngblood", "fiora youngblood", "Youngblood Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Youngblood
 
 *Tiefling Courtier (Nobles), Age 21, Non-binary*
@@ -36,12 +42,10 @@ Last survivor of a fallen house, seeking to restore family honor They're being b
 - **Short Term**: Sabotage competition
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Faelyn Zephyrblade the Scholar (Criminal - Accomplice)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ### Fiora Dawnstrider the Swift (Family - Parent)
 - **Status**: On the verge of collapse
@@ -52,11 +56,9 @@ Last survivor of a fallen house, seeking to restore family honor They're being b
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Gavril Quicksilver the Broken (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

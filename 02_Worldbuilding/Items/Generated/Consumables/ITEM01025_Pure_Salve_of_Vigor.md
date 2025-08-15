@@ -1,3 +1,9 @@
+---
+aliases: ["Pure Salve of Vigor", "pure salve of vigor", "Vigor of Salve Pure"]
+tags: [item, equipment]
+type: item
+---
+
 # Pure Salve of Vigor
 
 *Consumables, Uncommon*
@@ -14,8 +20,6 @@ A pure salve glowing softly
 - Remove one condition
 - Remove one condition
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -30,7 +34,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.449Z*

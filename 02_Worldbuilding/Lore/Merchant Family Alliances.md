@@ -48,7 +48,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -136,7 +136,7 @@ The merchant families of Aquabyssos operate through a complex web of trade partn
 - **House Deepcurrent:** Political protection in exchange for exclusive services
 - **Pressure Engineering Guild:** Technical partnership for equipment development
 - **[[Academy of Depths]]:** Research collaboration on deep-sea technologies
-- **[[The [[Pearl Divers]] Guil]]d:** Exclusive harvesting agreements
+- **[[Pearl Divers|The [[Pearl Divers]] Guil]]d:** Exclusive harvesting agreements
 
 **Secret Partnerships:**
 - **[[The Sunken Observatory]]:** Hidden research into pre-sinking civilization technology
@@ -146,7 +146,7 @@ The merchant families of Aquabyssos operate through a complex web of trade partn
 
 ---
 
-### **[[The [[Silverscale Consortium]]]]**
+### **[[Silverscale Consortium|The [[Silverscale Consortium]]]]**
 
 *The [[Memory Merchants]]*
 
@@ -194,8 +194,8 @@ The merchant families of Aquabyssos operate through a complex web of trade partn
 
 **Alliance Network:**
 - **House Ironwill:** Military tradition partnership, officer exchange programs
-- **The Sky [[Knight]] Orders:** [[Aerial Combat]] equipment and training services
-- **[[[[Border Patrol Unit]]s]]:** Exclusive supply contracts for frontier defense
+- **The Sky [[Knight]] Orders:** [[Aerial_Combat|Aerial Combat]] equipment and training services
+- **[[Border Patrol Unit|[[Border Patrol Unit]]s]]:** Exclusive supply contracts for frontier defense
 - **Foreign Allied Nations:** International military trade agreements
 
 **Secret Operations:**
@@ -283,7 +283,7 @@ The merchant families of Aquabyssos operate through a complex web of trade partn
 - **All Major Trading Houses:** Regular intelligence purchasers
 - **[[Noble Houses]]:** Political information and family secrets
 - **[[Foreign Governments]]:** International intelligence exchange
-- **[[Criminal [[Organization]]s]]:** Underground information markets
+- **[[Organization|Criminal [[Organization]]s]]:** Underground information markets
 
 **Operational Methods:**
 - **Agent Networks:** Spies embedded throughout merchant and noble society
@@ -444,7 +444,7 @@ The merchant families of Aquabyssos operate through a complex web of trade partn
    - **Cultural Bridge:** Military tradition meets academic sophistication
 
 **Love Matches with Business Consequences:**
-1. **[[Memory Merchant Valeria Siltweave]] + [[Information Broker [[Whisper Goldtongue]]]]**
+1. **[[Memory Merchant Valeria Siltweave]] + [[Whisper Goldtongue|Information Broker [[Whisper Goldtongue]]]]**
    - **Personal Connection:** Shared fascination with hidden knowledge
    - **Business Conflict:** Competing for same information sources
    - **Resolution Strategy:** Territorial agreements and specialty divisions
@@ -751,7 +751,7 @@ Merchant Family Alliances is a undersea element of the setting, known for biolum
 
 Legends speak of Merchant Family Alliances as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Merchant Family Alliances.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 

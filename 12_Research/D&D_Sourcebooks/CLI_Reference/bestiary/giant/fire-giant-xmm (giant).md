@@ -146,3 +146,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Fire Giant Xmm]]
+- [[Monsters by Habitat Mountain Monsters Xmm]]
+- [[Pets Beholder Greater Minions Vgm]]
+- [[monsters-by-habitat-mountain-monsters-xmm (tables)]]
+- [[pets-beholder-greater-minions-vgm (tables)]]

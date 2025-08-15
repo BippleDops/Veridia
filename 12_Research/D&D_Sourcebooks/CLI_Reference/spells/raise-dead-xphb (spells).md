@@ -98,7 +98,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -111,3 +110,22 @@ Contextual improvement based on 12_Research
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Deva Xmm]]
+- [[Planetar Xmm]]
+- [[deva-xmm (celestial)]]
+- [[planetar-xmm (celestial)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Grave Domain Xge]]
+- [[cleric-xphb-grave-domain-xge (classes)]]
+- [[cleric-xphb-grave-domain-xge 2 (classes)]]
+- [[Cauldron of Rebirth Xdmg]]
+- [[cauldron-of-rebirth-xdmg (items)]]
+- [[Dark Gift of Sykane the Soul Hungerer Cos]]
+- [[dark-gift-of-sykane-the-soul-hungerer-cos (rewards)]]
+- [[Gentle Repose Xphb]]
+- [[gentle-repose-xphb (spells)]]

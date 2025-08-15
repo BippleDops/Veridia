@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Blackstone the Swift", "drusilla blackstone the swift", "Drusilla Blackstone Swift", "Swift the Blackstone Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Blackstone the Swift
 
 *Aasimar Heir (Nobles), Age 62, Female*
@@ -36,17 +42,14 @@ Recently elevated to nobility through service, still learning courtly ways An ol
 - **Short Term**: Avoid the authorities
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Malakai Frostwhisper the Cunning (Personal - Love interest)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Aldric Lightbringer (Family - Sibling)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
-
 
 ### Pyria Grimholt the Bold (Personal - Ex-lover)
 - **Status**: On the verge of collapse

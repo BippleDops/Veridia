@@ -70,3 +70,27 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Item Properties]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Fighter Xphb]]
+- [[Rogue Xphb]]
+- [[fighter-xphb (classes)]]
+- [[rogue-xphb (classes)]]
+- [[item-properties (CLI_Reference)]]
+- [[Crusaders Shortsword Cos]]
+- [[Dawnbringer Oota]]
+- [[crusaders-shortsword-cos (items)]]
+- [[dawnbringer-oota (items)]]
+- [[Elf Eladrin Dmg]]
+- [[Gith Githyanki Mtf]]
+- [[elf-eladrin-dmg (races)]]
+- [[gith-githyanki-mtf (races)]]
+- [[Weapons Phb]]
+- [[Weapons Xphb]]
+- [[weapons-phb (tables)]]
+- [[weapons-xphb (tables)]]

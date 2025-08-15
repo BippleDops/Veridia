@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-azure-prophet-nerissa-the-azure-prophet-nerissa.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -250,7 +248,6 @@ Member of House Dragonblood - Trait: prophecy
 - 20% middle class
 - 79% working poor
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -286,3 +283,9 @@ Member of House Dragonblood - Trait: prophecy
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Quest - The Convergence Crisis]]
+- [[Brother Matthias the Amber Bearer]]
+- [[Brother Matthias the Amber Bearer (D&D_Statblocks)]]

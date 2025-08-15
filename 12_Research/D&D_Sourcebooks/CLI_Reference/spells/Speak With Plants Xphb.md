@@ -109,3 +109,19 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Lizardfolk Geomancer Xmm]]
+- [[lizardfolk-geomancer-xmm (elemental)]]
+- [[Bullywug Bog Sage Xmm]]
+- [[bullywug-bog-sage-xmm (fey)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Staff of the Woodlands Xdmg]]
+- [[Stonespeaker Crystal Oota]]
+- [[staff-of-the-woodlands-xdmg (items)]]
+- [[stonespeaker-crystal-oota (items)]]
+- [[Vicious Vine Xdmg]]
+- [[vicious-vine-xdmg (traps-hazards)]]

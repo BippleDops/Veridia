@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Darkwater the Scholar", "hestara darkwater the scholar", "Hestara Darkwater Scholar", "Scholar the Darkwater Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Darkwater the Scholar
 
 *Human Assassin (Villains), Age 71, Male*
@@ -36,12 +42,10 @@ Born into evil but questioning their path They're being blackmailed by someone f
 - **Short Term**: Avoid the authorities
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Corvus Blackstone the Redeemed (Professional - Employer)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
-
 
 ### Delara Silverleaf the Guardian (Family - Cousin)
 - **Status**: Strained but maintaining
@@ -52,11 +56,9 @@ Born into evil but questioning their path They're being blackmailed by someone f
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Solas Goldleaf the Broken (Political - Ally)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Was once a renowned hero

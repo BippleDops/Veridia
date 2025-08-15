@@ -51,7 +51,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -98,7 +98,7 @@ improvements: 20
 - Include cultural hypocrisies and double standards
 
 ## Overview
-The Royal Palace is the magnificent seat of power for the Kingdom of [[Aethermoor]], a sprawling complex of interconnected buildings, gardens, and defensive structures. This architectural masterpiece serves as home to the royal family and center of governmental authority. The palace works in close coordination with other key government facilities including the [[Royal Palace of Meridian]], [[[[Throne Room]] - Heart of Palace (D&D_References)]], and the beautiful [[garden]].
+The Royal Palace is the magnificent seat of power for the Kingdom of [[Aethermoor]], a sprawling complex of interconnected buildings, gardens, and defensive structures. This architectural masterpiece serves as home to the royal family and center of governmental authority. The palace works in close coordination with other key government facilities including the [[Royal Palace of Meridian]], [[Throne Room|[[Throne Room]] - Heart of Palace (D&D_References)]], and the beautiful [[garden]].
 
 ### Sensory Immersion: The Seat of Power
 
@@ -142,8 +142,8 @@ The Royal Palace is the magnificent seat of power for the Kingdom of [[Aethermoo
 
 ## Key Personnel
 **Lord Chancellor**: Chief administrator coordinating governmental activities with [[Parliament of Echoes]]
-**Court Wizard**: Magical advisor providing arcane expertise, working with [[Master [[Artificer]]s Guild]]
-**Captain of Guards**: [[Military Command]]er responsible for palace security, coordinating with [[[[Depth Warden]]s]]
+**Court Wizard**: Magical advisor providing arcane expertise, working with [[Artificer|Master [[Artificer]]s Guild]]
+**Captain of Guards**: [[Military Command]]er responsible for palace security, coordinating with [[Depth Warden|[[Depth Warden]]s]]
 **Master of Ceremonies**: Official organizing formal events and protocol in the [[Throne Room - Heart of Palace (D&D_References)]]
 **[[Royal Treasurer]]**: Ficial minister managing kingdom's resources and [[Royal Vault]]
 
@@ -156,7 +156,7 @@ The Royal Palace is the magnificent seat of power for the Kingdom of [[Aethermoo
 
 ## Political Functions
 **Legislative Assembly**: [[Noble Council]] advising on laws and policies, working with [[Parliament of Echoes]]
-**Judicial Court**: Royal justice system for serious crimes, coordinating with [[[[Coral]] Courts]]
+**Judicial Court**: Royal justice system for serious crimes, coordinating with [[Coral|[[Coral]] Courts]]
 **Diplomatic Reception**: [[International Relations]] and treaty negotiations with [[Aquabyssos]]
 **Military Command**: Strategic planning and defense coordination with [[Depth Wardens]]
 **[[Economic Planning]]**: Trade policy and ficial decision-making affecting [[Port Meridian]]
@@ -175,13 +175,11 @@ The Royal Palace is the magnificent seat of power for the Kingdom of [[Aethermoo
 **War Room**: Strategic planning center for military operations
 **Royal Gardens**: Peaceful retreat areas with magical landscaping including the [[garden]]
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -217,8 +215,8 @@ The Royal Palace is the magnificent seat of power for the Kingdom of [[Aethermoo
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
-The Royal Palace provides rich opportunities for political intrigue, diplomatic adventures, and court-based storylines. Use the complex hierarchy and numerous [[Npc]]s to create multilayered plots where player actions have significant political consequences affecting the entire kingdom. Connect adventures to other key locations like [[Port Meridian Harbor]], [[The [[Shadow Markets]]]], and [[Parliament of Echoes]] for comprehensive political campaigns.
+## [[DM_Notes|DM Notes]]
+The Royal Palace provides rich opportunities for political intrigue, diplomatic adventures, and court-based storylines. Use the complex hierarchy and numerous [[Npc]]s to create multilayered plots where player actions have significant political consequences affecting the entire kingdom. Connect adventures to other key locations like [[Port Meridian Harbor]], [[Shadow Markets|The [[Shadow Markets]]]], and [[Parliament of Echoes]] for comprehensive political campaigns.
 
 ## Player-Facing Summary
 
@@ -247,7 +245,6 @@ The Royal Palace is a notable location characterized by its unique features and 
 
 ### Founding
 The Royal Palace was established in the distant past, growing from humble beginnings to its current state.
-
 
 ## Demographics
 - **Population**: ~1,000
@@ -305,7 +302,6 @@ Ongoing situations affecting The Royal Palace:
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -341,3 +337,17 @@ Ongoing situations affecting The Royal Palace:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Aetheric Wind Songs]]
+- [[The Royal Palace - Aquabyssos]]
+- [[Depth Wardens]]
+- [[Royal Palace of Meridian]]
+- [[Royal Palace]]
+- [[Aetheric Wind Songs (D&D_References)]]
+- [[Depth Wardens (D&D_References)]]
+- [[Goldwave Manor (D&D_References)]]
+- [[Goldwave Manor 3 (D&D_References)]]
+- [[Port Meridian - Market Square (D&D_References)]]
+- [[Port Meridian Harbor (D&D_References)]]

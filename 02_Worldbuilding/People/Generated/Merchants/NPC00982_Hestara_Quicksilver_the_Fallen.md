@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Quicksilver the Fallen", "hestara quicksilver the fallen", "Hestara Quicksilver Fallen", "Fallen the Quicksilver Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Quicksilver the Fallen
 
 *Halfling Appraiser (Merchants), Age 39, Non-binary*
@@ -36,22 +42,18 @@ Uses their business as cover for other activities They've made a deal they're be
 - **Short Term**: Make this month's payment
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Corvus Moonshadow the Fallen (Personal - Love interest)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
 
-
 ### Alaric Xendar the Guardian (Personal - Nemesis)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Zephyr Jadeclaw the Scholar (Professional - Employee)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Is actually a spy for foreign power

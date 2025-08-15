@@ -237,3 +237,8 @@ Member of House Lionblood - Trait: divine blood
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-marcus-ironwill-captain-marcus-ironwill.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-duchess-marina-ever-drowning-duchess-marina-ever-drowning.svg]]

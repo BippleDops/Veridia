@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Dawnstrider the Guardian", "hilda dawnstrider the guardian", "Hilda Dawnstrider Guardian", "Guardian the Dawnstrider Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Dawnstrider the Guardian
 
 *Elf Blacksmith (Commoners), Age 47, Non-binary*
@@ -13,7 +19,6 @@
 Short and heavyset, with Short and neat black hair and Heterochromic eyes. Tan skin. Constantly changing hair color.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Never uses people's real names; Always speaks in metaphors and riddles
@@ -36,12 +41,10 @@ Family has worked the same trade for generations, but times are changing A famil
 - **Short Term**: Avoid the authorities
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Hilda Ironwood the Fallen (Criminal - Accomplice)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
-
 
 ### Elric Lightbringer the Mystic (Professional - Rival)
 - **Status**: Strained but maintaining

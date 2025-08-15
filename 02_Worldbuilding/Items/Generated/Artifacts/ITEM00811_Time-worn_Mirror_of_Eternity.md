@@ -1,3 +1,9 @@
+---
+aliases: ["Time-worn Mirror of Eternity", "time-worn mirror of eternity", "Eternity of Mirror Time-worn"]
+tags: [item, equipment]
+type: item
+---
+
 # Time-worn Mirror of Eternity
 
 *Artifacts, Artifact (requires attunement)*
@@ -16,8 +22,6 @@ A time-worn mirror radiating otherworldly power
 - Immunity to charm
 - Grant true sight
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -32,7 +36,6 @@ Priceless
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.428Z*

@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-lady-seraphina-goldleaf-lady-seraphina-goldleaf.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -183,7 +181,6 @@ Mentioned in The First Prophecy of Winds
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -253,3 +250,8 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City Forge Master Korax Hammerdeep Forge Master Korax Hammerdeep.svg]]
+- [[Assets Locations Location City the Resonance Cathedral V1 the Resonance Cathedral.svg]]

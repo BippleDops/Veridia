@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Stormwind the Guardian", "delara stormwind the guardian", "Delara Stormwind Guardian", "Guardian the Stormwind Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Stormwind the Guardian
 
 *Half-Orc Appraiser (Merchants), Age 44, Non-binary*
@@ -47,21 +53,17 @@ Inherited a failing business and turned it around They've made a deal they're be
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Ysara Zephyrblade the Guardian (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
-
 
 ### Aeliana Frostwhisper the Guardian (Political - Ally)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Qadim Ravenheart the Wise (Family - Child)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
-
 
 ### Gareth Darkwater the Broken (Personal - Nemesis)
 - **Status**: Mutually beneficial

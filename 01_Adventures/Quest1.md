@@ -15,15 +15,12 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 # Quest1
-
 
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -123,7 +120,6 @@ Further information about this topic will be developed as the campaign progresse
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## Hooks
 - **Personal**: Character connection
 - **Professional**: Hired for the job
@@ -183,3 +179,8 @@ Further information about this topic will be developed as the campaign progresse
 | 4  | Option D |
 | 5  | Option E |
 | 6  | Option F |
+
+## References
+
+- [[Location_Template_1 (09_Templates)]]
+- [[NPC_Template_1 (09_Templates)]]

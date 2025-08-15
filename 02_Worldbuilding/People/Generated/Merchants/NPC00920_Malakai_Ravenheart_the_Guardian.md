@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Ravenheart the Guardian", "malakai ravenheart the guardian", "Malakai Ravenheart Guardian", "Guardian the Ravenheart Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Ravenheart the Guardian
 
 *Firbolg Trader (Merchants), Age 39, Non-binary*
@@ -13,7 +19,6 @@
 Tall and muscular, with Dreadlocks brown hair and Black eyes. Fair skin. Gold tooth that glints when smiling.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Laughs at the most inappropriate times; Never backs down from any challenge
@@ -42,7 +47,6 @@ Uses their business as cover for other activities A prophetic dream has been hau
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
 
-
 ### Gavril Ravenheart the Cunning (Family - Parent)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
@@ -52,21 +56,17 @@ Uses their business as cover for other activities A prophetic dream has been hau
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
 
-
 ### Urien Jadeclaw the Scholar (Political - Spy)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ### Hestara Proudmore the Strong (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Hestara Dawnstrider the Broken (Professional - Employer)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Is actually a spy for foreign power

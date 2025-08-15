@@ -37,7 +37,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -95,7 +95,7 @@ Merfolk is a undersea element of the setting, known for bioluminescent glow and 
 
 Legends speak of Merfolk as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Merfolk.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -113,3 +113,18 @@ Different cultures interpret this lore through their own lens, creating variatio
 - A prisoner has gone missing and truth emerges
 - A map reveals ancient history about the government
 - Strange disappearances suggest a portal
+
+## References
+
+- [[Aurelius Goldwave]]
+- [[Investigation Procedures]]
+- [[Thalassius the Wise]]
+- [[Angels and Depths]]
+- [[Port Meridian Harbor]]
+- [[Angels and Depths (D&D_References)]]
+- [[Merfolk Wavebender Xmm]]
+- [[merfolk-wavebender-xmm (elemental)]]
+- [[Monsters by Habitat Coastal Monsters Xmm]]
+- [[Monsters by Habitat Underwater Monsters Xmm]]
+- [[monsters-by-habitat-coastal-monsters-xmm (tables)]]
+- [[monsters-by-habitat-underwater-monsters-xmm (tables)]]

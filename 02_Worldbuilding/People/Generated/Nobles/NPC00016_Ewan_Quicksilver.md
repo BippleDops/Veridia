@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Quicksilver", "ewan quicksilver", "Quicksilver Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Quicksilver
 
 *Firbolg Noble (Nobles), Age 39, Male*
@@ -36,12 +42,10 @@ Secretly adopted into nobility, living in fear of discovery They're being blackm
 - **Short Term**: Complete current contract
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Vesper Youngblood the Bold (Professional - Mentor)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
-
 
 ### Pyria Voidwalker the Strong (Personal - Love interest)
 - **Status**: Blood oath bound
@@ -52,7 +56,6 @@ Secretly adopted into nobility, living in fear of discovery They're being blackm
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Rhiannon Frostwhisper (Personal - Nemesis)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
@@ -61,7 +64,6 @@ Secretly adopted into nobility, living in fear of discovery They're being blackm
 ### Ysara Hawthorne (Family - Spouse)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Actually a bastard with no real claim

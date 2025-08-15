@@ -1,4 +1,5 @@
 ---
+aliases: ["Divine Binding", "divine binding", "Binding Divine"]
 tags: [generated]
 id: SPELL0049_Divine_Binding
 created: 2025-08-15T04:09:51.478Z

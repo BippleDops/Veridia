@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Grimholt the Cunning", "orion grimholt the cunning", "Orion Grimholt Cunning", "Cunning the Grimholt Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Grimholt the Cunning
 
 *Genasi Cultist (Villains), Age 73, Female*
@@ -42,16 +48,13 @@ Born into evil but questioning their path A family member's death has left them 
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
 ### Faelyn Stormwind the Scholar (Family - Parent)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Caelum Winterborn the Risen (Criminal - Fence)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Believes they're saving the world

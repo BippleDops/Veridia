@@ -214,3 +214,7 @@ Mentioned in The First Prophecy of Stars
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-master-curator-pearl-artflow-master-curator-pearl-artflow.svg]]

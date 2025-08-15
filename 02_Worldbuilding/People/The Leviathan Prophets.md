@@ -42,7 +42,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-leviathan-prophets-the-leviathan-prophets.svg)
 
@@ -51,7 +50,6 @@ improvements: 20
 # The Leviathan Prophets
 
 *"When the Great Deep stirs, only those who listen to its whispers shall survive." - First Prophet Thalassa*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -272,7 +270,6 @@ Legends speak of The Leviathan Prophets as a nexus where past and present conver
 
 Member of House Eagleblood - Trait: prophecy
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -308,3 +305,8 @@ Member of House Eagleblood - Trait: prophecy
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Oracle]]
+- [[Oracle (D&D_Statblocks)]]

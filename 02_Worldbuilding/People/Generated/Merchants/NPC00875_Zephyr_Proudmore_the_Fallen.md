@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Proudmore the Fallen", "zephyr proudmore the fallen", "Zephyr Proudmore Fallen", "Fallen the Proudmore Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Proudmore the Fallen
 
 *Human Trader (Merchants), Age 69, Female*
@@ -13,7 +19,6 @@
 Tall and compact, with Dreadlocks brown hair and Amber eyes. Freckled skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Sees doom and gloom everywhere
@@ -36,7 +41,6 @@ Uses their business as cover for other activities Strange abilities have begun m
 - **Short Term**: Recruit new members
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Malakai Keenblade the Seeker (Personal - Nemesis)
 - **Status**: Secretly hostile
@@ -57,11 +61,9 @@ Uses their business as cover for other activities Strange abilities have begun m
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Corvus Silverleaf the Broken (Political - Opposition)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Smuggles illegal magical items

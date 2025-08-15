@@ -80,3 +80,25 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Hermit Xphb]]
+- [[Scribe Xphb]]
+- [[hermit-xphb (backgrounds)]]
+- [[scribe-xphb (backgrounds)]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Diplomats Pack Xphb]]
+- [[Potters Tools Xphb]]
+- [[Priests Pack Xphb]]
+- [[Scholars Pack Xphb]]
+- [[Tinderbox Xphb]]
+- [[diplomats-pack-xphb (items)]]
+- [[potters-tools-xphb (items)]]
+- [[priests-pack-xphb (items)]]
+- [[scholars-pack-xphb (items)]]
+- [[tinderbox-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

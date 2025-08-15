@@ -1,3 +1,9 @@
+---
+aliases: ["Refined Salve of Clarity", "refined salve of clarity", "Clarity of Salve Refined"]
+tags: [item, equipment]
+type: item
+---
+
 # Refined Salve of Clarity
 
 *Consumables, Rare*
@@ -15,8 +21,6 @@ A refined salve swirling with colors
 - Remove one condition
 - Resistance for 10 minutes
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -31,7 +35,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.452Z*

@@ -208,3 +208,7 @@ Key locations marked:
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[Assets Symbols Symbol Heraldry the Great Recognition the Great Recognition.svg]]

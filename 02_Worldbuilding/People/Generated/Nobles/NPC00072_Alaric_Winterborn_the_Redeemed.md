@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Winterborn the Redeemed", "alaric winterborn the redeemed", "Alaric Winterborn Redeemed", "Redeemed the Winterborn Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Winterborn the Redeemed
 
 *Genasi Ambassador (Nobles), Age 38, Female*
@@ -36,27 +42,22 @@ Last survivor of a fallen house, seeking to restore family honor They're being b
 - **Short Term**: Survive until next week
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Felicia Moonshadow (Personal - Love interest)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Caelum Oakenshield (Personal - Best friend)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
-
 
 ### Aeliana Nightfall (Family - Sibling)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
 
-
 ### Nerys Blackstone (Family - Sibling)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Secretly funding the rebellion

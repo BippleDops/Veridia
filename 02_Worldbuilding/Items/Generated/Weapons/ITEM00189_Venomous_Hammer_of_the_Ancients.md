@@ -1,3 +1,9 @@
+---
+aliases: ["Venomous Hammer of the Ancients", "venomous hammer of the ancients", "Venomous Hammer of Ancients", "Ancients the of Hammer Venomous"]
+tags: [item, equipment]
+type: item
+---
+
 # Venomous Hammer of the Ancients
 
 *Weapons, Very Rare (requires attunement)*

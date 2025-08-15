@@ -10,7 +10,7 @@ created: '2025-01-15'
 # Anti Priest us
 
 ## Overview
-This topic is referenced in [[[[Find the [[Grief Bomb]]]] (D&D_Statblocks)]] and other parts of the campaign.
+This topic is referenced in [[Grief Bomb|[[Find the [[Grief Bomb]]]] (D&D_Statblocks)]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
@@ -26,3 +26,9 @@ Further information about this topic will be developed as the campaign progresse
 - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery
+
+## References
+
+- [[The Primordial Vaults]]
+- [[The Primordial Vaults (D&D_References)]]
+- [[Find the Grief Bomb (D&D_Statblocks)]]

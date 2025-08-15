@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Quicksilver the Seeker", "idris quicksilver the seeker", "Idris Quicksilver Seeker", "Seeker the Quicksilver Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Quicksilver the Seeker
 
 *Human Noble (Nobles), Age 46, Non-binary*
@@ -42,7 +48,6 @@ Exiled from their homeland, trying to rebuild their power base They recently dis
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Nerys Crystalbrook (Professional - Employer)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
@@ -51,7 +56,6 @@ Exiled from their homeland, trying to rebuild their power base They recently dis
 ### Drusilla Brightblade the Fallen (Personal - Best friend)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ### Thalia Blackstone (Criminal - Handler)
 - **Status**: Secretly hostile

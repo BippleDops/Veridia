@@ -1,3 +1,9 @@
+---
+aliases: ["Masterwork Tool Kit of Reliability", "masterwork tool kit of reliability", "Reliability of Kit Tool Masterwork"]
+tags: [item, equipment]
+type: item
+---
+
 # Masterwork Tool Kit of Reliability
 
 *Mundane, Uncommon*
@@ -14,8 +20,6 @@ A masterwork tool kit showing signs of age
 - Has hidden compartment
 - Works perfectly always
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -30,7 +34,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.492Z*

@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Ironforge", "baelor ironforge", "Ironforge Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Ironforge
 
 *Genasi Blacksmith (Commoners), Age 75, Non-binary*
@@ -36,32 +42,26 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 - **Short Term**: Find missing person
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Baelor Emberfall the Redeemed (Criminal - Target)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
 
-
 ### Hestara Moonshadow the Scholar (Family - Sibling)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ### Thalia Blackstone the Redeemed (Family - Parent)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Rhiannon Brightblade the Guardian (Personal - Love interest)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Felicia Jadeclaw the Scholar (Political - Puppet)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Has dragon blood in their veins

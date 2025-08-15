@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Grimholt the Seeker", "alaric grimholt the seeker", "Alaric Grimholt Seeker", "Seeker the Grimholt Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Grimholt the Seeker
 
 *Dwarf Farmer (Commoners), Age 41, Male*
@@ -36,22 +42,18 @@ Survivor of a disaster that destroyed their village A prophetic dream has been h
 - **Short Term**: Survive until next week
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Zephyr Moonshadow the Lost (Political - Patron)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Ewan Moonshadow the Guardian (Personal - Childhood friend)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Urien Emberfall the Strong (Political - Ally)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ### Brenna Youngblood the Cunning (Family - Cousin)
 - **Status**: Secretly hostile
@@ -62,11 +64,9 @@ Survivor of a disaster that destroyed their village A prophetic dream has been h
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Malakai Dawnstrider the Risen (Political - Ally)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Witnessed a noble's crime

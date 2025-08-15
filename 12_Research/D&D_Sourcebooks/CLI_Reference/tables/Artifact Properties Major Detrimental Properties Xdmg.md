@@ -97,3 +97,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Orb of Dragonkind Xdmg]]
+- [[Sword of Kas Xdmg]]
+- [[orb-of-dragonkind-xdmg (items)]]
+- [[sword-of-kas-xdmg (items)]]

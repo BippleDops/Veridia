@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Frostwhisper", "cedric frostwhisper", "Frostwhisper Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Frostwhisper
 
 *Gnome Courtier (Nobles), Age 48, Non-binary*
@@ -47,7 +53,6 @@ Recently elevated to nobility through service, still learning courtly ways Stran
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Alaric Silverleaf the Cunning (Family - Parent)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
@@ -57,11 +62,9 @@ Recently elevated to nobility through service, still learning courtly ways Stran
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Faelyn Moonshadow the Seeker (Professional - Rival)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ### Baelor Thornweave the Seeker (Family - Cousin)
 - **Status**: On the verge of collapse

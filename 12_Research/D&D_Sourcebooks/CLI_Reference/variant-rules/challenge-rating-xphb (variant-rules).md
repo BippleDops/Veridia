@@ -70,3 +70,26 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[1 How to Use a Monster]]
+- [[1-how-to-use-a-monster (monster-manual-2025)]]
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]
+- [[Druid Xphb Circle of the Moon Xphb]]
+- [[druid-xphb-circle-of-the-moon-xphb (classes)]]
+- [[Animal Messenger Xphb]]
+- [[Animal Shapes Xphb]]
+- [[Commune With Nature Xphb]]
+- [[Polymorph Xphb]]
+- [[Shapechange Xphb]]
+- [[True Polymorph Xphb]]
+- [[animal-messenger-xphb (spells)]]
+- [[animal-shapes-xphb (spells)]]
+- [[commune-with-nature-xphb (spells)]]
+- [[polymorph-xphb (spells)]]
+- [[shapechange-xphb (spells)]]
+- [[true-polymorph-xphb (spells)]]
+- [[Glossary Conventions Xphb]]
+- [[glossary-conventions-xphb (tables)]]

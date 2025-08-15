@@ -149,3 +149,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Psychic Gray Ooze Xmm]]
+- [[gray-ooze-xmm (ooze)]]
+- [[psychic-gray-ooze-xmm (ooze)]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]

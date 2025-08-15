@@ -1,3 +1,9 @@
+---
+aliases: ["Ancient Tome of Eternity", "ancient tome of eternity", "Eternity of Tome Ancient"]
+tags: [item, equipment]
+type: item
+---
+
 # Ancient Tome of Eternity
 
 *Artifacts, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A ancient tome covered in mysterious symbols
 - Grant true sight
 - Telepathy 120 ft
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -32,7 +36,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.434Z*

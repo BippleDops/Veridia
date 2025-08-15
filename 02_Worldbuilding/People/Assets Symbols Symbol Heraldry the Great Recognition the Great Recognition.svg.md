@@ -183,7 +183,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[04_Resources_Assets_Locations_location-city-the-sunken-cathedral-of-perfect-order-the-sunken-cathedral-of-perfect-order.svg]] (enemy)
-- [[Fence Queen Sticky Fingers Sal]] (enemy)
+- [[Assets Portraits Portrait NPC Fence Queen Sticky Fingers Sal Fence Queen Sticky Fingers Sal.svg|Fence Queen Sticky Fingers Sal]] (enemy)
 - [[04_Resources_Assets_Locations_location-city-professor-marina-reefbuilder-professor-marina-reefbuilder.svg]] (colleague)
 ---
 *Tags*: #npc #contact #worldbuilding

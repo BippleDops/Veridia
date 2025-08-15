@@ -1,11 +1,11 @@
 ---
+aliases: ["Soren Ironforge", "soren ironforge", "Ironforge Soren"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -75,8 +75,6 @@ Apprenticed to a master craftsman from young age. Years ago, they was falsely ac
 ### Skills
 Persuasion, Perception
 
-
-
 ## Possessions
 - 33 gold pieces
 - Map to unknown location
@@ -89,7 +87,6 @@ Persuasion, Perception
 
 ---
 *Generated: 2025-08-15T03:21:04.033Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

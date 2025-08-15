@@ -60,7 +60,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -146,7 +146,7 @@ The establishment of unified ficial standards between [[Aethermoor]] and [[Aquab
 
 ### The Recent Acceleration (Past 5 years)
 
-Conspiracy activities have intensified dramatically, possibly in response to [[The Convergence Point]] approaching or [[The [[Seven Shards]]]] becoming more active, suggesting that whatever long-term plan Silverscale has been implementing may be approaching its culmination.
+Conspiracy activities have intensified dramatically, possibly in response to [[The Convergence Point]] approaching or [[Seven Shards|The [[Seven Shards]]]] becoming more active, suggesting that whatever long-term plan Silverscale has been implementing may be approaching its culmination.
 
 ### Director Hadrian Silverscale
 
@@ -183,7 +183,7 @@ Recent investigations have uncovered evidence of price manipulation, political b
 
 ### The Ficial Investigation
 
-Characters must trace suspicious ficial transactions and loan agreements to uncover evidence of conspiracy activities while avoiding economic retaliation and political pressure. Investigation requires use of [[Evidence Chain Analysis]] and [[Investigation Procedures]] while navigating [[Reputation System]] consequences and potential [[[[Memory Alteration]] Consequences]] from conspiracy counter-intelligence operations.
+Characters must trace suspicious ficial transactions and loan agreements to uncover evidence of conspiracy activities while avoiding economic retaliation and political pressure. Investigation requires use of [[Evidence Chain Analysis]] and [[Investigation Procedures]] while navigating [[Reputation System]] consequences and potential [[Memory Alteration|[[Memory Alteration]] Consequences]] from conspiracy counter-intelligence operations.
 
 ### The Double Agent Dilemma
 
@@ -191,7 +191,7 @@ An insider offers to provide information about conspiracy operations but demands
 
 ### The [[Economic Warfare]]
 
-The conspiracy launches coordinated attacks against individuals or organizations that threaten their interests, requiring characters to defend against ficial manipulation and political sabotage. Attacks may involve [[The Restoration Movement]] political pressure, [[[[Deep Mother]] Cult Practices]] spiritual intimidation, or [[The Crimson Hand]] shadow operations coordinated through [[Silverscale Emergency Bunker]] command centers.
+The conspiracy launches coordinated attacks against individuals or organizations that threaten their interests, requiring characters to defend against ficial manipulation and political sabotage. Attacks may involve [[The Restoration Movement]] political pressure, [[Deep Mother|[[Deep Mother]] Cult Practices]] spiritual intimidation, or [[The Crimson Hand]] shadow operations coordinated through [[Silverscale Emergency Bunker]] command centers.
 
 ### The Convergence Ficing
 
@@ -205,7 +205,7 @@ The Silverscale Conspiracy is a undersea element of the setting, known for biolu
 
 Legends speak of The Silverscale Conspiracy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Silverscale Conspiracy.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -233,3 +233,21 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Investigation Procedures]]
+- [[Silver Mask]]
+- [[The Final Choice]]
+- [[The Restoration Movement]]
+- [[Timeline of Crimes]]
+- [[Elder Matthias Stoneward]]
+- [[Evidence Chain Analysis]]
+- [[Master_Lore_Index]]
+- [[Silver Mask (D&D_References)]]
+- [[The Final Choice (D&D_References)]]
+- [[The Final Choice 3 (D&D_References)]]
+- [[The Restoration Movement (D&D_References)]]
+- [[Timeline of Crimes (D&D_References)]]
+- [[Aethermoor - Session 04 The Silverscale Gambit]]

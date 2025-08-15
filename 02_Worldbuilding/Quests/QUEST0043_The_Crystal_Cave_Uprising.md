@@ -1,4 +1,5 @@
 ---
+aliases: ["The Crystal Cave Uprising", "the crystal cave uprising", "Uprising Cave Crystal The"]
 tags: [generated]
 id: QUEST0043
 created: 2025-08-15T04:09:51.387Z
@@ -59,8 +60,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Show mercy and gain intel - Future ally but justice denied
 2. Execute for crimes committed - Justice served but opportunity lost
-
-
 
 ## Rewards
 ### On Success

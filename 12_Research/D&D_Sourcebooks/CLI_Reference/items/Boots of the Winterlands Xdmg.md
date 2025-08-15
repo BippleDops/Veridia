@@ -101,3 +101,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Implements Uncommon Xdmg]]
+- [[Magic Item Table F]]
+- [[Random Magic Items Implements]]
+- [[implements-uncommon-xdmg (tables)]]
+- [[magic-item-table-f (tables)]]
+- [[random-magic-items-implements (tables)]]

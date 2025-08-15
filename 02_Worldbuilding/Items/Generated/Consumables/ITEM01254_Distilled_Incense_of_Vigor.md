@@ -1,3 +1,9 @@
+---
+aliases: ["Distilled Incense of Vigor", "distilled incense of vigor", "Vigor of Incense Distilled"]
+tags: [item, equipment]
+type: item
+---
+
 # Distilled Incense of Vigor
 
 *Consumables, Uncommon*
@@ -14,8 +20,6 @@ A distilled incense swirling with colors
 - Breathe underwater 1 hour
 - Grant advantage for 1 hour
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -30,7 +34,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.470Z*

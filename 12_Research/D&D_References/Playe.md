@@ -52,3 +52,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[Mobile_Dashboard]]
+- [[Handouts Ships Player Handout Aethermoor Airships]]
+- [[Master_Spell_Compendium]]
+- [[Aethermoor_Session_01 (D&D_References)]]
+- [[Player Portal]]
+- [[02 Chapter 1 Greenest in Flames]]
+- [[02-chapter-1-greenest-in-flames (hoard-of-the-dragon-queen)]]
+- [[06 Chapter 5 Construction Ahead]]
+- [[06-chapter-5-construction-ahead (hoard-of-the-dragon-queen)]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]

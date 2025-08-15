@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Jadeclaw the Lost", "elric jadeclaw the lost", "Elric Jadeclaw Lost", "Lost the Jadeclaw Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Jadeclaw the Lost
 
 *Elf Crime Boss (Villains), Age 58, Male*
@@ -42,21 +48,17 @@ Born into evil but questioning their path They've made a deal they're beginning 
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Gavril Brightblade the Scholar (Family - Spouse)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ### Elric Ironforge the Broken (Political - Patron)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
 
-
 ### Gareth Crystalbrook the Wise (Criminal - Informant)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Has a child they're protecting

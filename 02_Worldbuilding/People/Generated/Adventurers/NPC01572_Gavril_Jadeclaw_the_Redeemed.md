@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Jadeclaw the Redeemed", "gavril jadeclaw the redeemed", "Gavril Jadeclaw Redeemed", "Redeemed the Jadeclaw Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Jadeclaw the Redeemed
 
 *Firbolg Cleric (Adventurers), Age 29, Female*
@@ -13,7 +19,6 @@
 Very tall and delicate, with Wild and unkempt auburn hair and Green eyes. Brown skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Never backs down from any challenge
@@ -42,21 +47,17 @@ Seeking vengeance for a murdered mentor They've been marked by a secret society.
 - **Status**: Professional only
 - **History**: United by common enemy
 
-
 ### Alaric Xendar the Seeker (Political - Ally)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
-
 
 ### Malakai Ironwood the Scholar (Family - Child)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Corvus Frostwhisper the Cunning (Criminal - Handler)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Carries a world-ending artifact

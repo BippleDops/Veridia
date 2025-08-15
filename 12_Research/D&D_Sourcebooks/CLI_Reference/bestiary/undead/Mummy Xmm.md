@@ -170,3 +170,19 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[mummy-xmm (undead)]]
+- [[Bag of Beans Xdmg]]
+- [[bag-of-beans-xdmg (items)]]
+- [[Create Undead Xphb]]
+- [[create-undead-xphb (spells)]]
+- [[Desert Encounters Levels 14 Xge]]
+- [[Desert Encounters Levels 510 Xge]]
+- [[Monsters by Habitat Swamp Monsters Xmm]]
+- [[Random Yuan Ti Servants Yuan Ti Protectors]]
+- [[desert-encounters-levels-14-xge (tables)]]
+- [[desert-encounters-levels-510-xge (tables)]]
+- [[monsters-by-habitat-swamp-monsters-xmm (tables)]]
+- [[random-yuan-ti-servants-yuan-ti-protectors-vgm]]

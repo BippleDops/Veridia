@@ -50,7 +50,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -163,7 +163,7 @@ improvements: 20
 
 ## Magical Elements
 **Enchanted Architecture**: Magical enhancements to building structure
-**[[Communication Systems]]**: Magical messaging between palace locations
+**[[Communication_Systems|Communication Systems]]**: Magical messaging between palace locations
 **Defensive Spells**: Protective magic guarding against various threats
 **Scrying Prevention**: Wards blocking magical surveillance
 **Temporal Magic**: [[Time]]-related spells for scheduling and coordination
@@ -172,7 +172,7 @@ improvements: 20
 **Foreign Embassies**: Permanent diplomatic missions from other kingdoms
 **Trade Negotiations**: Commercial agreements with various partners
 **Military Alliances**: Defense pacts and mutual assistance treaties
-**[[[[Cultural Exchange]]s]]**: Educational and artistic cooperation programs
+**[[Cultural Exchange|[[Cultural Exchange]]s]]**: Educational and artistic cooperation programs
 **International Law**: Diplomatic protocols and treaty obligations
 
 ## Services Available
@@ -189,7 +189,7 @@ improvements: 20
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 The Royal Palace serves as center for political adventures, diplomatic missions, and court intrigue. Use the complex relationships between nobles, foreign agents, and [[Government Officia]]ls to create multilayered plots with significant consequences for player choices.
 
 ## Player-Facing Summary
@@ -217,20 +217,17 @@ Royal Palace of Meridian is a notable location characterized by its unique featu
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
-
 
 ## Connections
 - **North**: Trade road to neighboring settlement
@@ -259,7 +256,6 @@ Ongoing situations affecting Royal Palace of Meridian:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -292,3 +288,9 @@ Ongoing situations affecting Royal Palace of Meridian:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[The Royal Palace]]
+- [[The Royal Palace (D&D_References)]]
+- [[Aethermoor - Session 05 The Queens Madness]]

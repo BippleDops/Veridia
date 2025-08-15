@@ -60,7 +60,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -100,7 +100,7 @@ improvements: 20
 
 ## Overview
 
-Hidden in the [[Twilight Depths]] between [[The [[Sunken Palace]]]] and the Whispering Trenches, the Reflection Pools are a series of thirteen interconnected basins where the boundaries between possibility and actuality grow thin. Each pool shows not what is, but what could be—or what could have been. The site serves as Aquabyssos's premier divination center, though its revelations often drive visitors to madness or despair.
+Hidden in the [[Twilight Depths]] between [[Sunken Palace|The [[Sunken Palace]]]] and the Whispering Trenches, the Reflection Pools are a series of thirteen interconnected basins where the boundaries between possibility and actuality grow thin. Each pool shows not what is, but what could be—or what could have been. The site serves as Aquabyssos's premier divination center, though its revelations often drive visitors to madness or despair.
 
 The Pools predate recorded history, possibly existing before water itself. They are maintained by the [[Order of Mirrors]], blind [[Oracle]]s who navigate by reading the ripples of possibility. Politicians, lovers, generals, and desperate souls all make pilgrimages here, though few leave with the answers they sought.
 
@@ -371,7 +371,7 @@ STR 18 (+4), DEX 14 (+2), CON 18 (+4), INT 10 (+0), WIS 15 (+2), CHA 12 (+1)
 - Understand all possibilities simultaneously
 - No mortal mind can survive intact
 
-## [[[[Random Encounter]]s]] (d20)
+## [[Random Encounter|[[Random Encounter]]s]] (d20)
 
 | Roll | Encounter |
 |------|-----------|
@@ -537,13 +537,11 @@ The Reflection Pools is a notable location characterized by its unique features 
 ### Founding
 The Reflection Pools was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -551,13 +549,11 @@ The Reflection Pools was established in the distant past, growing from humble be
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -599,7 +595,6 @@ Key stop on spices trade route
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -635,3 +630,9 @@ Key stop on spices trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Reflection Pools - Surgical Theater]]
+- [[Aquabyssos - Session 04 - High Tide Horror]]
+- [[Reflection Pools - Surgical Theater (D&D_References)]]

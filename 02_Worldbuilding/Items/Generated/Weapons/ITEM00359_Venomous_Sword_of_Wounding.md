@@ -1,3 +1,9 @@
+---
+aliases: ["Venomous Sword of Wounding", "venomous sword of wounding", "Wounding of Sword Venomous"]
+tags: [item, equipment]
+type: item
+---
+
 # Venomous Sword of Wounding
 
 *Weapons, Uncommon*
@@ -14,8 +20,6 @@ A venomous sword made of crystallized magic
 - Grants advantage on initiative
 - Deals extra 1d6 elemental damage
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -30,7 +34,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.375Z*

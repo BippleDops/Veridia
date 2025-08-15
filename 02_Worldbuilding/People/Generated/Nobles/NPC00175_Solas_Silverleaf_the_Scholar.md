@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Silverleaf the Scholar", "solas silverleaf the scholar", "Solas Silverleaf Scholar", "Scholar the Silverleaf Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Silverleaf the Scholar
 
 *Aasimar Ambassador (Nobles), Age 76, Female*
@@ -36,32 +42,26 @@ Secretly adopted into nobility, living in fear of discovery A prophetic dream ha
 - **Short Term**: Sabotage competition
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Baelor Emberfall (Family - Parent)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
 
-
 ### Drusilla Youngblood (Professional - Employee)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ### Alaric Goldleaf the Swift (Family - Spouse)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
 ### Baelor Dawnstrider (Family - Sibling)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Kaelen Dawnstrider (Criminal - Fence)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ### Hilda Lightbringer the Redeemed (Political - Puppet)
 - **Status**: Secretly hostile

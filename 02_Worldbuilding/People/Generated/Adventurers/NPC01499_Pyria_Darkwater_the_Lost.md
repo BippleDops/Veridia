@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Darkwater the Lost", "pyria darkwater the lost", "Pyria Darkwater Lost", "Lost the Darkwater Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Darkwater the Lost
 
 *Firbolg Wizard (Adventurers), Age 38, Female*
@@ -13,7 +19,6 @@
 Below average and slender, with Shaved auburn hair and Violet eyes. Tan skin. Gold tooth that glints when smiling.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Never backs down from any challenge
@@ -36,7 +41,6 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 - **Short Term**: Gather information
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Jorah Brightblade the Risen (Criminal - Accomplice)
 - **Status**: On the verge of collapse
@@ -47,26 +51,21 @@ Running from a dark past that won't stay buried They're being blackmailed by som
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Corvus Ravenheart the Swift (Political - Spy)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
-
 
 ### Zephyr Winterborn the Fallen (Political - Patron)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Xander Ironwood the Guardian (Professional - Employee)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
 
-
 ### Xander Frostwhisper the Swift (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Secretly working for the villain

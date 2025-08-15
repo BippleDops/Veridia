@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Grimholt the Cunning", "hilda grimholt the cunning", "Hilda Grimholt Cunning", "Cunning the Grimholt Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Grimholt the Cunning
 
 *Halfling Assassin (Villains), Age 66, Male*
@@ -42,7 +48,6 @@ Corrupted by an artifact or dark magic They've been marked by a secret society.
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Lyanna Underhill the Swift (Professional - Partner)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
@@ -51,7 +56,6 @@ Corrupted by an artifact or dark magic They've been marked by a secret society.
 ### Elric Voidwalker the Strong (Personal - Childhood friend)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Has a child they're protecting

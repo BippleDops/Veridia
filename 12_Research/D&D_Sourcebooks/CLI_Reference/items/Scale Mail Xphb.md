@@ -84,3 +84,35 @@ Mentioned in The First Prophecy of Winds
 
 - A corpse reveals a conspiracy about the cult
 - An heirloom has gone missing and chaos spreads
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Duergar Spore Servant Oota]]
+- [[duergar-spore-servant-oota (plant)]]
+- [[Black Dragon Scale Mail Xdmg]]
+- [[Blue Dragon Scale Mail Xdmg]]
+- [[Brass Dragon Scale Mail Xdmg]]
+- [[Bronze Dragon Scale Mail Xdmg]]
+- [[Copper Dragon Scale Mail Xdmg]]
+- [[Dragon Scale Mail Xdmg]]
+- [[Gold Dragon Scale Mail Xdmg]]
+- [[Green Dragon Scale Mail Xdmg]]
+- [[Red Dragon Scale Mail Xdmg]]
+- [[Silver Dragon Scale Mail Xdmg]]
+- [[White Dragon Scale Mail Xdmg]]
+- [[black-dragon-scale-mail-xdmg (items)]]
+- [[blue-dragon-scale-mail-xdmg (items)]]
+- [[brass-dragon-scale-mail-xdmg (items)]]
+- [[bronze-dragon-scale-mail-xdmg (items)]]
+- [[copper-dragon-scale-mail-xdmg (items)]]
+- [[dragon-scale-mail-xdmg (items)]]
+- [[gold-dragon-scale-mail-xdmg (items)]]
+- [[green-dragon-scale-mail-xdmg (items)]]
+- [[red-dragon-scale-mail-xdmg (items)]]
+- [[silver-dragon-scale-mail-xdmg (items)]]
+- [[white-dragon-scale-mail-xdmg (items)]]
+- [[Armor Xphb]]
+- [[Armor and Shields Armor Phb]]
+- [[armor-and-shields-armor-phb (tables)]]
+- [[armor-xphb (tables)]]

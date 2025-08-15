@@ -273,7 +273,6 @@ The Angel of the Depths connects to numerous other locations and NPCs:
 
 *The Angel of the Depths stands as a testament to both the heights of divine aspiration and the depths of corruption's reach. Whether it will serve as a beacon of hope or a harbinger of doom depends largely on the actions of those brave enough to seek it out in the crushing darkness of the deepest ocean.*
 
-
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
@@ -317,13 +316,11 @@ Angel of the Depths is a notable location characterized by its unique features a
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -394,7 +391,6 @@ Ongoing situations affecting Angel of the Depths:
 - 20% middle class
 - 79% working poor
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -430,3 +426,7 @@ Ongoing situations affecting Angel of the Depths:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Angel of the Depths (D&D_References)]]

@@ -257,3 +257,7 @@ Mentioned in The First Prophecy of Stars
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Merged Zone Navigation]]

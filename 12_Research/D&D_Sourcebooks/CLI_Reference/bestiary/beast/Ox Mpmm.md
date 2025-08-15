@@ -126,3 +126,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[ox-mpmm (beast)]]
+- [[4 Assorted Beasts]]
+- [[4-assorted-beasts (volos-guide-to-monsters)]]

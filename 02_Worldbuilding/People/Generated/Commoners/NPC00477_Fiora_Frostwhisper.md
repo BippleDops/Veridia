@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Frostwhisper", "fiora frostwhisper", "Frostwhisper Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Frostwhisper
 
 *Aasimar Baker (Commoners), Age 22, Non-binary*
@@ -47,11 +53,9 @@ Grew up in poverty but discovered a talent that might change everything They rec
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Gareth Zephyrblade the Fallen (Personal - Ex-lover)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Has dragon blood in their veins

@@ -71,3 +71,8 @@ Mentioned in The Hidden Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[NPC00743_Ysara_Lightbringer_the_Broken]]
+- [[NPC00042_Vesper_Grimholt]]

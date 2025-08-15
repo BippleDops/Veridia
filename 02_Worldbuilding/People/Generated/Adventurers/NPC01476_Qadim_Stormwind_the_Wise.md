@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Stormwind the Wise", "qadim stormwind the wise", "Qadim Stormwind Wise", "Wise the Stormwind Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Stormwind the Wise
 
 *Genasi Bard (Adventurers), Age 51, Male*
@@ -13,7 +19,6 @@
 Short and muscular, with Shaved white hair and Heterochromic eyes. Weathered skin. Warm smile that puts people at ease.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Flirts with everyone regardless of interest
@@ -42,21 +47,17 @@ Seeking vengeance for a murdered mentor A chance encounter last winter changed t
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Orion Ashford the Redeemed (Personal - Childhood friend)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
-
 
 ### Caelum Frostwhisper the Cunning (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Baelor Ironforge the Broken (Political - Opposition)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Has died and been resurrected

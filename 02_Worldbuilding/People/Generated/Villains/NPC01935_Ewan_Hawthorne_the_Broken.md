@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Hawthorne the Broken", "ewan hawthorne the broken", "Ewan Hawthorne Broken", "Broken the Hawthorne Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Hawthorne the Broken
 
 *Halfling Assassin (Villains), Age 33, Male*
@@ -13,7 +19,6 @@
 Below average and imposing, with Long and flowing white hair and Red eyes. Unusual hue skin. Constantly changing hair color.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Sees doom and gloom everywhere
@@ -42,7 +47,6 @@ Believes their evil acts serve a greater good They've made a deal they're beginn
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
 
-
 ### Felicia Voidwalker the Broken (Family - Spouse)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
@@ -51,7 +55,6 @@ Believes their evil acts serve a greater good They've made a deal they're beginn
 ### Gavril Frostwhisper the Strong (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Has a child they're protecting

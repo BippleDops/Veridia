@@ -1,4 +1,5 @@
 ---
+aliases: ["Eldritch Wave", "eldritch wave", "Wave Eldritch"]
 tags: [generated]
 id: SPELL0042_Eldritch_Wave
 created: 2025-08-15T04:09:51.476Z

@@ -82,4 +82,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[list-spells-races-gith-githzerai-mtf (lists)-phb]]` in CLI_Reference/spells/
+See: `[[Races|list-spells-races-gith-githzerai-mtf (lists)-phb]]` in CLI_Reference/spells/

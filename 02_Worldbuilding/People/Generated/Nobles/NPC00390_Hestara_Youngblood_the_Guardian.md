@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Youngblood the Guardian", "hestara youngblood the guardian", "Hestara Youngblood Guardian", "Guardian the Youngblood Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Youngblood the Guardian
 
 *Half-Orc Heir (Nobles), Age 28, Male*
@@ -13,7 +19,6 @@
 Very short and lanky, with Long and flowing silver hair and Brown eyes. Tan skin. Warm smile that puts people at ease.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Always hungry and eating something; Always speaks in metaphors and riddles
@@ -36,27 +41,22 @@ Secretly adopted into nobility, living in fear of discovery A family member's de
 - **Short Term**: Recruit new members
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Solas Grimholt the Wanderer (Personal - Childhood friend)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Delara Stormwind the Redeemed (Professional - Employee)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ### Hestara Youngblood the Wise (Criminal - Fence)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
 
-
 ### Qadim Moonshadow the Wanderer (Political - Spy)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ### Cedric Goldleaf the Cunning (Political - Spy)
 - **Status**: Strained but maintaining

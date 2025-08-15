@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Thornweave", "xander thornweave", "Thornweave Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Thornweave
 
 *Half-Elf Noble (Nobles), Age 41, Non-binary*
@@ -13,7 +19,6 @@
 Average height and compact, with Dreadlocks blonde hair and Red eyes. Weathered skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Constantly quotes ancient texts
@@ -36,27 +41,22 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Gather information
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Cedric Thornweave (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Aeliana Emberfall the Wise (Criminal - Target)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
-
 
 ### Ysara Blackstone (Political - Puppet)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Fiora Brightblade the Broken (Family - Sibling)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Child from scandalous affair

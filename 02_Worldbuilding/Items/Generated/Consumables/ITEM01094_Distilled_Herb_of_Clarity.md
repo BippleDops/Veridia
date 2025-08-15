@@ -1,3 +1,9 @@
+---
+aliases: ["Distilled Herb of Clarity", "distilled herb of clarity", "Clarity of Herb Distilled"]
+tags: [item, equipment]
+type: item
+---
+
 # Distilled Herb of Clarity
 
 *Consumables, Rare*
@@ -15,8 +21,6 @@ A distilled herb swirling with colors
 - Fly for 1 hour
 - Increase speed by 10 ft
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -31,7 +35,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.455Z*

@@ -114,3 +114,7 @@ Mentioned in The Second Prophecy of Shadows
 - Civil war
 - Natural disasters
 - Current power structures established
+
+## References
+
+- [[02_Worldbuilding_Lore_Philosophy_of_Truth]]

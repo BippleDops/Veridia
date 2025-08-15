@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Ironforge the Strong", "pyria ironforge the strong", "Pyria Ironforge Strong", "Strong the Ironforge Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Ironforge the Strong
 
 *Dragonborn Fisher (Commoners), Age 67, Non-binary*
@@ -42,16 +48,13 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Status**: One-sided affection
 - **History**: United by common enemy
 
-
 ### Lyanna Underhill the Wanderer (Criminal - Informant)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
 
-
 ### Xander Dawnstrider the Redeemed (Political - Ally)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
-
 
 ### Orion Frostwhisper the Bold (Criminal - Handler)
 - **Status**: Professional only
@@ -61,7 +64,6 @@ Grew up in poverty but discovered a talent that might change everything They've 
 ### Idris Keenblade the Strong (Political - Puppet)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Can hear the thoughts of others

@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Zephyrblade the Broken", "dara zephyrblade the broken", "Dara Zephyrblade Broken", "Broken the Zephyrblade Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Zephyrblade the Broken
 
 *Goliath Farmer (Commoners), Age 72, Female*
@@ -36,22 +42,18 @@ Family has worked the same trade for generations, but times are changing They've
 - **Short Term**: Sabotage competition
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Dara Dawnstrider (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Fiora Brightblade the Strong (Professional - Mentor)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
 
-
 ### Faelyn Darkwater the Wanderer (Political - Puppet)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ### Baelor Proudmore (Professional - Employer)
 - **Status**: Strained but maintaining
@@ -62,11 +64,9 @@ Family has worked the same trade for generations, but times are changing They've
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Orion Silverleaf the Lost (Criminal - Target)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Can hear the thoughts of others

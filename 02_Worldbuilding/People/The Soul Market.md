@@ -17,7 +17,7 @@ modified: '2025-08-14'
 status: complete
 race: Unknown
 class: Unknown
-location: Unknown
+[[location|location]]: Unknown
 updated: '2025-08-13T12:34:17.672094+00:00'
 world: Both
 evaluated: '2025-08-14'
@@ -30,17 +30,15 @@ improvements: 20
 - **Speed**: 30 ft.
 - **STR**: 10 (+0), **DEX**: 14 (+2), **CON**: 11 (+0)
 - **INT**: 12 (+1), **WIS**: 13 (+1), **CHA**: 14 (+2)
-- **Skills**: Deception +4, Insight +3, Persuasion +4
-- **Senses**: passive Perception 11
+- **[[skills|skills]]**: Deception +4, Insight +3, Persuasion +4
+- **[[senses|senses]]**: passive Perception 11
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
+> [!figure] Portrait
+![]([[04_Resources|04_Resources]]/[[Assets|Assets]]/Portraits/portrait-npc-the-soul-market-the-soul-market.svg)
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-soul-market-the-soul-market.svg)
-
-> [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -58,11 +56,11 @@ improvements: 20
 
 ### Culture Improvements
 
-- Define unique cultural practices and taboos
+- Define unique [[Cultural Practices|Cultural Practices]] and taboos
 
 ### Economy Improvements
 
-- Detail currency, trade goods, and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -70,7 +68,7 @@ improvements: 20
 
 ### Lifestyle Improvements
 
-- Describe typical day for different social classes
+- Describe typical day for different social [[classes|classes]]
 
 ### Death_Customs Improvements
 
@@ -90,7 +88,7 @@ improvements: 20
 
 ### Material_Culture Improvements
 
-- Detail common objects and their cultural significance
+- Detail common [[objects|objects]] and their cultural significance
 
 ### Hospitality Improvements
 
@@ -100,13 +98,13 @@ improvements: 20
 
 - Add smells, sounds, and textures unique to this culture
 
-## Player-Facing Summary
+## Player-[[facing|facing]] Summary
 
 The Soul Market is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore|Lore]] Details
 
-Legends speak of The Soul Market as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Soul Market.
+Legends speak of The Soul Market as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or [[Whispers|Whispers]] on the wind—that herald change around The Soul Market.
 
 ## Background
 
@@ -167,7 +165,7 @@ The Soul Market is currently engaged in:
 
 > "The path forward is rarely the easiest one."
 
-## DM Notes
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -211,7 +209,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -223,7 +220,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - **Retreat**: When to flee
 
 ## Possessions
-- **Carried**: Items on person
+- **Carried**: [[Items|Items]] on person
 - **Stored**: Possessions elsewhere
 
 ## Knowledge
@@ -266,7 +263,7 @@ ___
 - **Proficiency Bonus** +2
 ___
 
-### Actions
+### [[actions|actions]]
 **Multiattack.** Makes two melee attacks.
 
 **Attack.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) slashing damage.
@@ -281,3 +278,6 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+---
+**Navigation**: [[INDEX|🏠 Home]] | [[INDEX|📚 Index]]

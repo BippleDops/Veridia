@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Frostwhisper the Scholar", "alaric frostwhisper the scholar", "Alaric Frostwhisper Scholar", "Scholar the Frostwhisper Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Frostwhisper the Scholar
 
 *Firbolg Cultist (Villains), Age 74, Male*
@@ -36,7 +42,6 @@ Corrupted by an artifact or dark magic A prophetic dream has been haunting them 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Rhiannon Keenblade the Strong (Political - Puppet)
 - **Status**: Strong and trusting
@@ -57,11 +62,9 @@ Corrupted by an artifact or dark magic A prophetic dream has been haunting them 
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
 
-
 ### Solas Grimholt the Guardian (Professional - Rival)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Was once a renowned hero

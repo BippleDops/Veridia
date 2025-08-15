@@ -1,3 +1,9 @@
+---
+aliases: ["Adamantine Boots of the Guardian", "adamantine boots of the guardian", "Adamantine Boots of Guardian", "Guardian the of Boots Adamantine"]
+tags: [item, equipment]
+type: item
+---
+
 # Adamantine Boots of the Guardian
 
 *Armor, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A adamantine boots crafted from exotic materials
 - +1 to AC
 - +2 to AC
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -30,7 +34,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.384Z*

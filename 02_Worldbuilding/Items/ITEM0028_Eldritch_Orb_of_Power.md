@@ -1,4 +1,5 @@
 ---
+aliases: ["Eldritch Orb of Power", "eldritch orb of power", "Power of Orb Eldritch"]
 tags: [generated]
 id: ITEM0028
 created: 2025-08-15T04:09:51.086Z
@@ -19,8 +20,6 @@ Crafted from dragonscale with ancient symbols, in showing age but sturdy. It ema
 
 ## Quirk
 *Glows during full moon*
-
-
 
 ## History
 This item was corrupted by dark magic ages ago. It has passed through many hands, each leaving their mark upon its destiny.

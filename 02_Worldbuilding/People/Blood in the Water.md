@@ -42,7 +42,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-blood-in-the-water-blood-in-the-water.svg)
 
@@ -276,7 +275,6 @@ Member of House Serpentblood - Trait: magical affinity
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -312,3 +310,13 @@ Member of House Serpentblood - Trait: magical affinity
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Master Engineer Cordelia Pressurewright V1 Master Engineer Cordelia Pressurewright.svg]]
+- [[Assets Locations Location City Quartermaster David Simpleton Quartermaster David Simpleton.svg]]
+- [[Assets Portraits Portrait NPC Captain Depths Walker Marina Captain Depths Walker Marina.svg]]
+- [[Assets Portraits Portrait NPC Captain Swift Cloudracer Captain Swift Cloudracer.svg]]
+- [[The_Crimson_Pearl]]
+- [[The Crimson Pearl (D&D_References)]]
+- [[The_Crimson_Pearl (D&D_References)]]

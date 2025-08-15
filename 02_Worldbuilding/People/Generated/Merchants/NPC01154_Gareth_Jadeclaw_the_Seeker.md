@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Jadeclaw the Seeker", "gareth jadeclaw the seeker", "Gareth Jadeclaw Seeker", "Seeker the Jadeclaw Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Jadeclaw the Seeker
 
 *Aasimar Appraiser (Merchants), Age 57, Male*
@@ -42,11 +48,9 @@ Part of a merchant family with connections everywhere A family member's death ha
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
 
-
 ### Aeliana Nightfall the Broken (Professional - Rival)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ### Aldric Proudmore the Cunning (Family - Cousin)
 - **Status**: Mutually beneficial

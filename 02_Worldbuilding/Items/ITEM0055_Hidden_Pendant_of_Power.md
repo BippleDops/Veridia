@@ -1,4 +1,5 @@
 ---
+aliases: ["Hidden Pendant of Power", "hidden pendant of power", "Power of Pendant Hidden"]
 tags: [generated]
 id: ITEM0055
 created: 2025-08-15T04:09:51.096Z
@@ -19,8 +20,6 @@ Crafted from adamantine with ancient symbols, in recently restored. It emanates 
 
 ## Quirk
 *Whispers names of previous owners*
-
-
 
 ## History
 This item was blessed by the gods themselves decades ago. It has passed through many hands, each leaving their mark upon its destiny.

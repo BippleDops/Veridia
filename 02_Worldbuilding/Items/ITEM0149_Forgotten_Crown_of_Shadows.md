@@ -1,4 +1,5 @@
 ---
+aliases: ["Forgotten Crown of Shadows", "forgotten crown of shadows", "Shadows of Crown Forgotten"]
 tags: [generated]
 id: ITEM0149
 created: 2025-08-15T04:09:51.124Z
@@ -20,8 +21,6 @@ Crafted from mithril with glowing gems, in ancient but unbreakable. It emanates 
 
 ## Quirk
 *Makes user sneeze in sunlight*
-
-
 
 ## History
 This item was corrupted by dark magic millennia ago. It has passed through many hands, each leaving their mark upon its destiny.

@@ -130,3 +130,13 @@ Mentioned in The Second Prophecy of Depths
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Green Hag]]
+- [[green-hag (legendary-group)]]
+- [[Awakened Tree Xmm]]
+- [[2 Appendix a Miscellaneous Creatures]]
+- [[2-appendix-a-miscellaneous-creatures (monster-manual-2014)]]
+- [[Awaken Xphb]]
+- [[awaken-xphb (spells)]]

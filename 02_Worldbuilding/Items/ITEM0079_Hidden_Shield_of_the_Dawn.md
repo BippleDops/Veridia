@@ -1,4 +1,5 @@
 ---
+aliases: ["Hidden Shield of the Dawn", "hidden shield of the dawn", "Hidden Shield of Dawn", "Dawn the of Shield Hidden"]
 tags: [generated]
 id: ITEM0079
 created: 2025-08-15T04:09:51.103Z
@@ -19,8 +20,6 @@ Crafted from mithril with glowing gems, in ancient but unbreakable. It emanates 
 
 ## Quirk
 *Changes color with user's mood*
-
-
 
 ## History
 This item was forged during the War of Shadows centuries ago. It has passed through many hands, each leaving their mark upon its destiny.

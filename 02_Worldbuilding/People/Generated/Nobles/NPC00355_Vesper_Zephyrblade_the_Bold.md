@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Zephyrblade the Bold", "vesper zephyrblade the bold", "Vesper Zephyrblade Bold", "Bold the Zephyrblade Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Zephyrblade the Bold
 
 *Human Heir (Nobles), Age 44, Non-binary*
@@ -13,7 +19,6 @@
 Towering and imposing, with Dreadlocks blonde hair and Green eyes. Unusual hue skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Always hungry and eating something; Collects unusual and worthless objects
@@ -36,12 +41,10 @@ Exiled from their homeland, trying to rebuild their power base An old debt has c
 - **Short Term**: Gather information
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Brenna Emberfall the Fallen (Personal - Love interest)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
-
 
 ### Jorah Thornweave the Fallen (Family - Parent)
 - **Status**: Recently reconciled
@@ -57,11 +60,9 @@ Exiled from their homeland, trying to rebuild their power base An old debt has c
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
 
-
 ### Aldric Proudmore the Scholar (Professional - Rival)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ### Wynne Youngblood the Strong (Criminal - Handler)
 - **Status**: Secretly hostile

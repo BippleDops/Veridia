@@ -96,7 +96,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -115,4 +114,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[commune-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[commune-xphb (spells)|commune-xphb (spells)-phb]]` in CLI_Reference/spells/

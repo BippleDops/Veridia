@@ -1,8 +1,8 @@
 ---
+aliases: ["Quinn Stormwind", "quinn stormwind", "Stormwind Quinn"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -72,8 +72,6 @@ Born into a noble family but cast out for scandal. Years ago, they lost everythi
 ### Skills
 Arcana, Athletics, Insight
 
-
-
 ## Possessions
 - 90 gold pieces
 - Mysterious key
@@ -85,7 +83,6 @@ Arcana, Athletics, Insight
 
 ---
 *Generated: 2025-08-15T03:21:04.027Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

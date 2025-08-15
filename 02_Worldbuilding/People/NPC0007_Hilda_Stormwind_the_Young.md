@@ -1,8 +1,8 @@
 ---
+aliases: ["Hilda Stormwind the Young", "hilda stormwind the young", "Hilda Stormwind Young", "Young the Stormwind Hilda"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -72,8 +72,6 @@ Discovered magical talent late in life. Years ago, they witnessed something they
 ### Skills
 Athletics, Investigation, Arcana
 
-
-
 ## Possessions
 - 91 gold pieces
 - Lucky dice
@@ -86,7 +84,6 @@ Athletics, Investigation, Arcana
 
 ---
 *Generated: 2025-08-15T03:21:04.025Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

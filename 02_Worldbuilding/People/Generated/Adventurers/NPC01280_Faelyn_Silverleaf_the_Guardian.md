@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Silverleaf the Guardian", "faelyn silverleaf the guardian", "Faelyn Silverleaf Guardian", "Guardian the Silverleaf Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Silverleaf the Guardian
 
 *Firbolg Rogue (Adventurers), Age 49, Female*
@@ -42,11 +48,9 @@ Searching for a legendary treasure their parent died seeking An old debt has com
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Baelor Dawnstrider the Strong (Personal - Love interest)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
-
 
 ### Delara Crystalbrook the Broken (Political - Puppet)
 - **Status**: Recently reconciled

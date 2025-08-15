@@ -1,3 +1,9 @@
+---
+aliases: ["Frost Bow of Power", "frost bow of power", "Power of Bow Frost"]
+tags: [item, equipment]
+type: item
+---
+
 # Frost Bow of Power
 
 *Weapons, Common*

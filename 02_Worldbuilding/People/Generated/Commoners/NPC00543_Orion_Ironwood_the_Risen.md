@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Ironwood the Risen", "orion ironwood the risen", "Orion Ironwood Risen", "Risen the Ironwood Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Ironwood the Risen
 
 *Human Blacksmith (Commoners), Age 34, Non-binary*
@@ -41,7 +47,6 @@ Grew up in poverty but discovered a talent that might change everything They rec
 ### Caelum Winterborn the Swift (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
-
 
 ### Faelyn Keenblade the Cunning (Personal - Childhood friend)
 - **Status**: Complicated history

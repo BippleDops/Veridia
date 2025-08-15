@@ -28,15 +28,15 @@ commander: '[[Commander Typhoon Blackheart]]'
 connected_locations:
 - '[[Abyssos Prime]]'
 - '[[The Cerulean Trench]]'
-- '[[[[[[Krake]]n]] Territories]]'
-- '[[The [[Void Touched]] Depths]]'
+- '[[Krake|[[[[Krake]]n]] Territories]]'
+- '[[Void Touch|The [[Void Touched]] Depths]]'
 created_by: auto-stub
 current_state: Full operational readiness
 danger_level: 5
 depth: 8000-12000 feet
 discovered: false
 factions:
-- '[[The [[Depth Warden]]s]]'
+- '[[Depth Warden|The [[Depth Warden]]s]]'
 - '[[Deep Strike Forces]]'
 - '[[Abyssal Intelligence Corps]]'
 - '[[Emergency Response Teams]]'
@@ -89,7 +89,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -251,7 +251,7 @@ Specialized [[Harbor Facilities]] for the fortress's fleet of deep-ocean vessels
 - **[[Major Hadal Deepstrike]]:** Operations Officer coordinating all tactical missions
 - **[[Intelligence Chief Marina Shadowcurrent]]:** Information gathering and threat analysis
 - **[[Master Sergeant Reef Ironwall]]:** Senior enlisted advisor and training coordinator
-- **[[Chief Medical Officer Dr. [[Coral]] Deephealer]]:** Medical services and combat medicine
+- **[[Coral|Chief Medical Officer Dr. [[Coral]] Deephealer]]:** Medical services and combat medicine
 - **[[Engineering Chief Master Wrench Pressureborn]]:** Maintece and construction operations
 
 **Specialized Military Units:**
@@ -299,7 +299,7 @@ All personnel undergo extensive training in the unique challenges of combat at e
 
 ### Active Threat Monitoring
 
-**[[The [[Deep Mother]]]] Activity Surveillance:**
+**[[Deep Mother|The [[Deep Mother]]]] Activity Surveillance:**
 Constant monitoring of increasing signs of activity from the ancient entity dwelling in the deepest ocean trenches:
 - **Seismic Detection:** Monitoring geological changes that might indicate her awakening
 - **Biological Surveillance:** Tracking changes in deep-ocean life that might be influenced by her presence
@@ -524,7 +524,7 @@ Signs of [[The Deep Mother]]'s increasing influence begin affecting fortress per
 - **Horror Elements:** Dealing with corruption of trusted allies and colleagues
 - **Investigation Mission:** Understanding how [[The Deep Mother]]'s influence spreads
 - **Combat Challenges:** Fighting corrupted fortress personnel
-- **[[Moral Dilemmas]]:** Deciding how to help corrupted individuals
+- **[[Moral_Dilemmas|Moral Dilemmas]]:** Deciding how to help corrupted individuals
 - **Cosmic Horror:** Confronting threats beyond normal human understanding
 
 **The Reality Breach (Levels 13-19)**
@@ -627,7 +627,7 @@ Fortress of the Deeps is a undersea element of the setting, known for biolumines
 
 Legends speak of Fortress of the Deeps as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Fortress of the Deeps.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -707,3 +707,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[The Fortress of the Deeps]]

@@ -65,3 +65,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Cleric Xphb Tempest Domain]]
+- [[cleric-xphb-tempest-domain (classes)]]
+- [[The Greek Pantheon Greek Deities Phb]]
+- [[the-greek-pantheon-greek-deities-phb (tables)]]

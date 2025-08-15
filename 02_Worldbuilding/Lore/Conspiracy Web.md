@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -72,7 +72,7 @@ Conspiracy Web represents a crucial aspect of the world's history, cosmology, or
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -84,7 +84,7 @@ Conspiracy Web represents a crucial aspect of the world's history, cosmology, or
 
 *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -112,3 +112,8 @@ Conspiracy Web represents a crucial aspect of the world's history, cosmology, or
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[Conspiracy_Web (02_Worldbuilding)]]
+- [[Political Intrigue Master Index]]

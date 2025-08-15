@@ -143,3 +143,7 @@ Consequence Chain Name 1 represents a crucial aspect of the world's history, cos
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Consequence_Chain_Name_1 (02_Worldbuilding)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Enchanted Plate of Grace", "enchanted plate of grace", "Grace of Plate Enchanted"]
+tags: [item, equipment]
+type: item
+---
+
 # Enchanted Plate of Grace
 
 *Armor, Uncommon*
@@ -14,8 +20,6 @@ A enchanted plate shimmering with energy
 - Immunity to critical hits
 - Grants swimming speed
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -30,7 +34,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.416Z*

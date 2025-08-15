@@ -115,3 +115,7 @@ Shard-Touched Background Options represents a crucial aspect of the world's hist
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[Campaign_Overview_1 (01_Adventures)]]

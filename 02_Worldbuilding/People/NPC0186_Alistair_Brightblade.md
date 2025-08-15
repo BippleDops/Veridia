@@ -1,11 +1,11 @@
 ---
+aliases: ["Alistair Brightblade", "alistair brightblade", "Brightblade Alistair"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Apprenticed to a master craftsman from young age. Years ago, they lost everythin
 ### Skills
 Perception, Stealth
 
-
-
 ## Possessions
 - 82 gold pieces
 - Family heirloom (locket)
@@ -90,7 +88,6 @@ Perception, Stealth
 
 ---
 *Generated: 2025-08-15T03:21:04.044Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

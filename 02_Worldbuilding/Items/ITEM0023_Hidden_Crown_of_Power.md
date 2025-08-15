@@ -1,4 +1,5 @@
 ---
+aliases: ["Hidden Crown of Power", "hidden crown of power", "Power of Crown Hidden"]
 tags: [generated]
 id: ITEM0023
 created: 2025-08-15T04:09:51.084Z
@@ -20,8 +21,6 @@ Crafted from darkwood with battle scars, in pristine condition. It emanates a fa
 
 ## Quirk
 *Attracts small animals*
-
-
 
 ## History
 This item was hidden away by its last owner centuries ago. It has passed through many hands, each leaving their mark upon its destiny.

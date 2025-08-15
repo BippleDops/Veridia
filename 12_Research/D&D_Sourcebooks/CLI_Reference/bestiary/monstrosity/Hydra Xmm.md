@@ -161,3 +161,19 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[hydra-xmm (monstrosity)]]
+- [[Monsters by Habitat Coastal Monsters Xmm]]
+- [[Monsters by Habitat Swamp Monsters Xmm]]
+- [[Random Yuan Ti Servants Yuan Ti Protectors]]
+- [[Swamp Encounters Levels 1120 Xge]]
+- [[Swamp Encounters Levels 14 Xge]]
+- [[Swamp Encounters Levels 510 Xge]]
+- [[monsters-by-habitat-coastal-monsters-xmm (tables)]]
+- [[monsters-by-habitat-swamp-monsters-xmm (tables)]]
+- [[random-yuan-ti-servants-yuan-ti-protectors-vgm]]
+- [[swamp-encounters-levels-1120-xge (tables)]]
+- [[swamp-encounters-levels-14-xge (tables)]]
+- [[swamp-encounters-levels-510-xge (tables)]]

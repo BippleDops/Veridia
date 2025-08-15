@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Emberfall the Mystic", "malakai emberfall the mystic", "Malakai Emberfall Mystic", "Mystic the Emberfall Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Emberfall the Mystic
 
 *Goliath Trader (Merchants), Age 75, Female*
@@ -13,7 +19,6 @@
 Average height and imposing, with Mohawk auburn hair and Amber eyes. Tan skin. Burn scars on one side of face.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Believes in every conspiracy theory; Laughs at the most inappropriate times
@@ -36,17 +41,14 @@ Built their business from nothing through cunning and hard work A chance encount
 - **Short Term**: Complete current contract
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Dara Lightbringer the Swift (Family - Cousin)
 - **Status**: One-sided affection
 - **History**: United by common enemy
 
-
 ### Delara Grimholt the Seeker (Criminal - Informant)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ### Gavril Xendar the Fallen (Professional - Mentor)
 - **Status**: Strong and trusting

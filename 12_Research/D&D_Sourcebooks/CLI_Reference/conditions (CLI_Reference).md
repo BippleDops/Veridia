@@ -223,8 +223,6 @@ While you have the Unconscious condition, you experience the following effects.
 
 [[DnD5e-SideScreen-2024]]
 
-[[Travel Calculator|08 Archive/1 DM Toolkit/Travel Calculator]]
-
 ## Player-Facing Summary
 
 Conditions is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.

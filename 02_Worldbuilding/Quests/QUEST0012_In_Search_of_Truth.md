@@ -1,4 +1,5 @@
 ---
+aliases: ["In Search of Truth", "in search of truth", "Truth of Search In"]
 tags: [generated]
 id: QUEST0012
 created: 2025-08-15T04:09:51.370Z

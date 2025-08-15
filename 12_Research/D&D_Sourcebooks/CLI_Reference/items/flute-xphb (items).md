@@ -87,3 +87,18 @@ Mentioned in The First Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Bard Xphb]]
+- [[bard-xphb (classes)]]
+- [[bard-xphb 2 (classes)]]
+- [[Instrument of the Bards Doss Lute Xdmg]]
+- [[Lute of Thunderous Thumping Xdmg]]
+- [[Musical Instrument Xphb]]
+- [[instrument-of-the-bards-doss-lute-xdmg (items)]]
+- [[lute-of-thunderous-thumping-xdmg (items)]]
+- [[musical-instrument-xphb (items)]]
+- [[Tools Phb]]
+- [[tools-phb (tables)]]

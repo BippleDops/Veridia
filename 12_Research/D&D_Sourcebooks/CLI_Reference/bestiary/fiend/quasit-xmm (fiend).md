@@ -162,3 +162,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Quasit Xmm]]
+- [[10 Appendix B Creature Stat Blocks]]
+- [[10-appendix-b-creature-stat-blocks (players-handbook-2024)]]
+- [[Pact of the Chain Xphb]]
+- [[pact-of-the-chain-xphb (optional-features)]]
+- [[Familiars Mm]]
+- [[Familiars Vgm]]
+- [[familiars-mm (variant-rules)]]
+- [[familiars-vgm (variant-rules)]]

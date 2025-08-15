@@ -97,3 +97,18 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Noble Xphb]]
+- [[noble-xphb (backgrounds)]]
+- [[garden]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Alchemists Supplies Xphb]]
+- [[Diplomats Pack Xphb]]
+- [[alchemists-supplies-xphb (items)]]
+- [[diplomats-pack-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

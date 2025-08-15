@@ -1,8 +1,8 @@
 ---
+aliases: ["Ulric Stormwind the Just", "ulric stormwind the just", "Ulric Stormwind Just", "Just the Stormwind Ulric"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -73,8 +73,6 @@ Merchant family that lost everything to pirates. Years ago, they found an ancien
 ### Skills
 Athletics, Perception, Insight
 
-
-
 ## Possessions
 - 100 gold pieces
 - Mysterious key
@@ -86,7 +84,6 @@ Athletics, Perception, Insight
 
 ---
 *Generated: 2025-08-15T03:20:13.074Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

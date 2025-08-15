@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Lightbringer the Wanderer", "xander lightbringer the wanderer", "Xander Lightbringer Wanderer", "Wanderer the Lightbringer Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Lightbringer the Wanderer
 
 *Half-Elf Crime Boss (Villains), Age 74, Male*
@@ -36,12 +42,10 @@ Believes their evil acts serve a greater good They've made a deal they're beginn
 - **Short Term**: Recruit new members
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Gavril Ironforge the Seeker (Professional - Mentor)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
-
 
 ### Baelor Underhill the Risen (Criminal - Target)
 - **Status**: Blood oath bound
@@ -52,16 +56,13 @@ Believes their evil acts serve a greater good They've made a deal they're beginn
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
 
-
 ### Baelor Youngblood the Broken (Personal - Ex-lover)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Brenna Frostwhisper the Bold (Professional - Employee)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Was once a renowned hero

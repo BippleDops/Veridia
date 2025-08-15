@@ -1,11 +1,11 @@
 ---
+aliases: ["Delilah Darkwater the Young", "delilah darkwater the young", "Delilah Darkwater Young", "Young the Darkwater Delilah"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -74,8 +74,6 @@ Raised by monks in a remote monastery. Years ago, they found an ancient artifact
 ### Skills
 Arcana, Investigation
 
-
-
 ## Possessions
 - 79 gold pieces
 - Lucky dice
@@ -89,7 +87,6 @@ Arcana, Investigation
 
 ---
 *Generated: 2025-08-15T03:20:13.088Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

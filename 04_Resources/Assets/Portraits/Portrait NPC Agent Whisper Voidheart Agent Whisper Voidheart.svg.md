@@ -104,3 +104,7 @@ improvements: 20
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Assets Locations Location City Harbor Pilot Captain Storm Skyreacher V1 Harbor Pilot Captain Storm Skyreacher.svg]]

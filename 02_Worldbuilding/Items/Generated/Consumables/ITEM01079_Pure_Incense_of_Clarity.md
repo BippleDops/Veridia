@@ -1,3 +1,9 @@
+---
+aliases: ["Pure Incense of Clarity", "pure incense of clarity", "Clarity of Incense Pure"]
+tags: [item, equipment]
+type: item
+---
+
 # Pure Incense of Clarity
 
 *Consumables, Rare*
@@ -15,8 +21,6 @@ A pure incense glowing softly
 - Breathe underwater 1 hour
 - Invisible for 10 minutes
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -31,7 +35,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.454Z*

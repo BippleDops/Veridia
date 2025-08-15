@@ -1,3 +1,9 @@
+---
+aliases: ["Shadow Sword of Accuracy", "shadow sword of accuracy", "Accuracy of Sword Shadow"]
+tags: [item, equipment]
+type: item
+---
+
 # Shadow Sword of Accuracy
 
 *Weapons, Legendary*
@@ -16,8 +22,6 @@ A shadow sword forged from meteoric iron
 - Critical hits on 19-20
 - Grants advantage on initiative
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -32,7 +36,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.365Z*

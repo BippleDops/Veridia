@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Darkwater the Scholar", "zephyr darkwater the scholar", "Zephyr Darkwater Scholar", "Scholar the Darkwater Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Darkwater the Scholar
 
 *Half-Orc Crime Boss (Villains), Age 49, Non-binary*
@@ -42,7 +48,6 @@ Corrupted by an artifact or dark magic A prophetic dream has been haunting them 
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Branwen Jadeclaw the Swift (Personal - Childhood friend)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
@@ -51,7 +56,6 @@ Corrupted by an artifact or dark magic A prophetic dream has been haunting them 
 ### Caelum Oakenshield the Mystic (Personal - Ex-lover)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Believes they're saving the world

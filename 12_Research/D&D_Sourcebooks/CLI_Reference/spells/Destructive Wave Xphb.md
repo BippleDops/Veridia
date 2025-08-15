@@ -93,3 +93,15 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Death Knight Aspirant Xmm]]
+- [[Death Knight Xmm]]
+- [[death-knight-aspirant-xmm (undead)]]
+- [[death-knight-xmm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Tempest Domain]]
+- [[cleric-xphb-tempest-domain (classes)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Ancient Chalice of Truth", "ancient chalice of truth", "Truth of Chalice Ancient"]
+tags: [item, equipment]
+type: item
+---
+
 # Ancient Chalice of Truth
 
 *Artifacts, Legendary (requires attunement)*
@@ -16,8 +22,6 @@ A ancient chalice radiating otherworldly power
 - Telepathy 120 ft
 - Plane shift 1/day
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -32,7 +36,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.436Z*

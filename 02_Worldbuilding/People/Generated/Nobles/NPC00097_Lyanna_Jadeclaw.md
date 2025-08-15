@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Jadeclaw", "lyanna jadeclaw", "Jadeclaw Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Jadeclaw
 
 *Firbolg Courtier (Nobles), Age 65, Male*
@@ -47,16 +53,13 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Xander Jadeclaw (Criminal - Informant)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
 
-
 ### Aeliana Proudmore (Personal - Childhood friend)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ### Hilda Darkwater the Broken (Family - Child)
 - **Status**: Recently reconciled

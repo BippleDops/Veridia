@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Ravenheart the Cunning", "felicia ravenheart the cunning", "Felicia Ravenheart Cunning", "Cunning the Ravenheart Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Ravenheart the Cunning
 
 *Gnome Carpenter (Commoners), Age 27, Female*
@@ -42,16 +48,13 @@ Survivor of a disaster that destroyed their village A prophetic dream has been h
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Urien Keenblade the Strong (Family - Cousin)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
 
-
 ### Hilda Goldleaf the Wanderer (Family - Sibling)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Can hear the thoughts of others

@@ -191,3 +191,7 @@ Last known to be: - [[dark-shard-amulet-xdmg]]...
 
 ### Curse (if applicable)
 - *[Negative effects]*
+
+## References
+
+- [[The Crystal Caves (D&D_References)]]

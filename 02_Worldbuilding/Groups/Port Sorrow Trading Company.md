@@ -167,3 +167,7 @@ Mentioned in The First Prophecy of Shadows
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Dr. Siphon Gillwater (D&D_Statblocks)]]

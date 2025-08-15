@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Voidwalker the Risen", "faelyn voidwalker the risen", "Faelyn Voidwalker Risen", "Risen the Voidwalker Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Voidwalker the Risen
 
 *Tiefling Rogue (Adventurers), Age 60, Non-binary*
@@ -13,7 +19,6 @@
 Tall and slender, with Short and neat blonde hair and Blue eyes. Scarred skin. Intricate tattoos covering arms.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Compulsive liar about minor things; Never uses people's real names; Always tells the absolute truth
@@ -36,17 +41,14 @@ Searching for a legendary treasure their parent died seeking A prophetic dream h
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Ewan Jadeclaw the Broken (Personal - Best friend)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Caelum Winterborn the Wise (Professional - Partner)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
-
 
 ### Ysara Moonshadow the Swift (Family - Cousin)
 - **Status**: Mutually beneficial
@@ -56,7 +58,6 @@ Searching for a legendary treasure their parent died seeking A prophetic dream h
 ### Fiora Ironforge the Swift (Family - Cousin)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ### Erasmus Youngblood the Redeemed (Professional - Rival)
 - **Status**: On the verge of collapse

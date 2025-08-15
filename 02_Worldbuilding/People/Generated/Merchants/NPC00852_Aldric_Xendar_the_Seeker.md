@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Xendar the Seeker", "aldric xendar the seeker", "Aldric Xendar Seeker", "Seeker the Xendar Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Xendar the Seeker
 
 *Goliath Shopkeeper (Merchants), Age 51, Non-binary*
@@ -36,22 +42,18 @@ Inherited a failing business and turned it around An old debt has come due at th
 - **Short Term**: Survive until next week
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Aldric Jadeclaw the Swift (Political - Ally)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Ysara Voidwalker the Mystic (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Malakai Quicksilver the Scholar (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ### Erasmus Brightblade the Lost (Criminal - Accomplice)
 - **Status**: One-sided affection
@@ -61,7 +63,6 @@ Inherited a failing business and turned it around An old debt has come due at th
 ### Branwen Quicksilver the Broken (Political - Puppet)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Is actually a spy for foreign power

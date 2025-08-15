@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Nightfall", "fiora nightfall", "Nightfall Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Nightfall
 
 *Dwarf Aristocrat (Nobles), Age 47, Female*
@@ -36,7 +42,6 @@ Last survivor of a fallen house, seeking to restore family honor An old debt has
 - **Short Term**: Recruit new members
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Cedric Darkwater the Strong (Criminal - Accomplice)
 - **Status**: One-sided affection
@@ -47,16 +52,13 @@ Last survivor of a fallen house, seeking to restore family honor An old debt has
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Lyanna Winterborn (Political - Spy)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Drusilla Grimholt the Wanderer (Criminal - Accomplice)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Secretly funding the rebellion

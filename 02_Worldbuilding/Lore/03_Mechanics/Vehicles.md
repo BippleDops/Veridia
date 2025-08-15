@@ -92,3 +92,25 @@ improvements: 20
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[09-adventuring#Movement#Mounts and Vehicles]]
+- [[Crystal Corruption Taboos]]
+- [[Customs House]]
+- [[Eastern Kingdom]]
+- [[Fortress of the Deeps]]
+- [[Merchant Family Alliances]]
+- [[Merger Hybrid Vehicles]]
+- [[Quarantine Enforcement]]
+- [[The Bloom Fields]]
+- [[The Tethyan Hegemony]]
+- [[Underwater Breathing]]
+- [[Depth Warden Patrol]]
+- [[Depth Wardens]]
+- [[Madame Rosalind Goldleaf]]
+- [[Port Meridian - Market Square]]
+- [[Reality Anchor Network]]
+- [[Royal Palace]]
+- [[The Deep Patrol]]
+- [[The Depth Market]]

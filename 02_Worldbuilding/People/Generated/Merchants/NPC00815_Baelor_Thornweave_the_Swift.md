@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Thornweave the Swift", "baelor thornweave the swift", "Baelor Thornweave Swift", "Swift the Thornweave Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Thornweave the Swift
 
 *Aasimar Shopkeeper (Merchants), Age 28, Female*
@@ -36,12 +42,10 @@ Built their business from nothing through cunning and hard work An old debt has 
 - **Short Term**: Survive until next week
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Kaelen Oakenshield the Swift (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ### Dara Dawnstrider the Cunning (Criminal - Handler)
 - **Status**: Secretly hostile
@@ -51,7 +55,6 @@ Built their business from nothing through cunning and hard work An old debt has 
 ### Rhiannon Blackstone the Wise (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Is actually a spy for foreign power

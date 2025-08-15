@@ -1,3 +1,9 @@
+---
+aliases: ["Decorated Map Case of Reliability", "decorated map case of reliability", "Reliability of Case Map Decorated"]
+tags: [item, equipment]
+type: item
+---
+
 # Decorated Map Case of Reliability
 
 *Mundane, Common*

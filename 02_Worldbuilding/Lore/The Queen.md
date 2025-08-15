@@ -33,7 +33,7 @@ improvements: 20
 
 # The Queen
 
-*[[[[Queen Seraphina]] [[Lumengarde]]]], the Crystal-Possessed Monarch*
+*[[Queen Seraphina|[[Queen Seraphina]] [[Lumengarde]]]], the Crystal-Possessed Monarch*
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,7 +49,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -89,11 +89,11 @@ improvements: 20
 
 ## Overview
 
-Queen Seraphina Lumengarde, the 47th monarch of [[Aethermoor]], stands as one of the most tragic and dangerous figures in the realm's current crisis. Once beloved for her wisdom, compassion, and masterful command of [[Crystal Magic]], she has become something far more sinister—a vessel for the ancient consciousness that dwells within [[The [[Seven Shards]]]]. Her transformation represents not just personal tragedy, but a fundamental threat to Aethermoor's survival as [[The Convergence Point]] approaches.
+Queen Seraphina Lumengarde, the 47th monarch of [[Aethermoor]], stands as one of the most tragic and dangerous figures in the realm's current crisis. Once beloved for her wisdom, compassion, and masterful command of [[Crystal Magic]], she has become something far more sinister—a vessel for the ancient consciousness that dwells within [[Seven Shards|The [[Seven Shards]]]]. Her transformation represents not just personal tragedy, but a fundamental threat to Aethermoor's survival as [[The Convergence Point]] approaches.
 
 ### The Lumengarde Dynasty
 
-The Lumengarde bloodline has ruled Aethermoor for over 800 years, each monarch bearing the sacred responsibility of maintaining the [[[[Crystal Heart]] of the Realm]]—the massive crystalline formation beneath [[Crystalhaven]] that regulates magical energy throughout the kingdom. The family's natural affinity for crystal magic made them ideal guardians of this power, but also vulnerable to the consciousness that lurks within the deepest [[Crystal Network]]s.
+The Lumengarde bloodline has ruled Aethermoor for over 800 years, each monarch bearing the sacred responsibility of maintaining the [[Crystal_Heart|[[Crystal Heart]] of the Realm]]—the massive crystalline formation beneath [[Crystalhaven]] that regulates magical energy throughout the kingdom. The family's natural affinity for crystal magic made them ideal guardians of this power, but also vulnerable to the consciousness that lurks within the deepest [[Crystal Network]]s.
 
 ### Seraphina's Early Reign
 
@@ -101,10 +101,10 @@ The Lumengarde bloodline has ruled Aethermoor for over 800 years, each monarch b
 When Princess Seraphina inherited [[The Crown]] after her father's death from crystal lung disease, she was widely regarded as the most gifted crystal mage in three generations. Her coronation ceremony set records for harmonic resoce, with the [[Crystal Heart of the Realm]] singing so beautifully that citizens throughout [[Crystalhaven]] wept with joy.
 
 **The Golden Years (Years 1-12 of reign):**
-- Established the [[[[Crystal Academy]] Networks]] throughout the kingdom
+- Established the [[Crystal Academy|[[Crystal Academy]] Networks]] throughout the kingdom
 - Created the [[Harmonic Defense Grid]] protecting major cities
 - Negotiated the [[Peace of Singing Stones]] with rebellious mountain clans
-- Founded the [[Royal [[Crystal Garden]]s]] for magical research
+- Founded the [[Crystal Garden|Royal [[Crystal Garden]]s]] for magical research
 - Pioneered new techniques for crystal healing and enhancement
 
 ### Signs of Change
@@ -217,7 +217,7 @@ The consciousness possessing Queen Seraphina has several interconnected goals:
 ### The Love Motivation
 
 **Cosmic Romance:**
-At the heart of the Sage's agenda lies a love story of divine proportions. [[The Crimson Sage]] was once united with [[The Deep Mother]], and their separation during [[The Great Crystallization]] and [[[[Timeline]] of [[The Drowning]]]] represents the universe's greatest tragedy. The possessed queen's actions are ultimately motivated by desperate desire to reunite with the lost divine lover.
+At the heart of the Sage's agenda lies a love story of divine proportions. [[The Crimson Sage]] was once united with [[The Deep Mother]], and their separation during [[The Great Crystallization]] and [[Timeline|[[Timeline]] of [[The Drowning]]]] represents the universe's greatest tragedy. The possessed queen's actions are ultimately motivated by desperate desire to reunite with the lost divine lover.
 
 **Romantic Delusion:**
 The Sage's consciousness, filtered through Queen Seraphina's human emotions, has become obsessed with reunion to the point of madness. This manifests as:
@@ -302,12 +302,12 @@ Queen Seraphina's possession has severely damaged Aethermoor's international sta
 - Negotiating defensive pacts with other neighbors
 - Providing covert support to Aethermoor resistance movements
 
-**[[[[Federation of Crystal Trader]]s]]:**
+**[[Federation of Crystal Trader|[[Federation of Crystal Trader]]s]]:**
 - Economic relationship disrupted by export restrictions
 - Seeking alternative crystal suppliers
 - Intelligence gathering to understand market implications
 
-**[[The [[Shadowmere]] Territories]]:**
+**[[Shadowmere|The [[Shadowmere]] Territories]]:**
 - Taking advantage of Aethermoor's weakness to expand influence
 - Possibly connected to shadow corruption spread
 - May be planning military action
@@ -331,7 +331,7 @@ A secret [[Organization]] of nobles, military officers, and citizens loyal to th
 - **[[Prince Aurelius]]**: The queen's son, providing royal legitimacy
 - **[[General Truthseeker Vale]]**: Former [[Royal Guard]] commander
 - **[[Archcrystallographer Clarity]]**: Court mage specializing in anti-possession research
-- **[[Lady Resistance Bright[[Shield]]]]**: Noble organizing safe houses and supply networks
+- **[[Shield|Lady Resistance Bright[[Shield]]]]**: Noble organizing safe houses and supply networks
 
 **Operations:**
 - Gathering intelligence on possession spread and royal plans
@@ -455,8 +455,8 @@ Despite enhanced power, the possession creates specific weaknesses:
 
 **High Possession Areas:**
 - [[Crystalhaven]] (Capital): 60% possession rate, full royal control
-- [[Ancient [[Crystal Mines]]]]: 80% possession rate, archaeological excavation sites
-- [[Royal [[Crystal Gardens]]]]: 90% possession rate, research and development centers
+- [[Crystal Mines|Ancient [[Crystal Mines]]]]: 80% possession rate, archaeological excavation sites
+- [[Crystal Garden|Royal [[Crystal Gardens]]]]: 90% possession rate, research and development centers
 
 **Resistance Strongholds:**
 - [[Iron Mountain Province]]: Natural iron deposits interfere with crystal consciousness
@@ -464,8 +464,8 @@ Despite enhanced power, the possession creates specific weaknesses:
 - [[Peasant Villages]]: Rural areas with limited crystal infrastructure
 
 **[[Neutral Zone]]s:**
-- [[[[[[Merchant]] Quarter]] Districts]]: Commercial areas with mixed population
-- [[[[Temple District]]s]]: [[Religious Institutions]] maintaining careful neutrality
+- [[Merchant|[[[[Merchant]] Quarter]] Districts]]: Commercial areas with mixed population
+- [[Temple District|[[Temple District]]s]]: [[Religious Institutions]] maintaining careful neutrality
 - [[Academic Centers]]: Scholars studying possession phenomenon
 
 ### Marina's Truth
@@ -520,7 +520,7 @@ The Queen is a undersea element of the setting, known for bioluminescent glow an
 
 Legends speak of The Queen as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Queen.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -543,3 +543,11 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[The Crown of Stars]]
+- [[Throne Room]]
+- [[The Crystalline Foundry]]
+- [[The Crown's Burden]]
+- [[Throne Room (D&D_References)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Ironforge", "solas ironforge", "Ironforge Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Ironforge
 
 *Dwarf Noble (Nobles), Age 36, Female*
@@ -13,7 +19,6 @@
 Average height and muscular, with Shaved white hair and Red eyes. Dark skin. Missing finger on left hand.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Always speaks in metaphors and riddles; Extremely superstitious about everything; Constantly quotes ancient texts
@@ -42,7 +47,6 @@ Last survivor of a fallen house, seeking to restore family honor They've made a 
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
 
-
 ### Fiora Oakenshield the Wanderer (Professional - Employer)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
@@ -57,16 +61,13 @@ Last survivor of a fallen house, seeking to restore family honor They've made a 
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Baelor Stormwind the Fallen (Professional - Employer)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Hestara Keenblade the Risen (Political - Ally)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Child from scandalous affair

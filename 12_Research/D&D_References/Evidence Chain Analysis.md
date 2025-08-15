@@ -696,8 +696,8 @@ Evidence Chain Analysis techniques have been retroactively applied to investigat
 
 ### Institutional Support
 - [[The Academy of Investigative Arts]] - Training center for Evidence Chain Analysis practitioners
-- [[The Archive of Suppressed Evidence]] - Repository for dangerous investigation materials
-- [[The Forgotten Archive]] - Hidden collection of conspiracy-related evidence
+-  - Repository for dangerous investigation materials
+-  - Hidden collection of conspiracy-related evidence
 - [[Parliament of Echoes]] - Government body that may be infiltrated by conspiracy agents
 
 ---
@@ -725,3 +725,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Silver Mask]]
+- [[The Silverscale Conspiracy]]
+- [[Master_Lore_Index]]
+- [[Silver Mask (D&D_References)]]
+- [[The Final Choice (D&D_References)]]
+- [[The Final Choice 3 (D&D_References)]]
+- [[The Restoration Movement (D&D_References)]]
+- [[The Silverscale Conspiracy (D&D_References)]]

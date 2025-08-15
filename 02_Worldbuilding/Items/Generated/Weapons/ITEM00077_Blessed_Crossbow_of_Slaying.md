@@ -1,3 +1,9 @@
+---
+aliases: ["Blessed Crossbow of Slaying", "blessed crossbow of slaying", "Slaying of Crossbow Blessed"]
+tags: [item, equipment]
+type: item
+---
+
 # Blessed Crossbow of Slaying
 
 *Weapons, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A blessed crossbow made of crystallized magic
 - +2 to attack and damage rolls
 - Can strike ethereal creatures
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -32,7 +36,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.349Z*

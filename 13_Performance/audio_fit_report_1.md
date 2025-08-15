@@ -249,3 +249,8 @@ type: note
 | 04_Resources/Assets/Audio/Generated/aquabyssos_Underwater_v033.wav | Aquabyssos | 0.248 | no | 04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Underwater_v033.wav |
 | 04_Resources/Assets/Audio/Generated/aquabyssos_Underwater_v041.wav | Aquabyssos | 0.242 | no | 04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Underwater_v041.wav |
 | 04_Resources/Assets/Audio/Generated/aquabyssos_Underwater_v049.wav | Aquabyssos | 0.242 | no | 04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Underwater_v049.wav |
+
+## References
+
+- [[Main Quest Line]]
+- [[Central Index]]

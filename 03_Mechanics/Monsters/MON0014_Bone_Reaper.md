@@ -1,4 +1,5 @@
 ---
+aliases: ["Bone Reaper", "bone reaper", "Reaper Bone"]
 tags: [generated]
 id: MON0014_Bone_Reaper
 created: 2025-08-15T04:09:51.425Z
@@ -25,7 +26,6 @@ A guardian entity bound to protect sacred sites
 
 ---
 *Generated: 2025-08-15T03:21:47.462Z*
-
 
 ## Habitat
 - Natural environment and territories

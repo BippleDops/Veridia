@@ -50,7 +50,7 @@ improvements: 20
 
 *The Search for the Depth-Walker's True Compass*
 
-> *"Every navigator in Aquabyssos knows their compass lies at depth. But there exists one compass that tells only truth—the Depth-Walker's True Compass, forged from the heart of a fallen star and [[Bless]]ed by the first depths. Find it, and you'll never be lost again[[...]] if you survive the finding."*
+> *"Every navigator in Aquabyssos knows their compass lies at depth. But there exists one compass that tells only truth—the Depth-Walker's True Compass, forged from the heart of a fallen star and [[Bless]]ed by the first depths. Find it, and you'll never be lost again[[Quest Corruption in ... Connected To: Regional Politics and Trade Related Locations: Nearby Settlements|...]] if you survive the finding."*
 > — [[Navigator Sage Driftwood]], Master of the Deep Currents
 
 ## 🔧 Deep Evaluation Improvements
@@ -67,7 +67,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -113,11 +113,11 @@ improvements: 20
 
 The Compass Quest is a legendary treasure hunt that has consumed the dreams and lives of countless navigators throughout [[Aquabyssos]]. The Depth-Walker's True Compass is more than a simple navigation tool—it is an artifact of immense power that can guide its bearer through the most treacherous depths, reveal hidden [[path]]s through reality itself, and even navigate the spaces between dimensions.
 
-The quest begins when characters encounter strange magnetic anomalies that render normal navigation impossible. Ships find themselves traveling in circles, compasses spin wildly, and even experienced navigators become hopelessly lost. The only solution lies in finding the legendary True Compass, but the artifact has been lost for over three centuries, hidden somewhere in the [[Crushing Depths]] of the [[The [[Hadal Depths]]]].
+The quest begins when characters encounter strange magnetic anomalies that render normal navigation impossible. Ships find themselves traveling in circles, compasses spin wildly, and even experienced navigators become hopelessly lost. The only solution lies in finding the legendary True Compass, but the artifact has been lost for over three centuries, hidden somewhere in the [[Crushing Depths]] of the [[Hadal Depths|The [[Hadal Depths]]]].
 
 This multi-part adventure combines exploration, investigation, underwater survival, and puzzle-solving as characters must piece together ancient clues, survive the deepest regions of the ocean, and confront the guardians that protect the compass from those deemed unworthy.
 
-The quest connects to larger campaign themes involving [[The Deep Mother]], [[[[Crystal Forest]]|[[02 Worldbuilding]]/[[Places]]/Crystal Forest]], and the ancient history of [[[[[[Emperor]] Thalassius]] the Wise|02 Worldbuilding/[[Lore]]/[[Emperor Thalassius the Wise]]]], whose court navigators first created the True Compass during the golden age of Aquabyssos.
+The quest connects to larger campaign themes involving [[The Deep Mother]], [[Crystal Forest|[[Crystal Forest]]|[[02_Worldbuilding|02 Worldbuilding]]/[[Places]]/Crystal Forest]], and the ancient history of [[Emperor|[[[[Emperor]] Thalassius]] the Wise|02 Worldbuilding/[[Lore]]/[[Emperor Thalassius the Wise]]]], whose court navigators first created the True Compass during the golden age of Aquabyssos.
 
 ### The Origin of the True Compass
 
@@ -186,16 +186,16 @@ The quest has taken on new urgency as magnetic anomalies have begun appearing th
 
 **Potential [[Allies]]**:
 - [[12 Research]]: Veteran deep explorer
-- [[[[Engineer Brass Gearspin]]|02 Worldbuilding/[[People]]/Engineer Brass Gearspin]]: [[Pressure Technology]] expert
-- [[[[Antiquarian Eliza Tidecaller]]|02 Worldbuilding/People/Antiquarian Eliza Tidecaller]]: [[Historical Research]]er
+- [[Engineer Brass Gearspin|[[Engineer Brass Gearspin]]|02 Worldbuilding/[[People]]/Engineer Brass Gearspin]]: [[Pressure Technology]] expert
+- [[Antiquarian Eliza Tidecaller|[[Antiquarian Eliza Tidecaller]]|02 Worldbuilding/People/Antiquarian Eliza Tidecaller]]: [[Historical Research]]er
 - [[Prophet Nerida Voidgazer]]: Deep void specialist
 - [[Master Smith Vulcan Deepforge|02 Worldbuilding/People/Master Smith Vulcan Deepforge]]: Metalworking expert for compass analysis
 
 **Opposition and Complications**:
 - Other expeditions competing for the same prize
-- [[The [[Depth Warden]]s|02 Worldbuilding/[[Groups]]/The [[Depth Wardens]]]] may try to prevent civilian access to dangerous depths
-- [[[[The [[Silverscale Consortium]]]]|02 Worldbuilding/Groups/The Silverscale Consortium]] wants to claim the compass for profit
-- [[The [[Shadow Conspiracy]]|02 Worldbuilding/Groups/The Shadow Conspiracy]] has their own mysterious interest in the artifact
+- [[Depth Warden|The [[Depth Warden]]s|02 Worldbuilding/[[Groups]]/The [[Depth Wardens]]]] may try to prevent civilian access to dangerous depths
+- [[Silverscale Consortium|[[The [[Silverscale Consortium]]]]|02 Worldbuilding/Groups/The Silverscale Consortium]] wants to claim the compass for profit
+- [[Shadow Conspiracy|The [[Shadow Conspiracy]]|02 Worldbuilding/Groups/The Shadow Conspiracy]] has their own mysterious interest in the artifact
 
 ### Phase 3: The Descent to the Hadal Depths
 
@@ -213,10 +213,10 @@ The expedition must navigate through multiple depth layers, each presenting uniq
 **Abyssal Zone (4,000-6,000m)**:
 - Complete darkness except for bioluminescent creatures
 - Crushing pressure requires constant equipment monitoring
-- Encounters with [[[[Memory Farmers]]|02 Worldbuilding/Lore/Memory Farmers]] harvesting deep memories
+- Encounters with [[Memory Farmers|[[Memory Farmers]]|02 Worldbuilding/Lore/Memory Farmers]] harvesting deep memories
 - Strange currents that seem to flow in impossible directions
 
-**[[[[Hadal Zon]]e]] (6,000m+)**:
+**[[Hadal Zon|[[Hadal Zon]]e]] (6,000m+)**:
 - Extreme pressure threatens even the best equipment
 - [[Reality Distortion]]s make navigation by sight impossible
 - Encounters with ancient guardians awakened by the expedition
@@ -423,9 +423,9 @@ While individual skill is important, the quest emphasizes that the greatest navi
 
 ### Connected Adventures
 
-- **[[[[The Lost Expedition]]|02 Worldbuilding/Quests/The Lost Expedition]]**: Previous attempts to find the compass
+- **[[The Lost Expedition|[[The Lost Expedition]]|02 Worldbuilding/Quests/The Lost Expedition]]**: Previous attempts to find the compass
 - **[[The Deep Fugitive]]**: Encounters with other deep explorers
-- **[[[[Memory Meadows]] Black Market]]**: Information and equipment sources
+- **[[Memory Meadows|[[Memory Meadows]] Black Market]]**: Information and equipment sources
 - **[[Crystal Forest|02 Worldbuilding/Places/Crystal Forest]]**: Star-metal resoce and compass crafting knowledge
 - **[[garden]]**: Advanced magical research and artifact analysis
 
@@ -446,7 +446,7 @@ Legends speak of Compass Quest as a nexus where past and present converge. Local
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -470,13 +470,11 @@ Compass Quest is a notable location characterized by its unique features and str
 ### Founding
 Compass Quest was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -484,13 +482,11 @@ Compass Quest was established in the distant past, growing from humble beginning
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -534,7 +530,6 @@ Key stop on textiles trade route
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions

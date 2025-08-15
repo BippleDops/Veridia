@@ -1,3 +1,9 @@
+---
+aliases: ["Greater Potion of Swiftness", "greater potion of swiftness", "Swiftness of Potion Greater"]
+tags: [item, equipment]
+type: item
+---
+
 # Greater Potion of Swiftness
 
 *Consumables, Common*
@@ -13,8 +19,6 @@ A greater potion glowing softly
 ## Properties
 - Resistance for 10 minutes
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -29,7 +33,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.449Z*

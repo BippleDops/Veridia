@@ -1,3 +1,9 @@
+---
+aliases: ["Radiant Sword of Accuracy", "radiant sword of accuracy", "Accuracy of Sword Radiant"]
+tags: [item, equipment]
+type: item
+---
+
 # Radiant Sword of Accuracy
 
 *Weapons, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A radiant sword forged from meteoric iron
 - Critical hits on 19-20
 - Ignores resistance to damage type
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -30,7 +34,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.362Z*

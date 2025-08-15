@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Oakenshield the Bold", "fiora oakenshield the bold", "Fiora Oakenshield Bold", "Bold the Oakenshield Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Oakenshield the Bold
 
 *Human Aristocrat (Nobles), Age 76, Non-binary*
@@ -42,7 +48,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Dara Proudmore the Swift (Political - Opposition)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
@@ -62,11 +67,9 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Fiora Ironwood (Personal - Love interest)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Child from scandalous affair

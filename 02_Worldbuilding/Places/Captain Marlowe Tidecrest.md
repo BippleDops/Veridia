@@ -372,7 +372,6 @@ The Tidecrest Marina connects to numerous important elements throughout Aquabyss
 
 *The Tidecrest Marina stands as a beacon of maritime excellence, where the ancient traditions of seamanship meet modern innovation, and where every vessel finds not just safe harbor, but a gateway to the endless possibilities that lie beyond the horizon.*
 
-
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
@@ -411,13 +410,11 @@ Captain Marlowe Tidecrest is a notable location characterized by its unique feat
 ### Founding
 Captain Marlowe Tidecrest was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -490,7 +487,6 @@ Ongoing situations affecting Captain Marlowe Tidecrest:
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -526,3 +522,8 @@ Ongoing situations affecting Captain Marlowe Tidecrest:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Pearl_Harbor_City (Places)]]
+- [[Pearl_Harbor_City (D&D_References)]]

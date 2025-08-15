@@ -166,12 +166,10 @@ The main reason parties get involved
 - Consequences
 - Epilogue hooks
 
-
 ## Pronunciation Guide
 - **Aethermoor**: [AYTHERMOOR]
 - **Theme**: [THEME]
 - **Aerial**: [AYRIAL]
-
 
 ## See Also
 - Related content

@@ -51,7 +51,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -174,7 +174,7 @@ Different adaptation needs require specialized approaches:
 ### Production Facilities
 
 **The Pressure Works Industrial Complex:**
-Located in the heavy industrial district, this massive facility produces all components of the Pressure Adaptation System under the direction of [[Master Engineer [[Coral]] Pressureforge]] and her team of specialized technicians.
+Located in the heavy industrial district, this massive facility produces all components of the Pressure Adaptation System under the direction of [[Coral|Master Engineer [[Coral]] Pressureforge]] and her team of specialized technicians.
 
 **Manufacturing Capabilities:**
 - **Crystalline Matrix Cultivation**: Growing and shaping pressure-regulation crystals
@@ -362,7 +362,7 @@ Comprehensive emergency procedures address various scenarios:
 - **District Evacuation Procedures**: Organized movement to safer pressure zones
 - **Repair Team Mobilization**: Specialized crews trained in crisis system repair
 - **Medical Emergency Response**: Mass casualty treatment for pressure-related injuries
-- **[[Communication Systems]]**: Emergency information networks for coordinating response
+- **[[Communication_Systems|Communication Systems]]**: Emergency information networks for coordinating response
 
 ### Technological Enhancement Projects
 
@@ -392,9 +392,9 @@ Cooperation with surface realm researchers offers mutual benefits:
 
 **Joint Development Projects:**
 - **Dual-Environment Adaptation**: Systems supporting life in both air and water
-- **Reality Transition Support**: Pressure management during [[Dimensional Travel]]
+- **Reality Transition Support**: Pressure management during [[Dimensional_Travel|Dimensional Travel]]
 - **Emergency Cross-Realm Evacuation**: Systems supporting mass population movement
-- **[[[[Cultural Exchange]] Programs]]**: Technology sharing between surface and depth civilizations
+- **[[Cultural Exchange|[[Cultural Exchange]] Programs]]**: Technology sharing between surface and depth civilizations
 - **Convergence Preparation**: Adaptation systems for merged reality environment
 
 ### Medical and Therapeutic Applications
@@ -430,7 +430,7 @@ The Pressure Adaptation System works closely with other critical Aquabyssos infr
 - **[[Underwater Breathing]]**: Life support systems working with adaptation devices
 - **[[Depth Effect Quick Reference]]**: Medical monitoring coordinated with adaptation status
 - **[[Crystal Forest]]**: Resource production supporting system manufacturing
-- **[[The Deep Harvest]]**: [[Economic System]]s dependent on pressure-adapted workers
+- **[[The Deep Harvest]]**: [[Economic_System|Economic System]]s dependent on pressure-adapted workers
 
 ### Professional Networks and [[Organization]]s
 
@@ -451,7 +451,7 @@ Multiple organizations contribute to ongoing system improvement:
 - **[[Aquabyssos Technical University]]**: Academic research and engineer training programs
 - **[[Deep Sciences Research Institute]]**: Advanced studies in pressure and adaptation technology
 - **[[laboratory]]**: Specialized research in biological device integration
-- **[[[[International Pressure]] Technology Consortium]]**: Global cooperation on adaptation innovations
+- **[[International Pressure|[[International Pressure]] Technology Consortium]]**: Global cooperation on adaptation innovations
 - **[[Emergency Medical Research Foundation]]**: Crisis response and medical treatment advancement
 
 ### Adventure Scenarios
@@ -509,7 +509,7 @@ Pressure Adaptation System is a undersea element of the setting, known for biolu
 
 Legends speak of Pressure Adaptation System as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pressure Adaptation System.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -556,3 +556,27 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Ancient Aquabyssos Rulers]]
+- [[Crystal Forest]]
+- [[Crystal-Corruption-Tracking-Sheet]]
+- [[Depth Effect Quick Reference]]
+- [[Multi-Phase Boss Fights]]
+- [[The Deep Harvest]]
+- [[The Pressure Baptism Rites]]
+- [[The Silverscale Conspiracy]]
+- [[Tidal Chambers]]
+- [[Underwater Breathing]]
+- [[Ancient Aquabyssos Rulers (D&D_References)]]
+- [[Crystal Forest (D&D_References)]]
+- [[Crystal-Corruption-Tracking-Sheet (D&D_References)]]
+- [[Depth Effect Quick Reference (D&D_References)]]
+- [[The Deep Harvest (D&D_References)]]
+- [[The Depth Chart]]
+- [[The Pressure Baptism Rites (D&D_References)]]
+- [[The Silverscale Conspiracy (D&D_References)]]
+- [[Tidal Chambers (D&D_References)]]
+- [[Underwater Breathing (D&D_References)]]

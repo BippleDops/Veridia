@@ -137,7 +137,6 @@ The party attended a formal parliamentary session as "cultural observers" while 
 - **Queen's**: [QUEEN-S]
 - **Thane's**: [THANE-S]
 
-
 ## Alternate Descriptions
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination

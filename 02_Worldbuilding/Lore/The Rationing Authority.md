@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -83,7 +83,7 @@ The Rationing Authority represents a crucial aspect of the world's history, cosm
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -95,7 +95,7 @@ The Rationing Authority represents a crucial aspect of the world's history, cosm
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -139,3 +139,7 @@ The Rationing Authority represents a crucial aspect of the world's history, cosm
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[The_Rationing_Authority (02_Worldbuilding)]]

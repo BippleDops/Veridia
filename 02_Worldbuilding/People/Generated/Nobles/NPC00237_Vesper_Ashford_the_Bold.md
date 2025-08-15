@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Ashford the Bold", "vesper ashford the bold", "Vesper Ashford Bold", "Bold the Ashford Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Ashford the Bold
 
 *Halfling Aristocrat (Nobles), Age 23, Non-binary*
@@ -36,22 +42,18 @@ Last survivor of a fallen house, seeking to restore family honor Strange abiliti
 - **Short Term**: Sabotage competition
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Faelyn Zephyrblade (Professional - Employer)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Ysara Moonshadow the Mystic (Family - Spouse)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Brenna Keenblade the Scholar (Criminal - Handler)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

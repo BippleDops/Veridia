@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Winterborn the Guardian", "baelor winterborn the guardian", "Baelor Winterborn Guardian", "Guardian the Winterborn Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Winterborn the Guardian
 
 *Firbolg Fighter (Adventurers), Age 51, Non-binary*
@@ -42,16 +48,13 @@ Running from a dark past that won't stay buried They've fallen in love with some
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Aeliana Proudmore the Bold (Family - Child)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Wynne Youngblood the Risen (Personal - Love interest)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Possessed by ancient spirit

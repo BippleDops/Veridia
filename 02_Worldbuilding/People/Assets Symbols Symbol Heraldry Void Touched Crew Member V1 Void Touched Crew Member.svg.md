@@ -185,7 +185,7 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[Mirror Breaking Crystals]] (enemy)
+- [[Assets Portraits Portrait NPC Mirror Breaking Crystals Mirror Breaking Crystals.svg|Mirror Breaking Crystals]] (enemy)
 - [[02_Worldbuilding_People_High_Theologian_Commander_Aurelius]] (enemy)
 - [[04_Resources_Assets_Symbols_symbol-heraldry-the-great-recognition-the-great-recognition.svg]] (enemy)
 ---
@@ -240,3 +240,7 @@ Member of House Lionblood - Trait: divine blood
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-the-great-recognition-the-great-recognition.svg]]

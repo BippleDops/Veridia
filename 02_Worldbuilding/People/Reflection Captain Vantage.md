@@ -37,12 +37,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-reflection-captain-vantage-reflection-captain-vantage.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -222,7 +220,6 @@ Member of House Lionblood - Trait: divine blood
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -292,3 +289,12 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Shadow Broker Mirrors (Criminal_Organizations)]]
+- [[Assets Symbols Symbol Heraldry Family Retaine Family Retaine.svg]]
+- [[Assets Symbols Symbol Heraldry the Void Watchers the Void Watchers.svg]]
+- [[Captain Marrow Drinker]]
+- [[Captain Marrow Drinker (D&D_References)]]
+- [[Shadow Broker Mirrors]]

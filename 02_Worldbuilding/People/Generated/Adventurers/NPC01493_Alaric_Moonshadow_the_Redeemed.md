@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Moonshadow the Redeemed", "alaric moonshadow the redeemed", "Alaric Moonshadow Redeemed", "Redeemed the Moonshadow Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Moonshadow the Redeemed
 
 *Half-Elf Wizard (Adventurers), Age 29, Female*
@@ -13,7 +19,6 @@
 Tall and imposing, with Carefully styled gray hair and Brown eyes. Tan skin. Missing finger on left hand.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Speaks to inanimate objects
@@ -36,22 +41,18 @@ Chosen by fate to fulfill an ancient prophecy Strange abilities have begun manif
 - **Short Term**: Recruit new members
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Fiora Crystalbrook the Cunning (Political - Ally)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
 
-
 ### Aeliana Silverleaf the Wise (Criminal - Fence)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Xander Oakenshield the Mystic (Professional - Partner)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Is from the future

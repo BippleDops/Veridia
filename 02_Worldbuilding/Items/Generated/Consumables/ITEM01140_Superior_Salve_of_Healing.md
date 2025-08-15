@@ -1,3 +1,9 @@
+---
+aliases: ["Superior Salve of Healing", "superior salve of healing", "Healing of Salve Superior"]
+tags: [item, equipment]
+type: item
+---
+
 # Superior Salve of Healing
 
 *Consumables, Common*
@@ -13,8 +19,6 @@ A superior salve glowing softly
 ## Properties
 - Breathe underwater 1 hour
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -29,7 +33,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.459Z*

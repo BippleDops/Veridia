@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Stormwind the Wise", "wynne stormwind the wise", "Wynne Stormwind Wise", "Wise the Stormwind Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Stormwind the Wise
 
 *Elf Wizard (Adventurers), Age 73, Female*
@@ -42,7 +48,6 @@ Running from a dark past that won't stay buried A chance encounter last winter c
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Erasmus Ashford the Lost (Personal - Best friend)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
@@ -51,7 +56,6 @@ Running from a dark past that won't stay buried A chance encounter last winter c
 ### Hilda Keenblade the Lost (Criminal - Informant)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Has died and been resurrected

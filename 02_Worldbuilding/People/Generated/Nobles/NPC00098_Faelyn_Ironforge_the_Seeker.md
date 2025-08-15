@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Ironforge the Seeker", "faelyn ironforge the seeker", "Faelyn Ironforge Seeker", "Seeker the Ironforge Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Ironforge the Seeker
 
 *Half-Orc Ambassador (Nobles), Age 66, Non-binary*
@@ -41,7 +47,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 ### Lyanna Voidwalker the Strong (Family - Parent)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ### Felicia Ashford (Criminal - Handler)
 - **Status**: Secretly hostile

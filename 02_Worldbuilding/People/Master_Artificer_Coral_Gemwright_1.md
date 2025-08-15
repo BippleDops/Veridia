@@ -56,7 +56,6 @@ A distinguished individual whose presence commands attention. Their appearance s
 - **Bonds**: Connections to local organizations
 - **Flaws**: To be discovered through interaction
 
-
 ## Stats
 - **AC**: 12
 - **HP**: 22 (4d8)
@@ -105,7 +104,6 @@ Master Artificer Coral Gemwright 1 has established themselves as a notable figur
 - Competing professionals
 - Political opponents
 - Business competitors
-
 
 ## Motivations
 - **Primary Goal**: Main objective

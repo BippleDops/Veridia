@@ -1,4 +1,5 @@
 ---
+aliases: ["Fire Reaper", "fire reaper", "Reaper Fire"]
 tags: [generated]
 id: MON0010_Fire_Reaper
 created: 2025-08-15T04:09:51.423Z
@@ -25,7 +26,6 @@ A being of pure elemental energy given form
 
 ---
 *Generated: 2025-08-15T03:21:47.462Z*
-
 
 ## Habitat
 - Natural environment and territories

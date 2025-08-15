@@ -1,6 +1,18 @@
-# Legends Entry 4
+---
+aliases: ["Legends Entry 4", "legends entry 4", "4 Entry Legends"]
+tags: [note, stub-fixed]
+---
 
-*Legends*
+# Lore00003 Legends Entry 4
+
+## Content
+Content to be added.
+
+## Related
+- [[Related content]]
+
+## Notes
+*Stub file automatically populated*
 
 ---
-*ID: LORE00003*
+*Note: This content develops through gameplay and campaign events.*

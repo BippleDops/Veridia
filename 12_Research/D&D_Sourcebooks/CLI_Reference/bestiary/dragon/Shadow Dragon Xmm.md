@@ -193,3 +193,10 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Juvenile Shadow Dragon Xmm]]
+- [[juvenile-shadow-dragon-xmm (dragon)]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]

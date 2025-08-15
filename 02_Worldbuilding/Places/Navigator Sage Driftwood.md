@@ -56,7 +56,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -181,7 +181,7 @@ She's also been approached by various factions seeking her navigation services f
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Sage Driftwood serves as both a practical resource for oceanic travel and a source of wisdom about the deeper mysteries of the sea. Her philosophical approach to navigation can provide unique insights into problems, while her oceanic connections offer opportunities for underwater adventures and encounters with sea creatures. Use her neutral stance and ancient wisdom to provide guidance that transcends factional politics.
 
@@ -210,13 +210,11 @@ Navigator Sage Driftwood is a notable location characterized by its unique featu
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -224,13 +222,11 @@ Navigator Sage Driftwood is a notable location characterized by its unique featu
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -291,7 +287,6 @@ Ongoing situations affecting Navigator Sage Driftwood:
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -327,3 +322,10 @@ Ongoing situations affecting Navigator Sage Driftwood:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Compass Quest]]
+- [[The Forgotten One]]
+- [[Compass Quest (D&D_References)]]
+- [[The Forgotten One (D&D_References)]]

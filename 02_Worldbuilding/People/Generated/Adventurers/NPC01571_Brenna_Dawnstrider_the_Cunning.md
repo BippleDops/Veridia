@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Dawnstrider the Cunning", "brenna dawnstrider the cunning", "Brenna Dawnstrider Cunning", "Cunning the Dawnstrider Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Dawnstrider the Cunning
 
 *Dragonborn Fighter (Adventurers), Age 57, Female*
@@ -13,7 +19,6 @@
 Average height and wiry, with Carefully styled brown hair and Hazel eyes. Unusual hue skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Collects unusual and worthless objects; Always hungry and eating something
@@ -36,12 +41,10 @@ Running from a dark past that won't stay buried They've fallen in love with some
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Corvus Jadeclaw the Risen (Personal - Ex-lover)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
-
 
 ### Ysara Hawthorne the Bold (Political - Spy)
 - **Status**: Professional only
@@ -61,7 +64,6 @@ Running from a dark past that won't stay buried They've fallen in love with some
 ### Gavril Winterborn the Wise (Professional - Employer)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Secretly working for the villain

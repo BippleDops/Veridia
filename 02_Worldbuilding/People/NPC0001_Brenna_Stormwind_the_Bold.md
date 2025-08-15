@@ -1,8 +1,8 @@
 ---
+aliases: ["Brenna Stormwind the Bold", "brenna stormwind the bold", "Brenna Stormwind Bold", "Bold the Stormwind Brenna"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -73,8 +73,6 @@ Grew up on the streets, learning to survive. Years ago, they found an ancient ar
 ### Skills
 Insight, Stealth
 
-
-
 ## Possessions
 - 17 gold pieces
 - Set of thieves' tools
@@ -88,7 +86,6 @@ Insight, Stealth
 
 ---
 *Generated: 2025-08-15T03:20:13.071Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

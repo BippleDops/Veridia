@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Goldleaf the Mystic", "xander goldleaf the mystic", "Xander Goldleaf Mystic", "Mystic the Goldleaf Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Goldleaf the Mystic
 
 *Aasimar Heir (Nobles), Age 53, Female*
@@ -36,22 +42,18 @@ Secretly adopted into nobility, living in fear of discovery A family member's de
 - **Short Term**: Make this month's payment
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Branwen Ironwood (Professional - Partner)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
 
-
 ### Rhiannon Moonshadow the Seeker (Political - Puppet)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Felicia Xendar the Lost (Personal - Best friend)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Secretly funding the rebellion

@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Brightblade the Broken", "hilda brightblade the broken", "Hilda Brightblade Broken", "Broken the Brightblade Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Brightblade the Broken
 
 *Dragonborn Cleric (Adventurers), Age 66, Non-binary*
@@ -42,7 +48,6 @@ Running from a dark past that won't stay buried They've made a deal they're begi
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
 
-
 ### Hestara Ironwood the Guardian (Political - Patron)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
@@ -51,7 +56,6 @@ Running from a dark past that won't stay buried They've made a deal they're begi
 ### Wynne Ironforge the Scholar (Criminal - Informant)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ### Malakai Nightfall the Strong (Family - Parent)
 - **Status**: Mutually beneficial
@@ -62,11 +66,9 @@ Running from a dark past that won't stay buried They've made a deal they're begi
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
 
-
 ### Solas Ironforge the Cunning (Personal - Childhood friend)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Has died and been resurrected

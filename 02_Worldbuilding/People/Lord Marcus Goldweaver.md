@@ -35,7 +35,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-lord-marcus-goldweaver-lord-marcus-goldweaver.svg)
 
@@ -185,7 +184,6 @@ Member of House Eagleblood - Trait: curse
 - **Enemy**: [[Assets]]
 - **Student**: [[Captain Steelhart]]
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -255,3 +253,7 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City Quartermaster Judith Supplycurrent V1 Quartermaster Judith Supplycurrent.svg]]

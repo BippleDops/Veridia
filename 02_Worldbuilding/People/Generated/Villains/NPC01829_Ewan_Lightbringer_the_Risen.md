@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Lightbringer the Risen", "ewan lightbringer the risen", "Ewan Lightbringer Risen", "Risen the Lightbringer Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Lightbringer the Risen
 
 *Firbolg Dark Wizard (Villains), Age 72, Non-binary*
@@ -36,7 +42,6 @@ Betrayed by those they trusted, now seeking revenge on the world Strange abiliti
 - **Short Term**: Find missing person
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Cedric Nightfall the Strong (Criminal - Informant)
 - **Status**: Blood oath bound
@@ -47,16 +52,13 @@ Betrayed by those they trusted, now seeking revenge on the world Strange abiliti
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Cedric Blackstone the Broken (Family - Parent)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Malakai Blackstone the Seeker (Professional - Rival)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Knows how the world will end

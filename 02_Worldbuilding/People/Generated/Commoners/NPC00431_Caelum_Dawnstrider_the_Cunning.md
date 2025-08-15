@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Dawnstrider the Cunning", "caelum dawnstrider the cunning", "Caelum Dawnstrider Cunning", "Cunning the Dawnstrider Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Dawnstrider the Cunning
 
 *Aasimar Carpenter (Commoners), Age 41, Non-binary*
@@ -46,7 +52,6 @@ Family has worked the same trade for generations, but times are changing They've
 ### Kaelen Keenblade the Lost (Family - Cousin)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ### Felicia Oakenshield the Guardian (Family - Cousin)
 - **Status**: Secretly hostile

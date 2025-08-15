@@ -81,3 +81,29 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Snake Horror Rot]]
+- [[snake-horror-rot (construct)]]
+- [[Air Elemental Myrmidon Mpmm]]
+- [[Earth Elemental Myrmidon Mpmm]]
+- [[Fire Elemental Myrmidon Mpmm]]
+- [[Water Elemental Myrmidon Mpmm]]
+- [[air-elemental-myrmidon-mpmm (elemental)]]
+- [[earth-elemental-myrmidon-mpmm (elemental)]]
+- [[fire-elemental-myrmidon-mpmm (elemental)]]
+- [[water-elemental-myrmidon-mpmm (elemental)]]
+- [[Narzugon Mpmm]]
+- [[narzugon-mpmm (fiend)]]
+- [[Fire Giant Dreadnought Mpmm]]
+- [[fire-giant-dreadnought-mpmm (giant)]]
+- [[Skull Lord Mpmm]]
+- [[skull-lord-mpmm (undead)]]
+- [[Armor of Invulnerability Xdmg]]
+- [[armor-of-invulnerability-xdmg (items)]]
+- [[Armor Xphb]]
+- [[Armor and Shields Armor Phb]]
+- [[armor-and-shields-armor-phb (tables)]]
+- [[armor-xphb (tables)]]

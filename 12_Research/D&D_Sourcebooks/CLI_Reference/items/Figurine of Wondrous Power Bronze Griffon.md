@@ -84,3 +84,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A stranger needs help delivering before dawn
 - Strange dreams suggest ancient magic
 - A map reveals ancient history about this place
+
+## References
+
+- [[Master_Item_Catalog]]

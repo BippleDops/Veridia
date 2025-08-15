@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Ashford the Mystic", "ewan ashford the mystic", "Ewan Ashford Mystic", "Mystic the Ashford Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Ashford the Mystic
 
 *Halfling Broker (Merchants), Age 60, Female*
@@ -36,27 +42,22 @@ Built their business from nothing through cunning and hard work A family member'
 - **Short Term**: Complete current contract
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Thalia Quicksilver the Lost (Personal - Best friend)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
 
-
 ### Aeliana Blackstone the Wanderer (Professional - Partner)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
-
 
 ### Elric Emberfall the Bold (Criminal - Accomplice)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
 
-
 ### Malakai Thornweave the Cunning (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ### Zephyr Ironwood the Fallen (Family - Child)
 - **Status**: On the verge of collapse
@@ -66,7 +67,6 @@ Built their business from nothing through cunning and hard work A family member'
 ### Idris Ashford the Wise (Professional - Employee)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is actually a spy for foreign power

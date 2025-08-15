@@ -95,3 +95,14 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[05 Chapter 4 Character Origins]]
+- [[05-chapter-4-character-origins (players-handbook-2024)]]
+- [[2 Character Races]]
+- [[2-character-races (volos-guide-to-monsters)]]
+- [[Reincarnate Xphb]]
+- [[reincarnate-xphb (spells)]]
+- [[Height and Weight Vgm]]
+- [[height-and-weight-vgm (tables)]]

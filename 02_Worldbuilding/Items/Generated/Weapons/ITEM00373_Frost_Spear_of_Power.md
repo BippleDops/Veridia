@@ -1,3 +1,9 @@
+---
+aliases: ["Frost Spear of Power", "frost spear of power", "Power of Spear Frost"]
+tags: [item, equipment]
+type: item
+---
+
 # Frost Spear of Power
 
 *Weapons, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A frost spear forged from meteoric iron
 - +2 to attack and damage rolls
 - Can strike ethereal creatures
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -31,7 +35,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.376Z*

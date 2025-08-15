@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Emberfall the Seeker", "urien emberfall the seeker", "Urien Emberfall Seeker", "Seeker the Emberfall Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Emberfall the Seeker
 
 *Dwarf Corrupt Noble (Villains), Age 66, Male*
@@ -36,7 +42,6 @@ Driven mad by knowledge humanity wasn't meant to know An old debt has come due a
 - **Short Term**: Complete current contract
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Malakai Ashford the Broken (Personal - Nemesis)
 - **Status**: Recently reconciled
@@ -51,7 +56,6 @@ Driven mad by knowledge humanity wasn't meant to know An old debt has come due a
 ### Kaelen Xendar the Fallen (Political - Ally)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ### Idris Lightbringer the Scholar (Criminal - Target)
 - **Status**: Strained but maintaining

@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Oakenshield the Bold", "aeliana oakenshield the bold", "Aeliana Oakenshield Bold", "Bold the Oakenshield Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Oakenshield the Bold
 
 *Elf Corrupt Noble (Villains), Age 31, Female*
@@ -42,16 +48,13 @@ Corrupted by an artifact or dark magic A chance encounter last winter changed th
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Malakai Silverleaf the Scholar (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Hilda Lightbringer the Swift (Criminal - Fence)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ### Cedric Ironforge the Risen (Family - Sibling)
 - **Status**: One-sided affection
@@ -62,11 +65,9 @@ Corrupted by an artifact or dark magic A chance encounter last winter changed th
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
 
-
 ### Lyanna Voidwalker the Lost (Political - Patron)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Has a child they're protecting

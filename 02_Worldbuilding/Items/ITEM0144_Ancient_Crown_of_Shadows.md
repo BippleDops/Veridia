@@ -1,4 +1,5 @@
 ---
+aliases: ["Ancient Crown of Shadows", "ancient crown of shadows", "Shadows of Crown Ancient"]
 tags: [generated]
 id: ITEM0144
 created: 2025-08-15T04:09:51.123Z

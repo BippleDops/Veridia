@@ -1,11 +1,11 @@
 ---
+aliases: ["Katarina Brightblade the Terrible", "katarina brightblade the terrible", "Katarina Brightblade Terrible", "Terrible the Brightblade Katarina"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -75,8 +75,6 @@ Former soldier who left after a traumatic battle. Years ago, they once saved a n
 ### Skills
 Deception, Investigation, Athletics
 
-
-
 ## Possessions
 - 42 gold pieces
 - Small gemstone
@@ -91,7 +89,6 @@ Deception, Investigation, Athletics
 
 ---
 *Generated: 2025-08-15T03:20:13.094Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

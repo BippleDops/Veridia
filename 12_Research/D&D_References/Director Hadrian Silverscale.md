@@ -95,3 +95,20 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Consequence Chain 2 - Crystal Trade Disruption]]
+- [[Reputation System]]
+- [[Silver Mask]]
+- [[The Final Choice]]
+- [[The Silverscale Conspiracy]]
+- [[Consequence Chain 2 - Crystal Trade Disruption (D&D_References)]]
+- [[Consequence Chain 2 - Crystal Trade Disruption 3 (D&D_References)]]
+- [[Reputation System (D&D_References)]]
+- [[Silver Mask (D&D_References)]]
+- [[The Final Choice (D&D_References)]]
+- [[The Final Choice 3 (D&D_References)]]
+- [[The Silverscale Conspiracy (D&D_References)]]
+- [[Aethermoor - Session 04 The Silverscale Gambit]]

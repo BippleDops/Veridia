@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Stormwind the Lost", "idris stormwind the lost", "Idris Stormwind Lost", "Lost the Stormwind Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Stormwind the Lost
 
 *Elf Rogue (Adventurers), Age 74, Non-binary*
@@ -47,16 +53,13 @@ Searching for a legendary treasure their parent died seeking They've been marked
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Rhiannon Thornweave the Fallen (Political - Puppet)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
 
-
 ### Gavril Frostwhisper the Broken (Family - Cousin)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ### Fiora Underhill the Broken (Family - Parent)
 - **Status**: Strained but maintaining

@@ -57,3 +57,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - An heirloom has gone missing and evil awakens
 - Someone is searching for a witness for revenge
 - A merchant needs help stealing before winter
+
+## References
+
+- [[The Bathyal Succession]]
+- [[The Bathyal Succession (D&D_References)]]

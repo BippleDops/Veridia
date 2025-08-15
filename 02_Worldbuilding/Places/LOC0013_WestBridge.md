@@ -1,4 +1,5 @@
 ---
+aliases: ["WestBridge", "westbridge"]
 tags: [generated]
 id: LOC0013
 created: 2025-08-15T04:09:51.245Z
@@ -21,20 +22,17 @@ A sacred site dedicated to divine worship
 - **Current Leader**: Archpriest of the dominant faith
 - **Political Stability**: Stable
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -94,7 +92,6 @@ A sacred site dedicated to divine worship
 
 ---
 *Generated: 2025-08-15T03:21:04.070Z*
-
 
 ## History
 - **Founding**: Origin story

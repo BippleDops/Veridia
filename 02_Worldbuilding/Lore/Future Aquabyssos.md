@@ -121,3 +121,8 @@ Future Aquabyssos represents a crucial aspect of the world's history, cosmology,
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Temporal Navigation]]
+- [[Temporal Navigation (D&D_Statblocks)]]

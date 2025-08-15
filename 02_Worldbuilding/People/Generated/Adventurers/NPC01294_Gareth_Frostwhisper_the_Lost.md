@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Frostwhisper the Lost", "gareth frostwhisper the lost", "Gareth Frostwhisper Lost", "Lost the Frostwhisper Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Frostwhisper the Lost
 
 *Dragonborn Wizard (Adventurers), Age 55, Non-binary*
@@ -42,11 +48,9 @@ Accidentally gained powers and learning to control them They've fallen in love w
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Rhiannon Underhill the Strong (Family - Parent)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ### Idris Goldleaf the Redeemed (Personal - Best friend)
 - **Status**: Complicated history
@@ -57,11 +61,9 @@ Accidentally gained powers and learning to control them They've fallen in love w
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Corvus Oakenshield the Lost (Criminal - Fence)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Has died and been resurrected

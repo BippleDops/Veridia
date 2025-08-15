@@ -26,3 +26,9 @@ Further information about this topic will be developed as the campaign progresse
 - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery
+
+## References
+
+- [[Establish New World Order (Orders)]]
+- [[The Crystal Governance Institute]]
+- [[Establish New World Order]]

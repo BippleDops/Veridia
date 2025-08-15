@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Ironwood the Guardian", "fiora ironwood the guardian", "Fiora Ironwood Guardian", "Guardian the Ironwood Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Ironwood the Guardian
 
 *Aasimar Fisher (Commoners), Age 46, Non-binary*
@@ -13,7 +19,6 @@
 Very tall and delicate, with Carefully styled red hair and Amber eyes. Fair skin. Birthmark shaped like a constellation.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Collects unusual and worthless objects; Always hungry and eating something
@@ -36,7 +41,6 @@ Former soldier trying to adjust to civilian life They've been marked by a secret
 - **Short Term**: Complete current contract
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Nerys Winterborn the Guardian (Political - Puppet)
 - **Status**: Blood oath bound
@@ -47,11 +51,9 @@ Former soldier trying to adjust to civilian life They've been marked by a secret
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
 
-
 ### Caelum Jadeclaw the Lost (Criminal - Accomplice)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ### Hestara Moonshadow the Wise (Professional - Rival)
 - **Status**: Blood oath bound

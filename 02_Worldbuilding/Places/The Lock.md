@@ -419,13 +419,11 @@ The Lock is a notable location characterized by its unique features and strategi
 ### Founding
 The Lock was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -433,13 +431,11 @@ The Lock was established in the distant past, growing from humble beginnings to 
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -482,7 +478,6 @@ The Lock was established in the distant past, growing from humble beginnings to 
 - 20% middle class
 - 79% working poor
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -518,3 +513,18 @@ The Lock was established in the distant past, growing from humble beginnings to 
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Azure Citadel]]
+- [[Crystallium]]
+- [[Pearl_Harbor_City (Places)]]
+- [[Pressure's End]]
+- [[The Seven Shards Mystery]]
+- [[The Lock Saboteur]]
+- [[The Maw of Darkness]]
+- [[Azure Citadel (D&D_References)]]
+- [[Crystallium (D&D_References)]]
+- [[Smuggler (D&D_Statblocks)]]
+- [[The Lock Saboteur (D&D_Statblocks)]]
+- [[The Maw of Darkness (D&D_Statblocks)]]

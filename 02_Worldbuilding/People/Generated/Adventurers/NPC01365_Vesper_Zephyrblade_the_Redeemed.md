@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Zephyrblade the Redeemed", "vesper zephyrblade the redeemed", "Vesper Zephyrblade Redeemed", "Redeemed the Zephyrblade Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Zephyrblade the Redeemed
 
 *Goliath Ranger (Adventurers), Age 76, Non-binary*
@@ -13,7 +19,6 @@
 Average height and heavyset, with Mohawk bald hair and Black eyes. Olive skin. Crooked nose from multiple breaks.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Always hungry and eating something; Never uses people's real names
@@ -36,7 +41,6 @@ Running from a dark past that won't stay buried They've fallen in love with some
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Aldric Winterborn the Redeemed (Criminal - Informant)
 - **Status**: Professional only
@@ -52,16 +56,13 @@ Running from a dark past that won't stay buried They've fallen in love with some
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Malakai Moonshadow the Strong (Professional - Employer)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Urien Grimholt the Broken (Personal - Ex-lover)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Secretly working for the villain

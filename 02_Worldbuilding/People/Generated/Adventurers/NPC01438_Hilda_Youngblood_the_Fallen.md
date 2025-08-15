@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Youngblood the Fallen", "hilda youngblood the fallen", "Hilda Youngblood Fallen", "Fallen the Youngblood Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Youngblood the Fallen
 
 *Dwarf Rogue (Adventurers), Age 39, Non-binary*
@@ -36,22 +42,18 @@ Seeking vengeance for a murdered mentor An old debt has come due at the worst po
 - **Short Term**: Make this month's payment
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Brenna Thornweave the Swift (Family - Parent)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Wynne Proudmore the Cunning (Criminal - Target)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
 
-
 ### Ewan Dawnstrider the Wise (Criminal - Fence)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ### Aldric Ironwood the Fallen (Family - Cousin)
 - **Status**: Professional only

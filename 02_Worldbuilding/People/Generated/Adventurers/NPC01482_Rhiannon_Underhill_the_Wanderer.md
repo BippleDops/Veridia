@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Underhill the Wanderer", "rhiannon underhill the wanderer", "Rhiannon Underhill Wanderer", "Wanderer the Underhill Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Underhill the Wanderer
 
 *Half-Orc Bard (Adventurers), Age 36, Female*
@@ -36,22 +42,18 @@ Accidentally gained powers and learning to control them They've made a deal they
 - **Short Term**: Sabotage competition
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Caelum Youngblood the Risen (Family - Child)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Brenna Jadeclaw the Fallen (Family - Spouse)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Branwen Blackstone the Swift (Personal - Ex-lover)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Carries a world-ending artifact

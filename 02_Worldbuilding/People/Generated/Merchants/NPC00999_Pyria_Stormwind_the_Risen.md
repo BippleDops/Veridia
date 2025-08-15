@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Stormwind the Risen", "pyria stormwind the risen", "Pyria Stormwind Risen", "Risen the Stormwind Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Stormwind the Risen
 
 *Human Trader (Merchants), Age 49, Male*
@@ -36,7 +42,6 @@ Built their business from nothing through cunning and hard work An old debt has 
 - **Short Term**: Gather information
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Solas Voidwalker the Scholar (Professional - Partner)
 - **Status**: Mutually beneficial
@@ -46,7 +51,6 @@ Built their business from nothing through cunning and hard work An old debt has 
 ### Felicia Thornweave the Redeemed (Political - Spy)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ### Zephyr Silverleaf the Bold (Political - Spy)
 - **Status**: Blood oath bound
@@ -61,7 +65,6 @@ Built their business from nothing through cunning and hard work An old debt has 
 ### Kaelen Stormwind the Wise (Criminal - Accomplice)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Smuggles illegal magical items

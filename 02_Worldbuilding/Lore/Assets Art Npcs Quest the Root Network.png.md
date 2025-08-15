@@ -294,6 +294,5 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Natural disasters
 - Current power structures established
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*

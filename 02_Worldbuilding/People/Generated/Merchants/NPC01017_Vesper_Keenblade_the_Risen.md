@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Keenblade the Risen", "vesper keenblade the risen", "Vesper Keenblade Risen", "Risen the Keenblade Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Keenblade the Risen
 
 *Tabaxi Appraiser (Merchants), Age 41, Female*
@@ -36,17 +42,14 @@ Built their business from nothing through cunning and hard work An old debt has 
 - **Short Term**: Sabotage competition
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Vesper Thornweave the Mystic (Professional - Employee)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Aeliana Thornweave the Cunning (Family - Child)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ### Dara Quicksilver the Cunning (Political - Puppet)
 - **Status**: One-sided affection

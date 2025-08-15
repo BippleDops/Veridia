@@ -164,3 +164,7 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Aquabyssos World Overview#The Void Touched]]

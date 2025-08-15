@@ -1,6 +1,6 @@
 ---
 
-title: [[The [[Seven Shards]]]] Mystery
+title: [[Seven Shards|The [[Seven Shards]]]] Mystery
 type: [[location]]
 tags:
 - mystery
@@ -60,7 +60,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -118,7 +118,7 @@ Subsequent historical accounts are fragmentary and often contradictory, but they
 
 The modern understanding of the Seven Shards began fifty years ago when the scholar-explorer Magistrate Tidewell published his comprehensive analysis "Fragments of Power: A Study in Distributed Artifacts." Tidewell's work established the current framework for understanding the shards and sparked the wave of systematic searching that continues today.
 
-### [[The [[Azure Shard]]]]
+### [[Azure Shard|The [[Azure Shard]]]]
 
 Currently held in the treasury of Aethermoor, the Azure Shard appears as a perfectly faceted sapphire that contains swirling patterns of light resembling ocean currents. It grants its wielder control over water and weather patterns but at the cost of gradually draining their life force.
 
@@ -126,7 +126,7 @@ Currently held in the treasury of Aethermoor, the Azure Shard appears as a perfe
 
 Lost approximately thirty years ago during a expedition to the [[Deep Trenches]], the Crimson Shard was known for its ability to enhance combat abilities and healing magic. Its last known location was aboard the research vessel "Depth's Promise," which disappeared under mysterious circumstances.
 
-### [[The [[Verdant Shard]]]]
+### [[Verdant Shard|The [[Verdant Shard]]]]
 
 Held by surface world druids in the Northern Forests, the Verdant Shard promotes incredible plant growth and can commune with natural spirits across vast distances. Its guardians have historically been reluctant to allow scholars access to study it.
 
@@ -219,7 +219,7 @@ Legends speak of The Seven Shards Mystery as a nexus where past and present conv
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -240,13 +240,11 @@ The Seven Shards Mystery is a notable location characterized by its unique featu
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -254,13 +252,11 @@ The Seven Shards Mystery is a notable location characterized by its unique featu
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -293,7 +289,6 @@ Ongoing situations affecting The Seven Shards Mystery:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -330,3 +325,14 @@ Ongoing situations affecting The Seven Shards Mystery:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Comprehensive-World-Connection-Guide]]
+- [[Marina-Red-Tide-Coralheart]]
+- [[Aethermoor - Session 03 Council of Shadows]]
+- [[Comprehensive-World-Connection-Guide (D&D_References)]]
+- [[Comprehensive-World-Connection-Guide 3 (D&D_References)]]
+- [[Marina-Red-Tide-Coralheart (D&D_References)]]
+- [[Aethermoor - Session 04 The Silverscale Gambit]]
+- [[Aethermoor - Session 05 The Queens Madness]]

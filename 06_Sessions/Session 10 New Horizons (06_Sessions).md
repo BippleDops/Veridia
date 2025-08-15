@@ -132,7 +132,7 @@ Regardless of the convergence outcome, the heroes discover that their victory ha
 
 ### Investigation Opportunities
 
-**Research Path** - [[Academy Alliance Archives]]  
+**Research Path** -   
 **DC 18 Investigation**: Discover references to "entities beyond creation"  
 **DC 20 Arcana**: Understand that Void Lords exist outside the concept of existence itself  
 **DC 22 History**: Learn of ancient civilizations that vanished completely from reality
@@ -503,12 +503,10 @@ description: Heroes complete the greatest adventure in recorded history
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## Pronunciation Guide
 - **Both**: [BOTH]
 - **Theme**: [THEME]
 - **Months**: [MONTHS]
-
 
 ## Alternate Descriptions
 - **First Impression**: Initial appearance

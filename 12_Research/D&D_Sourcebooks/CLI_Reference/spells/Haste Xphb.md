@@ -91,3 +91,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Prismari Student Scc]]
+- [[Quandrix Student Scc]]
+- [[prismari-student-scc (backgrounds)]]
+- [[quandrix-student-scc (backgrounds)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Paladin Xphb Oath of Glory Xphb]]
+- [[Paladin Xphb Oath of Vengeance Xphb]]
+- [[Ranger Xphb Horizon Walker Xge]]
+- [[paladin-xphb-oath-of-glory-xphb (classes)]]
+- [[paladin-xphb-oath-of-vengeance-xphb (classes)]]
+- [[ranger-xphb-horizon-walker-xge (classes)]]
+- [[Blackrazor Xdmg]]
+- [[Potion of Speed Xdmg]]
+- [[blackrazor-xdmg (items)]]
+- [[potion-of-speed-xdmg (items)]]

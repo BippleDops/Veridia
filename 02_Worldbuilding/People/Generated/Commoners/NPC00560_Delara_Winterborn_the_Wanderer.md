@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Winterborn the Wanderer", "delara winterborn the wanderer", "Delara Winterborn Wanderer", "Wanderer the Winterborn Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Winterborn the Wanderer
 
 *Firbolg Blacksmith (Commoners), Age 29, Non-binary*
@@ -36,7 +42,6 @@ Survivor of a disaster that destroyed their village A chance encounter last wint
 - **Short Term**: Complete current contract
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Rhiannon Hawthorne the Guardian (Political - Spy)
 - **Status**: On the verge of collapse
@@ -47,16 +52,13 @@ Survivor of a disaster that destroyed their village A chance encounter last wint
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Thalia Stormwind the Seeker (Political - Spy)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Hilda Frostwhisper the Risen (Professional - Partner)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ### Xander Zephyrblade the Seeker (Criminal - Handler)
 - **Status**: Recently reconciled

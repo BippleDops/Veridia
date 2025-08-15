@@ -1,3 +1,9 @@
+---
+aliases: ["Venomous Dagger of Speed", "venomous dagger of speed", "Speed of Dagger Venomous"]
+tags: [item, equipment]
+type: item
+---
+
 # Venomous Dagger of Speed
 
 *Weapons, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A venomous dagger forged from meteoric iron
 - Ignores resistance to damage type
 - Grants advantage on initiative
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -32,7 +36,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.364Z*

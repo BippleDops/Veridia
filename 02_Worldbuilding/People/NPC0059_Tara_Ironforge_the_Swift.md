@@ -1,11 +1,11 @@
 ---
+aliases: ["Tara Ironforge the Swift", "tara ironforge the swift", "Tara Ironforge Swift", "Swift the Ironforge Tara"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -79,7 +79,6 @@ Insight, Investigation
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 53 gold pieces
 - Lucky dice
@@ -94,7 +93,6 @@ Insight, Investigation
 
 ---
 *Generated: 2025-08-15T03:21:04.033Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

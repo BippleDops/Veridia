@@ -67,3 +67,7 @@ Mentioned in The Second Prophecy of Shadows
 - A document has gone missing and evil awakens
 - Someone is protecting an heir for revenge
 - Someone is protecting a artifact for power
+
+## References
+
+- [[rod-of-alertness-xdmg (items)]]

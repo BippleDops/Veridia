@@ -1,3 +1,9 @@
+---
+aliases: ["Elegant Tool Kit of Durability", "elegant tool kit of durability", "Durability of Kit Tool Elegant"]
+tags: [item, equipment]
+type: item
+---
+
 # Elegant Tool Kit of Durability
 
 *Mundane, Uncommon*
@@ -14,8 +20,6 @@ A elegant tool kit showing signs of age
 - Functions in antimagic
 - Functions in antimagic
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -30,7 +34,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.492Z*

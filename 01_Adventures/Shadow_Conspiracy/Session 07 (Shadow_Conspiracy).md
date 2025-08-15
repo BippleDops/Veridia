@@ -141,7 +141,6 @@ The main reason parties get involved
 - Stealing medicine to save a plague victim
 - Choosing between two villages to save
 
-
 ## Preparation Checklist
 - [ ] Review previous session
 - [ ] Prepare NPC voices

@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Winterborn the Mystic", "aldric winterborn the mystic", "Aldric Winterborn Mystic", "Mystic the Winterborn Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Winterborn the Mystic
 
 *Dwarf Noble (Nobles), Age 31, Female*
@@ -36,7 +42,6 @@ Last survivor of a fallen house, seeking to restore family honor A prophetic dre
 - **Short Term**: Recruit new members
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Ewan Underhill (Personal - Best friend)
 - **Status**: Strong and trusting
@@ -46,7 +51,6 @@ Last survivor of a fallen house, seeking to restore family honor A prophetic dre
 ### Caelum Lightbringer the Redeemed (Political - Patron)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
-
 
 ### Solas Stormwind (Political - Patron)
 - **Status**: On the verge of collapse

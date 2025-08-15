@@ -206,3 +206,7 @@ Member of House Wolfblood - Trait: magical affinity
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-the-harbormaster-s-office-v1-the-harbormaster-s-office.svg]]

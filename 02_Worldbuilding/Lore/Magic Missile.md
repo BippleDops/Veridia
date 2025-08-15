@@ -86,3 +86,37 @@ Magic Missile represents a crucial aspect of the world's history, cosmology, or 
 - A shipment has gone missing and evil awakens
 - Strange disappearances suggest ancient magic
 - A [[Merchant]] needs help stealing before the festival
+
+## References
+
+- [[The Void Tears]]
+- [[Master_Item_Catalog]]
+- [[Master_Spell_Compendium]]
+- [[Helmed Horror Xmm]]
+- [[helmed-horror-xmm (construct)]]
+- [[Night Hag Xmm]]
+- [[night-hag-xmm (fiend)]]
+- [[Illithilich Vgm (undead)]]
+- [[illithilich-vgm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Brooch of Shielding Xdmg]]
+- [[Robe of Stars Xdmg]]
+- [[Wand of Magic Missiles Xdmg]]
+- [[brooch-of-shielding-xdmg (items)]]
+- [[robe-of-stars-xdmg (items)]]
+- [[wand-of-magic-missiles-xdmg (items)]]
+- [[Shield Xphb (spells)]]
+- [[shield-xphb (spells)]]
+- [[Arcana Uncommon Xdmg]]
+- [[Magic Item Table F]]
+- [[Random Magic Items Arcana]]
+- [[Random Traps Trap Effects]]
+- [[Wild Magic Surge Phb]]
+- [[arcana-uncommon-xdmg (tables)]]
+- [[magic-item-table-f (tables)]]
+- [[random-magic-items-arcana (tables)]]
+- [[random-traps-trap-effects (tables)]]
+- [[wild-magic-surge-phb (tables)]]
+- [[Downtime Activity Crafting a Magic Item]]
+- [[downtime-activity-crafting-a-magic-item (variant-rules)]]

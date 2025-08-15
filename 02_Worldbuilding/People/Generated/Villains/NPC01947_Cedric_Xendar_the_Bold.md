@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Xendar the Bold", "cedric xendar the bold", "Cedric Xendar Bold", "Bold the Xendar Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Xendar the Bold
 
 *Genasi Dark Wizard (Villains), Age 28, Female*
@@ -36,17 +42,14 @@ Betrayed by those they trusted, now seeking revenge on the world They've fallen 
 - **Short Term**: Recruit new members
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Brenna Oakenshield the Redeemed (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
 
-
 ### Gareth Emberfall the Risen (Political - Patron)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
-
 
 ### Pyria Ironforge the Cunning (Family - Sibling)
 - **Status**: On the verge of collapse

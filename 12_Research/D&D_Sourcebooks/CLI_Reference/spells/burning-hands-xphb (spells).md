@@ -97,7 +97,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -116,4 +115,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[burning-hands-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[burning-hands-xphb (spells)|burning-hands-xphb (spells)-phb]]` in CLI_Reference/spells/

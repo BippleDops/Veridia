@@ -105,7 +105,6 @@ WHERE !tags OR tags =
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Alternate Descriptions
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
@@ -120,3 +119,27 @@ WHERE !tags OR tags =
 | 4  | Option D |
 | 5  | Option E |
 | 6  | Option F |
+
+## Overview
+
+*To be added*
+
+## Goals
+
+*To be added*
+
+## Structure
+
+*To be added*
+
+## Members
+
+*To be added*
+
+## Resources
+
+*To be added*
+
+## Relationships
+
+*To be added*

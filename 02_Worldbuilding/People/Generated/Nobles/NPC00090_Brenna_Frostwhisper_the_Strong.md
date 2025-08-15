@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Frostwhisper the Strong", "brenna frostwhisper the strong", "Brenna Frostwhisper Strong", "Strong the Frostwhisper Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Frostwhisper the Strong
 
 *Halfling Heir (Nobles), Age 51, Non-binary*
@@ -36,17 +42,14 @@ Exiled from their homeland, trying to rebuild their power base They've made a de
 - **Short Term**: Survive until next week
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Hestara Hawthorne (Professional - Rival)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Idris Lightbringer the Redeemed (Professional - Employer)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ### Rhiannon Stormwind the Fallen (Political - Puppet)
 - **Status**: Recently reconciled

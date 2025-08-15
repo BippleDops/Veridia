@@ -1,3 +1,9 @@
+---
+aliases: ["Ornate Compass of Durability", "ornate compass of durability", "Durability of Compass Ornate"]
+tags: [item, equipment]
+type: item
+---
+
 # Ornate Compass of Durability
 
 *Mundane, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A ornate compass expertly crafted
 - Provides comfort
 - Functions in antimagic
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -30,7 +34,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.482Z*

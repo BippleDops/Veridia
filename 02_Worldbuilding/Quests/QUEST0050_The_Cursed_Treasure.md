@@ -1,4 +1,5 @@
 ---
+aliases: ["The Cursed Treasure", "the cursed treasure", "Treasure Cursed The"]
 tags: [generated]
 id: QUEST0050
 created: 2025-08-15T04:09:51.391Z
@@ -21,8 +22,6 @@ Safely deliver the ambassador to the capital
 
 ### Secondary
 - Rescue any prisoners found
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they survived a plague that killed their family, which changed their life forever. Now, circumstances demand immediate action.

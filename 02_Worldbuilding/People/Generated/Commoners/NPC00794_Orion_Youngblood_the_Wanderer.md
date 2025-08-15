@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Youngblood the Wanderer", "orion youngblood the wanderer", "Orion Youngblood Wanderer", "Wanderer the Youngblood Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Youngblood the Wanderer
 
 *Genasi Farmer (Commoners), Age 51, Non-binary*
@@ -13,7 +19,6 @@
 Short and stocky, with Tied back black hair and Black eyes. Weathered skin. Birthmark shaped like a constellation.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Flirts with everyone regardless of interest
@@ -36,12 +41,10 @@ Grew up in poverty but discovered a talent that might change everything An old d
 - **Short Term**: Gather information
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Wynne Stormwind the Risen (Criminal - Handler)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ### Lyanna Zephyrblade the Swift (Family - Child)
 - **Status**: Professional only
@@ -52,11 +55,9 @@ Grew up in poverty but discovered a talent that might change everything An old d
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Gavril Moonshadow the Wise (Criminal - Target)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Knows location of ancient treasure

@@ -37,7 +37,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -79,7 +79,7 @@ Kraken is a undersea element of the setting, known for bioluminescent glow and p
 
 Legends speak of Kraken as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Kraken.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -109,3 +109,32 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[Krake]]
+- [[Abyssos Prime - Inverse Palace]]
+- [[Harbor Master Luna Freedrift (Places)]]
+- [[Master_Item_Catalog]]
+- [[Kraken Priest Mpmm]]
+- [[Kraken Xmm (monstrosity)]]
+- [[kraken-priest-mpmm (monstrosity)]]
+- [[kraken-xmm (monstrosity)]]
+- [[5 Nonplayer Characters]]
+- [[5-nonplayer-characters (volos-guide-to-monsters)]]
+- [[Scroll of Titan Summoning Kraken Xdmg]]
+- [[Scroll of Titan Summoning Xdmg]]
+- [[scroll-of-titan-summoning-kraken-xdmg (items)]]
+- [[scroll-of-titan-summoning-xdmg (items)]]
+- [[At Sea Encounters]]
+- [[Monsters by Habitat Underwater Monsters Xmm]]
+- [[Random Encounters at Sea]]
+- [[Size Categories Mm]]
+- [[Underwater Encounters Levels 1120 Xge]]
+- [[at-sea-encounters (tables)]]
+- [[monsters-by-habitat-underwater-monsters-xmm (tables)]]
+- [[random-encounters-at-sea (tables)]]
+- [[size-categories-mm (tables)]]
+- [[underwater-encounters-levels-1120-xge (tables)]]
+- [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]]
+- [[Harbor Master Luna Freedrift (D&D_Statblocks)]]

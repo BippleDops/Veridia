@@ -102,3 +102,9 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Locations Location City Master Smith Coral Hammer Master Smith Coral Hammer.svg]]
+- [[Assets Locations Location City the Crystal Cathedral of Pure Light the Crystal Cathedral of Pure Light.svg]]
+- [[Assets Portraits Portrait NPC Captain Henrik Saltbreeze Captain Henrik Saltbreeze.svg]]

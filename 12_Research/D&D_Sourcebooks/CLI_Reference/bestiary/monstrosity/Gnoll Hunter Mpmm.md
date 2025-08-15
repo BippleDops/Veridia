@@ -138,3 +138,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A merchant needs help stealing before the new moon
 - A corpse reveals a conspiracy about this place
+
+## References
+
+- [[gnoll-hunter-mpmm (monstrosity)]]
+- [[3 Bestiary]]
+- [[3-bestiary (volos-guide-to-monsters)]]

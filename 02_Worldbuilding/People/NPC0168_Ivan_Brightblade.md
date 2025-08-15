@@ -1,11 +1,11 @@
 ---
+aliases: ["Ivan Brightblade", "ivan brightblade", "Brightblade Ivan"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Born into a noble family but cast out for scandal. Years ago, they was falsely a
 ### Skills
 Stealth, Arcana
 
-
-
 ## Possessions
 - 41 gold pieces
 - Healing potion
@@ -90,7 +88,6 @@ Stealth, Arcana
 
 ---
 *Generated: 2025-08-15T03:21:04.043Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

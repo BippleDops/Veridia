@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Silverleaf the Swift", "qadim silverleaf the swift", "Qadim Silverleaf Swift", "Swift the Silverleaf Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Silverleaf the Swift
 
 *Tiefling Fisher (Commoners), Age 74, Non-binary*
@@ -36,22 +42,18 @@ Survivor of a disaster that destroyed their village They've fallen in love with 
 - **Short Term**: Survive until next week
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Brenna Quicksilver (Personal - Love interest)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Erasmus Emberfall the Swift (Political - Patron)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Ewan Ravenheart the Lost (Professional - Rival)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
-
 
 ### Delara Ironforge the Guardian (Political - Ally)
 - **Status**: One-sided affection

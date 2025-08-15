@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Zephyrblade the Fallen", "aeliana zephyrblade the fallen", "Aeliana Zephyrblade Fallen", "Fallen the Zephyrblade Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Zephyrblade the Fallen
 
 *Dragonborn Ranger (Adventurers), Age 60, Female*
@@ -13,7 +19,6 @@
 Very short and imposing, with Partially shaved black hair and Gray eyes. Scarred skin. Burn scars on one side of face.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Always speaks in metaphors and riddles
@@ -36,12 +41,10 @@ Running from a dark past that won't stay buried A prophetic dream has been haunt
 - **Short Term**: Find missing person
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Delara Darkwater the Seeker (Family - Cousin)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ### Lyanna Youngblood the Risen (Professional - Rival)
 - **Status**: Complicated history
@@ -52,16 +55,13 @@ Running from a dark past that won't stay buried A prophetic dream has been haunt
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Xander Crystalbrook the Wanderer (Professional - Employer)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
 
-
 ### Vesper Goldleaf the Fallen (Personal - Best friend)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Has died and been resurrected

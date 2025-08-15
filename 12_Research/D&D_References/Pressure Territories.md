@@ -68,3 +68,10 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Abyssos Prime - Inverse Palace]]
+- [[The Pressure Conspiracy]]
+- [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]]
+- [[The Pressure Conspiracy (D&D_Statblocks)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Voidwalker the Scholar", "cedric voidwalker the scholar", "Cedric Voidwalker Scholar", "Scholar the Voidwalker Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Voidwalker the Scholar
 
 *Halfling Fisher (Commoners), Age 68, Non-binary*
@@ -36,7 +42,6 @@ Runaway from an arranged marriage, starting a new life Strange abilities have be
 - **Short Term**: Recruit new members
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Delara Underhill the Scholar (Professional - Partner)
 - **Status**: Mutually beneficial
@@ -47,7 +52,6 @@ Runaway from an arranged marriage, starting a new life Strange abilities have be
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Malakai Ironwood the Mystic (Personal - Love interest)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
@@ -57,11 +61,9 @@ Runaway from an arranged marriage, starting a new life Strange abilities have be
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Faelyn Ironforge the Fallen (Political - Opposition)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Can hear the thoughts of others

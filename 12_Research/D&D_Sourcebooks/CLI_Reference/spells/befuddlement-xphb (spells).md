@@ -90,7 +90,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -109,4 +108,21 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[befuddlement-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[befuddlement-xphb (spells)|befuddlement-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Neothelid Mpmm]]
+- [[Ulitharid Mpmm]]
+- [[neothelid-mpmm (aberration)]]
+- [[ulitharid-mpmm (aberration)]]
+- [[Amnizu Mpmm]]
+- [[Oinoloth Mpmm]]
+- [[Sibriex Mpmm]]
+- [[amnizu-mpmm (fiend)]]
+- [[oinoloth-mpmm (fiend)]]
+- [[sibriex-mpmm (fiend)]]
+- [[Nagpa Mpmm]]
+- [[nagpa-mpmm (monstrosity)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]

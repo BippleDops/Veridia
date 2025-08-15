@@ -172,3 +172,14 @@ Legends speak of Marina Red Tide Coralheart   Aquabyssos as a nexus where past a
 - Strange accidents suggest ancient magic
 - Someone is hunting a artifact for money
 - A shipment has gone missing and truth emerges
+
+## References
+
+- [[Senator Glaucus]]
+- [[The Scattered Emperor]]
+- [[Abyssos Prime]]
+- [[Marina's Echo]]
+- [[Senator Glaucus (D&D_References)]]
+- [[The Emperor's Gambit (D&D_References)]]
+- [[The Scattered Emperor (D&D_References)]]
+- [[Aquabyssos - Session 01 - The Drowning Welcome]]

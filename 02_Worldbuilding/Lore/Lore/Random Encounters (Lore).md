@@ -84,7 +84,6 @@ improvements: 20
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
 
-
 ## Scaling by Party Level
 - **Level 1-4**: Reduce enemies
 - **Level 5-10**: Standard difficulty

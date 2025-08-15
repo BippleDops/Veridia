@@ -36,7 +36,7 @@ This is a comprehensive TTRPG vault for the world of Cordelia, encompassing the 
 
 ## Key Narrative Threads
 1. **Shadow Conspiracy**: Government infiltration through consciousness manipulation
-2. **Crystal Plague**: Spreading corruption affecting Queen Seraphina
+2. **[[Crystal Plague|Crystal Plague]]**: Spreading corruption affecting Queen Seraphina
 3. **The Deep Mother**: Eldritch entity threatening reality itself
 4. **Seven Shards Quest**: Ancient artifacts with reality-altering powers
 5. **Parliamentary Corruption**: Shadow Chamber controlling Aquabyssos government
@@ -45,20 +45,20 @@ This is a comprehensive TTRPG vault for the world of Cordelia, encompassing the 
 ## Vault Structure
 ```
 📁 Root Directory (Clean - 3 files only)
-├── README.md           # Vault overview and quick start
+├── [[README|README]].md           # Vault overview and quick start
 ├── └── CLAUDE.md          # This configuration file
 
 📁 Main Content Directories
 ├── 00_Indexes/        # Master navigation (6 files)
-├── 01_Adventures/     # Campaigns and sessions (6 files)
+├── [[01_Adventures|01_Adventures]]/     # Campaigns and sessions (6 files)
 ├── 02_Worldbuilding/  # 4,000+ files
 │   ├── People/        # 494 NPCs
 │   ├── Places/        # 1,277 locations
 │   ├── Lore/          # 2,000+ lore documents
 │   └── Groups/        # 166 factions
 ├── 03_Mechanics/      # 98 game systems
-├── 04_Resources/      # 42 tools and assets
-├── 05_Templates/      # 35 reusable templates
+├── 04_Resources/      # 42 tools and [[Assets|Assets]]
+├── [[05_Templates|05_Templates]]/      # 35 reusable templates
 ├── 06_GM_Resources/   # GM tools and references
 ├── 07_Player_Resources/ # Player materials
 ├── 08_Archive/        # Historical content
@@ -93,7 +93,7 @@ When developing content:
 4. Build interconnected storylines not isolated content
 5. Consider pressure/altitude mechanics in all encounters
 6. Reference existing NPCs and locations frequently
-7. Add moral complexity to faction relationships
+7. Add moral complexity to faction [[RELATIONSHIPS|RELATIONSHIPS]]
 8. Include both public faces and hidden truths for organizations
 9. ALWAYS verify file placement before moving
 10. NEVER accidentally move files to backups folder
@@ -120,9 +120,9 @@ python scripts/automation_master.py --vault-path . status
 
 ## Support Resources
 - Master Hub: `/scripts/vault_hub.html`
-- User Manual: `/09_Documentation/CORDELIA_VAULT_USER_MANUAL.md`
+- User Manual: `/09_Documentation/[[CORDELIA_VAULT_USER_MANUAL|CORDELIA_VAULT_USER_MANUAL]].md`
 - GM Reference: `/09_Documentation/GM_QUICK_REFERENCE.md`
-- Technical Docs: `/09_Documentation/TECHNICAL_DOCUMENTATION.md`
+- Technical Docs: `/09_Documentation/[[TECHNICAL_DOCUMENTATION|TECHNICAL_DOCUMENTATION]].md`
 
 ---
 *Configuration Updated: 2025-08-13*
@@ -131,9 +131,9 @@ python scripts/automation_master.py --vault-path . status
 
 ## Related
 
-*Links to related content will be added here.*
+*Links to [[Related content|Related content]] will be added here.*
 
-## DM Notes
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs

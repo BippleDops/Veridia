@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Keenblade the Risen", "nerys keenblade the risen", "Nerys Keenblade Risen", "Risen the Keenblade Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Keenblade the Risen
 
 *Aasimar Assassin (Villains), Age 75, Male*
@@ -36,12 +42,10 @@ Corrupted by an artifact or dark magic An old debt has come due at the worst pos
 - **Short Term**: Recruit new members
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Aeliana Blackstone the Strong (Family - Spouse)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ### Aldric Underhill the Wanderer (Personal - Childhood friend)
 - **Status**: Strained but maintaining
@@ -51,7 +55,6 @@ Corrupted by an artifact or dark magic An old debt has come due at the worst pos
 ### Qadim Moonshadow the Mystic (Personal - Love interest)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Is being controlled by darker force

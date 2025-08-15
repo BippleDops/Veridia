@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Emberfall the Seeker", "branwen emberfall the seeker", "Branwen Emberfall Seeker", "Seeker the Emberfall Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Emberfall the Seeker
 
 *Goliath Ambassador (Nobles), Age 19, Female*
@@ -46,7 +52,6 @@ Exiled from their homeland, trying to rebuild their power base They've been mark
 ### Elric Zephyrblade the Guardian (Personal - Ex-lover)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ### Hilda Blackstone the Cunning (Family - Parent)
 - **Status**: Secretly hostile

@@ -1,8 +1,8 @@
 ---
+aliases: ["Freya Stormwind", "freya stormwind", "Stormwind Freya"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -73,8 +73,6 @@ Discovered magical talent late in life. Years ago, they accidentally discovered 
 ### Skills
 Insight
 
-
-
 ## Possessions
 - 22 gold pieces
 - Well-worn journal
@@ -89,7 +87,6 @@ Insight
 
 ---
 *Generated: 2025-08-15T03:21:04.029Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

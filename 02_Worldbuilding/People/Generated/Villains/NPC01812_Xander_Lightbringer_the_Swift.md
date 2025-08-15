@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Lightbringer the Swift", "xander lightbringer the swift", "Xander Lightbringer Swift", "Swift the Lightbringer Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Lightbringer the Swift
 
 *Human Cultist (Villains), Age 26, Male*
@@ -13,7 +19,6 @@
 Very tall and delicate, with Carefully styled red hair and Amber eyes. Freckled skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Extremely superstitious about everything; Constantly quotes ancient texts; Always speaks in metaphors and riddles
@@ -36,7 +41,6 @@ Driven mad by knowledge humanity wasn't meant to know They've made a deal they'r
 - **Short Term**: Sabotage competition
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Rhiannon Xendar the Swift (Personal - Best friend)
 - **Status**: Blood oath bound
@@ -46,7 +50,6 @@ Driven mad by knowledge humanity wasn't meant to know They've made a deal they'r
 ### Elric Goldleaf the Bold (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
-
 
 ### Faelyn Oakenshield the Lost (Personal - Nemesis)
 - **Status**: One-sided affection
@@ -61,7 +64,6 @@ Driven mad by knowledge humanity wasn't meant to know They've made a deal they'r
 ### Aeliana Youngblood the Swift (Criminal - Target)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Has a child they're protecting

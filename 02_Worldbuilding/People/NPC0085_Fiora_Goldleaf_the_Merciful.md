@@ -1,11 +1,11 @@
 ---
+aliases: ["Fiora Goldleaf the Merciful", "fiora goldleaf the merciful", "Fiora Goldleaf Merciful", "Merciful the Goldleaf Fiora"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -79,7 +79,6 @@ Athletics, Stealth, Persuasion
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 53 gold pieces
 - Letter of recommendation
@@ -94,7 +93,6 @@ Athletics, Stealth, Persuasion
 
 ---
 *Generated: 2025-08-15T03:21:04.035Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

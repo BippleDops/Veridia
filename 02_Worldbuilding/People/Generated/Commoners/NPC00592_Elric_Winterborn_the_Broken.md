@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Winterborn the Broken", "elric winterborn the broken", "Elric Winterborn Broken", "Broken the Winterborn Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Winterborn the Broken
 
 *Gnome Blacksmith (Commoners), Age 43, Non-binary*
@@ -13,7 +19,6 @@
 Very short and delicate, with Mohawk red hair and Gray eyes. Fair skin. Unusual eye color for their race.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Extremely superstitious about everything; Constantly quotes ancient texts; Laughs at the most inappropriate times
@@ -36,7 +41,6 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Malakai Underhill the Wise (Professional - Employee)
 - **Status**: Recently reconciled
@@ -46,7 +50,6 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 ### Ysara Jadeclaw the Risen (Personal - Nemesis)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
-
 
 ### Vesper Dawnstrider (Personal - Nemesis)
 - **Status**: Secretly hostile
@@ -62,11 +65,9 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Hilda Blackstone the Strong (Professional - Employee)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Can hear the thoughts of others

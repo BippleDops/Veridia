@@ -1,3 +1,9 @@
+---
+aliases: ["Greater Salve of Clarity", "greater salve of clarity", "Clarity of Salve Greater"]
+tags: [item, equipment]
+type: item
+---
+
 # Greater Salve of Clarity
 
 *Consumables, Common*

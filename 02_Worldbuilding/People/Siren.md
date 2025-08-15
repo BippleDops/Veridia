@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-siren-siren.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -170,7 +168,6 @@ Siren is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -240,3 +237,13 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[The Senator (People)]]
+- [[The Siren''s Rest Tavern]]
+- [[Assets Locations Location City Archdruid Marina Kelpweaver V1 Archdruid Marina Kelpweaver.svg]]
+- [[Assets Symbols Symbol Heraldry Deep Sea Agricultural Research Institut Deep Sea Agricultural Research Institut.svg]]
+- [[The Senator]]
+- [[Siren Maeve Echoborn]]
+- [[The Senator (D&D_References)]]

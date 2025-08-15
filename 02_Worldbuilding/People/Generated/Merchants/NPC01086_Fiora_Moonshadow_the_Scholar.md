@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Moonshadow the Scholar", "fiora moonshadow the scholar", "Fiora Moonshadow Scholar", "Scholar the Moonshadow Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Moonshadow the Scholar
 
 *Elf Caravan Master (Merchants), Age 72, Female*
@@ -36,7 +42,6 @@ Inherited a failing business and turned it around A family member's death has le
 - **Short Term**: Survive until next week
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Elric Moonshadow the Cunning (Political - Patron)
 - **Status**: Mutually beneficial
@@ -52,16 +57,13 @@ Inherited a failing business and turned it around A family member's death has le
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Orion Underhill the Swift (Criminal - Fence)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Aldric Jadeclaw the Lost (Professional - Rival)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Running a cult from their basement

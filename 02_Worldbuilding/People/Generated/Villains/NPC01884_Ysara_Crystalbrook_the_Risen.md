@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Crystalbrook the Risen", "ysara crystalbrook the risen", "Ysara Crystalbrook Risen", "Risen the Crystalbrook Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Crystalbrook the Risen
 
 *Genasi Assassin (Villains), Age 77, Female*
@@ -47,16 +53,13 @@ Driven mad by knowledge humanity wasn't meant to know They're being blackmailed 
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Drusilla Dawnstrider the Wanderer (Political - Ally)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Erasmus Brightblade the Swift (Family - Cousin)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ### Thalia Goldleaf the Fallen (Personal - Best friend)
 - **Status**: Blood oath bound

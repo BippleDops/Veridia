@@ -50,3 +50,9 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[LIFE_MANAGEMENT_SYSTEM]]
+- [[02_Worldbuilding_Groups_The_Signal_Keepers]]
+- [[Surface Signals (D&D_Statblocks)]]

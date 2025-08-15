@@ -44,7 +44,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -154,7 +154,7 @@ Tidal Memory Ceremonies represent the most sacred religious practices in Aquabys
 - Emotion Cleansing: Purification of traumatic memories
 - Memory Weaving: Integration of individual memories into collective wisdom
 
-### [[Memory Keepers]] - Archives of Living History
+### [[Memory_Keepers|Memory Keepers]] - Archives of Living History
 
 **Function:** Preserve and organize collective cultural memory
 **Duties:**
@@ -201,8 +201,8 @@ Tidal Memory Ceremonies represent the most sacred religious practices in Aquabys
 
 ## Connected [[Organization]]s
 
-- [[[[Temple of the Healing Waters]]|[[02 Worldbuilding]]/[[Groups]]/Temple Of The Healing Waters]] - Religious organization maintaining ceremony traditions
-- [[[[The Memory Keepers]] Guild]] - Professional organization preserving cultural knowledge
+- [[Temple of the Healing Waters|[[Temple of the Healing Waters]]|[[02_Worldbuilding|02 Worldbuilding]]/[[Groups]]/Temple Of The Healing Waters]] - Religious organization maintaining ceremony traditions
+- [[The Memory Keepers|[[The Memory Keepers]] Guild]] - Professional organization preserving cultural knowledge
 - [[Tidal Priests Circle]] - [[Religious Leaders]]hip guiding memory practices
 
 The Tidal Memory Ceremonies represent the spiritual heart of Aquabyssos culture, where the eternal ocean serves as both sacred temple and infinite library, preserving the experiences and wisdom of countless generations within its endless tidal embrace.
@@ -215,7 +215,7 @@ Tidal Memory Ceremonies is a undersea element of the setting, known for biolumin
 
 Legends speak of Tidal Memory Ceremonies as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Tidal Memory Ceremonies.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -248,3 +248,15 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[The Festival of Rising Tides]]
+- [[The Pressure Baptism Rites]]
+- [[The Restoration Movement]]
+- [[The Festival of Rising Tides (D&D_References)]]
+- [[The Pressure Baptism Rites (D&D_References)]]
+- [[The Restoration Movement (D&D_References)]]
+- [[The Seven Shards (D&D_References)]]
+- [[The Seven Shards 3 (D&D_References)]]

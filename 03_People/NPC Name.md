@@ -19,13 +19,13 @@ status: active
 *Portrait reference for NPC Name*
 
 ## Overview
-This topic is referenced in [[Quest Template]] and other parts of the campaign.
+This topic is referenced in [[Quest_Template|Quest Template]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Quest Template]]
+- Referenced by: [[Quest_Template|Quest Template]]
 - Related topics in the same category
 
 ## Details
@@ -79,7 +79,6 @@ creature: Custom NPC
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
 
-
 ## See Also
 - Related content
 - Similar topics
@@ -93,3 +92,10 @@ creature: Custom NPC
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition
+
+## References
+
+- [[Assets Locations Location City Harbor Pilot Captain Storm Skyreacher V1 Harbor Pilot Captain Storm Skyreacher.svg]]
+- [[NPC Name_Quick_Ref]]
+- [[Location_Template_1 (09_Templates)]]
+- [[Quest_Template]]

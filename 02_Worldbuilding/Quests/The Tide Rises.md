@@ -98,7 +98,7 @@ updated: '2025-08-13T01:18:34.501163+00:00'
 
 ## Quest Overview
 
-Several lesser nobles from [[Crystalhaven]] have vanished after attending "[[Cultural Exchange]]" events at [[Drowned]] Embassy]]. [[Captain Lyanna Bright[[Shield]]]] suspects foul play but cannot legally investigate due to diplomatic immunity. [[The Party]] must uncover the truth while navigating international incidents and discovering a threat greater than anyone imagined.
+Several lesser nobles from [[Crystalhaven]] have vanished after attending "[[Cultural Exchange]]" events at [[Drowned]] Embassy]]. [[Shield|Captain Lyanna Bright[[Shield]]]] suspects foul play but cannot legally investigate due to diplomatic immunity. [[The Party]] must uncover the truth while navigating international incidents and discovering a threat greater than anyone imagined.
 
 ## [[Quest Giver]]
 
@@ -218,7 +218,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
-
 
 ## Campaign Notes
 *How this connects to the ongoing campaign*

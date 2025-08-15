@@ -72,3 +72,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[The Forgetting Bomb]]
+- [[The Forgetting Bomb (D&D_References)]]

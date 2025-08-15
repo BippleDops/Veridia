@@ -1,3 +1,9 @@
+---
+aliases: ["Time-worn Crown of Eternity", "time-worn crown of eternity", "Eternity of Crown Time-worn"]
+tags: [item, equipment]
+type: item
+---
+
 # Time-worn Crown of Eternity
 
 *Artifacts, Artifact (requires attunement)*

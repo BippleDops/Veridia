@@ -127,3 +127,7 @@ This NPC can serve multiple roles:
 - [[Head of Memory Integration Dr. Nautilus Depthcaller]] (rival)
 ---
 *Tags*: #npc #contact #worldbuilding
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-thrace-deeprunner-captain-thrace-deeprunner.svg]]

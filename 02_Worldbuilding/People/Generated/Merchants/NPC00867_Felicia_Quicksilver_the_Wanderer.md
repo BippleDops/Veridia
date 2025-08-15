@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Quicksilver the Wanderer", "felicia quicksilver the wanderer", "Felicia Quicksilver Wanderer", "Wanderer the Quicksilver Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Quicksilver the Wanderer
 
 *Human Shopkeeper (Merchants), Age 34, Male*
@@ -36,12 +42,10 @@ Part of a merchant family with connections everywhere An old debt has come due a
 - **Short Term**: Survive until next week
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Orion Frostwhisper the Scholar (Political - Ally)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ### Orion Winterborn the Mystic (Criminal - Informant)
 - **Status**: Complicated history
@@ -52,11 +56,9 @@ Part of a merchant family with connections everywhere An old debt has come due a
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
 
-
 ### Idris Silverleaf the Risen (Criminal - Accomplice)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Killed previous business owner

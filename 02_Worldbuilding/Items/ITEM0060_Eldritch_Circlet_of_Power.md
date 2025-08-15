@@ -1,4 +1,5 @@
 ---
+aliases: ["Eldritch Circlet of Power", "eldritch circlet of power", "Power of Circlet Eldritch"]
 tags: [generated]
 id: ITEM0060
 created: 2025-08-15T04:09:51.098Z
@@ -18,8 +19,6 @@ Crafted from blessed silver with delicate filigree, in showing age but sturdy. I
 
 ## Quirk
 *Attracts small animals*
-
-
 
 ## History
 This item was reforged from broken artifacts ages ago. It has passed through many hands, each leaving their mark upon its destiny.

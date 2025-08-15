@@ -116,13 +116,11 @@ Crown Jewels is a notable location characterized by its unique features and stra
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -130,13 +128,11 @@ Crown Jewels is a notable location characterized by its unique features and stra
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -171,7 +167,6 @@ Ongoing situations affecting Crown Jewels:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -208,3 +203,10 @@ Ongoing situations affecting Crown Jewels:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Royal Palace]]
+- [[Throne Room - Heart of Palace]]
+- [[The Crown's Burden]]
+- [[Royal Palace (D&D_References)]]

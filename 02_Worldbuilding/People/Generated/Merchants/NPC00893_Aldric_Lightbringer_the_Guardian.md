@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Lightbringer the Guardian", "aldric lightbringer the guardian", "Aldric Lightbringer Guardian", "Guardian the Lightbringer Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Lightbringer the Guardian
 
 *Firbolg Trader (Merchants), Age 40, Female*
@@ -36,17 +42,14 @@ Uses their business as cover for other activities Strange abilities have begun m
 - **Short Term**: Make this month's payment
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Lyanna Zephyrblade the Wanderer (Political - Patron)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
 
-
 ### Cedric Ravenheart the Strong (Criminal - Accomplice)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
-
 
 ### Ysara Ironforge the Mystic (Family - Child)
 - **Status**: Strong and trusting

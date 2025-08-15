@@ -149,7 +149,6 @@ His movements are deliberate and somewhat mechanical, as if coordinating the act
 
 Crust dwells in the Symbiosis Depths, an area of the deep ocean where the boundaries between individual organisms have broken down entirely. Here, entire ecosystems exist as single entities, and the concept of "self" becomes fluid and negotiable.
 
-
 ## Stats
 - **AC**: 12
 - **HP**: 22 (4d8)
@@ -197,7 +196,6 @@ Crust dwells in the Symbiosis Depths, an area of the deep ocean where the bounda
 **Primary**: Study and preserve the unique life forms of the deepest ocean
 **Secondary**: Perfect the art of beneficial symbiosis between different species
 **Hidden**: Find a way to maintain his individual identity within his collective consciousness
-
 
 ## Secrets
 - Hidden information about this character
@@ -353,7 +351,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 20% middle class
 - 79% working poor
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -389,3 +386,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Queen Seraphina (Lore)]]
+- [[Assets Locations Location City Grief Overwhelming Syndrome V1 Grief Overwhelming Syndrome.svg]]
+- [[Assets Locations Location City Harbor Master Nereid Deepcurrent V1 Harbor Master Nereid Deepcurrent.svg]]
+- [[Assets Symbols Symbol Heraldry the Unnamed Watcher the Unnamed Watcher.svg]]
+- [[Pearl_Harbor_City (D&D_References)]]
+- [[Queen Seraphina (D&D_References)]]

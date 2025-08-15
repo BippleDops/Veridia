@@ -76,7 +76,11 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition
+
+## References
+
+- [[Marina Red Tide Coralheart - Aquabyssos]]
+- [[Marina Red Tide Coralheart - Aquabyssos (D&D_References)]]

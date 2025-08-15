@@ -89,7 +89,7 @@ The palace consists of five great spires, each serving a distinct purpose and re
 **The Spire of Whispers** (Eastern Tower)
 - **Height:** 350 feet
 - **Function:** Libraries, archives, and scholarly pursuits
-- **Notable Features:** The [[Archive of Forgotten Depths]], crystal communication arrays
+- **Notable Features:** The , crystal communication arrays
 - **Architecture:** Honeycomb of study chambers and meditation pools
 
 **The Spire of Tides** (Western Tower)
@@ -125,7 +125,7 @@ Though the throne stands empty following the events of [[The Depth Accords]], th
 **The Court Scholars**
 - **Chief Archivist:** [[Master Koralith]]
 - **Number:** 50 scholars, scribes, and loremasters
-- **Specialty:** Maintaining the [[Archive of Forgotten Depths]] and studying ancient texts
+- **Specialty:** Maintaining the  and studying ancient texts
 - **Current Projects:** Researching the connection between the palace and other underwater realms
 
 ### The Service Staff

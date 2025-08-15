@@ -48,3 +48,16 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Gold Dragon Wyrmling Xmm]]
+- [[gold-dragon-wyrmling-xmm (dragon)]]
+- [[young-gold-dragon-xmm (dragon)]]
+- [[Dragon Scale Mail Xdmg]]
+- [[dragon-scale-mail-xdmg (items)]]
+- [[Monsters by Habitat Forest Monsters Xmm]]
+- [[Monsters by Habitat Grassland Monsters Xmm]]
+- [[monsters-by-habitat-forest-monsters-xmm (tables)]]
+- [[monsters-by-habitat-grassland-monsters-xmm (tables)]]

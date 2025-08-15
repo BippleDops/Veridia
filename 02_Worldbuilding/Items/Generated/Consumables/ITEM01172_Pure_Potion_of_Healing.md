@@ -1,3 +1,9 @@
+---
+aliases: ["Pure Potion of Healing", "pure potion of healing", "Healing of Potion Pure"]
+tags: [item, equipment]
+type: item
+---
+
 # Pure Potion of Healing
 
 *Consumables, Uncommon*

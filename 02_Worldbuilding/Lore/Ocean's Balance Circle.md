@@ -95,3 +95,7 @@ Ocean's Balance Circle represents a crucial aspect of the world's history, cosmo
 - Civil war
 - Natural disasters
 - Current power structures established
+
+## References
+
+- [[Ocean's_Balance_Circle (02_Worldbuilding)]]

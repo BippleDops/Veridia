@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Lightbringer the Redeemed", "pyria lightbringer the redeemed", "Pyria Lightbringer Redeemed", "Redeemed the Lightbringer Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Lightbringer the Redeemed
 
 *Halfling Assassin (Villains), Age 68, Female*
@@ -36,22 +42,18 @@ Betrayed by those they trusted, now seeking revenge on the world Strange abiliti
 - **Short Term**: Avoid the authorities
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Qadim Proudmore the Redeemed (Professional - Employer)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
 
-
 ### Vesper Youngblood the Lost (Political - Opposition)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Ysara Ravenheart the Wise (Criminal - Handler)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ### Elric Blackstone the Wanderer (Family - Child)
 - **Status**: Secretly hostile
@@ -62,11 +64,9 @@ Betrayed by those they trusted, now seeking revenge on the world Strange abiliti
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Orion Stormwind the Swift (Professional - Employer)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Was once a renowned hero

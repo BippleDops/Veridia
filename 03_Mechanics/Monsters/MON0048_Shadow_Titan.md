@@ -1,4 +1,5 @@
 ---
+aliases: ["Shadow Titan", "shadow titan", "Titan Shadow"]
 tags: [generated]
 id: MON0048_Shadow_Titan
 created: 2025-08-15T04:09:51.434Z
@@ -29,7 +30,6 @@ A guardian entity bound to protect sacred sites
 
 ---
 *Generated: 2025-08-15T03:21:47.465Z*
-
 
 ## Habitat
 - Natural environment and territories

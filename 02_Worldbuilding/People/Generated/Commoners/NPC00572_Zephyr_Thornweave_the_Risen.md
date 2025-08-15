@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Thornweave the Risen", "zephyr thornweave the risen", "Zephyr Thornweave Risen", "Risen the Thornweave Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Thornweave the Risen
 
 *Halfling Fisher (Commoners), Age 76, Non-binary*
@@ -13,7 +19,6 @@
 Below average and delicate, with Long and flowing black hair and Hazel eyes. Olive skin. Constantly changing hair color.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Always tells the absolute truth
@@ -36,7 +41,6 @@ Family has worked the same trade for generations, but times are changing They've
 - **Short Term**: Make this month's payment
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Alaric Goldleaf the Lost (Professional - Rival)
 - **Status**: Recently reconciled
@@ -47,7 +51,6 @@ Family has worked the same trade for generations, but times are changing They've
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Kaelen Darkwater the Fallen (Criminal - Accomplice)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
@@ -56,7 +59,6 @@ Family has worked the same trade for generations, but times are changing They've
 ### Aeliana Darkwater the Wanderer (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Has dragon blood in their veins

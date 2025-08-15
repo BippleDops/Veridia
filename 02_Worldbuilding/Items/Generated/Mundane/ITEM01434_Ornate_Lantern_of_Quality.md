@@ -1,3 +1,9 @@
+---
+aliases: ["Ornate Lantern of Quality", "ornate lantern of quality", "Quality of Lantern Ornate"]
+tags: [item, equipment]
+type: item
+---
+
 # Ornate Lantern of Quality
 
 *Mundane, Uncommon*
@@ -14,8 +20,6 @@ A ornate lantern showing signs of age
 - Works perfectly always
 - Provides comfort
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -30,7 +34,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.487Z*

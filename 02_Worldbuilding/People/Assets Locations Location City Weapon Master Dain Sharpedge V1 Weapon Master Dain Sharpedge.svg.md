@@ -205,3 +205,7 @@ Mentioned in The Second Prophecy of Shadows
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-st-meridian-s-cathedral-v1-st-meridian-s-cathedral.svg]]

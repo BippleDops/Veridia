@@ -1,4 +1,5 @@
 ---
+aliases: ["History of the Dragon Wars", "history of the dragon wars", "History of Dragon Wars", "Wars Dragon the of History"]
 tags: [generated]
 id: LORE0025_History_of_the_Dragon_Wars
 created: 2025-08-15T04:09:51.134Z

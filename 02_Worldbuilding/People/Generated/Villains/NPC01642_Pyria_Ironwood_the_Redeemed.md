@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Ironwood the Redeemed", "pyria ironwood the redeemed", "Pyria Ironwood Redeemed", "Redeemed the Ironwood Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Ironwood the Redeemed
 
 *Firbolg Dark Wizard (Villains), Age 24, Female*
@@ -36,17 +42,14 @@ Believes their evil acts serve a greater good A family member's death has left t
 - **Short Term**: Gather information
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Aeliana Frostwhisper the Scholar (Criminal - Target)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Orion Grimholt the Fallen (Personal - Ex-lover)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ### Brenna Dawnstrider the Strong (Criminal - Handler)
 - **Status**: On the verge of collapse
@@ -57,11 +60,9 @@ Believes their evil acts serve a greater good A family member's death has left t
 - **Status**: One-sided affection
 - **History**: United by common enemy
 
-
 ### Kaelen Hawthorne the Wanderer (Personal - Love interest)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
-
 
 ### Hilda Nightfall the Swift (Personal - Love interest)
 - **Status**: One-sided affection

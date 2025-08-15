@@ -1,4 +1,5 @@
 ---
+aliases: ["Storm Wraith", "storm wraith", "Wraith Storm"]
 tags: [generated]
 id: MON0043_Storm_Wraith
 created: 2025-08-15T04:09:51.432Z
@@ -28,7 +29,6 @@ A being of pure elemental energy given form
 
 ---
 *Generated: 2025-08-15T03:21:47.465Z*
-
 
 ## Habitat
 - Natural environment and territories

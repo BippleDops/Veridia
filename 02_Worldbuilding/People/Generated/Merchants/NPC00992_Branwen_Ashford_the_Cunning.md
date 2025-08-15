@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Ashford the Cunning", "branwen ashford the cunning", "Branwen Ashford Cunning", "Cunning the Ashford Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Ashford the Cunning
 
 *Half-Elf Appraiser (Merchants), Age 22, Female*
@@ -13,7 +19,6 @@
 Below average and muscular, with Braided elaborately unusual color hair and Green eyes. Dark skin. Burn scars on one side of face.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Sees doom and gloom everywhere; Never backs down from any challenge
@@ -36,7 +41,6 @@ Former adventurer who retired to open a shop Strange abilities have begun manife
 - **Short Term**: Survive until next week
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Fiora Moonshadow the Risen (Criminal - Informant)
 - **Status**: Secretly hostile
@@ -47,21 +51,17 @@ Former adventurer who retired to open a shop Strange abilities have begun manife
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Felicia Nightfall the Cunning (Criminal - Fence)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ### Corvus Winterborn the Scholar (Family - Child)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
 
-
 ### Idris Silverleaf the Guardian (Family - Spouse)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Smuggles illegal magical items

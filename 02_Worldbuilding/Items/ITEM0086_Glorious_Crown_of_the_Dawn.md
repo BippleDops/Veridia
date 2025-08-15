@@ -1,4 +1,5 @@
 ---
+aliases: ["Glorious Crown of the Dawn", "glorious crown of the dawn", "Glorious Crown of Dawn", "Dawn the of Crown Glorious"]
 tags: [generated]
 id: ITEM0086
 created: 2025-08-15T04:09:51.105Z

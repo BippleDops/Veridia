@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Winterborn the Wise", "lyanna winterborn the wise", "Lyanna Winterborn Wise", "Wise the Winterborn Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Winterborn the Wise
 
 *Gnome Appraiser (Merchants), Age 27, Non-binary*
@@ -13,7 +19,6 @@
 Short and muscular, with Mohawk red hair and Violet eyes. Dark skin. Constantly changing hair color.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Laughs at the most inappropriate times; Collects unusual and worthless objects
@@ -36,7 +41,6 @@ Former adventurer who retired to open a shop They've been marked by a secret soc
 - **Short Term**: Recruit new members
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Aeliana Thornweave the Fallen (Family - Cousin)
 - **Status**: Strong and trusting
@@ -47,7 +51,6 @@ Former adventurer who retired to open a shop They've been marked by a secret soc
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Elric Keenblade the Fallen (Criminal - Accomplice)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
@@ -56,7 +59,6 @@ Former adventurer who retired to open a shop They've been marked by a secret soc
 ### Faelyn Ironwood the Swift (Personal - Childhood friend)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Is actually a spy for foreign power

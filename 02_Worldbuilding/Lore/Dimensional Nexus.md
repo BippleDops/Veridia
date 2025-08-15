@@ -48,3 +48,29 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## [[DM_Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Administrator General Vera Crosswind]]
+- [[Arcana Dualweave]]
+- [[Banker Kess]]
+- [[Brightforge]]
+- [[Brightward Security Solutions]]
+- [[Crystal Caves of Luminar]]
+- [[Finn Worldwalker]]
+- [[Gideon Quickste]]
+- [[Goldhorn the Magnificen]]
+- [[Ironforg]]
+- [[Lyra Voidweaver]]
+- [[Naia Deepcurrent]]
+- [[Sage Moonwhisper]]
+- [[The Abyssal Tavern]]
+- [[The Consortium of Five]]
+- [[The Deep Trading Halls]]
+- [[The Exchange Rate]]
+- [[The Memory Wars (02_Worldbuilding)]]
+- [[The Resonance Workshop]]
+- [[The Threshold]]
+- [[Throne Room]]
+- [[Treaty of Neutral Commerce]]
+- [[The Portal Wars]]

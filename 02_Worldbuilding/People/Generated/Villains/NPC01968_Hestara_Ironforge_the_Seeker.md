@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Ironforge the Seeker", "hestara ironforge the seeker", "Hestara Ironforge Seeker", "Seeker the Ironforge Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Ironforge the Seeker
 
 *Halfling Crime Boss (Villains), Age 57, Non-binary*
@@ -13,7 +19,6 @@
 Very short and lanky, with Braided elaborately gray hair and Heterochromic eyes. Tan skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Constantly quotes ancient texts
@@ -36,22 +41,18 @@ Believes their evil acts serve a greater good They've made a deal they're beginn
 - **Short Term**: Survive until next week
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Corvus Nightfall the Swift (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Ewan Dawnstrider the Fallen (Criminal - Accomplice)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
 
-
 ### Faelyn Grimholt the Redeemed (Family - Cousin)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Is being controlled by darker force

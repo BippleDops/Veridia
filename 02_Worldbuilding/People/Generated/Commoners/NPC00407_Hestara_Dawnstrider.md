@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Dawnstrider", "hestara dawnstrider", "Dawnstrider Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Dawnstrider
 
 *Goliath Baker (Commoners), Age 62, Non-binary*
@@ -36,7 +42,6 @@ Family has worked the same trade for generations, but times are changing Strange
 - **Short Term**: Gather information
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Cedric Darkwater the Mystic (Family - Child)
 - **Status**: Professional only
@@ -51,7 +56,6 @@ Family has worked the same trade for generations, but times are changing Strange
 ### Baelor Frostwhisper (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Knows location of ancient treasure

@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Silverleaf the Scholar", "pyria silverleaf the scholar", "Pyria Silverleaf Scholar", "Scholar the Silverleaf Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Silverleaf the Scholar
 
 *Dragonborn Carpenter (Commoners), Age 27, Female*
@@ -36,7 +42,6 @@ Runaway from an arranged marriage, starting a new life A prophetic dream has bee
 - **Short Term**: Complete current contract
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Pyria Ravenheart the Wanderer (Political - Ally)
 - **Status**: Recently reconciled
@@ -47,11 +52,9 @@ Runaway from an arranged marriage, starting a new life A prophetic dream has bee
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Branwen Silverleaf the Cunning (Professional - Employee)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Can hear the thoughts of others

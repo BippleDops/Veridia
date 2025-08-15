@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Darkwater the Seeker", "qadim darkwater the seeker", "Qadim Darkwater Seeker", "Seeker the Darkwater Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Darkwater the Seeker
 
 *Firbolg Blacksmith (Commoners), Age 69, Non-binary*
@@ -36,22 +42,18 @@ Former soldier trying to adjust to civilian life They've made a deal they're beg
 - **Short Term**: Sabotage competition
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Ewan Brightblade the Seeker (Personal - Ex-lover)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Urien Zephyrblade the Fallen (Political - Spy)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
 
-
 ### Erasmus Goldleaf the Mystic (Political - Puppet)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Is the lost heir to the throne

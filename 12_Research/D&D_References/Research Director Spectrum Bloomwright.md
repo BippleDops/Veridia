@@ -65,3 +65,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[The Bloom Fields]]
+- [[The Bloom Fields (D&D_References)]]

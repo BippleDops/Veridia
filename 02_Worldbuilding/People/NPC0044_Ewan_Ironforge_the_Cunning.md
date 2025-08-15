@@ -1,11 +1,11 @@
 ---
+aliases: ["Ewan Ironforge the Cunning", "ewan ironforge the cunning", "Ewan Ironforge Cunning", "Cunning the Ironforge Ewan"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -78,7 +78,6 @@ Arcana, Athletics
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 89 gold pieces
 - Mysterious key
@@ -92,7 +91,6 @@ Arcana, Athletics
 
 ---
 *Generated: 2025-08-15T03:20:13.076Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

@@ -71,3 +71,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[The Original Palace]]
+- [[The Original Palace (D&D_References)]]

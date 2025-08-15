@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Voidwalker the Cunning", "kaelen voidwalker the cunning", "Kaelen Voidwalker Cunning", "Cunning the Voidwalker Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Voidwalker the Cunning
 
 *Dwarf Fighter (Adventurers), Age 59, Female*
@@ -42,7 +48,6 @@ Seeking vengeance for a murdered mentor Strange abilities have begun manifesting
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Aeliana Ravenheart the Wise (Political - Patron)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
@@ -57,11 +62,9 @@ Seeking vengeance for a murdered mentor Strange abilities have begun manifesting
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
 
-
 ### Fiora Ravenheart the Guardian (Family - Sibling)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Is from the future

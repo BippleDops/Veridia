@@ -36,12 +36,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-repossession-captain-repossession.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -208,7 +206,6 @@ Member of House Eagleblood - Trait: curse
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -278,3 +275,10 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Consortium Security Constructs]]
+- [[Assets Symbols Symbol Heraldry Crystal Pirate Crew Crystal Pirate Crew.svg]]
+- [[Master_Artificer_Coral_Gemwright (People)]]
+- [[Consortium Security Constructs (D&D_References)]]

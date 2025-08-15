@@ -1,8 +1,8 @@
 ---
+aliases: ["Yorick Stormwind the Wise", "yorick stormwind the wise", "Yorick Stormwind Wise", "Wise the Stormwind Yorick"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -74,8 +74,6 @@ Born into a noble family but cast out for scandal. Years ago, they survived a pl
 ### Skills
 Persuasion
 
-
-
 ## Possessions
 - 40 gold pieces
 - Family heirloom (locket)
@@ -89,7 +87,6 @@ Persuasion
 
 ---
 *Generated: 2025-08-15T03:20:13.074Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

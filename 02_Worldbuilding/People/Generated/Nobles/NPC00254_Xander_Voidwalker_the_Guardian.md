@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Voidwalker the Guardian", "xander voidwalker the guardian", "Xander Voidwalker Guardian", "Guardian the Voidwalker Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Voidwalker the Guardian
 
 *Human Courtier (Nobles), Age 57, Non-binary*
@@ -42,26 +48,21 @@ Last survivor of a fallen house, seeking to restore family honor A prophetic dre
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Jorah Crystalbrook (Political - Puppet)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ### Dara Youngblood the Bold (Family - Sibling)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Caelum Hawthorne the Broken (Personal - Nemesis)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Kaelen Ravenheart the Guardian (Personal - Ex-lover)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
-
 
 ### Drusilla Blackstone the Scholar (Political - Spy)
 - **Status**: Professional only

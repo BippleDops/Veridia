@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Blackstone the Fallen", "cedric blackstone the fallen", "Cedric Blackstone Fallen", "Fallen the Blackstone Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Blackstone the Fallen
 
 *Halfling Trader (Merchants), Age 60, Male*
@@ -42,11 +48,9 @@ Built their business from nothing through cunning and hard work They've fallen i
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Felicia Underhill the Wise (Family - Parent)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ### Pyria Dawnstrider the Strong (Personal - Best friend)
 - **Status**: Recently reconciled
@@ -57,11 +61,9 @@ Built their business from nothing through cunning and hard work They've fallen i
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Hilda Ravenheart the Strong (Criminal - Fence)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Is actually a spy for foreign power

@@ -99,3 +99,18 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Quandrix Student Scc]]
+- [[quandrix-student-scc (backgrounds)]]
+- [[pub]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Potion of Diminution Xdmg]]
+- [[Potion of Growth Xdmg]]
+- [[potion-of-diminution-xdmg (items)]]
+- [[potion-of-growth-xdmg (items)]]
+- [[Dwarf Duergar Mtf]]
+- [[dwarf-duergar-mtf (races)]]

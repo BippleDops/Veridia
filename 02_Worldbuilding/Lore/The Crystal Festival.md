@@ -26,7 +26,7 @@ tags:
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
-[[location]]: '[[Crystal [[Festival Ground]]s]], [[Port Meridian]]'
+[[location]]: '[[Festival Ground|Crystal [[Festival Ground]]s]], [[Port Meridian]]'
 world: Aethermoor
 created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'
@@ -58,7 +58,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -106,7 +106,7 @@ The Crystal Festival represents the culmination of centuries of tradition in [[A
 
 For generations, the festival served as the cultural heart of [[Aethermoor]], providing a space where all social classes could celebrate together, where the kingdom's greatest artists could showcase their talents, and where the magical properties of crystal formations could be safely experienced by ordinary citizens. The event represented everything noble about the kingdom - creativity, inclusivity, wonder, and the harmonious relationship between mortal civilization and magical forces.
 
-However, the final Crystal Festival became something far more significant and terrifying than anyone could have anticipated. What was planned as a celebration of tradition became the stage for [[Vex Shadowthorn]]'s ultimate ritual, an attempt to harness the power of the [[[[The [[Seven Shards]]]]|[[02 Worldbuilding]]/Lore/The Seven Shards]] to transform the entire population of [[Port Meridian]] into crystalline entities under the control of an otherworldly intelligence.
+However, the final Crystal Festival became something far more significant and terrifying than anyone could have anticipated. What was planned as a celebration of tradition became the stage for [[Vex Shadowthorn]]'s ultimate ritual, an attempt to harness the power of the [[Seven Shards|[[The [[Seven Shards]]]]|[[02_Worldbuilding|02 Worldbuilding]]/Lore/The Seven Shards]] to transform the entire population of [[Port Meridian]] into crystalline entities under the control of an otherworldly intelligence.
 
 The festival's transformation from beloved celebration to existential crisis serves as a metaphor for the kingdom's broader struggle between preserving cherished traditions and adapting to cosmic forces beyond mortal understanding. The events of the final Crystal Festival would reshape not only [[Aethermoor]] but the fundamental relationship between surface and underwater civilizations.
 
@@ -232,7 +232,7 @@ The Crystal Festival is a undersea element of the setting, known for bioluminesc
 
 Legends speak of The Crystal Festival as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crystal Festival.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -269,3 +269,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Quest - Foreign Interests]]

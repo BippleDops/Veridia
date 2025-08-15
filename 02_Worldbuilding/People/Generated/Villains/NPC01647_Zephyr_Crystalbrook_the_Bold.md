@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Crystalbrook the Bold", "zephyr crystalbrook the bold", "Zephyr Crystalbrook Bold", "Bold the Crystalbrook Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Crystalbrook the Bold
 
 *Gnome Corrupt Noble (Villains), Age 71, Non-binary*
@@ -13,7 +19,6 @@
 Very tall and muscular, with Partially shaved brown hair and Blue eyes. Freckled skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Compulsive liar about minor things
@@ -42,7 +47,6 @@ Corrupted by an artifact or dark magic Strange abilities have begun manifesting 
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Qadim Xendar the Swift (Family - Sibling)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
@@ -52,11 +56,9 @@ Corrupted by an artifact or dark magic Strange abilities have begun manifesting 
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Cedric Emberfall the Broken (Family - Sibling)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Knows how the world will end

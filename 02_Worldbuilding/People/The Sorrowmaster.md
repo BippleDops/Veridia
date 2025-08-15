@@ -148,7 +148,6 @@ His most striking features are his eyes—completely black voids that seem to co
 
 Morteus dwells in the Grief Gardens, a haunted grove where the water itself seems to weep. Here, surrounded by monuments to the dead and tended by his undead servants, he offers his services to those seeking to commune with lost loved ones—for a price that extends far beyond mere coin.
 
-
 ## Stats
 - **AC**: 12
 - **HP**: 22 (4d8)
@@ -196,7 +195,6 @@ Morteus dwells in the Grief Gardens, a haunted grove where the water itself seem
 **Primary**: Understand and master the relationship between grief and death
 **Secondary**: Provide "comfort" to the bereaved while advancing his necromantic research
 **Hidden**: Prevent his own prophesied transformation into a lich by finding a worthy successor
-
 
 ## Secrets
 - Hidden information about this character
@@ -343,7 +341,6 @@ Mentioned in The Second Prophecy of Stars
 - 20% middle class
 - 79% working poor
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -379,3 +376,7 @@ Mentioned in The Second Prophecy of Stars
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Aquabyssos - Session 09 - The Mourning Strategy]]

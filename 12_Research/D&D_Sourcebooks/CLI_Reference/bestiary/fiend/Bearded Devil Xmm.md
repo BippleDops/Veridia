@@ -48,3 +48,10 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Infernal Calling Xge]]
+- [[infernal-calling-xge (spells)]]
+- [[Duergar Raiding Parties Duergar Special]]
+- [[duergar-raiding-parties-duergar-special-allies-mtf]]

@@ -106,3 +106,28 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Couatl Xmm]]
+- [[couatl-xmm (celestial)]]
+- [[Lemure Xmm]]
+- [[Sahuagin Priest Xmm]]
+- [[Swarm of Lemures Xmm]]
+- [[lemure-xmm (fiend)]]
+- [[sahuagin-priest-xmm (fiend)]]
+- [[swarm-of-lemures-xmm (fiend)]]
+- [[Empyrean Iota Xmm]]
+- [[empyrean-iota-xmm (miscellaneous)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Life Domain Xphb]]
+- [[Cleric Xphb]]
+- [[cleric-xphb (classes)]]
+- [[cleric-xphb-life-domain-xphb (classes)]]
+- [[cleric-xphb-life-domain-xphb 2 (classes)]]
+- [[Necklace of Prayer Beads Xdmg]]
+- [[Potion of Heroism Xdmg]]
+- [[necklace-of-prayer-beads-xdmg (items)]]
+- [[potion-of-heroism-xdmg (items)]]

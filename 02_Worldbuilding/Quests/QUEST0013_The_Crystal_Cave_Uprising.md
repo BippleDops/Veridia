@@ -1,4 +1,5 @@
 ---
+aliases: ["The Crystal Cave Uprising", "the crystal cave uprising", "Uprising Cave Crystal The"]
 tags: [generated]
 id: QUEST0013
 created: 2025-08-15T04:09:51.370Z
@@ -21,8 +22,6 @@ Map the uncharted the sunken temple and report findings
 
 ### Secondary
 - Gather intelligence on enemy plans
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they found an ancient artifact, which changed their life forever. Now, circumstances demand immediate action.

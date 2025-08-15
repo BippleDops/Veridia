@@ -61,3 +61,7 @@ Mentioned in The Second Prophecy of Winds
 - A shipment has gone missing and evil awakens
 - Strange accidents suggest a conspiracy
 - Someone is hunting an heir for money
+
+## References
+
+- [[Shattered Isles]]

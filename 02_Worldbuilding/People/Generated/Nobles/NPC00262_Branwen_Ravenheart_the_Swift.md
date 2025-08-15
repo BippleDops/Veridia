@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Ravenheart the Swift", "branwen ravenheart the swift", "Branwen Ravenheart Swift", "Swift the Ravenheart Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Ravenheart the Swift
 
 *Human Heir (Nobles), Age 44, Male*
@@ -13,7 +19,6 @@
 Above average and muscular, with Tied back blonde hair and Violet eyes. Fair skin. Birthmark shaped like a constellation.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Collects unusual and worthless objects
@@ -36,22 +41,18 @@ Last survivor of a fallen house, seeking to restore family honor They've fallen 
 - **Short Term**: Recruit new members
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Faelyn Emberfall (Political - Puppet)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
 
-
 ### Aeliana Crystalbrook (Criminal - Informant)
 - **Status**: One-sided affection
 - **History**: United by common enemy
 
-
 ### Gavril Moonshadow the Wanderer (Family - Spouse)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Child from scandalous affair

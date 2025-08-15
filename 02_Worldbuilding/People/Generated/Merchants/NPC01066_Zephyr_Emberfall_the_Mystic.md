@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Emberfall the Mystic", "zephyr emberfall the mystic", "Zephyr Emberfall Mystic", "Mystic the Emberfall Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Emberfall the Mystic
 
 *Dragonborn Shopkeeper (Merchants), Age 36, Female*
@@ -36,7 +42,6 @@ Part of a merchant family with connections everywhere A family member's death ha
 - **Short Term**: Recruit new members
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Elric Nightfall the Scholar (Criminal - Handler)
 - **Status**: Strong and trusting
@@ -47,16 +52,13 @@ Part of a merchant family with connections everywhere A family member's death ha
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
 
-
 ### Kaelen Dawnstrider the Guardian (Personal - Nemesis)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Cedric Lightbringer the Wanderer (Political - Spy)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ### Jorah Underhill the Lost (Criminal - Accomplice)
 - **Status**: Mutually beneficial
@@ -66,7 +68,6 @@ Part of a merchant family with connections everywhere A family member's death ha
 ### Hilda Jadeclaw the Mystic (Professional - Partner)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is actually a spy for foreign power

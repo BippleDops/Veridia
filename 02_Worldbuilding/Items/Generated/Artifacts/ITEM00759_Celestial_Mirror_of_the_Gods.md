@@ -1,3 +1,9 @@
+---
+aliases: ["Celestial Mirror of the Gods", "celestial mirror of the gods", "Celestial Mirror of Gods", "Gods the of Mirror Celestial"]
+tags: [item, equipment]
+type: item
+---
+
 # Celestial Mirror of the Gods
 
 *Artifacts, Artifact*
@@ -16,8 +22,6 @@ A celestial mirror radiating otherworldly power
 - Regenerate 1 hp/round
 - Increase ability score by 2
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -32,7 +36,6 @@ Priceless
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.423Z*

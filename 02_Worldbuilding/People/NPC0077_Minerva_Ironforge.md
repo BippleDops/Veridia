@@ -1,11 +1,11 @@
 ---
+aliases: ["Minerva Ironforge", "minerva ironforge", "Ironforge Minerva"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -75,8 +75,6 @@ Raised by monks in a remote monastery. Years ago, they lost everything in a fire
 ### Skills
 Deception
 
-
-
 ## Possessions
 - 65 gold pieces
 - Healing potion
@@ -89,7 +87,6 @@ Deception
 
 ---
 *Generated: 2025-08-15T03:21:04.034Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

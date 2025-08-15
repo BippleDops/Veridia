@@ -139,3 +139,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[swarm-of-cranium-rats-mpmm (aberration)]]
+- [[3 Bestiary]]
+- [[3-bestiary (volos-guide-to-monsters)]]

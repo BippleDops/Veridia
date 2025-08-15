@@ -46,7 +46,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -86,7 +86,7 @@ improvements: 20
 
 ## Overview
 
-Blackheart Fortress serves as [[Commander Typhoon Blackheart]]'s primary military stronghold, a massive defensive installation built into an underwater mountain at crushing depths where only the most elite soldiers can operate effectively. This fortress represents the pinnacle of deep-sea military engineering, designed specifically to counter threats from the deepest regions of [[Aquabyssos]] while serving as a command center for [[The [[Depth Warden]]s]]' operations throughout the realm. The installation features pressure-resistant architecture, advanced weapon systems, extensive training facilities, and the technological infrastructure necessary to coordinate military responses across vast underwater territories.
+Blackheart Fortress serves as [[Commander Typhoon Blackheart]]'s primary military stronghold, a massive defensive installation built into an underwater mountain at crushing depths where only the most elite soldiers can operate effectively. This fortress represents the pinnacle of deep-sea military engineering, designed specifically to counter threats from the deepest regions of [[Aquabyssos]] while serving as a command center for [[Depth Warden|The [[Depth Warden]]s]]' operations throughout the realm. The installation features pressure-resistant architecture, advanced weapon systems, extensive training facilities, and the technological infrastructure necessary to coordinate military responses across vast underwater territories.
 
 ### The Deep Threat Assessment
 **Period**: 80 years ago, when deep-sea threats began escalating dramatically  
@@ -103,7 +103,7 @@ Blackheart Fortress serves as [[Commander Typhoon Blackheart]]'s primary militar
 **Leadership**: Blackheart's personal involvement in every aspect of design and construction
 
 ### The Great Construction Project
-**[[[[Time]]line]]**: 15-year construction project under extreme deep-sea conditions  
+**[[Time|[[Time]]line]]**: 15-year construction project under extreme deep-sea conditions  
 **Engineering**: Advanced pressure-resistant architecture using reinforced metals and magical enhancement  
 **Workers**: Elite construction crews trained specifically for extreme depth work  
 **Challenges**: Constant attacks from deep-dwelling creatures during construction  
@@ -147,7 +147,7 @@ Blackheart Fortress serves as [[Commander Typhoon Blackheart]]'s primary militar
 #### The Command Spire
 **Design**: Central tower rising from mountain peak housing command and communication facilities  
 **Height**: 500-foot spire providing commanding view of surrounding deep-sea territory  
-**Technology**: Advanced sensor and [[Communication Systems]] monitoring vast underwater areas  
+**Technology**: Advanced sensor and [[Communication_Systems|Communication Systems]] monitoring vast underwater areas  
 **Defense**: Heavily armored and defended command center protecting fortress leadership  
 **Symbol**: Visible symbol of military authority and defensive determination
 
@@ -215,7 +215,7 @@ Blackheart Fortress serves as [[Commander Typhoon Blackheart]]'s primary militar
 **Communication**: Communication centers maintaining contact with outside military forces
 
 #### Strategic Command Center
-**Function**: Central command facility for [[The [[Depth Wardens]]]] military operations  
+**Function**: Central command facility for [[Depth Warden|The [[Depth Wardens]]]] military operations  
 **Technology**: Advanced command and control systems managing vast military operations  
 **Communication**: Comprehensive communication systems reaching throughout [[Aquabyssos]]  
 **Intelligence**: Intelligence analysis centers processing information from multiple sources  
@@ -513,7 +513,7 @@ Legends speak of Commander Typhoon Blackheart as a nexus where past and present 
 
 ### Key Locations
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -534,13 +534,11 @@ Commander Typhoon Blackheart is a notable location characterized by its unique f
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -548,13 +546,11 @@ Commander Typhoon Blackheart is a notable location characterized by its unique f
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -610,7 +606,6 @@ Ongoing situations affecting Commander Typhoon Blackheart:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions

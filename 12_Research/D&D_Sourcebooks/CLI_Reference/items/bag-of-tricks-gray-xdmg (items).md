@@ -114,3 +114,11 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Bag of Tricks Xdmg]]
+- [[bag-of-tricks-xdmg (items)]]
+- [[Magic Item Table F]]
+- [[magic-item-table-f (tables)]]

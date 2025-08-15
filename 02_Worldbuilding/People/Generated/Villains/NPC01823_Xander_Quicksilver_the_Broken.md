@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Quicksilver the Broken", "xander quicksilver the broken", "Xander Quicksilver Broken", "Broken the Quicksilver Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Quicksilver the Broken
 
 *Half-Orc Corrupt Noble (Villains), Age 48, Female*
@@ -36,17 +42,14 @@ Believes their evil acts serve a greater good A prophetic dream has been hauntin
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Hilda Dawnstrider the Bold (Family - Sibling)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Branwen Thornweave the Seeker (Personal - Childhood friend)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
-
 
 ### Orion Zephyrblade the Redeemed (Personal - Childhood friend)
 - **Status**: On the verge of collapse
@@ -57,16 +60,13 @@ Believes their evil acts serve a greater good A prophetic dream has been hauntin
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Qadim Silverleaf the Cunning (Professional - Mentor)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
 
-
 ### Rhiannon Hawthorne the Redeemed (Personal - Best friend)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Is being controlled by darker force

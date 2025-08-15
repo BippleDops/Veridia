@@ -46,7 +46,6 @@ This content can be adapted and expanded based on specific campaign needs.
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -59,3 +58,12 @@ This content can be adapted and expanded based on specific campaign needs.
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Master_Spell_Compendium]]
+- [[Arcana Very Rare Xdmg]]
+- [[Random Magic Items Arcana]]
+- [[arcana-very-rare-xdmg (tables)]]
+- [[random-magic-items-arcana (tables)]]

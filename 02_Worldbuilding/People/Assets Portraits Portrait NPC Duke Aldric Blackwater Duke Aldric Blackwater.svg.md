@@ -216,3 +216,8 @@ This NPC can serve multiple roles:
 - Civil war
 - Natural disasters
 - Current power structures established
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-dr-siphon-gillwater-v1-dr-siphon-gillwater.png]]
+- [[04_Resources_Assets_Locations_location-city-market-master-cornelius-driftwood-v1-market-master-cornelius-driftwood.svg]]

@@ -35,7 +35,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-empress-tethys-the-ever-drowning-empress-tethys-the-ever-drowning.svg)
 
@@ -44,7 +43,6 @@ improvements: 20
 # Empress Tethys the Ever-Drowning
 
 *"I have died ten thousand times, and each death teaches me the same lesson: the surface world is a beautiful lie we tell ourselves while drowning."*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -253,7 +251,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
-
 
 ## Daily Routine
 - **Morning**: Typical activities

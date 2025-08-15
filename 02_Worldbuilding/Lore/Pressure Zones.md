@@ -46,5 +46,25 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Daily Routine Nuances and Details]]
+- [[Deep Mother]]
+- [[Depth Effect Quick Reference]]
+- [[Kraken Territories]]
+- [[Multi-Phase Boss Fights]]
+- [[Pressure Adaptation System]]
+- [[The Bloom Fields]]
+- [[The Pressure Baptism Rites]]
+- [[Underwater Breathing]]
+- [[Abyssos Prime Docks]]
+- [[Blood Current Express]]
+- [[Commander Typhoon Blackheart (Places)]]
+- [[Crystallium]]
+- [[The Depth Market]]
+- [[The Forgotten One]]
+- [[The Phosphor Markets]]
+- [[Crystallium (D&D_References)]]

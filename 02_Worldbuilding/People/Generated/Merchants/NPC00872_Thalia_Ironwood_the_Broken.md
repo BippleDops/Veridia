@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Ironwood the Broken", "thalia ironwood the broken", "Thalia Ironwood Broken", "Broken the Ironwood Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Ironwood the Broken
 
 *Human Caravan Master (Merchants), Age 62, Female*
@@ -36,22 +42,18 @@ Former adventurer who retired to open a shop A family member's death has left th
 - **Short Term**: Complete current contract
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Ewan Youngblood the Bold (Political - Opposition)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
 
-
 ### Rhiannon Ashford the Redeemed (Personal - Best friend)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Vesper Stormwind the Scholar (Family - Child)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ### Gavril Winterborn the Guardian (Professional - Employer)
 - **Status**: Mutually beneficial

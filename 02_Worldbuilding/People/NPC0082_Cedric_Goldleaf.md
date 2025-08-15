@@ -1,11 +1,11 @@
 ---
+aliases: ["Cedric Goldleaf", "cedric goldleaf", "Goldleaf Cedric"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Apprenticed to a master craftsman from young age. Years ago, they made a deal th
 ### Skills
 Insight, Athletics
 
-
-
 ## Possessions
 - 76 gold pieces
 - Family heirloom (locket)
@@ -90,7 +88,6 @@ Insight, Athletics
 
 ---
 *Generated: 2025-08-15T03:21:04.035Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

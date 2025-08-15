@@ -1,8 +1,8 @@
 ---
+aliases: ["Dara Stormwind", "dara stormwind", "Stormwind Dara"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -71,8 +71,6 @@ Former soldier who left after a traumatic battle. Years ago, they was falsely ac
 ### Skills
 Insight, Investigation, Deception
 
-
-
 ## Possessions
 - 60 gold pieces
 - Map to unknown location
@@ -84,7 +82,6 @@ Insight, Investigation, Deception
 
 ---
 *Generated: 2025-08-15T03:21:04.024Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

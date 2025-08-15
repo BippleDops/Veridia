@@ -62,3 +62,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Someone is hunting a artifact for money
 - The authorities needs help delivering before dawn
 - A document has gone missing and chaos spreads
+
+## References
+
+- [[Item Template]]

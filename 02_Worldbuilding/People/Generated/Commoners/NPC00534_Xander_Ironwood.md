@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Ironwood", "xander ironwood", "Ironwood Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Ironwood
 
 *Genasi Blacksmith (Commoners), Age 37, Male*
@@ -13,7 +19,6 @@
 Very tall and stocky, with Shaved black hair and Green eyes. Fair skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Always tells the absolute truth; Always hungry and eating something; Incredibly optimistic despite evidence
@@ -36,22 +41,18 @@ Former soldier trying to adjust to civilian life They've fallen in love with som
 - **Short Term**: Make this month's payment
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Aldric Goldleaf (Political - Opposition)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
 
-
 ### Caelum Youngblood the Broken (Professional - Employer)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Kaelen Ironforge the Wanderer (Personal - Best friend)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ### Aldric Ironforge the Strong (Family - Spouse)
 - **Status**: Strained but maintaining
@@ -61,7 +62,6 @@ Former soldier trying to adjust to civilian life They've fallen in love with som
 ### Erasmus Emberfall the Mystic (Professional - Employee)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Has dragon blood in their veins

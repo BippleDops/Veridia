@@ -43,7 +43,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -96,7 +96,7 @@ Legends speak of International Relations as a nexus where past and present conve
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -117,13 +117,11 @@ International Relations is a notable location characterized by its unique featur
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -131,13 +129,11 @@ International Relations is a notable location characterized by its unique featur
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -175,7 +171,6 @@ Mentioned in The Second Prophecy of Winds
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -211,3 +206,41 @@ Mentioned in The Second Prophecy of Winds
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Ancient Aquabyssos Rulers]]
+- [[Aquabyssos Trade Seal]]
+- [[Campaign Epilogues]]
+- [[Continental War]]
+- [[Crystal-Corruption-Tracking-Sheet]]
+- [[Diplomatic Event Scenarios]]
+- [[Eastern Kingdoms (02_Worldbuilding)]]
+- [[Economic Crime Methods]]
+- [[Memory Alteration Consequences]]
+- [[Merchant Family Alliances]]
+- [[Political Compromise Costs]]
+- [[Political Intrigue Master Index]]
+- [[Temporal Anomaly Resolution]]
+- [[The Bathyal Succession]]
+- [[The Bloom Fields]]
+- [[The Queen]]
+- [[The Restoration Movement]]
+- [[The Tethyan Hegemony]]
+- [[Tidal Chambers]]
+- [[Harbor District Customs House]]
+- [[Inverted Ballroom Wing]]
+- [[Ironhold]]
+- [[Mad Oracle Thessaly]]
+- [[Pressure Terminal]]
+- [[Pressure Tube Terminal]]
+- [[Reflection Pools - Surgical Theater]]
+- [[Royal Palace of Meridian]]
+- [[Royal Palace]]
+- [[Tethyan Hegemony]]
+- [[The Crystalline Foundry]]
+- [[The Living Weapon]]
+- [[The Royal Palace]]
+- [[Throne Room - Heart of Palace]]
+- [[Treaty of the Depths]]
+- [[Mad Oracle Thessaly (D&D_References)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Ashford the Bold", "corvus ashford the bold", "Corvus Ashford Bold", "Bold the Ashford Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Ashford the Bold
 
 *Tiefling Blacksmith (Commoners), Age 18, Non-binary*
@@ -42,11 +48,9 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Orion Goldleaf the Mystic (Criminal - Target)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ### Zephyr Emberfall the Swift (Professional - Rival)
 - **Status**: One-sided affection
@@ -56,7 +60,6 @@ Grew up in poverty but discovered a talent that might change everything They've 
 ### Cedric Ashford the Scholar (Professional - Mentor)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ### Kaelen Blackstone the Bold (Personal - Nemesis)
 - **Status**: On the verge of collapse

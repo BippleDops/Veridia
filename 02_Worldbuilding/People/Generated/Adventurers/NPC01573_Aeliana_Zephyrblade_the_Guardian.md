@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Zephyrblade the Guardian", "aeliana zephyrblade the guardian", "Aeliana Zephyrblade Guardian", "Guardian the Zephyrblade Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Zephyrblade the Guardian
 
 *Halfling Wizard (Adventurers), Age 21, Female*
@@ -13,7 +19,6 @@
 Short and muscular, with Dreadlocks silver hair and Brown eyes. Unusual hue skin. Warm smile that puts people at ease.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Compulsive liar about minor things; Never backs down from any challenge
@@ -36,22 +41,18 @@ Running from a dark past that won't stay buried An old debt has come due at the 
 - **Short Term**: Sabotage competition
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Gavril Proudmore the Guardian (Professional - Rival)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Gareth Ravenheart the Wise (Personal - Love interest)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Rhiannon Zephyrblade the Strong (Professional - Rival)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ### Branwen Xendar the Redeemed (Professional - Employer)
 - **Status**: Recently reconciled
@@ -61,7 +62,6 @@ Running from a dark past that won't stay buried An old debt has come due at the 
 ### Kaelen Oakenshield the Wanderer (Criminal - Target)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Secretly working for the villain

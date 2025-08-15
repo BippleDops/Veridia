@@ -48,3 +48,9 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Shadow Ambush - Optional (Criminal_Organizations)]]
+- [[02_Worldbuilding_Tactics_Thermal_Layer_Usage]]
+- [[Shadow Ambush - Optional]]

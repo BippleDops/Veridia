@@ -92,3 +92,7 @@ improvements: 20
 - Strange accidents suggest ancient magic
 - A shipment has gone missing and chaos spreads
 - An heirloom has gone missing and war looms
+
+## References
+
+- [[Entities the Hungry Shadows]]

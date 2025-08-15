@@ -171,3 +171,21 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[sahuagin-priest-xmm (fiend)]]
+- [[Coastal Encounters Levels 14 Xge]]
+- [[Monster Conversions Stat Block Conversions]]
+- [[Monsters by Habitat Coastal Monsters Xmm]]
+- [[Monsters by Habitat Underwater Monsters Xmm]]
+- [[Underwater Encounters Levels 1120 Xge]]
+- [[Underwater Encounters Levels 14 Xge]]
+- [[Underwater Encounters Levels 510 Xge]]
+- [[coastal-encounters-levels-14-xge (tables)]]
+- [[monster-conversions-stat-block-conversions-xmm]]
+- [[monsters-by-habitat-coastal-monsters-xmm (tables)]]
+- [[monsters-by-habitat-underwater-monsters-xmm (tables)]]
+- [[underwater-encounters-levels-1120-xge (tables)]]
+- [[underwater-encounters-levels-14-xge (tables)]]
+- [[underwater-encounters-levels-510-xge (tables)]]

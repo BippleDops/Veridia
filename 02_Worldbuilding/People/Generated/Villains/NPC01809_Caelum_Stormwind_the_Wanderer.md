@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Stormwind the Wanderer", "caelum stormwind the wanderer", "Caelum Stormwind Wanderer", "Wanderer the Stormwind Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Stormwind the Wanderer
 
 *Aasimar Assassin (Villains), Age 41, Male*
@@ -36,17 +42,14 @@ Betrayed by those they trusted, now seeking revenge on the world A chance encoun
 - **Short Term**: Survive until next week
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Brenna Silverleaf the Risen (Personal - Love interest)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Baelor Emberfall the Cunning (Criminal - Fence)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
-
 
 ### Urien Youngblood the Bold (Political - Patron)
 - **Status**: On the verge of collapse

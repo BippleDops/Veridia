@@ -1,3 +1,9 @@
+---
+aliases: ["Frost Crossbow of Wounding", "frost crossbow of wounding", "Wounding of Crossbow Frost"]
+tags: [item, equipment]
+type: item
+---
+
 # Frost Crossbow of Wounding
 
 *Weapons, Uncommon*

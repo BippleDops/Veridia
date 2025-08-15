@@ -1,4 +1,5 @@
 ---
+aliases: ["The Cursed Secret", "the cursed secret", "Secret Cursed The"]
 tags: [quest, adventure, generated]
 type: quest
 ---
@@ -20,8 +21,6 @@ Broker peace between the merchant guild and the thieves guild
 
 ### Secondary
 - Recover additional valuable items
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they was falsely accused of a crime, which changed their life forever. Now, circumstances demand immediate action.

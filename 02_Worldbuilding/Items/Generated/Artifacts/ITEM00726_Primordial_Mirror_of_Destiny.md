@@ -1,3 +1,9 @@
+---
+aliases: ["Primordial Mirror of Destiny", "primordial mirror of destiny", "Destiny of Mirror Primordial"]
+tags: [item, equipment]
+type: item
+---
+
 # Primordial Mirror of Destiny
 
 *Artifacts, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A primordial mirror pulsing with inner light
 - Cast spell 3/day
 - Telepathy 120 ft
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -32,7 +36,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.420Z*

@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Proudmore", "jorah proudmore", "Proudmore Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Proudmore
 
 *Genasi Courtier (Nobles), Age 36, Non-binary*
@@ -47,7 +53,6 @@ Secretly adopted into nobility, living in fear of discovery They're being blackm
 - **Status**: Strong and trusting
 - **History**: United by common enemy
 
-
 ### Pyria Darkwater (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
@@ -56,7 +61,6 @@ Secretly adopted into nobility, living in fear of discovery They're being blackm
 ### Alaric Oakenshield (Criminal - Accomplice)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
-
 
 ### Kaelen Jadeclaw (Professional - Mentor)
 - **Status**: Professional only

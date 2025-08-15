@@ -97,7 +97,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -116,4 +115,21 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[spider-climb-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[spells|spider-climb-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[pub]]
+- [[Derro Savant Mpmm]]
+- [[derro-savant-mpmm (aberration)]]
+- [[Deathlock Mpmm]]
+- [[deathlock-mpmm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Spider Staff Lmop]]
+- [[spider-staff-lmop (items)]]
+- [[Hidden Pit Xdmg]]
+- [[Spiked Pit Xdmg]]
+- [[hidden-pit-xdmg (traps-hazards)]]
+- [[spiked-pit-xdmg (traps-hazards)]]

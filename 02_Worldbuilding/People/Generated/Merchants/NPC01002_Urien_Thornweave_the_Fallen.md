@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Thornweave the Fallen", "urien thornweave the fallen", "Urien Thornweave Fallen", "Fallen the Thornweave Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Thornweave the Fallen
 
 *Tabaxi Trader (Merchants), Age 31, Male*
@@ -13,7 +19,6 @@
 Very tall and athletic, with Long and flowing blonde hair and Heterochromic eyes. Olive skin. Birthmark shaped like a constellation.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Always hungry and eating something
@@ -47,7 +52,6 @@ Inherited a failing business and turned it around They've been marked by a secre
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Malakai Underhill the Wanderer (Family - Cousin)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
@@ -57,11 +61,9 @@ Inherited a failing business and turned it around They've been marked by a secre
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Hilda Winterborn the Seeker (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ### Ysara Goldleaf the Cunning (Political - Patron)
 - **Status**: Strong and trusting

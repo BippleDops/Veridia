@@ -1,11 +1,11 @@
 ---
+aliases: ["Cedric Ironforge the Young", "cedric ironforge the young", "Cedric Ironforge Young", "Young the Ironforge Cedric"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Apprenticed to a master craftsman from young age. Years ago, they witnessed some
 ### Skills
 Arcana, Insight, Perception
 
-
-
 ## Possessions
 - 100 gold pieces
 - Set of thieves' tools
@@ -92,7 +90,6 @@ Arcana, Insight, Perception
 
 ---
 *Generated: 2025-08-15T03:20:13.076Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

@@ -1,3 +1,9 @@
+---
+aliases: ["Cursed Axe of Wounding", "cursed axe of wounding", "Wounding of Axe Cursed"]
+tags: [item, equipment]
+type: item
+---
+
 # Cursed Axe of Wounding
 
 *Weapons, Common*

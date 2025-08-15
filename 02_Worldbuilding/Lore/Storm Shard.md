@@ -118,3 +118,7 @@ Storm Shard represents a crucial aspect of the world's history, cosmology, or fu
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[The Storm Shard]]

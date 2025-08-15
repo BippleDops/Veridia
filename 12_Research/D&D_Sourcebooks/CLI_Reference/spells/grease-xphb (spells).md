@@ -113,4 +113,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[grease-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[grease-xphb (spells)|grease-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Goblin Hexer Xmm]]
+- [[goblin-hexer-xmm (fey)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Oil of Slipperiness Xdmg]]
+- [[oil-of-slipperiness-xdmg (items)]]
+- [[Wild Magic Surge Phb]]
+- [[wild-magic-surge-phb (tables)]]

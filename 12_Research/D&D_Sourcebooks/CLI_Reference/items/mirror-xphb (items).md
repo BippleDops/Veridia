@@ -78,3 +78,19 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A merchant needs help finding before the new moon
 - Strange dreams suggest a portal
 - Someone is searching for a witness for love
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Entertainers Pack Xphb]]
+- [[Monster Hunters Pack Vrgr]]
+- [[Robe of Useful Items Xdmg]]
+- [[Tinkers Tools Xphb]]
+- [[entertainers-pack-xphb (items)]]
+- [[monster-hunters-pack-vrgr (items)]]
+- [[robe-of-useful-items-xdmg (items)]]
+- [[tinkers-tools-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

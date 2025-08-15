@@ -1,4 +1,5 @@
 ---
+aliases: ["The Forbidden Artifact", "the forbidden artifact", "Artifact Forbidden The"]
 tags: [generated]
 id: QUEST0055
 created: 2025-08-15T04:09:51.394Z
@@ -21,8 +22,6 @@ Gain access to the sunken temple and complete the ritual
 
 ### Secondary
 - Sabotage enemy resources
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they survived a plague that killed their family, which changed their life forever. Now, circumstances demand immediate action.
@@ -56,8 +55,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Save civilians and risk failure - Heroes to the people but objective compromised
 2. Complete mission at any cost - Success but blood on hands
-
-
 
 ## Rewards
 ### On Success

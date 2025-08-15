@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Ironforge the Seeker", "fiora ironforge the seeker", "Fiora Ironforge Seeker", "Seeker the Ironforge Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Ironforge the Seeker
 
 *Halfling Carpenter (Commoners), Age 28, Non-binary*
@@ -13,7 +19,6 @@
 Above average and slender, with Short and neat brown hair and Green eyes. Olive skin. Unusual eye color for their race.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Sees doom and gloom everywhere; Collects unusual and worthless objects
@@ -36,12 +41,10 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Vesper Underhill the Risen (Political - Opposition)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ### Malakai Thornweave (Political - Ally)
 - **Status**: Secretly hostile
@@ -51,7 +54,6 @@ Grew up in poverty but discovered a talent that might change everything They've 
 ### Ewan Ironwood (Political - Opposition)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Is the lost heir to the throne

@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Winterborn the Seeker", "cedric winterborn the seeker", "Cedric Winterborn Seeker", "Seeker the Winterborn Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Winterborn the Seeker
 
 *Aasimar Crime Boss (Villains), Age 62, Male*
@@ -36,7 +42,6 @@ Betrayed by those they trusted, now seeking revenge on the world A family member
 - **Short Term**: Make this month's payment
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Corvus Proudmore the Scholar (Political - Opposition)
 - **Status**: On the verge of collapse
@@ -52,16 +57,13 @@ Betrayed by those they trusted, now seeking revenge on the world A family member
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Delara Ashford the Seeker (Political - Patron)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
 
-
 ### Dara Youngblood the Risen (Professional - Rival)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Believes they're saving the world

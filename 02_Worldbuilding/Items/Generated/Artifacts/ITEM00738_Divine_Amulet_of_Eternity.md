@@ -1,3 +1,9 @@
+---
+aliases: ["Divine Amulet of Eternity", "divine amulet of eternity", "Eternity of Amulet Divine"]
+tags: [item, equipment]
+type: item
+---
+
 # Divine Amulet of Eternity
 
 *Artifacts, Artifact (requires attunement)*

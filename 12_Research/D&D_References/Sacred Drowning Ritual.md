@@ -60,8 +60,12 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## See Also
 - Related content
 - Similar topics
 - Connected elements
+
+## References
+
+- [[Temple Guardian Marcus the Drowned]]
+- [[Temple Guardian Marcus the Drowned (D&D_References)]]

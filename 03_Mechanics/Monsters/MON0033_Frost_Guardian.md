@@ -1,4 +1,5 @@
 ---
+aliases: ["Frost Guardian", "frost guardian", "Guardian Frost"]
 tags: [generated]
 id: MON0033_Frost_Guardian
 created: 2025-08-15T04:09:51.430Z
@@ -28,7 +29,6 @@ A natural predator perfectly adapted to its environment
 
 ---
 *Generated: 2025-08-15T03:21:47.464Z*
-
 
 ## Habitat
 - Natural environment and territories

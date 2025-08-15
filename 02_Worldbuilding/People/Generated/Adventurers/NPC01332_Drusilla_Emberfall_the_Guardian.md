@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Emberfall the Guardian", "drusilla emberfall the guardian", "Drusilla Emberfall Guardian", "Guardian the Emberfall Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Emberfall the Guardian
 
 *Elf Cleric (Adventurers), Age 48, Non-binary*
@@ -47,11 +53,9 @@ Running from a dark past that won't stay buried They recently discovered a secre
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Faelyn Keenblade the Lost (Professional - Mentor)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ### Solas Goldleaf the Fallen (Political - Opposition)
 - **Status**: On the verge of collapse

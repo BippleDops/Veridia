@@ -1,3 +1,9 @@
+---
+aliases: ["Adamantine Cloak of the Guardian", "adamantine cloak of the guardian", "Adamantine Cloak of Guardian", "Guardian the of Cloak Adamantine"]
+tags: [item, equipment]
+type: item
+---
+
 # Adamantine Cloak of the Guardian
 
 *Armor, Rare*
@@ -15,8 +21,6 @@ A adamantine cloak bearing ancient runes
 - +2 to AC
 - Grants swimming speed
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -31,7 +35,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.396Z*

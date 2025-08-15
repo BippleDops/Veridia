@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-sarah-ironheart-captain-sarah-ironheart.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -219,7 +217,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -289,3 +286,13 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Quest - The Blackmail Papers_1 (01_Adventures)]]
+- [[Quest - The Blackmail Papers_2 (01_Adventures)]]
+- [[Quest - The Truth Unveiled]]
+- [[Quest - The Truth Unveiled_1 (01_Adventures)]]
+- [[Merchant Family Alliances]]
+- [[Relationship Web Nuances]]
+- [[Assets Locations Location City Master Curator Pearl Artflow Master Curator Pearl Artflow.svg]]

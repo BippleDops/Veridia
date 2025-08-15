@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Underhill the Scholar", "vesper underhill the scholar", "Vesper Underhill Scholar", "Scholar the Underhill Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Underhill the Scholar
 
 *Tabaxi Carpenter (Commoners), Age 38, Female*
@@ -36,12 +42,10 @@ Former soldier trying to adjust to civilian life They've made a deal they're beg
 - **Short Term**: Sabotage competition
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Alaric Nightfall the Cunning (Personal - Love interest)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ### Rhiannon Frostwhisper the Guardian (Professional - Employer)
 - **Status**: Strong and trusting
@@ -51,7 +55,6 @@ Former soldier trying to adjust to civilian life They've made a deal they're beg
 ### Drusilla Youngblood the Strong (Personal - Best friend)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ### Pyria Silverleaf the Mystic (Criminal - Handler)
 - **Status**: One-sided affection

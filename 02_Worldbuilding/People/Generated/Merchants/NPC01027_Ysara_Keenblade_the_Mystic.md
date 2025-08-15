@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Keenblade the Mystic", "ysara keenblade the mystic", "Ysara Keenblade Mystic", "Mystic the Keenblade Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Keenblade the Mystic
 
 *Half-Elf Caravan Master (Merchants), Age 77, Male*
@@ -13,7 +19,6 @@
 Below average and lanky, with Wild and unkempt silver hair and Gray eyes. Weathered skin. Missing finger on left hand.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Flirts with everyone regardless of interest; Always speaks in metaphors and riddles
@@ -36,32 +41,26 @@ Part of a merchant family with connections everywhere A prophetic dream has been
 - **Short Term**: Recruit new members
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Orion Stormwind the Bold (Criminal - Accomplice)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Aldric Voidwalker the Swift (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ### Erasmus Lightbringer the Strong (Family - Sibling)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Elric Oakenshield the Wise (Professional - Partner)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Xander Silverleaf the Wise (Professional - Employee)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Killed previous business owner

@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -72,7 +72,7 @@ Trust Network Tracker represents a crucial aspect of the world's history, cosmol
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -87,7 +87,7 @@ Trust Network Tracker represents a crucial aspect of the world's history, cosmol
 - Someone is blackmailing a witness for revenge
 - An heirloom has gone missing and chaos spreads
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -103,3 +103,7 @@ Trust Network Tracker represents a crucial aspect of the world's history, cosmol
 - Civil war
 - Natural disasters
 - Current [[Power Structures]] established
+
+## References
+
+- [[Campaign_Overview (Shadow_Conspiracy)]]

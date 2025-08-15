@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Dawnstrider the Seeker", "idris dawnstrider the seeker", "Idris Dawnstrider Seeker", "Seeker the Dawnstrider Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Dawnstrider the Seeker
 
 *Tabaxi Ranger (Adventurers), Age 33, Female*
@@ -36,22 +42,18 @@ Running from a dark past that won't stay buried They recently discovered a secre
 - **Short Term**: Gather information
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Dara Ravenheart the Cunning (Professional - Employee)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Ewan Goldleaf the Wise (Political - Puppet)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Alaric Emberfall the Seeker (Family - Child)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Carries a world-ending artifact

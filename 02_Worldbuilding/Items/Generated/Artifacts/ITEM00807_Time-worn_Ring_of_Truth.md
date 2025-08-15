@@ -1,3 +1,9 @@
+---
+aliases: ["Time-worn Ring of Truth", "time-worn ring of truth", "Truth of Ring Time-worn"]
+tags: [item, equipment]
+type: item
+---
+
 # Time-worn Ring of Truth
 
 *Artifacts, Artifact (requires attunement)*
@@ -16,8 +22,6 @@ A time-worn ring pulsing with inner light
 - Regenerate 1 hp/round
 - Regenerate 1 hp/round
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -32,7 +36,6 @@ Priceless
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.427Z*

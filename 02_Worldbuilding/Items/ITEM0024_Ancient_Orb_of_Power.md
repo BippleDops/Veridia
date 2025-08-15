@@ -1,4 +1,5 @@
 ---
+aliases: ["Ancient Orb of Power", "ancient orb of power", "Power of Orb Ancient"]
 tags: [generated]
 id: ITEM0024
 created: 2025-08-15T04:09:51.084Z
@@ -20,8 +21,6 @@ Crafted from adamantine with ancient symbols, in ancient but unbreakable. It ema
 
 ## Quirk
 *Vibrates near magic*
-
-
 
 ## History
 This item was blessed by the gods themselves millennia ago. It has passed through many hands, each leaving their mark upon its destiny.

@@ -14,7 +14,6 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 > [!figure] Asset
 ![](04_Resources/Assets/Portraits/portrait-npc-quest-the-healer-s-burden-quest-the-healer-s-burden.svg)
 
@@ -41,12 +40,10 @@ world: Both
 
 *"Dr. Celeste Dawnbringer must choose who lives and who dies - and the weight of those choices may break her oath to do no harm."*
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -295,7 +292,6 @@ This quest works best when players have established relationships with potential
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Hooks
 - **Personal**: Character connection

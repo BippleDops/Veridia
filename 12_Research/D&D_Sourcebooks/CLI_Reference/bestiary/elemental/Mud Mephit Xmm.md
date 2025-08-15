@@ -152,3 +152,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[mud-mephit-xmm (elemental)]]
+- [[Murgaxor Scc]]
+- [[murgaxor-scc (legendary-group)]]
+- [[Monsters by Habitat Swamp Monsters Xmm]]
+- [[Swamp Encounters Levels 14 Xge]]
+- [[monsters-by-habitat-swamp-monsters-xmm (tables)]]
+- [[swamp-encounters-levels-14-xge (tables)]]

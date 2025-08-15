@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Xendar the Cunning", "hilda xendar the cunning", "Hilda Xendar Cunning", "Cunning the Xendar Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Xendar the Cunning
 
 *Aasimar Corrupt Noble (Villains), Age 19, Male*
@@ -36,27 +42,22 @@ Believes their evil acts serve a greater good An old debt has come due at the wo
 - **Short Term**: Survive until next week
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Aeliana Emberfall the Cunning (Criminal - Accomplice)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Lyanna Crystalbrook the Risen (Professional - Partner)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
-
 
 ### Drusilla Dawnstrider the Wise (Criminal - Informant)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
 
-
 ### Branwen Thornweave the Broken (Criminal - Fence)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Has a child they're protecting

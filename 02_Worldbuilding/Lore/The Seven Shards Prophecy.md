@@ -1,6 +1,6 @@
 ---
 
-title: [[The [[Seven Shards]]]] Prophecy
+title: [[Seven Shards|The [[Seven Shards]]]] Prophecy
 type: [[Lore]]
 tags:
 - lore
@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -72,7 +72,7 @@ The Seven Shards Prophecy represents a crucial aspect of the world's history, co
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -109,3 +109,8 @@ The Seven Shards Prophecy represents a crucial aspect of the world's history, co
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Topic Matrix]]
+- [[Topic_Matrix (Indexes)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Youngblood the Seeker", "cedric youngblood the seeker", "Cedric Youngblood Seeker", "Seeker the Youngblood Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Youngblood the Seeker
 
 *Dragonborn Bard (Adventurers), Age 72, Non-binary*
@@ -36,32 +42,26 @@ Running from a dark past that won't stay buried A family member's death has left
 - **Short Term**: Gather information
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Urien Jadeclaw the Bold (Professional - Employer)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
 
-
 ### Fiora Voidwalker the Broken (Criminal - Target)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ### Dara Nightfall the Wise (Professional - Partner)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
 
-
 ### Idris Grimholt the Wise (Political - Puppet)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
 
-
 ### Cedric Crystalbrook the Strong (Professional - Mentor)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is from the future

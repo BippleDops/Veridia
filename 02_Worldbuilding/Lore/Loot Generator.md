@@ -99,3 +99,7 @@ Loot Generator represents a crucial aspect of the world's history, cosmology, or
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Loot_Generator (02_Worldbuilding)]]

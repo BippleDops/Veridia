@@ -1,4 +1,5 @@
 ---
+aliases: ["Blessed Crown of Power", "blessed crown of power", "Power of Crown Blessed"]
 tags: [generated]
 id: ITEM0017
 created: 2025-08-15T04:09:51.082Z
@@ -19,8 +20,6 @@ Crafted from darkwood with intricate runes, in ancient but unbreakable. It emana
 
 ## Quirk
 *Hums when enemies are near*
-
-
 
 ## History
 This item was reforged from broken artifacts centuries ago. It has passed through many hands, each leaving their mark upon its destiny.

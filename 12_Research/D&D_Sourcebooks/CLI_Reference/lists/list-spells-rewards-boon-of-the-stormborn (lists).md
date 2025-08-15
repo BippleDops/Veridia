@@ -66,7 +66,6 @@ Mentioned in The First Prophecy of Stars
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -85,4 +84,4 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[list-spells-rewards-boon-of-the-stormborn (lists)-phb]]` in CLI_Reference/spells/
+See: `[[list-spells-rewards-boon-of-the-stormborn (lists)|list-spells-rewards-boon-of-the-stormborn (lists)-phb]]` in CLI_Reference/spells/

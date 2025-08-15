@@ -1,3 +1,9 @@
+---
+aliases: ["Superior Crystal of Vigor", "superior crystal of vigor", "Vigor of Crystal Superior"]
+tags: [item, equipment]
+type: item
+---
+
 # Superior Crystal of Vigor
 
 *Consumables, Common*

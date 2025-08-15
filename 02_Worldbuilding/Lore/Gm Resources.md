@@ -99,3 +99,8 @@ improvements: 20
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[02_Worldbuilding_Lore_GM_Resources]]
+- [[Gm Ultimate GM Screen.md]]

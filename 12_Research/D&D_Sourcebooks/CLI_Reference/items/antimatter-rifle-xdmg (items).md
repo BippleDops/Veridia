@@ -79,3 +79,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A journal reveals a betrayal about the cult
 - A document has gone missing and war looms
 - Strange dreams suggest a portal
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Ammunition 2 Xdmg]]
+- [[ammunition-2-xdmg (tables)]]

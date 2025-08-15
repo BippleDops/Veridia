@@ -26,3 +26,14 @@ Further information about this topic will be developed as the campaign progresse
 - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Captain Rodrigo Ironanchor]]
+- [[Major Trading Companies]]
+- [[Merchant Princes]]
+- [[Captain Rodrigo Ironanchor (D&D_References)]]
+- [[Economic Warfare and Trade Sanctions]]
+- [[Major Trading Companies (D&D_References)]]
+- [[Merchant Princes (D&D_References)]]

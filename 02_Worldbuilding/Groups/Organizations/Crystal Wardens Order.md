@@ -126,3 +126,7 @@ Mentioned in The Hidden Prophecy of Depths
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Crystal Wardens (People)]]

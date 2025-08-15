@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Xendar the Fallen", "felicia xendar the fallen", "Felicia Xendar Fallen", "Fallen the Xendar Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Xendar the Fallen
 
 *Tiefling Cultist (Villains), Age 32, Female*
@@ -13,7 +19,6 @@
 Above average and imposing, with Tied back auburn hair and Amber eyes. Scarred skin. Warm smile that puts people at ease.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Laughs at the most inappropriate times
@@ -36,27 +41,22 @@ Born into evil but questioning their path Strange abilities have begun manifesti
 - **Short Term**: Sabotage competition
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Dara Hawthorne the Wise (Criminal - Fence)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Lyanna Grimholt the Broken (Personal - Ex-lover)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ### Fiora Winterborn the Swift (Criminal - Accomplice)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Vesper Brightblade the Mystic (Political - Opposition)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Has a child they're protecting

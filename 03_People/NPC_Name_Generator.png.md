@@ -20,7 +20,7 @@ improvements: 20
 
 ## Portrait
 
-![[portrait_npc_name_generator.png.png]]
+![[Npc|portrait_npc_name_generator.png.png]]
 
 *Portrait reference for NPC_Name_Generator.png*
 
@@ -80,3 +80,8 @@ creature: Custom NPC
 - **Proficiency Bonus**: *[+X]*
 - **Saving Throws**: *[Proficient saves]*
 - **Skills**: *[Skill proficiencies]*
+
+## References
+
+- [[Assets Portraits Portrait NPC Captain Torrent Swiftcurrent Captain Torrent Swiftcurrent.svg]]
+- [[NPC_Name_Generator.png_Quick_Ref]]

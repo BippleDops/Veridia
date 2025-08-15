@@ -1,8 +1,8 @@
 ---
+aliases: ["Jora Stormwind", "jora stormwind", "Stormwind Jora"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -71,8 +71,6 @@ Grew up on the streets, learning to survive. Years ago, they found an ancient ar
 ### Skills
 Arcana, Athletics, Investigation, Deception
 
-
-
 ## Possessions
 - 99 gold pieces
 - Family heirloom (locket)
@@ -84,7 +82,6 @@ Arcana, Athletics, Investigation, Deception
 
 ---
 *Generated: 2025-08-15T03:21:04.026Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Ironwood the Bold", "aeliana ironwood the bold", "Aeliana Ironwood Bold", "Bold the Ironwood Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Ironwood the Bold
 
 *Tiefling Ranger (Adventurers), Age 59, Non-binary*
@@ -36,22 +42,18 @@ Accidentally gained powers and learning to control them They're being blackmaile
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Wynne Crystalbrook the Bold (Personal - Love interest)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Xander Ravenheart the Bold (Criminal - Target)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Drusilla Emberfall the Wise (Family - Spouse)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
-
 
 ### Thalia Stormwind the Broken (Personal - Ex-lover)
 - **Status**: Strong and trusting
@@ -62,11 +64,9 @@ Accidentally gained powers and learning to control them They're being blackmaile
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Gavril Voidwalker the Swift (Personal - Nemesis)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Carries a world-ending artifact

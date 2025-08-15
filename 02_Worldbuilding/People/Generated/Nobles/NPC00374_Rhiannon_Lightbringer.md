@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Lightbringer", "rhiannon lightbringer", "Lightbringer Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Lightbringer
 
 *Half-Elf Noble (Nobles), Age 57, Non-binary*
@@ -36,22 +42,18 @@ Secretly adopted into nobility, living in fear of discovery A prophetic dream ha
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Alaric Grimholt the Broken (Family - Sibling)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Vesper Goldleaf (Political - Puppet)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Malakai Frostwhisper the Bold (Criminal - Target)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ### Elric Voidwalker the Guardian (Professional - Mentor)
 - **Status**: Secretly hostile
@@ -66,7 +68,6 @@ Secretly adopted into nobility, living in fear of discovery A prophetic dream ha
 ### Lyanna Winterborn the Swift (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Actually a bastard with no real claim

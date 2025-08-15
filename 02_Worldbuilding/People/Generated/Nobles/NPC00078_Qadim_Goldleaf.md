@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Goldleaf", "qadim goldleaf", "Goldleaf Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Goldleaf
 
 *Tiefling Ambassador (Nobles), Age 63, Female*
@@ -13,7 +19,6 @@
 Above average and compact, with Wild and unkempt black hair and Blue eyes. Scarred skin. Missing finger on left hand.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Believes in every conspiracy theory
@@ -42,11 +47,9 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
 
-
 ### Erasmus Crystalbrook (Professional - Employer)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ### Pyria Grimholt (Personal - Best friend)
 - **Status**: Mutually beneficial

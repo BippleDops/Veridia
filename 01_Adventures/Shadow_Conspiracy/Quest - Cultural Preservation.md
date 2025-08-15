@@ -13,12 +13,10 @@ updated: 2025-08-14
 
 # Quest - Cultural Preservation
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -28,19 +26,16 @@ updated: 2025-08-14
 - Secondary objectives
 - Hidden goals
 
-
 ## Rewards
 - **Gold**: 100-500 gp
 - **Experience**: Standard XP
 - **Items**: Possible magic item
 - **Reputation**: Increased standing
 
-
 ## Hooks
 - **Personal**: Character connection
 - **Professional**: Hired for the job
 - **Circumstantial**: Right place, right time
-
 
 ## Complications
 - Unexpected obstacles
@@ -83,7 +78,6 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
-
 
 ## Time Limit
 - **Deadline**: When it must be completed

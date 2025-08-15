@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Silverleaf the Scholar", "felicia silverleaf the scholar", "Felicia Silverleaf Scholar", "Scholar the Silverleaf Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Silverleaf the Scholar
 
 *Gnome Shopkeeper (Merchants), Age 69, Female*
@@ -36,17 +42,14 @@ Uses their business as cover for other activities They've made a deal they're be
 - **Short Term**: Gather information
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Alaric Frostwhisper the Wanderer (Professional - Partner)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Vesper Blackstone the Lost (Professional - Employee)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ### Brenna Nightfall the Mystic (Family - Spouse)
 - **Status**: Mutually beneficial

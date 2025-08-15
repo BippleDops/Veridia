@@ -192,13 +192,11 @@ Artificer is a notable location characterized by its unique features and strateg
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -206,13 +204,11 @@ Artificer is a notable location characterized by its unique features and strateg
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -252,7 +248,6 @@ Key stop on magic items trade route
 - 20% middle class
 - 79% working poor
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -288,3 +283,30 @@ Key stop on magic items trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[02_Worldbuilding_Lore_Master_Artificer_Coral_Gemwright]]
+- [[02_Worldbuilding_People_Master_Artificer_Coral_Gemwright]]
+- [[03_People_Artificer_PlayStation]]
+- [[Aquabyssos Trade Seal]]
+- [[Arcanum Heights]]
+- [[Artificer Prism Lightweaver]]
+- [[Artificer-General Magnus Gemheart]]
+- [[Artificer_PlayStation]]
+- [[Eastern Kingdom]]
+- [[Master Artificer Cogsworth]]
+- [[Merchant Family Alliances]]
+- [[Professional Terminology]]
+- [[The Breathing Stone]]
+- [[The Crown of Stars]]
+- [[Corrupted Clients]]
+- [[Artificer Magnus Weightless]]
+- [[Compass Quest]]
+- [[Master Artificer Thymallos]]
+- [[Merchant Viktor Geargrind]]
+- [[Palace Artificers]]
+- [[Supplier Erikson Tidecaller]]
+- [[The Crystalline Foundry]]
+- [[The Crown's Burden]]
+- [[Corrupted Clients (D&D_References)]]

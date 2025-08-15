@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Quicksilver the Broken", "zephyr quicksilver the broken", "Zephyr Quicksilver Broken", "Broken the Quicksilver Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Quicksilver the Broken
 
 *Aasimar Crime Boss (Villains), Age 68, Female*
@@ -42,21 +48,17 @@ Born into evil but questioning their path They've fallen in love with someone th
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Kaelen Goldleaf the Lost (Professional - Mentor)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ### Faelyn Darkwater the Bold (Personal - Nemesis)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Jorah Blackstone the Bold (Personal - Best friend)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ### Vesper Keenblade the Bold (Family - Cousin)
 - **Status**: Complicated history

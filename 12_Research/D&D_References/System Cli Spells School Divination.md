@@ -180,3 +180,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+## References
+
+- [[Master_Spell_Compendium]]

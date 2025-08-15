@@ -1,3 +1,9 @@
+---
+aliases: ["Time-worn Orb of Eternity", "time-worn orb of eternity", "Eternity of Orb Time-worn"]
+tags: [item, equipment]
+type: item
+---
+
 # Time-worn Orb of Eternity
 
 *Artifacts, Legendary*
@@ -16,8 +22,6 @@ A time-worn orb covered in mysterious symbols
 - Time stop 1/week
 - Grant true sight
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -32,7 +36,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.432Z*

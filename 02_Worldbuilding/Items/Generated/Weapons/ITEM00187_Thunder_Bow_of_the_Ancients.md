@@ -1,3 +1,9 @@
+---
+aliases: ["Thunder Bow of the Ancients", "thunder bow of the ancients", "Thunder Bow of Ancients", "Ancients the of Bow Thunder"]
+tags: [item, equipment]
+type: item
+---
+
 # Thunder Bow of the Ancients
 
 *Weapons, Very Rare*
@@ -16,8 +22,6 @@ A thunder bow carved from dragon bone
 - Critical hits on 19-20
 - Can strike ethereal creatures
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -32,7 +36,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.358Z*

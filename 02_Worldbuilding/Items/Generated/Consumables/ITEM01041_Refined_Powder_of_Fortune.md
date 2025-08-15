@@ -1,3 +1,9 @@
+---
+aliases: ["Refined Powder of Fortune", "refined powder of fortune", "Fortune of Powder Refined"]
+tags: [item, equipment]
+type: item
+---
+
 # Refined Powder of Fortune
 
 *Consumables, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A refined powder emanating sweet fragrance
 - Remove one condition
 - Grant advantage for 1 hour
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -31,7 +35,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.451Z*

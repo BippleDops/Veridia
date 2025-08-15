@@ -1,3 +1,9 @@
+---
+aliases: ["Frost Dagger of Speed", "frost dagger of speed", "Speed of Dagger Frost"]
+tags: [item, equipment]
+type: item
+---
+
 # Frost Dagger of Speed
 
 *Weapons, Common*

@@ -161,3 +161,37 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Ettin Xmm]]
+- [[Deck of Illusions Xdmg]]
+- [[Deck of Illusions]]
+- [[deck-of-illusions (decks)]]
+- [[deck-of-illusions-xdmg (decks)]]
+- [[Deck of Illusions Xdmg (items)]]
+- [[deck-of-illusions-xdmg (items)]]
+- [[Hill Encounters Levels 1116 Xge]]
+- [[Hill Encounters Levels 1720 Xge]]
+- [[Hill Encounters Levels 510 Xge]]
+- [[Monsters by Habitat Hill Monsters Xmm]]
+- [[Monsters by Habitat Mountain Monsters Xmm]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[Mountain Encounters Levels 1116 Xge]]
+- [[Mountain Encounters Levels 14 Xge]]
+- [[Mountain Encounters Levels 510 Xge]]
+- [[Pets Beholder Greater Minions Vgm]]
+- [[Underdark Encounters Levels 1116 Xge]]
+- [[Underdark Encounters Levels 14 Xge]]
+- [[hill-encounters-levels-1116-xge (tables)]]
+- [[hill-encounters-levels-1720-xge (tables)]]
+- [[hill-encounters-levels-510-xge (tables)]]
+- [[monsters-by-habitat-hill-monsters-xmm (tables)]]
+- [[monsters-by-habitat-mountain-monsters-xmm (tables)]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]
+- [[mountain-encounters-levels-1116-xge (tables)]]
+- [[mountain-encounters-levels-14-xge (tables)]]
+- [[mountain-encounters-levels-510-xge (tables)]]
+- [[pets-beholder-greater-minions-vgm (tables)]]
+- [[underdark-encounters-levels-1116-xge (tables)]]
+- [[underdark-encounters-levels-14-xge (tables)]]

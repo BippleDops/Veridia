@@ -1,4 +1,5 @@
 ---
+aliases: ["Infernal Storm", "infernal storm", "Storm Infernal"]
 tags: [generated]
 id: SPELL0038_Infernal_Storm
 created: 2025-08-15T04:09:51.475Z

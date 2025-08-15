@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Dawnstrider the Wanderer", "fiora dawnstrider the wanderer", "Fiora Dawnstrider Wanderer", "Wanderer the Dawnstrider Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Dawnstrider the Wanderer
 
 *Dragonborn Appraiser (Merchants), Age 23, Female*
@@ -42,16 +48,13 @@ Former adventurer who retired to open a shop They've been marked by a secret soc
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Delara Silverleaf the Strong (Personal - Childhood friend)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Dara Proudmore the Fallen (Criminal - Informant)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Is actually a spy for foreign power

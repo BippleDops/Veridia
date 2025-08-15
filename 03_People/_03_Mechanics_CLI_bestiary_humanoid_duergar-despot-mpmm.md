@@ -274,7 +274,6 @@ creature: Custom NPC
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
 
-
 ## See Also
 - Related content
 - Similar topics
@@ -302,3 +301,7 @@ status: active
 ## Player Tips
 > 🎮 **Strategy**: How to approach this content
 > Work together and communicate
+
+## References
+
+- [[_03_Mechanics_CLI_bestiary_humanoid_duergar-despot-mpmm_Quick_Ref]]

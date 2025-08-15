@@ -14,7 +14,6 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 # Quest Index
 
 ---
@@ -45,12 +44,10 @@ accessibility:
 
 # Quest Index
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -173,7 +170,6 @@ Mentioned in The Second Prophecy of Shadows
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## Time Limit
 - **Deadline**: When it must be completed
 - **Consequences**: What happens if late
@@ -223,3 +219,9 @@ Mentioned in The Second Prophecy of Shadows
 ## Player Tips
 > 🎮 **Strategy**: How to approach this content
 > Work together and communicate
+
+## References
+
+- [[Location Index]]
+- [[Campaign Index 3 (D&D_References)]]
+- [[Location Index (D&D_References)]]

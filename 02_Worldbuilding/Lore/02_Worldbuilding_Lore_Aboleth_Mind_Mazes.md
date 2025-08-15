@@ -2,7 +2,7 @@
 tags: ['[[Lore]]']
 ---
 
-# [[02 Worldbuilding]]/Lore/[[Aboleth]] Mind Mazes
+# [[02_Worldbuilding|02 Worldbuilding]]/Lore/[[Aboleth]] Mind Mazes
 
 ## Overview
 

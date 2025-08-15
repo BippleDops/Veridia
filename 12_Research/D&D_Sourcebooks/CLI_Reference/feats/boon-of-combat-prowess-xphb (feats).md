@@ -96,7 +96,6 @@ Mentioned in The Hidden Prophecy of Shadows
 
 Contextual improvement based on 12_Research
 
-
 ## Scaling by Party Level
 - **Level 1-4**: Reduce enemies
 - **Level 5-10**: Standard difficulty
@@ -121,3 +120,12 @@ Contextual improvement based on 12_Research
 - Difficult terrain: +25% to difficulty
 - Advantage to enemies: +50% to difficulty
 - Surprise round: Double difficulty
+
+## References
+
+- [[06 Chapter 5 Feats]]
+- [[06-chapter-5-feats (players-handbook-2024)]]
+- [[Fighter Xphb]]
+- [[fighter-xphb (classes)]]
+- [[Repeatable Feat List Xphb]]
+- [[repeatable-feat-list-xphb (tables)]]

@@ -29,3 +29,19 @@ Further information about this topic will be developed as the campaign progresse
 - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery
+
+## References
+
+- [[Shadow Ambush - Optional (Criminal_Organizations)]]
+- [[Foreign Intelligence Services]]
+- [[Fortress of the Deeps]]
+- [[Intelligence Services 2]]
+- [[International Intelligence Services]]
+- [[Political Compromise Costs]]
+- [[Assets Portraits Portrait NPC Captain Marina Shieldcurrent Captain Marina Shieldcurrent.svg]]
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Lord Reginald Seaworthy]]
+- [[Maelstrom Palace]]
+- [[Royal Palace]]
+- [[Shadow Market Canals]]
+- [[Shadow Ambush - Optional]]

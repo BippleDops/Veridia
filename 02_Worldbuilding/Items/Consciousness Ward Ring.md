@@ -146,3 +146,7 @@ Consciousness Ward Ring is a ancient armor that radiates divine energy.
 
 ### Curse (if applicable)
 - *[Negative effects]*
+
+## References
+
+- [[Master_Item_Catalog]]

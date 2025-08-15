@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Stormwind the Lost", "nerys stormwind the lost", "Nerys Stormwind Lost", "Lost the Stormwind Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Stormwind the Lost
 
 *Tabaxi Rogue (Adventurers), Age 60, Female*
@@ -13,7 +19,6 @@
 Above average and lanky, with Tied back unusual color hair and Heterochromic eyes. Brown skin. Warm smile that puts people at ease.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Never backs down from any challenge
@@ -36,22 +41,18 @@ Searching for a legendary treasure their parent died seeking They're being black
 - **Short Term**: Find missing person
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Nerys Emberfall the Swift (Professional - Mentor)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
 
-
 ### Orion Dawnstrider the Swift (Criminal - Target)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
 
-
 ### Ewan Thornweave the Fallen (Professional - Mentor)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ### Ewan Keenblade the Lost (Professional - Employer)
 - **Status**: Professional only
@@ -61,7 +62,6 @@ Searching for a legendary treasure their parent died seeking They're being black
 ### Gavril Hawthorne the Risen (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ### Ysara Youngblood the Guardian (Criminal - Fence)
 - **Status**: One-sided affection

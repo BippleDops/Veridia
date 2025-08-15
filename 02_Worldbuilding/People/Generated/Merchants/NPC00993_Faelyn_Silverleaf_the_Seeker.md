@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Silverleaf the Seeker", "faelyn silverleaf the seeker", "Faelyn Silverleaf Seeker", "Seeker the Silverleaf Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Silverleaf the Seeker
 
 *Human Shopkeeper (Merchants), Age 68, Male*
@@ -42,7 +48,6 @@ Part of a merchant family with connections everywhere A family member's death ha
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Faelyn Ashford the Strong (Personal - Nemesis)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
@@ -62,11 +67,9 @@ Part of a merchant family with connections everywhere A family member's death ha
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Caelum Hawthorne the Fallen (Criminal - Accomplice)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Sells information to all sides

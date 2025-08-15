@@ -208,3 +208,7 @@ Member of House Dragonblood - Trait: magical affinity
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-master-smith-vulcan-deepforge-v1-master-smith-vulcan-deepforge.svg]]

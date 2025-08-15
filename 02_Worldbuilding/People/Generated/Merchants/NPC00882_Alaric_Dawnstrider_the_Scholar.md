@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Dawnstrider the Scholar", "alaric dawnstrider the scholar", "Alaric Dawnstrider Scholar", "Scholar the Dawnstrider Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Dawnstrider the Scholar
 
 *Half-Elf Appraiser (Merchants), Age 51, Non-binary*
@@ -42,21 +48,17 @@ Inherited a failing business and turned it around They've made a deal they're be
 - **Status**: Recently reconciled
 - **History**: United by common enemy
 
-
 ### Drusilla Goldleaf the Lost (Political - Ally)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ### Qadim Oakenshield the Broken (Criminal - Accomplice)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Wynne Ironwood the Redeemed (Family - Sibling)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ### Jorah Frostwhisper the Guardian (Family - Cousin)
 - **Status**: Blood oath bound

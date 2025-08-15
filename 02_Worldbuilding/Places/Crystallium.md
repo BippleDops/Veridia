@@ -204,7 +204,7 @@ Creating defensive technologies for [[The Lock]] and other critical facilities:
 - Early warning systems for threats from [[The Hadal Depths]]
 - Communication networks resistant to extreme conditions
 
-### [[The Memory Preservation Archive]]
+### 
 Preserving the knowledge and experiences of pre-Drowning civilization:
 - Recovery of surface world memories from survivors
 - Documentation of lost technologies and magical techniques
@@ -284,13 +284,11 @@ Crystallium is a notable location characterized by its unique features and strat
 ### Founding
 Crystallium was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -298,13 +296,11 @@ Crystallium was established in the distant past, growing from humble beginnings 
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -363,7 +359,6 @@ Key stop on spices trade route
 - 20% middle class
 - 79% working poor
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -399,3 +394,14 @@ Key stop on spices trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Comprehensive-World-Connection-Guide]]
+- [[Agent Whisper Voidheart]]
+- [[Crystallium Embassy]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide (D&D_References)]]
+- [[Aquabyssos - Session 05 - Descent into Darkness]]
+- [[Aquabyssos - Session 06 - The Silhouette Surgeons]]
+- [[Aquabyssos - Session 07 - The Resonance Revelation]]

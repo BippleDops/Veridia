@@ -177,7 +177,6 @@ modified: '2025-08-14'
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## Player Tips
 > 🎮 **Strategy**: How to approach this content
 > Work together and communicate

@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Emberfall the Wise", "corvus emberfall the wise", "Corvus Emberfall Wise", "Wise the Emberfall Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Emberfall the Wise
 
 *Half-Elf Blacksmith (Commoners), Age 49, Non-binary*
@@ -42,26 +48,21 @@ Family has worked the same trade for generations, but times are changing They've
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Elric Blackstone the Swift (Professional - Employee)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ### Cedric Xendar the Broken (Personal - Nemesis)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Delara Quicksilver the Cunning (Criminal - Target)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Zephyr Crystalbrook the Broken (Criminal - Target)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ### Pyria Nightfall (Political - Ally)
 - **Status**: Mutually beneficial

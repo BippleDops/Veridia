@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Thornweave the Wise", "aeliana thornweave the wise", "Aeliana Thornweave Wise", "Wise the Thornweave Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Thornweave the Wise
 
 *Half-Elf Fisher (Commoners), Age 75, Non-binary*
@@ -42,21 +48,17 @@ Family has worked the same trade for generations, but times are changing They re
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Branwen Thornweave the Strong (Professional - Rival)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
-
 
 ### Urien Grimholt the Mystic (Family - Child)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Alaric Goldleaf the Seeker (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Knows location of ancient treasure

@@ -1,3 +1,9 @@
+---
+aliases: ["Ethereal Helm of Grace", "ethereal helm of grace", "Grace of Helm Ethereal"]
+tags: [item, equipment]
+type: item
+---
+
 # Ethereal Helm of Grace
 
 *Armor, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A ethereal helm crafted from exotic materials
 - Immunity to critical hits
 - No stealth disadvantage
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -30,7 +34,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.396Z*

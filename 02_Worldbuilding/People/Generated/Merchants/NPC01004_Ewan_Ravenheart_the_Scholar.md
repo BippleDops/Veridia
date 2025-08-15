@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Ravenheart the Scholar", "ewan ravenheart the scholar", "Ewan Ravenheart Scholar", "Scholar the Ravenheart Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Ravenheart the Scholar
 
 *Firbolg Trader (Merchants), Age 60, Non-binary*
@@ -42,16 +48,13 @@ Part of a merchant family with connections everywhere A family member's death ha
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Ewan Moonshadow the Seeker (Criminal - Target)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Nerys Darkwater the Scholar (Family - Sibling)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ### Pyria Brightblade the Lost (Political - Ally)
 - **Status**: Blood oath bound
@@ -61,7 +64,6 @@ Part of a merchant family with connections everywhere A family member's death ha
 ### Thalia Grimholt the Mystic (Family - Cousin)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Sells information to all sides

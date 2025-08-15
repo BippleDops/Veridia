@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Winterborn the Wanderer", "vesper winterborn the wanderer", "Vesper Winterborn Wanderer", "Wanderer the Winterborn Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Winterborn the Wanderer
 
 *Goliath Fisher (Commoners), Age 57, Non-binary*
@@ -13,7 +19,6 @@
 Tall and heavyset, with Short and neat blonde hair and Hazel eyes. Scarred skin. Weather-beaten face showing hard life.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Collects unusual and worthless objects; Incredibly optimistic despite evidence
@@ -36,37 +41,30 @@ Former soldier trying to adjust to civilian life They've fallen in love with som
 - **Short Term**: Complete current contract
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Gavril Ironwood the Broken (Family - Spouse)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
 
-
 ### Xander Dawnstrider the Broken (Family - Spouse)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
-
 
 ### Lyanna Jadeclaw the Seeker (Family - Spouse)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Xander Quicksilver the Fallen (Criminal - Fence)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ### Idris Underhill the Wise (Personal - Ex-lover)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Zephyr Stormwind the Wise (Family - Spouse)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Has dragon blood in their veins

@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Stormwind", "aldric stormwind", "Stormwind Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Stormwind
 
 *Tabaxi Blacksmith (Commoners), Age 76, Female*
@@ -36,27 +42,22 @@ Grew up in poverty but discovered a talent that might change everything They rec
 - **Short Term**: Gather information
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Nerys Zephyrblade the Wanderer (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Caelum Youngblood the Strong (Family - Sibling)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ### Caelum Ravenheart the Broken (Family - Child)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
 
-
 ### Pyria Ironforge the Seeker (Family - Cousin)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ### Vesper Lightbringer the Cunning (Political - Puppet)
 - **Status**: One-sided affection

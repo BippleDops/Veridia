@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Proudmore", "pyria proudmore", "Proudmore Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Proudmore
 
 *Tabaxi Aristocrat (Nobles), Age 61, Non-binary*
@@ -36,27 +42,22 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Sabotage competition
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Aeliana Thornweave the Wanderer (Personal - Best friend)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Rhiannon Ashford (Criminal - Handler)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
-
 
 ### Thalia Silverleaf the Scholar (Criminal - Target)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Delara Nightfall (Professional - Rival)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Child from scandalous affair

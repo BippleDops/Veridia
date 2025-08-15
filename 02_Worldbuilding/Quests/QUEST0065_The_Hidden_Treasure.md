@@ -1,4 +1,5 @@
 ---
+aliases: ["The Hidden Treasure", "the hidden treasure", "Treasure Hidden The"]
 tags: [generated]
 id: QUEST0065
 created: 2025-08-15T04:09:51.400Z
@@ -22,8 +23,6 @@ Eliminate the cult leader before they can complete the ritual
 ### Secondary
 - Sabotage enemy resources
 - Recover additional valuable items
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they found an ancient artifact, which changed their life forever. Now, circumstances demand immediate action.
@@ -58,8 +57,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Show mercy and gain intel - Future ally but justice denied
 2. Execute for crimes committed - Justice served but opportunity lost
-
-
 
 ## Rewards
 ### On Success

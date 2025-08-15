@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Ironwood the Strong", "xander ironwood the strong", "Xander Ironwood Strong", "Strong the Ironwood Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Ironwood the Strong
 
 *Half-Orc Assassin (Villains), Age 49, Male*
@@ -13,7 +19,6 @@
 Above average and stocky, with Partially shaved unusual color hair and Hazel eyes. Weathered skin. Burn scars on one side of face.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Always speaks in metaphors and riddles; Always tells the absolute truth
@@ -36,7 +41,6 @@ Born into evil but questioning their path They're being blackmailed by someone f
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Drusilla Hawthorne the Cunning (Family - Parent)
 - **Status**: Mutually beneficial
@@ -46,7 +50,6 @@ Born into evil but questioning their path They're being blackmailed by someone f
 ### Urien Proudmore the Seeker (Criminal - Fence)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
-
 
 ### Erasmus Darkwater the Lost (Political - Ally)
 - **Status**: Recently reconciled
@@ -61,7 +64,6 @@ Born into evil but questioning their path They're being blackmailed by someone f
 ### Delara Goldleaf the Wise (Personal - Nemesis)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
-
 
 ### Solas Youngblood the Bold (Professional - Mentor)
 - **Status**: Recently reconciled

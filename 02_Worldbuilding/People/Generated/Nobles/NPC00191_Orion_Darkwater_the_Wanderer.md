@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Darkwater the Wanderer", "orion darkwater the wanderer", "Orion Darkwater Wanderer", "Wanderer the Darkwater Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Darkwater the Wanderer
 
 *Halfling Aristocrat (Nobles), Age 45, Male*
@@ -36,22 +42,18 @@ Secretly adopted into nobility, living in fear of discovery They've been marked 
 - **Short Term**: Sabotage competition
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Brenna Thornweave (Criminal - Fence)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
 
-
 ### Branwen Zephyrblade (Political - Patron)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Rhiannon Stormwind (Personal - Love interest)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ### Ewan Zephyrblade (Personal - Best friend)
 - **Status**: One-sided affection

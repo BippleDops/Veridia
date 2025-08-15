@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Xendar the Redeemed", "dara xendar the redeemed", "Dara Xendar Redeemed", "Redeemed the Xendar Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Xendar the Redeemed
 
 *Dwarf Appraiser (Merchants), Age 57, Non-binary*
@@ -13,7 +19,6 @@
 Short and slender, with Tied back auburn hair and Heterochromic eyes. Dark skin. Birthmark shaped like a constellation.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Laughs at the most inappropriate times; Always speaks in metaphors and riddles
@@ -42,11 +47,9 @@ Part of a merchant family with connections everywhere They recently discovered a
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Jorah Ironwood the Lost (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
-
 
 ### Caelum Underhill the Swift (Criminal - Accomplice)
 - **Status**: Secretly hostile

@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Thornweave the Risen", "kaelen thornweave the risen", "Kaelen Thornweave Risen", "Risen the Thornweave Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Thornweave the Risen
 
 *Dwarf Bard (Adventurers), Age 23, Female*
@@ -13,7 +19,6 @@
 Short and lanky, with Wild and unkempt red hair and Green eyes. Unusual hue skin. Weather-beaten face showing hard life.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Speaks to inanimate objects; Incredibly optimistic despite evidence; Always speaks in metaphors and riddles
@@ -36,7 +41,6 @@ Chosen by fate to fulfill an ancient prophecy A family member's death has left t
 - **Short Term**: Complete current contract
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Nerys Keenblade the Fallen (Political - Patron)
 - **Status**: Recently reconciled
@@ -47,16 +51,13 @@ Chosen by fate to fulfill an ancient prophecy A family member's death has left t
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Corvus Darkwater the Bold (Personal - Love interest)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
 
-
 ### Pyria Frostwhisper the Seeker (Family - Sibling)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Secretly working for the villain

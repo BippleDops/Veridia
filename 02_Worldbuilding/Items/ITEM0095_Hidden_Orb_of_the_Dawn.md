@@ -1,4 +1,5 @@
 ---
+aliases: ["Hidden Orb of the Dawn", "hidden orb of the dawn", "Hidden Orb of Dawn", "Dawn the of Orb Hidden"]
 tags: [generated]
 id: ITEM0095
 created: 2025-08-15T04:09:51.108Z
@@ -19,8 +20,6 @@ Crafted from dragonscale with intricate runes, in ancient but unbreakable. It em
 
 ## Quirk
 *Changes color with user's mood*
-
-
 
 ## History
 This item was hidden away by its last owner centuries ago. It has passed through many hands, each leaving their mark upon its destiny.

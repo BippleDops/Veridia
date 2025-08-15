@@ -1,3 +1,9 @@
+---
+aliases: ["Blessed Bow of Speed", "blessed bow of speed", "Speed of Bow Blessed"]
+tags: [item, equipment]
+type: item
+---
+
 # Blessed Bow of Speed
 
 *Weapons, Rare (requires attunement)*

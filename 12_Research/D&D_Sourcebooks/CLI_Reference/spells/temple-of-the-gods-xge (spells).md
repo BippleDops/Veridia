@@ -46,7 +46,6 @@ This content can be adapted and expanded based on specific campaign needs.
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -65,4 +64,4 @@ This content can be adapted and expanded based on specific campaign needs.
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[temple-of-the-gods-xge (spells)-phb]]` in CLI_Reference/spells/
+See: `[[spells|temple-of-the-gods-xge (spells)-phb]]` in CLI_Reference/spells/

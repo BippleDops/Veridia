@@ -1,3 +1,9 @@
+---
+aliases: ["Personal Quest 82", "personal quest 82", "82 Quest Personal"]
+tags: [quest, adventure]
+type: quest
+---
+
 # Personal Quest 82
 
 *Personal Quest*

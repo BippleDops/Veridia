@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Ravenheart the Mystic", "xander ravenheart the mystic", "Xander Ravenheart Mystic", "Mystic the Ravenheart Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Ravenheart the Mystic
 
 *Elf Wizard (Adventurers), Age 21, Male*
@@ -42,21 +48,17 @@ Searching for a legendary treasure their parent died seeking Strange abilities h
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Thalia Jadeclaw the Guardian (Criminal - Accomplice)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ### Drusilla Crystalbrook the Mystic (Criminal - Fence)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Fiora Winterborn the Lost (Criminal - Accomplice)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Carries a world-ending artifact

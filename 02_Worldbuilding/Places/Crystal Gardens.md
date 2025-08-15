@@ -44,7 +44,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -97,7 +97,7 @@ improvements: 20
 
 ## Overview
 
-[[The Crystal Gardens]] sprawl across twelve acres in the heart of [[Aethermoor]]'s [[Capital District]], representing the pinnacle of crystalline cultivation and magical horticulture. Here, master gardeners known as [[Groups]] tend to living crystal formations that grow like plants, creating an ever-changing landscape of prismatic beauty and concentrated magic. The Gardens serve as both a place of wonder for citizens and a crucial source of refined [[[[Aether Crystal]]s]] for the realm's magical infrastructure.
+[[The Crystal Gardens]] sprawl across twelve acres in the heart of [[Aethermoor]]'s [[Capital District]], representing the pinnacle of crystalline cultivation and magical horticulture. Here, master gardeners known as [[Groups]] tend to living crystal formations that grow like plants, creating an ever-changing landscape of prismatic beauty and concentrated magic. The Gardens serve as both a place of wonder for citizens and a crucial source of refined [[Aether Crystal|[[Aether Crystal]]s]] for the realm's magical infrastructure.
 
 ### Entry Sensory Experience: The Gateway of Wonder
 
@@ -125,7 +125,7 @@ improvements: 20
 **Event**: 50 years ago, wild magic surge caused mass crystal growth  
 **Result**: Gardens tripled in size overnight  
 **Consequence**: Some gardeners became partially crystallized but gained plant-speech abilities  
-**Mystery**: The surge's origin remains unknown, but some suspect [[The [[Seven Shards]]]] involvement
+**Mystery**: The surge's origin remains unknown, but some suspect [[Seven Shards|The [[Seven Shards]]]] involvement
 
 ### Modern Era
 
@@ -168,7 +168,7 @@ improvements: 20
 **Description**: Living crystal hedges that grow and shift, creating an ever-changing labyrinth  
 **Challenge**: Navigate to center for rare crystal specimens  
 **Hazard**: Getting lost leads to [[Temporal Displacement]] (1d4 hours lost)  
-**Reward**: [[Maze [[[[Heart Crysta]]l]]]] - allows casting of *misty step* 3/day
+**Reward**: [[Heart Crysta|Maze [[[[Heart Crysta]]l]]]] - allows casting of *misty step* 3/day
 
 #### The Root Vault
 
@@ -191,7 +191,7 @@ improvements: 20
 **Guardians**: [[Crystal Sentinels]] programmed to prevent unauthorized access  
 **Products**: Components for spells that manipulate light/darkness boundaries
 
-#### [[Resoce Roses]]
+#### [[Resoce_Roses|Resoce Roses]]
 
 **Appearance**: Crystalline formations shaped like blooming roses, each petal a different faceted gem  
 **Colors**: Vary by magical school - red (evocation), blue (abjuration), green (transmutation), etc.  
@@ -263,7 +263,7 @@ improvements: 20
 **Goal**: Discover a new crystal species to earn her journeyman ranking  
 **Quirk**: Can "hear" crystal growth and often hums along with their frequencies
 
-#### Crystal Warden [[Captain Sterling Light[[Shield]]]]
+#### Crystal Warden [[Shield|Captain Sterling Light[[Shield]]]]
 
 **Role**: Head of Garden security  
 **Equipment**: Crystal plate armor, [[Prism Sword]] that channels multiple damage types  
@@ -310,7 +310,7 @@ improvements: 20
 **Educational Programs**: Classes on crystal botany for children and adults  
 **Research Access**: Scholars can apply for supervised study permissions  
 **Meditation Sessions**: Access to Singing Stone Circle for 1 gold per hour  
-**Special Events**: [[Crystal Bloom]]ing festivals, harvest celebrations, magical exhibitions
+**Special Events**: [[Crystal_Bloom|Crystal Bloom]]ing festivals, harvest celebrations, magical exhibitions
 
 ### Crystal Growth Surges
 
@@ -564,7 +564,7 @@ Legends speak of Crystal Gardens as a nexus where past and present converge. Loc
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -585,13 +585,11 @@ Crystal Gardens is a notable location characterized by its unique features and s
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -599,13 +597,11 @@ Crystal Gardens is a notable location characterized by its unique features and s
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -626,7 +622,6 @@ Ongoing situations affecting Crystal Gardens:
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -663,3 +658,16 @@ Ongoing situations affecting Crystal Gardens:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Quest - Crystal Innovation_1 (01_Adventures)]]
+- [[The Crystal Gardens]]
+- [[Depth Warden Patrol]]
+- [[Ancient Siege Tunnels (D&D_References)]]
+- [[Arcanum Heights (D&D_References)]]
+- [[Comprehensive-World-Connection-Guide (D&D_References)]]
+- [[Comprehensive-World-Connection-Guide 3 (D&D_References)]]
+- [[Depth Warden Patrol (D&D_Statblocks)]]
+- [[The Crystalline Foundry (D&D_Statblocks)]]

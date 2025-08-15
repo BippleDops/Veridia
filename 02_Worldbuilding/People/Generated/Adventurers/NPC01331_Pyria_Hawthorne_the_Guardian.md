@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Hawthorne the Guardian", "pyria hawthorne the guardian", "Pyria Hawthorne Guardian", "Guardian the Hawthorne Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Hawthorne the Guardian
 
 *Dwarf Rogue (Adventurers), Age 26, Male*
@@ -36,12 +42,10 @@ Accidentally gained powers and learning to control them They've fallen in love w
 - **Short Term**: Gather information
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Drusilla Dawnstrider the Strong (Political - Opposition)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ### Solas Darkwater the Wise (Personal - Love interest)
 - **Status**: Secretly hostile
@@ -52,16 +56,13 @@ Accidentally gained powers and learning to control them They've fallen in love w
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Cedric Hawthorne the Strong (Criminal - Informant)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Kaelen Silverleaf the Swift (Family - Child)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Secretly working for the villain

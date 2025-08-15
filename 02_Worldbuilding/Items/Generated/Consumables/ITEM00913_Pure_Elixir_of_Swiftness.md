@@ -1,3 +1,9 @@
+---
+aliases: ["Pure Elixir of Swiftness", "pure elixir of swiftness", "Swiftness of Elixir Pure"]
+tags: [item, equipment]
+type: item
+---
+
 # Pure Elixir of Swiftness
 
 *Consumables, Common*

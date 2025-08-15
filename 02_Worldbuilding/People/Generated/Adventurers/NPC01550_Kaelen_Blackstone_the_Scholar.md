@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Blackstone the Scholar", "kaelen blackstone the scholar", "Kaelen Blackstone Scholar", "Scholar the Blackstone Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Blackstone the Scholar
 
 *Dragonborn Ranger (Adventurers), Age 69, Female*
@@ -13,7 +19,6 @@
 Towering and lanky, with Partially shaved silver hair and Green eyes. Scarred skin. Missing finger on left hand.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Believes in every conspiracy theory
@@ -36,22 +41,18 @@ Accidentally gained powers and learning to control them A chance encounter last 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Jorah Silverleaf the Broken (Criminal - Target)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
 
-
 ### Branwen Moonshadow the Strong (Family - Child)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Caelum Grimholt the Broken (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ### Rhiannon Jadeclaw the Fallen (Criminal - Fence)
 - **Status**: One-sided affection

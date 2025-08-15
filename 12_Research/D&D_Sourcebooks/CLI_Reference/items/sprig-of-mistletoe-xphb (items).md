@@ -80,3 +80,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Druidic Focus Xphb]]
+- [[druidic-focus-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[Druidic Focus Varies Druidic Focuses Xphb]]
+- [[adventuring-gear-phb (tables)]]
+- [[druidic-focus-varies-druidic-focuses-xphb (tables)]]

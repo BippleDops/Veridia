@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Proudmore the Cunning", "delara proudmore the cunning", "Delara Proudmore Cunning", "Cunning the Proudmore Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Proudmore the Cunning
 
 *Dwarf Bard (Adventurers), Age 58, Male*
@@ -36,17 +42,14 @@ Searching for a legendary treasure their parent died seeking They've fallen in l
 - **Short Term**: Sabotage competition
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Rhiannon Dawnstrider the Strong (Political - Opposition)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
 
-
 ### Hestara Hawthorne the Cunning (Personal - Nemesis)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
-
 
 ### Faelyn Ironwood the Wanderer (Professional - Employer)
 - **Status**: Secretly hostile
@@ -61,7 +64,6 @@ Searching for a legendary treasure their parent died seeking They've fallen in l
 ### Kaelen Lightbringer the Scholar (Professional - Rival)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Possessed by ancient spirit

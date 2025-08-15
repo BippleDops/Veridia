@@ -162,3 +162,9 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Order of the Drowned Star (Orders)]]
+- [[Merchant Family Alliances]]
+- [[Order of the Drowned Star]]

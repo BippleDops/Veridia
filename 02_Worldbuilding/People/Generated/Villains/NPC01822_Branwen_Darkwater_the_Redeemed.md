@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Darkwater the Redeemed", "branwen darkwater the redeemed", "Branwen Darkwater Redeemed", "Redeemed the Darkwater Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Darkwater the Redeemed
 
 *Gnome Crime Boss (Villains), Age 72, Male*
@@ -13,7 +19,6 @@
 Very short and athletic, with Carefully styled black hair and Red eyes. Brown skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Never backs down from any challenge; Never uses people's real names
@@ -36,12 +41,10 @@ Believes their evil acts serve a greater good Strange abilities have begun manif
 - **Short Term**: Survive until next week
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Felicia Winterborn the Guardian (Political - Patron)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ### Hestara Nightfall the Bold (Political - Patron)
 - **Status**: Blood oath bound
@@ -51,7 +54,6 @@ Believes their evil acts serve a greater good Strange abilities have begun manif
 ### Erasmus Ironforge the Seeker (Personal - Ex-lover)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Has a child they're protecting

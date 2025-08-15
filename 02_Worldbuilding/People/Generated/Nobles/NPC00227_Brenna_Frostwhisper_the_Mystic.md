@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Frostwhisper the Mystic", "brenna frostwhisper the mystic", "Brenna Frostwhisper Mystic", "Mystic the Frostwhisper Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Frostwhisper the Mystic
 
 *Tiefling Ambassador (Nobles), Age 43, Female*
@@ -13,7 +19,6 @@
 Tall and lanky, with Mohawk red hair and Blue eyes. Tan skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Constantly quotes ancient texts
@@ -36,27 +41,22 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Ewan Grimholt the Bold (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Felicia Winterborn (Criminal - Handler)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ### Gareth Silverleaf the Wanderer (Professional - Rival)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Wynne Ironforge the Strong (Personal - Love interest)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Actually a bastard with no real claim

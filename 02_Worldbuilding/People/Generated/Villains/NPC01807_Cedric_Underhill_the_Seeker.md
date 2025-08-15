@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Underhill the Seeker", "cedric underhill the seeker", "Cedric Underhill Seeker", "Seeker the Underhill Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Underhill the Seeker
 
 *Tiefling Dark Wizard (Villains), Age 32, Non-binary*
@@ -13,7 +19,6 @@
 Tall and lanky, with Dreadlocks bald hair and Red eyes. Freckled skin. Prominent scar across the face.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Sees doom and gloom everywhere
@@ -36,7 +41,6 @@ Born into evil but questioning their path An old debt has come due at the worst 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Aeliana Blackstone the Fallen (Professional - Mentor)
 - **Status**: Secretly hostile
@@ -46,7 +50,6 @@ Born into evil but questioning their path An old debt has come due at the worst 
 ### Lyanna Ironwood the Broken (Family - Spouse)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ### Delara Ravenheart the Cunning (Professional - Mentor)
 - **Status**: Recently reconciled
@@ -61,7 +64,6 @@ Born into evil but questioning their path An old debt has come due at the worst 
 ### Qadim Lightbringer the Lost (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ### Thalia Lightbringer the Redeemed (Criminal - Accomplice)
 - **Status**: On the verge of collapse

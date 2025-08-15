@@ -1,4 +1,5 @@
 ---
+aliases: ["Frost Howler", "frost howler", "Howler Frost"]
 tags: [generated]
 id: MON0017_Frost_Howler
 created: 2025-08-15T04:09:51.425Z
@@ -25,7 +26,6 @@ A twisted abomination created by dark magic
 
 ---
 *Generated: 2025-08-15T03:21:47.463Z*
-
 
 ## Habitat
 - Natural environment and territories

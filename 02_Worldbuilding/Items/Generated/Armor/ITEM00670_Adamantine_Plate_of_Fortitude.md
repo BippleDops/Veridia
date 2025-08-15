@@ -1,3 +1,9 @@
+---
+aliases: ["Adamantine Plate of Fortitude", "adamantine plate of fortitude", "Fortitude of Plate Adamantine"]
+tags: [item, equipment]
+type: item
+---
+
 # Adamantine Plate of Fortitude
 
 *Armor, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A adamantine plate crafted from exotic materials
 - Grants swimming speed
 - Resistance to one damage type
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -31,7 +35,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.404Z*

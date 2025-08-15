@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Ironwood the Fallen", "nerys ironwood the fallen", "Nerys Ironwood Fallen", "Fallen the Ironwood Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Ironwood the Fallen
 
 *Genasi Baker (Commoners), Age 38, Male*
@@ -13,7 +19,6 @@
 Very short and compact, with Partially shaved red hair and Black eyes. Scarred skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Never backs down from any challenge; Flirts with everyone regardless of interest
@@ -36,12 +41,10 @@ Survivor of a disaster that destroyed their village A chance encounter last wint
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Dara Jadeclaw the Wanderer (Family - Cousin)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ### Aldric Oakenshield the Cunning (Personal - Ex-lover)
 - **Status**: Strained but maintaining
@@ -52,11 +55,9 @@ Survivor of a disaster that destroyed their village A chance encounter last wint
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Idris Quicksilver the Lost (Criminal - Accomplice)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Is the lost heir to the throne

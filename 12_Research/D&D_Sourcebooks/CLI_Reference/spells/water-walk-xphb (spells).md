@@ -102,7 +102,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -121,4 +120,17 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[water-walk-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[spells|water-walk-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Prismari Student Scc]]
+- [[prismari-student-scc (backgrounds)]]
+- [[Kraken Priest Mpmm]]
+- [[kraken-priest-mpmm (monstrosity)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Ring of Elemental Command Water Xdmg]]
+- [[Ring of Water Walking Xdmg]]
+- [[ring-of-elemental-command-water-xdmg (items)]]
+- [[ring-of-water-walking-xdmg (items)]]

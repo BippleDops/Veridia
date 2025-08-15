@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Quicksilver the Redeemed", "orion quicksilver the redeemed", "Orion Quicksilver Redeemed", "Redeemed the Quicksilver Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Quicksilver the Redeemed
 
 *Half-Elf Crime Boss (Villains), Age 38, Male*
@@ -13,7 +19,6 @@
 Average height and lanky, with Braided elaborately blonde hair and Heterochromic eyes. Tan skin. Gold tooth that glints when smiling.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Laughs at the most inappropriate times
@@ -42,11 +47,9 @@ Corrupted by an artifact or dark magic Strange abilities have begun manifesting 
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Fiora Xendar the Risen (Professional - Mentor)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
-
 
 ### Kaelen Underhill the Redeemed (Personal - Nemesis)
 - **Status**: Blood oath bound
@@ -62,11 +65,9 @@ Corrupted by an artifact or dark magic Strange abilities have begun manifesting 
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
 
-
 ### Orion Moonshadow the Bold (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Was once a renowned hero

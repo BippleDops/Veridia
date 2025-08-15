@@ -1,4 +1,5 @@
 ---
+aliases: ["Bone Guardian", "bone guardian", "Guardian Bone"]
 tags: [generated]
 id: MON0038_Bone_Guardian
 created: 2025-08-15T04:09:51.431Z
@@ -28,7 +29,6 @@ A guardian entity bound to protect sacred sites
 
 ---
 *Generated: 2025-08-15T03:21:47.465Z*
-
 
 ## Habitat
 - Natural environment and territories

@@ -1,3 +1,9 @@
+---
+aliases: ["Mithril Cloak of Fortitude", "mithril cloak of fortitude", "Fortitude of Cloak Mithril"]
+tags: [item, equipment]
+type: item
+---
+
 # Mithril Cloak of Fortitude
 
 *Armor, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A mithril cloak shimmering with energy
 - Grants swimming speed
 - Grants swimming speed
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -31,7 +35,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.380Z*

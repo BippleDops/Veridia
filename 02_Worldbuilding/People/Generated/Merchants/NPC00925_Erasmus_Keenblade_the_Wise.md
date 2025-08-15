@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Keenblade the Wise", "erasmus keenblade the wise", "Erasmus Keenblade Wise", "Wise the Keenblade Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Keenblade the Wise
 
 *Elf Trader (Merchants), Age 74, Female*
@@ -13,7 +19,6 @@
 Average height and athletic, with Tied back blonde hair and Red eyes. Fair skin. Prominent scar across the face.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Compulsive liar about minor things
@@ -36,7 +41,6 @@ Uses their business as cover for other activities Strange abilities have begun m
 - **Short Term**: Recruit new members
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Aldric Zephyrblade the Redeemed (Professional - Employer)
 - **Status**: Complicated history
@@ -47,16 +51,13 @@ Uses their business as cover for other activities Strange abilities have begun m
 - **Status**: Professional only
 - **History**: United by common enemy
 
-
 ### Gavril Xendar the Strong (Criminal - Fence)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Rhiannon Grimholt the Wise (Political - Spy)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Sells information to all sides

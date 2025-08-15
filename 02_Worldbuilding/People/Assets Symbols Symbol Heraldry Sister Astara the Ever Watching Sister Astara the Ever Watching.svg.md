@@ -183,7 +183,7 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[npc directory.base]] (rival)
+- [[Npc Directory.base|npc directory.base]] (rival)
 - [[04_Resources_Assets_Symbols_symbol-heraldry-silverscale-consortium-silverscale-consortium.svg]] (enemy)
 - [[Captain Navigator]] (enemy)
 ---
@@ -210,3 +210,7 @@ Member of House Eagleblood - Trait: curse
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-silverscale-consortium-silverscale-consortium.svg]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Ethereal Gauntlets of Grace", "ethereal gauntlets of grace", "Grace of Gauntlets Ethereal"]
+tags: [item, equipment]
+type: item
+---
+
 # Ethereal Gauntlets of Grace
 
 *Armor, Uncommon*
@@ -14,8 +20,6 @@ A ethereal gauntlets bearing ancient runes
 - Grants swimming speed
 - Resistance to one damage type
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -30,7 +34,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.390Z*

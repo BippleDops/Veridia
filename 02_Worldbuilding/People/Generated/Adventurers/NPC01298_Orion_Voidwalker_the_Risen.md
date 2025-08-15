@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Voidwalker the Risen", "orion voidwalker the risen", "Orion Voidwalker Risen", "Risen the Voidwalker Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Voidwalker the Risen
 
 *Tabaxi Bard (Adventurers), Age 69, Non-binary*
@@ -13,7 +19,6 @@
 Towering and imposing, with Carefully styled silver hair and Blue eyes. Brown skin. Intricate tattoos covering arms.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Collects unusual and worthless objects; Never uses people's real names
@@ -36,7 +41,6 @@ Running from a dark past that won't stay buried A family member's death has left
 - **Short Term**: Find missing person
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Elric Zephyrblade the Risen (Professional - Employer)
 - **Status**: Recently reconciled
@@ -47,16 +51,13 @@ Running from a dark past that won't stay buried A family member's death has left
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Gavril Blackstone the Broken (Criminal - Handler)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
 
-
 ### Xander Voidwalker the Wanderer (Personal - Best friend)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ### Hilda Youngblood the Lost (Criminal - Handler)
 - **Status**: On the verge of collapse

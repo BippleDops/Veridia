@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Youngblood the Scholar", "erasmus youngblood the scholar", "Erasmus Youngblood Scholar", "Scholar the Youngblood Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Youngblood the Scholar
 
 *Half-Orc Wizard (Adventurers), Age 21, Female*
@@ -42,16 +48,13 @@ Searching for a legendary treasure their parent died seeking A family member's d
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Urien Crystalbrook the Strong (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Baelor Ashford the Lost (Criminal - Fence)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Is from the future

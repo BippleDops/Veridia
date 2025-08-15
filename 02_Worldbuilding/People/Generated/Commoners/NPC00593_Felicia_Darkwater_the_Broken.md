@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Darkwater the Broken", "felicia darkwater the broken", "Felicia Darkwater Broken", "Broken the Darkwater Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Darkwater the Broken
 
 *Human Carpenter (Commoners), Age 65, Male*
@@ -36,32 +42,26 @@ Family has worked the same trade for generations, but times are changing They re
 - **Short Term**: Gather information
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Jorah Xendar the Bold (Criminal - Fence)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Felicia Proudmore the Mystic (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ### Vesper Blackstone the Seeker (Family - Spouse)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Hilda Frostwhisper the Fallen (Criminal - Target)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Lyanna Blackstone the Bold (Political - Ally)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
-
 
 ### Corvus Xendar the Seeker (Family - Parent)
 - **Status**: One-sided affection

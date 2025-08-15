@@ -1,4 +1,5 @@
 ---
+aliases: ["Myth of the Ancient Pact", "myth of the ancient pact", "Myth of Ancient Pact", "Pact Ancient the of Myth"]
 tags: [generated]
 id: LORE0063_Myth_of_the_Ancient_Pact
 created: 2025-08-15T04:09:51.146Z

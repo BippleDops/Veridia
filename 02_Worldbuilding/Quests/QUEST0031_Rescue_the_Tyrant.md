@@ -1,4 +1,5 @@
 ---
+aliases: ["Rescue the Tyrant", "rescue the tyrant", "Rescue Tyrant", "Tyrant the Rescue"]
 tags: [quest, adventure, generated]
 type: quest
 ---
@@ -20,8 +21,6 @@ Gain access to the sunken temple and complete the ritual
 
 ### Secondary
 - Minimize civilian casualties
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they survived a plague that killed their family, which changed their life forever. Now, circumstances demand immediate action.
@@ -53,8 +52,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Show mercy and gain intel - Future ally but justice denied
 2. Execute for crimes committed - Justice served but opportunity lost
-
-
 
 ## Rewards
 ### On Success

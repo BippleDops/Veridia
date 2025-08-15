@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Darkwater the Lost", "jorah darkwater the lost", "Jorah Darkwater Lost", "Lost the Darkwater Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Darkwater the Lost
 
 *Tiefling Ambassador (Nobles), Age 54, Non-binary*
@@ -36,22 +42,18 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Find missing person
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Kaelen Frostwhisper (Personal - Love interest)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
 
-
 ### Rhiannon Darkwater (Professional - Mentor)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Hilda Oakenshield (Political - Patron)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Actually a bastard with no real claim

@@ -1,3 +1,9 @@
+---
+aliases: ["Warded Plate of Fortitude", "warded plate of fortitude", "Fortitude of Plate Warded"]
+tags: [item, equipment]
+type: item
+---
+
 # Warded Plate of Fortitude
 
 *Armor, Common*

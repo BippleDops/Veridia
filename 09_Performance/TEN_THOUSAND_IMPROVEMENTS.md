@@ -15,16 +15,16 @@ Targeted **30,056** improvements across **2839** files.
 |----------|-------|
 | NPCs Enhanced | 807 |
 | Locations Enhanced | 1562 |
-| Quests Enhanced | 419 |
-| Items Enhanced | 1 |
+| [[Quests|Quests]] Enhanced | 419 |
+| [[Items|Items]] Enhanced | 1 |
 | Creatures Enhanced | 50 |
 | Sessions Enhanced | 35 |
 | Rules Enhanced | 49 |
-| Spells Enhanced | 755 |
+| [[spells|spells]] Enhanced | 755 |
 | Cross References | 500 |
 | Variants Added | 300 |
 | Scaling Added | 351 |
-| Random Tables | 200 |
+| [[Random_Tables|Random Tables]] | 200 |
 | DM Tips | 400 |
 | Player Tips | 300 |
 | Metadata Enhanced | 500 |
@@ -32,7 +32,7 @@ Targeted **30,056** improvements across **2839** files.
 ## Total Improvements: **30,056**
 
 ## Sample Improvements (First 100)
-Lord Marcus Shadowbane: added daily routine
+[[Lord Marcus Shadowbane|Lord Marcus Shadowbane]]: added daily routine
 Lord Marcus Shadowbane: added combat tactics
 Lord Marcus Shadowbane: added possessions
 Lord Marcus Shadowbane: added knowledge
@@ -40,7 +40,7 @@ Lord Marcus Shadowbane: added personality traits
 Lord Marcus Shadowbane: added character arc
 Lord Marcus Shadowbane: added dialogue examples
 Lord Marcus Shadowbane: added reputation
-Queen Lyralei Stormheart: added daily routine
+[[Queen Lyralei Stormheart|Queen Lyralei Stormheart]]: added daily routine
 Queen Lyralei Stormheart: added combat tactics
 Queen Lyralei Stormheart: added possessions
 Queen Lyralei Stormheart: added knowledge
@@ -48,7 +48,7 @@ Queen Lyralei Stormheart: added personality traits
 Queen Lyralei Stormheart: added character arc
 Queen Lyralei Stormheart: added dialogue examples
 Queen Lyralei Stormheart: added reputation
-The Heart of Oceanus: added daily routine
+[[The Heart of Oceanus|The Heart of Oceanus]]: added daily routine
 The Heart of Oceanus: added combat tactics
 The Heart of Oceanus: added possessions
 The Heart of Oceanus: added knowledge
@@ -64,7 +64,7 @@ Corrupted Clients: added personality traits
 Corrupted Clients: added character arc
 Corrupted Clients: added dialogue examples
 Corrupted Clients: added reputation
-young-silver-dragon-xmm: added voice & mannerisms
+young-silver-[[dragon|dragon]]-xmm: added voice & mannerisms
 young-silver-dragon-xmm: added daily routine
 young-silver-dragon-xmm: added combat tactics
 young-silver-dragon-xmm: added possessions
@@ -97,7 +97,7 @@ Captain Blackwater: added personality traits
 Captain Blackwater: added character arc
 Captain Blackwater: added dialogue examples
 Captain Blackwater: added reputation
-Elder Whisper-In-The-Dark: added daily routine
+Elder [[Whisper|Whisper]]-In-The-Dark: added daily routine
 Elder Whisper-In-The-Dark: added combat tactics
 Elder Whisper-In-The-Dark: added possessions
 Elder Whisper-In-The-Dark: added knowledge
@@ -122,7 +122,7 @@ Militant-Priest Abyssal: added personality traits
 Militant-Priest Abyssal: added character arc
 Militant-Priest Abyssal: added dialogue examples
 Militant-Priest Abyssal: added reputation
-Random NPC Generator: added voice & mannerisms
+Random [[NPC_Generator|NPC Generator]]: added voice & mannerisms
 Random NPC Generator: added daily routine
 Random NPC Generator: added combat tactics
 Random NPC Generator: added possessions

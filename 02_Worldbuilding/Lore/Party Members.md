@@ -87,3 +87,18 @@ Party Members represents a crucial aspect of the world's history, cosmology, or 
 
 - A [[map]] reveals ancient history about the cult
 - The authorities needs help stealing before dawn
+
+## References
+
+- [[Consequence Chain 4 - Deep Mother Awakening]]
+- [[Consequence Chain 5 - Marina Identity Revelation]]
+- [[Multi-Phase Boss Fights]]
+- [[Party_Members (02_Worldbuilding)]]
+- [[Reputation System]]
+- [[Silver Mask]]
+- [[Madame Rosalind Goldleaf]]
+- [[Pip Goldleaf]]
+- [[The Memory Thief]]
+- [[The Void Tears]]
+- [[Whisper-Touched William]]
+- [[The Crown's Burden]]

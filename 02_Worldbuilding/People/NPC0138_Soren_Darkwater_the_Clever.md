@@ -1,11 +1,11 @@
 ---
+aliases: ["Soren Darkwater the Clever", "soren darkwater the clever", "Soren Darkwater Clever", "Clever the Darkwater Soren"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -77,7 +77,6 @@ Insight, Stealth, Athletics, Deception
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 43 gold pieces
 - Lucky dice
@@ -89,7 +88,6 @@ Insight, Stealth, Athletics, Deception
 
 ---
 *Generated: 2025-08-15T03:20:13.087Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

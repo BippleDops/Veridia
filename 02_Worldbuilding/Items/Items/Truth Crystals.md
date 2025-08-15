@@ -108,3 +108,8 @@ Last known to be in [[Region Name]] or surrounding areas.
 
 ### Curse (if applicable)
 - *[Negative effects]*
+
+## References
+
+- [[02_Worldbuilding_Items_Truth_Crystals]]
+- [[The Drowning Truth]]

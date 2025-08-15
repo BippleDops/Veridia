@@ -46,7 +46,6 @@ improvements: 20
 - Time pressure
 - Moral dilemmas
 
-
 ## Objectives
 ### Primary
 - Main quest goal
@@ -54,7 +53,6 @@ improvements: 20
 ### Optional
 - Secondary objectives
 - Hidden goals
-
 
 > [!figure] View
 
@@ -550,7 +548,6 @@ Ongoing situations affecting Quest - The Blackmail Papers:
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Hooks
 - **Personal**: Character connection

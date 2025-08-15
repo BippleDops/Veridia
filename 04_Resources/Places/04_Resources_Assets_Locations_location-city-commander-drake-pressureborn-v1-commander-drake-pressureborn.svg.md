@@ -102,3 +102,8 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Locations Location City Cathedral of Light Cathedral of Light.png]]
+- [[Assets Symbols Symbol Heraldry Doctor Harmony Whisperfall Doctor Harmony Whisperfall.svg]]

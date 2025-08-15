@@ -1,3 +1,9 @@
+---
+aliases: ["Enchanted Leather of Resistance", "enchanted leather of resistance", "Resistance of Leather Enchanted"]
+tags: [item, equipment]
+type: item
+---
+
 # Enchanted Leather of Resistance
 
 *Armor, Uncommon*
@@ -14,8 +20,6 @@ A enchanted leather bearing ancient runes
 - No stealth disadvantage
 - Immunity to critical hits
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -30,7 +34,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.397Z*

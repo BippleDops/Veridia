@@ -1,3 +1,9 @@
+---
+aliases: ["Time-worn Ring of Destiny", "time-worn ring of destiny", "Destiny of Ring Time-worn"]
+tags: [item, equipment]
+type: item
+---
+
 # Time-worn Ring of Destiny
 
 *Artifacts, Very Rare*

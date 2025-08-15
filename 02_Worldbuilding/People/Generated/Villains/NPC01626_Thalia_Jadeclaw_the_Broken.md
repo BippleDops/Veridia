@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Jadeclaw the Broken", "thalia jadeclaw the broken", "Thalia Jadeclaw Broken", "Broken the Jadeclaw Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Jadeclaw the Broken
 
 *Gnome Crime Boss (Villains), Age 71, Non-binary*
@@ -36,7 +42,6 @@ Born into evil but questioning their path They've been marked by a secret societ
 - **Short Term**: Survive until next week
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Alaric Voidwalker the Seeker (Professional - Rival)
 - **Status**: Strong and trusting
@@ -47,7 +52,6 @@ Born into evil but questioning their path They've been marked by a secret societ
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Lyanna Emberfall the Broken (Political - Ally)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
@@ -56,7 +60,6 @@ Born into evil but questioning their path They've been marked by a secret societ
 ### Aldric Proudmore the Guardian (Criminal - Handler)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Knows how the world will end

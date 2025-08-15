@@ -96,3 +96,8 @@ improvements: 20
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[02_Worldbuilding_Military_Corruption_Hunters]]
+- [[Purist Coalition (D&D_References)]]

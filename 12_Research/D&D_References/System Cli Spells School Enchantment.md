@@ -45,7 +45,7 @@ In the crushing depths of Aquabyssos, enchantment magic takes a more visceral fo
 The [[Abyssal Spires]] contain ancient enchantment laboratories where the boundaries between mind control and madness blur. Here, the distinction between willing compliance and complete mental domination becomes as murky as the deep waters themselves.
 
 ### The Memory Weavers
-Among the most respected enchantment practitioners are the **Memory Weavers**, a cross-realm organization that specializes in preserving and sharing memories through magical means. They maintain the [[Archive of Echoes]], where important historical moments are stored as living enchantments that can be experienced rather than simply read.
+Among the most respected enchantment practitioners are the **Memory Weavers**, a cross-realm organization that specializes in preserving and sharing memories through magical means. They maintain the , where important historical moments are stored as living enchantments that can be experienced rather than simply read.
 
 Notable Memory Weavers include:
 - **Lyralei Moonwhisper** of Aethermoor, who can weave memories into crystalline matrices
@@ -126,3 +126,7 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]

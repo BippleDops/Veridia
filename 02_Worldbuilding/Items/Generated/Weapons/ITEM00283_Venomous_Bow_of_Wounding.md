@@ -1,3 +1,9 @@
+---
+aliases: ["Venomous Bow of Wounding", "venomous bow of wounding", "Wounding of Bow Venomous"]
+tags: [item, equipment]
+type: item
+---
+
 # Venomous Bow of Wounding
 
 *Weapons, Very Rare*
@@ -16,8 +22,6 @@ A venomous bow carved from dragon bone
 - Ignores resistance to damage type
 - Returns when thrown
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -32,7 +36,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.367Z*

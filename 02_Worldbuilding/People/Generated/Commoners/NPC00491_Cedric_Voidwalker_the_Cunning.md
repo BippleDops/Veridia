@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Voidwalker the Cunning", "cedric voidwalker the cunning", "Cedric Voidwalker Cunning", "Cunning the Voidwalker Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Voidwalker the Cunning
 
 *Gnome Blacksmith (Commoners), Age 77, Non-binary*
@@ -36,27 +42,22 @@ Grew up in poverty but discovered a talent that might change everything An old d
 - **Short Term**: Make this month's payment
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Fiora Voidwalker the Fallen (Political - Opposition)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Alaric Thornweave the Redeemed (Political - Spy)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
-
 
 ### Qadim Keenblade the Mystic (Criminal - Target)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
 
-
 ### Erasmus Ironwood (Political - Opposition)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Knows location of ancient treasure

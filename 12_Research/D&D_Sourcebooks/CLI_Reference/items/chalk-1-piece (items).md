@@ -76,3 +76,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Strange dreams suggest a conspiracy
 - A merchant needs help stealing before the festival
 - A stranger needs help stealing before winter
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

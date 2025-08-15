@@ -27,6 +27,9 @@ Further information about this topic will be developed as the campaign progresse
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*
+
+## References
+
+- [[Assets Portraits Portrait NPC Lord Aldric Blackwater Lord Aldric Blackwater.svg]]

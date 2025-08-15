@@ -1,3 +1,9 @@
+---
+aliases: ["Time-worn Amulet of the Gods", "time-worn amulet of the gods", "Time-worn Amulet of Gods", "Gods the of Amulet Time-worn"]
+tags: [item, equipment]
+type: item
+---
+
 # Time-worn Amulet of the Gods
 
 *Artifacts, Legendary*
@@ -16,8 +22,6 @@ A time-worn amulet covered in mysterious symbols
 - Time stop 1/week
 - Time stop 1/week
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -32,7 +36,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.430Z*

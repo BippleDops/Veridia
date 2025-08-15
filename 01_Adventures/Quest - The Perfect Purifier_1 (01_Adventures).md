@@ -37,7 +37,6 @@ improvements: 20
 - Time pressure
 - Moral dilemmas
 
-
 > [!figure] Portrait
 
 # Quest - The Perfect Purifier
@@ -109,7 +108,6 @@ Alchemist Master Theron Crystalline claims to have developed the Perfect Purifie
 
 ## Quest Giver
 **Master Theron Crystalline** - Brilliant but paranoid alchemist who dedicated his life to fighting corruption. Offers his entire fortune (15,000 gp) and rare alchemical formulas as reward for the device's safe return.
-
 
 ## Objectives
 ### Primary
@@ -341,7 +339,6 @@ Member of House Lionblood - Trait: prophecy
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Time Limit
 - **Deadline**: When it must be completed

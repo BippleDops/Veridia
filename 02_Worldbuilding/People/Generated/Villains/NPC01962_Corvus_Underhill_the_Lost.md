@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Underhill the Lost", "corvus underhill the lost", "Corvus Underhill Lost", "Lost the Underhill Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Underhill the Lost
 
 *Halfling Crime Boss (Villains), Age 30, Male*
@@ -36,17 +42,14 @@ Believes their evil acts serve a greater good They've made a deal they're beginn
 - **Short Term**: Make this month's payment
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Brenna Oakenshield the Scholar (Political - Ally)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Xander Grimholt the Strong (Professional - Mentor)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
-
 
 ### Ysara Oakenshield the Seeker (Professional - Mentor)
 - **Status**: Professional only
@@ -61,7 +64,6 @@ Believes their evil acts serve a greater good They've made a deal they're beginn
 ### Orion Keenblade the Scholar (Family - Spouse)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Was once a renowned hero

@@ -186,7 +186,7 @@ This NPC can serve multiple roles:
 
 ### Known Associates
 - [[04_Resources_Assets_Locations_location-city-forge-master-korax-hammerdeep-v1-forge-master-korax-hammerdeep.svg]] (ally)
-- [[npc directory.base]] (rival)
+- [[Npc Directory.base|npc directory.base]] (rival)
 - [[Vex Shadowthorn]] (ally)
 ---
 *Tags*: #npc #contact #worldbuilding

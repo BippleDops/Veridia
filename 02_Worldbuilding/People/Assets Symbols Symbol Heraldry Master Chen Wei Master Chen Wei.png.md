@@ -219,3 +219,8 @@ Member of House Lionblood - Trait: divine blood
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-lord-marcus-goldweaver-lord-marcus-goldweaver.svg]]
+- [[04_Resources_Assets_Locations_location-city-master-jeweler-sapphire-delicatehand-v1-master-jeweler-sapphire-delicatehand.svg]]

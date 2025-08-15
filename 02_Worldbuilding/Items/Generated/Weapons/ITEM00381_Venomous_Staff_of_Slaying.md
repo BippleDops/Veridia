@@ -1,3 +1,9 @@
+---
+aliases: ["Venomous Staff of Slaying", "venomous staff of slaying", "Slaying of Staff Venomous"]
+tags: [item, equipment]
+type: item
+---
+
 # Venomous Staff of Slaying
 
 *Weapons, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A venomous staff made of crystallized magic
 - Deals extra 1d6 elemental damage
 - Grants advantage on initiative
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -30,7 +34,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.377Z*

@@ -73,3 +73,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[List Optfeaturetype As]]
+- [[list-optfeaturetype-as (lists)]]

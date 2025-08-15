@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Moonshadow the Seeker", "erasmus moonshadow the seeker", "Erasmus Moonshadow Seeker", "Seeker the Moonshadow Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Moonshadow the Seeker
 
 *Goliath Bard (Adventurers), Age 39, Female*
@@ -13,7 +19,6 @@
 Short and heavyset, with Partially shaved gray hair and Black eyes. Scarred skin. Burn scars on one side of face.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Always speaks in metaphors and riddles; Flirts with everyone regardless of interest; Constantly quotes ancient texts
@@ -36,32 +41,26 @@ Chosen by fate to fulfill an ancient prophecy Strange abilities have begun manif
 - **Short Term**: Complete current contract
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Jorah Emberfall the Cunning (Family - Parent)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Dara Nightfall the Redeemed (Family - Child)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ### Erasmus Silverleaf the Redeemed (Criminal - Accomplice)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Lyanna Xendar the Scholar (Personal - Ex-lover)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Orion Nightfall the Seeker (Family - Cousin)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Is from the future

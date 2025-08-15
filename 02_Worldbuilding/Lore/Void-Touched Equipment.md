@@ -1,6 +1,6 @@
 ---
 
-title: [[Void Touched]] Equipment
+title: [[Void Touched Cult|Void Touched]] Equipment
 type: [[Lore]]
 tags:
 - lore
@@ -37,7 +37,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -79,7 +79,7 @@ Void Touched Equipment is a void-touched element of the setting, known for impos
 
 Legends speak of Void Touched Equipment as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Void Touched Equipment.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 

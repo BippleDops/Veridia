@@ -1,11 +1,11 @@
 ---
+aliases: ["Kael Ironforge", "kael ironforge", "Ironforge Kael"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -80,7 +80,6 @@ Investigation, Insight, Deception
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 57 gold pieces
 - Small gemstone
@@ -92,7 +91,6 @@ Investigation, Insight, Deception
 
 ---
 *Generated: 2025-08-15T03:20:13.077Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

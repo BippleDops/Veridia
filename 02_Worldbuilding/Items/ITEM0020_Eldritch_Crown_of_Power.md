@@ -1,4 +1,5 @@
 ---
+aliases: ["Eldritch Crown of Power", "eldritch crown of power", "Power of Crown Eldritch"]
 tags: [generated]
 id: ITEM0020
 created: 2025-08-15T04:09:51.083Z
@@ -18,8 +19,6 @@ Crafted from blessed silver with ancient symbols, in pristine condition. It eman
 
 ## Quirk
 *Attracts small animals*
-
-
 
 ## History
 This item was stolen from a dragon's hoard centuries ago. It has passed through many hands, each leaving their mark upon its destiny.

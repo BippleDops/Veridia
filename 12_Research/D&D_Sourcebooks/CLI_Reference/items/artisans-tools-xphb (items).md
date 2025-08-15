@@ -92,3 +92,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A merchant needs help finding before the festival
 - A stranger needs help investigating before dawn
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Artisan Xphb]]
+- [[artisan-xphb (backgrounds)]]
+- [[Fighter Xphb Battle Master Xphb]]
+- [[fighter-xphb-battle-master-xphb (classes)]]
+- [[Fabricate Xphb]]
+- [[fabricate-xphb (spells)]]

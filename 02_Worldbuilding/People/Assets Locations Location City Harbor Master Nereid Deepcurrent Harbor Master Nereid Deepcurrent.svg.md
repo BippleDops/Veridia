@@ -185,3 +185,7 @@ This NPC can serve multiple roles:
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-merchant-lord-silas-copperfield-merchant-lord-silas-copperfield.svg]]

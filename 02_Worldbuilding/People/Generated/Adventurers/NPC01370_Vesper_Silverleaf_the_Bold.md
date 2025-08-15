@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Silverleaf the Bold", "vesper silverleaf the bold", "Vesper Silverleaf Bold", "Bold the Silverleaf Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Silverleaf the Bold
 
 *Goliath Fighter (Adventurers), Age 61, Non-binary*
@@ -36,12 +42,10 @@ Chosen by fate to fulfill an ancient prophecy They recently discovered a secret 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Orion Jadeclaw the Redeemed (Criminal - Fence)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
-
 
 ### Felicia Silverleaf the Redeemed (Personal - Ex-lover)
 - **Status**: One-sided affection
@@ -52,11 +56,9 @@ Chosen by fate to fulfill an ancient prophecy They recently discovered a secret 
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
 
-
 ### Ewan Zephyrblade the Redeemed (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ### Orion Voidwalker the Cunning (Professional - Mentor)
 - **Status**: Mutually beneficial

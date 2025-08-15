@@ -75,3 +75,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Strange dreams suggest ancient magic
 - A letter reveals ancient history about the government
 - Someone is blackmailing an heir for love
+
+## References
+
+- [[Cleric Xphb Knowledge Domain]]
+- [[cleric-xphb-knowledge-domain (classes)]]
+- [[cleric-xphb-knowledge-domain 2 (classes)]]
+- [[Deities of Eberron]]
+- [[deities-of-eberron (tables)]]

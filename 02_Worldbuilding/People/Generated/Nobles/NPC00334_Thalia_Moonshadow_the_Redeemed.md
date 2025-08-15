@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Moonshadow the Redeemed", "thalia moonshadow the redeemed", "Thalia Moonshadow Redeemed", "Redeemed the Moonshadow Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Moonshadow the Redeemed
 
 *Genasi Noble (Nobles), Age 22, Non-binary*
@@ -36,27 +42,22 @@ Last survivor of a fallen house, seeking to restore family honor A family member
 - **Short Term**: Gather information
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Urien Goldleaf the Cunning (Professional - Employer)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Drusilla Ironwood the Wanderer (Family - Cousin)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
-
 
 ### Ewan Darkwater the Bold (Criminal - Fence)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Elric Ravenheart (Political - Puppet)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ### Fiora Ravenheart (Personal - Childhood friend)
 - **Status**: Mutually beneficial

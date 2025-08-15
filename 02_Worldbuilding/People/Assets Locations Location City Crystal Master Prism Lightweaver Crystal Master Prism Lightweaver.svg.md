@@ -237,3 +237,9 @@ Member of House Lionblood - Trait: divine blood
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-duke-aldric-blackwater-duke-aldric-blackwater.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-the-reality-sick-mayor-lord-quantum-aldrich-the-reality-sick-mayor-lord-quantum-aldrich.svg]]
+- [[04_Resources_Assets_Locations_location-city-archdruid-marina-kelpweaver-v1-archdruid-marina-kelpweaver.svg]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Radiant Spear of Power", "radiant spear of power", "Power of Spear Radiant"]
+tags: [item, equipment]
+type: item
+---
+
 # Radiant Spear of Power
 
 *Weapons, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A radiant spear made of crystallized magic
 - +1 to attack and damage rolls
 - Ignores resistance to damage type
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -31,7 +35,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.359Z*

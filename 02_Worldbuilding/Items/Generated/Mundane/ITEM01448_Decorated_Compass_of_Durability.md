@@ -1,3 +1,9 @@
+---
+aliases: ["Decorated Compass of Durability", "decorated compass of durability", "Durability of Compass Decorated"]
+tags: [item, equipment]
+type: item
+---
+
 # Decorated Compass of Durability
 
 *Mundane, Common*
@@ -13,8 +19,6 @@ A decorated compass bearing maker's mark
 ## Properties
 - Grants minor benefit
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -29,7 +33,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.488Z*

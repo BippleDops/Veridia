@@ -197,3 +197,7 @@ This NPC can serve multiple roles:
 - [[04_Resources_Assets_Locations_location-city-harbor-pilot-captain-storm-skyreacher-v1-harbor-pilot-captain-storm-skyreacher.svg]] (enemy)
 ---
 *Tags*: #npc #contact #worldbuilding
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-lord-reginald-seaworthy-lord-reginald-seaworthy.svg]]

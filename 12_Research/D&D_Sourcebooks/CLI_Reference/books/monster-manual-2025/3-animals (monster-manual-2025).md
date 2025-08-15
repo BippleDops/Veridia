@@ -414,3 +414,7 @@ Mentioned in The Hidden Prophecy of Shadows
 - Strange disappearances suggest a curse
 - Someone is protecting an heir for power
 - A journal reveals a conspiracy about a local noble
+
+## References
+
+- [[deer xmm#^statblock]]

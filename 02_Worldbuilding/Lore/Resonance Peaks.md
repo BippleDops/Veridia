@@ -58,7 +58,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -142,7 +142,7 @@ The heart of each Peak's functionality lies in its integrated crystal systems, w
 **Crystal Classification and Function:**
 - **Primary Amplification Crystals**: Large formations that boost incoming sound waves exponentially
 - **Harmonic Focusing Crystals**: Smaller crystals that refine and direct specific frequencies  
-- **[[Dimensional Resoce]] Crystals**: Specialized crystals capable of projecting sound across dimensional boundaries
+- **[[Dimensional_Resoce|Dimensional Resoce]] Crystals**: Specialized crystals capable of projecting sound across dimensional boundaries
 - **Safety Regulation Crystals**: Protective crystals that prevent dangerous resoce buildup
 - **Communication Interface Crystals**: Crystals designed for two-way communication and signal processing
 
@@ -221,7 +221,7 @@ The Peaks serve important roles in Aquabyssos defense and security operations:
 
 **Military Applications:**
 - **Perimeter Detection**: Long-range acoustic monitoring detecting approaching threats
-- **Communication Jamming**: Disruption of hostile [[Communication Systems]] through acoustic interference
+- **Communication Jamming**: Disruption of hostile [[Communication_Systems|Communication Systems]] through acoustic interference
 - **Area Denial**: Creation of acoustic barriers that prevent hostile access to protected areas
 - **Early Warning Systems**: Detection and analysis of unusual acoustic signatures indicating potential threats
 - **Coordination Support**: Communication networks enabling rapid military response and coordination
@@ -250,7 +250,7 @@ The Peaks provide unique research capabilities for various scientific discipline
 Recent research focuses on the Peaks' potential for dimensional interaction:
 - Communication experiments attempting to establish contact with [[Aethermoor]]
 - Research into acoustic effects on dimensional stability and boundary conditions  
-- Investigation of harmonic frequencies that may facilitate [[Dimensional Travel]]
+- Investigation of harmonic frequencies that may facilitate [[Dimensional_Travel|Dimensional Travel]]
 - Studies of acoustic phenomena that appear to transcend normal physical limitations
 - Development of new technologies based on cross-dimensional acoustic principles
 
@@ -280,11 +280,11 @@ Network coordination enables sophisticated operations:
 Peak operations require highly trained specialists with expertise in multiple technical disciplines:
 
 **Primary Specializations:**
-- **Resoce Engineers**: Experts in acoustic engineering and [[[[Frequency Manipulatio]]n]] ([[Senior Resoce Engineer Harmony Deepnote]])
+- **Resoce Engineers**: Experts in acoustic engineering and [[Frequency Manipulatio|[[Frequency Manipulatio]]n]] ([[Senior Resoce Engineer Harmony Deepnote]])
 - **Crystal Cultivation Specialists**: Experts in growing and maintaining crystal networks ([[Crystal Master Chorus Gemgrow]])
 - **Geological Integration Technicians**: Specialists in mountain engineering and structural maintece ([[Geology Specialist Stone Soundshape]])
 - **Network Coordination Operators**: Personnel managing multi-Peak operations and communication ([[Network Coordinator Wave Linkmaster]])
-- **Safety and Security Personnel**: Specialists ensuring safe operation and protecting facilities ([[Safety Director Storm [[Shield]]voice]])
+- **Safety and Security Personnel**: Specialists ensuring safe operation and protecting facilities ([[Shield|Safety Director Storm [[Shield]]voice]])
 
 **Training and Professional Development:**
 Peak personnel undergo extensive training and continuous professional development:
@@ -509,7 +509,7 @@ Involvement with Peak operations provides numerous opportunities for character d
 - [[Resoce Chamber]] - Related facility providing specialized acoustic research capabilities
 - [[Tidal Chambers]] - Complementary technology providing hydraulic capabilities
 - [[Crystal Forest]] - Source of crystals used in Peak operations
-- [[The [[Deepwatch Guard]]]] - Security organization protecting Peak facilities
+- [[Deepwatch Guard|The [[Deepwatch Guard]]]] - Security organization protecting Peak facilities
 - [[People]] - Chief Designer of Peak network
 - [[Senior Resoce Engineer Harmony Deepnote|[[02 Worldbuilding]]/People/Senior Resoce Engineer Harmony Deepnote]] - Acoustic engineering specialist
 - [[Crystal Master Chorus Gemgrow|02 Worldbuilding/People/Crystal Master Chorus Gemgrow]] - Crystal cultivation expert
@@ -527,7 +527,7 @@ Resoce Peaks is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of Resoce Peaks as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Resoce Peaks.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -542,3 +542,8 @@ Different cultures interpret this lore through their own lens, creating variatio
 ## Prophecy Connection
 
 Mentioned in The Second Prophecy of Winds
+
+## References
+
+- [[Master Resoce Architect Echo Stonewhisper]]
+- [[Senior Resoce Engineer Harmony Deepnote]]

@@ -37,7 +37,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -91,7 +91,7 @@ Complete Reality Merger System is a undersea element of the setting, known for b
 
 Legends speak of Complete Reality Merger System as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Complete Reality Merger System.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -108,7 +108,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - An heirloom has gone missing and chaos spreads
 - A [[Merchant]] needs help stealing before dawn
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -124,3 +124,35 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Civil war
 - Natural disasters
 - Current power structures established
+
+## References
+
+- [[Complete Reality Merger System#Merger Zone Classifications]]
+- [[Aethermoor_Airships]]
+- [[Aquabyssos_Submarines]]
+- [[Complete Temporal Mechanics System]]
+- [[Complete_Temporal_Mechanics_System (D&D_References)]]
+- [[Crafting Transcendence]]
+- [[Crafting_Transcendence (D&D_References)]]
+- [[Depth_Events_Pack_A]]
+- [[Depth_Events_Pack_D]]
+- [[Journey_Event_Permutation_Engine]]
+- [[Merger_Events_Pack_A]]
+- [[Merger_Events_Pack_D]]
+- [[Merger_Hybrid_Vehicles (D&D_References)]]
+- [[Merger_Transit_Complications]]
+- [[Phase Omega Enhanced Index]]
+- [[Phase_Omega_Enhanced_Index (D&D_References)]]
+- [[Reality Breach Event Compiler]]
+- [[Reality_Breach_Event_Compiler (D&D_References)]]
+- [[Sky_Events_Pack_A]]
+- [[Sky_Events_Pack_D]]
+- [[Transportation_Infrastructure]]
+- [[Vehicle_Core_Rules]]
+- [[Vehicles - Aethermoor Airships]]
+- [[Vehicles - Aquabyssos Submarines]]
+- [[Vehicles - Merger Hybrid Vehicles]]
+- [[Vehicles - Transportation Infrastructure]]
+- [[Vehicles - Vehicle Core Rules]]
+- [[Vehicles - Vehicles Index]]
+- [[Vehicles_Index]]

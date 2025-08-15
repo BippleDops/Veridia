@@ -36,7 +36,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -86,7 +86,7 @@ Reform Advocate Justice Truthseeker is a undersea element of the setting, known 
 
 Legends speak of Reform Advocate Justice Truthseeker as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Reform Advocate Justice Truthseeker.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -103,3 +103,8 @@ Different cultures interpret this lore through their own lens, creating variatio
 - A journal reveals a conspiracy about the government
 - An heirloom has gone missing and chaos spreads
 - A journal reveals a conspiracy about a local noble
+
+## References
+
+- [[Crystal Corruption Taboos]]
+- [[Crystal Corruption Taboos (D&D_References)]]

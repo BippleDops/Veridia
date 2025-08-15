@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Stormwind the Seeker", "cedric stormwind the seeker", "Cedric Stormwind Seeker", "Seeker the Stormwind Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Stormwind the Seeker
 
 *Dragonborn Assassin (Villains), Age 64, Male*
@@ -13,7 +19,6 @@
 Average height and stocky, with Short and neat silver hair and Heterochromic eyes. Brown skin. Constantly changing hair color.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Never uses people's real names; Always speaks in metaphors and riddles
@@ -36,27 +41,22 @@ Betrayed by those they trusted, now seeking revenge on the world They've been ma
 - **Short Term**: Avoid the authorities
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Hilda Darkwater the Wanderer (Family - Child)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
 
-
 ### Hilda Xendar the Wanderer (Family - Sibling)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
-
 
 ### Urien Oakenshield the Seeker (Personal - Ex-lover)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Caelum Grimholt the Mystic (Professional - Rival)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Is being controlled by darker force

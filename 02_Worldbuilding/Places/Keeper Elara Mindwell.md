@@ -71,7 +71,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -115,7 +115,7 @@ improvements: 20
 
 ## Overview
 
-Keeper Elara Mindwell serves as one of [[Aquabyssos]]'s most respected cultural advisors and knowledge guardians, maintaining the realm's extensive archives of historical, cultural, and magical knowledge while providing crucial [[Guidance]] to political and academic leaders. Her expertise in cultural analysis, historical patterns, and psychological insights makes her an invaluable resource for understanding complex social and political dynamics.
+Keeper Elara Mindwell serves as one of  to political and academic leaders. Her expertise in cultural analysis, historical patterns, and psychological insights makes her an invaluable resource for understanding complex social and political dynamics.
 
 As Senior Cultural Advisor to diplomatic missions, Keeper Mindwell specializes in analyzing the cultural, historical, and psychological factors that influence political decisions and social movements. Her ability to identify underlying patterns and predict potential cultural conflicts has prevented numerous diplomatic incidents and helped shape successful negotiation strategies.
 
@@ -362,7 +362,7 @@ Legends speak of Keeper Elara Mindwell as a nexus where past and present converg
 
 ### Key Locations
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -386,13 +386,11 @@ Keeper Elara Mindwell is a notable location characterized by its unique features
 ### Founding
 Keeper Elara Mindwell was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -400,13 +398,11 @@ Keeper Elara Mindwell was established in the distant past, growing from humble b
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -469,7 +465,6 @@ Ongoing situations affecting Keeper Elara Mindwell:
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Adventure Seeds
 - Mysterious occurrence
 - Local conflict
@@ -510,3 +505,8 @@ Ongoing situations affecting Keeper Elara Mindwell:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Envoy Blackwater Jr (D&D_Statblocks)]]
+- [[Envoy Blackwater Jr.]]

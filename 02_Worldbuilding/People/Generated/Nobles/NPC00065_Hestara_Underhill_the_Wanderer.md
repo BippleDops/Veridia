@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Underhill the Wanderer", "hestara underhill the wanderer", "Hestara Underhill Wanderer", "Wanderer the Underhill Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Underhill the Wanderer
 
 *Aasimar Noble (Nobles), Age 62, Non-binary*
@@ -36,17 +42,14 @@ Recently elevated to nobility through service, still learning courtly ways Stran
 - **Short Term**: Find missing person
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Qadim Xendar (Personal - Love interest)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Rhiannon Ravenheart the Mystic (Family - Parent)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ### Brenna Frostwhisper (Professional - Employer)
 - **Status**: Blood oath bound
@@ -57,11 +60,9 @@ Recently elevated to nobility through service, still learning courtly ways Stran
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Aldric Stormwind the Bold (Family - Parent)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ### Urien Oakenshield (Personal - Nemesis)
 - **Status**: Mutually beneficial

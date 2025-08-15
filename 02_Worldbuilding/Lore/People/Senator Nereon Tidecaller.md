@@ -94,3 +94,9 @@ improvements: 20
 - Someone is searching for a witness for money
 - A letter reveals a conspiracy about this place
 - Strange sightings suggest a portal
+
+## References
+
+- [[02_Worldbuilding_People_Senator_Nereon_Tidecaller]]
+- [[Memory Harvester Kythara]]
+- [[Memory Harvester Kythara (D&D_Statblocks)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Elegant Rope of Quality", "elegant rope of quality", "Quality of Rope Elegant"]
+tags: [item, equipment]
+type: item
+---
+
 # Elegant Rope of Quality
 
 *Mundane, Common*
@@ -13,8 +19,6 @@ A elegant rope bearing maker's mark
 ## Properties
 - Works perfectly always
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -29,7 +33,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.475Z*

@@ -112,3 +112,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Magic Item Table G]]
+- [[Random Magic Items Relics]]
+- [[Relics Rare Xdmg]]
+- [[magic-item-table-g (tables)]]
+- [[random-magic-items-relics (tables)]]
+- [[relics-rare-xdmg (tables)]]

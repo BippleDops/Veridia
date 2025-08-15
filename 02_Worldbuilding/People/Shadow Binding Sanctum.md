@@ -43,7 +43,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-shadow-binding-sanctum-shadow-binding-sanctum.svg)
 
@@ -308,7 +307,6 @@ Legends speak of Shadow Binding Sanctum as a nexus where past and present conver
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -344,3 +342,9 @@ Legends speak of Shadow Binding Sanctum as a nexus where past and present conver
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assets Locations Location City Deputy Harbor Master Marina Stormwright Deputy Harbor Master Marina Stormwright.svg]]
+- [[Assets Locations Location City Master Jeweler Sapphire Delicatehand V1 Master Jeweler Sapphire Delicatehand.svg]]
+- [[Assets Portraits Portrait NPC Lady Nexus Goldcurrent Lady Nexus Goldcurrent.svg]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Voidwalker the Swift", "ewan voidwalker the swift", "Ewan Voidwalker Swift", "Swift the Voidwalker Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Voidwalker the Swift
 
 *Tiefling Ranger (Adventurers), Age 73, Female*
@@ -13,7 +19,6 @@
 Short and slender, with Short and neat blonde hair and Amber eyes. Weathered skin. Birthmark shaped like a constellation.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Speaks to inanimate objects; Sees doom and gloom everywhere; Laughs at the most inappropriate times
@@ -36,32 +41,26 @@ Seeking vengeance for a murdered mentor They're being blackmailed by someone fro
 - **Short Term**: Make this month's payment
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Branwen Dawnstrider the Bold (Political - Ally)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
 
-
 ### Hestara Ravenheart the Seeker (Criminal - Accomplice)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
-
 
 ### Aldric Frostwhisper the Mystic (Personal - Love interest)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Malakai Silverleaf the Mystic (Family - Child)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Wynne Underhill the Swift (Professional - Employee)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Possessed by ancient spirit

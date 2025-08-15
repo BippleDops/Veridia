@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Ravenheart the Strong", "pyria ravenheart the strong", "Pyria Ravenheart Strong", "Strong the Ravenheart Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Ravenheart the Strong
 
 *Elf Dark Wizard (Villains), Age 54, Non-binary*
@@ -36,7 +42,6 @@ Corrupted by an artifact or dark magic They've been marked by a secret society.
 - **Short Term**: Recruit new members
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Felicia Hawthorne the Broken (Professional - Rival)
 - **Status**: Mutually beneficial
@@ -47,16 +52,13 @@ Corrupted by an artifact or dark magic They've been marked by a secret society.
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
 
-
 ### Hilda Emberfall the Cunning (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Lyanna Thornweave the Swift (Personal - Childhood friend)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ### Branwen Quicksilver the Redeemed (Professional - Partner)
 - **Status**: One-sided affection
@@ -66,7 +68,6 @@ Corrupted by an artifact or dark magic They've been marked by a secret society.
 ### Delara Ironwood the Guardian (Personal - Best friend)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Was once a renowned hero

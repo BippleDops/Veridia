@@ -38,7 +38,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -88,7 +88,7 @@ Aethermoor Navigation Crystal is a sky-borne element of the setting, known for b
 
 Legends speak of Aethermoor Navigation Crystal as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aethermoor Navigation Crystal.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -102,3 +102,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - A prisoner has gone missing and chaos spreads
 - Someone is blackmailing an heir for power
 - Someone is protecting a artifact for revenge
+
+## References
+
+- [[Quest - The Lost Expedition]]

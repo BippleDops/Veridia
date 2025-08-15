@@ -38,7 +38,6 @@ improvements: 20
 - Time pressure
 - Moral dilemmas
 
-
 > [!figure] Portrait
 
 # Quest - The Dying Forest
@@ -110,7 +109,6 @@ The ancient Silverleaf Forest outside Aethermoor is withering at an alarming rat
 
 ## Quest Giver
 **Druid Elara Moonwhisper** - Ancient elf guardian of the forest, desperate to save her sacred grove. She offers her staff of nature's blessing and knowledge of forest secrets as reward.
-
 
 ## Objectives
 ### Primary
@@ -307,7 +305,6 @@ Legends speak of Quest   The Dying Forest as a nexus where past and present conv
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Time Limit
 - **Deadline**: When it must be completed

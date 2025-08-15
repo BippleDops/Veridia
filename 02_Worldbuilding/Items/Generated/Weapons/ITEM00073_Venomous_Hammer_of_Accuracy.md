@@ -1,3 +1,9 @@
+---
+aliases: ["Venomous Hammer of Accuracy", "venomous hammer of accuracy", "Accuracy of Hammer Venomous"]
+tags: [item, equipment]
+type: item
+---
+
 # Venomous Hammer of Accuracy
 
 *Weapons, Very Rare (requires attunement)*

@@ -97,7 +97,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -116,4 +115,16 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[stoneskin-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[spells|stoneskin-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Paladin Xphb Oath of Redemption Xge]]
+- [[paladin-xphb-oath-of-redemption-xge (classes)]]
+- [[Ring of Elemental Command Earth Xdmg]]
+- [[ring-of-elemental-command-earth-xdmg (items)]]
+- [[Eternal Mountain Defense]]
+- [[eternal-mountain-defense (optional-features)]]

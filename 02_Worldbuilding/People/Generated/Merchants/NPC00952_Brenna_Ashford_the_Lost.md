@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Ashford the Lost", "brenna ashford the lost", "Brenna Ashford Lost", "Lost the Ashford Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Ashford the Lost
 
 *Human Trader (Merchants), Age 35, Female*
@@ -52,7 +58,6 @@ Uses their business as cover for other activities An old debt has come due at th
 - **Status**: Complicated history
 - **History**: United by common enemy
 
-
 ### Hilda Ironforge the Strong (Family - Spouse)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
@@ -61,7 +66,6 @@ Uses their business as cover for other activities An old debt has come due at th
 ### Brenna Grimholt the Fallen (Family - Spouse)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Smuggles illegal magical items

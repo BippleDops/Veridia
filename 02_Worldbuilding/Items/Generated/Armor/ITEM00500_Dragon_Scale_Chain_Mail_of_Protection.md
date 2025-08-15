@@ -1,3 +1,9 @@
+---
+aliases: ["Dragon Scale Chain Mail of Protection", "dragon scale chain mail of protection", "Protection of Mail Chain Scale Dragon"]
+tags: [item, equipment]
+type: item
+---
+
 # Dragon Scale Chain Mail of Protection
 
 *Armor, Very Rare*
@@ -16,8 +22,6 @@ A dragon scale chain mail bearing ancient runes
 - Advantage on saving throws
 - +2 to AC
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -32,7 +36,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.388Z*

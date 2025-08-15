@@ -45,3 +45,17 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Shadow Behavior Guidelines (Criminal_Organizations)]]
+- [[The Shadow Duchess Duel (Criminal_Organizations)]]
+- [[Vex Shadowthorn Boss Fight (Criminal_Organizations)]]
+- [[The Screaming Battleground]]
+- [[Shadow Behavior Guidelines]]
+- [[The Screaming Battleground (D&D_References)]]
+- [[The Shadow Duchess Duel]]
+- [[Vex Shadowthorn Boss Fight]]
+- [[Topic Matrix]]
+- [[Topic_Matrix (Indexes)]]

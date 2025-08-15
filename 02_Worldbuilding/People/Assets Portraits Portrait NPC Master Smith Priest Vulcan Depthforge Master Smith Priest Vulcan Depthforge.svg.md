@@ -205,3 +205,7 @@ Member of House Serpentblood - Trait: magical affinity
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Assets Locations Location City Guildmaster Harwick V1 Guildmaster Harwick.png]]

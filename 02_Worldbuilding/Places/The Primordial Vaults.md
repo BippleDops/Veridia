@@ -48,7 +48,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -92,7 +92,7 @@ improvements: 20
 
 ## Overview
 
-Deep beneath [[[[Aquabyssos]] [[World Overview]]]], older than the [[Drowned]] civilizations above, lie the Primordial Vaults - a massive complex of chambers and passages that predate human civilization. Built by unknown hands for unclear purposes, the vaults contain horrors, treasures, and answers to questions that should never be asked. The architecture defies physics, with gravity, [[Time]], and space functioning irregularly.
+Deep beneath [[Aquabyssos|[[Aquabyssos]] [[World Overview]]]], older than the [[Drowned]] civilizations above, lie the Primordial Vaults - a massive complex of chambers and passages that predate human civilization. Built by unknown hands for unclear purposes, the vaults contain horrors, treasures, and answers to questions that should never be asked. The architecture defies physics, with gravity, [[Time]], and space functioning irregularly.
 
 ### [[The Threshold]] Gates (8000 feet)
 
@@ -183,7 +183,7 @@ Black water that doesn't reflect anything - falling in erases you from history.
 4. Lies become truth, truth becomes lies
 5. Death is temporary but madness is permanent
 
-## [[[[Random Encounter]]s]] (d12)
+## [[Random Encounter|[[Random Encounter]]s]] (d12)
 
 1. Temporal echo of future/past party
 2. Gravity suddenly reversing
@@ -213,7 +213,7 @@ Legends speak of The Primordial Vaults as a nexus where past and present converg
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -237,13 +237,11 @@ The Primordial Vaults is a notable location characterized by its unique features
 ### Founding
 The Primordial Vaults was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -251,13 +249,11 @@ The Primordial Vaults was established in the distant past, growing from humble b
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -303,7 +299,6 @@ Ongoing situations affecting The Primordial Vaults:
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -339,3 +334,18 @@ Ongoing situations affecting The Primordial Vaults:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Stop the Shadow Harvest (Criminal_Organizations)]]
+- [[Archon Meredith Saltweaver]]
+- [[Captain Garrett Stormcutter]]
+- [[Captain Scale-Walker]]
+- [[The Vanishing Depths]]
+- [[The Void Touched Depths]]
+- [[Archon Meredith Saltweaver (D&D_References)]]
+- [[Captain Garrett Stormcutter (D&D_References)]]
+- [[Stop the Shadow Harvest]]
+- [[The Vanishing Depths (D&D_References)]]
+- [[Captain Scale-Walker (D&D_Statblocks)]]
+- [[The Void Touched Depths (D&D_Statblocks)]]

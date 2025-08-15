@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Ravenheart the Swift", "kaelen ravenheart the swift", "Kaelen Ravenheart Swift", "Swift the Ravenheart Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Ravenheart the Swift
 
 *Halfling Wizard (Adventurers), Age 73, Female*
@@ -36,12 +42,10 @@ Seeking vengeance for a murdered mentor They're being blackmailed by someone fro
 - **Short Term**: Avoid the authorities
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Brenna Goldleaf the Wanderer (Professional - Partner)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ### Ysara Darkwater the Risen (Personal - Nemesis)
 - **Status**: Recently reconciled

@@ -11,7 +11,7 @@ created: '2025-01-15'
 
 ## Portrait
 
-![[portrait_04_resources_assets_portraits_portrait-npc-deep-lords-deep-lords.svg.png]]
+![[04_Resources|portrait_04_resources_assets_portraits_portrait-npc-deep-lords-deep-lords.svg.png]]
 
 *Portrait reference for 04_Resources_Assets_Portraits_portrait-npc-deep-lords-deep-lords.svg*
 
@@ -75,3 +75,11 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+## References
+
+- [[Assets Locations Location City Commander Typhoon Blackheart V1 Commander Typhoon Blackheart.svg]]
+- [[Assets Locations Location City Lord Reginald Seaworthy Lord Reginald Seaworthy.svg]]
+- [[Assets Portraits Portrait NPC Lord Aldric Blackwater Lord Aldric Blackwater.svg]]
+- [[Assets Symbols Symbol Heraldry Foreman Prime Salvage Maste Foreman Prime Salvage Maste.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-deep-lords-deep-lords.svg_Quick_Ref]]

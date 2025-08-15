@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Underhill the Risen", "wynne underhill the risen", "Wynne Underhill Risen", "Risen the Underhill Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Underhill the Risen
 
 *Dragonborn Heir (Nobles), Age 36, Male*
@@ -36,7 +42,6 @@ Recently elevated to nobility through service, still learning courtly ways A pro
 - **Short Term**: Make this month's payment
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Alaric Winterborn the Seeker (Political - Opposition)
 - **Status**: Complicated history
@@ -47,7 +52,6 @@ Recently elevated to nobility through service, still learning courtly ways A pro
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Hestara Moonshadow (Personal - Love interest)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
@@ -56,7 +60,6 @@ Recently elevated to nobility through service, still learning courtly ways A pro
 ### Erasmus Goldleaf (Family - Spouse)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Child from scandalous affair

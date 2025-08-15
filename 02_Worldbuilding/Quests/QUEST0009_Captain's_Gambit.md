@@ -1,4 +1,5 @@
 ---
+aliases: ["Captain's Gambit", "captain's gambit", "Gambit Captain's"]
 tags: [generated]
 id: QUEST0009
 created: 2025-08-15T04:09:51.368Z

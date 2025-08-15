@@ -224,3 +224,8 @@ Mentioned in The Hidden Prophecy of Shadows
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-crystal-master-prism-lightweaver-crystal-master-prism-lightweaver.svg]]
+- [[04_Resources_Assets_Locations_location-city-scout-captain-vera-deepwatch-v1-scout-captain-vera-deepwatch.svg]]

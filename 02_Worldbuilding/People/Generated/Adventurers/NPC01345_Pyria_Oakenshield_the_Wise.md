@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Oakenshield the Wise", "pyria oakenshield the wise", "Pyria Oakenshield Wise", "Wise the Oakenshield Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Oakenshield the Wise
 
 *Tabaxi Rogue (Adventurers), Age 49, Female*
@@ -42,7 +48,6 @@ Seeking vengeance for a murdered mentor They're being blackmailed by someone fro
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
 
-
 ### Delara Ironforge the Swift (Personal - Nemesis)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
@@ -51,7 +56,6 @@ Seeking vengeance for a murdered mentor They're being blackmailed by someone fro
 ### Pyria Darkwater the Risen (Political - Ally)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Carries a world-ending artifact

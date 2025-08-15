@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Frostwhisper the Redeemed", "gareth frostwhisper the redeemed", "Gareth Frostwhisper Redeemed", "Redeemed the Frostwhisper Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Frostwhisper the Redeemed
 
 *Half-Elf Crime Boss (Villains), Age 22, Female*
@@ -13,7 +19,6 @@
 Towering and lanky, with Partially shaved silver hair and Amber eyes. Pale skin. Crooked nose from multiple breaks.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Always tells the absolute truth
@@ -36,27 +41,22 @@ Corrupted by an artifact or dark magic A prophetic dream has been haunting them 
 - **Short Term**: Recruit new members
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Dara Brightblade the Cunning (Personal - Childhood friend)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
 
-
 ### Dara Moonshadow the Risen (Family - Child)
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
-
 
 ### Branwen Hawthorne the Risen (Criminal - Handler)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
 
-
 ### Fiora Proudmore the Wise (Political - Puppet)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Is being controlled by darker force

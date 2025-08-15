@@ -14,7 +14,6 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 # Quest - The Crystal Festival
 
 ---
@@ -52,12 +51,10 @@ obsidianUIMode: preview
 # Quest - The Crystal Festival
 *The Convergence of Shards, The Queen's Gambit, The Transformation Celebration*
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -335,7 +332,6 @@ Contextual improvement based on 12_Research
 
 ### Large/Small Parties
 - *[Adjustments for party size]*
-
 
 ## Time Limit
 - **Deadline**: When it must be completed

@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Ironforge the Fallen", "orion ironforge the fallen", "Orion Ironforge Fallen", "Fallen the Ironforge Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Ironforge the Fallen
 
 *Goliath Farmer (Commoners), Age 44, Non-binary*
@@ -36,17 +42,14 @@ Grew up in poverty but discovered a talent that might change everything They rec
 - **Short Term**: Gather information
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Ewan Xendar the Strong (Criminal - Informant)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Thalia Keenblade the Scholar (Family - Child)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
-
 
 ### Dara Emberfall the Risen (Family - Spouse)
 - **Status**: Blood oath bound

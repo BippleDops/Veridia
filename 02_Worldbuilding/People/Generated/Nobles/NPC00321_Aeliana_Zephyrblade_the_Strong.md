@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Zephyrblade the Strong", "aeliana zephyrblade the strong", "Aeliana Zephyrblade Strong", "Strong the Zephyrblade Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Zephyrblade the Strong
 
 *Tiefling Noble (Nobles), Age 75, Non-binary*
@@ -13,7 +19,6 @@
 Towering and compact, with Long and flowing auburn hair and Heterochromic eyes. Freckled skin. Unusual eye color for their race.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Laughs at the most inappropriate times; Never uses people's real names
@@ -47,21 +52,17 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Hilda Jadeclaw (Political - Ally)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
-
 
 ### Zephyr Frostwhisper the Broken (Political - Opposition)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Rhiannon Silverleaf the Broken (Family - Child)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ### Jorah Ravenheart the Seeker (Professional - Employee)
 - **Status**: Blood oath bound

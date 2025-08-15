@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Youngblood the Lost", "solas youngblood the lost", "Solas Youngblood Lost", "Lost the Youngblood Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Youngblood the Lost
 
 *Dwarf Caravan Master (Merchants), Age 21, Male*
@@ -36,17 +42,14 @@ Built their business from nothing through cunning and hard work A chance encount
 - **Short Term**: Recruit new members
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Solas Voidwalker the Redeemed (Family - Sibling)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Malakai Zephyrblade the Risen (Professional - Partner)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
-
 
 ### Cedric Goldleaf the Redeemed (Criminal - Handler)
 - **Status**: Recently reconciled
@@ -57,16 +60,13 @@ Built their business from nothing through cunning and hard work A chance encount
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
 
-
 ### Malakai Underhill the Redeemed (Criminal - Fence)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Hestara Emberfall the Redeemed (Professional - Employee)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Killed previous business owner

@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Youngblood the Swift", "felicia youngblood the swift", "Felicia Youngblood Swift", "Swift the Youngblood Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Youngblood the Swift
 
 *Half-Orc Farmer (Commoners), Age 54, Male*
@@ -13,7 +19,6 @@
 Very tall and lanky, with Carefully styled gray hair and Amber eyes. Freckled skin. Missing finger on left hand.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Never uses people's real names
@@ -52,11 +57,9 @@ Former soldier trying to adjust to civilian life They've made a deal they're beg
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Brenna Lightbringer the Seeker (Personal - Love interest)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Knows location of ancient treasure

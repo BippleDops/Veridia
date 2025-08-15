@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Emberfall the Lost", "qadim emberfall the lost", "Qadim Emberfall Lost", "Lost the Emberfall Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Emberfall the Lost
 
 *Dwarf Courtier (Nobles), Age 20, Female*
@@ -13,7 +19,6 @@
 Very short and lanky, with Short and neat unusual color hair and Red eyes. Scarred skin. Missing ear from old battle.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Laughs at the most inappropriate times
@@ -36,17 +41,14 @@ Last survivor of a fallen house, seeking to restore family honor They've fallen 
 - **Short Term**: Gather information
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Qadim Brightblade the Scholar (Criminal - Accomplice)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
 
-
 ### Xander Goldleaf (Political - Puppet)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ### Gavril Oakenshield the Strong (Personal - Nemesis)
 - **Status**: On the verge of collapse
@@ -56,7 +58,6 @@ Last survivor of a fallen house, seeking to restore family honor They've fallen 
 ### Solas Xendar the Strong (Personal - Nemesis)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Secretly funding the rebellion

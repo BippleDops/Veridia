@@ -102,3 +102,8 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Locations Location City Quartermaster Judith Supplycurrent Quartermaster Judith Supplycurrent.svg]]
+- [[Assets Locations Location City Quartermaster Sterling Suppystone Quartermaster Sterling Suppystone.svg]]

@@ -63,3 +63,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Abyssos Prime - Inverse Palace]]
+- [[Temporal Navigation]]
+- [[The Pressure Conspiracy]]
+- [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]]
+- [[Temporal Navigation (D&D_Statblocks)]]
+- [[The Pressure Conspiracy (D&D_Statblocks)]]

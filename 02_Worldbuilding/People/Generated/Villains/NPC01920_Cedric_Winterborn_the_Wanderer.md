@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Winterborn the Wanderer", "cedric winterborn the wanderer", "Cedric Winterborn Wanderer", "Wanderer the Winterborn Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Winterborn the Wanderer
 
 *Firbolg Assassin (Villains), Age 50, Non-binary*
@@ -13,7 +19,6 @@
 Above average and heavyset, with Long and flowing blonde hair and Green eyes. Dark skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Never uses people's real names
@@ -36,17 +41,14 @@ Betrayed by those they trusted, now seeking revenge on the world They've been ma
 - **Short Term**: Avoid the authorities
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Vesper Crystalbrook the Wanderer (Political - Opposition)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Drusilla Voidwalker the Strong (Professional - Employer)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ### Drusilla Proudmore the Fallen (Political - Patron)
 - **Status**: Complicated history
@@ -56,7 +58,6 @@ Betrayed by those they trusted, now seeking revenge on the world They've been ma
 ### Delara Xendar the Risen (Political - Puppet)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ### Fiora Hawthorne the Seeker (Political - Ally)
 - **Status**: Mutually beneficial

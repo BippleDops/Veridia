@@ -200,7 +200,6 @@ Mentioned in The Hidden Prophecy of Stars
 
 Contextual improvement based on 12_Research
 
-
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition

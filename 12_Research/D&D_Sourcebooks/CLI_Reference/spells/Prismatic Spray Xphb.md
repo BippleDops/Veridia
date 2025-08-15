@@ -101,3 +101,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A map reveals a betrayal about the cult
 - A prisoner has gone missing and truth emerges
 - A corpse reveals the truth about the cult
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]

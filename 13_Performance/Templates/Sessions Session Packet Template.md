@@ -33,15 +33,15 @@ Date: {{session_date}}
 Campaign: {{campaign_name}}
 
 handouts:
-  - [[D 005_Shadow_Bloom_Player|04 Resources/Handouts/Encounters/D 005 Shadow Bloom Player]]
+  - [[D_005_Shadow_Bloom_Player|04 Resources/Handouts/Encounters/D 005 Shadow Bloom Player]]
   - [[Doctrine_Quick_Reference|04 Resources/Handouts/Doctrines/Doctrine Quick Reference]]
 
 gm_sheets:
-  - [[D 005_Shadow_Bloom|06 GM Resources/Travel/Encounter Sheets/D 005 Shadow Bloom]]
+  - [[D_005_Shadow_Bloom|06 GM Resources/Travel/Encounter Sheets/D 005 Shadow Bloom]]
   - [[M-L-01_The_Great_Convergence|06 GM Resources/Travel/Encounter Sheets/M L 01 The Great Convergence]]
 
 assets:
-  - [[Vehicles Index|03 Mechanics/Vehicles/Vehicles Index]]
+  - [[Vehicles_Index|03 Mechanics/Vehicles/Vehicles Index]]
 
 ---
 

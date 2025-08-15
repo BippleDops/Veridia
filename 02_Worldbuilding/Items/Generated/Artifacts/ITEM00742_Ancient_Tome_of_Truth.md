@@ -1,3 +1,9 @@
+---
+aliases: ["Ancient Tome of Truth", "ancient tome of truth", "Truth of Tome Ancient"]
+tags: [item, equipment]
+type: item
+---
+
 # Ancient Tome of Truth
 
 *Artifacts, Artifact (requires attunement)*
@@ -16,8 +22,6 @@ A ancient tome radiating otherworldly power
 - Telepathy 120 ft
 - Time stop 1/week
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -32,7 +36,6 @@ Priceless
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.421Z*

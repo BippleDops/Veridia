@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Dawnstrider the Scholar", "elric dawnstrider the scholar", "Elric Dawnstrider Scholar", "Scholar the Dawnstrider Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Dawnstrider the Scholar
 
 *Genasi Rogue (Adventurers), Age 71, Non-binary*
@@ -36,12 +42,10 @@ Accidentally gained powers and learning to control them They've been marked by a
 - **Short Term**: Avoid the authorities
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Jorah Grimholt the Seeker (Professional - Employee)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ### Brenna Voidwalker the Wise (Political - Spy)
 - **Status**: Strong and trusting
@@ -57,7 +61,6 @@ Accidentally gained powers and learning to control them They've been marked by a
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Hestara Keenblade the Seeker (Political - Ally)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
@@ -66,7 +69,6 @@ Accidentally gained powers and learning to control them They've been marked by a
 ### Rhiannon Keenblade the Broken (Professional - Mentor)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Secretly working for the villain

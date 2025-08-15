@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Silverleaf", "aldric silverleaf", "Silverleaf Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Silverleaf
 
 *Dwarf Blacksmith (Commoners), Age 66, Female*
@@ -36,32 +42,26 @@ Grew up in poverty but discovered a talent that might change everything An old d
 - **Short Term**: Sabotage competition
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Wynne Xendar the Fallen (Family - Sibling)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Elric Blackstone the Wise (Personal - Childhood friend)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
-
 
 ### Urien Grimholt the Redeemed (Personal - Best friend)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Baelor Moonshadow the Wise (Criminal - Target)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Thalia Frostwhisper (Family - Sibling)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Is the lost heir to the throne

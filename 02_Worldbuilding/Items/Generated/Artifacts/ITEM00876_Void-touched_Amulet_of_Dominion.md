@@ -1,3 +1,9 @@
+---
+aliases: ["Void-touched Amulet of Dominion", "void-touched amulet of dominion", "Dominion of Amulet Void-touched"]
+tags: [item, equipment]
+type: item
+---
+
 # Void-touched Amulet of Dominion
 
 *Artifacts, Very Rare*
@@ -16,8 +22,6 @@ A void-touched amulet covered in mysterious symbols
 - Increase ability score by 2
 - Immunity to charm
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -32,7 +36,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.434Z*

@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Ironwood the Wise", "qadim ironwood the wise", "Qadim Ironwood Wise", "Wise the Ironwood Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Ironwood the Wise
 
 *Aasimar Assassin (Villains), Age 60, Non-binary*
@@ -36,22 +42,18 @@ Believes their evil acts serve a greater good They recently discovered a secret 
 - **Short Term**: Complete current contract
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Lyanna Ironwood the Wise (Professional - Employer)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
 
-
 ### Rhiannon Frostwhisper the Mystic (Criminal - Fence)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Alaric Quicksilver the Swift (Personal - Ex-lover)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Knows how the world will end

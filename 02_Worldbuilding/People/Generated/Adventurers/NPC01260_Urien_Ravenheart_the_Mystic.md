@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Ravenheart the Mystic", "urien ravenheart the mystic", "Urien Ravenheart Mystic", "Mystic the Ravenheart Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Ravenheart the Mystic
 
 *Genasi Cleric (Adventurers), Age 55, Male*
@@ -36,27 +42,22 @@ Running from a dark past that won't stay buried Strange abilities have begun man
 - **Short Term**: Survive until next week
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Thalia Brightblade the Broken (Family - Cousin)
 - **Status**: Complicated history
 - **History**: United by common enemy
 
-
 ### Faelyn Thornweave the Redeemed (Criminal - Handler)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ### Elric Underhill the Seeker (Family - Child)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
 
-
 ### Orion Darkwater the Wise (Professional - Employer)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Is from the future

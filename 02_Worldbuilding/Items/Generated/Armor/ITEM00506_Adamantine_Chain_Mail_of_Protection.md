@@ -1,3 +1,9 @@
+---
+aliases: ["Adamantine Chain Mail of Protection", "adamantine chain mail of protection", "Protection of Mail Chain Adamantine"]
+tags: [item, equipment]
+type: item
+---
+
 # Adamantine Chain Mail of Protection
 
 *Armor, Uncommon*
@@ -14,8 +20,6 @@ A adamantine chain mail crafted from exotic materials
 - Resistance to one damage type
 - +1 to AC
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -30,7 +34,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.388Z*

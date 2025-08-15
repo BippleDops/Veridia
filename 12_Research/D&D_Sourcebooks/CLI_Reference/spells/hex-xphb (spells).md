@@ -93,7 +93,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -112,4 +111,16 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[hex-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[hex-xphb (spells)|hex-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Warlock Xphb Great Old One Patron Xphb]]
+- [[warlock-xphb-great-old-one-patron-xphb (classes)]]
+- [[Maddening Hex Xge]]
+- [[Relentless Hex Xge]]
+- [[maddening-hex-xge (optional-features)]]
+- [[relentless-hex-xge (optional-features)]]

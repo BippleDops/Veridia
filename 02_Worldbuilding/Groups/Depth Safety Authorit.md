@@ -157,3 +157,8 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Depth Effect Quick Reference]]
+- [[Depth Effect Quick Reference (D&D_References)]]

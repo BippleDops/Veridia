@@ -125,3 +125,32 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Barbarian Xphb Path of the Ancestral]]
+- [[Barbarian Xphb Path of the Berserker Xphb]]
+- [[Barbarian Xphb Path of the Storm Herald Xge]]
+- [[Barbarian Xphb Path of the Wild Heart Xphb]]
+- [[Barbarian Xphb Path of the World Tree Xphb]]
+- [[Barbarian Xphb Path of the Zealot Xphb]]
+- [[barbarian-xphb-path-of-the-berserker-xphb (classes)]]
+- [[barbarian-xphb-path-of-the-berserker-xphb 2 (classes)]]
+- [[barbarian-xphb-path-of-the-storm-herald-xge (classes)]]
+- [[barbarian-xphb-path-of-the-storm-herald-xge 2 (classes)]]
+- [[barbarian-xphb-path-of-the-wild-heart-xphb (classes)]]
+- [[barbarian-xphb-path-of-the-wild-heart-xphb 2 (classes)]]
+- [[barbarian-xphb-path-of-the-world-tree-xphb (classes)]]
+- [[barbarian-xphb-path-of-the-zealot-xphb (classes)]]
+- [[Assign Ability Scores Standard Array by]]
+- [[Choose a Class Class Overview Xphb]]
+- [[Classes Phb]]
+- [[Level 1 Hit Points by Class Xphb]]
+- [[Multiclassing Prerequisites Phb]]
+- [[Multiclassing Proficiencies Phb]]
+- [[assign-ability-scores-standard-array-by-class-xphb]]
+- [[choose-a-class-class-overview-xphb (tables)]]
+- [[classes-phb (tables)]]
+- [[level-1-hit-points-by-class-xphb (tables)]]
+- [[multiclassing-prerequisites-phb (tables)]]
+- [[multiclassing-proficiencies-phb (tables)]]

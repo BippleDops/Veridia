@@ -1,3 +1,8 @@
+---
+tags: [item, equipment]
+type: item
+---
+
 # Automate item illustrations
 
 *Implemented: 2025-08-13 10:27*
@@ -24,13 +29,11 @@ Specific functionality can be enhanced based on requirements.
 
 *Autonomous Implementation System - Phase 5 Excellence Amplification*
 
-
 ## Connections
 
 - See also: [[Central Index]]
 - Related: [[Historical Context]]
 - Connected to: [[Main Quest Line]]
-
 
 ## DM Notes
 

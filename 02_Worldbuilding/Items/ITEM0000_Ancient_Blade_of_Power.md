@@ -1,4 +1,5 @@
 ---
+aliases: ["Ancient Blade of Power", "ancient blade of power", "Power of Blade Ancient"]
 tags: [generated]
 id: ITEM0000
 created: 2025-08-15T04:09:51.074Z

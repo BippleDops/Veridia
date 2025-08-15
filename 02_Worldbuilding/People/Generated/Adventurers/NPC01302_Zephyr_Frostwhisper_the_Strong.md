@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Frostwhisper the Strong", "zephyr frostwhisper the strong", "Zephyr Frostwhisper Strong", "Strong the Frostwhisper Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Frostwhisper the Strong
 
 *Tabaxi Fighter (Adventurers), Age 56, Female*
@@ -36,37 +42,30 @@ Seeking vengeance for a murdered mentor They've fallen in love with someone they
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Pyria Blackstone the Lost (Personal - Best friend)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Jorah Keenblade the Cunning (Criminal - Accomplice)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ### Zephyr Underhill the Mystic (Professional - Mentor)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
 
-
 ### Ysara Voidwalker the Redeemed (Family - Spouse)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ### Nerys Goldleaf the Redeemed (Personal - Childhood friend)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
 
-
 ### Urien Underhill the Broken (Political - Spy)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Secretly working for the villain

@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Ashford the Fallen", "aeliana ashford the fallen", "Aeliana Ashford Fallen", "Fallen the Ashford Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Ashford the Fallen
 
 *Dragonborn Trader (Merchants), Age 20, Male*
@@ -13,7 +19,6 @@
 Average height and lanky, with Braided elaborately auburn hair and Hazel eyes. Pale skin. Constantly changing hair color.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Believes in every conspiracy theory
@@ -47,11 +52,9 @@ Inherited a failing business and turned it around A chance encounter last winter
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Alaric Ironforge the Cunning (Criminal - Accomplice)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Is actually a spy for foreign power

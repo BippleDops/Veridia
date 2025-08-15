@@ -1,3 +1,9 @@
+---
+aliases: ["Divine Mirror of Destiny", "divine mirror of destiny", "Destiny of Mirror Divine"]
+tags: [item, equipment]
+type: item
+---
+
 # Divine Mirror of Destiny
 
 *Artifacts, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A divine mirror radiating otherworldly power
 - Time stop 1/week
 - Cast spell 3/day
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -32,7 +36,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.421Z*

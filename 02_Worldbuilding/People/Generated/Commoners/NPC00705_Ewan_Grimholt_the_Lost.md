@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Grimholt the Lost", "ewan grimholt the lost", "Ewan Grimholt Lost", "Lost the Grimholt Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Grimholt the Lost
 
 *Tiefling Baker (Commoners), Age 27, Female*
@@ -13,7 +19,6 @@
 Very short and athletic, with Carefully styled silver hair and Blue eyes. Weathered skin. Burn scars on one side of face.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Extremely superstitious about everything; Collects unusual and worthless objects
@@ -36,37 +41,30 @@ Family has worked the same trade for generations, but times are changing They're
 - **Short Term**: Make this month's payment
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Faelyn Youngblood the Redeemed (Criminal - Handler)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Idris Darkwater the Fallen (Personal - Childhood friend)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ### Lyanna Underhill the Cunning (Professional - Employer)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Baelor Emberfall the Fallen (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
-
 
 ### Hilda Zephyrblade the Seeker (Political - Opposition)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Hestara Proudmore the Wise (Professional - Mentor)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Can hear the thoughts of others

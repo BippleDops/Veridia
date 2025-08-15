@@ -1,4 +1,5 @@
 ---
+aliases: ["Eldritch Tome of Power", "eldritch tome of power", "Power of Tome Eldritch"]
 tags: [generated]
 id: ITEM0036
 created: 2025-08-15T04:09:51.089Z
@@ -19,8 +20,6 @@ Crafted from starfall iron with delicate filigree, in ancient but unbreakable. I
 
 ## Quirk
 *Glows during full moon*
-
-
 
 ## History
 This item was hidden away by its last owner decades ago. It has passed through many hands, each leaving their mark upon its destiny.

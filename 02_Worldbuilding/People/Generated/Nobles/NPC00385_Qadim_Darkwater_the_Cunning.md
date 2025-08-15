@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Darkwater the Cunning", "qadim darkwater the cunning", "Qadim Darkwater Cunning", "Cunning the Darkwater Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Darkwater the Cunning
 
 *Tabaxi Heir (Nobles), Age 36, Male*
@@ -13,7 +19,6 @@
 Below average and compact, with Partially shaved black hair and Amber eyes. Tan skin. Constantly changing hair color.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Always hungry and eating something; Never backs down from any challenge; Constantly quotes ancient texts
@@ -36,7 +41,6 @@ Exiled from their homeland, trying to rebuild their power base A chance encounte
 - **Short Term**: Sabotage competition
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Kaelen Stormwind the Cunning (Political - Ally)
 - **Status**: Blood oath bound
@@ -52,11 +56,9 @@ Exiled from their homeland, trying to rebuild their power base A chance encounte
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Branwen Moonshadow (Criminal - Target)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Practicing forbidden magic

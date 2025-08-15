@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Hawthorne the Redeemed", "xander hawthorne the redeemed", "Xander Hawthorne Redeemed", "Redeemed the Hawthorne Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Hawthorne the Redeemed
 
 *Halfling Trader (Merchants), Age 36, Female*
@@ -36,22 +42,18 @@ Built their business from nothing through cunning and hard work They're being bl
 - **Short Term**: Gather information
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Jorah Underhill the Swift (Personal - Nemesis)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Branwen Brightblade the Scholar (Family - Spouse)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Drusilla Oakenshield the Fallen (Personal - Nemesis)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ### Lyanna Crystalbrook the Guardian (Personal - Ex-lover)
 - **Status**: Blood oath bound

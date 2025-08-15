@@ -55,7 +55,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -162,7 +162,7 @@ The current Crystal Sovereign, Prism-Heart the Radiant, has begun showing signs 
 2. **The Whispering Walls** - Crystal formations throughout palace beginning to relay disturbing messages
 3. **The Memory Storm** - Historical crystal imprints becoming active, threatening to rewrite current reality
 
-### [[[[Supernatural Mysterie]]s]]
+### [[Supernatural Mysterie|[[Supernatural Mysterie]]s]]
 1. **The Doppelganger Court** - Crystal reflections of courtiers acting independently and contradicting originals
 2. **The Time Loop Chambers** - Certain rooms trapping visitors in recursive temporal cycles
 3. **The Light Thief** - Something draining illumination from palace, creating expanding zones of dangerous darkness
@@ -182,7 +182,7 @@ The Crystal Palace represents the ultimate expression of magical architecture, w
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Emphasize the synesthetic quality of the palace—sounds have colors, lights have textures, and emotions leave visible trails in the crystal. Use the structure itself as an active participant in political intrigue, with walls that remember conversations and light patterns that reveal hidden truths.
 
@@ -206,13 +206,11 @@ Crystal Palace is a notable location characterized by its unique features and st
 ### Founding
 Crystal Palace was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -220,13 +218,11 @@ Crystal Palace was established in the distant past, growing from humble beginnin
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -274,7 +270,6 @@ Ongoing situations affecting Crystal Palace:
 - 20% middle class
 - 79% working poor
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -310,3 +305,10 @@ Ongoing situations affecting Crystal Palace:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[02_Worldbuilding_Places_The_Crystal_Palace]]
+- [[Crystal Palace Throne Room]]
+- [[The Crystal Palace]]
+- [[The Tethyan Hegemony]]

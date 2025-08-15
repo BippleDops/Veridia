@@ -1,3 +1,9 @@
+---
+aliases: ["Warded Boots of the Guardian", "warded boots of the guardian", "Warded Boots of Guardian", "Guardian the of Boots Warded"]
+tags: [item, equipment]
+type: item
+---
+
 # Warded Boots of the Guardian
 
 *Armor, Very Rare*
@@ -16,8 +22,6 @@ A warded boots shimmering with energy
 - Advantage on saving throws
 - Reduces damage by 3
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -32,7 +36,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.389Z*

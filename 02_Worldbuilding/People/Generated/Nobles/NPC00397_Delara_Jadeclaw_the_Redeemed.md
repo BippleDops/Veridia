@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Jadeclaw the Redeemed", "delara jadeclaw the redeemed", "Delara Jadeclaw Redeemed", "Redeemed the Jadeclaw Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Jadeclaw the Redeemed
 
 *Dragonborn Heir (Nobles), Age 64, Female*
@@ -47,11 +53,9 @@ Last survivor of a fallen house, seeking to restore family honor A chance encoun
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Vesper Blackstone the Wise (Family - Child)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

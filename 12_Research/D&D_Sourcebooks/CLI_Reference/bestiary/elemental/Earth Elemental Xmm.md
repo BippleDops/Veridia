@@ -161,3 +161,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[earth-elemental-xmm (elemental)]]
+- [[Axe of the Dwarvish Lords Xdmg]]
+- [[Elemental Gem Yellow Diamond Xdmg]]
+- [[Ironfang Pota]]
+- [[Stone of Controlling Earth Elementals Xdmg]]
+- [[axe-of-the-dwarvish-lords-xdmg (items)]]
+- [[elemental-gem-yellow-diamond-xdmg (items)]]
+- [[ironfang-pota (items)]]
+- [[stone-of-controlling-earth-elementals-xdmg (items)]]
+- [[Monsters by Habitat Mountain Monsters Xmm]]
+- [[monsters-by-habitat-mountain-monsters-xmm (tables)]]

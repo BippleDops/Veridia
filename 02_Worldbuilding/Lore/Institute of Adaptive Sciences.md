@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -72,7 +72,7 @@ Institute of Adaptive Sciences represents a crucial aspect of the world's histor
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -85,3 +85,9 @@ Institute of Adaptive Sciences represents a crucial aspect of the world's histor
 - Someone is blackmailing an heir for love
 - Someone is protecting an heir for revenge
 - A letter reveals a betrayal about the cult
+
+## References
+
+- [[Institute of Adaptive Sciences_1 (02_Worldbuilding)]]
+- [[Institute_of_Adaptive_Sciences (02_Worldbuilding)]]
+- [[System Cli Spells School Transmutation]]

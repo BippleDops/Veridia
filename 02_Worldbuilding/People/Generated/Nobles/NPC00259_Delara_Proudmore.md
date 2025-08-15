@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Proudmore", "delara proudmore", "Proudmore Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Proudmore
 
 *Gnome Ambassador (Nobles), Age 40, Male*
@@ -36,12 +42,10 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Complete current contract
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Gavril Nightfall (Family - Cousin)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
-
 
 ### Drusilla Nightfall the Lost (Personal - Ex-lover)
 - **Status**: Secretly hostile
@@ -52,16 +56,13 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Delara Ashford the Risen (Criminal - Target)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Orion Silverleaf (Political - Patron)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Secretly funding the rebellion

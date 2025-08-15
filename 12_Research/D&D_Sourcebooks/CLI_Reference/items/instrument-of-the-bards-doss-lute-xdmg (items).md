@@ -79,3 +79,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - The authorities needs help finding before the festival
 - The authorities needs help stealing before winter
 - A letter reveals the truth about a local noble
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Instrument of the Bards Xdmg]]
+- [[instrument-of-the-bards-xdmg (items)]]
+- [[Implements Uncommon Xdmg]]
+- [[Magic Item Table F]]
+- [[Random Magic Items Implements]]
+- [[implements-uncommon-xdmg (tables)]]
+- [[magic-item-table-f (tables)]]
+- [[random-magic-items-implements (tables)]]

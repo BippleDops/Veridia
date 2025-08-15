@@ -32,19 +32,19 @@ historical_period: Ancient origins, continuous development
 magical_intensity: Moderate to High
 magical_properties: Elemental wind manipulation and weather influence
 practitioners:
-- '[[The [[Wind Singer]]s Guild]]'
+- '[[Wind Singer|The [[Wind Singer]]s Guild]]'
 - '[[Master Melodist Zephyr Cloudwalker]]'
 - '[[The Stormcaller Chorus]]'
 - '[[Wandering Wind Minstrels]]'
 preservation_status: Actively maintained and evolving
 [[region]]s:
 - '[[The Windswept Heights]]'
-- '[[[[Port Meridian]] Harbor]]'
-- '[[The [[Royal Palace]]]]'
+- '[[Port Meridian|[[Port Meridian]] Harbor]]'
+- '[[Royal Palace|The [[Royal Palace]]]]'
 - '[[Lighthouse Peak   Resoce Chamber]]'
 related_phenomena:
 - '[[Resoce Peaks]]'
-- '[[The [[Lighthouse of Storms]]]]'
+- '[[Lighthouse_of_Storms|The [[Lighthouse of Storms]]]]'
 - '[[Crystal Resoce Networks]]'
 - '[[Temporal Wind Patterns]]'
 transmission_method: Oral tradition with magical resoce
@@ -68,7 +68,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -546,7 +546,7 @@ Developing techniques for teaching wind songs to individuals from cultures witho
 Thoughtful incorporation of helpful technologies:
 
 **Communication Enhancement:**
-Using magical [[Communication Systems]] to coordinate large-scale wind-song events while preserving traditional acoustic elements.
+Using magical [[Communication_Systems|Communication Systems]] to coordinate large-scale wind-song events while preserving traditional acoustic elements.
 
 **Weather Prediction:**
 Integrating advanced weather forecasting with traditional wind-reading techniques to improve effectiveness.
@@ -731,7 +731,7 @@ Aetheric Wind Songs is a sky-borne element of the setting, known for brass fitti
 
 Legends speak of Aetheric Wind Songs as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aetheric Wind Songs.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -760,3 +760,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[Sky Burial Traditions (D&D_References)]]

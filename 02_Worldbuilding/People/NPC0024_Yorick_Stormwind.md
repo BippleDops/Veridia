@@ -1,8 +1,8 @@
 ---
+aliases: ["Yorick Stormwind", "yorick stormwind", "Stormwind Yorick"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -73,8 +73,6 @@ Born into a noble family but cast out for scandal. Years ago, they lost everythi
 ### Skills
 Arcana, Perception
 
-
-
 ## Possessions
 - 38 gold pieces
 - Book of poetry
@@ -88,7 +86,6 @@ Arcana, Perception
 
 ---
 *Generated: 2025-08-15T03:21:04.028Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

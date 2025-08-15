@@ -71,7 +71,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -426,7 +426,7 @@ The Sanctuary represents the ultimate expression of [[Aquabyssos]]' post-Catastr
 **Location**: Find suitable dimensional conditions for new sanctuary construction
 **Construction**: Assist with complex magical engineering of dimensional space
 **Population**: Help relocate volunteers to reduce crowding in original sanctuary
-**Network**: Create support and [[Communication Systems]] between multiple sanctuaries
+**Network**: Create support and [[Communication_Systems|Communication Systems]] between multiple sanctuaries
 
 ### The Compression Cycles
 
@@ -515,7 +515,7 @@ The Sanctuary represents the ultimate expression of [[Aquabyssos]]' post-Catastr
 **Related [[Npc]]s**:
 - [[Keeper Temporal Safehaven]]
 - [[Sanctuary Council Members]]  
-- [[Refugee [[Community Leaders]]]]
+- [[Community Leaders|Refugee [[Community Leaders]]]]
 - [[Dimensional Researchers]]
 - [[Architect Temporal Wisdom]]
 
@@ -524,7 +524,7 @@ The Sanctuary represents the ultimate expression of [[Aquabyssos]]' post-Catastr
 - [[Refugee Integration Protocols]]
 - [[Community Resource Sharing]]
 - [[Sanctuary Emergency Systems]]
-- [[Faith-Stability [[Magical Theory]]]]
+- [[Magical Theory|Faith-Stability [[Magical Theory]]]]
 
 ## Player-Facing Summary
 
@@ -541,7 +541,7 @@ Legends speak of The Shrinking Sanctuary as a nexus where past and present conve
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -565,13 +565,11 @@ The Shrinking Sanctuary is a notable location characterized by its unique featur
 ### Founding
 The Shrinking Sanctuary was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -579,13 +577,11 @@ The Shrinking Sanctuary was established in the distant past, growing from humble
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -621,7 +617,6 @@ Ongoing situations affecting The Shrinking Sanctuary:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions

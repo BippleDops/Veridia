@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Emberfall the Redeemed", "lyanna emberfall the redeemed", "Lyanna Emberfall Redeemed", "Redeemed the Emberfall Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Emberfall the Redeemed
 
 *Goliath Shopkeeper (Merchants), Age 46, Non-binary*
@@ -13,7 +19,6 @@
 Towering and lanky, with Short and neat auburn hair and Brown eyes. Dark skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Collects unusual and worthless objects
@@ -36,12 +41,10 @@ Inherited a failing business and turned it around A chance encounter last winter
 - **Short Term**: Make this month's payment
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Faelyn Crystalbrook the Redeemed (Personal - Love interest)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ### Elric Ironwood the Swift (Political - Ally)
 - **Status**: On the verge of collapse
@@ -51,7 +54,6 @@ Inherited a failing business and turned it around A chance encounter last winter
 ### Drusilla Frostwhisper the Redeemed (Professional - Mentor)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Is actually a spy for foreign power

@@ -6,12 +6,12 @@ tags: ['[[Lore]]']
 
 ## Overview
 
-[[The_Community_Sky-Platforms (02_Worldbuilding)]]/Places/[[Aqu[[Abyssos Prime]]]] represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
+[[The_Community_Sky-Platforms (02_Worldbuilding)]]/Places/[[Abyssos Prime|Aqu[[Abyssos Prime]]]] represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
 
 ## Description
 
 ### Basic Information
-[[02 Worldbuilding]]/Places/Aquabyssos Prime can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:
+[[02_Worldbuilding|02 Worldbuilding]]/Places/Aquabyssos Prime can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:
 - Physical: A tangible thing or place
 - Conceptual: An idea or belief system
 - Event: Something that happened or will happen

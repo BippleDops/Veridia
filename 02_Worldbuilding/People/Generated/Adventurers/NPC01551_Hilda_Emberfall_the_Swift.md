@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Emberfall the Swift", "hilda emberfall the swift", "Hilda Emberfall Swift", "Swift the Emberfall Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Emberfall the Swift
 
 *Human Cleric (Adventurers), Age 31, Non-binary*
@@ -36,12 +42,10 @@ Accidentally gained powers and learning to control them They've made a deal they
 - **Short Term**: Find missing person
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Pyria Jadeclaw the Strong (Family - Child)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ### Gareth Dawnstrider the Cunning (Criminal - Informant)
 - **Status**: Secretly hostile

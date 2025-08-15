@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Thornweave the Lost", "pyria thornweave the lost", "Pyria Thornweave Lost", "Lost the Thornweave Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Thornweave the Lost
 
 *Tabaxi Ranger (Adventurers), Age 46, Non-binary*
@@ -36,22 +42,18 @@ Accidentally gained powers and learning to control them They've made a deal they
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Pyria Thornweave the Scholar (Criminal - Informant)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Erasmus Crystalbrook the Broken (Criminal - Fence)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Branwen Xendar the Bold (Political - Patron)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Carries a world-ending artifact

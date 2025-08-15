@@ -1,4 +1,5 @@
 ---
+aliases: ["Prophecy of the First King", "prophecy of the first king", "Prophecy of First King", "King First the of Prophecy"]
 tags: [generated]
 id: LORE0032_Prophecy_of_the_First_King
 created: 2025-08-15T04:09:51.136Z

@@ -1,3 +1,9 @@
+---
+aliases: ["Radiant Crossbow of Wounding", "radiant crossbow of wounding", "Wounding of Crossbow Radiant"]
+tags: [item, equipment]
+type: item
+---
+
 # Radiant Crossbow of Wounding
 
 *Weapons, Very Rare*
@@ -16,8 +22,6 @@ A radiant crossbow forged from meteoric iron
 - Deals extra 1d6 elemental damage
 - Ignores resistance to damage type
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -32,7 +36,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.358Z*

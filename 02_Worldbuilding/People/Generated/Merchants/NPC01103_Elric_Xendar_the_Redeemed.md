@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Xendar the Redeemed", "elric xendar the redeemed", "Elric Xendar Redeemed", "Redeemed the Xendar Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Xendar the Redeemed
 
 *Aasimar Trader (Merchants), Age 36, Non-binary*
@@ -36,27 +42,22 @@ Built their business from nothing through cunning and hard work They've been mar
 - **Short Term**: Survive until next week
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Zephyr Ashford the Swift (Political - Opposition)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
 
-
 ### Brenna Proudmore the Mystic (Professional - Partner)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
-
 
 ### Fiora Crystalbrook the Bold (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Vesper Ravenheart the Guardian (Political - Puppet)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Smuggles illegal magical items

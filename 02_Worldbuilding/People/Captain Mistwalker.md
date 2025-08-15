@@ -36,12 +36,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-mistwalker-captain-mistwalker.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -176,7 +174,6 @@ Captain Mistwalker is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -246,3 +243,9 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City Cathedral of Light Cathedral of Light.png]]
+- [[Assets Locations Location City Ghost of Dr Thaddeus Brightwater Ghost of Dr Thaddeus Brightwater.svg]]
+- [[Assets Portraits Portrait NPC Patriarch Valdris Lightbringer Patriarch Valdris Lightbringer.png]]

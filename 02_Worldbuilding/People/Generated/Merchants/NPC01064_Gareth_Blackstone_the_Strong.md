@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Blackstone the Strong", "gareth blackstone the strong", "Gareth Blackstone Strong", "Strong the Blackstone Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Blackstone the Strong
 
 *Dragonborn Shopkeeper (Merchants), Age 68, Male*
@@ -36,32 +42,26 @@ Uses their business as cover for other activities A chance encounter last winter
 - **Short Term**: Make this month's payment
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Malakai Moonshadow the Redeemed (Criminal - Informant)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Caelum Proudmore the Mystic (Personal - Nemesis)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ### Kaelen Ashford the Seeker (Family - Sibling)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
 
-
 ### Thalia Ironwood the Bold (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
 
-
 ### Gavril Darkwater the Risen (Criminal - Informant)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Running a cult from their basement

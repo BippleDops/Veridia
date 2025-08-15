@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Ashford the Cunning", "lyanna ashford the cunning", "Lyanna Ashford Cunning", "Cunning the Ashford Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Ashford the Cunning
 
 *Tiefling Baker (Commoners), Age 45, Male*
@@ -42,16 +48,13 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Aldric Stormwind the Seeker (Criminal - Target)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Aeliana Proudmore the Fallen (Professional - Employer)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ### Aeliana Ravenheart the Risen (Family - Parent)
 - **Status**: Blood oath bound
@@ -62,11 +65,9 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Idris Underhill the Bold (Criminal - Handler)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Witnessed a noble's crime

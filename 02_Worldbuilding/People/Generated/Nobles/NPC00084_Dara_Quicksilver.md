@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Quicksilver", "dara quicksilver", "Quicksilver Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Quicksilver
 
 *Human Noble (Nobles), Age 28, Non-binary*
@@ -13,7 +19,6 @@
 Very short and lanky, with Long and flowing unusual color hair and Brown eyes. Freckled skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Incredibly optimistic despite evidence; Laughs at the most inappropriate times; Never uses people's real names
@@ -36,7 +41,6 @@ Secretly adopted into nobility, living in fear of discovery They've fallen in lo
 - **Short Term**: Gather information
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Wynne Lightbringer (Personal - Ex-lover)
 - **Status**: Blood oath bound
@@ -47,11 +51,9 @@ Secretly adopted into nobility, living in fear of discovery They've fallen in lo
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
 
-
 ### Rhiannon Oakenshield the Fallen (Criminal - Handler)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Actually a bastard with no real claim

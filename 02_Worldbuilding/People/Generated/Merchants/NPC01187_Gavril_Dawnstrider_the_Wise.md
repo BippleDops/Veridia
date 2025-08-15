@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Dawnstrider the Wise", "gavril dawnstrider the wise", "Gavril Dawnstrider Wise", "Wise the Dawnstrider Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Dawnstrider the Wise
 
 *Half-Elf Shopkeeper (Merchants), Age 68, Male*
@@ -36,7 +42,6 @@ Built their business from nothing through cunning and hard work They recently di
 - **Short Term**: Complete current contract
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Faelyn Winterborn the Strong (Personal - Love interest)
 - **Status**: Professional only
@@ -46,7 +51,6 @@ Built their business from nothing through cunning and hard work They recently di
 ### Kaelen Crystalbrook the Cunning (Criminal - Accomplice)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ### Lyanna Dawnstrider the Risen (Political - Puppet)
 - **Status**: Secretly hostile

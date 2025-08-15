@@ -59,3 +59,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A document has gone missing and truth emerges
 - A corpse reveals a betrayal about the cult
+
+## References
+
+- [[Party Shadows (Criminal_Organizations)]]
+- [[Aethermoor - Session 03 Council of Shadows]]
+- [[Party Shadows]]

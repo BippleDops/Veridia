@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Silverleaf the Risen", "nerys silverleaf the risen", "Nerys Silverleaf Risen", "Risen the Silverleaf Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Silverleaf the Risen
 
 *Gnome Cultist (Villains), Age 33, Non-binary*
@@ -13,7 +19,6 @@
 Above average and athletic, with Tied back red hair and Green eyes. Tan skin. Missing finger on left hand.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Believes in every conspiracy theory; Always speaks in metaphors and riddles; Incredibly optimistic despite evidence
@@ -36,17 +41,14 @@ Corrupted by an artifact or dark magic They're being blackmailed by someone from
 - **Short Term**: Complete current contract
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Branwen Keenblade the Lost (Political - Opposition)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Thalia Nightfall the Fallen (Family - Sibling)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ### Jorah Proudmore the Fallen (Political - Ally)
 - **Status**: Secretly hostile
@@ -61,7 +63,6 @@ Corrupted by an artifact or dark magic They're being blackmailed by someone from
 ### Faelyn Grimholt the Scholar (Family - Child)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Is being controlled by darker force

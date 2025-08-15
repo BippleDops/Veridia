@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Oakenshield the Wanderer", "qadim oakenshield the wanderer", "Qadim Oakenshield Wanderer", "Wanderer the Oakenshield Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Oakenshield the Wanderer
 
 *Halfling Rogue (Adventurers), Age 19, Non-binary*
@@ -42,7 +48,6 @@ Running from a dark past that won't stay buried They've been marked by a secret 
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Drusilla Dawnstrider the Lost (Family - Parent)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
@@ -52,16 +57,13 @@ Running from a dark past that won't stay buried They've been marked by a secret 
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Lyanna Hawthorne the Wise (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Dara Xendar the Swift (Personal - Nemesis)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Carries a world-ending artifact

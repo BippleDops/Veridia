@@ -180,7 +180,7 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[Captain Scale Walker]] (enemy)
+- [[Portrait NPC Captain Scale Walker Captain Scale Walker.svg|Captain Scale Walker]] (enemy)
 - [[Quest   The Corruption Files]] (colleague)
 - [[#Cross Campaign Characters]] (colleague)
 ---

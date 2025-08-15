@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Darkwater the Broken", "malakai darkwater the broken", "Malakai Darkwater Broken", "Broken the Darkwater Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Darkwater the Broken
 
 *Goliath Rogue (Adventurers), Age 43, Female*
@@ -36,7 +42,6 @@ Chosen by fate to fulfill an ancient prophecy They've fallen in love with someon
 - **Short Term**: Find missing person
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Caelum Goldleaf the Swift (Political - Spy)
 - **Status**: Blood oath bound
@@ -47,11 +52,9 @@ Chosen by fate to fulfill an ancient prophecy They've fallen in love with someon
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Fiora Ironforge the Strong (Personal - Best friend)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Has died and been resurrected

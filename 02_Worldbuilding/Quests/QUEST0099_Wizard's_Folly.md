@@ -1,4 +1,5 @@
 ---
+aliases: ["Wizard's Folly", "wizard's folly", "Folly Wizard's"]
 tags: [quest, adventure, generated]
 type: quest
 ---
@@ -20,8 +21,6 @@ Discover the truth behind the disappearances
 
 ### Secondary
 - Minimize civilian casualties
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they was falsely accused of a crime, which changed their life forever. Now, circumstances demand immediate action.

@@ -197,3 +197,7 @@ This NPC can serve multiple roles:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-torrent-swiftcurrent-captain-torrent-swiftcurrent.svg]]

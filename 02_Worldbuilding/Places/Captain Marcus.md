@@ -58,7 +58,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -179,7 +179,7 @@ He's also been quietly preparing contingency plans for various scenarios, includ
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Captain Marcus serves as a reliable military contact and source of information about external threats to Aquabyssos. His neutral political stance makes him useful to any party regardless of their factional allegiances, while his military resources can provide transportation and support for mari[[Time]] adventures. Use him to represent the professional military's concerns about how political conflicts might affect the city's defenses.
 
@@ -208,13 +208,11 @@ Captain Marcus is a notable location characterized by its unique features and st
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -222,13 +220,11 @@ Captain Marcus is a notable location characterized by its unique features and st
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -262,7 +258,6 @@ Ongoing situations affecting Captain Marcus:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -299,3 +294,7 @@ Ongoing situations affecting Captain Marcus:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Trade Route Establishment]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Darkwater the Redeemed", "dara darkwater the redeemed", "Dara Darkwater Redeemed", "Redeemed the Darkwater Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Darkwater the Redeemed
 
 *Genasi Broker (Merchants), Age 60, Female*
@@ -36,12 +42,10 @@ Uses their business as cover for other activities They're being blackmailed by s
 - **Short Term**: Make this month's payment
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Hestara Dawnstrider the Wise (Political - Opposition)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ### Baelor Zephyrblade the Seeker (Professional - Rival)
 - **Status**: Professional only
@@ -57,11 +61,9 @@ Uses their business as cover for other activities They're being blackmailed by s
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Felicia Goldleaf the Broken (Criminal - Target)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Smuggles illegal magical items

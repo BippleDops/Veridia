@@ -109,3 +109,11 @@ improvements: 20
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[Economic Crime Methods]]
+- [[Merchant Family Alliances]]
+- [[Abyssos Prime Docks]]
+- [[Port Meridian - Market Square]]
+- [[The Free Current]]

@@ -53,7 +53,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *Links to related content will be added here.*
 
-
 ## Sensory Details
 - **Sight**: Visual impressions
 - **Sound**: Ambient noises

@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Blackstone the Redeemed", "baelor blackstone the redeemed", "Baelor Blackstone Redeemed", "Redeemed the Blackstone Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Blackstone the Redeemed
 
 *Elf Aristocrat (Nobles), Age 20, Non-binary*
@@ -36,27 +42,22 @@ Recently elevated to nobility through service, still learning courtly ways A pro
 - **Short Term**: Make this month's payment
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Cedric Grimholt (Political - Opposition)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Hestara Silverleaf (Family - Parent)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
-
 
 ### Baelor Ashford the Scholar (Family - Cousin)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
 
-
 ### Malakai Frostwhisper (Criminal - Target)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Child from scandalous affair

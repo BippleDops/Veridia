@@ -1,3 +1,9 @@
+---
+aliases: ["Blessed Axe of Speed", "blessed axe of speed", "Speed of Axe Blessed"]
+tags: [item, equipment]
+type: item
+---
+
 # Blessed Axe of Speed
 
 *Weapons, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A blessed axe forged from meteoric iron
 - Returns when thrown
 - Deals extra 1d6 elemental damage
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -30,7 +34,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.355Z*

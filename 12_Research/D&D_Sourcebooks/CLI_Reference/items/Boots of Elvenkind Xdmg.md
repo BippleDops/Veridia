@@ -83,3 +83,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Implements Uncommon Xdmg]]
+- [[Magic Item Categories Xdmg]]
+- [[Magic Item Table F]]
+- [[Random Magic Items Implements]]
+- [[implements-uncommon-xdmg (tables)]]
+- [[magic-item-categories-xdmg (tables)]]
+- [[magic-item-table-f (tables)]]
+- [[random-magic-items-implements (tables)]]

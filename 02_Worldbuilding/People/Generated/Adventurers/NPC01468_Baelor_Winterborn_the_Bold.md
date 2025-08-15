@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Winterborn the Bold", "baelor winterborn the bold", "Baelor Winterborn Bold", "Bold the Winterborn Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Winterborn the Bold
 
 *Dwarf Wizard (Adventurers), Age 24, Non-binary*
@@ -13,7 +19,6 @@
 Towering and athletic, with Dreadlocks unusual color hair and Blue eyes. Pale skin. Weather-beaten face showing hard life.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Believes in every conspiracy theory
@@ -36,17 +41,14 @@ Accidentally gained powers and learning to control them An old debt has come due
 - **Short Term**: Gather information
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Fiora Dawnstrider the Strong (Professional - Rival)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Solas Darkwater the Scholar (Political - Opposition)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ### Gareth Ashford the Risen (Political - Opposition)
 - **Status**: Strained but maintaining
@@ -61,7 +63,6 @@ Accidentally gained powers and learning to control them An old debt has come due
 ### Drusilla Ashford the Broken (Political - Spy)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Is from the future

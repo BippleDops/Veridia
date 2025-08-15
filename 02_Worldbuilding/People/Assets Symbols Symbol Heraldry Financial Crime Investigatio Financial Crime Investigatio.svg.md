@@ -188,3 +188,7 @@ This NPC can serve multiple roles:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-forge-master-petra-hammerdeep-forge-master-petra-hammerdeep.svg]]

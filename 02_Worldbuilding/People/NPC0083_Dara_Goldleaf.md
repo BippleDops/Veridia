@@ -1,11 +1,11 @@
 ---
+aliases: ["Dara Goldleaf", "dara goldleaf", "Goldleaf Dara"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -77,7 +77,6 @@ Investigation, Stealth, Insight
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 83 gold pieces
 - Letter of recommendation
@@ -89,7 +88,6 @@ Investigation, Stealth, Insight
 
 ---
 *Generated: 2025-08-15T03:21:04.035Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

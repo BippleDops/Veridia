@@ -1,3 +1,9 @@
+---
+aliases: ["Greater Potion of Healing", "greater potion of healing", "Healing of Potion Greater"]
+tags: [item, equipment]
+type: item
+---
+
 # Greater Potion of Healing
 
 *Consumables, Common*

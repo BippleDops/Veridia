@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Jadeclaw", "faelyn jadeclaw", "Jadeclaw Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Jadeclaw
 
 *Gnome Noble (Nobles), Age 19, Male*
@@ -13,7 +19,6 @@
 Below average and stocky, with Short and neat red hair and Hazel eyes. Olive skin. Birthmark shaped like a constellation.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Collects unusual and worthless objects; Laughs at the most inappropriate times; Compulsive liar about minor things
@@ -36,12 +41,10 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Sabotage competition
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Malakai Crystalbrook (Family - Parent)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ### Solas Ironwood the Cunning (Personal - Nemesis)
 - **Status**: Mutually beneficial
@@ -52,16 +55,13 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Wynne Proudmore (Personal - Best friend)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Drusilla Thornweave the Scholar (Personal - Nemesis)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Practicing forbidden magic

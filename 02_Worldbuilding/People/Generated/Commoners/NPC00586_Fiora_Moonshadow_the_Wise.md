@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Moonshadow the Wise", "fiora moonshadow the wise", "Fiora Moonshadow Wise", "Wise the Moonshadow Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Moonshadow the Wise
 
 *Dragonborn Baker (Commoners), Age 61, Non-binary*
@@ -36,17 +42,14 @@ Survivor of a disaster that destroyed their village A family member's death has 
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Aeliana Grimholt the Scholar (Personal - Childhood friend)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Lyanna Blackstone (Personal - Nemesis)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ### Hestara Goldleaf the Lost (Professional - Partner)
 - **Status**: Professional only

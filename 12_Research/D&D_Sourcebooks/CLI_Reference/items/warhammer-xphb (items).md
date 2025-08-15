@@ -92,3 +92,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Dwarven Thrower Xdmg]]
+- [[Whelm Xdmg]]
+- [[dwarven-thrower-xdmg (items)]]
+- [[whelm-xdmg (items)]]
+- [[Dwarf Duergar Mtf]]
+- [[dwarf-duergar-mtf (races)]]
+- [[Weapons Phb]]
+- [[Weapons Xphb]]
+- [[weapons-phb (tables)]]
+- [[weapons-xphb (tables)]]

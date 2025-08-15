@@ -48,3 +48,9 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## [[DM_Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[The Queen]]
+- [[The Queen (D&D_References)]]
+- [[The Queen 3 (D&D_References)]]

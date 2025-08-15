@@ -46,5 +46,16 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[02_Worldbuilding_Lore_Aboleth_Mind_Mazes]]
+- [[Abyssal Academy]]
+- [[Ancient Aquabyssos Rulers]]
+- [[Memory Farmers]]
+- [[Abyssal Academy (D&D_References)]]
+- [[Ancient Aquabyssos Rulers (D&D_References)]]
+- [[Memory Farmers (D&D_References)]]
+- [[Whisper Island (D&D_References)]]

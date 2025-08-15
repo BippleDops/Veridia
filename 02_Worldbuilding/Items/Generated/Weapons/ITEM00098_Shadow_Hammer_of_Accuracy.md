@@ -1,3 +1,9 @@
+---
+aliases: ["Shadow Hammer of Accuracy", "shadow hammer of accuracy", "Accuracy of Hammer Shadow"]
+tags: [item, equipment]
+type: item
+---
+
 # Shadow Hammer of Accuracy
 
 *Weapons, Uncommon*
@@ -14,8 +20,6 @@ A shadow hammer forged from meteoric iron
 - Grants advantage on initiative
 - +2 to attack and damage rolls
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -30,7 +34,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.351Z*

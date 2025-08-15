@@ -1,3 +1,9 @@
+---
+aliases: ["Fortified Plate of Grace", "fortified plate of grace", "Grace of Plate Fortified"]
+tags: [item, equipment]
+type: item
+---
+
 # Fortified Plate of Grace
 
 *Armor, Common*
@@ -13,8 +19,6 @@ A fortified plate crafted from exotic materials
 ## Properties
 - Resistance to one damage type
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -29,7 +33,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.381Z*

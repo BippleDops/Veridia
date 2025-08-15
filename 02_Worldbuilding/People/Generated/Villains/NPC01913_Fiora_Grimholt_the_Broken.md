@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Grimholt the Broken", "fiora grimholt the broken", "Fiora Grimholt Broken", "Broken the Grimholt Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Grimholt the Broken
 
 *Firbolg Assassin (Villains), Age 60, Female*
@@ -42,21 +48,17 @@ Betrayed by those they trusted, now seeking revenge on the world They've been ma
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Zephyr Quicksilver the Redeemed (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ### Zephyr Darkwater the Swift (Family - Spouse)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
 
-
 ### Felicia Nightfall the Wise (Professional - Employee)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Believes they're saving the world

@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Ironforge the Lost", "jorah ironforge the lost", "Jorah Ironforge Lost", "Lost the Ironforge Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Ironforge the Lost
 
 *Tabaxi Fighter (Adventurers), Age 37, Male*
@@ -47,7 +53,6 @@ Seeking vengeance for a murdered mentor A family member's death has left them wi
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Branwen Xendar the Scholar (Personal - Love interest)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
@@ -56,7 +61,6 @@ Seeking vengeance for a murdered mentor A family member's death has left them wi
 ### Corvus Ashford the Risen (Professional - Mentor)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Is from the future

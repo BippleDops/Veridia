@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-embassy-of-eternal-shadows-embassy-of-eternal-shadows.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -186,7 +184,6 @@ Member of House Lionblood - Trait: prophecy
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -256,3 +253,9 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City Temple Guardian Marcus the Drowned Temple Guardian Marcus the Drowned.svg]]
+- [[Assets Locations Location City Temple Guardian Marcus the Drowned V1 Temple Guardian Marcus the Drowned.svg]]
+- [[Assets Symbols Symbol Heraldry the War Room Sanctuary the War Room Sanctuary.svg]]

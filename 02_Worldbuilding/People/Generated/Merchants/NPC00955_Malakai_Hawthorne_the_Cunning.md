@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Hawthorne the Cunning", "malakai hawthorne the cunning", "Malakai Hawthorne Cunning", "Cunning the Hawthorne Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Hawthorne the Cunning
 
 *Human Shopkeeper (Merchants), Age 21, Male*
@@ -36,22 +42,18 @@ Former adventurer who retired to open a shop A chance encounter last winter chan
 - **Short Term**: Complete current contract
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Hestara Thornweave the Cunning (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Gavril Keenblade the Seeker (Political - Patron)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Baelor Darkwater the Mystic (Political - Opposition)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Is actually a spy for foreign power

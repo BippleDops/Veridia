@@ -306,7 +306,6 @@ creature: Custom NPC
 - **Saving Throws**: *[Proficient saves]*
 - **Skills**: *[Skill proficiencies]*
 
-
 ## Alternate Descriptions
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
@@ -315,3 +314,7 @@ creature: Custom NPC
 ## Player Tips
 > 🎮 **Strategy**: How to approach this content
 > Work together and communicate
+
+## References
+
+- [[Character_Development_Survey_Quick_Ref]]

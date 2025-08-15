@@ -1,3 +1,9 @@
+---
+aliases: ["Radiant Axe of the Ancients", "radiant axe of the ancients", "Radiant Axe of Ancients", "Ancients the of Axe Radiant"]
+tags: [item, equipment]
+type: item
+---
+
 # Radiant Axe of the Ancients
 
 *Weapons, Uncommon*
@@ -14,8 +20,6 @@ A radiant axe forged from meteoric iron
 - Deals extra 1d6 elemental damage
 - Critical hits on 19-20
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -30,7 +34,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.361Z*

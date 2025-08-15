@@ -1,6 +1,18 @@
-# History Entry 3
+---
+aliases: ["History Entry 3", "history entry 3", "3 Entry History"]
+tags: [note, stub-fixed]
+---
 
-*History*
+# Lore00002 History Entry 3
+
+## Content
+Content to be added.
+
+## Related
+- [[Related content]]
+
+## Notes
+*Stub file automatically populated*
 
 ---
-*ID: LORE00002*
+*Note: This content develops through gameplay and campaign events.*

@@ -70,3 +70,8 @@ Mentioned in The Hidden Prophecy of Depths
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Fortress of the Deeps]]
+- [[Port Meridian Harbor]]

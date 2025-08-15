@@ -91,3 +91,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Strange sightings suggest a conspiracy
 - A prisoner has gone missing and truth emerges
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[09 Appendix B Spells]]
+- [[09-appendix-b-spells (princes-of-the-apocalypse)]]
+- [[Triton Vgm]]
+- [[triton-vgm (races)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Jadeclaw the Strong", "lyanna jadeclaw the strong", "Lyanna Jadeclaw Strong", "Strong the Jadeclaw Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Jadeclaw the Strong
 
 *Genasi Corrupt Noble (Villains), Age 73, Male*
@@ -42,21 +48,17 @@ Believes their evil acts serve a greater good A family member's death has left t
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Gareth Goldleaf the Broken (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ### Qadim Crystalbrook the Scholar (Political - Ally)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Erasmus Darkwater the Fallen (Family - Sibling)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Believes they're saving the world

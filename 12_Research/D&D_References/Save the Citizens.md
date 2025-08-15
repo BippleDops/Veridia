@@ -92,3 +92,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Aethermoor Session 07 the Festival of Transformation]]
+- [[Aethermoor Session 07 the Festival of]]

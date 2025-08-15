@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Keenblade the Strong", "brenna keenblade the strong", "Brenna Keenblade Strong", "Strong the Keenblade Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Keenblade the Strong
 
 *Elf Cultist (Villains), Age 76, Non-binary*
@@ -41,7 +47,6 @@ Driven mad by knowledge humanity wasn't meant to know An old debt has come due a
 ### Delara Goldleaf the Fallen (Personal - Best friend)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
-
 
 ### Jorah Goldleaf the Bold (Family - Child)
 - **Status**: Blood oath bound

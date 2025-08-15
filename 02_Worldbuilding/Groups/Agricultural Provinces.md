@@ -160,3 +160,9 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Merchant Family Alliances]]
+- [[The Transformed Citizens]]
+- [[The Transformed Citizens (D&D_References)]]

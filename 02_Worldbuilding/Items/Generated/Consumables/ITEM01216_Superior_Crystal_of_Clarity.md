@@ -1,3 +1,9 @@
+---
+aliases: ["Superior Crystal of Clarity", "superior crystal of clarity", "Clarity of Crystal Superior"]
+tags: [item, equipment]
+type: item
+---
+
 # Superior Crystal of Clarity
 
 *Consumables, Common*
@@ -13,8 +19,6 @@ A superior crystal emanating sweet fragrance
 ## Properties
 - Resistance for 10 minutes
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -29,7 +33,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.467Z*

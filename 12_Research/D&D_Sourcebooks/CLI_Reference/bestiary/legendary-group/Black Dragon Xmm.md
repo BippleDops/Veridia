@@ -94,3 +94,12 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Adult Black Dragon Xmm]]
+- [[Ancient Black Dragon Xmm]]
+- [[Young Black Dragon Xmm]]
+- [[adult-black-dragon-xmm (dragon)]]
+- [[ancient-black-dragon-xmm (dragon)]]
+- [[young-black-dragon-xmm (dragon)]]

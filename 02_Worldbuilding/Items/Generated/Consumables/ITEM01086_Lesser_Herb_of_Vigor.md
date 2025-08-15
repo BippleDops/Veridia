@@ -1,3 +1,9 @@
+---
+aliases: ["Lesser Herb of Vigor", "lesser herb of vigor", "Vigor of Herb Lesser"]
+tags: [item, equipment]
+type: item
+---
+
 # Lesser Herb of Vigor
 
 *Consumables, Rare (requires attunement)*

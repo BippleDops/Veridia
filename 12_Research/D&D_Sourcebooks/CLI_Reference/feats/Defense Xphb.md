@@ -70,3 +70,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A noble needs help delivering before winter
 - Strange sightings suggest a curse
 - A map reveals the truth about a local noble
+
+## References
+
+- [[06 Chapter 5 Feats]]
+- [[06-chapter-5-feats (players-handbook-2024)]]
+- [[Fighter Xphb]]
+- [[fighter-xphb (classes)]]
+- [[Repeatable Feat List Xphb]]
+- [[repeatable-feat-list-xphb (tables)]]

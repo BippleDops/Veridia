@@ -1,11 +1,11 @@
 ---
+aliases: ["Yorick Goldleaf the Ancient", "yorick goldleaf the ancient", "Yorick Goldleaf Ancient", "Ancient the Goldleaf Yorick"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -79,7 +79,6 @@ Investigation
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 16 gold pieces
 - Map to unknown location
@@ -94,7 +93,6 @@ Investigation
 
 ---
 *Generated: 2025-08-15T03:21:04.037Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

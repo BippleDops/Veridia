@@ -1,3 +1,9 @@
+---
+aliases: ["Enchanted Gauntlets of Grace", "enchanted gauntlets of grace", "Grace of Gauntlets Enchanted"]
+tags: [item, equipment]
+type: item
+---
+
 # Enchanted Gauntlets of Grace
 
 *Armor, Very Rare*

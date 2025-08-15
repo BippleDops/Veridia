@@ -1,3 +1,9 @@
+---
+aliases: ["Elegant Lantern of Durability", "elegant lantern of durability", "Durability of Lantern Elegant"]
+tags: [item, equipment]
+type: item
+---
+
 # Elegant Lantern of Durability
 
 *Mundane, Common*
@@ -13,8 +19,6 @@ A elegant lantern expertly crafted
 ## Properties
 - Provides comfort
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -29,7 +33,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.475Z*

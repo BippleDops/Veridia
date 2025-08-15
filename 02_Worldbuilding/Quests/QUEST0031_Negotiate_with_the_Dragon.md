@@ -1,4 +1,5 @@
 ---
+aliases: ["Negotiate with the Dragon", "negotiate with the dragon", "Negotiate with Dragon", "Dragon the with Negotiate"]
 tags: [generated]
 id: QUEST0031
 created: 2025-08-15T04:09:51.380Z
@@ -22,8 +23,6 @@ Gain access to the sunken temple and complete the ritual
 ### Secondary
 - Document findings for scholars
 - Maintain cover identity
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they found an ancient artifact, which changed their life forever. Now, circumstances demand immediate action.
@@ -54,8 +53,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Show mercy and gain intel - Future ally but justice denied
 2. Execute for crimes committed - Justice served but opportunity lost
-
-
 
 ## Rewards
 ### On Success

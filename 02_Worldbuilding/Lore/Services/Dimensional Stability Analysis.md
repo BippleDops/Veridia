@@ -95,3 +95,7 @@ improvements: 20
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Services Dimensional Stability Analysis]]

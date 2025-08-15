@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Zephyrblade", "zephyr zephyrblade", "Zephyrblade Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Zephyrblade
 
 *Dragonborn Aristocrat (Nobles), Age 54, Female*
@@ -42,31 +48,25 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Idris Ashford the Mystic (Family - Cousin)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
-
 
 ### Brenna Zephyrblade the Wise (Family - Parent)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Hestara Ironforge the Redeemed (Professional - Partner)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ### Lyanna Darkwater the Scholar (Personal - Best friend)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
 
-
 ### Drusilla Proudmore (Personal - Ex-lover)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Actually a bastard with no real claim

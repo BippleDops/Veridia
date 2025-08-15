@@ -1,3 +1,9 @@
+---
+aliases: ["Mithril Chain Mail of Fortitude", "mithril chain mail of fortitude", "Fortitude of Mail Chain Mithril"]
+tags: [item, equipment]
+type: item
+---
+
 # Mithril Chain Mail of Fortitude
 
 *Armor, Uncommon (requires attunement)*

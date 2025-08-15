@@ -61,3 +61,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+## References
+
+- [[List Optfeaturetype Ei]]
+- [[list-optfeaturetype-ei (lists)]]

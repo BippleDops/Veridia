@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Xendar the Wise", "zephyr xendar the wise", "Zephyr Xendar Wise", "Wise the Xendar Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Xendar the Wise
 
 *Elf Cleric (Adventurers), Age 24, Male*
@@ -13,7 +19,6 @@
 Very short and slender, with Carefully styled red hair and Heterochromic eyes. Brown skin. Gold tooth that glints when smiling.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Speaks to inanimate objects; Never uses people's real names; Believes in every conspiracy theory
@@ -36,7 +41,6 @@ Chosen by fate to fulfill an ancient prophecy They recently discovered a secret 
 - **Short Term**: Gather information
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Erasmus Ashford the Wanderer (Criminal - Handler)
 - **Status**: On the verge of collapse
@@ -52,7 +56,6 @@ Chosen by fate to fulfill an ancient prophecy They recently discovered a secret 
 - **Status**: Professional only
 - **History**: United by common enemy
 
-
 ### Qadim Winterborn the Scholar (Professional - Employee)
 - **Status**: One-sided affection
 - **History**: United by common enemy
@@ -61,7 +64,6 @@ Chosen by fate to fulfill an ancient prophecy They recently discovered a secret 
 ### Orion Oakenshield the Wise (Criminal - Target)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Secretly working for the villain

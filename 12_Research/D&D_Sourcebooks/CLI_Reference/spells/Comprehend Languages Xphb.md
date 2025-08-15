@@ -95,3 +95,19 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Mind Flayer Psion Vgm]]
+- [[Swarm of Cranium Rats Mpmm]]
+- [[mind-flayer-psion-vgm (aberration)]]
+- [[swarm-of-cranium-rats-mpmm (aberration)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Helm of Comprehending Languages Xdmg]]
+- [[Potion of Comprehension Xdmg]]
+- [[Staff of Charming Xdmg]]
+- [[helm-of-comprehending-languages-xdmg (items)]]
+- [[potion-of-comprehension-xdmg (items)]]
+- [[staff-of-charming-xdmg (items)]]

@@ -1,11 +1,11 @@
 ---
+aliases: ["Lyra Darkwater", "lyra darkwater", "Darkwater Lyra"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -75,8 +75,6 @@ Former soldier who left after a traumatic battle. Years ago, they accidentally d
 ### Skills
 Athletics, Perception
 
-
-
 ## Possessions
 - 23 gold pieces
 - Mysterious key
@@ -90,7 +88,6 @@ Athletics, Perception
 
 ---
 *Generated: 2025-08-15T03:20:13.086Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

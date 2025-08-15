@@ -162,3 +162,11 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[animated-broom-xmm (construct)]]
+- [[Baba Yagas Dancing Broom Xdmg]]
+- [[baba-yagas-dancing-broom-xdmg (items)]]
+- [[Monsters by Habitat Urban Monsters Xmm]]
+- [[monsters-by-habitat-urban-monsters-xmm (tables)]]

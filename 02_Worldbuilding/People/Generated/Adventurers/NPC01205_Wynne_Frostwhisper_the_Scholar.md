@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Frostwhisper the Scholar", "wynne frostwhisper the scholar", "Wynne Frostwhisper Scholar", "Scholar the Frostwhisper Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Frostwhisper the Scholar
 
 *Dragonborn Fighter (Adventurers), Age 33, Female*
@@ -36,7 +42,6 @@ Running from a dark past that won't stay buried They recently discovered a secre
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Faelyn Moonshadow the Scholar (Family - Parent)
 - **Status**: Complicated history
@@ -47,11 +52,9 @@ Running from a dark past that won't stay buried They recently discovered a secre
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Brenna Nightfall the Broken (Professional - Partner)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ### Urien Zephyrblade the Swift (Criminal - Accomplice)
 - **Status**: Professional only

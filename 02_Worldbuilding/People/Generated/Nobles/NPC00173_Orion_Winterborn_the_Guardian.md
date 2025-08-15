@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Winterborn the Guardian", "orion winterborn the guardian", "Orion Winterborn Guardian", "Guardian the Winterborn Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Winterborn the Guardian
 
 *Firbolg Courtier (Nobles), Age 33, Non-binary*
@@ -47,7 +53,6 @@ Exiled from their homeland, trying to rebuild their power base A family member's
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Ysara Lightbringer (Political - Ally)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
@@ -57,16 +62,13 @@ Exiled from their homeland, trying to rebuild their power base A family member's
 - **Status**: Blood oath bound
 - **History**: Teacher and student relationship
 
-
 ### Elric Frostwhisper the Mystic (Family - Sibling)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
 
-
 ### Branwen Quicksilver (Personal - Best friend)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Secretly funding the rebellion

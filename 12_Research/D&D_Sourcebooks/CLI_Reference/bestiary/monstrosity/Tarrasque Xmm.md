@@ -48,3 +48,12 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Scroll of Titan Summoning Tarrasque Xdmg]]
+- [[scroll-of-titan-summoning-tarrasque-xdmg (items)]]
+- [[Monsters by Habitat Urban Monsters Xmm]]
+- [[Urban Encounters Levels 1720 Xge]]
+- [[monsters-by-habitat-urban-monsters-xmm (tables)]]
+- [[urban-encounters-levels-1720-xge (tables)]]

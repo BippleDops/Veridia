@@ -1,4 +1,5 @@
 ---
+aliases: ["Forgotten Blade of Power", "forgotten blade of power", "Power of Blade Forgotten"]
 tags: [generated]
 id: ITEM0005
 created: 2025-08-15T04:09:51.078Z
@@ -19,8 +20,6 @@ Crafted from darkwood with battle scars, in pristine condition. It emanates a fa
 
 ## Quirk
 *Hums when enemies are near*
-
-
 
 ## History
 This item was stolen from a dragon's hoard millennia ago. It has passed through many hands, each leaving their mark upon its destiny.

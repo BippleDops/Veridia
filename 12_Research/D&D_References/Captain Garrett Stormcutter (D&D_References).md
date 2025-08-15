@@ -47,7 +47,7 @@ relationships:
 - target: '[[Prince Caspian Duskwater]]'
   type: neutral
   strength: 1
-- target: '[[Template Person]]'
+- target: '[[Template Person Placeholder.png|Template Person]]'
 in_combat: true
 initiative: 12
 current_hp: 15

@@ -102,3 +102,16 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Nature Domain]]
+- [[cleric-xphb-nature-domain (classes)]]
+- [[cleric-xphb-nature-domain 2 (classes)]]
+- [[Instrument of the Bards Cli Lyre Xdmg]]
+- [[Ring of Elemental Command Air Xdmg]]
+- [[instrument-of-the-bards-cli-lyre-xdmg (items)]]
+- [[ring-of-elemental-command-air-xdmg (items)]]

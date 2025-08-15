@@ -1,3 +1,9 @@
+---
+aliases: ["Greater Incense of Fortune", "greater incense of fortune", "Fortune of Incense Greater"]
+tags: [item, equipment]
+type: item
+---
+
 # Greater Incense of Fortune
 
 *Consumables, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A greater incense swirling with colors
 - Remove one condition
 - Breathe underwater 1 hour
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -31,7 +35,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.469Z*

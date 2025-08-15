@@ -11,7 +11,7 @@ created: '2025-01-15'
 
 ## Portrait
 
-![[portrait_04_resources_assets_portraits_portrait-npc-captain-twin-reality-marsh-captain-twin-reality-marsh.svg.png]]
+![[04_Resources|portrait_04_resources_assets_portraits_portrait-npc-captain-twin-reality-marsh-captain-twin-reality-marsh.svg.png]]
 
 *Portrait reference for 04_Resources_Assets_Portraits_portrait-npc-captain-twin-reality-marsh-captain-twin-reality-marsh.svg*
 
@@ -75,3 +75,10 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+## References
+
+- [[Assets Locations Location City Quartermaster Judith Steadfast Quartermaster Judith Steadfast.svg]]
+- [[Assets Portraits Portrait NPC Lord Commander Steelborn Lord Commander Steelborn.svg]]
+- [[Assets Symbols Symbol Heraldry Inventor Chief Adaptatio Inventor Chief Adaptatio.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-twin-reality-marsh-captain-twin-reality-marsh.svg_Quick_Ref]]

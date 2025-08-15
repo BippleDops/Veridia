@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Winterborn", "gareth winterborn", "Winterborn Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Winterborn
 
 *Human Aristocrat (Nobles), Age 75, Non-binary*
@@ -13,7 +19,6 @@
 Towering and lanky, with Partially shaved auburn hair and Red eyes. Olive skin. Gold tooth that glints when smiling.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Always speaks in metaphors and riddles; Laughs at the most inappropriate times; Never uses people's real names
@@ -36,22 +41,18 @@ Last survivor of a fallen house, seeking to restore family honor A family member
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Corvus Voidwalker (Professional - Rival)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Pyria Moonshadow (Personal - Best friend)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
 
-
 ### Drusilla Darkwater the Seeker (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Secretly funding the rebellion

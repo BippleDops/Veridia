@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Ashford the Bold", "baelor ashford the bold", "Baelor Ashford Bold", "Bold the Ashford Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Ashford the Bold
 
 *Tiefling Crime Boss (Villains), Age 19, Non-binary*
@@ -42,11 +48,9 @@ Driven mad by knowledge humanity wasn't meant to know They've fallen in love wit
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Urien Darkwater the Redeemed (Political - Spy)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ### Hestara Frostwhisper the Wise (Political - Puppet)
 - **Status**: Complicated history
@@ -56,7 +60,6 @@ Driven mad by knowledge humanity wasn't meant to know They've fallen in love wit
 ### Ysara Crystalbrook the Cunning (Personal - Best friend)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Was once a renowned hero

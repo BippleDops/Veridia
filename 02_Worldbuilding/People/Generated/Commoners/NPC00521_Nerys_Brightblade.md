@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Brightblade", "nerys brightblade", "Brightblade Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Brightblade
 
 *Goliath Baker (Commoners), Age 74, Non-binary*
@@ -42,21 +48,17 @@ Family has worked the same trade for generations, but times are changing An old 
 - **Status**: One-sided affection
 - **History**: United by common enemy
 
-
 ### Ewan Goldleaf the Cunning (Political - Ally)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ### Drusilla Goldleaf the Scholar (Political - Ally)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
 
-
 ### Ewan Nightfall (Criminal - Accomplice)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Knows location of ancient treasure

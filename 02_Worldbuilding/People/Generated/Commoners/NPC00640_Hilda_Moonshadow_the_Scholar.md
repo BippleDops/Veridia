@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Moonshadow the Scholar", "hilda moonshadow the scholar", "Hilda Moonshadow Scholar", "Scholar the Moonshadow Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Moonshadow the Scholar
 
 *Gnome Baker (Commoners), Age 51, Male*
@@ -13,7 +19,6 @@
 Towering and delicate, with Mohawk unusual color hair and Black eyes. Unusual hue skin. Birthmark shaped like a constellation.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Never backs down from any challenge; Always speaks in metaphors and riddles; Always hungry and eating something
@@ -36,22 +41,18 @@ Grew up in poverty but discovered a talent that might change everything A chance
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Corvus Keenblade the Strong (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Delara Underhill the Fallen (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Hestara Quicksilver the Swift (Family - Child)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Witnessed a noble's crime

@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Winterborn the Guardian", "alaric winterborn the guardian", "Alaric Winterborn Guardian", "Guardian the Winterborn Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Winterborn the Guardian
 
 *Dragonborn Cleric (Adventurers), Age 49, Non-binary*
@@ -36,7 +42,6 @@ Running from a dark past that won't stay buried They've made a deal they're begi
 - **Short Term**: Recruit new members
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Kaelen Crystalbrook the Strong (Personal - Love interest)
 - **Status**: Recently reconciled
@@ -47,11 +52,9 @@ Running from a dark past that won't stay buried They've made a deal they're begi
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Solas Silverleaf the Lost (Personal - Love interest)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ### Alaric Underhill the Swift (Personal - Childhood friend)
 - **Status**: Strained but maintaining

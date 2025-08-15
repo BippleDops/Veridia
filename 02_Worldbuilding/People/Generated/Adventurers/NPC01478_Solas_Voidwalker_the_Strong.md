@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Voidwalker the Strong", "solas voidwalker the strong", "Solas Voidwalker Strong", "Strong the Voidwalker Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Voidwalker the Strong
 
 *Elf Bard (Adventurers), Age 66, Female*
@@ -36,22 +42,18 @@ Searching for a legendary treasure their parent died seeking A family member's d
 - **Short Term**: Sabotage competition
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Solas Winterborn the Wanderer (Criminal - Fence)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Aeliana Stormwind the Swift (Political - Puppet)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Lyanna Keenblade the Guardian (Professional - Partner)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Possessed by ancient spirit

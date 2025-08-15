@@ -86,3 +86,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[The Norse Pantheon Norse Deities Phb]]
+- [[the-norse-pantheon-norse-deities-phb (tables)]]

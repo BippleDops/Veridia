@@ -46,7 +46,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -100,7 +100,7 @@ Silverscale Banking House is a undersea element of the setting, known for biolum
 
 Legends speak of Silverscale Banking House as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Silverscale Banking House.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -146,3 +146,21 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Aurelius Goldwave]]
+- [[Consequence Chain 2 - Crystal Trade Disruption]]
+- [[Goldwave Manor]]
+- [[Silver Mask]]
+- [[The Forgetting Bomb]]
+- [[The Silverscale Conspiracy]]
+- [[Aquabyssos Trade Seal (D&D_References)]]
+- [[Goldwave Manor (D&D_References)]]
+- [[Goldwave Manor 3 (D&D_References)]]
+- [[Silver Mask (D&D_References)]]
+- [[The Forgetting Bomb (D&D_References)]]
+- [[The Silverscale Conspiracy (D&D_References)]]
+- [[Aethermoor - Session 04 The Silverscale Gambit]]
+- [[Aurelius Goldwave (D&D_Statblocks)]]

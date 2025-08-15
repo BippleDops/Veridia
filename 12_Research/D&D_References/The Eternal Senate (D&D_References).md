@@ -34,7 +34,7 @@ sub_locations:
 - '[[The Spectral Gallery]]'
 - '[[Chamber of Eternal Debate]]'
 - '[[The Voting Crypts]]'
-- '[[Memory Archive Vaults]]'
+- ''
 - '[[The Speaker''s Throne]]'
 depth: 2200-2400 feet
 government: Undead Parliamentary Democracy

@@ -107,3 +107,18 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Assets Item Artifact Explorers Pack Xphb Explorers Pack Xphb.png]]
+- [[step_037 (phase_017)]]
+- [[step_010 (phase_020)]]
+- [[step_092 (phase_021)]]
+- [[step_079 (phase_023)]]
+- [[step_039 (phase_024)]]
+- [[step_035 (phase_030)]]
+- [[step_074 (phase_046)]]
+- [[step_062 (phase_058)]]
+- [[step_082 (phase_069)]]
+- [[step_057 (phase_075)]]
+- [[step_100 (phase_076)]]

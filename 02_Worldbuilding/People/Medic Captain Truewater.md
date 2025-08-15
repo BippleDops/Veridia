@@ -34,8 +34,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
-
 ## Relationships
 - **Allies**: Notable allies and friends
 - **Rivals**: Competitors and rivals  
@@ -169,7 +167,6 @@ Medic Captain Truewater is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -239,3 +236,9 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Relationship Web Nuances]]
+- [[Assets Locations Location City Pilgrimage Master Depth Guide Melancholy V1 Pilgrimage Master Depth Guide Melancholy.svg]]
+- [[Assets Locations Location City the Crystalline Foundry V1 the Crystalline Foundry.svg]]

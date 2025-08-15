@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Oakenshield the Broken", "faelyn oakenshield the broken", "Faelyn Oakenshield Broken", "Broken the Oakenshield Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Oakenshield the Broken
 
 *Half-Elf Broker (Merchants), Age 26, Female*
@@ -36,12 +42,10 @@ Inherited a failing business and turned it around Strange abilities have begun m
 - **Short Term**: Avoid the authorities
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Dara Emberfall the Mystic (Political - Spy)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ### Elric Blackstone the Strong (Personal - Ex-lover)
 - **Status**: Strong and trusting
@@ -52,11 +56,9 @@ Inherited a failing business and turned it around Strange abilities have begun m
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Thalia Winterborn the Guardian (Personal - Childhood friend)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ### Baelor Goldleaf the Scholar (Professional - Rival)
 - **Status**: One-sided affection

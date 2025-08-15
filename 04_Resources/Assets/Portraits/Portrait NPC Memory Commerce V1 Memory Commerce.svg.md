@@ -123,3 +123,7 @@ improvements: 20
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Assets Vehicles Vehicle Ship Resonance Drive Yacht V2 Resonance Drive Yacht.svg]]

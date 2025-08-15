@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Ashford the Wanderer", "malakai ashford the wanderer", "Malakai Ashford Wanderer", "Wanderer the Ashford Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Ashford the Wanderer
 
 *Gnome Fisher (Commoners), Age 51, Non-binary*
@@ -36,12 +42,10 @@ Runaway from an arranged marriage, starting a new life An old debt has come due 
 - **Short Term**: Recruit new members
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Cedric Stormwind the Swift (Political - Spy)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ### Wynne Xendar the Swift (Political - Ally)
 - **Status**: Blood oath bound
@@ -52,16 +56,13 @@ Runaway from an arranged marriage, starting a new life An old debt has come due 
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
 
-
 ### Wynne Crystalbrook the Guardian (Professional - Employee)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Brenna Stormwind the Fallen (Political - Puppet)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Knows location of ancient treasure

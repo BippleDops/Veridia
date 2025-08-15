@@ -1,4 +1,5 @@
 ---
+aliases: ["Celestial Storm", "celestial storm", "Storm Celestial"]
 tags: [generated]
 id: SPELL0037_Celestial_Storm
 created: 2025-08-15T04:09:51.474Z

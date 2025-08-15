@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Youngblood the Strong", "hilda youngblood the strong", "Hilda Youngblood Strong", "Strong the Youngblood Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Youngblood the Strong
 
 *Human Caravan Master (Merchants), Age 45, Female*
@@ -36,12 +42,10 @@ Inherited a failing business and turned it around Strange abilities have begun m
 - **Short Term**: Sabotage competition
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Drusilla Keenblade the Swift (Family - Spouse)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ### Branwen Goldleaf the Strong (Criminal - Accomplice)
 - **Status**: On the verge of collapse
@@ -51,7 +55,6 @@ Inherited a failing business and turned it around Strange abilities have begun m
 ### Drusilla Lightbringer the Risen (Family - Child)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
-
 
 ### Brenna Goldleaf the Broken (Professional - Employee)
 - **Status**: Professional only

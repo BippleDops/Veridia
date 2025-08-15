@@ -96,7 +96,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -109,3 +108,17 @@ Contextual improvement based on 12_Research
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Tiefling Mammon Mtf]]
+- [[tiefling-mammon-mtf (races)]]
+- [[Knock Xphb]]
+- [[knock-xphb (spells)]]
+- [[Hidden Pit Xdmg]]
+- [[Spiked Pit Xdmg]]
+- [[hidden-pit-xdmg (traps-hazards)]]
+- [[spiked-pit-xdmg (traps-hazards)]]

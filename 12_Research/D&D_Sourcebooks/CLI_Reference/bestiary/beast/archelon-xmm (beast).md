@@ -137,3 +137,11 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Archelon Xmm]]
+- [[3 Animals]]
+- [[3-animals (monster-manual-2025)]]
+- [[Monsters by Habitat Underwater Monsters Xmm]]
+- [[monsters-by-habitat-underwater-monsters-xmm (tables)]]

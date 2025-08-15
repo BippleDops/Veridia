@@ -1,3 +1,9 @@
+---
+aliases: ["Infernal Orb of Destiny", "infernal orb of destiny", "Destiny of Orb Infernal"]
+tags: [item, equipment]
+type: item
+---
+
 # Infernal Orb of Destiny
 
 *Artifacts, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A infernal orb radiating otherworldly power
 - Grant true sight
 - Plane shift 1/day
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -32,7 +36,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.433Z*

@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Quicksilver the Redeemed", "qadim quicksilver the redeemed", "Qadim Quicksilver Redeemed", "Redeemed the Quicksilver Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Quicksilver the Redeemed
 
 *Half-Orc Noble (Nobles), Age 28, Female*
@@ -13,7 +19,6 @@
 Above average and delicate, with Carefully styled silver hair and Blue eyes. Brown skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Laughs at the most inappropriate times; Compulsive liar about minor things
@@ -36,7 +41,6 @@ Exiled from their homeland, trying to rebuild their power base Strange abilities
 - **Short Term**: Sabotage competition
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Jorah Ironwood the Wise (Family - Child)
 - **Status**: Complicated history
@@ -47,7 +51,6 @@ Exiled from their homeland, trying to rebuild their power base Strange abilities
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Cedric Voidwalker the Redeemed (Family - Sibling)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
@@ -57,11 +60,9 @@ Exiled from their homeland, trying to rebuild their power base Strange abilities
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Solas Brightblade the Cunning (Criminal - Fence)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Child from scandalous affair

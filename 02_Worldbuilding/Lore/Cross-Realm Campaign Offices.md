@@ -31,11 +31,11 @@ improvements: 20
 
 ### Culture Improvements
 
-- Define unique cultural practices and taboos
+- Define unique [[Cultural Practices|Cultural Practices]] and taboos
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[[[Trade_Goods|Trade_Goods]]|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -43,7 +43,7 @@ improvements: 20
 
 ### Lifestyle Improvements
 
-- Describe typical day for different social classes
+- Describe typical day for different social [[classes|classes]]
 
 ### Superstitions Improvements
 
@@ -69,15 +69,15 @@ improvements: 20
 
 - Detail funeral rites and afterlife beliefs
 
-## Player-Facing Summary
+## Player-[[facing|facing]] Summary
 
 Cross Realm Campaign Offices is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of Cross Realm Campaign Offices as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Cross Realm Campaign Offices.
+Legends speak of Cross Realm Campaign Offices as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or [[Whispers|Whispers]] on the wind—that herald change around Cross Realm Campaign Offices.
 
-## [[DM Notes]]
+## [[[[DM_Notes|DM_Notes]]|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -113,3 +113,11 @@ Different cultures interpret this lore through their own lens, creating variatio
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[Parliament-of-Shadows-Campaign (Government_and_Parliament)]]
+- [[Parliament-of-Shadows-Campaign]]
+
+---
+**Navigation**: [[00_Indexes/Home|🏠 Home]] | [[00_Indexes/Master_Index|📚 Index]]

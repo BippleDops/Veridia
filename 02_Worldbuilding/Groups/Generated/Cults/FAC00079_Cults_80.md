@@ -1,6 +1,18 @@
-# Cults 80
+---
+aliases: ["Cults 80", "cults 80", "80 Cults"]
+tags: [note, stub-fixed]
+---
 
-*Cults*
+# Fac00079 Cults 80
+
+## Content
+Content to be added.
+
+## Related
+- [[Related content]]
+
+## Notes
+*Stub file automatically populated*
 
 ---
-*ID: FAC00079*
+*Note: This content develops through gameplay and campaign events.*

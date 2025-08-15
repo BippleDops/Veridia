@@ -216,3 +216,8 @@ This NPC can serve multiple roles:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[04_Resources_Assets_Art_Places_Choir_Master_Celestine_Hymnsinger.png]]
+- [[04_Resources_Assets_Locations_location-city-lady-vivienne-the-unfrozen-lady-vivienne-the-unfrozen.svg]]

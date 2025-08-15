@@ -33,7 +33,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -83,7 +83,7 @@ improvements: 20
 
 Legends speak of Emergency Protocols 2 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Emergency Protocols 2.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -116,3 +116,46 @@ Mentioned in The First Prophecy of Depths
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[Aethermoor to Aquabyssos Transition Guide]]
+- [[Aquabyssos Cultural Codex]]
+- [[Aquabyssos Trade Seal]]
+- [[Arcanum Heights]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure]]
+- [[Cross-Realm Etiquette Guide]]
+- [[Crystal Forest]]
+- [[Crystal-Corruption-Tracking-Sheet]]
+- [[Deep Mother Influence]]
+- [[Depth Effect Quick Reference]]
+- [[Emergency Protocol Manual]]
+- [[Emergency Protocols Cente]]
+- [[Fortress of the Deeps]]
+- [[Maritime Emergency Protocols]]
+- [[Pressure Adaptation System]]
+- [[Ritual Redirection Options]]
+- [[Services Emergency Protocol Certification]]
+- [[Temporal Distortion Zones]]
+- [[The Bloom Fields]]
+- [[Tidal Chambers]]
+- [[Umbral Exchange]]
+- [[Underground Smuggling Networks]]
+- [[Wind Song Linguistic Guide]]
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Cross-Dimensional Transit Authority]]
+- [[Elder Matthias Stoneward]]
+- [[Emergency Protocols]]
+- [[Gravity Anomaly Mechanics]]
+- [[Inverted Ballroom Wing]]
+- [[Maelstrom Palace]]
+- [[Pressure Suit Malfunction]]
+- [[Pressure Terminal]]
+- [[Reality Anchor Network]]
+- [[Reflection Pools - Surgical Theater]]
+- [[Royal Palace of Meridian]]
+- [[Royal Palace]]
+- [[The Crystal Wardens]]
+- [[The Forgotten One]]
+- [[The Living Weapon]]
+- [[The Shrinking Sanctuary]]

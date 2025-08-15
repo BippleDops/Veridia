@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Dawnstrider the Fallen", "hilda dawnstrider the fallen", "Hilda Dawnstrider Fallen", "Fallen the Dawnstrider Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Dawnstrider the Fallen
 
 *Genasi Ranger (Adventurers), Age 20, Male*
@@ -13,7 +19,6 @@
 Short and heavyset, with Long and flowing white hair and Black eyes. Olive skin. Gold tooth that glints when smiling.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Collects unusual and worthless objects
@@ -36,7 +41,6 @@ Running from a dark past that won't stay buried A chance encounter last winter c
 - **Short Term**: Survive until next week
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Drusilla Crystalbrook the Scholar (Personal - Best friend)
 - **Status**: On the verge of collapse
@@ -47,11 +51,9 @@ Running from a dark past that won't stay buried A chance encounter last winter c
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Idris Xendar the Lost (Personal - Nemesis)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Is from the future

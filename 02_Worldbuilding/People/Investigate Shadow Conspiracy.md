@@ -34,10 +34,8 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-investigate-shadow-conspiracy-investigate-shadow-conspiracy.svg)
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -247,7 +245,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -283,3 +280,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Senator Glaucus]]
+- [[The Scattered Emperor]]
+- [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
+- [[Senator Glaucus (D&D_References)]]
+- [[The Scattered Emperor (D&D_References)]]
+- [[Aquabyssos - Session 01 - The Drowning Welcome]]

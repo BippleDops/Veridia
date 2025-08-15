@@ -182,7 +182,7 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[Quest   The Queen's Secret]] (friend)
+- [[The Queen|Quest   The Queen's Secret]] (friend)
 - [[04_Resources_Assets_Locations_location-city-cathedral-of-light-cathedral-of-light.png]] (enemy)
 - [[04_Resources_Assets_Locations_location-city-hadrian-depthbridge-v1-hadrian-depthbridge.svg]] (ally)
 ---
@@ -199,3 +199,7 @@ This NPC can serve multiple roles:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-hadrian-depthbridge-v1-hadrian-depthbridge.svg]]

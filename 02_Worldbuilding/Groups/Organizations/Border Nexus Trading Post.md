@@ -130,3 +130,7 @@ Border Nexus Trading Post is a elite order that influences significant aspects o
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Session 05 Cross Currents]]

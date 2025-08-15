@@ -30,7 +30,7 @@ location_name: Sister Morwyn's Memorial Sanctuary
 location_type: Sacred Memorial Site
 parent_location: '[[Abyssos Prime]]'
 sub_locations:
-- '[[The Archive of Unremembered Things|02 Worldbuilding/Places/The Archive Of Unremembered]]
+- '
   Things]]'
 - '[[The Memory Vaults|02 Worldbuilding/Lore/The Memory Vaults]]'
 - '[[Garden of Whispered Names]]'
@@ -86,7 +86,7 @@ updated: '2025-08-11T00:00:00+00:00'
 
 ## Overview
 
-Sister Morwyn's Memorial Sanctuary stands as a beacon of remembrance in the shadow-haunted depths of [[Abyssos Prime]]. This sacred complex, carved into the living coral walls of a vast underwater cavern, serves as both cemetery and archive for the countless souls lost to [[The Great Drowning]] and the ongoing tragedies of the deep world. Unlike other locations in Aquabyssos where memory is currency to be traded, here it is treated as sacred trust.
+Sister Morwyn's Memorial Sanctuary stands as a beacon of remembrance in the shadow-haunted depths of  and the ongoing tragedies of the deep world. Unlike other locations in Aquabyssos where memory is currency to be traded, here it is treated as sacred trust.
 
 The sanctuary exists in perpetual twilight, illuminated by thousands of bioluminescent memorial plaques that pulse in gentle rhythms—each one representing a life remembered. The water here carries whispers of the dead, not as haunting presence but as gentle comfort, creating an atmosphere of profound peace despite the surrounding darkness.
 
@@ -94,7 +94,7 @@ The sanctuary exists in perpetual twilight, illuminated by thousands of biolumin
 The sanctuary's most striking feature consists of thousands of coral formations shaped by [[Sister Morwyn Veilkeeper|02 Worldbuilding/People/Sister Morwyn Veilkeeper]]'s divine magic into memorial walls. Each formation contains a bioluminescent plaque inscribed with the name, dates, and a brief remembrance of the deceased. The walls spiral upward through the cavern in a double helix pattern, creating natural walking paths that allow visitors to contemplate the vast scope of loss.
 
 ### The Archive of Unremembered Things
-**[[The Archive of Unremembered Things|Full Details]]**
+****
 A climate-controlled section where [[Memory Pearls]] containing the final thoughts, hopes, and fears of the dying are carefully preserved. These are not traded but maintained as sacred artifacts, available only to family members or for specific religious ceremonies.
 
 **Key Features:**

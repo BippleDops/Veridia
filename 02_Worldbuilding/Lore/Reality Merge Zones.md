@@ -44,7 +44,7 @@ improvements: 20
 *Where Two Worlds Become One, and Survival Demands Adaptation*
 
 > *"In the Merge Zones, the very air might drown you and the water may refuse to wet your skin. Physics becomes negotiable, magic becomes unpredictable, and survival depends not just on what you know, but on how quickly you can adapt to rules that change with every step."*
-> — [[[[Master Environmental Specialist Tidal Convergenc]]e]], Reality Merge Zone Survival Expert
+> — [[Master Environmental Specialist Tidal Convergenc|[[Master Environmental Specialist Tidal Convergenc]]e]], Reality Merge Zone Survival Expert
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -60,7 +60,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -114,7 +114,7 @@ Reality Merge Zones is a undersea element of the setting, known for bioluminesce
 
 Legends speak of Reality Merge Zones as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Reality Merge Zones.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -130,7 +130,7 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -146,3 +146,22 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Civil war
 - Natural disasters
 - Current power structures established
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[The Parliament of Nobody (Government_and_Parliament)]]
+- [[Depth Effect Quick Reference]]
+- [[Initiative Tracker (02_Worldbuilding)]]
+- [[Random Encounters]]
+- [[The Bloom Fields]]
+- [[The Final Choice]]
+- [[Compass Quest]]
+- [[Compass Quest (D&D_References)]]
+- [[Depth Effect Quick Reference (D&D_References)]]
+- [[Initiative Tracker (D&D_References)]]
+- [[The Bloom Fields (D&D_References)]]
+- [[The Final Choice (D&D_References)]]
+- [[The Final Choice 3 (D&D_References)]]
+- [[The Parliament of Nobody]]
+- [[Random Encounters (D&D_Statblocks)]]

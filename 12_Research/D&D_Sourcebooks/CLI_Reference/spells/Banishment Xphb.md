@@ -110,3 +110,19 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Archaic Scc]]
+- [[archaic-scc (celestial)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Paladin Xphb Oath of Vengeance Xphb]]
+- [[Ranger Xphb Horizon Walker Xge]]
+- [[Ranger Xphb Monster Slayer Xge]]
+- [[paladin-xphb-oath-of-vengeance-xphb (classes)]]
+- [[ranger-xphb-horizon-walker-xge (classes)]]
+- [[ranger-xphb-monster-slayer-xge (classes)]]
+- [[Sword of Vengeance Xdmg]]
+- [[sword-of-vengeance-xdmg (items)]]

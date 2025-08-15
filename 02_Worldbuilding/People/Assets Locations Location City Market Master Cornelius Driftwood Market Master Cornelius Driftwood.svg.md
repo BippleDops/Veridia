@@ -183,7 +183,7 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[Quest   The Siren's Price]] (friend)
+- [[Sire|Quest   The Siren's Price]] (friend)
 - [[04_Resources_Assets_Portraits_portrait-npc-captain-lyanna-brightshield-captain-lyanna-brightshield.svg]] (rival)
 - [[04_Resources_Assets_Locations_location-city-master-chef-coral-seasweaver-master-chef-coral-seasweaver.svg]] (friend)
 ---
@@ -226,3 +226,7 @@ Mentioned in The Hidden Prophecy of Depths
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-master-chef-coral-seasweaver-master-chef-coral-seasweaver.svg]]

@@ -43,7 +43,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-nameless-auditor-the-nameless-auditor.svg)
 
@@ -51,7 +50,6 @@ improvements: 20
 
 # The Nameless Auditor
 *Master of Secrets, The Information Broker Supreme*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -365,7 +363,6 @@ The Nameless Auditor is a undersea element of the setting, known for bioluminesc
 
 Legends speak of The Nameless Auditor as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Nameless Auditor.
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -401,3 +398,11 @@ Legends speak of The Nameless Auditor as a nexus where past and present converge
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Quest - The Convergence Crisis]]
+- [[Quest - The Pretender's Crown]]
+- [[12_Research_D&D_Statblocks_The_Nameless_Auditor]]
+- [[Assets Locations Location City Choir Master Celestine Hymnsinger Choir Master Celestine Hymnsinger.svg]]
+- [[Silverscale Consortium (D&D_References)]]

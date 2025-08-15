@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Goldleaf the Risen", "urien goldleaf the risen", "Urien Goldleaf Risen", "Risen the Goldleaf Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Goldleaf the Risen
 
 *Half-Elf Cultist (Villains), Age 74, Male*
@@ -36,27 +42,22 @@ Born into evil but questioning their path A family member's death has left them 
 - **Short Term**: Gather information
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Erasmus Emberfall the Fallen (Political - Patron)
 - **Status**: Professional only
 - **History**: United by common enemy
 
-
 ### Lyanna Crystalbrook the Fallen (Criminal - Target)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
-
 
 ### Aeliana Ironforge the Risen (Professional - Employee)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Hestara Dawnstrider the Fallen (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Was once a renowned hero

@@ -1,3 +1,9 @@
+---
+aliases: ["Practical Rope of Quality", "practical rope of quality", "Quality of Rope Practical"]
+tags: [item, equipment]
+type: item
+---
+
 # Practical Rope of Quality
 
 *Mundane, Common*
@@ -13,8 +19,6 @@ A practical rope bearing maker's mark
 ## Properties
 - Alerts to danger
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -29,7 +33,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.485Z*

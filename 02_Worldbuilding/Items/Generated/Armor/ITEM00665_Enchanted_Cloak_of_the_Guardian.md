@@ -1,3 +1,9 @@
+---
+aliases: ["Enchanted Cloak of the Guardian", "enchanted cloak of the guardian", "Enchanted Cloak of Guardian", "Guardian the of Cloak Enchanted"]
+tags: [item, equipment]
+type: item
+---
+
 # Enchanted Cloak of the Guardian
 
 *Armor, Common*
@@ -13,8 +19,6 @@ A enchanted cloak crafted from exotic materials
 ## Properties
 - +2 to AC
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -29,7 +33,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.403Z*

@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Lightbringer the Cunning", "idris lightbringer the cunning", "Idris Lightbringer Cunning", "Cunning the Lightbringer Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Lightbringer the Cunning
 
 *Tabaxi Wizard (Adventurers), Age 37, Non-binary*
@@ -13,7 +19,6 @@
 Very tall and lanky, with Long and flowing blonde hair and Black eyes. Scarred skin. Missing ear from old battle.
 
 **Clothing**: Assassin's garb, all in black
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Never backs down from any challenge; Always speaks in metaphors and riddles; Constantly quotes ancient texts
@@ -36,7 +41,6 @@ Accidentally gained powers and learning to control them A chance encounter last 
 - **Short Term**: Recruit new members
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Idris Ravenheart the Wanderer (Family - Sibling)
 - **Status**: Professional only
@@ -47,7 +51,6 @@ Accidentally gained powers and learning to control them A chance encounter last 
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
 
-
 ### Brenna Brightblade the Cunning (Family - Child)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
@@ -56,7 +59,6 @@ Accidentally gained powers and learning to control them A chance encounter last 
 ### Lyanna Silverleaf the Mystic (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Secretly working for the villain

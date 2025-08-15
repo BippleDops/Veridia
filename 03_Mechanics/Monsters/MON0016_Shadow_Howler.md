@@ -1,4 +1,5 @@
 ---
+aliases: ["Shadow Howler", "shadow howler", "Howler Shadow"]
 tags: [generated]
 id: MON0016_Shadow_Howler
 created: 2025-08-15T04:09:51.425Z
@@ -25,7 +26,6 @@ A twisted abomination created by dark magic
 
 ---
 *Generated: 2025-08-15T03:21:47.462Z*
-
 
 ## Habitat
 - Natural environment and territories

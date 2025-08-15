@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Ashford the Redeemed", "delara ashford the redeemed", "Delara Ashford Redeemed", "Redeemed the Ashford Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Ashford the Redeemed
 
 *Elf Cultist (Villains), Age 68, Non-binary*
@@ -36,27 +42,22 @@ Driven mad by knowledge humanity wasn't meant to know They've fallen in love wit
 - **Short Term**: Recruit new members
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Corvus Youngblood the Strong (Political - Patron)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Dara Silverleaf the Swift (Political - Spy)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ### Kaelen Lightbringer the Bold (Professional - Partner)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Wynne Oakenshield the Swift (Criminal - Target)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ### Vesper Ravenheart the Seeker (Criminal - Accomplice)
 - **Status**: On the verge of collapse
@@ -66,7 +67,6 @@ Driven mad by knowledge humanity wasn't meant to know They've fallen in love wit
 ### Wynne Voidwalker the Bold (Professional - Partner)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Has a child they're protecting

@@ -73,3 +73,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - The authorities needs help finding before winter
 - A map reveals ancient history about a local noble
+
+## References
+
+- [[The Norse Pantheon Norse Deities Phb]]
+- [[the-norse-pantheon-norse-deities-phb (tables)]]

@@ -21,7 +21,7 @@ Emerging from specific cultural traditions, this lore reflects the values, fears
 ### Common Version
 As told by most [[People]]:
 
-In ages past, when the world was younger and magic flowed more freely, there existed powers and knowledge now lost to time. [[02 Worldbuilding]]/Lore/Marina''s Identity Crisis tells of these ancient days and the lessons learned through triumph and tragedy.
+In ages past, when the world was younger and magic flowed more freely, there existed powers and knowledge now lost to time. [[02_Worldbuilding|02 Worldbuilding]]/Lore/Marina''s Identity Crisis tells of these ancient days and the lessons learned through triumph and tragedy.
 
 The story speaks of heroes and villains, of choices made and prices paid. It reminds us that power comes with responsibility, and that the echoes of the past shape the present in ways we may not fully understand.
 

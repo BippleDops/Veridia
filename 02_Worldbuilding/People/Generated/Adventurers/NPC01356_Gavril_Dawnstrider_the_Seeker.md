@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Dawnstrider the Seeker", "gavril dawnstrider the seeker", "Gavril Dawnstrider Seeker", "Seeker the Dawnstrider Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Dawnstrider the Seeker
 
 *Human Cleric (Adventurers), Age 59, Male*
@@ -36,22 +42,18 @@ Running from a dark past that won't stay buried An old debt has come due at the 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Fiora Moonshadow the Broken (Professional - Employer)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Hestara Dawnstrider the Wanderer (Personal - Ex-lover)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Erasmus Ironwood the Fallen (Criminal - Handler)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Has died and been resurrected

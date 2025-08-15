@@ -45,3 +45,27 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Quandrix Student Scc]]
+- [[quandrix-student-scc (backgrounds)]]
+- [[Ancient Bronze Dragon Xmm]]
+- [[ancient-bronze-dragon-xmm (dragon)]]
+- [[Marid Xmm]]
+- [[Merfolk Wavebender Xmm]]
+- [[marid-xmm (elemental)]]
+- [[merfolk-wavebender-xmm (elemental)]]
+- [[Hydroloth Mpmm]]
+- [[Merrenoloth Mpmm]]
+- [[hydroloth-mpmm (fiend)]]
+- [[merrenoloth-mpmm (fiend)]]
+- [[Kraken Priest Mpmm]]
+- [[kraken-priest-mpmm (monstrosity)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Tempest Domain]]
+- [[Druid Xphb Circle of the Sea Xphb]]
+- [[cleric-xphb-tempest-domain (classes)]]
+- [[druid-xphb-circle-of-the-sea-xphb (classes)]]

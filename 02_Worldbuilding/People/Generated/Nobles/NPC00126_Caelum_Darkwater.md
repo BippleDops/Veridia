@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Darkwater", "caelum darkwater", "Darkwater Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Darkwater
 
 *Dwarf Heir (Nobles), Age 44, Female*
@@ -36,37 +42,30 @@ Secretly adopted into nobility, living in fear of discovery A prophetic dream ha
 - **Short Term**: Sabotage competition
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Hilda Quicksilver (Criminal - Target)
 - **Status**: One-sided affection
 - **History**: United by common enemy
 
-
 ### Vesper Frostwhisper the Redeemed (Family - Spouse)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ### Dara Emberfall (Criminal - Accomplice)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Gavril Lightbringer (Professional - Employer)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ### Thalia Jadeclaw (Political - Opposition)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
 
-
 ### Vesper Crystalbrook (Criminal - Informant)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

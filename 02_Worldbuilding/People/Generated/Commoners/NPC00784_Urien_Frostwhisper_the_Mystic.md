@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Frostwhisper the Mystic", "urien frostwhisper the mystic", "Urien Frostwhisper Mystic", "Mystic the Frostwhisper Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Frostwhisper the Mystic
 
 *Tiefling Fisher (Commoners), Age 69, Male*
@@ -36,12 +42,10 @@ Runaway from an arranged marriage, starting a new life A prophetic dream has bee
 - **Short Term**: Find missing person
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Cedric Proudmore the Lost (Political - Opposition)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
-
 
 ### Ewan Grimholt the Guardian (Professional - Employer)
 - **Status**: Mutually beneficial
@@ -56,7 +60,6 @@ Runaway from an arranged marriage, starting a new life A prophetic dream has bee
 ### Dara Zephyrblade the Bold (Personal - Ex-lover)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Can hear the thoughts of others

@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Youngblood the Wanderer", "urien youngblood the wanderer", "Urien Youngblood Wanderer", "Wanderer the Youngblood Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Youngblood the Wanderer
 
 *Elf Bard (Adventurers), Age 45, Non-binary*
@@ -36,32 +42,26 @@ Chosen by fate to fulfill an ancient prophecy They've fallen in love with someon
 - **Short Term**: Find missing person
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Xander Winterborn the Mystic (Professional - Employer)
 - **Status**: Professional only
 - **History**: Grew up together in the same neighborhood
 
-
 ### Gavril Brightblade the Risen (Personal - Love interest)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ### Thalia Ravenheart the Fallen (Criminal - Handler)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Drusilla Brightblade the Mystic (Professional - Employee)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Caelum Stormwind the Strong (Political - Spy)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Carries a world-ending artifact

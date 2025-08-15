@@ -1,11 +1,11 @@
 ---
+aliases: ["Leopold Darkwater the Mad", "leopold darkwater the mad", "Leopold Darkwater Mad", "Mad the Darkwater Leopold"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -78,7 +78,6 @@ Athletics, Deception
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 83 gold pieces
 - Family heirloom (locket)
@@ -91,7 +90,6 @@ Athletics, Deception
 
 ---
 *Generated: 2025-08-15T03:20:13.089Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

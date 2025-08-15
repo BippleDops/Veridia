@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Ironwood", "dara ironwood", "Ironwood Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Ironwood
 
 *Aasimar Noble (Nobles), Age 69, Female*
@@ -36,7 +42,6 @@ Last survivor of a fallen house, seeking to restore family honor They've been ma
 - **Short Term**: Gather information
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Thalia Quicksilver the Wanderer (Professional - Employer)
 - **Status**: One-sided affection
@@ -46,7 +51,6 @@ Last survivor of a fallen house, seeking to restore family honor They've been ma
 ### Fiora Moonshadow (Criminal - Accomplice)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
-
 
 ### Baelor Thornweave (Professional - Employee)
 - **Status**: One-sided affection
@@ -61,7 +65,6 @@ Last survivor of a fallen house, seeking to restore family honor They've been ma
 ### Idris Quicksilver the Scholar (Personal - Nemesis)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Actually a bastard with no real claim

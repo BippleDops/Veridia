@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Zephyrblade the Wanderer", "jorah zephyrblade the wanderer", "Jorah Zephyrblade Wanderer", "Wanderer the Zephyrblade Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Zephyrblade the Wanderer
 
 *Half-Elf Bard (Adventurers), Age 30, Male*
@@ -13,7 +19,6 @@
 Tall and athletic, with Short and neat auburn hair and Amber eyes. Olive skin. Constantly changing hair color.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Compulsive liar about minor things; Constantly quotes ancient texts
@@ -36,7 +41,6 @@ Searching for a legendary treasure their parent died seeking Strange abilities h
 - **Short Term**: Survive until next week
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Thalia Silverleaf the Redeemed (Criminal - Handler)
 - **Status**: Strained but maintaining
@@ -46,7 +50,6 @@ Searching for a legendary treasure their parent died seeking Strange abilities h
 ### Drusilla Quicksilver the Wanderer (Political - Opposition)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ### Nerys Stormwind the Bold (Professional - Rival)
 - **Status**: Strong and trusting

@@ -124,3 +124,9 @@ Neutral Grounds represents a crucial aspect of the world's history, cosmology, o
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Theological Warfare]]
+- [[Topic Matrix]]
+- [[Topic_Matrix (Indexes)]]

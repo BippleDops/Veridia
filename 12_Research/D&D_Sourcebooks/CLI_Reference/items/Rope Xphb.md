@@ -90,3 +90,27 @@ Mentioned in The Hidden Prophecy of Shadows
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Sailor Xphb]]
+- [[sailor-xphb (backgrounds)]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Burglars Pack Xphb]]
+- [[Dungeoneers Pack Xphb]]
+- [[Explorers Pack Xphb]]
+- [[Iron Spike Xphb]]
+- [[Iron Spikes Xphb]]
+- [[Robe of Useful Items Xdmg]]
+- [[Weavers Tools Xphb]]
+- [[burglars-pack-xphb (items)]]
+- [[dungeoneers-pack-xphb (items)]]
+- [[explorers-pack-xphb (items)]]
+- [[iron-spike-xphb (items)]]
+- [[iron-spikes-xphb (items)]]
+- [[robe-of-useful-items-xdmg (items)]]
+- [[weavers-tools-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

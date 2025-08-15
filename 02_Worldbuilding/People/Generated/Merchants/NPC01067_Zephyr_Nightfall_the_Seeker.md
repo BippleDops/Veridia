@@ -1,3 +1,9 @@
+---
+aliases: ["Zephyr Nightfall the Seeker", "zephyr nightfall the seeker", "Zephyr Nightfall Seeker", "Seeker the Nightfall Zephyr"]
+tags: [npc, character]
+type: npc
+---
+
 # Zephyr Nightfall the Seeker
 
 *Half-Orc Shopkeeper (Merchants), Age 18, Female*
@@ -13,7 +19,6 @@
 Below average and lanky, with Wild and unkempt red hair and Gray eyes. Freckled skin. Missing ear from old battle.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Always hungry and eating something
@@ -42,26 +47,21 @@ Inherited a failing business and turned it around Strange abilities have begun m
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
 
-
 ### Nerys Blackstone the Broken (Political - Opposition)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ### Aeliana Darkwater the Strong (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Hestara Ashford the Redeemed (Personal - Love interest)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Gareth Moonshadow the Wise (Political - Patron)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Sells information to all sides

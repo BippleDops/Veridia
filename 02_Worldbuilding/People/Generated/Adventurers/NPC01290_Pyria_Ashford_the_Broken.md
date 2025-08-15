@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Ashford the Broken", "pyria ashford the broken", "Pyria Ashford Broken", "Broken the Ashford Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Ashford the Broken
 
 *Tiefling Bard (Adventurers), Age 38, Non-binary*
@@ -36,17 +42,14 @@ Chosen by fate to fulfill an ancient prophecy A family member's death has left t
 - **Short Term**: Make this month's payment
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Ysara Ashford the Broken (Political - Ally)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
 
-
 ### Orion Zephyrblade the Strong (Professional - Mentor)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
-
 
 ### Hestara Lightbringer the Fallen (Criminal - Handler)
 - **Status**: Recently reconciled
@@ -56,7 +59,6 @@ Chosen by fate to fulfill an ancient prophecy A family member's death has left t
 ### Gareth Proudmore the Strong (Professional - Employee)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is from the future

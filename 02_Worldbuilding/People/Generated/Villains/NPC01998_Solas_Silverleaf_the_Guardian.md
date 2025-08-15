@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Silverleaf the Guardian", "solas silverleaf the guardian", "Solas Silverleaf Guardian", "Guardian the Silverleaf Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Silverleaf the Guardian
 
 *Half-Elf Crime Boss (Villains), Age 18, Non-binary*
@@ -13,7 +19,6 @@
 Below average and stocky, with Shaved red hair and Violet eyes. Olive skin. Unusual eye color for their race.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Never uses people's real names; Constantly quotes ancient texts
@@ -42,31 +47,25 @@ Driven mad by knowledge humanity wasn't meant to know They've fallen in love wit
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Orion Stormwind the Cunning (Political - Opposition)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ### Delara Dawnstrider the Mystic (Professional - Employee)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
 
-
 ### Wynne Brightblade the Broken (Personal - Love interest)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
-
 
 ### Corvus Frostwhisper the Swift (Criminal - Fence)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Ysara Oakenshield the Mystic (Family - Child)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Was once a renowned hero

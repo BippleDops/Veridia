@@ -32,7 +32,7 @@ danger_level: 3
 depth: 2500-2800 feet
 discovered: true
 factions:
-- '[[Order of the [[Drowned]] Star|[[02 Worldbuilding]]/[[Groups]]/Order Of The Drowned Star]]'
+- '[[Drowned|Order of the [[Drowned]] Star|[[02_Worldbuilding|02 Worldbuilding]]/[[Groups]]/Order Of The Drowned Star]]'
 - '[[Keepers of Memory]]'
 - '[[The Forgiveness Seekers]]'
 government: Sacred Trust
@@ -54,7 +54,7 @@ services:
 - [[Grief Counseling]]
 shadow_density: Low
 sub_locations:
-- '[[The Archive of Unremembered Things]]'
+- ''
 - '[[The Memory Vaults]]'
 - '[[Garden of Whispered Names]]'
 - '[[Hall of Final Echoes]]'
@@ -85,7 +85,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -133,7 +133,7 @@ improvements: 20
 
 ## Overview
 
-Sister Morwyn's Memorial Sanctuary stands as a beacon of remembrance in the shadow-haunted depths of [[Abyssos Prime]]. This sacred complex, carved into the living [[Coral]] walls of a vast underwater cavern, serves as both cemetery and archive for the countless souls lost to [[Great Drownin]] and the ongoing tragedies of the deep world. Unlike other locations in Aquabyssos where memory is currency to be traded, here it is treated as sacred trust.
+Sister Morwyn's Memorial Sanctuary stands as a beacon of remembrance in the shadow-haunted depths of  and the ongoing tragedies of the deep world. Unlike other locations in Aquabyssos where memory is currency to be traded, here it is treated as sacred trust.
 
 The sanctuary exists in perpetual twilight, illuminated by thousands of bioluminescent memorial plaques that pulse in gentle rhythms—each one representing a life remembered. The water here carries whispers of the dead, not as haunting presence but as gentle comfort, creating an atmosphere of profound peace despite the surrounding darkness.
 
@@ -143,7 +143,7 @@ The sanctuary's most striking feature consists of thousands of coral formations 
 
 ### The Archive of Unremembered Things
 
-**[[The Archive of Unremembered Things]]**
+****
 A climate-controlled section where [[Memory Pearls]] containing the final thoughts, hopes, and fears of the dying are carefully preserved. These are not traded but maintained as sacred artifacts, available only to family members or for specific religious ceremonies.
 
 **Key Features:**
@@ -253,7 +253,7 @@ Recent excavation for new memorial space uncovered what appears to be a pre-drow
 - May be searching for own memorial
 - Appears to age backward during visits
 
-**[[[[Senator]]'s Widow Marcella]]** - Political mourner
+**[[Senator|[[Senator]]'s Widow Marcella]]** - Political mourner
 - Grieves husband lost to shadow replacement
 - Secretly funding sanctuary expansion
 - Provides intelligence on [[Parliament of Echoes]] activities
@@ -288,7 +288,7 @@ Hidden beneath the Memory Vaults is a chamber where the collective whispers of t
 
 ### Investigation
 
-1. **[[The [[Memory Thief]]]]:** Someone is stealing memories from the memorial plaques. Players must investigate who and why, leading to a conspiracy involving [[Shadow Surgeons Collective|Shadow Surgeons]] and corrupt [[Parliament of Echoes]] members.
+1. **[[Memory Thief|The [[Memory Thief]]]]:** Someone is stealing memories from the memorial plaques. Players must investigate who and why, leading to a conspiracy involving [[Shadow Surgeons Collective|Shadow Surgeons]] and corrupt [[Parliament of Echoes]] members.
 
 2. **The False Memorials:** New memorial plaques keep appearing for people who are still alive. Investigation reveals a shadow replacement conspiracy, with the plaques marking successful replacements.
 
@@ -296,7 +296,7 @@ Hidden beneath the Memory Vaults is a chamber where the collective whispers of t
 
 ### Social/Political
 
-4. **The Sanctuary Under Siege:** [[[[Memory Farmers]]|02 Worldbuilding/Groups/Memory Farmers]] demand access to the preserved memories, claiming they're needed to save the city. Players must navigate the political and ethical implications.
+4. **The Sanctuary Under Siege:** [[Memory Farmers|[[Memory Farmers]]|02 Worldbuilding/Groups/Memory Farmers]] demand access to the preserved memories, claiming they're needed to save the city. Players must navigate the political and ethical implications.
 
 5. **The Grief Conspiracy:** A group of wealthy families is secretly funding the sanctuary in exchange for having embarrassing memories of their deceased relatives removed from the records.
 
@@ -308,7 +308,7 @@ Hidden beneath the Memory Vaults is a chamber where the collective whispers of t
 
 8. **The Resurrection Ritual:** Players discover Sister Morwyn's true plan to resurrect everyone who died in The Great Drowning. They must decide whether to help, stop her, or find a way to make it work safely.
 
-## [[[[Random Encounter]]s]] (d10)
+## [[Random Encounter|[[Random Encounter]]s]] (d10)
 
 | Roll | Encounter |
 |------|-----------|
@@ -367,7 +367,7 @@ Legends speak of Sister Morwyn as a nexus where past and present converge. Local
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -383,13 +383,11 @@ Sister Morwyn is a notable location characterized by its unique features and str
 ### Founding
 Sister Morwyn was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -397,13 +395,11 @@ Sister Morwyn was established in the distant past, growing from humble beginning
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -454,7 +450,6 @@ Key stop on spices trade route
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -490,3 +485,7 @@ Key stop on spices trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Sister Morwyn's Memorial Sanctuary]]

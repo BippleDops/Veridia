@@ -20,7 +20,7 @@ improvements: 20
 
 ## Portrait
 
-![[portrait_npc_relationship_web.png.png]]
+![[Relationship_Web|portrait_npc_relationship_web.png.png]]
 
 *Portrait reference for NPC_Relationship_Web.png*
 
@@ -80,3 +80,8 @@ creature: Custom NPC
 - **Proficiency Bonus**: *[+X]*
 - **Saving Throws**: *[Proficient saves]*
 - **Skills**: *[Skill proficiencies]*
+
+## References
+
+- [[Assets Symbols Symbol Heraldry Frequency Weapons Frequency Weapons.svg]]
+- [[NPC_Relationship_Web.png_Quick_Ref]]

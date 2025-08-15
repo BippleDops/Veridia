@@ -1,3 +1,9 @@
+---
+aliases: ["Ancient Chalice of Eternity", "ancient chalice of eternity", "Eternity of Chalice Ancient"]
+tags: [item, equipment]
+type: item
+---
+
 # Ancient Chalice of Eternity
 
 *Artifacts, Artifact (requires attunement)*
@@ -16,8 +22,6 @@ A ancient chalice radiating otherworldly power
 - Regenerate 1 hp/round
 - Telepathy 120 ft
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -32,7 +36,6 @@ Priceless
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.430Z*

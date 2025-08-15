@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Stormwind the Wise", "lyanna stormwind the wise", "Lyanna Stormwind Wise", "Wise the Stormwind Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Stormwind the Wise
 
 *Gnome Broker (Merchants), Age 19, Non-binary*
@@ -36,27 +42,22 @@ Former adventurer who retired to open a shop They've fallen in love with someone
 - **Short Term**: Gather information
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Qadim Moonshadow the Strong (Personal - Nemesis)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
 
-
 ### Xander Nightfall the Seeker (Political - Ally)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ### Aeliana Goldleaf the Lost (Family - Parent)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
 
-
 ### Fiora Blackstone the Lost (Political - Spy)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Killed previous business owner

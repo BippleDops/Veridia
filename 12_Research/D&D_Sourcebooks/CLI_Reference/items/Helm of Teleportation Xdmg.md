@@ -79,3 +79,13 @@ Mentioned in The Hidden Prophecy of Shadows
 - A noble needs help investigating before the new moon
 - The authorities needs help finding before the festival
 - A corpse reveals the truth about this place
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Arcana Rare Xdmg]]
+- [[Magic Item Table G]]
+- [[Random Magic Items Arcana]]
+- [[arcana-rare-xdmg (tables)]]
+- [[magic-item-table-g (tables)]]
+- [[random-magic-items-arcana (tables)]]

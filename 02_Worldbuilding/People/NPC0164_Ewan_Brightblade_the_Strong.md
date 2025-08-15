@@ -1,11 +1,11 @@
 ---
+aliases: ["Ewan Brightblade the Strong", "ewan brightblade the strong", "Ewan Brightblade Strong", "Strong the Brightblade Ewan"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -91,7 +91,6 @@ Stealth, Investigation, Athletics
 
 ---
 *Generated: 2025-08-15T03:21:04.043Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

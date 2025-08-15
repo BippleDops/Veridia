@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Hawthorne", "baelor hawthorne", "Hawthorne Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Hawthorne
 
 *Elf Noble (Nobles), Age 29, Non-binary*
@@ -36,7 +42,6 @@ Recently elevated to nobility through service, still learning courtly ways They 
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Corvus Darkwater (Family - Sibling)
 - **Status**: Blood oath bound
@@ -51,7 +56,6 @@ Recently elevated to nobility through service, still learning courtly ways They 
 ### Faelyn Stormwind (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Practicing forbidden magic

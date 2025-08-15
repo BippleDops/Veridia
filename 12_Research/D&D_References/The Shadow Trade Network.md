@@ -381,3 +381,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Umbral Exchange]]
+- [[The Eternal Senate]]
+- [[Theological Warfare]]
+- [[The Eternal Senate (D&D_References)]]
+- [[Theological Warfare (D&D_References)]]
+- [[Umbral Exchange (D&D_References)]]

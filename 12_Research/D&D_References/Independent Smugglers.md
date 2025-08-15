@@ -48,3 +48,13 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Shadow Surgeons Collective]]
+- [[The Shadow Trade Network]]
+- [[Marina-Red-Tide-Coralheart]]
+- [[Northgate]]
+- [[The Harbor Depths]]
+- [[Marina-Red-Tide-Coralheart (D&D_References)]]
+- [[The Harbor Depths (D&D_References)]]

@@ -1,3 +1,8 @@
+---
+tags: [misc]
+type: misc
+---
+
 # Scenes Gallery
 
 %% Use reading mode for visual gallery %%
@@ -289,3 +294,8 @@
 
 ## scenes_void_1755205557744
 ![](04_Resources/Assets/Scenes/scenes_void_1755205557744.png)
+
+## References
+
+- [[Index (Galleries)]]
+- [[Index]]

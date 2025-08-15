@@ -48,3 +48,20 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Night Hag Xmm]]
+- [[night-hag-xmm (fiend)]]
+- [[Deck of Illusions Xdmg]]
+- [[Deck of Illusions]]
+- [[deck-of-illusions (decks)]]
+- [[deck-of-illusions-xdmg (decks)]]
+- [[Deck of Illusions Xdmg (items)]]
+- [[Heartstone Mm]]
+- [[Iron Flask Xdmg]]
+- [[Soul Bag Mm]]
+- [[deck-of-illusions-xdmg (items)]]
+- [[heartstone-mm (items)]]
+- [[iron-flask-xdmg (items)]]
+- [[soul-bag-mm (items)]]

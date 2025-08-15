@@ -11,7 +11,7 @@ created: '2025-01-15'
 
 ## Portrait
 
-![[portrait_04_resources_assets_portraits_portrait-npc-pirate-lords-of-the-spiral-depths-pirate-lords-of-the-spiral-depths.svg.png]]
+![[04_Resources|portrait_04_resources_assets_portraits_portrait-npc-pirate-lords-of-the-spiral-depths-pirate-lords-of-the-spiral-depths.svg.png]]
 
 *Portrait reference for 04_Resources_Assets_Portraits_portrait-npc-pirate-lords-of-the-spiral-depths-pirate-lords-of-the-spiral-depths.svg*
 
@@ -75,3 +75,10 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+## References
+
+- [[Assets Locations Location City Harbor Master S Tower Harbor Master S Tower.png]]
+- [[Assets Locations Location City Master Engineer Cordelia Pressurewright V1 Master Engineer Cordelia Pressurewright.svg]]
+- [[Assets Symbols Symbol Heraldry Consortium Security Constructs Consortium Security Constructs.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-pirate-lords-of-the-spiral-depths-pirate-lords-of-the-spiral-depths.svg_Quick_Ref]]

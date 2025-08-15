@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Jadeclaw the Strong", "xander jadeclaw the strong", "Xander Jadeclaw Strong", "Strong the Jadeclaw Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Jadeclaw the Strong
 
 *Dragonborn Corrupt Noble (Villains), Age 60, Female*
@@ -36,7 +42,6 @@ Born into evil but questioning their path An old debt has come due at the worst 
 - **Short Term**: Make this month's payment
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Ewan Ravenheart the Guardian (Criminal - Accomplice)
 - **Status**: Complicated history
@@ -51,7 +56,6 @@ Born into evil but questioning their path An old debt has come due at the worst 
 ### Thalia Nightfall the Mystic (Personal - Love interest)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
-
 
 ### Felicia Jadeclaw the Seeker (Criminal - Fence)
 - **Status**: Recently reconciled

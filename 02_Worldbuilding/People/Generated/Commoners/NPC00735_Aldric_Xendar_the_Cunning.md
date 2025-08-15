@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Xendar the Cunning", "aldric xendar the cunning", "Aldric Xendar Cunning", "Cunning the Xendar Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Xendar the Cunning
 
 *Aasimar Baker (Commoners), Age 59, Female*
@@ -42,11 +48,9 @@ Family has worked the same trade for generations, but times are changing They've
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Thalia Emberfall the Bold (Criminal - Handler)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ### Hilda Quicksilver the Redeemed (Professional - Partner)
 - **Status**: Blood oath bound
@@ -57,16 +61,13 @@ Family has worked the same trade for generations, but times are changing They've
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Aldric Voidwalker the Lost (Criminal - Accomplice)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Gareth Voidwalker the Bold (Professional - Mentor)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Is the lost heir to the throne

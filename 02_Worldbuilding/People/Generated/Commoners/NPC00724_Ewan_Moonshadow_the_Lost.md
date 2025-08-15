@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Moonshadow the Lost", "ewan moonshadow the lost", "Ewan Moonshadow Lost", "Lost the Moonshadow Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Moonshadow the Lost
 
 *Elf Blacksmith (Commoners), Age 24, Non-binary*
@@ -51,7 +57,6 @@ Grew up in poverty but discovered a talent that might change everything They rec
 ### Xander Frostwhisper the Seeker (Political - Spy)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Is the lost heir to the throne

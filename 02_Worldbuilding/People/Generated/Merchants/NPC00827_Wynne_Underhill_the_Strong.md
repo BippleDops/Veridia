@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Underhill the Strong", "wynne underhill the strong", "Wynne Underhill Strong", "Strong the Underhill Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Underhill the Strong
 
 *Tiefling Broker (Merchants), Age 26, Non-binary*
@@ -36,17 +42,14 @@ Built their business from nothing through cunning and hard work A prophetic drea
 - **Short Term**: Find missing person
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Orion Voidwalker the Wise (Professional - Employer)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Dara Jadeclaw the Seeker (Political - Patron)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ### Felicia Silverleaf the Swift (Family - Child)
 - **Status**: Complicated history
@@ -57,11 +60,9 @@ Built their business from nothing through cunning and hard work A prophetic drea
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
 
-
 ### Gavril Xendar the Lost (Political - Opposition)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Sells information to all sides

@@ -1,11 +1,11 @@
 ---
+aliases: ["Petra Darkwater", "petra darkwater", "Darkwater Petra"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Discovered magical talent late in life. Years ago, they survived a plague that k
 ### Skills
 Deception, Arcana
 
-
-
 ## Possessions
 - 103 gold pieces
 - Family heirloom (locket)
@@ -92,7 +90,6 @@ Deception, Arcana
 
 ---
 *Generated: 2025-08-15T03:21:04.040Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

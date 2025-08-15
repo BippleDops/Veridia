@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Crystalbrook the Redeemed", "corvus crystalbrook the redeemed", "Corvus Crystalbrook Redeemed", "Redeemed the Crystalbrook Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Crystalbrook the Redeemed
 
 *Dwarf Trader (Merchants), Age 65, Male*
@@ -36,22 +42,18 @@ Built their business from nothing through cunning and hard work A family member'
 - **Short Term**: Complete current contract
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Rhiannon Underhill the Mystic (Family - Spouse)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
 
-
 ### Delara Keenblade the Bold (Professional - Mentor)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Alaric Darkwater the Swift (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ### Hestara Proudmore the Risen (Political - Spy)
 - **Status**: Secretly hostile
@@ -61,7 +63,6 @@ Built their business from nothing through cunning and hard work A family member'
 ### Jorah Silverleaf the Risen (Political - Puppet)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ### Cedric Silverleaf the Lost (Political - Patron)
 - **Status**: Recently reconciled

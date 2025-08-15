@@ -86,3 +86,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[laboratory]]
+- [[Artisans Tools Xphb]]
+- [[artisans-tools-xphb (items)]]
+- [[Magic Item Tools Xdmg]]
+- [[Tools Phb]]
+- [[magic-item-tools-xdmg (tables)]]
+- [[tools-phb (tables)]]
+- [[Downtime Activity Crafting a Magic Item]]
+- [[downtime-activity-crafting-a-magic-item (variant-rules)]]

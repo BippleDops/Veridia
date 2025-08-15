@@ -1,3 +1,9 @@
+---
+aliases: ["Ancient Ring of Destiny", "ancient ring of destiny", "Destiny of Ring Ancient"]
+tags: [item, equipment]
+type: item
+---
+
 # Ancient Ring of Destiny
 
 *Artifacts, Very Rare*
@@ -16,8 +22,6 @@ A ancient ring pulsing with inner light
 - Plane shift 1/day
 - Immunity to charm
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -32,7 +36,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.423Z*

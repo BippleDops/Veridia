@@ -2,7 +2,7 @@
 tags: ['[[Lore]]']
 ---
 
-# [[02 Worldbuilding]]/Lore/[[The Deep Intelligence Agency Director]]
+# [[02_Worldbuilding|02 Worldbuilding]]/Lore/[[The Deep Intelligence Agency Director]]
 
 ## Overview
 

@@ -1,3 +1,9 @@
+---
+aliases: ["Superior Incense of Healing", "superior incense of healing", "Healing of Incense Superior"]
+tags: [item, equipment]
+type: item
+---
+
 # Superior Incense of Healing
 
 *Consumables, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A superior incense glowing softly
 - Fly for 1 hour
 - Invisible for 10 minutes
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -31,7 +35,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.454Z*

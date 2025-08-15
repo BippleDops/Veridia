@@ -271,6 +271,5 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*

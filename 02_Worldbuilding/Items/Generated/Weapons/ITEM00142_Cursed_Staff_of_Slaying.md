@@ -1,3 +1,9 @@
+---
+aliases: ["Cursed Staff of Slaying", "cursed staff of slaying", "Slaying of Staff Cursed"]
+tags: [item, equipment]
+type: item
+---
+
 # Cursed Staff of Slaying
 
 *Weapons, Common*
@@ -13,8 +19,6 @@ A cursed staff carved from dragon bone
 ## Properties
 - Grants advantage on initiative
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -29,7 +33,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.354Z*

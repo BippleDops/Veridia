@@ -103,7 +103,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -116,3 +115,17 @@ Contextual improvement based on 12_Research
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Neothelid Mpmm]]
+- [[Ulitharid Mpmm]]
+- [[neothelid-mpmm (aberration)]]
+- [[ulitharid-mpmm (aberration)]]
+- [[Arcanaloth Xmm]]
+- [[arcanaloth-xmm (fiend)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Dark Gift of Savnok the Inscrutable Cos]]
+- [[dark-gift-of-savnok-the-inscrutable-cos (rewards)]]

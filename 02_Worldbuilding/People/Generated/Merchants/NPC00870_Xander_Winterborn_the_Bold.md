@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Winterborn the Bold", "xander winterborn the bold", "Xander Winterborn Bold", "Bold the Winterborn Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Winterborn the Bold
 
 *Tiefling Appraiser (Merchants), Age 70, Female*
@@ -13,7 +19,6 @@
 Below average and athletic, with Tied back unusual color hair and Gray eyes. Scarred skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Extremely superstitious about everything
@@ -42,21 +47,17 @@ Inherited a failing business and turned it around They recently discovered a sec
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Lyanna Emberfall the Swift (Personal - Ex-lover)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ### Aldric Winterborn the Fallen (Professional - Employer)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Drusilla Grimholt the Fallen (Criminal - Informant)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Sells information to all sides

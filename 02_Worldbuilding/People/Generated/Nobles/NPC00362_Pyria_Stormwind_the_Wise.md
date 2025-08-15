@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Stormwind the Wise", "pyria stormwind the wise", "Pyria Stormwind Wise", "Wise the Stormwind Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Stormwind the Wise
 
 *Tabaxi Aristocrat (Nobles), Age 26, Female*
@@ -36,7 +42,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Find missing person
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Hestara Moonshadow the Bold (Personal - Ex-lover)
 - **Status**: Strained but maintaining
@@ -47,11 +52,9 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Elric Brightblade (Personal - Childhood friend)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Practicing forbidden magic

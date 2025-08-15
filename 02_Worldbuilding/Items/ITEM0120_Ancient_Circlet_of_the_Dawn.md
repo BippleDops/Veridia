@@ -1,4 +1,5 @@
 ---
+aliases: ["Ancient Circlet of the Dawn", "ancient circlet of the dawn", "Ancient Circlet of Dawn", "Dawn the of Circlet Ancient"]
 tags: [generated]
 id: ITEM0120
 created: 2025-08-15T04:09:51.116Z
@@ -20,8 +21,6 @@ Crafted from starfall iron with glowing gems, in showing age but sturdy. It eman
 
 ## Quirk
 *Hums when enemies are near*
-
-
 
 ## History
 This item was corrupted by dark magic ages ago. It has passed through many hands, each leaving their mark upon its destiny.

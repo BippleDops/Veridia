@@ -61,3 +61,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Strange accidents suggest ancient magic
 - Someone is searching for a witness for revenge
 - A corpse reveals ancient history about this place
+
+## References
+
+- [[Pressure Angel Benthia]]
+- [[Pressure Angel Benthia (D&D_Statblocks)]]

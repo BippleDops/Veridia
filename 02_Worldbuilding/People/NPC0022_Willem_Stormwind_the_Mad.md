@@ -1,8 +1,8 @@
 ---
+aliases: ["Willem Stormwind the Mad", "willem stormwind the mad", "Willem Stormwind Mad", "Mad the Stormwind Willem"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -90,7 +90,6 @@ Investigation, Perception, Persuasion
 
 ---
 *Generated: 2025-08-15T03:20:13.074Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

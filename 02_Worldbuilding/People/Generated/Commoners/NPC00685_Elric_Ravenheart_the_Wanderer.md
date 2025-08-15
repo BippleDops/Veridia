@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Ravenheart the Wanderer", "elric ravenheart the wanderer", "Elric Ravenheart Wanderer", "Wanderer the Ravenheart Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Ravenheart the Wanderer
 
 *Dragonborn Farmer (Commoners), Age 52, Male*
@@ -42,7 +48,6 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Qadim Voidwalker the Mystic (Family - Sibling)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
@@ -57,11 +62,9 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 - **Status**: Recently reconciled
 - **History**: United by common enemy
 
-
 ### Ewan Dawnstrider the Risen (Personal - Ex-lover)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Can hear the thoughts of others

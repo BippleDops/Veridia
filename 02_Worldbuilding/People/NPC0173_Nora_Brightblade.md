@@ -1,11 +1,11 @@
 ---
+aliases: ["Nora Brightblade", "nora brightblade", "Brightblade Nora"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Raised by monks in a remote monastery. Years ago, they witnessed something they 
 ### Skills
 Stealth, Investigation, Arcana
 
-
-
 ## Possessions
 - 54 gold pieces
 - Small gemstone
@@ -91,7 +89,6 @@ Stealth, Investigation, Arcana
 
 ---
 *Generated: 2025-08-15T03:21:04.043Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

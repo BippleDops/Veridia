@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Jadeclaw", "wynne jadeclaw", "Jadeclaw Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Jadeclaw
 
 *Half-Elf Heir (Nobles), Age 37, Female*
@@ -36,12 +42,10 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Ysara Frostwhisper (Family - Sibling)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ### Hestara Proudmore (Criminal - Fence)
 - **Status**: Recently reconciled
@@ -52,16 +56,13 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Drusilla Emberfall (Personal - Nemesis)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Malakai Brightblade the Guardian (Criminal - Accomplice)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Actually a bastard with no real claim

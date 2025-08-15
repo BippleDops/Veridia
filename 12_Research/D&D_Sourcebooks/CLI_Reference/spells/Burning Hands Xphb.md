@@ -110,3 +110,30 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Light Domain Xphb]]
+- [[Sorcerer Xphb]]
+- [[Warlock Xphb Fiend Patron Xphb]]
+- [[cleric-xphb-light-domain-xphb (classes)]]
+- [[cleric-xphb-light-domain-xphb 2 (classes)]]
+- [[sorcerer-xphb (classes)]]
+- [[warlock-xphb-fiend-patron-xphb (classes)]]
+- [[Ring of Elemental Command Fire Xdmg]]
+- [[Staff of Fire Xdmg]]
+- [[ring-of-elemental-command-fire-xdmg (items)]]
+- [[staff-of-fire-xdmg (items)]]
+- [[Sweeping Cinder Strike]]
+- [[sweeping-cinder-strike (optional-features)]]
+- [[Tiefling Mephistopheles Mtf]]
+- [[tiefling-mephistopheles-mtf (races)]]
+- [[Boon of the Fire Soul]]
+- [[boon-of-the-fire-soul (rewards)]]
+- [[Multiclassing Phb]]
+- [[Multiclassing Xphb]]
+- [[multiclassing-phb (variant-rules)]]
+- [[multiclassing-xphb (variant-rules)]]

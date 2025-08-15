@@ -1,3 +1,9 @@
+---
+aliases: ["Fortified Plate of the Guardian", "fortified plate of the guardian", "Fortified Plate of Guardian", "Guardian the of Plate Fortified"]
+tags: [item, equipment]
+type: item
+---
+
 # Fortified Plate of the Guardian
 
 *Armor, Very Rare*

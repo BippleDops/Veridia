@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Ravenheart the Redeemed", "gareth ravenheart the redeemed", "Gareth Ravenheart Redeemed", "Redeemed the Ravenheart Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Ravenheart the Redeemed
 
 *Half-Orc Fighter (Adventurers), Age 21, Female*
@@ -36,12 +42,10 @@ Running from a dark past that won't stay buried A chance encounter last winter c
 - **Short Term**: Gather information
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Solas Ironwood the Strong (Family - Cousin)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
-
 
 ### Rhiannon Blackstone the Broken (Political - Ally)
 - **Status**: On the verge of collapse
@@ -52,7 +56,6 @@ Running from a dark past that won't stay buried A chance encounter last winter c
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Hestara Stormwind the Risen (Personal - Nemesis)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
@@ -61,7 +64,6 @@ Running from a dark past that won't stay buried A chance encounter last winter c
 ### Delara Oakenshield the Risen (Personal - Love interest)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
-
 
 ### Gareth Thornweave the Redeemed (Criminal - Accomplice)
 - **Status**: Recently reconciled

@@ -1,3 +1,9 @@
+---
+aliases: ["Concentrated Powder of Clarity", "concentrated powder of clarity", "Clarity of Powder Concentrated"]
+tags: [item, equipment]
+type: item
+---
+
 # Concentrated Powder of Clarity
 
 *Consumables, Uncommon*
@@ -14,8 +20,6 @@ A concentrated powder swirling with colors
 - Fly for 1 hour
 - Fly for 1 hour
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -30,7 +34,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.450Z*

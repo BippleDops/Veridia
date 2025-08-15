@@ -93,3 +93,26 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Parliamentary Ethics Committee (Government_and_Parliament)]]
+- [[The Departed Collective]]
+- [[The Soul Market]]
+- [[Harbor Master Luna Freedrift (Places)]]
+- [[The Pearl Markets]]
+- [[Atmospheric Research Society (D&D_References)]]
+- [[Rogue Magical Practitioners]]
+- [[The First Truth (D&D_References)]]
+- [[The Phantom Current (D&D_References)]]
+- [[War Machine Engineers (D&D_References)]]
+- [[fractal-mascot-scc (construct)]]
+- [[young-gold-dragon-xmm (dragon)]]
+- [[npc - Aljanor Keenblade Oota]]
+- [[celtic-lugh (deities)]]
+- [[halfling-arvoreen-mtf (deities)]]
+- [[Crystal Ball of Mind Reading Xdmg]]
+- [[Shawm Xphb]]
+- [[caltrop]]
+- [[rod-of-alertness-xdmg (items)]]
+- [[Physical Variations Yuan Ti Scale Pattern Vgm]]

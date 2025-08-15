@@ -47,7 +47,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -101,7 +101,7 @@ NPC Name Generator is a undersea element of the setting, known for bioluminescen
 
 Legends speak of NPC Name Generator as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around NPC Name Generator.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -123,3 +123,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - A [[Merchant]] needs help stealing before winter
 - Someone is searching for an heir for power
 - Strange sightings suggest ancient magic
+
+## References
+
+- [[Assets Art Market Master Cornelius Driftwood.png]]

@@ -92,3 +92,27 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Guide Xphb]]
+- [[Soldier Xphb]]
+- [[guide-xphb (backgrounds)]]
+- [[soldier-xphb (backgrounds)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Fighter Xphb]]
+- [[Rogue Xphb]]
+- [[fighter-xphb (classes)]]
+- [[rogue-xphb (classes)]]
+- [[Arrow Xphb]]
+- [[Arrows 20 Xphb]]
+- [[Leatherworkers Tools Xphb]]
+- [[arrow-xphb (items)]]
+- [[arrows-20-xphb (items)]]
+- [[leatherworkers-tools-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[Ammunition Varies Ammunition Xphb]]
+- [[adventuring-gear-phb (tables)]]
+- [[ammunition-varies-ammunition-xphb (tables)]]

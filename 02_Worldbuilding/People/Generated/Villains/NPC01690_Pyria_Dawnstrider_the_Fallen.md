@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Dawnstrider the Fallen", "pyria dawnstrider the fallen", "Pyria Dawnstrider Fallen", "Fallen the Dawnstrider Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Dawnstrider the Fallen
 
 *Tabaxi Dark Wizard (Villains), Age 29, Non-binary*
@@ -13,7 +19,6 @@
 Very short and athletic, with Mohawk auburn hair and Red eyes. Freckled skin. Perfect white teeth that seem to gleam.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Believes in every conspiracy theory; Compulsive liar about minor things
@@ -42,16 +47,13 @@ Corrupted by an artifact or dark magic A prophetic dream has been haunting them 
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Thalia Xendar the Scholar (Family - Cousin)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Drusilla Zephyrblade the Broken (Professional - Employer)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Has a child they're protecting

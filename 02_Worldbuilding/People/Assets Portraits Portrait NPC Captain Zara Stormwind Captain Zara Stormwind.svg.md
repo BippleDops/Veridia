@@ -182,3 +182,7 @@ This NPC can serve multiple roles:
 - [[Azure Shard]] (friend)
 ---
 *Tags*: #npc #contact #worldbuilding
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-the-crystal-cathedral-of-pure-light-v1-the-crystal-cathedral-of-pure-light.svg]]

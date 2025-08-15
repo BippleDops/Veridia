@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Ironwood the Seeker", "vesper ironwood the seeker", "Vesper Ironwood Seeker", "Seeker the Ironwood Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Ironwood the Seeker
 
 *Firbolg Blacksmith (Commoners), Age 26, Female*
@@ -36,7 +42,6 @@ Grew up in poverty but discovered a talent that might change everything A family
 - **Short Term**: Avoid the authorities
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Nerys Moonshadow the Bold (Political - Puppet)
 - **Status**: Professional only
@@ -47,16 +52,13 @@ Grew up in poverty but discovered a talent that might change everything A family
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Rhiannon Ashford the Lost (Personal - Best friend)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
 
-
 ### Branwen Quicksilver the Wanderer (Criminal - Fence)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
-
 
 ### Gareth Stormwind the Wise (Criminal - Informant)
 - **Status**: One-sided affection
@@ -66,7 +68,6 @@ Grew up in poverty but discovered a talent that might change everything A family
 ### Solas Thornweave the Guardian (Personal - Childhood friend)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Is the lost heir to the throne

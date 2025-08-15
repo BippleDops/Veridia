@@ -1,3 +1,9 @@
+---
+aliases: ["Void-touched Scepter of Destiny", "void-touched scepter of destiny", "Destiny of Scepter Void-touched"]
+tags: [item, equipment]
+type: item
+---
+
 # Void-touched Scepter of Destiny
 
 *Artifacts, Artifact (requires attunement)*
@@ -16,8 +22,6 @@ A void-touched scepter pulsing with inner light
 - Telepathy 120 ft
 - Time stop 1/week
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -32,7 +36,6 @@ Priceless
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.422Z*

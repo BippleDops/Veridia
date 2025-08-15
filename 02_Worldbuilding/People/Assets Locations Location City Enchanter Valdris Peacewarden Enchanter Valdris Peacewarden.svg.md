@@ -216,3 +216,9 @@ This NPC can serve multiple roles:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-void-echo-silence-deafmake-v1-void-echo-silence-deafmake.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-steelhart-captain-steelhart.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-torren-stormwright-captain-torren-stormwright.svg]]

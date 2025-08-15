@@ -29,7 +29,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -194,7 +194,7 @@ Central Location can serve as:
 - **Major Setting**: Central to campaign events
 - **Background Element**: Referenced but not visited
 
-### [[[[Random Encounter]]s]] (d20)
+### [[Random Encounter|[[Random Encounter]]s]] (d20)
 1-4: [[City Watch]] patrol
 5-8: Merchant hawking wares
 9-11: Pickpocket attempt
@@ -242,3 +242,74 @@ Central Location can serve as:
 - **Near Future**: Trial in 12 days
 - **Brewing Conflict**: [[Trade War]]
 - **Prophecy Connection**: [[Link]]s to The Second Prophecy of Stars
+
+## References
+
+- [[02_Worldbuilding_Factions_The_Crystal_Forge_Guild]]
+- [[02_Worldbuilding_Factions_The_Order_of_the_Veil]]
+- [[02_Worldbuilding_Factions_The_Prismatic_Order]]
+- [[02_Worldbuilding_Groups_Climate_Control_Guild]]
+- [[02_Worldbuilding_Groups_Crystal_Cultivators_Guil]]
+- [[02_Worldbuilding_Groups_Cultural_Preservation_Societ]]
+- [[02_Worldbuilding_Groups_Environmental_Engineers_Guild]]
+- [[02_Worldbuilding_Groups_Order_of_Mirrors]]
+- [[02_Worldbuilding_Groups_Order_of_the_Crystal_Flame]]
+- [[02_Worldbuilding_Groups_Order_of_the_Silver_Ancho]]
+- [[02_Worldbuilding_Groups_The_Cloud_Shepherd_Guild]]
+- [[02_Worldbuilding_Groups_The_Memory_Merchants_Guild]]
+- [[02_Worldbuilding_Groups_The_Order_of_the_Silent_Vigi]]
+- [[02_Worldbuilding_Organizations_The_Ethical_Council_of_Mages]]
+- [[02_Worldbuilding_People_Cultural_Liaison_Twilight_Bridgewalker]]
+- [[02_Worldbuilding_People_Cultural_Sage_Deep_Memory]]
+- [[Assets Art Syndicate Enforcers.png]]
+- [[Assets Handouts Handout Handout Council Summons Notice Council Summons Notice.png]]
+- [[Assets Handouts Handout Handout Council Summons Notice V1 Council Summons Notice.png]]
+- [[Assets Handouts Handout Handout Council Summons Notice V2 Council Summons Notice.png]]
+- [[Assets Handouts Handout Handout Council Summons Notice V3 Council Summons Notice.png]]
+- [[Assets Handouts Handout Handout Cult Text with Marginalia Cult Text with Marginalia.png]]
+- [[Assets Handouts Handout Handout Cult Text with Marginalia V1 Cult Text with Marginalia.png]]
+- [[Assets Handouts Handout Handout Cult Text with Marginalia V2 Cult Text with Marginalia.png]]
+- [[Assets Handouts Handout Handout Cult Text with Marginalia V3 Cult Text with Marginalia.png]]
+- [[Assets Handouts Handout Handout Guild License Certificate Guild License Certificate.png]]
+- [[Assets Handouts Handout Handout Guild License Certificate V1 Guild License Certificate.png]]
+- [[Assets Handouts Handout Handout Guild License Certificate V2 Guild License Certificate.png]]
+- [[Assets Handouts Handout Handout Guild License Certificate V3 Guild License Certificate.png]]
+- [[Assets Vehicles Vehicle Ship Crown Council Flagship Crown Council Flagship.svg]]
+- [[Assets Vehicles Vehicle Ship Crown Council Flagship V1 Crown Council Flagship.svg]]
+- [[Assets Vehicles Vehicle Ship Crown Council Flagship V2 Crown Council Flagship.svg]]
+- [[Climate_Control_Guild]]
+- [[Cross-Cultural_Legal_Association]]
+- [[Crystal_Corruption_Cultists]]
+- [[Cultural Exchange Cente]]
+- [[Cultural Festivals Committee]]
+- [[Cultural_Ambassador_Bridge-Builder]]
+- [[Cultural_Integration_Council]]
+- [[Factions the Crystal Forge Guild]]
+- [[Factions the Order of the Veil]]
+- [[Factions the Prismatic Order]]
+- [[Guild of Cross Realm Navigators]]
+- [[Interfaith_Council]]
+- [[Merchants Guild.md]]
+- [[Natural Order Movemen]]
+- [[Order of Sacred Winds]]
+- [[Order of the Crystal Flame Monastery]]
+- [[Order of the Crystal Flame]]
+- [[Order of the Silent Vigil]]
+- [[Order of the Silver Ancho]]
+- [[Organizations the Ethical Council of Mages]]
+- [[Research Council]]
+- [[The Cloud Shepherd Guild]]
+- [[The Cultural Heritage Society]]
+- [[The Silver Order]]
+- [[The_Festival_Council]]
+- [[The_Wind-Rider_Cultural_Center]]
+- [[The_Wind-Rider_Cultural_Society]]
+- [[Wind_Rider_Orders]]
+- [[_03_Mechanics_CLI_bestiary_humanoid_cultist-fanatic-xmm]]
+- [[_03_Mechanics_CLI_bestiary_humanoid_cultist_xmm]]
+- [[fiendish-cults-cult-organization-mtf]]
+- [[guild-artisan-guild-merchant-variant]]
+- [[Eastern Provinces]]
+- [[Fortress of the Deeps]]
+- [[Temple Ward]]
+- [[The Infinite Garden]]

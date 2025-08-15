@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Proudmore the Cunning", "gareth proudmore the cunning", "Gareth Proudmore Cunning", "Cunning the Proudmore Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Proudmore the Cunning
 
 *Genasi Noble (Nobles), Age 56, Male*
@@ -13,7 +19,6 @@
 Above average and lanky, with Wild and unkempt bald hair and Brown eyes. Unusual hue skin. Missing finger on left hand.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Never backs down from any challenge; Incredibly optimistic despite evidence; Sees doom and gloom everywhere
@@ -36,27 +41,22 @@ Exiled from their homeland, trying to rebuild their power base They're being bla
 - **Short Term**: Gather information
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Alaric Youngblood the Risen (Professional - Mentor)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Aldric Nightfall (Family - Sibling)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ### Alaric Hawthorne (Professional - Mentor)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
 
-
 ### Aldric Hawthorne the Redeemed (Personal - Ex-lover)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
-
 
 ### Wynne Grimholt (Personal - Best friend)
 - **Status**: One-sided affection

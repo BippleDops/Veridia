@@ -105,3 +105,15 @@ improvements: 20
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Consequence Chain 4 - Deep Mother Awakening]]
+- [[Crystal Forest]]
+- [[Customs House]]
+- [[Pressure Adaptation System]]
+- [[Resonance Peaks]]
+- [[The Crown of Stars]]
+- [[Underwater Breathing]]
+- [[Cross-Dimensional Transit Authority]]
+- [[Gravity Anomaly Mechanics]]

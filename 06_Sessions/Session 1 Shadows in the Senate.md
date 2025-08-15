@@ -340,7 +340,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Alternate Descriptions
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
@@ -349,3 +348,8 @@ Contextual improvement based on 12_Research
 ## Player Tips
 > 🎮 **Strategy**: How to approach this content
 > Work together and communicate
+
+## References
+
+- [[MASTER_VAULT_INDEX]]
+- [[Session 2 the Shadow Surgery]]

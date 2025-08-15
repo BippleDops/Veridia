@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-high-priestess-marina-oracleguard-high-priestess-marina-oracleguard.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -206,7 +204,6 @@ Member of House Dragonblood - Trait: divine blood
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -276,3 +273,9 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City Temple Guardian Marcus the Drowned Temple Guardian Marcus the Drowned.svg]]
+- [[Mad Oracle Thessaly]]
+- [[Mad Oracle Thessaly (D&D_References)]]

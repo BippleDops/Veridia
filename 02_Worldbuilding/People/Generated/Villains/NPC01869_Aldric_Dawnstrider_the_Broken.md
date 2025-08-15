@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Dawnstrider the Broken", "aldric dawnstrider the broken", "Aldric Dawnstrider Broken", "Broken the Dawnstrider Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Dawnstrider the Broken
 
 *Half-Orc Assassin (Villains), Age 55, Female*
@@ -36,17 +42,14 @@ Driven mad by knowledge humanity wasn't meant to know They've been marked by a s
 - **Short Term**: Sabotage competition
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Pyria Jadeclaw the Cunning (Family - Parent)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Nerys Blackstone the Scholar (Criminal - Informant)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ### Aldric Thornweave the Risen (Family - Child)
 - **Status**: Blood oath bound
@@ -56,7 +59,6 @@ Driven mad by knowledge humanity wasn't meant to know They've been marked by a s
 ### Wynne Ravenheart the Scholar (Professional - Employer)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Knows how the world will end

@@ -1,3 +1,9 @@
+---
+aliases: ["Mithril Gauntlets of Protection", "mithril gauntlets of protection", "Protection of Gauntlets Mithril"]
+tags: [item, equipment]
+type: item
+---
+
 # Mithril Gauntlets of Protection
 
 *Armor, Uncommon (requires attunement)*

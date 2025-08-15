@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Xendar the Strong", "fiora xendar the strong", "Fiora Xendar Strong", "Strong the Xendar Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Xendar the Strong
 
 *Firbolg Carpenter (Commoners), Age 64, Female*
@@ -42,16 +48,13 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
 
-
 ### Elric Lightbringer the Scholar (Political - Opposition)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Fiora Moonshadow the Swift (Political - Opposition)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Knows location of ancient treasure

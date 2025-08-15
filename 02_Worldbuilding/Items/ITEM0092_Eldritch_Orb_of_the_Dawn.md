@@ -1,4 +1,5 @@
 ---
+aliases: ["Eldritch Orb of the Dawn", "eldritch orb of the dawn", "Eldritch Orb of Dawn", "Dawn the of Orb Eldritch"]
 tags: [generated]
 id: ITEM0092
 created: 2025-08-15T04:09:51.107Z
@@ -20,8 +21,6 @@ Crafted from crystal with delicate filigree, in showing age but sturdy. It emana
 
 ## Quirk
 *Whispers names of previous owners*
-
-
 
 ## History
 This item was corrupted by dark magic ages ago. It has passed through many hands, each leaving their mark upon its destiny.

@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Blackstone the Wanderer", "ysara blackstone the wanderer", "Ysara Blackstone Wanderer", "Wanderer the Blackstone Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Blackstone the Wanderer
 
 *Half-Elf Baker (Commoners), Age 38, Non-binary*
@@ -36,12 +42,10 @@ Grew up in poverty but discovered a talent that might change everything Strange 
 - **Short Term**: Complete current contract
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Nerys Stormwind the Seeker (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ### Vesper Ashford the Scholar (Political - Patron)
 - **Status**: On the verge of collapse
@@ -61,7 +65,6 @@ Grew up in poverty but discovered a talent that might change everything Strange 
 ### Drusilla Ashford the Lost (Family - Cousin)
 - **Status**: One-sided affection
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Witnessed a noble's crime

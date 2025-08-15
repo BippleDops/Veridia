@@ -1,11 +1,11 @@
 ---
+aliases: ["Ewan Ironforge", "ewan ironforge", "Ironforge Ewan"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -77,8 +77,6 @@ Merchant family that lost everything to pirates. Years ago, they found an ancien
 ### Skills
 Arcana, Athletics
 
-
-
 ## Possessions
 - 90 gold pieces
 - Healing potion
@@ -90,7 +88,6 @@ Arcana, Athletics
 
 ---
 *Generated: 2025-08-15T03:21:04.031Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

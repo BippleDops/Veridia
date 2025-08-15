@@ -405,7 +405,7 @@ The [[Pressure Conspiracy]] maintains hidden connections throughout [[Aquabyssos
 - **[[Ancient Ruins]]**: Hidden weapon caches and secret facilities
 - **[[The Pressure Storm Region]]**: Natural camouflage for operations
 - **[[Underground River Systems]]**: Alternative transportation routes
-- **[[Deep Archives]]**: Target for intelligence gathering
+- ****: Target for intelligence gathering
 - **[[Political Prison Complexes]]**: Sites for prisoner liberation operations
 
 #### Pressure Suits
@@ -448,7 +448,6 @@ Devices that create localized areas of extreme low pressure, causing explosive d
 Specialized underwater vehicles designed for rapid, stealthy transportation through ocean currents and pressure zones.
 
 The **Pressure Conspiracy** represents a complex web of political intrigue and revolutionary fervor that threatens to reshape the entire political landscape of [[Aquabyssos]], where the crushing weight of the depths serves as both obstacle and opportunity for those who dare to challenge the established order.
-
 
 ## Government
 - **Type**: Local council
@@ -495,13 +494,11 @@ The Pressure Conspiracy is a notable location characterized by its unique featur
 ### Founding
 The Pressure Conspiracy was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -558,7 +555,6 @@ Mentioned in The Hidden Prophecy of Depths
 - 20% middle class
 - 79% working poor
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -594,3 +590,9 @@ Mentioned in The Hidden Prophecy of Depths
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Temporal Navigation]]
+- [[Temporal Navigation (D&D_Statblocks)]]
+- [[The Whispering Expanse (D&D_Statblocks)]]

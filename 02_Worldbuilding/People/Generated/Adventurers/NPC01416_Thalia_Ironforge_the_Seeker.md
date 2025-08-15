@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Ironforge the Seeker", "thalia ironforge the seeker", "Thalia Ironforge Seeker", "Seeker the Ironforge Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Ironforge the Seeker
 
 *Half-Elf Ranger (Adventurers), Age 41, Non-binary*
@@ -36,22 +42,18 @@ Chosen by fate to fulfill an ancient prophecy A chance encounter last winter cha
 - **Short Term**: Complete current contract
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Alaric Goldleaf the Redeemed (Professional - Partner)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Malakai Thornweave the Seeker (Criminal - Accomplice)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
 
-
 ### Urien Crystalbrook the Broken (Criminal - Accomplice)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Carries a world-ending artifact

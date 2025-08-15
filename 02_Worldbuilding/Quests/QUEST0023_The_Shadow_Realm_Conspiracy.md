@@ -1,4 +1,5 @@
 ---
+aliases: ["The Shadow Realm Conspiracy", "the shadow realm conspiracy", "Conspiracy Realm Shadow The"]
 tags: [generated]
 id: QUEST0023
 created: 2025-08-15T04:09:51.377Z
@@ -22,8 +23,6 @@ Gain access to the sunken temple and complete the ritual
 ### Secondary
 - Maintain cover identity
 - Gather intelligence on enemy plans
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they witnessed something they shouldn't have, which changed their life forever. Now, circumstances demand immediate action.
@@ -54,8 +53,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Show mercy and gain intel - Future ally but justice denied
 2. Execute for crimes committed - Justice served but opportunity lost
-
-
 
 ## Rewards
 ### On Success

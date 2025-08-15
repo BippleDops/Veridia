@@ -117,6 +117,10 @@ An exciting quest that challenges heroes to save the realm.
 - Consequences
 - Epilogue hooks
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*
+
+## References
+
+- [[Name Etymology Guide]]
+- [[The Maw of Darkness (D&D_Statblocks)]]

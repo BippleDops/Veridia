@@ -64,3 +64,8 @@ Mentioned in The Second Prophecy of Stars
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[The Transformed Citizens]]
+- [[The Transformed Citizens (D&D_References)]]

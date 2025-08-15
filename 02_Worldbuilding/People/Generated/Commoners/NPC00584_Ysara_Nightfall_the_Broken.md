@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Nightfall the Broken", "ysara nightfall the broken", "Ysara Nightfall Broken", "Broken the Nightfall Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Nightfall the Broken
 
 *Halfling Baker (Commoners), Age 76, Male*
@@ -36,17 +42,14 @@ Former soldier trying to adjust to civilian life They've fallen in love with som
 - **Short Term**: Find missing person
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Vesper Winterborn the Fallen (Personal - Love interest)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Delara Darkwater the Strong (Personal - Childhood friend)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ### Dara Underhill (Family - Child)
 - **Status**: On the verge of collapse
@@ -56,7 +59,6 @@ Former soldier trying to adjust to civilian life They've fallen in love with som
 ### Aeliana Ravenheart the Seeker (Political - Spy)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Can hear the thoughts of others

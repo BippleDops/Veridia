@@ -84,7 +84,6 @@ An exciting quest that challenges heroes to claim glory.
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*
 ## Expansion Books & Setting Guides

@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Oakenshield the Bold", "dara oakenshield the bold", "Dara Oakenshield Bold", "Bold the Oakenshield Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Oakenshield the Bold
 
 *Human Carpenter (Commoners), Age 26, Female*
@@ -47,21 +53,17 @@ Grew up in poverty but discovered a talent that might change everything A chance
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
 
-
 ### Baelor Dawnstrider the Guardian (Criminal - Handler)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ### Delara Grimholt (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Rhiannon Jadeclaw the Wanderer (Personal - Ex-lover)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Witnessed a noble's crime

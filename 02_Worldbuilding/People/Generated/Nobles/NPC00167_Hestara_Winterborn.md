@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Winterborn", "hestara winterborn", "Winterborn Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Winterborn
 
 *Gnome Noble (Nobles), Age 40, Non-binary*
@@ -36,12 +42,10 @@ Last survivor of a fallen house, seeking to restore family honor They've made a 
 - **Short Term**: Make this month's payment
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Ysara Goldleaf the Redeemed (Professional - Rival)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ### Lyanna Quicksilver (Criminal - Accomplice)
 - **Status**: Blood oath bound
@@ -57,16 +61,13 @@ Last survivor of a fallen house, seeking to restore family honor They've made a 
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Vesper Ashford (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Wynne Stormwind (Family - Spouse)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Child from scandalous affair

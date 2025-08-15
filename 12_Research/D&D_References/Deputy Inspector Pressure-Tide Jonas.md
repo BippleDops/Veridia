@@ -56,3 +56,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Strange dreams suggest a portal
 - A noble needs help investigating before dawn
+
+## References
+
+- [[Customs House]]
+- [[Customs House (D&D_References)]]
+- [[Customs House 3 (D&D_References)]]

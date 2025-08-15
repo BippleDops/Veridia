@@ -1,3 +1,9 @@
+---
+aliases: ["Ornate Spyglass of Durability", "ornate spyglass of durability", "Durability of Spyglass Ornate"]
+tags: [item, equipment]
+type: item
+---
+
 # Ornate Spyglass of Durability
 
 *Mundane, Common*
@@ -13,8 +19,6 @@ A ornate spyglass expertly crafted
 ## Properties
 - Never breaks or wears out
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -29,7 +33,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.488Z*

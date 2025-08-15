@@ -188,3 +188,25 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Crusaders Shortsword Cos]]
+- [[Figurine of Wondrous Power Ivory Goats Xdmg]]
+- [[crusaders-shortsword-cos (items)]]
+- [[figurine-of-wondrous-power-ivory-goats-xdmg (items)]]
+- [[Blessing of Weapon Enhancement Xdmg]]
+- [[blessing-of-weapon-enhancement-xdmg (rewards)]]
+- [[Armaments Uncommon Xdmg]]
+- [[Magic Item Categories Xdmg]]
+- [[Magic Item Table F]]
+- [[Magic Items for Sale Scc]]
+- [[Random Magic Items Armaments]]
+- [[armaments-uncommon-xdmg (tables)]]
+- [[magic-item-categories-xdmg (tables)]]
+- [[magic-item-table-f (tables)]]
+- [[magic-items-for-sale-scc (tables)]]
+- [[random-magic-items-armaments (tables)]]
+- [[Downtime Activity Crafting a Magic Item]]
+- [[downtime-activity-crafting-a-magic-item (variant-rules)]]

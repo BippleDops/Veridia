@@ -71,3 +71,14 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Assets Item Artifact Explorers Pack Xphb Explorers Pack Xphb.png]]
+- [[The Soul Market]]
+- [[QUEST0018_The_Sunken_Temple_Uprising]]
+- [[Master_Item_Catalog]]
+- [[Crystal Ball of Mind Reading Xdmg]]
+- [[Shawm Xphb]]
+- [[caltrop]]
+- [[rod-of-alertness-xdmg (items)]]

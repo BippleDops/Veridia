@@ -1,3 +1,9 @@
+---
+aliases: ["Shadow Staff of the Ancients", "shadow staff of the ancients", "Shadow Staff of Ancients", "Ancients the of Staff Shadow"]
+tags: [item, equipment]
+type: item
+---
+
 # Shadow Staff of the Ancients
 
 *Weapons, Legendary*

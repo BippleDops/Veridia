@@ -101,7 +101,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -120,4 +119,36 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[detect-evil-and-good-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[detect-evil-and-good-xphb (spells)|detect-evil-and-good-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Couatl Xmm]]
+- [[Deva Xmm]]
+- [[Giant Owl Xmm]]
+- [[Planetar Xmm]]
+- [[Solar Xmm]]
+- [[Sphinx of Valor Xmm]]
+- [[Unicorn Xmm]]
+- [[couatl-xmm (celestial)]]
+- [[deva-xmm (celestial)]]
+- [[giant-owl-xmm (celestial)]]
+- [[planetar-xmm (celestial)]]
+- [[solar-xmm (celestial)]]
+- [[sphinx-of-valor-xmm (celestial)]]
+- [[unicorn-xmm (celestial)]]
+- [[Dao Xmm]]
+- [[Marid Xmm]]
+- [[dao-xmm (elemental)]]
+- [[marid-xmm (elemental)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Hazirawn Hotdq]]
+- [[Rod of Alertness Xdmg]]
+- [[Whelm Xdmg]]
+- [[hazirawn-hotdq (items)]]
+- [[rod-of-alertness-xdmg (items)]]
+- [[whelm-xdmg (items)]]
+- [[Desecrated Ground]]
+- [[desecrated-ground (traps-hazards)]]

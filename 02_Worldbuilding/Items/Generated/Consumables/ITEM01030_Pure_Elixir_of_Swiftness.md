@@ -1,3 +1,9 @@
+---
+aliases: ["Pure Elixir of Swiftness", "pure elixir of swiftness", "Swiftness of Elixir Pure"]
+tags: [item, equipment]
+type: item
+---
+
 # Pure Elixir of Swiftness
 
 *Consumables, Rare*
@@ -15,8 +21,6 @@ A pure elixir glowing softly
 - Increase speed by 10 ft
 - Restore 4d4+4 hit points
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -31,7 +35,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.450Z*

@@ -51,7 +51,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -101,7 +101,7 @@ A critical equipment failure involving pressure suits used for deep-sea operatio
 **Failure Type**: Seal degradation causing catastrophic pressure loss
 **Casualty Count**: 3 deaths, 12 serious injuries, 30+ suits compromised
 **Affected Personnel**: Deep miners, military patrol units, research expeditions
-**[[[[Time]]line]]**: Failures began 2 weeks ago, pattern emerging over last 5 days
+**[[Time|[[Time]]line]]**: Failures began 2 weeks ago, pattern emerging over last 5 days
 
 ## Symptoms and Failures
 **Primary Seal Failure**: Joint seals degrading rapidly under pressure
@@ -207,7 +207,7 @@ A critical equipment failure involving pressure suits used for deep-sea operatio
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 This crisis provides opportunities for rescue missions, investigation adventures, and exploration of themes around technology, safety, and corporate responsibility. The equipment failure can serve as background tension or central plot element depending on campaign needs.
 
 ## Player-Facing Summary
@@ -238,13 +238,11 @@ Pressure Suit Malfunction is a notable location characterized by its unique feat
 ### Founding
 Pressure Suit Malfunction was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -252,13 +250,11 @@ Pressure Suit Malfunction was established in the distant past, growing from humb
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -300,7 +296,6 @@ Ongoing situations affecting Pressure Suit Malfunction:
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -336,3 +331,8 @@ Ongoing situations affecting Pressure Suit Malfunction:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Pearl_Harbor_City (Places)]]
+- [[Pearl_Harbor_City (D&D_References)]]

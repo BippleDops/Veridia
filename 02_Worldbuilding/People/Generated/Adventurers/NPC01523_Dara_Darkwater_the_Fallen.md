@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Darkwater the Fallen", "dara darkwater the fallen", "Dara Darkwater Fallen", "Fallen the Darkwater Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Darkwater the Fallen
 
 *Halfling Wizard (Adventurers), Age 61, Female*
@@ -36,7 +42,6 @@ Searching for a legendary treasure their parent died seeking They've made a deal
 - **Short Term**: Make this month's payment
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Aldric Stormwind the Wanderer (Personal - Best friend)
 - **Status**: Recently reconciled
@@ -47,7 +52,6 @@ Searching for a legendary treasure their parent died seeking They've made a deal
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
 
-
 ### Gavril Ashford the Redeemed (Family - Parent)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
@@ -56,7 +60,6 @@ Searching for a legendary treasure their parent died seeking They've made a deal
 ### Aldric Blackstone the Cunning (Family - Sibling)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Carries a world-ending artifact

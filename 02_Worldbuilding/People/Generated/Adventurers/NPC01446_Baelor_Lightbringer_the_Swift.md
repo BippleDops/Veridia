@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Lightbringer the Swift", "baelor lightbringer the swift", "Baelor Lightbringer Swift", "Swift the Lightbringer Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Lightbringer the Swift
 
 *Human Ranger (Adventurers), Age 60, Male*
@@ -42,16 +48,13 @@ Accidentally gained powers and learning to control them They're being blackmaile
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Felicia Crystalbrook the Redeemed (Family - Sibling)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
 
-
 ### Caelum Grimholt the Risen (Professional - Employer)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ### Rhiannon Silverleaf the Wanderer (Criminal - Accomplice)
 - **Status**: On the verge of collapse
@@ -61,7 +64,6 @@ Accidentally gained powers and learning to control them They're being blackmaile
 ### Wynne Dawnstrider the Guardian (Professional - Mentor)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ### Orion Hawthorne the Wanderer (Family - Child)
 - **Status**: Professional only

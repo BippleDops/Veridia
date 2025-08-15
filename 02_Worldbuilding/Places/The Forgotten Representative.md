@@ -58,7 +58,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -164,7 +164,7 @@ They seem particularly focused on ensuring that any resolution to the crisis ack
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Use the Forgotten Representative to introduce historical complexity to current events and to remind players that their actions will be remembered by future generations. They serve as a conscience for the campaign, ensuring that moral choices have weight and that the costs of decisions are acknowledged.
 
@@ -193,13 +193,11 @@ The Forgotten Representative is a notable location characterized by its unique f
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -207,13 +205,11 @@ The Forgotten Representative is a notable location characterized by its unique f
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -236,7 +232,7 @@ Ongoing situations affecting The Forgotten Representative:
 - A stranger needs help delivering before the new moon
 - A noble needs help delivering before winter
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -264,7 +260,6 @@ Ongoing situations affecting The Forgotten Representative:
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -301,3 +296,9 @@ Ongoing situations affecting The Forgotten Representative:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Comprehensive-World-Connection-Guide]]
+- [[Comprehensive-World-Connection-Guide (D&D_References)]]
+- [[Comprehensive-World-Connection-Guide 3 (D&D_References)]]

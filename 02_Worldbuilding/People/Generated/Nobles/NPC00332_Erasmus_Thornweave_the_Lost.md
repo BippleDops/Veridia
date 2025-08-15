@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Thornweave the Lost", "erasmus thornweave the lost", "Erasmus Thornweave Lost", "Lost the Thornweave Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Thornweave the Lost
 
 *Goliath Heir (Nobles), Age 31, Female*
@@ -13,7 +19,6 @@
 Tall and heavyset, with Dreadlocks bald hair and Red eyes. Weathered skin. Gold tooth that glints when smiling.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Compulsive liar about minor things; Never backs down from any challenge
@@ -47,11 +52,9 @@ Secretly adopted into nobility, living in fear of discovery They've made a deal 
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Solas Dawnstrider the Fallen (Criminal - Target)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ### Wynne Zephyrblade (Personal - Best friend)
 - **Status**: Strained but maintaining
@@ -62,11 +65,9 @@ Secretly adopted into nobility, living in fear of discovery They've made a deal 
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
 
-
 ### Vesper Underhill (Political - Ally)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

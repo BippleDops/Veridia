@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Emberfall the Seeker", "lyanna emberfall the seeker", "Lyanna Emberfall Seeker", "Seeker the Emberfall Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Emberfall the Seeker
 
 *Half-Elf Crime Boss (Villains), Age 31, Female*
@@ -13,7 +19,6 @@
 Very tall and stocky, with Long and flowing black hair and Red eyes. Olive skin. Birthmark shaped like a constellation.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Always hungry and eating something; Never backs down from any challenge; Sees doom and gloom everywhere
@@ -36,17 +41,14 @@ Born into evil but questioning their path They've been marked by a secret societ
 - **Short Term**: Sabotage competition
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Thalia Jadeclaw the Scholar (Personal - Best friend)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Idris Lightbringer the Mystic (Personal - Best friend)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ### Gareth Moonshadow the Redeemed (Personal - Nemesis)
 - **Status**: On the verge of collapse
@@ -57,11 +59,9 @@ Born into evil but questioning their path They've been marked by a secret societ
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
 
-
 ### Faelyn Moonshadow the Risen (Political - Patron)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is being controlled by darker force

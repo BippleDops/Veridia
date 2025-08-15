@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Brightblade the Redeemed", "aldric brightblade the redeemed", "Aldric Brightblade Redeemed", "Redeemed the Brightblade Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Brightblade the Redeemed
 
 *Gnome Crime Boss (Villains), Age 42, Male*
@@ -13,7 +19,6 @@
 Below average and compact, with Braided elaborately white hair and Blue eyes. Fair skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Flirts with everyone regardless of interest; Incredibly optimistic despite evidence; Never uses people's real names; Collects unusual and worthless objects
@@ -47,21 +52,17 @@ Corrupted by an artifact or dark magic An old debt has come due at the worst pos
 - **Status**: Complicated history
 - **History**: United by common enemy
 
-
 ### Felicia Keenblade the Scholar (Professional - Rival)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ### Felicia Nightfall the Guardian (Personal - Childhood friend)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Solas Quicksilver the Bold (Criminal - Accomplice)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Believes they're saving the world

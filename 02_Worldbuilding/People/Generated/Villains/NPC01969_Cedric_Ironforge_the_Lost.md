@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Ironforge the Lost", "cedric ironforge the lost", "Cedric Ironforge Lost", "Lost the Ironforge Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Ironforge the Lost
 
 *Dwarf Crime Boss (Villains), Age 49, Non-binary*
@@ -13,7 +19,6 @@
 Below average and lanky, with Carefully styled unusual color hair and Red eyes. Pale skin. Weather-beaten face showing hard life.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth
@@ -36,22 +41,18 @@ Corrupted by an artifact or dark magic They recently discovered a secret that co
 - **Short Term**: Sabotage competition
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Delara Zephyrblade the Seeker (Professional - Mentor)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
 
-
 ### Wynne Grimholt the Redeemed (Criminal - Accomplice)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Pyria Nightfall the Swift (Professional - Employee)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Knows how the world will end

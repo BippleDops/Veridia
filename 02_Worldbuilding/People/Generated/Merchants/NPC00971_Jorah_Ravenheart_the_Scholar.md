@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Ravenheart the Scholar", "jorah ravenheart the scholar", "Jorah Ravenheart Scholar", "Scholar the Ravenheart Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Ravenheart the Scholar
 
 *Dwarf Shopkeeper (Merchants), Age 76, Non-binary*
@@ -42,26 +48,21 @@ Inherited a failing business and turned it around A prophetic dream has been hau
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
 
-
 ### Thalia Goldleaf the Swift (Criminal - Fence)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ### Wynne Ashford the Redeemed (Professional - Mentor)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Gavril Jadeclaw the Risen (Political - Ally)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Rhiannon Blackstone the Mystic (Professional - Rival)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Is actually a spy for foreign power

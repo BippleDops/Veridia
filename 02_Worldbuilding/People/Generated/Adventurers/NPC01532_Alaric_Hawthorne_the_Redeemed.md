@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Hawthorne the Redeemed", "alaric hawthorne the redeemed", "Alaric Hawthorne Redeemed", "Redeemed the Hawthorne Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Hawthorne the Redeemed
 
 *Halfling Fighter (Adventurers), Age 27, Non-binary*
@@ -36,37 +42,30 @@ Searching for a legendary treasure their parent died seeking They're being black
 - **Short Term**: Sabotage competition
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Brenna Grimholt the Cunning (Personal - Ex-lover)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
 
-
 ### Wynne Winterborn the Mystic (Personal - Ex-lover)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ### Fiora Dawnstrider the Risen (Professional - Rival)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Drusilla Blackstone the Mystic (Family - Cousin)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
-
 
 ### Branwen Darkwater the Risen (Political - Spy)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Felicia Ironwood the Fallen (Family - Spouse)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Secretly working for the villain

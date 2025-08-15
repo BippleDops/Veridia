@@ -145,3 +145,9 @@ improvements: 20
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[02_Worldbuilding_Lore_Surface_World_Theories]]
+- [[Surface Signals]]
+- [[Surface Signals (D&D_Statblocks)]]

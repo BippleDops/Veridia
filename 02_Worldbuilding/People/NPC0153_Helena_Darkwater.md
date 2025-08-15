@@ -1,11 +1,11 @@
 ---
+aliases: ["Helena Darkwater", "helena darkwater", "Darkwater Helena"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -80,7 +80,6 @@ Deception, Insight
 ### Combat
 **Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
 
-
 ## Possessions
 - 26 gold pieces
 - Map to unknown location
@@ -95,7 +94,6 @@ Deception, Insight
 
 ---
 *Generated: 2025-08-15T03:20:13.089Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

@@ -132,3 +132,9 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Political Intrigue Master Index]]
+- [[Relationship Web Nuances]]
+- [[Abyssos Prime - Pressure Terminal]]

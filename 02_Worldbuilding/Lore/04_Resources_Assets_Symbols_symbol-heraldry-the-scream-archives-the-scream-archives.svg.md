@@ -26,3 +26,10 @@ Further information about this topic will be developed as the campaign progresse
 - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery
+
+
+## References
+
+- [[Assets Locations Location City Archdruid Marina Kelpweaver Archdruid Marina Kelpweaver.svg]]
+- [[Assets Portraits Portrait NPC Quest Storm Lord S Challenge Quest Storm Lord S Challenge.svg]]
+- [[Assets Symbols Symbol Heraldry the Stellar Confluence the Stellar Confluence.svg]]

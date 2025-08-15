@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Quicksilver the Wanderer", "idris quicksilver the wanderer", "Idris Quicksilver Wanderer", "Wanderer the Quicksilver Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Quicksilver the Wanderer
 
 *Dragonborn Fisher (Commoners), Age 60, Non-binary*
@@ -36,12 +42,10 @@ Runaway from an arranged marriage, starting a new life A family member's death h
 - **Short Term**: Complete current contract
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Fiora Keenblade the Guardian (Personal - Love interest)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ### Nerys Ashford the Cunning (Political - Opposition)
 - **Status**: Complicated history
@@ -51,7 +55,6 @@ Runaway from an arranged marriage, starting a new life A family member's death h
 ### Corvus Dawnstrider the Wise (Criminal - Fence)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
-
 
 ### Cedric Ravenheart the Swift (Professional - Employer)
 - **Status**: Complicated history
@@ -66,7 +69,6 @@ Runaway from an arranged marriage, starting a new life A family member's death h
 ### Solas Youngblood the Fallen (Criminal - Accomplice)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Knows location of ancient treasure

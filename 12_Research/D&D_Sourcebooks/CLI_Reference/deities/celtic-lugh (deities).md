@@ -1,5 +1,5 @@
 ---
-title: celtic-lugh (deities)
+title: celtic-lugh ([[deities|deities]])
 type: note
 tags:
 - note
@@ -10,13 +10,13 @@ modified: '2025-01-15'
 # celtic-lugh
 
 ---
-title: celtic lugh
+title: [[Celtic Lugh|Celtic Lugh]]
 aliases:
 - Lugh
 type: note
 tags:
 - ttrpg-cli/deity/celtic
-- ttrpg-cli/compendium/src/5e/phb
+- ttrpg-cli/[[Compendium|Compendium]]/src/5e/phb
 - research
 - world/both
 - active
@@ -52,15 +52,15 @@ world: Both
 
 - Add 12_Research-specific enhancement
 
-## Player-Facing Summary
+## Player-[[facing|facing]] Summary
 
 Celtic lugh is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore|Lore]] Details
 
-Legends speak of celtic lugh as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around celtic lugh.
+Legends speak of celtic lugh as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or [[Whispers|Whispers]] on the wind—that herald change around celtic lugh.
 
-## DM Notes
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -82,3 +82,6 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+---
+**Navigation**: [[INDEX|🏠 Home]] | [[INDEX|📚 Index]]

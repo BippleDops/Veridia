@@ -1,3 +1,9 @@
+---
+aliases: ["Decorated Map Case of Durability", "decorated map case of durability", "Durability of Case Map Decorated"]
+tags: [item, equipment]
+type: item
+---
+
 # Decorated Map Case of Durability
 
 *Mundane, Common*
@@ -13,8 +19,6 @@ A decorated map case expertly crafted
 ## Properties
 - Grants minor benefit
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -29,7 +33,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.487Z*

@@ -98,3 +98,22 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Arcane Study]]
+- [[arcane-study (bastions)]]
+- [[demiplane]]
+- [[Rogue Xphb Arcane Trickster Xphb]]
+- [[Sorcerer Xphb]]
+- [[rogue-xphb-arcane-trickster-xphb (classes)]]
+- [[sorcerer-xphb (classes)]]
+- [[Jewelers Tools Xphb]]
+- [[Woodcarvers Tools Xphb]]
+- [[jewelers-tools-xphb (items)]]
+- [[woodcarvers-tools-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[Special Facility Descriptions Special Facilities Xdmg]]
+- [[Special Facility Descriptions Special]]
+- [[adventuring-gear-phb (tables)]]

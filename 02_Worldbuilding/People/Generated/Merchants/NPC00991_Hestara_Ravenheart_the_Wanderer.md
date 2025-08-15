@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Ravenheart the Wanderer", "hestara ravenheart the wanderer", "Hestara Ravenheart Wanderer", "Wanderer the Ravenheart Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Ravenheart the Wanderer
 
 *Genasi Caravan Master (Merchants), Age 33, Male*
@@ -36,17 +42,14 @@ Inherited a failing business and turned it around They've been marked by a secre
 - **Short Term**: Sabotage competition
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Qadim Voidwalker the Broken (Personal - Nemesis)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Hilda Stormwind the Guardian (Personal - Best friend)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
-
 
 ### Malakai Emberfall the Bold (Political - Spy)
 - **Status**: Mutually beneficial

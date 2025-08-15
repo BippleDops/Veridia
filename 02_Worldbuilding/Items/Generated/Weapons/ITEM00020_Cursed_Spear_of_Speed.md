@@ -1,3 +1,9 @@
+---
+aliases: ["Cursed Spear of Speed", "cursed spear of speed", "Speed of Spear Cursed"]
+tags: [item, equipment]
+type: item
+---
+
 # Cursed Spear of Speed
 
 *Weapons, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A cursed spear carved from dragon bone
 - Returns when thrown
 - Returns when thrown
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -30,7 +34,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.343Z*

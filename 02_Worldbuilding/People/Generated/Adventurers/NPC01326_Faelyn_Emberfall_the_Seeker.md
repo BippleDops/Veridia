@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Emberfall the Seeker", "faelyn emberfall the seeker", "Faelyn Emberfall Seeker", "Seeker the Emberfall Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Emberfall the Seeker
 
 *Goliath Rogue (Adventurers), Age 39, Male*
@@ -42,16 +48,13 @@ Chosen by fate to fulfill an ancient prophecy Strange abilities have begun manif
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
 
-
 ### Faelyn Ironwood the Cunning (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Malakai Voidwalker the Mystic (Personal - Best friend)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
-
 
 ### Drusilla Ironforge the Swift (Political - Spy)
 - **Status**: Mutually beneficial
@@ -66,7 +69,6 @@ Chosen by fate to fulfill an ancient prophecy Strange abilities have begun manif
 ### Idris Grimholt the Bold (Family - Cousin)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Possessed by ancient spirit

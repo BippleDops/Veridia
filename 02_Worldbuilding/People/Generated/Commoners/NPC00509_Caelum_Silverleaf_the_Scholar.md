@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Silverleaf the Scholar", "caelum silverleaf the scholar", "Caelum Silverleaf Scholar", "Scholar the Silverleaf Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Silverleaf the Scholar
 
 *Dragonborn Fisher (Commoners), Age 48, Male*
@@ -41,7 +47,6 @@ Survivor of a disaster that destroyed their village An old debt has come due at 
 ### Zephyr Zephyrblade the Fallen (Criminal - Fence)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ### Ysara Stormwind (Political - Ally)
 - **Status**: Professional only

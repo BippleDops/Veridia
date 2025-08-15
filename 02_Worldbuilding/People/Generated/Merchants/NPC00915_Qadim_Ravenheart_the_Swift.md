@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Ravenheart the Swift", "qadim ravenheart the swift", "Qadim Ravenheart Swift", "Swift the Ravenheart Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Ravenheart the Swift
 
 *Elf Trader (Merchants), Age 72, Male*
@@ -13,7 +19,6 @@
 Average height and athletic, with Dreadlocks bald hair and Hazel eyes. Scarred skin. Gold tooth that glints when smiling.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Compulsive liar about minor things; Constantly quotes ancient texts; Believes in every conspiracy theory
@@ -36,27 +41,22 @@ Built their business from nothing through cunning and hard work A family member'
 - **Short Term**: Survive until next week
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Pyria Keenblade the Seeker (Political - Opposition)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
 
-
 ### Hilda Quicksilver the Bold (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
-
 
 ### Nerys Underhill the Swift (Professional - Employee)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
 
-
 ### Pyria Quicksilver the Broken (Family - Parent)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Smuggles illegal magical items

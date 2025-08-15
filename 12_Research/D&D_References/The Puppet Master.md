@@ -60,3 +60,8 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Quest - The Truth Unveiled]]
+- [[Quest - The Truth Unveiled_1 (01_Adventures)]]

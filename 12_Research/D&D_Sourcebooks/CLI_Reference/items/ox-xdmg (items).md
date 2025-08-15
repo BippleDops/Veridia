@@ -77,3 +77,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Prophecy Connection
 
 Mentioned in The First Prophecy of Shadows
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Trade Goods Xdmg]]
+- [[trade-goods-xdmg (tables)]]

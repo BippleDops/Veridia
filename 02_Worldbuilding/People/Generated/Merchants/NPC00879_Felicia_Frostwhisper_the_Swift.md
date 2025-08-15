@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Frostwhisper the Swift", "felicia frostwhisper the swift", "Felicia Frostwhisper Swift", "Swift the Frostwhisper Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Frostwhisper the Swift
 
 *Goliath Shopkeeper (Merchants), Age 47, Male*
@@ -13,7 +19,6 @@
 Average height and wiry, with Shaved silver hair and Brown eyes. Tan skin. Missing ear from old battle.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Sees doom and gloom everywhere; Never backs down from any challenge
@@ -36,17 +41,14 @@ Uses their business as cover for other activities A family member's death has le
 - **Short Term**: Survive until next week
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Kaelen Thornweave the Scholar (Personal - Nemesis)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
 
-
 ### Pyria Blackstone the Guardian (Political - Puppet)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ### Hestara Youngblood the Fallen (Criminal - Accomplice)
 - **Status**: Secretly hostile
@@ -56,7 +58,6 @@ Uses their business as cover for other activities A family member's death has le
 ### Fiora Quicksilver the Risen (Professional - Employer)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
-
 
 ### Ewan Lightbringer the Mystic (Family - Sibling)
 - **Status**: Professional only

@@ -106,6 +106,10 @@ The Kelp Gardens represents a crucial aspect of the world's history, cosmology, 
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*
+
+## References
+
+- [[Topic Matrix]]
+- [[Topic_Matrix (Indexes)]]

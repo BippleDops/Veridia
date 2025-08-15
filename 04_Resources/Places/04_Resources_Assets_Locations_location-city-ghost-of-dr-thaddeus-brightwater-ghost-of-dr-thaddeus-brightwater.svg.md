@@ -102,3 +102,8 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Locations Location City Dockmaster Bruno Steadyanchor V1 Dockmaster Bruno Steadyanchor.svg]]
+- [[Assets Portraits Portrait NPC Watch Captain Roderick Shieldbreaker V1 Watch Captain Roderick Shieldbreaker.svg]]

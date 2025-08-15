@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Zephyrblade the Strong", "erasmus zephyrblade the strong", "Erasmus Zephyrblade Strong", "Strong the Zephyrblade Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Zephyrblade the Strong
 
 *Dwarf Ranger (Adventurers), Age 28, Female*
@@ -42,16 +48,13 @@ Chosen by fate to fulfill an ancient prophecy Strange abilities have begun manif
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Elric Hawthorne the Scholar (Criminal - Fence)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Elric Xendar the Wanderer (Criminal - Informant)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ### Branwen Voidwalker the Wise (Political - Patron)
 - **Status**: Blood oath bound
@@ -61,7 +64,6 @@ Chosen by fate to fulfill an ancient prophecy Strange abilities have begun manif
 ### Wynne Ravenheart the Fallen (Family - Child)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Possessed by ancient spirit

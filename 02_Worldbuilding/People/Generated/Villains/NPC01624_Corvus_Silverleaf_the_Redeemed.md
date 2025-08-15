@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Silverleaf the Redeemed", "corvus silverleaf the redeemed", "Corvus Silverleaf Redeemed", "Redeemed the Silverleaf Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Silverleaf the Redeemed
 
 *Human Corrupt Noble (Villains), Age 53, Female*
@@ -13,7 +19,6 @@
 Average height and muscular, with Mohawk gray hair and Green eyes. Unusual hue skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Believes in every conspiracy theory; Speaks to inanimate objects
@@ -36,32 +41,26 @@ Driven mad by knowledge humanity wasn't meant to know They're being blackmailed 
 - **Short Term**: Make this month's payment
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Gavril Lightbringer the Redeemed (Professional - Employer)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Aldric Underhill the Lost (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ### Urien Jadeclaw the Fallen (Personal - Love interest)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Dara Underhill the Risen (Personal - Childhood friend)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Erasmus Xendar the Broken (Political - Puppet)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Was once a renowned hero

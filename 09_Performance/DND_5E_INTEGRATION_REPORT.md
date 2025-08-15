@@ -18,9 +18,9 @@ Successfully integrated **1,247** D&D 5e mechanics and sourcebook references thr
 | Spells Linked | 499 |
 | Encounters Balanced | 76 |
 | Rules Referenced | 49 |
-| Action Economy Added | 100 |
-| Magic Items Integrated | 0 |
-| Conditions Added | 50 |
+| [[Action_Economy|Action Economy]] Added | 100 |
+| [[Magic [[Items|Items]]|Magic Items]] Integrated | 0 |
+| [[Conditions|Conditions]] Added | 50 |
 | Variant Rules Added | 20 |
 | Rules Index Created | 1 |
 
@@ -45,7 +45,7 @@ Successfully integrated **1,247** D&D 5e mechanics and sourcebook references thr
 - Magic item attunement rules (DMG p.136)
 
 ### ✅ Rules Accessibility
-- Master Rules Index created
+- [[MASTER_RULES_INDEX|MASTER RULES INDEX]] created
 - Quick reference sections added
 - Variant rules documented
 - Common rulings clarified
@@ -53,8 +53,8 @@ Successfully integrated **1,247** D&D 5e mechanics and sourcebook references thr
 ## CLI Reference Integration
 
 The vault now seamlessly integrates with the CLI_Reference system:
-- Creatures link to bestiary entries
-- Spells reference compendium data
+- Creatures link to [[Bestiary|Bestiary]] entries
+- Spells reference [[Compendium|Compendium]] data
 - Items connect to treasure tables
 - Rules cite official sources
 
@@ -68,7 +68,7 @@ After: Full 5e stat block with abilities, actions, and CR
 
 ### Spell Reference
 ```markdown
-Before: Spell name only
+Before: Spell [[Name|Name]] only
 After: Sourcebook page, school, components, CLI link
 ```
 
@@ -101,9 +101,9 @@ After: XP calculations, party adjustments, DMG guidelines
 ## Future Integration Opportunities
 
 1. **Adventure Module Integration**: Link published adventures
-2. **Encounter Builder**: Automated XP calculations
+2. **[[Encounter Builder|Encounter Builder]]**: Automated XP calculations
 3. **Treasure Generator**: DMG treasure tables
-4. **NPC Generator**: Using DMG/XGE tables
+4. **[[NPC_Generator|NPC Generator]]**: Using DMG/XGE tables
 5. **Spell Card Generation**: Formatted reference cards
 
 ## Conclusion

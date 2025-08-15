@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # 04_Resources_Assets_Portraits_portrait-npc-lord-admiral-gaius-windcutter-lord-admiral-gaius-windcutter.svg - Quick Reference
 
 ## Key Info

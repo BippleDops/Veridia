@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Ironwood the Seeker", "alaric ironwood the seeker", "Alaric Ironwood Seeker", "Seeker the Ironwood Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Ironwood the Seeker
 
 *Elf Aristocrat (Nobles), Age 77, Male*
@@ -36,32 +42,26 @@ Last survivor of a fallen house, seeking to restore family honor A family member
 - **Short Term**: Survive until next week
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Caelum Nightfall (Family - Child)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Drusilla Ironwood the Mystic (Personal - Best friend)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ### Kaelen Youngblood (Personal - Ex-lover)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
 
-
 ### Erasmus Ironforge the Guardian (Criminal - Fence)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Gavril Proudmore (Professional - Employee)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

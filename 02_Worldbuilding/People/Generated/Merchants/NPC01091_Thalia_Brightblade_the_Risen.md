@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Brightblade the Risen", "thalia brightblade the risen", "Thalia Brightblade Risen", "Risen the Brightblade Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Brightblade the Risen
 
 *Human Trader (Merchants), Age 75, Female*
@@ -36,27 +42,22 @@ Built their business from nothing through cunning and hard work They've made a d
 - **Short Term**: Gather information
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Gareth Ashford the Cunning (Political - Ally)
 - **Status**: Professional only
 - **History**: Arranged partnership that grew genuine
 
-
 ### Vesper Grimholt the Strong (Criminal - Accomplice)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ### Ewan Stormwind the Broken (Personal - Best friend)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
 
-
 ### Aldric Frostwhisper the Seeker (Criminal - Handler)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Smuggles illegal magical items

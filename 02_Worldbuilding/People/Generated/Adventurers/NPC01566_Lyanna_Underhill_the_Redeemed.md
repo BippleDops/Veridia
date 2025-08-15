@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Underhill the Redeemed", "lyanna underhill the redeemed", "Lyanna Underhill Redeemed", "Redeemed the Underhill Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Underhill the Redeemed
 
 *Gnome Bard (Adventurers), Age 76, Female*
@@ -13,7 +19,6 @@
 Average height and muscular, with Shaved auburn hair and Violet eyes. Freckled skin. Birthmark shaped like a constellation.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Never backs down from any challenge; Incredibly optimistic despite evidence
@@ -36,27 +41,22 @@ Searching for a legendary treasure their parent died seeking They're being black
 - **Short Term**: Recruit new members
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Gareth Stormwind the Cunning (Professional - Employee)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
 
-
 ### Rhiannon Quicksilver the Broken (Professional - Mentor)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ### Alaric Proudmore the Cunning (Professional - Partner)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Malakai Ashford the Swift (Criminal - Fence)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
-
 
 ### Nerys Youngblood the Wanderer (Professional - Employee)
 - **Status**: Professional only
@@ -66,7 +66,6 @@ Searching for a legendary treasure their parent died seeking They're being black
 ### Gavril Underhill the Bold (Criminal - Accomplice)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Carries a world-ending artifact

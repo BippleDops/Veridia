@@ -1,3 +1,9 @@
+---
+aliases: ["Refined Elixir of Clarity", "refined elixir of clarity", "Clarity of Elixir Refined"]
+tags: [item, equipment]
+type: item
+---
+
 # Refined Elixir of Clarity
 
 *Consumables, Uncommon*

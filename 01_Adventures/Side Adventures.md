@@ -102,7 +102,6 @@ Further information about this topic will be developed as the campaign progresse
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## See Also
 - Related content
 - Similar topics
@@ -111,3 +110,16 @@ Further information about this topic will be developed as the campaign progresse
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition
+
+## References
+
+- [[Quest Dependency System]]
+- [[optimization_report_*.md]]
+- [[deployment_report]]
+- [[Complete_NPC_Matrix (Indexes)]]
+- [[Monster_Ecology_Web (Indexes)]]
+- [[cleanup_report_20250814_173558]]
+- [[deep_quality_enhancement_20250814_175143]]
+- [[smart_link_fix_20250814_175123]]
+- [[step_003_build_image_generation_queue]]
+- [[step_008_generate_character_sheets]]

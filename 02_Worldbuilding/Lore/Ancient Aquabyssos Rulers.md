@@ -25,7 +25,7 @@ modified: '2025-08-14'
 status: draft
 historical_accuracy: Mix of verified records and recovered myths
 related_entities:
-- '[[The [[Great Drowning]]|[[02 Worldbuilding]]/Lore/[[The Great Drowning]]]]'
+- '[[Great Drowning|The [[Great Drowning]]|[[02_Worldbuilding|02 Worldbuilding]]/Lore/[[The Great Drowning]]]]'
 - '[[Parliament of Echoes]]'
 - '[[Thalassius the Wise]]'
 - '[[The Bathyal Palace]]'
@@ -54,7 +54,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -104,7 +104,7 @@ improvements: 20
 
 Before the establishment of the [[Parliament of Echoes]], [[Aquabyssos]] was ruled by a series of monarchs whose reigns spanned from the pre-drowning era through the tumultuous centuries following [[The Great Drowning|02 Worldbuilding/Lore/The Great Drowning]]. These rulers, known collectively as the Drowned Dynasties, shaped the underwater civilization through periods of survival, adaptation, expansion, and eventually, the transition to democratic goverce.
 
-The records of these ancient rulers are fragmented, preserved in [[[[Memory Meadows]] Black Market]], [[Coral]]-carved monuments, and the [[Abyssal Academy]] archives. Many details have been lost to time, [[Aboleth]] manipulation, and the chaos of the early drowning years.
+The records of these ancient rulers are fragmented, preserved in  manipulation, and the chaos of the early drowning years.
 
 ### [[Emperor]] Nereon [[The Tidecaller]] (Dates Lost)
 
@@ -116,11 +116,11 @@ The records of these ancient rulers are fragmented, preserved in [[[[Memory Mead
 
 **Legendary Artifacts:**
 - **[[The Crown]] of Storms**: Said to control weather patterns (current [[location]] unknown)
-- **The Tidecaller's Trident**: Ancient weapon with power over water (possibly the [[[[Tide Turner]]'s Trident]])
+- **The Tidecaller's Trident**: Ancient weapon with power over water (possibly the [[Tide Turner|[[Tide Turner]]'s Trident]])
 
 ### The Lost Princes
 
-References exist to Emperor Nereon's children, but their names and fates remain mysteries. [[[[Memory [[Merchant]] Valeria]]|02 Worldbuilding/People/Memory Merchant Valeria]] claims to possess [[Memory Pearls]] containing their stories, offered at astronomical prices to scholars from the [[Abyssal Academy]].
+References exist to Emperor Nereon's children, but their names and fates remain mysteries. [[Merchant|[[Memory [[Merchant]] Valeria]]|02 Worldbuilding/People/Memory Merchant Valeria]] claims to possess [[Memory Pearls]] containing their stories, offered at astronomical prices to scholars from the [[Abyssal Academy]].
 
 ### Empress Tethys the Ever-Drowning (0-47 AD)
 
@@ -145,7 +145,7 @@ References exist to Emperor Nereon's children, but their names and fates remain 
 - Made first recorded contact with aboleths (results classified in [[Abyssal Academy]] archives)
 
 **Notable Expeditions:**
-- Discovered [[[[The Abyss Beneath Aquabyssos]]|02 Worldbuilding/[[Places]]/The Abyss Beneath Aquabyssos]]
+- Discovered [[The Abyss Beneath Aquabyssos|[[The Abyss Beneath Aquabyssos]]|02 Worldbuilding/[[Places]]/The Abyss Beneath Aquabyssos]]
 - Established outposts in [[The Cerulean Trench]]
 - First documented encounter with [[Deep Mother]] (survivors' accounts sealed)
 
@@ -158,7 +158,7 @@ References exist to Emperor Nereon's children, but their names and fates remain 
 - Created the [[Ancient Siege Tunnels]] for underwater warfare
 
 **Architectural Legacy:**
-- **[[The [[Coral Courts]]]]**: Living palace complex using cultivated coral
+- **[[Coral|The [[Coral Courts]]]]**: Living palace complex using cultivated coral
 - **The Pressure Plazas**: Public gathering spaces adapted for various depths
 - **[[The Memory Garden]]s**: Archive spaces for storing historical records
 - **The Deep Gates**: Defensive structures protecting major cities
@@ -173,7 +173,7 @@ References exist to Emperor Nereon's children, but their names and fates remain 
 
 **Integration Policies:**
 - Mixed marriages between surface and deep populations encouraged
-- [[[[Cultural Exchange]] Programs]] with remaining surface civilizations
+- [[Cultural Exchange|[[Cultural Exchange]] Programs]] with remaining surface civilizations
 - Combined military units using both surface and underwater tactics
 - Hybrid architectural styles blending surface and deep aesthetics
 
@@ -201,7 +201,7 @@ References exist to Emperor Nereon's children, but their names and fates remain 
 
 **Controversial Legacy:**
 - Founded research programs later associated with [[Aboleth Mind Mazes]]
-- Created secret societies that may have evolved into [[The [[Shadow Conspiracy]]|02 Worldbuilding/[[Groups]]/The Shadow Conspiracy]]
+- Created secret societies that may have evolved into [[Shadow Conspiracy|The [[Shadow Conspiracy]]|02 Worldbuilding/[[Groups]]/The Shadow Conspiracy]]
 - Established protocols for deep-trench exploration (many classified to this day)
 - Left behind sealed chambers in the [[The Bathyal Palace]] (contents unknown)
 
@@ -328,7 +328,7 @@ Ancient Aquabyssos Rulers is a undersea element of the setting, known for biolum
 
 Legends speak of Ancient Aquabyssos Rulers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ancient Aquabyssos Rulers.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -372,3 +372,11 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Aethermoor - Session 08 Between Two Worlds]]
+- [[Ancient Siege Tunnels (D&D_References)]]
+- [[The Drowned God]]
+- [[Tide Turner's Trident]]

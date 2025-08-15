@@ -76,7 +76,11 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Player Tips
 > 🎮 **Strategy**: How to approach this content
 > Work together and communicate
+
+## References
+
+- [[Cathedral of Light]]
+- [[Cathedral of Light (D&D_References)]]

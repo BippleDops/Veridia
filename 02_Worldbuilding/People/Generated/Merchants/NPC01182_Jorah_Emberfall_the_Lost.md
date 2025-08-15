@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Emberfall the Lost", "jorah emberfall the lost", "Jorah Emberfall Lost", "Lost the Emberfall Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Emberfall the Lost
 
 *Genasi Shopkeeper (Merchants), Age 29, Non-binary*
@@ -36,22 +42,18 @@ Former adventurer who retired to open a shop They've been marked by a secret soc
 - **Short Term**: Find missing person
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Ewan Xendar the Mystic (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Faelyn Hawthorne the Lost (Family - Cousin)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
 
-
 ### Brenna Quicksilver the Lost (Professional - Partner)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Is actually a spy for foreign power

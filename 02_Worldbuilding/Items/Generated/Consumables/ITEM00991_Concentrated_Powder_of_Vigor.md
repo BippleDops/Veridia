@@ -1,3 +1,9 @@
+---
+aliases: ["Concentrated Powder of Vigor", "concentrated powder of vigor", "Vigor of Powder Concentrated"]
+tags: [item, equipment]
+type: item
+---
+
 # Concentrated Powder of Vigor
 
 *Consumables, Common*

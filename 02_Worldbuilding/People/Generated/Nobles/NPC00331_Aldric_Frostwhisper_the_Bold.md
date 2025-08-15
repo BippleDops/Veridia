@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Frostwhisper the Bold", "aldric frostwhisper the bold", "Aldric Frostwhisper Bold", "Bold the Frostwhisper Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Frostwhisper the Bold
 
 *Tabaxi Noble (Nobles), Age 72, Female*
@@ -36,32 +42,26 @@ Recently elevated to nobility through service, still learning courtly ways A fam
 - **Short Term**: Gather information
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Delara Voidwalker the Swift (Family - Child)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Branwen Oakenshield the Guardian (Political - Opposition)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ### Caelum Voidwalker (Political - Ally)
 - **Status**: Secretly hostile
 - **History**: Arranged partnership that grew genuine
 
-
 ### Faelyn Ironforge (Criminal - Target)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
 
-
 ### Gavril Crystalbrook the Fallen (Family - Child)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Actually a bastard with no real claim

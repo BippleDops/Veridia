@@ -64,3 +64,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Temporal Navigation]]
+- [[Temporal Navigation (D&D_Statblocks)]]

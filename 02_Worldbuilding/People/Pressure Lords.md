@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-pressure-lords-pressure-lords.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -208,7 +206,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 20% middle class
 - 79% working poor
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -278,3 +275,12 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City Futures Master Economic Sense V1 Futures Master Economic Sense.svg]]
+- [[Assets Portraits Portrait NPC Watch Captain Roderick Shieldbreaker V1 Watch Captain Roderick Shieldbreaker.svg]]
+- [[Abyssos Prime - Inverse Palace]]
+- [[The Pressure Conspiracy]]
+- [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]]
+- [[The Pressure Conspiracy (D&D_Statblocks)]]

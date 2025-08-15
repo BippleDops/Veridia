@@ -102,3 +102,10 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Locations Location City Surge Mixmaster V1 Surge Mixmaster.png]]
+- [[Assets Portraits Portrait NPC Captain Depths Walker Marina Captain Depths Walker Marina.svg]]
+- [[Assets Portraits Portrait NPC Captain Marcus Ironwill Captain Marcus Ironwill.svg]]
+- [[Assets Symbols Symbol Heraldry the Carrion Court the Carrion Court.svg]]

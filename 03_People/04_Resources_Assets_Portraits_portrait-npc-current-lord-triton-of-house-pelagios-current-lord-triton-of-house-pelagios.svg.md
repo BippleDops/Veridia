@@ -11,7 +11,7 @@ created: '2025-01-15'
 
 ## Portrait
 
-![[portrait_04_resources_assets_portraits_portrait-npc-current-lord-triton-of-house-pelagios-current-lord-triton-of-house-pelagios.svg.png]]
+![[04_Resources|portrait_04_resources_assets_portraits_portrait-npc-current-lord-triton-of-house-pelagios-current-lord-triton-of-house-pelagios.svg.png]]
 
 *Portrait reference for 04_Resources_Assets_Portraits_portrait-npc-current-lord-triton-of-house-pelagios-current-lord-triton-of-house-pelagios.svg*
 
@@ -75,3 +75,9 @@ creature: Custom NPC
 - **Current Status**: *[How they view the party]*
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
+
+## References
+
+- [[Assets Art Market Master Cornelius Driftwood.png]]
+- [[Assets Locations Location City Harbormaster Creedence Tidereader V1 Harbormaster Creedence Tidereader.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-current-lord-triton-of-house-pelagios-current-lord-triton-of-house-pelagios.svg_Quick_Ref]]

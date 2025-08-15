@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Brightblade the Bold", "erasmus brightblade the bold", "Erasmus Brightblade Bold", "Bold the Brightblade Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Brightblade the Bold
 
 *Tiefling Ranger (Adventurers), Age 42, Non-binary*
@@ -42,16 +48,13 @@ Seeking vengeance for a murdered mentor They're being blackmailed by someone fro
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Solas Xendar the Seeker (Political - Opposition)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
 
-
 ### Caelum Thornweave the Cunning (Professional - Partner)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Carries a world-ending artifact

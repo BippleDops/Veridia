@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Blackstone the Strong", "hestara blackstone the strong", "Hestara Blackstone Strong", "Strong the Blackstone Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Blackstone the Strong
 
 *Dwarf Blacksmith (Commoners), Age 19, Female*
@@ -42,31 +48,25 @@ Survivor of a disaster that destroyed their village They've made a deal they're 
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Elric Silverleaf the Bold (Political - Opposition)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ### Idris Ironforge the Strong (Political - Opposition)
 - **Status**: Professional only
 - **History**: United by common enemy
 
-
 ### Corvus Goldleaf the Bold (Professional - Partner)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
-
 
 ### Erasmus Xendar the Guardian (Family - Parent)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Solas Grimholt the Broken (Criminal - Informant)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Has dragon blood in their veins

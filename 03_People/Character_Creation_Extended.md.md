@@ -1,6 +1,5 @@
 ---
 
-
 ## Description
 
 * [Add detailed physical appearance and personality traits here]*
@@ -161,7 +160,6 @@ creature: Custom NPC
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]*
 
-
 ## See Also
 - Related content
 - Similar topics
@@ -187,3 +185,7 @@ status: active
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition
+
+## References
+
+- [[Character_Creation_Extended.md_Quick_Ref]]

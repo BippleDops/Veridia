@@ -87,3 +87,18 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Crew_Relationship_Events]]
+- [[Depth_Events_Pack_A]]
+- [[Depth_Events_Pack_D]]
+- [[Journey_Event_Permutation_Engine]]
+- [[Mass Combat Evolution]]
+- [[Mass_Combat_Evolution (D&D_References)]]
+- [[Pressure_Weather_Events]]
+- [[Ships - Player_Handout_Aquabyssos_Submarines]]
+- [[Sky_Events_Pack_A]]
+- [[Sky_Events_Pack_D]]
+- [[Vehicles - Vessel Horror Intensifier]]
+- [[Vessel_Horror_Intensifier]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Nightfall the Risen", "thalia nightfall the risen", "Thalia Nightfall Risen", "Risen the Nightfall Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Nightfall the Risen
 
 *Firbolg Broker (Merchants), Age 24, Female*
@@ -47,21 +53,17 @@ Built their business from nothing through cunning and hard work A prophetic drea
 - **Status**: Strong and trusting
 - **History**: Former lovers who remained friends
 
-
 ### Vesper Ironwood the Strong (Family - Child)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ### Faelyn Ironwood the Broken (Criminal - Target)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Elric Proudmore the Scholar (Personal - Ex-lover)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ### Delara Frostwhisper the Wise (Personal - Love interest)
 - **Status**: One-sided affection

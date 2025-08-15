@@ -1,3 +1,9 @@
+---
+aliases: ["Ewan Lightbringer", "ewan lightbringer", "Lightbringer Ewan"]
+tags: [npc, character]
+type: npc
+---
+
 # Ewan Lightbringer
 
 *Dragonborn Noble (Nobles), Age 60, Male*
@@ -36,32 +42,26 @@ Recently elevated to nobility through service, still learning courtly ways A cha
 - **Short Term**: Find missing person
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Ysara Xendar the Broken (Professional - Partner)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Qadim Proudmore (Family - Spouse)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ### Faelyn Ashford the Broken (Political - Opposition)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Aldric Thornweave (Family - Spouse)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
 
-
 ### Aldric Frostwhisper the Risen (Personal - Love interest)
 - **Status**: Mutually beneficial
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Secretly funding the rebellion

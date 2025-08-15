@@ -90,3 +90,23 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Acolyte Xphb]]
+- [[Sage Xphb]]
+- [[Scribe Xphb]]
+- [[acolyte-xphb (backgrounds)]]
+- [[sage-xphb (backgrounds)]]
+- [[scribe-xphb (backgrounds)]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Diplomats Pack Xphb]]
+- [[Leatherworkers Tools Xphb]]
+- [[Scholars Pack Xphb]]
+- [[diplomats-pack-xphb (items)]]
+- [[leatherworkers-tools-xphb (items)]]
+- [[scholars-pack-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

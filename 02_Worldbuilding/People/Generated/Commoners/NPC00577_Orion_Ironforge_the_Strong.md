@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Ironforge the Strong", "orion ironforge the strong", "Orion Ironforge Strong", "Strong the Ironforge Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Ironforge the Strong
 
 *Halfling Carpenter (Commoners), Age 68, Male*
@@ -42,26 +48,21 @@ Family has worked the same trade for generations, but times are changing They're
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
 
-
 ### Orion Proudmore the Swift (Professional - Employee)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ### Fiora Proudmore the Guardian (Personal - Ex-lover)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Ysara Darkwater the Scholar (Personal - Ex-lover)
 - **Status**: On the verge of collapse
 - **History**: Former lovers who remained friends
 
-
 ### Malakai Silverleaf the Guardian (Family - Cousin)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Can hear the thoughts of others

@@ -119,13 +119,11 @@ Diplomatic Immunity is a notable location characterized by its unique features a
 ### Founding
 Diplomatic Immunity was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -133,13 +131,11 @@ Diplomatic Immunity was established in the distant past, growing from humble beg
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -201,7 +197,6 @@ Ongoing situations affecting Diplomatic Immunity:
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -237,3 +232,25 @@ Ongoing situations affecting Diplomatic Immunity:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Campaign_Overview_1 (01_Adventures)]]
+- [[Aethermoor Wind Rider Traditions]]
+- [[Customs House]]
+- [[Diplomatic Immunity Systems]]
+- [[Quarantine Enforcement]]
+- [[Reputation System]]
+- [[The Grand Trade Routes]]
+- [[Throne Room]]
+- [[Underground Smuggling Networks]]
+- [[NPC00042_Vesper_Grimholt]]
+- [[Cathedral of Light]]
+- [[Depth Warden Patrol]]
+- [[Depth Wardens]]
+- [[Harbor District Customs House]]
+- [[Lord Reginald Seaworthy]]
+- [[Royal Palace of Meridian]]
+- [[Royal Palace]]
+- [[Theological Warfare]]
+- [[The Tide Rises]]

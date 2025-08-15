@@ -191,3 +191,7 @@ Last known to be: - [[Shield]]...
 
 ### Curse (if applicable)
 - *[Negative effects]*
+
+## References
+
+- [[Item Template]]

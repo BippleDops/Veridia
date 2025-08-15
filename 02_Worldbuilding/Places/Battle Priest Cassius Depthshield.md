@@ -130,13 +130,11 @@ Battle Priest Cassius Depthshield is a notable location characterized by its uni
 ### Founding
 Battle Priest Cassius Depthshield was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -144,13 +142,11 @@ Battle Priest Cassius Depthshield was established in the distant past, growing f
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -184,7 +180,6 @@ Ongoing situations affecting Battle Priest Cassius Depthshield:
 - Civil war
 - Natural disasters
 - Current power structures established
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -221,3 +216,8 @@ Ongoing situations affecting Battle Priest Cassius Depthshield:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Pressure's End (D&D_References)]]
+- [[The Forgotten One (D&D_References)]]

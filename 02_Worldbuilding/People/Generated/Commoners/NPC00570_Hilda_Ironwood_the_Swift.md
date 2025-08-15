@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Ironwood the Swift", "hilda ironwood the swift", "Hilda Ironwood Swift", "Swift the Ironwood Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Ironwood the Swift
 
 *Firbolg Blacksmith (Commoners), Age 62, Male*
@@ -13,7 +19,6 @@
 Towering and lanky, with Short and neat gray hair and Green eyes. Weathered skin. Constantly changing hair color.
 
 **Clothing**: Practical leather armor, well-worn but maintained
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Collects unusual and worthless objects; Incredibly optimistic despite evidence
@@ -36,22 +41,18 @@ Runaway from an arranged marriage, starting a new life A prophetic dream has bee
 - **Short Term**: Find missing person
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Thalia Grimholt the Lost (Criminal - Fence)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
 
-
 ### Idris Lightbringer the Wanderer (Personal - Best friend)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Lyanna Lightbringer the Mystic (Criminal - Target)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Can hear the thoughts of others

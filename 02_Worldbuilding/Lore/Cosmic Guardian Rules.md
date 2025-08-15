@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -80,7 +80,7 @@ Cosmic Guardian Rules represents a crucial aspect of the world's history, cosmol
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -98,7 +98,7 @@ Cosmic Guardian Rules represents a crucial aspect of the world's history, cosmol
 - Strange disappearances suggest a curse
 - Strange sightings suggest a conspiracy
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -156,3 +156,7 @@ Cosmic Guardian Rules represents a crucial aspect of the world's history, cosmol
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Session 10 New Horizons (06_Sessions)]]

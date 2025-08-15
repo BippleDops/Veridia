@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Jadeclaw the Risen", "urien jadeclaw the risen", "Urien Jadeclaw Risen", "Risen the Jadeclaw Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Jadeclaw the Risen
 
 *Aasimar Ambassador (Nobles), Age 75, Male*
@@ -13,7 +19,6 @@
 Tall and muscular, with Tied back gray hair and Blue eyes. Dark skin. Warm smile that puts people at ease.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Always hungry and eating something; Incredibly optimistic despite evidence; Constantly quotes ancient texts; Never uses people's real names
@@ -42,16 +47,13 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
 
-
 ### Solas Hawthorne the Cunning (Family - Cousin)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Hestara Jadeclaw the Fallen (Professional - Employer)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ### Malakai Ravenheart the Wanderer (Criminal - Target)
 - **Status**: Secretly hostile

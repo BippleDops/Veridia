@@ -1,11 +1,11 @@
 ---
+aliases: ["Freya Brightblade", "freya brightblade", "Brightblade Freya"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -76,8 +76,6 @@ Discovered magical talent late in life. Years ago, they lost everything in a fir
 ### Skills
 Arcana, Persuasion, Investigation
 
-
-
 ## Possessions
 - 79 gold pieces
 - Letter of recommendation
@@ -91,7 +89,6 @@ Arcana, Persuasion, Investigation
 
 ---
 *Generated: 2025-08-15T03:21:04.045Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

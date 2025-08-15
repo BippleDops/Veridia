@@ -96,3 +96,25 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Incubus Xmm]]
+- [[Night Hag Xmm]]
+- [[incubus-xmm (fiend)]]
+- [[night-hag-xmm (fiend)]]
+- [[Nagpa Mpmm]]
+- [[nagpa-mpmm (monstrosity)]]
+- [[Ghost Xmm]]
+- [[ghost-xmm (undead)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Ranger Xphb Horizon Walker Xge]]
+- [[ranger-xphb-horizon-walker-xge (classes)]]
+- [[Half Plate Armor of Etherealness Xdmg]]
+- [[Oil of Etherealness Xdmg]]
+- [[Plate Armor of Etherealness Xdmg]]
+- [[half-plate-armor-of-etherealness-xdmg (items)]]
+- [[oil-of-etherealness-xdmg (items)]]
+- [[plate-armor-of-etherealness-xdmg (items)]]

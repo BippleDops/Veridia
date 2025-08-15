@@ -180,7 +180,7 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[Quest   The Succession Crisis]] (rival)
+- [[The Succession Crisis|Quest   The Succession Crisis]] (rival)
 - [[04_Resources_Assets_Portraits_portrait-npc-master-smith-priest-vulcan-depthforge-master-smith-priest-vulcan-depthforge.svg]] (friend)
 - [[04_Resources_Assets_Symbols_symbol-heraldry-crisis-response-service-crisis-response-service.svg]] (rival)
 ---

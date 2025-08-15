@@ -128,4 +128,4 @@ Mentioned in The Hidden Prophecy of Shadows
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[prismatic-wall-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[prismatic-wall-xphb (spells)|prismatic-wall-xphb (spells)-phb]]` in CLI_Reference/spells/

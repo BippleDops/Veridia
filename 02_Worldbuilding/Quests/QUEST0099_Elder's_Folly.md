@@ -1,4 +1,5 @@
 ---
+aliases: ["Elder's Folly", "elder's folly", "Folly Elder's"]
 tags: [quest, adventure, generated]
 type: quest
 ---
@@ -20,8 +21,6 @@ Discover the truth behind the disappearances
 
 ### Secondary
 - Sabotage enemy resources
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they found an ancient artifact, which changed their life forever. Now, circumstances demand immediate action.

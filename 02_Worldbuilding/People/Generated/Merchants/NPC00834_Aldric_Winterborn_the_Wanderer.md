@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Winterborn the Wanderer", "aldric winterborn the wanderer", "Aldric Winterborn Wanderer", "Wanderer the Winterborn Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Winterborn the Wanderer
 
 *Tiefling Trader (Merchants), Age 19, Non-binary*
@@ -36,7 +42,6 @@ Inherited a failing business and turned it around They've made a deal they're be
 - **Short Term**: Avoid the authorities
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Idris Zephyrblade the Redeemed (Personal - Best friend)
 - **Status**: Professional only
@@ -46,7 +51,6 @@ Inherited a failing business and turned it around They've made a deal they're be
 ### Idris Lightbringer the Strong (Political - Puppet)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ### Corvus Jadeclaw the Fallen (Professional - Employee)
 - **Status**: Secretly hostile
@@ -62,11 +66,9 @@ Inherited a failing business and turned it around They've made a deal they're be
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Elric Underhill the Mystic (Personal - Love interest)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Running a cult from their basement

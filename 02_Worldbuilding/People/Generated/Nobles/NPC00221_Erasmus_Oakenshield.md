@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Oakenshield", "erasmus oakenshield", "Oakenshield Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Oakenshield
 
 *Goliath Heir (Nobles), Age 35, Female*
@@ -13,7 +19,6 @@
 Below average and heavyset, with Tied back gray hair and Hazel eyes. Fair skin. Gold tooth that glints when smiling.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Always hungry and eating something; Sees doom and gloom everywhere; Collects unusual and worthless objects
@@ -47,11 +52,9 @@ Exiled from their homeland, trying to rebuild their power base They recently dis
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
 
-
 ### Dara Proudmore (Family - Parent)
 - **Status**: Secretly hostile
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

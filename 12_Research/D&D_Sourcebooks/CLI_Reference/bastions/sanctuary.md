@@ -84,3 +84,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A stranger needs help finding before winter
 - The authorities needs help finding before the new moon
+
+## References
+
+- [[Assets Locations Location City Harbor Master Tideshade Harbor Master Tideshade.svg]]
+- [[Assets Locations Location City the Luminous Dawn Cathedral V1 the Luminous Dawn Cathedral.svg]]

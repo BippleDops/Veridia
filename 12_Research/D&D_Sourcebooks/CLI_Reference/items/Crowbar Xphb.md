@@ -81,3 +81,23 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Criminal Spy Variant]]
+- [[Criminal Xphb]]
+- [[criminal-spy-variant (backgrounds)]]
+- [[criminal-xphb (backgrounds)]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Burglars Pack Xphb]]
+- [[Dungeoneers Pack Xphb]]
+- [[Monster Hunters Pack Vrgr]]
+- [[Smiths Tools Xphb]]
+- [[burglars-pack-xphb (items)]]
+- [[dungeoneers-pack-xphb (items)]]
+- [[monster-hunters-pack-vrgr (items)]]
+- [[smiths-tools-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

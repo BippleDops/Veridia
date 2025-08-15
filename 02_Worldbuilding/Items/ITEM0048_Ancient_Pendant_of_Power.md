@@ -1,4 +1,5 @@
 ---
+aliases: ["Ancient Pendant of Power", "ancient pendant of power", "Power of Pendant Ancient"]
 tags: [generated]
 id: ITEM0048
 created: 2025-08-15T04:09:51.094Z
@@ -19,8 +20,6 @@ Crafted from adamantine with battle scars, in pristine condition. It emanates a 
 
 ## Quirk
 *Whispers names of previous owners*
-
-
 
 ## History
 This item was stolen from a dragon's hoard decades ago. It has passed through many hands, each leaving their mark upon its destiny.

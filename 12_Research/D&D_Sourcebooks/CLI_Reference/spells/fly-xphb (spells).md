@@ -100,7 +100,6 @@ Mentioned in The Hidden Prophecy of Winds
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -113,3 +112,51 @@ Contextual improvement based on 12_Research
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Death Slaad Xmm]]
+- [[Gray Slaad Xmm]]
+- [[death-slaad-xmm (aberration)]]
+- [[gray-slaad-xmm (aberration)]]
+- [[Hobgoblin Devastator Mpmm]]
+- [[Pixie Wonderbringer Xmm]]
+- [[Pixie Xmm]]
+- [[hobgoblin-devastator-mpmm (fey)]]
+- [[pixie-wonderbringer-xmm (fey)]]
+- [[pixie-xmm (fey)]]
+- [[Glabrezu Xmm]]
+- [[Rakshasa Xmm]]
+- [[glabrezu-xmm (fiend)]]
+- [[rakshasa-xmm (fiend)]]
+- [[Nagpa Mpmm]]
+- [[nagpa-mpmm (monstrosity)]]
+- [[aerisi-kalinoth-pota (npc)]]
+- [[npc - Aerisi Kalinoth Pota]]
+- [[Deathlock Mastermind Mpmm]]
+- [[deathlock-mastermind-mpmm (undead)]]
+- [[10 Combat]]
+- [[10-combat (players-handbook-2014)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Instrument of the Bards Anstruth Harp Xdmg]]
+- [[Instrument of the Bards Canaith Mandolin Xdmg]]
+- [[Instrument of the Bards Cli Lyre Xdmg]]
+- [[Instrument of the Bards Doss Lute Xdmg]]
+- [[Instrument of the Bards Fochlucan Bandore]]
+- [[Instrument of the Bards Mac Fuirmidh Cittern]]
+- [[Instrument of the Bards Ollamh Harp Xdmg]]
+- [[Instrument of the Bards Xdmg]]
+- [[instrument-of-the-bards-anstruth-harp-xdmg (items)]]
+- [[instrument-of-the-bards-canaith-mandolin-xdmg (items)]]
+- [[instrument-of-the-bards-cli-lyre-xdmg (items)]]
+- [[instrument-of-the-bards-doss-lute-xdmg (items)]]
+- [[instrument-of-the-bards-fochlucan-bandore-xdmg]]
+- [[instrument-of-the-bards-mac-fuirmidh-cittern-xdmg]]
+- [[instrument-of-the-bards-ollamh-harp-xdmg (items)]]
+- [[instrument-of-the-bards-xdmg (items)]]
+- [[Ride the Wind]]
+- [[ride-the-wind (optional-features)]]
+- [[Wild Magic Surge Phb]]
+- [[wild-magic-surge-phb (tables)]]

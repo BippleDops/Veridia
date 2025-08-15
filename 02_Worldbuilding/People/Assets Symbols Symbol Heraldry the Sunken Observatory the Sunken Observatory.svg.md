@@ -210,3 +210,7 @@ Member of House Wolfblood - Trait: magical affinity
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-master-cultivator-reef-growstone-master-cultivator-reef-growstone.svg]]

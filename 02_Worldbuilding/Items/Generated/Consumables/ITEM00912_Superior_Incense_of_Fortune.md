@@ -1,3 +1,9 @@
+---
+aliases: ["Superior Incense of Fortune", "superior incense of fortune", "Fortune of Incense Superior"]
+tags: [item, equipment]
+type: item
+---
+
 # Superior Incense of Fortune
 
 *Consumables, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A superior incense glowing softly
 - Restore 4d4+4 hit points
 - Grant advantage for 1 hour
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -31,7 +35,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.437Z*

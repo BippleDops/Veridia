@@ -1,4 +1,5 @@
 ---
+aliases: ["Escape the Demons", "escape the demons", "Escape Demons", "Demons the Escape"]
 tags: [generated]
 id: QUEST0011
 created: 2025-08-15T04:09:51.369Z
@@ -22,8 +23,6 @@ Discover the truth behind the disappearances
 ### Secondary
 - Rescue any prisoners found
 - Document findings for scholars
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they accidentally discovered a conspiracy, which changed their life forever. Now, circumstances demand immediate action.
@@ -54,8 +53,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Save civilians and risk failure - Heroes to the people but objective compromised
 2. Complete mission at any cost - Success but blood on hands
-
-
 
 ## Rewards
 ### On Success

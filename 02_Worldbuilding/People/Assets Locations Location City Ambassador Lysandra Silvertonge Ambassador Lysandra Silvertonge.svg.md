@@ -184,7 +184,7 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[NPC Reactions]] (ally)
+- [[NPC_Reactions|NPC Reactions]] (ally)
 - [[04_Resources_Assets_Symbols_symbol-heraldry-stellar-commander-nereus-voidcaller-stellar-commander-nereus-voidcaller.svg]] (ally)
 - [[The Verdant Accord]] (rival)
 ---
@@ -205,3 +205,7 @@ This NPC can serve multiple roles:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Assets Portraits Portrait NPC Captain Torrent Swiftcurrent Captain Torrent Swiftcurrent.svg]]

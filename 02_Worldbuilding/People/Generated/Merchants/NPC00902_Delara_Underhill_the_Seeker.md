@@ -1,3 +1,9 @@
+---
+aliases: ["Delara Underhill the Seeker", "delara underhill the seeker", "Delara Underhill Seeker", "Seeker the Underhill Delara"]
+tags: [npc, character]
+type: npc
+---
+
 # Delara Underhill the Seeker
 
 *Gnome Appraiser (Merchants), Age 29, Female*
@@ -42,11 +48,9 @@ Former adventurer who retired to open a shop They recently discovered a secret t
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
 
-
 ### Qadim Thornweave the Strong (Professional - Rival)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
-
 
 ### Jorah Quicksilver the Seeker (Personal - Childhood friend)
 - **Status**: One-sided affection

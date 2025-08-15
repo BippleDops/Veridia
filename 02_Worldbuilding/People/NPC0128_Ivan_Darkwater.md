@@ -1,11 +1,11 @@
 ---
+aliases: ["Ivan Darkwater", "ivan darkwater", "Darkwater Ivan"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -75,8 +75,6 @@ Born into a noble family but cast out for scandal. Years ago, they found an anci
 ### Skills
 Stealth, Persuasion
 
-
-
 ## Possessions
 - 48 gold pieces
 - Well-worn journal
@@ -88,7 +86,6 @@ Stealth, Persuasion
 
 ---
 *Generated: 2025-08-15T03:20:13.086Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

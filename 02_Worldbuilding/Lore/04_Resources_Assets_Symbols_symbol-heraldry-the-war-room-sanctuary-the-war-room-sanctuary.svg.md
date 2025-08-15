@@ -26,3 +26,9 @@ Further information about this topic will be developed as the campaign progresse
 - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery
+
+## References
+
+- [[Assets Locations Location City Admiral Thalassa Stormcurrent V1 Admiral Thalassa Stormcurrent.svg]]
+- [[Assets Locations Location City Ambassador Lysandra Silvertonge V1 Ambassador Lysandra Silvertonge.svg]]
+- [[Assets Symbols Symbol Heraldry Silverscale Consortium Silverscale Consortium.svg]]

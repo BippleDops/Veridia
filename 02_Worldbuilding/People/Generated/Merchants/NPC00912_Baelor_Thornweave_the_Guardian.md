@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Thornweave the Guardian", "baelor thornweave the guardian", "Baelor Thornweave Guardian", "Guardian the Thornweave Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Thornweave the Guardian
 
 *Firbolg Broker (Merchants), Age 48, Male*
@@ -36,7 +42,6 @@ Built their business from nothing through cunning and hard work A chance encount
 - **Short Term**: Make this month's payment
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Thalia Darkwater the Risen (Personal - Love interest)
 - **Status**: Complicated history
@@ -47,26 +52,21 @@ Built their business from nothing through cunning and hard work A chance encount
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
 
-
 ### Hestara Blackstone the Swift (Professional - Rival)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ### Aldric Ironwood the Bold (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Qadim Thornweave the Mystic (Political - Patron)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Solas Silverleaf the Wise (Personal - Ex-lover)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Is actually a spy for foreign power

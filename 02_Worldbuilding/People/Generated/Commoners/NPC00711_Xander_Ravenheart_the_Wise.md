@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Ravenheart the Wise", "xander ravenheart the wise", "Xander Ravenheart Wise", "Wise the Ravenheart Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Ravenheart the Wise
 
 *Human Blacksmith (Commoners), Age 74, Female*
@@ -13,7 +19,6 @@
 Very tall and stocky, with Short and neat gray hair and Hazel eyes. Unusual hue skin. Birthmark shaped like a constellation.
 
 **Clothing**: Fine silk robes with gold embroidery
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Believes in every conspiracy theory; Always speaks in metaphors and riddles
@@ -36,32 +41,26 @@ Former soldier trying to adjust to civilian life A chance encounter last winter 
 - **Short Term**: Make this month's payment
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Orion Voidwalker the Broken (Political - Spy)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Zephyr Silverleaf the Swift (Criminal - Handler)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
-
 
 ### Rhiannon Xendar the Strong (Criminal - Informant)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
 
-
 ### Nerys Crystalbrook the Broken (Political - Spy)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Gavril Dawnstrider the Strong (Political - Opposition)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
-
 
 ### Delara Hawthorne the Mystic (Professional - Mentor)
 - **Status**: Professional only

@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Hawthorne the Seeker", "kaelen hawthorne the seeker", "Kaelen Hawthorne Seeker", "Seeker the Hawthorne Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Hawthorne the Seeker
 
 *Half-Elf Crime Boss (Villains), Age 25, Male*
@@ -13,7 +19,6 @@
 Very short and imposing, with Long and flowing silver hair and Violet eyes. Weathered skin. Constantly changing hair color.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Laughs at the most inappropriate times
@@ -42,16 +47,13 @@ Believes their evil acts serve a greater good They've been marked by a secret so
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Zephyr Stormwind the Fallen (Professional - Employee)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
 
-
 ### Aldric Emberfall the Swift (Family - Spouse)
 - **Status**: Blood oath bound
 - **History**: Met during a heist gone wrong
-
 
 ### Branwen Zephyrblade the Lost (Criminal - Fence)
 - **Status**: Recently reconciled
@@ -62,11 +64,9 @@ Believes their evil acts serve a greater good They've been marked by a secret so
 - **Status**: Professional only
 - **History**: Teacher and student relationship
 
-
 ### Brenna Quicksilver the Redeemed (Criminal - Informant)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Knows how the world will end

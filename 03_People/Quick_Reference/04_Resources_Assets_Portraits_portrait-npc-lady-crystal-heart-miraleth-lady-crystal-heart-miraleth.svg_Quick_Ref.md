@@ -1,3 +1,8 @@
+---
+tags: [npc, character]
+type: npc
+---
+
 # 04_Resources_Assets_Portraits_portrait-npc-lady-crystal-heart-miraleth-lady-crystal-heart-miraleth.svg - Quick Reference
 
 ## Key Info

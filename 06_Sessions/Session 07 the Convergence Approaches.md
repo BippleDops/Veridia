@@ -340,12 +340,10 @@ The party has 48 hours to:
 
 Contextual improvement based on 12_Research
 
-
 ## Pronunciation Guide
 - **Both**: [BOTH]
 - **With**: [WITH]
 - **Collector's**: [COLLECTOR-S]
-
 
 ## Alternate Descriptions
 - **First Impression**: Initial appearance

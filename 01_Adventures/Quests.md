@@ -1,6 +1,5 @@
 ---
 
-
 title: 02_Worldbuilding/Quests
 type: adventure
 tags:
@@ -19,13 +18,10 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
-
 
 ## Objectives
 ### Primary
@@ -173,7 +169,6 @@ An exciting quest that challenges heroes to save the realm.
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## Time Limit
 - **Deadline**: When it must be completed
 - **Consequences**: What happens if late
@@ -222,3 +217,46 @@ An exciting quest that challenges heroes to save the realm.
 ## Player Tips
 > 🎮 **Strategy**: How to approach this content
 > Work together and communicate
+
+## References
+
+- [[Abyssal Academy]]
+- [[Aquabyssos Cultural Codex]]
+- [[Arcanum Heights]]
+- [[Daily Routine Nuances and Details]]
+- [[Kraken Territories]]
+- [[Reputation System]]
+- [[Ritual Redirection Options]]
+- [[Silver Mask]]
+- [[Thalassius the Wise]]
+- [[The Festival of Rising Tides]]
+- [[The Pressure Baptism Rites]]
+- [[The Silverscale Conspiracy]]
+- [[Working Class Routines]]
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Compass Quest]]
+- [[Cross-Dimensional Transit Authority]]
+- [[Ironhold]]
+- [[Mad Oracle Thessaly]]
+- [[Maelstrom Palace]]
+- [[Mourning Depths]]
+- [[Reflection Pools - Surgical Theater]]
+- [[Supplier Erikson Tidecaller]]
+- [[Sylvanheart]]
+- [[The Crystalline Foundry]]
+- [[The Deep Patrol]]
+- [[The First Truth]]
+- [[The Royal Palace]]
+- [[The Shrinking Sanctuary]]
+- [[Ambush Point]]
+- [[Crystalline Depths]]
+- [[Diplomatic Tides]]
+- [[Discover the Singers Beyond]]
+- [[Economic Warfare]]
+- [[Find the Grief Bomb]]
+- [[Smuggler]]
+- [[Stop the Crystal Festival Ritual]]
+- [[The Depth Accords]]
+- [[The Green Death]]
+- [[Traveling Merchant Finn]]
+- [[The First Truth (D&D_References)]]

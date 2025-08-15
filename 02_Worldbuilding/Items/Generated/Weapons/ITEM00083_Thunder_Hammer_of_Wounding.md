@@ -1,3 +1,9 @@
+---
+aliases: ["Thunder Hammer of Wounding", "thunder hammer of wounding", "Wounding of Hammer Thunder"]
+tags: [item, equipment]
+type: item
+---
+
 # Thunder Hammer of Wounding
 
 *Weapons, Legendary*

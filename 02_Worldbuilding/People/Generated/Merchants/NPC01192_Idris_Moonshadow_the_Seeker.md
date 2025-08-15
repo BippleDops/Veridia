@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Moonshadow the Seeker", "idris moonshadow the seeker", "Idris Moonshadow Seeker", "Seeker the Moonshadow Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Moonshadow the Seeker
 
 *Dwarf Caravan Master (Merchants), Age 74, Non-binary*
@@ -42,16 +48,13 @@ Part of a merchant family with connections everywhere A family member's death ha
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Zephyr Hawthorne the Lost (Personal - Childhood friend)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Gareth Lightbringer the Scholar (Political - Patron)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is actually a spy for foreign power

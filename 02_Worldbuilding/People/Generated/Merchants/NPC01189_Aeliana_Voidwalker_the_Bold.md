@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Voidwalker the Bold", "aeliana voidwalker the bold", "Aeliana Voidwalker Bold", "Bold the Voidwalker Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Voidwalker the Bold
 
 *Goliath Shopkeeper (Merchants), Age 68, Male*
@@ -13,7 +19,6 @@
 Tall and lanky, with Braided elaborately blonde hair and Hazel eyes. Weathered skin. Constantly changing hair color.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Always hungry and eating something
@@ -42,21 +47,17 @@ Part of a merchant family with connections everywhere A prophetic dream has been
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
 
-
 ### Zephyr Voidwalker the Wise (Political - Spy)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ### Wynne Lightbringer the Wanderer (Professional - Employer)
 - **Status**: Strong and trusting
 - **History**: United by common enemy
 
-
 ### Cedric Darkwater the Cunning (Professional - Employer)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
-
 
 ### Wynne Xendar the Strong (Personal - Love interest)
 - **Status**: On the verge of collapse

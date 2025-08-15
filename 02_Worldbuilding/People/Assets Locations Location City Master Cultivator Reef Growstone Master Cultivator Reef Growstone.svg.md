@@ -209,3 +209,7 @@ This NPC can serve multiple roles:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[04_Resources_Assets_Art_Places_Astrologer_Prime_Cassandra_Starweaver.png]]

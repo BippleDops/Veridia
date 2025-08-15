@@ -1,3 +1,9 @@
+---
+aliases: ["Ysara Stormwind the Scholar", "ysara stormwind the scholar", "Ysara Stormwind Scholar", "Scholar the Stormwind Ysara"]
+tags: [npc, character]
+type: npc
+---
+
 # Ysara Stormwind the Scholar
 
 *Human Bard (Adventurers), Age 67, Female*
@@ -36,17 +42,14 @@ Searching for a legendary treasure their parent died seeking They're being black
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Lyanna Zephyrblade the Strong (Family - Cousin)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Corvus Ravenheart the Broken (Family - Sibling)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
-
 
 ### Thalia Keenblade the Seeker (Professional - Mentor)
 - **Status**: Blood oath bound
@@ -57,11 +60,9 @@ Searching for a legendary treasure their parent died seeking They're being black
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Kaelen Jadeclaw the Cunning (Criminal - Accomplice)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Has died and been resurrected

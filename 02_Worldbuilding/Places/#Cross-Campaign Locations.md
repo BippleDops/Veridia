@@ -18,16 +18,13 @@ updated: 2025-08-14
 - **East**: River crossing
 - **West**: Mountain pass
 
-
 # #Cross-Campaign Locations
-
 
 ## Government
 - **Type**: Local council
 - **Leader**: Elected official
 - **Law Enforcement**: Town guard
 - **Justice System**: Local magistrate
-
 
 ## Economy
 - **Primary Exports**: Local goods
@@ -46,7 +43,6 @@ The approach to #Cross-Campaign Locations reveals its significance through archi
 
 ### Interior
 Within #Cross-Campaign Locations, visitors find a carefully designed space serving multiple purposes.
-
 
 ## Demographics
 - **Population**: ~1,000
@@ -81,9 +77,8 @@ Recent developments have brought new attention to #Cross-Campaign Locations, cre
 2. Missing person last seen here
 3. Secret meeting scheduled to take place
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 *#Cross-Campaign Locations can be customized to fit campaign needs. Consider adding unique [[Npc]]s or plot elements.*
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions

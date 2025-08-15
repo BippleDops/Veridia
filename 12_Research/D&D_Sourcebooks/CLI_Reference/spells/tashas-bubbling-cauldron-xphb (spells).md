@@ -46,7 +46,6 @@ This content can be adapted and expanded based on specific campaign needs.
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -65,4 +64,10 @@ This content can be adapted and expanded based on specific campaign needs.
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[tashas-bubbling-cauldron-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[spells|tashas-bubbling-cauldron-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[09 Appendix a Lore Glossary]]
+- [[09-appendix-a-lore-glossary (dungeon-masters-guide-2024)]]

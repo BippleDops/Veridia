@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Oakenshield the Lost", "rhiannon oakenshield the lost", "Rhiannon Oakenshield Lost", "Lost the Oakenshield Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Oakenshield the Lost
 
 *Halfling Caravan Master (Merchants), Age 44, Non-binary*
@@ -36,12 +42,10 @@ Inherited a failing business and turned it around They've been marked by a secre
 - **Short Term**: Gather information
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Malakai Thornweave the Bold (Criminal - Informant)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
-
 
 ### Branwen Keenblade the Wanderer (Criminal - Handler)
 - **Status**: Secretly hostile
@@ -57,16 +61,13 @@ Inherited a failing business and turned it around They've been marked by a secre
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Hilda Silverleaf the Wanderer (Professional - Rival)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Delara Stormwind the Lost (Professional - Partner)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Killed previous business owner

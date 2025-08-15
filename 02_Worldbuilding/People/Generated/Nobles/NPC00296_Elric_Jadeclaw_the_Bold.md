@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Jadeclaw the Bold", "elric jadeclaw the bold", "Elric Jadeclaw Bold", "Bold the Jadeclaw Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Jadeclaw the Bold
 
 *Tiefling Heir (Nobles), Age 19, Male*
@@ -42,11 +48,9 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Felicia Frostwhisper (Criminal - Fence)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
-
 
 ### Gareth Nightfall (Criminal - Fence)
 - **Status**: One-sided affection
@@ -57,16 +61,13 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
 
-
 ### Nerys Oakenshield (Personal - Ex-lover)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Felicia Crystalbrook (Political - Ally)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Actually a bastard with no real claim

@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Voidwalker the Wise", "felicia voidwalker the wise", "Felicia Voidwalker Wise", "Wise the Voidwalker Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Voidwalker the Wise
 
 *Half-Elf Appraiser (Merchants), Age 42, Non-binary*
@@ -36,32 +42,26 @@ Inherited a failing business and turned it around They've been marked by a secre
 - **Short Term**: Make this month's payment
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Solas Proudmore the Bold (Political - Ally)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Erasmus Lightbringer the Risen (Political - Puppet)
 - **Status**: Professional only
 - **History**: Accidentally bound by magic
-
 
 ### Corvus Jadeclaw the Lost (Professional - Employer)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
 
-
 ### Delara Keenblade the Strong (Political - Opposition)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Orion Stormwind the Scholar (Family - Child)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Running a cult from their basement

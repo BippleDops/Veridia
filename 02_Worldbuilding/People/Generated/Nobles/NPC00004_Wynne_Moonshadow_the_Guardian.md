@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Moonshadow the Guardian", "wynne moonshadow the guardian", "Wynne Moonshadow Guardian", "Guardian the Moonshadow Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Moonshadow the Guardian
 
 *Genasi Ambassador (Nobles), Age 59, Non-binary*
@@ -36,22 +42,18 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Find missing person
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Pyria Ashford the Fallen (Family - Spouse)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
 
-
 ### Elric Ashford (Professional - Employer)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
 
-
 ### Corvus Thornweave (Personal - Childhood friend)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ### Hilda Crystalbrook the Bold (Criminal - Handler)
 - **Status**: Professional only
@@ -61,7 +63,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 ### Dara Ironforge (Political - Patron)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
-
 
 ### Hestara Lightbringer (Family - Parent)
 - **Status**: Secretly hostile

@@ -168,3 +168,25 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Medusa Xmm]]
+- [[Deck of Illusions Xdmg]]
+- [[Deck of Illusions]]
+- [[Deck of Many Things 13 Cards]]
+- [[deck-of-illusions (decks)]]
+- [[deck-of-illusions-xdmg (decks)]]
+- [[deck-of-many-things-13-cards (decks)]]
+- [[Deck of Illusions Xdmg (items)]]
+- [[deck-of-illusions-xdmg (items)]]
+- [[Desert Encounters Levels 1116 Xge]]
+- [[Desert Encounters Levels 14 Xge]]
+- [[Desert Encounters Levels 1720 Xge]]
+- [[Desert Encounters Levels 510 Xge]]
+- [[Random Yuan Ti Servants Yuan Ti Protectors]]
+- [[desert-encounters-levels-1116-xge (tables)]]
+- [[desert-encounters-levels-14-xge (tables)]]
+- [[desert-encounters-levels-1720-xge (tables)]]
+- [[desert-encounters-levels-510-xge (tables)]]
+- [[random-yuan-ti-servants-yuan-ti-protectors-vgm]]

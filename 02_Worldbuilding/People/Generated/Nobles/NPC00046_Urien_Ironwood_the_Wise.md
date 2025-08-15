@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Ironwood the Wise", "urien ironwood the wise", "Urien Ironwood Wise", "Wise the Ironwood Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Ironwood the Wise
 
 *Aasimar Heir (Nobles), Age 72, Male*
@@ -36,17 +42,14 @@ Last survivor of a fallen house, seeking to restore family honor They recently d
 - **Short Term**: Make this month's payment
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Vesper Winterborn (Political - Patron)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Lyanna Nightfall (Personal - Love interest)
 - **Status**: Strained but maintaining
 - **History**: Arranged partnership that grew genuine
-
 
 ### Hestara Crystalbrook (Professional - Employee)
 - **Status**: Blood oath bound

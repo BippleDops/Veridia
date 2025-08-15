@@ -116,3 +116,7 @@ Deep Mother Resistance Traits represents a crucial aspect of the world's history
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Campaign_Overview_1 (01_Adventures)]]

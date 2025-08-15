@@ -2,7 +2,7 @@
 
 title: Shadowhaven [[Merchant]] Marine.md
 aliases:
-- [[02 Worldbuilding]] [[Groups]] Shadowhaven Merchant Marinemd
+- [[02_Worldbuilding|02 Worldbuilding]] [[Groups]] Shadowhaven Merchant Marinemd
 type: [[Lore]]
 tags:
 - lore
@@ -27,7 +27,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 

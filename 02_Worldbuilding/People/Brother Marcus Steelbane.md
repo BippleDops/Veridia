@@ -35,7 +35,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-brother-marcus-steelbane-brother-marcus-steelbane.svg)
 
@@ -43,7 +42,6 @@ improvements: 20
 
 # Brother Marcus Steelbane
 *The Iron Monk, Guardian of the Sacred Flame*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -235,7 +233,6 @@ Mentioned in The Hidden Prophecy of Winds
 - 20% middle class
 - 79% working poor
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -271,3 +268,20 @@ Mentioned in The Hidden Prophecy of Winds
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Quest - Diplomatic Immunity]]
+- [[Establish the New Order (Orders)]]
+- [[Purist Coalition Thugs]]
+- [[Aethermoor - Session 01 Blood in the Harbor]]
+- [[Aethermoor - Session 03 Council of Shadows]]
+- [[Aethermoor Session 07 the Festival of Transformation]]
+- [[Aethermoor Session 07 the Festival of]]
+- [[Comprehensive-World-Connection-Guide (D&D_References)]]
+- [[Comprehensive-World-Connection-Guide 3 (D&D_References)]]
+- [[Crystalhaven (D&D_References)]]
+- [[Establish the New Order]]
+- [[Purist Coalition (D&D_References)]]
+- [[Purist Coalition Thugs (D&D_References)]]

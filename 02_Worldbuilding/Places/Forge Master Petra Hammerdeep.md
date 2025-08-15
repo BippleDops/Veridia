@@ -57,7 +57,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -118,7 +118,7 @@ Legends speak of Forge Master Petra Hammerdeep as a nexus where past and present
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -142,13 +142,11 @@ Forge Master Petra Hammerdeep is a notable location characterized by its unique 
 ### Founding
 Forge Master Petra Hammerdeep was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -156,13 +154,11 @@ Forge Master Petra Hammerdeep was established in the distant past, growing from 
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -207,7 +203,6 @@ Ongoing situations affecting Forge Master Petra Hammerdeep:
 - 20% middle class
 - 79% working poor
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -243,3 +238,13 @@ Ongoing situations affecting Forge Master Petra Hammerdeep:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Captain Redbeard]]
+- [[The Ancient Nobility]]
+- [[Master_Item_Catalog]]
+- [[Captain Redbeard (D&D_References)]]
+- [[The Ancient Nobility (D&D_References)]]
+- [[The Crimson Foundries (D&D_Statblocks)]]
+- [[The Iron Pits of Malachar (D&D_Statblocks)]]

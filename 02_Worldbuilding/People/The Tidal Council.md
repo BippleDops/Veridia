@@ -41,7 +41,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-tidal-council-the-tidal-council.svg)
 
@@ -50,7 +49,6 @@ improvements: 20
 # The Tidal Council
 
 *"As the tides turn, so must goverce adapt to changing currents." - Tidemaster Elena*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -311,7 +309,6 @@ Legends speak of The Tidal Council as a nexus where past and present converge. L
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -347,3 +344,14 @@ Legends speak of The Tidal Council as a nexus where past and present converge. L
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[The Deserter's Tale]]
+- [[The Emperor's Gambit]]
+- [[Assets Portraits Portrait NPC Captain Torrent Swiftcurrent Captain Torrent Swiftcurrent.svg]]
+- [[The Deserter's Tale (D&D_References)]]
+- [[The Deserter's Tale 3 (D&D_References)]]
+- [[The Emperor's Gambit (D&D_References)]]
+- [[Topic Matrix]]
+- [[Topic_Matrix (Indexes)]]

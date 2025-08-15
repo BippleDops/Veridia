@@ -1,4 +1,5 @@
 ---
+aliases: ["Princess's Request", "princess's request", "Request Princess's"]
 tags: [generated]
 id: QUEST0089
 created: 2025-08-15T04:09:51.414Z

@@ -382,7 +382,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Contextual improvement based on 12_Research
 
-
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition
+
+## References
+
+- [[Master Artificers Guild (Guilds)]]
+- [[Eastern Kingdom]]
+- [[QUEST0018_The_Sunken_Temple_Uprising]]
+- [[Master_Item_Catalog]]
+- [[Eastern Kingdom (D&D_References)]]
+- [[Master Artificers Guild]]

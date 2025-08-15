@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Darkwater the Bold", "kaelen darkwater the bold", "Kaelen Darkwater Bold", "Bold the Darkwater Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Darkwater the Bold
 
 *Dwarf Dark Wizard (Villains), Age 25, Non-binary*
@@ -36,12 +42,10 @@ Believes their evil acts serve a greater good They recently discovered a secret 
 - **Short Term**: Find missing person
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Ewan Ravenheart the Swift (Family - Sibling)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ### Delara Blackstone the Wise (Family - Child)
 - **Status**: One-sided affection
@@ -52,7 +56,6 @@ Believes their evil acts serve a greater good They recently discovered a secret 
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Idris Ashford the Redeemed (Political - Patron)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
@@ -61,7 +64,6 @@ Believes their evil acts serve a greater good They recently discovered a secret 
 ### Rhiannon Winterborn the Wise (Personal - Love interest)
 - **Status**: Complicated history
 - **History**: United by common enemy
-
 
 ### Wynne Hawthorne the Scholar (Personal - Nemesis)
 - **Status**: Recently reconciled

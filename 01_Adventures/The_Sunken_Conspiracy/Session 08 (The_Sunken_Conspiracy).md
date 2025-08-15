@@ -144,7 +144,6 @@ The main reason parties get involved
 - Ancient map fragment
 - 1d4 gems (50 gp each)
 
-
 ## Preparation Checklist
 - [ ] Review previous session
 - [ ] Prepare NPC voices

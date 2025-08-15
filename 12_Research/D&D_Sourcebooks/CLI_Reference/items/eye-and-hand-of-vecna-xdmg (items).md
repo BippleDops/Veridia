@@ -150,3 +150,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[09 Appendix a Lore Glossary]]
+- [[09-appendix-a-lore-glossary (dungeon-masters-guide-2024)]]
+- [[Eye and Hand of Vecna Xdmg]]
+- [[Eye of Vecna Xdmg]]
+- [[Hand of Vecna Xdmg]]
+- [[Sword of Kas Xdmg]]
+- [[eye-of-vecna-xdmg (items)]]
+- [[hand-of-vecna-xdmg (items)]]
+- [[sword-of-kas-xdmg (items)]]

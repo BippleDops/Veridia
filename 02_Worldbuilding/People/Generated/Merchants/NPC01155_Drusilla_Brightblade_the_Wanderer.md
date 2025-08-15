@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Brightblade the Wanderer", "drusilla brightblade the wanderer", "Drusilla Brightblade Wanderer", "Wanderer the Brightblade Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Brightblade the Wanderer
 
 *Human Trader (Merchants), Age 66, Male*
@@ -13,7 +19,6 @@
 Tall and slender, with Tied back red hair and Red eyes. Pale skin. Burn scars on one side of face.
 
 **Clothing**: Scholar's robes with ink stains
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Always tells the absolute truth
@@ -36,17 +41,14 @@ Part of a merchant family with connections everywhere A prophetic dream has been
 - **Short Term**: Make this month's payment
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Brenna Crystalbrook the Cunning (Criminal - Fence)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
 
-
 ### Jorah Oakenshield the Lost (Professional - Partner)
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
-
 
 ### Urien Proudmore the Bold (Professional - Employer)
 - **Status**: On the verge of collapse
@@ -56,7 +58,6 @@ Part of a merchant family with connections everywhere A prophetic dream has been
 ### Baelor Blackstone the Mystic (Family - Child)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Is actually a spy for foreign power

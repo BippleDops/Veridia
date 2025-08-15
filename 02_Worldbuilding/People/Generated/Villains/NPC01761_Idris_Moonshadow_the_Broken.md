@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Moonshadow the Broken", "idris moonshadow the broken", "Idris Moonshadow Broken", "Broken the Moonshadow Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Moonshadow the Broken
 
 *Dwarf Crime Boss (Villains), Age 53, Non-binary*
@@ -36,12 +42,10 @@ Born into evil but questioning their path Strange abilities have begun manifesti
 - **Short Term**: Gather information
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Corvus Goldleaf the Broken (Political - Opposition)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ### Solas Youngblood the Seeker (Professional - Rival)
 - **Status**: Secretly hostile
@@ -51,7 +55,6 @@ Born into evil but questioning their path Strange abilities have begun manifesti
 ### Rhiannon Stormwind the Bold (Political - Opposition)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Has a child they're protecting

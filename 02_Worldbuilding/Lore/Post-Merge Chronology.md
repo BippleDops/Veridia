@@ -43,7 +43,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -163,7 +163,7 @@ Following the Great Convergence, the merged realm of Aquabyssos has undergone th
 - 12-day festival held simultaneously underwater, on surface, and in sky-ocean
 - Became annual tradition marking Convergence anniversary
 
-**Year 15 AE** - [[Economic System]] Stabilization
+**Year 15 AE** - [[Economic_System|Economic System]] Stabilization
 - [[Introduction]] of the "Current" as unified Aquabyssos currency
 - Crystal-based banking system operational throughout all depths
 - Trade agreements with neighboring undiscovered realms established
@@ -181,7 +181,7 @@ Following the Great Convergence, the merged realm of Aquabyssos has undergone th
 - Produced the first generation of "Deep Speakers" trained from childhood
 
 **Year 28 AE** - The Shadow Integration Accords
-- Formal recognition of shadow entities that remained after the [[Shadow Surgery]] revelation  
+- Formal recognition of shadow entities that remained after the [[Shadow_Surgery|Shadow Surgery]] revelation  
 - Established legal framework for shadow-human partnerships
 - Created the Shadow Rights Commission
 
@@ -193,7 +193,7 @@ Following the Great Convergence, the merged realm of Aquabyssos has undergone th
 **Year 39 AE** - The Great Technological Leap
 - Successful merger of surface engineering, Aethermoor wind-magic, and mer-folk bio-engineering
 - Development of "living ships" that could adapt to any depth or environment
-- Invention of crystal-biological hybrid [[Communication Systems]]
+- Invention of crystal-biological hybrid [[Communication_Systems|Communication Systems]]
 
 **Year 45 AE** - First Contact with the Deep Ancients
 - Discovery of sentient entities dwelling in the deepest ocean trenches
@@ -424,7 +424,7 @@ Following the Great Convergence, the merged realm of Aquabyssos has undergone th
 - Establishment of the Sacred Mission of Consciousness Nurturing
 - Beginning of the Great Work: shepherding the evolution of awareness throughout reality
 
-**Year 934 AE** - [[The Consciousness Archive]]
+**Year 934 AE** - 
 - Completion of the Eternal Memory Project preserving the experiences of all willing entities
 - Creation of the largest repository of consciousness experience in known existence
 - Opening of the Archive to researchers from across the cosmos
@@ -503,7 +503,7 @@ Post Merge Chronology is a undersea element of the setting, known for biolumines
 
 Legends speak of Post Merge Chronology as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Post Merge Chronology.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 

@@ -1,4 +1,5 @@
 ---
+aliases: ["Shadow Stalker", "shadow stalker", "Stalker Shadow"]
 tags: [generated]
 id: MON0000_Shadow_Stalker
 created: 2025-08-15T04:09:51.421Z
@@ -24,7 +25,6 @@ An ancient being of immense power and malevolence
 
 ---
 *Generated: 2025-08-15T03:21:47.461Z*
-
 
 ## Habitat
 - Natural environment and territories

@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Moonshadow the Guardian", "aldric moonshadow the guardian", "Aldric Moonshadow Guardian", "Guardian the Moonshadow Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Moonshadow the Guardian
 
 *Tiefling Blacksmith (Commoners), Age 25, Female*
@@ -42,11 +48,9 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Felicia Brightblade the Mystic (Personal - Love interest)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ### Elric Ironforge the Guardian (Family - Sibling)
 - **Status**: Strong and trusting
@@ -56,7 +60,6 @@ Grew up in poverty but discovered a talent that might change everything They've 
 ### Urien Voidwalker the Wanderer (Family - Child)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Can hear the thoughts of others

@@ -152,3 +152,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[modron-tridrone-xmm (construct)]]
+- [[Monster Conversions Stat Block Conversions]]
+- [[monster-conversions-stat-block-conversions-xmm]]

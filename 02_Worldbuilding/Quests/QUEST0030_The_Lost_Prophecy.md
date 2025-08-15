@@ -1,4 +1,5 @@
 ---
+aliases: ["The Lost Prophecy", "the lost prophecy", "Prophecy Lost The"]
 tags: [quest, adventure, generated]
 type: quest
 ---
@@ -20,8 +21,6 @@ Protect the sunken temple from the orc horde for three days
 
 ### Secondary
 - Rescue any prisoners found
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they lost everything in a fire, which changed their life forever. Now, circumstances demand immediate action.

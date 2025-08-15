@@ -115,3 +115,9 @@ improvements: 20
 - Civil war
 - Natural disasters
 - Current power structures established
+
+## References
+
+- [[Aurelius Goldwave]]
+- [[Merchant Family Alliances]]
+- [[Political Intrigue Master Index]]

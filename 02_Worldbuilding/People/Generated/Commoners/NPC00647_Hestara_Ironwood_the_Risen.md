@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Ironwood the Risen", "hestara ironwood the risen", "Hestara Ironwood Risen", "Risen the Ironwood Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Ironwood the Risen
 
 *Genasi Fisher (Commoners), Age 33, Non-binary*
@@ -36,7 +42,6 @@ Grew up in poverty but discovered a talent that might change everything They're 
 - **Short Term**: Make this month's payment
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Aldric Winterborn the Wise (Personal - Best friend)
 - **Status**: Secretly hostile
@@ -51,7 +56,6 @@ Grew up in poverty but discovered a talent that might change everything They're 
 ### Drusilla Keenblade the Bold (Professional - Rival)
 - **Status**: Professional only
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Witnessed a noble's crime

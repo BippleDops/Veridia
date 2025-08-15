@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Jadeclaw the Guardian", "branwen jadeclaw the guardian", "Branwen Jadeclaw Guardian", "Guardian the Jadeclaw Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Jadeclaw the Guardian
 
 *Elf Farmer (Commoners), Age 62, Non-binary*
@@ -36,22 +42,18 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 - **Short Term**: Complete current contract
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Rhiannon Jadeclaw the Mystic (Personal - Love interest)
 - **Status**: Recently reconciled
 - **History**: Saved each other's lives during the war
 
-
 ### Drusilla Darkwater the Cunning (Political - Ally)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
 
-
 ### Faelyn Underhill the Fallen (Professional - Employer)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
-
 
 ### Cedric Stormwind the Broken (Political - Spy)
 - **Status**: One-sided affection
@@ -61,7 +63,6 @@ Runaway from an arranged marriage, starting a new life They recently discovered 
 ### Drusilla Blackstone (Political - Puppet)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
-
 
 ### Erasmus Ironwood the Wise (Professional - Employee)
 - **Status**: Secretly hostile

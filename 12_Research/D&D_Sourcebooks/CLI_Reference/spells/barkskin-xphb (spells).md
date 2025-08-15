@@ -109,7 +109,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -122,3 +121,16 @@ Contextual improvement based on 12_Research
 ## Counterspell Information
 - How to counter
 - Difficulty class
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Cleric Xphb Nature Domain]]
+- [[cleric-xphb-nature-domain (classes)]]
+- [[cleric-xphb-nature-domain 2 (classes)]]
+- [[Instrument of the Bards Mac Fuirmidh Cittern]]
+- [[Staff of the Woodlands Xdmg]]
+- [[instrument-of-the-bards-mac-fuirmidh-cittern-xdmg]]
+- [[staff-of-the-woodlands-xdmg (items)]]

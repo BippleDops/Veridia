@@ -6,7 +6,6 @@ tags:
 type: npc
 ---
 
-
 ## Stats
 - **AC**: 12
 - **HP**: 22 (4d8)
@@ -22,20 +21,17 @@ type: npc
 
 *Gnome Cleric 9, Lawful Good*
 
-
 ## Relationships
 - **Allies**: Notable allies and friends
 - **Rivals**: Competitors and rivals  
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
-
 ## Motivations
 - **Primary Goal**: Main objective
 - **Secondary Goals**: Supporting aims
 - **Fears**: What they avoid
 - **Desires**: What they seek
-
 
 ## Secrets
 - Hidden information about this character
@@ -93,7 +89,6 @@ This character pragmatic and believes that personal gain. They are driven by the
 
 ---
 *Generated: 2025-08-15T03:07:45.514Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

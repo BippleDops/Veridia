@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Nightfall the Lost", "kaelen nightfall the lost", "Kaelen Nightfall Lost", "Lost the Nightfall Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Nightfall the Lost
 
 *Gnome Dark Wizard (Villains), Age 46, Non-binary*
@@ -13,7 +19,6 @@
 Tall and delicate, with Short and neat bald hair and Violet eyes. Pale skin. Warm smile that puts people at ease.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Laughs at the most inappropriate times; Always tells the absolute truth
@@ -36,27 +41,22 @@ Believes their evil acts serve a greater good Strange abilities have begun manif
 - **Short Term**: Gather information
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Ysara Dawnstrider the Cunning (Political - Spy)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
 
-
 ### Idris Dawnstrider the Wise (Criminal - Handler)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ### Erasmus Ravenheart the Guardian (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
 
-
 ### Gareth Stormwind the Seeker (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Is being controlled by darker force

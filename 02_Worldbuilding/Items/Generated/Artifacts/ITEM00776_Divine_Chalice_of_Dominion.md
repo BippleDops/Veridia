@@ -1,3 +1,9 @@
+---
+aliases: ["Divine Chalice of Dominion", "divine chalice of dominion", "Dominion of Chalice Divine"]
+tags: [item, equipment]
+type: item
+---
+
 # Divine Chalice of Dominion
 
 *Artifacts, Legendary*
@@ -16,8 +22,6 @@ A divine chalice radiating otherworldly power
 - Grant true sight
 - Grant true sight
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -32,7 +36,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.425Z*

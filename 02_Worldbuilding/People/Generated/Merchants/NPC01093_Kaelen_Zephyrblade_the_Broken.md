@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Zephyrblade the Broken", "kaelen zephyrblade the broken", "Kaelen Zephyrblade Broken", "Broken the Zephyrblade Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Zephyrblade the Broken
 
 *Dwarf Trader (Merchants), Age 41, Male*
@@ -13,7 +19,6 @@
 Above average and muscular, with Mohawk silver hair and Red eyes. Brown skin. Intricate tattoos covering arms.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Always speaks in metaphors and riddles
@@ -36,22 +41,18 @@ Built their business from nothing through cunning and hard work They've made a d
 - **Short Term**: Sabotage competition
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Vesper Silverleaf the Lost (Personal - Love interest)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Baelor Grimholt the Cunning (Political - Patron)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Fiora Crystalbrook the Fallen (Criminal - Accomplice)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Running a cult from their basement

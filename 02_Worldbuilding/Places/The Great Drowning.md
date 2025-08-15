@@ -58,7 +58,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -247,7 +247,7 @@ Crystallized tears of the victims form underwater gardens:
 - Some crystals grant knowledge or skills temporarily
 - Others inflict curses or madness
 
-## [[[[Random Encounter]]s]] (d20)
+## [[Random Encounter|[[Random Encounter]]s]] (d20)
 
 | Roll | Encounter |
 |------|-----------|
@@ -362,13 +362,11 @@ The Great Drowning is a notable location characterized by its unique features an
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -376,13 +374,11 @@ The Great Drowning is a notable location characterized by its unique features an
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -433,7 +429,6 @@ Ongoing situations affecting The Great Drowning:
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -469,3 +464,53 @@ Ongoing situations affecting The Great Drowning:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Shadow Independence Levels (Criminal_Organizations)]]
+- [[Establish the New Order (Orders)]]
+- [[Ancient Aquabyssos Rulers]]
+- [[Aquabyssos World Overview#The Great Drowning]]
+- [[Arcanum Heights]]
+- [[Great Drowning]]
+- [[The Breathing Stone]]
+- [[The Tethyan Hegemony]]
+- [[The Seven Seals]]
+- [[Unite the Emperor]]
+- [[Crystallium]]
+- [[Old Valdris]]
+- [[Sister Morwyn]]
+- [[The Azure Coast]]
+- [[The Bathyal Palace]]
+- [[The Foundation Depths]]
+- [[The Lock]]
+- [[The Phosphor Markets]]
+- [[The Vanishing Depths]]
+- [[Theological Warfare]]
+- [[Ancient Aquabyssos Rulers (D&D_References)]]
+- [[Aquabyssos Ambassadors]]
+- [[Arcanum Heights (D&D_References)]]
+- [[Convergence Point]]
+- [[Crystallium (D&D_References)]]
+- [[Establish the New Order]]
+- [[Old Valdris (D&D_References)]]
+- [[Pressure's End (D&D_References)]]
+- [[Prophet Nerida Voidgazer (D&D_References)]]
+- [[Queen Seraphina (D&D_References)]]
+- [[Queen Seraphina 3 (D&D_References)]]
+- [[Shadow Independence Levels]]
+- [[Sister Morwyn (D&D_References)]]
+- [[The Azure Coast (D&D_References)]]
+- [[The Bathyal Palace (D&D_References)]]
+- [[The Breathing Stone (D&D_References)]]
+- [[The Cerulean Trench (D&D_References)]]
+- [[The Drowned God]]
+- [[The Eternal Senate (D&D_References)]]
+- [[The Lock (D&D_References)]]
+- [[The Primordial Vaults (D&D_References)]]
+- [[The Vanishing Depths (D&D_References)]]
+- [[Theological Warfare (D&D_References)]]
+- [[Unite the Emperor (D&D_References)]]
+- [[Whisper-Touched William (D&D_References)]]
+- [[The Foundation Depths (D&D_Statblocks)]]
+- [[The Seven Seals (D&D_Statblocks)]]

@@ -88,3 +88,20 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Bard Xphb College of Swords Xge]]
+- [[Fighter Xphb]]
+- [[Rogue Xphb]]
+- [[bard-xphb-college-of-swords-xge (classes)]]
+- [[bard-xphb-college-of-swords-xge 2 (classes)]]
+- [[fighter-xphb (classes)]]
+- [[rogue-xphb (classes)]]
+- [[Scimitar of Speed Xdmg]]
+- [[scimitar-of-speed-xdmg (items)]]
+- [[Weapons Phb]]
+- [[Weapons Xphb]]
+- [[weapons-phb (tables)]]
+- [[weapons-xphb (tables)]]

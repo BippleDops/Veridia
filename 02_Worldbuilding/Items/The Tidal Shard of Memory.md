@@ -111,3 +111,9 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ### Curse (if applicable)
 - *[Negative effects]*
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[World Bible Index]]
+- [[World_Bible_Index (D&D_References)]]

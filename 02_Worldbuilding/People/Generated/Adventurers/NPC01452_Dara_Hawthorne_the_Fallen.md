@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Hawthorne the Fallen", "dara hawthorne the fallen", "Dara Hawthorne Fallen", "Fallen the Hawthorne Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Hawthorne the Fallen
 
 *Dwarf Rogue (Adventurers), Age 69, Female*
@@ -42,21 +48,17 @@ Accidentally gained powers and learning to control them They've fallen in love w
 - **Status**: Recently reconciled
 - **History**: United by common enemy
 
-
 ### Qadim Grimholt the Swift (Political - Opposition)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
-
 
 ### Faelyn Nightfall the Swift (Personal - Love interest)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Elric Proudmore the Guardian (Criminal - Fence)
 - **Status**: On the verge of collapse
 - **History**: Bonded over shared tragedy
-
 
 ### Faelyn Keenblade the Seeker (Personal - Love interest)
 - **Status**: Professional only

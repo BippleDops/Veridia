@@ -1,3 +1,9 @@
+---
+aliases: ["Superior Powder of Vigor", "superior powder of vigor", "Vigor of Powder Superior"]
+tags: [item, equipment]
+type: item
+---
+
 # Superior Powder of Vigor
 
 *Consumables, Uncommon*
@@ -14,8 +20,6 @@ A superior powder glowing softly
 - Resistance for 10 minutes
 - Resistance for 10 minutes
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -30,7 +34,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.438Z*

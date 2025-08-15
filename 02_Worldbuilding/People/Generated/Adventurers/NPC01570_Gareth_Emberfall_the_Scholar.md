@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Emberfall the Scholar", "gareth emberfall the scholar", "Gareth Emberfall Scholar", "Scholar the Emberfall Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Emberfall the Scholar
 
 *Elf Wizard (Adventurers), Age 64, Female*
@@ -36,7 +42,6 @@ Chosen by fate to fulfill an ancient prophecy A family member's death has left t
 - **Short Term**: Find missing person
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Hestara Jadeclaw the Cunning (Family - Child)
 - **Status**: Secretly hostile
@@ -47,26 +52,21 @@ Chosen by fate to fulfill an ancient prophecy A family member's death has left t
 - **Status**: Secretly hostile
 - **History**: Met during a heist gone wrong
 
-
 ### Delara Keenblade the Fallen (Personal - Best friend)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
-
 
 ### Faelyn Underhill the Strong (Personal - Best friend)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Faelyn Darkwater the Guardian (Political - Opposition)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Nerys Ironforge the Guardian (Personal - Best friend)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Secretly working for the villain

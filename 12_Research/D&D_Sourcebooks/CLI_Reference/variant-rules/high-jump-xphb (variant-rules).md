@@ -78,3 +78,18 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Frog Xmm]]
+- [[Giant Frog Xmm]]
+- [[Giant Toad Xmm]]
+- [[frog-xmm (beast)]]
+- [[giant-frog-xmm (beast)]]
+- [[giant-toad-xmm (beast)]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]
+- [[Jumping Xphb]]
+- [[jumping-xphb (variant-rules)]]

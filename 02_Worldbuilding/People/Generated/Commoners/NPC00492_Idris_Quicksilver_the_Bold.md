@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Quicksilver the Bold", "idris quicksilver the bold", "Idris Quicksilver Bold", "Bold the Quicksilver Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Quicksilver the Bold
 
 *Firbolg Farmer (Commoners), Age 41, Non-binary*
@@ -47,11 +53,9 @@ Former soldier trying to adjust to civilian life They're being blackmailed by so
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
 
-
 ### Zephyr Xendar the Strong (Political - Opposition)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
-
 
 ### Hilda Brightblade the Guardian (Family - Cousin)
 - **Status**: Mutually beneficial
@@ -62,11 +66,9 @@ Former soldier trying to adjust to civilian life They're being blackmailed by so
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Baelor Ravenheart the Scholar (Personal - Love interest)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Has dragon blood in their veins

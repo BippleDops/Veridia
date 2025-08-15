@@ -42,7 +42,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -187,7 +187,7 @@ The Temple Ward stands as the spiritual center of [[Port Meridian]], where the f
 **Denomination**: God of deep wisdom, ancient knowledge, pressure mastery  
 **Architecture**: Sunken chambers carved deep into bedrock  
 **Services**: Wisdom seeking, scholarly blessing, pressure adaptation rituals  
-**Clergy**: [[[[Deep [[Oracle]]]] Bathys]] leads contemplative order  
+**Clergy**: [[Oracle|[[Deep [[Oracle]]]] Bathys]] leads contemplative order  
 **Specialties**: Divination magic, ancient [[Lore]], pressure resistance blessings
 
 ### Cathedral of the [[Tidal Crown]]
@@ -365,7 +365,7 @@ The Temple Ward stands as the spiritual center of [[Port Meridian]], where the f
 
 ### Interfaith Diplomacy
 **Encounter Type**: Social challenge requiring careful navigation  
-**Situation**: Mediating dispute between different [[Religious [[Groups]]]]  
+**Situation**: Mediating dispute between different [[Groups|Religious [[Groups]]]]  
 **Complications**: Historical grievances, doctrinal differences, political pressure  
 **Resolution Methods**: Persuasion, Insight, History, Religion checks  
 **Stakes**: Peace between faiths, Ward's reputation, potential violence  
@@ -386,7 +386,7 @@ The Temple Ward stands as the spiritual center of [[Port Meridian]], where the f
 **Locations**: Hidden chambers beneath Ward, investigation of other sacred sites  
 **Resolution**: May involve confronting corrupt official or ancient curse
 
-### The [[Interfaith Council]] Crisis
+### The [[Interfaith_Council|Interfaith Council]] Crisis
 **Level**: 7-12  
 **Situation**: Growing tension between faiths threatens to divide Ward  
 **Challenges**: Mediating disputes, uncovering manipulation, preventing violence  
@@ -495,7 +495,7 @@ Legends speak of Temple Ward as a nexus where past and present converge. Locals 
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -516,13 +516,11 @@ Temple Ward is a notable location characterized by its unique features and strat
 **Population**: Varies by type
 **Goverce**: Local authority structure
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -530,13 +528,11 @@ Temple Ward is a notable location characterized by its unique features and strat
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -606,7 +602,6 @@ Key stop on metals trade route
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -642,3 +637,10 @@ Key stop on metals trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Central Location]]
+- [[Cure Component Locations]]
+- [[Key Locations]]
+- [[Known Locations]]

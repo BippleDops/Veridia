@@ -1,3 +1,9 @@
+---
+aliases: ["Cursed Sword of Wounding", "cursed sword of wounding", "Wounding of Sword Cursed"]
+tags: [item, equipment]
+type: item
+---
+
 # Cursed Sword of Wounding
 
 *Weapons, Legendary (requires attunement)*
@@ -16,8 +22,6 @@ A cursed sword carved from dragon bone
 - +1 to attack and damage rolls
 - Ignores resistance to damage type
 
-
-
 ## History
 Found in ruins of a lost civilization
 
@@ -32,7 +36,6 @@ Found in ruins of a lost civilization
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.367Z*

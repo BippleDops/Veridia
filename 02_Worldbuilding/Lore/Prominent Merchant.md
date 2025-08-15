@@ -99,3 +99,7 @@ Prominent Merchant represents a crucial aspect of the world's history, cosmology
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[The Phosphor Markets]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Dawnstrider the Broken", "dara dawnstrider the broken", "Dara Dawnstrider Broken", "Broken the Dawnstrider Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Dawnstrider the Broken
 
 *Gnome Cleric (Adventurers), Age 42, Male*
@@ -13,7 +19,6 @@
 Very short and imposing, with Mohawk bald hair and Gray eyes. Pale skin. Gold tooth that glints when smiling.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Constantly quotes ancient texts; Believes in every conspiracy theory
@@ -36,27 +41,22 @@ Seeking vengeance for a murdered mentor They recently discovered a secret that c
 - **Short Term**: Make this month's payment
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Dara Crystalbrook the Scholar (Personal - Nemesis)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Xander Blackstone the Risen (Criminal - Informant)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ### Jorah Nightfall the Strong (Political - Opposition)
 - **Status**: Blood oath bound
 - **History**: Grew up together in the same neighborhood
 
-
 ### Pyria Ironwood the Scholar (Personal - Ex-lover)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Is from the future

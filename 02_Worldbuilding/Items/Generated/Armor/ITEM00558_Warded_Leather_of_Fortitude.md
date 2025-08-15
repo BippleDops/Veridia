@@ -1,3 +1,9 @@
+---
+aliases: ["Warded Leather of Fortitude", "warded leather of fortitude", "Fortitude of Leather Warded"]
+tags: [item, equipment]
+type: item
+---
+
 # Warded Leather of Fortitude
 
 *Armor, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A warded leather bearing ancient runes
 - Reduces damage by 3
 - Grants swimming speed
 
-
-
 ## History
 Stolen from a dragon's hoard centuries ago
 
@@ -31,7 +35,6 @@ Stolen from a dragon's hoard centuries ago
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.394Z*

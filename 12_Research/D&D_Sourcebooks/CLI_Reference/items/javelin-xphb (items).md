@@ -85,3 +85,19 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Fighter Xphb]]
+- [[Paladin Xphb]]
+- [[fighter-xphb (classes)]]
+- [[paladin-xphb (classes)]]
+- [[Javelin of Lightning Xdmg]]
+- [[Quiver of Ehlonna Xdmg]]
+- [[javelin-of-lightning-xdmg (items)]]
+- [[quiver-of-ehlonna-xdmg (items)]]
+- [[Weapons Phb]]
+- [[Weapons Xphb]]
+- [[weapons-phb (tables)]]
+- [[weapons-xphb (tables)]]

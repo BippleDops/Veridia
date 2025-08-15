@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Ravenheart the Redeemed", "malakai ravenheart the redeemed", "Malakai Ravenheart Redeemed", "Redeemed the Ravenheart Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Ravenheart the Redeemed
 
 *Goliath Trader (Merchants), Age 76, Non-binary*
@@ -42,21 +48,17 @@ Built their business from nothing through cunning and hard work A chance encount
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Rhiannon Voidwalker the Swift (Political - Opposition)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ### Faelyn Quicksilver the Broken (Personal - Childhood friend)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Ysara Emberfall the Bold (Political - Patron)
 - **Status**: Strained but maintaining
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Smuggles illegal magical items

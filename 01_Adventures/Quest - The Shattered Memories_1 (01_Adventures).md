@@ -28,13 +28,10 @@ improvements: 20
 - Time pressure
 - Moral dilemmas
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
-
 
 ## Objectives
 ### Primary
@@ -301,7 +298,6 @@ Mentioned in The Second Prophecy of Shadows
 ### Large/Small Parties
 - *[Adjustments for party size]*
 
-
 ## Hooks
 - **Personal**: Character connection
 - **Professional**: Hired for the job
@@ -364,3 +360,8 @@ Mentioned in The Second Prophecy of Shadows
 ## Player Tips
 > 🎮 **Strategy**: How to approach this content
 > Work together and communicate
+
+## References
+
+- [[Corrupted Clients]]
+- [[Corrupted Clients (D&D_References)]]

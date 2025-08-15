@@ -100,3 +100,7 @@ Crystal Plague Infection Tracking represents a crucial aspect of the world's his
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## References
+
+- [[Campaign_Overview (Crystal_Plague)]]

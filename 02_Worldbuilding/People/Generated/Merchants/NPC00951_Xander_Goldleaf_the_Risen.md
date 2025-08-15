@@ -1,3 +1,9 @@
+---
+aliases: ["Xander Goldleaf the Risen", "xander goldleaf the risen", "Xander Goldleaf Risen", "Risen the Goldleaf Xander"]
+tags: [npc, character]
+type: npc
+---
+
 # Xander Goldleaf the Risen
 
 *Half-Elf Shopkeeper (Merchants), Age 33, Male*
@@ -41,7 +47,6 @@ Built their business from nothing through cunning and hard work They've been mar
 ### Orion Grimholt the Bold (Criminal - Target)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
-
 
 ### Jorah Proudmore the Wise (Criminal - Fence)
 - **Status**: Blood oath bound

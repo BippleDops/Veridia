@@ -1,4 +1,5 @@
 ---
+aliases: ["Myth of the Hero's Sacrifice", "myth of the hero's sacrifice", "Myth of Hero's Sacrifice", "Sacrifice Hero's the of Myth"]
 tags: [generated]
 id: LORE0093_Myth_of_the_Hero's_Sacrifice
 created: 2025-08-15T04:09:51.154Z

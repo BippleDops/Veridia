@@ -138,3 +138,17 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[06 Chapter 5 Construction Ahead]]
+- [[06-chapter-5-construction-ahead (hoard-of-the-dragon-queen)]]
+- [[Bullywug Warrior Xmm]]
+- [[Monster Conversions Stat Block Conversions]]
+- [[Monsters by Habitat Swamp Monsters Xmm]]
+- [[Swamp Encounters Levels 14 Xge]]
+- [[Swamp Encounters Levels 510 Xge]]
+- [[monster-conversions-stat-block-conversions-xmm]]
+- [[monsters-by-habitat-swamp-monsters-xmm (tables)]]
+- [[swamp-encounters-levels-14-xge (tables)]]
+- [[swamp-encounters-levels-510-xge (tables)]]

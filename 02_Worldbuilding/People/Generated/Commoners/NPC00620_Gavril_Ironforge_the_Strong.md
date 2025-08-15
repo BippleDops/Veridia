@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Ironforge the Strong", "gavril ironforge the strong", "Gavril Ironforge Strong", "Strong the Ironforge Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Ironforge the Strong
 
 *Halfling Blacksmith (Commoners), Age 62, Non-binary*
@@ -13,7 +19,6 @@
 Short and imposing, with Long and flowing brown hair and Green eyes. Brown skin. Warm smile that puts people at ease.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Compulsive liar about minor things
@@ -42,11 +47,9 @@ Grew up in poverty but discovered a talent that might change everything An old d
 - **Status**: Recently reconciled
 - **History**: United by common enemy
 
-
 ### Wynne Darkwater the Redeemed (Political - Patron)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ### Hilda Darkwater the Redeemed (Professional - Rival)
 - **Status**: Strong and trusting

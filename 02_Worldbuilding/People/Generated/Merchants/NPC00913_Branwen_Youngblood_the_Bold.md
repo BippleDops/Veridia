@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Youngblood the Bold", "branwen youngblood the bold", "Branwen Youngblood Bold", "Bold the Youngblood Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Youngblood the Bold
 
 *Dragonborn Trader (Merchants), Age 69, Male*
@@ -42,16 +48,13 @@ Former adventurer who retired to open a shop They've fallen in love with someone
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
 
-
 ### Rhiannon Stormwind the Swift (Criminal - Accomplice)
 - **Status**: Complicated history
 - **History**: United by common enemy
 
-
 ### Hestara Nightfall the Scholar (Family - Sibling)
 - **Status**: On the verge of collapse
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Running a cult from their basement

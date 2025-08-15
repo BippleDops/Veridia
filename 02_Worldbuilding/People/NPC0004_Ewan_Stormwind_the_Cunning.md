@@ -1,8 +1,8 @@
 ---
+aliases: ["Ewan Stormwind the Cunning", "ewan stormwind the cunning", "Ewan Stormwind Cunning", "Cunning the Stormwind Ewan"]
 tags: [generated]
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -87,7 +87,6 @@ Arcana, Deception, Perception
 
 ---
 *Generated: 2025-08-15T03:20:13.071Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

@@ -35,7 +35,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-banking-lord-cornelius-coinwright-banking-lord-cornelius-coinwright.svg)
 
@@ -213,7 +212,6 @@ Mentioned in The Hidden Prophecy of Shadows
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -283,3 +281,12 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City Deputy Harbor Master Marina Stormwright Deputy Harbor Master Marina Stormwright.svg]]
+- [[Assets Symbols Symbol Heraldry Family Retaine Family Retaine.svg]]
+- [[The Speaking Stones]]
+- [[Port Meridian - Merchant Quarter]]
+- [[Port Meridian - Merchant Quarter (D&D_References)]]
+- [[The Speaking Stones (D&D_References)]]

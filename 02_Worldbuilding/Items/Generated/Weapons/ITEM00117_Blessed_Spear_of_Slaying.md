@@ -1,3 +1,9 @@
+---
+aliases: ["Blessed Spear of Slaying", "blessed spear of slaying", "Slaying of Spear Blessed"]
+tags: [item, equipment]
+type: item
+---
+
 # Blessed Spear of Slaying
 
 *Weapons, Common*
@@ -13,8 +19,6 @@ A blessed spear made of crystallized magic
 ## Properties
 - Can strike ethereal creatures
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -29,7 +33,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.352Z*

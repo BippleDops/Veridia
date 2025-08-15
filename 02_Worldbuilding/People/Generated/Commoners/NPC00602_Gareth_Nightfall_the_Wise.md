@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Nightfall the Wise", "gareth nightfall the wise", "Gareth Nightfall Wise", "Wise the Nightfall Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Nightfall the Wise
 
 *Halfling Baker (Commoners), Age 72, Male*
@@ -36,22 +42,18 @@ Runaway from an arranged marriage, starting a new life They've made a deal they'
 - **Short Term**: Avoid the authorities
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Lyanna Jadeclaw the Mystic (Criminal - Fence)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
 
-
 ### Jorah Grimholt (Criminal - Target)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Wynne Moonshadow the Wanderer (Criminal - Accomplice)
 - **Status**: Complicated history
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Is the lost heir to the throne

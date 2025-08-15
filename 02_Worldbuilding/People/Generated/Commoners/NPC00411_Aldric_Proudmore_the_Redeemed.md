@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Proudmore the Redeemed", "aldric proudmore the redeemed", "Aldric Proudmore Redeemed", "Redeemed the Proudmore Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Proudmore the Redeemed
 
 *Half-Elf Blacksmith (Commoners), Age 20, Non-binary*
@@ -42,11 +48,9 @@ Runaway from an arranged marriage, starting a new life They've fallen in love wi
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Zephyr Winterborn (Personal - Childhood friend)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ### Faelyn Brightblade the Strong (Professional - Mentor)
 - **Status**: On the verge of collapse
@@ -57,11 +61,9 @@ Runaway from an arranged marriage, starting a new life They've fallen in love wi
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
 
-
 ### Hestara Youngblood (Political - Patron)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ### Erasmus Winterborn the Wanderer (Family - Parent)
 - **Status**: Strained but maintaining

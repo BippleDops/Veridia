@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Proudmore the Mystic", "vesper proudmore the mystic", "Vesper Proudmore Mystic", "Mystic the Proudmore Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Proudmore the Mystic
 
 *Elf Dark Wizard (Villains), Age 64, Non-binary*
@@ -35,7 +41,6 @@ Believes their evil acts serve a greater good They recently discovered a secret 
 ### Goals
 - **Short Term**: Complete current contract
 - **Long Term**: Protect their loved ones
-
 
 ## Relationships
 ### Aldric Ironforge the Fallen (Personal - Ex-lover)

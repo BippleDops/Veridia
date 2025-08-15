@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Nightfall", "hilda nightfall", "Nightfall Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Nightfall
 
 *Dwarf Aristocrat (Nobles), Age 70, Male*
@@ -36,7 +42,6 @@ Exiled from their homeland, trying to rebuild their power base They've been mark
 - **Short Term**: Avoid the authorities
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Alaric Brightblade the Swift (Personal - Ex-lover)
 - **Status**: Secretly hostile
@@ -52,16 +57,13 @@ Exiled from their homeland, trying to rebuild their power base They've been mark
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Alaric Quicksilver (Criminal - Handler)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
 
-
 ### Qadim Dawnstrider (Criminal - Fence)
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Secretly funding the rebellion

@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Zephyrblade the Swift", "kaelen zephyrblade the swift", "Kaelen Zephyrblade Swift", "Swift the Zephyrblade Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Zephyrblade the Swift
 
 *Elf Corrupt Noble (Villains), Age 77, Non-binary*
@@ -13,7 +19,6 @@
 Below average and imposing, with Dreadlocks brown hair and Green eyes. Dark skin. Gold tooth that glints when smiling.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects
@@ -36,17 +41,14 @@ Born into evil but questioning their path They've made a deal they're beginning 
 - **Short Term**: Recruit new members
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Idris Grimholt the Seeker (Political - Patron)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Kaelen Ironforge the Strong (Family - Parent)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
-
 
 ### Dara Grimholt the Risen (Political - Ally)
 - **Status**: Recently reconciled

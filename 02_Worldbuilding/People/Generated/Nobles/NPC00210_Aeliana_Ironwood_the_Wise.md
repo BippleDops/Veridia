@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Ironwood the Wise", "aeliana ironwood the wise", "Aeliana Ironwood Wise", "Wise the Ironwood Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Ironwood the Wise
 
 *Tabaxi Noble (Nobles), Age 64, Non-binary*
@@ -13,7 +19,6 @@
 Short and imposing, with Braided elaborately blonde hair and Green eyes. Tan skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Performer's costume, bright and eye-catching
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Always tells the absolute truth; Flirts with everyone regardless of interest; Speaks to inanimate objects
@@ -36,12 +41,10 @@ Exiled from their homeland, trying to rebuild their power base A chance encounte
 - **Short Term**: Recruit new members
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Gavril Jadeclaw the Wise (Professional - Employer)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
-
 
 ### Xander Lightbringer (Political - Opposition)
 - **Status**: Secretly hostile
@@ -57,11 +60,9 @@ Exiled from their homeland, trying to rebuild their power base A chance encounte
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
 
-
 ### Faelyn Dawnstrider (Personal - Nemesis)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

@@ -1,3 +1,9 @@
+---
+aliases: ["Ornate Lock of Durability", "ornate lock of durability", "Durability of Lock Ornate"]
+tags: [item, equipment]
+type: item
+---
+
 # Ornate Lock of Durability
 
 *Mundane, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A ornate lock bearing maker's mark
 - Grants minor benefit
 - Works perfectly always
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -30,7 +34,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.487Z*

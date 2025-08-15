@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Lightbringer the Swift", "qadim lightbringer the swift", "Qadim Lightbringer Swift", "Swift the Lightbringer Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Lightbringer the Swift
 
 *Firbolg Assassin (Villains), Age 26, Female*
@@ -13,7 +19,6 @@
 Above average and athletic, with Mohawk silver hair and Blue eyes. Pale skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Sees doom and gloom everywhere; Never uses people's real names
@@ -36,12 +41,10 @@ Believes their evil acts serve a greater good A prophetic dream has been hauntin
 - **Short Term**: Gather information
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Gavril Hawthorne the Broken (Political - Patron)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
-
 
 ### Fiora Brightblade the Fallen (Professional - Mentor)
 - **Status**: Recently reconciled

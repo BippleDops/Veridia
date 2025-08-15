@@ -9,16 +9,16 @@ modified: '2025-01-15'
 
 ### 📁 Output Structure
 ```
-04_Resources/Assets/Generated/
+[[04_Resources|04_Resources]]/[[Assets|Assets]]/Generated/
 ├── Portraits/      # Character and NPC images
-├── Locations/      # Environment and place images
-├── Items/          # Equipment and artifact images
-├── Creatures/      # Monster and beast images
+├── [[locations|Locations]]/      # Environment and place images
+├── [[Items|Items]]/          # Equipment and artifact images
+├── Creatures/      # Monster and [[beast|beast]] images
 ├── Scenes/         # Story moment images
 ├── Combat/         # Battle scene animations
 └── Misc/           # Other assets
 
-#### Core Scripts
+#### Core [[scripts|Scripts]]
 1. `enhanced_prompt_generator.js` - Context-aware prompt generation
 2. `vault_batch_generator.js` - Main batch processing system
 3. `audio_generator.js` - Audio generation with ComfyUI AudioX
@@ -33,7 +33,7 @@ Check progress anytime with:
 ```bash
 
 # Image count
-find 04_Resources/Assets/Generated -name "*.png" | wc -l
+find 04_Resources/Assets/Generated -[[Name|Name]] "*.png" | wc -l
 
 # Audio count
 find 04_Resources/Assets/Generated -name "*.mp3" | wc -l
@@ -42,7 +42,7 @@ find 04_Resources/Assets/Generated -name "*.mp3" | wc -l
 find 04_Resources/Assets/Generated -name "*.mp4" | wc -l
 
 # Watch live generation
-tail -f 09_Performance/batch_generator_full.log
+tail -f [[09_Performance|09_Performance]]/batch_generator_full.log
 
 # Check active processes
 ps aux | grep node | grep scripts | grep -v grep
@@ -52,7 +52,7 @@ ps aux | grep node | grep scripts | grep -v grep
 The system is autonomously:
 1. **Scanning** all 8,817 markdown files in the vault
 2. **Generating** context-aware images for each file
-3. **Creating** ambient audio for location files
+3. **Creating** ambient audio for [[location|location]] files
 4. **Producing** video animations for combat scenes
 5. **Updating** markdown files with asset references
 6. **Tracking** progress with resume capability
@@ -88,19 +88,17 @@ The system is running autonomously and will complete all 8,817 assets with:
 
 - --
 
-* System deployed successfully at: [Current Time]*
+* System deployed successfully at: [Current [[Time|Time]]]*
 * Total implementation time: ~2 hours*
 * Assets being generated: 8,817*
 * Generation rate: 20+ assets/minute*
-
 
 ## Pronunciation Guide
 - **Other**: [OTHER]
 - **What's**: [WHAT-S]
 
-
 ## See Also
-- Related content
+- [[Related content|Related content]]
 - Similar topics
 - Connected elements
 
@@ -112,24 +110,24 @@ The system is running autonomously and will complete all 8,817 assets with:
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition
-## Conditions Reference (PHB p.290-292)
+## [[Conditions|Conditions]] Reference (PHB p.290-292)
 
 ### Common Conditions
-- **Blinded**: Can't see, auto-fail sight checks, disadvantage on attacks
+- **Blinded**: Can't see, auto-fail sight checks, [[Disadvantage|disadvantage]] on attacks
 - **Charmed**: Can't attack charmer, charmer has advantage on social checks
 - **Deafened**: Can't hear, auto-fail hearing checks
 - **Frightened**: Disadvantage while source in sight, can't move closer
 - **Grappled**: Speed 0, ends if grappler incapacitated
-- **Incapacitated**: Can't take actions or reactions
+- **Incapacitated**: Can't take [[actions|actions]] or reactions
 - **Invisible**: Heavily obscured, advantage on attacks, attacks against have disadvantage
 - **Paralyzed**: Incapacitated, can't move/speak, auto-fail STR/DEX saves
-- **Poisoned**: Disadvantage on attacks and ability checks
+- **Poisoned**: Disadvantage on attacks and [[Ability Checks|Ability Checks]]
 - **Prone**: Disadvantage on attacks, melee against has advantage
 - **Restrained**: Speed 0, disadvantage on attacks/DEX saves
 - **Stunned**: Incapacitated, can't move, can barely speak
 - **Unconscious**: Incapacitated, prone, drops everything
 
-### Exhaustion (PHB p.291)
+### [[Exhaustion|Exhaustion]] (PHB p.291)
 1. Disadvantage on ability checks
 2. Speed halved
 3. Disadvantage on attacks and saves

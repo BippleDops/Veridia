@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Darkwater the Redeemed", "hestara darkwater the redeemed", "Hestara Darkwater Redeemed", "Redeemed the Darkwater Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Darkwater the Redeemed
 
 *Halfling Cleric (Adventurers), Age 41, Female*
@@ -36,22 +42,18 @@ Accidentally gained powers and learning to control them A prophetic dream has be
 - **Short Term**: Sabotage competition
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Drusilla Dawnstrider the Bold (Family - Sibling)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
 
-
 ### Jorah Thornweave the Risen (Professional - Employer)
 - **Status**: Blood oath bound
 - **History**: Bitter rivals who learned respect
 
-
 ### Erasmus Stormwind the Broken (Criminal - Target)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Has died and been resurrected

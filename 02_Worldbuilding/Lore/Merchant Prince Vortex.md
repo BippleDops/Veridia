@@ -35,7 +35,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -81,7 +81,7 @@ Merchant Prince Vortex is a undersea element of the setting, known for biolumine
 
 Legends speak of Merchant Prince Vortex as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Merchant Prince Vortex.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -99,3 +99,8 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Someone is searching for information for money
 - A prisoner has gone missing and war looms
 - A letter reveals ancient history about a local noble
+
+## References
+
+- [[The Liminal Trading Company]]
+- [[The Liminal Trading Company (D&D_References)]]

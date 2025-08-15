@@ -106,3 +106,18 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Mind Flayer Psion Vgm]]
+- [[mind-flayer-psion-vgm (aberration)]]
+- [[Dybbuk Mpmm]]
+- [[dybbuk-mpmm (fiend)]]
+- [[aboleth (legendary-group)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Warlock Xphb Archfey Patron Xphb]]
+- [[Warlock Xphb Great Old One Patron Xphb]]
+- [[warlock-xphb-archfey-patron-xphb (classes)]]
+- [[warlock-xphb-great-old-one-patron-xphb (classes)]]

@@ -86,11 +86,9 @@ Mentioned in The Second Prophecy of Depths
 
 Contextual improvement based on 12_Research
 
-
 ## Pronunciation Guide
 - **Both**: [BOTH]
 - **Depths**: [DEPTHS]
-
 
 ## Alternate Descriptions
 - **First Impression**: Initial appearance

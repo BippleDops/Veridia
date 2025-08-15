@@ -95,3 +95,23 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Deva Xmm]]
+- [[Planetar Xmm]]
+- [[Solar Xmm]]
+- [[deva-xmm (celestial)]]
+- [[planetar-xmm (celestial)]]
+- [[solar-xmm (celestial)]]
+- [[Empyrean Xmm]]
+- [[empyrean-xmm (miscellaneous)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Paladin Xphb Oath of Devotion Xphb]]
+- [[paladin-xphb-oath-of-devotion-xphb (classes)]]
+- [[Spirit Board Xdmg]]
+- [[spirit-board-xdmg (items)]]
+- [[Planar Adventure Situations Xdmg]]
+- [[planar-adventure-situations-xdmg (tables)]]

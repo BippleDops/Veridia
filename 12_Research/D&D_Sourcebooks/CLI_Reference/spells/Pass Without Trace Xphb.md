@@ -115,3 +115,23 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Unicorn Xmm]]
+- [[unicorn-xmm (celestial)]]
+- [[Dryad Xmm]]
+- [[dryad-xmm (fey)]]
+- [[Barghest Mpmm]]
+- [[barghest-mpmm (fiend)]]
+- [[Empyrean Xmm]]
+- [[empyrean-xmm (miscellaneous)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Wood Elf Magic Xge]]
+- [[wood-elf-magic-xge (feats)]]
+- [[Staff of the Woodlands Xdmg]]
+- [[staff-of-the-woodlands-xdmg (items)]]
+- [[Elf Xphb]]
+- [[elf-xphb (races)]]

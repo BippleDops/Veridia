@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Oakenshield the Mystic", "alaric oakenshield the mystic", "Alaric Oakenshield Mystic", "Mystic the Oakenshield Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Oakenshield the Mystic
 
 *Gnome Corrupt Noble (Villains), Age 67, Non-binary*
@@ -36,17 +42,14 @@ Driven mad by knowledge humanity wasn't meant to know They're being blackmailed 
 - **Short Term**: Sabotage competition
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Delara Proudmore the Swift (Criminal - Target)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
 
-
 ### Dara Blackstone the Wise (Personal - Nemesis)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ### Solas Goldleaf the Seeker (Family - Child)
 - **Status**: Recently reconciled
@@ -57,11 +60,9 @@ Driven mad by knowledge humanity wasn't meant to know They're being blackmailed 
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Lyanna Quicksilver the Swift (Family - Parent)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
-
 
 ### Wynne Goldleaf the Strong (Personal - Childhood friend)
 - **Status**: One-sided affection

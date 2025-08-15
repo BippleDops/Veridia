@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Underhill", "caelum underhill", "Underhill Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Underhill
 
 *Gnome Noble (Nobles), Age 22, Female*
@@ -36,27 +42,22 @@ Recently elevated to nobility through service, still learning courtly ways A fam
 - **Short Term**: Sabotage competition
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Zephyr Quicksilver the Cunning (Criminal - Fence)
 - **Status**: Secretly hostile
 - **History**: United by common enemy
 
-
 ### Malakai Ravenheart the Seeker (Political - Opposition)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
-
 
 ### Thalia Moonshadow (Professional - Rival)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Vesper Proudmore the Bold (Professional - Mentor)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Legitimate claim to a throne they don't want

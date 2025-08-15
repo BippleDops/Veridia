@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Voidwalker the Wanderer", "branwen voidwalker the wanderer", "Branwen Voidwalker Wanderer", "Wanderer the Voidwalker Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Voidwalker the Wanderer
 
 *Genasi Shopkeeper (Merchants), Age 59, Male*
@@ -36,7 +42,6 @@ Former adventurer who retired to open a shop An old debt has come due at the wor
 - **Short Term**: Gather information
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Thalia Darkwater the Mystic (Personal - Ex-lover)
 - **Status**: Strong and trusting
@@ -47,21 +52,17 @@ Former adventurer who retired to open a shop An old debt has come due at the wor
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Corvus Lightbringer the Swift (Political - Puppet)
 - **Status**: On the verge of collapse
 - **History**: Grew up together in the same neighborhood
-
 
 ### Aldric Goldleaf the Fallen (Professional - Partner)
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
 
-
 ### Lyanna Frostwhisper the Mystic (Professional - Employee)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Sells information to all sides

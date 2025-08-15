@@ -113,3 +113,10 @@ improvements: 20
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Military Moral Quandaries]]
+- [[Services Civilian Protection]]
+- [[Depth Warden Patrol]]
+- [[Depth Wardens]]

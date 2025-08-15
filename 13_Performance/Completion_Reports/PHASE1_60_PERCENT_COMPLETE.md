@@ -1,4 +1,5 @@
 ---
+aliases: ["60 PERCENT COMPLETE", "60 percent complete", "COMPLETE PERCENT 60"]
 title: PHASE1_60_PERCENT_COMPLETE
 type: note
 tags:

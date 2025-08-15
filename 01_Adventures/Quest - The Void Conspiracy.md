@@ -14,18 +14,15 @@ status: active
 - Time pressure
 - Moral dilemmas
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-quest-the-void-conspiracy.png)
 
 # Quest - The Void Conspiracy
 
-
 ## Quest Giver
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety
-
 
 ## Objectives
 ### Primary
@@ -113,7 +110,6 @@ Confronting the source of the problem and determining outcomes.
 
 ### Optional Areas
 - *[Side locations]*
-
 
 ## Hooks
 - **Personal**: Character connection

@@ -89,3 +89,8 @@ Tribune Maelstrom represents a crucial aspect of the world's history, cosmology,
 - Strange dreams suggest ancient magic
 - A [[Merchant]] needs help stealing before the festival
 - A [[map]] reveals ancient history about the government
+
+## References
+
+- [[Topic Matrix]]
+- [[Topic_Matrix (Indexes)]]

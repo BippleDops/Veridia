@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Voidwalker the Lost", "drusilla voidwalker the lost", "Drusilla Voidwalker Lost", "Lost the Voidwalker Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Voidwalker the Lost
 
 *Dwarf Corrupt Noble (Villains), Age 58, Female*
@@ -13,7 +19,6 @@
 Below average and athletic, with Long and flowing gray hair and Brown eyes. Fair skin. Crooked nose from multiple breaks.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Always tells the absolute truth; Flirts with everyone regardless of interest
@@ -36,12 +41,10 @@ Born into evil but questioning their path They're being blackmailed by someone f
 - **Short Term**: Sabotage competition
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Nerys Frostwhisper the Risen (Personal - Love interest)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ### Gareth Proudmore the Seeker (Family - Parent)
 - **Status**: Complicated history
@@ -52,7 +55,6 @@ Born into evil but questioning their path They're being blackmailed by someone f
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
 
-
 ### Fiora Ashford the Lost (Criminal - Accomplice)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
@@ -61,7 +63,6 @@ Born into evil but questioning their path They're being blackmailed by someone f
 ### Hestara Stormwind the Fallen (Criminal - Target)
 - **Status**: One-sided affection
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Was once a renowned hero

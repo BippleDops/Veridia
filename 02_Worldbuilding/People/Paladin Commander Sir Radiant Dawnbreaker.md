@@ -34,7 +34,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-paladin-commander-sir-radiant-dawnbreaker-paladin-commander-sir-radiant-dawnbreaker.svg)
 
@@ -184,7 +183,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - **Enemy**: [[The Northern Kingdoms]]
 - **Sibling**: [[Lord Admiral Gaius Windcutter]]
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -254,3 +252,10 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Assets Locations Location City Spymaster Crow Spymaster Crow.svg]]
+- [[Assets Symbols Symbol Heraldry Navigation Geograph Navigation Geograph.svg]]
+- [[Cathedral of Light]]
+- [[Cathedral of Light (D&D_References)]]

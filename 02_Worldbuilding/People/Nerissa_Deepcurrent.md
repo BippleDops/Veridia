@@ -86,7 +86,6 @@ improvements: 20
 
 Nerissa appears ageless, though she has ruled for nearly two centuries. Her silver hair flows constantly as if underwater even in air pockets, and her skin has a subtle pearl-like shimmer. She wears robes woven from crystallized water that shift and flow with her movements. Her eyes change color with her emotions - deep blue when calm, storm green when angered, grey when sorrowful.
 
-
 ## Stats
 - **AC**: 12
 - **HP**: 22 (4d8)
@@ -97,7 +96,6 @@ Nerissa appears ageless, though she has ruled for nearly two centuries. Her silv
 - **Senses**: passive Perception 11
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -340,7 +338,6 @@ Legends speak of Nerissa Deepcurrent as a nexus where past and present converge.
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -371,3 +368,8 @@ Legends speak of Nerissa Deepcurrent as a nexus where past and present converge.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Archshadow Nerissa Deepcurrent]]
+- [[High Tidecaller Nerissa Deepcurrent]]

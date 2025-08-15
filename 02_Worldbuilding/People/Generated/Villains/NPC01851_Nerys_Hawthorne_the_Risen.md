@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Hawthorne the Risen", "nerys hawthorne the risen", "Nerys Hawthorne Risen", "Risen the Hawthorne Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Hawthorne the Risen
 
 *Firbolg Corrupt Noble (Villains), Age 25, Non-binary*
@@ -36,22 +42,18 @@ Corrupted by an artifact or dark magic A prophetic dream has been haunting them 
 - **Short Term**: Avoid the authorities
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Felicia Ashford the Wise (Political - Opposition)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Branwen Ashford the Scholar (Personal - Nemesis)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Gareth Moonshadow the Lost (Family - Spouse)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Has a child they're protecting

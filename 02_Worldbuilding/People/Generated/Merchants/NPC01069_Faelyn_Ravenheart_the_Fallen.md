@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Ravenheart the Fallen", "faelyn ravenheart the fallen", "Faelyn Ravenheart Fallen", "Fallen the Ravenheart Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Ravenheart the Fallen
 
 *Dwarf Broker (Merchants), Age 70, Male*
@@ -36,12 +42,10 @@ Former adventurer who retired to open a shop Strange abilities have begun manife
 - **Short Term**: Gather information
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Delara Crystalbrook the Mystic (Professional - Employer)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
-
 
 ### Xander Nightfall the Scholar (Family - Sibling)
 - **Status**: Recently reconciled
@@ -57,16 +61,13 @@ Former adventurer who retired to open a shop Strange abilities have begun manife
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
 
-
 ### Hestara Xendar the Wanderer (Family - Sibling)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Urien Silverleaf the Fallen (Political - Patron)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Running a cult from their basement

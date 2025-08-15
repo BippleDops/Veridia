@@ -1,3 +1,9 @@
+---
+aliases: ["Corvus Moonshadow the Scholar", "corvus moonshadow the scholar", "Corvus Moonshadow Scholar", "Scholar the Moonshadow Corvus"]
+tags: [npc, character]
+type: npc
+---
+
 # Corvus Moonshadow the Scholar
 
 *Dragonborn Appraiser (Merchants), Age 49, Non-binary*
@@ -36,27 +42,22 @@ Part of a merchant family with connections everywhere A chance encounter last wi
 - **Short Term**: Make this month's payment
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Fiora Goldleaf the Seeker (Criminal - Accomplice)
 - **Status**: Strained but maintaining
 - **History**: United by common enemy
 
-
 ### Dara Zephyrblade the Redeemed (Personal - Childhood friend)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
-
 
 ### Ewan Stormwind the Seeker (Personal - Love interest)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Fiora Underhill the Seeker (Personal - Nemesis)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Is actually a spy for foreign power

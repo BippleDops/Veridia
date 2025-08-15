@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Goldleaf the Wise", "aeliana goldleaf the wise", "Aeliana Goldleaf Wise", "Wise the Goldleaf Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Goldleaf the Wise
 
 *Gnome Aristocrat (Nobles), Age 24, Female*
@@ -36,17 +42,14 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Survive until next week
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Erasmus Keenblade (Professional - Rival)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Rhiannon Nightfall (Personal - Best friend)
 - **Status**: Strong and trusting
 - **History**: Accidentally bound by magic
-
 
 ### Corvus Darkwater the Cunning (Criminal - Fence)
 - **Status**: Strained but maintaining

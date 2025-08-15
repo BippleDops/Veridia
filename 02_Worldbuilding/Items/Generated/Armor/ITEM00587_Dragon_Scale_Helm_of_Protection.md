@@ -1,3 +1,9 @@
+---
+aliases: ["Dragon Scale Helm of Protection", "dragon scale helm of protection", "Protection of Helm Scale Dragon"]
+tags: [item, equipment]
+type: item
+---
+
 # Dragon Scale Helm of Protection
 
 *Armor, Rare*

@@ -1,4 +1,5 @@
 ---
+aliases: ["Champion's Gambit", "champion's gambit", "Gambit Champion's"]
 tags: [generated]
 id: QUEST0024
 created: 2025-08-15T04:09:51.377Z
@@ -22,8 +23,6 @@ Retrieve the ancient artifact from the sunken temple
 ### Secondary
 - Rescue any prisoners found
 - Recover additional valuable items
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they accidentally discovered a conspiracy, which changed their life forever. Now, circumstances demand immediate action.

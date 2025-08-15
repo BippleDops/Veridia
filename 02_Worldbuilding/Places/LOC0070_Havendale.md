@@ -1,4 +1,5 @@
 ---
+aliases: ["Havendale", "havendale"]
 tags: [generated]
 id: LOC0070
 created: 2025-08-15T04:09:51.314Z
@@ -21,20 +22,17 @@ A bustling metropolis with towering spires and crowded markets
 - **Current Leader**: Beloved autocrat
 - **Political Stability**: Unstable
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -93,7 +91,6 @@ A bustling metropolis with towering spires and crowded markets
 
 ---
 *Generated: 2025-08-15T03:21:04.075Z*
-
 
 ## History
 - **Founding**: Origin story

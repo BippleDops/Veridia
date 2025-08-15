@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Voidwalker the Wanderer", "thalia voidwalker the wanderer", "Thalia Voidwalker Wanderer", "Wanderer the Voidwalker Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Voidwalker the Wanderer
 
 *Elf Corrupt Noble (Villains), Age 38, Female*
@@ -13,7 +19,6 @@
 Short and delicate, with Wild and unkempt brown hair and Brown eyes. Brown skin. Weather-beaten face showing hard life.
 
 **Clothing**: Courtier's elaborate outfit
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Speaks to inanimate objects
@@ -42,31 +47,25 @@ Driven mad by knowledge humanity wasn't meant to know Strange abilities have beg
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
 
-
 ### Rhiannon Hawthorne the Wanderer (Personal - Best friend)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ### Jorah Frostwhisper the Swift (Personal - Nemesis)
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
 ### Felicia Quicksilver the Scholar (Criminal - Accomplice)
 - **Status**: Blood oath bound
 - **History**: Arranged partnership that grew genuine
-
 
 ### Lyanna Moonshadow the Scholar (Political - Opposition)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
 
-
 ### Drusilla Proudmore the Wanderer (Criminal - Handler)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Knows how the world will end

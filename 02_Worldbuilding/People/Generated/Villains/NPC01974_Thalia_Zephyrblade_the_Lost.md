@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Zephyrblade the Lost", "thalia zephyrblade the lost", "Thalia Zephyrblade Lost", "Lost the Zephyrblade Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Zephyrblade the Lost
 
 *Human Dark Wizard (Villains), Age 55, Non-binary*
@@ -36,22 +42,18 @@ Driven mad by knowledge humanity wasn't meant to know They're being blackmailed 
 - **Short Term**: Sabotage competition
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Vesper Nightfall the Broken (Personal - Childhood friend)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Aldric Crystalbrook the Lost (Political - Patron)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Cedric Voidwalker the Lost (Criminal - Accomplice)
 - **Status**: Strong and trusting
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Has a child they're protecting

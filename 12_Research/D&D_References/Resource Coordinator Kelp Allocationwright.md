@@ -69,8 +69,12 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Sensory Details
 - **Sight**: Visual impressions
 - **Sound**: Ambient noises
 - **Smell**: Distinctive odors
+
+## References
+
+- [[The Deep Harvest]]
+- [[The Deep Harvest (D&D_References)]]

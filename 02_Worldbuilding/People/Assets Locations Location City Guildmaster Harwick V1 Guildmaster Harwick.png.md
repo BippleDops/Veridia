@@ -188,7 +188,7 @@ This NPC can serve multiple roles:
 > "Every challenge presents an opportunity for those prepared to seize it."
 
 ### Known Associates
-- [[Master Smith Priest Vulcan Depthforge]] (ally)
+- [[Assets Portraits Portrait NPC Master Smith Priest Vulcan Depthforge Master Smith Priest Vulcan Depthforge.svg|Master Smith Priest Vulcan Depthforge]] (ally)
 - [[04_Resources_Assets_Symbols_symbol-heraldry-ancient-mer-folk-empire-ancient-mer-folk-empire.svg]] (friend)
 - [[Merchant Captain Tobias Stormwind]] (enemy)
 ---
@@ -217,3 +217,7 @@ This NPC can serve multiple roles:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[04_Resources_Assets_Symbols_symbol-heraldry-ancient-mer-folk-empire-ancient-mer-folk-empire.svg]]

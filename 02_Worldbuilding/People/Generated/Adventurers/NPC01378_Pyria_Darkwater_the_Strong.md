@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Darkwater the Strong", "pyria darkwater the strong", "Pyria Darkwater Strong", "Strong the Darkwater Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Darkwater the Strong
 
 *Half-Orc Bard (Adventurers), Age 37, Non-binary*
@@ -13,7 +19,6 @@
 Very tall and lanky, with Short and neat white hair and Gray eyes. Pale skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Laughs at the most inappropriate times; Sees doom and gloom everywhere
@@ -36,12 +41,10 @@ Seeking vengeance for a murdered mentor An old debt has come due at the worst po
 - **Short Term**: Avoid the authorities
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Nerys Crystalbrook the Fallen (Professional - Employer)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
-
 
 ### Dara Winterborn the Strong (Criminal - Fence)
 - **Status**: Recently reconciled
@@ -57,11 +60,9 @@ Seeking vengeance for a murdered mentor An old debt has come due at the worst po
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Dara Frostwhisper the Fallen (Criminal - Target)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Carries a world-ending artifact

@@ -102,3 +102,8 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Locations Location City Enchanter Valdris Peacewarden V1 Enchanter Valdris Peacewarden.svg]]
+- [[Assets Portraits Portrait NPC Captain Torrent Freewater Captain Torrent Freewater.svg]]

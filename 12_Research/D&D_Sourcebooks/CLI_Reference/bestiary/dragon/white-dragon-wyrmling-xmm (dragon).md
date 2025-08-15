@@ -142,3 +142,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[White Dragon Wyrmling Xmm]]
+- [[Monsters by Habitat Arctic Monsters Xmm]]
+- [[monsters-by-habitat-arctic-monsters-xmm (tables)]]

@@ -64,3 +64,9 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+
+## References
+
+- [[Cult of Screams (Cults_and_Movements)]]
+- [[Cult of Screams]]

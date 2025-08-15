@@ -72,3 +72,19 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Acolyte Xphb]]
+- [[Sage Xphb]]
+- [[acolyte-xphb (backgrounds)]]
+- [[sage-xphb (backgrounds)]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Priests Pack Xphb]]
+- [[Weavers Tools Xphb]]
+- [[priests-pack-xphb (items)]]
+- [[weavers-tools-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Cedric Hawthorne the Risen", "cedric hawthorne the risen", "Cedric Hawthorne Risen", "Risen the Hawthorne Cedric"]
+tags: [npc, character]
+type: npc
+---
+
 # Cedric Hawthorne the Risen
 
 *Half-Orc Blacksmith (Commoners), Age 67, Male*
@@ -13,7 +19,6 @@
 Very short and athletic, with Long and flowing white hair and Gray eyes. Scarred skin. Missing ear from old battle.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Never uses people's real names
@@ -42,16 +47,13 @@ Former soldier trying to adjust to civilian life Strange abilities have begun ma
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Thalia Ironforge the Bold (Political - Patron)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Ewan Stormwind the Fallen (Professional - Employer)
 - **Status**: Strong and trusting
 - **History**: Teacher and student relationship
-
 
 ### Rhiannon Emberfall the Bold (Professional - Mentor)
 - **Status**: Blood oath bound

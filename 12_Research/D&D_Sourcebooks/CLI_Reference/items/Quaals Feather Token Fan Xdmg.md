@@ -48,3 +48,17 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Quaals Feather Token Xdmg]]
+- [[quaals-feather-token-xdmg (items)]]
+- [[Arcana Uncommon Xdmg]]
+- [[Implements Uncommon Xdmg]]
+- [[Random Magic Items Arcana]]
+- [[Random Magic Items Implements]]
+- [[arcana-uncommon-xdmg (tables)]]
+- [[implements-uncommon-xdmg (tables)]]
+- [[random-magic-items-arcana (tables)]]
+- [[random-magic-items-implements (tables)]]

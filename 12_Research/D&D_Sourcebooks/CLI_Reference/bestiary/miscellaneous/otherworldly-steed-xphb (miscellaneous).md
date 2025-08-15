@@ -116,3 +116,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A prisoner has gone missing and chaos spreads
 - Strange dreams suggest ancient magic
 - A corpse reveals a betrayal about a local noble
+
+## References
+
+- [[Otherworldly Steed Xphb]]
+- [[Find Steed Xphb]]
+- [[find-steed-xphb (spells)]]

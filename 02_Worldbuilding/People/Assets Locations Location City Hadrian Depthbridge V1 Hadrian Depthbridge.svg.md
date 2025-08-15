@@ -224,3 +224,8 @@ This NPC can serve multiple roles:
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[Assets Symbols Symbol Heraldry Frequency Weapons Frequency Weapons.svg]]
+- [[04_Resources_Assets_Portraits_portrait-npc-lord-commander-gareth-steelborn-lord-commander-gareth-steelborn.svg]]

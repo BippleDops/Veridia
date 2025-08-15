@@ -1,4 +1,5 @@
 ---
+aliases: ["Myth of the Lost City", "myth of the lost city", "Myth of Lost City", "City Lost the of Myth"]
 tags: [generated]
 id: LORE0083_Myth_of_the_Lost_City
 created: 2025-08-15T04:09:51.152Z

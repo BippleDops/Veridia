@@ -84,3 +84,15 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Armored Saber Toothed Tiger Cos]]
+- [[armored-saber-toothed-tiger-cos (beast)]]
+- [[Orthon Mpmm]]
+- [[orthon-mpmm (fiend)]]
+- [[Armor Xphb]]
+- [[Armor and Shields Armor Phb]]
+- [[armor-and-shields-armor-phb (tables)]]
+- [[armor-xphb (tables)]]

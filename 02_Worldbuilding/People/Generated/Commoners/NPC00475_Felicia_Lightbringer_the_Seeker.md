@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Lightbringer the Seeker", "felicia lightbringer the seeker", "Felicia Lightbringer Seeker", "Seeker the Lightbringer Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Lightbringer the Seeker
 
 *Dwarf Carpenter (Commoners), Age 22, Male*
@@ -36,7 +42,6 @@ Grew up in poverty but discovered a talent that might change everything They're 
 - **Short Term**: Recruit new members
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Idris Voidwalker the Strong (Political - Patron)
 - **Status**: Strong and trusting
@@ -52,16 +57,13 @@ Grew up in poverty but discovered a talent that might change everything They're 
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Qadim Dawnstrider the Lost (Professional - Partner)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
 
-
 ### Rhiannon Proudmore the Strong (Personal - Nemesis)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Has dragon blood in their veins

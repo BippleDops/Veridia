@@ -123,7 +123,7 @@ LIMIT 5
 | [[Port Meridian]] Harbor]] | [[Abyssos Prime]] Docks]] | Tidal Overlap | Water becomes stairs |
 | [[garden]] | [[Screaming Gardens]] | Emotional Resoce | Shared suffering |
 | [[Royal Palace]] | [[Inverse Palace]]]] | Authority Convergence | Gravity confusion |
-| [[Lighthouse of Storms]] | [[Pressure Terminal]] | Transport Hub | Direct portal |
+| [[Lighthouse_of_Storms|Lighthouse of Storms]] | [[Pressure Terminal]] | Transport Hub | Direct portal |
 | [[12 Research]] | [[12 Research]] | Information Bleed | Thought exchange |
 
 ### 🗺️ The Seven Paired Realms
@@ -147,7 +147,7 @@ Each continent has a counterpart, connected by ancient ley lines and bloodline m
 
 **Key NPCs Affected**:
 - [[Lumengarde]]]] ↔ [[Emperor]]]]
-- [[Captain Lyanna Bright[[Shield]]]] ↔ [[Senator]] Glaucus]]
+- [[Shield|Captain Lyanna Bright[[Shield]]]] ↔ [[Senator]] Glaucus]]
 - [[Marina-Red-Tide-Coralheart]] (exists in both)
 
 #### 2. [[Arcanum Heights]] ↔ [[Nereidios]]
@@ -352,7 +352,7 @@ Each bloodline carries keys to merger or separation:
 
 #### The Lighthouse Network
 
-**Primary Hub**: [[Lighthouse of Storms]]
+**Primary Hub**: [[Lighthouse_of_Storms|Lighthouse of Storms]]
 **Secondary Nodes**: Seven lesser lighthouses
 **Activation**: Requires [[Crystal Shard]] or bloodline carrier
 **Travel Time**: Instantaneous but temporally displaced

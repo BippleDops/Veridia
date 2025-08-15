@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Lightbringer the Guardian", "gareth lightbringer the guardian", "Gareth Lightbringer Guardian", "Guardian the Lightbringer Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Lightbringer the Guardian
 
 *Gnome Noble (Nobles), Age 56, Non-binary*
@@ -13,7 +19,6 @@
 Above average and wiry, with Carefully styled gray hair and Blue eyes. Dark skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Flirts with everyone regardless of interest
@@ -36,22 +41,18 @@ Exiled from their homeland, trying to rebuild their power base An old debt has c
 - **Short Term**: Survive until next week
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Aeliana Voidwalker the Fallen (Family - Cousin)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
 
-
 ### Lyanna Nightfall the Guardian (Professional - Employee)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Malakai Stormwind the Redeemed (Professional - Employer)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ### Urien Blackstone (Political - Opposition)
 - **Status**: On the verge of collapse

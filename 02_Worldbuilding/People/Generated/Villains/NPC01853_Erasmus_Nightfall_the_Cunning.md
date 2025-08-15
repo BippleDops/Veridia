@@ -1,3 +1,9 @@
+---
+aliases: ["Erasmus Nightfall the Cunning", "erasmus nightfall the cunning", "Erasmus Nightfall Cunning", "Cunning the Nightfall Erasmus"]
+tags: [npc, character]
+type: npc
+---
+
 # Erasmus Nightfall the Cunning
 
 *Half-Orc Dark Wizard (Villains), Age 49, Male*
@@ -46,7 +52,6 @@ Corrupted by an artifact or dark magic They've been marked by a secret society.
 ### Malakai Quicksilver the Bold (Criminal - Informant)
 - **Status**: Professional only
 - **History**: United by common enemy
-
 
 ### Erasmus Ashford the Risen (Family - Sibling)
 - **Status**: One-sided affection

@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Voidwalker the Bold", "urien voidwalker the bold", "Urien Voidwalker Bold", "Bold the Voidwalker Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Voidwalker the Bold
 
 *Genasi Appraiser (Merchants), Age 74, Male*
@@ -13,7 +19,6 @@
 Average height and imposing, with Tied back bald hair and Violet eyes. Brown skin. Prominent scar across the face.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Believes in every conspiracy theory; Never uses people's real names
@@ -36,27 +41,22 @@ Built their business from nothing through cunning and hard work They're being bl
 - **Short Term**: Gather information
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Solas Blackstone the Strong (Professional - Mentor)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
 
-
 ### Faelyn Thornweave the Wise (Criminal - Fence)
 - **Status**: One-sided affection
 - **History**: Grew up together in the same neighborhood
-
 
 ### Brenna Winterborn the Seeker (Family - Sibling)
 - **Status**: Professional only
 - **History**: Met during a heist gone wrong
 
-
 ### Hilda Brightblade the Scholar (Family - Parent)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Smuggles illegal magical items

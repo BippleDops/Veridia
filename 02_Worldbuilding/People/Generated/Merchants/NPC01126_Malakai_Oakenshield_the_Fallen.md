@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Oakenshield the Fallen", "malakai oakenshield the fallen", "Malakai Oakenshield Fallen", "Fallen the Oakenshield Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Oakenshield the Fallen
 
 *Genasi Appraiser (Merchants), Age 36, Female*
@@ -36,17 +42,14 @@ Part of a merchant family with connections everywhere They've made a deal they'r
 - **Short Term**: Gather information
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Thalia Grimholt the Bold (Political - Patron)
 - **Status**: Strong and trusting
 - **History**: Bonded over shared tragedy
 
-
 ### Xander Underhill the Cunning (Criminal - Accomplice)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
-
 
 ### Urien Blackstone the Fallen (Criminal - Handler)
 - **Status**: Recently reconciled
@@ -57,11 +60,9 @@ Part of a merchant family with connections everywhere They've made a deal they'r
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
 
-
 ### Xander Youngblood the Risen (Political - Puppet)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Sells information to all sides

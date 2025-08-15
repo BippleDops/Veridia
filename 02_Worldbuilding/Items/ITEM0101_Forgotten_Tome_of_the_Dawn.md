@@ -1,4 +1,5 @@
 ---
+aliases: ["Forgotten Tome of the Dawn", "forgotten tome of the dawn", "Forgotten Tome of Dawn", "Dawn the of Tome Forgotten"]
 tags: [generated]
 id: ITEM0101
 created: 2025-08-15T04:09:51.110Z
@@ -19,8 +20,6 @@ Crafted from blessed silver with delicate filigree, in showing age but sturdy. I
 
 ## Quirk
 *Occasionally speaks in ancient tongue*
-
-
 
 ## History
 This item was created to seal an ancient evil ages ago. It has passed through many hands, each leaving their mark upon its destiny.

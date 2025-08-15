@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Grimholt the Lost", "solas grimholt the lost", "Solas Grimholt Lost", "Lost the Grimholt Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Grimholt the Lost
 
 *Half-Orc Trader (Merchants), Age 26, Male*
@@ -36,17 +42,14 @@ Part of a merchant family with connections everywhere They're being blackmailed 
 - **Short Term**: Make this month's payment
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Hestara Proudmore the Fallen (Personal - Best friend)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Wynne Voidwalker the Risen (Criminal - Handler)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
-
 
 ### Ewan Thornweave the Seeker (Personal - Best friend)
 - **Status**: On the verge of collapse

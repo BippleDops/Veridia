@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Crystalbrook the Seeker", "elric crystalbrook the seeker", "Elric Crystalbrook Seeker", "Seeker the Crystalbrook Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Crystalbrook the Seeker
 
 *Elf Baker (Commoners), Age 32, Non-binary*
@@ -36,7 +42,6 @@ Grew up in poverty but discovered a talent that might change everything Strange 
 - **Short Term**: Gather information
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Hilda Blackstone the Risen (Criminal - Target)
 - **Status**: Recently reconciled
@@ -47,11 +52,9 @@ Grew up in poverty but discovered a talent that might change everything Strange 
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Corvus Brightblade the Swift (Criminal - Accomplice)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
-
 
 ### Felicia Stormwind the Mystic (Criminal - Target)
 - **Status**: One-sided affection
@@ -61,7 +64,6 @@ Grew up in poverty but discovered a talent that might change everything Strange 
 ### Drusilla Dawnstrider the Broken (Family - Cousin)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ### Caelum Proudmore the Broken (Professional - Mentor)
 - **Status**: Secretly hostile

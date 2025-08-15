@@ -75,6 +75,24 @@ This content can be adapted and expanded based on specific campaign needs.
 ## [[DM_Notes]]
 *Customize as needed for your specific campaign requirements.*
 
-
 ## Campaign Notes
 *How this connects to the ongoing campaign*
+
+## References
+
+- [[Campaign Epilogues]]
+- [[Consequence Chain 3 Reality Merger Diplomatic Crisis]]
+- [[Treaty of the Depths]]
+- [[Aethermoor - Session 10 The Deep Mother Rises]]
+- [[Campaign Epilogues (D&D_References)]]
+- [[Consequence Chain 3 Reality Merger Diplomatic Crisis (D&D_References)]]
+- [[Consequence Chain 3 Reality Merger]]
+- [[Eastern Kingdom Fleet]]
+- [[Magic Items]]
+- [[Save Both Civilizations]]
+- [[Shattered Isles]]
+- [[Surface Dweller Adaptation]]
+- [[The Possessed Queen]]
+- [[Treaty of the Depths (D&D_References)]]
+- [[Envoy Blackwater Jr (D&D_Statblocks)]]
+- [[Envoy Blackwater Jr.]]

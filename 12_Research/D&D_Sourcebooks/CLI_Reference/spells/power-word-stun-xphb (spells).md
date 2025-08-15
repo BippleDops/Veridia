@@ -84,7 +84,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -103,4 +102,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[power-word-stun-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[power-word-stun-xphb (spells)|power-word-stun-xphb (spells)-phb]]` in CLI_Reference/spells/

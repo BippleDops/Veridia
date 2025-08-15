@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Blackstone the Risen", "nerys blackstone the risen", "Nerys Blackstone Risen", "Risen the Blackstone Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Blackstone the Risen
 
 *Dwarf Cultist (Villains), Age 68, Female*
@@ -13,7 +19,6 @@
 Very short and compact, with Tied back bald hair and Black eyes. Dark skin. Prominent scar across the face.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Never backs down from any challenge; Never uses people's real names; Always speaks in metaphors and riddles
@@ -47,16 +52,13 @@ Betrayed by those they trusted, now seeking revenge on the world They're being b
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Xander Grimholt the Scholar (Professional - Partner)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Rhiannon Dawnstrider the Mystic (Personal - Love interest)
 - **Status**: On the verge of collapse
 - **History**: Bitter rivals who learned respect
-
 
 ### Rhiannon Hawthorne the Risen (Personal - Love interest)
 - **Status**: Strained but maintaining
@@ -66,7 +68,6 @@ Betrayed by those they trusted, now seeking revenge on the world They're being b
 ### Jorah Moonshadow the Risen (Political - Ally)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Has a child they're protecting

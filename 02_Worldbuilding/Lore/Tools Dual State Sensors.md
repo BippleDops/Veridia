@@ -1,6 +1,6 @@
 ---
 
-title: Tools [[Dual State Sensors]]
+title: Tools [[Tools Dual State Sensors|Dual State Sensors]]
 type: [[Lore]]
 tags:
 - lore
@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 

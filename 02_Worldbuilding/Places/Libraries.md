@@ -126,13 +126,11 @@ Libraries is a notable location characterized by its unique features and strateg
 ### Founding
 Libraries was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -140,13 +138,11 @@ Libraries was established in the distant past, growing from humble beginnings to
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -206,3 +202,24 @@ Ongoing situations affecting Libraries:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Ancient Aquabyssos Rulers]]
+- [[Comprehensive-World-Connection-Guide]]
+- [[Crystal Corruption Taboos]]
+- [[Eastern Kingdom]]
+- [[Goldwave Manor]]
+- [[Initiative Tracker (02_Worldbuilding)]]
+- [[Kraken Territories]]
+- [[Random Encounters]]
+- [[The Pressure Baptism Rites]]
+- [[Timeline of the Drowning]]
+- [[Working Class Routines]]
+- [[Cathedral of Light]]
+- [[Public Libraries]]
+- [[Sylvanheart]]
+- [[Temple Ward]]
+- [[The Eternal Senate]]
+- [[The Shrinking Sanctuary]]

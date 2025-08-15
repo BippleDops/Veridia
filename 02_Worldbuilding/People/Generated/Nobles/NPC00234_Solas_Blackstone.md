@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Blackstone", "solas blackstone", "Blackstone Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Blackstone
 
 *Half-Elf Heir (Nobles), Age 51, Non-binary*
@@ -13,7 +19,6 @@
 Average height and compact, with Tied back silver hair and Gray eyes. Dark skin. Prominent scar across the face.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Extremely superstitious about everything; Sees doom and gloom everywhere
@@ -36,7 +41,6 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Short Term**: Gather information
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Xander Blackstone (Political - Opposition)
 - **Status**: Strong and trusting
@@ -47,16 +51,13 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
 
-
 ### Vesper Jadeclaw the Strong (Personal - Ex-lover)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Baelor Brightblade (Political - Patron)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Secretly funding the rebellion

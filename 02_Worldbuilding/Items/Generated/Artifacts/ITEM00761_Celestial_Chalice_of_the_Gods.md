@@ -1,3 +1,9 @@
+---
+aliases: ["Celestial Chalice of the Gods", "celestial chalice of the gods", "Celestial Chalice of Gods", "Gods the of Chalice Celestial"]
+tags: [item, equipment]
+type: item
+---
+
 # Celestial Chalice of the Gods
 
 *Artifacts, Legendary*
@@ -16,8 +22,6 @@ A celestial chalice radiating otherworldly power
 - Immunity to charm
 - Plane shift 1/day
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -32,7 +36,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.423Z*

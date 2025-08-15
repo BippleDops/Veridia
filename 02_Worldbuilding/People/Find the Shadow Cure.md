@@ -43,7 +43,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-find-the-shadow-cure-find-the-shadow-cure.svg)
 
@@ -52,7 +51,6 @@ improvements: 20
 # Find the Shadow Cure
 
 **Level:** 6-9 | **Type:** Quest/Research | **Duration:** 3-4 sessions
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -271,7 +269,6 @@ Member of House Lionblood - Trait: divine blood
 - 20% middle class
 - 79% working poor
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -307,3 +304,9 @@ Member of House Lionblood - Trait: divine blood
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Senator_Glaucus_Brain (People)]]
+- [[Assets Portraits Portrait NPC Captain Sterling Lightshield Captain Sterling Lightshield.svg]]
+- [[Senator_Glaucus_Brain (D&D_References)]]

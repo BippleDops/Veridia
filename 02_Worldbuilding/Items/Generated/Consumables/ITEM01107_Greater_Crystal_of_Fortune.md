@@ -1,3 +1,9 @@
+---
+aliases: ["Greater Crystal of Fortune", "greater crystal of fortune", "Fortune of Crystal Greater"]
+tags: [item, equipment]
+type: item
+---
+
 # Greater Crystal of Fortune
 
 *Consumables, Rare (requires attunement)*

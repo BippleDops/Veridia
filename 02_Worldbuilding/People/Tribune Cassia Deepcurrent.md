@@ -45,7 +45,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-tribune-cassia-deepcurrent-tribune-cassia-deepcurrent.svg)
 
@@ -53,7 +52,6 @@ improvements: 20
 
 # Tribune Cassia Deepcurrent
 *Voice of Pragmatic Goverce, The Compromise Builder*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -285,7 +283,6 @@ Member of House Dragonblood - Trait: magical affinity
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -321,3 +318,19 @@ Member of House Dragonblood - Trait: magical affinity
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Quest - The Convergence Crisis]]
+- [[Party Shadows (Criminal_Organizations)]]
+- [[Assets Locations Location City Commander Drake Pressureborn V1 Commander Drake Pressureborn.svg]]
+- [[Assets Locations Location City Master Finn Liquidlight V1 Master Finn Liquidlight.svg]]
+- [[Emperor Thalassius the Wise]]
+- [[Memory Merchant Valeria Siltweave]]
+- [[Surface Ambassador Lord Seaworthy]]
+- [[The Senator]]
+- [[Party Shadows]]
+- [[The Senator (D&D_References)]]
+- [[Emperor Thalassius the Wise (D&D_Statblocks)]]
+- [[Memory Merchant Valeria Siltweave (D&D_Statblocks)]]
+- [[Surface Ambassador Lord Seaworthy (D&D_Statblocks)]]

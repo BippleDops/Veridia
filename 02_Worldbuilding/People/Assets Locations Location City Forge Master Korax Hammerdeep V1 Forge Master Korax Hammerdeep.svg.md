@@ -235,3 +235,8 @@ This NPC can serve multiple roles:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[04_Resources_Assets_Portraits_portrait-npc-captain-redbeard-captain-redbeard.svg]]
+- [[04_Resources_Assets_Locations_location-city-archdruid-marina-kelpweaver-archdruid-marina-kelpweaver.svg]]

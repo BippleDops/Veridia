@@ -1,4 +1,5 @@
 ---
+aliases: ["Investigate the Tyrant", "investigate the tyrant", "Investigate Tyrant", "Tyrant the Investigate"]
 tags: [quest, adventure, generated]
 type: quest
 ---
@@ -20,8 +21,6 @@ Safely deliver the ambassador to the capital
 
 ### Secondary
 - Sabotage enemy resources
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they witnessed something they shouldn't have, which changed their life forever. Now, circumstances demand immediate action.

@@ -67,3 +67,13 @@ Mentioned in The Second Prophecy of Depths
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Knight]]
+- [[Lighthouse Keeper]]
+- [[The Gilded Shard]]
+- [[The Gilded Shard (D&D_References)]]
+- [[Knight (D&D_Statblocks)]]
+- [[Lighthouse Keeper (D&D_Statblocks)]]
+- [[Stop the Crystal Festival Ritual (D&D_Statblocks)]]

@@ -79,3 +79,28 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Giant Octopus Xmm]]
+- [[Giant Squid Xmm]]
+- [[Octopus Xmm]]
+- [[giant-octopus-xmm (beast)]]
+- [[giant-squid-xmm (beast)]]
+- [[octopus-xmm (beast)]]
+- [[11 Rules Glossary]]
+- [[11-rules-glossary (players-handbook-2024)]]
+- [[Smoke Grenade Xdmg]]
+- [[smoke-grenade-xdmg (items)]]
+- [[Cloudkill Xphb]]
+- [[Fog Cloud Xphb]]
+- [[Sleet Storm Xphb]]
+- [[Stinking Cloud Xphb]]
+- [[Storm of Vengeance Xphb]]
+- [[cloudkill-xphb (spells)]]
+- [[fog-cloud-xphb (spells)]]
+- [[sleet-storm-xphb (spells)]]
+- [[stinking-cloud-xphb (spells)]]
+- [[storm-of-vengeance-xphb (spells)]]
+- [[Darkness Xphb (variant-rules)]]
+- [[darkness-xphb (variant-rules)]]

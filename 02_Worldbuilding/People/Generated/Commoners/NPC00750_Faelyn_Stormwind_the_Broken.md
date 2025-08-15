@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Stormwind the Broken", "faelyn stormwind the broken", "Faelyn Stormwind Broken", "Broken the Stormwind Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Stormwind the Broken
 
 *Dwarf Fisher (Commoners), Age 18, Non-binary*
@@ -36,27 +42,22 @@ Former soldier trying to adjust to civilian life They've been marked by a secret
 - **Short Term**: Complete current contract
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Hestara Ironwood the Wanderer (Professional - Mentor)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Idris Ashford the Lost (Political - Spy)
 - **Status**: Mutually beneficial
 - **History**: Former lovers who remained friends
-
 
 ### Ewan Emberfall the Guardian (Professional - Employee)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Thalia Underhill the Mystic (Professional - Rival)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ### Delara Moonshadow the Lost (Political - Opposition)
 - **Status**: One-sided affection
@@ -66,7 +67,6 @@ Former soldier trying to adjust to civilian life They've been marked by a secret
 ### Brenna Youngblood the Redeemed (Family - Cousin)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Has dragon blood in their veins

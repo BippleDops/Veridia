@@ -27,8 +27,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
-
 ## Relationships
 - **Allies**: Notable allies and friends
 - **Rivals**: Competitors and rivals  
@@ -154,7 +152,6 @@ Lord_Lady_Chamberlain_Court_Manager presents a distinctive figure. Their bearing
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
 ## Secrets
 - Hidden information about this character
 - Unknown connections or past events
@@ -273,7 +270,6 @@ This NPC can serve multiple roles:
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -309,3 +305,7 @@ This NPC can serve multiple roles:
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[04_Resources_Assets_Locations_location-city-dr-vera-spectrumseeker-dr-vera-spectrumseeker.svg]]

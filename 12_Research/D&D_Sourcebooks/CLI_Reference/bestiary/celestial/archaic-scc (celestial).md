@@ -176,3 +176,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Archaic Scc]]
+- [[Friends and Foes Strixhaven Creatures Scc]]
+- [[friends-and-foes-strixhaven-creatures-scc (tables)]]

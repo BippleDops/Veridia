@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Thornweave", "aeliana thornweave", "Thornweave Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Thornweave
 
 *Goliath Ambassador (Nobles), Age 69, Non-binary*
@@ -13,7 +19,6 @@
 Average height and slender, with Mohawk white hair and Red eyes. Tan skin. Piercing gaze that seems to see through you.
 
 **Clothing**: Priest's vestments with holy symbol prominent
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Believes in every conspiracy theory
@@ -47,7 +52,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: On the verge of collapse
 - **History**: Accidentally bound by magic
 
-
 ### Aeliana Stormwind the Mystic (Criminal - Target)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
@@ -61,7 +65,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 ### Aeliana Jadeclaw the Wise (Personal - Ex-lover)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Child from scandalous affair

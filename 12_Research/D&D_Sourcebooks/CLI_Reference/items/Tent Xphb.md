@@ -79,3 +79,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A journal reveals ancient history about the government
 - Strange dreams suggest ancient magic
 - A letter reveals a betrayal about the cult
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Guide Xphb]]
+- [[guide-xphb (backgrounds)]]
+- [[Weavers Tools Xphb]]
+- [[weavers-tools-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

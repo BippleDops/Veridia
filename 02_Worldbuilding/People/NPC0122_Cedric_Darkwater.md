@@ -1,11 +1,11 @@
 ---
+aliases: ["Cedric Darkwater", "cedric darkwater", "Darkwater Cedric"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -75,8 +75,6 @@ Apprenticed to a master craftsman from young age. Years ago, they accidentally d
 ### Skills
 Arcana, Stealth, Investigation
 
-
-
 ## Possessions
 - 83 gold pieces
 - Mysterious key
@@ -89,7 +87,6 @@ Arcana, Stealth, Investigation
 
 ---
 *Generated: 2025-08-15T03:21:04.039Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

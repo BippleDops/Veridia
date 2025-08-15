@@ -1,3 +1,9 @@
+---
+aliases: ["Enchanted Shield of the Guardian", "enchanted shield of the guardian", "Enchanted Shield of Guardian", "Guardian the of Shield Enchanted"]
+tags: [item, equipment]
+type: item
+---
+
 # Enchanted Shield of the Guardian
 
 *Armor, Rare*
@@ -15,8 +21,6 @@ A enchanted shield shimmering with energy
 - No stealth disadvantage
 - Immunity to critical hits
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -31,7 +35,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.393Z*

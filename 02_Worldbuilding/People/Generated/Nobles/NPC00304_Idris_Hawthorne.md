@@ -1,3 +1,9 @@
+---
+aliases: ["Idris Hawthorne", "idris hawthorne", "Hawthorne Idris"]
+tags: [npc, character]
+type: npc
+---
+
 # Idris Hawthorne
 
 *Firbolg Courtier (Nobles), Age 25, Non-binary*
@@ -13,7 +19,6 @@
 Very tall and delicate, with Short and neat unusual color hair and Violet eyes. Weathered skin. Missing finger on left hand.
 
 **Clothing**: Guard uniform with polished brass buttons
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Never backs down from any challenge; Laughs at the most inappropriate times
@@ -36,17 +41,14 @@ Exiled from their homeland, trying to rebuild their power base An old debt has c
 - **Short Term**: Complete current contract
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Hestara Goldleaf the Risen (Criminal - Fence)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Aldric Quicksilver (Personal - Nemesis)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
-
 
 ### Baelor Jadeclaw the Wise (Family - Parent)
 - **Status**: On the verge of collapse
@@ -56,7 +58,6 @@ Exiled from their homeland, trying to rebuild their power base An old debt has c
 ### Ewan Keenblade the Wanderer (Family - Parent)
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
-
 
 ### Caelum Hawthorne the Redeemed (Family - Sibling)
 - **Status**: Mutually beneficial

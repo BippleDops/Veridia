@@ -138,3 +138,15 @@ Mentioned in The First Prophecy of Stars
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[galeb-duhr-xmm (elemental)]]
+- [[Korred Mpmm]]
+- [[korred-mpmm (fey)]]
+- [[Hill Encounters Levels 1720 Xge]]
+- [[Monsters by Habitat Hill Monsters Xmm]]
+- [[Monsters by Habitat Mountain Monsters Xmm]]
+- [[hill-encounters-levels-1720-xge (tables)]]
+- [[monsters-by-habitat-hill-monsters-xmm (tables)]]
+- [[monsters-by-habitat-mountain-monsters-xmm (tables)]]

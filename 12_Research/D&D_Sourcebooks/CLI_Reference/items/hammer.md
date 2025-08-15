@@ -79,3 +79,26 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[ITEM00102_Blazing_Hammer_of_the_Ancients]]
+- [[Pearl_Harbor_City (Places)]]
+- [[Master_Item_Catalog]]
+- [[Pearl_Harbor_City (D&D_References)]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Iron Spike Xphb]]
+- [[Iron Spikes Xphb]]
+- [[Monster Hunters Pack Vrgr]]
+- [[iron-spike-xphb (items)]]
+- [[iron-spikes-xphb (items)]]
+- [[monster-hunters-pack-vrgr (items)]]
+- [[Dwarf Duergar Mtf]]
+- [[dwarf-duergar-mtf (races)]]
+- [[Adventuring Gear Phb]]
+- [[Weapons Phb]]
+- [[Weapons Xphb]]
+- [[adventuring-gear-phb (tables)]]
+- [[weapons-phb (tables)]]
+- [[weapons-xphb (tables)]]

@@ -80,3 +80,9 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Scroll of Titan Summoning Xdmg]]
+- [[scroll-of-titan-summoning-xdmg (items)]]

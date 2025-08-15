@@ -1,3 +1,9 @@
+---
+aliases: ["Vesper Oakenshield", "vesper oakenshield", "Oakenshield Vesper"]
+tags: [npc, character]
+type: npc
+---
+
 # Vesper Oakenshield
 
 *Aasimar Noble (Nobles), Age 36, Female*
@@ -36,32 +42,26 @@ Exiled from their homeland, trying to rebuild their power base A prophetic dream
 - **Short Term**: Gather information
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Kaelen Hawthorne (Criminal - Target)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
 
-
 ### Drusilla Thornweave the Guardian (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
-
 
 ### Aldric Xendar the Bold (Political - Patron)
 - **Status**: Mutually beneficial
 - **History**: Bonded over shared tragedy
 
-
 ### Corvus Crystalbrook the Risen (Professional - Employer)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Zephyr Underhill (Political - Patron)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Actually a bastard with no real claim

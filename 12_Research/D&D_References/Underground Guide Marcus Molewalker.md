@@ -57,3 +57,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - A document has gone missing and evil awakens
 - Someone is hunting a witness for money
+
+## References
+
+- [[Quest - The Root Network_1 (01_Adventures)]]
+- [[Quest - The Root Network_2 (01_Adventures)]]

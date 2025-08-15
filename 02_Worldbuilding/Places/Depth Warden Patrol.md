@@ -42,7 +42,7 @@ improvements: 20
 *Mobile Law Enforcement in the Deep*
 
 > *"The [[Depth Wardens]] are the current that carries justice to every corner of Aquabyssos. Where the law is needed, there they flow. Where order must be maintained, there they stand firm. They are the pressure that keeps our realm stable, the guardians who ensure that darkness—whether from the depths or from the hearts of wrongdoers—does not overwhelm the light."*
-> — [[[[Commander Drake Pressureborn]]|[[02 Worldbuilding]]/[[People]]/Commander Drake Pressureborn]], Chief of Depth Warden Operations
+> — [[Commander Drake Pressureborn|[[Commander Drake Pressureborn]]|[[02_Worldbuilding|02 Worldbuilding]]/[[People]]/Commander Drake Pressureborn]], Chief of Depth Warden Operations
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -58,7 +58,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -106,9 +106,9 @@ Depth Warden Patrols are the mobile enforcement units that maintain law and orde
 
 Each patrol consists of 4-8 trained Depth Wardens led by a Patrol Sergeant, equipped with specialized gear for operating at various depths and pressure levels. They travel in formation through designated patrol corridors, investigating disturbances, conducting routine inspections, assisting travelers in distress, and maintaining the security of trade routes and civilian areas.
 
-Depth Warden Patrols operate under the authority of [[[[The Depth Wardens]]|02 Worldbuilding/[[Groups]]/The Depth Wardens]], the primary law enforcement [[Organization]] of Aquabyssos, and work in coordination with [[Local Authorities]], [[Merchant]] groups, and civilian communities. Their presence throughout the realm ensures that even the most remote settlements and isolated travelers have access to protection and legal assistance.
+Depth Warden Patrols operate under the authority of [[The Depth Wardens|[[The Depth Wardens]]|02 Worldbuilding/[[Groups]]/The Depth Wardens]], the primary law enforcement [[Organization]] of Aquabyssos, and work in coordination with [[Local Authorities]], [[Merchant]] groups, and civilian communities. Their presence throughout the realm ensures that even the most remote settlements and isolated travelers have access to protection and legal assistance.
 
-The patrols serve multiple functions beyond simple law enforcement: they act as information gatherers, emergency responders, diplomatic contacts for foreign visitors, and mobile representatives of [[Aquabyssos Government]]al authority. Their constant movement and wide-ranging duties make them one of the most visible and important institutions in maintaining the stability and security of the underwater realm.
+The patrols serve multiple functions beyond simple law enforcement: they act as information gatherers, emergency responders, diplomatic contacts for foreign visitors, and mobile representatives of [[Aquabyssos_Government|Aquabyssos Government]]al authority. Their constant movement and wide-ranging duties make them one of the most visible and important institutions in maintaining the stability and security of the underwater realm.
 
 ### Standard Patrol Composition
 
@@ -166,7 +166,7 @@ Specialized units monitoring the boundaries between Aquabyssos and other realms,
 Rapid-deployment units that respond to crisis situations, natural disasters, major criminal incidents, and other emergencies requiring immediate law enforcement response.
 
 - **Composition**: 4-6 elite wardens with emergency specialization
-- **Special Equipment**: Emergency medical gear, rescue equipment, crisis [[Communication Systems]]
+- **Special Equipment**: Emergency medical gear, rescue equipment, crisis [[Communication_Systems|Communication Systems]]
 - **Primary Duties**: Emergency response, disaster assistance, [[Crisis Management]]
 - **Patrol Frequency**: On-call deployment based on emergency needs
 
@@ -181,7 +181,7 @@ Well-established routes connecting the largest settlements and most important fa
 - **Special Features**: Government facility checks, diplomatic escort capabilities
 - **Typical Issues**: Political security, high-value cargo protection, VIP transport
 
-**Circuit Beta** ([[Port Meridian]] to [[[[Crystal Garden]]s]]):
+**Circuit Beta** ([[Port Meridian]] to [[Crystal Garden|[[Crystal Garden]]s]]):
 - **Distance**: 150 nautical miles through varied depth zones
 - **Frequency**: 4 patrols daily, coordinated with trade schedules
 - **Special Features**: Market security, trade dispute resolution, merchant assistance
@@ -401,9 +401,9 @@ Patrols provide a wide range of non-enforcement services to support citizens and
 
 **Bandit Ambush** (Challenge Rating 3-6):
 **Setup**: Criminal group attempts to rob patrol or nearby travelers
-**Enemies**: 4-8 aquatic bandits with [[Underwater Combat]] specialization
+**Enemies**: 4-8 aquatic bandits with [[Underwater_Combat|Underwater Combat]] specialization
 **Tactics**: Ambush from concealment, attempt to divide patrol, focus on valuable equipment
-**Special Considerations**: [[Underwater Combat Rules]], [[Civilian Protection]], prisoner capture
+**Special Considerations**: [[Underwater_Combat_Rules|Underwater Combat Rules]], [[Civilian Protection]], prisoner capture
 
 **Void Creature Incursion** (Challenge Rating 4-8):
 **Setup**: Deep-dwelling creatures have moved into patrol areas, threatening civilians
@@ -479,7 +479,7 @@ Patrols serve as excellent sources of information about local conditions, crimin
 
 ### Emergency and Crisis Response
 - **[[Royal Vault]]**: Secure facility that patrols may need to protect or investigate
-- **[[[[Memory Alteration]]s]]**: Crimes and evidence types that patrols encounter in investigations
+- **[[Memory Alteration|[[Memory Alteration]]s]]**: Crimes and evidence types that patrols encounter in investigations
 - **[[Crystal-Corruption-Tracking-Sheet]]**: Environmental threats that patrols monitor and respond to
 - **[[Shadow Wells]]**: Dangerous locations requiring specialized patrol attention
 
@@ -500,7 +500,7 @@ Legends speak of Depth Warden Patrol as a nexus where past and present converge.
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -524,13 +524,11 @@ Depth Warden Patrol is a notable location characterized by its unique features a
 ### Founding
 Depth Warden Patrol was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -538,13 +536,11 @@ Depth Warden Patrol was established in the distant past, growing from humble beg
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: [[path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -589,7 +585,6 @@ Key stop on textiles trade route
 - 20% middle class
 - 79% working poor
 
-
 ## Climate & Weather
 - **Typical Weather**: Common conditions
 - **Seasonal Changes**: Throughout the year
@@ -625,3 +620,10 @@ Key stop on textiles trade route
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[Depth Wardens]]
+- [[Pearl_Harbor_City (Places)]]
+- [[Depth Wardens (D&D_References)]]
+- [[Pearl_Harbor_City (D&D_References)]]

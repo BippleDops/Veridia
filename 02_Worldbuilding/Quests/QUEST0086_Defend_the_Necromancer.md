@@ -1,4 +1,5 @@
 ---
+aliases: ["Defend the Necromancer", "defend the necromancer", "Defend Necromancer", "Necromancer the Defend"]
 tags: [generated]
 id: QUEST0086
 created: 2025-08-15T04:09:51.413Z
@@ -22,8 +23,6 @@ Protect the sunken temple from the orc horde for three days
 ### Secondary
 - Gather intelligence on enemy plans
 - Gather intelligence on enemy plans
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they once saved a noble's life and earned their favor, which changed their life forever. Now, circumstances demand immediate action.

@@ -82,3 +82,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - Strange sightings suggest a curse
 - Strange accidents suggest a curse
+
+## References
+
+- [[strixhaven-pent-scc]]

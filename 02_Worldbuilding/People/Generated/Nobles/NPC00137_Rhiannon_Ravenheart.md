@@ -1,3 +1,9 @@
+---
+aliases: ["Rhiannon Ravenheart", "rhiannon ravenheart", "Ravenheart Rhiannon"]
+tags: [npc, character]
+type: npc
+---
+
 # Rhiannon Ravenheart
 
 *Half-Orc Heir (Nobles), Age 72, Non-binary*
@@ -42,21 +48,17 @@ Exiled from their homeland, trying to rebuild their power base A chance encounte
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
 
-
 ### Faelyn Hawthorne (Criminal - Fence)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ### Qadim Emberfall the Swift (Personal - Childhood friend)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
 
-
 ### Aldric Ironforge (Professional - Employee)
 - **Status**: Mutually beneficial
 - **History**: Grew up together in the same neighborhood
-
 
 ### Cedric Voidwalker the Swift (Political - Patron)
 - **Status**: Blood oath bound

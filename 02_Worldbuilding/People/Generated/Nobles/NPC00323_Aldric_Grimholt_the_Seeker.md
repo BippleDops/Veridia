@@ -1,3 +1,9 @@
+---
+aliases: ["Aldric Grimholt the Seeker", "aldric grimholt the seeker", "Aldric Grimholt Seeker", "Seeker the Grimholt Aldric"]
+tags: [npc, character]
+type: npc
+---
+
 # Aldric Grimholt the Seeker
 
 *Human Heir (Nobles), Age 77, Female*
@@ -13,7 +19,6 @@
 Towering and lanky, with Dreadlocks brown hair and Hazel eyes. Unusual hue skin. Burn scars on one side of face.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Never backs down from any challenge
@@ -36,7 +41,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Survive until next week
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Solas Blackstone the Cunning (Criminal - Target)
 - **Status**: Blood oath bound
@@ -47,16 +51,13 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Ysara Grimholt (Political - Puppet)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
 
-
 ### Hestara Ironwood the Swift (Professional - Employer)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Practicing forbidden magic

@@ -1233,3 +1233,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Aetheric Wind Songs]]
+- [[The Crown of Stars]]
+- [[Aetheric Wind Songs (D&D_References)]]
+- [[Master_Lore_Index]]
+- [[The Crown of Stars (D&D_References)]]

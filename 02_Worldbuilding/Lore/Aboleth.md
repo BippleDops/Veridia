@@ -28,7 +28,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -78,7 +78,7 @@ Aboleth represents a crucial aspect of the world's history, cosmology, or fundam
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -97,7 +97,7 @@ Mentioned in The First Prophecy of Shadows
 - A corpse reveals the truth about the cult
 - A noble needs help stealing before the festival
 
-## Historical [[[[Time]]line]]
+## Historical [[Time|[[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -129,3 +129,19 @@ Mentioned in The First Prophecy of Shadows
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## References
+
+- [[02_Worldbuilding_Lore_Aboleth_Mind_Mazes]]
+- [[Aboleth Memories]]
+- [[Aboleth Mind Mazes]]
+- [[Aboleth Servants]]
+- [[Aboleth Territories]]
+- [[Ancient Aquabyssos Rulers]]
+- [[Deep Mother]]
+- [[Fortress of the Deeps]]
+- [[Known Locations]]
+- [[Primordial Aboleth Council]]
+- [[Timeline of the Drowning]]
+- [[Timeline of the Drowning (D&D_References)]]
+- [[Timeline of the Drowning 3 (D&D_References)]]

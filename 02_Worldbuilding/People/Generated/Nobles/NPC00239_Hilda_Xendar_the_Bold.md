@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Xendar the Bold", "hilda xendar the bold", "Hilda Xendar Bold", "Bold the Xendar Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Xendar the Bold
 
 *Dragonborn Aristocrat (Nobles), Age 28, Male*
@@ -36,17 +42,14 @@ Exiled from their homeland, trying to rebuild their power base They recently dis
 - **Short Term**: Make this month's payment
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Thalia Grimholt (Personal - Ex-lover)
 - **Status**: Professional only
 - **History**: United by common enemy
 
-
 ### Hestara Brightblade the Mystic (Family - Child)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ### Orion Hawthorne (Family - Cousin)
 - **Status**: Blood oath bound
@@ -57,7 +60,6 @@ Exiled from their homeland, trying to rebuild their power base They recently dis
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Wynne Nightfall the Fallen (Family - Sibling)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
@@ -66,7 +68,6 @@ Exiled from their homeland, trying to rebuild their power base They recently dis
 ### Fiora Darkwater the Scholar (Political - Spy)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Child from scandalous affair

@@ -1,3 +1,9 @@
+---
+aliases: ["Warded Gauntlets of Protection", "warded gauntlets of protection", "Protection of Gauntlets Warded"]
+tags: [item, equipment]
+type: item
+---
+
 # Warded Gauntlets of Protection
 
 *Armor, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A warded gauntlets crafted from exotic materials
 - Reduces damage by 3
 - Reduces damage by 3
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -30,7 +34,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.390Z*

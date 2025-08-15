@@ -1,4 +1,5 @@
 ---
+aliases: ["Divine Gauntlet of Power", "divine gauntlet of power", "Power of Gauntlet Divine"]
 tags: [generated]
 id: ITEM0043
 created: 2025-08-15T04:09:51.091Z
@@ -19,8 +20,6 @@ Crafted from darkwood with glowing gems, in ancient but unbreakable. It emanates
 
 ## Quirk
 *Whispers names of previous owners*
-
-
 
 ## History
 This item was hidden away by its last owner decades ago. It has passed through many hands, each leaving their mark upon its destiny.

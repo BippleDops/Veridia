@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Goldleaf the Redeemed", "elric goldleaf the redeemed", "Elric Goldleaf Redeemed", "Redeemed the Goldleaf Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Goldleaf the Redeemed
 
 *Human Cultist (Villains), Age 55, Female*
@@ -36,37 +42,30 @@ Corrupted by an artifact or dark magic A prophetic dream has been haunting them 
 - **Short Term**: Complete current contract
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Nerys Ashford the Swift (Personal - Nemesis)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
 
-
 ### Branwen Lightbringer the Scholar (Personal - Best friend)
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
-
 
 ### Kaelen Emberfall the Guardian (Personal - Best friend)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
 
-
 ### Nerys Jadeclaw the Mystic (Professional - Mentor)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ### Dara Moonshadow the Wise (Professional - Mentor)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Aeliana Crystalbrook the Strong (Family - Cousin)
 - **Status**: Strained but maintaining
 - **History**: Teacher and student relationship
-
 
 ## Secrets
 1. Was once a renowned hero

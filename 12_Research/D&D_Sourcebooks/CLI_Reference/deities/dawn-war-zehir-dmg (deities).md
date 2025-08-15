@@ -71,3 +71,8 @@ Mentioned in The First Prophecy of Winds
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[A Sample Pantheon Dawn War Deities]]
+- [[a-sample-pantheon-dawn-war-deities (tables)]]

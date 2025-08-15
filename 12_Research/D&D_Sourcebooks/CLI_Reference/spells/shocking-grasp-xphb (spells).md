@@ -98,7 +98,6 @@ Mentioned in The Second Prophecy of Shadows
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -117,4 +116,4 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[shocking-grasp-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[shocking-grasp-xphb (spells)|shocking-grasp-xphb (spells)-phb]]` in CLI_Reference/spells/

@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Moonshadow the Bold", "alaric moonshadow the bold", "Alaric Moonshadow Bold", "Bold the Moonshadow Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Moonshadow the Bold
 
 *Dragonborn Rogue (Adventurers), Age 56, Male*
@@ -13,7 +19,6 @@
 Tall and muscular, with Dreadlocks auburn hair and Blue eyes. Scarred skin. Burn scars on one side of face.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Constantly quotes ancient texts; Always tells the absolute truth
@@ -56,7 +61,6 @@ Chosen by fate to fulfill an ancient prophecy They've made a deal they're beginn
 ### Dara Thornweave the Lost (Family - Parent)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
-
 
 ### Branwen Ashford the Wise (Personal - Nemesis)
 - **Status**: Professional only

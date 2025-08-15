@@ -1,3 +1,9 @@
+---
+aliases: ["Jorah Goldleaf the Strong", "jorah goldleaf the strong", "Jorah Goldleaf Strong", "Strong the Goldleaf Jorah"]
+tags: [npc, character]
+type: npc
+---
+
 # Jorah Goldleaf the Strong
 
 *Tiefling Baker (Commoners), Age 38, Male*
@@ -36,12 +42,10 @@ Family has worked the same trade for generations, but times are changing They've
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Thalia Darkwater the Bold (Political - Spy)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
-
 
 ### Erasmus Voidwalker (Professional - Mentor)
 - **Status**: Recently reconciled
@@ -61,7 +65,6 @@ Family has worked the same trade for generations, but times are changing They've
 ### Aeliana Quicksilver (Professional - Rival)
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
-
 
 ## Secrets
 1. Can hear the thoughts of others

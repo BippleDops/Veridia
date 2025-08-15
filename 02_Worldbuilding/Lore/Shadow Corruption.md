@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -75,7 +75,7 @@ Shadow corruption represents a crucial aspect of the world's history, cosmology,
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -110,3 +110,46 @@ Shadow corruption represents a crucial aspect of the world's history, cosmology,
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
+
+## References
+
+- [[Aquabyssos Trade Seal]]
+- [[Aurelius Goldwave]]
+- [[Crystal Garden]]
+- [[Customs House]]
+- [[Deep Mother]]
+- [[Fortress of the Deeps]]
+- [[Memory Alteration Consequences]]
+- [[Military Moral Quandaries]]
+- [[Political Compromise Costs]]
+- [[Random Encounters]]
+- [[Reputation System]]
+- [[Silver Mask]]
+- [[Thalassius the Wise]]
+- [[The Crimson Hand]]
+- [[The Deep Prophecies]]
+- [[The Forgetting Bomb]]
+- [[The Queen]]
+- [[The Transformed Citizens]]
+- [[Throne Room]]
+- [[Timeline of the Drowning]]
+- [[Umbral Exchange]]
+- [[Memory Merchant Valeria Siltweave]]
+- [[Commander Typhoon Blackheart (Places)]]
+- [[Sister Morwyn]]
+- [[The Crown's Burden]]
+- [[Crystal Garden (D&D_References)]]
+- [[Crystal Garden 3 (D&D_References)]]
+- [[Customs House (D&D_References)]]
+- [[Customs House 3 (D&D_References)]]
+- [[Thalassius the Wise (D&D_References)]]
+- [[Thalassius the Wise 3 (D&D_References)]]
+- [[The Queen (D&D_References)]]
+- [[The Queen 3 (D&D_References)]]
+- [[The Seven Shards (D&D_References)]]
+- [[The Seven Shards 3 (D&D_References)]]
+- [[The Transformed Citizens (D&D_References)]]
+- [[Throne Room (D&D_References)]]
+- [[Memory Merchant Valeria Siltweave (D&D_Statblocks)]]
+- [[Topic Matrix]]
+- [[Topic_Matrix (Indexes)]]

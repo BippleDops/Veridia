@@ -158,3 +158,13 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[darkmantle-xmm (aberration)]]
+- [[Exploring the Mine Xdmg]]
+- [[Monsters by Habitat Underdark Monsters Xmm]]
+- [[Underdark Encounters Levels 14 Xge]]
+- [[exploring-the-mine-xdmg (tables)]]
+- [[monsters-by-habitat-underdark-monsters-xmm (tables)]]
+- [[underdark-encounters-levels-14-xge (tables)]]

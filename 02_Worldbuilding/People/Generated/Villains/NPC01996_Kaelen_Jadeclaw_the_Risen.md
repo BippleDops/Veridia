@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Jadeclaw the Risen", "kaelen jadeclaw the risen", "Kaelen Jadeclaw Risen", "Risen the Jadeclaw Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Jadeclaw the Risen
 
 *Elf Corrupt Noble (Villains), Age 50, Female*
@@ -36,12 +42,10 @@ Corrupted by an artifact or dark magic A family member's death has left them wit
 - **Short Term**: Survive until next week
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Rhiannon Hawthorne the Broken (Criminal - Accomplice)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
-
 
 ### Cedric Hawthorne the Swift (Family - Cousin)
 - **Status**: Professional only
@@ -51,7 +55,6 @@ Corrupted by an artifact or dark magic A family member's death has left them wit
 ### Felicia Underhill the Wanderer (Personal - Ex-lover)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Has a child they're protecting

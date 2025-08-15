@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Emberfall", "felicia emberfall", "Emberfall Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Emberfall
 
 *Dwarf Noble (Nobles), Age 55, Male*
@@ -42,21 +48,17 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Status**: Secretly hostile
 - **History**: Bitter rivals who learned respect
 
-
 ### Urien Underhill (Personal - Love interest)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
-
 
 ### Nerys Frostwhisper (Family - Parent)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Solas Winterborn (Family - Child)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Practicing forbidden magic

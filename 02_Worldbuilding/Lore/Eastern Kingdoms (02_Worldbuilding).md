@@ -7,7 +7,7 @@ tags:
 - session-notes
 - historical-events
 - status/complete
-- [[[[Time]]line]]
+- [[Time|[[Time]]line]]
 - aquatic
 - quest
 - content/lore
@@ -36,9 +36,9 @@ related_entities:
 - '[[Aethermoor]]'
 - '[[Continental War]]'
 - '[[The Great Crystallization]]'
-- '[[The [[Bathyal Succession]]]]'
+- '[[Bathyal Succession|The [[Bathyal Succession]]]]'
 - '[[Aquabyssos]]'
-- '[[[[The Shattering]] of [[The Crown]]]]'
+- '[[The Shattering|[[The Shattering]] of [[The Crown]]]]'
 scale: Multi-Continental Empire
 significance: Major Continental Power
 time_period: Ancient Era - Current Era
@@ -66,7 +66,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -327,7 +327,7 @@ Before unification, the regions that became the Eastern Kingdoms were controlled
 **The Meridian Trading Princes**: Merchant republics controlling southern islands
 **The Western Frontier Lords**: Colonial baronies expanding into new territories
 **The Mercatorian City-States**: Commercial centers focused on trade and manufacturing
-**[[The [[Crystal Wardens]]]]**: Defensive coalition protecting against magical threats
+**[[Crystal Wardens|The [[Crystal Wardens]]]]**: Defensive coalition protecting against magical threats
 **The Outer Explorers**: Nomadic kingdoms focused on territorial expansion
 
 These kingdoms maintained complex relationships of alliance, rivalry, and warfare for centuries.
@@ -601,7 +601,7 @@ The Eastern Kingdoms maintain the largest and most sophisticated naval force in 
 - Advanced shipbuilding techniques producing superior vessels
 - Hybrid propulsion systems using both traditional and magical power
 - Sophisticated navigation equipment enabling precise oceanic travel
-- [[Communication Systems]] providing fleet coordination across vast distances
+- [[Communication_Systems|Communication Systems]] providing fleet coordination across vast distances
 - Weapons systems combining traditional artillery with magical enhancements
 
 **Naval Personnel**:
@@ -1052,7 +1052,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 **Regional Differences**: Varying attitudes based on regional experiences and interests
 - Heartland regions favoring conservative approaches and traditional stability
 - Border regions with magical contact favoring progressive adaptation strategies
-- Commercial regions supporting whatever approach best serves [[[[Economic Interest]]s]]
+- Commercial regions supporting whatever approach best serves [[Economic Interest|[[Economic Interest]]s]]
 - Military regions divided between traditional strength and adaptive flexibility
 
 #### Strategic Planning Challenges
@@ -1270,7 +1270,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 **Trade, Commerce, and Economic Development**
 
 **The Trade Mission**: Characters facilitate commercial relationships between civilizations
-- Negotiating trade agreements requiring understanding of diverse cultural and [[Economic System]]s
+- Negotiating trade agreements requiring understanding of diverse cultural and [[Economic_System|Economic System]]s
 - Transporting valuable or dangerous goods requiring special handling and security
 - Establishing new trade routes through territories affected by magical transformation
 - Resolving commercial disputes requiring diplomatic and investigative skills
@@ -1425,7 +1425,7 @@ Eastern Kingdoms is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of Eastern Kingdoms as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Eastern Kingdoms.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 

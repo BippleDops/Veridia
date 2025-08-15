@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -285,3 +285,22 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[ITEM00723_Primordial_Ring_of_Dominion]]
+- [[ITEM01128_Refined_Elixir_of_Swiftness]]
+- [[ITEM00102_Blazing_Hammer_of_the_Ancients]]
+- [[Aquabyssos Trade Seal]]
+- [[Eastern Kingdom]]
+- [[Kraken Territories]]
+- [[The Breathing Stone]]
+- [[The Forgetting Bomb]]
+- [[Crystal Gardens]]
+- [[Inverted Ballroom Wing]]
+- [[Ironhold]]
+- [[Pip Goldleaf]]
+- [[The Free Current]]
+- [[The Shrinking Sanctuary]]
+- [[Theological Warfare]]
+- [[The Crown's Burden]]

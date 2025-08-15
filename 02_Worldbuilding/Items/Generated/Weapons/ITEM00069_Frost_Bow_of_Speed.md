@@ -1,3 +1,9 @@
+---
+aliases: ["Frost Bow of Speed", "frost bow of speed", "Speed of Bow Frost"]
+tags: [item, equipment]
+type: item
+---
+
 # Frost Bow of Speed
 
 *Weapons, Very Rare (requires attunement)*
@@ -16,8 +22,6 @@ A frost bow carved from dragon bone
 - Can strike ethereal creatures
 - Grants advantage on initiative
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -32,7 +36,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.348Z*

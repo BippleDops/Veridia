@@ -1,6 +1,5 @@
 ---
 
-
 title: Mechanics Reference Quick Reference Dnd5e DM Screen 2014
 type: mechanics
 tags:
@@ -247,7 +246,6 @@ During combat, Marcus attempts to jump the chasm while being shot at. He rolls w
 
 ### Advanced Example
 Elena tries to jump while carrying an unconscious ally in heavy rain. DC increases to 15, disadvantage, and STR check to not drop ally.
-
 
 ## Common Mistakes
 *Frequent misunderstandings to avoid*

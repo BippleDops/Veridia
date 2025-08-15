@@ -47,7 +47,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -95,15 +95,15 @@ improvements: 20
 - Investigated the [[Gallery of Frozen Waves]] after witnessing party member replacement by reflection
 - Confronted [[Memory Farmers]] in the [[Memory Meadows]] and rescued [[Senator]] Glaucus
 - Uncovered [[Evidence]] of systematic shadow replacement throughout Parliament
-- Discovered [[Shadow Surgery]] facilities in [[Tenebrarum]]
+- Discovered [[Shadow_Surgery|Shadow Surgery]] facilities in [[Tenebrarum]]
 - Exposed the scope of The Shadow Conspiracy to key [[Government Officia]]ls
 
 **Who was directly affected:**
 - **[[Original Glaucus]]**: Rescued from Memory Meadows imprisonment
-- **[[Shadow Duchess Nyx]]**: Plans compromised, forced to accelerate [[[[Time]]line]]
+- **[[Shadow Duchess Nyx]]**: Plans compromised, forced to accelerate [[Time|[[Time]]line]]
 - **[[The Shadow Conspiracy]]**: Cover blown, operations exposed
 - **[[Parliament of Echoes]]**: Learned 30% of members are [[Shadow Replacements]]
-- **[[The Scattered [[Emperor]]]]**: Paranoia validated, authority challenged
+- **[[Emperor|The Scattered [[Emperor]]]]**: Paranoia validated, authority challenged
 - **Memory Farmers**: Primary income source disrupted, key operatives captured
 
 **Immediate visible results:**
@@ -151,8 +151,8 @@ improvements: 20
 **Faction realignments:**
 - **[[The Light Preservation Society]]** gained 400% membership increase
 - **[[Original Survivor Network]]** emerged from hiding to assist investigations
-- **[[[[Light Bearer]]s]]** militant group formed to hunt shadow replacements
-- **[[[[Depth Guard]]|[[02 Worldbuilding]]/Lore/Depth Guard]]** revealed themselves as counter-conspiracy force
+- **[[Light Bearer|[[Light Bearer]]s]]** militant group formed to hunt shadow replacements
+- **[[Depth Guard|[[Depth Guard]]|[[02_Worldbuilding|02 Worldbuilding]]/Lore/Depth Guard]]** revealed themselves as counter-conspiracy force
 - Traditional [[Merchant]] guilds distanced themselves from shadow-associated businesses
 - **[[Political Parties of Aquabyssos]]** splintered along shadow/original lines
 
@@ -174,7 +174,7 @@ improvements: 20
 **Power vacuum effects:**
 - Unknown number of shadow-replaced officials remained undetected
 - Genuine political reformers filled positions left by exposed shadows
-- [[Criminal [[Organization]]s]] exploited reduced Parliamentary effectiveness
+- [[Organization|Criminal [[Organization]]s]] exploited reduced Parliamentary effectiveness
 - Foreign powers considered Aquabyssos destabilized and vulnerable
 - Regional governors gained autonomy as central authority weakened
 
@@ -236,7 +236,7 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs

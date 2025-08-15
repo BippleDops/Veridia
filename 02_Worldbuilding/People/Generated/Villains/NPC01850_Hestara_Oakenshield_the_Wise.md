@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Oakenshield the Wise", "hestara oakenshield the wise", "Hestara Oakenshield Wise", "Wise the Oakenshield Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Oakenshield the Wise
 
 *Tiefling Dark Wizard (Villains), Age 36, Female*
@@ -36,22 +42,18 @@ Born into evil but questioning their path A prophetic dream has been haunting th
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Ewan Underhill the Scholar (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Pyria Zephyrblade the Cunning (Political - Puppet)
 - **Status**: Strained but maintaining
 - **History**: Saved each other's lives during the war
 
-
 ### Urien Brightblade the Wise (Criminal - Fence)
 - **Status**: Professional only
 - **History**: Bitter rivals who learned respect
-
 
 ### Fiora Moonshadow the Mystic (Family - Child)
 - **Status**: On the verge of collapse
@@ -66,7 +68,6 @@ Born into evil but questioning their path A prophetic dream has been haunting th
 ### Pyria Darkwater the Cunning (Personal - Love interest)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Has a child they're protecting

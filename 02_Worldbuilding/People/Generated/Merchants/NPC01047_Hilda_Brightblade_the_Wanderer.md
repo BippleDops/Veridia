@@ -1,3 +1,9 @@
+---
+aliases: ["Hilda Brightblade the Wanderer", "hilda brightblade the wanderer", "Hilda Brightblade Wanderer", "Wanderer the Brightblade Hilda"]
+tags: [npc, character]
+type: npc
+---
+
 # Hilda Brightblade the Wanderer
 
 *Aasimar Caravan Master (Merchants), Age 65, Non-binary*
@@ -36,22 +42,18 @@ Uses their business as cover for other activities A family member's death has le
 - **Short Term**: Recruit new members
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Idris Goldleaf the Cunning (Personal - Childhood friend)
 - **Status**: Recently reconciled
 - **History**: Accidentally bound by magic
 
-
 ### Idris Zephyrblade the Fallen (Criminal - Target)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
 
-
 ### Jorah Frostwhisper the Wise (Personal - Love interest)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
-
 
 ### Kaelen Brightblade the Wanderer (Family - Sibling)
 - **Status**: Strong and trusting
@@ -61,7 +63,6 @@ Uses their business as cover for other activities A family member's death has le
 ### Aldric Ashford the Scholar (Criminal - Accomplice)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Running a cult from their basement

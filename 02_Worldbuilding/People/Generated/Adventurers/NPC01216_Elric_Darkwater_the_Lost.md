@@ -1,3 +1,9 @@
+---
+aliases: ["Elric Darkwater the Lost", "elric darkwater the lost", "Elric Darkwater Lost", "Lost the Darkwater Elric"]
+tags: [npc, character]
+type: npc
+---
+
 # Elric Darkwater the Lost
 
 *Half-Elf Fighter (Adventurers), Age 76, Female*
@@ -36,32 +42,26 @@ Chosen by fate to fulfill an ancient prophecy They're being blackmailed by someo
 - **Short Term**: Find missing person
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Drusilla Ironforge the Fallen (Political - Puppet)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Corvus Emberfall the Scholar (Personal - Childhood friend)
 - **Status**: Complicated history
 - **History**: Bonded over shared tragedy
-
 
 ### Solas Nightfall the Guardian (Professional - Partner)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Cedric Moonshadow the Strong (Family - Cousin)
 - **Status**: One-sided affection
 - **History**: United by common enemy
 
-
 ### Vesper Youngblood the Fallen (Political - Patron)
 - **Status**: Recently reconciled
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Has died and been resurrected

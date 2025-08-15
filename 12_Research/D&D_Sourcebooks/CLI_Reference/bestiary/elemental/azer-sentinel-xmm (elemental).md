@@ -146,3 +146,15 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Azer Sentinel Xmm]]
+- [[Frost Salamander Mpmm]]
+- [[frost-salamander-mpmm (elemental)]]
+- [[Duergar Raiding Parties Duergar Special]]
+- [[Monster Conversions Stat Block Conversions]]
+- [[Monsters by Habitat Mountain Monsters Xmm]]
+- [[duergar-raiding-parties-duergar-special-allies-mtf]]
+- [[monster-conversions-stat-block-conversions-xmm]]
+- [[monsters-by-habitat-mountain-monsters-xmm (tables)]]

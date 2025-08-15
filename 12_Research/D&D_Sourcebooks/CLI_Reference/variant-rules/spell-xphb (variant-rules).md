@@ -83,7 +83,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -102,4 +101,8 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[spell-xphb (variant-rules)-phb]]` in CLI_Reference/spells/
+See: `[[spell-xphb (variant-rules)|spell-xphb (variant-rules)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]

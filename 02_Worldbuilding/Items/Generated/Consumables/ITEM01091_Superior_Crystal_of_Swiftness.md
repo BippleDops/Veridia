@@ -1,3 +1,9 @@
+---
+aliases: ["Superior Crystal of Swiftness", "superior crystal of swiftness", "Swiftness of Crystal Superior"]
+tags: [item, equipment]
+type: item
+---
+
 # Superior Crystal of Swiftness
 
 *Consumables, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A superior crystal swirling with colors
 - Increase speed by 10 ft
 - Remove one condition
 
-
-
 ## History
 Created by accident during a magical experiment
 
@@ -30,7 +34,6 @@ Created by accident during a magical experiment
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.455Z*

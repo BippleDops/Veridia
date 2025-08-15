@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-parliament-loyalists-parliament-loyalists.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -245,7 +243,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -281,3 +278,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Assassin]]
+- [[Assets Symbols Symbol Heraldry Vex Shadowthorn Boss Fight Vex Shadowthorn Boss Fight.png]]
+- [[Assets Symbols Symbol Heraldry the Shattering the Shattering.svg]]
+- [[Senator]]
+- [[Assassin (D&D_Statblocks)]]
+- [[Senator (D&D_Statblocks)]]

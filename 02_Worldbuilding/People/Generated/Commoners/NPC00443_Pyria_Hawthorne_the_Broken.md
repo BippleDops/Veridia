@@ -1,3 +1,9 @@
+---
+aliases: ["Pyria Hawthorne the Broken", "pyria hawthorne the broken", "Pyria Hawthorne Broken", "Broken the Hawthorne Pyria"]
+tags: [npc, character]
+type: npc
+---
+
 # Pyria Hawthorne the Broken
 
 *Firbolg Farmer (Commoners), Age 42, Male*
@@ -36,7 +42,6 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Short Term**: Make this month's payment
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Branwen Grimholt the Wanderer (Professional - Employee)
 - **Status**: Professional only
@@ -47,16 +52,13 @@ Grew up in poverty but discovered a talent that might change everything They've 
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
 
-
 ### Dara Nightfall the Cunning (Personal - Love interest)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Hilda Hawthorne the Swift (Political - Opposition)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Knows location of ancient treasure

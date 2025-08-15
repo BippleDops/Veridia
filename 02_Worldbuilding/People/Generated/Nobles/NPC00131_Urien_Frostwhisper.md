@@ -1,3 +1,9 @@
+---
+aliases: ["Urien Frostwhisper", "urien frostwhisper", "Frostwhisper Urien"]
+tags: [npc, character]
+type: npc
+---
+
 # Urien Frostwhisper
 
 *Genasi Aristocrat (Nobles), Age 25, Female*
@@ -13,7 +19,6 @@
 Below average and delicate, with Short and neat white hair and Blue eyes. Dark skin. Crooked nose from multiple breaks.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Always speaks in metaphors and riddles; Believes in every conspiracy theory
@@ -51,7 +56,6 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 ### Kaelen Keenblade (Family - Spouse)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ### Alaric Crystalbrook (Political - Opposition)
 - **Status**: Complicated history

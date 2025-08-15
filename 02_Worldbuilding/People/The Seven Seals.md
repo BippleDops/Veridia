@@ -48,14 +48,12 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-seven-seals-the-seven-seals.svg)
 
 # The Seven Seals
 
 *Ancient guardians of reality's foundations*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -604,7 +602,6 @@ Legends speak of The Seven Seals as a nexus where past and present converge. Loc
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -640,3 +637,12 @@ Legends speak of The Seven Seals as a nexus where past and present converge. Loc
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Deep Mother]]
+- [[Assets Portraits Portrait NPC Pressure Lords Pressure Lords.svg]]
+- [[Nerissa_Deepcurrent]]
+- [[Nerissa Deepcurrent (D&D_References)]]
+- [[Nerissa_Deepcurrent (D&D_References)]]

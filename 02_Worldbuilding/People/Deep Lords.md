@@ -34,12 +34,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-deep-lords-deep-lords.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -245,7 +243,6 @@ Member of House Dragonblood - Trait: magical affinity
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -281,3 +278,12 @@ Member of House Dragonblood - Trait: magical affinity
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Crystal Garden]]
+- [[Assets Locations Location City Professor Marina Reefbuilder V1 Professor Marina Reefbuilder.svg]]
+- [[Assets Portraits Portrait NPC Trade Captain Sterling Trade Captain Sterling.svg]]
+- [[Assets Symbols Symbol Heraldry Witness Protection Protocol V1 Witness Protection Protocol.svg]]
+- [[Crystal Garden (D&D_References)]]
+- [[Crystal Garden 3 (D&D_References)]]

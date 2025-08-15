@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Darkwater the Lost", "malakai darkwater the lost", "Malakai Darkwater Lost", "Lost the Darkwater Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Darkwater the Lost
 
 *Half-Elf Assassin (Villains), Age 76, Non-binary*
@@ -13,7 +19,6 @@
 Very tall and delicate, with Long and flowing auburn hair and Heterochromic eyes. Freckled skin. Missing ear from old battle.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Always tells the absolute truth; Extremely superstitious about everything; Laughs at the most inappropriate times
@@ -42,16 +47,13 @@ Driven mad by knowledge humanity wasn't meant to know An old debt has come due a
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
 
-
 ### Hilda Ironforge the Bold (Personal - Nemesis)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
 
-
 ### Solas Grimholt the Redeemed (Family - Sibling)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ### Drusilla Oakenshield the Swift (Political - Patron)
 - **Status**: Strained but maintaining
@@ -61,7 +63,6 @@ Driven mad by knowledge humanity wasn't meant to know An old debt has come due a
 ### Orion Ironwood the Strong (Personal - Nemesis)
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Is being controlled by darker force

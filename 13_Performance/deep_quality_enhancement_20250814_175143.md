@@ -62,7 +62,6 @@ Generated: 2025-08-14T17:51:43.994416
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## See Also
 - Related content
 - Similar topics
@@ -72,3 +71,8 @@ Generated: 2025-08-14T17:51:43.994416
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
 - **Hidden Details**: Secret aspects
+
+## References
+
+- [[Side Adventures]]
+- [[Recent Events]]

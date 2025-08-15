@@ -1,3 +1,9 @@
+---
+aliases: ["Drusilla Ironforge the Risen", "drusilla ironforge the risen", "Drusilla Ironforge Risen", "Risen the Ironforge Drusilla"]
+tags: [npc, character]
+type: npc
+---
+
 # Drusilla Ironforge the Risen
 
 *Genasi Blacksmith (Commoners), Age 38, Non-binary*
@@ -36,27 +42,22 @@ Runaway from an arranged marriage, starting a new life An old debt has come due 
 - **Short Term**: Survive until next week
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Orion Grimholt (Criminal - Accomplice)
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Hilda Stormwind the Wise (Professional - Rival)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
-
 
 ### Elric Frostwhisper the Scholar (Criminal - Informant)
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Cedric Silverleaf the Guardian (Political - Patron)
 - **Status**: Professional only
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Knows location of ancient treasure

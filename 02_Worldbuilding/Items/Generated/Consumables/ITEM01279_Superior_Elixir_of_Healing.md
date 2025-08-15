@@ -1,3 +1,9 @@
+---
+aliases: ["Superior Elixir of Healing", "superior elixir of healing", "Healing of Elixir Superior"]
+tags: [item, equipment]
+type: item
+---
+
 # Superior Elixir of Healing
 
 *Consumables, Common*
@@ -13,8 +19,6 @@ A superior elixir emanating sweet fragrance
 ## Properties
 - Invisible for 10 minutes
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -29,7 +33,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.473Z*

@@ -1,3 +1,9 @@
+---
+aliases: ["Brenna Stormwind the Bold", "brenna stormwind the bold", "Brenna Stormwind Bold", "Bold the Stormwind Brenna"]
+tags: [npc, character]
+type: npc
+---
+
 # Brenna Stormwind the Bold
 
 *Tabaxi Rogue (Adventurers), Age 58, Male*
@@ -13,7 +19,6 @@
 Above average and wiry, with Partially shaved auburn hair and Red eyes. Tan skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Merchant's outfit with many hidden pockets
-
 
 ## Personality
 - **Traits**: Laughs at the most inappropriate times; Flirts with everyone regardless of interest
@@ -36,22 +41,18 @@ Accidentally gained powers and learning to control them They've fallen in love w
 - **Short Term**: Avoid the authorities
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Elric Keenblade the Wanderer (Family - Child)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Orion Youngblood the Strong (Professional - Mentor)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
 
-
 ### Cedric Dawnstrider the Risen (Family - Child)
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
-
 
 ### Elric Winterborn the Wanderer (Family - Sibling)
 - **Status**: Recently reconciled
@@ -66,7 +67,6 @@ Accidentally gained powers and learning to control them They've fallen in love w
 ### Delara Proudmore the Wanderer (Personal - Love interest)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Is from the future

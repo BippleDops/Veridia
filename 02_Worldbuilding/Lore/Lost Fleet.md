@@ -33,7 +33,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -83,7 +83,7 @@ Lost Fleet is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of Lost Fleet as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Lost Fleet.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -104,3 +104,9 @@ Mentioned in The First Prophecy of Winds
 - Strange sightings suggest a conspiracy
 - Strange disappearances suggest ancient magic
 - Someone is searching for a artifact for love
+
+## References
+
+- [[The Tethyan Hegemony]]
+- [[Compass Quest]]
+- [[Maelstrom Palace]]

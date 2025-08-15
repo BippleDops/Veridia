@@ -375,3 +375,8 @@ Legends speak of Shadow Broker Mirrors as a nexus where past and present converg
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Party Shadows (Criminal_Organizations)]]
+- [[Party Shadows]]

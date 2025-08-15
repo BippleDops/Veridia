@@ -1,4 +1,5 @@
 ---
+aliases: ["The Hidden Alliance", "the hidden alliance", "Alliance Hidden The"]
 tags: [generated]
 id: QUEST0010
 created: 2025-08-15T04:09:51.369Z

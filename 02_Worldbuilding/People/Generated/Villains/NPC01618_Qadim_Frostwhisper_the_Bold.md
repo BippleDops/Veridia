@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Frostwhisper the Bold", "qadim frostwhisper the bold", "Qadim Frostwhisper Bold", "Bold the Frostwhisper Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Frostwhisper the Bold
 
 *Firbolg Corrupt Noble (Villains), Age 31, Male*
@@ -36,7 +42,6 @@ Born into evil but questioning their path A prophetic dream has been haunting th
 - **Short Term**: Find missing person
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Gareth Stormwind the Swift (Professional - Employee)
 - **Status**: Secretly hostile
@@ -47,11 +52,9 @@ Born into evil but questioning their path A prophetic dream has been haunting th
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
 
-
 ### Elric Crystalbrook the Redeemed (Personal - Childhood friend)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Is being controlled by darker force

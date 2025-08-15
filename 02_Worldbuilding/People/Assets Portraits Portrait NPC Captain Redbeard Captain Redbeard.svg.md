@@ -198,3 +198,7 @@ This NPC can serve multiple roles:
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Assets Art Astrologer Prime Cassandra Starweaver.png]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Nightfall", "kaelen nightfall", "Nightfall Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Nightfall
 
 *Tabaxi Courtier (Nobles), Age 55, Female*
@@ -36,17 +42,14 @@ Secretly adopted into nobility, living in fear of discovery They're being blackm
 - **Short Term**: Survive until next week
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Aeliana Goldleaf the Swift (Family - Cousin)
 - **Status**: One-sided affection
 - **History**: Accidentally bound by magic
 
-
 ### Solas Youngblood (Criminal - Handler)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ### Malakai Ironforge the Swift (Family - Parent)
 - **Status**: Blood oath bound
@@ -57,11 +60,9 @@ Secretly adopted into nobility, living in fear of discovery They're being blackm
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
 
-
 ### Hilda Moonshadow the Strong (Political - Opposition)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Child from scandalous affair

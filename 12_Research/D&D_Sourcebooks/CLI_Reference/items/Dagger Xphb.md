@@ -82,3 +82,38 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Item Properties]]
+- [[Criminal Xphb]]
+- [[Sailor Xphb]]
+- [[Wayfarer Xphb]]
+- [[criminal-xphb (backgrounds)]]
+- [[sailor-xphb (backgrounds)]]
+- [[wayfarer-xphb (backgrounds)]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Bard Xphb]]
+- [[Rogue Xphb]]
+- [[Sorcerer Xphb]]
+- [[bard-xphb (classes)]]
+- [[bard-xphb 2 (classes)]]
+- [[rogue-xphb (classes)]]
+- [[sorcerer-xphb (classes)]]
+- [[item-properties (CLI_Reference)]]
+- [[Dagger of Venom Xdmg]]
+- [[Dragontooth Dagger Rot]]
+- [[Reszur Pota]]
+- [[Robe of Useful Items Xdmg]]
+- [[Tinderstrike Pota]]
+- [[dagger-of-venom-xdmg (items)]]
+- [[dragontooth-dagger-rot (items)]]
+- [[reszur-pota (items)]]
+- [[robe-of-useful-items-xdmg (items)]]
+- [[tinderstrike-pota (items)]]
+- [[Weapons Phb]]
+- [[Weapons Xphb]]
+- [[weapons-phb (tables)]]
+- [[weapons-xphb (tables)]]

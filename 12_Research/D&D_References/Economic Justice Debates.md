@@ -267,7 +267,6 @@ Legends speak of Economic Justice Debates as a nexus where past and present conv
 
 Contextual improvement based on 12_Research
 
-
 ## DM Tips
 > 💡 **Running This Content**: Advice for game masters
 > Adjust difficulty based on party composition

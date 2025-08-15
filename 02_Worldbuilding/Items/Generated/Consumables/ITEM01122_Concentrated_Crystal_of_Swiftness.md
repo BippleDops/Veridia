@@ -1,3 +1,9 @@
+---
+aliases: ["Concentrated Crystal of Swiftness", "concentrated crystal of swiftness", "Swiftness of Crystal Concentrated"]
+tags: [item, equipment]
+type: item
+---
+
 # Concentrated Crystal of Swiftness
 
 *Consumables, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A concentrated crystal swirling with colors
 - Resistance for 10 minutes
 - Resistance for 10 minutes
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -31,7 +35,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.458Z*

@@ -112,7 +112,6 @@ Contextual improvement based on 12_Research
 
 Contextual improvement based on 12_Research
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -131,4 +130,26 @@ Contextual improvement based on 12_Research
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[find-familiar-xphb (spells)-phb]]` in CLI_Reference/spells/
+See: `[[find-familiar-xphb (spells)|find-familiar-xphb (spells)-phb]]` in CLI_Reference/spells/
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[Green Hag Xmm]]
+- [[Sea Hag Xmm]]
+- [[green-hag-xmm (fey)]]
+- [[sea-hag-xmm (fey)]]
+- [[Night Hag Xmm]]
+- [[night-hag-xmm (fiend)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Strixhaven Mascot Scc]]
+- [[strixhaven-mascot-scc (feats)]]
+- [[Investment of the Chain Master Xphb]]
+- [[Pact of the Chain Xphb]]
+- [[investment-of-the-chain-master-xphb (optional-features)]]
+- [[pact-of-the-chain-xphb (optional-features)]]
+- [[Familiars Mm]]
+- [[Familiars Vgm]]
+- [[familiars-mm (variant-rules)]]
+- [[familiars-vgm (variant-rules)]]

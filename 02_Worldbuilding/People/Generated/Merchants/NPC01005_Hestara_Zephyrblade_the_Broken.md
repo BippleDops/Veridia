@@ -1,3 +1,9 @@
+---
+aliases: ["Hestara Zephyrblade the Broken", "hestara zephyrblade the broken", "Hestara Zephyrblade Broken", "Broken the Zephyrblade Hestara"]
+tags: [npc, character]
+type: npc
+---
+
 # Hestara Zephyrblade the Broken
 
 *Dragonborn Shopkeeper (Merchants), Age 38, Male*
@@ -47,7 +53,6 @@ Uses their business as cover for other activities Strange abilities have begun m
 - **Status**: Complicated history
 - **History**: United by common enemy
 
-
 ### Vesper Dawnstrider the Guardian (Personal - Ex-lover)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
@@ -56,7 +61,6 @@ Uses their business as cover for other activities Strange abilities have begun m
 ### Drusilla Ravenheart the Bold (Personal - Love interest)
 - **Status**: Blood oath bound
 - **History**: Former lovers who remained friends
-
 
 ## Secrets
 1. Sells information to all sides

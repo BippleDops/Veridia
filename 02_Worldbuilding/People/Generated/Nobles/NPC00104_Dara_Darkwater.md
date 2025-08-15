@@ -1,3 +1,9 @@
+---
+aliases: ["Dara Darkwater", "dara darkwater", "Darkwater Dara"]
+tags: [npc, character]
+type: npc
+---
+
 # Dara Darkwater
 
 *Half-Orc Ambassador (Nobles), Age 75, Female*
@@ -13,7 +19,6 @@
 Tall and heavyset, with Braided elaborately unusual color hair and Violet eyes. Scarred skin. Unusual eye color for their race.
 
 **Clothing**: Sailor's outfit with salt stains
-
 
 ## Personality
 - **Traits**: Never backs down from any challenge; Believes in every conspiracy theory; Collects unusual and worthless objects
@@ -36,12 +41,10 @@ Recently elevated to nobility through service, still learning courtly ways They'
 - **Short Term**: Find missing person
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Solas Ashford (Political - Ally)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ### Elric Quicksilver (Professional - Employer)
 - **Status**: One-sided affection

@@ -60,3 +60,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - A stranger needs help investigating before the new moon
 - A map reveals a betrayal about a local noble
 - Someone is hunting a witness for power
+
+## References
+
+- [[The Restoration Movement]]
+- [[The Restoration Movement (D&D_References)]]

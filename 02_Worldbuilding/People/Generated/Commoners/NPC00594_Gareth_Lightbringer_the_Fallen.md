@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Lightbringer the Fallen", "gareth lightbringer the fallen", "Gareth Lightbringer Fallen", "Fallen the Lightbringer Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Lightbringer the Fallen
 
 *Aasimar Baker (Commoners), Age 40, Non-binary*
@@ -13,7 +19,6 @@
 Above average and heavyset, with Mohawk red hair and Green eyes. Tan skin. Ethereal beauty that seems otherworldly.
 
 **Clothing**: Traveler's cloak over sturdy road clothes
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Flirts with everyone regardless of interest; Collects unusual and worthless objects
@@ -35,7 +40,6 @@ Runaway from an arranged marriage, starting a new life Strange abilities have be
 ### Goals
 - **Short Term**: Gather information
 - **Long Term**: Find redemption
-
 
 ## Relationships
 ### Gareth Stormwind the Broken (Political - Ally)

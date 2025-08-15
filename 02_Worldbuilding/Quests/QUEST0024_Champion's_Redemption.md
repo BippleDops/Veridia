@@ -1,4 +1,5 @@
 ---
+aliases: ["Champion's Redemption", "champion's redemption", "Redemption Champion's"]
 tags: [generated]
 id: QUEST0024
 created: 2025-08-15T04:09:51.377Z

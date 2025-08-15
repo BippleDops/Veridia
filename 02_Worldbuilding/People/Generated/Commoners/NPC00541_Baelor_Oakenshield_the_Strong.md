@@ -1,3 +1,9 @@
+---
+aliases: ["Baelor Oakenshield the Strong", "baelor oakenshield the strong", "Baelor Oakenshield Strong", "Strong the Oakenshield Baelor"]
+tags: [npc, character]
+type: npc
+---
+
 # Baelor Oakenshield the Strong
 
 *Goliath Baker (Commoners), Age 54, Male*
@@ -13,7 +19,6 @@
 Short and imposing, with Wild and unkempt unusual color hair and Hazel eyes. Weathered skin. Weather-beaten face showing hard life.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Speaks to inanimate objects; Laughs at the most inappropriate times; Believes in every conspiracy theory
@@ -42,11 +47,9 @@ Former soldier trying to adjust to civilian life A chance encounter last winter 
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Hestara Voidwalker the Bold (Criminal - Target)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ### Idris Brightblade the Broken (Political - Spy)
 - **Status**: Mutually beneficial

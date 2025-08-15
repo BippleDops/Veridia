@@ -1,4 +1,5 @@
 ---
+aliases: ["Cursed Gauntlet of the Dawn", "cursed gauntlet of the dawn", "Cursed Gauntlet of Dawn", "Dawn the of Gauntlet Cursed"]
 tags: [generated]
 id: ITEM0106
 created: 2025-08-15T04:09:51.111Z
@@ -19,8 +20,6 @@ Crafted from adamantine with delicate filigree, in ancient but unbreakable. It e
 
 ## Quirk
 *Changes color with user's mood*
-
-
 
 ## History
 This item was reforged from broken artifacts millennia ago. It has passed through many hands, each leaving their mark upon its destiny.

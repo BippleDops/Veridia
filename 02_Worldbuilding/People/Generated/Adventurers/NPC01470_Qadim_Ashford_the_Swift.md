@@ -1,3 +1,9 @@
+---
+aliases: ["Qadim Ashford the Swift", "qadim ashford the swift", "Qadim Ashford Swift", "Swift the Ashford Qadim"]
+tags: [npc, character]
+type: npc
+---
+
 # Qadim Ashford the Swift
 
 *Goliath Ranger (Adventurers), Age 43, Male*
@@ -42,11 +48,9 @@ Chosen by fate to fulfill an ancient prophecy Strange abilities have begun manif
 - **Status**: Mutually beneficial
 - **History**: Accidentally bound by magic
 
-
 ### Vesper Underhill the Fallen (Professional - Partner)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ### Aldric Thornweave the Lost (Criminal - Accomplice)
 - **Status**: Blood oath bound
@@ -56,7 +60,6 @@ Chosen by fate to fulfill an ancient prophecy Strange abilities have begun manif
 ### Corvus Stormwind the Mystic (Political - Puppet)
 - **Status**: Professional only
 - **History**: Teacher and student relationship
-
 
 ### Hilda Underhill the Bold (Family - Parent)
 - **Status**: Complicated history

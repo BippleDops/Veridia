@@ -1,3 +1,9 @@
+---
+aliases: ["Distilled Potion of Vigor", "distilled potion of vigor", "Vigor of Potion Distilled"]
+tags: [item, equipment]
+type: item
+---
+
 # Distilled Potion of Vigor
 
 *Consumables, Rare*

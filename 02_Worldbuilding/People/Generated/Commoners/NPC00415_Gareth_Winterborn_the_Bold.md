@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Winterborn the Bold", "gareth winterborn the bold", "Gareth Winterborn Bold", "Bold the Winterborn Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Winterborn the Bold
 
 *Tiefling Baker (Commoners), Age 46, Female*
@@ -36,12 +42,10 @@ Former soldier trying to adjust to civilian life They've made a deal they're beg
 - **Short Term**: Survive until next week
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Lyanna Lightbringer the Swift (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ### Aeliana Underhill the Lost (Criminal - Target)
 - **Status**: Secretly hostile
@@ -51,7 +55,6 @@ Former soldier trying to adjust to civilian life They've made a deal they're beg
 ### Nerys Ravenheart the Wanderer (Political - Spy)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ### Delara Voidwalker the Wise (Criminal - Target)
 - **Status**: Professional only

@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Darkwater the Mystic", "faelyn darkwater the mystic", "Faelyn Darkwater Mystic", "Mystic the Darkwater Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Darkwater the Mystic
 
 *Tiefling Appraiser (Merchants), Age 63, Female*
@@ -36,7 +42,6 @@ Former adventurer who retired to open a shop They've been marked by a secret soc
 - **Short Term**: Make this month's payment
 - **Long Term**: Find redemption
 
-
 ## Relationships
 ### Pyria Silverleaf the Bold (Family - Parent)
 - **Status**: Strained but maintaining
@@ -47,11 +52,9 @@ Former adventurer who retired to open a shop They've been marked by a secret soc
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Elric Crystalbrook the Wise (Family - Child)
 - **Status**: Blood oath bound
 - **History**: Bonded over shared tragedy
-
 
 ### Branwen Crystalbrook the Risen (Criminal - Handler)
 - **Status**: Secretly hostile

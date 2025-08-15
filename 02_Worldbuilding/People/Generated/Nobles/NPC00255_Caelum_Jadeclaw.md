@@ -1,3 +1,9 @@
+---
+aliases: ["Caelum Jadeclaw", "caelum jadeclaw", "Jadeclaw Caelum"]
+tags: [npc, character]
+type: npc
+---
+
 # Caelum Jadeclaw
 
 *Half-Orc Heir (Nobles), Age 32, Male*
@@ -36,27 +42,22 @@ Born into one of the oldest noble families, but a scandal threatens their inheri
 - **Short Term**: Complete current contract
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Jorah Xendar the Wise (Professional - Employee)
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
 
-
 ### Nerys Ironwood (Personal - Nemesis)
 - **Status**: Secretly hostile
 - **History**: Teacher and student relationship
-
 
 ### Thalia Darkwater (Personal - Childhood friend)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
 
-
 ### Zephyr Silverleaf the Fallen (Political - Opposition)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
-
 
 ### Ysara Thornweave the Strong (Political - Ally)
 - **Status**: Recently reconciled

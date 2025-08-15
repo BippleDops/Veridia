@@ -244,7 +244,7 @@ In [[Reality Merge Zones]], combatants may exist across multiple dimensional sta
 - **Specialized senses**: Act normally in total darkness
 - **Streamlined forms**: +1 initiative when moving
 
-### [[Aerial Combat]] Initiative
+### [[Aerial_Combat|Aerial Combat]] Initiative
 
 **Flight Initiative Considerations**:
 - **Altitude Advantage**: Higher altitude grants +1 initiative

@@ -1,3 +1,9 @@
+---
+aliases: ["Kaelen Youngblood the Fallen", "kaelen youngblood the fallen", "Kaelen Youngblood Fallen", "Fallen the Youngblood Kaelen"]
+tags: [npc, character]
+type: npc
+---
+
 # Kaelen Youngblood the Fallen
 
 *Gnome Ranger (Adventurers), Age 28, Male*
@@ -42,11 +48,9 @@ Running from a dark past that won't stay buried Strange abilities have begun man
 - **Status**: Secretly hostile
 - **History**: Saved each other's lives during the war
 
-
 ### Ysara Youngblood the Fallen (Criminal - Informant)
 - **Status**: Mutually beneficial
 - **History**: Teacher and student relationship
-
 
 ### Hilda Ravenheart the Redeemed (Family - Sibling)
 - **Status**: Strained but maintaining
@@ -61,7 +65,6 @@ Running from a dark past that won't stay buried Strange abilities have begun man
 ### Brenna Stormwind the Redeemed (Political - Puppet)
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Has died and been resurrected

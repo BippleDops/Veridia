@@ -1,3 +1,9 @@
+---
+aliases: ["Wynne Xendar the Seeker", "wynne xendar the seeker", "Wynne Xendar Seeker", "Seeker the Xendar Wynne"]
+tags: [npc, character]
+type: npc
+---
+
 # Wynne Xendar the Seeker
 
 *Half-Orc Crime Boss (Villains), Age 55, Male*
@@ -13,7 +19,6 @@
 Very tall and wiry, with Partially shaved brown hair and Black eyes. Fair skin. Burn scars on one side of face.
 
 **Clothing**: Mage robes covered in arcane symbols
-
 
 ## Personality
 - **Traits**: Sees doom and gloom everywhere; Collects unusual and worthless objects; Never uses people's real names
@@ -36,7 +41,6 @@ Betrayed by those they trusted, now seeking revenge on the world They recently d
 - **Short Term**: Recruit new members
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Aeliana Youngblood the Redeemed (Professional - Rival)
 - **Status**: One-sided affection
@@ -47,21 +51,17 @@ Betrayed by those they trusted, now seeking revenge on the world They recently d
 - **Status**: Complicated history
 - **History**: Grew up together in the same neighborhood
 
-
 ### Hestara Grimholt the Scholar (Personal - Best friend)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
-
 
 ### Jorah Ironwood the Wanderer (Political - Opposition)
 - **Status**: One-sided affection
 - **History**: Met during a heist gone wrong
 
-
 ### Rhiannon Goldleaf the Broken (Family - Spouse)
 - **Status**: Complicated history
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Knows how the world will end

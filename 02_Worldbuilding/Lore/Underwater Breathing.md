@@ -54,7 +54,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -391,7 +391,7 @@ Comprehensive protection systems address environmental threats:
 
 - **Contamination Detection**: Monitoring systems identifying breathing hazards
 - **Rapid Response**: Emergency procedures for containing and neutralizing threats
-- **Public Warning**: [[Communication Systems]] alerting citizens to breathing dangers
+- **Public Warning**: [[Communication_Systems|Communication Systems]] alerting citizens to breathing dangers
 - **Alternative Life Support**: Backup breathing systems during environmental emergencies
 - **Decontamination**: Procedures for cleaning and restoring compromised breathing systems
 
@@ -423,9 +423,9 @@ Cooperation with surface realm researchers offers mutual benefits for breathing 
 
 **Joint Development Projects:**
 - **Dual-Environment Breathing**: Systems supporting life in both water and air
-- **Reality Transition Support**: Breathing management during [[Dimensional Travel]]
+- **Reality Transition Support**: Breathing management during [[Dimensional_Travel|Dimensional Travel]]
 - **Emergency Cross-Realm Evacuation**: Breathing support for mass population movement
-- **[[[[Cultural Exchange]] Programs]]**: Breathing technology sharing between realms
+- **[[Cultural Exchange|[[Cultural Exchange]] Programs]]**: Breathing technology sharing between realms
 - **Convergence Preparation**: Breathing systems designed for merged reality environment
 
 ### Medical and Therapeutic Applications
@@ -540,7 +540,7 @@ Underwater Breathing is a undersea element of the setting, known for bioluminesc
 
 Legends speak of Underwater Breathing as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Underwater Breathing.
 
-## [[DM Notes]]
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 
@@ -583,3 +583,23 @@ Mentioned in The Hidden Prophecy of Winds
 - Civil war
 - Natural disasters
 - Current [[Power Structures]] established
+
+## References
+
+- [[Crystal Forest]]
+- [[Crystal-Corruption-Tracking-Sheet]]
+- [[Depth Effect Quick Reference]]
+- [[Pressure Adaptation System]]
+- [[The Breathing Stone]]
+- [[The Deep Harvest]]
+- [[Tidal Chambers]]
+- [[Working Class Routines]]
+- [[Depth Warden Patrol]]
+- [[Supplier Erikson Tidecaller]]
+- [[Crystal Forest (D&D_References)]]
+- [[Crystal-Corruption-Tracking-Sheet (D&D_References)]]
+- [[Depth Effect Quick Reference (D&D_References)]]
+- [[Pressure Adaptation System (D&D_References)]]
+- [[The Deep Harvest (D&D_References)]]
+- [[The Depth Chart]]
+- [[Tidal Chambers (D&D_References)]]

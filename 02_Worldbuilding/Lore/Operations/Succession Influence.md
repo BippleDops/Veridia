@@ -115,3 +115,8 @@ improvements: 20
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## References
+
+- [[Political Intrigue Master Index]]
+- [[Tenebrarum Embassy]]

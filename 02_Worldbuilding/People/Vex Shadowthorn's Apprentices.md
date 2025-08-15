@@ -44,7 +44,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-vex-shadowthorn-s-apprentices-v1-vex-shadowthorn-s-apprentices.svg)
 
@@ -52,7 +51,6 @@ improvements: 20
 
 # Vex Shadowthorn's Apprentices
 *The Next Generation of Shadow*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -421,7 +419,6 @@ Legends speak of Vex Shadowthorn's Apprentices as a nexus where past and present
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -457,3 +454,10 @@ Legends speak of Vex Shadowthorn's Apprentices as a nexus where past and present
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Party Shadows (Criminal_Organizations)]]
+- [[Assets Locations Location City Master Curator Pearl Artflow V1 Master Curator Pearl Artflow.svg]]
+- [[Aethermoor - Session 02 The Lighthouse of Storms]]
+- [[Party Shadows]]

@@ -75,7 +75,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## Spell Components Detail
 - **Verbal**: Specific words
 - **Somatic**: Hand movements
@@ -94,4 +93,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - **Available to**: Check class spell lists
 
 ### CLI Reference
-See: `[[list-spells-classes-monk (lists)-phb]]` in CLI_Reference/spells/
+See: `[[classes|list-spells-classes-monk (lists)-phb]]` in CLI_Reference/spells/

@@ -50,12 +50,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-uniting-the-factions-uniting-the-factions.svg)
 
 # Uniting the Factions
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -254,7 +252,6 @@ Mentioned in The First Prophecy of Shadows
 - 6pm: Return home
 - 8pm: Sleep
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -290,3 +287,11 @@ Mentioned in The First Prophecy of Shadows
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Lord Marcus Shadowbane]]
+- [[Marina-Red-Tide-Coralheart]]
+- [[Aethermoor - Session 06 The Bloodline Awakens]]
+- [[Lord Marcus Shadowbane (D&D_References)]]
+- [[Marina-Red-Tide-Coralheart (D&D_References)]]

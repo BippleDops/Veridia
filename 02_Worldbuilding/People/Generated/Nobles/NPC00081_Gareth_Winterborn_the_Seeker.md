@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Winterborn the Seeker", "gareth winterborn the seeker", "Gareth Winterborn Seeker", "Seeker the Winterborn Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Winterborn the Seeker
 
 *Dragonborn Ambassador (Nobles), Age 20, Non-binary*
@@ -36,12 +42,10 @@ Last survivor of a fallen house, seeking to restore family honor They've fallen 
 - **Short Term**: Find missing person
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Brenna Darkwater (Personal - Nemesis)
 - **Status**: Strong and trusting
 - **History**: Bitter rivals who learned respect
-
 
 ### Malakai Brightblade (Criminal - Target)
 - **Status**: Blood oath bound
@@ -52,16 +56,13 @@ Last survivor of a fallen house, seeking to restore family honor They've fallen 
 - **Status**: Mutually beneficial
 - **History**: Arranged partnership that grew genuine
 
-
 ### Elric Ironwood (Political - Opposition)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
 
-
 ### Aldric Ironwood (Personal - Childhood friend)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Secretly funding the rebellion

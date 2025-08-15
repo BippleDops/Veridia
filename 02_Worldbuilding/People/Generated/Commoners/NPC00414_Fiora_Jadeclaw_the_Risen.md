@@ -1,3 +1,9 @@
+---
+aliases: ["Fiora Jadeclaw the Risen", "fiora jadeclaw the risen", "Fiora Jadeclaw Risen", "Risen the Jadeclaw Fiora"]
+tags: [npc, character]
+type: npc
+---
+
 # Fiora Jadeclaw the Risen
 
 *Genasi Baker (Commoners), Age 75, Non-binary*
@@ -36,32 +42,26 @@ Survivor of a disaster that destroyed their village They recently discovered a s
 - **Short Term**: Recruit new members
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Dara Crystalbrook the Mystic (Personal - Childhood friend)
 - **Status**: Recently reconciled
 - **History**: United by common enemy
 
-
 ### Nerys Moonshadow the Mystic (Professional - Employer)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
-
 
 ### Dara Quicksilver the Wanderer (Professional - Employee)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Pyria Ironforge the Guardian (Professional - Employer)
 - **Status**: One-sided affection
 - **History**: Teacher and student relationship
 
-
 ### Baelor Silverleaf the Swift (Personal - Ex-lover)
 - **Status**: On the verge of collapse
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Has dragon blood in their veins

@@ -79,3 +79,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Related
 
 *Links to related content will be added here.*
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[09 Appendix a Lore Glossary]]
+- [[09-appendix-a-lore-glossary (dungeon-masters-guide-2024)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Sorcerer Xphb Aberrant Sorcery Xphb]]
+- [[sorcerer-xphb-aberrant-sorcery-xphb (classes)]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Aeliana Frostwhisper the Broken", "aeliana frostwhisper the broken", "Aeliana Frostwhisper Broken", "Broken the Frostwhisper Aeliana"]
+tags: [npc, character]
+type: npc
+---
+
 # Aeliana Frostwhisper the Broken
 
 *Tiefling Assassin (Villains), Age 44, Male*
@@ -36,22 +42,18 @@ Born into evil but questioning their path A chance encounter last winter changed
 - **Short Term**: Recruit new members
 - **Long Term**: Master their craft
 
-
 ## Relationships
 ### Vesper Ironwood the Swift (Professional - Mentor)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Orion Frostwhisper the Lost (Family - Spouse)
 - **Status**: Strained but maintaining
 - **History**: Met during a heist gone wrong
 
-
 ### Qadim Quicksilver the Wanderer (Political - Puppet)
 - **Status**: One-sided affection
 - **History**: Arranged partnership that grew genuine
-
 
 ### Kaelen Grimholt the Mystic (Personal - Best friend)
 - **Status**: Professional only
@@ -61,7 +63,6 @@ Born into evil but questioning their path A chance encounter last winter changed
 ### Aldric Ashford the Mystic (Personal - Love interest)
 - **Status**: One-sided affection
 - **History**: Bonded over shared tragedy
-
 
 ## Secrets
 1. Is being controlled by darker force

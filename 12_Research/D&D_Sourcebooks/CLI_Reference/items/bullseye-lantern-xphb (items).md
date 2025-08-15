@@ -87,3 +87,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[07 Chapter 6 Equipment]]
+- [[07-chapter-6-equipment (players-handbook-2024)]]
+- [[Entertainers Pack Xphb]]
+- [[Robe of Useful Items Xdmg]]
+- [[Tinkers Tools Xphb]]
+- [[entertainers-pack-xphb (items)]]
+- [[robe-of-useful-items-xdmg (items)]]
+- [[tinkers-tools-xphb (items)]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

@@ -43,7 +43,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-shadow-citizenship-act-shadow-citizenship-act.svg)
 
@@ -52,7 +51,6 @@ improvements: 20
 # Shadow Citizenship Act
 
 *"Even those who walk in darkness deserve the light of citizenship." - Councillor Elena Voidwhisper*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -298,7 +296,6 @@ iched: true -->
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -334,3 +331,13 @@ iched: true -->
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure]]
+- [[Assets Locations Location City Master Archivist Valdric Stonewhisper Master Archivist Valdric Stonewhisper.svg]]
+- [[Senator Glaucus]]
+- [[The Eternal Senate]]
+- [[Whisper-Touched William]]
+- [[Senator Glaucus (D&D_References)]]
+- [[Shadow Citizenship Act (D&D_References)]]

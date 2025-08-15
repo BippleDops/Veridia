@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Ironwood the Swift", "lyanna ironwood the swift", "Lyanna Ironwood Swift", "Swift the Ironwood Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Ironwood the Swift
 
 *Firbolg Dark Wizard (Villains), Age 35, Female*
@@ -42,16 +48,13 @@ Believes their evil acts serve a greater good A prophetic dream has been hauntin
 - **Status**: Complicated history
 - **History**: Arranged partnership that grew genuine
 
-
 ### Corvus Youngblood the Lost (Political - Opposition)
 - **Status**: On the verge of collapse
 - **History**: Arranged partnership that grew genuine
 
-
 ### Hestara Darkwater the Swift (Political - Puppet)
 - **Status**: Strained but maintaining
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Is being controlled by darker force

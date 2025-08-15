@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Ashford the Bold", "gavril ashford the bold", "Gavril Ashford Bold", "Bold the Ashford Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Ashford the Bold
 
 *Goliath Baker (Commoners), Age 34, Female*
@@ -13,7 +19,6 @@
 Above average and slender, with Shaved red hair and Red eyes. Dark skin. Gold tooth that glints when smiling.
 
 **Clothing**: Noble's finery, slightly out of current fashion
-
 
 ## Personality
 - **Traits**: Collects unusual and worthless objects; Never uses people's real names
@@ -36,7 +41,6 @@ Grew up in poverty but discovered a talent that might change everything A chance
 - **Short Term**: Complete current contract
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Thalia Oakenshield the Cunning (Personal - Best friend)
 - **Status**: Blood oath bound
@@ -47,11 +51,9 @@ Grew up in poverty but discovered a talent that might change everything A chance
 - **Status**: Blood oath bound
 - **History**: Saved each other's lives during the war
 
-
 ### Idris Xendar the Wise (Political - Opposition)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Witnessed a noble's crime

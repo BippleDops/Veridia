@@ -1,3 +1,9 @@
+---
+aliases: ["Gavril Goldleaf the Risen", "gavril goldleaf the risen", "Gavril Goldleaf Risen", "Risen the Goldleaf Gavril"]
+tags: [npc, character]
+type: npc
+---
+
 # Gavril Goldleaf the Risen
 
 *Dwarf Shopkeeper (Merchants), Age 56, Female*
@@ -36,7 +42,6 @@ Inherited a failing business and turned it around They're being blackmailed by s
 - **Short Term**: Gather information
 - **Long Term**: Uncover the truth about their past
 
-
 ## Relationships
 ### Rhiannon Nightfall the Mystic (Criminal - Handler)
 - **Status**: Strong and trusting
@@ -46,7 +51,6 @@ Inherited a failing business and turned it around They're being blackmailed by s
 ### Rhiannon Emberfall the Fallen (Family - Cousin)
 - **Status**: Recently reconciled
 - **History**: Teacher and student relationship
-
 
 ### Drusilla Blackstone the Lost (Personal - Love interest)
 - **Status**: Professional only
@@ -61,7 +65,6 @@ Inherited a failing business and turned it around They're being blackmailed by s
 ### Drusilla Hawthorne the Bold (Personal - Childhood friend)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ## Secrets
 1. Killed previous business owner

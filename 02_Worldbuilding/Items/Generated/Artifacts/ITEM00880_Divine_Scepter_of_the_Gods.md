@@ -1,3 +1,9 @@
+---
+aliases: ["Divine Scepter of the Gods", "divine scepter of the gods", "Divine Scepter of Gods", "Gods the of Scepter Divine"]
+tags: [item, equipment]
+type: item
+---
+
 # Divine Scepter of the Gods
 
 *Artifacts, Legendary (requires attunement)*

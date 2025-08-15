@@ -1,11 +1,11 @@
 ---
+aliases: ["Ivan Goldleaf", "ivan goldleaf", "Goldleaf Ivan"]
 tags: [, generated]
   - npc
   - character
   - generated
 type: npc
 ---
-
 
 ## Stats
 - **AC**: 12
@@ -74,8 +74,6 @@ Born into a noble family but cast out for scandal. Years ago, they made a deal t
 ### Skills
 Perception, Deception, Insight
 
-
-
 ## Possessions
 - 25 gold pieces
 - Family heirloom (locket)
@@ -87,7 +85,6 @@ Perception, Deception, Insight
 
 ---
 *Generated: 2025-08-15T03:21:04.036Z*
-
 
 ## Voice & Mannerisms
 - **Voice**: Tone and speech patterns

@@ -1,4 +1,5 @@
 ---
+aliases: ["PortGate", "portgate"]
 tags: [generated]
 id: LOC0039
 created: 2025-08-15T04:09:51.255Z
@@ -21,20 +22,17 @@ A secret location used by those who wish to remain hidden
 - **Current Leader**: Mayor elected every 4 years
 - **Political Stability**: Unstable
 
-
 ## Notable Locations
 - **Town Square**: Central gathering place
 - **Market District**: Commerce hub
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -92,7 +90,6 @@ A secret location used by those who wish to remain hidden
 
 ---
 *Generated: 2025-08-15T03:21:04.072Z*
-
 
 ## History
 - **Founding**: Origin story

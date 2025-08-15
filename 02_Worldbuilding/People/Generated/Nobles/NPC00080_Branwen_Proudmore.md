@@ -1,3 +1,9 @@
+---
+aliases: ["Branwen Proudmore", "branwen proudmore", "Proudmore Branwen"]
+tags: [npc, character]
+type: npc
+---
+
 # Branwen Proudmore
 
 *Halfling Courtier (Nobles), Age 54, Non-binary*
@@ -13,7 +19,6 @@
 Below average and imposing, with Partially shaved silver hair and Blue eyes. Dark skin. Missing ear from old battle.
 
 **Clothing**: Barbarian furs and leather
-
 
 ## Personality
 - **Traits**: Incredibly optimistic despite evidence; Flirts with everyone regardless of interest
@@ -36,7 +41,6 @@ Secretly adopted into nobility, living in fear of discovery They've been marked 
 - **Short Term**: Recruit new members
 - **Long Term**: Protect their loved ones
 
-
 ## Relationships
 ### Baelor Ironwood the Redeemed (Family - Child)
 - **Status**: Strong and trusting
@@ -47,16 +51,13 @@ Secretly adopted into nobility, living in fear of discovery They've been marked 
 - **Status**: Complicated history
 - **History**: Bitter rivals who learned respect
 
-
 ### Drusilla Jadeclaw the Seeker (Professional - Employee)
 - **Status**: Strong and trusting
 - **History**: Saved each other's lives during the war
 
-
 ### Felicia Jadeclaw (Political - Spy)
 - **Status**: Recently reconciled
 - **History**: Met during a heist gone wrong
-
 
 ### Zephyr Frostwhisper (Criminal - Handler)
 - **Status**: One-sided affection
@@ -66,7 +67,6 @@ Secretly adopted into nobility, living in fear of discovery They've been marked 
 ### Dara Quicksilver the Scholar (Criminal - Accomplice)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Actually a bastard with no real claim

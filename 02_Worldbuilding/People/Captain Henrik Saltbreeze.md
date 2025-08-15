@@ -35,12 +35,10 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-henrik-saltbreeze-captain-henrik-saltbreeze.svg)
 
 > [!figure] Portrait
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -216,7 +214,6 @@ Member of House Wolfblood - Trait: magical affinity
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -286,3 +283,9 @@ ___
 
 ## Sourcebook Reference
 > Based on **Commoner** (MM p.345) with modifications
+
+## References
+
+- [[Quest - The Lost Expedition]]
+- [[Assets Symbols Symbol Heraldry Information Exchanges Information Exchanges.svg]]
+- [[Assets Symbols Symbol Heraldry Quest the Family Reconciliatio Quest the Family Reconciliatio.svg]]

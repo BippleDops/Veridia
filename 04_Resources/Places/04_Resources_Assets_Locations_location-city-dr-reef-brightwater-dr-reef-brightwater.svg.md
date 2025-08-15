@@ -102,3 +102,9 @@ Further information about this topic will be developed as the campaign progresse
 - **Environmental Hazards**: *[Natural dangers]*
 - **Political Tensions**: *[Social conflicts]*
 - **Crime**: *[Types and frequency]*
+
+## References
+
+- [[Assets Locations Location City Dr Marina Voidstudier Dr Marina Voidstudier.svg]]
+- [[Assets Locations Location City Harbor Master Captain Dockwise V1 Harbor Master Captain Dockwise.svg]]
+- [[Assets Locations Location City Quartermaster Shadow Supply V1 Quartermaster Shadow Supply.svg]]

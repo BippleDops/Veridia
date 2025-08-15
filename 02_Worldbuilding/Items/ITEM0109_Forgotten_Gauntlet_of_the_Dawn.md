@@ -1,4 +1,5 @@
 ---
+aliases: ["Forgotten Gauntlet of the Dawn", "forgotten gauntlet of the dawn", "Forgotten Gauntlet of Dawn", "Dawn the of Gauntlet Forgotten"]
 tags: [generated]
 id: ITEM0109
 created: 2025-08-15T04:09:51.112Z

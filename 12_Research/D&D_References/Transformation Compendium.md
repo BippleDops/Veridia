@@ -1018,3 +1018,10 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Crystal - Crystal_Resonanc]]
+- [[Crystal - Crystal_Resonance]]
+- [[Transformations - Crystal - Crystal Resonanc]]
+- [[Transformations - Crystal - Crystal Resonance]]

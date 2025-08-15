@@ -1,3 +1,9 @@
+---
+aliases: ["Nerys Winterborn the Lost", "nerys winterborn the lost", "Nerys Winterborn Lost", "Lost the Winterborn Nerys"]
+tags: [npc, character]
+type: npc
+---
+
 # Nerys Winterborn the Lost
 
 *Half-Elf Fighter (Adventurers), Age 51, Female*
@@ -36,17 +42,14 @@ Searching for a legendary treasure their parent died seeking They've fallen in l
 - **Short Term**: Find missing person
 - **Long Term**: Build a lasting legacy
 
-
 ## Relationships
 ### Felicia Keenblade the Swift (Political - Spy)
 - **Status**: Mutually beneficial
 - **History**: United by common enemy
 
-
 ### Felicia Zephyrblade the Lost (Political - Opposition)
 - **Status**: Blood oath bound
 - **History**: Accidentally bound by magic
-
 
 ### Wynne Brightblade the Strong (Political - Spy)
 - **Status**: Recently reconciled

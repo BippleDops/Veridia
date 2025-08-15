@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -263,3 +263,28 @@ Adapt as needed for:
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+## References
+
+- [[Interrogation Techniques]]
+- [[Investigation Procedures]]
+- [[Merchant Family Alliances]]
+- [[Political Compromise Costs]]
+- [[Quarantine Enforcement]]
+- [[Relationship Web Nuances]]
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Abyssos Prime Docks]]
+- [[Blood Current Express]]
+- [[Depth Wardens]]
+- [[Inverted Ballroom Wing]]
+- [[Mourning Depths]]
+- [[Pressure Suit Malfunction]]
+- [[Pressure Terminal]]
+- [[Reflection Pools - Surgical Theater]]
+- [[Sister Morwyn]]
+- [[Temple Ward]]
+- [[The Crystalline Foundry]]
+- [[The Depth Market]]
+- [[The Free Current]]
+- [[The Phosphor Markets]]
+- [[The Lock Saboteur]]

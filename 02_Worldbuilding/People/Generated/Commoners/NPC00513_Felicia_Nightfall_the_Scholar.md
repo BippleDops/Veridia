@@ -1,3 +1,9 @@
+---
+aliases: ["Felicia Nightfall the Scholar", "felicia nightfall the scholar", "Felicia Nightfall Scholar", "Scholar the Nightfall Felicia"]
+tags: [npc, character]
+type: npc
+---
+
 # Felicia Nightfall the Scholar
 
 *Gnome Blacksmith (Commoners), Age 69, Male*
@@ -36,17 +42,14 @@ Survivor of a disaster that destroyed their village They recently discovered a s
 - **Short Term**: Complete current contract
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Orion Dawnstrider the Mystic (Personal - Love interest)
 - **Status**: One-sided affection
 - **History**: Former lovers who remained friends
 
-
 ### Rhiannon Thornweave the Risen (Personal - Best friend)
 - **Status**: Complicated history
 - **History**: Teacher and student relationship
-
 
 ### Idris Proudmore (Personal - Childhood friend)
 - **Status**: Mutually beneficial

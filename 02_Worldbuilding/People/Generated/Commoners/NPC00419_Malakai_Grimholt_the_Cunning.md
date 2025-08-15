@@ -1,3 +1,9 @@
+---
+aliases: ["Malakai Grimholt the Cunning", "malakai grimholt the cunning", "Malakai Grimholt Cunning", "Cunning the Grimholt Malakai"]
+tags: [npc, character]
+type: npc
+---
+
 # Malakai Grimholt the Cunning
 
 *Goliath Fisher (Commoners), Age 28, Male*
@@ -42,16 +48,13 @@ Grew up in poverty but discovered a talent that might change everything A prophe
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Ewan Moonshadow the Redeemed (Political - Patron)
 - **Status**: Complicated history
 - **History**: United by common enemy
 
-
 ### Branwen Hawthorne the Lost (Professional - Mentor)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Witnessed a noble's crime

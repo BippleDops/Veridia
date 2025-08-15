@@ -1,3 +1,9 @@
+---
+aliases: ["Orion Underhill the Fallen", "orion underhill the fallen", "Orion Underhill Fallen", "Fallen the Underhill Orion"]
+tags: [npc, character]
+type: npc
+---
+
 # Orion Underhill the Fallen
 
 *Goliath Corrupt Noble (Villains), Age 67, Non-binary*
@@ -13,7 +19,6 @@
 Towering and wiry, with Dreadlocks red hair and Hazel eyes. Scarred skin. Crooked nose from multiple breaks.
 
 **Clothing**: Simple peasant clothes, patched but clean
-
 
 ## Personality
 - **Traits**: Never uses people's real names; Collects unusual and worthless objects
@@ -36,22 +41,18 @@ Betrayed by those they trusted, now seeking revenge on the world A family member
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Qadim Crystalbrook the Cunning (Professional - Partner)
 - **Status**: Recently reconciled
 - **History**: Arranged partnership that grew genuine
 
-
 ### Aeliana Jadeclaw the Seeker (Criminal - Handler)
 - **Status**: Secretly hostile
 - **History**: Accidentally bound by magic
 
-
 ### Hestara Quicksilver the Seeker (Criminal - Target)
 - **Status**: Strong and trusting
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Knows how the world will end

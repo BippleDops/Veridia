@@ -362,7 +362,6 @@ Environmental Effects = Standard + Corruption Hazards
 - [[Advanced Version]]
 - [[Historical Context]]
 
-
 ## Scaling by Party Level
 - **Level 1-4**: Reduce enemies
 - **Level 5-10**: Standard difficulty

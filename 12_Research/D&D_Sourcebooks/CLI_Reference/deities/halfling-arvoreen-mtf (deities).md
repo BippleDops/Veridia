@@ -1,5 +1,5 @@
 ---
-title: halfling-arvoreen-mtf (deities)
+title: halfling-arvoreen-mtf ([[deities|deities]])
 type: note
 tags:
 - note
@@ -10,7 +10,7 @@ modified: '2025-01-15'
 # halfling-arvoreen-mtf
 
 ---
-title: halfling arvoreen mtf
+title: [[Halfling Arvoreen Mtf|Halfling Arvoreen Mtf]]
 type: research
 tags:
 - world/both
@@ -36,15 +36,15 @@ world: Both
 
 - Add 12_Research-specific enhancement
 
-## Player-Facing Summary
+## Player-[[facing|facing]] Summary
 
 Halfling arvoreen mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [[Lore|Lore]] Details
 
-Legends speak of halfling arvoreen mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around halfling arvoreen mtf.
+Legends speak of halfling arvoreen mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or [[Whispers|Whispers]] on the wind—that herald change around halfling arvoreen mtf.
 
-## DM Notes
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -69,3 +69,6 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+---
+**Navigation**: [[INDEX|🏠 Home]] | [[INDEX|📚 Index]]

@@ -1,3 +1,9 @@
+---
+aliases: ["Ethereal Chain Mail of Grace", "ethereal chain mail of grace", "Grace of Mail Chain Ethereal"]
+tags: [item, equipment]
+type: item
+---
+
 # Ethereal Chain Mail of Grace
 
 *Armor, Rare (requires attunement)*
@@ -15,8 +21,6 @@ A ethereal chain mail shimmering with energy
 - No stealth disadvantage
 - Grants swimming speed
 
-
-
 ## History
 Used in a ritual that changed history
 
@@ -31,7 +35,6 @@ Used in a ritual that changed history
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.390Z*

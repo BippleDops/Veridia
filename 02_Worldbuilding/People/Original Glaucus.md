@@ -46,7 +46,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-original-glaucus-original-glaucus.svg)
 
@@ -54,7 +53,6 @@ improvements: 20
 
 # Original Glaucus Tidecaller
 *The True Senator, The Forgotten Voice, Prisoner of Kelp*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -352,7 +350,6 @@ Legends speak of Original Glaucus as a nexus where past and present converge. Lo
 - Ritual cleansing required
 - Tithing of 10% income
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -388,3 +385,14 @@ Legends speak of Original Glaucus as a nexus where past and present converge. Lo
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure]]
+- [[Assets Symbols Symbol Heraldry the Brotherhood of the Black Anchor the Brotherhood of the Black Anchor.svg]]
+- [[Captain Elara Shadowshard]]
+- [[Senator Glaucus]]
+- [[Captain Elara Shadowshard (D&D_References)]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure (D&D_References)]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure 3 (D&D_References)]]
+- [[Senator Glaucus (D&D_References)]]

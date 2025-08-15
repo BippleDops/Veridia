@@ -54,7 +54,7 @@ An Archive is a repository of valuable books, maps, and scrolls. It is usually a
 
 ## Research: Helpful Lore
 
-When you issue the "Research" order to this facility, you commission the facility's hireling to search the Archive for helpful lore. The work takes 7 days. The hireling gains knowledge as if they had cast the [[legend lore xphb|Legend Lore]] spell, then shares this knowledge with you the next time you speak with them.
+When you issue the "Research" order to this facility, you commission the facility's hireling to search the Archive for helpful lore. The work takes 7 days. The hireling gains knowledge as if they had cast the [[Legend Lore Xphb|Legend Lore]] spell, then shares this knowledge with you the next time you speak with them.
 
 ## Reference Book
 

@@ -279,3 +279,8 @@ What they claim to pursue
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Cultural Exchange Centers]]
+- [[The Cultural Exchange Center]]

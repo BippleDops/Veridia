@@ -1,3 +1,9 @@
+---
+aliases: ["Radiant Sword of Accuracy", "radiant sword of accuracy", "Accuracy of Sword Radiant"]
+tags: [item, equipment]
+type: item
+---
+
 # Radiant Sword of Accuracy
 
 *Weapons, Uncommon (requires attunement)*
@@ -14,8 +20,6 @@ A radiant sword made of crystallized magic
 - Ignores resistance to damage type
 - Deals extra 1d6 elemental damage
 
-
-
 ## History
 Blessed by a deity in ancient times
 
@@ -30,7 +34,6 @@ Blessed by a deity in ancient times
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.373Z*

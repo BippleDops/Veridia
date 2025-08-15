@@ -80,3 +80,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Strange dreams suggest a curse
 - A noble needs help delivering before the festival
 - A noble needs help finding before the new moon
+
+## References
+
+- [[Master_Item_Catalog]]
+- [[Adventuring Gear Phb]]
+- [[adventuring-gear-phb (tables)]]

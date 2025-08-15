@@ -45,3 +45,10 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## References
+
+- [[2 Character Races]]
+- [[2-character-races (volos-guide-to-monsters)]]
+- [[Height and Weight Vgm]]
+- [[height-and-weight-vgm (tables)]]

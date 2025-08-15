@@ -1,3 +1,9 @@
+---
+aliases: ["Blazing Sword of Wounding", "blazing sword of wounding", "Wounding of Sword Blazing"]
+tags: [item, equipment]
+type: item
+---
+
 # Blazing Sword of Wounding
 
 *Weapons, Very Rare*
@@ -16,8 +22,6 @@ A blazing sword made of crystallized magic
 - +1 to attack and damage rolls
 - Grants advantage on initiative
 
-
-
 ## History
 Forged during the Age of Heroes for a legendary champion
 
@@ -32,7 +36,6 @@ Forged during the Age of Heroes for a legendary champion
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.378Z*

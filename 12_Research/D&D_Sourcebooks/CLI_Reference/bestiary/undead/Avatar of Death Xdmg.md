@@ -105,3 +105,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+## References
+
+- [[avatar-of-death-xdmg (undead)]]
+- [[Deck of Many Things 13 Cards Xdmg]]
+- [[Deck of Many Things Xdmg]]
+- [[deck-of-many-things-13-cards-xdmg (decks)]]
+- [[deck-of-many-things-xdmg (decks)]]
+- [[Deck of Many Things Xdmg (items)]]
+- [[deck-of-many-things-xdmg (items)]]

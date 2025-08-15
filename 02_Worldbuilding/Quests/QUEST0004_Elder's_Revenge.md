@@ -1,4 +1,5 @@
 ---
+aliases: ["Elder's Revenge", "elder's revenge", "Revenge Elder's"]
 tags: [generated]
 id: QUEST0004
 created: 2025-08-15T04:09:51.365Z
@@ -21,8 +22,6 @@ Broker peace between the merchant guild and the thieves guild
 
 ### Secondary
 - Recover additional valuable items
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they once saved a noble's life and earned their favor, which changed their life forever. Now, circumstances demand immediate action.
@@ -58,8 +57,6 @@ Years ago, a series of events set this quest in motion. undefined. Years ago, th
 **Options**:
 1. Show mercy and gain intel - Future ally but justice denied
 2. Execute for crimes committed - Justice served but opportunity lost
-
-
 
 ## Rewards
 ### On Success

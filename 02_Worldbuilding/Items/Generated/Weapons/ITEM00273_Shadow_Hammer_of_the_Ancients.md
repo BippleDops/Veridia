@@ -1,3 +1,9 @@
+---
+aliases: ["Shadow Hammer of the Ancients", "shadow hammer of the ancients", "Shadow Hammer of Ancients", "Ancients the of Hammer Shadow"]
+tags: [item, equipment]
+type: item
+---
+
 # Shadow Hammer of the Ancients
 
 *Weapons, Legendary (requires attunement)*
@@ -16,8 +22,6 @@ A shadow hammer made of crystallized magic
 - +1 to attack and damage rolls
 - Critical hits on 19-20
 
-
-
 ## History
 Crafted as payment for a life debt
 
@@ -32,7 +36,6 @@ Crafted as payment for a life debt
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.366Z*

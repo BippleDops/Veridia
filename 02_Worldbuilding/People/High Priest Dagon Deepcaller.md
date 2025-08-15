@@ -35,7 +35,6 @@ improvements: 20
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-high-priest-dagon-deepcaller-high-priest-dagon-deepcaller.svg)
 
@@ -43,7 +42,6 @@ improvements: 20
 
 # High Priest Dagon Deepcaller
 *Prophet of the Depths, Voice of the Leviathans*
-
 
 ## Relationships
 - **Allies**: Notable allies and friends
@@ -245,7 +243,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Member of House Lionblood - Trait: magical affinity
 
-
 ## Daily Routine
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
@@ -281,3 +278,13 @@ Member of House Lionblood - Trait: magical affinity
 ## Reputation
 - **Public Opinion**: How they're viewed
 - **Truth**: Actual nature
+
+## References
+
+- [[Campaign_Relationship_Matrix]]
+- [[Relationship Web Nuances]]
+- [[Assets Locations Location City Choir Master Celestine Hymnsinger V1 Choir Master Celestine Hymnsinger.svg]]
+- [[Assets Locations Location City Marine Druids V1 Marine Druids.svg]]
+- [[Assets Locations Location City the Crystalline Foundry V1 the Crystalline Foundry.svg]]
+- [[Assets Portraits Portrait NPC Captain Torrent Swiftcurrent Captain Torrent Swiftcurrent.svg]]
+- [[The Sunken Cathedral of Stars (D&D_References)]]

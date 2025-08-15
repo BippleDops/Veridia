@@ -53,7 +53,6 @@ status: active
 ## Potential Relationships
 * [Future relationship possibilities]*
 
-
 ## See Also
 - Related content
 - Similar topics

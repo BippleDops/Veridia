@@ -119,13 +119,11 @@ Archivist Stone Memorykeeper is a notable location characterized by its unique f
 ### Founding
 Archivist Stone Memorykeeper was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -133,13 +131,11 @@ Archivist Stone Memorykeeper was established in the distant past, growing from h
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -156,8 +152,6 @@ Ongoing situations affecting Archivist Stone Memorykeeper:
 - Social movements
 - External threats
 - Opportunities arising
-
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -194,3 +188,8 @@ Ongoing situations affecting Archivist Stone Memorykeeper:
 ## Daily Life
 - **Typical Day**: Common activities
 - **Special Events**: Celebrations and gatherings
+
+## References
+
+- [[The Foundation Depths]]
+- [[The Foundation Depths (D&D_Statblocks)]]

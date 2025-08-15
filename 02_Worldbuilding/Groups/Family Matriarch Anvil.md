@@ -128,3 +128,7 @@ Things widely suspected
 
 ### Complicated Relationships
 - **[Faction Name]**: *[Complex relationship details]*
+
+## References
+
+- [[Master Smith Vulcan Deepforge]]

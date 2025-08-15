@@ -1,5 +1,5 @@
 ---
-title: Atmospheric Research Society (D&D_References)
+title: [[Atmospheric Research Society|Atmospheric Research Society]] (D&D_References)
 type: note
 tags:
 - note
@@ -11,13 +11,13 @@ modified: '2025-01-15'
 
 ---
 title: Atmospheric Research Society
-type: Lore
+type: [[Lore|Lore]]
 tags:
 - lore
 - npc
 - research
 - active
-- aethermoor
+- [[Aethermoor|Aethermoor]]
 created: '2025-08-11'
 modified: '2025-08-14'
 status: active
@@ -37,15 +37,15 @@ updated: '2025-08-13T01:18:35.531766+00:00'
 
 - Add 12_Research-specific enhancement
 
-## Player-Facing Summary
+## Player-[[facing|facing]] Summary
 
 Atmospheric Research Society is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of Atmospheric Research Society as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Atmospheric Research Society.
+Legends speak of Atmospheric Research Society as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or [[Whispers|Whispers]] on the wind—that herald change around Atmospheric Research Society.
 
-## DM Notes
+## [[DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -56,3 +56,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+---
+**Navigation**: [[INDEX|🏠 Home]] | [[INDEX|📚 Index]]

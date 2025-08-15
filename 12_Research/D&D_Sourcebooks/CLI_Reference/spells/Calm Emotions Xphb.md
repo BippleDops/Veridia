@@ -99,3 +99,24 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## References
+
+- [[Master_Spell_Compendium]]
+- [[17 Chapter 15 Werewolf Den]]
+- [[17-chapter-15-werewolf-den (curse-of-strahd)]]
+- [[Silverquill Student Scc]]
+- [[silverquill-student-scc (backgrounds)]]
+- [[Unicorn Xmm]]
+- [[unicorn-xmm (celestial)]]
+- [[Empyrean Xmm]]
+- [[empyrean-xmm (miscellaneous)]]
+- [[12 Spells]]
+- [[12-spells (players-handbook-2014)]]
+- [[Paladin Xphb Oath of Redemption Xge]]
+- [[Sorcerer Xphb Aberrant Sorcery Xphb]]
+- [[Warlock Xphb Archfey Patron Xphb]]
+- [[paladin-xphb-oath-of-redemption-xge (classes)]]
+- [[sorcerer-xphb-aberrant-sorcery-xphb (classes)]]
+- [[warlock-xphb-archfey-patron-xphb (classes)]]
+- [[madness]]

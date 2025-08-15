@@ -1,3 +1,9 @@
+---
+aliases: ["Thalia Zephyrblade the Broken", "thalia zephyrblade the broken", "Thalia Zephyrblade Broken", "Broken the Zephyrblade Thalia"]
+tags: [npc, character]
+type: npc
+---
+
 # Thalia Zephyrblade the Broken
 
 *Goliath Assassin (Villains), Age 52, Non-binary*
@@ -36,32 +42,26 @@ Corrupted by an artifact or dark magic Strange abilities have begun manifesting 
 - **Short Term**: Sabotage competition
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Gavril Ironwood the Seeker (Personal - Nemesis)
 - **Status**: Mutually beneficial
 - **History**: Saved each other's lives during the war
 
-
 ### Aldric Winterborn the Lost (Personal - Nemesis)
 - **Status**: Complicated history
 - **History**: Accidentally bound by magic
-
 
 ### Thalia Keenblade the Redeemed (Criminal - Informant)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
 
-
 ### Elric Quicksilver the Wanderer (Personal - Best friend)
 - **Status**: Blood oath bound
 - **History**: United by common enemy
 
-
 ### Rhiannon Voidwalker the Fallen (Family - Child)
 - **Status**: Mutually beneficial
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Believes they're saving the world

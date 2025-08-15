@@ -1,3 +1,9 @@
+---
+aliases: ["Gareth Proudmore the Risen", "gareth proudmore the risen", "Gareth Proudmore Risen", "Risen the Proudmore Gareth"]
+tags: [npc, character]
+type: npc
+---
+
 # Gareth Proudmore the Risen
 
 *Elf Noble (Nobles), Age 24, Non-binary*
@@ -36,22 +42,18 @@ Exiled from their homeland, trying to rebuild their power base They're being bla
 - **Short Term**: Make this month's payment
 - **Long Term**: Discover immortality
 
-
 ## Relationships
 ### Alaric Ashford the Bold (Personal - Ex-lover)
 - **Status**: Strained but maintaining
 - **History**: Bonded over shared tragedy
 
-
 ### Elric Xendar (Family - Cousin)
 - **Status**: Secretly hostile
 - **History**: Bonded over shared tragedy
 
-
 ### Drusilla Youngblood the Scholar (Family - Sibling)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
-
 
 ## Secrets
 1. Child from scandalous affair

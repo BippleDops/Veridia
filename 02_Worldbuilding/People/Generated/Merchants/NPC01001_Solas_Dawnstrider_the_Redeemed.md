@@ -1,3 +1,9 @@
+---
+aliases: ["Solas Dawnstrider the Redeemed", "solas dawnstrider the redeemed", "Solas Dawnstrider Redeemed", "Redeemed the Dawnstrider Solas"]
+tags: [npc, character]
+type: npc
+---
+
 # Solas Dawnstrider the Redeemed
 
 *Half-Elf Appraiser (Merchants), Age 31, Non-binary*
@@ -42,7 +48,6 @@ Inherited a failing business and turned it around They recently discovered a sec
 - **Status**: Strained but maintaining
 - **History**: Grew up together in the same neighborhood
 
-
 ### Xander Lightbringer the Wise (Criminal - Accomplice)
 - **Status**: Secretly hostile
 - **History**: Former lovers who remained friends
@@ -61,7 +66,6 @@ Inherited a failing business and turned it around They recently discovered a sec
 ### Dara Thornweave the Swift (Professional - Mentor)
 - **Status**: Strained but maintaining
 - **History**: Accidentally bound by magic
-
 
 ## Secrets
 1. Smuggles illegal magical items

@@ -1,6 +1,5 @@
 ---
 
-
 title: Vehicle Core Rules#12) Parasite Boarding & Biohazards
 type: mechanics
 tags:
@@ -262,7 +261,6 @@ A: Supernatural abilities suppressed, mundane portions still function
 - Uses per day: 3
 - Comparable feature: Action Surge (1/rest)
 - Balance note: More uses but weaker effect
-
 
 ## Common Mistakes
 *Frequent misunderstandings to avoid*

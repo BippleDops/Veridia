@@ -1,4 +1,5 @@
 ---
+aliases: ["The Hidden Legacy", "the hidden legacy", "Legacy Hidden The"]
 tags: [generated]
 id: QUEST0060
 created: 2025-08-15T04:09:51.397Z
@@ -21,8 +22,6 @@ Broker peace between the merchant guild and the thieves guild
 
 ### Secondary
 - Recover additional valuable items
-
-
 
 ## Background
 Years ago, a series of events set this quest in motion. undefined. Years ago, they found an ancient artifact, which changed their life forever. Now, circumstances demand immediate action.

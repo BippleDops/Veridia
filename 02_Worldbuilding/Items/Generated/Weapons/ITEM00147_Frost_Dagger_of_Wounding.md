@@ -1,3 +1,9 @@
+---
+aliases: ["Frost Dagger of Wounding", "frost dagger of wounding", "Wounding of Dagger Frost"]
+tags: [item, equipment]
+type: item
+---
+
 # Frost Dagger of Wounding
 
 *Weapons, Legendary*
@@ -16,8 +22,6 @@ A frost dagger forged from meteoric iron
 - Returns when thrown
 - Grants advantage on initiative
 
-
-
 ## History
 Given as a gift between star-crossed lovers
 
@@ -32,7 +36,6 @@ Given as a gift between star-crossed lovers
 - Adjust properties for campaign balance
 - Consider the item's history for plot hooks
 - The creator might still be alive (or undead)
-
 
 ---
 *Generated: 2025-08-15T03:51:03.355Z*

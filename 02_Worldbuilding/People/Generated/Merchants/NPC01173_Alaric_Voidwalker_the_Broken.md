@@ -1,3 +1,9 @@
+---
+aliases: ["Alaric Voidwalker the Broken", "alaric voidwalker the broken", "Alaric Voidwalker Broken", "Broken the Voidwalker Alaric"]
+tags: [npc, character]
+type: npc
+---
+
 # Alaric Voidwalker the Broken
 
 *Human Shopkeeper (Merchants), Age 69, Female*
@@ -36,17 +42,14 @@ Inherited a failing business and turned it around A family member's death has le
 - **Short Term**: Make this month's payment
 - **Long Term**: Overthrow the current order
 
-
 ## Relationships
 ### Malakai Proudmore the Seeker (Political - Ally)
 - **Status**: Recently reconciled
 - **History**: Bonded over shared tragedy
 
-
 ### Pyria Ironforge the Wanderer (Political - Spy)
 - **Status**: Recently reconciled
 - **History**: Grew up together in the same neighborhood
-
 
 ### Qadim Stormwind the Broken (Criminal - Informant)
 - **Status**: Strained but maintaining
@@ -61,7 +64,6 @@ Inherited a failing business and turned it around A family member's death has le
 ### Aeliana Youngblood the Wise (Political - Puppet)
 - **Status**: Recently reconciled
 - **History**: Bitter rivals who learned respect
-
 
 ## Secrets
 1. Smuggles illegal magical items

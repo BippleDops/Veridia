@@ -1,3 +1,9 @@
+---
+aliases: ["Faelyn Nightfall the Guardian", "faelyn nightfall the guardian", "Faelyn Nightfall Guardian", "Guardian the Nightfall Faelyn"]
+tags: [npc, character]
+type: npc
+---
+
 # Faelyn Nightfall the Guardian
 
 *Tabaxi Assassin (Villains), Age 72, Non-binary*
@@ -36,7 +42,6 @@ Born into evil but questioning their path They recently discovered a secret that
 - **Short Term**: Survive until next week
 - **Long Term**: Gain ultimate power
 
-
 ## Relationships
 ### Branwen Youngblood the Scholar (Political - Patron)
 - **Status**: Strained but maintaining
@@ -47,7 +52,6 @@ Born into evil but questioning their path They recently discovered a secret that
 - **Status**: On the verge of collapse
 - **History**: United by common enemy
 
-
 ### Faelyn Hawthorne the Bold (Professional - Employer)
 - **Status**: Complicated history
 - **History**: Met during a heist gone wrong
@@ -56,7 +60,6 @@ Born into evil but questioning their path They recently discovered a secret that
 ### Baelor Proudmore the Mystic (Criminal - Handler)
 - **Status**: One-sided affection
 - **History**: Saved each other's lives during the war
-
 
 ## Secrets
 1. Is being controlled by darker force

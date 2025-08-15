@@ -1,3 +1,9 @@
+---
+aliases: ["Cursed Dagger of Power", "cursed dagger of power", "Power of Dagger Cursed"]
+tags: [item, equipment]
+type: item
+---
+
 # Cursed Dagger of Power
 
 *Weapons, Very Rare*

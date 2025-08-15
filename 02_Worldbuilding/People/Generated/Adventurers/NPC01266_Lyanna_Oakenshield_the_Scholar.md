@@ -1,3 +1,9 @@
+---
+aliases: ["Lyanna Oakenshield the Scholar", "lyanna oakenshield the scholar", "Lyanna Oakenshield Scholar", "Scholar the Oakenshield Lyanna"]
+tags: [npc, character]
+type: npc
+---
+
 # Lyanna Oakenshield the Scholar
 
 *Gnome Wizard (Adventurers), Age 60, Female*
@@ -42,16 +48,13 @@ Chosen by fate to fulfill an ancient prophecy A prophetic dream has been hauntin
 - **Status**: On the verge of collapse
 - **History**: Teacher and student relationship
 
-
 ### Orion Lightbringer the Scholar (Professional - Mentor)
 - **Status**: Professional only
 - **History**: Former lovers who remained friends
 
-
 ### Hestara Goldleaf the Redeemed (Criminal - Fence)
 - **Status**: Strong and trusting
 - **History**: Arranged partnership that grew genuine
-
 
 ## Secrets
 1. Is from the future

@@ -68,6 +68,9 @@ Roll once on each table or choose as needed for quick NPC creation. ### Aquabyss
 | 17-18 | Prismatic clothing | Garments that refract light |
 | 19-20 | Wind-singer marks | Tattoos that respond to air currents | ### Aquabyssos Occupations
 
+
+**Summary**: Aquabyssos Occupations - Key information at a glance.
+
 | Roll | Occupation | Quick Description |
 |------|------------|-------------------|
 | 1 | Depth Explorer | Maps dangerous deep regions |
@@ -90,6 +93,9 @@ Roll once on each table or choose as needed for quick NPC creation. ### Aquabyss
 | 18 | Pressure Smith | Forges under extreme conditions |
 | 19 | Memory Healer | Treats psychological trauma |
 | 20 | Void Researcher | Studies the Deep Mother | ### Aethermoor Occupations
+
+
+**Summary**: Aethermoor Occupations - Key information at a glance.
 
 | 1 | Wind Rider | Pilots aerial vehicles |
 | 2 | Crystal Singer | Uses voice to enhance crystals |

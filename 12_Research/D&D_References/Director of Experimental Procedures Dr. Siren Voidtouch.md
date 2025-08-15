@@ -23,6 +23,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Director of Experimental Procedures Dr. Siren Voidtouch
 aliases:

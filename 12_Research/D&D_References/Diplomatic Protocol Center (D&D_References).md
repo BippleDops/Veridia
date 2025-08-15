@@ -22,6 +22,8 @@ publish: false
 
 This document contains important information regarding Diplomatic Protocol Center and its role within the greater narrative. ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Diplomatic Protocol Center represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
@@ -30,7 +32,7 @@ Diplomatic Protocol Center represents a significant element within the campaign 
 
 ### Background
 
-Historical context and development over time. ### Current State
+Historical context and development over time. Moreover, ### Current State
 
 Present circumstances and ongoing relevance. ### Future Potential
 

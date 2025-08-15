@@ -49,6 +49,9 @@ updated: '2025-08-12T00:00:00+00:00'
 
 This comprehensive catalog details the trade goods that flow through [[The Grand Trade Routes|02 Worldbuilding/Lore/The Grand Trade Routes]] connecting [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. Each entry includes base pricing, mechanical effects, availability, and the complex factors that determine true market value in an ever-changing economic landscape. #### Raw Crystals
 
+
+**Summary**: Raw Crystals - Key information at a glance.
+
 **Tier**: 2-4 (depending on grade and purity)
 **Base Prices**: - **Crystal Dust** (1 pound): 5 gp | Used in minor enchantments and alchemy
 - **Crystal Fragments** (1 pound): 25 gp | Basic magical components and light sources
@@ -67,6 +70,9 @@ This comprehensive catalog details the trade goods that flow through [[The Grand
 - **Military Demand**: Increased pricing during conflicts requiring magical weapons
 - **Research Discoveries**: New applications can dramatically increase demand and pricing
 - **Government Regulation**: Quality standards and export restrictions affect availability #### Crystal-Enhanced Items **Crystal-Touched Weapons** (Various)
+
+
+**Summary**: Crystal-Enhanced Items **Crystal-Touched Weapons** (Various) - Key information at a glance.
 
 - **Base Cost**: Weapon cost + 300 gp
 - **Effect**: +1 to attack and damage rolls, weapon glows with soft light (10 ft radius)

@@ -27,7 +27,9 @@ publish: false
 
 **Type**: Rule Variant / Subsystem / Optional Rule
 **Complexity**: Moderate
-**Purpose**: Enhance gameplay in specific situations ## Description 04_Resources/Assets/Vehicles/vehicle-ship-cerulean-passenger-dirigible-cerulean-passenger-dirigible.svg provides a structured approach to handling specific game situations that benefit from additional mechanical depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ### Basic Resolution
+**Purpose**: Enhance gameplay in specific situations ## Description
+
+**Details**: Rich sensory elements bring this to life. 04_Resources/Assets/Vehicles/vehicle-ship-cerulean-passenger-dirigible-cerulean-passenger-dirigible.svg provides a structured approach to handling specific game situations that benefit from additional mechanical depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ### Basic Resolution
 
 The fundamental process works as follows: 1. **Trigger**: Specific situation arises requiring this mechanic
 2. **Setup**: Establish parameters and stakes

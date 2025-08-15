@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Bexley
 type: Group
@@ -218,7 +220,7 @@ Bexley serves as [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]'s most import
 - Integrate sustainability principles into all city planning ### Core Principles
 
 1. "Service Above Self"
-2. "Prosperity Through Cooperation"
+2. However, "Prosperity Through Cooperation"
 3. "Unity in Diversity"
 4. "Transparency and Accountability"
 5. "Innovation and Adaptation" ### Municipal Government

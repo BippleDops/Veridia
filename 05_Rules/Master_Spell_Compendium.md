@@ -19,6 +19,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 - [[#By School]]
 - [[#By Level]]
@@ -29,6 +31,9 @@ Detailed description pending.
 - **Schools**: 10
 - **Max Level**: 9
 - **Last Updated**: 2025-08-14 ## By School ### Unknown - [[08-chapter-7-spells (players-handbook-2024)]] (Level 0)
+
+
+**Summary**: By School ### Unknown - [[08-chapter-7-spells (players-handbook-2024)]] (Level 0) - Key information at a glance.
 
 - [[08-chapter-7-spells (players-handbook-2024)]] (Level 0)
 - [[09-appendix-b-spells (princes-of-the-apocalypse)]] (Level 0)
@@ -2368,6 +2373,9 @@ Detailed description pending.
 
 - [[spells]] (Level 0)
 - [[System Cli Spells School Necromancy]] (Level 0) ### Of - [[Detect Magic Xphb]] (Level 0)
+
+
+**Summary**: Of - [[Detect Magic Xphb]] (Level 0) - Key information at a glance.
 
 - [[detect-magic-xphb (spells)]] (Level 0)
 - [[detect-magic-xphb (spells)]] (Level 0)

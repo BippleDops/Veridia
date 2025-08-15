@@ -22,7 +22,9 @@ publish: false
 
 This document contains important information regarding Alternative-Path-Fled-City and its role within the greater narrative. ## Description
 
-Alternative-Path-Fled-City represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
+**Details**: Rich sensory elements bring this to life.
+
+Alternative-Path-Fled-City represents a significant element within the campaign world, offering various opportunities for engagement and development. Furthermore, ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements

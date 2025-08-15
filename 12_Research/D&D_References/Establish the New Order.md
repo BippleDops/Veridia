@@ -22,6 +22,9 @@ publish: false
 
 ## Description
 
+
+**Summary**: Description - Key information at a glance.
+
 Detailed description pending.
 title: Establish the New Order
 type: Group
@@ -121,6 +124,9 @@ A massive crystal construct existing partially outside normal space-time, servin
 - Demonstration facility showcasing crystal goverce potential
 - Training center for crystal consciousness integration
 - Research facility developing advanced reality anchor technology ### Regional Centers **Northern Integration Hub ([[The Sundered Peaks]])**: Mining community conversion center
+
+
+**Summary**: Regional Centers **Northern Integration Hub ([[The Sundered Peaks]])**: Mining community conversion center - Key information at a glance.
 
 - Crystal extraction coordination improving safety and efficiency
 - Worker education programs promoting collective consciousness benefits

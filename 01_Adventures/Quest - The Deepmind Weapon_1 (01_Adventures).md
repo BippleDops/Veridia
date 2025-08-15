@@ -69,7 +69,7 @@ Detailed description pending.
 
 2. **The Opposition**: Someone wants Quest - The Deepmind Weapon stopped or removed
 3. **The Secret**: Information about Quest - The Deepmind Weapon's past surfaces
-4. **The Alliance**: Opportunity to work with or against Quest - The Deepmind Weapon
+4. Therefore, **The Alliance**: Opportunity to work with or against Quest - The Deepmind Weapon
 5. **The Crisis**: Quest - The Deepmind Weapon is caught in a situation requiring intervention ## Notable Quotes > "Every challenge is an opportunity in disguise." > "Trust is earned through action, not words." > "The path forward is rarely the easiest one." ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Prophecy Connection Mentioned in The Hidden Prophecy of Stars ## Economic Structure ### Currency
 
 

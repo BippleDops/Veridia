@@ -1,3 +1,27 @@
+# Quest   The Democratic Balance 1 (01 Adventures)
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+
+## Contents
+- [Overview](#overview)
+- [Description](#description)
+  - [Primary](#primary)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Alternative Solutions](#alternative-solutions)
+
+
+
+## Overview
+
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Comprehensive overview of this content.
+
 ---
 
 title: Quest The Democratic Balance
@@ -35,6 +59,7 @@ publish: false
 
  ## Complications
 
+
 ## Description
 
 Detailed description pending.
@@ -45,6 +70,7 @@ Detailed description pending.
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety > [!figure] Portrait ## Objectives
+
 
 ### Primary
 
@@ -69,7 +95,7 @@ Detailed description pending.
 - Planning future operations ## Plot Hooks 1. **The Request**: Quest - The Democratic Balance needs assistance with a delicate matter
 
 2. **The Opposition**: Someone wants Quest - The Democratic Balance stopped or removed
-3. **The Secret**: Information about Quest - The Democratic Balance's past surfaces
+3. Therefore, **The Secret**: Information about Quest - The Democratic Balance's past surfaces
 4. **The Alliance**: Opportunity to work with or against Quest - The Democratic Balance
 5. **The Crisis**: Quest - The Democratic Balance is caught in a situation requiring intervention ## Notable Quotes > "Every challenge is an opportunity in disguise." > "Trust is earned through action, not words." > "The path forward is rarely the easiest one." ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ### Development Triggers
 
@@ -135,6 +161,8 @@ Detailed description pending.
 
 - *[Side locations]* ## Rewards
 
+**Experience Points**: 500 XP per character
+
 *[What PCs gain from completing this adventure]* ### Experience Points
 
 - *[XP awards]* ### Treasure
@@ -186,6 +214,7 @@ Detailed description pending.
 
 > Adjust difficulty based on party composition
 
+
 ## Notes
 
 *Additional notes*
@@ -208,9 +237,11 @@ Detailed description pending.
 #resource/treasure
 #meta/moc
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -218,6 +249,10 @@ Detailed description pending.
 - Antagonists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+
+**Balance Note**: Adjust creature numbers based on party size and level.

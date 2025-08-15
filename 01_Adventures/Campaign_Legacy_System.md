@@ -1,3 +1,24 @@
+# Campaign Legacy System
+
+
+## Contents
+- [Overview](#overview)
+- [Description](#description)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Complications](#complications)
+- [Alternative Solutions](#alternative-solutions)
+
+
+
+## Overview
+
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Comprehensive overview of this content.
+
 ---
 
 title: Campaign_Legacy_System
@@ -20,7 +41,10 @@ publish: false
 
  # Campaign_Legacy_System ---
 
+
 ## Description
+
+**Tension**: The urgency of this quest creates palpable tension in the air.
 
 Detailed description pending.
 title: Campaign Legacy System
@@ -74,6 +98,8 @@ world: Both
 
 - *[Side locations]* ## Rewards
 
+**Experience Points**: 500 XP per character
+
 *[What PCs gain from completing this adventure]* ### Experience Points
 
 - *[XP awards]* ### Treasure
@@ -98,6 +124,7 @@ world: Both
 
 > Work together and communicate
 
+
 ## Notes
 
 *Additional notes*
@@ -120,9 +147,11 @@ world: Both
 #resource/treasure
 #meta/reference
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -130,9 +159,11 @@ world: Both
 - Antagonists
 
 
+
 ## Complications
 - Potential problems
 - Twists
+
 
 
 ## Alternative Solutions

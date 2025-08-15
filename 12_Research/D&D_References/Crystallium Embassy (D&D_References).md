@@ -52,7 +52,7 @@ updated: '2025-08-13T01:18:36.251003+00:00'
 The Crystallium Embassy represents the technologically advanced crystal nation in Aquabyssos, officially promoting scientific cooperation and technological exchange. Paradoxically, this embassy of supposed transparency operates one of the most sophisticated technological espionage networks in the capital, using crystal technology to achieve invisibility through perfect information control. ### Primary Objectives
 
 1. **Technological Intelligence:** Acquire all advanced technology developments in Aquabyssos
-2. **Political Prediction:** Model and predict political developments for Crystallium advantage
+2. Therefore, **Political Prediction:** Model and predict political developments for Crystallium advantage
 3. **Economic Forecasting:** Analyze market trends and economic policy for commercial benefit
 4. **Social Engineering:** Influence public opinion and political decisions through data manipulation
 5. **Military Assessment:** Evaluate naval capabilities and strategic vulnerabilities #### Operation Crystal Clear

@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Unified Mechanics Guide
 type: Reference
@@ -51,7 +53,7 @@ world: Both
 3. [Unified Pressure System](#unified-pressure-system)
 4. [Crystal Corruption Mechanics](#crystal-corruption-mechanics)
 5. [Shadow Separation Rules](#shadow-separation-rules)
-6. [Sanity & Madness Framework](#sanity--madness-framework)
+6. Therefore, [Sanity & Madness Framework](#sanity--madness-framework)
 7. [Resource & Currency Systems](#resource--currency-systems)
 8. [Combat Modifiers](#combat-modifiers)
 9. [Progression Systems](#progression-systems)

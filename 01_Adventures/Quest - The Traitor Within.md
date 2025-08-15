@@ -1,3 +1,17 @@
+# Quest   The Traitor Within
+
+> *The fate of many hangs in the balance...*
+
+
+## Contents
+- [Description](#description)
+  - [Primary](#primary)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Alternative Solutions](#alternative-solutions)
+
+
 ---
 
 title: Quest - The Traitor Within
@@ -20,7 +34,10 @@ publish: false
 
  ## Complications
 
+
 ## Description
+
+**Tension**: The urgency of this quest creates palpable tension in the air.
 
 Detailed description pending.
 - Unexpected obstacles
@@ -57,9 +74,13 @@ cr: '6'
 
 --- > [!figure] Portrait # Quest - The Traitor Within **Level:** 6-9 | **Type:** Investigation/Political Intrigue | **Duration:** 4-6 sessions ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
-Sensitive military intelligence has been leaked to enemy forces, resulting in failed operations and lost lives. High Command suspects a traitor within their ranks and needs discrete investigators to uncover the spy's identity without alerting them or causing panic among the troops. ## Quest Giver
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Sensitive military intelligence leakeded to enemy forces, resulting in failed operations and lost lives. High Command suspects a traitor within their ranks and needs discrete investigators to uncover the spy's identity without alerting them or causing panic among the troops. ## Quest Giver
 
 **General Marcus Ironward** - Veteran military commander torn between loyalty to his officers and duty to protect his soldiers. Offers 5,000 gp and military commendations for successfully identifying the traitor. ## Objectives
+
 ### Primary
 
 - Main quest goal ### Optional
@@ -104,6 +125,8 @@ Recent military disasters suggest inside information reached enemy hands. Three 
 **Cover-up Route:** Protects individuals but compromises integrity
 **Double Agent Route:** Continues risk but provides intelligence advantage
 **Mercy Route:** Shows compassion but may set dangerous precedent ## Rewards
+
+**Experience Points**: 500 XP per character
 
 **Base:** 5,000 gp, military honors and connections
 **Bonus:** Additional rewards based on resolution chosen
@@ -175,6 +198,7 @@ This quest explores themes of loyalty, family, and moral complexity in wartime. 
 - **Easy Mode**: Reduced difficulty
 - **Hard Mode**: Increased challenge
 
+
 ## Notes
 
 *Additional notes*
@@ -199,9 +223,11 @@ This quest explores themes of loyalty, family, and moral complexity in wartime. 
 #resource/gear
 #meta/reference
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -209,6 +235,15 @@ This quest explores themes of loyalty, family, and moral complexity in wartime. 
 - Antagonists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+## Stakes
+- **If Successful**: The positive outcomes that await
+- **If Failed**: The dire consequences of failure
+- **Time Pressure**: Why this cannot wait
+
+
+**Key Question**: Will the heroes rise to the challenge?

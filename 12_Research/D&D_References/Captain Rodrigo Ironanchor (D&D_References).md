@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Captain Rodrigo Irochor
 type: Group
@@ -60,7 +62,13 @@ obsidian UIMode: preview
 
 *Masters of the Storm Seas, The Steel Armada, Guardians of Maritime Commerce* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Organization Overview and Purpose
 
+
+**Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Organization Overview and Purpose - Key information at a glance.
+
 The Iron Fleet represents the premier naval mercenary force in [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]'s waters, combining military discipline with entrepreneurial opportunism to create the most effective maritime organization in the region. Under the commanding leadership of Captain Rodrigo Irochor, the Fleet has evolved from a single privateer crew into a formidable armada that serves multiple roles as naval contractors, escort services, salvage specialists, and maritime law enforcement. The Fleet operates through a sophisticated network of warships, support vessels, coastal installations, and allied organizations that enable them to project power across vast maritime territories while maintaining the flexibility necessary for diverse commercial and military operations. Members of the Iron Fleet are distinguished by their exceptional seamanship, innovative naval tactics, unwavering loyalty to their organization, and pragmatic approach to maritime conflicts that prioritizes effective results over ideological considerations. The organization's primary purpose centers on controlling key shipping lanes through superior naval capability while offering their services to the highest bidders among governments, merchant organizations, and other entities requiring maritime expertise. The Iron Fleet views the seas as both battlefield and marketplace, where strength, skill, and strategic intelligence determine success in endeavors ranging from military campaigns to commercial protection to salvage and recovery operations. Captain Irochor's leadership has transformed the Fleet from a traditional mercenary company into a comprehensive maritime power that influences regional politics, economics, and security through their naval supremacy and strategic positioning. Under his guidance, the Fleet has modernized their capabilities with advanced shipbuilding techniques, innovative weapons systems, and sophisticated intelligence networks that provide competitive advantages in both military and commercial operations. The Iron Fleet operates several specialized divisions including the Battle Squadron which handles military contracts and direct combat operations, the Escort Division that provides protection for merchant vessels and valuable cargo, the Salvage Corps that recovers wrecked ships and lost treasure, the Intelligence Network that gathers maritime information and strategic intelligence, and the Coastal Guard that manages their shore installations and recruitment operations. Their ultimate goal involves establishing permanent control over the most profitable shipping routes while expanding their influence through strategic alliances, superior capabilities, and reputation for reliability that makes them indispensable to maritime commerce and security throughout the region. They envision a future where the Iron Fleet serves as the primary naval authority in contested waters, mediating disputes and enforcing maritime law while profiting from their position as the domit sea power. ## History and Founding
+
+
+**Summary**: History and Founding - Key information at a glance.
 
 **The Privateer Origins (200 Years Ago)**
 
@@ -170,7 +178,7 @@ The Fleet seeks new types of contracts and service offerings that leverage their
 
 The Fleet pursues partnerships and alliances that can enhance their capabilities, expand their market access, and strengthen their position relative to competitors. Current alliance activities include negotiations with technology providers, discussions with complementary service organizations, exploration of joint venture opportunities, and diplomatic initiatives that create favorable operating environments. ## Adventure Hooks and Campaign Integration **The Lost Armada**
 
-Ancient naval vessels from a forgotten empire have been discovered in treacherous waters, containing valuable artifacts and historical secrets that multiple organizations desperately want. The Iron Fleet needs the party's assistance to explore the wrecks while defending against rival salvage operations, supernatural guardians, and the dangerous environmental conditions that have preserved the ships for centuries. **The Pirate Alliance**
+Ancient naval vessels from a forgotten empire discovereded in treacherous waters, containing valuable artifacts and historical secrets that multiple organizations desperately want. The Iron Fleet needs the party's assistance to explore the wrecks while defending against rival salvage operations, supernatural guardians, and the dangerous environmental conditions that have preserved the ships for centuries. **The Pirate Alliance**
 
 A confederation of pirate fleets has formed to challenge the Iron Fleet's domice, using innovative tactics and inside information that suggests betrayal from within the organization. The party must help identify the traitor while participating in naval battles, investigating pirate bases, and uncovering the conspiracy that threatens to destroy the Fleet's reputation and operational effectiveness. **The Dimensional Merchant**
 

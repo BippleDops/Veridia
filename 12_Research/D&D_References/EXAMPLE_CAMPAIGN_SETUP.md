@@ -54,6 +54,9 @@ modified: '2025-08-14'
 ├── Session 8: Cross-Realm Alliance
 └── Session 9: Resolution & Consequences --- ### Campaign File Structure 📁 01_Adventures/
 
+
+**Summary**: Campaign File Structure 📁 01_Adventures/ - Key information at a glance.
+
 ├── 📁 Shadows_Beneath_the_Crown/
 │ ├── 📄 Campaign_Overview.md
 │ ├── 📄 Session_1_Diplomatic_Tensions.md
@@ -241,6 +244,9 @@ Lysandra is caught in an increasingly dangerous web:
 
 ## The Royal Summons The crystal-carved corridors of the Palace echo with unusual activity. Royal Guards move in formation, their traditional ceremonial pace replaced by urgent efficiency. You've been summoned by Queen Seraphina herself - an honor that comes with dangerous implications. **Atmospheric Details**:
 
+
+**Summary**: The Royal Summons The crystal-carved corridors of the Palace echo with unusual activity. Royal Guards move in formation, their traditional ceremonial pace replaced by urgent efficiency. You've been summoned by Queen Seraphina herself - an honor that comes with dangerous implications. **Atmospheric Details**: - Key information at a glance.
+
 - The throne room's bioluminescent coral dims and brightens with the Queen's emotional state
 - Court officials whisper in small groups, their conversations stopping when approached
 - The ceremonial tide pool at the room's center shows unusual turbulence
@@ -276,7 +282,7 @@ She enters with measured steps, but perceptive characters (Insight DC 13) notice
 - **Challenge**: Navigate cultural protocols while gathering information
 - **Mechanics**: Skill challenges using Insight, Persuasion, Deception, Investigation
 - **Outcomes**: Quality of information gathered affects future investigation options **Investigation Encounter: The Altered Message**
-- **Setup**: Discovery that diplomatic correspondence has been modified
+- **Setup**: Discovery that diplomatic correspondence modifieded
 - **Challenge**: Determine original content and identify who made changes
 - **Mechanics**: Investigation and Arcana checks to analyze magical alterations
 - **Outcomes**: Leads to either Shadow infiltrator or protective security measures #### Consequences & Hooks **End of Session Status**:
@@ -320,7 +326,7 @@ Ambassador Lysandra's office feels different than yesterday. The formal diplomat
 
 The midnight meeting at Meridian Dock can go several directions based on party approach: **If PCs Come Prepared for Ambush**:
 - They interrupt a genuine Shadow Conspiracy kidnapping attempt
-- Lysandra's family is being threatened in real-time
+- Lysandra's family threateneds in real-time
 - Combat encounter with Shadow operatives
 - Lysandra revealed as victim, not perpetrator **If PCs Come Trusting**:
 - Lysandra reveals her counter-intelligence role

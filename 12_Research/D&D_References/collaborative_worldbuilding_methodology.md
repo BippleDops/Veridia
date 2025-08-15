@@ -214,7 +214,7 @@ pending_integrations: List[str] # Contributions waiting for implementation ### C
 
 1. **Check with DM**: Not all content allowed at every table
 2. **Setting Compatibility**: Some content is setting-specific
-3. **Power Level**: Newer books sometimes have stronger options
+3. Additionally, **Power Level**: Newer books sometimes have stronger options
 4. **Integration**: Consider how content fits campaign theme
 5. **AL Legal**: Check Adventurers League rules if applicable
 

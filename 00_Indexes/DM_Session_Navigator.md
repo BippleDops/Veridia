@@ -21,7 +21,10 @@ publish: false
 
  # DM_Session_Navigator ---
 
-## Description {#description}
+
+## Description
+
+**Details**: Rich sensory elements bring this to life. {#description}
 
 Detailed description pending.
 title: DM Session Navigator
@@ -108,3 +111,14 @@ SORT priority DESC ---
 #gameplay/adventure
 #meta/index
 #meta/navigation
+## Session Prep
+- **Read Aloud Text**: Prepared descriptions for key moments
+- **Key NPCs**: Important characters for this content
+- **Props Needed**: Physical or digital aids to enhance play
+- **Estimated Time**: How long this typically takes to run
+
+
+*Adventure awaits those brave enough to seek it.*
+
+## Thematic Elements
+This content explores themes of revenge, adding narrative depth to your campaign.

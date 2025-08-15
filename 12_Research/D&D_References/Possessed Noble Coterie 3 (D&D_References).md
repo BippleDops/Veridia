@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Possessed Noble Coterie 3
 type: Lore

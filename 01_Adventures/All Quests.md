@@ -1,3 +1,17 @@
+# All Quests
+
+> *The fate of many hangs in the balance...*
+
+
+## Contents
+  - [Background](#background)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Complications](#complications)
+- [Alternative Solutions](#alternative-solutions)
+
+
 ---
 
 created: 2025-08-14
@@ -24,13 +38,19 @@ publish: false
 
  # All Quests ## Overview
 
+**Difficulty**: Moderate (Levels 3-5)
+
+
 This document contains important information regarding All Quests and its role within the greater narrative. ## Description
 
-All Quests represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
+**Tension**: The urgency of this quest creates palpable tension in the air.
+
+All Quests represents a significant element within the campaign world, offering various opportunities for engagement and development. Moreover, ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements
 - **Significance**: Important for understanding broader context ## Details
+
 
 ### Background
 
@@ -75,6 +95,8 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - *[Major locations to visit]* ### Optional Areas
 
 - *[Side locations]* ## Rewards
+
+**Experience Points**: 500 XP per character
 
 *[What PCs gain from completing this adventure]* ### Experience Points
 
@@ -133,6 +155,7 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 | 6 | Option F | ## References - [[Navigation_Hub]]
 
 
+
 ## Notes
 
 *Additional notes*
@@ -155,9 +178,11 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 #meta/navigation
 #meta/reference
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -165,11 +190,23 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - Antagonists
 
 
+
 ## Complications
 - Potential problems
 - Twists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+## Stakes
+- **If Successful**: The positive outcomes that await
+- **If Failed**: The dire consequences of failure
+- **Time Pressure**: Why this cannot wait
+
+
+**Key Question**: Will the heroes rise to the challenge?
+
+**Balance Note**: Adjust creature numbers based on party size and level.

@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: The Queen 3
 type: Lore
@@ -65,6 +67,9 @@ When Princess Seraphina inherited the crown after her father's death from crysta
 - Founded the [[Royal Crystal Gardens]] for magical research
 - Pioneered new techniques for crystal healing and enhancement ### Signs of Change **The Deepening (Years 13-15):**
 
+
+**Summary**: Signs of Change **The Deepening (Years 13-15):** - Key information at a glance.
+
 The first signs of trouble appeared during Queen Seraphina's 13th year of rule. She began experiencing what court physicians called "crystal dreams"—vivid visions that came while she meditated with the [[Crystal Heart of the Realm]]. Initially dismissed as enhanced magical sensitivity, these dreams gradually became more frequent and compelling. **Recorded symptoms:**
 - Extended periods of meditation lasting days without food or water
 - Speaking in ancient crystalline languages unknown to scholars
@@ -82,6 +87,9 @@ The consciousness inhabiting Queen Seraphina is not demonic or external—it is 
 5. **Loss of Individual Identity**: Seraphina's original personality became a secondary voice ### Current State
 
 
+**Summary**: Current State - Key information at a glance.
+
+
 **Physical Manifestations:**
 - **Crystalline Growths**: Small crystals growing from her skin, particularly around her eyes and hands
 - **Prismatic Vision**: Her eyes reflect light in impossible spectrum patterns
@@ -97,7 +105,7 @@ The consciousness inhabiting Queen Seraphina is not demonic or external—it is 
 
 **The Suppressed Personality:**
 
-Queen Seraphina's original consciousness still exists within her mind but has been relegated to a secondary role. She experiences her possessed state like being trapped in her own body, able to observe but rarely able to control her actions. This creates moments of internal conflict that manifest as: - Sudden emotional outbursts inconsistent with possessed behavior
+Queen Seraphina's original consciousness still exists within her mind but relegateded to a secondary role. She experiences her possessed state like being trapped in her own body, able to observe but rarely able to control her actions. This creates moments of internal conflict that manifest as: - Sudden emotional outbursts inconsistent with possessed behavior
 - Brief periods where she attempts to warn others about her condition
 - Physical trembling when forced to make decisions she morally opposes
 - Protective instincts toward her family that conflict with divine objectives
@@ -170,7 +178,7 @@ The original Seraphina's consciousness recognizes the danger but cannot override
 
 **Royal Protection Force:**
 
-The queen's personal guard has been enhanced with crystal magic, making them formidable but also susceptible to possession influence: - **Enhanced Capabilities**: Superhuman strength, crystal-based armor, magical resistance
+The queen's personal guard enhanceded with crystal magic, making them formidable but also susceptible to possession influence: - **Enhanced Capabilities**: Superhuman strength, crystal-based armor, magical resistance
 - **Loyalty Programming**: Crystal enhancement includes compulsions toward absolute obedience
 - **Limited Autonomy**: Guards retain tactical intelligence but cannot question orders
 - **Corruption Resistance**: Ironically, crystal possession makes them immune to shadow corruption

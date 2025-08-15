@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Crystal Garden 3
 type: Lore
@@ -113,6 +115,9 @@ The garden has become a crucial refuge for [[The Transformed Citizens]] from bot
 - **Healing Acceleration**: Crystal coral formations that speed recovery from transformation-related injuries
 - **Reality Anchoring**: Stable zones that help maintain sense of self during consciousness changes ### Native Creatures **Crystal-Coral Symbionts:**
 
+
+**Summary**: Native Creatures **Crystal-Coral Symbionts:** - Key information at a glance.
+
 Unique creatures that have evolved specifically within the garden's hybrid environment: **The Prismatic Butterflies:**
 
 Insects with crystalline wings that refract light into complex patterns while their bodies contain flowing water chambers. They serve as pollinators for the garden's hybrid plant-crystal organisms and can briefly phase between dimensions to access flowers in both realities. **The Singing Fish:**
@@ -120,6 +125,9 @@ Insects with crystalline wings that refract light into complex patterns while th
 Aquatic creatures that swim through both water and air, their voices harmonizing with the crystal formations to create the garden's constant background music. They feed on light filtered through crystal leaves and have developed symbiotic relationships with the coral crystals. **The Memory Gardeners:**
 
 Small humanoid creatures formed from crystallized memories and coral consciousness. They appear as translucent figures made of flowing crystal and water, tending to the garden's needs and guiding visitors toward experiences that will help them grow. They communicate through shared memories rather than words. ### Regular Visitors and Pilgrims **Healing Seekers:**
+
+
+**Summary**: Regular Visitors and Pilgrims **Healing Seekers:** - Key information at a glance.
 
 Individuals from both worlds who come seeking physical, emotional, or spiritual healing:
 - Those suffering from [[Shadow Corruption]] find that the garden's pure energies can slow or reverse corruption effects
@@ -172,7 +180,7 @@ Instead of simply cleansing the corruption, the combined magical forces tore ope
 - A collective consciousness developed from the merger of crystal and sea awareness
 - The location became a pilgrimage site for those seeking understanding of convergence ### Modern Era Development **Recognition and Protection (50 years ago):**
 
-Both [[Aethermoor]] and [[Aquabyssos]] governments officially recognized the Crystal Garden as a neutral territory and established protections to prevent military or exploitative use of the site. This protection has been maintained even as political tensions between the worlds have increased. **Expansion and Evolution (Present Day):**
+Both [[Aethermoor]] and [[Aquabyssos]] governments officially recognized the Crystal Garden as a neutral territory and established protections to prevent military or exploitative use of the site. This protection maintaineded even as political tensions between the worlds have increased. **Expansion and Evolution (Present Day):**
 
 The garden continues to grow and evolve, with new sections appearing as dimensional barriers weaken further. Recent additions include areas that exist primarily in [[Aquabyssos]]'s reality but remain accessible to [[Aethermoor]] visitors, and temporal zones where past and future versions of the garden overlap. ### Reality Stabilization **Dimensional Anchoring:**
 
@@ -272,7 +280,7 @@ While the garden maintains immunity to direct [[Shadow Corruption]], hostile for
 
 > [!warning] Hidden Knowledge
 
-> The garden's memory coral doesn't just store visitor experiences—it contains backup copies of important consciousnesses from both worlds, including some individuals who have died but whose awareness has been preserved in crystal-coral matrices. This makes the garden a potential resource for resurrecting key figures if the convergence goes badly, but also a target for those who want to control or destroy these preserved minds. ### Essential Artifacts
+> The garden's memory coral doesn't just store visitor experiences—it contains backup copies of important consciousnesses from both worlds, including some individuals who have died but whose awareness preserveded in crystal-coral matrices. This makes the garden a potential resource for resurrecting key figures if the convergence goes badly, but also a target for those who want to control or destroy these preserved minds. ### Essential Artifacts
 
 - [[The Garden Heart Crystal]] - Core consciousness focus for the garden
 - [[The Memory Coral Crown]] - Artifact enabling communication with garden consciousness

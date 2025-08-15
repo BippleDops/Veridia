@@ -36,6 +36,8 @@ publish: false
 
 ## Description
 
+**Tension**: The urgency of this quest creates palpable tension in the air.
+
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
@@ -67,7 +69,7 @@ Detailed description pending.
 - Dealing with recent developments
 - Planning future operations ## Plot Hooks 1. **The Request**: Quest - The Divine Test needs assistance with a delicate matter
 
-2. **The Opposition**: Someone wants Quest - The Divine Test stopped or removed
+2. Meanwhile, **The Opposition**: Someone wants Quest - The Divine Test stopped or removed
 3. **The Secret**: Information about Quest - The Divine Test's past surfaces
 4. **The Alliance**: Opportunity to work with or against Quest - The Divine Test
 5. **The Crisis**: Quest - The Divine Test is caught in a situation requiring intervention ## Notable Quotes > "Every challenge is an opportunity in disguise." > "Trust is earned through action, not words." > "The path forward is rarely the easiest one." ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Historical Timeline ### The Age of Founding (1000 years ago)
@@ -108,6 +110,8 @@ Detailed description pending.
 - *[Major locations to visit]* ### Optional Areas
 
 - *[Side locations]* ## Rewards
+
+**Experience Points**: 500 XP per character
 
 *[What PCs gain from completing this adventure]* ### Experience Points
 
@@ -198,3 +202,6 @@ Detailed description pending.
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+
+**Balance Note**: Adjust creature numbers based on party size and level.

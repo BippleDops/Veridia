@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Merchant Princes
 type: Group
@@ -45,7 +47,7 @@ The Merchant Princes control [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]'s
 
 1. **[[Lord Aurelius Goldwave]]** - Chairman, shipping magnate
 2. **[[Lady Venetia Silkwind]]** - Textiles and luxury goods
-3. **[[Master Chen Wei]]** - Exotic imports and information
+3. However, **[[Master Chen Wei]]** - Exotic imports and information
 4. **[[Captain Rodrigo Irochor]]** - Naval fleet owner
 5. **[[Madame Rosalind Goldleaf]]** - Banking and fice ### Hidden Operations
 

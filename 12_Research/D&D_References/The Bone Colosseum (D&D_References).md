@@ -57,7 +57,7 @@ Hidden beneath the warehouse district of [[Port Meridian|02 Worldbuilding/Places
 > - Secret meeting rooms host [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] councils
 > - Emergency evacuation routes lead to [[Smuggler's Cove|02 Worldbuilding/Places/Smuggler's Cove]] ### Investigation Missions
 
-1. **Missing Persons**: Track disappeared citizens to the arena
+1. Furthermore, **Missing Persons**: Track disappeared citizens to the arena
 2. **Undercover Infiltration**: Pose as gladiators to gather evidence
 3. **Noble Scandal**: Blackmail materials hidden in arena vaults
 4. **Crystal Tracking**: Follow illegal crystal distribution network ### Combat Challenges

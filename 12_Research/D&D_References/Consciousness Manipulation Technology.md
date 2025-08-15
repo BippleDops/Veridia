@@ -81,6 +81,9 @@ The discovery that shadow essence can interface directly with conscious thought 
 - Hybrid consciousness creation combining multiple identity sources
 - Consciousness preservation during physical body modification or destruction #### The Crystalline Archive
 
+
+**Summary**: The Crystalline Archive - Key information at a glance.
+
 **Function**: Complete memory extraction and permanent storage **Components**: Resoce-tuned memory crystals, neural interface arrays, consciousness mapping algorithms **Capacity**: Complete lifetime memory storage in crystal matrix approximately 3 inches cubed **Extraction Process**:
 1. **Neural Interface Placement**: Crystalline probes positioned at key brain locations
 2. **Resoce Calibration**: Tuning crystal frequencies to subject's specific neural patterns
@@ -96,6 +99,9 @@ The discovery that shadow essence can interface directly with conscious thought 
 - Subject must remain conscious during extraction for maximum data integrity
 - Crystal storage degrades over 50+ years requiring periodic renewal
 - Extremely traumatic memories may resist extraction or corrupt surrounding data #### The Memory Editor
+
+
+**Summary**: The Memory Editor - Key information at a glance.
 
 **Function**: Selective modification and implantation of specific memories **Components**: Precision crystalline scribes, temporal sequence processors, authenticity integration systems **Accuracy**: 94% success rate for simple memory modification, 76% for complex memory construction **Modification Techniques**:
 - **Memory Deletion**: Complete removal of specific experiences or knowledge
@@ -241,7 +247,7 @@ Witnesses to important events begin reporting gaps in their recollections, leadi
 - Tracking stolen memories to shadow conspiracy storage facilities
 - Racing to prevent extraction of crucial information from final witness #### The False Identity Crisis
 
-Hero discovers their own memories may have been modified, forcing investigation into their true identity and past while questioning reality of their own experiences. **Personal Stakes**:
+Hero discovers their own memories may modifieded, forcing investigation into their true identity and past while questioning reality of their own experiences. **Personal Stakes**:
 - Gradual revelation that cherished memories might be artificially implanted
 - Discovery of consciousness manipulation scars requiring specialized detection methods
 - Confrontation with potential original identity or consciousness source
@@ -253,7 +259,7 @@ Heroes must infiltrate consciousness storage facility to rescue extracted consci
 - Preventing consciousness corruption during extraction and restoration procedures
 - Managing psychological trauma of consciousness extraction survivors #### The Identity Restoration Quest
 
-Recovering proper consciousness for ally or important NPC whose identity has been corrupted or replaced, requiring complex magical and technological intervention. **Recovery Complexity**:
+Recovering proper consciousness for ally or important NPC whose identity corrupteded or replaced, requiring complex magical and technological intervention. **Recovery Complexity**:
 - Gathering components and expertise needed for consciousness restoration procedures
 - Navigating moral implications of potentially harmful restoration process
 - Dealing with resistance from modified consciousness who may prefer their current identity

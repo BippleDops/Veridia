@@ -1,3 +1,12 @@
+# Character Creation Guide
+
+> *A figure whose reputation precedes them...* This remarkable element adds depth and intrigue to any campaign.
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- title: Character_Creation_Guide
 type: npc
 tags:
@@ -10,7 +19,9 @@ category: 03 People
 subcategory: Character Creation Guide.Md
 related: []
 cssclass: standard
-publish: false --- # Character_Creation_Guide ## Portrait![[Character_Creation_Guide|Character Creation Guide]] *Portrait reference for Character_Creation_Guide* ## Description *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key character traits]*
+publish: false --- # Character_Creation_Guide ## Portrait![[Character_Creation_Guide|Character Creation Guide]] *Portrait reference for Character_Creation_Guide* ## Description
+
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key character traits]*
 - **Ideals**: *[Core beliefs and values]*
 - **Bonds**: *[Important relationships and connections]*
 - **Flaws**: *[Character weaknesses or quirks]* ## Voice & Mannerisms - **Speaking Style**: *[How they talk and express themselves]*
@@ -57,3 +68,14 @@ updated: '2025-08-13T01:18:35.881054+00:00' --- ## 🔧 Deep Evaluation Improvem
 - Special moves ## Secrets {#secrets}
 - Hidden knowledge
 - Personal mysteries
+
+
+**Key Question**: What drives this character's actions?
+## Session Prep
+- **Read Aloud Text**: Prepared descriptions for key moments
+- **Key NPCs**: Important characters for this content
+- **Props Needed**: Physical or digital aids to enhance play
+- **Estimated Time**: How long this typically takes to run
+
+
+*Every story needs its heroes.*

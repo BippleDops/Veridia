@@ -1,3 +1,12 @@
+# Item Finder
+
+> *More than mere metal and magic...* This remarkable element adds depth and intrigue to any campaign.
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 ---
 
 title: Item Finder
@@ -48,7 +57,10 @@ modified: '2025-08-14'
 
 - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
-- **Hidden Details**: Secret aspects ## Description *To be added* ## Properties *To be added* ## History *To be added* ## Current Location *To be added* ## Powers *To be added*
+- **Hidden Details**: Secret aspects ## Description
+
+**Tactile Qualities**: The surface feels [texture] to the touch, with [weight/temperature] properties. *To be added* ## Properties *To be added* ## History *To be added* ## Current Location *To be added* ## Powers *To be added*
+
 
 ## Notes {#notes}
 
@@ -59,3 +71,10 @@ modified: '2025-08-14'
 #resource/item
 #meta/index
 #meta/reference
+
+**Key Question**: Who last wielded this power?
+
+*The adventure continues...*
+
+## Thematic Elements
+This content explores themes of power and corruption, adding narrative depth to your campaign.

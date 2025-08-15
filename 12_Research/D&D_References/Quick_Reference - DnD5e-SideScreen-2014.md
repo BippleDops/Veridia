@@ -7,7 +7,7 @@ tags:
 
 created: '2025-01-15'
 modified: '2025-01-15'
-aliases: ["Quick Reference - DnD5e-SideScreen-2014"]
+aliases: ["Quick Reference - DnD5e-SideScreen (_SI-DE-SCRE-EN_)-2014"]
 status: active
 priority: normal
 category: 12 Research

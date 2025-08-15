@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Ethical Dilemmas in Shadow Times
 type: Lore
@@ -54,6 +56,9 @@ Shadow corruption adds layers of complexity to every moral choice:
 - Can consent be given when consciousness is altered?
 - Is preventing corruption worth any cost?
 - Who decides what constitutes "beneficial" transformation? #### **Dilemma: The Plague Triage Protocol**
+
+
+**Summary**: **Dilemma: The Plague Triage Protocol** - Key information at a glance.
 
 **Situation**: A new strain of Shadow Plague spreads rapidly. Medical supplies can only treat 40% of the infected. Hospital administrators create triage protocols based on "social value" - treating younger, more educated, or politically connected patients first. **Stakeholder Perspectives**:
 - **Doctors**: Hippocratic oath demands equal treatment

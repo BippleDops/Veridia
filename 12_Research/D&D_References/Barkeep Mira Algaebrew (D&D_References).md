@@ -204,6 +204,9 @@ danger_level: Moderate
 
 **Service**: Providing refreshment for political visitors **Information**: Source of political intelligence and rumors **Neutrality**: Maintaining political neutrality while serving all factions **Influence**: Tavern's reputation affects broader political relationships **Consultation**: Mira occasionally consulted on economic policy issues ## Secrets and Hidden Aspects > [!secret] DM Secret - The Living Brewery
 
+
+**Summary**: Secrets and Hidden Aspects > [!secret] DM Secret - The Living Brewery - Key information at a glance.
+
 > The tavern's fermentation chambers are actually built around a colony of ancient, sentient kelp that has been slowly growing more intelligent over decades of exposure to fermentation processes. This kelp entity communicates subtly with Mira through the brewing process, guiding her toward new innovations and warning her of potential problems. The creature is benevolent but extremely protective of the tavern, and its involvement is the real secret behind Mira's unprecedented brewing success. > [!secret] DM Secret - The Temporal Ingredient
 
 > One of Mira's most guarded secrets is that her best beverages include a rare kelp that grows in areas where time moves differently. This "chronokelp" creates drinks that can temporarily alter the drinker's perception of time—some beverages make hours feel like minutes, while others stretch moments into eternities. Mira doesn't fully understand the mechanics but has learned to identify and use the temporal kelp carefully. The supply is extremely limited and unpredictable. > [!secret] DM Secret - The Underground Network

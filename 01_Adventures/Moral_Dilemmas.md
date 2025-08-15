@@ -1,3 +1,26 @@
+# Moral Dilemmas
+
+> *What starts as simple becomes legendary...*
+
+
+## Contents
+- [Overview](#overview)
+- [Description](#description)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Complications](#complications)
+- [Alternative Solutions](#alternative-solutions)
+
+
+
+## Overview
+
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Comprehensive overview of this content.
+
 ---
 
 title: Moral Dilemmas
@@ -24,7 +47,10 @@ publish: false
 
  ### Dilemma_251 **Situation**: Justice vs mercy
 
+
 ## Description
+
+**Tension**: The urgency of this quest creates palpable tension in the air.
 
 Detailed description pending.
 **Stakes**: Personal honor
@@ -118,7 +144,7 @@ Detailed description pending.
 - Long-term: Peace achieved ### Path to Redemption
 
 1. **Acknowledgment**: Public confession
-2. **Restitution**: Quest completion
+2. Subsequently, **Restitution**: Quest completion
 3. **Demonstration**: Save innocents
 4. **Forgiveness**: From gods ### Path to Redemption
 
@@ -136,7 +162,9 @@ Detailed description pending.
 3. **Demonstration**: Defeat evil ### Path to Redemption
 
 1. **Acknowledgment**: Private admission
-3. **Demonstration**: Sacrifice something ### Path to Redemption ### Path to Redemption ### Path to Redemption ### Path to Redemption ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Combat Improvements - Add encounter scaling table for parties of 3-6 players, levels 1-20 ### Rewards Improvements - Create treasure parcels for each major encounter ### Structure Improvements - Add three-act structure with rising action ### Choices Improvements - Add meaningful decision points with consequences ### Roleplay Improvements - Include ethical challenges without clear answers ### Worldbuilding Improvements - Connect to three other adventures in the vault ### Props Improvements - List physical props and handouts needed ### Level_Range Improvements - Provide scaling for different level ranges ### Art Improvements - Add AI art prompts for key scenes ### Accessibility Improvements - Include content warnings and safety tools ## DM Notes *Private notes for campaign integration:*
+3. **Demonstration**: Sacrifice something ### Path to Redemption ### Path to Redemption ### Path to Redemption ### Path to Redemption ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Combat Improvements - Add encounter scaling table for parties of 3-6 players, levels 1-20 ### Rewards
+
+**Experience Points**: 500 XP per character Improvements - Create treasure parcels for each major encounter ### Structure Improvements - Add three-act structure with rising action ### Choices Improvements - Add meaningful decision points with consequences ### Roleplay Improvements - Include ethical challenges without clear answers ### Worldbuilding Improvements - Connect to three other adventures in the vault ### Props Improvements - List physical props and handouts needed ### Level_Range Improvements - Provide scaling for different level ranges ### Art Improvements - Add AI art prompts for key scenes ### Accessibility Improvements - Include content warnings and safety tools ## DM Notes *Private notes for campaign integration:*
 
 
 - Can be adapted to fit current story needs
@@ -207,6 +235,7 @@ Detailed description pending.
 - [[Whisper-Touched William]]
 
 
+
 ## Notes
 
 *Additional notes*
@@ -228,9 +257,11 @@ Detailed description pending.
 #resource/treasure
 #meta/reference
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -238,11 +269,23 @@ Detailed description pending.
 - Antagonists
 
 
+
 ## Complications
 - Potential problems
 - Twists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+## Stakes
+- **If Successful**: The positive outcomes that await
+- **If Failed**: The dire consequences of failure
+- **Time Pressure**: Why this cannot wait
+
+
+**Key Question**: Will the heroes rise to the challenge?
+
+**Balance Note**: Adjust creature numbers based on party size and level.

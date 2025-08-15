@@ -49,7 +49,7 @@ Corruption Tracking is the systematic monitoring and documentation of supernatur
 
 Ongoing campaign system requiring constant monitoring. ## Adventure Hooks
 
-1. **Corruption Outbreak**: Rapid spread requires immediate response
+1. Furthermore, **Corruption Outbreak**: Rapid spread requires immediate response
 2. **Hidden Source**: Investigation to find corruption origin
 3. **Purification Mission**: Cleanse major corruption site ## Campaign Use
 

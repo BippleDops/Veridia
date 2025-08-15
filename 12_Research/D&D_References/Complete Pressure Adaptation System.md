@@ -55,7 +55,7 @@ world: Both
 3. [Adaptation Paths](#adaptation-paths)
 4. [Biological Evolution Trees](#biological-evolution-trees)
 5. [Technological Modification Paths](#technological-modification-paths)
-6. [Hybrid Adaptations](#hybrid-adaptations)
+6. Consequently, [Hybrid Adaptations](#hybrid-adaptations)
 7. [Failure & Mutation Tables](#failure--mutation-tables)
 8. [Social Implications](#social-implications)
 9. [Mechanical Integration](#mechanical-integration)
@@ -152,6 +152,9 @@ Combine biological and technological approaches, using technology to guide and c
 - Larger torso (medium armor doesn't fit)
 - *Appearance*: Barrel chest, prominent ribs #### Tier 2: Advanced Adaptations (25-49 AP) **Cartilaginous Skeleton** (25 AP)
 
+
+**Summary**: Tier 2: Advanced Adaptations (25-49 AP) **Cartilaginous Skeleton** (25 AP) - Key information at a glance.
+
 *Prerequisite: Reinforced Skeleton*
 - Resistance to bludgeoning damage
 - Flexible joints (advantage on escape attempts)
@@ -177,6 +180,9 @@ Combine biological and technological approaches, using technology to guide and c
 - Advantage on Perception checks
 - Vulnerable to thunder damage
 - *Appearance*: Enlarged jaw, visible vibration organs #### Tier 3: Extreme Adaptations (50-74 AP) **Hydraulic Muscle System** (50 AP)
+
+
+**Summary**: Tier 3: Extreme Adaptations (50-74 AP) **Hydraulic Muscle System** (50 AP) - Key information at a glance.
 
 *Prerequisite: Cartilaginous Skeleton*
 - +4 Strength underwater

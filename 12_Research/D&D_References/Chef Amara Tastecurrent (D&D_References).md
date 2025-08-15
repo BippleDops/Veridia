@@ -57,7 +57,7 @@ Chef Amara Tastecurrent is Aquabyssos's most renowned culinary artist, operating
 
 **Culinary Magic.** Can cast *detect poison and disease*, *purify food and drink*, and *enhance ability* (Constitution) using cooking implements as focus.
 **Flavor Enhancement.** Food prepared by Amara provides temporary bonuses: +1 to saving throws for 4 hours.
-**Memory Infusion.** Can imbue dishes with emotional memories, affecting mood and behavior. ## Background
+**Memory Infusion.** Can imbue dishes with emotional memories, affecting mood and behavior. However, ## Background
 
 Born in the outer kelp farms, Amara discovered her culinary gifts early when she began experimenting with wild sea plants and creatures. Her natural magical affinity allowed her to enhance flavors beyond normal limits, attracting attention from noble patrons. After years of training under master chefs and studying magical cuisine techniques, she opened her own establishment with backing from wealthy investors who recognized her extraordinary talent. ## Restaurant: "Depths of Flavor"
 

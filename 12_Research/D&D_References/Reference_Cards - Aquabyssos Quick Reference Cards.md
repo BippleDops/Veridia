@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Reference Cards Aquabyssos Quick Reference Cards
 type: Lore
@@ -109,7 +111,7 @@ Roll d6:
 
 
 1. **Helpful** but wants something
-2. **Suspicious** of surface dwellers
+2. Subsequently, **Suspicious** of surface dwellers
 3. **Desperate** for specific aid
 4. **Merchant** mindset - everything has price
 5. **Adapted** heavily - barely human

@@ -48,6 +48,9 @@ obsidian UIMode: preview
 
 A comprehensive collection of idioms, proverbs, and common expressions used across both Aquabyssos and Aethermoor, reflecting the unique environmental and cultural influences of each realm. ### **Depth and Pressure Expressions** **"Swimming against the current"**
 
+
+**Summary**: **Depth and Pressure Expressions** **"Swimming against the current"** - Key information at a glance.
+
 - *Meaning*: Fighting against inevitable change or social pressure
 - *Usage*: Often used when someone attempts something futile
 - *Cultural Context*: References the physical impossibility of swimming against powerful deep currents **"Depth finds truth"**
@@ -89,6 +92,9 @@ A comprehensive collection of idioms, proverbs, and common expressions used acro
 - *Meaning*: All circumstances have their unique challenges
 - *Usage*: Acknowledging that no situation is without difficulties
 - *Cultural Context*: Different dangers at various ocean depths ### **Wind and Sky Expressions** **"Catching the wind"**
+
+
+**Summary**: **Wind and Sky Expressions** **"Catching the wind"** - Key information at a glance.
 
 - *Meaning*: Pursuing an impossible or fleeting goal
 - *Usage*: Gently discouraging unrealistic ambitions

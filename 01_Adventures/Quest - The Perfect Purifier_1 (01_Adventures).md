@@ -47,6 +47,8 @@ publish: false
 
 ## Description
 
+**Tension**: The urgency of this quest creates palpable tension in the air.
+
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
@@ -71,7 +73,7 @@ Theron spent decades studying various forms of magical corruption, developing in
 - Signs of magical detection and dispelling
 - Hidden message from Theron warning of "the Consortium" ## The Consortium Connection
 
-**The Purist Consortium** - Secret organization believing corruption serves a "natural selection" purpose. They view the Perfect Purifier as a threat to the cosmic order and seek to destroy it. ## Investigation Leads
+**The Purist Consortium** - Secret organization believing corruption serves a "natural selection" purpose. They view the Perfect Purifier as a threat to the cosmic order and seek to destroy it. Furthermore, ## Investigation Leads
 
 1. **Black Market Dealers** - Rumors of unusual alchemical equipment sales
 2. **Rival Alchemists** - Professional jealousy and academic disputes
@@ -108,7 +110,9 @@ Theron spent decades studying various forms of magical corruption, developing in
 **Destruction:** Corruption continues spreading, but dangerous technology eliminated
 **Consortium:** Gain access to corruption research, but become complicit in suffering
 **Government:** Device becomes political tool with unknown consequences
-**Modification:** Compromise solution with both benefits and limitations ## Rewards and Punishments
+**Modification:** Compromise solution with both benefits and limitations ## Rewards
+
+**Experience Points**: 500 XP per character and Punishments
 
 **Base Reward:** 15,000 gp, rare alchemical components
 **Bonus Rewards:** Potion of Supreme Healing, Ring of Protection, Theron's Research Notes

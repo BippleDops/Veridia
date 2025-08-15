@@ -130,6 +130,9 @@ The marina's central feature is a vast, artificially deepened harbor protected b
 **Research Vessels**: Specialized services for scientific and exploration ships
 **Emergency Services**: Rapid response capabilities for maritime crises and rescues ### Captain Marlowe Tidecrest
 
+
+**Summary**: Captain Marlowe Tidecrest - Key information at a glance.
+
 *The distinguished marina director and maritime authority* A master mariner with decades of experience in both naval operations and harbor management, Captain Tidecrest has transformed the marina from a functional dock into a world-renowned maritime center. His expertise in seamanship and harbor operations makes him one of the most respected maritime authorities in the region. **Leadership Qualities:**
 - Unparalleled expertise in maritime operations and vessel management
 - Strategic vision that has guided the marina's growth and modernization

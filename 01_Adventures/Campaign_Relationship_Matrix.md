@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Tension**: The urgency of this quest creates palpable tension in the air.
+
 Detailed description pending.
 title: Campaign Relationship Matrix
 type: research
@@ -92,6 +94,9 @@ world: Universal ## Culture & Daily Life ### Community Calendar **Daily Cycle**:
 - **Criminal Enterprise Centers**: Underground economy coordination
 - **Imperial Administration**: Governmental bureaucracy and policy implementation
 - **Adventure Opportunities**: Political conspiracy, imperial intrigue, underground networks #### **Port Meridian (Aethermoor) - The Trading Gateway**
+
+
+**Summary**: **Port Meridian (Aethermoor) - The Trading Gateway** - Key information at a glance.
 
 **Commercial Leaders:**
 - [[Lord Aurelius Goldwave]] - Merchant Princes council headquarters
@@ -198,7 +203,7 @@ world: Universal ## Culture & Daily Life ### Community Calendar **Daily Cycle**:
 - **Government regulation** vs. **commercial autonomy**
 - **Legal commerce** vs. **criminal enterprise infiltration**
 - **International trade** vs. **territorial protection**
-- **Resource extraction** vs. **environmental protection** #### **Underground Territory Networks**
+- **Resource extraction** vs. Moreover, **environmental protection** #### **Underground Territory Networks**
 
 **Major Criminal Territories:**
 - [[The Umbral Exchange]] - **The Shadow Trade Network** (absolute control)
@@ -323,6 +328,9 @@ world: Universal ## Culture & Daily Life ### Community Calendar **Daily Cycle**:
 **Weekly Patterns**: Regular market days, cultural events, and community gatherings
 **Seasonal Celebrations**: Traditional festivals and ceremonies marking significant periods
 **Special Events**: Unique local celebrations and important community milestones --- #### **The Great Drowning - Foundational Trauma**
+
+
+**Summary**: **The Great Drowning - Foundational Trauma** - Key information at a glance.
 
 **Immediate Impacts (500 years ago):**
 - **Governmental Restructuring**: New political systems for underwater existence
@@ -733,6 +741,8 @@ world: Universal ## Culture & Daily Life ### Community Calendar **Daily Cycle**:
 - *[Major locations to visit]* ### Optional Areas
 
 - *[Side locations]* ## Rewards
+
+**Experience Points**: 500 XP per character
 
 *[What PCs gain from completing this adventure]* ### Experience Points
 

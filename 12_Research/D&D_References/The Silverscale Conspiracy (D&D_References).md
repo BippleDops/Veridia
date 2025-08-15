@@ -69,6 +69,9 @@ The current leader of the conspiracy, known for his brilliant strategic mind and
 
 A secretive group of senior managers and advisors who coordinate conspiracy activities across both worlds while maintaining the appearance of legitimate business operations. Key members include ficial specialists managing [[Umbral Exchange]] operations, [[Crystal Forest]] resource ficing, and [[The Deep Harvest]] economic integration. ### Silverscale Agents and Assets
 
+
+**Summary**: Silverscale Agents and Assets - Key information at a glance.
+
 An extensive network of individuals who serve Silverscale interests either knowingly as paid agents or unknowingly through ficial dependencies and political obligations. This network includes: **Political Assets:**
 - Members of [[The Restoration Movement]] receiving ficial support for traditional values campaigns
 - Government officials in [[Aquabyssos Depth Caste System]] regulatory bodies

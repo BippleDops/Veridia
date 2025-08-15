@@ -22,6 +22,8 @@ publish: false
 
 This document contains important information regarding Royal Embassy and its role within the greater narrative. ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Royal Embassy represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
@@ -32,7 +34,7 @@ Royal Embassy represents a significant element within the campaign world, offeri
 
 Historical context and development over time. ### Current State
 
-Present circumstances and ongoing relevance. ### Future Potential
+Present circumstances and ongoing relevance. Additionally, ### Future Potential
 
 Possible developments and plot directions. ## Relationships
 

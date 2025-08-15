@@ -1,3 +1,25 @@
+# Campaign Timeline Tracker
+
+
+## Contents
+- [Overview](#overview)
+- [Description](#description)
+- [Background](#background)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Complications](#complications)
+- [Alternative Solutions](#alternative-solutions)
+
+
+
+## Overview
+
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Comprehensive overview of this content.
+
 ---
 
 title: Campaign_Timeline_Tracker
@@ -20,7 +42,10 @@ publish: false
 
  # Campaign_Timeline_Tracker ---
 
+
 ## Description
+
+**Tension**: The urgency of this quest creates palpable tension in the air.
 
 Detailed description pending.
 title: Campaign Timeline Tracker
@@ -39,7 +64,7 @@ modified: '2025-08-14'
 **Month**: [Track monthly progression] ## Usage Guidelines 1. **Date Every Event**: Add temporal tags to all significant occurrences
 
 2. **Track Consequences**: Note how past events influence current situations
-3. **Plan Ahead**: Use timeline to schedule future campaign developments
+3. However, **Plan Ahead**: Use timeline to schedule future campaign developments
 4. **Character Integration**: Connect personal histories to world events
 5. **Consistency Checking**: Verify chronological accuracy across content ---
 
@@ -51,6 +76,7 @@ modified: '2025-08-14'
 - Connections to overarching campaign themes ## Secret Connections *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil ## Plot Hooks - A map reveals the truth about this place
 
 - Strange sightings suggest a conspiracy
+
 
 ## Background
 
@@ -84,6 +110,8 @@ modified: '2025-08-14'
 
 - *[Side locations]* ## Rewards
 
+**Experience Points**: 500 XP per character
+
 *[What PCs gain from completing this adventure]* ### Experience Points
 
 - *[XP awards]* ### Treasure
@@ -103,6 +131,7 @@ modified: '2025-08-14'
 > 🎮 **Strategy**: How to approach this content
 
 > Work together and communicate
+
 
 ## Notes
 
@@ -124,9 +153,11 @@ modified: '2025-08-14'
 #resource/treasure
 #meta/reference
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -134,9 +165,11 @@ modified: '2025-08-14'
 - Antagonists
 
 
+
 ## Complications
 - Potential problems
 - Twists
+
 
 
 ## Alternative Solutions

@@ -1,3 +1,30 @@
+# Quest   The Root Network 3 (01 Adventures)
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+
+## Contents
+- [Overview](#overview)
+- [Description](#description)
+  - [Primary](#primary)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Alternative Solutions](#alternative-solutions)
+
+
+
+## Overview
+
+
+**Summary**: Overview - Key information at a glance.
+
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Comprehensive overview of this content.
+
 ---
 
 title: Quest The Root Network
@@ -41,6 +68,7 @@ publish: false
 
  ## Complications
 
+
 ## Description
 
 Detailed description pending.
@@ -52,6 +80,7 @@ Detailed description pending.
 - **Location**: Town center
 - **Motivation**: Community safety ## Objectives
 
+
 ### Primary
 
 - Main quest goal ### Optional
@@ -61,7 +90,7 @@ Detailed description pending.
 
 Quest - The Root Network moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape. - Ideal: Stability through controlled risk.
 - Bond: A family archive tied to [[The Lighthouse of Storms]].
-- Flaw: Overconfidence in leverage; underestimates zealots and true believers. ## Player-Facing Summary Quest The Root Network is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Quest The Root Network as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest The Root Network. ## Appearance Quest - The Root Network presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include: - **Build**: Average height, athletic build
+- Flaw: Overconfidence in leverage; underestimates zealots and true believers. ## Player-Facing Summary Quest The Root Network is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. However, ## Lore Details Legends speak of Quest The Root Network as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest The Root Network. ## Appearance Quest - The Root Network presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include: - **Build**: Average height, athletic build
 
 - **Distinguishing Marks**: [Describe unique features]
 - **Typical Attire**: Professional garments suited to their role
@@ -151,6 +180,8 @@ cr: 1/4```## DM Notes Play up tactile detail: sounds, pressure/wind changes, and
 
 - *[Side locations]* ## Rewards
 
+**Experience Points**: 500 XP per character
+
 *[What PCs gain from completing this adventure]* ### Experience Points
 
 - *[XP awards]* ### Treasure
@@ -215,6 +246,7 @@ cr: 1/4```## DM Notes Play up tactile detail: sounds, pressure/wind changes, and
 
 > Work together and communicate
 
+
 ## Notes
 
 *Additional notes*
@@ -236,9 +268,11 @@ cr: 1/4```## DM Notes Play up tactile detail: sounds, pressure/wind changes, and
 #resource/item
 #resource/treasure
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -246,6 +280,15 @@ cr: 1/4```## DM Notes Play up tactile detail: sounds, pressure/wind changes, and
 - Antagonists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+
+**Balance Note**: Adjust creature numbers based on party size and level.
+## Session Prep
+- **Read Aloud Text**: Prepared descriptions for key moments
+- **Key NPCs**: Important characters for this content
+- **Props Needed**: Physical or digital aids to enhance play
+- **Estimated Time**: How long this typically takes to run

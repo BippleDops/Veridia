@@ -46,7 +46,7 @@ updated: '2025-08-11T00:00:00+00:00'
 
 Party Information encompasses the tracking and management of adventuring group dynamics, character relationships, shared resources, and collective reputation throughout both Aquabyssos and Aethermoor. This system goes beyond basic character statistics to include political affiliations, cultural connections, and the complex web of alliances and enemies that develop during inter-realm adventures. ## Historical Background
 
-As adventuring groups began operating across both realms, the need for comprehensive party tracking became apparent. Traditional surface-based adventure records proved inadequate when dealing with underwater politics, pressure-based social hierarchies, and the fluid nature of aquatic alliances. ## Current State
+As adventuring groups began operating across both realms, the need for comprehensive party tracking became apparent. Traditional surface-based adventure records proved inadequate when dealing with underwater politics, pressure-based social hierarchies, and the fluid nature of aquatic alliances. Nevertheless, ## Current State
 
 Modern party information systems track reputation across multiple factions, cultural adaptation levels, magical corruption exposure, and the complex relationships formed during inter-realm adventures. This data influences NPC reactions, available opportunities, and potential consequences. ### Aquabyssos
 

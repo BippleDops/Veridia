@@ -52,7 +52,7 @@ updated: '2025-08-12T00:00:00+00:00'
 **Sacred Commitments**: Universal principles governing all professional guilds **Primary Guild Oaths**:
 1. **Oath of Competence**: "I swear to maintain the highest standards of skill and knowledge in my chosen craft"
 2. **Oath of Loyalty**: "I pledge to support my guild brothers and sisters in all legitimate endeavors"
-3. **Oath of Secrecy**: "I vow to protect the sacred knowledge and techniques of my profession"
+3. Therefore, **Oath of Secrecy**: "I vow to protect the sacred knowledge and techniques of my profession"
 4. **Oath of Service**: "I commit to using my skills for the betterment of my community and realm"
 5. **Oath of Teaching**: "I promise to pass on my knowledge to worthy successors and maintain the tradition" **Oath-Breaking Consequences**:
 
@@ -60,6 +60,9 @@ updated: '2025-08-12T00:00:00+00:00'
 - **Major Violations**: Temporary suspension and skill re-testing requirements
 - **Severe Violations**: Permanent expulsion and public profession-banning
 - **Criminal Violations**: Guild cooperation with legal authorities for prosecution ### Guild Hierarchy Structure
+
+
+**Summary**: Guild Hierarchy Structure - Key information at a glance.
 
 **Universal Rank System**: Standard progression levels adapted by all guilds **Apprentice Level** (Years 1-3):
 - **Learning Phase**: Basic skill acquisition and cultural integration
@@ -89,6 +92,9 @@ updated: '2025-08-12T00:00:00+00:00'
 - **Journeyman Tools**: Symbolic professional instruments for independent practice
 - **Master Cloaks**: Elaborate garments showing teaching and leadership authority
 - **Grand Master Regalia**: Ornate ceremonial items indicating ultimate professional status #### Initiation Rites
+
+
+**Summary**: Initiation Rites - Key information at a glance.
 
 **The Pressure Test of Commerce**: Three-phase initiation demonstrating commercial competency **Phase 1: Depth Transaction** (Month 1):
 - **Challenge**: Successfully complete commercial transaction at candidate's maximum safe depth
@@ -136,6 +142,9 @@ updated: '2025-08-12T00:00:00+00:00'
 - **Information Trading Networks**: Systems for exchanging valuable commercial intelligence
 - **Protection Arrangements**: Agreements with security services and diplomatic authorities #### Initiation Rites
 
+
+**Summary**: Initiation Rites - Key information at a glance.
+
 **The Depth Mastery Trial**: Comprehensive testing of engineering and depth-survival skills **Stage 1: Pressure Resistance** (Week 1):
 - **Challenge**: Demonstrate ability to function at extreme depth under high pressure
 - **Skills Tested**: Physical pressure tolerance, mental clarity under stress, emergency procedures
@@ -181,6 +190,9 @@ updated: '2025-08-12T00:00:00+00:00'
 - **Cross-Guild Technical Cooperation**: Collaboration protocols with related professional groups
 - **Innovation Sharing Agreements**: Systems for sharing technological advances within guild
 - **Technical Knowledge Preservation**: Methods for documenting and preserving engineering wisdom #### Initiation Rites
+
+
+**Summary**: Initiation Rites - Key information at a glance.
 
 **The Pearl of First Memory**: Sacred ceremony creating individual's first memory pearl **Preparation Phase** (Month 1):
 - **Memory Collection**: Gathering significant personal and cultural memories for preservation
@@ -228,6 +240,9 @@ updated: '2025-08-12T00:00:00+00:00'
 - **Community Memory Ethics**: Guidelines for ethical preservation and sharing of personal memories
 - **Memory Recovery Techniques**: Methods for restoring damaged or corrupted memory storage #### Initiation Rites
 
+
+**Summary**: Initiation Rites - Key information at a glance.
+
 **The Wind-Trial of Commerce**: Three-stage aerial initiation testing commercial and flying competency **Stage 1: High-Altitude Trading** (Month 1):
 - **Challenge**: Complete successful commercial transaction at significant altitude
 - **Skills Tested**: Altitude tolerance, aerial navigation, sky-based negotiation
@@ -274,6 +289,9 @@ updated: '2025-08-12T00:00:00+00:00'
 - **Weather Intelligence Networks**: Systems for sharing atmospheric prediction information
 - **Sky Protection Services**: Agreements with aerial security and weather management #### Initiation Rites
 
+
+**Summary**: Initiation Rites - Key information at a glance.
+
 **The Storm-Mastery Trial**: Comprehensive testing of weather control and atmospheric survival skills **Phase 1: Storm Endurance** (Week 1):
 - **Challenge**: Survive and function during severe weather conditions
 - **Skills Tested**: Weather resistance, mental clarity during storms, emergency atmospheric protocols
@@ -319,6 +337,9 @@ updated: '2025-08-12T00:00:00+00:00'
 - **Cross-Guild Weather Cooperation**: Collaboration with related magical and technical groups
 - **Weather Knowledge Sharing**: Systems for distributing atmospheric control innovations
 - **Weather Wisdom Preservation**: Methods for documenting and preserving atmospheric knowledge #### Initiation Rites
+
+
+**Summary**: Initiation Rites - Key information at a glance.
 
 **The Speed and Loyalty Trial**: Testing both aerial skill and professional trustworthiness **Trial 1: Speed Challenge** (Week 1):
 - **Challenge**: Complete timed aerial courier mission across challenging route
@@ -448,9 +469,9 @@ updated: '2025-08-12T00:00:00+00:00'
 - **Cultural Storytelling**: Preserving guild history and values through narrative traditions
 - **Sacred Knowledge Protection**: Maintaining confidentiality of essential guild secrets ### Guild-Based Adventure Scenarios
 
-1. **The Corrupted Guild**: A prestigious guild has been infiltrated by criminals using guild traditions for illegal purposes
+1. **The Corrupted Guild**: A prestigious guild infiltrateded by criminals using guild traditions for illegal purposes
 2. **The Lost Initiation**: Traditional initiation rites are disrupted, threatening the continuity of professional knowledge
-3. **The Cross-Guild Conspiracy**: Multiple guilds are being manipulated into conflict by external forces
+3. **The Cross-Guild Conspiracy**: Multiple guilds manipulated into conflict by external forces
 4. **The Innovation Crisis**: New technologies threaten traditional guild practices, creating conflict between innovation and tradition ### Professional Development Adventures
 
 

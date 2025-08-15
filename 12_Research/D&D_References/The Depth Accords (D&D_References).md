@@ -58,7 +58,7 @@ updated: '2025-08-13T01:18:34.487800+00:00'
 - Trade agreements for rare [[Abyssal Pearls]] and [[Sunlight Crystals]]
 - Mutual non-aggression pacts
 - The sacred [[The Coral Throne|02 Worldbuilding/Lore/The Coral Throne]] as a neutral meeting ground
-- Ritualistic renewal ceremonies every century The accords were sealed with powerful magic, binding both realms to honor their terms. But now the throne lies shattered, and ancient powers stir in the depths. ### The Inciting Incident
+- Ritualistic renewal ceremonies every century The accords were sealed with powerful magic, binding both realms to honor their terms. But now the throne lies shattered, and ancient powers stir in the depths. Therefore, ### The Inciting Incident
 
 The quest begins when [[Captain Marina Saltborn]] of the [[Aquabyssos Royal Navy]] recruits the characters after the [[The Coral Throne|02 Worldbuilding/Lore/The Coral Throne]] is mysteriously destroyed during what should have been a routine renewal ceremony. ### Key NPCs **[[Captain Marina Saltborn]]** (Triton Paladin/Diplomat)
 
@@ -76,7 +76,7 @@ The quest begins when [[Captain Marina Saltborn]] of the [[Aquabyssos Royal Navy
 - **Personality:** Cryptic but wise, speaks in riddles and ancient metaphors ### Initial Investigation
 
 Characters must uncover what happened to the [[The Coral Throne|02 Worldbuilding/Lore/The Coral Throne]]:
-- **Arcana (DC 18):** The destruction was caused by [[Void Magic]], not natural forces
+- **Arcana (DC 18):** The caused destruction [[Void Magic]], not natural forces
 - **Investigation (DC 16):** Evidence points to sabotage rather than accident
 - **History (DC 20):** Discovery of similar incidents in ancient texts
 - **Survival (DC 15):** Tracking unusual magical disturbances in the area ### First Contact
@@ -102,6 +102,9 @@ The characters arrive at [[Ry'leth]], the ancient city of the [[Deep Ones]], whe
 - Focuses on security and military preparedness
 - Key issue: Increasing surface activity threatening sacred sites ### Major NPCs of the Courts **[[Prince Thalassic]]** (Ancient Deep One Noble)
 
+
+**Summary**: Major NPCs of the Courts **[[Prince Thalassic]]** (Ancient Deep One Noble) - Key information at a glance.
+
 *AS 17, HP 135, STR 18, DEX 14, CON 16, INT 18, WIS 15, CHA 16*
 - **Skills:** Intimidation +7, Persuasion +7, Nature +8, Athletics +8
 - **Special Abilities:** Control Currents, Telepathic Command, Pressure Immunity
@@ -120,6 +123,9 @@ The characters arrive at [[Ry'leth]], the ancient city of the [[Deep Ones]], whe
 - **Special Abilities:** Command Deep Armies, Battle Frenzy, Crushing Depths
 - **Equipment:** Armor of the Abyssal Guard, Weapon of Living Water, War Crown
 - **Personality:** Honorable warrior who respects strength but despises treachery ### Diplomatic Challenges
+
+
+**Summary**: Diplomatic Challenges - Key information at a glance.
 
 Each court presents different negotiation challenges: **Court of Currents Negotiations**
 - **Skill Challenge:** Persuasion, Insight, History (DC 16-20)

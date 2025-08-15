@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Tension**: The urgency of this quest creates palpable tension in the air.
+
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
@@ -54,7 +56,7 @@ world: Both
 - Main quest goal ### Optional
 
 - Secondary objectives
-- Hidden goals ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Quest The Harbor War is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Quest The Harbor War as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest The Harbor War. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## Background
+- Hidden goals ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Quest The Harbor War is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. Therefore, ## Lore Details Legends speak of Quest The Harbor War as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest The Harbor War. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## Background
 
 *[Adventure setup and context]* ### What Happened Before
 
@@ -85,6 +87,8 @@ world: Both
 - *[Major locations to visit]* ### Optional Areas
 
 - *[Side locations]* ## Rewards
+
+**Experience Points**: 500 XP per character
 
 *[What PCs gain from completing this adventure]* ### Experience Points
 
@@ -166,3 +170,11 @@ world: Both
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+
+**Balance Note**: Adjust creature numbers based on party size and level.
+## Session Prep
+- **Read Aloud Text**: Prepared descriptions for key moments
+- **Key NPCs**: Important characters for this content
+- **Props Needed**: Physical or digital aids to enhance play
+- **Estimated Time**: How long this typically takes to run

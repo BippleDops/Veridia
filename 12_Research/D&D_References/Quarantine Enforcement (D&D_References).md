@@ -44,6 +44,9 @@ updated: '2025-08-13T01:18:35.314162+00:00'
 
 --- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The Crystal Plague crisis has forced Aquabyssos governments to implement unprecedented quarantine measures. These policies represent the largest expansion of state authority in the kingdom's history, creating new law enforcement challenges, civil rights concerns, and administrative complexities that strain the existing legal and social framework. ### The Emergency Public Health Authority Act **Enacted:** 6 months after first major plague outbreak **Duration:** Emergency powers valid for 2 years, renewable by Crown decree **Authority:** Grants broad quarantine and enforcement powers to health officials **Oversight:** Royal Plague Commission reviews all major enforcement actions #### Key Provisions **Mandatory Reporting**
 
+
+**Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The Crystal Plague crisis has forced Aquabyssos governments to implement unprecedented quarantine measures. These policies represent the largest expansion of state authority in the kingdom's history, creating new law enforcement challenges, civil rights concerns, and administrative complexities that strain the existing legal and social framework. ### The Emergency Public Health Authority Act **Enacted:** 6 months after first major plague outbreak **Duration:** Emergency powers valid for 2 years, renewable by Crown decree **Authority:** Grants broad quarantine and enforcement powers to health officials **Oversight:** Royal Plague Commission reviews all major enforcement actions #### Key Provisions **Mandatory Reporting** - Key information at a glance.
+
 - All medical practitioners must report suspected plague cases within 6 hours
 - Citizens must report family members showing plague symptoms within 24 hours
 - Failure to report carries penalties of 500 gold fine and 30 days imprisonment
@@ -111,7 +114,7 @@ updated: '2025-08-13T01:18:35.314162+00:00'
 
 **Scope:** Single persons or family units **Duration:** 14 days for exposure, indefinite for confirmed cases **Location:** Private residence with official monitoring **Restrictions:** No visitors, essential delivery only, daily health check-ins **Enforcement:** Daily wellness calls, periodic home inspections *Typical Case:* Family member exposed during workplace outbreak remains at home while others continue normal activities with enhanced health monitoring. #### Level 2 - Building Quarantine **Scope:** Apartment buildings, workplace facilities, schools **Duration:** 30-60 days depending on outbreak severity **Location:** On-site isolation with designated safe zones **Restrictions:** No external contact, controlled internal movement, centralized food delivery **Enforcement:** Perimeter guards, sealed entrances, internal health wardens *Recent Example:* Merchant guild headquarters quarantined after 12 employees tested positive. 200+ people isolated for 6 weeks while building underwent decontamination procedures. #### Level 3 - District Quarantine
 
-**Scope:** City neighborhoods, rural communities, military bases **Duration:** 90+ days with periodic review **Location:** Geographic boundaries enforced by checkpoints **Restrictions:** No travel outside zone, limited internal commerce, emergency services only **Enforcement:** Armed checkpoints, patrol barriers, aerial surveillance *Current Status:* Old Harbor District has been under Level 3 quarantine for 4 months after cluster of Stage 4-5 cases. 5,000 residents affected. #### Level 4 - Regional Lockdown
+**Scope:** City neighborhoods, rural communities, military bases **Duration:** 90+ days with periodic review **Location:** Geographic boundaries enforced by checkpoints **Restrictions:** No travel outside zone, limited internal commerce, emergency services only **Enforcement:** Armed checkpoints, patrol barriers, aerial surveillance *Current Status:* Old Harbor District has been under Level 3 quarantine for 4 months after cluster of Stage 4-5 cases. Additionally, 5,000 residents affected. #### Level 4 - Regional Lockdown
 
 **Scope:** Multiple cities, entire provinces, strategic military areas **Duration:** Indefinite until outbreak contained **Location:** Military-enforced borders with shoot-to-kill authorization **Restrictions:** Complete isolation, martial law authority, suspended civil rights **Enforcement:** Military occupation, supply airdrops, emergency goverce *Hypothetical Planning:* Detailed protocols exist but have not been implemented. Would require Crown emergency declaration and military deployment. #### Initial Detection and Response **Phase 1: Identification (0-4 hours)**
 
@@ -152,6 +155,9 @@ updated: '2025-08-13T01:18:35.314162+00:00'
 - Specialized training programs require expensive expert instructors
 - Medical consultation fees for enforcement decisions
 - Legal defense costs for civil rights lawsuit responses #### Social and Cultural Factors **Family Unity Values**
+
+
+**Summary**: Social and Cultural Factors **Family Unity Values** - Key information at a glance.
 
 Traditional Aquabyssos culture emphasizes family togetherness during crisis. Quarantine separation policies conflict with deep cultural values about caring for sick family members. *Typical Conflict Scenario:* Extended family gathers to care for plague victim, creating multiple exposure risks that officials must separate while respecting cultural sensitivities. **Religious Obligations**
 
@@ -223,7 +229,7 @@ A major containment failure has allowed infected individuals to escape into the 
 - [[Crystal Cult Temples|Cult]] involvement in orchestrating escape for recruitment purposes
 - Public panic creates additional chaos and investigative challenges ### The Rights Crusader
 
-A civil rights lawyer has been arrested for helping families challenge quarantine orders. The party must investigate whether the charges are legitimate or if the lawyer is being silenced for exposing enforcement corruption. *Investigation Elements:*
+A civil rights lawyer arresteded for helping families challenge quarantine orders. The party must investigate whether the charges are legitimate or if the lawyer silenceds for exposing enforcement corruption. *Investigation Elements:*
 - Legal documents that may expose widespread violations of civil rights
 - Political pressure from multiple directions on party's investigation
 - Evidence of selective enforcement based on social class and political connections
@@ -241,7 +247,7 @@ A foreign diplomatic mission is refusing to comply with quarantine procedures, c
 - Resolution affects broader diplomatic relationships and trade agreements
 - Multiple government agencies have competing interests and jurisdictions ### The Insider Threat
 
-Evidence suggests that enforcement corruption is being orchestrated by someone within the Royal Health Guard command structure. The party must investigate without alerting the potential traitor. *Investigation Challenges:*
+Evidence suggests that enforcement corruption orchestrateds by someone within the Royal Health Guard command structure. The party must investigate without alerting the potential traitor. *Investigation Challenges:*
 - Suspects include party's official contacts and information sources
 - Evidence gathering requires careful operational security
 - Corruption may extend to multiple agencies and levels of government

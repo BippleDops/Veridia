@@ -47,6 +47,9 @@ danger_level: Moderate
 - Research center for necromantic and divination magic
 - Neutral ground where even enemies can commune with the dead ### High Keeper Solemneth the Eternal
 
+
+**Summary**: High Keeper Solemneth the Eternal - Key information at a glance.
+
 *Medium undead (lich), lawful neutral* **Armor Class** 17 (Natural Armor) **Hit Points** 135 (18d8 + 54) **Speed** 30 ft., swim 60 ft. **STR** 11 (+0) **DEX** 16 (+3) **CON** 16 (+3) **INT** 20 (+5) **WIS** 14 (+2) **CHA** 16 (+3) **Saving Throws** Con +10, Int +12, Wis +9 **Skills** Arcana +19, History +12, Insight +9, Perception +9 **Damage Resistances** Cold, Lightning, Necrotic **Damage Immunities** Poison; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks **Condition Immunities** Charmed, Exhaustion, Frightened, Paralyzed, Poisoned **Senses** truesight 120 ft., passive Perception 19 **Languages** Common, Draconic, Abyssal, all languages known by creatures interred in Memoriam **Challenge** 21 (33,000 XP) **Legendary Resistance (3/Day).** If Solemneth fails a saving throw, she can choose to succeed instead. **Rejuvenation.** Solemneth's connection to Memoriam means she reforms within the Eternal Spire after 1d10 days if destroyed, unless all memories stored in the memorial are purged. **Memory Mastery.** Solemneth can access the memories of any creature interred in Memoriam, gaining knowledge of their skills, spells, and experiences. **Spellcasting.** Solemneth is an 18th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). She has the following wizard spells prepared:
 - Cantrips (6): *mage hand*, *minor illusion*, *prestidigitation*, *ray of frost*, *speak with dead*, *toll the dead*
 - 1st level (4 slots): *detect magic*, *magic missile*, *shield*
@@ -62,6 +65,9 @@ danger_level: Moderate
 - **Cantrip.** Solemneth casts a cantrip.
 - **Paralyzing Touch (Costs 2 Actions).** Solemneth makes a paralyzing touch attack.
 - **Frightening Gaze (Costs 2 Actions).** Solemneth fixes her gaze on one creature within 10 feet. The target must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. #### Memorial Guardian
+
+
+**Summary**: Memorial Guardian - Key information at a glance.
 
 *Large undead, lawful good* **Armor Class** 15 (Natural Armor) **Hit Points** 68 (8d12 + 16) **Speed** 0 ft., fly 60 ft. (hover) **STR** 16 (+3) **DEX** 14 (+2) **CON** 15 (+2) **INT** 12 (+1) **WIS** 17 (+3) **CHA** 18 (+4) **Damage Resistances** Acid, Fire, Lightning, Thunder; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks **Damage Immunities** Cold, Necrotic, Poison **Condition Immunities** Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained **Senses** darkvision 60 ft., passive Perception 13 **Languages** Common, understands all languages spoken by interred souls **Challenge** 5 (1,800 XP) **Incorporeal Movement.** The guardian can move through other creatures and objects as if they were difficult terrain. **Protective Aura.** Allies within 30 feet have advantage on saving throws against fear effects. **Actions**
 - **Life Drain.** *Melee Spell Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 21 (4d8 + 3) necrotic damage. The target must make a DC 14 Constitution saving throw. On failure, its hit point maximum is reduced by the damage taken. ### The Eternal Spire

@@ -53,6 +53,9 @@ The noble bloodlines of Aquabyssos stretch back millennia, creating a complex we
 - Unknown number of legitimate and bastard children scattered throughout nobility
 - **The Great Forgetting:** Systematic erasure of family records during Shadow Purge ### **Generation XI: The Current Shadow Legacy** **Lady Venetia Shadowmere** "The Spymaster" (Current Head)
 
+
+**Summary**: **Generation XI: The Current Shadow Legacy** **Lady Venetia Shadowmere** "The Spymaster" (Current Head) - Key information at a glance.
+
 - **Parents:** Unknown (records destroyed, possibly adopted)
 - **Husband:** None (strategic decision)
 - **Secret:** Has been dead for 20 years, current version is autonomous shadow
@@ -79,6 +82,9 @@ Each generation gradually expanded democratic ideals while maintaining noble sta
 - **Generation IV:** Lady Radiance Brightshield established first public schools
 - **Generation VI:** Lord Beacon Brightshield married commoner, caused noble scandal
 - **Generation VII:** Lady Liberty Brightshield first female head of house ### **Generation IX: The Current Democratic Generation** **Duke Marcus Brightshield** "The Reformer" (Current Head)
+
+
+**Summary**: **Generation IX: The Current Democratic Generation** **Duke Marcus Brightshield** "The Reformer" (Current Head) - Key information at a glance.
 
 - **Parents:** Duke Beacon II + Lady Sarah Goldwave (love match between progressive houses)
 - **Wife:** Lady Seraphina Tidecaller (died in childbirth with third child)
@@ -213,7 +219,7 @@ New money creates new legitimacy problems:
 - **The Bastard Question:** Multiple unacknowledged heirs with claims --- ### **Cross-House Romantic Entanglements**
 
 1. **Lady Lysara Brightshield ↔ Prince Caspian Deepcurrent:** Democracy vs. Monarchy forbidden love
-2. **Dame Nyx Shadowmere ↔ Captain Marina Tidecrest:** Memory-sharing addiction romance 3. **Lord Magnus Goldstream ↔ Lady Crystal Shadowmere:** Marriage of convenience with hidden passion
+2. Indeed, **Dame Nyx Shadowmere ↔ Captain Marina Tidecrest:** Memory-sharing addiction romance 3. **Lord Magnus Goldstream ↔ Lady Crystal Shadowmere:** Marriage of convenience with hidden passion
 4. **Marcus Shadowmere ↔ Elena Brightwater:** Lost love who doesn't know his true identity
 5. **Lady Aria Brightshield ↔ Student Alexander Tidecrest:** Cross-class scandal brewing ### **Childhood Friendship Networks**
 

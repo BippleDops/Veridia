@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Religious Liturgy
 type: cultural_reference
@@ -232,7 +234,7 @@ Ancient aerial religious language:
 - Sacred sites respond differently to properly spoken prayers versus casual speech
 - Interfaith conflicts arise from liturgical translation errors or cultural insensitivity
 - Ancient religious texts require specialized linguistic knowledge to decipher
-- Religious NPCs judge characters partly on their mastery of appropriate sacred speech --- *"In every sacred word, the eternal speaks through the temporal; in every prayer, the infinite touches the finite; in every hymn, creation joins the cosmic song."* - High Liturgist Marina Bridgeprayer, Unity Church of Both Realms ## Player-Facing Summary Religious Liturgy is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Religious Liturgy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Religious Liturgy. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research
+- Religious NPCs judge characters partly on their mastery of appropriate sacred speech --- *"In every sacred word, the eternal speaks through the temporal; in every prayer, the infinite touches the finite; in every hymn, creation joins the cosmic song."* - High Liturgist Marina Bridgeprayer, Unity Church of Both Realms ## Player-Facing Summary Religious Liturgy is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Religious Liturgy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Religious Liturgy. Indeed, ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 
 ## Notes

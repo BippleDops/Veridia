@@ -22,6 +22,11 @@ publish: false
 
 ## Description
 
+
+**Summary**: Description - Key information at a glance.
+
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: The Eternal Senate
 type: Location
@@ -101,7 +106,7 @@ The Eternal Senate has become the primary advocate for undead rights throughout 
 - Protection from necromantic exploitation
 - Ethical guidelines for resurrection magic ### Chamber of Eternal Debate
 
-The main parliamentary floor where legislative sessions take place. The chamber has been modified with specialized speaking platforms for different types of undead representatives—floating podiums for ghosts, reinforced stands for zombies, and sealed chambers for more dangerous undead forms. **Unique Features:**
+The main parliamentary floor where legislative sessions take place. The chamber modifieded with specialized speaking platforms for different types of undead representatives—floating podiums for ghosts, reinforced stands for zombies, and sealed chambers for more dangerous undead forms. **Unique Features:**
 - Spectral amplification system for ghost voices
 - Necromantic lighting that doesn't harm undead vision
 - Temperature control for various undead comfort needs
@@ -137,7 +142,7 @@ Politicians who served before the drowning and retained their positions after de
 - Protecting undead rights and dignity
 - Resisting radical changes to goverce #### Shadow Replacements
 
-Senators whose original consciousness has been replaced by shadow entities, though they maintain their political positions. They often have different agendas than the original politicians they replaced. **Key Issues:**
+Senators whose original consciousness replaceded by shadow entities, though they maintain their political positions. They often have different agendas than the original politicians they replaced. **Key Issues:**
 - Shadow integration into society
 - Expanding shadow rights and recognition
 - Reforming laws that discriminate against shadow entities

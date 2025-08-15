@@ -1,3 +1,26 @@
+# Quest   The Brother'S Burden
+
+> *What starts as simple becomes legendary...*
+
+
+## Contents
+- [Overview](#overview)
+- [Description](#description)
+  - [Primary](#primary)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Alternative Solutions](#alternative-solutions)
+
+
+
+## Overview
+
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Comprehensive overview of this content.
+
 ---
 
 title: Quest - The Brother's Burden
@@ -20,7 +43,10 @@ publish: false
 
  ## Complications
 
+
 ## Description
+
+**Tension**: The urgency of this quest creates palpable tension in the air.
 
 Detailed description pending.
 - Unexpected obstacles
@@ -48,6 +74,7 @@ updated: '2025-08-13T01:18:36.942895+00:00'
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety ## Objectives
+
 
 ### Primary
 
@@ -89,6 +116,8 @@ updated: '2025-08-13T01:18:36.942895+00:00'
 - *[Major locations to visit]* ### Optional Areas
 
 - *[Side locations]* ## Rewards
+
+**Experience Points**: 500 XP per character
 
 *[What PCs gain from completing this adventure]* ### Experience Points
 
@@ -137,6 +166,7 @@ updated: '2025-08-13T01:18:36.942895+00:00'
 
 > Adjust difficulty based on party composition
 
+
 ## Notes
 
 *Additional notes*
@@ -157,9 +187,11 @@ updated: '2025-08-13T01:18:36.942895+00:00'
 #resource/treasure
 #meta/reference
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -167,6 +199,17 @@ updated: '2025-08-13T01:18:36.942895+00:00'
 - Antagonists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+## Stakes
+- **If Successful**: The positive outcomes that await
+- **If Failed**: The dire consequences of failure
+- **Time Pressure**: Why this cannot wait
+
+
+**Key Question**: Will the heroes rise to the challenge?
+
+**Balance Note**: Adjust creature numbers based on party size and level.

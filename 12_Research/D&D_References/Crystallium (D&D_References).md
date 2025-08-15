@@ -69,6 +69,9 @@ updated: '2025-08-11T00:00:00+00:00'
 - Direct communication array linking to [[Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] and other crystal facilities
 - [[Master Crystallographer Aurora Prismheart]]'s personal laboratory and office complex ### Research Wings **[[The Pressure Laboratory]]**
 
+
+**Summary**: Research Wings **[[The Pressure Laboratory]]** - Key information at a glance.
+
 - Studies effects of extreme depth on crystal formation and magical properties
 - Houses the [[Depth Forge]] where pressure-crystallized materials are created
 - Testing chambers that can simulate conditions up to 20,000 feet depth
@@ -145,7 +148,7 @@ Creating defensive technologies for [[The Lock]] and other critical facilities:
 
 
 1. **Containment Breach** - Dangerous experimental creatures have escaped
-2. **Sabotage Investigation** - Someone is stealing research and selling to enemies
+2. Additionally, **Sabotage Investigation** - Someone is stealing research and selling to enemies
 3. **Pressure Emergency** - Facility systems failing with catastrophic consequences
 4. **Diplomatic Crisis** - Tensions with surface world threaten research partnerships ### Exploration
 

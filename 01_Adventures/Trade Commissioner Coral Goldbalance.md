@@ -1,3 +1,24 @@
+# Trade Commissioner Coral Goldbalance
+
+
+## Contents
+- [Overview](#overview)
+- [Description](#description)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Complications](#complications)
+- [Alternative Solutions](#alternative-solutions)
+
+
+
+## Overview
+
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Comprehensive overview of this content.
+
 ---
 
 title: Trade Commissioner Coral Goldbalance
@@ -21,9 +42,14 @@ publish: false
 
 ---
 
- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Combat Improvements - Add encounter scaling table for parties of 3-6 players, levels 1-20 ### Rewards Improvements - Create treasure parcels for each major encounter ### Structure Improvements - Add three-act structure with rising action ### Choices Improvements - Add meaningful decision points with consequences ### Roleplay Improvements - Include ethical challenges without clear answers ### Session_Zero Improvements - Add session zero integration questions ### Level_Range Improvements - Provide scaling for different level ranges ### Backup Improvements - Add 'What if players skip this?' contingency ### Spotlight Improvements - Include spotlight moment for each character class ### Art Improvements - Add AI art prompts for key scenes ### Props Improvements - List physical props and handouts needed ### Accessibility Improvements - Include content warnings and safety tools ### Worldbuilding Improvements - Connect to three other adventures in the vault ### Soundtrack Improvements - Suggest music/ambiance for each scene ## Adventure Overview An exciting quest that challenges heroes to prevent disaster. --- *Last Updated: 2025-08-14 19:03* ## DM Notes *Private notes for campaign integration:*
+ ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Combat Improvements - Add encounter scaling table for parties of 3-6 players, levels 1-20 ### Rewards
+
+**Experience Points**: 500 XP per character Improvements - Create treasure parcels for each major encounter ### Structure Improvements - Add three-act structure with rising action ### Choices Improvements - Add meaningful decision points with consequences ### Roleplay Improvements - Include ethical challenges without clear answers ### Session_Zero Improvements - Add session zero integration questions ### Level_Range Improvements - Provide scaling for different level ranges ### Backup Improvements - Add 'What if players skip this?' contingency ### Spotlight Improvements - Include spotlight moment for each character class ### Art Improvements - Add AI art prompts for key scenes ### Props Improvements - List physical props and handouts needed ### Accessibility Improvements - Include content warnings and safety tools ### Worldbuilding Improvements - Connect to three other adventures in the vault ### Soundtrack Improvements - Suggest music/ambiance for each scene ## Adventure Overview An exciting quest that challenges heroes to prevent disaster. --- *Last Updated: 2025-08-14 19:03* ## DM Notes *Private notes for campaign integration:*
+
 
 ## Description
+
+**Tension**: The urgency of this quest creates palpable tension in the air.
 
 Detailed description pending.
 - Can be adapted to fit current story needs
@@ -86,6 +112,7 @@ Detailed description pending.
 - Similar topics
 - Connected elements
 
+
 ## Notes
 
 *Additional notes*
@@ -106,9 +133,11 @@ Detailed description pending.
 #gameplay/mission
 #resource/treasure
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -116,9 +145,11 @@ Detailed description pending.
 - Antagonists
 
 
+
 ## Complications
 - Potential problems
 - Twists
+
 
 
 ## Alternative Solutions

@@ -45,6 +45,9 @@ updated: '2025-08-13T01:18:36.094380+00:00'
 
 --- > [!figure] View ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The Crystal Plague has given rise to numerous religious movements that view crystalline transformation not as a disease to be cured, but as a divine blessing to be embraced. These cults operate from hidden temples throughout Aquabyssos, offering spiritual guidance, physical sanctuary, and alternative interpretations of the plague's meaning. ### Primary Temple - Hidden Beneath Port Meridian **Location:** Converted natural cavern system beneath the Old Quarter **High Priestess:** Seraphina the Transformed (Stage 4) **Membership:** 200+ active worshippers, 500+ sympathizers **Doctrine:** Crystallization represents evolution toward divine perfection **Status:** Officially banned, operates in secret The main temple occupies a vast underground cavern discovered during early city construction. Natural crystal formations throughout the space create an atmosphere of otherworldly beauty that believers interpret as divine blessing. #### Temple Layout **The Entrance Chamber - "The Threshold of Change"**
 
+
+**Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The Crystal Plague has given rise to numerous religious movements that view crystalline transformation not as a disease to be cured, but as a divine blessing to be embraced. These cults operate from hidden temples throughout Aquabyssos, offering spiritual guidance, physical sanctuary, and alternative interpretations of the plague's meaning. ### Primary Temple - Hidden Beneath Port Meridian **Location:** Converted natural cavern system beneath the Old Quarter **High Priestess:** Seraphina the Transformed (Stage 4) **Membership:** 200+ active worshippers, 500+ sympathizers **Doctrine:** Crystallization represents evolution toward divine perfection **Status:** Officially banned, operates in secret The main temple occupies a vast underground cavern discovered during early city construction. Natural crystal formations throughout the space create an atmosphere of otherworldly beauty that believers interpret as divine blessing. #### Temple Layout **The Entrance Chamber - "The Threshold of Change"** - Key information at a glance.
+
 - Hidden access through abandoned warehouse basement
 - Security screening disguised as spiritual preparation
 - Donation collection and new member orientation
@@ -61,6 +64,9 @@ updated: '2025-08-13T01:18:36.094380+00:00'
 - Acceleration chambers for willing transformation candidates
 - Recovery rooms for new Stage 4-5 converts
 - Research laboratory studying plague progression #### Daily Rituals **Dawn Resoce (6:00 AM)**
+
+
+**Summary**: Daily Rituals **Dawn Resoce (6:00 AM)** - Key information at a glance.
 
 All temple residents participate in harmonic meditation. Stage 1-3 members hum traditional melodies while Stage 4-5 members provide crystalline harmonics that create complex musical patterns. *Newcomer Experience:* "The sound was like being inside a living cathedral. My plague crystals tingled in rhythm with the music, and for the first time since infection, I felt... Peaceful." **Midday Teaching (12:00 PM)**
 

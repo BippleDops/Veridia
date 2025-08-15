@@ -45,7 +45,10 @@ world: Aethermoor
 
 *The Zealous Purifier, Scourge of Corruption, Voice of Divine Wrath* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
-High Inquisitor Maltheos leads the [[Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]], a growing religious and political movement dedicated to eradicating crystal corruption from Aethermoor. A brilliant theologian and charismatic orator, he genuinely believes that crystal technology represents a fundamental corruption of divine order. His uncompromising crusade against crystal use puts him on a collision course with [[Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] and the entire royal establishment, though he remains unaware that his ultimate enemy—the Queen herself—suffers from the very corruption he seeks to destroy. #### **[[Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]] - The Growing Movement** **Historical Development**:
+High Inquisitor Maltheos leads the [[Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]], a growing religious and political movement dedicated to eradicating crystal corruption from Aethermoor. A brilliant theologian and charismatic orator, he genuinely believes that crystal technology represents a fundamental corruption of divine order. His uncompromising crusade against crystal use puts him on a collision course with [[Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] and the entire royal establishment, though he remains unaware that his ultimate enemy—the Queen herself—suffers from the very corruption he seeks to destroy. Furthermore, #### **[[Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]] - The Growing Movement** **Historical Development**:
+
+
+**Summary**: **[[Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]] - The Growing Movement** **Historical Development**: - Key information at a glance.
 
 - **Early Ministry (15 years ago)**: Began as simple priest preaching against excessive crystal use
 - **The Corruption Witness**: Personally witnessed family members die from crystal corruption, radicalizing his views
@@ -68,6 +71,9 @@ High Inquisitor Maltheos leads the [[Purist Coalition|02 Worldbuilding/Groups/Pu
 - **Strategic Coordination**: Regular planning sessions for Coalition activities
 - **Resource Support**: Maltheos provides funding and religious authority for Marcus's operations
 - **Moral Justification**: Maltheos provides theological cover for increasingly extreme actions #### **[[Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] - The Unwitting Enemy** **Historical Development**:
+
+
+**Summary**: **[[Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] - The Unwitting Enemy** **Historical Development**: - Key information at a glance.
 
 - **Early Opposition**: Began challenging royal crystal policies during first years of Seraphina's reign
 - **Growing Antagonism**: Each royal pro-crystal initiative sparked stronger Coalition response
@@ -143,7 +149,7 @@ High Inquisitor Maltheos leads the [[Purist Coalition|02 Worldbuilding/Groups/Pu
 > [!warning] DM Only
 
 > - Possesses divine immunity to crystal corruption (true blessing, not natural)
-> - His family was killed by crystal corruption caused by Queen's early policies
+> - His killed family crystal corruption caused by Queen's early policies
 > - Has secret spy network within royal household
 > - Plans to expose Queen's corruption if he discovers it
 > - Genuinely believes he serves divine will, making him extremely dangerous

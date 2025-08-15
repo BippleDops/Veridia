@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: The Great Crystallization 3
 type: Lore
@@ -76,7 +78,7 @@ The [[Purist Coalition]] teaches that mortal hubris brought divine punishment. T
 
 > [!warning] DM Only - The Real Story
 
-> God-King Aetheron was betrayed by his seven most trusted advisors, each representing a different aspect of mortal ambition. They attempted to steal his Crown of Stars to claim divinity for themselves. In the struggle, the crown shattered, its seven shards piercing the earth. Aetheron fell but did not die, becoming [[The Crimson Sage]]. ## The Seven Betrayers
+> God-King betrayed Aetheron his seven most trusted advisors, each representing a different aspect of mortal ambition. They attempted to steal his Crown of Stars to claim divinity for themselves. In the struggle, the crown shattered, its seven shards piercing the earth. Aetheron fell but did not die, becoming [[The Crimson Sage]]. ## The Seven Betrayers
 
 > [!warning] DM Only - Secret History
 

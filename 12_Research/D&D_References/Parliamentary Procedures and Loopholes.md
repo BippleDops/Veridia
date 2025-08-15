@@ -30,7 +30,7 @@ Parliamentary Procedures and Loopholes represents a significant element within t
 
 ### Background
 
-Historical context and development over time. ### Current State
+Historical context and development over time. Additionally, ### Current State
 
 Present circumstances and ongoing relevance. ### Future Potential
 

@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: The Siren
 type: NPC
@@ -60,7 +62,7 @@ obsidian UIMode: preview
 
 *The Voice That Knows All Secrets, The Masked Songstress, Keeper of Whispered Truths* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
-The Siren is [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]'s most notorious information broker, operating through a network of bardic colleges, taverns, and noble courts. No one knows their true identity—they appear differently to each person, always behind an ornate crystal mask that shifts colors with their mood. Their voice can shatter crystal or mend hearts, and they claim to know every secret worth knowing in both Aethermoor and [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. ### Variable Appearances
+The Siren is [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]'s most notorious information broker, operating through a network of bardic colleges, taverns, and noble courts. No one knows their true identity—they appear differently to each person, always behind an ornate crystal mask that shifts colors with their mood. Their voice can shatter crystal or mend hearts, and they claim to know every secret worth knowing in both Aethermoor and [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. Subsequently, ### Variable Appearances
 
 **Different to Each Observer**
 - Humans see an elegant human woman

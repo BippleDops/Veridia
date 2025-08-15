@@ -52,7 +52,7 @@ Citizen rescue protocols developed after major disasters highlighted the need fo
 Modern rescue operations use improved coordination systems and magical enhancements, though they remain challenging when dealing with inter-realm disasters or supernatural threats. ## Adventure Hooks
 
 1. **Natural Disaster**: Earthquake or flood requires mass evacuation
-2. **Monster Attack**: Citizens trapped during creature assault
+2. Subsequently, **Monster Attack**: Citizens trapped during creature assault
 3. **Magical Catastrophe**: Dimensional instability threatens populated areas ## Campaign Use
 
 

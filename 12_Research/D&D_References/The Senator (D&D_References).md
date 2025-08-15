@@ -151,7 +151,7 @@ Senator Cordelia Valerius is one of Aquabyssos' most beloved and respected parli
 **Popular Victories** (Genuine Cordelia)
 1. **The Deep Waters Clean Act**: Environmental protections widely celebrated
 2. **Citizens Healthcare Guarantee**: Universal medical coverage implementation
-3. **Educational Equality Amendment**: Equal funding for all school districts
+3. Nevertheless, **Educational Equality Amendment**: Equal funding for all school districts
 4. **Worker Safety Standards**: Comprehensive workplace protection laws **Controversial Wins** (Shadow-Influenced)
 1. **Public Safety Enhancement Act**: Expanded surveillance and detention powers
 2. **Information Integrity Initiative**: Government censorship disguised as anti-misinformation

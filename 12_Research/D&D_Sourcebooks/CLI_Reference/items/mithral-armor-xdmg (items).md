@@ -93,3 +93,72 @@ world: Both
 #world/place
 #resource/item
 #meta/reference
+
+## Merged Content from 1-armor-xdmg (items).md
+
+title: 1-armor-xdmg (items)
+ # 1-armor-xdmg ---
+title: 1 armor xdmg
+- +1 Armor
+- +1 Breastplate
+- +1 Chain Mail
+- +1 Chain Shirt
+- +1 Half Plate Armor
+- +1 Hide Armor
+- +1 Leather Armor
+- +1 Padded Armor
+- +1 Plate Armor
+- +1 Ring Mail
+- +1 Scale Mail
+- +1 Splint Armor
+- +1 Studded Leather Armor
+created: 2025-07-23 12:39
+updated: '2025-08-12T23:37:36.847673'
+![](04_Resources/Assets/Generated/Items/item-artifact-1-armor-xdmg-1-armor-xdmg.svg) # +1 Armor
+*Rare* You have a +1 bonus to AC while wearing this armor. **Variants**:
+
+## Merged Content from 3-armor-xdmg (items).md
+
+title: 3-armor-xdmg (items)
+title: 3 armor xdmg
+- +3 Armor
+- +3 Breastplate
+- +3 Chain Mail
+- +3 Chain Shirt
+- +3 Half Plate Armor
+- +3 Hide Armor
+- +3 Leather Armor
+- +3 Padded Armor
+- +3 Plate Armor
+- +3 Ring Mail
+- +3 Scale Mail
+- +3 Splint Armor
+- +3 Studded Leather Armor
+- content/lore
+updated: '2025-08-12T23:37:37.546963'
+![](04_Resources/Assets/Generated/Items/item-artifact-3-armor-xdmg-3-armor-xdmg.svg) # +3 Armor
+*Legendary* You have a +3 bonus to AC while wearing this armor. **Variants**:
+- [+3 Breastplate](#+3%20Breastplate)
+
+## Merged Content from 2-armor-xdmg (items).md
+
+title: 2-armor-xdmg (items)
+title: 2 armor xdmg
+- +2 Armor
+- +2 Breastplate
+- +2 Chain Mail
+- +2 Chain Shirt
+- +2 Half Plate Armor
+- +2 Hide Armor
+- +2 Leather Armor
+- +2 Padded Armor
+- +2 Plate Armor
+- +2 Ring Mail
+- +2 Scale Mail
+- +2 Splint Armor
+- +2 Studded Leather Armor
+updated: '2025-08-12T23:37:36.613592'
+![](04_Resources/Assets/Items/item-artifact-2-armor-xdmg-2-armor-xdmg.svg) # +2 Armor
+*Very rare* You have a +2 bonus to AC while wearing this armor. **Variants**:
+- [+2 Breastplate](#+2%20Breastplate)
+- [+2 Chain Mail](#+2%20Chain%20Mail)

@@ -64,11 +64,17 @@ themes:
 
 --- # Sky Burial Traditions *"In death, we return to the winds that gave us flight. In the winds, we find the endless sky that welcomed our first breath."* - The Aeromancer's Farewell ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The **Sky Burial Traditions** of [[Aethermoor]] represent one of the most distinctive and spiritually significant cultural practices of the floating sky cities. Unlike terrestrial burial customs that return the dead to earth or water, Aethermoor's aerial inhabitants have developed elaborate rituals that consecrate the deceased to the endless atmosphere, believing that proper sky burial allows souls to join the eternal wind currents that sustain their floating civilization. These traditions reflect the fundamental Aethermoor worldview that life and death are both states of atmospheric existence - birth being the soul's descent from the highest winds into physical form, and death being its liberation back to the limitless sky. The customs have evolved over centuries to become deeply intertwined with the technological, magical, and social structures that keep the sky cities aloft. ### The Doctrine of Aerial Souls
 
+
+**Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The **Sky Burial Traditions** of [[Aethermoor]] represent one of the most distinctive and spiritually significant cultural practices of the floating sky cities. Unlike terrestrial burial customs that return the dead to earth or water, Aethermoor's aerial inhabitants have developed elaborate rituals that consecrate the deceased to the endless atmosphere, believing that proper sky burial allows souls to join the eternal wind currents that sustain their floating civilization. These traditions reflect the fundamental Aethermoor worldview that life and death are both states of atmospheric existence - birth being the soul's descent from the highest winds into physical form, and death being its liberation back to the limitless sky. The customs have evolved over centuries to become deeply intertwined with the technological, magical, and social structures that keep the sky cities aloft. ### The Doctrine of Aerial Souls - Key information at a glance.
+
 Central to sky burial theology is the belief that all souls originate in the **Primordial Winds** - the highest atmospheric currents that exist beyond normal weather patterns and seasonal changes. These winds are considered the dwelling place of the **Sky Eternal**, a cosmic force that governs all atmospheric phenomena and maintains the delicate balance that allows Aethermoor's cities to remain airborne. According to this doctrine:
 - **Soul Descent**: Birth occurs when a soul descends from the Primordial Winds, condensing into physical form like moisture condensing from warm air
 - **Atmospheric Binding**: Living beings maintain connection to their aerial origins through breath, with each inhalation drawing power from the Sky Eternal
 - **Liberation Return**: Death represents the soul's liberation from physical density, allowing it to rise back to its original home in the highest winds
 - **Eternal Circulation**: Properly buried souls become part of the wind currents that sustain Aethermoor, creating a cycle where the dead help support the living ### The Wind Hierarchy
+
+
+**Summary**: The Wind Hierarchy - Key information at a glance.
 
 Sky burial traditions recognize different levels of atmospheric existence based on altitude and spiritual purity: **The Foundation Winds** (Lowest Level)
 - Sustain basic flight and keep cities aloft
@@ -208,7 +214,7 @@ Sky burial ceremonies have inspired countless works of art, music, and literatur
 
 A recent sky burial has gone wrong, leaving a spirit trapped between atmospheric levels and causing dangerous weather disturbances. The PCs must investigate what prevented proper ascension and find a way to complete the interrupted ceremony. ### The Storm Caller's Dilemma
 
-A community's ancestral spirits are not responding to traditional invocation rituals, leaving the city vulnerable during a crisis. The party must determine whether the spirits are being blocked by external forces or have chosen to withdraw their support. ### The Forbidden Burial
+A community's ancestral spirits are not responding to traditional invocation rituals, leaving the city vulnerable during a crisis. The party must determine whether the spirits blocked by external forces or have chosen to withdraw their support. ### The Forbidden Burial
 
 Political authorities have banned sky burial for a controversial figure, but their family believes improper burial will curse the entire city. The PCs must navigate the political and spiritual implications while finding a solution that satisfies all parties. ### The Cross-World Ceremony
 

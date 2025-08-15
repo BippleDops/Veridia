@@ -63,7 +63,7 @@ The Pearl Heist refers to the most audacious theft in Aquabyssos history, when c
 **The Depth Runners:** Elite criminal organization suspected but never proven
 **Inside Information:** Someone with detailed vault knowledge assisted
 **Multiple Skills:** Team required tunneling, magical, and security expertise
-**International Connections:** Theft may have been commissioned by foreign power
+**International Connections:** Theft may commissioneded by foreign power
 **Clean Escape:** No arrests made despite extensive investigation ## Consequences
 
 **Economic Impact:** Massive insurance claims bankrupted three companies
@@ -81,7 +81,7 @@ The Pearl Heist refers to the most audacious theft in Aquabyssos history, when c
 1. **Foreign Operation:** Enemy nation seeking to destabilize Aquabyssos
 2. **Inside Job:** High-ranking official orchestrated theft for personal gain
 3. **Cult Activity:** Religious extremists seeking artifact for ritual purposes
-4. **Criminal Evolution:** Local thieves developed unprecedented capabilities
+4. Additionally, **Criminal Evolution:** Local thieves developed unprecedented capabilities
 5. **Time Travel:** Futuristic criminals using anachronistic technology ## Adventure Hooks
 
 

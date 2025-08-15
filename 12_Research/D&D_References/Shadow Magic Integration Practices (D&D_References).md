@@ -75,6 +75,9 @@ cultural_impact: Fundamental
 - Educational programs teaching shadow/light balance from early childhood
 - Healing practices that address imbalances in personal shadow/light equilibrium ### The Integration Spectrum Shadow magic integration exists along a spectrum from basic coexistence to advanced symbiotic fusion. Understanding this spectrum helps practitioners choose appropriate techniques for their skill level and personal circumstances. **Integration Levels:** **Level 1 - Coexistence**: Basic awareness and tolerance of shadow magic presence
 
+
+**Summary**: The Integration Spectrum Shadow magic integration exists along a spectrum from basic coexistence to advanced symbiotic fusion. Understanding this spectrum helps practitioners choose appropriate techniques for their skill level and personal circumstances. **Integration Levels:** **Level 1 - Coexistence**: Basic awareness and tolerance of shadow magic presence - Key information at a glance.
+
 - Recognizing shadow magic effects in the environment
 - Developing comfort with shadow-influenced spaces and objects
 - Learning to distinguish beneficial from harmful shadow influences
@@ -106,6 +109,9 @@ cultural_impact: Fundamental
 - Artistic forms expanded to incorporate shadow magic techniques and aesthetics
 - Educational curricula updated to include shadow magic as standard subject matter
 - Legal frameworks adapted to address shadow magic-related rights and responsibilities ### Household Applications **Domestic Shadow Magic Systems:**
+
+
+**Summary**: Household Applications **Domestic Shadow Magic Systems:** - Key information at a glance.
 
 Modern homes in both Aethermoor and Aquabyssos incorporate shadow magic into routine household management, creating more efficient and comfortable living environments. **Kitchen and Food Preparation:**
 - **Shadow Preservation**: Food storage systems using shadow magic to slow decay and maintain freshness

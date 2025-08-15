@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: "Encounter Sheet \u2014 S-105 Star Anchor Choir"
 type: gm_resource

@@ -1,3 +1,12 @@
+# Character Advancement
+
+> *A figure whose reputation precedes them...* This remarkable element adds depth and intrigue to any campaign.
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- title: Character_Advancement
 type: npc
 tags:
@@ -10,7 +19,9 @@ category: 03 People
 subcategory: Character Advancement.Md
 related: []
 cssclass: standard
-publish: false --- # Character_Advancement ## Portrait![[Character_Advancement|Character Advancement]] *Portrait reference for Character_Advancement* ## Description *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key character traits]*
+publish: false --- # Character_Advancement ## Portrait![[Character_Advancement|Character Advancement]] *Portrait reference for Character_Advancement* ## Description
+
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key character traits]*
 - **Ideals**: *[Core beliefs and values]*
 - **Bonds**: *[Important relationships and connections]*
 - **Flaws**: *[Character weaknesses or quirks]* ## Voice & Mannerisms - **Speaking Style**: *[How they talk and express themselves]*
@@ -56,3 +67,14 @@ modified: '2025-08-14' --- ## 🔧 Deep Evaluation Improvements *20 targeted imp
 - Special moves ## Secrets {#secrets}
 - Hidden knowledge
 - Personal mysteries
+
+
+**Key Question**: What drives this character's actions?
+## Session Prep
+- **Read Aloud Text**: Prepared descriptions for key moments
+- **Key NPCs**: Important characters for this content
+- **Props Needed**: Physical or digital aids to enhance play
+- **Estimated Time**: How long this typically takes to run
+
+
+*The adventure continues...*

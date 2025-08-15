@@ -163,3 +163,50 @@ world: Both
 ## Notes
 
 *Additional notes*
+
+
+## Merged Content from 2-weapon-xdmg (items).md
+
+title: 2-weapon-xdmg (items)
+title: 2 weapon xdmg
+- +2 Weapon
+- +2 Antimatter Rifle
+- +2 Automatic Rifle
+- +2 Battleaxe
+- +2 Blowgun
+- +2 Club
+- +2 Dagger
+- +2 Dart
+- +2 Double-Bladed Scimitar
+- +2 Flail
+- +2 Glaive
+- +2 Greataxe
+- +2 Greatclub
+- +2 Greatsword
+- +2 Halberd
+- +2 Hand Crossbow
+- +2 Handaxe
+- +2 Heavy Crossbow
+
+## Merged Content from 3-weapon-xdmg (items).md
+
+title: 3-weapon-xdmg (items)
+title: 3 weapon xdmg
+- +3 Weapon
+- +3 Antimatter Rifle
+- +3 Automatic Rifle
+- +3 Battleaxe
+- +3 Blowgun
+- +3 Club
+- +3 Dagger
+- +3 Dart
+- +3 Double-Bladed Scimitar
+- +3 Flail
+- +3 Glaive
+- +3 Greataxe
+- +3 Greatclub
+- +3 Greatsword
+- +3 Halberd
+- +3 Hand Crossbow
+- +3 Handaxe
+- +3 Heavy Crossbow

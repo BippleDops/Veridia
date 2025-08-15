@@ -50,7 +50,7 @@ Detailed description pending.
 - Main quest goal ### Optional
 
 - Secondary objectives
-- Hidden goals ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### History Improvements - Add three historical eras with major events ### Culture Improvements - Define unique cultural practices and taboos ### Economy Improvements - Detail currency, trade goods, and wealth distribution ### Religion Improvements - Create detailed religious observances ### Lifestyle Improvements - Describe typical day for different social classes ### Material_Culture Improvements - Detail common objects and their cultural significance ### Evolution Improvements - Show how traditions are changing with new generation ### Diaspora Improvements - Describe how this culture exists in other regions ### Sensory Improvements - Add smells, sounds, and textures unique to this culture ### Contradictions Improvements - Include cultural hypocrisies and double standards ### Coming_Of_Age Improvements - Describe rites of passage and adulthood markers ### Death_Customs Improvements - Detail funeral rites and afterlife beliefs ### Hospitality Improvements - Explain guest rights and host obligations ### Oral_Tradition Improvements - Add folk tales and children's stories ## Player-Facing Summary Quest The Corruption Investigation is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Quest The Corruption Investigation as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest The Corruption Investigation. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Historical Context The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation. ## Cultural Impact Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems. ## Religious Observances ### Daily Prayers
+- Hidden goals ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### History Improvements - Add three historical eras with major events ### Culture Improvements - Define unique cultural practices and taboos ### Economy Improvements - Detail currency, trade goods, and wealth distribution ### Religion Improvements - Create detailed religious observances ### Lifestyle Improvements - Describe typical day for different social classes ### Material_Culture Improvements - Detail common objects and their cultural significance ### Evolution Improvements - Show how traditions are changing with new generation ### Diaspora Improvements - Describe how this culture exists in other regions ### Sensory Improvements - Add smells, sounds, and textures unique to this culture ### Contradictions Improvements - Include cultural hypocrisies and double standards ### Coming_Of_Age Improvements - Describe rites of passage and adulthood markers ### Death_Customs Improvements - Detail funeral rites and afterlife beliefs ### Hospitality Improvements - Explain guest rights and host obligations ### Oral_Tradition Improvements - Add folk tales and children's stories ## Player-Facing Summary Quest The Corruption Investigation is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Quest The Corruption Investigation as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest The Corruption Investigation. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. Subsequently, ## Historical Context The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation. ## Cultural Impact Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems. ## Religious Observances ### Daily Prayers
 
 - Dawn: Gratitude for life
 - Noon: Strength for labor
@@ -89,6 +89,8 @@ Detailed description pending.
 - *[Major locations to visit]* ### Optional Areas
 
 - *[Side locations]* ## Rewards
+
+**Experience Points**: 500 XP per character
 
 *[What PCs gain from completing this adventure]* ### Experience Points
 
@@ -178,3 +180,11 @@ Detailed description pending.
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+
+**Balance Note**: Adjust creature numbers based on party size and level.
+## Session Prep
+- **Read Aloud Text**: Prepared descriptions for key moments
+- **Key NPCs**: Important characters for this content
+- **Props Needed**: Physical or digital aids to enhance play
+- **Estimated Time**: How long this typically takes to run

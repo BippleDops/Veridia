@@ -131,7 +131,7 @@ updated: '2025-08-13T04:22:13.765686+00:00'
 
 1. **Factual Recording**: Document what actually happened, not what was intended
 2. **Multiple Perspectives**: Consider how different factions/individuals view the same events
-3. **Realistic Timelines**: Use believable timeframes for information spread and institutional change
+3. Moreover, **Realistic Timelines**: Use believable timeframes for information spread and institutional change
 4. **Interconnection Mapping**: Show how consequences in one area affect other spheres
 5. **Player Agency Recognition**: Highlight how player choices specifically drove outcomes ### Assessment Criteria
 

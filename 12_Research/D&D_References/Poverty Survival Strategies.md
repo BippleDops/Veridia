@@ -50,6 +50,9 @@ updated: '2025-08-13T01:18:34.934194+00:00'
 
 In the harsh economic realities of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]], millions survive below the poverty line using sophisticated systems of mutual aid, resource sharing, and alternative economies. These survival strategies represent not just desperate measures, but complex social structures that often prove more resilient than formal economic systems. #### Harbor District Exchange Networks
 
+
+**Summary**: Harbor District Exchange Networks - Key information at a glance.
+
 **Participants**: Dock workers, small vendors, unemployed laborers, refugee communities
 **Primary Goods**: Food scraps, used clothing, broken tools, salvaged materials
 **Exchange Ratios**: Based on immediate need rather than abstract value
@@ -66,6 +69,9 @@ In the harsh economic realities of [[Aethermoor|02 Worldbuilding/Places/Aethermo
 - **Repair Cooperatives**: Group maintece of essential equipment
 - **Transportation Sharing**: Carts, boats, and pack animals used collectively
 - **Seasonal Equipment**: Sharing of items needed only during specific times #### Undercity Scarcity Barter
+
+
+**Summary**: Undercity Scarcity Barter - Key information at a glance.
 
 **Environment**: Underground tunnel networks with extreme resource scarcity
 **Participants**: Social outcasts, criminals, political refugees, escaped slaves
@@ -344,7 +350,7 @@ In the harsh economic realities of [[Aethermoor|02 Worldbuilding/Places/Aethermo
 
 
 1. **The Robin Hood Dilemma**: Criminal activity helping poverty communities while harming legitimate businesses
-2. **The Survival Choice**: Characters must choose between legal options and survival necessities
+2. Nevertheless, **The Survival Choice**: Characters must choose between legal options and survival necessities
 3. **The Community Loyalty**: Helping community survival networks versus cooperating with law enforcement
 4. **The System Change**: Working to change systems creating poverty versus helping individuals survive existing systems #### Economic Justice Adventures
 

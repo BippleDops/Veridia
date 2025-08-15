@@ -49,6 +49,9 @@ updated: '2025-08-13T01:18:35.531378+00:00'
 
 The merchant families of Aquabyssos operate through a complex web of trade partnerships, marriage alliances, competitive rivalries, and secret cartels. These relationships determine the flow of commerce throughout the realm and often influence politics more than noble houses realize. --- ### **House Goldstream Consortium**
 
+
+**Summary**: **House Goldstream Consortium** - Key information at a glance.
+
 *The Banking Dynasty* **Core Family Structure:**
 - **Duke Aurelius Goldstream** (Patriarch) - Controls interrealm fice
 - **Lord Magnus Goldstream** (Heir) - Manages domestic markets, memory-trade addiction
@@ -62,6 +65,9 @@ The merchant families of Aquabyssos operate through a complex web of trade partn
 - **Moonwhisper Luxury Goods:** Cultural exchange and high-end trade
 - **Shadowmere Information Services:** Intelligence purchased for market advantage
 - **Crystalvein Academic Funding:** Research investments and patent acquisitions --- ### **The Deepwater Trading Consortium**
+
+
+**Summary**: **The Deepwater Trading Consortium** - Key information at a glance.
 
 *The Pressure Merchants* **Core Family Structure:**
 - **Admiral Thorne Blackwater** (Chief Executive) - Former naval officer turned merchant

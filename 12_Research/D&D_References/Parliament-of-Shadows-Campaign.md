@@ -22,6 +22,9 @@ publish: false
 
 ## Description
 
+
+**Summary**: Description - Key information at a glance.
+
 Detailed description pending.
 title: Parliament of Shadows Campaign
 type: Group
@@ -65,7 +68,7 @@ updated: '2025-08-13T01:18:36.761500+00:00'
 
 As shadow-touched populations grew in both realms, it became clear that existing political institutions were not adequately representing their unique needs and perspectives. Traditional representatives, lacking personal experience with shadow transformation, often failed to understand or advocate for shadow community interests. ### The Cross-Realm Connection (4 years ago)
 
-**Campaign Director Umbra Bridgeworth**, a shadow-touched individual with the rare ability to travel easily between realms, began building networks connecting shadow communities across both worlds. These connections revealed shared challenges and common political interests transcending realm boundaries. ### The Campaign Formation (3 years ago)
+**Campaign Director Umbra Bridgeworth**, a shadow-touched individual with the rare ability to travel easily between realms, began building networks connecting shadow communities across both worlds. These connections revealed shared challenges and common political interests transcending realm boundaries. Furthermore, ### The Campaign Formation (3 years ago)
 
 Recognizing the potential power of unified shadow political action, Bridgeworth organized the first formal campaign to elect shadow-touched representatives to governmental bodies in both realms while advocating for new inter-realm institutions. ### The Electoral Breakthrough (2 years ago)
 

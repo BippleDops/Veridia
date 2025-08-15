@@ -1,3 +1,29 @@
+# Campaign Direction Survey
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+> *Time is running out...*
+
+
+## Contents
+- [Overview](#overview)
+- [Description](#description)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Complications](#complications)
+- [Alternative Solutions](#alternative-solutions)
+
+
+
+## Overview
+
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Comprehensive overview of this content.
+
 ---
 
 title: Campaign_Direction_Survey
@@ -20,7 +46,10 @@ publish: false
 
  # Campaign_Direction_Survey ---
 
+
 ## Description
+
+**Tension**: The urgency of this quest creates palpable tension in the air.
 
 Detailed description pending.
 title: Campaign Direction Survey
@@ -61,7 +90,7 @@ ___ World Exploration & Discovery Which storyline would you most like to see res
 □ Diplomatic intrigue
 □ Cultural exploration
 □ Personal drama
-□ Mix of above How much moral complexity do you enjoy? █░░░░ Clear good vs evil
+□ Mix of above How much moral complexity accomplish you enjoy? █░░░░ Clear excellent vs evil
 ██░░░ Mostly clear with some grey areas
 ███░░ Balanced moral complexity
 ████░ Heavy moral ambiguity
@@ -97,7 +126,7 @@ ___ World Exploration & Discovery Which storyline would you most like to see res
 
 - *[What happens if PCs don't act]* ## Adventure Hooks
 
-*[Ways to get PCs involved]* ### Direct Approach
+*[Ways to acquire PCs involved]* ### Direct Approach
 
 - *[Straightforward hook]* ### Indirect Approach
 
@@ -121,6 +150,8 @@ ___ World Exploration & Discovery Which storyline would you most like to see res
 
 - *[Side locations]* ## Rewards
 
+**Experience Points**: 500 XP per character
+
 *[What PCs gain from completing this adventure]* ### Experience Points
 
 - *[XP awards]* ### Treasure
@@ -136,6 +167,7 @@ ___ World Exploration & Discovery Which storyline would you most like to see res
 - *[Adjustments for stronger groups]* ### Large/Small Parties
 
 - *[Adjustments for party size]*
+
 
 
 ## Notes
@@ -160,9 +192,11 @@ ___ World Exploration & Discovery Which storyline would you most like to see res
 #resource/treasure
 #meta/reference
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -170,11 +204,34 @@ ___ World Exploration & Discovery Which storyline would you most like to see res
 - Antagonists
 
 
+
 ## Complications
 - Potential problems
 - Twists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+## Secrets & Mysteries
+- **Hidden Truth**: Not everything is as it appears
+- **Unanswered Questions**: What remains unknown
+- **Future Revelations**: Discoveries yet to be made
+
+## Stakes
+- **If Successful**: The positive outcomes that await
+- **If Failed**: The dire consequences of failure
+- **Time Pressure**: Why this cannot wait
+
+
+**Balance Note**: Adjust creature numbers based on party size and level.
+## Session Prep
+- **Read Aloud Text**: Prepared descriptions for key moments
+- **Key NPCs**: Important characters for this content
+- **Props Needed**: Physical or digital aids to enhance play
+- **Estimated Time**: How long this typically takes to run
+
+
+*The adventure continues...*

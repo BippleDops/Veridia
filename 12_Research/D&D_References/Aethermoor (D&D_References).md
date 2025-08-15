@@ -44,6 +44,9 @@ danger_level: Moderate
 
 Aethermoor is a continent forever changed by the Great Crystallization, an event 500 years ago when massive spires of crystallized magic erupted from the earth. These Aether Crystals grant incredible magical power but come with a terrible price - prolonged exposure causes crystalline corruption, slowly transforming living beings into crystal themselves. ### Major Regions **[[The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]]** - Northern wasteland where crystal growth is uncontrolled
 
+
+**Summary**: Major Regions **[[The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]]** - Northern wasteland where crystal growth is uncontrolled - Key information at a glance.
+
 *Sensory Environment*: A barren landscape where reality itself feels unstable. Air shimmers with uncontrolled magical energy, creating visual distortions and phantom sounds. Temperature fluctuates wildly as crystal formations absorb and release energy unpredictably. The ground crunches underfoot with crystal fragments, while the horizon warps through prismatic effects. Abandoned settlements stand as crystalline monuments to the dangers of uncontrolled growth. **[[Lumengarde|02 Worldbuilding/Places/Lumengarde]]** - Central kingdom, center of crystal technology
 *Sensory Environment*: The heartland of crystal civilization, where controlled magical energy creates an atmosphere of organized power. Cities hum with harmonious crystal resoce, while countryside farming utilizes crystal-enhanced agriculture. The air tastes of progress and innovation, while roads paved with crystal fragments provide natural lighting for night travel. Architecture blends seamlessly with integrated crystal formations. **[[The Verdant Reach|02 Worldbuilding/Places/The Verdant Reach]]** - Southern forests resisting crystal expansion
 *Sensory Environment*: Ancient forests where natural magic conflicts with crystal intrusion. Air carries the complex scents of old growth trees, wild flowers, and the ozone of magical resistance. Crystal formations here grow reluctantly, often twisted into organic shapes by the forest's influence. Sounds range from natural forest ambiance to the subtle chiming of crystal-wood hybrid trees. Temperature remains moderated by natural climate systems. **[[The Sundered Peaks|02 Worldbuilding/Places/The Sundered Peaks]]** - Eastern mountain range, source of purest crystals
@@ -54,7 +57,7 @@ Aethermoor is a continent forever changed by the Great Crystallization, an event
 
 When the God-King Aetheron ruled with the Crown of Stars, maintaining perfect order through divine mandate. #### The Shattering (500 years ago)
 
-[[The Great Crystallization|02 Worldbuilding/Lore/The Great Crystallization]] - Aetheron was betrayed by his seven advisors. The Crown of Stars shattered, its fragments piercing the earth and emerging as Aether Crystals. This event is detailed in [[The Shattering of the Crown|02 Worldbuilding/Lore/The Shattering Of The Crown]]. #### The Crystal Age (Present)
+[[The Great Crystallization|02 Worldbuilding/Lore/The Great Crystallization]] - betrayed Aetheron his seven advisors. The Crown of Stars shattered, its fragments piercing the earth and emerging as Aether Crystals. This event is detailed in [[The Shattering of the Crown|02 Worldbuilding/Lore/The Shattering Of The Crown]]. #### The Crystal Age (Present)
 
 Five centuries of adaptation to crystal magic. The rise of the [[Crystal Wardens]], the [[Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]], and other factions vying for control. ### Aether Crystals
 

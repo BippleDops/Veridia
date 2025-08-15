@@ -84,6 +84,9 @@ An attempt to redirect a continental weather control ritual resulted in the **St
 
 Contemporary redirection specialists have developed sophisticated techniques including **Multi-Path Redirection** (splitting a single ritual into multiple effects), **Cascade Redirection** (using one redirected ritual to redirect others), and **Sympathetic Redirection** (redirecting rituals through connections to similar magical effects). ### Complexity Levels **Level 1: Basic Redirections**
 
+
+**Summary**: Complexity Levels **Level 1: Basic Redirections** - Key information at a glance.
+
 - **Target Shifting**: Moving a ritual's effect from one person to another
 - **Simple Reversal**: Changing beneficial effects to harmful or vice versa
 - **Range Modification**: Expanding or contracting the ritual's area of effect
@@ -109,6 +112,9 @@ Contemporary redirection specialists have developed sophisticated techniques inc
 - **Reality Rewriting**: Permanently altering how magic functions
 - **Divine Intervention**: Redirecting divine magic or deity attention
 - Required Training: Theoretical only, no confirmed successful practitioners ### Specialization Schools **The Defensive School**
+
+
+**Summary**: Specialization Schools **The Defensive School** - Key information at a glance.
 
 Focuses on protecting against hostile rituals through redirection rather than blocking.
 - **Signature Techniques**: Reflection Redirection, Absorption Conversion, Shield Amplification

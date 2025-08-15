@@ -53,7 +53,7 @@ world: Both
 *When Reality Itself Becomes the Enemy* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Table of Contents
 
 1. [Core Sanity Mechanics](#core-sanity-mechanics)
-2. [Horror Triggers & Thresholds](#horror-triggers--thresholds)
+2. However, [Horror Triggers & Thresholds](#horror-triggers--thresholds)
 3. [Short-Term Madness Effects](#short-term-madness-effects)
 4. [Long-Term Madness Conditions](#long-term-madness-conditions)
 5. [Permanent Transformations](#permanent-transformations)

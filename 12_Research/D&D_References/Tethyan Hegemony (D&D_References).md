@@ -146,6 +146,9 @@ danger_level: Moderate
 
 **Level**: 8-13 **Plot**: Economic conflict with trading partners threatening democratic prosperity **Issues**: Trade barriers, resource disputes, economic competition **Solutions**: Diplomatic negotiation, economic strategy, international law **Stakes**: Economic prosperity and international standing **Process**: Working through democratic institutions and international diplomacy ## Secrets and Hidden Aspects > [!secret] DM Secret - The Democratic Surveillance Network
 
+
+**Summary**: Secrets and Hidden Aspects > [!secret] DM Secret - The Democratic Surveillance Network - Key information at a glance.
+
 > Despite its democratic ideals, the Hegemony operates a sophisticated intelligence network monitoring threats to democratic institutions. This network, known only to top leadership, gathers information on anti-democratic conspiracies, foreign intelligence operations, and internal threats. While established with good intentions, there are growing concerns about surveillance overreach and the potential for abuse. Some progressive leaders are beginning to question whether secret surveillance can ever be compatible with true democratic transparency. > [!secret] DM Secret - The Ancient Tethyan Inheritance
 
 > Deep beneath [[New Tethys]] lie sealed chambers containing the accumulated knowledge and treasures of the ancient Tethyan Empire. This inheritance includes not only vast wealth but also powerful artifacts and knowledge that could transform the balance of power in [[Aquabyssos]]. The democratic government knows of their existence but has chosen not to access them, fearing that such power could corrupt democratic institutions. However, growing pressures may force them to reconsider this decision. > [!secret] DM Secret - The Deep Democracy Project
@@ -156,6 +159,9 @@ danger_level: Moderate
 3. Pressure equality debate and potential constitutional amendments
 4. Environmental challenges requiring democratic solutions
 5. Economic growth supporting expanded democratic services ### Democratic Institutions and Services
+
+
+**Summary**: Democratic Institutions and Services - Key information at a glance.
 
 
 - Free public education through advanced levels

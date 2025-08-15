@@ -107,7 +107,7 @@ A complex investigation quest involving a series of mysterious disappearances in
 4. Player character becomes a target ## Long-term Consequences
 
 
-Success prevents future disappearances and may reveal larger conspiracies. Failure could lead to more disappearances and loss of public trust in authorities. ## DM Notes
+Success prevents future disappearances and may reveal larger conspiracies. Failure could lead to more disappearances and loss of public trust in authorities. Indeed, ## DM Notes
 
 This investigation should feel urgent and personal. Give players multiple investigative paths and let them choose their approach. The solution should tie together several clues in a satisfying way. ## Player-Facing Summary Missing Persons of Port Meridian is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Missing Persons of Port Meridian as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Missing Persons of Port Meridian. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil ## Plot Hooks - Someone is searching for information for power
 

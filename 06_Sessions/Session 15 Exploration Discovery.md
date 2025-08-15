@@ -1,9 +1,20 @@
+# Session 15 Exploration Discovery
+
+> *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- title: Session 15 Exploration Discovery
 type: session
 tags:
 - session created: '2025-01-15'
 modified: '2025-01-15'
-- -- # Session_15_Exploration_Discovery - -- ## Description {#description} Detailed description pending.
+- -- # Session_15_Exploration_Discovery - -- ## Description
+
+**Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 title: Session 15 Exploration Discovery
 type: Session Summary
 tags:
@@ -99,3 +110,9 @@ publish: false --- -|--------|
 #resource/equipment
 #meta/navigation
 #meta/reference
+
+**Key Question**: What role will this play in the greater story?
+
+**Balance Note**: Adjust creature numbers based on party size and level.
+
+*Every story needs its heroes.*

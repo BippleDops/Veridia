@@ -1,3 +1,12 @@
+# Session Logbase
+
+> *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- aliases: ["Session Logbase"]
 created: 2025-08-15
 modified: 2025-08-15
@@ -13,7 +22,9 @@ type: session
 tags:
 - session created: '2025-01-15'
 modified: '2025-01-15'
-- -- # Session Logbase - -- ## Description {#description} Detailed description pending.
+- -- # Session Logbase - -- ## Description
+
+**Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 title: Session Logbase
 type: Lore
 tags:
@@ -42,3 +53,13 @@ world: Both
 #gameplay/session
 #meta/index
 #meta/reference
+
+**Key Question**: What role will this play in the greater story?
+## Session Prep
+- **Read Aloud Text**: Prepared descriptions for key moments
+- **Key NPCs**: Important characters for this content
+- **Props Needed**: Physical or digital aids to enhance play
+- **Estimated Time**: How long this typically takes to run
+
+
+*The dice will decide the fate.*

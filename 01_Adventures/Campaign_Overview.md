@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Tension**: The urgency of this quest creates palpable tension in the air.
+
 Detailed description pending.
 title: Campaign Overview
 type: campaign
@@ -32,7 +34,9 @@ tags:
 created: '2025-08-14'
 modified: '2025-08-14'
 
---- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Combat Improvements - Add encounter scaling table for parties of 3-6 players, levels 1-20 ### Rewards Improvements - Create treasure parcels for each major encounter ### Structure Improvements - Add three-act structure with rising action ### Choices Improvements - Add meaningful decision points with consequences ### Roleplay Improvements - Include ethical challenges without clear answers ### Props Improvements - List physical props and handouts needed ### Variants Improvements - Add horror, intrigue, and comedy tone variants ### Spotlight Improvements - Include spotlight moment for each character class ### Session_Zero Improvements - Add session zero integration questions ### Soundtrack Improvements - Suggest music/ambiance for each scene ### Worldbuilding Improvements - Connect to three other adventures in the vault ### Level_Range Improvements - Provide scaling for different level ranges ### Backup Improvements - Add 'What if players skip this?' contingency ### Art Improvements - Add AI art prompts for key scenes ## Related *Links to related content will be added here.* ## DM Notes *Private notes for campaign integration:*
+--- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Combat Improvements - Add encounter scaling table for parties of 3-6 players, levels 1-20 ### Rewards
+
+**Experience Points**: 500 XP per character Improvements - Create treasure parcels for each major encounter ### Structure Improvements - Add three-act structure with rising action ### Choices Improvements - Add meaningful decision points with consequences ### Roleplay Improvements - Include ethical challenges without clear answers ### Props Improvements - List physical props and handouts needed ### Variants Improvements - Add horror, intrigue, and comedy tone variants ### Spotlight Improvements - Include spotlight moment for each character class ### Session_Zero Improvements - Add session zero integration questions ### Soundtrack Improvements - Suggest music/ambiance for each scene ### Worldbuilding Improvements - Connect to three other adventures in the vault ### Level_Range Improvements - Provide scaling for different level ranges ### Backup Improvements - Add 'What if players skip this?' contingency ### Art Improvements - Add AI art prompts for key scenes ## Related *Links to related content will be added here.* ## DM Notes *Private notes for campaign integration:*
 
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level

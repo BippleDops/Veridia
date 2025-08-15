@@ -66,6 +66,9 @@ The main structure is a series of interconnected buildings designed for maximum 
 - **Communication Office**: Magical and mundane systems for coordinating with suppliers and recipients
 - **Quality Control Laboratory**: Testing facilities ensuring all supplies meet required standards ### The Specialized Storage Wings
 
+
+**Summary**: The Specialized Storage Wings - Key information at a glance.
+
 *Purpose-built facilities for different categories of supplies* **Food Storage Division**
 - Temperature-controlled areas for perishable goods
 - Dry storage facilities for grains, preserved foods, and emergency rations
@@ -115,6 +118,9 @@ The main structure is a series of interconnected buildings designed for maximum 
 **Trade Goods**: Commercial products for distribution to merchants and businesses
 **Emergency Reserves**: Crisis stockpiles for disaster response and security threats ### Quartermaster Judith Steadfast
 
+
+**Summary**: Quartermaster Judith Steadfast - Key information at a glance.
+
 *The legendary logistics mastermind and facility director* A brilliant organizer with an encyclopedic knowledge of supply chain management and resource optimization. Judith has transformed the depot from a simple warehouse into a sophisticated logistics operation that serves as the foundation for Aquabyssos's prosperity and security. **Leadership Qualities:**
 - Unparalleled expertise in inventory management and resource allocation
 - Strategic thinking that anticipates needs before they become critical
@@ -159,7 +165,7 @@ A critical shortage of essential supplies threatens the city's stability, but in
 
 **Level**: 5-9
 
-A large delivery of food supplies has been contaminated with a slow-acting poison, and the contaminated goods have already been distributed throughout the city. The party must track down all affected supplies while investigating who could have orchestrated such an attack. ### The Black Market Ring
+A large delivery of food supplies contaminateded with a slow-acting poison, and the contaminated goods have already been distributed throughout the city. The party must track down all affected supplies while investigating who could have orchestrated such an attack. ### The Black Market Ring
 
 **Level**: 6-10
 

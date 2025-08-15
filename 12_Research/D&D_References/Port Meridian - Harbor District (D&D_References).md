@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Port Meridian Harbor District
 type: location
@@ -79,7 +81,7 @@ Port Meridian - Harbor District is a living crossroads where memory-currents and
 **Essential Services and Security**:
 - Population: 200-500 (security, emergency services, night fishermen)
 - Activity: Security patrols, emergency services, night fishing departure
-- Limited services: Emergency repairs, urgent cargo, security response ## Player-Facing Summary Port Meridian Harbor District is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Port Meridian Harbor District as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Port Meridian Harbor District. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Related Notes - [[Similar Topic 1]]
+- Limited services: Emergency repairs, urgent cargo, security response ## Player-Facing Summary Port Meridian Harbor District is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. Therefore, ## Lore Details Legends speak of Port Meridian Harbor District as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Port Meridian Harbor District. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Related Notes - [[Similar Topic 1]]
 
 - [[Contrasting Approach]]
 - [[Advanced Version]]

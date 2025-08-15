@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: The Fractal Conspiracy
 type: Lore
@@ -156,6 +158,9 @@ Each timeline choice requires sacrifice:
 - Someone must merge with their shadow
 - Someone must become a Singer
 - Someone must stay in collapsed timeline ## 🎪 Cliffhanger Ending
+
+
+**Summary**: 🎪 Cliffhanger Ending - Key information at a glance.
 
 The party assembles the Grief Bomb as realities collapse around them. The Sorrowmaster, dying from paradoxical joy, whispers: "The bomb won't work as intended. It never does. But that's the point. Grief shared is grief halved. Grief weaponized is grief transformed." Suddenly, ALL versions of Marina across ALL timelines speak in unison: "The Singers are here. Not coming—HERE. They've been here all along. We've been inside one this entire time. Aquabyssos isn't a place—it's a Singer's stomach. We're being digested." Lord Flux appears in singular form for the first time: "There's only one solution. We don't fight the Singer. We give it existential depression. We make it too sad to digest us. But someone has to deliver the bomb from inside its consciousness. Someone has to become the sorrow." Through the fractured reality, the party sees the truth—massive, incomprehensible forms surrounding all of Aquabyssos. They've been inside a Singer Beyond since the Cataclysm. The drowning wasn't water—it was digestive fluid. The pressure isn't depth—it's peristalsis. Marina's echo speaks one last time: "The Mourning Depths knows the way. The Sorrowmaster isn't dying from joy—they're ascending to become the delivery system. But they need an anchor in reality. They need someone who exists in multiple timelines. They need..." She looks directly at the party member with the most connections across realities. --- ## Related *Links to related content will be added here.* ## DM Notes *Private notes for campaign integration:*
 

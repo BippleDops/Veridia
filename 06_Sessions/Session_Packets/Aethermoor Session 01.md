@@ -26,6 +26,8 @@ publish: false
 
 This document contains important information regarding Aethermoor Session 01 and its role within the greater narrative. ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Aethermoor Session 01 represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
@@ -38,7 +40,7 @@ Historical context and development over time. ### Current State
 
 Present circumstances and ongoing relevance. ### Future Potential
 
-Possible developments and plot directions. ## Relationships
+Possible developments and plot directions. Subsequently, ## Relationships
 
 - Connected to various other elements within the vault
 - Part of larger narrative structures

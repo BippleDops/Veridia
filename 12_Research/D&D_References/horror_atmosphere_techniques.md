@@ -34,6 +34,9 @@ modified: '2025-08-14'
 
 --- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Psychological Framework for Sustained Dread in TTRPGs Research on creating and maintaining horror atmosphere in collaborative storytelling environments. ### The Dread Gradient Model **Comfort Zone** (Baseline - 0% dread):
 
+
+**Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Psychological Framework for Sustained Dread in TTRPGs Research on creating and maintaining horror atmosphere in collaborative storytelling environments. ### The Dread Gradient Model **Comfort Zone** (Baseline - 0% dread): - Key information at a glance.
+
 - Safe spaces and trusted NPCs
 - Familiar environments and predictable interactions
 - Player agency fully functional
@@ -70,6 +73,9 @@ modified: '2025-08-14'
 - **Adaptation Horror**: Body changing in uncontrolled ways
 - **Cultural Alienation**: Complete misunderstanding and isolation
 - **Reality Confusion**: Uncertain which realm's rules apply ### Psychological Horror Techniques **1. Information Control** (40% of horror impact):
+
+
+**Summary**: Psychological Horror Techniques **1. Information Control** (40% of horror impact): - Key information at a glance.
 
 - **Selective Revelation**: Showing consequences before causes
 - **Partial Truth**: Revealing information that raises more questions

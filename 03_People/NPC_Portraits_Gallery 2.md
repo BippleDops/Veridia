@@ -1,3 +1,15 @@
+# Npc Portraits Gallery 2
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+> *Not all allies are what they seem...*
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- title: NPC_Portraits_Gallery 2
 type: npc
 tags:
@@ -10,7 +22,9 @@ category: 03 People
 subcategory: Npc Portraits Gallery 2.Md
 related: []
 cssclass: standard
-publish: false --- # NPC_Portraits_Gallery 2 ## Portrait![[Npc|Npc]] *Portrait reference for NPC_Portraits_Gallery 2* ## Description *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key character traits]*
+publish: false --- # NPC_Portraits_Gallery 2 ## Portrait![[Npc|Npc]] *Portrait reference for NPC_Portraits_Gallery 2* ## Description
+
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key character traits]*
 - **Ideals**: *[Core beliefs and values]*
 - **Bonds**: *[Important relationships and connections]*
 - **Flaws**: *[Character weaknesses or quirks]* ## Voice & Mannerisms - **Speaking Style**: *[How they talk and express themselves]*
@@ -56,3 +70,8 @@ modified: '2025-08-14' --- # NPC Portraits Gallery %% Use reading mode for visua
 - Special moves ## Secrets {#secrets}
 - Hidden knowledge
 - Personal mysteries
+
+
+**Key Question**: What drives this character's actions?
+
+*The adventure continues...*

@@ -295,11 +295,11 @@ The underground economies of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] a
 1. **The Counterfeit Crisis**: Fake goods are flooding legal markets, requiring investigation into sophisticated counterfeiting operations
 2. **The Information War**: Criminal organizations are trading government secrets, threatening national security
 3. **The Corruption Web**: A network of corrupt officials is enabling large-scale criminal operations
-4. **The Underground Economy**: A legitimate business is being used as a front for massive illegal operations #### Criminal Career Adventures
+4. **The Underground Economy**: A legitimate business useds as a front for massive illegal operations #### Criminal Career Adventures
 
 
 1. **The Big Score**: Planning and executing a major heist requiring careful coordination and specialized skills
-2. **The Territory War**: Criminal organizations are fighting for control, requiring players to choose sides or find alternatives
+2. Subsequently, **The Territory War**: Criminal organizations are fighting for control, requiring players to choose sides or find alternatives
 3. **The Double Cross**: A criminal deal goes wrong, requiring players to survive betrayal and retaliation
 4. **The Clean Job**: Attempting to commit crimes without violence or innocent casualties ### Black Market Event Generator (d20)
 

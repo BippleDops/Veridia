@@ -1,3 +1,29 @@
+# Quest   The Royal Treatment 1 (01 Adventures)
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+> *The fate of many hangs in the balance...*
+
+
+## Contents
+- [Overview](#overview)
+- [Description](#description)
+  - [Primary](#primary)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Alternative Solutions](#alternative-solutions)
+
+
+
+## Overview
+
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Comprehensive overview of this content.
+
 ---
 
 title: Quest The Royal Treatment
@@ -34,6 +60,7 @@ publish: false
 
  ## Complications
 
+
 ## Description
 
 Detailed description pending.
@@ -44,6 +71,7 @@ Detailed description pending.
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety > [!figure] Portrait ## Objectives
+
 
 ### Primary
 
@@ -96,7 +124,7 @@ senses: Passive Perception 11
 languages: Common
 cr: 1/4```## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Prophecy Connection Mentioned in The Hidden Prophecy of Winds ## Adventure Hooks
 
-*[Ways to get PCs involved]* ### Direct Approach
+*[Ways to acquire PCs involved]* ### Direct Approach
 
 - *[Straightforward hook]* ### Indirect Approach
 
@@ -119,6 +147,8 @@ cr: 1/4```## DM Notes Play up tactile detail: sounds, pressure/wind changes, and
 - *[Major locations to visit]* ### Optional Areas
 
 - *[Side locations]* ## Rewards
+
+**Experience Points**: 500 XP per character
 
 *[What PCs gain from completing this adventure]* ### Experience Points
 
@@ -174,6 +204,7 @@ cr: 1/4```## DM Notes Play up tactile detail: sounds, pressure/wind changes, and
 - **Closer Look**: Detailed examination
 - **Hidden Details**: Secret aspects
 
+
 ## Notes
 
 *Additional notes*
@@ -195,9 +226,11 @@ cr: 1/4```## DM Notes Play up tactile detail: sounds, pressure/wind changes, and
 #resource/item
 #resource/treasure
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -205,6 +238,19 @@ cr: 1/4```## DM Notes Play up tactile detail: sounds, pressure/wind changes, and
 - Antagonists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+## Stakes
+- **If Successful**: The positive outcomes that await
+- **If Failed**: The dire consequences of failure
+- **Time Pressure**: Why this cannot wait
+
+
+**Key Question**: Will the heroes rise to the challenge?
+
+**Balance Note**: Adjust creature numbers based on party size and level.
+
+*The dice will decide the fate.*

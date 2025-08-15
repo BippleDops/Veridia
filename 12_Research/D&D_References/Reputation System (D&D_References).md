@@ -217,6 +217,9 @@ updated: '2025-08-13T01:18:35.873474+00:00'
 - Fighting shadow spread: -8 to -20
 - Purifying corruption: -12 to -30 ### Important NPCs and Personal Relationships Individual relationships often matter more than faction standing: **Personal Relationship Levels**:
 
+
+**Summary**: Important NPCs and Personal Relationships Individual relationships often matter more than faction standing: **Personal Relationship Levels**: - Key information at a glance.
+
 - **Beloved**: Will sacrifice for character
 - **Loyal Friend**: Significant personal support
 - **Good Friend**: Regular assistance and favor
@@ -253,6 +256,9 @@ updated: '2025-08-13T01:18:35.873474+00:00'
 - **Celebrate Successes**: Share in their triumphs
 - **Offer Condolences**: Support during losses and secks
 - **Respect Boundaries**: Understand and honor their limits ### Mechanical Effects by Reputation Level **Legendary (+81 to +100)**:
+
+
+**Summary**: Mechanical Effects by Reputation Level **Legendary (+81 to +100)**: - Key information at a glance.
 
 - **Price Modifiers**: 50% discount on goods and services
 - **Access**: Unrestricted access to faction facilities and information

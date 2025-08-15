@@ -177,7 +177,7 @@ This document contains classified intelligence regarding the [[Shadow Conspiracy
 - Secure any evidence of conspiracy involvement
 - Provide detailed testimony to investigating authorities **Long-Term Security**
 - Review all information shared with suspected individual
-- Examine past decisions that may have been influenced
+- Examine past decisions that may influenceded
 - Check other individuals for similar infiltration signs
 - Implement enhanced security procedures for sensitive activities ### For Willing Collaborators
 

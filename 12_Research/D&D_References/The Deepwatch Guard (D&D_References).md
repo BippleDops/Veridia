@@ -59,7 +59,7 @@ updated: '2025-08-13T01:18:36.663573+00:00'
 The Deepwatch Guard serves as Aquabyssos's most specialized military unit, trained specifically to combat shadow corruption, deep-sea aberrations, and threats that emerge from the darkest depths of the realm. Unlike the regular [[The Depth Wardens]], who focus on general military defense, the Deepwatch Guard specializes in enemies that conventional forces cannot effectively engage—creatures of living shadow, manifestations of [[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'s influence, and horrors that defy normal military tactics. They represent the last line of defense against threats that could corrupt or destroy civilization from within. #### Threat Assessment Protocol
 
 1. **Initial Detection**: Automated sensors or reports trigger investigation
-2. **Rapid Response**: Beta Squadron conducts preliminary reconnaissance 3. **Threat Classification**: Determine appropriate response level and resources needed
+2. Therefore, **Rapid Response**: Beta Squadron conducts preliminary reconnaissance 3. **Threat Classification**: Determine appropriate response level and resources needed
 4. **Force Deployment**: Deploy suitable combination of squadrons for mission
 5. **Engagement**: Execute tactical plan with continuous adaptation
 6. **Aftermath**: Containment, cleanup, and analysis of results ### Recruitment Campaign

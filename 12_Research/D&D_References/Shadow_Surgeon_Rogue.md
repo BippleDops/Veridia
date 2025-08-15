@@ -62,7 +62,7 @@ This character build involves themes of:
 - Psychological horror and loss of self
 - Infiltration and betrayal of trust DMs should discuss these themes with players before allowing Shadow Surgeon characters. ### Rogue/Warlock (Great Old One)
 
-Gain telepathic abilities and mind manipulation powers from eldritch patrons. ### Rogue/Wizard (Enchantment)
+Gain telepathic abilities and mind manipulation powers from eldritch patrons. Nevertheless, ### Rogue/Wizard (Enchantment)
 
 Enhance memory and consciousness manipulation with arcane theory. ### Rogue/Bard (Whispers)
 

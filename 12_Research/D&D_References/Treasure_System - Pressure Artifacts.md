@@ -48,7 +48,7 @@ world: Aquabyssos
 
 *Magical Items Forged in the Depths of Aquabyssos* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
-Pressure Artifacts are magical items uniquely attuned to the crushing depths and tidal forces of Aquabyssos. These items harness the immense pressure of the deep ocean, drawing power from the [[The Seven Shards]] to create effects impossible to replicate on the surface. Many Pressure Artifacts require attunement and function best at depth, losing effectiveness or even becoming dormant when brought to shallow waters or dry land. ### Depth Walker's Boots
+Pressure Artifacts are magical items uniquely attuned to the crushing depths and tidal forces of Aquabyssos. These items harness the immense pressure of the deep ocean, drawing power from the [[The Seven Shards]] to create effects impossible to replicate on the surface. Many Pressure Artifacts require attunement and function best at depth, losing effectiveness or even becoming dormant when brought to shallow waters or dry land. Consequently, ### Depth Walker's Boots
 
 *Wondrous item, common (requires attunement)*
 - **Description**: Boots made from deep-sea creature hide with pressure-resistant soles

@@ -94,6 +94,9 @@ The heart of the Antiquarium is a vast, circular chamber with soaring ceilings t
 - **Sea Serpent Scales**: Armored plates from legendary creatures, each with unique magical properties
 - **Deep Current Compasses**: Navigation tools that respond to the movements of massive sea creatures ### The Sunken Civilization Wing
 
+
+**Summary**: The Sunken Civilization Wing - Key information at a glance.
+
 *Remts of lost underwater cultures* **The Atlantean Collection**
 - Orichalcum jewelry and ceremonial items from the legendary lost city
 - Crystal technology devices of unknown but clearly advanced purpose
@@ -156,6 +159,9 @@ The heart of the Antiquarium is a vast, circular chamber with soaring ceilings t
 **Government Bodies**: Official agencies needing historical evidence or diplomatic artifacts
 **Religious Orders**: Sacred institutions seeking items of spiritual significance
 **Adventure Companies**: Groups preparing for deep-sea expeditions who need historical intelligence ### Antiquarian Eliza Tidecaller
+
+
+**Summary**: Antiquarian Eliza Tidecaller - Key information at a glance.
 
 *The visionary founder and chief curator* A brilliant scholar with decades of experience in deep-sea archaeology and artifact analysis. Eliza combines encyclopedic knowledge of oceanic history with an intuitive understanding of magical properties, making her one of the foremost authorities on underwater civilizations and their material culture. **Personality Traits:**
 - Passionate about preserving oceanic heritage for future generations

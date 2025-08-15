@@ -223,6 +223,9 @@ The Shadow Conspiracy is a coordinated effort by independent shadows to systemat
 - [[The Crown|02 Worldbuilding/Groups/The Crown]] - Potential target
 - [[Light Bearers]] - Resistance --- *"We are not stealing your lives—we are improving upon them. You cast us, and now we cast you aside."* - Shadow Parliament Motto ## Player-Facing Summary The Shadow Conspiracy is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Shadow Conspiracy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Shadow Conspiracy. ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Campaign_Relationship_Matrix]]
 
+
+**Summary**: Player-Facing Summary The Shadow Conspiracy is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Shadow Conspiracy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Shadow Conspiracy. ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Campaign_Relationship_Matrix]] - Key information at a glance.
+
 - [[Quest - Foreign Interests]]
 - [[Quest - The Crown Reborn]]
 - [[Introduction]]

@@ -53,7 +53,7 @@ My Container: None
 My Category: Places
 obsidian UIMode: preview
 
---- > [!figure] View # Shadow Market Canals *"In the deepest channels beneath the city, where official maps fear to tread, commerce flows as dark and swift as the currents themselves."* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The Shadow Market Canals represent one of Aquabyssos's most sophisticated criminal enterprises - a vast network of hidden waterways that serve as both transportation system and trading floor for the city's underground economy. These forgotten channels, originally built as emergency drainage and waste management systems, have been transformed into a thriving black market complex that operates entirely beneath the notice of official authorities. Spanning over thirty miles of interconnected tunnels, the canal system provides discrete transportation between key criminal facilities while hosting floating markets, mobile meeting rooms, and secure storage facilities. The constant flow of water masks conversations and movements, while the maze-like layout confuses outsiders and provides numerous escape routes for those who know the secret passages. ### The Five Districts **The Intake Terminus**
+--- > [!figure] View # Shadow Market Canals *"In the deepest channels beneath the city, where official maps fear to tread, commerce flows as dark and swift as the currents themselves."* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The Shadow Market Canals represent one of Aquabyssos's most sophisticated criminal enterprises - a vast network of hidden waterways that serve as both transportation system and trading floor for the city's underground economy. These forgotten channels, originally built as emergency drainage and waste management systems, transformeded into a thriving black market complex that operates entirely beneath the notice of official authorities. Spanning over thirty miles of interconnected tunnels, the canal system provides discrete transportation between key criminal facilities while hosting floating markets, mobile meeting rooms, and secure storage facilities. The constant flow of water masks conversations and movements, while the maze-like layout confuses outsiders and provides numerous escape routes for those who know the secret passages. Moreover, ### The Five Districts **The Intake Terminus**
 
 The primary entry point where the canal system connects to legitimate waterways. Heavily guarded and monitored, this area serves as both customs checkpoint and first line of defense. **The Trading Current**
 
@@ -95,6 +95,9 @@ All newcomers must be sponsored by established canal users:
 - **Token System**: Physical items proving membership in specific organizations
 - **Reputation Tracking**: Ongoing assessment of trustworthiness and value ### Multi-Layer Security **Layer 1: The Watchers**
 
+
+**Summary**: Multi-Layer Security **Layer 1: The Watchers** - Key information at a glance.
+
 - **Current Scouts**: Children who monitor entrances and exits
 - **Deep Listeners**: Individuals positioned to overhear conversations
 - **Flow Guards**: Armed personnel at strategic checkpoints
@@ -111,6 +114,9 @@ All newcomers must be sponsored by established canal users:
 - **[[Depth Enforcers]]**: Armed guards trained in underwater combat
 - **[[The Tide Turners]]**: Elite operatives capable of controlling water flow
 - **[[Emergency Response Protocol]]**: Complete canal lockdown procedures ### Primary Markets **The Contraband Current**
+
+
+**Summary**: Primary Markets **The Contraband Current** - Key information at a glance.
 
 Floating market specializing in forbidden goods:
 - Restricted magical components (500-5,000 gp)

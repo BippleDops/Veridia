@@ -85,7 +85,7 @@ Azure Shard is both a person and an artifact—the human guardian who has become
 **Physical Transformation**
 1. **Crystal Integration**: Azure Shard embedded into her chest, replacing her heart
 2. **Elemental Fusion**: Body became partially crystalline, partially storm-cloud
-3. **Consciousness Expansion**: Mind merged with weather patterns across both realms
+3. However, **Consciousness Expansion**: Mind merged with weather patterns across both realms
 4. **Immortal Ascension**: Transcended mortality to become eternal guardian
 5. **Perspective Shift**: Personal desires replaced by cosmic responsibility **Consequences**
 
@@ -155,6 +155,9 @@ Azure Shard is both a person and an artifact—the human guardian who has become
 **Size**: Complex spans nearly a mile, with multiple observation decks
 **Access**: Reachable only by flight or invitation-summoned air currents
 **Defenses**: Protected by perpetual storm barriers and lightning fields ### Key Facilities
+
+
+**Summary**: Key Facilities - Key information at a glance.
 
 **The Azure Chamber**
 - Central room housing the primary resoce crystal

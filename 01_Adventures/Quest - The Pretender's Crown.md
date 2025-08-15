@@ -1,3 +1,27 @@
+# Quest   The Pretender'S Crown
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+
+## Contents
+- [Overview](#overview)
+- [Description](#description)
+  - [Primary](#primary)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Alternative Solutions](#alternative-solutions)
+
+
+
+## Overview
+
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Comprehensive overview of this content.
+
 ---
 
 title: Quest - The Pretender's Crown
@@ -20,7 +44,10 @@ publish: false
 
  ## Complications
 
+
 ## Description
+
+**Tension**: The urgency of this quest creates palpable tension in the air.
 
 Detailed description pending.
 - Unexpected obstacles
@@ -65,6 +92,7 @@ obsidian UIMode: preview
 - **Location**: Town center
 - **Motivation**: Community safety ## Objectives
 
+
 ### Primary
 
 - Main quest goal ### Optional
@@ -87,7 +115,7 @@ obsidian UIMode: preview
 1. **A Perfect Simulacrum** created by the [[Shadow Crystal]] using stolen royal blood and memories
 2. **Marina Silversky** in disguise, manipulating events to prevent realm convergence
 3. **The Real Heir** but corrupted by shadow during their exile
-4. **An Ancient Entity** wearing a constructed body, seeking to reclaim power
+4. Additionally, **An Ancient Entity** wearing a constructed body, seeking to reclaim power
 5. **Multiple Beings** switching places using identical appearances (Choose based on campaign needs or roll d6, rerolling 6) ### The Auditor's Warning
 
 
@@ -287,6 +315,8 @@ Build support through side quests:
 
 - *[Side locations]* ## Rewards
 
+**Experience Points**: 500 XP per character
+
 *[What PCs gain from completing this adventure]* ### Experience Points
 
 - *[XP awards]* ### Treasure
@@ -344,6 +374,7 @@ Build support through side quests:
 | 6 | Option F |
 
 
+
 ## Notes
 
 *Additional notes*
@@ -370,14 +401,17 @@ Build support through side quests:
 #resource/treasure
 #meta/reference
 
+
 ## Timeline
 - Key events
 - Deadlines
 
 
+
 ## NPCs Involved
 - Quest giver
 - Antagonists
+
 
 
 ## Alternative Solutions

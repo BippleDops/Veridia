@@ -1,3 +1,15 @@
+# Theme Music Mapping
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+> *An opportunity for greatness awaits...*
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- aliases: ["THEME MUSIC MAPPING"]
 created: 2025-08-15
 modified: 2025-08-15
@@ -10,7 +22,9 @@ cssclass: standard
 publish: false --- ---
 tags: [note]
 type: note
-- -- # Theme to Music Mapping Report Generated: 2025-08-15T02:19:59.819Z ## Theme Definitions ### Aquabyssos ## Description {#description} Detailed description pending.
+- -- # Theme to Music Mapping Report Generated: 2025-08-15T02:19:59.819Z ## Theme Definitions ### Aquabyssos ## Description
+
+**Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 - **Style**: underwater ambient
 - **Instruments**: synthesizer, glass harmonica, whale sounds, harp
 - **Mood**: mysterious, deep, flowing
@@ -130,3 +144,15 @@ type: note
 #gameplay/session
 #gameplay/encounter
 #gameplay/adventure
+
+**Key Question**: What role will this play in the greater story?
+
+**Balance Note**: Adjust creature numbers based on party size and level.
+## Session Prep
+- **Read Aloud Text**: Prepared descriptions for key moments
+- **Key NPCs**: Important characters for this content
+- **Props Needed**: Physical or digital aids to enhance play
+- **Estimated Time**: How long this typically takes to run
+
+
+*Every story needs its heroes.*

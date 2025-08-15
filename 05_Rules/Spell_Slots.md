@@ -28,6 +28,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 - Specific trigger conditions are met
 - Players request this type of action

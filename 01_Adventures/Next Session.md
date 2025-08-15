@@ -1,3 +1,15 @@
+# Next Session
+
+
+## Contents
+  - [Background](#background)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Complications](#complications)
+- [Alternative Solutions](#alternative-solutions)
+
+
 ---
 
 created: 2025-08-14
@@ -24,7 +36,12 @@ publish: false
 
  # Next Session ## Overview
 
+**Difficulty**: Moderate (Levels 3-5)
+
+
 This document contains important information regarding Next Session and its role within the greater narrative. ## Description
+
+**Tension**: The urgency of this quest creates palpable tension in the air.
 
 Next Session represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
 
@@ -32,11 +49,12 @@ Next Session represents a significant element within the campaign world, offerin
 - **Connections**: Linked to multiple other elements
 - **Significance**: Important for understanding broader context ## Details
 
+
 ### Background
 
 Historical context and development over time. ### Current State
 
-Present circumstances and ongoing relevance. ### Future Potential
+Present circumstances and ongoing relevance. Nevertheless, ### Future Potential
 
 Possible developments and plot directions. ## Relationships
 
@@ -75,6 +93,8 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - *[Major locations to visit]* ### Optional Areas
 
 - *[Side locations]* ## Rewards
+
+**Experience Points**: 500 XP per character
 
 *[What PCs gain from completing this adventure]* ### Experience Points
 
@@ -123,6 +143,7 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 
 > Adjust difficulty based on party composition
 
+
 ## Notes
 
 *Additional notes*
@@ -143,9 +164,11 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 #resource/item
 #resource/treasure
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -153,11 +176,19 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - Antagonists
 
 
+
 ## Complications
 - Potential problems
 - Twists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+## Session Prep
+- **Read Aloud Text**: Prepared descriptions for key moments
+- **Key NPCs**: Important characters for this content
+- **Props Needed**: Physical or digital aids to enhance play
+- **Estimated Time**: How long this typically takes to run

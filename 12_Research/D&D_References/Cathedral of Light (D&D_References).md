@@ -64,6 +64,9 @@ updated: '2025-08-12T00:00:00+00:00'
 
 *The Radiant Heart of Faith* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The Cathedral of Light stands as the most magnificent religious structure in [[Aethermoor|02 Worldbuilding/Places/Aethermoor]], its crystalline spires reaching toward the heavens like prayers made manifest. Built from rare [[Illumination Crystals]] that glow with perpetual divine radiance, the Cathedral serves as the spiritual heart of the realm and the primary seat of the [[Sacred Order of Luminous Daw|02 Worldbuilding/Groups/Sacred Order Of Luminous Daw]]. Here, [[High Luminary Celestine Brightward]] leads thousands of faithful in worship of the Light Divine, while the Cathedral's healing halls tend to all who seek sanctuary. The Cathedral exists not merely as a place of worship but as a beacon of hope in a world touched by crystal corruption, its holy light serving as both literal and metaphorical guidance for those lost in darkness. ### The Soaring Sanctuary
 
+
+**Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The Cathedral of Light stands as the most magnificent religious structure in [[Aethermoor|02 Worldbuilding/Places/Aethermoor]], its crystalline spires reaching toward the heavens like prayers made manifest. Built from rare [[Illumination Crystals]] that glow with perpetual divine radiance, the Cathedral serves as the spiritual heart of the realm and the primary seat of the [[Sacred Order of Luminous Daw|02 Worldbuilding/Groups/Sacred Order Of Luminous Daw]]. Here, [[High Luminary Celestine Brightward]] leads thousands of faithful in worship of the Light Divine, while the Cathedral's healing halls tend to all who seek sanctuary. The Cathedral exists not merely as a place of worship but as a beacon of hope in a world touched by crystal corruption, its holy light serving as both literal and metaphorical guidance for those lost in darkness. ### The Soaring Sanctuary - Key information at a glance.
+
 **The Great Nave**
 - 400 feet long, 150 feet wide, soaring 200-foot vaulted ceiling
 - Walls of pure white marble inlaid with golden [[Illumination Crystals]]
@@ -206,6 +209,9 @@ Underground network providing safe passage for refugees:
 - Helps political dissidents escape persecution
 - Funded through anonymous donations
 - Even some Cathedral hierarchy unaware of full extent ### Adventure Opportunities **The Dimming Light**
+
+
+**Summary**: Adventure Opportunities **The Dimming Light** - Key information at a glance.
 
 The Eternal Flame begins to flicker for the first time in centuries:
 - Investigation reveals sabotage by [[Purist Coalition]] extremists

@@ -43,6 +43,9 @@ updated: '2025-08-13T01:18:36.820404+00:00'
 
 Queen Seraphina Lumengarde has ruled [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] for twelve years, ascending to the throne after her father's mysterious death. Beautiful, intelligent, and politically savvy, she has championed the advancement of crystal technology while trying to maintain peace between the [[Crystal Wardens]] and the [[Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]]. Unknown to all but her closest advisors, she suffers from Stage 2 crystal corruption, hidden by powerful illusions. #### **[[Lord Aurelius Goldwave|02 Worldbuilding/People/Lord Aurelius Goldwave]] - The Golden Alliance** **Historical Development**:
 
+
+**Summary**: **[[Lord Aurelius Goldwave|02 Worldbuilding/People/Lord Aurelius Goldwave]] - The Golden Alliance** **Historical Development**: - Key information at a glance.
+
 - **First Meeting (12 years ago)**: Met during Seraphina's coronation week when Lord Aurelius presented a magnificent crystal chandelier worth 50,000 gold pieces as a coronation gift
 - **Early Alliance Formation**: Aurelius became her primary ficial backer during the first three years of her reign, providing crucial economic stability during the transition period
 - **The Crystal Crisis Support (8 years ago)**: When the first major crystal corruption outbreak hit Port Meridian, Aurelius immediately mobilized his merchant networks to provide relief supplies and funded the construction of the first Royal Medical Research Facility
@@ -62,6 +65,9 @@ Queen Seraphina Lumengarde has ruled [[Aethermoor|02 Worldbuilding/Places/Aether
 - **The Succession Backup Plan**: If Seraphina's corruption becomes public, Aurelius will ficially support Aria's claim to the throne
 - **The Mutual Blackmail Insurance**: Both possess documents that could destroy the other—she knows about his Order of the Shattered Crown leadership, he knows about her corruption
 - **The Final Contingency**: Agreed that if either falls to corruption or political destruction, the other will ensure their loved ones' safety #### **[[Lord Commander Gareth Steelborn|02 Worldbuilding/People/Lord Commander Gareth Steelborn]] - The Loyal Protector** **Historical Development**:
+
+
+**Summary**: **[[Lord Commander Gareth Steelborn|02 Worldbuilding/People/Lord Commander Gareth Steelborn]] - The Loyal Protector** **Historical Development**: - Key information at a glance.
 
 - **Military Academy Days**: Gareth was her weapons instructor during her princess training, developing mutual respect over eight years
 - **The Coronation Guard**: Personally organized her security during the chaotic succession period, proving his absolute loyalty

@@ -79,6 +79,9 @@ updated: '2025-08-13T04:22:13.596477+00:00'
 - **12 years**: Advanced aerial maneuvers and weather flying
 - **16 years**: Adult-level flight capabilities and independence #### Aquabyssos Infant Care
 
+
+**Summary**: Aquabyssos Infant Care - Key information at a glance.
+
 **Daily Schedule**: Following family routines with special accommodations **0600-0800 - Morning Adaptation**
 - Gradual wake-up in stable pressure environment
 - Gentle pressure adjustment exercises with parent assistance
@@ -99,6 +102,9 @@ updated: '2025-08-13T04:22:13.596477+00:00'
 - Cultural activities including underwater lullabies and stories
 - Preparation for sleep in safe, stable pressure environment
 - Family bonding emphasizing underwater cultural values #### Aethermoor Infant Care
+
+
+**Summary**: Aethermoor Infant Care - Key information at a glance.
 
 **Daily Schedule**: Incorporating aerial environment with safety focus **0700-0900 - Morning Sky Time**
 - Gentle wake-up with exposure to natural light and air currents

@@ -51,7 +51,7 @@ Founded by survivors and descendants of the lost kingdom, the Order has operated
 
 The Order has gained new relevance as dimensional instabilities reveal previously hidden ruins and artifacts from their lost kingdom. Some members advocate for open declaration of their claims, while others prefer continued secrecy. ### Duration
 
-Lifetime membership with generational inheritance of obligations. ## Adventure Hooks
+Lifetime membership with generational inheritance of obligations. Consequently, ## Adventure Hooks
 
 1. **Crown Fragment**: Discovery of artifact that proves Order's claims
 2. **Infiltration Mission**: Government seeks to expose Order activities

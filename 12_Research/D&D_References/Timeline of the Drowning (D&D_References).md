@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Timeline of the Drowning
 type: Lore
@@ -64,7 +66,7 @@ updated: '2025-08-11T00:00:00+00:00'
 - Advanced memory preservation techniques using crystal matrices ### The Great Cities (Pre-Submersion)
 
 **Major Population Centers:**
-1. **Tethyopolis** (Capital) - 8 million residents, now [[The Parliament of Echoes]]
+1. However, **Tethyopolis** (Capital) - 8 million residents, now [[The Parliament of Echoes]]
 2. **Benthica** (Military Hub) - 4 million residents, now [[The Citadel of Depths]]
 3. **Abyssos Prime** (Trade Center) - 6 million residents, now [[Abyssos Prime]]
 4. **Pelagia** (Religious Center) - 2 million residents, now [[The Temple of First Tide]]
@@ -92,6 +94,9 @@ updated: '2025-08-11T00:00:00+00:00'
 - Annual "Descent Festivals" diving to deeper ritual chambers ## The Warning Signs
 
 *Years -100 to -1 BS* ### Environmental Changes
+
+
+**Summary**: Environmental Changes - Key information at a glance.
 
 **Year -100 BS: The First Stirring**
 - Unusual tidal patterns affecting coastal cities
@@ -325,6 +330,9 @@ updated: '2025-08-11T00:00:00+00:00'
 - Judicial authority combines traditional law with memory evidence
 - Military command structured around depth-based specialization
 - Economic regulation adapted for new depth-based systems ### Ecosystem Transformation
+
+
+**Summary**: Ecosystem Transformation - Key information at a glance.
 
 **Pre-Drowning Environment:**
 - Temperate surface climate with seasonal variation

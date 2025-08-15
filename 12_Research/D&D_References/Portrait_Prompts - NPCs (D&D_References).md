@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura].
+
 Detailed description pending.
 
 Portrait_Prompts - NPCs is a notable figure in the realm, known for their unique skills and complex motivations. ## Appearance
@@ -36,7 +38,7 @@ Portrait_Prompts - NPCs is a notable figure in the realm, known for their unique
 - **Bonds**: Connected to several influential organizations
 - **Flaws**: Tendency to overthink situations ## Background
 
-Born into modest circumstances, Portrait_Prompts - NPCs rose through dedication and cunning to their current position. ## Abilities
+Born into modest circumstances, Portrait_Prompts - NPCs rose through dedication and cunning to their current position. Meanwhile, ## Abilities
 
 - **Skills**: Investigation, Persuasion, Insight
 - **Special Abilities**: Keen tactical mind

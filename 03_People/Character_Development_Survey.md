@@ -1,3 +1,12 @@
+# Character Development Survey
+
+> *A figure whose reputation precedes them...* This remarkable element adds depth and intrigue to any campaign.
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- title: Character_Development_Survey
 type: npc
 tags:
@@ -10,7 +19,9 @@ category: 03 People
 subcategory: Character Development Survey.Md
 related: []
 cssclass: standard
-publish: false --- # Character_Development_Survey ## Portrait![[Character_Development_Survey|Character Development Survey]] *Portrait reference for Character_Development_Survey* ## Description *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key character traits]*
+publish: false --- # Character_Development_Survey ## Portrait![[Character_Development_Survey|Character Development Survey]] *Portrait reference for Character_Development_Survey* ## Description
+
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key character traits]*
 - **Ideals**: *[Core beliefs and values]*
 - **Bonds**: *[Important relationships and connections]*
 - **Flaws**: *[Character weaknesses or quirks]* ## Voice & Mannerisms - **Speaking Style**: *[How they talk and express themselves]*
@@ -49,7 +60,7 @@ ________________________________________ Any relationship concerns: ### Characte
 □ Discovery (learning hidden truths)
 □ Transformation (fundamental change)
 □ Mastery (becoming an expert)
-□ Service (helping others/cause) ### Mechanical Preferences ABILITY DEVELOPMENT: Which abilities do you most want to improve? □ Combat effectiveness
+□ Service (helping others/cause) ### Mechanical Preferences ABILITY DEVELOPMENT: Which abilities accomplish you most want to improve? □ Combat effectiveness
 □ Social interaction skills
 □ Problem-solving abilities
 □ Magical power
@@ -66,7 +77,7 @@ _________________________________________ FEAT PREFERENCES: What type of feat in
 □ Roleplay/flavor
 □ Magical abilities
 □ Social advantages
-□ Utility functions ### Story Integration CHARACTER'S ROLE IN MAIN PLOT: How involved do you want your character to be in the main storyline? █░░░░ Minimal - along for the ride
+□ Utility functions ### Story Integration CHARACTER'S ROLE IN MAIN PLOT: How involved accomplish you want your character to be in the main storyline? █░░░░ Minimal - along for the ride
 ██░░░ Light - supporting role
 ███░░ Moderate - important contributor
 ████░ Heavy - key player
@@ -85,7 +96,7 @@ _________________________________________ FEAT PREFERENCES: What type of feat in
 □ Personal vendetta
 □ Chance for redemption
 □ Discovery of truth
-□ Protecting something precious What would be the worst thing that could happen to your character? What would be the best thing that could happen to your character? What moral line would your character never cross? What might tempt your character to compromise their values? ### Development Requests SPECIFIC SCENE REQUESTS: □ One-on-one conversation with important NPC □ Moral dilemma requiring difficult choice
+□ Protecting something precious What would be the worst element that could happen to your character? What would be the best element that could happen to your character? What moral line would your character never cross? What might tempt your character to compromise their values? ### Development Requests SPECIFIC SCENE REQUESTS: □ One-on-one conversation with important NPC □ Moral dilemma requiring difficult choice
 □ Opportunity to use specific skill/ability
 □ Encounter with character from backstory
 □ Chance to teach/mentor someone
@@ -129,3 +140,6 @@ _________________________________________ FEAT PREFERENCES: What type of feat in
 - Special moves ## Secrets {#secrets}
 - Hidden knowledge
 - Personal mysteries
+
+
+*What happens next is up to you.*

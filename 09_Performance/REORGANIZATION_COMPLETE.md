@@ -1,3 +1,12 @@
+# Reorganization Complete
+
+> *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- tags: [faction, [[Organization|Organization]]]
 type: faction
 aliases: ["REORGANIZATION COMPLETE"]
@@ -9,7 +18,9 @@ category: 09 Performance
 subcategory: Reorganization Complete.Md
 related: []
 cssclass: standard
-publish: false --- # Content Reorganization Complete Generated: ${new Date().to ISOString()} ## Summary Successfully reorganized all generated content from subdirectories to their parent directories with proper tagging. ## Changes Made 1. **Moved Files**: 1,129 files moved from`/Generated/`subdirectories ## Description {#description} Detailed description pending.
+publish: false --- # Content Reorganization Complete Generated: ${new Date().to ISOString()} ## Summary Successfully reorganized all generated content from subdirectories to their parent directories with proper tagging. ## Changes Made 1. **Moved Files**: 1,129 files moved from`/Generated/`subdirectories ## Description
+
+**Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 2. **Added Tags**: All files now have`tags: [generated]`in frontmatter
 3. **Preserved IDs**: Original asset IDs maintained for cross-referencing
 4. **Cleaned Structure**: Removed empty Generated directories ## New Structure Instead of:```[[02_Worldbuilding|02_Worldbuilding]]/[[People|People]]/Generated/NPC0001.md 02_Worldbuilding/[[Items|Items]]/Generated/ITEM0001.md```Now:```02_Worldbuilding/People/NPC0001.md (with tags: [generated])
@@ -29,3 +40,18 @@ publish: false --- # Content Reorganization Complete Generated: ${new Date().to 
 #gameplay/encounter
 #gameplay/quest
 #resource/item
+
+**Key Question**: What role will this play in the greater story?
+
+**Balance Note**: Adjust creature numbers based on party size and level.
+## Session Prep
+- **Read Aloud Text**: Prepared descriptions for key moments
+- **Key NPCs**: Important characters for this content
+- **Props Needed**: Physical or digital aids to enhance play
+- **Estimated Time**: How long this typically takes to run
+
+
+*What happens next is up to you.*
+
+## Thematic Elements
+This content explores themes of loyalty, adding narrative depth to your campaign.

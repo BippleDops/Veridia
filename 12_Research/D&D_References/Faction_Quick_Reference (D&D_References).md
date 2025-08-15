@@ -77,7 +77,7 @@ world: Both
 4. **Government checkpoint/inspection**
 5. **Faction conflict spills into public**
 6. **Intelligence gathering operation**
-7. **Resource competition between factions**
+7. Consequently, **Resource competition between factions**
 8. **Faction defector seeking protection**
 9. **Joint operation between unlikely allies**
 10. **Faction leader makes personal appearance** ### Shadow Conspiracy Exposure

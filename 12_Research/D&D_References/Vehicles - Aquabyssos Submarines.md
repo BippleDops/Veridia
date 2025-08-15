@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Aquabyssos Submarines
 type: Mechanics
@@ -43,6 +45,9 @@ updated: '2025-08-13T12:34:17.762758+00:00'
 world: Aquabyssos
 
 --- # Aquabyssos Submarines Pressure-adaptive vessels built for the abyss. These ships integrate [[Complete Pressure Adaptation System]], [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[Complete Reality Merger System]], [[Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], and [[Deep Mother]]. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Pressure-Adaptive Vessels (Examples)
+
+
+**Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Pressure-Adaptive Vessels (Examples) - Key information at a glance.
 
 - Coral Leviathan (Living coral hull; grows new bulkheads at Crush+)
 - Parasite Choir Ship (Neural symbiosis; crew shares senses; Sanity risk)

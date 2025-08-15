@@ -1,3 +1,26 @@
+# Quest Tree System
+
+> *Time is running out...*
+
+
+## Contents
+- [Overview](#overview)
+- [Description](#description)
+  - [Primary](#primary)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Alternative Solutions](#alternative-solutions)
+
+
+
+## Overview
+
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Comprehensive overview of this content.
+
 ---
 
 title: Quest Tree System
@@ -24,7 +47,10 @@ publish: false
 
  ## Complications
 
+
 ## Description
+
+**Tension**: The urgency of this quest creates palpable tension in the air.
 
 Detailed description pending.
 - Unexpected obstacles
@@ -53,7 +79,7 @@ Detailed description pending.
 2. **Investigation**: Gather 6 clues
 3. **Confrontation**: Face the truth
 4. **Resolution**: New threat revealed
-5. **Epilogue**: World changed ### Quest Chain_34 1. **Introduction**: Cry for help
+5. Nevertheless, **Epilogue**: World changed ### Quest Chain_34 1. **Introduction**: Cry for help
 
 
 2. **Investigation**: Gather 7 clues
@@ -64,12 +90,15 @@ Detailed description pending.
 
 5. **Epilogue**: New quests unlocked ## Objectives
 
+
 ### Primary
 
 - Main quest goal ### Optional
 
 - Secondary objectives
-- Hidden goals ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Combat Improvements - Add encounter scaling table for parties of 3-6 players, levels 1-20 ### Rewards Improvements - Create treasure parcels for each major encounter ### Structure Improvements - Add three-act structure with rising action ### Choices Improvements - Add meaningful decision points with consequences ### Roleplay Improvements - Include ethical challenges without clear answers ### Backup Improvements - Add 'What if players skip this?' contingency ### Spotlight Improvements - Include spotlight moment for each character class ### Soundtrack Improvements - Suggest music/ambiance for each scene ### Level_Range Improvements - Provide scaling for different level ranges ### Props Improvements - List physical props and handouts needed ### Accessibility Improvements - Include content warnings and safety tools ### Art Improvements - Add AI art prompts for key scenes ### Session_Zero Improvements - Add session zero integration questions ## DM Notes *Private notes for campaign integration:*
+- Hidden goals ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Combat Improvements - Add encounter scaling table for parties of 3-6 players, levels 1-20 ### Rewards
+
+**Experience Points**: 500 XP per character Improvements - Create treasure parcels for each major encounter ### Structure Improvements - Add three-act structure with rising action ### Choices Improvements - Add meaningful decision points with consequences ### Roleplay Improvements - Include ethical challenges without clear answers ### Backup Improvements - Add 'What if players skip this?' contingency ### Spotlight Improvements - Include spotlight moment for each character class ### Soundtrack Improvements - Suggest music/ambiance for each scene ### Level_Range Improvements - Provide scaling for different level ranges ### Props Improvements - List physical props and handouts needed ### Accessibility Improvements - Include content warnings and safety tools ### Art Improvements - Add AI art prompts for key scenes ### Session_Zero Improvements - Add session zero integration questions ## DM Notes *Private notes for campaign integration:*
 
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
@@ -166,6 +195,7 @@ Detailed description pending.
 
 > Adjust difficulty based on party composition
 
+
 ## Notes
 
 *Additional notes*
@@ -186,9 +216,11 @@ Detailed description pending.
 #gameplay/quest
 #resource/treasure
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -196,6 +228,12 @@ Detailed description pending.
 - Antagonists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+## Stakes
+- **If Successful**: The positive outcomes that await
+- **If Failed**: The dire consequences of failure
+- **Time Pressure**: Why this cannot wait

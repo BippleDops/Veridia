@@ -126,6 +126,9 @@ If Queen Seraphina pays the ultimate stellar debt, both worlds will be left with
 
 Disturbing evidence suggests someone has created a replica of the Crown of Stars and is using it to issue competing commands to both worlds. If the false crown's authority is accepted as legitimate, it could create a reality paradox that tears apart the fundamental concept of sovereignty across both realms. ## Mechanical Effects **Crown Bearer** (Ultimate Artifact Wielder)
 
+
+**Summary**: Mechanical Effects **Crown Bearer** (Ultimate Artifact Wielder) - Key information at a glance.
+
 The wearer of the Crown of Stars gains:
 - Authority over both worlds that reality itself recognizes as legitimate
 - Access to seven different ruler personality aspects for consultation

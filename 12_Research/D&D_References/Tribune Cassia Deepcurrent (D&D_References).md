@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Tribune Cassia Deepcurrent
 type: NPC
@@ -67,7 +69,7 @@ Tribune Cassia Deepcurrent leads the Centrist Faction within the [[Parliament of
 2. **The Compromise Mission**: Serve as her agents in delicate negotiations between hostile factions
 3. **The Shadow Response**: Aid her efforts to coordinate government response to corruption outbreak
 4. **The Democratic Defense**: Protect her from extremist faction attempting political assassination
-5. **The Reform Initiative**: Support her attempts to modernize government systems ### Parliamentary Influence
+5. Meanwhile, **The Reform Initiative**: Support her attempts to modernize government systems ### Parliamentary Influence
 
 
 - Commands loyalty of largest single faction in Parliament

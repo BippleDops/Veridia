@@ -145,7 +145,7 @@ When crystal plague meets depth adaptation: | Corruption + Adaptation | Result |
 | Both Extreme (76+) | Becomes unique entity | ### Shadow Integration
 
 Underwater shadows behave differently: **Shadow Independence Stages**:
-1. **Depth 0-1000 ft**: Shadows behave normally
+1. Consequently, **Depth 0-1000 ft**: Shadows behave normally
 2. **Depth 1000-3000 ft**: Shadows lag behind movement
 3. **Depth 3000-6000 ft**: Shadows act independently at times
 4. **Depth 6000+ ft**: Shadow may separate completely **Shadow Separation Save**:

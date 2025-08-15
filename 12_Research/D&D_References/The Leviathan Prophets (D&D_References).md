@@ -68,7 +68,7 @@ The Leviathan Prophets are a mysterious cult devoted to ancient sea creatures of
 2. "A surface-born shall bridge the depths and heights"
 3. "When shadows consume light, the Great Deep will rise"
 4. "Three pearls of power will determine the city's fate"
-5. "The False Crown shall fall when truth surfaces" ## Activities and Influence
+5. However, "The False Crown shall fall when truth surfaces" ## Activities and Influence
 
 
 The Prophets operate an extensive network of informants who report unusual phenomena, seeking validation for their predictions. They provide guidance to wealthy patrons seeking advantage in business or politics, often with uncanny accuracy. Some members hold positions in government and religious institutions, subtly promoting leviathan-favorable policies. ## Locations

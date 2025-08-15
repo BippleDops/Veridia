@@ -22,6 +22,11 @@ publish: false
 
 ## Description
 
+
+**Summary**: Description - Key information at a glance.
+
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Whisper Touched William
 type: Location
@@ -88,7 +93,7 @@ obsidian UIMode: preview
 world: Both
 updated: '2025-08-11T00:00:00+00:00'
 
---- > [!figure] View ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Where Madness Speaks Truth > *"In the spaces between words, William hears tomorrow's sorrows and yesterday's lies"* ## Overview Whisper-Touched William's Oracle Shrine serves as one of [[Abyssos Prime]]'s most enigmatic and valuable institutions—a place where prophecy, madness, and truth intersect in ways that defy conventional understanding. Built around the extraordinary abilities of its namesake founder, this shrine complex has become the primary destination for those seeking glimpses of future events, lost knowledge, or hidden truths that conventional means cannot reveal. The shrine exists in a constant state of barely controlled chaos, where whispers from unknown sources provide cryptic but remarkably accurate information about past, present, and future events. William himself, once a simple merchant's clerk, has been transformed by his connection to these mysterious voices into something between prophet, madman, and living conduit for cosmic knowledge. ### Before the Whispers
+--- > [!figure] View ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Where Madness Speaks Truth > *"In the spaces between words, William hears tomorrow's sorrows and yesterday's lies"* ## Overview Whisper-Touched William's Oracle Shrine serves as one of [[Abyssos Prime]]'s most enigmatic and valuable institutions—a place where prophecy, madness, and truth intersect in ways that defy conventional understanding. Built around the extraordinary abilities of its namesake founder, this shrine complex has become the primary destination for those seeking glimpses of future events, lost knowledge, or hidden truths that conventional means cannot reveal. The shrine exists in a constant state of barely controlled chaos, where whispers from unknown sources provide cryptic but remarkably accurate information about past, present, and future events. William himself, once a simple merchant's clerk, transformeded by his connection to these mysterious voices into something between prophet, madman, and living conduit for cosmic knowledge. Additionally, ### Before the Whispers
 
 William Cornelius Ashworth was a mundane records clerk in the pre-drowning bureaucracy, known for his meticulous attention to detail and quiet demeanor. During [[The Great Drowning]], he became trapped in a collapsed government archive building, surrounded by thousands of years of recorded knowledge as the flood waters rose. ### The Awakening
 
@@ -137,6 +142,9 @@ The shrine provides consulting services to [[Parliament of Echoes|02 Worldbuildi
 
 William's truth-detection abilities make him valuable for resolving disputes, verifying historical claims, or exposing deception in important matters. ### William's Inner Circle
 
+
+**Summary**: William's Inner Circle - Key information at a glance.
+
 **[[Whisper-Touched William's Oracle Shrine (Places)]]** - The Oracle
 - Transformed records clerk with prophetic abilities
 - Constantly hears whispers from unknown sources
@@ -159,7 +167,7 @@ A group of scholars and mystics who work to understand and translate William's p
 
 Individuals who come to the shrine seeking relief from their own mental burdens or supernatural afflictions. They find comfort in William's understanding of what it means to live with voices in one's head. ### The Whisper Touched
 
-People who have been affected by proximity to William's abilities, developing minor prophetic sensitivities or whisper-hearing abilities themselves. ### The Shadow Citizenship Prediction
+People who affecteded by proximity to William's abilities, developing minor prophetic sensitivities or whisper-hearing abilities themselves. ### The Shadow Citizenship Prediction
 
 Three months before it was proposed, William prophesied: "Shadows will seek the vote, and democracy will fracture on the question of what makes a citizen." This prediction about the [[The Eternal Senate|02 Worldbuilding/Places/The Eternal Senate]]'s Shadow Citizenship Act established William's political relevance. ### The Memory Merchant's Downfall
 

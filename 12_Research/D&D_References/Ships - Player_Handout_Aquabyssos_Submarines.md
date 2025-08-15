@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: "Player Handout \u2014 Aquabyssos Submarines"
 type: handout

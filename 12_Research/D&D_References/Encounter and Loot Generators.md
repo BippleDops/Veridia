@@ -67,6 +67,9 @@ Roll:`dice: 1d100|Loot Roll`| 01–15 | Coins only (2d10×10 gp) →`dice: 2d10*
 | 81–95 | Coins + rare item |
 | 96–00 | Treasure cache + rare/very rare | Consumables:`dice: 1d6|1=Healing Potion,2=Antitoxin,3=Oil,4=Scroll L1,5=Scroll L2,6=Elixir`## Aquabyssos Undersea Encounters (d20)
 
+
+**Summary**: Aquabyssos Undersea Encounters (d20) - Key information at a glance.
+
 Roll:`dice: 1d20|Undersea Encounter`| d20 | Result |
 |-----|--------|
 | 1 | Luminous kelp forest; foraging test yields`dice: 1d4|1=None,2=Herbs,3=Pearls,4=Rare Coral`|

@@ -32,7 +32,7 @@ Chef Gastropod represents a significant element within the campaign world, offer
 
 Historical context and development over time. ### Current State
 
-Present circumstances and ongoing relevance. ### Future Potential
+Present circumstances and ongoing relevance. Meanwhile, ### Future Potential
 
 Possible developments and plot directions. ## Relationships
 

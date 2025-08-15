@@ -46,7 +46,7 @@ danger_level: Moderate
 
 --- > [!figure] View # Temporal Rescue *"When time itself becomes the enemy, heroes must race against eternity."* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
-An emergency mission where someone important has been displaced in time by magical accident or deliberate action. Players must navigate temporal anomalies, paradoxes, and time-based hazards to rescue the victim before temporal forces strand them permanently. ## The Victim
+An emergency mission where someone important displaceded in time by magical accident or deliberate action. Players must navigate temporal anomalies, paradoxes, and time-based hazards to rescue the victim before temporal forces strand them permanently. ## The Victim
 
 **Princess Coral Tidesinger**: Royal heir trapped 200 years in the past
 **Displacement Cause**: Experimental time magic gone wrong during ceremony

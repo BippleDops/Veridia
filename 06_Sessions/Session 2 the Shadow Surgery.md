@@ -1,9 +1,23 @@
+# Session 2 The Shadow Surgery
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+> *An opportunity for greatness awaits...*
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- title: Session 2 the Shadow Surgery
 type: session
 tags:
 - session created: '2025-01-15'
 modified: '2025-01-15'
-- -- # Session_2_The_Shadow_Surgery - -- ## Description {#description} Detailed description pending.
+- -- # Session_2_The_Shadow_Surgery - -- ## Description
+
+**Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 title: Session 2 The Shadow Surgery
 type: research
 tags:
@@ -80,6 +94,9 @@ modified: '2025-08-14'
 - **Master List**: 347 individuals already converted
 - **Timeline**: Full government control planned in 6 weeks
 - **Failsafe**: If exposed, activate "Emergency Protocol Seven" **Evidence Rating**: 5 points (enough to expose publicly if combined with Session 1) ### Dr. Umbral Voidheart```statblock name: Dr. Umbral Voidheart
+
+
+**Summary**: Dr. Umbral Voidheart```statblock name: Dr. Umbral Voidheart - Key information at a glance.
 size: Medium
 type: humanoid (human)
 alignment: lawful evil
@@ -95,7 +112,7 @@ senses: darkvision 60 ft., passive Perception 13
 languages: Common, Deep Speech
 cr: 8
 traits: - name: Shadow Integration desc: Dr. Voidheart has undergone partial shadow integration, granting him immunity to psychic damage and the ability to detect thoughts at will. - name: Surgical Precision desc: All of Dr. Voidheart's attacks deal an additional 1d6 damage to incapacitated or restrained targets. - name: Spellcasting desc: "Dr. Voidheart is a 9th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 18, +10 to hit with spell attacks). He knows the following spells: Cantrips (at will): minor illusion, prestidigitation, mage hand, chill touch; 1st level (4 slots): detect magic, magic missile, shield; 2nd level (3 slots): hold person, suggestion, detect thoughts; 3rd level (3 slots): counterspell, fireball, hypnotic pattern; 4th level (3 slots): confusion, polymorph; 5th level (1 slot): dominate person"
-actions: - name: Multiattack desc: Dr. Voidheart makes two scalpel attacks or casts a spell and makes one scalpel attack. - name: Shadow Scalpel desc: "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) slashing damage plus 4 (1d8) psychic damage. If the target is a humanoid, they must make a DC 16 Constitution saving throw or have their consciousness partially separated for 1 minute (disadvantage on Wisdom saves)." - name: Emergency Surgery (Recharge 5-6) desc: Dr. Voidheart attempts to perform rapid consciousness manipulation on a target within 30 feet. The target must make a DC 18 Wisdom saving throw. On a failure, they are dominated for 1 minute as per the dominate person spell. - name: Shadow Network (1/Day) desc: Dr. Voidheart contacts all shadow-integrated individuals within 1 mile, alerting them to threats and calling for assistance. 1d4+1 shadow duplicates arrive in 2d4 rounds. ### Combat Phases **Phase 1: Defensive Surgery** (95-60 HP) - Continues operating while directing minions
+actions: - name: Multiattack desc: Dr. Voidheart makes two scalpel attacks or casts a spell and makes one scalpel attack. - name: Shadow Scalpel desc: "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) slashing damage plus 4 (1d8) psychic damage. If the target is a humanoid, they must create a DC 16 Constitution saving throw or have their consciousness partially separated for 1 minute (disadvantage on Wisdom saves)." - name: Emergency Surgery (Recharge 5-6) desc: Dr. Voidheart attempts to perform rapid consciousness manipulation on a target within 30 feet. The target must create a DC 18 Wisdom saving throw. On a failure, they are dominated for 1 minute as per the dominate person spell. - name: Shadow Network (1/Day) desc: Dr. Voidheart contacts all shadow-integrated individuals within 1 mile, alerting them to threats and calling for assistance. 1d4+1 shadow duplicates arrive in 2d4 rounds. ### Combat Phases **Phase 1: Defensive Surgery** (95-60 HP) - Continues operating while directing minions
 - Uses hold person to incapacitate threats
 - Attempts to complete current patient's surgery **Phase 2: Aggressive Protection** (59-30 HP) - Stops surgery to focus on combat
 - Uses emergency surgery on strongest attacker
@@ -146,3 +163,14 @@ publish: false --- -|--------------|
 #gameplay/encounter
 #resource/equipment
 #meta/reference
+## Secrets & Mysteries
+- **Hidden Truth**: Not everything is as it appears
+- **Unanswered Questions**: What remains unknown
+- **Future Revelations**: Discoveries yet to be made
+
+
+**Key Question**: What role will this play in the greater story?
+
+**Balance Note**: Adjust creature numbers based on party size and level.
+
+*Every story needs its heroes.*

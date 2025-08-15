@@ -1,9 +1,23 @@
+# Session 10 New Horizons (06 Sessions)
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+> *An opportunity for greatness awaits...*
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- title: Session 10 New Horizons (06_Sessions)
 type: session
 tags:
 - session created: '2025-01-15'
 modified: '2025-01-15'
-- -- # Session_10_New_Horizons - -- ## Description {#description} Detailed description pending.
+- -- # Session_10_New_Horizons - -- ## Description
+
+**Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 title: Session 10 New Horizons
 type: Session
 tags:
@@ -40,7 +54,7 @@ world: Both
 3. **Absence Shadows**: Creatures made of pure negation
 4. **Reality Tears**: Wounds in existence that resist all healing
 5. **Memory Voids**: People forgetting they ever existed
-6. **Conceptual Erosion**: Ideas and languages beginning to disappear ### Investigation Opportunities **Research Path** - **DC 18 Investigation**: Discover references to "entities beyond creation" **DC 20 Arcana**: Understand that Void Lords exist outside the concept of existence itself **DC 22 History**: Learn of ancient civilizations that vanished completely from reality **Political Path** - [[Joint Council Emergency Session|Joint Council Emergency Session]] **DC 16 Persuasion**: Convince leaders to take the threat seriously **DC 18 Insight**: Realize some officials have been affected by void exposure **DC 20 Deception**: Navigate political maneuvering while revealing cosmic threats **Mystical Path** - [[Shard Resoce Tracking|Shard Resoce Tracking]] **DC 15 Religion**: Connect void manifestations to disruptions in cosmic balance **DC 19 Arcana**: Trace void incursions to areas of reality stress **DC 21 Nature**: Understand how existence itself can be threatened ### Key Revelations **The Void Lords' Nature**: - They exist in the spaces between realities
+6. **Conceptual Erosion**: Ideas and languages beginning to disappear ### Investigation Opportunities **Research Path** - **DC 18 Investigation**: Discover references to "entities beyond creation" **DC 20 Arcana**: Understand that Void Lords exist outside the concept of existence itself **DC 22 History**: Learn of ancient civilizations that vanished completely from reality **Political Path** - [[Joint Council Emergency Session|Joint Council Emergency Session]] **DC 16 Persuasion**: Convince leaders to take the threat seriously **DC 18 Insight**: Realize some officials affecteded by void exposure **DC 20 Deception**: Navigate political maneuvering while revealing cosmic threats **Mystical Path** - [[Shard Resoce Tracking|Shard Resoce Tracking]] **DC 15 Religion**: Connect void manifestations to disruptions in cosmic balance **DC 19 Arcana**: Trace void incursions to areas of reality stress **DC 21 Nature**: Understand how existence itself can be threatened ### Key Revelations **The Void Lords' Nature**: - They exist in the spaces between realities
 - They view existence as a contamination to be cleansed
 - The shard convergence created "reality scars" they can exploit
 - They cannot be fought with conventional means **The Growing Threat**:
@@ -59,7 +73,7 @@ publish: false --- ac: 25 initiative: 8 ### Environment: The Battlefield of Exis
 - Creatures entering take 3d10 necrotic damage per turn
 - Magic items cease functioning in these areas
 - Spells cast into void zones simply fail **Reality Anchors**: Heroes must maintain connection to existence:
-- At start of each turn, make DC 15 Wisdom save
+- At start of each turn, create DC 15 Wisdom save
 - Failure: Gain 1 level of "existential exhaustion"
 - 6 levels = character is erased from reality entirely **Existential Exhaustion Effects**: 1. Disadvantage on attack rolls
 2. Speed reduced by half
@@ -67,6 +81,9 @@ publish: false --- ac: 25 initiative: 8 ### Environment: The Battlefield of Exis
 4. Maximum HP reduced by half
 5. Cannot take actions, only move
 6. Erased from existence ### Void Lord Prime Combat```statblock name: Void Lord Prime
+
+
+**Summary**: Void Lord Prime Combat```statblock name: Void Lord Prime - Key information at a glance.
 size: Large
 type: aberration
 alignment: neutral evil
@@ -82,8 +99,8 @@ condition_immunities: charmed, frightened, paralyzed
 senses: truesight 120 ft., passive Perception 16
 languages: telepathy 120 ft.
 cr: 16
-traits: - name: Void Existence desc: The Void Lord exists partially outside reality. It cannot be targeted by spells that require a creature to exist, and it phases through solid matter at will. - name: Reality Erasure desc: When the Void Lord deals damage to a creature, that creature must make a DC 20 Constitution saving throw or have their maximum hit points reduced by the damage taken. - name: Legendary Resistance (3/Day) desc: If the Void Lord fails a saving throw, it can choose to succeed instead.
-actions: - name: Multiattack desc: The Void Lord makes three Touch attacks or casts two spells. - name: Touch desc: "Melee Spell Attack: +14 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 5) necrotic damage plus the target must make a DC 20 Constitution save or be reduced to 0 hit points and begin making death saves." - name: Void Sphere (Recharge 5-6) desc: The Void Lord creates a 30-foot radius sphere of pure void at a point within 120 feet. All creatures in the area must make a DC 20 Dexterity saving throw. On a failure, they take 45 (10d8) necrotic damage and are pulled 20 feet toward the center. On a success, they take half damage and aren't pulled. - name: Existence Drain (1/Day) desc: All creatures within 60 feet must make a DC 22 Charisma saving throw. Those who fail have their existence temporarily erased - they cannot take actions, reactions, or be targeted by any effects until the start of their next turn.
+traits: - name: Void Existence desc: The Void Lord exists partially outside reality. It cannot be targeted by spells that require a creature to exist, and it phases through solid matter at will. - name: Reality Erasure desc: When the Void Lord deals damage to a creature, that creature must create a DC 20 Constitution saving throw or have their maximum hit points reduced by the damage taken. - name: Legendary Resistance (3/Day) desc: If the Void Lord fails a saving throw, it can choose to succeed instead.
+actions: - name: Multiattack desc: The Void Lord makes three Touch attacks or casts two spells. - name: Touch desc: "Melee Spell Attack: +14 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 5) necrotic damage plus the target must create a DC 20 Constitution save or be reduced to 0 hit points and begin making death saves." - name: Void Sphere (Recharge 5-6) desc: The Void Lord creates a 30-foot radius sphere of pure void at a point within 120 feet. All creatures in the area must create a DC 20 Dexterity saving throw. On a failure, they take 45 (10d8) necrotic damage and are pulled 20 feet toward the center. On a success, they take half damage and aren't pulled. - name: Existence Drain (1/Day) desc: All creatures within 60 feet must create a DC 22 Charisma saving throw. Those who fail have their existence temporarily erased - they cannot take actions, reactions, or be targeted by any effects until the start of their next turn.
 legendary_actions: - name: Move desc: The Void Lord moves up to its speed without provoking opportunity attacks. Desc: The Void Lord makes one Touch attack. - name: Reality Rend (Costs 2 Actions) desc: The Void Lord tears a hole in reality, creating a permanent 10-foot cube void zone. ### Victory Conditions **Standard Combat Victory**: Reduce Void Lord Prime to 0 hit points **Tactical Victory**: Force retreat by destroying 75% of supporting entities **Existential Victory**: Use shard powers to reinforce reality and banish the void **Special Mechanics for Victory**: - Heroes can channel shard energies they've encountered
 - NPCs from throughout the campaign can provide crucial assistance
 - Environmental features can be turned into weapons against void ## Climax: The Choice Beyond Choice With the immediate threat defeated, the heroes face a final decision about their role in the cosmic order. ### The Revelation **Brother Marcus the Willing** reveals the ultimate truth: > "You have done what we thought impossible - not just saved two worlds, but proven that existence itself can be defended. But this is only the beginning. There are infinite realities under threat, and the Void Lords will not stop with just one defeat." ### The Final Choice **The Cosmic Calling**: The heroes are offered a chance to become interdimensional guardians, protecting all realities from void incursions. **Option 1: Accept the Calling** - Heroes become cosmic guardians
@@ -104,7 +121,7 @@ id: vote-remain command: tp-obsidian://template?vault=Obsidian TTRPGVault&templa
 id: vote-split command: tp-obsidian://template?vault=Obsidian TTRPGVault&template=Vote_Split ### The Cosmic Ceremony **Regardless of choice**, the heroes participate in a ceremony that establishes them as recognized protectors of reality itself. **Ceremony Elements**: - Representatives from all major factions attend
 - The reformed/contained Deep Mother provides blessing
 - Reality itself acknowledges their service
-- New cosmic entities make contact as allies ## Resolution: The New Age The session concludes with an epilogue showing the long-term consequences of all the heroes' choices throughout the campaign. #### Campaign Victory Epilogue **Timeline**: 10 years later **Scope**: Heroes have become legends, their choices reshaping cosmic order **Individual Character Epilogues**:
+- New cosmic entities create contact as allies ## Resolution: The New Age The session concludes with an epilogue showing the long-term consequences of all the heroes' choices throughout the campaign. #### Campaign Victory Epilogue **Timeline**: 10 years later **Scope**: Heroes have become legends, their choices reshaping cosmic order **Individual Character Epilogues**:
 - Based on personal goals and relationships developed
 - Show how each hero found meaning beyond the quest
 - Reveal unexpected consequences of their growth
@@ -122,8 +139,8 @@ id: vote-split command: tp-obsidian://template?vault=Obsidian TTRPGVault&templat
 - **[[Memory of Heroes|Memory Of Heroes]]**: Ability to inspire others across time and space ### Final Character Development **Personal Growth Tracking**: Each hero reviews their journey from Session 1 to now:
 - How have their goals changed?
 - What relationships matter most to them?
-- What kind of legacy do they want to leave?
-- How do they want to be remembered? ### Campaign Conclusion Guidelines **Satisfying Endings**: - Every major NPC should have closure
+- What kind of legacy accomplish they want to leave?
+- How accomplish they want to be remembered? ### Campaign Conclusion Guidelines **Satisfying Endings**: - Every major NPC should have closure
 - All plot threads should be addressed
 - Heroes should feel their choices mattered
 - Leave room for imagination about the future **Character Arc Completion**:
@@ -141,7 +158,7 @@ id: vote-split command: tp-obsidian://template?vault=Obsidian TTRPGVault&templat
 > - **Parallel Viewing**: See alternate versions of key moments
 > - **Reality Reinforcement**: Allies from alternate timelines can provide aid
 > - **Existential Anchoring**: The space itself resists void corruption
-> - **Temporal Stability**: Time moves at the heroes' preferred pace ### NPC Finale Appearances **All Major NPCs** make appearances in the finale: - **[[Queen Seraphina Lumengarde|Queen Seraphina Lumengarde]]**: Leads ceremonial honors
+> - **Temporal Stability**: Time moves at the heroes' preferred pace ### NPC Finale Appearances **All Major NPCs** create appearances in the finale: - **[[Queen Seraphina Lumengarde|Queen Seraphina Lumengarde]]**: Leads ceremonial honors
 - **[[Emperor Thalassius|Emperor Thalassius]]**: Provides cosmic perspective on leadership
 - **[[Dr. Marina Voidseeker|Dr. Marina Voidseeker]]**: Explains the scientific implications
 - **[[Lord Aurelius Goldwave|Lord Aurelius Goldwave]]**: Represents redemption or consequences
@@ -200,3 +217,12 @@ description: Heroes complete the greatest adventure in recorded history ## Relat
 #resource/item
 #meta/moc
 #meta/reference
+## Secrets & Mysteries
+- **Hidden Truth**: Not everything is as it appears
+- **Unanswered Questions**: What remains unknown
+- **Future Revelations**: Discoveries yet to be made
+
+
+**Balance Note**: Adjust creature numbers based on party size and level.
+
+*The adventure continues...*

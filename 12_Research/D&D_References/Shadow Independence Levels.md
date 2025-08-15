@@ -22,6 +22,9 @@ publish: false
 
 ## Description
 
+
+**Summary**: Description - Key information at a glance.
+
 Detailed description pending.
 title: Shadow Independence Levels
 type: Group
@@ -103,6 +106,9 @@ The ultimate goal involves creating a network of autonomous shadow-touched terri
 - Academic experts in dimensional studies
 - Historical figures who advanced shadow-touched rights
 - Supernatural beings supporting dimensional harmony ### Community Services **Integration Support Centers**
+
+
+**Summary**: Community Services **Integration Support Centers** - Key information at a glance.
 
 Located throughout Aquabyssos, these facilities provide:
 - Shadow ability training and control techniques

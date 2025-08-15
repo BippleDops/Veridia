@@ -197,7 +197,7 @@ The Shadow Marina operates as [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]'
 - Establish maritime training academies and certification programs
 - Build diplomatic relationships with other maritime organizations ### Core Values
 
-1. "The Tide Waits for No One"
+1. Therefore, "The Tide Waits for No One"
 2. "Safe Harbor for All Vessels"
 3. "Honor Among Maritime Folk"
 4. "The Sea Remembers Everything"

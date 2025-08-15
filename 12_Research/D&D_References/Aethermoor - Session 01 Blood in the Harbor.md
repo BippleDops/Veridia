@@ -22,6 +22,11 @@ publish: false
 
 ## Description
 
+
+**Summary**: Description - Key information at a glance.
+
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Aethermoor Session 01 Blood in the Harbor
 type: Lore

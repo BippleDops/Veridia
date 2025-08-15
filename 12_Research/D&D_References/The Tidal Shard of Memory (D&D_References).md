@@ -22,7 +22,9 @@ publish: false
 
 This document contains important information regarding The Tidal Shard of Memory and its role within the greater narrative. ## Description
 
-The Tidal Shard of Memory represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
+**Details**: Rich sensory elements bring this to life.
+
+The Tidal Shard of Memory represents a significant element within the campaign world, offering various opportunities for engagement and development. Subsequently, ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements

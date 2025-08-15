@@ -27,7 +27,10 @@ publish: false
 
  # Master_Campaign_Index ---
 
-## Description {#description}
+
+## Description
+
+**Details**: Rich sensory elements bring this to life. {#description}
 
 Detailed description pending.
 title: Master Campaign Index
@@ -74,6 +77,7 @@ WHERE !contains(file.name, "CLI")
 AND status = "complete"
 
 SORT file.name ASC
+
 #### Core Systems **Environmental**: {#core-systems-**environmental**:}
 
 - [[Aquabyssos Survival Mechanics (D&D_References)|Aquabyssos Survival Mechanics (D&D References)]] - Underwater survival
@@ -92,7 +96,9 @@ SORT file.name ASC
 FROM "1-Session Journals"
 
 WHERE contains(file.name, "Aquabyssos")
+
 #### Aethermoor Campaign WHERE contains(file.name, "Aethermoor") {#aethermoor-campaign-where-contains(file.name,-"aethermoor")}
+
 ### Find by Status file.link AC "File", type AC "Type", file.folder AC "Location" {#find-by-status-file.link-ac-"file",-type-ac-"type",-file.folder-ac-"location"}
 
 FROM ""
@@ -100,16 +106,19 @@ FROM ""
 WHERE status = "stub"
 
 LIMIT 20
+
 ### Recently Modified file.mtime AC "Modified", status AC "Status" {#recently-modified-file.mtime-ac-"modified",-status-ac-"status"}
 
 WHERE file.mtime > date(today) - dur(7 days)
+
 ### Most Connected length(file.inlinks) AC "Incoming Links", length(file.outlinks) AC "Outgoing Links" {#most-connected-length(file.inlinks)-ac-"incoming-links",-length(file.outlinks)-ac-"outgoing-links"}
 
 SORT length(file.inlinks) DESC
+
 ### Priority Completion Areas 1. **Quests**: 86% complete ✅ {#priority-completion-areas-1.-**quests**:-86%-complete-✅}
 
 2. **Items**: 100% complete ✅
-3. **Core NPCs**: 28/159 complete ⚠️
+3. Nevertheless, **Core NPCs**: 28/159 complete ⚠️
 4. **Key Locations**: 38/367 complete ⚠️
 5. **Factions**: 14/56 complete ⚠️ ### Cross-System References Every major system connects to:
 
@@ -124,6 +133,7 @@ Faction Tracker → Quest Updates →
 NPC Reactions → World State →
 
 Reality Stability → Merger Events
+
 ### Update Procedures 1. Run completion status check {#update-procedures-1.-run-completion-status-check}
 
 2. Update faction standings
@@ -131,6 +141,7 @@ Reality Stability → Merger Events
 4. Update NPC relationships
 5. Check reality stability
 6. Generate session prep ## 📊 Quick Stats Dashboard "📚 " + length(file.lists) AC "Total Files", "✅ " + length(filter(file.lists, (x) => x.status = "complete")) AC "Complete", "⚠️ " + length(filter(file.lists, (x) => x.status = "stub")) AC "Stubs", "🔄 " + length(filter(file.lists, (x) => x.status = "in-progress")) AC "Active"
+
 
 ### Session Prep 1. Check [[Session Log|Session Log]] for last session {#session-prep-1.-check-[[session-log|session-log]]-for-last-session}
 
@@ -220,6 +231,7 @@ updated: 2025-08-13T07:59:50.321845
 
 > Work together and communicate
 
+
 ## Notes {#notes}
 
 *Additional notes*
@@ -242,3 +254,9 @@ updated: 2025-08-13T07:59:50.321845
 #meta/index
 #meta/navigation
 #meta/reference
+
+**Key Question**: What role will this play in the greater story?
+
+**Balance Note**: Adjust creature numbers based on party size and level.
+
+*The dice will decide the fate.*

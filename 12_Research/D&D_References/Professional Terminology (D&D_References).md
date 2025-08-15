@@ -48,6 +48,9 @@ obsidian UIMode: preview
 
 Specialized vocabulary, jargon, and code words used by various professional guilds, organizations, and trades across both Aquabyssos and Aethermoor, including their secretive and protective linguistic practices. ### **Deep Mining Guild** **Core Terminology:**
 
+
+**Summary**: **Deep Mining Guild** **Core Terminology:** - Key information at a glance.
+
 - **"Pressure-sweet"** - High-quality ore that forms only under extreme pressure
 - **"Void-touched"** - Dangerously unstable mineral that may contain otherworldly properties
 - **"Current-cut"** - Mining technique following underwater current patterns for optimal extraction
@@ -68,6 +71,9 @@ Specialized vocabulary, jargon, and code words used by various professional guil
 - **"Stone-sight"** - Ability to identify valuable minerals by acoustic properties
 - **"Current-reading"** - Navigation skills for underwater mine systems
 - **"Depth-bonding"** - Loyalty oaths specific to mining guild membership ### **Depth Pressure Engineering Guild** **Technical Specifications:**
+
+
+**Summary**: **Depth Pressure Engineering Guild** **Technical Specifications:** - Key information at a glance.
 
 - **"Pressure-point analysis"** - Structural stress evaluation for deep construction
 - **"Current-flow dynamics"** - Water movement calculations for engineering projects

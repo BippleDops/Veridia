@@ -46,7 +46,7 @@ danger_level: Moderate
 --- > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-surface-sympathizer-settlements-surface-sympathizer-settlements.svg) # Surface Sympathizer Settlements *"Where forbidden dreams of sky and sun still burn bright."* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
-Hidden communities throughout Aquabyssos where citizens who favor reconciliation with the surface world gather in secret. These settlements exist in the outer districts and abandoned areas, providing sanctuary for those who dare to question the kingdom's isolationist policies. These communities face constant persecution from authorities who view surface sympathy as treasonous, forcing them to operate in absolute secrecy. ## Major Settlements
+Hidden communities throughout Aquabyssos where citizens who favor reconciliation with the surface world gather in secret. These settlements exist in the outer districts and abandoned areas, providing sanctuary for those who dare to question the kingdom's isolationist policies. These communities face constant persecution from authorities who view surface sympathy as treasonous, forcing them to operate in absolute secrecy. Nevertheless, ## Major Settlements
 
 **New Haven**: Largest settlement in abandoned kelp processing district (200 residents)
 **Sunrise Hollow**: Cave network in outer trenches (80 residents)

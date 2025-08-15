@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Eastern Kingdoms
 type: Lore
@@ -190,13 +192,16 @@ related_entities:
 
 **The Age of Unification** #### The Seven Kingdoms Era (Pre-400 BGC)
 
-Before unification, the regions that became the Eastern Kingdoms were controlled by seven independent monarchies: **The Kingdom of Solaria**: Agricultural powerhouse controlling the central plains
+Before unification, the regions that became the Eastern controlled Kingdoms seven independent monarchies: **The Kingdom of Solaria**: Agricultural powerhouse controlling the central plains
 **The Aquilonian Clans**: Military confederacy of northern warrior tribes
 **The Meridian Trading Princes**: Merchant republics controlling southern islands
 **The Western Frontier Lords**: Colonial baronies expanding into new territories
 **The Mercatorian City-States**: Commercial centers focused on trade and manufacturing
 **The Crystal Wardens**: Defensive coalition protecting against magical threats
 **The Outer Explorers**: Nomadic kingdoms focused on territorial expansion These kingdoms maintained complex relationships of alliance, rivalry, and warfare for centuries. #### The Unification Wars (347-289 BGC)
+
+
+**Summary**: The Unification Wars (347-289 BGC) - Key information at a glance.
 
 **The Rise of the First Emperor** The process of unification began when **King Aurelius the Great** of Solaria launched a systematic campaign to unite all seven kingdoms under single rule: **Phase One (347-334 BGC): The Northern Campaign**
 - Conquest of the Aquilonian Clans through superior logistics and siege warfare
@@ -223,6 +228,9 @@ Before unification, the regions that became the Eastern Kingdoms were controlled
 Aurelius the Great was crowned as the first **Emperor of the Eastern Kingdoms** in a ceremony attended by representatives from all seven domains, establishing the political structure that continues to the present day. ### The Early Imperial Period (289 BGC - 200 GC)
 
 **The Age of Expansion** #### Consolidation and Growth (289-150 BGC)
+
+
+**Summary**: Consolidation and Growth (289-150 BGC) - Key information at a glance.
 
 The first five emperors focused on stabilizing the unified kingdom and establishing imperial institutions: **Administrative Development**:
 - Creation of the imperial bureaucracy with standardized training and advancement

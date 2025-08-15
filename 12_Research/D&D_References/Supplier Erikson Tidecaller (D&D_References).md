@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Supplier Erikson Tidecaller
 type: Location
@@ -74,7 +76,7 @@ obsidian UIMode: preview
 
 Erikson needs a specific rare material for an important customer, but the only known source is in dangerous territory. He hires the party to retrieve it, offering valuable equipment in exchange. ### The Sabotaged Shipment (Levels 4-6)
 
-Erikson's latest shipment of magical components has been contaminated or cursed, affecting his customers' spells and equipment. The party must investigate the source while helping affected clients. ### The Deep Salvage (Levels 5-7)
+Erikson's latest shipment of magical components contaminateded or cursed, affecting his customers' spells and equipment. The party must investigate the source while helping affected clients. ### The Deep Salvage (Levels 5-7)
 
 Erikson has located a valuable wreck in dangerous waters but needs skilled adventurers to help with the salvage operation. The site holds both treasures and threats from the depths. ## Professional Network **Suppliers**: Deep-sea divers, magical creature hunters, reef farmers, crystal miners **Customers**: Adventuring parties, naval officers, magical researchers, government agencies **Competitors**: Other specialty merchants who respect his expertise and refer difficult customers **Allies**: [[Harbor Master Luna Freedrift]], [[Guildmaster Harwick]], various crafting specialists --- *"Good equipment can mean the difference between a successful mission and a watery grave. I don't sell anything I wouldn't trust with my own life."* — Erikson Tidecaller ## Player-Facing Summary Supplier Erikson Tidecaller is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Supplier Erikson Tidecaller as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Supplier Erikson Tidecaller. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes ## Plot Hooks - Strange disappearances suggest a portal
 

@@ -22,6 +22,9 @@ publish: false
 
 ## Description
 
+
+**Summary**: Description - Key information at a glance.
+
 Detailed description pending.
 title: Sister Morwyn
 type: Location
@@ -98,7 +101,7 @@ A climate-controlled section where [[Memory Pearls]] containing the final though
 
 Deep beneath the main sanctuary lie the Memory Vaults, where the most precious memories of the deceased are stored in crystalline formations that grow from processed [[Sorrow Pearls]]. Each vault is keyed to specific families or tragic events, allowing organized remembrance without overwhelming visitors. ### Garden of Whispered Names
 
-A living garden where kelp has been trained to grow in patterns that spell out names of the dead. As currents flow through the garden, the kelp moves in ways that seem to whisper the names, creating a constant, gentle murmur of remembrance. ### Hall of Final Echoes
+A living garden where kelp traineded to grow in patterns that spell out names of the dead. As currents flow through the garden, the kelp moves in ways that seem to whisper the names, creating a constant, gentle murmur of remembrance. ### Hall of Final Echoes
 
 A natural amphitheater where Sister Morwyn conducts memorial services. The acoustics are perfect, allowing even the quietest spoken words to reach every corner, symbolizing how no grief should go unheard. ## Sister Morwyn Veilkeeper **[[Sister Morwyn Veilkeeper|Full Details]]** The sanctuary's founder and spiritual guardian, Sister Morwyn is a human cleric who survived The Great Drowning and dedicated her transformed life to ensuring no death goes unremembered. Her body shows the classic signs of deep adaptation—gills, pale luminescent skin, and enlarged eyes—but she has retained her humanity and compassion in ways that inspire even the most hardened deep dwellers. **Divine Abilities:**
 
@@ -129,7 +132,7 @@ Some visitors report that the memorial walls have begun whispering warnings abou
 
 A section of newer memorials shows signs of shadow corruption, with some plaques displaying names of people who are still alive. Investigation reveals these may be victims of shadow replacement who technically "died" when replaced. ### The Bone Garden Discovery
 
-Recent excavation for new memorial space uncovered what appears to be a pre-drowning cemetery, suggesting the sanctuary site has been used for burials for centuries. ### Permanent Residents
+Recent excavation for new memorial space uncovered what appears to be a pre-drowning cemetery, suggesting the sanctuary site useded for burials for centuries. ### Permanent Residents
 
 **[[Sister Morwyn Veilkeeper|02 Worldbuilding/People/Sister Morwyn Veilkeeper]]** - Founder and head cleric
 - Devoted to preserving dignity in death

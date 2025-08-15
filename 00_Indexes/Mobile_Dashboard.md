@@ -1,3 +1,12 @@
+# Mobile Dashboard
+
+> *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 ---
 
 title: Mobile_Dashboard
@@ -20,7 +29,10 @@ publish: false
 
  # Mobile_Dashboard ---
 
-## Description {#description}
+
+## Description
+
+**Details**: Rich sensory elements bring this to life. {#description}
 
 Detailed description pending.
 title: Mobile Dashboard
@@ -56,6 +68,7 @@ cssclass: mobile-optimized
 
 > Work together and communicate
 
+
 ## Notes {#notes}
 
 *Additional notes*
@@ -64,3 +77,7 @@ cssclass: mobile-optimized
 #world/world
 #gameplay/session
 #meta/index
+
+**Key Question**: What role will this play in the greater story?
+
+*The adventure continues...*

@@ -194,6 +194,9 @@ danger_level: Moderate
 
 **Gateway**: Primary surface gateway for surface-underwater trade **Facilities**: Specialized facilities for handling inter-realm commerce **Security**: Security cooperation managing threats to trade **Integration**: Growing integration between surface and underwater trading communities **Growth**: Economic growth from expanding inter-realm trade ## Secrets and Hidden Aspects > [!secret] DM Secret - The Secret Alliance
 
+
+**Summary**: Secrets and Hidden Aspects > [!secret] DM Secret - The Secret Alliance - Key information at a glance.
+
 > [[Ambassador Marina Bridgewater]] is secretly part of a covert alliance of moderate leaders from both surface and underwater communities working to gradually move both sides toward full integration. They communicate through hidden channels and coordinate policies to create favorable conditions for peace, but they must be extremely careful not to be discovered by extremist factions or their own governments. The alliance includes high-ranking officials from multiple nations who are risking their careers and lives for the cause of peace. > [!secret] DM Secret - The Ancient Artifact
 
 > Buried beneath the main diplomatic pavilion is an ancient artifact from before the great separation, a crystal that amplifies emotional connections and promotes understanding between different species. The artifact's influence is subtle but real, contributing to the success of diplomatic negotiations. Only a few of the oldest residents know of its existence, and they've been secretly maintaining it while keeping its location hidden. If the artifact were destroyed or removed, diplomatic relations would become much more difficult. > [!secret] DM Secret - The Prophecy Cult

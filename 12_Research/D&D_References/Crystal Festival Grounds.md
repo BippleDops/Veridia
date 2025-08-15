@@ -22,7 +22,9 @@ publish: false
 
 This document contains important information regarding Crystal Festival Grounds and its role within the greater narrative. ## Description
 
-Crystal Festival Grounds represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
+**Details**: Rich sensory elements bring this to life.
+
+Crystal Festival Grounds represents a significant element within the campaign world, offering various opportunities for engagement and development. Meanwhile, ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements

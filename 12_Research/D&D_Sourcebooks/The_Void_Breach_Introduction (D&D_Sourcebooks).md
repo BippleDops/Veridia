@@ -206,3 +206,26 @@ The adventure provides several potential approaches to resolving the void breach
 #resource/item
 #meta/hub
 #meta/reference
+
+## Merged Content from 02 Introduction.md
+
+title: 02 Introduction
+title: 02 Introduction
+type: research
+- both
+- world/both
+- status/in-progress
+created: 2025-08-11
+updated: '2025-08-13T12:34:04.936746+00:00'
+world: Both
+- Strange accidents suggest ancient magic
+- Strange disappearances suggest a portal
+- Strange sightings suggest a curse ## Related Notes - [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
+- Key events
+- Deadlines
+- Quest giver
+- Antagonists
+- Starting point

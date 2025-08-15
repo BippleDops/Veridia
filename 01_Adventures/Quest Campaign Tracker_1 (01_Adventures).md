@@ -1,3 +1,29 @@
+# Quest Campaign Tracker 1 (01 Adventures)
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+> *What starts as simple becomes legendary...*
+
+
+## Contents
+- [Overview](#overview)
+- [Description](#description)
+  - [Primary](#primary)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Alternative Solutions](#alternative-solutions)
+
+
+
+## Overview
+
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Comprehensive overview of this content.
+
 ---
 
 title: Quest Campaign Tracker
@@ -33,6 +59,7 @@ publish: false
 
  ## Complications
 
+
 ## Description
 
 Detailed description pending.
@@ -43,6 +70,7 @@ Detailed description pending.
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety ## Objectives
+
 
 ### Primary
 
@@ -113,6 +141,8 @@ Detailed description pending.
 
 - *[Side locations]* ## Rewards
 
+**Experience Points**: 500 XP per character
+
 *[What PCs gain from completing this adventure]* ### Experience Points
 
 - *[XP awards]* ### Treasure
@@ -171,6 +201,7 @@ Detailed description pending.
 
 > Work together and communicate
 
+
 ## Notes
 
 *Additional notes*
@@ -193,9 +224,11 @@ Detailed description pending.
 #resource/treasure
 #meta/index
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -203,6 +236,17 @@ Detailed description pending.
 - Antagonists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+## Stakes
+- **If Successful**: The positive outcomes that await
+- **If Failed**: The dire consequences of failure
+- **Time Pressure**: Why this cannot wait
+
+
+**Key Question**: Will the heroes rise to the challenge?
+
+**Balance Note**: Adjust creature numbers based on party size and level.

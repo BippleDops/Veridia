@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Convergence Point
 type: Lore
@@ -97,7 +99,7 @@ Leading researchers believe the Convergence Point represents:
 - **Magical Overflow**: Result of excessive magical energy use in the region over centuries
 - **Temporal Nexus**: Point where past, present, and future converge ### Connection to Historical Events
 
-**[[The Great Drowning|02 Worldbuilding/Lore/The Great Drowning]]**: May have been caused by or contributed to Convergence Point formation
+**[[The Great Drowning|02 Worldbuilding/Lore/The Great Drowning]]**: May causeded by or contributed to Convergence Point formation
 **[[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]**: Artifacts may be fragments of reality-stabilizing device
 **[[Continental War|02 Worldbuilding/Lore/Continental War]]**: Massive magical energies used may have weakened dimensional barriers
 **Ancient Experiments**: Pre-history magical research may have created initial instability ### Consciousness Interface
@@ -188,7 +190,7 @@ Most disturbing aspect of the phenomenon:
 **International Cooperation**: Shared security protocols between all involved parties ## Quest Hooks 1. **The Dimensional Incident**: Unauthorized research causes reality breach affecting local area
 
 2. **The Parallel Threat**: Hostile force from alternate dimension prepares invasion
-3. **The Lost Researcher**: Important scientist vanishes during Convergence Point expedition
+3. Furthermore, **The Lost Researcher**: Important scientist vanishes during Convergence Point expedition
 4. **The Reality War**: Different versions of the same faction conflict across dimensions
 5. **The Temporal Mission**: Prevent past event that could destabilize multiple realities
 6. **The Knowledge Quest**: Recover crucial information from alternate dimension

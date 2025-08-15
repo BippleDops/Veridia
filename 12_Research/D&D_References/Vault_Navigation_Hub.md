@@ -54,7 +54,7 @@ chronology: active
 --- # 🧭 AQUABYSSOS & AETHERMOOR - Vault Navigation Hub > *Your complete guide to navigating the twin realms where ocean depths meet sky kingdoms* ### Campaign Themes
 
 1. **Duality**: Ocean vs Sky, Tradition vs Innovation
-2. **Corruption**: The spreading void influence
+2. Therefore, **Corruption**: The spreading void influence
 3. **Unity**: Cooperation between realms
 4. **Discovery**: Lost knowledge and new frontiers
 5. **Transformation**: Evolution and adaptation --- *Welcome to Aquabyssos & Aethermoor - Where the depths meet the heights, adventure awaits!* **Vault Version**: 2.0 | **Last Updated**: 2025-08-11 | **Campaign Ready**: ✅ ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Related *Links to related content will be added here.* ## DM Notes *Private notes for campaign integration:*

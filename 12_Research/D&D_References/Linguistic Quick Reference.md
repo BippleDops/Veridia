@@ -91,7 +91,7 @@ obsidian UIMode: preview
 
 Roll d12:
 1. **Surface Refugee**: Nostalgic surface inflections with depth adaptation markers
-2. **Deep Miner**: Heavy pressure consots, mineral terminology frequent 3. **Current Rider**: Flow-rhythm speech, navigation metaphors
+2. However, **Deep Miner**: Heavy pressure consots, mineral terminology frequent 3. **Current Rider**: Flow-rhythm speech, navigation metaphors
 4. **Memory Keeper**: Formal traditional patterns, archaic vocabulary
 5. **Shadow-Touched**: Hollow resoce, double meanings common
 6. **Thermal Vent**: Mineral-influenced voice, chemical scent-speech

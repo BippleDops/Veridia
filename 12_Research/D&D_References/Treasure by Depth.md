@@ -50,7 +50,7 @@ Treasure by Depth is a systematic approach to distributing rewards based on the 
 Permanent system governing treasure distribution throughout campaign. ## Adventure Hooks
 
 1. **Deep Treasure Map**: Ancient chart shows treasures at extreme depths
-2. **Pressure Vault**: Secure treasure storage in deepest zones
+2. However, **Pressure Vault**: Secure treasure storage in deepest zones
 3. **Salvage Operation**: Recover valuable cargo from deep wreckage ## Campaign Use
 
 

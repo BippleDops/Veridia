@@ -22,6 +22,9 @@ publish: false
 
 ## Description
 
+
+**Summary**: Description - Key information at a glance.
+
 Detailed description pending.
 title: Stop the Shadow Harvest
 type: Group
@@ -72,7 +75,7 @@ benefits:
 updated: '2025-08-13T01:18:36.729371+00:00'
 
 --- > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-stop-the-shadow-harvest-stop-the-shadow-harvest.svg) # Stop the Shadow Harvest *Underground resistance movement dedicated to preventing the mass harvesting and manipulation of memories by shadow-touched entities* The **Stop the Shadow Harvest** movement represents the most organized resistance to the growing influence of shadow-touched individuals and organizations within Aquabyssos society. Born from the traumatic experiences of survivors who witnessed or experienced memory harvesting, shadow surgery, and forced identity modification, this underground network operates with single-minded determination to expose and stop what they view as the systematic destruction of individual consciousness and autonomy. Unlike broad anti-shadow movements that oppose shadow integration generally, the Stop the Shadow Harvest focuses specifically on the most invasive practices: memory theft, identity replacement, consciousness manipulation, and what they term "harvest operations" - coordinated efforts to extract, modify, or destroy the memories that define individual identity. They view these activities as a form of murder that destroys the person while leaving the body intact. The movement emerged following a series of incidents where prominent citizens were discovered to have been replaced by shadow-touched duplicates with modified memories. As investigations revealed the scope of memory manipulation throughout Aquabyssos society, survivors began organizing to protect themselves and expose the networks responsible for what they call "The Silent Genocide." ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Organizational Structure Operating as an underground resistance network, Stop the Shadow Harvest employs cellular organization to prevent infiltration and protect members from shadow-based surveillance and memory modification. ### The Harvest Vigilant Council
+![](04_Resources/Assets/Symbols/symbol-heraldry-stop-the-shadow-harvest-stop-the-shadow-harvest.svg) # Stop the Shadow Harvest *Underground resistance movement dedicated to preventing the mass harvesting and manipulation of memories by shadow-touched entities* The **Stop the Shadow Harvest** movement represents the most organized resistance to the growing influence of shadow-touched individuals and organizations within Aquabyssos society. Born from the traumatic experiences of survivors who witnessed or experienced memory harvesting, shadow surgery, and forced identity modification, this underground network operates with single-minded determination to expose and stop what they view as the systematic destruction of individual consciousness and autonomy. Unlike broad anti-shadow movements that oppose shadow integration generally, the Stop the Shadow Harvest focuses specifically on the most invasive practices: memory theft, identity replacement, consciousness manipulation, and what they term "harvest operations" - coordinated efforts to extract, modify, or destroy the memories that define individual identity. They view these activities as a form of murder that destroys the person while leaving the body intact. The movement emerged following a series of incidents where prominent citizens were discovered to replaceded by shadow-touched duplicates with modified memories. As investigations revealed the scope of memory manipulation throughout Aquabyssos society, survivors began organizing to protect themselves and expose the networks responsible for what they call "The Silent Genocide." ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Organizational Structure Operating as an underground resistance network, Stop the Shadow Harvest employs cellular organization to prevent infiltration and protect members from shadow-based surveillance and memory modification. ### The Harvest Vigilant Council
 
 Rather than a single leader, the organization is guided by a rotating council of seven members who never meet in the same location twice. Council members use code names and maintain separation to prevent complete network compromise if discovered. **Known Council Positions:**
 - **The Memory Keeper**: Archives evidence of shadow harvest operations
@@ -83,7 +86,10 @@ Rather than a single leader, the organization is guided by a rotating council of
 - **The Arms Dealer**: Acquires and distributes anti-shadow technology
 - **The Prophet**: Serves as public spokesperson and recruitment coordinator ### Operational Leadership
 
-**Captain [[Captain Elara Shadowshard]]**: Former Crystal Warden who survived shadow harvest attempt, now leads tactical operations against shadow facilities and networks. Her unique experience as both victim and trained investigator makes her invaluable for planning rescue operations. **Brother [[Brother Matthias the Amber Bearer]]**: Religious leader who frames the resistance in moral terms, maintaining safe houses within temple networks and providing spiritual support for harvest survivors dealing with memory trauma. **Scholar [[Scholar Vivienne the Chronicler]]**: Academic researcher specializing in memory studies who documents shadow harvest evidence and develops countermeasures. Her work provides intellectual foundation for resistance operations. ### Cell Structure
+**Captain [[Captain Elara Shadowshard]]**: Former Crystal Warden who survived shadow harvest attempt, now leads tactical operations against shadow facilities and networks. Her unique experience as both victim and trained investigator makes her invaluable for planning rescue operations. However, **Brother [[Brother Matthias the Amber Bearer]]**: Religious leader who frames the resistance in moral terms, maintaining safe houses within temple networks and providing spiritual support for harvest survivors dealing with memory trauma. **Scholar [[Scholar Vivienne the Chronicler]]**: Academic researcher specializing in memory studies who documents shadow harvest evidence and develops countermeasures. Her work provides intellectual foundation for resistance operations. ### Cell Structure
+
+
+**Summary**: Cell Structure - Key information at a glance.
 
 **Protection Cells**: Focus on defending potential targets and providing sanctuary
 - Safe house networks with anti-shadow shielding
@@ -223,14 +229,14 @@ Supported by [[Scholar Vivienne the Chronicler]], emphasize investigation and pu
 A radical faction believing any shadow-touched individual represents a potential harvest threat. They advocate for broader anti-shadow operations beyond specific harvest activities. ### Rescue Mission Scenarios
 
 1. **The Harvest in Progress**: Interrupting shadow surgery operation to save victims
-2. **The Replaced Official**: Discovering a government figure has been replaced by shadow duplicate
+2. **The Replaced Official**: Discovering a government figure replaceded by shadow duplicate
 3. **Family Extraction**: Rescuing family whose memories are being systematically harvested
 4. **The Memory Market**: Infiltrating auction where stolen memories are being sold ### Investigation Adventures
 
 
 5. **The Missing Memories**: Tracking down stolen memories of key historical events
 6. **Shadow Surgery Evidence**: Gathering proof of illegal identity modification operations
-7. **The Infiltrator**: Discovering resistance member has been replaced or compromised
+7. **The Infiltrator**: Discovering resistance member replaceded or compromised
 8. **Network Mapping**: Tracing connections between legitimate institutions and harvest operations ### Exposure Campaign Missions
 
 

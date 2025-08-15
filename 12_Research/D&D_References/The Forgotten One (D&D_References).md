@@ -78,6 +78,9 @@ obsidian UIMode: preview
 - **Temporal Stairways**: Steps that lead to different time periods
 - **The Forgetting Pool**: A basin of liquid that may contain all lost memories ### How It Works The Forgotten One operates on principles that seem to predate current reality. Its influence affects different aspects of existence: **Memory Erasure Mechanics**:
 
+
+**Summary**: How It Works The Forgotten One operates on principles that seem to predate current reality. Its influence affects different aspects of existence: **Memory Erasure Mechanics**: - Key information at a glance.
+
 - **Active Forgetting**: Memories don't just fade - they are actively removed
 - **Retroactive Nonexistence**: Things touched by its influence become as if they never were
 - **Concept Void**: Abstract ideas and relationships are dissolved
@@ -113,7 +116,7 @@ obsidian UIMode: preview
 - **Memory Wraiths**: Spirits composed of forgotten experiences
 - **Void Swimmers**: Creatures that phase in and out of existence
 - **Echo Servants**: Entities that repeat forgotten conversations and events
-- **The Last Witness**: A singular guardian that remembers what others cannot ### Protective Equipment Specialized gear has been developed for exploration, with limited success: **Memory Anchors**: Magical items that preserve core memories (50% success rate)
+- **The Last Witness**: A singular guardian that remembers what others cannot ### Protective Equipment Specialized gear developeded for exploration, with limited success: **Memory Anchors**: Magical items that preserve core memories (50% success rate)
 
 **Reality Tethers**: Devices that maintain connection to baseline reality
 **Forgetting Suits**: Protective gear that delays memory loss effects
@@ -150,11 +153,11 @@ obsidian UIMode: preview
 
 - The site represents ruins of a pre-cataclysmic civilization
 - Their technology or magic involved memory manipulation
-- The Great Drowning may have been caused by their experiments with forgetting
+- The Great Drowning may causeded by their experiments with forgetting
 - Cross-references with [[Memoriam]] **The Conceptual Weapon Theory**
 - Created as a weapon that attacks memory and identity
 - Designed to erase enemies from history itself
-- May have been used during ancient wars between realms
+- May useded during ancient wars between realms
 - Potentially still active and waiting for commands **The Natural Phenomenon Explanation**
 - Result of unique magical conditions in the deep trenches
 - Intersection of temporal and memory-affecting magical fields
@@ -215,7 +218,7 @@ An explorer returns from the deep trenches with a journal full of detailed drawi
 
 A vessel arrives in port with a crew that can't remember where they've been or what cargo they were carrying, but their ship shows signs of deep-trench exploration. ### Mid-Level Adventures (Levels 5-9) **The Memory Merchant**
 
-Someone is selling memories that may have been recovered from The Forgotten One, but the memories contain dangerous knowledge that affects reality itself. **The Recursive Expedition**
+Someone is selling memories that may recovereded from The Forgotten One, but the memories contain dangerous knowledge that affects reality itself. **The Recursive Expedition**
 
 The party discovers evidence that they themselves led an expedition to The Forgotten One, but none of them remember it happening. **The Identity Crisis**
 
@@ -227,7 +230,7 @@ The party must venture to The Forgotten One to prevent it from expanding its inf
 
 Conflict erupts between those who want to preserve The Forgotten One and those who want to destroy it, with the outcome determining the nature of memory itself. ### Hidden Truths **The Deliberate Creation**
 
-The Forgotten One was not accidental - it was created by an ancient civilization as their ultimate legacy, ensuring they would be remembered by being forgotten. **The Growing Influence**
+The Forgotten One was not accidental - created it an ancient civilization as their ultimate legacy, ensuring they would be remembered by being forgotten. **The Growing Influence**
 
 The site's memory-affecting power is slowly expanding, and may eventually encompass all of [[Aquabyssos]] if left unchecked. **The Memory Prison**
 
@@ -235,11 +238,14 @@ All forgotten memories may still exist within The Forgotten One, trapped in a co
 
 The Last Witness, the site's primary guardian, may actually be the collective consciousness of everyone who has ever been forgotten by the site. ### Ongoing Mysteries **The Temporal Loop**
 
+
+**Summary**: Ongoing Mysteries **The Temporal Loop** - Key information at a glance.
+
 Evidence suggests some expeditions to the site may be occurring in recursive time loops, with the same people forgetting and rediscovering the location repeatedly. **The Reality Anchor**
 
 Something is preventing The Forgotten One from erasing itself entirely - this anchor point may be the key to understanding and potentially controlling the site. **The Missing Civilization Records**
 
-Historical documents contain gaps that suggest an entire civilization has been erased from history, and The Forgotten One may be all that remains of them. **The Divine Connection**
+Historical documents contain gaps that suggest an entire civilization eraseded from history, and The Forgotten One may be all that remains of them. **The Divine Connection**
 
 Certain divine magic works differently near the site, suggesting it may have connections to deities that have themselves been forgotten. --- *In the deepest places where light fears to venture, The Forgotten One waits - not malevolently, but with the patient persistence of entropy itself. It reminds us that memory, identity, and existence itself are more fragile than we dare believe, and that some knowledge comes at the price of forgetting who we were when we sought it.* ## Player-Facing Summary The Forgotten One is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Forgotten One as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Forgotten One. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Plot Hooks - Someone is hunting a artifact for love
 

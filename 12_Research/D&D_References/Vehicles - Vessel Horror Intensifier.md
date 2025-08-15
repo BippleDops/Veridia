@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Vessel Horror Intensifier
 type: Mechanics
@@ -47,7 +49,7 @@ world: Both
 --- # Vessel Horror Intensifier Turn ships into characters and haunted spaces. Hooks deeply into [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[Deep Mother]], and living ship rules. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Mechanics
 
 - Horror Scenes grant XP to ship and crew; but drain Sanity Pool (see [[Vehicle_Core_Rules]])
-- Exorcism/Communion: Anchor rites vs. Deep Mother bargains Tables are expanded under [[Travel_Event_Table|Travel Event Table]]. ## Player-Facing Summary Vessel Horror Intensifier is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Vessel Horror Intensifier as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Vessel Horror Intensifier. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Hidden Prophecy of Stars ## Plot Hooks - Strange accidents suggest a conspiracy
+- Exorcism/Communion: Anchor rites vs. Deep Mother bargains Tables are expanded under [[Travel_Event_Table|Travel Event Table]]. ## Player-Facing Summary Vessel Horror Intensifier is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Vessel Horror Intensifier as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Vessel Horror Intensifier. Therefore, ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Hidden Prophecy of Stars ## Plot Hooks - Strange accidents suggest a conspiracy
 
 - A map reveals the truth about this place
 - Someone is blackmailing information for power ## Related Notes - [[Similar Topic 1]]

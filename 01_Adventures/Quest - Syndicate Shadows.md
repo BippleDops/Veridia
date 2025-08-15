@@ -1,3 +1,24 @@
+# Quest   Syndicate Shadows
+
+
+## Contents
+- [Overview](#overview)
+- [Description](#description)
+  - [Primary](#primary)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Alternative Solutions](#alternative-solutions)
+
+
+
+## Overview
+
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Comprehensive overview of this content.
+
 ---
 
 title: Quest - Syndicate Shadows
@@ -20,7 +41,10 @@ publish: false
 
  ## Complications
 
+
 ## Description
+
+**Tension**: The urgency of this quest creates palpable tension in the air.
 
 Detailed description pending.
 - Unexpected obstacles
@@ -56,6 +80,7 @@ accessibility: screen_reader_summary: Quest - Syndicate Shadows is an NPC entang
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety ## Objectives
+
 
 ### Primary
 
@@ -104,6 +129,8 @@ Quest - Syndicate Shadows moves information and influence like currency. Publicl
 - *[Major locations to visit]* ### Optional Areas
 
 - *[Side locations]* ## Rewards
+
+**Experience Points**: 500 XP per character
 
 *[What PCs gain from completing this adventure]* ### Experience Points
 
@@ -158,6 +185,7 @@ Quest - Syndicate Shadows moves information and influence like currency. Publicl
 | 6 | Option F |
 
 
+
 ## Notes
 
 *Additional notes*
@@ -180,9 +208,11 @@ Quest - Syndicate Shadows moves information and influence like currency. Publicl
 #resource/treasure
 #meta/reference
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -190,6 +220,10 @@ Quest - Syndicate Shadows moves information and influence like currency. Publicl
 - Antagonists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+
+**Balance Note**: Adjust creature numbers based on party size and level.

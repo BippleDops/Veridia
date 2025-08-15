@@ -39,6 +39,9 @@ modified: '2025-08-14'
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[item-artifact-boots-of-striding-and-springing-xdmg-v1-boots-of-striding-and-springing-xdmg.png (Consolidated)]]
 
+
+**Summary**: 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[item-artifact-boots-of-striding-and-springing-xdmg-v1-boots-of-striding-and-springing-xdmg.png (Consolidated)]] - Key information at a glance.
+
 - [[item-artifact-boots-of-striding-and-springing-xdmg-v2-boots-of-striding-and-springing-xdmg.png (Consolidated)]]
 - [[item-artifact-boots-of-striding-and-springing-xdmg-v3-boots-of-striding-and-springing-xdmg.png (Consolidated)]]
 - [[item-artifact-boots-of-striding-and-springing-xdmg-v4-boots-of-striding-and-springing-xdmg.png (Consolidated)]]

@@ -62,7 +62,7 @@ Two hundred years ago, Scarlett was a legitimate pearl trader who made regular r
 - He knows her true nature
 - Genuinely cares for him (weakness) ### Current Plots
 
-1. **The Surface Pipeline:** Building permanent smuggling portals
+1. Additionally, **The Surface Pipeline:** Building permanent smuggling portals
 2. **The Depth War Profiteering:** Selling weapons to all sides
 3. **The Restoration Funding:** Secretly supporting chaos for profit
 4. **The Vampire Network:** Connecting underwater and surface vampires ## Quest Hooks 1. **[[Blood in the Water]]** - She needs special blood from a surface noble

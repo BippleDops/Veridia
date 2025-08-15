@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Consequence Chain 5 Marina Identity Revelation
 type: Lore
@@ -55,6 +57,9 @@ primary_sessions:
 
 *When a Smuggler Became a Bridge Between Worlds* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Initial Action **What the players did:**
 
+
+**Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Initial Action **What the players did:** - Key information at a glance.
+
 - Witnessed Marina's unusual abilities during underwater investigation and combat
 - Followed Marina to Hidden Smuggler's Cove where she revealed her true heritage
 - Learned Marina is Marina Coralheart-Tethys, descendant of Aquabyssos nobility
@@ -73,6 +78,9 @@ primary_sessions:
 - Intelligence about Consortium's illegal excavation operations provided
 - Emergency coalition formed between party and Depth Guard for crisis response
 - Cultural exchange accelerated as surface dwellers gained underwater ally ## Primary Ripples (Days/Weeks) **Economic impacts:**
+
+
+**Summary**: Primary Ripples (Days/Weeks) **Economic impacts:** - Key information at a glance.
 
 - **Smuggling operations legitimized**: Depth Guard "contraband" revealed as cultural exchange
 - **Cross-realm trade protocols**: Official recognition required regulatory development

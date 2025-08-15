@@ -30,7 +30,7 @@ New Tethys represents a significant element within the campaign world, offering 
 
 ### Background
 
-Historical context and development over time. ### Current State
+Historical context and development over time. Therefore, ### Current State
 
 Present circumstances and ongoing relevance. ### Future Potential
 

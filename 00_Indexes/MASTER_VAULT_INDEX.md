@@ -1,3 +1,22 @@
+# Master Vault Index
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+> *An opportunity for greatness awaits...*
+
+
+## Contents
+- [Overview](#overview)
+- [Description {#description}](#description-{#description})
+- [Notes {#notes}](#notes-{#notes})
+
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 ---
 
 title: MASTER_VAULT_INDEX
@@ -26,7 +45,10 @@ publish: false
 
  # MASTER_VAULT_INDEX ---
 
-## Description {#description}
+
+## Description
+
+**Details**: Rich sensory elements bring this to life. {#description}
 
 Detailed description pending.
 title: MASTER VAULT INDEX
@@ -103,6 +125,7 @@ updated: 2025-08-14
 - **Closer Look**: Detailed examination
 - **Hidden Details**: Secret aspects
 
+
 ## Notes {#notes}
 
 *Additional notes*
@@ -118,3 +141,9 @@ updated: 2025-08-14
 #meta/index
 #meta/hub
 #meta/navigation
+
+**Key Question**: What role will this play in the greater story?
+
+**Balance Note**: Adjust creature numbers based on party size and level.
+
+*The adventure continues...*

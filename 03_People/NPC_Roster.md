@@ -1,3 +1,12 @@
+# Npc Roster
+
+> *Every scar tells a story...* This remarkable element adds depth and intrigue to any campaign.
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- title: NPC_Roster
 type: npc
 tags:
@@ -10,7 +19,9 @@ category: 03 People
 subcategory: Npc Roster.Md
 related: []
 cssclass: standard
-publish: false --- # NPC_Roster ## Portrait![[Npc|Npc]] *Portrait reference for NPC_Roster* ## Description *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key character traits]*
+publish: false --- # NPC_Roster ## Portrait![[Npc|Npc]] *Portrait reference for NPC_Roster* ## Description
+
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key character traits]*
 - **Ideals**: *[Core beliefs and values]*
 - **Bonds**: *[Important relationships and connections]*
 - **Flaws**: *[Character weaknesses or quirks]* ## Voice & Mannerisms - **Speaking Style**: *[How they talk and express themselves]*
@@ -59,3 +70,14 @@ modified: '2025-08-14' --- ## Major NPCs | Name | Role | Location | Status |
 - Special moves ## Secrets {#secrets}
 - Hidden knowledge
 - Personal mysteries
+
+
+**Key Question**: What drives this character's actions?
+## Session Prep
+- **Read Aloud Text**: Prepared descriptions for key moments
+- **Key NPCs**: Important characters for this content
+- **Props Needed**: Physical or digital aids to enhance play
+- **Estimated Time**: How long this typically takes to run
+
+
+*Adventure awaits those brave enough to seek it.*

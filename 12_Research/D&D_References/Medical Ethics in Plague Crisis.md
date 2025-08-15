@@ -55,6 +55,9 @@ updated: '2025-08-13T01:18:34.881366+00:00'
 
 The core ethical dilemma: Are shadow-touched individuals still the same person, and what constitutes "harm" when consciousness itself changes? #### **The Resource Allocation Crisis**
 
+
+**Summary**: **The Resource Allocation Crisis** - Key information at a glance.
+
 **Situation**: Healing supplies can treat only 40% of the infected. Multiple triage systems are proposed: **Proposed Systems**:
 - **First Come, First Served**: Fair but inefficient
 - **Greatest Need**: Treat the sickest first
@@ -77,6 +80,9 @@ The core ethical dilemma: Are shadow-touched individuals still the same person, 
 - Religious objections to "playing god"
 - Community violence when triage becomes public
 - Healers' psychological trauma from choosing #### **The Consciousness Consent Problem**
+
+
+**Summary**: **The Consciousness Consent Problem** - Key information at a glance.
 
 **Situation**: Shadow-touched individuals often lose capacity for rational decision-making. Experimental "shadow surgery" might restore them, but requires informed consent they cannot meaningfully provide. **Patient Categories**:
 - **Complete Transformation**: No apparent human consciousness remaining

@@ -152,7 +152,7 @@ world: Aethermoor
 
 1. **Maintain Control**: Keep aircraft stable
 2. **Choose Landing Site**: Avoid populated areas
-3. **Send Distress Signal**: Use radio or visual signals
+3. Nevertheless, **Send Distress Signal**: Use radio or visual signals
 4. **Prepare Passengers**: Secure loose objects, brace position
 5. **Execute Landing**: Follow aircraft-specific procedures
 6. **Post-Landing**: Check for injuries, signal rescue teams ### Lost Navigation Recovery

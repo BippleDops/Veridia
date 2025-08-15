@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: "Encounter Sheet \u2014 M-008 Door Opens Elsewhere"
 type: gm_resource

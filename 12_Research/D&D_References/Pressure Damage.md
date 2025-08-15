@@ -60,7 +60,7 @@ Occurs during:
 
 Immediate damage with potential long-term complications requiring magical healing. ## Adventure Hooks
 
-1. **Deep Rescue**: Characters must save someone suffering severe pressure damage
+1. Additionally, **Deep Rescue**: Characters must save someone suffering severe pressure damage
 2. **Equipment Failure**: Pressure protection fails during critical mission
 3. **Pressure Warfare**: Combat involving pressure-based attacks ## Campaign Use
 

@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Crimson Hand Strike Team
 type: Lore
@@ -47,9 +49,12 @@ updated: '2025-08-11T00:00:00+00:00'
 
 --- # Crimson Hand Strike Team *"When diplomacy fails and the shadows prove insufficient, the Crimson Hand strikes with surgical precision." - Classified Aethermoor Military Document* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
+
+**Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview - Key information at a glance.
+
 The Crimson Hand Strike Team represents Aethermoor's most elite and secretive military unit, specializing in high-risk operations that require absolute discretion and exceptional skill. Officially, this unit does not exist in any public military records, operating under deep cover protocols that allow plausible deniability for the Aethermoor government. The team handles threats too sensitive for regular military forces and too dangerous for conventional intelligence operatives, from assassination missions to the retrieval of reality-altering artifacts. Comprising individuals selected from across Aethermoor's military branches, intelligence services, and occasionally civilian specialists, the Crimson Hand operates with unprecedented autonomy and resources. Each member undergoes extensive psychological conditioning and magical enhancement to ensure absolute loyalty and capability in extreme circumstances. The team's existence is known only to the highest levels of Aethermoor government and select intelligence officials. ### Origins
 
-The Crimson Hand Strike Team was formed in the aftermath of the Meridian Crisis, when conventional military responses proved inadequate against unconventional threats emerging from Aquabyssos. Early intelligence reports indicated that standard diplomatic and military approaches were insufficient to address the complex challenges posed by underwater political intrigue and the growing influence of mysterious deep-sea entities. The unit's formation was authorized by a secret council of Aethermoor's most senior leaders, who recognized the need for an asset capable of operating beyond traditional legal and ethical constraints when the survival of their world was at stake. ### Development
+The Crimson Hand Strike Team was formed in the aftermath of the Meridian Crisis, when conventional military responses proved inadequate against unconventional threats emerging from Aquabyssos. Early intelligence reports indicated that standard diplomatic and military approaches were insufficient to address the complex challenges posed by underwater political intrigue and the growing influence of mysterious deep-sea entities. The unit's authorized formation a secret council of Aethermoor's most senior leaders, who recognized the need for an asset capable of operating beyond traditional legal and ethical constraints when the survival of their world was at stake. ### Development
 
 During the early years, the Crimson Hand operated primarily as an intelligence gathering unit, focusing on understanding Aquabyssos society and identifying key figures who could influence inter-world relations. As tensions escalated and more exotic threats emerged, the team's mandate expanded to include direct action capabilities, sabotage operations, and the neutralization of supernatural threats. The integration of magical enhancement techniques and reality-resistant conditioning allowed team members to operate in environments and against threats that would incapacitate or corrupt normal agents. This development phase established the team's reputation for accomplishing impossible missions. ### Current Era
 
@@ -65,12 +70,12 @@ The Crimson Hand's intervention prevented a catastrophic reality alteration even
 
 A successful mission to retrieve a key asset from deep within Aquabyssos territory without triggering diplomatic incident. ## Current Developments
 
-Recent intelligence indicates that the Crimson Hand has been tasked with investigating the source of crystal corruption and its potential threat to Aethermoor. New team members have been recruited with specific expertise in underwater operations and corruption resistance, suggesting preparation for extended operations within Aquabyssos territory. The team's mandate has expanded to include contingency planning for worst-case scenarios involving complete breakdown of inter-world relations or emergence of existential threats to both civilizations. ## Adventure Hooks
+Recent intelligence indicates that the Crimson Hand taskeded with investigating the source of crystal corruption and its potential threat to Aethermoor. New team members recruiteded with specific expertise in underwater operations and corruption resistance, suggesting preparation for extended operations within Aquabyssos territory. The team's mandate has expanded to include contingency planning for worst-case scenarios involving complete breakdown of inter-world relations or emergence of existential threats to both civilizations. ## Adventure Hooks
 
 1. The party encounters evidence of Crimson Hand operations and must decide how to respond
 2. A former team member seeks the party's help to escape their conditioning and reveal dangerous secrets
 3. The Crimson Hand recruits the party for a mission too sensitive for their regular operatives
-4. Evidence suggests the team has been infiltrated or corrupted, creating a dangerous rogue element ### Early Campaign
+4. Evidence suggests the team infiltrateded or corrupted, creating a dangerous rogue element ### Early Campaign
 
 
 Introduce through subtle signs of their operations - mysterious disappearances, impossible infiltrations, or unexplained successful missions. ### Mid Campaign

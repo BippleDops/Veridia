@@ -119,7 +119,7 @@ Specialized facilities that cultivate memories: **Process**:
 | Illegal/forbidden | ×3-10 |
 | Pre-Sundering | ×10-1000 | #### Authentication
 
-1. **Visual Inspection**: Check color, clarity, size
+1. Indeed, **Visual Inspection**: Check color, clarity, size
 2. **Magical Verification**: Detect Magic, Identify
 3. **Sample Taste**: Brief exposure to verify content
 4. **Deep Scan**: Full magical analysis (100 gp service)

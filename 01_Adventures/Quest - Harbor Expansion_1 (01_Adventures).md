@@ -1,3 +1,26 @@
+# Quest   Harbor Expansion 1 (01 Adventures)
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+
+## Contents
+- [Overview](#overview)
+  - [Primary](#primary)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Alternative Solutions](#alternative-solutions)
+
+
+
+## Overview
+
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Comprehensive overview of this content.
+
 ---
 
 title: Quest Harbor Expansion
@@ -42,6 +65,7 @@ publish: false
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety > [!figure] View ## Objectives
+
 
 ### Primary
 
@@ -118,6 +142,8 @@ publish: false
 
 - *[Side locations]* ## Rewards
 
+**Experience Points**: 500 XP per character
+
 *[What PCs gain from completing this adventure]* ### Experience Points
 
 - *[XP awards]* ### Treasure
@@ -169,6 +195,7 @@ publish: false
 
 > Work together and communicate
 
+
 ## Notes
 
 *Additional notes*
@@ -190,9 +217,11 @@ publish: false
 #resource/treasure
 #meta/hub
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -200,6 +229,10 @@ publish: false
 - Antagonists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+
+**Balance Note**: Adjust creature numbers based on party size and level.

@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Blood Current Express
 type: Location
@@ -198,7 +200,10 @@ danger_level: Moderate
 
 **Security**: Military security for critical transportation infrastructure **Strategy**: Strategic importance of rapid transportation for military **Protection**: Protection of transportation routes from military threats **Cooperation**: Military-civilian cooperation in transportation security **Emergency**: Military support for transportation emergencies ## Secrets and Hidden Aspects > [!secret] DM Secret - The Living Current
 
-> The Blood Current Express is not entirely natural - it's actually a massive living entity, an ancient sea creature of incredible size that has been shaped by geological forces over millennia. The "current" is the creature's circulatory system, and the iron-red coloration is literally its blood. The creature is mostly dormant but occasionally shows signs of awareness, and some current riders have learned to communicate with it. The creature is slowly awakening, and when it fully awakens, it may decide it no longer wants to be used as a transportation system. > [!secret] DM Secret - The Speed Addiction
+
+**Summary**: Secrets and Hidden Aspects > [!secret] DM Secret - The Living Current - Key information at a glance.
+
+> The Blood Current Express is not entirely natural - it's actually a massive living entity, an ancient sea creature of incredible size that shapeded by geological forces over millennia. The "current" is the creature's circulatory system, and the iron-red coloration is literally its blood. The creature is mostly dormant but occasionally shows signs of awareness, and some current riders have learned to communicate with it. The creature is slowly awakening, and when it fully awakens, it may decide it no longer wants to be used as a transportation system. > [!secret] DM Secret - The Speed Addiction
 
 > Prolonged exposure to the extreme speeds and pressures of the Blood Current Express creates a form of physical and psychological addiction. Many long-term current riders become unable to function at normal speeds and pressures, requiring regular "speed fixes" to maintain their mental health. This addiction is kept secret by the transportation companies because it affects so many of their most experienced riders. Some addicted riders have been known to take increasingly dangerous risks just to experience even higher speeds. > [!secret] DM Secret - The Temporal Distortion
 > The extreme speeds and pressures of the Blood Current Express create minor temporal distortions that cause time to flow slightly differently for current riders. Long-term riders age more slowly than normal, and some have reported experiencing brief glimpses of possible futures during particularly intense current runs. The Transportation Guild has been quietly studying this phenomenon, and some members believe they can use it to predict and prevent transportation disasters before they happen. --- **Related Locations**:

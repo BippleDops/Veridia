@@ -22,7 +22,9 @@ publish: false
 
 This document contains important information regarding Keeper of the Past, Elderly Morgan and its role within the greater narrative. ## Description
 
-Keeper of the Past, Elderly Morgan represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
+**Details**: Rich sensory elements bring this to life.
+
+Keeper of the Past, Elderly Morgan represents a significant element within the campaign world, offering various opportunities for engagement and development. However, ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements

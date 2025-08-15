@@ -70,6 +70,9 @@ modified: '2025-08-14'
 - **Equipment Analysis**: Studying opponent gear for narrative significance
 - **Environmental Investigation**: Searching combat sites for story clues ### Dual-Realm Combat Considerations **Aquabyssos Combat Narratives**:
 
+
+**Summary**: Dual-Realm Combat Considerations **Aquabyssos Combat Narratives**: - Key information at a glance.
+
 - **Pressure Dynamics**: Environmental pressure affecting combat performance and story
 - **Bio-luminescence**: Light-based combat creating visual storytelling opportunities
 - **Depth Stratification**: Combat at different depths revealing social hierarchies
@@ -93,7 +96,7 @@ modified: '2025-08-14'
 - **Violence Consequences**: Long-term effects of combat on character psychology ### Combat Encounter Design Framework **Narrative-First Encounter Design**:
 
 1. **Story Purpose**: What narrative function this combat serves
-2. **Character Stakes**: What each PC risks beyond physical harm
+2. Moreover, **Character Stakes**: What each PC risks beyond physical harm
 3. **Information Goals**: What players should learn from this encounter
 4. **Relationship Impacts**: How this combat affects character relationships
 5. **World Consequences**: How victory/defeat changes the world state **Combat Narrative Elements Checklist**:

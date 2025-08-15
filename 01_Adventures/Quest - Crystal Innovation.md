@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Tension**: The urgency of this quest creates palpable tension in the air.
+
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
@@ -60,7 +62,7 @@ Recent events have created a situation requiring brave adventurers to investigat
 - **Antagonists**: Opposition forces
 - **Neutral Parties**: Could go either way ## Story Arc ### Act 1: Introduction
 
-The party learns of the situation and begins investigation. ### Act 2: Investigation
+The party learns of the situation and begins investigation. Indeed, ### Act 2: Investigation
 
 Gathering clues and uncovering the truth behind events. ### Act 3: Resolution
 
@@ -69,6 +71,8 @@ Confronting the source of the problem and determining outcomes. ## Encounters
 - **Combat**: 2-3 balanced encounters
 - **Social**: Multiple roleplay opportunities
 - **Exploration**: Environmental challenges ## Rewards
+
+**Experience Points**: 500 XP per character
 
 - Experience appropriate to level
 - Treasure parcels
@@ -158,3 +162,6 @@ Confronting the source of the problem and determining outcomes. ## Encounters
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+
+**Balance Note**: Adjust creature numbers based on party size and level.

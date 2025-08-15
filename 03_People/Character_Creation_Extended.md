@@ -1,3 +1,7 @@
+# Character Creation Extended
+
+> *Every scar tells a story...* This remarkable element adds depth and intrigue to any campaign.
+
 --- class: Unknown
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -16,7 +20,9 @@ category: 03 People
 subcategory: Character Creation Extended.Md
 related: []
 cssclass: standard
-publish: false --- # Character_Creation_Extended ## Portrait![[Character_Creation_Extended|Character Creation Extended]] *Portrait reference for Character_Creation_Extended* ## Overview ## Description {#description} Detailed description pending. Character_Creation_Extended is a notable figure in the realm, known for their unique skills and complex motivations. ## Appearance - **Age**: Middle-aged
+publish: false --- # Character_Creation_Extended ## Portrait![[Character_Creation_Extended|Character Creation Extended]] *Portrait reference for Character_Creation_Extended* ## Overview ## Description
+
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. {#description} Detailed description pending. Character_Creation_Extended is a notable figure in the realm, known for their unique skills and complex motivations. ## Appearance - **Age**: Middle-aged
 - **Build**: Average height, lean build
 - **Distinguishing Features**: Keen eyes that miss nothing
 - **Typical Attire**: Practical clothing suited for their profession ## Personality - **Traits**: Observant, calculating, pragmatic
@@ -26,7 +32,7 @@ publish: false --- # Character_Creation_Extended ## Portrait![[Character_Creatio
 - **Special Abilities**: Keen tactical mind
 - **Equipment**: Various tools of their trade ## Relationships - **Allies**: [[The Merchant's Guild|The Merchant'S Guild]], [[City Watch|City Watch]]
 - **Rivals**: [[Shadow Conspiracy|Shadow Conspiracy]]
-- **Contacts**: Network of informants throughout the city ## Current Activities Actively involved in current events, pursuing their own agenda while maintaining public appearances. ## Plot Hooks 1. Seeks adventurers for a delicate mission
+- **Contacts**: Network of informants throughout the city ## Current Activities Actively involved in current events, pursuing their own agenda while maintaining public appearances. Additionally, ## Plot Hooks 1. Seeks adventurers for a delicate mission
 2. Has information about a mystery the party is investigating
 3. May become an ally or adversary based on party actions ## DM Notes *This NPC can serve multiple roles depending on campaign needs. Their true loyalties are intentionally ambiguous.* ## Stats```statblock creature: Custom NPC```### Quick Stats - **AC**: *[Armor Class]*
 - **HP**: *[Hit Points]*
@@ -66,3 +72,14 @@ publish: false --- # Character_Creation_Extended ## Portrait![[Character_Creatio
 - Special moves ## Secrets {#secrets}
 - Hidden knowledge
 - Personal mysteries
+
+
+**Key Question**: What drives this character's actions?
+## Session Prep
+- **Read Aloud Text**: Prepared descriptions for key moments
+- **Key NPCs**: Important characters for this content
+- **Props Needed**: Physical or digital aids to enhance play
+- **Estimated Time**: How long this typically takes to run
+
+
+*What happens next is up to you.*

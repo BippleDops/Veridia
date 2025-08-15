@@ -1,3 +1,10 @@
+# Session 3   Memories Lost And Found
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+> *An opportunity for greatness awaits...*
+
 --- aliases: ["Session 3 - Memories Lost and Found"]
 created: 2025-08-15
 modified: 2025-08-15
@@ -44,3 +51,12 @@ improvements: 20
 #gameplay/session
 #gameplay/adventure
 #meta/reference
+## Secrets & Mysteries
+- **Hidden Truth**: Not everything is as it appears
+- **Unanswered Questions**: What remains unknown
+- **Future Revelations**: Discoveries yet to be made
+
+
+**Key Question**: What role will this play in the greater story?
+
+*The dice will decide the fate.*

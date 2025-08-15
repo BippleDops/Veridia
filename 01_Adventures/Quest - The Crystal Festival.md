@@ -1,3 +1,26 @@
+# Quest   The Crystal Festival
+
+> *Time is running out...*
+
+
+## Contents
+- [Overview](#overview)
+- [Description](#description)
+  - [Primary](#primary)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Alternative Solutions](#alternative-solutions)
+
+
+
+## Overview
+
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Comprehensive overview of this content.
+
 ---
 
 title: Quest - The Crystal Festival
@@ -20,7 +43,10 @@ publish: false
 
  ## Complications
 
+
 ## Description
+
+**Tension**: The urgency of this quest creates palpable tension in the air.
 
 Detailed description pending.
 - Unexpected obstacles
@@ -67,6 +93,7 @@ obsidian UIMode: preview
 - **Location**: Town center
 - **Motivation**: Community safety ## Objectives
 
+
 ### Primary
 
 - Main quest goal ### Optional
@@ -85,7 +112,7 @@ The Crystal Festival commemorates:
 
 1. **Royal Invitation**: Queen personally requests party's protection
 2. **Consortium Contract**: Hired to ensure "profitable outcome"
-3. **Prophetic Warning**: [[Prophet Nerida Voidgazer|02 Worldbuilding/People/Prophet Nerida Voidgazer]] warns of catastrophe
+3. Nevertheless, **Prophetic Warning**: [[Prophet Nerida Voidgazer|02 Worldbuilding/People/Prophet Nerida Voidgazer]] warns of catastrophe
 4. **Shadow Investigation**: Following shadow corruption to source
 5. **Divine Mission**: [[The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] secretly guides party ### The Invitation
 
@@ -234,6 +261,8 @@ Each Shard grants:
 
 - *[Side locations]* ## Rewards
 
+**Experience Points**: 500 XP per character
+
 *[What PCs gain from completing this adventure]* ### Experience Points
 
 - *[XP awards]* ### Treasure
@@ -290,6 +319,7 @@ Each Shard grants:
 
 > Work together and communicate
 
+
 ## Notes
 
 *Additional notes*
@@ -315,9 +345,11 @@ Each Shard grants:
 #meta/navigation
 #meta/reference
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -325,6 +357,12 @@ Each Shard grants:
 - Antagonists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+## Stakes
+- **If Successful**: The positive outcomes that await
+- **If Failed**: The dire consequences of failure
+- **Time Pressure**: Why this cannot wait

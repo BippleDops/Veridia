@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Economic Justice Debates
 type: Lore
@@ -43,7 +45,10 @@ updated: '2025-08-13T01:18:34.528258+00:00'
 
 --- # Economic Justice Debates *"When resources dwindle and survival is at stake, every economic decision becomes a question of who deserves to live well - and who deserves to live at all."* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview Economic systems under stress reveal the moral foundations of society. In Aquabyssos, where shadow corruption threatens stability and resources become increasingly scarce, traditional economic relationships break down and communities must grapple with fundamental questions about fairness, merit, need, and survival. This guide explores the complex moral terrain where economic policy meets ethical philosophy. #### **The Great Rationing Debate**
 
-**Situation**: Food, medicine, and magical components become critically scarce. The Rationing Authority must decide distribution methods. **Proposed Systems**: **Equal Distribution**
+
+**Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview Economic systems under stress reveal the moral foundations of society. In Aquabyssos, where shadow corruption threatens stability and resources become increasingly scarce, traditional economic relationships break down and communities must grapple with fundamental questions about fairness, merit, need, and survival. This guide explores the complex moral terrain where economic policy meets ethical philosophy. #### **The Great Rationing Debate** - Key information at a glance.
+
+**Situation**: Food, medicine, and magical components become critically scarce. The Rationing Authority must decide distribution methods. Subsequently, **Proposed Systems**: **Equal Distribution**
 - **Principle**: Every person receives identical rations
 - **Advocates**: Lower classes, egalitarian philosophers
 - **Problems**: Ignores different needs (pregt women, laborers, children)
@@ -67,6 +72,9 @@ When plague closes trade routes, Harbor District faces starvation:
 - **Elderly**: Assert lifetime contributions earn care in crisis
 - **Scholars**: Contend research may solve the crisis
 - **Wounded Veterans**: Demand support for past military service **Moral Complexity**: Every system advantages some groups while disadvantaging others. No purely neutral allocation method exists. #### **The Seizure Authorization Crisis**
+
+
+**Summary**: **The Seizure Authorization Crisis** - Key information at a glance.
 
 **Situation**: Government claims emergency powers to requisition private property for public use. Wealthy families resist while poor communities demand redistribution. **The Goldcurrent Estate Conflict**
 **Property**: Massive estate with food stores, medical supplies, defensible position

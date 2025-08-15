@@ -57,6 +57,9 @@ The Gilded Shard is [[Aethermoor]]'s premier institution for crystal magic resea
 - **The Vault of Prototypes**: Experimental magical items and failed projects
 - **The Director's Sanctum**: [[Professor Aldric Crystalweaver]]'s private research space ### The Learning Spires (7 floating towers)
 
+
+**Summary**: The Learning Spires (7 floating towers) - Key information at a glance.
+
 **East Spire - Theoretical Studies:**
 - **Library of Crystalline Lore**: Ancient texts preserved in crystal matrices
 - **Mathematical Chambers**: Rooms where equations float in mid-air
@@ -101,6 +104,9 @@ The Gilded Shard is [[Aethermoor]]'s premier institution for crystal magic resea
 **Dawn (6:00 AM)**: Morning meditation and crystal attunement **Morning (7:00-11:00 AM)**: Core magical theory classes **Midday (12:00 PM)**: Communal lunch and social interaction **Afternoon (1:00-5:00 PM)**: Practical workshops and laboratory time **Evening (6:00-8:00 PM)**: Study groups and tutoring **Night (9:00 PM)**: Personal research time and recreation ### Academy Traditions
 
 **The Crystal Calling**: Annual ceremony where first-year students bond with their focus crystals **Convergence Week**: Mid-semester event where all spires work on collaborative projects **The Great Exhibition**: End-of-year showcase of student achievements and research **Night of Floating Lanterns**: Celebration honoring the academy's founding **The Silent Hour**: Daily period where all magic ceases for meditation and reflection ### Academic Services
+
+
+**Summary**: Academic Services - Key information at a glance.
 
 **Education and Training**: Comprehensive magical education from basic to advanced levels
 - **Undergraduate Programs**: Four-year degrees in theoretical and practical crystal magic

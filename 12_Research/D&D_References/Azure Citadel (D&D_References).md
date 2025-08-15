@@ -58,6 +58,9 @@ The Azure Citadel stands as [[Aquabyssos]]'s primary military headquarters and g
 
 **The Approach**: Narrow canyon that funnels attackers into overlapping fields of fire **Gate System**: Triple barriers of crystal, coral, and living water **Perimeter Defenses**: Automated turrets powered by [[Aether Crystal]] fragments **Early Warning Network**: Sensory arrays detecting movement for miles in all directions ### The Central Citadel (5 Levels) **Level 1 - Surface Interface:**
 
+
+**Summary**: The Central Citadel (5 Levels) **Level 1 - Surface Interface:** - Key information at a glance.
+
 - **Reception Hall**: Where surface diplomats and traders are received
 - **Cultural Exchange Center**: Displays showing [[Aquabyssos]] history and achievements
 - **Diplomatic Quarters**: Secure accommodations for important guests
@@ -90,6 +93,9 @@ The Azure Citadel stands as [[Aquabyssos]]'s primary military headquarters and g
 **The Azure Guard**: Elite 500-person unit protecting the citadel itself **Deep Strike Force**: Specialized units for extreme depth operations **Intelligence Corps**: Spies and information analysts **Engineering Division**: Maintece and construction specialists **Medical Corps**: Combat medics and emergency response teams ### Specialized Equipment
 
 **Pressure Suits**: Advanced gear allowing operation at any depth **Crystal Weapons**: Magically enhanced armaments for combat effectiveness **Leviathan Vehicles**: Submarine craft for transportation and combat **Communication Crystals**: Instant contact across vast underwater distances **Defensive Constructs**: Automated guardians powered by [[Aether Crystals]] ### Military Services
+
+
+**Summary**: Military Services - Key information at a glance.
 
 **Equipment and Armory**: Access to the most advanced underwater military equipment in [[Aquabyssos]]
 - **Depth Suits**: Pressure-resistant armor allowing operation at any depth

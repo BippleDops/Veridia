@@ -1,3 +1,15 @@
+# Session Planning Toolkit 1 (06 Sessions)
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+> *An opportunity for greatness awaits...*
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- title: Session Planning Toolkit_1 (06_Sessions)
 type: session
 tags:
@@ -84,14 +96,14 @@ updated: '2025-08-13T01:18:31.118209+00:00'
 - Present initial goals
 - Create atmosphere **Initial Mingling**:
 - Players choose approaches
-- Make first impressions
+- create first impressions
 - Gather surface information
 - Identify power players
 - Notice oddities #### Maneuvering Phase (90 minutes) **Social Challenges**:
 - Win over neutrals
 - Undermine opponents
 - Gather blackmail
-- Make alliances
+- create alliances
 - Spread rumors **Faction Representatives**: | Faction | Want | Offer | Secret |
 | aliases: ["Session Planning Toolkit 1 (06 Sessions)"]
 priority: normal
@@ -215,7 +227,7 @@ publish: false --- ------|------|-------|--------|
 | 19 | Ancient artifact surfaces |
 | 20 | Deep Mother vision | ### NPC Motivations (d12) | Roll | Public Goal | Secret Goal | |------|-------------|-------------|
 | 1 | Serve faction | Betray faction |
-| 2 | Make money | Find lost family |
+| 2 | create money | Find lost family |
 | 3 | Gain power | Escape past |
 | 4 | Help others | Hide infection |
 | 5 | Find truth | Bury truth |
@@ -260,7 +272,7 @@ publish: false --- ------|------|-------|--------|
 "The message simply says..."
 "That's when you notice..." ### When Players Go Off-Track 1. **Roll with it**: Improvise using framework
 2. **Redirect gently**: "You can try, but first..."
-3. **Add complications**: Make choice meaningful
+3. **Add complications**: create choice meaningful
 4. **Call break**: "Let's take 5 while I prep"
 5. **Be honest**: "I didn't prep that, but..." ### When Players Split Party **Option 1**: Rapid cuts between groups
 **Option 2**: Resolve one fully, then other
@@ -276,19 +288,19 @@ publish: false --- ------|------|-------|--------|
 - Power vs. Principles
 - Faction vs. Friends
 - Truth vs. Peace
-- Transform vs. Remain #### The Sacrifice Make it meaningful:
+- Transform vs. Remain #### The Sacrifice create it meaningful:
 - Clear stakes
 - No take-backs
 - Immediate impact
 - Lasting consequences
 - Recognition/memory ### Check-In Tools **Start of Session**: "Any topics to avoid today?"
-**During Intensity**: "Everyone good to continue?"
+**During Intensity**: "Everyone excellent to continue?"
 **After Heavy Scene**: "Need a break?"
 **End of Session**: "How was intensity level?" ### Debrief Questions 1. What moment stood out most?
 2. What challenged you?
-3. What do you want more of?
-4. What do you want less of?
-5. What questions do you have? - -- * Remember: The best sessions are collaborative stories. Your preparation creates the framework, but the players bring it to life. Stay flexible, stay engaged, and let the depths surprise even you.* ## 🔧 Deep Evaluation Improvements * 20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Session Planning Toolkit is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Session Planning Toolkit as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Session Planning Toolkit. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related * Links to related content will be added here.* ## Prophecy Connection Mentioned in The Hidden Prophecy of Winds ## Plot Hooks - A prisoner has gone missing and war looms - Strange dreams suggest ancient magic ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## Pronunciation Guide - **Both**: [BOTH]
+3. What accomplish you want more of?
+4. What accomplish you want less of?
+5. What questions accomplish you have? - -- * Remember: The best sessions are collaborative stories. Your preparation creates the framework, but the players bring it to life. Stay flexible, stay engaged, and let the depths surprise even you.* ## 🔧 Deep Evaluation Improvements * 20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Session Planning Toolkit is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Session Planning Toolkit as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Session Planning Toolkit. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related * Links to related content will be added here.* ## Prophecy Connection Mentioned in The Hidden Prophecy of Winds ## Plot Hooks - A prisoner has gone missing and war looms - Strange dreams suggest ancient magic ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## Pronunciation Guide - **Both**: [BOTH]
 - **Everything**: [EVERYTHING]
 - **Glaucus's**: [GLAUCUS-S] ## Alternate Descriptions - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
@@ -313,3 +325,7 @@ publish: false --- ------|------|-------|--------|
 #resource/loot
 #meta/navigation
 #meta/reference
+
+**Balance Note**: Adjust creature numbers based on party size and level.
+
+*Every story needs its heroes.*

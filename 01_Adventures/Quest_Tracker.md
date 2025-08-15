@@ -1,3 +1,26 @@
+# Quest Tracker
+
+> *What starts as simple becomes legendary...* This remarkable element adds depth and intrigue to any campaign.
+
+
+## Contents
+- [Overview](#overview)
+- [Description](#description)
+  - [Primary](#primary)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Alternative Solutions](#alternative-solutions)
+
+
+
+## Overview
+
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Comprehensive overview of this content.
+
 ---
 
 title: Quest_Tracker
@@ -20,7 +43,10 @@ publish: false
 
  ## Complications
 
+
 ## Description
+
+**Tension**: The urgency of this quest creates palpable tension in the air.
 
 Detailed description pending.
 - Unexpected obstacles
@@ -58,6 +84,7 @@ SORT level ASC ## Quest Giver
 - **Location**: Town center
 - **Motivation**: Community safety ## Objectives
 
+
 ### Primary
 
 - Main quest goal ### Optional
@@ -92,7 +119,7 @@ GROUP BY status ---
 
 - *[What happens if PCs don't act]* ## Adventure Hooks
 
-*[Ways to get PCs involved]* ### Direct Approach
+*[Ways to acquire PCs involved]* ### Direct Approach
 
 - *[Straightforward hook]* ### Indirect Approach
 
@@ -115,6 +142,8 @@ GROUP BY status ---
 - *[Major locations to visit]* ### Optional Areas
 
 - *[Side locations]* ## Rewards
+
+**Experience Points**: 500 XP per character
 
 *[What PCs gain from completing this adventure]* ### Experience Points
 
@@ -183,6 +212,7 @@ GROUP BY status ---
 
 > Work together and communicate
 
+
 ## Notes
 
 *Additional notes*
@@ -201,9 +231,11 @@ GROUP BY status ---
 #resource/treasure
 #meta/index
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -211,6 +243,19 @@ GROUP BY status ---
 - Antagonists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+## Stakes
+- **If Successful**: The positive outcomes that await
+- **If Failed**: The dire consequences of failure
+- **Time Pressure**: Why this cannot wait
+
+
+**Key Question**: Will the heroes rise to the challenge?
+
+**Balance Note**: Adjust creature numbers based on party size and level.
+
+*Every story needs its heroes.*

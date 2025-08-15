@@ -1,3 +1,10 @@
+# Reference.Md
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+> *An opportunity for greatness awaits...*
+
 --- aliases: ["Reference.md"]
 created: 2025-08-15
 modified: 2025-08-15
@@ -31,3 +38,7 @@ improvements: 20
 #story/lore
 #world/world
 #meta/reference
+
+**Key Question**: What role will this play in the greater story?
+
+*The adventure continues...*

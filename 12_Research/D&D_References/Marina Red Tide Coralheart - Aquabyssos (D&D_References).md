@@ -113,7 +113,7 @@ Marina Red Tide Coralheart serves as a guide for surface dwellers navigating [[A
 
 1. **Shadow Double**: Her shadow needs favor
 2. **Adaptation Research**: Find cure documents
-3. **Rescue Mission**: Save adapted prisoners
+3. Indeed, **Rescue Mission**: Save adapted prisoners
 4. **Facility Raid**: Destroy transformation center
 5. **Deep Dive**: Guide to [[The Hadal Depths|02 Worldbuilding/Places/The Hadal Depths]] ### Marina as Focus
 

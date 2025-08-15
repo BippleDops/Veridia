@@ -1,3 +1,15 @@
+# Npc Portraits Gallery (03 People)
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+> *A figure whose reputation precedes them...*
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- title: NPC_Portraits_Gallery (03_People)
 type: npc
 tags:
@@ -10,7 +22,9 @@ category: 03 People
 subcategory: Npc Portraits Gallery (03 People).Md
 related: []
 cssclass: standard
-publish: false --- # NPC Portraits Gallery ## Portrait![[NPC_Portraits_Gallery (03_People)|Npc Portraits Gallery (03 People)]] *Portrait reference for NPC_Portraits_Gallery (03_People)* ## Description *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key character traits]*
+publish: false --- # NPC Portraits Gallery ## Portrait![[NPC_Portraits_Gallery (03_People)|Npc Portraits Gallery (03 People)]] *Portrait reference for NPC_Portraits_Gallery (03_People)* ## Description
+
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key character traits]*
 - **Ideals**: *[Core beliefs and values]*
 - **Bonds**: *[Important relationships and connections]*
 - **Flaws**: *[Character weaknesses or quirks]* ## Voice & Mannerisms - **Speaking Style**: *[How they talk and express themselves]*
@@ -54,3 +68,11 @@ publish: false --- # NPC Portraits Gallery ## Portrait![[NPC_Portraits_Gallery (
 - Special moves ## Secrets {#secrets}
 - Hidden knowledge
 - Personal mysteries
+
+
+**Key Question**: What drives this character's actions?
+
+*Adventure awaits those brave enough to seek it.*
+
+## Thematic Elements
+This content explores themes of hope against darkness, adding narrative depth to your campaign.

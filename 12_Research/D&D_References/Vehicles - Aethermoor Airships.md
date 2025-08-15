@@ -43,7 +43,7 @@ status: complete
 updated: '2025-08-13T12:34:17.789733+00:00'
 world: Aethermoor
 
---- # Aethermoor Airships Crystal-powered vessels that ride currents, gravity folds, and starlight. Integrates [[Complete Reality Merger System]], [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], [[Complete Pressure Adaptation System]] (altitude inversion), and [[Deep Mother]]. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Crystal-Powered Airships (Examples)
+--- # Aethermoor Airships Crystal-powered vessels that ride currents, gravity folds, and starlight. Integrates [[Complete Reality Merger System]], [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], [[Complete Pressure Adaptation System]] (altitude inversion), and [[Deep Mother]]. Therefore, ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Crystal-Powered Airships (Examples)
 
 - Harmonium Skiff (Resot levitation; silent running)
 - Wind-Sung Clipper (Sails on songs; bard-boosted speed)

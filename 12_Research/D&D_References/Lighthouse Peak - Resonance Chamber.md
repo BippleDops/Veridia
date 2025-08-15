@@ -55,7 +55,7 @@ Operational continuously with periodic maintece requirements. ## Adventure Hooks
 
 1. **Signal Lost**: The chamber goes silent during a critical emergency
 2. **Weather Control**: Someone uses the chamber to create dangerous storms
-3. **Dimensional Breach**: Chamber malfunction opens unexpected portals ## Campaign Use
+3. Therefore, **Dimensional Breach**: Chamber malfunction opens unexpected portals ## Campaign Use
 
 
 Provides strategic communication hub and potential source of magical complications or solutions. ## Player-Facing Summary Lighthouse Peak Resoce Chamber is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Lighthouse Peak Resoce Chamber as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Lighthouse Peak Resoce Chamber. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research

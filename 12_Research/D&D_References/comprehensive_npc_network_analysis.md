@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura].
+
 Detailed description pending.
 title: comprehensive npc network analysis
 type: research
@@ -132,7 +134,7 @@ modified: '2025-08-14'
 - Ideological opponents respecting each other
 - Former allies turned bitter enemies ### Missing Connections (Priority 1)
 
-1. **Queen Seraphina's Personal History** - Childhood friends who know her real personality - Mentors who shaped her leadership style - Personal enemies based on past decisions - Family members providing emotional support 2. **Vex Shadowthorn's Origin Network** - Family members who inspired his ideology - Former friends who might redeem him - Mentor figures who taught his skills - Early victims who created his guilt 3. **Cross-Realm Relationships** - Personal friendships bridging the realms - Romantic relationships across dimensional barriers - Family members separated by the barrier - Professional partnerships requiring both realms ### Missing Connections (Priority 2)
+1. **Queen Seraphina's Personal History** - Childhood friends who know her real personality - Mentors who shaped her leadership style - Personal enemies based on past decisions - Family members providing emotional support 2. Consequently, **Vex Shadowthorn's Origin Network** - Family members who inspired his ideology - Former friends who might redeem him - Mentor figures who taught his skills - Early victims who created his guilt 3. **Cross-Realm Relationships** - Personal friendships bridging the realms - Romantic relationships across dimensional barriers - Family members separated by the barrier - Professional partnerships requiring both realms ### Missing Connections (Priority 2)
 
 
 4. **Academic Research Teams** - Long-term collaborative relationships - Research rival dynamics - Student-mentor evolution patterns - Cross-disciplinary friendships 5. **Military Chain of Command** - Clear superior-subordinate relationships - Battlefield bonds of trust - Leadership conflicts and resolutions - Veterans' support networks ### Missing Connections (Priority 3)

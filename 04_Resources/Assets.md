@@ -47,6 +47,9 @@ Detailed description pending.
 
 > Work together and communicate ## References - [[Parliamentary Ethics Committee (Government_and_Parliament)]]
 
+
+**Summary**: References - [[Parliamentary Ethics Committee (Government_and_Parliament)]] - Key information at a glance.
+
 - [[Assets Item Artifact Explorers Pack Xphb Explorers Pack Xphb.png]]
 - [[Queen Seraphina Lumengarde (People)]]
 - [[Aether Crystal]]

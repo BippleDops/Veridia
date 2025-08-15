@@ -1,3 +1,12 @@
+# Narrative Deepening Master Prompt
+
+> *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- aliases: ["NARRATIVE DEEPENING MASTER PROMPT"]
 created: 2025-08-15
 modified: 2025-08-15
@@ -17,7 +26,9 @@ tags:
 - deepening
 - opus-4.1 created: '2025-01-15'
 modified: '2025-01-15'
-- -- ## 🎯 OBJECTIVE ## Description {#description} Detailed description pending. Transform the vault from a comprehensive reference into a living, breathing narrative ecosystem that seamlessly integrates with official D&D 5e content while creating deep, emergent storytelling opportunities through sophisticated interconnections. ### Primary Tools for Enhancement 1. **Task** - Launch specialized agents for complex narrative weaving
+- -- ## 🎯 OBJECTIVE ## Description
+
+**Details**: Rich sensory elements bring this to life. {#description} Detailed description pending. Transform the vault from a comprehensive reference into a living, breathing narrative ecosystem that seamlessly integrates with official D&D 5e content while creating deep, emergent storytelling opportunities through sophisticated interconnections. ### Primary Tools for Enhancement 1. Nevertheless, **Task** - Launch specialized agents for complex narrative weaving
 2. **Multi Edit** - Batch narrative updates across related notes
 3. **Grep** - Find narrative patterns and connection opportunities
 4. **Web Search** - Research D&D official content and lore
@@ -118,3 +129,7 @@ python3 scripts/validate_narrative_integrity.py ### Quality Assurance # Script: 
 #gameplay/quest
 #resource/treasure
 #meta/reference
+
+**Key Question**: What role will this play in the greater story?
+
+*The adventure continues...*

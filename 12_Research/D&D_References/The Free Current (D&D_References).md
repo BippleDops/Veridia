@@ -152,7 +152,7 @@ danger_level: Moderate
 
 **Challenge**: Someone is artificially manipulating prices in key markets **Investigation**: Tracking complex ficial transactions and business relationships **Skills**: Investigation, Insight, Persuasion (to get cooperation from traders) **Opposition**: Sophisticated criminals with legitimate business fronts **Stakes**: Economic stability of the Free Current and individual traders' livelihoods #### Trade Route Disruption
 
-**Problem**: Important trade routes are being disrupted by unknown forces **Adventure**: Investigating and resolving threats to commercial transportation **Skills**: Survival (navigation), Investigation (finding clues), potentially combat **Challenges**: Environmental hazards, criminal organizations, political complications **Reward**: Restoration of trade routes and payment from grateful merchants #### Innovation Theft
+**Problem**: Important trade routes disrupted by unknown forces **Adventure**: Investigating and resolving threats to commercial transportation **Skills**: Survival (navigation), Investigation (finding clues), potentially combat **Challenges**: Environmental hazards, criminal organizations, political complications **Reward**: Restoration of trade routes and payment from grateful merchants #### Innovation Theft
 
 **Crime**: Someone is stealing and copying innovative products and services **Mystery**: Uncovering industrial espionage and intellectual property theft **Investigation**: Following clues through competitive business environment **Skills**: Investigation, Stealth, Social skills to gather information **Resolution**: Protecting innovation while respecting free market principles #### Liberty vs. Security Debate
 
@@ -193,6 +193,9 @@ danger_level: Moderate
 **Security**: Sometimes cooperation on security and defense issues **Trade**: Commercial relationships despite different political systems **Recruitment**: Some Free Current residents serve in military forces **Tension**: Different approaches to individual rights and military discipline **Respect**: Military respect for Free Current's effective community defense ### [[Memory Farmers]]
 
 **Services**: Using memory services for business and legal purposes **Innovation**: Developing new applications for memory technology **Ethics**: Ongoing debates about memory privacy and commercial use **Cooperation**: Joint development of memory-based business tools **Philosophy**: Different perspectives on individual privacy and community knowledge ## Secrets and Hidden Aspects > [!secret] DM Secret - The Silent Partners
+
+
+**Summary**: Secrets and Hidden Aspects > [!secret] DM Secret - The Silent Partners - Key information at a glance.
 
 > Several major Free Current businesses are secretly funded by wealthy interests from other regions who want to see the libertarian experiment succeed. These "Silent Partners" provide capital and market access in exchange for information about Free Current innovations and proof that free markets can work. The arrangement benefits both sides but would be controversial if revealed, as some community members would see it as outside interference in their independence. > [!secret] DM Secret - The Underground Railroad
 

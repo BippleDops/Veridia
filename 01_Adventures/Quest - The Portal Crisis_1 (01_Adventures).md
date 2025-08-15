@@ -1,3 +1,28 @@
+# Quest   The Portal Crisis 1 (01 Adventures)
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+> *What starts as simple becomes legendary...*
+
+
+## Contents
+- [Overview](#overview)
+  - [Primary](#primary)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Alternative Solutions](#alternative-solutions)
+
+
+
+## Overview
+
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Comprehensive overview of this content.
+
 ---
 
 title: Quest The Portal Crisis
@@ -42,6 +67,7 @@ publish: false
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety > [!figure] View ## Objectives
+
 
 ### Primary
 
@@ -108,6 +134,8 @@ publish: false
 
 - *[Side locations]* ## Rewards
 
+**Experience Points**: 500 XP per character
+
 *[What PCs gain from completing this adventure]* ### Experience Points
 
 - *[XP awards]* ### Treasure
@@ -159,6 +187,7 @@ publish: false
 
 > Adjust difficulty based on party composition
 
+
 ## Notes
 
 *Additional notes*
@@ -179,9 +208,11 @@ publish: false
 #resource/treasure
 #meta/hub
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -189,6 +220,22 @@ publish: false
 - Antagonists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+## Stakes
+- **If Successful**: The positive outcomes that await
+- **If Failed**: The dire consequences of failure
+- **Time Pressure**: Why this cannot wait
+
+
+**Key Question**: Will the heroes rise to the challenge?
+
+**Balance Note**: Adjust creature numbers based on party size and level.
+## Session Prep
+- **Read Aloud Text**: Prepared descriptions for key moments
+- **Key NPCs**: Important characters for this content
+- **Props Needed**: Physical or digital aids to enhance play
+- **Estimated Time**: How long this typically takes to run

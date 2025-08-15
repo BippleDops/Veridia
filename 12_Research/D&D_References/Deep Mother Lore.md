@@ -50,7 +50,7 @@ Deep Mother Lore encompasses the collected knowledge, myths, prophecies, and rel
 Accumulated knowledge base requiring ongoing research and validation. ## Adventure Hooks
 
 1. **Ancient Texts**: Discovery of lost Deep Mother scriptures
-2. **Prophetic Vision**: Character receives cryptic oceanic visions
+2. Moreover, **Prophetic Vision**: Character receives cryptic oceanic visions
 3. **Scholarly Debate**: Competing interpretations of Deep Mother's nature ## Campaign Use
 
 

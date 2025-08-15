@@ -1,3 +1,27 @@
+# Quest Index
+
+> *Time is running out...*
+
+
+## Contents
+- [Overview](#overview)
+- [Description](#description)
+  - [Primary](#primary)
+- [Background](#background)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Alternative Solutions](#alternative-solutions)
+
+
+
+## Overview
+
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Comprehensive overview of this content.
+
 ---
 
 title: Quest Index
@@ -20,7 +44,10 @@ publish: false
 
  ## Complications
 
+
 ## Description
+
+**Tension**: The urgency of this quest creates palpable tension in the air.
 
 Detailed description pending.
 - Unexpected obstacles
@@ -51,6 +78,7 @@ accessibility: screen_reader_summary: This lore entry explains a pivotal princip
 - **Location**: Town center
 - **Motivation**: Community safety ## Objectives
 
+
 ### Primary
 
 - Main quest goal ### Optional
@@ -58,11 +86,12 @@ accessibility: screen_reader_summary: This lore entry explains a pivotal princip
 - Secondary objectives
 - Hidden goals ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Summary
 
-Quest Index describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual. ## Player-Facing Summary Quest Index is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Quest Index as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest Index. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Second Prophecy of Shadows ## Plot Hooks - Someone is hunting a artifact for money
+Quest Index describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual. ## Player-Facing Summary Quest Index is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Quest Index as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest Index. Consequently, ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Second Prophecy of Shadows ## Plot Hooks - Someone is hunting a artifact for money
 
 - A corpse reveals the truth about a local noble
 - Strange sightings suggest a curse
 - Strange sightings suggest a conspiracy
+
 
 ## Background
 
@@ -95,6 +124,8 @@ Quest Index describes a turning current in history where choices about memory, d
 - *[Major locations to visit]* ### Optional Areas
 
 - *[Side locations]* ## Rewards
+
+**Experience Points**: 500 XP per character
 
 *[What PCs gain from completing this adventure]* ### Experience Points
 
@@ -156,6 +187,7 @@ Quest Index describes a turning current in history where choices about memory, d
 - [[Location Index (D&D_References)]]
 
 
+
 ## Notes
 
 *Additional notes*
@@ -178,9 +210,11 @@ Quest Index describes a turning current in history where choices about memory, d
 #meta/index
 #meta/reference
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -188,6 +222,22 @@ Quest Index describes a turning current in history where choices about memory, d
 - Antagonists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+## Secrets & Mysteries
+- **Hidden Truth**: Not everything is as it appears
+- **Unanswered Questions**: What remains unknown
+- **Future Revelations**: Discoveries yet to be made
+
+## Stakes
+- **If Successful**: The positive outcomes that await
+- **If Failed**: The dire consequences of failure
+- **Time Pressure**: Why this cannot wait
+
+
+**Key Question**: Will the heroes rise to the challenge?
+
+**Balance Note**: Adjust creature numbers based on party size and level.

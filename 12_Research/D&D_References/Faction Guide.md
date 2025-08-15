@@ -68,7 +68,7 @@ The legitimate government of Aquabyssos, ruling from the Maelstrom Palace in Aby
 2. **Civil Servant**: Government employment
 3. **Department Head**: Regional authority
 4. **Parliament Member**: Legislative power
-5. **Inner Council**: Shape policy ### Surface Seekers Alliance
+5. Furthermore, **Inner Council**: Shape policy ### Surface Seekers Alliance
 
 
 *"We were not meant to be divided"* #### Overview

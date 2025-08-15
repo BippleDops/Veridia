@@ -1,3 +1,7 @@
+# Tag Navigation
+
+> *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
+
 ---
 
 title: Tag_Navigation
@@ -23,7 +27,10 @@ publish: false
 
  # Tag_Navigation ---
 
-## Description {#description}
+
+## Description
+
+**Details**: Rich sensory elements bring this to life. {#description}
 
 Detailed description pending.
 title: Tag Navigation
@@ -86,6 +93,7 @@ WHERE file.mtime >= date(today) - dur(3 days) AND tags != SORT file.mtime DESC #
 | 5 | Option E |
 | 6 | Option F | ## Overview *To be added* ## Goals *To be added* ## Structure *To be added* ## Members *To be added* ## Resources *To be added* ## Relationships *To be added*
 
+
 ## Notes {#notes}
 
 *Additional notes*
@@ -98,3 +106,7 @@ WHERE file.mtime >= date(today) - dur(3 days) AND tags != SORT file.mtime DESC #
 #gameplay/quest
 #meta/index
 #meta/navigation
+
+**Key Question**: What role will this play in the greater story?
+
+*Every story needs its heroes.*

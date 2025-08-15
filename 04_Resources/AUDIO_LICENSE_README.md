@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: AUDIO LICENSE README
 type: media
@@ -85,7 +87,7 @@ Fantasy TTRPG environmental audio for game sessions: ## 📁 File Organization``
 1. **Pre-Session Setup**: Queue ambient tracks for locations
 2. **Dynamic Switching**: Use quick-access playlists
 3. **Combat Cues**: Trigger battle music on initiative
-4. **Environmental**: Match audio to current location ## 📋 Attribution Template When using CC BY licensed content: Audio: "[Track Name]" by [Creator]
+4. Nevertheless, **Environmental**: Match audio to current location ## 📋 Attribution Template When using CC BY licensed content: Audio: "[Track Name]" by [Creator]
 
 
 Licensed under CC BY 4.0

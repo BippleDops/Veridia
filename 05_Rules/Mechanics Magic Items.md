@@ -26,7 +26,9 @@ publish: false
 
 **Type**: Rule Variant / Subsystem / Optional Rule
 **Complexity**: Moderate
-**Purpose**: Enhance gameplay in specific situations ## Description 03_Mechanics/Magic_Items provides a structured approach to handling specific game situations that benefit from additional mechanical depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ### Basic Resolution
+**Purpose**: Enhance gameplay in specific situations ## Description
+
+**Tactile Qualities**: The surface feels [texture] to the touch, with [weight/temperature] properties. 03_Mechanics/Magic_Items provides a structured approach to handling specific game situations that benefit from additional mechanical depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ### Basic Resolution
 
 The fundamental process works as follows: 1. **Trigger**: Specific situation arises requiring this mechanic
 2. **Setup**: Establish parameters and stakes

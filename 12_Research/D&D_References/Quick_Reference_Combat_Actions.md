@@ -40,6 +40,9 @@ world: Both
 
 --- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player Action Economy Chart```┏━━━━━━━━━━━ STANDARD ACTIONS ━━━━━━━━━━━┓
 
+
+**Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player Action Economy Chart```┏━━━━━━━━━━━ STANDARD ACTIONS ━━━━━━━━━━━┓ - Key information at a glance.
+
 ┃ ┃
 ┃ ⚔️ ATTACK ┃
 ┃ • Weapon attack (melee/ranged) ┃

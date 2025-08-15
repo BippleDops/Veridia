@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: The Crimson Hand
 type: Lore
@@ -57,12 +59,15 @@ updated: '2025-08-11T00:00:00+00:00'
 
 **Pre-Convergence Formation (approximately 50 years ago):**
 
-The Crimson Hand was founded by a cabal of individuals who experienced prophetic visions of the coming convergence between worlds. These founders, drawn from both [[Aethermoor]] and [[Aquabyssos]], recognized that the approaching reality merger would create unprecedented opportunities for those prepared to seize them. Rather than fight against convergence or try to prevent it, they chose to position themselves as its architects and beneficiaries. **Founding Principles:**
+The Crimson founded Hand a cabal of individuals who experienced prophetic visions of the coming convergence between worlds. These founders, drawn from both [[Aethermoor]] and [[Aquabyssos]], recognized that the approaching reality merger would create unprecedented opportunities for those prepared to seize them. Rather than fight against convergence or try to prevent it, they chose to position themselves as its architects and beneficiaries. **Founding Principles:**
 - Convergence is inevitable and should be embraced rather than resisted
 - Traditional power structures will collapse during reality merger
 - Shadow corruption is not a plague but a tool for dimensional manipulation
 - Memory alteration and reality distortion are legitimate means to necessary ends
 - Unity between worlds requires strong leadership unbound by old loyalties ### Early Development
+
+
+**Summary**: Early Development - Key information at a glance.
 
 **The Shadow Awakening (Years 1-10):**
 - Discovery that shadow corruption could be controlled and weaponized
@@ -84,6 +89,9 @@ The Crimson Hand was founded by a cabal of individuals who experienced prophetic
 **The Final Phase (Present):**
 
 With convergence approaching rapidly, the Crimson Hand has moved from covert preparation to active manipulation of events. They now openly work to shape the convergence process, eliminate threats to their plans, and ensure their vision of post-merger reality becomes domit. ### The Inner Circle
+
+
+**Summary**: The Inner Circle - Key information at a glance.
 
 **The Crimson Triumvirate:**
 
@@ -132,7 +140,7 @@ Three supreme leaders, each representing different aspects of the organization: 
 - **Violence Cells**: Elimination, sabotage, and direct action operations
 - **Research Cells**: Studying convergence phenomena and developing new techniques ### Core Beliefs **Convergence Inevitability:**
 
-The Crimson Hand believes that the merger of Aethermoor and Aquabyssos is not only inevitable but necessary for the evolution of both civilizations. They view attempts to prevent convergence as futile resistance to natural cosmic development. **Shadow Integration:**
+The Crimson Hand believes that the merger of Aethermoor and Aquabyssos is not only inevitable but necessary for the evolution of both civilizations. They view attempts to prevent convergence as futile resistance to natural cosmic development. Nevertheless, **Shadow Integration:**
 
 Rather than seeing shadow corruption as a threat, they view it as the universe's method of preparing both worlds for merger. They believe learning to work with shadows rather than against them is essential for surviving convergence. **Reality Fluidity:**
 

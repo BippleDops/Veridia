@@ -69,7 +69,7 @@ world: Aethermoor
 
 2. Citizens in the outer rings can still be saved
 3. The Queen's consciousness is strongest near her sister's artifacts
-4. [[Vex Shadowthorn]] has been promised rulership of the new world
+4. [[Vex Shadowthorn]] promiseded rulership of the new world
 5. The entity needs willing participation from the bloodline
 6. Festival decorations hide ancient protective wards
 7. [[Captain Lyanna Brightshield]] has the Queen's true crown

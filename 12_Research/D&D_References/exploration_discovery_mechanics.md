@@ -34,6 +34,9 @@ modified: '2025-08-14'
 
 --- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Systematic Frameworks for Meaningful Environmental Interaction Research on creating exploration experiences that reward curiosity while maintaining narrative coherence. ### The Discovery Spectrum Model **Surface Discovery** (40% of exploration content):
 
+
+**Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Systematic Frameworks for Meaningful Environmental Interaction Research on creating exploration experiences that reward curiosity while maintaining narrative coherence. ### The Discovery Spectrum Model **Surface Discovery** (40% of exploration content): - Key information at a glance.
+
 - **Obvious Features**: Clearly visible elements that establish location atmosphere
 - **Interactive Elements**: Objects and features players can immediately engage with
 - **Environmental Storytelling**: Visual details that communicate history and purpose
@@ -50,6 +53,9 @@ modified: '2025-08-14'
 - **Reality Alterations**: Discoveries that physically change the game world
 - **Character Transformation**: Findings that offer permanent character development
 - **Campaign Pivots**: Discoveries that redirect entire campaign direction ### Dual-Realm Exploration Dynamics **Aquabyssos Exploration Challenges**:
+
+
+**Summary**: Dual-Realm Exploration Dynamics **Aquabyssos Exploration Challenges**: - Key information at a glance.
 
 - **Pressure Limitations**: Equipment and time constraints affecting exploration depth
 - **Visibility Restrictions**: Limited light sources creating discovery challenges
@@ -117,7 +123,7 @@ modified: '2025-08-14'
 - **Campaign Themes**: Discoveries reinforce or explore central campaign concepts
 - **Future Potential**: Findings create opportunities for future development ### Implementation Framework Exploration tracking system:```python
 
-class Exploration Location(Base Model): name: str discovery_layers: Dict[str, List[str]] # surface, investigation, deep, transformative environmental_challenges: List[str] discovery_rewards: Dict[str, List[str]] # information, material, development, access exploration_state: Dict[str, bool] # what has been discovered environmental_changes: List[str] # how location evolves over time class Discovery(Base Model): discovery_type: str # "surface", "investigation", "deep", "transformative" content: str requirements: List[str] # what's needed to make this discovery rewards: List[str] # what players gain from this discovery connections: List[str] # how this relates to other discoveries narrative_impact: str # how this affects ongoing stories```Player exploration tracking:
+class Exploration Location(Base Model): name: str discovery_layers: Dict[str, List[str]] # surface, investigation, deep, transformative environmental_challenges: List[str] discovery_rewards: Dict[str, List[str]] # information, material, development, access exploration_state: Dict[str, bool] # what discovereded environmental_changes: List[str] # how location evolves over time class Discovery(Base Model): discovery_type: str # "surface", "investigation", "deep", "transformative" content: str requirements: List[str] # what's needed to make this discovery rewards: List[str] # what players gain from this discovery connections: List[str] # how this relates to other discoveries narrative_impact: str # how this affects ongoing stories```Player exploration tracking:
 
 exploration_history: Dict[str, List[str]] # locations explored and discoveries made
 

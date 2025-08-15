@@ -54,6 +54,9 @@ world: Aethermoor
 
 *The Silverscale Consortium's Economic Empire Exposed* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Initial Action **What the players did:**
 
+
+**Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Initial Action **What the players did:** - Key information at a glance.
+
 - Witnessed and investigated the Silverscale flagship 'Golden Promise' explosion in Port Meridian harbor
 - Raided the Silverscale Banking House emergency vault during Crimson Hand operation
 - Recovered critical documents exposing cross-realm excavation operations
@@ -72,6 +75,9 @@ world: Aethermoor
 - Public riots outside Silverscale facilities demanding asset seizure
 - Cross-realm trade agreements with Aquabyssos suspended pending investigation
 - Crystal market destabilized as supply chains disrupted ## Primary Ripples (Days/Weeks) **Economic impacts:**
+
+
+**Summary**: Primary Ripples (Days/Weeks) **Economic impacts:** - Key information at a glance.
 
 - **Crystal prices volatile**: 200% price swings as market confidence collapsed
 - **Banking crisis**: 40% of noble houses faced immediate liquidity problems

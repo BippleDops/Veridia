@@ -1,3 +1,12 @@
+# Quick Npc Search
+
+> *Not all allies are what they seem...* This remarkable element adds depth and intrigue to any campaign.
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- title: Quick_NPC_Search
 type: npc
 tags:
@@ -26,7 +35,9 @@ modified: '2025-08-14' --- # Quick NPC Search > Search for NPCs by name, faction
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes ## Alternate Descriptions - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
-- **Hidden Details**: Secret aspects ## DM Tips > 💡 **Running This Content**: Advice for game masters > Adjust difficulty based on party composition ## Description *To be added* ## Appearance *To be added* ## Personality *To be added* ## Background *To be added* ## Relationships *To be added* ## Plot Hooks *To be added* ## Notes {#notes} *Additional notes* #story/plot
+- **Hidden Details**: Secret aspects ## DM Tips > 💡 **Running This Content**: Advice for game masters > Adjust difficulty based on party composition ## Description
+
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. *To be added* ## Appearance *To be added* ## Personality *To be added* ## Background *To be added* ## Relationships *To be added* ## Plot Hooks *To be added* ## Notes {#notes} *Additional notes* #story/plot
 #story/story
 #story/background
 #world/location
@@ -44,3 +55,8 @@ modified: '2025-08-14' --- # Quick NPC Search > Search for NPCs by name, faction
 - Special moves ## Secrets {#secrets}
 - Hidden knowledge
 - Personal mysteries
+
+
+**Key Question**: What drives this character's actions?
+
+*Adventure awaits those brave enough to seek it.*

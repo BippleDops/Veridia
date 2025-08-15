@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura].
+
 Detailed description pending.
 title: Character Relationship Web Core NPCs
 type: Relationship Guide
@@ -49,6 +51,9 @@ updated: '2025-08-13T04:22:14.944155+00:00'
 
 This document explores the deep character connections between our five major NPCs, showing how their enriched backstories create natural plot hooks, relationship tensions, and roleplay opportunities. Each character's personal history intersects with others in meaningful ways that drive story development. ### Queen Seraphina Lumengarde ↔ Lord Aurelius Goldwave
 
+
+**Summary**: Queen Seraphina Lumengarde ↔ Lord Aurelius Goldwave - Key information at a glance.
+
 **Connection Type**: Hidden Alliance of Desperate Nobles **Seraphina's Perspective**:
 - Secretly hopes Aurelius's wealth and resources can help her find a cure for crystal corruption
 - Recognizes his guilt-driven philanthropy as similar to her own desperate need for redemption
@@ -62,6 +67,9 @@ This document explores the deep character connections between our five major NPC
 - Both are manipulated by Vex Shadowthorn, who knows their secrets and plays them against each other
 - Seraphina's daughter Aria carries a Shard that Aurelius desperately needs for his temporal redemption plan
 - Their shared knowledge of the Seven Shards creates an uneasy partnership fraught with mistrust ### Queen Seraphina Lumengarde ↔ Vex Shadowthorn
+
+
+**Summary**: Queen Seraphina Lumengarde ↔ Vex Shadowthorn - Key information at a glance.
 
 **Connection Type**: Predator and Prey with Twisted Sympathy **Seraphina's Perspective**:
 - Terrified of Vex's blackmail about her corruption, but also sees echoes of her own childhood trauma in Vex's orphan background

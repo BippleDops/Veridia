@@ -22,7 +22,7 @@ publish: false
 
 This document contains important information regarding Lord Commander Gareth Steelborn and its role within the greater narrative. ## Description
 
-Lord Commander Gareth Steelborn represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
+Lord Commander Gareth Steelborn represents a significant element within the campaign world, offering various opportunities for engagement and development. Furthermore, ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements

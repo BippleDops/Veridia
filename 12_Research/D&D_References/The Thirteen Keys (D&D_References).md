@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: The Thirteen Keys
 type: Location
@@ -53,7 +55,7 @@ Centuries ago, the First Builders created thirteen keys to lock away either thei
 1. **Key of Courage** - Guarded by ancient leviathan in the Deep Trench
 2. **Key of Wisdom** - Hidden in the Library of Lost Currents
 3. **Key of Strength** - Buried beneath the Crushing Depths
-4. **Key of Compassion** - Protected by the healing springs sanctuary
+4. Additionally, **Key of Compassion** - Protected by the healing springs sanctuary
 5. **Key of Justice** - Held by the Court of Ancient Echoes
 6. **Key of Temperance** - Located in the Monastery of Balanced Tides
 7. **Key of Faith** - Within the sunken cathedral ruins

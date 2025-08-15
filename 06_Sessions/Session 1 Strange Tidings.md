@@ -1,3 +1,7 @@
+# Session 1 Strange Tidings
+
+> *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
+
 --- created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
@@ -7,7 +11,9 @@ tags:
 - session title: Session 1 Strange Tidings
 type: session
 updated: 2025-08-14
-- -- # Session 1 Strange Tidings ## Overview This document contains important information regarding Session 1 Strange Tidings and its role within the greater narrative. ## Description Session 1 Strange Tidings represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information - **Primary Purpose**: Serves specific function within the world
+- -- # Session 1 Strange Tidings ## Overview This document contains important information regarding Session 1 Strange Tidings and its role within the greater narrative. ## Description
+
+**Details**: Rich sensory elements bring this to life. Session 1 Strange Tidings represents a significant element within the campaign world, offering various opportunities for engagement and development. Subsequently, ## Key Information - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements
 - **Significance**: Important for understanding broader context ## Details ### Background Historical context and development over time. ### Current State Present circumstances and ongoing relevance. ### Future Potential Possible developments and plot directions. ## Relationships - Connected to various other elements within the vault
 - Part of larger narrative structures
@@ -37,3 +43,7 @@ publish: false --- -|--------|
 #world/world
 #gameplay/session
 #meta/reference
+
+**Key Question**: What role will this play in the greater story?
+
+*Every story needs its heroes.*

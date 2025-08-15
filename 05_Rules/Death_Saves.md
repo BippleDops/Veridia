@@ -30,10 +30,12 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 
 |-----------|-----------|----------|--------|
-| Example | ○○○ | ○○○ | Unconscious | ## Rule Summary Death_Saves provides a systematic approach to handling specific game situations. This mechanic integrates with core D&D 5e rules while adding depth to gameplay. ## When to Use Apply this rule when:
+| Example | ○○○ | ○○○ | Unconscious | ## Rule Summary Death_Saves provides a systematic approach to handling specific game situations. This mechanic integrates with core D&D 5e rules while adding depth to gameplay. Furthermore, ## When to Use Apply this rule when:
 
 - Specific trigger conditions are met
 - Players request this type of action

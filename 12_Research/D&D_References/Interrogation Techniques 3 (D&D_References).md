@@ -48,7 +48,7 @@ world: Aquabyssos
 
 --- # Interrogation Techniques *"Truth flows like water - apply the right pressure and it will find its way out."* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
-Interrogation Techniques in the dual-realm world have evolved to account for the unique challenges of questioning suspects who may come from radically different cultural backgrounds, possess magical abilities, or have been affected by inter-dimensional phenomena. These methods combine traditional investigative approaches with specialized techniques for magical subjects and cross-cultural communication. ### Duration
+Interrogation Techniques in the dual-realm world have evolved to account for the unique challenges of questioning suspects who may come from radically different cultural backgrounds, possess magical abilities, or affecteded by inter-dimensional phenomena. These methods combine traditional investigative approaches with specialized techniques for magical subjects and cross-cultural communication. ### Duration
 
 Interrogation sessions typically last 1-4 hours with breaks for subject welfare. ## Adventure Hooks
 

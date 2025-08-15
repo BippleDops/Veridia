@@ -1,3 +1,7 @@
+# Session 8   The Deep Mother'S Call
+
+> *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
+
 --- aliases: ["Session 8 - The Deep Mother's Call"]
 created: 2025-08-15
 modified: 2025-08-15
@@ -43,3 +47,18 @@ improvements: 20
 #world/world
 #world/place
 #gameplay/session
+## Secrets & Mysteries
+- **Hidden Truth**: Not everything is as it appears
+- **Unanswered Questions**: What remains unknown
+- **Future Revelations**: Discoveries yet to be made
+
+
+**Key Question**: What role will this play in the greater story?
+## Session Prep
+- **Read Aloud Text**: Prepared descriptions for key moments
+- **Key NPCs**: Important characters for this content
+- **Props Needed**: Physical or digital aids to enhance play
+- **Estimated Time**: How long this typically takes to run
+
+
+*The adventure continues...*

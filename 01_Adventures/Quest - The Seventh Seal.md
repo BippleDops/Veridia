@@ -1,3 +1,17 @@
+# Quest   The Seventh Seal
+
+> *Time is running out...*
+
+
+## Contents
+- [Description](#description)
+  - [Primary](#primary)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Alternative Solutions](#alternative-solutions)
+
+
 ---
 
 title: Quest - The Seventh Seal
@@ -20,7 +34,10 @@ publish: false
 
  ## Complications
 
+
 ## Description
+
+**Tension**: The urgency of this quest creates palpable tension in the air.
 
 Detailed description pending.
 - Unexpected obstacles
@@ -73,6 +90,7 @@ updated: '2025-08-13T01:18:34.484578+00:00'
 - **Location**: Town center
 - **Motivation**: Community safety ## Objectives
 
+
 ### Primary
 
 - Main quest goal ### Optional
@@ -80,9 +98,15 @@ updated: '2025-08-13T01:18:34.484578+00:00'
 - Secondary objectives
 - Hidden goals ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
+**Difficulty**: Moderate (Levels 3-5)
+
+
 The Order of the Shattered Crown has discovered that each party member bears an invisible "Seal"—a magical mark that connects them to one of the Seven Shards. These Seals are awakening, granting power but also making them targets for those who would use them to reunite the Crown of Stars. The party must decide whether to embrace, remove, or master these marks before they consume them. ## Quest Hook
 
 [[The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] appears to each party member in individual visions, revealing glowing marks on their souls that pulse in rhythm with distant Shards. He warns that others have noticed these Seals and are coming to claim them—by persuasion or force. The party must meet him at the Shattered Sanctum within three days. ### Personal Manifestations
+
+
+**Summary**: Personal Manifestations - Key information at a glance.
 
 Each party member experiences unique symptoms based on their Seal: **Seal of Authority (Crystal Throne Shard):**
 - People unconsciously defer to them
@@ -127,7 +151,7 @@ Each party member experiences unique symptoms based on their Seal: **Seal of Aut
 
 **Multiple Factions Mobilize:**
 1. **[[High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]]:** Wants to extract Seals for Purist Coalition
-2. **[[Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]:** Secretly orders capture of party
+2. Nevertheless, **[[Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]:** Secretly orders capture of party
 3. **[[Ambassador Nerida Deepcurrent|02 Worldbuilding/People/Ambassador Nerida Deepcurrent]]:** Aquabyssos wants Seal bearers as weapons
 4. **The Void Cult:** New faction seeking to corrupt Seals **First Attack:**
 
@@ -234,6 +258,8 @@ This quest makes the party central to the world's fate while maintaining persona
 
 - *[Side locations]* ## Rewards
 
+**Experience Points**: 500 XP per character
+
 *[What PCs gain from completing this adventure]* ### Experience Points
 
 - *[XP awards]* ### Treasure
@@ -281,6 +307,7 @@ This quest makes the party central to the world's fate while maintaining persona
 
 > Work together and communicate
 
+
 ## Notes
 
 *Additional notes*
@@ -303,9 +330,11 @@ This quest makes the party central to the world's fate while maintaining persona
 #resource/treasure
 #meta/reference
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -313,6 +342,22 @@ This quest makes the party central to the world's fate while maintaining persona
 - Antagonists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+## Stakes
+- **If Successful**: The positive outcomes that await
+- **If Failed**: The dire consequences of failure
+- **Time Pressure**: Why this cannot wait
+
+
+**Key Question**: Will the heroes rise to the challenge?
+
+**Balance Note**: Adjust creature numbers based on party size and level.
+## Session Prep
+- **Read Aloud Text**: Prepared descriptions for key moments
+- **Key NPCs**: Important characters for this content
+- **Props Needed**: Physical or digital aids to enhance play
+- **Estimated Time**: How long this typically takes to run

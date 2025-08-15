@@ -1,3 +1,7 @@
+# Vault Narrative Completion Status
+
+> *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
+
 --- tags: [general]
 type: misc
 status: active
@@ -9,7 +13,9 @@ category: Vault Narrative Completion Status.Md
 subcategory: Misc
 related: []
 cssclass: standard
-publish: false --- # VAULT NARRATIVE COMPLETION STATUS ## Overview VAULT NARRATIVE COMPLETION STATUS represents an important element within the [[Campaign World|campaign world]]. ## Description This component serves a vital role in the ongoing narrative and world-building efforts. It connects to various other elements and provides depth to the campaign setting. ## Key Features ### Primary Aspects - **Core Function**: Central purpose and role
+publish: false --- # VAULT NARRATIVE COMPLETION STATUS ## Overview VAULT NARRATIVE COMPLETION STATUS represents an important element within the [[Campaign World|campaign world]]. ## Description
+
+**Details**: Rich sensory elements bring this to life. This component serves a vital role in the ongoing narrative and world-building efforts. It connects to various other elements and provides depth to the campaign setting. Indeed, ## Key Features ### Primary Aspects - **Core Function**: Central purpose and role
 - **Unique Traits**: Distinguishing characteristics
 - **Connections**: Links to other elements ### Secondary Aspects - Supporting details
 - Environmental factors
@@ -36,3 +42,7 @@ publish: false --- # VAULT NARRATIVE COMPLETION STATUS ## Overview VAULT NARRATI
 #character/character
 #meta/index
 #meta/reference
+
+**Key Question**: What role will this play in the greater story?
+
+*The adventure continues...*

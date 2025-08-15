@@ -76,7 +76,7 @@ As Glaucus spoke, something began happening to him. Whether due to stress, cosmi
 
 In the last hour of his speech, Glaucus revealed the most devastating evidence: detailed plans for something called the "Convergence Acceleration Protocol" - a scheme to artificially trigger the merger of Aethermoor and Aquabyssos under conditions that would leave both worlds vulnerable to cosmic horror dominion. As he spoke these final revelations, Glaucus underwent complete transformation. His physical form began shifting toward something barely recognizable as human, but his voice remained his own until the very last words: a plea to those still uncompromised to continue the fight he could no longer lead. ### The Official Government Response
 
-*Parliament of Echoes public statement* Senator Glaucus suffered a complete mental breakdown due to the stress of his office and exposure to classified materials beyond his security clearance. His accusations were the product of paranoid delusion, and his physical transformation was the result of illegal experiments with deep-sea adaptation magic. All officials he accused have been cleared by thorough investigation. ### The Underground Resistance
+*Parliament of Echoes public statement* Senator Glaucus suffered a complete mental breakdown due to the stress of his office and exposure to classified materials beyond his security clearance. His accusations were the product of paranoid delusion, and his physical transformation was the result of illegal experiments with deep-sea adaptation magic. All officials he accused cleareded by thorough investigation. ### The Underground Resistance
 
 *Whispered accounts among concerned citizens* Glaucus was a hero who gave his life and sanity to warn us all. Everything he said was true, and his transformation proves the reality of the cosmic horror threat. His final speech contains coded information that can help identify other compromised officials, but only those brave enough to study it despite the psychological risks. ### The Academic Analysis
 
@@ -98,6 +98,9 @@ Whether due to truth or mass suggestion, Glaucus's speech appears to have had me
 - Growing numbers of citizens experiencing dreams that match details from his revelations ### The Ongoing Mystery
 
 Most disturbing of all, no one can locate Glaucus himself. His transformed body disappeared from the Parliament chambers during the chaos following his speech. Some claim he dissolved entirely, others that he was taken by the very entities he opposed. Still others insist he achieved some form of transcendence and now exists as a warning presence that manifests to those facing similar corruption. ## Mechanical Effects **Glaucus's Warning** (Campaign Element)
+
+
+**Summary**: Mechanical Effects **Glaucus's Warning** (Campaign Element) - Key information at a glance.
 
 Characters who study the Senator's final speech gain:
 - Ability to recognize signs of cosmic horror corruption in NPCs

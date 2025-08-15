@@ -1,3 +1,26 @@
+# Campaign Index
+
+> *The fate of many hangs in the balance...*
+
+
+## Contents
+- [Overview](#overview)
+- [Description](#description)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Complications](#complications)
+- [Alternative Solutions](#alternative-solutions)
+
+
+
+## Overview
+
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Comprehensive overview of this content.
+
 ---
 
 title: Campaign_Index
@@ -20,7 +43,10 @@ publish: false
 
  # Campaign_Index ---
 
+
 ## Description
+
+**Tension**: The urgency of this quest creates palpable tension in the air.
 
 Detailed description pending.
 title: Campaign Index
@@ -150,6 +176,8 @@ SORT date DESC --- ## 🔧 Performance Notes > [!info] Index Optimization
 
 - *[Side locations]* ## Rewards
 
+**Experience Points**: 500 XP per character
+
 *[What PCs gain from completing this adventure]* ### Experience Points
 
 - *[XP awards]* ### Treasure
@@ -169,6 +197,7 @@ SORT date DESC --- ## 🔧 Performance Notes > [!info] Index Optimization
 > 💡 **Running This Content**: Advice for game masters
 
 > Adjust difficulty based on party composition ## References - [[Campaign Index (02_Worldbuilding)]]
+
 
 
 ## Notes
@@ -193,9 +222,11 @@ SORT date DESC --- ## 🔧 Performance Notes > [!info] Index Optimization
 #meta/navigation
 #meta/reference
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -203,11 +234,26 @@ SORT date DESC --- ## 🔧 Performance Notes > [!info] Index Optimization
 - Antagonists
 
 
+
 ## Complications
 - Potential problems
 - Twists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+## Stakes
+- **If Successful**: The positive outcomes that await
+- **If Failed**: The dire consequences of failure
+- **Time Pressure**: Why this cannot wait
+
+
+**Key Question**: Will the heroes rise to the challenge?
+## Session Prep
+- **Read Aloud Text**: Prepared descriptions for key moments
+- **Key NPCs**: Important characters for this content
+- **Props Needed**: Physical or digital aids to enhance play
+- **Estimated Time**: How long this typically takes to run

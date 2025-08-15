@@ -59,6 +59,9 @@ updated: '2025-08-13T01:18:37.213178+00:00'
 | Exploring | Every 30 minutes | 13+ = encounter | --- ## Surface & Shallows (0-500ft) *Still touched by sunlight, but wrong* ### d100 Encounter Table | d100 | Encounter | Details |
 
 
+**Summary**: Surface & Shallows (0-500ft) *Still touched by sunlight, but wrong* ### d100 Encounter Table | d100 | Encounter | Details | - Key information at a glance.
+
+
 |------|-----------|---------|
 | 01-05 | **Crystal Plague Refugees** | 2d6 commoners fleeing transformation, may have early symptoms |
 | 06-10 | **Tidecaller Patrol** | 1d4+1 guards investigating dimensional bleeds |
@@ -88,6 +91,9 @@ updated: '2025-08-13T01:18:37.213178+00:00'
 4. Crystal formations provide cover/hazard
 5. Encounter is illusion/memory echo
 6. NPCs mistake party for someone else --- ## Upper Depths (501-2,500ft) *Where civilization clings to fading light* ### d100 Encounter Table | 01-04 | **Parliament Courier** | Carrying sensitive documents, pursued |
+
+
+**Summary**: Upper Depths (501-2,500ft) *Where civilization clings to fading light* ### d100 Encounter Table | 01-04 | **Parliament Courier** | Carrying sensitive documents, pursued | - Key information at a glance.
 
 
 

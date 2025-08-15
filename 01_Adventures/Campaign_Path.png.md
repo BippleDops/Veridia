@@ -25,7 +25,12 @@ publish: false
 
  # Campaign_Path.png ## Overview
 
+**Difficulty**: Moderate (Levels 3-5)
+
+
 This document contains important information regarding Campaign_Path.png and its role within the greater narrative. ## Description
+
+**Tension**: The urgency of this quest creates palpable tension in the air.
 
 Campaign_Path.png represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
 
@@ -39,7 +44,7 @@ Historical context and development over time. ### Current State
 
 Present circumstances and ongoing relevance. ### Future Potential
 
-Possible developments and plot directions. ## Relationships
+Possible developments and plot directions. Furthermore, ## Relationships
 
 - Connected to various other elements within the vault
 - Part of larger narrative structures
@@ -76,6 +81,8 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 - *[Major locations to visit]* ### Optional Areas
 
 - *[Side locations]* ## Rewards
+
+**Experience Points**: 500 XP per character
 
 *[What PCs gain from completing this adventure]* ### Experience Points
 

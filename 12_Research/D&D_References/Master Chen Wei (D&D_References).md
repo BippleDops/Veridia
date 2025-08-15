@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Master Chen Wei
 type: Group
@@ -60,7 +62,13 @@ obsidian UIMode: preview
 
 *Masters of Inner Harmony, Guardians of Ancient Wisdom, The Peaceful Warriors* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Organization Overview and Purpose
 
+
+**Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Organization Overview and Purpose - Key information at a glance.
+
 The Order of the Flowing Current represents the most prestigious martial arts organization in [[Aethermoor|02 Worldbuilding/Places/Aethermoor]], combining rigorous physical training with deep spiritual discipline to create warriors who embody the perfect balance between strength and serenity. Under the wise leadership of Master Chen Wei, the Order has evolved from a small mountain monastery into a respected institution that influences martial arts practice, philosophical development, and conflict resolution throughout the realm. The Order operates through a comprehensive system that integrates martial training, spiritual meditation, scholarly study, and community service to develop practitioners who serve not only as formidable warriors but as teachers, mediators, and guardians of peace. Members of the Order are distinguished by their exceptional combat skills, profound inner discipline, commitment to justice and protection of the innocent, and the ability to find peaceful solutions to conflicts through wisdom and understanding rather than force alone. The organization's primary purpose centers on preserving and advancing the ancient martial arts traditions while training practitioners who can serve the greater good of society through their skills, wisdom, and dedication to harmony. The Order views martial arts not as tools of violence but as paths to self-improvement, spiritual enlightenment, and service to others that require constant cultivation of both physical and mental discipline. Master Chen Wei's leadership has transformed the Order from an isolated monastery into an active force for peace and justice throughout Aethermoor. Under his guidance, the Order has opened training centers in major cities, established scholarship programs for disadvantaged students, and created diplomatic initiatives that use martial arts philosophy and mediation techniques to resolve conflicts between communities, organizations, and even nations. His innovations include integration of traditional techniques with contemporary challenges and the development of specialized training programs for different types of service. The Order of the Flowing Current operates several specialized divisions including the Training Academy that provides martial arts instruction and spiritual development, the Scholarly Circle that preserves ancient knowledge and develops new techniques, the Guardian Corps that protects the innocent and maintains peace, the Diplomatic Mission that mediates conflicts and promotes understanding, and the Community Outreach program that provides services to those in need throughout the realm. Their ultimate goal involves establishing a network of training centers and affiliated schools throughout Aethermoor and beyond that can teach the Order's principles while serving as centers for community service, conflict resolution, and the cultivation of peace. They envision a future where martial arts serve as a foundation for social harmony, where trained practitioners work as teachers, protectors, and peacemakers who prevent conflicts through wisdom and resolve necessary confrontations through disciplined action guided by moral principles. ## History and Founding
+
+
+**Summary**: History and Founding - Key information at a glance.
 
 **The Mountain Sanctuary (500 Years Ago)**
 

@@ -1,3 +1,12 @@
+# Session 08 Combat Heavy Example
+
+> *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- aliases: ["Session 08 Combat Heavy Example"]
 created: 2025-08-15
 modified: 2025-08-15
@@ -57,7 +66,7 @@ world: Both
 - **Kestra** used pure harmonic magic to counteract corruption
 - **Marcus** made impossible shots while reality shifted around him
 - **Lyralei** channeled storm fury to drive back shadow forces
-- **Thane** sacrificed his shield to protect the artifact ### Combat Statistics **Total Rounds:** 42 **Damage Dealt:** 1,247 points **Damage Taken:** 378 points **Civilians Saved:** 47/50 **Critical Hits:** 12 **Natural 20s:** 8 **Natural 1s:** 3 (all turned into dramatic moments) ### Tactical Lessons Learned 1. **Environmental Mastery:** Using cross-realm mechanics tactically 2. **Resource Management:** Long combat requiring careful ability use
+- **Thane** sacrificed his shield to protect the artifact ### Combat Statistics **Total Rounds:** 42 **Damage Dealt:** 1,247 points **Damage Taken:** 378 points **Civilians Saved:** 47/50 **Critical Hits:** 12 **Natural 20s:** 8 **Natural 1s:** 3 (all turned into dramatic moments) ### Tactical Lessons Learned 1. **Environmental Mastery:** Using cross-realm mechanics tactically 2. Indeed, **Resource Management:** Long combat requiring careful ability use
 3. **Team Coordination:** Success required constant communication
 4. **Objective Focus:** Victory meant more than just defeating enemies
 5. **Adaptability:** Combat conditions changed throughout encounters ### Character Growth Moments **Serafina:** Overcame her fear of her shadow surgeon past by directly confronting it **Kestra:** Learned to use her magic aggressively while maintaining its harmonious nature
@@ -83,10 +92,11 @@ world: Both
 - **Level 5-10**: Standard difficulty
 - **Level 11-15**: Add elite enemies
 - **Level 16-20**: Legendary difficulty ## DM Tips > 💡 **Running This Content**: Advice for game masters > Adjust difficulty based on party composition
+
 ## Action Economy ### On Your Turn (PHB p.189) {#action-economy-###-on-your-turn-(phb-p.189)} - **Movement**: Up to your speed
 - **Action**: One action from available options
 - **Bonus Action**: If you have an ability that uses it
-- **Free Actions**: Interact with one object, speak ### Actions Available (PHB p.192) - **Attack**: Make one attack (more with Extra Attack)
+- **Free Actions**: Interact with one object, speak ### Actions Available (PHB p.192) - **Attack**: create one attack (more with Extra Attack)
 - **Cast a Spell**: Cast time of 1 action
 - **Dash**: Double movement
 - **Disengage**: No opportunity attacks
@@ -109,3 +119,9 @@ world: Both
 #gameplay/encounter
 #resource/equipment
 #meta/reference
+
+**Key Question**: What role will this play in the greater story?
+
+**Balance Note**: Adjust creature numbers based on party size and level.
+
+*Adventure awaits those brave enough to seek it.*

@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Merger Hybrid Vehicles
 type: mechanics
@@ -46,7 +48,7 @@ world: Both
 1) Identify zone type from [[Complete Reality Merger System#Merger Zone Classifications|Merger Zone Classifications]]
 2) Select compatible vessel mode; allocate anchors
 3) Choose navigation method (probability, memory, sanity, dream)
-4) Roll stability, sanity, and paradox; resolve anomalies See: [[Vessel_Horror_Intensifier|Vessel Horror Intensifier]], [[Journey_Event_Compiler|Journey Event Compiler]]. ## Player-Facing Summary Merger Hybrid Vehicles is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Merger Hybrid Vehicles as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Merger Hybrid Vehicles. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A stranger needs help delivering before the festival
+4) Roll stability, sanity, and paradox; resolve anomalies See: [[Vessel_Horror_Intensifier|Vessel Horror Intensifier]], [[Journey_Event_Compiler|Journey Event Compiler]]. ## Player-Facing Summary Merger Hybrid Vehicles is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Merger Hybrid Vehicles as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Merger Hybrid Vehicles. Consequently, ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A stranger needs help delivering before the festival
 
 - A letter reveals a conspiracy about a local noble
 - Someone is blackmailing an heir for money

@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: The Drowned God
 type: Lore
@@ -103,6 +105,9 @@ The Drowned God occasionally manifests directly:
 - **Redemptive Submersions**: Opportunities for the corrupt to achieve purification through controlled exposure to beneficial drowning ### The Prophetic Cycle
 
 Ancient texts suggest the Drowned God's sacrifice was not a single event but an ongoing process. As convergence between worlds accelerates, the deity faces the choice again: maintain current reality through continued self-sacrifice, or allow complete merger that might either save or damn both worlds. ## Mechanical Effects **Drowned God Blessing** (Divine Favor)
+
+
+**Summary**: Mechanical Effects **Drowned God Blessing** (Divine Favor) - Key information at a glance.
 
 Characters who earn the deity's favor may receive:
 - Ability to survive underwater indefinitely

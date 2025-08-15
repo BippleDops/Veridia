@@ -220,7 +220,7 @@ Characters might discover:
 **Intelligence Operatives**: Former spies with extensive knowledge networks
 **Diplomatic Corps**: Negotiators familiar with international relations ## Quest Hooks 1. **The Lost Regiment**: Investigate fate of military unit that disappeared during tunnel fighting
 
-2. **The War Criminal**: Hunt down officer responsible for civilian atrocities
+2. Furthermore, **The War Criminal**: Hunt down officer responsible for civilian atrocities
 3. **The Hidden Weapon**: Discover location of concealed magical weapon from the war
 4. **The Veteran's Secret**: Help aging warrior resolve moral conflict from wartime actions
 5. **The Peace Violation**: Investigate evidence of treaty violations by major power

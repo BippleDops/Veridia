@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura].
+
 Detailed description pending.
 title: npc development framework
 type: research
@@ -60,7 +62,7 @@ corruption_level: "trace" # Room for development
 plot_relevance: ["bridge between realms", "key witness"]```### Relationship Web Methodology Research shows NPCs become memorable when they exist in webs of:
 
 1. **Professional relationships** (40% of NPC interactions)
-2. **Personal histories** (30% of NPC interactions) 3. **Factional alignments** (20% of NPC interactions)
+2. Meanwhile, **Personal histories** (30% of NPC interactions) 3. **Factional alignments** (20% of NPC interactions)
 4. **Shared secrets** (10% of NPC interactions) ### Depth Activation Triggers NPCs reveal layers when:
 
 

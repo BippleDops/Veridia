@@ -56,7 +56,7 @@ The current ruler, known as the Scattered Emperor, exists as seven distinct pers
 - **Identity Crisis:** Who inherits from a ruler who isn't technically dead? ### The Seven Imperial Fragments
 
 1. **The Crown Fragment (Throne Room):** Handles ceremonial duties, mostly catatonic
-2. **The Sword Fragment (War Room):** Military decisions, increasingly aggressive
+2. Additionally, **The Sword Fragment (War Room):** Military decisions, increasingly aggressive
 3. **The Scales Fragment (Treasury):** Economic policy, obsessed with accounting
 4. **The Orb Fragment (Diplomatic Quarter):** Foreign relations, speaks in riddles 5. **The Scepter Fragment (Parliament):** Legislative oversight, debates itself
 6. **The Seal Fragment (Justice Chamber):** Legal matters, judges everything

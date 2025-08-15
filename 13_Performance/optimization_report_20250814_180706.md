@@ -1,3 +1,7 @@
+# Optimization Report 20250814 180706
+
+> *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
+
 --- aliases: ["optimization report 20250814 180706"]
 created: 2025-08-15
 modified: 2025-08-15
@@ -54,7 +58,7 @@ modified: '2025-01-15'
 - Scaling notes ### Sessions Enhanced With: - Structured summaries
 - NPC tracking
 - Loot records
-- DM notes - -- * Comprehensive optimization complete. Every note has been enhanced.* ## Connections - See also: [[Central Index|Central Index]] - Related: [[Power Structures|Power Structures]]
+- DM notes - -- * Comprehensive optimization complete. Every note enhanceded.* ## Connections - See also: [[Central Index|Central Index]] - Related: [[Power Structures|Power Structures]]
 - Connected to: [[World Events|World Events]] ## References - [[Power Structures|Power Structures]] - [[World Events|World Events]] ## Notes {#notes} *Additional notes* #mechanics/mechanics
 #story/plot
 #story/story
@@ -70,3 +74,15 @@ modified: '2025-01-15'
 #resource/loot
 #meta/index
 #meta/reference
+
+**Key Question**: What role will this play in the greater story?
+
+**Balance Note**: Adjust creature numbers based on party size and level.
+## Session Prep
+- **Read Aloud Text**: Prepared descriptions for key moments
+- **Key NPCs**: Important characters for this content
+- **Props Needed**: Physical or digital aids to enhance play
+- **Estimated Time**: How long this typically takes to run
+
+
+*The dice will decide the fate.*

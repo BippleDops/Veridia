@@ -61,6 +61,9 @@ Unlike surface palaces built from dead stone, the Original Palace grows from a m
 - **Defensive capabilities:** Passages can seal themselves against intruders
 - **Expansion potential:** New wings can be grown as needed ### The Five Spires
 
+
+**Summary**: The Five Spires - Key information at a glance.
+
 The palace consists of five great spires, each serving a distinct purpose and representing a different aspect of [[Trade Union|02 Worldbuilding/Places/Trade Union]] culture: **The Spire of Currents** (Central Tower)
 - **Height:** 500 feet above the sea floor
 - **Function:** Throne rooms and formal audience chambers
@@ -84,6 +87,9 @@ The palace consists of five great spires, each serving a distinct purpose and re
 - **Architecture:** Crystalline formations that amplify magical energies ### The Connecting Bridges
 
 Between the spires, graceful bridges of woven [[Sea Silk]] and reinforced coral create pathways that undulate with the current. These bridges can be retracted in times of danger, isolating each spire for defense. ### The Royal Court
+
+
+**Summary**: The Royal Court - Key information at a glance.
 
 Though the throne stands empty following the events of [[The Depth Accords]], the palace remains home to a significant population: **[[Regent Thalassa]]** (Ancient Deep One Noble)
 - **Role:** Current caretaker of the palace and regent in the absence of a crowned ruler
@@ -110,7 +116,7 @@ The palace requires a vast staff to maintain its complex systems: **[[Reef Tende
 - **Skills:** Deep-sea diving, creature handling, pearl cultivation
 - **Territory:** The [[Abyssal Gardens]] surrounding the palace ### The Hall of Echoing Depths
 
-The palace's main audience chamber, where the acoustics have been designed to carry whispers across vast distances while allowing private conversations to remain unheard just feet away. The ceiling rises 200 feet and is decorated with a living mural that depicts the history of the [[Deep Ones]] through bioluminescent coral formations. **Acoustic Properties:**
+The palace's main audience chamber, where the acoustics designeded to carry whispers across vast distances while allowing private conversations to remain unheard just feet away. The ceiling rises 200 feet and is decorated with a living mural that depicts the history of the [[Deep Ones]] through bioluminescent coral formations. **Acoustic Properties:**
 - Whispers can carry across the 300-foot length of the hall
 - Multiple conversations can occur simultaneously without interference
 - The chamber can amplify a speaker's voice to reach thousands
@@ -164,13 +170,13 @@ The palace serves as the hub for an ancient communication system that connects t
 - Managing competing interests and demands
 - Preventing diplomatic incidents that could lead to war ### The Ancient Awakening
 
-**Level Range:** 9-14 **Type:** Epic Adventure Something stirs in the deepest chambers of the palace—chambers that have been sealed since its construction. Ancient guardians that were thought to be decorative have begun to move, and voices speaking in the [[Old Tongue]] echo through the halls. Characters must uncover what ancient power is awakening and whether it represents salvation or doom for the palace and its inhabitants. **Epic Elements:**
+**Level Range:** 9-14 **Type:** Epic Adventure Something stirs in the deepest chambers of the palace—chambers that sealeded since its construction. Ancient guardians that were thought to be decorative have begun to move, and voices speaking in the [[Old Tongue]] echo through the halls. Characters must uncover what ancient power is awakening and whether it represents salvation or doom for the palace and its inhabitants. **Epic Elements:**
 - Encounters with primordial creatures
 - Ancient magical traps and puzzles
 - Revelation of the palace's true purpose
 - Potential connection to other planes or realities ### The Treasure Hunt
 
-**Level Range:** 4-7 **Type:** Exploration & Problem-Solving A coded map has been discovered that allegedly leads to a hidden treasure vault within the palace—one that even [[Regent Thalassa]] doesn't know about. Characters must decipher the ancient clues while avoiding the palace's security systems and discovering whether the treasure is worth the risks involved. **Puzzle Elements:**
+**Level Range:** 4-7 **Type:** Exploration & Problem-Solving A coded map discovereded that allegedly leads to a hidden treasure vault within the palace—one that even [[Regent Thalassa]] doesn't know about. Characters must decipher the ancient clues while avoiding the palace's security systems and discovering whether the treasure is worth the risks involved. **Puzzle Elements:**
 - Ancient codes and cipher systems
 - Hidden passages and secret doors
 - Traps designed to test worthiness

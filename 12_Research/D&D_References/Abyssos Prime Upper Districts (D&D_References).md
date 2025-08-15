@@ -44,6 +44,9 @@ danger_level: Moderate
 
 The Upper Districts of [[Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]] represent the pinnacle of Aquabyssos civilization - both literally and figuratively. Built in the shallower waters where filtered sunlight can still penetrate, these districts house the empire's nobility, government officials, and wealthy merchants. Grand coral palaces rise from cultivated reef platforms, connected by graceful current-bridges that allow citizens to swim effortlessly between buildings. The architecture here blends the organic curves of sea life with the geometric precision of crystal-enhanced construction. ### The Ascending Terraces
 
+
+**Summary**: The Ascending Terraces - Key information at a glance.
+
 The Upper Districts are built on five main terraces, each at a different depth: **The Crown Tier (200m depth)**
 - [[The Inverse Palace|02 Worldbuilding/Places/The Inverse Palace]] - Emperor's residence
 - [[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] - Government seat

@@ -75,7 +75,7 @@ The Silverleaf Forest has stood for millennia, its magical trees providing prote
 - Underground cave system emanating corruption
 - Twisted fey creatures serving unknown master ## The Source
 
-**The Blighted Heart:** Deep within the forest lies a corrupted World Tree, infected by Far Realm energy leaked through a planar rift. The corruption spreads through root networks, transforming the forest into an aberrant ecosystem. ### Primary Antagonist
+**The Blighted Heart:** Deep within the forest lies a corrupted World Tree, infected by Far Realm energy leaked through a planar rift. The corruption spreads through root networks, transforming the forest into an aberrant ecosystem. Subsequently, ### Primary Antagonist
 
 **The Whisper Grove:** Collective consciousness of corrupted dryads and treants, led by the fallen archdruid Malachar who opened the rift seeking greater power. ## Key Encounters
 

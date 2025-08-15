@@ -1,3 +1,17 @@
+# Quest Nature.Png
+
+> *The fate of many hangs in the balance...*
+
+
+## Contents
+- [Description](#description)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Complications](#complications)
+- [Alternative Solutions](#alternative-solutions)
+
+
 ---
 
 aliases:
@@ -28,7 +42,13 @@ publish: false
 
  # Quest Nature.png ## Overview
 
+**Difficulty**: Moderate (Levels 3-5)
+
+
+
 ## Description
+
+**Tension**: The urgency of this quest creates palpable tension in the air.
 
 Detailed description pending.
 
@@ -54,7 +74,7 @@ Born into modest circumstances, Quest Nature.png rose through dedication and cun
 - **Rivals**: [[Shadow Conspiracy]]
 - **Contacts**: Network of informants throughout the city ## Current Activities
 
-Actively involved in current events, pursuing their own agenda while maintaining public appearances. ## Plot Hooks
+Actively involved in current events, pursuing their own agenda while maintaining public appearances. Moreover, ## Plot Hooks
 
 1. Seeks adventurers for a delicate mission
 2. Has information about a mystery the party is investigating
@@ -87,6 +107,8 @@ Actively involved in current events, pursuing their own agenda while maintaining
 
 - *[Side locations]* ## Rewards
 
+**Experience Points**: 500 XP per character
+
 *[What PCs gain from completing this adventure]* ### Experience Points
 
 - *[XP awards]* ### Treasure
@@ -102,6 +124,7 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - *[Adjustments for stronger groups]* ### Large/Small Parties
 
 - *[Adjustments for party size]*
+
 
 
 ## Notes
@@ -123,9 +146,11 @@ Actively involved in current events, pursuing their own agenda while maintaining
 #resource/equipment
 #resource/treasure
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -133,11 +158,21 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - Antagonists
 
 
+
 ## Complications
 - Potential problems
 - Twists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+## Stakes
+- **If Successful**: The positive outcomes that await
+- **If Failed**: The dire consequences of failure
+- **Time Pressure**: Why this cannot wait
+
+
+**Key Question**: Will the heroes rise to the challenge?

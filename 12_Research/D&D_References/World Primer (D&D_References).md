@@ -60,7 +60,10 @@ The dimensional merger that created modern Aquabyssos is well-documented in the 
 - **The Transformation Wave**: Changed environmental physics to support life
 - **The Integration**: Parliamentary democracy adapted to include all species #### Geography by Depth **The Sunlight Zone (0-500ft)**
 
-The realm of politics and civilization. Here, filtered sunlight still reaches through the water, creating a twilight world of blues and greens. Coral cities rise like underwater mountains, their bioluminescent lights replacing the sun's warmth. - **Abyssos Prime**: The capital, a massive city built into a underwater mountain
+
+**Summary**: Geography by Depth **The Sunlight Zone (0-500ft)** - Key information at a glance.
+
+The realm of politics and civilization. Here, filtered sunlight still reaches through the water, creating a twilight world of blues and greens. Coral cities rise like underwater mountains, their bioluminescent lights replacing the sun's warmth. Moreover, - **Abyssos Prime**: The capital, a massive city built into a underwater mountain
 - **Port Cities**: Trading hubs where depth zones meet
 - **Kelp Forests**: Agricultural zones feeding the empire
 - **The Parliament Depths**: Where political power concentrates **The Twilight Zone (500-1500ft)**

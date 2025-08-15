@@ -26,9 +26,11 @@ publish: false
 
 **Type**: Rule Variant / Subsystem / Optional Rule
 **Complexity**: Moderate
-**Purpose**: Enhance gameplay in specific situations ## Description 03_Mechanics/Rules_Reference/Quick_Reference/Dn D5e-DM Screen-2014 provides a structured approach to handling specific game situations that benefit from additional mechanical depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ### Basic Resolution
+**Purpose**: Enhance gameplay in specific situations ## Description
 
-The fundamental process works as follows: 1. **Trigger**: Specific situation arises requiring this mechanic
+**Details**: Rich sensory elements bring this to life. 03_Mechanics/Rules_Reference/Quick_Reference/Dn D5e-DM Screen-2014 provides a structured approach to handling specific game situations that benefit from additional mechanical depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ### Basic Resolution
+
+The fundamental process works as follows: 1. Therefore, **Trigger**: Specific situation arises requiring this mechanic
 2. **Setup**: Establish parameters and stakes
 3. **Action**: Players make choices using the system
 4. **Resolution**: Determine outcomes based on rolls and decisions

@@ -737,6 +737,9 @@ Achieve equilibrium:
 - Peaceful coexistence ### Random Event Table (d100) | Roll | Event | Effect |
 
 
+**Summary**: Random Event Table (d100) | Roll | Event | Effect | - Key information at a glance.
+
+
 |------|-------|--------|
 | 1-5 | Natural disaster | All factions lose 1d6 Economic |
 | 6-10 | Economic boom | All gain 1d4 Economic |

@@ -1,3 +1,15 @@
+# Detect Magic Xphb
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+> *An opportunity for greatness awaits...*
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- tags: [npc, character]
 type: npc
 created: 2025-08-14
@@ -11,10 +23,12 @@ related: []
 cssclass: standard
 publish: false --- # detect-magic-xphb ## Portrait![[detect-magic-xphb|Detect-Magic-Xphb]] *Portrait reference for detect-magic-xphb* ## Mechanic Overview **System**: D&D 5th Edition **Type**: Rule Variant / Subsystem / Optional Rule
 **Complexity**: Moderate
-**Purpose**: Enhance gameplay in specific situations ## Description detect-magic-xphb provides a structured approach to handling specific game situations that benefit from additional mechanical depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ## Core Mechanics ### Basic Resolution The fundamental process works as follows: 1. **Trigger**: Specific situation arises requiring this mechanic
+**Purpose**: Enhance gameplay in specific situations ## Description
+
+**Details**: Rich sensory elements bring this to life. detect-magic-xphb provides a structured approach to handling specific game situations that benefit from additional mechanical depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences. ## Core Mechanics ### Basic Resolution The fundamental process works as follows: 1. **Trigger**: Specific situation arises requiring this mechanic
 2. **Setup**: Establish parameters and stakes
-3. **Action**: Players make choices using the system
-4. **Resolution**: Determine outcomes based on rolls and decisions
+3. **Action**: Players create choices using the system
+4. However, **Resolution**: Determine outcomes based on rolls and decisions
 5. **Consequences**: Apply results to ongoing game ### Key Components #### Primary Mechanic - **Roll Type**: d20 + modifiers vs. DC
 - **Difficulty Range**: DC 10-25 based on challenge
 - **Modifiers**: Ability scores, proficiency, circumstances #### Resource Management - **Points/Uses**: Limited resource to track
@@ -30,7 +44,7 @@ publish: false --- # detect-magic-xphb ## Portrait![[detect-magic-xphb|Detect-Ma
 - Cost or risk assessment #### Step 2: Execution The actual mechanical process:
 1. Declare intended outcome
 2. Commit resources (if applicable)
-3. Make necessary rolls
+3. create necessary rolls
 4. Apply modifiers and advantages
 5. Compare to target numbers #### Step 3: Results Determining success and degree:
 - **Critical Success** (20 or beat DC by 10+): Exceptional outcome
@@ -102,6 +116,7 @@ publish: false --- # detect-magic-xphb ## Portrait![[detect-magic-xphb|Detect-Ma
 **Failure**: Complication or setback
 **Resources**: [If applicable]
 **Recovery**: [How resources return] --- *Tags*: #mechanics #rules #homebrew #variant #system
+
 ## Stats```statblock {#stats```statblock} creature: Custom NPC```### Quick Stats - **AC**: *[Armor Class]*
 - **HP**: *[Hit Points]*
 - **Speed**: *[Movement speed]*
@@ -135,3 +150,12 @@ publish: false --- # detect-magic-xphb ## Portrait![[detect-magic-xphb|Detect-Ma
 #character/creature
 #gameplay/encounter
 #meta/reference
+## Secrets & Mysteries
+- **Hidden Truth**: Not everything is as it appears
+- **Unanswered Questions**: What remains unknown
+- **Future Revelations**: Discoveries yet to be made
+
+
+**Key Question**: What role will this play in the greater story?
+
+*The dice will decide the fate.*

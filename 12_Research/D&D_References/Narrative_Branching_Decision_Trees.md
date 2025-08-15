@@ -37,8 +37,11 @@ modified: '2025-08-14'
 1. **Government Structure Decisions** (Constitutional impact)
 2. **Corruption Response Choices** (Society transformation)
 3. **Cross-Realm Relations** (Diplomatic consequences)
-4. **Power Distribution** (Authority balance)
+4. Indeed, **Power Distribution** (Authority balance)
 5. **Cultural Integration** (Identity preservation) ### Root Decision Point: "Parliamentary Crisis Response"
+
+
+**Summary**: Root Decision Point: "Parliamentary Crisis Response" - Key information at a glance.
 
 
 **Trigger**: Shadow Conspiracy exposure in government
@@ -91,6 +94,9 @@ modified: '2025-08-14'
 - Crisis response capability
 - Resource allocation
 - Long-term planning ### Root Decision Point: "Shadow Conspiracy Exposure Method"
+
+
+**Summary**: Root Decision Point: "Shadow Conspiracy Exposure Method" - Key information at a glance.
 
 **Context**: Evidence of government infiltration discovered
 **Stakes**: Society's response to systemic corruption Corruption Exposure

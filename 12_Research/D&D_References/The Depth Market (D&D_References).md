@@ -186,6 +186,9 @@ danger_level: Moderate
 
 **Security**: Cooperation on security threats affecting all of Aquabyssos **Intelligence**: Limited sharing of intelligence about deep-sea threats **Protection**: Emergency protection arrangements during existential threats **Resources**: Trading of strategic resources for military protection **Distance**: Physical distance limiting direct military involvement ## Secrets and Hidden Aspects > [!secret] DM Secret - The Deep Pact
 
+
+**Summary**: Secrets and Hidden Aspects > [!secret] DM Secret - The Deep Pact - Key information at a glance.
+
 > The market's survival depends on a secret agreement with an ancient and powerful deep-sea entity known as the Depth Sovereign. [[Master Trader Abyss Currentbinder]] personally negotiates this pact, which requires regular tribute of rare artifacts and magical items. The entity provides protection from the most dangerous abyssal creatures and favorable currents for trade routes, but the demands are becoming increasingly costly and dangerous. Breaking the pact would result in the market being destroyed by creatures and natural disasters. > [!secret] DM Secret - The Living Market
 
 > The market complex itself is partially alive, grown rather than built using ancient biotechnology discovered in the ruins. The "walls" are actually a massive, slow-growing organism that responds to the needs of the inhabitants by creating new chambers and passages. Only a few of the oldest traders know this secret, and they've been carefully nurturing the growth while keeping it hidden. The organism requires specific nutrients and conditions to remain healthy, and its death would cause the entire market to collapse. > [!secret] DM Secret - The Pressure Addiction

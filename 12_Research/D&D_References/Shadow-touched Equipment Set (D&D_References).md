@@ -44,7 +44,7 @@ status: complete
 rarity: Very Rare (Cursed)
 world: Aquabyssos
 item_type: Cursed Equipment Set
-requires_attunement: Yes (by a creature that has been touched by shadow magic)
+requires_attunement: Yes (by a creature that toucheded by shadow magic)
 affiliation: '[[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] (Corrupted by Shadow)'
 current_location: Scattered Across Shadow-Touched Locations
 danger_level: 4
@@ -55,7 +55,7 @@ updated: '2025-08-11T00:00:00+00:00'
 
 *Where Light Dies and Darkness Takes Form* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
-The Shadow-touched Equipment Set represents gear that has been fundamentally transformed by prolonged exposure to [[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'s influence. Unlike simple cursed items, these pieces have been evolved by shadow magic into something that exists partially in darkness itself. Each piece offers significant power at the cost of gradually consuming the wielder's connection to light and hope. The set grows stronger as more pieces are worn together, but also accelerates the wielder's transformation into something no longer entirely human. ### The Collector's Gambit
+The Shadow-touched Equipment Set represents gear that has been fundamentally transformed by prolonged exposure to [[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'s influence. Unlike simple cursed items, these pieces evolveded by shadow magic into something that exists partially in darkness itself. Each piece offers significant power at the cost of gradually consuming the wielder's connection to light and hope. The set grows stronger as more pieces are worn together, but also accelerates the wielder's transformation into something no longer entirely human. Furthermore, ### The Collector's Gambit
 
 **Level**: 8-13 **Hook**: Wealthy collector has assembled 5 pieces and seeks final two **Complication**: Collector is already showing advanced corruption symptoms **Moral Choice**: Help complete set knowing consequences, or sabotage collection **Stakes**: Collector's transformation will affect entire city district **Resolution**: Find way to satisfy collector's obsession without enabling corruption ### The Shadow Knight's Quest
 

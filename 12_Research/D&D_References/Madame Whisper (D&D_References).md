@@ -72,7 +72,7 @@ danger_level: Moderate
 
 1. Madame Whisper approaches the party with information about a threat to the city, requiring their services in exchange for her intelligence.
 2. The party needs access to high society or sensitive information, leading them to negotiate with Madame Whisper for her assistance.
-3. Someone has been feeding false information into Madame Whisper's network, and she needs trustworthy investigators to identify the source. ## DM Notes
+3. Someone feededing false information into Madame Whisper's network, and she needs trustworthy investigators to identify the source. ## DM Notes
 
 
 Madame Whisper serves as an excellent source of information and social connections while maintaining neutrality that makes her useful to any party regardless of their factional allegiances. Her salon can serve as a safe meeting ground and her information network can advance or complicate plots as needed. Use her sophisticated approach to espionage to contrast with cruder spy operations in the campaign. ## Player-Facing Summary Madame Whisper is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Madame Whisper as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Madame Whisper. ## Related *Links to related content will be added here.* ## Plot Hooks - A corpse reveals a conspiracy about this place

@@ -42,7 +42,10 @@ Detailed description pending.
 - Main quest goal ### Optional
 
 - Secondary objectives
-- Hidden goals ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### History Improvements - Add three historical eras with major events ### Culture Improvements - Define unique cultural practices and taboos ### Economy Improvements - Detail currency, trade goods, and wealth distribution ### Religion Improvements - Create detailed religious observances ### Lifestyle Improvements - Describe typical day for different social classes ### Hospitality Improvements - Explain guest rights and host obligations ### Evolution Improvements - Show how traditions are changing with new generation ### Death_Customs Improvements - Detail funeral rites and afterlife beliefs ### Contradictions Improvements - Include cultural hypocrisies and double standards ### Coming_Of_Age Improvements - Describe rites of passage and adulthood markers ### Superstitions Improvements - List common superstitions and their origins ### Diaspora Improvements - Describe how this culture exists in other regions ## Overview **Type**: Temple
+- Hidden goals ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### History Improvements - Add three historical eras with major events ### Culture Improvements - Define unique cultural practices and taboos ### Economy Improvements - Detail currency, trade goods, and wealth distribution ### Religion Improvements - Create detailed religious observances ### Lifestyle Improvements - Describe typical day for different social classes ### Hospitality Improvements - Explain guest rights and host obligations ### Evolution Improvements - Show how traditions are changing with new generation ### Death_Customs Improvements - Detail funeral rites and afterlife beliefs ### Contradictions Improvements - Include cultural hypocrisies and double standards ### Coming_Of_Age Improvements - Describe rites of passage and adulthood markers ### Superstitions Improvements - List common superstitions and their origins ### Diaspora Improvements - Describe how this culture exists in other regions ## Overview
+
+**Difficulty**: Moderate (Levels 3-5)
+ **Type**: Temple
 
 **Region**: [[Regional Territory]]
 **Population**: ~1,000-10,000 (varies by type)
@@ -56,7 +59,7 @@ The temple features architecture typical of the region, with buildings construct
 - Residential areas
 - Defensive structures (if applicable) ### Founding
 
-Established generations ago as a strategic settlement, 02_Worldbuilding/Quests/Quest - Corruption in the Temple has grown from humble beginnings to its current significance. ### Notable Landmarks
+Established generations ago as a strategic settlement, 02_Worldbuilding/Quests/Quest - Corruption in the Temple has grown from humble beginnings to its current significance. Indeed, ### Notable Landmarks
 
 1. **Central Structure**: Main governmental or religious building
 2. **Market Square**: Hub of commercial activity
@@ -124,6 +127,8 @@ Local customs blend regional traditions with unique local practices developed ov
 - *[Major locations to visit]* ### Optional Areas
 
 - *[Side locations]* ## Rewards
+
+**Experience Points**: 500 XP per character
 
 *[What PCs gain from completing this adventure]* ### Experience Points
 
@@ -208,3 +213,6 @@ Local customs blend regional traditions with unique local practices developed ov
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+
+**Balance Note**: Adjust creature numbers based on party size and level.

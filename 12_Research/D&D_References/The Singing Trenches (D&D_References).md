@@ -22,7 +22,7 @@ publish: false
 
 This document contains important information regarding The Singing Trenches and its role within the greater narrative. ## Description
 
-The Singing Trenches represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
+The Singing Trenches represents a significant element within the campaign world, offering various opportunities for engagement and development. Subsequently, ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements

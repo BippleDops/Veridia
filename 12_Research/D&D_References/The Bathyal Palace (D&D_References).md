@@ -65,7 +65,7 @@ Circular arrangement of embassy suites, each maintained by different factions:
 - [[Church of the Tidal Throne]] sanctuary (West)
 - [[Free Current]] hidden rooms (location varies) ### The Archive of Accords
 
-Library containing every treaty, agreement, and contract signed in the palace. [[Keeper of Contracts Minerva Bindingword]] ensures all agreements are magically enforced. ### The Depth Gardens
+Library containing every treaty, agreement, and contract signed in the palace. Additionally, [[Keeper of Contracts Minerva Bindingword]] ensures all agreements are magically enforced. ### The Depth Gardens
 
 Floating gardens of cultivated kelp and coral where private negotiations occur. [[Garden Keeper Zen Currentdancer]] maintains the delicate ecosystem and "accidentally" overhears many secrets. ### The Observation Sphere
 

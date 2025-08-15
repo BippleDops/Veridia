@@ -34,6 +34,9 @@ modified: '2025-08-14'
 
 --- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Systems for Maintaining Narrative and World Consistency Research on preserving internal logic and continuity across complex, long-running campaigns. ### The Coherence Framework **Factual Coherence** (30% of coherence maintece):
 
+
+**Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Systems for Maintaining Narrative and World Consistency Research on preserving internal logic and continuity across complex, long-running campaigns. ### The Coherence Framework **Factual Coherence** (30% of coherence maintece): - Key information at a glance.
+
 - **World Rules Consistency**: Physical laws, magic systems, and technological capabilities remain stable
 - **Historical Accuracy**: Events maintain consistent timeline and logical causation
 - **Geographic Logic**: Locations maintain spatial relationships and environmental characteristics

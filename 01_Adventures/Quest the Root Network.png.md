@@ -28,7 +28,12 @@ publish: false
 
  # Quest the Root Network.png ## Overview
 
+**Difficulty**: Moderate (Levels 3-5)
+
+
 ## Description
+
+**Tension**: The urgency of this quest creates palpable tension in the air.
 
 Detailed description pending.
 
@@ -44,7 +49,7 @@ Quest the Root Network.png is a notable figure in the realm, known for their uni
 - **Bonds**: Connected to several influential organizations
 - **Flaws**: Tendency to overthink situations ## Background
 
-Born into modest circumstances, Quest the Root Network.png rose through dedication and cunning to their current position. ## Abilities
+Born into modest circumstances, Quest the Root Network.png rose through dedication and cunning to their current position. Additionally, ## Abilities
 
 - **Skills**: Investigation, Persuasion, Insight
 - **Special Abilities**: Keen tactical mind
@@ -86,6 +91,8 @@ Actively involved in current events, pursuing their own agenda while maintaining
 - *[Major locations to visit]* ### Optional Areas
 
 - *[Side locations]* ## Rewards
+
+**Experience Points**: 500 XP per character
 
 *[What PCs gain from completing this adventure]* ### Experience Points
 
@@ -141,3 +148,9 @@ Actively involved in current events, pursuing their own agenda while maintaining
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+## Session Prep
+- **Read Aloud Text**: Prepared descriptions for key moments
+- **Key NPCs**: Important characters for this content
+- **Props Needed**: Physical or digital aids to enhance play
+- **Estimated Time**: How long this typically takes to run

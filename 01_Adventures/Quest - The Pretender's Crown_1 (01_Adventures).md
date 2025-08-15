@@ -1,3 +1,29 @@
+# Quest   The Pretender'S Crown 1 (01 Adventures)
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+> *The fate of many hangs in the balance...*
+
+
+## Contents
+- [Overview](#overview)
+- [Description](#description)
+  - [Primary](#primary)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Alternative Solutions](#alternative-solutions)
+
+
+
+## Overview
+
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Comprehensive overview of this content.
+
 ---
 
 title: Quest - The Pretender's Crown_1 (01_Adventures)
@@ -19,6 +45,7 @@ publish: false
 ---
 
  ## Complications
+
 
 ## Description
 
@@ -69,6 +96,7 @@ obsidian UIMode: preview
 - **Location**: Town center
 - **Motivation**: Community safety ## Objectives
 
+
 ### Primary
 
 - Main quest goal ### Optional
@@ -89,7 +117,7 @@ obsidian UIMode: preview
 
 1. **A Perfect Simulacrum** created by the [[Shadow Crystal]] using stolen royal blood and memories
 2. **Marina Silversky** in disguise, manipulating events to prevent realm convergence
-3. **The Real Heir** but corrupted by shadow during their exile
+3. However, **The Real Heir** but corrupted by shadow during their exile
 4. **An Ancient Entity** wearing a constructed body, seeking to reclaim power
 5. **Multiple Beings** switching places using identical appearances (Choose based on campaign needs or roll d6, rerolling 6) ### The Auditor's Warning **Location**: Hidden office in [[Port Meridian]] **Quest Giver**: [[12 Research]] The Auditor has discovered ficial irregularities suggesting the Pretender's supporters are being paid with gold that doesn't exist—shadow gold that vanishes after 30 days. They need investigators who can work outside official channels. **Initial Tasks**:
 
@@ -261,7 +289,7 @@ Depending on earlier discoveries, the Pretender reveals: **If Simulacrum**: Melt
 
 - *[What happens if PCs don't act]* ## Adventure Hooks
 
-*[Ways to get PCs involved]* ### Direct Approach
+*[Ways to acquire PCs involved]* ### Direct Approach
 
 - *[Straightforward hook]* ### Indirect Approach
 
@@ -284,6 +312,8 @@ Depending on earlier discoveries, the Pretender reveals: **If Simulacrum**: Melt
 - *[Major locations to visit]* ### Optional Areas
 
 - *[Side locations]* ## Rewards
+
+**Experience Points**: 500 XP per character
 
 *[What PCs gain from completing this adventure]* ### Experience Points
 
@@ -348,6 +378,7 @@ Depending on earlier discoveries, the Pretender reveals: **If Simulacrum**: Melt
 
 > Adjust difficulty based on party composition
 
+
 ## Notes
 
 *Additional notes*
@@ -373,9 +404,11 @@ Depending on earlier discoveries, the Pretender reveals: **If Simulacrum**: Melt
 #resource/item
 #resource/treasure
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -383,6 +416,15 @@ Depending on earlier discoveries, the Pretender reveals: **If Simulacrum**: Melt
 - Antagonists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+## Stakes
+- **If Successful**: The positive outcomes that await
+- **If Failed**: The dire consequences of failure
+- **Time Pressure**: Why this cannot wait
+
+
+*The adventure continues...*

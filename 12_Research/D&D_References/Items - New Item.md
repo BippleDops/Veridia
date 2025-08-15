@@ -24,7 +24,7 @@ Items - New Item is a notable item with both practical use and historical signif
 
 **Type**: Wondrous Item *Further details to be discovered.* *Further details to be discovered.* *Further details to be discovered.*
 **Rarity**: Uncommon
-**Appearance**: Distinctive craftsmanship sets this item apart from common goods. ## Properties
+**Appearance**: Distinctive craftsmanship sets this item apart from common goods. Moreover, ## Properties
 
 - **Primary Function**: Provides utility in specific situations
 - **Secondary Benefits**: Additional advantages when properly utilized

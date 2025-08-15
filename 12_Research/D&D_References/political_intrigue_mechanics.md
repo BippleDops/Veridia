@@ -43,6 +43,9 @@ modified: '2025-08-14'
 - **Secondary Actors** (20-30 per realm): Important but dependent political figures
 - **Tertiary Actors** (50+ per realm): Minor figures who can be influenced or used ### Intrigue Action Framework **Intelligence Gathering** (30% of political actions):
 
+
+**Summary**: Intrigue Action Framework **Intelligence Gathering** (30% of political actions): - Key information at a glance.
+
 - **Surveillance**: Observing targets to learn routines and vulnerabilities
 - **Infiltration**: Placing agents or gaining access to restricted information
 - **Social Engineering**: Using relationships to extract information

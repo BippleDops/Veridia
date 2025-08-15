@@ -34,6 +34,9 @@ modified: '2025-08-14'
 
 --- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Systematic Approaches to Non-Combat Challenges Research on designing and running social encounters that are as engaging and mechanically interesting as combat. ### Social Encounter Categories **Negotiation Encounters** (35% of social encounters):
 
+
+**Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Systematic Approaches to Non-Combat Challenges Research on designing and running social encounters that are as engaging and mechanically interesting as combat. ### Social Encounter Categories **Negotiation Encounters** (35% of social encounters): - Key information at a glance.
+
 - **Trade Bargaining**: Economic negotiations over goods, services, or resources
 - **Political Treaties**: Diplomatic agreements between factions or realms
 - **Conflict Resolution**: Mediating disputes between opposing parties
@@ -76,6 +79,9 @@ modified: '2025-08-14'
 - **Crystal Resoce**: Harmonic sympathy affecting emotional connections
 - **Altitude Pride**: Height-based social stratification and status
 - **Storm Wisdom**: Weather-based philosophical approaches to conflict ### Social Encounter Structure **Phase 1: Social Initiative** (10% of encounter time):
+
+
+**Summary**: Social Encounter Structure **Phase 1: Social Initiative** (10% of encounter time): - Key information at a glance.
 
 - **Atmosphere Establishment**: Setting emotional tone and social stakes
 - **Participant Introduction**: Identifying key figures and their motivations

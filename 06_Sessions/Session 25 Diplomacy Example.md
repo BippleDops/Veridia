@@ -1,9 +1,20 @@
+# Session 25 Diplomacy Example
+
+> *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- title: Session 25 Diplomacy Example
 type: session
 tags:
 - session created: '2025-01-15'
 modified: '2025-01-15'
-- -- # Session_25_Diplomacy_Example - -- ## Description {#description} Detailed description pending.
+- -- # Session_25_Diplomacy_Example - -- ## Description
+
+**Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 title: Session 25 Diplomacy Example
 type: Session Summary
 tags:
@@ -94,3 +105,7 @@ publish: false --- -|--------|
 #gameplay/session
 #gameplay/mission
 #meta/reference
+
+**Key Question**: What role will this play in the greater story?
+
+*The adventure continues...*

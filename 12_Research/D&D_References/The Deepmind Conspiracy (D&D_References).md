@@ -73,7 +73,7 @@ The Deepmind Conspiracy alleges that powerful psionics are secretly manipulating
 1. **Complete Fabrication:** No conspiracy exists, pure paranoia
 2. **Limited Reality:** Small-scale psychic influence blown out of proportion
 3. **Partial Truth:** Some individual psionics operating but no organized cabal
-4. **Full Conspiracy:** Extensive network exactly as described
+4. Additionally, **Full Conspiracy:** Extensive network exactly as described
 5. **Misdirection:** Real conspiracy using false psychic narrative as cover ## Adventure Hooks
 
 

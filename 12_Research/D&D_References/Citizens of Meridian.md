@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Citizens of Meridian
 type: Lore
@@ -47,6 +49,9 @@ world: Both
 updated: '2025-08-11T00:00:00+00:00'
 
 --- # Citizens of Meridian *"We who dwell between the depths and heights know both the pressure of the deep and the freedom of the sky." - Meridian Citizen's Creed* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
+
+
+**Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview - Key information at a glance.
 
 The Citizens of Meridian represent a unique demographic within Aethermoor society, comprising individuals who live and work in the transitional zones between the surface territories and the deeper regions that interface with Aquabyssos. These citizens have developed distinctive cultural practices, technological adaptations, and social structures that reflect their position as intermediaries between two vastly different worlds. Their daily lives involve constant adaptation to pressure changes, environmental shifts, and the complex diplomatic requirements of inter-realm relations. Meridian citizens have evolved specialized skills in pressure adaptation, environmental engineering, and cross-cultural communication that make them invaluable to both Aethermoor and Aquabyssos societies. They serve as translators, negotiators, technical specialists, and cultural ambassadors, bridging the gap between surface and underwater civilizations. Their communities represent some of the most technologically advanced and culturally diverse settlements in either realm. ### Origins
 

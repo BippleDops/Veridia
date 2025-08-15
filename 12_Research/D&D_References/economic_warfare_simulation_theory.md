@@ -50,6 +50,9 @@ modified: '2025-08-14'
 - Embargo and blockade warfare
 - Cultural preference arbitrage ### Economic Warfare Taxonomy **1. Market Manipulation** (35% of economic attacks):
 
+
+**Summary**: Economic Warfare Taxonomy **1. Market Manipulation** (35% of economic attacks): - Key information at a glance.
+
 - **Price Flooding**: Oversupply to crash competitor prices
 - **Artificial Scarcity**: Hoarding to inflate demand
 - **Quality Sabotage**: Damaging competitor reputation

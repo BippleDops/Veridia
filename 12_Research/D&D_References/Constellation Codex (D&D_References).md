@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Constellation Codex
 type: Location
@@ -46,7 +48,7 @@ danger_level: Moderate
 
 --- > [!figure] View # Constellation Codex *"The stars remember what mortals forget."* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
-The Constellation Codex is an ancient tome containing comprehensive knowledge of underwater astronomy, celestial navigation, and the prophetic meanings of star patterns visible from ocean depths. This legendary artifact is said to predict major events by reading celestial omens. The Codex was created by the First Astronomers of Aquabyssos over 800 years ago and has been lost for three centuries. ## Physical Description
+The Constellation Codex is an ancient tome containing comprehensive knowledge of underwater astronomy, celestial navigation, and the prophetic meanings of star patterns visible from ocean depths. This legendary artifact is said to predict major events by reading celestial omens. The created Codex the First Astronomers of Aquabyssos over 800 years ago and has been lost for three centuries. Indeed, ## Physical Description
 
 **Size**: Large tome, 18 inches tall, 12 inches wide, 6 inches thick
 **Weight**: 25 pounds, surprisingly heavy for its size

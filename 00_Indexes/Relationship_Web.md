@@ -1,3 +1,7 @@
+# Relationship Web
+
+> *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
+
 ---
 
 title: Relationship_Web
@@ -21,7 +25,10 @@ publish: false
 
  # Relationship_Web ---
 
-## Description {#description}
+
+## Description
+
+**Details**: Rich sensory elements bring this to life. {#description}
 
 Detailed description pending.
 title: Relationship Web
@@ -86,6 +93,7 @@ WHERE quests-given != OR contains(tags, "quest-giver") ---
 - [[Update Indexes (D&D_References)|Update Indexes (D&D References)]]
 - [[Update Indexes 3 (D&D_References)|Update Indexes 3 (D&D References)]] ## Overview *To be added* ## Goals *To be added* ## Structure *To be added* ## Members *To be added* ## Resources *To be added* ## Relationships *To be added*
 
+
 ## Notes {#notes}
 
 *Additional notes*
@@ -98,3 +106,12 @@ WHERE quests-given != OR contains(tags, "quest-giver") ---
 #gameplay/quest
 #meta/index
 #meta/reference
+## Secrets & Mysteries
+- **Hidden Truth**: Not everything is as it appears
+- **Unanswered Questions**: What remains unknown
+- **Future Revelations**: Discoveries yet to be made
+
+
+**Key Question**: What role will this play in the greater story?
+
+*What happens next is up to you.*

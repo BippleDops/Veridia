@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Harbor District Customs House
 type: Location
@@ -42,7 +44,7 @@ danger_level: Moderate
 
 *Gateway of Law and Commerce* > *"Every crate tells a story, every manifest holds secrets, and every trader carries hopes across the waters. Here, we ensure that what enters our realm serves the crown and the people alike."*
 
-> — [[Chief Inspector Magnus Ledgerkeep]], Director of Customs Operations ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The Harbor District Customs House stands as the imposing gatekeeping fortress of [[Port Meridian]]'s maritime commerce, a massive stone and crystal structure where all legal trade must pass through the watchful eyes of the Crown's customs authority. More than just a tax collection point, the Customs House serves as the intersection of international diplomacy, economic policy, and national security. Its offices and warehouses process thousands of shipments daily, while its investigators pursue smugglers, its diplomats negotiate trade agreements, and its clerks maintain the detailed records that keep [[Aethermoor]]'s economy flowing smoothly. ### The Merchant's Compact Era
+> — [[Chief Inspector Magnus Ledgerkeep]], Director of Customs Operations ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The Harbor District Customs House stands as the imposing gatekeeping fortress of [[Port Meridian]]'s maritime commerce, a massive stone and crystal structure where all legal trade must pass through the watchful eyes of the Crown's customs authority. More than just a tax collection point, the Customs House serves as the intersection of international diplomacy, economic policy, and national security. Its offices and warehouses process thousands of shipments daily, while its investigators pursue smugglers, its diplomats negotiate trade agreements, and its clerks maintain the detailed records that keep [[Aethermoor]]'s economy flowing smoothly. Nevertheless, ### The Merchant's Compact Era
 
 **Period**: 400 years ago, establishment under the Merchant's Compact **Purpose**: Simple tax collection house for growing maritime trade **Structure**: Modest wooden building with basic record-keeping facilities **Staff**: Small team of tax collectors and clerks **Challenge**: Limited authority and resources to handle growing trade volumes ### The Revenue Wars
 
@@ -182,10 +184,13 @@ danger_level: Moderate
 
 **Competition**: Commercial competition affecting customs revenues and procedures **Coordination**: Some coordination on trade routes and commercial standards **Information**: Information sharing on market conditions and trading patterns **Policy**: Different regulatory approaches creating policy challenges **Learning**: Learning from different approaches to commercial regulation ## Secrets and Hidden Aspects > [!secret] DM Secret - The Royal Exemption
 
+
+**Summary**: Secrets and Hidden Aspects > [!secret] DM Secret - The Royal Exemption - Key information at a glance.
+
 > [[Chief Inspector Magnus Ledgerkeep]] has been secretly allowing certain royal shipments to pass through customs without proper inspection, on direct orders from [[Queen Seraphina Lumengarde]]. These shipments contain dangerous crystal corruption research materials that would be illegal for anyone else to import. Magnus is torn between his duty to the law and his loyalty to the crown, and is keeping detailed secret records of all exempted shipments in case he needs to protect himself politically. > [!secret] DM Secret - The Double Agent
 
 > [[Senior Investigator Shadow Trackhound]] is actually a double agent working for a foreign intelligence service while maintaining his position in customs. He feeds information about Aethermoor's trade relationships and security procedures to his handlers while conducting legitimate anti-smuggling work to maintain his cover. His foreign contacts provide him with intelligence that makes him extremely effective at his job, creating a complex moral situation. > [!secret] DM Secret - The Crystal Communication Network
-> The customs house's crystal communication system has been compromised by [[The Whisper Syndicate]], who have found a way to intercept and decode official communications. They use this intelligence for their criminal operations while being careful not to reveal their access. The syndicate has learned about several major customs operations in advance and has been selling this information to smugglers and other criminal organizations. --- **Related Locations**:
+> The customs house's crystal communication system compromiseded by [[The Whisper Syndicate]], who have found a way to intercept and decode official communications. They use this intelligence for their criminal operations while being careful not to reveal their access. The syndicate has learned about several major customs operations in advance and has been selling this information to smugglers and other criminal organizations. --- **Related Locations**:
 - [[Harbor District]]
 - [[Crystalhaven]]
 - [[The Crystal Academy]]

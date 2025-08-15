@@ -39,7 +39,7 @@ modified: '2025-08-14'
 5. [Campaign Management](#campaign-management)
 6. [Player Resources](#player-resources)
 7. [GM Tools & Workflows](#gm-tools--workflows)
-8. [Troubleshooting](#troubleshooting)
+8. Consequently, [Troubleshooting](#troubleshooting)
 9. [Advanced Features](#advanced-features)
 10. [Best Practices](#best-practices) --- ### First-Time Setup (5 Minutes) 1. **Install Required Obsidian Plugins**: - Dataview (for dynamic lists) - Templater (for advanced templates) - Canvas (for relationship mapping) - Calendar (for timeline tracking) 2. **Initial Vault Configuration**:```bash # Navigate to vault directory cd "/path/to/Obsidian TTRPGVault Experimental" # Run initial setup python scripts/content_validator.py --vault-path. Report python scripts/backup_automation.py --vault-path. Backup --type full```3. **Essential Views**: - Open`Master Campaign Index.md`(central hub) - Pin`06_GM_Resources/GM_Toolkit.canvas`(GM dashboard) - Bookmark`07_Player_Resources/Player_Resources.canvas`(player hub) ### Your First 15 Minutes 1. **Explore the Worlds**: - Navigate to`02_Worldbuilding/Lore/Aquabyssos World Overview.md`- Read`02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide.md`2. **Try Campaign Tools**: - Open`06_GM_Resources/Campaign_Timeline_Tracker.md`- Explore`06_GM_Resources/Faction_Network_Tracker.md`3. **Generate Content**: - Run random NPC generator (see [Automation Systems](#automation-systems)) - Create your first session note using templates --- ### Primary Directory Structure```📁 01_Adventures/ # Campaign adventures & session logs
 
@@ -366,6 +366,9 @@ python scripts/update_notification_system.py --vault-path. --digest weekly --- #
 | Parliament of Echoes | Friendly (7) | Aethermoor Government | Diplomatic cooperation |
 | Shadow Conspiracy | Enemy (1) | Crystal Wardens | Ideological opposition | ### Session Planning & Tracking **Template Location**:`05_Templates/Sessions/Session_Planning_Template.md`**Pre-Session Preparation**:
 
+
+**Summary**: Session Planning & Tracking **Template Location**:`05_Templates/Sessions/Session_Planning_Template.md`**Pre-Session Preparation**: - Key information at a glance.
+
 1. **Review Previous Session**: Check consequences and unresolved threads
 2. **Timeline Check**: Identify upcoming events and deadlines 3. **NPC Status**: Update NPC locations, moods, and motivations
 4. **Location Preparation**: Review likely locations and their current state
@@ -399,6 +402,9 @@ python scripts/update_notification_system.py --vault-path. --digest weekly --- #
 - **Cultural Guidelines**: How to play characters from each realm
 - **Reference Materials**: Maps, calendars, and quick rule references
 - **Session Resources**: Handouts, character sheets, and campaign documents #### Realm Selection & Cultural Background **Aquabyssos Characters**:
+
+
+**Summary**: Realm Selection & Cultural Background **Aquabyssos Characters**: - Key information at a glance.
 
 - **Pressure Adaptation**: Can function at extreme depths
 - **Cultural Values**: Honor, duty, collective responsibility

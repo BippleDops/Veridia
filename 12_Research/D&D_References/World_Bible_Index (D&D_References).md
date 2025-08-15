@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: World Bible Index
 type: Lore
@@ -57,7 +59,7 @@ world: Both
 3. [[The Resoce Forge Hammer|02 Worldbuilding/Items/The Resoce Forge Hammer]] — Creation/Transformation
 4. [[The Crystal Heart Shard]] — Life/Energy
 5. [[02_Worldbuilding]] — Darkness/Independence
-6. [[The Dream Shard]] — Consciousness/Reality
+6. Nevertheless, [[The Dream Shard]] — Consciousness/Reality
 7. [[02_Worldbuilding]] — Entropy/Endings ### The Convergence Crisis
 
 

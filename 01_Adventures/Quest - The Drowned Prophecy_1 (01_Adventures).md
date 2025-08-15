@@ -27,6 +27,8 @@ publish: false
 
 ## Description
 
+**Tension**: The urgency of this quest creates palpable tension in the air.
+
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
@@ -41,7 +43,9 @@ Detailed description pending.
 - Main quest goal ### Optional
 
 - Secondary objectives
-- Hidden goals ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Combat Improvements - Add encounter scaling table for parties of 3-6 players, levels 1-20 ### Rewards Improvements - Create treasure parcels for each major encounter ### Structure Improvements - Add three-act structure with rising action ### Choices Improvements - Add meaningful decision points with consequences ### Roleplay Improvements - Include ethical challenges without clear answers ### Props Improvements - List physical props and handouts needed ### Accessibility Improvements - Include content warnings and safety tools ### Worldbuilding Improvements - Connect to three other adventures in the vault ### Session_Zero Improvements - Add session zero integration questions ### Variants Improvements - Add horror, intrigue, and comedy tone variants ### Spotlight Improvements - Include spotlight moment for each character class ### Soundtrack Improvements - Suggest music/ambiance for each scene ### Level_Range Improvements - Provide scaling for different level ranges ### Art Improvements - Add AI art prompts for key scenes ## Adventure Overview An exciting quest that challenges heroes to save the realm. --- *Last Updated: 2025-08-14 19:03* ## DM Notes *Private notes for campaign integration:*
+- Hidden goals ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Combat Improvements - Add encounter scaling table for parties of 3-6 players, levels 1-20 ### Rewards
+
+**Experience Points**: 500 XP per character Improvements - Create treasure parcels for each major encounter ### Structure Improvements - Add three-act structure with rising action ### Choices Improvements - Add meaningful decision points with consequences ### Roleplay Improvements - Include ethical challenges without clear answers ### Props Improvements - List physical props and handouts needed ### Accessibility Improvements - Include content warnings and safety tools ### Worldbuilding Improvements - Connect to three other adventures in the vault ### Session_Zero Improvements - Add session zero integration questions ### Variants Improvements - Add horror, intrigue, and comedy tone variants ### Spotlight Improvements - Include spotlight moment for each character class ### Soundtrack Improvements - Suggest music/ambiance for each scene ### Level_Range Improvements - Provide scaling for different level ranges ### Art Improvements - Add AI art prompts for key scenes ## Adventure Overview An exciting quest that challenges heroes to save the realm. --- *Last Updated: 2025-08-14 19:03* ## DM Notes *Private notes for campaign integration:*
 
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level

@@ -74,7 +74,7 @@ danger_level: Moderate
 
 **Service**: Private spaces for grief counseling and emotional support **Staff**: Trained counselors and spiritual advisors **Healing**: Therapeutic environments promoting emotional healing **Confidentiality**: Complete confidentiality for those seeking help **Resources**: Resources and referrals for ongoing support needs #### The Archive of Souls
 
-**Records**: Comprehensive records of all who have been honored at the site **Genealogy**: Genealogical research services for families **History**: Historical research facilities for scholars and historians **Stories**: Preservation of personal stories and family histories **Access**: Public access for research and family history investigation #### The Preparation Halls
+**Records**: Comprehensive records of all who honoreded at the site **Genealogy**: Genealogical research services for families **History**: Historical research facilities for scholars and historians **Stories**: Preservation of personal stories and family histories **Access**: Public access for research and family history investigation #### The Preparation Halls
 
 **Function**: Facilities for preparing bodies and conducting burial rituals **Tradition**: Respecting various cultural and religious preparation traditions **Staff**: Skilled embalmers and ritual specialists **Families**: Private areas for families to conduct personal ceremonies **Equipment**: Advanced equipment for various preparation techniques #### The Calling of Tides
 
@@ -207,6 +207,9 @@ danger_level: Moderate
 **Referral**: Referral of grief-stricken travelers needing spiritual support **Community**: Shared community members needing both social and spiritual support **Services**: Complementary services supporting different aspects of community life **Information**: Exchange of information about community members and their needs **Cooperation**: Cooperation in supporting travelers and community members ### [[Temple of Echoing Tides]]
 
 **Theology**: Theological cooperation and shared spiritual traditions **Services**: Complementary spiritual services for community members **Training**: Joint training programs for spiritual leaders and counselors **Ceremonies**: Joint ceremonies for major community spiritual events **Philosophy**: Shared philosophical approaches to spirituality and community service ## Secrets and Hidden Aspects > [!secret] DM Secret - The Soul Anchor
+
+
+**Summary**: Secrets and Hidden Aspects > [!secret] DM Secret - The Soul Anchor - Key information at a glance.
 
 > Deep beneath the memorial complex lies an ancient artifact called the Soul Anchor, which actually prevents the souls of the dead from moving on to their final rest. [[Keeper of Sorrows Tidal Memento]] discovered this centuries ago and has been maintaining the artifact because it allows limited communication with the dead and provides comfort to the grieving. However, the growing number of trapped souls is beginning to cause supernatural instabilities, and some souls are becoming restless and potentially dangerous. The Keeper is torn between revealing the truth and losing the comfort the artifact provides to the community. > [!secret] DM Secret - The Living Memorial
 

@@ -57,7 +57,7 @@ world: Aquabyssos
 1. **STOP**: Do not continue descent or random movement
 2. **Signal**: Use light crystals in standard distress pattern
 3. **Conserve**: Preserve breathing apparatus and energy
-4. **Wait**: Rescue teams patrol major routes regularly
+4. However, **Wait**: Rescue teams patrol major routes regularly
 5. **Mark Location**: Use personal items to mark path if forced to move ### Commercial Phrases
 
 

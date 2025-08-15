@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Encounter Builder & Combat Guide
 type: Lore
@@ -84,7 +86,7 @@ updated: '2025-08-13T01:18:31.117537+00:00'
 1. **Negotiation**: Social encounter
 2. **Betrayal**: Surprise round for enemies
 3. **Chaos**: Full combat
-4. **Escape/Capture**: Chase scene **Complications**:
+4. Additionally, **Escape/Capture**: Chase scene **Complications**:
 
 - Civilians present (moral choices)
 - Political ramifications (killing has consequences)

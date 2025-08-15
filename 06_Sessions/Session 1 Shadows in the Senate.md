@@ -1,3 +1,15 @@
+# Session 1 Shadows In The Senate
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+> *An opportunity for greatness awaits...*
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- title: Session 1 Shadows in the Senate
 type: session
 tags:
@@ -31,6 +43,9 @@ world: Aquabyssos
 - Knows something is wrong but not what
 - Afraid she's being watched
 - Will only talk in private * If approached:* > "Please, not here. They have eyes everywhere now. Meet me at the Drowned Scholar tavern tonight. Back room. Come alone - or at least look like you are. I'll explain everything I can, but... But you have to promise to help. Democracy is dying and no one else seems to notice or care." ### Path A: Parliamentary Records **Location**: Parliamentary Archive **Guardian**: Archivist Kelp-Tome (shadow-touched) **Challenges**:
+
+
+**Summary**: Path A: Parliamentary Records **Location**: Parliamentary Archive **Guardian**: Archivist Kelp-Tome (shadow-touched) **Challenges**: - Key information at a glance.
 1. Gain access (Persuasion DC 15 or Deception DC 17)
 2. Navigate archive maze (Investigation DC 14)
 3. Find voting records (History DC 13)
@@ -55,7 +70,7 @@ damage_resistances: necrotic
 senses: darkvision 60 ft.
 languages: Common, Deep Speech
 cr: 3
-actions: - name: Shadow Tendril desc: "Melee Attack: +5 to hit, reach 10 ft., one target. Hit: 10 (2d6 + 3) necrotic damage and target is grappled (escape DC 13)." - name: Memory Drain desc: "One grappled creature must make a DC 13 Wisdom save or forget the last hour."```### Path B: Staff Interviews **Location**: Parliamentary Offices **Key NPCs**: Various staff members **Interview Subjects**:
+actions: - name: Shadow Tendril desc: "Melee Attack: +5 to hit, reach 10 ft., one target. Hit: 10 (2d6 + 3) necrotic damage and target is grappled (escape DC 13)." - name: Memory Drain desc: "One grappled creature must create a DC 13 Wisdom save or forget the last hour."```### Path B: Staff Interviews **Location**: Parliamentary Offices **Key NPCs**: Various staff members **Interview Subjects**:
 1. **Secretary Coral-Ink**: Noticed schedule changes
 2. **Guard Captain Trident**: Reports security anomalies 3. **Janitor Algae-Sweep**: Saw late-night "meetings"
 4. **Chef Brine-Spice**: Parliament members stopped eating **Social Encounter Mechanics**: - Each NPC starts at Trust 0
@@ -92,6 +107,9 @@ actions: - name: Shadow Tendril desc: "Melee Attack: +5 to hit, reach 10 ft., on
 - Democracy is being deliberately destroyed
 - No one in authority can be trusted
 - War between realms might be orchestrated ### The Ambush As the meeting concludes, shadow operatives attack! **Encounter**: Shadow Strike Team - 2 Shadow Operatives (CR 2 each)
+
+
+**Summary**: The Ambush As the meeting concludes, shadow operatives attack! **Encounter**: Shadow Strike Team - 2 Shadow Operatives (CR 2 each) - Key information at a glance.
 - 1 Shadow Enforcer (CR 4)
 - Environmental hazard: Darkness spell name: Shadow Operative alignment: neutral evil
 ac: 15
@@ -124,7 +142,7 @@ traits: - name: Shadow Strike desc: First attack each turn deals extra 2d6 necro
 - Find way to reverse shadow surgery
 - Identify conspiracy leadership
 - Prevent military involvement
-- Save democracy itself ### Key Information to Convey 1. Democracy is being subverted from within
+- Save democracy itself ### Key Information to Convey 1. Democracy subverteds from within
 2. Shadow surgery creates perfect servants
 3. The conspiracy is vast and organized
 4. Time pressure exists (3-day deadline)
@@ -173,3 +191,5 @@ publish: false --- -|-----------|
 #meta/index
 #meta/moc
 #meta/reference
+
+*The adventure continues...*

@@ -1,3 +1,12 @@
+# Session Log.Base
+
+> *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- aliases: ["Session Log.base"]
 created: 2025-08-15
 modified: 2025-08-15
@@ -13,7 +22,9 @@ type: session
 tags:
 - session created: '2025-01-15'
 modified: '2025-01-15'
-- -- # Session Log.base - -- ## Description {#description} Detailed description pending.
+- -- # Session Log.base - -- ## Description
+
+**Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 title: Session Log.base
 aliases:
 - Session Logbase type: Lore
@@ -36,3 +47,7 @@ updated: '2025-08-13T01:18:35.584485+00:00'
 #gameplay/session
 #meta/index
 #meta/reference
+
+**Key Question**: What role will this play in the greater story?
+
+*Every story needs its heroes.*

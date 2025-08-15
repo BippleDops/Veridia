@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: The Party
 type: meta
@@ -77,6 +79,9 @@ Fusion of multiple beings or timelines:
 - **Starting Benefits**: Extra proficiencies, dual nature
 - **Starting Complications**: Personality shifts, paradox attraction
 - **Unique Feature**: Exists in multiple realities simultaneously ### Bonds and Tensions **Creating Inter-Party Bonds**
+
+
+**Summary**: Bonds and Tensions **Creating Inter-Party Bonds** - Key information at a glance.
 
 Roll or choose for each pair of characters: | d12 | Bond Type | Mechanical Benefit |
 |-----|-----------|-------------------|

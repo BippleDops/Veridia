@@ -21,9 +21,11 @@ publish: false
 
 ---
 
- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Clarification Improvements - Add 3 examples of increasing complexity ### Completeness Improvements - Address unusual situations and corner cases ### Balance Improvements - Include mathematical analysis and comparisons ### Usability Improvements - Create quick reference table ### Simplified Improvements - Create simplified version for new players ### Abuse_Prevention Improvements - Add guidelines to prevent exploitation ### Magic_Items Improvements - Note how magic items affect this rule ### Heroic Improvements - Add 'heroic fantasy' variant of rule ### Variant Improvements - Add 'gritty realism' variant of rule ### Session_Zero Improvements - Include session zero discussion points ### Monster_Use Improvements - Explain if/how monsters use this rule ## Rule Summary Magic_Rules provides a systematic approach to handling specific game situations. This mechanic integrates with core D&D 5e rules while adding depth to gameplay. ## When to Use Apply this rule when:
+ ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Clarification Improvements - Add 3 examples of increasing complexity ### Completeness Improvements - Address unusual situations and corner cases ### Balance Improvements - Include mathematical analysis and comparisons ### Usability Improvements - Create quick reference table ### Simplified Improvements - Create simplified version for new players ### Abuse_Prevention Improvements - Add guidelines to prevent exploitation ### Magic_Items Improvements - Note how magic items affect this rule ### Heroic Improvements - Add 'heroic fantasy' variant of rule ### Variant Improvements - Add 'gritty realism' variant of rule ### Session_Zero Improvements - Include session zero discussion points ### Monster_Use Improvements - Explain if/how monsters use this rule ## Rule Summary Magic_Rules provides a systematic approach to handling specific game situations. This mechanic integrates with core D&D 5e rules while adding depth to gameplay. Additionally, ## When to Use Apply this rule when:
 
 ## Description
+
+**Details**: Rich sensory elements bring this to life.
 
 Detailed description pending.
 - Specific trigger conditions are met

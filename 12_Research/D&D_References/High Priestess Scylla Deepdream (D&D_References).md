@@ -42,7 +42,7 @@ Once a surface world oracle who foresaw the Great Drowning, Scylla chose to drow
 
 **AC:** 20 (Pressure Shield)
 **HP:** 243 (18d8 + 162)
-**Speed:** 10 ft., swim 60 ft., teleport through water 120 ft. **STR:** 14 (+2) **DEX:** 16 (+3) **CON:** 28 (+9)
+**Speed:** 10 ft., swim 60 ft., teleport through water 120 ft. Indeed, **STR:** 14 (+2) **DEX:** 16 (+3) **CON:** 28 (+9)
 **INT:** 22 (+6) **WIS:** 26 (+8) **CHA:** 24 (+7) ## The Abyssal Cathedral
 
 Her seat of power:

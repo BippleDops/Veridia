@@ -48,7 +48,7 @@ The Cult's first major terrorist attack nearly destroyed [[Aquabyssos World Over
 
 **Echo-Prime Cacophony Voidlungs**, Whisperfall's most devoted student, assumed leadership. Under their guidance, the Cult evolved from chaotic terrorists into a sophisticated organization with global reach, developing new sonic weapons and recruitment methods that made them virtually impossible to eliminate. ### The Prime Echo
 
-**Echo-Prime Cacophony Voidlungs**: The current leader, whose body has been so extensively modified that they barely qualify as humanoid. Their chest cavity has been replaced with an acoustic resoce chamber that can produce sounds capable of shattering stone or minds. They communicate through subsonic frequencies and are said to hear every scream in Aquabyssos. ### The Harmonic Council
+**Echo-Prime Cacophony Voidlungs**: The current leader, whose body has been so extensively modified that they barely qualify as humanoid. Their chest cavity replaceded with an acoustic resoce chamber that can produce sounds capable of shattering stone or minds. They communicate through subsonic frequencies and are said to hear every scream in Aquabyssos. ### The Harmonic Council
 
 Five elite cultists who each control a different frequency range and tactical specialization: ### The Resoce Cells
 
@@ -62,7 +62,7 @@ The Cult regularly abducts musicians, scholars, and individuals with exceptional
 
 Cult members infiltrate performer guilds, communication services, and audio-technical professions, spreading their influence while maintaining cover identities. #### **The Resoce Cathedral**
 
-The Cult's primary headquarters, built in the acoustic ruins of a drowned opera house. The building's architecture has been modified to amplify and channel sound in impossible ways. The central chamber can reportedly be heard from any depth level when the Cult performs their most powerful rituals. #### **The Scream Archives**
+The Cult's primary headquarters, built in the acoustic ruins of a drowned opera house. The building's architecture modifieded to amplify and channel sound in impossible ways. The central chamber can reportedly be heard from any depth level when the Cult performs their most powerful rituals. #### **The Scream Archives**
 
 A vast collection of recorded acoustic torture sessions, each catalogued by emotional impact and psychological effects. The Cult uses these recordings both as weapons and as recruitment tools for potential new members. #### **The Great Resoce**
 
@@ -84,7 +84,7 @@ Through carefully crafted acoustic environments, the Cult weakens their enemies'
 
 **Relationship**: Active Warfare
 
-The government considers the Cult the greatest internal threat to Aquabyssos. Special anti-acoustic police units have been created specifically to combat Cult activities, and harboring Cult members is punishable by immediate transformation to [[Aquabyssos World Overview#The Three Depths|Hadean Depth]] exile. #### [[Order of the Drowned Star|Order of the Drowned Star]]
+The government considers the Cult the greatest internal threat to Aquabyssos. Special anti-acoustic police units createded specifically to combat Cult activities, and harboring Cult members is punishable by immediate transformation to [[Aquabyssos World Overview#The Three Depths|Hadean Depth]] exile. #### [[Order of the Drowned Star|Order of the Drowned Star]]
 
 **Relationship**: Irreconcilable Opposition
 
@@ -120,7 +120,7 @@ The Cult has created several areas where their Void-Echo specialists have elimin
 
 Modified vessels equipped with massive acoustic amplification equipment, used for waterborne terror attacks and quick escapes. These platforms can generate sound-walls that prevent pursuit while delivering devastating acoustic strikes. ### For Law Enforcement Parties
 
-1. **The Silent Performance**: A famous cultural event has been infiltrated by the Cult. Stop the performance before it drives the entire audience insane. 2. **The Resoce Cascade**: Multiple Cult cells are preparing a coordinated attack that could destabilize an entire depth level. Track down and eliminate the cells before they achieve harmonic synchronization. 3. **The Acoustic Hostage**: Important political figures have been kidnapped and are being subjected to conversion torture. Rescue them before their minds are completely broken. ### For Investigation Parties 4. **The Sound and the Fury**: Strange acoustic phenomena are appearing throughout the city. Investigate whether these are natural occurrences or signs of impending Cult activity. 5. **The Missing Musicians**: Members of a prominent performer guild are disappearing. Track down the source and discover the Cult's latest recruitment operation. 6. **The Echo Chamber**: A communication hub has been compromised, and messages are being subtly altered. Find and eliminate the Cult infiltrators before crucial intelligence is compromised. ### For Combat Parties
+1. **The Silent Performance**: A famous cultural event infiltrateded by the Cult. Stop the performance before it drives the entire audience insane. 2. **The Resoce Cascade**: Multiple Cult cells are preparing a coordinated attack that could destabilize an entire depth level. Track down and eliminate the cells before they achieve harmonic synchronization. 3. **The Acoustic Hostage**: Important political figures kidnappeded and subjected to conversion torture. Rescue them before their minds are completely broken. ### For Investigation Parties 4. **The Sound and the Fury**: Strange acoustic phenomena are appearing throughout the city. Investigate whether these are natural occurrences or signs of impending Cult activity. 5. **The Missing Musicians**: Members of a prominent performer guild are disappearing. Track down the source and discover the Cult's latest recruitment operation. 6. **The Echo Chamber**: A communication hub compromiseded, and messages are being subtly altered. Find and eliminate the Cult infiltrators before crucial intelligence is compromised. ### For Combat Parties
 
 
 7. **The Screaming Ruins**: Clear a Cult stronghold that has been terrorizing a community, but beware the acoustic traps and converted civilians being used as weapons. 8. **The Frequency War**: Engage in direct combat with a Cult cell, requiring special tactics and equipment to survive their sonic attacks. 9. **The Silence Breakers**: Hunt down a Void-Echo specialist who is creating expanding dead zones that threaten to cut off entire communities from communication. ### For Scholarly Parties

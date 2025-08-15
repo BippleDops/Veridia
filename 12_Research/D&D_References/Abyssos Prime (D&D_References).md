@@ -22,7 +22,7 @@ publish: false
 
 This document contains important information regarding Abyssos Prime and its role within the greater narrative. ## Description
 
-Abyssos Prime represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
+Abyssos Prime represents a significant element within the campaign world, offering various opportunities for engagement and development. Therefore, ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements

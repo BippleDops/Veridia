@@ -162,6 +162,9 @@ Surface agents are attempting to undermine confidence in the Trade Seal by creat
 
 Research reveals that the Trade Seal contains fragments of [[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]], making it crucial to preventing [[The Convergence Crisis|02 Worldbuilding/Lore/The Convergence Crisis]]. Characters must protect the Seal from those who would exploit its power while uncovering its true origins. ## Secrets for the DM > [!secret] DM Secret - The True Power Source
 
+
+**Summary**: Secrets for the DM > [!secret] DM Secret - The True Power Source - Key information at a glance.
+
 > The Trade Seal doesn't just contain fragments of [[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]—it IS one of the Seven Shards, disguised and repurposed by [[Thalassius the Wise|02 Worldbuilding/Lore/Thalassius The Wise]]. Its authentication powers are actually reality-anchoring abilities, preventing documents from being altered by dimensional shifts or timeline changes. > [!secret] DM Secret - The Consciousness Within > The Seal contains a fragment of [[Thalassius the Wise|02 Worldbuilding/Lore/Thalassius The Wise]]'s consciousness, allowing it to make moral judgments about its use. This intelligence occasionally communicates with worthy bearers through dreams or subtle magical impressions, providing guidance about governmental decisions. > [!secret] DM Secret - The Network Connection
 
 > The Trade Seal is connected to similar artifacts in other major civilizations, creating a hidden network of authentication devices that could be used for instant communication or coordinated action across vast distances. Discovering this network could revolutionize international relations—or create new vulnerabilities. > [!secret] DM Secret - The Convergence Key

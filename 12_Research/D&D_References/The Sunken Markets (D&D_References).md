@@ -78,7 +78,7 @@ The Markets occupy a series of partially flooded caves and ruins that predate th
 > - The Crimson Shard in the harbor is slowly awakening something beneath
 > - Harbormistress Coral is actually three beings sharing one body
 > - The translation crystals are recording all conversations for unknown purposes
-> - Several major surface merchants have been replaced by deep-dwelling shapeshifters
+> - Several major surface merchants replaceded by deep-dwelling shapeshifters
 > - The tidal anomalies are counting down to a specific convergence event ## Plot Hooks
 
 1. Diplomatic escort for sensitive negotiations between surface and deep

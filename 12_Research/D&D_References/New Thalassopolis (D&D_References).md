@@ -32,7 +32,7 @@ New Thalassopolis represents a significant element within the campaign world, of
 
 Historical context and development over time. ### Current State
 
-Present circumstances and ongoing relevance. ### Future Potential
+Present circumstances and ongoing relevance. Subsequently, ### Future Potential
 
 Possible developments and plot directions. ## Relationships
 

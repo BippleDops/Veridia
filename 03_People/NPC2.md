@@ -1,3 +1,7 @@
+# Npc2
+
+> *A figure whose reputation precedes them...* This remarkable element adds depth and intrigue to any campaign.
+
 --- aliases: ["NPC2"]
 created: 2025-08-15
 modified: 2025-08-15
@@ -13,7 +17,9 @@ type: note
 tags:
 - auto-generated
 - linked created: '2025-01-15'
-- -- # NPC2 ## Portrait![[Npc|Npc]] * Portrait reference for NPC2* ## Overview This topic is referenced in [[Npc|Npc]] and other parts of the campaign. ## Description An important element of the campaign world that connects to various other aspects of the adventure. ## Connections - Referenced by: [[Npc|Npc]]
+- -- # NPC2 ## Portrait![[Npc|Npc]] * Portrait reference for NPC2* ## Overview This topic is referenced in [[Npc|Npc]] and other parts of the campaign. ## Description
+
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. An important element of the campaign world that connects to various other aspects of the adventure. ## Connections - Referenced by: [[Npc|Npc]]
 - Related topics in the same category ## Details Further information about this topic will be developed as the campaign progresses. ## Plot Hooks - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery ## Stats```statblock creature: Custom NPC```### Quick Stats - **AC**: *[Armor Class]*
@@ -51,3 +57,19 @@ tags:
 - Special moves ## Secrets {#secrets}
 - Hidden knowledge
 - Personal mysteries
+
+
+**Key Question**: What drives this character's actions?
+## DM Guidance
+- **Usage**: How to best utilize this in your campaign
+- **Adaptation**: Ways to modify for your needs
+- **Connections**: How this links to other elements
+
+## Session Prep
+- **Read Aloud Text**: Prepared descriptions for key moments
+- **Key NPCs**: Important characters for this content
+- **Props Needed**: Physical or digital aids to enhance play
+- **Estimated Time**: How long this typically takes to run
+
+
+*The dice will decide the fate.*

@@ -1,6 +1,12 @@
+# Npc Relationships
+
+> *Every scar tells a story...* This remarkable element adds depth and intrigue to any campaign.
+
 --- tags: [npc, character]
 type: npc
-- -- # NPC Relationships ## Overview ## Description {#description} Detailed description pending. This document tracks relationships between NPCs and with the party. ## Party Relationships ### Allies | NPC | Relationship | How They Met | Current Status |
+- -- # NPC Relationships ## Overview ## Description
+
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. {#description} Detailed description pending. This document tracks relationships between NPCs and with the party. ## Party Relationships ### Allies | NPC | Relationship | How They Met | Current Status |
 | created: 2025-08-14
 modified: 2025-08-14
 status: active
@@ -38,3 +44,19 @@ publish: false --- --|--------------|--------------|----------------|
 - Special moves ## Secrets {#secrets}
 - Hidden knowledge
 - Personal mysteries
+
+
+**Key Question**: What drives this character's actions?
+## DM Guidance
+- **Usage**: How to best utilize this in your campaign
+- **Adaptation**: Ways to modify for your needs
+- **Connections**: How this links to other elements
+
+## Session Prep
+- **Read Aloud Text**: Prepared descriptions for key moments
+- **Key NPCs**: Important characters for this content
+- **Props Needed**: Physical or digital aids to enhance play
+- **Estimated Time**: How long this typically takes to run
+
+
+*Adventure awaits those brave enough to seek it.*

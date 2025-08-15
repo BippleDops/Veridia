@@ -43,7 +43,7 @@ world: Both
 
 **Corrupted crystals pose extreme danger to mental and physical health. Do not handle suspected corrupted materials without proper protective equipment and training.** ### Before Contact
 
-1. **Risk Assessment**: Evaluate corruption level and necessary protection
+1. Moreover, **Risk Assessment**: Evaluate corruption level and necessary protection
 2. **Team Preparation**: Never work alone, minimum 2-person teams
 3. **Equipment Check**: Verify all protective gear is functioning
 4. **Extraction Plan**: Establish clear evacuation routes and procedures

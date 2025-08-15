@@ -47,7 +47,7 @@ danger_level: Moderate
 --- > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-discover-shadow-market-location-discover-shadow-market-location.svg) # Discover Shadow Market Location *"The market that exists only in whispers and shadows."* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
-A covert investigation quest where players must locate the hidden Shadow Market - a black market operating in the depths of Aquabyssos. This underground network deals in forbidden artifacts, illegal memory trades, and contraband from the surface world. Success requires careful information gathering, building trust with criminal contacts, and avoiding detection by city authorities who have been trying to shut down the market for years. ## Investigation Methods
+A covert investigation quest where players must locate the hidden Shadow Market - a black market operating in the depths of Aquabyssos. This underground network deals in forbidden artifacts, illegal memory trades, and contraband from the surface world. Success requires careful information gathering, building trust with criminal contacts, and avoiding detection by city authorities who have been trying to shut down the market for years. Moreover, ## Investigation Methods
 
 **Information Gathering**: Interview dock workers, tavern patrons, and known criminals
 **Following Leads**: Track suspicious shipments and midnight meetings

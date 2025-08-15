@@ -61,7 +61,7 @@ The Purification Gardens serve as Aethermoor's sacred healing sanctuary, where m
 **Pilgrims' Rest:** Simple accommodations for those seeking long-term treatment ## The Seven Pools
 
 1. **Pool of Renewal:** Physical healing and regeneration
-2. **Pool of Clarity:** Mental purification and curse removal
+2. However, **Pool of Clarity:** Mental purification and curse removal
 3. **Pool of Peace:** Emotional healing and trauma recovery
 4. **Pool of Truth:** Reveals hidden corruption or deception
 5. **Pool of Memory:** Restores lost or damaged memories

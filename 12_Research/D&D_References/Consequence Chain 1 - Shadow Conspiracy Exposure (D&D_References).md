@@ -52,6 +52,9 @@ primary_sessions:
 
 *The Unraveling of the Parliament's Dark Secret* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Initial Action **What the players did:**
 
+
+**Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Initial Action **What the players did:** - Key information at a glance.
+
 - Investigated the Gallery of Frozen Waves after witnessing party member replacement by reflection
 - Confronted memory farmers in the Memory Meadows and rescued Senator Glaucus
 - Uncovered evidence of systematic shadow replacement throughout Parliament
@@ -69,6 +72,9 @@ primary_sessions:
 - Shadow surgery schedules and target lists recovered
 - Party member reflection crisis resolved through negotiation/banishment
 - Tuning Fork and harmonic knowledge gained from The Conductor ## Primary Ripples (Days/Weeks) **Economic impacts:**
+
+
+**Summary**: Primary Ripples (Days/Weeks) **Economic impacts:** - Key information at a glance.
 
 - Memory market collapsed as farming operations ceased (-60% memory trade)
 - Shadow economy in Tenebrarum disrupted, forcing underground operations

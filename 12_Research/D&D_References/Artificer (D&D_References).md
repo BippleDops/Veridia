@@ -46,7 +46,7 @@ danger_level: Moderate
 
 --- > [!figure] View # Artificer *"Magic and mechanism dance together in perfect harmony."* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
-Master Artificer Cogwheel Sparkwright is Aethermoor's premier inventor and magical engineer, operating a workshop in the Innovation District where she creates wondrous items that blend magic and technology. Her inventions range from practical household items to complex magical devices. Her reputation for quality work and innovative solutions has earned her clientele from across all social classes, though her eccentric personality and explosive experiments sometimes cause complications. ## Statistics
+Master Artificer Cogwheel Sparkwright is Aethermoor's premier inventor and magical engineer, operating a workshop in the Innovation District where she creates wondrous items that blend magic and technology. Her inventions range from practical household items to complex magical devices. Her reputation for quality work and innovative solutions has earned her clientele from across all social classes, though her eccentric personality and explosive experiments sometimes cause complications. Moreover, ## Statistics
 
 **Medium humanoid (gnome)**
 - **AC** 15 (Studded Leather + Natural Armor), **HP** 65, **Speed** 25 ft

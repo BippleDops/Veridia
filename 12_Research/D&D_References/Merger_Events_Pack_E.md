@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: "Merger Events Pack E \u2014 Legendary Tier (Breach Zones)"
 type: gm_resource

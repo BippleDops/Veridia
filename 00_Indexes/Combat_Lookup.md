@@ -1,3 +1,12 @@
+# Combat Lookup
+
+> *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- title: Combat_Lookup
 type: note
 tags:
@@ -11,7 +20,9 @@ category: 00 Indexes
 subcategory: Combat Lookup.Md
 related: []
 cssclass: standard
-publish: false --- # Combat_Lookup --- ## Description {#description} Detailed description pending.
+publish: false --- # Combat_Lookup --- ## Description
+
+**Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 title: Combat Lookup
 type: search-tool
 tags:
@@ -39,10 +50,11 @@ modified: '2025-08-14' --- # Combat Lookup > Quick combat reference searches ## 
 | 4 | Option D |
 | 5 | Option E |
 | 6 | Option F | ## DM Tips > 💡 **Running This Content**: Advice for game masters > Adjust difficulty based on party composition
+
 ## Action Economy ### On Your Turn (PHB p.189) {#action-economy-###-on-your-turn-(phb-p.189)} - **Movement**: Up to your speed
 - **Action**: One action from available options
 - **Bonus Action**: If you have an ability that uses it
-- **Free Actions**: Interact with one object, speak ### Actions Available (PHB p.192) - **Attack**: Make one attack (more with Extra Attack)
+- **Free Actions**: Interact with one object, speak ### Actions Available (PHB p.192) - **Attack**: create one attack (more with Extra Attack)
 - **Cast a Spell**: Cast time of 1 action
 - **Dash**: Double movement
 - **Disengage**: No opportunity attacks
@@ -58,3 +70,7 @@ modified: '2025-08-14' --- # Combat Lookup > Quick combat reference searches ## 
 #story/story
 #meta/index
 #meta/reference
+
+**Key Question**: What role will this play in the greater story?
+
+*Every story needs its heroes.*

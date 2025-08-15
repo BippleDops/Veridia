@@ -21,7 +21,12 @@ publish: false
 
  # Side Adventures ## Overview
 
+**Difficulty**: Moderate (Levels 3-5)
+
+
 This topic is referenced in [[deep_quality_enhancement_20250814_175143]] and other parts of the campaign. ## Description
+
+**Tension**: The urgency of this quest creates palpable tension in the air.
 
 An important element of the campaign world that connects to various other aspects of the adventure. ## Connections
 
@@ -63,6 +68,8 @@ Further information about this topic will be developed as the campaign progresse
 - *[Major locations to visit]* ### Optional Areas
 
 - *[Side locations]* ## Rewards
+
+**Experience Points**: 500 XP per character
 
 *[What PCs gain from completing this adventure]* ### Experience Points
 

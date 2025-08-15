@@ -61,6 +61,9 @@ obsidian UIMode: preview
 
 The Depth Wardens are Aquabyssos's most specialized and secretive military unit, tasked with protecting the deepest ocean territories where conventional forces cannot operate. Unlike the Pearl Guard who protect the city proper, the Depth Wardens venture into the crushing depths, abyssal trenches, and otherworldly caverns that extend far beneath the known ocean floor. They serve as both explorers and guardians, investigating deep-sea anomalies, containing eldritch threats, and maintaining the ancient barriers that protect Aquabyssos from the things that dwell in the deepest waters. Their motto: "Where Light Dies, We Stand Watch." ### Specialized Divisions **The Abyssal Scouts**
 
+
+**Summary**: Specialized Divisions **The Abyssal Scouts** - Key information at a glance.
+
 - *Role*: Long-range reconnaissance in deepest territories
 - *Training*: Extreme depth survival, eldritch resistance, stealth operations
 - *Equipment*: Void-touched gear, pressure immunity enchantments, long-range communication crystals **The Barrier Keepers**
@@ -79,6 +82,9 @@ The Depth Wardens are Aquabyssos's most specialized and secretive military unit,
 3. **Barrier Theory** (4 months) - Understanding of protective magical systems
 4. **Combat Specialization** (6 months) - Fighting techniques for deep-sea environments
 5. **Final Trial** (1 month) - Solo mission to deepest accessible territory ### Primary Responsibilities **Border Patrol of the Deep**
+
+
+**Summary**: Primary Responsibilities **Border Patrol of the Deep** - Key information at a glance.
 
 
 - Monitor the boundaries between known and unknown waters

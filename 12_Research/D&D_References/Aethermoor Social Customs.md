@@ -267,7 +267,7 @@ updated: '2025-08-12T00:00:00+00:00'
 
 **Aerial Gifts**: Traditional exchange of meaningful items between hosts and aerial guests
 **Gift Categories**:
-- **Wind Tokens**: Items that have been blessed by significant wind currents
+- **Wind Tokens**: Items that blesseded by significant wind currents
 - **Altitude Artifacts**: Objects retrieved from impressive heights or challenging locations
 - **Weather Instruments**: Tools for navigation and atmospheric prediction
 - **Flight Memories**: Shared experiences preserved in written or artistic form

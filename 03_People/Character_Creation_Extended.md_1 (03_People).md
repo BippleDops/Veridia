@@ -1,3 +1,7 @@
+# Character Creation Extended.Md 1 (03 People)
+
+> *Not all allies are what they seem...* This remarkable element adds depth and intrigue to any campaign.
+
 --- aliases: ["Character Creation Extended.md 1 (03 People)"]
 created: 2025-08-15
 modified: 2025-08-15
@@ -20,7 +24,9 @@ tags:
 - npc title: Character Creation Extended.md
 type: npc
 updated: 2025-08-14
-- -- # Character_Creation_Extended.md_1 ## Portrait![[Character_Creation_Extended|Character Creation Extended]] * Portrait reference for Character_Creation_Extended.md_1 (03_People)* ## Overview ## Description {#description} Detailed description pending. Character_Creation_Extended.md_1 is a notable figure in the realm, known for their unique skills and complex motivations. ## Appearance - **Age**: Middle-aged
+- -- # Character_Creation_Extended.md_1 ## Portrait![[Character_Creation_Extended|Character Creation Extended]] * Portrait reference for Character_Creation_Extended.md_1 (03_People)* ## Overview ## Description
+
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. {#description} Detailed description pending. Character_Creation_Extended.md_1 is a notable figure in the realm, known for their unique skills and complex motivations. ## Appearance - **Age**: Middle-aged
 - **Build**: Average height, lean build
 - **Distinguishing Features**: Keen eyes that miss nothing
 - **Typical Attire**: Practical clothing suited for their profession ## Personality - **Traits**: Observant, calculating, pragmatic
@@ -64,3 +70,11 @@ updated: 2025-08-14
 - Special moves ## Secrets {#secrets}
 - Hidden knowledge
 - Personal mysteries
+
+
+**Key Question**: What drives this character's actions?
+
+*What happens next is up to you.*
+
+## Thematic Elements
+This content explores themes of hope against darkness, adding narrative depth to your campaign.

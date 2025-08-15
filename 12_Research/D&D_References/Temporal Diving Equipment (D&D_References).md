@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Tactile Qualities**: The surface feels [texture] to the touch, with [weight/temperature] properties.
+
 Detailed description pending.
 title: Temporal Diving Equipment
 type: Lore

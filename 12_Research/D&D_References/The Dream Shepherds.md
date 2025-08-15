@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: The Dream Shepherds
 type: Lore
@@ -61,7 +63,7 @@ updated: '2025-08-11T00:00:00+00:00'
 
 --- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## The Order of Eternal Vigilance **The Dream Shepherds** are a mystical order dedicated to protecting the sleeping minds of both [[Aethermoor]] and [[Aquabyssos]] from the intrusions of cosmic horror entities that operate through dreams and subconscious influence. Unlike traditional guardians who protect physical locations, the Dream Shepherds patrol the realm of sleep itself, guiding lost dreamers back to safety and intercepting nightmares before they can manifest as reality alterations. ### The Origin The Dream Shepherds emerged during the early years following the creation of [[Aquabyssos]], when settlers began experiencing shared nightmares that seemed to pull physical objects and even people into dream-reality. Investigation revealed that the dimensional barriers weakened during sleep, allowing entities like the [[Deep Mother]] to influence minds across both worlds simultaneously. The first Dream Shepherd was **Morpheus Driftwatch**, a scholar who discovered that by maintaining partial consciousness during sleep, he could enter others' dreams and guide them away from dangerous mental territories. However, this practice came at a terrible cost - Dream Shepherds gradually lose their ability to dream naturally, eventually becoming beings who exist primarily in the dream realm while their physical bodies require constant care. ### Shepherding Lost Dreamers
 
-Dream Shepherds patrol the collective unconscious of both worlds, seeking individuals whose dreams have been hijacked by malevolent forces. They appear as comforting figures - often taking the form of deceased loved ones, wise mentors, or protective animals - to guide dreamers back toward healthy sleep cycles. Their work involves:
+Dream Shepherds patrol the collective unconscious of both worlds, seeking individuals whose dreams hijackeded by malevolent forces. They appear as comforting figures - often taking the form of deceased loved ones, wise mentors, or protective animals - to guide dreamers back toward healthy sleep cycles. Their work involves:
 - **Nightmare Intervention**: Entering terrifying dreams to provide escape routes and protective presence
 - **Memory Quarantine**: Isolating dangerous knowledge obtained through dream-contact with cosmic entities
 - **Reality Anchoring**: Helping dreamers distinguish between dream experiences and waking reality
@@ -92,7 +94,7 @@ Shepherds who have completely abandoned physical existence to become permanent r
 
 Recent Dream Shepherd reports describe an alarming pattern: nightmares across both worlds are becoming more coordinated and sophisticated. Rather than random terror experiences, dreams are beginning to carry specific messages, teaching alien concepts and preparing minds for some form of mass transformation. ### The Echo Intervention
 
-[[Marina's Echo]] has become a priority case for the Dream Shepherds. Her fractured consciousness creates dreams that bleed across multiple reality streams, potentially destabilizing the boundary between dream and waking experience for anyone who encounters her sleeping mind. Multiple Dream Walkers have been assigned to monitor her rest cycles. ### The Convergence Dreams
+[[Marina's Echo]] has become a priority case for the Dream Shepherds. Her fractured consciousness creates dreams that bleed across multiple reality streams, potentially destabilizing the boundary between dream and waking experience for anyone who encounters her sleeping mind. Multiple Dream Walkers assigneded to monitor her rest cycles. ### The Convergence Dreams
 
 As dimensional barriers weaken, individuals from both worlds are beginning to share dreams - surface dwellers dreaming of underwater cities they've never seen, Aquabyssos residents experiencing memories of breathing air. The Dream Shepherds work to contain these cross-dimensional dream contacts while studying them for intelligence about the approaching convergence. ### The Shepherd's Crisis
 

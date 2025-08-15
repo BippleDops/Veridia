@@ -22,7 +22,9 @@ publish: false
 
 This document contains important information regarding Sky_Sailor_Fighter and its role within the greater narrative. ## Description
 
-Sky_Sailor_Fighter represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
+**Details**: Rich sensory elements bring this to life.
+
+Sky_Sailor_Fighter represents a significant element within the campaign world, offering various opportunities for engagement and development. Meanwhile, ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements

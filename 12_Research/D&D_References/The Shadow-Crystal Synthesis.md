@@ -23,6 +23,8 @@ publish: false
 
 This document contains important information regarding The Shadow-Crystal Synthesis and its role within the greater narrative. ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 The Shadow-Crystal Synthesis represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
@@ -31,7 +33,7 @@ The Shadow-Crystal Synthesis represents a significant element within the campaig
 
 ### Background
 
-Historical context and development over time. ### Current State
+Historical context and development over time. Moreover, ### Current State
 
 Present circumstances and ongoing relevance. ### Future Potential
 

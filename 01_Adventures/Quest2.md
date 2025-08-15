@@ -1,3 +1,14 @@
+# Quest2
+
+
+## Contents
+  - [Primary](#primary)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Alternative Solutions](#alternative-solutions)
+
+
 ---
 
 title: Quest2
@@ -29,6 +40,7 @@ publish: false
 - **Location**: Town center
 - **Motivation**: Community safety ## Objectives
 
+
 ### Primary
 
 - Main quest goal ### Optional
@@ -36,7 +48,12 @@ publish: false
 - Secondary objectives
 - Hidden goals ## Overview
 
+**Difficulty**: Moderate (Levels 3-5)
+
+
 This topic is referenced in [[Npc]] and other parts of the campaign. ## Description
+
+**Tension**: The urgency of this quest creates palpable tension in the air.
 
 An important element of the campaign world that connects to various other aspects of the adventure. ## Connections
 
@@ -78,6 +95,8 @@ Further information about this topic will be developed as the campaign progresse
 - *[Major locations to visit]* ### Optional Areas
 
 - *[Side locations]* ## Rewards
+
+**Experience Points**: 500 XP per character
 
 *[What PCs gain from completing this adventure]* ### Experience Points
 
@@ -129,6 +148,7 @@ Further information about this topic will be developed as the campaign progresse
 - [[NPC_Template_1 (09_Templates)]]
 
 
+
 ## Notes
 
 *Additional notes*
@@ -148,9 +168,11 @@ Further information about this topic will be developed as the campaign progresse
 #resource/treasure
 #meta/reference
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -158,6 +180,15 @@ Further information about this topic will be developed as the campaign progresse
 - Antagonists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+## DM Guidance
+- **Usage**: How to best utilize this in your campaign
+- **Adaptation**: Ways to modify for your needs
+- **Connections**: How this links to other elements
+
+
+**Balance Note**: Adjust creature numbers based on party size and level.

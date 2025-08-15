@@ -63,6 +63,9 @@ updated: '2025-08-11T00:00:00+00:00'
 
 *The Golden Heart of Commerce* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The Merchant Quarter forms the bustling commercial core of [[Port Meridian|02 Worldbuilding/Places/Port Meridian]], where fortunes are made and lost with the changing tides. This sprawling district of markets, warehouses, counting houses, and trading posts serves as the primary economic engine for all of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]. Here, crystal-powered cargo lifters move goods from dozens of nations, while merchants from [[Crystalhaven|02 Worldbuilding/Places/Crystalhaven]], [[Ironhold|02 Worldbuilding/Places/Ironhold]], [[Sylvanheart|02 Worldbuilding/Places/Sylvanheart]], and even the mysterious underwater realm of [[Aquabyssos]] conduct business in a controlled chaos of commerce. The Quarter operates under the watchful eye of [[Trade Master Silas Goldwater]] and the [[Merchant Council of Port Meridian]], who ensure that profits flow freely while maintaining enough order to prevent complete anarchy. The district runs on crystal-powered clockwork precision during the day, transforming into a den of deals, schemes, and shadowy negotiations after dark. ### The Grand Bazaar
 
+
+**Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The Merchant Quarter forms the bustling commercial core of [[Port Meridian|02 Worldbuilding/Places/Port Meridian]], where fortunes are made and lost with the changing tides. This sprawling district of markets, warehouses, counting houses, and trading posts serves as the primary economic engine for all of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]. Here, crystal-powered cargo lifters move goods from dozens of nations, while merchants from [[Crystalhaven|02 Worldbuilding/Places/Crystalhaven]], [[Ironhold|02 Worldbuilding/Places/Ironhold]], [[Sylvanheart|02 Worldbuilding/Places/Sylvanheart]], and even the mysterious underwater realm of [[Aquabyssos]] conduct business in a controlled chaos of commerce. The Quarter operates under the watchful eye of [[Trade Master Silas Goldwater]] and the [[Merchant Council of Port Meridian]], who ensure that profits flow freely while maintaining enough order to prevent complete anarchy. The district runs on crystal-powered clockwork precision during the day, transforming into a den of deals, schemes, and shadowy negotiations after dark. ### The Grand Bazaar - Key information at a glance.
+
 Central marketplace covering 20 square blocks, designed in concentric circles: **The Golden Circle (Center)**
 - **[[The Crystal Exchange]]** - Primary crystal trading floor with [[Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] representatives
 - **[[The Scales of Fortune]]** - Largest general trading house, owned by [[Merchant Prince Aurelius Goldhand]]
@@ -251,6 +254,9 @@ The governing council has secret goals beyond simple commerce:
 - Military buildup disguised as commercial security
 - Secret negotiations with foreign powers for protection
 - Development of crystal-powered super-weapons for defense ### Adventure Opportunities **The Great Heist**
+
+
+**Summary**: Adventure Opportunities **The Great Heist** - Key information at a glance.
 
 Investigate the theft of an entire warehouse worth of crystals:
 - Inside job with connections to [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]

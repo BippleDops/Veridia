@@ -49,6 +49,9 @@ updated: '2025-08-11T00:00:00+00:00'
 
 The Wind Rider Traditions represent the heart and soul of Aethermoor's aerial culture, encompassing centuries of customs, rituals, and practices developed by those who make their lives among the clouds. From the elite Sky Knights to humble Cloud Shepherds, these traditions bind together a society that exists in constant motion, where mastery of wind and weather determines not just survival, but social standing, spiritual connection, and cultural identity. ### Sky Knights - The Storm Masters
 
+
+**Summary**: Sky Knights - The Storm Masters - Key information at a glance.
+
 **Elite Status:** Military aristocracy and aerial combat specialists
 **Mount Traditions:** Partner with Greater Wind Drakes or Storm Eagles from adolescence
 **Cultural Role:** Protectors of sky cities, leaders in aerial warfare
@@ -68,6 +71,9 @@ The Wind Rider Traditions represent the heart and soul of Aethermoor's aerial cu
 - "Sky Funeral" - honored dead released to the winds from great heights
 - "Mount Bonding" - sacred ceremony linking rider and aerial creature
 - "Wind Duel" - formal combat resolved in aerial single combat ### Cloud Shepherds - The Drift Guardians
+
+
+**Summary**: Cloud Shepherds - The Drift Guardians - Key information at a glance.
 
 **Professional Role:** Manage weather patterns and atmospheric livestock
 **Specialization:** Guide cloud formations, tend sky-grazing creatures
@@ -304,7 +310,7 @@ The Wind Rider Traditions represent the heart and soul of Aethermoor's aerial cu
 5. **Weather War**: Competing communities use weather magic against each other
 6. **The Migration Mystery**: Sky creatures change traditional routes, threatening shepherd communities
 7. **Aerial Archaeological Expedition**: Explore ancient ruins accessible only by flight
-8. **The Wind Whisperer's Test**: Prove worthiness to learn advanced weather magic ## Connected Organizations
+8. Meanwhile, **The Wind Whisperer's Test**: Prove worthiness to learn advanced weather magic ## Connected Organizations
 
 
 - [[Groups]] - Professional organization maintaining aerial traditions

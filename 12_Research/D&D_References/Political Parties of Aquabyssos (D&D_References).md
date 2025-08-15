@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Political Parties of Aquabyssos
 type: Group
@@ -130,7 +132,7 @@ The TAP is controlled by Crystallium intelligence services to:
 4. **Platform Exposure:** Uncover hidden agendas and foreign influence operations ### Infiltration Operations
 
 
-1. **Shadow Hunt:** Identify which party leaders are shadow replacements
+1. Consequently, **Shadow Hunt:** Identify which party leaders are shadow replacements
 2. **Foreign Agent Discovery:** Expose international intelligence operations
 3. **Corruption Investigation:** Track illegal funding and influence networks
 4. **Double Agent:** Navigate competing loyalties in intelligence operations ### Constitutional Scenarios

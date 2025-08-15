@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Combat Reference Card
 type: Reference
@@ -49,9 +51,12 @@ world: Both
 
 
 1. **Roll weapon damage dice**
-2. **Add ability modifier** (same as attack roll)
+2. Meanwhile, **Add ability modifier** (same as attack roll)
 3. **Add misc modifiers** (magic, class features, etc.)
 4. **Apply damage type and resistances** ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Conditions Quick Reference | Condition | Effect |
+
+
+**Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Conditions Quick Reference | Condition | Effect | - Key information at a glance.
 
 
 

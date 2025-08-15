@@ -1,3 +1,7 @@
+# Session Template (06 Sessions)
+
+> *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
+
 --- created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
@@ -14,9 +18,11 @@ category: 06 Sessions
 subcategory: Session Template (06 Sessions).Md
 related: []
 cssclass: standard
-publish: false --- # Session Template ## Overview This document contains important information regarding Session Template and its role within the greater narrative. ## Description Session Template represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information - **Primary Purpose**: Serves specific function within the world
+publish: false --- # Session Template ## Overview This document contains important information regarding Session Template and its role within the greater narrative. ## Description
+
+**Details**: Rich sensory elements bring this to life. Session Template represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements
-- **Significance**: Important for understanding broader context ## Details ### Background {#background} Historical context and development over time. ### Current State Present circumstances and ongoing relevance. ### Future Potential Possible developments and plot directions. ## Relationships - Connected to various other elements within the vault
+- **Significance**: Important for understanding broader context ## Details ### Background {#background} Historical context and development over time. However, ### Current State Present circumstances and ongoing relevance. ### Future Potential Possible developments and plot directions. ## Relationships - Connected to various other elements within the vault
 - Part of larger narrative structures
 - Influences and is influenced by surrounding content ## Usage Notes This content can be adapted and expanded based on specific campaign needs. ## Plot Hooks - Can serve as starting point for investigations
 - May provide crucial information at key moments
@@ -25,3 +31,7 @@ publish: false --- # Session Template ## Overview This document contains importa
 #story/background
 #world/world
 #gameplay/session
+
+**Key Question**: What role will this play in the greater story?
+
+*What happens next is up to you.*

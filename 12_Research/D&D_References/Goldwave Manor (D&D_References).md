@@ -22,6 +22,9 @@ publish: false
 
 ## Description
 
+
+**Summary**: Description - Key information at a glance.
+
 Detailed description pending.
 title: Goldwave Manor
 type: location
@@ -95,6 +98,9 @@ The manor's most distinctive feature consists of walls constructed from speciall
 Built upon a foundation of rare crystal formations naturally occurring beneath the site, the manor draws power from these geological features to maintain its magical systems. The crystals also provide perfect acoustic properties for private conversations and business meetings. **Adaptive Architecture:**
 
 Magical systems allow rooms to reconfigure themselves based on their intended use. Business meeting spaces can expand or contract to accommodate different group sizes, while entertainment areas transform to match the type of social function being hosted. ### The Five Primary Wings **The Residential Wing**
+
+
+**Summary**: The Five Primary Wings **The Residential Wing** - Key information at a glance.
 
 Private family quarters designed for luxury and security:
 - **Master Suites:** [[Aurelius Goldwave]] and [[Lady Serena Goldwave]]'s private apartments

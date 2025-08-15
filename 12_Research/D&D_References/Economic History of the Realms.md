@@ -34,7 +34,7 @@ Historical context and development over time. ### Current State
 
 Present circumstances and ongoing relevance. ### Future Potential
 
-Possible developments and plot directions. ## Relationships
+Possible developments and plot directions. Meanwhile, ## Relationships
 
 - Connected to various other elements within the vault
 - Part of larger narrative structures

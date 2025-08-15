@@ -26,6 +26,8 @@ publish: false
 
 ## Description
 
+**Tension**: The urgency of this quest creates palpable tension in the air.
+
 Detailed description pending.
 **Condition**: Alliance formed or broken
 **Path A**: Direct confrontation with antagonist
@@ -58,7 +60,7 @@ Detailed description pending.
 
 
 2. **Short-term**: Economy collapses
-3. **Long-term**: Empire rises
+3. Additionally, **Long-term**: Empire rises
 4. **Permanent**: Prophecy fulfilled #### Cascade_23 1. **Immediate**: War begins
 
 
@@ -122,7 +124,9 @@ While the party pursues the main quest:
 
 **Failure Condition**: Party TPK
 **Epilogue**: Bittersweet victory
-**Seeds for Next Campaign**: Ancient evil stirs ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Combat Improvements - Add encounter scaling table for parties of 3-6 players, levels 1-20 ### Rewards Improvements - Create treasure parcels for each major encounter ### Structure Improvements - Add three-act structure with rising action ### Choices Improvements - Add meaningful decision points with consequences ### Roleplay Improvements - Include ethical challenges without clear answers ### Props Improvements - List physical props and handouts needed ### Spotlight Improvements - Include spotlight moment for each character class ### Accessibility Improvements - Include content warnings and safety tools ### Backup Improvements - Add 'What if players skip this?' contingency ### Variants Improvements - Add horror, intrigue, and comedy tone variants ### Level_Range Improvements - Provide scaling for different level ranges ### Session_Zero Improvements - Add session zero integration questions ### Soundtrack Improvements - Suggest music/ambiance for each scene ### Art Improvements - Add AI art prompts for key scenes ## DM Notes *Private notes for campaign integration:*
+**Seeds for Next Campaign**: Ancient evil stirs ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Combat Improvements - Add encounter scaling table for parties of 3-6 players, levels 1-20 ### Rewards
+
+**Experience Points**: 500 XP per character Improvements - Create treasure parcels for each major encounter ### Structure Improvements - Add three-act structure with rising action ### Choices Improvements - Add meaningful decision points with consequences ### Roleplay Improvements - Include ethical challenges without clear answers ### Props Improvements - List physical props and handouts needed ### Spotlight Improvements - Include spotlight moment for each character class ### Accessibility Improvements - Include content warnings and safety tools ### Backup Improvements - Add 'What if players skip this?' contingency ### Variants Improvements - Add horror, intrigue, and comedy tone variants ### Level_Range Improvements - Provide scaling for different level ranges ### Session_Zero Improvements - Add session zero integration questions ### Soundtrack Improvements - Suggest music/ambiance for each scene ### Art Improvements - Add AI art prompts for key scenes ## DM Notes *Private notes for campaign integration:*
 
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
@@ -221,3 +225,11 @@ While the party pursues the main quest:
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+
+**Balance Note**: Adjust creature numbers based on party size and level.
+## Session Prep
+- **Read Aloud Text**: Prepared descriptions for key moments
+- **Key NPCs**: Important characters for this content
+- **Props Needed**: Physical or digital aids to enhance play
+- **Estimated Time**: How long this typically takes to run

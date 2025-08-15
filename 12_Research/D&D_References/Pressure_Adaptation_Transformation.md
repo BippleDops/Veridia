@@ -133,7 +133,7 @@ Transformation Complications: ___________ #### Constitution Save Modifications *
 - Stage 4: Disadvantage on Constitution saves (surface environment) #### Physical Complications (d6)
 
 1. **Bone Density Issues:** Reduced mobility, increased weight
-2. **Blood Chemistry Imbalance:** Fatigue, dietary restrictions
+2. Moreover, **Blood Chemistry Imbalance:** Fatigue, dietary restrictions
 3. **Pressure Addiction:** Compulsive deep diving
 4. **Sensory Overload:** Overwhelmed by pressure changes
 5. **Social Alienation:** Difficulty relating to surface dwellers

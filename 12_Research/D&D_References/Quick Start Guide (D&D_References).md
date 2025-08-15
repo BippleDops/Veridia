@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Aquabyssos & Aethermoor Quick Start Guide
 type: Lore
@@ -90,7 +92,7 @@ Unique spells available at different depths:
 - **Midnight**: Shadow magic enhanced
 - **Abyssal**: Reality-warping effects possible ### Emergency Procedures
 
-1. **Pressure Failure**: Activate emergency ascent, take 2d6 damage
+1. Moreover, **Pressure Failure**: Activate emergency ascent, take 2d6 damage
 2. **Lost in Darkness**: Follow bioluminescent emergency markers
 3. **Predator Attack**: Form defensive circle, use bright lights
 4. **Reality Distortion**: Focus on anchor memories, make WIS saves ### Advantage/Disadvantage Sources

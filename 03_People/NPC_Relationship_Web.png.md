@@ -1,3 +1,7 @@
+# Npc Relationship Web.Png
+
+> *Not all allies are what they seem...* This remarkable element adds depth and intrigue to any campaign.
+
 --- title: 04_Resources/Assets/Art/Lore/NPC_Relationship_Web.png
 type: npc
 tags:
@@ -18,7 +22,9 @@ category: 03 People
 subcategory: Npc Relationship Web.Png.Md
 related: []
 cssclass: standard
-publish: false --- # NPC_Relationship_Web.png ## Portrait![[Relationship_Web|portrait_npc_relationship_web.png.png]] *Portrait reference for NPC_Relationship_Web.png* ## Overview ## Description {#description} Detailed description pending. NPC_Relationship_Web.png is a notable figure in the realm, known for their unique skills and complex motivations. ## Appearance - **Age**: Middle-aged
+publish: false --- # NPC_Relationship_Web.png ## Portrait![[Relationship_Web|portrait_npc_relationship_web.png.png]] *Portrait reference for NPC_Relationship_Web.png* ## Overview ## Description
+
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. {#description} Detailed description pending. NPC_Relationship_Web.png is a notable figure in the realm, known for their unique skills and complex motivations. ## Appearance - **Age**: Middle-aged
 - **Build**: Average height, lean build
 - **Distinguishing Features**: Keen eyes that miss nothing
 - **Typical Attire**: Practical clothing suited for their profession ## Personality - **Traits**: Observant, calculating, pragmatic
@@ -57,3 +63,8 @@ publish: false --- # NPC_Relationship_Web.png ## Portrait![[Relationship_Web|por
 - Special moves ## Secrets {#secrets}
 - Hidden knowledge
 - Personal mysteries
+
+
+**Key Question**: What drives this character's actions?
+
+*Every story needs its heroes.*

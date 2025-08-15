@@ -1,3 +1,12 @@
+# Tag Index
+
+> *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- aliases: ["TAG INDEX"]
 created: 2025-08-15
 modified: 2025-08-15
@@ -66,6 +75,9 @@ publish: false --- # Tag [[[[Index|Index]]|INDEX]] Complete [[INDEX|index]] of a
 - [[02_Worldbuilding_Places_Alternative-[[path|path]]-Fled-City]]
 - [[02_Worldbuilding_Places_Alternative-Path-Fled-City|02 Worldbuilding Places Alternative-Path-Fled-City]]
 - *...and 50 more* ## #'lore' (12) - [[04_Resources_Assets_Creatures_creature-creature-murgaxor-scc-murgaxor-scc.png|04 Resources Assets Creatures Creature-Creature-Murgaxor-Scc-Murgaxor-Scc.Png]] - [[04_Resources_Assets_Creatures_creature-creature-murgaxor-scc-murgaxor-scc.png|04 Resources Assets Creatures Creature-Creature-Murgaxor-Scc-Murgaxor-Scc.Png]]
+
+
+**Summary**: #'lore' (12) - [[04_Resources_Assets_Creatures_creature-creature-murgaxor-scc-murgaxor-scc.png|04 Resources Assets Creatures Creature-Creature-Murgaxor-Scc-Murgaxor-Scc.Png]] - [[04_Resources_Assets_Creatures_creature-creature-murgaxor-scc-murgaxor-scc.png|04 Resources Assets Creatures Creature-Creature-Murgaxor-Scc-Murgaxor-Scc.Png]] - Key information at a glance.
 - [[04_Resources_Assets_Creatures_creature-creature-murgaxor-scc-murgaxor-scc.png|04 Resources Assets Creatures Creature-Creature-Murgaxor-Scc-Murgaxor-Scc.Png]]
 - [[04_Resources_Assets_Creatures_creature-creature-murgaxor-scc-murgaxor-scc.png|04 Resources Assets Creatures Creature-Creature-Murgaxor-Scc-Murgaxor-Scc.Png]]
 - [[04_Resources_Assets_Handouts_handout-handout-wanted-poster-with-reward-wanted-poster-with-reward.png|04 Resources Assets Handouts Handout-Handout-Wanted-Poster-With-Reward-Wanted-Poster-With-Reward.Png]]
@@ -333,3 +345,7 @@ publish: false --- # Tag [[[[Index|Index]]|INDEX]] Complete [[INDEX|index]] of a
 #resource/equipment
 #meta/index
 #meta/hub
+
+**Key Question**: What role will this play in the greater story?
+
+*The dice will decide the fate.*

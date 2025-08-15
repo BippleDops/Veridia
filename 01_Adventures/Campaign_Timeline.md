@@ -1,3 +1,25 @@
+# Campaign Timeline
+
+> *The fate of many hangs in the balance...*
+
+
+## Contents
+- [Overview](#overview)
+- [Description](#description)
+- [Notes](#notes)
+- [NPCs Involved](#npcs-involved)
+- [Complications](#complications)
+- [Alternative Solutions](#alternative-solutions)
+
+
+
+## Overview
+
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Comprehensive overview of this content.
+
 ---
 
 title: Campaign_Timeline
@@ -20,7 +42,10 @@ publish: false
 
  # Campaign_Timeline ---
 
+
 ## Description
+
+**Tension**: The urgency of this quest creates palpable tension in the air.
 
 Detailed description pending.
 title: Campaign Timeline
@@ -58,6 +83,9 @@ weekdays: - "Deepday" - "Currentday" - "Windday" - "Stormday" - "Crystalday" - "
 moons: - name: "The Deep Pearl" cycle: 28 color: "#4a90e2" - name: "The Wind Crystal" color: "#f5a623"```### Campaign Start Date
 
 **Campaign Begins**: 15th Day of Crystal Growing, Year 1247 **Real-world Start**: Session 1 begins on the Festival of Depths **In-game Duration**: Approximately 8 months for complete campaign ### Act I: Awakening (Sessions 1-8)
+
+
+**Summary**: Act I: Awakening (Sessions 1-8) - Key information at a glance.
 
 *Duration: 3 months in-game time* event: name: "Festival of Depths - Session 1" date: "Crystal Growing 15, 1247" type: "session" description: "Heroes witness strange tidal behavior and encounter Memory Thieves. First hints of the Seven Shards crisis." category: "major-session" name: "Crystal Fever Outbreak - Session 2" date: "Crystal Growing 22, 1247" description: "Investigation of crystal corruption in Silverscale mines. Discovery of Lord Aurelius's involvement." name: "Memory Palace Expedition - Session 3" date: "High Currents 1, 1247" description: "Deep dive into consciousness-affecting anomalies. First direct contact with Consciousness Shard." name: "Deep Mother's First Stirring - Session 4" date: "High Currents 10, 1247" type: "session" description: "Reality distortions intensify. Heroes learn the true scope of the cosmic threat." name: "Cross-Realm Tensions - Session 5" date: "High Currents 18, 1247" description: "Political complications as both worlds begin to notice the anomalies." name: "Storm Shard Discovery - Session 6" date: "Storm Crown 2, 1247" description: "Journey to Aethermoor and confrontation at the Lighthouse of Storms." name: "Convergence Signs Multiply - Session 7" date: "Storm Crown 12, 1247" description: "Multiple shard activities detected. Heroes realize the timeline is accelerating." name: "The Stellar Alignment - Session 8" date: "Storm Crown 25, 1247" description: "Cosmic forces align. Heroes must prepare for the coming convergence crisis." ### Act II: Convergence (Sessions 9-10)
 
@@ -218,6 +246,8 @@ Automatic event tracking and timeline visualization through dataview queries emb
 
 - *[Side locations]* ## Rewards
 
+**Experience Points**: 500 XP per character
+
 *[What PCs gain from completing this adventure]* ### Experience Points
 
 - *[XP awards]* ### Treasure
@@ -237,6 +267,7 @@ Automatic event tracking and timeline visualization through dataview queries emb
 > 💡 **Running This Content**: Advice for game masters
 
 > Adjust difficulty based on party composition
+
 
 ## Notes
 
@@ -261,9 +292,11 @@ Automatic event tracking and timeline visualization through dataview queries emb
 #resource/treasure
 #meta/reference
 
+
 ## NPCs Involved
 - Quest giver
 - Antagonists
+
 
 
 ## Complications
@@ -271,6 +304,15 @@ Automatic event tracking and timeline visualization through dataview queries emb
 - Twists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+## Stakes
+- **If Successful**: The positive outcomes that await
+- **If Failed**: The dire consequences of failure
+- **Time Pressure**: Why this cannot wait
+
+
+**Balance Note**: Adjust creature numbers based on party size and level.

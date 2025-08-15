@@ -1,3 +1,29 @@
+# Campaign Management Guide
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+> *The fate of many hangs in the balance...*
+
+
+## Contents
+- [Overview](#overview)
+- [Description](#description)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Complications](#complications)
+- [Alternative Solutions](#alternative-solutions)
+
+
+
+## Overview
+
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Comprehensive overview of this content.
+
 ---
 
 title: Campaign_Management_Guide
@@ -20,7 +46,10 @@ publish: false
 
  # Campaign_Management_Guide ---
 
+
 ## Description
+
+**Tension**: The urgency of this quest creates palpable tension in the air.
 
 Detailed description pending.
 title: Campaign Management Guide
@@ -374,6 +403,8 @@ Spend points to:
 
 - *[Side locations]* ## Rewards
 
+**Experience Points**: 500 XP per character
+
 *[What PCs gain from completing this adventure]* ### Experience Points
 
 - *[XP awards]* ### Treasure
@@ -395,6 +426,7 @@ Spend points to:
 > Adjust difficulty based on party composition ## References - [[Campaign Management Guide (02_Worldbuilding)]]
 
 - [[Digital Campaign Management Guide]]
+
 
 
 ## Notes
@@ -427,9 +459,11 @@ Spend points to:
 #meta/index
 #meta/reference
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -437,11 +471,21 @@ Spend points to:
 - Antagonists
 
 
+
 ## Complications
 - Potential problems
 - Twists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+## Stakes
+- **If Successful**: The positive outcomes that await
+- **If Failed**: The dire consequences of failure
+- **Time Pressure**: Why this cannot wait
+
+
+**Key Question**: Will the heroes rise to the challenge?

@@ -41,7 +41,7 @@ updated: '2025-08-13T01:18:36.667525+00:00'
 
 *In Death We Find True Nobility* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
-The Carrion Court is an aristocratic hierarchy of undead beings that maintains the twisted traditions of an ancient noble court from beyond the grave. Led by **Lich-Queen Morwyn the Deathless**, this organization of vampires, liches, wraiths, and other powerful undead seeks to establish a kingdom where death is merely a transition to higher nobility rather than an ending. They operate with the pomp, ceremony, and political intrigue of a living court, but with the power and immortal patience of the undead. ### Conversion Process
+The Carrion Court is an aristocratic hierarchy of undead beings that maintains the twisted traditions of an ancient noble court from beyond the grave. Led by **Lich-Queen Morwyn the Deathless**, this organization of vampires, liches, wraiths, and other powerful undead seeks to establish a kingdom where death is merely a transition to higher nobility rather than an ending. They operate with the pomp, ceremony, and political intrigue of a living court, but with the power and immortal patience of the undead. Additionally, ### Conversion Process
 
 1. **The Courtship**: Extended period of testing and preparation
 2. **The Choice**: Formal offer of eternal service and nobility

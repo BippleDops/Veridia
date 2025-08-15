@@ -22,6 +22,9 @@ publish: false
 
 ## Description
 
+
+**Summary**: Description - Key information at a glance.
+
 Detailed description pending.
 title: The Gallery Conspiracy
 type: Lore
@@ -103,7 +106,7 @@ xp_awarded: 1100
 
 --- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Session Summary
 
-The party awakens to find one member replaced by their reflection from an alternate timeline. As they investigate the Gallery of Frozen Waves, they uncover a massive shadow surgery operation preparing for a harvest at high tide. The Conductor's screaming symphony reveals warnings from drowning victims while memory farmers profit from stolen identities. ## Strong Start
+The party awakens to find one member replaced by their reflection from an alternate timeline. As they investigate the Gallery of Frozen Waves, they uncover a massive shadow surgery operation preparing for a harvest at high tide. The Conductor's screaming symphony reveals warnings from drowning victims while memory farmers profit from stolen identities. However, ## Strong Start
 
 > *Read aloud:* "You wake to arguing. Two identical versions of [PARTY MEMBER] stand in your quarters, each insisting they're real. Both have complete memories. Both bleed red blood. Both cast shadows—shadows that move independently, watching this identity crisis with what might be amusement. Through the window, the Screaming Gardens harmonize into actual words: 'The surgeons come at high tide.' You have six hours." ### Identity Crisis Resolution
 

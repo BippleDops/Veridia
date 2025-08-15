@@ -1,3 +1,7 @@
+# Npc Reactions
+
+> *Every scar tells a story...* This remarkable element adds depth and intrigue to any campaign.
+
 --- class: Unknown
 created: 2025-08-14
 evaluated: '2025-08-14'
@@ -16,7 +20,9 @@ category: 03 People
 subcategory: Npc Reactions.Md
 related: []
 cssclass: standard
-publish: false --- # NPC_Reactions ## Portrait![[Npc|Npc]] *Portrait reference for NPC_Reactions* ## Overview ## Description {#description} Detailed description pending. NPC_Reactions is a notable figure in the realm, known for their unique skills and complex motivations. ## Appearance - **Age**: Middle-aged
+publish: false --- # NPC_Reactions ## Portrait![[Npc|Npc]] *Portrait reference for NPC_Reactions* ## Overview ## Description
+
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. {#description} Detailed description pending. NPC_Reactions is a notable figure in the realm, known for their unique skills and complex motivations. ## Appearance - **Age**: Middle-aged
 - **Build**: Average height, lean build
 - **Distinguishing Features**: Keen eyes that miss nothing
 - **Typical Attire**: Practical clothing suited for their profession ## Personality - **Traits**: Observant, calculating, pragmatic
@@ -59,3 +65,14 @@ publish: false --- # NPC_Reactions ## Portrait![[Npc|Npc]] *Portrait reference f
 - Special moves ## Secrets {#secrets}
 - Hidden knowledge
 - Personal mysteries
+
+
+**Key Question**: What drives this character's actions?
+## Session Prep
+- **Read Aloud Text**: Prepared descriptions for key moments
+- **Key NPCs**: Important characters for this content
+- **Props Needed**: Physical or digital aids to enhance play
+- **Estimated Time**: How long this typically takes to run
+
+
+*What happens next is up to you.*

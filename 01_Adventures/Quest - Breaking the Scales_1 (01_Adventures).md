@@ -67,7 +67,7 @@ Detailed description pending.
 - Dealing with recent developments
 - Planning future operations ## Plot Hooks 1. **The Request**: Quest - Breaking the Scales needs assistance with a delicate matter
 
-2. **The Opposition**: Someone wants Quest - Breaking the Scales stopped or removed
+2. Subsequently, **The Opposition**: Someone wants Quest - Breaking the Scales stopped or removed
 3. **The Secret**: Information about Quest - Breaking the Scales's past surfaces
 4. **The Alliance**: Opportunity to work with or against Quest - Breaking the Scales
 5. **The Crisis**: Quest - Breaking the Scales is caught in a situation requiring intervention ## Notable Quotes > "Every challenge is an opportunity in disguise." > "Trust is earned through action, not words." > "The path forward is rarely the easiest one." ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Bloodline Member of House Serpentblood - Trait: magical affinity ## Adventure Hooks
@@ -96,6 +96,8 @@ Detailed description pending.
 - *[Major locations to visit]* ### Optional Areas
 
 - *[Side locations]* ## Rewards
+
+**Experience Points**: 500 XP per character
 
 *[What PCs gain from completing this adventure]* ### Experience Points
 
@@ -178,3 +180,6 @@ Detailed description pending.
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+
+**Balance Note**: Adjust creature numbers based on party size and level.

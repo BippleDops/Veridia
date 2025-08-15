@@ -61,6 +61,9 @@ world: Aquabyssos
 5. **Add Narrative Context**: Connect to ongoing storylines ### Shallow Waters (0-500 feet)
 
 
+**Summary**: Shallow Waters (0-500 feet) - Key information at a glance.
+
+
 *The diplomatic zone where surface dwellers can still function* | d100 | Encounter | Type | Difficulty |
 |------|-----------|------|------------|
 | 01-05 | Merchant convoy with Silverscale guards | Social | Easy |
@@ -83,6 +86,9 @@ world: Aquabyssos
 | 86-90 | Pressure tube station with mechanical problems | Environmental | Medium |
 | 91-95 | Crystal corruption spreading through coral reef | Environmental/Horror | Hard |
 | 96-00 | Deep Mother cultist performing strange ritual | Combat/Horror | Hard | ### Mid-Depths (500-2000 feet)
+
+
+**Summary**: Mid-Depths (500-2000 feet) - Key information at a glance.
 
 *The political heart of Aquabyssos where most cities exist* | 01-04 | Parliament of Echoes patrol checking documentation | Social/Political | Medium |
 | 05-08 | Escaped memory farmer seeking sanctuary | Social/Horror | Medium |

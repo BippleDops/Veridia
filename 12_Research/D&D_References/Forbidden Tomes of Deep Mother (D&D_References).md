@@ -49,7 +49,10 @@ updated: '2025-08-13T01:18:37.088361+00:00'
 
 --- # Forbidden Tomes of Deep Mother *"Some knowledge changes you by being known. Some books read you while you read them."* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview These accursed texts contain knowledge about the Deep Mother, her servants, the nature of reality, and the coming transformation of existence. Each tome is dangerous not merely for what it teaches, but for how it teaches - the very act of reading these books fundamentally alters the reader's consciousness. They serve as both invaluable resources for understanding cosmic threats and potential paths to madness or enlightenment, depending on one's perspective. ### The Codex Abyssos
 
-*"The Deep Mother's Own Testament"* **Physical Description**: Bound in scales from creatures that never existed, with pages made from pressed water that somehow remains solid. The text appears in whatever language the reader understands best, but the words shift meaning as understanding deepens. **Origin**: Discovered in the deepest ocean trenches, apparently written before any known civilization existed. Some scholars theorize it predates reality itself, existing as the original blueprint for creation. **Contents**: 347 pages covering:
+
+**Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview These accursed texts contain knowledge about the Deep Mother, her servants, the nature of reality, and the coming transformation of existence. Each tome is dangerous not merely for what it teaches, but for how it teaches - the very act of reading these books fundamentally alters the reader's consciousness. They serve as both invaluable resources for understanding cosmic threats and potential paths to madness or enlightenment, depending on one's perspective. ### The Codex Abyssos - Key information at a glance.
+
+*"The Deep Mother's Own Testament"* **Physical Description**: Bound in scales from creatures that never existed, with pages made from pressed water that somehow remains solid. The text appears in whatever language the reader understands best, but the words shift meaning as understanding deepens. **Origin**: Discovered in the deepest ocean trenches, apparently written before any known civilization existed. Some scholars theorize it predates reality itself, existing as the original blueprint for creation. Subsequently, **Contents**: 347 pages covering:
 - Deep Mother's nature and true names (pages 1-49)
 - History of reality as dream construct (pages 50-98) - Biological transformation processes (pages 99-147)
 - Ritual instructions for awakening ceremonies (pages 148-196)
@@ -80,6 +83,9 @@ updated: '2025-08-13T01:18:37.088361+00:00'
 - **Copy 1**: Temple of the Sunken Cathedral scriptorium
 - **Copy 2**: Observatory of Broken Stars (translated into mathematical formulas)
 - **Fragments**: Various cult libraries and private collections --- ### The Stellar Manuscript
+
+
+**Summary**: The Stellar Manuscript - Key information at a glance.
 
 *"Astronomical Prophecies from Other Realities"* **Physical Description**: Star charts printed on material that appears to be compressed starlight. The constellations shown don't match any known sky, and the charts change based on viewing time and location. **Origin**: Received through telescope transmissions at the Observatory of Broken Stars. Researchers initially thought they were documenting distant galaxies until they realized the stars were looking back. **Contents**: 89 charts covering:
 - Constellation patterns from parallel realities (charts 1-21)

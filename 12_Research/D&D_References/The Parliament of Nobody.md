@@ -60,7 +60,7 @@ obsidian UIMode: preview
 
 *The Silent Democracy, The Forgotten Assembly, Voices of the Unheard* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
-The Parliament of Nobody represents the ultimate expression of [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]'s shadow-touched nature - a governing body where identity itself becomes fluid and representatives speak for those who have been erased, forgotten, or never existed. This phantom legislature meets in the spaces between spaces, making decisions that affect the living world while remaining completely removed from conventional power structures. They are the voice of the voiceless, the representation of the unrepresented, and the democracy of the discarded. ### Foundation in Absence (350 Years Ago)
+The Parliament of Nobody represents the ultimate expression of [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]'s shadow-touched nature - a governing body where identity itself becomes fluid and representatives speak for those who eraseded, forgotten, or never existed. This phantom legislature meets in the spaces between spaces, making decisions that affect the living world while remaining completely removed from conventional power structures. They are the voice of the voiceless, the representation of the unrepresented, and the democracy of the discarded. ### Foundation in Absence (350 Years Ago)
 
 **The Great Forgetting**
 - Formed when [[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] first experimented with memory erasure
@@ -128,7 +128,7 @@ The Parliament of Nobody represents the ultimate expression of [[Aquabyssos|02 W
 
 1. ** Representation**: Advocate for forgotten citizen interests
 2. **Memory Restoration**: Help partially erased individuals recover identity
-3. **Reality Mediation**: Prevent excessive erasure by government
+3. Moreover, **Reality Mediation**: Prevent excessive erasure by government
 4. **Shadow Lobbying**: Influence official policy through supernatural means
 5. **Existence Protection**: Shield citizens from unwanted deletion ### Democracy
 

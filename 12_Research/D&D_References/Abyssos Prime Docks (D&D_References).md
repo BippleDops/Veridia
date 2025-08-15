@@ -194,6 +194,9 @@ danger_level: Moderate
 
 **Services**: Memory services for commercial and security purposes **Information**: Use of memory techniques for information storage **Innovation**: Collaboration on new applications of memory technology **Records**: Enhanced record-keeping using memory techniques **Training**: Memory-enhanced training for port personnel ## Secrets and Hidden Aspects > [!secret] DM Secret - The Sunken Vault
 
+
+**Summary**: Secrets and Hidden Aspects > [!secret] DM Secret - The Sunken Vault - Key information at a glance.
+
 > Deep beneath the harbor lies an ancient vault from a pre-Aquabyssos civilization, accessible only during the lowest tides and known only to [[Harbormaster Tidal Stormcrest]]. The vault contains artifacts and knowledge that could revolutionize underwater construction, but also dangerous weapons that could threaten the entire city if misused. The harbormaster has been secretly studying these artifacts while trying to decide whether to reveal their existence to the crown. > [!secret] DM Secret - The Smuggler's Network
 
 > A sophisticated smuggling network operates within the port, using a combination of corrupted officials, hidden passages in the old harbor foundations, and magical concealment to move illegal goods. The network is led by someone within the port administration itself, and has connections to criminal organizations throughout Aquabyssos. The operation is so well-organized that it actually helps port operations run more smoothly while evading detection. > [!secret] DM Secret - The Deep Harbor Entity

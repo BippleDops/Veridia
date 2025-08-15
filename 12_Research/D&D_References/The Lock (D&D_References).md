@@ -75,6 +75,9 @@ A colossal magical construct spanning three miles in diameter, the Great Seal ap
 - Emergency override systems for barrier control
 - Direct communication link to [[Abyssos Prime]] ### The Seven Towers
 
+
+**Summary**: The Seven Towers - Key information at a glance.
+
 Each tower corresponds to one matrix of the Great Seal: **Crown Tower**
 - Houses fragments of the [[Crown of Stars]]
 - Operated by [[Keeper of Crowns Lydia Starfall]]
@@ -260,6 +263,9 @@ Evidence suggests The Lock is not unique:
 5. **Paradox Engine** - Impossible physics
 6. **Soul Forge** - Sacrificial power source
 7. **Silence Generator** - Void creation ### Emergency Protocols
+
+
+**Summary**: Emergency Protocols - Key information at a glance.
 
 
 - **Code Depth**: Minor barrier fluctuation

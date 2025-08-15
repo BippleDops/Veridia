@@ -58,7 +58,7 @@ Lumengarde is a breathtaking city grown rather than built, formed from cultivate
 
 The heart of Lumengarde, where the massive Mothercoral provides the template for all city growth. [[Duke Cyrus Reefheart|02 Worldbuilding/People/Duke Cyrus Reefheart]] holds court in the Coral Palace, a living structure that grows new rooms as needed. ### The Cultivation Terraces
 
-Stepped growing fields where specialized farmers tend to bioluminescent crops and architectural organisms. [[Master Cultivator Thalia Greenglow]] oversees production and experimentation. ### The Symbiont Quarter
+Stepped growing fields where specialized farmers tend to bioluminescent crops and architectural organisms. Furthermore, [[Master Cultivator Thalia Greenglow]] oversees production and experimentation. ### The Symbiont Quarter
 
 Residential area where inhabitants live in perfect symbiosis with their coral homes. [[Whisper-Witch Naia Softcurrent]] helps newcomers bond with living structures. ### The Enzyme Markets
 

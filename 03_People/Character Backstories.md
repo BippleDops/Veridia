@@ -1,3 +1,7 @@
+# Character Backstories
+
+> *Every scar tells a story...* This remarkable element adds depth and intrigue to any campaign.
+
 --- title: Character Backstories
 type: note
 tags:
@@ -11,7 +15,9 @@ category: 03 People
 subcategory: Character Backstories.Md
 related: []
 cssclass: standard
-publish: false --- # Character Backstories ## Portrait![[Character Backstories|Character Backstories]] *Portrait reference for Character Backstories* ## Overview This topic is referenced in [[final_link_repair_20250814_175237|Final Link Repair 20250814 175237]] and other parts of the campaign. ## Description An important element of the campaign world that connects to various other aspects of the adventure. ## Connections - Referenced by: [[final_link_repair_20250814_175237|Final Link Repair 20250814 175237]]
+publish: false --- # Character Backstories ## Portrait![[Character Backstories|Character Backstories]] *Portrait reference for Character Backstories* ## Overview This topic is referenced in [[final_link_repair_20250814_175237|Final Link Repair 20250814 175237]] and other parts of the campaign. ## Description
+
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. An important element of the campaign world that connects to various other aspects of the adventure. ## Connections - Referenced by: [[final_link_repair_20250814_175237|Final Link Repair 20250814 175237]]
 - Related topics in the same category ## Details Further information about this topic will be developed as the campaign progresses. ## Plot Hooks - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery ## Stats```statblock creature: Custom NPC```### Quick Stats - **AC**: *[Armor Class]*
@@ -63,3 +69,16 @@ publish: false --- # Character Backstories ## Portrait![[Character Backstories|C
 - Special moves ## Secrets {#secrets}
 - Hidden knowledge
 - Personal mysteries
+
+
+**Key Question**: What drives this character's actions?
+## DM Guidance
+- **Usage**: How to best utilize this in your campaign
+- **Adaptation**: Ways to modify for your needs
+- **Connections**: How this links to other elements
+
+
+*What happens next is up to you.*
+
+## Thematic Elements
+This content explores themes of destiny, adding narrative depth to your campaign.

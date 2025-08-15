@@ -22,6 +22,8 @@ publish: false
 
 This document contains important information regarding Vote Vaults and its role within the greater narrative. ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Vote Vaults represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
@@ -32,7 +34,7 @@ Vote Vaults represents a significant element within the campaign world, offering
 
 Historical context and development over time. ### Current State
 
-Present circumstances and ongoing relevance. ### Future Potential
+Present circumstances and ongoing relevance. Meanwhile, ### Future Potential
 
 Possible developments and plot directions. ## Relationships
 

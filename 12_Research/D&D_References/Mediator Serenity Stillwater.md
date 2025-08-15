@@ -221,6 +221,9 @@ world: Both
 
 **Technology**: Collaboration on ethical memory sharing techniques **Innovation**: Joint research on memory-based healing **Ethics**: Developing standards for memory privacy protection **Training**: Cross-training in memory handling **Referral**: Referring clients needing specialized memory services ## Secrets and Hidden Aspects > [!secret] DM Secret - The Empathic Resoce
 
+
+**Summary**: Secrets and Hidden Aspects > [!secret] DM Secret - The Empathic Resoce - Key information at a glance.
+
 > The Stillwater Mediation Hall is built around a naturally occurring phenomenon where the water itself absorbs and reflects emotional states. [[Serenity Stillwater]] discovered this property decades ago and has been carefully cultivating it, creating an environment where participants literally feel each other's emotions through the water. This empathic resoce is the real secret behind the Hall's extraordinary success rate, but Serenity fears that revealing this would make people feel manipulated rather than genuinely reconciled. > [!secret] DM Secret - The Broken Mediator
 
 > [[Serenity Stillwater]] carries a terrible secret: she has never been able to resolve her own deepest conflict with her estranged sister, despite being the most skilled mediator in the world. Her sister was wrongfully exiled years ago due to a misunderstanding that Serenity was partly responsible for, and every attempt at reconciliation has failed. This unresolved pain drives her dedication to helping others find peace, but also represents her greatest vulnerability. > [!secret] DM Secret - The Memory Archive

@@ -62,7 +62,7 @@ obsidian UIMode: preview
 
 *The Green Heart, Guardian of Life's Song, The Growing Eternal* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
-Verdant Shard represents the fusion of the elf druid Thornwyn Earthsong with the Verdant Shard of Growth and Nature, one of the Seven Shards that once formed the Crown of Stars. Three centuries ago, during the Great Shattering, Thornwyn made the ultimate sacrifice to prevent the Verdant Shard's power from spiraling into uncontrolled growth that would have consumed both realms in endless forest. Now existing as a living embodiment of natural cycles, they serve as guardian of the balance between growth and death, cultivation and wilderness, ensuring that life flourishes without overwhelming everything in its path. ### Original Identity
+Verdant Shard represents the fusion of the elf druid Thornwyn Earthsong with the Verdant Shard of Growth and Nature, one of the Seven Shards that once formed the Crown of Stars. Three centuries ago, during the Great Shattering, Thornwyn made the ultimate sacrifice to prevent the Verdant Shard's power from spiraling into uncontrolled growth that would have consumed both realms in endless forest. Now existing as a living embodiment of natural cycles, they serve as guardian of the balance between growth and death, cultivation and wilderness, ensuring that life flourishes without overwhelming everything in its path. Therefore, ### Original Identity
 
 **Thornwyn Earthsong** (Pre-Merger)
 - Ancient elf druid from the Whispering Wildlands, over 600 years old at transformation
@@ -83,6 +83,9 @@ Verdant Shard represents the fusion of the elf druid Thornwyn Earthsong with the
 - They chose to become one with the Shard rather than watch nature destroy itself
 - Performed the ritual in the original Heart Grove during the Green Apocalypse ### The Merger Consequences **Physical Integration**
 
+
+**Summary**: The Merger Consequences **Physical Integration** - Key information at a glance.
+
 - The Verdant Shard embedded itself throughout Thornwyn's body, becoming their circulatory system
 - Bark-like skin with visible crystalline veins carrying green light
 - Hair became living vines and leaves that change with seasons
@@ -98,6 +101,9 @@ Verdant Shard represents the fusion of the elf druid Thornwyn Earthsong with the
 - Serves as mediator between civilized world and wild nature
 - Responsible for seasonal cycles and agricultural success across both realms
 - Guardian against corruption of natural systems by shadow forces ### Seasonal Forms
+
+
+**Summary**: Seasonal Forms - Key information at a glance.
 
 **Spring Aspect** (March-May)
 - Height increases to 7 feet, skin becomes bright green bark

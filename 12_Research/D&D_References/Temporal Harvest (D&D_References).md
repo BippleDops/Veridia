@@ -58,6 +58,9 @@ A series of temporal disturbances swept through the merchant quarter, causing ra
 
 A portion of the main marketplace became temporally unstable, creating "time echoes" where the same events repeated multiple times simultaneously. Shoppers could observe the same transaction occurring at different temporal rates in overlapping timestreams. ### Academic Theories **The Cultivation Theory**
 
+
+**Summary**: Academic Theories **The Cultivation Theory** - Key information at a glance.
+
 Proposed by **Chronarch Vera Timeweaver**, this theory suggests that time can be deliberately cultivated and harvested like any other resource. According to this model, skilled practitioners create temporal "fields" where time accumulates like sediment, then extract concentrated temporal energy for various applications. **The Parasite Theory**
 
 Advanced by **Scholar Mordant Voidtouch**, this darker interpretation proposes that the Temporal Harvest represents feeding by extradimensional entities that consume time itself, leaving behind temporal distortions as evidence of their predation. **The Natural Phenomenon Theory**

@@ -240,6 +240,9 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 - **Cultural Ambassador** (Promoted understanding): Invitations to exclusive cultural events
 - **Merchant Prince/Princess** (Established major trade route): Own booth space, reduced fees #### Random Encounters (d12)
 
+
+**Summary**: Random Encounters (d12) - Key information at a glance.
+
 1. **Cultural Misunderstanding**: Mediate dispute between realm visitors (DC 15 Persuasion)
 2. **Pickpocket**: Thief targeting dimensional tourists (DC 18 Perception to notice)
 3. **Merchant Crisis**: Trader's goods spoiling, needs quick sale (opportunity for bargains)

@@ -55,7 +55,7 @@ danger_level: Moderate
 
 Shadow corruption has seeped deep into the statue's stone, creating:
 - **Weeping Shadows**: Dark ichor that constantly seeps from the statue's eyes and wounds
-- **Twisted Prayers**: The carved inscriptions at the base have been warped into blasphemous text
+- **Twisted Prayers**: The carved inscriptions at the base warpeded into blasphemous text
 - **Living Stone**: Sections of the statue occasionally shift and move as if the angel is slowly awakening
 - **Void Resoce**: The statue hums with an otherworldly frequency that can be felt in one's bones ### The Weeping Chamber
 

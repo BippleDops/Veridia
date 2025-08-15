@@ -67,7 +67,7 @@ Detailed description pending.
 - Dealing with recent developments
 - Planning future operations ## Plot Hooks 1. **The Request**: Quest - The Crystal Refugees needs assistance with a delicate matter
 
-2. **The Opposition**: Someone wants Quest - The Crystal Refugees stopped or removed
+2. Consequently, **The Opposition**: Someone wants Quest - The Crystal Refugees stopped or removed
 3. **The Secret**: Information about Quest - The Crystal Refugees's past surfaces
 4. **The Alliance**: Opportunity to work with or against Quest - The Crystal Refugees
 5. **The Crisis**: Quest - The Crystal Refugees is caught in a situation requiring intervention ## Notable Quotes > "Every challenge is an opportunity in disguise." > "Trust is earned through action, not words." > "The path forward is rarely the easiest one." ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Secret Connections *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil ## Bloodline Member of House Eagleblood - Trait: curse ## Adventure Hooks
@@ -96,6 +96,8 @@ Detailed description pending.
 - *[Major locations to visit]* ### Optional Areas
 
 - *[Side locations]* ## Rewards
+
+**Experience Points**: 500 XP per character
 
 *[What PCs gain from completing this adventure]* ### Experience Points
 
@@ -186,3 +188,11 @@ Detailed description pending.
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+
+**Balance Note**: Adjust creature numbers based on party size and level.
+## Session Prep
+- **Read Aloud Text**: Prepared descriptions for key moments
+- **Key NPCs**: Important characters for this content
+- **Props Needed**: Physical or digital aids to enhance play
+- **Estimated Time**: How long this typically takes to run

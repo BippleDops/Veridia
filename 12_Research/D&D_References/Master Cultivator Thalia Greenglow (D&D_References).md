@@ -55,7 +55,7 @@ Master Cultivator Thalia Greenglow represents one of the most extraordinary achi
 > - Is working on a "healing vine" that could cure crystal corruption ## Motivations
 
 1. **Primary**: Prove that cooperation between realms is not only possible but beneficial
-2. **Secondary**: Develop sustainable agriculture for both worlds
+2. Additionally, **Secondary**: Develop sustainable agriculture for both worlds
 3. **Hidden**: Create a living bridge between realms that makes war impossible
 4. **Personal**: Leave a legacy of healing and growth after her inevitable passing ## Quest Hooks
 

@@ -22,6 +22,11 @@ publish: false
 
 ## Description
 
+
+**Summary**: Description - Key information at a glance.
+
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Aquabyssos Ambassadors
 type: Lore
@@ -64,7 +69,7 @@ related_entities:
 
 --- # Aquabyssos Ambassadors
 
-*Bridges Between Two Worlds* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The Aquabyssos Ambassadors represent one of the most challenging diplomatic corps in either realm, tasked with maintaining relations between the underwater civilization of [[Aquabyssos]] and the surface world of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]. These skilled diplomats must navigate not only political complexities but also the literal challenges of operating in two drastically different environments. Led by the experienced [[Ambassador Korvin Blacktide|02 Worldbuilding/People/Ambassador Korvin Blacktide]], the Ambassador Corps serves as the primary interface between [[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] and surface governments. Their work ranges from negotiating trade agreements to preventing wars, all while managing the deep cultural misunderstandings that arise between civilizations separated by [[The Great Drowning|02 Worldbuilding/Lore/The Great Drowning]]. ### Senior Diplomatic Staff
+*Bridges Between Two Worlds* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The Aquabyssos Ambassadors represent one of the most challenging diplomatic corps in either realm, tasked with maintaining relations between the underwater civilization of [[Aquabyssos]] and the surface world of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]. These skilled diplomats must navigate not only political complexities but also the literal challenges of operating in two drastically different environments. Led by the experienced [[Ambassador Korvin Blacktide|02 Worldbuilding/People/Ambassador Korvin Blacktide]], the Ambassador Corps serves as the primary interface between [[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] and surface governments. Their work ranges from negotiating trade agreements to preventing wars, all while managing the deep cultural misunderstandings that arise between civilizations separated by [[The Great Drowning|02 Worldbuilding/Lore/The Great Drowning]]. Indeed, ### Senior Diplomatic Staff
 
 **Chief Ambassador Korvin Blacktide**: Supreme diplomatic authority for all surface relations
 **Trade Envoy Marina Goldcurrent**: Specializes in commercial negotiations and economic agreements

@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Aquabyssos Depth Encounters
 type: Mechanics
@@ -41,6 +43,9 @@ updated: '2025-08-13T12:50:00.000000'
 world: Aquabyssos
 
 --- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Shallow Depths (200-1,000 feet)
+
+
+**Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Shallow Depths (200-1,000 feet) - Key information at a glance.
 
 *Roll 1d20 for encounter type* | d20 | Encounter | Description |
 |-----|-----------|-------------|

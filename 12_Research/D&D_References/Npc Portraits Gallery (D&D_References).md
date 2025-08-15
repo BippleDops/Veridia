@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura].
+
 Detailed description pending.
 title: Npc Portraits Gallery
 type: research

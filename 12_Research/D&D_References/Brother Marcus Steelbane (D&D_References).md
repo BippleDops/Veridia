@@ -60,7 +60,7 @@ Born **Marcus Ironwright** in the Forge District, he was destined to follow his 
 4. **Personal**: Find forgiveness for his role in his father's death ## Quest Hooks
 
 
-1. **The Corrupted Flame** - Sacred flame crystals are being tainted; Marcus needs help investigating the source
+1. **The Corrupted Flame** - Sacred flame crystals tainted; Marcus needs help investigating the source
 2. **The Prodigal Sister** - Elena Ironwright is in danger and Marcus must choose between his vows and family
 3. **The False Prophet** - A heretical monk is spreading corruption; Marcus seeks trustworthy allies to stop them
 4. **The Master's Test** - The Abbot assigns Marcus a dangerous mission requiring outside assistance

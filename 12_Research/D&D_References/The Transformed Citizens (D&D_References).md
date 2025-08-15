@@ -54,6 +54,9 @@ updated: '2025-08-11T00:00:00+00:00'
 
 *When Reality Changes, People Change With It* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The Transformed Citizens represent the most human and tragic aspect of the approaching [[The Convergence Point]] - ordinary people throughout both [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] who are undergoing involuntary changes as dimensional barriers weaken and realities begin to merge. Unlike those who deliberately seek power or consciously choose sides in the convergence crisis, these are farmers, shopkeepers, children, and elderly citizens who simply find themselves caught in the wake of cosmic forces beyond their understanding or control. These transformations manifest in countless ways: crystal growths appearing on Aethermoor citizens, aquatic adaptations developing in landlocked communities, memory bleeds causing people to remember lives they never lived, and reality sickness affecting those exposed to [[Merged Reality Zones]]. Their stories represent the human cost of cosmic conflict and the incredible adaptability of ordinary people facing extraordinary circumstances. ### Physical Mutations **Crystal Integration (Aethermoor Citizens):**
 
+
+**Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The Transformed Citizens represent the most human and tragic aspect of the approaching [[The Convergence Point]] - ordinary people throughout both [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] who are undergoing involuntary changes as dimensional barriers weaken and realities begin to merge. Unlike those who deliberately seek power or consciously choose sides in the convergence crisis, these are farmers, shopkeepers, children, and elderly citizens who simply find themselves caught in the wake of cosmic forces beyond their understanding or control. These transformations manifest in countless ways: crystal growths appearing on Aethermoor citizens, aquatic adaptations developing in landlocked communities, memory bleeds causing people to remember lives they never lived, and reality sickness affecting those exposed to [[Merged Reality Zones]]. Their stories represent the human cost of cosmic conflict and the incredible adaptability of ordinary people facing extraordinary circumstances. ### Physical Mutations **Crystal Integration (Aethermoor Citizens):** - Key information at a glance.
+
 As [[The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'s influence spreads through crystal networks, many citizens develop crystalline growths:
 - **Early Stage**: Small crystal formations appearing on fingernails, teeth, or in hair
 - **Progressive Stage**: Larger crystals growing from skin, particularly on arms and face
@@ -78,6 +81,9 @@ Citizens exposed to [[Merged Reality Zones]] develop characteristics from both w
 - **Memory Crystals**: Crystalline growths that store and replay memories from both realities
 - **Dimensional Skin**: Skin that changes texture and properties based on local reality
 - **Quantum Bones**: Skeletal structure that exists partially in both dimensions ### Mental and Consciousness Changes **Memory Integration Disorder:**
+
+
+**Summary**: Mental and Consciousness Changes **Memory Integration Disorder:** - Key information at a glance.
 
 Citizens experiencing memories from their alternate-reality selves:
 - **Spontaneous Recall**: Sudden vivid memories of life in the other world

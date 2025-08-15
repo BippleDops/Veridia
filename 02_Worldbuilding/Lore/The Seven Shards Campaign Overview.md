@@ -48,3 +48,27 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## [[DM_Notes]]
 *Customize as needed for your specific campaign requirements.*
+
+
+## Merged Content from 01 Campaign Overview.md
+
+title: 01 Campaign Overview
+type: note
+- note
+created: '2025-01-15'
+modified: '2025-01-15'
+Detailed description pending.
+title: 01 Campaign Overview
+type: research
+- both
+- research
+- world/both
+- active
+- status/in-progress
+created: 2025-08-11
+status: active
+updated: '2025-08-13T12:34:04.989177+00:00'
+world: Both
+*Additional notes*
+- Key events
+- Deadlines

@@ -56,7 +56,7 @@ world: Both
 4. [Resource Management](#resource-management)
 5. [Espionage & Infiltration](#espionage--infiltration)
 6. [Political Maneuvering](#political-maneuvering)
-7. [Mass Combat Resolution](#mass-combat-resolution)
+7. Subsequently, [Mass Combat Resolution](#mass-combat-resolution)
 8. [Economic Warfare](#economic-warfare)
 9. [NPC Loyalty System](#npc-loyalty-system)
 10. [Alliance & Betrayal Mechanics](#alliance--betrayal-mechanics)
@@ -738,6 +738,9 @@ Achieve equilibrium:
 - No faction domit
 - All five pillars balanced
 - Peaceful coexistence ### Random Event Table (d100) | Roll | Event | Effect |
+
+
+**Summary**: Random Event Table (d100) | Roll | Event | Effect | - Key information at a glance.
 
 
 |------|-------|--------|

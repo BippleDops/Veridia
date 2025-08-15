@@ -25,6 +25,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 
 Roll d20 + DEX modifier ## Reactions

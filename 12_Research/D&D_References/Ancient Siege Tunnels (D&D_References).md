@@ -65,6 +65,9 @@ The ancient engineers employed three distinct tunnel types: **Crystal-Carved Pas
 **Dwarven-Dug Networks**: [[Ironhold|02 Worldbuilding/Places/Ironhold]] miners created structurally superior passages using traditional methods
 **Hybrid Constructions**: Combined magical reinforcement with conventional excavation ### Major Active Sections **The Port Meridian Approach**
 
+
+**Summary**: Major Active Sections **The Port Meridian Approach** - Key information at a glance.
+
 - 15-mile tunnel connecting to [[Harbor District]]
 - Originally designed to bypass coastal defenses
 - Now used by [[Thieves Guild|02 Worldbuilding/Groups/Thieves Guild]] and smuggling operations

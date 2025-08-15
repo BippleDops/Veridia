@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: The Pressure Maelstroms
 type: Mechanics
@@ -61,7 +63,7 @@ Pressure Maelstroms represent one of Aquabyssos's most dangerous natural phenome
 
 **Level**: 10-15 **Hook**: Device that can predict maelstroms has been stolen by criminal organization **Investigation**: Track thieves through underwater criminal networks **Stakes**: Criminals plan to weaponize maelstroms or extort shipping companies **Challenge**: Recover device before next maelstrom season begins **Resolution**: Prevent artificial triggering of devastating pressure events #### The Deep Phenomenon
 
-**Level**: 12-18 **Hook**: Unusual maelstrom formation threatens major population center **Mystery**: This manifestation doesn't follow known patterns or natural laws **Investigation**: Discover connection to [[The Seven Shards]] or [[The Deep Mother]] **Challenge**: Find way to dissipate artificial maelstrom before city is destroyed **Epic Stakes**: Success prevents catastrophe, failure leads to massive casualties ## Player-Facing Summary The Pressure Maelstroms is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Pressure Maelstroms as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Pressure Maelstroms. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes ## Related Notes - [[Similar Topic 1]]
+**Level**: 12-18 **Hook**: Unusual maelstrom formation threatens major population center **Mystery**: This manifestation doesn't follow known patterns or natural laws **Investigation**: Discover connection to [[The Seven Shards]] or [[The Deep Mother]] **Challenge**: Find way to dissipate artificial maelstrom before city is destroyed **Epic Stakes**: Success prevents catastrophe, failure leads to massive casualties ## Player-Facing Summary The Pressure Maelstroms is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. Moreover, ## Lore Details Legends speak of The Pressure Maelstroms as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Pressure Maelstroms. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes ## Related Notes - [[Similar Topic 1]]
 
 - [[Contrasting Approach]]
 - [[Advanced Version]]

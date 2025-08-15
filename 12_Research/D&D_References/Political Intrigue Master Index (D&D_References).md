@@ -119,6 +119,9 @@ This master index provides a comprehensive guide to the political intrigue syste
 - Diplomatic events used to normalize shadow presence internationally
 - Assassination plots targeting anti-shadow political figures ### The Foreign Influence Matrix
 
+
+**Summary**: The Foreign Influence Matrix - Key information at a glance.
+
 **Tenebrarum Operations:**
 - Shadow Integration Party direct control
 - Progressive Democratic Alliance leadership infiltration
@@ -135,6 +138,9 @@ This master index provides a comprehensive guide to the political intrigue syste
 - Economic pressure through trade relationship manipulation
 - Cultural infiltration through educational and media programs
 - Military intelligence gathering to assess strategic threats ### The Noble House Alliance Networks
+
+
+**Summary**: The Noble House Alliance Networks - Key information at a glance.
 
 **Traditionalist Coalition:**
 - House Deepcurrent leadership with ancient entity backing

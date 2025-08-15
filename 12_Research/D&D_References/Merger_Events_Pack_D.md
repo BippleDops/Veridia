@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: "Merger Events Pack D \u2014 Faction Spotlight (Breach Zones)"
 type: gm_resource

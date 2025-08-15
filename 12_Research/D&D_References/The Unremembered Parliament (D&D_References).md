@@ -47,7 +47,7 @@ danger_level: Moderate
 
 A haunted legislative chamber beneath the current Parliament building where the spirits of Aquabyssos's first democratic representatives continue their debates. This forgotten room was sealed after a catastrophic political scandal, but the supernatural echoes of ancient political arguments still resonate. The chamber exists in a state of temporal suspension, where ghostly parliamentarians endlessly re-enact their final, fateful session. ## History
 
-Two centuries ago, before the current monarchy, Aquabyssos was governed by a democratically elected Parliament. A massive corruption scandal involving foreign influence and criminal cartels led to the government's collapse and the chamber's abandonment. The traumatic end to democracy left such a psychic impression that the spirits of the parliamentarians remain trapped, forever debating the crisis that destroyed their system. ## The Spectral Session
+Two centuries ago, before the current monarchy, governed Aquabyssos a democratically elected Parliament. A massive corruption scandal involving foreign influence and criminal cartels led to the government's collapse and the chamber's abandonment. The traumatic end to democracy left such a psychic impression that the spirits of the parliamentarians remain trapped, forever debating the crisis that destroyed their system. ## The Spectral Session
 
 **Ongoing Debate**: The spirits endlessly argue about their final legislation
 **Key Figures**: Ghostly Speaker, opposition leaders, and reform advocates

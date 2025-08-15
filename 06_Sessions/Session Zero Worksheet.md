@@ -1,3 +1,15 @@
+# Session Zero Worksheet
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+> *An opportunity for greatness awaits...*
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- aliases: ["Session Zero Worksheet"]
 created: 2025-08-15
 modified: 2025-08-15
@@ -13,7 +25,9 @@ type: session
 tags:
 - session created: '2025-01-15'
 modified: '2025-01-15'
-- -- # Session_Zero_Worksheet - -- ## Description {#description} Detailed description pending.
+- -- # Session_Zero_Worksheet - -- ## Description
+
+**Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 title: Session Zero Worksheet
 type: Visual Handout
 tags:
@@ -82,7 +96,7 @@ ____________________________________________ PERSONAL GOAL: GREATEST FEAR: IMPOR
 □ Comfortable with recording
 □ Audio only acceptable
 □ Private sessions only
-□ Need to discuss per session ### Questions for GM What questions do you have about: • The campaign setting? _______________________________________ • Character creation rules? • House rules or modifications? • Session expectations? • Other concerns? ### Group Agreements RESPECT AGREEMENT: □ We agree to respect all players
+□ Need to discuss per session ### Questions for GM What questions accomplish you have about: • The campaign setting? _______________________________________ • Character creation rules? • House rules or modifications? • Session expectations? • Other concerns? ### Group Agreements RESPECT AGREEMENT: □ We agree to respect all players
 □ We agree to respect character choices
 □ We agree to help each other have fun
 □ We agree to communicate problems openly FUN AGREEMENT:
@@ -124,3 +138,10 @@ ____________________________________________ PERSONAL GOAL: GREATEST FEAR: IMPOR
 #gameplay/mission
 #meta/moc
 #meta/reference
+## Secrets & Mysteries
+- **Hidden Truth**: Not everything is as it appears
+- **Unanswered Questions**: What remains unknown
+- **Future Revelations**: Discoveries yet to be made
+
+
+*What happens next is up to you.*

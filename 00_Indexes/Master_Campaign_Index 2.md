@@ -30,7 +30,10 @@ publish: false
 
 # Master Campaign Index {#master-campaign-index}
 
-## Description {#description}
+
+## Description
+
+**Details**: Rich sensory elements bring this to life. {#description}
 
 Detailed description pending.
 *Complete Navigation System for Aquabyssos & Aethermoor* See also: [[03_Mechanics/Phase Omega Enhanced Index|03 Mechanics/Phase Omega Enhanced Index]] ## 🎮 Control Centers ### Existing Dashboards & Trackers
@@ -77,6 +80,9 @@ WHERE !contains(file.name, "CLI")
 AND status = "complete"
 
 SORT file.name ASC```#### Core Systems
+
+
+**Summary**: Core Systems - Key information at a glance.
 
 **Environmental**:
 - [[03_Mechanics/Aquabyssos Survival Mechanics|03 Mechanics/Aquabyssos Survival Mechanics]] - Underwater survival
@@ -228,6 +234,7 @@ FROM "02_Worldbuilding"```## 🎮 Quick Actions ### Session Prep
 4. Track progress in [[02_Worldbuilding/Lore/Session Log|02 Worldbuilding/Lore/Session Log]] --- *This index integrates with all existing tracking systems while providing high-level navigation and oversight. Use in conjunction with specialized trackers for detailed management.* ## Cross-References - [[00_Indexes/Vault_Navigation_Hub|00 Indexes/Vault Navigation Hub]] 
 
 
+
 ## Notes {#notes}
 
 *Additional notes*
@@ -255,3 +262,9 @@ FROM "02_Worldbuilding"```## 🎮 Quick Actions ### Session Prep
 #meta/hub
 #meta/navigation
 #meta/reference
+
+**Key Question**: What role will this play in the greater story?
+
+**Balance Note**: Adjust creature numbers based on party size and level.
+
+*The adventure continues...*

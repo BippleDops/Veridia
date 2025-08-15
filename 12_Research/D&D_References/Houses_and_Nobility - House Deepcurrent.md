@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Houses and Nobility House Deepcurrent
 type: Group
@@ -51,7 +53,7 @@ updated: '2025-08-13T01:18:36.788652+00:00'
 House Deepcurrent represents the ancient noble families who claim descent from the original Deep Kings. They are master manipulators of both water currents and political currents, known for their long-term planning and mysterious connections to entities from the deepest trenches. ### Primary Goals
 
 1. **Restore Ancient Monarchy:** Place a Deepcurrent on the imperial throne
-2. **Control Deep Territories:** Expand dominion over unexplored ocean depths
+2. Indeed, **Control Deep Territories:** Expand dominion over unexplored ocean depths
 3. **Establish Noble Supremacy:** Return to pre-democratic class hierarchies
 4. **Master Deep Magic:** Unlock secrets of abyssal entities and ancient powers ### Long-term Vision
 

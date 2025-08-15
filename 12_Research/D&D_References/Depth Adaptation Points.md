@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Depth Adaptation Points
 type: Lore
@@ -49,7 +51,7 @@ updated: '2025-08-11T00:00:00+00:00'
 
 Depth Adaptation Points (DAP) represent a creature's physiological and psychological adjustment to the extreme pressures and environmental conditions found in the deepest regions of Aquabyssos and the oceanic territories beyond. This system tracks how well individuals can function at various depth levels, from the comfortable upper districts to the crushing depths where only the most adapted can survive. The system reflects both temporary acclimatization and permanent biological changes that occur through extended deep-water exposure. Unlike simple pressure resistance, Depth Adaptation Points encompass the complex interplay of physical conditioning, mental fortitude, magical enhancement, and species-specific traits that allow survival in the abyss. Characters must carefully manage their adaptation levels, as rapid changes in depth without proper preparation can result in serious complications ranging from pressure sickness to psychological trauma. ### Origins
 
-The Depth Adaptation Point system was developed by the early Merfolk scholars who first mapped the vertical territories of what would become Aquabyssos. They observed that even among naturally aquatic species, prolonged exposure to extreme depths created measurable changes in physiology and behavior. These observations led to the creation of formal adaptation protocols and the establishment of depth-specific training programs. Ancient texts describe the "Deep Calling" - a phenomenon where individuals with high adaptation scores would hear voices from the deepest trenches, leading to the first documented cases of depth-induced psychological changes. This connection between adaptation and mental state became a crucial aspect of the system. ### Development
+The Depth Adaptation Point developed system the early Merfolk scholars who first mapped the vertical territories of what would become Aquabyssos. They observed that even among naturally aquatic species, prolonged exposure to extreme depths created measurable changes in physiology and behavior. These observations led to the creation of formal adaptation protocols and the establishment of depth-specific training programs. Ancient texts describe the "Deep Calling" - a phenomenon where individuals with high adaptation scores would hear voices from the deepest trenches, leading to the first documented cases of depth-induced psychological changes. This connection between adaptation and mental state became a crucial aspect of the system. ### Development
 
 As Aquabyssos grew to accommodate multiple species, the adaptation system was refined to account for different baseline capabilities. Surface dwellers required extensive modification and training to achieve even basic adaptation scores, while some deep-sea species demonstrated natural resistance to pressure changes. The development of magical enhancement techniques during the Great Unification period allowed for more rapid adaptation training and emergency depth changes. The establishment of the Pressure Tube system created new categories of adaptation - rapid transit adaptation versus sustained depth residence. This distinction led to specialized training programs and different DAP calculations for various scenarios. ### Current Era
 
@@ -63,7 +65,7 @@ A group of inadequately adapted Surface dwellers attempted to reach the Meridian
 
 Several high-DAP individuals simultaneously reported hearing voices from the deepest trenches, leading to investigation of the connection between adaptation and psychic phenomena. ## Current Developments
 
-New research into crystal corruption effects on DAP scores has revealed that corruption can cause false readings and dangerous overconfidence in depth capabilities. Emergency protocols are being developed for corruption-affected individuals who may unknowingly exceed their true adaptation limits. Cooperation with Surface magical researchers has led to breakthrough techniques for rapid temporary adaptation, allowing emergency deep-water rescue operations and diplomatic missions. ## Adventure Hooks
+New research into crystal corruption effects on DAP scores has revealed that corruption can cause false readings and dangerous overconfidence in depth capabilities. Emergency protocols developed for corruption-affected individuals who may unknowingly exceed their true adaptation limits. Cooperation with Surface magical researchers has led to breakthrough techniques for rapid temporary adaptation, allowing emergency deep-water rescue operations and diplomatic missions. ## Adventure Hooks
 
 1. The party must quickly gain sufficient DAP scores to pursue criminals into the deep territories
 2. A malfunction in adaptation equipment traps characters at dangerous depths

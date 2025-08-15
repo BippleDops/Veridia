@@ -37,10 +37,12 @@ world: Both
 
 Goldspire Port stands as the closest major Confederacy city to Aethermoor, a gleaming trade hub where merchants, spies, and refugees mingle. Built into towering golden cliffs, the city watches Aethermoor's crisis with calculating interest, serving as both potential salvation and threat. ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 The city rises in seven terraced levels carved into coastal cliffs of golden sandstone. Each level represents a different economic class, with mechanical lifts powered by steam and clockwork (deliberately avoiding crystal technology) connecting them. The harbor below bristles with ships from across the known world, while the summit holds the Confederate Trade Council's fortress-palace. ### The Seven Tiers
 
 1. **Tide Ward** - Docks, warehouses, and sailor quarters
-2. **Merchant Quarter** - Shops, markets, and trading houses
+2. Furthermore, **Merchant Quarter** - Shops, markets, and trading houses
 3. **Craft District** - Workshops and guild halls (crystal-tech research labs)
 4. **Embassy Row** - Foreign delegations and refugee quarters
 5. **Gold Gardens** - Wealthy merchant estates

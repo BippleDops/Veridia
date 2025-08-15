@@ -28,6 +28,8 @@ publish: false
 
 ## Description
 
+**Tension**: The urgency of this quest creates palpable tension in the air.
+
 Detailed description pending.
 - Unexpected obstacles
 - Time pressure
@@ -42,7 +44,9 @@ Detailed description pending.
 - Main quest goal ### Optional
 
 - Secondary objectives
-- Hidden goals ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Combat Improvements - Add encounter scaling table for parties of 3-6 players, levels 1-20 ### Rewards Improvements - Create treasure parcels for each major encounter ### Structure Improvements - Add three-act structure with rising action ### Choices Improvements - Add meaningful decision points with consequences ### Roleplay Improvements - Include ethical challenges without clear answers ### Level_Range Improvements - Provide scaling for different level ranges ### Accessibility Improvements - Include content warnings and safety tools ### Variants Improvements - Add horror, intrigue, and comedy tone variants ### Session_Zero Improvements - Add session zero integration questions ### Backup Improvements - Add 'What if players skip this?' contingency ### Art Improvements - Add AI art prompts for key scenes ### Props Improvements - List physical props and handouts needed ## Adventure Overview An exciting quest that challenges heroes to uncover the truth. --- *Last Updated: 2025-08-14 19:03* ## DM Notes *Private notes for campaign integration:*
+- Hidden goals ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Combat Improvements - Add encounter scaling table for parties of 3-6 players, levels 1-20 ### Rewards
+
+**Experience Points**: 500 XP per character Improvements - Create treasure parcels for each major encounter ### Structure Improvements - Add three-act structure with rising action ### Choices Improvements - Add meaningful decision points with consequences ### Roleplay Improvements - Include ethical challenges without clear answers ### Level_Range Improvements - Provide scaling for different level ranges ### Accessibility Improvements - Include content warnings and safety tools ### Variants Improvements - Add horror, intrigue, and comedy tone variants ### Session_Zero Improvements - Add session zero integration questions ### Backup Improvements - Add 'What if players skip this?' contingency ### Art Improvements - Add AI art prompts for key scenes ### Props Improvements - List physical props and handouts needed ## Adventure Overview An exciting quest that challenges heroes to uncover the truth. --- *Last Updated: 2025-08-14 19:03* ## DM Notes *Private notes for campaign integration:*
 
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
@@ -157,3 +161,11 @@ Detailed description pending.
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+
+**Balance Note**: Adjust creature numbers based on party size and level.
+## Session Prep
+- **Read Aloud Text**: Prepared descriptions for key moments
+- **Key NPCs**: Important characters for this content
+- **Props Needed**: Physical or digital aids to enhance play
+- **Estimated Time**: How long this typically takes to run

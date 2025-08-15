@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Faction Network Tracker
 type: research
@@ -49,7 +51,7 @@ Specialized or limited influence organizations ### Emerging Factions
 
 New organizations gaining influence ## Usage Guidelines 1. **Regular Updates**: Revise relationships as campaign progresses
 
-2. **Player Impact**: Track how character actions affect faction dynamics
+2. Indeed, **Player Impact**: Track how character actions affect faction dynamics
 3. **Consequence Planning**: Use network to predict faction reactions
 4. **Story Integration**: Weave faction relationships into adventures
 5. **Opportunity Identification**: Find roleplay and conflict opportunities ---

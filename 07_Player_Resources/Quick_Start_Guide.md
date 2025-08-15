@@ -1,3 +1,10 @@
+# Quick Start Guide
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+> *An opportunity for greatness awaits...*
+
 --- title: 07_Player_Resources/Quick_Start_Guide
 type: lore
 tags:
@@ -38,3 +45,13 @@ publish: false --- -|--------|
 #story/story
 #story/lore
 #world/world
+
+**Key Question**: What role will this play in the greater story?
+## Session Prep
+- **Read Aloud Text**: Prepared descriptions for key moments
+- **Key NPCs**: Important characters for this content
+- **Props Needed**: Physical or digital aids to enhance play
+- **Estimated Time**: How long this typically takes to run
+
+
+*What happens next is up to you.*

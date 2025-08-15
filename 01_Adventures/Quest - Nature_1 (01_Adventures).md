@@ -1,3 +1,30 @@
+# Quest   Nature 1 (01 Adventures)
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+
+## Contents
+- [Overview](#overview)
+- [Description](#description)
+  - [Primary](#primary)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Alternative Solutions](#alternative-solutions)
+
+
+
+## Overview
+
+
+**Summary**: Overview - Key information at a glance.
+
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Comprehensive overview of this content.
+
 ---
 
 title: Quest Nature
@@ -40,6 +67,7 @@ publish: false
 
  ## Complications
 
+
 ## Description
 
 Detailed description pending.
@@ -50,6 +78,7 @@ Detailed description pending.
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety ## Objectives
+
 
 ### Primary
 
@@ -142,6 +171,8 @@ cr: 1/4```## DM Notes Play up tactile detail: sounds, pressure/wind changes, and
 
 - *[Side locations]* ## Rewards
 
+**Experience Points**: 500 XP per character
+
 *[What PCs gain from completing this adventure]* ### Experience Points
 
 - *[XP awards]* ### Treasure
@@ -193,6 +224,7 @@ cr: 1/4```## DM Notes Play up tactile detail: sounds, pressure/wind changes, and
 
 > Adjust difficulty based on party composition
 
+
 ## Notes
 
 *Additional notes*
@@ -214,9 +246,11 @@ cr: 1/4```## DM Notes Play up tactile detail: sounds, pressure/wind changes, and
 #resource/item
 #resource/treasure
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -224,6 +258,10 @@ cr: 1/4```## DM Notes Play up tactile detail: sounds, pressure/wind changes, and
 - Antagonists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+
+**Balance Note**: Adjust creature numbers based on party size and level.

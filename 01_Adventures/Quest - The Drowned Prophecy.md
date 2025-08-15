@@ -1,3 +1,20 @@
+# Quest   The Drowned Prophecy
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+> *What starts as simple becomes legendary...*
+
+
+## Contents
+- [Description](#description)
+  - [Primary](#primary)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Alternative Solutions](#alternative-solutions)
+
+
 ---
 
 title: Quest - The Drowned Prophecy
@@ -20,7 +37,10 @@ publish: false
 
  ## Complications
 
+
 ## Description
+
+**Tension**: The urgency of this quest creates palpable tension in the air.
 
 Detailed description pending.
 - Unexpected obstacles
@@ -71,12 +91,16 @@ updated: '2025-08-13T01:18:34.479424+00:00'
 - **Location**: Town center
 - **Motivation**: Community safety ## Objectives
 
+
 ### Primary
 
 - Main quest goal ### Optional
 
 - Secondary objectives
 - Hidden goals ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
+
+**Difficulty**: Moderate (Levels 3-5)
+
 
 Ancient prophecies are manifesting as physical objects in [[The Shadowmere|02 Worldbuilding/Places/The Shadowmere]]'s Lake Gloom—crystallized predictions of a coming flood that will transform Aethermoor into a second Aquabyssos. Someone is collecting these prophecy shards, and their intent could either prevent or ensure this catastrophic future. ## Quest Hook
 
@@ -104,7 +128,7 @@ Ancient prophecies are manifesting as physical objects in [[The Shadowmere|02 Wo
 **Following the Smuggling Route:**
 - [[Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]] has been moving prophecy shards through the markets
 - Claims he's just the middleman, doesn't know final buyer
-- [[Marcus Shardbreaker Grimm|02 Worldbuilding/People/Marcus Shardbreaker Grimm]] has been hired to protect shipments
+- [[Marcus Shardbreaker Grimm|02 Worldbuilding/People/Marcus Shardbreaker Grimm]] hireded to protect shipments
 - Marcus reveals buyer uses Crystal Warden codes **The Depth Speaker's Warning:**
 - Ancient entity in the Sunken Markets recognizes the danger
 - Reveals that collecting all prophecy shards can either: - Summon Thal'mexis, the Sunken Sovereign - Create a barrier preventing the Great Drowning
@@ -164,6 +188,8 @@ This quest bridges the gap between the crystal corruption storyline and the intr
 
 - *[Side locations]* ## Rewards
 
+**Experience Points**: 500 XP per character
+
 *[What PCs gain from completing this adventure]* ### Experience Points
 
 - *[XP awards]* ### Treasure
@@ -214,6 +240,7 @@ This quest bridges the gap between the crystal corruption storyline and the intr
 
 > Adjust difficulty based on party composition
 
+
 ## Notes
 
 *Additional notes*
@@ -237,9 +264,11 @@ This quest bridges the gap between the crystal corruption storyline and the intr
 #resource/treasure
 #meta/reference
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -247,6 +276,22 @@ This quest bridges the gap between the crystal corruption storyline and the intr
 - Antagonists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+## Stakes
+- **If Successful**: The positive outcomes that await
+- **If Failed**: The dire consequences of failure
+- **Time Pressure**: Why this cannot wait
+
+
+**Key Question**: Will the heroes rise to the challenge?
+
+**Balance Note**: Adjust creature numbers based on party size and level.
+## Session Prep
+- **Read Aloud Text**: Prepared descriptions for key moments
+- **Key NPCs**: Important characters for this content
+- **Props Needed**: Physical or digital aids to enhance play
+- **Estimated Time**: How long this typically takes to run

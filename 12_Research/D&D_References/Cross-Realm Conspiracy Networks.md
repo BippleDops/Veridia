@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Cross Realm Conspiracy Networks
 type: Lore
@@ -104,6 +106,9 @@ updated: '2025-08-13T01:18:34.535710+00:00'
 - Military secrets from both realms' defense forces
 - Diplomatic communications that could damage inter-realm relations
 - Technical specifications for reality anchors and dimensional travel equipment ### Specialized Services **Fugitive Transport**: Moving individuals who are wanted by authorities in one or both realms
+
+
+**Summary**: Specialized Services **Fugitive Transport**: Moving individuals who are wanted by authorities in one or both realms - Key information at a glance.
 
 - High-value political refugees or defectors
 - Criminals fleeing justice who can afford premium escape services - Spies and intelligence agents who need to disappear quickly **Identity Laundering**: Creating false identification documents and legal histories for clients

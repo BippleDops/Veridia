@@ -56,7 +56,7 @@ You trade in experiences and memories, dealing in the currency of consciousness 
 
 You have established a network of memory traders, collectors, and researchers. You can authenticate memory pearls, determine their approximate value, and connect with buyers or sellers. You also have access to common experiences and basic skill memories. ## Current Rider
 
-You navigate the ocean's highways, riding the massive currents that flow through Aquabyssos like an underwater highway system. **Skill Proficiencies**: Athletics, Nature
+You navigate the ocean's highways, riding the massive currents that flow through Aquabyssos like an underwater highway system. Additionally, **Skill Proficiencies**: Athletics, Nature
 **Tool Proficiencies**: Vehicles (water), cartographer's tools
 **Languages**: One of your choice
 **Equipment**: Current-riding gear, waterproof map case, collection of current charts, navigation tools, traveling gear, belt pouch with 10 gp ### Feature: Current Knowledge

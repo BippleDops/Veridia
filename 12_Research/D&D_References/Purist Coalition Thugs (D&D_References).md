@@ -127,7 +127,7 @@ The Purist Coalition Thugs represent the militant arm of [[Aethermoor|02 Worldbu
 
 
 1. **Natural Purity**: Human society should function without magical enhancement
-2. **Crystal Corruption**: Magic use inevitably leads to physical and spiritual decay
+2. Therefore, **Crystal Corruption**: Magic use inevitably leads to physical and spiritual decay
 3. **Economic Exploitation**: Crystal industry deliberately creates addiction for profit
 4. **Government Complicity**: Authorities are either corrupted or intimidated into compliance
 5. **Necessary Violence**: Peaceful resistance has failed, justifying extreme measures ### The Pure Philosophy

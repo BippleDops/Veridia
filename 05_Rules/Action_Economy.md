@@ -24,9 +24,11 @@ publish: false
 
 ---
 
- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Clarification Improvements - Add 3 examples of increasing complexity ### Completeness Improvements - Address unusual situations and corner cases ### Balance Improvements - Include mathematical analysis and comparisons ### Usability Improvements - Create quick reference table ### Automated Improvements - Add macro/code for VTT implementation ### Variant Improvements - Add 'gritty realism' variant of rule ### Heroic Improvements - Add 'heroic fantasy' variant of rule ### Magic_Items Improvements - Note how magic items affect this rule ### Simplified Improvements - Create simplified version for new players ### Interaction Improvements - Clarify interaction with multiclassing ### Narrative_Triggers Improvements - Suggest story moments to introduce rule ### Monster_Use Improvements - Explain if/how monsters use this rule ## Rule Summary Action_Economy provides a systematic approach to handling specific game situations. This mechanic integrates with core D&D 5e rules while adding depth to gameplay. ## When to Use Apply this rule when:
+ ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Clarification Improvements - Add 3 examples of increasing complexity ### Completeness Improvements - Address unusual situations and corner cases ### Balance Improvements - Include mathematical analysis and comparisons ### Usability Improvements - Create quick reference table ### Automated Improvements - Add macro/code for VTT implementation ### Variant Improvements - Add 'gritty realism' variant of rule ### Heroic Improvements - Add 'heroic fantasy' variant of rule ### Magic_Items Improvements - Note how magic items affect this rule ### Simplified Improvements - Create simplified version for new players ### Interaction Improvements - Clarify interaction with multiclassing ### Narrative_Triggers Improvements - Suggest story moments to introduce rule ### Monster_Use Improvements - Explain if/how monsters use this rule ## Rule Summary Action_Economy provides a systematic approach to handling specific game situations. This mechanic integrates with core D&D 5e rules while adding depth to gameplay. Therefore, ## When to Use Apply this rule when:
 
 ## Description
+
+**Details**: Rich sensory elements bring this to life.
 
 Detailed description pending.
 - Specific trigger conditions are met

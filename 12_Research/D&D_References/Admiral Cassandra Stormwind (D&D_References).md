@@ -43,7 +43,10 @@ updated: '2025-08-13T12:34:14.401376+00:00'
 
 *The Iron Lady of the Fleet, Scourge of Pirates, Guardian of the Crown Waters* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
-Admiral Cassandra Stormwind commands the Crown's naval forces with uncompromising honor and tactical brilliance. A veteran of dozens of sea battles, she has spent her career fighting pirates, smugglers, and the increasing threat of crystal corruption in the maritime trade routes. Known for her incorruptible nature and fierce loyalty to [[Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]], she remains unaware of the Queen's hidden condition while serving as one of her most trusted military advisors. #### **[[Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] - The Beloved Sovereign** **Historical Development**:
+Admiral Cassandra Stormwind commands the Crown's naval forces with uncompromising honor and tactical brilliance. A veteran of dozens of sea battles, she has spent her career fighting pirates, smugglers, and the increasing threat of crystal corruption in the maritime trade routes. Known for her incorruptible nature and fierce loyalty to [[Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]], she remains unaware of the Queen's hidden condition while serving as one of her most trusted military advisors. Therefore, #### **[[Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] - The Beloved Sovereign** **Historical Development**:
+
+
+**Summary**: **[[Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] - The Beloved Sovereign** **Historical Development**: - Key information at a glance.
 
 - **Military Training Period**: Served as Seraphina's naval tactics instructor during her princess education, developing deep professional respect
 - **Coronation Service**: Personally commanded the naval honor guard during Seraphina's coronation ceremony
@@ -58,6 +61,9 @@ Admiral Cassandra Stormwind commands the Crown's naval forces with uncompromisin
 - **The Corruption Suspicion**: Cassandra's divine sense detects something wrong with the Queen but loyalty prevents deeper investigation
 - **The Medical Mysteries**: Official explanations for Queen's health issues don't match Cassandra's military medical experience
 - **The Loyalty Conflict**: Growing awareness that absolute loyalty to the Crown might conflict with protection of the realm #### **[[Lord Commander Gareth Steelborn|02 Worldbuilding/People/Lord Commander Gareth Steelborn]] - The Army Counterpart** **Historical Development**:
+
+
+**Summary**: **[[Lord Commander Gareth Steelborn|02 Worldbuilding/People/Lord Commander Gareth Steelborn]] - The Army Counterpart** **Historical Development**: - Key information at a glance.
 
 - **Military Academy**: Both graduated from royal military academy in the same year, creating professional bond
 - **Joint Operations**: Fifteen years of coordinated army-navy operations have built mutual respect and tactical understanding
@@ -147,7 +153,7 @@ Admiral Cassandra Stormwind commands the Crown's naval forces with uncompromisin
 > - Her corruption resistance comes from an ancient blessing, not natural immunity
 > - Secretly investigates crystal corruption in the royal court
 > - Maintains contact with loyalist cells in case of government corruption
-> - Her parents were killed by crystal-corrupted nobles (motivation for service)
+> - Her killed parents crystal-corrupted nobles (motivation for service)
 > - The Queen has ordered her to ignore certain "irregularities" (growing suspicious) ## Motivations
 
 1. **Primary**: Protect the realm and its people from all maritime threats

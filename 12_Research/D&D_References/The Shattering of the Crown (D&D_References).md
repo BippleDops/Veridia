@@ -32,7 +32,7 @@ The Shattering of the Crown represents a significant element within the campaign
 
 Historical context and development over time. ### Current State
 
-Present circumstances and ongoing relevance. ### Future Potential
+Present circumstances and ongoing relevance. Therefore, ### Future Potential
 
 Possible developments and plot directions. ## Relationships
 

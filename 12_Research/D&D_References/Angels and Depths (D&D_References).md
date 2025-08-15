@@ -48,7 +48,7 @@ obsidian UIMode: preview
 updated: '2025-08-11T00:00:00+00:00'
 danger_level: Moderate
 
---- > [!figure] View # Angels and Depths *A weathered tavern where sea chanties blend with the whispers of the deep* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The **Angels and Depths** stands as one of [[Aquabyssos]]'s most storied taverns, built into the carved remains of an ancient [[Leviathan]] skeleton that washed ashore centuries ago. Located in the [[Port Quarter]], this establishment serves as neutral ground for [[Pirates]], [[Merfolk]] diplomats, and [[Deep Sea Cultists]] alike. The massive ribcage forms the main dining hall, while smaller chambers carved from vertebrae serve as private booths and guest rooms. ## Atmosphere & Description The tavern's interior is a marvel of nautical architecture. Bioluminescent coral growths provide ethereal blue-green lighting, while the polished bone walls are adorned with salvaged treasures from countless shipwrecks. The air carries the perpetual scent of sea salt, aged rum, and the mysterious depths. At high tide, seawater laps at the lower windows, creating an otherworldly ambiance as [[Abyssal Fish]] swim past the glass. The centerpiece is the **Kraken's Crown** - a massive chandelier crafted from crystallized tentacles that pulses with faint magical energy. Local legend claims it grants prophetic dreams to those who sleep beneath it, though the visions often come with a price. ### Cordelia "Dead-Eye" Marrows
+--- > [!figure] View # Angels and Depths *A weathered tavern where sea chanties blend with the whispers of the deep* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The **Angels and Depths** stands as one of [[Aquabyssos]]'s most storied taverns, built into the carved remains of an ancient [[Leviathan]] skeleton that washed ashore centuries ago. Located in the [[Port Quarter]], this establishment serves as neutral ground for [[Pirates]], [[Merfolk]] diplomats, and [[Deep Sea Cultists]] alike. The massive ribcage forms the main dining hall, while smaller chambers carved from vertebrae serve as private booths and guest rooms. Indeed, ## Atmosphere & Description The tavern's interior is a marvel of nautical architecture. Bioluminescent coral growths provide ethereal blue-green lighting, while the polished bone walls are adorned with salvaged treasures from countless shipwrecks. The air carries the perpetual scent of sea salt, aged rum, and the mysterious depths. At high tide, seawater laps at the lower windows, creating an otherworldly ambiance as [[Abyssal Fish]] swim past the glass. The centerpiece is the **Kraken's Crown** - a massive chandelier crafted from crystallized tentacles that pulses with faint magical energy. Local legend claims it grants prophetic dreams to those who sleep beneath it, though the visions often come with a price. ### Cordelia "Dead-Eye" Marrows
 
 *Female Human, Tavern Keeper*
 - **AS**: 15 (Studded Leather)
@@ -185,6 +185,9 @@ The tavern's foundation is built within the massive skeleton of an ancient [[Lev
 - **Political Updates**: Current tensions and diplomatic developments
 - **Criminal Intelligence**: Information about pirate activities and smuggling routes ### Cordelia "Dead-Eye" Marrows (Enhanced)
 
+
+**Summary**: Cordelia "Dead-Eye" Marrows (Enhanced) - Key information at a glance.
+
 *Female Human, Tavern Keeper* **Enhanced Background**:
 
 Cordelia's transformation from feared pirate captain to tavern keeper hides a complex past. Her ship, the *Crimson Depths*, was lost in an expedition to map [[The Abyssal Trenches]]. She was the sole survivor, rescued three days later floating unconscious near the surface. Her crew's fate remains unknown, and she refuses to discuss what happened in the deepest waters. **The Crystalline Eye**: Her replacement eye is carved from a rare deep-sea crystal that grants several abilities:
@@ -200,6 +203,9 @@ Cordelia's transformation from feared pirate captain to tavern keeper hides a co
 - **Afternoon**: Mingles with patrons, gathering information and maintaining relationships
 - **Evening**: Oversees entertainment and ensures peaceful atmosphere
 - **Night**: Private meetings with important contacts and intelligence gathering ### Thalassos the Tide-Speaker (Enhanced)
+
+
+**Summary**: Thalassos the Tide-Speaker (Enhanced) - Key information at a glance.
 
 *Male Merfolk, Diplomatic Envoy* **Extended Background**:
 

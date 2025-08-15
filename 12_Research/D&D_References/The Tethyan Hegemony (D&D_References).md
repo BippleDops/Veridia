@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: The Tethyan Hegemony
 type: Lore
@@ -47,9 +49,12 @@ updated: '2025-08-11T00:00:00+00:00'
 
 --- # The Tethyan Hegemony *The ancient maritime empire that dominated the pre-Drowning oceans and laid the foundation for modern Aquabyssos* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The Tethyan Hegemony was the greatest maritime empire in recorded history, controlling over 70% of the world's oceans for more than 1,400 years before the Great Drowning. Named after **Tethys the Sea-Walker**, the legendary figure who first united the scattered island nations under a single banner, the Hegemony represented the pinnacle of pre-Drowning naval technology, magical innovation, and political organization. Its legacy continues to shape Aquabyssos society, law, and culture to this day. ### The Foundation Period (1,847-1,823 BGD)
 
+
+**Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The Tethyan Hegemony was the greatest maritime empire in recorded history, controlling over 70% of the world's oceans for more than 1,400 years before the Great Drowning. Named after **Tethys the Sea-Walker**, the legendary figure who first united the scattered island nations under a single banner, the Hegemony represented the pinnacle of pre-Drowning naval technology, magical innovation, and political organization. Its legacy continues to shape Aquabyssos society, law, and culture to this day. ### The Foundation Period (1,847-1,823 BGD) - Key information at a glance.
+
 **The Unification Wars**
 
-The Hegemony began as a coalition of seven major island kingdoms facing increasing pressure from continental empires seeking to control sea trade. **Tethys the Sea-Walker**, originally a minor noble from the **Archipelago of Pearls**, emerged as a charismatic leader who could "walk" on water through unknown magical means. **Key Events:**
+The Hegemony began as a coalition of seven major island kingdoms facing increasing pressure from continental empires seeking to control sea trade. Furthermore, **Tethys the Sea-Walker**, originally a minor noble from the **Archipelago of Pearls**, emerged as a charismatic leader who could "walk" on water through unknown magical means. **Key Events:**
 - **1,847 BGD**: Tethys forms the **Alliance of Deep Waters** with three neighboring kingdoms
 - **1,844 BGD**: The **Battle of the Coral Throne** establishes naval supremacy over continental fleets
 - **1,841 BGD**: The **Conquest of the Golden Straits** secures control over major trade routes
@@ -57,6 +62,9 @@ The Hegemony began as a coalition of seven major island kingdoms facing increasi
 - **1,835 BGD**: The **Crown of Tides** is forged, establishing the royal succession
 - **1,832 BGD**: The **Great Assembly** creates the governmental structure
 - **1,823 BGD**: The **Declaration of Maritime Dominion** claims authority over all oceans ### The Expansion Era (1,823-1,456 BGD)
+
+
+**Summary**: The Expansion Era (1,823-1,456 BGD) - Key information at a glance.
 
 **The Age of Exploration**
 
@@ -116,7 +124,7 @@ While the Hegemony remained powerful, internal problems and external pressures g
 
 **The Last Emperors**
 
-The final 846 years of the Hegemony were marked by desperate attempts to maintain relevance while preparing for an increasingly uncertain future. **Emperor Abyssal the Deep-Sighted (847-823 BGD)**
+The final 846 years of the marked Hegemony desperate attempts to maintain relevance while preparing for an increasingly uncertain future. **Emperor Abyssal the Deep-Sighted (847-823 BGD)**
 
 Recognizing the Hegemony's decline, Abyssal began the **Great Preparation** - a massive project to ready Tethyan civilization for survival in a changed world. This included:
 - **Deep City Construction**: Building underwater settlements as emergency refuges
@@ -138,7 +146,7 @@ The Hegemony was an **Elective Monarchy** where the emperor was chosen by the **
 - **Fleet of the West**: Controlled sunset routes and western expansion
 - **Fleet of the Deep**: Managed underwater territories and deep-sea operations
 - **Fleet of the Surface**: Handled diplomatic and trade relations
-- **Reserve Fleet**: Emergency forces and imperial guard duties Each fleet was commanded by an **Admiral-General** who held both military and administrative authority over their region. ### Social Hierarchy
+- **Reserve Fleet**: Emergency forces and imperial guard duties Each commanded fleet an **Admiral-General** who held both military and administrative authority over their region. ### Social Hierarchy
 
 **The Tethyan Caste System**
 1. **Imperial Family**: Emperor and direct relatives
@@ -327,7 +335,7 @@ Archaeologists have discovered references to a missing volume of the **Imperial 
 
 A Tethyan Admiral-General has awakened from magical stasis after nearly 900 years and believes the Hegemony still exists. The characters must help this displaced leader understand the modern world while dealing with their attempts to "restore proper order" to Aquabyssos. ### The Deep Fleet Rising
 
-Signs suggest that elements of the lost Tethyan Navy are beginning to surface, complete with crews who have been preserved in magical stasis. The characters must determine whether these forces represent salvation or conquest for modern Aquabyssos. ### The Succession Crisis
+Signs suggest that elements of the lost Tethyan Navy are beginning to surface, complete with crews who preserveded in magical stasis. The characters must determine whether these forces represent salvation or conquest for modern Aquabyssos. ### The Succession Crisis
 
 A previously unknown heir to the Tethyan throne has appeared with seemingly legitimate claims to rule Aquabyssos as the successor state to the Hegemony. The characters must investigate these claims while navigating the political chaos caused by this challenge to current authority. ### The Crystal Palace Awakening
 

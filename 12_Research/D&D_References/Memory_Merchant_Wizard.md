@@ -52,7 +52,7 @@ You have contacts throughout the memory trade industry, including legitimate the
 
 Enhanced social manipulation and memory-related performance abilities. ### Wizard/Great Old One Warlock
 
-Eldritch patron provides access to alien memories and consciousness techniques. ### Wizard/Knowledge Cleric
+Eldritch patron provides access to alien memories and consciousness techniques. Meanwhile, ### Wizard/Knowledge Cleric
 
 Divine magic enhances memory preservation and consciousness protection abilities. ### Wizard/Aberrant Mind Sorcerer
 

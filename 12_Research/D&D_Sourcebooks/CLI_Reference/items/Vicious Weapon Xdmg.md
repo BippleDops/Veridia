@@ -178,3 +178,72 @@ world: Both
 #character/creature
 #resource/item
 #meta/reference
+
+## Merged Content from 1 Weapon Xdmg.md
+
+title: 1 Weapon Xdmg
+ # 1 Weapon Xdmg ---
+title: 1 Weapon Xdmg
+- +1 Weapon
+- +1 Antimatter Rifle
+- +1 Automatic Rifle
+- +1 Battleaxe
+- +1 Blowgun
+- +1 Club
+- +1 Dagger
+- +1 Dart
+- +1 Double-Bladed Scimitar
+- +1 Flail
+- +1 Glaive
+- +1 Greataxe
+- +1 Greatclub
+- +1 Greatsword
+- +1 Halberd
+- +1 Hand Crossbow
+- +1 Handaxe
+
+## Merged Content from 2 Weapon Xdmg.md
+
+title: 2 Weapon Xdmg
+ # 2 Weapon Xdmg ---
+title: 2 Weapon Xdmg
+- +2 Weapon
+- +2 Antimatter Rifle
+- +2 Automatic Rifle
+- +2 Battleaxe
+- +2 Blowgun
+- +2 Club
+- +2 Dagger
+- +2 Dart
+- +2 Double-Bladed Scimitar
+- +2 Flail
+- +2 Glaive
+- +2 Greataxe
+- +2 Greatclub
+- +2 Greatsword
+- +2 Halberd
+- +2 Hand Crossbow
+- +2 Handaxe
+
+## Merged Content from 3 Weapon Xdmg.md
+
+title: 3 Weapon Xdmg
+title: 3 Weapon Xdmg
+- +3 Weapon
+- +3 Antimatter Rifle
+- +3 Automatic Rifle
+- +3 Battleaxe
+- +3 Blowgun
+- +3 Club
+- +3 Dagger
+- +3 Dart
+- +3 Double-Bladed Scimitar
+- +3 Flail
+- +3 Glaive
+- +3 Greataxe
+- +3 Greatclub
+- +3 Greatsword
+- +3 Halberd
+- +3 Hand Crossbow
+- +3 Handaxe
+- +3 Heavy Crossbow

@@ -1,3 +1,12 @@
+# Npc Generator
+
+> *Every scar tells a story...* This remarkable element adds depth and intrigue to any campaign.
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- aliases: ["NPC Generator"]
 created: 2025-08-15
 modified: 2025-08-15
@@ -13,7 +22,9 @@ type: npc
 tags:
 - npc created: '2025-01-15'
 modified: '2025-01-15'
-- -- # NPC_Generator ## Portrait![[Npc|Npc]] * Portrait reference for NPC_Generator* ## Description * [Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key character traits]*
+- -- # NPC_Generator ## Portrait![[Npc|Npc]] * Portrait reference for NPC_Generator* ## Description
+
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. * [Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key character traits]*
 - **Ideals**: *[Core beliefs and values]*
 - **Bonds**: *[Important relationships and connections]*
 - **Flaws**: *[Character weaknesses or quirks]* ## Voice & Mannerisms - **Speaking Style**: *[How they talk and express themselves]*
@@ -28,7 +39,7 @@ modified: '2025-08-14'
 status: active
 world: Both
 updated: '2025-08-13T01:18:35.191831+00:00'
-- -- ## 🔧 Deep Evaluation Improvements * 20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary NPC Generator is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of NPC Generator as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around NPC Generator. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Plot Hooks - A journal reveals a betrayal about the government - A document has gone missing and chaos spreads ## 12_Research Specific Content Contextual improvement based on 12_Research ## Stats```statblock creature: Custom NPC```### Quick Stats - **AC**: *[Armor Class]*
+- -- ## 🔧 Deep Evaluation Improvements * 20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary NPC Generator is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. Subsequently, ## Lore Details Legends speak of NPC Generator as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around NPC Generator. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Plot Hooks - A journal reveals a betrayal about the government - A document has gone missing and chaos spreads ## 12_Research Specific Content Contextual improvement based on 12_Research ## Stats```statblock creature: Custom NPC```### Quick Stats - **AC**: *[Armor Class]*
 - **HP**: *[Hit Points]*
 - **Speed**: *[Movement speed]*
 - **STR/DEX/CON/INT/WIS/CHA**: *[Ability scores]* ### Combat - **Challenge Rating**: *[CR level]*
@@ -60,3 +71,8 @@ updated: '2025-08-13T01:18:35.191831+00:00'
 - Special moves ## Secrets {#secrets}
 - Hidden knowledge
 - Personal mysteries
+
+
+**Key Question**: What drives this character's actions?
+
+*What happens next is up to you.*

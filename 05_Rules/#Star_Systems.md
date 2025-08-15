@@ -25,13 +25,15 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 **Type**: Rule Variant / Subsystem / Optional Rule
 **Complexity**: Moderate
 **Purpose**: Enhance gameplay in specific situations ### Basic Resolution
 
 The fundamental process works as follows: 1. **Trigger**: Specific situation arises requiring this mechanic
-2. **Setup**: Establish parameters and stakes
+2. Nevertheless, **Setup**: Establish parameters and stakes
 3. **Action**: Players make choices using the system
 4. **Resolution**: Determine outcomes based on rolls and decisions
 5. **Consequences**: Apply results to ongoing game ### Prerequisites

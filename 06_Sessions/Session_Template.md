@@ -1,3 +1,12 @@
+# Session Template
+
+> *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- tags: [misc]
 type: misc
 aliases: ["Session Template"]
@@ -9,7 +18,9 @@ category: 06 Sessions
 subcategory: Session Template.Md
 related: []
 cssclass: standard
-publish: false --- # Session X - [Session Title] **Date**: [Date] ## Description {#description} Detailed description pending.
+publish: false --- # Session X - [Session Title] **Date**: [Date] ## Description
+
+**Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 **Duration**: [Hours]
 **Players Present**: [List] ## Session Summary *[Brief overview of what happened]* ## Key Events - *[Major story developments]*
 - *[Important decisions made]*
@@ -22,3 +33,9 @@ publish: false --- # Session X - [Session Title] **Date**: [Date] ## Description
 #gameplay/encounter
 #resource/item
 #resource/treasure
+
+**Key Question**: What role will this play in the greater story?
+
+**Balance Note**: Adjust creature numbers based on party size and level.
+
+*What happens next is up to you.*

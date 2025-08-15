@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: The Last Seeds
 type: Location
@@ -48,7 +50,7 @@ danger_level: Moderate
 
 A critical environmental quest where players must recover the last surviving seeds of the Great Kelp Forests that once thrived around Aquabyssos. These magical plants provided oxygen, food, and natural protection for the city, but disease and corruption have nearly driven them to extinction. Time is running out as the city's air recycling systems begin to fail without the natural kelp forests to supplement them. ## Quest Background
 
-Decades ago, vast kelp forests surrounded Aquabyssos, forming natural barriers and life support systems. A mysterious blight began destroying these forests five years ago, and despite all efforts, they continue to die. The last hope lies in ancient seed vaults scattered throughout the ocean depths. ## The Three Vaults
+Decades ago, vast kelp forests surrounded Aquabyssos, forming natural barriers and life support systems. A mysterious blight began destroying these forests five years ago, and despite all efforts, they continue to die. The last hope lies in ancient seed vaults scattered throughout the ocean depths. Therefore, ## The Three Vaults
 
 **The Sunken Vault**: Located in ancient ruins, guarded by corrupted sea life
 **The Deep Vault**: In crushing ocean depths, protected by pressure-adapted guardians

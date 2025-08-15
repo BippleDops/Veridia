@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: "Player Handout \u2014 M-L-05 The Dream Sovereign"
 type: Lore

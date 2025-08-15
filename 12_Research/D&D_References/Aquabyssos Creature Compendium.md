@@ -30,7 +30,7 @@ Aquabyssos Creature Compendium represents a significant element within the campa
 
 ### Background
 
-Historical context and development over time. ### Current State
+Historical context and development over time. Moreover, ### Current State
 
 Present circumstances and ongoing relevance. ### Future Potential
 

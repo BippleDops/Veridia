@@ -1,4 +1,10 @@
---- ## Description * [Add detailed physical appearance and personality traits here]* ## Personality {#description-*-[add-detailed-physical-appearance-and-personality-traits-here]*-##-personality} - **Traits**: *[Key character traits]*
+# Character Creation Extended.Md
+
+> *Every scar tells a story...* This remarkable element adds depth and intrigue to any campaign.
+
+--- ## Description
+
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. * [Add detailed physical appearance and personality traits here]* ## Personality {#description-*-[add-detailed-physical-appearance-and-personality-traits-here]*-##-personality} - **Traits**: *[Key character traits]*
 - **Ideals**: *[Core beliefs and values]*
 - **Bonds**: *[Important relationships and connections]*
 - **Flaws**: *[Character weaknesses or quirks]* ## Voice & Mannerisms - **Speaking Style**: *[How they talk and express themselves]*
@@ -64,3 +70,8 @@ publish: false --- -|--------|
 - Special moves ## Secrets {#secrets}
 - Hidden knowledge
 - Personal mysteries
+
+
+**Key Question**: What drives this character's actions?
+
+*What happens next is up to you.*

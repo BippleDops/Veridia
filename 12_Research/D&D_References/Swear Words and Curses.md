@@ -32,7 +32,7 @@ Swear Words and Curses represents a significant element within the campaign worl
 
 Historical context and development over time. ### Current State
 
-Present circumstances and ongoing relevance. ### Future Potential
+Present circumstances and ongoing relevance. Indeed, ### Future Potential
 
 Possible developments and plot directions. ## Relationships
 

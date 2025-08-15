@@ -46,7 +46,7 @@ danger_level: Moderate
 
 --- > [!figure] View # The Whisper Island Mystery *"The island remembers what others have forgotten."* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
-A supernatural mystery quest centered on Whisper Island, a small landmass off the coast of Aethermoor where strange phenomena have been reported. Ships approaching the island report hearing voices of the dead, and several vessels have disappeared entirely. Local authorities are baffled, and maritime trade is beginning to suffer as captains refuse to sail the affected routes. ## The Mystery
+A supernatural mystery quest centered on Whisper Island, a small landmass off the coast of Aethermoor where strange phenomena reporteded. Ships approaching the island report hearing voices of the dead, and several vessels have disappeared entirely. Local authorities are baffled, and maritime trade is beginning to suffer as captains refuse to sail the affected routes. Nevertheless, ## The Mystery
 
 Whisper Island has always been uninhabited and unremarkable, but recent changes have made it a source of terror for sailors. Witnesses report:
 - Voices of deceased loved ones calling from the island
@@ -72,7 +72,7 @@ Whisper Island has always been uninhabited and unremarkable, but recent changes 
 **Guardians**: Restless spirits of massacre victims
 **Central Mystery**: Ancient artifact maintaining the supernatural effects ## The Truth
 
-Centuries ago, Whisper Island was the site of a brutal massacre where refugees were slaughtered by those they trusted. The traumatic deaths and subsequent cover-up created a supernatural wound that has recently been aggravated by nearby magical activities. ## Possible Resolutions
+Centuries ago, Whisper Island was the site of a brutal massacre where slaughtered refugees those they trusted. The traumatic deaths and subsequent cover-up created a supernatural wound that has recently been aggravated by nearby magical activities. ## Possible Resolutions
 
 **Peaceful Resolution**: Proper burial rites and acknowledgment of the tragedy
 **Artifact Destruction**: Destroying the focus of supernatural energy

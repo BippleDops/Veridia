@@ -1,3 +1,27 @@
+# Quest   The Pressure Cure 1 (01 Adventures)
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+
+## Contents
+- [Overview](#overview)
+- [Description](#description)
+  - [Primary](#primary)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Alternative Solutions](#alternative-solutions)
+
+
+
+## Overview
+
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Comprehensive overview of this content.
+
 ---
 
 title: Quest The Pressure Cure
@@ -34,7 +58,10 @@ publish: false
 
  ## Complications
 
+
 ## Description
+
+**Tension**: The urgency of this quest creates palpable tension in the air.
 
 Detailed description pending.
 - Unexpected obstacles
@@ -44,6 +71,7 @@ Detailed description pending.
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety > [!figure] Portrait ## Objectives
+
 
 ### Primary
 
@@ -69,7 +97,7 @@ Detailed description pending.
 
 - Pursuing a specific objective
 - Dealing with recent developments
-- Planning future operations ## Plot Hooks 1. **The Request**: Quest - The Pressure Cure needs assistance with a delicate matter
+- Planning future operations ## Plot Hooks 1. Furthermore, **The Request**: Quest - The Pressure Cure needs assistance with a delicate matter
 
 2. **The Opposition**: Someone wants Quest - The Pressure Cure stopped or removed
 3. **The Secret**: Information about Quest - The Pressure Cure's past surfaces
@@ -132,6 +160,8 @@ cr: 1/4```## DM Notes Play up tactile detail: sounds, pressure/wind changes, and
 
 - *[Side locations]* ## Rewards
 
+**Experience Points**: 500 XP per character
+
 *[What PCs gain from completing this adventure]* ### Experience Points
 
 - *[XP awards]* ### Treasure
@@ -189,6 +219,7 @@ cr: 1/4```## DM Notes Play up tactile detail: sounds, pressure/wind changes, and
 | 6 | Option F |
 
 
+
 ## Notes
 
 *Additional notes*
@@ -210,9 +241,11 @@ cr: 1/4```## DM Notes Play up tactile detail: sounds, pressure/wind changes, and
 #resource/item
 #resource/treasure
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -220,6 +253,10 @@ cr: 1/4```## DM Notes Play up tactile detail: sounds, pressure/wind changes, and
 - Antagonists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+
+**Balance Note**: Adjust creature numbers based on party size and level.

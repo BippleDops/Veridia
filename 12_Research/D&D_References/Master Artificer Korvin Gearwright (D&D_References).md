@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Master Artificer Korvin Gearwright
 type: NPC
@@ -41,7 +43,7 @@ updated: '2025-08-13T01:18:36.966287+00:00'
 
 *The Crystal Innovator, Father of Modern Aethertech* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
-Master Artificer Korvin Gearwright stands at the forefront of crystal technology innovation in [[Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]. A brilliant gnome inventor who sees Aether Crystals as the key to a utopian future, he creates devices that push the boundaries of what's possible—often without fully considering the consequences. His workshop produces both miracles and disasters in equal measure. ### Surface Level: The Enthusiastic Innovator
+Master Artificer Korvin Gearwright stands at the forefront of crystal technology innovation in [[Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]. A brilliant gnome inventor who sees Aether Crystals as the key to a utopian future, he creates devices that push the boundaries of what's possible—often without fully considering the consequences. His workshop produces both miracles and disasters in equal measure. Additionally, ### Surface Level: The Enthusiastic Innovator
 
 **Public Persona and Professional Demeanor**
 - Projects boundless enthusiasm for crystal technology and its potential benefits

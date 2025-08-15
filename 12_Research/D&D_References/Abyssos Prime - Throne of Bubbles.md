@@ -23,6 +23,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Abyssos Prime Throne of Bubbles
 type: Npc
@@ -56,7 +58,7 @@ world: Aquabyssos
 
 The Throne of Bubbles serves as the ceremonial heart of Aquabyssos's royal power, a magnificent underwater structure where Queen Nerida holds court and receives dignitaries. The throne itself is carved from a single massive pearl, surrounded by continuously rising streams of luminescent bubbles that create an ethereal, otherworldly atmosphere. Located in the deepest chamber of the Royal Palace, it represents the ultimate symbol of authority over the underwater realm. The throne room combines natural underwater beauty with sophisticated magical engineering. Currents are carefully controlled to create dramatic effects, while bioluminescent creatures provide shifting, colored lighting that responds to the Queen's emotional state and the nature of proceedings. ## Physical Description
 
-The chamber stretches 200 feet in diameter with a vaulted ceiling that rises 100 feet overhead. The throne itself sits on a raised dais at the center, carved from a pearl the size of a small building. Hundreds of thousands of enchanted bubbles continuously rise from hidden vents in the seafloor, creating columns of shimmering light that dance around the throne. Surrounding the central area are tiers of curved seating for courtiers, visiting dignitaries, and witnesses to royal proceedings. The walls feature intricate coral formations that have been shaped over centuries to create natural artwork depicting the history of Aquabyssos. ## Magical Properties
+The chamber stretches 200 feet in diameter with a vaulted ceiling that rises 100 feet overhead. The throne itself sits on a raised dais at the center, carved from a pearl the size of a small building. Hundreds of thousands of enchanted bubbles continuously rise from hidden vents in the seafloor, creating columns of shimmering light that dance around the throne. Surrounding the central area are tiers of curved seating for courtiers, visiting dignitaries, and witnesses to royal proceedings. The walls feature intricate coral formations that shapeded over centuries to create natural artwork depicting the history of Aquabyssos. Therefore, ## Magical Properties
 
 **Voice Amplification:** The chamber's acoustics magically carry speech clearly to all corners
 **Emotional Resoce:** The bubble streams and lighting shift color based on prevailing moods

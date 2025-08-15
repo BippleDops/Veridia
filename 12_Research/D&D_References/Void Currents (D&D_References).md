@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Void Currents
 type: Location
@@ -64,7 +66,7 @@ danger_level: Moderate
 
 **Definition**: Areas where reality simply ceases to exist **Appearance**: Visible as absolute voids in the water **Effect**: Anything entering space pockets ceases to exist **Expansion**: Some pockets slowly expanding, consuming surrounding reality **Permanence**: Unknown whether space pockets are permanent or temporary #### The Wounded Reality Theory
 
-**Hypothesis**: Reality was damaged by some ancient catastrophic event **Evidence**: Consistent patterns in void phenomena suggesting systematic damage **Mechanism**: Void currents as "bleeding" from reality wounds **Healing**: Possibility that reality might eventually heal itself **Intervention**: Theoretical methods for accelerating or guiding reality healing #### Dimensional Incursion Model
+**Hypothesis**: damaged Reality some ancient catastrophic event **Evidence**: Consistent patterns in void phenomena suggesting systematic damage **Mechanism**: Void currents as "bleeding" from reality wounds **Healing**: Possibility that reality might eventually heal itself **Intervention**: Theoretical methods for accelerating or guiding reality healing #### Dimensional Incursion Model
 
 **Theory**: Void currents are intrusions from other dimensions or realities **Support**: Phenomena consistent with contact between different reality systems **Origin**: Unknown source dimension with different physical laws **Purpose**: Uncertain whether incursions are random or intentional **Defense**: Potential methods for blocking or repelling dimensional incursions #### The Ancient Experiment Hypothesis
 
@@ -190,7 +192,10 @@ danger_level: Moderate
 
 **Trauma**: Treatment of void current survivor psychological trauma **Information**: Extraction of information from contaminated memories **Research**: Research into memory effects of void current exposure **Ethics**: Ethical issues of exploiting traumatized void survivors **Healing**: Attempts to heal void-damaged minds and memories ## Secrets and Hidden Aspects > [!secret] DM Secret - The Conscious Void
 
-> The void currents are not random phenomena but manifestations of a vast, alien intelligence that exists outside normal reality. This entity is slowly consuming reality not out of malice, but because it literally cannot comprehend the concept of existence as we understand it. Every "void current" is actually a thought or dream of this entity bleeding into our reality. The entity is vaguely aware that its presence causes problems for "the small thinking things" (sentient beings), but it finds their existence as incomprehensible as they find its non-existence. > [!secret] DM Secret - The Reality Refugees
+
+**Summary**: Secrets and Hidden Aspects > [!secret] DM Secret - The Conscious Void - Key information at a glance.
+
+> The void currents are not random phenomena but manifestations of a vast, alien intelligence that exists outside normal reality. This entity is slowly consuming reality not out of malice, but because it literally cannot comprehend the concept of existence as we understand it. Every "void current" is actually a thought or dream of this entity bleeding into our reality. The entity is vaguely aware that its presence causes problems for "the small thinking things" (sentient beings), but it finds their existence as incomprehensible as they find its non-existence. However, > [!secret] DM Secret - The Reality Refugees
 
 > Some of the "void echoes" are actually refugees from other realities that have been completely consumed by void phenomena. These beings managed to escape their dying realities by hiding in the spaces between worlds, but they can only manifest as echoes in our reality. A few of these refugees have been trying to warn Aquabyssos about the true scale of the void threat, but their communications are so distorted by their echo-state that they appear to be random void phenomena. > [!secret] DM Secret - The Artificial Origin
 > The void currents were actually created by an ancient Aquabyssos civilization that was trying to transcend physical existence and become beings of pure thought and energy. Their experiment succeeded too well - they did transcend physical existence, but in doing so, they created wounds in reality where physical existence becomes impossible. The void currents are growing stronger because the consciousness of this ancient civilization is slowly "waking up" after millennia of dormancy, and as it becomes more aware, its incompatibility with physical reality becomes more pronounced. --- **Related Locations**:

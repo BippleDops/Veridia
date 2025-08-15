@@ -1,3 +1,7 @@
+# Session 3 Underwater Chase
+
+> *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
+
 --- aliases: ["Session 3 Underwater Chase"]
 created: 2025-08-15
 modified: 2025-08-15
@@ -13,7 +17,9 @@ type: session
 tags:
 - session created: '2025-01-15'
 modified: '2025-01-15'
-- -- # Session 3 Underwater Chase ## Overview This document contains important information regarding Session 3 Underwater Chase and its role within the greater narrative. ## Description Session 3 Underwater Chase represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information - **Primary Purpose**: Serves specific function within the world
+- -- # Session 3 Underwater Chase ## Overview This document contains important information regarding Session 3 Underwater Chase and its role within the greater narrative. ## Description
+
+**Details**: Rich sensory elements bring this to life. Session 3 Underwater Chase represents a significant element within the campaign world, offering various opportunities for engagement and development. Subsequently, ## Key Information - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements
 - **Significance**: Important for understanding broader context ## Details ### Background Historical context and development over time. ### Current State Present circumstances and ongoing relevance. ### Future Potential Possible developments and plot directions. ## Relationships - Connected to various other elements within the vault
 - Part of larger narrative structures
@@ -28,3 +34,7 @@ modified: '2025-01-15'
 #story/background
 #world/world
 #gameplay/session
+
+**Key Question**: What role will this play in the greater story?
+
+*Every story needs its heroes.*

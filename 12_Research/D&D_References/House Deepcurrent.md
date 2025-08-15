@@ -59,7 +59,7 @@ House Deepcurrent represents the ancient noble families who claim descent from t
 4. **Master Deep Magic:** Unlock secrets of abyssal entities and ancient powers ### Long-term Vision
 
 
-House Deepcurrent dreams of a new golden age where noble houses rule absolutely, the depths are fully explored and controlled, and the ancient pacts with deep entities are renewed. They see democracy as a temporary aberration that must be corrected. ### The Deep Pact (Highest Classification)
+House Deepcurrent dreams of a new golden age where noble houses rule absolutely, the depths are fully explored and controlled, and the ancient pacts with deep entities are renewed. They see democracy as a temporary aberration that must be corrected. Subsequently, ### The Deep Pact (Highest Classification)
 
 **Secret:** The house has maintained a centuries-old contract with entities from the Mariana Depths
 **Details:** Regular sacrifices of memory and emotion in exchange for:

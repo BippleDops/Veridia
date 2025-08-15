@@ -1,3 +1,12 @@
+# Character Creation Flowchart
+
+> *Not all allies are what they seem...* This remarkable element adds depth and intrigue to any campaign.
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- title: Character_Creation_Flowchart
 type: npc
 tags:
@@ -10,7 +19,9 @@ category: 03 People
 subcategory: Character Creation Flowchart.Md
 related: []
 cssclass: standard
-publish: false --- # Character_Creation_Flowchart ## Portrait![[Character_Creation_Flowchart|Character Creation Flowchart]] *Portrait reference for Character_Creation_Flowchart* ## Description *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key character traits]*
+publish: false --- # Character_Creation_Flowchart ## Portrait![[Character_Creation_Flowchart|Character Creation Flowchart]] *Portrait reference for Character_Creation_Flowchart* ## Description
+
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. *[Add detailed physical appearance and personality traits here]* ## Personality - **Traits**: *[Key character traits]*
 - **Ideals**: *[Core beliefs and values]*
 - **Bonds**: *[Important relationships and connections]*
 - **Flaws**: *[Character weaknesses or quirks]* ## Voice & Mannerisms - **Speaking Style**: *[How they talk and express themselves]*
@@ -82,3 +93,6 @@ world: Both --- ## 🔧 Deep Evaluation Improvements *20 targeted improvements i
 - Special moves ## Secrets {#secrets}
 - Hidden knowledge
 - Personal mysteries
+
+
+*Adventure awaits those brave enough to seek it.*

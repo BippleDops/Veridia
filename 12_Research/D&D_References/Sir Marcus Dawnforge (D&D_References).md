@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Sir Marcus Dawnforge
 type: NPC
@@ -42,7 +44,7 @@ Sir Marcus Dawnforge is a conflicted veteran knight of the [[Order of the Shatte
 
 > [!warning] The Crystal Whispers
 
-> Marcus's prosthetic arm is made from a fragment of the [[Azure Shard]]. It whispers to him in his dreams, showing him visions of a world where crystal and flesh merge perfectly. He's slowly being influenced to believe that controlled corruption might be humanity's evolution. > [!danger] The Heretic's Truth
+> Marcus's prosthetic arm is made from a fragment of the [[Azure Shard]]. It whispers to him in his dreams, showing him visions of a world where crystal and flesh merge perfectly. He's slowly being influenced to believe that controlled corruption might be humanity's evolution. Subsequently, > [!danger] The Heretic's Truth
 > Marcus discovered that the Order's founding charter contains a hidden clause: when all Seven Shards are found, the Order is commanded to forcibly merge them with seven "worthy" hosts to create living gods. He's desperately trying to prevent this while appearing loyal. > [!info] Hidden Ally
 > Marcus secretly funds an underground railroad helping people escape forced crystal augmentation. He uses his Order privileges to forge travel documents and warn targets before raids. ## Stats
 

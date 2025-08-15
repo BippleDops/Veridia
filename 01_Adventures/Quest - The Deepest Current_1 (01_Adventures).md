@@ -1,3 +1,29 @@
+# Quest   The Deepest Current 1 (01 Adventures)
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+> *The fate of many hangs in the balance...*
+
+
+## Contents
+- [Overview](#overview)
+- [Description](#description)
+  - [Primary](#primary)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Alternative Solutions](#alternative-solutions)
+
+
+
+## Overview
+
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Comprehensive overview of this content.
+
 ---
 
 title: Quest The Deepest Current
@@ -35,6 +61,7 @@ publish: false
 
  ## Complications
 
+
 ## Description
 
 Detailed description pending.
@@ -45,6 +72,7 @@ Detailed description pending.
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety > [!figure] Portrait ## Objectives
+
 
 ### Primary
 
@@ -70,7 +98,7 @@ Detailed description pending.
 
 - Pursuing a specific objective
 - Dealing with recent developments
-- Planning future operations ## Plot Hooks 1. **The Request**: Quest - The Deepest Current needs assistance with a delicate matter
+- Planning future operations ## Plot Hooks 1. Furthermore, **The Request**: Quest - The Deepest Current needs assistance with a delicate matter
 
 2. **The Opposition**: Someone wants Quest - The Deepest Current stopped or removed
 3. **The Secret**: Information about Quest - The Deepest Current's past surfaces
@@ -120,6 +148,8 @@ cr: 1/4```## DM Notes Play up tactile detail: sounds, pressure/wind changes, and
 - *[Major locations to visit]* ### Optional Areas
 
 - *[Side locations]* ## Rewards
+
+**Experience Points**: 500 XP per character
 
 *[What PCs gain from completing this adventure]* ### Experience Points
 
@@ -178,6 +208,7 @@ cr: 1/4```## DM Notes Play up tactile detail: sounds, pressure/wind changes, and
 | 6 | Option F |
 
 
+
 ## Notes
 
 *Additional notes*
@@ -199,9 +230,11 @@ cr: 1/4```## DM Notes Play up tactile detail: sounds, pressure/wind changes, and
 #resource/item
 #resource/treasure
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -209,6 +242,22 @@ cr: 1/4```## DM Notes Play up tactile detail: sounds, pressure/wind changes, and
 - Antagonists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+## Stakes
+- **If Successful**: The positive outcomes that await
+- **If Failed**: The dire consequences of failure
+- **Time Pressure**: Why this cannot wait
+
+
+**Key Question**: Will the heroes rise to the challenge?
+
+**Balance Note**: Adjust creature numbers based on party size and level.
+## Session Prep
+- **Read Aloud Text**: Prepared descriptions for key moments
+- **Key NPCs**: Important characters for this content
+- **Props Needed**: Physical or digital aids to enhance play
+- **Estimated Time**: How long this typically takes to run

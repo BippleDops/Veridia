@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Consequence Chain 3 Reality Merger
 type: Lore
@@ -59,6 +61,9 @@ world: Both Worlds
 
 *When Two Worlds Became One and Politics Had to Follow* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Initial Action **What the players did:**
 
+
+**Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Initial Action **What the players did:** - Key information at a glance.
+
 - Triggered partial reality merger between Aethermoor and Aquabyssos during Deep Mother confrontation
 - Negotiated with both realm's leadership to prevent total war over merged territories
 - Facilitated first direct diplomatic contact between surface and underwater civilizations
@@ -77,6 +82,9 @@ world: Both Worlds
 - Emergency joint councils formed to prevent civil war
 - Reality anomalies created permanent magical effects throughout merged areas
 - International observers from Eastern Kingdoms establishing diplomatic presence ## Primary Ripples (Days/Weeks) **Economic impacts:**
+
+
+**Summary**: Primary Ripples (Days/Weeks) **Economic impacts:** - Key information at a glance.
 
 - **Currency crisis**: Two incompatible monetary systems suddenly merged
 - **Property law chaos**: Ownership disputes between surface and underwater claims

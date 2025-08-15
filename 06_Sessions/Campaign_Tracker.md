@@ -1,6 +1,17 @@
+# Campaign Tracker
+
+> *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- tags: [note]
 type: note
-- -- # Campaign Tracker ## Campaign Overview ## Description {#description} Detailed description pending.
+- -- # Campaign Tracker ## Campaign Overview ## Description
+
+**Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 **Campaign Name**: *[Campaign Title]*
 **Start Date**: *[Date]*
 **Current Session**: *[Number]* ## Party Status ### Current Level - *[Party level]* ### Current Location - *[Where the party is now]* ### Current Objective - *[Main goal]* ## Active Plot Threads - *[Ongoing storylines]* ## Completed Arcs - *[Finished storylines]* ## Important NPCs ### Allies - *[Friendly NPCs]* ### Enemies - *[Hostile NPCs]* ### Neutral - *[Uncommitted NPCs]* ## Key Locations ### Visited - *[Places party has been]* ### Known But Unvisited - *[Places party knows about]* ### Secret/Unknown - *[Hidden locations]* ## Major Events Timeline | Session | Date | Event |
@@ -31,3 +42,7 @@ publish: false --- ------|------|-------|
 #world/place
 #character/npc
 #gameplay/session
+
+**Key Question**: What role will this play in the greater story?
+
+*What happens next is up to you.*

@@ -1,3 +1,15 @@
+# Session 18 Horror Corruption
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+> *An opportunity for greatness awaits...*
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- aliases: ["Session 18 Horror Corruption"]
 created: 2025-08-15
 modified: 2025-08-15
@@ -76,3 +88,7 @@ world: Aquabyssos
 #character/character
 #gameplay/session
 #meta/reference
+
+**Key Question**: What role will this play in the greater story?
+
+*What happens next is up to you.*

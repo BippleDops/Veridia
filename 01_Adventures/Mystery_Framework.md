@@ -26,6 +26,8 @@ publish: false
 
 ## Description
 
+**Tension**: The urgency of this quest creates palpable tension in the air.
+
 Detailed description pending.
 **Key Clues**: 7 essential pieces
 **Red Herrings**: 5 false leads

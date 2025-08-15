@@ -46,6 +46,9 @@ updated: '2025-08-13T01:18:35.916957+00:00'
 
 *Learning to Live in the Depths* ### Year 1 AE - The Foundation Year **1st Month, Day 15** - First Joint Parliament Session
 
+
+**Summary**: Year 1 AE - The Foundation Year **1st Month, Day 15** - First Joint Parliament Session - Key information at a glance.
+
 - Speaker Marina Deepcall presided over the first combined surface-Aethermoor legislative session
 - Passed the Basic Survival Codes: regulations for air-breathers in water environments
 - Established the Department of Reality Integration **2nd Month, Day 3** - The Great Census of Adaptation - Population count: 2,134,455 survivors from both realms
@@ -88,6 +91,9 @@ updated: '2025-08-13T01:18:35.916957+00:00'
 - Introduction of the "Current" as unified Aquabyssos currency
 - Crystal-based banking system operational throughout all depths
 - Trade agreements with neighboring undiscovered realms established ### Years 16-45 AE - The Cultural Synthesis Period **Year 18 AE** - First Generation of True Aquabyssos Natives Reach Adulthood
+
+
+**Summary**: Years 16-45 AE - The Cultural Synthesis Period **Year 18 AE** - First Generation of True Aquabyssos Natives Reach Adulthood - Key information at a glance.
 
 - 12,000+ individuals born post-Convergence entered workforce
 - Demonstrated unique abilities: natural depth pressure resistance, enhanced underwater vision, intuitive understanding of sea creature behavior

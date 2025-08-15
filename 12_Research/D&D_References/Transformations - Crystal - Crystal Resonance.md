@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Crystal Resoce Transformation
 type: Mechanics
@@ -83,7 +85,7 @@ world: Both
 1. **Merge with the Crystal Overmind**: Become part of the universal crystal consciousness
 2. **Shatter into Seeds**: Explode into thousands of crystals to spread across reality
 3. **Become a Crystal Star**: Transform into a celestial body of pure crystal
-4. **Create Crystal Paradise**: Transform a region into a crystalline utopia **Reversal**: Impossible
+4. Consequently, **Create Crystal Paradise**: Transform a region into a crystalline utopia **Reversal**: Impossible
 
 - The original being no longer exists
 - Only echoes remain in the crystal song

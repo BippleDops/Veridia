@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: The Dimensional Adaptation Recovery of Captain Pressure Storm
 type: NPC

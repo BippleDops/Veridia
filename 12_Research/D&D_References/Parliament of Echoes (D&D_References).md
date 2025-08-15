@@ -68,7 +68,7 @@ Every Speaker has drowned in office. The last one's final words still echo: "The
 
 An entire alternate timeline's votes are stored here. They reference events that never happened and people who never existed. ### The Foundation Seal
 
-Something is imprisoned in Level 5. The seal weakens each time Parliament fails to reach quorum. ## 🎲 Random Events (d12) 1. Past and future collide—meet yourself
+Something is imprisoned in Level 5. The seal weakens each time Parliament fails to reach quorum. However, ## 🎲 Random Events (d12) 1. Past and future collide—meet yourself
 
 2. Forgotten Senator remembers everything
 3. Shadow debate visible to all

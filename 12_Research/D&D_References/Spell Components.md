@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Spell Components
 type: Lore
@@ -47,6 +49,9 @@ world: Both
 updated: '2025-08-11T00:00:00+00:00'
 
 --- # Spell Components *"In the depths, magic flows like current itself - find the right catalyst, and even the deepest mysteries yield to your will." - Thalassius the Wise* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
+
+
+**Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview - Key information at a glance.
 
 Spell components in Aquabyssos have evolved far beyond their surface-world counterparts, adapted to function effectively in underwater environments while harnessing the unique magical properties inherent in deep-ocean materials. The aquatic environment has necessitated innovative approaches to component preservation, magical focusing, and energy channeling that take advantage of water's conductive properties and the pressure dynamics of deep-sea environments. These adaptations have produced spellcasting traditions that are both more stable and more powerful than their surface equivalents in many applications. Underwater spellcasters have developed sophisticated techniques for component preparation, storage, and deployment that account for dissolution rates, pressure effects, and the three-dimensional nature of aquatic movement. The discovery and cultivation of magically active sea creatures, crystalline formations, and current-charged materials has created entirely new categories of components unknown to surface magic users. These innovations have made Aquabyssos magical practices both more reliable and more environmentally integrated than traditional approaches. ### Origins
 

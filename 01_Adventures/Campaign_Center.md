@@ -1,3 +1,24 @@
+# Campaign Center
+
+
+## Contents
+- [Overview](#overview)
+- [Description](#description)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Complications](#complications)
+- [Alternative Solutions](#alternative-solutions)
+
+
+
+## Overview
+
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Comprehensive overview of this content.
+
 ---
 
 title: Campaign_Center
@@ -20,7 +41,10 @@ publish: false
 
  # Campaign_Center ---
 
+
 ## Description
+
+**Tension**: The urgency of this quest creates palpable tension in the air.
 
 Detailed description pending.
 title: Campaign Center
@@ -109,6 +133,8 @@ WHERE campaign != SORT visits DESC ---
 
 - *[Side locations]* ## Rewards
 
+**Experience Points**: 500 XP per character
+
 *[What PCs gain from completing this adventure]* ### Experience Points
 
 - *[XP awards]* ### Treasure
@@ -129,6 +155,7 @@ WHERE campaign != SORT visits DESC ---
 
 > Work together and communicate
 
+
 ## Notes
 
 *Additional notes*
@@ -147,9 +174,11 @@ WHERE campaign != SORT visits DESC ---
 #resource/treasure
 #meta/index
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -157,9 +186,11 @@ WHERE campaign != SORT visits DESC ---
 - Antagonists
 
 
+
 ## Complications
 - Potential problems
 - Twists
+
 
 
 ## Alternative Solutions

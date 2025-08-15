@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Senator Glaucus Brain
 type: NPC
@@ -63,7 +65,7 @@ An elderly statesman whose body shows decades of depth adaptation - slightly tra
 
 
 1. **Immediate Fear**: His shadow acting independently in public
-2. **Deep Fear**: Complete dissolution like Senator Marius
+2. Moreover, **Deep Fear**: Complete dissolution like Senator Marius
 3. **Secret Fear**: He's already lost control and doesn't know it ### 🔐 Secrets (What they hide)
 
 

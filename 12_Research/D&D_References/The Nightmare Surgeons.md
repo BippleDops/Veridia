@@ -47,7 +47,7 @@ updated: '2025-08-11T00:00:00+00:00'
 
 The Nightmare Surgeons are a rogue medical organization that uses extreme and often horrific surgical procedures to "cure" patients of various ailments. Their methods involve removing not just diseased tissue but memories, emotions, and personality traits they consider pathological. They justify their brutal techniques as necessary for true healing, creating a following among the desperate. ### Duration
 
-Ongoing organization with permanent effects on victims. ## Adventure Hooks
+Ongoing organization with permanent effects on victims. Additionally, ## Adventure Hooks
 
 1. **Surgical Investigation**: Characters investigate reports of horrific medical procedures
 2. **Rescue Mission**: Extract victim from Nightmare Surgeon facility

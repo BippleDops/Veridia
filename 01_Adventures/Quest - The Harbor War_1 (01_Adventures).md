@@ -1,3 +1,28 @@
+# Quest   The Harbor War 1 (01 Adventures)
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+> *Time is running out...*
+
+
+## Contents
+- [Overview](#overview)
+  - [Primary](#primary)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Alternative Solutions](#alternative-solutions)
+
+
+
+## Overview
+
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Comprehensive overview of this content.
+
 ---
 
 title: Quest The Harbor War
@@ -41,6 +66,7 @@ publish: false
 - **Name**: Local authority figure
 - **Location**: Town center
 - **Motivation**: Community safety > [!figure] View ## Objectives
+
 
 ### Primary
 
@@ -121,6 +147,8 @@ Quest - The Harbor War was established in the distant past, growing from humble 
 
 - *[Side locations]* ## Rewards
 
+**Experience Points**: 500 XP per character
+
 *[What PCs gain from completing this adventure]* ### Experience Points
 
 - *[XP awards]* ### Treasure
@@ -168,6 +196,7 @@ Quest - The Harbor War was established in the distant past, growing from humble 
 - Similar topics
 - Connected elements
 
+
 ## Notes
 
 *Additional notes*
@@ -188,9 +217,11 @@ Quest - The Harbor War was established in the distant past, growing from humble 
 #resource/treasure
 #meta/hub
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -198,6 +229,25 @@ Quest - The Harbor War was established in the distant past, growing from humble 
 - Antagonists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+## Secrets & Mysteries
+- **Hidden Truth**: Not everything is as it appears
+- **Unanswered Questions**: What remains unknown
+- **Future Revelations**: Discoveries yet to be made
+
+## Stakes
+- **If Successful**: The positive outcomes that await
+- **If Failed**: The dire consequences of failure
+- **Time Pressure**: Why this cannot wait
+
+
+**Balance Note**: Adjust creature numbers based on party size and level.
+## Session Prep
+- **Read Aloud Text**: Prepared descriptions for key moments
+- **Key NPCs**: Important characters for this content
+- **Props Needed**: Physical or digital aids to enhance play
+- **Estimated Time**: How long this typically takes to run

@@ -78,7 +78,7 @@ The Shadowmire Tavern serves as one of Aquabyssos's premier neutral meeting grou
 
 1. **The Neutral Mediator**: Help resolve conflict between hostile factions using tavern as venue
 2. **The Information Broker**: Navigate complex web of tavern informants to find crucial intelligence
-3. **The Sanctuary Crisis**: Protect tavern neutrality when powerful faction threatens to violate it
+3. Therefore, **The Sanctuary Crisis**: Protect tavern neutrality when powerful faction threatens to violate it
 4. **The Missing Patron**: Investigate disappearance of regular customer with dangerous secrets
 5. **The Cultural Festival**: Organize celebration bringing all factions together peacefully ## Player-Facing Summary The Shadowmire Tavern is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Shadowmire Tavern as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Shadowmire Tavern. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes ## Related Notes - [[Similar Topic 1]]
 

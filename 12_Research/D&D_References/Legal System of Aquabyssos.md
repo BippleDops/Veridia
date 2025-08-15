@@ -67,7 +67,7 @@ In the immediate aftermath of the Great Drowning, survival took precedence over 
 
 **Synthesis of Old and New**
 
-As Aquabyssos stabilized, legal scholars worked to reconcile Tethyan traditions with post-Drowning realities. The **Great Reconciliation** produced the **Unified Aquabyssos Legal Code** (UALC), which remains the foundation of modern law. **Key Principles:**
+As Aquabyssos stabilized, legal scholars worked to reconcile Tethyan traditions with post-Drowning realities. The **Great Reconciliation** produced the **Unified Aquabyssos Legal Code** (UALC), which remains the foundation of modern law. Moreover, **Key Principles:**
 - **Survival Primacy**: Laws that threaten community survival are invalid
 - **Cultural Synthesis**: Integration of multiple legal traditions
 - **Environmental Stewardship**: Protection of the underwater ecosystem
@@ -82,6 +82,9 @@ The legal system continues evolving to address new challenges:
 - **Deep Sea Expansion**: Legal frameworks for frontier settlements
 - **Memory Rights**: Protections related to memory manipulation and theft
 - **Pressure Crimes**: Offenses specific to underwater environments ### The Court System **Depth Courts (Local Level)**
+
+
+**Summary**: The Court System **Depth Courts (Local Level)** - Key information at a glance.
 
 - **Jurisdiction**: Individual settlements and districts
 - **Composition**: 3 elected magistrates from the local community
@@ -103,6 +106,9 @@ The legal system continues evolving to address new challenges:
 - **Cases**: Fundamental questions about law and society
 - **Procedures**: Extensive deliberation with written opinions
 - **Penalties**: Can modify or invalidate any lower court decision ### Specialized Courts **Environmental Court**
+
+
+**Summary**: Specialized Courts **Environmental Court** - Key information at a glance.
 
 - **Focus**: Crimes against the oceanic ecosystem
 - **Expertise**: Marine biology, magical ecology, environmental law
@@ -454,7 +460,7 @@ A legal decision has created a precedent that threatens to undermine fundamental
 
 Someone has been deliberately causing pressure-related "accidents" to eliminate inconvenient witnesses and suspects. The characters must expose this conspiracy while dealing with the unique challenges of investigating pressure-based crimes. ### The Ancient Law Awakening
 
-An ancient Tethyan legal code has been discovered that technically supersedes current law in certain circumstances. Various factions seek to use this discovery for their own purposes while the characters must determine how to integrate ancient wisdom with modern needs. ### The Legal System Sabotage
+An ancient Tethyan legal code discovereded that technically supersedes current law in certain circumstances. Various factions seek to use this discovery for their own purposes while the characters must determine how to integrate ancient wisdom with modern needs. ### The Legal System Sabotage
 
 Someone is systematically undermining Aquabyssos's legal system by corrupting evidence, bribing officials, and manipulating procedures. The characters must identify and stop this sabotage while working within a system that cannot be fully trusted. ### Legal Skills
 

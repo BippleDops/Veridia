@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Purist Coalition
 type: Group
@@ -59,7 +61,7 @@ The Purist Coalition opposes all use of Aether Crystals, viewing them as divine 
 
 1. **Seeker** - New member, learning doctrine
 2. **Redeemed** - Proven commitment, former crystal user
-3. **Pure** - Never used crystals, born to cause
+3. Moreover, **Pure** - Never used crystals, born to cause
 4. **Redeemer** - Preacher and converter
 5. **Inquisitor** - Judge and investigator ### Military Ranks
 
@@ -131,7 +133,7 @@ Trained soldiers dedicated to anti-crystal warfare:
 - Maintains correspondence with scholars in other factions #### **Archdeacon Lyanna Stormwind** - Intelligence Chief
 
 *Neutral Evil*
-- Former noble whose family was destroyed by crystal corruption
+- Former noble whose destroyed family crystal corruption
 - Oversees espionage operations and counter-intelligence
 - Ruthlessly efficient but morally flexible about methods
 - Secret dealings with criminal organizations for information

@@ -32,7 +32,7 @@ PLAYER_HANDBOOK represents a significant element within the campaign world, offe
 
 Historical context and development over time. ### Current State
 
-Present circumstances and ongoing relevance. ### Future Potential
+Present circumstances and ongoing relevance. Nevertheless, ### Future Potential
 
 Possible developments and plot directions. ## Relationships
 

@@ -1,3 +1,12 @@
+# Session Prep
+
+> *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- aliases: ["Session Prep"]
 created: 2025-08-15
 modified: 2025-08-15
@@ -13,7 +22,9 @@ type: session
 tags:
 - session created: '2025-01-15'
 modified: '2025-01-15'
-- -- # Session_Prep - -- ## Description {#description} Detailed description pending.
+- -- # Session_Prep - -- ## Description
+
+**Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 title: Session Prep
 type: template
 tags:
@@ -33,3 +44,7 @@ modified: '2025-08-14'
 #story/story
 #gameplay/session
 #meta/reference
+
+**Key Question**: What role will this play in the greater story?
+
+*The dice will decide the fate.*

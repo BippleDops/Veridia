@@ -54,7 +54,7 @@ Economic crime in [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[Aquaby
 **Participants**: Corrupt appraisers, crystal merchants, noble families
 **Savings**: 30-70% reduction in crystal-based taxes
 **Detection Risk**: Low (requires specialized magical analysis) **Technical Process**:
-1. **False Quality Certificates**: Bribing certified appraisers to undervalue crystal quality
+1. However, **False Quality Certificates**: Bribing certified appraisers to undervalue crystal quality
 2. **Magical Signature Masking**: Using temporary enchantments to hide crystal true power
 3. **Grade Substitution**: Replacing high-grade crystals with lower-grade ones during inspections
 4. **Documentation Fraud**: Forging certificates from recognized crystal authorities **Cost Structure**:
@@ -214,6 +214,9 @@ Economic crime in [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[Aquaby
 - **Property Records**: Establishing false property ownership and ficial history
 - **Professional Credentials**: Educational records, professional licenses, work history
 - **Social Connections**: Establishing relationships with real people who will vouch for false identity #### Commodity Monopolization
+
+
+**Summary**: Commodity Monopolization - Key information at a glance.
 
 **Method**: Purchasing controlling interests in essential commodities to manipulate prices
 **Targets**: Crystals, food supplies, construction materials, transportation capacity

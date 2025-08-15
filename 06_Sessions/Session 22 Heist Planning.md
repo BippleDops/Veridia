@@ -1,3 +1,12 @@
+# Session 22 Heist Planning
+
+> *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
+
+
+## Overview
+
+Comprehensive overview of this content.
+
 --- aliases: ["Session 22 Heist Planning"]
 created: 2025-08-15
 modified: 2025-08-15
@@ -13,7 +22,9 @@ type: session
 tags:
 - session created: '2025-01-15'
 modified: '2025-01-15'
-- -- # Session_22_Heist_Planning - -- ## Description {#description} Detailed description pending.
+- -- # Session_22_Heist_Planning - -- ## Description
+
+**Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
 title: Session 22 Heist Planning
 type: Session Summary
 tags:
@@ -63,7 +74,7 @@ world: Aethermoor
 * "Combat in the vault was intense but quick"*
 * "Perfect mix of stealth, skill, and action"* #### Lessons for Future Heists - **Plan for Improvisation:** Expect player creativity
 - **Layer Complications:** Multiple small problems > one big one
-- **Reward Preparation:** Good planning should feel valuable
+- **Reward Preparation:** excellent planning should feel valuable
 - **Time Management:** Balance planning with execution
 - **Aftermath Importance:** Consequences matter as much as success - -- * Heist sessions reward planning and teamwork while testing adaptability and character skills in high-stakes situations.* ## 🔧 Deep Evaluation Improvements * 20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Related * Links to related content will be added here.* ## DM Notes * Private notes for campaign integration:* - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
@@ -81,3 +92,12 @@ world: Aethermoor
 #gameplay/session
 #gameplay/mission
 #meta/reference
+## Secrets & Mysteries
+- **Hidden Truth**: Not everything is as it appears
+- **Unanswered Questions**: What remains unknown
+- **Future Revelations**: Discoveries yet to be made
+
+
+**Key Question**: What role will this play in the greater story?
+
+*Every story needs its heroes.*

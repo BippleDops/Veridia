@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Memory Pearls
 type: Item
@@ -53,7 +55,7 @@ updated: '2025-08-11T00:00:00+00:00'
 
 *Crystallized Experience in Lustrous Form* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
-Memory Pearls represent the pinnacle of [[Memory Farmers]]' art—living memories crystallized into beautiful, opalescent spheres that can be consumed to experience another's memories firsthand. Unlike crude memory extraction, these pearls preserve the full emotional and sensory context of experiences, allowing the consumer to literally live through moments from someone else's life. The pearls vary greatly in size, quality, and content, from simple skill memories to profound life experiences that can fundamentally change a person's understanding of the world. #### The Memory Thief
+Memory Pearls represent the pinnacle of [[Memory Farmers]]' art—living memories crystallized into beautiful, opalescent spheres that can be consumed to experience another's memories firsthand. Unlike crude memory extraction, these pearls preserve the full emotional and sensory context of experiences, allowing the consumer to literally live through moments from someone else's life. The pearls vary greatly in size, quality, and content, from simple skill memories to profound life experiences that can fundamentally change a person's understanding of the world. Indeed, #### The Memory Thief
 
 **Level**: 5-10 **Hook**: Someone is stealing memories directly from people's minds and crystallizing them **Investigation**: Track down illegal memory harvesting operation **Revelation**: Victims are left with gaps in their personal history **Moral Complexity**: Some victims voluntarily traded away painful memories **Resolution**: Stop thief while deciding whether to restore stolen memories #### The False Prophet
 

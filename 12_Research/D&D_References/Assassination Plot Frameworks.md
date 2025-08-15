@@ -82,7 +82,7 @@ Political assassination in Aquabyssos has evolved unique methods adapted to unde
 *Perfect assassination through identity substitution* #### Method Overview
 
 1. **Study Phase:** Comprehensive personality analysis, behavioral mapping, relationship documentation
-2. **Preparation Phase:** Create perfect shadow duplicate, eliminate potential witnesses
+2. Additionally, **Preparation Phase:** Create perfect shadow duplicate, eliminate potential witnesses
 3. **Replacement Phase:** Eliminate original, install shadow in their place
 4. **Integration Phase:** Shadow assumes identity permanently, serves new agenda ### Framework Gamma: The Memory Theft Murder
 

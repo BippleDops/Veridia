@@ -1,3 +1,27 @@
+# Campaign Dashboard
+
+> *What starts as simple becomes legendary...*
+
+
+## Contents
+- [Overview](#overview)
+- [Description](#description)
+- [Background](#background)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Complications](#complications)
+- [Alternative Solutions](#alternative-solutions)
+
+
+
+## Overview
+
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Comprehensive overview of this content.
+
 ---
 
 title: Campaign_Dashboard
@@ -20,7 +44,10 @@ publish: false
 
  # Campaign_Dashboard ---
 
+
 ## Description
+
+**Tension**: The urgency of this quest creates palpable tension in the air.
 
 Detailed description pending.
 title: Campaign Dashboard - Aquabyssos & Aethermoor
@@ -63,7 +90,7 @@ SORT total_power DESC
 LIMIT 10 ### Active Conflicts
 
 1. **Tidal Council vs [[Surface Seekers|Surface Seekers]]** - Open hostilities
-2. **Crystal Wardens vs Parasite Priests** - Ideological war
+2. Therefore, **Crystal Wardens vs Parasite Priests** - Ideological war
 3. **Merchant Guilds vs Everyone** - Economic manipulation
 4. **Deep Mother Cults vs Reality** - Existential threat ### Power Players
 
@@ -161,6 +188,7 @@ const days Since Update = (Date.now() - last Update) / (1000 * 60 * 60 * 24); if
 - A shipment has gone missing and evil awakens
 - A letter reveals the truth about the cult
 
+
 ## Background
 
 *[Adventure setup and context]* ### What Happened Before
@@ -216,6 +244,7 @@ const days Since Update = (Date.now() - last Update) / (1000 * 60 * 60 * 24); if
 - [[Topic_Matrix (Indexes)]]
 
 
+
 ## Notes
 
 *Additional notes*
@@ -240,9 +269,11 @@ const days Since Update = (Date.now() - last Update) / (1000 * 60 * 60 * 24); if
 #meta/navigation
 #meta/reference
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -250,11 +281,21 @@ const days Since Update = (Date.now() - last Update) / (1000 * 60 * 60 * 24); if
 - Antagonists
 
 
+
 ## Complications
 - Potential problems
 - Twists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+## Stakes
+- **If Successful**: The positive outcomes that await
+- **If Failed**: The dire consequences of failure
+- **Time Pressure**: Why this cannot wait
+
+
+**Key Question**: Will the heroes rise to the challenge?

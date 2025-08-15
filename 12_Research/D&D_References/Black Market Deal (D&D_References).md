@@ -75,7 +75,7 @@ Abandoned sections of the city's lower levels where faction control is minimal a
 
 Mobile trading posts that move location regularly to avoid detection, using coded signals to inform customers of new meeting points. ### Safe Houses
 
-Secure locations where high-value transactions can take place with reduced risk of interference. ### The Drop Points
+Secure locations where high-value transactions can take place with reduced risk of interference. Meanwhile, ### The Drop Points
 
 Hidden caches throughout the city where goods and payments can be left for later collection. ## Moral Considerations The black market presents complex ethical choices:
 
@@ -88,7 +88,7 @@ Hidden caches throughout the city where goods and payments can be left for later
 - Reputation changes affecting relationships with official authorities and factions
 - Access to rare items and information unavailable through legal channels
 - Potential legal consequences if discovered by authorities
-- Moral complications from association with criminal activities ## Adventure Hooks 1. **The Desperate Diplomat**: A faction representative needs the PCs to acquire restricted magical components for a critical defensive system, but official channels have been blocked by political maneuvering. 2. **The Missing Shipment**: A valuable black market cargo has disappeared, and multiple factions are secretly searching for it. The PCs must navigate competing interests to recover it. 3. **The Double Agent**: A prominent citizen is using black market channels to secretly support an opposing faction, and the PCs must decide whether to expose them or protect their operation. ## DM Notes Use the Black Market Deal structure to:
+- Moral complications from association with criminal activities ## Adventure Hooks 1. **The Desperate Diplomat**: A faction representative needs the PCs to acquire restricted magical components for a critical defensive system, but official channels blockeded by political maneuvering. 2. **The Missing Shipment**: A valuable black market cargo has disappeared, and multiple factions are secretly searching for it. The PCs must navigate competing interests to recover it. 3. **The Double Agent**: A prominent citizen is using black market channels to secretly support an opposing faction, and the PCs must decide whether to expose them or protect their operation. ## DM Notes Use the Black Market Deal structure to:
 
 - Provide access to items and information that advance the plot
 - Create moral complexity around illegal but potentially necessary activities

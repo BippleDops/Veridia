@@ -1,3 +1,7 @@
+# Npc Name
+
+> *Every scar tells a story...* This remarkable element adds depth and intrigue to any campaign.
+
 --- title: NPC Name
 type: note
 tags:
@@ -11,7 +15,9 @@ category: 03 People
 subcategory: Npc Name.Md
 related: []
 cssclass: standard
-publish: false --- # NPC Name ## Portrait![[Npc|Npc]] *Portrait reference for NPC Name* ## Overview This topic is referenced in [[Quest_Template|Quest Template]] and other parts of the campaign. ## Description An important element of the campaign world that connects to various other aspects of the adventure. ## Connections - Referenced by: [[Quest_Template|Quest Template]]
+publish: false --- # NPC Name ## Portrait![[Npc|Npc]] *Portrait reference for NPC Name* ## Overview This topic is referenced in [[Quest_Template|Quest Template]] and other parts of the campaign. ## Description
+
+**Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. An important element of the campaign world that connects to various other aspects of the adventure. ## Connections - Referenced by: [[Quest_Template|Quest Template]]
 - Related topics in the same category ## Details Further information about this topic will be developed as the campaign progresses. ## Plot Hooks - Can serve as a point of interest for adventurers
 - May connect to ongoing storylines
 - Provides opportunities for exploration and discovery ## Stats```statblock creature: Custom NPC```### Quick Stats - **AC**: *[Armor Class]*
@@ -50,3 +56,8 @@ publish: false --- # NPC Name ## Portrait![[Npc|Npc]] *Portrait reference for NP
 - Special moves ## Secrets {#secrets}
 - Hidden knowledge
 - Personal mysteries
+
+
+**Key Question**: What drives this character's actions?
+
+*What happens next is up to you.*

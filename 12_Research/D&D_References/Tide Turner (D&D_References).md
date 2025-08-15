@@ -22,7 +22,7 @@ publish: false
 
 This document contains important information regarding Tide Turner and its role within the greater narrative. ## Description
 
-Tide Turner represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
+Tide Turner represents a significant element within the campaign world, offering various opportunities for engagement and development. Nevertheless, ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
 - **Connections**: Linked to multiple other elements

@@ -273,6 +273,9 @@ updated: '2025-08-13T01:18:35.391357+00:00'
 - **Revealed Enemies**: May grant surprise or initiative bonuses
 - **False Detection**: Misidentified threats can waste actions ### Initiative-Based Character Development **Initiative Specialization Paths**: **Speed Specialist**:
 
+
+**Summary**: Initiative-Based Character Development **Initiative Specialization Paths**: **Speed Specialist**: - Key information at a glance.
+
 - **Focus**: Maximize initiative bonuses and early action economy
 - **Abilities**: Enhanced reflexes, rapid movement, quick thinking
 - **Equipment**: Lightweight gear, speed-enhancing items

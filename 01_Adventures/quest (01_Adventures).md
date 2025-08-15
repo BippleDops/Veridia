@@ -22,9 +22,13 @@ publish: false
 ---
 
  > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-quest-the-void-conspiracy.png) ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Combat Improvements - Add encounter scaling table for parties of 3-6 players, levels 1-20 ### Rewards Improvements - Create treasure parcels for each major encounter ### Structure Improvements - Add three-act structure with rising action ### Choices Improvements - Add meaningful decision points with consequences ### Roleplay Improvements - Include ethical challenges without clear answers ### Session_Zero Improvements - Add session zero integration questions ### Level_Range Improvements - Provide scaling for different level ranges ### Variants Improvements - Add horror, intrigue, and comedy tone variants ### Art Improvements - Add AI art prompts for key scenes ### Soundtrack Improvements - Suggest music/ambiance for each scene ### Accessibility Improvements - Include content warnings and safety tools ### Spotlight Improvements - Include spotlight moment for each character class ## Adventure Overview An exciting quest that challenges heroes to claim glory. --- *Last Updated: 2025-08-14 19:03* ## DM Notes *Private notes for campaign integration:*
+![](04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-quest-the-void-conspiracy.png) ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Combat Improvements - Add encounter scaling table for parties of 3-6 players, levels 1-20 ### Rewards
+
+**Experience Points**: 500 XP per character Improvements - Create treasure parcels for each major encounter ### Structure Improvements - Add three-act structure with rising action ### Choices Improvements - Add meaningful decision points with consequences ### Roleplay Improvements - Include ethical challenges without clear answers ### Session_Zero Improvements - Add session zero integration questions ### Level_Range Improvements - Provide scaling for different level ranges ### Variants Improvements - Add horror, intrigue, and comedy tone variants ### Art Improvements - Add AI art prompts for key scenes ### Soundtrack Improvements - Suggest music/ambiance for each scene ### Accessibility Improvements - Include content warnings and safety tools ### Spotlight Improvements - Include spotlight moment for each character class ## Adventure Overview An exciting quest that challenges heroes to claim glory. --- *Last Updated: 2025-08-14 19:03* ## DM Notes *Private notes for campaign integration:*
 
 ## Description
+
+**Tension**: The urgency of this quest creates palpable tension in the air.
 
 Detailed description pending.
 - Can be adapted to fit current story needs
@@ -140,3 +144,6 @@ Detailed description pending.
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+
+**Balance Note**: Adjust creature numbers based on party size and level.

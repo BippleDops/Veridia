@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: "Encounter Sheet \u2014 D-104 Whale Graveyard"
 type: gm_resource

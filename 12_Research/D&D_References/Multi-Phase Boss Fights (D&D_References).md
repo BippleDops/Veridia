@@ -103,6 +103,9 @@ updated: '2025-08-13T01:18:35.809148+00:00'
 - **Narrative Restoration**: Ally intervention, divine blessing
 - **Tactical Recovery**: Using transition time for healing/buffing ### The Classic Escalation Pattern **Phase 1** - Introduction (100%-75% health):
 
+
+**Summary**: The Classic Escalation Pattern **Phase 1** - Introduction (100%-75% health): - Key information at a glance.
+
 - Standard abilities and tactics
 - Establishes baseline challenge level
 - Allows party to understand basic mechanics
@@ -123,6 +126,9 @@ updated: '2025-08-13T01:18:35.809148+00:00'
 - **Phase 2**: Begins firing crystal shards, creates crystal barriers
 - **Phase 3**: Transforms into larger form, gains AOE abilities
 - **Phase 4**: Crystallizes environment, gains legendary actions ### The Transformation Pattern **Phase 1** - Original Form:
+
+
+**Summary**: The Transformation Pattern **Phase 1** - Original Form: - Key information at a glance.
 
 - Creature in its base or corrupted state
 - Establishes character and motivation

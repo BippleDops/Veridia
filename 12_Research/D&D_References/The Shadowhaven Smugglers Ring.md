@@ -33,7 +33,7 @@ The Shadowhaven Smugglers Ring represents a significant element within the campa
 
 Historical context and development over time. ### Current State
 
-Present circumstances and ongoing relevance. ### Future Potential
+Present circumstances and ongoing relevance. Additionally, ### Future Potential
 
 Possible developments and plot directions. ## Relationships
 

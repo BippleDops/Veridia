@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Temporal Anomaly Resolution
 type: Lore
@@ -63,6 +65,9 @@ specialization_required: Temporal Engineering Certification
 
 > — [[Master Temporal Engineer Chronos Fieldwright]], Director of Temporal Anomaly Resolution Services ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview Temporal Anomaly Resolution represents the most sophisticated and dangerous branch of magical engineering dedicated to detecting, containing, and correcting disruptions in the normal flow of time. As the merger between [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] and [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] creates increasingly unstable temporal conditions, these specialized services have become essential for maintaining causality and preventing reality-threatening temporal paradoxes. The service operates through a network of highly trained temporal engineers, chronological researchers, and reality stabilization specialists who work around the clock to monitor temporal flows across both realms. Using advanced detection equipment and specialized containment techniques, these teams respond to everything from minor temporal hiccups to major causality crises that could threaten the fundamental structure of time itself. Unlike traditional magical services that work within the constraints of normal time flow, Temporal Anomaly Resolution specialists must operate across multiple temporal frameworks simultaneously. They may find themselves working to prevent events that have already happened, correcting paradoxes that exist in temporal loops, or stabilizing causal chains that span decades or centuries. The growing frequency and severity of temporal anomalies has made these services increasingly vital for both civilizations. What began as a small research division has evolved into a comprehensive emergency response system capable of handling temporal disasters that could affect millions of people across multiple timelines. Their work represents humanity's most ambitious attempt to master time itself while preserving the fundamental laws that govern reality. ### Type Alpha: Minor Temporal Distortions **Characteristics:**
 
+
+**Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview Temporal Anomaly Resolution represents the most sophisticated and dangerous branch of magical engineering dedicated to detecting, containing, and correcting disruptions in the normal flow of time. As the merger between [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] and [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] creates increasingly unstable temporal conditions, these specialized services have become essential for maintaining causality and preventing reality-threatening temporal paradoxes. The service operates through a network of highly trained temporal engineers, chronological researchers, and reality stabilization specialists who work around the clock to monitor temporal flows across both realms. Using advanced detection equipment and specialized containment techniques, these teams respond to everything from minor temporal hiccups to major causality crises that could threaten the fundamental structure of time itself. Unlike traditional magical services that work within the constraints of normal time flow, Temporal Anomaly Resolution specialists must operate across multiple temporal frameworks simultaneously. They may find themselves working to prevent events that have already happened, correcting paradoxes that exist in temporal loops, or stabilizing causal chains that span decades or centuries. The growing frequency and severity of temporal anomalies has made these services increasingly vital for both civilizations. What began as a small research division has evolved into a comprehensive emergency response system capable of handling temporal disasters that could affect millions of people across multiple timelines. Their work represents humanity's most ambitious attempt to master time itself while preserving the fundamental laws that govern reality. ### Type Alpha: Minor Temporal Distortions **Characteristics:** - Key information at a glance.
+
 - Duration: 1-60 minutes
 - Scope: 10-100 foot radius
 - Cause: Magical interference, crystal resoce, minor equipment failure
@@ -82,6 +87,9 @@ specialization_required: Temporal Engineering Certification
 - Reality anchor systems
 - Personal temporal protection equipment
 - Communication systems immune to temporal interference ### Type Beta: Moderate Temporal Disturbances **Characteristics:**
+
+
+**Summary**: Type Beta: Moderate Temporal Disturbances **Characteristics:** - Key information at a glance.
 
 - Duration: 1-24 hours
 - Scope: 100-1000 foot radius

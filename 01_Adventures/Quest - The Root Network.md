@@ -1,3 +1,26 @@
+# Quest   The Root Network
+
+> *What starts as simple becomes legendary...*
+
+
+## Contents
+- [Overview](#overview)
+- [Description](#description)
+  - [Primary](#primary)
+- [Notes](#notes)
+- [Timeline](#timeline)
+- [NPCs Involved](#npcs-involved)
+- [Alternative Solutions](#alternative-solutions)
+
+
+
+## Overview
+
+**Difficulty**: Moderate (Levels 3-5)
+
+
+Comprehensive overview of this content.
+
 ---
 
 title: Quest - The Root Network
@@ -20,7 +43,10 @@ publish: false
 
  ## Complications
 
+
 ## Description
+
+**Tension**: The urgency of this quest creates palpable tension in the air.
 
 Detailed description pending.
 - Unexpected obstacles
@@ -57,6 +83,7 @@ accessibility: screen_reader_summary: Quest - The Root Network is an NPC entangl
 - **Location**: Town center
 - **Motivation**: Community safety ## Objectives
 
+
 ### Primary
 
 - Main quest goal ### Optional
@@ -66,7 +93,7 @@ accessibility: screen_reader_summary: Quest - The Root Network is an NPC entangl
 
 Quest - The Root Network moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape. - Ideal: Stability through controlled risk.
 - Bond: A family archive tied to [[Lighthouse_of_Storms|Lighthouse of Storms]].
-- Flaw: Overconfidence in leverage; underestimates zealots and true believers. ## Player-Facing Summary Quest The Root Network is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Quest The Root Network as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest The Root Network. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A letter reveals ancient history about a local noble
+- Flaw: Overconfidence in leverage; underestimates zealots and true believers. Additionally, ## Player-Facing Summary Quest The Root Network is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Quest The Root Network as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest The Root Network. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A letter reveals ancient history about a local noble
 
 - A corpse reveals ancient history about the cult
 - A document has gone missing and evil awakens
@@ -101,6 +128,8 @@ Quest - The Root Network moves information and influence like currency. Publicly
 - *[Major locations to visit]* ### Optional Areas
 
 - *[Side locations]* ## Rewards
+
+**Experience Points**: 500 XP per character
 
 *[What PCs gain from completing this adventure]* ### Experience Points
 
@@ -152,6 +181,7 @@ Quest - The Root Network moves information and influence like currency. Publicly
 
 > Work together and communicate
 
+
 ## Notes
 
 *Additional notes*
@@ -174,9 +204,11 @@ Quest - The Root Network moves information and influence like currency. Publicly
 #resource/treasure
 #meta/reference
 
+
 ## Timeline
 - Key events
 - Deadlines
+
 
 
 ## NPCs Involved
@@ -184,6 +216,17 @@ Quest - The Root Network moves information and influence like currency. Publicly
 - Antagonists
 
 
+
 ## Alternative Solutions
 - Non-combat options
 - Creative approaches
+
+## Stakes
+- **If Successful**: The positive outcomes that await
+- **If Failed**: The dire consequences of failure
+- **Time Pressure**: Why this cannot wait
+
+
+**Key Question**: Will the heroes rise to the challenge?
+
+**Balance Note**: Adjust creature numbers based on party size and level.

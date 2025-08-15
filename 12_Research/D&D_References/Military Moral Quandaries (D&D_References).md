@@ -49,6 +49,9 @@ Every military decision must account for the possibility that:
 - Military actions might accelerate rather than prevent corruption
 - Victory conditions are unclear when the enemy can alter the nature of existence #### **The Cult Cell Strike Dilemma**
 
+
+**Summary**: **The Cult Cell Strike Dilemma** - Key information at a glance.
+
 **Situation**: Intelligence suggests a Deep Mother cult cell plans a major ritual in three days, but evidence is circumstantial and wouldn't justify action under peacetime law. **Intelligence Assessment**:
 - **Source**: Single informant with unknown reliability
 - **Risk**: Potential avatar summoning affecting thousands
@@ -75,6 +78,9 @@ Commander Tidewatch receives intelligence about cult activity in a residential a
 - **Political Leaders**: Facing public pressure for both security and restraint
 - **Civilian Leaders**: Demanding protection but fearing military overreach
 - **Military Lawyers**: Warning about precedent for future preemptive actions #### **The Prisoner of War Question**
+
+
+**Summary**: **The Prisoner of War Question** - Key information at a glance.
 
 **Situation**: Captured shadow-touched soldiers pose unique challenges for military detention and treatment protocols. **Categories of Shadow-Touched Prisoners**:
 - **Voluntary Converts**: Chose corruption for power or belief

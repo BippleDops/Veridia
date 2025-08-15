@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: "Encounter Sheet \u2014 S-114 Gravity Well Rescue"
 type: gm_resource

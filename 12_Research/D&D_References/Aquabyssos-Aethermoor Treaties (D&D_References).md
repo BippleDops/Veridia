@@ -22,6 +22,8 @@ publish: false
 
 This document contains important information regarding Aquabyssos-Aethermoor Treaties and its role within the greater narrative. ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Aquabyssos-Aethermoor Treaties represents a significant element within the campaign world, offering various opportunities for engagement and development. ## Key Information
 
 - **Primary Purpose**: Serves specific function within the world
@@ -32,7 +34,7 @@ Aquabyssos-Aethermoor Treaties represents a significant element within the campa
 
 Historical context and development over time. ### Current State
 
-Present circumstances and ongoing relevance. ### Future Potential
+Present circumstances and ongoing relevance. Furthermore, ### Future Potential
 
 Possible developments and plot directions. ## Relationships
 

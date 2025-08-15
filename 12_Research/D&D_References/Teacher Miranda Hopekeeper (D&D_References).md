@@ -108,7 +108,7 @@ Books in the library are mysteriously losing their text. The corruption appears 
 A message arrives from [[Aethermoor]] requesting immediate assistance. The surface world's crystals are failing, and they need the academy's research on corruption resistance. The party must escort [[Miranda Hopekeeper]] on a dangerous journey to the surface.
 **Reward**: 1,000 gp + magical items from both worlds ### The Graduation Crisis
 
-Final exams are approaching, but the testing chambers have been corrupted. Students are experiencing nightmare visions during their practical tests. The party must cleanse the chambers and discover who or what is behind the sabotage.
+Final exams are approaching, but the testing chambers corrupteded. Students are experiencing nightmare visions during their practical tests. The party must cleanse the chambers and discover who or what is behind the sabotage.
 **Reward**: 500 gp + honorary academy membership ## Player-Facing Summary Teacher Miranda Hopekeeper is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Teacher Miranda Hopekeeper as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Teacher Miranda Hopekeeper. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 

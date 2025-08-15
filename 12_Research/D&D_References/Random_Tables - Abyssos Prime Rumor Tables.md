@@ -46,6 +46,9 @@ updated: '2025-08-13T01:18:37.211947+00:00'
 
 --- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## What's Whispered in the Depths *Roll d100 or choose rumors based on where party investigates. Mix truth with lies for best effect.* --- ## 📍 Harbor District Rumors
 
+
+**Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## What's Whispered in the Depths *Roll d100 or choose rumors based on where party investigates. Mix truth with lies for best effect.* --- ## 📍 Harbor District Rumors - Key information at a glance.
+
 *Where sailors and traders gossip* | d20 | Rumor | Source | Truth Level |
 |-----|-------|--------|-------------|
 | 1 | "Ships been arriving with more crew than they left with" | Drunk sailor | **TRUE** - Shadow replacements |
@@ -63,11 +66,14 @@ updated: '2025-08-13T01:18:37.211947+00:00'
 | 13 | "Three senators haven't left Parliament in weeks" | Spy | **TRUE** - They're shadow-replaced |
 | 14 | "The depths below Pier 13 lead to another world" | Madman | **PARTIAL** - Leads to Memoriam |
 | 15 | "Marina Coralheart isn't who she claims" | Rival | **TRUE** - She's her own shadow |
-| 16 | "Blood Current Express has been rerouted" | Passenger | **TRUE** - Avoiding something |
+| 16 | "Blood Current Express rerouteded" | Passenger | **TRUE** - Avoiding something |
 | 17 | "Pressure suits are failing faster than normal" | Repair shop | **PARTIAL** - Sabotage on some |
 | 18 | "The Harbor itself is alive and listening" | Mystic | **FALSE** - Just paranoid |
-| 19 | "Surface traders are being marked for conversion" | Merchant | **PARTIAL** - Some factions want this |
+| 19 | "Surface traders marked for conversion" | Merchant | **PARTIAL** - Some factions want this |
 | 20 | "Next memory tide will be the worst ever" | Prophet | **TRUE** - Unprecedented scale coming | --- ## 🏛️ Parliament District Rumors
+
+
+**Summary**: 🏛️ Parliament District Rumors - Key information at a glance.
 
 *Political whispers and conspiracies* | 1 | "Parliament has 437 members but 451 votes were cast" | Clerk | **TRUE** - Shadow votes |
 | 2 | "The Speaker hasn't been seen, only heard" | Senator | **TRUE** - Is pure shadow now |
@@ -83,7 +89,7 @@ updated: '2025-08-13T01:18:37.211947+00:00'
 | 12 | "Parliament basement connects to god-corpse veins" | Maintece | **TRUE** - Direct connection |
 | 13 | "Shadow Liberation Front planning coup" | Informant | **PARTIAL** - Planning something |
 | 14 | "The Seventh Seat must remain empty" | Elder | **TRUE** - Prophetic requirement |
-| 15 | "Bills are being passed in wrong timeline" | Timekeeper | **TRUE** - Temporal disruption |
+| 15 | "Bills passed in wrong timeline" | Timekeeper | **TRUE** - Temporal disruption |
 | 16 | "Parliament's shadow meets separately" | Shadow watcher | **TRUE** - At night |
 | 17 | "Someone's erasing senators from history" | Historian | **TRUE** - Memory Wars casualty |
 | 18 | "The building itself votes sometimes" | Mystic | **PARTIAL** - During consciousness surges |

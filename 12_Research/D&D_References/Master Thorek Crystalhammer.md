@@ -23,6 +23,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Master Thorek Crystalhammer
 type: Location

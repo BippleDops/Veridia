@@ -22,6 +22,8 @@ publish: false
 
 ## Description
 
+**Details**: Rich sensory elements bring this to life.
+
 Detailed description pending.
 title: Shadow Broker Mist
 type: NPC
@@ -54,7 +56,7 @@ Known only as "Mist," this enigmatic figure operates in the liminal spaces betwe
 > - The violet eyes are actually trapped souls of her first victims ## Motivations
 
 1. **Primary**: Accumulate secrets and power to control both realms
-2. **Secondary**: Survive her shadow transformation without losing all humanity
+2. Nevertheless, **Secondary**: Survive her shadow transformation without losing all humanity
 3. **Hidden**: Revenge against surface nobles who tried to kill her original self
 4. **Long-term**: Become powerful enough to negotiate directly with the [[Deep Mother|02 Worldbuilding/Lore/Deep Mother]] ## Quest Hooks
 

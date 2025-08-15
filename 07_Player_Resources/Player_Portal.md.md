@@ -1,3 +1,10 @@
+# Player Portal.Md
+
+
+> **Content Warning**: This content contains mature themes. DM discretion advised.
+
+> *An opportunity for greatness awaits...*
+
 --- title: 07_Player_Resources/Player_Portal.md
 type: lore
 tags:
@@ -59,3 +66,7 @@ publish: false --- -|--------|
 #story/story
 #story/lore
 #world/world
+
+**Key Question**: What role will this play in the greater story?
+
+*Adventure awaits those brave enough to seek it.*

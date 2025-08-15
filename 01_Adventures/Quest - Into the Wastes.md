@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Into the Wastes"]
+---
+
 # Quest   Into The Wastes
 
 

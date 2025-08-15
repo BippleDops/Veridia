@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Marina's Choice 1 (01 Adventures)"]
+---
+
 # Quest   Marina'S Choice 1 (01 Adventures)
 
 > *Time is running out...*

@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Liberation of The Deepmind"]
+---
+
 # Quest   Liberation Of The Deepmind
 
 > *Time is running out...*

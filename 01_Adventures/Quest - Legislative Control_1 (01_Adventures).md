@@ -1,3 +1,9 @@
+---
+tags: [quest, adventure]
+type: quest
+aliases: ["Quest - Legislative Control 1 (01 Adventures)"]
+---
+
 # Quest   Legislative Control 1 (01 Adventures)
 
 > *The fate of many hangs in the balance...*

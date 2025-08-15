@@ -1,0 +1,72 @@
+# Minerva Ironforge the Clever
+
+*Gnome Priest, Age 71*
+
+**ID**: NPC0077
+
+## Quick Reference
+- **Location**: City guard barracks
+- **Occupation**: Priest
+- **Disposition**: Never backs down from a challenge
+
+## Appearance
+Tall and slender, with Braided black hair and Brown eyes. Dark skin. Weather-beaten face.
+
+**Clothing**: Traveler's cloak over sturdy clothes
+
+## Personality
+- **Traits**: Never backs down from a challenge, Flirts with everyone
+- **Ideal**: Justice: The guilty must be punished
+- **Bond**: I owe my life to the priest who saved me
+- **Flaw**: I'll do anything to avoid a fight
+- **Quirks**: Speaks to animals like people, Hums when nervous
+
+## Background
+Raised by monks in a remote monastery. Years ago, they was falsely accused of a crime, which changed their life forever.
+
+## Current Situation
+### Goals
+- **Short Term**: Find steady employment
+- **Long Term**: Find and punish those who wronged them
+
+### Secrets
+- Has a different identity they maintain
+
+## Relationships
+- **Rhea Brightblade** (Debtor, Strained): Important figure in their life
+- **Soren Brightblade** (Friend, Complicated): Important figure in their life
+
+## Roleplaying
+- **Voice**: Soft and whispery
+- **Mannerisms**: Gestures wildly with hands, Strokes beard when thinking
+
+## Statistics
+- **Level**: 1
+- **HP**: 54
+- **AC**: 15
+- **Speed**: 30 ft.
+
+### Abilities
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 8 | 10 | 9 | 10 | 9 | 15 |
+
+### Skills
+Insight, Investigation, Perception, Deception
+
+
+
+## Possessions
+- 70 gold pieces
+- Small gemstone
+- Healing potion
+- Well-worn journal
+- Map to unknown location
+
+## Plot Hooks
+1. Minerva Ironforge the Clever needs help with their goal: Find steady employment
+2. Their secret (Has a different identity they maintain) could complicate the party's plans
+3. Their relationship with Rhea Brightblade creates an opportunity
+
+---
+*Generated: 2025-08-15T03:20:13.080Z*

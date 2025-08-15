@@ -1,0 +1,72 @@
+# Lyra Darkwater
+
+*Elf Criminal, Age 45*
+
+**ID**: NPC0131
+
+## Quick Reference
+- **Location**: Market square of Abyssos Prime
+- **Occupation**: Criminal
+- **Disposition**: Extremely superstitious
+
+## Appearance
+Average height and wiry, with Long and flowing black hair and Hazel eyes. Olive skin. Warm smile that puts people at ease.
+
+**Clothing**: Traveler's cloak over sturdy clothes
+
+## Personality
+- **Traits**: Extremely superstitious, Incredibly optimistic
+- **Ideal**: Charity: I always help those in need
+- **Bond**: My loyalty to my sovereign is unwavering
+- **Flaw**: I can't resist a pretty face
+- **Quirks**: Taps fingers when thinking, Always cold, wears extra layers
+
+## Background
+Former soldier who left after a traumatic battle. Years ago, they accidentally discovered a conspiracy, which changed their life forever.
+
+## Current Situation
+### Goals
+- **Short Term**: Avoid the city watch
+- **Long Term**: Discover the truth about their past
+
+### Secrets
+- Has a secret magical ability they hide
+
+## Relationships
+- **Freya Shadowmere** (Business Partner, Public): Important figure in their life
+- **Gideon Shadowmere the Brave** (Debtor, Secret): Important figure in their life
+- **Helena Shadowmere** (Love Interest, Strained): Important figure in their life
+
+## Roleplaying
+- **Voice**: Rough from years of shouting
+- **Mannerisms**: Never makes eye contact, Interrupts others frequently
+
+## Statistics
+- **Level**: 6
+- **HP**: 37
+- **AC**: 17
+- **Speed**: 30 ft.
+
+### Abilities
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 14 | 15 | 11 | 13 | 13 | 13 |
+
+### Skills
+Athletics, Perception
+
+
+
+## Possessions
+- 23 gold pieces
+- Mysterious key
+- Small gemstone
+- Mysterious key
+
+## Plot Hooks
+1. Lyra Darkwater needs help with their goal: Avoid the city watch
+2. Their secret (Has a secret magical ability they hide) could complicate the party's plans
+3. Their relationship with Freya Shadowmere creates an opportunity
+
+---
+*Generated: 2025-08-15T03:20:13.086Z*

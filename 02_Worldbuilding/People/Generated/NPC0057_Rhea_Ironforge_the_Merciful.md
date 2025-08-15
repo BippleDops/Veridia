@@ -1,0 +1,72 @@
+# Rhea Ironforge the Merciful
+
+*Gnome Farmer, Age 49*
+
+**ID**: NPC0057
+
+## Quick Reference
+- **Location**: City guard barracks
+- **Occupation**: Farmer
+- **Disposition**: Sees doom everywhere
+
+## Appearance
+Very short and muscular, with Braided auburn hair and Blue eyes. Dark skin. Crooked nose from old break.
+
+**Clothing**: Practical leather armor, well-worn but maintained
+
+## Personality
+- **Traits**: Sees doom everywhere, Never backs down from a challenge
+- **Ideal**: Knowledge: Understanding is everything
+- **Bond**: My loyalty to my sovereign is unwavering
+- **Flaw**: I can't resist a pretty face
+- **Quirks**: Always carries a lucky charm, Taps fingers when thinking
+
+## Background
+Grew up on the streets, learning to survive. Years ago, they survived a plague that killed their family, which changed their life forever.
+
+## Current Situation
+### Goals
+- **Short Term**: Sell current inventory
+- **Long Term**: Gain political power
+
+### Secrets
+- Is actually a spy for a rival faction
+- Is being blackmailed
+
+## Relationships
+- **Minerva Darkwater the Clever** (Enemy, Strained): Important figure in their life
+- **Nathaniel Darkwater** (Debtor, Strained): Important figure in their life
+
+## Roleplaying
+- **Voice**: Smooth like honey
+- **Mannerisms**: Stands too close when talking, Speaks very slowly and deliberately
+
+## Statistics
+- **Level**: 6
+- **HP**: 42
+- **AC**: 15
+- **Speed**: 30 ft.
+
+### Abilities
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 14 | 12 | 14 | 17 | 15 | 11 |
+
+### Skills
+Perception, Stealth, Arcana, Athletics
+
+### Combat
+**Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
+
+
+## Possessions
+- 14 gold pieces
+- Family heirloom (locket)
+
+## Plot Hooks
+1. Rhea Ironforge the Merciful needs help with their goal: Sell current inventory
+2. Their secret (Is actually a spy for a rival faction) could complicate the party's plans
+3. Their relationship with Minerva Darkwater the Clever creates an opportunity
+
+---
+*Generated: 2025-08-15T03:20:13.078Z*

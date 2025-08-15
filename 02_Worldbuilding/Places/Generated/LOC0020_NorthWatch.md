@@ -1,0 +1,69 @@
+# NorthWatch
+
+*City in The Northern Reaches*
+
+**ID**: LOC0020
+
+## Overview
+A bustling metropolis with towering spires and crowded markets
+
+**Atmosphere**: Mysterious atmosphere shrouded in perpetual mist
+
+## Demographics
+- **Population**: 11,124
+- **Leadership**: Elected council of merchants
+- **Current Leader**: Mayor elected every 4 years
+- **Political Stability**: Stable
+
+## Notable Features
+- Ancient stone circle at the town center
+- Massive fortress walls with four gate towers
+- Natural hot springs with healing properties
+- Enormous tree growing through main building
+
+## Important NPCs
+- **Aldric Thornfield** - Noble: Key figure in local affairs
+- **Brenna Thornfield** - Criminal: Key figure in local affairs
+- **Cedric Thornfield** - Sage: Key figure in local affairs
+
+## Economy
+### Resources
+- Strategic location
+
+### Trade
+- **Exports**: Spices, Gems
+- **Imports**: Art, Medicines
+
+## Current Events
+- Refugees arriving from the war
+- Merchants complain about bandit attacks
+
+## Rumors
+- "Baron is planning to raise taxes again" (True)
+- "The old mine is haunted by spirits" (True)
+- "Cult recruiting in the slums" (True)
+- "The old mine is haunted by spirits" (True)
+
+## Defenses
+- Stone walls 30ft high
+- City watch of 200
+- Magical wards
+- Ballistae on towers
+
+## Hidden Secrets
+*For DM Only:*
+- Noble family are vampires
+- Dragon sleeps in nearby mountain
+
+## Quest Hooks
+1. Mysterious disease needs cure
+2. Monster terrorizing the area
+
+## DM Notes
+- Adjust population and defenses based on campaign needs
+- The hidden secrets can drive major plot points
+- Current events provide immediate adventure hooks
+- Rumors can be expanded into full quests
+
+---
+*Generated: 2025-08-15T03:20:13.136Z*

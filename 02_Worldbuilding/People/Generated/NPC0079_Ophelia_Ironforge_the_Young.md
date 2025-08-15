@@ -1,0 +1,73 @@
+# Ophelia Ironforge the Young
+
+*Aasimar Noble, Age 48*
+
+**ID**: NPC0079
+
+## Quick Reference
+- **Location**: Wizard's tower
+- **Occupation**: Noble
+- **Disposition**: Flirts with everyone
+
+## Appearance
+Very tall and muscular, with Long and flowing auburn hair and Blue eyes. Fair skin. Piercing gaze that seems to see through you.
+
+**Clothing**: Merchant's outfit with many pockets
+
+## Personality
+- **Traits**: Flirts with everyone, Laughs at inappropriate times
+- **Ideal**: Freedom: Chains are meant to be broken
+- **Bond**: My weapon is my most trusted companion
+- **Flaw**: I'll do anything to avoid a fight
+- **Quirks**: Never sleeps in the same place twice, Hums when nervous
+
+## Background
+Discovered magical talent late in life. Years ago, they lost everything in a fire, which changed their life forever.
+
+## Current Situation
+### Goals
+- **Short Term**: Avoid the city watch
+- **Long Term**: Find and punish those who wronged them
+
+### Secrets
+- Is actually a spy for a rival faction
+
+## Relationships
+- **Tara Brightblade** (Business Partner, Public): Important figure in their life
+- **Ulric Brightblade** (Family, Strained): Important figure in their life
+- **Vera Brightblade** (Mentor, Complicated): Important figure in their life
+- **Willem Brightblade the Wise** (Enemy, Complicated): Important figure in their life
+
+## Roleplaying
+- **Voice**: Monotone and emotionless
+- **Mannerisms**: Laughs at own jokes, Speaks very slowly and deliberately
+
+## Statistics
+- **Level**: 5
+- **HP**: 43
+- **AC**: 10
+- **Speed**: 30 ft.
+
+### Abilities
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 8 | 14 | 13 | 8 | 16 | 14 |
+
+### Skills
+Deception, Stealth, Perception
+
+### Combat
+**Attacks**: Shortsword +5 (1d6+3), Dagger +4 (1d4+2)
+**Special Abilities**: Sneak Attack (2d6), Cunning Action
+
+## Possessions
+- 85 gold pieces
+- Map to unknown location
+
+## Plot Hooks
+1. Ophelia Ironforge the Young needs help with their goal: Avoid the city watch
+2. Their secret (Is actually a spy for a rival faction) could complicate the party's plans
+3. Their relationship with Tara Brightblade creates an opportunity
+
+---
+*Generated: 2025-08-15T03:20:13.080Z*

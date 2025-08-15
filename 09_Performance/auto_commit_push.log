@@ -15965,3 +15965,91 @@ Error: Cannot find module '/Users/jongosussmango/Library/Mobile Documents/iCloud
 }
 
 Node.js v24.4.1
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+error: bad ref for .git/logs/HEAD 3
+error: bad ref for .git/logs/HEAD 2
+[main d8b316d19] chore(nightly): batch assets + link/sweep
+ 54 files changed, 13007 insertions(+)
+ rename 02_Worldbuilding/Groups/Criminal_Organizations/{Foreign Crime Syndicate (Criminal_Organizations).md => Foreign Crime Syndicate.md} (100%)
+ rename 02_Worldbuilding/Groups/Criminal_Organizations/{Foreign Shadow Syndicate (Criminal_Organizations).md => Foreign Shadow Syndicate.md} (100%)
+ rename 02_Worldbuilding/Groups/Criminal_Organizations/{Instructor Combat Shadow (Criminal_Organizations).md => Instructor Combat Shadow.md} (100%)
+ rename 02_Worldbuilding/Groups/Criminal_Organizations/{Instructor Combat Shadows (Criminal_Organizations).md => Instructor Combat Shadows.md} (100%)
+ rename 02_Worldbuilding/Groups/Criminal_Organizations/{Lord Vexton Shadowmere (Criminal_Organizations).md => Lord Vexton Shadowmere.md} (100%)
+ rename 02_Worldbuilding/Groups/Criminal_Organizations/{Party Shadows (Criminal_Organizations).md => Party Shadows.md} (100%)
+ rename 02_Worldbuilding/Groups/Criminal_Organizations/{Shadow Ambush - Optional (Criminal_Organizations).md => Shadow Ambush - Optional.md} (100%)
+ rename 02_Worldbuilding/Groups/Criminal_Organizations/{Shadow Conspiracy Investigation (Criminal_Organizations).md => Shadow Conspiracy Investigation.md} (100%)
+ rename 02_Worldbuilding/Groups/Criminal_Organizations/{Shadow Independence Levels (Criminal_Organizations).md => Shadow Independence Levels.md} (100%)
+ rename 02_Worldbuilding/Groups/Criminal_Organizations/{Shadow Nyx (Criminal_Organizations).md => Shadow Nyx.md} (100%)
+ rename 02_Worldbuilding/Groups/Criminal_Organizations/{Shadow Tide Syndicat (Criminal_Organizations).md => Shadow Tide Syndicat.md} (100%)
+ rename 02_Worldbuilding/Groups/Criminal_Organizations/{Stop the Shadow Harvest (Criminal_Organizations).md => Stop the Shadow Harvest.md} (100%)
+ rename 02_Worldbuilding/Groups/Criminal_Organizations/{The Shadow War Coalition (Criminal_Organizations).md => The Shadow War Coalition.md} (100%)
+ rename 02_Worldbuilding/Groups/Criminal_Organizations/{The Whisper Syndicate (Criminal_Organizations).md => The Whisper Syndicate.md} (100%)
+ rename 02_Worldbuilding/Groups/Cultural_Organizations/{Cross-Cultural Adaptation Technique (Cultural_Organizations).md => Cross-Cultural Adaptation Technique.md} (100%)
+ rename 02_Worldbuilding/Groups/Cultural_Organizations/{Cross-Cultural Adaptation Techniques (Cultural_Organizations).md => Cross-Cultural Adaptation Techniques.md} (100%)
+ rename 02_Worldbuilding/Groups/Cultural_Organizations/{Cross-Cultural Business Development Society (Cultural_Organizations).md => Cross-Cultural Business Development Society.md} (100%)
+ rename 02_Worldbuilding/Groups/Cultural_Organizations/{Cultural Advisor Coral Bridgebuilde (Cultural_Organizations).md => Cultural Advisor Coral Bridgebuilde.md} (100%)
+ rename 02_Worldbuilding/Groups/Cultural_Organizations/{Cultural Festival (Cultural_Organizations).md => Cultural Festival.md} (100%)
+ rename 02_Worldbuilding/Groups/Cultural_Organizations/{Cultural Mediatio (Cultural_Organizations).md => Cultural Mediatio.md} (100%)
+ rename 02_Worldbuilding/Groups/Cultural_Organizations/{Cultural Mediator Coral Windweave (Cultural_Organizations).md => Cultural Mediator Coral Windweave.md} (100%)
+ rename 02_Worldbuilding/Groups/Cultural_Organizations/{Cultural Organizations (Cultural_Organizations).md => Cultural Organizations.md} (100%)
+ rename 02_Worldbuilding/Groups/Cultural_Organizations/{Cultural Patron (Cultural_Organizations).md => Cultural Patron.md} (100%)
+ rename 02_Worldbuilding/Groups/Cultural_Organizations/{Cultural Practices (Cultural_Organizations).md => Cultural Practices.md} (100%)
+ rename 02_Worldbuilding/Groups/Cultural_Organizations/{Cultural Studies Programs (Cultural_Organizations).md => Cultural Studies Programs.md} (100%)
+ rename 02_Worldbuilding/Groups/Cultural_Organizations/{Cultural-Sage Deep-Memor (Cultural_Organizations).md => Cultural-Sage Deep-Memor.md} (100%)
+ rename 02_Worldbuilding/Groups/Government_and_Parliament/{Cross-Realm Cooperation Authority (Government_and_Parliament).md => Cross-Realm Cooperation Authority.md} (100%)
+ rename 02_Worldbuilding/Groups/Government_and_Parliament/{Enforcement Authority Charte (Government_and_Parliament).md => Enforcement Authority Charte.md} (100%)
+ rename 02_Worldbuilding/Groups/Government_and_Parliament/{Governmental Authority (Government_and_Parliament).md => Governmental Authority.md} (100%)
+ rename 02_Worldbuilding/Groups/Government_and_Parliament/{Parliament Guards (Government_and_Parliament).md => Parliament Guards.md} (100%)
+ rename 02_Worldbuilding/Groups/Government_and_Parliament/{Parliament Members (Government_and_Parliament).md => Parliament Members.md} (100%)
+ rename 02_Worldbuilding/Groups/Government_and_Parliament/{Parliament of Echoes - Shadow Chamber (Government_and_Parliament).md => Parliament of Echoes - Shadow Chamber.md} (100%)
+ rename 02_Worldbuilding/Groups/Government_and_Parliament/{Parliament-of-Shadows-Campaign (Government_and_Parliament).md => Parliament-of-Shadows-Campaign.md} (100%)
+ rename 02_Worldbuilding/Groups/Government_and_Parliament/{Parliamentary Archives (Government_and_Parliament).md => Parliamentary Archives.md} (100%)
+ rename 02_Worldbuilding/Groups/Government_and_Parliament/{Parliamentary Ethics Committee (Government_and_Parliament).md => Parliamentary Ethics Committee.md} (100%)
+ rename 02_Worldbuilding/Groups/Government_and_Parliament/{Parliamentary Speaker (Government_and_Parliament).md => Parliamentary Speaker.md} (100%)
+ rename 01_Adventures/Quest - Parliamentary Corruptio_1 (01_Adventures).md => 02_Worldbuilding/Groups/Government_and_Parliament/Quest - Parliamentary Corruptio.md (100%)
+ rename 01_Adventures/Quest - Parliamentary Infiltratio_1 (01_Adventures).md => 02_Worldbuilding/Groups/Government_and_Parliament/Quest - Parliamentary Infiltratio.md (100%)
+ rename 02_Worldbuilding/Groups/Government_and_Parliament/{Regulatory Authority Directo (Government_and_Parliament).md => Regulatory Authority Directo.md} (100%)
+ rename 02_Worldbuilding/Groups/Government_and_Parliament/{The Crown Authority (Government_and_Parliament).md => The Crown Authority.md} (100%)
+ rename 02_Worldbuilding/Groups/Government_and_Parliament/{The Parliament of Echoes (Government_and_Parliament).md => The Parliament of Echoes.md} (100%)
+ rename 02_Worldbuilding/Groups/Government_and_Parliament/{The Parliament of Nobody (Government_and_Parliament).md => The Parliament of Nobody.md} (100%)
+ rename 02_Worldbuilding/Groups/Government_and_Parliament/{The Shadow Parliament (Government_and_Parliament).md => The Shadow Parliament.md} (100%)
+To https://github.com/BippleDops/Veridia.git
+   0b449a956..d8b316d19  main -> main
+[] auto-commit cycle
+node:internal/modules/cjs/loader:1372
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/scripts/link_assets.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1369:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Module._load (node:internal/modules/cjs/loader:1179:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:152:5)
+    at node:internal/main/run_main_module:33:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v24.4.1
+node:internal/modules/cjs/loader:1372
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/scripts/sweep_upgrade_images.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1369:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Module._load (node:internal/modules/cjs/loader:1179:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:152:5)
+    at node:internal/main/run_main_module:33:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v24.4.1

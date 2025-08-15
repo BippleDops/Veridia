@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.413387+00:00'
 world: Aquabyssos
 ---
 
+![Quest - Parliamentary Infiltratio](../../../04_Resources/Assets/Generated/Misc/quest___parliamentary_infiltratio.png)
+
+
 
 
 ## Overview

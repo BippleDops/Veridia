@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.411041+00:00'
 world: Aquabyssos
 ---
 
+![Regulatory Authority Directo](../../../04_Resources/Assets/Generated/Misc/regulatory_authority_directo.png)
+
+
 
 
 ## Overview

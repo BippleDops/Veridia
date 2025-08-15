@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.417023+00:00'
 world: Both
 ---
 
+![Cross-Realm Cooperation Authority](../../../04_Resources/Assets/Generated/Misc/cross_realm_cooperation_authority.png)
+
+
 
 
 ## Cross-References

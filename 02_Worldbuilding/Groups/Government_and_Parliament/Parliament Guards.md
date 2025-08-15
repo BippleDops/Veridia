@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.421481+00:00'
 world: Aquabyssos
 ---
 
+![Parliament Guards](../../../04_Resources/Assets/Generated/Misc/parliament_guards.png)
+
+
 
 
 ## Overview

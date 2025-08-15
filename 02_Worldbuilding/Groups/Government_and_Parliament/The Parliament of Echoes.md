@@ -18,6 +18,9 @@ updated: '2025-08-13T12:34:17.411465+00:00'
 world: dual
 ---
 
+![The Parliament of Echoes](../../../04_Resources/Assets/Generated/Misc/the_parliament_of_echoes.png)
+
+
 
 
 ## Overview

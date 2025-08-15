@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.414249+00:00'
 world: Aquabyssos
 ---
 
+![The Battle of Parliament Dee](../../../04_Resources/Assets/Generated/Misc/the_battle_of_parliament_dee.png)
+
+
 
 
 ## Overview

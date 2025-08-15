@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.408065+00:00'
 world: Both
 ---
 
+![Governmental Authority](../../../04_Resources/Assets/Generated/Misc/governmental_authority.png)
+
+
 
 
 ## Cross-References

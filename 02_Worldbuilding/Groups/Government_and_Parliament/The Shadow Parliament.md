@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.414826+00:00'
 world: Both
 ---
 
+![The Shadow Parliament](../../../04_Resources/Assets/Generated/Misc/the_shadow_parliament.png)
+
+
 
 
 ## Cross-References

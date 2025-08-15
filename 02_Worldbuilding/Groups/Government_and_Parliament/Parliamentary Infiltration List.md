@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.419996+00:00'
 world: Aquabyssos
 ---
 
+![Parliamentary Infiltration List](../../../04_Resources/Assets/Generated/Misc/parliamentary_infiltration_list.png)
+
+
 
 
 ## Overview

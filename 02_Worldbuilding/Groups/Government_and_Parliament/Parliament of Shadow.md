@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.420454+00:00'
 world: Aquabyssos
 ---
 
+![Parliament of Shadow](../../../04_Resources/Assets/Generated/Misc/parliament_of_shadow.png)
+
+
 
 
 ## Overview

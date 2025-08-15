@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.408458+00:00'
 world: Aquabyssos
 ---
 
+![Quest - Parliamentary Corruptio](../../../04_Resources/Assets/Generated/Misc/quest___parliamentary_corruptio.png)
+
+
 
 
 ## Overview

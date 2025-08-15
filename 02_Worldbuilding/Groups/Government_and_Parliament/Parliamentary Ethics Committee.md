@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.410025+00:00'
 world: Aquabyssos
 ---
 
+![Parliamentary Ethics Committee](../../../04_Resources/Assets/Generated/Misc/parliamentary_ethics_committee.png)
+
+
 
 
 ## Overview

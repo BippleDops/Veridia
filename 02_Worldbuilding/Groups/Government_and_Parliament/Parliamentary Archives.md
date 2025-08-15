@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.412963+00:00'
 world: Both
 ---
 
+![Parliamentary Archives](../../../04_Resources/Assets/Generated/Misc/parliamentary_archives.png)
+
+
 
 
 ## Overview

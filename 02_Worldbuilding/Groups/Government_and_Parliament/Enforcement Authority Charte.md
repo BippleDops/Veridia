@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.409060+00:00'
 world: Aethermoor
 ---
 
+![Enforcement Authority Charte](../../../04_Resources/Assets/Generated/Misc/enforcement_authority_charte.png)
+
+
 
 
 ## Overview

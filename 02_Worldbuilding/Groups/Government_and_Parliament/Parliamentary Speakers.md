@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.418373+00:00'
 world: Aquabyssos
 ---
 
+![Parliamentary Speakers](../../../04_Resources/Assets/Generated/Misc/parliamentary_speakers.png)
+
+
 
 
 ## Overview

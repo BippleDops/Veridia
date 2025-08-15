@@ -1004,3 +1004,33 @@
 [worker2] Retry 1/2 for Portrait NPC Commander Thrace Ironwood V1 Commander Thrace Ironwood.svg.md
 [worker2] Failed: No context extracted
 [worker2] Retry 1/2 for Portrait NPC Commander Thrace Ironwood V2 Commander Thrace Ironwood.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 57 complete
+  • Generated: 0
+  • Failed: 285
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 58 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Commander Typhoon Blackheart Commander Typhoon Blackheart.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Commander Typhoon Blackheart V1 Commander Typhoon Blackheart.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Commander Typhoon Blackheart V2 Commander Typhoon Blackheart.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Commodity Queen Abundance Commodity Queen Abundance.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Commodity Queen Abundance V1 Commodity Queen Abundance.svg.md
+[worker2] Failed: No context extracted
+[worker2] Batch 58 complete
+  • Generated: 0
+  • Failed: 290
+  • Rate: 0.0 assets/hour
+
+[worker2] Pausing 30s before next batch...
+[worker2] Processing batch 59 (5 files)
+[worker2] Retry 1/2 for Portrait NPC Commodity Queen Abundance V2 Commodity Queen Abundance.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Coral Empress Scarletina Coral Empress Scarletina.svg.md
+[worker2] Failed: No context extracted
+[worker2] Retry 1/2 for Portrait NPC Coral Empress Scarletina V1 Coral Empress Scarletina.svg.md

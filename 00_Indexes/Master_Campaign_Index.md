@@ -2,6 +2,13 @@
 title: Master_Campaign_Index
 type: note
 tags:
+- combat
+- quest
+- session-notes
+- crystal-enhanced
+- shadow-touched
+- aerial
+- aquatic
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
@@ -39,7 +46,7 @@ chronology: active
 
 *Complete Navigation System for Aquabyssos & Aethermoor*
 
-See also: [[Phase Omega Enhanced Index]]
+See also: [[12_Research/D&D_References/Phase Omega Enhanced Index]]
 
 ### 🌍 Worldbuilding (02_Worldbuilding/)
 ```dataview
@@ -53,6 +60,7 @@ SORT file.mtime DESC
 LIMIT 10
 ```
 ### ⚙️ Mechanics (03_Mechanics/)
+
   file.link AC "System",
   contains(tags, "complete") AC "Ready"
 FROM "03_Mechanics"
@@ -63,31 +71,34 @@ SORT file.name ASC
 
 **Environmental**:
 - [[Aquabyssos Survival Mechanics]] - Underwater survival
-- [[Depth Adaptation System]] - Transformation mechanics
+- [[12_Research/D&D_References/Depth Adaptation System]] - Transformation mechanics
 - [[Crystal Plague Mechanics]] - Corruption system
 
 **Social/Political**:
-- [[Faction Standing System]] - Reputation tracking
+- [[12_Research/D&D_References/Faction Standing System]] - Reputation tracking
 - [[NPC Reactions]] - Social mechanics
-- [[Political Maneuvering]] - Intrigue rules
+- [[02_Worldbuilding/Lore/Political Maneuvering]] - Intrigue rules
 
 **Combat/Action**:
 - [[Underwater Combat Rules]] - 3D combat
 - [[Pressure Combat Modifiers]] - Environmental effects
-- [[Mass Combat Resolution]] - Large battles
+- [[02_Worldbuilding/Lore/Mass Combat Resolution]] - Large battles
 
 **Reality/Horror**:
-- [[Reality Merger Mechanics]] - Dimensional rules
-- [[Aquabyssos]] - Madness tracking
-- [[Memory Absorption Rules]] - Memory mechanics
+- [[12_Research/D&D_References/Reality Merger Mechanics]] - Dimensional rules
+- [[02_Worldbuilding/Places/Aquabyssos]] - Madness tracking
+- [[12_Research/D&D_References/Memory Absorption Rules]] - Memory mechanics
 
 #### Aquabyssos Campaign
+
 LIST
 FROM "1-Session Journals"
 WHERE contains(file.name, "Aquabyssos")
 #### Aethermoor Campaign
+
 WHERE contains(file.name, "Aethermoor")
 ### Find by Status
+
   file.link AC "File",
   type AC "Type",
   file.folder AC "Location"
@@ -95,10 +106,12 @@ FROM ""
 WHERE status = "stub"
 LIMIT 20
 ### Recently Modified
+
   file.mtime AC "Modified",
   status AC "Status"
 WHERE file.mtime > date(today) - dur(7 days)
 ### Most Connected
+
   length(file.inlinks) AC "Incoming Links",
   length(file.outlinks) AC "Outgoing Links"
 SORT length(file.inlinks) DESC
@@ -113,12 +126,13 @@ SORT length(file.inlinks) DESC
 ### Cross-System References
 
 Every major system connects to:
-- [[Faction Tracker]] - Live faction tracking
-- [[Quest Campaign Tracker.base]] - Quest management
-- [[NPC Directory.base]] - Character relationships
-- [[Session Log.base]] - Historical record
+- [[12_Research/D&D_References/Faction Tracker]] - Live faction tracking
+- [[01_Adventures/Quest Campaign Tracker.base]] - Quest management
+- [[02_Worldbuilding/Lore/Npc Directory.base]] - Character relationships
+- [[06_Sessions/Session Log.base]] - Historical record
 
 ### Data Flow
+
 Player Actions → Session Log → 
   ↓
 Faction Tracker → Quest Updates →
@@ -134,18 +148,19 @@ Reality Stability → Merger Events
 6. Generate session prep
 
 ## 📊 Quick Stats Dashboard
+
   "📚 " + length(file.lists) AC "Total Files",
   "✅ " + length(filter(file.lists, (x) => x.status = "complete")) AC "Complete",
   "⚠️ " + length(filter(file.lists, (x) => x.status = "stub")) AC "Stubs",
   "🔄 " + length(filter(file.lists, (x) => x.status = "in-progress")) AC "Active"
 ### Session Prep
 
-1. Check [[Session Log]] for last session
-2. Update [[Faction Tracker]] standings
-3. Review [[Quest Campaign Tracker]] status
+1. Check [[06_Sessions/Session Log]] for last session
+2. Update [[12_Research/D&D_References/Faction Tracker]] standings
+3. Review [[01_Adventures/Quest Campaign Tracker]] status
 4. Check [[02 Worldbuilding/Lore/NPC Directory.base|02 Worldbuilding/Lore/NPC Directory.base]] for active NPCs
-5. Generate encounters with [[Encounter Builder]]
-6. Prepare scenes with [[Scene Framing Templates]]
+5. Generate encounters with [[12_Research/D&D_References/Encounter Builder]]
+6. Prepare scenes with [[09_Templates/Scene Framing Templates]]
 
 ### World Building
 
@@ -157,10 +172,10 @@ Reality Stability → Merger Events
 
 ### Player Management
 
-1. Direct players to [[Player Portal]]
+1. Direct players to [[12_Research/D&D_References/Player Portal]]
 2. Use [[Quick Start Guide]] for new players
-3. Reference [[Rules Reference]] for disputes
-4. Track progress in [[Session Log]]
+3. Reference [[12_Research/D&D_References/Rules Reference]] for disputes
+4. Track progress in [[06_Sessions/Session Log]]
 
 ---
 
@@ -186,47 +201,56 @@ updated: 2025-08-13T07:59:50.321845
 *Complete Navigation System for Aquabyssos & Aethermoor*
 
 ### 🌍 Worldbuilding (02_Worldbuilding/)
+
 ### ⚙️ Mechanics (03_Mechanics/)
+
 #### Core Systems
 
 **Environmental**:
 - [[Aquabyssos Survival Mechanics]] - Underwater survival
-- [[Depth Adaptation System]] - Transformation mechanics
+- [[12_Research/D&D_References/Depth Adaptation System]] - Transformation mechanics
 - [[Crystal Plague Mechanics]] - Corruption system
 
 **Social/Political**:
-- [[Faction Standing System]] - Reputation tracking
+- [[12_Research/D&D_References/Faction Standing System]] - Reputation tracking
 - [[NPC Reactions]] - Social mechanics
-- [[Political Maneuvering]] - Intrigue rules
+- [[02_Worldbuilding/Lore/Political Maneuvering]] - Intrigue rules
 
 **Combat/Action**:
 - [[Underwater Combat Rules]] - 3D combat
 - [[Pressure Combat Modifiers]] - Environmental effects
-- [[Mass Combat Resolution]] - Large battles
+- [[02_Worldbuilding/Lore/Mass Combat Resolution]] - Large battles
 
 **Reality/Horror**:
-- [[Reality Merger Mechanics]] - Dimensional rules
-- [[Aquabyssos]] - Madness tracking
-- [[Memory Absorption Rules]] - Memory mechanics
+- [[12_Research/D&D_References/Reality Merger Mechanics]] - Dimensional rules
+- [[02_Worldbuilding/Places/Aquabyssos]] - Madness tracking
+- [[12_Research/D&D_References/Memory Absorption Rules]] - Memory mechanics
 
 #### Aquabyssos Campaign
+
 #### Aethermoor Campaign
+
 ### Find by Status
+
 ### Recently Modified
+
 ### Most Connected
+
 ### Priority Completion Areas
 
 ### Cross-System References
 
-- [[Faction Tracker]] - Live faction tracking
-- [[Quest Campaign Tracker.base]] - Quest management
-- [[NPC Directory.base]] - Character relationships
-- [[Session Log.base]] - Historical record
+- [[12_Research/D&D_References/Faction Tracker]] - Live faction tracking
+- [[01_Adventures/Quest Campaign Tracker.base]] - Quest management
+- [[02_Worldbuilding/Lore/Npc Directory.base]] - Character relationships
+- [[06_Sessions/Session Log.base]] - Historical record
 
 ### Data Flow
+
 ### Update Procedures
 
 ## 📊 Quick Stats Dashboard
+
 ### Session Prep
 
 ### World Building
@@ -251,17 +275,18 @@ updated: 2025-08-13T07:59:50.321845
 **Diplomatic Priorities**: Key relationships requiring attention
 
 ## Semantic Connections
+
 *Related concepts and locations:*
-- [[insect-plague-xphb]]
-- [[secondary-tables-arcane-matters-xge]]
-- [[wizard-xphb-school-of-enchantment]]
-- [[githzerai-groups-githzerai-mission-purpose-mtf]]
-- [[trade-goods-phb]]
-- [[List Spells Optional Features Gift of the Depths Xphb]]
-- [[Shadow Broker Maximian Darkmarket]]
-- [[guild-artisan-guild-merchant-variant]]
-- [[Advocate Lightfight]]
-- [[Deputy Archmerchant Scroll Deepmind]]
+- [[02_Worldbuilding/Lore/insect-plague-xphb]]
+- [[02_Worldbuilding/Lore/secondary-tables-arcane-matters-xge]]
+- [[02_Worldbuilding/Lore/wizard-xphb-school-of-enchantment]]
+- [[12_Research/D&D_Sourcebooks/CLI_Reference/tables/githzerai-groups-githzerai-mission-purpose-mtf]]
+- [[02_Worldbuilding/Lore/trade-goods-phb]]
+- [[12_Research/D&D_Sourcebooks/CLI_Reference/lists/List Spells Optional Features Gift of the Depths Xphb]]
+- [[02_Worldbuilding/Lore/Shadow Broker Maximian Darkmarket]]
+- [[02_Worldbuilding/Groups/guild-artisan-guild-merchant-variant]]
+- [[12_Research/D&D_References/Advocate Lightfight]]
+- [[02_Worldbuilding/Groups/Deputy Archmerchant Scroll Deepmind]]
 
 ## DM Notes
 
@@ -270,3 +295,8 @@ updated: 2025-08-13T07:59:50.321845
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

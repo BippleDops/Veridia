@@ -2,6 +2,7 @@
 title: Navigation_Hub
 type: note
 tags:
+- quest
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
@@ -28,7 +29,6 @@ cssclass: navigation-hub
 > *This page auto-updates to show current vault contents using Dataview queries*
 
 ### Content by Category
-
 ```dataview
 TABLE WITHOUT ID
   file.folder as "📁 Category",
@@ -38,8 +38,8 @@ WHERE file.name != this.file.name
 GROUP BY file.folder
 SORT length(rows) DESC
 ```
-
 ### Recent Sessions
+
   file.link as Session,
   campaign as Campaign,
   date as Date
@@ -49,6 +49,7 @@ SORT file.mtime DESC
 LIMIT 5
 
 ### Active NPCs
+
   file.link as NPC,
   faction as Faction,
   location as Location
@@ -57,6 +58,7 @@ WHERE type = "npc" OR contains(tags, "npc")
 LIMIT 10
 
 ### Key Locations
+
   file.link as Location,
   world as Realm,
   type as Type
@@ -79,10 +81,11 @@ GROUP BY tag
 LIMIT 20
 
 ### By Type
-- `type:npc` - [[All NPCs]]
-- `type:location` - [[All Locations]]
-- `type:quest` - [[All Quests]]
-- `type:session` - [[All Sessions]]
+
+- `type:npc` - [[02_Worldbuilding/People/All NPCs]]
+- `type:location` - [[02_Worldbuilding/Places/All Locations]]
+- `type:quest` - [[01_Adventures/All Quests]]
+- `type:session` - [[01_Adventures/All Sessions]]
 
 ---
 *Navigation hub powered by Dataview - automatically updates with vault changes*

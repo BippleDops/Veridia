@@ -25,14 +25,12 @@ cssclass: quick-access
 ---
 
 ## 📌 Pinned Content
-
 ```dataview
 LIST
 FROM ""
 WHERE contains(tags, "pinned") OR contains(tags, "favorite")
 SORT file.name ASC
 ```
-
 ## 🔥 Hot Keys
 
 | Action | Shortcut | Description |
@@ -44,16 +42,19 @@ SORT file.name ASC
 | Tag Search | `Cmd/Ctrl + T` | Find by tag |
 
 ### Campaigns
+
 FROM "01_Adventures"
 WHERE type = "campaign" AND status = "active"
 LIMIT 3
 
 ### Current NPCs
+
 FROM "02_Worldbuilding/People"
 WHERE contains(tags, "current") OR contains(tags, "active")
 LIMIT 5
 
 ### Active Locations
+
 FROM "02_Worldbuilding/Places"
 WHERE contains(tags, "current") OR last-visited = date(today)
 

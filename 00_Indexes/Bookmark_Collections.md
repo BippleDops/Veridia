@@ -23,9 +23,10 @@ modified: '2025-08-14'
 ---
 
 ### Roleplay
+
 - [[NPC Voices]]
-- [[Shop Inventories]]
-- [[Tavern Names]]
+- [[02_Worldbuilding/Lore/Shop Inventories]]
+- [[02_Worldbuilding/Lore/Tavern Names]]
 
 ---
 *Organized bookmark collections*

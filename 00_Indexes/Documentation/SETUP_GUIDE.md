@@ -2,6 +2,7 @@
 title: SETUP_GUIDE
 type: note
 tags:
+- quest
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
@@ -20,6 +21,7 @@ modified: '2025-08-14'
 ---
 
 ### 1. Discord Webhooks (Free)
+
 **Purpose:** Get notifications when assets are generated
 
 1. Open Discord and go to your server
@@ -29,6 +31,7 @@ modified: '2025-08-14'
 5. Add to n8n workflow as credential
 
 ### 2. Stability AI ($10 credits)
+
 **Purpose:** High-quality SDXL image generation
 
 1. Visit: https://platform.stability.ai
@@ -38,6 +41,7 @@ modified: '2025-08-14'
 5. Add to n8n: HTTP Request node → Authentication → API Key
 
 ### 3. Replicate AI (Pay-per-use)
+
 **Purpose:** Access to latest AI models (SDXL, AnimateDiff, etc.)
 
 1. Visit: https://replicate.com
@@ -47,6 +51,7 @@ modified: '2025-08-14'
 5. Usage: ~$0.01 per image
 
 ### 4. Airtable (Free tier)
+
 **Purpose:** Database for asset management
 
 1. Visit: https://airtable.com
@@ -56,6 +61,7 @@ modified: '2025-08-14'
 5. Scopes needed: data.records:read, data.records:write
 
 ### 5. Reddit API (Free)
+
 **Purpose:** Pull trending D&D content
 
 1. Visit: https://www.reddit.com/prefs/apps
@@ -65,6 +71,7 @@ modified: '2025-08-14'
 5. No authentication needed for public subreddits
 
 ### 6. Weather API (Free)
+
 **Purpose:** Generate weather-based events
 
 1. Visit: https://openweathermap.org/api
@@ -73,6 +80,7 @@ modified: '2025-08-14'
 4. Free tier: 1000 calls/day
 
 ### 7. GitHub API (Free)
+
 **Purpose:** Track D&D tools and updates
 
 1. Visit: https://github.com/settings/tokens
@@ -81,6 +89,7 @@ modified: '2025-08-14'
 4. Use in n8n HTTP Request nodes
 
 ### Import Workflows
+
 1. Open n8n: http://localhost:5678
 2. Click "Workflows" → "Import"
 3. Select files from `scripts/n8n_workflows/`:
@@ -90,6 +99,7 @@ modified: '2025-08-14'
    - `multi_ai_pipeline.json` - Multi-AI generation
 
 ### Add Credentials in n8n
+
 1. Settings → Credentials → Add Credential
 2. Choose "Header Auth" for most APIs
 3. Add your API keys:
@@ -98,21 +108,23 @@ modified: '2025-08-14'
    - Header Value: "Bearer YOUR_KEY"
 
 ## 🎯 Quick Start Commands
-
 ```bash
 # Test OpenAI integration
+
 node scripts/openai_generator.js aquabyssos
 
 # Run production workflow
+
 node scripts/production_workflow.js --full
 
 # Start n8n workflows
+
 curl -X POST http://localhost:5678/webhook/ttrpg-generate
 
 # Check generation status
+
 curl http://localhost:5679/stats
 ```
-
 ## 💰 Cost Estimates
 
 | Service | Free Tier | Paid Usage |
@@ -150,9 +162,11 @@ Open the dashboard: `09_Performance/integration_dashboard.html`
 
 Or check status via CLI:
 # Check all services
+
 node scripts/configure_apis.js
 
 # View generation stats
+
 cat 09_Performance/production_report.json
 
 ## 🔒 Security Notes

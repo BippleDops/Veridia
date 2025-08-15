@@ -2,6 +2,7 @@
 title: Relationship_Web
 type: note
 tags:
+- quest
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
@@ -34,24 +35,27 @@ WHERE faction !=
 GROUP BY faction
 SORT length(rows) DESC
 ```
-
 ### Romantic Relationships
+
   file.link as Character,
   romance as "Romantic Interest",
   relationship-status as Status
 WHERE romance != 
 
 ### Rivalries
+
   rival as Rival,
   conflict as "Nature of Conflict"
 WHERE rival != 
 
 ### Alliances
+
   allies as Allies,
   alliance-type as "Type"
 WHERE allies != 
 
 ### Leaders
+
   file.link as Leader,
   faction as Organization,
   location as Base,
@@ -59,6 +63,7 @@ WHERE allies !=
 WHERE role = "leader" OR contains(tags, "leader")
 
 ### Advisors
+
   file.link as Advisor,
   advises as "Advises",
   expertise as Expertise

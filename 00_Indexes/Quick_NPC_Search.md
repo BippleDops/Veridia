@@ -27,6 +27,7 @@ modified: '2025-08-14'
 > Search for NPCs by name, faction, or location
 
 ## Search Operators
+
 - `AND` - Both terms required
 - `OR` - Either term
 - `NOT` or `-` - Exclude term

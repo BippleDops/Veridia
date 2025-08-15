@@ -27,6 +27,7 @@ modified: '2025-08-14'
 > Spell lookup by level, school, or class
 
 ## Search Operators
+
 - `AND` - Both terms required
 - `OR` - Either term
 - `NOT` or `-` - Exclude term

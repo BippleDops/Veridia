@@ -2,6 +2,7 @@
 title: TOOL_LIBRARY_DOCUMENTATION
 type: note
 tags:
+- quest
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
@@ -26,12 +27,13 @@ This is a comprehensive AI tool library that provides unified access to all majo
 ### Quick Install (Recommended)
 ```bash
 # Run the global installation script
+
 bash scripts/install_global_tools.sh
 
 # Reload your shell
+
 source ~/.zshrc  # or ~/.bashrc
 ```
-
 This installs:
 - **ComfyUI** - Advanced image generation
 - **Stable Diffusion WebUI** - User-friendly image generation
@@ -42,7 +44,6 @@ This installs:
 - **PM2** - Process management
 
 ### Import in Any Project
-
 ```javascript
 // Import the tool library
 const { ToolLibrary } = require('./path/to/tool_library.js');
@@ -81,14 +82,17 @@ const text = await quickText('Generate NPC dialogue');
 ### Command Line Usage
 
 # Start services
+
 node tool_library.js start comfyui
 node tool_library.js start n8n
 node tool_library.js start ollama
 
 # Check service status
+
 node tool_library.js check
 
 # Generate content
+
 node tool_library.js image "fantasy landscape"
 node tool_library.js video "lightning strike"
 node tool_library.js audio "tavern ambience"
@@ -99,31 +103,45 @@ node tool_library.js text "describe a magical item"
 After installation, these commands are available globally:
 
 ### Service Launchers
+
 comfyui          # Start ComfyUI on port 8188
+
 sdwebui          # Start Stable Diffusion WebUI
+
 animatediff      # Run AnimateDiff
+
 audiocraft       # Start AudioCraft
+
 n8n-start        # Start N8N on port 5678
+
 ollama serve     # Start Ollama server
 
 ### Process Management
+
 # Start all services at once
+
 pm2 start ~/AITools/ecosystem.config.js
 
 # Check status
+
 pm2 status
 
 # View logs
+
 pm2 logs
 
 # Stop all
+
 pm2 stop all
 
 ### Model Management
+
 # Download models
+
 download-models
 
 # Ollama models
+
 ollama pull llama2
 ollama pull codellama
 ollama pull mistral
@@ -193,50 +211,68 @@ async function generateCampaignAssets() {
 
 ~/AITools/
 ├── bin/                 # Global command shortcuts
+
 │   ├── comfyui
 │   ├── sdwebui
 │   ├── animatediff
 │   └── download-models
 ├── ComfyUI/            # ComfyUI installation
+
 ├── stable-diffusion-webui/  # SD WebUI
+
 ├── animatediff-cli/    # AnimateDiff
+
 ├── audiocraft/         # AudioCraft
+
 ├── models/             # Shared models
+
 │   ├── stable-diffusion/
 │   ├── animatediff/
 │   └── audiocraft/
 ├── workflows/          # N8N workflows
+
 ├── ecosystem.config.js # PM2 configuration
+
 └── TOOL_LIBRARY.md    # This documentation
 
 ## Environment Variables
 
 # Add to ~/.zshrc or ~/.bashrc
+
 export AITOOLS_HOME="$HOME/AITools"
 export PATH="$AITOOLS_HOME/bin:$PATH"
 
 # Optional API keys
+
 export OPENAI_API_KEY="your-key"
 export STABILITY_API_KEY="your-key"
 export N8N_WEBHOOK_URL="http://localhost:5678/"
 
 ### Service won't start
+
 # Check if port is in use
+
 lsof -i :8188  # ComfyUI
+
 lsof -i :5678  # N8N
 
 # Kill process using port
+
 kill -9 $(lsof -t -i:8188)
 
 ### Out of memory
+
 # For ComfyUI on Mac
+
 export PYTORCH_ENABLE_MPS_FALLBACK=1
 export PYTORCH_MPS_HIGH_WATERMARK_RATIO=0.0
 
 ### Models not found
+
 # Download models
 
 # Or manually download to:
+
 ~/AITools/models/stable-diffusion/
 
 ### Complete Asset Generation Script

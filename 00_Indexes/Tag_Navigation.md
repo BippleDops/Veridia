@@ -2,6 +2,9 @@
 title: Tag_Navigation
 type: note
 tags:
+- combat
+- quest
+- shadow-touched
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
@@ -29,15 +32,17 @@ cssclass: tag-hierarchy
 TABLE WITHOUT ID
   file.link as Content,
   file.folder as Location
-FROM #combat
+FROM # combat
+
 LIMIT 10
 ```
-
 ### Find by Multiple Tags
+
   tags as Tags
 FROM #npc AND #aquabyssos
 
 ### Tag Combinations
+
   status as Status
 FROM (#quest OR #adventure) AND #active
 
@@ -53,26 +58,34 @@ SORT length(rows) DESC
 LIMIT 20
 
 ### Campaign Tags
+
 LIST
-FROM #campaign OR #seven-shards OR #shadow-conspiracy
+FROM # campaign OR #seven-shards OR #shadow-conspiracy
+
 GROUP BY file.folder
 
 ### Faction Tags
-FROM #faction OR #guild OR #organization
+
+FROM # faction OR #guild OR #organization
+
 GROUP BY tags
 
 ### Danger Level Tags
+
   danger-level as "Danger"
-FROM #dangerous OR #deadly OR #safe
+FROM # dangerous OR #deadly OR #safe
+
 SORT danger-level DESC
 
 ### Recently Tagged
+
   file.tags as Tags,
   file.mtime as Modified
 WHERE file.mtime >= date(today) - dur(3 days) AND tags != 
 SORT file.mtime DESC
 
 ### Untagged Content
+
 WHERE !tags OR tags = 
 
 ---

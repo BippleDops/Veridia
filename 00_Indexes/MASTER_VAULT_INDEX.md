@@ -2,6 +2,12 @@
 title: MASTER_VAULT_INDEX
 type: note
 tags:
+- combat
+- session-notes
+- crystal-enhanced
+- shadow-touched
+- aerial
+- aquatic
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
@@ -81,17 +87,18 @@ updated: 2025-08-14
 *Total Connections: 112739*
 
 ## Semantic Connections
+
 *Related concepts and locations:*
-- [[wizard xphb school of enchantment]]
-- [[Visibility Underwater Underwater Encounter Distance Xdmg]]
+- [[12_Research/D&D_Sourcebooks/CLI_Reference/classes/Wizard Xphb School of Enchantment]]
+- [[12_Research/D&D_Sourcebooks/CLI_Reference/tables/Visibility Underwater Underwater Encounter Distance Xdmg]]
 - [[Aquabyssos_Submarines_Catalog]]
-- [[Ocean Ecosystem Management]]
-- [[Crisis Intervention Chief Raven Darkstorm]]
+- [[12_Research/D&D_References/Ocean Ecosystem Management]]
+- [[12_Research/D&D_References/Crisis Intervention Chief Raven Darkstorm]]
 - [[Vehicles   Aethermoor Airships Catalog]]
-- [[Border Territories]]
-- [[galeb duhr xmm]]
-- [[Border Fortresses]]
-- [[vampire umbral lord xmm]]
+- [[02_Worldbuilding/Groups/Border Territories]]
+- [[12_Research/D&D_Sourcebooks/CLI_Reference/bestiary/elemental/Galeb Duhr Xmm]]
+- [[02_Worldbuilding/Groups/Border Fortresses]]
+- [[12_Research/D&D_Sourcebooks/CLI_Reference/bestiary/undead/Vampire Umbral Lord Xmm]]
 
 ## DM Notes
 
@@ -100,3 +107,10 @@ updated: 2025-08-14
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
+- [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]

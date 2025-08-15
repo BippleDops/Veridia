@@ -27,6 +27,7 @@ modified: '2025-08-14'
 > Find items by type, rarity, or properties
 
 ## Search Operators
+
 - `AND` - Both terms required
 - `OR` - Either term
 - `NOT` or `-` - Exclude term

@@ -2,6 +2,7 @@
 title: DM_Session_Navigator
 type: session
 tags:
+- combat
 - session
 created: '2025-01-15'
 modified: '2025-01-15'
@@ -36,8 +37,8 @@ WHERE type = "session" AND date >= date(today)
 SORT date ASC
 LIMIT 1
 ```
-
 ### Session History
+
   players as Players,
   xp-awarded as XP
 WHERE type = "session" AND status = "completed"
@@ -45,6 +46,7 @@ SORT date DESC
 LIMIT 5
 
 ### Required NPCs
+
   file.link as NPC,
   faction as Faction,
   location as Location,
@@ -53,6 +55,7 @@ FROM "02_Worldbuilding/People"
 WHERE session-appearance = this.file.name OR contains(tags, "next-session")
 
 ### Required Locations
+
   file.link as Location,
   type as Type,
   map as "Map Ready?",
@@ -60,6 +63,7 @@ WHERE session-appearance = this.file.name OR contains(tags, "next-session")
 FROM "02_Worldbuilding/Places"
 
 ### Player Attendance
+
   player as Player,
   length(rows) as "Sessions Attended",
   last-session as "Last Seen"
@@ -68,28 +72,33 @@ FLATTEN players as player
 GROUP BY player
 
 ### Session Pacing
+
   combat-time as "Combat %",
   rp-time as "RP %",
   exploration-time as "Exploration %"
 
 ## 📝 Session Notes Template
-
 ```markdown
 # Session [Number]: [Title]
+
 Date: [Date]
 Players: [List]
 Level: [X]
 
 ## Recap
+
 [Previous session summary]
 
 ## Events
+
 [What happened]
 
 ## XP Awarded
+
 [Amount and reason]
 
 ## Notes for Next Session
+
 [Hooks and reminders]
 
 ## 🔮 Upcoming Plot Points

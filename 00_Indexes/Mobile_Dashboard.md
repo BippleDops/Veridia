@@ -24,9 +24,10 @@ cssclass: mobile-optimized
 ---
 
 ## 📝 Notes
-- [[Session Notes]]
+
+- [[06_Sessions/Session Notes]]
 - [[Player Notes]]
-- [[DM Screen]]
+- [[02_Worldbuilding/Lore/DM Screen]]
 
 ---
 *Optimized for mobile devices*

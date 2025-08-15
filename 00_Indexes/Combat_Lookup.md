@@ -2,6 +2,7 @@
 title: Combat_Lookup
 type: note
 tags:
+- combat
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
@@ -27,6 +28,7 @@ modified: '2025-08-14'
 > Quick combat reference searches
 
 ## Search Operators
+
 - `AND` - Both terms required
 - `OR` - Either term
 - `NOT` or `-` - Exclude term

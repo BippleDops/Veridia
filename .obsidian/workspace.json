@@ -11,14 +11,10 @@
             "id": "fa5c4d6e2915788c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Worldbuilding/Items/13_Performance/Indexes/Item_Catalog_Complete.md.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Item_Catalog_Complete.md"
+              "title": "New tab"
             }
           }
         ]
@@ -328,12 +324,32 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "381296e9bd43fb2b",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "7df83fd5b5262a87",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
               "icon": "dices",
               "title": "Dice Tray"
             }
           },
           {
-            "id": "381296e9bd43fb2b",
+            "id": "13b5efccf6de0376",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",

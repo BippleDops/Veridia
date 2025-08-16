@@ -1278,3 +1278,7 @@
 ```json
 []
 ```
+\n\n## Aethermoor map prompts (2025-08-16T14:08:09Z)\n
+```json
+[]
+```

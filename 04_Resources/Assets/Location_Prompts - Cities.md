@@ -18,3 +18,7 @@
 ```json
 []
 ```
+\n\n## Aethermoor location prompts (2025-08-16T14:38:10Z)\n
+```json
+[]
+```

@@ -1330,3 +1330,15 @@
 ```json
 []
 ```
+\n\n## Aethermoor map prompts (2025-08-16T14:38:10Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos map prompts (2025-08-16T14:38:17Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos map prompts (2025-08-16T14:42:18Z)\n
+```json
+[]
+```

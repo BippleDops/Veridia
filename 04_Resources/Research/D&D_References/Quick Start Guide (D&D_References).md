@@ -2,7 +2,7 @@
 
 title: Quick Start Guide (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -70,7 +70,6 @@ All characters begin with **Level 1 Pressure Adaptation**:
 4. **What do you fear?** The depths, the surface, or something else?
 5. **What do you want?** Power, knowledge, survival, or transformation? ### Starting Equipment
 
-
 **All characters receive**:
 - Basic pressure adaptation gear (suits or biological mods)
 - Underwater communication device
@@ -92,11 +91,10 @@ Unique spells available at different depths:
 - **Midnight**: Shadow magic enhanced
 - **Abyssal**: Reality-warping effects possible ### Emergency Procedures
 
-1. Moreover, **Pressure Failure**: Activate emergency ascent, take 2d6 damage
+1. Moreover, **Pressure Failure**: Activate emergency ascent, take `dice: 2d6` damage
 2. **Lost in Darkness**: Follow bioluminescent emergency markers
 3. **Predator Attack**: Form defensive circle, use bright lights
 4. **Reality Distortion**: Focus on anchor memories, make WIS saves ### Advantage/Disadvantage Sources
-
 
 **Advantage**:
 - Attacking from above in water
@@ -106,18 +104,17 @@ Unique spells available at different depths:
 - Using non-aquatic weapons underwater
 - Acting against faction standing ### Resources
 
-- Full Player Handbook: [[Player Handbook]]
-- Character Creation: [[Character_Creation_Extended]]
-- Faction Details: [[Faction Guide]]
-- World Lore: [[World_Primer.md]]
-- Rules Reference: [[Complete Rules Reference]] --- *Remember: In the depths, pressure isn't just physical—it's political, social, and existential. Every choice matters, every alliance has a cost, and the deep remembers everything.* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Quick Start Guide is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Quick Start Guide as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quick Start Guide. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is hunting information for money
+- Full Player Handbook: [[Player Handbook
+- Character Creation: [Character_Creation_Extended]]
+- Faction Details: [[Faction Guide
+- World Lore: [World_Primer.md]]
+- Rules Reference: [[Complete Rules Reference --- *Remember: In the depths, pressure isn't just physical—it's political, social, and existential. Every choice matters, every alliance has a cost, and the deep remembers everything.* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Quick Start Guide is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Quick Start Guide as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quick Start Guide. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is hunting information for money
 
 - A stranger needs help investigating before winter
-- A corpse reveals a conspiracy about the cult ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Master_Campaign_Index]]
+- A corpse reveals a conspiracy about the cult ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [Master_Campaign_Index]]
 
-- [[Campaign_Dashboard]]
-- [[Player Handbook]]
-
+- [[Campaign_Dashboard
+- [Player Handbook]]
 
 ## Notes
 

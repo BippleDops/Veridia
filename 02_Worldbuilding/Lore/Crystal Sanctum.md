@@ -1,12 +1,12 @@
 ---
 
 title: Crystal Sanctum
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
 - content/adventure
 - content/lore
-- world/[[Aethermoor]]
+- world/[Aethermoor]]
 - active
 - complete
 - status/in-progress
@@ -35,7 +35,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -71,7 +71,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[region]]s
+- Describe how this culture exists in other [region]]s
 
 ## Player-Facing Summary
 
@@ -81,9 +81,9 @@ Crystal Sanctum is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Crystal Sanctum as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Crystal Sanctum.
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [map]] use.
 
 ## [[Historical Context]]
 

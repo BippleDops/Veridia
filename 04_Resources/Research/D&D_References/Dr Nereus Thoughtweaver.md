@@ -2,7 +2,7 @@
 
 title: Dr Nereus Thoughtweaver
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -46,7 +46,6 @@ world: Aquabyssos
 - A prisoner has gone missing and truth emerges
 - A noble needs help investigating before the festival
 - A journal reveals the truth about the cult ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

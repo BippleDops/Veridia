@@ -1,9 +1,9 @@
 ---
-title: [[Shadow Conspiracy]] [[Time|[[Time]]line]]
-type: [[Lore]]
-tags:
+title: [[Shadow Conspiracy [[Time|[Time]]line]]
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - shadow-surgery
 - world/aquabyssos
 - aquatic
@@ -35,12 +35,12 @@ Shadow Conspiracy Timeline represents a significant element within the campaign 
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: [[Link]]ed to multiple other elements
+- **Connections**: [[Linked to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-[[Historical Context]] and development over time.
+[Historical Context]] and development over time.
 
 ### Current State
 Present circumstances and ongoing relevance.

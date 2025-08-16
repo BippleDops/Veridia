@@ -1,7 +1,7 @@
 ---
 type: Lore
 status: complete
-tags:
+tags: 
 - active
 - aquabyssos
 - historical-event
@@ -10,11 +10,6 @@ world: Aquabyssos
 created: '2025-08-11'
 updated: '2025-08-13T01:18:34.908703+00:00'
 ---
-
-
-
-
-
 
 ## Overview
 
@@ -42,10 +37,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Great Convergence Prophecies|02 Worldbuilding/Lore/The Great Convergence Prophecies]]
-
+- [[02_Worldbuilding/Lore/The Great Convergence Prophecies|02 Worldbuilding/Lore/The Great Convergence Prophecies
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Bathyal Succession]]
+- [02_Worldbuilding/Lore/The Bathyal Succession]]
 - [[02_Worldbuilding/Lore/The Great Convergence Prophecies]]

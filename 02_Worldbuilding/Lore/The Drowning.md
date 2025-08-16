@@ -1,10 +1,10 @@
 ---
 
 title: The Drowning
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - active
 - historical-event
 - conspiracy
@@ -31,7 +31,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -85,7 +85,7 @@ The Drowning is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of The Drowning as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Drowning.
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -111,29 +111,29 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Continental War]]
-- [[Deep Mother]]
-- [[Great Drowning]]
-- [[Memory Alteration Consequences]]
-- [[Thalassius the Wise]]
-- [[The Bathyal Succession]]
-- [[The Drowning Embrace]]
-- [[The Drowning Welcome]]
-- [[The Great Convergence Prophecies]]
-- [[The Queen]]
-- [[Timeline of the Drowning]]
-- [[Memoriam - The Forgotten Continent]]
-- [[Sister Morwyn]]
-- [[Surface Signals]]
-- [[The Cerulean Trench]]
-- [[The Drowned Embassy]]
-- [[The Drowning Truth]]
-- [[The Eternal Senate]]
-- [[The Great Drowning]]
-- [[The Phosphor Markets]]
-- [[The Primordial Vaults]]
-- [[The Void Touched Depths]]
-- [[Theological Warfare]]
-- [[Whisper-Touched William]]
-- [[The Maw of Darkness]]
-- [[The Bathyal Succession (D&D_References)]]
+- [[Continental War
+- [Deep Mother]]
+- [[Great Drowning
+- [Memory Alteration Consequences]]
+- [[Thalassius the Wise
+- [The Bathyal Succession]]
+- [[The Drowning Embrace
+- [The Drowning Welcome]]
+- [[The Great Convergence Prophecies
+- [The Queen]]
+- [[Timeline of the Drowning
+- [Memoriam - The Forgotten Continent]]
+- [[Sister Morwyn
+- [Surface Signals]]
+- [[The Cerulean Trench
+- [The Drowned Embassy]]
+- [[The Drowning Truth
+- [The Eternal Senate]]
+- [[The Great Drowning
+- [The Phosphor Markets]]
+- [[The Primordial Vaults
+- [The Void Touched Depths]]
+- [[Theological Warfare
+- [Whisper-Touched William]]
+- [[The Maw of Darkness
+- [The Bathyal Succession (D&D_References)]]

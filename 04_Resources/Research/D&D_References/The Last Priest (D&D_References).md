@@ -2,7 +2,7 @@
 
 title: The Last Priest (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -86,7 +86,6 @@ Father Aquilus served in the Great Temple when the Old Faith was still legal. Po
 3. He requests help recovering stolen religious artifacts
 4. Dying believer needs last rites performed in secret ## Potential Character Development
 
-
 **Ally**: Valuable source of forbidden knowledge and spiritual guidance
 **Quest Giver**: Can provide missions involving religious artifacts or persecution
 **Tragic Figure**: Represents loss of cultural heritage and religious freedom
@@ -97,7 +96,6 @@ If Father Aquilus dies, his death could galvanize the underground faith communit
 The Last Priest embodies themes of faith versus authority, cultural preservation, and personal sacrifice. Use him to explore religious freedom, the cost of standing up for beliefs, and the value of tradition in changing times. ## Player-Facing Summary The Last Priest is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Last Priest as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Last Priest. ## Related *Links to related content will be added here.* ## Plot Hooks - A shipment has gone missing and war looms
 
 - A map reveals a conspiracy about this place ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

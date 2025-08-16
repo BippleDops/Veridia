@@ -1,8 +1,8 @@
 ---
 enhanced: true
 tags: [enhanced, 03_people]
-created: 2025-08-15T12:24:43.089038
-modified: 2025-08-15T12:24:43.089040
+created: "2025-08-15T12:24:43.089038"
+modified: "2025-08-15T12:24:43.089040"
 aliases: [Character Backstories]
 ---
 
@@ -23,7 +23,7 @@ category: 03 People
 subcategory: Character Backstories.Md
 related: []
 cssclass: standard
-publish: false --- # Character Backstories ## Portrait![[Character Backstories|Character Backstories]] *Portrait reference for Character Backstories* ## Overview This topic is referenced in [[final_link_repair_20250814_175237|Final Link Repair 20250814 175237]] and other parts of the campaign. ## Description
+publish: false --- # Character Backstories ## Portrait![[Character Backstories|Character Backstories *Portrait reference for Character Backstories* ## Overview This topic is referenced in [final_link_repair_20250814_175237|Final Link Repair 20250814 175237]] and other parts of the campaign. ## Description
 
 **Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. An important element of the campaign world that connects to various other aspects of the adventure.
 *Sounds of [relevant sounds] echo in the distance.* ## Connections - Referenced by: [[final_link_repair_20250814_175237|Final Link Repair 20250814 175237]]
@@ -48,15 +48,15 @@ publish: false --- # Character Backstories ## Portrait![[Character Backstories|C
 | 3 | Option C |
 | 4 | Option D |
 | 5 | Option E |
-| 6 | Option F | ## References - [[step_017_implement_audio_organization|Step 017 Implement Audio Organization]] - [[Character Backstories_Quick_Ref|Character Backstories Quick Ref]]
-- [[Complete NPC Matrix|Complete Npc Matrix]]
-- [[Topic_Matrix (Indexes)|Topic Matrix (Indexes)]]
-- [[final_link_repair_20250814_175237|Final Link Repair 20250814 175237]]
-- [[optimization_report_20250814_180743 (13_Performance)|Optimization Report 20250814 180743 (13 Performance)]]
-- [[step_005_create_quality_assessment|Step 005 Create Quality Assessment]]
-- [[step_011_create_faction_symbols|Step 011 Create Faction Symbols]]
-- [[step_012_build_creature_pipeline|Step 012 Build Creature Pipeline]]
-- [[step_020_implement_audio_mixing|Step 020 Implement Audio Mixing]] ## Notes {#notes} *Additional notes* #mechanics/combat
+| 6 | Option F | ## References - [[step_017_implement_audio_organization|Step 017 Implement Audio Organization - [Character Backstories_Quick_Ref|Character Backstories Quick Ref]]
+- [[Complete NPC Matrix|Complete Npc Matrix
+- [Topic_Matrix (Indexes)|Topic Matrix (Indexes)]]
+- [[final_link_repair_20250814_175237|Final Link Repair 20250814 175237
+- [optimization_report_20250814_180743 (13_Performance)|Optimization Report 20250814 180743 (13 Performance)]]
+- [[step_005_create_quality_assessment|Step 005 Create Quality Assessment
+- [step_011_create_faction_symbols|Step 011 Create Faction Symbols]]
+- [[step_012_build_creature_pipeline|Step 012 Build Creature Pipeline
+- [step_020_implement_audio_mixing|Step 020 Implement Audio Mixing]] ## Notes {#notes} *Additional notes* #mechanics/combat
 #story/plot
 #story/story
 #world/world
@@ -79,13 +79,11 @@ publish: false --- # Character Backstories ## Portrait![[Character Backstories|C
 - Hidden knowledge
 - Personal mysteries
 
-
 **Key Question**: What drives this character's actions?
 ## DM Guidance
 - **Usage**: How to best utilize this in your campaign
 - **Adaptation**: Ways to modify for your needs
 - **Connections**: How this links to other elements
-
 
 *What happens next is up to you.*
 

@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - both
 - complete
 - content/lore
@@ -13,18 +13,13 @@ updated: '2025-08-13T12:34:16.105964+00:00'
 world: Both
 ---
 
-
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties]]
-
+- [[02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties]]
+- [02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties]]
 
 ## Player-Facing Summary
 

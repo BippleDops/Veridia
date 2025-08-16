@@ -1,7 +1,7 @@
 ---
 created: '2025-08-12'
 status: complete
-tags:
+tags: 
 - aquabyssos
 - chronology
 - complete
@@ -14,8 +14,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.449383+00:00'
 world: Aquabyssos
 ---
-
-
 
 # Post-Merge Chronology
 *The Birth and Development of Aquabyssos (1 AE - Present)*
@@ -519,15 +517,15 @@ Following the Great Convergence, the merged realm of Aquabyssos has undergone th
 
 - The Catastrophe: Hour By Hour
 - Pre Drowning Civilization Archives
-- [[02_Worldbuilding/Lore/Shadow Conspiracy Timeline]]
+- [[02_Worldbuilding/Lore/Shadow Conspiracy Timeline
 - Economic History Of The Realms
 - Crystal Plague Origins
 - Parliamentary Founding
-- [[02_Worldbuilding/Lore/The Deep Mother]]
-- [[02_Worldbuilding/Places/Reality Anchor Network]]
-- [[02_Worldbuilding/Lore/Great Drowning]] (enhanced)
-- [[02_Worldbuilding/Places/New Tethys]]
-- [[02_Worldbuilding/Places/Port Meridian]]
+- [02_Worldbuilding/Lore/The Deep Mother]]
+- [[02_Worldbuilding/Places/Reality Anchor Network
+- [02_Worldbuilding/Lore/Great Drowning]] (enhanced)
+- [[02_Worldbuilding/Places/New Tethys
+- [02_Worldbuilding/Places/Port Meridian]]
 - Deep Parliament Chambers
 
 ## Player-Facing Summary

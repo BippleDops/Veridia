@@ -2,7 +2,7 @@
 
 title: The Breathing Stone (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -134,7 +134,7 @@ Rumors suggest that the Breathing Stone has been spotted in the hands of **Surfa
 - Darkvision 120 feet (represented as "pressure sight") **Enhanced Properties** (Unlocked through story milestones):
 - **Breath Detection** (3/day): Sense all living creatures within 1 mile
 - **Life Bubble** (1/day): Create 30-foot radius of breathable atmosphere for 8 hours
-- **Pressure Strike** (3/day): Ranged attack dealing 3d8 force damage
+- **Pressure Strike** (3/day): Ranged attack dealing `dice: 3d8` force damage
 - **Emergency Activation**: If reduced to 0 hit points, automatically stabilize and gain 1 hit point **Master Properties** (Final story arc):
 - **Mass Respiration**: Grant breathing ability to up to 100 creatures for 24 hours
 - **Atmosphere Control**: Alter air composition in 1-mile radius
@@ -146,27 +146,26 @@ Rumors suggest that the Breathing Stone has been spotted in the hands of **Surfa
 **Low Level (1-5)**: Characters seek fragments or false copies
 **Mid Level (6-10)**: Characters encounter the true stone but cannot claim it
 **High Level (11-15)**: Characters can potentially attune to the stone
-**Epic Level (16-20)**: Characters master the stone's full power and confront its cosmic implications ## Connected References - [[Thalassa the Life-Weaver]] - Original creator
+**Epic Level (16-20)**: Characters master the stone's full power and confront its cosmic implications ## Connected References - [[Thalassa the Life-Weaver - Original creator
 
-- [[Archkeeper Nereon]] - Last known bearer
-- [[The Great Drowning]] - Event where stone was lost
-- [[Deep Expeditions]] - Historical exploration missions
-- [[Pressure Guard]] - Military unit seeking the stone
-- [[Institute of Applied Respiration]] - Academic researchers
-- [[The Seven Breathing Stones]] - Related artifacts
-- [[Primordial Lung]] - Cosmic source of stone's power
-- [[Methane Forests]] - Dangerous breathing zones
-- [[The Depth Speaker]] - Mysterious current figure
-- [[False Breathers]] - Replica stones
-- [[Surface Raiders]] - Possible current location
-- [[Marianas Abyss]] - Deepest exploration point
-- [[Gill-Men]] - Transformation risk
-- [[The Final Gasp]] - Breathing plague The Breathing Stone represents more than mere magical convenience - it embodies the fundamental struggle for survival in Aquabyssos, where the simple act of drawing breath cannot be taken for granted. Whether as quest objective, character motivation, or world-shaping artifact, it provides countless opportunities for adventure while highlighting the unique challenges of life in the drowned world. ## Player-Facing Summary The Breathing Stone is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Breathing Stone as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Breathing Stone. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes ## Related Notes - [[Similar Topic 1]]
+- [Archkeeper Nereon]] - Last known bearer
+- [[The Great Drowning - Event where stone was lost
+- [Deep Expeditions]] - Historical exploration missions
+- [[Pressure Guard - Military unit seeking the stone
+- [Institute of Applied Respiration]] - Academic researchers
+- [[The Seven Breathing Stones - Related artifacts
+- [Primordial Lung]] - Cosmic source of stone's power
+- [[Methane Forests - Dangerous breathing zones
+- [The Depth Speaker]] - Mysterious current figure
+- [[False Breathers - Replica stones
+- [Surface Raiders]] - Possible current location
+- [[Marianas Abyss - Deepest exploration point
+- [Gill-Men]] - Transformation risk
+- [[The Final Gasp]] - Breathing plague The Breathing Stone represents more than mere magical convenience - it embodies the fundamental struggle for survival in Aquabyssos, where the simple act of drawing breath cannot be taken for granted. Whether as quest objective, character motivation, or world-shaping artifact, it provides countless opportunities for adventure while highlighting the unique challenges of life in the drowned world. ## Player-Facing Summary The Breathing Stone is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Breathing Stone as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Breathing Stone. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

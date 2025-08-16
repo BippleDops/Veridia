@@ -2,7 +2,7 @@
 
 title: Pre-Drowning Civilization Archives
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -70,7 +70,6 @@ updated: '2025-08-13T01:18:35.059951+00:00'
 - Master Bard Harmony Songweaver composed the "Chronicle of Depths"
 - Establishment of the Order of Preserved Knowledge ### The Twilight Era (1800-1 PD)
 
-
 **Summary**: The Twilight Era (1800-1 PD) - Key information at a glance.
 
 **1756 PD - The First Tremors**
@@ -121,7 +120,6 @@ Citizens began each day with the "Tidal Prayer," facing toward the Great Lightho
 
 Families gathered for communal dinners in the "Circle of Tides" formation. Entertainment included shadow puppet shows, crystal singing performances, and competitive deep diving. The day ended with the "Depths Blessing" ceremony at sunset. ### Personal Accounts **Diary of Marina Saltwind, Dock Worker's Daughter (45 PD)**
 
-
 **Summary**: Personal Accounts **Diary of Marina Saltwind, Dock Worker's Daughter (45 PD)** - Key information at a glance.
 
 *"Father says the shadows in the deep water are getting darker. Yesterday, Captain Torres came back from the Midnight Run with half his crew missing. They wouldn't say what happened down there, just kept muttering about 'the Mother's children.' I'm scared, but Father says I must be brave. The crystals will protect us, he says. But even the crystals are changing color now..."* **Letter from Scholar Erasmus Brightwater to his Sister (234 PD)**
@@ -140,7 +138,6 @@ Merchants used resoce crystals to verify currency authenticity and facilitate in
 3. Inter-city trade grinding to a halt due to verification failures
 4. Local communities reverted to barter systems
 5. Rise of "shadow currencies" backed by criminal organizations ### Trade Routes and Commerce **The Northern Circuit (2187-634 PD)**
-
 
 - Route: Corallion → Windward Ports → Crystal Caverns → Meridian Return
 - Primary Goods: Resoce stones, deep-sea pearls, pressure-forged metals
@@ -219,7 +216,6 @@ Established as an elite force to combat dimensional intrusions, the Reality Guar
 Formal court language with influences from seven mainland kingdoms. Characterized by flowing syllables mimicking tidal movements. Still used for ceremonial occasions. **Parliamentary Common** (1289-634 PD) Simplified version developed for democratic goverce. Incorporated mer-folk linguistic elements and crystal resoce terminology. **Crisis Pidgin** (634-1 PD)
 
 Hybrid language combining surface common, mer-folk dialects, and emergency communication codes. Formed the basis for post-Drowning Aquabyssos Common. ## Player-Facing Summary Pre Drowning Civilization Archives is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Pre Drowning Civilization Archives as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pre Drowning Civilization Archives. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.*
-
 
 ## Notes
 

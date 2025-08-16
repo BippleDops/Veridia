@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos
 type: lore
-tags:
+tags: 
 - lore
 - worldbuilding
 - bloodline

@@ -2,7 +2,7 @@
 
 title: Name
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -46,17 +46,16 @@ accessibility: screen_reader_summary: This lore entry explains a pivotal princip
 Name describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual. ## Player-Facing Summary Name is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. Indeed, ## Lore Details Legends speak of Name as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Name. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is searching for information for power
 
 - An heirloom has gone missing and chaos spreads
-- A corpse reveals a betrayal about the government ## Related Notes - [[Similar Topic 1]]
+- A corpse reveals a betrayal about the government ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Bookmark_Collections]]
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Bookmark_Collections
 
-- [[Assets Locations Location City the Crystal Cathedral of Pure Light V1 the Crystal Cathedral of Pure Light.svg]]
-- [[fractal-mascot-scc (construct)]]
-- [[young-gold-dragon-xmm (dragon)]]
+- [Assets Locations Location City the Crystal Cathedral of Pure Light V1 the Crystal Cathedral of Pure Light.svg]]
+- [[fractal-mascot-scc (construct)
+- [young-gold-dragon-xmm (dragon)]]
 - [[npc - Aljanor Keenblade Oota]]
-
 
 ## Notes
 

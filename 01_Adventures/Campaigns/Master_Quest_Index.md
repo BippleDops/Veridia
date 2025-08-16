@@ -1,23 +1,22 @@
 ---
 enhanced: true
 tags: [enhanced, 00_indexes]
-created: 2025-08-15T12:24:43.940365
-modified: 2025-08-15T12:24:43.940371
+created: "2025-08-15T12:24:43.940365"
+modified: "2025-08-15T12:24:43.940371"
 aliases: [Master Quest Index]
 ---
 
 ## Table of Contents
-- [[#Overview|Overview]]
-- [[#Description|Description]]
-- [[#Primary Campaign Arc {#primary-campaign-arc}|Primary Campaign Arc {#primary-campaign-arc}]]
-- [[#Character Development {#character-development}|Character Development {#character-development}]]
-- [[#Notes {#notes}|Notes {#notes}]]
-- [[#Timeline {#timeline}|Timeline {#timeline}]]
-- [[#NPCs Involved {#npcs-involved}|NPCs Involved {#npcs-involved}]]
-- [[#Locations {#locations}|Locations {#locations}]]
-- [[#Alternative Solutions {#alternative-solutions}|Alternative Solutions {#alternative-solutions}]]
-- [[#Stakes|Stakes]]
-
+- [[#Overview|Overview
+- [#Description|Description]]
+- [[#Primary Campaign Arc {#primary-campaign-arc}|Primary Campaign Arc {#primary-campaign-arc}
+- [#Character Development {#character-development}|Character Development {#character-development}]]
+- [[#Notes {#notes}|Notes {#notes}
+- [#Timeline {#timeline}|Timeline {#timeline}]]
+- [[#NPCs Involved {#npcs-involved}|NPCs Involved {#npcs-involved}
+- [#Locations {#locations}|Locations {#locations}]]
+- [[#Alternative Solutions {#alternative-solutions}|Alternative Solutions {#alternative-solutions}
+- [#Stakes|Stakes]]
 
 ---
 tags: [quest, adventure]
@@ -29,11 +28,9 @@ aliases: ["Master Quest Index"]
 
 > *The fate of many hangs in the balance...* This remarkable element adds depth and intrigue to any campaign.
 
-
 ## Overview
 
 **Difficulty**: Moderate (Levels 3-5)
-
 
 Comprehensive overview of this content.
 
@@ -56,7 +53,6 @@ publish: false
 
  # Master Quest Index ## Main Storylines
 
-
 ## Description
 
 **Tension**: The urgency of this quest creates palpable tension in the air. {#description}
@@ -69,7 +65,6 @@ Detailed description pending.
 *The [texture] surface feels [description] to the touch.*### Regional Questlines
 
 - *[Area-specific quest chains]* ## Side Quests
-
 
 ### Character Development {#character-development}
 
@@ -110,7 +105,6 @@ Detailed description pending.
 
 **Experience Points**: 500 XP per character *To be added* ## Complications *To be added*
 
-
 ## Notes {#notes}
 
 *Additional notes*
@@ -124,24 +118,17 @@ Detailed description pending.
 #gameplay/mission
 #meta/index
 
-
 ## Timeline {#timeline}
 - Key events
 - Deadlines
-
-
 
 ## NPCs Involved {#npcs-involved}
 - Quest giver
 - Antagonists
 
-
-
 ## Locations {#locations}
 - Starting point
 - Key locations
-
-
 
 ## Alternative Solutions {#alternative-solutions}
 - Non-combat options
@@ -152,12 +139,11 @@ Detailed description pending.
 - **If Failed**: The dire consequences of failure
 - **Time Pressure**: Why this cannot wait
 
-
 **Key Question**: Will the heroes rise to the challenge?
 
 *What happens next is up to you.*
 
 ## Visual References
-![[04_Resources/Assets/Locations/location-city-guildmaster-harwick-v1-guildmaster-harwick.png]]
-![[04_Resources/Assets/Locations/location-city-surge-mixmaster-v1-surge-mixmaster.png]]
+![[04_Resources/Assets/Locations/location-city-guildmaster-harwick-v1-guildmaster-harwick.png
+![04_Resources/Assets/Locations/location-city-surge-mixmaster-v1-surge-mixmaster.png]]
 ![[04_Resources/Assets/Locations/location-city-master-archivist-thomas-scrollkeeper-v1-master-archivist-thomas-scrollkeeper.png]]

@@ -2,7 +2,7 @@
 
 title: Nurse Nightshade
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -44,11 +44,10 @@ updated: '2025-08-13T01:18:34.691358+00:00'
 
 - Someone is blackmailing information for love
 - Someone is blackmailing information for power
-- Strange dreams suggest a conspiracy ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Aethermoor - Session 08 Between Two Worlds]]
+- Strange dreams suggest a conspiracy ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Aethermoor - Session 08 Between Two Worlds
 
-- [[Dr. Elena Compassion]]
+- [Dr. Elena Compassion]]
 - [[Shadow Portal Nexus (D&D_References)]]
-
 
 ## Notes
 

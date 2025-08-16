@@ -2,7 +2,7 @@
 
 title: The Gilded Shard
 type: Location
-tags:
+tags: 
 - academy
 - status/complete
 - mechanics/magic
@@ -38,8 +38,8 @@ improvements: 20
 # The Gilded Shard
 
 **Type:** Magical Academy/Research Facility  
-**Location:** [[Aethermoor]] - Crystal Heights District  
-**Government:** Independent Institution under [[The Crystal Throne]] charter  
+**Location:** [[Aethermoor - Crystal Heights District  
+**Government:** Independent Institution under [The Crystal Throne]] charter  
 **Population:** ~800 (students, faculty, researchers, staff)  
 **Notable Features:** Floating crystal spires, reality-bending workshops, temporal laboratories
 
@@ -104,18 +104,18 @@ improvements: 20
 - Explain guest rights and host obligations
 
 ## Overview
-The Gilded Shard is [[Aethermoor]]'s premier institution for crystal magic research and education. Built around a massive fragment of one of [[The Seven Shards]], the academy floats above the Crystal Heights, its golden-veined spires rotating slowly as they channel and study arcane energies. Here, the brightest minds work to understand the fundamental forces that shape reality.
+The Gilded Shard is [[Aethermoor's premier institution for crystal magic research and education. Built around a massive fragment of one of [The Seven Shards]], the academy floats above the Crystal Heights, its golden-veined spires rotating slowly as they channel and study arcane energies. Here, the brightest minds work to understand the fundamental forces that shape reality.
 
 ### The Central Spire - "The Heart"
 **Height:** 300 feet of pure crystal  
-**Core:** Houses the original [[Seven Shards]] fragment  
+**Core:** Houses the original [[Seven Shards fragment  
 **Function:** Powers the entire complex and enables advanced magical research
 
 **Notable Areas:**
 - **The Resoce Chamber**: Where students first attune to crystal magic
 - **The Observatory**: Telescope arrays for studying magical phenomena
 - **The Vault of Prototypes**: Experimental magical items and failed projects
-- **The Director's Sanctum**: [[Professor Aldric Crystalweaver]]'s private research space
+- **The Director's Sanctum**: [Professor Aldric Crystalweaver]]'s private research space
 
 ### The Learning Spires (7 floating towers)
 **East Spire - Theoretical Studies:**
@@ -134,7 +134,7 @@ The Gilded Shard is [[Aethermoor]]'s premier institution for crystal magic resea
 - **Consciousness Studies**: Investigation into the nature of mind and soul
 
 **South Spire - Combat Applications:**
-- **War Magic Academy**: Training for [[Crystal Throne]] battle-mages
+- **War Magic Academy**: Training for [[Crystal Throne battle-mages
 - **Defensive Systems**: Shield and protection magic research
 - **Offensive Techniques**: Weapons and destruction magic (highly classified)
 
@@ -158,7 +158,7 @@ The Gilded Shard is [[Aethermoor]]'s premier institution for crystal magic resea
 - **Visitor's Center**: Public tours and recruitment
 - **Administrative Offices**: Bureaucracy and record-keeping
 - **Supply Warehouses**: Materials for magical research
-- **Security Barracks**: [[Crystal Guard]] protection detail
+- **Security Barracks**: [Crystal Guard]] protection detail
 - **Transportation Hub**: Magical arrival and departure points
 
 ### Student Body
@@ -305,18 +305,18 @@ The Gilded Shard is [[Aethermoor]]'s premier institution for crystal magic resea
 ### Internal Factions
 **The Purists**: Believe crystal magic should remain separate from other magical traditions  
 **The Integrationists**: Want to combine crystal magic with all other forms of magic  
-**The Militarists**: Focus on combat applications and serving [[The Crystal Throne]]  
+**The Militarists**: Focus on combat applications and serving [[The Crystal Throne  
 **The Scholars**: Prioritize pure research over practical applications  
 **The Reformers**: Seek to make magical education more accessible to common people
 
 ### External Relations
-**[[The Crystal Throne]]**: Primary patron and source of authority  
+**[The Crystal Throne]]**: Primary patron and source of authority  
 - Provides funding and political protection
 - Expects military applications and trained battle-mages
 - Sometimes conflicts with academic freedom
 
-**[[Aquabyssos]] Institutions**: Cautious cooperation  
-- Exchange programs with [[Memory Farmers]] and other magical researchers
+**[[Aquabyssos Institutions**: Cautious cooperation  
+- Exchange programs with [Memory Farmers]] and other magical researchers
 - Shared research on dimensional barriers and realm connections
 - Tension over potential military applications
 
@@ -325,22 +325,22 @@ The Gilded Shard is [[Aethermoor]]'s premier institution for crystal magic resea
 - Collaboration on projects too large for single institutions
 - Academic conferences and knowledge exchange
 
-**[[Parliament of Echoes]]**: Political oversight  
+**[[Parliament of Echoes**: Political oversight  
 - Government regulation of dangerous magical research
 - Funding approval for major projects
 - Ethical oversight and academic freedom tensions
 
-**[[The Depth Wardens]]**: Military cooperation  
+**[The Depth Wardens]]**: Military cooperation  
 - Joint training programs for combat mages
 - Shared research on underwater magic applications
 - Intelligence sharing about magical threats
 
-**[[The Sunken Bazaar]]**: Commercial partnership  
+**[[The Sunken Bazaar**: Commercial partnership  
 - Primary source for rare magical components
 - Market for academy-developed magical items
 - Economic support through research commissions
 
-**[[The Coral Gardens]]**: Environmental research  
+**[The Coral Gardens]]**: Environmental research  
 - Collaborative studies on natural magic
 - Shared research on biological-magical interactions
 - Environmental impact assessments of magical experiments
@@ -350,13 +350,13 @@ The Gilded Shard is [[Aethermoor]]'s premier institution for crystal magic resea
 **Contents**: Failed experiments, dangerous prototypes, and sealed research  
 **Guardians**: Automated constructs and magical traps  
 **Rumored Contents**:
-- The first attempt at creating artificial [[Seven Shards]] fragments
+- The first attempt at creating artificial [[Seven Shards fragments
 - Preserved bodies of researchers who died in magical accidents
 - Weapons too dangerous for military use
 - Gateways to planes that should never be accessed
 
 ### The Professor's Secret
-**Truth**: [[Professor Aldric Crystalweaver]] is actually over 200 years old  
+**Truth**: [Professor Aldric Crystalweaver]] is actually over 200 years old  
 **Method**: Uses crystal magic to maintain youth and extend lifespan  
 **Cost**: Each renewal requires the magical energy equivalent to a human soul  
 **Source**: He's been secretly draining small amounts from every student  
@@ -371,10 +371,10 @@ The Gilded Shard is [[Aethermoor]]'s premier institution for crystal magic resea
 
 ### The Convergence Engine
 **Location**: Hidden chamber beneath the Central Spire's heart
-**Purpose**: Device designed to merge all [[Seven Shards]] fragments into one
+**Purpose**: Device designed to merge all [[Seven Shards fragments into one
 **Status**: 60% complete, disguised as routine magical research
 **Danger**: If activated prematurely, could tear reality apart across multiple planes
-**Knowledge**: Only [[Professor Aldric Crystalweaver]] and two trusted assistants know of its existence
+**Knowledge**: Only [Professor Aldric Crystalweaver]] and two trusted assistants know of its existence
 
 ### The Crystal Garden (Central Courtyard)
 **Description**: Open area where different types of crystals grow in carefully tended plots  
@@ -407,7 +407,7 @@ The Gilded Shard is [[Aethermoor]]'s premier institution for crystal magic resea
 
 **Crystal Resoce**: All spells cast within 100 feet of the Central Spire deal maximum damage on their first damage die.
 
-**Temporal Distortion**: In the Temporal Studies wing, time moves at different rates. Creatures must make a DC 16 Constitution saving throw when entering or age 1d4 years (25% chance) or become 1d4 years younger (75% chance).
+**Temporal Distortion**: In the Temporal Studies wing, time moves at different rates. Creatures must make a **DC 16** Constitution saving throw when entering or age `dice: 1d4` years (25% chance) or become `dice: 1d4` years younger (75% chance).
 
 **Levitation Fields**: Throughout the academy, creatures can activate levitation as a bonus action, gaining a flying speed of 30 feet for 1 minute (recharge on a roll of 5-6 on d6).
 
@@ -417,10 +417,10 @@ The Gilded Shard is [[Aethermoor]]'s premier institution for crystal magic resea
 **Academic Hierarchy**: Different areas require specific academic standing:
 - **Public Areas**: No restrictions
 - **Student Areas**: Must be enrolled or have visitor's pass
-- **Faculty Laboratories**: DC 15 Persuasion check or professorial rank
-- **Advanced Research**: DC 20 Deception check or senior researcher status
-- **Forbidden Library**: DC 25 Deception check or special authorization
-- **Director's Sanctum**: Impossible without [[Professor Aldric Crystalweaver]]'s personal invitation
+- **Faculty Laboratories**: **DC 15** Persuasion check or professorial rank
+- **Advanced Research**: **DC 20** Deception check or senior researcher status
+- **Forbidden Library**: **DC 25** Deception check or special authorization
+- **Director's Sanctum**: Impossible without [[Professor Aldric Crystalweaver's personal invitation
 
 **Magical Experiments**: Random magical events occur throughout the academy:
 - Roll d20 each day: On 1, roll on Magical Academy Events table
@@ -433,54 +433,54 @@ The Gilded Shard is [[Aethermoor]]'s premier institution for crystal magic resea
 
 ### Notable NPCs (D&D 5e Stats)
 
-**[[Professor Aldric Crystalweaver]]** (Human Archmage with modifications)
+**[Professor Aldric Crystalweaver]]** (Human Archmage with modifications)
 - **AC**: 17 (Natural Armor from crystal integration)
-- **HP**: 165 (22d8 + 88)
+- **HP**: 165 (`dice: 22d8` + 88)
 - **Speed**: 30 ft, Fly 60 ft
 - **STR**: 10, **DEX**: 16, **CON**: 18, **INT**: 22, **WIS**: 15, **CHA**: 16
 - **Skills**: Arcana +17, History +17, Investigation +17
 - **Special**: Legendary Actions (3 per turn), Crystal Magic (all spells deal force damage), Ageless (appears 40, actually 200+ years old)
 - **Spells**: As Archmage, plus unique crystal-based spells
 
-**[[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]** (Half-Elf Mage with enhanced abilities)
+**[[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos** (Half-Elf Mage with enhanced abilities)
 - **AC**: 15 (Mage Armor)
-- **HP**: 58 (13d8 + 13)
+- **HP**: 58 (`dice: 13d8` + 13)
 - **Speed**: 30 ft
 - **Special**: Crystal Focus (advantage on concentration saves), Practical Magic (can cast utility spells without expending spell slots 3/day)
 
 **Master Theorist Valdris Prism** (Gnome with unique abilities)
 - **AC**: 13
-- **HP**: 45 (13d6 + 13)
+- **HP**: 45 (`dice: 13d6` + 13)
 - **Speed**: 25 ft
 - **Special**: Mathematical Genius (can cast Divination spells as rituals), Living Equations (spells manifest as visible mathematical formulas)
 
 ### Unique Spells Developed Here
 **Crystal Lance** (3rd-level evocation)
 - Range: 120 feet
-- Creates a spear of pure crystal that deals 4d8 force damage and has a chance to pin targets
+- Creates a spear of pure crystal that deals `dice: 4d8` force damage and has a chance to pin targets
 
 **Harmonic Resoce** (2nd-level enchantment)
-- Causes crystals within 30 feet to vibrate, dealing 2d6 thunder damage to all creatures in area
+- Causes crystals within 30 feet to vibrate, dealing `dice: 2d6` thunder damage to all creatures in area
 
 **Temporal Echo** (4th-level divination)
-- Allows caster to see 1d4 minutes into the past in a specific location
+- Allows caster to see `dice: 1d4` minutes into the past in a specific location
 
 **Academic Insight** (1st-level divination)
 - Grants advantage on next Intelligence-based check and reveals one piece of relevant academic knowledge
 
-### [[The Crystal Throne]]
+### [The Crystal Throne]]
 **Alliance Level**: Strong (8/10)
 **Benefits**: Primary funding source, political protection, access to royal archives
 **Obligations**: Provide battle-mages, develop military applications, share strategic research
 **Tensions**: Academic freedom vs. military needs, ethical concerns about weapon development
 
-### [[Azure Citadel]]
+### [[Azure Citadel
 **Alliance Level**: Professional (6/10)
 **Benefits**: Military protection, joint magical-military research, officer training programs
 **Obligations**: Magical support for military operations, intelligence sharing
-**Tensions**: Different approaches to handling threats from [[The Hadal Depths]]
+**Tensions**: Different approaches to handling threats from [The Hadal Depths]]
 
-### [[Memory Farmers]]
+### [[Memory Farmers
 **Alliance Level**: Cautious Cooperation (5/10)
 **Benefits**: Exchange of rare knowledge, collaborative research on consciousness
 **Obligations**: Shared research findings, ethical oversight of memory-related experiments
@@ -492,7 +492,7 @@ The Gilded Shard is [[Aethermoor]]'s premier institution for crystal magic resea
 **Obligations**: Maintain scholarly standards, respect intellectual property
 **Tensions**: Research rivalry, recruitment competition, prestige contests
 
-### [[The Sunken Bazaar]]
+### [The Sunken Bazaar]]
 **Alliance Level**: Commercial (7/10)
 **Benefits**: Source of rare magical components, funding through magical item sales
 **Obligations**: Provide magical services, maintain trade route security
@@ -521,11 +521,11 @@ The Gilded Shard is [[Aethermoor]]'s premier institution for crystal magic resea
 **Levels 9-12**:
 - Prevent catastrophic magical experiment
 - Explore the hidden seventh spire
-- Uncover [[Professor Aldric Crystalweaver]]'s secret agenda
+- Uncover [[Professor Aldric Crystalweaver's secret agenda
 - Defend academy from planar incursion
 
 **Levels 13-16**:
-- Prevent misuse of [[Seven Shards]] fragment
+- Prevent misuse of [Seven Shards]] fragment
 - Stop reality-threatening research project
 - Navigate interdimensional academic politics
 - Prevent war between magical institutions
@@ -544,7 +544,7 @@ The Gilded Shard is [[Aethermoor]]'s premier institution for crystal magic resea
 - Modify the academy's relationship with other factions based on campaign needs
 
 > [!danger] DM Secret
-> The [[Seven Shards]] fragment at the academy's core is slowly growing, fed by the ambient magical energy of thousands of daily spells. [[Professor Aldric Crystalweaver]] has been deliberately concealing this growth because he believes a fully reconstituted Shard would give him god-like power. He's been manipulating research projects and student assignments to channel more energy into the fragment, and is planning to trigger its awakening during the next Great Exhibition when magical energy peaks.
+> The [[Seven Shards fragment at the academy's core is slowly growing, fed by the ambient magical energy of thousands of daily spells. [Professor Aldric Crystalweaver]] has been deliberately concealing this growth because he believes a fully reconstituted Shard would give him god-like power. He's been manipulating research projects and student assignments to channel more energy into the fragment, and is planning to trigger its awakening during the next Great Exhibition when magical energy peaks.
 
 ## Player-Facing Summary
 
@@ -700,22 +700,19 @@ Ongoing situations affecting The Gilded Shard:
 
 ## References
 
-- [[Aboleth Adjunct Yzz]]
-- [[Azure Citadel]]
-- [[Aboleth Adjunct Yzz (D&D_References)]]
-- [[Azure Citadel (D&D_References)]]
+- [[Aboleth Adjunct Yzz
+- [Azure Citadel]]
+- [[Aboleth Adjunct Yzz (D&D_References)
+- [Azure Citadel (D&D_References)]]
 - [[Crystalhaven (D&D_References)]]
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

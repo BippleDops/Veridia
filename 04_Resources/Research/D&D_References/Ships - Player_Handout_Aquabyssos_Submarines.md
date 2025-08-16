@@ -2,7 +2,7 @@
 
 title: Ships - Player_Handout_Aquabyssos_Submarines
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -51,17 +51,16 @@ world: Aquabyssos
 - Deep Blessed Nave: Carved shrines, whispering vents, votive pearls.
 - Tide Serpent: Sinuous plates, ribbon fins, current-woven pents.
 - Lantern Warden: Lantern fields along flanks; soft teal glow.
-- Maelstrom Rider: Vortex thrusters, spiral fins, trailing turbulence. Choosing a ship affects your story: see [[Vehicle_Core_Rules|Vehicle Core Rules]] for piloting, sanity, and upgrade paths. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Related *Links to related content will be added here.* ## DM Notes *Private notes for campaign integration:*
+- Maelstrom Rider: Vortex thrusters, spiral fins, trailing turbulence. Choosing a ship affects your story: see [[Vehicle_Core_Rules|Vehicle Core Rules for piloting, sanity, and upgrade paths. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Related *Links to related content will be added here.* ## DM Notes *Private notes for campaign integration:*
 
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes ## Related Notes - [[Similar Topic 1]]
+- Connections to overarching campaign themes ## Related Notes - [Similar Topic 1]]
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
+- [[Contrasting Approach
+- [Advanced Version]]
 - [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

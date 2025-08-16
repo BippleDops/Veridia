@@ -3,7 +3,7 @@ created: '2025-08-08'
 created_by: auto-stub
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - aethermoor
 - complete
 - content/faction
@@ -19,13 +19,8 @@ updated: '2025-08-13T12:34:16.996600+00:00'
 world: Aethermoor
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-order-of-the-shattered-crown-the-order-of-the-shattered-crown.svg)
-
-
-
 
 # The Order of the Shattered Crown
 
@@ -173,19 +168,18 @@ Established 50 years ago following the War of Succession, when many noble houses
 ## DM Notes
 The Order provides opportunities for redemption-themed adventures, charitable missions, and exploration of themes around forgiveness and second chances. Their unique background as former nobility creates interesting political dynamics and character development opportunities.
 
-
 ## Connections
 
-- [[02_Worldbuilding/Groups/Purist Coalition]]
-- [[02_Worldbuilding/Groups/The Crystal Throne]]
-- [[02_Worldbuilding/Lore/The Seven Shards]]
-- [[02_Worldbuilding/People/Brother Matthias the Amber Bearer]]
-- [[02_Worldbuilding/People/Gareth Goldenheart, The Chosen Vessel]]
-- [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
-- [[02_Worldbuilding/People/The Azure Prophet Nerissa]]
-- [[02_Worldbuilding/Places/Port Meridian]]
-- [[02_Worldbuilding/Places/The Living Weapon]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Groups/Purist Coalition
+- [02_Worldbuilding/Groups/The Crystal Throne]]
+- [[02_Worldbuilding/Lore/The Seven Shards
+- [02_Worldbuilding/People/Brother Matthias the Amber Bearer]]
+- [[02_Worldbuilding/People/Gareth Goldenheart, The Chosen Vessel
+- [02_Worldbuilding/People/Lord Aurelius Goldwave]]
+- [[02_Worldbuilding/People/The Azure Prophet Nerissa
+- [02_Worldbuilding/Places/Port Meridian]]
+- [[02_Worldbuilding/Places/The Living Weapon
+- [02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -201,21 +195,17 @@ Legends speak of The Order of the Shattered Crown as a nexus where past and pres
 
 <!-- enriched: true -->
 
-
 ## Atmosphere
 - Mood and feeling
 - Sensory details
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

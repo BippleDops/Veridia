@@ -2,7 +2,7 @@
 created: '2025-08-11'
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -14,14 +14,8 @@ updated: '2025-08-13T12:34:17.030836+00:00'
 world: Aquabyssos
 ---
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-quality-inspector-reef-perfectwright-quality-inspector-reef-perfectwright.svg)
-
-
-
-
-
 
 ## Overview
 
@@ -62,35 +56,29 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quality Inspector Reef Perfectwright]]
+- [[02_Worldbuilding/Places/Quality Inspector Reef Perfectwright
 
 <!-- enriched: true -->
 
-
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Deep Harvest]]
-
+- [02_Worldbuilding/Lore/The Deep Harvest]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

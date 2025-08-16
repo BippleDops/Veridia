@@ -2,7 +2,7 @@
 
 title: Nereidios (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -58,15 +58,12 @@ updated: '2025-08-13T01:18:36.192299+00:00'
 4. **Paradox Prison**: Rescue someone trapped between existing and not
 5. **The Final Chapter**: Someone's trying to write "The End" for Aquabyssos ## Notable Quotes > *"In Nereidios, forgetting is a luxury we can't afford, and remembering is a curse we can't escape."* - The Mothkeeper > *"We discovered the truth: every book is true somewhere, every story is real to someone, and every ending is just another beginning we haven't read yet."* - Unknown Scholar ### Random Encounters (d6)
 
-
 1. Aggressive autobiography trying to rewrite passersby
 2. Swarm of punctuation marks escaped from grammar prison
 3. Memory merchant offering suspicious deals
 4. Thought-form of someone's nightmare
 5. Paradox zone where effect precedes cause
 6. Living equation seeking solution ## Player-Facing Summary Nereidios is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Nereidios as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Nereidios. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
-
 
 ## Notes
 

@@ -2,7 +2,7 @@
 
 title: The Coral Courts (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -48,7 +48,6 @@ The Coral Courts describes a turning current in history where choices about memo
 - Strange sightings suggest a curse
 - A stranger needs help finding before dawn
 - A corpse reveals ancient history about this place ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

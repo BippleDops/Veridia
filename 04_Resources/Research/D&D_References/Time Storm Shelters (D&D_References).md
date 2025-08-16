@@ -2,7 +2,7 @@
 
 title: Time Storm Shelters (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,7 +43,6 @@ updated: '2025-08-13T01:18:35.501708+00:00'
 - A corpse reveals a conspiracy about a local noble
 - Strange sightings suggest ancient magic
 - A letter reveals a betrayal about the government ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

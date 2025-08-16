@@ -2,7 +2,7 @@
 
 title: Blood in the Water (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -84,18 +84,16 @@ Recent Shadow Conspiracy violence has increased blood-spill incidents. Cleanup c
 4. Blood-tracking magic leads to hidden crime scene
 5. Characters must prevent escalation of brewing conflict ## Cultural Impact
 
-
 "Don't spill blood in the water" is a common warning about consequences of violence. The phrase appears in art, literature, and popular songs as reminder that actions have far-reaching effects in interconnected underwater society. ## DM Notes
 
-Use "Blood in the Water" as both literal environmental hazard and metaphor for escalating conflicts. The concept works well for investigation scenarios where initial violence hints at larger conspiracies, or action scenes where combat consequences create ongoing complications. ## Player-Facing Summary Blood in the Water is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Blood in the Water as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Blood in the Water. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil ## Relationships - **Debtor**: [[Npc]]
+Use "Blood in the Water" as both literal environmental hazard and metaphor for escalating conflicts. The concept works well for investigation scenarios where initial violence hints at larger conspiracies, or action scenes where combat consequences create ongoing complications. ## Player-Facing Summary Blood in the Water is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Blood in the Water as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Blood in the Water. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil ## Relationships - **Debtor**: [[Npc
 
-- **Enemy**: [[Master Cultivator Thalia Greenglow]]
-- **Child**: [[Npc]]
-- **Child**: [[Npc]]
+- **Enemy**: [Master Cultivator Thalia Greenglow]]
+- **Child**: [[Npc
+- **Child**: [Npc]]
 - **Ally**: [[Assets]] ## Plot Hooks - A shipment has gone missing and chaos spreads
 
 - Strange accidents suggest ancient magic ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

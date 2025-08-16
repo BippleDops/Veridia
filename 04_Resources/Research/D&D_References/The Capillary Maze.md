@@ -2,7 +2,7 @@
 
 title: The Capillary Maze
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,14 +42,13 @@ updated: '2025-08-13T01:18:35.223103+00:00'
 
 - A journal reveals a betrayal about the government
 - A document has gone missing and war looms
-- Strange disappearances suggest a conspiracy ## Related Notes - [[Similar Topic 1]]
+- Strange disappearances suggest a conspiracy ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Quest - The Root Network_1 (01_Adventures)]]
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Quest - The Root Network_1 (01_Adventures)
 
-- [[Quest - The Root Network_2 (01_Adventures)]]
-
+- [Quest - The Root Network_2 (01_Adventures)]]
 
 ## Notes
 

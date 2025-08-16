@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - both
 - complete
 - content/location
@@ -12,8 +12,6 @@ type: Location
 updated: '2025-08-13T12:34:16.598192+00:00'
 world: Both
 ---
-
-
 
 -08-11
 status: draft
@@ -27,19 +25,15 @@ danger_level: Moderate
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-void-currents-v1-void-currents.svg)
 
-
-
-
-
 # Void Currents
 *Where Reality Drowns in Nothingness*
 
 > *"I have sailed every current in Aquabyssos, faced leviathans and survived the deepest trenches, but the Void Currents... they are not of this world. They are holes in the ocean where existence itself becomes uncertain, where the laws of reality flow away like water through a broken dam."*
-> — [[02_Worldbuilding/Places/Navigator Abyssal Truthseeker]], sole survivor of the Meridian Deep Expedition
+> — [[02_Worldbuilding/Places/Navigator Abyssal Truthseeker, sole survivor of the Meridian Deep Expedition
 
 ## Overview
 
-The Void Currents represent the most dangerous and mysterious phenomenon in all of [[02_Worldbuilding/Places/Aquabyssos]], a region of unstable reality where the fundamental laws of physics, magic, and existence itself become unreliable and chaotic. Located in the deepest, most remote parts of the ocean, these "currents" are not water movements at all, but rather tears in the fabric of reality that seem to drift through the depths like malevolent storms. Those few who have encountered the Void Currents and returned speak of impossible geometries, temporal loops, spaces where thought becomes reality, and areas where reality simply ceases to exist. The very name "Void Currents" reflects their nature - they are currents of nothingness that consume everything they touch.
+The Void Currents represent the most dangerous and mysterious phenomenon in all of [02_Worldbuilding/Places/Aquabyssos]], a region of unstable reality where the fundamental laws of physics, magic, and existence itself become unreliable and chaotic. Located in the deepest, most remote parts of the ocean, these "currents" are not water movements at all, but rather tears in the fabric of reality that seem to drift through the depths like malevolent storms. Those few who have encountered the Void Currents and returned speak of impossible geometries, temporal loops, spaces where thought becomes reality, and areas where reality simply ceases to exist. The very name "Void Currents" reflects their nature - they are currents of nothingness that consume everything they touch.
 
 ## The Nature of the Void
 
@@ -139,7 +133,7 @@ The Void Currents represent the most dangerous and mysterious phenomenon in all 
 
 #### The Meridian Deep Expedition
 **Date**: 200 years ago, first scientific expedition to study void currents  
-**Leadership**: Joint expedition by multiple [[02_Worldbuilding/Places/Aquabyssos]] institutions  
+**Leadership**: Joint expedition by multiple [[02_Worldbuilding/Places/Aquabyssos institutions  
 **Fate**: Only one survivor returned, badly traumatized and partially mad  
 **Information**: Limited information about void current nature and dangers  
 **Impact**: Establishment of void current quarantine and research restrictions
@@ -192,7 +186,7 @@ The Void Currents represent the most dangerous and mysterious phenomenon in all 
 
 #### The Institute for Reality Studies
 **Mission**: Leading research institution for void current and reality anomaly study  
-**Location**: Heavily shielded facility in [[02_Worldbuilding/Places/Abyssos Prime]]  
+**Location**: Heavily shielded facility in [02_Worldbuilding/Places/Abyssos Prime]]  
 **Staff**: International staff of researchers, theorists, and support personnel  
 **Resources**: Extensive resources for studying impossible phenomena  
 **Secrecy**: High levels of secrecy and security surrounding research activities
@@ -216,7 +210,7 @@ The Void Currents represent the most dangerous and mysterious phenomenon in all 
 ### Cultural Impact
 
 #### Fear and Superstition
-**Terror**: Deep-seated terror of void currents throughout [[02_Worldbuilding/Places/Aquabyssos]] society  
+**Terror**: Deep-seated terror of void currents throughout [[02_Worldbuilding/Places/Aquabyssos society  
 **Taboos**: Cultural taboos against discussing or approaching void current areas  
 **Religion**: Religious beliefs attributing void currents to divine punishment or cosmic evil  
 **Folklore**: Folklore and legends growing around void current phenomena  
@@ -566,21 +560,21 @@ The Void Currents represent the most dangerous and mysterious phenomenon in all 
 
 ## Connections to Other Locations
 
-### [[02_Worldbuilding/Places/The Depth Market]]
+### [02_Worldbuilding/Places/The Depth Market]]
 **Artifacts**: Trade in rare void current artifacts and materials  
 **Information**: Information brokerage about void current discoveries  
 **Risk**: High-risk, high-reward trade in void-related materials  
 **Demand**: Demand for void current information and artifacts  
 **Danger**: Dangers of trading in reality-contaminated materials
 
-### [[02_Worldbuilding/Places/Parliament of Echoes]]
+### [[02_Worldbuilding/Places/Parliament of Echoes
 **Policy**: Government policy development regarding void current threats  
 **Funding**: Funding decisions for void current research and monitoring  
 **Law**: Legal frameworks for managing void current-related issues  
 **International**: International cooperation on void current management  
 **Civil Rights**: Civil rights issues related to void current survivors
 
-### [[02_Worldbuilding/Places/Azure Citadel]]
+### [02_Worldbuilding/Places/Azure Citadel]]
 **Security**: Military security measures for void current threats  
 **Response**: Military response capabilities for void current emergencies  
 **Research**: Military research into void current applications and defenses  
@@ -608,27 +602,26 @@ The Void Currents represent the most dangerous and mysterious phenomenon in all 
 ---
 
 **Related Locations**:
-- [[02_Worldbuilding/Places/The Depth Market]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Places/Azure Citadel]]
-- [[02_Worldbuilding/Places/Memory Farmers]]
+- [[02_Worldbuilding/Places/The Depth Market
+- [02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/Azure Citadel
+- [02_Worldbuilding/Places/Memory Farmers]]
 
 **Related NPCs**:
-- [[02_Worldbuilding/Places/Navigator Abyssal Truthseeker]]
-- [[02_Worldbuilding/Places/Institute for Reality Studies Researchers]]
-- [[02_Worldbuilding/Places/Void Current Survivors]]
-- [[02_Worldbuilding/Places/Reality Monitoring Specialists]]
+- [[02_Worldbuilding/Places/Navigator Abyssal Truthseeker
+- [02_Worldbuilding/Places/Institute for Reality Studies Researchers]]
+- [[02_Worldbuilding/Places/Void Current Survivors
+- [02_Worldbuilding/Places/Reality Monitoring Specialists]]
 
 **Related Items and Concepts**:
-- [[02_Worldbuilding/Places/Reality Anchoring Technology]]
-- [[02_Worldbuilding/Places/Void Contamination]]
-- [[02_Worldbuilding/Places/Reality Distortion Effects]]
-- [[02_Worldbuilding/Places/International Void Treaties]]
-
+- [[02_Worldbuilding/Places/Reality Anchoring Technology
+- [02_Worldbuilding/Places/Void Contamination]]
+- [[02_Worldbuilding/Places/Reality Distortion Effects
+- [02_Worldbuilding/Places/International Void Treaties]]
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Abyssos Prime
 
 ## Player-Facing Summary
 
@@ -650,25 +643,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Void Currents]]
+- [02_Worldbuilding/Places/Void Currents]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

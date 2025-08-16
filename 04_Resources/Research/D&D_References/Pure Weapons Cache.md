@@ -2,7 +2,7 @@
 
 title: Pure Weapons Cache
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,10 +42,9 @@ updated: '2025-08-13T01:18:34.885896+00:00'
 
 - The authorities needs help delivering before the new moon
 - An heirloom has gone missing and truth emerges
-- Strange disappearances suggest a conspiracy ## References - [[Purist Coalition Thugs]]
+- Strange disappearances suggest a conspiracy ## References - [[Purist Coalition Thugs
 
-- [[Purist Coalition Thugs (D&D_References)]]
-
+- [Purist Coalition Thugs (D&D_References)]]
 
 ## Notes
 

@@ -5,12 +5,11 @@ purpose: Campaign Resolution
 scope: Both Worlds
 status: complete
 structure_type: Campaign Framework
-tags:
+tags: 
 - both worlds
 - campaign/consequence
 - complete
 - content/lore
-- content/template
 - endings
 - epilogues
 - future-stories
@@ -25,21 +24,15 @@ usage: Epilogue Guidance
 world: Both Worlds
 ---
 
-
-
-
-
-
-
 # Campaign Epilogues
 *Concluding the Adventures of Both Worlds*
 
 > *"Every tale must find its ending, but in the depths where time flows differently and on surfaces where hope rebuilds what despair has broken, endings become new beginnings. The choices made in darkness echo into light, and what heroes achieve reverberates through generations yet unborn."*
-> — [[02_Worldbuilding/Places/Chronicle Keeper Sage Deepmemory]], Historian of the [[02_Worldbuilding/Lore/United Councils of Both Worlds]]
+> — [[02_Worldbuilding/Places/Chronicle Keeper Sage Deepmemory, Historian of the [02_Worldbuilding/Lore/United Councils of Both Worlds]]
 
 ## Overview
 
-Campaign Epilogues provide comprehensive frameworks for concluding adventures set in the interconnected worlds of [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]], offering structured approaches to resolving character arcs, addressing the consequences of player actions, and establishing the future state of both realms based on campaign outcomes. These epilogue structures recognize that campaigns in this setting often involve complex, interconnected challenges that require thoughtful resolution and long-term consequence consideration.
+Campaign Epilogues provide comprehensive frameworks for concluding adventures set in the interconnected worlds of [[02_Worldbuilding/Places/Aquabyssos and [02_Worldbuilding/Places/Aethermoor]], offering structured approaches to resolving character arcs, addressing the consequences of player actions, and establishing the future state of both realms based on campaign outcomes. These epilogue structures recognize that campaigns in this setting often involve complex, interconnected challenges that require thoughtful resolution and long-term consequence consideration.
 
 The epilogue frameworks account for the unique characteristics of campaigns spanning both underwater and surface environments, addressing how player actions in one realm affect the other and providing guidance for resolving the cosmic-scale threats and alliance relationships that define the setting. These structures help game masters create satisfying conclusions while establishing foundations for potential future adventures.
 
@@ -69,7 +62,7 @@ Governmental evolution addresses changes in political systems, leadership struct
 
 Organizational development examines how major institutions adapt to post-campaign circumstances, including military restructuring, economic reorganization, educational reform, and religious institutional change. These changes reflect the impact of campaign events on societal infrastructure.
 
-Alliance relationships evaluate how the connections between [[02_Worldbuilding/Places/Aquabyssos]], [[02_Worldbuilding/Places/Aethermoor]], and external allies like the Eastern Kingdom Fleet develop based on campaign outcomes. This includes trade relationship evolution, military cooperation agreements, and cultural exchange program expansion.
+Alliance relationships evaluate how the connections between [[02_Worldbuilding/Places/Aquabyssos, [02_Worldbuilding/Places/Aethermoor]], and external allies like the Eastern Kingdom Fleet develop based on campaign outcomes. This includes trade relationship evolution, military cooperation agreements, and cultural exchange program expansion.
 
 Economic transformation addresses how campaign events affect commerce, resource distribution, technological development, and standard of living in both worlds. These economic consequences often have long-term implications for social stability and international relations.
 
@@ -77,7 +70,7 @@ Economic transformation addresses how campaign events affect commerce, resource 
 
 Environmental restoration epilogues address the ecological and physical consequences of campaign events, particularly focusing on efforts to repair damage caused by various threats and the long-term environmental implications of campaign resolutions.
 
-Corruption remediation explores the ongoing efforts to reverse damage caused by [[02_Worldbuilding/Lore/The Crystal Influence]], void corruption, and other reality-altering threats. These epilogues address both immediate cleanup efforts and long-term environmental rehabilitation programs.
+Corruption remediation explores the ongoing efforts to reverse damage caused by [[02_Worldbuilding/Lore/The Crystal Influence, void corruption, and other reality-altering threats. These epilogues address both immediate cleanup efforts and long-term environmental rehabilitation programs.
 
 Ecosystem recovery examines how natural systems adapt to post-crisis conditions, including species population recovery, habitat restoration, and the establishment of new ecological balances. These changes often involve both natural processes and active intervention by various organizations.
 
@@ -218,16 +211,15 @@ Timeline consideration addresses both immediate and long-term consequences, reco
 Alternative outcome exploration examines different possible consequences for major events, allowing game masters to choose outcomes that best serve story needs while remaining consistent with established setting elements.
 
 ## Connected Campaign Elements
-- [[02_Worldbuilding/Lore/United Councils of Both Worlds]] - Alliance framework affected by campaign outcomes
-- [[02_Worldbuilding/Lore/Aquabyssos|02 Worldbuilding/Lore/Aquabyssos]] - Primary underwater setting influenced by character actions
-- [[02_Worldbuilding/Lore/Aethermoor|02 Worldbuilding/Lore/Aethermoor]] - Primary surface setting shaped by campaign resolution
-- [[02_Worldbuilding/Lore/The Crystal Influence]] - Major threat requiring resolution consideration
-- [[02_Worldbuilding/Lore/Chronicle Keeper Sage Deepmemory|02 Worldbuilding/Lore/Chronicle Keeper Sage Deepmemory]] - Historian documenting campaign aftermath
-
+- [02_Worldbuilding/Lore/United Councils of Both Worlds]] - Alliance framework affected by campaign outcomes
+- [[02_Worldbuilding/Lore/Aquabyssos|02 Worldbuilding/Lore/Aquabyssos - Primary underwater setting influenced by character actions
+- [02_Worldbuilding/Lore/Aethermoor|02 Worldbuilding/Lore/Aethermoor]] - Primary surface setting shaped by campaign resolution
+- [[02_Worldbuilding/Lore/The Crystal Influence - Major threat requiring resolution consideration
+- [02_Worldbuilding/Lore/Chronicle Keeper Sage Deepmemory|02 Worldbuilding/Lore/Chronicle Keeper Sage Deepmemory]] - Historian documenting campaign aftermath
 
 ## Connections
 
-- [[1-Session Journals/Aethermoor - Session 10 The Deep Mother Rises]]
+- [[1-Session Journals/Aethermoor - Session 10 The Deep Mother Rises
 
 ## Player-Facing Summary
 
@@ -251,7 +243,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Campaign Index]]
+- [02_Worldbuilding/Lore/Campaign Index]]
 - Eastern Kingdom Fleet
-- [[02_Worldbuilding/Lore/United Councils of Both Worlds]]
-- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Lore/United Councils of Both Worlds
+- [02_Worldbuilding/Places/Aethermoor]]

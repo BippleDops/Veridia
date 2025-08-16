@@ -1,22 +1,22 @@
 ---
 title: ioun-stone-sustece-xdmg
 type: note
-tags:
+tags: 
 - auto-generated
-- [[Link]]ed
+- [[Linked
 created: '2025-01-15'
 ---
 
 # ioun-stone-sustece-xdmg
 
 ## Overview
-This topic is referenced in [[random-magic-items-relics (tables)]] and other parts of the campaign.
+This topic is referenced in [random-magic-items-relics (tables)]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[random-magic-items-relics (tables)]]
+- Referenced by: [[random-magic-items-relics (tables)
 - Related topics in the same category
 
 ## Details
@@ -29,11 +29,11 @@ Further information about this topic will be developed as the campaign progresse
 
 ## References
 
-- [[Ioun Stone Xdmg]]
-- [[ioun-stone-xdmg (items)]]
-- [[Magic Item Table G]]
-- [[Random Magic Items Relics]]
-- [[Relics Rare Xdmg]]
-- [[magic-item-table-g (tables)]]
-- [[random-magic-items-relics (tables)]]
+- [Ioun Stone Xdmg]]
+- [[ioun-stone-xdmg (items)
+- [Magic Item Table G]]
+- [[Random Magic Items Relics
+- [Relics Rare Xdmg]]
+- [[magic-item-table-g (tables)
+- [random-magic-items-relics (tables)]]
 - [[relics-rare-xdmg (tables)]]

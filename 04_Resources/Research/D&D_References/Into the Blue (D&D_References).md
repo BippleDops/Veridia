@@ -2,7 +2,7 @@
 
 title: Into the Blue (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -99,11 +99,9 @@ The Royal Deep Survey has been tracking anomalous readings from their most advan
 3. Character has personal connection to the mysteries
 4. Emergency situation requires immediate deep exploration ## Long-term Impact
 
-
 Discoveries made during this quest can fundamentally change the campaign world's cosmology, introduce new threats or allies, and open up entirely new regions for future adventures. ## DM Notes
 
 This quest emphasizes exploration and discovery over combat. Focus on the sense of venturing into the truly unknown. Whatever players discover should feel significant and world-changing. ## Player-Facing Summary Into the Blue is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Into the Blue as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Into the Blue. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

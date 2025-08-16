@@ -2,7 +2,7 @@
 aliases: ["Random Encounter 82", "random encounter 82", "82 Encounter Random"]
 tags: [generated]
 id: ENC0081_Random_Encounter_82
-created: 2025-08-15T04:09:51.459Z
+created: "2025-08-15T04:09:51.459Z"
 generator: mega_generator_10k
 ---
 # Random Encounter 82
@@ -10,7 +10,7 @@ generator: mega_generator_10k
 *Deadly encounter for Mountain environment*
 
 ## Enemies
-- 1d6 Bandits
+- `dice: 1d6` Bandits
 
 ## Tactics
 Enemies coordinate attacks and use terrain to their advantage

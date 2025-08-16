@@ -2,7 +2,7 @@
 aliases: ["Random Encounter 39", "random encounter 39", "39 Encounter Random"]
 tags: [generated]
 id: ENC0038_Random_Encounter_39
-created: 2025-08-15T04:09:51.447Z
+created: "2025-08-15T04:09:51.447Z"
 generator: mega_generator_10k
 ---
 # Random Encounter 39
@@ -10,8 +10,8 @@ generator: mega_generator_10k
 *Medium encounter for Urban environment*
 
 ## Enemies
-- 2d6 Skeletons
-- 1d4 Dire Wolves
+- `dice: 2d6` Skeletons
+- `dice: 1d4` Dire Wolves
 
 ## Tactics
 Enemies coordinate attacks and use terrain to their advantage

@@ -2,7 +2,7 @@
 
 title: Biomancer Flux
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -46,7 +46,6 @@ updated: '2025-08-13T01:18:34.774866+00:00'
 - A journal reveals the truth about the government
 - A stranger needs help delivering before dawn
 - Someone is protecting a witness for love ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

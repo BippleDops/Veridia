@@ -2,7 +2,7 @@
 
 title: Forbidden Tomes of Deep Mother (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -49,7 +49,6 @@ updated: '2025-08-13T01:18:37.088361+00:00'
 
 --- # Forbidden Tomes of Deep Mother *"Some knowledge changes you by being known. Some books read you while you read them."* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview These accursed texts contain knowledge about the Deep Mother, her servants, the nature of reality, and the coming transformation of existence. Each tome is dangerous not merely for what it teaches, but for how it teaches - the very act of reading these books fundamentally alters the reader's consciousness. They serve as both invaluable resources for understanding cosmic threats and potential paths to madness or enlightenment, depending on one's perspective. ### The Codex Abyssos
 
-
 **Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview These accursed texts contain knowledge about the Deep Mother, her servants, the nature of reality, and the coming transformation of existence. Each tome is dangerous not merely for what it teaches, but for how it teaches - the very act of reading these books fundamentally alters the reader's consciousness. They serve as both invaluable resources for understanding cosmic threats and potential paths to madness or enlightenment, depending on one's perspective. ### The Codex Abyssos - Key information at a glance.
 
 *"The Deep Mother's Own Testament"* **Physical Description**: Bound in scales from creatures that never existed, with pages made from pressed water that somehow remains solid. The text appears in whatever language the reader understands best, but the words shift meaning as understanding deepens. **Origin**: Discovered in the deepest ocean trenches, apparently written before any known civilization existed. Some scholars theorize it predates reality itself, existing as the original blueprint for creation. Subsequently, **Contents**: 347 pages covering:
@@ -63,12 +62,12 @@ updated: '2025-08-13T01:18:37.088361+00:00'
 - Requires minimum Intelligence 14 to comprehend basic concepts
 - Each page takes minimum 1 hour to read safely
 - Reading in groups reduces individual sanity cost but increases collective madness risk **Sanity Costs by Section**:
-- **Basic Nature (pages 1-49)**: 1d4 per page, DC 15 Wisdom save for half
-- **Reality History (pages 50-98)**: 1d6 per page, DC 17 Wisdom save for half - **Transformation Guide (pages 99-147)**: 2d4 per page, DC 19 Wisdom save for half
-- **Awakening Rituals (pages 148-196)**: 2d6 per page, DC 21 Wisdom save for half
-- **Final Prophecies (pages 197-245)**: 3d4 per page, DC 23 Wisdom save for half
-- **Philosophical Framework (pages 246-294)**: 1d8 per page, DC 20 Wisdom save for half
-- **Post-Reality Instructions (pages 295-347)**: 4d4 per page, no save allowed **Benefits Gained**:
+- **Basic Nature (pages 1-49)**: `dice: 1d4` per page, **DC 15** Wisdom save for half
+- **Reality History (pages 50-98)**: `dice: 1d6` per page, **DC 17** Wisdom save for half - **Transformation Guide (pages 99-147)**: `dice: 2d4` per page, **DC 19** Wisdom save for half
+- **Awakening Rituals (pages 148-196)**: `dice: 2d6` per page, **DC 21** Wisdom save for half
+- **Final Prophecies (pages 197-245)**: `dice: 3d4` per page, **DC 23** Wisdom save for half
+- **Philosophical Framework (pages 246-294)**: `dice: 1d8` per page, **DC 20** Wisdom save for half
+- **Post-Reality Instructions (pages 295-347)**: `dice: 4d4` per page, no save allowed **Benefits Gained**:
 - **Complete Reading**: Immunity to illusion magic, perfect understanding of Deep Mother's nature
 - **Partial Reading**: Advantage on checks related to specific sections studied
 - **Ritual Knowledge**: Can perform Deep Mother ceremonies with appropriate materials
@@ -84,7 +83,6 @@ updated: '2025-08-13T01:18:37.088361+00:00'
 - **Copy 2**: Observatory of Broken Stars (translated into mathematical formulas)
 - **Fragments**: Various cult libraries and private collections --- ### The Stellar Manuscript
 
-
 **Summary**: The Stellar Manuscript - Key information at a glance.
 
 *"Astronomical Prophecies from Other Realities"* **Physical Description**: Star charts printed on material that appears to be compressed starlight. The constellations shown don't match any known sky, and the charts change based on viewing time and location. **Origin**: Received through telescope transmissions at the Observatory of Broken Stars. Researchers initially thought they were documenting distant galaxies until they realized the stars were looking back. **Contents**: 89 charts covering:
@@ -98,12 +96,12 @@ updated: '2025-08-13T01:18:37.088361+00:00'
 - Requires proficiency in Arcana or Nature
 - Can only be read safely during specific lunar phases
 - Each chart takes 2-4 hours to study properly **Sanity Costs by Chart Type**:
-- **Parallel Reality Charts (1-21)**: 1d4 per chart, DC 14 Wisdom save for half
-- **Breach Alignments (22-35)**: 1d6 per chart, DC 16 Wisdom save for half
-- **Awakening Signs (36-49)**: 2d4 per chart, DC 18 Wisdom save for half
-- **Interdimensional Maps (50-63)**: 2d6 per chart, DC 20 Wisdom save for half
-- **Post-Reality Cosmos (64-77)**: 3d4 per chart, DC 22 Wisdom save for half
-- **Temporal Positions (78-89)**: 1d8 per chart, DC 19 Wisdom save for half **Benefits Gained**:
+- **Parallel Reality Charts (1-21)**: `dice: 1d4` per chart, **DC 14** Wisdom save for half
+- **Breach Alignments (22-35)**: `dice: 1d6` per chart, **DC 16** Wisdom save for half
+- **Awakening Signs (36-49)**: `dice: 2d4` per chart, **DC 18** Wisdom save for half
+- **Interdimensional Maps (50-63)**: `dice: 2d6` per chart, **DC 20** Wisdom save for half
+- **Post-Reality Cosmos (64-77)**: `dice: 3d4` per chart, **DC 22** Wisdom save for half
+- **Temporal Positions (78-89)**: `dice: 1d8` per chart, **DC 19** Wisdom save for half **Benefits Gained**:
 - **Navigation**: Can find reality breach locations using astronomical observation
 - **Timing**: Know optimal moments for rituals and summoning attempts
 - **Prediction**: Foresee major cosmic events up to one year in advance
@@ -129,11 +127,11 @@ updated: '2025-08-13T01:18:37.088361+00:00'
 - Each major section takes 2-6 hours to understand fully
 - Requires mathematical comprehension of abstract economics
 - Best understood by those with merchant or ficial background **Sanity Costs by Section Type**:
-- **Basic Interdimensional Commerce**: 1d3 per major transaction reviewed
-- **Concept Trading Records**: 1d4 per abstract concept studied - **Reality Collapse Economics**: 1d6 per ficial model examined
-- **Post-Awakening Markets**: 2d4 per future scenario analyzed
-- **Impossible Logistics**: 1d4 per shipping record studied
-- **Cult Ficial Networks**: 1d6 per organization chart reviewed **Benefits Gained**:
+- **Basic Interdimensional Commerce**: `dice: 1d3` per major transaction reviewed
+- **Concept Trading Records**: `dice: 1d4` per abstract concept studied - **Reality Collapse Economics**: `dice: 1d6` per ficial model examined
+- **Post-Awakening Markets**: `dice: 2d4` per future scenario analyzed
+- **Impossible Logistics**: `dice: 1d4` per shipping record studied
+- **Cult Ficial Networks**: `dice: 1d6` per organization chart reviewed **Benefits Gained**:
 - **Economic Insight**: Understand cult funding sources and ficial operations
 - **Market Prediction**: Anticipate economic consequences of reality changes
 - **Abstract Trading**: Ability to participate in interdimensional commerce
@@ -167,10 +165,10 @@ updated: '2025-08-13T01:18:37.088361+00:00'
 - Each chapter takes 4-8 hours to study thoroughly
 - Practical application requires willing subjects or self-experimentation
 - Should be read in sequence for proper understanding **Sanity Costs by Chapter**:
-- **Chapters 1-3 (Basic Modification)**: 1d4 per chapter, DC 15 Wisdom save for half
-- **Chapters 4-6 (System Integration)**: 1d6 per chapter, DC 17 Wisdom save for half
-- **Chapters 7-9 (Advanced Changes)**: 2d4 per chapter, DC 19 Wisdom save for half
-- **Chapters 10-12 (Transcendence)**: 2d6 per chapter, DC 21 Wisdom save for half **Benefits Gained**:
+- **Chapters 1-3 (Basic Modification)**: `dice: 1d4` per chapter, **DC 15** Wisdom save for half
+- **Chapters 4-6 (System Integration)**: `dice: 1d6` per chapter, **DC 17** Wisdom save for half
+- **Chapters 7-9 (Advanced Changes)**: `dice: 2d4` per chapter, **DC 19** Wisdom save for half
+- **Chapters 10-12 (Transcendence)**: `dice: 2d6` per chapter, **DC 21** Wisdom save for half **Benefits Gained**:
 - **Medical Expertise**: Can treat transformation-related conditions
 - **Process Understanding**: Guide others through safe transformation
 - **Biological Insight**: Recognize transformation stages in others
@@ -198,13 +196,13 @@ updated: '2025-08-13T01:18:37.088361+00:00'
 - Requires physical contact with crystal
 - User must be in meditative or sleeping state
 - Each dream experience takes 1-4 hours real time **Sanity Costs by Crystal**:
-- **Crystal 1 (Near Future)**: 1d3 per dream, DC 13 Wisdom save for half
-- **Crystal 2 (Historical)**: 1d4 per dream, DC 15 Wisdom save for half
-- **Crystal 3 (Transformation)**: 1d6 per dream, DC 17 Wisdom save for half
-- **Crystal 4 (Resistance Nightmares)**: 2d4 per dream, DC 19 Wisdom save for half
-- **Crystal 5 (Post-Awakening)**: 2d6 per dream, DC 21 Wisdom save for half
-- **Crystal 6 (Deep Mother's Dreams)**: 3d4 per dream, DC 23 Wisdom save for half
-- **Crystal 7 (Final Dream)**: 4d6, no save, permanent effects **Benefits by Crystal**:
+- **Crystal 1 (Near Future)**: `dice: 1d3` per dream, **DC 13** Wisdom save for half
+- **Crystal 2 (Historical)**: `dice: 1d4` per dream, **DC 15** Wisdom save for half
+- **Crystal 3 (Transformation)**: `dice: 1d6` per dream, **DC 17** Wisdom save for half
+- **Crystal 4 (Resistance Nightmares)**: `dice: 2d4` per dream, **DC 19** Wisdom save for half
+- **Crystal 5 (Post-Awakening)**: `dice: 2d6` per dream, **DC 21** Wisdom save for half
+- **Crystal 6 (Deep Mother's Dreams)**: `dice: 3d4` per dream, **DC 23** Wisdom save for half
+- **Crystal 7 (Final Dream)**: `dice: 4d6`, no save, permanent effects **Benefits by Crystal**:
 - **Crystal 1**: Accurate predictions of near-future events
 - **Crystal 2**: Understanding of Deep Mother's historical influence
 - **Crystal 3**: Insight into transformation benefits and experiences
@@ -224,27 +222,27 @@ updated: '2025-08-13T01:18:37.088361+00:00'
 
 **Type**: Mathematical treatise on reality's structural weaknesses
 **Pages**: 73 equations and proofs
-**Sanity Cost**: 1d4 per equation studied
+**Sanity Cost**: `dice: 1d4` per equation studied
 **Benefit**: Can predict and potentially create reality breaches ### Whispers from the Depths
 
 **Type**: Collection of testimonials from early cult members
 **Pages**: 156 personal accounts
-**Sanity Cost**: 1d3 per testimonial
+**Sanity Cost**: `dice: 1d3` per testimonial
 **Benefit**: Understanding of recruitment psychology and early transformation stages ### The Coral Scriptures
 
 **Type**: Religious texts describing Deep Mother as benevolent deity
 **Pages**: 231 theological arguments
-**Sanity Cost**: 1d3 per chapter (reduced for those with religious background)
+**Sanity Cost**: `dice: 1d3` per chapter (reduced for those with religious background)
 **Benefit**: Can minister to cultists and understand their motivations ### Cartography of the Impossible
 
 **Type**: Maps of places that exist between realities
 **Pages**: 67 detailed maps
-**Sanity Cost**: 1d4 per map studied
+**Sanity Cost**: `dice: 1d4` per map studied
 **Benefit**: Navigation through reality breaches and dimensional spaces ### The Merchant's Paradox
 
 **Type**: Economic theory applied to interdimensional commerce
 **Pages**: 98 commercial case studies
-**Sanity Cost**: 1d3 per case study
+**Sanity Cost**: `dice: 1d3` per case study
 **Benefit**: Understanding and participation in impossible trade networks ### Group Study Benefits and Risks
 
 **Benefits**:
@@ -264,7 +262,6 @@ updated: '2025-08-13T01:18:37.088361+00:00'
 5. **Archive Access**: Find hidden library containing multiple major works
 6. **Personal Choice**: Decide whether knowledge is worth transformation risk ### Risk Assessment
 
-
 Before studying any forbidden tome:
 - Consider character's current sanity level and mental stability
 - Evaluate whether information is necessary for current goals
@@ -274,12 +271,11 @@ Before studying any forbidden tome:
 
 - A prisoner has gone missing and truth emerges
 - Strange disappearances suggest a curse
-- A merchant needs help investigating before the new moon ## Related Notes - [[Similar Topic 1]]
+- A merchant needs help investigating before the new moon ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

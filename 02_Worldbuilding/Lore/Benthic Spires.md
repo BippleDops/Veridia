@@ -1,13 +1,13 @@
 ---
 
 title: Benthic Spires
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - world/aquabyssos
 - content/lore
-- content/[[location]]
+- content/[[location
 - active
 - complete
 - status/in-progress
@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -50,7 +50,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[region]]s
+- Describe how this culture exists in other [[regions
 
 ### Hospitality Improvements
 
@@ -84,11 +84,11 @@ Benthic Spires is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Benthic Spires as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Benthic Spires.
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## [[Historical Context]]
+## [[Historical Context
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -99,7 +99,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 ## Plot Hooks
 
 - Strange accidents suggest ancient magic
-- A [[Merchant]] needs help stealing before winter
+- A [Merchant]] needs help stealing before winter
 - Strange dreams suggest a portal
 
 ## Economic Structure
@@ -122,5 +122,5 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[The Pressure Conspiracy]]
-- [[The Pressure Conspiracy (D&D_Statblocks)]]
+- [[The Pressure Conspiracy
+- [The Pressure Conspiracy (D&D_Statblocks)]]

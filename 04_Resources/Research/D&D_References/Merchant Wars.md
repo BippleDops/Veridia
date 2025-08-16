@@ -2,7 +2,7 @@
 
 title: Merchant Wars
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -44,10 +44,9 @@ updated: '2025-08-13T01:18:34.783215+00:00'
 
 - Someone is searching for a witness for money
 - A map reveals the truth about a local noble
-- A prisoner has gone missing and truth emerges ## References - [[Consortium Security Constructs]]
+- A prisoner has gone missing and truth emerges ## References - [[Consortium Security Constructs
 
-- [[Consortium Security Constructs (D&D_References)]]
-
+- [Consortium Security Constructs (D&D_References)]]
 
 ## Notes
 

@@ -2,7 +2,7 @@
 
 title: Pre-Submersion Ruins (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -47,7 +47,6 @@ Pre-Submersion Ruins describes a turning current in history where choices about 
 
 - Strange sightings suggest a portal
 - A prisoner has gone missing and war looms ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Campaign_Relationship_Matrix]]
-
 
 ## Notes
 

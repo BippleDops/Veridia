@@ -2,7 +2,7 @@
 
 title: Spell Lists
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -57,7 +57,7 @@ practitioners: All Magical Traditions
 
 *Comprehensive Catalog of Cross-Realm Magic* > *"In the depths where pressure shapes possibility and on the surface where winds carry wonder, magic takes countless forms. These spells represent the accumulated knowledge of both worlds - techniques honed in crushing darkness and perfected in brilliant light, each adapted to serve those who would master the impossible."*
 
-> — [[Archmage Tidal Currentweave]], Master of Both Traditions at the [[Institute of Unified Magic]] ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The magical traditions of [[Aquabyssos]] and [[Aethermoor]] have developed independently over millennia, creating distinct approaches to spellcasting that reflect their radically different environments and challenges. Underwater magic emphasizes adaptation, pressure manipulation, and biological integration, while surface magic focuses on elemental control, atmospheric manipulation, and terrestrial phenomena. The recent cooperation between realms has revealed that many spells can be adapted for cross-realm use, while others require fundamental modification to function in foreign environments. This comprehensive catalog organizes spells by their adaptability and provides both traditional and modified versions for practitioners operating in unfamiliar settings. Spells are categorized by their origin realm, level of power, and environmental requirements, enabling spellcasters to select appropriate techniques for their current situation while understanding the modifications necessary for effective cross-realm casting. ### Aquabyssos Magic Principles
+> — [[Archmage Tidal Currentweave, Master of Both Traditions at the [Institute of Unified Magic]] ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The magical traditions of [[Aquabyssos and [Aethermoor]] have developed independently over millennia, creating distinct approaches to spellcasting that reflect their radically different environments and challenges. Underwater magic emphasizes adaptation, pressure manipulation, and biological integration, while surface magic focuses on elemental control, atmospheric manipulation, and terrestrial phenomena. The recent cooperation between realms has revealed that many spells can be adapted for cross-realm use, while others require fundamental modification to function in foreign environments. This comprehensive catalog organizes spells by their adaptability and provides both traditional and modified versions for practitioners operating in unfamiliar settings. Spells are categorized by their origin realm, level of power, and environmental requirements, enabling spellcasters to select appropriate techniques for their current situation while understanding the modifications necessary for effective cross-realm casting. ### Aquabyssos Magic Principles
 
 **Pressure Integration**: Underwater magic harnesses water pressure as both a power source and focusing medium, creating spells that grow stronger with depth while maintaining effectiveness through pressure differentials. **Biological Harmony**: Aquatic spells work with rather than against living systems, using biological processes as components and creating effects that integrate seamlessly with underwater ecosystems. However, **Current Channeling**: Ocean currents serve as both power conduits and spell delivery systems, enabling effects to be transmitted across vast distances while drawing energy from natural water movement. **Depth Resoce**: Deep-sea magic utilizes the unique acoustic properties of water to create spells that can affect targets at extreme ranges while remaining undetectable to surface dwellers. ### Aethermoor Magic Principles
 
@@ -91,12 +91,11 @@ Magic developed by practitioners who spend extended time in deep ocean environme
 
 Magic that manipulates crystalline structures and resot frequencies. ### Restricted Spell Classifications
 
-Magic that is forbidden due to dangerous consequences or corrupted nature. ## Player-Facing Summary Spell Lists is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Spell Lists as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Spell Lists. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Related Notes - [[Similar Topic 1]]
+Magic that is forbidden due to dangerous consequences or corrupted nature. ## Player-Facing Summary Spell Lists is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Spell Lists as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Spell Lists. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

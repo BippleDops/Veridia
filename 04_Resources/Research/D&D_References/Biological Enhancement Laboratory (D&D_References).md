@@ -2,7 +2,7 @@
 
 title: Biological Enhancement Laboratory (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,7 +42,6 @@ updated: '2025-08-13T01:18:35.553785+00:00'
 - A noble needs help finding before the new moon
 - The authorities needs help delivering before dawn
 - Someone is blackmailing a artifact for power ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

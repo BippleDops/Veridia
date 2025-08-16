@@ -2,7 +2,7 @@
 created: '2025-08-11'
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -14,14 +14,8 @@ updated: '2025-08-13T12:34:16.701915+00:00'
 world: Aquabyssos
 ---
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-law-enforcement-medical-support-law-enforcement-medical-support.svg)
-
-
-
-
-
 
 ## Overview
 
@@ -62,35 +56,29 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Law Enforcement Medical Support]]
+- [[02_Worldbuilding/Places/Law Enforcement Medical Support
 
 <!-- enriched: true -->
 
-
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Investigate Shadow Surgeons]]
-
+- [02_Worldbuilding/Groups/Criminal_Organizations/Investigate Shadow Surgeons]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

@@ -8,14 +8,11 @@ aliases: ["Quest - Economic Warfare"]
 
 > *Time is running out...* This remarkable element adds depth and intrigue to any campaign.
 
-
 ## Overview
 
 **Difficulty**: Moderate (Levels 3-5)
 
-
 Comprehensive overview of this content.
-
 
 ## Secrets & Mysteries
 - **Hidden Truth**: Not everything is as it appears
@@ -31,7 +28,6 @@ Comprehensive overview of this content.
 - **Usage**: How to best utilize this in your campaign
 - **Adaptation**: Ways to modify for your needs
 - **Connections**: How this links to other elements
-
 
 *Every story needs its heroes.*
 

@@ -3,7 +3,7 @@ created: '2025-08-08'
 created_by: auto-stub
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - conspiracy
@@ -19,13 +19,8 @@ updated: '2025-08-13T12:34:17.033500+00:00'
 world: Aquabyssos
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-political-intrigue-of-meridian-political-intrigue-of-meridian.svg)
-
-
-
 
 # Political Intrigue of Meridian
 
@@ -163,10 +158,9 @@ A complex web of political maneuvering, secret alliances, and power struggles cu
 ## DM Notes
 Political intrigue emphasizes roleplay, investigation, and moral choices over combat. Provide multiple layers of conspiracy with some red herrings. Allow player choices to significantly affect outcomes and future campaign politics.
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/Parliament of Echoes
 
 ## Player-Facing Summary
 
@@ -178,25 +172,21 @@ Legends speak of Political Intrigue of Meridian as a nexus where past and presen
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Political Intrigue of Meridian]]
+- [02_Worldbuilding/Places/Political Intrigue of Meridian]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

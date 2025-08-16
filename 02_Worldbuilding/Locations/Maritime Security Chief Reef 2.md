@@ -2,7 +2,7 @@
 created: '2025-08-11'
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -14,14 +14,8 @@ updated: '2025-08-13T12:34:16.596673+00:00'
 world: Aquabyssos
 ---
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-maritime-security-chief-reef-maritime-security-chief-reef.svg)
-
-
-
-
-
 
 ## Overview
 
@@ -66,31 +60,25 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 
-
 ## Connections
 
 - Envoy Blackwater Jr.
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

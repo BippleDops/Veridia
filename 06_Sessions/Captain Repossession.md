@@ -1,8 +1,8 @@
 ---
 
-title: Captain Repossession
+title: [[Captain Repossession]]
 type: Npc
-tags:
+tags: 
 - npc
 - character
 - content/npc
@@ -27,7 +27,7 @@ improvements: 20
 
 ## Stats
 - **AC**: 12
-- **HP**: 22 (4d8)
+- **HP**: 22 (`dice: 4d8`)
 - **Speed**: 30 ft.
 - **STR**: 10 (+0), **DEX**: 14 (+2), **CON**: 11 (+0)
 - **INT**: 12 (+1), **WIS**: 13 (+1), **CHA**: 14 (+2)
@@ -47,35 +47,35 @@ improvements: 20
 - **Family**: Family connections
 - **Organizations**: Group affiliations
 
-## 🔧 Deep Evaluation Improvements
+## 🔧 [[Deep Evaluation Improvements
 
 *20 targeted improvements identified*
 
-### History Improvements
+### [History Improvements]]
 
 - Add three historical eras with major events
 
-### Culture Improvements
+### [[Culture Improvements
 
 - Define unique cultural practices and taboos
 
-### Economy Improvements
+### [Economy Improvements]]
 
 - Detail currency, trade goods, and wealth distribution
 
-### Religion Improvements
+### [[Religion Improvements
 
 - Create detailed religious observances
 
-### Lifestyle Improvements
+### [Lifestyle Improvements]]
 
 - Describe typical day for different social classes
 
-### Superstitions Improvements
+### [[Superstitions Improvements
 
 - List common superstitions and their origins
 
-### Hospitality Improvements
+### [Hospitality Improvements]]
 
 - Explain guest rights and host obligations
 
@@ -83,7 +83,7 @@ improvements: 20
 
 - Detail funeral rites and afterlife beliefs
 
-### Contradictions Improvements
+### [[Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
 
@@ -91,7 +91,7 @@ improvements: 20
 
 - Detail common objects and their cultural significance
 
-### Diaspora Improvements
+### [Diaspora Improvements]]
 
 - Describe how this culture exists in other regions
 
@@ -99,70 +99,70 @@ improvements: 20
 
 - Add folk tales and children's stories
 
-### Sensory Improvements
+### [[Sensory Improvements
 
 - Add smells, sounds, and textures unique to this culture
 
-## Player-Facing Summary
+## Player-[Facing Summary]]
 
-Captain Repossession is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+[[Captain Repossession is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## Lore Details
+## [Lore Details]]
 
-Legends speak of Captain Repossession as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Repossession.
+Legends speak of [[Captain Repossession as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around [Captain Repossession]].
 
 ## Background
 
-Captain Repossession's path to their current position involved:
+[[Captain Repossession's path to their current position involved:
 
-- **Early Life**: Formative experiences that shaped their worldview
+- **[Early Life]]**: Formative experiences that shaped their worldview
 - **Training**: Specialized education in their field
-- **Key Events**: Defining moments that set their course
+- **[[Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
 ## Motivations
 
-**Primary Goal**: Protecting loved ones
+**[Primary Goal]]**: Protecting loved ones
 
-**Secondary Objectives**:
+**[[Secondary Objectives**:
 - Maintain their position and influence
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
 ## Secrets
 
-Captain Repossession harbors secrets that could change everything:
+[Captain Repossession]] harbors secrets that could change everything:
 
-- **Public Secret**: Something widely suspected but unproven
-- **Private Secret**: Known only to a trusted few
-- **Deep Secret**: Lost memory
+- **[[Public Secret**: Something widely suspected but unproven
+- **[Private Secret]]**: Known only to a trusted few
+- **[[Deep Secret**: Lost memory
 
 ## Voice & Mannerisms
 
 **Voice**: Deep and resot
 
-**Speech Pattern**: Peppered with idioms
+**[Speech Pattern]]**: Peppered with idioms
 
-**Physical Habits**: Maintains intense eye contact
+**[[Physical Habits**: Maintains intense eye contact
 
-## Current Activities
+## [Current Activities]]
 
-Captain Repossession is currently engaged in:
+[[Captain Repossession is currently engaged in:
 
 - Managing their regular responsibilities
 - Pursuing a specific objective
 - Dealing with recent developments
 - Planning future operations
 
-## Plot Hooks
+## [Plot Hooks]]
 
-1. **The Request**: Captain Repossession needs assistance with a delicate matter
-2. **The Opposition**: Someone wants Captain Repossession stopped or removed
-3. **The Secret**: Information about Captain Repossession's past surfaces
-4. **The Alliance**: Opportunity to work with or against Captain Repossession
-5. **The Crisis**: Captain Repossession is caught in a situation requiring intervention
+1. **[[The Request**: [Captain Repossession]] needs assistance with a delicate matter
+2. **[[The Opposition**: Someone wants [Captain Repossession]] stopped or removed
+3. **[[The Secret**: Information about [Captain Repossession]]'s past surfaces
+4. **[[The Alliance**: Opportunity to work with or against [Captain Repossession]]
+5. **[[The Crisis**: [Captain Repossession]] is caught in a situation requiring intervention
 
-## Notable Quotes
+## [[Notable Quotes
 
 > "Every challenge is an opportunity in disguise."
 
@@ -176,16 +176,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Bloodline
 
-Member of House Eagleblood - Trait: curse
+Member of [House Eagleblood]] - Trait: curse
 
-## Religious Observances
+## [[Religious Observances
 
-### Daily Prayers
+### [Daily Prayers]]
 - Dawn: Gratitude for life
 - Noon: Strength for labor
 - Dusk: Protection from darkness
 
-### Weekly Observance
+### [[Weekly Observance
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
@@ -206,14 +206,14 @@ Member of House Eagleblood - Trait: curse
 - 6pm: Return home
 - 8pm: Sleep
 
-## Daily Routine
+## [Daily Routine]]
 - **Morning**: Typical activities
 - **Afternoon**: Work or duties
 - **Evening**: Leisure time
 
-## Combat Tactics
-- **Opening Move**: Initial strategy
-- **Preferred Range**: Optimal distance
+## [[Combat Tactics
+- **[Opening Move]]**: Initial strategy
+- **[[Preferred Range**: Optimal distance
 - **Retreat**: When to flee
 
 ## Possessions
@@ -222,29 +222,29 @@ Member of House Eagleblood - Trait: curse
 
 ## Knowledge
 - **Expertise**: Areas of knowledge
-- **Rumors Known**: Information they have
+- **[Rumors Known]]**: Information they have
 
-## Personality Traits
+## [[Personality Traits
 - **Positive**: Admirable qualities
 - **Negative**: Flaws and weaknesses
 
-## Character Arc
+## [Character Arc]]
 - **Past**: Where they came from
 - **Present**: Current situation
 - **Future**: Potential development
 
-## Dialogue Examples
+## [[Dialogue Examples
 - *"Common greeting"*
 - *"When threatened"*
 - *"Offering help"*
 
 ## Reputation
-- **Public Opinion**: How they're viewed
+- **[Public Opinion]]**: How they're viewed
 - **Truth**: Actual nature
 ## Statistics
 ___
-- **Armor Class** 10 (natural armor)
-- **Hit Points** 11 (3d8)
+- **[[Armor Class** 10 (natural armor)
+- **[Hit Points]]** 11 (`dice: 3d8`)
 - **Speed** 30 ft.
 ___
 
@@ -257,28 +257,50 @@ ___
 - **Senses** passive Perception 11
 - **Languages** Common
 - **Challenge** 1/8 (25 XP)
-- **Proficiency Bonus** +2
+- **[[Proficiency Bonus** +2
 ___
 
 ### Actions
 **Multiattack.** Makes two melee attacks.
 
-**Attack.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) slashing damage.
+**Attack.** *[Melee Weapon]] Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (`dice: 1d6` + 1) slashing damage.
 
 ### Reactions
 **Parry.** Adds 2 to AC against one melee attack that would hit.
 
-## Combat Tactics
+## [[Combat Tactics
 - Uses environment to advantage
 - Targets weakest party member first
 - Retreats when below 25% health
 
-## Sourcebook Reference
+## [Sourcebook Reference]]
 > Based on **Commoner** (MM p.345) with modifications
 
 ## References
 
-- [[Consortium Security Constructs]]
-- [[Assets Symbols Symbol Heraldry Crystal Pirate Crew Crystal Pirate Crew.svg]]
-- [[Master_Artificer_Coral_Gemwright (People)]]
-- [[Consortium Security Constructs (D&D_References)]]
+- [[[Consortium Security Constructs]]
+- [[[[Assets Symbols [Symbol Heraldry]] [[Crystal Pirate [Crew Crystal]] [[Pirate Crew.svg]]
+- [[Master_Artificer_Coral_Gemwright (People)
+- [[[Consortium Security]] Constructs (D&D_References)]]
+
+## [[Session Summary
+*Brief overview of this session*
+
+## [Key Events]]
+- Event 1
+- Event 2
+
+## NPCs Encountered
+- [[NPC [Name]] - Brief description
+
+## [[Locations Visited
+- [[[Location Name]]]] - What happened here
+
+## [[Quest Progress
+- [[[Quest Name]]]] - What was accomplished
+
+## Notes for [[Next Session]]
+- Important things to remember
+- Plot threads to follow up
+
+---

@@ -2,7 +2,7 @@
 
 title: Guardian Isolation Syndrom (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,12 +42,11 @@ updated: '2025-08-13T01:18:35.507114+00:00'
 
 - A corpse reveals ancient history about the cult
 - The authorities needs help delivering before dawn
-- The authorities needs help stealing before the new moon ## Related Notes - [[Similar Topic 1]]
+- The authorities needs help stealing before the new moon ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

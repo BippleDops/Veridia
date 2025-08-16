@@ -7,13 +7,13 @@ created: '2025-08-08'
 created_by: auto-stub
 danger_level: High
 faction: '[[02_Worldbuilding/Groups/Memory Thieves Guil|02 Worldbuilding/Groups/Memory
-  Thieves Guil]]'
+  Thieves Guil'
 influence: Moderate
-location: '[[02_Worldbuilding/Places/The Shadow Markets]]'
+location: '[02_Worldbuilding/Places/The Shadow Markets]]'
 obsidianUIMode: preview
 race: Changeling
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/faction
@@ -33,14 +33,8 @@ updated: '2025-08-13T12:34:16.950522+00:00'
 world: Aquabyssos
 ---
 
-
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-memory-thief-the-memory-thief.svg)
-
-
-
 
 # The Memory Thief
 *Dealer in Stolen Thoughts*
@@ -50,9 +44,9 @@ world: Aquabyssos
 
 ## Overview
 
-Known only as **The Memory Thief**, this enigmatic changeling operates as one of [[02_Worldbuilding/Places/Aquabyssos]]' most skilled and dangerous practitioners of memory manipulation magic, specializing in the extraction, modification, and theft of personal memories for both criminal and quasi-legitimate purposes. Their true identity remains unknown, hidden behind a constantly shifting array of false personas and carefully crafted illusions.
+Known only as **The Memory Thief**, this enigmatic changeling operates as one of [[02_Worldbuilding/Places/Aquabyssos' most skilled and dangerous practitioners of memory manipulation magic, specializing in the extraction, modification, and theft of personal memories for both criminal and quasi-legitimate purposes. Their true identity remains unknown, hidden behind a constantly shifting array of false personas and carefully crafted illusions.
 
-Working from the shadows of [[02_Worldbuilding/Places/Abyssos Prime]]'s underworld, The Memory Thief provides services ranging from helping trauma victims forget painful experiences to stealing valuable information from the minds of unwilling targets. Their reputation for discretion and effectiveness has made them both a sought-after specialist and a feared threat to anyone with secrets worth protecting.
+Working from the shadows of [02_Worldbuilding/Places/Abyssos Prime]]'s underworld, The Memory Thief provides services ranging from helping trauma victims forget painful experiences to stealing valuable information from the minds of unwilling targets. Their reputation for discretion and effectiveness has made them both a sought-after specialist and a feared threat to anyone with secrets worth protecting.
 
 Their operations represent the cutting edge of memory-based crime, utilizing advanced magical techniques and sophisticated understanding of mental processes that surpasses most legitimate researchers. The psychological and social implications of their work have made them a priority target for law enforcement while simultaneously creating a growing demand for their unique services.
 
@@ -117,7 +111,7 @@ Their operations represent the cutting edge of memory-based crime, utilizing adv
 
 **Level**: 11th level Rogue/Enchanter (7/4)  
 **Armor Class**: 16 (Studded Leather + Dex + Mental Shields)  
-**Hit Points**: 82 (11d8 + 33)  
+**Hit Points**: 82 (`dice: 11d8` + 33)  
 **Speed**: 30 ft.  
 
 **Ability Scores**:
@@ -212,7 +206,7 @@ Their operations represent the cutting edge of memory-based crime, utilizing adv
 **Personal Revenge**: Clients seeking to psychologically damage enemies through memory manipulation.
 
 ### Underground Network
-**[[02_Worldbuilding/Groups/Memory Thieves Guil|02 Worldbuilding/Groups/Memory Thieves Guil]]**: Professional organization providing resources, training, and mutual protection.
+**[[02_Worldbuilding/Groups/Memory Thieves Guil|02 Worldbuilding/Groups/Memory Thieves Guil**: Professional organization providing resources, training, and mutual protection.
 
 **Fence Operations**: Criminal networks that handle stolen memories as valuable commodities.
 
@@ -250,7 +244,7 @@ A series of perfect crimes have been committed with all witnesses having their m
 - High-stakes conflict with implications for criminal justice system
 
 ### The Memory Plague (Levels 9-11)
-Something is causing widespread memory loss throughout [[02_Worldbuilding/Places/Abyssos Prime]], and The Memory Thief is suspected of either causing the problem or being one of its victims. The party must navigate the chaos while determining the true cause and finding a solution.
+Something is causing widespread memory loss throughout [02_Worldbuilding/Places/Abyssos Prime]], and The Memory Thief is suspected of either causing the problem or being one of its victims. The party must navigate the chaos while determining the true cause and finding a solution.
 
 **Key Elements**:
 - City-wide crisis requiring large-scale investigation and coordination
@@ -267,7 +261,7 @@ The Memory Thief's advanced techniques suggest access to knowledge or resources 
 Their client base likely includes powerful political and economic figures, making them a repository of sensitive information about high-level corruption and conspiracy.
 
 ### Law Enforcement Response
-The challenge of investigating memory-based crimes has forced [[02_Worldbuilding/Places/Aquabyssos]] authorities to develop new techniques and protocols, potentially changing the nature of criminal justice.
+The challenge of investigating memory-based crimes has forced [[02_Worldbuilding/Places/Aquabyssos authorities to develop new techniques and protocols, potentially changing the nature of criminal justice.
 
 ### Social Impact
 The existence of reliable memory modification technology raises fundamental questions about identity, justice, and the nature of human experience that society is still struggling to address.
@@ -297,13 +291,12 @@ The existence of reliable memory modification technology raises fundamental ques
 *"Everyone wants to remember the good times and forget the bad, but memory is not so simple. Take away the pain, and you may lose the wisdom. Add false joy, and you risk destroying genuine happiness. I am an artist working with the most delicate medium in existence—the human soul."*  
 — The Memory Thief, explaining their philosophy to a client
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/New Tethys]]
-- [[02_Worldbuilding/Places/Secret Vault Beneath Throne]]
-- [[02_Worldbuilding/Places/Shadow Market Canals]]
-- [[02_Worldbuilding/Places/Vote Vaults]]
+- [02_Worldbuilding/Places/New Tethys]]
+- [[02_Worldbuilding/Places/Secret Vault Beneath Throne
+- [02_Worldbuilding/Places/Shadow Market Canals]]
+- [[02_Worldbuilding/Places/Vote Vaults
 
 ## Player-Facing Summary
 
@@ -325,31 +318,26 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Memory Thief]]
+- [02_Worldbuilding/Places/Memory Thief]]
 
 <!-- enriched: true -->
 - [[02_Worldbuilding/Places/Abyssos Prime]]
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

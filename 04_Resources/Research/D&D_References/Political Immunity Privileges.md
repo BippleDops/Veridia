@@ -2,7 +2,7 @@
 
 title: Political Immunity Privileges
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,12 +42,11 @@ updated: '2025-08-13T01:18:35.110492+00:00'
 
 - A document has gone missing and truth emerges
 - A prisoner has gone missing and chaos spreads
-- Someone is protecting a witness for love ## Related Notes - [[Similar Topic 1]]
+- Someone is protecting a witness for love ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]]
 
 ## Notes
 

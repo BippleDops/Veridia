@@ -2,7 +2,7 @@
 
 title: Spymaster Crow
 type: Location
-tags:
+tags: 
 - aquabyssos
 - access/secret
 - status/complete
@@ -289,7 +289,7 @@ The network operates on a favor-based economy:
 - **Life Debts**: Saving network members or providing crucial services
 
 ### Security Measures
-**Coded Communications**: All messages use rotating ciphers (DC 20 Intelligence check to decode without keys)
+**Coded Communications**: All messages use rotating ciphers (**DC 20** Intelligence check to decode without keys)
 **Counter-Surveillance**: Network locations have magical and mundane early warning systems
 **Loyalty Tests**: Regular missions designed to test member commitment and identify potential traitors
 
@@ -498,22 +498,19 @@ Ongoing situations affecting Spymaster Crow:
 
 ## References
 
-- [[Investigation Procedures]]
-- [[Memory Merchant Zephyr Mindweaver]]
-- [[Pressure's End]]
-- [[Pressure's End (D&D_References)]]
+- [[Investigation Procedures
+- [Memory Merchant Zephyr Mindweaver]]
+- [[Pressure's End
+- [Pressure's End (D&D_References)]]
 - [[Memory Merchant Zephyr Mindweaver (D&D_Statblocks)]]
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

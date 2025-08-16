@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - both
 - complete
 - content/lore
@@ -13,16 +13,12 @@ updated: '2025-08-13T12:34:15.866824+00:00'
 world: Both
 ---
 
-
-
-
 re
 world: Aquabyssos
 status: draft
 created: 2025-08-11
 updated: 2025-08-11
 ---
-
 
 ## Overview
 
@@ -50,9 +46,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Shadow Ambush - Optional|02 Worldbuilding/Groups/Shadow Ambush Optional]]
-
+- [[02_Worldbuilding/Groups/Shadow Ambush - Optional|02 Worldbuilding/Groups/Shadow Ambush Optional
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Ambush - Optional]]
+- [02_Worldbuilding/Groups/Criminal_Organizations/Shadow Ambush - Optional]]

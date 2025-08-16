@@ -2,7 +2,7 @@
 
 title: Crystal Plague Progression System (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -62,12 +62,11 @@ updated: '2025-08-13T01:18:35.536257+00:00'
 **No further saves** ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is hunting a witness for love
 
 - Someone is blackmailing a artifact for money
-- Strange sightings suggest a conspiracy ## Related Notes - [[Similar Topic 1]]
+- Strange sightings suggest a conspiracy ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

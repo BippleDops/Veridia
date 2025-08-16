@@ -2,7 +2,7 @@
 
 title: Spy Games
 type: Location
-tags:
+tags: 
 - aquabyssos
 - content/adventure
 - mechanics/exploration
@@ -364,11 +364,9 @@ Mentioned in The Hidden Prophecy of Shadows
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

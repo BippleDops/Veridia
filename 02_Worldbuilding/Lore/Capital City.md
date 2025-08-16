@@ -1,22 +1,22 @@
 ---
 title: Capital City
 type: note
-tags:
+tags: 
 - auto-generated
-- [[Link]]ed
+- [[Linked
 created: '2025-01-15'
 ---
 
 # Capital City
 
 ## Overview
-This topic is referenced in [[Cure Component Locations]] and other parts of the campaign.
+This topic is referenced in [Cure Component Locations]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Cure Component Locations]]
+- Referenced by: [[Cure Component Locations
 - Related topics in the same category
 
 ## Details
@@ -29,13 +29,13 @@ Further information about this topic will be developed as the campaign progresse
 
 ## References
 
-- [[Cure Component Locations]]
-- [[Location Name (Lore)]]
-- [[Abyssos Prime Docks]]
-- [[Blood Current Express]]
-- [[Mourning Depths]]
-- [[Pressure Terminal]]
-- [[Royal Palace]]
-- [[The Depth Market]]
-- [[The Sinking Atoll]]
+- [Cure Component Locations]]
+- [[Location Name (Lore)
+- [Abyssos Prime Docks]]
+- [[Blood Current Express
+- [Mourning Depths]]
+- [[Pressure Terminal
+- [Royal Palace]]
+- [[The Depth Market
+- [The Sinking Atoll]]
 - [[The Maw of Darkness]]

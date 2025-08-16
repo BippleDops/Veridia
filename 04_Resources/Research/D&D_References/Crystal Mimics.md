@@ -2,7 +2,7 @@
 
 title: Crystal Mimics
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -53,10 +53,8 @@ Surface crystal miners and magical researchers have adapted their practices to a
 2. **Mining Disaster**: Crystal Mimics have infiltrated a working mine, causing mysterious accidents and disappearances
 3. **The Perfect Heist**: Thieves discover their stolen "crystals" are actually mimics that followed them home ## Secrets (DM Only) Crystal Mimics are actually evolving toward a more cooperative relationship with intelligent races. Some specimens have begun leaving valuable crystals as "bait" to study magic-users, learning to differentiate between threats and potential symbiotic partners. A secret research project is attempting to establish communication protocols. ## Campaign Use Crystal Mimics work excellent as both combat encounters and puzzle elements. Use them to create tension around treasure discovery and make players second-guess valuable finds. They can serve as recurring threats that adapt to party tactics, becoming more challenging over time as they learn from each encounter. ## Player-Facing Summary Crystal Mimics is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Crystal Mimics as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Crystal Mimics. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Plot Hooks - The authorities needs help finding before the new moon
 
-
 - A document has gone missing and evil awakens
 - Someone is blackmailing a witness for revenge ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Aethermoor - Session 02 The Lighthouse of Storms]]
-
 
 ## Notes
 

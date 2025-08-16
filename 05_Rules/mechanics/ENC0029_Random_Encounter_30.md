@@ -2,7 +2,7 @@
 aliases: ["Random Encounter 30", "random encounter 30", "30 Encounter Random"]
 tags: [generated]
 id: ENC0029_Random_Encounter_30
-created: 2025-08-15T04:09:51.443Z
+created: "2025-08-15T04:09:51.443Z"
 generator: mega_generator_10k
 ---
 # Random Encounter 30
@@ -10,7 +10,7 @@ generator: mega_generator_10k
 *Medium encounter for Dungeon environment*
 
 ## Enemies
-- 1d4 Dire Wolves
+- `dice: 1d4` Dire Wolves
 
 ## Tactics
 Enemies coordinate attacks and use terrain to their advantage

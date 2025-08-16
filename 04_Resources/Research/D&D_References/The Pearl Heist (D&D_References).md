@@ -2,7 +2,7 @@
 
 title: The Pearl Heist (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -84,7 +84,6 @@ The Pearl Heist refers to the most audacious theft in Aquabyssos history, when c
 4. Additionally, **Criminal Evolution:** Local thieves developed unprecedented capabilities
 5. **Time Travel:** Futuristic criminals using anachronistic technology ## Adventure Hooks
 
-
 1. New evidence surfaces linking party member's past to the heist
 2. Pearl spotted in black market auction requiring investigation
 3. Copycat heist targets party's valuables or employer
@@ -92,11 +91,9 @@ The Pearl Heist refers to the most audacious theft in Aquabyssos history, when c
 5. Government contracts party to finally solve the cold case
 6. Pearl's theft destabilizes ocean currents, threatening city ## Cultural Legacy
 
-
 The Pearl Heist has become legendary, inspiring criminals while haunting law enforcement. "Pearl Heist" is now slang for any perfectly executed theft, while "vault security" has become synonymous with false confidence. ## DM Notes
 
 The Pearl Heist provides excellent background for heist adventures, criminal investigations, or political intrigue. Use it as inspiration for similar crimes or as backstory revealing character connections to notorious criminals. ## Player-Facing Summary The Pearl Heist is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Pearl Heist as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Pearl Heist. ## Cross-References - [[The Pearl Heist|02 Worldbuilding/People/The Pearl Heist]] iched: true --> ## Related *Links to related content will be added here.*
-
 
 ## Notes
 

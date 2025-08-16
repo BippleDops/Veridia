@@ -1,0 +1,74 @@
+---
+
+title: greek-pan (deities)
+type: note
+tags: 
+- note
+
+created: '2025-01-15'
+modified: '2025-01-15'
+aliases: ["greek-pan (deities)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
+---
+
+ # greek-pan ---
+
+## Description
+
+Detailed description pending.
+title: greek pan
+aliases:
+- Pan
+
+type: note
+tags:
+- ttrpg-cli/compendium/src/5e/phb
+- ttrpg-cli/deity/greek
+- research
+- world/both
+- active
+- note
+- status/in-progress
+- importance/core
+
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-deity
+obsidian UIMode: preview
+updated: '2025-08-12T23:37:33.977285'
+world: Both
+
+--- # Pan
+
+*Source: Player's Handbook p. 298. Available in the SRD* - **Alignment**: Chaotic Neutral
+- **Domains**: Nature
+- **Pantheon**: Greek
+- **Symbol**: Syrinx (pan pipes) ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Greek pan is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of greek pan as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around greek pan. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. Enriched: true --> ## Related *Links to related content will be added here.* ## Plot Hooks - Strange dreams suggest a curse
+
+- Strange dreams suggest ancient magic
+- A journal reveals the truth about the government
+- Strange dreams suggest ancient magic ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Cleric Xphb Nature Domain
+
+- [cleric-xphb-nature-domain (classes)]]
+- [[cleric-xphb-nature-domain 2 (classes)
+- [The Greek Pantheon Greek Deities Phb]]
+- [[the-greek-pantheon-greek-deities-phb (tables)]]
+
+## Notes
+
+*Additional notes*
+
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#meta/reference

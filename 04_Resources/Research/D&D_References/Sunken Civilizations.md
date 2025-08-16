@@ -2,7 +2,7 @@
 
 title: Sunken Civilizations
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,14 +42,13 @@ updated: '2025-08-13T01:18:35.153294+00:00'
 
 - A corpse reveals a conspiracy about this place
 - A prisoner has gone missing and chaos spreads
-- The authorities needs help investigating before dawn ## Related Notes - [[Similar Topic 1]]
+- The authorities needs help investigating before dawn ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Abyssos Prime - Inverse Palace]]
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Abyssos Prime - Inverse Palace
 
-- [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]]
-
+- [Abyssos Prime - Inverse Palace (D&D_Statblocks)]]
 
 ## Notes
 

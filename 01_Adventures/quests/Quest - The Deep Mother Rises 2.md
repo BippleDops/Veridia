@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - aethermoor
 - complete
 - content/adventure
@@ -13,11 +13,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.335953+00:00'
 world: Aethermoor
 ---
-
-
-
-
-
 
 ## Overview
 
@@ -45,33 +40,27 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - The Crystal Festival]]
-
+- [[02_Worldbuilding/Quests/Quest - The Crystal Festival
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Quest - The Crystal Festival]]
-
+- [02_Worldbuilding/Quests/Quest - The Crystal Festival]]
 
 ## Timeline
 - Key events
 - Deadlines
 
-
 ## NPCs Involved
 - Quest giver
 - Antagonists
-
 
 ## Locations
 - Starting point
 - Key locations
 
-
 ## Complications
 - Potential problems
 - Twists
-
 
 ## Alternative Solutions
 - Non-combat options

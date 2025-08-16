@@ -2,7 +2,7 @@
 created: '2025-08-11'
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - both
 - complete
 - content/location
@@ -14,14 +14,8 @@ updated: '2025-08-13T12:34:16.542282+00:00'
 world: Both
 ---
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-aquabyssos-government-aquabyssos-government.svg)
-
-
-
-
-
 
 ## Overview
 
@@ -62,35 +56,29 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Aquabyssos Government]]
+- [[02_Worldbuilding/Places/Aquabyssos Government
 
 <!-- enriched: true -->
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/Keeper of the Past, Elderly Morgan]]
-
+- [02_Worldbuilding/Places/Keeper of the Past, Elderly Morgan]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

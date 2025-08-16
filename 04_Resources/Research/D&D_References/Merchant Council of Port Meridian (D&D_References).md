@@ -2,7 +2,7 @@
 
 title: Merchant Council of Port Meridian (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,7 +43,6 @@ danger_level: Moderate
 - Strange accidents suggest a conspiracy
 - An heirloom has gone missing and chaos spreads
 - Someone is hunting a witness for money ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

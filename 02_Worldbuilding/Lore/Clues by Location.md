@@ -1,8 +1,8 @@
 ---
 
-title: Clues by [[location]]
-type: [[Lore]]
-tags:
+title: Clues by [[location
+type: [Lore]]
+tags: 
 - lore
 - [[Aquabyssos]]
 - status/complete
@@ -16,10 +16,10 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-accessibility:
+accessibility: 
   content_warnings: []
   pronunciation: Clues by Location
-  safety_tools:
+  safety_tools: 
   - Lines & Veils
   - X-Card
   screen_reader_summary: This lore entry explains a pivotal principle or event and
@@ -47,7 +47,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -67,7 +67,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[region]]s
+- Describe how this culture exists in other [region]]s
 
 ### Contradictions Improvements
 
@@ -97,7 +97,7 @@ Clues by Location is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Clues by Location as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Clues by Location.
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -129,28 +129,23 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Ancient Empire]]
-
+- [Ancient Empire]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

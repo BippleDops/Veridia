@@ -3,7 +3,7 @@ created: '2025-08-08'
 created_by: auto-stub
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/adventure
@@ -19,13 +19,8 @@ updated: '2025-08-13T12:34:17.046855+00:00'
 world: Aquabyssos
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-spy-games-spy-games.svg)
-
-
-
 
 # Spy Games
 
@@ -172,10 +167,9 @@ Someone is selling state secrets to foreign powers, but the spy network has beco
 ## DM Notes
 Spy Games emphasizes roleplay, investigation, and moral choices over combat. Keep players uncertain about NPC loyalties. Use revealed information to drive future storylines and create complex political situations.
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/The Wandering Atoll]]
+- [[02_Worldbuilding/Places/The Wandering Atoll
 
 ## Player-Facing Summary
 
@@ -187,30 +181,25 @@ Legends speak of Spy Games as a nexus where past and present converge. Locals de
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Spy Games]]
+- [02_Worldbuilding/Places/Spy Games]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

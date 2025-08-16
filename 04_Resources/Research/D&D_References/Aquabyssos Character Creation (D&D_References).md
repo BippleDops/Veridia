@@ -2,7 +2,7 @@
 
 title: Aquabyssos Character Creation (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -66,21 +66,17 @@ Practical, table-ready rules for Aquabyssos Character Creation across Aquabyssos
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Possessions
 - Personal items
 - Valuable objects
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Secrets
 - Hidden knowledge

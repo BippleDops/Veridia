@@ -1,8 +1,8 @@
 ---
 enhanced: true
 tags: [enhanced, 03_people]
-created: 2025-08-15T12:24:43.150008
-modified: 2025-08-15T12:24:43.150011
+created: "2025-08-15T12:24:43.150008"
+modified: "2025-08-15T12:24:43.150011"
 aliases: [NPC Name]
 ---
 
@@ -23,7 +23,7 @@ category: 03 People
 subcategory: Npc Name.Md
 related: []
 cssclass: standard
-publish: false --- # NPC Name ## Portrait![[Npc|Npc]] *Portrait reference for NPC Name* ## Overview This topic is referenced in [[Quest_Template|Quest Template]] and other parts of the campaign. ## Description
+publish: false --- # NPC Name ## Portrait![[Npc|Npc *Portrait reference for NPC Name* ## Overview This topic is referenced in [Quest_Template|Quest Template]] and other parts of the campaign. ## Description
 
 **Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. An important element of the campaign world that connects to various other aspects of the adventure.
 *Sounds of [relevant sounds] echo in the distance.* ## Connections - Referenced by: [[Quest_Template|Quest Template]]
@@ -41,9 +41,9 @@ publish: false --- # NPC Name ## Portrait![[Npc|Npc]] *Portrait reference for NP
 - Similar topics
 - Connected elements ## Alternate Descriptions - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
-- **Hidden Details**: Secret aspects ## DM Tips > 💡 **Running This Content**: Advice for game masters > Adjust difficulty based on party composition ## References - [[Assets Locations Location City Harbor Pilot Captain Storm Skyreacher V1 Harbor Pilot Captain Storm Skyreacher.svg|Assets Locations Location City Harbor Pilot Captain Storm Skyreacher V1 Harbor Pilot Captain Storm Skyreacher.Svg]] - [[NPC Name_Quick_Ref|Npc Name Quick Ref]]
-- [[Location_Template_1 (09_Templates)|Location Template 1 (09 Templates)]]
-- [[Quest_Template|Quest Template]] ## Notes {#notes} *Additional notes* #mechanics/combat
+- **Hidden Details**: Secret aspects ## DM Tips > 💡 **Running This Content**: Advice for game masters > Adjust difficulty based on party composition ## References - [[Assets Locations Location City Harbor Pilot Captain Storm Skyreacher V1 Harbor Pilot Captain Storm Skyreacher.svg|Assets Locations Location City Harbor Pilot Captain Storm Skyreacher V1 Harbor Pilot Captain Storm Skyreacher.Svg - [NPC Name_Quick_Ref|Npc Name Quick Ref]]
+- [[Location_Template_1 (09_Templates)|Location Template 1 (09 Templates)
+- [Quest_Template|Quest Template]] ## Notes {#notes} *Additional notes* #mechanics/combat
 #story/plot
 #story/story
 #world/location
@@ -65,7 +65,6 @@ publish: false --- # NPC Name ## Portrait![[Npc|Npc]] *Portrait reference for NP
 - Special moves ## Secrets {#secrets}
 - Hidden knowledge
 - Personal mysteries
-
 
 **Key Question**: What drives this character's actions?
 

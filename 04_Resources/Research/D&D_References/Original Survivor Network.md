@@ -2,7 +2,7 @@
 
 title: Original Survivor Network
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,11 +42,10 @@ updated: '2025-08-13T01:18:35.277955+00:00'
 
 - Someone is hunting an heir for revenge
 - Someone is protecting a witness for power
-- Strange disappearances suggest a conspiracy ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Consequence Chain 1 - Shadow Conspiracy Exposure]]
+- Strange disappearances suggest a conspiracy ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Consequence Chain 1 - Shadow Conspiracy Exposure
 
-- [[Consequence Chain 1 - Shadow Conspiracy Exposure (D&D_References)]]
+- [Consequence Chain 1 - Shadow Conspiracy Exposure (D&D_References)]]
 - [[Consequence Chain 1 - Shadow Conspiracy Exposure 3 (D&D_References)]]
-
 
 ## Notes
 

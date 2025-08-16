@@ -1,7 +1,7 @@
 ---
 created: '2025-08-12'
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/lore
@@ -17,8 +17,6 @@ type: Lore
 updated: '2025-08-13T12:34:15.774754+00:00'
 world: Aquabyssos
 ---
-
-
 
 # Relationship Web Nuances
 *"Every connection tells a story, and every story shapes the depths"*

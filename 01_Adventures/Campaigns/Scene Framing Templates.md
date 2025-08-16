@@ -200,8 +200,6 @@ That's when the earthquake—no, the muscle spasm—hits..." --- ### When You Ne
 11. "Everyone's shadows stand up simultaneously..."
 12. "Roll initiative—but you don't know why yet..." --- ### Smooth Transitions Between Scenes **From Investigation to Combat**:
 
-
-
 > "Your investigation bears fruit—bitter, poisonous fruit. The killer is..." **From Combat to Social**:
 > "As the last enemy falls, you realize you're not alone. Watching from..." **From Social to Horror**:
 > "The negotiation is going well. Too well. That's when you notice..." **From Horror to Downtime**:
@@ -224,12 +222,11 @@ That's when the earthquake—no, the muscle spasm—hits..." --- ### When You Ne
 - Unclear stakes --- *Remember: Every scene should advance story, develop character, or raise stakes. If it doesn't do at least one, cut it and frame something that does.* **The perfect scene starts with a bang, middles with meaning, and ends with a gasp.** ## Player-Facing Summary Scene Framing Templates is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Scene Framing Templates as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Scene Framing Templates. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is searching for a witness for love
 
 - Strange dreams suggest ancient magic
-- A stranger needs help finding before the new moon ## Related Notes - [[Similar Topic 1]]
+- A stranger needs help finding before the new moon ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

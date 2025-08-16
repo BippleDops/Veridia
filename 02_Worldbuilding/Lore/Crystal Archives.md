@@ -1,9 +1,9 @@
 ---
 title: Crystal Archives
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - content/adventure
 - world/aquabyssos
 - content/lore

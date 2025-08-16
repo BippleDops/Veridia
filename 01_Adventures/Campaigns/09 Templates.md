@@ -1,7 +1,6 @@
 ---
-title: 09 Templates
 type: note
-tags:
+tags: 
 - auto-generated
 - linked
 created: '2025-01-15'
@@ -10,13 +9,13 @@ created: '2025-01-15'
 # 09 Templates
 
 ## Overview
-This topic is referenced in [[VAULT_MASTER_INDEX]] and other parts of the campaign.
+This topic is referenced in [[VAULT_MASTER_INDEX and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[VAULT_MASTER_INDEX]]
+- Referenced by: [VAULT_MASTER_INDEX]]
 - Related topics in the same category
 
 ## Details

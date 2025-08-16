@@ -1,8 +1,8 @@
 ---
 enhanced: true
 tags: [enhanced, 03_people]
-created: 2025-08-15T12:24:41.261914
-modified: 2025-08-15T12:24:41.261916
+created: "2025-08-15T12:24:41.261914"
+modified: "2025-08-15T12:24:41.261916"
 aliases: [NPC3]
 ---
 
@@ -25,7 +25,7 @@ type: note
 tags:
 - auto-generated
 - linked created: '2025-01-15'
-- -- # NPC3 ## Portrait![[NPC3|Npc3]] * Portrait reference for NPC3* ## Overview This topic is referenced in [[Npc|Npc]] and other parts of the campaign. ## Description
+- -- # NPC3 ## Portrait![[NPC3|Npc3 * Portrait reference for NPC3* ## Overview This topic is referenced in [Npc|Npc]] and other parts of the campaign. ## Description
 
 **Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. An important element of the campaign world that connects to various other aspects of the adventure.
 *The air carries the scent of [appropriate smell].* ## Connections - Referenced by: [[Npc|Npc]]
@@ -43,9 +43,9 @@ tags:
 - Similar topics
 - Connected elements ## Alternate Descriptions - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
-- **Hidden Details**: Secret aspects ## References - [[Assets Symbols Symbol Heraldry Ancient Mer Folk Empire Ancient Mer Folk Empire.svg|Assets Symbols Symbol Heraldry Ancient Mer Folk Empire Ancient Mer Folk Empire.Svg]] - [[NPC3_Quick_Ref|Npc3 Quick Ref]]
-- [[Location_Template_1 (09_Templates)|Location Template 1 (09 Templates)]]
-- [[NPC_Template_1 (09_Templates)|Npc Template 1 (09 Templates)]] ## Notes {#notes} *Additional notes* #mechanics/combat
+- **Hidden Details**: Secret aspects ## References - [[Assets Symbols Symbol Heraldry Ancient Mer Folk Empire Ancient Mer Folk Empire.svg|Assets Symbols Symbol Heraldry Ancient Mer Folk Empire Ancient Mer Folk Empire.Svg - [NPC3_Quick_Ref|Npc3 Quick Ref]]
+- [[Location_Template_1 (09_Templates)|Location Template 1 (09 Templates)
+- [NPC_Template_1 (09_Templates)|Npc Template 1 (09 Templates)]] ## Notes {#notes} *Additional notes* #mechanics/combat
 #story/plot
 #story/story
 #world/location
@@ -67,17 +67,15 @@ tags:
 - Hidden knowledge
 - Personal mysteries
 
-
 **Key Question**: What drives this character's actions?
 ## DM Guidance
 - **Usage**: How to best utilize this in your campaign
 - **Adaptation**: Ways to modify for your needs
 - **Connections**: How this links to other elements
 
-
 *Adventure awaits those brave enough to seek it.*
 
 ## Visual References
-![[04_Resources/Assets/Portraits/NPCs/portrait_npc3.png]]
-![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_npc3_people_friendly.png]]
+![[04_Resources/Assets/Portraits/NPCs/portrait_npc3.png
+![04_Resources/Assets/Portraits/NPCs/Minor/portrait_npc3_people_friendly.png]]
 ![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_npc3_people_dramatic.png]]

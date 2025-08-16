@@ -2,7 +2,7 @@
 
 title: Marianas Abyss
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -41,10 +41,9 @@ updated: '2025-08-13T01:18:35.225955+00:00'
 
 - Someone is protecting an heir for power
 - Strange accidents suggest a conspiracy
-- A letter reveals ancient history about the cult ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[The Breathing Stone]]
+- A letter reveals ancient history about the cult ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[The Breathing Stone
 
-- [[The Breathing Stone (D&D_References)]]
-
+- [The Breathing Stone (D&D_References)]]
 
 ## Notes
 

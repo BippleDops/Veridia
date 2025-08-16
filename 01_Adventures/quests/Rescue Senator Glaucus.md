@@ -1,13 +1,13 @@
 ---
-title: Rescue [[Senator]] Glaucus
+title: Rescue [[Senator Glaucus
 type: quest
-tags:
+tags: 
 - quest
 created: '2025-01-15'
 modified: '2025-01-15'
 ---
 
-# Rescue [[Senator Glaucus]]
+# Rescue [Senator Glaucus]]
 
 ## Overview
 This document contains important information regarding Rescue Senator Glaucus and its role within the greater narrative.
@@ -17,12 +17,12 @@ Rescue Senator Glaucus represents a significant element within the campaign worl
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: [[Link]]ed to multiple other elements
+- **Connections**: [[Linked to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-[[Historical Context]] and development over [[Time]].
+[Historical Context]] and development over [[Time.
 
 ### Current State
 Present circumstances and ongoing relevance.
@@ -43,7 +43,7 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## [[DM_Notes]]
+## [DM_Notes]]
 *Customize as needed for your specific campaign requirements.*
 
 ## Campaign Notes
@@ -51,29 +51,24 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
-- [[The Maw of Darkness (D&D_Statblocks)]]
-
+- [[Aquabyssos - Session 03 - The Gallery Conspiracy
+- [The Maw of Darkness (D&D_Statblocks)]]
 
 ## Timeline
 - Key events
 - Deadlines
 
-
 ## NPCs Involved
 - Quest giver
 - Antagonists
-
 
 ## Locations
 - Starting point
 - Key locations
 
-
 ## Complications
 - Potential problems
 - Twists
-
 
 ## Alternative Solutions
 - Non-combat options

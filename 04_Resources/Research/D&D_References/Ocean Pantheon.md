@@ -2,7 +2,7 @@
 
 title: Ocean Pantheon
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,7 +42,6 @@ updated: '2025-08-13T01:18:34.942342+00:00'
 - An heirloom has gone missing and war looms
 - Strange sightings suggest a conspiracy
 - A prisoner has gone missing and truth emerges ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

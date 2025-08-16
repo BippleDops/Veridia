@@ -2,7 +2,7 @@
 
 title: The Deepmind Conspiracy (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -76,7 +76,6 @@ The Deepmind Conspiracy alleges that powerful psionics are secretly manipulating
 4. Additionally, **Full Conspiracy:** Extensive network exactly as described
 5. **Misdirection:** Real conspiracy using false psychic narrative as cover ## Adventure Hooks
 
-
 1. Investigation into specific conspiracy claims reveals deeper mysteries
 2. Party members begin experiencing unexplained memory gaps
 3. Alleged conspiracy victim requests protection and verification
@@ -84,15 +83,13 @@ The Deepmind Conspiracy alleges that powerful psionics are secretly manipulating
 5. Foreign agents seek party assistance in psychic intelligence gathering
 6. Underground resistance recruits party to fight supposed mind controllers ## Social Impact
 
-
 The conspiracy theory has increased paranoia and social tension. Mental protection charms sell briskly while citizens become suspicious of authority figures and even close associates. ## DM Notes
 
-The Deepmind Conspiracy works whether true or false. If real, it provides shadowy antagonists operating through mental manipulation. If false, it creates social paranoia and investigative red herrings while exploring themes of trust and evidence. ## Player-Facing Summary The Deepmind Conspiracy is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Deepmind Conspiracy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Deepmind Conspiracy. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil ## Related Notes - [[Similar Topic 1]]
+The Deepmind Conspiracy works whether true or false. If real, it provides shadowy antagonists operating through mental manipulation. If false, it creates social paranoia and investigative red herrings while exploring themes of trust and evidence. ## Player-Facing Summary The Deepmind Conspiracy is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Deepmind Conspiracy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Deepmind Conspiracy. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]]
 
 ## Notes
 

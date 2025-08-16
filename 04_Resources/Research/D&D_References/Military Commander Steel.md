@@ -2,7 +2,7 @@
 
 title: Military Commander Steel
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,7 +42,6 @@ updated: '2025-08-13T01:18:35.202020+00:00'
 
 - A noble needs help investigating before the festival
 - The authorities needs help finding before the festival ## References - [[Master Smith Vulcan Deepforge]]
-
 
 ## Notes
 

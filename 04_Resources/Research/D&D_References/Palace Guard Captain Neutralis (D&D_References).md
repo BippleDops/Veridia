@@ -2,7 +2,7 @@
 
 title: Palace Guard Captain Neutralis (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -47,12 +47,11 @@ Palace Guard Captain Neutralis is a living crossroads where memory-currents and 
 
 - Someone is blackmailing an heir for money
 - An heirloom has gone missing and war looms
-- A journal reveals a betrayal about the cult ## Related Notes - [[Similar Topic 1]]
+- A journal reveals a betrayal about the cult ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

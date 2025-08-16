@@ -2,7 +2,7 @@
 
 title: Defense Contractors
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,14 +42,13 @@ updated: '2025-08-13T01:18:34.866450+00:00'
 
 - Strange sightings suggest a curse
 - Someone is searching for information for love
-- A journal reveals the truth about a local noble ## Related Notes - [[Similar Topic 1]]
+- A journal reveals the truth about a local noble ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## References - [[Shadow Ambush - Optional (Criminal_Organizations)]]
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## References - [[Shadow Ambush - Optional (Criminal_Organizations)
 
-- [[Shadow Ambush - Optional]]
-
+- [Shadow Ambush - Optional]]
 
 ## Notes
 

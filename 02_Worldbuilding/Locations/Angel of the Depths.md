@@ -2,7 +2,7 @@
 
 title: Angel of the Depths
 type: Location
-tags:
+tags: 
 - aquabyssos
 - status/complete
 - shadow-corruption
@@ -206,23 +206,23 @@ The statue stands at the center of an ancient magical pact between the surface a
 
 ### Environmental Effects
 **Shadow Corruption Aura** (500-foot radius)
-- Living creatures must make a DC 15 Wisdom saving throw every hour or gain one level of corruption
+- Living creatures must make a **DC 15** Wisdom saving throw every hour or gain one level of corruption
 - Spells of 3rd level or lower have a 25% chance of being corrupted
 - Undead creatures gain advantage on all rolls within the aura
 
 **Divine Resoce** (100-foot radius)
 - Divine magic is enhanced, allowing spells to be cast at +1 level without using higher spell slots
 - Turn Undead attempts gain advantage
-- Corrupted creatures take 1d4 radiant damage each round
+- Corrupted creatures take `dice: 1d4` radiant damage each round
 
 ### Hazards
 **Whispering Madness**
-- DC 16 Wisdom saving throw when first approaching the statue
+- **DC 16** Wisdom saving throw when first approaching the statue
 - Failure results in being charmed for 1 hour, compelled to approach the statue
-- Critical failure causes temporary madness (1d4 hours)
+- Critical failure causes temporary madness (`dice: 1d4` hours)
 
 **Statue's Gaze**
-- When the statue's eyes begin to glow, all creatures within 120 feet must make DC 18 Constitution saves
+- When the statue's eyes begin to glow, all creatures within 120 feet must make **DC 18** Constitution saves
 - Failure causes paralysis for 1 minute as the target experiences visions of their deepest fears
 - Success grants resistance to necrotic damage for 24 hours
 
@@ -234,8 +234,8 @@ The statue stands at the center of an ancient magical pact between the surface a
 
 ### Encounter Suggestions
 
-**Random Encounters (1d6):**
-1. 2d4 Depth Wraiths emerge from the statue's base
+**Random Encounters (`dice: 1d6`):**
+1. `dice: 2d4` Depth Wraiths emerge from the statue's base
 2. The Guardian Leviathan investigates intruders
 3. Brother Matthias appears, seeking aid for a ritual
 4. A group of corrupted pilgrims arrive simultaneously
@@ -295,7 +295,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Angel of the Depths]]
+- [[Angel of the Depths
 
 riched: true -->
 
@@ -429,18 +429,15 @@ Ongoing situations affecting Angel of the Depths:
 
 ## References
 
-- [[Angel of the Depths (D&D_References)]]
-
+- [Angel of the Depths (D&D_References)]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

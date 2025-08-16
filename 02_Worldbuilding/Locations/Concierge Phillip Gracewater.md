@@ -2,7 +2,7 @@
 
 title: Concierge Phillip Gracewater
 type: Location
-tags:
+tags: 
 - helpful
 - aquabyssos
 - mechanics/social
@@ -111,11 +111,11 @@ improvements: 20
 
 ## Overview
 
-**Phillip Gracewater** serves as the head concierge at the [[Ambassador Lysandra Silvertonge's Embassy]], where his exceptional hospitality skills and cultural knowledge make him an invaluable asset to diplomatic operations. With over twelve years of experience in international relations and cultural exchange, Phillip has become the friendly face that visitors remember long after their diplomatic business is concluded.
+**Phillip Gracewater** serves as the head concierge at the [[Ambassador Lysandra Silvertonge's Embassy, where his exceptional hospitality skills and cultural knowledge make him an invaluable asset to diplomatic operations. With over twelve years of experience in international relations and cultural exchange, Phillip has become the friendly face that visitors remember long after their diplomatic business is concluded.
 
 As a Sea Elf with natural empathy and social intelligence, Phillip possesses an remarkable ability to make individuals from vastly different cultures feel welcomed and understood. His role extends far beyond simple hospitality—he serves as a cultural interpreter, information coordinator, and often the first point of contact for sensitive diplomatic communications.
 
-Phillip's extensive knowledge of both [[Aquabyssos]] and [[Aethermoor]] customs, combined with his genuine desire to help others, has made him a trusted figure among diplomatic personnel, visiting dignitaries, and local citizens who interact with the embassy. His position may seem humble, but his influence on the success of diplomatic missions is far greater than most realize.
+Phillip's extensive knowledge of both [Aquabyssos]] and [[Aethermoor customs, combined with his genuine desire to help others, has made him a trusted figure among diplomatic personnel, visiting dignitaries, and local citizens who interact with the embassy. His position may seem humble, but his influence on the success of diplomatic missions is far greater than most realize.
 
 ## Physical Description
 
@@ -128,7 +128,7 @@ Phillip's extensive knowledge of both [[Aquabyssos]] and [[Aethermoor]] customs,
 
 **Distinctive Traits**: 
 - **Embassy Pin**: Always wears the official embassy insignia indicating his position and authority
-- **Cultural Accessories**: Subtle jewelry and accessories that honor both [[Aquabyssos]] and [[Aethermoor]] traditions
+- **Cultural Accessories**: Subtle jewelry and accessories that honor both [Aquabyssos]] and [[Aethermoor traditions
 - **Perfect Grooming**: Maintains an impeccable appearance that reflects the embassy's professional standards
 - **Welcoming Smile**: Has a genuinely warm expression that immediately puts visitors at ease
 
@@ -159,7 +159,7 @@ Phillip's extensive knowledge of both [[Aquabyssos]] and [[Aethermoor]] customs,
 - **Languages**: Common, Elvish, Primordial (Aquan), Primordial (Air), Celestial
 
 ### The Missing Diplomat (Levels 1-3)
-Phillip notices that a minor diplomatic aide has failed to return from what should have been a routine cultural tour of [[Abyssos Prime]]. He discretely asks the party to investigate without creating a diplomatic incident.
+Phillip notices that a minor diplomatic aide has failed to return from what should have been a routine cultural tour of [Abyssos Prime]]. He discretely asks the party to investigate without creating a diplomatic incident.
 
 ### The Cultural Crisis (Levels 2-4)
 A major cultural misunderstanding threatens to derail important diplomatic negotiations. Phillip needs the party's help to identify the source of the conflict and find a solution that satisfies all parties.
@@ -169,9 +169,9 @@ Phillip suspects that someone has been using embassy events to gather intelligen
 
 ## Professional Network
 
-**Embassy Staff**: Works closely with [[Ambassador Lysandra Silvertonge]], [[Deputy Ambassador Torren Deepcurrent]], and [[Security Chief Commander Marina Tideguard]]
+**Embassy Staff**: Works closely with [[Ambassador Lysandra Silvertonge, [Deputy Ambassador Torren Deepcurrent]], and [[Security Chief Commander Marina Tideguard
 
-**Community Connections**: Maintains relationships with local service providers, cultural organizations, and government liaisons throughout [[Abyssos Prime]]
+**Community Connections**: Maintains relationships with local service providers, cultural organizations, and government liaisons throughout [Abyssos Prime]]
 
 **Cultural Organizations**: Connected with museums, cultural centers, and educational institutions supporting cultural exchange programs
 
@@ -315,19 +315,16 @@ Mentioned in The Hidden Prophecy of Shadows
 
 ## References
 
-- [[The Bathyal Palace]]
-- [[The Bathyal Palace (D&D_References)]]
-
+- [[The Bathyal Palace
+- [The Bathyal Palace (D&D_References)]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

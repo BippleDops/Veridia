@@ -2,7 +2,7 @@
 created: '2025-08-11'
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - both
 - complete
 - content/location
@@ -14,14 +14,8 @@ updated: '2025-08-13T12:34:16.929795+00:00'
 world: Both
 ---
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-aquabyssos-kelp-wine-aquabyssos-kelp-wine.svg)
-
-
-
-
-
 
 ## Overview
 
@@ -62,35 +56,29 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Aquabyssos Kelp Wine]]
+- [[02_Worldbuilding/Places/Aquabyssos Kelp Wine
 
 <!-- enriched: true -->
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/Vault Keeper Eternal]]
-
+- [02_Worldbuilding/Places/Vault Keeper Eternal]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

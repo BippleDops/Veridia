@@ -2,7 +2,7 @@
 
 title: Fragment Guardens
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -46,7 +46,6 @@ updated: '2025-08-13T12:34:11.867520+00:00'
 - A prisoner has gone missing and truth emerges
 - A map reveals a betrayal about the government
 - A shipment has gone missing and war looms ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

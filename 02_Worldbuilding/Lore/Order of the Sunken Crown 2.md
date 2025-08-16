@@ -1,7 +1,7 @@
 ---
 type: Lore
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - faction
@@ -14,8 +14,6 @@ created_by: auto-stub
 created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
-
-
 
 # Order of the Sunken Crown
 
@@ -54,16 +52,15 @@ Lifetime membership with generational inheritance of obligations.
 ## Campaign Use
 Provides political intrigue, ancient mysteries, and moral complexity around legitimate authority and lost heritage.
 
-
 ## Connections
 
-- [[02_Worldbuilding/Lore/Kraken Territories]]
-- [[02_Worldbuilding/Lore/Leviathan Graveyard]]
-- [[02_Worldbuilding/Lore/Thalassius the Wise]]
-- [[02_Worldbuilding/Lore/The Deep Mother]]
-- [[02_Worldbuilding/Lore/The Seven Shards]]
-- [[02_Worldbuilding/Places/The Cerulean Trench]]
-- [[02_Worldbuilding/Places/The Primordial Vaults]]
+- [[02_Worldbuilding/Lore/Kraken Territories
+- [02_Worldbuilding/Lore/Leviathan Graveyard]]
+- [[02_Worldbuilding/Lore/Thalassius the Wise
+- [02_Worldbuilding/Lore/The Deep Mother]]
+- [[02_Worldbuilding/Lore/The Seven Shards
+- [02_Worldbuilding/Places/The Cerulean Trench]]
+- [[02_Worldbuilding/Places/The Primordial Vaults
 
 ## Player-Facing Summary
 
@@ -81,4 +78,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Thalassius the Wise|02 Worldbuilding/Lore/Thalassius The Wise]]
+- [02_Worldbuilding/Lore/Thalassius the Wise|02 Worldbuilding/Lore/Thalassius The Wise]]

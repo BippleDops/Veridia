@@ -2,7 +2,7 @@
 
 title: The Deep Defense Project
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,14 +42,13 @@ updated: '2025-08-13T01:18:35.007801+00:00'
 
 - A letter reveals a betrayal about a local noble
 - A noble needs help investigating before the new moon
-- A map reveals a conspiracy about the cult ## Related Notes - [[Similar Topic 1]]
+- A map reveals a conspiracy about the cult ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## References - [[Crystallium]]
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## References - [[Crystallium
 
-- [[Crystallium (D&D_References)]]
-
+- [Crystallium (D&D_References)]]
 
 ## Notes
 

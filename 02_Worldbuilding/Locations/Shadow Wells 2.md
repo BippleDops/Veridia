@@ -8,7 +8,7 @@ population: Variable (Pilgrims and Researchers)
 significance: Major (Deep Mother Activity)
 size: Multiple Sites Throughout Realm
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -22,18 +22,14 @@ updated: '2025-08-13T12:34:16.917740+00:00'
 world: Aquabyssos
 ---
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-shadow-wells-shadow-wells.svg)
-
-
-
 
 # Shadow Wells
 *Where the Mother's Nightmares Surface*
 
 ## Overview
-Shadow Wells are mysterious phenomena scattered throughout [[02_Worldbuilding/Places/Aquabyssos]], appearing as pools of absolute darkness from which emerge the [[02_Worldbuilding/Lore/The Deep Mother]]'s nightmares and darker dreams. These sites serve as manifestation points where the sleeping goddess's unconscious anxieties, fears, and sorrows take physical form in the material world. Each Well represents a different aspect of cosmic dread, making them both fascinating research sites and extremely dangerous locations.
+Shadow Wells are mysterious phenomena scattered throughout [[02_Worldbuilding/Places/Aquabyssos, appearing as pools of absolute darkness from which emerge the [02_Worldbuilding/Lore/The Deep Mother]]'s nightmares and darker dreams. These sites serve as manifestation points where the sleeping goddess's unconscious anxieties, fears, and sorrows take physical form in the material world. Each Well represents a different aspect of cosmic dread, making them both fascinating research sites and extremely dangerous locations.
 
 ## Nature & Properties
 ### Physical Characteristics
@@ -53,7 +49,7 @@ Shadow Wells are mysterious phenomena scattered throughout [[02_Worldbuilding/Pl
 ## Geographic Distribution
 ### Primary Well Clusters
 #### The Despair Depths
-**Location**: Deepest oceanic trenches near [[02_Worldbuilding/Places/The Hadal Depths]]  
+**Location**: Deepest oceanic trenches near [[02_Worldbuilding/Places/The Hadal Depths  
 **Count**: ~50 Wells  
 **Manifestations**: Existential dread, cosmic loneliness, fear of meaninglessness
 - **The Void Well**: Largest Well producing entities of pure nihilism
@@ -116,7 +112,7 @@ Shadow Wells are mysterious phenomena scattered throughout [[02_Worldbuilding/Pl
 
 ### Notable Shadow Entities
 #### The Drowning Fear
-- **Origin**: Well near [[02_Worldbuilding/Places/Parliament of Echoes]]
+- **Origin**: Well near [02_Worldbuilding/Places/Parliament of Echoes]]
 - **Nature**: Manifestation of society's fear of losing democracy
 - **Appearance**: Massive humanoid figure made of crushing water
 - **Behavior**: Appears during political crises, attempts to "drown" dissent
@@ -139,7 +135,7 @@ Shadow Wells are mysterious phenomena scattered throughout [[02_Worldbuilding/Pl
 ## Human Interaction
 ### Research Communities
 #### The Shadow Scholars
-- **Leadership**: [[02_Worldbuilding/People/The Shadow Singer Naia]] provides spiritual guidance
+- **Leadership**: [[02_Worldbuilding/People/The Shadow Singer Naia provides spiritual guidance
 - **Purpose**: Academic study of shadow manifestations and their meanings
 - **Methods**: Careful observation, limited interaction, detailed documentation
 - **Base**: Mobile research stations that can quickly evacuate if needed
@@ -172,7 +168,7 @@ Shadow Wells are mysterious phenomena scattered throughout [[02_Worldbuilding/Pl
 - **Belief**: Wells provide direct connection to sleeping goddess's mind
 - **Practices**: Meditation at Well edges, attempting communication with shadow entities
 - **Risks**: Frequent psychological casualties among unprepared pilgrims
-- **Guidance**: [[02_Worldbuilding/People/Sister Thalassa the Depth-Touched]] provides spiritual counsel
+- **Guidance**: [02_Worldbuilding/People/Sister Thalassa the Depth-Touched]] provides spiritual counsel
 - **Sacred Journey**: Multi-Well pilgrimage representing different aspects of divine sorrow
 
 ## Well Monitoring & Management
@@ -261,10 +257,10 @@ Shadow Wells are mysterious phenomena scattered throughout [[02_Worldbuilding/Pl
 - **Connection Network**: Do Wells communicate with each other across distances?
 
 ## Connected Elements
-- Direct manifestations of [[02_Worldbuilding/Lore/The Deep Mother]]'s unconscious mind
+- Direct manifestations of [[02_Worldbuilding/Lore/The Deep Mother's unconscious mind
 - Source of materials and services for shadow-based magic and therapy
-- Location for [[02_Worldbuilding/People/The Shadow Singer Naia]]'s spiritual work
-- Sites visited by [[02_Worldbuilding/People/Sister Thalassa the Depth-Touched]] and other Deep Mother servants
+- Location for [02_Worldbuilding/People/The Shadow Singer Naia]]'s spiritual work
+- Sites visited by [[02_Worldbuilding/People/Sister Thalassa the Depth-Touched and other Deep Mother servants
 - Research locations for studying cosmic psychology and fear manifestation
 
 ## DM Notes
@@ -284,16 +280,16 @@ Shadow Wells are mysterious phenomena scattered throughout [[02_Worldbuilding/Pl
 
 ## Connections
 
-- [[02_Worldbuilding/People/Crystal Wardens]]
-- [[02_Worldbuilding/Lore/Deep Mother]]
-- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
-- [[02_Worldbuilding/Lore/Environmental Hazards]]
-- [[02_Worldbuilding/Lore/Initiative Tracker]]
-- [[02_Worldbuilding/Lore/Random Encounters]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/People/The Shadow Singer Naia]]
-- [[02_Worldbuilding/Quests/Quest - Nature's Balance]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/Lore/Deep Mother
+- [02_Worldbuilding/Lore/Discover Marina's Truth]]
+- [[02_Worldbuilding/Lore/Environmental Hazards
+- [02_Worldbuilding/Lore/Initiative Tracker]]
+- [[02_Worldbuilding/Lore/Random Encounters
+- [02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/People/The Shadow Singer Naia
+- [02_Worldbuilding/Quests/Quest - Nature's Balance]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos
 
 ## Player-Facing Summary
 
@@ -311,30 +307,25 @@ Legends speak of Shadow Wells as a nexus where past and present converge. Locals
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Shadow Wells]]
+- [02_Worldbuilding/Places/Shadow Wells]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

@@ -2,7 +2,7 @@
 
 title: Great Drowning (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -84,12 +84,11 @@ Religious orders developed around understanding the convergence as spiritual tra
 
 Academic schools exploring questions raised by successful dimensional merger. Primary question: "If reality can change so fundamentally and beneficially, what other transformations might be possible?" ### The Depths Doctrine
 
-Spiritual belief that all significant truth resides in the deepest places - physically, emotionally, and spiritually. Regular "depth-diving" practices for personal growth. ## DM Notes The Great Drowning serves as foundational lore explaining why Aquabyssos exists and operates as it does. Use convergence sites as locations where reality behaves differently - time flows strangely, dimensional boundaries are thinner, and impossible things happen more easily. Memorial locations offer opportunities for historical research, artifact discovery, and encounters with time-displaced entities. The event's themes of transformation through cooperation can inspire quest lines about adapting to change and finding strength through diversity. ## Related *Links to related content will be added here.* ## Related Notes - [[Similar Topic 1]]
+Spiritual belief that all significant truth resides in the deepest places - physically, emotionally, and spiritually. Regular "depth-diving" practices for personal growth. ## DM Notes The Great Drowning serves as foundational lore explaining why Aquabyssos exists and operates as it does. Use convergence sites as locations where reality behaves differently - time flows strangely, dimensional boundaries are thinner, and impossible things happen more easily. Memorial locations offer opportunities for historical research, artifact discovery, and encounters with time-displaced entities. The event's themes of transformation through cooperation can inspire quest lines about adapting to change and finding strength through diversity. ## Related *Links to related content will be added here.* ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]]
 
 ## Notes
 

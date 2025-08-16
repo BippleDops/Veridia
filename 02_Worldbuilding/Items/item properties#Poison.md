@@ -1,7 +1,7 @@
 ---
-title: item properties#Poison
+title: "item properties#Poison"
 type: note
-tags:
+tags: 
 - auto-generated
 - linked
 created: '2025-01-15'
@@ -10,13 +10,13 @@ created: '2025-01-15'
 # item properties#Poison
 
 ## Overview
-This topic is referenced in [[burnt-othur-fumes-xdmg (items)]] and other parts of the campaign.
+This topic is referenced in [[burnt-othur-fumes-xdmg (items) and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[burnt-othur-fumes-xdmg (items)]]
+- Referenced by: [burnt-othur-fumes-xdmg (items)]]
 - Related topics in the same category
 
 ## Details

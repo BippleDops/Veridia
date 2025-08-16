@@ -2,7 +2,7 @@
 aliases: ["Random Encounter 14", "random encounter 14", "14 Encounter Random"]
 tags: [generated]
 id: ENC0013_Random_Encounter_14
-created: 2025-08-15T04:09:51.439Z
+created: "2025-08-15T04:09:51.439Z"
 generator: mega_generator_10k
 ---
 # Random Encounter 14
@@ -10,7 +10,7 @@ generator: mega_generator_10k
 *Easy encounter for Urban environment*
 
 ## Enemies
-- 2d6 Skeletons
+- `dice: 2d6` Skeletons
 
 ## Tactics
 Enemies coordinate attacks and use terrain to their advantage

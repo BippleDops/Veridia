@@ -2,7 +2,7 @@
 
 title: Marin
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -44,17 +44,16 @@ updated: '2025-08-13T01:18:34.595277+00:00'
 
 - Someone is hunting information for money
 - Strange sightings suggest a conspiracy
-- The authorities needs help finding before the festival ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Master_Item_Catalog]]
+- The authorities needs help finding before the festival ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Master_Item_Catalog
 
-- [[Armaments Uncommon Xdmg]]
-- [[Random Magic Items Armaments]]
-- [[Random Magic Items Relics]]
-- [[Relics Uncommon Xdmg]]
-- [[armaments-uncommon-xdmg (tables)]]
-- [[random-magic-items-armaments (tables)]]
-- [[random-magic-items-relics (tables)]]
+- [Armaments Uncommon Xdmg]]
+- [[Random Magic Items Armaments
+- [Random Magic Items Relics]]
+- [[Relics Uncommon Xdmg
+- [armaments-uncommon-xdmg (tables)]]
+- [[random-magic-items-armaments (tables)
+- [random-magic-items-relics (tables)]]
 - [[relics-uncommon-xdmg (tables)]]
-
 
 ## Notes
 

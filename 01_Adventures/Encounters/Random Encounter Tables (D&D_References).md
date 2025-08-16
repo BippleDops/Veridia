@@ -2,7 +2,7 @@
 
 title: Random Encounter Tables (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -63,7 +63,6 @@ Surface encounter tables maintain traditional elements but incorporate underwate
 2. **Encounter Investigation**: Party must investigate why certain types of encounters have stopped occurring
 3. **Table Corruption**: Something is manipulating probability, causing dangerous encounters to cluster ## Secrets (DM Only) The encounter tables are partially influenced by a dormant prophetic entity that subtly guides "random" events toward outcomes that serve its mysterious agenda. Characters who pay close attention to patterns may begin to discern this influence. ## Campaign Use Use these tables to create encounters that feel both surprising and inevitable. Weight probabilities based on ongoing storylines and character actions. Consider using failed encounter rolls as opportunities for foreshadowing or world-building moments rather than "nothing happens" results. ## Player-Facing Summary Random Encounter Tables is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Random Encounter Tables as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Random Encounter Tables. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Secret Connections *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil ## Prophecy Connection Mentioned in The First Prophecy of Shadows ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## Scaling by Party Level
 
-
 - **Level 1-4**: Reduce enemies
 - **Level 5-10**: Standard difficulty
 - **Level 11-15**: Add elite enemies
@@ -93,7 +92,6 @@ Surface encounter tables maintain traditional elements but incorporate underwate
 
 - Only if feature/spell grants one
 - Common: Off-hand attack, Cunning Action, Healing Word
-
 
 ## Notes
 

@@ -2,7 +2,7 @@
 created: '2025-08-11'
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - aethermoor
 - complete
 - content/location
@@ -14,14 +14,8 @@ updated: '2025-08-13T12:34:16.832321+00:00'
 world: Aethermoor
 ---
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-living-quarters-the-living-quarters.svg)
-
-
-
-
-
 
 ## Overview
 
@@ -62,35 +56,29 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Living Quarters]]
+- [[02_Worldbuilding/Places/The Living Quarters
 
 <!-- enriched: true -->
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]
-
+- [02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

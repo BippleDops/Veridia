@@ -8,7 +8,7 @@ location_type: Royal Residence
 population: 500
 ruler: Crystal Sovereign Prism-Heart
 status: complete
-tags:
+tags: 
 - both
 - complete
 - content/location
@@ -23,8 +23,6 @@ type: Location
 updated: '2025-08-13T12:34:16.943791+00:00'
 world: Both
 ---
-
-
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-palace-crystal-palace.svg)
@@ -232,12 +230,12 @@ The current Crystal Sovereign, Prism-Heart the Radiant, has begun showing signs 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/The Crown's Burden]]
-- [[02_Worldbuilding/Quests/Quest - The Pretender's Crown]]
-- [[02_Worldbuilding/Quests/The Crown's Burden]]
-- [[02_Worldbuilding/People/Crystal Wardens]]
-- [[02_Worldbuilding/Groups/Academies/The Crystal Academy]]
-- [[02_Worldbuilding/Groups/Academies/Royal Academy of Arcane Art]]
+- [[02_Worldbuilding/Quests/The Crown's Burden
+- [02_Worldbuilding/Quests/Quest - The Pretender's Crown]]
+- [[02_Worldbuilding/Quests/The Crown's Burden
+- [02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/Groups/Academies/The Crystal Academy
+- [02_Worldbuilding/Groups/Academies/Royal Academy of Arcane Art]]
 
 ## Player-Facing Summary
 
@@ -257,16 +255,13 @@ Emphasize the synesthetic quality of the palace—sounds have colors, lights hav
 - Natural resources
 - Trade goods
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

@@ -2,7 +2,7 @@
 
 title: Lord Aurelius Goldwave (D&D_Statblocks)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -41,11 +41,11 @@ created: '2025-08-09'
 modified: '2025-08-14'
 status: complete
 class: Enchantment Wizard/College of Eloquence Bard
-location: '[[Port Meridian|02 Worldbuilding/Places/Port Meridian]]'
+location: '[[Port Meridian|02 Worldbuilding/Places/Port Meridian'
 world: Aethermoor
 
 CR: 10
-faction: '[[The Order of the Shattered Crown]]'
+faction: '[The Order of the Shattered Crown]]'
 created_by: Claude
 updated: '2025-08-11T00:00:00+00:00'
 
@@ -58,7 +58,7 @@ obsidian UIMode: preview
 
 *The Golden Tongue of Port Meridian* > *"My ancestors made a choice that damned us all. I intend to make a choice that redeems us. The price of redemption, you ask? Everything I have built, everything I am, everything I could become. But some debts can only be paid in full."* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
-Lord Aurelius Goldwave is the wealthiest and most influential merchant-noble in [[Port Meridian|02 Worldbuilding/Places/Port Meridian]], descended from Aurelius the Goldweaver - one of the Seven Betrayers who shattered [[The Crown of Stars]] 500 years ago. Though he presents himself as a successful trader and benevolent patron of the arts, he secretly leads [[The Order of the Shattered Crown]], dedicated to gathering the [[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] to undo his ancestor's great sin. His vast fortune, built through crystal trade and careful political manipulation, serves a single purpose: atonement for the betrayal that doomed Aethermoor to centuries of crystal corruption. ## Personality
+Lord Aurelius Goldwave is the wealthiest and most influential merchant-noble in [[Port Meridian|02 Worldbuilding/Places/Port Meridian, descended from Aurelius the Goldweaver - one of the Seven Betrayers who shattered [The Crown of Stars]] 500 years ago. Though he presents himself as a successful trader and benevolent patron of the arts, he secretly leads [[The Order of the Shattered Crown, dedicated to gathering the [The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] to undo his ancestor's great sin. His vast fortune, built through crystal trade and careful political manipulation, serves a single purpose: atonement for the betrayal that doomed Aethermoor to centuries of crystal corruption. ## Personality
 
 Lord Goldwave embodies the complexity of nobility burdened by ancestral guilt:
 - **Charming Manipulator**: Uses wit, wealth, and magical persuasion to achieve his goals
@@ -77,14 +77,14 @@ Lord Goldwave's speech reflects his bardic training and aristocratic upbringing:
 - *"The Seven made their choice in darkness. I make mine in the light, with full knowledge of the cost."* ### Lord Aurelius Goldwave
 
 *Medium humanoid (human), lawful neutral* **Armor Class** 16 (Natural Armor + Mage Armor)
-**Hit Points** 142 (19d8 + 57)
+**Hit Points** 142 (`dice: 19d8` + 57)
 **Speed** 30 ft. **STR** 14 (+2) **DEX** 15 (+2) **CON** 16 (+3) **INT** 18 (+4) **WIS** 13 (+1) **CHA** 20 (+5) **Saving Throws** Int +9, Wis +6, Cha +10
 **Skills** Deception +15, History +9, Insight +11, Investigation +9, Perception +6, Persuasion +15, Performance +10
 **Damage Resistances** Crystal corruption effects
 **Senses** passive Perception 16
 **Languages** Common, Draconic, Celestial, Infernal, Dwarven, Elvish
 **Challenge Rating** 10 (5,900 XP)
-**Proficiency Bonus** +4 **Spellcasting.** Lord Goldwave is a 15th-level spellcaster. His spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). He knows the following spells: **Wizard Spells (Enchantment Focus):**
+**Proficiency Bonus** +4 **Spellcasting.** Lord Goldwave is a 15th-level spellcaster. His spellcasting ability is Charisma (spell save **DC 18**, +10 to hit with spell attacks). He knows the following spells: **Wizard Spells (Enchantment Focus):**
 - **Cantrips (4)**: *Mage Hand, Minor Illusion, Friends, Prestidigitation*
 - **1st level (4)**: *Charm Person, Detect Magic, Identify, Sleep*
 - **2nd level (3)**: *Hold Person, Suggestion, Web*
@@ -108,20 +108,20 @@ Lord Goldwave's speech reflects his bardic training and aristocratic upbringing:
 - Cast a cantrip or use Bardic Inspiration
 - Cast a spell of 3rd level or lower (costs 2 actions) ### The Goldwave Legacy
 
-The Goldwave family descended from Aurelius the Goldweaver, the most powerful enchanter among [[The Seven Betrayers]]. His ancestor's specialty was ficial manipulation and mass persuasion - abilities he used to convince the other six to betray [[The Crimson Sage|Aetheron]]. When the Crown shattered, the Goldweaver was consumed by the Golden Shard's power, leaving behind only his techniques and a massive fortune built on betrayal. ### The Burden of Knowledge
+The Goldwave family descended from Aurelius the Goldweaver, the most powerful enchanter among [[The Seven Betrayers. His ancestor's specialty was ficial manipulation and mass persuasion - abilities he used to convince the other six to betray [The Crimson Sage|Aetheron]]. When the Crown shattered, the Goldweaver was consumed by the Golden Shard's power, leaving behind only his techniques and a massive fortune built on betrayal. ### The Burden of Knowledge
 
 Unlike most descendants of the Betrayers, the Goldwave family maintained detailed records of their ancestor's actions. Aurelius learned the full truth at age 16 when he inherited the family's secret archives. The revelation shattered his worldview and set him on his current path of redemption. ### Building an Empire
 
-Over thirty years, Aurelius transformed the family's inherited wealth into the largest trading empire in [[Port Meridian|02 Worldbuilding/Places/Port Meridian]]. He:
+Over thirty years, Aurelius transformed the family's inherited wealth into the largest trading empire in [[Port Meridian|02 Worldbuilding/Places/Port Meridian. He:
 - Monopolized the safe transport of crystal goods
 - Established the Goldwave Academy for Crystal Studies
 - Created a network of agents throughout Aethermoor
-- Secretly founded and funded [[The Order of the Shattered Crown]] ### The Order of the Shattered Crown
+- Secretly founded and funded [The Order of the Shattered Crown]] ### The Order of the Shattered Crown
 
 This secretive organization, led by Aurelius, seeks to:
-- Locate and gather all [[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]
+- Locate and gather all [[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards
 - Undo the betrayal by reforging the Crown of Stars
-- Restore [[The Crimson Sage|Aetheron]] to proper godhood
+- Restore [The Crimson Sage|Aetheron]] to proper godhood
 - End crystal corruption permanently The Order operates through legitimate businesses, scholarly research, and careful political influence rather than force or theft. ### The Goldwave Trading Empire
 
 Lord Goldwave's business interests include:
@@ -129,7 +129,7 @@ Lord Goldwave's business interests include:
 - **The Goldwave Shipping Consortium**: Largest merchant fleet on the Azure Coast
 - **Crystal Insurance Guild**: Protects merchants against corruption losses
 - **Goldwave Academy**: Premier institution for crystal research and safety training
-- **The Meridian Exchange**: Port Meridian's primary crystal trading post #### **[[Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] - The Corrupted Crown** **Historical Development**:
+- **The Meridian Exchange**: Port Meridian's primary crystal trading post #### **[[Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde - The Corrupted Crown** **Historical Development**:
 
 - **The Coronation Investment (12 years ago)**: Aurelius saw Seraphina's coronation as an opportunity for redemption through service, presenting the legendary Goldweaver Chandelier (a family heirloom worth 50,000 gold) as a coronation gift to signal his commitment to her reign
 - **The Early Partnership (Years 1-3)**: Became Seraphina's primary ficial backer during her vulnerable early reign, providing economic stability in exchange for favorable trade policies and the hope of earning royal favor for his eventual redemption quest
@@ -147,7 +147,7 @@ Lord Goldwave's business interests include:
 - **The Corruption Compact**: Aurelius provides ficial and logistical support for Seraphina's corruption treatment in exchange for her knowledge of Shard locations and royal authority to access restricted areas
 - **The Mutual Destruction Pact**: Both possess information that could destroy the other—Aurelius knows about her corruption, she knows about his Order of the Shattered Crown leadership and time magic research
 - **The Succession Contingency**: If Seraphina's corruption becomes public, Aurelius will use his wealth and influence to support her daughter Aria's claim to the throne
-- **The Final Bargain**: If Aurelius succeeds in his temporal redemption plan, he will ensure Seraphina is cured in the new timeline; if she finds a cure first, she will help him complete his redemption quest #### **[[High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]] - The Righteous Opposition** **Historical Development**:
+- **The Final Bargain**: If Aurelius succeeds in his temporal redemption plan, he will ensure Seraphina is cured in the new timeline; if she finds a cure first, she will help him complete his redemption quest #### **[High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]] - The Righteous Opposition** **Historical Development**:
 
 - **Early Respect**: Initially admired Maltheos's anti-corruption stance, seeing him as someone fighting the same evil that drove his redemption quest
 - **Growing Tension**: As Maltheos's methods became more extreme, Aurelius began to see him as a threat to innocent people caught in corruption circumstances
@@ -161,17 +161,16 @@ Lord Goldwave's business interests include:
 - **Redemption Focus**: Every major decision in Aurelius's life is measured against how it advances his goal of making amends to Aetheron
 - **The Final Meeting**: Believes his redemption quest will ultimately require a face-to-face encounter with the diminished god ## Secrets & Hidden Agendas > [!warning] DM Only - The True Plan
 
-> Lord Goldwave doesn't just want to gather the Seven Shards - he plans to use them to travel back in time and prevent the original betrayal. He's discovered that the Golden Shard, currently within [[Aria Lumengarde]], can theoretically power such a spell. His real goal is to sacrifice himself to undo the timeline where his ancestor betrayed Aetheron, accepting that this would erase his own existence. ### Hidden Resources:
+> Lord Goldwave doesn't just want to gather the Seven Shards - he plans to use them to travel back in time and prevent the original betrayal. He's discovered that the Golden Shard, currently within [[Aria Lumengarde, can theoretically power such a spell. His real goal is to sacrifice himself to undo the timeline where his ancestor betrayed Aetheron, accepting that this would erase his own existence. ### Hidden Resources:
 
 1. **The Temporal Calculations**: Mathematical formulas for time magic using Shard energy
 2. **The Betrayer's Vault**: Hidden repository containing artifacts from all Seven Betrayers
 3. **The Redemption Ritual**: A spell designed to channel all seven Shards' power into time manipulation
 4. **The Memory Archive**: Preserved consciousness fragments from his ancestor and the other Betrayers ### The Goldwave Guilt Complex
 
-
 Aurelius suffers from what he calls "inherited sin" - the belief that his bloodline carries the cosmic debt of his ancestor's betrayal. This drives him toward increasingly desperate measures, including:
 - Considering mass memory modification to ease corruption suffering
-- Planning to manipulate [[Aria Lumengarde]] to access the Golden Shard
+- Planning to manipulate [Aria Lumengarde]] to access the Golden Shard
 - Preparing to betray current allies if necessary for the greater good
 - Accepting that his redemption plan will likely destroy him and everyone he cares about ### Early Campaign (Levels 1-5):
 
@@ -180,18 +179,15 @@ Aurelius suffers from what he calls "inherited sin" - the belief that his bloodl
 3. **The Merchant's Dilemma**: Goldwave needs the party to recover stolen shipments from crystal smugglers
 4. **Historical Research**: He commissions the party to explore ruins related to the original Betrayal ### Mid Campaign (Levels 6-10):
 
-
 1. **The Order Revealed**: The party discovers Goldwave's connection to the Order of the Shattered Crown
 2. **Shard Hunt**: Direct missions to locate and secure one of the Seven Shards
 3. **Family Sins**: Investigating other descendants of the Betrayers leads to moral complexities
 4. **The Corruption Crisis**: Goldwave needs help containing a crystal corruption outbreak he accidentally caused ### Late Campaign (Levels 11+):
 
-
 1. **The Time Gambit**: Goldwave reveals his plan to undo the original betrayal and asks for the party's help
 2. **Redemption's Price**: The party must choose between supporting his temporal plan or stopping him
 3. **The Betrayer's Legacy**: Confronting the consequences of ancestral sins across multiple timelines
 4. **The Golden Sacrifice**: Goldwave's final attempt at redemption threatens to unravel reality itself ### The Goldwave Fortune
-
 
 Lord Goldwave's wealth stems from:
 - **Crystal Trade Monopoly**: Controls 60% of safe crystal transport in Aethermoor
@@ -208,7 +204,6 @@ Use his various businesses and contacts to:
 
 - A merchant needs help delivering before the new moon
 - The authorities needs help finding before winter ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

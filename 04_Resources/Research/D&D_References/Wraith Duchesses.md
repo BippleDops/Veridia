@@ -3,7 +3,7 @@ enhanced: true
 
 title: Wraith Duchesses
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -46,12 +46,11 @@ updated: '2025-08-13T01:18:34.541738+00:00'
 
 - A journal reveals a conspiracy about a local noble
 - Someone is blackmailing a witness for revenge
-- A letter reveals a betrayal about this place ## Related Notes - [[Similar Topic 1]]
+- A letter reveals a betrayal about this place ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 
@@ -72,10 +71,10 @@ updated: '2025-08-13T01:18:34.541738+00:00'
 This relates to the deep realm of Deepest ocean trenches and underwater kingdoms.
 
 - **Ruling Power**: The Tidal Throne
-- **Capital**: [[Pearlheart Palace]]
+- **Capital**: [[Pearlheart Palace
 - **Primary Magic**: Tidal control, pressure magic, bioluminescence
 - **Current Conflict**: The Crushing Dark, Surface Wars
-- **Key Locations**: [[Abyssal Trenches]], [[Coral Throne]]
+- **Key Locations**: [Abyssal Trenches]], [[Coral Throne]]
 
 In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
 build cities of living coral and navigate by bioluminescent paths.

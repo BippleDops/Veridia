@@ -1,8 +1,8 @@
 ---
 
-title: [[location]] Name
-type: [[Lore]]
-tags:
+title: [[location Name
+type: [Lore]]
+tags: 
 - lore
 - [[Aquabyssos]]
 - status/complete
@@ -16,10 +16,10 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-accessibility:
+accessibility: 
   content_warnings: []
   pronunciation: Location Name
-  safety_tools:
+  safety_tools: 
   - Lines & Veils
   - X-Card
   screen_reader_summary: This lore entry explains a pivotal principle or event and
@@ -47,7 +47,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -91,7 +91,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[region]]s
+- Describe how this culture exists in other [region]]s
 
 ## Summary
 
@@ -105,9 +105,9 @@ Location Name is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of Location Name as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Location Name.
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [map]] use.
 
 ## Overview
 
@@ -124,12 +124,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Someone is hunting information for money
 - A shipment has gone missing and truth emerges
 
-## Historical [[Time|[[Time]]line]]
+## Historical [[Time|[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[People]]s
+- War with indigenous [[Peoples
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -139,35 +139,30 @@ Different cultures interpret this lore through their own lens, creating variatio
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current [[Power Structures]] established
+- Current [Power Structures]] established
 
 ## References
 
-- [[Forest Communities]]
-- [[Name Etymology Guide]]
-- [[Location Name 1 (Places)]]
-- [[Location Name 2 (Places)]]
-
+- [[Forest Communities
+- [Name Etymology Guide]]
+- [[Location Name 1 (Places)
+- [Location Name 2 (Places)]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

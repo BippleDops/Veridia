@@ -1,7 +1,7 @@
 ---
 created: '2025-08-12'
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -18,11 +18,8 @@ updated: '2025-08-13T12:34:16.652441+00:00'
 world: Aquabyssos
 ---
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-crystal-cult-temples-crystal-cult-temples.svg)
-
-
 
 # Crystal Cult Temples
 
@@ -98,7 +95,7 @@ The most sacred ritual, where willing members undergo procedures to accelerate t
 
 **Age:** 43 (appears ageless due to crystallization)  
 **Stage:** 4 (Voluntarily infected 3 years ago)  
-**Background:** Former [[02_Worldbuilding/Places/Medical Research Facilities]] who became convinced that cure research was misguided  
+**Background:** Former [[02_Worldbuilding/Places/Medical Research Facilities who became convinced that cure research was misguided  
 **Abilities:** Levitation, crystal communion, harmonic voice projection
 
 High Priestess Seraphina founded the temple after her deliberate infection with the plague. Her scientific background lends credibility to the cult's theological claims about the divine nature of crystallization.
@@ -138,7 +135,7 @@ Saint Marina's crystalline form incorporates patterns reminiscent of deep-sea pr
 **Sister Coral Gentletouch**  
 **Age:** 29, **Stage:** 2  
 **Role:** Community outreach and new member recruitment  
-**Method:** Visits [[02_Worldbuilding/Places/Crystal Plague Wards]] to offer spiritual comfort to patients
+**Method:** Visits [02_Worldbuilding/Places/Crystal Plague Wards]] to offer spiritual comfort to patients
 
 Sister Coral presents herself as a compassionate volunteer providing emotional support to plague victims. Her genuine care and acceptance offers stark contrast to the fear and rejection plague victims encounter elsewhere.
 
@@ -485,12 +482,12 @@ The party discovers that cult healing practices, while religiously motivated, ar
 - Present opportunities for compromise and cooperation alongside conflict scenarios
 
 ## Cross-References
-- [[02_Worldbuilding/Lore/Crystal Plague Progression System]] - Disease mechanics that cult members interpret spiritually
-- [[02_Worldbuilding/Places/Crystal Plague Wards]] - Official medical system that cults offer alternative to
-- [[02_Worldbuilding/Places/Medical Research Facilities]] - Scientific establishments that cults view as misguided
+- [[02_Worldbuilding/Lore/Crystal Plague Progression System - Disease mechanics that cult members interpret spiritually
+- [02_Worldbuilding/Places/Crystal Plague Wards]] - Official medical system that cults offer alternative to
+- [[02_Worldbuilding/Places/Medical Research Facilities - Scientific establishments that cults view as misguided
 - Black Market Crystal Trade - Economic networks that cults sometimes utilize
 - Brother Marcus - Legitimate healer whose methods cults sometimes emulate
-- [[02_Worldbuilding/Lore/Underground Smuggling Networks]] - Distribution systems for cult materials and members
+- [02_Worldbuilding/Lore/Underground Smuggling Networks]] - Distribution systems for cult materials and members
 - [[02_Worldbuilding/Lore/Quarantine Enforcement]] - Government policies that cults help members evade
 
 <!-- enriched: true -->
@@ -499,21 +496,17 @@ The party discovers that cult healing practices, while religiously motivated, ar
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

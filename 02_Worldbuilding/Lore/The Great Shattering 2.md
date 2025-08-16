@@ -1,7 +1,7 @@
 ---
 type: Lore
 status: complete
-tags:
+tags: 
 - active
 - aethermoor
 - lore
@@ -10,10 +10,6 @@ world: Aethermoor
 created: '2025-08-11'
 updated: '2025-08-13T01:18:34.549502+00:00'
 ---
-
-
-
-
 
 ## Overview
 
@@ -41,10 +37,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Azure Shard]]
-
+- [[02_Worldbuilding/People/Azure Shard
 
 ## Connections
 
-- [[02_Worldbuilding/People/Azure Shard]]
+- [02_Worldbuilding/People/Azure Shard]]
 - [[02_Worldbuilding/People/Verdant Shard]]

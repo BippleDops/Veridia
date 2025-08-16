@@ -2,7 +2,7 @@
 
 title: Senator Glaucus (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -21,7 +21,6 @@ publish: false
  # Senator Glaucus ---
 
 ## Description
-
 
 **Summary**: Description - Key information at a glance.
 
@@ -42,12 +41,12 @@ modified: '2025-08-14'
 status: active
 race: Human (Shadow)
 class: Noble
-location: '[[Abyssos Prime]]'
+location: '[[Abyssos Prime'
 level: 7
 first_name: Glaucus
 last_name: Tidecaller
-faction: '[[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
-secondary_faction: '[[Shadow Conspiracy]]'
+faction: '[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
+secondary_faction: '[[Shadow Conspiracy'
 occupation: Senator (Shadow-replaced)
 disposition: -2
 alignment: Lawful Evil
@@ -63,16 +62,16 @@ depth_adapted: 4
 portrait: ''
 relationship_type: political
 relationships:
-- '[[The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]'
-- '[[Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]'
-- '[[Marina Red Tide Coralheart - Aquabyssos (D&D_References)]]'
-- '[[Original Glaucus]] (imprisoned)'
+- '[The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]'
+- '[[Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx'
+- '[Marina Red Tide Coralheart - Aquabyssos (D&D_References)]]'
+- '[[Original Glaucus (imprisoned)'
 
 related_quests:
-- '[[Investigate Shadow Conspiracy]]'
-- '[[Shadow Citizenship Act]]'
+- '[Investigate Shadow Conspiracy]]'
+- '[[Shadow Citizenship Act'
 
-last_encounter: '[[Aquabyssos - Session 01 - The Drowning Welcome]]'
+last_encounter: '[Aquabyssos - Session 01 - The Drowning Welcome]]'
 stats: str: 10 dex: 14 con: 13 int: 16 wis: 12 cha: 15
 description: Tall, thin figure with translucent skin showing dark veins beneath. Laughs at inappropriate times.
 notes: Has been shadow-replaced for three weeks. Original imprisoned in Memory Meadows.
@@ -92,20 +91,18 @@ Senator Glaucus appears as a tall, unnaturally thin figure whose translucent ski
 
 The original Glaucus was a respected senator, advocate for surface-depth trade relations, and opponent of isolation policies. He investigated shadow anomalies three weeks ago and disappeared for two days. ### The Replacement
 
-Three weeks ago, Glaucus was ambushed at the [[Reflection Pools]] and underwent forced shadow separation. His shadow gained independence and replaced him, while the original was imprisoned in the [[The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]]. The shadow retained all of Glaucus's memories but none of his morality. ### Immediate Goals
+Three weeks ago, Glaucus was ambushed at the [[Reflection Pools and underwent forced shadow separation. His shadow gained independence and replaced him, while the original was imprisoned in the [The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]]. The shadow retained all of Glaucus's memories but none of his morality. ### Immediate Goals
 
 1. Pass the Shadow Citizenship Act (tomorrow's vote)
 2. Identify party as threat or asset
 3. Prevent discovery of imprisoned original
 4. Facilitate Shadow Duchess's arrival ### Critical Information
 
-
 1. **The Switch:** Happened at night exactly 21 days ago
 2. **The Original:** Imprisoned in Memory Meadow kelp, slowly being forgotten
 3. **The Tell:** His shadow moves 0.5 seconds before he does
 4. **The Fear:** Terrified of true sunlight (would destroy him)
 5. **The Weakness:** Saying original's true name three times causes pain ### Tells That He's a Shadow
-
 
 1. Shadow moves independently
 2. Never blinks
@@ -115,11 +112,9 @@ Three weeks ago, Glaucus was ambushed at the [[Reflection Pools]] and underwent 
 6. No breath misting in cold
 7. Doesn't cast shadow in shadow --- *"In the Parliament of Echoes, even the senators are just shadows of democracy."* ## Player-Facing Summary Senator Glaucus is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Senator Glaucus as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Senator Glaucus. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A merchant needs help stealing before dawn
 
-
 - Someone is blackmailing a artifact for revenge
 - A map reveals a conspiracy about the government
 - A map reveals the truth about the cult ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

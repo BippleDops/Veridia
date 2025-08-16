@@ -2,7 +2,7 @@
 
 title: The Whispering Tower
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,10 +42,9 @@ updated: '2025-08-13T01:18:35.171625+00:00'
 
 - Strange disappearances suggest a conspiracy
 - Strange disappearances suggest a curse
-- A stranger needs help delivering before the new moon ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Quest - The Truth Unveiled]]
+- A stranger needs help delivering before the new moon ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Quest - The Truth Unveiled
 
-- [[Quest - The Truth Unveiled_1 (01_Adventures)]]
-
+- [Quest - The Truth Unveiled_1 (01_Adventures)]]
 
 ## Notes
 

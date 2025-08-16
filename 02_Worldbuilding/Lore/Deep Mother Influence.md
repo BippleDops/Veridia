@@ -1,10 +1,10 @@
 ---
 
-title: [[Deep Mother]] Influence
-type: [[Lore]]
-tags:
+title: [[Deep Mother Influence
+type: [Lore]]
+tags: 
 - lore
-- [[Aquabyssos]]
+- [[Aquabyssos
 - eldritch
 - religion
 - session-notes
@@ -49,7 +49,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -61,7 +61,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[region]]s
+- Describe how this culture exists in other [[regions
 
 ### Superstitions Improvements
 
@@ -89,7 +89,7 @@ improvements: 20
 
 ## Overview
 
-[[The Deep Mother]]'s influence represents one of the most pervasive and insidious threats in Aquabyssos - a gradual corruption that emanates from the entity known as the **Deep Mother** in the deepest ocean trenches. Unlike direct assault or obvious magical effects, this influence works through subtle psychological manipulation, biological adaptation, and [[Reality Distortion]] that slowly transforms individuals, communities, and entire regions into extensions of the Deep Mother's alien will.
+[The Deep Mother]]'s influence represents one of the most pervasive and insidious threats in Aquabyssos - a gradual corruption that emanates from the entity known as the **Deep Mother** in the deepest ocean trenches. Unlike direct assault or obvious magical effects, this influence works through subtle psychological manipulation, biological adaptation, and [[Reality Distortion that slowly transforms individuals, communities, and entire regions into extensions of the Deep Mother's alien will.
 
 ### Psychological Corruption
 
@@ -109,7 +109,7 @@ The most common manifestation begins as barely perceptible whispers that seem to
 Prolonged exposure to the Deep Mother's influence causes rapid biological changes that help individuals survive in deeper, more hostile environments. These adaptations appear beneficial at first but ultimately serve to separate the influenced from normal society.
 
 **Physical Changes:**
-- **Enhanced Pressure Tolerance**: Ability to survive at [[Crushing Depths]] without magical aid
+- **Enhanced Pressure Tolerance**: Ability to survive at [Crushing Depths]] without magical aid
 - **Improved Dark Vision**: Eyes develop reflective membranes for better low-light vision
 - **Respiratory Modifications**: Gills become more efficient, lung capacity decreases
 - **Skin Adaptations**: Development of bioluminescent patches and pressure-sensitive organs
@@ -129,21 +129,21 @@ Areas under strong Deep Mother influence gradually shift to resemble the deep oc
 - **Acoustic Changes**: Sound travels differently, creating echoing effects and phantom noises
 - **Gravitational Anomalies**: Objects feel heavier, movement becomes more fluid and dreamlike
 
-### The [[Benthic Commune]] (643-651 AGD)
+### The [[Benthic Commune (643-651 AGD)
 
 The first recorded large-scale Deep Mother influence event occurred in the settlement of **Pelagic's Rest**, a small fishing community on the edge of the **Marianas Shelf**. Over eight years, the entire population of 2,347 individuals gradually succumbed to the influence, transforming their settlement into a bizarre deep-sea research station.
 
-**[[Time|[[Time]]line]] of Corruption:**
+**[[Time|[Time]]line]] of Corruption:**
 - **Year 1-2**: Increased fishing yields as residents learned to navigate deeper waters
 - **Year 3-4**: Community isolation as residents became uncomfortable with "shallow" visitors
-- **Year 5-6**: Physical [[Transformations]] became obvious, normal food supplies abandoned
+- **Year 5-6**: Physical [[Transformations became obvious, normal food supplies abandoned
 - **Year 7-8**: Complete transformation, settlement disappeared into the abyss
 
-When rescue teams finally investigated, they found only empty buildings crushed by immense pressure and strange [[Coral]] growths that seemed to form technological devices.
+When rescue teams finally investigated, they found only empty buildings crushed by immense pressure and strange [Coral]] growths that seemed to form technological devices.
 
 ### The Scholar's Descent (721 AGD)
 
-Professor **Abyssal Deepthought** of the **[[Maritime Research Institute]]** became obsessed with studying pressure adaptation after exposure to Deep Mother influence. His increasingly extreme experiments on himself and volunteer subjects led to the creation of the **Pressure Cult** - a group of academics who believed that evolution toward deep-sea adaptation was humanity's destiny.
+Professor **Abyssal Deepthought** of the **[[Maritime Research Institute** became obsessed with studying pressure adaptation after exposure to Deep Mother influence. His increasingly extreme experiments on himself and volunteer subjects led to the creation of the **Pressure Cult** - a group of academics who believed that evolution toward deep-sea adaptation was humanity's destiny.
 
 The cult established research stations at increasingly dangerous depths, conducting unethical experiments on pressure tolerance, consciousness transfer, and biological modification. Government intervention was required when cult members began kidnapping surface dwellers for "evolutionary therapy."
 
@@ -161,12 +161,12 @@ The corruption was only discovered when contradictory accounts led to a comprehe
 
 ### Environmental Exposure
 
-**High-Risk [[location]]s:**
+**High-Risk [location]]s:**
 - Areas below 2,000 meters depth
 - Regions near underwater volcanic activity
-- Sites of [[Ancient Ruins]] or unexplained phenomena
+- Sites of [[Ancient Ruins or unexplained phenomena
 - Zones with unusual pressure or temperature gradients
-- Waters contaminated by [[Deep Mother Cult]]ist activities
+- Waters contaminated by [Deep Mother Cult]]ist activities
 
 **Duration Thresholds:**
 - **1-30 days**: Minimal risk, temporary whispers only
@@ -178,7 +178,7 @@ The corruption was only discovered when contradictory accounts led to a comprehe
 ### Social Transmission
 
 **Influenced Individuals**
-[[People]] under Deep Mother influence unconsciously recruit others through:
+[[People under Deep Mother influence unconsciously recruit others through:
 - **Social Pressure**: Encouraging friends to explore deeper waters
 - **Information Sharing**: Providing "helpful" deep-sea navigation tips
 - **Emotional Manipulation**: Creating dependency relationships
@@ -208,7 +208,7 @@ Certain items carry residual Deep Mother influence and can affect their users:
 **Confirmed Influence Zones (847 AGD):**
 - **The Abyssal Plains**: 78% influence saturation
 - **Marianas Shelf Edge**: 45% influence saturation
-- **[[Thermal Vent Fields]]**: 62% influence saturation
+- **[Thermal Vent Fields]]**: 62% influence saturation
 - **Deep Current Channels**: 34% influence saturation
 - **Pressure Anomaly Sites**: 89% influence saturation
 
@@ -227,17 +227,17 @@ The **Department of Deep Resources** has an estimated 15% influence rate among i
 Approximately 8% of researchers at the **Maritime Research Institute** demonstrate influence symptoms, with higher rates in departments studying deep-sea biology, pressure physics, and acoustic engineering. Academic papers increasingly promote deep-sea exploration without adequate safety warnings.
 
 **Military Concerns:**
-The **Depth Navy** [[reports]] a 22% influence rate among personnel serving in deep-patrol units. Influenced officers have been reassigned to surface duties, but concerns remain about strategic information potentially reaching the Deep Mother through compromised naval personnel.
+The **Depth Navy** [[reports a 22% influence rate among personnel serving in deep-patrol units. Influenced officers have been reassigned to surface duties, but concerns remain about strategic information potentially reaching the Deep Mother through compromised naval personnel.
 
 **Commercial Impact:**
-Several major shipping companies show elevated influence rates among their deep-route crews. The **[[Abyssal Trading Consortium]]** has been placed under investigation after multiple incidents of ships deviating from safe routes to explore dangerous depths.
+Several major shipping companies show elevated influence rates among their deep-route crews. The **[Abyssal Trading Consortium]]** has been placed under investigation after multiple incidents of ships deviating from safe routes to explore dangerous depths.
 
 ### Individual Protection
 
 **Psychological Defenses:**
 - **Mental Discipline Training**: Meditation and focus exercises to resist whispers
 - **Social Support Networks**: Regular contact with uninfluenced individuals
-- **[[Reality Anchoring]]**: Keeping detailed logs of thoughts and experiences
+- **[[Reality Anchoring**: Keeping detailed logs of thoughts and experiences
 - **Routine Maintece**: Adhering to strict schedules that prevent isolation
 - **Professional Counseling**: Regular sessions with influence-trained therapists
 
@@ -246,13 +246,13 @@ Several major shipping companies show elevated influence rates among their deep-
 - **Exposure Tracking**: Monitoring total time spent in high-risk areas
 - **Equipment Standards**: Using only certified, uncontaminated gear
 - **Medical Monitoring**: Regular health checks focusing on influence symptoms
-- **[[Emergency Protocol]]s**: Plans for rapid return to surface levels when threatened
+- **[Emergency Protocol]]s**: Plans for rapid return to surface levels when threatened
 
 **Magical Protections:**
 - **Ward Talismans**: Enchanted items that resist influence effects
 - **Clarity Spells**: Regular magical treatments to clear mental fog
 - **Communication Blocks**: Magical barriers against unwanted whispers
-- **[[Purification Rituals]]**: Ceremonies to cleanse accumulated influence
+- **[[Purification Rituals**: Ceremonies to cleanse accumulated influence
 - **Detection Magic**: Spells to identify influence in self and others
 
 ### Community Defenses
@@ -260,7 +260,7 @@ Several major shipping companies show elevated influence rates among their deep-
 **Settlement Protections:**
 - **Influence Monitoring**: Regular community-wide screening programs
 - **Depth Restrictions**: Zoning laws that limit dangerous deep-water activities
-- **Information Controls**: Regulations on sharing deep-sea navigation [[data]]
+- **Information Controls**: Regulations on sharing deep-sea navigation [data]]
 - **Cultural Reinforcement**: Festivals and traditions that celebrate surface values
 - **Emergency Evacuation**: Plans for rapid community relocation if needed
 
@@ -274,9 +274,9 @@ Several major shipping companies show elevated influence rates among their deep-
 ### Technological Solutions
 
 **Research Developments:**
-- **[[Influence Detector]]s**: Devices that can measure corruption levels in individuals and areas
+- **[[Influence Detectors**: Devices that can measure corruption levels in individuals and areas
 - **Blocking Technology**: Equipment that interferes with Deep Mother communication
-- **[[Purification Chambers]]**: Facilities that can reverse early-stage influence
+- **[Purification Chambers]]**: Facilities that can reverse early-stage influence
 - **Isolation Protocols**: Methods for safely studying influence without exposure
 - **Communication Filters**: Technology that screens out corrupting signals
 
@@ -292,17 +292,17 @@ Individuals under Deep Mother influence don't just serve her - they form a colle
 
 The Deep Mother's influence may be accelerating human evolution toward a form better suited for life in the deep ocean. Analysis of influenced populations shows genetic changes that appear to be inherited by their children. Within a few generations, these adaptations might become permanent, creating a new subspecies of humanity.
 
-### [[The Ancient Compact]]
+### [[The Ancient Compact
 
-Deep in the classified archives is [[Evidence]] of a pre-Drowning treaty between surface governments and the Deep Mother. The treaty granted her dominion over the deepest ocean trenches in exchange for her assistance in creating the magical infrastructure that allowed humanity to survive underwater. The Deep Mother's current "influence" may simply be her collecting on this ancient debt.
+Deep in the classified archives is [Evidence]] of a pre-Drowning treaty between surface governments and the Deep Mother. The treaty granted her dominion over the deepest ocean trenches in exchange for her assistance in creating the magical infrastructure that allowed humanity to survive underwater. The Deep Mother's current "influence" may simply be her collecting on this ancient debt.
 
 ### The Convergence Purpose
 
-The Deep Mother's influence isn't random corruption - it's preparation for a coming event called **The Great Convergence**, when the barriers between dimensions will collapse. Influenced individuals are being modified to serve as anchor points for reality during this crisis. Without them, the [[Dimensional Collapse]] would destroy not just Aquabyssos but all existing realities.
+The Deep Mother's influence isn't random corruption - it's preparation for a coming event called **The Great Convergence**, when the barriers between dimensions will collapse. Influenced individuals are being modified to serve as anchor points for reality during this crisis. Without them, the [[Dimensional Collapse would destroy not just Aquabyssos but all existing realities.
 
 ### The Influenced Investigator
 
-A respected member of the **[[Deep Threat Assessment Bureau]]** has begun showing signs of Deep Mother influence, but they're also the lead investigator on several critical cases involving influenced populations. The characters must determine whether the investigator is still trustworthy, while also handling the cases that might be compromised by their condition.
+A respected member of the **[Deep Threat Assessment Bureau]]** has begun showing signs of Deep Mother influence, but they're also the lead investigator on several critical cases involving influenced populations. The characters must determine whether the investigator is still trustworthy, while also handling the cases that might be compromised by their condition.
 
 ### The Clean Zone
 
@@ -340,29 +340,29 @@ Characters accumulate influence points based on exposure:
 **Stage 2** (11-25 points): Daily whispers, pressure resistance, -1 to surface social interactions
 **Stage 3** (26-50 points): Constant whispers, physical changes begin, compulsive deep-water seeking
 **Stage 4** (51-100 points): Psychological subservience, active recruitment behavior, -4 to Wisdom saves
-**Stage 5** (100+ points): Complete corruption, [[Npc]] status, serves as Deep Mother agent
+**Stage 5** (100+ points): Complete corruption, [[Npc status, serves as Deep Mother agent
 
 ### Resistance Mechanics
 
 **Saving Throws:**
-- **Wisdom saves** against psychological influence (DC 10 + current influence level)
-- **Constitution saves** against physical transformation (DC 12 + current influence level)
-- **Charisma saves** against social isolation effects (DC 8 + current influence level)
+- **Wisdom saves** against psychological influence (**DC 10** + current influence level)
+- **Constitution saves** against physical transformation (**DC 12** + current influence level)
+- **Charisma saves** against social isolation effects (**DC 8** + current influence level)
 
 **Protective Factors:**
 - **Strong social connections**: Advantage on resistance saves
 - **Religious faith**: +2 to Wisdom saves against influence
 - **Magical wards**: Reduce influence accumulation by 50%
-- **[[Professional Training]]**: Intelligence bonus applies to resistance saves
+- **[Professional Training]]**: Intelligence bonus applies to resistance saves
 - **Regular surface exposure**: Remove 1 influence point per week above 100m depth
 
 ### Treatment Options
 
-**Purification Rituals** (DC 15 + influence level, removes 2d4 points)
-**Medical Treatment** (DC 12 + influence level, removes 1d3 points)
-**Magical Intervention** (DC 18 + influence level, removes [[3d6]] points)
-**Social Rehabilitation** (DC 10 + influence level, prevents accumulation for 1 month)
-**Technological Cleansing** (DC 20 + influence level, removes all points but causes [[Exhaustion]])
+**Purification Rituals** (**DC 15** + influence level, removes `dice: 2d4` points)
+**Medical Treatment** (**DC 12** + influence level, removes `dice: 1d3` points)
+**Magical Intervention** (**DC 18** + influence level, removes [[`dice: 3d6` points)
+**Social Rehabilitation** (**DC 10** + influence level, prevents accumulation for 1 month)
+**Technological Cleansing** (**DC 20** + influence level, removes all points but causes [Exhaustion]])
 
 ## Long-term Implications
 
@@ -378,11 +378,11 @@ Deep Mother Influence is a undersea element of the setting, known for biolumines
 
 Legends speak of Deep Mother Influence as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Deep Mother Influence.
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## [[Historical Context]]
+## [Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -426,7 +426,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[The Bathyal Succession]]
-- [[The Deep Prophecies]]
-- [[The Transformed Citizens]]
-- [[The Transformed Citizens (D&D_References)]]
+- [[The Bathyal Succession
+- [The Deep Prophecies]]
+- [[The Transformed Citizens
+- [The Transformed Citizens (D&D_References)]]

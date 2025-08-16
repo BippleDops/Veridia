@@ -1,22 +1,22 @@
 ---
-title: deck-of-many-things#[[Knight]]
+title: "deck-of-many-things#[[Knight"
 type: note
-tags:
+tags: 
 - auto-generated
-- [[Link]]ed
+- [Link]]ed
 created: '2025-01-15'
 ---
 
 # deck-of-many-things#Knight
 
 ## Overview
-This topic is referenced in [[Deck of Many Things 13 Cards]] and other parts of the campaign.
+This topic is referenced in [[Deck of Many Things 13 Cards and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Deck of Many Things 13 Cards]]
+- Referenced by: [Deck of Many Things 13 Cards]]
 - Related topics in the same category
 
 ## Details

@@ -2,7 +2,7 @@
 
 title: Deepmind Conspiracy (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -55,27 +55,27 @@ obsidian UIMode: preview
 --- > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-deepmind-conspiracy-deepmind-conspiracy.svg) # Deepmind Conspiracy *"In the depths of consciousness, where thoughts flow like currents, we have built the ultimate intelligence network - one that exists in minds rather than matter."* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The Deepmind Conspiracy represents the most sophisticated intelligence operation in either Aethermoor or Aquabyssos - a psychic network that exists primarily in the collective consciousness of its members rather than in physical space. This mental infrastructure allows for instantaneous communication, shared knowledge, and coordinated operations across vast distances without leaving any physical evidence. Built around a core of powerful psychic individuals, the Conspiracy maintains a hidden web of informants, analysts, and operatives whose minds are linked through complex mental bonds. They gather intelligence not through conventional means, but by reading thoughts, accessing memories, and manipulating the mental states of targets. The organization serves as the primary intelligence resource for multiple shadow organizations while maintaining its own mysterious agenda. ### The Core Mind
 
-**Controller**: [[Overmind Depth-Thought Eternal (D&D_References)]]
+**Controller**: [[Overmind Depth-Thought Eternal (D&D_References)
 **Function**: Central processing unit for all intelligence operations
 **Capacity**: Can maintain mental links with up to 500 individuals simultaneously **Core Functions**:
 - Memory integration from all network members
 - Thought coordination across the psychic network
 - Psychic defense against mental attacks
 - Reality assessment and truth verification
-- Strategic planning using collective intelligence ### The Five Specialized Minds **The Watcher Mind**: [[Psychic Observer All-Seeing Echo]]
+- Strategic planning using collective intelligence ### The Five Specialized Minds **The Watcher Mind**: [Psychic Observer All-Seeing Echo]]
 
 - Specialty: Surveillance and information gathering
 - Network: 80-100 enhanced perception specialists
-- Operations: Continuous monitoring of targets **The Memory Mind**: [[Extractor Void-Touch Recall]]
+- Operations: Continuous monitoring of targets **The Memory Mind**: [[Extractor Void-Touch Recall
 - Specialty: Memory extraction and analysis
 - Network: 40-60 mental manipulation experts
-- Operations: Forced memory retrieval and consciousness exploration **The Prophet Mind**: [[Future-Seer Prescient]]
+- Operations: Forced memory retrieval and consciousness exploration **The Prophet Mind**: [Future-Seer Prescient]]
 - Specialty: Prediction and probability analysis
 - Network: 20-30 precognitive individuals
-- Operations: Strategic forecasting and timeline analysis **The Whisper Mind**: [[Thought-Speaker Silent]]
+- Operations: Strategic forecasting and timeline analysis **The Whisper Mind**: [[Thought-Speaker Silent
 - Specialty: Long-distance telepathic communication
 - Network: 60-80 telepathic communicators
-- Operations: Instant messaging across realms **The Shadow Mind**: [[Identity Weaver False-Self]]
+- Operations: Instant messaging across realms **The Shadow Mind**: [Identity Weaver False-Self]]
 - Specialty: Identity manipulation and consciousness alteration
 - Network: 30-50 personality modification specialists
 - Operations: Creating false identities and mental camouflage ### Overmind Depth-Thought Eternal
@@ -94,7 +94,6 @@ obsidian UIMode: preview
 - A map reveals ancient history about a local noble
 - Strange accidents suggest a curse
 - A letter reveals a conspiracy about the government ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

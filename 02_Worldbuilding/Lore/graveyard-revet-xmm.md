@@ -1,22 +1,22 @@
 ---
 title: graveyard-revet-xmm
 type: note
-tags:
+tags: 
 - auto-generated
-- [[Link]]ed
+- [[Linked
 created: '2025-01-15'
 ---
 
 # graveyard-revet-xmm
 
 ## Overview
-This topic is referenced in [[graveyard-revenant-xmm (undead)]] and other parts of the campaign.
+This topic is referenced in [graveyard-revenant-xmm (undead)]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[graveyard-revenant-xmm (undead)]]
+- Referenced by: [[graveyard-revenant-xmm (undead)
 - Related topics in the same category
 
 ## Details
@@ -29,11 +29,11 @@ Further information about this topic will be developed as the campaign progresse
 
 ## References
 
-- [[Graveyard Revenant Xmm]]
-- [[graveyard-revenant-xmm (undead)]]
-- [[Monsters by Habitat Forest Monsters Xmm]]
-- [[Monsters by Habitat Swamp Monsters Xmm]]
-- [[Monsters by Habitat Urban Monsters Xmm]]
-- [[monsters-by-habitat-forest-monsters-xmm (tables)]]
-- [[monsters-by-habitat-swamp-monsters-xmm (tables)]]
+- [Graveyard Revenant Xmm]]
+- [[graveyard-revenant-xmm (undead)
+- [Monsters by Habitat Forest Monsters Xmm]]
+- [[Monsters by Habitat Swamp Monsters Xmm
+- [Monsters by Habitat Urban Monsters Xmm]]
+- [[monsters-by-habitat-forest-monsters-xmm (tables)
+- [monsters-by-habitat-swamp-monsters-xmm (tables)]]
 - [[monsters-by-habitat-urban-monsters-xmm (tables)]]

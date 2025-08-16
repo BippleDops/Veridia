@@ -1,16 +1,16 @@
 ---
-title: list-optfeaturetype-mv-b#Maneuver,%20Battle%20Master
+title: "list-optfeaturetype-mv-b#Maneuver,%20Battle%20Master"
 type: note
-tags:
+tags: 
 - auto-generated
-- [[Link]]ed
+- [[Linked
 created: '2025-01-15'
 ---
 
 # list-optfeaturetype-mv-b#Maneuver,%20Battle%20Master
 
 ## Overview
-This topic is referenced in [[Fighter Xphb Battle Master Xphb]] and other parts of the campaign.
+This topic is referenced in [Fighter Xphb Battle Master Xphb]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.

@@ -2,7 +2,7 @@
 aliases: ["Random Encounter 21", "random encounter 21", "21 Encounter Random"]
 tags: [generated]
 id: ENC0020_Random_Encounter_21
-created: 2025-08-15T04:09:51.441Z
+created: "2025-08-15T04:09:51.441Z"
 generator: mega_generator_10k
 ---
 # Random Encounter 21
@@ -10,8 +10,8 @@ generator: mega_generator_10k
 *Easy encounter for Forest environment*
 
 ## Enemies
-- 2d4 Goblins
-- 1d6 Bandits
+- `dice: 2d4` Goblins
+- `dice: 1d6` Bandits
 
 ## Tactics
 Enemies coordinate attacks and use terrain to their advantage

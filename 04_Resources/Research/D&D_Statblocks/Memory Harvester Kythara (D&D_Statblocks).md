@@ -2,7 +2,7 @@
 
 title: Memory Harvester Kythara (D&D_Statblocks)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -41,10 +41,10 @@ created: '2025-08-09'
 modified: '2025-08-14'
 status: complete
 race: Human (Shadow-Touched)
-location: '[[Memory Meadows]] - The Harvesting Fields'
+location: '[[Memory Meadows - The Harvesting Fields'
 world: Aquabyssos
 role: Memory Harvester
-affiliation: '[[Memory Farmers]] & The Deep Mother''s Service'
+affiliation: '[Memory Farmers]] & The Deep Mother''s Service'
 age: '42'
 created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'
@@ -53,7 +53,7 @@ updated: '2025-08-11T00:00:00+00:00'
 
 *Tender of the Mother's Dreams, Shepherd of Forgotten Thoughts* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
-Kythara tends the [[Memory Meadows]] where the [[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'s pleasant dreams manifest as harvestable memories. Unlike the crude [[Memory Farmers]] who exploit memories for profit, she serves a sacred purpose—collecting and preserving the Deep Mother's dreams to feed back to her sleeping consciousness, maintaining the cycle that keeps Aquabyssos stable. Her shadow-touched nature allows her to navigate the boundary between dream and reality. ## Adventure Hooks
+Kythara tends the [[Memory Meadows where the [The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'s pleasant dreams manifest as harvestable memories. Unlike the crude [[Memory Farmers who exploit memories for profit, she serves a sacred purpose—collecting and preserving the Deep Mother's dreams to feed back to her sleeping consciousness, maintaining the cycle that keeps Aquabyssos stable. Her shadow-touched nature allows her to navigate the boundary between dream and reality. ## Adventure Hooks
 
 1. **The Sacred Harvest**: Help her protect Memory Meadows from corporate raiders
 2. **The Lost God-Dream**: Retrieve stolen divine memory before it's corrupted
@@ -61,12 +61,11 @@ Kythara tends the [[Memory Meadows]] where the [[The Deep Mother|02 Worldbuildin
 4. **The Mother's Message**: She has urgent vision to share about coming crisis
 5. **The Healing Touch**: Seek her help with party member's traumatic memories ### Memory Harvester Kythara
 
-
-*Medium humanoid (human, shadow-touched), neutral good* **Armor Class** 18 (Memory Shroud) **Hit Points** 158 (21d8 + 63) **Speed** 30 ft., hover 30 ft. (in Memory Meadows) **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA**
+*Medium humanoid (human, shadow-touched), neutral good* **Armor Class** 18 (Memory Shroud) **Hit Points** 158 (`dice: 21d8` + 63) **Speed** 30 ft., hover 30 ft. (in Memory Meadows) **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA**
 
 --------|---------|---------|---------|---------|--------
 
-12 (+1) | 18 (+4) | 16 (+3) | 20 (+5) | 24 (+7) | 22 (+6) **Saving Throws** Int +12, Wis +14, Cha +13 **Skills** Insight +21, Medicine +14, Nature +12, Perception +14, Religion +12 **Damage Resistances** Psychic, Necrotic **Damage Immunities** Memory alteration effects, shadow corruption **Condition Immunities** Charmed, frightened by memories **Senses** Memory sight 120 ft., darkvision 60 ft., passive Perception 24 **Languages** Common, Primordial (Dream Speech), telepathy 60 ft. **Challenge Rating** 12 (8,400 XP) **Proficiency Bonus** +4 ### Special Abilities **Legendary Resistance (3/Day).** If Kythara fails a saving throw, she can choose to succeed instead. **Memory Sight.** Kythara can see memories as glowing, tangible objects. She can determine the emotional content, age, and ownership of any memory within 120 feet. **Shadow-Memory Integration.** Kythara exists partially in memory-space, allowing her to step through shadows in the Memory Meadows and access stored experiences directly. **Deep Mother's Sacred Trust.** Kythara is protected by the Deep Mother's divine power when performing her sacred duties. She has advantage on saving throws against effects that would corrupt, steal, or destroy memories. **Dream Walker.** Kythara can enter the dreams of sleeping creatures within 1 mile and navigate the collective dream-realm where the Deep Mother's consciousness pools. **Memory Resoce.** When Kythara touches a memory or dream, she can determine its origin, authenticity, and any alterations that have been made to it. **Spellcasting.** Kythara is a 15th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 22, +14 to hit with spell attacks). She knows the following spells: - **Cantrips (at will):** guidance, mending, minor illusion, prestidigitation, thaumaturgy
+12 (+1) | 18 (+4) | 16 (+3) | 20 (+5) | 24 (+7) | 22 (+6) **Saving Throws** Int +12, Wis +14, Cha +13 **Skills** Insight +21, Medicine +14, Nature +12, Perception +14, Religion +12 **Damage Resistances** Psychic, Necrotic **Damage Immunities** Memory alteration effects, shadow corruption **Condition Immunities** Charmed, frightened by memories **Senses** Memory sight 120 ft., darkvision 60 ft., passive Perception 24 **Languages** Common, Primordial (Dream Speech), telepathy 60 ft. **Challenge Rating** 12 (8,400 XP) **Proficiency Bonus** +4 ### Special Abilities **Legendary Resistance (3/Day).** If Kythara fails a saving throw, she can choose to succeed instead. **Memory Sight.** Kythara can see memories as glowing, tangible objects. She can determine the emotional content, age, and ownership of any memory within 120 feet. **Shadow-Memory Integration.** Kythara exists partially in memory-space, allowing her to step through shadows in the Memory Meadows and access stored experiences directly. **Deep Mother's Sacred Trust.** Kythara is protected by the Deep Mother's divine power when performing her sacred duties. She has advantage on saving throws against effects that would corrupt, steal, or destroy memories. **Dream Walker.** Kythara can enter the dreams of sleeping creatures within 1 mile and navigate the collective dream-realm where the Deep Mother's consciousness pools. **Memory Resoce.** When Kythara touches a memory or dream, she can determine its origin, authenticity, and any alterations that have been made to it. **Spellcasting.** Kythara is a 15th-level spellcaster. Her spellcasting ability is Wisdom (spell save **DC 22**, +14 to hit with spell attacks). She knows the following spells: - **Cantrips (at will):** guidance, mending, minor illusion, prestidigitation, thaumaturgy
 
 - **1st level (4 slots):** cure wounds, detect magic, identify, sanctuary
 - **2nd level (3 slots):** detect thoughts, lesser restoration, suggestion, zone of truth
@@ -75,15 +74,15 @@ Kythara tends the [[Memory Meadows]] where the [[The Deep Mother|02 Worldbuildin
 - **5th level (2 slots):** dominate person, greater restoration, modify memory, scrying
 - **6th level (1 slot):** heal, mass suggestion, programmed illusion
 - **7th level (1 slot):** plane shift (to dream realms), project image
-- **8th level (1 slot):** feeblemind, mind blank ### Actions **Multiattack.** Kythara makes two Memory Touch attacks or casts two spells. **Memory Touch.** *Melee Spell Attack:* +14 to hit, reach 5 ft., one creature. *Hit:* 16 (3d6 + 6) psychic damage. Kythara can choose one of the following effects:
+- **8th level (1 slot):** feeblemind, mind blank ### Actions **Multiattack.** Kythara makes two Memory Touch attacks or casts two spells. **Memory Touch.** *Melee Spell Attack:* +14 to hit, reach 5 ft., one creature. *Hit:* 16 (`dice: 3d6` + 6) psychic damage. Kythara can choose one of the following effects:
 
 - Extract a painful memory, reducing the target's maximum hit points by the damage dealt until they complete a long rest
 - Implant a peaceful memory, healing the target for the damage dealt instead
-- Modify a recent memory (last 24 hours), similar to the modify memory spell **Dream Manifestation.** *Ranged Spell Attack:* +14 to hit, range 90 ft., one creature. *Hit:* 22 (4d6 + 8) psychic damage. Kythara manifests one of the target's fears or desires as a semi-solid illusion that lasts for 1 minute. **Sacred Memory Harvest (Recharge 5-6).** Kythara performs the sacred act of collecting divine dreams. All creatures within 30 feet must make a DC 22 Wisdom saving throw. Those who fail surrender their most beautiful memory to Kythara, taking 27 (6d8) psychic damage and becoming stunned until the end of their next turn. Those who succeed take half damage and aren't stunned. Kythara stores the harvested memories to feed to the Deep Mother. **Memory Storm (1/Day).** Kythara releases a swirling vortex of collected memories in a 60-foot radius. All creatures in the area must make a DC 22 Intelligence saving throw. On a failure, they take 42 (12d6) psychic damage and are overwhelmed by random memories for 1 minute, during which they have disadvantage on all rolls. On a success, they take half damage and aren't overwhelmed. **Deep Mother's Dream Call (1/Day).** Kythara channels the Deep Mother's presence through collected dreams. All creatures within 120 feet must make a DC 22 Charisma saving throw. Those who fail are charmed for 24 hours and compelled to protect the Memory Meadows and assist in sacred memory collection. ### Legendary Actions (3 per turn)
+- Modify a recent memory (last 24 hours), similar to the modify memory spell **Dream Manifestation.** *Ranged Spell Attack:* +14 to hit, range 90 ft., one creature. *Hit:* 22 (`dice: 4d6` + 8) psychic damage. Kythara manifests one of the target's fears or desires as a semi-solid illusion that lasts for 1 minute. **Sacred Memory Harvest (Recharge 5-6).** Kythara performs the sacred act of collecting divine dreams. All creatures within 30 feet must make a **DC 22** Wisdom saving throw. Those who fail surrender their most beautiful memory to Kythara, taking 27 (`dice: 6d8`) psychic damage and becoming stunned until the end of their next turn. Those who succeed take half damage and aren't stunned. Kythara stores the harvested memories to feed to the Deep Mother. **Memory Storm (1/Day).** Kythara releases a swirling vortex of collected memories in a 60-foot radius. All creatures in the area must make a **DC 22** Intelligence saving throw. On a failure, they take 42 (`dice: 12d6`) psychic damage and are overwhelmed by random memories for 1 minute, during which they have disadvantage on all rolls. On a success, they take half damage and aren't overwhelmed. **Deep Mother's Dream Call (1/Day).** Kythara channels the Deep Mother's presence through collected dreams. All creatures within 120 feet must make a **DC 22** Charisma saving throw. Those who fail are charmed for 24 hours and compelled to protect the Memory Meadows and assist in sacred memory collection. ### Legendary Actions (3 per turn)
 
 Kythara can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. **Move.** Kythara moves up to her speed, potentially stepping through shadow-memory to teleport up to 60 feet. **Memory Touch.** Kythara makes one Memory Touch attack. **Shadow Step.** Kythara teleports up to 90 feet to an area of dim light or darkness, or to any location in the Memory Meadows. **Cast Spell (Costs 2 Actions).** Kythara casts a spell of 3rd level or lower. **Sacred Communion (Costs 3 Actions).** Kythara briefly connects with the Deep Mother through collected memories, gaining insight into immediate threats or divine will. ### Lair Actions
 
-When encountered in the Memory Meadows, Kythara can take lair actions on initiative count 20: **Memory Maze.** The landscape shifts based on collected memories, creating difficult terrain and potentially disorienting intruders with visions from the stored experiences. **Divine Memory Manifestation.** A powerful god-dream manifests as a protective entity (use appropriate creature stats) that aids Kythara for 1 minute. **Meadow Guardian Response.** The Memory Meadows themselves respond to threats, causing memory-flowers to release spores that force DC 20 Wisdom saves or be charmed by peaceful memories for 1 round. --- ### Early Life & Awakening
+When encountered in the Memory Meadows, Kythara can take lair actions on initiative count 20: **Memory Maze.** The landscape shifts based on collected memories, creating difficult terrain and potentially disorienting intruders with visions from the stored experiences. **Divine Memory Manifestation.** A powerful god-dream manifests as a protective entity (use appropriate creature stats) that aids Kythara for 1 minute. **Meadow Guardian Response.** The Memory Meadows themselves respond to threats, causing memory-flowers to release spores that force **DC 20** Wisdom saves or be charmed by peaceful memories for 1 round. --- ### Early Life & Awakening
 
 **Childhood Visions**: Born with ability to see memories as objects, initially thought to be hallucinations
 - Parents sought medical and religious help for her "condition"
@@ -161,10 +160,10 @@ When encountered in the Memory Meadows, Kythara can take lair actions on initiat
 - Amplification of positive memories to strengthen personal resilience - Memory integration therapy helping people understand and learn from experiences
 - Restoration of memories damaged by magical interference or psychological trauma --- ### Sacred Memory Workers Alliance
 
-**[[Memory Trader Kellian]]**: Ethical merchant maintaining commercial memory trade standards - Collaborative oversight of memory commerce ensuring no exploitation of sacred sites
+**[Memory Trader Kellian]]**: Ethical merchant maintaining commercial memory trade standards - Collaborative oversight of memory commerce ensuring no exploitation of sacred sites
 - Joint certification program for ethical memory handlers
 - Shared resources for protecting individual memory rights
-- Cooperative response to memory-related crimes and abuses **[[Archivist Mnemonic the Forgotten|02 Worldbuilding/People/Archivist Mnemonic The Forgotten]]**: Academic collaboration on memory preservation
+- Cooperative response to memory-related crimes and abuses **[[Archivist Mnemonic the Forgotten|02 Worldbuilding/People/Archivist Mnemonic The Forgotten**: Academic collaboration on memory preservation
 - Exchange program sharing expertise in memory storage and retrieval
 - Joint research into memory degradation and preservation techniques
 - Collaborative effort documenting cultural memories of extinct civilizations
@@ -173,19 +172,19 @@ When encountered in the Memory Meadows, Kythara can take lair actions on initiat
 - Shared early warning system for dream-realm instabilities - Joint training programs for safely navigating collective unconscious
 - Collaborative response to dream-based magical threats ### Religious & Spiritual Connections
 
-**[[Sister Thalassa the Depth-Touched (D&D_References)]]**: Shared devotion to Deep Mother with different interpretations
+**[Sister Thalassa the Depth-Touched (D&D_References)]]**: Shared devotion to Deep Mother with different interpretations
 - Regular theological discussions about divine will and proper worship methods
 - Collaboration on protecting sacred sites from commercial exploitation
 - Disagreement over awakening timeline and preparation strategies
-- Mutual respect despite differences in approach to Divine service **[[High Priestess Scylla Deepdream|02 Worldbuilding/People/High Priestess Scylla Deepdream]]**: Orthodox religious authority providing institutional support
+- Mutual respect despite differences in approach to Divine service **[[High Priestess Scylla Deepdream|02 Worldbuilding/People/High Priestess Scylla Deepdream**: Orthodox religious authority providing institutional support
 - Official religious recognition for Kythara's work within established church structure
 - Resources and protection for Memory Meadows through church political influence
 - Theological consultation on proper interpretation of divine memory-feeding requirements
-- Institutional legitimacy helping protect sacred sites from government interference **[[Temple of Sacred Dreams]]**: Religious institution supporting dream-based spiritual practices
+- Institutional legitimacy helping protect sacred sites from government interference **[Temple of Sacred Dreams]]**: Religious institution supporting dream-based spiritual practices
 - Collaborative programs helping people understand divine communication through dreams
 - Joint ceremonies honoring Deep Mother through memory and dream offerings
 - Shared resources for training priests in safe dream-walking techniques
-- Mutual support during religious holidays and cosmic spiritual events ### Opposition & Complex Relationships **[[Memory Farmer Thane]]**: Primary commercial adversary threatening Memory Meadows
+- Mutual support during religious holidays and cosmic spiritual events ### Opposition & Complex Relationships **[[Memory Farmer Thane**: Primary commercial adversary threatening Memory Meadows
 
 - Direct conflict over exploitation vs. Preservation of sacred memory sites
 - Legal battles over memory harvesting rights and environmental protection
@@ -193,17 +192,17 @@ When encountered in the Memory Meadows, Kythara can take lair actions on initiat
 - Occasional uneasy truces during larger threats requiring cooperation **Commercial Memory Syndicates**: Corporate entities seeking to industrialize memory trade
 - Lobbying government to remove protections from sacred memory sites
 - Attempts to infiltrate and co-opt legitimate memory preservation operations - Legal challenges to religious protections for Memory Meadows
-- Economic warfare through dumping artificially created memories to depress market **[[The Forgetting Cult]]**: Philosophical enemies seeking universal amnesia
+- Economic warfare through dumping artificially created memories to depress market **[The Forgetting Cult]]**: Philosophical enemies seeking universal amnesia
 - Fundamental opposition to memory preservation as obstacle to enlightenment
 - Attempts to corrupt or destroy sacred memory collections
 - Recruitment efforts targeting traumatized individuals seeking relief through forgetting
 - Theological debates about whether memory preservation serves or hinders spiritual growth ### Political & Social Networks
 
-**[[Senator Nereon Tidecaller]]**: Political ally supporting memory preservation legislation
+**[[Senator Nereon Tidecaller**: Political ally supporting memory preservation legislation
 - Advocacy for legal protections for sacred memory sites and traditional practices
 - Funding for memory preservation research and ethical standards development
 - Political protection from commercial interests seeking to exploit Memory Meadows
-- Legislative framework ensuring individual rights over personal memories **[[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]**: Institutional relationship with governing body
+- Legislative framework ensuring individual rights over personal memories **[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]**: Institutional relationship with governing body
 - Regular testimony about memory-related legislation and policy impacts
 - Expert consultation on psychological and spiritual effects of memory commerce
 - Advisory role in developing ethical standards for memory trade regulation
@@ -312,7 +311,7 @@ The Deep Mother's awakening appears imminent. Kythara must coordinate with other
 - **Collaboration**: Working with other NPCs in campaign to achieve coordinated Divine preparation
 - **Resources**: Gathering centuries of stored memories for final offering to Divine consciousness
 - **Choice**: Deciding what aspects of mortal experience to emphasize in Divine awareness
-- **Stakes**: Deep Mother's awakening attitude could determine survival of surface civilization --- ### Links to [[Quest - The Convergence Crisis]]
+- **Stakes**: Deep Mother's awakening attitude could determine survival of surface civilization --- ### Links to [[Quest - The Convergence Crisis
 
 **Memory-Reality Stability**: Connection between collective memory and dimensional fabric
 - Stored memories provide anchor points preventing reality fragmentation
@@ -322,7 +321,7 @@ The Deep Mother's awakening appears imminent. Kythara must coordinate with other
 - Recognition and quarantine of foreign-reality memories that don't belong in current dimension
 - Collaboration with dimensional researchers studying convergence effects
 - Development of techniques for distinguishing local from trans-dimensional memories
-- Prevention of reality confusion caused by conflicting memory-sets ### Integration with [[The Convergence Seekers|02 Worldbuilding/Groups/The Convergence Seekers]]
+- Prevention of reality confusion caused by conflicting memory-sets ### Integration with [The Convergence Seekers|02 Worldbuilding/Groups/The Convergence Seekers]]
 
 **Memory as Dimensional Anchor**: Understanding role of consciousness in maintaining reality stability
 - Shared research into connections between memory, consciousness, and dimensional structure
@@ -332,7 +331,7 @@ The Deep Mother's awakening appears imminent. Kythara must coordinate with other
 - Recognition that Deep Mother's consciousness may exist across dimensional boundaries
 - Understanding that memory preservation serves multi-dimensional rather than purely local purposes
 - Collaboration on projects requiring access to trans-dimensional memory archives
-- Shared responsibility for maintaining cosmic memory stability during convergence events ### Connection to [[Shadow Crystal]]
+- Shared responsibility for maintaining cosmic memory stability during convergence events ### Connection to [[Shadow Crystal
 
 **Memory-Shadow Interface**: Intersection between shadow magic and memory manipulation
 - Study of how shadow energy affects memory formation and preservation
@@ -342,7 +341,7 @@ The Deep Mother's awakening appears imminent. Kythara must coordinate with other
 - Shadow-crystal fusion threatens individual memory integrity and authentic experience
 - Memory preservation supports individual identity against homogenizing synthesis forces
 - Potential alliance with those resisting shadow-crystal influence
-- Protection of memory ecosystem from synthesis contamination and control ### Links to [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] **Divine Memory Conduit**: Serving as bridge between mortal and divine memory systems
+- Protection of memory ecosystem from synthesis contamination and control ### Links to [Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] **Divine Memory Conduit**: Serving as bridge between mortal and divine memory systems
 
 - Facilitating communication between Divine consciousness and mortal awareness
 - Translation services helping mortals understand Divine memory communications

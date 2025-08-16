@@ -2,7 +2,7 @@
 aliases: ["Random Encounter 32", "random encounter 32", "32 Encounter Random"]
 tags: [generated]
 id: ENC0031_Random_Encounter_32
-created: 2025-08-15T04:09:51.444Z
+created: "2025-08-15T04:09:51.444Z"
 generator: mega_generator_10k
 ---
 # Random Encounter 32
@@ -10,7 +10,7 @@ generator: mega_generator_10k
 *Medium encounter for Mountain environment*
 
 ## Enemies
-- 1d6 Bandits
+- `dice: 1d6` Bandits
 
 ## Tactics
 Enemies coordinate attacks and use terrain to their advantage

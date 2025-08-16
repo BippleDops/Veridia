@@ -2,7 +2,7 @@
 aliases: ["Random Encounter 77", "random encounter 77", "77 Encounter Random"]
 tags: [generated]
 id: ENC0076_Random_Encounter_77
-created: 2025-08-15T04:09:51.458Z
+created: "2025-08-15T04:09:51.458Z"
 generator: mega_generator_10k
 ---
 # Random Encounter 77
@@ -10,7 +10,7 @@ generator: mega_generator_10k
 *Deadly encounter for Mountain environment*
 
 ## Enemies
-- 1d6 Bandits
+- `dice: 1d6` Bandits
 - 1 Owlbear
 
 ## Tactics

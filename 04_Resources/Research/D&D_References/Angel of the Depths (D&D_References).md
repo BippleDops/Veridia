@@ -2,7 +2,7 @@
 
 title: Angel of the Depths (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -120,33 +120,32 @@ One of the Seven Shards lies hidden within the statue's base, its power both sus
 The statue stands at the center of an ancient magical pact between the surface and the depths. As long as it stands—corrupted or not—this covet prevents an all-out war between the two realms. Its destruction would have catastrophic political consequences. ### Environmental Effects
 
 **Shadow Corruption Aura** (500-foot radius)
-- Living creatures must make a DC 15 Wisdom saving throw every hour or gain one level of corruption
+- Living creatures must make a **DC 15** Wisdom saving throw every hour or gain one level of corruption
 - Spells of 3rd level or lower have a 25% chance of being corrupted
 - Undead creatures gain advantage on all rolls within the aura **Divine Resoce** (100-foot radius)
 - Divine magic is enhanced, allowing spells to be cast at +1 level without using higher spell slots
 - Turn Undead attempts gain advantage
-- Corrupted creatures take 1d4 radiant damage each round ### Hazards
+- Corrupted creatures take `dice: 1d4` radiant damage each round ### Hazards
 
 **Whispering Madness**
-- DC 16 Wisdom saving throw when first approaching the statue
+- **DC 16** Wisdom saving throw when first approaching the statue
 - Failure results in being charmed for 1 hour, compelled to approach the statue
-- Critical failure causes temporary madness (1d4 hours) **Statue's Gaze**
-- When the statue's eyes begin to glow, all creatures within 120 feet must make DC 18 Constitution saves
+- Critical failure causes temporary madness (`dice: 1d4` hours) **Statue's Gaze**
+- When the statue's eyes begin to glow, all creatures within 120 feet must make **DC 18** Constitution saves
 - Failure causes paralysis for 1 minute as the target experiences visions of their deepest fears
 - Success grants resistance to necrotic damage for 24 hours ### Treasure
 
 **Hidden within the Weeping Chamber:**
 - *Angel's Tear* (Rare): A crystal that can cast *Greater Restoration* once per day
 - *Corrupted Prayer Book* (Very Rare): Allows the casting of both divine and shadow spells
-- *Depth Guardian's Scale* (Legendary): Armor component that provides immunity to pressure effects ### Encounter Suggestions **Random Encounters (1d6):**
+- *Depth Guardian's Scale* (Legendary): Armor component that provides immunity to pressure effects ### Encounter Suggestions **Random Encounters (`dice: 1d6`):**
 
-1. 2d4 Depth Wraiths emerge from the statue's base
+1. `dice: 2d4` Depth Wraiths emerge from the statue's base
 2. The Guardian Leviathan investigates intruders
 3. Brother Matthias appears, seeking aid for a ritual
 4. A group of corrupted pilgrims arrive simultaneously
 5. The statue's whispers reveal a specific clue or warning
 6. Shadow creatures emerge from cracks in the statue's surface ## DM Notes and Campaign Integration The Angel of the Depths serves multiple purposes in an Aquabyssos campaign:
-
 
 - **Moral Complexity**: Forces players to confront the cost of corruption and the possibility of redemption
 - **Political Implications**: Connects to larger conflicts between surface and depth dwellers
@@ -161,7 +160,6 @@ The statue stands at the center of an ancient magical pact between the surface a
 - **Religious Orders**: Both surface and depth faiths have interest in the site
 - **Political Factions**: Various groups seek to control or understand the statue's power
 - **Other Corrupted Sites**: Part of a network of locations affected by shadow corruption *The Angel of the Depths stands as a testament to both the heights of divine aspiration and the depths of corruption's reach. Whether it will serve as a beacon of hope or a harbinger of doom depends largely on the actions of those brave enough to seek it out in the crushing darkness of the deepest ocean.* ## Player-Facing Summary Angel of the Depths is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Angel of the Depths as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Angel of the Depths. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Cross-References - [[Angel of the Depths|02 Worldbuilding/Places/Angel Of The Depths]] riched: true --> ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

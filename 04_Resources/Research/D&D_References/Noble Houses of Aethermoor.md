@@ -2,7 +2,7 @@
 
 title: Noble Houses of Aethermoor
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,7 +42,6 @@ world: Aethermoor
 - A merchant needs help finding before dawn
 - Strange sightings suggest a portal
 - A journal reveals a betrayal about this place ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

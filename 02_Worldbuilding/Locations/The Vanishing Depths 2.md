@@ -2,7 +2,7 @@
 created: '2025-08-11'
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - both
 - complete
 - content/location
@@ -14,16 +14,10 @@ updated: '2025-08-13T12:34:17.097726+00:00'
 world: Both
 ---
 
-
-
-
-
-
-
 # The Vanishing Depths
 
 ## Overview
-The Vanishing Depths represent one of the most dangerous and unpredictable regions in all of [[02_Worldbuilding/Places/Aquabyssos]] - an area where reality itself becomes unstable, constantly shifting between different states of existence. Sometimes the water is there, sometimes it isn't. Sometimes gravity works normally, other times it flows sideways or upward. The area appears to be the result of dimensional tears caused by [[02_Worldbuilding/Places/The Great Drowning]], where the barriers between planes of existence have worn dangerously thin.
+The Vanishing Depths represent one of the most dangerous and unpredictable regions in all of [[02_Worldbuilding/Places/Aquabyssos - an area where reality itself becomes unstable, constantly shifting between different states of existence. Sometimes the water is there, sometimes it isn't. Sometimes gravity works normally, other times it flows sideways or upward. The area appears to be the result of dimensional tears caused by [02_Worldbuilding/Places/The Great Drowning]], where the barriers between planes of existence have worn dangerously thin.
 
 ## The Nature of the Instability
 
@@ -59,9 +53,9 @@ Labyrinthine structures that exist only as potential - they become real when obs
 ## Inhabitants and Entities
 
 ### The Constant Explorers
-**[[02_Worldbuilding/Places/Navigator Flux Timewalker]]**: A researcher who has been exploring the Depths for subjective centuries but only minutes of real time. They exist partially outside normal time and can provide guidance, though their advice often relates to events that haven't happened yet.
+**[[02_Worldbuilding/Places/Navigator Flux Timewalker**: A researcher who has been exploring the Depths for subjective centuries but only minutes of real time. They exist partially outside normal time and can provide guidance, though their advice often relates to events that haven't happened yet.
 
-**[[02_Worldbuilding/Places/The Probability Merchant]]**: A trader who exists in multiple realities simultaneously, selling items that might exist, once existed, or will exist. They accept payment in possibilities, memories, or temporal paradoxes rather than conventional currency.
+**[02_Worldbuilding/Places/The Probability Merchant]]**: A trader who exists in multiple realities simultaneously, selling items that might exist, once existed, or will exist. They accept payment in possibilities, memories, or temporal paradoxes rather than conventional currency.
 
 ### The Reality Refugees
 People and creatures from other dimensions who became trapped in the Depths when reality shifts connected their home planes to this area. They include:
@@ -79,7 +73,7 @@ Creatures that have adapted to feed on reality distortions themselves. These inc
 **Possibility Spiders**: Web-spinning entities that trap potential futures in crystalline nets
 
 ### The Lost Expedition
-An entire research team from [[02_Worldbuilding/Places/New Tethys]] that has been missing for three years, though they experience it as three hours. They've established a base camp in a relatively stable pocket and are desperately trying to map safe routes out while conducting valuable research on dimensional mechanics.
+An entire research team from [[02_Worldbuilding/Places/New Tethys that has been missing for three years, though they experience it as three hours. They've established a base camp in a relatively stable pocket and are desperately trying to map safe routes out while conducting valuable research on dimensional mechanics.
 
 ## Hazards and Dangers
 
@@ -92,7 +86,7 @@ Prolonged exposure to unstable reality causes a condition where affected individ
 
 ### Temporal Paradoxes
 Actions taken in the Depths can create paradoxes that damage both the individual and reality itself. Meeting yourself, preventing your own past actions, or learning information you shouldn't know can cause:
-- Immediate psychic damage (3d6 per paradox severity)
+- Immediate psychic damage (`dice: 3d6` per paradox severity)
 - Permanent ability score reduction
 - Erasure from history (character ceases to have existed)
 - Creation of hostile temporal duplicates
@@ -114,17 +108,17 @@ Massive disturbances where multiple types of instability converge, creating chao
 ## D&D 5e Mechanics
 
 ### Instability Checks
-Every hour in the Depths, characters must make a Wisdom save (DC 15 + hours spent) or suffer an instability effect:
+Every hour in the Depths, characters must make a Wisdom save (**DC 15** + hours spent) or suffer an instability effect:
 
 **1-5: Minor Shift** - Advantage or disadvantage on next roll
 **6-10: Moderate Distortion** - Spell slot lost or recovered randomly
 **11-15: Major Anomaly** - Temporary ability score change
-**16-19: Reality Break** - Character displaced 1d100 feet in random direction
-**20+: Dimensional Rift** - Character transported to different plane for 1d4 rounds
+**16-19: Reality Break** - Character displaced `dice: 1d100` feet in random direction
+**20+: Dimensional Rift** - Character transported to different plane for `dice: 1d4` rounds
 
 ### Temporal Mechanics
-- Past actions can be observed but changing them requires a Charisma save (DC 18)
-- Meeting yourself from another timeline causes immediate psychic damage (2d8)
+- Past actions can be observed but changing them requires a Charisma save (**DC 18**)
+- Meeting yourself from another timeline causes immediate psychic damage (`dice: 2d8`)
 - Objects brought from different time periods fade after 24 hours unless anchored with magic
 - Divination spells have a 50% chance of revealing past/future instead of present
 
@@ -137,7 +131,7 @@ Spellcasting in the Depths is unpredictable:
 
 ### Navigation Rules
 Movement in the Depths doesn't follow normal rules:
-- Survival checks (DC 20) required to move in intended direction
+- Survival checks (**DC 20**) required to move in intended direction
 - Failed navigation can lead anywhere in the Depths or beyond
 - Returning to previously visited locations requires increasingly difficult checks
 - Magical navigation aids malfunction 60% of the time
@@ -148,7 +142,7 @@ Movement in the Depths doesn't follow normal rules:
 Crystallized moments of choice that can be shattered to reroll any die result. Each crystal contains a specific decision point from history and using it slightly alters the timeline. Extremely valuable but dangerous to collect in large quantities.
 
 ### Temporal Anchors
-Devices that create small zones of stable time and space, essential for safe exploration. These rare artifacts were created before [[02_Worldbuilding/Places/The Great Drowning]] and cannot be replicated with current magical knowledge.
+Devices that create small zones of stable time and space, essential for safe exploration. These rare artifacts were created before [02_Worldbuilding/Places/The Great Drowning]] and cannot be replicated with current magical knowledge.
 
 ### Reality Compasses
 Instruments that point toward stable reality rather than magnetic north. They help navigators avoid the worst instabilities but sometimes point in impossible directions like "up through time" or "sideways into yesterday."
@@ -161,23 +155,23 @@ Pearls that contain entire pocket dimensions where refugees from collapsed reali
 
 ## Connected Locations
 
-### [[02_Worldbuilding/Places/The Primordial Vaults]]
+### [[02_Worldbuilding/Places/The Primordial Vaults
 Some believe the Vanishing Depths are connected to the deepest levels of the Vaults, where reality was first damaged. Temporal explorers occasionally report finding passages that lead between the two locations.
 
-### [[02_Worldbuilding/Places/New Tethys]]
+### [02_Worldbuilding/Places/New Tethys]]
 The city's research institutions send regular (though carefully planned) expeditions to study the Depths. The knowledge gained has advanced their understanding of memory magic and dimensional theory significantly.
 
-### [[02_Worldbuilding/Places/Aethermoor]]  
+### [[02_Worldbuilding/Places/Aethermoor  
 Reality tears occasionally connect the Depths to the surface world, creating brief portals that allow limited travel between realms. These connections are unpredictable and extremely dangerous to use.
 
-### [[02_Worldbuilding/Places/The Hadal Depths]]
+### [02_Worldbuilding/Places/The Hadal Depths]]
 The boundary between the Vanishing Depths and the Hadal Depths is unclear, as both locations exist partially outside normal reality. Some scholars believe they may be the same place viewed from different dimensional perspectives.
 
 ## Quest Hooks and Adventures
 
 ### The Stabilization Project
 **Level**: 13-17  
-[[02_Worldbuilding/Places/New Tethys]] scientists believe they've found a way to permanently stabilize a section of the Depths, but they need adventurers to place quantum anchors at specific coordinates that keep changing as reality shifts.
+[[02_Worldbuilding/Places/New Tethys scientists believe they've found a way to permanently stabilize a section of the Depths, but they need adventurers to place quantum anchors at specific coordinates that keep changing as reality shifts.
 
 ### The Paradox Investigation  
 **Level**: 11-15  
@@ -198,7 +192,7 @@ A valuable artifact was lost in the Depths decades ago, but temporal distortions
 ## Random Encounters (d12)
 1. **Reality Storm Approaching**: Environmental hazard affecting all natural laws
 2. **Temporal Echo**: Ghostly repetition of a past event with which characters can interact
-3. **Dimension Rift**: Portal to random plane opens for 1d4 rounds
+3. **Dimension Rift**: Portal to random plane opens for `dice: 1d4` rounds
 4. **The Same Explorer**: Party member's past/future self approaches with cryptic warnings
 5. **Possibility Cascade**: Multiple versions of the same event happen simultaneously  
 6. **Paradox Parasite Swarm**: Creatures feeding on logical contradictions
@@ -212,7 +206,7 @@ A valuable artifact was lost in the Depths decades ago, but temporal distortions
 ## Research Value and Scientific Interest
 
 ### Dimensional Studies
-The Depths provide unparalleled opportunities to study the fundamental nature of reality, space, and time. Researchers from across [[02_Worldbuilding/Places/Aquabyssos]] come here despite the dangers to advance their understanding of:
+The Depths provide unparalleled opportunities to study the fundamental nature of reality, space, and time. Researchers from across [02_Worldbuilding/Places/Aquabyssos]] come here despite the dangers to advance their understanding of:
 - Planar mechanics and dimensional travel
 - The relationship between magic and reality
 - Time travel theory and temporal paradox resolution
@@ -224,7 +218,7 @@ The temporal anomalies in the Depths preserve moments from throughout history, i
 ## Secrets
 > [!warning] DM Only
 > - The Vanishing Depths are slowly expanding as reality becomes less stable over time
-> - [[02_Worldbuilding/Places/The Great Drowning]] was not a single event but an ongoing temporal paradox centered here
+> - [[02_Worldbuilding/Places/The Great Drowning was not a single event but an ongoing temporal paradox centered here
 > - One of the Null Spheres contains the original timeline where the drowning never happened
 > - The Paradox Engine is actually a person - someone who became so unstable they can alter reality through will alone
 > - Every creature that dies in the Depths creates a new dimensional fracture, making the problem progressively worse
@@ -237,10 +231,9 @@ The Vanishing Depths work best as:
 - **Ultimate Test**: Location that challenges players' problem-solving abilities beyond combat
 - **Campaign Climax**: Final location where reality-threatening plots come to a head
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/New Tethys]]
+- [02_Worldbuilding/Places/New Tethys]]
 
 ## Player-Facing Summary
 
@@ -266,26 +259,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 
-
 ## Atmosphere
 - Mood and feeling
 - Sensory details
-
 
 ## Resources
 - Natural resources
 - Trade goods
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

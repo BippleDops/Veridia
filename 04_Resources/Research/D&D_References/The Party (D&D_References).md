@@ -2,7 +2,7 @@
 
 title: The Party (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -79,7 +79,6 @@ Fusion of multiple beings or timelines:
 - **Starting Benefits**: Extra proficiencies, dual nature
 - **Starting Complications**: Personality shifts, paradox attraction
 - **Unique Feature**: Exists in multiple realities simultaneously ### Bonds and Tensions **Creating Inter-Party Bonds**
-
 
 **Summary**: Bonds and Tensions **Creating Inter-Party Bonds** - Key information at a glance.
 
@@ -166,7 +165,6 @@ Handles unsavory necessities:
 7. Prophetic destiny
 8. Power they possess ### Faction Entanglements Each character starts with:
 
-
 - **One Patron Faction**: Provides resources and missions
 - **One Allied Faction**: Offers occasional aid
 - **One Neutral Faction**: Could go either way
@@ -210,14 +208,12 @@ Character slowly succumbs to Deep Mother influence:
 4. **Stage 4**: Crisis point, choose humanity or power
 5. **Stage 5**: Redemption or transformation ### The Leadership Arc
 
-
 Character grows from follower to leader:
 1. **Stage 1**: Reluctant responsibility
 2. **Stage 2**: First command decision
 3. **Stage 3**: Major failure and recovery
 4. **Stage 4**: Earning true loyalty
 5. **Stage 5**: Legendary commander ### The Discovery Arc
-
 
 Character uncovers their true nature:
 1. **Stage 1**: Mysterious heritage hints
@@ -226,7 +222,6 @@ Character uncovers their true nature:
 4. **Stage 4**: Learning the full truth
 5. **Stage 5**: Accepting or rejecting destiny ### The Redemption Arc
 
-
 Character atones for past sins:
 1. **Stage 1**: Past catches up
 2. **Stage 2**: Confession to party
@@ -234,14 +229,12 @@ Character atones for past sins:
 4. **Stage 4**: Facing ultimate judgment
 5. **Stage 5**: Earned forgiveness ### The Sacrifice Arc
 
-
 Character prepares for ultimate sacrifice:
 1. **Stage 1**: Learning the cost
 2. **Stage 2**: Seeking alternatives
 3. **Stage 3**: Accepting necessity
 4. **Stage 4**: Saying goodbyes
 5. **Stage 5**: Heroic sacrifice or last-minute salvation ### Collective Achievements
-
 
 Rewards earned by party as whole: **Reputation Levels**
 - Unknown: No recognition
@@ -279,7 +272,6 @@ Rewards earned by party as whole: **Reputation Levels**
 3. What content should we avoid?
 4. How much danger do you want?
 5. How political should it be? ### Party Charter Creation Collaborate to establish:
-
 
 - **Party Name**: How others know you
 - **Party Goal**: What unites you
@@ -332,15 +324,14 @@ Adjust for party composition:
 - Maintain appropriate danger
 - Scale to engagement level --- ## See Also
 
-- [[Character_Bonds]]
-- [[Groups]]
-- [[Party_Reputation]]
-- [[GM Resource]]
+- [[Character_Bonds
+- [Groups]]
+- [[Party_Reputation
+- [GM Resource]]
 - [[Underwater_Adaptation_Rules]] *"The Party is not just who you adventure with—they're who you become."* ## Player-Facing Summary The Party is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Party as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Party. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Plot Hooks - Strange sightings suggest a portal
 
 - A letter reveals ancient history about the government
 - Strange dreams suggest a curse ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

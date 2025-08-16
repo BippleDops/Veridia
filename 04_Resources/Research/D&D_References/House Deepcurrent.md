@@ -2,7 +2,7 @@
 
 title: House Deepcurrent
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -57,7 +57,6 @@ House Deepcurrent represents the ancient noble families who claim descent from t
 2. **Control Deep Territories:** Expand dominion over unexplored ocean depths
 3. **Establish Noble Supremacy:** Return to pre-democratic class hierarchies
 4. **Master Deep Magic:** Unlock secrets of abyssal entities and ancient powers ### Long-term Vision
-
 
 House Deepcurrent dreams of a new golden age where noble houses rule absolutely, the depths are fully explored and controlled, and the ancient pacts with deep entities are renewed. They see democracy as a temporary aberration that must be corrected. Subsequently, ### The Deep Pact (Highest Classification)
 
@@ -143,24 +142,20 @@ House Deepcurrent dreams of a new golden age where noble houses rule absolutely,
 3. **Marriage Diplomacy:** Escort mission for arranged marriage negotiations
 4. **Ancient Artifact Recovery:** Retrieve family heirloom from hostile territory ### Opposition Scenarios
 
-
 1. **Noble Conspiracy:** Stop house plot to overthrow democratic government
 2. **Deep Pact Investigation:** Uncover evidence of dealings with eldritch entities
 3. **Pirate Hunter Mission:** Track down Captain Blacktide not knowing her identity
 4. **Economic Warfare:** Break house monopoly on deep-sea resources ### Neutral Investigations
-
 
 1. **The Missing Heir:** Investigate the "death" of Nerissa Deepcurrent
 2. **Family Curse:** Strange transformations affecting house members
 3. **Ancient Secrets:** Explore ruins connected to house territory
 4. **Political Murders:** Series of deaths targeting house enemies ### Social Intrigue
 
-
 1. **The Grand Ball:** Navigate house social event with hidden political agenda
 2. **Marriage Alliance:** Negotiate between competing family interests
 3. **Succession Vote:** Influence house political position through personal connections
 4. **Memory Trading:** Discover house involvement in illegal memory markets ### Current's End Trading Post
-
 
 - **Location:** Deep Current Junction, International Waters
 - **Features:** Neutral trading zone, diplomatic meeting point
@@ -170,10 +165,9 @@ House Deepcurrent dreams of a new golden age where noble houses rule absolutely,
 — House Deepcurrent family motto (unofficial extended version) ## Player-Facing Summary House Deepcurrent is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of House Deepcurrent as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around House Deepcurrent. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A letter reveals the truth about the cult
 
 - Strange dreams suggest a conspiracy
-- A letter reveals a conspiracy about the cult ## References - [[Political Intrigue Master Index]]
+- A letter reveals a conspiracy about the cult ## References - [[Political Intrigue Master Index
 
-- [[Political Intrigue Master Index (D&D_References)]]
-
+- [Political Intrigue Master Index (D&D_References)]]
 
 ## Notes
 

@@ -1,13 +1,13 @@
 ---
 
-title: The Mari[[Time]] Alliance
-type: [[Lore]]
-tags:
+title: The Mari[[Time Alliance
+type: [Lore]]
+tags: 
 - lore
-- [[Aquabyssos]]
+- [[Aquabyssos
 - world/aquabyssos
 - content/lore
-- content/[[Npc]]
+- content/[Npc]]
 - active
 - complete
 - status/in-progress
@@ -35,7 +35,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -77,11 +77,11 @@ The Maritime Alliance is a undersea element of the setting, known for biolumines
 
 Legends speak of The Maritime Alliance as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Maritime Alliance.
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## [[Historical Context]]
+## [[Historical Context
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -94,12 +94,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Strange disappearances suggest a curse
 - Strange sightings suggest a conspiracy
 
-## Historical [[Timeline]]
+## Historical [Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[People]]s
+- War with indigenous [[Peoples
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -131,5 +131,5 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Surface Ambassador Lord Seaworthy]]
+- [Surface Ambassador Lord Seaworthy]]
 - [[Surface Ambassador Lord Seaworthy (D&D_Statblocks)]]

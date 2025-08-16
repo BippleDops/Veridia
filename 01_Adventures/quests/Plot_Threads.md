@@ -1,8 +1,8 @@
 ---
 enhanced: true
 tags: [enhanced, 06_sessions]
-created: 2025-08-15T12:24:39.493532
-modified: 2025-08-15T12:24:39.493535
+created: "2025-08-15T12:24:39.493532"
+modified: "2025-08-15T12:24:39.493535"
 aliases: [Plot Threads]
 ---
 

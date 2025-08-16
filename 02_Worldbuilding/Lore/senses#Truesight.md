@@ -1,16 +1,16 @@
 ---
-title: senses#Truesight
+title: "senses#Truesight"
 type: note
-tags:
+tags: 
 - auto-generated
-- [[Link]]ed
+- [[Linked
 created: '2025-01-15'
 ---
 
 # senses#Truesight
 
 ## Overview
-This topic is referenced in [[boon-of-truesight-xphb (feats)]] and other parts of the campaign.
+This topic is referenced in [boon-of-truesight-xphb (feats)]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.

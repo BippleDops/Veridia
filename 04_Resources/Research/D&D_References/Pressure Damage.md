@@ -2,7 +2,7 @@
 
 title: Pressure Damage
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -64,9 +64,7 @@ Immediate damage with potential long-term complications requiring magical healin
 2. **Equipment Failure**: Pressure protection fails during critical mission
 3. **Pressure Warfare**: Combat involving pressure-based attacks ## Campaign Use
 
-
 Provides realistic environmental challenges and consequences for deep-water exploration. ## Player-Facing Summary Pressure Damage is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Pressure Damage as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pressure Damage. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
-
 
 ## Notes
 

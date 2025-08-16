@@ -2,7 +2,7 @@
 
 title: Deep Metals Consortium
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -41,12 +41,11 @@ updated: '2025-08-13T01:18:35.008943+00:00'
 
 - A prisoner has gone missing and truth emerges
 - A merchant needs help stealing before the festival
-- A stranger needs help stealing before the new moon ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[The Deep Harvest]]
+- A stranger needs help stealing before the new moon ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[The Deep Harvest
 
-- [[Underwater Breathing]]
-- [[The Deep Harvest (D&D_References)]]
-- [[Underwater Breathing (D&D_References)]]
-
+- [Underwater Breathing]]
+- [[The Deep Harvest (D&D_References)
+- [Underwater Breathing (D&D_References)]]
 
 ## Notes
 

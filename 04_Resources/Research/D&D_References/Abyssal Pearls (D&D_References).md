@@ -2,7 +2,7 @@
 
 title: Abyssal Pearls (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,12 +42,11 @@ updated: '2025-08-13T01:18:34.793510+00:00'
 
 - A document has gone missing and chaos spreads
 - An heirloom has gone missing and war looms
-- Someone is searching for information for love ## Related Notes - [[Similar Topic 1]]
+- Someone is searching for information for love ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

@@ -1,10 +1,10 @@
 ---
 
 title: Spectral Librarian Reverent Bookmark
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - world/aquabyssos
 - content/lore
 - active
@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -80,7 +80,7 @@ Spectral Librarian Reverent Bookmark is a undersea element of the setting, known
 
 Legends speak of Spectral Librarian Reverent Bookmark as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Spectral Librarian Reverent Bookmark.
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 

@@ -43,7 +43,6 @@ This content can be adapted and expanded based on specific campaign needs. ## Pl
 
 *Customize as needed for your specific campaign requirements.*
 
-
 ## Notes
 
 *Additional notes*

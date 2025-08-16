@@ -1,13 +1,13 @@
 ---
 
 title: Heart of Chronos
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - world/aquabyssos
 - content/lore
-- content/[[location]]
+- content/[[location
 - active
 - complete
 - status/in-progress
@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -84,11 +84,11 @@ Heart of Chronos is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of Heart of Chronos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Heart of Chronos.
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## [[Historical Context]]
+## [Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -99,14 +99,14 @@ Different cultures interpret this lore through their own lens, creating variatio
 ## Plot Hooks
 
 - Someone is blackmailing an heir for love
-- A [[Merchant]] needs help investigating before the new moon
+- A [[Merchant needs help investigating before the new moon
 
-## Historical [[Time|[[Time]]line]]
+## Historical [[Time|[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[People]]s
+- War with indigenous [[Peoples
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -136,5 +136,5 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Lady Vivienne the Unfrozen]]
+- [Lady Vivienne the Unfrozen]]
 - [[Lady Vivienne the Unfrozen (D&D_References)]]

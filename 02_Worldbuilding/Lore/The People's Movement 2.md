@@ -1,7 +1,7 @@
 ---
 type: Lore
 status: complete
-tags:
+tags: 
 - active
 - aethermoor
 - faction
@@ -10,10 +10,6 @@ world: Aethermoor
 created: '2025-08-11'
 updated: '2025-08-13T01:18:34.775260+00:00'
 ---
-
-
-
-
 
 ## Overview
 
@@ -41,10 +37,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Consortium Security Constructs]]
-
+- [[02_Worldbuilding/Groups/Consortium Security Constructs
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Consortium Security Constructs]]
+- [02_Worldbuilding/Groups/Consortium Security Constructs]]
 - [[02_Worldbuilding/Groups/Silverscale Consortium]]

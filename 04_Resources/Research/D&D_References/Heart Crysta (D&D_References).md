@@ -2,7 +2,7 @@
 
 title: Heart Crysta (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,7 +42,6 @@ updated: '2025-08-13T01:18:35.834958+00:00'
 
 - An heirloom has gone missing and evil awakens
 - A shipment has gone missing and war looms ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

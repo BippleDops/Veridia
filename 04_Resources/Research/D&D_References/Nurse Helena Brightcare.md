@@ -2,7 +2,7 @@
 
 title: Nurse Helena Brightcare
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -45,7 +45,6 @@ updated: '2025-08-13T01:18:34.579184+00:00'
 - Someone is searching for a witness for revenge
 - Someone is searching for an heir for revenge
 - A shipment has gone missing and truth emerges ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

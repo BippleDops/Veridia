@@ -3,7 +3,7 @@ created: '2025-08-08'
 created_by: auto-stub
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -17,13 +17,8 @@ updated: '2025-08-13T12:34:17.050931+00:00'
 world: Aquabyssos
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-scream-saturation-rules-scream-saturation-rules.svg)
-
-
-
 
 # Scream Saturation Rules
 
@@ -85,7 +80,7 @@ These rules apply in areas where intense sonic magic has been used repeatedly or
 2. Spell backfires, caster takes sonic damage
 3. Spell effect reversed or inverted
 4. Random spell effect from same school
-5. Area silence effect for 1d4 rounds
+5. Area silence effect for `dice: 1d4` rounds
 6. Temporary deafness for all within 30 feet
 
 ## Recovery Methods
@@ -96,7 +91,7 @@ These rules apply in areas where intense sonic magic has been used repeatedly or
 **Time and Distance**: Moving to unsaturated areas allows recovery
 
 ## Detection Methods
-**Spellcraft Check**: DC 15 + saturation level to identify current saturation
+**Spellcraft Check**: **DC 15** + saturation level to identify current saturation
 **Magical Auras**: Detect magic reveals sonic disturbances
 **Physical Signs**: Visible sound waves, resonating objects, uncomfortable sensations
 **Test Spells**: Minor sonic cantrips can safely test saturation levels
@@ -163,10 +158,9 @@ Use saturation rules to create interesting tactical challenges and environmental
 
 Consider the narrative impact - areas of supernatural silence can be eerie and memorable, while the buildup to saturation creates tension around the use of powerful sonic magic.
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/Screaming Gardens]]
+- [[02_Worldbuilding/Places/Screaming Gardens
 
 ## Player-Facing Summary
 
@@ -188,30 +182,25 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Scream Saturation Rules]]
+- [02_Worldbuilding/Places/Scream Saturation Rules]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

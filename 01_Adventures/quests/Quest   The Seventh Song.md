@@ -40,8 +40,8 @@ Possible developments and plot opportunities.
 ## Relationships
 
 ### Direct Connections
-- [[Assets Locations Location City Harbormaster Tidal Stormcrest V1 Harbormaster Tidal Stormcrest.svg]]
-- [[Assets Symbols Symbol Heraldry the Great Cacophony the Great Cacophony.svg]]
+- [[Assets Locations Location City Harbormaster Tidal Stormcrest V1 Harbormaster Tidal Stormcrest.svg
+- [Assets Symbols Symbol Heraldry the Great Cacophony the Great Cacophony.svg]]
 
 ### Indirect Influences
 - Broader campaign themes
@@ -84,21 +84,17 @@ Possible developments and plot opportunities.
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

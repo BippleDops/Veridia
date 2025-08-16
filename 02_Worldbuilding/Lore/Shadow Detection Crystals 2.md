@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - aethermoor
 - complete
 - content/lore
@@ -12,11 +12,6 @@ type: Lore
 updated: '2025-08-13T12:34:15.932829+00:00'
 world: Aethermoor
 ---
-
-
-
-
-
 
 ## Overview
 
@@ -53,9 +48,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - The Pretender's Crown]]
-
+- [[02_Worldbuilding/Quests/Quest - The Pretender's Crown
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Quest - The Pretender's Crown]]
+- [02_Worldbuilding/Quests/Quest - The Pretender's Crown]]

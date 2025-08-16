@@ -2,7 +2,7 @@
 
 title: Shadow touched Equipment Set
 type: Item
-tags:
+tags: 
 - aquabyssos
 - cursed
 - deep-mother-connected
@@ -19,7 +19,7 @@ modified: '2025-08-14'
 status: complete
 rarity: Very Rare (Cursed)
 value: Unknown
-affiliation: '[[The Deep Mother]] (Corrupted by Shadow)'
+affiliation: '[[The Deep Mother (Corrupted by Shadow)'
 created_by: Claude
 current_location: Scattered Across Shadow-Touched Locations
 danger_level: 4
@@ -87,7 +87,7 @@ improvements: 20
 - Add folk tales and children's stories
 
 ## Overview
-The Shadow-touched Equipment Set represents gear that has been fundamentally transformed by prolonged exposure to [[The Deep Mother]]'s influence. Unlike simple cursed items, these pieces have been evolved by shadow magic into something that exists partially in darkness itself. Each piece offers significant power at the cost of gradually consuming the wielder's connection to light and hope. The set grows stronger as more pieces are worn together, but also accelerates the wielder's transformation into something no longer entirely human.
+The Shadow-touched Equipment Set represents gear that has been fundamentally transformed by prolonged exposure to [The Deep Mother]]'s influence. Unlike simple cursed items, these pieces have been evolved by shadow magic into something that exists partially in darkness itself. Each piece offers significant power at the cost of gradually consuming the wielder's connection to light and hope. The set grows stronger as more pieces are worn together, but also accelerates the wielder's transformation into something no longer entirely human.
 
 ### The Collector's Gambit
 **Level**: 8-13  

@@ -2,7 +2,7 @@
 aliases: ["Random Encounter 54", "random encounter 54", "54 Encounter Random"]
 tags: [generated]
 id: ENC0053_Random_Encounter_54
-created: 2025-08-15T04:09:51.452Z
+created: "2025-08-15T04:09:51.452Z"
 generator: mega_generator_10k
 ---
 # Random Encounter 54
@@ -10,7 +10,7 @@ generator: mega_generator_10k
 *Hard encounter for Urban environment*
 
 ## Enemies
-- 2d6 Skeletons
+- `dice: 2d6` Skeletons
 
 ## Tactics
 Enemies coordinate attacks and use terrain to their advantage

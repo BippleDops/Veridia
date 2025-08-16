@@ -2,7 +2,7 @@
 created: '2025-08-11'
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - aethermoor
 - complete
 - content/location
@@ -14,14 +14,8 @@ updated: '2025-08-13T12:34:16.557727+00:00'
 world: Aethermoor
 ---
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-quartermaster-david-simpleton-quartermaster-david-simpleton.svg)
-
-
-
-
-
 
 ## Overview
 
@@ -62,35 +56,29 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quartermaster David Simpleton]]
+- [[02_Worldbuilding/Places/Quartermaster David Simpleton
 
 <!-- enriched: true -->
 
-
 ## Connections
 
-- [[02_Worldbuilding/Groups/Purist Coalition Thugs]]
-
+- [02_Worldbuilding/Groups/Purist Coalition Thugs]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

@@ -9,7 +9,7 @@ frequency: Seasonal (Peak during Remembrance Tides)
 hazard_type: Memory/Temporal Anomaly
 research_status: Ongoing Investigation
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -26,13 +26,8 @@ updated: '2025-08-13T12:34:16.627289+00:00'
 world: Aquabyssos
 ---
 
-
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-memory-storm-fields-the-memory-storm-fields.svg)
-
-
 
 # The Memory Storm Fields
 *Where Past and Present Collide in Torrents of Recollection*
@@ -46,15 +41,15 @@ The Memory Storm Fields represent one of Aquabyssos's most mysterious and danger
 - **Death Memories**: Final thoughts and experiences of dying beings throughout history
 - **Traumatic Events**: Intense emotional experiences that leave psychic imprints
 - **Collective Experiences**: Shared memories from major historical events
-- **Memory Farming Residue**: Byproducts from decades of [[02_Worldbuilding/Places/Memory Farmers]] operations
+- **Memory Farming Residue**: Byproducts from decades of [[02_Worldbuilding/Places/Memory Farmers operations
 - **Temporal Echoes**: Fragments of time itself carrying embedded experiences
 
 #### Crystallization Triggers
 - **Critical Mass**: When memory density reaches threshold levels in specific locations
 - **Emotional Resonance**: Powerful feelings activating dormant memory deposits
 - **Tidal Convergence**: Specific tide patterns that concentrate memory energy
-- **[[02_Worldbuilding/Lore/The Deep Mother]] Activity**: Cosmic consciousness stirring affects memory patterns
-- **[[02_Worldbuilding/Lore/The Seven Shards]] Resonance**: Crystal energy interacting with memory formations
+- **[02_Worldbuilding/Lore/The Deep Mother]] Activity**: Cosmic consciousness stirring affects memory patterns
+- **[[02_Worldbuilding/Lore/The Seven Shards Resonance**: Crystal energy interacting with memory formations
 
 ### Physical Properties
 #### Storm Characteristics
@@ -96,7 +91,7 @@ The Memory Storm Fields represent one of Aquabyssos's most mysterious and danger
 - **Tourist Draw**: Carefully managed exposure for educational purposes
 
 ##### The Deep Mother's Dreams
-- **Memory Source**: Fragments of [[02_Worldbuilding/Lore/The Deep Mother]]'s consciousness
+- **Memory Source**: Fragments of [02_Worldbuilding/Lore/The Deep Mother]]'s consciousness
 - **Content**: Cosmic perspectives on time, space, and existence
 - **Effects**: Overwhelming knowledge, madness risk, prophetic insights
 - **Danger**: Extreme psychological trauma for unprepared minds
@@ -180,40 +175,40 @@ The Memory Storm Fields represent one of Aquabyssos's most mysterious and danger
 #### Zone 1: Memory Periphery (Edge Effects)
 - **Range**: 2-5 miles from storm center
 - **Effects**: Minor memory bleeding, occasional false recollections
-- **Mechanics**: Wisdom save DC 10 per hour or gain temporary foreign memory
+- **Mechanics**: Wisdom save **DC 10** per hour or gain temporary foreign memory
 - **Duration**: False memories fade after 24 hours
 - **Navigation**: Standard navigation with occasional confusion
 
 #### Zone 2: Living History (Active Memory Layer)
 - **Range**: 1-2 miles from center
 - **Effects**: Constant exposure to historical events, reality flickering
-- **Mechanics**: Wisdom save DC 15 per 10 minutes or become trapped in memory loop
-- **Duration**: Loops last 1d4 hours without intervention
+- **Mechanics**: Wisdom save **DC 15** per 10 minutes or become trapped in memory loop
+- **Duration**: Loops last `dice: 1d4` hours without intervention
 - **Combat**: Fighting historical figures who may or may not be real
 
 #### Zone 3: Memory Maelstrom (High Intensity)
 - **Range**: 0.5-1 mile from center  
 - **Effects**: Complete memory immersion, identity confusion
-- **Mechanics**: Wisdom save DC 18 per minute or lose personal memories
+- **Mechanics**: Wisdom save **DC 18** per minute or lose personal memories
 - **Duration**: Memory loss lasts until restoration magic applied
 - **Reality**: Physical environment changes to match predominant memories
 
 #### Zone 4: The Memory Core (Extreme Danger)
 - **Range**: Center 0.5 mile radius
 - **Effects**: Complete personality replacement, temporal displacement
-- **Mechanics**: Wisdom save DC 22 each round or become different person entirely
+- **Mechanics**: Wisdom save **DC 22** each round or become different person entirely
 - **Duration**: Changes may be permanent without powerful magic
 - **Existence**: May be displaced to different time period entirely
 
 ### Memory Storm Effects Table
 | d20 | Effect | Duration | Save |
 |-----|--------|----------|------|
-| 1-4 | Gain skill proficiency from absorbed memory | 24 hours | WIS DC 12 |
-| 5-8 | Experience vivid flashback from historical event | 10 minutes | WIS DC 15 |
-| 9-12 | Temporary personality change | 1 hour | WIS DC 16 |
-| 13-16 | Foreign language fluency | 8 hours | WIS DC 14 |
-| 17-18 | Complete memory replacement | Until dispelled | WIS DC 20 |
-| 19-20 | Temporal displacement | Variable | WIS DC 25 |
+| 1-4 | Gain skill proficiency from absorbed memory | 24 hours | WIS **DC 12** |
+| 5-8 | Experience vivid flashback from historical event | 10 minutes | WIS **DC 15** |
+| 9-12 | Temporary personality change | 1 hour | WIS **DC 16** |
+| 13-16 | Foreign language fluency | 8 hours | WIS **DC 14** |
+| 17-18 | Complete memory replacement | Until dispelled | WIS **DC 20** |
+| 19-20 | Temporal displacement | Variable | WIS **DC 25** |
 
 ### Survival & Protection Methods
 #### Equipment-Based Protection
@@ -235,9 +230,9 @@ The Memory Storm Fields represent one of Aquabyssos's most mysterious and danger
 #### Specialized Organization
 - **Mission**: Monitor, predict, and study memory storm phenomena
 - **Personnel**: 200+ researchers, guides, and emergency responders
-- **Headquarters**: [[02_Worldbuilding/Lore/The Temporal Observatory]] on floating research platform
+- **Headquarters**: [[02_Worldbuilding/Lore/The Temporal Observatory on floating research platform
 - **Equipment**: Advanced detection systems and protective technology
-- **Cooperation**: Works with [[02_Worldbuilding/Groups/The Deepwatch Guard]] and academic institutions
+- **Cooperation**: Works with [02_Worldbuilding/Groups/The Deepwatch Guard]] and academic institutions
 
 #### Services Provided
 - **Storm Tracking**: 48-72 hour advance warning of approaching memory storms
@@ -357,12 +352,12 @@ The Memory Storm Fields represent one of Aquabyssos's most mysterious and danger
 - **Danger**: Risk of becoming permanently trapped in historical memory loop
 
 ## Connected Elements
-- Related to [[02_Worldbuilding/Places/Memory Farmers]] through memory trading and harvesting activities
-- Connected to [[02_Worldbuilding/Lore/The Deep Mother]] through cosmic consciousness effects
-- Associated with [[02_Worldbuilding/Lore/The Seven Shards]] through reality-affecting properties
-- Links to [[02_Worldbuilding/Places/Memory Meadows|02 Worldbuilding/Places/Memory Meadows]] as areas affected by memory phenomena
-- Connected to [[02_Worldbuilding/People/Oracle Nerida the Tidereader]] through prophetic implications of historical memory
-- Related to [[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]] through memory preservation work
+- Related to [[02_Worldbuilding/Places/Memory Farmers through memory trading and harvesting activities
+- Connected to [02_Worldbuilding/Lore/The Deep Mother]] through cosmic consciousness effects
+- Associated with [[02_Worldbuilding/Lore/The Seven Shards through reality-affecting properties
+- Links to [02_Worldbuilding/Places/Memory Meadows|02 Worldbuilding/Places/Memory Meadows]] as areas affected by memory phenomena
+- Connected to [[02_Worldbuilding/People/Oracle Nerida the Tidereader through prophetic implications of historical memory
+- Related to [02_Worldbuilding/People/Archivist Mnemonic the Forgotten]] through memory preservation work
 - Associated with academic and research institutions throughout Aquabyssos
 - Connected to temporal and reality-based magic systems
 
@@ -404,37 +399,31 @@ Legends speak of The Memory Storm Fields as a nexus where past and present conve
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Memory Storm Fields]]
+- [[02_Worldbuilding/Places/The Memory Storm Fields
 
 <!-- enriched: true -->
 
-
 ## Connections
 
-- [[02_Worldbuilding/Groups/The Deepwatch Guard]]
-- [[02_Worldbuilding/People/Oracle Nerida the Tidereader]]
-- [[02_Worldbuilding/Places/Memory Farmers]]
-
+- [02_Worldbuilding/Groups/The Deepwatch Guard]]
+- [[02_Worldbuilding/People/Oracle Nerida the Tidereader
+- [02_Worldbuilding/Places/Memory Farmers]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

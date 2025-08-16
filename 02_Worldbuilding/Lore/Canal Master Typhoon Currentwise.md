@@ -1,13 +1,13 @@
 ---
 
 title: Canal Master Typhoon Currentwise
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - world/aquabyssos
 - content/lore
-- content/[[location]]
+- content/[[location
 - active
 - complete
 - status/in-progress
@@ -35,7 +35,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -157,5 +157,5 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Shadow Market Canals]]
-- [[Shadow Market Canals (D&D_References)]]
+- [[Shadow Market Canals
+- [Shadow Market Canals (D&D_References)]]

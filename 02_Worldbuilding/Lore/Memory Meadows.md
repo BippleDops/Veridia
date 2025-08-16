@@ -1,10 +1,10 @@
 ---
 
 title: Memory Meadows
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - active
 - quest
 created: '2025-08-11'
@@ -32,7 +32,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables), and wealth distribution
 
 ### Religion Improvements
 
@@ -82,7 +82,7 @@ Memory Meadows is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Memory Meadows as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memory Meadows.
 
-## [[DM_Notes]]
+## [DM_Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -108,13 +108,13 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Quest - The Convergence Crisis]]
-- [[Consequence Chain 1 - Shadow Conspiracy Exposure]]
-- [[Deep Mother]]
-- [[Memory Harvester Kythara]]
-- [[Memory Merchant Valeria Siltweave]]
-- [[The Memory Meadows Black Market]]
-- [[Deep Mother (D&D_References)]]
-- [[Deep Mother 3 (D&D_References)]]
-- [[Memory Harvester Kythara (D&D_Statblocks)]]
-- [[Memory Merchant Valeria Siltweave (D&D_Statblocks)]]
+- [[Quest - The Convergence Crisis
+- [Consequence Chain 1 - Shadow Conspiracy Exposure]]
+- [[Deep Mother
+- [Memory Harvester Kythara]]
+- [[Memory Merchant Valeria Siltweave
+- [The Memory Meadows Black Market]]
+- [[Deep Mother (D&D_References)
+- [Deep Mother 3 (D&D_References)]]
+- [[Memory Harvester Kythara (D&D_Statblocks)
+- [Memory Merchant Valeria Siltweave (D&D_Statblocks)]]

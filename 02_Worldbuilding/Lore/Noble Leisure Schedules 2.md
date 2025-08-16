@@ -2,7 +2,7 @@
 created: '2025-08-12'
 created_by: claude
 status: complete
-tags:
+tags: 
 - both
 - complete
 - culture
@@ -20,15 +20,12 @@ updated: '2025-08-13T12:34:16.119780+00:00'
 world: Both
 ---
 
-
-
-
 # Noble Leisure Schedules
 *The Art of Refined Living: Daily Patterns of the Elite*
 
 ## Overview
 
-The nobility and upper classes of both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]] have developed elaborate daily routines that reflect their privileged positions, cultural responsibilities, and sophisticated tastes. Far from lives of idle luxury, these individuals balance political obligations, cultural patronage, business management, and social leadership while maintaining the refined standards expected of their elevated status.
+The nobility and upper classes of both [[02_Worldbuilding/Places/Aquabyssos and [02_Worldbuilding/Places/Aethermoor]] have developed elaborate daily routines that reflect their privileged positions, cultural responsibilities, and sophisticated tastes. Far from lives of idle luxury, these individuals balance political obligations, cultural patronage, business management, and social leadership while maintaining the refined standards expected of their elevated status.
 
 ## Philosophy of Noble Leisure
 
@@ -462,8 +459,8 @@ Understanding noble leisure schedules provides insight into the values, prioriti
 ---
 
 **Related Topics**:
-- [[02_Worldbuilding/Lore/A Day in Aquabyssos]]
-- [[02_Worldbuilding/Lore/Aethermoor Daily Rhythms]]
+- [[02_Worldbuilding/Lore/A Day in Aquabyssos
+- [02_Worldbuilding/Lore/Aethermoor Daily Rhythms]]
 - [[02_Worldbuilding/Lore/Working Class Routines]]
 - Child Life In The Realms
 - Noble Culture And Etiquette

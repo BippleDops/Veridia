@@ -1,22 +1,22 @@
 ---
 title: Faction2
 type: note
-tags:
+tags: 
 - auto-generated
-- [[Link]]ed
+- [[Linked
 created: '2025-01-15'
 ---
 
 # Faction2
 
 ## Overview
-This topic is referenced in [[Npc]] and other parts of the campaign.
+This topic is referenced in [Npc]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Npc]]
+- Referenced by: [[Npc
 - Related topics in the same category
 
 ## Details
@@ -29,4 +29,4 @@ Further information about this topic will be developed as the campaign progresse
 
 ## References
 
-- [[NPC_Template_1 (09_Templates)]]
+- [NPC_Template_1 (09_Templates)]]

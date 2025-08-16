@@ -1,22 +1,22 @@
 ---
 title: Void Technician Prima bane
 type: note
-tags:
+tags: 
 - auto-generated
-- [[Link]]ed
+- [[Linked
 created: '2025-01-15'
 ---
 
 # Void Technician Prima bane
 
 ## Overview
-This topic is referenced in [[The Shadow Harvest]] and other parts of the campaign.
+This topic is referenced in [The Shadow Harvest]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[The Shadow Harvest]]
+- Referenced by: [[The Shadow Harvest
 - Related topics in the same category
 
 ## Details
@@ -29,6 +29,6 @@ Further information about this topic will be developed as the campaign progresse
 
 ## References
 
-- [[The Shadow Harvest (Criminal_Organizations)]]
-- [[Void Technician Prima Nullbane]]
-- [[The Shadow Harvest]]
+- [The Shadow Harvest (Criminal_Organizations)]]
+- [[Void Technician Prima Nullbane
+- [The Shadow Harvest]]

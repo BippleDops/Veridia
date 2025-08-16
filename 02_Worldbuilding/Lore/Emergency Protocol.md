@@ -1,11 +1,11 @@
 ---
 
 title: Emergency Protocol
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
 - content/lore
-- world/[[Aethermoor]]
+- world/[Aethermoor]]
 - active
 - complete
 - status/in-progress
@@ -33,7 +33,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -77,17 +77,17 @@ improvements: 20
 
 ## Player-Facing Summary
 
-[[Emergency Protocols]] 2 is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+[Emergency Protocols]] 2 is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
 Legends speak of Emergency Protocols 2 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Emergency Protocols 2.
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [map]] use.
 
-## [[Historical Context]]
+## [[Historical Context
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -103,7 +103,7 @@ Mentioned in The First Prophecy of Depths
 
 - A document has gone missing and chaos spreads
 - Someone is protecting a artifact for love
-- A [[Merchant]] needs help investigating before the new moon
+- A [Merchant]] needs help investigating before the new moon
 
 ## Cultural Practices
 
@@ -119,43 +119,43 @@ Mentioned in The First Prophecy of Depths
 
 ## References
 
-- [[Aethermoor to Aquabyssos Transition Guide]]
-- [[Aquabyssos Cultural Codex]]
-- [[Aquabyssos Trade Seal]]
-- [[Arcanum Heights]]
-- [[Consequence Chain 1 - Shadow Conspiracy Exposure]]
-- [[Cross-Realm Etiquette Guide]]
-- [[Crystal Forest]]
-- [[Crystal-Corruption-Tracking-Sheet]]
-- [[Deep Mother Influence]]
-- [[Depth Effect Quick Reference]]
-- [[Emergency Protocol Manual]]
-- [[Emergency Protocols Cente]]
-- [[Fortress of the Deeps]]
-- [[Maritime Emergency Protocols]]
-- [[Pressure Adaptation System]]
-- [[Ritual Redirection Options]]
-- [[Services Emergency Protocol Certification]]
-- [[Temporal Distortion Zones]]
-- [[The Bloom Fields]]
-- [[Tidal Chambers]]
-- [[Umbral Exchange]]
-- [[Underground Smuggling Networks]]
-- [[Wind Song Linguistic Guide]]
-- [[Abyssos Prime - Pressure Terminal]]
-- [[Cross-Dimensional Transit Authority]]
-- [[Elder Matthias Stoneward]]
-- [[Emergency Protocols]]
-- [[Gravity Anomaly Mechanics]]
-- [[Inverted Ballroom Wing]]
-- [[Maelstrom Palace]]
-- [[Pressure Suit Malfunction]]
-- [[Pressure Terminal]]
-- [[Reality Anchor Network]]
-- [[Reflection Pools - Surgical Theater]]
-- [[Royal Palace of Meridian]]
-- [[Royal Palace]]
-- [[The Crystal Wardens]]
-- [[The Forgotten One]]
-- [[The Living Weapon]]
-- [[The Shrinking Sanctuary]]
+- [[Aethermoor to Aquabyssos Transition Guide
+- [Aquabyssos Cultural Codex]]
+- [[Aquabyssos Trade Seal
+- [Arcanum Heights]]
+- [[Consequence Chain 1 - Shadow Conspiracy Exposure
+- [Cross-Realm Etiquette Guide]]
+- [[Crystal Forest
+- [Crystal-Corruption-Tracking-Sheet]]
+- [[Deep Mother Influence
+- [Depth Effect Quick Reference]]
+- [[Emergency Protocol Manual
+- [Emergency Protocols Cente]]
+- [[Fortress of the Deeps
+- [Maritime Emergency Protocols]]
+- [[Pressure Adaptation System
+- [Ritual Redirection Options]]
+- [[Services Emergency Protocol Certification
+- [Temporal Distortion Zones]]
+- [[The Bloom Fields
+- [Tidal Chambers]]
+- [[Umbral Exchange
+- [Underground Smuggling Networks]]
+- [[Wind Song Linguistic Guide
+- [Abyssos Prime - Pressure Terminal]]
+- [[Cross-Dimensional Transit Authority
+- [Elder Matthias Stoneward]]
+- [[Emergency Protocols
+- [Gravity Anomaly Mechanics]]
+- [[Inverted Ballroom Wing
+- [Maelstrom Palace]]
+- [[Pressure Suit Malfunction
+- [Pressure Terminal]]
+- [[Reality Anchor Network
+- [Reflection Pools - Surgical Theater]]
+- [[Royal Palace of Meridian
+- [Royal Palace]]
+- [[The Crystal Wardens
+- [The Forgotten One]]
+- [[The Living Weapon
+- [The Shrinking Sanctuary]]

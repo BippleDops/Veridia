@@ -1,7 +1,7 @@
 ---
-title: [[The Shattering]] of [[The Crown]]
-type: [[Lore]]
-tags:
+title: [[The Shattering of [The Crown]]
+type: [[Lore
+tags: 
 - lore
 - aerial
 - shattering
@@ -12,7 +12,7 @@ tags:
 - content/lore
 - crown-of-stars
 - reality-breaking
-- world/[[Aethermoor]]
+- world/[Aethermoor]]
 - active
 - complete
 - content/item
@@ -28,20 +28,20 @@ created_by: auto-stub
 duration: Instantaneous Event with Eternal Consequences
 expanded: 2025-08-11
 outcome: Crown Shattered, World Transformed, Divinity Scattered
-participants:
+participants: 
 - God-King Aetheron
 - The Seven Betrayers
-- The [[Crown of Stars]]
+- The [[Crown of Stars
 - Reality Itself
-related_entities:
-- '[[The Seven Betrayers]]'
-- '[[The Crown of Stars]]'
-- '[[The Great Crystallization]]'
-- '[[Aetheron]]'
-- '[[Seven Shards|The [[Seven Shards]]]]'
+related_entities: 
+- '[The Seven Betrayers]]'
+- '[[The Crown of Stars'
+- '[The Great Crystallization]]'
+- '[[Aetheron'
+- '[[Seven Shards|The [Seven Shards]]]]'
 scale: Multidimensional
 significance: Reality-Altering
-[[Time]]_period: Year 1 GC - The Moment of Great Crystallization
+[[Time_period: Year 1 GC - The Moment of Great Crystallization
 updated: '2025-08-13T12:34:16.058223+00:00'
 world: Aethermoor
 evaluated: '2025-08-14'
@@ -58,12 +58,12 @@ The Shattering of the Crown represents a significant element within the campaign
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: [[Link]]ed to multiple other elements
+- **Connections**: [Link]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-[[Historical Context]] and development over time.
+[[Historical Context and development over time.
 
 ### Current State
 Present circumstances and ongoing relevance.
@@ -84,12 +84,12 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 *Customize as needed for your specific campaign requirements.*
 
 ## References
 
-- [[Campaign_Relationship_Matrix]]
-- [[Eastern Kingdoms (02_Worldbuilding)]]
-- [[Aethermoor (D&D_References)]]
-- [[Eastern Kingdoms (D&D_References)]]
+- [[Campaign_Relationship_Matrix
+- [Eastern Kingdoms (02_Worldbuilding)]]
+- [[Aethermoor (D&D_References)
+- [Eastern Kingdoms (D&D_References)]]

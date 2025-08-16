@@ -1,16 +1,16 @@
 ---
-title: list-optfeaturetype-as#Arcane%20Shot
+title: "list-optfeaturetype-as#Arcane%20Shot"
 type: note
-tags:
+tags: 
 - auto-generated
-- [[Link]]ed
+- [[Linked
 created: '2025-01-15'
 ---
 
 # list-optfeaturetype-as#Arcane%20Shot
 
 ## Overview
-This topic is referenced in [[fighter-xphb-arcane-archer-xge (classes)]] and other parts of the campaign.
+This topic is referenced in [fighter-xphb-arcane-archer-xge (classes)]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.

@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/lore
@@ -12,11 +12,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.000684+00:00'
 world: Aquabyssos
 ---
-
-
-
-
-
 
 ## Overview
 
@@ -44,11 +39,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Crimson Hand]]
-
+- [[02_Worldbuilding/Lore/The Crimson Hand
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Crimson Hand]]
-- [[02_Worldbuilding/Lore/The Forgetting Bomb]]
-- [[02_Worldbuilding/Places/The Threshold Chambers]]
+- [02_Worldbuilding/Lore/The Crimson Hand]]
+- [[02_Worldbuilding/Lore/The Forgetting Bomb
+- [02_Worldbuilding/Places/The Threshold Chambers]]

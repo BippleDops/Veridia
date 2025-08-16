@@ -2,7 +2,7 @@
 created: '2025-08-11'
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -13,11 +13,6 @@ type: Location
 updated: '2025-08-13T12:34:17.125620+00:00'
 world: Aquabyssos
 ---
-
-
-
-
-
 
 ## Overview
 
@@ -58,35 +53,29 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Depth's End Cathedral]]
+- [[02_Worldbuilding/Places/Depth's End Cathedral
 
 <!-- enriched: true -->
 
-
 ## Connections
 
-- [[02_Worldbuilding/People/Pressure Angel Benthia]]
-
+- [02_Worldbuilding/People/Pressure Angel Benthia]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

@@ -3,7 +3,7 @@ created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
-tags:
+tags: 
 - lore
 title: Thermal Layer Usage
 type: lore
@@ -51,6 +51,6 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[Shadow Ambush - Optional (Criminal_Organizations)]]
-- [[02_Worldbuilding_Tactics_Thermal_Layer_Usage]]
+- [[Shadow Ambush - Optional (Criminal_Organizations)
+- [02_Worldbuilding_Tactics_Thermal_Layer_Usage]]
 - [[Shadow Ambush - Optional]]

@@ -2,7 +2,7 @@
 
 title: Lord Blackwater (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,7 +42,6 @@ updated: '2025-08-13T01:18:37.075494+00:00'
 - A prisoner has gone missing and evil awakens
 - The authorities needs help delivering before dawn
 - A noble needs help investigating before winter ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

@@ -2,7 +2,7 @@
 
 title: The Last Words (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -155,14 +155,12 @@ A dying scholar's final words contain cryptic clues to preventing a catastrophic
 3. Characters find research notes mentioning their previous adventures
 4. Ancient prophecy specifically names party members ## Long-term Impact
 
-
 Successful completion establishes characters as city protectors and reveals deep lore about Aquabyssos's founding. Coalition building creates lasting political changes affecting future campaigns. ## DM Notes
 
 This quest emphasizes puzzle-solving, coalition building, and time management over combat. The cryptic message should gradually become clearer through investigation. Use the deadline to maintain tension while allowing enough time for character development through diplomatic challenges. ## Player-Facing Summary The Last Words is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Last Words as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Last Words. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is searching for a artifact for revenge
 
 - A stranger needs help delivering before the festival
 - Strange disappearances suggest a curse ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

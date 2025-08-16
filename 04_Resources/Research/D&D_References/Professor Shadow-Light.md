@@ -2,7 +2,7 @@
 
 title: Professor Shadow-Light
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,7 +43,6 @@ updated: '2025-08-13T01:18:35.155173+00:00'
 
 - Strange disappearances suggest a curse
 - An heirloom has gone missing and war looms ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

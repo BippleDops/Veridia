@@ -3,9 +3,9 @@ created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
-tags:
-- [[Lore]]
-title: [[Aquabyssos]] [[World Overview]]#The Three Depths
+tags: 
+- [[Lore
+title: [Aquabyssos]] [[World Overview#The Three Depths
 type: lore
 updated: 2025-08-14
 ---
@@ -20,12 +20,12 @@ Aquabyssos World Overview#The Three Depths represents a significant element with
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: [[Link]]ed to multiple other elements
+- **Connections**: [Link]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-[[Historical Context]] and development over [[Time]].
+[[Historical Context and development over [Time]].
 
 ### Current State
 Present circumstances and ongoing relevance.

@@ -1,16 +1,16 @@
 ---
-connections:
-- '[[02_Worldbuilding/Places/Aethermoor]]'
+connections: 
+- '[[02_Worldbuilding/Places/Aethermoor'
 - 'Skyforged Crystal Worship'
-- '[[02_Worldbuilding/Lore/Aetheric Wind Songs]]'
-- '[[02_Worldbuilding/Lore/Cloud Shepherd Guild Customs]]'
-- '[[02_Worldbuilding/Lore/Aethermoor Wind Rider Traditions]]'
-- '[[02_Worldbuilding/Lore/Princess Celestia]]'
-- '[[02_Worldbuilding/Lore/Queen Seraphina]]'
+- '[02_Worldbuilding/Lore/Aetheric Wind Songs]]'
+- '[[02_Worldbuilding/Lore/Cloud Shepherd Guild Customs'
+- '[02_Worldbuilding/Lore/Aethermoor Wind Rider Traditions]]'
+- '[[02_Worldbuilding/Lore/Princess Celestia'
+- '[02_Worldbuilding/Lore/Queen Seraphina]]'
 created: '2025-08-11'
 created_by: cultural-expansion
 status: complete
-tags:
+tags: 
 - aethermoor
 - afterlife
 - burial
@@ -22,7 +22,7 @@ tags:
 - religion
 - status/complete
 - world/aethermoor
-themes:
+themes: 
 - death_rituals
 - aerial_customs
 - wind_spirits
@@ -33,16 +33,13 @@ updated: '2025-08-13T12:34:16.161799+00:00'
 world: Aethermoor
 ---
 
-
-
-
 # Sky Burial Traditions
 
 *"In death, we return to the winds that gave us flight. In the winds, we find the endless sky that welcomed our first breath."* - The Aeromancer's Farewell
 
 ## Overview
 
-The **Sky Burial Traditions** of [[02_Worldbuilding/Places/Aethermoor]] represent one of the most distinctive and spiritually significant cultural practices of the floating sky cities. Unlike terrestrial burial customs that return the dead to earth or water, Aethermoor's aerial inhabitants have developed elaborate rituals that consecrate the deceased to the endless atmosphere, believing that proper sky burial allows souls to join the eternal wind currents that sustain their floating civilization.
+The **Sky Burial Traditions** of [[02_Worldbuilding/Places/Aethermoor represent one of the most distinctive and spiritually significant cultural practices of the floating sky cities. Unlike terrestrial burial customs that return the dead to earth or water, Aethermoor's aerial inhabitants have developed elaborate rituals that consecrate the deceased to the endless atmosphere, believing that proper sky burial allows souls to join the eternal wind currents that sustain their floating civilization.
 
 These traditions reflect the fundamental Aethermoor worldview that life and death are both states of atmospheric existence - birth being the soul's descent from the highest winds into physical form, and death being its liberation back to the limitless sky. The customs have evolved over centuries to become deeply intertwined with the technological, magical, and social structures that keep the sky cities aloft.
 
@@ -189,7 +186,7 @@ Cities focused on artistic and technological achievement practice elaborate buri
 ## Sacred Artifacts and Locations
 
 ### The Great Wind Altar
-The primary consecration site for [[02_Worldbuilding/Lore/Queen Seraphina]]'s royal city, a massive platform that extends beyond the city's edge and uses both technological and magical systems to create controlled atmospheric vortices. The altar can lift bodies directly to the jet stream level and is reserved for the most significant burial ceremonies.
+The primary consecration site for [02_Worldbuilding/Lore/Queen Seraphina]]'s royal city, a massive platform that extends beyond the city's edge and uses both technological and magical systems to create controlled atmospheric vortices. The altar can lift bodies directly to the jet stream level and is reserved for the most significant burial ceremonies.
 
 ### Wind Memorial Crystals
 Special crystalline structures that store atmospheric memories of the deceased. These artifacts supposedly allow family members to "feel" the presence of loved ones in wind currents and are passed down through generations as family heirlooms.
@@ -203,13 +200,13 @@ Magical bells that can supposedly summon the spirits of the deceased during atmo
 ## Theological Debates and Controversies
 
 ### The Aquabyssos Question
-As contact with [[02_Worldbuilding/Places/Aquabyssos]] has increased, some Aethermoor theologians have begun questioning whether underwater burial might also be spiritually valid. Progressive Wind Speakers argue that atmospheric and oceanic systems are connected through the water cycle, while traditionalists maintain that only aerial consecration can properly liberate souls.
+As contact with [[02_Worldbuilding/Places/Aquabyssos has increased, some Aethermoor theologians have begun questioning whether underwater burial might also be spiritually valid. Progressive Wind Speakers argue that atmospheric and oceanic systems are connected through the water cycle, while traditionalists maintain that only aerial consecration can properly liberate souls.
 
 ### The Crystal Corruption Concern
 Recent atmospheric disturbances possibly related to crystal corruption have raised questions about whether traditional sky burial practices might be inadvertently contributing to magical instabilities. Some communities have begun modifying their rituals to account for these new environmental factors.
 
 ### The Convergence Prophecies
-Growing awareness of potential world convergence has created theological uncertainty about what will happen to ancestral wind spirits if atmospheric systems merge with those of [[02_Worldbuilding/Places/Aquabyssos]]. Different schools of thought propose various solutions, from modified burial practices to elaborate protective rituals.
+Growing awareness of potential world convergence has created theological uncertainty about what will happen to ancestral wind spirits if atmospheric systems merge with those of [02_Worldbuilding/Places/Aquabyssos]]. Different schools of thought propose various solutions, from modified burial practices to elaborate protective rituals.
 
 ## Modern Adaptations
 
@@ -220,7 +217,7 @@ Contemporary sky burial incorporates advanced atmospheric control systems that c
 Increasing awareness of atmospheric ecology has led some communities to modify their practices to minimize environmental impact. These "Green Wind" movements focus on sustainable burial practices that support rather than disrupt natural weather patterns.
 
 ### Cross-Cultural Exchange
-Diplomatic contact with [[02_Worldbuilding/Places/Aquabyssos]] has introduced some Aethermoor communities to alternative burial philosophies. A small but growing movement practices "Dual Consecration," honoring both atmospheric and oceanic spiritual traditions.
+Diplomatic contact with [[02_Worldbuilding/Places/Aquabyssos has introduced some Aethermoor communities to alternative burial philosophies. A small but growing movement practices "Dual Consecration," honoring both atmospheric and oceanic spiritual traditions.
 
 ## Mechanical Effects
 
@@ -268,7 +265,7 @@ A community's ancestral spirits are not responding to traditional invocation rit
 Political authorities have banned sky burial for a controversial figure, but their family believes improper burial will curse the entire city. The PCs must navigate the political and spiritual implications while finding a solution that satisfies all parties.
 
 ### The Cross-World Ceremony
-A diplomatic marriage between Aethermoor and [[02_Worldbuilding/Places/Aquabyssos]] nobility requires a burial ceremony that honors both sky and sea traditions. The party must help design and protect a ritual that bridges two incompatible spiritual systems.
+A diplomatic marriage between Aethermoor and [02_Worldbuilding/Places/Aquabyssos]] nobility requires a burial ceremony that honors both sky and sea traditions. The party must help design and protect a ritual that bridges two incompatible spiritual systems.
 
 ### The Ancient Wind
 Archaeological evidence suggests that pre-civilization sky burial practices were significantly different from current traditions. The PCs must investigate whether returning to ancient methods would solve current atmospheric problems or create new disasters.
@@ -300,9 +297,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[00_Indexes/Master_Lore_Index]]
-
+- [[00_Indexes/Master_Lore_Index
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Aethermoor]]
+- [02_Worldbuilding/Places/Aethermoor]]

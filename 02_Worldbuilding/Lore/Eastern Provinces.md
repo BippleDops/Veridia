@@ -1,22 +1,22 @@
 ---
 title: Eastern Provinces
 type: note
-tags:
+tags: 
 - auto-generated
-- [[Link]]ed
+- [[Linked
 created: '2025-01-15'
 ---
 
 # Eastern Provinces
 
 ## Overview
-This topic is referenced in [[Central Location]] and other parts of the campaign.
+This topic is referenced in [Central Location]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Central Location]]
+- Referenced by: [[Central Location
 - Related topics in the same category
 
 ## Details
@@ -29,5 +29,5 @@ Further information about this topic will be developed as the campaign progresse
 
 ## References
 
-- [[Central Location]]
+- [Central Location]]
 - [[Clues_by_Location.png]]

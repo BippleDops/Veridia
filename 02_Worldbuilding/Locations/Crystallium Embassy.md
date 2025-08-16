@@ -1,10 +1,10 @@
 ---
 
-title: [[Crystallium]] Embassy
-type: [[location]]
-tags:
+title: [[Crystallium Embassy
+type: [location]]
+tags: 
 - mechanics/social
-- [[Aquabyssos]]
+- [[Aquabyssos
 - technology
 - embassy
 - status/complete
@@ -17,7 +17,7 @@ tags:
 - complete
 - world/aquabyssos
 - espionage
-- world/[[Aethermoor]]
+- world/[Aethermoor]]
 - crystal-enhanced
 created: '2025-08-12'
 modified: '2025-08-14'
@@ -51,7 +51,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -95,22 +95,22 @@ improvements: 20
 
 ## Overview
 
-The Crystallium Embassy represents the technologically advanced crystal nation in Aquabyssos, officially promoting scientific cooperation and technological exchange. Paradoxically, this embassy of supposed transparency operates one of the most sophisticated technological espionage networks in the capital, using [[Crystal Technology]] to achieve invisibility through perfect information control.
+The Crystallium Embassy represents the technologically advanced crystal nation in Aquabyssos, officially promoting scientific cooperation and technological exchange. Paradoxically, this embassy of supposed transparency operates one of the most sophisticated technological espionage networks in the capital, using [Crystal Technology]] to achieve invisibility through perfect information control.
 
 ### Primary Objectives
 
 1. **Technological Intelligence:** Acquire all advanced technology developments in Aquabyssos
 2. **Political Prediction:** Model and predict political developments for Crystallium advantage
 3. **Economic Forecasting:** Analyze market trends and economic policy for commercial benefit
-4. **Social Engineering:** Influence public opinion and political decisions through [[data]] manipulation
+4. **Social Engineering:** Influence public opinion and political decisions through [[data manipulation
 5. **Military Assessment:** Evaluate naval capabilities and strategic vulnerabilities
 
 #### Operation Crystal Clear
 
-**Objective:** Achieve complete technological surveillance of [[Abyssos Prime]]
+**Objective:** Achieve complete technological surveillance of [Abyssos Prime]]
 **Method:** Distribute crystal-enhanced devices throughout society with hidden monitoring functions
-**Current Status:** 30% penetration of government facilities, 60% of [[Academic Institutions]]
-**[[Time|[[Time]]line]]:** Total surveillance capability within 2 years
+**Current Status:** 30% penetration of government facilities, 60% of [[Academic Institutions
+**[[Time|[Time]]line]]:** Total surveillance capability within 2 years
 **Assets:** Technology distribution networks, research partnerships, commercial sales
 
 #### Operation Predictive Goverce
@@ -165,7 +165,7 @@ Predictive systems have unexpected weaknesses:
 
 1. **System Malfunction:** Embassy technology failure exposes intelligence operations
 2. **Predictive Paradox:** AI prediction creates the events it predicts, causing temporal complications
-3. **[[Crystal Network]] Discovery:** Investigation into mysterious crystal devices throughout city
+3. **[[Crystal Network Discovery:** Investigation into mysterious crystal devices throughout city
 4. **Technology Theft:** Recover stolen Crystallium technology before it's reverse-engineered
 
 ### Espionage Operations
@@ -187,7 +187,7 @@ Predictive systems have unexpected weaknesses:
 1. **Privacy Invasion:** Moral questions about comprehensive surveillance capability
 2. **Technological Addiction:** Citizens dependent on potentially harmful embassy technology
 3. **Predictive Determinism:** Whether knowing the future removes free will
-4. **[[Cultural Preservation]]:** Technology changing Aquabyssos culture and identity
+4. **[Cultural Preservation]]:** Technology changing Aquabyssos culture and identity
 
 ### Embassy Staff Capabilities
 
@@ -227,20 +227,20 @@ Predictive systems have unexpected weaknesses:
 
 Crystallium Embassy is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## [[Lore]] Details
+## [[Lore Details
 
 Legends speak of Crystallium Embassy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Crystallium Embassy.
 
-### [[Key Locations]]
+### [Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [map]] use.
 
 ## Sensory Details
 
@@ -276,7 +276,7 @@ Crystallium Embassy was established in the distant past, growing from humble beg
 
 ## Connections
 - **North**: Trade road to neighboring settlement
-- **South**: [[path]] through wilderness
+- **South**: [[path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
 
@@ -362,18 +362,15 @@ Ongoing situations affecting Crystallium Embassy:
 
 ## References
 
-- [[Political Intrigue Master Index (D&D_References)]]
-
+- [Political Intrigue Master Index (D&D_References)]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

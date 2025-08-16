@@ -2,7 +2,7 @@
 
 title: The Void Merger
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -45,7 +45,6 @@ updated: '2025-08-13T01:18:34.738641+00:00'
 - A letter reveals a betrayal about this place
 - Strange disappearances suggest a curse
 - Strange dreams suggest a portal ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

@@ -2,7 +2,7 @@
 
 title: The Eel Keepers (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -100,17 +100,15 @@ The Eel Keepers are a specialized guild of animal handlers who manage, train, an
 3. Political intrigue involving compromised communication eels
 4. Lost ancient training manual hidden in abandoned facility ## DM Notes
 
-
 The Eel Keepers provide both mundane city services and adventure opportunities. Their specialized knowledge makes them valuable allies or obstacles depending on party needs and political situations. ## Player-Facing Summary The Eel Keepers is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Eel Keepers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Eel Keepers. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil ## Plot Hooks - Strange disappearances suggest ancient magic
 
 - Strange accidents suggest a conspiracy
 - Strange disappearances suggest ancient magic
-- Someone is protecting an heir for power ## Related Notes - [[Similar Topic 1]]
+- Someone is protecting an heir for power ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

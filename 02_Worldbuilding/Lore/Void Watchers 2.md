@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - aethermoor
 - complete
 - content/lore
@@ -14,13 +14,8 @@ updated: '2025-08-13T12:34:16.314663+00:00'
 world: Aethermoor
 ---
 
-
-
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-the-void-watchers-the-void-watchers.svg)
-
-
 
 ## Overview
 

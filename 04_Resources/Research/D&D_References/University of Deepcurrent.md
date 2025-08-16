@@ -2,7 +2,7 @@
 
 title: University of Deepcurrent
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,14 +42,13 @@ updated: '2025-08-13T01:18:35.120816+00:00'
 
 - A stranger needs help investigating before the new moon
 - A document has gone missing and evil awakens
-- Someone is blackmailing an heir for power ## Related Notes - [[Similar Topic 1]]
+- Someone is blackmailing an heir for power ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Memory Merchant Valeria Siltweave]]
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Memory Merchant Valeria Siltweave
 
-- [[Memory Merchant Valeria Siltweave (D&D_Statblocks)]]
-
+- [Memory Merchant Valeria Siltweave (D&D_Statblocks)]]
 
 ## Notes
 

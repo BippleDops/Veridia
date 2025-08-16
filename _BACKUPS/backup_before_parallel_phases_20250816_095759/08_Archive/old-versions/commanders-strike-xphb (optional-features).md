@@ -1,0 +1,67 @@
+---
+
+title: commanders-strike-xphb (optional-features)
+type: note
+tags: 
+- note
+
+created: '2025-01-15'
+modified: '2025-01-15'
+aliases: ["commanders-strike-xphb (optional-features)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
+---
+
+ # commanders-strike-xphb ---
+
+## Description
+
+Detailed description pending.
+title: commanders strike xphb
+aliases:
+- Commander's Strike
+
+type: note
+tags:
+- ttrpg-cli/optional-feature/mv-b
+- research
+- world/both
+- active
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xphb
+
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-feat
+obsidian UIMode: preview
+updated: '2025-08-12T23:37:35.881347'
+world: Both
+
+--- # Commander's Strike
+
+*Source: Player's Handbook (2024) p. 94* When you take the [[actions#Attack|Attack action on your turn, you can replace one of your attacks to direct one of your companions to strike. When you do so, choose a willing creature who can see or hear you and expend one Superiority Die. That creature can immediately use its [reaction-xphb (variant-rules)]] to make one attack with a weapon or an [[Unarmed Strike Xphb]], adding the Superiority Die to the attack's damage roll on a hit. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Commanders strike xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of commanders strike xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around commanders strike xphb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A corpse reveals the truth about this place
+
+- A letter reveals ancient history about this place
+- A document has gone missing and war looms ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
+
+## Notes
+
+*Additional notes*
+
+#mechanics/rules
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#world/place
+#character/creature
+#meta/reference

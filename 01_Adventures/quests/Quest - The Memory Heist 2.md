@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/faction
@@ -13,10 +13,6 @@ type: Lore
 updated: '2025-08-13T12:34:15.885096+00:00'
 world: Aquabyssos
 ---
-
-
-
-
 
 ## Overview
 
@@ -42,26 +38,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 
-
 ## Timeline
 - Key events
 - Deadlines
-
 
 ## NPCs Involved
 - Quest giver
 - Antagonists
 
-
 ## Locations
 - Starting point
 - Key locations
 
-
 ## Complications
 - Potential problems
 - Twists
-
 
 ## Alternative Solutions
 - Non-combat options

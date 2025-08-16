@@ -1,12 +1,12 @@
 ---
-aliases:
-- [[Dr Marina Voidseeker]]
+aliases: 
+- [[Dr Marina Voidseeker
 created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
-tags:
-- [[Lore]]
+tags: 
+- [Lore]]
 title: Dr. Marina Voidseeker
 type: lore
 updated: 2025-08-14
@@ -22,12 +22,12 @@ Dr. Marina Voidseeker represents a significant element within the campaign world
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: [[Link]]ed to multiple other elements
+- **Connections**: [[Linked to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-[[Historical Context]] and development over [[Time]].
+[Historical Context]] and development over [[Time.
 
 ### Current State
 Present circumstances and ongoing relevance.
@@ -48,10 +48,10 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 *Customize as needed for your specific campaign requirements.*
 
 ## References
 
-- [[Session 09 the Shard Convergence]]
-- [[Session 10 New Horizons (06_Sessions)]]
+- [[Session 09 the Shard Convergence
+- [Session 10 New Horizons (06_Sessions)]]

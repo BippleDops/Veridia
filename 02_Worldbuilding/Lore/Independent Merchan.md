@@ -1,10 +1,10 @@
 ---
 
 title: Independent Merchan
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - world/aquabyssos
 - content/lore
 - content/npc
@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -74,7 +74,7 @@ improvements: 20
 
 ## Player-Facing Summary
 
-Independent [[Merchant]] 2 is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+Independent [Merchant]] 2 is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
@@ -128,5 +128,5 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Supplier Erikson Tidecaller]]
-- [[The Tidepool Markets]]
+- [[Supplier Erikson Tidecaller
+- [The Tidepool Markets]]

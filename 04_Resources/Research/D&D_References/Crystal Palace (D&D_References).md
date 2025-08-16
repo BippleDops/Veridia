@@ -2,7 +2,7 @@
 
 title: Crystal Palace (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -92,21 +92,17 @@ The current Crystal Sovereign, Prism-Heart the Radiant, has begun showing signs 
 2. **The Crystal Merchant's Proposal** - Powerful trade guild offers to fund palace repairs in exchange for architectural secrets
 3. **The Ambassador's Dilemma** - Foreign diplomat trapped by court politics needs escort to safety ### Exploration and Discovery
 
-
 1. **The Missing Crown** - Royal regalia vanished from secured vault, requiring investigation of hidden passages
 2. **The Whispering Walls** - Crystal formations throughout palace beginning to relay disturbing messages
 3. **The Memory Storm** - Historical crystal imprints becoming active, threatening to rewrite current reality ### Supernatural Mysteries
-
 
 1. **The Doppelganger Court** - Crystal reflections of courtiers acting independently and contradicting originals
 2. **The Time Loop Chambers** - Certain rooms trapping visitors in recursive temporal cycles
 3. **The Light Thief** - Something draining illumination from palace, creating expanding zones of dangerous darkness ## Player-Facing Summary The Crystal Palace serves as the seat of absolute royal power in the underwater realm, a massive structure grown from a single crystal formation over centuries. Its walls pulse with inner light that responds to emotions, and its perfect acoustic properties mean every whisper can be heard by those who know how to listen. ## Lore Details The Crystal Palace represents the ultimate expression of magical architecture, where form and function merge into something beyond mere building. Local legends claim the original crystal was a fallen star, while others insist it grew from the tears of a heartbroken sea goddess. ## DM Notes Emphasize the synesthetic quality of the palace—sounds have colors, lights have textures, and emotions leave visible trails in the crystal. Use the structure itself as an active participant in political intrigue, with walls that remember conversations and light patterns that reveal hidden truths. ## Related *Links to related content will be added here.* ## Plot Hooks - A prisoner has gone missing and truth emerges
 
-
 - A merchant needs help finding before dawn
 - A shipment has gone missing and chaos spreads
 - A shipment has gone missing and war looms ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

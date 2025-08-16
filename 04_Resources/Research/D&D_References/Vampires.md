@@ -2,7 +2,7 @@
 
 title: Vampires
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -44,12 +44,11 @@ updated: '2025-08-13T01:18:34.559084+00:00'
 
 - A merchant needs help stealing before dawn
 - Someone is searching for an heir for power
-- A map reveals the truth about this place ## Related Notes - [[Similar Topic 1]]
+- A map reveals the truth about this place ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

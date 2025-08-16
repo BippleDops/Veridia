@@ -2,7 +2,7 @@
 
 title: Network Designer Flow Linkwright
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -37,10 +37,9 @@ status: active
 world: Aethermoor
 updated: '2025-08-13T01:18:34.858361+00:00'
 
---- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Network Designer Flow Linkwright is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Network Designer Flow Linkwright as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Network Designer Flow Linkwright. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Crystal-Corruption-Tracking-Sheet]]
+--- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Network Designer Flow Linkwright is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Network Designer Flow Linkwright as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Network Designer Flow Linkwright. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Crystal-Corruption-Tracking-Sheet
 
-- [[Crystal-Corruption-Tracking-Sheet (D&D_References)]]
-
+- [Crystal-Corruption-Tracking-Sheet (D&D_References)]]
 
 ## Notes
 

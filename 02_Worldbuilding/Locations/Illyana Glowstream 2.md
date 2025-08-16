@@ -6,7 +6,7 @@ created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -23,15 +23,8 @@ updated: '2025-08-13T12:34:16.579639+00:00'
 world: Aquabyssos
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-illyana-glowstream-illyana-glowstream.svg)
-
-
-
-
-
 
 # Illyana Glowstream
 
@@ -60,7 +53,7 @@ She wears robes woven from bioluminescent fibers that pulse gently with her hear
 ## Statistics
 **Medium humanoid (water genasi), neutral good**
 - **AS** 14 (Mage Armor)
-- **HP** 72 (16d6 + 16)
+- **HP** 72 (`dice: 16d6` + 16)
 - **Speed** 30 ft, swim 30 ft
 - **STR** 10 (+0) **DEX** 14 (+2) **CON** 13 (+1) **INT** 18 (+4) **WIS** 16 (+3) **CHA** 17 (+3)
 - **Skills** Arcana +10, Investigation +7, Medicine +6, Persuasion +6
@@ -79,13 +72,13 @@ She wears robes woven from bioluminescent fibers that pulse gently with her hear
 **Beacon of Hope.** Creatures within 30 feet of Illyana have advantage on saving throws against fear and despair effects.
 
 ### Actions
-**Crystal Staff.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning damage plus 7 (2d6) radiant damage.
+**Crystal Staff.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (`dice: 1d6`) bludgeoning damage plus 7 (`dice: 2d6`) radiant damage.
 
-**Blinding Flash (Recharge 5-6).** Illyana creates a brilliant flash of light in a 30-foot radius. All creatures in the area must make a DC 15 Constitution saving throw or be blinded for 1 minute.
+**Blinding Flash (Recharge 5-6).** Illyana creates a brilliant flash of light in a 30-foot radius. All creatures in the area must make a **DC 15** Constitution saving throw or be blinded for 1 minute.
 
-**Healing Light (3/day).** Illyana touches a creature and heals them for 2d8 + 4 hit points while removing one condition caused by darkness or negative energy.
+**Healing Light (3/day).** Illyana touches a creature and heals them for `dice: 2d8` + 4 hit points while removing one condition caused by darkness or negative energy.
 
-**Spellcasting.** Illyana is a 12th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). She has the following spells prepared:
+**Spellcasting.** Illyana is a 12th-level spellcaster. Her spellcasting ability is Intelligence (spell save **DC 15**, +7 to hit with spell attacks). She has the following spells prepared:
 - Cantrips: *light*, *dancing lights*, *mage hand*, *prestidigitation*
 - 1st level (4 slots): *faerie fire*, *color spray*, *cure wounds*
 - 2nd level (3 slots): *scorching ray*, *misty step*, *aid*
@@ -128,38 +121,27 @@ She's also been providing informal counseling services, using her light magic to
 ## DM Notes
 Illyana serves as both a technical resource and an emotional anchor for the party and other NPCs. Her light magic can provide creative solutions to various challenges while her optimistic outlook offers hope during dark campaign moments. Use her illumination network to provide information and her healing abilities to support party recovery. Her neutral status makes her a safe contact regardless of factional allegiances.
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
-
+- [[02_Worldbuilding/Places/Pearl_Harbor_City
 
 ## History
 
-
 TODO
-
 
 ## Layout
 
-
 TODO
-
 
 ## Notables
 
-
 TODO
-
 
 ## Threats
 
-
 TODO
 
-
 ## Hooks
-
 
 TODO
 
@@ -179,30 +161,25 @@ Legends speak of Illyana Glowstream as a nexus where past and present converge. 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Illyana Glowstream]]
+- [02_Worldbuilding/Places/Illyana Glowstream]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

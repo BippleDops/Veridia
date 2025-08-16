@@ -3,7 +3,7 @@ created: '2025-08-08'
 created_by: auto-stub
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/faction
@@ -18,12 +18,8 @@ updated: '2025-08-13T12:34:17.112888+00:00'
 world: Aquabyssos
 ---
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-unremembered-parliament-the-unremembered-parliament.svg)
-
-
-
 
 # The Unremembered Parliament
 
@@ -133,27 +129,19 @@ The spirits cannot rest until their final legislation is properly addressed:
 ## DM Notes
 This location works well for political campaigns exploring themes of democracy, corruption, and historical truth. The supernatural elements add mystery while the political implications create ongoing consequences for character actions.
 
-
 ## Layout
 
-
 TODO
-
 
 ## Notables
 
-
 TODO
-
 
 ## Threats
 
-
 TODO
 
-
 ## Hooks
-
 
 TODO
 
@@ -171,21 +159,17 @@ Legends speak of The Unremembered Parliament as a nexus where past and present c
 
 <!-- enriched: true -->
 
-
 ## Atmosphere
 - Mood and feeling
 - Sensory details
-
 
 ## Resources
 - Natural resources
 - Trade goods
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

@@ -1,7 +1,7 @@
 ---
 created: '2025-08-12'
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - conspiracy
@@ -15,8 +15,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.436458+00:00'
 world: Aquabyssos
 ---
-
-
 
 # Shadow Conspiracy Timeline
 *The Secret History of Shadow Surgery and Dimensional Infiltration*
@@ -651,15 +649,15 @@ The Shadow Conspiracy is now understood as the most successful intelligence and 
 
 - Pre Drowning Civilization Archives
 - The Catastrophe: Hour By Hour
-- [[02_Worldbuilding/Lore/Post-Merge Chronology]]
+- [[02_Worldbuilding/Lore/Post-Merge Chronology
 - Crystal Plague Origins
-- [[02_Worldbuilding/Lore/The Deep Mother]]
+- [02_Worldbuilding/Lore/The Deep Mother]]
 - Parliamentary Founding
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective
 - Agent Vex Shadowmere
 - Deep Speaker Marina Voidheart
 - Order Of Deep Speakers
-- [[02_Worldbuilding/Places/Reality Anchor Network]]
+- [02_Worldbuilding/Places/Reality Anchor Network]]
 - Truth And Reconciliation Depths Commission
 
 ## Player-Facing Summary

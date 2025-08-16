@@ -2,7 +2,7 @@
 
 title: Timeline of the Drowning 3 (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -53,27 +53,26 @@ world: Aquabyssos
 
 --- # Timeline of the Drowning
 
-*The Great Submersion That Created Aquabyssos* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The Drowning represents the cataclysmic transformation of a surface civilization into the underwater realm of [[Aquabyssos]]. Unlike a simple flood, this was a gradual, supernatural process spanning decades that fundamentally altered not just geography, but the very nature of reality, consciousness, and life itself. The event was both natural disaster and divine intervention, orchestrated by the stirring dreams of [[The Deep Mother]] as she began her long awakening. ## Pre-Drowning Era: The Tethyan Hegemony
+*The Great Submersion That Created Aquabyssos* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The Drowning represents the cataclysmic transformation of a surface civilization into the underwater realm of [[Aquabyssos. Unlike a simple flood, this was a gradual, supernatural process spanning decades that fundamentally altered not just geography, but the very nature of reality, consciousness, and life itself. The event was both natural disaster and divine intervention, orchestrated by the stirring dreams of [The Deep Mother]] as she began her long awakening. ## Pre-Drowning Era: The Tethyan Hegemony
 
 *Dates: Ancient Era - Year 0 (Before Submersion)* ### The Surface Empire
 
 **Years -2000 to -500 BS (Before Submersion)**
-- Massive continental empire centered around the [[Tethyan Basin]]
-- Advanced civilization with crystal-based technology similar to [[Aethermoor]]
+- Massive continental empire centered around the [[Tethyan Basin
+- Advanced civilization with crystal-based technology similar to [Aethermoor]]
 - Population of approximately 50 million across seven major city-states
 - Sophisticated understanding of pressure, water, and depth-based engineering
 - Complex trade networks spanning three continents
 - Advanced memory preservation techniques using crystal matrices ### The Great Cities (Pre-Submersion)
 
 **Major Population Centers:**
-1. **Tethyopolis** (Capital) - 8 million residents, now [[The Parliament of Echoes]]
-2. **Benthica** (Military Hub) - 4 million residents, now [[The Citadel of Depths]]
-3. **Abyssos Prime** (Trade Center) - 6 million residents, now [[Abyssos Prime]]
-4. **Pelagia** (Religious Center) - 2 million residents, now [[The Temple of First Tide]]
-5. **Hadalia** (Industrial Hub) - 5 million residents, now [[The Forge Depths]]
-6. **Nereia** (Academic Center) - 3 million residents, now [[The Memory Vaults]]
-7. **Oceania** (Agricultural Hub) - 4 million residents, now [[The Kelp Territories]] ### Technological Achievements
-
+1. **Tethyopolis** (Capital) - 8 million residents, now [[The Parliament of Echoes
+2. **Benthica** (Military Hub) - 4 million residents, now [The Citadel of Depths]]
+3. **Abyssos Prime** (Trade Center) - 6 million residents, now [[Abyssos Prime
+4. **Pelagia** (Religious Center) - 2 million residents, now [The Temple of First Tide]]
+5. **Hadalia** (Industrial Hub) - 5 million residents, now [[The Forge Depths
+6. **Nereia** (Academic Center) - 3 million residents, now [The Memory Vaults]]
+7. **Oceania** (Agricultural Hub) - 4 million residents, now [[The Kelp Territories ### Technological Achievements
 
 **Scientific Advances:**
 - **Pressure Architecture**: Buildings designed to function at any depth
@@ -85,7 +84,7 @@ world: Aquabyssos
 - **Acoustic Engineering**: Sound-based technology and communication ### Religious Framework
 
 **The Depth Mysteries Cult:**
-- Primary religion worshipping [[The Deep Mother]] as sleeping goddess
+- Primary religion worshipping [The Deep Mother]] as sleeping goddess
 - Belief that depth represented spiritual advancement
 - Ritual practices involving controlled drowning and pressure exposure
 - Prophetic traditions predicting "The Great Submersion"
@@ -115,7 +114,7 @@ world: Aquabyssos
 - Shadow corruption beginning to manifest in aquatic forms
 - Memory alterations affecting those who interact with anomalous water
 - Temporal distortions around major bodies of water
-- First appearance of [[Aboleth]] creatures in accessible depths **Year -10 BS: The False Tides**
+- First appearance of [[Aboleth creatures in accessible depths **Year -10 BS: The False Tides**
 - Daily "phantom tides" occurring hundreds of miles inland
 - People experiencing pressure sensations despite being on dry land
 - Mass migration of surface animals toward ocean depths
@@ -153,7 +152,7 @@ world: Aquabyssos
 - Complete biological and technological adaptation to aquatic existence
 - Development of pressure-based magic and memory manipulation
 - Establishment of the depth-zone governmental system
-- First contact with [[The Deep Mother]]'s direct servants **Critical Events:**
+- First contact with [The Deep Mother]]'s direct servants **Critical Events:**
 - **The Deep Parliament** (Year 18 AS): First underwater democratic assembly in former Tethyopolis
 - **The Pressure Wars** (Year 22 AS): Conflicts between depth-adapted and surface-nostalgic factions
 - **The Great Memory Synthesis** (Year 26 AS): Combining pre-Drowning knowledge with deep-sea wisdom
@@ -169,8 +168,8 @@ world: Aquabyssos
 - **The Depth Constitution** (Year 37 AS): Formal legal framework for underwater society
 - **The Deep Trade Establishment** (Year 40 AS): Economic networks spanning all depth zones
 - **The Memory Academies** (Year 43 AS): Educational institutions teaching pressure-based disciplines
-- **The Aboleth Integration** (Year 46 AS): [[Aboleth Prime Yoth]] accepts position as advisor to government
-- **The Final Descent** (Year 49 AS): Deepest settlements reach the [[Hadal Depths]] ## Post-Drowning Developments
+- **The Aboleth Integration** (Year 46 AS): [[Aboleth Prime Yoth accepts position as advisor to government
+- **The Final Descent** (Year 49 AS): Deepest settlements reach the [Hadal Depths]] ## Post-Drowning Developments
 
 *Years 50+ AS* ### The Classical Period
 
@@ -185,22 +184,22 @@ world: Aquabyssos
 - Gradual increase in shadow corruption phenomena
 - Development of shadow-manipulation technologies
 - First major conflicts with shadow entities
-- Discovery of connections to surface world [[Aethermoor]]
+- Discovery of connections to surface world [[Aethermoor
 - Beginning of dimensional research programs ### The Memory Wars
 
 **Years 400-600 AS**
 - Conflicts over control of memory-manipulation technology
-- Rise of the [[Sire]] class
+- Rise of the [Sire]] class
 - Development of memory-based weapons and defenses
 - Establishment of memory-preservation protocols
-- Creation of the [[Memory Vault]] system ### The Modern Era
+- Creation of the [[Memory Vault system ### The Modern Era
 
 **Years 600+ AS (Current Time)**
 - Current political and social structure
 - Ongoing shadow corruption management
 - Diplomatic contact with surface world
-- The approaching [[The Convergence Point]]
-- Signs of [[The Deep Mother]]'s increasing wakefulness ### Physical Adaptations
+- The approaching [The Convergence Point]]
+- Signs of [[The Deep Mother's increasing wakefulness ### Physical Adaptations
 
 **Immediate Changes (Years 0-10):**
 - Development of functional gills alongside lungs
@@ -256,12 +255,12 @@ world: Aquabyssos
 - Resistance to biological adaptation ### Religious Evolution
 
 **From Surface Faith to Deep Mysteries:**
-- Original [[The Depth Mysteries Cult]] becomes domit religion
+- Original [The Depth Mysteries Cult]] becomes domit religion
 - Development of depth-based spiritual hierarchies
-- Integration of [[The Deep Mother]] worship into daily life
+- Integration of [[The Deep Mother worship into daily life
 - Creation of pressure-based meditation and prayer techniques
 - Establishment of underwater temples and sacred sites **New Religious Movements:**
-- **The Drowned Prophets**: Extreme devotion to [[The Deep Mother]]
+- **The Drowned Prophets**: Extreme devotion to [The Deep Mother]]
 - **The Memory Keepers**: Preservation of pre-Drowning spiritual practices
 - **The Shadow Shepherds**: Integration of shadow corruption into worship
 - **The Current Followers**: Worship of ocean flows and pressure systems
@@ -317,7 +316,7 @@ world: Aquabyssos
 - City-states with local autonomy
 - Guild representation in policy making
 - Religious authority advising secular power **Post-Drowning Parliament System:**
-- **[[Parliament of Echoes]]**: Democratic assembly in former capital
+- **[[Parliament of Echoes**: Democratic assembly in former capital
 - **Depth Councils**: Representatives from each pressure zone
 - **Memory Tribunals**: Judicial system using memory evidence
 - **Shadow Integration Board**: Managing corruption phenomena
@@ -362,7 +361,7 @@ world: Aquabyssos
 - Memory crystallization preserving first-person experiences
 - Collective memory pools accessible through shadow corruption
 - Genetic memory inheritance in adapted populations
-- Dream-sharing networks connecting to [[The Deep Mother]] **Memory Categories:**
+- Dream-sharing networks connecting to [The Deep Mother]] **Memory Categories:**
 - **Surface Memories**: Pre-Drowning experiences and knowledge
 - **Transition Memories**: First-person accounts of the Drowning process
 - **Adaptation Memories**: Learning to live underwater
@@ -414,24 +413,23 @@ world: Aquabyssos
 - Shadow corruption continues to spread and evolve
 - Memory alteration creates questions about historical accuracy
 - Depth hierarchy creates social inequality and conflict
-- Connection to surface world [[Aethermoor]] raises identity questions
-- [[The Deep Mother]]'s increasing activity creates uncertainty **Future Concerns:**
-- [[The Convergence Point]] may reverse or transform the Drowning
+- Connection to surface world [[Aethermoor raises identity questions
+- [The Deep Mother]]'s increasing activity creates uncertainty **Future Concerns:**
+- [[The Convergence Point may reverse or transform the Drowning
 - Rising shadow corruption levels threaten social stability
 - Memory manipulation technology could alter historical understanding
 - Deep exploration reveals increasingly dangerous entities
 - Political pressure for surface world contact and possible return ### Artifacts and Technology
 
 - - Complete record of Drowning process
-- [[Memory Crystals]] - Technology preserving pre-Drowning experiences
-- [[The Pressure Crown]] - Symbol of successful adaptation
-- [[The Shadow Integration]] - Methods for managing corruption
-- [[The Current Maps]] - Navigation systems for underwater travel --- *"The Drowning was not the end of our world, but the birth of our true nature."*
+- [Memory Crystals]] - Technology preserving pre-Drowning experiences
+- [[The Pressure Crown - Symbol of successful adaptation
+- [The Shadow Integration]] - Methods for managing corruption
+- [[The Current Maps - Navigation systems for underwater travel --- *"The Drowning was not the end of our world, but the birth of our true nature."*
 
-*- Inscription at the [[Parliament of Echoes]]* ## Player-Facing Summary Timeline of the Drowning is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Timeline of the Drowning as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Timeline of the Drowning. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Plot Hooks - A shipment has gone missing and war looms
+*- Inscription at the [Parliament of Echoes]]* ## Player-Facing Summary Timeline of the Drowning is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Timeline of the Drowning as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Timeline of the Drowning. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Plot Hooks - A shipment has gone missing and war looms
 
 - A letter reveals a betrayal about the government ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

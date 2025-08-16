@@ -2,7 +2,7 @@
 
 title: Refugee Leader Maria Hopesinger
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,7 +42,6 @@ updated: '2025-08-13T01:18:34.930507+00:00'
 
 - Someone is hunting information for power
 - A document has gone missing and evil awakens ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

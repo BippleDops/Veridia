@@ -1,7 +1,7 @@
 ---
 created: '2025-08-12'
 status: complete
-tags:
+tags: 
 - alliances
 - aquabyssos
 - complete
@@ -17,8 +17,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.002873+00:00'
 world: Aquabyssos
 ---
-
-
 
 # Merchant Family Alliances
 *"Gold flows like water, but family flows like blood"*

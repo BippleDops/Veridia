@@ -1,0 +1,70 @@
+---
+
+title: Soldier Xphb
+type: note
+tags: 
+- note
+
+created: '2025-01-15'
+modified: '2025-01-15'
+aliases: ["Soldier Xphb"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
+---
+
+ # Soldier Xphb ---
+
+## Description
+
+Detailed description pending.
+title: Soldier Xphb
+aliases:
+- Soldier
+
+type: note
+tags:
+- both
+- content/lore
+- world/both
+- research
+- active
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xphb
+
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-background
+obsidian UIMode: preview
+updated: '2025-08-13T12:34:05.258200+00:00'
+world: Both
+
+--- # Soldier
+
+*Source: Player's Handbook (2024) p. 185. Available in the Free Rules (2024)* ![](/03_Mechanics/CLI/backgrounds/img/soldier.webp#right) - **Ability Scores.** Strength, Dexterity, Constitution - **Feat.** [[savage-attacker-xphb (feats) - **Skill Proficiencies.** [skills#Athletics|Athletics]], [[skills#Intimidation|Intimidation - **Tool Proficiency.** Choose one kind of [gaming-set-xphb (items)]] - **Equipment.** Choose A or B: (A) [[Eldritch Spear Xphb, [shortbow-xphb (items)]], [[lightning-arrow-xphb (spells), [gaming-set-xphb (items)]] (same as above), [[healers-kit-xphb (items), [Swift Quiver Xphb]], [[travelers-clothes-xphb (items)]], 14 GP; or (B) 50 GP You began training for war as soon as you reached adulthood and carry precious few memories of life before you took up arms. Battle is in your blood. Sometimes you catch yourself reflexively performing the basic fighting exercises you learned first. Eventually, you put that training to use on the battlefield, protecting the realm by waging war. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Soldier xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of soldier xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around soldier xphb. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession ## Related Notes - [[Similar Topic 1
+
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
+
+## Notes
+
+*Additional notes*
+
+#mechanics/rules
+#mechanics/mechanics
+#story/story
+#story/lore
+#story/background
+#world/world
+#world/setting
+#resource/item
+#resource/equipment
+#meta/reference

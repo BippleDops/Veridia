@@ -238,7 +238,6 @@ world: Both
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-
 ## Notes
 
 *Additional notes*

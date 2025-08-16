@@ -1,13 +1,13 @@
 ---
 
-title: [[Leviathan]] the Dee
-type: [[Lore]]
-tags:
+title: [[Leviathan the Dee
+type: [Lore]]
+tags: 
 - lore
-- [[Aquabyssos]]
+- [[Aquabyssos
 - world/aquabyssos
 - content/lore
-- content/[[location]]
+- content/[location]]
 - active
 - complete
 - status/in-progress
@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -80,7 +80,7 @@ Leviathan the Deep 2 is a undersea element of the setting, known for bioluminesc
 
 Legends speak of Leviathan the Deep 2 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Leviathan the Deep 2.
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 

@@ -2,7 +2,7 @@
 
 title: Merchant Prince Coral Goldflow
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,12 +42,11 @@ updated: '2025-08-13T01:18:35.189171+00:00'
 
 - A noble needs help investigating before dawn
 - Someone is blackmailing a artifact for revenge
-- A map reveals a betrayal about the cult ## Related Notes - [[Similar Topic 1]]
+- A map reveals a betrayal about the cult ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

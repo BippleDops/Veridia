@@ -2,7 +2,7 @@
 
 title: Shadow Merchant Riptide
 type: Location
-tags:
+tags: 
 - aquabyssos
 - status/complete
 - content/faction
@@ -43,8 +43,8 @@ improvements: 20
 # Shadow Merchant Riptide
 
 **Role:** Information Broker and Black Market Dealer  
-**Location:** [[Shadow Market Canals]] - Mobile operations  
-**Affiliations:** [[Shadow Surgeons Collective]], [[The Whisper Syndicate]]  
+**Location:** [[Shadow Market Canals - Mobile operations  
+**Affiliations:** [Shadow Surgeons Collective]], [[The Whisper Syndicate  
 **Specialties:** Memory trafficking, identity forgery, political blackmail
 
 ## 🔧 Deep Evaluation Improvements
@@ -100,7 +100,7 @@ improvements: 20
 - Explain guest rights and host obligations
 
 ## Overview
-Riptide operates as one of [[Aquabyssos]]'s most dangerous information brokers, dealing in stolen memories, forged identities, and political secrets. His network spans from the deepest criminal organizations to corrupt government officials. What makes him particularly dangerous is his collection of "insurance memories" - compromising experiences extracted from powerful figures that ensure his protection and influence.
+Riptide operates as one of [Aquabyssos]]'s most dangerous information brokers, dealing in stolen memories, forged identities, and political secrets. His network spans from the deepest criminal organizations to corrupt government officials. What makes him particularly dangerous is his collection of "insurance memories" - compromising experiences extracted from powerful figures that ensure his protection and influence.
 
 ## Appearance and Demeanor
 **Physical**: Tall, gaunt figure with pale skin marked by surgical scars. His eyes constantly shift color due to crystalline implants that help him process stolen memories. Wears expensive but understated clothing that conceals numerous hidden weapons and magical devices.
@@ -113,14 +113,14 @@ Riptide operates as one of [[Aquabyssos]]'s most dangerous information brokers, 
 - Always has three escape routes planned
 
 ## Background and History
-**Origins**: Former [[Memory Farmers]] apprentice who discovered the profit potential in stolen experiences  
+**Origins**: Former [[Memory Farmers apprentice who discovered the profit potential in stolen experiences  
 **Corruption**: Made a pact with an entity from the shadow realm in exchange for power over memories  
-**Rise to Power**: Systematically blackmailed his way into becoming one of [[Aquabyssos]]'s most feared criminals  
+**Rise to Power**: Systematically blackmailed his way into becoming one of [Aquabyssos]]'s most feared criminals  
 **Current Status**: Untouchable due to the secrets he holds, but constantly paranoid about rivals
 
 ### Combat Capabilities
 **AS**: 16 (Studded Leather + Dex)  
-**HP**: 112 (16d8 + 32)  
+**HP**: 112 (`dice: 16d8` + 32)  
 **Speed**: 30 ft., swim 40 ft.  
 **Saving Throws**: Dex +8, Cha +6
 
@@ -128,7 +128,7 @@ Riptide operates as one of [[Aquabyssos]]'s most dangerous information brokers, 
 - **Memory Drain**: Touch attack that steals recent memories and temporarily stuns target
 - **Shadow Step**: Teleport through shadows up to 60 feet as bonus action
 - **Suggestion**: Implant false memories to control behavior (Warlock feature)
-- **Sneak Attack**: +4d6 damage when conditions are met
+- **Sneak Attack**: +`dice: 4d6` damage when conditions are met
 - **Uncanny Dodge**: Half damage from one attack per round
 
 ### Magical Equipment
@@ -138,7 +138,7 @@ Riptide operates as one of [[Aquabyssos]]'s most dangerous information brokers, 
 **Crystal of True Sight**: See through illusions and detect magical deceptions
 
 ### Information Network
-**Informants**: 200+ agents throughout [[Aquabyssos]] and beyond  
+**Informants**: 200+ agents throughout [[Aquabyssos and beyond  
 **Memory Banks**: Vast collection of stolen experiences organized by subject  
 **Blackmail Files**: Compromising information on dozens of powerful figures  
 **Communication Network**: Crystal-based system for instant contact with agents
@@ -162,26 +162,26 @@ Riptide operates as one of [[Aquabyssos]]'s most dangerous information brokers, 
 **Foreign Agents**: Spies from other realms purchasing sensitive intelligence
 
 ### The Parliament Project
-**Goal**: Collect compromising memories from all [[Parliament of Echoes]] members  
+**Goal**: Collect compromising memories from all [Parliament of Echoes]] members  
 **Method**: Infiltration through corrupted staff and staged "accidents"  
 **Purpose**: Ultimate political control through comprehensive blackmail  
 **Progress**: 60% complete, accelerating due to recent opportunities
 
 ### The Surface Connection
-**Goal**: Establish information trading network with [[Aethermoor]]  
+**Goal**: Establish information trading network with [[Aethermoor  
 **Method**: Working through surface smugglers and diplomatic contacts  
 **Purpose**: Corner the market on inter-realm intelligence  
-**Obstacles**: [[Admiral Thorne Blackwater]]'s increased security measures
+**Obstacles**: [Admiral Thorne Blackwater]]'s increased security measures
 
 ### The Memory Monopoly
-**Goal**: Control all memory-related criminal activities in [[Aquabyssos]]  
+**Goal**: Control all memory-related criminal activities in [[Aquabyssos  
 **Method**: Systematically eliminating or absorbing rival operations  
 **Purpose**: Become the sole source of memory trafficking services  
-**Current Target**: [[Memory Farmers]] traditional operations
+**Current Target**: [Memory Farmers]] traditional operations
 
 ### Allies and Partners
-**[[Shadow Surgeons Collective]]**: Primary supplier of extracted memories  
-**[[The Whisper Syndicate]]**: Information sharing and joint operations  
+**[[Shadow Surgeons Collective**: Primary supplier of extracted memories  
+**[The Whisper Syndicate]]**: Information sharing and joint operations  
 **Corrupt Senator Marcus**: Government protection in exchange for services  
 **Agent Nightfall**: Personal bodyguard and enforcer with mysterious background
 
@@ -223,7 +223,7 @@ Riptide operates as one of [[Aquabyssos]]'s most dangerous information brokers, 
 - Alternatively, could become increasingly corrupted and dangerous over time
 
 > [!danger] DM Secret
-> Riptide is actually the original founder of the [[Shadow Surgeons Collective]], but he had his own memories of this fact surgically removed to protect himself from retaliation. The current leadership of the Collective doesn't know their organization's true origins, and Riptide himself has forgotten why he sometimes experiences unexplained familiarity with their operations. If this truth is revealed, it could either destroy the Collective or reunite it under his leadership, dramatically shifting the criminal landscape of [[Aquabyssos]].
+> Riptide is actually the original founder of the [[Shadow Surgeons Collective, but he had his own memories of this fact surgically removed to protect himself from retaliation. The current leadership of the Collective doesn't know their organization's true origins, and Riptide himself has forgotten why he sometimes experiences unexplained familiarity with their operations. If this truth is revealed, it could either destroy the Collective or reunite it under his leadership, dramatically shifting the criminal landscape of [Aquabyssos]].
 
 ## Player-Facing Summary
 
@@ -359,19 +359,16 @@ Mentioned in The Second Prophecy of Depths
 
 ## References
 
-- [[The Phosphor Markets]]
-- [[The Phosphor Markets (D&D_References)]]
-
+- [[The Phosphor Markets
+- [The Phosphor Markets (D&D_References)]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

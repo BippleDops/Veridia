@@ -2,7 +2,7 @@
 
 title: Deepcaster 3 (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -49,7 +49,6 @@ world: Aquabyssos
 - Someone is blackmailing a artifact for power
 - A journal reveals a betrayal about the government
 - An heirloom has gone missing and chaos spreads ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

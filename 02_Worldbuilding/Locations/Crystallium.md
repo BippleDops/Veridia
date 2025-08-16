@@ -2,7 +2,7 @@
 
 title: Crystallium
 type: Location
-tags:
+tags: 
 - aquabyssos
 - status/complete
 - content/location
@@ -18,16 +18,16 @@ tags:
 created: 2025-08-08 - Category/Place
 modified: '2025-08-14'
 status: draft
-region: '[[Pressure Zones]]'
+region: '[[Pressure Zones'
 population: 1200
 MyCategory: Unknown
 MyContainer: None
 danger_level: 6
 depth: 8,000 feet below surface
-government: '[[The Crystal Academy Council]]'
+government: '[The Crystal Academy Council]]'
 leader: '[[Master Crystallographer Aurora Prismheart]]'
 obsidianUIMode: preview
-specialties:
+specialties: 
 - Crystal Research
 - Pressure Magic
 - Deep Science
@@ -99,53 +99,53 @@ improvements: 20
 
 ## Overview
 
-Crystallium stands as [[Aquabyssos]]'s premier scientific research facility, a gleaming complex of crystal-glass laboratories and pressure chambers built 8,000 feet beneath the surface. Here, [[Master Crystallographer Aurora Prismheart]] leads the [[Crystal Academy Council]] in unlocking the secrets of crystal formation, pressure magic, and the mysterious interaction between [[Aethermoor]]'s shattered [[Crown of Stars]] and the deep ocean environment.
+Crystallium stands as [[Aquabyssos's premier scientific research facility, a gleaming complex of crystal-glass laboratories and pressure chambers built 8,000 feet beneath the surface. Here, [Master Crystallographer Aurora Prismheart]] leads the [[Crystal Academy Council in unlocking the secrets of crystal formation, pressure magic, and the mysterious interaction between [Aethermoor]]'s shattered [[Crown of Stars and the deep ocean environment.
 
-The facility serves as both research institute and strategic resource, developing new technologies for [[Aquabyssos]] while maintaining extensive trade relationships with the surface world. Its discoveries have revolutionized underwater construction, deep-pressure medicine, and the understanding of how magic adapts to extreme environments.
+The facility serves as both research institute and strategic resource, developing new technologies for [Aquabyssos]] while maintaining extensive trade relationships with the surface world. Its discoveries have revolutionized underwater construction, deep-pressure medicine, and the understanding of how magic adapts to extreme environments.
 
 ### The Central Spire
-**[[The Prismatic Core]]**
+**[[The Prismatic Core**
 - Central research chamber containing samples from every known crystal type
-- Pressure simulation systems that can replicate conditions from surface to [[The Hadal Depths]]
-- Direct communication array linking to [[Crystalhaven]] and other crystal facilities
-- [[Master Crystallographer Aurora Prismheart]]'s personal laboratory and office complex
+- Pressure simulation systems that can replicate conditions from surface to [The Hadal Depths]]
+- Direct communication array linking to [[Crystalhaven and other crystal facilities
+- [Master Crystallographer Aurora Prismheart]]'s personal laboratory and office complex
 
 ### Research Wings
 
-**[[The Pressure Laboratory]]**
+**[[The Pressure Laboratory**
 - Studies effects of extreme depth on crystal formation and magical properties
-- Houses the [[Depth Forge]] where pressure-crystallized materials are created
+- Houses the [Depth Forge]] where pressure-crystallized materials are created
 - Testing chambers that can simulate conditions up to 20,000 feet depth
 - Development of pressure-resistant magical items and spell modifications
 
-**[[The Adaptation Institute]]**
+**[[The Adaptation Institute**
 - Research into how surface magic adapts to underwater environments
-- Studies of [[The Great Drowning]] and its effects on magical systems
+- Studies of [The Great Drowning]] and its effects on magical systems
 - Development of breathing apparatus and pressure suits
 - Training facility for surface dwellers adapting to deep ocean life
 
-**[[The Growth Gardens]]**
+**[[The Growth Gardens**
 - Controlled cultivation of crystal formations in marine environments
 - Study of how crystal corruption spreads through water systems
 - Development of crystal-resistant coral and sea plants
 - Breeding programs for crystal-adapted marine life
 
-**[[The Memory Crystals Division]]**
+**[The Memory Crystals Division]]**
 - Research into storing memories, experiences, and knowledge in crystalline matrices
 - Development of crystal-based communication networks
-- Study of how [[The Great Drowning]] memories persist in certain crystal formations
+- Study of how [[The Great Drowning memories persist in certain crystal formations
 - Creation of educational crystals that transfer skills and knowledge directly
 
 ### Living Quarters
 
-**[[The Residential Bubble]]**
+**[The Residential Bubble]]**
 - Pressurized living spaces for researchers and support staff
-- Recreation areas including the [[Crystal Garden Lounge]]
+- Recreation areas including the [[Crystal Garden Lounge
 - Medical facilities specialized in pressure-related health issues
-- Emergency evacuation systems connecting to [[Abyssos Prime]]
+- Emergency evacuation systems connecting to [Abyssos Prime]]
 
-**[[The Visiting Scholar Complex]]**
-- Temporary housing for researchers from [[Crystalhaven]] and other surface locations
+**[[The Visiting Scholar Complex**
+- Temporary housing for researchers from [Crystalhaven]] and other surface locations
 - Cultural exchange areas and meeting spaces
 - Specialized laboratories for collaborative projects
 - Diplomatic quarters for inter-realm negotiations
@@ -161,7 +161,7 @@ The facility serves as both research institute and strategic resource, developin
 **Underwater Magic Systems**
 - Adaptation of surface spells for underwater casting
 - Development of water-based magical components
-- Study of how [[The Great Drowning]] changed fundamental magical laws
+- Study of how [[The Great Drowning changed fundamental magical laws
 - Research into pressure-based spell amplification
 
 **Bio-Crystal Integration**
@@ -172,36 +172,36 @@ The facility serves as both research institute and strategic resource, developin
 
 ### Notable Discoveries
 
-**[[Pressure Pearls]]**
+**[Pressure Pearls]]**
 - Magically enhanced pearls that store and release pressure-based spells
 - Can be used to create temporary air pockets at any depth
 - Valuable trade commodity with surface world
 - Essential component in advanced diving equipment
 
-**[[Depth Crystals]]**
+**[[Depth Crystals**
 - Crystal formations that grow stronger under increasing pressure
 - Used in construction of deep-sea facilities and pressure vessels
 - Can be programmed to activate specific effects at predetermined depths
-- Key component in [[The Lock]]'s barrier system
+- Key component in [The Lock]]'s barrier system
 
-**[[Memory Coral]]**
+**[[Memory Coral**
 - Living coral that can store and replay experiences
 - Used to preserve important historical events and knowledge
 - Allows for rapid skill transfer between individuals
 - Potential solution to memory loss caused by pressure adaptation
 
-### [[The Surface Integration Initiative]]
+### [The Surface Integration Initiative]]
 Developing technology to allow surface dwellers to live permanently underwater:
 - Advanced pressure adaptation techniques
 - Crystal-enhanced breathing systems
 - Magical solutions to depth-related health issues
 - Cultural integration programs for surface refugees
 
-### [[The Deep Defense Project]]
-Creating defensive technologies for [[The Lock]] and other critical facilities:
+### [[The Deep Defense Project
+Creating defensive technologies for [The Lock]] and other critical facilities:
 - Pressure-activated barrier systems
 - Deep-sea patrol vehicles and equipment
-- Early warning systems for threats from [[The Hadal Depths]]
+- Early warning systems for threats from [[The Hadal Depths
 - Communication networks resistant to extreme conditions
 
 ### 
@@ -237,9 +237,9 @@ While at Crystallium, characters experience:
 - **Medical Treatment** - Advanced healing for pressure and crystal-related ailments
 
 ### Trade Relationships
-- **[[Port Meridian - Merchant Quarter (D&D_References)]]** - Export of pressure pearls and deep-sea materials
-- **[[Sylvanheart]]** - Exchange of natural and crystal-based magical research
-- **[[Nereidios]]** - Academic cooperation and knowledge sharing
+- **[Port Meridian - Merchant Quarter (D&D_References)]]** - Export of pressure pearls and deep-sea materials
+- **[[Sylvanheart** - Exchange of natural and crystal-based magical research
+- **[Nereidios]]** - Academic cooperation and knowledge sharing
 
 ---
 
@@ -397,25 +397,22 @@ Key stop on spices trade route
 
 ## References
 
-- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
-- [[Comprehensive-World-Connection-Guide]]
-- [[Agent Whisper Voidheart]]
-- [[Crystallium Embassy]]
-- [[Aethermoor-Aquabyssos-World-Connection-Guide (D&D_References)]]
-- [[Aquabyssos - Session 05 - Descent into Darkness]]
-- [[Aquabyssos - Session 06 - The Silhouette Surgeons]]
-- [[Aquabyssos - Session 07 - The Resonance Revelation]]
-
+- [[Aethermoor-Aquabyssos-World-Connection-Guide
+- [Comprehensive-World-Connection-Guide]]
+- [[Agent Whisper Voidheart
+- [Crystallium Embassy]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide (D&D_References)
+- [Aquabyssos - Session 05 - Descent into Darkness]]
+- [[Aquabyssos - Session 06 - The Silhouette Surgeons
+- [Aquabyssos - Session 07 - The Resonance Revelation]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

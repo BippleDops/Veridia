@@ -2,7 +2,7 @@
 
 title: Crown of Tidal Sovereignty
 type: Item
-tags:
+tags: 
 - aquabyssos
 - crown
 - seven-shards-connected
@@ -18,7 +18,7 @@ modified: '2025-08-14'
 status: complete
 rarity: Legendary
 value: Unknown
-affiliation: '[[The Scattered Emperor]] (Currently Fragmented)'
+affiliation: '[[The Scattered Emperor (Currently Fragmented)'
 created_by: Claude
 current_location: Multiple Pieces Scattered Across Aquabyssos
 danger_level: 4
@@ -86,7 +86,7 @@ improvements: 20
 - Detail funeral rites and afterlife beliefs
 
 ## Overview
-The Crown of Tidal Sovereignty once served as the ultimate symbol of unified rule over all Aquabyssos, incorporating fragments of [[The Seven Shards]] to grant its wearer unprecedented authority over the tidal forces that govern the realm. When [[The Scattered Emperor]] began fragmenting into multiple personalities, the crown responded by breaking into seven pieces, each piece bonding with a different aspect of his divided consciousness. Now scattered across the realm, the crown fragments represent both the potential for restored unity and the danger of absolute power falling into the wrong hands.
+The Crown of Tidal Sovereignty once served as the ultimate symbol of unified rule over all Aquabyssos, incorporating fragments of [The Seven Shards]] to grant its wearer unprecedented authority over the tidal forces that govern the realm. When [[The Scattered Emperor began fragmenting into multiple personalities, the crown responded by breaking into seven pieces, each piece bonding with a different aspect of his divided consciousness. Now scattered across the realm, the crown fragments represent both the potential for restored unity and the danger of absolute power falling into the wrong hands.
 
 ### Current Fragmented State
 Each of the seven fragments retains part of the crown's original power while developing its own unique characteristics:
@@ -104,7 +104,7 @@ Each of the seven fragments retains part of the crown's original power while dev
 
 ### The Emperor's Choice
 **Level**: 10-16  
-**Hook**: [[The Scattered Emperor]] requests help reuniting fragments to heal his mind  
+**Hook**: [The Scattered Emperor]] requests help reuniting fragments to heal his mind  
 **Complexity**: Different personality aspects have conflicting goals for fragments  
 **Moral**: Question of whether unity is worth potential cost of absolute power  
 **Obstacles**: Fragment guardians may resist surrendering their charges  
@@ -196,10 +196,10 @@ Crown of Tidal Sovereignty is a remarkable item of significant craftsmanship. It
 
 ## References
 
-- [[Unite the Emperor]]
-- [[Sister Morwyn]]
-- [[Master_Item_Catalog]]
-- [[Sister Morwyn (D&D_References)]]
-- [[Unite the Emperor (D&D_References)]]
-- [[World Bible Index]]
+- [[Unite the Emperor
+- [Sister Morwyn]]
+- [[Master_Item_Catalog
+- [Sister Morwyn (D&D_References)]]
+- [[Unite the Emperor (D&D_References)
+- [World Bible Index]]
 - [[World_Bible_Index (D&D_References)]]

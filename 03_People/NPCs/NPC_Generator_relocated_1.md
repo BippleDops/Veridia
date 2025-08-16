@@ -1,15 +1,14 @@
 ---
 enhanced: true
 tags: [enhanced, 03_people]
-created: 2025-08-15T12:24:41.388562
-modified: 2025-08-15T12:24:41.388564
+created: "2025-08-15T12:24:41.388562"
+modified: "2025-08-15T12:24:41.388564"
 aliases: [NPC Generator]
 ---
 
 # Npc Generator
 
 > *Every scar tells a story...* This remarkable element adds depth and intrigue to any campaign.
-
 
 ## Overview
 
@@ -81,12 +80,11 @@ updated: '2025-08-13T01:18:35.191831+00:00'
 - Hidden knowledge
 - Personal mysteries
 
-
 **Key Question**: What drives this character's actions?
 
 *What happens next is up to you.*
 
 ## Visual References
-![[04_Resources/Assets/Portraits/NPCs/portrait_random_npc_generator.png]]
-![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_random_npc_generator_standard.png]]
+![[04_Resources/Assets/Portraits/NPCs/portrait_random_npc_generator.png
+![04_Resources/Assets/Portraits/NPCs/Minor/portrait_random_npc_generator_standard.png]]
 ![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_random_npc_generator_dramatic.png]]

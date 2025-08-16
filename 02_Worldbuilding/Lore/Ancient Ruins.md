@@ -1,13 +1,13 @@
 ---
 
 title: Ancient Ruins
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - world/aquabyssos
 - content/lore
-- content/[[location]]
+- content/[[location
 - active
 - complete
 - status/in-progress
@@ -35,7 +35,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -85,7 +85,7 @@ Ancient Ruins is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of Ancient Ruins as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ancient Ruins.
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -129,24 +129,24 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Aethermoor Wind Rider Traditions]]
-- [[Aurelius Goldwave]]
-- [[Central Location]]
-- [[Cure Component Locations]]
-- [[Deep Mother Influence]]
-- [[Depth Effect Quick Reference]]
-- [[Key Locations]]
-- [[Known Locations]]
-- [[Post-Merge Chronology]]
-- [[The Breathing Stone]]
-- [[Commander Typhoon Blackheart (Places)]]
-- [[Compass Quest]]
-- [[Maelstrom Palace]]
-- [[Temporal Navigation]]
-- [[The Azure Coast]]
-- [[The Cerulean Archipelago]]
-- [[The Cerulean Trench]]
-- [[The Pressure Conspiracy]]
-- [[The Sinking Atoll]]
-- [[Temporal Navigation (D&D_Statblocks)]]
-- [[The Pressure Conspiracy (D&D_Statblocks)]]
+- [Aethermoor Wind Rider Traditions]]
+- [[Aurelius Goldwave
+- [Central Location]]
+- [[Cure Component Locations
+- [Deep Mother Influence]]
+- [[Depth Effect Quick Reference
+- [Key Locations]]
+- [[Known Locations
+- [Post-Merge Chronology]]
+- [[The Breathing Stone
+- [Commander Typhoon Blackheart (Places)]]
+- [[Compass Quest
+- [Maelstrom Palace]]
+- [[Temporal Navigation
+- [The Azure Coast]]
+- [[The Cerulean Archipelago
+- [The Cerulean Trench]]
+- [[The Pressure Conspiracy
+- [The Sinking Atoll]]
+- [[Temporal Navigation (D&D_Statblocks)
+- [The Pressure Conspiracy (D&D_Statblocks)]]

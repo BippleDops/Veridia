@@ -2,7 +2,7 @@
 
 title: Temporal Rescue (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -131,7 +131,6 @@ An emergency mission where someone important displaceded in time by magical acci
 3. Characters witness temporal anomaly requiring investigation
 4. Time traveler from future warns of impending temporal crisis ## Research Requirements
 
-
 **Historical Study**: Learning about target time period
 **Temporal Theory**: Understanding time magic principles
 **Magical Preparation**: Acquiring protection spells and equipment
@@ -139,7 +138,6 @@ An emergency mission where someone important displaceded in time by magical acci
 **Contingency Planning**: Preparing for various failure scenarios ## DM Notes
 
 This quest emphasizes urgency and ethical decision-making. Time travel should feel dangerous and consequential. Use historical knowledge to create authentic period details while maintaining fantasy elements. Consider how timeline changes might affect future campaign events. ## Player-Facing Summary Temporal Rescue is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Temporal Rescue as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Temporal Rescue. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

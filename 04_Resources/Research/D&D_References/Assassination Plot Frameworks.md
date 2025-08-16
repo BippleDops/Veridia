@@ -2,7 +2,7 @@
 
 title: Assassination Plot Frameworks
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -78,14 +78,12 @@ Political assassination in Aquabyssos has evolved unique methods adapted to unde
 3. **Execution Phase:** Create situation requiring target to enter dangerous pressure zone
 4. **Escape Phase:** Ensure death appears accidental, eliminate evidence ### Framework Beta: The Shadow Replacement
 
-
 *Perfect assassination through identity substitution* #### Method Overview
 
 1. **Study Phase:** Comprehensive personality analysis, behavioral mapping, relationship documentation
 2. Additionally, **Preparation Phase:** Create perfect shadow duplicate, eliminate potential witnesses
 3. **Replacement Phase:** Eliminate original, install shadow in their place
 4. **Integration Phase:** Shadow assumes identity permanently, serves new agenda ### Framework Gamma: The Memory Theft Murder
-
 
 *Assassination through systematic memory extraction* #### Method Overview
 
@@ -94,7 +92,6 @@ Political assassination in Aquabyssos has evolved unique methods adapted to unde
 3. **Completion Phase:** Complete memory extraction results in brain death or catatonia
 4. **Utilization Phase:** Use extracted memories for blackmail or intelligence ### Framework Delta: The Temporal Elimination
 
-
 *Assassination using time distortion effects* #### Method Overview
 
 1. **Temporal Mapping:** Identify temporal anomalies near target's routine locations
@@ -102,14 +99,12 @@ Political assassination in Aquabyssos has evolved unique methods adapted to unde
 3. **Execution Phase:** Target encounters temporal distortion resulting in death or displacement
 4. **Temporal Cleanup:** Use time effects to eliminate evidence or create alibis ### Framework Epsilon: The Corruption Revelation
 
-
 *Assassination through systematic reputation destruction* #### Method Overview
 
 1. **Investigation Phase:** Discover or create evidence of target's corruption or criminal activity
 2. **Documentation Phase:** Compile comprehensive evidence package with verification
 3. **Revelation Phase:** Strategic release of information to maximize damage
 4. **Destruction Phase:** Public disgrace leads to political death and potential physical threats ### The Leviathan "Accident"
-
 
 **Method:** Use trained sea creatures to eliminate targets during "routine" encounters
 **Cover:** Natural predation or territorial behavior
@@ -172,24 +167,20 @@ Political assassination in Aquabyssos has evolved unique methods adapted to unde
 3. **Threat Assessment:** Investigate credible assassination intelligence
 4. **Safe House Operation:** Manage secure location for threatened individual ### Investigation Missions
 
-
 1. **Assassination Investigation:** Determine method and perpetrator of political murder
 2. **Pattern Analysis:** Identify connection between seemingly unrelated deaths
 3. **Motive Discovery:** Uncover reasons behind assassination attempt or success
 4. **Evidence Recovery:** Find proof of assassination when death appears natural ### Prevention Operations
-
 
 1. **Plot Discovery:** Uncover assassination plan before execution
 2. **Asset Neutralization:** Eliminate assassination team before they can act
 3. **Method Disruption:** Sabotage specific assassination technique or equipment
 4. **Intelligence Counteraction:** Feed false information to assassination planners ### Political Intrigue
 
-
 1. **False Flag Operation:** Frame one faction for assassination attempt by another
 2. **Double Agent:** Navigate competing loyalties in assassination investigation
 3. **Moral Dilemma:** Decide whether to prevent assassination of corrupt but legally elected official
 4. **Succession Manipulation:** Use assassination fears to influence political decisions ### Assassination Method Selection Matrix
-
 
 | Target Type | Recommended Framework | Success Rate | Investigation Risk |
 |-------------|----------------------|--------------|-------------------|
@@ -215,7 +206,6 @@ Political assassination in Aquabyssos has evolved unique methods adapted to unde
 | Temporal Stability | Low | Medium | Low | High | Low |
 | Clean Reputation | Low | Low | Low | Low | High | --- *"The perfect assassination is one where even the assassin forgets they committed murder, the victim forgets they died, and history forgets it ever happened."*
 — Master Assassin Void Whisper, "The Art of Political Disappearance" ## Player-Facing Summary Assassination Plot Frameworks is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Assassination Plot Frameworks as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Assassination Plot Frameworks. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Political Intrigue Master Index (D&D_References)]]
-
 
 ## Notes
 

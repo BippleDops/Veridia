@@ -2,7 +2,7 @@
 
 title: Aquabyssos_Survival_Guide
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -60,7 +60,6 @@ world: Aquabyssos
 4. However, **Wait**: Rescue teams patrol major routes regularly
 5. **Mark Location**: Use personal items to mark path if forced to move ### Commercial Phrases
 
-
 - "How much?" - *Vel'tar neth?*
 - "Too expensive" - *Mor'vel nala*
 - "I'll take it" - *Nal'thek vel'dar*
@@ -73,12 +72,11 @@ world: Aquabyssos
 
 - Strange dreams suggest a portal
 - Strange sightings suggest a portal
-- A map reveals a conspiracy about the cult ## Related Notes - [[Similar Topic 1]]
+- A map reveals a conspiracy about the cult ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

@@ -2,7 +2,7 @@
 aliases: ["Random Encounter 90", "random encounter 90", "90 Encounter Random"]
 tags: [generated]
 id: ENC0089_Random_Encounter_90
-created: 2025-08-15T04:09:51.462Z
+created: "2025-08-15T04:09:51.462Z"
 generator: mega_generator_10k
 ---
 # Random Encounter 90
@@ -10,8 +10,8 @@ generator: mega_generator_10k
 *Deadly encounter for Dungeon environment*
 
 ## Enemies
-- 1d4 Dire Wolves
-- 2d4 Goblins
+- `dice: 1d4` Dire Wolves
+- `dice: 2d4` Goblins
 
 ## Tactics
 Enemies coordinate attacks and use terrain to their advantage

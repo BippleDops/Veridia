@@ -1,10 +1,10 @@
 ---
 
 title: The Abyssal Court
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - active
 - quest
 - conspiracy
@@ -31,7 +31,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables), and wealth distribution
 
 ### Religion Improvements
 
@@ -77,7 +77,7 @@ The Abyssal Court is a undersea element of the setting, known for bioluminescent
 
 Legends speak of The Abyssal Court as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Abyssal Court.
 
-## [[DM_Notes]]
+## [DM_Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -102,29 +102,29 @@ Mentioned in The First Prophecy of Stars
 - A document has gone missing and chaos spreads
 - A noble needs help stealing before winter
 
-## Historical [[Timeline]]
+## Historical [[Timeline
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[People]]s
+- War with indigenous [People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
 - Cultural renaissance
 - Expansion of territory
 
-### The [[Time]] of Troubles (100 years ago)
+### The [[Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
 - Current power structures established
 
 ## References
 
-- [[Abyssos Prime - Inverse Palace]]
-- [[Temporal Navigation]]
-- [[Tethyan Hegemony]]
-- [[The Pressure Conspiracy]]
-- [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]]
-- [[Temporal Navigation (D&D_Statblocks)]]
-- [[The Pressure Conspiracy (D&D_Statblocks)]]
+- [Abyssos Prime - Inverse Palace]]
+- [[Temporal Navigation
+- [Tethyan Hegemony]]
+- [[The Pressure Conspiracy
+- [Abyssos Prime - Inverse Palace (D&D_Statblocks)]]
+- [[Temporal Navigation (D&D_Statblocks)
+- [The Pressure Conspiracy (D&D_Statblocks)]]

@@ -2,7 +2,7 @@
 
 title: Archivist Mnemonic the Forgotten (D&D_Statblocks)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -63,12 +63,11 @@ Archivist Mnemonic exists in a paradoxical state—he remembers everything that 
 4. **The Archive Invasion**: Defend the Archive from those who want to destroy it
 5. **The Restored Identity**: Help him recover his own forgotten past ### Archivist Mnemonic the Forgotten
 
-
-*Medium humanoid (human), true neutral* **Armor Class** 17 (Robe of the Archmagi) **Hit Points** 165 (22d8 + 66) **Speed** 30 ft., hover 30 ft. (while in the Archive) **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA**
+*Medium humanoid (human), true neutral* **Armor Class** 17 (Robe of the Archmagi) **Hit Points** 165 (`dice: 22d8` + 66) **Speed** 30 ft., hover 30 ft. (while in the Archive) **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA**
 
 --------|---------|---------|---------|---------|--------
 
-10 (+0) | 14 (+2) | 16 (+3) | 24 (+7) | 20 (+5) | 18 (+4) **Saving Throws** Int +14, Wis +12 **Skills** Arcana +21, History +21, Insight +12, Investigation +21, Perception +12 **Damage Resistances** Psychic **Damage Immunities** Memory-altering effects, charm effects that would make him forget his purpose **Condition Immunities** Charmed (by memory effects) **Senses** Memory sight 120 ft., passive Perception 22 **Languages** All languages (through archived memories), telepathy 60 ft. **Challenge Rating** 11 (7,200 XP) **Proficiency Bonus** +4 ### Special Abilities **Legendary Resistance (3/Day).** If Mnemonic fails a saving throw, he can choose to succeed instead. **Memory Archive Access.** Mnemonic can access any memory stored in as an action. He gains perfect knowledge of events, skills, or information contained in accessed memories. **The Forgetting Touch.** As a bonus action, Mnemonic can touch a willing creature and remove painful or unwanted memories, storing them in the Archive. The creature gains relief from trauma but loses associated knowledge. **Perfect Recall.** Mnemonic can remember every detail of every memory he has ever encountered, except his own personal past. He has advantage on all Intelligence-based checks and cannot be affected by memory-altering magic. **Paradox of Identity.** Mnemonic exists in a state of personal amnesia while maintaining perfect memory of others' experiences. He cannot be targeted by divination spells that would reveal his past, but he can be affected by divination regarding his current thoughts and intentions. **Spellcasting.** Mnemonic is a 16th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 22, +14 to hit with spell attacks). He knows the following spells: - **Cantrips (at will):** mage hand, minor illusion, prestidigitation, guidance, thaumaturgy
+10 (+0) | 14 (+2) | 16 (+3) | 24 (+7) | 20 (+5) | 18 (+4) **Saving Throws** Int +14, Wis +12 **Skills** Arcana +21, History +21, Insight +12, Investigation +21, Perception +12 **Damage Resistances** Psychic **Damage Immunities** Memory-altering effects, charm effects that would make him forget his purpose **Condition Immunities** Charmed (by memory effects) **Senses** Memory sight 120 ft., passive Perception 22 **Languages** All languages (through archived memories), telepathy 60 ft. **Challenge Rating** 11 (7,200 XP) **Proficiency Bonus** +4 ### Special Abilities **Legendary Resistance (3/Day).** If Mnemonic fails a saving throw, he can choose to succeed instead. **Memory Archive Access.** Mnemonic can access any memory stored in as an action. He gains perfect knowledge of events, skills, or information contained in accessed memories. **The Forgetting Touch.** As a bonus action, Mnemonic can touch a willing creature and remove painful or unwanted memories, storing them in the Archive. The creature gains relief from trauma but loses associated knowledge. **Perfect Recall.** Mnemonic can remember every detail of every memory he has ever encountered, except his own personal past. He has advantage on all Intelligence-based checks and cannot be affected by memory-altering magic. **Paradox of Identity.** Mnemonic exists in a state of personal amnesia while maintaining perfect memory of others' experiences. He cannot be targeted by divination spells that would reveal his past, but he can be affected by divination regarding his current thoughts and intentions. **Spellcasting.** Mnemonic is a 16th-level spellcaster. His spellcasting ability is Intelligence (spell save **DC 22**, +14 to hit with spell attacks). He knows the following spells: - **Cantrips (at will):** mage hand, minor illusion, prestidigitation, guidance, thaumaturgy
 
 - **1st level (4 slots):** detect magic, identify, comprehend languages, sanctuary
 - **2nd level (3 slots):** detect thoughts, suggestion, locate object
@@ -77,11 +76,11 @@ Archivist Mnemonic exists in a paradoxical state—he remembers everything that 
 - **5th level (2 slots):** dominate person, geas, modify memory, scrying
 - **6th level (1 slot):** mass suggestion, programmed illusion
 - **7th level (1 slot):** plane shift (to memory realms), teleport
-- **8th level (1 slot):** feeblemind, mind blank ### Actions **Multiattack.** Mnemonic makes two Memory Projection attacks or casts two spells. **Memory Projection.** *Ranged Spell Attack:* +14 to hit, range 60 ft., one creature. *Hit:* 18 (4d6 + 4) psychic damage. Mnemonic can choose to project a traumatic memory, causing the target to be stunned until the end of their next turn, or a pleasant memory, causing the target to be charmed by Mnemonic for 1 minute. **Archive Manifestation (Recharge 5-6).** Mnemonic summons a semi-physical manifestation of a powerful archived memory within 60 feet. The manifestation acts as a ally for 1 minute, using the statistics of a creature appropriate to the memory (CR 5 or lower, DM's choice). The manifestation has all the knowledge and skills of the original memory's owner. **Mass Forgetting (1/Day).** All creatures within 30 feet must make a DC 22 Wisdom saving throw. On a failure, they forget the last 24 hours of their lives. Mnemonic stores these memories in the Archive, and they can be restored later if he chooses. **Memory Restoration (3/Day).** Mnemonic touches a creature and can restore any memory that has been lost, stolen, or suppressed. This includes memories removed by magic, trauma, or his own abilities. **The Weight of Remembrance (1/Day).** Mnemonic overwhelms a creature within 60 feet with the emotional weight of all the painful memories stored in the Archive. The target must make a DC 22 Wisdom saving throw. On a failure, they take 45 (10d8) psychic damage and are incapacitated by overwhelming empathy for 1 minute. On a success, they take half damage and are not incapacitated. ### Legendary Actions (3 per turn)
+- **8th level (1 slot):** feeblemind, mind blank ### Actions **Multiattack.** Mnemonic makes two Memory Projection attacks or casts two spells. **Memory Projection.** *Ranged Spell Attack:* +14 to hit, range 60 ft., one creature. *Hit:* 18 (`dice: 4d6` + 4) psychic damage. Mnemonic can choose to project a traumatic memory, causing the target to be stunned until the end of their next turn, or a pleasant memory, causing the target to be charmed by Mnemonic for 1 minute. **Archive Manifestation (Recharge 5-6).** Mnemonic summons a semi-physical manifestation of a powerful archived memory within 60 feet. The manifestation acts as a ally for 1 minute, using the statistics of a creature appropriate to the memory (CR 5 or lower, DM's choice). The manifestation has all the knowledge and skills of the original memory's owner. **Mass Forgetting (1/Day).** All creatures within 30 feet must make a **DC 22** Wisdom saving throw. On a failure, they forget the last 24 hours of their lives. Mnemonic stores these memories in the Archive, and they can be restored later if he chooses. **Memory Restoration (3/Day).** Mnemonic touches a creature and can restore any memory that has been lost, stolen, or suppressed. This includes memories removed by magic, trauma, or his own abilities. **The Weight of Remembrance (1/Day).** Mnemonic overwhelms a creature within 60 feet with the emotional weight of all the painful memories stored in the Archive. The target must make a **DC 22** Wisdom saving throw. On a failure, they take 45 (`dice: 10d8`) psychic damage and are incapacitated by overwhelming empathy for 1 minute. On a success, they take half damage and are not incapacitated. ### Legendary Actions (3 per turn)
 
 Mnemonic can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. **Move.** Mnemonic moves up to his speed without provoking opportunity attacks. **Archive Search.** Mnemonic accesses the Archive to gain specific knowledge or insight, effectively casting a divination spell of 3rd level or lower. **Memory Touch.** Mnemonic uses his Forgetting Touch ability or Memory Restoration on a willing creature within reach. **Memory Attack (Costs 2 Actions).** Mnemonic makes a Memory Projection attack. ### Lair Actions
 
-When encountered in, Mnemonic can take lair actions on initiative count 20: **Archive Awakening.** Stored memories throughout the Archive become semi-active, providing information and minor assistance to Mnemonic and his allies. **Forgetting Field.** All creatures in the Archive except Mnemonic must succeed on a DC 20 Wisdom saving throw or forget why they came to the Archive for 1 minute. **Memory Maze.** The Archive's layout shifts based on the emotional resoce of stored memories, creating difficult terrain and potentially separating intruders. --- ### The Lost Identity
+When encountered in, Mnemonic can take lair actions on initiative count 20: **Archive Awakening.** Stored memories throughout the Archive become semi-active, providing information and minor assistance to Mnemonic and his allies. **Forgetting Field.** All creatures in the Archive except Mnemonic must succeed on a **DC 20** Wisdom saving throw or forget why they came to the Archive for 1 minute. **Memory Maze.** The Archive's layout shifts based on the emotional resoce of stored memories, creating difficult terrain and potentially separating intruders. --- ### The Lost Identity
 
 **Pre-Forgetting Life**: Evidence suggests Mnemonic was once a prominent scholar, possibly a court wizard or university researcher
 **The Catastrophic Event**: A massive memory-related magical disaster that affected an entire city district
@@ -93,7 +92,7 @@ When encountered in, Mnemonic can take lair actions on initiative count 20: **Ar
 **Self-Sustaining**: Fed by the collective unconscious desire to preserve important experiences
 **Growing Collection**: Constantly expanding as more memories are lost, abandoned, or suppressed worldwide
 **Emotional Resoce**: Organized by feeling and significance rather than chronology or topic
-**Divine Protection**: [[The Deep Mother]]'s influence protects the Archive from outside interference ### The Paradox Condition
+**Divine Protection**: [[The Deep Mother's influence protects the Archive from outside interference ### The Paradox Condition
 
 **Selective Amnesia**: Can access any memory except those that belong to his personal history
 **Identity Fragmentation**: Exists as a function rather than a person, defined by service rather than self
@@ -122,11 +121,11 @@ When encountered in, Mnemonic can take lair actions on initiative count 20: **Ar
 **The Previous Archivists**: Mnemonic's predecessors, now existing as stored memories themselves
 **Guardian Constructs**: Magical protections that prevent theft or corruption of stored memories --- ### Fellow Memory Professionals
 
-**[[Memory Merchant Valeria Siltweave]]**: Collaborative partnership in ethical memory preservation
+**[Memory Merchant Valeria Siltweave]]**: Collaborative partnership in ethical memory preservation
 - Mutual referral system for clients needing specialized services
 - Shared opposition to exploitative memory farming practices
 - Joint research into therapeutic applications of memory work
-- Regular consultation on difficult ethical cases involving memory rights **[[Memory Harvester Kythara]]**: Spiritual alliance in protecting sacred memories
+- Regular consultation on difficult ethical cases involving memory rights **[[Memory Harvester Kythara**: Spiritual alliance in protecting sacred memories
 - Cooperation in preserving culturally and religiously significant experiences
 - Shared dedication to preventing desecration of meaningful memories
 - Collaborative efforts to document dying traditions and beliefs
@@ -150,7 +149,7 @@ When encountered in, Mnemonic can take lair actions on initiative count 20: **Ar
 - Truth-seekers working to expose government or corporate cover-ups
 - Genealogists helping families recover stolen cultural identities ### Complex Memory Relationships
 
-**[[The Scattered Emperor]]**: Keeper of his lost memory fragments
+**[The Scattered Emperor]]**: Keeper of his lost memory fragments
 - Maintains many of the Emperor's dispersed consciousness pieces
 - Struggles with whether helping reconstruct his identity serves his best interests
 - Questions if the Emperor's scattered state is intentional self-protection
@@ -219,7 +218,6 @@ Multiple factions want to control or destroy the Archive. Mnemonic must choose b
 - **Complications**: Victory for any side could fundamentally change how memory functions in the world --- ## Player-Facing Summary Archivist Mnemonic the Forgotten is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Archivist Mnemonic the Forgotten as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Archivist Mnemonic the Forgotten. ## Related *Links to related content will be added here.* ## Plot Hooks - A corpse reveals a betrayal about the cult
 
 - A noble needs help stealing before the new moon ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

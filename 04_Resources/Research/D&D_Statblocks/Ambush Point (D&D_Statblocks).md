@@ -2,7 +2,7 @@
 
 title: Ambush Point (D&D_Statblocks)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -53,26 +53,26 @@ My Container: None
 My Category: Unknown
 obsidian UIMode: preview
 
---- # Ambush Point **Type:** Tactical Combat/Resistance Operations/Guerrilla Warfare **Level:** 5-10 **Location:** [[Border Territories]], [[Tradeway|02 Worldbuilding/Lore/Tradeway]], [[Hidden Smuggler's Cove]] **Duration:** 4-6 sessions **Threat:** A critical supply convoy carrying Shadow Conspiracy resources must be stopped before it reaches its destination and strengthens enemy operations **Connected Locations:** [[The Whispering Expanse]], [[Shadow Market Canals]], [[The Deepmind]] **Related Groups:** [[The Shadow Conspiracy]], [[Crystal Wardens]], [[The Purist Coalition]], [[Depth Wardens]] **Key Themes:** Tactical planning, [[The Seven Shards]], guerrilla warfare, moral choices in conflict ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview Intelligence reports indicate that [[The Shadow Conspiracy]] is transporting a massive supply convoy through the [[Border Territories]] - weapons, corrupted crystals, mind-control devices, and worst of all, a shipment of imprisoned citizens being taken to shadow replacement facilities. The convoy is too well-guarded for a direct assault, but there's a perfect ambush point where the [[Tradeway]] passes through [[Devil's Gorge]] - a narrow canyon where superior numbers mean little and tactical positioning means everything. The party must organize, plan, and execute a precision strike that stops the convoy while minimizing casualties and preventing the Shadow Conspiracy from retaliating against innocent communities. But they'll discover that this "simple" ambush is part of a much larger conflict, and success here will mark them as primary targets for shadow retaliation. ## Background The [[Shadow Conspiracy]] has been growing bolder in their operations, no longer content with subtle infiltration and replacement. This convoy represents their largest single movement of resources in decades - enough to establish permanent shadow strongholds in three major cities and begin mass population replacement. [[Captain Marina Saltborn]] intercepted communications about the convoy through her network of resistance contacts, but official military channels are compromised. The party represents the only force capable of independent action without alerting shadow agents embedded in the government. ### Scene 1: The Resistance Contact
+--- # Ambush Point **Type:** Tactical Combat/Resistance Operations/Guerrilla Warfare **Level:** 5-10 **Location:** [[Border Territories, [Tradeway|02 Worldbuilding/Lore/Tradeway]], [[Hidden Smuggler's Cove **Duration:** 4-6 sessions **Threat:** A critical supply convoy carrying Shadow Conspiracy resources must be stopped before it reaches its destination and strengthens enemy operations **Connected Locations:** [The Whispering Expanse]], [[Shadow Market Canals, [The Deepmind]] **Related Groups:** [[The Shadow Conspiracy, [Crystal Wardens]], [[The Purist Coalition, [Depth Wardens]] **Key Themes:** Tactical planning, [[The Seven Shards, guerrilla warfare, moral choices in conflict ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview Intelligence reports indicate that [The Shadow Conspiracy]] is transporting a massive supply convoy through the [[Border Territories - weapons, corrupted crystals, mind-control devices, and worst of all, a shipment of imprisoned citizens being taken to shadow replacement facilities. The convoy is too well-guarded for a direct assault, but there's a perfect ambush point where the [Tradeway]] passes through [[Devil's Gorge - a narrow canyon where superior numbers mean little and tactical positioning means everything. The party must organize, plan, and execute a precision strike that stops the convoy while minimizing casualties and preventing the Shadow Conspiracy from retaliating against innocent communities. But they'll discover that this "simple" ambush is part of a much larger conflict, and success here will mark them as primary targets for shadow retaliation. ## Background The [Shadow Conspiracy]] has been growing bolder in their operations, no longer content with subtle infiltration and replacement. This convoy represents their largest single movement of resources in decades - enough to establish permanent shadow strongholds in three major cities and begin mass population replacement. [[Captain Marina Saltborn intercepted communications about the convoy through her network of resistance contacts, but official military channels are compromised. The party represents the only force capable of independent action without alerting shadow agents embedded in the government. ### Scene 1: The Resistance Contact
 
-**Location**: [[Hidden Smuggler's Cove]] **NPCs**: [[Captain Marina Saltborn]], [[Reef Saltwater]], Underground resistance cell The party is contacted by Captain Saltborn through intermediaries - she can't meet them directly due to shadow surveillance, but she has crucial intelligence about the convoy. The meeting takes place in a network of sea caves used by smugglers and resistance fighters. **Key Information Revealed**:
+**Location**: [Hidden Smuggler's Cove]] **NPCs**: [[Captain Marina Saltborn, [Reef Saltwater]], Underground resistance cell The party is contacted by Captain Saltborn through intermediaries - she can't meet them directly due to shadow surveillance, but she has crucial intelligence about the convoy. The meeting takes place in a network of sea caves used by smugglers and resistance fighters. **Key Information Revealed**:
 - Convoy consists of 12 heavily armored vessels
 - Guard complement of 60+ shadow agents and replaced soldiers
 - Three cargo ships carrying prisoners, weapons, and corrupted crystals
 - Route passes through Devil's Gorge in exactly 8 days
-- Convoy commander is [[Shadow Admiral Vex]], a high-ranking replacement **Initial Challenges**:
+- Convoy commander is [[Shadow Admiral Vex, a high-ranking replacement **Initial Challenges**:
 - **Trust Issues**: Resistance members test party loyalty and competence
 - **Information Verification**: Cross-checking intelligence from multiple sources
 - **Security Protocols**: Learning to communicate without alerting shadow surveillance
 - **Resource Limitations**: Understanding what materials are available for the operation ### Scene 2: Scouting Devil's Gorge
 
-**Location**: [[Border Territories]] - Devil's Gorge **Challenge Type**: Reconnaissance and tactical assessment The party must thoroughly scout the ambush site to understand the tactical situation and plan their assault. Devil's Gorge is a narrow underwater canyon with steep walls, strong currents, and multiple hiding spots. **Geographical Features**:
+**Location**: [Border Territories]] - Devil's Gorge **Challenge Type**: Reconnaissance and tactical assessment The party must thoroughly scout the ambush site to understand the tactical situation and plan their assault. Devil's Gorge is a narrow underwater canyon with steep walls, strong currents, and multiple hiding spots. **Geographical Features**:
 - **The Narrows**: 100-foot wide channel where convoy must travel single-file
 - **Current Convergence**: Multiple water flows create turbulence and noise cover
 - **Shadow Caves**: Natural hiding spots along both canyon walls
 - **Pressure Points**: Areas where controlled explosions could create obstacles
 - **Escape Routes**: Multiple paths for retreat if the ambush fails **Environmental Challenges**:
-- **Strong Currents**: DC 15 Athletics checks to maintain position
+- **Strong Currents**: **DC 15** Athletics checks to maintain position
 - **Low Visibility**: Sediment and algae limit sight range to 60 feet
 - **Pressure Variations**: Equipment malfunctions on failed Constitution saves
 - **Aquatic Predators**: Territorial creatures disturbed by scouting activities **Reconnaissance Encounters**: **Gorge Stalker** (CR 6 for levels 5-7, CR 8 for levels 8-10)
@@ -85,15 +85,15 @@ obsidian UIMode: preview
 - **Intel opportunity** if captured alive
 - **Alarm risk** if encounter goes badly ### Scene 3: Building the Resistance Network
 
-**Location**: Multiple safe houses and resistance cells **Challenge Type**: Social encounters and recruitment Success requires more than just the party - they need local allies, supplies, and backup plans. This phase involves meeting with various resistance groups and convincing them to support the operation. **Potential Allies**: **[[Traveling Merchant Finn]]** - Provides logistics support
+**Location**: Multiple safe houses and resistance cells **Challenge Type**: Social encounters and recruitment Success requires more than just the party - they need local allies, supplies, and backup plans. This phase involves meeting with various resistance groups and convincing them to support the operation. **Potential Allies**: **[[Traveling Merchant Finn** - Provides logistics support
 - **Equipment Access**: Specialized gear and weapons
 - **Transportation**: Boats and underwater vehicles
 - **Intelligence Network**: Information about convoy schedules
-- **Motivation**: Shadow Conspiracy threatens free trade **[[Crystal Wardens]]** Cell Leader - Magical support
+- **Motivation**: Shadow Conspiracy threatens free trade **[Crystal Wardens]]** Cell Leader - Magical support
 - **Spell Services**: Tactical magic and battlefield control
 - **Crystal Knowledge**: Understanding corrupted cargo dangers
 - **Healing Support**: Medical aid during and after the battle
-- **Motivation**: Prevent crystal corruption from spreading **[[Local Militia Commander]]** - Military expertise
+- **Motivation**: Prevent crystal corruption from spreading **[[Local Militia Commander** - Military expertise
 - **Trained Fighters**: 20 disciplined soldiers
 - **Tactical Knowledge**: Experience with aquatic combat
 - **Equipment**: Military-grade weapons and armor
@@ -166,12 +166,12 @@ obsidian UIMode: preview
 - **Weakness**: Confusion when confronted with old memories **Shadow Admiral Vex** (CR 9)
 
 **Medium humanoid (human, shadow-touched), lawful evil**
-**AS** 18 (Shadow-Plate Armor), **HP** 135 (18d8 + 54), **Speed** 30 ft., swim 40 ft.
-**STR** 16 (+3) **DEX** 14 (+2) **CON** 16 (+3) **INT** 17 (+3) **WIS** 15 (+2) **CHA** 18 (+4) **Saving Throws** Wis +7, Cha +9 **Skills** Athletics +8, Intimidation +9, Perception +7, Insight +7 **Damage Resistances** Necrotic, Cold **Damage Immunities** Charmed, Frightened **Senses** Darkvision 120 ft., passive Perception 17 **Languages** Common, Aquan, Abyssal **Challenge Rating** 9 (5,000 XP) **Proficiency Bonus** +4 **Shadow Authority**: Allied shadow creatures within 60 feet gain advantage on attack rolls and can't be frightened. **Tactical Genius**: As a bonus action, Admiral Vex can issue commands that allow allied creatures within 60 feet to make opportunity attacks without provoking them. **Shadow Step**: As a bonus action, teleport up to 60 feet between areas of shadow or darkness. **Spellcasting**: 9th-level spellcaster, spell save DC 17, +9 to hit
+**AS** 18 (Shadow-Plate Armor), **HP** 135 (`dice: 18d8` + 54), **Speed** 30 ft., swim 40 ft.
+**STR** 16 (+3) **DEX** 14 (+2) **CON** 16 (+3) **INT** 17 (+3) **WIS** 15 (+2) **CHA** 18 (+4) **Saving Throws** Wis +7, Cha +9 **Skills** Athletics +8, Intimidation +9, Perception +7, Insight +7 **Damage Resistances** Necrotic, Cold **Damage Immunities** Charmed, Frightened **Senses** Darkvision 120 ft., passive Perception 17 **Languages** Common, Aquan, Abyssal **Challenge Rating** 9 (5,000 XP) **Proficiency Bonus** +4 **Shadow Authority**: Allied shadow creatures within 60 feet gain advantage on attack rolls and can't be frightened. **Tactical Genius**: As a bonus action, Admiral Vex can issue commands that allow allied creatures within 60 feet to make opportunity attacks without provoking them. **Shadow Step**: As a bonus action, teleport up to 60 feet between areas of shadow or darkness. **Spellcasting**: 9th-level spellcaster, spell save **DC 17**, +9 to hit
 - 1st (4): Command, Hex, Shield
 - 2nd (3): Darkness, Hold Person, Suggestion - 3rd (3): Counterspell, Fear, Fireball
 - 4th (3): Confusion, Greater Invisibility
-- 5th (1): Dominate Person **Multiattack**: Makes three attacks - two Shadow Blade strikes and one spell or command. **Shadow Blade**: +8 to hit, reach 5ft, 1d8+4 slashing plus 1d6 necrotic damage. **Command Fleet** (Recharge 5-6): Issues tactical orders that allow all allied vessels within 1 mile to take an additional action this turn. ### Scene 7: Escape and Pursuit
+- 5th (1): Dominate Person **Multiattack**: Makes three attacks - two Shadow Blade strikes and one spell or command. **Shadow Blade**: +8 to hit, reach 5ft, `dice: 1d8`+4 slashing plus `dice: 1d6` necrotic damage. **Command Fleet** (Recharge 5-6): Issues tactical orders that allow all allied vessels within 1 mile to take an additional action this turn. ### Scene 7: Escape and Pursuit
 
 **Challenge Type**: Chase scene and evasion Victory in the ambush is only the beginning - the party must escape with prisoners and cargo while avoiding shadow retaliation forces summoned by magical communications. **Escape Challenges**:
 - **Wounded Allies**: Slowing movement while protecting casualties
@@ -183,7 +183,7 @@ obsidian UIMode: preview
 - **Resource Management**: Limited supplies during extended evasion ### Scene 8: Processing the Victory
 
 **Location**: Multiple safe houses and resistance bases **Challenge Type**: Investigation and strategic planning The captured cargo reveals intelligence about broader Shadow Conspiracy operations, but processing it safely requires expertise and careful handling. **Cargo Analysis**:
-- **Corrupted Crystals**: Require [[Crystal Wardens]] expertise to safely contain
+- **Corrupted Crystals**: Require [Crystal Wardens]] expertise to safely contain
 - **Mind Control Devices**: Technological analysis reveals manufacturing origins
 - **Prisoner Testimonies**: Intelligence about shadow replacement facilities
 - **Communication Equipment**: Encrypted messages about future operations **Intelligence Discoveries**:
@@ -192,7 +192,6 @@ obsidian UIMode: preview
 2. **Replacement schedule** for government officials 3. **Supply chain information** for shadow operations
 4. **Weaknesses** in shadow magical defenses
 5. **Future convoy routes** and timing ### Scene 9: The Shadow Response
-
 
 **Challenge Type**: Defending against retaliation The Shadow Conspiracy doesn't take major losses quietly. They launch coordinated retaliation operations against the party and their allies, forcing defensive actions. **Retaliation Operations**:
 - **Assassination Attempts**: Shadow agents target party members
@@ -244,7 +243,6 @@ obsidian UIMode: preview
 - A letter reveals a betrayal about this place
 - An heirloom has gone missing and war looms
 - A journal reveals the truth about the cult ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

@@ -1,22 +1,22 @@
 ---
 title: Resoce Peaks
 type: note
-tags:
+tags: 
 - auto-generated
-- [[Link]]ed
+- [[Linked
 created: '2025-01-15'
 ---
 
 # Resoce Peaks
 
 ## Overview
-This topic is referenced in [[Aethermoor|[[Aethermoor]]-[[Aquabyssos]]-World-Connection-Guide (D&D_References)]] and other parts of the campaign.
+This topic is referenced in [[Aethermoor|[Aethermoor]]-[[Aquabyssos-World-Connection-Guide (D&D_References)]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Aethermoor-Aquabyssos-World-Connection-Guide (D&D_References)]]
+- Referenced by: [[Aethermoor-Aquabyssos-World-Connection-Guide (D&D_References)
 - Related topics in the same category
 
 ## Details
@@ -29,9 +29,9 @@ Further information about this topic will be developed as the campaign progresse
 
 ## References
 
-- [[Aetheric Wind Songs]]
-- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
-- [[Comprehensive-World-Connection-Guide]]
-- [[Resonance Peaks]]
-- [[Aetheric Wind Songs (D&D_References)]]
+- [Aetheric Wind Songs]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide
+- [Comprehensive-World-Connection-Guide]]
+- [[Resonance Peaks
+- [Aetheric Wind Songs (D&D_References)]]
 - [[Aethermoor-Aquabyssos-World-Connection-Guide (D&D_References)]]

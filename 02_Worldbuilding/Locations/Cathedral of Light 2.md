@@ -10,12 +10,12 @@ leader: 'High Luminary Celestine Brightward'
 obsidianUIMode: preview
 population: 500
 region: 'Capital District'
-specialties:
+specialties: 
 - Divine Magic
 - Healing Arts
 - Light Magic
 status: draft
-tags:
+tags: 
 - aethermoor
 - cathedral
 - content/location
@@ -33,21 +33,15 @@ updated: '2025-08-13T12:34:16.778337+00:00'
 world: Aethermoor
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-cathedral-of-light-cathedral-of-light.png)
-
-
-
-
 
 # Cathedral of Light
 *The Radiant Heart of Faith*
 
 ## Overview
 
-The Cathedral of Light stands as the most magnificent religious structure in [[02_Worldbuilding/Places/Aethermoor]], its crystalline spires reaching toward the heavens like prayers made manifest. Built from rare Illumination Crystals that glow with perpetual divine radiance, the Cathedral serves as the spiritual heart of the realm and the primary seat of the [[02_Worldbuilding/Groups/Sacred Order of Luminous Daw|02 Worldbuilding/Groups/Sacred Order Of Luminous Daw]]. Here, High Luminary Celestine Brightward leads thousands of faithful in worship of the Light Divine, while the Cathedral's healing halls tend to all who seek sanctuary.
+The Cathedral of Light stands as the most magnificent religious structure in [[02_Worldbuilding/Places/Aethermoor, its crystalline spires reaching toward the heavens like prayers made manifest. Built from rare Illumination Crystals that glow with perpetual divine radiance, the Cathedral serves as the spiritual heart of the realm and the primary seat of the [02_Worldbuilding/Groups/Sacred Order of Luminous Daw|02 Worldbuilding/Groups/Sacred Order Of Luminous Daw]]. Here, High Luminary Celestine Brightward leads thousands of faithful in worship of the Light Divine, while the Cathedral's healing halls tend to all who seek sanctuary.
 
 The Cathedral exists not merely as a place of worship but as a beacon of hope in a world touched by crystal corruption, its holy light serving as both literal and metaphorical guidance for those lost in darkness.
 
@@ -69,7 +63,7 @@ The Cathedral exists not merely as a place of worship but as a beacon of hope in
 - Said to show visions of the divine to the truly faithful
 
 **The Altar of Perpetual Radiance**
-- Carved from single massive [[02_Worldbuilding/Lore/Illumination Crystal]]
+- Carved from single massive [[02_Worldbuilding/Lore/Illumination Crystal
 - The Eternal Flame burns in center, source unknown
 - Focus point for all major religious ceremonies
 - Amplifies divine magic cast within 100 feet
@@ -79,11 +73,11 @@ The Cathedral exists not merely as a place of worship but as a beacon of hope in
 Each spire represents one aspect of divine light:
 
 1. **The Spire Of Healing** - Medical halls and divine healing chambers
-2. **[[02_Worldbuilding/Lore/The Spire of Knowledge]]** - Sacred libraries and scriptoriums  
+2. **[02_Worldbuilding/Lore/The Spire of Knowledge]]** - Sacred libraries and scriptoriums  
 3. **The Spire Of Mercy** - Sanctuary for refugees and the desperate
 4. **The Spire Of Justice** - Ecclesiastical courts and confessionals
 5. **The Spire Of Hope** - Counseling chambers and meditation gardens
-6. **[[02_Worldbuilding/Lore/The Spire of Courage]]** - Training halls for Paladins Of Light
+6. **[[02_Worldbuilding/Lore/The Spire of Courage** - Training halls for Paladins Of Light
 7. **The Spire Of Unity** - Conference halls and interfaith dialogue chambers
 
 ### The Celestial Observatory
@@ -102,7 +96,7 @@ Each spire represents one aspect of divine light:
 - Chosen by divine vision 20 years ago
 - Can channel pure light energy for healing and protection
 - Diplomatic immunity and advisory role to the Crown
-- Maintains correspondence with religious leaders across [[02_Worldbuilding/Places/Aethermoor]]
+- Maintains correspondence with religious leaders across [02_Worldbuilding/Places/Aethermoor]]
 
 **The Seven Luminaries**
 - Each leads one of the cathedral spires
@@ -124,9 +118,9 @@ Each spire represents one aspect of divine light:
 ### The Paladins of Light
 Elite holy warriors dedicated to protecting the Cathedral and the faithful:
 - Trained in both martial and divine arts
-- Equipment blessed with [[02_Worldbuilding/Lore/Illumination Crystal]] enhancements
+- Equipment blessed with [[02_Worldbuilding/Lore/Illumination Crystal enhancements
 - Oath binds them to protect the innocent and fight darkness
-- Led by [[02_Worldbuilding/People/Paladin Commander Sir Radiant Dawnbreaker]]
+- Led by [02_Worldbuilding/People/Paladin Commander Sir Radiant Dawnbreaker]]
 - Can channel divine light through their weapons and armor
 
 ## Sacred Chambers and Services
@@ -149,8 +143,8 @@ Elite holy warriors dedicated to protecting the Cathedral and the faithful:
 
 ### The Sacred Libraries
 **The Archive of Illumination**
-- Largest religious library in [[02_Worldbuilding/Places/Aethermoor]]
-- Contains original texts predating [[02_Worldbuilding/Lore/The Great Crystallization]]
+- Largest religious library in [[02_Worldbuilding/Places/Aethermoor
+- Contains original texts predating [02_Worldbuilding/Lore/The Great Crystallization]]
 - Illuminated manuscripts that glow softly in darkness
 - Research facilities for theological scholars
 - Public access during designated hours
@@ -225,24 +219,24 @@ Elite holy warriors dedicated to protecting the Cathedral and the faithful:
 
 ### Religious Leadership
 - **High Luminary Celestine Brightward** - Supreme spiritual leader
-- **[[02_Worldbuilding/People/Paladin Commander Sir Radiant Dawnbreaker]]** - Military leader
-- **[[02_Worldbuilding/Lore/Mother Superior Cordelia Mercyheart]]** - Head of charitable works
-- **[[02_Worldbuilding/Places/Archdeacon Felix Faithkeeper]]** - Administrative overseer
+- **[[02_Worldbuilding/People/Paladin Commander Sir Radiant Dawnbreaker** - Military leader
+- **[02_Worldbuilding/Lore/Mother Superior Cordelia Mercyheart]]** - Head of charitable works
+- **[[02_Worldbuilding/Places/Archdeacon Felix Faithkeeper** - Administrative overseer
 - **Oracle Sister Luna Visionseeker** - Interpreter of divine signs
 
 ### Devoted Servants
-- **[[02_Worldbuilding/Lore/Brother Thomas the Illuminated]]** - Keeper of the Eternal Flame
+- **[02_Worldbuilding/Lore/Brother Thomas the Illuminated]]** - Keeper of the Eternal Flame
 - **Sister Maria Purelight** - Master healer with miraculous abilities
 - **Scribe Master Augustine Brightquill** - Head librarian and scholar
-- **[[02_Worldbuilding/People/Guardian Captain Marcus Shieldwall]]** - Cathedral security chief
+- **[[02_Worldbuilding/People/Guardian Captain Marcus Shieldwall** - Cathedral security chief
 - **Novice Apprentice Sarah Hopeful** - Young prodigy showing divine favor
 
 ### Regular Visitors
-- **[[02_Worldbuilding/Lore/Ambassador Elena Diplomatic]]** - Royal court liaison
-- **[[02_Worldbuilding/People/Merchant Lord Cornelius Generous]]** - Major Cathedral benefactor
+- **[02_Worldbuilding/Lore/Ambassador Elena Diplomatic]]** - Royal court liaison
+- **[[02_Worldbuilding/People/Merchant Lord Cornelius Generous** - Major Cathedral benefactor
 - **Scholar Dr. Vera Theological** - Leading religious researcher
 - **Refugee Leader Maria Dispossessed** - Organizes displaced persons
-- **[[02_Worldbuilding/People/Pilgrim Guide Samuel Walkingfaith]]** - Leads spiritual journeys
+- **[02_Worldbuilding/People/Pilgrim Guide Samuel Walkingfaith]]** - Leads spiritual journeys
 
 ## Secrets & Mysteries
 
@@ -290,7 +284,7 @@ Underground network providing safe passage for refugees:
 
 **The Dimming Light**
 The Eternal Flame begins to flicker for the first time in centuries:
-- Investigation reveals sabotage by [[02_Worldbuilding/Groups/Purist Coalition]] extremists
+- Investigation reveals sabotage by [[02_Worldbuilding/Groups/Purist Coalition extremists
 - Must restore flame before losing divine connection
 - Requires rare components from dangerous locations
 - Success strengthens Cathedral's power, failure weakens faith realm-wide
@@ -300,7 +294,7 @@ A revered saint's remains show signs of crystal corruption:
 - Discovery threatens faithful's trust in divine protection
 - Investigation reveals complex conspiracy
 - Must decide whether to conceal truth or reveal dangerous knowledge
-- Resolution affects relationship between Cathedral and [[02_Worldbuilding/Lore/Crystal Throne]]
+- Resolution affects relationship between Cathedral and [02_Worldbuilding/Lore/Crystal Throne]]
 
 **The Prophetic Warning**
 New visions in Prophecy Chamber show apocalyptic future:
@@ -368,11 +362,11 @@ While in the Cathedral, characters experience:
 - Requires attunement by good-aligned divine caster
 
 ### Environmental DCs
-- **Navigate Cathedral:** DC 8 (well-marked and staffed)
-- **Access Restricted Areas:** DC 18 Persuasion or proper authorization
-- **Research in Sacred Libraries:** DC 12 Investigation with assistance
-- **Commune with Divine:** DC 20 Religion check in prayer
-- **Detect Divine Presence:** DC 10 Perception (advantage if faithful)
+- **Navigate Cathedral:** **DC 8** (well-marked and staffed)
+- **Access Restricted Areas:** **DC 18** Persuasion or proper authorization
+- **Research in Sacred Libraries:** **DC 12** Investigation with assistance
+- **Commune with Divine:** **DC 20** Religion check in prayer
+- **Detect Divine Presence:** **DC 10** Perception (advantage if faithful)
 
 ### Encounter Tables
 
@@ -395,13 +389,13 @@ While in the Cathedral, characters experience:
 
 ## Connections to Other Locations
 
-### [[02_Worldbuilding/Groups/The Crystal Throne]]
+### [[02_Worldbuilding/Groups/The Crystal Throne
 - Official recognition and royal patronage
 - Tension over crystal corruption policies
 - Shared concern for realm's spiritual health
 - Regular diplomatic exchanges
 
-### [[02_Worldbuilding/Places/Sylvanheart]]
+### [02_Worldbuilding/Places/Sylvanheart]]
 - Interfaith dialogue on natural vs. divine magic
 - Cooperation in refugee assistance
 - Shared opposition to corruption
@@ -444,10 +438,9 @@ While in the Cathedral, characters experience:
 > [!tip] DM Note
 > The Cathedral serves as a moral anchor and safe haven in campaigns, providing healing, information, and sanctuary for characters. Use it to introduce religious themes, moral dilemmas, and opportunities for characters to help others. The mysteries and secrets provide ongoing plot threads, while the daily operations offer realistic downtime activities.
 
-
 ## Connections
 
-- [[1-Session Journals/Aethermoor - Session 03 Council of Shadows]]
+- [[1-Session Journals/Aethermoor - Session 03 Council of Shadows
 
 ## Player-Facing Summary
 
@@ -469,34 +462,29 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Cathedral of Light]]
+- [02_Worldbuilding/Places/Cathedral of Light]]
 
 <!-- enriched: true -->
 riched: true -->
-- [[02_Worldbuilding/Groups/Purist Coalition]]
-- [[02_Worldbuilding/Lore/The Great Crystallization]]
+- [[02_Worldbuilding/Groups/Purist Coalition
+- [02_Worldbuilding/Lore/The Great Crystallization]]
 - [[02_Worldbuilding/Places/Sylvanheart]]
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

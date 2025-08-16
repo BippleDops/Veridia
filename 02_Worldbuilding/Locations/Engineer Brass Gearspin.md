@@ -1,7 +1,7 @@
 ---
 title: Engineer Brass Gearspin
 type: Location
-tags:
+tags: 
 - aquabyssos
 - brass-works
 - status/complete
@@ -143,19 +143,16 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[Compass Quest]]
-- [[The Crimson Foundries]]
-
+- [[Compass Quest
+- [The Crimson Foundries]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

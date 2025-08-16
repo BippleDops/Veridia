@@ -2,7 +2,7 @@
 aliases: ["Random Encounter 48", "random encounter 48", "48 Encounter Random"]
 tags: [generated]
 id: ENC0047_Random_Encounter_48
-created: 2025-08-15T04:09:51.450Z
+created: "2025-08-15T04:09:51.450Z"
 generator: mega_generator_10k
 ---
 # Random Encounter 48

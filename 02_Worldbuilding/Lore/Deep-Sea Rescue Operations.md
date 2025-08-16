@@ -1,10 +1,10 @@
 ---
 
 title: Deep Sea Rescue Operations
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - world/aquabyssos
 - cursed-natural-formation
 - content/lore
@@ -36,7 +36,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -78,7 +78,7 @@ Deep Sea Rescue Operations is a undersea element of the setting, known for biolu
 
 Legends speak of Deep Sea Rescue Operations as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Deep Sea Rescue Operations.
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -101,7 +101,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 - A stranger needs help delivering before winter
 - Strange accidents suggest a portal
 
-## Historical [[Time|[[Time]]line]]
+## Historical [[Time|[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement

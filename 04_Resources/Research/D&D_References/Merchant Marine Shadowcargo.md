@@ -2,7 +2,7 @@
 
 title: Merchant Marine Shadowcargo
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,10 +42,9 @@ updated: '2025-08-13T01:18:35.105693+00:00'
 
 - Strange disappearances suggest a conspiracy
 - A prisoner has gone missing and war looms
-- A merchant needs help investigating before dawn ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Shadow Marina (Criminal_Organizations)]]
+- A merchant needs help investigating before dawn ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Shadow Marina (Criminal_Organizations)
 
-- [[Shadow Marina]]
-
+- [Shadow Marina]]
 
 ## Notes
 

@@ -3,7 +3,7 @@ enhanced: true
 
 title: 04_Resources/Maps
 type: lore
-tags:
+tags: 
 - lore
 - worldbuilding
 - conspiracy
@@ -77,6 +77,6 @@ Detailed description pending.
 #world/world
 
 ## Visual References
-![[04_Resources/Assets/Maps/maps_aethermoor_1755205553168.png]]
-![[04_Resources/Assets/Maps/maps_aquabyssos_1755205548077.png]]
+![[04_Resources/Assets/Maps/maps_aethermoor_1755205553168.png
+![04_Resources/Assets/Maps/maps_aquabyssos_1755205548077.png]]
 ![[04_Resources/Assets/Maps/maps_aethermoor_1755205565352.png]]

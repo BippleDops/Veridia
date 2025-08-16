@@ -6,7 +6,7 @@ created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -20,13 +20,8 @@ updated: '2025-08-13T12:34:16.702847+00:00'
 world: Aquabyssos
 ---
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-gloom-gardens-the-gloom-gardens.svg)
-
-
-
-
 
 # The Gloom Gardens
 
@@ -124,29 +119,21 @@ As word spread about the area's unique beauty and therapeutic atmosphere, artist
 ## Connections
 
 The Gloom Gardens connect to the rest of Aquabyssos through discrete transport tubes that maintain the twilight atmosphere. The district also has cultural connections to similar contemplative communities in other underwater realms and maintains research relationships with surface-world botanical institutions studying bioluminescence.
-- [[02_Worldbuilding/Places/Lumengarde]]
-
+- [[02_Worldbuilding/Places/Lumengarde
 
 ## Layout
 
-
 TODO
-
 
 ## Notables
 
-
 TODO
-
 
 ## Threats
 
-
 TODO
 
-
 ## Hooks
-
 
 TODO
 
@@ -164,30 +151,25 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Gloom Gardens]]
+- [02_Worldbuilding/Places/The Gloom Gardens]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

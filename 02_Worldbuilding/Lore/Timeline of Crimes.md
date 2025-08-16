@@ -1,8 +1,8 @@
 ---
 
-title: [[Time|[[Time]]line]] of Crimes
-type: [[Lore]]
-tags:
+title: [[Time|[Timeline]] of Crimes
+type: [[Lore
+tags: 
 - lore
 - access/secret
 - conspiracy-development
@@ -19,7 +19,6 @@ tags:
 - conspiracy
 - world/aethermoor
 - shadow-touched
-- content/template
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
@@ -40,7 +39,7 @@ improvements: 20
 *Chronological Framework for Understanding Conspiracy Development Across History*
 
 > *"Crime is not a single moment of transgression - it is a pattern that extends across time, connecting past injustices to present conspiracies and future catastrophes. The Timeline of Crimes reveals that what we call 'history' is often nothing more than the winner's account of successful criminal enterprises, while the true patterns of conspiracy and corruption remain hidden beneath layers of official narrative and deliberate misdirection."*
-> — [[Master Chronologist Temporal Truthkeeper]], "Patterns in Time: How Criminal Conspiracies Shape History"
+> — [Master Chronologist Temporal Truthkeeper]], "Patterns in Time: How Criminal Conspiracies Shape History"
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -56,7 +55,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -104,11 +103,11 @@ improvements: 20
 
 ## Overview
 
-The Timeline of Crimes serves as the comprehensive chronological framework for understanding how conspiracy activities have developed across the history of both [[Aethermoor]] and [[Aquabyssos]]. Unlike conventional historical timelines that focus on official events, political developments, and cultural achievements, this framework tracks the hidden patterns of criminal conspiracy, secret manipulation, and covert operations that have shaped the true course of events in both worlds.
+The Timeline of Crimes serves as the comprehensive chronological framework for understanding how conspiracy activities have developed across the history of both [Aethermoor]] and [[Aquabyssos. Unlike conventional historical timelines that focus on official events, political developments, and cultural achievements, this framework tracks the hidden patterns of criminal conspiracy, secret manipulation, and covert operations that have shaped the true course of events in both worlds.
 
 This timeline recognizes that many supposedly independent historical events are actually connected elements of long-term conspiracy activities, with some criminal enterprises spanning centuries or millennia. By organizing these hidden activities chronologically, investigators can identify recurring patterns, understand how past crimes enable present conspiracies, and predict likely future criminal developments.
 
-The framework encompasses everything from individual criminal acts to vast multi-generational conspiracies like [[The Final Choice]], providing investigators with the temporal context needed to understand how current criminal activities fit within larger historical patterns. Each entry includes not only the criminal act itself, but also its connections to other conspiracy activities, its long-term consequences, and the [[Evidence]] patterns it created for future investigation.
+The framework encompasses everything from individual criminal acts to vast multi-generational conspiracies like [The Final Choice]], providing investigators with the temporal context needed to understand how current criminal activities fit within larger historical patterns. Each entry includes not only the criminal act itself, but also its connections to other conspiracy activities, its long-term consequences, and the [[Evidence patterns it created for future investigation.
 
 ### The Primordial Crimes
 
@@ -118,10 +117,10 @@ The earliest criminal activities occurred during the establishment of the fundam
 
 **The Original Betrayal**
 - **Date**: Unknown (Mythological Period)
-- **Crime Type**: Divine Betrayal and [[Reality Manipulation]]
+- **Crime Type**: Divine Betrayal and [Reality Manipulation]]
 - **Perpetrators**: Primordial entities seeking to escape cosmic justice
 - **Description**: Ancient beings committed crimes against the fundamental forces of reality, establishing the precedent for using reality manipulation to escape consequences
-- **Evidence**: Traces of [[Reality Distortion]] in oldest magical sites, mythological accounts across multiple cultures
+- **Evidence**: Traces of [[Reality Distortion in oldest magical sites, mythological accounts across multiple cultures
 - **Connections**: Establishes pattern of using supernatural power to avoid accountability for criminal acts
 - **Long-term Impact**: Creates the infrastructure for reality-manipulation conspiracies that continue to the present day
 
@@ -131,7 +130,7 @@ The earliest criminal activities occurred during the establishment of the fundam
 - **Perpetrators**: Entity coalition seeking to control the development of mortal civilizations
 - **Description**: Systematic suppression of dangerous knowledge and manipulation of early cultural development to create populations vulnerable to later exploitation
 - **Evidence**: Consistent gaps in early historical records, similar missing knowledge across unconnected civilizations
-- **Connections**: Establishes the pattern of knowledge control used by later conspiracies like [[The Final Choice]]
+- **Connections**: Establishes the pattern of knowledge control used by later conspiracies like [The Final Choice]]
 - **Long-term Impact**: Creates the foundation for information-based conspiracy activities
 
 ### The Formation of Criminal Networks
@@ -144,7 +143,7 @@ The earliest criminal activities occurred during the establishment of the fundam
 - **Perpetrators**: Founding families of what would become major conspiracy bloodlines
 - **Description**: Secret agreements between influential families to share information, resources, and criminal opportunities across generations
 - **Evidence**: Recurring family names in unrelated criminal activities, similar criminal methods across different time periods
-- **Connections**: Direct predecessor to modern conspiracy networks like [[The Silverscale Conspiracy]]
+- **Connections**: Direct predecessor to modern conspiracy networks like [[The Silverscale Conspiracy
 - **Long-term Impact**: Establishes the hereditary nature of major conspiracy participation
 
 ## Player-Facing Summary
@@ -155,11 +154,11 @@ Timeline of Crimes is a undersea element of the setting, known for bioluminescen
 
 Legends speak of Timeline of Crimes as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Timeline of Crimes.
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map use.
 
-## [[Historical Context]]
+## [Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -210,7 +209,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Campaign_Relationship_Matrix]]
-- [[Silver Mask]]
-- [[Master_Lore_Index]]
-- [[Silver Mask (D&D_References)]]
+- [[Campaign_Relationship_Matrix
+- [Silver Mask]]
+- [[Master_Lore_Index
+- [Silver Mask (D&D_References)]]

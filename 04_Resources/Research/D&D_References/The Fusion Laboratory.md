@@ -2,7 +2,7 @@
 
 title: The Fusion Laboratory
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -44,7 +44,6 @@ updated: '2025-08-13T01:18:35.074083+00:00'
 - A noble needs help delivering before the festival
 - Strange accidents suggest ancient magic
 - A stranger needs help investigating before winter ## References - [[The Shadow-Crystal Synthesis (Criminal_Organizations)]]
-
 
 ## Notes
 

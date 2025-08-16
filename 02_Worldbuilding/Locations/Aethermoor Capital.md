@@ -2,7 +2,7 @@
 
 title: Aethermoor Capital
 type: Location
-tags:
+tags: 
 - both
 - world/both
 - content/location
@@ -234,19 +234,16 @@ Ongoing situations affecting Aethermoor Capital:
 
 ## References
 
-- [[Harbormaster Erik Saltbeard]]
-- [[Harbormaster Erik Saltbeard (D&D_Statblocks)]]
-
+- [[Harbormaster Erik Saltbeard
+- [Harbormaster Erik Saltbeard (D&D_Statblocks)]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

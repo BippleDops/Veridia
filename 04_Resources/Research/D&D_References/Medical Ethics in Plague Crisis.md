@@ -2,7 +2,7 @@
 
 title: Medical Ethics in Plague Crisis
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -55,7 +55,6 @@ updated: '2025-08-13T01:18:34.881366+00:00'
 
 The core ethical dilemma: Are shadow-touched individuals still the same person, and what constitutes "harm" when consciousness itself changes? #### **The Resource Allocation Crisis**
 
-
 **Summary**: **The Resource Allocation Crisis** - Key information at a glance.
 
 **Situation**: Healing supplies can treat only 40% of the infected. Multiple triage systems are proposed: **Proposed Systems**:
@@ -80,7 +79,6 @@ The core ethical dilemma: Are shadow-touched individuals still the same person, 
 - Religious objections to "playing god"
 - Community violence when triage becomes public
 - Healers' psychological trauma from choosing #### **The Consciousness Consent Problem**
-
 
 **Summary**: **The Consciousness Consent Problem** - Key information at a glance.
 
@@ -161,7 +159,6 @@ The core ethical dilemma: Are shadow-touched individuals still the same person, 
 - **Tide Wisdom**: Natural cycles include death at proper time
 - **Scholar's Approach**: Rational calculation of suffering vs. Benefit
 - **Family Honor**: Dignity in death versus preservation of life ## DM Notes Medical ethics scenarios work best when players have established relationships with potential patients. Build toward major medical crises by first presenting smaller ethical choices. Allow players to debate and discuss options thoroughly - the decision-making process is often more important than the final choice. Remember that even trained medical professionals struggle with these dilemmas, so don't expect players to have perfect answers. ## Player-Facing Summary Medical Ethics in Plague Crisis is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Medical Ethics in Plague Crisis as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Medical Ethics in Plague Crisis. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

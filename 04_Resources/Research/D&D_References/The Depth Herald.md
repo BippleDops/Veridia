@@ -2,7 +2,7 @@
 
 title: The Depth Herald
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,7 +43,6 @@ updated: '2025-08-13T01:18:35.284989+00:00'
 - Someone is blackmailing a witness for love
 - A stranger needs help finding before dawn
 - Strange sightings suggest ancient magic ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

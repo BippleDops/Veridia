@@ -1,10 +1,10 @@
 ---
 
 title: Diplomatic Event Scenarios
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - mechanics/social
 - content/adventure
 - status/complete
@@ -32,8 +32,8 @@ improvements: 20
 
 *A Generator for International Intrigue and Political Drama*
 
-> *"Diplomacy is the art of saying 'nice doggy' until you can find a rock. In Aquabyssos, we say 'nice [[Krake|[[Krake]]n]]' until we can find a harpoon."*
-> — Ambassador [[Marina Deepcurrent]], "Principles of Underwater Diplomacy"
+> *"Diplomacy is the art of saying 'nice doggy' until you can find a rock. In Aquabyssos, we say 'nice [[Krake|[Kraken]]' until we can find a harpoon."*
+> — Ambassador [[Marina Deepcurrent, "Principles of Underwater Diplomacy"
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,7 +49,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -77,7 +77,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[region]]s
+- Describe how this culture exists in other [[regions
 
 ### Material_Culture Improvements
 
@@ -97,11 +97,11 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 
 ### Template A: The Trade Negotiation Masquerade
 
-*Economic discussions hiding [[Political Maneuvering]]*
+*Economic discussions hiding [Political Maneuvering]]*
 
 #### Key Elements
 
-1. **Opening Ceremony:** Formal welcome with [[Cultural Exchange]]
+1. **Opening Ceremony:** Formal welcome with [[Cultural Exchange
 2. **Technical Sessions:** Detailed negotiation of trade terms
 3. **Social Events:** Informal networking and intelligence gathering
 4. **Crisis Interruption:** Unexpected development requiring response
@@ -109,19 +109,19 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 
 #### Complication Generators
 
-- **Roll 1d6 for Primary Complication:**
+- **Roll `dice: 1d6` for Primary Complication:**
   1. Key negotiator is shadow replacement working against their own nation
   2. Crucial trade route involves territory with disputed ownership
-  3. One nation's economic [[data]] is completely falsified
+  3. One nation's economic [data]] is completely falsified
   4. Major trade good is actually contraband or dangerous material
-  5. Negotiation is cover for [[Military Intelligence]] gathering
+  5. Negotiation is cover for [[Military Intelligence gathering
   6. Environmental disaster threatens trade route during negotiations
 
-- **Roll 1d4 for Secondary Issues:**
+- **Roll `dice: 1d4` for Secondary Issues:**
   1. Cultural misunderstandings escalate into diplomatic incidents
   2. Security breach exposes classified negotiation positions
   3. Personal relationships between negotiators complicate professional duties
-  4. [[Time]] pressure from external crisis forces rushed decisions
+  4. [Time]] pressure from external crisis forces rushed decisions
 
 ### Template B: The Cultural Festival Convergence
 
@@ -137,17 +137,17 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 
 #### Complication Generators
 
-- **Roll 1d8 for Festival Crisis:**
+- **Roll `dice: 1d8` for Festival Crisis:**
   1. Cultural presentation reveals state secrets through historical accuracy
   2. Artistic competition becomes proxy for international tensions
   3. Performer is actually foreign agent gathering intelligence
   4. Cultural artifact on display is stolen/fake/cursed
   5. Sports competition injury creates diplomatic incident
-  6. Food poisoning at official banquet sparks [[Assassin]]ation fears
+  6. Food poisoning at official banquet sparks [[Assassination fears
   7. Cultural misunderstanding leads to religious offense
   8. Weather or environmental disaster threatens festival continuation
 
-- **Roll 1d6 for Hidden Agendas:**
+- **Roll `dice: 1d6` for Hidden Agendas:**
   1. Recruit cultural figures as intelligence assets
   2. Assess military capabilities through competitive displays
   3. Influence public opinion through cultural propaganda
@@ -163,11 +163,11 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 
 1. **Crisis Briefing:** Detailed situation assessment and intelligence sharing
 2. **Response Planning:** Coordination of relief efforts and resources
-3. **Resource Al[[location]]:** Distribution of costs and responsibilities
+3. **Resource Al[location]]:** Distribution of costs and responsibilities
 4. **Legal Framework:** Treaties or agreements governing crisis response
 5. **Implementation Coordination:** Ongoing communication and adjustment protocols
 
-#### Crisis Types (Roll 1d10)
+#### Crisis Types (Roll `dice: 1d10`)
 
 1. **Environmental Disaster:** Tsunami, earthquake, volcanic eruption
 2. **Plague Outbreak:** Disease threatening multiple nations
@@ -177,7 +177,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 6. **Supernatural Threat:** Eldritch entity or magical catastrophe
 7. **Refugee Crisis:** Mass population displacement from disaster
 8. **Resource Depletion:** Critical shortage of essential materials
-9. **Communication Breakdown:** Loss of international [[Communication_Systems|Communication Systems]]
+9. **Communication Breakdown:** Loss of international [[Communication_Systems|Communication Systems
 10. **Political Assassination:** Murder of key international leader
 
 ### Template D: The Marriage Alliance Spectacle
@@ -190,9 +190,9 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 2. **Dowry Negotiation:** Ficial and political terms of alliance
 3. **Pre-Wedding Events:** Multiple social occasions for diplomatic interaction
 4. **Wedding Ceremony:** Public ritual with international witnesses
-5. **Post-Wedding Politics:** Integration of new alliance into [[International Relations]]
+5. **Post-Wedding Politics:** Integration of new alliance into [International Relations]]
 
-#### Marriage Politics Complications (Roll 1d8)
+#### Marriage Politics Complications (Roll `dice: 1d8`)
 
 1. **False Identity:** Bride or groom is shadow replacement or imposter
 2. **Competing Suitors:** Other nations attempt to disrupt marriage through rival proposals
@@ -203,16 +203,16 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 7. **Personal Drama:** Genuine romantic complications interfere with political arrangement
 8. **Legal Challenge:** Legitimacy of marriage questioned on legal or technical grounds
 
-#### Alliance Implications (Roll 1d6)
+#### Alliance Implications (Roll `dice: 1d6`)
 
 1. **Military Cooperation:** Joint defense agreements and troop sharing
 2. **Economic Integration:** Trade preferences and ficial cooperation
-3. **Intelligence Sharing:** Coordinated espionage and [[Information Exchange]]
+3. **Intelligence Sharing:** Coordinated espionage and [[Information Exchange
 4. **Territorial Exchange:** Land transfers or boundary adjustments
 5. **Cultural Exchange:** Educational and social integration programs
 6. **Succession Rights:** Future inheritance and political continuity agreements
 
-### Template E: The [[Technology Transfer]] Symposium
+### Template E: The [Technology Transfer]] Symposium
 
 *Scientific cooperation concealing espionage operations*
 
@@ -224,7 +224,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 4. **Patent Negotiations:** Intellectual property licensing and sharing
 5. **Future Planning:** Long-term research cooperation agreements
 
-#### Technology Categories (Roll 1d6)
+#### Technology Categories (Roll `dice: 1d6`)
 
 1. **Military Technology:** Weapons, defense systems, intelligence equipment
 2. **Medical Advances:** Healing techniques, life extension, adaptation technology
@@ -233,7 +233,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 5. **Environmental Technology:** Weather control, ecosystem management, disaster prevention
 6. **Computational Systems:** Artificial intelligence, prediction modeling, data analysis
 
-#### Espionage Complications (Roll 1d8)
+#### Espionage Complications (Roll `dice: 1d8`)
 
 1. **Technology Theft:** Participant steals research from other nations
 2. **False Demonstrations:** Fake technology presented to mislead competitors
@@ -246,7 +246,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 
 ### Participant Generator
 
-**Roll 1d6 for each potential participant:**
+**Roll `dice: 1d6` for each potential participant:**
 1. **Eager Participant:** Enthusiastic support, hidden agenda likely
 2. **Reluctant Participant:** Attending due to pressure, may cause problems
 3. **Neutral Observer:** Minimal involvement, focused on information gathering
@@ -256,9 +256,9 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 
 ### Complication Escalation Table
 
-**Roll 1d12 when events become complicated:**
+**Roll `dice: 1d12` when events become complicated:**
 1. **Personal Vendetta:** Historical grievance affects professional relationship
-2. **[[Economic Pressure]]:** Ficial crisis forces desperate decisions
+2. **[[Economic Pressure:** Ficial crisis forces desperate decisions
 3. **Security Threat:** Assassination attempt or terrorist action
 4. **Environmental Crisis:** Natural disaster interferes with proceedings
 5. **Communication Breakdown:** Misunderstanding escalates into major conflict
@@ -272,7 +272,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 
 ### Outcome Determination Matrix
 
-**Roll [[2d6]] for event outcome:**
+**Roll [`dice: 2d6`]] for event outcome:**
 - **2-3:** Complete Failure - Worst possible outcome, new conflicts created
 - **4-5:** Major Problems - Significant issues, limited success
 - **6-8:** Mixed Results - Some success, some failure, complications remain
@@ -320,7 +320,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 
 ---
 
-*"Successful diplomacy requires the wisdom of Solomon, the patience of Job, and the ability to smile while your counterpart is picking your pocket. In Aquabyssos, add the ability to breathe underwater and detect [[Shadow Replacements]]."*
+*"Successful diplomacy requires the wisdom of Solomon, the patience of Job, and the ability to smile while your counterpart is picking your pocket. In Aquabyssos, add the ability to breathe underwater and detect [[Shadow Replacements."*
 — Ambassador Prism Clearlight, "Advanced Diplomatic Protocols"
 
 ## Player-Facing Summary
@@ -331,11 +331,11 @@ Diplomatic Event Scenarios is a undersea element of the setting, known for biolu
 
 Legends speak of Diplomatic Event Scenarios as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Diplomatic Event Scenarios.
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## [[Historical Context]]
+## [[Historical Context
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -357,5 +357,5 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Political Intrigue Master Index]]
+- [Political Intrigue Master Index]]
 - [[Political Intrigue Master Index (D&D_References)]]

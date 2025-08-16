@@ -2,7 +2,7 @@
 
 title: The Scattered Emperor (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -21,7 +21,6 @@ publish: false
  # The Scattered Emperor ---
 
 ## Description
-
 
 **Summary**: Description - Key information at a glance.
 
@@ -42,11 +41,11 @@ modified: '2025-08-14'
 status: active
 race: Distributed Consciousness
 class: Wizard/Aberration
-location: '[[Throne of Bubbles]]'
+location: '[[Throne of Bubbles'
 level: 20
 first_name: Malachus
 last_name: the Eternal
-faction: '[[Abyssos Prime Government]]'
+faction: '[Abyssos Prime Government]]'
 occupation: Fragmented Ruler
 disposition: 0
 alignment: Chaotic Neutral
@@ -62,14 +61,14 @@ consciousness_fragments: 10000
 portrait: ''
 relationship_type: ruler
 relationships:
-- '[[Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]'
-- '[[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
-- '[[Marina Red Tide Coralheart - Aquabyssos (D&D_References)]]'
+- '[[Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx'
+- '[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
+- '[[Marina Red Tide Coralheart - Aquabyssos (D&D_References)'
 
 related_quests:
-- '[[Unite the Emperor]]'
-- '[[Investigate Shadow Conspiracy]]'
-- '[[The Emperor]]'
+- '[Unite the Emperor]]'
+- '[[Investigate Shadow Conspiracy'
+- '[The Emperor]]'
 
 last_encounter: '[[Aquabyssos - Session 01 - The Drowning Welcome]]'
 stats: str: Variable dex: Variable con: Infinite int: 22 wis: 8 cha: 16
@@ -111,7 +110,6 @@ When shadows began gaining independence 50 years ago, Malachus realized that a s
 9. **The Child:** Innocent and curious
 10. **The Dying:** Aware of eventual dissolution ### The Fragment Wars
 
-
 Different consciousness fragments have different relationships:
 - Paranoid fragments trust no one
 - Nostalgic fragments favor surface dwellers
@@ -126,13 +124,11 @@ Different consciousness fragments have different relationships:
 6. **Surface Paths:** Secret routes to the surface
 7. **The Seventh Shard:** Its location and purpose ### Conditions for Reunification
 
-
 1. Extreme threat to Abyssos Prime
 2. Uimous agreement of major fragments
 3. Presence of someone he trusts absolutely
 4. Magical circle to contain consciousness
 5. Acceptance of death as consequence ### The Emperor's Requests (Different Fragments)
-
 
 1. **Paranoid:** Spy on the Parliament
 2. **Nostalgic:** Bring surface artifacts
@@ -145,13 +141,11 @@ Different consciousness fragments have different relationships:
 9. **Child:** Play games of riddles
 10. **Dying:** Prepare his funeral ### Communication Methods
 
-
 1. **Eel Chorus:** Multiple eels speak in sequence
 2. **Electric Patterns:** Messages in lightning displays
 3. **Creature Swarms:** Spelling words with fish schools
 4. **Dream Fragments:** Each fragment sends different dreams
 5. **Environmental Manipulation:** Using palace features ### Typical Conversation Flow```Eel 1: "We—"
-
 
 Eel 2: "—no, they can't be trusted—"
 
@@ -177,7 +171,6 @@ Eel 10: "—the probability of success is—" ### The Emperor's End Game
 4. **If united with cure:** Could return to single form
 5. **Ultimate sacrifice:** Reunify to stop the Harvest ### The Real Reason (Ultra Secret)
 
-
 Malachus discovered that reality itself was dying—entropy would claim everything in 1,000 years. The only escape was to transform reality into something that could survive: a world of consciousness without fixed form. The drowning was meant to "liquify" reality itself, making it mutable and eternal. He partially succeeded. Aquabyssos exists in a state between real and unreal, which is why:
 - Time flows differently
 - Shadows gain independence
@@ -196,7 +189,6 @@ Malachus discovered that reality itself was dying—entropy would claim everythi
 9. Child - "Want to play?"
 10. Dying - "Not much time..." ### Key Phrases by Fragment
 
-
 - **Paranoid:** "Trust nothing, especially yourself"
 - **Calculator:** "In 7,293 timelines, you're already dead"
 - **Mad:** "We are one, we are none, we are done"
@@ -205,7 +197,6 @@ Malachus discovered that reality itself was dying—entropy would claim everythi
 
 - Strange disappearances suggest a conspiracy
 - Strange accidents suggest ancient magic ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

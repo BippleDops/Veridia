@@ -1,7 +1,7 @@
 ---
 type: Lore
 status: complete
-tags:
+tags: 
 - complete
 - index
 - lore
@@ -14,7 +14,6 @@ completed: 2025-08-11
 updated: '2025-08-11T00:00:00+00:00'
 ---
 
-
 # Update Indexes
 
 Comprehensive navigation hub for the ObsidianTTRPGVault. This index provides quick access to all major content categories and specialized indexes throughout the vault.
@@ -22,13 +21,13 @@ Comprehensive navigation hub for the ObsidianTTRPGVault. This index provides qui
 ## Core Navigation Indexes
 
 ### Campaign Content
-- [[13_Performance/Indexes/Campaign Index]] - Complete guide to all campaign materials and session content
-- [[02_Worldbuilding/Lore/Location Index]] - Organized directory of all worldbuilding locations
-- [[02_Worldbuilding/Lore/Quest Index]] - Adventure hooks, quests, and campaign objectives
+- [[13_Performance/Indexes/Campaign Index - Complete guide to all campaign materials and session content
+- [02_Worldbuilding/Lore/Location Index]] - Organized directory of all worldbuilding locations
+- [[02_Worldbuilding/Lore/Quest Index - Adventure hooks, quests, and campaign objectives
 
 ### Character & People Content
-- [[03_Mechanics/Character Index]] - Player characters and character creation resources
-- [[02_Worldbuilding/Lore/NPC Relationship Web]] - Network of non-player character connections
+- [03_Mechanics/Character Index]] - Player characters and character creation resources
+- [[02_Worldbuilding/Lore/NPC Relationship Web - Network of non-player character connections
 - Npc Cross World Connections - Links between Aethermoor and Aquabyssos characters
 
 ## Content Categories
@@ -68,16 +67,16 @@ Comprehensive navigation hub for the ObsidianTTRPGVault. This index provides qui
 ## World-Specific Navigation
 
 ### Aquabyssos Campaign
-- **Core Locations**: [[02_Worldbuilding/Places/Abyssos Prime]], [[02_Worldbuilding/Places/Port Meridian]], [[02_Worldbuilding/Places/The Memory Meadows]]
-- **Key Organizations**: [[02_Worldbuilding/Places/Parliament of Echoes]], [[02_Worldbuilding/Groups/Silverscale Consortium]], [[02_Worldbuilding/People/The Shadow Surgeons]]
-- **Major NPCs**: [[02_Worldbuilding/People/Emperor Thalassius]], Marina Red Tide Coralheart, [[02_Worldbuilding/People/Vex Shadowthorn]]
-- **Core Mechanics**: [[02_Worldbuilding/Lore/Pressure Adaptation System]], [[03_Mechanics/Memory Tide Navigation]], [[03_Mechanics/Shadow Separation Mechanics]]
+- **Core Locations**: [02_Worldbuilding/Places/Abyssos Prime]], [[02_Worldbuilding/Places/Port Meridian, [02_Worldbuilding/Places/The Memory Meadows]]
+- **Key Organizations**: [[02_Worldbuilding/Places/Parliament of Echoes, [02_Worldbuilding/Groups/Silverscale Consortium]], [[02_Worldbuilding/People/The Shadow Surgeons
+- **Major NPCs**: [02_Worldbuilding/People/Emperor Thalassius]], Marina Red Tide Coralheart, [[02_Worldbuilding/People/Vex Shadowthorn
+- **Core Mechanics**: [02_Worldbuilding/Lore/Pressure Adaptation System]], [[03_Mechanics/Memory Tide Navigation, [03_Mechanics/Shadow Separation Mechanics]]
 
 ### Aethermoor Campaign
-- **Core Locations**: [[02_Worldbuilding/Places/Aethermoor]], [[02_Worldbuilding/Places/Lumengarde]], [[02_Worldbuilding/Places/Crystal Gardens]]
-- **Key Organizations**: [[02_Worldbuilding/Places/The Crystal Wardens]], [[02_Worldbuilding/People/The Harmony Collective]], [[02_Worldbuilding/People/The Verdant Accord]]
-- **Major NPCs**: [[02_Worldbuilding/People/Queen Seraphina Lumengarde]], [[02_Worldbuilding/Lore/The Deep Mother]], [[02_Worldbuilding/People/The Bloodline Carrier]]
-- **Core Mechanics**: [[03_Mechanics/Crystal Plague Mechanics]], [[03_Mechanics/Dual World Mechanics]], Bloodline Awakening Powers
+- **Core Locations**: [[02_Worldbuilding/Places/Aethermoor, [02_Worldbuilding/Places/Lumengarde]], [[02_Worldbuilding/Places/Crystal Gardens
+- **Key Organizations**: [02_Worldbuilding/Places/The Crystal Wardens]], [[02_Worldbuilding/People/The Harmony Collective, [02_Worldbuilding/People/The Verdant Accord]]
+- **Major NPCs**: [[02_Worldbuilding/People/Queen Seraphina Lumengarde, [02_Worldbuilding/Lore/The Deep Mother]], [[02_Worldbuilding/People/The Bloodline Carrier
+- **Core Mechanics**: [03_Mechanics/Crystal Plague Mechanics]], [[03_Mechanics/Dual World Mechanics, Bloodline Awakening Powers
 
 ## Quick Access Tools
 
@@ -90,12 +89,12 @@ Comprehensive navigation hub for the ObsidianTTRPGVault. This index provides qui
 - Create New Location - Template for new location entries
 - Create New Npc - Template for new character profiles
 - Create New Session - Session planning and note templates
-- [[02_Worldbuilding/Lore/Session Planning Guide]] - GM preparation workflows
+- [02_Worldbuilding/Lore/Session Planning Guide]] - GM preparation workflows
 
 ### Data Visualization
-- [[02_Worldbuilding/Lore/Relationship_Web.canvas]] - Visual faction and character connections
+- [[02_Worldbuilding/Lore/Relationship_Web.canvas - Visual faction and character connections
 - Continental Connections Map - Geographic relationship mapping
-- [[03_Mechanics/Faction Relationship Tracker]] - Organizational standing matrix
+- [03_Mechanics/Faction Relationship Tracker]] - Organizational standing matrix
 
 ---
 

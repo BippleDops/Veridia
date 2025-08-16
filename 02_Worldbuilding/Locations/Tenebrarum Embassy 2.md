@@ -1,7 +1,7 @@
 ---
 created: '2025-08-12'
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -17,8 +17,6 @@ type: Location
 updated: '2025-08-13T12:34:16.558239+00:00'
 world: Aquabyssos
 ---
-
-
 
 # Tenebrarum Embassy
 *The House of Shifting Diplomacy*
@@ -339,26 +337,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 
-
 ## Atmosphere
 - Mood and feeling
 - Sensory details
-
 
 ## Resources
 - Natural resources
 - Trade goods
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/lore
@@ -14,13 +14,8 @@ updated: '2025-08-13T12:34:15.952249+00:00'
 world: Aquabyssos
 ---
 
-
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-deep-oracle-bathys-deep-oracle-bathys.png)
-
-
 
 ## Overview
 

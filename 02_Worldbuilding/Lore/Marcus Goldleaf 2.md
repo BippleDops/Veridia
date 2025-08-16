@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - aethermoor
 - complete
 - content/lore
@@ -13,11 +13,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.019711+00:00'
 world: Aethermoor
 ---
-
-
-
-
-
 
 ## Overview
 
@@ -45,10 +40,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Madame Rosalind Goldleaf]]
-
+- [[02_Worldbuilding/Places/Madame Rosalind Goldleaf
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Madame Rosalind Goldleaf]]
+- [02_Worldbuilding/Places/Madame Rosalind Goldleaf]]
 - [[02_Worldbuilding/Places/Pip Goldleaf]]

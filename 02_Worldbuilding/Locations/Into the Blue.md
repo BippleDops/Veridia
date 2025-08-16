@@ -2,7 +2,7 @@
 
 title: Into the Blue
 type: Location
-tags:
+tags: 
 - mystery
 - aquabyssos
 - content/adventure
@@ -287,11 +287,9 @@ Key stop on magic items trade route
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

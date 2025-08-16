@@ -1,12 +1,12 @@
 ---
 
 title: Royal Bloodline Codex
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
 - content/lore
 - quest
-- world/[[Aethermoor]]
+- world/[Aethermoor]]
 - active
 - complete
 - status/in-progress
@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -62,7 +62,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[region]]s
+- Describe how this culture exists in other [region]]s
 
 ### Evolution Improvements
 
@@ -84,9 +84,9 @@ Royal Bloodline Codex is a undersea element of the setting, known for biolumines
 
 Legends speak of Royal Bloodline Codex as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Royal Bloodline Codex.
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [map]] use.
 
 ## Cultural Impact
 

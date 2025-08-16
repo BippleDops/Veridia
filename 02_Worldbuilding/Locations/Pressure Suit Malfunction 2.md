@@ -3,7 +3,7 @@ created: '2025-08-08'
 created_by: auto-stub
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/item
@@ -19,13 +19,8 @@ updated: '2025-08-13T12:34:17.005127+00:00'
 world: Aquabyssos
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-pressure-suit-malfunction-pressure-suit-malfunction.svg)
-
-
-
 
 # Pressure Suit Malfunction
 
@@ -162,10 +157,9 @@ A critical equipment failure involving pressure suits used for deep-sea operatio
 ## DM Notes
 This crisis provides opportunities for rescue missions, investigation adventures, and exploration of themes around technology, safety, and corporate responsibility. The equipment failure can serve as background tension or central plot element depending on campaign needs.
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[02_Worldbuilding/Places/Pearl_Harbor_City
 
 ## Player-Facing Summary
 
@@ -183,30 +177,25 @@ Legends speak of Pressure Suit Malfunction as a nexus where past and present con
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pressure Suit Malfunction]]
+- [02_Worldbuilding/Places/Pressure Suit Malfunction]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

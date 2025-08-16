@@ -3,14 +3,14 @@ created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
-tags:
-- [[Lore]]
-title: The [[Deep Mother]]'s Temple
+tags: 
+- [[Lore
+title: The [Deep Mother]]'s Temple
 type: lore
 updated: 2025-08-14
 ---
 
-# [[The Deep Mother]]'s Temple
+# [[The Deep Mother's Temple
 
 ## Overview
 This document contains important information regarding The Deep Mother's Temple and its role within the greater narrative.
@@ -20,12 +20,12 @@ The Deep Mother's Temple represents a significant element within the campaign wo
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: [[Link]]ed to multiple other elements
+- **Connections**: [Link]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-[[Historical Context]] and development over [[Time]].
+[[Historical Context and development over [Time]].
 
 ### Current State
 Present circumstances and ongoing relevance.

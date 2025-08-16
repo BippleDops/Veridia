@@ -2,7 +2,7 @@
 
 title: The Deepwater Consortium
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,10 +42,9 @@ updated: '2025-08-13T01:18:35.220431+00:00'
 
 - Strange sightings suggest a conspiracy
 - A corpse reveals the truth about a local noble
-- Strange dreams suggest a curse ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Port Meridian - Merchant Quarter]]
+- Strange dreams suggest a curse ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Port Meridian - Merchant Quarter
 
-- [[Port Meridian - Merchant Quarter (D&D_References)]]
-
+- [Port Meridian - Merchant Quarter (D&D_References)]]
 
 ## Notes
 

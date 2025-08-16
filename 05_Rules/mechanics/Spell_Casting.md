@@ -1,6 +1,6 @@
 ---
 tags: [generated, linked]
-created: 2025-08-15T12:34:11.172705
+created: "2025-08-15T12:34:11.172705"
 ---
 
 # Spell Casting
@@ -12,8 +12,8 @@ This content is part of the campaign.
 Details about this topic.
 
 ## Connections
-- Related to: [[Related_Topic_1]]
-- See also: [[Related_Topic_2]]
+- Related to: [[Related_Topic_1
+- See also: [Related_Topic_2]]
 
 ## Game Mechanics
 How this works in game terms.

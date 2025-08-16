@@ -3,7 +3,7 @@ type: Lore
 status: complete
 date_created: '2025-08-11'
 date_modified: '2025-08-11'
-tags:
+tags: 
 - aquabyssos
 - both
 - complete
@@ -15,9 +15,6 @@ world: Both
 updated: '2025-08-11T00:00:00+00:00'
 created: '2025-08-11'
 ---
-
-
-
 
 # Investigation Procedures
 
@@ -119,10 +116,10 @@ Procedural knowledge becomes crucial for uncovering larger conspiracies and navi
 Mastery of investigation procedures allows the party to uncover the deepest secrets of Aquabyssos and solve mysteries that have persisted for generations.
 
 ## Related Lore
-- [[02_Worldbuilding/People/The Pearl Guard]]
-- [[02_Worldbuilding/People/The Shadow Warren]]
-- [[02_Worldbuilding/Lore/Corruption Exposure Tracking]]
-- [[02_Worldbuilding/Places/Spymaster Crow]]
+- [[02_Worldbuilding/People/The Pearl Guard
+- [02_Worldbuilding/People/The Shadow Warren]]
+- [[02_Worldbuilding/Lore/Corruption Exposure Tracking
+- [02_Worldbuilding/Places/Spymaster Crow]]
 - Crystal Corruption Mechanics
 
 ## DM Guidance
@@ -139,24 +136,23 @@ Use investigation procedures to create realistic consequences for player actions
 ### Customization Options
 Adapt procedures to reflect your campaign's tone - more bureaucratic for political intrigue, more action-oriented for adventure-focused games, or more mysterious for investigation-heavy scenarios.
 
-
 ## Connections
 
 - Citizens Of Meridian
 - Crimson Hand Strike Team
 - Evidence Chain Analysis
-- [[02_Worldbuilding/Lore/Evidence Types Guide]]
-- [[02_Worldbuilding/Lore/Fear Farms]]
+- [[02_Worldbuilding/Lore/Evidence Types Guide
+- [02_Worldbuilding/Lore/Fear Farms]]
 - Pressure Tube Operator Krill
-- [[02_Worldbuilding/Lore/Random Encounters]]
-- [[02_Worldbuilding/Lore/Reputation System]]
+- [[02_Worldbuilding/Lore/Random Encounters
+- [02_Worldbuilding/Lore/Reputation System]]
 - Session 0   Aquabyssos
-- [[02_Worldbuilding/Lore/Silver Mask]]
+- [[02_Worldbuilding/Lore/Silver Mask
 - Spell Components
-- [[02_Worldbuilding/Lore/Thalassius the Wise]]
-- [[02_Worldbuilding/Lore/The Deep Mother]]
-- [[02_Worldbuilding/Lore/The Restoration Movement]]
-- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
+- [02_Worldbuilding/Lore/Thalassius the Wise]]
+- [[02_Worldbuilding/Lore/The Deep Mother
+- [02_Worldbuilding/Lore/The Restoration Movement]]
+- [[02_Worldbuilding/Lore/The Silverscale Conspiracy
 
 ## Player-Facing Summary
 
@@ -174,4 +170,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[00_Indexes/Master_Lore_Index]]
+- [00_Indexes/Master_Lore_Index]]

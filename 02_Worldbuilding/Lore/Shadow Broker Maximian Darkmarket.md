@@ -1,10 +1,10 @@
 ---
 
 title: Shadow Broker Maximian Darkmarket
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - world/aquabyssos
 - content/faction
 - content/lore
@@ -36,7 +36,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -82,7 +82,7 @@ Shadow Broker Maximian Darkmarket is a undersea element of the setting, known fo
 
 Legends speak of Shadow Broker Maximian Darkmarket as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Broker Maximian Darkmarket.
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -116,6 +116,6 @@ Mentioned in The First Prophecy of Winds
 
 ## References
 
-- [[Master_Campaign_Index]]
-- [[The Shadow Harvest (Criminal_Organizations)]]
+- [[Master_Campaign_Index
+- [The Shadow Harvest (Criminal_Organizations)]]
 - [[The Shadow Harvest]]

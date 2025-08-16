@@ -2,7 +2,7 @@
 
 title: Wind_Touched_Evolution
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -132,7 +132,6 @@ world: Aethermoor
 7. **Incorporeal Drift:** Randomly becoming partially gaseous
 8. **Sky Calling:** Overwhelming urge to fly into dangerous weather #### Earth Grounding Ritual
 
-
 **Requirements:** 1 month underground, earth elemental assistance
 **Success Rate:** 70% for Stages 1-2, 40% for Stage 3, 10% for Stage 4
 **Side Effects:** Temporary claustrophobia, reduced agility #### Magical Intervention
@@ -162,7 +161,6 @@ world: Aethermoor
 - Connections to overarching campaign themes ## Plot Hooks - A noble needs help finding before the new moon
 
 - The authorities needs help stealing before dawn ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

@@ -2,7 +2,7 @@
 
 title: The Memory Thief (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -59,7 +59,7 @@ danger_level: Moderate
 
 **Medium humanoid (?), chaotic neutral**
 - **AS** 17 (Natural Deflection)
-- **HP** 95 (17d8 + 17)
+- **HP** 95 (`dice: 17d8` + 17)
 - **Speed** 30 ft, swim 30 ft, fly 40 ft (hover)
 - **STR** 12 (+1) **DEX** 18 (+4) **CON** 13 (+1) **INT** 20 (+5) **WIS** 17 (+3) **CHA** 19 (+4)
 - **Skills** Deception +10, Insight +9, Investigation +11, Perception +9, Stealth +10
@@ -71,7 +71,7 @@ danger_level: Moderate
 
 **Memory Sight.** The Memory Thief can see and read memories as visible auras around creatures within 60 feet. They can identify valuable or significant memories without making contact. Moreover, **Shapeshifter.** The Memory Thief can change their appearance at will, including species, gender, and apparent age. This change affects observers' memories of the encounter. **Memory Immunity.** The Memory Thief is immune to all memory-altering effects and retains perfect recall of all experiences. **Ethereal Jaunt.** The Memory Thief can shift to the Ethereal Plane as a bonus action and return as a move action. ### Actions
 
-**Memory Extraction.** *Melee Spell Attack:* +9 to hit, reach 5 ft., one creature. *Hit:* The target must make a DC 17 Wisdom saving throw. On a failure, the Memory Thief extracts one specific memory chosen by them. The target loses all recollection of the extracted memory and related experiences. **Implanted Memory.** The Memory Thief can implant a false memory in a creature within 30 feet (DC 17 Wisdom save to resist). The implanted memory feels completely real to the target. **Memory Maze (1/day).** The Memory Thief creates a 30-foot radius area where creatures experience confusion as their memories become jumbled. Creatures in the area must make DC 17 Wisdom saves each turn or be stunned as they become lost in false memories. **Mind Touch.** *Ranged Spell Attack:* +9 to hit, range 60 ft., one creature. *Hit:* 4d8 + 4 psychic damage, and the target must make a DC 17 Constitution save or have their maximum HP reduced by the damage taken. ### Legendary Actions (3 per turn)
+**Memory Extraction.** *Melee Spell Attack:* +9 to hit, reach 5 ft., one creature. *Hit:* The target must make a **DC 17** Wisdom saving throw. On a failure, the Memory Thief extracts one specific memory chosen by them. The target loses all recollection of the extracted memory and related experiences. **Implanted Memory.** The Memory Thief can implant a false memory in a creature within 30 feet (**DC 17** Wisdom save to resist). The implanted memory feels completely real to the target. **Memory Maze (1/day).** The Memory Thief creates a 30-foot radius area where creatures experience confusion as their memories become jumbled. Creatures in the area must make **DC 17** Wisdom saves each turn or be stunned as they become lost in false memories. **Mind Touch.** *Ranged Spell Attack:* +9 to hit, range 60 ft., one creature. *Hit:* `dice: 4d8` + 4 psychic damage, and the target must make a **DC 17** Constitution save or have their maximum HP reduced by the damage taken. ### Legendary Actions (3 per turn)
 
 **Move.** The Memory Thief moves up to their speed without provoking opportunity attacks.
 **Memory Probe.** The Memory Thief attempts to read surface thoughts of a creature within 60 feet.
@@ -79,17 +79,15 @@ danger_level: Moderate
 
 1. **The Stolen Secret**: A key witness to a major crime has had their crucial memories stolen, and the party must either recover the memories or find another way to uncover the truth. 2. **The Memory Market**: The party discovers an underground auction where stolen memories are being sold, providing an opportunity to confront the Memory Thief or their agents. 3. **Personal Stakes**: One of the party members begins experiencing memory gaps, indicating they've become a target of the Memory Thief for unknown reasons. 4. **The Collector's Purpose**: Evidence suggests the Memory Thief is assembling memories related to a specific historical event or piece of knowledge that could affect the city's fate. ## DM Notes
 
-
-The Memory Thief serves as both a recurring antagonist and a source of mystery in the campaign. Their ability to alter memories creates unique storytelling opportunities where players must question the reliability of their own knowledge and experiences. Use the Memory Thief to introduce plot twists, remove inconvenient knowledge from NPCs, or create situations where the party must decide whether recovering stolen memories is worth the risks involved. ## Player-Facing Summary The Memory Thief is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Memory Thief as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Memory Thief. ## Cross-References - [[The Memory Thief|02 Worldbuilding/Places/The Memory Thief]] nriched: true --> ## Related *Links to related content will be added here.* ## Plot Hooks - A noble needs help delivering before the festival
+The Memory Thief serves as both a recurring antagonist and a source of mystery in the campaign. Their ability to alter memories creates unique storytelling opportunities where players must question the reliability of their own knowledge and experiences. Use the Memory Thief to introduce plot twists, remove inconvenient knowledge from NPCs, or create situations where the party must decide whether recovering stolen memories is worth the risks involved. ## Player-Facing Summary The Memory Thief is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Memory Thief as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Memory Thief. ## Cross-References - [[The Memory Thief|02 Worldbuilding/Places/The Memory Thief nriched: true --> ## Related *Links to related content will be added here.* ## Plot Hooks - A noble needs help delivering before the festival
 
 - Someone is hunting information for power
 - Someone is searching for a witness for money
-- Strange sightings suggest a curse ## Related Notes - [[Similar Topic 1]]
+- Strange sightings suggest a curse ## Related Notes - [Similar Topic 1]]
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
+- [[Contrasting Approach
+- [Advanced Version]]
 - [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

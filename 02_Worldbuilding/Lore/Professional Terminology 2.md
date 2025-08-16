@@ -2,7 +2,7 @@
 created: '2025-08-12'
 obsidianUIMode: preview
 status: complete
-tags:
+tags: 
 - both
 - complete
 - content/faction
@@ -18,8 +18,6 @@ type: Lore
 updated: '2025-08-13T12:34:15.715984+00:00'
 world: Both
 ---
-
-
 
 # Professional Terminology
 
@@ -326,8 +324,8 @@ Specialized vocabulary, jargon, and code words used by various professional guil
 ## Connections
 
 - Common Idioms And Sayings
-- [[02_Worldbuilding/Lore/Depth Speak Variations]]
-- [[02_Worldbuilding/Lore/Wind Song Linguistic Guide]]  
+- [[02_Worldbuilding/Lore/Depth Speak Variations
+- [02_Worldbuilding/Lore/Wind Song Linguistic Guide]]  
 - Swear Words And Curses
 - [[02_Worldbuilding/Groups/Guilds/The Traders Guild]]
 - Crystal Engineering Guild

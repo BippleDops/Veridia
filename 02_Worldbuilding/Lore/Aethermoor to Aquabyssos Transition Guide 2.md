@@ -1,7 +1,7 @@
 ---
 type: Lore
 status: complete
-tags:
+tags: 
 - aquabyssos
 - campaign-mechanics
 - complete
@@ -15,8 +15,6 @@ created_by: auto-stub
 created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
-
-
 
 # Aethermoor to Aquabyssos Transition Guide
 
@@ -126,15 +124,14 @@ The transition process actually creates temporary psychic links between individu
 ## Related Topics
 
 - Campaign World
-- [[02_Worldbuilding/Places/Surface Portal Alpha]]
-- [[02_Worldbuilding/Places/Pressure Tubes]]
+- [[02_Worldbuilding/Places/Surface Portal Alpha
+- [02_Worldbuilding/Places/Pressure Tubes]]
 - Current Pc Lead
 - Party Information
 
 ## Campaign Use
 
 Use transitions as opportunities for character development, world-building exposition, and creating dramatic tension. The adaptation process provides natural breaks for learning about new cultures and environments. Consider transition challenges as both obstacles and opportunities for player creativity and problem-solving.
-
 
 ## Connections
 

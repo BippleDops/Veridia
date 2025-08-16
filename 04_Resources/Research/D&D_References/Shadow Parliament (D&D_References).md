@@ -2,7 +2,7 @@
 
 title: Shadow Parliament (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -56,7 +56,6 @@ Shadow Parliament moves information and influence like currency. Publicly pragma
 - A merchant needs help finding before winter
 - Strange accidents suggest a portal
 - Someone is blackmailing a artifact for money ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

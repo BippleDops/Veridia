@@ -10,7 +10,7 @@ obsidianUIMode: preview
 parent_location: Parliament of Echoes
 population: 200-800 visitors daily
 status: complete
-tags:
+tags: 
 - access/public
 - aquabyssos
 - civic
@@ -30,13 +30,8 @@ updated: '2025-08-13T12:34:16.912581+00:00'
 world: Aquabyssos
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-parliament-of-echoes-public-gallery-parliament-of-echoes-public-gallery.png)
-
-
-
 
 # Parliament of Echoes - Public Gallery
 
@@ -44,7 +39,7 @@ world: Aquabyssos
 
 ## Overview
 
-The Public Gallery of the [[02_Worldbuilding/Places/Parliament of Echoes]] represents one of [[02_Worldbuilding/Places/Aquabyssos]]'s most progressive democratic innovations - a magnificent observation space where citizens can witness their representatives in action and participate in the political process. This architectural marvel, built into the soaring upper reaches of the Parliament complex, provides seating for up to 800 observers while offering unobstructed views of the legislative chambers below.
+The Public Gallery of the [[02_Worldbuilding/Places/Parliament of Echoes represents one of [02_Worldbuilding/Places/Aquabyssos]]'s most progressive democratic innovations - a magnificent observation space where citizens can witness their representatives in action and participate in the political process. This architectural marvel, built into the soaring upper reaches of the Parliament complex, provides seating for up to 800 observers while offering unobstructed views of the legislative chambers below.
 
 More than a mere spectator area, the Public Gallery serves as the beating heart of Aquabyssos democracy, where public opinion is shaped, political movements are born, and the ancient tradition of citizen engagement with government continues to evolve. The Gallery's unique acoustic design allows visitors to hear every word spoken in the chambers below, while advanced magical dampening fields ensure that disruptions from above cannot interfere with parliamentary proceedings.
 
@@ -67,14 +62,14 @@ The Gallery is constructed as a magnificent amphitheater with seven ascending ti
 - Enhanced comfort with padded seats and personal writing surfaces
 - Priority access during debates affecting trade and commerce
 - Semi-private entrance reducing interaction with general public
-- Used by [[02_Worldbuilding/Groups/Guilds/The Deep Merchants Guild]], Artisan Collective, and similar organizations
+- Used by [[02_Worldbuilding/Groups/Guilds/The Deep Merchants Guild, Artisan Collective, and similar organizations
 
 **Scholars' Tier (Level 3)** - 150 seats
 - Academic seating for researchers, students, and educational groups
 - Equipped with note-taking surfaces and reference material storage
 - Enhanced acoustic systems for detailed study of proceedings
 - Access to transcription services and parliamentary archives
-- Frequently occupied by students from the [[02_Worldbuilding/Groups/Academies/Imperial Academy]]
+- Frequently occupied by students from the [02_Worldbuilding/Groups/Academies/Imperial Academy]]
 
 **Press Gallery (Level 4)** - 100 seats
 - Exclusive access for authorized journalists and public chroniclers
@@ -94,11 +89,11 @@ The Gallery is constructed as a magnificent amphitheater with seven ascending ti
 - Exclusive seating for non-parliamentary nobility and their guests
 - Ornate private boxes with climate control and service areas
 - Traditional privilege maintained while ensuring public transparency
-- Often used by [[02_Worldbuilding/Places/Noble Houses]] to monitor legislation affecting their interests
+- Often used by [[02_Worldbuilding/Places/Noble Houses to monitor legislation affecting their interests
 - Semi-private entrances and exclusive amenities
 
 **Royal Box (Level 7)** - 10 seats
-- Supreme viewing position for the [[02_Worldbuilding/People/Emperor]] and immediate family
+- Supreme viewing position for the [02_Worldbuilding/People/Emperor]] and immediate family
 - Ceremonial importance during state openings and major addresses
 - Bulletproof crystal barriers and comprehensive security systems
 - Rarely occupied, serving more as symbol of royal oversight
@@ -128,7 +123,7 @@ The Gallery employs sophisticated magical and architectural techniques to ensure
 - Multiple emergency exits on each tier with rapid evacuation capability
 - Magical crowd-calming fields that can be activated during disturbances
 - Discrete but comprehensive surveillance throughout all seating areas
-- Rapid response stations staffed by [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament Guards]] on each level
+- Rapid response stations staffed by [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament Guards on each level
 - Automated lockdown systems to isolate Gallery from parliament floor if needed
 
 **Security Screening**
@@ -249,7 +244,7 @@ The Gallery has been the birthplace of numerous significant political movements:
 
 ## Notable NPCs and Staff
 
-### [[02_Worldbuilding/Lore/Master of the Gallery Cornelius Publicvoice]]
+### [02_Worldbuilding/Lore/Master of the Gallery Cornelius Publicvoice]]
 - **Role**: Chief administrator responsible for all Gallery operations
 - **Background**: Former parliamentary clerk with 25 years experience
 - **Responsibilities**: Staffing, security coordination, public access policies
@@ -326,25 +321,25 @@ Regular hosting of foreign parliamentary observers:
 ## Connections and Cross-References
 
 ### Related Locations
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - The main parliamentary complex
-- [[02_Worldbuilding/Places/Abyssos Prime Upper Districts]] - Government quarter
-- [[02_Worldbuilding/Places/The Shadow Markets]] - Political intelligence trading
-- [[02_Worldbuilding/Places/Vote Vaults]] - Electoral administration
-- [[02_Worldbuilding/Groups/Academies/Imperial Academy]] - Civic education
+- [[02_Worldbuilding/Places/Parliament of Echoes - The main parliamentary complex
+- [02_Worldbuilding/Places/Abyssos Prime Upper Districts]] - Government quarter
+- [[02_Worldbuilding/Places/The Shadow Markets - Political intelligence trading
+- [02_Worldbuilding/Places/Vote Vaults]] - Electoral administration
+- [[02_Worldbuilding/Groups/Academies/Imperial Academy - Civic education
 
 ### Associated Organizations
-- [[02_Worldbuilding/Groups/Guilds/The Deep Merchants Guild]] - Guild tier regular occupants
+- [02_Worldbuilding/Groups/Guilds/The Deep Merchants Guild]] - Guild tier regular occupants
 - The Depth Herald - Press gallery journalists
-- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament Guards]] - Security and protection
-- [[02_Worldbuilding/Lore/Citizens' Budget Review]] - Grassroots movement born in Gallery
-- [[02_Worldbuilding/Lore/Transparency Coalition]] - Government accountability advocates
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament Guards - Security and protection
+- [02_Worldbuilding/Lore/Citizens' Budget Review]] - Grassroots movement born in Gallery
+- [[02_Worldbuilding/Lore/Transparency Coalition - Government accountability advocates
 
 ### Key Figures
-- [[02_Worldbuilding/Lore/Master of the Gallery Cornelius Publicvoice]] - Chief administrator
-- [[02_Worldbuilding/People/Emperor Thalassius]] - Occasional Royal Box occupant
-- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliamentary Speaker]] - Gallery policy coordinator
-- [[02_Worldbuilding/Lore/The Opposition Leader]] - Regular Gallery interaction
-- [[02_Worldbuilding/People/Gallery Guide Captain Marina Civicvoice]] - Senior visitor services
+- [02_Worldbuilding/Lore/Master of the Gallery Cornelius Publicvoice]] - Chief administrator
+- [[02_Worldbuilding/People/Emperor Thalassius - Occasional Royal Box occupant
+- [02_Worldbuilding/Groups/Government_and_Parliament/Parliamentary Speaker]] - Gallery policy coordinator
+- [[02_Worldbuilding/Lore/The Opposition Leader - Regular Gallery interaction
+- [02_Worldbuilding/People/Gallery Guide Captain Marina Civicvoice]] - Senior visitor services
 
 ## Adventure Hooks and Quest Opportunities
 
@@ -394,10 +389,9 @@ Some Gallery operations serve hidden political purposes:
 
 *The Parliament of Echoes Public Gallery stands as both symbol and instrument of democratic progress, where the ancient principle that government serves at the pleasure of the people finds its most visible and vital expression in the depths of Aquabyssos.*
 
-
 ## Connections
 
-- [[1-Session Journals/Aquabyssos - Session 01 - The Drowning Welcome]]
+- [[1-Session Journals/Aquabyssos - Session 01 - The Drowning Welcome
 
 ## Player-Facing Summary
 
@@ -419,34 +413,29 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Parliament of Echoes - Public Gallery]]
+- [02_Worldbuilding/Places/Parliament of Echoes - Public Gallery]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/People/Emperor Thalassius]]
-- [[02_Worldbuilding/Places/Abyssos Prime Upper Districts]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Places/Vote Vaults]]
-
+- [[02_Worldbuilding/People/Emperor Thalassius
+- [02_Worldbuilding/Places/Abyssos Prime Upper Districts]]
+- [[02_Worldbuilding/Places/Parliament of Echoes
+- [02_Worldbuilding/Places/Vote Vaults]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

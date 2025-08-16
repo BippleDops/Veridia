@@ -2,7 +2,7 @@
 
 title: The Deep Market
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,10 +42,9 @@ updated: '2025-08-13T01:18:35.063632+00:00'
 
 - A journal reveals the truth about the cult
 - An heirloom has gone missing and truth emerges
-- Strange sightings suggest a portal ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[The Pressure Conspiracy]]
+- Strange sightings suggest a portal ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[The Pressure Conspiracy
 
-- [[The Pressure Conspiracy (D&D_Statblocks)]]
-
+- [The Pressure Conspiracy (D&D_Statblocks)]]
 
 ## Notes
 

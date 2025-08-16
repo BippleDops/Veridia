@@ -2,7 +2,7 @@
 
 title: Bubble Burst
 type: Location
-tags:
+tags: 
 - aquabyssos
 - status/complete
 - casino
@@ -94,46 +94,46 @@ improvements: 20
 
 ## Overview
 
-**Bubble Burst** is [[Aquabyssos]]'s most extravagant entertainment complex, a massive underwater casino and performance venue housed within a colossal air bubble maintained by powerful [[Aeration Crystals]]. Located in the trendy [[Bubble District]], this establishment caters to wealthy merchants, high-rolling adventurers, and those seeking to lose themselves in games of chance beneath the waves. The venue operates on a unique premise where all gambling involves magical bubbles containing prizes, curses, or transformative effects.
+**Bubble Burst** is [[Aquabyssos's most extravagant entertainment complex, a massive underwater casino and performance venue housed within a colossal air bubble maintained by powerful [Aeration Crystals]]. Located in the trendy [[Bubble District, this establishment caters to wealthy merchants, high-rolling adventurers, and those seeking to lose themselves in games of chance beneath the waves. The venue operates on a unique premise where all gambling involves magical bubbles containing prizes, curses, or transformative effects.
 
 ## Atmosphere & Description
 
 The casino exists within an enormous spherical air pocket, its walls shimmering with constantly shifting rainbow patterns from the light refracting through the bubble membrane. The interior is divided into multiple levels connected by spiral staircases made of crystallized seafoam. Hundreds of smaller bubbles float throughout the space, each containing dice, cards, or magical effects that players can interact with.
 
-The ceiling displays a mesmerizing aurora effect created by [[Prismatic Plankton]], while the floor consists of transparent crystal allowing views of the [[Deep Currents]] flowing beneath. The air itself sparkles with microscopic enchanted particles that create a perpetual feeling of euphoria and excitement.
+The ceiling displays a mesmerizing aurora effect created by [Prismatic Plankton]], while the floor consists of transparent crystal allowing views of the [[Deep Currents flowing beneath. The air itself sparkles with microscopic enchanted particles that create a perpetual feeling of euphoria and excitement.
 
 At the center rises the **Fortune's Maelstrom** - a massive spiraling column of bubbles that serves as the venue's main attraction, where the most dangerous and rewarding games take place.
 
 ### Lady Nerida Pearlsong
 *Female Sea Elf, Casino Proprietor*
 - **AS**: 17 (Natural Armor + Enchanted Jewelry)
-- **HP**: 112 (16d8+48)
+- **HP**: 112 (`dice: 16d8`+48)
 - **Speed**: 30 ft., swim 60 ft.
 - **STR**: 12 (+1), **DEX**: 18 (+4), **CON**: 16 (+3), **INT**: 20 (+5), **WIS**: 14 (+2), **CHA**: 22 (+6)
 - **Skills**: Deception +12, Insight +8, Persuasion +12, Sleight of Hand +10
-- **Spellcasting**: 15th level (save DC 19, +11 to hit)
+- **Spellcasting**: 15th level (save **DC 19**, +11 to hit)
 - **Special**: Can see through all forms of magical deception and illusion
 
-A centuries-old sea elf who made her fortune by understanding the deepest desires of gamblers. Her pearlescent skin literally glows brighter when she senses profitable opportunities. She's rumored to have made deals with [[Luck Spirits]] and [[Fate Weavers]] to ensure the house always wins.
+A centuries-old sea elf who made her fortune by understanding the deepest desires of gamblers. Her pearlescent skin literally glows brighter when she senses profitable opportunities. She's rumored to have made deals with [Luck Spirits]] and [[Fate Weavers to ensure the house always wins.
 
 ### Captain Tobias "Depth Charge" Murrk
 *Male Dwarf, Head of Security*
 - **AS**: 18 (Plate Armor, adapted for underwater use)
-- **HP**: 142 (19d10+38)
+- **HP**: 142 (`dice: 19d10`+38)
 - **Speed**: 25 ft., swim 25 ft.
 - **STR**: 18 (+4), **DEX**: 12 (+1), **CON**: 16 (+3), **INT**: 13 (+1), **WIS**: 16 (+3), **CHA**: 10 (+0)
 - **Skills**: Athletics +10, Intimidation +6, Investigation +7, Perception +9
 - **Equipment**: Trident of Warning, Armor of Water Walking
 
-A former [[Deep Current Pirates]] captain who turned legitimate after losing his ship in a bubble game. Now he ensures order within the chaos of the casino, using his knowledge of every underwater fighting technique to handle troublemakers.
+A former [Deep Current Pirates]] captain who turned legitimate after losing his ship in a bubble game. Now he ensures order within the chaos of the casino, using his knowledge of every underwater fighting technique to handle troublemakers.
 
 ### Sparkle (Actual name)
 *Agender Merfolk, Fortune Teller*
 - **AS**: 15 (Shimmering Scales)
-- **HP**: 68 (13d8+13)
+- **HP**: 68 (`dice: 13d8`+13)
 - **Speed**: 10 ft., swim 50 ft.
 - **Languages**: Common, Aquan, Celestial, Draconic, and 6 others
-- **Spellcasting**: 9th level Divination specialist (save DC 16)
+- **Spellcasting**: 9th level Divination specialist (save **DC 16**)
 - **Special**: All divination spells cast at one level higher
 
 A prophetic merfolk whose scales change color to reflect the fortunes of those around them. They offer readings using enchanted bubble formations, though their predictions often come in the form of cryptic underwater imagery.
@@ -148,22 +148,22 @@ A prophetic merfolk whose scales change color to reflect the fortunes of those a
 
 ## Plot Hooks
 
-1. **The Rigged Reality**: The characters discover that recent games have been manipulated by someone using [[Reality Distortion]] magic. Lady Pearlsong claims innocence, but the trail leads to powerful [[Planar Entities]] seeking to destabilize the local economy.
+1. **The Rigged Reality**: The characters discover that recent games have been manipulated by someone using [[Reality Distortion magic. Lady Pearlsong claims innocence, but the trail leads to powerful [Planar Entities]] seeking to destabilize the local economy.
 
-2. **Bubble Burst Bankruptcy**: A series of impossible wins have nearly bankrupted the casino, threatening the magical bubble's stability. If it collapses, it could create a catastrophic implosion affecting the entire [[Bubble District]].
+2. **Bubble Burst Bankruptcy**: A series of impossible wins have nearly bankrupted the casino, threatening the magical bubble's stability. If it collapses, it could create a catastrophic implosion affecting the entire [[Bubble District.
 
 3. **The Memory Thief**: Patrons are losing more than just their wagers - their memories are being systematically stolen and sold on the black market. The thief might be using the Memory Pools as cover for their operation.
 
-4. **Curse of the Lucky Streak**: A patron has been winning every game for days straight, but each victory ages them rapidly. They desperately seek help breaking what appears to be a [[Monkey's Paw]] style curse.
+4. **Curse of the Lucky Streak**: A patron has been winning every game for days straight, but each victory ages them rapidly. They desperately seek help breaking what appears to be a [Monkey's Paw]] style curse.
 
-5. **The Deep Bet**: Lady Pearlsong has wagered the entire casino in a game against a mysterious entity from the [[Abyssal Depths]]. The characters are recruited as her champions in a series of increasingly dangerous challenges.
+5. **The Deep Bet**: Lady Pearlsong has wagered the entire casino in a game against a mysterious entity from the [[Abyssal Depths. The characters are recruited as her champions in a series of increasingly dangerous challenges.
 
 6. **Temporal Tide Malfunction**: The time-distortion chambers have malfunctioned, trapping guests in temporal loops. Some have been reliving the same game for subjective years, while others age decades in minutes.
 
 ## Connections
 
-Bubble Burst serves as a nexus for [[Aquabyssos]]'s underground economy, with connections to the [[Shadow Tide Syndicat|02 Worldbuilding/Groups/Shadow Tide Syndicat]], [[Merchant Marine Consortium]], and various [[Elemental Courts]]. The casino regularly hosts representatives from the [[Luck Spirits Alliance]] and maintains careful relationships with both the [[Surface Coalition]] and [[Depths Alliance]]. Many plot threads from across [[Aquabyssos]] converge here, as fortunes won and lost often determine the fate of entire organizations.
-- [[Old Valdris]]
+Bubble Burst serves as a nexus for [Aquabyssos]]'s underground economy, with connections to the [[Shadow Tide Syndicat|02 Worldbuilding/Groups/Shadow Tide Syndicat, [Merchant Marine Consortium]], and various [[Elemental Courts. The casino regularly hosts representatives from the [Luck Spirits Alliance]] and maintains careful relationships with both the [[Surface Coalition and [Depths Alliance]]. Many plot threads from across [[Aquabyssos converge here, as fortunes won and lost often determine the fate of entire organizations.
+- [Old Valdris]]
 
 ## Government
 - **Type**: Local council
@@ -173,11 +173,11 @@ Bubble Burst serves as a nexus for [[Aquabyssos]]'s underground economy, with co
 
 ## History
 
-**Bubble Burst** was founded three decades ago by Lady Nerida Pearlsong, who discovered the massive natural air pocket while exploring the [[Deep Currents]]. Initially a simple gambling den, it evolved into Aquabyssos's premier entertainment destination through Nerida's shrewd partnerships with [[Luck Spirits]] and innovative use of [[Aeration Crystals]]. 
+**Bubble Burst** was founded three decades ago by Lady Nerida Pearlsong, who discovered the massive natural air pocket while exploring the [[Deep Currents. Initially a simple gambling den, it evolved into Aquabyssos's premier entertainment destination through Nerida's shrewd partnerships with [Luck Spirits]] and innovative use of [[Aeration Crystals. 
 
-The casino survived the [[Great Pressure Shift]] of fifteen years ago that collapsed many bubble structures by adapting its magical infrastructure. This event led to Nerida's current obsession with magical insurance policies and her mysterious deals with entities from the [[Abyssal Depths]].
+The casino survived the [Great Pressure Shift]] of fifteen years ago that collapsed many bubble structures by adapting its magical infrastructure. This event led to Nerida's current obsession with magical insurance policies and her mysterious deals with entities from the [[Abyssal Depths.
 
-Recent expansion includes the controversial Memory Pool wings, which have drawn criticism from the [[Parliament of Echoes]] but significant investment from the [[Shadow Tide Syndicate]].
+Recent expansion includes the controversial Memory Pool wings, which have drawn criticism from the [Parliament of Echoes]] but significant investment from the [[Shadow Tide Syndicate]].
 
 ## Layout
 
@@ -328,7 +328,6 @@ Ongoing situations affecting Bubble Burst:
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

@@ -1,13 +1,13 @@
 ---
 tags: [generated, linked]
-created: 2025-08-15T12:34:11.168103
+created: "2025-08-15T12:34:11.168103"
 ---
 
-# Session Logger
+# [[Session Logger
 
-## Start New Session Log
+## [Start New]] [[Session Log
 
-### Session Template
+### [Session Template]]
 ```markdown
 # Session [NUMBER] - [DATE]
 
@@ -17,10 +17,10 @@ created: 2025-08-15T12:34:11.168103
 - [ ] Player 3
 - [ ] Player 4
 
-## Session Summary
+## [[Session Summary]]
 [Auto-generated summary]
 
-## Key Events
+## [[Key Events
 1. 
 2. 
 3. 
@@ -28,13 +28,13 @@ created: 2025-08-15T12:34:11.168103
 ## NPCs Met
 - 
 
-## Loot Gained
+## [Loot Gained]]
 - 
 
 ## XP Earned
 - 
 
-## Notes for Next Session
+## Notes for [[Next Session]]
 - 
 ```
 

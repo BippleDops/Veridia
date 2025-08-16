@@ -2,7 +2,7 @@
 
 title: Random-Encounter-Tables-Aethermoor
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -76,7 +76,6 @@ Random-Encounter-Tables-Aethermoor describes a turning current in history where 
 
 - Only if feature/spell grants one
 - Common: Off-hand attack, Cunning Action, Healing Word
-
 
 ## Notes
 

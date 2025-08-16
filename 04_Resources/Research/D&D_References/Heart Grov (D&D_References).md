@@ -2,7 +2,7 @@
 
 title: Heart Grov (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,12 +42,11 @@ updated: '2025-08-13T01:18:35.556693+00:00'
 
 - Someone is protecting a witness for revenge
 - The authorities needs help finding before dawn
-- Someone is searching for a witness for revenge ## Related Notes - [[Similar Topic 1]]
+- Someone is searching for a witness for revenge ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

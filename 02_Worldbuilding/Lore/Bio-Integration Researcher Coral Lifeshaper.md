@@ -1,16 +1,16 @@
 ---
 
-title: Bio Integration Researcher [[Coral]] Lifeshaper
-type: [[Lore]]
-tags:
+title: Bio Integration Researcher [[Coral Lifeshaper
+type: [Lore]]
+tags: 
 - lore
-- [[Aquabyssos]]
+- [[Aquabyssos
 - world/aquabyssos
 - content/lore
 - active
 - complete
 - status/in-progress
-- world/[[Aethermoor]]
+- world/[Aethermoor]]
 - crystal-enhanced
 - conspiracy
 created: '2025-08-11'
@@ -36,7 +36,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -84,7 +84,7 @@ improvements: 20
 
 ## Player-Facing Summary
 
-Bio Integration Researcher [[Coral Lifeshaper]] is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+Bio Integration Researcher [Coral Lifeshaper]] is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 

@@ -1,22 +1,22 @@
 ---
 title: Lieutet Memory Probe
 type: note
-tags:
+tags: 
 - auto-generated
-- [[Link]]ed
+- [[Linked
 created: '2025-01-15'
 ---
 
 # Lieutet Memory Probe
 
 ## Overview
-This topic is referenced in [[Shadow Surgeon Strike Team]] and other parts of the campaign.
+This topic is referenced in [Shadow Surgeon Strike Team]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Shadow Surgeon Strike Team]]
+- Referenced by: [[Shadow Surgeon Strike Team
 - Related topics in the same category
 
 ## Details
@@ -29,6 +29,6 @@ Further information about this topic will be developed as the campaign progresse
 
 ## References
 
-- [[Shadow Surgeon Strike Team (Criminal_Organizations)]]
-- [[Lieutenant Memory Probe]]
-- [[Shadow Surgeon Strike Team]]
+- [Shadow Surgeon Strike Team (Criminal_Organizations)]]
+- [[Lieutenant Memory Probe
+- [Shadow Surgeon Strike Team]]

@@ -2,7 +2,7 @@
 
 title: The First Watcher 3 (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -46,7 +46,6 @@ world: Both Aethermoor & Aquabyssos
 
 - A stranger needs help investigating before dawn
 - Someone is searching for a artifact for money ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

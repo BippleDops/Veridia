@@ -2,7 +2,7 @@
 aliases: ["Random Encounter 96", "random encounter 96", "96 Encounter Random"]
 tags: [generated]
 id: ENC0095_Random_Encounter_96
-created: 2025-08-15T04:09:51.464Z
+created: "2025-08-15T04:09:51.464Z"
 generator: mega_generator_10k
 ---
 # Random Encounter 96
@@ -10,7 +10,7 @@ generator: mega_generator_10k
 *Deadly encounter for Forest environment*
 
 ## Enemies
-- 2d4 Goblins
+- `dice: 2d4` Goblins
 
 ## Tactics
 Enemies coordinate attacks and use terrain to their advantage

@@ -2,7 +2,7 @@
 
 title: The Shadowmire Tavern
 type: Location
-tags:
+tags: 
 - mechanics/social
 - aquabyssos
 - status/complete
@@ -24,7 +24,7 @@ affiliation: Neutral Territory
 created_by: Claude
 danger_level: 2
 location_type: Tavern & Social Hub
-services:
+services: 
 - Food
 - Drink
 - Lodging
@@ -95,10 +95,10 @@ improvements: 20
 - Add smells, sounds, and textures unique to this culture
 
 ## Overview
-The Shadowmire Tavern serves as one of Aquabyssos's premier neutral meeting grounds, where representatives from every faction, social class, and profession gather to drink, dine, and conduct business away from prying eyes. Built into a partially collapsed [[The Seven Shards]] crystalline formation, the tavern's unique architecture combines natural shadow-touched crystal with comfortable furnishings, creating an atmosphere where both legitimate business and questionable dealings can flourish under an unspoken code of mutual respect.
+The Shadowmire Tavern serves as one of Aquabyssos's premier neutral meeting grounds, where representatives from every faction, social class, and profession gather to drink, dine, and conduct business away from prying eyes. Built into a partially collapsed [[The Seven Shards crystalline formation, the tavern's unique architecture combines natural shadow-touched crystal with comfortable furnishings, creating an atmosphere where both legitimate business and questionable dealings can flourish under an unspoken code of mutual respect.
 
 ### Founding
-**Established**: 23 years ago by [[Kesh Shadowbrew]], a former [[Memory Farmers]] seeking redemption
+**Established**: 23 years ago by [Kesh Shadowbrew]], a former [[Memory Farmers]] seeking redemption
 **Original Purpose**: Refuge for those escaping various factions and organizations
 **The Great Compact**: Agreement between major factions declaring the tavern neutral territory
 **Reputation Building**: Gradually became known as safest place for cross-faction communication
@@ -248,11 +248,9 @@ Ongoing situations affecting The Shadowmire Tavern:
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

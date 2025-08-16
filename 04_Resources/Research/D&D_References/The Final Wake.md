@@ -2,7 +2,7 @@
 
 title: The Final Wake
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,7 +43,6 @@ updated: '2025-08-13T01:18:35.064470+00:00'
 - A merchant needs help delivering before the festival
 - A journal reveals ancient history about this place
 - Someone is blackmailing a witness for power ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

@@ -2,7 +2,7 @@
 
 title: The Memorial Groves
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,10 +42,9 @@ updated: '2025-08-13T01:18:34.799575+00:00'
 
 - A map reveals the truth about this place
 - Someone is hunting a artifact for revenge
-- Strange accidents suggest ancient magic ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Quest - The Root Network_1 (01_Adventures)]]
+- Strange accidents suggest ancient magic ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Quest - The Root Network_1 (01_Adventures)
 
-- [[Quest - The Root Network_2 (01_Adventures)]]
-
+- [Quest - The Root Network_2 (01_Adventures)]]
 
 ## Notes
 

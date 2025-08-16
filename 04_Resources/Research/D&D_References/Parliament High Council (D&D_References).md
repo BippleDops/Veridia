@@ -2,7 +2,7 @@
 
 title: Parliament High Council (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -72,18 +72,16 @@ Citizens view the Council with mixed feelings - respect for the democratic proce
 4. Foreign agents attempt to infiltrate and influence Council decisions
 5. The Speaker's Conch begins transmitting mysterious messages ## DM Notes
 
+The Parliament High Council provides excellent political intrigue opportunities. Members can serve as quest givers, obstacles, or allies depending on party actions. The complex factional relationships allow for shifting alliances and unexpected betrayals. Use Council sessions as dramatic set pieces where party testimony or evidence can influence major city decisions. ## Player-Facing Summary Parliament High Council is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Parliament High Council as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Parliament High Council. ## Cross-References - [[Parliament High Council|02 Worldbuilding/People/Parliament High Council]] nriched: true --> ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes ## Prophecy Connection Mentioned in The Second Prophecy of Stars ## Relationships - **Friend**: [[Npc
 
-The Parliament High Council provides excellent political intrigue opportunities. Members can serve as quest givers, obstacles, or allies depending on party actions. The complex factional relationships allow for shifting alliances and unexpected betrayals. Use Council sessions as dramatic set pieces where party testimony or evidence can influence major city decisions. ## Player-Facing Summary Parliament High Council is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Parliament High Council as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Parliament High Council. ## Cross-References - [[Parliament High Council|02 Worldbuilding/People/Parliament High Council]] nriched: true --> ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes ## Prophecy Connection Mentioned in The Second Prophecy of Stars ## Relationships - **Friend**: [[Npc]]
+- **Mentor**: [The Lady's Garden Society]]
+- **Sibling**: [[Npc
+- **Enemy**: [Npc]]
+- **Blackmailer**: [[Npc ## Related Notes - [Similar Topic 1]]
 
-- **Mentor**: [[The Lady's Garden Society]]
-- **Sibling**: [[Npc]]
-- **Enemy**: [[Npc]]
-- **Blackmailer**: [[Npc]] ## Related Notes - [[Similar Topic 1]]
-
-- [[Contrasting Approach]]
-- [[Advanced Version]]
+- [[Contrasting Approach
+- [Advanced Version]]
 - [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

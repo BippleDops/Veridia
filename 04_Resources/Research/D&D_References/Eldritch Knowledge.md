@@ -2,7 +2,7 @@
 
 title: Eldritch Knowledge
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,10 +42,9 @@ updated: '2025-08-13T01:18:34.850392+00:00'
 
 - Strange accidents suggest a curse
 - Someone is searching for a witness for revenge
-- Strange dreams suggest a portal ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Abyssos Prime - Inverse Palace]]
+- Strange dreams suggest a portal ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Abyssos Prime - Inverse Palace
 
-- [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]]
-
+- [Abyssos Prime - Inverse Palace (D&D_Statblocks)]]
 
 ## Notes
 

@@ -1,12 +1,12 @@
 ---
 
 title: The Azure Fleet Corporation
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
 - commercial-district
 - content/lore
-- world/[[Aethermoor]]
+- world/[Aethermoor]]
 - active
 - complete
 - status/in-progress
@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -92,7 +92,7 @@ The Azure Fleet Corporation is a undersea element of the setting, known for biol
 
 Legends speak of The Azure Fleet Corporation as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Azure Fleet Corporation.
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -152,5 +152,5 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Port Meridian - Merchant Quarter]]
-- [[Port Meridian - Merchant Quarter (D&D_References)]]
+- [[Port Meridian - Merchant Quarter
+- [Port Meridian - Merchant Quarter (D&D_References)]]

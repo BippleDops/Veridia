@@ -2,7 +2,7 @@
 
 title: Dockmaster Bruno Steadyanchor
 type: Location
-tags:
+tags: 
 - aquabyssos
 - status/complete
 - world/aquabyssos
@@ -522,19 +522,16 @@ Key stop on metals trade route
 
 ## References
 
-- [[The Phosphor Markets]]
-- [[The Phosphor Markets (D&D_References)]]
-
+- [[The Phosphor Markets
+- [The Phosphor Markets (D&D_References)]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

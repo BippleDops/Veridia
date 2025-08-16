@@ -20,9 +20,9 @@ tags: [generator, quest, ai-ready]
 - **Complex**: 5+ objectives, mini-campaign
 
 ### Dynamic Elements
-- **Complication**: {{Add twist mid-quest}}
-- **Moral Choice**: {{Create dilemma}}
-- **Time Pressure**: {{Optional deadline}}
+- **Complication**: 
+- **Moral Choice**: 
+- **Time Pressure**: 
 
 ---
 *Patterns learned from 1M+ improvements*

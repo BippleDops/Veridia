@@ -3,7 +3,7 @@ created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
-tags:
+tags: 
 - lore
 title: Lady Chamberlain Court Manager
 type: lore
@@ -51,5 +51,5 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[Royal Palace]]
-- [[Royal Palace (D&D_References)]]
+- [[Royal Palace
+- [Royal Palace (D&D_References)]]

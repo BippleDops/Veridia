@@ -1,10 +1,10 @@
 ---
 
 title: Memory Tide Events
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - status/complete
 - content/lore
 - quest
@@ -15,10 +15,10 @@ tags:
 created: '2025-08-12'
 modified: '2025-08-14'
 status: complete
-accessibility:
+accessibility: 
   content_warnings: []
   pronunciation: Memory Tide Events
-  safety_tools:
+  safety_tools: 
   - Lines & Veils
   - X-Card
   screen_reader_summary: This lore entry explains a pivotal principle or event and
@@ -46,7 +46,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -62,7 +62,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[region]]s
+- Describe how this culture exists in other [region]]s
 
 ### Superstitions Improvements
 
@@ -100,7 +100,7 @@ Memory Tide Events is a undersea element of the setting, known for bioluminescen
 
 Legends speak of Memory Tide Events as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memory Tide Events.
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -112,12 +112,12 @@ Memory Tide Events represents an important aspect of the world's history, cultur
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-## Historical [[Time|[[Time]]line]]
+## Historical [[Time|[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[People]]s
+- War with indigenous [[Peoples
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -165,10 +165,10 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[The Parliament of Nobody (Government_and_Parliament)]]
-- [[The Parliament of Nobody]]
-- [[The Seven Shards (D&D_References)]]
-- [[The Seven Shards 3 (D&D_References)]]
-- [[Diplomatic Tides (D&D_Statblocks)]]
-- [[Topic Matrix]]
-- [[Topic_Matrix (Indexes)]]
+- [The Parliament of Nobody (Government_and_Parliament)]]
+- [[The Parliament of Nobody
+- [The Seven Shards (D&D_References)]]
+- [[The Seven Shards 3 (D&D_References)
+- [Diplomatic Tides (D&D_Statblocks)]]
+- [[Topic Matrix
+- [Topic_Matrix (Indexes)]]

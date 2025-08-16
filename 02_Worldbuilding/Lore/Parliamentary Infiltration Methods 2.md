@@ -1,7 +1,7 @@
 ---
 created: '2025-08-12'
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/faction
@@ -17,14 +17,12 @@ updated: '2025-08-13T12:34:15.849247+00:00'
 world: Aquabyssos
 ---
 
-
-
 # Parliamentary Infiltration Methods
 *The Shadow Government Behind the Government*
 
 ## Overview
 
-The [[02_Worldbuilding/People/The Shadow Conspiracy|02 Worldbuilding/People/The Shadow Conspiracy]]'s most ambitious and successful operation involves the systematic infiltration and control of [[02_Worldbuilding/Places/Parliament of Echoes]], Aquabyssos's primary governing body. Through a combination of replacement, corruption, blackmail, and ideological conversion, shadow operatives now occupy an estimated 34% of all parliamentary seats, with influence over an additional 28% of representatives.
+The [[02_Worldbuilding/People/The Shadow Conspiracy|02 Worldbuilding/People/The Shadow Conspiracy's most ambitious and successful operation involves the systematic infiltration and control of [02_Worldbuilding/Places/Parliament of Echoes]], Aquabyssos's primary governing body. Through a combination of replacement, corruption, blackmail, and ideological conversion, shadow operatives now occupy an estimated 34% of all parliamentary seats, with influence over an additional 28% of representatives.
 
 This infiltration represents decades of careful planning and execution, transforming democratic governance into a puppet theater where shadow interests drive policy while maintaining the illusion of legitimate government. The operation's success lies not in crude takeover, but in subtle manipulation that makes shadow-influenced decisions appear to emerge naturally from democratic process.
 
@@ -124,7 +122,7 @@ With substantial parliamentary presence established, the conspiracy refined cont
 
 **Responsibilities**:
 - Strategic planning for legislative manipulation
-- Coordination with [[02_Worldbuilding/Places/Shadow Surgery Network]] for new replacements
+- Coordination with [[02_Worldbuilding/Places/Shadow Surgery Network for new replacements
 - Management of shadow operative parliamentary assignments
 - Interface with non-parliamentary shadow conspiracy operations
 
@@ -338,7 +336,7 @@ Links between parliamentary operations and broader shadow conspiracy:
 - Counter-infiltration operations attempting to identify and remove shadow agents
 
 ### External Opposition Groups
-**[[02_Worldbuilding/Groups/Investigate Shadow Surgeons|02 Worldbuilding/Groups/Investigate Shadow Surgeons]]**: Medical organization exposing shadow surgical operations and government medical facility connections
+**[02_Worldbuilding/Groups/Investigate Shadow Surgeons|02 Worldbuilding/Groups/Investigate Shadow Surgeons]]**: Medical organization exposing shadow surgical operations and government medical facility connections
 
 **The Purist Coalition**: Radical organization opposing any cooperation with shadow beings, including legitimate diplomatic relations
 

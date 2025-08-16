@@ -2,7 +2,7 @@
 created: '2025-08-11'
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - aethermoor
 - complete
 - content/location
@@ -14,14 +14,8 @@ updated: '2025-08-13T12:34:16.569755+00:00'
 world: Aethermoor
 ---
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-harbor-guild-the-harbor-guild.svg)
-
-
-
-
-
 
 ## Overview
 
@@ -62,35 +56,29 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Harbor Guild]]
+- [[02_Worldbuilding/Places/The Harbor Guild
 
 <!-- enriched: true -->
 
-
 ## Connections
 
-- [[02_Worldbuilding/People/The Crimson Shard Guardian]]
-
+- [02_Worldbuilding/People/The Crimson Shard Guardian]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

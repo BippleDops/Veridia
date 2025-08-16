@@ -1,13 +1,13 @@
 ---
 
 title: Infected Experiments
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
 - session-notes
 - status/complete
 - content/lore
-- world/[[Aethermoor]]
+- world/[Aethermoor]]
 - active
 - complete
 - aethermoor
@@ -15,10 +15,10 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-accessibility:
+accessibility: 
   content_warnings: []
   pronunciation: Infected Experiments
-  safety_tools:
+  safety_tools: 
   - Lines & Veils
   - X-Card
   screen_reader_summary: This lore entry explains a pivotal principle or event and
@@ -46,7 +46,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -74,7 +74,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[region]]s
+- Describe how this culture exists in other [region]]s
 
 ### Evolution Improvements
 
@@ -96,9 +96,9 @@ Infected Experiments is a undersea element of the setting, known for bioluminesc
 
 Legends speak of Infected Experiments as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Infected Experiments.
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [map]] use.
 
 ## Overview
 
@@ -108,12 +108,12 @@ Infected Experiments represents an important aspect of the world's history, cult
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-## Historical [[Time|[[Time]]line]]
+## Historical [[Time|[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[People]]s
+- War with indigenous [[Peoples
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -127,6 +127,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Aethermoor - Session 02 The Lighthouse of Storms]]
-- [[The Seven Shards (D&D_References)]]
-- [[The Seven Shards 3 (D&D_References)]]
+- [Aethermoor - Session 02 The Lighthouse of Storms]]
+- [[The Seven Shards (D&D_References)
+- [The Seven Shards 3 (D&D_References)]]

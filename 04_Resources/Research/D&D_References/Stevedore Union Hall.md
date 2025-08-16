@@ -2,7 +2,7 @@
 
 title: Stevedore Union Hall
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,10 +42,9 @@ updated: '2025-08-13T01:18:35.061304+00:00'
 
 - A letter reveals a conspiracy about the government
 - Strange disappearances suggest ancient magic
-- The authorities needs help finding before winter ## References - [[Port Meridian - Merchant Quarter]]
+- The authorities needs help finding before winter ## References - [[Port Meridian - Merchant Quarter
 
-- [[Port Meridian - Merchant Quarter (D&D_References)]]
-
+- [Port Meridian - Merchant Quarter (D&D_References)]]
 
 ## Notes
 

@@ -2,7 +2,7 @@
 
 title: Professor Cassius Newlight
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -44,12 +44,11 @@ updated: '2025-08-13T01:18:34.765988+00:00'
 
 - Strange disappearances suggest ancient magic
 - A stranger needs help finding before the festival
-- A map reveals a betrayal about this place ## Related Notes - [[Similar Topic 1]]
+- A map reveals a betrayal about this place ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

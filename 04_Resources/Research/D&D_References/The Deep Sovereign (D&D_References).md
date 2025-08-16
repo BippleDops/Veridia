@@ -2,7 +2,7 @@
 
 title: The Deep Sovereign (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,7 +43,6 @@ updated: '2025-08-13T01:18:35.012712+00:00'
 - A map reveals ancient history about this place
 - A letter reveals ancient history about a local noble
 - Someone is hunting information for power ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

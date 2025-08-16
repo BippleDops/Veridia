@@ -2,7 +2,7 @@
 
 title: Save the Citizens
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -55,19 +55,17 @@ Modern rescue operations use improved coordination systems and magical enhanceme
 2. Subsequently, **Monster Attack**: Citizens trapped during creature assault
 3. **Magical Catastrophe**: Dimensional instability threatens populated areas ## Campaign Use
 
-
 Provides moral weight to adventures and opportunities for heroic actions with lasting consequences. ## Player-Facing Summary Save the Citizens is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Save the Citizens as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Save the Citizens. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A shipment has gone missing and chaos spreads
 
 - A letter reveals ancient history about a local noble
 - A merchant needs help finding before the festival
-- An heirloom has gone missing and truth emerges ## Related Notes - [[Similar Topic 1]]
+- An heirloom has gone missing and truth emerges ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## References - [[Aethermoor Session 07 the Festival of Transformation]]
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## References - [[Aethermoor Session 07 the Festival of Transformation
 
-- [[Aethermoor Session 07 the Festival of]]
-
+- [Aethermoor Session 07 the Festival of]]
 
 ## Notes
 

@@ -2,7 +2,7 @@
 
 title: The Coral Throne (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,7 +42,6 @@ updated: '2025-08-13T01:18:34.607387+00:00'
 
 - A prisoner has gone missing and war looms
 - A merchant needs help delivering before the new moon ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

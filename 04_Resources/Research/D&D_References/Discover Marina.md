@@ -2,7 +2,7 @@
 
 title: Discover Marina
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -21,7 +21,6 @@ publish: false
  # Discover Marina ---
 
 ## Description
-
 
 **Summary**: Description - Key information at a glance.
 
@@ -106,12 +105,11 @@ updated: '2025-08-13T01:18:34.491683+00:00'
 - Discovery expands the known geography of Aquabyssos
 - Ancient preservation techniques influence current magical research
 - Historical revelations affect political relationships between modern factions
-- Success encourages further exploration of the deep ocean regions This quest provides an excellent introduction to the deeper mysteries of Aquabyssos while offering opportunities for exploration, puzzle-solving, and meaningful moral choices that can influence the broader campaign world. ## Player-Facing Summary Discover Marina is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Discover Marina as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Discover Marina. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession ## Prophecy Connection Mentioned in The Hidden Prophecy of Winds ## Related Notes - [[Similar Topic 1]]
+- Success encourages further exploration of the deep ocean regions This quest provides an excellent introduction to the deeper mysteries of Aquabyssos while offering opportunities for exploration, puzzle-solving, and meaningful moral choices that can influence the broader campaign world. ## Player-Facing Summary Discover Marina is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Discover Marina as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Discover Marina. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession ## Prophecy Connection Mentioned in The Hidden Prophecy of Winds ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

@@ -1,0 +1,92 @@
+---
+
+title: Barbarian Xphb Path of the Ancestral
+type: note
+tags: 
+- note
+
+created: '2025-01-15'
+modified: '2025-01-15'
+aliases: ["Barbarian Xphb Path of the Ancestral"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
+---
+
+ # Barbarian Xphb Path of the Ancestral ---
+
+## Description
+
+Detailed description pending.
+title: Barbarian Xphb Path of the Ancestral
+aliases:
+- Path of the Ancestral Guardian
+
+type: note
+tags:
+- ttrpg-cli/subclass/barbarian/ancestral-guardian
+- both
+- ttrpg-cli/compendium/src/5e/xge
+- research
+- world/both
+- active
+- note
+- status/in-progress
+
+created: 2025-07-23 12:39
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-class
+obsidian UIMode: preview
+updated: '2025-08-13T12:34:04.832974+00:00'
+world: Both
+
+--- # Path of the Ancestral Guardian
+
+*[[barbarian-xphb-path-of-the-ancestral-guardian-xge]]: Barbarian Subclass* *Source: Xanathar's Guide to Everything p. 9* > [!tldr] Class and Feature Progression
+
+> > Level PBFeatures
+> 1st+2
+> 2nd+2
+> 3rd+2Path of the Ancestral Guardian
+> 4th+2
+> 5th+3
+> 6th+3Spirit Shield
+> 7th+3
+> 8th+3
+> 9th+4
+> 10th+4Consult the Spirits
+> 11th+4
+> 12th+4
+> 13th+5
+> 14th+5Vengeful Ancestors
+> 15th+5
+> 16th+5
+> 17th+6
+> 18th+6
+> 19th+6
+> 20th+6 ^class-progression > [!caution] Mixed edition content
+> This subclass is from a different game edition. You will need to do some adjustment to resolve differences. ### Path of the Ancestral Guardian (Level 3) Some barbarians hail from cultures that revere their ancestors. These tribes teach that the warriors of the past linger in the world as mighty spirits, who can guide and protect the living. When a barbarian who follows this path rages, the barbarian contacts the spirit world and calls on these guardian spirits for aid. Barbarians who draw on their ancestral guardians can better fight to protect their tribes and their allies. In order to cement ties to their ancestral guardians, barbarians who follow this path cover themselves in elaborate tattoos that celebrate their ancestors' deeds. These tattoos tell sagas of victories against terrible monsters and other fearsome rivals. ### Ancestral Protectors (Level 3) Starting when you choose this path at 3rd level, spectral warriors appear when you enter your rage. While you're raging, the first creature you hit with an attack on your turn becomes the target of the warriors, which hinder its attacks. Until the start of your next turn, that target has disadvantage on any attack roll that isn't against you, and when the target hits a creature other than you with an attack, that creature has resistance to the damage dealt by the attack. The effect on the target ends early if your rage ends. ### Spirit Shield (Level 6) Beginning at 6th level, the guardian spirits that aid you can provide supernatural protection to those you defend. If you are raging and another creature you can see within 30 feet of you takes damage, you can use your reaction to reduce that damage by``dice: 2d6``. When you reach certain levels in this class, you can reduce the damage by more: by``dice: 3d6``at 10th level and by``dice: 4d6``at 14th level. ### Consult the Spirits (Level 10) At 10th level, you gain the ability to consult with your ancestral spirits. When you do so, you cast the [[augury-xphb (spells) or [clairvoyance-xphb (spells)]] spell, without using a spell slot or material components. Rather than creating a spherical sensor, this use of [[clairvoyance-xphb (spells)]] invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for these spells. After you cast either spell in this way, you can't use this feature again until you finish a short or long rest. ### Vengeful Ancestors (Level 14) At 14th level, your ancestral spirits grow powerful enough to retaliate. When you use your Spirit Shield to reduce the damage of an attack, the attacker takes an amount of force damage equal to the damage that your Spirit Shield prevents. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Barbarian xphb path of the ancestral guardian xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of barbarian xphb path of the ancestral guardian xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around barbarian xphb path of the ancestral guardian xge. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Strange accidents suggest a portal
+
+- A stranger needs help investigating before winter
+- A merchant needs help investigating before the festival
+- Strange disappearances suggest a curse
+
+## Notes
+
+*Additional notes*
+
+#story/plot
+#story/story
+#story/lore
+#world/location
+#world/world
+#world/setting
+#character/creature
+#character/monster
+#meta/reference

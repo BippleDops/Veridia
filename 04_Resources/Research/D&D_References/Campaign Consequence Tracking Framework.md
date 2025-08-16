@@ -2,7 +2,7 @@
 
 title: Campaign Consequence Tracking Framework
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -135,7 +135,6 @@ updated: '2025-08-13T04:22:13.765686+00:00'
 4. **Interconnection Mapping**: Show how consequences in one area affect other spheres
 5. **Player Agency Recognition**: Highlight how player choices specifically drove outcomes ### Assessment Criteria
 
-
 **Magnitude Scale (1-5):**
 - 1: Local, temporary effects
 - 2: Regional, short-term impacts
@@ -166,12 +165,11 @@ updated: '2025-08-13T04:22:13.765686+00:00'
 - Connections to overarching campaign themes ## Plot Hooks - A corpse reveals the truth about the government
 
 - A noble needs help finding before dawn
-- A shipment has gone missing and truth emerges ## Related Notes - [[Similar Topic 1]]
+- A shipment has gone missing and truth emerges ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

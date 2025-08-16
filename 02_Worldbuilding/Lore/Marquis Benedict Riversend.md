@@ -1,12 +1,12 @@
 ---
 
-title: [[Marquis Benedict Riversen]]d
-type: [[Lore]]
-tags:
+title: [[Marquis Benedict Riversend
+type: [Lore]]
+tags: 
 - lore
 - content/lore
-- content/[[location]]
-- world/[[Aethermoor]]
+- content/[[location
+- world/[Aethermoor]]
 - active
 - complete
 - status/in-progress
@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -62,7 +62,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[region]]s
+- Describe how this culture exists in other [region]]s
 
 ### Material_Culture Improvements
 
@@ -84,9 +84,9 @@ Marquis Benedict Riversend is a undersea element of the setting, known for biolu
 
 Legends speak of Marquis Benedict Riversend as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Marquis Benedict Riversend.
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [map]] use.
 
 ## [[Historical Context]]
 

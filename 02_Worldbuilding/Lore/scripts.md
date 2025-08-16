@@ -1,7 +1,7 @@
 ---
 title: scripts
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
 - worldbuilding
 - prophecy
@@ -17,7 +17,7 @@ scripts represents a crucial aspect of the world's history, cosmology, or fundam
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -27,9 +27,9 @@ scripts represents a crucial aspect of the world's history, cosmology, or fundam
 
 ## References
 
-- [[Kraken Territories]]
-- [[Military Moral Quandaries]]
-- [[Throne Room]]
-- [[Cathedral of Light]]
-- [[Sylvanheart]]
-- [[VAULT_MASTER_INDEX]]
+- [[Kraken Territories
+- [Military Moral Quandaries]]
+- [[Throne Room
+- [Cathedral of Light]]
+- [[Sylvanheart
+- [VAULT_MASTER_INDEX]]

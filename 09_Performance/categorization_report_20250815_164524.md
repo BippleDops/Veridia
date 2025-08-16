@@ -57,7 +57,6 @@ Files were evaluated against their neighbors and moved to appropriate categories
 - Quest - The Forge of Memory.md → should be 'npc'
 - QUEST00019_Main_Quest_20.md → should be 'npc'
 
-
 ## Files Moved
 
 ### Movement Summary
@@ -87,7 +86,9 @@ Files were evaluated against their neighbors and moved to appropriate categories
 **Item** (1 files)
 - 03_People/Character_Creation.md → 04_Resources/Items/Character_Creation.md
 
-**Lore** (1 files)
+> [!lore] World Lore
+> (1 files)
+
 - 03_People/Character_Creation_Extended.md.md → 02_Worldbuilding/Lore/Character_Creation_Extended.md.md
 
 **Npc** (64 files)
@@ -95,7 +96,6 @@ Files were evaluated against their neighbors and moved to appropriate categories
 - 02_Worldbuilding/Locations/Keeper Elara Mindwell.md → 03_People/Keeper Elara Mindwell.md
 - 02_Worldbuilding/Locations/Assets Portraits Portrait NPC Duke Blackwater S Estate Duke Blackwater S Estate.svg.md → 03_People/Assets Portraits Portrait NPC Duke Blackwater S Estate Duke Blackwater S Estate.svg.md
 - ... and 61 more
-
 
 ## Recommendations
 

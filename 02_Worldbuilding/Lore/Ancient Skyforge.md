@@ -1,8 +1,8 @@
 ---
 
-title: Ancient [[Skyforge]]
-type: [[Lore]]
-tags:
+title: Ancient [[Skyforge
+type: [Lore]]
+tags: 
 - lore
 - both
 - aerial
@@ -12,7 +12,7 @@ tags:
 - active
 - complete
 - status/in-progress
-- [[Aethermoor]]
+- [[Aethermoor
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -36,7 +36,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -68,7 +68,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[region]]s
+- Describe how this culture exists in other [[regions
 
 ### Contradictions Improvements
 
@@ -82,7 +82,7 @@ Ancient Skyforge is a sky-borne element of the setting, known for brass fittings
 
 Legends speak of Ancient Skyforge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ancient Skyforge.
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -90,7 +90,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 Ancient Skyforge represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
 
-## [[Historical Context]]
+## [[Historical Context
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -102,12 +102,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 Mentioned in The Hidden Prophecy of Shadows
 
-## Historical [[Time|[[Time]]line]]
+## Historical [[Time|[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[People]]s
+- War with indigenous [[Peoples
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -151,4 +151,4 @@ Mentioned in The Hidden Prophecy of Shadows
 
 ## References
 
-- [[Ancient Skyforge Complex]]
+- [Ancient Skyforge Complex]]

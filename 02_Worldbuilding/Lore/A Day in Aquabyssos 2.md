@@ -2,7 +2,7 @@
 created: '2025-08-12'
 created_by: claude
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - cultural-guide
@@ -18,15 +18,12 @@ updated: '2025-08-13T12:34:15.840456+00:00'
 world: Aquabyssos
 ---
 
-
-
-
 # A Day in Aquabyssos
 *Life Beneath the Waves: Daily Rhythms of the Deep*
 
 ## Overview
 
-Life in [[02_Worldbuilding/Places/Aquabyssos]] flows with the natural rhythms of the ocean depths, shaped by pressure cycles, bioluminescent patterns, and the eternal dance of current and tide. The underwater realm's inhabitants have evolved complex daily routines that blend practicality with the unique challenges and opportunities of their aquatic existence.
+Life in [[02_Worldbuilding/Places/Aquabyssos flows with the natural rhythms of the ocean depths, shaped by pressure cycles, bioluminescent patterns, and the eternal dance of current and tide. The underwater realm's inhabitants have evolved complex daily routines that blend practicality with the unique challenges and opportunities of their aquatic existence.
 
 ## The Aquabyssos Day Cycle
 
@@ -553,12 +550,12 @@ From the early morning pressure adjustments to the evening social gatherings, ev
 ---
 
 **Related Topics**:
-- [[02_Worldbuilding/Lore/Aethermoor Daily Rhythms]]
-- [[02_Worldbuilding/Lore/Working Class Routines]]
-- [[02_Worldbuilding/Lore/Noble Leisure Schedules]]
+- [02_Worldbuilding/Lore/Aethermoor Daily Rhythms]]
+- [[02_Worldbuilding/Lore/Working Class Routines
+- [02_Worldbuilding/Lore/Noble Leisure Schedules]]
 - Child Life In The Realms
-- [[02_Worldbuilding/Places/Pressure Terminal]]
-- [[02_Worldbuilding/Places/The Hadal Depths]]
+- [[02_Worldbuilding/Places/Pressure Terminal
+- [02_Worldbuilding/Places/The Hadal Depths]]
 - Aquabyssos Culture And Society
 
 ## Player-Facing Summary

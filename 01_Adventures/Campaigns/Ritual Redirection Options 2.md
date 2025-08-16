@@ -3,7 +3,7 @@ created: '2025-08-08'
 created_by: auto-stub
 expanded: 2025-08-10
 status: complete
-tags:
+tags: 
 - aethermoor
 - complete
 - content/lore
@@ -19,9 +19,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.228670+00:00'
 world: Aethermoor
 ---
-
-
-
 
 # Ritual Redirection Options
 
@@ -347,31 +344,31 @@ Characters can learn redirection as a specialized skill requiring both magical a
 - **Magical Interference**: -1 to -6 penalty
 
 ### Redirection Difficulty Classes
-**Basic Redirections** (DC 12-15)
+**Basic Redirections** (**DC 12**-15)
 - Simple target changes
 - Minor effect modifications
 - Duration adjustments
 - Range modifications
 
-**Intermediate Redirections** (DC 16-20)
+**Intermediate Redirections** (**DC 16**-20)
 - Purpose transformations
 - Element conversions
 - Multi-target splitting
 - Temporal adjustments
 
-**Advanced Redirections** (DC 21-25)
+**Advanced Redirections** (**DC 21**-25)
 - Cross-school integration
 - Reality alterations
 - Dimensional shifting
 - Power amplification
 
-**Master Redirections** (DC 26-30)
+**Master Redirections** (**DC 26**-30)
 - Conceptual changes
 - Retroactive modifications
 - Fundamental force manipulation
 - Divine intervention
 
-**Legendary Redirections** (DC 31+)
+**Legendary Redirections** (**DC 31**+)
 - Reality rewriting
 - Consciousness transfer
 - Natural law alteration
@@ -402,21 +399,21 @@ Characters can learn redirection as a specialized skill requiring both magical a
 
 ## Connected References
 
-- [[02_Worldbuilding/Groups/Academies/Academy of Redirection]] - Primary training institution
-- [[02_Worldbuilding/Lore/Archmage Deflector Windturner]] - Technique pioneer
+- [[02_Worldbuilding/Groups/Academies/Academy of Redirection - Primary training institution
+- [02_Worldbuilding/Lore/Archmage Deflector Windturner]] - Technique pioneer
 - Seven Pillars Of Redirection Theory - Theoretical framework
-- [[02_Worldbuilding/Lore/Royal Redirection Corps]] - Military application
+- [[02_Worldbuilding/Lore/Royal Redirection Corps - Military application
 - War Of Burning Skies - Historical origin conflict
-- [[02_Worldbuilding/Lore/Storm of Eternal Lightning]] - Cautionary disaster
+- [02_Worldbuilding/Lore/Storm of Eternal Lightning]] - Cautionary disaster
 - Board Of Redirection Ethics - Regulatory organization
 - Institute Of Redirection Studies - Research facility
-- [[02_Worldbuilding/Groups/Guilds/Redirector's Guild]] - Professional organization
+- [[02_Worldbuilding/Groups/Guilds/Redirector's Guild - Professional organization
 - Department Of Subtle Interventions - Intelligence application
-- [[02_Worldbuilding/Lore/Project Mindbridge]] - Experimental research program
+- [02_Worldbuilding/Lore/Project Mindbridge]] - Experimental research program
 - Redirection Syndrome - Occupational hazard condition
-- [[02_Worldbuilding/Lore/The Last Resort Procedures]] - Emergency protocols
-- [[02_Worldbuilding/Lore/Etheric Currents]] - Magical theory foundation
-- [[02_Worldbuilding/Lore/Intervention Windows]] - Timing technique
+- [[02_Worldbuilding/Lore/The Last Resort Procedures - Emergency protocols
+- [02_Worldbuilding/Lore/Etheric Currents]] - Magical theory foundation
+- [[02_Worldbuilding/Lore/Intervention Windows - Timing technique
 
 ## Future Implications
 
@@ -428,10 +425,9 @@ Perhaps most significantly, the theoretical possibility of **Retroactive Redirec
 
 The field of Ritual Redirection Options continues to push the boundaries of what magic can accomplish, representing both humanity's greatest magical achievement and its most dangerous temptation to reshape reality according to will rather than wisdom.
 
-
 ## Connections
 
-- [[1-Session Journals/Aethermoor - Session 05 The Queens Madness]]
+- [1-Session Journals/Aethermoor - Session 05 The Queens Madness]]
 
 ## Player-Facing Summary
 

@@ -2,7 +2,7 @@
 
 title: The Banshee Caverns
 type: Location
-tags:
+tags: 
 - aquabyssos
 - world/aquabyssos
 - content/location
@@ -208,11 +208,9 @@ Key stop on textiles trade route
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

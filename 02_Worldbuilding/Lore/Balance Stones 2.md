@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - both
 - complete
 - content/lore
@@ -13,14 +13,9 @@ updated: '2025-08-13T12:34:15.895861+00:00'
 world: Both
 ---
 
-
-
-
-
-
 ## Overview
 
-Balance Stones are mystical crystalline formations that exist simultaneously in both [[02_Worldbuilding/Lore/Aquabyssos World Guide|Aquabyssos]] and [[02_Worldbuilding/Lore/Aethermoor World Guide|Aethermoor]], serving as anchor points that maintain the delicate equilibrium between the two realms. These remarkable artifacts appear as pairs of identical crystals—one manifesting underwater in Aquabyssos, the other floating in the skies of Aethermoor—that share a mystical connection transcending dimensional boundaries. When one stone's balance is disturbed, its paired counterpart immediately responds, making them crucial for monitoring inter-realm stability.
+Balance Stones are mystical crystalline formations that exist simultaneously in both [[02_Worldbuilding/Lore/Aquabyssos World Guide|Aquabyssos and [02_Worldbuilding/Lore/Aethermoor World Guide|Aethermoor]], serving as anchor points that maintain the delicate equilibrium between the two realms. These remarkable artifacts appear as pairs of identical crystals—one manifesting underwater in Aquabyssos, the other floating in the skies of Aethermoor—that share a mystical connection transcending dimensional boundaries. When one stone's balance is disturbed, its paired counterpart immediately responds, making them crucial for monitoring inter-realm stability.
 
 ## Historical Context
 
@@ -30,7 +25,7 @@ During the **Sundering Wars** (678-682 AC), several Balance Stones were weaponiz
 
 ## Current Relevance
 
-Today, Balance Stones serve multiple crucial functions in maintaining inter-realm relations and monitoring dimensional health. The **[[02_Worldbuilding/Groups/Orders/Order of the Deep Vigil|Order of Balance]]** maintains careful watch over these sites, recording fluctuations and interpreting their meaning for both governmental and scholarly purposes.
+Today, Balance Stones serve multiple crucial functions in maintaining inter-realm relations and monitoring dimensional health. The **[[02_Worldbuilding/Groups/Orders/Order of the Deep Vigil|Order of Balance** maintains careful watch over these sites, recording fluctuations and interpreting their meaning for both governmental and scholarly purposes.
 
 **Dimensional Monitoring**: The stones provide early warning of potential reality breaches, dimensional storms, or other threats to realm stability. Changes in their resonance patterns often precede major inter-dimensional events by days or weeks.
 
@@ -40,10 +35,10 @@ Today, Balance Stones serve multiple crucial functions in maintaining inter-real
 
 ## See Also
 
-- [[02_Worldbuilding/Lore/Crystal Technology|Crystal Harmonics]]
-- [[02_Worldbuilding/Lore/Dimensional Fabric|Dimensional Studies]]
-- [[02_Worldbuilding/Groups/Orders/Order of the Deep Vigil|Order of Balance]]
-- [[02_Worldbuilding/Lore/Cross-Realm Navigation Cooperation|Inter-Realm Navigation]]
+- [02_Worldbuilding/Lore/Crystal Technology|Crystal Harmonics]]
+- [[02_Worldbuilding/Lore/Dimensional Fabric|Dimensional Studies
+- [02_Worldbuilding/Groups/Orders/Order of the Deep Vigil|Order of Balance]]
+- [[02_Worldbuilding/Lore/Cross-Realm Navigation Cooperation|Inter-Realm Navigation
 
 ## Player-Facing Summary
 
@@ -57,7 +52,7 @@ Each Balance Stone stands approximately thirty feet tall and varies in color fro
 
 **The Balance Keepers**: Each stone is protected by specially trained guardians who have undergone rituals that attune them to the stones' frequencies. These individuals develop the ability to sense dimensional fluctuations through their connection to the stones, but the process gradually changes them, making them less fully human and more like living embodiments of inter-dimensional balance.
 
-**Corruption Threats**: [[02_Worldbuilding/Lore/Crystal Corruption|Corrupted Balance Stones]] represent one of the greatest threats to both realms. When a Balance Stone falls to corruption, its paired stone begins exhibiting chaotic behavior, potentially triggering dimensional storms or reality breaches. Several stones have been lost to corruption over the centuries, their locations carefully guarded secrets known only to the highest levels of both governments.
+**Corruption Threats**: [02_Worldbuilding/Lore/Crystal Corruption|Corrupted Balance Stones]] represent one of the greatest threats to both realms. When a Balance Stone falls to corruption, its paired stone begins exhibiting chaotic behavior, potentially triggering dimensional storms or reality breaches. Several stones have been lost to corruption over the centuries, their locations carefully guarded secrets known only to the highest levels of both governments.
 
 **Forbidden Research**: Despite treaties forbidding it, rumors persist that both realms continue to study the stones' properties for potential military applications. The possibility of creating artificial Balance Stones or disrupting enemy stones remains a tempting but catastrophically dangerous prospect.
 
@@ -77,9 +72,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - Nature's Balance]]
-
+- [[02_Worldbuilding/Quests/Quest - Nature's Balance
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Quest - Nature's Balance]]
+- [02_Worldbuilding/Quests/Quest - Nature's Balance]]

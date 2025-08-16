@@ -2,7 +2,7 @@
 
 title: The Singer Beyond (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -47,7 +47,6 @@ The Singer Beyond describes a turning current in history where choices about mem
 
 - Someone is searching for an heir for money
 - Someone is hunting an heir for revenge ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

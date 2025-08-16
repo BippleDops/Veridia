@@ -2,7 +2,7 @@
 
 title: Memory Pearls
 type: Item
-tags:
+tags: 
 - aquabyssos
 - memory-farmers
 - status/complete
@@ -18,7 +18,7 @@ modified: '2025-08-14'
 status: complete
 rarity: Uncommon to Legendary (varies by content)
 value: Unknown
-affiliation: '[[Memory Farmers]] (Primary Creators)'
+affiliation: '[[Memory Farmers (Primary Creators)'
 created_by: Claude
 current_location: Various Markets and Collections Throughout Aquabyssos
 danger_level: 2
@@ -82,7 +82,7 @@ improvements: 20
 - Detail common objects and their cultural significance
 
 ## Overview
-Memory Pearls represent the pinnacle of [[Memory Farmers]]' art—living memories crystallized into beautiful, opalescent spheres that can be consumed to experience another's memories firsthand. Unlike crude memory extraction, these pearls preserve the full emotional and sensory context of experiences, allowing the consumer to literally live through moments from someone else's life. The pearls vary greatly in size, quality, and content, from simple skill memories to profound life experiences that can fundamentally change a person's understanding of the world.
+Memory Pearls represent the pinnacle of [Memory Farmers]]' art—living memories crystallized into beautiful, opalescent spheres that can be consumed to experience another's memories firsthand. Unlike crude memory extraction, these pearls preserve the full emotional and sensory context of experiences, allowing the consumer to literally live through moments from someone else's life. The pearls vary greatly in size, quality, and content, from simple skill memories to profound life experiences that can fundamentally change a person's understanding of the world.
 
 #### The Memory Thief
 **Level**: 5-10  
@@ -207,12 +207,12 @@ Memory Pearls is a remarkable item of significant craftsmanship. Its appearance 
 
 ## References
 
-- [[Ancient Aquabyssos Rulers]]
-- [[Aquabyssos Cultural Codex]]
-- [[The Grand Trade Routes]]
-- [[Tidal Memory Ceremonies]]
-- [[Sister Morwyn]]
-- [[The Azure Coast]]
-- [[The Great Drowning]]
-- [[The Void Touched Depths]]
+- [[Ancient Aquabyssos Rulers
+- [Aquabyssos Cultural Codex]]
+- [[The Grand Trade Routes
+- [Tidal Memory Ceremonies]]
+- [[Sister Morwyn
+- [The Azure Coast]]
+- [[The Great Drowning
+- [The Void Touched Depths]]
 - [[Sister Morwyn (D&D_References)]]

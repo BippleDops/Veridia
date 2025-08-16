@@ -4,17 +4,17 @@ created: '2025-08-09'
 danger_level: 3
 government: Multiple City-States and Kingdoms
 length: 400 miles of coastline
-major_cities:
-- '[[02_Worldbuilding/Places/Port Meridian]]'
-- '[[02_Worldbuilding/Places/Goldspire Port]]'
+major_cities: 
+- '[[02_Worldbuilding/Places/Port Meridian'
+- '[02_Worldbuilding/Places/Goldspire Port]]'
 - Azure Bay
 population: 850000
-related_entities:
-- '[[02_Worldbuilding/Places/The Cerulean Archipelago]]'
+related_entities: 
+- '[[02_Worldbuilding/Places/The Cerulean Archipelago'
 - 'Aquabyssos Ambassadors'
-- '[[02_Worldbuilding/Groups/The Crimson Fleet]]'
+- '[02_Worldbuilding/Groups/The Crimson Fleet]]'
 status: draft
-tags:
+tags: 
 - aethermoor
 - coastal
 - coastal-region
@@ -32,27 +32,22 @@ updated: '2025-08-13T12:34:16.883238+00:00'
 world: Aethermoor
 ---
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-azure-coast-the-azure-coast.svg)
-
-
-
-
 
 # The Azure Coast
 *The Golden Shore of Maritime Commerce*
 
 ## Overview
 
-The Azure Coast stretches along the western edge of [[02_Worldbuilding/Places/Aethermoor]], forming the continent's primary maritime frontier and its most prosperous trading region. Named for the distinctive blue-tinted waters created by underwater crystal formations, this 400-mile coastline serves as the main interface between the surface world and the underwater realm of [[02_Worldbuilding/Places/Aquabyssos]].
+The Azure Coast stretches along the western edge of [[02_Worldbuilding/Places/Aethermoor, forming the continent's primary maritime frontier and its most prosperous trading region. Named for the distinctive blue-tinted waters created by underwater crystal formations, this 400-mile coastline serves as the main interface between the surface world and the underwater realm of [02_Worldbuilding/Places/Aquabyssos]].
 
-From the great port city of [[02_Worldbuilding/Places/Port Meridian]] in the north to the lighthouse settlements of the southern capes, the Azure Coast represents both opportunity and danger. Here, surface merchants trade with underwater diplomats, pirates prey upon wealthy cargo vessels, and ancient ruins emerge from the tides during the lowest waters of the season.
+From the great port city of [[02_Worldbuilding/Places/Port Meridian in the north to the lighthouse settlements of the southern capes, the Azure Coast represents both opportunity and danger. Here, surface merchants trade with underwater diplomats, pirates prey upon wealthy cargo vessels, and ancient ruins emerge from the tides during the lowest waters of the season.
 
 ## Geography & Climate
 
 ### Coastal Features
-**The Great Harbor**: Natural deep-water bay hosting [[02_Worldbuilding/Places/Port Meridian]]
+**The Great Harbor**: Natural deep-water bay hosting [02_Worldbuilding/Places/Port Meridian]]
 **Crystal Tide Pools**: Shallow areas where underwater crystal formations create magical effects
 **The Merchant Straits**: Narrow channels between mainland and coastal islands
 **Sorrow Point**: Dangerous rocky headland known for shipwrecks
@@ -103,7 +98,7 @@ The Azure Coast enjoys a temperate maritime climate moderated by warm currents f
 
 ### Maritime Trade
 **Surface-Underwater Commerce**: Primary economic driver of the region
-- Memory pearls, pressure-adapted tools, deep-sea delicacies from [[02_Worldbuilding/Places/Aquabyssos]]
+- Memory pearls, pressure-adapted tools, deep-sea delicacies from [[02_Worldbuilding/Places/Aquabyssos
 - Crystal technology, preserved foods, manufactured goods to underwater markets
 - Specialized vessels designed for inter-realm transport
 - Translation and cultural consultation services
@@ -124,7 +119,7 @@ The Azure Coast enjoys a temperate maritime climate moderated by warm currents f
 
 ### Maritime Routes
 **The Great Circle**: Major shipping lane connecting all coastal cities
-**The Deep Current**: Underwater route used by [[02_Worldbuilding/Places/Aquabyssos]] vessels
+**The Deep Current**: Underwater route used by [02_Worldbuilding/Places/Aquabyssos]] vessels
 **The Smuggler's Run**: Hidden passages between islands and coves
 **The Emergency Channel**: Coastal route for vessels in distress
 
@@ -140,7 +135,7 @@ The Azure Coast enjoys a temperate maritime climate moderated by warm currents f
 Loose confederation of city-states cooperating on:
 - Maritime security and anti-piracy operations
 - Trade regulation and standardization
-- Diplomatic relations with [[02_Worldbuilding/Places/Aquabyssos]]
+- Diplomatic relations with [[02_Worldbuilding/Places/Aquabyssos
 - Environmental protection of coastal resources
 
 ### Member States
@@ -150,9 +145,9 @@ Loose confederation of city-states cooperating on:
 **The Lighthouse League**: Navigational services and coastal safety
 
 ### External Relations
-- Regular diplomatic contact with [[02_Worldbuilding/Places/Crystalhaven]] and inland kingdoms
-- Formal treaties with [[02_Worldbuilding/Places/Aquabyssos]] through Aquabyssos Ambassadors
-- Ongoing negotiations with [[02_Worldbuilding/Places/The Cerulean Archipelago]] island nations
+- Regular diplomatic contact with [02_Worldbuilding/Places/Crystalhaven]] and inland kingdoms
+- Formal treaties with [[02_Worldbuilding/Places/Aquabyssos through Aquabyssos Ambassadors
+- Ongoing negotiations with [02_Worldbuilding/Places/The Cerulean Archipelago]] island nations
 - Tense relationships with various pirate organizations
 
 ## Dangers & Threats
@@ -160,7 +155,7 @@ Loose confederation of city-states cooperating on:
 ### Maritime Hazards
 **The Crimson Fleet**: Organized pirates targeting wealthy merchant vessels
 **Rogue Storms**: Magical weather phenomena from deep ocean interactions
-**Sea Monsters**: Creatures from [[02_Worldbuilding/Places/Aquabyssos]] depths occasionally surface
+**Sea Monsters**: Creatures from [[02_Worldbuilding/Places/Aquabyssos depths occasionally surface
 **Sorrow Rocks**: Treacherous waters claiming numerous ships annually
 
 ### Political Tensions
@@ -208,7 +203,7 @@ Loose confederation of city-states cooperating on:
 *Sacred site for both surface and underwater cultures*
 - Natural crystal formations creating stunning visual displays
 - Pilgrimage destination for those seeking magical insight
-- Research location for [[02_Worldbuilding/Lore/Arcanum Heights]] scholars
+- Research location for [02_Worldbuilding/Lore/Arcanum Heights]] scholars
 - Carefully protected by international agreement
 
 ### The Shipwright's Confederation Yards
@@ -220,7 +215,7 @@ Loose confederation of city-states cooperating on:
 
 ### The Ruins of Old Meridian
 *Ancient city revealed only during extreme low tides*
-- Pre-[[02_Worldbuilding/Lore/The Great Drowning|02 Worldbuilding/Lore/The Great Drowning]] settlement
+- Pre-[[02_Worldbuilding/Lore/The Great Drowning|02 Worldbuilding/Lore/The Great Drowning settlement
 - Contains valuable archaeological artifacts
 - Dangerous to explore due to tidal timing
 - Source of ongoing academic and treasure-hunting expeditions
@@ -228,7 +223,7 @@ Loose confederation of city-states cooperating on:
 ## Quest Hooks
 
 1. **The Missing Diplomatic Pouch**: Important documents disappear during inter-realm negotiations
-2. **The Pirate Alliance**: [[02_Worldbuilding/Groups/The Crimson Fleet]] forms dangerous new partnerships
+2. **The Pirate Alliance**: [02_Worldbuilding/Groups/The Crimson Fleet]] forms dangerous new partnerships
 3. **The Tidal Excavation**: Race against time to explore ruins before waters return
 4. **The Crystal Shortage**: Vital magical resources begin disappearing from tidal pools
 5. **The Storm Warning**: Unusual weather patterns threaten the entire coastal economy
@@ -273,14 +268,14 @@ EOF < /dev/null
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Merchant Princes]]
-- [[02_Worldbuilding/Lore/The Great Crystallization]]
-- [[02_Worldbuilding/Lore/The Seven Shards]]
-- [[02_Worldbuilding/People/The Azure Prophet Nerissa]]
-- [[02_Worldbuilding/Places/Port Meridian]]
-- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Groups/Merchant Princes
+- [02_Worldbuilding/Lore/The Great Crystallization]]
+- [[02_Worldbuilding/Lore/The Seven Shards
+- [02_Worldbuilding/People/The Azure Prophet Nerissa]]
+- [[02_Worldbuilding/Places/Port Meridian
+- [02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos
+- [02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -306,21 +301,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 
-
 ## Atmosphere
 - Mood and feeling
 - Sensory details
-
 
 ## Resources
 - Natural resources
 - Trade goods
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

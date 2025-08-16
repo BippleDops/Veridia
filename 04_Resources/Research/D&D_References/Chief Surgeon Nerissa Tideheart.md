@@ -2,7 +2,7 @@
 
 title: Chief Surgeon Nerissa Tideheart
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,10 +42,9 @@ updated: '2025-08-13T01:18:34.990397+00:00'
 
 - Someone is blackmailing an heir for power
 - A letter reveals the truth about a local noble
-- A letter reveals the truth about the cult ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Investigate Shadow Surgeons (Criminal_Organizations)]]
+- A letter reveals the truth about the cult ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Investigate Shadow Surgeons (Criminal_Organizations)
 
-- [[Investigate Shadow Surgeons]]
-
+- [Investigate Shadow Surgeons]]
 
 ## Notes
 

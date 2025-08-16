@@ -2,7 +2,7 @@
 
 title: Deep Dragons (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,7 +42,6 @@ updated: '2025-08-13T01:18:35.855965+00:00'
 
 - Strange dreams suggest a portal
 - A letter reveals a betrayal about this place ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

@@ -1,22 +1,22 @@
 ---
 title: Senior Resoce Engineer Harmony Deepnote
 type: note
-tags:
+tags: 
 - auto-generated
-- [[Link]]ed
+- [[Linked
 created: '2025-01-15'
 ---
 
 # Senior Resoce Engineer Harmony Deepnote
 
 ## Overview
-This topic is referenced in [[Resonance Peaks]] and other parts of the campaign.
+This topic is referenced in [Resonance Peaks]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Resonance Peaks]]
+- Referenced by: [[Resonance Peaks
 - Related topics in the same category
 
 ## Details
@@ -29,5 +29,5 @@ Further information about this topic will be developed as the campaign progresse
 
 ## References
 
-- [[Resonance Peaks]]
+- [Resonance Peaks]]
 - [[Resonance Peaks (D&D_References)]]

@@ -3,7 +3,7 @@ created: '2025-08-08'
 created_by: auto-stub
 expanded: 2025-08-10
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/lore
@@ -19,9 +19,6 @@ type: Lore
 updated: '2025-08-13T12:34:15.960025+00:00'
 world: Aquabyssos
 ---
-
-
-
 
 # Deep Mother Influence
 
@@ -272,9 +269,9 @@ Characters accumulate influence points based on exposure:
 
 ### Resistance Mechanics
 **Saving Throws:**
-- **Wisdom saves** against psychological influence (DC 10 + current influence level)
-- **Constitution saves** against physical transformation (DC 12 + current influence level)
-- **Charisma saves** against social isolation effects (DC 8 + current influence level)
+- **Wisdom saves** against psychological influence (**DC 10** + current influence level)
+- **Constitution saves** against physical transformation (**DC 12** + current influence level)
+- **Charisma saves** against social isolation effects (**DC 8** + current influence level)
 
 **Protective Factors:**
 - **Strong social connections**: Advantage on resistance saves
@@ -284,29 +281,29 @@ Characters accumulate influence points based on exposure:
 - **Regular surface exposure**: Remove 1 influence point per week above 100m depth
 
 ### Treatment Options
-**Purification Rituals** (DC 15 + influence level, removes 2d4 points)
-**Medical Treatment** (DC 12 + influence level, removes 1d3 points)
-**Magical Intervention** (DC 18 + influence level, removes 3d6 points)
-**Social Rehabilitation** (DC 10 + influence level, prevents accumulation for 1 month)
-**Technological Cleansing** (DC 20 + influence level, removes all points but causes exhaustion)
+**Purification Rituals** (**DC 15** + influence level, removes `dice: 2d4` points)
+**Medical Treatment** (**DC 12** + influence level, removes `dice: 1d3` points)
+**Magical Intervention** (**DC 18** + influence level, removes `dice: 3d6` points)
+**Social Rehabilitation** (**DC 10** + influence level, prevents accumulation for 1 month)
+**Technological Cleansing** (**DC 20** + influence level, removes all points but causes exhaustion)
 
 ## Connected References
 
-- [[02_Worldbuilding/Lore/The Deep Mother]] - Source entity of the influence
-- [[02_Worldbuilding/Groups/Cults_and_Movements/Pressure Cult]] - Organization of willingly influenced individuals
-- [[02_Worldbuilding/Lore/Deep Threat Assessment Bureau]] - Government agency monitoring influence
+- [[02_Worldbuilding/Lore/The Deep Mother - Source entity of the influence
+- [02_Worldbuilding/Groups/Cults_and_Movements/Pressure Cult]] - Organization of willingly influenced individuals
+- [[02_Worldbuilding/Lore/Deep Threat Assessment Bureau - Government agency monitoring influence
 - Maritime Research Institute - Academic institution studying influence
 - Abyssal Plains - High-concentration influence zone
-- [[02_Worldbuilding/Lore/Thermal Vent Fields]] - Natural influence amplification areas
+- [02_Worldbuilding/Lore/Thermal Vent Fields]] - Natural influence amplification areas
 - The Great Convergence - Prophesied event requiring influenced individuals
 - Depth Navy - Military force with significant influence exposure
-- [[02_Worldbuilding/Lore/Purification Chambers]] - Technology for treating influence
-- [[02_Worldbuilding/Lore/Reality Anchoring]] - Technique for resisting influence
+- [[02_Worldbuilding/Lore/Purification Chambers - Technology for treating influence
+- [02_Worldbuilding/Lore/Reality Anchoring]] - Technique for resisting influence
 - Influence Detectors - Equipment for measuring corruption
-- [[02_Worldbuilding/Lore/The Ancient Compact]] - Historical treaty with Deep Mother
+- [[02_Worldbuilding/Lore/The Ancient Compact - Historical treaty with Deep Mother
 - Abyssal Trading Consortium - Commercial organization under investigation
-- [[02_Worldbuilding/Lore/Benthic Commune]] - Historical example of mass influence event
-- [[02_Worldbuilding/Lore/Professor Abyssal Deepthought]] - Academic who founded Pressure Cult
+- [02_Worldbuilding/Lore/Benthic Commune]] - Historical example of mass influence event
+- [[02_Worldbuilding/Lore/Professor Abyssal Deepthought - Academic who founded Pressure Cult
 
 ## Long-term Implications
 
@@ -314,14 +311,13 @@ The Deep Mother's influence represents both the greatest threat and potentially 
 
 As the influence continues to spread and evolve, future generations may face a choice between remaining purely human but increasingly unable to survive in the deepest parts of their world, or accepting transformation that grants survival at the cost of independence. The resolution of this dilemma will likely determine the ultimate fate of civilization in Aquabyssos.
 
-
 ## Connections
 
-- [[02_Worldbuilding/Lore/Healing Two Worlds]]
-- [[02_Worldbuilding/Lore/Merged Reality Zones]]
-- [[02_Worldbuilding/Lore/The Deep Mother]]
-- [[02_Worldbuilding/Lore/The Transformed Citizens]]
-- [[1-Session Journals/Aethermoor - Session 05 The Queens Madness]]
+- [02_Worldbuilding/Lore/Healing Two Worlds]]
+- [[02_Worldbuilding/Lore/Merged Reality Zones
+- [02_Worldbuilding/Lore/The Deep Mother]]
+- [[02_Worldbuilding/Lore/The Transformed Citizens
+- [1-Session Journals/Aethermoor - Session 05 The Queens Madness]]
 
 ## Player-Facing Summary
 

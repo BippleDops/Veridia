@@ -2,7 +2,7 @@
 
 title: Harbor Master Nereid Deepcurrent
 type: Location
-tags:
+tags: 
 - aquabyssos
 - world/aquabyssos
 - content/location
@@ -214,19 +214,16 @@ Key stop on textiles trade route
 
 ## References
 
-- [[Captain Rescue]]
-- [[Captain Rescue (D&D_References)]]
-
+- [[Captain Rescue
+- [Captain Rescue (D&D_References)]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

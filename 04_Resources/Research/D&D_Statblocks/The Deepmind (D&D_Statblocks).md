@@ -2,7 +2,7 @@
 
 title: The Deepmind (D&D_Statblocks)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -59,7 +59,7 @@ danger_level: Moderate
 
 *The Living Palace of Thought, Memory Made Manifest, The Neural Throne* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
-The Deepmind is a massive organic structure that serves as both the lair and extended body of [[Aboleth Prime Yoth|02 Worldbuilding/People/Aboleth Prime Yoth]]. Located in the crushing depths beneath [[Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]], this living dungeon has grown over twelve millennia from Yoth's own flesh and psychic emanations. It functions as a physical manifestation of collective memory, storing the stolen thoughts and experiences of countless beings within its pulsing, neural architecture. ### Approaching the Structure
+The Deepmind is a massive organic structure that serves as both the lair and extended body of [[Aboleth Prime Yoth|02 Worldbuilding/People/Aboleth Prime Yoth. Located in the crushing depths beneath [Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]], this living dungeon has grown over twelve millennia from Yoth's own flesh and psychic emanations. It functions as a physical manifestation of collective memory, storing the stolen thoughts and experiences of countless beings within its pulsing, neural architecture. ### Approaching the Structure
 
 Travelers approaching The Deepmind experience:
 1. **1 Mile Out**: Intrusive thoughts begin
@@ -67,7 +67,6 @@ Travelers approaching The Deepmind experience:
 3. **¼ Mile Out**: Identity confusion sets in
 4. **100 Yards**: Full psychic assault begins
 5. **Contact**: Must pass Will save or be absorbed ### Level 1: The Synaptic Gates
-
 
 **Purpose**: Filter and trap intruders
 - **Neural Locks**: Doors opened by specific memories
@@ -106,11 +105,10 @@ Travelers approaching The Deepmind experience:
 
 Yoth can take one lair action per round:
 1. **Memory Flood**: All creatures relive worst memory (stunned 1 round)
-2. **Neural Shock**: 60-ft radius, 4d6 psychic damage
+2. **Neural Shock**: 60-ft radius, `dice: 4d6` psychic damage
 3. **Identity Swap**: Two creatures exchange personalities for 1 minute
 4. **Thought Manifest**: Create CR 10 creature from someone's fear
 5. **Temporal Recursion**: Reset everyone's position to 1 round ago ### The Museum of Stolen Lives
-
 
 **Description**: Gallery displaying complete absorbed identities
 - **Exhibits**: Crystallized personalities in display cases
@@ -136,13 +134,11 @@ Yoth can take one lair action per round:
 4. **The Lost Expedition**: Find explorers absorbed years ago
 5. **Prophet Extraction**: Free a seer trapped in prophecy pools ### Infiltration Objectives
 
-
 1. **Sabotage the Collective**: Disrupt Yoth's hive mind
 2. **Political Intelligence**: Discover Parliament manipulation
 3. **Shadow Source**: Find origin of shadow corruption
 4. **Memory Virus**: Plant false memories in system
 5. **Deep Mother Connection**: Sever or strengthen divine link ### Epic Campaigns
-
 
 1. **Assault on The Deepmind**: Full frontal attack
 2. **The Memory War**: Battle for control of collective consciousness
@@ -150,13 +146,11 @@ Yoth can take one lair action per round:
 4. **Reality Revision**: Rewrite history through memory manipulation
 5. **The Mind Merge**: Become one with The Deepmind to control it ### Relevant Items
 
-
-- [[Mind Shield Helm]] - Protection against absorption
-- [[Memory Blade]] - Weapon that cuts thoughts
-- [[Identity Anchor]] - Prevents personality loss
-- [[Neural Key]] - Opens thought-locked doors
+- [[Mind Shield Helm - Protection against absorption
+- [Memory Blade]] - Weapon that cuts thoughts
+- [[Identity Anchor - Prevents personality loss
+- [Neural Key]] - Opens thought-locked doors
 - [[The Collective Codex]] - Map of The Deepmind --- *"In the depths of The Deepmind, you are what you remember—nothing more, nothing less."* ## Player-Facing Summary The Deepmind is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Deepmind as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Deepmind. ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

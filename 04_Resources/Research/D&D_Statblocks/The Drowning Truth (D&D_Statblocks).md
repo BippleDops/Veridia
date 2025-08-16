@@ -2,7 +2,7 @@
 
 title: The Drowning Truth (D&D_Statblocks)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -74,15 +74,15 @@ Three hundred years ago, the accused heretic Malthorn demanded trial by Truth. H
 The famous lovers Coral and Pearl entered together, vowing their love was true. Only Pearl emerged. The truth of what happened remains in the sphere, too terrible for her to speak. ### The Truth Keepers **Confessor Absolute** (CR 13)
 
 *The primary guardian who has lived in truth for 47 years* *Medium humanoid (human), lawful neutral* **Armor Class** 16 (truth's clarity)
-**Hit Points** 150 (20d8 + 60)
+**Hit Points** 150 (`dice: 20d8` + 60)
 **Speed** 30 ft., swim 40 ft. STR 12 (+1), DEX 16 (+3), CON 16 (+3), INT 18 (+4), WIS 22 (+6), CHA 8 (-1) **Saving Throws** Int +8, Wis +10, Cha +3
 **Skills** Insight +14, Investigation +8, Perception +10
 **Damage Immunities** psychic
 **Condition Immunities** charmed, frightened
 **Senses** truesight 120 ft., passive Perception 20
 **Languages** All (understands intent beyond words)
-**Challenge** 13 (10,000 XP) **Absolute Honesty.** The Confessor cannot lie or be deceived. Any creature within 30 feet must make a DC 18 Wisdom saving throw to speak a deliberate falsehood. **Truth Sight.** The Confessor sees all things as they truly are. No illusion, shapeshifting, or deception can fool them. **Painful Honesty.** When the Confessor speaks a truth about a creature, that creature must make a DC 18 Wisdom saving throw or take 14 (4d6) psychic damage and be stunned for 1 round as they confront the reality. **Actions**
-**Multiattack.** The Confessor makes three Revelation attacks. **Revelation.** *Melee or Ranged Spell Attack:* +10 to hit, reach 5 ft. Or range 60 ft., one target. *Hit:* 18 (4d8) psychic damage, and the target must reveal one secret (no save). **Unveiling (Recharge 5-6).** The Confessor forces all creatures within 60 feet to see themselves as they truly are. Each creature must make a DC 18 Wisdom saving throw or be paralyzed for 1 minute as they confront their true nature. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. **Legendary Actions**
+**Challenge** 13 (10,000 XP) **Absolute Honesty.** The Confessor cannot lie or be deceived. Any creature within 30 feet must make a **DC 18** Wisdom saving throw to speak a deliberate falsehood. **Truth Sight.** The Confessor sees all things as they truly are. No illusion, shapeshifting, or deception can fool them. **Painful Honesty.** When the Confessor speaks a truth about a creature, that creature must make a **DC 18** Wisdom saving throw or take 14 (`dice: 4d6`) psychic damage and be stunned for 1 round as they confront the reality. **Actions**
+**Multiattack.** The Confessor makes three Revelation attacks. **Revelation.** *Melee or Ranged Spell Attack:* +10 to hit, reach 5 ft. Or range 60 ft., one target. *Hit:* 18 (`dice: 4d8`) psychic damage, and the target must reveal one secret (no save). **Unveiling (Recharge 5-6).** The Confessor forces all creatures within 60 feet to see themselves as they truly are. Each creature must make a **DC 18** Wisdom saving throw or be paralyzed for 1 minute as they confront their true nature. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. **Legendary Actions**
 
 The Confessor can take 3 legendary actions.
 - **Perceive.** The Confessor learns one truth about a creature they can see.
@@ -91,14 +91,14 @@ The Confessor can take 3 legendary actions.
 
 Beings who entered seeking truth but couldn't leave: **Truth-Drowned Soul** (CR 7)
 *Medium undead, neutral* **Armor Class** 14
-**Hit Points** 75 (10d8 + 30)
+**Hit Points** 75 (`dice: 10d8` + 30)
 **Speed** 0 ft., swim 30 ft. STR 14 (+2), DEX 12 (+1), CON 16 (+3), INT 10 (+0), WIS 17 (+3), CHA 6 (-2) **Damage Resistances** necrotic, psychic
 **Damage Immunities** poison
 **Condition Immunities** charmed, exhaustion, frightened, poisoned
 **Senses** darkvision 60 ft., passive Perception 13
 **Languages** Any languages it knew in life
-**Challenge** 7 (2,900 XP) **Bound by Truth.** The soul cannot leave the Drowning Truth and cannot speak any falsehood. **Compulsive Honesty.** Any creature within 10 feet must make a DC 15 Wisdom saving throw at the start of their turn or be compelled to speak only truth for that turn. **Actions**
-**Truth Drain.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 21 (6d6) necrotic damage, and the target must confess their greatest shame (no save). **Wail of Honesty (Recharge 5-6).** The soul screams a terrible truth. Each creature within 30 feet must make a DC 15 Wisdom saving throw or take 27 (6d8) psychic damage and be frightened for 1 minute. ### The Living Paradox
+**Challenge** 7 (2,900 XP) **Bound by Truth.** The soul cannot leave the Drowning Truth and cannot speak any falsehood. **Compulsive Honesty.** Any creature within 10 feet must make a **DC 15** Wisdom saving throw at the start of their turn or be compelled to speak only truth for that turn. **Actions**
+**Truth Drain.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 21 (`dice: 6d6`) necrotic damage, and the target must confess their greatest shame (no save). **Wail of Honesty (Recharge 5-6).** The soul screams a terrible truth. Each creature within 30 feet must make a **DC 15** Wisdom saving throw or take 27 (`dice: 6d8`) psychic damage and be frightened for 1 minute. ### The Living Paradox
 
 A being that exists because they simultaneously are and aren't:
 - Speaks only in contradictions that are true
@@ -166,11 +166,10 @@ Dying individuals speak their last truths:
 
 **Benefit**: Soul passes peacefully ### Truth Pressure Effects | Depth | Physical Effect | Mental Effect | Save DC |
 
-
 |-------|----------------|---------------|---------|
 | Outer Shell | Mild discomfort | Minor anxiety | WIS 10 |
 | Middle Layer | Crushing pressure | Cannot lie | WIS 15 |
-| Inner Core | 4d10 damage/round | Complete honesty | WIS 20 |
+| Inner Core | `dice: 4d10` damage/round | Complete honesty | WIS 20 |
 | Center Point | Instant death | Become truth itself | WIS 30 | ### Honesty Overflow
 
 When too many truths release at once:
@@ -212,7 +211,7 @@ Crystallized honesty with various properties: **Minor Truth Crystal** (500 gp)
 - Protects wearer from truth effects
 - Allows lying in the Drowning Truth
 - Three charges per day
-- Each use damages the soul (1d4 Wisdom damage) ### The Confession Bottle
+- Each use damages the soul (`dice: 1d4` Wisdom damage) ### The Confession Bottle
 
 *Wondrous item, uncommon*
 - Stores one truth spoken into it
@@ -274,16 +273,15 @@ The sphere raises questions:
 - Rewrite false histories
 - Challenge gods' lies ## See Also
 
-- [[02_Worldbuilding]]
-- [[Groups]]
-- [[People]]
-- [[Honesty_Mechanics]]
+- [[02_Worldbuilding
+- [Groups]]
+- [[People
+- [Honesty_Mechanics]]
 - [[The Philosophical Depths]] *"In the Drowning Truth, we all become what we fear most: ourselves."* ## Player-Facing Summary The Drowning Truth is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Drowning Truth as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Drowning Truth. ## Plot Hooks - Someone is searching for a witness for power
 
 - Strange disappearances suggest a conspiracy
 - Someone is blackmailing an heir for power
 - A stranger needs help stealing before the new moon ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

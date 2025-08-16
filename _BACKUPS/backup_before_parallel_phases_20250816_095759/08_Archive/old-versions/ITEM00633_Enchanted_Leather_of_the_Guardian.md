@@ -1,0 +1,38 @@
+---
+aliases: ["Enchanted Leather of the Guardian", "enchanted leather of the guardian", "Enchanted Leather of Guardian", "Guardian the of Leather Enchanted"]
+tags: [item, equipment]
+type: item
+---
+
+# Enchanted Leather of the Guardian
+
+*Armor, Common*
+
+**ID**: ITEM00633
+
+## Description
+Protective leather enhanced with enchantments
+
+## Appearance
+A enchanted leather shimmering with energy
+
+## Properties
+- Advantage on saving throws
+
+## History
+Crafted as payment for a life debt
+
+**Created by**: The Crimson Brotherhood of artificers
+
+## Value
+78 gp
+
+**Weight**: 10 lbs
+
+## DM Notes
+- Adjust properties for campaign balance
+- Consider the item's history for plot hooks
+- The creator might still be alive (or undead)
+
+---
+*Generated: 2025-08-15T03:51:03.400Z*

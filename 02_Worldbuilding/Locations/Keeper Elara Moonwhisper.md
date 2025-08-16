@@ -1,7 +1,7 @@
 ---
 title: Keeper Elara Moonwhisper
 type: Location
-tags:
+tags: 
 - library
 - status/complete
 - mechanics/magic
@@ -144,19 +144,16 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[Garden of Shadows]]
-- [[Crystalhaven (D&D_References)]]
-
+- [[Garden of Shadows
+- [Crystalhaven (D&D_References)]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

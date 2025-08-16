@@ -1,15 +1,14 @@
 ---
 enhanced: true
 tags: [enhanced, 03_people]
-created: 2025-08-15T12:24:43.127805
-modified: 2025-08-15T12:24:43.127808
+created: "2025-08-15T12:24:43.127805"
+modified: "2025-08-15T12:24:43.127808"
 aliases: [NPC Roster]
 ---
 
 # Npc Roster
 
 > *Every scar tells a story...* This remarkable element adds depth and intrigue to any campaign.
-
 
 ## Overview
 
@@ -80,14 +79,12 @@ modified: '2025-08-14' --- ## Major NPCs | Name | Role | Location | Status |
 - Hidden knowledge
 - Personal mysteries
 
-
 **Key Question**: What drives this character's actions?
 ## Session Prep
 - **Read Aloud Text**: Prepared descriptions for key moments
 - **Key NPCs**: Important characters for this content
 - **Props Needed**: Physical or digital aids to enhance play
 - **Estimated Time**: How long this typically takes to run
-
 
 *Adventure awaits those brave enough to seek it.*
 

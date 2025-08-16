@@ -2,7 +2,7 @@
 
 title: The Dockworkers Union
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,7 +43,6 @@ updated: '2025-08-13T01:18:35.142894+00:00'
 - A shipment has gone missing and evil awakens
 - A stranger needs help delivering before winter
 - The authorities needs help delivering before dawn ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

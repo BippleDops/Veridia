@@ -1,10 +1,10 @@
 ---
-accessibility:
-  content_warnings:
+accessibility: 
+  content_warnings: 
   - political coercion
   - environmental hazards
   pronunciation: Surface Signals
-  safety_tools:
+  safety_tools: 
   - Lines & Veils
   - X-Card
   - Open Door
@@ -14,7 +14,7 @@ accessibility:
 created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -26,12 +26,9 @@ updated: '2025-08-13T12:34:16.936205+00:00'
 world: Aquabyssos
 ---
 
-
-
-
 # Surface Signals
 
-![[04_Resources/Assets/Art/Places/Surface_Signals.png|Surface Signals Portrait]]
+![[04_Resources/Assets/Art/Places/Surface_Signals.png|Surface Signals Portrait
 
 *The crackling voices from the world above the waves*
 
@@ -155,7 +152,7 @@ A destroyed station that still receives but can also send:
 *Medium humanoid (human), neutral*
 
 **Armor Class** 15 (signal shroud)
-**Hit Points** 120 (16d8 + 48)
+**Hit Points** 120 (`dice: 16d8` + 48)
 **Speed** 30 ft., swim 30 ft.
 
 STR 10 (+0), DEX 14 (+2), CON 16 (+3), INT 18 (+4), WIS 20 (+5), CHA 14 (+2)
@@ -176,9 +173,9 @@ STR 10 (+0), DEX 14 (+2), CON 16 (+3), INT 18 (+4), WIS 20 (+5), CHA 14 (+2)
 **Actions**
 **Multiattack.** Wavelength makes two Signal Burst attacks.
 
-**Signal Burst.** *Ranged Spell Attack:* +9 to hit, range 120 ft., one target. *Hit:* 22 (4d10) thunder damage and target is deafened for 1 minute.
+**Signal Burst.** *Ranged Spell Attack:* +9 to hit, range 120 ft., one target. *Hit:* 22 (`dice: 4d10`) thunder damage and target is deafened for 1 minute.
 
-**Broadcast Storm (Recharge 5-6).** Wavelength unleashes a cacophony of signals. Each creature within 30 feet must make a DC 17 Wisdom saving throw or take 45 (10d8) psychic damage and be stunned for 1 round as they experience hundreds of simultaneous messages.
+**Broadcast Storm (Recharge 5-6).** Wavelength unleashes a cacophony of signals. Each creature within 30 feet must make a **DC 17** Wisdom saving throw or take 45 (`dice: 10d8`) psychic damage and be stunned for 1 round as they experience hundreds of simultaneous messages.
 
 **Legendary Actions**
 Wavelength can take 2 legendary actions.
@@ -445,11 +442,11 @@ Surface Signals serves as:
 ---
 
 ## See Also
-- [[02_Worldbuilding/Groups/The Signal Keepers|02 Worldbuilding/Groups/The Signal Keepers]]
-- [[02_Worldbuilding/Lore/The Frequency Wars|02 Worldbuilding/Lore/The Frequency Wars]]
-- [[02_Worldbuilding/Places/The Twilight Reaches|02 Worldbuilding/Places/The Twilight Reaches]]
-- [[03_Mechanics/Communication_Systems|03 Mechanics/Communication Systems]]
-- [[02_Worldbuilding/Lore/Surface World Theories|02 Worldbuilding/Lore/Surface World Theories]]
+- [02_Worldbuilding/Groups/The Signal Keepers|02 Worldbuilding/Groups/The Signal Keepers]]
+- [[02_Worldbuilding/Lore/The Frequency Wars|02 Worldbuilding/Lore/The Frequency Wars
+- [02_Worldbuilding/Places/The Twilight Reaches|02 Worldbuilding/Places/The Twilight Reaches]]
+- [[03_Mechanics/Communication_Systems|03 Mechanics/Communication Systems
+- [02_Worldbuilding/Lore/Surface World Theories|02 Worldbuilding/Lore/Surface World Theories]]
 
 *"In Surface Signals, we hear the voices of worlds that were, worlds that might be, and worlds that never should exist—all calling to us through the crushing darkness of the deep."*
 
@@ -467,21 +464,17 @@ Legends speak of Surface Signals as a nexus where past and present converge. Loc
 
 <!-- enriched: true -->
 
-
 ## Atmosphere
 - Mood and feeling
 - Sensory details
-
 
 ## Resources
 - Natural resources
 - Trade goods
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

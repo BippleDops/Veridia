@@ -2,7 +2,7 @@
 
 title: The Last Priest
 type: Location
-tags:
+tags: 
 - aquabyssos
 - status/complete
 - religious
@@ -269,19 +269,16 @@ Key stop on metals trade route
 
 ## References
 
-- [[Old Valdris]]
-- [[Old Valdris (D&D_References)]]
-
+- [[Old Valdris
+- [Old Valdris (D&D_References)]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

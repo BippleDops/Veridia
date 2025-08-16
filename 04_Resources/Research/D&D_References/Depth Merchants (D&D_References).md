@@ -2,7 +2,7 @@
 
 title: Depth Merchants (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -55,14 +55,14 @@ specialties:
 established: ~300 years ago
 updated: '2025-08-11T00:00:00+00:00'
 related_entities:
-- '[[Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]]'
-- '[[Free Current|02 Worldbuilding/Places/Free Current]]'
-- '[[The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]]'
-- '[[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'
+- '[[Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium'
+- '[Free Current|02 Worldbuilding/Places/Free Current]]'
+- '[[The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows'
+- '[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'
 
 --- > [!figure] View # Depth Merchants
 
-*Where the Deep Ocean Yields Its Treasures* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The Depth Merchants district represents [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]'s most ambitious commercial endeavor - a thriving trading hub built in the crushing depths of the deep ocean, where few dare to venture and fewer still can survive. Located at depths ranging from 3,000 to 5,000 feet below the surface, this merchant quarter specializes in the extraction, processing, and trade of resources that can only be found in the deepest reaches of the ocean. More than just a market, the Depth Merchants district is a testament to aquatic ingenuity and adaptation. The entire community has evolved to thrive under extreme pressure conditions that would instantly kill surface dwellers and crush most inhabitants of the shallower regions of [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. The merchants here deal in goods and services that exist nowhere else in the known world - from pressure-forged metals that are stronger than any surface alloy, to bioluminescent organisms that create light without heat, to the mysterious memory crystals that form only in the crushing darkness of the deep trenches. The district serves as both the primary supplier of deep-ocean resources to the rest of [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] and as a crucial waystation for explorers, researchers, and traders seeking to venture into the deepest and most dangerous parts of the underwater realm. Its merchants have developed a reputation for being able to acquire virtually anything from the depths - for the right price and with enough advance notice. ### Extreme Pressure Environment
+*Where the Deep Ocean Yields Its Treasures* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The Depth Merchants district represents [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos's most ambitious commercial endeavor - a thriving trading hub built in the crushing depths of the deep ocean, where few dare to venture and fewer still can survive. Located at depths ranging from 3,000 to 5,000 feet below the surface, this merchant quarter specializes in the extraction, processing, and trade of resources that can only be found in the deepest reaches of the ocean. More than just a market, the Depth Merchants district is a testament to aquatic ingenuity and adaptation. The entire community has evolved to thrive under extreme pressure conditions that would instantly kill surface dwellers and crush most inhabitants of the shallower regions of [Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. The merchants here deal in goods and services that exist nowhere else in the known world - from pressure-forged metals that are stronger than any surface alloy, to bioluminescent organisms that create light without heat, to the mysterious memory crystals that form only in the crushing darkness of the deep trenches. The district serves as both the primary supplier of deep-ocean resources to the rest of [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos and as a crucial waystation for explorers, researchers, and traders seeking to venture into the deepest and most dangerous parts of the underwater realm. Its merchants have developed a reputation for being able to acquire virtually anything from the depths - for the right price and with enough advance notice. ### Extreme Pressure Environment
 
 The defining characteristic of the Depth Merchants district is the incredible water pressure at its operating depths: #### Pressure Specifications
 
@@ -254,7 +254,7 @@ Living at crushing depths has created unique cultural practices and social adapt
 **Features**:
 - Council chambers where major commercial decisions affecting the entire district are made
 - Luxury reception halls for entertaining important trading partners
-- Advanced communication facilities connecting to the surface and other parts of [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]
+- Advanced communication facilities connecting to the surface and other parts of [Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]
 - Private quarters for visiting dignitaries and high-ranking merchants
 - Treasury vaults protecting valuable deep-ocean resources and trade agreements **Security**: Sophisticated protection systems designed for both the extreme environment and valuable contents
 
@@ -321,7 +321,7 @@ Living at crushing depths has created unique cultural practices and social adapt
 **Environmental Regulations**: Increasing restrictions on deep-ocean commercial activities
 **Cultural Conflicts**: Tensions with newly discovered deep-ocean civilizations
 **Government Oversight**: Expanding regulation of deep-ocean commercial operations
-**International Relations**: Deep-ocean trade affecting relationships between different parts of [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] #### Criminal Activity
+**International Relations**: Deep-ocean trade affecting relationships between different parts of [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos #### Criminal Activity
 
 **Resource Piracy**: Theft of valuable deep-ocean goods during transportation
 **Equipment Sabotage**: Attacks on critical infrastructure by competitors or enemies
@@ -332,10 +332,10 @@ Living at crushing depths has created unique cultural practices and social adapt
 **Deep-Ocean Predators**: Massive creatures that can attack facilities and personnel
 **Unknown Entities**: Encounters with dangerous deep-ocean life forms or phenomena
 **Equipment Failure**: Critical systems breaking down in hostile environment with limited repair options
-**Communication Breakdown**: Loss of contact with surface and other parts of [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]
+**Communication Breakdown**: Loss of contact with surface and other parts of [Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]
 **Resource Conflicts**: Disputes with other deep-ocean communities over resource access #### Pressure Adaptation Requirements
 
-**Unprotected Exposure**: Constitution saving throw DC 25 every round or take 6d6 crushing damage
+**Unprotected Exposure**: Constitution saving throw **DC 25** every round or take `dice: 6d6` crushing damage
 **Pressure Suits**: Provide protection but reduce Dexterity by 2 and impose disadvantage on stealth
 **Biological Adaptation**: Natural or magical adaptation allows normal function but limits where character can safely travel
 **Decompression Sickness**: Rapid depth changes require Constitution saves to avoid exhaustion and other effects #### Environmental Challenges
@@ -365,12 +365,11 @@ Living at crushing depths has created unique cultural practices and social adapt
 **Territory Disputes**: Mediate or take sides in conflicts over deep-ocean resource extraction rights
 **Regulatory Compliance**: Help merchants navigate complex regulations governing deep-ocean commerce ## Player-Facing Summary Depth Merchants is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Depth Merchants as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Depth Merchants. ## Related *Links to related content will be added here.* ## Plot Hooks - A merchant needs help finding before the new moon
 
-- A shipment has gone missing and chaos spreads ## Related Notes - [[Similar Topic 1]]
+- A shipment has gone missing and chaos spreads ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

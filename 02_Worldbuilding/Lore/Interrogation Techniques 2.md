@@ -1,7 +1,7 @@
 ---
 type: Lore
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - interrogation
@@ -14,8 +14,6 @@ created_by: auto-stub
 created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
-
-
 
 # Interrogation Techniques
 
@@ -48,16 +46,15 @@ Interrogation sessions typically last 1-4 hours with breaks for subject welfare.
 ## Campaign Use
 Provides framework for investigation scenes and adds realism to law enforcement encounters.
 
-
 ## Connections
 
 - Evidence Chain Analysis
-- [[02_Worldbuilding/Lore/Evidence Types Guide]]
-- [[02_Worldbuilding/Lore/Silver Mask]]
-- [[02_Worldbuilding/Lore/The Deep Mother]]
-- [[02_Worldbuilding/Lore/The Restoration Movement]]
-- [[02_Worldbuilding/Lore/The Seven Shards]]
-- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
+- [[02_Worldbuilding/Lore/Evidence Types Guide
+- [02_Worldbuilding/Lore/Silver Mask]]
+- [[02_Worldbuilding/Lore/The Deep Mother
+- [02_Worldbuilding/Lore/The Restoration Movement]]
+- [[02_Worldbuilding/Lore/The Seven Shards
+- [02_Worldbuilding/Lore/The Silverscale Conspiracy]]
 
 ## Player-Facing Summary
 

@@ -2,7 +2,7 @@
 
 title: The Memory Research Institute
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -41,13 +41,12 @@ updated: '2025-08-13T01:18:35.191459+00:00'
 
 - A noble needs help stealing before dawn
 - A prisoner has gone missing and evil awakens
-- A stranger needs help stealing before the festival ## References - [[Crystal Garden]]
+- A stranger needs help stealing before the festival ## References - [[Crystal Garden
 
-- [[The Forgetting Bomb]]
-- [[Crystal Garden (D&D_References)]]
-- [[Crystal Garden 3 (D&D_References)]]
+- [The Forgetting Bomb]]
+- [[Crystal Garden (D&D_References)
+- [Crystal Garden 3 (D&D_References)]]
 - [[The Forgetting Bomb (D&D_References)]]
-
 
 ## Notes
 

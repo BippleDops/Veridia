@@ -2,7 +2,7 @@
 
 title: The Heroes' Hall (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,7 +42,6 @@ updated: '2025-08-13T01:18:35.360245+00:00'
 
 - The authorities needs help delivering before dawn
 - Strange dreams suggest a curse ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

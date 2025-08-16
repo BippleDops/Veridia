@@ -2,7 +2,7 @@
 
 title: The Deep Sovereign 3 (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -46,12 +46,11 @@ world: Aquabyssos
 
 - The authorities needs help delivering before the festival
 - Someone is hunting a witness for money
-- A stranger needs help stealing before winter ## Related Notes - [[Similar Topic 1]]
+- A stranger needs help stealing before winter ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

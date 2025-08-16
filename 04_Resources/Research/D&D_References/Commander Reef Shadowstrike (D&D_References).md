@@ -2,7 +2,7 @@
 
 title: Commander Reef Shadowstrike (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,7 +42,6 @@ danger_level: Moderate
 
 - A letter reveals ancient history about this place
 - Someone is hunting information for love ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

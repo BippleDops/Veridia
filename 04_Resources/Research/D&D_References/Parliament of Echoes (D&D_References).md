@@ -2,7 +2,7 @@
 
 title: Parliament of Echoes (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -60,7 +60,7 @@ A parallel body of shadows that meets in the same space but different phase:
 - Passes shadow legislation
 - Votes on original replacement
 - Planning the Dark Harvest
-- Led by [[Senator Glaucus]] ### The Empty Vote
+- Led by [[Senator Glaucus ### The Empty Vote
 
 A vote was cast 200 years ago with no record of the question. The result: uimous yes. Effects unknown but Parliament changed afterward. ### The Speaker's Curse
 
@@ -82,20 +82,17 @@ Something is imprisoned in Level 5. The seal weakens each time Parliament fails 
 11. Temporal loop—repeat last hour
 12. The Speaker's ghost manifests ## 🎯 Adventure Hooks 1. **The Lost Vote**: Find what question caused the Empty Vote
 
-
 2. **Speaker Selection**: Convince someone to take the throne
 3. **Timeline Repair**: Fix paradoxes before reality breaks
 4. **Shadow Legislation**: Infiltrate Shadow Parliament
 5. **Foundation Breach**: Explore Level 5's secrets
 6. **Memory Politics**: Trade memories for crucial votes
 7. **The Forgetting Cure**: Stop the quarterly amnesia
-8. **Echo Assassination**: Use old speeches as weapons > *"In the Parliament of Echoes, every word is law, every law is a ghost, and every ghost votes on the future."* ## Player-Facing Summary Parliament of Echoes is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Parliament of Echoes as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Parliament of Echoes. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Related Notes - [[Similar Topic 1]]
+8. **Echo Assassination**: Use old speeches as weapons > *"In the Parliament of Echoes, every word is law, every law is a ghost, and every ghost votes on the future."* ## Player-Facing Summary Parliament of Echoes is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Parliament of Echoes as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Parliament of Echoes. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Related Notes - [Similar Topic 1]]
 
-
-- [[Contrasting Approach]]
-- [[Advanced Version]]
+- [[Contrasting Approach
+- [Advanced Version]]
 - [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

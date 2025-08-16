@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Aquabyssos World Guide
 type: lore
-tags:
+tags: 
 - lore
 - worldbuilding
 - prophecy

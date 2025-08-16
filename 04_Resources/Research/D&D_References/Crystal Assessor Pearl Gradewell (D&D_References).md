@@ -2,7 +2,7 @@
 
 title: Crystal Assessor Pearl Gradewell (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -41,7 +41,6 @@ updated: '2025-08-13T01:18:35.719442+00:00'
 
 - A letter reveals the truth about a local noble
 - Someone is hunting an heir for money ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

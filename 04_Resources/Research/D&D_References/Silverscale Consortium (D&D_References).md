@@ -2,7 +2,7 @@
 
 title: Silverscale Consortium (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -40,11 +40,11 @@ tags:
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
-headquarters: '[[The Silver Tower of Commerce]]'
+headquarters: '[[The Silver Tower of Commerce'
 world: Aethermoor
 faction_type: Economic Power
 alignment: Lawful Neutral (leaning Evil)
-leader: '[[Zephyr Goldwhisper|02 Worldbuilding/People/Zephyr Goldwhisper]]'
+leader: '[Zephyr Goldwhisper|02 Worldbuilding/People/Zephyr Goldwhisper]]'
 members: ~50,000 employees, contractors, agents
 influence: Continental
 wealth: Controls 60% of crystal trade
@@ -60,10 +60,10 @@ obsidian UIMode: preview
 
 *Masters of the Crystal Market, The Invisible Crown, Merchants of Tomorrow* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
-The Silverscale Consortium is the most powerful economic entity in [[Aethermoor|02 Worldbuilding/Places/Aethermoor]], controlling the majority of crystal trade, banking, and increasingly, political power through debt manipulation. Founded 200 years ago by dragon-blooded merchants, the Consortium has evolved from a trading guild into a shadow government that rivals [[The Crown|02 Worldbuilding/Groups/The Crown]]'s authority. Their motto, "Silver flows where crowns fall," reflects their belief that economic power supersedes political authority. ### Foundation Era (200-150 Years Ago)
+The Silverscale Consortium is the most powerful economic entity in [[Aethermoor|02 Worldbuilding/Places/Aethermoor, controlling the majority of crystal trade, banking, and increasingly, political power through debt manipulation. Founded 200 years ago by dragon-blooded merchants, the Consortium has evolved from a trading guild into a shadow government that rivals [The Crown|02 Worldbuilding/Groups/The Crown]]'s authority. Their motto, "Silver flows where crowns fall," reflects their belief that economic power supersedes political authority. ### Foundation Era (200-150 Years Ago)
 
 **The Dragon's Deal**
-- Founded by [[Argyros the Silver]], an ancient silver dragon in human form
+- Founded by [[Argyros the Silver, an ancient silver dragon in human form
 - Initial capital from dragon's hoard
 - Established crystal commodity trading
 - Created first standardized currency backed by crystals
@@ -84,13 +84,13 @@ The Silverscale Consortium is the most powerful economic entity in [[Aethermoor|
 - Plans economic takeover of kingdom ### The Board of Scales
 
 **Executive Leadership**
-- **Chairman**: [[Zephyr Goldwhisper|02 Worldbuilding/People/Zephyr Goldwhisper]] - Visionary strategist
-- **Vice-Chair**: [[Countess Argentum Vaultkeeper]] - Banking division
-- **Scale of Trade**: [[Marcus Ledgerborn]] - Commerce operations
-- **Scale of Acquisition**: [[Lady Jade Clawgrip]] - Hostile takeovers
-- **Scale of Information**: [[The Nameless Auditor]] - Intelligence network
-- **Scale of Enforcement**: [[Commander Ironprice]] - Private military
-- **Scale of Innovation**: [[Master Artificer Korvin Gearwright|02 Worldbuilding/People/Master Artificer Korvin Gearwright]] - R&D #### Crystal Trading Division
+- **Chairman**: [Zephyr Goldwhisper|02 Worldbuilding/People/Zephyr Goldwhisper]] - Visionary strategist
+- **Vice-Chair**: [[Countess Argentum Vaultkeeper - Banking division
+- **Scale of Trade**: [Marcus Ledgerborn]] - Commerce operations
+- **Scale of Acquisition**: [[Lady Jade Clawgrip - Hostile takeovers
+- **Scale of Information**: [The Nameless Auditor]] - Intelligence network
+- **Scale of Enforcement**: [[Commander Ironprice - Private military
+- **Scale of Innovation**: [Master Artificer Korvin Gearwright|02 Worldbuilding/People/Master Artificer Korvin Gearwright]] - R&D #### Crystal Trading Division
 
 **Core Business**
 - Raw crystal acquisition
@@ -138,13 +138,11 @@ The Silverscale Consortium is the most powerful economic entity in [[Aethermoor|
 4. **Innovation**: Develop crystal technology
 5. **Philanthropy**: Strategic charity for PR ### Core Values (Public)
 
-
 1. "Prosperity through Innovation"
 2. "Fair Trade for All"
 3. "Building Tomorrow Today"
 4. "Crystal Clear Business"
 5. "Your Success is Our Success" ### Actual Principles
-
 
 1. Profit above all else
 2. Debt equals control
@@ -152,13 +150,11 @@ The Silverscale Consortium is the most powerful economic entity in [[Aethermoor|
 4. Information is currency
 5. Everything has a price ### Economic Intrigue
 
-
 1. **The Hostile Takeover**: Consortium targets party's patron
 2. **Market Crash**: Investigate manipulation
 3. **Debt Collection**: Enforce or prevent foreclosure
 4. **The Black Ledger**: Steal blackmail files
 5. **Crystal Cartel**: Break monopoly attempt ### Corporate Espionage
-
 
 1. **The Mole**: Identify spy in organization
 2. **Trade Secrets**: Steal crystal formulas
@@ -166,20 +162,17 @@ The Silverscale Consortium is the most powerful economic entity in [[Aethermoor|
 4. **The Whistleblower**: Protect informant
 5. **Double Agent**: Infiltrate Consortium ### Political Schemes
 
-
 1. **The Debt Crown**: Prevent kingdom takeover
 2. **Election Rigging**: Expose vote buying
 3. **Judicial Corruption**: Free innocent prisoner
 4. **Regulatory Battle**: Fight corporate law
 5. **The Silver Revolution**: Corporate coup attempt ### Important Items
 
-
-- [[The Black Ledger]] - Blackmail records
-- [[Crystal Futures Contracts]] - Market weapons
-- [[Debt Bonds]] - Control documents
-- [[The Silver Seal]] - Corporate authority
+- [[The Black Ledger - Blackmail records
+- [Crystal Futures Contracts]] - Market weapons
+- [[Debt Bonds - Control documents
+- [The Silver Seal]] - Corporate authority
 - [[Consortium Credit]] - Alternative currency --- *"In the Silverscale Consortium, we don't believe in good or evil—only profit and loss. And we always, always profit."* ## Player-Facing Summary Silverscale Consortium is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Silverscale Consortium as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Silverscale Consortium. ## Secret Connections *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession ## Prophecy Connection Mentioned in The Second Prophecy of Stars ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

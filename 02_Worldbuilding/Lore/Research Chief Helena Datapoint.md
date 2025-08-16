@@ -1,10 +1,10 @@
 ---
 
-title: Research Chief Helena [[data]]point
-type: [[Lore]]
-tags:
+title: Research Chief Helena [[datapoint
+type: [Lore]]
+tags: 
 - lore
-- [[Aquabyssos]]
+- [[Aquabyssos
 - world/aquabyssos
 - content/faction
 - content/lore
@@ -36,7 +36,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 

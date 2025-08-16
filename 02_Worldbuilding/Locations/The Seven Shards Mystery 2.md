@@ -6,7 +6,7 @@ created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - conspiracy
@@ -23,14 +23,8 @@ updated: '2025-08-13T12:34:16.625441+00:00'
 world: Aquabyssos
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-seven-shards-mystery-the-seven-shards-mystery.svg)
-
-
-
-
 
 # The Seven Shards Mystery
 
@@ -152,40 +146,29 @@ This theory is controversial and lacks concrete evidence, but it has gained trac
 - Various mystical orders provide divination services, though with limited success
 - International networks of scholars share information about shard-related discoveries
 
-
 ## Connections
 
-- [[02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide]]
-- [[02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-
+- [[02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide
+- [02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
+- [[02_Worldbuilding/Places/Parliament of Echoes
 
 ## History
 
-
 TODO
-
 
 ## Layout
 
-
 TODO
-
 
 ## Notables
 
-
 TODO
-
 
 ## Threats
 
-
 TODO
 
-
 ## Hooks
-
 
 TODO
 
@@ -203,25 +186,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Seven Shards Mystery]]
+- [02_Worldbuilding/Places/The Seven Shards Mystery]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

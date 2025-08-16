@@ -2,15 +2,15 @@
 tags: [journal, character, private]
 ---
 
-# Character Journal
+# [[Character Journal
 
-## Session Notes
+## [Session Notes]]
 <!-- Player's private notes -->
 
 ## Important NPCs
 <!-- NPCs from player's perspective -->
 
-## Personal Goals
+## [[Personal Goals
 <!-- Character's objectives -->
 
 ## Secrets
@@ -18,3 +18,25 @@ tags: [journal, character, private]
 
 ---
 *Private to player and DM*
+
+## [Session Summary]]
+*Brief overview of this session*
+
+## [[Key Events
+- Event 1
+- Event 2
+
+## NPCs Encountered
+- [[NPC [Name]]]] - Brief description
+
+## [[Locations Visited
+- [[[Location Name]]]] - What happened here
+
+## [[Quest Progress
+- [[[Quest Name]]]] - What was accomplished
+
+## Notes for [[Next Session]]
+- Important things to remember
+- Plot threads to follow up
+
+---

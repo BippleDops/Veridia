@@ -3,7 +3,7 @@ created: '2025-08-08'
 created_by: auto-stub
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -18,13 +18,8 @@ updated: '2025-08-13T12:34:17.064457+00:00'
 world: Aquabyssos
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-memory-parasite-infection-memory-parasite-infection.svg)
-
-
-
 
 # Memory Parasite Infection
 
@@ -157,10 +152,9 @@ The parasites are not native to local waters, suggesting either artificial intro
 ## DM Notes
 This outbreak provides opportunities for medical mysteries, social drama, and moral dilemmas about identity and memory. Consider how the infection affects NPCs players know, and whether memory loss is always purely negative.
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/Screaming Gardens]]
+- [[02_Worldbuilding/Places/Screaming Gardens
 
 ## Player-Facing Summary
 
@@ -172,30 +166,25 @@ Legends speak of Memory Parasite Infection as a nexus where past and present con
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Memory Parasite Infection]]
+- [02_Worldbuilding/Places/Memory Parasite Infection]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

@@ -2,7 +2,7 @@
 
 title: The Nightmare Surgeons
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -53,12 +53,10 @@ Ongoing organization with permanent effects on victims. Additionally, ## Adventu
 2. **Rescue Mission**: Extract victim from Nightmare Surgeon facility
 3. **Infiltration**: Go undercover to expose surgical conspiracy ## Campaign Use
 
-
 Provides body horror elements and moral complexity around medical ethics and desperate measures. ## Player-Facing Summary The Nightmare Surgeons is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Nightmare Surgeons as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Nightmare Surgeons. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is searching for a witness for love
 
 - Strange sightings suggest a conspiracy
 - Someone is protecting information for power ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

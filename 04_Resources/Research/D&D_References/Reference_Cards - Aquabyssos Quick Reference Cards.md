@@ -2,7 +2,7 @@
 
 title: Reference_Cards - Aquabyssos Quick Reference Cards
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -49,9 +49,9 @@ updated: '2025-08-13T01:18:31.122392+00:00'
 
 --- ### Quick Check
 
-**When Depth Changes:**```Going Deeper: DC 10 + (new depth ÷ 1000)
+**When Depth Changes:**```Going Deeper: **DC 10** + (new depth ÷ 1000)
 
-Going Up: DC 12 + (depth change ÷ 1000) ### Fast Resolution
+Going Up: **DC 12** + (depth change ÷ 1000) ### Fast Resolution
 
 | Save Result | Effect |
 |------------|--------|
@@ -63,9 +63,9 @@ Going Up: DC 12 + (depth change ÷ 1000) ### Fast Resolution
 **Roll d20 + (AP - 50)** | Total | Shadow Does... | Quick Fix |
 |-------|---------------|-----------|
 | 1-10 | Nothing unusual | — |
-| 11-15 | Delays movements | CHA DC 10 to sync |
-| 16-20 | Acts differently | CHA DC 15 to control |
-| 21-25 | Speaks to you | CHA DC 18 to quiet |
+| 11-15 | Delays movements | CHA **DC 10** to sync |
+| 16-20 | Acts differently | CHA **DC 15** to control |
+| 21-25 | Speaks to you | CHA **DC 18** to quiet |
 | 26+ | Fully independent | Negotiate or fight | ### Gaining Adaptation Points
 
 | Depth | AP per Hour | Visible Change |
@@ -95,11 +95,11 @@ Going Up: DC 12 + (depth change ÷ 1000) ### Fast Resolution
 
 | Trigger | Check |
 |---------|-------|
-| First depth sickness | WIS DC 10 |
-| Shadow acts alone | WIS DC 12 |
-| Meet duplicate | WIS DC 14 |
-| Timeline paradox | WIS DC 16 |
-| Reality breaks | WIS DC 18+ | ### Fast Madness (If Sanity < 5)
+| First depth sickness | WIS **DC 10** |
+| Shadow acts alone | WIS **DC 12** |
+| Meet duplicate | WIS **DC 14** |
+| Timeline paradox | WIS **DC 16** |
+| Reality breaks | WIS **DC 18**+ | ### Fast Madness (If Sanity < 5)
 
 Roll d6:
 1. **Paranoid**: Disadvantage on social
@@ -108,7 +108,6 @@ Roll d6:
 4. **Dissociated**: Don't recognize friends
 5. **Obsessed**: Focus on one thing only
 6. **Broken**: Catatonic for 1 hour --- ### Quick Personality Roll (d12)
-
 
 1. **Helpful** but wants something
 2. Subsequently, **Suspicious** of surface dwellers
@@ -123,14 +122,12 @@ Roll d6:
 11. **Neutral** professional
 12. **Roll twice** - complex personality ### Environmental Hazards (Roll d6)
 
-
-1. **Current**: DEX DC 12 or moved 10 ft
+1. **Current**: DEX **DC 12** or moved 10 ft
 2. **Debris**: Difficult terrain
 3. **Darkness**: Heavily obscured
 4. **Pressure wall**: Can't pass without check
 5. **Memory kelp**: WIS save or distracted
 6. **Shadow zone**: Shadows act randomly --- ### Between Districts (Abyssos Prime)
-
 
 | From → To | Walking | Current Rider | Express |
 |-----------|---------|---------------|---------|
@@ -142,7 +139,7 @@ Roll d6:
 |--------|--------|----------|----------|
 | 500 ft | 1 hr | 2 hrs | 30 min |
 | 1000 ft | 2 hrs | 4 hrs | 1 hr |
-| 2000 ft | 4 hrs | 8 hrs | 2 hrs | ### Random Travel Event (2d6)
+| 2000 ft | 4 hrs | 8 hrs | 2 hrs | ### Random Travel Event (`dice: 2d6`)
 
 2-3: **Hazard** - Environmental danger
 4-5: **Encounter** - Meet someone
@@ -172,7 +169,6 @@ Roll d6:
 5. **Complication**: Additional problem
 6. **Partial**: Success but missing element --- ### Fast Rep Change
 
-
 | Action | Change |
 |--------|--------|
 | Complete mission | +2 |
@@ -193,11 +189,9 @@ Roll d6:
 9. Portal/passage opens
 10. Character transformation begins --- ### Depth Initiative
 
-
 - Most adapted goes first
 - Least adapted goes last
 - Ties roll off --- *Keep these cards handy for smooth, fast play. When in doubt, make a ruling and move forward - the depths wait for no one!* ## Player-Facing Summary Aquabyssos Quick Reference Cards is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Aquabyssos Quick Reference Cards as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aquabyssos Quick Reference Cards. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

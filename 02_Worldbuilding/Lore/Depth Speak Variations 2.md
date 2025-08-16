@@ -2,7 +2,7 @@
 created: '2025-08-12'
 obsidianUIMode: preview
 status: complete
-tags:
+tags: 
 - aquabyssos
 - communication
 - complete
@@ -16,8 +16,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.221354+00:00'
 world: Aquabyssos
 ---
-
-
 
 # Depth Speak Variations
 
@@ -183,8 +181,8 @@ The pressure-influenced speech patterns and linguistic variations found througho
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Wind Song Linguistic Guide]]
-- [[03_Mechanics/Aquabyssos Languages]]
+- [[02_Worldbuilding/Lore/Wind Song Linguistic Guide
+- [03_Mechanics/Aquabyssos Languages]]
 - Common Idioms And Sayings
 - [[02_Worldbuilding/Lore/Professional Terminology]]
 

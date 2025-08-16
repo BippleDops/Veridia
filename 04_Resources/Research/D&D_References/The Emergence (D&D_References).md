@@ -2,7 +2,7 @@
 
 title: The Emergence (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -82,11 +82,9 @@ The Emergence refers to a prophesied event when hidden or dormant aspects of und
 5. Research expedition to verify authenticity of prophetic signs
 6. Mediation between groups with conflicting Emergence interpretations ## Historical Context
 
-
 Similar prophecies have occurred throughout Aquabyssos history, sometimes coinciding with significant changes and other times proving false. Scholars debate whether The Emergence represents genuine prophecy or cyclical social phenomenon. ## DM Notes
 
 The Emergence provides flexible framework for introducing major campaign changes, new factions, or significant plot developments. Use it to foreshadow important events while maintaining ambiguity about specific outcomes. ## Player-Facing Summary The Emergence is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Emergence as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Emergence. ## Related *Links to related content will be added here.*
-
 
 ## Notes
 

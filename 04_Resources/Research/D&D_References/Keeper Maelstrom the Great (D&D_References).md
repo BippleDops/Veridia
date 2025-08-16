@@ -2,7 +2,7 @@
 
 title: Keeper Maelstrom the Great (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,7 +42,6 @@ danger_level: Moderate
 
 - A map reveals the truth about a local noble
 - A corpse reveals a conspiracy about the cult ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

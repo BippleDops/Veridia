@@ -1,9 +1,9 @@
 ---
 
 title: Keeper of Crowns Lydia Starfall
-type: [[location]]
-tags:
-- [[Aquabyssos]]
+type: [[location
+tags: 
+- [Aquabyssos]]
 - world/aquabyssos
 - content/location
 - place
@@ -44,7 +44,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -86,20 +86,20 @@ improvements: 20
 
 Keeper of Crowns Lydia Starfall is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## [[Lore]] Details
+## [Lore]] Details
 
 Legends speak of Keeper of Crowns Lydia Starfall as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Keeper of Crowns Lydia Starfall.
 
-### [[Key Locations]]
+### [[Key Locations
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map use.
 
 ## Sensory Details
 
@@ -132,7 +132,7 @@ Keeper of Crowns Lydia Starfall is a notable location characterized by its uniqu
 
 ## Connections
 - **North**: Trade road to neighboring settlement
-- **South**: [[path]] through wilderness
+- **South**: [path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
 
@@ -156,7 +156,7 @@ Ongoing situations affecting Keeper of Crowns Lydia Starfall:
 
 - Someone is protecting information for revenge
 - A shipment has gone missing and chaos spreads
-- A [[Merchant]] needs help delivering before the new moon
+- A [[Merchant needs help delivering before the new moon
 - A merchant needs help delivering before the festival
 
 ## Cultural Practices
@@ -209,19 +209,16 @@ Ongoing situations affecting Keeper of Crowns Lydia Starfall:
 
 ## References
 
-- [[The Lock]]
+- [The Lock]]
 - [[The Lock (D&D_References)]]
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

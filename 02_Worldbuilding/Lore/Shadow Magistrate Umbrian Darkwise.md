@@ -1,10 +1,10 @@
 ---
 
 title: Shadow Magistrate Umbrian Darkwise
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - world/aquabyssos
 - content/faction
 - content/lore
@@ -35,7 +35,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -89,7 +89,7 @@ Shadow Magistrate Umbrian Darkwise is a undersea element of the setting, known f
 
 Legends speak of Shadow Magistrate Umbrian Darkwise as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Magistrate Umbrian Darkwise.
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -101,12 +101,12 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-## Historical [[Time|[[Time]]line]]
+## Historical [[Time|[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[People]]s
+- War with indigenous [[Peoples
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -132,5 +132,5 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Shadow Behavior Guidelines (Criminal_Organizations)]]
+- [Shadow Behavior Guidelines (Criminal_Organizations)]]
 - [[Shadow Behavior Guidelines]]

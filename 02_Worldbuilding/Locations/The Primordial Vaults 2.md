@@ -2,7 +2,7 @@
 created: '2025-08-11'
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - both
 - complete
 - content/location
@@ -14,16 +14,8 @@ updated: '2025-08-13T12:34:16.703469+00:00'
 world: Both
 ---
 
-
-
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-primordial-vaults-the-primordial-vaults.svg)
-
-
-
-
 
 # The Primordial Vaults - The First Prison
 
@@ -33,22 +25,22 @@ Deep beneath Aquabyssos World Overview, older than the drowned civilizations abo
 ## Vault Sections
 
 ### The Threshold Gates (8000 feet)
-Seven massive doors, each requiring different keys or rituals to open. [[02_Worldbuilding/Places/Vault Keeper Eternal]] guards the entrance, neither alive nor dead, speaking only in riddles about "the necessity of drowning."
+Seven massive doors, each requiring different keys or rituals to open. [[02_Worldbuilding/Places/Vault Keeper Eternal guards the entrance, neither alive nor dead, speaking only in riddles about "the necessity of drowning."
 
 ### The Hall of Untime
-Corridor where time flows backward, forward, and sideways simultaneously. Those who enter may emerge younger, older, or multiplied into temporal echoes. [[02_Worldbuilding/Places/Chronomancer Paradox]] exists here in seventeen versions of himself.
+Corridor where time flows backward, forward, and sideways simultaneously. Those who enter may emerge younger, older, or multiplied into temporal echoes. [02_Worldbuilding/Places/Chronomancer Paradox]] exists here in seventeen versions of himself.
 
 ### The Genesis Chambers
-Laboratories containing failed experiments in creating life. Twisted proto-creatures still writhe in crystalline tanks. [[02_Worldbuilding/Places/The First Failure]], a sentient mistake, pleads for death or freedom.
+Laboratories containing failed experiments in creating life. Twisted proto-creatures still writhe in crystalline tanks. [[02_Worldbuilding/Places/The First Failure, a sentient mistake, pleads for death or freedom.
 
 ### The Inverse Cathedral
-A cathedral built upside-down, where prayers spoken become curses and holy water burns like acid. [[02_Worldbuilding/Places/Anti-Priest Nullus]] conducts backwards sermons to an congregation of shadows.
+A cathedral built upside-down, where prayers spoken become curses and holy water burns like acid. [02_Worldbuilding/Places/Anti-Priest Nullus]] conducts backwards sermons to an congregation of shadows.
 
 ### The Memory Core
-Central chamber containing crystallized memories of the world's creation. Touching them grants knowledge but steals personal memories in exchange. [[02_Worldbuilding/Places/The Forgotten One]] dwells here, made entirely of stolen memories.
+Central chamber containing crystallized memories of the world's creation. Touching them grants knowledge but steals personal memories in exchange. [[02_Worldbuilding/Places/The Forgotten One dwells here, made entirely of stolen memories.
 
 ### The Deepest Lock
-The final chamber, sealed with thirteen locks, each key hidden throughout Aquabyssos. Behind it lies something that [[02_Worldbuilding/Places/The Great Drowning]] was meant to keep imprisoned.
+The final chamber, sealed with thirteen locks, each key hidden throughout Aquabyssos. Behind it lies something that [02_Worldbuilding/Places/The Great Drowning]] was meant to keep imprisoned.
 
 ## Vault Inhabitants
 
@@ -112,11 +104,11 @@ Black water that doesn't reflect anything - falling in erases you from history.
 - Light that causes madness, darkness that grants clarity
 
 ## Current Activity
-1. [[02_Worldbuilding/Lore/Order of the Sunken Crown]] expedition seeking the First Key
+1. [[02_Worldbuilding/Lore/Order of the Sunken Crown expedition seeking the First Key
 2. Tremors suggesting something massive stirring in the Deepest Lock
 3. Vault Guardians becoming active after centuries of dormancy
 4. Reality bleeds increasing in frequency
-5. [[02_Worldbuilding/Places/The Deepmind]] sending psychic probes into the vaults
+5. [02_Worldbuilding/Places/The Deepmind]] sending psychic probes into the vaults
 
 ## Secrets
 > [!warning] DM Only
@@ -127,10 +119,10 @@ Black water that doesn't reflect anything - falling in erases you from history.
 > - The vaults are slowly rising toward the surface
 
 ## Connections to Other Areas
-- Secret tunnel from [[02_Worldbuilding/Places/The Sunken Cathedral of Stars]] crypts
-- Overlaps with deepest parts of [[02_Worldbuilding/Places/The Cerulean Trench]]
+- Secret tunnel from [[02_Worldbuilding/Places/The Sunken Cathedral of Stars crypts
+- Overlaps with deepest parts of [02_Worldbuilding/Places/The Cerulean Trench]]
 - The Wandering Atoll occasionally floats directly above
-- Memory streams connect to [[02_Worldbuilding/Places/New Tethys]] Conservatory of Memory
+- Memory streams connect to [[02_Worldbuilding/Places/New Tethys Conservatory of Memory
 
 ## Vault Laws (Inexplicable Rules)
 1. No one may speak their true name within
@@ -154,24 +146,23 @@ Black water that doesn't reflect anything - falling in erases you from history.
 12. The First Key's guardian
 
 ## Connected NPCs
-- [[02_Worldbuilding/Places/Vault Keeper Eternal]] - Entrance guardian
-- [[02_Worldbuilding/Places/Chronomancer Paradox]] - Time-lost wizard
-- [[02_Worldbuilding/Places/The First Failure]] - Sentient experiment
-- [[02_Worldbuilding/Places/Anti-Priest Nullus]] - Inverse Cathedral keeper
-- [[02_Worldbuilding/Places/The Forgotten One]] - Memory thief
-- [[02_Worldbuilding/People/Elder Whisper-In-The-Dark]] - Knows vault secrets
+- [02_Worldbuilding/Places/Vault Keeper Eternal]] - Entrance guardian
+- [[02_Worldbuilding/Places/Chronomancer Paradox - Time-lost wizard
+- [02_Worldbuilding/Places/The First Failure]] - Sentient experiment
+- [[02_Worldbuilding/Places/Anti-Priest Nullus - Inverse Cathedral keeper
+- [02_Worldbuilding/Places/The Forgotten One]] - Memory thief
+- [[02_Worldbuilding/People/Elder Whisper-In-The-Dark - Knows vault secrets
 
 ## Quests Available
-- [[02_Worldbuilding/Places/The Thirteen Keys]] - Gather keys to the Deepest Lock
-- [[02_Worldbuilding/Places/Vault Breach]] - Stop or cause a prisoner escape
-- [[02_Worldbuilding/Places/Memory Heist]] - Steal specific memories from the Core
-- [[02_Worldbuilding/Places/Temporal Rescue]] - Save explorers from time loops
-- [[02_Worldbuilding/Places/The First Truth]] - Learn why the vaults were built
-
+- [02_Worldbuilding/Places/The Thirteen Keys]] - Gather keys to the Deepest Lock
+- [[02_Worldbuilding/Places/Vault Breach - Stop or cause a prisoner escape
+- [02_Worldbuilding/Places/Memory Heist]] - Steal specific memories from the Core
+- [[02_Worldbuilding/Places/Temporal Rescue - Save explorers from time loops
+- [02_Worldbuilding/Places/The First Truth]] - Learn why the vaults were built
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest
 
 ## Player-Facing Summary
 
@@ -193,40 +184,35 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Primordial Vaults]]
+- [02_Worldbuilding/Places/The Primordial Vaults]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Lore/Order of the Sunken Crown]]
-- [[02_Worldbuilding/Places/Anti-Priest Nullus]]
-- [[02_Worldbuilding/Places/Memory Heist]]
-- [[02_Worldbuilding/Places/Temporal Rescue]]
-- [[02_Worldbuilding/Places/The Deepmind]]
-- [[02_Worldbuilding/Places/The First Failure]]
-- [[02_Worldbuilding/Places/The First Truth]]
-- [[02_Worldbuilding/Places/The Forgotten One]]
-- [[02_Worldbuilding/Places/The Thirteen Keys]]
-- [[02_Worldbuilding/Places/Vault Keeper Eternal]]
-
+- [[02_Worldbuilding/Lore/Order of the Sunken Crown
+- [02_Worldbuilding/Places/Anti-Priest Nullus]]
+- [[02_Worldbuilding/Places/Memory Heist
+- [02_Worldbuilding/Places/Temporal Rescue]]
+- [[02_Worldbuilding/Places/The Deepmind
+- [02_Worldbuilding/Places/The First Failure]]
+- [[02_Worldbuilding/Places/The First Truth
+- [02_Worldbuilding/Places/The Forgotten One]]
+- [[02_Worldbuilding/Places/The Thirteen Keys
+- [02_Worldbuilding/Places/Vault Keeper Eternal]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

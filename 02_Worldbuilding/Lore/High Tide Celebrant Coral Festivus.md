@@ -3,8 +3,8 @@ created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
-tags:
-- [[Lore]]
+tags: 
+- [[Lore
 title: High Tide Celebrant Coral Festivus
 type: lore
 updated: 2025-08-14
@@ -20,12 +20,12 @@ High Tide Celebrant Coral Festivus represents a significant element within the c
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: [[Link]]ed to multiple other elements
+- **Connections**: [Link]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-[[Historical Context]] and development over [[Time]].
+[[Historical Context and development over [Time]].
 
 ### Current State
 Present circumstances and ongoing relevance.
@@ -46,10 +46,10 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 *Customize as needed for your specific campaign requirements.*
 
 ## References
 
-- [[The Festival of Rising Tides]]
+- [The Festival of Rising Tides]]
 - [[The Festival of Rising Tides (D&D_References)]]

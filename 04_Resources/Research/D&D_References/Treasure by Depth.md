@@ -2,7 +2,7 @@
 
 title: Treasure by Depth
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -53,13 +53,11 @@ Permanent system governing treasure distribution throughout campaign. ## Adventu
 2. However, **Pressure Vault**: Secure treasure storage in deepest zones
 3. **Salvage Operation**: Recover valuable cargo from deep wreckage ## Campaign Use
 
+Provides mechanical framework for encouraging exploration while maintaining appropriate challenge-reward ratios. ## Player-Facing Summary Treasure by Depth is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Treasure by Depth as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Treasure by Depth. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil ## Related Notes - [[Similar Topic 1
 
-Provides mechanical framework for encouraging exploration while maintaining appropriate challenge-reward ratios. ## Player-Facing Summary Treasure by Depth is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Treasure by Depth as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Treasure by Depth. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil ## Related Notes - [[Similar Topic 1]]
-
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]]
 
 ## Notes
 

@@ -1,0 +1,38 @@
+---
+aliases: ["Decorated Compass of Reliability", "decorated compass of reliability", "Reliability of Compass Decorated"]
+tags: [item, equipment]
+type: item
+---
+
+# Decorated Compass of Reliability
+
+*Mundane, Common*
+
+**ID**: ITEM01466
+
+## Description
+A high-quality compass with subtle enchantments
+
+## Appearance
+A decorated compass showing signs of age
+
+## Properties
+- Works perfectly always
+
+## History
+Blessed by a deity in ancient times
+
+**Created by**: A god's avatar walking among mortals
+
+## Value
+88 gp
+
+**Weight**: 1 lbs
+
+## DM Notes
+- Adjust properties for campaign balance
+- Consider the item's history for plot hooks
+- The creator might still be alive (or undead)
+
+---
+*Generated: 2025-08-15T03:51:03.490Z*

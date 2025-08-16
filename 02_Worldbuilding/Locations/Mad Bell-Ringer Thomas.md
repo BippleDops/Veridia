@@ -1,17 +1,17 @@
 ---
 
 title: Mad Bell Ringer Thomas
-type: [[location]]
-tags:
-- [[Aquabyssos]]
-- [[Oracle]]
+type: [[location
+tags: 
+- [Aquabyssos]]
+- [[Oracle
 - bell-ringer
 - status/complete
 - mad
 - community
 - content/location
 - acoustic
-- content/[[Npc]]
+- content/[Npc]]
 - place
 - active
 - location
@@ -25,8 +25,8 @@ modified: '2025-08-14'
 status: complete
 race: Human
 class: Commoner/Oracle
-location: '[[Port Meridian]] Bell Tower'
-[[region]]: Unknown
+location: '[[Port Meridian Bell Tower'
+[region]]: Unknown
 population: Unknown
 MyCategory: Community Figure
 MyContainer: None
@@ -67,7 +67,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -107,9 +107,9 @@ improvements: 20
 
 ## Overview
 
-**Thomas Bellwright**, known throughout [[Port Meridian]] as "Mad Bell-Ringer Thomas," serves as the community's unofficial oracle and warning system, maintaining the ancient bell tower that has guided ships and warned citizens of danger for over two centuries. What many dismiss as the ravings of an eccentric old man often prove to be surprisingly accurate predictions about weather, danger, and significant events affecting the community.
+**Thomas Bellwright**, known throughout [Port Meridian]] as "Mad Bell-Ringer Thomas," serves as the community's unofficial oracle and warning system, maintaining the ancient bell tower that has guided ships and warned citizens of danger for over two centuries. What many dismiss as the ravings of an eccentric old man often prove to be surprisingly accurate predictions about weather, danger, and significant events affecting the community.
 
-Once a respected [[Lighthouse Keeper]] and mari[[Time]] weather expert, Thomas suffered a traumatic experience during the **Great Storm of Eighteen Years Past** when he was forced to watch helplessly as multiple ships were destroyed despite his efforts to warn them. The trauma awakened latent prophetic abilities but also left him with an obsessive need to constantly monitor for signs of danger and an eccentric communication style that many find difficult to understand.
+Once a respected [[Lighthouse Keeper and mari[Time]] weather expert, Thomas suffered a traumatic experience during the **Great Storm of Eighteen Years Past** when he was forced to watch helplessly as multiple ships were destroyed despite his efforts to warn them. The trauma awakened latent prophetic abilities but also left him with an obsessive need to constantly monitor for signs of danger and an eccentric communication style that many find difficult to understand.
 
 His dedication to his self-appointed role as community guardian has made him both a beloved local character and a source of genuine comfort for many residents who have learned to interpret his cryptic warnings and appreciate his genuine care for their safety. Though his methods are unconventional, his accuracy rate for predicting weather and danger has earned him grudging respect from even skeptical officials.
 
@@ -125,7 +125,7 @@ His dedication to his self-appointed role as community guardian has made him bot
 **Distinctive Traits**: 
 - **Bell Rope Burns**: Distinctive scars on his palms from years of bell-ringing
 - **Weather-Beaten Clothes**: Practical but well-worn clothing suited for tower maintece
-- **Prophetic Eyes**: Intense gaze that seems to look through [[People]] to see future events
+- **Prophetic Eyes**: Intense gaze that seems to look through [[People to see future events
 - **Nervous Energy**: Constant fidgeting and movement, as if listening to sounds others cannot hear
 
 **Voice and Demeanor**: Speaks in rapid bursts interspersed with long pauses, often talking to the bells as if they were living beings. His speech patterns shift between cryptic prophecy and practical warnings, making communication challenging but never meaningless.
@@ -138,7 +138,7 @@ His dedication to his self-appointed role as community guardian has made him bot
 
 **Eccentric Communication**: Has developed unique ways of expressing complex ideas through bell patterns, symbolic language, and cryptic warnings that require interpretation.
 
-**Protective Instinct**: Deeply cares about the safety and wellbeing of everyone in [[Port Meridian]], viewing himself as their appointed guardian against unseen threats.
+**Protective Instinct**: Deeply cares about the safety and wellbeing of everyone in [Port Meridian]], viewing himself as their appointed guardian against unseen threats.
 
 ### Daily Routines and Rituals
 
@@ -164,7 +164,7 @@ His dedication to his self-appointed role as community guardian has made him bot
 
 **Level**: 3rd level Commoner/Oracle  
 **Armor Class**: 10 (Natural + Dex)  
-**Hit Points**: 18 (3d8 + 3)  
+**Hit Points**: 18 (`dice: 3d8` + 3)  
 **Speed**: 30 ft., climb 20 ft.  
 
 **Ability Scores**:
@@ -190,7 +190,7 @@ His dedication to his self-appointed role as community guardian has made him bot
 **Tower Expertise**: Expert climber and rope worker from years of bell tower maintece  
 **Maritime Knowledge**: Extensive understanding of sea conditions and shipping patterns  
 **Community Memory**: Knows detailed personal information about most local residents  
-**[[Crisis Management]]**: Skilled at organizing community responses to predicted dangers  
+**[[Crisis Management**: Skilled at organizing community responses to predicted dangers  
 
 ### Combat Approach
 **Non-Combatant**: Thomas avoids physical conflict, preferring to flee or hide  
@@ -223,15 +223,15 @@ His dedication to his self-appointed role as community guardian has made him bot
 **Resource Access**: Community provides basic supplies in recognition of his services  
 
 ### Community Relationships
-**[[Merchant]] Captain Respect**: Ship captains often seek his weather predictions before departing  
+**[Merchant]] Captain Respect**: Ship captains often seek his weather predictions before departing  
 **Children's Friend**: Local children enjoy his eccentric stories and bell demonstrations  
 **Elder Confidant**: Older residents remember his accuracy and seek his advice  
-**Official Skepticism**: Some [[Government Officia]]ls dismiss him while privately consulting his predictions  
+**Official Skepticism**: Some [[Government Officials dismiss him while privately consulting his predictions  
 
 ### Support Network
 **Market Vendors**: Provide food and supplies in exchange for weather forecasts  
 **Harbor Workers**: Rely on his warnings for scheduling dangerous activities  
-**[[Religious Leaders]]**: Some view his abilities as divine gift requiring community support  
+**[Religious Leaders]]**: Some view his abilities as divine gift requiring community support  
 **Local Physicians**: Occasionally consult him about health trends and epidemic predictions  
 
 ### Prediction Categories
@@ -253,7 +253,7 @@ His dedication to his self-appointed role as community guardian has made him bot
 **Pattern Analysis**: Scholars occasionally study his methods and results  
 
 ### The Silent Bells (Levels 1-3)
-Thomas's bells have fallen mysteriously silent, and he claims this means "the great quiet before the great noise." [[The Party]] must investigate what supernatural force is interfering with his prophetic abilities while preparing for whatever danger his silence portends.
+Thomas's bells have fallen mysteriously silent, and he claims this means "the great quiet before the great noise." [[The Party must investigate what supernatural force is interfering with his prophetic abilities while preparing for whatever danger his silence portends.
 
 **Key Elements**:
 - Investigation into supernatural interference with prophetic abilities
@@ -271,10 +271,10 @@ A wealthy merchant offers Thomas substantial payment to predict the success of a
 - Economic and social consequences of prophetic warnings
 
 ### The Storm of Storms (Levels 3-5)
-Thomas predicts an unprecedented weather disaster that could destroy [[Port Meridian]], but his warnings are more cryptic than usual, speaking of "winds that carry more than water." The party must help him decode his own prophecy while preparing community defenses.
+Thomas predicts an unprecedented weather disaster that could destroy [Port Meridian]], but his warnings are more cryptic than usual, speaking of "winds that carry more than water." The party must help him decode his own prophecy while preparing community defenses.
 
 **Key Elements**:
-- Natural disaster preparation requiring community [[Organization]]
+- Natural disaster preparation requiring community [[Organization
 - Supernatural elements hidden within weather phenomena
 - Complex prophecy requiring multiple interpretation attempts
 - Large-scale consequences affecting entire community survival
@@ -295,7 +295,7 @@ Thomas's traumatic experience during the **Great Storm of Eighteen Years Past** 
 The tower has a long tradition of eccentric but effective guardians, each developing unique methods for community protection. Thomas represents the latest in this line, though his prophetic abilities surpass his predecessors.
 
 ### Community Integration
-Despite his eccentricities, Thomas has become an integral part of [[Port Meridian]]'s cultural identity, with his bell patterns serving as an unofficial community clock and his warnings providing psychological comfort even when not entirely understood.
+Despite his eccentricities, Thomas has become an integral part of [Port Meridian]]'s cultural identity, with his bell patterns serving as an unofficial community clock and his warnings providing psychological comfort even when not entirely understood.
 
 ### Official Recognition
 While never formally appointed, Thomas's effectiveness has earned implicit official recognition, with some government decisions quietly influenced by his predictions and warnings.
@@ -309,20 +309,20 @@ While never formally appointed, Thomas's effectiveness has earned implicit offic
 
 Mad Bell Ringer Thomas is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## [[Lore]] Details
+## [[Lore Details
 
 Legends speak of Mad Bell Ringer Thomas as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Mad Bell Ringer Thomas.
 
-### [[Key Locations]]
+### [Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [map]] use.
 
 ## Sensory Details
 
@@ -358,7 +358,7 @@ Mad Bell-Ringer Thomas was established in the distant past, growing from humble 
 
 ## Connections
 - **North**: Trade road to neighboring settlement
-- **South**: [[path]] through wilderness
+- **South**: [[path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
 
@@ -382,7 +382,7 @@ Ongoing situations affecting Mad Bell-Ringer Thomas:
 
 Key stop on metals trade route
 
-## Historical [[Timeline]]
+## Historical [Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -439,11 +439,9 @@ Key stop on metals trade route
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/item
@@ -13,11 +13,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.457743+00:00'
 world: Aquabyssos
 ---
-
-
-
-
-
 
 ## Overview
 
@@ -45,10 +40,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Commander Typhoon Blackheart]]
-
+- [[02_Worldbuilding/People/Commander Typhoon Blackheart
 
 ## Connections
 
-- [[02_Worldbuilding/Items/Crown of Tidal Sovereignty]]
+- [02_Worldbuilding/Items/Crown of Tidal Sovereignty]]
 - [[02_Worldbuilding/People/Commander Typhoon Blackheart]]

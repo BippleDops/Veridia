@@ -2,7 +2,7 @@
 aliases: ["Random Encounter 57", "random encounter 57", "57 Encounter Random"]
 tags: [generated]
 id: ENC0056_Random_Encounter_57
-created: 2025-08-15T04:09:51.452Z
+created: "2025-08-15T04:09:51.452Z"
 generator: mega_generator_10k
 ---
 # Random Encounter 57
@@ -10,7 +10,7 @@ generator: mega_generator_10k
 *Hard encounter for Mountain environment*
 
 ## Enemies
-- 1d6 Bandits
+- `dice: 1d6` Bandits
 
 ## Tactics
 Enemies coordinate attacks and use terrain to their advantage

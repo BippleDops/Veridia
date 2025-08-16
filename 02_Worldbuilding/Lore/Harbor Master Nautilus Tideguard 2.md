@@ -1,19 +1,19 @@
 ---
 alignment: Lawful Neutral
-allegiance: '[[02_Worldbuilding/Groups/Aquabyssos Navy|Aquabyssos Navy]]'
+allegiance: '[[02_Worldbuilding/Groups/Aquabyssos Navy|Aquabyssos Navy'
 class: Fighter (Battle Master)/Ranger (Horizon Walker)
 created: '2025-08-13'
-current_location: '[[02_Worldbuilding/Places/Port Meridian]] - Harbor Authority Offices'
+current_location: '[02_Worldbuilding/Places/Port Meridian]] - Harbor Authority Offices'
 level: 12
 occupation: Harbor Master of Port Meridian
 race: Triton
-related_entities:
-- '[[02_Worldbuilding/Groups/Aquabyssos Navy|Aquabyssos Navy]]'
-- '[[02_Worldbuilding/Lore/The Seven Shards]]'
+related_entities: 
+- '[[02_Worldbuilding/Groups/Aquabyssos Navy|Aquabyssos Navy'
+- '[02_Worldbuilding/Lore/The Seven Shards]]'
 - '[[02_Worldbuilding/Places/Port Meridian]]'
 - 'Deepwater Trading Consortium'
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/npc
@@ -36,7 +36,7 @@ world: Aquabyssos
 
 ## Overview
 
-Harbor Master Nautilus Tideguard stands as the unwavering guardian of [[02_Worldbuilding/Places/Port Meridian]]'s vast harbor complex, a position he has held for over twenty-five years with distinction. As both a retired naval commander and current harbor authority, Nautilus represents the perfect blend of military precision and civilian pragmatism that keeps Aquabyssos's most crucial port functioning smoothly despite increasing political tensions and supernatural threats.
+Harbor Master Nautilus Tideguard stands as the unwavering guardian of [[02_Worldbuilding/Places/Port Meridian's vast harbor complex, a position he has held for over twenty-five years with distinction. As both a retired naval commander and current harbor authority, Nautilus represents the perfect blend of military precision and civilian pragmatism that keeps Aquabyssos's most crucial port functioning smoothly despite increasing political tensions and supernatural threats.
 
 His weathered blue-green skin bears the traditional Triton markings of deep-sea service, while his piercing silver eyes miss nothing that happens within his domain. Standing nearly seven feet tall with the muscular build of someone who has spent decades hauling cargo and commanding vessels, Nautilus commands respect through competence rather than intimidation. His voice carries the authority of someone accustomed to being obeyed during storms, and his word is considered unbreakable throughout the maritime community.
 
@@ -58,7 +58,7 @@ His hands, scarred from decades of rope work and combat, are never quite stillâ€
 
 ### Supernatural Modifications
 
-Years of exposure to deep-sea magic and recent proximity to [[02_Worldbuilding/Lore/The Seven Shards]] activity have left subtle but significant changes:
+Years of exposure to deep-sea magic and recent proximity to [02_Worldbuilding/Lore/The Seven Shards]] activity have left subtle but significant changes:
 
 **Depth Sense**: Can accurately determine water depth and current patterns within a five-mile radius through supernatural perception
 **Pressure Immunity**: Completely immune to pressure changes, allowing him to work at any depth without magical assistance
@@ -83,7 +83,7 @@ During this period, he encountered phenomena that would later prove relevant to 
 
 The event that defined Nautilus's career and ultimately led to his transition to civilian service was the infamous Leviathan Incident. While investigating reports of missing vessels in the deepest trenches of Aquabyssos territory, his fleet encountered what appeared to be a massive sea creature of unprecedented size and intelligence. The creature, later theorized to be connected to the ancient entities referenced in shard mythology, attacked the fleet with strategic coordination that suggested sapient intelligence.
 
-Nautilus managed to save three of his five vessels through brilliant tactical maneuvering, but the encounter left him with deep psychological scars and a profound understanding of the forces that exist beyond normal comprehension. His after-action report, classified at the highest levels, described phenomena that perfectly match what scholars now understand about the influence of [[02_Worldbuilding/Lore/The Seven Shards]] on local reality.
+Nautilus managed to save three of his five vessels through brilliant tactical maneuvering, but the encounter left him with deep psychological scars and a profound understanding of the forces that exist beyond normal comprehension. His after-action report, classified at the highest levels, described phenomena that perfectly match what scholars now understand about the influence of [[02_Worldbuilding/Lore/The Seven Shards on local reality.
 
 ### Transition to Harbor Authority
 
@@ -178,7 +178,7 @@ His voice carries naturally in both air and water, a useful trait for someone wh
 
 ### Seven Shards Investigation
 
-Nautilus's unique combination of practical experience and mystical sensitivity makes him an invaluable ally in campaigns focused on [[02_Worldbuilding/Lore/The Seven Shards]]. His position provides access to information about shipping patterns that could reveal shard movement, while his past encounters with ancient forces give him insights that pure academics lack.
+Nautilus's unique combination of practical experience and mystical sensitivity makes him an invaluable ally in campaigns focused on [02_Worldbuilding/Lore/The Seven Shards]]. His position provides access to information about shipping patterns that could reveal shard movement, while his past encounters with ancient forces give him insights that pure academics lack.
 
 His harbor records contain crucial data about vessels that have transported shard-related materials, often without the knowledge of their crews or passengers. His network of maritime contacts can track the movement of suspicious cargo across vast distances, and his understanding of deep-sea phenomena helps identify locations where shards might be hidden.
 
@@ -190,7 +190,7 @@ His harbor authority office becomes a natural meeting place for characters who n
 
 ### Cross-Realm Connection
 
-Nautilus's administrative role inevitably involves him in trade relationships with [[02_Worldbuilding/Places/Aethermoor]], making him a key figure in campaigns that span both worlds. His understanding of both maritime law and international commerce provides crucial background for diplomatic missions or trade-related adventures.
+Nautilus's administrative role inevitably involves him in trade relationships with [[02_Worldbuilding/Places/Aethermoor, making him a key figure in campaigns that span both worlds. His understanding of both maritime law and international commerce provides crucial background for diplomatic missions or trade-related adventures.
 
 His contacts among ship captains who regularly travel between realms give him access to information about conditions in both worlds, and his harbor facilities serve as the primary entry point for most cross-realm visitors to Aquabyssos.
 
@@ -214,7 +214,7 @@ Former members of Nautilus's Deep Patrol unit begin arriving at Port Meridian, a
 
 ### The Diplomatic Crisis
 **Level**: 14-18
-An [[02_Worldbuilding/Places/Aethermoor]] diplomatic vessel arrives at Port Meridian with evidence that someone in Aquabyssos has been manipulating cross-realm trade to destabilize both governments. Nautilus becomes the focal point of negotiations while characters investigate who has been using his harbor facilities for political manipulation.
+An [02_Worldbuilding/Places/Aethermoor]] diplomatic vessel arrives at Port Meridian with evidence that someone in Aquabyssos has been manipulating cross-realm trade to destabilize both governments. Nautilus becomes the focal point of negotiations while characters investigate who has been using his harbor facilities for political manipulation.
 
 ## Secrets for the DM
 
@@ -236,7 +236,7 @@ An [[02_Worldbuilding/Places/Aethermoor]] diplomatic vessel arrives at Port Meri
 **Harbor Master Nautilus Tideguard** *(Medium humanoid [triton], lawful neutral)*
 
 **Armor Class** 18 (Studded Leather Armor + Shield + Dex)
-**Hit Points** 142 (19d10 + 38)
+**Hit Points** 142 (`dice: 19d10` + 38)
 **Speed** 30 ft., swim 50 ft.
 
 **STR** 16 (+3) **DEX** 16 (+3) **CON** 14 (+2) **INT** 15 (+2) **WIS** 18 (+4) **CHA** 14 (+2)
@@ -252,19 +252,19 @@ An [[02_Worldbuilding/Places/Aethermoor]] diplomatic vessel arrives at Port Meri
 
 **Amphibious**: Nautilus can breathe air and water.
 
-**Control Air and Water (1/Day)**: Nautilus can cast *control water* or *gust of wind* as 3rd-level spells (spell save DC 15).
+**Control Air and Water (1/Day)**: Nautilus can cast *control water* or *gust of wind* as 3rd-level spells (spell save **DC 15**).
 
 **Emissary of the Sea**: Aquatic beasts have an extraordinary affinity with Nautilus and can communicate simple ideas with him.
 
 **Guardian of the Harbor**: While within Port Meridian, Nautilus has advantage on initiative rolls and Wisdom (Perception) checks.
 
-**Maneuvers (4/Short Rest)**: Nautilus knows Commander's Strike, Disarming Attack, Precision Attack, and Tactical Assessment maneuvers (save DC 16).
+**Maneuvers (4/Short Rest)**: Nautilus knows Commander's Strike, Disarming Attack, Precision Attack, and Tactical Assessment maneuvers (save **DC 16**).
 
 ### Actions
 
 **Multiattack**: Nautilus makes three attacks: two with his trident and one command action.
 
-**Magic Trident**: *Melee Weapon Attack*: +9 to hit, reach 5 ft., one target. *Hit*: 7 (1d6 + 4) piercing damage, or 8 (1d8 + 4) piercing damage if used with two hands.
+**Magic Trident**: *Melee Weapon Attack*: +9 to hit, reach 5 ft., one target. *Hit*: 7 (`dice: 1d6` + 4) piercing damage, or 8 (`dice: 1d8` + 4) piercing damage if used with two hands.
 
 **Command Authority**: Nautilus can command one allied creature within 60 feet to take a reaction to move up to their speed or make one weapon attack.
 
@@ -305,18 +305,18 @@ An [[02_Worldbuilding/Places/Aethermoor]] diplomatic vessel arrives at Port Meri
 
 **Related Concepts**:
 - Naval Intelligence
-- [[02_Worldbuilding/Mechanics/Harbor Authority]]
+- [[02_Worldbuilding/Mechanics/Harbor Authority
 - Maritime Law
 - Deep Sea Exploration
 
 **Related Locations**:
-- [[02_Worldbuilding/Places/Port Meridian]]
+- [02_Worldbuilding/Places/Port Meridian]]
 - Harbor Authority Complex
 - Naval Archive
 - Deep Patrol Memorial
 
 **Related NPCs**:
-- [[02_Worldbuilding/People/Admiral Marina Stormcrest]]
+- [[02_Worldbuilding/People/Admiral Marina Stormcrest
 - Dock Worker Representatives
 - Merchant Guild Leaders
 - Naval Veterans
@@ -329,9 +329,9 @@ An [[02_Worldbuilding/Places/Aethermoor]] diplomatic vessel arrives at Port Meri
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Seven Shards]]
-- [[02_Worldbuilding/Places/Port Meridian]]
-- [[02_Worldbuilding/Groups/Aquabyssos Navy]]
+- [02_Worldbuilding/Lore/The Seven Shards]]
+- [[02_Worldbuilding/Places/Port Meridian
+- [02_Worldbuilding/Groups/Aquabyssos Navy]]
 - [[02_Worldbuilding/Lore/The Deep Mother]]
 - Deepwater Trading Consortium
 

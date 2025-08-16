@@ -1,7 +1,7 @@
 ---
 type: Lore
 status: complete
-tags:
+tags: 
 - active
 - ancient-library/archive
 - aquabyssos
@@ -10,11 +10,6 @@ world: Aquabyssos
 created: '2025-08-11'
 updated: '2025-08-13T01:18:34.642892+00:00'
 ---
-
-
-
-
-
 
 ## Overview
 
@@ -42,11 +37,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
-
+- [[02_Worldbuilding/Places/The Sunken Library of Thalassius
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Angels and Depths]]
-- [[02_Worldbuilding/Places/Maelstrom Palace]]
-- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
+- [02_Worldbuilding/Places/Angels and Depths]]
+- [[02_Worldbuilding/Places/Maelstrom Palace
+- [02_Worldbuilding/Places/The Sunken Library of Thalassius]]

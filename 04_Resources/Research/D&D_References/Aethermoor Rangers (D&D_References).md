@@ -2,7 +2,7 @@
 
 title: Aethermoor Rangers (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,7 +43,6 @@ updated: '2025-08-13T01:18:35.480251+00:00'
 - A prisoner has gone missing and war looms
 - A stranger needs help stealing before the festival
 - A journal reveals a betrayal about the cult ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

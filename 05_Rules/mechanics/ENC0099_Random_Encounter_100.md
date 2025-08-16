@@ -2,7 +2,7 @@
 aliases: ["Random Encounter 100", "random encounter 100", "100 Encounter Random"]
 tags: [generated]
 id: ENC0099_Random_Encounter_100
-created: 2025-08-15T04:09:51.465Z
+created: "2025-08-15T04:09:51.465Z"
 generator: mega_generator_10k
 ---
 # Random Encounter 100
@@ -10,7 +10,7 @@ generator: mega_generator_10k
 *Deadly encounter for Dungeon environment*
 
 ## Enemies
-- 1d4 Dire Wolves
+- `dice: 1d4` Dire Wolves
 
 ## Tactics
 Enemies coordinate attacks and use terrain to their advantage

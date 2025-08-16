@@ -2,7 +2,7 @@
 aliases: ["Random Encounter 76", "random encounter 76", "76 Encounter Random"]
 tags: [generated]
 id: ENC0075_Random_Encounter_76
-created: 2025-08-15T04:09:51.458Z
+created: "2025-08-15T04:09:51.458Z"
 generator: mega_generator_10k
 ---
 # Random Encounter 76
@@ -10,8 +10,8 @@ generator: mega_generator_10k
 *Deadly encounter for Forest environment*
 
 ## Enemies
-- 2d4 Goblins
-- 1d6 Bandits
+- `dice: 2d4` Goblins
+- `dice: 1d6` Bandits
 
 ## Tactics
 Enemies coordinate attacks and use terrain to their advantage

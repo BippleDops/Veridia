@@ -2,7 +2,7 @@
 
 title: The Waking Prophets (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -90,7 +90,6 @@ The group has achieved notable success in predicting events, though critics argu
 4. "Blood-red tides bring messages from the deep"
 5. "When all eyes close, the truth will finally open" ## Adventure Hooks
 
-
 1. Prophet requests protection during dangerous vision quest
 2. Investigation into mysterious deaths of exhausted members
 3. Prophecy warns of imminent disaster requiring immediate action
@@ -98,9 +97,7 @@ The group has achieved notable success in predicting events, though critics argu
 5. Competition with other prophetic organizations over accuracy
 6. Government seeks consultation on interpreted threat ## DM Notes
 
-
 The Waking Prophets offer opportunities to explore themes of fanaticism, the price of knowledge, and the boundary between revelation and madness. Their sleep deprivation creates genuine prophetic abilities but at severe personal cost, making them complex antagonists or troubled allies. ## Player-Facing Summary The Waking Prophets is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Waking Prophets as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Waking Prophets. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

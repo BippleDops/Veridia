@@ -1,8 +1,8 @@
 ---
 
-title: Determine [[Aquabyssos]]
-type: [[Lore]]
-tags:
+title: Determine [[Aquabyssos
+type: [Lore]]
+tags: 
 - lore
 - aquabyssos
 - status/complete
@@ -15,10 +15,10 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-accessibility:
+accessibility: 
   content_warnings: []
   pronunciation: Determine Aquabyssos
-  safety_tools:
+  safety_tools: 
   - Lines & Veils
   - X-Card
   screen_reader_summary: This lore entry explains a pivotal principle or event and
@@ -46,7 +46,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -66,7 +66,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[region]]s
+- Describe how this culture exists in other [region]]s
 
 ### Superstitions Improvements
 

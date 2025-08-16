@@ -2,7 +2,7 @@
 
 title: Artist Voidbrush (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,7 +43,6 @@ updated: '2025-08-13T01:18:35.583377+00:00'
 - The authorities needs help stealing before winter
 - A journal reveals the truth about the cult
 - A journal reveals a betrayal about the cult ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

@@ -9,7 +9,6 @@ aliases: ["Spell Search"]
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
 
-
 ## Overview
 
 Comprehensive overview of this content.
@@ -35,7 +34,6 @@ publish: false
 ---
 
  # Spell_Search ---
-
 
 ## Description
 
@@ -77,7 +75,6 @@ modified: '2025-08-14'
 
 > Adjust difficulty based on party composition
 
-
 ## Notes {#notes}
 
 *Additional notes*
@@ -94,10 +91,9 @@ modified: '2025-08-14'
 This content explores themes of redemption, adding narrative depth to your campaign.
 
 ## Visual References
-![[04_Resources/Assets/Digital/ui-ui-spellbook-effects-spellbook-effects.png]]
-![[04_Resources/Assets/Digital/ui-ui-spellbook-effects-v2-spellbook-effects.png]]
-![[04_Resources/Assets/Digital/ui-ui-spellbook-effects-v1-spellbook-effects.png]]
-
+![[04_Resources/Assets/Digital/ui-ui-spellbook-effects-spellbook-effects.png
+![04_Resources/Assets/Digital/ui-ui-spellbook-effects-v2-spellbook-effects.png]]
+![[04_Resources/Assets/Digital/ui-ui-spellbook-effects-v1-spellbook-effects.png
 
 ## Realm Connections
 
@@ -105,10 +101,10 @@ This content explores themes of redemption, adding narrative depth to your campa
 This relates to the deep realm of Deepest ocean trenches and underwater kingdoms.
 
 - **Ruling Power**: The Tidal Throne
-- **Capital**: [[Pearlheart Palace]]
+- **Capital**: [Pearlheart Palace]]
 - **Primary Magic**: Tidal control, pressure magic, bioluminescence
 - **Current Conflict**: The Crushing Dark, Surface Wars
-- **Key Locations**: [[Abyssal Trenches]], [[Coral Throne]]
+- **Key Locations**: [[Abyssal Trenches, [Coral Throne]]
 
 In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
 build cities of living coral and navigate by bioluminescent paths.

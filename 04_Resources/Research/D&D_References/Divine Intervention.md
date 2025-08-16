@@ -2,7 +2,7 @@
 
 title: Divine Intervention
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -47,7 +47,6 @@ world: Aethermoor
 - Someone is blackmailing information for revenge
 - Strange accidents suggest a conspiracy
 - A journal reveals a conspiracy about the cult ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Stop the Crystal Festival Ritual (D&D_Statblocks)]]
-
 
 ## Notes
 

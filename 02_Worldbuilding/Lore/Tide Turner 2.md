@@ -3,7 +3,7 @@ created: '2025-08-08'
 created_by: auto-stub
 expanded: 2025-08-10
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/lore
@@ -18,10 +18,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.042217+00:00'
 world: Aquabyssos
 ---
-
-
-
-
 
 # Tide Turner
 
@@ -470,18 +466,18 @@ Something in the deepest ocean trenches is calling to individuals with tidal mag
 
 ## Connected References
 
-- [[02_Worldbuilding/Lore/Pelagic the Current-Walker]] - First historical Tide Turner
+- [[02_Worldbuilding/Lore/Pelagic the Current-Walker - First historical Tide Turner
 - Abyssal The Deep Touched - Deep ocean explorer Tide Turner
-- [[02_Worldbuilding/Lore/Marina the Unifier]] - Political unity Tide Turner
-- [[02_Worldbuilding/Places/Temple of Perpetual Tides]] - Source of original prophecies
-- [[02_Worldbuilding/Groups/Orders/Order of the Eternal Current]] - Secret religious organization
+- [02_Worldbuilding/Lore/Marina the Unifier]] - Political unity Tide Turner
+- [[02_Worldbuilding/Places/Temple of Perpetual Tides - Source of original prophecies
+- [02_Worldbuilding/Groups/Orders/Order of the Eternal Current]] - Secret religious organization
 - Church Of Tidal Harmony - Primary Tide Turner religious group
-- [[02_Worldbuilding/Lore/Council of Depths]] - Government body managing Tide Turner issues
-- [[02_Worldbuilding/Lore/Deep Mother]] - Potential corrupting influence on Tide Turners
+- [[02_Worldbuilding/Lore/Council of Depths - Government body managing Tide Turner issues
+- [02_Worldbuilding/Lore/Deep Mother]] - Potential corrupting influence on Tide Turners
 - Tidal Engineering - Technical applications of Tide Turner principles
-- [[02_Worldbuilding/Lore/Current Riders Union]] - Transportation guild influenced by Tide Turner philosophy
-- [[02_Worldbuilding/Lore/Deep Current Society]] - Secret organization preserving Tide Turner knowledge
-- [[02_Worldbuilding/Lore/The Corrupted Current]] - Dark organization opposing Tide Turners
+- [[02_Worldbuilding/Lore/Current Riders Union - Transportation guild influenced by Tide Turner philosophy
+- [02_Worldbuilding/Lore/Deep Current Society]] - Secret organization preserving Tide Turner knowledge
+- [[02_Worldbuilding/Lore/The Corrupted Current - Dark organization opposing Tide Turners
 - Tide Turner Investigation Committee - Government monitoring body
 - The Ready Current - Social preparation movement
 - Tidal Reserve - Economic fund for supporting future Tide Turner
@@ -498,7 +494,6 @@ The Tide Turner concept provides extensive opportunities for long-term character
 **Historical Connection**: Linking modern adventures to ancient legends and prophecies
 
 The Tide Turner serves as both inspiration and cautionary tale, representing the potential for individuals to achieve legendary status while highlighting the responsibilities and dangers that accompany great power. Whether characters seek to fulfill the prophecy themselves or support others in doing so, the concept provides a rich foundation for memorable adventures and meaningful character development in the underwater world of Aquabyssos.
-
 
 ## Connections
 
@@ -520,5 +515,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Deep Mother]]
+- [02_Worldbuilding/Lore/Deep Mother]]
 - [[02_Worldbuilding/Lore/Deep Mother]]

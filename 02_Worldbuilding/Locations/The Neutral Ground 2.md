@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - both
 - complete
 - content/location
@@ -13,28 +13,23 @@ updated: '2025-08-13T12:34:17.022746+00:00'
 world: Both
 ---
 
-
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Deep Mother]]
-
+- [[02_Worldbuilding/Lore/Deep Mother
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Deep Mother]]
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/Places/Aethermoor]]
-- [[02_Worldbuilding/Places/Azure Citadel]]
-- [[02_Worldbuilding/Places/Coral Throne Syndicate]]
-- [[02_Worldbuilding/Places/Innkeeper Marina Dreamwhisper]]
-- [[02_Worldbuilding/Places/Mediator Serenity Stillwater]]
-- [[02_Worldbuilding/Places/Memory Farmers]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Places/The Bathyal Palace]]
-- [[02_Worldbuilding/Places/The Floating Market]]
+- [02_Worldbuilding/Lore/Deep Mother]]
+- [[02_Worldbuilding/Places/Abyssos Prime
+- [02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Azure Citadel
+- [02_Worldbuilding/Places/Coral Throne Syndicate]]
+- [[02_Worldbuilding/Places/Innkeeper Marina Dreamwhisper
+- [02_Worldbuilding/Places/Mediator Serenity Stillwater]]
+- [[02_Worldbuilding/Places/Memory Farmers
+- [02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/The Bathyal Palace
+- [02_Worldbuilding/Places/The Floating Market]]
 - [[02_Worldbuilding/Places/The Hadal Depths]]
 
 ## Player-Facing Summary
@@ -57,26 +52,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 
-
 ## Atmosphere
 - Mood and feeling
 - Sensory details
-
 
 ## Resources
 - Natural resources
 - Trade goods
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

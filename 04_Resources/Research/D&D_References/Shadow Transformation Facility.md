@@ -2,7 +2,7 @@
 
 title: Shadow Transformation Facility
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,12 +42,11 @@ updated: '2025-08-13T01:18:35.061674+00:00'
 
 - A letter reveals a betrayal about this place
 - Strange disappearances suggest a curse
-- A stranger needs help delivering before the new moon ## Related Notes - [[Similar Topic 1]]
+- A stranger needs help delivering before the new moon ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

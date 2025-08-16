@@ -3,7 +3,7 @@ enhanced: true
 
 title: Aquabyssos Survival Mechanics
 type: mechanics
-tags:
+tags: 
 - aquabyssos
 - mechanics
 - active
@@ -38,7 +38,6 @@ The fundamental process works as follows: 1. **Trigger**: Specific situation ari
 4. **Resolution**: Determine outcomes based on rolls and decisions
 5. **Consequences**: Apply results to ongoing game ### Prerequisites
 
-
 Before using this mechanic:
 - Specific conditions must be met
 - Players must have certain capabilities
@@ -56,7 +55,6 @@ The actual mechanical process:
 4. Apply modifiers and advantages
 5. Compare to target numbers #### Step 3: Results
 
-
 Determining success and degree:
 - **Critical Success** (20 or beat DC by 10+): Exceptional outcome
 - **Success** (Meet or beat DC): Intended result achieved
@@ -66,7 +64,7 @@ Determining success and degree:
 
 *Scenario*: [Specific situation]
 - Player declares intent
-- DM sets DC 15
+- DM sets **DC 15**
 - Player rolls d20+5, gets 17
 - Success achieved with described outcome ### Example 2: Complex Application
 
@@ -159,7 +157,7 @@ Solution: Adjust DCs and modifiers ## Designer Notes This mechanic aims to:
 - Strange sightings suggest ancient magic
 - Someone is protecting a artifact for power ## Examples of Play ### Basic Example
 
-Sara wants to jump across a 10ft chasm. She rolls Athletics: d20+3 vs DC 10. ### Intermediate Example
+Sara wants to jump across a 10ft chasm. She rolls Athletics: d20+3 vs **DC 10**. ### Intermediate Example
 
 During combat, Marcus attempts to jump the chasm while being shot at. He rolls with disadvantage. ### Advanced Example
 
@@ -171,8 +169,8 @@ A: No, use the higher bonus only ### Q: What about antimagic fields?
 
 A: Supernatural abilities suppressed, mundane portions still function ## Balance Analysis ### Damage Output Comparison
 
-- Standard Fighter: 2d6+5 (avg 12)
-- This Ability: 2d8+3 (avg 12)
+- Standard Fighter: `dice: 2d6`+5 (avg 12)
+- This Ability: `dice: 2d8`+3 (avg 12)
 - Conclusion: Comparable but trades consistency for variance ### Resource Economy
 
 - Uses per day: 3
@@ -209,7 +207,6 @@ A: Supernatural abilities suppressed, mundane portions still function ## Balance
 - Document house rules clearly
 - Maintain consistency across sessions
 
-
 ## Notes
 
 *Additional notes*
@@ -234,8 +231,7 @@ A: Supernatural abilities suppressed, mundane portions still function ## Balance
 ## Related Content
 *Enhanced with 1 new connections*
 
-
 ## Visual References
-![[04_Resources/Assets/Maps/maps_aquabyssos_1755205548077.png]]
-![[04_Resources/Assets/Maps/maps_aquabyssos_1755205560398.png]]
+![[04_Resources/Assets/Maps/maps_aquabyssos_1755205548077.png
+![04_Resources/Assets/Maps/maps_aquabyssos_1755205560398.png]]
 ![[04_Resources/Assets/Scenes/scenes_aquabyssos_1755205548077.png]]

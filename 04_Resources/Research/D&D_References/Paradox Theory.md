@@ -2,7 +2,7 @@
 
 title: Paradox Theory
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,10 +42,9 @@ updated: '2025-08-13T01:18:35.074422+00:00'
 
 - Someone is searching for information for power
 - Strange accidents suggest ancient magic
-- A document has gone missing and truth emerges ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Temporal Navigation]]
+- A document has gone missing and truth emerges ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Temporal Navigation
 
-- [[Temporal Navigation (D&D_Statblocks)]]
-
+- [Temporal Navigation (D&D_Statblocks)]]
 
 ## Notes
 

@@ -1,13 +1,13 @@
 ---
 
 title: Apprentice Copper
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - world/aquabyssos
 - content/lore
-- content/[[Npc]]
+- content/[[Npc
 - active
 - complete
 - status/in-progress
@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -62,7 +62,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[region]]s
+- Describe how this culture exists in other [[regions
 
 ### Death_Customs Improvements
 
@@ -88,7 +88,7 @@ Apprentice Copper is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Apprentice Copper as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Apprentice Copper.
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -111,12 +111,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Strange dreams suggest a conspiracy
 - Strange dreams suggest ancient magic
 
-## Historical [[Time|[[Time]]line]]
+## Historical [[Time|[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[People]]s
+- War with indigenous [[Peoples
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -130,4 +130,4 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Master Smith Vulcan Deepforge]]
+- [Master Smith Vulcan Deepforge]]

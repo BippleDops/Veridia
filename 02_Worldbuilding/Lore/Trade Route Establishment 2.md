@@ -1,7 +1,7 @@
 ---
 created: '2025-08-12'
 status: complete
-tags:
+tags: 
 - aquabyssos
 - commerce
 - complete
@@ -16,8 +16,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.016752+00:00'
 world: Aquabyssos
 ---
-
-
 
 # Trade Route Establishment
 *The Development of Maritime Commerce Networks (2456-634 PD)*
@@ -516,13 +514,13 @@ The establishment of major trade routes transformed the maritime empire from iso
 - Economic History Of The Realms
 - Parliamentary Founding
 - Crystal Plague Origins
-- [[02_Worldbuilding/Lore/Shadow Conspiracy Timeline]]
+- [[02_Worldbuilding/Lore/Shadow Conspiracy Timeline
 - The Catastrophe: Hour By Hour
-- [[02_Worldbuilding/Lore/Post-Merge Chronology]]
-- [[02_Worldbuilding/Lore/Great Drowning]]
-- [[02_Worldbuilding/Groups/Merchant's Covenant]]
-- [[02_Worldbuilding/Groups/Silverscale Consortium]]
-- [[02_Worldbuilding/Places/Port Meridian]]
+- [02_Worldbuilding/Lore/Post-Merge Chronology]]
+- [[02_Worldbuilding/Lore/Great Drowning
+- [02_Worldbuilding/Groups/Merchant's Covenant]]
+- [[02_Worldbuilding/Groups/Silverscale Consortium
+- [02_Worldbuilding/Places/Port Meridian]]
 - Deep Parliament Chambers
 
 ## Player-Facing Summary

@@ -2,7 +2,7 @@
 
 title: Current PC Lead
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -59,10 +59,8 @@ Leadership typically shifts based on:
 2. **Succession Challenge**: An NPC challenges the party's leadership structure, demanding a formal hierarchy
 3. **Mind Control**: Magical influence affects the party's leadership dynamics, creating confusion and conflict ## Secrets (DM Only) The Abyssal currents actually respond to strong leadership presence. Parties with clear, confident leaders find navigation easier, while those with leadership conflicts often become lost in the maze-like deep passages. This supernatural effect is unknown to most inhabitants. ## Campaign Use Encourage players to naturally assume leadership roles based on their characters' strengths and the situation. Use leadership transitions as opportunities for character development and to highlight different party members' expertise. Create scenarios that specifically require different types of leadership to showcase the value of this flexible approach. ## Player-Facing Summary Current PC Lead is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Current PC Lead as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Current PC Lead. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Plot Hooks - Someone is searching for an heir for power
 
-
 - Strange sightings suggest a conspiracy
 - Strange accidents suggest a conspiracy ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

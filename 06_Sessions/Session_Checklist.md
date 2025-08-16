@@ -1,10 +1,10 @@
 ---
 tags: [misc]
 type: misc
-aliases: ["Session Checklist"]
+aliases: ["[[Session Checklist]]"]
 ---
 
-# Session Prep Checklist
+# [[Session Prep]] Checklist
 
 - [ ] Review previous session notes
 - [ ] Prepare NPCs
@@ -14,3 +14,24 @@ aliases: ["Session Checklist"]
 - [ ] Review player goals
 - [ ] Prepare handouts
 - [ ] Check rules questions
+## [[Session Summary
+*Brief overview of this session*
+
+## [Key Events]]
+- Event 1
+- Event 2
+
+## NPCs Encountered
+- [[NPC [Name]] - Brief description
+
+## [[Locations Visited
+- [[[Location Name]]]] - What happened here
+
+## [[Quest Progress
+- [[[Quest Name]]]] - What was accomplished
+
+## Notes for [[Next Session]]
+- Important things to remember
+- Plot threads to follow up
+
+---

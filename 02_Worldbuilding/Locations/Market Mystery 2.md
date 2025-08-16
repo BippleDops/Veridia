@@ -3,7 +3,7 @@ created: '2025-08-08'
 created_by: auto-stub
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/adventure
@@ -19,13 +19,8 @@ updated: '2025-08-13T12:34:17.052505+00:00'
 world: Aquabyssos
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-market-mystery-market-mystery.svg)
-
-
-
 
 # Market Mystery
 
@@ -167,10 +162,9 @@ Solving this mystery establishes party reputation as investigators and may lead 
 ## DM Notes
 This investigation should emphasize deductive reasoning over combat. Provide multiple clues pointing to different theories, allowing players to eliminate possibilities through careful investigation.
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/The Phosphor Markets]]
+- [[02_Worldbuilding/Places/The Phosphor Markets
 
 ## Player-Facing Summary
 
@@ -182,30 +176,25 @@ Legends speak of Market Mystery as a nexus where past and present converge. Loca
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Market Mystery]]
+- [02_Worldbuilding/Places/Market Mystery]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

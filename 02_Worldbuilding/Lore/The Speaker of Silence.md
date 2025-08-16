@@ -1,10 +1,10 @@
 ---
 
 title: The Speaker of Silence
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - world/aquabyssos
 - content/faction
 - content/lore
@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -88,7 +88,7 @@ The Speaker of Silence is a undersea element of the setting, known for biolumine
 
 Legends speak of The Speaker of Silence as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Speaker of Silence.
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -120,5 +120,5 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[The Parliament of Nobody (Government_and_Parliament)]]
-- [[The Parliament of Nobody]]
+- [[The Parliament of Nobody (Government_and_Parliament)
+- [The Parliament of Nobody]]

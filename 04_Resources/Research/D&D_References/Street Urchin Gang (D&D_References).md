@@ -2,7 +2,7 @@
 
 title: Street Urchin Gang (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -61,17 +61,15 @@ A resourceful band of homeless children and teenagers who survive on the streets
 2. Player characters hire them for information gathering
 3. City crackdown forces them to seek temporary sanctuary ## DM Notes
 
-
 Use this gang to add moral complexity - they're criminals but sympathetic. They can serve as both obstacles and allies depending on party actions and needs. ## Player-Facing Summary Street Urchin Gang is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Street Urchin Gang as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Street Urchin Gang. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Second Prophecy of Winds ## Plot Hooks - A document has gone missing and chaos spreads
 
 - A document has gone missing and truth emerges
 - A merchant needs help finding before winter
-- A document has gone missing and war looms ## Related Notes - [[Similar Topic 1]]
+- A document has gone missing and war looms ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

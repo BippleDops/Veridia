@@ -2,7 +2,7 @@
 
 title: The Eternal Flame
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -46,10 +46,9 @@ updated: '2025-08-13T01:18:34.555620+00:00'
 
 > 💡 **Running This Content**: Advice for game masters
 
-> Adjust difficulty based on party composition ## References - [[Cathedral of Light]]
+> Adjust difficulty based on party composition ## References - [[Cathedral of Light
 
-- [[Cathedral of Light (D&D_References)]]
-
+- [Cathedral of Light (D&D_References)]]
 
 ## Notes
 

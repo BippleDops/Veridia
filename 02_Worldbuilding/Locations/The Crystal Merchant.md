@@ -2,7 +2,7 @@
 
 title: The Crystal Merchant
 type: Location
-tags:
+tags: 
 - aquabyssos
 - status/complete
 - content/location
@@ -299,19 +299,16 @@ Ongoing situations affecting The Crystal Merchant:
 
 ## References
 
-- [[Old Valdris]]
-- [[Old Valdris (D&D_References)]]
-
+- [[Old Valdris
+- [Old Valdris (D&D_References)]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

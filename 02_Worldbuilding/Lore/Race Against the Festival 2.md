@@ -1,8 +1,8 @@
 ---
-accessibility:
+accessibility: 
   content_warnings: []
   pronunciation: Race Against the Festival
-  safety_tools:
+  safety_tools: 
   - Lines & Veils
   - X-Card
   screen_reader_summary: This lore entry explains a pivotal principle or event and
@@ -10,7 +10,7 @@ accessibility:
 created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
-tags:
+tags: 
 - aethermoor
 - complete
 - content/lore
@@ -22,12 +22,9 @@ updated: '2025-08-13T12:34:16.061547+00:00'
 world: Aethermoor
 ---
 
-
-
-
 # Race Against the Festival
 
-![[04_Resources/Assets/Art/Lore/Race_Against_the_Festival.png|Race Against the Festival Portrait]]
+![[04_Resources/Assets/Art/Lore/Race_Against_the_Festival.png|Race Against the Festival Portrait
 
 ## Summary
 Race Against the Festival describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.
@@ -43,13 +40,13 @@ Race Against the Festival describes a turning current in history where choices a
 - Exploration: Recognizing encoded waystones reduces the chance of getting lost by one step.
 
 ## Threads and Revelations
-- Records implicate agents tied to [[02_Worldbuilding/Lore/The Lighthouse of Storms]].
-- A rite echoes the activation cadence needed for [[02_Worldbuilding/Quests/The Whispering Expanse]].
-- Testimony suggests [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]] financed a pivotal bribe.
+- Records implicate agents tied to [02_Worldbuilding/Lore/The Lighthouse of Storms]].
+- A rite echoes the activation cadence needed for [[02_Worldbuilding/Quests/The Whispering Expanse.
+- Testimony suggests [02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]] financed a pivotal bribe.
 
 ## Cross-References
-- [[02_Worldbuilding/Lore/The Lighthouse of Storms]]
-- [[02_Worldbuilding/Quests/The Whispering Expanse]]
+- [[02_Worldbuilding/Lore/The Lighthouse of Storms
+- [02_Worldbuilding/Quests/The Whispering Expanse]]
 - [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]]
 
 ## Player-Facing Summary

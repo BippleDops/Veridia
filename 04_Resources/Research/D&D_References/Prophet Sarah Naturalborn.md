@@ -2,7 +2,7 @@
 
 title: Prophet Sarah Naturalborn
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,10 +42,9 @@ updated: '2025-08-13T01:18:34.950241+00:00'
 
 - Strange accidents suggest ancient magic
 - Someone is searching for an heir for love
-- Someone is blackmailing a artifact for love ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Purist Coalition Thugs]]
+- Someone is blackmailing a artifact for love ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Purist Coalition Thugs
 
-- [[Purist Coalition Thugs (D&D_References)]]
-
+- [Purist Coalition Thugs (D&D_References)]]
 
 ## Notes
 

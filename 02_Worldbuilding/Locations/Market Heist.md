@@ -2,7 +2,7 @@
 
 title: Market Heist
 type: Location
-tags:
+tags: 
 - aquabyssos
 - content/adventure
 - status/complete
@@ -346,11 +346,9 @@ Key stop on magic items trade route
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

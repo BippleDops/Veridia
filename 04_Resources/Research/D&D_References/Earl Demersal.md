@@ -2,7 +2,7 @@
 
 title: Earl Demersal
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -44,14 +44,13 @@ updated: '2025-08-13T01:18:34.771904+00:00'
 
 - The authorities needs help delivering before the festival
 - Strange accidents suggest a curse
-- A map reveals the truth about a local noble ## Related Notes - [[Similar Topic 1]]
+- A map reveals the truth about a local noble ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## References - [[Abyssos Prime - Inverse Palace]]
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## References - [[Abyssos Prime - Inverse Palace
 
-- [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]]
-
+- [Abyssos Prime - Inverse Palace (D&D_Statblocks)]]
 
 ## Notes
 

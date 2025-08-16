@@ -1,10 +1,10 @@
 ---
 
-title: [[Marina the Unifie]]r
-type: [[Lore]]
-tags:
+title: [[Marina the Unifier
+type: [Lore]]
+tags: 
 - lore
-- [[Aquabyssos]]
+- [[Aquabyssos
 - world/aquabyssos
 - content/lore
 - active
@@ -33,7 +33,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 

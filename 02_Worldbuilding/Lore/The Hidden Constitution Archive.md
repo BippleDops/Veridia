@@ -1,9 +1,9 @@
 ---
 title: The Hidden Constitution Archive
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - world/aquabyssos
 - content/faction
 - content/lore

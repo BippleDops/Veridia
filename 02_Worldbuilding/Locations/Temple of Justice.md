@@ -2,7 +2,7 @@
 
 title: Temple of Justice
 type: Location
-tags:
+tags: 
 - content/location
 - place
 - world/aethermoor
@@ -229,11 +229,9 @@ Key stop on magic items trade route
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

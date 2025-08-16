@@ -2,7 +2,7 @@
 
 title: The Pure Sanctum
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -51,10 +51,9 @@ updated: '2025-08-13T01:18:34.547951+00:00'
 
 > 🎮 **Strategy**: How to approach this content
 
-> Work together and communicate ## References - [[Purist Coalition Thugs]]
+> Work together and communicate ## References - [[Purist Coalition Thugs
 
-- [[Purist Coalition Thugs (D&D_References)]]
-
+- [Purist Coalition Thugs (D&D_References)]]
 
 ## Notes
 

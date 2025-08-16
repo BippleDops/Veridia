@@ -2,7 +2,7 @@
 
 title: Foreign Affairs Ministry
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,10 +42,9 @@ updated: '2025-08-13T01:18:34.901967+00:00'
 
 - A journal reveals a betrayal about a local noble
 - An heirloom has gone missing and evil awakens
-- Strange disappearances suggest ancient magic ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Shadow Ambush - Optional (Criminal_Organizations)]]
+- Strange disappearances suggest ancient magic ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Shadow Ambush - Optional (Criminal_Organizations)
 
-- [[Shadow Ambush - Optional]]
-
+- [Shadow Ambush - Optional]]
 
 ## Notes
 

@@ -2,7 +2,7 @@
 
 title: Other_Actual_Plays
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -48,7 +48,6 @@ modified: '2025-08-14'
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Notes
 

@@ -1,11 +1,11 @@
 ---
 
 title: Exotic Imports Market
-type: [[location]]
-tags:
+type: [[location
+tags: 
 - content/location
 - place
-- world/[[Aethermoor]]
+- world/[Aethermoor]]
 - active
 - location
 - complete
@@ -43,7 +43,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -93,20 +93,20 @@ improvements: 20
 
 Exotic Imports Market is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## [[Lore]] Details
+## [Lore]] Details
 
 Legends speak of Exotic Imports Market as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Exotic Imports Market.
 
-### [[Key Locations]]
+### [[Key Locations
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map use.
 
 ## Sensory Details
 
@@ -139,7 +139,7 @@ Exotic Imports Market is a notable location characterized by its unique features
 
 ## Connections
 - **North**: Trade road to neighboring settlement
-- **South**: [[path]] through wilderness
+- **South**: [path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
 
@@ -225,19 +225,16 @@ Ongoing situations affecting Exotic Imports Market:
 
 ## References
 
-- [[Port Meridian - Merchant Quarter]]
-- [[Port Meridian - Merchant Quarter (D&D_References)]]
-
+- [[Port Meridian - Merchant Quarter
+- [Port Meridian - Merchant Quarter (D&D_References)]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

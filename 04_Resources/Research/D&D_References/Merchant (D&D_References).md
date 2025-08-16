@@ -2,7 +2,7 @@
 
 title: Merchant (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -91,7 +91,6 @@ Marina began as a traveling trader before settling in Aquabyssos. Her diverse co
 3. Characters seek information she might have acquired
 4. Supply shortage requires finding alternative sources ## Personal Details
 
-
 **Age**: 42, experienced in trade for over 20 years
 **Family**: Widowed, supports elderly parents and teenage nephew
 **Interests**: Collecting foreign currencies and cultural artifacts
@@ -128,7 +127,6 @@ Marina began as a traveling trader before settling in Aquabyssos. Her diverse co
 **Networking**: Expanding connections with foreign suppliers ## DM Notes
 
 Marina serves as reliable source for mundane equipment and local information. Her shop provides realistic shopping experience while her network offers plot hooks and adventure connections. Use her as liaison between party and merchant community. ## Player-Facing Summary Merchant is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Merchant as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Merchant. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

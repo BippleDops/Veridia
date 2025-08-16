@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/lore
@@ -13,18 +13,13 @@ updated: '2025-08-13T12:34:16.143455+00:00'
 world: Aquabyssos
 ---
 
-
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Underwater Breathing]]
-
+- [[02_Worldbuilding/Lore/Underwater Breathing
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Underwater Breathing]]
+- [02_Worldbuilding/Lore/Underwater Breathing]]
 
 ## Player-Facing Summary
 

@@ -2,7 +2,7 @@
 
 title: Reflection Pools (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -60,7 +60,6 @@ The Reflection Pools are a sacred site consisting of seven perfectly circular po
 6. **Pool of Distance** - Observes remote locations
 7. **Pool of Dreams** - Connects to sleeping minds ## Usage and Rituals
 
-
 **Divination Services:** Oracles use pools for prophecy and guidance
 **Investigation Aid:** Authorities consult pools for crime solving
 **Personal Seeking:** Individuals seeking life direction
@@ -77,7 +76,6 @@ The Reflection Pools are a sacred site consisting of seven perfectly circular po
 4. Vision reveals location of crucial information or artifact
 5. Pool watchers request protection during dangerous divination ritual ## Services and Costs
 
-
 **Basic Reading:** 100 gp for simple question
 **Detailed Vision:** 500 gp for complex inquiry
 **Historical Research:** 250 gp per historical period
@@ -87,7 +85,6 @@ The Reflection Pools are a sacred site consisting of seven perfectly circular po
 Use the Reflection Pools as plot devices to provide information, foreshadow events, or create red herrings. Visions should be symbolic rather than literal, requiring interpretation and potentially misleading parties into interesting complications. ## Player-Facing Summary Reflection Pools is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Reflection Pools as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Reflection Pools. ## Related *Links to related content will be added here.* ## Plot Hooks - A letter reveals ancient history about the government
 
 - Strange dreams suggest a curse ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

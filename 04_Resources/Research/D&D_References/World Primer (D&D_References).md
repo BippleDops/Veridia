@@ -2,7 +2,7 @@
 
 title: World Primer (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -59,7 +59,6 @@ The dimensional merger that created modern Aquabyssos is well-documented in the 
 - **The Crystal Plague**: Enhanced many survivors' adaptation capabilities - **The Deep Fleet**: Military forces coordinated the final evacuation
 - **The Transformation Wave**: Changed environmental physics to support life
 - **The Integration**: Parliamentary democracy adapted to include all species #### Geography by Depth **The Sunlight Zone (0-500ft)**
-
 
 **Summary**: Geography by Depth **The Sunlight Zone (0-500ft)** - Key information at a glance.
 
@@ -211,7 +210,6 @@ A condition where living tissue transforms into crystal. It grants power but eve
 4. **Transformation**: More crystal than flesh
 5. **Transcendence**: Complete crystallization, consciousness questionable ### The Pressure Cascade (Aquabyssos)
 
-
 A phenomenon where reality "pressurizes," causing:
 - Time dilation effects
 - Spontaneous mutations
@@ -259,12 +257,11 @@ The economy of experiences, where memories are currency:
 - Ancient powers are awakened, contained, or destroyed
 - The truth of the Sundering is revealed, hidden, or rewritten Every faction offers a different vision of the future. Every depth holds new mysteries. Every choice echoes through both worlds. The pressure is building. The seal is weakening. The Deep Mother stirs. What will you do when the tide turns? --- *Welcome to the depths and heights. May you find your path between pressure and light.* ## Player-Facing Summary World Primer is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of World Primer as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around World Primer. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Second Prophecy of Winds ## Plot Hooks - Someone is hunting a witness for love
 
-- Strange dreams suggest ancient magic ## Related Notes - [[Similar Topic 1]]
+- Strange dreams suggest ancient magic ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]]
 
 ## Notes
 

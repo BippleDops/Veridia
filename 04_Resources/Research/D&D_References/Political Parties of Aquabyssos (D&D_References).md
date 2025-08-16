@@ -2,7 +2,7 @@
 
 title: Political Parties of Aquabyssos (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -131,24 +131,20 @@ The TAP is controlled by Crystallium intelligence services to:
 3. **Coalition Negotiation:** Mediate between parties to form working government
 4. **Platform Exposure:** Uncover hidden agendas and foreign influence operations ### Infiltration Operations
 
-
 1. Consequently, **Shadow Hunt:** Identify which party leaders are shadow replacements
 2. **Foreign Agent Discovery:** Expose international intelligence operations
 3. **Corruption Investigation:** Track illegal funding and influence networks
 4. **Double Agent:** Navigate competing loyalties in intelligence operations ### Constitutional Scenarios
-
 
 1. **Government Formation:** Help parties create stable governing coalition
 2. **Crisis Management:** Resolve political deadlock during succession crisis
 3. **Reform Movement:** Support or oppose fundamental changes to political system
 4. **International Mediation:** Handle foreign intervention in domestic politics ### Personal Drama
 
-
 1. **Political Family:** Navigate relationships affected by party divisions
 2. **Ideological Conflict:** Characters with conflicting political beliefs
 3. **Betrayal and Loyalty:** Personal relationships vs. Political obligations
 4. **Redemption Arc:** Help politician escape corruption and foreign influence ### Party Power Rankings
-
 
 | Party | Seats | Real Influence | Foreign Control | Hidden Agenda Risk |
 |-------|-------|----------------|-----------------|-------------------|

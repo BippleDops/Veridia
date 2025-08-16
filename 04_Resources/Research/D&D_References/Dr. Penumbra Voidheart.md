@@ -2,7 +2,7 @@
 
 title: Dr. Penumbra Voidheart
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,10 +43,9 @@ updated: '2025-08-13T01:18:35.206851+00:00'
 
 --- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Dr. Penumbra Voidheart is a void-touched element of the setting, known for impossible angles and star-silent echoes. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Dr. Penumbra Voidheart as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Dr. Penumbra Voidheart. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Second Prophecy of Winds ## Plot Hooks - A shipment has gone missing and truth emerges
 
-- Strange sightings suggest a portal ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Shadow Surgeon Strike Team (Criminal_Organizations)]]
+- Strange sightings suggest a portal ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Shadow Surgeon Strike Team (Criminal_Organizations)
 
-- [[Shadow Surgeon Strike Team]]
-
+- [Shadow Surgeon Strike Team]]
 
 ## Notes
 

@@ -2,7 +2,7 @@
 created: '2025-08-08'
 created_by: auto-stub
 status: complete
-tags:
+tags: 
 - chronology
 - content/item
 - content/lore
@@ -14,7 +14,6 @@ type: Lore
 updated: '2025-08-12T23:37:38.449344'
 world: Aquabyssos
 ---
-
 
 # Timeline Tracker Base
 

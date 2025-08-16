@@ -2,7 +2,7 @@
 
 title: Crystal Weapons
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,7 +43,6 @@ updated: '2025-08-13T01:18:34.859435+00:00'
 - Strange disappearances suggest a curse
 - A prisoner has gone missing and war looms
 - Strange dreams suggest a curse ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[The Crown (D&D_References)]]
-
 
 ## Notes
 

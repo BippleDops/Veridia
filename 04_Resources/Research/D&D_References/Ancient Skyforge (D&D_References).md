@@ -2,7 +2,7 @@
 
 title: Ancient Skyforge (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,7 +42,6 @@ world: Both
 
 - An heirloom has gone missing and evil awakens
 - A noble needs help finding before the festival ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

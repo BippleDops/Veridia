@@ -2,7 +2,7 @@
 
 title: The Missing Diplomat (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -99,13 +99,11 @@ A critical political investigation where Ambassador Nereon Peacekeeper, Aquabyss
 3. Family member asks for help finding missing relative
 4. Intelligence suggests characters might be next targets ## Long-term Impact
 
-
 Success maintains peaceful relations and opens future diplomatic opportunities. Failure could lead to trade wars, border conflicts, or breakdown of international cooperation. ## DM Notes
 
 This investigation combines political intrigue with detective work. Focus on the ticking clock of diplomatic deadlines and the complex motivations of various factions. The truth should be logical but not obvious, requiring players to piece together multiple clues. ## Player-Facing Summary The Missing Diplomat is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Missing Diplomat as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Missing Diplomat. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil ## Plot Hooks - A journal reveals ancient history about a local noble
 
 - The authorities needs help finding before winter ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

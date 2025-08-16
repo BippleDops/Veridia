@@ -1,10 +1,10 @@
 ---
 
 title: Crown of Stars
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - magical-barrier-fortress
 - active
 - crystal-enhanced
@@ -31,7 +31,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
+- Detail currency, [[trade-goods-xdmg (tables), and wealth distribution
 
 ### Religion Improvements
 
@@ -77,11 +77,11 @@ Crown of Stars is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Crown of Stars as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Crown of Stars.
 
-## [[DM_Notes]]
+## [DM_Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## [[Historical Context]]
+## [[Historical Context
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -130,12 +130,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[The Crown of Stars]]
-- [[The Great Crystallization]]
-- [[The Shattering of the Crown]]
-- [[Crystallium]]
-- [[The Lock]]
-- [[Crystallium (D&D_References)]]
-- [[The Lock (D&D_References)]]
-- [[Topic Matrix]]
-- [[Topic_Matrix (Indexes)]]
+- [The Crown of Stars]]
+- [[The Great Crystallization
+- [The Shattering of the Crown]]
+- [[Crystallium
+- [The Lock]]
+- [[Crystallium (D&D_References)
+- [The Lock (D&D_References)]]
+- [[Topic Matrix
+- [Topic_Matrix (Indexes)]]

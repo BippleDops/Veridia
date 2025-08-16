@@ -2,7 +2,7 @@
 
 title: Shadow Political Representation
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,10 +43,9 @@ updated: '2025-08-13T01:18:34.821528+00:00'
 
 - A noble needs help delivering before the new moon
 - Strange accidents suggest a conspiracy
-- Someone is searching for a artifact for money ## References - [[Parliament-of-Shadows-Campaign (Government_and_Parliament)]]
+- Someone is searching for a artifact for money ## References - [[Parliament-of-Shadows-Campaign (Government_and_Parliament)
 
-- [[Parliament-of-Shadows-Campaign]]
-
+- [Parliament-of-Shadows-Campaign]]
 
 ## Notes
 

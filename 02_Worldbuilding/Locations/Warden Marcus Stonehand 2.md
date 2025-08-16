@@ -6,7 +6,7 @@ created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
 status: complete
-tags:
+tags: 
 - aquabyssos
 - campaign/arc
 - complete
@@ -22,12 +22,6 @@ type: Location
 updated: '2025-08-13T12:34:16.695956+00:00'
 world: Aquabyssos
 ---
-
-
-
-
-
-
 
 # Warden Marcus Stonehand
 
@@ -56,7 +50,7 @@ He wears a modified warden's uniform designed for underwater environments, with 
 ## Statistics
 **Medium humanoid (human), lawful good**
 - **AS** 17 (Studded Leather + Dex)
-- **HP** 95 (14d10 + 28)
+- **HP** 95 (`dice: 14d10` + 28)
 - **Speed** 30 ft, swim 25 ft
 - **STR** 16 (+3) **DEX** 14 (+2) **CON** 15 (+2) **INT** 16 (+3) **WIS** 18 (+4) **CHA** 15 (+2)
 - **Skills** Athletics +6, Insight +10, Intimidation +8, Investigation +6, Perception +10
@@ -74,13 +68,13 @@ He wears a modified warden's uniform designed for underwater environments, with 
 ### Actions
 **Multiattack.** Marcus makes two attacks with his truncheon or one truncheon attack and uses Stone Grip.
 
-**Enchanted Truncheon +1.** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 4) bludgeoning damage. Target must make DC 15 Constitution save or be stunned until the end of their next turn.
+**Enchanted Truncheon +1.** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (`dice: 1d6` + 4) bludgeoning damage. Target must make **DC 15** Constitution save or be stunned until the end of their next turn.
 
-**Stone Grip.** Marcus attempts to grapple with his stone hand (advantage on the roll). Grappled creatures take 1d6 + 3 crushing damage at the start of each turn.
+**Stone Grip.** Marcus attempts to grapple with his stone hand (advantage on the roll). Grappled creatures take `dice: 1d6` + 3 crushing damage at the start of each turn.
 
 **Lockdown Command (1/day).** Marcus can activate prison security systems in a 100-foot radius, sealing doors and activating restraint fields for 10 minutes.
 
-**Call Guards (1/day).** Marcus summons 2d4 prison guards who arrive in 1d4 rounds.
+**Call Guards (1/day).** Marcus summons `dice: 2d4` prison guards who arrive in `dice: 1d4` rounds.
 
 ## Background
 
@@ -118,38 +112,27 @@ He's also investigating reports of attempts to communicate with high-security pr
 ## DM Notes
 Warden Stonehand represents the principled civil servant who maintains institutional integrity despite political pressure. Use him to explore themes of justice, rehabilitation, and moral consistency. His prison can serve as a source of information, a secure meeting place, or the setting for rescue/extraction missions.
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/Pressure's End]]
-
+- [[02_Worldbuilding/Places/Pressure's End
 
 ## History
 
-
 TODO
-
 
 ## Layout
 
-
 TODO
-
 
 ## Notables
 
-
 TODO
-
 
 ## Threats
 
-
 TODO
 
-
 ## Hooks
-
 
 TODO
 
@@ -169,30 +152,25 @@ Legends speak of Warden Marcus Stonehand as a nexus where past and present conve
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Warden Marcus Stonehand]]
+- [02_Worldbuilding/Places/Warden Marcus Stonehand]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

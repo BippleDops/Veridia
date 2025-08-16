@@ -1,7 +1,7 @@
 ---
-title: [[Aquabyssos]] [[Aethermoor]] Treaties
-type: [[Lore]]
-tags:
+title: [[Aquabyssos [Aethermoor]] Treaties
+type: [[Lore
+tags: 
 - trade
 - aerial
 - aquatic
@@ -42,12 +42,12 @@ Aquabyssos-Aethermoor Treaties represents a significant element within the campa
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: [[Link]]ed to multiple other elements
+- **Connections**: [Link]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-[[Historical Context]] and development over [[Time]].
+[[Historical Context and development over [Time]].
 
 ### Current State
 Present circumstances and ongoing relevance.
@@ -68,14 +68,14 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 *Customize as needed for your specific campaign requirements.*
 
 ## References
 
-- [[Aquabyssos Trade Seal]]
-- [[Aquabyssos Ambassadors]]
-- [[Aquabyssos Trade Seal (D&D_References)]]
-- [[Marriage Between Worlds]]
-- [[Convergence Point Introduction]]
+- [Aquabyssos Trade Seal]]
+- [[Aquabyssos Ambassadors
+- [Aquabyssos Trade Seal (D&D_References)]]
+- [[Marriage Between Worlds
+- [Convergence Point Introduction]]
 - [[Convergence_Point_Introduction (D&D_Sourcebooks)]]

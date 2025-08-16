@@ -3,9 +3,9 @@ created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
-tags:
-- [[Lore]]
-title: Fantasy Calendar [[Time|[[Time]]line]]
+tags: 
+- [[Lore
+title: Fantasy Calendar [[Time|[Time]]line]]
 type: lore
 updated: 2025-08-14
 ---
@@ -20,12 +20,12 @@ Fantasy Calendar Timeline represents a significant element within the campaign w
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: [[Link]]ed to multiple other elements
+- **Connections**: [[Linked to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-[[Historical Context]] and development over time.
+[Historical Context]] and development over time.
 
 ### Current State
 Present circumstances and ongoing relevance.

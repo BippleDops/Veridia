@@ -2,7 +2,7 @@
 
 title: Depth Pressure Rings (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -64,12 +64,11 @@ Depth Pressure Rings represent one of the most fundamental and widely-used magic
 
 **Level**: 9-13 **Hook**: Someone is traveling to impossible depths without any visible protection **Mystery**: Investigate how individual survives crushing pressures **Discovery**: Person has developed natural pressure resistance through unknown means **Implications**: Discovery could revolutionize underwater exploration **Consequences**: Various factions want to exploit or protect this individual #### The Ring War
 
-**Level**: 12-16 **Hook**: Trade war between ring-producing guilds threatens entire economy **Politics**: Navigate complex relationships between manufacturing groups **Stakes**: Disruption could collapse Aquabyssos's ability to function underwater **Diplomacy**: Mediate between legitimate competing interests **Resolution**: Find compromise that preserves both competition and cooperation ## Player-Facing Summary Depth Pressure Rings is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Depth Pressure Rings as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Depth Pressure Rings. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality ## Related Notes - [[Similar Topic 1]]
+**Level**: 12-16 **Hook**: Trade war between ring-producing guilds threatens entire economy **Politics**: Navigate complex relationships between manufacturing groups **Stakes**: Disruption could collapse Aquabyssos's ability to function underwater **Diplomacy**: Mediate between legitimate competing interests **Resolution**: Find compromise that preserves both competition and cooperation ## Player-Facing Summary Depth Pressure Rings is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Depth Pressure Rings as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Depth Pressure Rings. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

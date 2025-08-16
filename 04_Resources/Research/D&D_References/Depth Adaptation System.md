@@ -2,7 +2,7 @@
 
 title: Depth Adaptation System
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -53,17 +53,17 @@ world: Both
 
 Characters accumulate Adaptation Points through exposure to Aquabyssos's environment. These points track their transformation from surface dweller to deep dweller. #### Stage 5: Complete Transformation (100+ AP)
 
-- **Final Form**: Choose transformation type: 1. **Living Current**: Become sentient water 2. **Coral Symbiont**: Merge with [[Corallion]] 3. **Shadow Being**: Become independent shadow 4. **Memory Entity**: Exist only in Memory Tides 5. **Depth Horror**: Become NPC monster
+- **Final Form**: Choose transformation type: 1. **Living Current**: Become sentient water 2. **Coral Symbiont**: Merge with [[Corallion 3. **Shadow Being**: Become independent shadow 4. **Memory Entity**: Exist only in Memory Tides 5. **Depth Horror**: Become NPC monster
 - **Player Options**: - Retire character as NPC - Continue playing as transformed entity (DM discretion) - Soul transfers to new body (rare quest reward) ### Pressure Zones
 
 | Depth | Pressure DC | Frequency | Effects on Failure |
 |-------|-------------|-----------|-------------------|
-| 0-500 ft | DC 10 | 1/hour | 1 exhaustion |
-| 501-1,000 ft | DC 12 | 1/hour | 1 exhaustion + 1 AP |
-| 1,001-5,000 ft | DC 14 | 2/hour | 1 exhaustion + 1d4 damage + 1 AP |
-| 5,001-10,000 ft | DC 16 | 2/hour | 2 exhaustion + 2d4 damage + 2 AP |
-| 10,001-20,000 ft | DC 18 | 1/10 min | 2 exhaustion + 4d4 damage + 3 AP |
-| 20,001+ ft | DC 20 | 1/minute | 3 exhaustion + 6d4 damage + 5 AP | ### Shadow Independence Threshold
+| 0-500 ft | **DC 10** | 1/hour | 1 exhaustion |
+| 501-1,000 ft | **DC 12** | 1/hour | 1 exhaustion + 1 AP |
+| 1,001-5,000 ft | **DC 14** | 2/hour | 1 exhaustion + `dice: 1d4` damage + 1 AP |
+| 5,001-10,000 ft | **DC 16** | 2/hour | 2 exhaustion + `dice: 2d4` damage + 2 AP |
+| 10,001-20,000 ft | **DC 18** | 1/10 min | 2 exhaustion + `dice: 4d4` damage + 3 AP |
+| 20,001+ ft | **DC 20** | 1/minute | 3 exhaustion + `dice: 6d4` damage + 5 AP | ### Shadow Independence Threshold
 
 At 50+ AP, character's shadow begins developing independence: #### Daily Shadow Check
 
@@ -80,23 +80,22 @@ When shadow acts independently:
 3. **Hostile**: Shadow attacks (as Shadow demon)
 4. **Replacement**: Shadow attempts to switch places ### Memory Tides
 
-
 **Frequency**: Twice yearly + random surges
-**Effect**: WIS save DC 16 or experience 1d100 random memories
+**Effect**: WIS save **DC 16** or experience `dice: 1d100` random memories
 **Results**:
 - 1-20: Pleasant memories (inspiration)
 - 21-50: Mundane memories (no effect)
 - 51-75: Traumatic memories (frightened 1 hour)
-- 76-90: Alien memories (1d6 AP + confusion)
+- 76-90: Alien memories (`dice: 1d6` AP + confusion)
 - 91-99: Death memories (paralyzed 10 minutes)
 - 100: Primordial memory (gain deep knowledge + 10 AP) ### Void Currents
 
-**Navigation**: INT save DC 15 or become lost
-**Exposure**: Lose 1d4 memories per hour
+**Navigation**: INT save **DC 15** or become lost
+**Exposure**: Lose `dice: 1d4` memories per hour
 **Protection**: Memory Anchors provide advantage ### Crystal Zones
 
-**Effect**: CON save DC 14 or gain crystallization
-**Progression**: Similar to AP but leads to [[Crystal Plague]]
+**Effect**: CON save **DC 14** or gain crystallization
+**Progression**: Similar to AP but leads to [Crystal Plague]]
 **Interaction**: Crystallization and Adaptation conflict ### Adaptation Items
 
 | Item | Effect | Cost | Rarity |
@@ -111,17 +110,16 @@ When shadow acts independently:
 1-4: Bioluminescent spots (shed light 5 ft)
 5-8: Echo location (blindsight 10 ft in water)
 9-12: Ink glands (obscure 10 ft sphere 1/day)
-13-16: Electrical organs (1d4 shock touch)
+13-16: Electrical organs (`dice: 1d4` shock touch)
 17-19: Camouflage skin (advantage on stealth in water)
 20: Roll twice, gain both ### Major Mutations (At Stage 3+)
 
 1. Tentacle arm (extra grapple attack)
 2. Crystalline eyes (see through illusions)
-3. Pressure blast (1d10 force damage cone)
+3. Pressure blast (`dice: 1d10` force damage cone)
 4. Memory absorption (gain memories from touch)
 5. Shadow puppet (control shadows 10 ft)
 6. Time dilation (age differently in depths) ### Daily Routine in Aquabyssos
-
 
 | Time | Activity | AP Risk |
 |------|----------|---------|
@@ -139,11 +137,10 @@ When shadow acts independently:
 - Allow creative solutions to slow adaptation
 - Transformation can be campaign goal or threat
 - Consider party split by adaptation levels
-- Use adaptation for roleplay opportunities > *Remember: Adaptation isn't just mechanical - it's losing humanity piece by piece, trading identity for survival. Make it matter.* ## Player-Facing Summary Depth Adaptation System is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Depth Adaptation System as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Depth Adaptation System. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Comprehensive-World-Connection-Guide]]
+- Use adaptation for roleplay opportunities > *Remember: Adaptation isn't just mechanical - it's losing humanity piece by piece, trading identity for survival. Make it matter.* ## Player-Facing Summary Depth Adaptation System is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Depth Adaptation System as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Depth Adaptation System. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Comprehensive-World-Connection-Guide
 
-- [[Comprehensive-World-Connection-Guide (D&D_References)]]
+- [Comprehensive-World-Connection-Guide (D&D_References)]]
 - [[Comprehensive-World-Connection-Guide 3 (D&D_References)]]
-
 
 ## Notes
 

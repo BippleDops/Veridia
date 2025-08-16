@@ -6,7 +6,7 @@ created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -23,15 +23,8 @@ updated: '2025-08-13T12:34:16.596010+00:00'
 world: Aquabyssos
 ---
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-merchant-delilah-currentrunner-merchant-delilah-currentrunner.svg)
-
-
-
-
-
-
 
 # Merchant Delilah Currentrunner
 
@@ -60,7 +53,7 @@ She dresses in practical but high-quality clothing designed for both underwater 
 ## Statistics
 **Medium humanoid (triton), neutral**
 - **AS** 15 (Studded Leather + Dex)
-- **HP** 78 (12d8 + 24)
+- **HP** 78 (`dice: 12d8` + 24)
 - **Speed** 30 ft, swim 40 ft
 - **STR** 14 (+2) **DEX** 17 (+3) **CON** 15 (+2) **INT** 16 (+3) **WIS** 14 (+2) **CHA** 18 (+4)
 - **Skills** Deception +7, Insight +5, Perception +5, Persuasion +10, Sleight of Hand +6
@@ -80,11 +73,11 @@ She dresses in practical but high-quality clothing designed for both underwater 
 ### Actions
 **Multiattack.** Delilah makes two attacks with her cutlass or crossbow.
 
-**Enchanted Cutlass +1.** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 4) slashing damage.
+**Enchanted Cutlass +1.** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (`dice: 1d6` + 4) slashing damage.
 
-**Light Crossbow.** *Ranged Weapon Attack:* +6 to hit, range 80/320 ft., one target. *Hit:* 6 (1d8 + 3) piercing damage.
+**Light Crossbow.** *Ranged Weapon Attack:* +6 to hit, range 80/320 ft., one target. *Hit:* 6 (`dice: 1d8` + 3) piercing damage.
 
-**Call for Backup (1/day).** Delilah can use her conch shell to summon 1d4 loyal crew members who arrive in 1d4 rounds by the fastest available route.
+**Call for Backup (1/day).** Delilah can use her conch shell to summon `dice: 1d4` loyal crew members who arrive in `dice: 1d4` rounds by the fastest available route.
 
 **Triton Heritage.** Delilah can cast *fog cloud* once per day without expending a spell slot.
 
@@ -127,41 +120,30 @@ She's also investigating reports of interference with shipping lanes and suspici
 ## DM Notes
 Delilah serves as both a transportation resource and a source of information about regional trade and politics. Her independent status and diverse client base make her useful for introducing plot complications and opportunities. Use her merchant network to provide information and her vessels for transportation while creating moral dilemmas about the nature of her various clients.
 
-
 ## Connections
 
-- [[02_Worldbuilding/People/Captain Garrett Stormcutter]]
-- [[02_Worldbuilding/Places/Lumengarde]]
-- [[02_Worldbuilding/Places/New Tethys]]
-- [[02_Worldbuilding/Places/The Phosphor Markets]]
-
+- [[02_Worldbuilding/People/Captain Garrett Stormcutter
+- [02_Worldbuilding/Places/Lumengarde]]
+- [[02_Worldbuilding/Places/New Tethys
+- [02_Worldbuilding/Places/The Phosphor Markets]]
 
 ## History
 
-
 TODO
-
 
 ## Layout
 
-
 TODO
-
 
 ## Notables
 
-
 TODO
-
 
 ## Threats
 
-
 TODO
 
-
 ## Hooks
-
 
 TODO
 
@@ -185,26 +167,21 @@ Legends speak of Merchant Delilah Currentrunner as a nexus where past and presen
 
 <!-- enriched: true -->
 
-
 ## Atmosphere
 - Mood and feeling
 - Sensory details
-
 
 ## Resources
 - Natural resources
 - Trade goods
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

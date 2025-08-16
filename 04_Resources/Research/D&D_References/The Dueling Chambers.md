@@ -2,7 +2,7 @@
 
 title: The Dueling Chambers
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,10 +42,9 @@ updated: '2025-08-13T01:18:34.941294+00:00'
 
 - A document has gone missing and chaos spreads
 - A noble needs help finding before winter
-- Strange sightings suggest a portal ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[The Shadow Duchess Duel (Criminal_Organizations)]]
+- Strange sightings suggest a portal ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[The Shadow Duchess Duel (Criminal_Organizations)
 
-- [[The Shadow Duchess Duel]]
-
+- [The Shadow Duchess Duel]]
 
 ## Notes
 

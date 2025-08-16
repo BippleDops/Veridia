@@ -2,7 +2,7 @@
 
 title: The Purification Protocols
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -44,10 +44,9 @@ updated: '2025-08-13T01:18:34.663706+00:00'
 
 - An heirloom has gone missing and chaos spreads
 - A map reveals the truth about this place
-- A stranger needs help investigating before the festival ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[The Senator]]
+- A stranger needs help investigating before the festival ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[The Senator
 
-- [[The Senator (D&D_References)]]
-
+- [The Senator (D&D_References)]]
 
 ## Notes
 

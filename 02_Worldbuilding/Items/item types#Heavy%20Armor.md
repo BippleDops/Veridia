@@ -1,7 +1,7 @@
 ---
-title: item types#Heavy%20Armor
+title: "item types#Heavy%20Armor"
 type: note
-tags:
+tags: 
 - auto-generated
 - linked
 created: '2025-01-15'
@@ -10,13 +10,13 @@ created: '2025-01-15'
 # item types#Heavy%20Armor
 
 ## Overview
-This topic is referenced in [[05_Rules/Character Classes]] and other parts of the campaign.
+This topic is referenced in [[05_Rules/Character Classes and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[05_Rules/Character Classes]]
+- Referenced by: [05_Rules/Character Classes]]
 - Related topics in the same category
 
 ## Details

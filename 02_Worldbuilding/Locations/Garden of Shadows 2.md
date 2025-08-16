@@ -6,7 +6,7 @@ created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -21,13 +21,8 @@ updated: '2025-08-13T12:34:16.682610+00:00'
 world: Aquabyssos
 ---
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-garden-of-shadows-garden-of-shadows.svg)
-
-
-
-
 
 # Garden of Shadows
 
@@ -127,29 +122,21 @@ Initially viewed with suspicion by some citizens who associated darkness with ma
 ## Connections
 
 The Garden connects to Aquabyssos's main thoroughfares through a series of gradually darkening passages that allow visitors to adapt to the lightless environment. Secret passages link it to other mystical sites in the city, while its philosophical network extends to similar institutions in other underwater realms and even some surface locations dedicated to the study of darkness and shadow.
-- [[02_Worldbuilding/Places/Lumengarde]]
-
+- [[02_Worldbuilding/Places/Lumengarde
 
 ## Layout
 
-
 TODO
-
 
 ## Notables
 
-
 TODO
-
 
 ## Threats
 
-
 TODO
 
-
 ## Hooks
-
 
 TODO
 
@@ -167,30 +154,25 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Garden of Shadows]]
+- [02_Worldbuilding/Places/Garden of Shadows]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

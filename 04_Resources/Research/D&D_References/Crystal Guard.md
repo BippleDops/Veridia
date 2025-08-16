@@ -2,7 +2,7 @@
 
 title: Crystal Guard
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -44,15 +44,14 @@ updated: '2025-08-13T01:18:34.671252+00:00'
 
 - A map reveals the truth about the cult
 - Someone is protecting a witness for love
-- Someone is hunting a witness for revenge ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Knight]]
+- Someone is hunting a witness for revenge ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Knight
 
-- [[Lighthouse Keeper]]
-- [[The Gilded Shard]]
-- [[The Gilded Shard (D&D_References)]]
-- [[Knight (D&D_Statblocks)]]
-- [[Lighthouse Keeper (D&D_Statblocks)]]
+- [Lighthouse Keeper]]
+- [[The Gilded Shard
+- [The Gilded Shard (D&D_References)]]
+- [[Knight (D&D_Statblocks)
+- [Lighthouse Keeper (D&D_Statblocks)]]
 - [[Stop the Crystal Festival Ritual (D&D_Statblocks)]]
-
 
 ## Notes
 

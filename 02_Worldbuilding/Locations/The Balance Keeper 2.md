@@ -2,7 +2,7 @@
 created: '2025-08-11'
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - both aethermoor & aquabyssos
 - complete
 - content/location
@@ -13,12 +13,6 @@ type: Location
 updated: '2025-08-13T12:34:17.041111+00:00'
 world: Both Aethermoor & Aquabyssos
 ---
-
-
-
-
-
-
 
 ## Overview
 
@@ -59,35 +53,29 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Balance Keeper]]
+- [[02_Worldbuilding/Places/The Balance Keeper
 
 <!-- enriched: true -->
 
-
 ## Connections
 
-- [[02_Worldbuilding/Groups/The Void Watchers]]
-
+- [02_Worldbuilding/Groups/The Void Watchers]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

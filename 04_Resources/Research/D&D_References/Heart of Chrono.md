@@ -2,7 +2,7 @@
 
 title: Heart of Chrono
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,7 +43,6 @@ updated: '2025-08-13T01:18:35.183965+00:00'
 - A stranger needs help delivering before dawn
 - Someone is searching for a witness for power
 - A noble needs help finding before the festival ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/lore
@@ -12,11 +12,6 @@ type: Lore
 updated: '2025-08-13T12:34:15.804918+00:00'
 world: Aquabyssos
 ---
-
-
-
-
-
 
 ## Overview
 
@@ -44,10 +39,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Temporal Distortion Zones]]
-
+- [[02_Worldbuilding/Lore/Temporal Distortion Zones
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Temporal Anomaly Resolution]]
+- [02_Worldbuilding/Lore/Temporal Anomaly Resolution]]
 - [[02_Worldbuilding/Lore/Temporal Distortion Zones]]

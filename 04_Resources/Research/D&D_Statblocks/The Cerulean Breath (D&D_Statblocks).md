@@ -2,7 +2,7 @@
 
 title: The Cerulean Breath (D&D_Statblocks)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,11 +42,11 @@ modified: '2025-08-14'
 status: complete
 race: Ancient Dragon Turtle
 class: Draconic Sorcerer/Circle of the Land Druid
-location: '[[The Cerulean Depths]] - Sapphire Grotto'
+location: '[[The Cerulean Depths - Sapphire Grotto'
 level: 20
 world: Aquabyssos
 role: Ancient Dragon Turtle Sage
-affiliation: '[[The Depth Wardens]] - Elder Advisor'
+affiliation: '[The Depth Wardens]] - Elder Advisor'
 age: 2,847
 alignment: Neutral Good
 created_by: auto-stub
@@ -95,7 +95,6 @@ Maraleth's shell hosts a complex ecosystem that serves multiple purposes:
 4. **Personal**: Build lasting relationships despite the pain of knowing she'll outlive those she cares about
 5. **Ultimate**: Ensure that the lessons of the past prevent future catastrophes that could destroy underwater civilization ## Combat Tactics
 
-
 Despite her peaceful nature, Maraleth is still an ancient dragon turtle when threatened:
 - Prefers negotiation and de-escalation to violence
 - Uses her breath weapon to calm aggressors and protect innocents
@@ -105,7 +104,7 @@ Despite her peaceful nature, Maraleth is still an ancient dragon turtle when thr
 - If truly threatened, becomes a terrifyingly effective force of nature ## D&D 5E Stats
 
 *Gargantuan dragon, neutral good* **Armor Class** 22 (Natural Armor)
-**Hit Points** 341 (22d20 + 110)
+**Hit Points** 341 (`dice: 22d20` + 110)
 **Speed** 20 ft., swim 60 ft. **STR** 25 (+7) **DEX** 10 (+0) **CON** 20 (+5) **INT** 24 (+7) **WIS** 22 (+6) **CHA** 18 (+4) **Saving Throws** Dex +7, Con +12, Int +14, Wis +13
 **Skills** Arcana +21, History +21, Insight +20, Investigation +14, Nature +21, Perception +13
 **Damage Resistances** Fire, Cold
@@ -116,7 +115,7 @@ Despite her peaceful nature, Maraleth is still an ancient dragon turtle when thr
 **Challenge Rating** 19 (22,000 XP)
 **Proficiency Bonus** +6 ### Special Abilities
 
-**Legendary Resistance (3/Day).** If Maraleth fails a saving throw, she can choose to succeed instead. **Living Ecosystem.** Maraleth's shell hosts thousands of sea creatures. She can use a bonus action to command them to perform simple tasks, provide information, or create minor effects (equivalent to *minor illusion* or *druidcraft*). **Ancient Wisdom.** Maraleth has advantage on all Intelligence, Wisdom, and Charisma checks. She can cast *legend lore* at will without components. **Amphibious.** Maraleth can breathe air and water. **Spellcasting.** Maraleth is a 20th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 22, +14 to hit with spell attacks). She knows the following spells: **Sorcerer Spells:**
+**Legendary Resistance (3/Day).** If Maraleth fails a saving throw, she can choose to succeed instead. **Living Ecosystem.** Maraleth's shell hosts thousands of sea creatures. She can use a bonus action to command them to perform simple tasks, provide information, or create minor effects (equivalent to *minor illusion* or *druidcraft*). **Ancient Wisdom.** Maraleth has advantage on all Intelligence, Wisdom, and Charisma checks. She can cast *legend lore* at will without components. **Amphibious.** Maraleth can breathe air and water. **Spellcasting.** Maraleth is a 20th-level spellcaster. Her spellcasting ability is Intelligence (spell save **DC 22**, +14 to hit with spell attacks). She knows the following spells: **Sorcerer Spells:**
 - Cantrips (at will): *guidance*, *mage hand*, *prestidigitation*, *thaumaturgy*, *minor illusion*
 - 1st level (4 slots): *detect magic*, *magic missile*, *shield*
 - 2nd level (3 slots): *misty step*, *web*, *detect thoughts*
@@ -137,11 +136,11 @@ Despite her peaceful nature, Maraleth is still an ancient dragon turtle when thr
 - 8th level: *animal shapes*, *control weather*
 - 9th level: *storm of vengeance* ### Actions
 
-**Multiattack.** Maraleth can use her Frightful Presence and then make three attacks: one with her bite and two with her claws. **Bite.** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 26 (3d12 + 7) piercing damage. **Claw.** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 16 (2d8 + 7) slashing damage. **Tail.** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 26 (3d12 + 7) bludgeoning damage. Target must succeed on DC 21 Strength saving throw or be knocked prone. **Frightful Presence.** Each creature of Maraleth's choice within 120 feet must succeed on DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each turn, ending the effect on itself on a success. **Cerulean Breath (Recharge 5-6).** Maraleth exhales cerulean mist in a 90-foot cone. She chooses one of the following effects:
-- **Healing Mist**: All allied creatures in the area regain 35 (10d6) hit points and are cured of one disease or condition
+**Multiattack.** Maraleth can use her Frightful Presence and then make three attacks: one with her bite and two with her claws. **Bite.** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 26 (`dice: 3d12` + 7) piercing damage. **Claw.** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 16 (`dice: 2d8` + 7) slashing damage. **Tail.** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 26 (`dice: 3d12` + 7) bludgeoning damage. Target must succeed on **DC 21** Strength saving throw or be knocked prone. **Frightful Presence.** Each creature of Maraleth's choice within 120 feet must succeed on **DC 18** Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each turn, ending the effect on itself on a success. **Cerulean Breath (Recharge 5-6).** Maraleth exhales cerulean mist in a 90-foot cone. She chooses one of the following effects:
+- **Healing Mist**: All allied creatures in the area regain 35 (`dice: 10d6`) hit points and are cured of one disease or condition
 - **Water Breathing**: All creatures gain ability to breathe water for 24 hours
 - **Protective Barrier**: Creates wall of solid water (AS 15, 100 hp) lasting 10 minutes
-- **Calming Cloud**: All creatures must succeed DC 20 Wisdom save or become incapacitated (peaceful) for 1 minute ## Adventure Hooks
+- **Calming Cloud**: All creatures must succeed **DC 20** Wisdom save or become incapacitated (peaceful) for 1 minute ## Adventure Hooks
 
 1. **The Lost Archive**: One of Maraleth's memory repositories has been stolen by unknown parties who may be seeking to erase certain historical events from the record
 2. **The Dying Sage**: Maraleth is showing signs of an ancient curse or disease that threatens both her life and all the knowledge stored in her memory
@@ -149,20 +148,17 @@ Despite her peaceful nature, Maraleth is still an ancient dragon turtle when thr
 4. **The Succession Crisis**: Political upheaval requires Maraleth to choose between different claimants to leadership, each with historical precedent supporting their case
 5. **The Surface Contact**: Maraleth has received a message from surface world scholars requesting a meeting that could change relations between the realms ## Secrets & Hidden Knowledge
 
-
-
 > [!warning] DM Only
 > - Maraleth knows the true location of Emperor Thalassius's scattered consciousness and how to potentially restore him
 > - She has preserved pre-Aquabyssos surface world knowledge that could revolutionize technology and magic in both realms > - Her memory contains the locations of several lost cities and treasure hoards from before the Great Submersion
 > - She knows which current political leaders are descended from the original royal bloodlines and could challenge current power structures
 > - Maraleth has been having prophetic dreams suggesting a coming catastrophe that will require sacrificing Aquabyssos to save both realms ## Speaking Style
 
-*"Time flows like the deep currents, child—sometimes swift, sometimes slow, but always carrying us toward destinations we cannot yet see."* *"I have watched civilizations rise from the seafloor like coral reefs, beautiful and complex, only to see them bleached and broken by forces they could not understand. Let us ensure yours endures."* *"Knowledge is the only treasure that increases when shared. Hoard gold if you must, but freely give wisdom to all who seek it with honest hearts."* *"In my youth, I thought strength meant the power to destroy. Now I know that true strength lies in the wisdom to create, to preserve, to nurture growth in others."* *(When dispensing particularly important advice)* "Listen well, for these words carry the weight of centuries: the past teaches us that..." *(follows with relevant historical example)* ## Player-Facing Summary The Cerulean Breath is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Cerulean Breath as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Cerulean Breath. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Second Prophecy of Stars ## Related Notes - [[Similar Topic 1]]
+*"Time flows like the deep currents, child—sometimes swift, sometimes slow, but always carrying us toward destinations we cannot yet see."* *"I have watched civilizations rise from the seafloor like coral reefs, beautiful and complex, only to see them bleached and broken by forces they could not understand. Let us ensure yours endures."* *"Knowledge is the only treasure that increases when shared. Hoard gold if you must, but freely give wisdom to all who seek it with honest hearts."* *"In my youth, I thought strength meant the power to destroy. Now I know that true strength lies in the wisdom to create, to preserve, to nurture growth in others."* *(When dispensing particularly important advice)* "Listen well, for these words carry the weight of centuries: the past teaches us that..." *(follows with relevant historical example)* ## Player-Facing Summary The Cerulean Breath is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Cerulean Breath as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Cerulean Breath. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Second Prophecy of Stars ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]]
 
 ## Notes
 

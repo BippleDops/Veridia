@@ -2,7 +2,7 @@
 
 title: The Forgetting Bomb Arsenal
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -41,14 +41,13 @@ updated: '2025-08-13T01:18:34.848704+00:00'
 
 - A map reveals ancient history about the government
 - A letter reveals ancient history about the cult
-- Someone is protecting an heir for revenge ## Related Notes - [[Similar Topic 1]]
+- Someone is protecting an heir for revenge ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[The Forgetting Bomb]]
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[The Forgetting Bomb
 
-- [[The Forgetting Bomb (D&D_References)]]
-
+- [The Forgetting Bomb (D&D_References)]]
 
 ## Notes
 

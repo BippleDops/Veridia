@@ -1,10 +1,10 @@
 ---
 
 title: Shadow Liberation Front
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - world/aquabyssos
 - content/lore
 - content/npc
@@ -35,7 +35,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -77,7 +77,7 @@ Shadow Liberation Front is a undersea element of the setting, known for biolumin
 
 Legends speak of Shadow Liberation Front as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Liberation Front.
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -113,5 +113,5 @@ Mentioned in The Second Prophecy of Stars
 
 ## References
 
-- [[Lord Vexton Shadowmere (Criminal_Organizations)]]
-- [[Lord Vexton Shadowmere]]
+- [[Lord Vexton Shadowmere (Criminal_Organizations)
+- [Lord Vexton Shadowmere]]

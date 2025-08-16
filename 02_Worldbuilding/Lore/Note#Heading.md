@@ -1,16 +1,16 @@
 ---
-title: Note#Heading
+title: "Note#Heading"
 type: note
-tags:
+tags: 
 - auto-generated
-- [[Link]]ed
+- [[Linked
 created: '2025-01-15'
 ---
 
 # Note#Heading
 
 ## Overview
-This topic is referenced in [[map|AGILE_VAULT_IMPLEMENTATION_ROAD[[map]]]] and other parts of the campaign.
+This topic is referenced in [[map|AGILE_VAULT_IMPLEMENTATION_ROAD[map]]]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.

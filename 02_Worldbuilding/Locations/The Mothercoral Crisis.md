@@ -1,8 +1,8 @@
 ---
 
-title: The Mother[[Coral]] Crisis
+title: The Mother[[Coral Crisis
 type: Location
-tags:
+tags: 
 - aquabyssos
 - biological
 - content/adventure
@@ -11,7 +11,7 @@ tags:
 - environmental
 - campaign/consequence
 - coral-reef
-- [[Time]]-sensitive
+- [Time]]-sensitive
 - content/location
 - place
 - crisis
@@ -22,7 +22,7 @@ tags:
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
-[[region]]: Unknown
+[[region: Unknown
 population: Unknown
 MyCategory: Environmental Quest
 MyContainer: None
@@ -34,7 +34,7 @@ duration: 3-5 sessions
 level_range: 5-8
 obsidianUIMode: preview
 party_size: 4-6 characters
-primary_location: '[[Coral Courts]] and surrounding reef systems'
+primary_location: '[Coral Courts]] and surrounding reef systems'
 quest_type: Investigation/Environmental Rescue
 updated: '2025-08-13T12:34:16.954179+00:00'
 world: Aquabyssos
@@ -67,7 +67,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -111,12 +111,12 @@ improvements: 20
 
 ## Quest Overview
 
-The Mothercoral Crisis presents players with an urgent environmental disaster that threatens the fundamental ecosystem supporting [[Aquabyssos]] civilization. The massive Mothercoral organism, which has served as the foundation for reef-building and water purification throughout the realm for over a millennium, is showing signs of rapid deterioration and possible death, putting the entire aquatic civilization at risk.
+The Mothercoral Crisis presents players with an urgent environmental disaster that threatens the fundamental ecosystem supporting [Aquabyssos]] civilization. The massive Mothercoral organism, which has served as the foundation for reef-building and water purification throughout the realm for over a millennium, is showing signs of rapid deterioration and possible death, putting the entire aquatic civilization at risk.
 
-This quest combines investigation, scientific problem-solving, political negotiation, and time-sensitive action as players race to identify the cause of the crisis and implement a solution before the cascading environmental collapse becomes irreversible. The stakes affect not just local communities but the survival of [[Aquabyssos]] itself.
+This quest combines investigation, scientific problem-solving, political negotiation, and time-sensitive action as players race to identify the cause of the crisis and implement a solution before the cascading environmental collapse becomes irreversible. The stakes affect not just local communities but the survival of [[Aquabyssos itself.
 
 ### The Mothercoral System
-The **Mothercoral** is a unique magical organism that serves as the cornerstone of [[Aquabyssos]]' ecosystem, a massive coral colony spanning over 50 square miles that:
+The **Mothercoral** is a unique magical organism that serves as the cornerstone of [Aquabyssos]]' ecosystem, a massive coral colony spanning over 50 square miles that:
 - Purifies water throughout the realm's territories  
 - Provides foundation structure for reef communities
 - Maintains magical currents that support underwater civilization
@@ -130,7 +130,7 @@ Three weeks ago, marine biologists noticed unusual discoloration in sections of 
 - Structural weakening of reef-based communities
 
 ### Growing Panic
-As the crisis escalates, panic spreads through [[Aquabyssos]] society:
+As the crisis escalates, panic spreads through [[Aquabyssos society:
 - Refugee communities fleeing affected areas
 - Political pressure to find immediate solutions
 - Economic disruption as trade routes become unusable
@@ -147,20 +147,20 @@ As the crisis escalates, panic spreads through [[Aquabyssos]] society:
 **Challenges**: Toxic environment, unstable magical fields, dangerous pressure changes  
 **Important Features**: Central nervous system of the organism, ancient magical anchors  
 
-### [[Coral Courts]]
+### [Coral Courts]]
 **Description**: Major reef city built into the Mothercoral system, now partially evacuated  
 **Challenges**: Structural instability, panicking population, political tensions  
-**Important [[Npc]]s**: Local officials, marine biologists, [[Community Leaders]]  
+**Important [[Npcs**: Local officials, marine biologists, [Community Leaders]]  
 
 ### Research Station Deep Current
 **Description**: Scientific facility studying the crisis, operating under emergency conditions  
-**Challenges**: Equipment failures, [[data]] corruption, researcher safety  
+**Challenges**: Equipment failures, [[data corruption, researcher safety  
 **Resources**: Scientific equipment, research data, expert knowledge  
 
 ### The Dead Zones
 **Description**: Areas where the Mothercoral has already died completely  
 **Challenges**: Toxic environment, scavenger creatures, structural collapse  
-**Clues**: [[Evidence]] of what caused the initial die-off, samples for analysis  
+**Clues**: [Evidence]] of what caused the initial die-off, samples for analysis  
 
 ### Dr. Reef Tender
 **Role**: Lead marine biologist coordinating crisis response  
@@ -173,14 +173,14 @@ As the crisis escalates, panic spreads through [[Aquabyssos]] society:
 **Needs**: Escort to dangerous areas, protection during magical rituals  
 
 ### Emergency Coordinator Torrent
-**Role**: [[Government Officia]]l managing evacuation and relief efforts  
+**Role**: [[Government Official managing evacuation and relief efforts  
 **Information**: Political implications, resource allocation, evacuation status  
 **Needs**: Help with coordination, protection for relief workers  
 
-### [[Merchant]] Captain Salvage
+### [Merchant]] Captain Salvage
 **Role**: Independent operator with boats and diving equipment  
 **Information**: Recent changes in sea conditions, transportation options  
-**Needs**: Payment for services, protection from [[Environmental Hazards]]  
+**Needs**: Payment for services, protection from [[Environmental Hazards  
 
 ### Scientific Investigation
 **Methods**: Sample collection, magical analysis, environmental monitoring  
@@ -190,7 +190,7 @@ As the crisis escalates, panic spreads through [[Aquabyssos]] society:
 
 ### Political Investigation  
 **Methods**: Interviewing officials, reviewing policy changes, examining permits  
-**Locations**: Government offices, industrial facilities, [[Diplomatic Quarters]]  
+**Locations**: Government offices, industrial facilities, [Diplomatic Quarters]]  
 **Challenges**: Bureaucratic obstacles, potential cover-ups, conflicting interests  
 **Results**: Discovery of human activities that may have contributed to the crisis  
 
@@ -230,7 +230,7 @@ As the crisis escalates, panic spreads through [[Aquabyssos]] society:
 **Solution**: Restore magical balance, repair ley lines, stabilize energy flows  
 **Challenges**: Complex magical work, dangerous energy manipulation, coordinated effort required  
 
-### Crisis Escalation [[Timeline]]
+### Crisis Escalation [[Timeline
 **Week 1**: Initial symptoms appear, scientific investigation begins  
 **Week 2**: Spread accelerates, first communities evacuated  
 **Week 3**: Major die-off events, political crisis develops  
@@ -254,13 +254,13 @@ As the crisis escalates, panic spreads through [[Aquabyssos]] society:
 **Corporate Interference**: Security teams trying to stop industrial investigation  
 **Political Opposition**: Officials trying to prevent panic or protect special interests  
 **Cult Activity**: Religious extremists viewing the crisis as divine judgment  
-**Resource Competition**: Other [[Groups]] competing for limited rescue and research resources  
+**Resource Competition**: Other [Groups]] competing for limited rescue and research resources  
 
 ### Success Rewards
 **Saving the Mothercoral**: Major reputation increase, government honors, substantial monetary reward  
 **Scientific Discovery**: Access to new magical knowledge, research funding, academic recognition  
 **Political Influence**: Connections with government officials, input on environmental policy  
-**Community Gratitude**: Free services, discounted goods, widespread respect throughout [[Aquabyssos]]  
+**Community Gratitude**: Free services, discounted goods, widespread respect throughout [[Aquabyssos  
 
 ### Partial Success
 **Slowing the Crisis**: Temporary solution requiring ongoing maintece and monitoring  
@@ -269,12 +269,12 @@ As the crisis escalates, panic spreads through [[Aquabyssos]] society:
 **Political Compromise**: Solution that addresses crisis but involves difficult political trade-offs  
 
 ### Failure Consequences  
-**Ecosystem Collapse**: Major environmental disaster affecting entire [[Aquabyssos]] civilization  
+**Ecosystem Collapse**: Major environmental disaster affecting entire [Aquabyssos]] civilization  
 **Mass Migration**: Refugee crisis as populations flee uninhabitable areas  
 **Political Upheaval**: Government instability as leadership fails to address crisis  
 **Economic Collapse**: Trade disruption and resource shortages affecting daily life  
 
-### [[Key Locations]]
+### [[Key Locations
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
@@ -288,11 +288,11 @@ As the crisis escalates, panic spreads through [[Aquabyssos]] society:
 ### Alternative Outcomes
 **Prevention**: Party discovers early warning signs and prevents crisis through proactive action  
 **Adaptation**: Crisis cannot be stopped but society adapts to new environmental conditions  
-**Migration**: Solution involves relocating [[Aquabyssos]] civilization to new territory  
+**Migration**: Solution involves relocating [Aquabyssos]] civilization to new territory  
 
 ### Long-term Campaign Integration
 - Environmental monitoring becomes ongoing campaign element
-- Characters become [[Environmental Protection|[[Environmental Protection]] Specialist]]s
+- Characters become [[Environmental Protection|[Environmental Protection Specialist]]s
 - Crisis leads to major political and social changes affecting future adventures
 - Discovery of cause connects to larger campaign mysteries or threats
 
@@ -305,15 +305,15 @@ As the crisis escalates, panic spreads through [[Aquabyssos]] society:
 
 The Mothercoral Crisis is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## [[Lore]] Details
+## [[Lore Details
 
 Legends speak of The Mothercoral Crisis as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Mothercoral Crisis.
 
 ### Key Locations
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map use.
 
 ## Sensory Details
 
@@ -349,7 +349,7 @@ The Mothercoral Crisis was established in the distant past, growing from humble 
 
 ## Connections
 - **North**: Trade road to neighboring settlement
-- **South**: [[path]] through wilderness
+- **South**: [path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
 
@@ -445,11 +445,9 @@ Ongoing situations affecting The Mothercoral Crisis:
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

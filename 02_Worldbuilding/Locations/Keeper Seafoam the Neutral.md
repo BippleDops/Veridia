@@ -2,7 +2,7 @@
 
 title: Keeper Seafoam the Neutral
 type: Location
-tags:
+tags: 
 - aquabyssos
 - world/aquabyssos
 - content/location
@@ -220,11 +220,9 @@ Ongoing situations affecting Keeper Seafoam the Neutral:
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

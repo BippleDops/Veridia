@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - aethermoor
 - complete
 - content/adventure
@@ -14,14 +14,9 @@ updated: '2025-08-13T12:34:16.431812+00:00'
 world: Aethermoor
 ---
 
-
-
-
-
-
 ## Overview
 
-Cosmic Awareness represents a transcendent state of consciousness that certain individuals achieve when exposed to the convergent energies between [[02_Worldbuilding/Lore/Aquabyssos World Guide|Aquabyssos]] and [[02_Worldbuilding/Lore/Aethermoor World Guide|Aethermoor]]. This profound mental expansion allows beings to perceive the true nature of the dual-realm system, understand the cosmic forces that maintain dimensional stability, and glimpse possible futures across multiple timelines. However, achieving this awareness comes with significant risks, as the mortal mind was never designed to comprehend such vast scales of existence.
+Cosmic Awareness represents a transcendent state of consciousness that certain individuals achieve when exposed to the convergent energies between [[02_Worldbuilding/Lore/Aquabyssos World Guide|Aquabyssos and [02_Worldbuilding/Lore/Aethermoor World Guide|Aethermoor]]. This profound mental expansion allows beings to perceive the true nature of the dual-realm system, understand the cosmic forces that maintain dimensional stability, and glimpse possible futures across multiple timelines. However, achieving this awareness comes with significant risks, as the mortal mind was never designed to comprehend such vast scales of existence.
 
 ## Player-Facing Summary
 
@@ -45,9 +40,9 @@ Cosmic Awareness first manifested during the **Great Convergence** (445 AC), whe
 
 **Dangerous Knowledge**: The cosmic perspective reveals truths that can be devastating to social stability. Aware individuals may understand that certain conflicts are meaningless from a universal perspective, that some disasters are necessary for cosmic balance, or that individual lives are insignificant compared to dimensional stability. This knowledge can lead to moral paralysis or actions that seem callous but serve larger cosmic purposes.
 
-**The Deep Mother Connection**: Many with Cosmic Awareness report sensing the [[02_Worldbuilding/Lore/Deep Mother|Deep Mother]]'s presence as a vast intelligence that exists partially outside normal reality. Some describe it as a cosmic cancer that threatens the fundamental order, while others perceive it as a necessary force of transformation. This conflicting interpretation has created schisms among the cosmically aware.
+**The Deep Mother Connection**: Many with Cosmic Awareness report sensing the [[02_Worldbuilding/Lore/Deep Mother|Deep Mother's presence as a vast intelligence that exists partially outside normal reality. Some describe it as a cosmic cancer that threatens the fundamental order, while others perceive it as a necessary force of transformation. This conflicting interpretation has created schisms among the cosmically aware.
 
-**Centers of Study**: The [[02_Worldbuilding/Groups/Academies/Academy of Depths|Academy of Depths]] and [[02_Worldbuilding/Groups/Academies/The Crystal Academy|Crystal Academy]] maintain joint research programs studying Cosmic Awareness, though their investigations are heavily restricted due to the mental risks involved. Several researchers have been lost to transcendent union, their consciousness expanding beyond the ability to maintain physical existence.
+**Centers of Study**: The [02_Worldbuilding/Groups/Academies/Academy of Depths|Academy of Depths]] and [[02_Worldbuilding/Groups/Academies/The Crystal Academy|Crystal Academy maintain joint research programs studying Cosmic Awareness, though their investigations are heavily restricted due to the mental risks involved. Several researchers have been lost to transcendent union, their consciousness expanding beyond the ability to maintain physical existence.
 
 ## Adventure Hooks
 
@@ -65,8 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/The Whispering Expanse]]
-
+- [02_Worldbuilding/Quests/The Whispering Expanse]]
 
 ## Connections
 

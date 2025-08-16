@@ -2,7 +2,7 @@
 
 title: Political Intrigue of Meridian
 type: Location
-tags:
+tags: 
 - aquabyssos
 - status/complete
 - power-struggle
@@ -306,16 +306,13 @@ Key stop on metals trade route
 
 - [[Aethermoor - Session 03 Council of Shadows]]
 
-
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

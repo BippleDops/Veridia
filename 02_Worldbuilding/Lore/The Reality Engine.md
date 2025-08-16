@@ -1,7 +1,7 @@
 ---
 title: The Reality Engine
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
 - active
 - conspiracy
@@ -22,12 +22,12 @@ The Reality Engine represents a significant element within the campaign world, o
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: [[Link]]ed to multiple other elements
+- **Connections**: [Link]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-[[Historical Context]] and development over [[Time]].
+[[Historical Context and development over [Time]].
 
 ### Current State
 Present circumstances and ongoing relevance.
@@ -48,11 +48,11 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## [[DM_Notes]]
+## [[DM_Notes
 *Customize as needed for your specific campaign requirements.*
 
 ## References
 
-- [[02_Worldbuilding_Lore_The_Reality_Engine]]
-- [[Post-Merge Chronology]]
-- [[Unite the Recursions]]
+- [02_Worldbuilding_Lore_The_Reality_Engine]]
+- [[Post-Merge Chronology
+- [Unite the Recursions]]

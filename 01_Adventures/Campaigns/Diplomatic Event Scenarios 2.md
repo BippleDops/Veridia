@@ -1,7 +1,7 @@
 ---
 created: '2025-08-12'
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/adventure
@@ -17,8 +17,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.035286+00:00'
 world: Aquabyssos
 ---
-
-
 
 # Diplomatic Event Scenarios
 *A Generator for International Intrigue and Political Drama*
@@ -65,7 +63,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 5. **Closing Agreement:** Final treaty signing or negotiation breakdown
 
 #### Complication Generators
-- **Roll 1d6 for Primary Complication:**
+- **Roll `dice: 1d6` for Primary Complication:**
   1. Key negotiator is shadow replacement working against their own nation
   2. Crucial trade route involves territory with disputed ownership
   3. One nation's economic data is completely falsified
@@ -73,7 +71,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
   5. Negotiation is cover for military intelligence gathering
   6. Environmental disaster threatens trade route during negotiations
 
-- **Roll 1d4 for Secondary Issues:**
+- **Roll `dice: 1d4` for Secondary Issues:**
   1. Cultural misunderstandings escalate into diplomatic incidents
   2. Security breach exposes classified negotiation positions
   3. Personal relationships between negotiators complicate professional duties
@@ -105,7 +103,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 5. **Closing Ceremony:** Final celebration and diplomatic declarations
 
 #### Complication Generators
-- **Roll 1d8 for Festival Crisis:**
+- **Roll `dice: 1d8` for Festival Crisis:**
   1. Cultural presentation reveals state secrets through historical accuracy
   2. Artistic competition becomes proxy for international tensions
   3. Performer is actually foreign agent gathering intelligence
@@ -115,7 +113,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
   7. Cultural misunderstanding leads to religious offense
   8. Weather or environmental disaster threatens festival continuation
 
-- **Roll 1d6 for Hidden Agendas:**
+- **Roll `dice: 1d6` for Hidden Agendas:**
   1. Recruit cultural figures as intelligence assets
   2. Assess military capabilities through competitive displays
   3. Influence public opinion through cultural propaganda
@@ -149,7 +147,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 4. **Legal Framework:** Treaties or agreements governing crisis response
 5. **Implementation Coordination:** Ongoing communication and adjustment protocols
 
-#### Crisis Types (Roll 1d10)
+#### Crisis Types (Roll `dice: 1d10`)
 1. **Environmental Disaster:** Tsunami, earthquake, volcanic eruption
 2. **Plague Outbreak:** Disease threatening multiple nations
 3. **Military Invasion:** Foreign power attacking multiple targets
@@ -161,7 +159,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 9. **Communication Breakdown:** Loss of international communication systems
 10. **Political Assassination:** Murder of key international leader
 
-#### Diplomatic Complications (Roll 2d6)
+#### Diplomatic Complications (Roll `dice: 2d6`)
 - **2-3:** One nation refuses to participate in response
 - **4-5:** Resource allocation disputes paralyze planning
 - **6-7:** Intelligence sharing reveals embarrassing secrets
@@ -195,7 +193,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 4. **Wedding Ceremony:** Public ritual with international witnesses
 5. **Post-Wedding Politics:** Integration of new alliance into international relations
 
-#### Marriage Politics Complications (Roll 1d8)
+#### Marriage Politics Complications (Roll `dice: 1d8`)
 1. **False Identity:** Bride or groom is shadow replacement or imposter
 2. **Competing Suitors:** Other nations attempt to disrupt marriage through rival proposals
 3. **Family Opposition:** Internal family politics threaten to cancel wedding
@@ -205,7 +203,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 7. **Personal Drama:** Genuine romantic complications interfere with political arrangement
 8. **Legal Challenge:** Legitimacy of marriage questioned on legal or technical grounds
 
-#### Alliance Implications (Roll 1d6)
+#### Alliance Implications (Roll `dice: 1d6`)
 1. **Military Cooperation:** Joint defense agreements and troop sharing
 2. **Economic Integration:** Trade preferences and financial cooperation
 3. **Intelligence Sharing:** Coordinated espionage and information exchange
@@ -240,7 +238,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 4. **Patent Negotiations:** Intellectual property licensing and sharing
 5. **Future Planning:** Long-term research cooperation agreements
 
-#### Technology Categories (Roll 1d6)
+#### Technology Categories (Roll `dice: 1d6`)
 1. **Military Technology:** Weapons, defense systems, intelligence equipment
 2. **Medical Advances:** Healing techniques, life extension, adaptation technology
 3. **Communication Systems:** Advanced messaging, surveillance, information processing
@@ -248,7 +246,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 5. **Environmental Technology:** Weather control, ecosystem management, disaster prevention
 6. **Computational Systems:** Artificial intelligence, prediction modeling, data analysis
 
-#### Espionage Complications (Roll 1d8)
+#### Espionage Complications (Roll `dice: 1d8`)
 1. **Technology Theft:** Participant steals research from other nations
 2. **False Demonstrations:** Fake technology presented to mislead competitors
 3. **Sabotage Operations:** Deliberate disruption of rival research programs
@@ -268,7 +266,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 ## Dynamic Event Generators
 
 ### Participant Generator
-**Roll 1d6 for each potential participant:**
+**Roll `dice: 1d6` for each potential participant:**
 1. **Eager Participant:** Enthusiastic support, hidden agenda likely
 2. **Reluctant Participant:** Attending due to pressure, may cause problems
 3. **Neutral Observer:** Minimal involvement, focused on information gathering
@@ -277,7 +275,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 6. **Crisis Responder:** Participation triggered by unexpected emergency
 
 ### Complication Escalation Table
-**Roll 1d12 when events become complicated:**
+**Roll `dice: 1d12` when events become complicated:**
 1. **Personal Vendetta:** Historical grievance affects professional relationship
 2. **Economic Pressure:** Financial crisis forces desperate decisions
 3. **Security Threat:** Assassination attempt or terrorist action
@@ -292,7 +290,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 12. **Time Pressure:** External deadline forces rushed and poor decisions
 
 ### Outcome Determination Matrix
-**Roll 2d6 for event outcome:**
+**Roll `dice: 2d6` for event outcome:**
 - **2-3:** Complete Failure - Worst possible outcome, new conflicts created
 - **4-5:** Major Problems - Significant issues, limited success
 - **6-8:** Mixed Results - Some success, some failure, complications remain

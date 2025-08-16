@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/adventure
@@ -13,11 +13,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.220848+00:00'
 world: Aquabyssos
 ---
-
-
-
-
-
 
 ## Overview
 
@@ -173,16 +168,15 @@ The Great Drowning serves as foundational lore explaining why Aquabyssos exists 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/The Maw of Darkness]]
-
+- [[02_Worldbuilding/Quests/The Maw of Darkness
 
 ## Connections
 
 - The Catastrophe: Hour By Hour
 - Pre Drowning Civilization Archives
-- [[02_Worldbuilding/Lore/Post-Merge Chronology]]
-- [[02_Worldbuilding/Lore/Shadow Conspiracy Timeline]]
-- [[02_Worldbuilding/Lore/The Deep Mother]]
-- [[02_Worldbuilding/Places/Reality Anchor Network]]
-- [[02_Worldbuilding/Places/The Living Weapon]]
+- [02_Worldbuilding/Lore/Post-Merge Chronology]]
+- [[02_Worldbuilding/Lore/Shadow Conspiracy Timeline
+- [02_Worldbuilding/Lore/The Deep Mother]]
+- [[02_Worldbuilding/Places/Reality Anchor Network
+- [02_Worldbuilding/Places/The Living Weapon]]
 - [[02_Worldbuilding/Quests/The Maw of Darkness]]

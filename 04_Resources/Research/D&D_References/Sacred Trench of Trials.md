@@ -2,7 +2,7 @@
 
 title: Sacred Trench of Trials
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,14 +42,13 @@ updated: '2025-08-13T01:18:35.101481+00:00'
 
 - Strange dreams suggest a portal
 - A corpse reveals a conspiracy about the cult
-- A merchant needs help delivering before the festival ## Related Notes - [[Similar Topic 1]]
+- A merchant needs help delivering before the festival ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Pressure Angel Benthia]]
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Pressure Angel Benthia
 
-- [[Pressure Angel Benthia (D&D_Statblocks)]]
-
+- [Pressure Angel Benthia (D&D_Statblocks)]]
 
 ## Notes
 

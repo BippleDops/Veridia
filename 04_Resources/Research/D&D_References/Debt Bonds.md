@@ -2,7 +2,7 @@
 
 title: Debt Bonds
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -44,7 +44,6 @@ updated: '2025-08-13T01:18:34.570426+00:00'
 
 - A map reveals the truth about this place
 - A prisoner has gone missing and truth emerges ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Silverscale Consortium (D&D_References)]]
-
 
 ## Notes
 

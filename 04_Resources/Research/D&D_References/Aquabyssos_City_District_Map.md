@@ -2,7 +2,7 @@
 
 title: Aquabyssos_City_District_Map
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -89,7 +89,6 @@ world: Aquabyssos
 - Connections to overarching campaign themes ## Plot Hooks - Someone is protecting an heir for power
 
 - Someone is searching for a witness for love ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

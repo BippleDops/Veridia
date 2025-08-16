@@ -2,7 +2,7 @@
 
 title: Treasure_System - Pressure Artifacts
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -48,7 +48,7 @@ world: Aquabyssos
 
 *Magical Items Forged in the Depths of Aquabyssos* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
-Pressure Artifacts are magical items uniquely attuned to the crushing depths and tidal forces of Aquabyssos. These items harness the immense pressure of the deep ocean, drawing power from the [[The Seven Shards]] to create effects impossible to replicate on the surface. Many Pressure Artifacts require attunement and function best at depth, losing effectiveness or even becoming dormant when brought to shallow waters or dry land. Consequently, ### Depth Walker's Boots
+Pressure Artifacts are magical items uniquely attuned to the crushing depths and tidal forces of Aquabyssos. These items harness the immense pressure of the deep ocean, drawing power from the [[The Seven Shards to create effects impossible to replicate on the surface. Many Pressure Artifacts require attunement and function best at depth, losing effectiveness or even becoming dormant when brought to shallow waters or dry land. Consequently, ### Depth Walker's Boots
 
 *Wondrous item, common (requires attunement)*
 - **Description**: Boots made from deep-sea creature hide with pressure-resistant soles
@@ -100,7 +100,7 @@ Pressure Artifacts are magical items uniquely attuned to the crushing depths and
 
 *Armor (gloves), uncommon (requires attunement)*
 - **Description**: Gauntlets that channel crushing deep pressure into grip
-- **Properties**: - +2 to Athletics checks for grappling - Grappled creatures take 1d6 bludgeoning damage per turn - Can crush objects with double normal strength - Advantage on checks to break or bend items
+- **Properties**: - +2 to Athletics checks for grappling - Grappled creatures take `dice: 1d6` bludgeoning damage per turn - Can crush objects with double normal strength - Advantage on checks to break or bend items
 - **Value**: 650 gp
 - **Crafting**: Kraken leather, compression springs, 5 days ### Tidal Rhythm Drum
 
@@ -124,13 +124,13 @@ Pressure Artifacts are magical items uniquely attuned to the crushing depths and
 
 *Weapon (trident), rare (requires attunement)*
 - **Description**: Three-pronged spear that channels the power of deepest trenches
-- **Properties**: - +2 magic weapon - Thrown range increases to 60/180 underwater - Command water elementals within 120 feet - 3 charges: Cast *Control Water* (DC 15), regains 1d3 charges at dawn - Glows with deep blue light proportional to depth
+- **Properties**: - +2 magic weapon - Thrown range increases to 60/180 underwater - Command water elementals within 120 feet - 3 charges: Cast *Control Water* (**DC 15**), regains `dice: 1d3` charges at dawn - Glows with deep blue light proportional to depth
 - **Value**: 4,200 gp
 - **Crafting**: Trident of the depths, abyssal crystals, 2 weeks ### Pressure Storm Cloak
 
 *Wondrous item, rare (requires attunement)*
 - **Description**: Cloak that swirls with miniature whirlpools and pressure vortices
-- **Properties**: - Resistance to bludgeoning damage - As bonus action, create 15-foot radius pressure wave - Creatures in area make DC 15 Strength save or be pushed 10 feet - Gain fly speed 30 feet underwater only - Immune to being grappled or restrained by water effects
+- **Properties**: - Resistance to bludgeoning damage - As bonus action, create 15-foot radius pressure wave - Creatures in area make **DC 15** Strength save or be pushed 10 feet - Gain fly speed 30 feet underwater only - Immune to being grappled or restrained by water effects
 - **Value**: 5,000 gp
 - **Crafting**: Storm-touched kelp, vortex essence, 3 weeks ### Deep Sight Mask
 
@@ -142,13 +142,13 @@ Pressure Artifacts are magical items uniquely attuned to the crushing depths and
 
 *Armor (shield), rare (requires attunement)*
 - **Description**: Shield that generates swirling water barriers
-- **Properties**: - +2 AC bonus - As reaction, impose disadvantage on ranged attacks - 3 charges: Create *Wall of Water* (DC 15), regains charges at dawn - Water attacks heal shield wielder for half damage dealt - Can surf on water currents at double swimming speed
+- **Properties**: - +2 AC bonus - As reaction, impose disadvantage on ranged attacks - 3 charges: Create *Wall of Water* (**DC 15**), regains charges at dawn - Water attacks heal shield wielder for half damage dealt - Can surf on water currents at double swimming speed
 - **Value**: 4,500 gp
 - **Crafting**: Coral shield base, maelstrom essence, 3 weeks ### Crushing Depths Warhammer
 
 *Weapon (warhammer), rare (requires attunement)*
 - **Description**: Hammer that becomes impossibly heavy when striking
-- **Properties**: - On critical hit, target makes DC 15 Constitution save or be stunned until end of next turn - Deals maximum damage to objects and structures - Can shatter force effects and magical barriers - Hammer falls like meteor when thrown underwater
+- **Properties**: - On critical hit, target makes **DC 15** Constitution save or be stunned until end of next turn - Deals maximum damage to objects and structures - Can shatter force effects and magical barriers - Hammer falls like meteor when thrown underwater
 - **Value**: 4,000 gp
 - **Crafting**: Deep-forged iron, gravity crystals, 2 weeks ### Crown of the Deep Currents
 
@@ -208,19 +208,18 @@ Pressure Artifacts are magical items uniquely attuned to the crushing depths and
 
 *Wondrous item, artifact (requires attunement)*
 - **Description**: Crown that contains the weight of entire ocean's depths
-- **Properties**: - Immunity to all damage and conditions - Pressure Aura: All creatures within 1 mile take 10d10 force damage per round - Crush Reality: Reshape landscape through sheer gravitational force - Time Compression: Accelerate or slow time within area of influence - Dimensional Pressure: Create rifts to other water-filled planes
+- **Properties**: - Immunity to all damage and conditions - Pressure Aura: All creatures within 1 mile take `dice: 10d10` force damage per round - Crush Reality: Reshape landscape through sheer gravitational force - Time Compression: Accelerate or slow time within area of influence - Dimensional Pressure: Create rifts to other water-filled planes
 - **Destruction**: Must be worn while ascending from deepest ocean trench to surface in single breath
 - **Curse**: Wearer becomes living avatar of crushing depths ### Shard of the Sunken World
 
 *Wondrous item, artifact (requires attunement)*
-- **Description**: Fragment of [[The Seven Shards]] containing memories of drowned civilizations
+- **Description**: Fragment of [The Seven Shards]] containing memories of drowned civilizations
 - **Properties**: - Access memories and knowledge of all drowned civilizations - Raise sunken cities from ocean floor - Grant life to drowned dead as loyal servants - Control fate and destiny of all who live beneath waves - Rewrite history of oceanic events
 - **Destruction**: Must be returned to exact location where world first sank beneath waves
 - **Curse**: Attuned creature experiences memories of every drowning victim ## Player-Facing Summary Pressure Artifacts is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Pressure Artifacts as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pressure Artifacts. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A shipment has gone missing and evil awakens
 
 - A prisoner has gone missing and truth emerges
 - Strange disappearances suggest ancient magic ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

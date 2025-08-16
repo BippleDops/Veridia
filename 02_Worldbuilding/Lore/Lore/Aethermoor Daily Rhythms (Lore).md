@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Aethermoor Daily Rhythms
 type: lore
-tags:
+tags: 
 - lore
 - worldbuilding
 - bloodline

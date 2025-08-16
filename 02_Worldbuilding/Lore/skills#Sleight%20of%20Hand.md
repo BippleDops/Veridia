@@ -1,16 +1,16 @@
 ---
-title: skills#Sleight%20of%20Hand
+title: "skills#Sleight%20of%20Hand"
 type: note
-tags:
+tags: 
 - auto-generated
-- [[Link]]ed
+- [[Linked
 created: '2025-01-15'
 ---
 
 # skills#Sleight%20of%20Hand
 
 ## Overview
-This topic is referenced in [[skill-list-skills-xphb (tables)]] and other parts of the campaign.
+This topic is referenced in [skill-list-skills-xphb (tables)]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.

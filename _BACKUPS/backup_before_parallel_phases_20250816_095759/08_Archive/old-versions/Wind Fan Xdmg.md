@@ -1,0 +1,76 @@
+---
+
+title: Wind Fan Xdmg
+type: item
+tags: 
+- item
+
+created: '2025-01-15'
+modified: '2025-01-15'
+aliases: ["Wind Fan Xdmg"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
+---
+
+ # Wind Fan Xdmg ---
+
+## Description
+
+Detailed description pending.
+title: Wind Fan Xdmg
+aliases:
+- Wind Fan
+
+type: note
+tags:
+- both
+- research
+- world/both
+- active
+- note
+- content/item
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xdmg
+
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+attunement: false
+cssclasses: json5e-item
+obsidian-u-i-mode: preview
+updated: '2025-08-13T12:34:06.787480+00:00'
+world: Both
+
+--- # Wind Fan
+
+*Wondrous item, uncommon* ![](/03_Mechanics/CLI/items/img/wind-fan.webp#right) While holding this fan, you can cast [[Gust of Wind Xphb (save **DC 13**) from it. Each subsequent time the fan is used before the next dawn, it has a cumulative 20 percent chance of not working; if the fan fails to work, it tears into useless, nonmagical tatters. *Source: Dungeon Master's Guide (2024) p. 213. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Wind fan xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of wind fan xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wind fan xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Related Notes - [Similar Topic 1]]
+
+- [[Contrasting Approach
+- [Advanced Version]]
+- [[Historical Context ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [Master_Item_Catalog]]
+
+- [[Arcana Uncommon Xdmg
+- [Magic Item Table F]]
+- [[Random Magic Items Arcana
+- [arcana-uncommon-xdmg (tables)]]
+- [[magic-item-table-f (tables)
+- [random-magic-items-arcana (tables)]]
+
+## Notes
+
+*Additional notes*
+
+#mechanics/rules
+#mechanics/mechanics
+#story/story
+#story/lore
+#world/world
+#world/setting
+#resource/item
+#meta/reference

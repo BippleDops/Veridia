@@ -2,7 +2,7 @@
 
 title: The Silent Rescue
 type: Location
-tags:
+tags: 
 - aquabyssos
 - content/adventure
 - rescue
@@ -314,11 +314,9 @@ Ongoing situations affecting The Silent Rescue:
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

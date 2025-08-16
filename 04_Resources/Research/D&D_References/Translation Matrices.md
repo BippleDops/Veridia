@@ -2,7 +2,7 @@
 
 title: Translation Matrices
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -44,7 +44,6 @@ updated: '2025-08-13T01:18:34.641513+00:00'
 
 - Someone is blackmailing information for money
 - A noble needs help stealing before the festival ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Diplomatic Tides (D&D_Statblocks)]]
-
 
 ## Notes
 

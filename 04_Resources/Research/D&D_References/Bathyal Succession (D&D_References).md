@@ -2,7 +2,7 @@
 
 title: Bathyal Succession (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -59,7 +59,6 @@ Traditional succession requires candidates to complete three challenges:
 2. **Trial of Wisdom**: Solve an ancient riddle posed by the Deep Oracles
 3. **Trial of Command**: Lead a military expedition against a chosen threat ## Political Factions
 
-
 **The Deep Guard**: Military traditionalists supporting Prince Abyssos
 **The Progressive Current**: Reformers and diplomats backing Princess Pelagia
 **The Shadow Tide**: Criminal elements and opportunists behind Duke Hadean
@@ -78,7 +77,6 @@ The succession process is expected to take 3-6 months, with each phase potential
 4. Race to recover ancient succession artifacts
 5. Preventing assassination attempts on multiple targets ## Potential Outcomes
 
-
 **Legitimate Victory**: One claimant completes all trials and gains broad support
 **Civil War**: Multiple claimants refuse to accept trial results
 **Foreign Intervention**: External powers install their preferred candidate
@@ -88,12 +86,11 @@ The succession process is expected to take 3-6 months, with each phase potential
 This succession crisis provides a backdrop for political intrigue, moral choices, and large-scale consequences based on player actions. Each faction should have compelling motivations and legitimate grievances. ## Player-Facing Summary Bathyal Succession is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Bathyal Succession as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Bathyal Succession. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The First Prophecy of Shadows ## Plot Hooks - A merchant needs help delivering before winter
 
 - A merchant needs help investigating before winter
-- A noble needs help investigating before winter ## Related Notes - [[Similar Topic 1]]
+- A noble needs help investigating before winter ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

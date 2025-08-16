@@ -2,7 +2,7 @@
 
 title: Relationship Web Nuances (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -338,7 +338,6 @@ The following are 40+ specific relationship nuances that create dramatic tension
 - A merchant needs help investigating before the new moon
 - A stranger needs help finding before winter
 - Strange accidents suggest a conspiracy ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

@@ -3,7 +3,7 @@ created: '2025-08-08'
 created_by: auto-stub
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - aquabyssos
 - campaign/objective
 - complete
@@ -19,13 +19,8 @@ updated: '2025-08-13T12:34:17.038759+00:00'
 world: Aquabyssos
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-temporal-rescue-temporal-rescue.svg)
-
-
-
 
 # Temporal Rescue
 
@@ -162,10 +157,9 @@ An emergency mission where someone important has been displaced in time by magic
 ## DM Notes
 This quest emphasizes urgency and ethical decision-making. Time travel should feel dangerous and consequential. Use historical knowledge to create authentic period details while maintaining fantasy elements. Consider how timeline changes might affect future campaign events.
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/The Primordial Vaults]]
+- [[02_Worldbuilding/Places/The Primordial Vaults
 
 ## Player-Facing Summary
 
@@ -177,30 +171,25 @@ Legends speak of Temporal Rescue as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Temporal Rescue]]
+- [02_Worldbuilding/Places/Temporal Rescue]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

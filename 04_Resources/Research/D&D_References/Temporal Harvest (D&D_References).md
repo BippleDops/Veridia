@@ -2,7 +2,7 @@
 
 title: Temporal Harvest (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -57,7 +57,6 @@ The first major documented Temporal Harvest occurred in what is now known as the
 A series of temporal disturbances swept through the merchant quarter, causing rapid aging and youth reversals among affected individuals. Some merchants aged decades in hours, while others reverted to childhood. Most effects reversed themselves within days, but some changes proved permanent. ### The Echo Market (3 years ago)
 
 A portion of the main marketplace became temporally unstable, creating "time echoes" where the same events repeated multiple times simultaneously. Shoppers could observe the same transaction occurring at different temporal rates in overlapping timestreams. ### Academic Theories **The Cultivation Theory**
-
 
 **Summary**: Academic Theories **The Cultivation Theory** - Key information at a glance.
 

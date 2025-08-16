@@ -2,7 +2,7 @@
 
 title: The Leviathan Prophets (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -70,7 +70,6 @@ The Leviathan Prophets are a mysterious cult devoted to ancient sea creatures of
 4. "Three pearls of power will determine the city's fate"
 5. However, "The False Crown shall fall when truth surfaces" ## Activities and Influence
 
-
 The Prophets operate an extensive network of informants who report unusual phenomena, seeking validation for their predictions. They provide guidance to wealthy patrons seeking advantage in business or politics, often with uncanny accuracy. Some members hold positions in government and religious institutions, subtly promoting leviathan-favorable policies. ## Locations
 
 **The Deep Oracle:** Primary shrine in the Abyssal District
@@ -97,24 +96,21 @@ Members come from all social classes, united by fascination with prophecy and de
 4. Several "fulfilled" prophecies were actually orchestrated by the cult
 5. Ancient leviathan remains are hidden beneath their primary shrine ## Adventure Hooks
 
-
 1. Cult seeks adventurers to investigate prophecy site
 2. Rival organization hires party to expose false predictions
 3. Ancient leviathan awakening threatens city stability
 4. Prophetic warning of imminent disaster requires immediate action
 5. Missing persons investigation leads to cult recruitment practices ## DM Notes
 
-
 The Leviathan Prophets work well as mysterious quest givers whose cryptic guidance leads to adventure. Their prophecies can foreshadow campaign events or provide plot hooks. Use them to add mystical elements to political intrigue, while their potential accuracy makes them valuable but potentially dangerous allies. ## Player-Facing Summary The Leviathan Prophets is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Leviathan Prophets as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Leviathan Prophets. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Hidden Prophecy of Winds ## Plot Hooks - The authorities needs help stealing before dawn
 
 - A document has gone missing and truth emerges
 - A prisoner has gone missing and war looms
-- A noble needs help delivering before dawn ## Related Notes - [[Similar Topic 1]]
+- A noble needs help delivering before dawn ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

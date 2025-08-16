@@ -2,7 +2,7 @@
 
 title: Artificer (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -59,7 +59,7 @@ Master Artificer Cogwheel Sparkwright is Aethermoor's premier inventor and magic
 **Magical Tinkering.** Can infuse ordinary items with magical properties
 **Invention Mastery.** Creates unique magical items with custom effects
 **Workshop Magic.** Enhanced spellcasting when in her prepared workspace
-**Emergency Gadgets.** Always has 1d4 useful one-use magical items ready ## Background
+**Emergency Gadgets.** Always has `dice: 1d4` useful one-use magical items ready ## Background
 
 Cogwheel showed exceptional aptitude for both magic and engineering from a young age. She studied at the Royal Academy before establishing her independent workshop, where she's spent the last twenty years pushing the boundaries of magical technology. Her innovations have revolutionized several industries, though her tendency to prioritize interesting problems over profitable ones keeps her workshop modest. ## Workshop: "Sparkwright Innovations"
 
@@ -92,13 +92,11 @@ Cogwheel showed exceptional aptitude for both magic and engineering from a young
 3. Government commissions dangerous magical weapon development
 4. Ancient artificer ruins discovered, expertise needed for exploration ## Workshop Rules
 
-
 1. No touching anything without permission
 2. Safety equipment required in all laboratory areas
 3. Emergency procedures must be memorized before entering
 4. Disrupting active experiments is grounds for immediate expulsion
 5. Payment required before work begins on custom projects ## DM Notes
-
 
 Cogwheel works well as a source for magical items, technical expertise, and plot hooks involving magical technology. Her workshop can serve as a recurring location, and her projects can drive adventure storylines or provide campaign equipment. ## Player-Facing Summary Artificer is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Artificer as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Artificer. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The First Prophecy of Winds ## Plot Hooks - A shipment has gone missing and truth emerges
 

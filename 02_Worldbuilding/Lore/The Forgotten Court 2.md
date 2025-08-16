@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - aethermoor
 - complete
 - content/location
@@ -13,11 +13,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.293382+00:00'
 world: Aethermoor
 ---
-
-
-
-
-
 
 ## Overview
 
@@ -45,11 +40,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Hidden Smuggler's Cove]]
-
+- [[02_Worldbuilding/Places/Hidden Smuggler's Cove
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Hidden Smuggler's Cove]]
-- [[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
-- [[02_Worldbuilding/Places/The Siren's Rest Tavern]]
+- [02_Worldbuilding/Places/Hidden Smuggler's Cove]]
+- [[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver
+- [02_Worldbuilding/Places/The Siren's Rest Tavern]]

@@ -1,14 +1,14 @@
 ---
 
 title: Goldwave Manor
-type: [[location]]
-tags:
-- [[Lore]]
+type: [[location
+tags: 
+- [Lore]]
 - session-notes
 - noble-house
 - goldwave-family
 - luxury
-- [[Merchant]]
+- [[Merchant
 - cross-realm-trade
 - manor
 - active
@@ -25,19 +25,19 @@ status: complete
 world: Aethermoor
 location_name: Goldwave Manor
 location_type: Noble Estate and Ficial Complex
-parent_location: '[[Port Meridian]]'
-connected_locations:
-- '[[Port Meridian Harbor]]'
-- '[[Royal Palace|The [[Royal Palace]]]]'
-- '[[Silverscale Banking House]]'
-- '[[Shadow Markets|The [[Shadow Markets]]]]'
-sub_locations:
-- '[[Goldwave Private Offices]]'
-- '[[Crystal Conservatory|The [[Crystal Conservatory]]]]'
-- '[[Aurelius''s Private Study]]'
-- '[[The Vault of Currents]]'
-- '[[Goldwave Guest Quarters]]'
-owner: '[[12 Research]]'
+parent_location: '[Port Meridian]]'
+connected_locations: 
+- '[[Port Meridian Harbor'
+- '[[Royal Palace|The [Royal Palace]]]]'
+- '[[Silverscale Banking House'
+- '[[Shadow Markets|The [Shadow Markets]]]]'
+sub_locations: 
+- '[[Goldwave Private Offices'
+- '[[Crystal Conservatory|The [Crystal Conservatory]]]]'
+- '[[Aurelius''s Private Study'
+- '[The Vault of Currents]]'
+- '[[Goldwave Guest Quarters'
+owner: '[12 Research]]'
 architecture: Crystal and Gold Fusion
 size: Large Estate
 security_level: High
@@ -45,16 +45,16 @@ access: By invitation only
 wealth_level: Extreme
 created_by: auto-stub
 updated: '2025-08-13T01:18:35.209288+00:00'
-services:
+services: 
 - Private Banking
 - Investment Consultation
 - Cross-Realm Trade Facilitation
 - High-Society Entertainment
 - Diplomatic Hosting
-notable_residents:
-- '[[12 Research]]'
-- '[[Lady Serena Goldwave]]'
-- '[[Master Valet Sterling Currentborn]]'
+notable_residents: 
+- '[[12 Research'
+- '[Lady Serena Goldwave]]'
+- '[[Master Valet Sterling Currentborn'
 current_state: Thriving ficial hub
 temporal_stability: 95
 shadow_density: Low
@@ -79,7 +79,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -113,20 +113,20 @@ improvements: 20
 
 - Describe rites of passage and adulthood markers
 
-## [[The Crown]] Jewel of Merchant Nobility
+## [[The Crown Jewel of Merchant Nobility
 
 > *"Gold flows like water through these halls, and water shimmers like gold in the light of our success. Here, where crystal meets current, the future of two realms is bought and sold with the elegance befitting true nobility."*
-> — [[12 Research]], Master of the House
+> — [12 Research]], Master of the House
 
 ## Overview
 
-Goldwave Manor stands as the most magnificent private residence in [[Port Meridian]], serving simultaneously as luxurious family estate, sophisticated ficial headquarters, and exclusive social center for [[Aethermoor]]'s mercantile elite. Built by the legendary [[Goldwave Trading Empire]] over three generations, this architectural marvel demonstrates how vast wealth can be transformed into lasting power and influence.
+Goldwave Manor stands as the most magnificent private residence in [[Port Meridian, serving simultaneously as luxurious family estate, sophisticated ficial headquarters, and exclusive social center for [Aethermoor]]'s mercantile elite. Built by the legendary [[Goldwave Trading Empire over three generations, this architectural marvel demonstrates how vast wealth can be transformed into lasting power and influence.
 
-Unlike traditional [[Noble House]]s that derive their status from bloodlines and land holdings, the Goldwave family has created their aristocracy through commercial genius and ficial innovation. Their manor reflects this unique position, combining the grandeur expected of high nobility with cutting-edge magical technology and practical business facilities that manage a trading empire spanning multiple realms.
+Unlike traditional [Noble House]]s that derive their status from bloodlines and land holdings, the Goldwave family has created their aristocracy through commercial genius and ficial innovation. Their manor reflects this unique position, combining the grandeur expected of high nobility with cutting-edge magical technology and practical business facilities that manage a trading empire spanning multiple realms.
 
-The estate occupies a prime location overlooking both [[Port Meridian Harbor]] and the city's central ficial district, strategically positioned to monitor commercial activity while displaying the family's prosperity. The manor's distinctive architecture, featuring walls that literally flow with liquid gold suspended in crystal matrices, has become an iconic symbol of merchant power and sophisticated wealth.
+The estate occupies a prime location overlooking both [[Port Meridian Harbor and the city's central ficial district, strategically positioned to monitor commercial activity while displaying the family's prosperity. The manor's distinctive architecture, featuring walls that literally flow with liquid gold suspended in crystal matrices, has become an iconic symbol of merchant power and sophisticated wealth.
 
-Beyond its role as private residence, Goldwave Manor functions as an exclusive ficial institution, diplomatic center, and social hub where the most important commercial and political decisions affecting [[Aethermoor]]'s economy are negotiated over elegant dinners and in opulent private chambers.
+Beyond its role as private residence, Goldwave Manor functions as an exclusive ficial institution, diplomatic center, and social hub where the most important commercial and political decisions affecting [Aethermoor]]'s economy are negotiated over elegant dinners and in opulent private chambers.
 
 ### The Flowing Gold Aesthetic
 
@@ -143,16 +143,16 @@ Magical systems allow rooms to reconfigure themselves based on their intended us
 
 **The Residential Wing**
 Private family quarters designed for luxury and security:
-- **Master Suites:** [[12 Research]] and [[Lady Serena Goldwave]]'s private apartments
+- **Master Suites:** [[12 Research and [Lady Serena Goldwave]]'s private apartments
 - **Family Chambers:** Accommodations for visiting relatives and close business partners
 - **Service Quarters:** High-quality housing for essential personal staff
 - **Private Dining:** Intimate spaces for family meals and confidential discussions
-- **Recreation Areas:** Personal [[Libraries]], music rooms, and relaxation spaces
+- **Recreation Areas:** Personal [[Libraries, music rooms, and relaxation spaces
 
 **The Business Wing**
-Sophisticated facilities for managing the [[Goldwave Trading Empire]]:
-- **[[Goldwave Private Offices]]:** Executive suites for senior managers and department heads
-- **Conference Chambers:** Meeting rooms equipped with magical [[Communication_Systems|Communication Systems]]
+Sophisticated facilities for managing the [Goldwave Trading Empire]]:
+- **[[Goldwave Private Offices:** Executive suites for senior managers and department heads
+- **Conference Chambers:** Meeting rooms equipped with magical [Communication_Systems|Communication Systems]]
 - **Document Vaults:** Secure storage for contracts, ficial records, and trade agreements
 - **Analysis Centers:** Spaces equipped with magical tools for market research and economic forecasting
 - **Communication Hub:** Magical systems for instant contact with trading operations worldwide
@@ -161,14 +161,14 @@ Sophisticated facilities for managing the [[Goldwave Trading Empire]]:
 Grand spaces designed for entertaining and diplomatic functions:
 - **The Great Ballroom:** 200-person capacity for major social and business events
 - **Reception Halls:** Flexible spaces for various types of gatherings
-- **[[The Crystal Conservatory]]:** Magical garden space for intimate entertainment
+- **[[The Crystal Conservatory:** Magical garden space for intimate entertainment
 - **Dining Halls:** Multiple rooms accommodating different group sizes and formality levels
 - **Guest Suites:** Luxurious accommodations for visiting dignitaries and business partners
 
 **The Ficial Wing**
 Private banking and investment facilities:
-- **[[The Vault of Currents]]:** Secure storage for vast wealth and valuable assets
-- **Trading Floors:** Real-[[Time]] market monitoring and transaction processing
+- **[The Vault of Currents]]:** Secure storage for vast wealth and valuable assets
+- **Trading Floors:** Real-[[Time market monitoring and transaction processing
 - **Investment Chambers:** Private spaces for confidential ficial consultations
 - **Currency Exchange:** Facilities for managing multi-realm monetary transactions
 - **Insurance Offices:** Risk assessment and coverage for major commercial ventures
@@ -183,7 +183,7 @@ Defensive systems and personnel quarters:
 
 ## Connected Locations and Adventure Integration
 
-Goldwave Manor serves as a natural hub connecting to numerous other important locations throughout [[Aethermoor]] and beyond, providing rich opportunities for campaign development and character engagement across multiple storylines and adventure themes.
+Goldwave Manor serves as a natural hub connecting to numerous other important locations throughout [Aethermoor]] and beyond, providing rich opportunities for campaign development and character engagement across multiple storylines and adventure themes.
 
 ## Player-Facing Summary
 
@@ -193,11 +193,11 @@ Goldwave Manor is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Goldwave Manor as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Goldwave Manor.
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [map]] use.
 
-## [[Historical Context]]
+## [[Historical Context
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -212,10 +212,10 @@ Different cultures interpret this lore through their own lens, creating variatio
   - Traits: alien mind, psychic abilities, tentacles
   - CR Range: 3
   
-### [[Environmental Hazards]]
+### [Environmental Hazards]]
 - Collapsing ceiling
-- DC 14 to detect
-- [[3d6]] damage on failure
+- **DC 14** to detect
+- [[`dice: 3d6` damage on failure
 
 ### Magical Influences
 - Active Spell Effect: **Fireball**
@@ -232,19 +232,19 @@ Different cultures interpret this lore through their own lens, creating variatio
 ### Future Seeds  
 - **Near Future**: Trial in 28 days
 - **Brewing Conflict**: Resource shortage
-- **Prophecy Connection**: [[Link]]s to The Second Prophecy of Shadows
+- **Prophecy Connection**: [Link]]s to The Second Prophecy of Shadows
 
 ## Plot Hooks
 
 - A corpse reveals a conspiracy about the cult
 - A shipment has gone missing and war looms
 
-## Historical [[Timeline]]
+## Historical [[Timeline
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[People]]s
+- War with indigenous [People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -254,7 +254,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current [[Power Structures]] established
+- Current [[Power Structures established
 
 ## A Day in the Life
 
@@ -274,6 +274,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[The Silverscale Conspiracy]]
-- [[Aethermoor - Session 03 Council of Shadows]]
-- [[The Silverscale Conspiracy (D&D_References)]]
+- [The Silverscale Conspiracy]]
+- [[Aethermoor - Session 03 Council of Shadows
+- [The Silverscale Conspiracy (D&D_References)]]

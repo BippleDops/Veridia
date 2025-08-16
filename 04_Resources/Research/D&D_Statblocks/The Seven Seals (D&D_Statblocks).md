@@ -2,7 +2,7 @@
 
 title: The Seven Seals (D&D_Statblocks)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -47,7 +47,7 @@ accessibility: screen_reader_summary: Ancient guardians who embody reality's fou
 **Age**: 47 (312th incarnation)
 **Location**: The Abyssal Monastery The Depth Warden maintains the barrier between the physical ocean and the Dream Depths where the Deep Mother slumbers. Malachus was a common fisherman who inherited the Seal when he accidentally witnessed the previous Warden's death. He struggles with the weight of cosmic responsibility, often drowning his doubts in meditation and rigorous training. **Malachus Ironheart, First Seal** (CR 17)
 *Medium humanoid (human), lawful neutral* **Armor Class** 20 (Seal of Depths)
-**Hit Points** 180 (19d8 + 95)
+**Hit Points** 180 (`dice: 19d8` + 95)
 **Speed** 30 ft., swim 60 ft. STR 20 (+5), DEX 14 (+2), CON 20 (+5), INT 16 (+3), WIS 22 (+6), CHA 18 (+4) **Saving Throws** Str +11, Con +11, Wis +12, Cha +10
 **Skills** Athletics +11, Insight +12, Perception +12, Religion +9
 **Damage Resistances** psychic, necrotic
@@ -55,13 +55,13 @@ accessibility: screen_reader_summary: Ancient guardians who embody reality's fou
 **Condition Immunities** charmed, exhaustion, frightened
 **Senses** truesight 120 ft., passive Perception 22
 **Languages** All, telepathy 120 ft.
-**Challenge** 17 (18,000 XP) **Legendary Resistance (3/Day).** If Malachus fails a saving throw, he can choose to succeed instead. **Seal Bearer.** Malachus cannot be killed while his Anchor Point remains intact. If reduced to 0 hit points, he reforms at the Anchor Point in 1d10 days. **Reality Anchor.** Malachus is immune to any effect that would alter his form, teleport him, or send him to another plane against his will. **Deep Ward.** Creatures within 30 feet of Malachus have advantage on saving throws against madness and Deep Mother corruption. **Actions**
-**Multiattack.** Malachus makes three attacks with Tidecaller. **Tidecaller (Trident).** *Melee or Ranged Weapon Attack:* +11 to hit, reach 10 ft. Or range 30/90 ft., one target. *Hit:* 14 (2d8 + 5) piercing damage plus 9 (2d8) force damage. If thrown, it returns to his hand immediately. **Depth Seal (Recharge 5-6).** Malachus creates a 30-foot radius sphere of reality reinforcement. For 1 minute, no teleportation, summoning, or planar travel can occur within the sphere, and all creatures have resistance to psychic damage. **Legendary Actions**
+**Challenge** 17 (18,000 XP) **Legendary Resistance (3/Day).** If Malachus fails a saving throw, he can choose to succeed instead. **Seal Bearer.** Malachus cannot be killed while his Anchor Point remains intact. If reduced to 0 hit points, he reforms at the Anchor Point in `dice: 1d10` days. **Reality Anchor.** Malachus is immune to any effect that would alter his form, teleport him, or send him to another plane against his will. **Deep Ward.** Creatures within 30 feet of Malachus have advantage on saving throws against madness and Deep Mother corruption. **Actions**
+**Multiattack.** Malachus makes three attacks with Tidecaller. **Tidecaller (Trident).** *Melee or Ranged Weapon Attack:* +11 to hit, reach 10 ft. Or range 30/90 ft., one target. *Hit:* 14 (`dice: 2d8` + 5) piercing damage plus 9 (`dice: 2d8`) force damage. If thrown, it returns to his hand immediately. **Depth Seal (Recharge 5-6).** Malachus creates a 30-foot radius sphere of reality reinforcement. For 1 minute, no teleportation, summoning, or planar travel can occur within the sphere, and all creatures have resistance to psychic damage. **Legendary Actions**
 
 Malachus can take 3 legendary actions, choosing from the options below.
 - **Move.** Malachus moves up to his speed without provoking opportunity attacks.
 - **Attack.** Malachus makes one weapon attack.
-- **Seal Pulse (Costs 2 Actions).** Each creature within 30 feet must make a DC 20 Wisdom saving throw or be pushed 30 feet away and stunned until the end of Malachus's next turn. ### Second Seal: The Memory Keeper
+- **Seal Pulse (Costs 2 Actions).** Each creature within 30 feet must make a **DC 20** Wisdom saving throw or be pushed 30 feet away and stunned until the end of Malachus's next turn. ### Second Seal: The Memory Keeper
 
 **Current Incarnation**: Lysara the Forgotten
 **Age**: Unknown (forgets her own age)
@@ -183,7 +183,6 @@ When a new incarnation is born:
 4. Transfer occurs at moment of death
 5. New incarnation gains all powers instantly ### The Convergence
 
-
 Annual meeting of all Seven Seals:
 - Location changes each year
 - Lasts exactly 7 hours
@@ -243,16 +242,15 @@ Points toward nearest Anchor Point:
 - Protecting Seals creates moral dilemmas
 - Breaking a Seal could be campaign climax ## See Also
 
-- [[Deep Mother|02 Worldbuilding/Lore/Deep Mother]]
-- [[The Great Drowning|02 Worldbuilding/Places/The Great Drowning]]
-- [[Groups]]
-- [[Reality Anchors|02 Worldbuilding/Lore/Reality Anchors]]
+- [[Deep Mother|02 Worldbuilding/Lore/Deep Mother
+- [The Great Drowning|02 Worldbuilding/Places/The Great Drowning]]
+- [[Groups
+- [Reality Anchors|02 Worldbuilding/Lore/Reality Anchors]]
 - [[Deep_Mother_Subsystem|03 Mechanics/Deep Mother Subsystem]] *"Seven to bind, seven to hold, seven to keep the story untold."* ## Player-Facing Summary The Seven Seals is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Seven Seals as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Seven Seals. ## Prophecy Connection Mentioned in The Hidden Prophecy of Shadows ## Plot Hooks - Someone is protecting a witness for power
 
 - A prisoner has gone missing and chaos spreads
 - The authorities needs help delivering before the festival
 - Strange disappearances suggest a conspiracy ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

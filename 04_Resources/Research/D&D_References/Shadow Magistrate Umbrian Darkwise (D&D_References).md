@@ -2,7 +2,7 @@
 
 title: Shadow Magistrate Umbrian Darkwise (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,7 +42,6 @@ updated: '2025-08-13T01:18:35.525258+00:00'
 
 - A corpse reveals ancient history about the government
 - A shipment has gone missing and war looms ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

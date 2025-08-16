@@ -2,7 +2,7 @@
 
 title: Dockmaster Bruno Steadyanchor (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -240,7 +240,6 @@ Secret shipping channels connect the docks to hidden destinations, allowing for 
 - A letter reveals a conspiracy about this place
 - Someone is searching for an heir for money
 - A document has gone missing and truth emerges ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

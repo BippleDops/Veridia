@@ -2,7 +2,7 @@
 
 title: The Growth Gardens (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,7 +43,6 @@ updated: '2025-08-13T01:18:35.392476+00:00'
 - Strange dreams suggest a curse
 - Strange disappearances suggest a conspiracy
 - A shipment has gone missing and chaos spreads ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

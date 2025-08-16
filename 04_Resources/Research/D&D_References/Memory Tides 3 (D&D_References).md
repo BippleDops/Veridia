@@ -2,7 +2,7 @@
 
 title: Memory Tides 3 (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -46,12 +46,11 @@ world: Aethermoor
 
 - Someone is protecting a artifact for money
 - A journal reveals a betrayal about this place
-- A merchant needs help finding before the festival ## Related Notes - [[Similar Topic 1]]
+- A merchant needs help finding before the festival ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

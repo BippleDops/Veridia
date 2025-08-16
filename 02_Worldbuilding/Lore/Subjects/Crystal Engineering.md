@@ -3,7 +3,7 @@ created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
-tags:
+tags: 
 - lore
 title: Crystal Engineering
 type: lore
@@ -51,6 +51,6 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[Eastern Kingdom]]
-- [[Name Etymology Guide]]
+- [[Eastern Kingdom
+- [Name Etymology Guide]]
 - [[The Crystal Wardens]]

@@ -2,7 +2,7 @@
 
 title: Vault Maintece Checklist
 type: Location
-tags:
+tags: 
 - aquabyssos
 - status/complete
 - royal-vault
@@ -295,11 +295,9 @@ Key stop on textiles trade route
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

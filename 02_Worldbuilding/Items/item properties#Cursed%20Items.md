@@ -1,7 +1,7 @@
 ---
-title: item properties#Cursed%20Items
+title: "item properties#Cursed%20Items"
 type: note
-tags:
+tags: 
 - auto-generated
 - linked
 created: '2025-01-15'
@@ -10,13 +10,13 @@ created: '2025-01-15'
 # item properties#Cursed%20Items
 
 ## Overview
-This topic is referenced in [[armor-of-vulnerability-slashing-xdmg (items)]] and other parts of the campaign.
+This topic is referenced in [[armor-of-vulnerability-slashing-xdmg (items) and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[armor-of-vulnerability-slashing-xdmg (items)]]
+- Referenced by: [armor-of-vulnerability-slashing-xdmg (items)]]
 - Related topics in the same category
 
 ## Details

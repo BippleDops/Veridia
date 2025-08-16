@@ -2,7 +2,7 @@
 
 title: Safety Coordinator Reef Safeguard (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,7 +43,6 @@ danger_level: Moderate
 - Strange sightings suggest ancient magic
 - Strange dreams suggest ancient magic
 - A stranger needs help delivering before the festival ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

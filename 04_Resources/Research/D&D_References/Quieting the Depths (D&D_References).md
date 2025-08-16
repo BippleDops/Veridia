@@ -2,7 +2,7 @@
 
 title: Quieting the Depths (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -101,11 +101,9 @@ A supernatural crisis quest where an ancient evil stirs in the deepest ocean tre
 3. Ancient prophecy identifies party as potential ritual performers
 4. Character's family member severely affected by psychic influence ## Moral Dimensions
 
-
 The quest explores themes of sacrifice for greater good, ancient wisdom versus modern knowledge, and whether some threats justify extreme measures. ## DM Notes
 
 This quest combines Lovecraftian horror with heroic fantasy. Build tension gradually through increasing supernatural influence. The ritual should feel dangerous and uncertain even when performed correctly. ## Player-Facing Summary Quieting the Depths is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Quieting the Depths as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quieting the Depths. ## Related *Links to related content will be added here.*
-
 
 ## Notes
 

@@ -2,7 +2,7 @@
 
 title: Beast Master Krell Chainbreaker (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -57,9 +57,9 @@ Krell Chainbreaker is a notorious beast master who operates in the outer distric
 - **CR** 7 ### Actions
 
 **Multiattack.** Makes two attacks: one with his shock spear, one command creature.
-**Shock Spear.** +7 to hit, reach 10 ft, 1d8+3 piercing + 1d6 lightning damage.
+**Shock Spear.** +7 to hit, reach 10 ft, `dice: 1d8`+3 piercing + `dice: 1d6` lightning damage.
 **Command Creature.** Commands one tamed beast to attack (beast acts immediately).
-**Beast Whistle** (Recharge 5-6). Summons 1d4 trained sea creatures to aid him. ## Background
+**Beast Whistle** (Recharge 5-6). Summons `dice: 1d4` trained sea creatures to aid him. ## Background
 
 Formerly Dr. Krell Marineson, he was expelled from the Aquabyssos Research Institute for conducting illegal experiments on sentient sea life. His obsession with creature control led him to develop brutal training methods that break creatures' wills entirely. Now he operates from hidden facilities in abandoned kelp farms, where the screams of tortured creatures echo through the water. His client list includes assassins, gladiator promoters, and wealthy collectors who want "unique" pets. ## Beast Companions
 
@@ -73,13 +73,11 @@ Formerly Dr. Krell Marineson, he was expelled from the Aquabyssos Research Insti
 3. He approaches party with offer for rare creature acquisition
 4. His escaped experiments threaten local areas ## DM Notes
 
+Krell should be portrayed as intelligent but completely amoral. His facilities are horrifying but he sees himself as a scientist. Use him to explore themes of abuse of power and scientific ethics. ## Player-Facing Summary Beast Master Krell Chainbreaker is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Beast Master Krell Chainbreaker as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Beast Master Krell Chainbreaker. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes ## Prophecy Connection Mentioned in The Hidden Prophecy of Stars ## Related Notes - [[Similar Topic 1
 
-Krell should be portrayed as intelligent but completely amoral. His facilities are horrifying but he sees himself as a scientist. Use him to explore themes of abuse of power and scientific ethics. ## Player-Facing Summary Beast Master Krell Chainbreaker is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Beast Master Krell Chainbreaker as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Beast Master Krell Chainbreaker. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes ## Prophecy Connection Mentioned in The Hidden Prophecy of Stars ## Related Notes - [[Similar Topic 1]]
-
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

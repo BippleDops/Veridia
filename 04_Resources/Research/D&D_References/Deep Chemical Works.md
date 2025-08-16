@@ -2,7 +2,7 @@
 
 title: Deep Chemical Works
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -41,14 +41,13 @@ updated: '2025-08-13T01:18:35.134484+00:00'
 
 - A prisoner has gone missing and chaos spreads
 - A shipment has gone missing and evil awakens
-- Someone is hunting information for power ## Related Notes - [[Similar Topic 1]]
+- Someone is hunting information for power ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Pressure Adaptation System]]
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Pressure Adaptation System
 
-- [[Pressure Adaptation System (D&D_References)]]
-
+- [Pressure Adaptation System (D&D_References)]]
 
 ## Notes
 

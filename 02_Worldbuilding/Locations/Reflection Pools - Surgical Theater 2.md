@@ -10,7 +10,7 @@ obsidianUIMode: preview
 parent_location: The Reflection Pools
 population: 50-80 medical staff, 20-40 patients daily
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - consciousness
@@ -30,13 +30,8 @@ updated: '2025-08-13T12:34:16.751526+00:00'
 world: Aquabyssos
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-reflection-pools-surgical-theater-reflection-pools-surgical-theater.svg)
-
-
-
 
 # Reflection Pools - Surgical Theater
 
@@ -44,7 +39,7 @@ world: Aquabyssos
 
 ## Overview
 
-The Surgical Theater within [[02_Worldbuilding/Places/The Reflection Pools]] represents the pinnacle of [[02_Worldbuilding/Places/Aquabyssos]]'s medical advancement - a revolutionary facility where traditional surgery merges with consciousness manipulation and memory-based healing techniques. This extraordinary medical complex utilizes the unique properties of the Reflection Pools' memory-infused waters to perform procedures that would be impossible in conventional settings.
+The Surgical Theater within [[02_Worldbuilding/Places/The Reflection Pools represents the pinnacle of [02_Worldbuilding/Places/Aquabyssos]]'s medical advancement - a revolutionary facility where traditional surgery merges with consciousness manipulation and memory-based healing techniques. This extraordinary medical complex utilizes the unique properties of the Reflection Pools' memory-infused waters to perform procedures that would be impossible in conventional settings.
 
 Unlike surface-world medicine that focuses purely on physical intervention, the Surgical Theater operates on the principle that consciousness and memory directly affect physical healing. Here, surgeons work not only with scalpels and sutures, but with extracted memories, consciousness-altering environments, and the mystical properties of reflection-enhanced healing chambers. Patients may undergo procedures that heal both their bodies and their minds simultaneously, emerging not only physically restored but with enhanced mental clarity, resolved trauma, or improved cognitive function.
 
@@ -195,21 +190,21 @@ Advanced techniques for rebuilding damaged consciousness structures:
 
 ### Chief Medical Personnel
 
-**[[Chief Surgeon Dr. Coral Mindsplice]]**
+**[[Chief Surgeon Dr. Coral Mindsplice**
 - **Specialization**: Consciousness surgery and memory extraction
 - **Background**: Former military surgeon who pioneered battlefield consciousness stabilization
 - **Innovation**: Developed rapid trauma extraction techniques saving hundreds of lives
 - **Reputation**: Internationally recognized expert in consciousness-based healing
 - **Challenge**: Balancing experimental procedures with established medical ethics
 
-**[[Head of Memory Integration Dr. Nautilus Depthcaller]]**
+**[Head of Memory Integration Dr. Nautilus Depthcaller]]**
 - **Specialization**: Memory transplantation and personality reconstruction
 - **Background**: Former philosopher who transitioned to medical practice
 - **Philosophy**: Believes consciousness architecture directly determines physical health
 - **Research**: Leading authority on therapeutic memory implantation
 - **Ethics**: Strong advocate for informed consent in consciousness procedures
 
-**[[Director of Experimental Procedures Dr. Siren Voidtouch]]**
+**[[Director of Experimental Procedures Dr. Siren Voidtouch**
 - **Specialization**: Consciousness transfer and extreme experimental techniques
 - **Background**: Mysterious past involving personal consciousness transfer experience
 - **Innovation**: Pioneered temporary consciousness relocation procedures
@@ -348,28 +343,28 @@ Advanced techniques for rebuilding damaged consciousness structures:
 
 ## Connections and Relationships
 
-### [[02_Worldbuilding/Places/The Reflection Pools]] - Parent Complex
+### [02_Worldbuilding/Places/The Reflection Pools]] - Parent Complex
 - **Integration**: Surgical Theater uses same memory-infused waters as rest of complex
 - **Resource Sharing**: Common memory archives and consciousness research facilities
 - **Patient Flow**: Patients often receive multiple treatments throughout the complex
 - **Staff Exchange**: Medical personnel work across different areas of the complex
 - **Research Coordination**: Joint research projects with other Reflection Pool facilities
 
-### [[02_Worldbuilding/Places/The Shadow Markets]] - Underground Connections
+### [[02_Worldbuilding/Places/The Shadow Markets - Underground Connections
 - **Illegal Services**: Black market consciousness modification and memory trading
 - **Ethics Violations**: Some rejected procedures available through criminal networks
 - **Patient Referrals**: Desperate patients sometimes seek illegal alternatives
 - **Information Security**: Protecting patient data from criminal intelligence gathering
 - **Enforcement Cooperation**: Working with authorities to stop illegal consciousness procedures
 
-### [[02_Worldbuilding/Groups/Academies/Imperial Academy]] - Educational Partnership
+### [02_Worldbuilding/Groups/Academies/Imperial Academy]] - Educational Partnership
 - **Medical Training**: Advanced students receive training in consciousness surgery
 - **Research Collaboration**: Joint projects advancing consciousness medicine
 - **Ethics Education**: Training future surgeons in consciousness procedure ethics
 - **Innovation Development**: Academic research contributing to surgical advancement
 - **International Exchange**: Foreign medical students learning Aquabyssos techniques
 
-### [[02_Worldbuilding/Places/Parliament of Echoes]] - Regulatory Oversight
+### [[02_Worldbuilding/Places/Parliament of Echoes - Regulatory Oversight
 - **Legislative Framework**: Laws governing consciousness surgery and patient rights
 - **Funding Authorization**: Parliamentary approval for research and facility expansion
 - **Ethics Standards**: Political oversight ensuring ethical medical practices
@@ -467,13 +462,12 @@ The facility's most closely guarded secret is a device preventing reality distor
 
 *The Reflection Pools Surgical Theater represents the cutting edge of medical science, where the boundaries between mind and body, memory and reality, healing and transformation blur in the pursuit of perfect therapeutic intervention. Here, medicine becomes art, science becomes magic, and the very nature of identity and consciousness becomes malleable in the hands of skilled practitioners.*
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/Shadow Market Canals]]
-- [[1-Session Journals/Aquabyssos - Session 04 - High Tide Horror]]
-- [[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]]
-- [[06_GM_Resources/Campaign_Management/Campaign_Relationship_Matrix]]
+- [02_Worldbuilding/Places/Shadow Market Canals]]
+- [[1-Session Journals/Aquabyssos - Session 04 - High Tide Horror
+- [Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]]
+- [[06_GM_Resources/Campaign_Management/Campaign_Relationship_Matrix
 
 ## Player-Facing Summary
 
@@ -495,31 +489,26 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]
+- [02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]
 
 <!-- enriched: true -->
 - [[02_Worldbuilding/Places/Parliament of Echoes]]
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

@@ -1,22 +1,22 @@
 ---
-title: Lighthouse Peak   [[Resoce Chamber]]
+title: Lighthouse Peak   [[Resoce Chamber
 type: note
-tags:
+tags: 
 - auto-generated
-- [[Link]]ed
+- [Link]]ed
 created: '2025-01-15'
 ---
 
 # Lighthouse Peak   Resoce Chamber
 
 ## Overview
-This topic is referenced in [[Lighthouse_of_Storms|Lighthouse of Storms]] and other parts of the campaign.
+This topic is referenced in [[Lighthouse_of_Storms|Lighthouse of Storms and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Lighthouse_of_Storms|Lighthouse of Storms]]
+- Referenced by: [Lighthouse_of_Storms|Lighthouse of Storms]]
 - Related topics in the same category
 
 ## Details
@@ -29,6 +29,6 @@ Further information about this topic will be developed as the campaign progresse
 
 ## References
 
-- [[Aetheric Wind Songs]]
-- [[Aetheric Wind Songs (D&D_References)]]
+- [[Aetheric Wind Songs
+- [Aetheric Wind Songs (D&D_References)]]
 - [[Aethermoor - Session 02 The Lighthouse of Storms]]

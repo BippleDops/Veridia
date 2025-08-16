@@ -3,7 +3,7 @@ enhanced: true
 
 title: Depth Adaptation Points
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -73,7 +73,6 @@ New research into crystal corruption effects on DAP scores has revealed that cor
 2. A malfunction in adaptation equipment traps characters at dangerous depths
 3. Strange readings suggest someone is artificially manipulating DAP scores for unknown purposes
 4. An individual with impossible DAP scores seeks help understanding their condition ### Early Campaign
-
 
 Introduce DAP as a limiting factor that creates boundaries and goals, encouraging characters to train and adapt as they grow stronger. ### Mid Campaign
 

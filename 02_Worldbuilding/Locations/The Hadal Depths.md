@@ -2,7 +2,7 @@
 
 title: The Hadal Depths
 type: Location
-tags:
+tags: 
 - aquabyssos
 - cosmic-horror
 - status/complete
@@ -103,13 +103,13 @@ improvements: 20
 - Detail funeral rites and afterlife beliefs
 
 ## Overview
-The Hadal Depths represent the absolute bottom of [[Aquabyssos]], where water becomes something else entirely and the laws of physics surrender to older truths. Here, at depths exceeding 20,000 feet, the [[Deep Mother]] slumbers in her eternal dream, her massive form comprising entire mountain ranges and trenches. This is where existence becomes negotiable, where pressure transforms matter into thought, and where even [[Aboleth Prime Yoth]] fears to venture.
+The Hadal Depths represent the absolute bottom of [[Aquabyssos, where water becomes something else entirely and the laws of physics surrender to older truths. Here, at depths exceeding 20,000 feet, the [Deep Mother]] slumbers in her eternal dream, her massive form comprising entire mountain ranges and trenches. This is where existence becomes negotiable, where pressure transforms matter into thought, and where even [[Aboleth Prime Yoth]] fears to venture.
 
 #### The Hadal Threshold (20,000-25,000 feet)
 **The Last Boundary**
 - Water becomes viscous, more like liquid space
 - Light doesn't just fade—it's actively consumed
-- Pressure: Instant death for unprepared (DC 30 CON)
+- Pressure: Instant death for unprepared (**DC 30** CON)
 - Time dilation: 1 hour = 1 day surface time
 - First whispers of the Mother's dreams
 
@@ -155,7 +155,7 @@ The Hadal Depths represent the absolute bottom of [[Aquabyssos]], where water be
 
 #### The Spawning Grounds
 **Where Nightmares Birth**
-- [[Aboleth Prime Yoth]]'s origin point
+- [[Aboleth Prime Yoth's origin point
 - Shadow creatures spontaneously generate
 - Primordial life forms beyond classification
 - New horrors born from Mother's bad dreams
@@ -171,7 +171,7 @@ The Hadal Depths represent the absolute bottom of [[Aquabyssos]], where water be
 
 #### Primordial Aboleths
 **The First Children**
-- Older than [[Aboleth Prime Yoth]]
+- Older than [Aboleth Prime Yoth]]
 - Size of small cities
 - Memories predate reality
 - Speak in gravitational waves
@@ -207,7 +207,7 @@ The Hadal Depths represent the absolute bottom of [[Aquabyssos]], where water be
 - Most die, some transform, few return
 - Those who return can't/won't speak
 - Bodies adapted beyond recognition
-- Considered holy by [[Prophet Nerida Voidgazer]]
+- Considered holy by [[Prophet Nerida Voidgazer
 
 #### The Pressure Miners
 **Resource Extractors**
@@ -215,14 +215,14 @@ The Hadal Depths represent the absolute bottom of [[Aquabyssos]], where water be
 - Use abolished slaves for labor
 - Life expectancy: 3 days
 - Operations highly secret
-- Funded by [[Silverscale Consortium]]
+- Funded by [Silverscale Consortium]]
 
 #### Lost Expeditions
 **Never Returned**
 - The Depth Finder: 200 years ago
 - Scholarly Submersible: 50 years ago
 - The Reality Anchor: Last year
-- [[Prince Caspian's Folly]]: Status unknown
+- [[Prince Caspian's Folly: Status unknown
 - Countless others erased from history
 
 ### Pressure Effects
@@ -293,7 +293,7 @@ The Hadal Depths represent the absolute bottom of [[Aquabyssos]], where water be
 - Grant visions of other realities
 - Allow dream manipulation
 - Risk madness with each use
-- Valuable to [[The Siren]]
+- Valuable to [The Siren]]
 - Currency among Dream Leviathans
 
 #### The Depth Madness
@@ -334,7 +334,7 @@ The Hadal Depths represent the absolute bottom of [[Aquabyssos]], where water be
 > - She's dreaming reality to escape something worse
 > - The depths connect to all oceans in all realities
 > - Waking her doesn't destroy—it merges all existence
-> - The [[The Crimson Sage]] has been here
+> - The [[The Crimson Sage has been here
 
 ### Exploration Missions
 1. **The Deep Dive**: Reach the Primary Trench
@@ -344,11 +344,11 @@ The Hadal Depths represent the absolute bottom of [[Aquabyssos]], where water be
 5. **The Depth Map**: Chart the unchangeable
 
 ### Artifacts & Items
-- [[Pressure Suit of the Depths]] - Survival gear
-- [[Mother's Tear]] - Divine crystal
-- [[Reality Anchor]] - Existence protection
-- [[The Depth Compass]] - Points to Mother
-- [[The First Water]] - Primordial essence
+- [Pressure Suit of the Depths]] - Survival gear
+- [[Mother's Tear - Divine crystal
+- [Reality Anchor]] - Existence protection
+- [[The Depth Compass - Points to Mother
+- [The First Water]] - Primordial essence
 
 ---
 
@@ -393,13 +393,11 @@ The Hadal Depths is a notable location characterized by its unique features and 
 ### Founding
 The Hadal Depths was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -407,13 +405,11 @@ The Hadal Depths was established in the distant past, growing from humble beginn
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -478,11 +474,9 @@ Ongoing situations affecting The Hadal Depths:
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

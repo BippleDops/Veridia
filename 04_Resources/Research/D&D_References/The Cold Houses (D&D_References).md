@@ -2,7 +2,7 @@
 
 title: The Cold Houses (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,7 +43,6 @@ updated: '2025-08-13T01:18:35.457863+00:00'
 - Someone is protecting an heir for revenge
 - A journal reveals the truth about the cult
 - Someone is searching for a artifact for love ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

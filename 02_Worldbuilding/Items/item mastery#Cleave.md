@@ -1,7 +1,7 @@
 ---
-title: item mastery#Cleave
+title: "item mastery#Cleave"
 type: note
-tags:
+tags: 
 - auto-generated
 - linked
 created: '2025-01-15'
@@ -10,13 +10,13 @@ created: '2025-01-15'
 # item mastery#Cleave
 
 ## Overview
-This topic is referenced in [[Weapons Xphb]] and other parts of the campaign.
+This topic is referenced in [[Weapons Xphb and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Weapons Xphb]]
+- Referenced by: [Weapons Xphb]]
 - Related topics in the same category
 
 ## Details

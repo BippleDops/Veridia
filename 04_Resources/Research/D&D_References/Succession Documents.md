@@ -2,7 +2,7 @@
 
 title: Succession Documents
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,7 +42,6 @@ updated: '2025-08-13T01:18:34.827557+00:00'
 
 - A letter reveals the truth about this place
 - Strange disappearances suggest a conspiracy ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[The Crown (D&D_References)]]
-
 
 ## Notes
 

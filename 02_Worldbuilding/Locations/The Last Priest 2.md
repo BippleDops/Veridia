@@ -3,7 +3,7 @@ created: '2025-08-08'
 created_by: auto-stub
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -19,15 +19,8 @@ updated: '2025-08-13T12:34:17.108445+00:00'
 world: Aquabyssos
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-last-priest-the-last-priest.svg)
-
-
-
-
-
 
 # The Last Priest
 
@@ -137,38 +130,27 @@ If Father Aquilus dies, his death could galvanize the underground faith communit
 ## DM Notes
 The Last Priest embodies themes of faith versus authority, cultural preservation, and personal sacrifice. Use him to explore religious freedom, the cost of standing up for beliefs, and the value of tradition in changing times.
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/Old Valdris]]
-
+- [[02_Worldbuilding/Places/Old Valdris
 
 ## History
 
-
 TODO
-
 
 ## Layout
 
-
 TODO
-
 
 ## Notables
 
-
 TODO
-
 
 ## Threats
 
-
 TODO
 
-
 ## Hooks
-
 
 TODO
 
@@ -182,30 +164,25 @@ Legends speak of The Last Priest as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Last Priest]]
+- [02_Worldbuilding/Places/The Last Priest]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

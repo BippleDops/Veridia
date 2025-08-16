@@ -2,7 +2,7 @@
 
 title: The Hammer Squad
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,12 +42,11 @@ updated: '2025-08-13T01:18:34.873846+00:00'
 
 - A letter reveals the truth about the government
 - An heirloom has gone missing and war looms
-- The authorities needs help finding before the festival ## Related Notes - [[Similar Topic 1]]
+- The authorities needs help finding before the festival ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

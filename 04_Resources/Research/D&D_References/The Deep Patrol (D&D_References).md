@@ -2,7 +2,7 @@
 
 title: The Deep Patrol (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -119,7 +119,6 @@ The Deep Patrol is Aquabyssos's elite military unit specializing in extreme dept
 3. Characters discover evidence of threats requiring Deep Patrol response
 4. Training accident creates emergency requiring outside assistance ## Equipment Specifications
 
-
 **Mark VII Pressure Suit**: Rated for 15,000+ foot depths
 **Deep Scout Vehicle**: Two-person submersible with 72-hour endurance
 **Abyssal Communicator**: Long-range device functioning at extreme depth
@@ -137,7 +136,6 @@ The Deep Patrol provides opportunities for extreme environment adventures, milit
 - Someone is hunting a witness for revenge
 - Someone is hunting an heir for money
 - Strange disappearances suggest a portal ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

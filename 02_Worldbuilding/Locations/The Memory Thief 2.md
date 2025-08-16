@@ -6,7 +6,7 @@ created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/faction
@@ -22,15 +22,8 @@ updated: '2025-08-13T12:34:16.687287+00:00'
 world: Aquabyssos
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-memory-thief-the-memory-thief.svg)
-
-
-
-
-
 
 # The Memory Thief
 
@@ -64,7 +57,7 @@ The only consistent element across all accounts is that encounters with the Memo
 ## Statistics
 **Medium humanoid (?), chaotic neutral**
 - **AS** 17 (Natural Deflection)
-- **HP** 95 (17d8 + 17)
+- **HP** 95 (`dice: 17d8` + 17)
 - **Speed** 30 ft, swim 30 ft, fly 40 ft (hover)
 - **STR** 12 (+1) **DEX** 18 (+4) **CON** 13 (+1) **INT** 20 (+5) **WIS** 17 (+3) **CHA** 19 (+4)
 - **Skills** Deception +10, Insight +9, Investigation +11, Perception +9, Stealth +10
@@ -84,13 +77,13 @@ The only consistent element across all accounts is that encounters with the Memo
 **Ethereal Jaunt.** The Memory Thief can shift to the Ethereal Plane as a bonus action and return as a move action.
 
 ### Actions
-**Memory Extraction.** *Melee Spell Attack:* +9 to hit, reach 5 ft., one creature. *Hit:* The target must make a DC 17 Wisdom saving throw. On a failure, the Memory Thief extracts one specific memory chosen by them. The target loses all recollection of the extracted memory and related experiences.
+**Memory Extraction.** *Melee Spell Attack:* +9 to hit, reach 5 ft., one creature. *Hit:* The target must make a **DC 17** Wisdom saving throw. On a failure, the Memory Thief extracts one specific memory chosen by them. The target loses all recollection of the extracted memory and related experiences.
 
-**Implanted Memory.** The Memory Thief can implant a false memory in a creature within 30 feet (DC 17 Wisdom save to resist). The implanted memory feels completely real to the target.
+**Implanted Memory.** The Memory Thief can implant a false memory in a creature within 30 feet (**DC 17** Wisdom save to resist). The implanted memory feels completely real to the target.
 
-**Memory Maze (1/day).** The Memory Thief creates a 30-foot radius area where creatures experience confusion as their memories become jumbled. Creatures in the area must make DC 17 Wisdom saves each turn or be stunned as they become lost in false memories.
+**Memory Maze (1/day).** The Memory Thief creates a 30-foot radius area where creatures experience confusion as their memories become jumbled. Creatures in the area must make **DC 17** Wisdom saves each turn or be stunned as they become lost in false memories.
 
-**Mind Touch.** *Ranged Spell Attack:* +9 to hit, range 60 ft., one creature. *Hit:* 4d8 + 4 psychic damage, and the target must make a DC 17 Constitution save or have their maximum HP reduced by the damage taken.
+**Mind Touch.** *Ranged Spell Attack:* +9 to hit, range 60 ft., one creature. *Hit:* `dice: 4d8` + 4 psychic damage, and the target must make a **DC 17** Constitution save or have their maximum HP reduced by the damage taken.
 
 ### Legendary Actions (3 per turn)
 **Move.** The Memory Thief moves up to their speed without provoking opportunity attacks.
@@ -137,39 +130,28 @@ The entity has also been linked to a growing black market in stolen memories, wh
 ## DM Notes
 The Memory Thief serves as both a recurring antagonist and a source of mystery in the campaign. Their ability to alter memories creates unique storytelling opportunities where players must question the reliability of their own knowledge and experiences. Use the Memory Thief to introduce plot twists, remove inconvenient knowledge from NPCs, or create situations where the party must decide whether recovering stolen memories is worth the risks involved.
 
-
 ## Connections
 
-- [[02_Worldbuilding/People/Vex Shadowthorn]]
-- [[02_Worldbuilding/Places/The Phosphor Markets]]
-
+- [[02_Worldbuilding/People/Vex Shadowthorn
+- [02_Worldbuilding/Places/The Phosphor Markets]]
 
 ## History
 
-
 TODO
-
 
 ## Layout
 
-
 TODO
-
 
 ## Notables
 
-
 TODO
-
 
 ## Threats
 
-
 TODO
 
-
 ## Hooks
-
 
 TODO
 
@@ -194,26 +176,21 @@ Legends speak of The Memory Thief as a nexus where past and present converge. Lo
 <!-- enriched: true -->
 nriched: true -->
 
-
 ## Atmosphere
 - Mood and feeling
 - Sensory details
-
 
 ## Resources
 - Natural resources
 - Trade goods
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

@@ -1,10 +1,10 @@
 ---
 
 title: Admiral Cordelia Tidewright
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - content/adventure
 - world/aquabyssos
 - content/lore
@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -88,7 +88,7 @@ Admiral Cordelia Tidewright is a undersea element of the setting, known for biol
 
 Legends speak of Admiral Cordelia Tidewright as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Admiral Cordelia Tidewright.
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -104,12 +104,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
 
-## Historical [[Time|[[Time]]line]]
+## Historical [[Time|[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[People]]s
+- War with indigenous [[Peoples
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -135,6 +135,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[House Brightshield]]
-- [[Houses_and_Nobility - House Brightshield]]
-- [[The Depth Accords (D&D_References)]]
+- [House Brightshield]]
+- [[Houses_and_Nobility - House Brightshield
+- [The Depth Accords (D&D_References)]]

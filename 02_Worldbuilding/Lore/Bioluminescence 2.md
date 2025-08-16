@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -13,11 +13,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.296340+00:00'
 world: Aquabyssos
 ---
-
-
-
-
-
 
 # Bioluminescence in Aquabyssos
 *"Life writes its stories in light upon the darkness."*
@@ -263,9 +258,8 @@ Bioluminescent networks provide excellent methods for information distribution, 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Luminous Hollow]]
-
+- [[02_Worldbuilding/Places/Luminous Hollow
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Luminous Hollow]]
+- [02_Worldbuilding/Places/Luminous Hollow]]

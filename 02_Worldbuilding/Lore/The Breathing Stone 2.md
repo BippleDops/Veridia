@@ -3,7 +3,7 @@ created: '2025-08-08'
 created_by: auto-stub
 expanded: 2025-08-10
 status: complete
-tags:
+tags: 
 - aquabyssos
 - breathing
 - complete
@@ -18,8 +18,6 @@ type: Lore
 updated: '2025-08-13T12:34:15.994927+00:00'
 world: Aquabyssos
 ---
-
-
 
 # The Breathing Stone
 
@@ -169,7 +167,7 @@ Rumors suggest that the Breathing Stone has been spotted in the hands of **Surfa
 **Enhanced Properties** (Unlocked through story milestones):
 - **Breath Detection** (3/day): Sense all living creatures within 1 mile
 - **Life Bubble** (1/day): Create 30-foot radius of breathable atmosphere for 8 hours
-- **Pressure Strike** (3/day): Ranged attack dealing 3d8 force damage
+- **Pressure Strike** (3/day): Ranged attack dealing `dice: 3d8` force damage
 - **Emergency Activation**: If reduced to 0 hit points, automatically stabilize and gain 1 hit point
 
 **Master Properties** (Final story arc):
@@ -193,21 +191,21 @@ Rumors suggest that the Breathing Stone has been spotted in the hands of **Surfa
 
 ## Connected References
 
-- [[02_Worldbuilding/Lore/Thalassa the Life-Weaver]] - Original creator
-- [[02_Worldbuilding/Places/Archkeeper Nereon]] - Last known bearer
-- [[02_Worldbuilding/Places/The Great Drowning]] - Event where stone was lost
-- [[02_Worldbuilding/Lore/Deep Expeditions]] - Historical exploration missions
+- [[02_Worldbuilding/Lore/Thalassa the Life-Weaver - Original creator
+- [02_Worldbuilding/Places/Archkeeper Nereon]] - Last known bearer
+- [[02_Worldbuilding/Places/The Great Drowning - Event where stone was lost
+- [02_Worldbuilding/Lore/Deep Expeditions]] - Historical exploration missions
 - Pressure Guard - Military unit seeking the stone
 - Institute Of Applied Respiration - Academic researchers
-- [[02_Worldbuilding/Lore/The Seven Breathing Stones]] - Related artifacts
+- [[02_Worldbuilding/Lore/The Seven Breathing Stones - Related artifacts
 - Primordial Lung - Cosmic source of stone's power
-- [[02_Worldbuilding/Lore/Methane Forests]] - Dangerous breathing zones
-- [[02_Worldbuilding/Lore/The Depth Speaker]] - Mysterious current figure
-- [[02_Worldbuilding/Lore/False Breathers]] - Replica stones
+- [02_Worldbuilding/Lore/Methane Forests]] - Dangerous breathing zones
+- [[02_Worldbuilding/Lore/The Depth Speaker - Mysterious current figure
+- [02_Worldbuilding/Lore/False Breathers]] - Replica stones
 - Surface Raiders - Possible current location
 - Marianas Abyss - Deepest exploration point
 - Gill Men - Transformation risk
-- [[02_Worldbuilding/Lore/The Final Gasp]] - Breathing plague
+- [[02_Worldbuilding/Lore/The Final Gasp - Breathing plague
 
 The Breathing Stone represents more than mere magical convenience - it embodies the fundamental struggle for survival in Aquabyssos, where the simple act of drawing breath cannot be taken for granted. Whether as quest objective, character motivation, or world-shaping artifact, it provides countless opportunities for adventure while highlighting the unique challenges of life in the drowned world.
 
@@ -227,4 +225,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Deep Expeditions]]
+- [02_Worldbuilding/Lore/Deep Expeditions]]

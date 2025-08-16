@@ -3,7 +3,7 @@ created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
-tags:
+tags: 
 - lore
 title: Disadvantage
 type: lore
@@ -51,30 +51,30 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[08-using-ability-scores#Advantage and Disadvantage]]
-- [[<% Questgiver %> (02_Worldbuilding)]]
-- [[Arcanum Heights]]
-- [[Campaign Index (02_Worldbuilding)]]
-- [[Crystal Corruption Taboos]]
-- [[Deep Mother]]
-- [[Economic Systems and Currency]]
-- [[Initiative Tracker (02_Worldbuilding)]]
-- [[Multi-Phase Boss Fights]]
-- [[The Deep Prophecies]]
-- [[Cathedral of Light]]
-- [[Enchanter Valdris Peacewarden]]
-- [[Gravity Anomaly Mechanics]]
-- [[Keeper Elara Mindwell]]
-- [[Madame Rosalind Goldleaf]]
-- [[Memoriam - The Forgotten Continent]]
-- [[Pressure Tube Terminal]]
-- [[Surface Signals]]
-- [[The Forgotten One]]
-- [[The Great Drowning]]
-- [[The Reflection Pools]]
-- [[Theological Warfare]]
-- [[Throne Room - Heart of Palace]]
-- [[Whisper-Touched William]]
-- [[Discover the Singers Beyond]]
-- [[The Green Death]]
+- [[08-using-ability-scores#Advantage and Disadvantage
+- [ (02_Worldbuilding)]]
+- [[Arcanum Heights
+- [Campaign Index (02_Worldbuilding)]]
+- [[Crystal Corruption Taboos
+- [Deep Mother]]
+- [[Economic Systems and Currency
+- [Initiative Tracker (02_Worldbuilding)]]
+- [[Multi-Phase Boss Fights
+- [The Deep Prophecies]]
+- [[Cathedral of Light
+- [Enchanter Valdris Peacewarden]]
+- [[Gravity Anomaly Mechanics
+- [Keeper Elara Mindwell]]
+- [[Madame Rosalind Goldleaf
+- [Memoriam - The Forgotten Continent]]
+- [[Pressure Tube Terminal
+- [Surface Signals]]
+- [[The Forgotten One
+- [The Great Drowning]]
+- [[The Reflection Pools
+- [Theological Warfare]]
+- [[Throne Room - Heart of Palace
+- [Whisper-Touched William]]
+- [[Discover the Singers Beyond
+- [The Green Death]]
 - [[The Maw of Darkness]]

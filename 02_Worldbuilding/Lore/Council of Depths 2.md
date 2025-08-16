@@ -1,7 +1,7 @@
 ---
 type: Lore
 status: complete
-tags:
+tags: 
 - active
 - aquabyssos
 - lore
@@ -9,10 +9,6 @@ world: Aquabyssos
 created: '2025-08-11'
 updated: '2025-08-13T01:18:35.136384+00:00'
 ---
-
-
-
-
 
 ## Overview
 
@@ -41,7 +37,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - Legal System Of Aquabyssos
-
 
 ## Connections
 

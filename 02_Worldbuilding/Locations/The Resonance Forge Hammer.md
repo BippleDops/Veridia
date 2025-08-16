@@ -2,7 +2,7 @@
 
 title: The Resoce Forge Hammer
 type: Item
-tags:
+tags: 
 - seven-shards-connected
 - status/complete
 - content/lore
@@ -18,9 +18,9 @@ modified: '2025-08-14'
 status: complete
 rarity: Legendary
 value: Unknown
-affiliation: '[[The Seven Shards]] (Resoce Network)'
+affiliation: '[[The Seven Shards (Resoce Network)'
 created_by: Claude
-current_location: '[[The Crystalline Foundry]]'
+current_location: '[The Crystalline Foundry]]'
 danger_level: 2
 item_type: Artifact Crafting Tool
 requires_attunement: Yes (by a creature proficient with smith's tools)

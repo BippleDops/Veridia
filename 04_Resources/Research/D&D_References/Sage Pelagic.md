@@ -2,7 +2,7 @@
 
 title: Sage Pelagic
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -44,10 +44,9 @@ updated: '2025-08-13T01:18:34.777927+00:00'
 
 - A journal reveals ancient history about a local noble
 - A document has gone missing and war looms
-- Strange sightings suggest a curse ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Memory Merchant Zephyr Mindweaver]]
+- Strange sightings suggest a curse ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Memory Merchant Zephyr Mindweaver
 
-- [[Memory Merchant Zephyr Mindweaver (D&D_Statblocks)]]
-
+- [Memory Merchant Zephyr Mindweaver (D&D_Statblocks)]]
 
 ## Notes
 

@@ -2,7 +2,7 @@
 
 title: Quality Inspector Reef Perfectwright
 type: Location
-tags:
+tags: 
 - aquabyssos
 - world/aquabyssos
 - content/location
@@ -214,19 +214,16 @@ Key stop on spices trade route
 
 ## References
 
-- [[The Deep Harvest]]
-- [[The Deep Harvest (D&D_References)]]
-
+- [[The Deep Harvest
+- [The Deep Harvest (D&D_References)]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

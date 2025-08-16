@@ -2,7 +2,7 @@
 
 title: Tidal Engineering
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -41,12 +41,11 @@ updated: '2025-08-13T01:18:35.210334+00:00'
 
 - The authorities needs help investigating before the festival
 - An heirloom has gone missing and evil awakens
-- A noble needs help delivering before winter ## Related Notes - [[Similar Topic 1]]
+- A noble needs help delivering before winter ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]]
 
 ## Notes
 

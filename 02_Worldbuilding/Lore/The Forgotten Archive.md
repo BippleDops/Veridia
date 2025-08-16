@@ -1,9 +1,9 @@
 ---
 title: The Forgotten Archive
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - status/complete
 - quest
 - content/lore
@@ -15,10 +15,10 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-accessibility:
+accessibility: 
   content_warnings: []
   pronunciation: The Forgotten Archive
-  safety_tools:
+  safety_tools: 
   - Lines & Veils
   - X-Card
   screen_reader_summary: This lore entry explains a pivotal principle or event and
@@ -34,7 +34,7 @@ world: Aquabyssos
 
 ## Overview
 
-The Forgotten Archive is not merely a library—it is a living repository that automatically collects every piece of information, memory, or knowledge that has been intentionally destroyed, censored, or forgotten. Located in a pocket dimension accessible only through specific forgotten doorways in Aquabyssos, it serves as both the ultimate source of [[Forbidden Knowledge]] and a prison for truths too dangerous to exist in the normal world.
+The Forgotten Archive is not merely a library—it is a living repository that automatically collects every piece of information, memory, or knowledge that has been intentionally destroyed, censored, or forgotten. Located in a pocket dimension accessible only through specific forgotten doorways in Aquabyssos, it serves as both the ultimate source of [[Forbidden Knowledge and a prison for truths too dangerous to exist in the normal world.
 
 The Archive operates on a fundamental principle: nothing can truly be destroyed, only displaced. When a book is burned, a memory erased, or a truth suppressed, it manifests here in physical form. The Archive's curators, beings who have forgotten their own names and histories, maintain this ever-growing collection while preventing its most dangerous contents from escaping back into reality.
 
@@ -65,13 +65,13 @@ The Archive gains new materials through various means:
 The Archive exists in a state of perpetual paradox:
 - To find it, one must forget they're looking
 - To enter, one must not intend to enter
-- To read, one must not de[[Sire]] the knowledge
+- To read, one must not de[Sire]] the knowledge
 - To leave, one must forget what they've learned
 
 ### The Entrance Halls
 
 **The Gallery of Unremembered Faces**
-- Portraits of [[People]] erased from history
+- Portraits of [[People erased from history
 - Each painting contains their complete life story
 - Looking too long causes viewer to forget their own face
 - Some portraits are desperately trying to escape
@@ -120,7 +120,7 @@ The Archive exists in a state of perpetual paradox:
 - Knowledge the gods don't want mortals to have
 - True nature of divinity
 - Methods to kill immortals
-- The [[location]] of dead gods' bodies
+- The [location]] of dead gods' bodies
 
 **The Paradox Archive**
 - Information that contradicts itself
@@ -130,7 +130,7 @@ The Archive exists in a state of perpetual paradox:
 
 **The Future History Section**
 - Prophecies that were prevented
-- [[Time|[[Time]]line]]s that were erased
+- [[Time|[Timeline]]s that were erased
 - Futures that were avoided
 - Knowledge from iterations of reality that no longer exist
 
@@ -142,7 +142,7 @@ Beings who gave up their identities to serve the Archive:
 *Medium aberration, true neutral*
 
 **Armor Class** 18 (forgotten ward)
-**Hit Points** 165 (22d8 + 66)
+**Hit Points** 165 (`dice: 22d8` + 66)
 **Speed** 30 ft., teleport 60 ft. (within Archive only)
 
 STR 10 (+0), DEX 16 (+3), CON 16 (+3), INT 25 (+7), WIS 20 (+5), CHA 8 (-1)
@@ -155,7 +155,7 @@ STR 10 (+0), DEX 16 (+3), CON 16 (+3), INT 25 (+7), WIS 20 (+5), CHA 8 (-1)
 **Languages** All (including dead languages)
 **Challenge** 16 (15,000 XP)
 
-**Forgotten Existence.** [[The Archivist]] cannot be remembered. Creatures forget them 1 minute after interaction unless they pass a DC 20 Intelligence saving throw.
+**Forgotten Existence.** [[The Archivist cannot be remembered. Creatures forget them 1 minute after interaction unless they pass a **DC 20** Intelligence saving throw.
 
 **Living Index.** The Archivist knows the location and contents of every item in the Archive instantly.
 
@@ -164,7 +164,7 @@ STR 10 (+0), DEX 16 (+3), CON 16 (+3), INT 25 (+7), WIS 20 (+5), CHA 8 (-1)
 **Actions**
 **Multiattack.** The Archivist makes three Forgotten Lore attacks.
 
-**Forgotten Lore.** *Ranged Spell Attack:* +12 to hit, range 120 ft., one target. *Hit:* 18 (4d8) psychic damage and the target must make a DC 20 Intelligence saving throw or forget one significant memory.
+**Forgotten Lore.** *Ranged Spell Attack:* +12 to hit, range 120 ft., one target. *Hit:* 18 (`dice: 4d8`) psychic damage and the target must make a **DC 20** Intelligence saving throw or forget one significant memory.
 
 **Restore the Erased (Recharge 5-6).** The Archivist can make one destroyed thing temporarily exist again for 1 hour. This can be a person, object, or even a concept.
 
@@ -172,7 +172,7 @@ STR 10 (+0), DEX 16 (+3), CON 16 (+3), INT 25 (+7), WIS 20 (+5), CHA 8 (-1)
 The Archivist can take 3 legendary actions.
 - **Teleport.** Move anywhere within the Archive.
 - **Forget.** One creature within 60 feet forgets what they were doing.
-- **Remember (Costs 2 Actions).** Force a creature to remember something they've forgotten, dealing 27 (6d8) psychic damage.
+- **Remember (Costs 2 Actions).** Force a creature to remember something they've forgotten, dealing 27 (`dice: 6d8`) psychic damage.
 
 ### The Memory Moths
 
@@ -190,7 +190,7 @@ Ghostly figures that continuously write:
 - Their ink is made from dissolved memories
 - Sometimes write futures that won't happen
 
-### [[The Silence]] Keepers
+### [The Silence]] Keepers
 
 Guardians of the most dangerous knowledge:
 - Have no mouths to speak secrets
@@ -254,7 +254,7 @@ Guardians of the most dangerous knowledge:
 
 Complete records of erased civilizations:
 - **The Singing People**: Erased for knowing the true names of stars
-- **[[The Memory Weaver|[[The Memory Weaver]]s]]**: Destroyed for remembering the future
+- **[[The Memory Weaver|[The Memory Weavers]]**: Destroyed for remembering the future
 - **The Truth Speakers**: Eliminated for inability to lie
 - **The Dream Walkers**: Erased for existing in multiple realities
 
@@ -286,7 +286,7 @@ Complete records of erased civilizations:
 - Who still uses them secretly
 - How to build them
 
-**[[Reality Anchoring]] Mechanisms**
+**[[Reality Anchoring Mechanisms**
 - Prevent dimensional collapse
 - Locations of existing anchors
 - How to destroy them
@@ -322,9 +322,9 @@ A dead religion's last believer seeks their god's true name in the Archive to re
 
 ### The Censored Cure
 
-A plague ravages the land, and [[The Cure]] was deliberately destroyed centuries ago because it required unconscionable acts. [[The Party]] must decide if the cure is worth its terrible cost.
+A plague ravages the land, and [The Cure]] was deliberately destroyed centuries ago because it required unconscionable acts. [[The Party must decide if the cure is worth its terrible cost.
 
-### [[Memory Thief|The [[Memory Thief]]]]
+### [[Memory Thief|The [Memory Thief]]]]
 
 Someone is stealing memories from the Archive and selling them, causing people to remember things that were erased. Reality is beginning to contradict itself.
 
@@ -339,11 +339,11 @@ A researcher in the Archive has discovered information that proves the current r
 3. Walk backward through it
 4. Don't remember entering
 
-### The Burning [[path]]
+### The Burning [[path
 
 1. Destroy something precious to you
 2. Follow its smoke as it drifts nowhere
-3. Close your eyes at [[The Threshold]]
+3. Close your eyes at [The Threshold]]
 4. Open them in the Archive
 
 ### The Memory Trade
@@ -387,11 +387,11 @@ Remember: Some knowledge is forgotten for good reason.
 
 ## See Also
 
-- [[The Memory Trade]]
-- [[Groups]]
-- [[Places]]
-- [[Memory_Mechanics]]
-- [[Censorship Magic]]
+- [[The Memory Trade
+- [Groups]]
+- [[Places
+- [Memory_Mechanics]]
+- [[Censorship Magic
 
 *"In the Forgotten Archive, every burning makes books eternal, every erasure makes memories permanent, and every forgetting makes truth undeniable."*
 
@@ -403,7 +403,7 @@ The Forgotten Archive is a undersea element of the setting, known for biolumines
 
 Legends speak of The Forgotten Archive as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Forgotten Archive.
 
-## [[Historical Context]]
+## [Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -411,12 +411,10 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## References
 
-- [[Comprehensive-World-Connection-Guide (D&D_References)]]
-- [[Comprehensive-World-Connection-Guide 3 (D&D_References)]]
-- [[Evidence Chain Analysis]]
-- [[Thalassius the Wise (D&D_References)]]
+- [[Comprehensive-World-Connection-Guide (D&D_References)
+- [Comprehensive-World-Connection-Guide 3 (D&D_References)]]
+- [[Evidence Chain Analysis
+- [Thalassius the Wise (D&D_References)]]
 - [[Thalassius the Wise 3 (D&D_References)]]

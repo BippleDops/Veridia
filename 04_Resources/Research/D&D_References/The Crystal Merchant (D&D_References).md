@@ -2,7 +2,7 @@
 
 title: The Crystal Merchant (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -98,7 +98,6 @@ Prism began as a deep-sea crystal miner before developing her talent for identif
 3. Characters commissioned to acquire specific crystal from dangerous location
 4. Counterfeit crystals appearing in market threaten business reputation ## Magical Expertise
 
-
 **Crystal Properties**: Expert knowledge of 300+ different crystal types
 **Enhancement Techniques**: Methods for improving crystal magical properties
 **Identification Skills**: Can determine crystal origin and authenticity by examination
@@ -127,7 +126,6 @@ Prism serves as both shop keeper and quest giver, providing magical items and in
 
 - A letter reveals the truth about the cult
 - Strange dreams suggest a portal ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

@@ -2,7 +2,7 @@
 
 title: Crystal Plague Wards (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,14 +42,14 @@ status: complete
 world: Aquabyssos
 updated: '2025-08-13T01:18:36.368673+00:00'
 
---- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The Crystal Plague Wards represent the medical system's response to the ongoing crystallization epidemic. These specialized facilities, primarily located in [[Port Meridian]]'s Harbor District, serve as both treatment centers and containment facilities for those afflicted with the [[Crystal Plague Progression System|Crystal Plague]]. ### The Isolation Wing **Location:** Harbor District, Port Meridian **Capacity:** 120 beds across 5 floors **Security Level:** High (Armed guards, locked doors, crystal detection) The primary plague ward occupies an entire wing of the city's largest hospital. The building's stone walls reinforceded with lead sheeting to prevent crystal resoce from spreading between floors. #### Floor Layout **Basement - Storage & Morgue**
+--- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The Crystal Plague Wards represent the medical system's response to the ongoing crystallization epidemic. These specialized facilities, primarily located in [[Port Meridian's Harbor District, serve as both treatment centers and containment facilities for those afflicted with the [Crystal Plague Progression System|Crystal Plague]]. ### The Isolation Wing **Location:** Harbor District, Port Meridian **Capacity:** 120 beds across 5 floors **Security Level:** High (Armed guards, locked doors, crystal detection) The primary plague ward occupies an entire wing of the city's largest hospital. The building's stone walls reinforceded with lead sheeting to prevent crystal resoce from spreading between floors. #### Floor Layout **Basement - Storage & Morgue**
 
 - Crystal-proof cold storage for bodies that cannot be cremated
 - Supply storage for hazmat equipment
 - Emergency escape tunnels (sealed after outbreak) **Ground Floor - Stage 1 & 2 Patients**
 - 40 beds in shared wards
 - Visiting area behind reinforced glass
-- [[Brother Marcus]] conducts daily healing rounds here
+- [[Brother Marcus conducts daily healing rounds here
 - Treatment rooms for early intervention **Second Floor - Stage 3 Patients**
 - 30 private rooms with crystal-dampening fields
 - Advanced medical equipment
@@ -60,7 +60,7 @@ updated: '2025-08-13T01:18:36.368673+00:00'
 - Anti-levitation ceiling nets
 - Research observation posts **Fourth Floor - Administrative & Research**
 - Doctor quarters and meeting rooms
-- [[Medical Research Facilities|Crystal Plague Research Lab]]
+- [Medical Research Facilities|Crystal Plague Research Lab]]
 - Records vault (crystal-proofed)
 - Emergency command center #### Notable Staff **Chief Medical Officer Dr. Helena Crystalban**
 
@@ -87,10 +87,9 @@ University researcher who infected herself deliberately to study the plague from
 - Other children gather for her "crystal concerts"
 - Parents visit daily, refusing to believe she's lost ### Daily Routine **6:00 AM - Dawn Blessing**
 
-
 **Summary**: Daily Routine **6:00 AM - Dawn Blessing** - Key information at a glance.
 
-[[Brother Marcus]] leads morning prayers in the main ward. Patients who can still speak join in traditional ocean hymns. Crystal formations often pulse in rhythm with the music. **7:00 AM - Medical Rounds**
+[[Brother Marcus leads morning prayers in the main ward. Patients who can still speak join in traditional ocean hymns. Crystal formations often pulse in rhythm with the music. **7:00 AM - Medical Rounds**
 
 Doctors assess progression, adjust treatments, and document changes. Stage 4 patients are examined through specialized viewing chambers. **9:00 AM - Family Visitation (Ground Floor Only)**
 
@@ -104,7 +103,7 @@ Voluntary patients participate in cure research. Professor Elena's observations 
 
 Lights dimmed to reduce crystal resoce. Harmonic dampening fields activated to prevent Stage 4 patients from inadvertently influencing others. **10:00 PM - Night Watch**
 
-Enhanced security shift begins. Stage 4 patients most active during night hours. ### Floating Isolation Three converted merchant vessels anchored in Port Meridian's outer harbor serve as overflow facilities when the hospital wards reach capacity. #### The "Mercy's Grace" - Stage 1 & 2 Facility **Former:** Luxury passenger liner **Current Capacity:** 80 patients **Staff:** 12 medical personnel, 8 security Converted luxury cabins provide more comfortable accommodations for paying patients. The ship's ballroom converteded into a treatment center where [[Brother Marcus]] performs large-scale healing ceremonies. **Notable Features:**
+Enhanced security shift begins. Stage 4 patients most active during night hours. ### Floating Isolation Three converted merchant vessels anchored in Port Meridian's outer harbor serve as overflow facilities when the hospital wards reach capacity. #### The "Mercy's Grace" - Stage 1 & 2 Facility **Former:** Luxury passenger liner **Current Capacity:** 80 patients **Staff:** 12 medical personnel, 8 security Converted luxury cabins provide more comfortable accommodations for paying patients. The ship's ballroom converteded into a treatment center where [Brother Marcus]] performs large-scale healing ceremonies. **Notable Features:**
 
 - Crystal-proof viewing deck for family visits
 - Floating garden where patients grow crystalline kelp
@@ -166,12 +165,11 @@ A Stage 3 patient vanishes from their room, leaving behind only crystalline foot
 
 Dr. Elena's notes suggest a potential breakthrough in understanding the plague, but obtaining the necessary research materials would require endangering innocent lives. The party must decide whether the potential cure justifies the moral cost. ### The Family Secret
 
-A wealthy merchant family is hiding a Stage 4 member in their private mansion, using illegal crystal dampening technology. When their secret is discovered, it threatens to destabilize the city's entire quarantine system. ## Related *Links to related content will be added here.* ## Related Notes - [[Similar Topic 1]]
+A wealthy merchant family is hiding a Stage 4 member in their private mansion, using illegal crystal dampening technology. When their secret is discovered, it threatens to destabilize the city's entire quarantine system. ## Related *Links to related content will be added here.* ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

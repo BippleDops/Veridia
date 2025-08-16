@@ -2,7 +2,7 @@
 
 title: Quartermaster Judith Steadfast
 type: Location
-tags:
+tags: 
 - supply-depot
 - aquabyssos
 - status/complete
@@ -484,19 +484,16 @@ Ongoing situations affecting Quartermaster Judith Steadfast:
 
 ## References
 
-- [[Pressure's End]]
-- [[Pressure's End (D&D_References)]]
-
+- [[Pressure's End
+- [Pressure's End (D&D_References)]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

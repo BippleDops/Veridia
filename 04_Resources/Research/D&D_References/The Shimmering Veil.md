@@ -2,7 +2,7 @@
 
 title: The Shimmering Veil
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,10 +42,9 @@ updated: '2025-08-13T01:18:34.897153+00:00'
 
 - A corpse reveals a betrayal about a local noble
 - A document has gone missing and evil awakens
-- An heirloom has gone missing and war looms ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Azure Citadel]]
+- An heirloom has gone missing and war looms ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Azure Citadel
 
-- [[Azure Citadel (D&D_References)]]
-
+- [Azure Citadel (D&D_References)]]
 
 ## Notes
 

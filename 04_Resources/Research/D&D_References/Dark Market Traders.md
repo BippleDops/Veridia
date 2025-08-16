@@ -2,7 +2,7 @@
 
 title: Dark Market Traders
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -44,12 +44,11 @@ updated: '2025-08-13T01:18:34.601217+00:00'
 
 - An heirloom has gone missing and war looms
 - A merchant needs help finding before winter
-- A corpse reveals a betrayal about a local noble ## Related Notes - [[Similar Topic 1]]
+- A corpse reveals a betrayal about a local noble ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]]
 
 ## Notes
 

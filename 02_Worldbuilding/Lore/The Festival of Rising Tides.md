@@ -1,10 +1,10 @@
 ---
 
 title: The Festival of Rising Tides
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - aerial
 - celebration
 - status/complete
@@ -38,8 +38,8 @@ improvements: 20
 
 *The Great Awakening of Waters and Spirits*
 
-> *"When the spring tides reach their highest peak and the [[Deep Mother]] stirs from winter's rest, all of Aquabyssos rejoices in the eternal dance between water and soul. In those seven sacred days, we remember who we are - children of the tide, keepers of the depths, and guardians of the eternal flow."*
-> — [[Coral|High Tide Celebrant [[Coral]] Festivus]], Master of Ceremonies
+> *"When the spring tides reach their highest peak and the [[Deep Mother stirs from winter's rest, all of Aquabyssos rejoices in the eternal dance between water and soul. In those seven sacred days, we remember who we are - children of the tide, keepers of the depths, and guardians of the eternal flow."*
+> — [[Coral|High Tide Celebrant [Coral]] Festivus]], Master of Ceremonies
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,7 +55,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -99,19 +99,19 @@ improvements: 20
 
 ## Overview
 
-The Festival of Rising Tides represents Aquabyssos's most important cultural celebration, a week-long community festival marking the spring tide's peak when tidal forces reach their annual maximum. This sacred [[Time]] celebrates the renewal of life, the awakening of dormant spirits, and the community bonds that unite all dwellers of the depths in shared reverence for the tidal forces that govern their lives.
+The Festival of Rising Tides represents Aquabyssos's most important cultural celebration, a week-long community festival marking the spring tide's peak when tidal forces reach their annual maximum. This sacred [Time]] celebrates the renewal of life, the awakening of dormant spirits, and the community bonds that unite all dwellers of the depths in shared reverence for the tidal forces that govern their lives.
 
 Held during the seven days surrounding the year's highest spring tide, the festival transforms every settlement in Aquabyssos into a vibrant celebration of water, music, memory, and community connection. Ancient traditions blend with contemporary adaptations, creating a living cultural experience that preserves historical practices while welcoming new community members and evolving social needs.
 
-The festival serves multiple cultural functions: spiritual renewal through tidal communion, community strengthening through shared celebration, [[Cultural Preservation]] through traditional activities, economic stimulation through craft fairs and trade, and diplomatic bonding through inter-community cooperation. These overlapping purposes make the Festival of Rising Tides essential to Aquabyssos's cultural identity and social cohesion.
+The festival serves multiple cultural functions: spiritual renewal through tidal communion, community strengthening through shared celebration, [[Cultural Preservation through traditional activities, economic stimulation through craft fairs and trade, and diplomatic bonding through inter-community cooperation. These overlapping purposes make the Festival of Rising Tides essential to Aquabyssos's cultural identity and social cohesion.
 
 During the festival, normal work routines are suspended, legal disputes are put on hold, and even the most serious conflicts are set aside in favor of community celebration. The event creates a temporary social structure where status differences are minimized and community bonds are prioritized over individual concerns, fostering unity and mutual support that persists long after the festival ends.
 
 ### Ancient Foundations
 
-The Festival of Rising Tides traces its origins to the earliest recorded history of Aquabyssos, emerging from prehistoric tidal worship practices and seasonal migration patterns. Archaeological [[Evidence]] suggests that proto-Aquabyssos cultures celebrated similar festivals over three thousand years ago, using cave paintings and stone circles to mark tidal celebrations and community gatherings.
+The Festival of Rising Tides traces its origins to the earliest recorded history of Aquabyssos, emerging from prehistoric tidal worship practices and seasonal migration patterns. Archaeological [Evidence]] suggests that proto-Aquabyssos cultures celebrated similar festivals over three thousand years ago, using cave paintings and stone circles to mark tidal celebrations and community gatherings.
 
-Ancient oral traditions describe the first festival as a spontaneous celebration that occurred when isolated underwater communities discovered each other during a particularly high spring tide. The elevated water levels allowed normally separated [[Groups]] to travel and communicate more easily, leading to joyous reunions and the establishment of permanent [[Cultural Exchange]] relationships.
+Ancient oral traditions describe the first festival as a spontaneous celebration that occurred when isolated underwater communities discovered each other during a particularly high spring tide. The elevated water levels allowed normally separated [[Groups to travel and communicate more easily, leading to joyous reunions and the establishment of permanent [Cultural Exchange]] relationships.
 
 Early festival practices centered around practical needs as much as spiritual celebration: communities shared resources during seasonal transitions, arranged marriages between distant groups, traded goods and knowledge, and coordinated responses to environmental challenges. These functional elements remain central to modern festival activities, preserving the event's role in maintaining inter-community connections.
 
@@ -121,17 +121,17 @@ The religious significance of the festival developed gradually, incorporating be
 
 Over centuries, the Festival of Rising Tides evolved from simple seasonal gatherings into elaborate community celebrations incorporating elements from many different cultural traditions. As Aquabyssos grew through conquest, alliance, and immigration, new communities brought their own celebration styles, which were gradually integrated into the festival structure.
 
-The incorporation of [[Tidal Memory Ceremonies]] during the medieval period added profound spiritual depth to the festival, transforming it from primarily social gathering into sacred cultural observance. Memory preservation activities became central festival elements, with communities using the week-long celebration to record, share, and transmit important cultural knowledge and personal experiences.
+The incorporation of [[Tidal Memory Ceremonies during the medieval period added profound spiritual depth to the festival, transforming it from primarily social gathering into sacred cultural observance. Memory preservation activities became central festival elements, with communities using the week-long celebration to record, share, and transmit important cultural knowledge and personal experiences.
 
 Trade relationships with surface civilizations introduced new materials, foods, and celebration techniques that enriched traditional festival practices. However, cultural conservatives worked to maintain essential elements while adapting surface influences to fit Aquabyssos cultural values, creating hybrid practices that honored both traditional wisdom and beneficial innovations.
 
-Modern adaptations have included accommodations for refugee communities from [[Aethermoor]] and other realms, creating inclusive celebration formats that welcome newcomers while preserving traditional cultural elements. These adaptations demonstrate the festival's continuing evolution as a living cultural institution capable of growth and change while maintaining its essential character.
+Modern adaptations have included accommodations for refugee communities from [Aethermoor]] and other realms, creating inclusive celebration formats that welcome newcomers while preserving traditional cultural elements. These adaptations demonstrate the festival's continuing evolution as a living cultural institution capable of growth and change while maintaining its essential character.
 
-### [[region]]al Variations and Local Traditions
+### [[regional Variations and Local Traditions
 
-Different regions of Aquabyssos celebrate the Festival of Rising Tides with distinctive local variations that reflect geographic conditions, historical experiences, and community preferences. [[The Deep Settlements]] emphasize mysterious and contemplative elements, while [[The Reef Communities]] focus on colorful displays and artistic expression.
+Different regions of Aquabyssos celebrate the Festival of Rising Tides with distinctive local variations that reflect geographic conditions, historical experiences, and community preferences. [The Deep Settlements]] emphasize mysterious and contemplative elements, while [[The Reef Communities focus on colorful displays and artistic expression.
 
-[[Coastal Communities]] incorporate surface elements into their celebrations, including aerial displays and land-based activities that can be enjoyed by both underwater and surface dwellers. These hybrid celebrations have become increasingly important as inter-realm relationships develop, serving as [[Cultural Bridges]] between different civilizations.
+[Coastal Communities]] incorporate surface elements into their celebrations, including aerial displays and land-based activities that can be enjoyed by both underwater and surface dwellers. These hybrid celebrations have become increasingly important as inter-realm relationships develop, serving as [[Cultural Bridges between different civilizations.
 
 Mountain communities adapt festival activities to their unique geographic conditions, using underground lakes and seasonal springs to create tidal-like effects that allow participation in traditional activities despite their distance from oceanic tides. These adaptations demonstrate the festival's flexibility and cultural importance across diverse environments.
 
@@ -141,7 +141,7 @@ Island communities create floating celebration platforms that move with actual t
 
 **Morning Activities (Pre-Dawn to Noon):**
 - **Sacred Tide Watching:** Community gatherings to witness the rising tide at dawn
-- **[[Purification Rituals]]:** Personal cleansing ceremonies in [[Bless]]ed tidal pools
+- **[Purification Rituals]]:** Personal cleansing ceremonies in [[Blessed tidal pools
 - **Awakening Songs:** Traditional chants calling spirits to join the celebration
 - **Community Blessing:** Religious ceremonies consecrating the festival week
 - **Memory Pool Preparation:** Tidal priests preparing sacred sites for memory ceremonies
@@ -166,7 +166,7 @@ Island communities create floating celebration platforms that move with actual t
 - **Diplomatic Greetings:** Formal welcome ceremonies for visiting communities
 - **Gift Exchange Rituals:** Traditional presentations strengthening alliances
 - **Skill Sharing Workshops:** Educational activities teaching specialized knowledge
-- **Youth Cultural Exchange:** Programs connecting young [[People]] from different communities
+- **Youth Cultural Exchange:** Programs connecting young [People]] from different communities
 - **Marriage Arrangement Discussions:** Family meetings for potential future unions
 
 **Afternoon Emphasis: Cultural Preservation**
@@ -178,7 +178,7 @@ Island communities create floating celebration platforms that move with actual t
 
 **Evening Activities: Social Celebration**
 - **Dance Competitions:** Traditional and contemporary movement performances
-- **Musical Collaborations:** Inter-[[Community Groups]] performing together
+- **Musical Collaborations:** Inter-[[Community Groups performing together
 - **Games and Sports:** Aquatic competitions and traditional recreational activities
 - **Romantic Courtship:** Social activities supporting relationship formation
 - **Night Markets:** Extended trading and socializing opportunities
@@ -190,7 +190,7 @@ Island communities create floating celebration platforms that move with actual t
 - **Memory Preservation:** Recording important experiences in tidal memory banks
 - **Ancestor Communion:** Spiritual communication with deceased community members
 - **Healing Ceremonies:** Therapeutic rituals addressing physical and emotional ailments
-- **Spiritual Counseling:** Individual [[Guidance]] from [[Religious Leaders]] and healers
+- **Spiritual Counseling:** Individual [Guidance]] from [[Religious Leaders and healers
 
 **Afternoon: Collective Worship**
 - **Community Prayer:** Large-group religious ceremonies and shared meditation
@@ -201,7 +201,7 @@ Island communities create floating celebration platforms that move with actual t
 
 **Evening: Mystical Experience**
 - **Night Vigil:** All-night spiritual observance with meditation and prayer
-- **Vision [[Quests]]:** Individual spiritual journeys seeking divine guidance
+- **Vision [Quests]]:** Individual spiritual journeys seeking divine guidance
 - **Spirit Communication:** Attempts to contact and commune with supernatural entities
 - **Sacred Music:** Religious performances designed to induce spiritual experiences
 - **Midnight Tide Ceremony:** Climactic spiritual ritual at peak tidal moment
@@ -252,7 +252,7 @@ Island communities create floating celebration platforms that move with actual t
 - **Cultural Bridge-Building:** Activities connecting different cultural groups within the community
 - **Accessibility Activities:** Events ensuring participation by all community members regardless of ability
 - **Intergenerational Bonding:** Activities connecting different age groups within the community
-- **Social Support Networks:** [[Organization]] of ongoing mutual assistance systems
+- **Social Support Networks:** [[Organization of ongoing mutual assistance systems
 
 ### Day Seven: Renewal and Commitment (Tide's Promise)
 
@@ -392,7 +392,7 @@ Extended families use festival time for reunions, marriage planning, and genealo
 The festival creates structured opportunities for knowledge transfer between generations, including apprenticeship arrangements, skill teaching, and wisdom sharing activities. Elders are honored for their contributions while younger community members are recognized for innovation and future leadership potential.
 
 **Social Integration for Newcomers**
-Special programs welcome refugees, immigrants, and new community members, providing cultural education, social [[Introduction]]s, and support networks that facilitate integration into established communities. These programs balance respect for newcomers' original cultures with education about Aquabyssos traditions and expectations.
+Special programs welcome refugees, immigrants, and new community members, providing cultural education, social [Introduction]]s, and support networks that facilitate integration into established communities. These programs balance respect for newcomers' original cultures with education about Aquabyssos traditions and expectations.
 
 ### Cultural Preservation and Evolution
 
@@ -412,7 +412,7 @@ Relationships with other realms and civilizations are maintained through cultura
 
 ### Economic and Trade Functions
 
-The Festival of Rising Tides serves important economic functions, providing opportunities for commerce, resource sharing, and [[Economic Planning]] that support community prosperity and inter-community cooperation.
+The Festival of Rising Tides serves important economic functions, providing opportunities for commerce, resource sharing, and [[Economic Planning that support community prosperity and inter-community cooperation.
 
 **Craft and Trade Fairs**
 Artisan markets provide economic opportunities for community members while preserving traditional crafts and encouraging artistic innovation. These markets serve both local commerce and inter-community trade, strengthening economic relationships and providing income for artists and craftspeople.
@@ -434,7 +434,7 @@ The Festival of Rising Tides incorporates profound religious and spiritual eleme
 Central to festival spirituality is reverence for tidal spirits and oceanic divine forces that govern water movement and seasonal cycles. Ceremonial activities include offerings, prayers, and communion rituals designed to honor these entities while seeking their blessing and protection for community activities.
 
 **Ancestor Veneration**
-Memorial activities honor deceased community members while maintaining spiritual connections with ancestral wisdom and guidance. Memory preservation ceremonies record ancestral experiences while spiritual communication rituals seek ongoing advice and support from deceased [[Community Leaders]] and family members.
+Memorial activities honor deceased community members while maintaining spiritual connections with ancestral wisdom and guidance. Memory preservation ceremonies record ancestral experiences while spiritual communication rituals seek ongoing advice and support from deceased [Community Leaders]] and family members.
 
 **Cosmic Connection Rituals**
 Sacred observances connect participants with larger cosmic forces and universal principles governing existence. These activities include meditation practices, celestial observation, and mystical experiences designed to provide spiritual insight and personal transformation.
@@ -450,20 +450,20 @@ The festival provides opportunities for physical, emotional, and spiritual heali
 Traditional healing practitioners provide medical care and therapeutic treatments during the festival, utilizing both traditional techniques and modern innovations. Community healing activities include physical therapy, nutritional support, and preventive health education.
 
 **Emotional and Psychological Support**
-Mental health activities address individual and community emotional needs through counseling, therapeutic recreation, and [[Community Support Networks]]. Special attention is given to trauma recovery, grief processing, and emotional healing for refugees and disaster survivors.
+Mental health activities address individual and community emotional needs through counseling, therapeutic recreation, and [[Community Support Networks. Special attention is given to trauma recovery, grief processing, and emotional healing for refugees and disaster survivors.
 
 **Spiritual Cleansing and Renewal**
 Religious purification activities help individuals and communities address spiritual difficulties, moral concerns, and religious obligations. These activities include confession practices, forgiveness rituals, and spiritual counseling designed to restore spiritual health and community harmony.
 
 **Community Healing and Reconciliation**
-Collective healing activities address community divisions, historical traumas, and ongoing conflicts through mediation, reconciliation ceremonies, and [[Restorative Justice]] practices. These activities strengthen community bonds while addressing systemic problems affecting community health and stability.
+Collective healing activities address community divisions, historical traumas, and ongoing conflicts through mediation, reconciliation ceremonies, and [Restorative Justice]] practices. These activities strengthen community bonds while addressing systemic problems affecting community health and stability.
 
 ### Post-Catastrophe Modifications
 
 Recent catastrophic events affecting both Aquabyssos and neighboring realms have required significant adaptations to traditional festival practices, creating new challenges while providing opportunities for cultural growth and inter-community cooperation.
 
 **Refugee Integration Programs**
-Special festival activities welcome and integrate refugees from [[Aethermoor]] and other disaster-affected areas, providing cultural education, social support, and community integration opportunities. These programs balance respect for refugees' original cultures with practical needs for community integration and mutual understanding.
+Special festival activities welcome and integrate refugees from [[Aethermoor and other disaster-affected areas, providing cultural education, social support, and community integration opportunities. These programs balance respect for refugees' original cultures with practical needs for community integration and mutual understanding.
 
 **Trauma Response and Healing**
 Enhanced mental health and emotional support activities address widespread trauma from recent catastrophes, including specialized therapy programs, community support networks, and adapted spiritual practices designed to help individuals and communities process difficult experiences.
@@ -479,7 +479,7 @@ Ongoing threats and instability have required enhanced security measures and eme
 Growing relationships with other realms and civilizations have created opportunities and challenges for festival activities, requiring adaptations that maintain cultural integrity while building beneficial inter-cultural relationships.
 
 **Surface Dweller Participation**
-Accommodation of visitors from [[Aethermoor]] and other surface civilizations requires modified festival activities that can be enjoyed by participants with different environmental needs and cultural backgrounds. These modifications include hybrid celebration formats and cross-cultural educational activities.
+Accommodation of visitors from [Aethermoor]] and other surface civilizations requires modified festival activities that can be enjoyed by participants with different environmental needs and cultural backgrounds. These modifications include hybrid celebration formats and cross-cultural educational activities.
 
 **Cultural Exchange and Diplomacy**
 Festival activities increasingly serve diplomatic functions, providing opportunities for inter-realm relationship building, treaty negotiation, and cultural understanding development. These activities require careful balance between cultural authenticity and diplomatic effectiveness.
@@ -495,23 +495,23 @@ Growing cultural diversity requires enhanced translation services, multi-cultura
 Environmental changes and resource pressures require ongoing adaptations to festival practices that balance cultural preservation with environmental responsibility and community sustainability.
 
 **Climate Adaptation**
-Changing oceanic and atmospheric conditions require adaptations to traditional festival timing, activities, and [[location]]s. These changes necessitate flexible planning and adaptive practices that maintain cultural significance while responding to environmental realities.
+Changing oceanic and atmospheric conditions require adaptations to traditional festival timing, activities, and [[locations. These changes necessitate flexible planning and adaptive practices that maintain cultural significance while responding to environmental realities.
 
 **Resource Conservation**
 Growing resource pressures require enhanced conservation measures and sustainable practices for festival activities, including waste reduction, energy conservation, and sustainable food and material sourcing.
 
-**[[Environmental Protection]]**
+**[Environmental Protection]]**
 Festival activities must balance celebration needs with environmental protection requirements, including habitat preservation, pollution prevention, and sustainable resource use practices that protect the oceanic environment essential to Aquabyssos culture.
 
 **Population Growth Management**
-Increasing community populations and refugee influxes require enhanced planning and resource management for festival activities, including capacity management, [[Infrastructure Development]], and equitable resource distribution systems.
+Increasing community populations and refugee influxes require enhanced planning and resource management for festival activities, including capacity management, [[Infrastructure Development, and equitable resource distribution systems.
 
 ### Festival-Based Adventures
 
 The Festival of Rising Tides provides numerous opportunities for adventures that combine cultural immersion with action, diplomacy, and character development. These adventures can showcase Aquabyssos culture while providing engaging gameplay experiences.
 
 **Cultural Diplomacy Adventures**
-Characters can become involved in diplomatic missions during the festival, including treaty negotiations, conflict resolution, and [[Cultural Exchange Programs]]. These adventures combine social interaction with political intrigue and cultural exploration.
+Characters can become involved in diplomatic missions during the festival, including treaty negotiations, conflict resolution, and [Cultural Exchange Programs]]. These adventures combine social interaction with political intrigue and cultural exploration.
 
 **Festival Security and Safety**
 Protection duties during festival activities can involve characters in security operations, emergency response, and threat investigation. These adventures combine action elements with community service and cultural appreciation.
@@ -536,7 +536,7 @@ Festival social activities provide opportunities for character relationship deve
 Festival educational activities can provide opportunities for characters to learn new skills, develop existing abilities, and gain cultural knowledge that enhances their campaign effectiveness and personal growth.
 
 **Community Connection**
-Participation in community service and cultural activities can help characters develop relationships with [[Npc]] communities, creating ongoing campaign elements and providing character motivation for future adventures.
+Participation in community service and cultural activities can help characters develop relationships with [[Npc communities, creating ongoing campaign elements and providing character motivation for future adventures.
 
 ### Long-Term Campaign Elements
 
@@ -556,10 +556,10 @@ Spiritual experiences and religious connections developed during festival activi
 
 ### Festival Leadership and Organization
 
-**[[High Tide Celebrant Coral Festivus]]** - Master of Ceremonies
+**[High Tide Celebrant Coral Festivus]]** - Master of Ceremonies
 Master organizer and spiritual leader for festival activities, responsible for overall festival coordination, spiritual guidance, and cultural preservation. Serves as primary contact for festival planning and community coordination.
 
-**[[Festival Coordinator Nereid Harmony]]** - Logistics Director
+**[[Festival Coordinator Nereid Harmony** - Logistics Director
 Administrative leader managing practical festival arrangements, including venue preparation, resource allocation, and inter-community coordination. Essential contact for practical festival participation and problem resolution.
 
 **** - Traditional Knowledge Keeper
@@ -567,43 +567,43 @@ Expert in traditional cultural practices and historical knowledge, responsible f
 
 ### Religious and Spiritual Leadership
 
-**[[High Priestess Celeste]]** - Religious Authority
+**[High Priestess Celeste]]** - Religious Authority
 Senior religious leader providing spiritual guidance and oversight for festival religious activities. Key figure in inter-realm religious cooperation and spiritual adaptation for diverse communities.
 
-**[[Sacred Memory Keeper Ancient Depths]]** - Spiritual Counselor
+**[[Sacred Memory Keeper Ancient Depths** - Spiritual Counselor
 Specialist in memory preservation and spiritual healing, providing individual and community support for trauma recovery, spiritual guidance, and cultural integration.
 
 ### Community and Cultural Organizations
 
-**[[Festival Artisans Guild]]** - Cultural Craft Organization
+**[Festival Artisans Guild]]** - Cultural Craft Organization
 Professional organization coordinating artisan activities, craft fairs, and cultural preservation efforts during festival events. Primary contact for craft participation and cultural arts education.
 
-**[[Inter-Community Harmony Council]]** - Diplomatic Organization
+**[[Inter-Community Harmony Council** - Diplomatic Organization
 Coordinating body managing relationships between different communities during festival activities. Key organization for diplomatic activities and inter-community cooperation.
 
-**[[Temple of the Healing Waters|[[Temple of the Healing Waters]]|[[02_Worldbuilding|02 Worldbuilding]]/Groups/Temple Of The Healing Waters]]** - Religious Organization
+**[[Temple of the Healing Waters|[Temple of the Healing Waters]]|[[02_Worldbuilding|02 Worldbuilding/Groups/Temple Of The Healing Waters]]** - Religious Organization
 Religious institution providing spiritual services and community support during festival activities. Primary organization for religious education and spiritual healing services.
 
 ### Primary Festival Venues
 
-**[[The Great Tidal Amphitheater]]** - Central Celebration Venue
+**[[The Great Tidal Amphitheater** - Central Celebration Venue
 Primary location for major festival events, performances, and community gatherings. Natural amphitheater enhanced with constructed facilities to accommodate large-scale festival activities.
 
-**[[Memory Gardens|Sacred [[Memory Gardens]]]]** - Spiritual Center
-Living coral formations serving as memory preservation sites and spiritual gathering [[Places]]. Essential location for religious activities and cultural education during festival events.
+**[[Memory Gardens|Sacred [Memory Gardens]]]]** - Spiritual Center
+Living coral formations serving as memory preservation sites and spiritual gathering [[Places. Essential location for religious activities and cultural education during festival events.
 
-**[[Community Feast Halls]]** - Social Gathering Spaces
+**[Community Feast Halls]]** - Social Gathering Spaces
 Large-scale dining facilities designed for community meals and social activities. Central to festival food preparation and social bonding activities.
 
 ### Cultural and Historical Sites
 
-**[[Parliament of Echoes]]** - Government Center
+**[[Parliament of Echoes** - Government Center
 Administrative center participating in festival activities through diplomatic events, cultural recognition ceremonies, and community planning activities.
 
-**[[Traditional Craft Districts]]** - Artisan Centers
+**[Traditional Craft Districts]]** - Artisan Centers
 Neighborhood areas specializing in traditional crafts and artistic activities, serving as centers for festival craft fairs and cultural education.
 
-**[[Ancestor Memorial Spaces]]** - Spiritual Heritage Sites
+**[[Ancestor Memorial Spaces** - Spiritual Heritage Sites
 Sacred locations dedicated to honoring deceased community members and maintaining spiritual connections with ancestral wisdom and guidance.
 
 The Festival of Rising Tides represents the living heart of Aquabyssos culture, where ancient wisdom meets contemporary adaptation in a celebration that strengthens community bonds while preparing for future challenges. Through this week-long festival, the people of Aquabyssos renew their connection to their deepest cultural values while building the relationships and skills needed to thrive in an changing world.
@@ -616,11 +616,11 @@ The Festival of Rising Tides is a undersea element of the setting, known for bio
 
 Legends speak of The Festival of Rising Tides as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Festival of Rising Tides.
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## [[Historical Context]]
+## [[Historical Context
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -664,4 +664,4 @@ Mentioned in The Hidden Prophecy of Depths
 
 ## References
 
-- [[Master_Lore_Index]]
+- [Master_Lore_Index]]

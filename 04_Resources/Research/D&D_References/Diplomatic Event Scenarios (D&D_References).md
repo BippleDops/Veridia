@@ -2,7 +2,7 @@
 
 title: Diplomatic Event Scenarios (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -59,8 +59,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 4. **Crisis Interruption:** Unexpected development requiring response
 5. **Closing Agreement:** Final treaty signing or negotiation breakdown #### Complication Generators
 
-
-- **Roll 1d6 for Primary Complication:** 1. Key negotiator is shadow replacement working against their own nation 2. Crucial trade route involves territory with disputed ownership 3. One nation's economic data is completely falsified 4. Major trade good is actually contraband or dangerous material 5. Negotiation is cover for military intelligence gathering 6. Environmental disaster threatens trade route during negotiations - **Roll 1d4 for Secondary Issues:** 1. Cultural misunderstandings escalate into diplomatic incidents 2. Security breach exposes classified negotiation positions 3. Personal relationships between negotiators complicate professional duties 4. Time pressure from external crisis forces rushed decisions ### Template B: The Cultural Festival Convergence
+- **Roll `dice: 1d6` for Primary Complication:** 1. Key negotiator is shadow replacement working against their own nation 2. Crucial trade route involves territory with disputed ownership 3. One nation's economic data is completely falsified 4. Major trade good is actually contraband or dangerous material 5. Negotiation is cover for military intelligence gathering 6. Environmental disaster threatens trade route during negotiations - **Roll `dice: 1d4` for Secondary Issues:** 1. Cultural misunderstandings escalate into diplomatic incidents 2. Security breach exposes classified negotiation positions 3. Personal relationships between negotiators complicate professional duties 4. Time pressure from external crisis forces rushed decisions ### Template B: The Cultural Festival Convergence
 
 *International celebration masking political maneuvering* #### Key Elements
 
@@ -70,8 +69,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 4. **Private Receptions:** Exclusive events for high-level diplomatic contact
 5. **Closing Ceremony:** Final celebration and diplomatic declarations #### Complication Generators
 
-
-- **Roll 1d8 for Festival Crisis:** 1. Cultural presentation reveals state secrets through historical accuracy 2. Artistic competition becomes proxy for international tensions 3. Performer is actually foreign agent gathering intelligence 4. Cultural artifact on display is stolen/fake/cursed 5. Sports competition injury creates diplomatic incident 6. Food poisoning at official banquet sparks assassination fears 7. Cultural misunderstanding leads to religious offense 8. Weather or environmental disaster threatens festival continuation - **Roll 1d6 for Hidden Agendas:** 1. Recruit cultural figures as intelligence assets 2. Assess military capabilities through competitive displays 3. Influence public opinion through cultural propaganda 4. Arrange private meetings for sensitive negotiations 5. Test security systems through festival logistics 6. Demonstrate national strength through cultural superiority ### Template C: The Emergency Crisis Summit
+- **Roll `dice: 1d8` for Festival Crisis:** 1. Cultural presentation reveals state secrets through historical accuracy 2. Artistic competition becomes proxy for international tensions 3. Performer is actually foreign agent gathering intelligence 4. Cultural artifact on display is stolen/fake/cursed 5. Sports competition injury creates diplomatic incident 6. Food poisoning at official banquet sparks assassination fears 7. Cultural misunderstanding leads to religious offense 8. Weather or environmental disaster threatens festival continuation - **Roll `dice: 1d6` for Hidden Agendas:** 1. Recruit cultural figures as intelligence assets 2. Assess military capabilities through competitive displays 3. Influence public opinion through cultural propaganda 4. Arrange private meetings for sensitive negotiations 5. Test security systems through festival logistics 6. Demonstrate national strength through cultural superiority ### Template C: The Emergency Crisis Summit
 
 *International response to unexpected catastrophe* #### Key Elements
 
@@ -79,8 +77,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 2. **Response Planning:** Coordination of relief efforts and resources
 3. **Resource Allocation:** Distribution of costs and responsibilities
 4. **Legal Framework:** Treaties or agreements governing crisis response
-5. **Implementation Coordination:** Ongoing communication and adjustment protocols #### Crisis Types (Roll 1d10)
-
+5. **Implementation Coordination:** Ongoing communication and adjustment protocols #### Crisis Types (Roll `dice: 1d10`)
 
 1. **Environmental Disaster:** Tsunami, earthquake, volcanic eruption
 2. **Plague Outbreak:** Disease threatening multiple nations
@@ -93,15 +90,13 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 9. **Communication Breakdown:** Loss of international communication systems
 10. **Political Assassination:** Murder of key international leader ### Template D: The Marriage Alliance Spectacle
 
-
 *Political union disguised as romantic celebration* #### Key Elements
 
 1. **Engagement Announcement:** Public declaration with political implications
 2. **Dowry Negotiation:** Ficial and political terms of alliance
 3. **Pre-Wedding Events:** Multiple social occasions for diplomatic interaction
 4. **Wedding Ceremony:** Public ritual with international witnesses
-5. **Post-Wedding Politics:** Integration of new alliance into international relations #### Marriage Politics Complications (Roll 1d8)
-
+5. **Post-Wedding Politics:** Integration of new alliance into international relations #### Marriage Politics Complications (Roll `dice: 1d8`)
 
 1. **False Identity:** Bride or groom is shadow replacement or imposter
 2. **Competing Suitors:** Other nations attempt to disrupt marriage through rival proposals
@@ -110,8 +105,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 5. **Economic Disputes:** Dowry negotiations reveal hidden ficial problems
 6. **Military Threat:** Foreign power attempts to prevent alliance through force
 7. **Personal Drama:** Genuine romantic complications interfere with political arrangement
-8. **Legal Challenge:** Legitimacy of marriage questioned on legal or technical grounds #### Alliance Implications (Roll 1d6)
-
+8. **Legal Challenge:** Legitimacy of marriage questioned on legal or technical grounds #### Alliance Implications (Roll `dice: 1d6`)
 
 1. **Military Cooperation:** Joint defense agreements and troop sharing
 2. **Economic Integration:** Trade preferences and ficial cooperation
@@ -120,23 +114,20 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 5. **Cultural Exchange:** Educational and social integration programs
 6. **Succession Rights:** Future inheritance and political continuity agreements ### Template E: The Technology Transfer Symposium
 
-
 *Scientific cooperation concealing espionage operations* #### Key Elements
 
 1. **Technical Presentations:** Nations showcase technological achievements
 2. **Collaborative Workshops:** Joint research projects and partnerships
 3. **Technology Demonstrations:** Live displays of advanced capabilities
 4. **Patent Negotiations:** Intellectual property licensing and sharing
-5. **Future Planning:** Long-term research cooperation agreements #### Technology Categories (Roll 1d6)
-
+5. **Future Planning:** Long-term research cooperation agreements #### Technology Categories (Roll `dice: 1d6`)
 
 1. **Military Technology:** Weapons, defense systems, intelligence equipment
 2. **Medical Advances:** Healing techniques, life extension, adaptation technology
 3. **Communication Systems:** Advanced messaging, surveillance, information processing
 4. **Transportation Innovation:** Faster travel, dimensional access, teleportation
 5. **Environmental Technology:** Weather control, ecosystem management, disaster prevention
-6. **Computational Systems:** Artificial intelligence, prediction modeling, data analysis #### Espionage Complications (Roll 1d8)
-
+6. **Computational Systems:** Artificial intelligence, prediction modeling, data analysis #### Espionage Complications (Roll `dice: 1d8`)
 
 1. **Technology Theft:** Participant steals research from other nations
 2. **False Demonstrations:** Fake technology presented to mislead competitors
@@ -147,8 +138,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 7. **Corporate Espionage:** Private companies stealing government research
 8. **Academic Infiltration:** Foreign agents posing as scholars and researchers ### Participant Generator
 
-
-**Roll 1d6 for each potential participant:**
+**Roll `dice: 1d6` for each potential participant:**
 1. **Eager Participant:** Enthusiastic support, hidden agenda likely
 2. **Reluctant Participant:** Attending due to pressure, may cause problems
 3. **Neutral Observer:** Minimal involvement, focused on information gathering
@@ -156,8 +146,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 5. **Proxy Representative:** Acting on behalf of unnamed third party
 6. **Crisis Responder:** Participation triggered by unexpected emergency ### Complication Escalation Table
 
-
-**Roll 1d12 when events become complicated:**
+**Roll `dice: 1d12` when events become complicated:**
 1. **Personal Vendetta:** Historical grievance affects professional relationship
 2. **Economic Pressure:** Ficial crisis forces desperate decisions
 3. **Security Threat:** Assassination attempt or terrorist action
@@ -171,8 +160,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 11. **Family Drama:** Personal relationships complicate political decisions
 12. **Time Pressure:** External deadline forces rushed and poor decisions ### Outcome Determination Matrix
 
-
-**Roll 2d6 for event outcome:**
+**Roll `dice: 2d6` for event outcome:**
 - **2-3:** Complete Failure - Worst possible outcome, new conflicts created
 - **4-5:** Major Problems - Significant issues, limited success
 - **6-8:** Mixed Results - Some success, some failure, complications remain
@@ -184,7 +172,6 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 3. **Intelligence Operatives:** Gather information or conduct counter-espionage
 4. **Problem Solvers:** Resolve crises and complications that threaten event success
 5. **Neutral Mediators:** Help competing parties find common ground and agreement ### Event Type Quick Selection
-
 
 | d6 | Event Type | Duration | Complexity | Political Impact |
 |----|------------|----------|------------|------------------|
@@ -213,12 +200,11 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 — Ambassador Prism Clearlight, "Advanced Diplomatic Protocols" ## Player-Facing Summary Diplomatic Event Scenarios is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Diplomatic Event Scenarios as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Diplomatic Event Scenarios. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is protecting a witness for power
 
 - A noble needs help delivering before winter
-- A journal reveals the truth about the government ## Related Notes - [[Similar Topic 1]]
+- A journal reveals the truth about the government ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

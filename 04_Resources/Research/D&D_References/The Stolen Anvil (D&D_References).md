@@ -2,7 +2,7 @@
 
 title: The Stolen Anvil (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -83,7 +83,6 @@ The Stolen Anvil incident involves the theft of the legendary Deepforge Anvil, a
 4. **Foreign Collection:** Surface world collector acquired exotic artifact
 5. **Cult Activity:** Religious group needed anvil for prophetic weapon creation ## Current Situation
 
-
 **Replacement Efforts:** Guild attempting to forge new anvil with limited success
 **Black Market:** Inferior tools sold at premium prices
 **Skill Migration:** Master crafters leaving for better opportunities
@@ -108,11 +107,9 @@ The Stolen Anvil incident involves the theft of the legendary Deepforge Anvil, a
 5. Replacement anvil creation requires rare materials party must gather
 6. Political intrigue surrounds coverup of who really stole anvil ## Long-term Implications
 
-
 Without the anvil's return, Aquabyssos may lose its reputation as premier underwater crafting center. Economic decline could affect the entire region while crafting knowledge is lost to future generations. ## DM Notes
 
 The Stolen Anvil provides excellent motivation for retrieval quests, investigation adventures, or economic intrigue. The theft's impact creates ongoing consequences affecting equipment availability and NPC attitudes toward the party's crafting needs. ## Player-Facing Summary The Stolen Anvil is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Stolen Anvil as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Stolen Anvil. ## Cross-References - [[The Stolen Anvil|02 Worldbuilding/People/The Stolen Anvil]] iched: true --> ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

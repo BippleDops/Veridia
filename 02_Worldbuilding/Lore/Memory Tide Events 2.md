@@ -1,8 +1,8 @@
 ---
-accessibility:
+accessibility: 
   content_warnings: []
   pronunciation: Memory Tide Events
-  safety_tools:
+  safety_tools: 
   - Lines & Veils
   - X-Card
   screen_reader_summary: This lore entry explains a pivotal principle or event and
@@ -10,7 +10,7 @@ accessibility:
 created: '2025-08-12'
 obsidianUIMode: preview
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/lore
@@ -22,14 +22,9 @@ updated: '2025-08-13T12:34:16.349195+00:00'
 world: Aquabyssos
 ---
 
-
-
-
-
-
 # Memory Tide Events
 
-![[04_Resources/Assets/Art/Lore/Memory_Tide_Events.png|Memory Tide Events Portrait]]
+![[04_Resources/Assets/Art/Lore/Memory_Tide_Events.png|Memory Tide Events Portrait
 
 ## Summary
 Memory Tide Events describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.
@@ -45,14 +40,14 @@ Memory Tide Events describes a turning current in history where choices about me
 - Exploration: Recognizing encoded waystones reduces the chance of getting lost by one step.
 
 ## Threads and Revelations
-- Records implicate agents tied to [[02_Worldbuilding/Places/The Sunken Library of Thalassius]].
-- A rite echoes the activation cadence needed for [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]].
-- Testimony suggests [[02_Worldbuilding/People/Vex Shadowthorn]] financed a pivotal bribe.
+- Records implicate agents tied to [02_Worldbuilding/Places/The Sunken Library of Thalassius]].
+- A rite echoes the activation cadence needed for [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos.
+- Testimony suggests [02_Worldbuilding/People/Vex Shadowthorn]] financed a pivotal bribe.
 
 ## Cross-References
-- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/People/Vex Shadowthorn]]
+- [[02_Worldbuilding/Places/The Sunken Library of Thalassius
+- [02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/People/Vex Shadowthorn
 
 ## Player-Facing Summary
 
@@ -74,7 +69,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 
-
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Seven Shards]]
+- [02_Worldbuilding/Lore/The Seven Shards]]

@@ -2,7 +2,7 @@
 
 title: Tenebrarum Embassy (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -57,7 +57,6 @@ The Tenebrarum Embassy serves as the primary diplomatic mission from the shadow 
 4. **Social Intelligence:** Monitor noble house relationships and social dynamics
 5. **Technological Intelligence:** Acquire pressure adaptation and crystal technology #### Operation Shadow Parliament
 
-
 **Objective:** Control parliamentary votes through shadow replacement program
 **Method:** Systematically replace key senators with shadow duplicates
 **Current Status:** 4 senators replaced, 8 more targeted for replacement
@@ -105,24 +104,20 @@ Aquabyssos government economic sanctions are causing:
 3. **Crisis Mediation:** Help resolve diplomatic incident threatening embassy operations
 4. **Academic Cooperation:** Protect research exchange program from political interference ### Espionage Scenarios
 
-
 1. **Shadow Hunt:** Investigate suspected shadow replacement in government
 2. **Network Exposure:** Track intelligence leak threatening embassy spy operations
 3. **Double Agent:** Uncover Aquabyssos spy within embassy staff
 4. **Communication Intercept:** Decode intercepted diplomatic communications ### Political Intrigue
-
 
 1. **Succession Influence:** Navigate embassy attempts to influence succession crisis
 2. **Parliamentary Vote:** Stop/enable shadow citizenship legislation
 3. **Noble House Manipulation:** Investigate embassy influence on major families
 4. **Public Opinion:** Manage crisis in shadow-Aquabyssos relations ### Personal Drama
 
-
 1. **Romance Operation:** Complicated relationship between spy and target
 2. **Identity Crisis:** Embassy staff member questioning loyalty and identity
 3. **Family Connections:** Discover personal ties between embassy staff and local citizens
 4. **Redemption Arc:** Help compromised individual escape intelligence world ### Embassy Staff Quick List
-
 
 | Name | Official Position | Real Function | Key Ability |
 |------|------------------|---------------|-------------|
@@ -149,12 +144,11 @@ Aquabyssos government economic sanctions are causing:
 — Ambassador Nyx Voidwhisper, "Principles of Shadow Diplomacy" ## Player-Facing Summary Tenebrarum Embassy is a void-touched element of the setting, known for impossible angles and star-silent echoes. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Tenebrarum Embassy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Tenebrarum Embassy. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil ## Plot Hooks - Strange disappearances suggest a curse
 
 - Strange accidents suggest a curse
-- A corpse reveals ancient history about this place ## Related Notes - [[Similar Topic 1]]
+- A corpse reveals ancient history about this place ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]]
 
 ## Notes
 

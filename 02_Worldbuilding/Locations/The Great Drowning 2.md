@@ -1,10 +1,10 @@
 ---
-accessibility:
-  content_warnings:
+accessibility: 
+  content_warnings: 
   - political coercion
   - environmental hazards
   pronunciation: The Great Drowning
-  safety_tools:
+  safety_tools: 
   - Lines & Veils
   - X-Card
   - Open Door
@@ -14,7 +14,7 @@ accessibility:
 created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -26,13 +26,9 @@ updated: '2025-08-13T12:34:16.867597+00:00'
 world: Aquabyssos
 ---
 
-
-
-
-
 # The Great Drowning
 
-![[04_Resources/Assets/Art/Places/The_Great_Drowning.png|The Great Drowning Portrait]]
+![[04_Resources/Assets/Art/Places/The_Great_Drowning.png|The Great Drowning Portrait
 
 *The site of Aquabyssos's greatest catastrophe and darkest memory*
 
@@ -100,7 +96,7 @@ On the 13th day of the Tide Month, the ritual went catastrophically wrong:
 *Medium humanoid (any race), lawful neutral*
 
 **Armor Class** 17 (pressure armor)
-**Hit Points** 78 (12d8 + 24)
+**Hit Points** 78 (`dice: 12d8` + 24)
 **Speed** 30 ft., swim 30 ft.
 
 STR 16 (+3), DEX 14 (+2), CON 14 (+2), INT 12 (+1), WIS 15 (+2), CHA 11 (+0)
@@ -119,9 +115,9 @@ STR 16 (+3), DEX 14 (+2), CON 14 (+2), INT 12 (+1), WIS 15 (+2), CHA 11 (+0)
 **Actions**
 **Multiattack.** The guard makes three trident attacks.
 
-**Pressure Trident.** *Melee or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage plus 3 (1d6) force damage.
+**Pressure Trident.** *Melee or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 10 (`dice: 2d6` + 3) piercing damage plus 3 (`dice: 1d6`) force damage.
 
-**Depth Charge (Recharge 5-6).** The guard throws an explosive that detonates in water. Each creature within 20 feet must make a DC 14 Constitution saving throw, taking 28 (8d6) thunder damage on a failed save, or half as much on a successful one.
+**Depth Charge (Recharge 5-6).** The guard throws an explosive that detonates in water. Each creature within 20 feet must make a **DC 14** Constitution saving throw, taking 28 (`dice: 8d6`) thunder damage on a failed save, or half as much on a successful one.
 
 ### The Echo Shepherds
 Mysterious beings that emerged from the maelstrom, appearing as translucent humanoids:
@@ -141,7 +137,7 @@ Survivors of Thalassopolis transformed by the planar energies:
 *Medium elemental, neutral*
 
 **Armor Class** 14 (natural armor)
-**Hit Points** 68 (8d8 + 32)
+**Hit Points** 68 (`dice: 8d8` + 32)
 **Speed** 20 ft., swim 60 ft.
 
 STR 14 (+2), DEX 16 (+3), CON 18 (+4), INT 11 (+0), WIS 13 (+1), CHA 15 (+2)
@@ -160,17 +156,17 @@ STR 14 (+2), DEX 16 (+3), CON 18 (+4), INT 11 (+0), WIS 13 (+1), CHA 15 (+2)
 **Actions**
 **Multiattack.** The remnant makes two slam attacks.
 
-**Slam.** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage.
+**Slam.** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (`dice: 2d8` + 4) bludgeoning damage.
 
-**Memory Flood (Recharge 5-6).** The remnant forces a target within 30 feet to experience fragments of Thalassopolis's destruction. The target must make a DC 14 Wisdom saving throw or be stunned for 1 minute as they experience the memories. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+**Memory Flood (Recharge 5-6).** The remnant forces a target within 30 feet to experience fragments of Thalassopolis's destruction. The target must make a **DC 14** Wisdom saving throw or be stunned for 1 minute as they experience the memories. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ## Notable Features
 
 ### The Archive Stones
 Thirteen massive obsidian pillars that orbit the maelstrom:
 - Each contains the final thoughts of one of the thirteen archmages
-- Reading them requires a DC 20 Arcana check
-- Success grants insight but forces a Wisdom saving throw (DC 15) or gain a form of indefinite madness
+- Reading them requires a **DC 20** Arcana check
+- Success grants insight but forces a Wisdom saving throw (**DC 15**) or gain a form of indefinite madness
 - Destroying one might weaken the maelstrom—or make it worse
 
 ### The Tide Calendar
@@ -195,7 +191,7 @@ Crystallized tears of the victims form underwater gardens:
 | 3-4 | Echo Shepherd leading phantom procession |
 | 5-6 | Remnant seeking news of descendants |
 | 7-8 | Time loop—party encounters themselves from 1 hour ago |
-| 9-10 | Memory crystal storm (1d6 psychic damage per round) |
+| 9-10 | Memory crystal storm (`dice: 1d6` psychic damage per round) |
 | 11-12 | Planar rift opens briefly to Elemental Plane of Water |
 | 13-14 | Ghost ship from Thalassopolis emerges, crew unaware they're dead |
 | 15-16 | Temporal echo of the original catastrophe (illusion) |
@@ -241,9 +237,9 @@ Devices that protect against time distortion:
 
 This spiral shell constantly drips with water that never runs dry. While attuned:
 - You can breathe underwater and have swim speed equal to walking speed
-- Once per day, can summon 1d4 Remnants of Thalassopolis for 1 hour
+- Once per day, can summon `dice: 1d4` Remnants of Thalassopolis for 1 hour
 - Can hear whispers from the Great Drowning regardless of distance
-- Cursed: Must make DC 15 Wisdom save each dawn or be compelled to visit the Great Drowning
+- Cursed: Must make **DC 15** Wisdom save each dawn or be compelled to visit the Great Drowning
 
 ## DM Notes
 
@@ -254,10 +250,10 @@ This spiral shell constantly drips with water that never runs dry. While attuned
 - **Epic Level (16-20)**: Attempt to close or control the breach
 
 ### Environmental Hazards
-- **Pressure Waves**: CON save DC 15 or stunned 1 round
-- **Temporal Shears**: DEX save DC 17 or age 1d10 years
-- **Memory Storms**: WIS save DC 14 or confused 1 minute
-- **Reality Tears**: INT save DC 16 or teleported 1d100 feet randomly
+- **Pressure Waves**: CON save **DC 15** or stunned 1 round
+- **Temporal Shears**: DEX save **DC 17** or age `dice: 1d10` years
+- **Memory Storms**: WIS save **DC 14** or confused 1 minute
+- **Reality Tears**: INT save **DC 16** or teleported `dice: 1d100` feet randomly
 
 ### Campaign Integration
 The Great Drowning serves as:
@@ -270,11 +266,11 @@ The Great Drowning serves as:
 ---
 
 ## See Also
-- [[02_Worldbuilding/Lore/Deep Mother]]
-- [[02_Worldbuilding/Places/Thalassopolis Ruins|02 Worldbuilding/Places/Thalassopolis Ruins]]
-- [[02_Worldbuilding/Lore/Depth Guard]]
-- [[02_Worldbuilding/Lore/Planar Breaches of Aquabyssos|02 Worldbuilding/Lore/Planar Breaches Of Aquabyssos]]
-- [[03_Mechanics/Temporal_Mechanics_System|03 Mechanics/Temporal Mechanics System]]
+- [02_Worldbuilding/Lore/Deep Mother]]
+- [[02_Worldbuilding/Places/Thalassopolis Ruins|02 Worldbuilding/Places/Thalassopolis Ruins
+- [02_Worldbuilding/Lore/Depth Guard]]
+- [[02_Worldbuilding/Lore/Planar Breaches of Aquabyssos|02 Worldbuilding/Lore/Planar Breaches Of Aquabyssos
+- [03_Mechanics/Temporal_Mechanics_System|03 Mechanics/Temporal Mechanics System]]
 
 *"In the depths of the Great Drowning, yesterday screams, today weeps, and tomorrow drowns."*
 
@@ -288,66 +284,60 @@ Legends speak of The Great Drowning as a nexus where past and present converge. 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Great Drowning]]
+- [[02_Worldbuilding/Places/The Great Drowning
 
 <!-- enriched: true -->
 
-
 ## Connections
 
-- [[02_Worldbuilding/Groups/Orders/Establish the New Order]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
-- [[02_Worldbuilding/Lore/Aetheron]]
-- [[02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties]]
-- [[02_Worldbuilding/Lore/Corallion]]
-- [[02_Worldbuilding/Lore/Queen Seraphina]]
-- [[02_Worldbuilding/Lore/The Breathing Stone]]
-- [[02_Worldbuilding/Lore/Vorthak]]
-- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]]
-- [[02_Worldbuilding/Places/Amnesia Gallery]]
-- [[02_Worldbuilding/Places/Crystallium]]
-- [[02_Worldbuilding/Places/Forge of War]]
-- [[02_Worldbuilding/Places/Luminous Hollow]]
-- [[02_Worldbuilding/Places/New Tethys]]
-- [[02_Worldbuilding/Places/Old Valdris]]
-- [[02_Worldbuilding/Places/Pressure's End]]
-- [[02_Worldbuilding/Places/Sister Morwyn]]
-- [[02_Worldbuilding/Places/The Archive of Unremembered Things]]
-- [[02_Worldbuilding/Places/The Bathyal Palace]]
-- [[02_Worldbuilding/Places/The Cerulean Trench]]
-- [[02_Worldbuilding/Places/The Eternal Senate]]
-- [[02_Worldbuilding/Places/The First Failure]]
-- [[02_Worldbuilding/Places/The Foundation Depths]]
-- [[02_Worldbuilding/Places/The Lock]]
-- [[02_Worldbuilding/Places/The Primordial Vaults]]
-- [[02_Worldbuilding/Places/The Recursion Cult]]
-- [[02_Worldbuilding/Places/The Silent Watcher]]
-- [[02_Worldbuilding/Places/The Singing Trenches]]
-- [[02_Worldbuilding/Places/The Vanishing Depths]]
-- [[02_Worldbuilding/Places/The Whispering Peaks]]
-- [[02_Worldbuilding/Places/Theological Warfare]]
+- [02_Worldbuilding/Groups/Orders/Establish the New Order]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels
+- [02_Worldbuilding/Lore/Aetheron]]
+- [[02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties
+- [02_Worldbuilding/Lore/Corallion]]
+- [[02_Worldbuilding/Lore/Queen Seraphina
+- [02_Worldbuilding/Lore/The Breathing Stone]]
+- [[02_Worldbuilding/Lore/Vorthak
+- [02_Worldbuilding/People/Prophet Nerida Voidgazer]]
+- [[02_Worldbuilding/Places/Amnesia Gallery
+- [02_Worldbuilding/Places/Crystallium]]
+- [[02_Worldbuilding/Places/Forge of War
+- [02_Worldbuilding/Places/Luminous Hollow]]
+- [[02_Worldbuilding/Places/New Tethys
+- [02_Worldbuilding/Places/Old Valdris]]
+- [[02_Worldbuilding/Places/Pressure's End
+- [02_Worldbuilding/Places/Sister Morwyn]]
+- [[02_Worldbuilding/Places/The Archive of Unremembered Things
+- [02_Worldbuilding/Places/The Bathyal Palace]]
+- [[02_Worldbuilding/Places/The Cerulean Trench
+- [02_Worldbuilding/Places/The Eternal Senate]]
+- [[02_Worldbuilding/Places/The First Failure
+- [02_Worldbuilding/Places/The Foundation Depths]]
+- [[02_Worldbuilding/Places/The Lock
+- [02_Worldbuilding/Places/The Primordial Vaults]]
+- [[02_Worldbuilding/Places/The Recursion Cult
+- [02_Worldbuilding/Places/The Silent Watcher]]
+- [[02_Worldbuilding/Places/The Singing Trenches
+- [02_Worldbuilding/Places/The Vanishing Depths]]
+- [[02_Worldbuilding/Places/The Whispering Peaks
+- [02_Worldbuilding/Places/Theological Warfare]]
 - [[02_Worldbuilding/Places/Whisper-Touched William]]
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

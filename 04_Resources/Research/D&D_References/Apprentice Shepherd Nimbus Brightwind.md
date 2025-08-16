@@ -2,7 +2,7 @@
 
 title: Apprentice Shepherd Nimbus Brightwind
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -41,12 +41,11 @@ updated: '2025-08-13T01:18:35.131124+00:00'
 
 - A merchant needs help stealing before the festival
 - A stranger needs help finding before the new moon
-- A corpse reveals ancient history about the government ## Related Notes - [[Similar Topic 1]]
+- A corpse reveals ancient history about the government ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

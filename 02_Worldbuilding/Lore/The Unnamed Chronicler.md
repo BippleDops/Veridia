@@ -1,10 +1,10 @@
 ---
 
 title: The Unnamed Chronicler
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - world/aquabyssos
 - content/lore
 - active
@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -46,7 +46,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[region]]s
+- Describe how this culture exists in other [region]]s
 
 ### Evolution Improvements
 
@@ -105,5 +105,5 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[The Parliament of Nobody (Government_and_Parliament)]]
-- [[The Parliament of Nobody]]
+- [[The Parliament of Nobody (Government_and_Parliament)
+- [The Parliament of Nobody]]

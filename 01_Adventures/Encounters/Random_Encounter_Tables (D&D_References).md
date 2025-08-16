@@ -1,19 +1,18 @@
 ---
 enhanced: true
 tags: [enhanced, d&d_references]
-created: 2025-08-15T12:25:56.816175
-modified: 2025-08-15T12:25:56.816181
+created: "2025-08-15T12:25:56.816175"
+modified: "2025-08-15T12:25:56.816181"
 aliases: [Random Encounter Tables (D&D References)]
 ---
 
 ## Table of Contents
-- [[#Description|Description]]
-- [[#Action Economy ### On Your Turn (ACX p.189)|Action Economy ### On Your Turn (ACX p.189)]]
-- [[#Notes|Notes]]
-- [[#Visual References|Visual References]]
-- [[#Realm Connections|Realm Connections]]
-- [[#Connection to Aquabyssos|Connection to Aquabyssos]]
-
+- [[#Description|Description
+- [#Action Economy ### On Your Turn (ACX p.189)|Action Economy ### On Your Turn (ACX p.189)]]
+- [[#Notes|Notes
+- [#Visual References|Visual References]]
+- [[#Realm Connections|Realm Connections
+- [#Connection to Aquabyssos|Connection to Aquabyssos]]
 
 ---
 
@@ -61,11 +60,11 @@ updated: '2025-08-13T01:18:35.459045+00:00'
 
 - A noble needs help stealing before the festival
 - Someone is hunting a artifact for money
-- A noble needs help finding before the new moon ## Related Notes - [[Similar Topic 1]]
+- A noble needs help finding before the new moon ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## Scaling by Party Level
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## Scaling by Party Level
 
 - **Level 1-4**: Reduce enemies
 - **Level 5-10**: Standard difficulty
@@ -100,7 +99,6 @@ updated: '2025-08-13T01:18:35.459045+00:00'
 - Only if feature/spell grants one
 - Common: Off-hand attack, Cunning Action, Healing Word
 
-
 ## Notes
 
 *Additional notes*
@@ -114,10 +112,9 @@ updated: '2025-08-13T01:18:35.459045+00:00'
 #meta/reference
 
 ## Visual References
-![[04_Resources/Assets/Placeholder Images/RandomGensTitleBar.png]]
-![[04_Resources/Assets/Portraits/NPCs/portrait_random_npc.png]]
-![[04_Resources/Assets/Portraits/NPCs/portrait_random_npc_generator.png]]
-
+![[04_Resources/Assets/Placeholder Images/RandomGensTitleBar.png
+![04_Resources/Assets/Portraits/NPCs/portrait_random_npc.png]]
+![[04_Resources/Assets/Portraits/NPCs/portrait_random_npc_generator.png
 
 ## Realm Connections
 
@@ -125,10 +122,10 @@ updated: '2025-08-13T01:18:35.459045+00:00'
 This relates to the deep realm of Deepest ocean trenches and underwater kingdoms.
 
 - **Ruling Power**: The Tidal Throne
-- **Capital**: [[Pearlheart Palace]]
+- **Capital**: [Pearlheart Palace]]
 - **Primary Magic**: Tidal control, pressure magic, bioluminescence
 - **Current Conflict**: The Crushing Dark, Surface Wars
-- **Key Locations**: [[Abyssal Trenches]], [[Coral Throne]]
+- **Key Locations**: [[Abyssal Trenches, [Coral Throne]]
 
 In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
 build cities of living coral and navigate by bioluminescent paths.

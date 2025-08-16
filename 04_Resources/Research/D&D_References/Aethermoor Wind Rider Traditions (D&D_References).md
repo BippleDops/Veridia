@@ -2,7 +2,7 @@
 
 title: Aethermoor Wind Rider Traditions (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -49,7 +49,6 @@ updated: '2025-08-11T00:00:00+00:00'
 
 The Wind Rider Traditions represent the heart and soul of Aethermoor's aerial culture, encompassing centuries of customs, rituals, and practices developed by those who make their lives among the clouds. From the elite Sky Knights to humble Cloud Shepherds, these traditions bind together a society that exists in constant motion, where mastery of wind and weather determines not just survival, but social standing, spiritual connection, and cultural identity. ### Sky Knights - The Storm Masters
 
-
 **Summary**: Sky Knights - The Storm Masters - Key information at a glance.
 
 **Elite Status:** Military aristocracy and aerial combat specialists
@@ -71,7 +70,6 @@ The Wind Rider Traditions represent the heart and soul of Aethermoor's aerial cu
 - "Sky Funeral" - honored dead released to the winds from great heights
 - "Mount Bonding" - sacred ceremony linking rider and aerial creature
 - "Wind Duel" - formal combat resolved in aerial single combat ### Cloud Shepherds - The Drift Guardians
-
 
 **Summary**: Cloud Shepherds - The Drift Guardians - Key information at a glance.
 
@@ -312,9 +310,8 @@ The Wind Rider Traditions represent the heart and soul of Aethermoor's aerial cu
 7. **Aerial Archaeological Expedition**: Explore ancient ruins accessible only by flight
 8. Meanwhile, **The Wind Whisperer's Test**: Prove worthiness to learn advanced weather magic ## Connected Organizations
 
-
-- [[Groups]] - Professional organization maintaining aerial traditions
-- [[The Sky Knight Orders]] - Military and aristocratic societies preserving combat traditions
+- [[Groups - Professional organization maintaining aerial traditions
+- [The Sky Knight Orders]] - Military and aristocratic societies preserving combat traditions
 - [[The Weather Wardens Council]] - Governmental organization managing atmospheric safety The Aethermoor Wind Rider Traditions represent a culture intimately connected with the natural world, where mastery of aerial environments shapes every aspect of social, spiritual, and practical life, creating a society that values freedom, skill, and harmony with atmospheric forces. ## Player-Facing Summary Aethermoor Wind Rider Traditions is a sky-borne element of the setting, known for brass fittings and cloudstone terraces. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Aethermoor Wind Rider Traditions as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aethermoor Wind Rider Traditions. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Strange accidents suggest a curse
 
 - Someone is blackmailing an heir for power

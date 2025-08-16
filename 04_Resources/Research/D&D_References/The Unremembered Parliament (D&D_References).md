@@ -2,7 +2,7 @@
 
 title: The Unremembered Parliament (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -79,7 +79,6 @@ The spirits cannot rest until their final legislation is properly addressed:
 3. Political crisis echoes historical patterns, drawing parallels
 4. Ancient corruption evidence needed for current investigation ## Potential Resolutions
 
-
 **Historical Justice**: Expose and address the original corruption
 **Democratic Reform**: Restore some form of representative government
 **Spiritual Peace**: Help spirits find closure and move on
@@ -87,7 +86,6 @@ The spirits cannot rest until their final legislation is properly addressed:
 **Supernatural Containment**: Seal chamber permanently to prevent problems ## DM Notes
 
 This location works well for political campaigns exploring themes of democracy, corruption, and historical truth. The supernatural elements add mystery while the political implications create ongoing consequences for character actions. ## Player-Facing Summary The Unremembered Parliament is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Unremembered Parliament as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Unremembered Parliament. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

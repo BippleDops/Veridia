@@ -2,7 +2,7 @@
 
 title: Field Operations Chief Marcus Healhand
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,10 +42,9 @@ updated: '2025-08-13T01:18:34.931206+00:00'
 
 - A map reveals a conspiracy about a local noble
 - Someone is blackmailing a witness for love
-- A stranger needs help stealing before the festival ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Investigate Shadow Surgeons (Criminal_Organizations)]]
+- A stranger needs help stealing before the festival ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Investigate Shadow Surgeons (Criminal_Organizations)
 
-- [[Investigate Shadow Surgeons]]
-
+- [Investigate Shadow Surgeons]]
 
 ## Notes
 

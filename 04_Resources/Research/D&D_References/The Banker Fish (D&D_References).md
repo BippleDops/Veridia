@@ -2,7 +2,7 @@
 
 title: The Banker Fish (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -130,7 +130,6 @@ The bank's central chamber is an impressive underwater atrium designed to inspir
 **International Clients**: Banking services for foreign individuals and organizations
 **Institutional Investors**: Services for large-scale investors and ficial institutions ### "The Banker Fish" - Chief Executive
 
-
 **Summary**: "The Banker Fish" - Chief Executive - Key information at a glance.
 
 *The legendary ficial genius whose identity remains partially mysterious* A brilliant ficial mind whose innovative approaches to underwater banking have revolutionized maritime commerce throughout the region. Known for their uncanny ability to predict market trends and their unwavering commitment to ficial security and customer service. **Leadership Qualities:**
@@ -249,12 +248,11 @@ The bank secretly coordinates with ficial institutions throughout the underwater
 - **Maritime Industry**: Supports shipping, exploration, and underwater development through specialized ficing
 - **Emergency Services**: Coordinates ficial aspects of disaster response and crisis management *The Aquatic Bank stands as the ficial heart of Aquabyssos, where the wisdom of the depths meets the precision of sound banking, and where every transaction flows with the reliability of the eternal tides, anchored in trust and guided by the currents of prosperity.* ## Player-Facing Summary The Banker Fish is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Banker Fish as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Banker Fish. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Hidden Prophecy of Shadows ## Plot Hooks - Someone is searching for information for power
 
-- A document has gone missing and truth emerges ## Related Notes - [[Similar Topic 1]]
+- A document has gone missing and truth emerges ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

@@ -1,22 +1,22 @@
 ---
 title: 11 References
 type: note
-tags:
+tags: 
 - auto-generated
-- [[Link]]ed
+- [[Linked
 created: '2025-01-15'
 ---
 
 # 11 References
 
 ## Overview
-This topic is referenced in [[VAULT_MASTER_INDEX]] and other parts of the campaign.
+This topic is referenced in [VAULT_MASTER_INDEX]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[VAULT_MASTER_INDEX]]
+- Referenced by: [[VAULT_MASTER_INDEX
 - Related topics in the same category
 
 ## Details
@@ -29,4 +29,4 @@ Further information about this topic will be developed as the campaign progresse
 
 ## References
 
-- [[VAULT_MASTER_INDEX]]
+- [VAULT_MASTER_INDEX]]

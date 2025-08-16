@@ -2,7 +2,7 @@
 
 title: Admiral Cordelia Tidewright (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,7 +42,6 @@ updated: '2025-08-13T01:18:35.721828+00:00'
 
 - A merchant needs help stealing before the new moon
 - Strange disappearances suggest a curse ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

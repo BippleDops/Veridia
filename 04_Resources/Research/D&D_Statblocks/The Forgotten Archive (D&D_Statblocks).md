@@ -2,7 +2,7 @@
 
 title: The Forgotten Archive (D&D_Statblocks)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -105,20 +105,20 @@ accessibility: screen_reader_summary: This lore entry explains a pivotal princip
 - Knowledge from iterations of reality that no longer exist ### The Nameless Librarians Beings who gave up their identities to serve the Archive: **Chief Archivist [FORGOTTEN]** (CR 16)
 
 *Medium aberration, true neutral* **Armor Class** 18 (forgotten ward)
-**Hit Points** 165 (22d8 + 66)
+**Hit Points** 165 (`dice: 22d8` + 66)
 **Speed** 30 ft., teleport 60 ft. (within Archive only) STR 10 (+0), DEX 16 (+3), CON 16 (+3), INT 25 (+7), WIS 20 (+5), CHA 8 (-1) **Saving Throws** Int +12, Wis +10
 **Skills** Arcana +17, History +17, Investigation +17
 **Damage Immunities** psychic
 **Condition Immunities** charmed, frightened
 **Senses** truesight 120 ft., passive Perception 15
 **Languages** All (including dead languages)
-**Challenge** 16 (15,000 XP) **Forgotten Existence.** The Archivist cannot be remembered. Creatures forget them 1 minute after interaction unless they pass a DC 20 Intelligence saving throw. **Living Index.** The Archivist knows the location and contents of every item in the Archive instantly. **Censorship Immunity.** The Archivist cannot be silenced, their words cannot be suppressed, and their knowledge cannot be stolen. **Actions**
-**Multiattack.** The Archivist makes three Forgotten Lore attacks. **Forgotten Lore.** *Ranged Spell Attack:* +12 to hit, range 120 ft., one target. *Hit:* 18 (4d8) psychic damage and the target must make a DC 20 Intelligence saving throw or forget one significant memory. **Restore the Erased (Recharge 5-6).** The Archivist can make one destroyed thing temporarily exist again for 1 hour. This can be a person, object, or even a concept. **Legendary Actions**
+**Challenge** 16 (15,000 XP) **Forgotten Existence.** The Archivist cannot be remembered. Creatures forget them 1 minute after interaction unless they pass a **DC 20** Intelligence saving throw. **Living Index.** The Archivist knows the location and contents of every item in the Archive instantly. **Censorship Immunity.** The Archivist cannot be silenced, their words cannot be suppressed, and their knowledge cannot be stolen. **Actions**
+**Multiattack.** The Archivist makes three Forgotten Lore attacks. **Forgotten Lore.** *Ranged Spell Attack:* +12 to hit, range 120 ft., one target. *Hit:* 18 (`dice: 4d8`) psychic damage and the target must make a **DC 20** Intelligence saving throw or forget one significant memory. **Restore the Erased (Recharge 5-6).** The Archivist can make one destroyed thing temporarily exist again for 1 hour. This can be a person, object, or even a concept. **Legendary Actions**
 
 The Archivist can take 3 legendary actions.
 - **Teleport.** Move anywhere within the Archive.
 - **Forget.** One creature within 60 feet forgets what they were doing.
-- **Remember (Costs 2 Actions).** Force a creature to remember something they've forgotten, dealing 27 (6d8) psychic damage. ### The Memory Moths Ethereal creatures that feed on forgotten thoughts:
+- **Remember (Costs 2 Actions).** Force a creature to remember something they've forgotten, dealing 27 (`dice: 6d8`) psychic damage. ### The Memory Moths Ethereal creatures that feed on forgotten thoughts:
 
 - Pollinate books with lost knowledge
 - Their dust causes temporary amnesia
@@ -221,18 +221,15 @@ A researcher in the Archive has discovered information that proves the current r
 3. Walk backward through it
 4. Don't remember entering ### The Burning Path
 
-
 1. Destroy something precious to you
 2. Follow its smoke as it drifts nowhere
 3. Close your eyes at the threshold
 4. Open them in the Archive ### The Memory Trade
 
-
 1. Offer a memory to the void
 2. Receive a forgotten key
 3. Use it on a lock that doesn't exist
 4. Enter through the absence ### Running the Archive **Information Control**:
-
 
 - Players learn truths that NPCs deny
 - Knowledge that contradicts established lore
@@ -252,10 +249,10 @@ A researcher in the Archive has discovered information that proves the current r
 - Origin of forgotten enemies
 - Solution to impossible problems Remember: Some knowledge is forgotten for good reason. --- ## See Also
 
-- [[The Memory Trade]]
-- [[Groups]]
-- [[Places]]
-- [[Memory_Mechanics]]
+- [[The Memory Trade
+- [Groups]]
+- [[Places
+- [Memory_Mechanics]]
 - [[Censorship Magic]] *"In the Forgotten Archive, every burning makes books eternal, every erasure makes memories permanent, and every forgetting makes truth undeniable."* ## Player-Facing Summary The Forgotten Archive is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Forgotten Archive as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Forgotten Archive. 
 
 ## Notes

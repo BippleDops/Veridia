@@ -3,29 +3,29 @@ created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
-tags:
-- [[Lore]]
-title: The [[Seven Shards Campaign]] Overview
+tags: 
+- [[Lore
+title: The [Seven Shards Campaign]] Overview
 type: lore
 updated: 2025-08-14
 ---
 
-# [[The Seven Shards]] Campaign Overview
+# [[The Seven Shards Campaign Overview
 
 ## Overview
-This document contains important information regarding The [[Seven Shards Campaign Overview]] and its role within the greater narrative.
+This document contains important information regarding The [Seven Shards Campaign Overview]] and its role within the greater narrative.
 
 ## Description
-[[Seven Shards Campaign]] Overview represents a significant element within the campaign world, offering various opportunities for engagement and development.
+[[Seven Shards Campaign Overview represents a significant element within the campaign world, offering various opportunities for engagement and development.
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: [[Link]]ed to multiple other elements
+- **Connections**: [Link]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-[[Historical Context]] and development over [[Time]].
+[[Historical Context and development over [Time]].
 
 ### Current State
 Present circumstances and ongoing relevance.
@@ -48,7 +48,6 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## [[DM_Notes]]
 *Customize as needed for your specific campaign requirements.*
-
 
 ## Merged Content from 01 Campaign Overview.md
 

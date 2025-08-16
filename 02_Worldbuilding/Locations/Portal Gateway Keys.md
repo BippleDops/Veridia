@@ -2,7 +2,7 @@
 
 title: Portal Gateway Keys
 type: Location
-tags:
+tags: 
 - content/location
 - place
 - world/aethermoor
@@ -222,11 +222,9 @@ Ongoing situations affecting Portal Gateway Keys:
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

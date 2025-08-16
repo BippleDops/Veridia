@@ -1,11 +1,11 @@
 ---
 tags: [generated, linked]
-created: 2025-08-15T12:34:11.168741
+created: "2025-08-15T12:34:11.168741"
 ---
 
-# Send Recap
+# [[Send Recap
 
-## Automation Tool
+## [Automation Tool]]
 
 ### Purpose
 Automates a specific game task.
@@ -34,3 +34,24 @@ Template for automated content
 
 ---
 *Automation ready*
+## [[Session Summary
+*Brief overview of this session*
+
+## [Key Events]]
+- Event 1
+- Event 2
+
+## NPCs Encountered
+- [[NPC [Name]] - Brief description
+
+## [[Locations Visited
+- [[[Location Name]]]] - What happened here
+
+## [[Quest Progress
+- [[[Quest Name]]]] - What was accomplished
+
+## Notes for [[Next Session]]
+- Important things to remember
+- Plot threads to follow up
+
+---

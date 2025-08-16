@@ -2,7 +2,7 @@
 created: '2025-08-12'
 created_by: claude
 status: complete
-tags:
+tags: 
 - aquabyssos
 - campaign/arc
 - complete
@@ -19,8 +19,6 @@ updated: '2025-08-13T12:34:16.841076+00:00'
 world: Aquabyssos
 ---
 
-
-
 # Temple of the Sunken Cathedral
 
 *"Where prayers flow upward and faith sinks down, where the sacred drowns in deeper truth."*
@@ -34,7 +32,7 @@ The Temple of the Sunken Cathedral serves as the primary worship site for the De
 ### The Inverted Spires
 The cathedral's seven spires extend both upward toward the surface and downward into the ocean floor simultaneously. These twin spires exist as single structures that somehow occupy space in opposite directions. Visitors swimming "up" along one spire will find themselves descending along its mirror image, while those descending find themselves ascending. The spires serve as dimensional anchors, allowing the cathedral to exist in the space between realities.
 
-**Navigation Effect**: Characters attempting to use the spires for orientation must make DC 18 Wisdom saves or become directionally confused, losing track of which way is up or down.
+**Navigation Effect**: Characters attempting to use the spires for orientation must make **DC 18** Wisdom saves or become directionally confused, losing track of which way is up or down.
 
 ### The Sanctuary of Flowing Space
 The main sanctuary measures precisely 200 feet long, 100 feet wide, and 50 feet high when viewed from outside. However, the interior contains over 3,000 square feet of floor space arranged in patterns that should be geometrically impossible. Pews are arranged in concentric circles around a central altar, yet each pew also faces toward the altar no matter which direction observers approach from.
@@ -73,21 +71,21 @@ The bell tower exists at the cathedral's highest point and lowest point simultan
 
 **The Saints**: Former clergy, scholars, and cult leaders who volunteered for complete transformation. Each statue weeps constantly, their tears joining the baptismal pool's water supply.
 
-**Interactive Elements**: Touching a statue allows communication with the saint's consciousness, providing advice, prophecy, or forbidden knowledge at the cost of 1d4 sanity per conversation.
+**Interactive Elements**: Touching a statue allows communication with the saint's consciousness, providing advice, prophecy, or forbidden knowledge at the cost of `dice: 1d4` sanity per conversation.
 
 ### The Scriptorium of Fluid Texts
 **Description**: A library chamber where books write themselves in real-time. The texts are composed of flowing water shaped into readable words that continuously change as Deep Mother's knowledge expands. Reading requires maintaining focus while the words literally flow across the page.
 
 **Collection**: Contains prophecies, rituals, philosophical treatises, and practical instructions for cult operations. New books spontaneously generate when specific knowledge becomes needed.
 
-**Reading Hazard**: Each book requires DC 15 Intelligence save to read effectively. Failure results in information overflow (1d6 sanity loss). Success grants advantage on one Knowledge-based roll within 24 hours.
+**Reading Hazard**: Each book requires **DC 15** Intelligence save to read effectively. Failure results in information overflow (`dice: 1d6` sanity loss). Success grants advantage on one Knowledge-based roll within 24 hours.
 
 ### The Chamber of Echoing Depths
 **Acoustic Properties**: This spherical chamber amplifies whispers into thunderous proclamations while reducing screams to gentle murmurs. The acoustic properties depend on the speaker's relationship to Deep Mother - cultists' words carry perfectly while opponents' voices are muffled.
 
 **Ritual Use**: Primary location for group chanting and harmonic ceremonies. When 49 cultists chant in unison here, their voices can influence weather patterns across both realms.
 
-**The Deep Resonance**: Once per day, a cultist of sufficient rank can use the chamber to speak directly with Deep Mother, receiving answers to three questions at the cost of 1d6 sanity per question.
+**The Deep Resonance**: Once per day, a cultist of sufficient rank can use the chamber to speak directly with Deep Mother, receiving answers to three questions at the cost of `dice: 1d6` sanity per question.
 
 ### The Transformation Pools
 **Layout**: Seven pools of varying sizes arranged around a central platform. Each pool contains different alchemical solutions designed to facilitate specific aspects of Deep Mother transformation.
@@ -101,12 +99,12 @@ The bell tower exists at the cathedral's highest point and lowest point simultan
 6. **Reality Perception Pool**: Enables sight beyond normal dimensions
 7. **Unity Preparation Pool**: Final stage before ego dissolution
 
-**Transformation Risk**: Each pool requires increasingly difficult Constitution saves (DC 12-25). Failure results in partial transformation that may be helpful or harmful depending on circumstances.
+**Transformation Risk**: Each pool requires increasingly difficult Constitution saves (**DC 12**-25). Failure results in partial transformation that may be helpful or harmful depending on circumstances.
 
 ### The Meditation Grottos
 **Structure**: Forty-nine small chambers carved into the cathedral's living walls. Each grotto is sized for one person and provides perfect acoustic isolation from the outside world while maintaining connection to Deep Mother's consciousness.
 
-**Meditation Effects**: Extended meditation (4+ hours) allows direct communication with Deep Mother but requires Wisdom saves (DC 18) to avoid losing one's sense of individual identity.
+**Meditation Effects**: Extended meditation (4+ hours) allows direct communication with Deep Mother but requires Wisdom saves (**DC 18**) to avoid losing one's sense of individual identity.
 
 **The Deep Trance**: Cultists who meditate here for 24 continuous hours may receive prophetic visions but risk never waking up, their consciousness joining the collective permanently.
 
@@ -192,10 +190,10 @@ Inner Circle members participate in educational experiences that can only be des
 ## Threats and Hazards
 
 ### Environmental Dangers
-- **Pressure Variations**: Interior pressure changes without warning (DC 15 CON save or suffer pressure sickness)
-- **Architectural Shifts**: Rooms may rearrange themselves (DC 18 WIS save or become lost)
+- **Pressure Variations**: Interior pressure changes without warning (**DC 15** CON save or suffer pressure sickness)
+- **Architectural Shifts**: Rooms may rearrange themselves (**DC 18** WIS save or become lost)
 - **Temporal Displacement**: Risk of experiencing events from different time periods
-- **Reality Bleeding**: Exposure to impossible architecture (1d4 sanity loss per hour)
+- **Reality Bleeding**: Exposure to impossible architecture (`dice: 1d4` sanity loss per hour)
 - **Deep Mother's Attention**: Being noticed by cosmic entity (varies, potentially campaign-ending)
 
 ### Security Measures
@@ -310,9 +308,9 @@ Official agencies suspect:
 ### Managing Sanity Loss
 The cathedral's impossible architecture should create steady sanity pressure:
 - General exposure: 1 sanity loss per hour of exploration
-- Specific chambers: Additional 1d4 loss for particularly disturbing areas
-- Ritual observation: 1d6 loss for witnessing ceremonies
-- Direct Deep Mother contact: 2d6+ loss depending on communication intensity
+- Specific chambers: Additional `dice: 1d4` loss for particularly disturbing areas
+- Ritual observation: `dice: 1d6` loss for witnessing ceremonies
+- Direct Deep Mother contact: `dice: 2d6`+ loss depending on communication intensity
 - Philosophical revelation: Variable loss based on character's worldview changes
 
 ### Balancing Threat and Information
@@ -333,10 +331,10 @@ When describing the cathedral's aberrant architecture:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
-- [[02_Worldbuilding/Places/Reality Breach Locations]]
-- [[03_Mechanics/Deep Mother Sanity System]]
-- [[02_Worldbuilding/Lore/The Deep Prophecies]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother
+- [02_Worldbuilding/Places/Reality Breach Locations]]
+- [[03_Mechanics/Deep Mother Sanity System
+- [02_Worldbuilding/Lore/The Deep Prophecies]]
 - Deep Mother Lore
 - [[02_Worldbuilding/Groups/High Oracle Serenity Deepcall]]
 - Brother Pelagios Irondeep
@@ -364,26 +362,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 
-
 ## Atmosphere
 - Mood and feeling
 - Sensory details
-
 
 ## Resources
 - Natural resources
 - Trade goods
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

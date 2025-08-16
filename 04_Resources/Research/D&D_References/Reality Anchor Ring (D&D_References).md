@@ -2,7 +2,7 @@
 
 title: Reality Anchor Ring (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,12 +42,11 @@ updated: '2025-08-13T01:18:35.340796+00:00'
 
 - A stranger needs help stealing before dawn
 - A letter reveals ancient history about the government
-- A journal reveals the truth about this place ## Related Notes - [[Similar Topic 1]]
+- A journal reveals the truth about this place ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]]
 
 ## Notes
 

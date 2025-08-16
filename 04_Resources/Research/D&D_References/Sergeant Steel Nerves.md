@@ -2,7 +2,7 @@
 
 title: Sergeant Steel Nerves
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -45,7 +45,6 @@ updated: '2025-08-13T01:18:34.753824+00:00'
 - Someone is hunting an heir for money
 - Someone is searching for a witness for revenge
 - A journal reveals ancient history about a local noble ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

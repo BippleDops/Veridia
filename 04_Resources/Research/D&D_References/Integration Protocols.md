@@ -2,7 +2,7 @@
 
 title: Integration Protocols
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,14 +42,13 @@ updated: '2025-08-13T01:18:35.047800+00:00'
 
 - The authorities needs help investigating before the new moon
 - A noble needs help stealing before dawn
-- A merchant needs help stealing before dawn ## Related Notes - [[Similar Topic 1]]
+- A merchant needs help stealing before dawn ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Shadow Vale (Criminal_Organizations)]]
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Shadow Vale (Criminal_Organizations)
 
-- [[Shadow Vale]]
-
+- [Shadow Vale]]
 
 ## Notes
 

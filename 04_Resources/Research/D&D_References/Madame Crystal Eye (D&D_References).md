@@ -2,7 +2,7 @@
 
 title: Madame Crystal Eye (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -41,7 +41,6 @@ updated: '2025-08-13T01:18:36.969412+00:00'
 
 - A shipment has gone missing and evil awakens
 - The authorities needs help delivering before winter ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

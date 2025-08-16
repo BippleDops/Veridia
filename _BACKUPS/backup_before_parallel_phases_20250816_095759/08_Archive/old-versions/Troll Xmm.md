@@ -1,0 +1,138 @@
+---
+
+title: Troll Xmm
+type: note
+tags:
+- note
+
+created: '2025-01-15'
+modified: '2025-01-15'
+
+--- > [!figure] Asset
+![](04_Resources/Assets/Creatures/creature-creature-troll-xmm-troll-xmm.png) # Troll Xmm ---
+
+## Description
+
+Detailed description pending.
+title: Troll Xmm
+aliases:
+- Troll
+
+type: monster
+tags:
+- both
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/environment/hill
+- ttrpg-cli/monster/environment/mountain
+- monster
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/giant
+- ttrpg-cli/monster/environment/swamp
+- world/both
+- active
+- campaign/arc
+- research
+- ttrpg-cli/monster/environment/forest
+- status/in-progress
+
+created: 2025-08-11
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-monster
+obsidian-u-i-mode: preview
+statblock: inline
+statblock-link: '#^statblock'
+updated: '2025-08-13T12:34:05.382003+00:00'
+world: Both
+
+--- > [!figure] Creature # [[Troll Xmm
+
+*Source: Monster Manual (2024) p. 310. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Troll *Loathsome, Regenerating Lurker* - **Habitat.** Arctic, Forest, Hill, Mountain, Swamp, Underdark - **Treasure.** None Trolls creep forth to prey on smaller creatures and drag captives back to festering lairs. These misshapen brutes can regenerate from wounds and regrow severed body parts—including their heads. A troll's severed limbs continue to move and attack. Unless they're burned by flames or acid, trolls can recover from egregious wounds and seek revenge on those who felled them. Trolls typically hunt alone, but small groups occasionally cooperate to ambush prey or raid villages. Creatures such as hags and hill giants might convince trolls to work for them in exchange for disgusting meals.```statblock
+
+"name": "Troll (XMM)"
+"size": "Large"
+"type": "giant"
+"alignment": "Chaotic Evil"
+"ac": !!int "15"
+"hp": !!int "94"
+"hit_dice": "`dice: 9d10` + 45"
+"modifier": !!int "1"
+"stats": - !!int "18" - !!int "13" - !!int "20" - !!int "7" - !!int "9"
+"speed": "30 ft."
+"skillsaves": - "name": "[skills#Perception|Perception]]" "desc": "+5"
+"senses": "darkvision 60 ft., passive Perception 15"
+"languages": "Giant"
+"cr": "5"
+"traits": - "desc": "If the troll ends any turn [[bloodied-xphb (variant-rules)\ \ and took 15+ Slashing damage during that turn, one of the troll's limbs is\ \ severed, falls into the troll's space, and becomes a [Troll Limb Xmm]].\ \ The limb acts immediately after the troll's turn. The troll has 1 [[conditions#Exhaustion|Exhaustion\ \ level for each missing limb, and it grows replacement limbs the next time\ \ it regains [hit-points-xphb (variant-rules)]]." "name": "Loathsome Limbs (4/Day)" - "desc": "The troll regains 15 [[hit-points-xphb (variant-rules)\ \ at the start of each of its turns. If the troll takes Acid or Fire damage,\ \ this trait doesn't function on the troll's next turn. The troll dies only\ \ if it starts its turn with 0 [hit-points-xphb (variant-rules)]]\ \ and doesn't regenerate." "name": "Regeneration"
+"actions": - "desc": "The troll makes three Rend attacks." "name": "Multiattack" - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 11 (`dice: 2d6` + 4) Slashing damage." "name": "Rend"
+"bonus_actions": - "desc": "The troll moves up to half its [[Fly Speed Xphb\ \ straight toward an enemy it can see." "name": "Charge"
+"source": - "XMM"
+"image": "/03_Mechanics/CLI/bestiary/giant/token/troll-xmm.webp"```^statblock ## Environment arctic, forest, hill, mountain, swamp, underdark ## Player-Facing Summary Troll xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of troll xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around troll xmm. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [06 Chapter 5 Construction Ahead]]
+
+- [[06-chapter-5-construction-ahead (hoard-of-the-dragon-queen)
+- [Annis Hag Mpmm]]
+- [[annis-hag-mpmm (fey)
+- [Troll Limb Xmm]]
+- [[troll-limb-xmm (giant)
+- [troll-xmm (giant)]]
+- [[Deck of Illusions Xdmg
+- [Deck of Illusions]]
+- [[deck-of-illusions (decks)
+- [deck-of-illusions-xdmg (decks)]]
+- [[Deck of Illusions Xdmg (items)
+- [deck-of-illusions-xdmg (items)]]
+- [[Arctic Encounters Levels 1116 Xge
+- [Arctic Encounters Levels 1720 Xge]]
+- [[Arctic Encounters Levels 510 Xge
+- [Creating a Gnoll War Band Gnoll War Band Special Creatures Vgm]]
+- [[Duergar Raiding Parties Duergar Special
+- [Forest Encounters Levels 1116 Xge]]
+- [[Forest Encounters Levels 1720 Xge
+- [Forest Encounters Levels 510 Xge]]
+- [[Hill Encounters Levels 1116 Xge
+- [Hill Encounters Levels 1720 Xge]]
+- [[Monsters by Habitat Arctic Monsters Xmm
+- [Monsters by Habitat Forest Monsters Xmm]]
+- [[Monsters by Habitat Hill Monsters Xmm
+- [Monsters by Habitat Mountain Monsters Xmm]]
+- [[Monsters by Habitat Swamp Monsters Xmm
+- [Monsters by Habitat Underdark Monsters Xmm]]
+- [[Mountain Encounters Levels 1116 Xge
+- [Mountain Encounters Levels 14 Xge]]
+- [[Mountain Encounters Levels 510 Xge
+- [Pets Beholder Greater Minions Vgm]]
+- [[Swamp Encounters Levels 1120 Xge
+- [Swamp Encounters Levels 14 Xge]]
+- [[Swamp Encounters Levels 510 Xge
+- [Underdark Encounters Levels 1116 Xge]]
+- [[Underdark Encounters Levels 1720 Xge
+- [arctic-encounters-levels-1116-xge (tables)]]
+- [[arctic-encounters-levels-1720-xge (tables)
+- [arctic-encounters-levels-510-xge (tables)]]
+- [[duergar-raiding-parties-duergar-special-allies-mtf
+- [forest-encounters-levels-1116-xge (tables)]]
+- [[forest-encounters-levels-1720-xge (tables)
+- [forest-encounters-levels-510-xge (tables)]]
+- [[hill-encounters-levels-1116-xge (tables)
+- [hill-encounters-levels-1720-xge (tables)]]
+- [[monsters-by-habitat-arctic-monsters-xmm (tables)
+- [monsters-by-habitat-forest-monsters-xmm (tables)]]
+- [[monsters-by-habitat-hill-monsters-xmm (tables)
+- [monsters-by-habitat-mountain-monsters-xmm (tables)]]
+- [[monsters-by-habitat-swamp-monsters-xmm (tables)
+- [monsters-by-habitat-underdark-monsters-xmm (tables)]]
+- [[mountain-encounters-levels-1116-xge (tables)
+- [mountain-encounters-levels-14-xge (tables)]]
+- [[mountain-encounters-levels-510-xge (tables)
+- [pets-beholder-greater-minions-vgm (tables)]]
+- [[swamp-encounters-levels-1120-xge (tables)
+- [swamp-encounters-levels-14-xge (tables)]]
+- [[swamp-encounters-levels-510-xge (tables)
+- [underdark-encounters-levels-1116-xge (tables)]]
+- [[underdark-encounters-levels-1720-xge (tables)]]
+
+## Notes
+
+*Additional notes*

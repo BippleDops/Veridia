@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - both
 - complete
 - content/lore
@@ -13,14 +13,9 @@ updated: '2025-08-13T12:34:16.066646+00:00'
 world: Both
 ---
 
-
-
-
-
 ## Cross-References
 
 - Legal System Of Aquabyssos
-
 
 ## Connections
 

@@ -2,7 +2,7 @@
 
 title: Find the Shadow Cure (D&D_Statblocks)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -66,7 +66,6 @@ A virulent shadow corruption is spreading through Aquabyssos, causing victims to
 4. **Victim Interviews** - Learning from those still coherent
 5. **Religious Consultation** - Divine insights into darkness/light balance ## The Source
 
-
 Corruption originates from ancient shadow artifact accidentally disturbed during construction. Must be properly sealed or destroyed. ## Cure Creation
 
 Completed cure requires master-level alchemy check and ritual casting involving all party members and willing volunteers. ## DM Notes
@@ -76,7 +75,6 @@ Emphasize research and preparation over combat. The quest rewards careful invest
 - An heirloom has gone missing and war looms
 - Strange accidents suggest a curse
 - Strange accidents suggest ancient magic ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

@@ -300,7 +300,6 @@ world: Both
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes ## Secret Connections *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession ## Prophecy Connection Mentioned in The Second Prophecy of Winds ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
-
 ## Notes
 
 *Additional notes*

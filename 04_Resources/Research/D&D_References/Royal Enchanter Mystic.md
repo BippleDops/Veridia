@@ -3,7 +3,7 @@ enhanced: true
 
 title: Royal Enchanter Mystic
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -47,7 +47,6 @@ updated: '2025-08-13T01:18:34.541382+00:00'
 > 🎮 **Strategy**: How to approach this content
 
 > Work together and communicate ## References - [[Master Smith Vulcan Deepforge]]
-
 
 ## Notes
 

@@ -2,7 +2,7 @@
 
 title: Depth Walker Zephys
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,12 +42,11 @@ updated: '2025-08-13T01:18:34.943770+00:00'
 
 - Strange sightings suggest a portal
 - Someone is protecting an heir for revenge
-- Strange accidents suggest ancient magic ## Related Notes - [[Similar Topic 1]]
+- Strange accidents suggest ancient magic ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[The Depth Accords (D&D_References)]]
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[The Depth Accords (D&D_References)]]
 
 ## Notes
 

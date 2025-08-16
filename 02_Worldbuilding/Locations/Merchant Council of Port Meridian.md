@@ -1,11 +1,11 @@
 ---
 
-title: [[Merchant]] Council of [[Port Meridian]]
-type: [[location]]
-tags:
+title: [[Merchant Council of [Port Meridian]]
+type: [[location
+tags: 
 - content/location
 - place
-- world/[[Aethermoor]]
+- world/[Aethermoor]]
 - active
 - location
 - complete
@@ -14,7 +14,7 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-[[region]]: Unknown
+[[region: Unknown
 population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:16.623772+00:00'
@@ -37,7 +37,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -83,20 +83,20 @@ improvements: 20
 
 Merchant Council of Port Meridian is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## [[Lore]] Details
+## [[Lore Details
 
 Legends speak of Merchant Council of Port Meridian as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Merchant Council of Port Meridian.
 
-### [[Key Locations]]
+### [Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [map]] use.
 
 ## Sensory Details
 
@@ -129,7 +129,7 @@ Merchant Council of Port Meridian is a notable location characterized by its uni
 
 ## Connections
 - **North**: Trade road to neighboring settlement
-- **South**: [[path]] through wilderness
+- **South**: [[path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
 
@@ -203,19 +203,16 @@ Ongoing situations affecting Merchant Council of Port Meridian:
 
 ## References
 
-- [[Port Meridian - Merchant Quarter]]
+- [Port Meridian - Merchant Quarter]]
 - [[Port Meridian - Merchant Quarter (D&D_References)]]
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

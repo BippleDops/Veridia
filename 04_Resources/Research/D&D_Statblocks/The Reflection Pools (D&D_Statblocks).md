@@ -2,7 +2,7 @@
 
 title: The Reflection Pools (D&D_Statblocks)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -128,14 +128,14 @@ Reaching the Reflection Pools requires navigating the Corridor of Choices, a win
 
 Leader of the Order, who exists in twelve possible versions simultaneously: **Serendipity Twelve-Lives** (CR 15)
 *Medium humanoid (human), true neutral* **Armor Class** 15 (foresight)
-**Hit Points** 135 (18d8 + 54)
+**Hit Points** 135 (`dice: 18d8` + 54)
 **Speed** 30 ft., swim 30 ft. STR 9 (-1), DEX 14 (+2), CON 16 (+3), INT 20 (+5), WIS 24 (+7), CHA 18 (+4) **Saving Throws** Int +10, Wis +12, Cha +9
 **Skills** Arcana +10, History +10, Insight +17, Perception +12, Religion +10
 **Damage Resistances** psychic
 **Condition Immunities** surprised
 **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 22
 **Languages** All
-**Challenge** 15 (13,000 XP) **Twelve-Fold Existence.** Serendipity exists in twelve parallel versions. When she would take damage, roll a d12. On a 12, the damage happens to a different version and she takes no damage. **Probability Sight.** Serendipity can see all possible actions a creature might take in the next minute. She has advantage on all saving throws and cannot be surprised. **Quantum Uncertainty.** Serendipity's exact position is uncertain. Attack rolls against her have disadvantage. **Spellcasting.** Serendipity is an 18th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 20, +12 to hit with spell attacks). She has the following spells prepared: Cantrips (at will): *guidance*, *mending*, *sacred flame*, *spare the dying*, *thaumaturgy*
+**Challenge** 15 (13,000 XP) **Twelve-Fold Existence.** Serendipity exists in twelve parallel versions. When she would take damage, roll a d12. On a 12, the damage happens to a different version and she takes no damage. **Probability Sight.** Serendipity can see all possible actions a creature might take in the next minute. She has advantage on all saving throws and cannot be surprised. **Quantum Uncertainty.** Serendipity's exact position is uncertain. Attack rolls against her have disadvantage. **Spellcasting.** Serendipity is an 18th-level spellcaster. Her spellcasting ability is Wisdom (spell save **DC 20**, +12 to hit with spell attacks). She has the following spells prepared: Cantrips (at will): *guidance*, *mending*, *sacred flame*, *spare the dying*, *thaumaturgy*
 1st level (4 slots): *bless*, *command*, *detect magic*, *identify*
 2nd level (3 slots): *augury*, *calm emotions*, *detect thoughts*, *see invisibility*
 3rd level (3 slots): *clairvoyance*, *dispel magic*, *speak with dead*
@@ -145,7 +145,7 @@ Leader of the Order, who exists in twelve possible versions simultaneously: **Se
 7th level (1 slot): *etherealness*, *plane shift*
 8th level (1 slot): *antimagic field*, *feeblemind*
 9th level (1 slot): *foresight*, *time stop* **Actions**
-**Multiattack.** Serendipity makes two Possibility Strike attacks. **Possibility Strike.** *Melee Spell Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 22 (5d8) force damage, and the target must succeed on a DC 20 Wisdom saving throw or be stunned as they experience all possible outcomes of the attack simultaneously. **Show the Paths (Recharge 5-6).** Serendipity forces a creature within 60 feet to see all their possible futures at once. The target must make a DC 20 Wisdom saving throw. On a failure, they take 55 (10d10) psychic damage and are paralyzed for 1 minute as they process infinite possibilities. On a success, they take half damage and gain advantage on all rolls for 1 minute as they see the optimal path. **Legendary Actions**
+**Multiattack.** Serendipity makes two Possibility Strike attacks. **Possibility Strike.** *Melee Spell Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 22 (`dice: 5d8`) force damage, and the target must succeed on a **DC 20** Wisdom saving throw or be stunned as they experience all possible outcomes of the attack simultaneously. **Show the Paths (Recharge 5-6).** Serendipity forces a creature within 60 feet to see all their possible futures at once. The target must make a **DC 20** Wisdom saving throw. On a failure, they take 55 (`dice: 10d10`) psychic damage and are paralyzed for 1 minute as they process infinite possibilities. On a success, they take half damage and gain advantage on all rolls for 1 minute as they see the optimal path. **Legendary Actions**
 
 Serendipity can take 3 legendary actions, choosing from the options below.
 - **Glimpse.** Serendipity learns one possible action a creature within 60 feet might take.
@@ -166,21 +166,20 @@ Beings pulled from the pools—versions that could have been:
 
 Elemental beings of crystallized possibility: **Possibility Elemental** (CR 9)
 *Large elemental, unaligned* **Armor Class** 16 (natural armor)
-**Hit Points** 114 (12d10 + 48)
+**Hit Points** 114 (`dice: 12d10` + 48)
 **Speed** 40 ft., swim 40 ft. STR 18 (+4), DEX 14 (+2), CON 18 (+4), INT 10 (+0), WIS 15 (+2), CHA 12 (+1) **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 **Damage Immunities** poison
 **Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious
 **Senses** darkvision 60 ft., passive Perception 12
 **Languages** Aquan, Primordial
 **Challenge** 9 (5,000 XP) **Quantum Form.** The elemental exists in multiple states simultaneously. When it takes damage, roll a d6. On a 6, the damage happens to an alternate version and the elemental takes no damage. **Probability Aura.** Creatures within 10 feet of the elemental have disadvantage on attack rolls as their actions become uncertain. **Actions**
-**Multiattack.** The elemental makes two slam attacks. **Slam.** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 17 (3d8 + 4) bludgeoning damage plus 9 (2d8) force damage. **Possibility Storm (Recharge 5-6).** The elemental creates a 20-foot radius storm of conflicting realities. Each creature in the area must make a DC 16 Wisdom saving throw. On a failure, a creature takes 36 (8d8) psychic damage and rolls on the Possibility Storm table. On a success, they take half damage and no additional effect. **Possibility Storm Table (d6)**
+**Multiattack.** The elemental makes two slam attacks. **Slam.** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 17 (`dice: 3d8` + 4) bludgeoning damage plus 9 (`dice: 2d8`) force damage. **Possibility Storm (Recharge 5-6).** The elemental creates a 20-foot radius storm of conflicting realities. Each creature in the area must make a **DC 16** Wisdom saving throw. On a failure, a creature takes 36 (`dice: 8d8`) psychic damage and rolls on the Possibility Storm table. On a success, they take half damage and no additional effect. **Possibility Storm Table (d6)**
 1. Creature exchanges positions with another random creature in the storm
-2. Creature ages 1d10 years or becomes 1d10 years younger (50% chance each)
+2. Creature ages `dice: 1d10` years or becomes `dice: 1d10` years younger (50% chance each)
 3. Creature's alignment shifts one step in a random direction for 1 hour
 4. Creature forgets the last 24 hours
 5. Creature gains a random memory from another creature in the storm
 6. Creature splits into two versions for 1 minute (both controlled by player, but only one remains when effect ends) ### Standard Consultations **Simple Question** (100 gp)
-
 
 - One yes/no question about probability
 - 60% accurate
@@ -193,7 +192,7 @@ Elemental beings of crystallized possibility: **Possibility Elemental** (CR 9)
 - Requires Wisdom save or gain short-term madness **Life Reflection** (10,000 gp)
 - Complete view of all unchosen possibilities
 - 100% accurate but dangerous
-- Requires Wisdom save (DC 20) or gain long-term madness ### Forbidden Services **Timeline Theft** (Priceless)
+- Requires Wisdom save (**DC 20**) or gain long-term madness ### Forbidden Services **Timeline Theft** (Priceless)
 
 - Steal an outcome from another possibility
 - Replaces current reality with alternative
@@ -204,7 +203,6 @@ Elemental beings of crystallized possibility: **Possibility Elemental** (CR 9)
 - See reality from divine perspective
 - Understand all possibilities simultaneously
 - No mortal mind can survive intact ## Random Encounters (d20) | Roll | Encounter |
-
 
 |------|-----------|
 | 1-2 | Mirror Novice offers cryptic advice |
@@ -218,7 +216,6 @@ Elemental beings of crystallized possibility: **Possibility Elemental** (CR 9)
 | 17-18 | Rival adventuring party that could have existed |
 | 19 | The pools all show the same terrible future |
 | 20 | A god's reflection emerges from pool | ### Gazing Into Pools **Duration and Effects Table** | Time Gazing | Effect | Save DC |
-
 
 |-------------|--------|---------|
 | 1 round | See one possibility | None |
@@ -284,10 +281,10 @@ Each prophecy made drains possibility from the future, making reality more rigid
 - Large paradoxes require divine intervention
 - Campaign-ending paradoxes should be telegraphed ## See Also
 
-- [[Groups]]
-- [[02_Worldbuilding]]
-- [[Places]]
-- [[Divination_Expanded]]
+- [[Groups
+- [02_Worldbuilding]]
+- [[Places
+- [Divination_Expanded]]
 - [[Temporal_Mechanics_System]] *"In the Reflection Pools, every maybe becomes a mirror, and every mirror tells a truth that never was."* ## Player-Facing Summary The Reflection Pools is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Reflection Pools as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Reflection Pools. ## Plot Hooks - Someone is protecting an heir for money
 
 - A prisoner has gone missing and chaos spreads

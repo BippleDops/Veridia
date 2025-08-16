@@ -2,7 +2,7 @@
 
 title: Prep Note (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -49,7 +49,6 @@ Prep Note describes a turning current in history where choices about memory, dep
 
 - Someone is protecting a witness for money
 - A merchant needs help delivering before dawn ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

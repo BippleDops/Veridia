@@ -2,7 +2,7 @@
 
 title: Bio Tech Supervisor Reef Lifeweaver
 type: Location
-tags:
+tags: 
 - aquabyssos
 - world/aquabyssos
 - content/location
@@ -230,11 +230,9 @@ Key stop on magic items trade route
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

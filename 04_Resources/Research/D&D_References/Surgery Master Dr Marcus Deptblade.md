@@ -2,7 +2,7 @@
 
 title: Surgery Master Dr Marcus Deptblade
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -46,7 +46,6 @@ world: Aquabyssos
 
 - The authorities needs help delivering before dawn
 - A document has gone missing and chaos spreads ## References - [[Item Template]]
-
 
 ## Notes
 

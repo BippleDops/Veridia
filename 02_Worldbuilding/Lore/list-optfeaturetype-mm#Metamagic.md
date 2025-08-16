@@ -1,16 +1,16 @@
 ---
-title: list-optfeaturetype-mm#Metamagic
+title: "list-optfeaturetype-mm#Metamagic"
 type: note
-tags:
+tags: 
 - auto-generated
-- [[Link]]ed
+- [[Linked
 created: '2025-01-15'
 ---
 
 # list-optfeaturetype-mm#Metamagic
 
 ## Overview
-This topic is referenced in [[05_Rules/Character Classes]] and other parts of the campaign.
+This topic is referenced in [05_Rules/Character Classes]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.

@@ -1,22 +1,22 @@
 ---
 title: Coastal Ports
 type: note
-tags:
+tags: 
 - auto-generated
-- [[Link]]ed
+- [[Linked
 created: '2025-01-15'
 ---
 
 # Coastal Ports
 
 ## Overview
-This topic is referenced in [[Location_Network_Graph.md]] and other parts of the campaign.
+This topic is referenced in [Location_Network_Graph.md]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Location_Network_Graph.md]]
+- Referenced by: [[Location_Network_Graph.md
 - Related topics in the same category
 
 ## Details
@@ -29,7 +29,7 @@ Further information about this topic will be developed as the campaign progresse
 
 ## References
 
-- [[Clues by Location (Lore)]]
-- [[Clues_by_Location.png]]
-- [[Create_New_Location.png]]
+- [Clues by Location (Lore)]]
+- [[Clues_by_Location.png
+- [Create_New_Location.png]]
 - [[Location_Network_Graph.md]]

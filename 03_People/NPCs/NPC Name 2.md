@@ -1,8 +1,8 @@
 ---
 enhanced: true
 tags: [enhanced, 03_people]
-created: 2025-08-15T12:24:41.264405
-modified: 2025-08-15T12:24:41.264409
+created: "2025-08-15T12:24:41.264405"
+modified: "2025-08-15T12:24:41.264409"
 aliases: [NPC Name 2]
 ---
 
@@ -25,7 +25,7 @@ type: note
 tags:
 - auto-generated
 - linked created: '2025-01-15'
-- -- # NPC Name 2 ## Portrait![[Npc|Npc]] * Portrait reference for NPC Name 2* ## Overview This topic is referenced in [[Information Exchange|Information Exchange]] and other parts of the campaign. ## Description
+- -- # NPC Name 2 ## Portrait![[Npc|Npc * Portrait reference for NPC Name 2* ## Overview This topic is referenced in [Information Exchange|Information Exchange]] and other parts of the campaign. ## Description
 
 **Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. An important element of the campaign world that connects to various other aspects of the adventure.
 *The air carries the scent of [appropriate smell].* ## Connections - Referenced by: [[Information Exchange|Information Exchange]]
@@ -43,7 +43,7 @@ tags:
 - Similar topics
 - Connected elements ## Alternate Descriptions - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
-- **Hidden Details**: Secret aspects ## References - [[Assets Symbols Symbol Heraldry Information Exchange Information Exchange.svg|Assets Symbols Symbol Heraldry Information Exchange Information Exchange.Svg]] - [[NPC Name 2_Quick_Ref|Npc Name 2 Quick Ref]] ## Notes {#notes} *Additional notes* #mechanics/combat
+- **Hidden Details**: Secret aspects ## References - [[Assets Symbols Symbol Heraldry Information Exchange Information Exchange.svg|Assets Symbols Symbol Heraldry Information Exchange Information Exchange.Svg - [NPC Name 2_Quick_Ref|Npc Name 2 Quick Ref]] ## Notes {#notes} *Additional notes* #mechanics/combat
 #story/plot
 #story/story
 #world/world
@@ -64,12 +64,10 @@ tags:
 - Hidden knowledge
 - Personal mysteries
 
-
 **Key Question**: What drives this character's actions?
 ## DM Guidance
 - **Usage**: How to best utilize this in your campaign
 - **Adaptation**: Ways to modify for your needs
 - **Connections**: How this links to other elements
-
 
 *What happens next is up to you.*

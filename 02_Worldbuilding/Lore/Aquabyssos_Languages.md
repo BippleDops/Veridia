@@ -1,8 +1,8 @@
 ---
 
-title: [[Aquabyssos]]_Languages
-type: [[Lore]]
-tags:
+title: [[Aquabyssos_Languages
+type: [Lore]]
+tags: 
 - lore
 - worldbuilding
 - prophecy
@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -38,7 +38,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[region]]s
+- Describe how this culture exists in other [region]]s
 
 ### Hospitality Improvements
 
@@ -68,7 +68,7 @@ Aquabyssos_Languages represents a crucial aspect of the world's history, cosmolo
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -83,12 +83,12 @@ Aquabyssos_Languages represents a crucial aspect of the world's history, cosmolo
 - The authorities needs help investigating before the new moon
 - A stranger needs help stealing before the festival
 
-## Historical [[Time|[[Time]]line]]
+## Historical [[Time|[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[People]]s
+- War with indigenous [[Peoples
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -98,7 +98,7 @@ Aquabyssos_Languages represents a crucial aspect of the world's history, cosmolo
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current [[Power Structures]] established
+- Current [Power Structures]] established
 
 ## Economic Structure
 

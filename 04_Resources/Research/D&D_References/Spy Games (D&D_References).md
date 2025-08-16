@@ -2,7 +2,7 @@
 
 title: Spy Games (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -132,11 +132,9 @@ Someone is selling state secrets to foreign powers, but the spy network has beco
 3. Accidental discovery of espionage operation
 4. Previous adventure consequences create intelligence interest ## DM Notes
 
-
 Spy Games emphasizes roleplay, investigation, and moral choices over combat. Keep players uncertain about NPC loyalties. Use revealed information to drive future storylines and create complex political situations. ## Player-Facing Summary Spy Games is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Spy Games as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Spy Games. ## Related *Links to related content will be added here.* ## Plot Hooks - Strange sightings suggest a curse
 
 - A noble needs help delivering before winter ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

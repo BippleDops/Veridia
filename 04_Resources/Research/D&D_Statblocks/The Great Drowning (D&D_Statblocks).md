@@ -2,7 +2,7 @@
 
 title: The Great Drowning (D&D_Statblocks)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -71,7 +71,6 @@ On the 13th day of the Tide Month, the ritual went catastrophically wrong:
 6. **Hour 19**: Thalassopolis completely submerged
 7. **Hour 24**: Planar breach stabilized into current maelstrom ### The Depth Guard
 
-
 **Commander**: Captain Theron Voidwatcher
 - **Force Size**: 200 elite soldiers
 - **Rotation**: 3-month tours (longer causes madness)
@@ -79,14 +78,14 @@ On the 13th day of the Tide Month, the ritual went catastrophically wrong:
 - **Mission**: Prevent access, monitor phenomena, rescue the lost **Depth Guard Veteran** (CR 7)
 
 *Medium humanoid (any race), lawful neutral* **Armor Class** 17 (pressure armor)
-**Hit Points** 78 (12d8 + 24)
+**Hit Points** 78 (`dice: 12d8` + 24)
 **Speed** 30 ft., swim 30 ft. STR 16 (+3), DEX 14 (+2), CON 14 (+2), INT 12 (+1), WIS 15 (+2), CHA 11 (+0) **Saving Throws** Str +6, Con +5, Wis +5
 **Skills** Athletics +6, Perception +5, Survival +5
 **Damage Resistances** psychic
 **Senses** darkvision 60 ft., passive Perception 15
 **Languages** Common, Aquan, Deep Speech
 **Challenge** 7 (2,900 XP) **Depth Training.** The guard has advantage on saving throws against madness and temporal effects. **Reality Anchor.** The guard cannot be teleported or plane shifted against their will. **Actions**
-**Multiattack.** The guard makes three trident attacks. **Pressure Trident.** *Melee or Ranged Weapon Attack:* +6 to hit, reach 5 ft. Or range 20/60 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage plus 3 (1d6) force damage. **Depth Charge (Recharge 5-6).** The guard throws an explosive that detonates in water. Each creature within 20 feet must make a DC 14 Constitution saving throw, taking 28 (8d6) thunder damage on a failed save, or half as much on a successful one. ### The Echo Shepherds
+**Multiattack.** The guard makes three trident attacks. **Pressure Trident.** *Melee or Ranged Weapon Attack:* +6 to hit, reach 5 ft. Or range 20/60 ft., one target. *Hit:* 10 (`dice: 2d6` + 3) piercing damage plus 3 (`dice: 1d6`) force damage. **Depth Charge (Recharge 5-6).** The guard throws an explosive that detonates in water. Each creature within 20 feet must make a **DC 14** Constitution saving throw, taking 28 (`dice: 8d6`) thunder damage on a failed save, or half as much on a successful one. ### The Echo Shepherds
 
 Mysterious beings that emerged from the maelstrom, appearing as translucent humanoids:
 - Guide lost souls through the memory rings
@@ -101,19 +100,19 @@ Survivors of Thalassopolis transformed by the planar energies:
 - Trade information for offerings thrown into the maelstrom **Remt of Thalassopolis** (CR 5)
 
 *Medium elemental, neutral* **Armor Class** 14 (natural armor)
-**Hit Points** 68 (8d8 + 32)
+**Hit Points** 68 (`dice: 8d8` + 32)
 **Speed** 20 ft., swim 60 ft. STR 14 (+2), DEX 16 (+3), CON 18 (+4), INT 11 (+0), WIS 13 (+1), CHA 15 (+2) **Damage Resistances** acid, fire; bludgeoning, piercing, and slashing from nonmagical attacks
 **Damage Immunities** poison
 **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 **Senses** darkvision 60 ft., passive Perception 11
 **Languages** Aquan, Common (fragmented)
 **Challenge** 5 (1,800 XP) **Fragmented Memory.** The remt has disadvantage on Intelligence checks but advantage on saving throws against being charmed. **Water Form.** The remt can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing. **Actions**
-**Multiattack.** The remt makes two slam attacks. **Slam.** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage. **Memory Flood (Recharge 5-6).** The remt forces a target within 30 feet to experience fragments of Thalassopolis's destruction. The target must make a DC 14 Wisdom saving throw or be stunned for 1 minute as they experience the memories. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. ### The Archive Stones
+**Multiattack.** The remt makes two slam attacks. **Slam.** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (`dice: 2d8` + 4) bludgeoning damage. **Memory Flood (Recharge 5-6).** The remt forces a target within 30 feet to experience fragments of Thalassopolis's destruction. The target must make a **DC 14** Wisdom saving throw or be stunned for 1 minute as they experience the memories. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. ### The Archive Stones
 
 Thirteen massive obsidian pillars that orbit the maelstrom:
 - Each contains the final thoughts of one of the thirteen archmages
-- Reading them requires a DC 20 Arcana check
-- Success grants insight but forces a Wisdom saving throw (DC 15) or gain a form of indefinite madness
+- Reading them requires a **DC 20** Arcana check
+- Success grants insight but forces a Wisdom saving throw (**DC 15**) or gain a form of indefinite madness
 - Destroying one might weaken the maelstrom—or make it worse ### The Tide Calendar
 
 A temporal anomaly where past, present, and future overlap:
@@ -128,13 +127,12 @@ Crystallized tears of the victims form underwater gardens:
 - Some crystals grant knowledge or skills temporarily
 - Others inflict curses or madness ## Random Encounters (d20) | Roll | Encounter |
 
-
 |------|-----------|
 | 1-2 | Depth Guard patrol investigating disturbance |
 | 3-4 | Echo Shepherd leading phantom procession |
 | 5-6 | Remt seeking news of descendants |
 | 7-8 | Time loop—party encounters themselves from 1 hour ago |
-| 9-10 | Memory crystal storm (1d6 psychic damage per round) |
+| 9-10 | Memory crystal storm (`dice: 1d6` psychic damage per round) |
 | 11-12 | Planar rift opens briefly to Elemental Plane of Water |
 | 13-14 | Ghost ship from Thalassopolis emerges, crew unaware they're dead |
 | 15-16 | Temporal echo of the original catastrophe (illusion) |
@@ -166,9 +164,9 @@ Devices that protect against time distortion:
 
 *Wondrous item, very rare (requires attunement)* This spiral shell constantly drips with water that never runs dry. While attuned:
 - You can breathe underwater and have swim speed equal to walking speed
-- Once per day, can summon 1d4 Remts of Thalassopolis for 1 hour
+- Once per day, can summon `dice: 1d4` Remts of Thalassopolis for 1 hour
 - Can hear whispers from the Great Drowning regardless of distance
-- Cursed: Must make DC 15 Wisdom save each dawn or be compelled to visit the Great Drowning ### Campaign Integration
+- Cursed: Must make **DC 15** Wisdom save each dawn or be compelled to visit the Great Drowning ### Campaign Integration
 
 The Great Drowning serves as:
 - A cautionary tale about magical hubris
@@ -177,12 +175,11 @@ The Great Drowning serves as:
 - A gateway to other planes or times
 - The Deep Mother's potential emergence point --- ## See Also
 
-- [[Deep Mother|02 Worldbuilding/Lore/Deep Mother]]
-- [[Places]]
-- [[Depth Guard|02 Worldbuilding/Lore/Depth Guard]]
-- [[02_Worldbuilding]]
+- [[Deep Mother|02 Worldbuilding/Lore/Deep Mother
+- [Places]]
+- [[Depth Guard|02 Worldbuilding/Lore/Depth Guard
+- [02_Worldbuilding]]
 - [[Temporal_Mechanics_System]] *"In the depths of the Great Drowning, yesterday screams, today weeps, and tomorrow drowns."* ## Player-Facing Summary The Great Drowning is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Great Drowning as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Great Drowning. ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

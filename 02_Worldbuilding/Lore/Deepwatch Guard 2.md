@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/lore
@@ -14,13 +14,8 @@ updated: '2025-08-13T12:34:16.142250+00:00'
 world: Aquabyssos
 ---
 
-
-
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-the-deepwatch-guard-the-deepwatch-guard.svg)
-
-
 
 ## Overview
 

@@ -2,7 +2,7 @@
 
 title: Dawn-Echo Sentinel
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -53,16 +53,14 @@ Active from dawn to dusk, dormant during nighttime hours. ## Adventure Hooks
 2. **Construction Mission**: Install new sentinel in dangerous area
 3. **Stealth Challenge**: Bypass sentinel detection during infiltration ## Campaign Use
 
+Provides area defense, patrol encounters, and technological mystery elements. ## Player-Facing Summary Dawn Echo Sentinel is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Dawn Echo Sentinel as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Dawn Echo Sentinel. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes ## Related Notes - [[Similar Topic 1
 
-Provides area defense, patrol encounters, and technological mystery elements. ## Player-Facing Summary Dawn Echo Sentinel is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Dawn Echo Sentinel as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Dawn Echo Sentinel. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes ## Related Notes - [[Similar Topic 1]]
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## References - [[Comprehensive-World-Connection-Guide
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## References - [[Comprehensive-World-Connection-Guide]]
-
-- [[Comprehensive-World-Connection-Guide (D&D_References)]]
+- [Comprehensive-World-Connection-Guide (D&D_References)]]
 - [[Comprehensive-World-Connection-Guide 3 (D&D_References)]]
-
 
 ## Notes
 

@@ -2,7 +2,7 @@
 
 title: Deep Mother Influence (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -221,21 +221,20 @@ Characters accumulate influence points based on exposure:
 **Stage 5** (100+ points): Complete corruption, NPC status, serves as Deep Mother agent ### Resistance Mechanics
 
 **Saving Throws:**
-- **Wisdom saves** against psychological influence (DC 10 + current influence level)
-- **Constitution saves** against physical transformation (DC 12 + current influence level)
-- **Charisma saves** against social isolation effects (DC 8 + current influence level) **Protective Factors:**
+- **Wisdom saves** against psychological influence (**DC 10** + current influence level)
+- **Constitution saves** against physical transformation (**DC 12** + current influence level)
+- **Charisma saves** against social isolation effects (**DC 8** + current influence level) **Protective Factors:**
 - **Strong social connections**: Advantage on resistance saves
 - **Religious faith**: +2 to Wisdom saves against influence
 - **Magical wards**: Reduce influence accumulation by 50%
 - **Professional training**: Intelligence bonus applies to resistance saves
 - **Regular surface exposure**: Remove 1 influence point per week above 100m depth ### Treatment Options
 
-**Purification Rituals** (DC 15 + influence level, removes 2d4 points)
-**Medical Treatment** (DC 12 + influence level, removes 1d3 points)
-**Magical Intervention** (DC 18 + influence level, removes 3d6 points)
-**Social Rehabilitation** (DC 10 + influence level, prevents accumulation for 1 month)
-**Technological Cleansing** (DC 20 + influence level, removes all points but causes exhaustion) ## Long-term Implications The Deep Mother's influence represents both the greatest threat and potentially the greatest opportunity facing Aquabyssos. While the corruption undermines individual autonomy and social stability, the adaptations it provides may be essential for humanity's continued evolution in the deep ocean environment. The challenge for Aquabyssos's leaders is determining how to harness the beneficial aspects of the influence while preventing the loss of human agency and cultural identity. As the influence continues to spread and evolve, future generations may face a choice between remaining purely human but increasingly unable to survive in the deepest parts of their world, or accepting transformation that grants survival at the cost of independence. The resolution of this dilemma will likely determine the ultimate fate of civilization in Aquabyssos. ## Player-Facing Summary Deep Mother Influence is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Deep Mother Influence as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Deep Mother Influence. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+**Purification Rituals** (**DC 15** + influence level, removes `dice: 2d4` points)
+**Medical Treatment** (**DC 12** + influence level, removes `dice: 1d3` points)
+**Magical Intervention** (**DC 18** + influence level, removes `dice: 3d6` points)
+**Social Rehabilitation** (**DC 10** + influence level, prevents accumulation for 1 month)
+**Technological Cleansing** (**DC 20** + influence level, removes all points but causes exhaustion) ## Long-term Implications The Deep Mother's influence represents both the greatest threat and potentially the greatest opportunity facing Aquabyssos. While the corruption undermines individual autonomy and social stability, the adaptations it provides may be essential for humanity's continued evolution in the deep ocean environment. The challenge for Aquabyssos's leaders is determining how to harness the beneficial aspects of the influence while preventing the loss of human agency and cultural identity. As the influence continues to spread and evolve, future generations may face a choice between remaining purely human but increasingly unable to survive in the deepest parts of their world, or accepting transformation that grants survival at the cost of independence. The resolution of this dilemma will likely determine the ultimate fate of civilization in Aquabyssos. ## Player-Facing Summary Deep Mother Influence is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Deep Mother Influence as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Deep Mother Influence. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

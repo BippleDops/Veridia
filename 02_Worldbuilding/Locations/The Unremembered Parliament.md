@@ -2,7 +2,7 @@
 
 title: The Unremembered Parliament
 type: Location
-tags:
+tags: 
 - aquabyssos
 - supernatural
 - status/complete
@@ -306,11 +306,9 @@ Ongoing situations affecting The Unremembered Parliament:
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

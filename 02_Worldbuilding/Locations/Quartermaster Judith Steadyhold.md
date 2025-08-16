@@ -2,7 +2,7 @@
 
 title: Quartermaster Judith Steadyhold
 type: Location
-tags:
+tags: 
 - aquabyssos
 - world/aquabyssos
 - content/location
@@ -224,11 +224,9 @@ Ongoing situations affecting Quartermaster Judith Steadyhold:
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

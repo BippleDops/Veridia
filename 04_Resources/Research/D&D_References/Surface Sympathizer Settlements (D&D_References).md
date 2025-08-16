@@ -2,7 +2,7 @@
 
 title: Surface Sympathizer Settlements (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -89,12 +89,10 @@ Settlements are deliberately hidden and defensible:
 3. Secret message from surface world needs delivery
 4. Sympathizer family needs protection from persecution ## DM Notes
 
-
 These settlements provide opportunities for political intrigue, moral choices about loyalty versus conscience, and connections to larger surface world conflicts. They can serve as safe havens or sources of dangerous political complications. ## Player-Facing Summary Surface Sympathizer Settlements is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Surface Sympathizer Settlements as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Surface Sympathizer Settlements. ## Related *Links to related content will be added here.* ## Plot Hooks - A map reveals a betrayal about the cult
 
 - Someone is searching for a artifact for power
 - An heirloom has gone missing and truth emerges ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

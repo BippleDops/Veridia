@@ -1,8 +1,8 @@
 ---
 
-title: [[Aquabyssos]]_Government
-type: [[Lore]]
-tags:
+title: [[Aquabyssos_Government
+type: [Lore]]
+tags: 
 - lore
 - worldbuilding
 - bloodline
@@ -14,7 +14,7 @@ improvements: 20
 ---
 
 > [!figure] Asset
-![](04_Resources/Assets/[[location]]s/location-city-aquabyssos-government-aquabyssos-government.svg)
+![](04_Resources/Assets/[[locations/location-city-aquabyssos-government-aquabyssos-government.svg)
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -30,7 +30,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -66,7 +66,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[region]]s
+- Describe how this culture exists in other [[regions
 
 ### Hospitality Improvements
 
@@ -84,7 +84,7 @@ Aquabyssos_Government represents a crucial aspect of the world's history, cosmol
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -122,9 +122,9 @@ Aquabyssos_Government represents a crucial aspect of the world's history, cosmol
 
 ## References
 
-- [[Political Intrigue Master Index]]
-- [[Quarantine Enforcement]]
-- [[The Bathyal Succession]]
-- [[Timeline of the Drowning]]
-- [[Depth Warden Patrol]]
-- [[Tenebrarum Embassy]]
+- [[Political Intrigue Master Index
+- [Quarantine Enforcement]]
+- [[The Bathyal Succession
+- [Timeline of the Drowning]]
+- [[Depth Warden Patrol
+- [Tenebrarum Embassy]]

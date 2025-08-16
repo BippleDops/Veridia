@@ -1,8 +1,8 @@
 ---
 
 title: Depth Effect Quick Reference
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
 - aquabyssos
 - environmental-hazards
@@ -38,7 +38,7 @@ improvements: 20
 *Essential Guide to Underwater Environmental Pressure and Biological Adaptation*
 
 > *"Every hundred feet deeper changes the rules of survival. What heals you at one depth might kill you at another. The deep doesn't forgive ignorance, and it rewards preparation with life itself."*
-> — [[Marine Environmental Specialist Dr. Pressure Deepcurrent]], Author of "Surviving the Abyss"
+> — [Marine Environmental Specialist Dr. Pressure Deepcurrent]], Author of "Surviving the Abyss"
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -54,7 +54,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -82,7 +82,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[region]]s
+- Describe how this culture exists in other [region]]s
 
 ### Oral_Tradition Improvements
 
@@ -98,13 +98,13 @@ improvements: 20
 
 ## Overview
 
-The Depth Effect Quick Reference provides essential information about how increasing underwater depth affects biological systems, environmental conditions, and survival requirements in [[Aquabyssos]]. This guide serves as a practical field reference for adventurers, researchers, and residents who must navigate the varying [[Pressure Zones]] and environmental conditions that define underwater life.
+The Depth Effect Quick Reference provides essential information about how increasing underwater depth affects biological systems, environmental conditions, and survival requirements in [[Aquabyssos. This guide serves as a practical field reference for adventurers, researchers, and residents who must navigate the varying [Pressure Zones]] and environmental conditions that define underwater life.
 
 Unlike surface environments where altitude changes gradually affect conditions, underwater depth creates dramatic and potentially lethal changes in pressure, temperature, light availability, and biological compatibility within relatively short distances. Understanding these effects is crucial for survival, as miscalculating depth tolerance can result in immediate death or permanent injury.
 
-The depth effects system accounts for both natural underwater conditions and the magical adaptations that make civilization possible in [[Aquabyssos]]. The guide includes information about [[Pressure Adaptation System]] integration, [[Underwater Breathing]] requirements, and [[Emergency Protocol]]s for depth-related emergencies.
+The depth effects system accounts for both natural underwater conditions and the magical adaptations that make civilization possible in [[Aquabyssos. The guide includes information about [Pressure Adaptation System]] integration, [[Underwater Breathing requirements, and [Emergency Protocol]]s for depth-related emergencies.
 
-Recent convergence effects with [[Aethermoor]] have created additional complications where traditional depth calculations may not apply in [[Reality Merge Zones]] or areas affected by [[Temporal Distortion Zones]], requiring adaptive strategies and enhanced monitoring.
+Recent convergence effects with [[Aethermoor have created additional complications where traditional depth calculations may not apply in [Reality Merge Zones]] or areas affected by [[Temporal Distortion Zones, requiring adaptive strategies and enhanced monitoring.
 
 ### Surface Interface Zone (0-30 feet)
 
@@ -144,7 +144,7 @@ Recent convergence effects with [[Aethermoor]] have created additional complicat
 - **Marine Life**: High diversity and activity
 
 **Biological Effects:**
-- **Minor Pressure Adaptation**: [[Pressure Adaptation System]] recommended
+- **Minor Pressure Adaptation**: [Pressure Adaptation System]] recommended
 - **Extended Stay Tolerance**: Hours without ill effects
 - **Improved Swimming**: Natural buoyancy optimization
 - **Enhanced Healing**: Water pressure aids healing
@@ -152,7 +152,7 @@ Recent convergence effects with [[Aethermoor]] have created additional complicat
 
 **Survival Requirements:**
 - **Basic Protection**: Level 1 pressure adaptation
-- **[[Emergency Protocols]]**: Slow ascent procedures important
+- **[[Emergency Protocols**: Slow ascent procedures important
 - **Equipment**: Water-resistant gear sufficient
 - **Communication**: Enhanced underwater speech needed
 
@@ -172,7 +172,7 @@ Recent convergence effects with [[Aethermoor]] have created additional complicat
 - **Current Patterns**: More predictable flows
 
 **Biological Effects:**
-- **Moderate Adaptation Required**: [[Pressure Adaptation System]] essential
+- **Moderate Adaptation Required**: [Pressure Adaptation System]] essential
 - **Tissue Compression**: Body systems must adjust to pressure
 - **Metabolic Changes**: Energy requirements increase
 - **Sensory Enhancement**: Hearing and pressure sensitivity improve
@@ -180,7 +180,7 @@ Recent convergence effects with [[Aethermoor]] have created additional complicat
 
 **Equipment Requirements:**
 - **Pressure Suits**: Level 2 protection minimum
-- **Enhanced Breathing**: [[Underwater Breathing]] systems essential
+- **Enhanced Breathing**: [[Underwater Breathing systems essential
 - **Specialized Tools**: Pressure-resistant equipment required
 - **Emergency Gear**: Decompression and ascent equipment
 - **Communication**: Electronic systems needed
@@ -188,7 +188,7 @@ Recent convergence effects with [[Aethermoor]] have created additional complicat
 **Typical Uses:**
 - **Urban Centers**: Major city districts
 - **Heavy Industry**: Manufacturing and processing
-- **Transportation Hubs**: [[Pressure Tubes]] stations
+- **Transportation Hubs**: [Pressure Tubes]] stations
 - **Government**: Administrative centers
 - **Medical Facilities**: Specialized healthcare
 
@@ -199,10 +199,10 @@ Recent convergence effects with [[Aethermoor]] have created additional complicat
 - **Temperature**: Cold, requiring heating systems
 - **Light**: Complete artificial dependence
 - **Marine Life**: Specialized deep water species
-- **Geological Activity**: [[Pressure Effects]] on terrain
+- **Geological Activity**: [[Pressure Effects on terrain
 
 **Biological Effects:**
-- **Major Adaptation Required**: Advanced [[Pressure Adaptation System]]
+- **Major Adaptation Required**: Advanced [Pressure Adaptation System]]
 - **Bone Density Changes**: Skeletal system strengthens
 - **Muscle Adaptation**: Enhanced strength development
 - **Neural Adaptation**: Improved pressure sensitivity
@@ -210,7 +210,7 @@ Recent convergence effects with [[Aethermoor]] have created additional complicat
 
 **Survival Challenges:**
 - **Equipment Failure**: Potentially fatal if protection fails
-- **Ascent [[Time]]**: Hours required for safe decompression
+- **Ascent [[Time**: Hours required for safe decompression
 - **Emergency Response**: Limited rescue options
 - **Communication**: Long-range systems essential
 - **Supply Dependence**: Cannot survive on natural resources
@@ -222,7 +222,7 @@ Recent convergence effects with [[Aethermoor]] have created additional complicat
 - **Waste Processing**: Deep water treatment facilities
 - **Archive Storage**: Long-term preservation facilities
 
-### [[Abyssal Depths]] (2000-6000 feet)
+### [Abyssal Depths]] (2000-6000 feet)
 
 **Environmental Conditions:**
 - **Pressure**: 61.8-183.4 ATM (908.0-2695.0 PSI)
@@ -232,7 +232,7 @@ Recent convergence effects with [[Aethermoor]] have created additional complicat
 - **Geological Features**: Trenches, thermal vents, unstable terrain
 
 **Biological Effects:**
-- **Extreme Adaptation**: Maximum [[Pressure Adaptation System]] required
+- **Extreme Adaptation**: Maximum [[Pressure Adaptation System required
 - **Cellular Changes**: Fundamental biological alterations
 - **Sensory Evolution**: Enhanced non-visual senses
 - **Metabolic Transformation**: Completely altered energy processes
@@ -259,25 +259,25 @@ Recent convergence effects with [[Aethermoor]] have created additional complicat
 - **Temperature**: Extreme cold or thermal vent extremes
 - **Light**: Nonexistent
 - **Marine Life**: Unknown and alien species
-- **Geological Activity**: Extreme pressure effects, [[Reality Distortion]]s
+- **Geological Activity**: Extreme pressure effects, [Reality Distortion]]s
 
 **Biological Effects:**
 - **Impossible Without Magic**: Natural adaptation inadequate
 - **Reality Effects**: Depth begins affecting physical laws
 - **Consciousness Changes**: Profound psychological alterations
-- **Dimensional Sensitivity**: Awareness of [[Reality Merge Zones]]
+- **Dimensional Sensitivity**: Awareness of [[Reality Merge Zones
 - **Temporal Effects**: Time perception alterations
 
 **Survival Impossibility:**
 - **Magical Dependence**: Only magical protection viable
-- **[[Reality Anchoring]]**: Normal physics may not apply
+- **[Reality Anchoring]]**: Normal physics may not apply
 - **Unknown Hazards**: Unexplored environmental dangers
 - **Communication Failure**: Standard systems non-functional
 - **Rescue Impossibility**: No realistic emergency response
 
 **Theoretical Applications:**
-- **[[Ancient Ruins]]**: Pre-submersion archaeological sites
-- **Reality Research**: [[Multiple Recursion Levels]] studies
+- **[[Ancient Ruins**: Pre-submersion archaeological sites
+- **Reality Research**: [Multiple Recursion Levels]] studies
 - **Dimensional Access**: Potential gateways to other realms
 - **Ultimate Resources**: Theoretical unique materials
 - **Cosmic Interfaces**: Contact with otherworldly entities
@@ -469,7 +469,7 @@ Recent convergence effects with [[Aethermoor]] have created additional complicat
 2. **Use Backup Communication**: Emergency signaling devices
 3. **Physical Signaling**: Light signals, sound signals, movement
 4. **Return to Surface**: If repair impossible, begin emergency ascent
-5. **Document [[location]]**: Mark position for potential rescue
+5. **Document [[location**: Mark position for potential rescue
 
 ### Medical Emergency Response
 
@@ -489,7 +489,7 @@ Recent convergence effects with [[Aethermoor]] have created additional complicat
 
 ### Reality Merge Zone Effects
 
-In areas affected by [[Reality Merge Zones]], standard depth calculations may not apply:
+In areas affected by [Reality Merge Zones]], standard depth calculations may not apply:
 
 **Variable Physics:**
 - **Pressure Inconsistencies**: Pressure may not correlate with depth
@@ -505,7 +505,7 @@ In areas affected by [[Reality Merge Zones]], standard depth calculations may no
 
 ### Temporal Distortion Interactions
 
-[[Temporal Distortion Zones]] can create unique depth-related challenges:
+[[Temporal Distortion Zones can create unique depth-related challenges:
 
 **Accelerated Effects:**
 - **Rapid Adaptation**: Biological changes occur faster than normal
@@ -519,7 +519,7 @@ In areas affected by [[Reality Merge Zones]], standard depth calculations may no
 
 ### Magical Enhancement Integration
 
-The [[Pressure Adaptation System]] and [[Underwater Breathing]] systems create additional considerations:
+The [Pressure Adaptation System]] and [[Underwater Breathing systems create additional considerations:
 
 **Magic-Biology Interactions:**
 - **Enhancement Failure**: Magical systems may fail unexpectedly
@@ -544,7 +544,7 @@ The [[Pressure Adaptation System]] and [[Underwater Breathing]] systems create a
 **100 to 500 feet:**
 - **Pressure Suits**: Level 1 protection systems
 - **Enhanced Tools**: Power tools adapted for pressure
-- **[[Communication_Systems|Communication Systems]]**: Electronic underwater communication
+- **[Communication_Systems|Communication Systems]]**: Electronic underwater communication
 - **Medical Equipment**: Pressure-specific first aid supplies
 
 **500 to 2000 feet:**
@@ -554,7 +554,7 @@ The [[Pressure Adaptation System]] and [[Underwater Breathing]] systems create a
 - **Emergency Medical**: Decompression and pressure injury treatment
 
 **2000+ feet:**
-- **Experimental Systems**: Cutting-edge [[Pressure Technology]]
+- **Experimental Systems**: Cutting-edge [[Pressure Technology
 - **Remote Operation**: Tools operated from safer depths
 - **Emergency Evacuation**: Rapid ascent and rescue equipment
 - **Advanced Medical**: Extreme pressure medical treatment
@@ -619,7 +619,7 @@ The [[Pressure Adaptation System]] and [[Underwater Breathing]] systems create a
 - **Deep Ruins**: Archaeological expeditions to extreme depths
 - **Resource Discovery**: Finding valuable materials in deep water
 - **Scientific Research**: Studying extreme depth ecosystems
-- **[[map]]ping Expeditions**: Charting unexplored deep areas
+- **[map]]ping Expeditions**: Charting unexplored deep areas
 
 **Emergency Scenarios:**
 - **Rescue Missions**: Saving stranded deep water personnel
@@ -651,15 +651,15 @@ Characters specialized in different depth ranges develop unique capabilities:
 - **Deep Water Specialists**: Extreme environment survival and technical expertise
 - **Abyssal Explorers**: Research, discovery, and impossible environment survival
 
-### Supporting [[Organization]]s
+### Supporting [[Organizations
 
-- **[[Depth Safety Authorit]]** - Regulatory body for depth-related safety
-- **[[Deep Water Rescue Service]]** - Emergency response for depth incidents
-- **[[Pressure Equipment Guild]]** - Manufacturers and maintece specialists
-- **[[Marine Environmental Institute]]** - Research organization studying depth effects
-- **[[Professional Divers Association]]** - Training and certification body
+- **[Depth Safety Authorit]]** - Regulatory body for depth-related safety
+- **[[Deep Water Rescue Service** - Emergency response for depth incidents
+- **[Pressure Equipment Guild]]** - Manufacturers and maintece specialists
+- **[[Marine Environmental Institute** - Research organization studying depth effects
+- **[Professional Divers Association]]** - Training and certification body
 
-The Depth Effect Quick Reference serves as both a practical survival guide and a framework for understanding how the underwater environment shapes daily life, professional activities, and adventure opportunities in [[Aquabyssos]].
+The Depth Effect Quick Reference serves as both a practical survival guide and a framework for understanding how the underwater environment shapes daily life, professional activities, and adventure opportunities in [[Aquabyssos.
 
 ## Player-Facing Summary
 
@@ -669,11 +669,11 @@ Depth Effect Quick Reference is a undersea element of the setting, known for bio
 
 Legends speak of Depth Effect Quick Reference as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Depth Effect Quick Reference.
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## [[Historical Context]]
+## [[Historical Context
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -689,7 +689,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Pressure Adaptation System]]
-- [[Underwater Breathing]]
-- [[Pressure Adaptation System (D&D_References)]]
+- [Pressure Adaptation System]]
+- [[Underwater Breathing
+- [Pressure Adaptation System (D&D_References)]]
 - [[Underwater Breathing (D&D_References)]]

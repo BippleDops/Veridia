@@ -1,11 +1,11 @@
 ---
 
 title: Hybrid Abominations
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
 - category/lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - session-notes
 - active
 - complete
@@ -17,12 +17,12 @@ status: complete
 updated: '2025-08-13T01:18:35.288508+00:00'
 world: Aquabyssos
 obsidianUIMode: preview
-accessibility:
+accessibility: 
   screen_reader_summary: This lore entry explains a pivotal principle or event and
     its consequences for play.
   content_warnings: []
   pronunciation: Hybrid Abominations
-  safety_tools:
+  safety_tools: 
   - Lines & Veils
   - X-Card
 evaluated: '2025-08-14'
@@ -45,7 +45,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -77,7 +77,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[region]]s
+- Describe how this culture exists in other [region]]s
 
 ### Death_Customs Improvements
 
@@ -95,9 +95,9 @@ Hybrid Abominations is a undersea element of the setting, known for bioluminesce
 
 Legends speak of Hybrid Abominations as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Hybrid Abominations.
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [map]] use.
 
 ## Overview
 
@@ -128,6 +128,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Aquabyssos - Session 04 - High Tide Horror]]
-- [[The Seven Shards (D&D_References)]]
+- [[Aquabyssos - Session 04 - High Tide Horror
+- [The Seven Shards (D&D_References)]]
 - [[The Seven Shards 3 (D&D_References)]]

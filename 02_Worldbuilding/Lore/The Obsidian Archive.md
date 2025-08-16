@@ -1,9 +1,9 @@
 ---
 title: The Obsidian Archive
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - world/aquabyssos
 - content/faction
 - content/lore
@@ -38,9 +38,7 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## References
 
-- [[Shadow Conspiracy Investigation (Criminal_Organizations)]]
-- [[Shadow Conspiracy Investigation]]
+- [[Shadow Conspiracy Investigation (Criminal_Organizations)
+- [Shadow Conspiracy Investigation]]

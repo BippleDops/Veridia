@@ -2,7 +2,7 @@
 
 title: Military Medical Corps
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -44,10 +44,9 @@ updated: '2025-08-13T01:18:34.597014+00:00'
 
 - A stranger needs help investigating before winter
 - A document has gone missing and war looms
-- Strange disappearances suggest a portal ## References - [[Shadow Ambush - Optional (Criminal_Organizations)]]
+- Strange disappearances suggest a portal ## References - [[Shadow Ambush - Optional (Criminal_Organizations)
 
-- [[Shadow Ambush - Optional]]
-
+- [Shadow Ambush - Optional]]
 
 ## Notes
 

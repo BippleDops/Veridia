@@ -2,7 +2,7 @@
 
 title: Marine Corps
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -44,10 +44,9 @@ updated: '2025-08-13T01:18:34.563875+00:00'
 
 - Someone is hunting a witness for love
 - A stranger needs help investigating before dawn
-- The authorities needs help finding before dawn ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Shadow Ambush - Optional (Criminal_Organizations)]]
+- The authorities needs help finding before dawn ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Shadow Ambush - Optional (Criminal_Organizations)
 
-- [[Shadow Ambush - Optional]]
-
+- [Shadow Ambush - Optional]]
 
 ## Notes
 

@@ -2,7 +2,7 @@
 
 title: Military Commander
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,7 +43,6 @@ updated: '2025-08-13T01:18:35.289270+00:00'
 - Strange accidents suggest a conspiracy
 - Someone is hunting a artifact for revenge
 - A document has gone missing and evil awakens ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

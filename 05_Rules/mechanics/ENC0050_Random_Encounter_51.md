@@ -2,7 +2,7 @@
 aliases: ["Random Encounter 51", "random encounter 51", "51 Encounter Random"]
 tags: [generated]
 id: ENC0050_Random_Encounter_51
-created: 2025-08-15T04:09:51.451Z
+created: "2025-08-15T04:09:51.451Z"
 generator: mega_generator_10k
 ---
 # Random Encounter 51
@@ -10,7 +10,7 @@ generator: mega_generator_10k
 *Hard encounter for Forest environment*
 
 ## Enemies
-- 2d4 Goblins
+- `dice: 2d4` Goblins
 
 ## Tactics
 Enemies coordinate attacks and use terrain to their advantage

@@ -1,7 +1,7 @@
 ---
 type: Lore
 status: complete
-tags:
+tags: 
 - active
 - aethermoor
 - lore
@@ -9,10 +9,6 @@ world: Aethermoor
 created: '2025-08-11'
 updated: '2025-08-13T01:18:34.887986+00:00'
 ---
-
-
-
-
 
 ## Overview
 
@@ -40,15 +36,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/United Councils of Both Worlds|02 Worldbuilding/Lore/United Councils Of Both Worlds]]
-
+- [[02_Worldbuilding/Lore/United Councils of Both Worlds|02 Worldbuilding/Lore/United Councils Of Both Worlds
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Biomancer Corvus Intestinal]]
-- [[02_Worldbuilding/Lore/Campaign Epilogues]]
-- [[02_Worldbuilding/Lore/Eastern Kingdom]]
-- [[02_Worldbuilding/Lore/Hidden Sanctuary]]
+- [02_Worldbuilding/Lore/Biomancer Corvus Intestinal]]
+- [[02_Worldbuilding/Lore/Campaign Epilogues
+- [02_Worldbuilding/Lore/Eastern Kingdom]]
+- [[02_Worldbuilding/Lore/Hidden Sanctuary
 - Lighthouse Ruins
 - Magic Items
 - Rewriting The Ritual
@@ -56,4 +51,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - Shattered Isles
 - Temporal Navigation Hazards
 - The Possessed Queen
-- [[02_Worldbuilding/Lore/United Councils of Both Worlds]]
+- [02_Worldbuilding/Lore/United Councils of Both Worlds]]

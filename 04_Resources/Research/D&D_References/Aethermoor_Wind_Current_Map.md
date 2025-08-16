@@ -2,7 +2,7 @@
 
 title: Aethermoor_Wind_Current_Map
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -104,12 +104,11 @@ world: Aethermoor
 - Connections to overarching campaign themes ## Plot Hooks - A letter reveals a conspiracy about the cult
 
 - Strange dreams suggest ancient magic
-- Someone is searching for a witness for money ## Related Notes - [[Similar Topic 1]]
+- Someone is searching for a witness for money ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]]
 
 ## Notes
 

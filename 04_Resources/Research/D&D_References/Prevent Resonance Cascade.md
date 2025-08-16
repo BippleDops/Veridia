@@ -2,7 +2,7 @@
 
 title: Prevent Resonance Cascade
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -57,16 +57,14 @@ Prevention efforts must be completed within days or hours once cascade signs app
 2. **Emergency Response**: Racing against time to prevent cascade initiation
 3. **Damage Control**: Managing the aftermath of a partially successful prevention effort ## Campaign Use
 
-
 Ideal for high-stakes adventures where character actions have world-changing consequences. Can serve as campaign climax or major story arc resolution. ## Player-Facing Summary Prevent Resoce Cascade is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Prevent Resoce Cascade as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Prevent Resoce Cascade. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is hunting a witness for love
 
 - A journal reveals the truth about a local noble
-- A merchant needs help stealing before winter ## Related Notes - [[Similar Topic 1]]
+- A merchant needs help stealing before winter ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

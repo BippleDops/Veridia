@@ -1,7 +1,7 @@
 ---
 created: '2025-08-12'
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/lore
@@ -17,8 +17,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.467849+00:00'
 world: Aquabyssos
 ---
-
-
 
 # Political Intrigue Master Index
 *The Complete Guide to Aquabyssos Political Complexity*
@@ -51,7 +49,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 
 **Primary Use:** Managing the central political crisis driving current events
 
-### [[02_Worldbuilding/Groups/Political Parties of Aquabyssos]]
+### [[02_Worldbuilding/Groups/Political Parties of Aquabyssos
 **Key Systems:**
 - Six major political parties with public platforms and hidden agendas
 - Foreign infiltration and shadow replacement throughout party leadership
@@ -64,9 +62,9 @@ This master index provides a comprehensive guide to the political intrigue syste
 ## Power Player Profiles
 
 ### Noble Houses
-- **[[02_Worldbuilding/Groups/Houses_and_Nobility/House Deepcurrent]]:** Ancient nobility with deep-sea entity connections and shadow daughter secrets
-- **[[02_Worldbuilding/Groups/Houses_and_Nobility/House Brightshield]]:** Progressive democrats hiding memory plague guilt and constructed family members
-- **[[02_Worldbuilding/Groups/Houses_and_Nobility/House Shadowmere]]:** Information brokers with dead matriarch and triple agent complications
+- **[02_Worldbuilding/Groups/Houses_and_Nobility/House Deepcurrent]]:** Ancient nobility with deep-sea entity connections and shadow daughter secrets
+- **[[02_Worldbuilding/Groups/Houses_and_Nobility/House Brightshield:** Progressive democrats hiding memory plague guilt and constructed family members
+- **[02_Worldbuilding/Groups/Houses_and_Nobility/House Shadowmere]]:** Information brokers with dead matriarch and triple agent complications
 
 **Interconnections:**
 - Marriage alliances creating political leverage and personal complications
@@ -75,8 +73,8 @@ This master index provides a comprehensive guide to the political intrigue syste
 - Shared secrets creating mutual blackmail and uneasy truces
 
 ### Foreign Intelligence Operations
-- **[[02_Worldbuilding/Places/Tenebrarum Embassy]]:** Shadow nation spy network with replacement program and cultural integration
-- **[[02_Worldbuilding/Places/Crystallium Embassy]]:** Technology nation surveillance operation with predictive modeling and economic espionage
+- **[[02_Worldbuilding/Places/Tenebrarum Embassy:** Shadow nation spy network with replacement program and cultural integration
+- **[02_Worldbuilding/Places/Crystallium Embassy]]:** Technology nation surveillance operation with predictive modeling and economic espionage
 
 **Intelligence Network Overlaps:**
 - Competing operations for same intelligence targets

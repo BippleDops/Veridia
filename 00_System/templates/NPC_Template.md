@@ -1,45 +1,35 @@
-# {name}
+---
+type: npc
+name: 
+campaign: 
+status: active
+location: 
+created: 
+tags: [npc]
+---
+
+# 
 
 ## Basic Information
-- **Race**: {race}
-- **Class**: {class}
-- **Level**: {level}
-- **Alignment**: {alignment}
-- **Location**: [[{location}]]
+- **Race:** 
+- **Class:** 
+- **Alignment:** 
+- **Location:** 
 
-## Description
-{description}
+## Appearance
 
 ## Personality
-- **Traits**: {traits}
-- **Ideals**: {ideals}
-- **Bonds**: {bonds}
-- **Flaws**: {flaws}
+- **Personality Traits:** 
+- **Ideals:** 
+- **Bonds:** 
+- **Flaws:** 
 
-## Statistics
-- **AC**: {ac}
-- **HP**: {hp}
-- **Speed**: {speed}
+## Background
 
-### Abilities
-- **STR**: {str} ({str_mod})
-- **DEX**: {dex} ({dex_mod})
-- **CON**: {con} ({con_mod})
-- **INT**: {int} ({int_mod})
-- **WIS**: {wis} ({wis_mod})
-- **CHA**: {cha} ({cha_mod})
-
-## Combat
-- **Attacks**: {attacks}
-- **Special Abilities**: {abilities}
+## Role in Campaign
 
 ## Relationships
-- **Allies**: {allies}
-- **Enemies**: {enemies}
-- **Faction**: [[{faction}]]
+*Connections to other NPCs*
 
 ## Notes
-{notes}
-
----
-*Created: {date}*
+*Additional DM notes*

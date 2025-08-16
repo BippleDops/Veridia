@@ -2,7 +2,7 @@
 
 title: The Cure (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -52,7 +52,6 @@ accessibility: screen_reader_summary: The Cure is an NPC entangled with faction 
 The Cure moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape. - Ideal: Stability through controlled risk.
 - Bond: A family archive tied to [[The Sunken Library]].
 - Flaw: Overconfidence in leverage; underestimates zealots and true believers. Furthermore, ## Player-Facing Summary The Cure is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Cure as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Cure. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

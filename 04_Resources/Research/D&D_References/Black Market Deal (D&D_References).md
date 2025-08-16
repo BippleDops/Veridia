@@ -2,7 +2,7 @@
 
 title: Black Market Deal (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -97,12 +97,11 @@ Hidden caches throughout the city where goods and payments can be left for later
 - Explore themes of desperation, survival, and moral compromise during times of political crisis ## Player-Facing Summary Black Market Deal is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Black Market Deal as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Black Market Deal. ## Related *Links to related content will be added here.* ## Plot Hooks - A letter reveals ancient history about the government
 
 - A merchant needs help investigating before the festival
-- Strange disappearances suggest ancient magic ## Related Notes - [[Similar Topic 1]]
+- Strange disappearances suggest ancient magic ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

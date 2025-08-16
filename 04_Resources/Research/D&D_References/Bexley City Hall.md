@@ -2,7 +2,7 @@
 
 title: Bexley City Hall
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,14 +42,13 @@ updated: '2025-08-13T01:18:35.125088+00:00'
 
 - A letter reveals the truth about this place
 - A map reveals ancient history about this place
-- A letter reveals ancient history about a local noble ## Related Notes - [[Similar Topic 1]]
+- A letter reveals ancient history about a local noble ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## References - [[Bexley]]
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## References - [[Bexley
 
-- [[Bexley (D&D_References)]]
-
+- [Bexley (D&D_References)]]
 
 ## Notes
 

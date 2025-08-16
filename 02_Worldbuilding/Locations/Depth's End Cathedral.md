@@ -2,7 +2,7 @@
 
 title: Depth's End Cathedral
 type: Location
-tags:
+tags: 
 - aquabyssos
 - world/aquabyssos
 - content/location
@@ -225,19 +225,16 @@ Key stop on magic items trade route
 
 ## References
 
-- [[Pressure Angel Benthia]]
-- [[Pressure Angel Benthia (D&D_Statblocks)]]
-
+- [[Pressure Angel Benthia
+- [Pressure Angel Benthia (D&D_Statblocks)]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

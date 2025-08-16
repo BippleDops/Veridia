@@ -1,22 +1,22 @@
 ---
 title: Ficial Officer Golden Calculations
 type: note
-tags:
+tags: 
 - auto-generated
-- [[Link]]ed
+- [[Linked
 created: '2025-01-15'
 ---
 
 # Ficial Officer Golden Calculations
 
 ## Overview
-This topic is referenced in [[Commercial Hubs and Markets]] and other parts of the campaign.
+This topic is referenced in [Commercial Hubs and Markets]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Commercial Hubs and Markets]]
+- Referenced by: [[Commercial Hubs and Markets
 - Related topics in the same category
 
 ## Details
@@ -32,6 +32,6 @@ Further information about this topic will be developed as the campaign progresse
 
 ## References
 
-- [[Financial Officer Golden Calculations]]
-- [[Commercial Hubs and Markets]]
-- [[Commercial Hubs and Markets (D&D_References)]]
+- [Financial Officer Golden Calculations]]
+- [[Commercial Hubs and Markets
+- [Commercial Hubs and Markets (D&D_References)]]

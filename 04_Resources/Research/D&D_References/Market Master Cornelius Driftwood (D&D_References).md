@@ -2,7 +2,7 @@
 
 title: Market Master Cornelius Driftwood (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -47,7 +47,6 @@ Market Master Cornelius Driftwood is a living crossroads where memory-currents a
 
 - The authorities needs help stealing before the festival
 - A document has gone missing and war looms ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

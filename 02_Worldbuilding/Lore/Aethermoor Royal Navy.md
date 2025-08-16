@@ -1,8 +1,8 @@
 ---
 
-title: [[Aethermoor]] Royal Navy
-type: [[Lore]]
-tags:
+title: [[Aethermoor Royal Navy
+type: [Lore]]
+tags: 
 - lore
 - worldbuilding
 - bloodline
@@ -26,7 +26,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -38,7 +38,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[region]]s
+- Describe how this culture exists in other [region]]s
 
 ### Death_Customs Improvements
 
@@ -84,7 +84,7 @@ Aethermoor Royal Navy represents a crucial aspect of the world's history, cosmol
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -106,4 +106,4 @@ Aethermoor Royal Navy represents a crucial aspect of the world's history, cosmol
 
 ## References
 
-- [[Aethermoor_Royal_Navy (02_Worldbuilding)]]
+- [Aethermoor_Royal_Navy (02_Worldbuilding)]]

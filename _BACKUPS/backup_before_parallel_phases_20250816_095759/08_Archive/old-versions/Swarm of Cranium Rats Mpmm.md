@@ -1,0 +1,76 @@
+---
+
+title: Swarm of Cranium Rats Mpmm
+type: note
+tags:
+- note
+
+created: '2025-01-15'
+modified: '2025-01-15'
+
+--- # Swarm of Cranium Rats Mpmm ---
+
+## Description
+
+Detailed description pending.
+title: Swarm of Cranium Rats Mpmm
+aliases:
+- Swarm of Cranium Rats
+
+type: monster
+tags:
+- ttrpg-cli/monster/size/medium
+- both
+- ttrpg-cli/monster/environment/urban
+- monster
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/monster/type/aberration
+- ttrpg-cli/compendium/src/5e/mpmm
+- ttrpg-cli/monster/cr/5
+- world/both
+- research
+- active
+- status/in-progress
+
+created: 2025-08-11
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-monster
+obsidian-u-i-mode: preview
+statblock: inline
+statblock-link: '#^statblock'
+updated: '2025-08-13T12:34:05.597959+00:00'
+world: Both
+
+--- > [!figure] Creature
+![](04_Resources/Assets/Creatures/creature-creature-swarm-of-cranium-rats-mpmm-swarm-of-cranium-rats-mpmm.svg) # [[Swarm of Cranium Rats Mpmm
+
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Cranium Rat Mind flayers create cranium rats by bombarding rats with psionic energy. Cranium rats are somewhat smarter than ordinary rats and behave as such. If enough cranium rats come together to form a swarm, they merge their minds into a single intelligence with the accumulated memories of all the swarm's constituents. The rats become smarter as a result, and retain their heightened intelligence for as long as the swarm persists. The swarm also awakens latent psionic abilities implanted within each cranium rat by its mind flayer creators, bestowing upon the swarm psionic powers. A single cranium rat uses its natural telepathy to communicate hunger, fear, and other base emotions. A swarm of cranium rats communicating telepathically "speaks" as one creature, often referring to itself using the collective pronouns "we" and "us." Some mind flayer colonies use cranium rats as spies. The rats invade communities and act as eyes and ears for the colony's elder brain, transmitting their thoughts when they swarm and are within range of the elder brain's telepathy.```statblock
+
+"name": "Swarm of Cranium Rats (MPMM)"
+"size": "Medium"
+"type": "aberration"
+"alignment": "Typically Lawful Evil"
+"ac": !!int "12"
+"hp": !!int "76"
+"hit_dice": "`dice: 17d8`"
+"modifier": !!int "2"
+"stats": - !!int "9" - !!int "14" - !!int "10" - !!int "15" - !!int "11"
+"speed": "30 ft."
+"damage_resistances": "bludgeoning, piercing, slashing"
+"condition_immunities": "[conditions#Charmed|charmed]], [[conditions#frightened|frightened,\ \ [conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed,\ \ [conditions#Petrified|petrified]], [[conditions#prone|prone,\ \ [conditions#Restrained|restrained]], [[conditions#Stunned|stunned"
+"senses": "darkvision 30 ft., passive Perception 10"
+"languages": "telepathy 30 ft."
+"cr": "5"
+"traits": - "desc": "The swarm can occupy another creature's space and vice versa, and the\ \ swarm can move through any opening large enough for a Tiny rat. The swarm\ \ can't regain hit points or gain temporary hit points." "name": "Swarm" - "desc": "The swarm is immune to any effect that would sense its emotions or read\ \ its thoughts, as well as to all divination spells." "name": "Telepathic Shroud"
+"actions": - "desc": "Melee Weapon Attack: +5 to hit, reach 0 ft., one target in the swarm's\ \ space. Hit: 14 (`dice: 4d6`) piercing damage, or 7 (`dice: 2d6`) piercing damage if the\ \ swarm has half of its hit points or fewer, plus 22 (`dice: 5d8`) psychic damage." "name": "Bites" - "desc": "As long as it has more than half of its hit points remaining, the swarm\ \ casts one of the following spells, requiring no spell components and using\ \ Intelligence as the spellcasting ability (spell save **DC 13**):\n\n At will:\ \ [command-xphb (spells)]], [[Comprehend Languages Xphb,\ \ [detect-thoughts-xphb (spells)]]\n\n1/day\ \ each: [[Confusion Xphb, [Dominate Monster Xphb]] \ monster]]" "name": "Spellcasting (Psionics)"
+"bonus_actions": - "desc": "The swarm sheds dim light from its brains in a 5-foot radius, increases\ \ the illumination to bright light in a 5- to 20-foot radius (and dim light\ \ for an additional number of feet equal to the chosen radius), or extinguishes\ \ the light." "name": "Illumination"
+"source": - "MPMM" - "VGM"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/swarm-of-cranium-rats-mpmm.webp"```^statblock ## Environment underdark, urban ## Player-Facing Summary Swarm of cranium rats mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of swarm of cranium rats mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around swarm of cranium rats mpmm. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## References - [[swarm-of-cranium-rats-mpmm (aberration)
+
+- [3 Bestiary]]
+- [[3-bestiary (volos-guide-to-monsters)]]
+
+## Notes
+
+*Additional notes*

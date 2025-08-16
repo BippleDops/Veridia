@@ -2,7 +2,7 @@
 
 title: Madame Whisper (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -54,7 +54,7 @@ danger_level: Moderate
 
 **Medium humanoid (sea elf), neutral**
 - **AS** 15 (Elegant Armor)
-- **HP** 65 (10d8 + 20)
+- **HP** 65 (`dice: 10d8` + 20)
 - **Speed** 30 ft, swim 30 ft
 - **STR** 10 (+0) **DEX** 16 (+3) **CON** 14 (+2) **INT** 18 (+4) **WIS** 17 (+3) **CHA** 20 (+5)
 - **Skills** Deception +11, Insight +9, Investigation +10, Perception +9, Persuasion +11
@@ -64,7 +64,7 @@ danger_level: Moderate
 
 **Network of Whispers.** Madame Whisper can spend 10 minutes to gather information about any person, event, or organization in Aquabyssos. This functions as a *divination* spell with advantage on the roll. **Sanctuary of Secrets.** The Coral Garden Salon is under a permanent *sanctuary* effect. Additionally, any agreements made within the salon are magically binding unless both parties consent to their release. **Social Camouflage.** Madame Whisper has advantage on Charisma checks when interacting with nobility, merchants, or other social elites. ### Actions
 
-**Subtle Dagger.** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 5 (1d4 + 3) piercing damage plus 10 (3d6) psychic damage as the blade carries whispered secrets that disturb the target's mind. **Compelling Suggestion.** Madame Whisper can cast *suggestion* three times per day without expending spell slots. **Information Exchange.** As an action, Madame Whisper can offer a piece of valuable information in exchange for another secret of equal value. Both parties must make a Wisdom saving throw (DC 16); those who fail feel compelled to share truthfully. ### Legendary Actions (3 per turn, when in her salon)
+**Subtle Dagger.** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 5 (`dice: 1d4` + 3) piercing damage plus 10 (`dice: 3d6`) psychic damage as the blade carries whispered secrets that disturb the target's mind. **Compelling Suggestion.** Madame Whisper can cast *suggestion* three times per day without expending spell slots. **Information Exchange.** As an action, Madame Whisper can offer a piece of valuable information in exchange for another secret of equal value. Both parties must make a Wisdom saving throw (**DC 16**); those who fail feel compelled to share truthfully. ### Legendary Actions (3 per turn, when in her salon)
 
 **Move.** Madame Whisper moves up to her speed without provoking opportunity attacks.
 **Gather Intelligence.** Madame Whisper makes an Insight or Investigation check.
@@ -74,12 +74,10 @@ danger_level: Moderate
 2. The party needs access to high society or sensitive information, leading them to negotiate with Madame Whisper for her assistance.
 3. Someone feededing false information into Madame Whisper's network, and she needs trustworthy investigators to identify the source. ## DM Notes
 
-
 Madame Whisper serves as an excellent source of information and social connections while maintaining neutrality that makes her useful to any party regardless of their factional allegiances. Her salon can serve as a safe meeting ground and her information network can advance or complicate plots as needed. Use her sophisticated approach to espionage to contrast with cruder spy operations in the campaign. ## Player-Facing Summary Madame Whisper is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Madame Whisper as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Madame Whisper. ## Related *Links to related content will be added here.* ## Plot Hooks - A corpse reveals a conspiracy about this place
 
 - Someone is searching for information for love
 - A merchant needs help investigating before the new moon ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

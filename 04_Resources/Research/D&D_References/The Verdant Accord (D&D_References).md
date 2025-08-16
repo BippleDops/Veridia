@@ -2,7 +2,7 @@
 
 title: The Verdant Accord (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -53,7 +53,6 @@ The Verdant Accord moves information and influence like currency. Publicly pragm
 
 - Someone is protecting an heir for power
 - A journal reveals a conspiracy about this place ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

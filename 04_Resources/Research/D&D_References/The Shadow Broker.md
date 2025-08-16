@@ -2,7 +2,7 @@
 
 title: The Shadow Broker
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -45,7 +45,6 @@ updated: '2025-08-13T01:18:34.563500+00:00'
 - A noble needs help finding before dawn
 - A corpse reveals a betrayal about the government
 - A stranger needs help delivering before the new moon ## References - [[Smuggler (D&D_Statblocks)]]
-
 
 ## Notes
 

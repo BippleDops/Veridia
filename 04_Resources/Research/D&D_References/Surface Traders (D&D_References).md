@@ -2,7 +2,7 @@
 
 title: Surface Traders (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -113,12 +113,10 @@ The Surface Traders are a consortium of merchants who specialize in the dangerou
 3. Government crackdown requires emergency evacuation
 4. Surface world conflict affects trade route security ## DM Notes
 
-
 Surface Traders provide adventure opportunities involving smuggling, diplomacy, and cross-cultural conflict. They can serve as allies, employers, or obstacles depending on campaign needs and player actions. ## Player-Facing Summary Surface Traders is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Surface Traders as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Surface Traders. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession ## Plot Hooks - Someone is hunting a witness for love
 
 - Someone is hunting information for love
 - A map reveals the truth about a local noble ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

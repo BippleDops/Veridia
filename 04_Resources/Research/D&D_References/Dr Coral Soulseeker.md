@@ -2,7 +2,7 @@
 
 title: Dr Coral Soulseeker
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -47,7 +47,6 @@ world: Aquabyssos
 - A prisoner has gone missing and truth emerges
 - A corpse reveals the truth about a local noble
 - Someone is searching for an heir for power ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

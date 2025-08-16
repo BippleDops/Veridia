@@ -2,7 +2,7 @@
 
 title: Resonance Crystal (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,7 +43,6 @@ updated: '2025-08-13T01:18:35.715714+00:00'
 - The authorities needs help delivering before dawn
 - Someone is blackmailing a witness for money
 - Strange dreams suggest a conspiracy ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

@@ -1,9 +1,9 @@
 ---
 
 title: Sky Trader Zephyr Windcatcher
-type: [[location]]
-tags:
-- [[Aquabyssos]]
+type: [[location
+tags: 
+- [Aquabyssos]]
 - aerial
 - status/complete
 - quest
@@ -13,7 +13,7 @@ tags:
 - location
 - complete
 - world/aquabyssos
-- [[Aethermoor]]
+- [[Aethermoor
 - shadow-touched
 - conspiracy
 - bloodline
@@ -21,14 +21,14 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-[[region]]: Unknown
+[region]]: Unknown
 population: Unknown
-accessibility:
-  content_warnings:
+accessibility: 
+  content_warnings: 
   - political coercion
   - [[Environmental Hazards]]
   pronunciation: Sky Trader Zephyr Windcatcher
-  safety_tools:
+  safety_tools: 
   - Lines & Veils
   - X-Card
   - Open Door
@@ -61,7 +61,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -109,26 +109,26 @@ improvements: 20
 
 ## Overview
 
-Sky Trader Zephyr Windcatcher is a living crossroads where memory-currents and trade flows intersect. [[Merchant]]s, informants, and faiths compete to steer the tides of influence. The Convergence leaves subtle scars here: whispers cling to stone, and bargains echo across depths.
+Sky Trader Zephyr Windcatcher is a living crossroads where memory-currents and trade flows intersect. [Merchant]]s, informants, and faiths compete to steer the tides of influence. The Convergence leaves subtle scars here: whispers cling to stone, and bargains echo across depths.
 
 ## Player-Facing Summary
 
 Sky Trader Zephyr Windcatcher is a sky-borne element of the setting, known for brass fittings and cloudstone terraces. Its presence anchors ongoing storylines and offers clear player choices.
 
-## [[Lore]] Details
+## [[Lore Details
 
 Legends speak of Sky Trader Zephyr Windcatcher as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sky Trader Zephyr Windcatcher.
 
-### [[Key Locations]]
+### [Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [map]] use.
 
 ## Sensory Details
 
@@ -164,7 +164,7 @@ Sky Trader Zephyr Windcatcher was established in the distant past, growing from 
 
 ## Connections
 - **North**: Trade road to neighboring settlement
-- **South**: [[path]] through wilderness
+- **South**: [[path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
 
@@ -184,12 +184,12 @@ Ongoing situations affecting Sky Trader Zephyr Windcatcher:
 - External threats
 - Opportunities arising
 
-## Historical [[Time|[[Time]]line]]
+## Historical [[Time|[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[People]]s
+- War with indigenous [[Peoples
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -199,7 +199,7 @@ Ongoing situations affecting Sky Trader Zephyr Windcatcher:
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current [[Power Structures]] established
+- Current [Power Structures]] established
 
 ## Cultural Practices
 
@@ -253,11 +253,9 @@ Ongoing situations affecting Sky Trader Zephyr Windcatcher:
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

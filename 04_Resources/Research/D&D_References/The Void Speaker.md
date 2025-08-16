@@ -2,7 +2,7 @@
 
 title: The Void Speaker
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,7 +42,6 @@ updated: '2025-08-13T01:18:35.286111+00:00'
 
 - The authorities needs help investigating before the festival
 - Strange accidents suggest a conspiracy ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[The Depth Accords (D&D_References)]]
-
 
 ## Notes
 

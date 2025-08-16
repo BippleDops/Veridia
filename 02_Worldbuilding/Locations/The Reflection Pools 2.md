@@ -1,10 +1,10 @@
 ---
-accessibility:
-  content_warnings:
+accessibility: 
+  content_warnings: 
   - political coercion
   - environmental hazards
   pronunciation: The Reflection Pools
-  safety_tools:
+  safety_tools: 
   - Lines & Veils
   - X-Card
   - Open Door
@@ -14,7 +14,7 @@ accessibility:
 created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -26,13 +26,9 @@ updated: '2025-08-13T12:34:16.789384+00:00'
 world: Aquabyssos
 ---
 
-
-
-
-
 # The Reflection Pools
 
-![[04_Resources/Assets/Art/Places/The_Reflection_Pools.png|The Reflection Pools Portrait]]
+![[04_Resources/Assets/Art/Places/The_Reflection_Pools.png|The Reflection Pools Portrait
 
 *Where every choice not taken shimmers in the water*
 
@@ -162,7 +158,7 @@ Leader of the Order, who exists in twelve possible versions simultaneously:
 *Medium humanoid (human), true neutral*
 
 **Armor Class** 15 (foresight)
-**Hit Points** 135 (18d8 + 54)
+**Hit Points** 135 (`dice: 18d8` + 54)
 **Speed** 30 ft., swim 30 ft.
 
 STR 9 (-1), DEX 14 (+2), CON 16 (+3), INT 20 (+5), WIS 24 (+7), CHA 18 (+4)
@@ -181,7 +177,7 @@ STR 9 (-1), DEX 14 (+2), CON 16 (+3), INT 20 (+5), WIS 24 (+7), CHA 18 (+4)
 
 **Quantum Uncertainty.** Serendipity's exact position is uncertain. Attack rolls against her have disadvantage.
 
-**Spellcasting.** Serendipity is an 18th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 20, +12 to hit with spell attacks). She has the following spells prepared:
+**Spellcasting.** Serendipity is an 18th-level spellcaster. Her spellcasting ability is Wisdom (spell save **DC 20**, +12 to hit with spell attacks). She has the following spells prepared:
 
 Cantrips (at will): *guidance*, *mending*, *sacred flame*, *spare the dying*, *thaumaturgy*
 1st level (4 slots): *bless*, *command*, *detect magic*, *identify*
@@ -197,9 +193,9 @@ Cantrips (at will): *guidance*, *mending*, *sacred flame*, *spare the dying*, *t
 **Actions**
 **Multiattack.** Serendipity makes two Possibility Strike attacks.
 
-**Possibility Strike.** *Melee Spell Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 22 (5d8) force damage, and the target must succeed on a DC 20 Wisdom saving throw or be stunned as they experience all possible outcomes of the attack simultaneously.
+**Possibility Strike.** *Melee Spell Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 22 (`dice: 5d8`) force damage, and the target must succeed on a **DC 20** Wisdom saving throw or be stunned as they experience all possible outcomes of the attack simultaneously.
 
-**Show the Paths (Recharge 5-6).** Serendipity forces a creature within 60 feet to see all their possible futures at once. The target must make a DC 20 Wisdom saving throw. On a failure, they take 55 (10d10) psychic damage and are paralyzed for 1 minute as they process infinite possibilities. On a success, they take half damage and gain advantage on all rolls for 1 minute as they see the optimal path.
+**Show the Paths (Recharge 5-6).** Serendipity forces a creature within 60 feet to see all their possible futures at once. The target must make a **DC 20** Wisdom saving throw. On a failure, they take 55 (`dice: 10d10`) psychic damage and are paralyzed for 1 minute as they process infinite possibilities. On a success, they take half damage and gain advantage on all rolls for 1 minute as they see the optimal path.
 
 **Legendary Actions**
 Serendipity can take 3 legendary actions, choosing from the options below.
@@ -228,7 +224,7 @@ Elemental beings of crystallized possibility:
 *Large elemental, unaligned*
 
 **Armor Class** 16 (natural armor)
-**Hit Points** 114 (12d10 + 48)
+**Hit Points** 114 (`dice: 12d10` + 48)
 **Speed** 40 ft., swim 40 ft.
 
 STR 18 (+4), DEX 14 (+2), CON 18 (+4), INT 10 (+0), WIS 15 (+2), CHA 12 (+1)
@@ -247,13 +243,13 @@ STR 18 (+4), DEX 14 (+2), CON 18 (+4), INT 10 (+0), WIS 15 (+2), CHA 12 (+1)
 **Actions**
 **Multiattack.** The elemental makes two slam attacks.
 
-**Slam.** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 17 (3d8 + 4) bludgeoning damage plus 9 (2d8) force damage.
+**Slam.** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 17 (`dice: 3d8` + 4) bludgeoning damage plus 9 (`dice: 2d8`) force damage.
 
-**Possibility Storm (Recharge 5-6).** The elemental creates a 20-foot radius storm of conflicting realities. Each creature in the area must make a DC 16 Wisdom saving throw. On a failure, a creature takes 36 (8d8) psychic damage and rolls on the Possibility Storm table. On a success, they take half damage and no additional effect.
+**Possibility Storm (Recharge 5-6).** The elemental creates a 20-foot radius storm of conflicting realities. Each creature in the area must make a **DC 16** Wisdom saving throw. On a failure, a creature takes 36 (`dice: 8d8`) psychic damage and rolls on the Possibility Storm table. On a success, they take half damage and no additional effect.
 
 **Possibility Storm Table (d6)**
 1. Creature exchanges positions with another random creature in the storm
-2. Creature ages 1d10 years or becomes 1d10 years younger (50% chance each)
+2. Creature ages `dice: 1d10` years or becomes `dice: 1d10` years younger (50% chance each)
 3. Creature's alignment shifts one step in a random direction for 1 hour
 4. Creature forgets the last 24 hours
 5. Creature gains a random memory from another creature in the storm
@@ -281,7 +277,7 @@ STR 18 (+4), DEX 14 (+2), CON 18 (+4), INT 10 (+0), WIS 15 (+2), CHA 12 (+1)
 **Life Reflection** (10,000 gp)
 - Complete view of all unchosen possibilities
 - 100% accurate but dangerous
-- Requires Wisdom save (DC 20) or gain long-term madness
+- Requires Wisdom save (**DC 20**) or gain long-term madness
 
 ### Forbidden Services
 
@@ -391,7 +387,7 @@ A powerful wizard has gathered versions of themselves from twelve different time
 
 ### Probability Storms
 - Random events from other timelines manifest
-- Duration: 1d10 minutes
+- Duration: `dice: 1d10` minutes
 - Effects: Roll on wild magic table every round
 
 ### Temporal Whirlpools
@@ -456,11 +452,11 @@ Each prophecy made drains possibility from the future, making reality more rigid
 ---
 
 ## See Also
-- [[02_Worldbuilding/Groups/Order of Mirrors|02 Worldbuilding/Groups/Order Of Mirrors]]
-- [[02_Worldbuilding/Lore/Quantum Magic Theory|02 Worldbuilding/Lore/Quantum Magic Theory]]
-- [[02_Worldbuilding/Places/The Twilight Depths|02 Worldbuilding/Places/The Twilight Depths]]
-- [[03_Mechanics/Divination_Expanded|03 Mechanics/Divination Expanded]]
-- [[03_Mechanics/Temporal_Mechanics_System|03 Mechanics/Temporal Mechanics System]]
+- [02_Worldbuilding/Groups/Order of Mirrors|02 Worldbuilding/Groups/Order Of Mirrors]]
+- [[02_Worldbuilding/Lore/Quantum Magic Theory|02 Worldbuilding/Lore/Quantum Magic Theory
+- [02_Worldbuilding/Places/The Twilight Depths|02 Worldbuilding/Places/The Twilight Depths]]
+- [[03_Mechanics/Divination_Expanded|03 Mechanics/Divination Expanded
+- [03_Mechanics/Temporal_Mechanics_System|03 Mechanics/Temporal Mechanics System]]
 
 *"In the Reflection Pools, every maybe becomes a mirror, and every mirror tells a truth that never was."*
 
@@ -474,35 +470,29 @@ Legends speak of The Reflection Pools as a nexus where past and present converge
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Reflection Pools]]
+- [[02_Worldbuilding/Places/The Reflection Pools
 
 <!-- enriched: true -->
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]
-
+- [02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

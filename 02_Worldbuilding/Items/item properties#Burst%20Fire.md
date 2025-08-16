@@ -1,7 +1,7 @@
 ---
-title: item properties#Burst%20Fire
+title: "item properties#Burst%20Fire"
 type: note
-tags:
+tags: 
 - auto-generated
 - linked
 created: '2025-01-15'
@@ -10,13 +10,13 @@ created: '2025-01-15'
 # item properties#Burst%20Fire
 
 ## Overview
-This topic is referenced in [[automatic-rifle-xdmg (items)]] and other parts of the campaign.
+This topic is referenced in [[automatic-rifle-xdmg (items) and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[automatic-rifle-xdmg (items)]]
+- Referenced by: [automatic-rifle-xdmg (items)]]
 - Related topics in the same category
 
 ## Details

@@ -1,7 +1,7 @@
 ---
 type: Lore
 status: complete
-tags:
+tags: 
 - aethermoor
 - bunker
 - complete
@@ -15,8 +15,6 @@ created_by: auto-stub
 created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
-
-
 
 # Silverscale Emergency Bunker
 
@@ -55,14 +53,13 @@ Designed for sustained operation up to one year without external support.
 ## Campaign Use
 Provides secure meeting location, refuge during disasters, or target for infiltration missions.
 
-
 ## Connections
 
-- [[02_Worldbuilding/Lore/Silver Mask]]
-- [[02_Worldbuilding/Lore/The Deep Mother]]
-- [[02_Worldbuilding/Lore/The Final Choice]]
-- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
-- [[1-Session Journals/Aethermoor - Session 04 The Silverscale Gambit]]
+- [[02_Worldbuilding/Lore/Silver Mask
+- [02_Worldbuilding/Lore/The Deep Mother]]
+- [[02_Worldbuilding/Lore/The Final Choice
+- [02_Worldbuilding/Lore/The Silverscale Conspiracy]]
+- [[1-Session Journals/Aethermoor - Session 04 The Silverscale Gambit
 
 ## Player-Facing Summary
 
@@ -80,4 +77,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Final Choice|02 Worldbuilding/Lore/The Final Choice]]
+- [02_Worldbuilding/Lore/The Final Choice|02 Worldbuilding/Lore/The Final Choice]]

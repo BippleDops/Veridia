@@ -2,7 +2,7 @@
 
 title: The Seven Shards Campaign Act Structure
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -57,7 +57,6 @@ world: Universal
 - A shipment has gone missing and war looms
 - A prisoner has gone missing and war looms
 - A journal reveals ancient history about the government ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

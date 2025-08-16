@@ -2,7 +2,7 @@
 
 title: Luck Spirits
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,10 +42,9 @@ updated: '2025-08-13T01:18:35.106024+00:00'
 
 - Someone is blackmailing a witness for money
 - A map reveals ancient history about the cult
-- A stranger needs help investigating before winter ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Bubble Burst]]
+- A stranger needs help investigating before winter ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Bubble Burst
 
-- [[Bubble Burst (D&D_References)]]
-
+- [Bubble Burst (D&D_References)]]
 
 ## Notes
 

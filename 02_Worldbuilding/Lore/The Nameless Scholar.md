@@ -1,12 +1,12 @@
 ---
 
 title: The Nameless Scholar
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
 - historical-event
 - content/lore
-- world/[[Aethermoor]]
+- world/[Aethermoor]]
 - active
 - complete
 - status/in-progress
@@ -35,7 +35,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -85,7 +85,7 @@ The Nameless Scholar is a undersea element of the setting, known for bioluminesc
 
 Legends speak of The Nameless Scholar as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Nameless Scholar.
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -141,5 +141,5 @@ Mentioned in The Second Prophecy of Stars
 
 ## References
 
-- [[The Final Choice]]
-- [[The Great Crystallization]]
+- [[The Final Choice
+- [The Great Crystallization]]

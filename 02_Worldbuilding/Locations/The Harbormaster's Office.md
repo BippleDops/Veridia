@@ -2,7 +2,7 @@
 
 title: The Harbormaster's Office
 type: Location
-tags:
+tags: 
 - content/location
 - place
 - world/aethermoor
@@ -220,19 +220,16 @@ Key stop on magic items trade route
 
 ## References
 
-- [[Port Meridian - Merchant Quarter]]
-- [[Port Meridian - Merchant Quarter (D&D_References)]]
-
+- [[Port Meridian - Merchant Quarter
+- [Port Meridian - Merchant Quarter (D&D_References)]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

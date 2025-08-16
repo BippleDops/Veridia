@@ -9,7 +9,6 @@ aliases: ["Master NPC Index"]
 
 > *Not all allies are what they seem...* This remarkable element adds depth and intrigue to any campaign.
 
-
 ## Overview
 
 Comprehensive overview of this content.
@@ -39,13 +38,11 @@ publish: false
 
 - *[NPCs organized by location]* ## By Faction
 
-
 ### Government Officials {#government-officials}
 
 - *[Political figures]* ### Merchants & Traders
 
 - *[Economic figures]* ## By Importance
-
 
 ### Major NPCs {#major-npcs}
 
@@ -79,7 +76,6 @@ publish: false
 **Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. *To be added* ## Appearance *To be added* ## Personality *To be added* ## Relationships *To be adde
 *Sounds of [relevant sounds] echo in the distance.*d* ## Plot Hooks *To be added*
 
-
 ## Notes {#notes}
 
 *Additional notes*
@@ -93,35 +89,25 @@ publish: false
 #meta/index
 #meta/reference
 
-
 ## Voice & Mannerisms {#voice-&-mannerisms}
 - Speaking style
 - Common phrases
-
-
 
 ## Daily Routine {#daily-routine}
 - Morning activities
 - Evening habits
 
-
-
 ## Possessions {#possessions}
 - Personal items
 - Valuable objects
-
-
 
 ## Combat Tactics {#combat-tactics}
 - Preferred strategies
 - Special moves
 
-
-
 ## Secrets {#secrets}
 - Hidden knowledge
 - Personal mysteries
-
 
 **Key Question**: What drives this character's actions?
 ## DM Guidance
@@ -129,10 +115,9 @@ publish: false
 - **Adaptation**: Ways to modify for your needs
 - **Connections**: How this links to other elements
 
-
 *Every story needs its heroes.*
 
 ## Visual References
-![[04_Resources/Assets/Locations/location-city-guildmaster-harwick-v1-guildmaster-harwick.png]]
-![[04_Resources/Assets/Locations/location-city-surge-mixmaster-v1-surge-mixmaster.png]]
+![[04_Resources/Assets/Locations/location-city-guildmaster-harwick-v1-guildmaster-harwick.png
+![04_Resources/Assets/Locations/location-city-surge-mixmaster-v1-surge-mixmaster.png]]
 ![[04_Resources/Assets/Locations/location-city-master-archivist-thomas-scrollkeeper-v1-master-archivist-thomas-scrollkeeper.png]]

@@ -2,7 +2,7 @@
 
 title: High Tidecaller Nerissa
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -221,18 +221,17 @@ Nerissa's restoration doesn't have to be all-or-nothing. Consider partial succes
 - **Roleplay Heavy**: Emphasize character development and moral choices over action The High Tidecaller Nerissa quest offers players the chance to explore themes of faith, corruption, and redemption while navigating the beautiful and dangerous world of underwater religious communities in Aquabyssos. ## Player-Facing Summary High Tidecaller Nerissa is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of High Tidecaller Nerissa as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around High Tidecaller Nerissa. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Strange disappearances suggest ancient magic
 
 - Strange disappearances suggest a conspiracy
-- The authorities needs help delivering before the new moon ## Related Notes - [[Similar Topic 1]]
+- The authorities needs help delivering before the new moon ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[The_Crimson_Pearl]]
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[The_Crimson_Pearl
 
-- [[Pearl_Harbor_City (D&D_References)]]
-- [[The Crimson Pearl (D&D_References)]]
-- [[The_Crimson_Pearl (D&D_References)]]
-- [[Topic Matrix]]
-- [[Topic_Matrix (Indexes)]]
-
+- [Pearl_Harbor_City (D&D_References)]]
+- [[The Crimson Pearl (D&D_References)
+- [The_Crimson_Pearl (D&D_References)]]
+- [[Topic Matrix
+- [Topic_Matrix (Indexes)]]
 
 ## Notes
 

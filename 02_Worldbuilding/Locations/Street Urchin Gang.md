@@ -2,7 +2,7 @@
 
 title: Street Urchin Gang
 type: Location
-tags:
+tags: 
 - aquabyssos
 - status/complete
 - survival
@@ -281,19 +281,16 @@ Ongoing situations affecting Street Urchin Gang:
 
 ## References
 
-- [[Pearl_Harbor_City (Places)]]
-- [[Pearl_Harbor_City (D&D_References)]]
-
+- [[Pearl_Harbor_City (Places)
+- [Pearl_Harbor_City (D&D_References)]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

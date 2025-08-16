@@ -1,6 +1,6 @@
 ---
 tags: [tool, calculator, encounter]
-created: 2025-08-15T14:13:16.703716
+created: "2025-08-15T14:13:16.703716"
 ---
 
 # ⚔️ Encounter Calculator

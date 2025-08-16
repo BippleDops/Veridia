@@ -2,7 +2,7 @@
 
 title: Truth and Madness (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -50,7 +50,6 @@ Truth and Madness is a living crossroads where memory-currents and trade flows i
 - Strange accidents suggest ancient magic
 - Strange sightings suggest a portal
 - A document has gone missing and chaos spreads ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

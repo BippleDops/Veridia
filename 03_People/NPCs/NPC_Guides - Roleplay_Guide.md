@@ -1,15 +1,14 @@
 ---
 enhanced: true
 tags: [enhanced, 03_people]
-created: 2025-08-15T12:24:42.957420
-modified: 2025-08-15T12:24:42.957426
+created: "2025-08-15T12:24:42.957420"
+modified: "2025-08-15T12:24:42.957426"
 aliases: [NPC Guides - Roleplay Guide]
 ---
 
 # Npc Guides   Roleplay Guide
 
 > *Every scar tells a story...* This remarkable element adds depth and intrigue to any campaign.
-
 
 ## Overview
 
@@ -42,7 +41,7 @@ tags:
 - research created: modified: '2025-08-14'
 status: active
 updated: '2025-08-13T01:18:31.154418+00:00'
-world: Both --- # NPC Roleplay Guide *Master the art of bringing Non-Player Characters to life* ### Voice Modifications Roll 1d20 or choose:
+world: Both --- # NPC Roleplay Guide *Master the art of bringing Non-Player Characters to life* ### Voice Modifications Roll `dice: `dice: 1d20`` or choose:
 1. **Whispers** - Never speaks above a whisper
 2. **Booming** - Projects voice unnecessarily loud
 3. **Nasal** - High, through the nose
@@ -130,7 +129,7 @@ world: Both --- # NPC Roleplay Guide *Master the art of bringing Non-Player Char
 - *Pleased*: "Excellent. In 47% of timelines, you succeed. You've raised it to 52%. Progress." **Motivation Quick-Ref**:
 - Stabilize merged realities
 - Prevent total collapse
-- Hidden: Find his original timeline --- ### Personality Traits (Roll 2d20, combine) 1. Optimistic + Naive
+- Hidden: Find his original timeline --- ### Personality Traits (Roll `dice: `dice: 2d20``, combine) 1. Optimistic + Naive
 2. Cynical + Wise
 3. Greedy + Generous
 4. Brave + Foolish
@@ -204,7 +203,7 @@ world: Both --- # NPC Roleplay Guide *Master the art of bringing Non-Player Char
 - **Obsession**: Collects specific items
 - **Verbal Tic**: Specific repeated phrase
 - **Physical Tell**: Behavior when lying
-- **Hidden Depth**: Unexpected expertise ### Quick Relationship Generator Roll 1d12:
+- **Hidden Depth**: Unexpected expertise ### Quick Relationship Generator Roll `dice: `dice: 1d12``:
 1. Secretly in love with
 2. Owes money to
 3. Blackmailing
@@ -263,13 +262,12 @@ world: Both --- # NPC Roleplay Guide *Master the art of bringing Non-Player Char
 - Hidden knowledge
 - Personal mysteries
 
-
 *Adventure awaits those brave enough to seek it.*
 
 ## Thematic Elements
 This content explores themes of power and corruption, adding narrative depth to your campaign.
 
 ## Visual References
-![[04_Resources/Assets/Misc/cultural_guide.png]]
-![[04_Resources/Assets/Misc/07_player_resources_faction_guide_md.png]]
+![[04_Resources/Assets/Misc/cultural_guide.png
+![04_Resources/Assets/Misc/07_player_resources_faction_guide_md.png]]
 ![[04_Resources/Assets/Misc/shadow_behavior_guidelines.png]]

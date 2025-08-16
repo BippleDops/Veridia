@@ -3,7 +3,7 @@ enhanced: true
 
 title: Aethermoor Academy of Mystical Science
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -65,10 +65,10 @@ updated: '2025-08-13T01:18:36.770847+00:00'
 This relates to the deep realm of Deepest ocean trenches and underwater kingdoms.
 
 - **Ruling Power**: The Tidal Throne
-- **Capital**: [[Pearlheart Palace]]
+- **Capital**: [[Pearlheart Palace
 - **Primary Magic**: Tidal control, pressure magic, bioluminescence
 - **Current Conflict**: The Crushing Dark, Surface Wars
-- **Key Locations**: [[Abyssal Trenches]], [[Coral Throne]]
+- **Key Locations**: [Abyssal Trenches]], [[Coral Throne]]
 
 In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
 build cities of living coral and navigate by bioluminescent paths.

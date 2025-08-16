@@ -1,13 +1,13 @@
 ---
 
 title: The Departed Collective
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - world/aquabyssos
 - content/lore
-- content/[[Npc]]
+- content/[[Npc
 - active
 - complete
 - status/in-progress
@@ -31,11 +31,11 @@ improvements: 20
 
 ### Culture Improvements
 
-- Define unique [[Cultural Practices|Cultural Practices]] and taboos
+- Define unique [Cultural Practices|Cultural Practices]] and taboos
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]]]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -43,15 +43,15 @@ improvements: 20
 
 ### Lifestyle Improvements
 
-- Describe typical day for different social [[classes|classes]]
+- Describe typical day for different social [[classes|classes
 
 ### Material_Culture Improvements
 
-- Detail common [[objects|objects]] and their cultural significance
+- Detail common [objects|objects]] and their cultural significance
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[region]]s
+- Describe how this culture exists in other [[regions
 
 ### Contradictions Improvements
 
@@ -73,19 +73,19 @@ improvements: 20
 
 - Show how traditions are changing with new generation
 
-## Player-[[facing|facing]] Summary
+## Player-[facing|facing]] Summary
 
 The Departed Collective is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of The Departed Collective as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or [[Whispers|Whispers]] on the wind—that herald change around The Departed Collective.
+Legends speak of The Departed Collective as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or [[Whispers|Whispers on the wind—that herald change around The Departed Collective.
 
-## [[DM_Notes|DM Notes]]]]
+## [DM_Notes|DM Notes]]]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## [[Historical Context]]
+## [[Historical Context
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -146,4 +146,4 @@ Mentioned in The First Prophecy of Winds
 - Tithing of 10% income
 
 ---
-**Navigation**: [[INDEX|🏠 Home]] | [[INDEX|📚 Index]]
+**Navigation**: [INDEX|🏠 Home]] | [[INDEX|📚 Index]]

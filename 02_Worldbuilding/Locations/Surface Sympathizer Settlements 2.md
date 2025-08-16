@@ -3,7 +3,7 @@ created: '2025-08-08'
 created_by: auto-stub
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - access/secret
 - aquabyssos
 - complete
@@ -17,13 +17,8 @@ updated: '2025-08-13T12:34:17.121710+00:00'
 world: Aquabyssos
 ---
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-surface-sympathizer-settlements-surface-sympathizer-settlements.svg)
-
-
-
-
 
 # Surface Sympathizer Settlements
 
@@ -140,32 +135,23 @@ Settlements are deliberately hidden and defensible:
 ## DM Notes
 These settlements provide opportunities for political intrigue, moral choices about loyalty versus conscience, and connections to larger surface world conflicts. They can serve as safe havens or sources of dangerous political complications.
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-
+- [[02_Worldbuilding/Places/Abyssos Prime
 
 ## History
 
-
 TODO
-
 
 ## Notables
 
-
 TODO
-
 
 ## Threats
 
-
 TODO
 
-
 ## Hooks
-
 
 TODO
 
@@ -179,25 +165,21 @@ Legends speak of Surface Sympathizer Settlements as a nexus where past and prese
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Surface Sympathizer Settlements]]
+- [02_Worldbuilding/Places/Surface Sympathizer Settlements]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

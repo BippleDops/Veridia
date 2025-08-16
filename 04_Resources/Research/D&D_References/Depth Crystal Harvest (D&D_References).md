@@ -2,7 +2,7 @@
 
 title: Depth Crystal Harvest (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -70,13 +70,11 @@ Multiple mining sites scattered across three major trench systems, connected by 
 3. Exploration of newly discovered crystal caverns
 4. Negotiation with deep-dwelling creatures claiming territory ## DM Notes
 
-
 Use this location for high-stakes rescue missions and industrial espionage. The extreme environment creates natural tension and urgency. Corporate politics can drive ongoing campaigns. ## Player-Facing Summary Depth Crystal Harvest is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Depth Crystal Harvest as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Depth Crystal Harvest. ## Related *Links to related content will be added here.* ## Plot Hooks - A document has gone missing and war looms
 
 - The authorities needs help investigating before dawn
 - A journal reveals a conspiracy about the cult
 - Strange sightings suggest a curse ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

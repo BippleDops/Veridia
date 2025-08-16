@@ -1,10 +1,10 @@
 ---
 
-title: [[Identity Preservation]] Crystal
-type: [[Lore]]
-tags:
+title: [[Identity Preservation Crystal
+type: [Lore]]
+tags: 
 - lore
-- [[Aquabyssos]]
+- [[Aquabyssos
 - world/aquabyssos
 - content/faction
 - content/lore
@@ -36,7 +36,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 

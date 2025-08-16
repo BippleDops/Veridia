@@ -2,7 +2,7 @@
 
 title: Thalassius the Wise (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -53,9 +53,9 @@ Thalassius the Wise stands as one of and and connects to research at. Known for 
 
 Born during the early expansion period of Aquabyssos, Thalassius demonstrated exceptional intellectual gifts from childhood, showing particular aptitude for understanding complex patterns in both natural phenomena and social structures. His early education encompassed traditional Merfolk scholarship, expanded to include the knowledge systems of other aquatic species as the city's population diversified. Thalassius's transformation from promising student to legendary scholar began with his discovery of ancient texts in the deep archives, documents that revealed sophisticated magical and philosophical traditions from pre-unification underwater civilizations. His translations and interpretations of these works established his reputation and laid the foundation for his later contributions. ### Development
 
-As [[Aquabyssos]] evolved from experimental settlement to major underwater metropolis, Thalassius adapted his scholarship to address the practical challenges facing the growing city, including understanding the effects of [[Timeline of the Drowning]] and [[The Great Crystallization]]. His research into pressure dynamics, current management, and inter-species psychology proved crucial during the Great Unification negotiations and the establishment of the modern city structure. Thalassius's development of the "Current Theory of Magic" revolutionized underwater spellcasting and led to numerous practical innovations in magical engineering and architectural design. His work bridging ancient wisdom with contemporary needs earned him recognition as the city's foremost intellectual authority. ### Current Era
+As [[Aquabyssos evolved from experimental settlement to major underwater metropolis, Thalassius adapted his scholarship to address the practical challenges facing the growing city, including understanding the effects of [Timeline of the Drowning]] and [[The Great Crystallization. His research into pressure dynamics, current management, and inter-species psychology proved crucial during the Great Unification negotiations and the establishment of the modern city structure. Thalassius's development of the "Current Theory of Magic" revolutionized underwater spellcasting and led to numerous practical innovations in magical engineering and architectural design. His work bridging ancient wisdom with contemporary needs earned him recognition as the city's foremost intellectual authority. ### Current Era
 
-Modern Thalassius continues his research while serving as elder advisor to city leadership and mentor to new generations of scholars. His recent work focuses on understanding the implications of Surface contact, the nature of inter-realm magical interactions, and the growing concerns about deep-ocean phenomena that threaten both civilizations. His current projects include comprehensive analysis of [[Shadow Corruption]] effects, compilation of comparative cultural studies between [[Aethermoor]] and [[Aquabyssos]] societies, investigation of ancient prophecies that may relate to [[The Convergence Point]], and research into [[The Deep Mother]]'s growing influence. ### In Aquabyssos
+Modern Thalassius continues his research while serving as elder advisor to city leadership and mentor to new generations of scholars. His recent work focuses on understanding the implications of Surface contact, the nature of inter-realm magical interactions, and the growing concerns about deep-ocean phenomena that threaten both civilizations. His current projects include comprehensive analysis of [Shadow Corruption]] effects, compilation of comparative cultural studies between [[Aethermoor and [Aquabyssos]] societies, investigation of ancient prophecies that may relate to [[The Convergence Point, and research into [The Deep Mother]]'s growing influence. ### In Aquabyssos
 
 Thalassius represents the intellectual heart of Aquabyssos culture, embodying the values of learning, wisdom, and practical application of knowledge that define the city's approach to challenges. Citizens view him as a living repository of their cultural heritage and a bridge connecting ancient traditions with contemporary innovations. His influence extends beyond academic circles to affect practical goverce, technological development, and social policy. Many of Aquabyssos's most important institutions and practices reflect principles and innovations that originated in Thalassius's research and teaching. ### In Aethermoor
 
@@ -74,7 +74,6 @@ Thalassius's recent research has uncovered disturbing patterns in ancient texts 
 3. Mysterious threats target Thalassius to prevent him from completing important translations
 4. The scholar's apparent knowledge of future events raises questions about his true nature ### Early Campaign
 
-
 Introduce as wise mentor and information source who can provide historical context and practical guidance for beginning adventures. ### Mid Campaign
 
 Thalassius's research and insights become crucial for understanding major plot developments and navigating complex political situations. ### Late Campaign
@@ -90,12 +89,11 @@ Use Thalassius as a source of wisdom and historical context who can provide guid
 Adjust Thalassius's accessibility and knowledge level based on campaign needs - more helpful for learning-focused campaigns, more mysterious for investigation-heavy adventures, or more action-oriented for crisis scenarios. ## Player-Facing Summary Thalassius the Wise is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Thalassius the Wise as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Thalassius the Wise. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Prophecy Connection Mentioned in The First Prophecy of Shadows ## Plot Hooks - A noble needs help delivering before the festival
 
 - A shipment has gone missing and truth emerges
-- A shipment has gone missing and evil awakens ## Related Notes - [[Similar Topic 1]]
+- A shipment has gone missing and evil awakens ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

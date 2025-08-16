@@ -2,7 +2,7 @@
 
 title: Mirror Embassy
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -41,7 +41,6 @@ updated: '2025-08-13T01:18:35.008203+00:00'
 
 - The authorities needs help finding before the new moon
 - A corpse reveals a conspiracy about this place ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

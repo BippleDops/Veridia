@@ -2,7 +2,7 @@
 
 title: The Last Seeds (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -82,11 +82,9 @@ Decades ago, vast kelp forests surrounded Aquabyssos, forming natural barriers a
 3. Discovery of vault location creates opportunity
 4. Previous expedition failed, characters asked to investigate ## Long-term Impact
 
-
 Success in this quest can fundamentally change the campaign setting, restoring natural ecosystems and potentially revealing larger environmental or political conspiracies. The restored forests become ongoing elements of the world. ## DM Notes
 
 This quest combines environmental urgency with political intrigue and dungeon exploration. The time pressure creates natural tension while the large-scale consequences give weight to player actions. Consider how success or failure affects the broader campaign world. ## Player-Facing Summary The Last Seeds is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Last Seeds as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Last Seeds. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

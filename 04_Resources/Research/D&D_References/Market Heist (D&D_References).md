@@ -2,7 +2,7 @@
 
 title: Market Heist (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -132,15 +132,13 @@ A complex criminal operation targeting the Grand Market's central vault during t
 3. Characters hired to prevent or investigate the heist
 4. Rival group attempts to sabotage player character heist ## Long-term Consequences
 
-
 Successful heist establishes criminal reputation but increases law enforcement attention. Failure may close off criminal opportunities but could lead to legitimate alternatives. ## DM Notes
 
-This heist emphasizes planning and teamwork over combat. Reward creative problem-solving and thorough preparation. Consider moral implications and how success or failure affects future campaign opportunities. ## Player-Facing Summary Market Heist is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Market Heist as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Market Heist. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil ## Related Notes - [[Similar Topic 1]]
+This heist emphasizes planning and teamwork over combat. Reward creative problem-solving and thorough preparation. Consider moral implications and how success or failure affects future campaign opportunities. ## Player-Facing Summary Market Heist is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Market Heist as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Market Heist. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

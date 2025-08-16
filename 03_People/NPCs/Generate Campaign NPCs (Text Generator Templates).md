@@ -6,7 +6,7 @@ improvements: 20
 location: Unknown
 modified: '2025-08-14'
 race: Unknown
-tags:
+tags: 
 - npc
 title: Generate Campaign NPCs
 type: npc
@@ -39,7 +39,7 @@ Born into modest circumstances, Generate Campaign NPCs rose through dedication a
 - **Equipment**: Various tools of their trade
 
 ## Relationships
-- **Allies**: [[The Merchant's Guild]], [[City Watch]]
+- **Allies**: [[The Merchant's Guild, [City Watch]]
 - **Rivals**: [[Shadow Conspiracy]]
 - **Contacts**: Network of informants throughout the city
 
@@ -54,26 +54,21 @@ Actively involved in current events, pursuing their own agenda while maintaining
 ## DM Notes
 *This NPC can serve multiple roles depending on campaign needs. Their true loyalties are intentionally ambiguous.*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Possessions
 - Personal items
 - Valuable objects
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Secrets
 - Hidden knowledge

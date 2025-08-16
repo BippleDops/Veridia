@@ -2,7 +2,7 @@
 
 title: The Hadal Depths (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -57,12 +57,12 @@ obsidian UIMode: preview
 
 *Where Reality Drowns, The Mother's Cradle, The Final Deep* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
-The Hadal Depths represent the absolute bottom of [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]], where water becomes something else entirely and the laws of physics surrender to older truths. Here, at depths exceeding 20,000 feet, the [[Deep Mother|02 Worldbuilding/Lore/Deep Mother]] slumbers in her eternal dream, her massive form comprising entire mountain ranges and trenches. This is where existence becomes negotiable, where pressure transforms matter into thought, and where even [[Aboleth Prime Yoth|02 Worldbuilding/People/Aboleth Prime Yoth]] fears to venture. #### The Hadal Threshold (20,000-25,000 feet)
+The Hadal Depths represent the absolute bottom of [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos, where water becomes something else entirely and the laws of physics surrender to older truths. Here, at depths exceeding 20,000 feet, the [Deep Mother|02 Worldbuilding/Lore/Deep Mother]] slumbers in her eternal dream, her massive form comprising entire mountain ranges and trenches. This is where existence becomes negotiable, where pressure transforms matter into thought, and where even [[Aboleth Prime Yoth|02 Worldbuilding/People/Aboleth Prime Yoth]] fears to venture. #### The Hadal Threshold (20,000-25,000 feet)
 
 **The Last Boundary**
 - Water becomes viscous, more like liquid space
 - Light doesn't just fade—it's actively consumed
-- Pressure: Instant death for unprepared (DC 30 CON)
+- Pressure: Instant death for unprepared (**DC 30** CON)
 - Time dilation: 1 hour = 1 day surface time
 - First whispers of the Mother's dreams #### The Dreaming Deep (25,000-30,000 feet)
 
@@ -102,7 +102,7 @@ The Hadal Depths represent the absolute bottom of [[Aquabyssos|02 Worldbuilding/
 - The Marianas Scar: Where she first dreamed #### The Spawning Grounds
 
 **Where Nightmares Birth**
-- [[Aboleth Prime Yoth|02 Worldbuilding/People/Aboleth Prime Yoth]]'s origin point
+- [[Aboleth Prime Yoth|02 Worldbuilding/People/Aboleth Prime Yoth's origin point
 - Shadow creatures spontaneously generate
 - Primordial life forms beyond classification
 - New horrors born from Mother's bad dreams
@@ -116,7 +116,7 @@ The Hadal Depths represent the absolute bottom of [[Aquabyssos|02 Worldbuilding/
 - Time doesn't pass inside #### Primordial Aboleths
 
 **The First Children**
-- Older than [[Aboleth Prime Yoth|02 Worldbuilding/People/Aboleth Prime Yoth]]
+- Older than [Aboleth Prime Yoth|02 Worldbuilding/People/Aboleth Prime Yoth]]
 - Size of small cities
 - Memories predate reality
 - Speak in gravitational waves
@@ -148,20 +148,20 @@ The Hadal Depths represent the absolute bottom of [[Aquabyssos|02 Worldbuilding/
 - Most die, some transform, few return
 - Those who return can't/won't speak
 - Bodies adapted beyond recognition
-- Considered holy by [[Prophet Nerida Voidgazer|02 Worldbuilding/People/Prophet Nerida Voidgazer]] #### The Pressure Miners
+- Considered holy by [[Prophet Nerida Voidgazer|02 Worldbuilding/People/Prophet Nerida Voidgazer #### The Pressure Miners
 
 **Resource Extractors**
 - Harvest compressed reality gems
 - Use abolished slaves for labor
 - Life expectancy: 3 days
 - Operations highly secret
-- Funded by [[Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]] #### Lost Expeditions
+- Funded by [Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]] #### Lost Expeditions
 
 **Never Returned**
 - The Depth Finder: 200 years ago
 - Scholarly Submersible: 50 years ago
 - The Reality Anchor: Last year
-- [[Prince Caspian's Folly]]: Status unknown
+- [[Prince Caspian's Folly: Status unknown
 - Countless others erased from history ### Pressure Effects
 
 **Beyond Physical**
@@ -176,7 +176,6 @@ The Hadal Depths represent the absolute bottom of [[Aquabyssos|02 Worldbuilding/
 3. **Memory Storms**: Past events replay physically
 4. **Gravity Tides**: Direction becomes meaningless
 5. **Existence Failure**: Random things stop existing ### The Mother's Dreams
-
 
 **Active Hazards**
 - **Nightmares**: Manifest as aggressive entities
@@ -198,7 +197,6 @@ The Hadal Depths represent the absolute bottom of [[Aquabyssos|02 Worldbuilding/
 3. Dream frequency intensifying
 4. Shadow spawn rate doubling
 5. Temperature rising 0.1 degree #### Compressed Reality Gems
-
 
 **Pressure-Formed Crystals**
 - Contains condensed space-time
@@ -225,7 +223,7 @@ The Hadal Depths represent the absolute bottom of [[Aquabyssos|02 Worldbuilding/
 - Grant visions of other realities
 - Allow dream manipulation
 - Risk madness with each use
-- Valuable to [[The Siren|02 Worldbuilding/People/The Siren]]
+- Valuable to [The Siren|02 Worldbuilding/People/The Siren]]
 - Currency among Dream Leviathans #### The Depth Madness
 
 **Pressure Psychosis**
@@ -250,21 +248,18 @@ The Hadal Depths represent the absolute bottom of [[Aquabyssos|02 Worldbuilding/
 6. **Sanity Safeguards**: Mental protection
 7. **Time Stabilizers**: Prevent temporal issues ### Uswered Questions
 
-
 1. What lies beneath the Void?
 2. Is the Mother sleeping or imprisoned?
 3. Do deeper depths exist?
 4. What created the Mother?
 5. Can she actually wake? ### Hidden Truths
 
-
-
 > [!warning] DM Only
 > - The Mother IS the original ocean
 > - She's dreaming reality to escape something worse
 > - The depths connect to all oceans in all realities
 > - Waking her doesn't destroy—it merges all existence
-> - The [[The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] has been here ### Exploration Missions
+> - The [[The Crimson Sage|02 Worldbuilding/People/The Crimson Sage has been here ### Exploration Missions
 
 1. **The Deep Dive**: Reach the Primary Trench
 2. **Mother's Tear**: Retrieve divine crystallization
@@ -272,16 +267,14 @@ The Hadal Depths represent the absolute bottom of [[Aquabyssos|02 Worldbuilding/
 4. **Dream Fragment**: Gather Mother's thoughts
 5. **The Depth Map**: Chart the unchangeable ### Artifacts & Items
 
-
-- [[Pressure Suit of the Depths]] - Survival gear
-- [[Mother's Tear]] - Divine crystal
-- [[Reality Anchor]] - Existence protection
-- [[The Depth Compass|02 Worldbuilding/Lore/The Depth Compass]] - Points to Mother
-- [[The First Water]] - Primordial essence --- *"In the Hadal Depths, pressure isn't measured in atmospheres—it's measured in how much reality you're willing to surrender."* ## Player-Facing Summary The Hadal Depths is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Hadal Depths as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Hadal Depths. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Prophecy Connection Mentioned in The Second Prophecy of Depths ## Plot Hooks - Someone is protecting a artifact for love
+- [Pressure Suit of the Depths]] - Survival gear
+- [[Mother's Tear - Divine crystal
+- [Reality Anchor]] - Existence protection
+- [[The Depth Compass|02 Worldbuilding/Lore/The Depth Compass - Points to Mother
+- [The First Water]] - Primordial essence --- *"In the Hadal Depths, pressure isn't measured in atmospheres—it's measured in how much reality you're willing to surrender."* ## Player-Facing Summary The Hadal Depths is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Hadal Depths as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Hadal Depths. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Prophecy Connection Mentioned in The Second Prophecy of Depths ## Plot Hooks - Someone is protecting a artifact for love
 
 - A map reveals the truth about the government
 - Strange disappearances suggest a conspiracy ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

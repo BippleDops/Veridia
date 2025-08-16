@@ -1,7 +1,7 @@
 ---
 type: Lore
 status: complete
-tags:
+tags: 
 - active merger possibility
 - active-merger-possibility
 - aethermoor
@@ -15,17 +15,12 @@ world_type: Parallel Realms
 connection_type: Dimensional Convergence
 created: '2025-08-07'
 updated: '2025-08-13T01:18:34.791034+00:00'
-aliases:
+aliases: 
 - World Connection Guide
 - Realm Merger Guide
 - Aquabyssos-Aethermoor Bridge
 world: Both
 ---
-
-
-
-
-
 
 # Comprehensive World Connection Guide
 ## Aquabyssos & Aethermoor: The Convergence Codex
@@ -90,11 +85,11 @@ LIMIT 5
 
 | Aethermoor Location | Aquabyssos Location | Merge Type | Navigation |
 |-------------------|-------------------|------------|------------|
-| [[02_Worldbuilding/Places/Port Meridian Harbor]] | [[02_Worldbuilding/Places/Abyssos Prime Docks]] | Tidal Overlap | Water becomes stairs |
-| [[02_Worldbuilding/Places/Crystal Gardens]] | [[02_Worldbuilding/Places/Screaming Gardens]] | Emotional Resonance | Shared suffering |
-| [[02_Worldbuilding/Places/Royal Palace]] | [[02_Worldbuilding/Places/The Inverse Palace]] | Authority Convergence | Gravity confusion |
-| [[02_Worldbuilding/Lore/Lighthouse of Storms]] | [[02_Worldbuilding/Places/Pressure Terminal]] | Transport Hub | Direct portal |
-| [[02_Worldbuilding/Lore/The Forgotten Archive]] | [[02_Worldbuilding/Places/The Memory Meadows]] | Information Bleed | Thought exchange |
+| [[02_Worldbuilding/Places/Port Meridian Harbor | [02_Worldbuilding/Places/Abyssos Prime Docks]] | Tidal Overlap | Water becomes stairs |
+| [[02_Worldbuilding/Places/Crystal Gardens | [02_Worldbuilding/Places/Screaming Gardens]] | Emotional Resonance | Shared suffering |
+| [[02_Worldbuilding/Places/Royal Palace | [02_Worldbuilding/Places/The Inverse Palace]] | Authority Convergence | Gravity confusion |
+| [[02_Worldbuilding/Lore/Lighthouse of Storms | [02_Worldbuilding/Places/Pressure Terminal]] | Transport Hub | Direct portal |
+| [[02_Worldbuilding/Lore/The Forgotten Archive | [02_Worldbuilding/Places/The Memory Meadows]] | Information Bleed | Thought exchange |
 
 #### Merge Mechanics
 - **Tide-Locked**: Changes every 12 hours with tides
@@ -145,9 +140,9 @@ Each continent has a counterpart, connected by ancient ley lines and bloodline m
 - Identity crisis for citizens
 
 **Key NPCs Affected**:
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] ↔ [[02_Worldbuilding/People/The Scattered Emperor]]
-- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] ↔ [[02_Worldbuilding/People/Senator Glaucus]]
-- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] (exists in both)
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde ↔ [02_Worldbuilding/People/The Scattered Emperor]]
+- [[02_Worldbuilding/People/Captain Lyanna Brightshield ↔ [02_Worldbuilding/People/Senator Glaucus]]
+- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart (exists in both)
 
 #### 2. Arcanum Heights ↔ Nereidios
 **Connection**: Centers of knowledge and magic
@@ -276,49 +271,49 @@ Each bloodline carries keys to merger or separation:
 **Depth Branch**: Memory keepers of Abyssos Prime
 **Bloodline Gift**: Can breathe in both worlds for 1 hour/day
 **Curse**: Dreams always show the other world
-**Key NPCs**: [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]], [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
+**Key NPCs**: [02_Worldbuilding/People/Marina-Red-Tide-Coralheart]], [[02_Worldbuilding/People/Lord Aurelius Goldwave
 
 #### House Lumengarde-Deepshine
 **Surface Branch**: Royal family of Aethermoor
 **Depth Branch**: The Scattered Emperor's original form
 **Bloodline Gift**: Natural resistance to possession
 **Curse**: Shadows act independently after puberty
-**Key NPCs**: [[02_Worldbuilding/Lore/Queen Seraphina]], [[02_Worldbuilding/Lore/Princess Celestia]], [[02_Worldbuilding/People/The Scattered Emperor]]
+**Key NPCs**: [02_Worldbuilding/Lore/Queen Seraphina]], [[02_Worldbuilding/Lore/Princess Celestia, [02_Worldbuilding/People/The Scattered Emperor]]
 
 #### House Shadowthorn-Voidheart
 **Surface Branch**: Crimson Hand leadership
 **Depth Branch**: Void current navigators
 **Bloodline Gift**: Can manipulate shadow/void
 **Curse**: Slowly losing physical form
-**Key NPCs**: [[02_Worldbuilding/People/Vex Shadowthorn]], [[02_Worldbuilding/People/Shadow Duchess Nyx]]
+**Key NPCs**: [[02_Worldbuilding/People/Vex Shadowthorn, [02_Worldbuilding/People/Shadow Duchess Nyx]]
 
 #### House Steelbane-Irondeep
 **Surface Branch**: Church of Light warriors
 **Depth Branch**: Depth pressure survivors
 **Bloodline Gift**: Immunity to transformation
 **Curse**: Cannot use magic properly
-**Key NPCs**: [[02_Worldbuilding/People/Brother Marcus Steelbane]], [[02_Worldbuilding/People/High Inquisitor Maltheos]]
+**Key NPCs**: [[02_Worldbuilding/People/Brother Marcus Steelbane, [02_Worldbuilding/People/High Inquisitor Maltheos]]
 
 #### House Flint-Forgotten
 **Surface Branch**: Information brokers
 **Depth Branch**: The Forgotten Ones
 **Bloodline Gift**: Perfect memory across timelines
 **Curse**: Everyone forgets them eventually
-**Key NPCs**: Jasper Three Eyes Flint, [[02_Worldbuilding/Places/The Forgotten Representative]]
+**Key NPCs**: Jasper Three Eyes Flint, [[02_Worldbuilding/Places/The Forgotten Representative
 
 #### House Saltweaver-Tidesinger
 **Surface Branch**: Coastal nobility
 **Depth Branch**: Current weavers
 **Bloodline Gift**: Control over tides/currents
 **Curse**: Must touch water daily or wither
-**Key NPCs**: Captain Blackwater, [[02_Worldbuilding/People/Archon Meredith Saltweaver]]
+**Key NPCs**: Captain Blackwater, [02_Worldbuilding/People/Archon Meredith Saltweaver]]
 
 #### House Brightshield-Dawnguard
 **Surface Branch**: Royal guard leadership
 **Depth Branch**: Light-in-darkness cultivators
 **Bloodline Gift**: Can create light underwater/darkness on surface
 **Curse**: Paired with someone from other world
-**Key NPCs**: [[02_Worldbuilding/People/Captain Lyanna Brightshield]], Dawn Echo Sentinel
+**Key NPCs**: [[02_Worldbuilding/People/Captain Lyanna Brightshield, Dawn Echo Sentinel
 
 ### Bloodline Awakening Mechanics
 
@@ -343,13 +338,13 @@ Each bloodline carries keys to merger or separation:
 ### 🚇 Inter-World Transportation
 
 #### The Lighthouse Network
-**Primary Hub**: [[02_Worldbuilding/Lore/Lighthouse of Storms]]
+**Primary Hub**: [02_Worldbuilding/Lore/Lighthouse of Storms]]
 **Secondary Nodes**: Seven lesser lighthouses
 **Activation**: Requires crystal shard or bloodline carrier
 **Travel Time**: Instantaneous but temporally displaced
 
 **Navigation Hazards**:
-- Arrive 1d4 days before/after departure
+- Arrive `dice: 1d4` days before/after departure
 - Risk of age regression/progression
 - Possibility of meeting alternate selves
 - Shadows may arrive separately
@@ -358,7 +353,7 @@ Each bloodline carries keys to merger or separation:
 **Aethermoor Side**: Hidden in major city sewers
 **Aquabyssos Side**: Public transportation hubs
 **Method**: Molecular liquification and reconstitution
-**Cost**: 1d4 Constitution damage, 1d6 adaptation points
+**Cost**: `dice: 1d4` Constitution damage, `dice: 1d6` adaptation points
 
 **Side Effects**:
 - Temporary molecular instability
@@ -369,8 +364,8 @@ Each bloodline carries keys to merger or separation:
 #### Memory Streams
 **Entry Points**: Libraries, archives, memory pools
 **Travel**: Consciousness only, body remains
-**Duration**: 1d4 hours maximum
-**Cost**: Lose 1d4 memories, gain 1d4 foreign memories
+**Duration**: `dice: 1d4` hours maximum
+**Cost**: Lose `dice: 1d4` memories, gain `dice: 1d4` foreign memories
 
 **Benefits**:
 - Instantaneous information transfer
@@ -692,10 +687,10 @@ WHERE campaign contains "Aethermoor" OR campaign contains "Aquabyssos"
 
 #### NPC Relationship Web
 ```dataview
-LIST
+TABLE file.link as "File"
 FROM #npc
 WHERE contains(tags, "aquabyssos") OR contains(tags, "aethermoor")
-SORT faction
+sort faction asc
 ```
 
 #### Location Merger Status
@@ -732,12 +727,12 @@ The merger isn't just about two worlds colliding—it's about what it means to b
 ---
 
 **Related Documents**:
-- [[03_Mechanics/Depth Adaptation System]]
-- [[03_Mechanics/Crystal Plague Progression]]
-- [[03_Mechanics/Shadow Separation Mechanics]]
-- [[02_Worldbuilding/Places/The Seven Shards Mystery]]
+- [[03_Mechanics/Depth Adaptation System
+- [03_Mechanics/Crystal Plague Progression]]
+- [[03_Mechanics/Shadow Separation Mechanics
+- [02_Worldbuilding/Places/The Seven Shards Mystery]]
 - Deep Mother Lore
-- [[02_Worldbuilding/Lore/Session Planning Guide]]
+- [[02_Worldbuilding/Lore/Session Planning Guide
 
 ## Player-Facing Summary
 
@@ -761,18 +756,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Campaign Index|02 Worldbuilding/Lore/Campaign Index]]
-
+- [02_Worldbuilding/Lore/Campaign Index|02 Worldbuilding/Lore/Campaign Index]]
 
 ## Connections
 
 - Dawn Echo Sentinel
-- [[02_Worldbuilding/People/Brother Marcus Steelbane]]
+- [[02_Worldbuilding/People/Brother Marcus Steelbane
 - Jasper Three Eyes Flint
-- [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
-- [[02_Worldbuilding/Places/Abyssos Prime Docks]]
-- [[02_Worldbuilding/Places/Crystal Gardens]]
-- [[02_Worldbuilding/Places/Port Meridian Harbor]]
-- [[02_Worldbuilding/Places/Pressure Terminal]]
-- [[02_Worldbuilding/Places/Royal Palace]]
-- [[02_Worldbuilding/Places/The Forgotten Representative]]
+- [02_Worldbuilding/People/Lord Aurelius Goldwave]]
+- [[02_Worldbuilding/Places/Abyssos Prime Docks
+- [02_Worldbuilding/Places/Crystal Gardens]]
+- [[02_Worldbuilding/Places/Port Meridian Harbor
+- [02_Worldbuilding/Places/Pressure Terminal]]
+- [[02_Worldbuilding/Places/Royal Palace
+- [02_Worldbuilding/Places/The Forgotten Representative]]

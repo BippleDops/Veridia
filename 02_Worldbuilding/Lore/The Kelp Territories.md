@@ -1,10 +1,10 @@
 ---
 
 title: The Kelp Territories
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - world/aquabyssos
 - content/lore
 - active
@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -58,7 +58,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[region]]s
+- Describe how this culture exists in other [region]]s
 
 ### Sensory Improvements
 
@@ -80,11 +80,11 @@ The Kelp Territories is a undersea element of the setting, known for bioluminesc
 
 Legends speak of The Kelp Territories as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Kelp Territories.
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## [[Historical Context]]
+## [Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -96,10 +96,10 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 - Strange accidents suggest ancient magic
 - Strange accidents suggest a conspiracy
-- A [[Merchant]] needs help stealing before the new moon
+- A [[Merchant needs help stealing before the new moon
 
 ## References
 
-- [[Timeline of the Drowning]]
-- [[Timeline of the Drowning (D&D_References)]]
-- [[Timeline of the Drowning 3 (D&D_References)]]
+- [Timeline of the Drowning]]
+- [[Timeline of the Drowning (D&D_References)
+- [Timeline of the Drowning 3 (D&D_References)]]

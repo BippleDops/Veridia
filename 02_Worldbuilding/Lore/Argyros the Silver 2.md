@@ -1,7 +1,7 @@
 ---
 type: Lore
 status: complete
-tags:
+tags: 
 - active
 - aethermoor
 - lore
@@ -10,10 +10,6 @@ world: Aethermoor
 created: '2025-08-11'
 updated: '2025-08-13T01:18:35.096941+00:00'
 ---
-
-
-
-
 
 ## Overview
 
@@ -41,11 +37,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Silverscale Consortium]]
-
+- [[02_Worldbuilding/Groups/Silverscale Consortium
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Silverscale Consortium]]
-- [[02_Worldbuilding/People/Lady Jade Clawgrip]]
-- [[02_Worldbuilding/People/The Nameless Auditor]]
+- [02_Worldbuilding/Groups/Silverscale Consortium]]
+- [[02_Worldbuilding/People/Lady Jade Clawgrip
+- [02_Worldbuilding/People/The Nameless Auditor]]

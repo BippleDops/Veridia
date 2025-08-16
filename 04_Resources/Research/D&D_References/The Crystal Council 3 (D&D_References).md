@@ -2,7 +2,7 @@
 
 title: The Crystal Council 3 (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -47,7 +47,6 @@ world: Aethermoor
 - Strange dreams suggest a conspiracy
 - Someone is searching for information for revenge
 - Strange disappearances suggest ancient magic ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

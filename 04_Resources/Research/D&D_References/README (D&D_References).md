@@ -2,7 +2,7 @@
 
 title: README (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -68,7 +68,6 @@ python scripts/content_generator_advanced.py --type npc --count 5 ## Contributin
 - Connections to overarching campaign themes ## Secret Connections *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession ## Plot Hooks - Strange dreams suggest ancient magic
 
 - A corpse reveals ancient history about the government ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

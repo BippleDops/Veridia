@@ -2,7 +2,7 @@
 
 title: Political Prison Complexes
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,10 +42,9 @@ updated: '2025-08-13T01:18:35.223785+00:00'
 
 - A document has gone missing and war looms
 - A shipment has gone missing and chaos spreads
-- A document has gone missing and evil awakens ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[The Pressure Conspiracy]]
+- A document has gone missing and evil awakens ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[The Pressure Conspiracy
 
-- [[The Pressure Conspiracy (D&D_Statblocks)]]
-
+- [The Pressure Conspiracy (D&D_Statblocks)]]
 
 ## Notes
 

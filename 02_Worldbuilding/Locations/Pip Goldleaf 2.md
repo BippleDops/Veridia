@@ -13,7 +13,7 @@ location: Various Trade Routes, Aethermoor
 obsidianUIMode: preview
 occupation: Apprentice Merchant
 status: complete
-tags:
+tags: 
 - aethermoor
 - apprentice
 - complete
@@ -33,13 +33,8 @@ updated: '2025-08-13T12:34:16.537092+00:00'
 world: Aethermoor
 ---
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-pip-goldleaf-pip-goldleaf.svg)
-
-
-
-
 
 # Pip Goldleaf
 *The Next Generation of Golden Commerce*
@@ -49,7 +44,7 @@ world: Aethermoor
 
 ## Overview
 
-Pip Goldleaf represents the promising future of the Goldleaf Trading House, combining traditional merchant skills with innovative approaches and youthful enthusiasm for exploration and discovery. As apprentice to [[02_Worldbuilding/Places/Madame Rosalind Goldleaf]], Pip is learning the intricate arts of commerce, negotiation, and relationship management while bringing fresh perspectives to family business operations.
+Pip Goldleaf represents the promising future of the Goldleaf Trading House, combining traditional merchant skills with innovative approaches and youthful enthusiasm for exploration and discovery. As apprentice to [[02_Worldbuilding/Places/Madame Rosalind Goldleaf, Pip is learning the intricate arts of commerce, negotiation, and relationship management while bringing fresh perspectives to family business operations.
 
 Unlike older generations of merchants who focus primarily on established trade routes and proven methods, Pip shows particular interest in emerging markets, new technologies, and unconventional trading opportunities that others might overlook.
 
@@ -58,7 +53,7 @@ Unlike older generations of merchants who focus primarily on established trade r
 **Pip Goldleaf** (Small humanoid, chaotic good)
 
 **Armor Class** 14 (Leather Armor + Dex)  
-**Hit Points** 45 (6d8 + 12)  
+**Hit Points** 45 (`dice: 6d8` + 12)  
 **Speed** 25 ft.
 
 **STR** 10 (+0) **DEX** 16 (+3) **CON** 14 (+2) **INT** 15 (+2) **WIS** 13 (+1) **CHA** 17 (+3)
@@ -77,15 +72,15 @@ Unlike older generations of merchants who focus primarily on established trade r
 
 **Merchant's Intuition.** Pip can assess the approximate value of trade goods or detect when someone is lying about commercial matters with advantage on relevant checks.
 
-**Sneak Attack.** Once per turn, Pip deals an extra 10 (3d6) damage when attacking with advantage or when an ally is within 5 feet of the target.
+**Sneak Attack.** Once per turn, Pip deals an extra 10 (`dice: 3d6`) damage when attacking with advantage or when an ally is within 5 feet of the target.
 
 ### Actions
 
-**Shortsword.** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage.
+**Shortsword.** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (`dice: 1d6` + 3) piercing damage.
 
-**Light Crossbow.** *Ranged Weapon Attack:* +6 to hit, range 80/320 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage.
+**Light Crossbow.** *Ranged Weapon Attack:* +6 to hit, range 80/320 ft., one target. *Hit:* 7 (`dice: 1d8` + 3) piercing damage.
 
-**Charming Proposition (3/Day).** Pip makes an offer so appealing that the target must make a DC 14 Wisdom saving throw or be charmed for 1 minute and inclined to consider Pip's business proposals favorably.
+**Charming Proposition (3/Day).** Pip makes an offer so appealing that the target must make a **DC 14** Wisdom saving throw or be charmed for 1 minute and inclined to consider Pip's business proposals favorably.
 
 ## Background and History
 
@@ -99,7 +94,7 @@ Family expectations are high, but Pip has generally embraced these challenges wh
 
 ### Apprenticeship Training
 
-Formal apprenticeship under [[02_Worldbuilding/Places/Madame Rosalind Goldleaf]] provides comprehensive education in all aspects of merchant operations, from basic accounting to complex international negotiations.
+Formal apprenticeship under [02_Worldbuilding/Places/Madame Rosalind Goldleaf]] provides comprehensive education in all aspects of merchant operations, from basic accounting to complex international negotiations.
 
 Hands-on experience includes accompanying experienced merchants on trade missions, managing smaller independent projects, and gradually taking on increased responsibility for family business operations.
 
@@ -191,27 +186,27 @@ Belief that successful merchants have responsibility to contribute positively to
 
 ### Family Relations
 
-**[[02_Worldbuilding/Places/Madame Rosalind Goldleaf]]** - Grandmother and mentor, whose guidance and expectations shape Pip's development while providing access to wisdom and resources.
+**[[02_Worldbuilding/Places/Madame Rosalind Goldleaf** - Grandmother and mentor, whose guidance and expectations shape Pip's development while providing access to wisdom and resources.
 
-**[[02_Worldbuilding/Lore/Marcus Goldleaf]]** - Elder family member specializing in financial operations, whose approval and support are important for career advancement.
+**[02_Worldbuilding/Lore/Marcus Goldleaf]]** - Elder family member specializing in financial operations, whose approval and support are important for career advancement.
 
-**[[02_Worldbuilding/Groups/Family Retainer]]** - Loyal family servant who provides practical advice and serves as unofficial bodyguard during travels.
+**[[02_Worldbuilding/Groups/Family Retainer** - Loyal family servant who provides practical advice and serves as unofficial bodyguard during travels.
 
 ### Professional Contacts
 
-**[[Young Merchant Guild]]** - Network of apprentice and junior merchants who share information, resources, and mutual support for development.
+**[Young Merchant Guild]]** - Network of apprentice and junior merchants who share information, resources, and mutual support for development.
 
-**[[02_Worldbuilding/Lore/Innovative Artisan]]** - Creative craftsperson whose work represents potential new market opportunities for family business.
+**[[02_Worldbuilding/Lore/Innovative Artisan** - Creative craftsperson whose work represents potential new market opportunities for family business.
 
-**[[02_Worldbuilding/Groups/Cultural_Organizations/Cultural Guide]]** - Local expert in various regions who provides cultural education and practical assistance during travels.
+**[02_Worldbuilding/Groups/Cultural_Organizations/Cultural Guide]]** - Local expert in various regions who provides cultural education and practical assistance during travels.
 
 ### Personal Friendships
 
-**[[Adventure Companion]]** - Friend with complementary skills who sometimes accompanies Pip on more dangerous or unusual commercial ventures.
+**[[Adventure Companion** - Friend with complementary skills who sometimes accompanies Pip on more dangerous or unusual commercial ventures.
 
-**[[02_Worldbuilding/Lore/Academic Contact]]** - Scholar or researcher whose knowledge helps Pip understand broader context of commercial opportunities and cultural factors.
+**[02_Worldbuilding/Lore/Academic Contact]]** - Scholar or researcher whose knowledge helps Pip understand broader context of commercial opportunities and cultural factors.
 
-**[[02_Worldbuilding/Lore/Local Friend]]** - Peer from different social background who provides perspective on how merchant activities affect ordinary people.
+**[[02_Worldbuilding/Lore/Local Friend** - Peer from different social background who provides perspective on how merchant activities affect ordinary people.
 
 ## Quest Hooks and Adventure Opportunities
 
@@ -269,11 +264,10 @@ For higher-level parties, Pip can represent established merchant leader dealing 
 
 The character can grow and develop alongside party members, making them suitable for long-term campaign involvement rather than just single adventure appearances.
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/Madame Rosalind Goldleaf]]
-- [[Market_District|Market District]]
+- [02_Worldbuilding/Places/Madame Rosalind Goldleaf]]
+- [[Market_District|Market District
 
 ## Player-Facing Summary
 
@@ -295,30 +289,25 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pip Goldleaf]]
+- [02_Worldbuilding/Places/Pip Goldleaf]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

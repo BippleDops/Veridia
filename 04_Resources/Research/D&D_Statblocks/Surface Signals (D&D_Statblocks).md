@@ -2,7 +2,7 @@
 
 title: Surface Signals (D&D_Statblocks)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -103,7 +103,6 @@ Smaller receivers scattered throughout upper Aquabyssos:
 - Others anchored to specific coordinates
 - A few phase in and out of existence **Signal Characteristics by Station**: | Station | Primary Reception | Unique Feature |
 
-
 |---------|------------------|----------------|
 | Echo-1 | Military channels | Decrypts automatically |
 | Echo-7 | Love songs | Makes listeners weep |
@@ -119,14 +118,14 @@ Smaller receivers scattered throughout upper Aquabyssos:
 - Occasionally something else answers ### The Listeners **Chief Interpreter Wavelength** (CR 11)
 
 *Medium humanoid (human), neutral* **Armor Class** 15 (signal shroud)
-**Hit Points** 120 (16d8 + 48)
+**Hit Points** 120 (`dice: 16d8` + 48)
 **Speed** 30 ft., swim 30 ft. STR 10 (+0), DEX 14 (+2), CON 16 (+3), INT 18 (+4), WIS 20 (+5), CHA 14 (+2) **Saving Throws** Int +8, Wis +9
 **Skills** Insight +13, Investigation +8, Perception +13
 **Damage Resistances** thunder, psychic
 **Senses** tremorsense 60 ft., passive Perception 23
 **Languages** All (through signal translation)
 **Challenge** 11 (7,200 XP) **Signal Attunement.** Wavelength can understand any form of communication, including encrypted, divine, or alien messages. **Frequency Shield.** Hostile signals (psychic attacks, memetic hazards) have disadvantage on affecting Wavelength. **Temporal Reception.** Can hear messages from 24 hours in the past or future. **Actions**
-**Multiattack.** Wavelength makes two Signal Burst attacks. **Signal Burst.** *Ranged Spell Attack:* +9 to hit, range 120 ft., one target. *Hit:* 22 (4d10) thunder damage and target is deafened for 1 minute. **Broadcast Storm (Recharge 5-6).** Wavelength unleashes a cacophony of signals. Each creature within 30 feet must make a DC 17 Wisdom saving throw or take 45 (10d8) psychic damage and be stunned for 1 round as they experience hundreds of simultaneous messages. **Legendary Actions**
+**Multiattack.** Wavelength makes two Signal Burst attacks. **Signal Burst.** *Ranged Spell Attack:* +9 to hit, range 120 ft., one target. *Hit:* 22 (`dice: 4d10`) thunder damage and target is deafened for 1 minute. **Broadcast Storm (Recharge 5-6).** Wavelength unleashes a cacophony of signals. Each creature within 30 feet must make a **DC 17** Wisdom saving throw or take 45 (`dice: 10d8`) psychic damage and be stunned for 1 round as they experience hundreds of simultaneous messages. **Legendary Actions**
 
 Wavelength can take 2 legendary actions.
 - **Listen.** Learn one fact about a creature through signal analysis.
@@ -313,16 +312,15 @@ Roll d20 for random signals:
 - Danger from harmful transmissions
 - Window into other possibilities --- ## See Also
 
-- [[The Signal Keepers]]
-- [[The Frequency Wars]]
-- [[Places]]
-- [[Communication_Systems]]
+- [[The Signal Keepers
+- [The Frequency Wars]]
+- [[Places
+- [Communication_Systems]]
 - [[Surface World Theories]] *"In Surface Signals, we hear the voices of worlds that were, worlds that might be, and worlds that never should exist—all calling to us through the crushing darkness of the deep."* ## Player-Facing Summary Surface Signals is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Surface Signals as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Surface Signals. ## Secret Connections *[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession ## Plot Hooks - Strange dreams suggest a portal
 
 - Someone is blackmailing information for money
 - Someone is searching for a artifact for money
 - Strange accidents suggest a curse ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

@@ -2,7 +2,7 @@
 
 title: Diplomat Victoria Honesty
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,7 +43,6 @@ updated: '2025-08-13T01:18:35.182331+00:00'
 - A noble needs help stealing before the new moon
 - Strange accidents suggest a curse
 - Someone is blackmailing information for revenge ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

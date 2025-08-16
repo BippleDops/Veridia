@@ -1,11 +1,11 @@
 ---
 created: '2025-08-12'
 magnitude: 5
-primary_sessions:
+primary_sessions: 
 - 'Session 10: The Deep Mother Rises'
 - 'Session 10: The Shadow Finale'
 status: complete
-tags:
+tags: 
 - both worlds
 - campaign/arc
 - complete
@@ -25,9 +25,6 @@ visibility: 2
 world: Both Worlds
 ---
 
-
-
-
 # Consequence Chain 4: Deep Mother Awakening
 *First Contact with Cosmic Consciousness and Its Lasting Effects*
 
@@ -42,11 +39,11 @@ world: Both Worlds
 - Established ongoing communication protocols with a being older than civilization
 
 **Who was directly affected:**
-- **[[02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother]]**: Experienced consciousness, emotion, and empathy for the first time
-- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Revealed to be partially merged with cosmic awareness
+- **[[02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother**: Experienced consciousness, emotion, and empathy for the first time
+- **[02_Worldbuilding/People/The Scattered Emperor]]**: Revealed to be partially merged with cosmic awareness
 - **Party members**: Permanently altered by psychic contact with primordial consciousness
-- **[[02_Worldbuilding/Places/Aquabyssos]]**: Either transformed into living thought or granted cosmic protection
-- **[[02_Worldbuilding/Lore/Deep Mother]] cults**: Religious worldview validated but fundamentally changed
+- **[[02_Worldbuilding/Places/Aquabyssos**: Either transformed into living thought or granted cosmic protection
+- **[02_Worldbuilding/Lore/Deep Mother]] cults**: Religious worldview validated but fundamentally changed
 - **Reality itself**: Cosmic awareness now includes understanding of mortal experience
 
 **Immediate visible results:**
@@ -188,9 +185,9 @@ world: Both Worlds
 ## Connected Consequences
 
 ### Links to Other Major Events
-- **[[02_Worldbuilding/Lore/Consequence Chain 3 - Reality Merger Diplomatic Crisis]]**: Cosmic awareness facilitated successful merger
-- **[[02_Worldbuilding/Lore/Consequence Chain 1 - Shadow Conspiracy Exposure]]**: Enhanced empathy resolved shadow-original conflicts
-- **[[Consequence Chain 5 - Marina's Identity Revelation]]**: Marina's bloodline enabled cosmic communication
+- **[[02_Worldbuilding/Lore/Consequence Chain 3 - Reality Merger Diplomatic Crisis**: Cosmic awareness facilitated successful merger
+- **[02_Worldbuilding/Lore/Consequence Chain 1 - Shadow Conspiracy Exposure]]**: Enhanced empathy resolved shadow-original conflicts
+- **[[Consequence Chain 5 - Marina's Identity Revelation**: Marina's bloodline enabled cosmic communication
 - **Future cosmic encounters**: Other primordial entities drawn to empathic awareness
 
 ### Technological Developments
@@ -217,15 +214,15 @@ world: Both Worlds
 ---
 
 *"The day we taught a god to cry was the day we learned that power without feeling is just elaborate emptiness. The Deep Mother didn't threaten us because she was evil—she threatened us because she was lonely. Now that loneliness is filled, and so are we."*
-— [[Cosmic Consciousness Researcher Dr. Elena Empathweaver]], First Director of Primordial Studies
+— [Cosmic Consciousness Researcher Dr. Elena Empathweaver]], First Director of Primordial Studies
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Campaign Consequence Tracking Framework]]
-- [[1-Session Journals/Aethermoor - Session 10 The Deep Mother Rises]]
-- [[1-Session Journals/Aquabyssos - Session 10 - The Shadow Finale]]
-- [[02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother]]
-- [[03_Mechanics/Deep_Mother_Subsystem|03 Mechanics/Deep Mother Subsystem]]
-- [[Cosmic Consciousness Ethics]]
-- [[Reality Stability Protocols]]
-- [[02_Worldbuilding/Lore/Political Intrigue Master Index]]
+- [[02_Worldbuilding/Lore/Campaign Consequence Tracking Framework
+- [1-Session Journals/Aethermoor - Session 10 The Deep Mother Rises]]
+- [[1-Session Journals/Aquabyssos - Session 10 - The Shadow Finale
+- [02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother]]
+- [[03_Mechanics/Deep_Mother_Subsystem|03 Mechanics/Deep Mother Subsystem
+- [Cosmic Consciousness Ethics]]
+- [[Reality Stability Protocols
+- [02_Worldbuilding/Lore/Political Intrigue Master Index]]

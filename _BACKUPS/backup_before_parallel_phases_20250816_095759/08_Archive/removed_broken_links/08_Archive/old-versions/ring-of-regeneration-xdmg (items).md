@@ -1,0 +1,52 @@
+---
+
+title: ring-of-regeneration-xdmg (items)
+type: item
+tags:
+- item
+
+created: '2025-01-15'
+modified: '2025-01-15'
+
+--- # ring-of-regeneration-xdmg ---
+
+## Description
+
+Detailed description pending.
+title: ring of regeneration xdmg
+aliases:
+- Ring of Regeneration
+
+type: note
+tags:
+- research
+- world/both
+- active
+- note
+- content/item
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xdmg
+
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+attunement: false
+cssclasses: json5e-item
+obsidian-u-i-mode: preview
+updated: '2025-08-12T23:37:36.867330'
+world: Both
+
+--- # Ring of Regeneration
+
+*Ring, very rare (requires attunement)* ![](/03_Mechanics/CLI/items/img/ring-of-regeneration.webp#right) While wearing this ring, you regain`d6`[[hit-points-xphb (variant-rules) every 10 minutes if you have at least 1 [hit-points-xphb (variant-rules)]]. If you lose a body part, the ring causes the missing part to regrow and return to full functionality after``dice: 1d6` + 1`days if you have at least 1 [[hit-points-xphb (variant-rules) the whole time. *Source: Dungeon Master's Guide (2024) p. 294. Available in the SRD and the Free Rules (2024)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Ring of regeneration xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of ring of regeneration xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ring of regeneration xdmg. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## References - [Master_Item_Catalog]]
+
+- [[Arcana Very Rare Xdmg
+- [Magic Item Table H]]
+- [[Random Magic Items Arcana
+- [arcana-very-rare-xdmg (tables)]]
+- [[magic-item-table-h (tables)
+- [random-magic-items-arcana (tables)]]
+
+## Notes
+
+*Additional notes*

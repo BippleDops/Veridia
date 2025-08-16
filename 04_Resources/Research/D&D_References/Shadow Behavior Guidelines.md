@@ -2,7 +2,7 @@
 
 title: Shadow Behavior Guidelines
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -40,11 +40,11 @@ tags:
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
-headquarters: '[[The Council of Shadows]]'
+headquarters: '[[The Council of Shadows'
 world: Aquabyssos
 faction_type: Shadow Society Regulatory Body
 alignment: Lawful Neutral (Ethical Framework)
-leader: '[[Shadow Magistrate Umbrian Darkwise]]'
+leader: '[Shadow Magistrate Umbrian Darkwise]]'
 members: ~50 magistrates, ~200 enforcement officers, ~1000 community volunteers
 influence: Shadow-Touched Community Self-Regulation
 purpose: Establish ethical standards for shadow energy use
@@ -59,7 +59,7 @@ updated: '2025-08-11T00:00:00+00:00'
 --- > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-shadow-behavior-guidelines-shadow-behavior-guidelines.svg) # Shadow Behavior Guidelines
 
-*The Moral Compass of the Depths, Keepers of Shadow Ethics, Community Standards Council* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Organization Overview The Shadow Behavior Guidelines represents the shadow-touched community's effort at self-regulation and ethical development in [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. Founded in response to increasing concerns about shadow energy abuse and the corrupting effects of uncontrolled shadow abilities, this organization serves as both moral authority and practical regulatory body for individuals affected by shadow transformation. Unlike external authorities who may not understand the unique challenges faced by shadow-touched individuals, the Guidelines organization is composed entirely of community members who have experienced shadow transformation firsthand. They understand both the benefits and dangers of shadow abilities, creating ethical frameworks that are practical, compassionate, and effective. The organization operates on the principle that shadow-touched individuals have a responsibility to use their abilities in ways that benefit rather than harm their communities. They provide education, counseling, and enforcement services to help shadow-touched individuals navigate the complex moral and practical challenges that come with their transformed state. ### The Shadow Riots (25 years ago)
+*The Moral Compass of the Depths, Keepers of Shadow Ethics, Community Standards Council* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Organization Overview The Shadow Behavior Guidelines represents the shadow-touched community's effort at self-regulation and ethical development in [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos. Founded in response to increasing concerns about shadow energy abuse and the corrupting effects of uncontrolled shadow abilities, this organization serves as both moral authority and practical regulatory body for individuals affected by shadow transformation. Unlike external authorities who may not understand the unique challenges faced by shadow-touched individuals, the Guidelines organization is composed entirely of community members who have experienced shadow transformation firsthand. They understand both the benefits and dangers of shadow abilities, creating ethical frameworks that are practical, compassionate, and effective. The organization operates on the principle that shadow-touched individuals have a responsibility to use their abilities in ways that benefit rather than harm their communities. They provide education, counseling, and enforcement services to help shadow-touched individuals navigate the complex moral and practical challenges that come with their transformed state. ### The Shadow Riots (25 years ago)
 
 The organization emerged from a period of social chaos when uncontrolled shadow abilities led to violence and property damage throughout several Aquabyssos districts. Traditional law enforcement struggled to handle shadow-touched offenders, while the shadow community lacked any internal mechanisms for addressing problematic behavior. ### The Community Response (23 years ago)
 
@@ -91,8 +91,7 @@ Shadow transformation is an ongoing process requiring constant adaptation and le
 4. **Ability Restriction**: Severe violations may require temporary limitation of shadow abilities
 5. **Community Exile**: Extreme cases may result in exclusion from shadow community support and resources ### Automatic Membership
 
-
-All shadow-touched individuals within Aquabyssos are automatically considered subject to the Shadow Conduct Codex, though active participation in organization programs is voluntary. #### **[[Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]**
+All shadow-touched individuals within Aquabyssos are automatically considered subject to the Shadow Conduct Codex, though active participation in organization programs is voluntary. #### **[Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]**
 
 **Relationship**: Cooperative Partnership
 
@@ -100,27 +99,27 @@ The organization works closely with government officials to develop policies add
 
 **Relationship**: Professional Collaboration
 
-Provides specialized expertise and assistance in cases involving shadow abilities while maintaining community advocacy role. #### **[[The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]]**
+Provides specialized expertise and assistance in cases involving shadow abilities while maintaining community advocacy role. #### **[[The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren**
 
 **Relationship**: Cooperative Alliance
 
-Both organizations serve shadow-touched communities with complementary approaches - the Warren focuses on practical support while the Guidelines emphasizes ethical development. #### **[[Ancient Mer-Folk Empire (D&D_References)]]**
+Both organizations serve shadow-touched communities with complementary approaches - the Warren focuses on practical support while the Guidelines emphasizes ethical development. #### **[Ancient Mer-Folk Empire (D&D_References)]]**
 
 **Relationship**: Cultural Exchange
 
-Learns from mer-folk approaches to community self-regulation and honor-based social systems. #### **[[Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]]**
+Learns from mer-folk approaches to community self-regulation and honor-based social systems. #### **[[Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium**
 
 **Relationship**: Professional Distance
 
-Maintains cordial relations but remains wary of commercial exploitation of shadow abilities. #### **[[Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]]**
+Maintains cordial relations but remains wary of commercial exploitation of shadow abilities. #### **[Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]]**
 
 **Relationship**: Respectful Disagreement
 
-Appreciates the Order's scholarly approach but disagrees with their tendency toward academic detachment from practical community needs. #### **[[The Shadow Harvest|02 Worldbuilding/Groups/The Shadow Harvest]]**
+Appreciates the Order's scholarly approach but disagrees with their tendency toward academic detachment from practical community needs. #### **[[The Shadow Harvest|02 Worldbuilding/Groups/The Shadow Harvest**
 
 **Relationship**: Ethical Opposition
 
-Strongly opposes the Harvest's exploitative practices and works to protect community members from recruitment. #### **[[Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]]**
+Strongly opposes the Harvest's exploitative practices and works to protect community members from recruitment. #### **[Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]]**
 
 **Relationship**: Defensive Conflict
 
@@ -172,35 +171,34 @@ Extensive databases containing personal information about community members and 
 
 Detailed preparations for organizational continuity if current leadership is compromised, including identification of potential successors and emergency procedures. ## Connected Elements **Related Organizations**:
 
-- [[The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]]
-- [[Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]
-- [[The Shadow Harvest|02 Worldbuilding/Groups/The Shadow Harvest]]
-- [[Ancient Mer-Folk Empire (D&D_References)]] **Key Locations**:
-- [[The Council of Shadows]]
-- [[Shadow Community Centers]]
-- [[Youth Development Facilities]]
-- [[Crisis Response Centers]] **Notable NPCs**:
-- [[Shadow Magistrate Umbrian Darkwise]]
-- [[Community Advocate Vera Shadowheart]]
-- [[Education Director Selene Shadowscholar]]
-- [[Crisis Intervention Chief Raven Darkstorm]] **Important Concepts**:
-- [[The Shadow Conduct Codex]]
-- [[Shadow Community Self-Regulation]]
-- [[Shadow Ability Ethics]]
-- [[Community-Based Restorative Justice]]
-- [[Shadow Transformation Psychology]] ## Player-Facing Summary Shadow Behavior Guidelines is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Shadow Behavior Guidelines as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Behavior Guidelines. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is protecting a witness for love
+- [[The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren
+- [Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]
+- [[The Shadow Harvest|02 Worldbuilding/Groups/The Shadow Harvest
+- [Ancient Mer-Folk Empire (D&D_References)]] **Key Locations**:
+- [[The Council of Shadows
+- [Shadow Community Centers]]
+- [[Youth Development Facilities
+- [Crisis Response Centers]] **Notable NPCs**:
+- [[Shadow Magistrate Umbrian Darkwise
+- [Community Advocate Vera Shadowheart]]
+- [[Education Director Selene Shadowscholar
+- [Crisis Intervention Chief Raven Darkstorm]] **Important Concepts**:
+- [[The Shadow Conduct Codex
+- [Shadow Community Self-Regulation]]
+- [[Shadow Ability Ethics
+- [Community-Based Restorative Justice]]
+- [[Shadow Transformation Psychology ## Player-Facing Summary Shadow Behavior Guidelines is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Shadow Behavior Guidelines as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Behavior Guidelines. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is protecting a witness for love
 
 - The authorities needs help finding before dawn
 - An heirloom has gone missing and war looms
-- Strange accidents suggest ancient magic ## Related Notes - [[Similar Topic 1]]
+- Strange accidents suggest ancient magic ## Related Notes - [Similar Topic 1]]
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Shadow Surgeon Apprentice]]
+- [[Contrasting Approach
+- [Advanced Version]]
+- [[Historical Context ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [Shadow Surgeon Apprentice]]
 
-- [[Parliament-of-Shadows-Campaign (Government_and_Parliament)]]
-- [[Parliament-of-Shadows-Campaign]]
-
+- [[Parliament-of-Shadows-Campaign (Government_and_Parliament)
+- [Parliament-of-Shadows-Campaign]]
 
 ## Notes
 

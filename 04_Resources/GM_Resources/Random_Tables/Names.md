@@ -1,7 +1,7 @@
 ---
 title: Names
 type: note
-tags:
+tags: 
 - note
 created: '2025-01-15'
 modified: '2025-01-15'
@@ -33,5 +33,5 @@ modified: '2025-08-14'
 
 ## References
 
-- [[NPC00743_Ysara_Lightbringer_the_Broken]]
-- [[NPC00042_Vesper_Grimholt]]
+- [[NPC00743_Ysara_Lightbringer_the_Broken
+- [NPC00042_Vesper_Grimholt]]

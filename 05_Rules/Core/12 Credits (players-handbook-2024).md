@@ -1,22 +1,22 @@
 ---
 enhanced: true
 tags: [enhanced, 06_sessions]
-created: 2025-08-15T16:41:33.679062
-modified: 2025-08-15T16:41:33.679068
+created: "2025-08-15T16:41:33.679062"
+modified: "2025-08-15T16:41:33.679068"
 aliases: [12 Credits (players-handbook-2024)]
 ---
 
 ## Table of Contents
-- [[#Description|Description]]
-- [[#Notes|Notes]]
-- [[#Prep Checklist|Prep Checklist]]
-- [[#Npcs Needed|Npcs Needed]]
-- [[#Locations|Locations]]
-- [[#Encounters|Encounters]]
-- [[#Props|Props]]
-- [[#Rules|Rules]]
-- [[#Campaign Connection|Campaign Connection]]
-- [[#See Also|See Also]]
+- [[#Description|Description
+- [#Notes|Notes]]
+- [[#Prep Checklist|Prep Checklist
+- [#Npcs Needed|Npcs Needed]]
+- [[#Locations|Locations
+- [#Encounters|Encounters]]
+- [[#Props|Props
+- [#Rules|Rules]]
+- [[#Campaign Connection|Campaign Connection
+- [#See Also|See Also]]
 
 ---
 
@@ -101,9 +101,9 @@ Connected to the main villain's plan
 -
 
 ## Related Content
-- [[audio_fit_report]]
-- [[audio_fit_report_1]]
-- [[SVG_REPLACEMENT_REPORT]]
+- [[audio_fit_report
+- [audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -122,103 +122,103 @@ Connected to the main villain's plan
 
 ## Connections
 
-- Originates from [[step_011 (phase_088)]]
-- Leads to [[Portrait NPC the Royal Treasury Depths V1 the Royal Treasury Depths.svg]]
-- Leads to [[horseshoes-of-speed-xdmg (items)]]
-- Leads to [[ITEM00757_Celestial_Scepter_of_the_Gods]]
+- Originates from [step_011 (phase_088)]]
+- Leads to [[Portrait NPC the Royal Treasury Depths V1 the Royal Treasury Depths.svg
+- Leads to [horseshoes-of-speed-xdmg (items)]]
+- Leads to [[ITEM00757_Celestial_Scepter_of_the_Gods
 - Leads to
-- Requires [[step_001 (phase_027)]]
-- Connects to [[Kraken Spaw]]
+- Requires [step_001 (phase_027)]]
+- Connects to [[Kraken Spaw
 - Requires
-- Leads to [[Trade Regulations]]
-- Influences [[Symbol Heraldry Har... Related To: Local Political Structure Connected Plots: to Be Developed]]
-- Influences [[Bottled Breath Pota]]
-- Related: [[LOC00101_Wilderness_Location_102]]
-- Leads to [[Event_Log]]
-- Affected by [[Session 3 Underwater Chase]]
-- Parallels [[Boneclaw Mpmm]]
-- See also: [[LOC00180_Planes_Location_181]]
-- Related: [[step_034 (phase_012)]]
-- See also: [[04_Resources_Assets_Symbols_symbol-heraldry-faction-intelligence-faction-intelligence.svg]]
-- Affected by [[Random_Event_Generator]]
-- Influences [[step_055 (phase_010)]]
-- Affected by [[step_100 (phase_035)]]
+- Leads to [Trade Regulations]]
+- Influences [[Symbol Heraldry Har... Related To: Local Political Structure Connected Plots: to Be Developed
+- Influences [Bottled Breath Pota]]
+- Related: [[LOC00101_Wilderness_Location_102
+- Leads to [Event_Log]]
+- Affected by [[Session 3 Underwater Chase
+- Parallels [Boneclaw Mpmm]]
+- See also: [[LOC00180_Planes_Location_181
+- Related: [step_034 (phase_012)]]
+- See also: [[04_Resources_Assets_Symbols_symbol-heraldry-faction-intelligence-faction-intelligence.svg
+- Affected by [Random_Event_Generator]]
+- Influences [[step_055 (phase_010)
+- Affected by [step_100 (phase_035)]]
 - See also:
-- Originates from [[step_061 (phase_059)]]
-- Affected by [[Assets Locations Location City Service Levels Service Levels.svg]]
-- Compare with [[MON00014_Undead_Creature_15]]
-- Related: [[Wise Tide Truthseeker (D&D_References)]]
-- Related: [[Depth Seekers (D&D_References)]]
-- Related: [[Independent Shadow Cell (Criminal_Organizations)]]
-- Related: [[LORE00239_History_Entry_240]]
-- Requires [[List Spells Backgrounds Silverquill Student]]
-- Leads to [[Ambassador Sage Bridgebuilder]]
-- Leads to [[Assets Locations Location City Scream Saturation V1 Scream Saturation Rules.svg]]
-- Related: [[03-races (players-handbook-2014)]]
-- See also: [[Portrait NPC Lady Willow Greenbough Lady Willow Greenbough.svg]]
-- Requires [[Sage Analytical Mindweaver]]
-- Requires [[conditions#Blinded]]
-- Requires [[Portrait NPC the Pearl Guard V1 the Pearl Guard.svg]]
-- Parallels [[The Fusion Laboratory]]
+- Originates from [[step_061 (phase_059)
+- Affected by [Assets Locations Location City Service Levels Service Levels.svg]]
+- Compare with [[MON00014_Undead_Creature_15
+- Related: [Wise Tide Truthseeker (D&D_References)]]
+- Related: [[Depth Seekers (D&D_References)
+- Related: [Independent Shadow Cell (Criminal_Organizations)]]
+- Related: [[LORE00239_History_Entry_240
+- Requires [List Spells Backgrounds Silverquill Student]]
+- Leads to [[Ambassador Sage Bridgebuilder
+- Leads to [Assets Locations Location City Scream Saturation V1 Scream Saturation Rules.svg]]
+- Related: [[03-races (players-handbook-2014)
+- See also: [Portrait NPC Lady Willow Greenbough Lady Willow Greenbough.svg]]
+- Requires [[Sage Analytical Mindweaver
+- Requires [conditions#Blinded]]
+- Requires [[Portrait NPC the Pearl Guard V1 the Pearl Guard.svg
+- Parallels [The Fusion Laboratory]]
 - Connects to
-- Influences [[ITEM00045_Blazing_Staff_of_Power]]
-- Connects to [[QUEST00272_Personal_Quest_273]]
-- Influences [[FAC00071_Guilds_72]]
-- See also: [[death-saving-throw-xphb (variant-rules)]]
-- Affected by [[LOC00146_Cities_Location_147]]
-- Influences [[LORE00248_History_Entry_249]]
-- Affected by [[quasit-xmm (fiend)]]
-- Affected by [[location-city-whisper-island-whisper-island.svg]]
-- Related: [[step_057 (phase_022)]]
-- Requires [[Vehicle Ship Arc Engine Prototype V1 Arc Engine Prototype.svg]]
-- Requires [[augury-xphb (spells)]]
-- Compare with [[The River Spirits 2]]
-- Parallels [[Assets Portraits Portrait NPC Abyssos Prime Government Abyssos Prime Government.svg]]
-- See also: [[Depth_Adapted_Background.md]]
-- Related: [[step_069 (phase_097)]]
-- See also: [[Charter of Rights]]
-- Originates from [[Captain Trawl Netcaster (D&D_References)]]
-- See also: [[Doors Door Type]]
-- Compare with [[Assets Art Tavern Keeper Finn Splitlung.png]]
-- Leads to [[Arctic Encounters Levels 510 Xge]]
-- Parallels [[Assets Locations Location City Artificers Consortium V1 Artificers Consortium.svg]]
-- Related: [[Bloodied Xphb]]
-- Connects to [[NPC01338_Ysara_Brightblade_the_Seeker]]
+- Influences [[ITEM00045_Blazing_Staff_of_Power
+- Connects to [QUEST00272_Personal_Quest_273]]
+- Influences [[FAC00071_Guilds_72
+- See also: [death-saving-throw-xphb (variant-rules)]]
+- Affected by [[LOC00146_Cities_Location_147
+- Influences [LORE00248_History_Entry_249]]
+- Affected by [[quasit-xmm (fiend)
+- Affected by [location-city-whisper-island-whisper-island.svg]]
+- Related: [[step_057 (phase_022)
+- Requires [Vehicle Ship Arc Engine Prototype V1 Arc Engine Prototype.svg]]
+- Requires [[augury-xphb (spells)
+- Compare with [The River Spirits 2]]
+- Parallels [[Assets Portraits Portrait NPC Abyssos Prime Government Abyssos Prime Government.svg
+- See also: [Depth_Adapted_Background.md]]
+- Related: [[step_069 (phase_097)
+- See also: [Charter of Rights]]
+- Originates from [[Captain Trawl Netcaster (D&D_References)
+- See also: [Doors Door Type]]
+- Compare with [[Assets Art Tavern Keeper Finn Splitlung.png
+- Leads to [Arctic Encounters Levels 510 Xge]]
+- Parallels [[Assets Locations Location City Artificers Consortium V1 Artificers Consortium.svg
+- Related: [Bloodied Xphb]]
+- Connects to [[NPC01338_Ysara_Brightblade_the_Seeker
 - Related:
-- See also: [[LORE00216_History_Entry_217]]
-- Requires [[Cross-Realm Trade Trends]]
-- Connects to [[Assets Locations Location City Family Portrait Family Portrait.svg]]
-- Originates from [[step_089 (phase_023)]]
-- Parallels [[druidic-warrior-xphb (feats)]]
-- Related: [[NPC00605_Solas_Goldleaf_the_Redeemed]]
-- Influences [[step_062 (phase_071)]]
-- Affected by [[Location City Market Master Cornelius Driftwood V1 Market Master Cornelius Driftwood.svg]]
-- Compare with [[ITEM01024_Distilled_Salve_of_Fortune]]
-- Connects to [[Faction Balance Maintenance (Operations)]]
-- Affected by [[Training Complications Xge]]
-- Connects to [[Vitriolic Sphere Xphb]]
-- Leads to [[step_035 (phase_010)]]
-- Related: [[QUEST00080_Personal_Quest_81]]
-- Parallels [[Relationship Web Nuances 2]]
-- Leads to [[LOC00120_Dungeons_Location_121]]
+- See also: [LORE00216_History_Entry_217]]
+- Requires [[Cross-Realm Trade Trends
+- Connects to [Assets Locations Location City Family Portrait Family Portrait.svg]]
+- Originates from [[step_089 (phase_023)
+- Parallels [druidic-warrior-xphb (feats)]]
+- Related: [[NPC00605_Solas_Goldleaf_the_Redeemed
+- Influences [step_062 (phase_071)]]
+- Affected by [[Location City Market Master Cornelius Driftwood V1 Market Master Cornelius Driftwood.svg
+- Compare with [ITEM01024_Distilled_Salve_of_Fortune]]
+- Connects to [[Faction Balance Maintenance (Operations)
+- Affected by [Training Complications Xge]]
+- Connects to [[Vitriolic Sphere Xphb
+- Leads to [step_035 (phase_010)]]
+- Related: [[QUEST00080_Personal_Quest_81
+- Parallels [Relationship Web Nuances 2]]
+- Leads to [[LOC00120_Dungeons_Location_121
 - Connects to
-- Requires [[Assets Portraits Portrait NPC Shadow Binding Sanctum Shadow Binding Sanctum.svg]]
-- Compare with [[step_091 (phase_026)]]
-- Requires [[New NPC]]
-- Parallels [[ITEM00245_Frost_Axe_of_Power]]
-- Connects to [[step_057 (phase_045)]]
-- Connects to [[FAC00003_Guilds_4]]
-- Influences [[LOC00056_Cities_Location_57]]
-- See also: [[step_059 (phase_071)]]
-- See also: [[Lysandra Tidecalle]]
-- Compare with [[step_027 (phase_068)]]
-- Leads to [[step_067 (phase_076)]]
-- Requires [[Portrait NPC Abyssos Prime Government V1 Abyssos Prime Government.svg_1 (Portraits)]]
-- See also: [[Location City Grief Harvester Melancholy Grief Harvester Melancholy.svg]]
-- Compare with [[step_085 (phase_083)]]
-- Compare with [[Citizens Rights Advocacy Group]]
-- Originates from [[strong-wind-xdmg (traps-hazards)]]
-- Connects to [[Axe of the Dwarvish Lords Xdmg]]
-- Influences [[Reality Stabilization Centers]]
-- Affected by [[Assets Locations Location City Market Heist V1 Market Heist.svg]]
+- Requires [Assets Portraits Portrait NPC Shadow Binding Sanctum Shadow Binding Sanctum.svg]]
+- Compare with [[step_091 (phase_026)
+- Requires [New NPC]]
+- Parallels [[ITEM00245_Frost_Axe_of_Power
+- Connects to [step_057 (phase_045)]]
+- Connects to [[FAC00003_Guilds_4
+- Influences [LOC00056_Cities_Location_57]]
+- See also: [[step_059 (phase_071)
+- See also: [Lysandra Tidecalle]]
+- Compare with [[step_027 (phase_068)
+- Leads to [step_067 (phase_076)]]
+- Requires [[Portrait NPC Abyssos Prime Government V1 Abyssos Prime Government.svg_1 (Portraits)
+- See also: [Location City Grief Harvester Melancholy Grief Harvester Melancholy.svg]]
+- Compare with [[step_085 (phase_083)
+- Compare with [Citizens Rights Advocacy Group]]
+- Originates from [[strong-wind-xdmg (traps-hazards)
+- Connects to [Axe of the Dwarvish Lords Xdmg]]
+- Influences [[Reality Stabilization Centers
+- Affected by [Assets Locations Location City Market Heist V1 Market Heist.svg]]
 - Parallels [[Admiral Marina Stormcrest (D&D_References)]]

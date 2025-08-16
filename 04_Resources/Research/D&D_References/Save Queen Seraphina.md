@@ -2,7 +2,7 @@
 
 title: Save Queen Seraphina
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -46,12 +46,11 @@ accessibility: screen_reader_summary: This lore entry explains a pivotal princip
 Save Queen Seraphina describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual. ## Player-Facing Summary Save Queen Seraphina is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Save Queen Seraphina as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Save Queen Seraphina. Nevertheless, ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Strange disappearances suggest a curse
 
 - A document has gone missing and evil awakens
-- An heirloom has gone missing and chaos spreads ## Related Notes - [[Similar Topic 1]]
+- An heirloom has gone missing and chaos spreads ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## References - [[Aethermoor - Session 05 The Queens Madness]]
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## References - [[Aethermoor - Session 05 The Queens Madness]]
 
 ## Notes
 

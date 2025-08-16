@@ -1,16 +1,16 @@
 ---
-title: list-optfeaturetype-fs-b#Fighting%20Style,%20Bard
+title: "list-optfeaturetype-fs-b#Fighting%20Style,%20Bard"
 type: note
-tags:
+tags: 
 - auto-generated
-- [[Link]]ed
+- [[Linked
 created: '2025-01-15'
 ---
 
 # list-optfeaturetype-fs-b#Fighting%20Style,%20Bard
 
 ## Overview
-This topic is referenced in [[Bard Xphb College of Swords Xge]] and other parts of the campaign.
+This topic is referenced in [Bard Xphb College of Swords Xge]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.

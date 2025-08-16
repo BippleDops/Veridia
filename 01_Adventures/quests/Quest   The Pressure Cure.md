@@ -40,8 +40,8 @@ Possible developments and plot opportunities.
 ## Relationships
 
 ### Direct Connections
-- [[Assets Art Choir Master Celestine Hymnsinger.png]]
-- [[Assets Symbols Symbol Heraldry Regulatory Medical Authorit Regulatory Medical Authorit.svg]]
+- [[Assets Art Choir Master Celestine Hymnsinger.png
+- [Assets Symbols Symbol Heraldry Regulatory Medical Authorit Regulatory Medical Authorit.svg]]
 
 ### Indirect Influences
 - Broader campaign themes
@@ -84,21 +84,17 @@ Possible developments and plot opportunities.
 - Key events
 - Deadlines
 
-
 ## NPCs Involved
 - Quest giver
 - Antagonists
-
 
 ## Locations
 - Starting point
 - Key locations
 
-
 ## Complications
 - Potential problems
 - Twists
-
 
 ## Alternative Solutions
 - Non-combat options

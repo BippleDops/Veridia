@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - aethermoor
 - complete
 - content/lore
@@ -13,18 +13,13 @@ updated: '2025-08-13T12:34:16.428776+00:00'
 world: Aethermoor
 ---
 
-
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Port Meridian - Market Square]]
-
+- [[02_Worldbuilding/Places/Port Meridian - Market Square
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Port Meridian - Market Square]]
+- [02_Worldbuilding/Places/Port Meridian - Market Square]]
 
 ## Player-Facing Summary
 

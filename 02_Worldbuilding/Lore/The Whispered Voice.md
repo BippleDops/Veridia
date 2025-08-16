@@ -1,12 +1,12 @@
 ---
 
 title: The Whispered Voice
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aethermoor]]
+- [Aethermoor]]
 - active
-- [[Npc]]
+- [[Npc
 - prophecy
 created: '2025-08-11'
 modified: '2025-08-14'
@@ -31,7 +31,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
+- Detail currency, [trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -81,9 +81,9 @@ The Whispered Voice is a undersea element of the setting, known for bioluminesce
 
 Legends speak of The Whispered Voice as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Whispered Voice.
 
-## [[DM_Notes]]
+## [[DM_Notes
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [map]] use.
 
 ## [[Historical Context]]
 

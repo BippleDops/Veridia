@@ -2,7 +2,7 @@
 
 title: Houses_and_Nobility - House Shadowmere
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -55,26 +55,25 @@ House Shadowmere operates as the realm's premier intelligence and espionage orga
 - **Personality:** Mysterious, speaks in riddles, reveals nothing unnecessarily
 - **Notable Features:** Eyes change color based on lies detected, can become partially transparent
 - **Secret:** Has been dead for 20 years - current version is her shadow given independent life **Key Relationships:**
-- **[[Duke Marcus Brightshield]]** - Childhood friend turned political rival; still uses their childhood code words in private messages
-- **[[Ambassador Korvin Blacktide]]** - Former lover who ended relationship when she "died"; doesn't know she's actually dead
-- **[[Parliament of Shadows]]** - Shadow Intelligence Chief coordinating true goverce
-- **[[Order of the Silent Depths]]** - Member providing political protection for historical secrets
-- **[[Memory Merchant Valeria Siltweave]]** - Alliance for memory-based intelligence gathering ### The Information Mistress: Dame Nyx Shadowmere - **Age:** 27
+- **[[Duke Marcus Brightshield** - Childhood friend turned political rival; still uses their childhood code words in private messages
+- **[Ambassador Korvin Blacktide]]** - Former lover who ended relationship when she "died"; doesn't know she's actually dead
+- **[[Parliament of Shadows** - Shadow Intelligence Chief coordinating true goverce
+- **[Order of the Silent Depths]]** - Member providing political protection for historical secrets
+- **[[Memory Merchant Valeria Siltweave** - Alliance for memory-based intelligence gathering ### The Information Mistress: Dame Nyx Shadowmere - **Age:** 27
 
 - **Position:** Domestic Intelligence Chief, Memory Trader
 - **Personality:** Cold, efficient, treats people as data points
 - **Notable Features:** Perfect memory, can absorb others' memories through touch
 - **Secret:** Addicted to experiencing other people's emotions through stolen memories **Key Relationships:**
-- **[[Sir Theron Brightshield]]** - Childhood trauma bond, both survived same massacre; now memory construct vs. Memory addict
-- **[[Captain Marina Tidecrest]]** - Secret romantic affair through memory-sharing addiction
-- **[[Silverscale Consortium]]** - Professional partnership in memory trading markets
+- **[Sir Theron Brightshield]]** - Childhood trauma bond, both survived same massacre; now memory construct vs. Memory addict
+- **[[Captain Marina Tidecrest** - Secret romantic affair through memory-sharing addiction
+- **[Silverscale Consortium]]** - Professional partnership in memory trading markets
 - **[[Resoce Conspiracy]]** - Collaboration on consciousness manipulation research ### Primary Goals
 
 1. **Information Supremacy:** Control all significant intelligence in the realm
 2. **Political Balance:** Prevent any single faction from achieving total domice
 3. **Shadow Integration:** Normalize shadow beings as equal participants in society
 4. **Eternal Relevance:** Ensure House Shadowmere remains indispensable to all sides ### Long-term Vision
-
 
 House Shadowmere seeks a world where information is the ultimate currency, where they sit as permanent power brokers between competing factions, and where shadow beings are recognized as equal citizens with unique capabilities essential to civilization. ### The Dead Matriarch (Highest Classification)
 
@@ -175,18 +174,15 @@ Every major house purchases intelligence from Shadowmere, creating complex web o
 3. **Identity Creation:** Help establish false identity for important client
 4. **Memory Recovery:** Retrieve stolen or lost memories from hostile territory ### Opposition Scenarios
 
-
 1. **Information War:** Stop house manipulation of political situation
 2. **Identity Crisis:** Investigate suspicious behavior of house family members
 3. **Memory Theft:** Recover memories stolen for blackmail purposes
 4. **Shadow Infiltration:** Expose house involvement in shadow conspiracy ### Neutral Investigations
 
-
 1. **The Missing Spymaster:** Investigate Lady Venetia's true identity
 2. **Triple Identity Crisis:** Uncover the truth about Lord Vexton
 3. **Memory Addiction:** Help Dame Nyx overcome psychological dependency
 4. **Lost Son Search:** Find Marcus and restore his original identity ### Complex Intrigue
-
 
 1. **Information Auction:** Navigate competitive intelligence bidding war
 2. **Double Agent Network:** Uncover overlapping spy operations
@@ -194,7 +190,6 @@ Every major house purchases intelligence from Shadowmere, creating complex web o
 4. **Intelligence Market Crash:** Deal with consequences of information economy collapse --- *"Every shadow holds a secret, every secret casts a shadow. In the end, we are all shadows of ourselves."*
 
 — Lady Venetia Shadowmere, "Meditations on Information and Identity" ## Player-Facing Summary House Shadowmere is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of House Shadowmere as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around House Shadowmere. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Covenant - Control trade routes ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Resoce Conspiracy]]
-
 
 ## Notes
 

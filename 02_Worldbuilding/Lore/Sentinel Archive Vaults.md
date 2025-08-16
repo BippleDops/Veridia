@@ -1,8 +1,8 @@
 ---
 created: 2025-08-14
 modified: '2025-08-14'
-tags:
-- [[Lore]]
+tags: 
+- [[Lore
 title: Sentinel Archive Vaults
 type: lore
 updated: 2025-08-14
@@ -18,12 +18,12 @@ Sentinel Archive Vaults represents a significant element within the campaign wor
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: [[Link]]ed to multiple other elements
+- **Connections**: [Link]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-[[Historical Context]] and development over [[Time]].
+[[Historical Context and development over [Time]].
 
 ### Current State
 Present circumstances and ongoing relevance.

@@ -2,7 +2,7 @@
 
 title: Trade War (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -48,7 +48,6 @@ Trade War is a living crossroads where memory-currents and trade flows intersect
 - A shipment has gone missing and war looms
 - Someone is protecting a artifact for power
 - A prisoner has gone missing and truth emerges ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

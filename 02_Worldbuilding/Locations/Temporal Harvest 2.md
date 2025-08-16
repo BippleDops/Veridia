@@ -6,7 +6,7 @@ created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -23,13 +23,8 @@ updated: '2025-08-13T12:34:16.572517+00:00'
 world: Aquabyssos
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-temporal-harvest-temporal-harvest.svg)
-
-
-
 
 # Temporal Harvest
 
@@ -209,10 +204,9 @@ Use the Temporal Harvest to:
 - Generate ongoing plot threads involving the consequences of temporal manipulation
 - Explore themes of causality, responsibility, and the nature of time itself
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/Old Valdris]]
+- [[02_Worldbuilding/Places/Old Valdris
 
 ## Player-Facing Summary
 
@@ -224,25 +218,21 @@ Legends speak of Temporal Harvest as a nexus where past and present converge. Lo
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Temporal Harvest]]
+- [02_Worldbuilding/Places/Temporal Harvest]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

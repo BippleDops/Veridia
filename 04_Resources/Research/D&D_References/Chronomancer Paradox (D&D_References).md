@@ -2,7 +2,7 @@
 
 title: Chronomancer Paradox (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -49,7 +49,6 @@ Chronomancer Paradox is a living crossroads where memory-currents and trade flow
 
 - Strange sightings suggest a conspiracy
 - A shipment has gone missing and truth emerges ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

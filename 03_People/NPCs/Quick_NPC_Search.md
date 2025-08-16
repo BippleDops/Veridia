@@ -9,7 +9,6 @@ aliases: ["Quick NPC Search"]
 
 > *Not all allies are what they seem...* This remarkable element adds depth and intrigue to any campaign.
 
-
 ## Overview
 
 Comprehensive overview of this content.
@@ -64,16 +63,14 @@ modified: '2025-08-14' --- # Quick NPC Search > Search for NPCs by name, faction
 - Hidden knowledge
 - Personal mysteries
 
-
 **Key Question**: What drives this character's actions?
 
 *Adventure awaits those brave enough to seek it.*
 
 ## Visual References
-![[04_Resources/Assets/Digital/ui-ui-quick-reference-overlay-v1-quick-reference-overlay.png]]
-![[04_Resources/Assets/Digital/ui-ui-quick-reference-overlay-v2-quick-reference-overlay.png]]
-![[04_Resources/Assets/Digital/ui-ui-quick-reference-overlay-quick-reference-overlay.png]]
-
+![[04_Resources/Assets/Digital/ui-ui-quick-reference-overlay-v1-quick-reference-overlay.png
+![04_Resources/Assets/Digital/ui-ui-quick-reference-overlay-v2-quick-reference-overlay.png]]
+![[04_Resources/Assets/Digital/ui-ui-quick-reference-overlay-quick-reference-overlay.png
 
 ## Realm Connections
 
@@ -81,10 +78,10 @@ modified: '2025-08-14' --- # Quick NPC Search > Search for NPCs by name, faction
 This relates to the deep realm of Deepest ocean trenches and underwater kingdoms.
 
 - **Ruling Power**: The Tidal Throne
-- **Capital**: [[Pearlheart Palace]]
+- **Capital**: [Pearlheart Palace]]
 - **Primary Magic**: Tidal control, pressure magic, bioluminescence
 - **Current Conflict**: The Crushing Dark, Surface Wars
-- **Key Locations**: [[Abyssal Trenches]], [[Coral Throne]]
+- **Key Locations**: [[Abyssal Trenches, [Coral Throne]]
 
 In the crushing depths of Aquabyssos, where Tritons, Sea Elves, Merfolk, Krakens 
 build cities of living coral and navigate by bioluminescent paths.

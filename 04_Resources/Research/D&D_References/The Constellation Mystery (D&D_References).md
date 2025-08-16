@@ -2,7 +2,7 @@
 
 title: The Constellation Mystery (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -127,7 +127,6 @@ A mystical investigation where the underwater constellation patterns visible fro
 3. Government commissions investigation team
 4. Personal visions drive characters to seek answers ## Equipment Needed
 
-
 **Astronomical Instruments**: Telescopes and measurement devices
 **Translation Materials**: Dictionaries for ancient languages
 **Magical Components**: Items for divination and ritual magic
@@ -138,12 +137,11 @@ This mystery combines cosmic horror elements with scholarly investigation. The s
 
 - The authorities needs help investigating before dawn
 - A shipment has gone missing and evil awakens
-- The authorities needs help finding before dawn ## Related Notes - [[Similar Topic 1]]
+- The authorities needs help finding before dawn ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

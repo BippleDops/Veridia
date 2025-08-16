@@ -1,14 +1,14 @@
 ---
 
 title: The Final Sealing
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
 - category/lore
 - quest
 - active
 - complete
-- [[Aethermoor]]
+- [Aethermoor]]
 - conspiracy
 created: '2025-08-11'
 modified: '2025-08-14'
@@ -16,12 +16,12 @@ status: complete
 updated: '2025-08-13T01:18:35.199646+00:00'
 world: Aethermoor
 obsidianUIMode: preview
-accessibility:
+accessibility: 
   screen_reader_summary: This lore entry explains a pivotal principle or event and
     its consequences for play.
   content_warnings: []
   pronunciation: The Final Sealing
-  safety_tools:
+  safety_tools: 
   - Lines & Veils
   - X-Card
 evaluated: '2025-08-14'
@@ -44,7 +44,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -102,7 +102,7 @@ The Final Sealing is a undersea element of the setting, known for bioluminescent
 
 Legends speak of The Final Sealing as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Final Sealing.
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
 

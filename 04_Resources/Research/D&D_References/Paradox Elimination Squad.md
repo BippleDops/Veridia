@@ -2,7 +2,7 @@
 
 title: Paradox Elimination Squad
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,12 +42,11 @@ updated: '2025-08-13T01:18:35.036164+00:00'
 
 - A merchant needs help stealing before dawn
 - A journal reveals a betrayal about this place
-- A stranger needs help delivering before the festival ## Related Notes - [[Similar Topic 1]]
+- A stranger needs help delivering before the festival ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]]
 
 ## Notes
 

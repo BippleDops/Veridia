@@ -2,7 +2,7 @@
 
 title: EXAMPLE_CAMPAIGN_SETUP
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -53,7 +53,6 @@ modified: '2025-08-14'
 ├── Session 7: The Queen's Dilemma
 ├── Session 8: Cross-Realm Alliance
 └── Session 9: Resolution & Consequences --- ### Campaign File Structure 📁 01_Adventures/
-
 
 **Summary**: Campaign File Structure 📁 01_Adventures/ - Key information at a glance.
 
@@ -154,7 +153,7 @@ relationship_complexity: very-high
 --- ## Basic Information **Title**: Cross-Realm Diplomatic Liaison
 
 **Age**: 29 | **Race**: Human (Cross-Realm Heritage)
-**Location**: [[Embassy Conference Chamber]]
+**Location**: [[Embassy Conference Chamber
 **Current Status**: Playing a dangerous triple-agent game ## The Triple Identity **Public Identity - The Perfect Diplomat**:
 
 - Smooth negotiator bridging cultural differences
@@ -234,7 +233,7 @@ Lysandra is caught in an increasingly dangerous web:
 **Session 4 → 6**: Allegiances tested and reformed **Session 6 → 9**: New political order established --- #### Setup & Objectives
 
 **Timeline**: Campaign Day 1, Month 3, 1247 AC
-**Location**: [[Crystal Palace Throne Room]] → [[Embassy Conference Chamber]]
+**Location**: [Crystal Palace Throne Room]] → [[Embassy Conference Chamber]]
 **Duration**: 3-4 hours
 **Player Level**: 3 **Primary Objective**: Investigate increasing tensions between Aquabyssos and Aethermoor diplomatic missions **Session Goals**:
 - Introduce main NPCs and political situation
@@ -244,7 +243,6 @@ Lysandra is caught in an increasingly dangerous web:
 
 ## The Royal Summons The crystal-carved corridors of the Palace echo with unusual activity. Royal Guards move in formation, their traditional ceremonial pace replaced by urgent efficiency. You've been summoned by Queen Seraphina herself - an honor that comes with dangerous implications. **Atmospheric Details**:
 
-
 **Summary**: The Royal Summons The crystal-carved corridors of the Palace echo with unusual activity. Royal Guards move in formation, their traditional ceremonial pace replaced by urgent efficiency. You've been summoned by Queen Seraphina herself - an honor that comes with dangerous implications. **Atmospheric Details**: - Key information at a glance.
 
 - The throne room's bioluminescent coral dims and brightens with the Queen's emotional state
@@ -252,7 +250,7 @@ Lysandra is caught in an increasingly dangerous web:
 - The ceremonial tide pool at the room's center shows unusual turbulence
 - Palace servants avoid making eye contact, their usual professional confidence shaken **Queen Seraphina's Entrance**:
 
-She enters with measured steps, but perceptive characters (Insight DC 13) notice:
+She enters with measured steps, but perceptive characters (Insight **DC 13**) notice:
 - Slight tremor in her domit hand - Brief pause as she adjusts to the throne room's lighting
 - A small crystalline formation visible at her collar line
 - Her advisors watch her with barely concealed concern **The Royal Request**:
@@ -435,7 +433,6 @@ python scripts/backup_automation.py --vault-path. Backup --type incremental --ta
 4. **Relationship Complexity**: Multiple competing loyalties create interesting choices
 5. **Progressive Revelation**: Information disclosed gradually maintains mystery and tension **Total Campaign Prep Time**: ~20 hours front-loaded, ~30 minutes per session ongoing **Player Satisfaction Target**: 4.5/5.0 or higher **Story Coherence**: Maintains logical consistency while allowing player agency **Reusability**: Structure adaptable for different themes and player groups ## Related *Links to related content will be added here.* ## DM Notes *Private notes for campaign integration:*
 
-
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
@@ -444,7 +441,6 @@ python scripts/backup_automation.py --vault-path. Backup --type incremental --ta
 - A letter reveals a betrayal about a local noble
 - The authorities needs help stealing before dawn
 - A stranger needs help investigating before the new moon ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

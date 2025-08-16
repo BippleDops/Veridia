@@ -2,7 +2,7 @@
 
 title: Keeper Maelstrom the Great
 type: Location
-tags:
+tags: 
 - aquabyssos
 - world/aquabyssos
 - content/location
@@ -248,11 +248,9 @@ Key stop on spices trade route
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

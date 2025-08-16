@@ -2,7 +2,7 @@
 created: '2025-08-12'
 created_by: claude
 status: complete
-tags:
+tags: 
 - both
 - complete
 - content/lore
@@ -19,8 +19,6 @@ type: Lore
 updated: '2025-08-13T12:34:15.910272+00:00'
 world: Both
 ---
-
-
 
 # The Deep Prophecies
 
@@ -198,7 +196,7 @@ Mother's dreams will swallow you."*
 
 **Conclusion**: *Individual existence is mathematically temporary. QED.*
 
-**Sanity Cost**: Understanding this proof costs 2d6 sanity and grants immunity to illusion magic but disadvantage on all hope-based saving throws.
+**Sanity Cost**: Understanding this proof costs `dice: 2d6` sanity and grants immunity to illusion magic but disadvantage on all hope-based saving throws.
 
 ---
 
@@ -211,7 +209,7 @@ Mother's dreams will swallow you."*
 
 **Application**: *Can be used to predict temporal anomalies, but understanding requires abandoning linear perception of causality.*
 
-**Sanity Cost**: Learning these equations costs 1d6 sanity but allows limited precognition (see 1d4 rounds into future once per day).
+**Sanity Cost**: Learning these equations costs `dice: 1d6` sanity but allows limited precognition (see `dice: 1d4` rounds into future once per day).
 
 ---
 
@@ -222,7 +220,7 @@ Mother's dreams will swallow you."*
 
 **Implication**: *Free will decreases proportionally to Deep Mother's influence increase. At 100% influence, free will = 0.*
 
-**Sanity Cost**: Accepting this principle costs 1d4 sanity but grants bonus to resist mental effects (you understand your mind is not entirely your own).
+**Sanity Cost**: Accepting this principle costs `dice: 1d4` sanity but grants bonus to resist mental effects (you understand your mind is not entirely your own).
 
 ## Prophetic Texts and Sources
 
@@ -232,7 +230,7 @@ Mother's dreams will swallow you."*
 **Contents**: 347 pages of prophecies written in language that translates itself based on reader's fears  
 **Location**: Hidden vault beneath Aquabyssos Academy  
 **Access**: Requires three keys held by different organizations  
-**Sanity Cost**: 1d4 per page read, contains answers to questions not yet asked
+**Sanity Cost**: `dice: 1d4` per page read, contains answers to questions not yet asked
 
 ### The Stellar Manuscript
 **Physical Description**: Star charts that show constellations from other realities  
@@ -240,7 +238,7 @@ Mother's dreams will swallow you."*
 **Contents**: Astronomical prophecies about reality alignment events  
 **Location**: Observatory vault, requires specialized equipment to read safely  
 **Access**: Observatory staff only (most are now corrupted)  
-**Sanity Cost**: 1d6 per constellation studied, reveals when "stars are right" for various rituals
+**Sanity Cost**: `dice: 1d6` per constellation studied, reveals when "stars are right" for various rituals
 
 ### The Living Ledger
 **Physical Description**: Account book that writes itself in real-time  
@@ -248,7 +246,7 @@ Mother's dreams will swallow you."*
 **Contents**: Economic prophecies written as shipping manifests and financial records  
 **Location**: Meridian Trading Company headquarters, closely guarded  
 **Access**: Senior merchants and accounting staff  
-**Sanity Cost**: Minimal (1d4 per major revelation) but creates obsession with cosmic economics
+**Sanity Cost**: Minimal (`dice: 1d4` per major revelation) but creates obsession with cosmic economics
 
 ### The Dream Archive
 **Physical Description**: Collection of preserved dreams in crystal orbs  
@@ -256,7 +254,7 @@ Mother's dreams will swallow you."*
 **Contents**: Visual prophecies that play out when crystals are activated  
 **Location**: Parliament of Shadows secret chamber  
 **Access**: High-ranking Parliament members only  
-**Sanity Cost**: 2d6 per dream viewed, but provides perfect accuracy about one future event
+**Sanity Cost**: `dice: 2d6` per dream viewed, but provides perfect accuracy about one future event
 
 ### The Pressure Plates
 **Physical Description**: Metal tablets that exist only under crushing pressure  
@@ -264,7 +262,7 @@ Mother's dreams will swallow you."*
 **Contents**: Prophecies visible only when underwater at specific depths  
 **Location**: Various deep ocean sites, require specialized equipment  
 **Access**: Deep sea exploration guilds and cult diving operations  
-**Sanity Cost**: 1d6 per plate, but grants understanding of Deep Mother's physical nature
+**Sanity Cost**: `dice: 1d6` per plate, but grants understanding of Deep Mother's physical nature
 
 ## Prophecy Interpretation Guidelines
 
@@ -377,12 +375,12 @@ Prophecies are generally accurate but often metaphorical:
 
 - Deep Mother Lore
 - Complete Deep Mother Subsystem
-- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
-- [[03_Mechanics/Deep Mother Sanity System]]
-- [[02_Worldbuilding/Places/Reality Breach Locations]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother
+- [03_Mechanics/Deep Mother Sanity System]]
+- [[02_Worldbuilding/Places/Reality Breach Locations
 - Forbidden Tomes
 - Observatory Of Broken Stars
-- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Shadows]]
+- [02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Shadows]]
 - Temporal Mechanics
 - Crystal Network
 

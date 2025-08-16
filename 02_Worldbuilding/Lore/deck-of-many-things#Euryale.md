@@ -1,22 +1,22 @@
 ---
-title: deck-of-many-things#Euryale
+title: "deck-of-many-things#Euryale"
 type: note
-tags:
+tags: 
 - auto-generated
-- [[Link]]ed
+- [[Linked
 created: '2025-01-15'
 ---
 
 # deck-of-many-things#Euryale
 
 ## Overview
-This topic is referenced in [[Deck of Many Things 13 Cards]] and other parts of the campaign.
+This topic is referenced in [Deck of Many Things 13 Cards]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Deck of Many Things 13 Cards]]
+- Referenced by: [[Deck of Many Things 13 Cards
 - Related topics in the same category
 
 ## Details
@@ -29,5 +29,5 @@ Further information about this topic will be developed as the campaign progresse
 
 ## References
 
-- [[Deck of Many Things 13 Cards]]
+- [Deck of Many Things 13 Cards]]
 - [[deck-of-many-things-13-cards (decks)]]

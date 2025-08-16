@@ -2,7 +2,7 @@
 
 title: Shadow Admiral Vex (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,7 +42,6 @@ updated: '2025-08-13T01:18:35.870457+00:00'
 
 - A noble needs help delivering before the new moon
 - An heirloom has gone missing and war looms ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

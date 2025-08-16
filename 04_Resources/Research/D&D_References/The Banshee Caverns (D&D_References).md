@@ -2,7 +2,7 @@
 
 title: The Banshee Caverns (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -45,7 +45,6 @@ danger_level: Moderate
 - Someone is hunting a witness for power
 - A document has gone missing and truth emerges
 - A noble needs help delivering before the new moon ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

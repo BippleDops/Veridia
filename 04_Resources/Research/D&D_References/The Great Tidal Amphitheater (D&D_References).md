@@ -2,7 +2,7 @@
 
 title: The Great Tidal Amphitheater (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,7 +42,6 @@ updated: '2025-08-13T01:18:35.548735+00:00'
 - A prisoner has gone missing and evil awakens
 - The authorities needs help stealing before the new moon
 - A journal reveals the truth about the government ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

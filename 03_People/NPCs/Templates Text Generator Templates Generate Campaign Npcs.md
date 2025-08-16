@@ -117,7 +117,6 @@ Ways to incorporate 05_Templates/Text Generator Templates/Generate Campaign NPCs
 4. **Utilization**: Using it to achieve goals
 5. **Prevention**: Stopping its misuse ### Mechanical Considerations
 
-
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
@@ -184,31 +183,25 @@ Adapt as needed for:
 - Wearing red on holy days
 - Pointing at the moon
 
-
 ## Notes
 
 *Additional notes*
-
 
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
 
-
 ## Daily Routine
 - Morning activities
 - Evening habits
-
 
 ## Possessions
 - Personal items
 - Valuable objects
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Secrets
 - Hidden knowledge

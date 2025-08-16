@@ -2,7 +2,7 @@
 
 title: Post-Merge Chronology (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -45,7 +45,6 @@ updated: '2025-08-13T01:18:35.916957+00:00'
 *The Birth and Development of Aquabyssos (1 AE - Present)* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview Following the Great Convergence, the merged realm of Aquabyssos has undergone three distinct historical periods: the Adaptation Era (1-156 AE), the Expansion Era (157-445 AE), and the Modern Era (446 AE - Present, 1247 AE). This chronicle documents the evolution of a civilization born from catastrophe. --- ## The Adaptation Era (1-156 AE)
 
 *Learning to Live in the Depths* ### Year 1 AE - The Foundation Year **1st Month, Day 15** - First Joint Parliament Session
-
 
 **Summary**: Year 1 AE - The Foundation Year **1st Month, Day 15** - First Joint Parliament Session - Key information at a glance.
 
@@ -91,7 +90,6 @@ updated: '2025-08-13T01:18:35.916957+00:00'
 - Introduction of the "Current" as unified Aquabyssos currency
 - Crystal-based banking system operational throughout all depths
 - Trade agreements with neighboring undiscovered realms established ### Years 16-45 AE - The Cultural Synthesis Period **Year 18 AE** - First Generation of True Aquabyssos Natives Reach Adulthood
-
 
 **Summary**: Years 16-45 AE - The Cultural Synthesis Period **Year 18 AE** - First Generation of True Aquabyssos Natives Reach Adulthood - Key information at a glance.
 
@@ -285,7 +283,6 @@ updated: '2025-08-13T01:18:35.916957+00:00'
 - Strange accidents suggest ancient magic
 - A letter reveals the truth about the government
 - A merchant needs help investigating before the new moon ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

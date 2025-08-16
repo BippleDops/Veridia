@@ -2,7 +2,7 @@
 
 title: The Shadowless
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,10 +42,9 @@ updated: '2025-08-13T01:18:35.127889+00:00'
 
 - A merchant needs help delivering before the new moon
 - A noble needs help stealing before the festival
-- Someone is protecting information for power ## References - [[Shadow Conspiracy Investigation (Criminal_Organizations)]]
+- Someone is protecting information for power ## References - [[Shadow Conspiracy Investigation (Criminal_Organizations)
 
-- [[Shadow Conspiracy Investigation]]
-
+- [Shadow Conspiracy Investigation]]
 
 ## Notes
 

@@ -1,8 +1,8 @@
 ---
 
-title: Current Session Notes
-type: [[Lore]]
-tags:
+title: [[Current Session Notes
+type: [Lore]]
+tags: 
 - lore
 - worldbuilding
 - bloodline
@@ -12,27 +12,27 @@ evaluated: '2025-08-14'
 improvements: 20
 ---
 
-## 🔧 Deep Evaluation Improvements
+## 🔧 [[Deep Evaluation Improvements
 
 *20 targeted improvements identified*
 
-### History Improvements
+### [History Improvements]]
 
 - Add three historical eras with major events
 
-### Culture Improvements
+### [[Culture Improvements
 
 - Define unique cultural practices and taboos
 
-### Economy Improvements
+### [Economy Improvements]]
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|[Trade Goods]], and wealth distribution
 
-### Religion Improvements
+### [[Religion Improvements
 
 - Create detailed religious observances
 
-### Lifestyle Improvements
+### [Lifestyle Improvements]]
 
 - Describe typical day for different social classes
 
@@ -40,13 +40,13 @@ improvements: 20
 
 - Describe rites of passage and adulthood markers
 
-### Hospitality Improvements
+### [[Hospitality Improvements
 
 - Explain guest rights and host obligations
 
-### Diaspora Improvements
+### [Diaspora Improvements]]
 
-- Describe how this culture exists in other [[region]]s
+- Describe how this culture exists in other [[regions
 
 ### Material_Culture Improvements
 
@@ -56,7 +56,7 @@ improvements: 20
 
 - Add folk tales and children's stories
 
-### Sensory Improvements
+### [Sensory Improvements]]
 
 - Add smells, sounds, and textures unique to this culture
 
@@ -64,19 +64,19 @@ improvements: 20
 
 - Detail funeral rites and afterlife beliefs
 
-### Contradictions Improvements
+### [[Contradictions Improvements
 
 - Include cultural hypocrisies and double standards
 
 ## Overview
 
-Current Session Notes represents a crucial aspect of the world's history, cosmology, or fundamental nature.
+[Current Session]] Notes represents a crucial aspect of the world's history, cosmology, or fundamental nature.
 
 ---
 
-*Last Updated: 2025-08-14 19:03*
+*[[Last Updated: 2025-08-14 19:03*
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -84,32 +84,32 @@ Current Session Notes represents a crucial aspect of the world's history, cosmol
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-## Economic Structure
+## [[Economic Structure
 
 ### Currency
-- Copper Drops (cp)
-- Silver Streams (sp) 
-- Gold Suns (gp)
-- Platinum Crowns (pp)
+- [Copper Drops]] (cp)
+- [[Silver Streams (sp) 
+- [Gold Suns]] (gp)
+- [[Platinum Crowns (pp)
 
-### Major Exports
+### [Major Exports]]
 - Refined crystals
 - Exotic textiles
 - Trained beasts
 
-### Wealth Distribution
+### [[Wealth Distribution
 - 1% control 60% of wealth
 - 20% middle class
 - 79% working poor
 
-## Religious Observances
+## [Religious Observances]]
 
-### Daily Prayers
+### [[Daily Prayers
 - Dawn: Gratitude for life
 - Noon: Strength for labor
 - Dusk: Protection from darkness
 
-### Weekly Observance
+### [Weekly Observance]]
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
@@ -132,4 +132,26 @@ Current Session Notes represents a crucial aspect of the world's history, cosmol
 
 ## References
 
-- [[Current_Session_Notes (02_Worldbuilding)]]
+- [[Current_Session_Notes (02_Worldbuilding)
+
+## [Session Summary]]
+*Brief overview of this session*
+
+## [[Key Events
+- Event 1
+- Event 2
+
+## NPCs Encountered
+- [[NPC [Name]]]] - Brief description
+
+## [[Locations Visited
+- [[[Location Name]]]] - What happened here
+
+## [[Quest Progress
+- [[[Quest Name]]]] - What was accomplished
+
+## Notes for [[Next Session]]
+- Important things to remember
+- Plot threads to follow up
+
+---

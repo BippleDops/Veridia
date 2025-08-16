@@ -1,0 +1,81 @@
+---
+
+title: Holy Weapon Xge
+type: note
+tags: 
+- note
+
+created: '2025-01-15'
+modified: '2025-01-15'
+aliases: ["Holy Weapon Xge"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
+---
+
+ # Holy Weapon Xge ---
+
+## Description
+
+Detailed description pending.
+title: Holy Weapon Xge
+aliases:
+- Holy Weapon
+
+type: note
+tags:
+- both
+- ttrpg-cli/compendium/src/5e/xge
+- mechanics/magic
+- research
+- world/both
+- active
+- note
+- status/in-progress
+
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+classes:
+- Bard
+- Cleric
+- Paladin
+- Sorcerer (Divine Soul)
+
+cssclasses: json5e-spell
+obsidian UIMode: preview
+updated: '2025-08-13T12:34:06.206038+00:00'
+world: Both
+
+--- # Holy Weapon
+
+*5th-level, Evocation* - **Casting time:** 1 Bonus Action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 hour You imbue a weapon you touch with holy power. Until the spell ends, the weapon emits bright light in a 30-foot radius and dim light for an additional 30 feet. In addition, weapon attacks made with it deal an extra``dice: 2d8``radiant damage on a hit. If the weapon isn't already a magic weapon, it becomes one for the duration. As a bonus action on your turn, you can dismiss this spell and cause the weapon to emit a burst of radiance. Each creature of your choice that you can see within 30 feet of the weapon must make a Constitution saving throw. On a failed save, a creature takes``dice: 4d8``radiant damage, and it is [[conditions#Blinded|blinded for 1 minute. On a successful save, a creature takes half as much damage and isn't [conditions#Blinded|blinded]]. At the end of each of its turns, a [[conditions#Blinded|blinded creature can make a Constitution saving throw, ending the effect on itself on a success. **Classes**: [classes]]; [[classes; [classes]]; [[classes *Source: Xanathar's Guide to Everything p. 157* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Holy weapon xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of holy weapon xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around holy weapon xge. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Strange accidents suggest a portal
+
+- Someone is blackmailing information for revenge
+- An heirloom has gone missing and evil awakens
+- A noble needs help investigating before the festival ## Related Notes - [Similar Topic 1]]
+
+- [[Contrasting Approach
+- [Advanced Version]]
+- [[Historical Context ## References - [Master_Spell_Compendium]]
+
+## Notes
+
+*Additional notes*
+
+#mechanics/mechanics
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/creature
+#meta/reference

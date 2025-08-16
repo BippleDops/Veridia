@@ -2,7 +2,7 @@
 
 title: Quartermaster Sterling Suppystone (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,7 +43,6 @@ danger_level: Moderate
 - Strange disappearances suggest a portal
 - Strange disappearances suggest a conspiracy
 - Strange dreams suggest a portal ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

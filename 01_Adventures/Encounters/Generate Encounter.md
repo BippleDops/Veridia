@@ -1,6 +1,6 @@
 ---
 tags: [generated, linked]
-created: 2025-08-15T12:34:11.165165
+created: "2025-08-15T12:34:11.165165"
 ---
 
 # Generate Encounter

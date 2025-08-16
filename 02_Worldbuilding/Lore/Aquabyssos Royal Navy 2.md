@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/lore
@@ -13,18 +13,13 @@ updated: '2025-08-13T12:34:15.925599+00:00'
 world: Aquabyssos
 ---
 
-
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/The Depth Accords]]
-
+- [[02_Worldbuilding/Quests/The Depth Accords
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/The Depth Accords]]
+- [02_Worldbuilding/Quests/The Depth Accords]]
 
 ## Player-Facing Summary
 

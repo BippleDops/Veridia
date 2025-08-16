@@ -1,10 +1,10 @@
 ---
-accessibility:
-  content_warnings:
+accessibility: 
+  content_warnings: 
   - political coercion
   - environmental hazards
   pronunciation: The Divine Trial
-  safety_tools:
+  safety_tools: 
   - Lines & Veils
   - X-Card
   - Open Door
@@ -14,7 +14,7 @@ accessibility:
 created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -26,13 +26,9 @@ updated: '2025-08-13T12:34:16.834191+00:00'
 world: Aquabyssos
 ---
 
-
-
-
-
 # The Divine Trial
 
-![[04_Resources/Assets/Art/Places/The_Divine_Trial.png|The Divine Trial Portrait]]
+![[04_Resources/Assets/Art/Places/The_Divine_Trial.png|The Divine Trial Portrait
 
 ## Overview
 The Divine Trial is a living crossroads where memory-currents and trade flows intersect. Merchants, informants, and faiths compete to steer the tides of influence. The Convergence leaves subtle scars here: whispers cling to stone, and bargains echo across depths.
@@ -48,14 +44,14 @@ The Divine Trial is a living crossroads where memory-currents and trade flows in
 - Verdant Accord envoys quietly track bio-crafted goods and seed bans.
 
 ## For the Table (Quick Use)
-- Negotiation DCs: Honest trade DC 12; Gray market DC 15; Smuggling DC 17. On a failure, progress with a telltale rumor seeded in the crowd instead of stalling.
-- Hazards: Pressure surges (CON save DC 13 or gain 1 level of Fatigue), slipstream knocks (DEX save DC 12 or lose 1 item to the current).
-- Rewards: Faction favor notes, tariff keys, market scrip worth 2d10×10 gp in local value.
+- Negotiation DCs: Honest trade **DC 12**; Gray market **DC 15**; Smuggling **DC 17**. On a failure, progress with a telltale rumor seeded in the crowd instead of stalling.
+- Hazards: Pressure surges (CON save **DC 13** or gain 1 level of Fatigue), slipstream knocks (DEX save **DC 12** or lose 1 item to the current).
+- Rewards: Faction favor notes, tariff keys, market scrip worth `dice: 2d10`×10 gp in local value.
 
 ## Threads to the Main Campaign
-- Archivists claim a ledger fragment pointing toward [[02_Worldbuilding/Places/The Sunken Library of Thalassius]].
-- A clandestine auction circles artifacts tied to [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]].
-- An information broker with ties to [[02_Worldbuilding/People/Vex Shadowthorn]] trades memories for favors.
+- Archivists claim a ledger fragment pointing toward [02_Worldbuilding/Places/The Sunken Library of Thalassius]].
+- A clandestine auction circles artifacts tied to [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos.
+- An information broker with ties to [02_Worldbuilding/People/Vex Shadowthorn]] trades memories for favors.
 
 ## Multiple Resolution Paths (Fail-Forward)
 - Buy the schedule: Secure the Pressure Gate manifests; even on failure, you obtain a partial list that points to a decoy shipment and fresh leads.
@@ -63,8 +59,8 @@ The Divine Trial is a living crossroads where memory-currents and trade flows in
 - Formal petition: Argue precedent at the Quiet Chapel; on a miss, the judge imposes a bond that grants limited passage and a clock to pay it back.
 
 ## Cross-References
-- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Places/The Sunken Library of Thalassius
+- [02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[02_Worldbuilding/People/Vex Shadowthorn]]
 
 ## Player-Facing Summary
@@ -87,26 +83,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 
-
 ## Atmosphere
 - Mood and feeling
 - Sensory details
-
 
 ## Resources
 - Natural resources
 - Trade goods
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

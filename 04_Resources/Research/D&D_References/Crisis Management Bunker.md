@@ -2,7 +2,7 @@
 
 title: Crisis Management Bunker
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,7 +43,6 @@ updated: '2025-08-13T01:18:35.013471+00:00'
 - Someone is blackmailing an heir for money
 - Strange sightings suggest a curse
 - Strange disappearances suggest a conspiracy ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

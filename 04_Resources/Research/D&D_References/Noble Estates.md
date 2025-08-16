@@ -2,7 +2,7 @@
 
 title: Noble Estates
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,7 +43,6 @@ updated: '2025-08-13T01:18:35.034631+00:00'
 - Someone is hunting a witness for power
 - A corpse reveals the truth about this place
 - Someone is protecting a artifact for revenge ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

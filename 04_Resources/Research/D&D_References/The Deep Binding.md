@@ -2,7 +2,7 @@
 
 title: The Deep Binding
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,14 +42,13 @@ updated: '2025-08-13T01:18:35.266050+00:00'
 
 - Someone is searching for an heir for love
 - Strange dreams suggest a conspiracy
-- A shipment has gone missing and war looms ## Related Notes - [[Similar Topic 1]]
+- A shipment has gone missing and war looms ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[The Lock]]
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[The Lock
 
-- [[The Lock (D&D_References)]]
-
+- [The Lock (D&D_References)]]
 
 ## Notes
 

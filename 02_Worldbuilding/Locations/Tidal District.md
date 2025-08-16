@@ -2,7 +2,7 @@
 
 title: Tidal District
 type: Location
-tags:
+tags: 
 - aquabyssos
 - world/aquabyssos
 - content/location
@@ -211,11 +211,9 @@ Ongoing situations affecting Tidal District:
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

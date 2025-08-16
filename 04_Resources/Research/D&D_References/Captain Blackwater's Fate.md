@@ -2,7 +2,7 @@
 
 title: Captain Blackwater's Fate
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -103,12 +103,11 @@ updated: '2025-08-13T01:18:34.486880+00:00'
 - Successful completion strengthens legitimate government authority
 - Failure allows Depth Touched influence to spread unchecked
 - Character actions determine the future balance between law and chaos
-- Resolution affects civilian trust in military and government institutions This quest serves as an excellent introduction to the maritime politics of Aquabyssos while providing opportunities for investigation, combat, and moral decision-making that will resonate throughout a longer campaign. ## Player-Facing Summary Captain Blackwater's Fate is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Captain Blackwater's Fate as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Blackwater's Fate. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Prophecy Connection Mentioned in The Hidden Prophecy of Stars ## Related Notes - [[Similar Topic 1]]
+- Resolution affects civilian trust in military and government institutions This quest serves as an excellent introduction to the maritime politics of Aquabyssos while providing opportunities for investigation, combat, and moral decision-making that will resonate throughout a longer campaign. ## Player-Facing Summary Captain Blackwater's Fate is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Captain Blackwater's Fate as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Blackwater's Fate. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Prophecy Connection Mentioned in The Hidden Prophecy of Stars ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

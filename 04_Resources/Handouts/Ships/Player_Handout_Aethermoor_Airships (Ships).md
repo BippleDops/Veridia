@@ -2,7 +2,7 @@
 
 title: 04_Resources/Handouts/Ships/Player_Handout_Aethermoor_Airships
 type: lore
-tags:
+tags: 
 - lore
 - worldbuilding
 created: '2025-08-14'

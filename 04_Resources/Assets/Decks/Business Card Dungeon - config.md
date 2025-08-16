@@ -1,7 +1,7 @@
 ---
 title: Business Card Dungeon - config
 type: note
-tags:
+tags: 
 - note
 created: '2025-01-15'
 modified: '2025-01-15'

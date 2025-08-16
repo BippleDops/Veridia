@@ -43,7 +43,7 @@ updated: '2025-08-13T01:18:31.186044+00:00'
 - A secret they're hiding
 - How they speak (voice/mannerisms) **Plot Integration:**
 - Connection to Shadowhaven's guild system
-- Relationship to at least 2 existing NPCs: [[Councillor Elara Brightwater]], [[Whisper Jack (Lore)]], [[Master Thorne Blackforge (D&D_References)|Master Thorne Blackforge (D&D References)]], [[Lady Seraphina Goldleaf (D&D_References)|Lady Seraphina Goldleaf (D&D References)]]
+- Relationship to at least 2 existing NPCs: [[Councillor Elara Brightwater, [Whisper Jack (Lore)]], [[Master Thorne Blackforge (D&D_References)|Master Thorne Blackforge (D&D References), [Lady Seraphina Goldleaf (D&D_References)|Lady Seraphina Goldleaf (D&D References)]]
 - A quest hook they could provide
 - Something valuable they know or possess **Background:**
 - Where they live in the city (district)
@@ -143,12 +143,10 @@ updated: '2025-08-13T01:18:31.186044+00:00'
 4. **Generate multiple options** and combine the best elements from different results
 5. **Integrate with existing NPCs** by referencing established relationships and conflicts ## Post-Generation Steps After generating an NPC: 1. **Create the note** using the Template-NPC-Ultra.md template
 
-
 2. **Add relationships** to existing NPCs in their notes
 3. **Update quest connections** if the NPC provides hooks
 4. **Add to location notes** for where they can be encountered
 5. **Consider visual elements** - AI-generated portrait, distinctive items, etc. ### Relationship Web Generation
-
 
 Use multiple prompts to create interconnected NPCs:
 1. Generate a primary NPC with the standard prompt
@@ -156,43 +154,35 @@ Use multiple prompts to create interconnected NPCs:
 3. Generate their enemy or rival with the antagonist prompt
 4. Add a street-level character who knows rumors about all three ### Faction Building
 
-
 Create entire guild hierarchies:
 1. Use the guild leader prompt for the top position
 2. Generate 2-3 lieutets with specific roles
 3. Add street-level characters who work for the guild
 4. Create mysterious figures who infiltrate or oppose the guild --- *Remember: The best AI-generated NPCs are starting points, not finished products. Always customize them to fit your specific campaign needs and player interests.* ## Player-Facing Summary Generate Campaign NPCs is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Generate Campaign NPCs as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Generate Campaign NPCs. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A map reveals the truth about the government
 
-
 - Strange dreams suggest a portal
 - A letter reveals ancient history about the government
 - Someone is hunting an heir for revenge ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 
 *Additional notes*
 
-
 ## Voice & Mannerisms
 - Speaking style
 - Common phrases
-
 
 ## Daily Routine
 - Morning activities
 - Evening habits
 
-
 ## Possessions
 - Personal items
 - Valuable objects
 
-
 ## Combat Tactics
 - Preferred strategies
 - Special moves
-
 
 ## Secrets
 - Hidden knowledge

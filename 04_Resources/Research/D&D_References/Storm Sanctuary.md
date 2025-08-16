@@ -2,7 +2,7 @@
 
 title: Storm Sanctuary
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,7 +42,6 @@ updated: '2025-08-13T01:18:34.948186+00:00'
 - A merchant needs help investigating before winter
 - A merchant needs help stealing before the new moon
 - A prisoner has gone missing and evil awakens ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

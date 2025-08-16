@@ -2,7 +2,7 @@
 
 title: Depth Pressure Rings
 type: Item
-tags:
+tags: 
 - aquabyssos
 - status/complete
 - mechanics/magic

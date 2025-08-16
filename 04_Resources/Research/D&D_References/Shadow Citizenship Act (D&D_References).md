@@ -2,7 +2,7 @@
 
 title: Shadow Citizenship Act (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -102,9 +102,7 @@ The Shadow Citizenship Act is controversial legislation proposing to grant full 
 5. Political intrigue surrounding key legislators' votes
 6. Social unrest requires peacekeeping intervention ## DM Notes
 
-
 The Shadow Citizenship Act provides excellent framework for exploring themes of prejudice, citizenship, and social change. Use it to create moral dilemmas and political adventures while examining real-world issues through fantasy lens. ## Player-Facing Summary Shadow Citizenship Act is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Shadow Citizenship Act as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Citizenship Act. ## Cross-References - [[Shadow Citizenship Act|02 Worldbuilding/People/Shadow Citizenship Act]] iched: true --> ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

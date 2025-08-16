@@ -3,14 +3,14 @@ created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
-tags:
-- [[Lore]]
-title: The [[Royal Palace]]   [[Aquabyssos]]
+tags: 
+- [[Lore
+title: The [Royal Palace]]   [[Aquabyssos
 type: lore
 updated: 2025-08-14
 ---
 
-# [[The Royal Palace]] - Aquabyssos
+# [The Royal Palace]] - Aquabyssos
 
 ## Overview
 This document contains important information regarding The Royal Palace - Aquabyssos and its role within the greater narrative.
@@ -20,12 +20,12 @@ The Royal Palace - Aquabyssos represents a significant element within the campai
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: [[Link]]ed to multiple other elements
+- **Connections**: [[Linked to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-[[Historical Context]] and development over [[Time]].
+[Historical Context]] and development over [[Time.
 
 ### Current State
 Present circumstances and ongoing relevance.
@@ -46,5 +46,5 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 *Customize as needed for your specific campaign requirements.*

@@ -2,7 +2,7 @@
 
 title: Abyssal Flora (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,7 +43,6 @@ updated: '2025-08-13T01:18:35.324108+00:00'
 - A noble needs help investigating before winter
 - A prisoner has gone missing and truth emerges
 - Strange disappearances suggest a conspiracy ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

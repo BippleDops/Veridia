@@ -2,7 +2,7 @@
 created: '2025-08-11'
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -14,14 +14,8 @@ updated: '2025-08-13T12:34:16.548344+00:00'
 world: Aquabyssos
 ---
 
-
-
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-pearl-harbor-city-pearl-harbor-city.svg)
-
-
 
 ## Overview
 
@@ -62,35 +56,29 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pearl Harbor City]]
+- [[02_Worldbuilding/Places/Pearl Harbor City
 
 <!-- enriched: true -->
 
-
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
-
+- [02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

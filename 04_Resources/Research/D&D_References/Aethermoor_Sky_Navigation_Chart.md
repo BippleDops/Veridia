@@ -2,7 +2,7 @@
 
 title: Aethermoor_Sky_Navigation_Chart
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -157,14 +157,12 @@ world: Aethermoor
 5. **Execute Landing**: Follow aircraft-specific procedures
 6. **Post-Landing**: Check for injuries, signal rescue teams ### Lost Navigation Recovery
 
-
 1. **Maintain Current Heading**: Don't make random turns
 2. **Climb for Visibility**: Gain altitude to see landmarks
 3. **Use Backup Navigation**: Magnetic compass, star positions
 4. **Contact Ground**: Request position assistance
 5. **Follow Major Airways**: Head toward known wind currents
 6. **Land if Necessary**: Better to land safely than risk fuel exhaustion --- **Pilot's Creed**: *"Respect the sky, trust your training, and never fly beyond your limits."* **Emergency Contact**: Sky Rescue Service operates 24/7 on emergency frequency 121.5 MHz --- *Issued by the Royal Aethermoor Navigation Authority in cooperation with the Sky Pilots Guild. Chart valid through Storm Season 848.* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Related *Links to related content will be added here.* ## DM Notes *Private notes for campaign integration:*
-
 
 - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
@@ -173,7 +171,6 @@ world: Aethermoor
 
 - The authorities needs help stealing before the festival
 - A document has gone missing and war looms ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

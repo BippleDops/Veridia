@@ -1,12 +1,12 @@
 ---
 
 title: Magnus Fairweigh
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
 - content/lore
-- content/[[location]]
-- world/[[Aethermoor]]
+- content/[location]]
+- world/[[Aethermoor
 - active
 - complete
 - status/in-progress
@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -104,12 +104,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 Mentioned in The Second Prophecy of Winds
 
-## Historical [[Time|[[Time]]line]]
+## Historical [[Time|[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[People]]s
+- War with indigenous [[Peoples
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -135,4 +135,4 @@ Mentioned in The Second Prophecy of Winds
 
 ## References
 
-- [[Port Meridian - Market Square]]
+- [Port Meridian - Market Square]]

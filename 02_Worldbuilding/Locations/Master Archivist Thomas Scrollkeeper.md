@@ -2,7 +2,7 @@
 
 title: Master Archivist Thomas Scrollkeeper
 type: Location
-tags:
+tags: 
 - content/location
 - place
 - world/aethermoor
@@ -217,16 +217,13 @@ Ongoing situations affecting Master Archivist Thomas Scrollkeeper:
 
 - [[Goldwave Ficial Offices]]
 
-
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

@@ -2,7 +2,7 @@
 
 title: Lady Vivienne the Unfrozen
 type: Location
-tags:
+tags: 
 - aquabyssos
 - status/complete
 - mechanics/magic
@@ -101,23 +101,23 @@ improvements: 20
 
 ## Overview
 
-Thornwhisper Manor stands as a haunting monument to desperate love and temporal magic gone wrong. Once the grand estate of [[Lady Vivienne Thornwhisper]], this magnificent underwater mansion exists in a state of temporal suspension, caught between moments when the lady attempted to save her family from the encroaching corruption. Now known as "The Unfrozen Estate," it serves as both a treasure trove of pre-corruption artifacts and a deadly maze of temporal anomalies.
+Thornwhisper Manor stands as a haunting monument to desperate love and temporal magic gone wrong. Once the grand estate of [[Lady Vivienne Thornwhisper, this magnificent underwater mansion exists in a state of temporal suspension, caught between moments when the lady attempted to save her family from the encroaching corruption. Now known as "The Unfrozen Estate," it serves as both a treasure trove of pre-corruption artifacts and a deadly maze of temporal anomalies.
 
 ## Physical Description
 
-The manor is a sprawling complex of interconnected coral towers and kelp gardens, all suspended in shimmering bubbles of frozen time. The architecture represents the height of pre-corruption [[Aquabyssos]] nobility:
+The manor is a sprawling complex of interconnected coral towers and kelp gardens, all suspended in shimmering bubbles of frozen time. The architecture represents the height of pre-corruption [Aquabyssos]] nobility:
 
-### [[Lady Vivienne Thornwhisper]] - "The Unfrozen"
+### [[Lady Vivienne Thornwhisper - "The Unfrozen"
 *Medium humanoid (elf), chaotic neutral*
 **AS** 18 (Natural Armor) **HP** 200 **Speed** 30 ft., swim 30 ft., fly 60 ft.
 **STR** 12 **DEX** 18 **CON** 16 **INT** 22 **WIS** 14 **CHA** 20
 
 A tragic figure who appears as multiple versions of herself from different time periods. Her attempts to master temporal magic to save her family have left her fractured across time.
 
-**Spellcasting**: 18th-level wizard, spell save DC 19, +11 spell attack
+**Spellcasting**: 18th-level wizard, spell save **DC 19**, +11 spell attack
 **Legendary Actions (3 per turn)**:
 - **Time Step**: Teleport to any location she can see
-- **Temporal Wound**: Target ages 1d10 years or becomes younger by 1d10 years
+- **Temporal Wound**: Target ages `dice: 1d10` years or becomes younger by `dice: 1d10` years
 - **Reset**: Undo the last action taken by any creature within 60 feet
 
 **Special Abilities:**
@@ -125,16 +125,16 @@ A tragic figure who appears as multiple versions of herself from different time 
 - **Chrono-Vision**: Can see all possible timelines simultaneously
 - **Unstuck in Time**: Exists in multiple time periods at once
 
-#### [[Lord Aldric Thornwhisper]] (Deceased/Frozen)
+#### [Lord Aldric Thornwhisper]] (Deceased/Frozen)
 The lady's husband, preserved at the moment of his death from corruption. Sometimes speaks prophetic warnings when the temporal fields fluctuate.
 
-#### [[Marcus Thornwhisper]] (Son, Age 12)
+#### [[Marcus Thornwhisper (Son, Age 12)
 Caught in an eternal loop of playing with his toys. Occasionally becomes aware of his situation and begs for release.
 
-#### [[Elena Thornwhisper]] (Daughter, Age 16)  
+#### [Elena Thornwhisper]] (Daughter, Age 16)  
 Frozen while reading a book of poetry. Her tears of crystal that fall continuously have magical properties.
 
-#### [[Jeeves]] (Butler)
+#### [[Jeeves (Butler)
 An elderly human who maintains the manor despite being temporally displaced. Exists in multiple time periods simultaneously and remembers everything.
 
 ### Temporal Echoes
@@ -155,8 +155,8 @@ The manor is riddled with dangerous time effects:
 
 ### The Unsealed Corruption
 In areas where temporal protection has failed:
-- **Shadow Tendrils**: 1d6 necrotic damage to creatures entering affected areas
-- **Corruption Whispers**: DC 16 Wisdom save or be charmed by shadowy voices
+- **Shadow Tendrils**: `dice: 1d6` necrotic damage to creatures entering affected areas
+- **Corruption Whispers**: **DC 16** Wisdom save or be charmed by shadowy voices
 - **Temporal Rot**: Equipment ages and degrades rapidly (10% chance per hour of losing 1 point of AS or weapon damage)
 
 ### Lady Vivienne's Study
@@ -168,7 +168,7 @@ Hidden behind multiple temporal locks:
 
 ### The Family Vault
 Beneath the manor, protected by ancient wards:
-- **Pre-Corruption Artifacts**: Items from [[Aquabyssos]]' golden age worth 5,000 gp
+- **Pre-Corruption Artifacts**: Items from [Aquabyssos]]' golden age worth 5,000 gp
 - **Thornwhisper Heirlooms**: Noble regalia with protective enchantments
 - **Emergency Reserves**: 2,000 platinum pieces, potions of longevity (x3)
 - **Secret Documents**: Evidence of the corruption's true origin
@@ -176,7 +176,7 @@ Beneath the manor, protected by ancient wards:
 ### The Frozen Garden
 Rare plants suspended in time:
 - **Eternal Roses**: Never wilt, grant temporary immunity to aging effects
-- **Time Lilies**: Seeds that grow into the past when planted (1d4 appear in previous locations visited)
+- **Time Lilies**: Seeds that grow into the past when planted (`dice: 1d4` appear in previous locations visited)
 - **Crystal Fruit**: Eating one allows the consumer to see 10 minutes into the future
 - **Memory Moss**: Absorbs and replays conversations that occurred nearby
 
@@ -214,7 +214,7 @@ Throughout the manor:
 18. **Secret Passages**: Network of tunnels with varying time flows
 
 ### The Temporal Cure
-[[Lady Vivienne Thornwhisper]] believes she can reverse the corruption using temporal magic, but needs the party to retrieve the [[Heart of Chronos]] from the [[Time Gardens of Aethermoor]]. She offers temporal magic knowledge in exchange.
+[[Lady Vivienne Thornwhisper believes she can reverse the corruption using temporal magic, but needs the party to retrieve the [Heart of Chronos]] from the [[Time Gardens of Aethermoor. She offers temporal magic knowledge in exchange.
 **Reward**: Unique temporal spells + Temporal Anchor staff
 
 ### The Family's Release
@@ -222,11 +222,11 @@ The lady's family begs for freedom from their temporal prison, but releasing the
 **Reward**: 1,500 gp + grateful noble family's influence
 
 ### The Corruption's Origin
-Documents in the manor suggest the corruption began with a specific ritual performed by [[The Corrupted Admiralty]]. Lady Vivienne needs the party to investigate and potentially travel back in time to prevent it.
+Documents in the manor suggest the corruption began with a specific ritual performed by [The Corrupted Admiralty]]. Lady Vivienne needs the party to investigate and potentially travel back in time to prevent it.
 **Reward**: 2,000 gp + ability to alter one past event
 
 ### The Temporal Artifact
-A powerful artifact called the [[Crown of Endless Moments]] is hidden somewhere in the manor's temporal maze. Multiple factions seek it for different purposes. The party must navigate the hazards and compete with other treasure hunters.
+A powerful artifact called the [[Crown of Endless Moments is hidden somewhere in the manor's temporal maze. Multiple factions seek it for different purposes. The party must navigate the hazards and compete with other treasure hunters.
 **Reward**: Major magical artifact + elimination of rival faction
 
 ### The Memory Thief
@@ -362,21 +362,18 @@ Ongoing situations affecting Lady Vivienne the Unfrozen:
 
 ## References
 
-- [[Inverted Ballroom Wing]]
-- [[Old Valdris]]
-- [[Inverted Ballroom Wing (D&D_References)]]
+- [Inverted Ballroom Wing]]
+- [[Old Valdris
+- [Inverted Ballroom Wing (D&D_References)]]
 - [[Old Valdris (D&D_References)]]
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

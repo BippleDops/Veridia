@@ -2,7 +2,7 @@
 
 title: The Trade Quarter
 type: Location
-tags:
+tags: 
 - aquabyssos
 - world/aquabyssos
 - content/location
@@ -251,19 +251,16 @@ Key stop on textiles trade route
 
 ## References
 
-- [[Smuggler (D&D_Statblocks)]]
-- [[Traveling Merchant Finn (D&D_Statblocks)]]
-
+- [[Smuggler (D&D_Statblocks)
+- [Traveling Merchant Finn (D&D_Statblocks)]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

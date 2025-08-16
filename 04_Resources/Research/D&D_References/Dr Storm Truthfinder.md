@@ -2,7 +2,7 @@
 
 title: Dr Storm Truthfinder
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -48,12 +48,11 @@ world: Aquabyssos
 
 - A prisoner has gone missing and evil awakens
 - An heirloom has gone missing and war looms
-- Someone is blackmailing a witness for power ## Related Notes - [[Similar Topic 1]]
+- Someone is blackmailing a witness for power ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

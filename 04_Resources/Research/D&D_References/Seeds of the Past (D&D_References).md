@@ -2,7 +2,7 @@
 
 title: Seeds of the Past (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -47,12 +47,11 @@ Seeds of the Past is a living crossroads where memory-currents and trade flows i
 
 - Strange accidents suggest a conspiracy
 - Someone is blackmailing information for money
-- Strange sightings suggest a curse ## Related Notes - [[Similar Topic 1]]
+- Strange sightings suggest a curse ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

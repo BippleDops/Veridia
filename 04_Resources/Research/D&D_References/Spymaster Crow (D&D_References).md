@@ -2,7 +2,7 @@
 
 title: Spymaster Crow (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -51,7 +51,6 @@ updated: '2025-08-12T00:00:00+00:00'
 danger_level: Moderate
 
 --- > [!figure] View # The Crow's Perch - Spymaster's Sanctum *A hidden network of safe houses, information brokers, and covert meeting places controlled by the enigmatic Spymaster known only as "Crow"* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The Crow's Perch isn't a single location but rather an interconnected web of safe houses, hidden chambers, and secret meeting spots throughout Aquabyssos. Named after its mysterious leader, this intelligence network serves as neutral ground for information brokers, double agents, and those who trade in secrets. Despite its shadowy nature, the Crow's Perch maintains a reputation for reliability and discretion that spans both the depths of Aquabyssos and extends to contacts on the surface. ### The Central Rookery
-
 
 **Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview The Crow's Perch isn't a single location but rather an interconnected web of safe houses, hidden chambers, and secret meeting spots throughout Aquabyssos. Named after its mysterious leader, this intelligence network serves as neutral ground for information brokers, double agents, and those who trade in secrets. Despite its shadowy nature, the Crow's Perch maintains a reputation for reliability and discretion that spans both the depths of Aquabyssos and extends to contacts on the surface. ### The Central Rookery - Key information at a glance.
 
@@ -136,7 +135,6 @@ The Crow's Perch trades in various types of intelligence:
 4. **Self-Preservation**: The network's survival takes priority over any single operation
 5. **No Innocents**: Operations never target children or the genuinely helpless ### Punishment for Betrayal
 
-
 Those who betray the network face:
 - Complete exposure of all personal secrets
 - Blacklisting from all legitimate business in Aquabyssos
@@ -181,7 +179,7 @@ The network operates on a favor-based economy:
 - **Major Favors**: Significant intelligence or dangerous missions
 - **Life Debts**: Saving network members or providing crucial services ### Security Measures
 
-**Coded Communications**: All messages use rotating ciphers (DC 20 Intelligence check to decode without keys)
+**Coded Communications**: All messages use rotating ciphers (**DC 20** Intelligence check to decode without keys)
 **Counter-Surveillance**: Network locations have magical and mundane early warning systems
 **Loyalty Tests**: Regular missions designed to test member commitment and identify potential traitors ### Hazards
 
@@ -213,7 +211,6 @@ The network's relationship with the party can evolve:
 5. **Partners**: Deep integration with network goals and operations
 6. **Leadership**: Party members could eventually join or lead the organization ## Connections to the Wider World The Crow's network connects to numerous other locations and organizations:
 
-
 - **Parliament of Echoes**: Unofficial intelligence arm
 - **Foreign Nations**: Deep-cover assets in multiple governments
 - **Merchant Guilds**: Commercial intelligence partnerships
@@ -222,7 +219,6 @@ The network's relationship with the party can evolve:
 - **The Seven Shards**: Possesses crucial intelligence about shard locations and effects *The Crow's Perch represents the shadowy underbelly of diplomacy and politics in Aquabyssos. In a world where information can be more valuable than gold and secrets can topple governments, the network serves as both a vital service and a constant reminder that someone is always watching from the shadows.* ## Player-Facing Summary Spymaster Crow is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Spymaster Crow as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Spymaster Crow. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Strange disappearances suggest a portal
 
 - Someone is searching for a artifact for power ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

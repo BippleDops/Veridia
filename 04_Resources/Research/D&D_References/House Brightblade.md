@@ -2,7 +2,7 @@
 
 title: House Brightblade
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -44,7 +44,6 @@ updated: '2025-08-13T01:18:34.752209+00:00'
 
 - Strange disappearances suggest a curse
 - Someone is protecting an heir for power ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

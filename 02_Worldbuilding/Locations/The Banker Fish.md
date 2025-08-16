@@ -2,7 +2,7 @@
 
 title: The Banker Fish
 type: Location
-tags:
+tags: 
 - aquabyssos
 - maritime-banking
 - status/complete
@@ -529,19 +529,16 @@ Key stop on spices trade route
 
 ## References
 
-- [[Pearl_Harbor_City (Places)]]
-- [[Pearl_Harbor_City (D&D_References)]]
-
+- [[Pearl_Harbor_City (Places)
+- [Pearl_Harbor_City (D&D_References)]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

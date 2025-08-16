@@ -2,7 +2,7 @@
 
 title: Depth Crystal Harvest
 type: Location
-tags:
+tags: 
 - aquabyssos
 - status/complete
 - content/location
@@ -259,11 +259,9 @@ Depth Crystal Harvest is a notable location characterized by its unique features
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

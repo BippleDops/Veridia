@@ -2,7 +2,7 @@
 
 title: Inverse Palace (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -45,12 +45,11 @@ danger_level: Moderate
 
 - A prisoner has gone missing and war looms
 - Strange disappearances suggest a conspiracy
-- A document has gone missing and chaos spreads ## Related Notes - [[Similar Topic 1]]
+- A document has gone missing and chaos spreads ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

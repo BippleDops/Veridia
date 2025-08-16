@@ -1,8 +1,8 @@
 ---
-accessibility:
+accessibility: 
   content_warnings: []
   pronunciation: The Seahawk
-  safety_tools:
+  safety_tools: 
   - Lines & Veils
   - X-Card
   screen_reader_summary: This lore entry explains a pivotal principle or event and
@@ -10,7 +10,7 @@ accessibility:
 created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
-tags:
+tags: 
 - aethermoor
 - complete
 - content/lore
@@ -22,14 +22,9 @@ updated: '2025-08-13T12:34:16.323633+00:00'
 world: Aethermoor
 ---
 
-
-
-
-
-
 # The Seahawk
 
-![[04_Resources/Assets/Art/Lore/The_Seahawk.png|The Seahawk Portrait]]
+![[04_Resources/Assets/Art/Lore/The_Seahawk.png|The Seahawk Portrait
 
 ## Summary
 The Seahawk describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.
@@ -45,14 +40,14 @@ The Seahawk describes a turning current in history where choices about memory, d
 - Exploration: Recognizing encoded waystones reduces the chance of getting lost by one step.
 
 ## Threads and Revelations
-- Records implicate agents tied to [[02_Worldbuilding/Lore/The Lighthouse of Storms]].
-- A rite echoes the activation cadence needed for [[02_Worldbuilding/Quests/The Whispering Expanse]].
-- Testimony suggests [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]] financed a pivotal bribe.
+- Records implicate agents tied to [02_Worldbuilding/Lore/The Lighthouse of Storms]].
+- A rite echoes the activation cadence needed for [[02_Worldbuilding/Quests/The Whispering Expanse.
+- Testimony suggests [02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]] financed a pivotal bribe.
 
 ## Cross-References
-- [[02_Worldbuilding/Lore/The Lighthouse of Storms]]
-- [[02_Worldbuilding/Quests/The Whispering Expanse]]
-- [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]]
+- [[02_Worldbuilding/Lore/The Lighthouse of Storms
+- [02_Worldbuilding/Quests/The Whispering Expanse]]
+- [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver
 
 ## Player-Facing Summary
 
@@ -74,8 +69,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 
-
 ## Connections
 
-- [[1-Session Journals/Aethermoor - Session 01 Blood in the Harbor]]
+- [1-Session Journals/Aethermoor - Session 01 Blood in the Harbor]]
 - [[1-Session Journals/Aethermoor - Session 02 The Lighthouse of Storms]]

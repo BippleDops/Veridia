@@ -2,7 +2,7 @@
 
 title: Shadow Market Canals (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -72,7 +72,7 @@ Subtle symbols carved into tunnel walls indicate:
 - Authority patrols (skull symbol)
 - Meeting points (interlocked circles) **The Flow Charts**
 
-[[Canal Master Typhoon Currentwise]] maintains detailed maps showing:
+[[Canal Master Typhoon Currentwise maintains detailed maps showing:
 - Tidal schedules affecting water levels
 - Patrol routes and timing
 - Safe houses and storage points
@@ -95,7 +95,6 @@ All newcomers must be sponsored by established canal users:
 - **Token System**: Physical items proving membership in specific organizations
 - **Reputation Tracking**: Ongoing assessment of trustworthiness and value ### Multi-Layer Security **Layer 1: The Watchers**
 
-
 **Summary**: Multi-Layer Security **Layer 1: The Watchers** - Key information at a glance.
 
 - **Current Scouts**: Children who monitor entrances and exits
@@ -110,11 +109,10 @@ All newcomers must be sponsored by established canal users:
 - **Alarm** spells triggered by unauthorized access attempts
 - **Illusion** magic hiding the most sensitive areas
 - **Water Walking** prevention fields forcing underwater approach **Layer 4: Enforcement Response**
-- **[[The Current Riders]]**: Fast response team on specialized watercraft
-- **[[Depth Enforcers]]**: Armed guards trained in underwater combat
-- **[[The Tide Turners]]**: Elite operatives capable of controlling water flow
-- **[[Emergency Response Protocol]]**: Complete canal lockdown procedures ### Primary Markets **The Contraband Current**
-
+- **[The Current Riders]]**: Fast response team on specialized watercraft
+- **[[Depth Enforcers**: Armed guards trained in underwater combat
+- **[The Tide Turners]]**: Elite operatives capable of controlling water flow
+- **[[Emergency Response Protocol**: Complete canal lockdown procedures ### Primary Markets **The Contraband Current**
 
 **Summary**: Primary Markets **The Contraband Current** - Key information at a glance.
 
@@ -163,9 +161,9 @@ Rapid transport system using trained water creatures:
 *Medium humanoid (triton), chaotic neutral* **Role**: De facto ruler of the canal system
 **Background**: Former city engineer who helped design the original drainage system
 **Motivation**: Maintaining profitable operations while avoiding official attention
-**Key Relationships**: - Secret arrangement with [[The Shadow Markets]] for territory division
-- Information sharing agreement with [[Deepmind Conspiracy]]
-- Protection contract with [[Syndicate Enforcers]] **Abilities**: - **Master Navigator**: Knows every passage and shortcut in the system
+**Key Relationships**: - Secret arrangement with [The Shadow Markets]] for territory division
+- Information sharing agreement with [[Deepmind Conspiracy
+- Protection contract with [Syndicate Enforcers]] **Abilities**: - **Master Navigator**: Knows every passage and shortcut in the system
 - **Current Control**: Can manipulate water flow using engineering knowledge
 - **Network Coordinator**: Maintains communication with all major criminal organizations
 - **Escape Artist**: Has never been successfully captured by authorities **Statistics**: Use **Spy** stats with additional swimming speed of 40 feet and ability to hold breath for 1 hour ### Madame Ripple the Fence
@@ -173,7 +171,7 @@ Rapid transport system using trained water creatures:
 *Medium humanoid (half-elf), neutral evil* **Role**: Primary dealer in stolen goods and contraband
 **Operations**: Manages three floating warehouses with rotating inventory
 **Specialization**: High-value items that require discrete disposal
-**Security**: Employs **2d4+2 Thugs** and **1d3 Spies** for protection **Services**:
+**Security**: Employs **`dice: 2d4`+2 Thugs** and **`dice: 1d3` Spies** for protection **Services**:
 - Evaluates stolen goods (expertise in art, jewelry, magical items)
 - Provides authentication and historical documentation
 - Arranges buyers for specific items
@@ -193,7 +191,7 @@ Rapid transport system using trained water creatures:
 *Medium humanoid (human), lawful evil* **Role**: Head of canal security and enforcement
 **Background**: Former city guard captain who became disillusioned with corruption
 **Philosophy**: Crime should be organized and professional, not chaotic
-**Command**: Leads **3d4+4 Guards** and **1d4+1 Veterans** in security operations **Security Operations**:
+**Command**: Leads **`dice: 3d4`+4 Guards** and **`dice: 1d4`+1 Veterans** in security operations **Security Operations**:
 - **Patrol Coordination**: Manages regular security sweeps
 - **Conflict Resolution**: Mediates disputes between criminal organizations
 - **Emergency Response**: Coordinates reaction to authority raids
@@ -213,80 +211,80 @@ Negotiates with legitimate businesses and maintains cover operations ### The Flo
 **Specialty**: High-speed transportation and courier services
 **Territory**: The fastest current channels and main thoroughfares
 **Membership**: 30-40 individuals, mostly young and agile swimmers
-**Leadership**: [[Speed-Current Jet]], a reformed street racing champion
+**Leadership**: [[Speed-Current Jet, a reformed street racing champion
 **Services**: Message delivery, package transport, emergency evacuation ### The Depth Dealers
 
 **Specialty**: Rare and dangerous magical items
 **Territory**: The deepest storage areas and most secure channels
 **Membership**: 15-20 experienced magic users and treasure hunters
-**Leadership**: [[Arcane-Depth Void]], mysterious figure who may not be entirely human
+**Leadership**: [Arcane-Depth Void]], mysterious figure who may not be entirely human
 **Inventory**: Cursed items, unstable magical devices, extraplanar artifacts ### The Silent Current
 
 **Specialty**: Assassination, kidnapping, and violence for hire
 **Territory**: The maze sections and emergency escape routes
 **Membership**: 8-12 elite operatives with unknown true identities
-**Leadership**: [[The Deep Silence]], who communicates only through written messages
+**Leadership**: [[The Deep Silence, who communicates only through written messages
 **Methods**: Drowning accidents, poisoned water supplies, underwater ambushes ### The Memory Tide
 
 **Specialty**: Extraction, storage, and trading of memories
 **Territory**: Specialized chambers with mystical properties
 **Membership**: 20-25 individuals with psychic abilities
-**Leadership**: [[Mind-Current Remembrance]], former temple priest turned rogue
-**Operations**: Memory theft, experience trading, selective amnesia services ### Direct Physical Connections **[[The Shadow Markets]]**
+**Leadership**: [Mind-Current Remembrance]], former temple priest turned rogue
+**Operations**: Memory theft, experience trading, selective amnesia services ### Direct Physical Connections **[[The Shadow Markets**
 
 Secret tunnels connect to the main criminal trading center:
 - Shared security protocols and mutual defense agreements
 - Regular transfer of goods between locations
 - Joint operations for major criminal enterprises
-- Emergency evacuation routes between facilities **[[Vote Vaults]]**
+- Emergency evacuation routes between facilities **[Vote Vaults]]**
 
 Hidden passages allow discrete transport of political information:
 - Protected courier routes for sensitive documents
 - Secure meeting locations for political conspirators
 - Money laundering operations for political ficing
-- Blackmail material storage and transport **[[Secret Vault Beneath Throne]]**
+- Blackmail material storage and transport **[[Secret Vault Beneath Throne**
 
 Unofficial connection through royal intelligence networks:
 - Crown agents use canals for covert operations
 - Royal intelligence gathering from criminal sources
 - Discrete disposal of politically sensitive items
-- Emergency communication channels during crises **[[theater]]**
+- Emergency communication channels during crises **[theater]]**
 
 Underwater passages for transporting medical contraband:
 - Illegal organ trade and body modification services
 - Transport of dangerous medical experiments
 - Disposal of medical waste and failed procedures
-- Emergency medical services for injured criminals ### Intelligence Networks **[[Deepmind Conspiracy]]**
+- Emergency medical services for injured criminals ### Intelligence Networks **[[Deepmind Conspiracy**
 
 Shared information resources and coordinated intelligence:
 - Exchange of political and criminal intelligence
 - Joint surveillance operations on common threats
 - Mutual warning systems for authority raids
-- Coordinated misinformation campaigns **[[The Silent Watcher]]**
+- Coordinated misinformation campaigns **[The Silent Watcher]]**
 
 Surveillance cooperation and territory monitoring:
 - Shared observation posts and warning systems
 - Coordinated tracking of authority movements
 - Joint intelligence analysis and threat assessment
-- Emergency communication during security breaches **[[Whisper Translation]]**
+- Emergency communication during security breaches **[[Whisper Translation**
 
 Communication services and coded message delivery:
 - Encrypted communication between criminal organizations
 - Translation services for international criminal contacts
 - Code development and cryptographic security
-- Message authentication and verification services ### Criminal Alliances **[[Syndicate Enforcers]]**
+- Message authentication and verification services ### Criminal Alliances **[Syndicate Enforcers]]**
 
 Mutual protection and enforcement cooperation:
 - Shared security personnel during major operations
 - Joint response to external threats
 - Territory respect agreements and boundary maintece
-- Coordinated pricing and service standards **[[Memory Thief]]**
+- Coordinated pricing and service standards **[[Memory Thief**
 
 Memory trading and information extraction services:
 - Shared facilities for memory processing and storage
 - Joint operations for acquiring valuable memories
 - Information verification through memory extraction
-- Protection of memory-based intelligence networks **[[Hidden Smuggler's Cove]]**
+- Protection of memory-based intelligence networks **[Hidden Smuggler's Cove]]**
 
 Goods transfer and transportation coordination:
 - Transporting maritime smuggling goods to underground markets
@@ -379,7 +377,6 @@ Criminal organizations in the canal system launch a bid to take control of Aquab
 18. **Cultural Event**: Criminal organizations celebrate traditional occasion
 19. **Emergency Evacuation**: External threat forces temporary canal closure
 20. **Unexpected Alliance**: Traditional enemies cooperate for mutual benefit ### The Trading Current - Central Market Area **Depth**: 8-12 feet, allowing both swimming and boat navigation
-
 
 **Current**: Gentle flow of 2-3 mph, suitable for stable platforms
 **Width**: 30-50 feet with side channels and alcoves

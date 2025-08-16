@@ -1,8 +1,8 @@
 ---
 
 title: Consequence Chain 2   Crystal Trade Disruption
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - ficial-corruption
 - lore
 - session-notes
@@ -13,7 +13,7 @@ tags:
 - complete
 - campaign-consequences
 - crystal-trade
-- [[Aethermoor]]
+- [Aethermoor]]
 - shadow-touched
 - crystal-enhanced
 - conspiracy
@@ -25,7 +25,7 @@ world: Aethermoor
 updated: '2025-08-13T01:18:34.737572+00:00'
 magnitude: 4
 visibility: 4
-primary_sessions:
+primary_sessions: 
 - 'Session 04: The Silverscale Gambit'
 evaluated: '2025-08-14'
 improvements: 20
@@ -33,7 +33,7 @@ improvements: 20
 
 # Consequence Chain 2: Crystal Trade Disruption
 
-*[[The Silverscale Consortium]]'s Economic Empire Exposed*
+*[[The Silverscale Consortium's Economic Empire Exposed*
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -49,7 +49,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
+- Detail currency, [trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 
@@ -90,19 +90,19 @@ improvements: 20
 ## Initial Action
 
 **What the players did:**
-- Witnessed and investigated the Silverscale flagship 'Golden Promise' explosion in [[Port Meridian]] harbor
-- Raided the [[Silverscale Banking House]] emergency vault during Crimson Hand operation
+- Witnessed and investigated the Silverscale flagship 'Golden Promise' explosion in [[Port Meridian harbor
+- Raided the [Silverscale Banking House]] emergency vault during Crimson Hand operation
 - Recovered critical documents exposing cross-realm excavation operations
-- Confronted [[Director Hadrian Silverscale]] and chose to expose rather than accept bribes
-- Defeated [[Vex Shadowthorn]] and discovered connection to [[Aquabyssos]] entities
+- Confronted [[Director Hadrian Silverscale and chose to expose rather than accept bribes
+- Defeated [Vex Shadowthorn]] and discovered connection to [[Aquabyssos entities
 - Revealed Silverscale's illegal excavation of Aquabyssos ruins for profit
 
 **Who was directly affected:**
-- **[[Silverscale Consortium]]**: Core operations exposed, leadership under investigation
-- **[[Director Hadrian Silverscale]]**: Public reputation destroyed, criminal charges pending
-- **[[Coral|Marina-Red-Tide-[[Coral]]heart]]**: Identity as [[Depth Guard]] revealed, becomes key witness
-- **[[Queen Seraphina]] [[Lumengarde]]]]**: Authority challenged by corporate overreach
-- **[[Vex Shadowthorn]]**: Operations disrupted, forced underground
+- **[Silverscale Consortium]]**: Core operations exposed, leadership under investigation
+- **[[Director Hadrian Silverscale**: Public reputation destroyed, criminal charges pending
+- **[[Coral|Marina-Red-Tide-[Coral]]heart]]**: Identity as [[Depth Guard revealed, becomes key witness
+- **[Queen Seraphina]] [[Lumengarde]]**: Authority challenged by corporate overreach
+- **[[Vex Shadowthorn**: Operations disrupted, forced underground
 - **Nobles with Silverscale debts**: Ficial leverage exposed, political autonomy threatened
 
 **Immediate visible results:**
@@ -127,13 +127,13 @@ improvements: 20
 - **Emergency Corporate Regulation Act** passed within two weeks
 - **Royal Asset Seizure Decree** allowed Crown to freeze Consortium holdings
 - **Parliamentary Investigation Committee** formed with expanded powers
-- **[[Queen Seraphina Lumengarde]]** gained popular support for anti-corruption stance
+- **[Queen Seraphina Lumengarde]]** gained popular support for anti-corruption stance
 - **Noble debt restructuring**: Crown mediated debt forgiveness for cooperation
 - **Diplomatic crisis**: Aquabyssos demanded reparations for grave robbery
 
 **Social changes:**
 - **Anti-corporate sentiment** reached historic highs among common citizens
-- **Worker [[Organization]]**: Former Consortium employees formed solidarity unions
+- **Worker [[Organization**: Former Consortium employees formed solidarity unions
 - **Public demonstrations**: Daily protests demanding corporate accountability
 - **Media attention**: Independent chroniclers gained influence over guild-controlled news
 - **Wealth inequality awareness**: Public discourse shifted toward economic justice
@@ -141,20 +141,20 @@ improvements: 20
 
 **Military responses:**
 - **Corporate Security Disbanded**: Silverscale private forces nationalized or arrested
-- **[[Harbor Patrol]] Increased**: Prevention of [[Evidence]] destruction and asset smuggling
+- **[Harbor Patrol]] Increased**: Prevention of [[Evidence destruction and asset smuggling
 - **Border Controls Enhanced**: Stopped Consortium leadership from fleeing kingdom
-- **[[Royal Guard]] Protection**: Queen received increased security due to corporate threats
+- **[Royal Guard]] Protection**: Queen received increased security due to corporate threats
 - **Trade Route Militarization**: Crown forces replaced private security on major routes
 
 ## Secondary Ripples (Weeks/Months)
 
 **Faction realignments:**
-- **[[The Crown]]** authority strengthened through popular anti-corporate campaign
-- **Independent [[Merchant]] Guilds** formed alliance to fill Silverscale's market position
-- **[[The Crimson Sage]]** influence increased as "honest advisor" vs corporate corruption
-- **[[Noble Houses]]** split between Consortium loyalists and Crown supporters
-- **[[Workers' Liberation Movement]]** emerged from ex-Consortium employee organizing
-- **[[Depth Guard|[[02 Worldbuilding]]/Lore/Depth Guard]]** officially recognized as diplomatic liaison with Aquabyssos
+- **[[The Crown** authority strengthened through popular anti-corporate campaign
+- **Independent [Merchant]] Guilds** formed alliance to fill Silverscale's market position
+- **[[The Crimson Sage** influence increased as "honest advisor" vs corporate corruption
+- **[Noble Houses]]** split between Consortium loyalists and Crown supporters
+- **[[Workers' Liberation Movement** emerged from ex-Consortium employee organizing
+- **[[Depth Guard|[02 Worldbuilding]]/Lore/Depth Guard]]** officially recognized as diplomatic liaison with Aquabyssos
 
 **Trade route changes:**
 - **Alternative supply networks**: Small merchants collectively replaced Consortium capacity
@@ -174,18 +174,18 @@ improvements: 20
 
 **Power vacuum effects:**
 - **Regional governors** gained economic autonomy as central Consortium control ended
-- **[[The Shadow Duchess Duel (Criminal_Organizations)]]** expanded operations into abandoned Consortium territories
-- **Religious orders** increased influence by providing ethical [[Guidance]] for commerce
+- **[[The Shadow Duchess Duel (Criminal_Organizations)** expanded operations into abandoned Consortium territories
+- **Religious orders** increased influence by providing ethical [Guidance]] for commerce
 - **Foreign powers** attempted to establish economic footholds in destabilized markets
 - **Technological innovation** accelerated as Consortium's research monopoly ended
 
 ## Long-term Consequences (Months/Years)
 
 **Permanent world changes:**
-- **[[Economic_Systems (D&D_References)]] restructure**: Cooperative and guild-based commerce replaced corporate domice
+- **[[Economic_Systems (D&D_References) restructure**: Cooperative and guild-based commerce replaced corporate domice
 - **Legal framework evolution**: Corporate law extensively reformed to prevent future abuse
 - **Technological democratization**: Crystal research became public domain rather than proprietary
-- **Educational institution founding**: [[Royal Academy of Ethical Commerce]] established
+- **Educational institution founding**: [Royal Academy of Ethical Commerce]] established
 - **Infrastructure ownership**: Major trade routes and storage facilities nationalized
 - **International law development**: Cross-realm exploitation treaties established
 
@@ -225,20 +225,20 @@ improvements: 20
 
 1. How many other "Silverscale-type" conspiracies exist in other realms?
 2. What long-term effects will economic democratization have on innovation?
-3. Can cooperative economic models scale to handle complex [[International Trade]]?
+3. Can cooperative economic models scale to handle complex [[International Trade?
 4. Will former Consortium leadership attempt restoration from exile?
 5. How will other corporate entities adapt to the new regulatory environment?
 
 ---
 
 *"The day the Golden Promise exploded wasn't just a ship burning—it was the old way of doing business going up in flames. What we built from those ashes proved that honest work pays better than honest theft."*
-— [[Master Shipwright Helena Trueforge]], Leader of the Port Meridian Cooperative
+— [Master Shipwright Helena Trueforge]], Leader of the Port Meridian Cooperative
 
 ## Overview
 
 Consequence Chain 2 - Crystal Trade Disruption represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
 
-## [[Historical Context]]
+## [[Historical Context
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -246,7 +246,7 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-## [[DM_Notes]]
+## [DM_Notes]]
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -254,12 +254,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-## Historical [[Timeline]]
+## Historical [[Timeline
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[People]]s
+- War with indigenous [People]]s
 
 ### The Golden Era (500 years ago)
 - Economic prosperity

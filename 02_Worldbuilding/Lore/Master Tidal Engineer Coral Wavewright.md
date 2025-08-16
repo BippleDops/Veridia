@@ -1,10 +1,10 @@
 ---
 
-title: Master Tidal Engineer [[Coral]] Wavewright
-type: [[Lore]]
-tags:
+title: Master Tidal Engineer [[Coral Wavewright
+type: [Lore]]
+tags: 
 - lore
-- [[Aquabyssos]]
+- [[Aquabyssos
 - world/aquabyssos
 - content/lore
 - active
@@ -35,7 +35,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -85,7 +85,7 @@ Master Tidal Engineer Coral Wavewright is a undersea element of the setting, kno
 
 Legends speak of Master Tidal Engineer Coral Wavewright as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Master Tidal Engineer Coral Wavewright.
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -129,4 +129,4 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Tidal Chambers (D&D_References)]]
+- [Tidal Chambers (D&D_References)]]

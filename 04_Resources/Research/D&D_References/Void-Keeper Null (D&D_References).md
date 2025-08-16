@@ -2,7 +2,7 @@
 
 title: Void-Keeper Null (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,7 +42,6 @@ danger_level: Moderate
 - A map reveals a conspiracy about the government
 - Strange disappearances suggest a curse
 - A merchant needs help finding before winter ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

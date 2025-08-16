@@ -1,7 +1,7 @@
 ---
 created: '2025-08-12'
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - compromise
@@ -16,8 +16,6 @@ type: Lore
 updated: '2025-08-13T12:34:15.964380+00:00'
 world: Aquabyssos
 ---
-
-
 
 # Political Compromise Costs
 
@@ -405,8 +403,8 @@ Short-term survival requires decisions that may damage long-term governance. Pre
 - Ethical Dilemmas In Shadow Times
 - Medical Ethics In Plague Crisis
 - Economic Justice Debates
-- [[02_Worldbuilding/Lore/Military Moral Quandaries]]
-- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Shadows]]
+- [[02_Worldbuilding/Lore/Military Moral Quandaries
+- [02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Shadows]]
 - [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
 - Shadow Corruption Timeline
 

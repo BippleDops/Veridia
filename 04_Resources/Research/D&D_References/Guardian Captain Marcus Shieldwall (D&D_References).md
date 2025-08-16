@@ -2,7 +2,7 @@
 
 title: Guardian Captain Marcus Shieldwall (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,7 +42,6 @@ updated: '2025-08-13T01:18:37.083630+00:00'
 - A letter reveals the truth about the cult
 - Someone is searching for an heir for power
 - A stranger needs help stealing before winter ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

@@ -40,8 +40,8 @@ Possible developments and plot opportunities.
 ## Relationships
 
 ### Direct Connections
-- [[Assets Locations Location City Keeper Valdris Goldvault V1 Keeper Valdris Goldvault.svg]]
-- [[Assets Locations Location City St Meridian S Cathedral V1 St Meridian S Cathedral.svg]]
+- [[Assets Locations Location City Keeper Valdris Goldvault V1 Keeper Valdris Goldvault.svg
+- [Assets Locations Location City St Meridian S Cathedral V1 St Meridian S Cathedral.svg]]
 
 ### Indirect Influences
 - Broader campaign themes
@@ -84,21 +84,17 @@ Possible developments and plot opportunities.
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

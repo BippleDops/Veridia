@@ -9,7 +9,6 @@ aliases: ["Master Location Index"]
 
 > *Where shadows whisper forgotten secrets...* This remarkable element adds depth and intrigue to any campaign.
 
-
 ## Overview
 
 Comprehensive overview of this content.
@@ -41,7 +40,6 @@ publish: false
 
 - *[Mysterious void areas]* ## By Type
 
-
 ### Cities & Settlements {#cities-&-settlements}
 
 - *[Major population centers]* ### Dungeons & Ruins
@@ -51,7 +49,6 @@ publish: false
 - *[Geographic landmarks]* ### Faction Strongholds
 
 - *[Organization bases]* ## Adventure Sites
-
 
 ### Low Level (1-5) {#low-level-(1-5)}
 
@@ -77,7 +74,6 @@ publish: false
 
 > Work together and communicate ## Description *To be added* ## Notable Features *To be added* ## NPCs *To be added* ## Current Events *To be added* ## History *To be added* ## Plot Hooks *To be added*
 
-
 ## Notes {#notes}
 
 *Additional notes*
@@ -91,30 +87,21 @@ publish: false
 #gameplay/adventure
 #meta/index
 
-
 ## Atmosphere {#atmosphere}
 - Mood and feeling
 - Sensory details
-
-
 
 ## Resources {#resources}
 - Natural resources
 - Trade goods
 
-
-
 ## Dangers {#dangers}
 - Environmental hazards
 - Hostile creatures
 
-
-
 ## Rumors {#rumors}
 - Local gossip
 - Urban legends
-
-
 
 ## Weather {#weather}
 - Typical conditions
@@ -125,17 +112,15 @@ publish: false
 - **Unanswered Questions**: What remains unknown
 - **Future Revelations**: Discoveries yet to be made
 
-
 **Key Question**: What secrets does this place hold?
 ## DM Guidance
 - **Usage**: How to best utilize this in your campaign
 - **Adaptation**: Ways to modify for your needs
 - **Connections**: How this links to other elements
 
-
 *The dice will decide the fate.*
 
 ## Visual References
-![[04_Resources/Assets/Locations/location-city-guildmaster-harwick-v1-guildmaster-harwick.png]]
-![[04_Resources/Assets/Locations/location-city-surge-mixmaster-v1-surge-mixmaster.png]]
+![[04_Resources/Assets/Locations/location-city-guildmaster-harwick-v1-guildmaster-harwick.png
+![04_Resources/Assets/Locations/location-city-surge-mixmaster-v1-surge-mixmaster.png]]
 ![[04_Resources/Assets/Locations/location-city-master-archivist-thomas-scrollkeeper-v1-master-archivist-thomas-scrollkeeper.png]]

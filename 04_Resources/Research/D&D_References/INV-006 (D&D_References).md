@@ -2,7 +2,7 @@
 
 title: INV-006 (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -48,7 +48,6 @@ INV-006 describes a turning current in history where choices about memory, depth
 - Strange sightings suggest ancient magic
 - A stranger needs help delivering before dawn
 - Strange disappearances suggest ancient magic ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

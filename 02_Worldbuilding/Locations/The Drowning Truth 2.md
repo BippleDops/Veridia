@@ -1,10 +1,10 @@
 ---
-accessibility:
-  content_warnings:
+accessibility: 
+  content_warnings: 
   - political coercion
   - environmental hazards
   pronunciation: The Drowning Truth
-  safety_tools:
+  safety_tools: 
   - Lines & Veils
   - X-Card
   - Open Door
@@ -14,7 +14,7 @@ accessibility:
 created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -26,13 +26,9 @@ updated: '2025-08-13T12:34:16.736999+00:00'
 world: Aquabyssos
 ---
 
-
-
-
-
 # The Drowning Truth
 
-![[04_Resources/Assets/Art/Places/The_Drowning_Truth.png|The Drowning Truth Portrait]]
+![[04_Resources/Assets/Art/Places/The_Drowning_Truth.png|The Drowning Truth Portrait
 
 *Where honesty becomes lethal and lies sustain life*
 
@@ -101,7 +97,7 @@ The famous lovers Coral and Pearl entered together, vowing their love was true. 
 *Medium humanoid (human), lawful neutral*
 
 **Armor Class** 16 (truth's clarity)
-**Hit Points** 150 (20d8 + 60)
+**Hit Points** 150 (`dice: 20d8` + 60)
 **Speed** 30 ft., swim 40 ft.
 
 STR 12 (+1), DEX 16 (+3), CON 16 (+3), INT 18 (+4), WIS 22 (+6), CHA 8 (-1)
@@ -114,18 +110,18 @@ STR 12 (+1), DEX 16 (+3), CON 16 (+3), INT 18 (+4), WIS 22 (+6), CHA 8 (-1)
 **Languages** All (understands intent beyond words)
 **Challenge** 13 (10,000 XP)
 
-**Absolute Honesty.** The Confessor cannot lie or be deceived. Any creature within 30 feet must make a DC 18 Wisdom saving throw to speak a deliberate falsehood.
+**Absolute Honesty.** The Confessor cannot lie or be deceived. Any creature within 30 feet must make a **DC 18** Wisdom saving throw to speak a deliberate falsehood.
 
 **Truth Sight.** The Confessor sees all things as they truly are. No illusion, shapeshifting, or deception can fool them.
 
-**Painful Honesty.** When the Confessor speaks a truth about a creature, that creature must make a DC 18 Wisdom saving throw or take 14 (4d6) psychic damage and be stunned for 1 round as they confront the reality.
+**Painful Honesty.** When the Confessor speaks a truth about a creature, that creature must make a **DC 18** Wisdom saving throw or take 14 (`dice: 4d6`) psychic damage and be stunned for 1 round as they confront the reality.
 
 **Actions**
 **Multiattack.** The Confessor makes three Revelation attacks.
 
-**Revelation.** *Melee or Ranged Spell Attack:* +10 to hit, reach 5 ft. or range 60 ft., one target. *Hit:* 18 (4d8) psychic damage, and the target must reveal one secret (no save).
+**Revelation.** *Melee or Ranged Spell Attack:* +10 to hit, reach 5 ft. or range 60 ft., one target. *Hit:* 18 (`dice: 4d8`) psychic damage, and the target must reveal one secret (no save).
 
-**Unveiling (Recharge 5-6).** The Confessor forces all creatures within 60 feet to see themselves as they truly are. Each creature must make a DC 18 Wisdom saving throw or be paralyzed for 1 minute as they confront their true nature. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+**Unveiling (Recharge 5-6).** The Confessor forces all creatures within 60 feet to see themselves as they truly are. Each creature must make a **DC 18** Wisdom saving throw or be paralyzed for 1 minute as they confront their true nature. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 **Legendary Actions**
 The Confessor can take 3 legendary actions.
@@ -140,7 +136,7 @@ Beings who entered seeking truth but couldn't leave:
 *Medium undead, neutral*
 
 **Armor Class** 14
-**Hit Points** 75 (10d8 + 30)
+**Hit Points** 75 (`dice: 10d8` + 30)
 **Speed** 0 ft., swim 30 ft.
 
 STR 14 (+2), DEX 12 (+1), CON 16 (+3), INT 10 (+0), WIS 17 (+3), CHA 6 (-2)
@@ -154,12 +150,12 @@ STR 14 (+2), DEX 12 (+1), CON 16 (+3), INT 10 (+0), WIS 17 (+3), CHA 6 (-2)
 
 **Bound by Truth.** The soul cannot leave the Drowning Truth and cannot speak any falsehood.
 
-**Compulsive Honesty.** Any creature within 10 feet must make a DC 15 Wisdom saving throw at the start of their turn or be compelled to speak only truth for that turn.
+**Compulsive Honesty.** Any creature within 10 feet must make a **DC 15** Wisdom saving throw at the start of their turn or be compelled to speak only truth for that turn.
 
 **Actions**
-**Truth Drain.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 21 (6d6) necrotic damage, and the target must confess their greatest shame (no save).
+**Truth Drain.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 21 (`dice: 6d6`) necrotic damage, and the target must confess their greatest shame (no save).
 
-**Wail of Honesty (Recharge 5-6).** The soul screams a terrible truth. Each creature within 30 feet must make a DC 15 Wisdom saving throw or take 27 (6d8) psychic damage and be frightened for 1 minute.
+**Wail of Honesty (Recharge 5-6).** The soul screams a terrible truth. Each creature within 30 feet must make a **DC 15** Wisdom saving throw or take 27 (`dice: 6d8`) psychic damage and be frightened for 1 minute.
 
 ### The Living Paradox
 A being that exists because they simultaneously are and aren't:
@@ -252,7 +248,7 @@ Dying individuals speak their last truths:
 |-------|----------------|---------------|---------|
 | Outer Shell | Mild discomfort | Minor anxiety | WIS 10 |
 | Middle Layer | Crushing pressure | Cannot lie | WIS 15 |
-| Inner Core | 4d10 damage/round | Complete honesty | WIS 20 |
+| Inner Core | `dice: 4d10` damage/round | Complete honesty | WIS 20 |
 | Center Point | Instant death | Become truth itself | WIS 30 |
 
 ### Honesty Overflow
@@ -308,7 +304,7 @@ Crystallized honesty with various properties:
 - Protects wearer from truth effects
 - Allows lying in the Drowning Truth
 - Three charges per day
-- Each use damages the soul (1d4 Wisdom damage)
+- Each use damages the soul (`dice: 1d4` Wisdom damage)
 
 ### The Confession Bottle
 *Wondrous item, uncommon*
@@ -410,11 +406,11 @@ The sphere raises questions:
 ---
 
 ## See Also
-- [[02_Worldbuilding/Lore/Philosophy of Truth|02 Worldbuilding/Lore/Philosophy Of Truth]]
-- [[02_Worldbuilding/Groups/Truth Keepers|02 Worldbuilding/Groups/Truth Keepers]]
-- [[02_Worldbuilding/People/Veritas the Drowned|02 Worldbuilding/People/Veritas The Drowned]]
-- [[03_Mechanics/Honesty_Mechanics|03 Mechanics/Honesty Mechanics]]
-- [[02_Worldbuilding/Places/The Philosophical Depths|02 Worldbuilding/Places/The Philosophical Depths]]
+- [02_Worldbuilding/Lore/Philosophy of Truth|02 Worldbuilding/Lore/Philosophy Of Truth]]
+- [[02_Worldbuilding/Groups/Truth Keepers|02 Worldbuilding/Groups/Truth Keepers
+- [02_Worldbuilding/People/Veritas the Drowned|02 Worldbuilding/People/Veritas The Drowned]]
+- [[03_Mechanics/Honesty_Mechanics|03 Mechanics/Honesty Mechanics
+- [02_Worldbuilding/Places/The Philosophical Depths|02 Worldbuilding/Places/The Philosophical Depths]]
 
 *"In the Drowning Truth, we all become what we fear most: ourselves."*
 
@@ -428,35 +424,29 @@ Legends speak of The Drowning Truth as a nexus where past and present converge. 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Drowning Truth]]
+- [[02_Worldbuilding/Places/The Drowning Truth
 
 <!-- enriched: true -->
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/The Cerulean Trench]]
-
+- [02_Worldbuilding/Places/The Cerulean Trench]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

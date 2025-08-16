@@ -1,7 +1,7 @@
 ---
 title: Crystal Magic Theory
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
 - active
 created: '2025-08-14'
@@ -20,12 +20,12 @@ Crystal Magic Theory represents a significant element within the campaign world,
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: [[Link]]ed to multiple other elements
+- **Connections**: [Link]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-[[Historical Context]] and development over [[Time]].
+[[Historical Context and development over [Time]].
 
 ### Current State
 Present circumstances and ongoing relevance.

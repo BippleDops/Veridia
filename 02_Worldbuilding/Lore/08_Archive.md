@@ -1,7 +1,7 @@
 ---
 title: 08_Archive
 type: lore
-tags:
+tags: 
 - lore
 - worldbuilding
 created: '2025-08-14'
@@ -20,7 +20,7 @@ The knowledge of 08_Archive provides deeper understanding of the world's mysteri
 
 ## Connections
 - Part of the greater campaign narrative
-- [[Link]]s to related elements in the world
+- [[Links to related elements in the world
 - Provides opportunities for adventure
 
 ## Current Status
@@ -34,7 +34,6 @@ Active and ready for use in gameplay.
 ## Notes
 Additional details can be added as the campaign develops.
 
-
 ## References
 
-- [[README (D&D_References)]]
+- [README (D&D_References)]]

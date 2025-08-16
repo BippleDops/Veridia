@@ -2,7 +2,7 @@
 
 title: The Hadean Depth
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,12 +42,11 @@ updated: '2025-08-13T01:18:35.131815+00:00'
 
 - Someone is protecting a artifact for love
 - A letter reveals ancient history about the government
-- An heirloom has gone missing and chaos spreads ## Related Notes - [[Similar Topic 1]]
+- An heirloom has gone missing and chaos spreads ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]]
 
 ## Notes
 

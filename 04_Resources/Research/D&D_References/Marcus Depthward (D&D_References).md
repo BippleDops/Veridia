@@ -2,7 +2,7 @@
 
 title: Marcus Depthward (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,12 +42,11 @@ updated: '2025-08-13T01:18:35.686147+00:00'
 
 - A stranger needs help delivering before dawn
 - Someone is protecting a witness for love
-- A shipment has gone missing and truth emerges ## Related Notes - [[Similar Topic 1]]
+- A shipment has gone missing and truth emerges ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]]
 
 ## Notes
 

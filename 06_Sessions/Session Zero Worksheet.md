@@ -1,34 +1,32 @@
 ---
 enhanced: true
 tags: [enhanced, 06_sessions]
-created: 2025-08-15T12:24:36.259720
-modified: 2025-08-15T12:24:36.259723
-aliases: [Session Zero Worksheet]
+created: "2025-08-15T12:24:36.259720"
+modified: "2025-08-15T12:24:36.259723"
+aliases: [[Session Zero]] Worksheet]
 ---
 
-# Session Zero Worksheet
+# [[Session Zero Worksheet
 
-
-> **Content Warning**: This content contains mature themes. DM discretion advised.
+> **[Content Warning]]**: This content contains mature themes. DM discretion advised.
 
 > *An opportunity for greatness awaits...*
-
 
 ## Overview
 
 Comprehensive overview of this content.
 
---- aliases: ["Session Zero Worksheet"]
+--- aliases: ["[[Session Zero]] Worksheet"]
 created: 2025-08-15
 modified: 2025-08-15
 status: active
 priority: normal
 category: 06 Sessions
-subcategory: Session Zero Worksheet.Md
+subcategory: [[Session Zero]] Worksheet.Md
 related: []
 cssclass: standard
 publish: false --- ---
-title: Session Zero Worksheet
+title: [[Session Zero Worksheet
 type: session
 tags:
 - session created: '2025-01-15'
@@ -36,8 +34,8 @@ modified: '2025-01-15'
 - -- # Session_Zero_Worksheet - -- ## Description
 
 **Details**: Rich sensory elements bring this to life. {#description} Detailed description pending.
-title: Session Zero Worksheet
-type: Visual Handout
+title: [Session Zero]] Worksheet
+type: [[Visual Handout]]
 tags:
 - player/visual
 - session/preparation
@@ -49,8 +47,8 @@ modified: '2025-08-14'
 status: complete
 updated: '2025-08-13'
 world: Both
-- -- ### Player Information```Player [[Name|Name]]: _______________________________ Contact Info: ______________________________ Available Days/Times: ______________________ Experience Level: □ New to TTRPGs □ Some experience □ [[Veteran|Veteran]] player Preferred Communication:
-□ Discord □ Text □ Email □ In-person only ### Campaign Preferences COMBAT INTENSITY: █░░░░ Light (minimal, story-focused)
+- -- ### [[Player Information```Player [Name|Name]]: _______________________________ [[Contact Info: ______________________________ [Available Days]]/Times: ______________________ [[Experience Level: □ New to TTRPGs □ Some experience □ [Veteran|Veteran]] player [[Preferred Communication:
+□ Discord □ Text □ Email □ In-person only ### [Campaign Preferences]] COMBAT INTENSITY: █░░░░ Light (minimal, story-focused)
 ██░░░ Moderate (balanced encounters)
 ███░░ Heavy (regular tactical combat)
 ████░ Intense (combat-heavy campaign) ROLEPLAY FOCUS:
@@ -65,7 +63,7 @@ world: Both
 █░░░░ None (keep it light)
 ██░░░ Mild (atmospheric tension)
 ███░░ Moderate (some scary moments)
-████░ Heavy (psychological horror) ### Content Boundaries TOPICS TO AVOID: □ Graphic violence
+████░ Heavy (psychological horror) ### [[Content Boundaries TOPICS TO AVOID: □ Graphic violence
 □ Torture/interrogation
 □ Mental health issues
 □ Body horror/mutation
@@ -76,8 +74,8 @@ world: Both
 □ X-Card system (remove content immediately)
 □ Lines & Veils (discuss boundaries)
 □ Check-ins (regular comfort assessment)
-□ Open Door policy (can leave anytime) ### Character Concept Worksheet CHARACTER BASICS: Name: ______________________________________ Race: ______________________________________ Class: _____________________________________ Background: ________________________________ Home Realm: □ [[Aquabyssos|Aquabyssos]] □ [[Aethermoor|Aethermoor]] □ Convergence Point CORE CONCEPT (1-2 sentences):
-____________________________________________ PERSONAL GOAL: GREATEST FEAR: IMPORTANT RELATIONSHIP: SECRET OR FLAW: ### Party Dynamics PARTY ROLE PREFERENCES: □ Leader (takes charge, makes decisions) □ Face (handles social interactions)
+□ [Open Door]] policy (can leave anytime) ### [[Character Concept Worksheet CHARACTER BASICS: Name: ______________________________________ Race: ______________________________________ Class: _____________________________________ Background: ________________________________ [Home Realm]]: □ [[Aquabyssos|Aquabyssos □ [Aethermoor|Aethermoor]] □ [[Convergence Point CORE CONCEPT (1-2 sentences):
+____________________________________________ PERSONAL GOAL: GREATEST FEAR: IMPORTANT RELATIONSHIP: SECRET OR FLAW: ### [Party Dynamics]] PARTY ROLE PREFERENCES: □ Leader (takes charge, makes decisions) □ Face (handles social interactions)
 □ Tank (protects others, takes damage)
 □ Support (helps others, healing/buffs)
 □ Scout (explores, gathers information)
@@ -88,7 +86,7 @@ ____________________________________________ PERSONAL GOAL: GREATEST FEAR: IMPOR
 □ Group vote (democratic decisions) PARTY COHESION: □ Tight-knit group (family-like bonds)
 □ Professional team (work together well)
 □ Loose alliance (common goals)
-□ Reluctant partners (forced together) ### Campaign Themes Interest RATE YOUR INTEREST (1-5 scale): Shadow Conspiracy Investigation ___/5 Crystal Plague Medical Mystery ___/5 Deep Mother Cosmic Horror ___/5 Cross-Realm Diplomatic Missions ___/5 Merchant Guild Trade Adventures ___/5 Seven Shards Artifact Hunt ___/5 Parliamentary Political Intrigue ___/5 Pressure/Altitude Survival ___/5 Cultural Exchange Stories ___/5 Military/War Campaign Elements ___/5 PREFERRED STORY ARC LENGTH:
+□ Reluctant partners (forced together) ### [[Campaign Themes Interest RATE YOUR INTEREST (1-5 scale): [Shadow Conspiracy]] Investigation ___/5 [[Crystal Plague [Medical Mystery]] ___/5 [[Deep Mother [Cosmic Horror]] ___/5 Cross-[[Realm Diplomatic Missions ___/5 [Merchant Guild]] [[Trade Adventures ___/5 [Seven Shards]] [[Artifact Hunt ___/5 [Parliamentary Political]] Intrigue ___/5 Pressure/[[Altitude Survival ___/5 [Cultural Exchange]] Stories ___/5 Military/[[War Campaign Elements ___/5 PREFERRED STORY ARC LENGTH:
 □ Single sessions (episodic)
 □ Short arcs (2-4 sessions)
 □ Medium arcs (5-8 sessions)
@@ -105,7 +103,7 @@ ____________________________________________ PERSONAL GOAL: GREATEST FEAR: IMPOR
 □ Comfortable with recording
 □ Audio only acceptable
 □ Private sessions only
-□ Need to discuss per session ### Questions for GM What questions accomplish you have about: • The campaign setting? _______________________________________ • Character creation rules? • House rules or modifications? • Session expectations? • Other concerns? ### Group Agreements RESPECT AGREEMENT: □ We agree to respect all players
+□ Need to discuss per session ### Questions for GM What questions accomplish you have about: • The campaign setting? _______________________________________ • Character creation rules? • House rules or modifications? • Session expectations? • Other concerns? ### [Group Agreements]] RESPECT AGREEMENT: □ We agree to respect all players
 □ We agree to respect character choices
 □ We agree to help each other have fun
 □ We agree to communicate problems openly FUN AGREEMENT:
@@ -116,18 +114,18 @@ ____________________________________________ PERSONAL GOAL: GREATEST FEAR: IMPOR
 □ Problems will be addressed promptly
 □ Feedback will be given constructively
 □ Boundaries will be respected
-□ Check-ins will happen regularly * Complete this worksheet before Session Zero*
+□ Check-ins will happen regularly * Complete this worksheet before [[Session Zero*
 * Bring questions and be ready to discuss*
-* Remember: This is about setting up for everyone's fun* ## 🔧 Deep Evaluation Improvements * 20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Related * Links to related content will be added here.* ## DM Notes * Private notes for campaign integration:* - Can be adapted to fit current story needs
+* Remember: This is about setting up for everyone's fun* ## 🔧 [Deep Evaluation]] Improvements * 20 targeted improvements identified* ### [[Connection Improvements - Add cross-references to related notes ### [Enhancement Improvements]] - Add 12_Research-specific enhancement ## Related * Links to related content will be added here.* ## DM Notes * Private notes for campaign integration:* - Can be adapted to fit current story needs
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
-- Connections to overarching campaign themes ## Prophecy Connection Mentioned in The Hidden Prophecy of Depths ## Plot Hooks - Strange sightings suggest a curse - A noble needs help delivering before the festival ## Related Notes - [[Similar Topic 1|Similar Topic 1]] - [[Contrasting Approach|Contrasting Approach]]
-- [[Advanced Version|Advanced Version]]
-- [[Historical Context|Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## Pronunciation Guide - **Both**: [BOTH]
+- Connections to overarching campaign themes ## [[Prophecy Connection Mentioned in [The Hidden]] Prophecy of Depths ## [[Plot Hooks - Strange sightings suggest a curse - A noble needs help delivering before the festival ## [Related Notes]] - [[[[Similar Topic 1|[Similar Topic]] 1]] - [[[[Contrasting Approach|[Contrasting Approach]]]]
+- [[[[Advanced Version|[Advanced Version]]]]
+- [[[[Historical Context|[Historical Context]]]] ## 12_Research [[Specific Content Contextual improvement based on 12_Research ## 12_Research [Specific Content]] Contextual improvement based on 12_Research ## [[Pronunciation Guide]] - **Both**: [BOTH]
 - **Other**: [OTHER]
-- **Aethermoor**: [AYTHERMOOR] ## Alternate Descriptions - **First Impression**: Initial appearance
-- **Closer Look**: Detailed examination
-- **Hidden Details**: Secret aspects ## Player Tips > 🎮 **Strategy**: How to approach this content > Work together and communicate ## Notes {#notes} *Additional notes* #mechanics/combat
+- **Aethermoor**: [AYTHERMOOR] ## [[Alternate Descriptions - **[First Impression]]**: Initial appearance
+- **[[Closer Look**: Detailed examination
+- **[Hidden Details]]**: Secret aspects ## [[Player Tips > 🎮 **Strategy**: How to approach this content > Work together and communicate ## Notes {#notes} *Additional notes* #mechanics/combat
 #mechanics/rules
 #mechanics/system
 #story/plot
@@ -148,9 +146,29 @@ ____________________________________________ PERSONAL GOAL: GREATEST FEAR: IMPOR
 #meta/moc
 #meta/reference
 ## Secrets & Mysteries
-- **Hidden Truth**: Not everything is as it appears
-- **Unanswered Questions**: What remains unknown
-- **Future Revelations**: Discoveries yet to be made
-
+- **[Hidden Truth]]**: Not everything is as it appears
+- **[[Unanswered Questions**: What remains unknown
+- **[Future Revelations]]**: Discoveries yet to be made
 
 *What happens next is up to you.*
+## [[Session Summary
+*Brief overview of this session*
+
+## [Key Events]]
+- Event 1
+- Event 2
+
+## NPCs Encountered
+- [[NPC [Name]] - Brief description
+
+## [[Locations Visited
+- [[[Location Name]]]] - What happened here
+
+## [[Quest Progress
+- [[[Quest Name]]]] - What was accomplished
+
+## Notes for [[Next Session]]
+- Important things to remember
+- Plot threads to follow up
+
+---

@@ -3,7 +3,7 @@ created: '2025-08-08'
 created_by: auto-stub
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/item
@@ -19,14 +19,8 @@ updated: '2025-08-13T12:34:17.032955+00:00'
 world: Aquabyssos
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-crystal-merchant-the-crystal-merchant.svg)
-
-
-
-
 
 # The Crystal Merchant
 
@@ -160,10 +154,9 @@ Prism began as a deep-sea crystal miner before developing her talent for identif
 ## DM Notes
 Prism serves as both shop keeper and quest giver, providing magical items and information about crystal-related adventures. Her expertise makes her valuable for identifying mysterious crystals or locating specific magical components.
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/Old Valdris]]
+- [[02_Worldbuilding/Places/Old Valdris
 
 ## Player-Facing Summary
 
@@ -175,30 +168,25 @@ Legends speak of The Crystal Merchant as a nexus where past and present converge
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Crystal Merchant]]
+- [02_Worldbuilding/Places/The Crystal Merchant]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

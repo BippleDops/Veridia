@@ -1,15 +1,14 @@
 ---
 enhanced: true
 tags: [enhanced, 03_people]
-created: 2025-08-15T12:24:41.515020
-modified: 2025-08-15T12:24:41.515023
+created: "2025-08-15T12:24:41.515020"
+modified: "2025-08-15T12:24:41.515023"
 aliases: [NPC Interaction Review]
 ---
 
 # Npc Interaction Review
 
 > *Not all allies are what they seem...* This remarkable element adds depth and intrigue to any campaign.
-
 
 ## Overview
 
@@ -101,7 +100,7 @@ _____________________________________ NPC IMPROVEMENT NEEDED: What could be bett
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]* ## Alternate Descriptions - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
-- **Hidden Details**: Secret aspects ## Player Tips > 🎮 **Strategy**: How to approach this content > Work together and communicate ## References - [[NPC_Interaction_Review_Quick_Ref|Npc Interaction Review Quick Ref]] ## Notes {#notes} *Additional notes* #mechanics/combat
+- **Hidden Details**: Secret aspects ## Player Tips > 🎮 **Strategy**: How to approach this content > Work together and communicate ## References - [[NPC_Interaction_Review_Quick_Ref|Npc Interaction Review Quick Ref ## Notes {#notes} *Additional notes* #mechanics/combat
 #story/story
 #world/world
 #character/npc
@@ -121,13 +120,11 @@ _____________________________________ NPC IMPROVEMENT NEEDED: What could be bett
 - Hidden knowledge
 - Personal mysteries
 
-
 *Every story needs its heroes.*
 
 ## Visual References
-![[04_Resources/Assets/Misc/faction_interaction_rules.png]]
+![04_Resources/Assets/Misc/faction_interaction_rules.png]]
 ![[04_Resources/Assets/Misc/faction_interaction_matrix.png]]
-
 
 ## Plot Hooks
 - A mysterious message arrives regarding this location

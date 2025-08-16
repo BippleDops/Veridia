@@ -2,7 +2,7 @@
 
 title: Market Mystery (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -128,7 +128,6 @@ A puzzling investigation where valuable goods are disappearing from the Grand Ma
 3. Stolen item belonged to party member or contact
 4. Investigation reveals connection to larger criminal conspiracy ## Investigation Timeline
 
-
 **Week 1**: Initial interviews and evidence gathering
 **Week 2**: Following leads and testing theories
 **Week 3**: Narrowing suspects and setting up surveillance
@@ -139,7 +138,6 @@ Solving this mystery establishes party reputation as investigators and may lead 
 This investigation should emphasize deductive reasoning over combat. Provide multiple clues pointing to different theories, allowing players to eliminate possibilities through careful investigation. ## Player-Facing Summary Market Mystery is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Market Mystery as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Market Mystery. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession ## Plot Hooks - A prisoner has gone missing and evil awakens
 
 - Strange accidents suggest a portal ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

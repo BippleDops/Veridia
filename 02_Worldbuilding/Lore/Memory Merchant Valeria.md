@@ -1,8 +1,8 @@
 ---
 
-title: Memory [[Merchant]] Valeria
-type: [[Lore]]
-tags:
+title: Memory [[Merchant Valeria
+type: [Lore]]
+tags: 
 - lore
 - [[Aquabyssos]]
 - status/complete
@@ -15,10 +15,10 @@ tags:
 created: '2025-08-12'
 modified: '2025-08-14'
 status: complete
-accessibility:
+accessibility: 
   content_warnings: []
   pronunciation: Memory Merchant Valeria
-  safety_tools:
+  safety_tools: 
   - Lines & Veils
   - X-Card
   screen_reader_summary: This lore entry explains a pivotal principle or event and
@@ -46,7 +46,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -86,7 +86,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[region]]s
+- Describe how this culture exists in other [region]]s
 
 ## Summary
 
@@ -118,16 +118,16 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Merchant Family Alliances]]
-- [[Reputation System]]
-- [[Silver Mask]]
-- [[The Crimson Hand]]
-- [[The Silverscale Conspiracy]]
-- [[Memory Farmers]]
-- [[Ancient Aquabyssos Rulers (D&D_References)]]
-- [[Memory Farmers (D&D_References)]]
-- [[Reputation System (D&D_References)]]
-- [[Silver Mask (D&D_References)]]
-- [[The Crimson Hand (D&D_References)]]
-- [[The Crimson Hand 3 (D&D_References)]]
+- [[Merchant Family Alliances
+- [Reputation System]]
+- [[Silver Mask
+- [The Crimson Hand]]
+- [[The Silverscale Conspiracy
+- [Memory Farmers]]
+- [[Ancient Aquabyssos Rulers (D&D_References)
+- [Memory Farmers (D&D_References)]]
+- [[Reputation System (D&D_References)
+- [Silver Mask (D&D_References)]]
+- [[The Crimson Hand (D&D_References)
+- [The Crimson Hand 3 (D&D_References)]]
 - [[The Silverscale Conspiracy (D&D_References)]]

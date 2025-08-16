@@ -2,7 +2,7 @@
 
 title: Cult of the Deep Mother
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -95,7 +95,6 @@ Cultists genuinely believe they are performing a mercy:
 - Deep Mother represents the loving void that embraces all
 - The current world is temporary and painful
 - Return to the dream is inevitable and beautiful ## Player-Facing Summary The Cult of the Deep Mother appears to be multiple separate organizations - meditation societies, research groups, philosophical circles - but shares an obsession with depths, dreams, and ancient wisdom. Members range from harmless seekers to dangerously transformed fanatics. Their ultimate goal remains hidden behind layers of seemingly benign activities, making them particularly insidious opponents. ## Lore Details Established exactly 47 years ago when the first dreamer received visions from the depths, the cult has grown from a single madman's ravings to a sophisticated organization spanning both realms. They operate primarily through influence and infiltration, preferring to corrupt existing structures rather than openly challenge them. Local signs of their presence include increased drowning incidents, unusual tidal patterns, and a growing number of people who speak of "profound water dreams." ## DM Notes The cult works best as a gradually revealed threat. Start with individual members seeming eccentric but harmless. Slowly introduce supernatural elements and reveal connections between seemingly separate incidents. Allow players to investigate and discover the scope gradually - the horror comes from realizing how widespread and organized the threat really is. Use the concentric circle structure to provide different levels of opposition and information. Outer Circle members might be saved or turned, while Inner Circle cultists are beyond redemption. The cult's patient, methodical approach should contrast with players' urgency, creating tension between immediate threats and long-term conspiracy. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

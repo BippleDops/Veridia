@@ -1,8 +1,8 @@
 ---
 
-title: Campaigns [[Aquabyssos]] Investigations the [[Shadow Parliament]] Conspiracy
-type: [[Lore]]
-tags:
+title: Campaigns [[Aquabyssos Investigations the [Shadow Parliament]] Conspiracy
+type: [[Lore
+tags: 
 - lore
 - aquabyssos
 - active
@@ -27,7 +27,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -59,7 +59,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[region]]s
+- Describe how this culture exists in other [[regions
 
 ### Coming_Of_Age Improvements
 
@@ -83,7 +83,7 @@ improvements: 20
 ### Detailed Explanation
 The full nature of 01_Campaigns/Aquabyssos/_Investigations/The_Shadow_Parliament_Conspiracy involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
 
-### [[Historical Context]]
+### [Historical Context]]
 The origins and development of 01_Campaigns/Aquabyssos/_Investigations/The_Shadow_Parliament_Conspiracy trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
 ### Related Elements
@@ -94,7 +94,7 @@ Connected to 01_Campaigns/Aquabyssos/_Investigations/The_Shadow_Parliament_Consp
 - Opposing or complementary forces
 
 ### Cultural Significance
-Different [[Groups]] view 01_Campaigns/Aquabyssos/_Investigations/The_Shadow_Parliament_Conspiracy through their own cultural lenses:
+Different [[Groups view 01_Campaigns/Aquabyssos/_Investigations/The_Shadow_Parliament_Conspiracy through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
 - Regional variations
@@ -163,7 +163,7 @@ The current state of 01_Campaigns/Aquabyssos/_Investigations/The_Shadow_Parliame
 - Current holders or guardians
 - Present threats or opportunities
 
-### [[Recent Events]]
+### [Recent Events]]
 How 01_Campaigns/Aquabyssos/_Investigations/The_Shadow_Parliament_Conspiracy has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -196,7 +196,7 @@ Ways to incorporate 01_Campaigns/Aquabyssos/_Investigations/The_Shadow_Parliamen
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- [[Time]] requirements
+- [[Time requirements
 - Success and failure conditions
 
 ### Story Integration
@@ -217,7 +217,7 @@ How to adjust for different games:
 Ways 01_Campaigns/Aquabyssos/_Investigations/The_Shadow_Parliament_Conspiracy might evolve:
 - Through player action
 - Via story progression
-- Based on [[World Events]]
+- Based on [World Events]]
 - Through discovery
 
 ### Sources

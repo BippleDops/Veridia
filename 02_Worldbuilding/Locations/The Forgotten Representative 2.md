@@ -6,7 +6,7 @@ created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -23,15 +23,8 @@ updated: '2025-08-13T12:34:16.516273+00:00'
 world: Aquabyssos
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-forgotten-representative-the-forgotten-representative.svg)
-
-
-
-
-
 
 # The Forgotten Representative
 
@@ -52,7 +45,7 @@ Their voice carries strange harmonics, as if multiple people were speaking simul
 ## Statistics
 **Medium humanoid (?), lawful good**
 - **AS** 15 (Natural Armor)
-- **HP** 78 (12d8 + 24)
+- **HP** 78 (`dice: 12d8` + 24)
 - **Speed** 30 ft, swim 30 ft
 - **STR** 12 (+1) **DEX** 16 (+3) **CON** 14 (+2) **INT** 20 (+5) **WIS** 18 (+4) **CHA** 19 (+4)
 - **Skills** History +11, Insight +10, Investigation +8, Perception +10, Persuasion +10
@@ -64,16 +57,16 @@ Their voice carries strange harmonics, as if multiple people were speaking simul
 ### Special Abilities
 **Collective Memory.** The Representative can access memories and knowledge of anyone who has ever lived in Aquabyssos, particularly those who have been forgotten or erased from records.
 
-**Voice of the Forgotten.** When the Representative speaks about injustices or forgotten sacrifices, listeners must make a DC 16 Wisdom save or be compelled to acknowledge the truth and feel genuine remorse.
+**Voice of the Forgotten.** When the Representative speaks about injustices or forgotten sacrifices, listeners must make a **DC 16** Wisdom save or be compelled to acknowledge the truth and feel genuine remorse.
 
 **Historical Witness.** The Representative cannot be affected by memory-altering magic and always remembers events as they truly occurred.
 
 ### Actions
-**Memory Staff.** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) bludgeoning damage plus 14 (4d6) psychic damage as forgotten memories overwhelm the target.
+**Memory Staff.** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (`dice: 1d6` + 1) bludgeoning damage plus 14 (`dice: 4d6`) psychic damage as forgotten memories overwhelm the target.
 
-**Revelation of Truth (3/day).** The Representative can force one creature within 60 feet to confront a forgotten truth about themselves or their actions. The target must make a DC 16 Wisdom save or be stunned for 1 round by the revelation.
+**Revelation of Truth (3/day).** The Representative can force one creature within 60 feet to confront a forgotten truth about themselves or their actions. The target must make a **DC 16** Wisdom save or be stunned for 1 round by the revelation.
 
-**Call to Remembrance (1/day).** The Representative summons the spirits of 2d6 forgotten individuals who serve as witnesses to truth for up to 10 minutes.
+**Call to Remembrance (1/day).** The Representative summons the spirits of `dice: 2d6` forgotten individuals who serve as witnesses to truth for up to 10 minutes.
 
 ## Current Activities
 
@@ -89,41 +82,30 @@ They seem particularly focused on ensuring that any resolution to the crisis ack
 ## DM Notes
 Use the Forgotten Representative to introduce historical complexity to current events and to remind players that their actions will be remembered by future generations. They serve as a conscience for the campaign, ensuring that moral choices have weight and that the costs of decisions are acknowledged.
 
-
 ## Connections
 
-- [[02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[1-Session Journals/Aquabyssos - Session 02 - The Parliament's Paradox]]
-
+- [[02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide
+- [02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Parliament of Echoes
+- [1-Session Journals/Aquabyssos - Session 02 - The Parliament's Paradox]]
 
 ## History
 
-
 TODO
-
 
 ## Layout
 
-
 TODO
-
 
 ## Notables
 
-
 TODO
-
 
 ## Threats
 
-
 TODO
 
-
 ## Hooks
-
 
 TODO
 
@@ -147,26 +129,21 @@ Legends speak of The Forgotten Representative as a nexus where past and present 
 
 <!-- enriched: true -->
 
-
 ## Atmosphere
 - Mood and feeling
 - Sensory details
-
 
 ## Resources
 - Natural resources
 - Trade goods
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

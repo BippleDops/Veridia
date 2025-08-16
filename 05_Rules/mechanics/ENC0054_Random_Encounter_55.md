@@ -2,7 +2,7 @@
 aliases: ["Random Encounter 55", "random encounter 55", "55 Encounter Random"]
 tags: [generated]
 id: ENC0054_Random_Encounter_55
-created: 2025-08-15T04:09:51.452Z
+created: "2025-08-15T04:09:51.452Z"
 generator: mega_generator_10k
 ---
 # Random Encounter 55
@@ -10,8 +10,8 @@ generator: mega_generator_10k
 *Hard encounter for Dungeon environment*
 
 ## Enemies
-- 1d4 Dire Wolves
-- 2d4 Goblins
+- `dice: 1d4` Dire Wolves
+- `dice: 2d4` Goblins
 
 ## Tactics
 Enemies coordinate attacks and use terrain to their advantage

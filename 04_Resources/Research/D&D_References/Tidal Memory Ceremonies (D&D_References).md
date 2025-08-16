@@ -2,7 +2,7 @@
 
 title: Tidal Memory Ceremonies (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -127,11 +127,9 @@ Tidal Memory Ceremonies represent the most sacred religious practices in Aquabys
 7. **Memory War**: Communities using memory manipulation as warfare
 8. **Traumatic Integration**: Help refugee community adapt to tidal memory practices ## Connected Organizations
 
-
-- [[Temple of the Healing Waters|02 Worldbuilding/Groups/Temple Of The Healing Waters]] - Religious organization maintaining ceremony traditions
-- [[The Memory Keepers Guild]] - Professional organization preserving cultural knowledge
+- [[Temple of the Healing Waters|02 Worldbuilding/Groups/Temple Of The Healing Waters - Religious organization maintaining ceremony traditions
+- [The Memory Keepers Guild]] - Professional organization preserving cultural knowledge
 - [[Tidal Priests Circle]] - Religious leadership guiding memory practices The Tidal Memory Ceremonies represent the spiritual heart of Aquabyssos culture, where the eternal ocean serves as both sacred temple and infinite library, preserving the experiences and wisdom of countless generations within its endless tidal embrace. ## Player-Facing Summary Tidal Memory Ceremonies is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Tidal Memory Ceremonies as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Tidal Memory Ceremonies. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.*
-
 
 ## Notes
 

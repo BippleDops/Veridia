@@ -2,7 +2,7 @@
 
 title: Aquabyssos World Overview
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -48,12 +48,11 @@ updated: '2025-08-13T01:18:34.805940+00:00'
 
 Aquabyssos is a vast underwater realm created when a series of interconnected climatic catastrophes known as the "Century of Storms" (900-800 years ago) caused massive tsunamis, perpetual hurricanes, and reality-warping rainfall that literally pulled portions of the surface world beneath the waves. These weren't natural disasters but the result of a failed attempt to control weather magic on a continental scale. The survivors didn't simply adapt - transformed they the Drowning Embrace, a form of deep magic that allowed them to survive underwater at the cost of their humanity. Now, five centuries later, Aquabyssos is a haunting realm of drowned cities, transformed inhabitants, and powers that should have remained buried. Furthermore, ### The Century of Storms (900-800 years ago)
 
-The surface empires of Thalassopolis, Nereidion, and Abyssal Mor attempted to end a devastating war by using weather control magic amplified by proto-crystals (predecessors to Aethermoor's [[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]). The ritual backfired catastrophically: 1. **Year 1-20**: Unnatural hurricanes that never dissipated
+The surface empires of Thalassopolis, Nereidion, and Abyssal Mor attempted to end a devastating war by using weather control magic amplified by proto-crystals (predecessors to Aethermoor's [[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards). The ritual backfired catastrophically: 1. **Year 1-20**: Unnatural hurricanes that never dissipated
 2. **Year 21-50**: Rain that fell upward, pulling land into the sky before dropping it into the sea
 3. **Year 51-75**: Tsunamis that moved against natural law, flowing inland and refusing to recede
 4. **Year 76-99**: The Sea's Hunger - water that actively sought to drown land
 5. **Year 100**: The Final Submersion - gravitational reversal that pulled three continents beneath the waves ### The Drowning Embrace
-
 
 As millions faced death by drowning, desperate mages made pacts with Things That Dwell Beneath - ancient entities that existed before light. The survivors were transformed:
 - Lungs that process water and air
@@ -108,8 +107,7 @@ Seven transformed nobles who each control an aspect:
 4. **The Depth Speaker**: Religion and philosophy
 5. **The Coral Tender**: Agriculture and resources
 6. **The Void Watcher**: Exploration and Hadean relations
-7. **The Surface Liaison**: Diplomacy with above ([[Ambassador Korvin Blacktide|02 Worldbuilding/People/Ambassador Korvin Blacktide]]) ### Religion: The Church of Drowning Truths Core beliefs:
-
+7. **The Surface Liaison**: Diplomacy with above ([Ambassador Korvin Blacktide|02 Worldbuilding/People/Ambassador Korvin Blacktide]]) ### Religion: The Church of Drowning Truths Core beliefs:
 
 - The surface world is a lie that must be drowned
 - Transformation is evolution, not corruption
@@ -182,8 +180,6 @@ Navigation and manipulation of spaces that shouldn't exist:
 12. **The Breathing Stone**: Artifact that reverses transformation
 13. **The Original Sin**: True cause of the Century of Storms ### Hidden Truths > [!danger] The Things That Dwell Beneath
 
-
-
 > These aren't gods or demons but the universe's immune system. The surface world is an infection, and the Drowning was the first attempt at cleansing. They're patient, immortal, and view humanity as bacteria to be processed or purged. > [!warning] The Connection to Aethermoor
 > The [[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] of Aethermoor are fragments of the same proto-crystal that caused the Great Drowning. If reunited underwater, they could complete the Drowning and submerge all surface lands permanently. > [!info] The Empress's Secret
 > Empress Tethys isn't dying and resurrecting daily - she's splitting into multiple versions. There are now dozens of her at different depths, each with different memories and goals. They're planning something that requires all versions to reunite. ### Potential Futures
@@ -192,30 +188,28 @@ Navigation and manipulation of spaces that shouldn't exist:
 2. **Forced Unity**: Alliance against greater threat
 3. **The Second Drowning**: Aquabyssos succeeds in submerging Aethermoor
 4. **Synthesis**: Merger of crystal and depth magic creates new horror
-5. **Mutual Destruction**: Both realms fall to their respective corruptions ## Player-Facing Summary Aquabyssos World Overview is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Aquabyssos World Overview as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aquabyssos World Overview. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## References - [[Cult of Screams (Cults_and_Movements)]]
+5. **Mutual Destruction**: Both realms fall to their respective corruptions ## Player-Facing Summary Aquabyssos World Overview is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Aquabyssos World Overview as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aquabyssos World Overview. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## References - [[Cult of Screams (Cults_and_Movements)
 
-
-- [[Merchant's Covenant]]
-- [[Order of the Drowned Star (Orders)]]
-- [[Admiral Thorne Blackwater]]
-- [[Captain Garrett Stormcutter]]
-- [[Duke Cyrus Reefheart]]
-- [[Harbor Master Luna Freedrift]]
-- [[The Bathyal Palace]]
-- [[The Whispering Depths]]
-- [[Order of the Drowned Star]]
-- [[Captain Garrett Stormcutter (D&D_References)]]
-- [[Cult of Screams]]
-- [[Duke Cyrus Reefheart (D&D_References)]]
-- [[Merchant's Covenant (D&D_References)]]
-- [[Pressure's End (D&D_References)]]
-- [[The Bathyal Palace (D&D_References)]]
-- [[The Cerulean Trench (D&D_References)]]
-- [[The Phosphor Markets (D&D_References)]]
-- [[The Primordial Vaults (D&D_References)]]
-- [[The Whispering Depths (D&D_References)]]
+- [Merchant's Covenant]]
+- [[Order of the Drowned Star (Orders)
+- [Admiral Thorne Blackwater]]
+- [[Captain Garrett Stormcutter
+- [Duke Cyrus Reefheart]]
+- [[Harbor Master Luna Freedrift
+- [The Bathyal Palace]]
+- [[The Whispering Depths
+- [Order of the Drowned Star]]
+- [[Captain Garrett Stormcutter (D&D_References)
+- [Cult of Screams]]
+- [[Duke Cyrus Reefheart (D&D_References)
+- [Merchant's Covenant (D&D_References)]]
+- [[Pressure's End (D&D_References)
+- [The Bathyal Palace (D&D_References)]]
+- [[The Cerulean Trench (D&D_References)
+- [The Phosphor Markets (D&D_References)]]
+- [[The Primordial Vaults (D&D_References)
+- [The Whispering Depths (D&D_References)]]
 - [[Admiral Thorne Blackwater (D&D_Statblocks)]]
-
 
 ## Notes
 

@@ -1,11 +1,11 @@
 ---
 title: The Consciousness Archive
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
 - content/faction
 - content/lore
-- world/[[Aethermoor]]
+- world/[Aethermoor]]
 - active
 - complete
 - status/in-progress
@@ -37,10 +37,8 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## References
 
-- [[Post-Merge Chronology]]
-- [[The Consciousness Archive Key]]
+- [[Post-Merge Chronology
+- [The Consciousness Archive Key]]
 - [[Reflection Pools - Surgical Theater]]

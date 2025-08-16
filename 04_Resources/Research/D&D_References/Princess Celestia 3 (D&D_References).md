@@ -2,7 +2,7 @@
 
 title: Princess Celestia 3 (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -49,7 +49,6 @@ Princess Celestia describes a turning current in history where choices about mem
 
 - Someone is protecting a artifact for revenge
 - Someone is protecting a artifact for love ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

@@ -2,7 +2,7 @@
 
 title: Military Moral Quandaries (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -49,7 +49,6 @@ Every military decision must account for the possibility that:
 - Military actions might accelerate rather than prevent corruption
 - Victory conditions are unclear when the enemy can alter the nature of existence #### **The Cult Cell Strike Dilemma**
 
-
 **Summary**: **The Cult Cell Strike Dilemma** - Key information at a glance.
 
 **Situation**: Intelligence suggests a Deep Mother cult cell plans a major ritual in three days, but evidence is circumstantial and wouldn't justify action under peacetime law. **Intelligence Assessment**:
@@ -78,7 +77,6 @@ Commander Tidewatch receives intelligence about cult activity in a residential a
 - **Political Leaders**: Facing public pressure for both security and restraint
 - **Civilian Leaders**: Demanding protection but fearing military overreach
 - **Military Lawyers**: Warning about precedent for future preemptive actions #### **The Prisoner of War Question**
-
 
 **Summary**: **The Prisoner of War Question** - Key information at a glance.
 
@@ -233,7 +231,6 @@ Military planning assault on cult stronghold in abandoned cathedral:
 - Do unknown risks to civilians outweigh known threats from cult activity?
 - Can military justify using weapons whose effects are poorly understood?
 - Who bears responsibility for long-term consequences of reality damage? ## DM Notes Military ethics scenarios work best when players have personal investment in military characters and institutions. Build toward major ethical crises by first presenting smaller military moral choices. Allow time for player discussion of options, but maintain time pressure appropriate to military decision-making. Remember that military ethics training helps but doesn't eliminate moral complexity - even trained officers struggle with these dilemmas. ## Player-Facing Summary Military Moral Quandaries is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Military Moral Quandaries as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Military Moral Quandaries. ## Related *Links to related content will be added here.*
-
 
 ## Notes
 

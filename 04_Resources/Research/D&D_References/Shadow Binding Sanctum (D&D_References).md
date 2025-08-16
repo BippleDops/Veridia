@@ -2,7 +2,7 @@
 
 title: Shadow Binding Sanctum (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -103,7 +103,6 @@ The Shadow Binding Sanctum is a hidden facility where practitioners of shadow ma
 5. Ethical group seeks party help in exposing facility operations
 6. Ancient shadow entity offers bargain in exchange for freedom ## Relationships
 
-
 **Shadow Warren:** Unofficial cooperation and information sharing
 **Royal Government:** Officially unknown, unofficially tolerated
 **Academic Circles:** Some scholars provide theoretical support
@@ -114,7 +113,6 @@ The Shadow Binding Sanctum provides opportunities for horror-themed adventures, 
 
 - Someone is protecting information for money
 - Strange disappearances suggest ancient magic ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

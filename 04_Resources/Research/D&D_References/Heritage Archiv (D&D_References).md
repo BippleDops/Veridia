@@ -2,7 +2,7 @@
 
 title: Heritage Archiv (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,7 +43,6 @@ updated: '2025-08-13T01:18:35.456157+00:00'
 - The authorities needs help finding before the new moon
 - Strange dreams suggest a conspiracy
 - A map reveals a conspiracy about this place ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

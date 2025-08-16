@@ -2,7 +2,7 @@
 
 title: Traditional Communities
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,7 +42,6 @@ updated: '2025-08-13T01:18:34.988404+00:00'
 - A document has gone missing and chaos spreads
 - A stranger needs help delivering before dawn
 - Someone is protecting a witness for power ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

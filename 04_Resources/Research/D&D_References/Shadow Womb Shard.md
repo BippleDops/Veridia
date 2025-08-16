@@ -2,7 +2,7 @@
 
 title: Shadow Womb Shard
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,15 +43,14 @@ updated: '2025-08-13T01:18:34.550634+00:00'
 
 - An heirloom has gone missing and chaos spreads
 - Someone is blackmailing a artifact for revenge
-- A journal reveals the truth about a local noble ## Related Notes - [[Similar Topic 1]]
+- A journal reveals the truth about a local noble ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## References - [[Deep Mother]]
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## References - [[Deep Mother
 
-- [[Deep Mother (D&D_References)]]
+- [Deep Mother (D&D_References)]]
 - [[Deep Mother 3 (D&D_References)]]
-
 
 ## Notes
 

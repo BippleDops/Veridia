@@ -1,22 +1,22 @@
 ---
 title: Conquered Territory
 type: note
-tags:
+tags: 
 - auto-generated
-- [[Link]]ed
+- [[Linked
 created: '2025-01-15'
 ---
 
 # Conquered Territory
 
 ## Overview
-This topic is referenced in [[Cure Component Locations]] and other parts of the campaign.
+This topic is referenced in [Cure Component Locations]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Cure Component Locations]]
+- Referenced by: [[Cure Component Locations
 - Related topics in the same category
 
 ## Details
@@ -29,5 +29,5 @@ Further information about this topic will be developed as the campaign progresse
 
 ## References
 
-- [[Central Location]]
+- [Central Location]]
 - [[Cure Component Locations]]

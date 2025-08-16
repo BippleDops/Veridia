@@ -12,7 +12,7 @@ location: '[[02_Worldbuilding/Places/Harbor District]] - Tidecaller''s Emporium'
 obsidianUIMode: preview
 race: Triton
 status: complete
-tags:
+tags: 
 - aquabyssos
 - business
 - complete
@@ -31,16 +31,8 @@ updated: '2025-08-13T12:34:16.982925+00:00'
 world: Aquabyssos
 ---
 
-
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-supplier-erikson-tidecaller-supplier-erikson-tidecaller.svg)
-
-
-
-
-
 
 # Supplier Erikson Tidecaller
 *Master of Tidal Treasures*
@@ -50,7 +42,7 @@ world: Aquabyssos
 
 ## Overview
 
-**Erikson Tidecaller** operates one of [[02_Worldbuilding/Places/Abyssos Prime]]'s most respected specialty supply businesses, **Tidecaller's Emporium**, where he provides magical components, nautical equipment, and rare materials to adventurers, researchers, and naval personnel. His expertise in tidal magic and deep-sea salvage has made him an essential resource for anyone needing specialized gear for underwater operations or magical research.
+**Erikson Tidecaller** operates one of [[02_Worldbuilding/Places/Abyssos Prime's most respected specialty supply businesses, **Tidecaller's Emporium**, where he provides magical components, nautical equipment, and rare materials to adventurers, researchers, and naval personnel. His expertise in tidal magic and deep-sea salvage has made him an essential resource for anyone needing specialized gear for underwater operations or magical research.
 
 With over four decades of experience in both practical seamanship and theoretical magic, Erikson has developed unique techniques for harvesting and preserving magical materials from the ocean's depths. His reputation for reliability and quality has earned him loyal customers ranging from independent adventurers to government agencies requiring specialized equipment for sensitive operations.
 
@@ -68,7 +60,7 @@ With over four decades of experience in both practical seamanship and theoretica
 ## Business Operations
 
 ### Tidecaller's Emporium
-**Location**: Three-story building in [[02_Worldbuilding/Places/Harbor District]] with underwater storage vaults  
+**Location**: Three-story building in [02_Worldbuilding/Places/Harbor District]] with underwater storage vaults  
 **Specialties**: Magical components, nautical equipment, rare materials, custom modifications  
 **Services**: Equipment consultation, magical item identification, custom crafting, emergency supplies  
 **Hours**: Dawn to dusk, emergency availability for established customers  
@@ -88,7 +80,7 @@ With over four decades of experience in both practical seamanship and theoretica
 ## Combat Statistics
 
 **Level**: 6th level Expert/Artificer (4/2)  
-**AS**: 14 (Leather Armor + Dex), **HP**: 52 (6d8 + 18), **Speed**: 30 ft., swim 40 ft.  
+**AS**: 14 (Leather Armor + Dex), **HP**: 52 (`dice: 6d8` + 18), **Speed**: 30 ft., swim 40 ft.  
 **STR**: 14 (+2), **DEX**: 15 (+2), **CON**: 16 (+3), **INT**: 17 (+3), **WIS**: 14 (+2), **CHA**: 13 (+1)  
 **Skills**: Arcana +9, Investigation +6, Nature +6, Perception +5, Persuasion +4, Sleight of Hand +5  
 **Languages**: Common, Primordial (Aquan), Draconic  
@@ -112,45 +104,34 @@ Erikson has located a valuable wreck in dangerous waters but needs skilled adven
 **Suppliers**: Deep-sea divers, magical creature hunters, reef farmers, crystal miners  
 **Customers**: Adventuring parties, naval officers, magical researchers, government agencies  
 **Competitors**: Other specialty merchants who respect his expertise and refer difficult customers  
-**Allies**: [[02_Worldbuilding/People/Harbor Master Luna Freedrift]], [[02_Worldbuilding/Places/Guildmaster Harwick]], various crafting specialists  
+**Allies**: [[02_Worldbuilding/People/Harbor Master Luna Freedrift, [02_Worldbuilding/Places/Guildmaster Harwick]], various crafting specialists  
 
 ---
 
 *"Good equipment can mean the difference between a successful mission and a watery grave. I don't sell anything I wouldn't trust with my own life."*  
 — Erikson Tidecaller
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/Pressure's End]]
-
+- [[02_Worldbuilding/Places/Pressure's End
 
 ## History
 
-
 TODO
-
 
 ## Layout
 
-
 TODO
-
 
 ## Notables
 
-
 TODO
-
 
 ## Threats
 
-
 TODO
 
-
 ## Hooks
-
 
 TODO
 
@@ -168,32 +149,27 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Supplier Erikson Tidecaller]]
+- [02_Worldbuilding/Places/Supplier Erikson Tidecaller]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]]
-
+- [[02_Worldbuilding/Places/Abyssos Prime
+- [02_Worldbuilding/People/Harbor Master Luna Freedrift]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

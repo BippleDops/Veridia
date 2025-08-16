@@ -2,7 +2,7 @@
 
 title: Noble House Representative
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,7 +42,6 @@ updated: '2025-08-13T01:18:34.866810+00:00'
 
 - Someone is blackmailing a artifact for money
 - A merchant needs help investigating before dawn ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Madame Rosalind Goldleaf (D&D_Statblocks)]]
-
 
 ## Notes
 

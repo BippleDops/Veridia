@@ -1,7 +1,7 @@
 ---
 type: Lore
 status: complete
-tags:
+tags: 
 - active
 - aquabyssos
 - location
@@ -10,10 +10,6 @@ world: Aquabyssos
 created: '2025-08-11'
 updated: '2025-08-13T01:18:35.154331+00:00'
 ---
-
-
-
-
 
 ## Overview
 
@@ -41,10 +37,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Lady Vivienne the Unfrozen]]
-
+- [[02_Worldbuilding/Places/Lady Vivienne the Unfrozen
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Lady Vivienne the Unfrozen]]
+- [02_Worldbuilding/Places/Lady Vivienne the Unfrozen]]
 - [[02_Worldbuilding/Places/Teacher Miranda Hopekeeper]]

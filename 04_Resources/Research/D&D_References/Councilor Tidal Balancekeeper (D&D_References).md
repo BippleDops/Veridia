@@ -2,7 +2,7 @@
 
 title: Councilor Tidal Balancekeeper (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,12 +42,11 @@ danger_level: Moderate
 
 - Someone is blackmailing a witness for love
 - Someone is hunting information for revenge
-- The authorities needs help stealing before the festival ## Related Notes - [[Similar Topic 1]]
+- The authorities needs help stealing before the festival ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

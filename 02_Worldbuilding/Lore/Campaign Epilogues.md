@@ -1,15 +1,14 @@
 ---
 
 title: Campaign Epilogues
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
 - session-notes
 - status/complete
 - campaign/consequence
 - aquatic
 - both worlds
-- content/template
 - endings
 - content/lore
 - epilogues
@@ -26,9 +25,9 @@ created_by: auto-stub
 purpose: Campaign Resolution
 scope: Both Worlds
 structure_type: Campaign Framework
-[[Time]]frame: Post-Campaign
+[Time]]frame: Post-Campaign
 updated: '2025-08-13T12:34:16.366092+00:00'
-usage: Epilogue [[Guidance]]
+usage: Epilogue [[Guidance
 world: Both Worlds
 evaluated: '2025-08-14'
 improvements: 20
@@ -39,7 +38,7 @@ improvements: 20
 *Concluding the Adventures of Both Worlds*
 
 > *"Every tale must find its ending, but in the depths where time flows differently and on surfaces where hope rebuilds what despair has broken, endings become new beginnings. The choices made in darkness echo into light, and what heroes achieve reverberates through generations yet unborn."*
-> — [[Chronicle Keeper Sage Deepmemory]], Historian of the [[United Councils of Both Worlds]]
+> — [Chronicle Keeper Sage Deepmemory]], Historian of the [[United Councils of Both Worlds
 
 ## 🔧 Deep Evaluation Improvements
 
@@ -55,7 +54,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -99,7 +98,7 @@ improvements: 20
 
 ## Overview
 
-Campaign Epilogues provide comprehensive frameworks for concluding adventures set in the interconnected worlds of [[Aquabyssos]] and [[Aethermoor]], offering structured approaches to resolving character arcs, addressing the consequences of player actions, and establishing the future state of both realms based on campaign outcomes. These epilogue structures recognize that campaigns in this setting often involve complex, interconnected challenges that require thoughtful resolution and long-term consequence consideration.
+Campaign Epilogues provide comprehensive frameworks for concluding adventures set in the interconnected worlds of [[Aquabyssos and [Aethermoor]], offering structured approaches to resolving character arcs, addressing the consequences of player actions, and establishing the future state of both realms based on campaign outcomes. These epilogue structures recognize that campaigns in this setting often involve complex, interconnected challenges that require thoughtful resolution and long-term consequence consideration.
 
 The epilogue frameworks account for the unique characteristics of campaigns spanning both underwater and surface environments, addressing how player actions in one realm affect the other and providing guidance for resolving the cosmic-scale threats and alliance relationships that define the setting. These structures help game masters create satisfying conclusions while establishing foundations for potential future adventures.
 
@@ -117,37 +116,37 @@ Relationship resolution explores how connections formed during the campaign cont
 
 Legacy establishment determines how each character's actions during the campaign create lasting effects on the world, from personal reputation and influence to institutional changes and cultural impacts. These legacies provide connection points for potential future adventures.
 
-Integration with society examines how characters integrate into post-campaign society, whether returning to previous lives, taking on new roles, or finding entirely different [[path]]s based on their campaign experiences and personal growth.
+Integration with society examines how characters integrate into post-campaign society, whether returning to previous lives, taking on new roles, or finding entirely different [[paths based on their campaign experiences and personal growth.
 
 ### Institutional Change Epilogues
 
-Institutional change epilogues focus on how campaign events affect the major [[Organization]]s, governments, and power structures of both worlds, providing detailed exploration of political, social, and economic consequences resulting from player actions and campaign resolutions.
+Institutional change epilogues focus on how campaign events affect the major [Organization]]s, governments, and power structures of both worlds, providing detailed exploration of political, social, and economic consequences resulting from player actions and campaign resolutions.
 
-Governmental evolution addresses changes in political systems, leadership structures, and policy directions resulting from campaign events. This includes leadership transitions, constitutional changes, new international agreements, and shifts in political power between different factions and [[region]]s.
+Governmental evolution addresses changes in political systems, leadership structures, and policy directions resulting from campaign events. This includes leadership transitions, constitutional changes, new international agreements, and shifts in political power between different factions and [[regions.
 
 Organizational development examines how major institutions adapt to post-campaign circumstances, including military restructuring, economic reorganization, educational reform, and religious institutional change. These changes reflect the impact of campaign events on societal infrastructure.
 
-Alliance relationships evaluate how the connections between [[Aquabyssos]], [[Aethermoor]], and external [[Allies]] like the [[Eastern Kingdom|[[Eastern Kingdom]] Fleet]] develop based on campaign outcomes. This includes trade relationship evolution, military cooperation agreements, and [[Cultural Exchange]] program expansion.
+Alliance relationships evaluate how the connections between [Aquabyssos]], [[Aethermoor, and external [Allies]] like the [[Eastern Kingdom|[Eastern Kingdom Fleet]] develop based on campaign outcomes. This includes trade relationship evolution, military cooperation agreements, and [[Cultural Exchange program expansion.
 
-Economic transformation addresses how campaign events affect commerce, resource distribution, technological development, and standard of living in both worlds. These economic consequences often have long-term implications for social stability and [[International Relations]].
+Economic transformation addresses how campaign events affect commerce, resource distribution, technological development, and standard of living in both worlds. These economic consequences often have long-term implications for social stability and [International Relations]].
 
 ### Environmental Restoration Epilogues
 
 Environmental restoration epilogues address the ecological and physical consequences of campaign events, particularly focusing on efforts to repair damage caused by various threats and the long-term environmental implications of campaign resolutions.
 
-Corruption remediation explores the ongoing efforts to reverse damage caused by [[The Crystal Influence]], void corruption, and other reality-altering threats. These epilogues address both immediate cleanup efforts and long-term environmental rehabilitation programs.
+Corruption remediation explores the ongoing efforts to reverse damage caused by [[The Crystal Influence, void corruption, and other reality-altering threats. These epilogues address both immediate cleanup efforts and long-term environmental rehabilitation programs.
 
 Ecosystem recovery examines how natural systems adapt to post-crisis conditions, including species population recovery, habitat restoration, and the establishment of new ecological balances. These changes often involve both natural processes and active intervention by various organizations.
 
-Infrastructure rebuilding addresses the physical reconstruction of damaged cities, transportation networks, [[Communication_Systems|Communication Systems]], and other essential infrastructure. These projects often involve cooperation between different worlds and the integration of new technologies or magical systems.
+Infrastructure rebuilding addresses the physical reconstruction of damaged cities, transportation networks, [Communication_Systems|Communication Systems]], and other essential infrastructure. These projects often involve cooperation between different worlds and the integration of new technologies or magical systems.
 
 Resource management evolution examines how both worlds adapt their approaches to resource extraction, conservation, and distribution based on lessons learned during campaign events. These changes often reflect new understanding of environmental interdependence and sustainability.
 
 ### Cosmic Threat Resolution Epilogues
 
-Cosmic threat resolution epilogues address the long-term consequences of dealing with threats that transcend normal political or environmental boundaries, including void corruption, [[Timeline]] manipulation, [[Reality Distortion]], and other cosmic-scale challenges.
+Cosmic threat resolution epilogues address the long-term consequences of dealing with threats that transcend normal political or environmental boundaries, including void corruption, [[Timeline manipulation, [Reality Distortion]], and other cosmic-scale challenges.
 
-[[Reality Stabilization]] examines efforts to ensure that normal physical laws and magical systems continue functioning properly after exposure to cosmic influences. These efforts often require ongoing monitoring and intervention by specialized organizations and individuals.
+[[Reality Stabilization examines efforts to ensure that normal physical laws and magical systems continue functioning properly after exposure to cosmic influences. These efforts often require ongoing monitoring and intervention by specialized organizations and individuals.
 
 Timeline security addresses measures taken to protect against future temporal manipulation or paradox creation, including the establishment of monitoring systems and response protocols for temporal anomalies.
 
@@ -169,7 +168,7 @@ Partial success resolutions examine campaigns where major objectives are achieve
 
 Compromise epilogues address campaigns where resolution requires significant trade-offs and negotiation, exploring how different parties adapt to outcomes that satisfy some needs while requiring sacrifice of others.
 
-Negotiated resolution scenarios examine outcomes where competing interests reach agreements that allow progress while requiring ongoing cooperation and mutual accommodation between different [[Groups]] and civilizations.
+Negotiated resolution scenarios examine outcomes where competing interests reach agreements that allow progress while requiring ongoing cooperation and mutual accommodation between different [Groups]] and civilizations.
 
 Balance maintece outcomes explore situations where threats are contained rather than eliminated, requiring ongoing vigilance and management to maintain stability while pursuing long-term solutions.
 
@@ -275,11 +274,11 @@ Campaign Epilogues is a undersea element of the setting, known for bioluminescen
 
 Legends speak of Campaign Epilogues as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Campaign Epilogues.
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## [[Historical Context]]
+## [Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 

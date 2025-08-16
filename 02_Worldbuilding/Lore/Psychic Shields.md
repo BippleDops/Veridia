@@ -1,11 +1,11 @@
 ---
 
-title: Psychic [[Shield]]s
-type: [[Lore]]
-tags:
+title: Psychic [[Shields
+type: [Lore]]
+tags: 
 - lore
 - content/lore
-- world/[[Aethermoor]]
+- world/[[Aethermoor
 - active
 - complete
 - status/in-progress
@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 

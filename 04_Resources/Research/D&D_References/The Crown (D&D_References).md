@@ -2,7 +2,7 @@
 
 title: The Crown (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -40,7 +40,7 @@ tags:
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
-headquarters: '[[Places]] Crystal Palace]]'
+headquarters: '[[Places Crystal Palace]]'
 world: Aethermoor
 faction_type: Government
 alignment: Lawful Neutral
@@ -61,7 +61,7 @@ obsidian UIMode: preview
 
 *The Royal Authority of Aethermoor, Keepers of the Shattered Legacy, The Crystal Throne* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
-The Crown represents the royal government of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]], built upon the ruins of the God-King Aetheron's empire 500 years ago. Currently led by [[Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]], The Crown maintains authority through control of Aether Crystals, military might, and the myth of divine mandate. However, crystal corruption, noble rebellions, and the Queen's deteriorating condition threaten the institution's survival. ### Foundation (500 Years Ago)
+The Crown represents the royal government of [[Aethermoor|02 Worldbuilding/Places/Aethermoor, built upon the ruins of the God-King Aetheron's empire 500 years ago. Currently led by [Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]], The Crown maintains authority through control of Aether Crystals, military might, and the myth of divine mandate. However, crystal corruption, noble rebellions, and the Queen's deteriorating condition threaten the institution's survival. ### Foundation (500 Years Ago)
 
 After Aetheron's Crown shattered into Seven Shards:
 1. **Power Vacuum**: Seven Advisors fought for control
@@ -69,7 +69,6 @@ After Aetheron's Crown shattered into Seven Shards:
 3. **House Lumengarde Victory**: Through crystal mastery
 4. **New Monarchy**: Established on "democratic" ideals
 5. **The Great Lie**: Hidden truth about the Shattering #### The Royal Court
-
 
 **Function**: Direct royal administration
 - **Courtiers**: ~500 noble positions
@@ -105,13 +104,11 @@ After Aetheron's Crown shattered into Seven Shards:
 4. **Crystal Management**: Control corruption spread
 5. **Noble Unity**: Keep houses aligned ### Secret Agendas
 
-
 1. **Reunify the Crown**: Gather Seven Shards
 2. **Cure Queen**: Reverse crystal corruption
 3. **Suppress Truth**: Hide Aetheron's identity
 4. **Shadow War**: Combat Aquabyssos infiltration
 5. **Succession Crisis**: Find legitimate heir ### Political Intrigue
-
 
 1. **The Missing Prince**: Find the heir
 2. **Noble Conspiracy**: Prevent coup
@@ -119,13 +116,11 @@ After Aetheron's Crown shattered into Seven Shards:
 4. **Succession Games**: Choose next ruler
 5. **The Queen's Secret**: Discover her plan ### Military Missions
 
-
 1. **Border Defense**: Repel invasion
 2. **Crystal Convoy**: Protect shipment
 3. **Traitor Hunt**: Find military moles
 4. **Royal Rescue**: Save captured noble
 5. **Preemptive Strike**: Attack enemy first ### Investigative Quests
-
 
 1. **Shard Location**: Find remaining pieces
 2. **Corruption Source**: Trace the plague
@@ -133,17 +128,15 @@ After Aetheron's Crown shattered into Seven Shards:
 4. **Economic Sabotage**: Stop Consortium
 5. **Prophecy Prevention**: Avert disaster ### Related Items
 
+- [[Crown Fragment - Pieces of original
+- [Royal Seal]] - Authority symbol
+- [[Crystal Weapons - Military equipment
+- [Succession Documents]] - Legal claims
+- [[Shadow Detection Orb - Security tool --- *"The Crown endures not through divine right, but through the careful balance of fear, hope, and the promise that tomorrow might be better than today—if you just trust us one more time."* ## Player-Facing Summary The Crown is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Crown as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crown. ## Related Notes - [Similar Topic 1]]
 
-- [[Crown Fragment]] - Pieces of original
-- [[Royal Seal]] - Authority symbol
-- [[Crystal Weapons]] - Military equipment
-- [[Succession Documents]] - Legal claims
-- [[Shadow Detection Orb]] - Security tool --- *"The Crown endures not through divine right, but through the careful balance of fear, hope, and the promise that tomorrow might be better than today—if you just trust us one more time."* ## Player-Facing Summary The Crown is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Crown as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crown. ## Related Notes - [[Similar Topic 1]]
-
-- [[Contrasting Approach]]
-- [[Advanced Version]]
+- [[Contrasting Approach
+- [Advanced Version]]
 - [[Historical Context]]
-
 
 ## Notes
 

@@ -1,0 +1,74 @@
+---
+
+title: faerunian-kelemvor-scag (deities)
+type: note
+tags: 
+- note
+
+created: '2025-01-15'
+modified: '2025-01-15'
+aliases: ["faerunian-kelemvor-scag (deities)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
+---
+
+ # faerunian-kelemvor-scag ---
+
+## Description
+
+Detailed description pending.
+title: faerunian kelemvor scag
+aliases:
+- Kelemvor
+- The Lord of the Dead
+- The Judge of the Damned
+
+type: note
+tags:
+- ttrpg-cli/deity/faerunian
+- research
+- world/both
+- active
+- note
+- status/in-progress
+- importance/core
+- ttrpg-cli/compendium/src/5e/scag
+
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-deity
+obsidian UIMode: preview
+updated: '2025-08-12T23:37:33.962617'
+world: Both
+
+--- # Kelemvor
+
+*Source: Sword Coast Adventurer's Guide p. 21, Xanathar's Guide to Everything p. 19* ![](/03_Mechanics/CLI/deities/img/scag-symbol-of-kelemvor.webp#symbol) - **Alternate Names**: The Lord of the Dead, The Judge of the Damned
+- **Alignment**: Lawful Neutral
+- **Domains**: Death, Grave
+- **Pantheon**: Faerûnian
+- **Symbol**: Upright skeletal arm holding balanced scales Kelemvor is seen as a just, fair, and comforting god of death. Death comes to all, and when it occurs Kelemvor is there to take each soul by the hand and lead it to the proper afterlife. Kelemvor's priests teach that those who revere the gods according to the rites of their religion have done their proper service and will be offered the afterlife they seek. The faithful of Kelemvor provide people with peaceful transitions into the care of the Lord of the Dead. They help the dying put their affairs in order, and they officiate at funeral rites for those who can't afford the lavish ceremonies of their faith. The tenets of Kelemvor's faithful compel them to forestall or prevent untimely deaths whenever possible. Different sects and worshipers define "untimely" in different ways. One group might concentrate on stopping the spread of disease, another on the prevention of murder, and yet another on eliminating the scourge of the undead. In fact, all the faithful of Kelemvor despise the undead and work to some degree to eliminate them, for undead of any sort are seen as an abomination of the natural order. This belief obviously puts Kelemvor's faithful at odds with necromancers, priests of Myrkul, and others who promote the creation of the undead, and it also causes conflict from unexpected sources. For instance, priests of Kelemvor routinely destroy any writings about the creation of the undead that they find - an act that offends those who value knowledge for its own sake, such as the faithful of Oghma and Deneir. And there also exist undead that aren't evil, such as the baelnorn, which the elves consider holy. Kelemvor's devotees seek the end of such beings regardless of that fact. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Faerunian kelemvor scag is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of faerunian kelemvor scag as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around faerunian kelemvor scag. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is blackmailing information for love
+
+- A document has gone missing and evil awakens
+- A journal reveals a conspiracy about this place
+
+## Notes
+
+*Additional notes*
+
+#mechanics/mechanics
+#story/plot
+#story/story
+#story/lore
+#world/world
+#world/setting
+#world/place
+#gameplay/adventure
+#meta/reference

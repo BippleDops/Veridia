@@ -2,7 +2,7 @@
 
 title: Crystal Markets
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,12 +42,11 @@ updated: '2025-08-13T01:18:35.080602+00:00'
 
 - The authorities needs help delivering before the festival
 - A shipment has gone missing and chaos spreads
-- Someone is hunting information for power ## Related Notes - [[Similar Topic 1]]
+- Someone is hunting information for power ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## References - [[Traveling Merchant Finn (D&D_Statblocks)]]
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## References - [[Traveling Merchant Finn (D&D_Statblocks)]]
 
 ## Notes
 

@@ -1,8 +1,8 @@
 ---
 
 title: Skyforge
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
 - both
 - aerial
@@ -12,7 +12,7 @@ tags:
 - active
 - complete
 - status/in-progress
-- [[Aethermoor]]
+- [Aethermoor]]
 - bloodline
 created: '2025-08-11'
 modified: '2025-08-14'
@@ -37,7 +37,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -65,7 +65,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[region]]s
+- Describe how this culture exists in other [region]]s
 
 ### Evolution Improvements
 
@@ -91,7 +91,7 @@ Skyforge is a sky-borne element of the setting, known for brass fittings and clo
 
 Legends speak of Skyforge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Skyforge.
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -118,6 +118,6 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Quest - The Lost Expedition]]
-- [[Ancient Skyforge Complex]]
-- [[Ancient Skyforge]]
+- [Quest - The Lost Expedition]]
+- [[Ancient Skyforge Complex
+- [Ancient Skyforge]]

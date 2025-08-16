@@ -1,22 +1,22 @@
 ---
 enhanced: true
 tags: [enhanced, 06_sessions]
-created: 2025-08-15T16:41:33.701371
-modified: 2025-08-15T16:41:33.701376
+created: "2025-08-15T16:41:33.701371"
+modified: "2025-08-15T16:41:33.701376"
 aliases: [12-credits (players-handbook-2024)]
 ---
 
 ## Table of Contents
-- [[#Description|Description]]
-- [[#Notes|Notes]]
-- [[#Prep Checklist|Prep Checklist]]
-- [[#Npcs Needed|Npcs Needed]]
-- [[#Locations|Locations]]
-- [[#Encounters|Encounters]]
-- [[#Props|Props]]
-- [[#Rules|Rules]]
-- [[#Campaign Connection|Campaign Connection]]
-- [[#See Also|See Also]]
+- [[#Description|Description
+- [#Notes|Notes]]
+- [[#Prep Checklist|Prep Checklist
+- [#Npcs Needed|Npcs Needed]]
+- [[#Locations|Locations
+- [#Encounters|Encounters]]
+- [[#Props|Props
+- [#Rules|Rules]]
+- [[#Campaign Connection|Campaign Connection
+- [#See Also|See Also]]
 
 ---
 
@@ -63,18 +63,18 @@ world: Both
 > !] ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary 12 credits is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of 12 credits as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 12 credits. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A document has gone missing and evil awakens
 
 - Someone is blackmailing a witness for money
-- Someone is protecting a witness for power ## Related Notes - [[Similar Topic 1]]
+- Someone is protecting a witness for power ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 
 *Additional notes*
 
 > [!dm] DM Note
-> Hidden treasure can be found here with a DC 15 Investigation check
+> Hidden treasure can be found here with a **DC 15** Investigation check
 
 ## Prep Checklist
 
@@ -105,9 +105,9 @@ Holds a clue about the ancient prophecy
 -
 
 ## Related Content
-- [[audio_fit_report]]
-- [[audio_fit_report_1]]
-- [[SVG_REPLACEMENT_REPORT]]
+- [[audio_fit_report
+- [audio_fit_report_1]]
+- [[SVG_REPLACEMENT_REPORT
 
 ## Game Mechanics
 - **Combat**: See ACX p.189-198
@@ -123,103 +123,103 @@ Holds a clue about the ancient prophecy
 
 ## Connections
 
-- Affected by [[NPC00740_Fiora_Xendar_the_Strong]]
-- Parallels [[04-chapter-4-creating-adventures (dungeon-masters-guide-2024)]]
-- Compare with [[ITEM00038_Blazing_Hammer_of_Power]]
-- Originates from [[LORE00172_Prophecies_Entry_173]]
-- Affected by [[QUEST00138_Personal_Quest_139]]
-- Related: [[The Seven Seals]]
-- Compare with [[#Points of Interest]]
-- Influences [[02_Worldbuilding_People_Brother_Marcus_the_Willing]]
-- Influences [[staff-xphb (items)]]
-- Requires [[NPC01657_Dara_Dawnstrider_the_Mystic]]
-- Requires [[The Enforcement Citadel (D&D_References)]]
-- Leads to [[Thalassa Lightbringer]]
-- Parallels [[Iron Bands of Bilarro Xdmg]]
-- Related: [[The Rumor Mill 2]]
+- Affected by [NPC00740_Fiora_Xendar_the_Strong]]
+- Parallels [[04-chapter-4-creating-adventures (dungeon-masters-guide-2024)
+- Compare with [ITEM00038_Blazing_Hammer_of_Power]]
+- Originates from [[LORE00172_Prophecies_Entry_173
+- Affected by [QUEST00138_Personal_Quest_139]]
+- Related: [[The Seven Seals
+- Compare with [#Points of Interest]]
+- Influences [[02_Worldbuilding_People_Brother_Marcus_the_Willing
+- Influences [staff-xphb (items)]]
+- Requires [[NPC01657_Dara_Dawnstrider_the_Mystic
+- Requires [The Enforcement Citadel (D&D_References)]]
+- Leads to [[Thalassa Lightbringer
+- Parallels [Iron Bands of Bilarro Xdmg]]
+- Related: [[The Rumor Mill 2
 - Influences
-- Related: [[elven-angharradh-mtf (deities)]]
-- Originates from [[Walloping Ammunition Xdmg]]
-- Requires [[The Artisans' Collective of Master Crafters]]
-- Parallels [[Sky_Events_Pack_E]]
-- Requires [[celtic-oghma (deities)]]
-- Affected by [[gith-tables-githyanki-flaws-mtf (tables)]]
-- Connects to [[Symbol Heraldry Magical Component Manufacturers Guil V1 Magical Component Manufacturers Guil.svg]]
-- Connects to [[Void Sensors]]
-- Requires [[Assets Locations Location City Observation Tender Clara Observation Tender Clara.svg]]
-- See also: [[Ogremoch Pota]]
-- Compare with [[The Reflection Pools 2]]
-- Affected by [[LOC00110_Wilderness_Location_111]]
-- Originates from [[Memory Bank Central 2]]
-- Related: [[LOC00229_Cities_Location_230]]
-- Influences [[Malachite Xdmg]]
-- Compare with [[step_092 (phase_075)]]
-- Leads to [[Victoria Harbormane (D&D_References)]]
-- See also: [[step_008 (phase_073)]]
-- Leads to [[step_086 (phase_061)]]
-- See also: [[Location City Calm Soothingwave V1 Calm Soothingwave.svg]]
-- Influences [[step_033 (phase_019)]]
-- Influences [[LOC00174_Dungeons_Location_175]]
-- Influences [[step_099 (phase_046)]]
-- Originates from [[step_006 (phase_069)]]
-- Requires [[step_092 (phase_078)]]
-- Compare with [[Quest - The Corruption Investigation_1 (01_Adventures)]]
-- Influences [[Potion of Necrotic Resistance Xdmg]]
-- Originates from [[step_041 (phase_078)]]
-- Affected by [[Engineer Shadowbuild]]
-- Compare with [[Artisan's Row]]
-- See also: [[Tradeway Road]]
-- Related: [[Portrait NPC Defense Captain Ironguard Defense Captain Ironguard.svg]]
-- Compare with [[step_060 (phase_042)]]
-- Related: [[Festival Ground (D&D_References)]]
-- Affected by [[ITEM00401_Dragon_Scale_Gauntlets_of_Protection]]
-- Compare with [[step_053 (phase_014)]]
-- See also: [[Abbot Serenity Cloudheart]]
-- Leads to [[step_083 (phase_042)]]
-- Compare with [[Relentless Hex Xge]]
-- Leads to [[cleric-xphb-nature-domain (classes)]]
-- Requires [[Living Coral Architecture]]
-- Requires [[Labor Organization (Operations)]]
+- Related: [elven-angharradh-mtf (deities)]]
+- Originates from [[Walloping Ammunition Xdmg
+- Requires [The Artisans' Collective of Master Crafters]]
+- Parallels [[Sky_Events_Pack_E
+- Requires [celtic-oghma (deities)]]
+- Affected by [[gith-tables-githyanki-flaws-mtf (tables)
+- Connects to [Symbol Heraldry Magical Component Manufacturers Guil V1 Magical Component Manufacturers Guil.svg]]
+- Connects to [[Void Sensors
+- Requires [Assets Locations Location City Observation Tender Clara Observation Tender Clara.svg]]
+- See also: [[Ogremoch Pota
+- Compare with [The Reflection Pools 2]]
+- Affected by [[LOC00110_Wilderness_Location_111
+- Originates from [Memory Bank Central 2]]
+- Related: [[LOC00229_Cities_Location_230
+- Influences [Malachite Xdmg]]
+- Compare with [[step_092 (phase_075)
+- Leads to [Victoria Harbormane (D&D_References)]]
+- See also: [[step_008 (phase_073)
+- Leads to [step_086 (phase_061)]]
+- See also: [[Location City Calm Soothingwave V1 Calm Soothingwave.svg
+- Influences [step_033 (phase_019)]]
+- Influences [[LOC00174_Dungeons_Location_175
+- Influences [step_099 (phase_046)]]
+- Originates from [[step_006 (phase_069)
+- Requires [step_092 (phase_078)]]
+- Compare with [[Quest - The Corruption Investigation_1 (01_Adventures)
+- Influences [Potion of Necrotic Resistance Xdmg]]
+- Originates from [[step_041 (phase_078)
+- Affected by [Engineer Shadowbuild]]
+- Compare with [[Artisan's Row
+- See also: [Tradeway Road]]
+- Related: [[Portrait NPC Defense Captain Ironguard Defense Captain Ironguard.svg
+- Compare with [step_060 (phase_042)]]
+- Related: [[Festival Ground (D&D_References)
+- Affected by [ITEM00401_Dragon_Scale_Gauntlets_of_Protection]]
+- Compare with [[step_053 (phase_014)
+- See also: [Abbot Serenity Cloudheart]]
+- Leads to [[step_083 (phase_042)
+- Compare with [Relentless Hex Xge]]
+- Leads to [[cleric-xphb-nature-domain (classes)
+- Requires [Living Coral Architecture]]
+- Requires [[Labor Organization (Operations)
 - Requires
-- Connects to [[ITEM00307_Shadow_Dagger_of_Speed]]
-- Connects to [[NPC0040_Aldric_Ironforge]]
-- Influences [[step_043 (phase_084)]]
-- Compare with [[blackrazor-xdmg (items)]]
-- Originates from [[Assets Locations Location City Court Manager Noble V1 Court Manager Noble.svg]]
-- Originates from [[Quest - The Lost Expedition_1 (01_Adventures)]]
-- Affected by [[MON00137_Aberrations_Creature_138]]
+- Connects to [ITEM00307_Shadow_Dagger_of_Speed]]
+- Connects to [[NPC0040_Aldric_Ironforge
+- Influences [step_043 (phase_084)]]
+- Compare with [[blackrazor-xdmg (items)
+- Originates from [Assets Locations Location City Court Manager Noble V1 Court Manager Noble.svg]]
+- Originates from [[Quest - The Lost Expedition_1 (01_Adventures)
+- Affected by [MON00137_Aberrations_Creature_138]]
 - Originates from
-- Originates from [[LOC00039_Planes_Location_40]]
-- Related: [[Consequence Chain Name 2 (02_Worldbuilding)]]
+- Originates from [[LOC00039_Planes_Location_40
+- Related: [Consequence Chain Name 2 (02_Worldbuilding)]]
 - See also:
-- Affected by [[Glowcap Mushroom]]
-- Compare with [[Policy Analyst Shadowthink]]
-- Connects to [[Chief Surgeon Dr. Coral Mindsplice]]
-- Originates from [[Luck Spirit 2]]
-- Influences [[step_097 (phase_047)]]
-- Influences [[darkmantle-xmm (aberration)]]
-- Originates from [[Lute Xphb]]
-- Affected by [[ITEM01489_Sturdy_Tool_Kit_of_Convenience]]
-- Requires [[FAC00095_Cults_96]]
-- Affected by [[step_048 (phase_060)]]
-- Leads to [[Market Master Cornelius Driftwood (D&D_References)]]
-- Related: [[LOC00024_Dungeons_Location_25]]
+- Affected by [[Glowcap Mushroom
+- Compare with [Policy Analyst Shadowthink]]
+- Connects to [[Chief Surgeon Dr. Coral Mindsplice
+- Originates from [Luck Spirit 2]]
+- Influences [[step_097 (phase_047)
+- Influences [darkmantle-xmm (aberration)]]
+- Originates from [[Lute Xphb
+- Affected by [ITEM01489_Sturdy_Tool_Kit_of_Convenience]]
+- Requires [[FAC00095_Cults_96
+- Affected by [step_048 (phase_060)]]
+- Leads to [[Market Master Cornelius Driftwood (D&D_References)
+- Related: [LOC00024_Dungeons_Location_25]]
 - Connects to
-- Related: [[ITEM00288_Frost_Bow_of_the_Ancients]]
-- Originates from [[QUEST00174_Personal_Quest_175]]
-- Parallels [[step_045 (phase_046)]]
+- Related: [[ITEM00288_Frost_Bow_of_the_Ancients
+- Originates from [QUEST00174_Personal_Quest_175]]
+- Parallels [[step_045 (phase_046)
 - Requires
-- Compare with [[beguiling-arrow-xge (optional-features)]]
-- See also: [[bard-xphb-college-of-swords-xge (classes)]]
-- Originates from [[Ceremonial Gold Armor With Black Pearls Xdmg]]
-- Compare with [[Marquis Benedict Riversend]]
-- Compare with [[step_055 (phase_060)]]
-- Parallels [[Institute for Reality Studies Researchers 2]]
+- Compare with [beguiling-arrow-xge (optional-features)]]
+- See also: [[bard-xphb-college-of-swords-xge (classes)
+- Originates from [Ceremonial Gold Armor With Black Pearls Xdmg]]
+- Compare with [[Marquis Benedict Riversend
+- Compare with [step_055 (phase_060)]]
+- Parallels [[Institute for Reality Studies Researchers 2
 - Parallels
-- Originates from [[Quest - The Silver Revolution_1 (01_Adventures)]]
-- Compare with [[Port Meridian - Market Square 2]]
-- Connects to [[step_098 (phase_018)]]
-- Parallels [[Assets Locations Location City Archive Guardian Thomas Archive Guardian Thomas.svg]]
-- Originates from [[flamethrower-coach-xdmg (objects)]]
-- Leads to [[potion-of-fire-giant-strength-xdmg (items)]]
-- Requires [[Swarm of Lemures Xmm]]
+- Originates from [Quest - The Silver Revolution_1 (01_Adventures)]]
+- Compare with [[Port Meridian - Market Square 2
+- Connects to [step_098 (phase_018)]]
+- Parallels [[Assets Locations Location City Archive Guardian Thomas Archive Guardian Thomas.svg
+- Originates from [flamethrower-coach-xdmg (objects)]]
+- Leads to [[potion-of-fire-giant-strength-xdmg (items)
+- Requires [Swarm of Lemures Xmm]]

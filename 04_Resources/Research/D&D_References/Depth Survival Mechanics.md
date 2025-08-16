@@ -2,7 +2,7 @@
 
 title: Depth Survival Mechanics
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -48,15 +48,14 @@ world: Both
 
 --- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Complete Aquabyssos Survival System > *"The depths change you. First your body, then your mind, finally your soul."* #### Depth Zones & Effects | Depth Range | Zone Name | Base DC | Pressure Effects |
 
-
 |-------------|-----------|---------|------------------|
 | 0-100 ft | Surface Zone | 10 | None |
 | 100-500 ft | Twilight Zone | 12 | Disadvantage on Perception |
 | 500-1,000 ft | Pressure Zone | 14 | 1 exhaustion/hour without protection |
-| 1,000-3,000 ft | Crush Zone | 16 | 1d6 pressure damage/10 min |
-| 3,000-6,000 ft | Abyss Zone | 18 | 2d6 pressure damage/10 min |
-| 6,000-10,000 ft | Hadal Zone | 20 | 3d6 pressure damage/10 min |
-| 10,000+ ft | Void Zone | 22+ | 4d6 pressure damage + special | #### Pressure Saves```Constitution Save: DC = 10 + (Depth in thousands of feet)
+| 1,000-3,000 ft | Crush Zone | 16 | `dice: 1d6` pressure damage/10 min |
+| 3,000-6,000 ft | Abyss Zone | 18 | `dice: 2d6` pressure damage/10 min |
+| 6,000-10,000 ft | Hadal Zone | 20 | `dice: 3d6` pressure damage/10 min |
+| 10,000+ ft | Void Zone | 22+ | `dice: 4d6` pressure damage + special | #### Pressure Saves```Constitution Save: DC = 10 + (Depth in thousands of feet)
 
 Failure Effects:
 - 1st Failure: 1 level exhaustion
@@ -70,7 +69,6 @@ Characters accumulate AP through exposure to depths: AP Gain Rate:
 - Forced adaptation: 1 AP per failed pressure save
 - Magical adaptation: Variable based on source
 - Crystal exposure: 1 AP per corruption level #### Adaptation Stages | AP Range | Stage | Physical Changes | Mechanical Effects |
-
 
 |----------|-------|------------------|-------------------|
 | 0-10 | Surface Normal | None | Standard character |
@@ -93,15 +91,14 @@ Characters accumulate AP through exposure to depths: AP Gain Rate:
 - **Stage 5**: -4 CHA with non-adapted, alien appearance
 - **Stage 6**: Permanent transformation, surface = death #### Shadow Autonomy Levels | Level | Shadow Behavior | Trigger Condition | Control DC |
 
-
 |-------|----------------|-------------------|------------|
 | 0 | Normal | Standard shadow | N/A |
-| 1 | Twitching | Failed WIS save in Aquabyssos | DC 10 WIS to control |
-| 2 | Delayed | Moves 1 second after owner | DC 12 WIS to sync |
-| 3 | Independent Movement | High stress or fear | DC 14 WIS to command |
-| 4 | Conscious | Makes different gestures | DC 16 WIS to suppress |
-| 5 | Rebellious | Actively opposes owner | DC 18 WIS to override |
-| 6 | Fully Autonomous | Can separate from owner | DC 20 WIS to prevent separation | #### Shadow Separation Consequences
+| 1 | Twitching | Failed WIS save in Aquabyssos | **DC 10** WIS to control |
+| 2 | Delayed | Moves 1 second after owner | **DC 12** WIS to sync |
+| 3 | Independent Movement | High stress or fear | **DC 14** WIS to command |
+| 4 | Conscious | Makes different gestures | **DC 16** WIS to suppress |
+| 5 | Rebellious | Actively opposes owner | **DC 18** WIS to override |
+| 6 | Fully Autonomous | Can separate from owner | **DC 20** WIS to prevent separation | #### Shadow Separation Consequences
 
 When shadow achieves full autonomy:
 - Owner loses 2 STR permanently
@@ -113,26 +110,24 @@ When shadow achieves full autonomy:
 
 Special zones where neither air nor water breathing works properly: | Interface Type | Breathing Difficulty | Required Save | Failure Effect |
 |---------------|---------------------|---------------|----------------|
-| Bubble Zones | Half effectiveness | CON DC 12 | 1 exhaustion |
-| Pressure Mist | -5 to breath duration | CON DC 14 | Choking |
-| Liquid Air | Roll twice, take lower | CON DC 15 | Drowning in air |
-| Solid Water | Cannot breathe | CON DC 18 | Suffocation | #### Ascending Consequences
+| Bubble Zones | Half effectiveness | CON **DC 12** | 1 exhaustion |
+| Pressure Mist | -5 to breath duration | CON **DC 14** | Choking |
+| Liquid Air | Roll twice, take lower | CON **DC 15** | Drowning in air |
+| Solid Water | Cannot breathe | CON **DC 18** | Suffocation | #### Ascending Consequences
 
 Rising toward surface causes mental/physical breakdown: Ascension Rate Penalties:
 - 100 ft/hour: No effect
-- 500 ft/hour: DC 12 CON save or confused
-- 1,000 ft/hour: DC 15 CON save or 1d6 psychic damage
-- 2,000+ ft/hour: DC 18 CON save or insanity
-- Instant (teleport): DC 20 CON save or death #### Depth Sickness Stages | Stage | Symptoms | Mechanical Effect | Recovery Time |
-
+- 500 ft/hour: **DC 12** CON save or confused
+- 1,000 ft/hour: **DC 15** CON save or `dice: 1d6` psychic damage
+- 2,000+ ft/hour: **DC 18** CON save or insanity
+- Instant (teleport): **DC 20** CON save or death #### Depth Sickness Stages | Stage | Symptoms | Mechanical Effect | Recovery Time |
 
 |-------|----------|------------------|---------------|
 | 1 | Nausea, headache | Disadvantage on ability checks | 1 hour |
-| 2 | Bleeding from ears/nose | -2 to all rolls, 1d4 damage/hour | 8 hours |
+| 2 | Bleeding from ears/nose | -2 to all rolls, `dice: 1d4` damage/hour | 8 hours |
 | 3 | Severe disorientation | INT and WIS scores halved | 24 hours |
-| 4 | Blood boiling | 2d6 damage/minute | 1 week |
-| 5 | Complete breakdown | Death in 1d4 rounds | Permanent | #### Time Variance by Depth | Depth | Time Flow | 1 Day Surface = | Aging Rate |
-
+| 4 | Blood boiling | `dice: 2d6` damage/minute | 1 week |
+| 5 | Complete breakdown | Death in `dice: 1d4` rounds | Permanent | #### Time Variance by Depth | Depth | Time Flow | 1 Day Surface = | Aging Rate |
 
 |-------|-----------|-----------------|------------|
 | Surface | Normal | 24 hours | Normal |
@@ -140,10 +135,10 @@ Rising toward surface causes mental/physical breakdown: Ascension Rate Penalties
 | 3,000 ft | 0.75x | 18 hours | 75% |
 | 6,000 ft | 0.5x | 12 hours | 50% |
 | 10,000 ft | 0.25x | 6 hours | 25% |
-| 20,000 ft | Variable | 1d24 hours | Random |
-| 30,000 ft | Backwards | -24 hours | Reverse | #### Tide Schedule & Effects **Occurrence**: Every 2d6+10 days
+| 20,000 ft | Variable | `dice: 1d24` hours | Random |
+| 30,000 ft | Backwards | -24 hours | Reverse | #### Tide Schedule & Effects **Occurrence**: Every `dice: 2d6`+10 days
 
-**Duration**: 2d4 hours
+**Duration**: `dice: 2d4` hours
 **Warning Signs**: Water turns silver, whispers in the current | Tide Intensity | Memory Effect | Save DC | Failure Result |
 |---------------|--------------|---------|----------------|
 | Weak | Recent memories blur | WIS 10 | Forget last hour |
@@ -153,12 +148,11 @@ Rising toward surface causes mental/physical breakdown: Ascension Rate Penalties
 | Catastrophic | Complete memory rewrite | WIS 20 | New personality | #### Memory Tide Benefits
 
 Successfully saving against Memory Tides can grant:
-- Random skill proficiency (1d6 days)
+- Random skill proficiency (`dice: 1d6` days)
 - Knowledge of dead language
 - NPC's memories (plot relevant)
 - Hidden location awareness
 - Ancient spell knowledge #### Crystal Corruption Stages | Corruption Level | Physical Signs | Benefits | Drawbacks |
-
 
 |-----------------|---------------|----------|-----------|
 | 1-2 | Faint veins visible | +1 AC natural armor | -1 CHA |
@@ -167,7 +161,6 @@ Successfully saving against Memory Tides can grant:
 | 7-8 | 50% crystallized | Resistance to physical damage | -4 CHA, -10 ft speed |
 | 9 | 75% crystallized | Telepathy with corrupted | -5 CHA, disadvantage DEX |
 | 10 | Full transformation | Immortal crystal being | NPC control | #### Equipment | Item | Depth Rating | Duration | Cost | Weight |
-
 
 |------|-------------|----------|------|--------|
 | Basic Diving Suit | 500 ft | 4 hours | 500 gp | 30 lbs |
@@ -178,7 +171,6 @@ Successfully saving against Memory Tides can grant:
 | Adaptation Pills | Delays by 24 hrs | Single use | 100 gp | - |
 | Pressure Pearls | +2 to saves | While held | 250 gp | - |
 | Shadow Locks | Prevents separation | 8 hours | 500 gp | 1 lb | #### Magical Protection | Spell Level | Spell Name | Effect | Duration |
-
 
 |------------|------------|--------|----------|
 | 1st | Depth Tolerance | Ignore pressure to 500 ft | 1 hour |
@@ -203,7 +195,6 @@ Successfully saving against Memory Tides can grant:
 - Adapted: Full swim speed
 - Aquatic: Full speed + dash as bonus action #### Daily Survival Checks | Activity | Check Required | Failure Consequence |
 
-
 |----------|---------------|-------------------|
 | Wake up | CON save vs pressure | 1 exhaustion |
 | Travel | Athletics DC = 10 + depth/1000 | Half speed |
@@ -211,14 +202,12 @@ Successfully saving against Memory Tides can grant:
 | Combat | WIS save vs shadow | Shadow acts independently |
 | Sleep | WIS save vs nightmares | No long rest benefit | #### Emergency Procedures | Emergency | Response | Mechanics |
 
-
 |-----------|----------|-----------|
-| Suit Breach | Patch or ascend | 1d4 rounds until pressure damage |
+| Suit Breach | Patch or ascend | `dice: 1d4` rounds until pressure damage |
 | Shadow Revolt | Negotiate or fight | Opposed CHA or combat |
 | Memory Tide | Find shelter | Buildings grant advantage on saves |
 | Pressure Crush | Emergency ascend | Risk depth sickness vs death |
-| Time Loop | Break pattern | Investigation DC 20 to escape | ### 💰 Aquabyssos Currencies | Currency | Value | Source | Special Properties |
-
+| Time Loop | Break pattern | Investigation **DC 20** to escape | ### 💰 Aquabyssos Currencies | Currency | Value | Source | Special Properties |
 
 |----------|-------|--------|-------------------|
 | Sorrow Pearls | 1 gp | Crystallized tears | Currency in depths |
@@ -227,7 +216,6 @@ Successfully saving against Memory Tides can grant:
 | Pressure Gems | 50 gp | Compressed matter | Store pressure energy |
 | Depth Stones | 100 gp | Abyss minerals | Protect from pressure |
 | Dream Tokens | Variable | Nightmares | Pay for passage on Dream Rails | ### Depth Encounters (d20) | Roll | Encounter |
-
 
 |------|-----------|
 | 1-2 | Memory tide approaching |
@@ -242,7 +230,6 @@ Successfully saving against Memory Tides can grant:
 | 19 | Void current |
 | 20 | Beneficial anomaly | ### Adaptation Mutations (d12) | Roll | Mutation | Effect |
 
-
 |------|----------|--------|
 | 1 | Bioluminescent skin | Glow in dark, can't hide |
 | 2 | Transparent flesh | -2 CHA, +2 to intimidate |
@@ -251,7 +238,7 @@ Successfully saving against Memory Tides can grant:
 | 5 | Echolocation | Blindsight 30 ft, sensitive to thunder |
 | 6 | Pressure bladder | Float/sink at will |
 | 7 | Chromatophores | Camouflage +5 stealth |
-| 8 | Electric organs | 1d6 shock touch, 1/rest |
+| 8 | Electric organs | `dice: 1d6` shock touch, 1/rest |
 | 9 | Ampullae | Detect life 60 ft |
 | 10 | Lateral line | Detect movement in water 30 ft |
 | 11 | Nictitating membrane | Immune to blinding underwater |
@@ -274,11 +261,10 @@ Memory Integrity: []% Current Mutations:
 
 - Suit Type: ___________
 - Air/Water remaining: ___________
-- Protection items: ___________ --- *Remember: In Aquabyssos, survival isn't about staying unchanged—it's about controlling how you change.* ## Player-Facing Summary Depth Survival Mechanics is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Depth Survival Mechanics as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Depth Survival Mechanics. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The First Prophecy of Depths ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Complete Pressure Adaptation System]]
+- Protection items: ___________ --- *Remember: In Aquabyssos, survival isn't about staying unchanged—it's about controlling how you change.* ## Player-Facing Summary Depth Survival Mechanics is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Depth Survival Mechanics as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Depth Survival Mechanics. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The First Prophecy of Depths ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Complete Pressure Adaptation System
 
-- [[Complete_Pressure_Adaptation_System (D&D_References)]]
+- [Complete_Pressure_Adaptation_System (D&D_References)]]
 - [[Pressure_Weather_Events]]
-
 
 ## Notes
 

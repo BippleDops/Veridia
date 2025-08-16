@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -14,14 +14,8 @@ updated: '2025-08-13T12:34:15.741561+00:00'
 world: Aquabyssos
 ---
 
-
-
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-temple-guardian-marcus-the-drowned-temple-guardian-marcus-the-drowned.svg)
-
-
 
 ## Overview
 
@@ -49,9 +43,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]]
-
+- [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]]
+- [02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]]

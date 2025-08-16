@@ -2,7 +2,7 @@
 
 title: encounter-xphb (variant-rules)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -41,11 +41,11 @@ world: Both
 
 - A prisoner has gone missing and chaos spreads
 - Someone is searching for a witness for power
-- Strange disappearances suggest a curse ## Related Notes - [[Similar Topic 1]]
+- Strange disappearances suggest a curse ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## Scaling by Party Level
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## Scaling by Party Level
 
 - **Level 1-4**: Reduce enemies
 - **Level 5-10**: Standard difficulty
@@ -68,7 +68,6 @@ world: Both
 - Difficult terrain: +25% to difficulty
 - Advantage to enemies: +50% to difficulty
 - Surprise round: Double difficulty
-
 
 ## Notes
 

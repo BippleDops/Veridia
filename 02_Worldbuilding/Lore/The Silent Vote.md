@@ -1,10 +1,10 @@
 ---
 
 title: The Silent Vote
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - world/aquabyssos
 - content/faction
 - content/lore
@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -66,7 +66,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[region]]s
+- Describe how this culture exists in other [region]]s
 
 ### Sensory Improvements
 
@@ -80,11 +80,11 @@ The Silent Vote is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of The Silent Vote as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Silent Vote.
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## [[Historical Context]]
+## [Historical Context]]
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -103,16 +103,16 @@ Mentioned in The First Prophecy of Shadows
 ## Plot Hooks
 
 - A corpse reveals the truth about the government
-- A [[Merchant]] needs help investigating before dawn
+- A [[Merchant needs help investigating before dawn
 - A corpse reveals ancient history about the cult
 - A journal reveals ancient history about a local noble
 
-## Historical [[Time|[[Time]]line]]
+## Historical [[Time|[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[People]]s
+- War with indigenous [[Peoples
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -154,5 +154,5 @@ Mentioned in The First Prophecy of Shadows
 
 ## References
 
-- [[The Parliament of Nobody (Government_and_Parliament)]]
+- [The Parliament of Nobody (Government_and_Parliament)]]
 - [[The Parliament of Nobody]]

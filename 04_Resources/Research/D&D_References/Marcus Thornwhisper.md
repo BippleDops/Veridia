@@ -2,7 +2,7 @@
 
 title: Marcus Thornwhisper
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -44,10 +44,9 @@ updated: '2025-08-13T01:18:34.778677+00:00'
 
 - The authorities needs help finding before dawn
 - Strange accidents suggest a curse
-- Someone is protecting a witness for love ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Lady Vivienne the Unfrozen]]
+- Someone is protecting a witness for love ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Lady Vivienne the Unfrozen
 
-- [[Lady Vivienne the Unfrozen (D&D_References)]]
-
+- [Lady Vivienne the Unfrozen (D&D_References)]]
 
 ## Notes
 

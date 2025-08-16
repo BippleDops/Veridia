@@ -2,7 +2,7 @@
 
 title: Scream Saturation Rules (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -87,9 +87,8 @@ Special mechanical rules for environments where sonic magic has been overused, c
 2. Spell backfires, caster takes sonic damage
 3. Spell effect reversed or inverted
 4. Random spell effect from same school
-5. Area silence effect for 1d4 rounds
+5. Area silence effect for `dice: 1d4` rounds
 6. Temporary deafness for all within 30 feet ## Recovery Methods
-
 
 **Natural Recovery**: Saturation decreases by one level per specified time period
 **Magical Dispelling**: *Dispel Magic* can reduce saturation by one level
@@ -97,7 +96,7 @@ Special mechanical rules for environments where sonic magic has been overused, c
 **Acoustic Engineering**: Physical modifications to area acoustics
 **Time and Distance**: Moving to unsaturated areas allows recovery ## Detection Methods
 
-**Spellcraft Check**: DC 15 + saturation level to identify current saturation
+**Spellcraft Check**: **DC 15** + saturation level to identify current saturation
 **Magical Auras**: Detect magic reveals sonic disturbances
 **Physical Signs**: Visible sound waves, resonating objects, uncomfortable sensations
 **Test Spells**: Minor sonic cantrips can safely test saturation levels
@@ -154,7 +153,6 @@ Special mechanical rules for environments where sonic magic has been overused, c
 Use saturation rules to create interesting tactical challenges and environmental puzzles. Don't apply them so frequently that sonic magic becomes useless, but use them to force creative problem-solving and strategic resource management. Consider the narrative impact - areas of supernatural silence can be eerie and memorable, while the buildup to saturation creates tension around the use of powerful sonic magic. ## Player-Facing Summary Scream Saturation Rules is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Scream Saturation Rules as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Scream Saturation Rules. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Strange accidents suggest a curse
 
 - A journal reveals a betrayal about the cult ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

@@ -2,7 +2,7 @@
 
 title: Crystal Master Chorus Gemgrow
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -41,10 +41,9 @@ updated: '2025-08-13T01:18:34.791680+00:00'
 
 - A journal reveals ancient history about the government
 - A shipment has gone missing and truth emerges
-- An heirloom has gone missing and truth emerges ## References - [[Resonance Peaks]]
+- An heirloom has gone missing and truth emerges ## References - [[Resonance Peaks
 
-- [[Resonance Peaks (D&D_References)]]
-
+- [Resonance Peaks (D&D_References)]]
 
 ## Notes
 

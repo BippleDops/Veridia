@@ -1,13 +1,13 @@
 ---
 
 title: The Informant
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
 - content/adventure
 - content/lore
 - quest
-- world/[[Aethermoor]]
+- world/[Aethermoor]]
 - active
 - complete
 - status/in-progress
@@ -36,7 +36,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -82,7 +82,7 @@ The Informant is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of The Informant as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Informant.
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -112,5 +112,5 @@ Mentioned in The First Prophecy of Depths
 
 ## References
 
-- [[Quest - The Truth Unveiled]]
-- [[Quest - The Truth Unveiled_1 (01_Adventures)]]
+- [[Quest - The Truth Unveiled
+- [Quest - The Truth Unveiled_1 (01_Adventures)]]

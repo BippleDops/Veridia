@@ -4,12 +4,12 @@ created: '2025-08-08'
 created_by: auto-stub
 danger_level: Moderate
 estimated_duration: 3-5 sessions
-required_skills:
+required_skills: 
 - Navigation
 - Investigation
 - Survival
 status: complete
-tags:
+tags: 
 - aquabyssos
 - compass
 - complete
@@ -27,37 +27,31 @@ updated: '2025-08-13T12:34:16.669764+00:00'
 world: Aquabyssos
 ---
 
-
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-compass-quest-compass-quest.svg)
-
-
-
 
 # Compass Quest
 *The Search for the Depth-Walker's True Compass*
 
 > *"Every navigator in Aquabyssos knows their compass lies at depth. But there exists one compass that tells only truth—the Depth-Walker's True Compass, forged from the heart of a fallen star and blessed by the first depths. Find it, and you'll never be lost again... if you survive the finding."*
-> — [[02_Worldbuilding/Places/Navigator Sage Driftwood]], Master of the Deep Currents
+> — [[02_Worldbuilding/Places/Navigator Sage Driftwood, Master of the Deep Currents
 
 ## Overview
 
-The Compass Quest is a legendary treasure hunt that has consumed the dreams and lives of countless navigators throughout [[02_Worldbuilding/Places/Aquabyssos]]. The Depth-Walker's True Compass is more than a simple navigation tool—it is an artifact of immense power that can guide its bearer through the most treacherous depths, reveal hidden paths through reality itself, and even navigate the spaces between dimensions.
+The Compass Quest is a legendary treasure hunt that has consumed the dreams and lives of countless navigators throughout [02_Worldbuilding/Places/Aquabyssos]]. The Depth-Walker's True Compass is more than a simple navigation tool—it is an artifact of immense power that can guide its bearer through the most treacherous depths, reveal hidden paths through reality itself, and even navigate the spaces between dimensions.
 
-The quest begins when characters encounter strange magnetic anomalies that render normal navigation impossible. Ships find themselves traveling in circles, compasses spin wildly, and even experienced navigators become hopelessly lost. The only solution lies in finding the legendary True Compass, but the artifact has been lost for over three centuries, hidden somewhere in the crushing depths of the [[02_Worldbuilding/Places/The Hadal Depths]].
+The quest begins when characters encounter strange magnetic anomalies that render normal navigation impossible. Ships find themselves traveling in circles, compasses spin wildly, and even experienced navigators become hopelessly lost. The only solution lies in finding the legendary True Compass, but the artifact has been lost for over three centuries, hidden somewhere in the crushing depths of the [[02_Worldbuilding/Places/The Hadal Depths.
 
 This multi-part adventure combines exploration, investigation, underwater survival, and puzzle-solving as characters must piece together ancient clues, survive the deepest regions of the ocean, and confront the guardians that protect the compass from those deemed unworthy.
 
-The quest connects to larger campaign themes involving [[02_Worldbuilding/Lore/The Deep Mother]], [[02_Worldbuilding/Places/Crystal Forest|02 Worldbuilding/Places/Crystal Forest]], and the ancient history of [[02_Worldbuilding/Lore/Emperor Thalassius the Wise|02 Worldbuilding/Lore/Emperor Thalassius The Wise]], whose court navigators first created the True Compass during the golden age of Aquabyssos.
+The quest connects to larger campaign themes involving [02_Worldbuilding/Lore/The Deep Mother]], [[02_Worldbuilding/Places/Crystal Forest|02 Worldbuilding/Places/Crystal Forest, and the ancient history of [02_Worldbuilding/Lore/Emperor Thalassius the Wise|02 Worldbuilding/Lore/Emperor Thalassius The Wise]], whose court navigators first created the True Compass during the golden age of Aquabyssos.
 
 ## Quest Background and History
 
 ### The Origin of the True Compass
 
 **The Star-Fall Event** (1,200 years ago):
-During the reign of [[02_Worldbuilding/People/Emperor Thalassius the Wise]], a massive star fell from the surface world above, crashing through the ocean depths and coming to rest in what is now the deepest part of the [[02_Worldbuilding/Places/The Hadal Depths]]. The star's core contained a unique crystalline substance that exhibited perfect magnetic properties—it always pointed toward "true direction" rather than magnetic north.
+During the reign of [[02_Worldbuilding/People/Emperor Thalassius the Wise, a massive star fell from the surface world above, crashing through the ocean depths and coming to rest in what is now the deepest part of the [02_Worldbuilding/Places/The Hadal Depths]]. The star's core contained a unique crystalline substance that exhibited perfect magnetic properties—it always pointed toward "true direction" rather than magnetic north.
 
 **Master Navigator Depth-Walker Arcturus**:
 The court's greatest navigator, Arcturus the Depth-Walker, recognized the star-metal's potential and spent seven years crafting the perfect compass. Using ancient forging techniques and blessings from the deepest currents, he created a device that could navigate not just through water, but through the layers of reality itself.
@@ -65,15 +59,15 @@ The court's greatest navigator, Arcturus the Depth-Walker, recognized the star-m
 **The Compass's Powers**:
 - **True Navigation**: Always points toward the bearer's intended destination
 - **Depth Mastery**: Provides perfect awareness of current depth and pressure conditions
-- **Reality Navigation**: Can detect and navigate [[02_Worldbuilding/Lore/Reality Merge Zones]]
-- **Dimensional Paths**: Reveals hidden passages between Aquabyssos and [[02_Worldbuilding/Places/Aethermoor]]
+- **Reality Navigation**: Can detect and navigate [[02_Worldbuilding/Lore/Reality Merge Zones
+- **Dimensional Paths**: Reveals hidden passages between Aquabyssos and [02_Worldbuilding/Places/Aethermoor]]
 - **Danger Sense**: The compass needle trembles when approaching extreme hazards
 - **Memory Navigation**: Can guide the bearer to locations from recovered memories
 
 ### The Loss of the Compass
 
 **The Deep Betrayal** (900 years ago):
-Arcturus's apprentice, Navigator Meridian the Ambitious, attempted to steal the compass during a deep expedition. The theft went wrong when they encountered a massive [[02_Worldbuilding/Lore/Deep Mother]] manifestation. In the ensuing chaos, both navigators were pulled into the deepest trenches, and the compass was lost.
+Arcturus's apprentice, Navigator Meridian the Ambitious, attempted to steal the compass during a deep expedition. The theft went wrong when they encountered a massive [[02_Worldbuilding/Lore/Deep Mother manifestation. In the ensuing chaos, both navigators were pulled into the deepest trenches, and the compass was lost.
 
 **Centuries of Searching**:
 Since then, hundreds of expeditions have attempted to recover the True Compass. Most never return from the depths, and those who do bring back only fragmented stories of impossible currents, guardian creatures that speak in riddles, and a massive crystalline structure that appears and disappears based on unknown patterns.
@@ -86,7 +80,7 @@ The quest has taken on new urgency as magnetic anomalies have begun appearing th
 ### Phase 1: The Magnetic Mystery
 
 **Triggering Events**:
-- Ships reporting compass malfunctions near [[02_Worldbuilding/Places/Port Meridian]]
+- Ships reporting compass malfunctions near [02_Worldbuilding/Places/Port Meridian]]
 - Trade vessels becoming lost despite experienced navigators
 - Strange magnetic storms in previously calm waters
 - Reports of compasses pointing toward the deepest ocean trenches
@@ -94,16 +88,16 @@ The quest has taken on new urgency as magnetic anomalies have begun appearing th
 **Investigation Opportunities**:
 - Interview affected navigators and ship captains
 - Examine damaged or erratic navigation equipment
-- Research historical records in the [[02_Worldbuilding/Places/Parliament of Echoes]] archives
-- Consult with [[02_Worldbuilding/People/Master of Currents Zephyr]] about current anomalies
-- Speak with [[02_Worldbuilding/Places/Navigator Sage Driftwood]] about navigation legends
+- Research historical records in the [[02_Worldbuilding/Places/Parliament of Echoes archives
+- Consult with [02_Worldbuilding/People/Master of Currents Zephyr]] about current anomalies
+- Speak with [[02_Worldbuilding/Places/Navigator Sage Driftwood about navigation legends
 
 **Key Discoveries**:
-- The anomalies form a pattern pointing toward [[02_Worldbuilding/Places/The Hadal Depths]]
+- The anomalies form a pattern pointing toward [02_Worldbuilding/Places/The Hadal Depths]]
 - Historical records mention the Depth-Walker's True Compass
 - Ancient star charts show the location of the star-fall site
 - Several recent expeditions have attempted to reach the compass's last known location
-- A surviving member of the most recent expedition, [[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]], may have crucial information
+- A surviving member of the most recent expedition, [[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer, may have crucial information
 
 ### Phase 2: Gathering the Expedition
 
@@ -122,17 +116,17 @@ The quest has taken on new urgency as magnetic anomalies have begun appearing th
 - **Crystal Resonance Specialist**: To handle the compass's star-metal properties
 
 **Potential Allies**:
-- [[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]: Veteran deep explorer
-- [[02_Worldbuilding/People/Engineer Brass Gearspin|02 Worldbuilding/People/Engineer Brass Gearspin]]: Pressure technology expert
-- [[02_Worldbuilding/People/Antiquarian Eliza Tidecaller|02 Worldbuilding/People/Antiquarian Eliza Tidecaller]]: Historical researcher
-- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]]: Deep void specialist
-- [[02_Worldbuilding/People/Master Smith Vulcan Deepforge|02 Worldbuilding/People/Master Smith Vulcan Deepforge]]: Metalworking expert for compass analysis
+- [02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]: Veteran deep explorer
+- [[02_Worldbuilding/People/Engineer Brass Gearspin|02 Worldbuilding/People/Engineer Brass Gearspin: Pressure technology expert
+- [02_Worldbuilding/People/Antiquarian Eliza Tidecaller|02 Worldbuilding/People/Antiquarian Eliza Tidecaller]]: Historical researcher
+- [[02_Worldbuilding/People/Prophet Nerida Voidgazer: Deep void specialist
+- [02_Worldbuilding/People/Master Smith Vulcan Deepforge|02 Worldbuilding/People/Master Smith Vulcan Deepforge]]: Metalworking expert for compass analysis
 
 **Opposition and Complications**:
 - Other expeditions competing for the same prize
-- [[02_Worldbuilding/Groups/The Depth Wardens|02 Worldbuilding/Groups/The Depth Wardens]] may try to prevent civilian access to dangerous depths
-- [[02_Worldbuilding/Groups/The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]] wants to claim the compass for profit
-- [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]] has their own mysterious interest in the artifact
+- [[02_Worldbuilding/Groups/The Depth Wardens|02 Worldbuilding/Groups/The Depth Wardens may try to prevent civilian access to dangerous depths
+- [02_Worldbuilding/Groups/The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]] wants to claim the compass for profit
+- [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy has their own mysterious interest in the artifact
 
 ### Phase 3: The Descent to the Hadal Depths
 
@@ -150,7 +144,7 @@ The expedition must navigate through multiple depth layers, each presenting uniq
 **Abyssal Zone (4,000-6,000m)**:
 - Complete darkness except for bioluminescent creatures
 - Crushing pressure requires constant equipment monitoring
-- Encounters with [[02_Worldbuilding/Lore/Memory Farmers|02 Worldbuilding/Lore/Memory Farmers]] harvesting deep memories
+- Encounters with [02_Worldbuilding/Lore/Memory Farmers|02 Worldbuilding/Lore/Memory Farmers]] harvesting deep memories
 - Strange currents that seem to flow in impossible directions
 
 **Hadal Zone (6,000m+)**:
@@ -225,7 +219,7 @@ The Depth-Walker's True Compass appears as a sophisticated navigation instrument
 - **Memory Navigation**: Can guide bearer to locations from absorbed memories
 
 **Advanced Abilities** (Require Activation):
-- **Reality Sight**: Reveals [[02_Worldbuilding/Lore/Reality Merge Zones]] and dimensional boundaries (3/day)
+- **Reality Sight**: Reveals [[02_Worldbuilding/Lore/Reality Merge Zones and dimensional boundaries (3/day)
 - **Dimensional Path**: Creates temporary passage between Aquabyssos and Aethermoor (1/week)
 - **True North**: Establishes perfect directional reference in areas of magical interference (1/day)
 - **Depth Anchor**: Prevents forced movement from currents or magical effects (3/day)
@@ -299,7 +293,7 @@ Possession of the True Compass opens up previously inaccessible areas of Aquabys
 
 **Political Influence**:
 Successfully completing such a legendary quest grants characters significant political capital:
-- Recognition from the [[02_Worldbuilding/Places/Parliament of Echoes]]
+- Recognition from the [02_Worldbuilding/Places/Parliament of Echoes]]
 - Honorary positions with navigation guilds and merchant organizations
 - Invitations to consult on major exploration and trade expeditions
 - Access to previously restricted information and locations
@@ -322,7 +316,7 @@ A merchant fleet has vanished in an area affected by magnetic anomalies. The onl
 A growing rift between Aquabyssos and Aethermoor is causing dangerous reality distortions. The True Compass may be the only way to navigate the rift safely and find a way to seal it.
 
 **The Deep Conspiracy**:
-Evidence suggests that the magnetic anomalies are not natural but part of a larger plot by [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]. Finding the True Compass may be the key to uncovering and stopping their plans.
+Evidence suggests that the magnetic anomalies are not natural but part of a larger plot by [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy. Finding the True Compass may be the key to uncovering and stopping their plans.
 
 **The Memory Storm**:
 Ancient memories trapped in the deep are beginning to surface, causing confusion and madness among those exposed. The True Compass's memory navigation abilities may be crucial to resolving the crisis.
@@ -367,39 +361,38 @@ While individual skill is important, the quest emphasizes that the greatest navi
 ## Related Locations and Cross-References
 
 ### Primary Locations
-- **[[02_Worldbuilding/Places/Port Meridian]]**: Quest starting point and preparation hub
-- **[[02_Worldbuilding/Places/The Hadal Depths]]**: Primary quest location and compass resting place
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Research and historical documentation
-- **[[02_Worldbuilding/Lore/The Deep Mother]]**: Connected to guardian creatures and deep mysteries
-- **[[02_Worldbuilding/Lore/Reality Merge Zones]]**: Areas where compass abilities are most crucial
+- **[02_Worldbuilding/Places/Port Meridian]]**: Quest starting point and preparation hub
+- **[[02_Worldbuilding/Places/The Hadal Depths**: Primary quest location and compass resting place
+- **[02_Worldbuilding/Places/Parliament of Echoes]]**: Research and historical documentation
+- **[[02_Worldbuilding/Lore/The Deep Mother**: Connected to guardian creatures and deep mysteries
+- **[02_Worldbuilding/Lore/Reality Merge Zones]]**: Areas where compass abilities are most crucial
 
 ### Supporting Characters
-- **[[02_Worldbuilding/Places/Navigator Sage Driftwood]]**: Quest giver and navigation expert
-- **[[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]**: Deep exploration specialist
-- **[[02_Worldbuilding/People/Master of Currents Zephyr]]**: Current and pressure expert
-- **[[02_Worldbuilding/People/Engineer Brass Gearspin|02 Worldbuilding/People/Engineer Brass Gearspin]]**: Equipment and technology specialist
-- **[[02_Worldbuilding/People/Antiquarian Eliza Tidecaller|02 Worldbuilding/People/Antiquarian Eliza Tidecaller]]**: Historical researcher and lore keeper
+- **[[02_Worldbuilding/Places/Navigator Sage Driftwood**: Quest giver and navigation expert
+- **[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]**: Deep exploration specialist
+- **[[02_Worldbuilding/People/Master of Currents Zephyr**: Current and pressure expert
+- **[02_Worldbuilding/People/Engineer Brass Gearspin|02 Worldbuilding/People/Engineer Brass Gearspin]]**: Equipment and technology specialist
+- **[[02_Worldbuilding/People/Antiquarian Eliza Tidecaller|02 Worldbuilding/People/Antiquarian Eliza Tidecaller**: Historical researcher and lore keeper
 
 ### Related Systems and Mechanics
-- **[[02_Worldbuilding/Lore/Pressure Adaptation System]]**: Deep diving survival mechanics
-- **[[02_Worldbuilding/Lore/Environmental Hazards]]**: Deep ocean dangers and challenges
-- **[[02_Worldbuilding/Lore/Memory Alterations]]**: Memory-based navigation and obstacles
-- **[[02_Worldbuilding/Lore/Reputation System]]**: Social consequences of quest completion
-- **[[02_Worldbuilding/Lore/Multi-Phase Boss Fights]]**: Guardian encounters and trials
+- **[02_Worldbuilding/Lore/Pressure Adaptation System]]**: Deep diving survival mechanics
+- **[[02_Worldbuilding/Lore/Environmental Hazards**: Deep ocean dangers and challenges
+- **[02_Worldbuilding/Lore/Memory Alterations]]**: Memory-based navigation and obstacles
+- **[[02_Worldbuilding/Lore/Reputation System**: Social consequences of quest completion
+- **[02_Worldbuilding/Lore/Multi-Phase Boss Fights]]**: Guardian encounters and trials
 
 ### Connected Adventures
-- **[[02_Worldbuilding/Quests/The Lost Expedition|02 Worldbuilding/Quests/The Lost Expedition]]**: Previous attempts to find the compass
-- **[[02_Worldbuilding/Places/The Deep Fugitive]]**: Encounters with other deep explorers
-- **[[02_Worldbuilding/Places/Memory Meadows Black Market]]**: Information and equipment sources
-- **[[02_Worldbuilding/Places/Crystal Forest|02 Worldbuilding/Places/Crystal Forest]]**: Star-metal resonance and compass crafting knowledge
-- **[[02_Worldbuilding/Places/The Synthesis Gardens]]**: Advanced magical research and artifact analysis
+- **[[02_Worldbuilding/Quests/The Lost Expedition|02 Worldbuilding/Quests/The Lost Expedition**: Previous attempts to find the compass
+- **[02_Worldbuilding/Places/The Deep Fugitive]]**: Encounters with other deep explorers
+- **[[02_Worldbuilding/Places/Memory Meadows Black Market**: Information and equipment sources
+- **[02_Worldbuilding/Places/Crystal Forest|02 Worldbuilding/Places/Crystal Forest]]**: Star-metal resonance and compass crafting knowledge
+- **[[02_Worldbuilding/Places/The Synthesis Gardens**: Advanced magical research and artifact analysis
 
 The Compass Quest represents one of the signature adventures of Aquabyssos, combining exploration, mystery, survival challenges, and powerful rewards in a way that showcases the unique aspects of the underwater realm while providing a meaningful challenge that can serve as a campaign centerpiece or major story arc.
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/The Wandering Atoll]]
+- [02_Worldbuilding/Places/The Wandering Atoll]]
 
 ## Player-Facing Summary
 
@@ -421,35 +414,30 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Compass Quest]]
+- [[02_Worldbuilding/Places/Compass Quest
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Lore/Multi-Phase Boss Fights]]
-- [[02_Worldbuilding/Lore/Reality Merge Zones]]
-- [[02_Worldbuilding/Places/Navigator Sage Driftwood]]
-- [[02_Worldbuilding/Places/Port Meridian]]
-- [[02_Worldbuilding/Places/The Hadal Depths]]
-
+- [02_Worldbuilding/Lore/Multi-Phase Boss Fights]]
+- [[02_Worldbuilding/Lore/Reality Merge Zones
+- [02_Worldbuilding/Places/Navigator Sage Driftwood]]
+- [[02_Worldbuilding/Places/Port Meridian
+- [02_Worldbuilding/Places/The Hadal Depths]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

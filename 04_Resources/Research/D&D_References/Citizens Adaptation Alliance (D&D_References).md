@@ -2,7 +2,7 @@
 
 title: Citizens Adaptation Alliance (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -41,12 +41,11 @@ updated: '2025-08-13T01:18:35.678554+00:00'
 
 - A letter reveals the truth about a local noble
 - A journal reveals the truth about the government
-- Someone is protecting information for love ## Related Notes - [[Similar Topic 1]]
+- Someone is protecting information for love ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

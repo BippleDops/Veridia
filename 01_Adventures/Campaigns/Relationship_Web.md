@@ -32,7 +32,6 @@ publish: false
 
  # Relationship_Web ---
 
-
 ## Description
 
 **Details**: Rich sensory elements bring this to life. {#description}
@@ -96,11 +95,10 @@ WHERE quests-given != OR contains(tags, "quest-giver") ---
 | 3 | Option C |
 | 4 | Option D |
 | 5 | Option E |
-| 6 | Option F | ## References - [[Update Indexes|Update Indexes]]
+| 6 | Option F | ## References - [[Update Indexes|Update Indexes
 
-- [[Update Indexes (D&D_References)|Update Indexes (D&D References)]]
-- [[Update Indexes 3 (D&D_References)|Update Indexes 3 (D&D References)]] ## Overview *To be added* ## Goals *To be added* ## Structure *To be added* ## Members *To be added* ## Resources *To be added* ## Relationships *To be added*
-
+- [Update Indexes (D&D_References)|Update Indexes (D&D References)]]
+- [[Update Indexes 3 (D&D_References)|Update Indexes 3 (D&D References) ## Overview *To be added* ## Goals *To be added* ## Structure *To be added* ## Members *To be added* ## Resources *To be added* ## Relationships *To be added*
 
 ## Notes {#notes}
 
@@ -119,12 +117,11 @@ WHERE quests-given != OR contains(tags, "quest-giver") ---
 - **Unanswered Questions**: What remains unknown
 - **Future Revelations**: Discoveries yet to be made
 
-
 **Key Question**: What role will this play in the greater story?
 
 *What happens next is up to you.*
 
 ## Visual References
-![[04_Resources/Assets/Portraits/NPCs/portrait_character_relationship_web_core_npcs.png]]
-![[04_Resources/Assets/Portraits/NPCs/portrait_character_faction_relationship_matrix.png]]
-![[04_Resources/Assets/Portraits/NPCs/portrait_npc_relationship_system.png]]
+![04_Resources/Assets/Portraits/NPCs/portrait_character_relationship_web_core_npcs.png]]
+![[04_Resources/Assets/Portraits/NPCs/portrait_character_faction_relationship_matrix.png
+![04_Resources/Assets/Portraits/NPCs/portrait_npc_relationship_system.png]]

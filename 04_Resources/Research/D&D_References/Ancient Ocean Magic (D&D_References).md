@@ -2,7 +2,7 @@
 
 title: Ancient Ocean Magic (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -45,7 +45,6 @@ updated: '2025-08-13T01:18:35.570642+00:00'
 - A prisoner has gone missing and chaos spreads
 - An heirloom has gone missing and truth emerges
 - Someone is blackmailing a witness for money ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

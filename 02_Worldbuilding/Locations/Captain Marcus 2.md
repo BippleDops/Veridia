@@ -6,7 +6,7 @@ created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
 status: complete
-tags:
+tags: 
 - aquabyssos
 - campaign/arc
 - captain
@@ -23,14 +23,8 @@ updated: '2025-08-13T12:34:16.683256+00:00'
 world: Aquabyssos
 ---
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-captain-marcus-captain-marcus.svg)
-
-
-
-
-
 
 # Captain Marcus
 
@@ -59,7 +53,7 @@ He wears a modified naval uniform designed for underwater operations, complete w
 ## Statistics
 **Medium humanoid (human), lawful good**
 - **AS** 18 (Naval Plate)
-- **HP** 112 (15d10 + 30)
+- **HP** 112 (`dice: 15d10` + 30)
 - **Speed** 30 ft, swim 40 ft (enchanted armor)
 - **STR** 17 (+3) **DEX** 14 (+2) **CON** 16 (+3) **INT** 15 (+2) **WIS** 18 (+4) **CHA** 16 (+3)
 - **Skills** Athletics +9, Insight +10, Intimidation +9, Navigation +8, Perception +10
@@ -79,11 +73,11 @@ He wears a modified naval uniform designed for underwater operations, complete w
 ### Actions
 **Multiattack.** Marcus makes three attacks: two with his enchanted cutlass and one command action.
 
-**Enchanted Naval Cutlass +2.** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8 (1d6 + 5) slashing damage plus 4 (1d8) force damage.
+**Enchanted Naval Cutlass +2.** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8 (`dice: 1d6` + 5) slashing damage plus 4 (`dice: 1d8`) force damage.
 
 **Command Strike.** Marcus issues a tactical command to an ally within 60 feet, allowing them to make an attack as a reaction.
 
-**Depth Charge (1/day).** Marcus can activate a magical explosive that creates a 20-foot radius underwater blast dealing 6d6 thunder damage (DC 16 Dex save for half).
+**Depth Charge (1/day).** Marcus can activate a magical explosive that creates a 20-foot radius underwater blast dealing `dice: 6d6` thunder damage (**DC 16** Dex save for half).
 
 ### Legendary Actions (3 per turn, when aboard naval vessel)
 **Move.** Marcus moves up to his speed.
@@ -126,33 +120,23 @@ He's also been quietly preparing contingency plans for various scenarios, includ
 ## DM Notes
 Captain Marcus serves as a reliable military contact and source of information about external threats to Aquabyssos. His neutral political stance makes him useful to any party regardless of their factional allegiances, while his military resources can provide transportation and support for maritime adventures. Use him to represent the professional military's concerns about how political conflicts might affect the city's defenses.
 
-
 ## History
 
-
 TODO
-
 
 ## Layout
 
-
 TODO
-
 
 ## Notables
 
-
 TODO
-
 
 ## Threats
 
-
 TODO
 
-
 ## Hooks
-
 
 TODO
 
@@ -176,26 +160,21 @@ Legends speak of Captain Marcus as a nexus where past and present converge. Loca
 
 <!-- enriched: true -->
 
-
 ## Atmosphere
 - Mood and feeling
 - Sensory details
-
 
 ## Resources
 - Natural resources
 - Trade goods
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

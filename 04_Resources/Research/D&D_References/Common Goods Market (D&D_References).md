@@ -2,7 +2,7 @@
 
 title: Common Goods Market (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,7 +43,6 @@ updated: '2025-08-13T01:18:35.693382+00:00'
 - A shipment has gone missing and war looms
 - A corpse reveals the truth about a local noble
 - A stranger needs help stealing before dawn ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

@@ -2,7 +2,7 @@
 connection_type: Dimensional Overlap
 created: '2025-08-07'
 status: draft
-tags:
+tags: 
 - aquabyssos
 - connections
 - content/lore
@@ -17,12 +17,6 @@ updated: '2025-08-13T12:34:16.403680+00:00'
 world: Aquabyssos
 world_type: Parallel Realms
 ---
-
-
-
-
-
-
 
 # Aethermoor-Aquabyssos World Connection Guide
 ## The Convergence of Surface and Depth
@@ -44,9 +38,9 @@ world_type: Parallel Realms
 - **Timeline**: Post-Crystal Festival events
 - **Barrier**: Weakening, selective breaches
 - **Merged Zones**: 
-  - [[02_Worldbuilding/Places/Port Meridian]] ↔ [[02_Worldbuilding/Places/Abyssos Prime Upper Districts]]
-  - [[02_Worldbuilding/Lore/Lighthouse of Storms]] ↔ [[02_Worldbuilding/Places/The Inverse Palace]]
-  - [[02_Worldbuilding/Places/Crystal Gardens]] ↔ [[02_Worldbuilding/Places/Screaming Gardens]]
+  - [[02_Worldbuilding/Places/Port Meridian ↔ [02_Worldbuilding/Places/Abyssos Prime Upper Districts]]
+  - [[02_Worldbuilding/Lore/Lighthouse of Storms ↔ [02_Worldbuilding/Places/The Inverse Palace]]
+  - [[02_Worldbuilding/Places/Crystal Gardens ↔ [02_Worldbuilding/Places/Screaming Gardens]]
 - **Mechanics**: Reality shifts every 12 hours
 
 #### State 3: Full Convergence (Possible Future)
@@ -65,20 +59,20 @@ Each Aquabyssos continent has an Aethermoor counterpart:
 
 | Aquabyssos | Aethermoor | Connection Type | Merger Effect |
 |------------|------------|----------------|---------------|
-| [[02_Worldbuilding/Places/Abyssos Prime]] | [[02_Worldbuilding/Places/Port Meridian]] | Political Centers | Shared Parliament |
-| [[02_Worldbuilding/Places/Nereidios]] | [[02_Worldbuilding/Lore/Arcanum Heights]] | Knowledge Hubs | Merged Libraries |
-| [[02_Worldbuilding/Lore/Corallion]] | [[02_Worldbuilding/Lore/Crystal Forest]] | Living Systems | Symbiotic Growth |
-| [[02_Worldbuilding/Lore/Vorthak]] | [[02_Worldbuilding/Lore/Shattered Isles]] | Fragmented Realms | Reality Chaos |
-| [[02_Worldbuilding/People/Tenebrarum]] | [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Vale]] | Darkness Domains | Shadow Overlap |
-| [[02_Worldbuilding/Places/Crystallium]] | [[02_Worldbuilding/Lore/Resonance Peaks]] | Harmonic Centers | Frequency Sync |
-| [[02_Worldbuilding/Places/Mourning Depths]] | Sorrow's End (to be detailed) | Emotional Extremes | Grief Manifest |
-| [[02_Worldbuilding/Places/Memoriam]] | [Forgotten] | Lost to Both | Unknown State |
+| [[02_Worldbuilding/Places/Abyssos Prime | [02_Worldbuilding/Places/Port Meridian]] | Political Centers | Shared Parliament |
+| [[02_Worldbuilding/Places/Nereidios | [02_Worldbuilding/Lore/Arcanum Heights]] | Knowledge Hubs | Merged Libraries |
+| [[02_Worldbuilding/Lore/Corallion | [02_Worldbuilding/Lore/Crystal Forest]] | Living Systems | Symbiotic Growth |
+| [[02_Worldbuilding/Lore/Vorthak | [02_Worldbuilding/Lore/Shattered Isles]] | Fragmented Realms | Reality Chaos |
+| [[02_Worldbuilding/People/Tenebrarum | [02_Worldbuilding/Groups/Criminal_Organizations/Shadow Vale]] | Darkness Domains | Shadow Overlap |
+| [[02_Worldbuilding/Places/Crystallium | [02_Worldbuilding/Lore/Resonance Peaks]] | Harmonic Centers | Frequency Sync |
+| [[02_Worldbuilding/Places/Mourning Depths | Sorrow's End (to be detailed) | Emotional Extremes | Grief Manifest |
+| [02_Worldbuilding/Places/Memoriam]] | [Forgotten] | Lost to Both | Unknown State |
 
 ### Transit Systems Between Worlds
 
 #### Active Conduits
 1. **Lighthouse Network**
-   - [[02_Worldbuilding/Lore/Lighthouse of Storms]] - Primary portal
+   - [[02_Worldbuilding/Lore/Lighthouse of Storms - Primary portal
    - Seven lesser lighthouses - Dormant but activatable
    - Navigation: Crystal resonance keys
    - Risk: Temporal displacement
@@ -90,14 +84,14 @@ Each Aquabyssos continent has an Aethermoor counterpart:
    - Danger: Void current exposure
 
 3. **Memory Streams**
-   - Flow between [[02_Worldbuilding/Places/The Memory Meadows]] and [[02_Worldbuilding/Lore/Aethermoor Archives]]
+   - Flow between [02_Worldbuilding/Places/The Memory Meadows]] and [[02_Worldbuilding/Lore/Aethermoor Archives
    - Travel: Consciousness only, body remains
-   - Duration: 1d4 hours maximum
+   - Duration: `dice: 1d4` hours maximum
    - Cost: Temporary memory loss
 
 4. **Shadow Passages**
    - Created by shadow separation events
-   - Connect: Any shadow to [[02_Worldbuilding/People/Tenebrarum]]
+   - Connect: Any shadow to [02_Worldbuilding/People/Tenebrarum]]
    - Requirement: Shadow independence
    - Warning: One-way without shadow mastery
 
@@ -210,7 +204,7 @@ graph TD
 
 #### Reality Shift Rules
 - **Trigger**: Major story events, bloodline activation
-- **Duration**: 1d4 hours to permanent
+- **Duration**: `dice: 1d4` hours to permanent
 - **Effect Table** (d20):
   - 1-5: Minor overlap (see both worlds)
   - 6-10: Moderate merge (exist in both)
@@ -319,12 +313,12 @@ graph TD
 - Attract multiversal attention
 
 ## 🔗 Related Documents
-- [[08_Archive/2025-08-09/Campaign_Docs/Aethermoor/Aethermoor Campaign Overview|08 Archive/2025 08 09/Campaign Docs/Aethermoor/Aethermoor Campaign Overview]]
-- [[08_Archive/2025-08-09/Campaign_Docs/Aquabyssos/Aquabyssos Campaign Overview|08 Archive/2025 08 09/Campaign Docs/Aquabyssos/Aquabyssos Campaign Overview]]
-- [[02_Worldbuilding/Places/The Seven Shards Mystery]]
-- [[03_Mechanics/Depth Adaptation System]]
-- [[03_Mechanics/Crystal Plague Mechanics]]
-- [[NPC Cross-World Connections]]
+- [[08_Archive/2025-08-09/Campaign_Docs/Aethermoor/Aethermoor Campaign Overview|08 Archive/2025 08 09/Campaign Docs/Aethermoor/Aethermoor Campaign Overview
+- [08_Archive/2025-08-09/Campaign_Docs/Aquabyssos/Aquabyssos Campaign Overview|08 Archive/2025 08 09/Campaign Docs/Aquabyssos/Aquabyssos Campaign Overview]]
+- [[02_Worldbuilding/Places/The Seven Shards Mystery
+- [03_Mechanics/Depth Adaptation System]]
+- [[03_Mechanics/Crystal Plague Mechanics
+- [NPC Cross-World Connections]]
 - [[02_Worldbuilding/Lore/Merged Zone Navigation]]
 
 ## 📝 DM Guidelines
@@ -406,21 +400,20 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Shattered Isles]]
-
+- [[02_Worldbuilding/Lore/Shattered Isles
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Vale]]
-- [[02_Worldbuilding/Lore/Arcanum Heights]]
-- [[02_Worldbuilding/Lore/Corallion]]
-- [[02_Worldbuilding/Lore/Crystal Forest]]
-- [[02_Worldbuilding/Lore/Resonance Peaks]]
-- [[02_Worldbuilding/Lore/Shattered Isles]]
-- [[02_Worldbuilding/Lore/Vorthak]]
-- [[02_Worldbuilding/People/Tenebrarum]]
-- [[02_Worldbuilding/Places/Abyssos Prime Upper Districts]]
-- [[02_Worldbuilding/Places/Crystal Gardens]]
-- [[02_Worldbuilding/Places/Crystallium]]
-- [[02_Worldbuilding/Places/Memoriam]]
-- [[02_Worldbuilding/Places/Mourning Depths]]
+- [02_Worldbuilding/Groups/Criminal_Organizations/Shadow Vale]]
+- [[02_Worldbuilding/Lore/Arcanum Heights
+- [02_Worldbuilding/Lore/Corallion]]
+- [[02_Worldbuilding/Lore/Crystal Forest
+- [02_Worldbuilding/Lore/Resonance Peaks]]
+- [[02_Worldbuilding/Lore/Shattered Isles
+- [02_Worldbuilding/Lore/Vorthak]]
+- [[02_Worldbuilding/People/Tenebrarum
+- [02_Worldbuilding/Places/Abyssos Prime Upper Districts]]
+- [[02_Worldbuilding/Places/Crystal Gardens
+- [02_Worldbuilding/Places/Crystallium]]
+- [[02_Worldbuilding/Places/Memoriam
+- [02_Worldbuilding/Places/Mourning Depths]]

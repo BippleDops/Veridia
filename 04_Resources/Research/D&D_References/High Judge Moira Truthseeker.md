@@ -2,7 +2,7 @@
 
 title: High Judge Moira Truthseeker
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,7 +43,6 @@ updated: '2025-08-13T01:18:35.287587+00:00'
 - A journal reveals a conspiracy about the government
 - A shipment has gone missing and truth emerges
 - Strange accidents suggest a portal ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

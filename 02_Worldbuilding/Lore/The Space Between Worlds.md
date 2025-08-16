@@ -3,8 +3,8 @@ created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
-tags:
-- [[Lore]]
+tags: 
+- [[Lore
 title: The Space Between Worlds
 type: lore
 updated: 2025-08-14
@@ -20,12 +20,12 @@ The Space Between Worlds represents a significant element within the campaign wo
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: [[Link]]ed to multiple other elements
+- **Connections**: [Link]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-[[Historical Context]] and development over [[Time]].
+[[Historical Context and development over [Time]].
 
 ### Current State
 Present circumstances and ongoing relevance.
@@ -46,12 +46,12 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## [[DM_Notes]]
+## [[DM_Notes
 *Customize as needed for your specific campaign requirements.*
 
 ## References
 
-- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
-- [[Comprehensive-World-Connection-Guide]]
-- [[Session 09 the Shard Convergence]]
+- [Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Comprehensive-World-Connection-Guide
+- [Session 09 the Shard Convergence]]
 - [[Shard_Locations (D&D_Sourcebooks)]]

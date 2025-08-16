@@ -1,22 +1,22 @@
 ---
 title: Embed
 type: note
-tags:
+tags: 
 - auto-generated
-- [[Link]]ed
+- [[Linked
 created: '2025-01-15'
 ---
 
 # Embed
 
 ## Overview
-This topic is referenced in [[map|AGILE_VAULT_IMPLEMENTATION_ROAD[[map]]]] and other parts of the campaign.
+This topic is referenced in [[map|AGILE_VAULT_IMPLEMENTATION_ROAD[map]]]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[AGILE_VAULT_IMPLEMENTATION_ROADMAP]]
+- Referenced by: [[AGILE_VAULT_IMPLEMENTATION_ROADMAP
 - Related topics in the same category
 
 ## Details
@@ -29,17 +29,17 @@ Further information about this topic will be developed as the campaign progresse
 
 ## References
 
-- [[Aquabyssos Cultural Codex]]
-- [[Crystal Corruption Taboos]]
-- [[Eastern Kingdom]]
-- [[Economic Systems and Currency]]
-- [[Home Embeds#Recently Modifie]]
-- [[The Bathyal Succession]]
-- [[The Final Choice]]
-- [[Throne Room]]
-- [[Compass Quest]]
-- [[Elder Matthias Stoneward]]
-- [[Ironhold]]
-- [[The Crystal Wardens]]
-- [[The Sinking Atoll]]
+- [Aquabyssos Cultural Codex]]
+- [[Crystal Corruption Taboos
+- [Eastern Kingdom]]
+- [[Economic Systems and Currency
+- [Home Embeds#Recently Modifie]]
+- [[The Bathyal Succession
+- [The Final Choice]]
+- [[Throne Room
+- [Compass Quest]]
+- [[Elder Matthias Stoneward
+- [Ironhold]]
+- [[The Crystal Wardens
+- [The Sinking Atoll]]
 - [[Whisper Island]]

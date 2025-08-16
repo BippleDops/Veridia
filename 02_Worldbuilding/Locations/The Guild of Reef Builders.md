@@ -2,7 +2,7 @@
 
 title: The Guild of Reef Builders
 type: Location
-tags:
+tags: 
 - aquabyssos
 - world/aquabyssos
 - content/location
@@ -216,11 +216,9 @@ Ongoing situations affecting The Guild of Reef Builders:
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

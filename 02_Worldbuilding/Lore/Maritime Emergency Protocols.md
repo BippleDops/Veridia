@@ -3,14 +3,14 @@ created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
-tags:
-- [[Lore]]
-title: Mari[[Time]] [[Emergency Protocol]]s
+tags: 
+- [[Lore
+title: Mari[Time]] [[Emergency Protocols
 type: lore
 updated: 2025-08-14
 ---
 
-# Maritime [[Emergency Protocols]]
+# Maritime [Emergency Protocols]]
 
 ## Overview
 This document contains important information regarding Maritime Emergency Protocols and its role within the greater narrative.
@@ -20,12 +20,12 @@ Maritime Emergency Protocols represents a significant element within the campaig
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: [[Link]]ed to multiple other elements
+- **Connections**: [[Linked to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-[[Historical Context]] and development over time.
+[Historical Context]] and development over time.
 
 ### Current State
 Present circumstances and ongoing relevance.
@@ -46,10 +46,10 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 *Customize as needed for your specific campaign requirements.*
 
 ## References
 
-- [[Shadow Marina (Criminal_Organizations)]]
+- [Shadow Marina (Criminal_Organizations)]]
 - [[Shadow Marina]]

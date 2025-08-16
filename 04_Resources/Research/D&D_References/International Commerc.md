@@ -2,7 +2,7 @@
 
 title: International Commerc
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -45,7 +45,6 @@ updated: '2025-08-13T01:18:34.608522+00:00'
 - Someone is blackmailing a artifact for revenge
 - A corpse reveals ancient history about a local noble
 - An heirloom has gone missing and war looms ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

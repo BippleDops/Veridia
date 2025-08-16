@@ -1,9 +1,9 @@
 ---
 
-title: Party Quarters   [[Inverse Palace]]
-type: [[location]]
-tags:
-- [[Aquabyssos]]
+title: Party Quarters   [[Inverse Palace
+type: [location]]
+tags: 
+- [[Aquabyssos
 - status/complete
 - luxury
 - content/location
@@ -18,7 +18,7 @@ tags:
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
-[[region]]: Unknown
+[region]]: Unknown
 population: Unknown
 created_by: auto-stub
 danger_level: Moderate
@@ -49,7 +49,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -88,7 +88,7 @@ improvements: 20
 - Detail funeral rites and afterlife beliefs
 
 ## Overview
-[[The Party]] Quarters of [[The Inverse Palace]] are an architectural marvel where entertainment spaces are built upside-down from the main structure. Guests experience the surreal sensation of walking on ceilings while party activities occur in gravity-defying chambers.
+[The Party]] Quarters of [[The Inverse Palace are an architectural marvel where entertainment spaces are built upside-down from the main structure. Guests experience the surreal sensation of walking on ceilings while party activities occur in gravity-defying chambers.
 
 This unique venue hosts the most exclusive social events in Aquabyssos, where the elite gather for celebrations that literally turn the world upside down.
 
@@ -109,24 +109,24 @@ This unique venue hosts the most exclusive social events in Aquabyssos, where th
 ## Adventure Hooks
 1. Gravity system malfunction traps party guests
 2. Valuable item stolen during inverted celebration
-3. Political [[Assassin]]ation attempt in gravity-[[Neutral Zone]]
+3. Political [Assassin]]ation attempt in gravity-[[Neutral Zone
 4. Characters must infiltrate exclusive inverted party
 
-### [[Key Locations]]
+### [Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 This location provides unique tactical challenges and memorable social encounters. Use the inverted gravity for creative puzzle-solving and combat scenarios that force players to think three-dimensionally.
 
 ## Player-Facing Summary
 
 Party Quarters   Inverse Palace is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## [[Lore]] Details
+## [Lore]] Details
 
 Legends speak of Party Quarters   Inverse Palace as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Party Quarters   Inverse Palace.
 
@@ -161,7 +161,7 @@ Party Quarters - Inverse Palace is a notable location characterized by its uniqu
 
 ## Connections
 - **North**: Trade road to neighboring settlement
-- **South**: [[path]] through wilderness
+- **South**: [[path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
 
@@ -191,12 +191,12 @@ Mentioned in The Second Prophecy of Depths
 - A corpse reveals ancient history about a local noble
 - A prisoner has gone missing and truth emerges
 
-## Historical [[Time|[[Time]]line]]
+## Historical [[Time|[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[People]]s
+- War with indigenous [[Peoples
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -206,7 +206,7 @@ Mentioned in The Second Prophecy of Depths
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current [[Power Structures]] established
+- Current [Power Structures]] established
 
 ## Cultural Practices
 
@@ -288,11 +288,9 @@ Mentioned in The Second Prophecy of Depths
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

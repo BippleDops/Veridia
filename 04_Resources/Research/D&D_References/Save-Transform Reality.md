@@ -2,7 +2,7 @@
 
 title: Save-Transform Reality
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -47,12 +47,11 @@ Save-Transform Reality describes a turning current in history where choices abou
 
 - A stranger needs help delivering before the new moon
 - A noble needs help finding before the festival
-- A merchant needs help stealing before winter ## Related Notes - [[Similar Topic 1]]
+- A merchant needs help stealing before winter ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

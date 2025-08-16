@@ -2,7 +2,7 @@
 
 title: The Tidal Council (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -90,7 +90,6 @@ The Tidal Council serves as Aquabyssos's environmental and maritime regulatory b
 4. Ancient maritime curse affecting tidal patterns needs resolution
 5. Smuggling operation exploiting tidal prediction information
 6. Diplomatic mission to negotiate international water usage agreements ## Resources
-
 
 **Research Facilities:** Advanced laboratories for marine studies
 **Observation Network:** Monitoring stations throughout region

@@ -1,5 +1,5 @@
 ---
-affiliation: '[[02_Worldbuilding/People/The Scattered Emperor]] (Currently Fragmented)'
+affiliation: '[[02_Worldbuilding/People/The Scattered Emperor (Currently Fragmented)'
 created: '2025-08-09'
 created_by: Claude
 current_location: Multiple Pieces Scattered Across Aquabyssos
@@ -8,7 +8,7 @@ item_type: Crown of Rule (Seven Shards Enhanced)
 rarity: Legendary
 requires_attunement: Yes (by a creature of noble blood or appointed by divine authority)
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/item
@@ -23,15 +23,11 @@ updated: '2025-08-13T12:34:17.754558+00:00'
 world: Aquabyssos
 ---
 
-
-
-
-
 # Crown of Tidal Sovereignty
 *Symbol of Unity, Now Broken Like the Realm It Once Ruled*
 
 ## Overview
-The Crown of Tidal Sovereignty once served as the ultimate symbol of unified rule over all Aquabyssos, incorporating fragments of [[02_Worldbuilding/Lore/The Seven Shards]] to grant its wearer unprecedented authority over the tidal forces that govern the realm. When [[02_Worldbuilding/People/The Scattered Emperor]] began fragmenting into multiple personalities, the crown responded by breaking into seven pieces, each piece bonding with a different aspect of his divided consciousness. Now scattered across the realm, the crown fragments represent both the potential for restored unity and the danger of absolute power falling into the wrong hands.
+The Crown of Tidal Sovereignty once served as the ultimate symbol of unified rule over all Aquabyssos, incorporating fragments of [02_Worldbuilding/Lore/The Seven Shards]] to grant its wearer unprecedented authority over the tidal forces that govern the realm. When [[02_Worldbuilding/People/The Scattered Emperor began fragmenting into multiple personalities, the crown responded by breaking into seven pieces, each piece bonding with a different aspect of his divided consciousness. Now scattered across the realm, the crown fragments represent both the potential for restored unity and the danger of absolute power falling into the wrong hands.
 
 ## Physical Description
 ### Original Form (Pre-Fragmentation)
@@ -45,7 +41,7 @@ The Crown of Tidal Sovereignty once served as the ultimate symbol of unified rul
 Each of the seven fragments retains part of the crown's original power while developing its own unique characteristics:
 
 #### Fragment of Memory (Blue-Green Crystal)
-- **Location**: Hidden in [[02_Worldbuilding/Places/Memory Meadows|02 Worldbuilding/Places/Memory Meadows]]
+- **Location**: Hidden in [02_Worldbuilding/Places/Memory Meadows|02 Worldbuilding/Places/Memory Meadows]]
 - **Power**: Perfect recall of all royal decrees and historical precedents
 - **Personality Echo**: The Emperor's wisdom and long-term perspective
 - **Effect**: Grants advantage on History checks and ability to command through knowledge
@@ -63,13 +59,13 @@ Each of the seven fragments retains part of the crown's original power while dev
 - **Effect**: Enhanced healing abilities and power to inspire hope in others
 
 #### Fragment of Justice (Crystal Scales)
-- **Location**: Within the [[02_Worldbuilding/Places/Parliament of Echoes]] chamber
+- **Location**: Within the [[02_Worldbuilding/Places/Parliament of Echoes chamber
 - **Power**: Perfect ability to discern truth and render fair judgments
 - **Personality Echo**: The Emperor's commitment to fairness and legal order
 - **Effect**: Truth detection and ability to compel honesty from others
 
 #### Fragment of Vision (Prismatic Gem)
-- **Location**: Sought by [[02_Worldbuilding/People/Oracle Nerida the Tidereader]] for prophetic enhancement
+- **Location**: Sought by [02_Worldbuilding/People/Oracle Nerida the Tidereader]] for prophetic enhancement
 - **Power**: Foresight and ability to perceive long-term consequences
 - **Personality Echo**: The Emperor's planning ability and future-focused thinking
 - **Effect**: Limited precognition and enhanced strategic planning capabilities
@@ -162,7 +158,7 @@ Each of the seven fragments retains part of the crown's original power while dev
 - **Legacy**: Set standard for just and effective governance that persists today
 
 ### The Fragmentation Crisis
-- **Trigger**: [[02_Worldbuilding/People/The Scattered Emperor]]'s mental fracturing caused crown to break
+- **Trigger**: [[02_Worldbuilding/People/The Scattered Emperor's mental fracturing caused crown to break
 - **Sympathy**: Crown's magic was so deeply bonded with ruler that it shared his condition
 - **Chaos**: Loss of unified symbol contributed to political instability and factional conflicts
 - **Distribution**: Seven fragments scattered, each drawn to aspect of governance it represented
@@ -177,42 +173,42 @@ Each of the seven fragments retains part of the crown's original power while dev
 
 ## Current Locations & Guardians
 ### Fragment of Memory
-- **Guardian**: [[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]
-- **Location**: Secret vault beneath [[02_Worldbuilding/Places/Memory Meadows|02 Worldbuilding/Places/Memory Meadows]]
+- **Guardian**: [02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]
+- **Location**: Secret vault beneath [[02_Worldbuilding/Places/Memory Meadows|02 Worldbuilding/Places/Memory Meadows
 - **Protection**: Memory-based puzzles and guardians requiring historical knowledge
 - **Access**: Must prove worthy through demonstration of wisdom and respect for knowledge
 - **Condition**: Well-preserved and fully functional
 
 ### Fragment of Command
-- **Guardian**: [[02_Worldbuilding/People/Commander Typhoon Blackheart]]
-- **Location**: [[02_Worldbuilding/Lore/The Fortress of the Deeps]] command center
+- **Guardian**: [02_Worldbuilding/People/Commander Typhoon Blackheart]]
+- **Location**: [[02_Worldbuilding/Lore/The Fortress of the Deeps command center
 - **Protection**: Military security and loyalty-based tests
 - **Access**: Must earn respect through martial prowess and honorable conduct
 - **Condition**: Powers enhanced by constant military use
 
 ### Fragment of Compassion
-- **Guardian**: [[02_Worldbuilding/People/Sister Thalassa the Depth-Touched]]
+- **Guardian**: [02_Worldbuilding/People/Sister Thalassa the Depth-Touched]]
 - **Location**: Charitable sanctuary serving the poor and displaced
 - **Protection**: Tests of genuine altruism and selfless service
 - **Access**: Must demonstrate commitment to helping others without reward
 - **Condition**: Glows brighter when used for charitable purposes
 
 ### Fragment of Justice
-- **Guardian**: [[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]
-- **Location**: Secure vault within [[02_Worldbuilding/Places/Parliament of Echoes]]
+- **Guardian**: [[02_Worldbuilding/People/Tribune Cassia Deepcurrent
+- **Location**: Secure vault within [02_Worldbuilding/Places/Parliament of Echoes]]
 - **Protection**: Legal challenges and tests of moral character
 - **Access**: Must prove commitment to fairness and democratic principles
 - **Condition**: Resonates with just decisions and fair treatment
 
 ### Fragment of Vision
-- **Guardian**: [[02_Worldbuilding/People/Oracle Nerida the Tidereader]]
-- **Location**: [[02_Worldbuilding/Lore/The Tidal Sanctum]] divination chamber
+- **Guardian**: [[02_Worldbuilding/People/Oracle Nerida the Tidereader
+- **Location**: [02_Worldbuilding/Lore/The Tidal Sanctum]] divination chamber
 - **Protection**: Prophetic trials requiring interpretation of complex visions
 - **Access**: Must demonstrate wisdom and responsibility in using future knowledge
 - **Condition**: Enhances prophetic abilities when used for common good
 
 ### Fragment of Strength
-- **Guardian**: [[02_Worldbuilding/People/The Pressure King]] (hostile shadow entity)
+- **Guardian**: [[02_Worldbuilding/People/The Pressure King (hostile shadow entity)
 - **Location**: Deepest ocean trench, surrounded by dangerous creatures
 - **Protection**: Physical challenges requiring exceptional courage and determination
 - **Access**: Must overcome greatest fears and prove unbreakable will
@@ -236,7 +232,7 @@ Each of the seven fragments retains part of the crown's original power while dev
 
 ### The Emperor's Choice
 **Level**: 10-16  
-**Hook**: [[02_Worldbuilding/People/The Scattered Emperor]] requests help reuniting fragments to heal his mind  
+**Hook**: [02_Worldbuilding/People/The Scattered Emperor]] requests help reuniting fragments to heal his mind  
 **Complexity**: Different personality aspects have conflicting goals for fragments  
 **Moral**: Question of whether unity is worth potential cost of absolute power  
 **Obstacles**: Fragment guardians may resist surrendering their charges  
@@ -259,11 +255,11 @@ Each of the seven fragments retains part of the crown's original power while dev
 **Resolution**: Find way to share power or unite factions under worthy ruler
 
 ## Connected Elements
-- Direct connection to [[02_Worldbuilding/People/The Scattered Emperor]] as original wearer
-- Links to [[02_Worldbuilding/Lore/The Seven Shards]] through incorporated Shard fragments
+- Direct connection to [[02_Worldbuilding/People/The Scattered Emperor as original wearer
+- Links to [02_Worldbuilding/Lore/The Seven Shards]] through incorporated Shard fragments
 - Associated with all major political figures through fragment guardianship
-- Connected to [[02_Worldbuilding/Places/Parliament of Echoes]] through governance symbolism
-- Links to [[02_Worldbuilding/Places/Memory Meadows|02 Worldbuilding/Places/Memory Meadows]], [[02_Worldbuilding/People/Oracle Nerida the Tidereader]], and other fragment locations
+- Connected to [[02_Worldbuilding/Places/Parliament of Echoes through governance symbolism
+- Links to [02_Worldbuilding/Places/Memory Meadows|02 Worldbuilding/Places/Memory Meadows]], [[02_Worldbuilding/People/Oracle Nerida the Tidereader, and other fragment locations
 - Related to theme of unity vs. division throughout Aquabyssos
 - Connected to questions of legitimate authority and governmental structure
 
@@ -291,7 +287,7 @@ Each of the seven fragments retains part of the crown's original power while dev
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Sister Morwyn]]
+- [02_Worldbuilding/Places/Sister Morwyn]]
 
 ## Player-Facing Summary
 
@@ -311,5 +307,5 @@ Legends speak of the Crown of Tidal Sovereignty as the first gift from the Deep 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Sister Morwyn]]
-- [[02_Worldbuilding/People/Oracle Nerida the Tidereader]]
+- [[02_Worldbuilding/Places/Sister Morwyn
+- [02_Worldbuilding/People/Oracle Nerida the Tidereader]]

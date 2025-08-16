@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/adventure
@@ -13,10 +13,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.125140+00:00'
 world: Aquabyssos
 ---
-
-
-
-
 
 ## Overview
 

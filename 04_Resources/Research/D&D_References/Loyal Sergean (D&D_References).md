@@ -2,7 +2,7 @@
 
 title: Loyal Sergean (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,12 +42,11 @@ updated: '2025-08-13T01:18:35.720661+00:00'
 
 - Strange disappearances suggest ancient magic
 - Strange sightings suggest a portal
-- Someone is searching for an heir for revenge ## Related Notes - [[Similar Topic 1]]
+- Someone is searching for an heir for revenge ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

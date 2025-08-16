@@ -1,7 +1,7 @@
 ---
-title: [[Aethermoor]] Archives
-type: [[Lore]]
-tags:
+title: [[Aethermoor Archives
+type: [Lore]]
+tags: 
 - lore
 - [[Aquabyssos]]
 - aerial
@@ -16,10 +16,10 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-accessibility:
+accessibility: 
   content_warnings: []
   pronunciation: Aethermoor Archives
-  safety_tools:
+  safety_tools: 
   - Lines & Veils
   - X-Card
   screen_reader_summary: This lore entry explains a pivotal principle or event and
@@ -55,12 +55,10 @@ Aethermoor Archives represents an important aspect of the world's history, cultu
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-
-
 ## References
 
-- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
-- [[Thalassius the Wise]]
-- [[Aethermoor-Aquabyssos-World-Connection-Guide (D&D_References)]]
-- [[Thalassius the Wise (D&D_References)]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide
+- [Thalassius the Wise]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide (D&D_References)
+- [Thalassius the Wise (D&D_References)]]
 - [[Thalassius the Wise 3 (D&D_References)]]

@@ -1,9 +1,9 @@
 ---
 
 title: The Whisper Keepers
-type: [[location]]
-tags:
-- [[Aquabyssos]]
+type: [[location
+tags: 
+- [Aquabyssos]]
 - world/aquabyssos
 - content/location
 - place
@@ -16,7 +16,7 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-[[region]]: Unknown
+[[region: Unknown
 population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:16.615518+00:00'
@@ -39,7 +39,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -89,20 +89,20 @@ improvements: 20
 
 The Whisper Keepers is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## [[Lore]] Details
+## [[Lore Details
 
 Legends speak of The Whisper Keepers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Whisper Keepers.
 
-### [[Key Locations]]
+### [Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [map]] use.
 
 ## Sensory Details
 
@@ -163,12 +163,12 @@ Ongoing situations affecting The Whisper Keepers:
 
 Mentioned in The Hidden Prophecy of Shadows
 
-## Historical [[Time|[[Time]]line]]
+## Historical [[Time|[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[People]]s
+- War with indigenous [[Peoples
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -178,7 +178,7 @@ Mentioned in The Hidden Prophecy of Shadows
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current [[Power Structures]] established
+- Current [Power Structures]] established
 
 ## Economic Structure
 
@@ -254,11 +254,9 @@ Mentioned in The Hidden Prophecy of Shadows
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

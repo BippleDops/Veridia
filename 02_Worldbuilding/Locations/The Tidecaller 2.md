@@ -3,7 +3,7 @@ created: '2025-08-08'
 created_by: auto-stub
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - aethermoor
 - complete
 - content/location
@@ -18,13 +18,8 @@ updated: '2025-08-13T12:34:17.002556+00:00'
 world: Aethermoor
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-tidecaller-the-tidecaller.svg)
-
-
-
 
 # The Tidecaller
 
@@ -156,10 +151,9 @@ Marina discovered her affinity for tide magic during childhood storms that threa
 ## DM Notes
 The Tidecaller serves as powerful ally for maritime adventures, quest giver for ocean-related missions, and expert consultant on water magic. Her abilities can significantly impact naval combat and coastal exploration scenarios.
 
-
 ## Connections
 
-- [[06_GM_Resources/Campaign_Management/Campaign_Relationship_Matrix]]
+- [[06_GM_Resources/Campaign_Management/Campaign_Relationship_Matrix
 
 ## Player-Facing Summary
 
@@ -171,31 +165,26 @@ Legends speak of The Tidecaller as a nexus where past and present converge. Loca
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Tidecaller]]
+- [02_Worldbuilding/People/The Tidecaller]]
 - [[02_Worldbuilding/Places/The Tidecaller]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

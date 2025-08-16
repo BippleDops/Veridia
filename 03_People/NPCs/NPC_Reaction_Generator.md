@@ -1,15 +1,14 @@
 ---
 enhanced: true
 tags: [enhanced, 03_people]
-created: 2025-08-15T12:24:43.109076
-modified: 2025-08-15T12:24:43.109078
+created: "2025-08-15T12:24:43.109076"
+modified: "2025-08-15T12:24:43.109078"
 aliases: [NPC Reaction Generator]
 ---
 
 # Npc Reaction Generator
 
 > *Not all allies are what they seem...* This remarkable element adds depth and intrigue to any campaign.
-
 
 ## Overview
 
@@ -47,7 +46,7 @@ tags:
 modified: '2025-08-14'
 status: complete
 updated: '2025-08-13T00:00:00.000000'
-world: Both --- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Quick Reaction Table Roll 2d6 + Charisma modifier + situational modifiers | Roll | Reaction | Description |
+world: Both --- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Quick Reaction Table Roll `dice: `dice: 2d6`` + Charisma modifier + situational modifiers | Roll | Reaction | Description |
 |------|----------|-------------|
 | 2-3 | Hostile | Immediate aggression, attacks or calls for help |
 | 4-5 | Unfriendly | Cold, suspicious, unhelpful |
@@ -132,7 +131,7 @@ world: Both --- ## 🔧 Deep Evaluation Improvements *20 targeted improvements i
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]* ## Alternate Descriptions - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
-- **Hidden Details**: Secret aspects ## Player Tips > 🎮 **Strategy**: How to approach this content > Work together and communicate ## References - [[NPC_Reaction_Generator_Quick_Ref|Npc Reaction Generator Quick Ref]] ## Notes {#notes} *Additional notes* #mechanics/combat
+- **Hidden Details**: Secret aspects ## Player Tips > 🎮 **Strategy**: How to approach this content > Work together and communicate ## References - [[NPC_Reaction_Generator_Quick_Ref|Npc Reaction Generator Quick Ref ## Notes {#notes} *Additional notes* #mechanics/combat
 #story/plot
 #story/story
 #world/world
@@ -155,13 +154,12 @@ world: Both --- ## 🔧 Deep Evaluation Improvements *20 targeted improvements i
 - Hidden knowledge
 - Personal mysteries
 
-
 *The adventure continues...*
 
 ## Thematic Elements
 This content explores themes of loyalty, adding narrative depth to your campaign.
 
 ## Visual References
-![[04_Resources/Assets/Portraits/NPCs/portrait_npc_reaction_matrix.png]]
-![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_npc_reaction_matrix_friendly.png]]
-![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_npc_reaction_matrix_dramatic.png]]
+![04_Resources/Assets/Portraits/NPCs/portrait_npc_reaction_matrix.png]]
+![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_npc_reaction_matrix_friendly.png
+![04_Resources/Assets/Portraits/NPCs/Minor/portrait_npc_reaction_matrix_dramatic.png]]

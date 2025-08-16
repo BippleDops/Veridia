@@ -2,7 +2,7 @@
 
 title: Traditional Medicine Spokesman
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -41,10 +41,9 @@ updated: '2025-08-13T01:18:35.027203+00:00'
 
 - A map reveals ancient history about a local noble
 - Strange accidents suggest ancient magic
-- Someone is protecting an heir for revenge ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Biomancer Corvus Intestinal]]
+- Someone is protecting an heir for revenge ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Biomancer Corvus Intestinal
 
-- [[Biomancer Corvus Intestinal (D&D_References)]]
-
+- [Biomancer Corvus Intestinal (D&D_References)]]
 
 ## Notes
 

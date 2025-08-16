@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -14,14 +14,9 @@ updated: '2025-08-13T12:34:16.129780+00:00'
 world: Aquabyssos
 ---
 
-
-
-
-
-
 ## Overview
 
-Ancient Ruins scattered throughout [[02_Worldbuilding/Lore/Aquabyssos World Guide|Aquabyssos]] represent the remnants of civilizations that existed long before the current realm was established. These mysterious structures defy easy categorization—some appear to predate known history entirely, while others show architectural styles that suggest contact with powers from beyond the known dimensions. The ruins serve as windows into forgotten eras, repositories of lost knowledge, and warnings about the consequences of unchecked ambition.
+Ancient Ruins scattered throughout [[02_Worldbuilding/Lore/Aquabyssos World Guide|Aquabyssos represent the remnants of civilizations that existed long before the current realm was established. These mysterious structures defy easy categorization—some appear to predate known history entirely, while others show architectural styles that suggest contact with powers from beyond the known dimensions. The ruins serve as windows into forgotten eras, repositories of lost knowledge, and warnings about the consequences of unchecked ambition.
 
 ## Player-Facing Summary
 
@@ -46,10 +41,10 @@ The ruins emit a constant low-frequency vibration that can be felt through both 
 Many ruins contain devices and mechanisms whose purposes remain unknown. **Pressure chambers** that seem to compress water into solid forms, **current generators** that create localized whirlpools and directional flows, and **memory pools** that replay scenes from the distant past when touched. Some ruins contain **reality anchors**—crystalline devices that seem to prevent dimensional instabilities from affecting the surrounding areas.
 
 **The Deep Mother Connection:**
-Several ruins show signs of [[02_Worldbuilding/Lore/Deep Mother|Deep Mother]] influence, though whether this represents worship, containment, or something else entirely remains unclear. These sites often feature vast chambers with symbols that hurt to look at directly and water that moves in patterns that seem to spell out warnings in languages that predate known civilization.
+Several ruins show signs of [02_Worldbuilding/Lore/Deep Mother|Deep Mother]] influence, though whether this represents worship, containment, or something else entirely remains unclear. These sites often feature vast chambers with symbols that hurt to look at directly and water that moves in patterns that seem to spell out warnings in languages that predate known civilization.
 
 **Current Inhabitants:**
-The ruins aren't entirely empty. Strange creatures make their homes in these ancient spaces—some appearing to be descendants of the original builders, others seeming more like guardians left behind to protect forgotten secrets. [[02_Worldbuilding/Lore/Ancient Aquabyssos Rulers|Ancient mer-folk]] variants with unusual mutations, sentient coral formations that communicate through bioluminescent displays, and crystalline entities that may be artificial intelligences left by previous civilizations.
+The ruins aren't entirely empty. Strange creatures make their homes in these ancient spaces—some appearing to be descendants of the original builders, others seeming more like guardians left behind to protect forgotten secrets. [[02_Worldbuilding/Lore/Ancient Aquabyssos Rulers|Ancient mer-folk variants with unusual mutations, sentient coral formations that communicate through bioluminescent displays, and crystalline entities that may be artificial intelligences left by previous civilizations.
 
 ## Adventure Hooks
 
@@ -68,10 +63,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Pressure Conspiracy]]
-
+- [02_Worldbuilding/Places/The Pressure Conspiracy]]
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Temporal Navigation]]
-- [[02_Worldbuilding/Places/The Pressure Conspiracy]]
+- [[02_Worldbuilding/Places/Temporal Navigation
+- [02_Worldbuilding/Places/The Pressure Conspiracy]]

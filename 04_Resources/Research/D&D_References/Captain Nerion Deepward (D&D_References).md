@@ -2,7 +2,7 @@
 
 title: Captain Nerion Deepward (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -41,12 +41,11 @@ updated: '2025-08-13T01:18:36.867057+00:00'
 
 - Strange sightings suggest a portal
 - The authorities needs help investigating before dawn
-- Strange sightings suggest a portal ## Related Notes - [[Similar Topic 1]]
+- Strange sightings suggest a portal ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

@@ -2,7 +2,7 @@
 
 title: The Deep Sanctum
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -44,7 +44,6 @@ updated: '2025-08-13T01:18:34.653050+00:00'
 
 - The authorities needs help investigating before the festival
 - A corpse reveals the truth about the cult ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

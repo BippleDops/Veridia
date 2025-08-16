@@ -1,10 +1,10 @@
 ---
 
-title: The [[People]]'s Movement
-type: [[Lore]]
-tags:
+title: The [[People's Movement
+type: [Lore]]
+tags: 
 - lore
-- [[Aethermoor]]
+- [[Aethermoor
 - faction
 - active
 - conspiracy
@@ -32,7 +32,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[trade-goods-xdmg (tables)]], and wealth distribution
+- Detail currency, [trade-goods-xdmg (tables)]], and wealth distribution
 
 ### Religion Improvements
 

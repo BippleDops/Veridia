@@ -2,7 +2,7 @@
 
 title: Random_Encounters - Aquabyssos Encounters
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -54,16 +54,13 @@ world: Aquabyssos
 5. [Political Climate Adjustments](#political-climate-adjustments)
 6. [Customizing Encounters](#customizing-encounters) ### Basic Encounter Generation
 
-
 1. **Determine Zone**: Identify the current depth zone
 2. **Roll d100**: Generate the base encounter
 3. **Apply Modifiers**: Adjust based on time, politics, environment
 4. **Scale to Level**: Use the encounter difficulty guide
 5. **Add Narrative Context**: Connect to ongoing storylines ### Shallow Waters (0-500 feet)
 
-
 **Summary**: Shallow Waters (0-500 feet) - Key information at a glance.
-
 
 *The diplomatic zone where surface dwellers can still function* | d100 | Encounter | Type | Difficulty |
 |------|-----------|------|------------|
@@ -87,7 +84,6 @@ world: Aquabyssos
 | 86-90 | Pressure tube station with mechanical problems | Environmental | Medium |
 | 91-95 | Crystal corruption spreading through coral reef | Environmental/Horror | Hard |
 | 96-00 | Deep Mother cultist performing strange ritual | Combat/Horror | Hard | ### Mid-Depths (500-2000 feet)
-
 
 **Summary**: Mid-Depths (500-2000 feet) - Key information at a glance.
 
@@ -183,8 +179,6 @@ Modify encounters based on party reputation: ### Narrative Integration Tips 1. *
 4. **World Building**: Use encounters to reveal setting details organically
 5. **Consequence Integration**: Show how previous actions affect random encounters ### Random Complication Generator Roll d12 when you want to add complexity to any encounter: | d12 | Complication |
 
-
-
 |-----|-------------|
 | 1 | A rival party arrives simultaneously |
 | 2 | The encounter is being watched by unknown parties |
@@ -197,11 +191,11 @@ Modify encounters based on party reputation: ### Narrative Integration Tips 1. *
 | 9 | Multiple factions have competing interests in the outcome |
 | 10 | The encounter is actually a test or evaluation |
 | 11 | Time pressure forces rushed decision-making |
-| 12 | The encounter connects to party members' personal histories | --- *"In the depths, every meeting is a choice between alliance and absorption, every discovery a step toward enlightenment or madness."* ## Player-Facing Summary Aquabyssos Encounters is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Aquabyssos Encounters as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aquabyssos Encounters. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Related Notes - [[Similar Topic 1]]
+| 12 | The encounter connects to party members' personal histories | --- *"In the depths, every meeting is a choice between alliance and absorption, every discovery a step toward enlightenment or madness."* ## Player-Facing Summary Aquabyssos Encounters is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Aquabyssos Encounters as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aquabyssos Encounters. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## Scaling by Party Level
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## Scaling by Party Level
 
 - **Level 1-4**: Reduce enemies
 - **Level 5-10**: Standard difficulty
@@ -232,7 +226,6 @@ Modify encounters based on party reputation: ### Narrative Integration Tips 1. *
 
 - Only if feature/spell grants one
 - Common: Off-hand attack, Cunning Action, Healing Word
-
 
 ## Notes
 

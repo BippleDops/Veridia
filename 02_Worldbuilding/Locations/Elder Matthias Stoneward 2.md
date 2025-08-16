@@ -6,7 +6,7 @@ created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
 status: complete
-tags:
+tags: 
 - aethermoor
 - complete
 - content/location
@@ -23,14 +23,8 @@ updated: '2025-08-13T12:34:16.559062+00:00'
 world: Aethermoor
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-elder-matthias-stoneward-elder-matthias-stoneward.svg)
-
-
-
-
 
 # Elder Matthias Stoneward
 
@@ -59,7 +53,7 @@ He wears practical leather work clothes reinforced with crystal-woven fabric tha
 ## Statistics
 **Medium humanoid (mountain dwarf), lawful good**
 - **AC** 17 (Splint Armor)
-- **HP** 102 (15d8 + 30)
+- **HP** 102 (`dice: 15d8` + 30)
 - **Speed** 25 ft, fly 30 ft (crystal harness)
 - **STR** 18 (+4) **DEX** 12 (+1) **CON** 16 (+3) **INT** 19 (+4) **WIS** 15 (+2) **CHA** 13 (+1)
 - **Skills** Athletics +7, Investigation +7, Perception +5, Arcana +7
@@ -78,11 +72,11 @@ He wears practical leather work clothes reinforced with crystal-woven fabric tha
 ### Actions
 **Multiattack.** Matthias makes two attacks with his crystal-enhanced hammer.
 
-**Crystal-Forged Warhammer +1.** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 9 (1d8 + 5) bludgeoning damage plus 4 (1d8) force damage from embedded crystals.
+**Crystal-Forged Warhammer +1.** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 9 (`dice: 1d8` + 5) bludgeoning damage plus 4 (`dice: 1d8`) force damage from embedded crystals.
 
 **Emergency Protocols (1/day).** Matthias can activate emergency systems in a 60-foot radius, creating walls of force, adjusting local gravity, or providing temporary structural support to damaged areas.
 
-**Crystal Resonance (3/day).** Matthias strikes his hammer against a crystal surface, creating a harmonic frequency that can either stabilize corrupted crystals (healing 2d8 HP to crystal-based creatures) or disrupt hostile crystal magic (dispel magic effect).
+**Crystal Resonance (3/day).** Matthias strikes his hammer against a crystal surface, creating a harmonic frequency that can either stabilize corrupted crystals (healing `dice: 2d8` HP to crystal-based creatures) or disrupt hostile crystal magic (dispel magic effect).
 
 ### Legendary Actions (3 per turn, when in engineering areas)
 **Move.** Matthias moves up to his speed.
@@ -124,39 +118,28 @@ He's been conducting discrete investigations while maintaining his regular dutie
 ## DM Notes
 Matthias serves as a valuable source of information about Aethermoor's hidden areas and structural vulnerabilities. His engineering expertise can provide creative solutions to challenges or create dramatic scenarios involving the island's stability. Use his outsider perspective and growing suspicions to highlight the Silverscale Conspiracy's influence while providing a trustworthy ally for characters seeking to uncover the truth.
 
-
 ## Connections
 
-- [[02_Worldbuilding/People/Captain Blackwater]]
-- [[02_Worldbuilding/People/Captain Thaddeus Blackwater]]
-
+- [[02_Worldbuilding/People/Captain Blackwater
+- [02_Worldbuilding/People/Captain Thaddeus Blackwater]]
 
 ## History
 
-
 TODO
-
 
 ## Layout
 
-
 TODO
-
 
 ## Notables
 
-
 TODO
-
 
 ## Threats
 
-
 TODO
 
-
 ## Hooks
-
 
 TODO
 
@@ -181,26 +164,21 @@ Legends speak of Elder Matthias Stoneward as a nexus where past and present conv
 <!-- enriched: true -->
 nriched: true -->
 
-
 ## Atmosphere
 - Mood and feeling
 - Sensory details
-
 
 ## Resources
 - Natural resources
 - Trade goods
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

@@ -2,7 +2,7 @@
 
 title: The Resonance Prophet (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -58,30 +58,29 @@ updated: '2025-08-11T00:00:00+00:00'
 
 A humanoid figure made entirely of living crystal that constantly shifts between different formations. Their body refracts light into rainbow patterns, and when they move, they create harmonic tones. Their face is a smooth crystal surface that shows reflections of whoever looks at them, but distorted to show their "true harmonic nature." ## ⚔️ Statistics
 
-**AC**: 19 (Crystalline Form) **HP**: 150 (14d8 + 70) **Speed**: 30 ft, can phase through crystal at full speed **Proficiency Bonus**: +5 ### Multiattack
+**AC**: 19 (Crystalline Form) **HP**: 150 (`dice: 14d8` + 70) **Speed**: 30 ft, can phase through crystal at full speed **Proficiency Bonus**: +5 ### Multiattack
 
 The Prophet uses Resoce Cascade and then makes two Harmonic Strike attacks. ### Attacks
 
-**Harmonic Strike**: +7 to hit, reach 5 ft, 2d8+2 bludgeoning plus 2d6 thunder damage. Target must make DC 18 CON save or be deafened for 1 minute. **Resoce Cascade** (Recharge 5-6): All creatures within 30 ft must make DC 18 WIS save or begin harmonizing. Harmonizing creatures:
+**Harmonic Strike**: +7 to hit, reach 5 ft, `dice: 2d8`+2 bludgeoning plus `dice: 2d6` thunder damage. Target must make **DC 18** CON save or be deafened for 1 minute. **Resoce Cascade** (Recharge 5-6): All creatures within 30 ft must make **DC 18** WIS save or begin harmonizing. Harmonizing creatures:
 - Share surface thoughts with all other harmonizing creatures
-- Take 2d6 psychic damage if they lie
+- Take `dice: 2d6` psychic damage if they lie
 - Have disadvantage on saves against Prophet's abilities ### Legendary Resistance (3/Day)
 
 If the Prophet fails a saving throw, they can choose to succeed instead. #### Harmonic Shield
 
 First attack each round automatically misses as sound deflects it. #### Crystal Form Shatter
 
-When reduced to 0 HP, explodes in crystal shards (6d6 piercing, 20 ft radius, DEX DC 18 for half) then reforms in 1d4 rounds at half HP (once per day). #### Singer Communication
+When reduced to 0 HP, explodes in crystal shards (`dice: 6d6` piercing, 20 ft radius, DEX **DC 18** for half) then reforms in `dice: 1d4` rounds at half HP (once per day). #### Singer Communication
 
 Can communicate with the Singers Beyond, receiving visions and instructions. During communication, reality warps within 100 ft. #### Forced Harmonization
 
-Creatures that spend 1 hour within 100 ft must make DC 16 WIS save or begin harmonizing with the collective consciousness. ## 🎯 Motivations & Goals
+Creatures that spend 1 hour within 100 ft must make **DC 16** WIS save or begin harmonizing with the collective consciousness. ## 🎯 Motivations & Goals
 
 1. **Establish communication with Singers Beyond**
 2. **Transform all consciousness into harmonic collective**
 3. **Eliminate all sources of dissoce**
 4. **Prepare reality for Singer arrival** ## 📊 Scaling Options
-
 
 - **Lower Level**: Reduce HP to 120, remove some Legendary Actions
 - **Higher Level**: Add area harmonization effects, increase DCs

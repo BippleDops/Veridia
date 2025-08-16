@@ -2,7 +2,7 @@
 
 title: Pressure_Cleric
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -56,11 +56,11 @@ At 1st level, Pressure Clerics choose the Pressure Domain: #### Domain Spells
 | 7th | *Control Water*, *Freedom of Movement* |
 | 9th | *Maelstrom*, *Greater Restoration* | #### Channel Divinity: Pressure Wave (2nd Level)
 
-As an action, create a crushing wave of pressure in a 30-foot cone. All creatures in area make Constitution saving throw or take 2d8 + cleric level force damage and be knocked prone. Creatures that succeed take half damage and aren't knocked prone. Structures and objects take double damage. #### Channel Divinity: Depth Healing (2nd Level)
+As an action, create a crushing wave of pressure in a 30-foot cone. All creatures in area make Constitution saving throw or take `dice: 2d8` + cleric level force damage and be knocked prone. Creatures that succeed take half damage and aren't knocked prone. Structures and objects take double damage. #### Channel Divinity: Depth Healing (2nd Level)
 
 As an action, touch creature and restore hit points equal to 5 × cleric level. If cast underwater or at significant depth, also removes one level of exhaustion and grants resistance to cold damage for 1 hour. #### Divine Strike (8th Level)
 
-Once per turn, add 1d8 force damage to weapon attacks. At 14th level, increases to 2d8. ### Feature: Sacred Depths
+Once per turn, add `dice: 1d8` force damage to weapon attacks. At 14th level, increases to `dice: 2d8`. ### Feature: Sacred Depths
 
 You have access to temples, shrines, and holy sites throughout Aquabyssos, especially in deep-sea locations. Temple communities provide healing, information, and shelter. You can perform religious ceremonies and are recognized as legitimate clergy by most underwater communities. ### Cleric/Paladin (Devotion)
 
@@ -86,7 +86,6 @@ Pressure Clerics worship aspects of water, depth, and transformation. Common dei
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
-
 
 ## Notes
 

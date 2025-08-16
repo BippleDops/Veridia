@@ -2,7 +2,7 @@
 
 title: The Kelp Highway (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -48,7 +48,6 @@ The Kelp Highway is a living crossroads where memory-currents and trade flows in
 - A stranger needs help stealing before winter
 - A journal reveals the truth about the cult
 - Strange dreams suggest ancient magic ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

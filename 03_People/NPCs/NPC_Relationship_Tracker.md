@@ -1,15 +1,14 @@
 ---
 enhanced: true
 tags: [enhanced, 03_people]
-created: 2025-08-15T12:24:41.506855
-modified: 2025-08-15T12:24:41.506860
+created: "2025-08-15T12:24:41.506855"
+modified: "2025-08-15T12:24:41.506860"
 aliases: [NPC Relationship Tracker]
 ---
 
 # Npc Relationship Tracker
 
 > *A figure whose reputation precedes them...* This remarkable element adds depth and intrigue to any campaign.
-
 
 ## Overview
 
@@ -101,7 +100,7 @@ world: Both --- ### Key NPCs - Aquabyssos```👑 GOVERNMENT OFFICIALS ┌──�
 - **First Meeting**: *[How they met the PCs]*
 - **Key Interactions**: *[Important encounters]* ## Alternate Descriptions - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
-- **Hidden Details**: Secret aspects ## DM Tips > 💡 **Running This Content**: Advice for game masters > Adjust difficulty based on party composition ## References - [[NPC_Relationship_Tracker_Quick_Ref|Npc Relationship Tracker Quick Ref]] ## Notes {#notes} *Additional notes* #mechanics/combat
+- **Hidden Details**: Secret aspects ## DM Tips > 💡 **Running This Content**: Advice for game masters > Adjust difficulty based on party composition ## References - [[NPC_Relationship_Tracker_Quick_Ref|Npc Relationship Tracker Quick Ref ## Notes {#notes} *Additional notes* #mechanics/combat
 #mechanics/rules
 #story/plot
 #story/story
@@ -124,12 +123,11 @@ world: Both --- ### Key NPCs - Aquabyssos```👑 GOVERNMENT OFFICIALS ┌──�
 - Hidden knowledge
 - Personal mysteries
 
-
 **Key Question**: What drives this character's actions?
 
 *Adventure awaits those brave enough to seek it.*
 
 ## Visual References
-![[04_Resources/Assets/Portraits/NPCs/portrait_character_relationship_web_core_npcs.png]]
-![[04_Resources/Assets/Portraits/NPCs/portrait_character_faction_relationship_matrix.png]]
-![[04_Resources/Assets/Portraits/NPCs/portrait_npc_relationship_system.png]]
+![04_Resources/Assets/Portraits/NPCs/portrait_character_relationship_web_core_npcs.png]]
+![[04_Resources/Assets/Portraits/NPCs/portrait_character_faction_relationship_matrix.png
+![04_Resources/Assets/Portraits/NPCs/portrait_npc_relationship_system.png]]

@@ -2,7 +2,7 @@
 
 title: The Thorned Sanctuary
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -45,7 +45,6 @@ updated: '2025-08-13T01:18:34.604849+00:00'
 - A map reveals a conspiracy about a local noble
 - A prisoner has gone missing and war looms
 - A map reveals ancient history about a local noble ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

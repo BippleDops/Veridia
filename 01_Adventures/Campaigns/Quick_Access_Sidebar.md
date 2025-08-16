@@ -9,7 +9,6 @@ aliases: ["Quick Access Sidebar"]
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
 
-
 ## Overview
 
 Comprehensive overview of this content.
@@ -35,7 +34,6 @@ publish: false
 ---
 
  # Quick_Access_Sidebar ---
-
 
 ## Description
 
@@ -67,7 +65,6 @@ WHERE contains(tags, "pinned") OR contains(tags, "favorite")
 
 SORT file.name ASC```## 🔥 Hot Keys | Action | Shortcut | Description |
 
-
 |--------|----------|-------------|
 | Quick Search |`Cmd/Ctrl + O`| Open file |
 | Command Palette |`Cmd/Ctrl + P`| Commands |
@@ -96,7 +93,6 @@ WHERE contains(tags, "current") OR last-visited = date(today) ---
 - **Closer Look**: Detailed examination
 - **Hidden Details**: Secret aspects
 
-
 ## Notes {#notes}
 
 *Additional notes*
@@ -117,10 +113,9 @@ WHERE contains(tags, "current") OR last-visited = date(today) ---
 - **Props Needed**: Physical or digital aids to enhance play
 - **Estimated Time**: How long this typically takes to run
 
-
 *Adventure awaits those brave enough to seek it.*
 
 ## Visual References
-![[04_Resources/Assets/Digital/ui-ui-quick-reference-overlay-v1-quick-reference-overlay.png]]
-![[04_Resources/Assets/Digital/ui-ui-quick-reference-overlay-v2-quick-reference-overlay.png]]
+![[04_Resources/Assets/Digital/ui-ui-quick-reference-overlay-v1-quick-reference-overlay.png
+![04_Resources/Assets/Digital/ui-ui-quick-reference-overlay-v2-quick-reference-overlay.png]]
 ![[04_Resources/Assets/Digital/ui-ui-quick-reference-overlay-quick-reference-overlay.png]]

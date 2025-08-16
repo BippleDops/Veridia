@@ -2,7 +2,7 @@
 aliases: ["Random Encounter 65", "random encounter 65", "65 Encounter Random"]
 tags: [generated]
 id: ENC0064_Random_Encounter_65
-created: 2025-08-15T04:09:51.455Z
+created: "2025-08-15T04:09:51.455Z"
 generator: mega_generator_10k
 ---
 # Random Encounter 65
@@ -10,7 +10,7 @@ generator: mega_generator_10k
 *Hard encounter for Dungeon environment*
 
 ## Enemies
-- 1d4 Dire Wolves
+- `dice: 1d4` Dire Wolves
 
 ## Tactics
 Enemies coordinate attacks and use terrain to their advantage

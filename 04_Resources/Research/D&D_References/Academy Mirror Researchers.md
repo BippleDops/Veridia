@@ -2,7 +2,7 @@
 
 title: Academy Mirror Researchers
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -44,7 +44,6 @@ updated: '2025-08-13T01:18:36.774874+00:00'
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes ## Secret Connections *[Hidden from players]* Connected to The Hidden Covenant - Control trade routes ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

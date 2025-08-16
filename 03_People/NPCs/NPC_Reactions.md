@@ -1,8 +1,8 @@
 ---
 enhanced: true
 tags: [enhanced, 03_people]
-created: 2025-08-15T12:24:41.550882
-modified: 2025-08-15T12:24:41.550884
+created: "2025-08-15T12:24:41.550882"
+modified: "2025-08-15T12:24:41.550884"
 aliases: [NPC Reactions]
 ---
 
@@ -39,7 +39,7 @@ publish: false --- # NPC_Reactions ## Portrait![[Npc|Npc]] *Portrait reference f
 - **Bonds**: Connected to several influential organizations
 - **Flaws**: Tendency to overthink situations ## Background Born into modest circumstances, NPC_Reactions rose through dedication and cunning to their current position. ## Abilities - **Skills**: Investigation, Persuasion, Insight
 - **Special Abilities**: Keen tactical mind
-- **Equipment**: Various tools of their trade ## Relationships - **Allies**: [[The Merchant's Guild|The Merchant'S Guild]], [[City Watch|City Watch]]
+- **Equipment**: Various tools of their trade ## Relationships - **Allies**: [[The Merchant's Guild|The Merchant'S Guild, [City Watch|City Watch]]
 - **Rivals**: [[Shadow Conspiracy|Shadow Conspiracy]]
 - **Contacts**: Network of informants throughout the city ## Current Activities Actively involved in current events, pursuing their own agenda while maintaining public appearances. ## Plot Hooks 1. Seeks adventurers for a delicate mission
 2. Has information about a mystery the party is investigating
@@ -53,7 +53,7 @@ publish: false --- # NPC_Reactions ## Portrait![[Npc|Npc]] *Portrait reference f
 - Similar topics
 - Connected elements ## Alternate Descriptions - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
-- **Hidden Details**: Secret aspects ## References - [[Assets Locations Location City Ambassador Lysandra Silvertonge Ambassador Lysandra Silvertonge.svg|Assets Locations Location City Ambassador Lysandra Silvertonge Ambassador Lysandra Silvertonge.Svg]] - [[Assets Locations Location City Master Jeweler Sapphire Delicatehand V1 Master Jeweler Sapphire Delicatehand.svg|Assets Locations Location City Master Jeweler Sapphire Delicatehand V1 Master Jeweler Sapphire Delicatehand.Svg]] ## Notes {#notes} *Additional notes* #mechanics/combat
+- **Hidden Details**: Secret aspects ## References - [[Assets Locations Location City Ambassador Lysandra Silvertonge Ambassador Lysandra Silvertonge.svg|Assets Locations Location City Ambassador Lysandra Silvertonge Ambassador Lysandra Silvertonge.Svg - [Assets Locations Location City Master Jeweler Sapphire Delicatehand V1 Master Jeweler Sapphire Delicatehand.svg|Assets Locations Location City Master Jeweler Sapphire Delicatehand V1 Master Jeweler Sapphire Delicatehand.Svg]] ## Notes {#notes} *Additional notes* #mechanics/combat
 #story/plot
 #story/background
 #world/location
@@ -75,13 +75,11 @@ publish: false --- # NPC_Reactions ## Portrait![[Npc|Npc]] *Portrait reference f
 - Hidden knowledge
 - Personal mysteries
 
-
 **Key Question**: What drives this character's actions?
 ## Session Prep
 - **Read Aloud Text**: Prepared descriptions for key moments
 - **Key NPCs**: Important characters for this content
 - **Props Needed**: Physical or digital aids to enhance play
 - **Estimated Time**: How long this typically takes to run
-
 
 *What happens next is up to you.*

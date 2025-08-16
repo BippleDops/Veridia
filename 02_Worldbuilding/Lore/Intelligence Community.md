@@ -1,10 +1,10 @@
 ---
 
 title: Intelligence Community
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - world/aquabyssos
 - content/faction
 - content/lore
@@ -36,7 +36,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -86,7 +86,7 @@ Intelligence Community is a undersea element of the setting, known for biolumine
 
 Legends speak of Intelligence Community as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Intelligence Community.
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -102,12 +102,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 Mentioned in The Hidden Prophecy of Shadows
 
-## Historical [[Time|[[Time]]line]]
+## Historical [[Time|[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[People]]s
+- War with indigenous [[Peoples
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -139,7 +139,7 @@ Mentioned in The Hidden Prophecy of Shadows
 
 ## References
 
-- [[Shadow Ambush - Optional (Criminal_Organizations)]]
-- [[Crystal-Corruption-Tracking-Sheet]]
-- [[Political Compromise Costs]]
+- [Shadow Ambush - Optional (Criminal_Organizations)]]
+- [[Crystal-Corruption-Tracking-Sheet
+- [Political Compromise Costs]]
 - [[Shadow Ambush - Optional]]

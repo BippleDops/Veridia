@@ -9,7 +9,6 @@ aliases: ["Mobile Dashboard"]
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
 
-
 ## Overview
 
 Comprehensive overview of this content.
@@ -36,7 +35,6 @@ publish: false
 
  # Mobile_Dashboard ---
 
-
 ## Description
 
 **Details**: Rich sensory elements bring this to life. {#description}
@@ -56,10 +54,10 @@ created: 2025-08-14
 modified: '2025-08-14'
 cssclass: mobile-optimized
 
---- ## 📝 Notes - [[Session Notes|Session Notes]]
+--- ## 📝 Notes - [[Session Notes|Session Notes
 
-- [[Playe|Playe]]
-- [[02_Worldbuilding|02 Worldbuilding]] ---
+- [Playe|Playe]]
+- [[02_Worldbuilding|02 Worldbuilding ---
 
 *Optimized for mobile devices* ## Related *Links to related content will be added here.* ## DM Notes *Private notes for campaign integration:*
 
@@ -76,7 +74,6 @@ cssclass: mobile-optimized
 
 > Work together and communicate
 
-
 ## Notes {#notes}
 
 *Additional notes*
@@ -91,6 +88,6 @@ cssclass: mobile-optimized
 *The adventure continues...*
 
 ## Visual References
-![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_assets_symbols_symbol_heraldry_mobile_terror_platform_mobile_terror_platform_svg_dramatic.png]]
-![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_assets_symbols_symbol_heraldry_mobile_terror_platform_mobile_terror_platform_svg_standard.png]]
-![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_assets_symbols_symbol_heraldry_mobile_terror_platform_mobile_terror_platform_svg_friendly.png]]
+![04_Resources/Assets/Portraits/NPCs/Minor/portrait_assets_symbols_symbol_heraldry_mobile_terror_platform_mobile_terror_platform_svg_dramatic.png]]
+![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_assets_symbols_symbol_heraldry_mobile_terror_platform_mobile_terror_platform_svg_standard.png
+![04_Resources/Assets/Portraits/NPCs/Minor/portrait_assets_symbols_symbol_heraldry_mobile_terror_platform_mobile_terror_platform_svg_friendly.png]]

@@ -2,7 +2,7 @@
 
 title: Political Intrigue of Meridian (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -101,7 +101,6 @@ A complex web of political maneuvering, secret alliances, and power struggles cu
 3. Characters' previous actions inadvertently affect political situation
 4. Foreign agents attempt to recruit or eliminate characters ## Political Consequences
 
-
 **Conservative Victory**: Traditional order maintained, reforms blocked
 **Reform Success**: Democratic changes implemented, old guard removed
 **Foreign Takeover**: Outside powers gain control through manipulation
@@ -137,7 +136,6 @@ Political intrigue emphasizes roleplay, investigation, and moral choices over co
 
 - A corpse reveals ancient history about this place
 - Someone is searching for an heir for power ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

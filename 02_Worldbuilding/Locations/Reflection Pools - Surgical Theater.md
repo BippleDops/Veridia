@@ -1,8 +1,8 @@
 ---
 
-title: [[Reflection Pools]]   Surgical Theater
-type: [[location]]
-tags:
+title: [[Reflection Pools   Surgical Theater
+type: [location]]
+tags: 
 - reflection_pools
 - content/location
 - healing
@@ -28,9 +28,9 @@ tags:
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
-[[region]]: Unknown
+[[region: Unknown
 population: 50-80 medical staff, 20-40 patients daily
-MyCategory: [[Places]]
+MyCategory: [Places]]
 MyContainer: None
 created_by: auto-stub
 danger_level: 3
@@ -67,7 +67,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -111,7 +111,7 @@ improvements: 20
 
 ## Overview
 
-The Surgical Theater within [[12 Research]] represents the pinnacle of [[Aquabyssos]]'s medical advancement - a revolutionary facility where traditional surgery merges with consciousness manipulation and memory-based healing techniques. This extraordinary medical complex utilizes the unique properties of the Reflection Pools' memory-infused waters to perform procedures that would be impossible in conventional settings.
+The Surgical Theater within [12 Research]] represents the pinnacle of [[Aquabyssos's medical advancement - a revolutionary facility where traditional surgery merges with consciousness manipulation and memory-based healing techniques. This extraordinary medical complex utilizes the unique properties of the Reflection Pools' memory-infused waters to perform procedures that would be impossible in conventional settings.
 
 Unlike surface-world medicine that focuses purely on physical intervention, the Surgical Theater operates on the principle that consciousness and memory directly affect physical healing. Here, surgeons work not only with scalpels and sutures, but with extracted memories, consciousness-altering environments, and the mystical properties of reflection-enhanced healing chambers. Patients may undergo procedures that heal both their bodies and their minds simultaneously, emerging not only physically restored but with enhanced mental clarity, resolved trauma, or improved cognitive function.
 
@@ -120,7 +120,7 @@ The Theater serves as both a medical facility and a research center, pushing the
 ### The Central Amphitheater
 
 **The Primary Surgical Arena**
-The heart of the complex is a magnificent circular amphitheater carved from living [[Coral]] and filled with carefully controlled reflection pools:
+The heart of the complex is a magnificent circular amphitheater carved from living [Coral]] and filled with carefully controlled reflection pools:
 
 **The Operating Pool** (Center)
 - **Depth**: 8 feet of perfectly still, memory-infused water
@@ -133,7 +133,7 @@ The heart of the complex is a magnificent circular amphitheater carved from livi
 - **Capacity**: 200 observers across five ascending tiers
 - **Purpose**: Teaching amphitheater for medical education and peer review
 - **Equipment**: Magical magnification systems allow detailed observation of procedures
-- **Recording**: All procedures automatically documented in [[Memory Crystals]]
+- **Recording**: All procedures automatically documented in [[Memory Crystals
 - **Student Access**: Medical students observe complex procedures as part of training
 
 **Support Stations** (Perimeter)
@@ -141,17 +141,17 @@ The heart of the complex is a magnificent circular amphitheater carved from livi
 - **Equipment Storage**: Specialized surgical tools and magical implements
 - **Emergency Response**: Rapid intervention stations for complications
 - **Recovery Monitoring**: Immediate post-operative observation and care
-- **Research Documentation**: [[data]] collection and procedure analysis
+- **Research Documentation**: [data]] collection and procedure analysis
 
 ### Specialized Treatment Chambers
 
 **The Memory Operating Rooms** (6 chambers)
 Unique surgical environments designed for consciousness-based procedures:
 - **Isolation Pools**: Completely sealed chambers preventing memory contamination
-- **Consciousness Anchoring**: Systems maintaining patient identity during [[Memory Manipulation]]
+- **Consciousness Anchoring**: Systems maintaining patient identity during [[Memory Manipulation
 - **Surgical Access**: Hybrid physical-mental procedure capabilities
-- **[[Reality Stabilization]]**: Magical fields preventing [[Reality Distortion]] during consciousness work
-- **[[Emergency Protocol]]s**: Rapid consciousness restoration systems
+- **[Reality Stabilization]]**: Magical fields preventing [[Reality Distortion during consciousness work
+- **[Emergency Protocol]]s**: Rapid consciousness restoration systems
 
 **The Trauma Reconstruction Suites** (4 chambers)
 Specialized facilities for treating severe physical and psychological trauma:
@@ -163,11 +163,11 @@ Specialized facilities for treating severe physical and psychological trauma:
 
 **The Consciousness Surgery Labs** (8 chambers)
 Cutting-edge facilities for direct consciousness intervention:
-- **[[Identity Preservation]]**: Advanced systems protecting core personality during procedures
+- **[[Identity Preservation**: Advanced systems protecting core personality during procedures
 - **Memory Grafting**: Controlled integration of therapeutic memories
 - **Cognitive Enhancement**: Procedures improving mental function and clarity
 - **Addiction Treatment**: Consciousness-level intervention for substance dependencies
-- **Personality Disorders**: Structural consciousness repair and re[[Organization]]
+- **Personality Disorders**: Structural consciousness repair and re[Organization]]
 
 ### Support Infrastructure
 
@@ -233,7 +233,7 @@ Using consciousness manipulation to accelerate physical recovery:
 - **Accelerated Tissue Regeneration**: Mental techniques speeding physical healing
 - **Pain Management**: Consciousness-based pain control during and after surgery
 - **Immune System Enhancement**: Mental techniques boosting natural healing responses
-- **Scar Prevention**: Consciousness [[Guidance]] for optimal tissue repair
+- **Scar Prevention**: Consciousness [[Guidance for optimal tissue repair
 - **Functional Recovery**: Mental exercises improving physical rehabilitation outcomes
 
 ### Experimental Procedures
@@ -256,21 +256,21 @@ Advanced techniques for rebuilding damaged consciousness structures:
 
 ### Chief Medical Personnel
 
-**[[Chief Surgeon Dr. Coral Mindsplice]]**
+**[Chief Surgeon Dr. Coral Mindsplice]]**
 - **Specialization**: Consciousness surgery and memory extraction
 - **Background**: Former military surgeon who pioneered battlefield consciousness stabilization
 - **Innovation**: Developed rapid trauma extraction techniques saving hundreds of lives
 - **Reputation**: Internationally recognized expert in consciousness-based healing
 - **Challenge**: Balancing experimental procedures with established medical ethics
 
-**[[Head of Memory Integration Dr. Nautilus Depthcaller]]**
+**[[Head of Memory Integration Dr. Nautilus Depthcaller**
 - **Specialization**: Memory transplantation and personality reconstruction
 - **Background**: Former philosopher who transitioned to medical practice
 - **Philosophy**: Believes consciousness architecture directly determines physical health
 - **Research**: Leading authority on therapeutic memory implantation
 - **Ethics**: Strong advocate for informed consent in consciousness procedures
 
-**[[Sire|Director of Experimental Procedures Dr. [[Sire]]n Voidtouch]]**
+**[[Sire|Director of Experimental Procedures Dr. [Sire]]n Voidtouch]]**
 - **Specialization**: Consciousness transfer and extreme experimental techniques
 - **Background**: Mysterious past involving personal consciousness transfer experience
 - **Innovation**: Pioneered temporary consciousness relocation procedures
@@ -327,7 +327,7 @@ Advanced techniques for rebuilding damaged consciousness structures:
 
 **Initial Consultation**
 1. **Medical History Review**: Comprehensive analysis of physical and psychological history
-2. **Consciousness [[map]]ping**: Detailed analysis of patient's memory and personality structure
+2. **Consciousness [[mapping**: Detailed analysis of patient's memory and personality structure
 3. **Risk Assessment**: Evaluation of potential complications from consciousness procedures
 4. **Treatment Planning**: Development of integrated physical and consciousness treatment plan
 5. **Informed Consent**: Extensive discussion of procedures, risks, and expected outcomes
@@ -343,10 +343,10 @@ Advanced techniques for rebuilding damaged consciousness structures:
 
 **Consciousness Surgery Process**
 - **Anesthesia Induction**: Specialized techniques affecting both body and consciousness
-- **[[Reality Anchoring]]**: Magical systems maintaining patient's connection to reality
+- **[Reality Anchoring]]**: Magical systems maintaining patient's connection to reality
 - **Surgical Access**: Procedures may work on body, consciousness, or both simultaneously
 - **Monitoring**: Continuous tracking of physical vital signs and consciousness stability
-- **Adjustment**: Real-[[Time]] modification of procedures based on patient response
+- **Adjustment**: Real-[[Time modification of procedures based on patient response
 
 **Patient Perspective**
 - **Awareness Levels**: Consciousness procedures may involve various levels of patient awareness
@@ -412,10 +412,10 @@ A patient scheduled for routine consciousness surgery has disappeared, leaving b
 - **Stakes**: Patient's condition may be deteriorating without treatment
 - **Resolution**: Rescue operation or convincing patient to return for needed treatment
 
-**[[Memory Thief|The [[Memory Thief]]]]**
+**[[Memory Thief|The [Memory Thief]]]]**
 Valuable therapeutic memories are being stolen from the facility's archives, threatening ongoing treatments.
 - **Mystery**: Investigating how memories are being accessed and stolen
-- **[[Suspects]]**: Staff with access, patients, [[Criminal_Organizations|Criminal Organizations]], foreign agents
+- **[[Suspects**: Staff with access, patients, [Criminal_Organizations|Criminal Organizations]], foreign agents
 - **Consequences**: Stolen memories may be sold or used for harmful purposes
 - **Action**: Preventing theft and recovering stolen memories
 
@@ -430,17 +430,17 @@ Multiple patients are experiencing severe consciousness fragmentation after rout
 - **Resolution**: Treating affected patients and preventing further cases
 
 **The Ethical Dilemma**
-A foreign diplomat re[[Quests]] illegal consciousness modification to prevent revealing state secrets under interrogation.
+A foreign diplomat re[[Quests illegal consciousness modification to prevent revealing state secrets under interrogation.
 - **Politics**: Balancing medical ethics with diplomatic and security concerns
 - **Pressure**: Multiple factions pushing for different solutions
-- **Consequences**: Decision affects [[International Relations]] and medical ethics precedent
+- **Consequences**: Decision affects [International Relations]] and medical ethics precedent
 - **Investigation**: Understanding true motives and stakes involved
 - **Resolution**: Finding solution that satisfies ethical and political requirements
 
 ### High-Level Adventures (Levels 10+)
 
 **The Consciousness Conspiracy**
-[[Evidence]] suggests systematic consciousness modification of important political figures.
+[[Evidence suggests systematic consciousness modification of important political figures.
 - **Scope**: Investigation revealing widespread political manipulation
 - **Complexity**: Conspiracy may involve multiple nations and organizations
 - **Stakes**: Democratic institutions and national sovereignty at risk
@@ -457,11 +457,11 @@ Experimental consciousness procedures have begun affecting the nature of reality
 
 ### The Memory Market
 
-Beyond official procedures, the Theater secretly facilitates [[Memory Trading]]:
+Beyond official procedures, the Theater secretly facilitates [Memory Trading]]:
 - **Black Market Operations**: Illegal buying and selling of extracted memories
 - **Celebrity Memories**: High-value memories from famous individuals
 - **Skill Downloading**: Instant expertise through memory implantation
-- **Experience Trading**: [[People]] selling unique or valuable experiences
+- **Experience Trading**: [[People selling unique or valuable experiences
 - **Identity Trafficking**: Complete personality exchanges for various purposes
 
 ### 
@@ -470,7 +470,7 @@ Hidden beneath the facility lies a vast archive of consciousness data:
 - **Historical Figures**: Preserved consciousness patterns of important historical personalities
 - **Disaster Victims**: Consciousness patterns extracted from dying individuals
 - **Criminal Minds**: Stored consciousness patterns of dangerous criminals
-- **[[Foreign Intelligence]]**: Extracted consciousness data from foreign agents
+- **[Foreign Intelligence]]**: Extracted consciousness data from foreign agents
 - **Research Subjects**: Experimental consciousness patterns for research purposes
 
 ### The Reality Anchor
@@ -490,18 +490,18 @@ The facility's most closely guarded secret is a device preventing reality distor
 
 Reflection Pools   Surgical Theater is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## [[Lore]] Details
+## [[Lore Details
 
 Legends speak of Reflection Pools   Surgical Theater as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Reflection Pools   Surgical Theater.
 
-### [[Key Locations]]
+### [Key Locations]]
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -539,7 +539,7 @@ Reflection Pools - Surgical Theater was established in the distant past, growing
 
 ## Connections
 - **North**: Trade road to neighboring settlement
-- **South**: [[path]] through wilderness
+- **South**: [path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
 
@@ -642,11 +642,9 @@ Key stop on metals trade route
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

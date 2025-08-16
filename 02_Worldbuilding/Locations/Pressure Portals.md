@@ -1,9 +1,9 @@
 ---
 
 title: Pressure Portals
-type: [[location]]
-tags:
-- [[Aquabyssos]]
+type: [[location
+tags: 
+- [Aquabyssos]]
 - world/aquabyssos
 - content/location
 - place
@@ -42,7 +42,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -84,20 +84,20 @@ improvements: 20
 
 Pressure Portals is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## [[Lore]] Details
+## [Lore]] Details
 
 Legends speak of Pressure Portals as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pressure Portals.
 
-### [[Key Locations]]
+### [[Key Locations
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map use.
 
 ## Sensory Details
 
@@ -130,7 +130,7 @@ Pressure Portals is a notable location characterized by its unique features and 
 
 ## Connections
 - **North**: Trade road to neighboring settlement
-- **South**: [[path]] through wilderness
+- **South**: [path]] through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
 
@@ -157,10 +157,10 @@ Ongoing situations affecting Pressure Portals:
   - Traits: undead fortitude, turn resistance, life drain
   - CR Range: 20
   
-### [[Environmental Hazards]]
+### [[Environmental Hazards
 - Pit trap
-- DC 15 to detect
-- 3d6 damage on failure
+- **DC 15** to detect
+- `dice: 3d6` damage on failure
 
 ### Magical Influences
 - Active Spell Effect: **Fireball**
@@ -171,12 +171,12 @@ Ongoing situations affecting Pressure Portals:
 
 Key stop on metals trade route
 
-## Historical [[Time|[[Time]]line]]
+## Historical [[Time|[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[People]]s
+- War with indigenous [[Peoples
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -186,7 +186,7 @@ Key stop on metals trade route
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current [[Power Structures]] established
+- Current [Power Structures]] established
 
 ## Cultural Practices
 
@@ -255,19 +255,16 @@ Key stop on metals trade route
 
 ## References
 
-- [[Abyssos Prime - Inverse Palace]]
-- [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]]
-
+- [[Abyssos Prime - Inverse Palace
+- [Abyssos Prime - Inverse Palace (D&D_Statblocks)]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

@@ -2,7 +2,7 @@
 
 title: Working Class Citizens (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,12 +43,11 @@ updated: '2025-08-13T01:18:37.040721+00:00'
 
 - A document has gone missing and chaos spreads
 - A prisoner has gone missing and truth emerges
-- Someone is searching for a artifact for money ## Related Notes - [[Similar Topic 1]]
+- Someone is searching for a artifact for money ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]]
 
 ## Notes
 

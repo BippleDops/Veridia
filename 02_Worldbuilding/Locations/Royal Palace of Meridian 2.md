@@ -3,7 +3,7 @@ created: '2025-08-08'
 created_by: auto-stub
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - aethermoor
 - complete
 - content/faction
@@ -18,13 +18,8 @@ updated: '2025-08-13T12:34:17.016940+00:00'
 world: Aethermoor
 ---
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-royal-palace-of-meridian-royal-palace-of-meridian.svg)
-
-
-
-
 
 # Royal Palace of Meridian
 
@@ -140,38 +135,27 @@ The Royal Palace of Meridian is the seat of government for the surface kingdom o
 ## DM Notes
 The Royal Palace serves as center for political adventures, diplomatic missions, and court intrigue. Use the complex relationships between nobles, foreign agents, and government officials to create multilayered plots with significant consequences for player choices.
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/The Royal Palace]]
-
+- [[02_Worldbuilding/Places/The Royal Palace
 
 ## History
 
-
 TODO
-
 
 ## Layout
 
-
 TODO
-
 
 ## Notables
 
-
 TODO
-
 
 ## Threats
 
-
 TODO
 
-
 ## Hooks
-
 
 TODO
 
@@ -185,30 +169,25 @@ Legends speak of Royal Palace of Meridian as a nexus where past and present conv
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Royal Palace of Meridian]]
+- [02_Worldbuilding/Places/Royal Palace of Meridian]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

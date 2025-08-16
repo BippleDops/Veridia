@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - aethermoor
 - complete
 - content/lore
@@ -13,18 +13,13 @@ updated: '2025-08-13T12:34:16.154385+00:00'
 world: Aethermoor
 ---
 
-
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Lady Venetia Silkwind]]
-
+- [[02_Worldbuilding/Groups/Lady Venetia Silkwind
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Lady Venetia Silkwind]]
+- [02_Worldbuilding/Groups/Lady Venetia Silkwind]]
 
 ## Player-Facing Summary
 

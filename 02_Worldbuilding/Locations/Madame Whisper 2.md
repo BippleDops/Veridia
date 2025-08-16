@@ -6,7 +6,7 @@ created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -23,15 +23,8 @@ updated: '2025-08-13T12:34:16.554417+00:00'
 world: Aquabyssos
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-madame-whisper-madame-whisper.svg)
-
-
-
-
-
 
 # Madame Whisper
 
@@ -60,7 +53,7 @@ Her movements are graceful and deliberate, and she has an uncanny ability to app
 ## Statistics
 **Medium humanoid (sea elf), neutral**
 - **AS** 15 (Elegant Armor)
-- **HP** 65 (10d8 + 20)
+- **HP** 65 (`dice: 10d8` + 20)
 - **Speed** 30 ft, swim 30 ft
 - **STR** 10 (+0) **DEX** 16 (+3) **CON** 14 (+2) **INT** 18 (+4) **WIS** 17 (+3) **CHA** 20 (+5)
 - **Skills** Deception +11, Insight +9, Investigation +10, Perception +9, Persuasion +11
@@ -76,11 +69,11 @@ Her movements are graceful and deliberate, and she has an uncanny ability to app
 **Social Camouflage.** Madame Whisper has advantage on Charisma checks when interacting with nobility, merchants, or other social elites.
 
 ### Actions
-**Subtle Dagger.** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 5 (1d4 + 3) piercing damage plus 10 (3d6) psychic damage as the blade carries whispered secrets that disturb the target's mind.
+**Subtle Dagger.** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 5 (`dice: 1d4` + 3) piercing damage plus 10 (`dice: 3d6`) psychic damage as the blade carries whispered secrets that disturb the target's mind.
 
 **Compelling Suggestion.** Madame Whisper can cast *suggestion* three times per day without expending spell slots.
 
-**Information Exchange.** As an action, Madame Whisper can offer a piece of valuable information in exchange for another secret of equal value. Both parties must make a Wisdom saving throw (DC 16); those who fail feel compelled to share truthfully.
+**Information Exchange.** As an action, Madame Whisper can offer a piece of valuable information in exchange for another secret of equal value. Both parties must make a Wisdom saving throw (**DC 16**); those who fail feel compelled to share truthfully.
 
 ### Legendary Actions (3 per turn, when in her salon)
 **Move.** Madame Whisper moves up to her speed without provoking opportunity attacks.
@@ -121,38 +114,27 @@ She's also investigating reports of outside interference in Aquabyssos's politic
 ## DM Notes
 Madame Whisper serves as an excellent source of information and social connections while maintaining neutrality that makes her useful to any party regardless of their factional allegiances. Her salon can serve as a safe meeting ground and her information network can advance or complicate plots as needed. Use her sophisticated approach to espionage to contrast with cruder spy operations in the campaign.
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/The Phosphor Markets]]
-
+- [[02_Worldbuilding/Places/The Phosphor Markets
 
 ## History
 
-
 TODO
-
 
 ## Layout
 
-
 TODO
-
 
 ## Notables
 
-
 TODO
-
 
 ## Threats
 
-
 TODO
 
-
 ## Hooks
-
 
 TODO
 
@@ -172,30 +154,25 @@ Legends speak of Madame Whisper as a nexus where past and present converge. Loca
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Madame Whisper]]
+- [02_Worldbuilding/Places/Madame Whisper]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

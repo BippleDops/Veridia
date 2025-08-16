@@ -2,7 +2,7 @@
 
 title: Councilor Depths Controlled
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -45,7 +45,6 @@ updated: '2025-08-13T01:18:34.692947+00:00'
 - A corpse reveals ancient history about the government
 - A journal reveals the truth about the cult
 - An heirloom has gone missing and war looms ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

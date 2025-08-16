@@ -2,7 +2,7 @@
 
 title: Quartermaster Judith Steadfast (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -66,7 +66,6 @@ The main structure is a series of interconnected buildings designed for maximum 
 - **Communication Office**: Magical and mundane systems for coordinating with suppliers and recipients
 - **Quality Control Laboratory**: Testing facilities ensuring all supplies meet required standards ### The Specialized Storage Wings
 
-
 **Summary**: The Specialized Storage Wings - Key information at a glance.
 
 *Purpose-built facilities for different categories of supplies* **Food Storage Division**
@@ -117,7 +116,6 @@ The main structure is a series of interconnected buildings designed for maximum 
 **Construction Materials**: Building supplies, tools, and equipment for infrastructure projects
 **Trade Goods**: Commercial products for distribution to merchants and businesses
 **Emergency Reserves**: Crisis stockpiles for disaster response and security threats ### Quartermaster Judith Steadfast
-
 
 **Summary**: Quartermaster Judith Steadfast - Key information at a glance.
 
@@ -238,7 +236,6 @@ The depot maintains secret relationships with suppliers from dimensions or plane
 - **Research Institutions**: Provides materials and equipment for academic and experimental projects *The Steadfast Supply Depot stands as the unseen foundation upon which Aquabyssos's prosperity rests, where the careful orchestration of countless details ensures that the right supplies reach the right people at precisely the right time, every time.* ## Player-Facing Summary Quartermaster Judith Steadfast is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Quartermaster Judith Steadfast as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quartermaster Judith Steadfast. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A merchant needs help stealing before the new moon
 
 - A document has gone missing and evil awakens ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

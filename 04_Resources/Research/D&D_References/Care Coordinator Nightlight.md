@@ -2,7 +2,7 @@
 
 title: Care Coordinator Nightlight
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -44,10 +44,9 @@ updated: '2025-08-13T01:18:34.744297+00:00'
 
 - Someone is searching for a artifact for money
 - A map reveals a betrayal about the government
-- Strange disappearances suggest ancient magic ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Shadow Vale (Criminal_Organizations)]]
+- Strange disappearances suggest ancient magic ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Shadow Vale (Criminal_Organizations)
 
-- [[Shadow Vale]]
-
+- [Shadow Vale]]
 
 ## Notes
 

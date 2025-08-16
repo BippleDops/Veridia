@@ -2,7 +2,7 @@
 
 title: Crystal Plague Progression
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -48,11 +48,10 @@ Practical, table-ready rules for Crystal Plague Progression across Aquabyssos an
 
 - The authorities needs help stealing before the new moon
 - A corpse reveals a conspiracy about the government
-- Someone is blackmailing a witness for revenge ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Comprehensive-World-Connection-Guide]]
+- Someone is blackmailing a witness for revenge ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Comprehensive-World-Connection-Guide
 
-- [[Comprehensive-World-Connection-Guide (D&D_References)]]
+- [Comprehensive-World-Connection-Guide (D&D_References)]]
 - [[Comprehensive-World-Connection-Guide 3 (D&D_References)]]
-
 
 ## Notes
 

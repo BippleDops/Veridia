@@ -2,7 +2,7 @@
 created: '2025-08-11'
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - aethermoor
 - complete
 - content/location
@@ -13,11 +13,6 @@ type: Location
 updated: '2025-08-13T12:34:16.711196+00:00'
 world: Aethermoor
 ---
-
-
-
-
-
 
 ## Overview
 
@@ -58,37 +53,31 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Countess Argentum Vaultkeeper]]
+- [[02_Worldbuilding/Places/Countess Argentum Vaultkeeper
 
 <!-- enriched: true -->
 
-
 ## Connections
 
-- [[02_Worldbuilding/Groups/Silverscale Consortium]]
-- [[02_Worldbuilding/People/Lady Jade Clawgrip]]
-- [[02_Worldbuilding/People/The Nameless Auditor]]
-
+- [02_Worldbuilding/Groups/Silverscale Consortium]]
+- [[02_Worldbuilding/People/Lady Jade Clawgrip
+- [02_Worldbuilding/People/The Nameless Auditor]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

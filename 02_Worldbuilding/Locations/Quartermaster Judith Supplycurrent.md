@@ -2,7 +2,7 @@
 
 title: Quartermaster Judith Supplycurrent
 type: Location
-tags:
+tags: 
 - aquabyssos
 - world/aquabyssos
 - content/location
@@ -229,11 +229,9 @@ Mentioned in The First Prophecy of Shadows
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

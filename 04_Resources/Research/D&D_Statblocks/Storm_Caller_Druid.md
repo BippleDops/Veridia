@@ -2,7 +2,7 @@
 
 title: Storm_Caller_Druid
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -79,12 +79,11 @@ Storm Callers are revered and feared in equal measure throughout Aethermoor. The
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes ## Secret Connections *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes ## Prophecy Connection Mentioned in The Second Prophecy of Winds ## Plot Hooks - A prisoner has gone missing and chaos spreads
 
-- A corpse reveals a betrayal about the government ## Related Notes - [[Similar Topic 1]]
+- A corpse reveals a betrayal about the government ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

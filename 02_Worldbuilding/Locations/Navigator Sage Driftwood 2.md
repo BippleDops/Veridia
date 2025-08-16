@@ -6,7 +6,7 @@ created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -23,15 +23,8 @@ updated: '2025-08-13T12:34:16.684963+00:00'
 world: Aquabyssos
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-navigator-sage-driftwood-navigator-sage-driftwood.svg)
-
-
-
-
-
 
 # Navigator Sage Driftwood
 
@@ -60,7 +53,7 @@ She dresses in practical but elegant robes made from various aquatic materials -
 ## Statistics
 **Medium humanoid (sea elf), neutral good**
 - **AS** 14 (Natural Armor + Wisdom)
-- **HP** 85 (19d8)
+- **HP** 85 (`dice: 19d8`)
 - **Speed** 30 ft, swim 40 ft
 - **STR** 10 (+0) **DEX** 14 (+2) **CON** 12 (+1) **INT** 18 (+4) **WIS** 20 (+5) **CHA** 16 (+3)
 - **Skills** History +10, Insight +11, Investigation +7, Nature +10, Perception +11, Survival +11
@@ -78,13 +71,13 @@ She dresses in practical but elegant robes made from various aquatic materials -
 **Sea Elf Heritage.** Driftwood has advantage on saving throws against charm effects and cannot be put to sleep by magic.
 
 ### Actions
-**Driftwood Staff.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning damage plus 9 (2d8) psychic damage as the staff shares overwhelming oceanic memories.
+**Driftwood Staff.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (`dice: 1d6`) bludgeoning damage plus 9 (`dice: 2d8`) psychic damage as the staff shares overwhelming oceanic memories.
 
 **Oceanic Guidance (3/day).** Driftwood can cast *find the path* or *commune with nature* without expending spell slots, but only for oceanic environments.
 
 **Tidal Blessing (1/day).** Driftwood can grant herself and up to six allies the ability to breathe water, swim speed equal to walking speed, and resistance to pressure damage for 24 hours.
 
-**Call of the Deep (1/day).** Driftwood can summon 2d4 sea creatures (dolphins, whales, or similar) to aid her party for up to 1 hour.
+**Call of the Deep (1/day).** Driftwood can summon `dice: 2d4` sea creatures (dolphins, whales, or similar) to aid her party for up to 1 hour.
 
 ### Legendary Actions (3 per turn, when in oceanic environments)
 **Move.** Driftwood swims up to her speed without provoking opportunity attacks.
@@ -127,40 +120,29 @@ She's also been approached by various factions seeking her navigation services f
 ## DM Notes
 Sage Driftwood serves as both a practical resource for oceanic travel and a source of wisdom about the deeper mysteries of the sea. Her philosophical approach to navigation can provide unique insights into problems, while her oceanic connections offer opportunities for underwater adventures and encounters with sea creatures. Use her neutral stance and ancient wisdom to provide guidance that transcends factional politics.
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/Compass Quest]]
-- [[02_Worldbuilding/Places/The Forgotten One]]
-- [[02_Worldbuilding/Places/The Wandering Atoll]]
-
+- [[02_Worldbuilding/Places/Compass Quest
+- [02_Worldbuilding/Places/The Forgotten One]]
+- [[02_Worldbuilding/Places/The Wandering Atoll
 
 ## History
 
-
 TODO
-
 
 ## Layout
 
-
 TODO
-
 
 ## Notables
 
-
 TODO
-
 
 ## Threats
 
-
 TODO
 
-
 ## Hooks
-
 
 TODO
 
@@ -180,30 +162,25 @@ Legends speak of Navigator Sage Driftwood as a nexus where past and present conv
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Navigator Sage Driftwood]]
+- [02_Worldbuilding/Places/Navigator Sage Driftwood]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

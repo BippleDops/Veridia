@@ -13,7 +13,7 @@ location: Goldleaf Manor, Aethermoor
 obsidianUIMode: preview
 occupation: Trading House Matriarch
 status: complete
-tags:
+tags: 
 - aethermoor
 - complete
 - content/location
@@ -32,14 +32,8 @@ updated: '2025-08-13T12:34:16.530826+00:00'
 world: Aethermoor
 ---
 
-
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-madame-rosalind-goldleaf-madame-rosalind-goldleaf.svg)
-
-
-
 
 # Madame Rosalind Goldleaf
 *The Golden Voice of Commerce*
@@ -49,16 +43,16 @@ world: Aethermoor
 
 ## Overview
 
-Madame Rosalind Goldleaf stands as one of [[02_Worldbuilding/Places/Aethermoor]]'s most influential merchant-nobles, wielding economic power and social connections that rival formal political authority. As matriarch of the Goldleaf Trading House, she has transformed a modest family business into a commercial empire spanning multiple realms while maintaining the refined social graces that define [[02_Worldbuilding/Places/Aethermoor]]'s elite society.
+Madame Rosalind Goldleaf stands as one of [[02_Worldbuilding/Places/Aethermoor's most influential merchant-nobles, wielding economic power and social connections that rival formal political authority. As matriarch of the Goldleaf Trading House, she has transformed a modest family business into a commercial empire spanning multiple realms while maintaining the refined social graces that define [02_Worldbuilding/Places/Aethermoor]]'s elite society.
 
-Beyond her commercial success, Madame Goldleaf serves as informal power broker and social coordinator for [[02_Worldbuilding/Places/Aethermoor]]'s merchant class, using her position to facilitate cooperation between different trading houses while advancing policies that benefit commercial interests throughout the realm.
+Beyond her commercial success, Madame Goldleaf serves as informal power broker and social coordinator for [[02_Worldbuilding/Places/Aethermoor's merchant class, using her position to facilitate cooperation between different trading houses while advancing policies that benefit commercial interests throughout the realm.
 
 ## Character Statistics
 
 **Madame Rosalind Goldleaf** (Medium humanoid, lawful neutral)
 
 **Armor Class** 15 (Elegant Robes + Dex)  
-**Hit Points** 71 (11d8 + 22)  
+**Hit Points** 71 (`dice: 11d8` + 22)  
 **Speed** 30 ft.
 
 **STR** 10 (+0) **DEX** 14 (+2) **CON** 14 (+2) **INT** 18 (+4) **WIS** 16 (+3) **CHA** 20 (+5)
@@ -77,7 +71,7 @@ Beyond her commercial success, Madame Goldleaf serves as informal power broker a
 
 **Market Manipulation.** Once per day, Madame Goldleaf can significantly influence local prices, availability, or demand for specific goods or services.
 
-**Spellcasting.** Madame Goldleaf is an 11th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks):
+**Spellcasting.** Madame Goldleaf is an 11th-level spellcaster. Her spellcasting ability is Charisma (spell save **DC 17**, +9 to hit with spell attacks):
 
 - **Cantrips (at will):** *mage hand*, *minor illusion*, *prestidigitation*, *thaumaturgy*
 - **1st level (4 slots):** *charm person*, *comprehend languages*, *disguise self*
@@ -89,9 +83,9 @@ Beyond her commercial success, Madame Goldleaf serves as informal power broker a
 
 ### Actions
 
-**Elegant Rapier.** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage. This ornate weapon is primarily ceremonial but functional.
+**Elegant Rapier.** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (`dice: 1d8` + 2) piercing damage. This ornate weapon is primarily ceremonial but functional.
 
-**Compelling Offer (3/Day).** Madame Goldleaf makes an irresistible business proposition to one creature within 30 feet. The target must make a DC 17 Wisdom saving throw or be charmed for 10 minutes and strongly inclined to accept her proposal.
+**Compelling Offer (3/Day).** Madame Goldleaf makes an irresistible business proposition to one creature within 30 feet. The target must make a **DC 17** Wisdom saving throw or be charmed for 10 minutes and strongly inclined to accept her proposal.
 
 **Social Pressure.** Madame Goldleaf can use her social connections to impose disadvantage on one creature's Charisma-based checks for 24 hours by damaging their reputation.
 
@@ -101,7 +95,7 @@ Beyond her commercial success, Madame Goldleaf serves as informal power broker a
 
 Born into the established but modest Goldleaf merchant family, Rosalind showed exceptional talent for commerce and social interaction from an early age, demonstrating intuitive understanding of market forces and human motivations that would define her later success.
 
-Her formal education combined traditional noble accomplishments with practical business training, creating unique blend of social graces and commercial acumen that would prove essential for navigating [[02_Worldbuilding/Places/Aethermoor]]'s complex social and economic landscape.
+Her formal education combined traditional noble accomplishments with practical business training, creating unique blend of social graces and commercial acumen that would prove essential for navigating [02_Worldbuilding/Places/Aethermoor]]'s complex social and economic landscape.
 
 Early exposure to family business operations provided hands-on experience with trade negotiations, customer relations, and the delicate balance between profit and reputation that characterizes successful long-term commerce.
 
@@ -115,7 +109,7 @@ Successive business successes allowed reinvestment in increasingly ambitious ven
 
 ### Social Prominence
 
-Commercial success provided platform for social advancement within [[02_Worldbuilding/Places/Aethermoor]]'s elite circles, where Madame Goldleaf's charm and intelligence earned respect and influence beyond her economic contributions.
+Commercial success provided platform for social advancement within [[02_Worldbuilding/Places/Aethermoor's elite circles, where Madame Goldleaf's charm and intelligence earned respect and influence beyond her economic contributions.
 
 Her role as hostess and social coordinator for merchant community events established her as informal leader for commercial interests, providing forum for cooperation and coordination among different trading houses.
 
@@ -125,7 +119,7 @@ Growing influence in social and economic affairs led to unofficial advisory role
 
 ### Trading House Operations
 
-As matriarch of Goldleaf Trading House, Madame Goldleaf oversees extensive commercial operations including import/export trade, manufacturing interests, financial services, and real estate investments throughout [[02_Worldbuilding/Places/Aethermoor]] and allied territories.
+As matriarch of Goldleaf Trading House, Madame Goldleaf oversees extensive commercial operations including import/export trade, manufacturing interests, financial services, and real estate investments throughout [02_Worldbuilding/Places/Aethermoor]] and allied territories.
 
 Her direct involvement focuses on strategic planning, major negotiations, and relationship management with key partners and customers, while delegating day-to-day operations to trusted family members and employees.
 
@@ -133,7 +127,7 @@ Quality control and reputation management receive personal attention, as Madame 
 
 ### Merchant Community Leadership
 
-Madame Goldleaf serves as unofficial spokesperson and coordinator for [[02_Worldbuilding/Places/Aethermoor]]'s merchant community, facilitating cooperation between different trading houses and presenting unified positions on issues affecting commercial interests.
+Madame Goldleaf serves as unofficial spokesperson and coordinator for [[02_Worldbuilding/Places/Aethermoor's merchant community, facilitating cooperation between different trading houses and presenting unified positions on issues affecting commercial interests.
 
 Her regular hosting of social and business events provides forum for information exchange, relationship building, and collaborative problem-solving among merchants who might otherwise compete more destructively.
 
@@ -141,7 +135,7 @@ Advocacy for merchant interests in government policy discussions helps ensure th
 
 ### Social Influence
 
-As prominent member of [[02_Worldbuilding/Places/Aethermoor]]'s elite society, Madame Goldleaf uses her social position to build relationships that benefit both her business interests and broader community welfare.
+As prominent member of [02_Worldbuilding/Places/Aethermoor]]'s elite society, Madame Goldleaf uses her social position to build relationships that benefit both her business interests and broader community welfare.
 
 Her patronage of arts, culture, and charitable causes enhances her social standing while contributing to community development and maintaining positive public image for merchant class activities.
 
@@ -159,7 +153,7 @@ Ethical business practices are viewed as practical necessities rather than abstr
 
 ### Social Ambitions
 
-Beyond personal commercial success, Madame Goldleaf seeks to elevate the social status and political influence of the merchant class within [[02_Worldbuilding/Places/Aethermoor]]'s traditional hierarchy.
+Beyond personal commercial success, Madame Goldleaf seeks to elevate the social status and political influence of the merchant class within [[02_Worldbuilding/Places/Aethermoor's traditional hierarchy.
 
 She believes that economic contribution should translate to political representation and social respect, working to change attitudes that view commerce as less honorable than other elite occupations.
 
@@ -215,7 +209,7 @@ Contingency plans exist for various scenarios including sudden incapacitation, e
 
 **Goldleaf Manor** - Impressive residence serving as both family home and business headquarters, designed to impress visitors while providing secure meeting spaces and document storage.
 
-**Commercial Properties** - Multiple warehouses, shops, and offices throughout [[02_Worldbuilding/Places/Aethermoor]] providing operational bases and revenue generation for trading house activities.
+**Commercial Properties** - Multiple warehouses, shops, and offices throughout [02_Worldbuilding/Places/Aethermoor]] providing operational bases and revenue generation for trading house activities.
 
 **Transportation Network** - Fleet of ships, wagons, and other vehicles enabling efficient movement of goods and personnel between different markets and operational locations.
 
@@ -225,15 +219,15 @@ Contingency plans exist for various scenarios including sudden incapacitation, e
 
 ### Family Members
 
-**[[02_Worldbuilding/Places/Pip Goldleaf]]** - Younger family member being groomed for eventual leadership role, whose development and loyalty are crucial for family business continuity.
+**[[02_Worldbuilding/Places/Pip Goldleaf** - Younger family member being groomed for eventual leadership role, whose development and loyalty are crucial for family business continuity.
 
-**[[02_Worldbuilding/Lore/Marcus Goldleaf]]** - Family member specializing in financial operations and international trade relationships, providing essential expertise for complex commercial arrangements.
+**[02_Worldbuilding/Lore/Marcus Goldleaf]]** - Family member specializing in financial operations and international trade relationships, providing essential expertise for complex commercial arrangements.
 
 **Elena Goldleaf** - Family member focused on manufacturing and quality control operations, ensuring that Goldleaf products maintain reputation for excellence.
 
 ### Business Partners
 
-**[[02_Worldbuilding/People/Trade Captain Sterling]]** - Reliable shipping partner providing transportation services and access to international markets while maintaining discretion about sensitive cargo.
+**[[02_Worldbuilding/People/Trade Captain Sterling** - Reliable shipping partner providing transportation services and access to international markets while maintaining discretion about sensitive cargo.
 
 **Banker Merchant** - Financial services provider enabling complex commercial arrangements while offering investment opportunities and market intelligence.
 
@@ -245,7 +239,7 @@ Contingency plans exist for various scenarios including sudden incapacitation, e
 
 **Government Official** - Administrative contact providing information about policy developments and regulatory changes affecting commercial operations.
 
-**[[02_Worldbuilding/Groups/Cultural_Organizations/Cultural Patron]]** - Fellow supporter of arts and culture, sharing interests in community development while building social influence through collaborative projects.
+**[02_Worldbuilding/Groups/Cultural_Organizations/Cultural Patron]]** - Fellow supporter of arts and culture, sharing interests in community development while building social influence through collaborative projects.
 
 ## Quest Hooks and Adventure Opportunities
 
@@ -275,7 +269,7 @@ Internal conflicts within the Goldleaf family threaten to tear apart the trading
 **Level**: 9-13  
 **Type**: Investigation/Economic Thriller
 
-Someone is artificially manipulating markets to damage [[02_Worldbuilding/Places/Aethermoor]]'s economy, and Madame Goldleaf recruits the party to investigate and stop this economic warfare before it causes widespread damage.
+Someone is artificially manipulating markets to damage [[02_Worldbuilding/Places/Aethermoor's economy, and Madame Goldleaf recruits the party to investigate and stop this economic warfare before it causes widespread damage.
 
 ## DM Notes and Usage Guidelines
 
@@ -303,14 +297,13 @@ Her success demonstrates how characters can build influence and power through in
 
 Interactions with Madame Goldleaf can help players understand economic systems, political influence, and the importance of reputation and relationships in achieving long-term goals.
 
-
 ## Connections
 
-- [[02_Worldbuilding/Groups/Merchant Princes]]
-- [[02_Worldbuilding/Places/Crystalhaven]]
-- [[02_Worldbuilding/Places/Pip Goldleaf]]
-- [[02_Worldbuilding/Places/Port Meridian]]
-- [[02_Worldbuilding/Places/The Grand Bazaar of Echoing Coins]]
+- [02_Worldbuilding/Groups/Merchant Princes]]
+- [[02_Worldbuilding/Places/Crystalhaven
+- [02_Worldbuilding/Places/Pip Goldleaf]]
+- [[02_Worldbuilding/Places/Port Meridian
+- [02_Worldbuilding/Places/The Grand Bazaar of Echoing Coins]]
 
 ## Player-Facing Summary
 
@@ -332,31 +325,26 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Madame Rosalind Goldleaf]]
+- [[02_Worldbuilding/Places/Madame Rosalind Goldleaf
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Places/Aethermoor]]
-
+- [02_Worldbuilding/Places/Aethermoor]]
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

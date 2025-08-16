@@ -2,7 +2,7 @@
 
 title: Vehicles_Index
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -45,26 +45,26 @@ status: complete
 updated: '2025-08-13T01:18:37.142424+00:00'
 world: Both
 
---- # Vehicle Systems Index Your hub for all aquatic, aerial, and merger-zone vehicles across Aquabyssos and Aethermoor. Every system below integrates with: [[Complete Pressure Adaptation System]], [[Complete Reality Merger System]], [[Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], and [[Deep Mother]]. ### Encounter Sheets
+--- # Vehicle Systems Index Your hub for all aquatic, aerial, and merger-zone vehicles across Aquabyssos and Aethermoor. Every system below integrates with: [[Complete Pressure Adaptation System, [Complete Reality Merger System]], [[Complete Faction Warfare System, [Memory Trading Economy System|Memory Trading Economy]], [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos, and [Deep Mother]]. ### Encounter Sheets
 
-- [[D-005_Shadow_Bloom|D-005 Shadow Bloom]]
-- [[D-010_Pirate_Shadow_Net|D-010 Pirate Shadow Net]]
-- [[D-019_Oracle_Whale|D-019 Oracle Whale]]
-- [[S-004_Cloud_Canyon|S-004 Cloud Canyon]]
-- [[S-009_Void_Moan|S-009 Void Moan]]
-- [[S-018_Choir_Pirates|S-018 Choir Pirates]]
-- [[M-001_Physics_Denial|M-001 Physics Denial]]
-- [[M-003_Duplicate_Crew|M-003 Duplicate Crew Arrival]]
-- [[M-008_Door_Opens_Elsewhere|M-008 Door Opens Elsewhere]]
-- [[X-001_Trench_to_Cloud_Transfer|X-001 Trench-to-Cloud Transfer]]
-- [[X-003_Anchor_Storm|X-003 Anchor Storm]]
-- [[X-005_Dream_Sailing_Convoy|X-005 Dream Sailing Convoy]]```dataview
+- [[D-005_Shadow_Bloom|D-005 Shadow Bloom
+- [D-010_Pirate_Shadow_Net|D-010 Pirate Shadow Net]]
+- [[D-019_Oracle_Whale|D-019 Oracle Whale
+- [S-004_Cloud_Canyon|S-004 Cloud Canyon]]
+- [[S-009_Void_Moan|S-009 Void Moan
+- [S-018_Choir_Pirates|S-018 Choir Pirates]]
+- [[M-001_Physics_Denial|M-001 Physics Denial
+- [M-003_Duplicate_Crew|M-003 Duplicate Crew Arrival]]
+- [[M-008_Door_Opens_Elsewhere|M-008 Door Opens Elsewhere
+- [X-001_Trench_to_Cloud_Transfer|X-001 Trench-to-Cloud Transfer]]
+- [[X-003_Anchor_Storm|X-003 Anchor Storm
+- [X-005_Dream_Sailing_Convoy|X-005 Dream Sailing Convoy]]```dataview
 
 LIST FROM "06_GM_Resources/Travel/Encounter_Sheets"
 
 SORT file.name ASC```### Handouts
 
-- Player Ship Handouts: [[Aquabyssos_Submarines]] • [[04_Resources]] • [[04_Resources]] LIST FROM "04_Resources/Handouts/Encounters" ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Obsidian Queries
+- Player Ship Handouts: [[Aquabyssos_Submarines • [04_Resources]] • [[04_Resources]] LIST FROM "04_Resources/Handouts/Encounters" ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Obsidian Queries
 
 LIST FROM "03_Mechanics/Vehicles"
 
@@ -73,7 +73,6 @@ WHERE file.name != this.file.name ## Player-Facing Summary Vehicles Index is a u
 - A merchant needs help finding before dawn
 - A prisoner has gone missing and war looms
 - An heirloom has gone missing and war looms ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Sessions Session Packet Template]]
-
 
 ## Notes
 

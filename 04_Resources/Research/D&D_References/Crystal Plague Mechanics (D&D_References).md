@@ -2,7 +2,7 @@
 
 title: Crystal Plague Mechanics (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -48,7 +48,6 @@ Practical, table-ready rules for Crystal Plague Mechanics across Aquabyssos and 
 
 - A stranger needs help stealing before the new moon
 - A map reveals ancient history about the cult ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Master_Campaign_Index]]
-
 
 ## Notes
 

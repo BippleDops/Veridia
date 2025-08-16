@@ -6,7 +6,7 @@ created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
 status: complete
-tags:
+tags: 
 - aquabyssos
 - black_market
 - complete
@@ -22,13 +22,8 @@ updated: '2025-08-13T12:34:16.566995+00:00'
 world: Aquabyssos
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-black-market-deal-black-market-deal.svg)
-
-
-
 
 # Black Market Deal
 
@@ -170,10 +165,9 @@ Use the Black Market Deal structure to:
 - Generate ongoing plot threads through the consequences of black market activities
 - Explore themes of desperation, survival, and moral compromise during times of political crisis
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[02_Worldbuilding/Places/Pearl_Harbor_City
 
 ## Player-Facing Summary
 
@@ -185,30 +179,25 @@ Legends speak of Black Market Deal as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Black Market Deal]]
+- [02_Worldbuilding/Places/Black Market Deal]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

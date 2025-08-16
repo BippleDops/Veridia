@@ -1,5 +1,5 @@
 ---
-tags:
+tags: 
   - timeline
   - history
   - lore
@@ -10,10 +10,10 @@ type: timeline
 # Master Timeline Unified
 
 ## Navigation
-- [[#Ancient Era]] (Before 500)
-- [[#Classical Era]] (500-999)
-- [[#Modern Era]] (1000-1399)
-- [[#Campaign Era]] (1400+)
+- [[#Ancient Era (Before 500)
+- [#Classical Era]] (500-999)
+- [[#Modern Era (1000-1399)
+- [#Campaign Era]] (1400+)
 - [[#Future Events]]
 
 ## Timeline Statistics

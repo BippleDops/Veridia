@@ -2,7 +2,7 @@
 
 title: 04_Resources/Handouts/Ships/Player_Handout_Aquabyssos_Submarines
 type: lore
-tags:
+tags: 
 - lore
 - worldbuilding
 - prophecy

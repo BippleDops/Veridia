@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -14,14 +14,8 @@ updated: '2025-08-13T12:34:16.380302+00:00'
 world: Aquabyssos
 ---
 
-
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-merfolk-skirmisher-xmm-merfolk-skirmisher-xmm.svg)
-
-
 
 ## Overview
 
@@ -49,9 +43,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Angels and Depths]]
-
+- [[02_Worldbuilding/Places/Angels and Depths
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Angels and Depths]]
+- [02_Worldbuilding/Places/Angels and Depths]]

@@ -6,7 +6,7 @@ created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -22,13 +22,8 @@ updated: '2025-08-13T12:34:16.570356+00:00'
 world: Aquabyssos
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-first-truth-the-first-truth.svg)
-
-
-
 
 # The First Truth
 
@@ -177,10 +172,9 @@ The First Truth serves as both a philosophical framework and a plot device. Use 
 - Offer potential explanations for mysterious phenomena in the campaign
 - Challenge players to think about fundamental questions of reality and truth
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/The Primordial Vaults]]
+- [[02_Worldbuilding/Places/The Primordial Vaults
 
 ## Player-Facing Summary
 
@@ -192,30 +186,25 @@ Legends speak of The First Truth as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The First Truth]]
+- [02_Worldbuilding/Places/The First Truth]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

@@ -2,7 +2,7 @@
 
 title: Doctor Silas Voidtouch (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -48,7 +48,6 @@ Doctor Silas Voidtouch is a living crossroads where memory-currents and trade fl
 - Someone is hunting an heir for money
 - A document has gone missing and evil awakens
 - Strange sightings suggest a curse ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

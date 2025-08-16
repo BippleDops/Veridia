@@ -2,7 +2,7 @@
 
 title: Representative Marina Compromiser (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,7 +42,6 @@ updated: '2025-08-13T01:18:35.539814+00:00'
 
 - A stranger needs help investigating before winter
 - A letter reveals a conspiracy about the government ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

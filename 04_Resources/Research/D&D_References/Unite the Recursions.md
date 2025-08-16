@@ -2,7 +2,7 @@
 
 title: Unite the Recursions
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -48,7 +48,6 @@ accessibility: screen_reader_summary: This lore entry explains a pivotal princip
 - Dead people are alive in adjacent recursions
 - The same space contains multiple contradictory truths
 - Time loops back on itself infinitely ### The Recursion Types **Primary Recursions** (The Seven Core Realities)
-
 
 **Summary**: The Recursion Types **Primary Recursions** (The Seven Core Realities) - Key information at a glance.
 
@@ -112,7 +111,6 @@ accessibility: screen_reader_summary: This lore entry explains a pivotal princip
 - Will either succeed or end everything
 - Requires elements from all previous attempts
 - Must unite seven paradoxical requirements ### The Seven Requirements **1. The Uimous Decision**
-
 
 **Summary**: The Seven Requirements **1. The Uimous Decision** - Key information at a glance.
 
@@ -270,7 +268,6 @@ Use recursion for personal gain: **The Recursion Thieves**
 8. Press the button that doesn't exist
 9. Hope ### If Unification Succeeds **Positive Outcomes**:
 
-
 - Single stable reality
 - No more paradoxes
 - Clear causality
@@ -353,20 +350,19 @@ Decide whether unification is worth the cost when the party discovers they only 
 - Monitor bleed-through
 - Manage paradoxes ### The Meta Truth The quest to Unite the Recursions is itself recursive. Every campaign that attempts it creates a new recursion where it succeeded or failed. The players' decisions don't determine the outcome—they determine which recursion the campaign continues in. The real question isn't whether to unite the recursions, but whether the party wants to live in a reality where they did. --- ## See Also
 
-- [[The Reality Engine]]
-- [[The Convergence Cult|02 Worldbuilding/Groups/The Convergence Cult]]
-- [[Recursion_Travel_System]]
-- [[The Seventeen Attempts]]
-- [[The Recursion Nexus]] *"To Unite the Recursions is to choose one truth from infinite lies, one path from all possibilities, one reality from endless dreams. The question is not can we, but should we, and if we should, which we should do it?"* ## Player-Facing Summary Unite the Recursions is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Unite the Recursions as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Unite the Recursions. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Plot Hooks - A shipment has gone missing and war looms
+- [[The Reality Engine
+- [The Convergence Cult|02 Worldbuilding/Groups/The Convergence Cult]]
+- [[Recursion_Travel_System
+- [The Seventeen Attempts]]
+- [[The Recursion Nexus *"To Unite the Recursions is to choose one truth from infinite lies, one path from all possibilities, one reality from endless dreams. The question is not can we, but should we, and if we should, which we should do it?"* ## Player-Facing Summary Unite the Recursions is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Unite the Recursions as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Unite the Recursions. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Plot Hooks - A shipment has gone missing and war looms
 
 - An heirloom has gone missing and truth emerges
 - Someone is blackmailing a witness for power
-- Strange sightings suggest a conspiracy ## Related Notes - [[Similar Topic 1]]
+- Strange sightings suggest a conspiracy ## Related Notes - [Similar Topic 1]]
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
+- [[Contrasting Approach
+- [Advanced Version]]
 - [[Historical Context]]
-
 
 ## Notes
 

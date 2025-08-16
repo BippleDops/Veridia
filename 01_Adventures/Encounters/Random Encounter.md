@@ -3,8 +3,8 @@ created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
-tags:
-- [[Lore]]
+tags: 
+- [[Lore
 title: Random Encounter
 type: lore
 updated: 2025-08-14
@@ -20,12 +20,12 @@ Random Encounter represents a significant element within the campaign world, off
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: [[Link]]ed to multiple other elements
+- **Connections**: [Link]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-[[Historical Context]] and development over [[Time]].
+[[Historical Context and development over [Time]].
 
 ### Current State
 Present circumstances and ongoing relevance.
@@ -46,7 +46,7 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 *Customize as needed for your specific campaign requirements.*
 
 ## Scaling by Party Level
@@ -57,22 +57,22 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## References
 
-- [[Central Location]]
-- [[Cure Component Locations]]
-- [[Key Locations]]
-- [[Known Locations]]
-- [[Random Encounter Tables - Aquabyssos]]
-- [[Random_Encounters (02_Worldbuilding)]]
-- [[Crystal Caverns]]
-- [[Nereidios]]
-- [[Pressure's End]]
-- [[Sister Morwyn]]
-- [[The Cerulean Trench]]
-- [[The Crimson Foundries]]
-- [[The Eternal Senate]]
-- [[The Great Drowning]]
-- [[The Phosphor Markets]]
-- [[The Primordial Vaults]]
-- [[The Reflection Pools]]
-- [[Theological Warfare]]
-- [[Whisper-Touched William]]
+- [Central Location]]
+- [[Cure Component Locations
+- [Key Locations]]
+- [[Known Locations
+- [Random Encounter Tables - Aquabyssos]]
+- [[Random_Encounters (02_Worldbuilding)
+- [Crystal Caverns]]
+- [[Nereidios
+- [Pressure's End]]
+- [[Sister Morwyn
+- [The Cerulean Trench]]
+- [[The Crimson Foundries
+- [The Eternal Senate]]
+- [[The Great Drowning
+- [The Phosphor Markets]]
+- [[The Primordial Vaults
+- [The Reflection Pools]]
+- [[Theological Warfare
+- [Whisper-Touched William]]

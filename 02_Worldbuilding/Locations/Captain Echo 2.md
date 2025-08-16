@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - both
 - complete
 - content/location
@@ -13,24 +13,18 @@ updated: '2025-08-13T12:34:16.990162+00:00'
 world: Both
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-captain-echo-captain-echo.svg)
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-
+- [[02_Worldbuilding/Places/Parliament of Echoes
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/Places/Aethermoor]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Aethermoor
+- [02_Worldbuilding/Places/Parliament of Echoes]]
 - [[02_Worldbuilding/Places/The Whispering Depths]]
 
 ## Player-Facing Summary
@@ -53,26 +47,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 
-
 ## Atmosphere
 - Mood and feeling
 - Sensory details
-
 
 ## Resources
 - Natural resources
 - Trade goods
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

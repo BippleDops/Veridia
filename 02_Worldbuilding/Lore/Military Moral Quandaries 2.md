@@ -1,7 +1,7 @@
 ---
 created: '2025-08-12'
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/lore
@@ -16,8 +16,6 @@ type: Lore
 updated: '2025-08-13T12:34:15.751262+00:00'
 world: Aquabyssos
 ---
-
-
 
 # Military Moral Quandaries
 
@@ -403,8 +401,8 @@ Military planning assault on cult stronghold in abandoned cathedral:
 - Ethical Dilemmas In Shadow Times
 - Medical Ethics In Plague Crisis
 - Economic Justice Debates
-- [[02_Worldbuilding/Lore/Political Compromise Costs]]
-- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+- [[02_Worldbuilding/Lore/Political Compromise Costs
+- [02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
 - Shadow Corruption Timeline
 - [[02_Worldbuilding/Groups/The Deepwatch Guard]]
 

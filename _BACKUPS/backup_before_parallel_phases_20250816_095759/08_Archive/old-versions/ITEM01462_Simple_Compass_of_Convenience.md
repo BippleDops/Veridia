@@ -1,0 +1,39 @@
+---
+aliases: ["Simple Compass of Convenience", "simple compass of convenience", "Convenience of Compass Simple"]
+tags: [item, equipment]
+type: item
+---
+
+# Simple Compass of Convenience
+
+*Mundane, Uncommon (requires attunement)*
+
+**ID**: ITEM01462
+
+## Description
+A high-quality compass with subtle enchantments
+
+## Appearance
+A simple compass bearing maker's mark
+
+## Properties
+- Weighs half normal
+- Alerts to danger
+
+## History
+Blessed by a deity in ancient times
+
+**Created by**: A god's avatar walking among mortals
+
+## Value
+403 gp
+
+**Weight**: 1 lbs
+
+## DM Notes
+- Adjust properties for campaign balance
+- Consider the item's history for plot hooks
+- The creator might still be alive (or undead)
+
+---
+*Generated: 2025-08-15T03:51:03.490Z*

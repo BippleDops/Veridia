@@ -2,7 +2,7 @@
 
 title: Aethermoor-Aquabyssos-World-Connection-Guide (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -48,17 +48,16 @@ updated: '2025-08-13T01:18:35.880218+00:00'
 
 Each Aquabyssos continent has an Aethermoor counterpart: | Aquabyssos | Aethermoor | Connection Type | Merger Effect |
 |------------|------------|----------------|---------------|
-| [[Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]] | [[Port Meridian|02 Worldbuilding/Places/Port Meridian]] | Political Centers | Shared Parliament |
-| [[Nereidios|02 Worldbuilding/Places/Nereidios]] | [[Arcanum Heights]] | Knowledge Hubs | Merged Libraries |
-| [[Corallion]] | [[Crystal Forest]] | Living Systems | Symbiotic Growth |
-| [[Vorthak]] | [[Shattered Isles]] | Fragmented Realms | Reality Chaos |
-| [[Tenebrarum]] | [[Shadow Vale]] | Darkness Domains | Shadow Overlap |
-| [[Crystallium]] | [[Resoce Peaks]] | Harmonic Centers | Frequency Sync |
-| [[Mourning Depths]] | Sorrow's End (to be detailed) | Emotional Extremes | Grief Manifest |
-| [[Memoriam]] | [Forgotten] | Lost to Both | Unknown State | #### Active Conduits
+| [[Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime | [Port Meridian|02 Worldbuilding/Places/Port Meridian]] | Political Centers | Shared Parliament |
+| [[Nereidios|02 Worldbuilding/Places/Nereidios | [Arcanum Heights]] | Knowledge Hubs | Merged Libraries |
+| [[Corallion | [Crystal Forest]] | Living Systems | Symbiotic Growth |
+| [[Vorthak | [Shattered Isles]] | Fragmented Realms | Reality Chaos |
+| [[Tenebrarum | [Shadow Vale]] | Darkness Domains | Shadow Overlap |
+| [[Crystallium | [Resoce Peaks]] | Harmonic Centers | Frequency Sync |
+| [[Mourning Depths | Sorrow's End (to be detailed) | Emotional Extremes | Grief Manifest |
+| [Memoriam]] | [Forgotten] | Lost to Both | Unknown State | #### Active Conduits
 
-1. **Lighthouse Network** - [[Lighthouse_of_Storms|Lighthouse of Storms]] - Primary portal - Seven lesser lighthouses - Dormant but activatable - Navigation: Crystal resoce keys - Risk: Temporal displacement 2. **Deep Wells** - Ancient shafts predating both civilizations - Located at: Major cities' foundations - Access: Requires depth adaptation Stage 2+ - Danger: Void current exposure 3. **Memory Streams** - Flow between - Travel: Consciousness only, body remains - Duration: 1d4 hours maximum - Cost: Temporary memory loss 4. **Shadow Passages** - Created by shadow separation events - Connect: Any shadow to [[Tenebrarum]] - Requirement: Shadow independence - Warning: One-way without shadow mastery #### Power Structures```mermaid
-
+1. **Lighthouse Network** - [[Lighthouse_of_Storms|Lighthouse of Storms - Primary portal - Seven lesser lighthouses - Dormant but activatable - Navigation: Crystal resoce keys - Risk: Temporal displacement 2. **Deep Wells** - Ancient shafts predating both civilizations - Located at: Major cities' foundations - Access: Requires depth adaptation Stage 2+ - Danger: Void current exposure 3. **Memory Streams** - Flow between - Travel: Consciousness only, body remains - Duration: `dice: 1d4` hours maximum - Cost: Temporary memory loss 4. **Shadow Passages** - Created by shadow separation events - Connect: Any shadow to [Tenebrarum]] - Requirement: Shadow independence - Warning: One-way without shadow mastery #### Power Structures```mermaid
 
 graph TD A[Aethermoor Queen] -.->|Possession Link| B[Aquabyssos Emperor] B -->|Fragment Control| C[Parliament of Echoes] C -.->|Shadow Influence| D[Noble Houses] D -->|Crystal Connection| A E[The Deep Mother] -->|Dreams| A E -->|Reality| B```### The Crystal Plague / Adaptation Syndrome
 
@@ -85,7 +84,6 @@ graph TD A[Aethermoor Queen] -.->|Possession Link| B[Aquabyssos Emperor] B -->|F
 4. **The Blood Moon**: Affects both worlds equally
 5. **The Silent Hour**: Daily moment of connection ### Crossover Encounters (d12)
 
-
 1. Depth refugee seeking surface
 2. Surface explorer lost in depths
 3. Memory merchant trading between worlds
@@ -99,7 +97,6 @@ graph TD A[Aethermoor Queen] -.->|Possession Link| B[Aquabyssos Emperor] B -->|F
 11. Cross-world romance complications
 12. Entity fragment manifesting ### Merged Zone Events (d10)
 
-
 1. Gravity reversal hour
 2. Atmosphere shift (air to water)
 3. Shadow uprising attempt
@@ -110,7 +107,6 @@ graph TD A[Aethermoor Queen] -.->|Possession Link| B[Aquabyssos Emperor] B -->|F
 8. Identity confusion outbreak
 9. Prophetic vision shared
 10. Deep Mother stirs ### Language Evolution
-
 
 | Original | Aethermoor | Aquabyssos | Meaning Drift |
 |----------|------------|------------|---------------|
@@ -126,7 +122,6 @@ graph TD A[Aethermoor Queen] -.->|Possession Link| B[Aquabyssos Emperor] B -->|F
 4. Use NPCs to bridge worlds
 5. Keep consistent internal logic ### Tonal Balance
 
-
 - Wonder vs Horror
 - Hope vs Despair
 - Unity vs Division
@@ -136,7 +131,6 @@ graph TD A[Aethermoor Queen] -.->|Possession Link| B[Aquabyssos Emperor] B -->|F
 - Strange disappearances suggest a portal
 - Strange sightings suggest a portal
 - Someone is blackmailing a artifact for power ## References - [[Resoce Peaks]]
-
 
 ## Notes
 

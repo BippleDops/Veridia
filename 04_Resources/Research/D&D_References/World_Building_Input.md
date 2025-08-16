@@ -2,7 +2,7 @@
 
 title: World_Building_Input
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -121,7 +121,6 @@ Purpose: _________________________________ How might characters interact with th
 - Connections to overarching campaign themes ## Plot Hooks - A merchant needs help investigating before dawn
 
 - Someone is searching for an heir for love ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

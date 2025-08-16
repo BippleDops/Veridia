@@ -1,10 +1,10 @@
 ---
 
 title: Underground Smuggling Networks
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - underground
 - aerial
 - status/complete
@@ -43,7 +43,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -92,32 +92,32 @@ The Crystal Plague crisis has created a complex underground economy built around
 ### The Harbor Liberation Front
 
 **Leadership:** "Captain Freewind" (identity unknown, suspected former naval officer)  
-**Membership:** 40-60 active operatives, 200+ sym[[path]]izers and support network  
-**Territory:** [[Port Meridian Harbor]] district and surrounding coastal areas  
+**Membership:** 40-60 active operatives, 200+ sym[path]]izers and support network  
+**Territory:** [[Port Meridian Harbor district and surrounding coastal areas  
 **Specialty:** Evacuating quarantine violators and transporting them to safe havens  
 **Ideology:** Government quarantine policies violate fundamental human rights
 
 #### Operational Methods
 
 **The Safe Passage System**
-Underground railroad network that moves [[People]] through a series of safe houses from quarantine zones to regions with less stringent enforcement or sympathetic communities.
+Underground railroad network that moves [People]] through a series of safe houses from quarantine zones to regions with less stringent enforcement or sympathetic communities.
 
 *Route 1 - The Coastal Circuit:*
 - Starting Point: Port Meridian quarantine zones
-- Safe Houses: 8 [[location]]s along coast using fishing villages and hidden coves
+- Safe Houses: 8 [[locations along coast using fishing villages and hidden coves
 - Transportation: Converted fishing boats with hidden compartments
-- Destination: Northern [[Coastal Communities]] with minimal government presence
+- Destination: Northern [Coastal Communities]] with minimal government presence
 
 *Route 2 - The Mountain Trail:*
 - Starting Point: Inland quarantine areas
-- Safe Houses: 6 mountain communities with traditional anti-government sen[[Time]]nt
+- Safe Houses: 6 mountain communities with traditional anti-government sen[[Timent
 - Transportation: Pack animals and underground cave networks
 - Destination: Remote mountain communities practicing traditional healing methods
 
 *Route 3 - The Foreign Connection:*  
 - Starting Point: Any major population center
-- Safe Houses: [[Embassy District|[[Embassy District]]s]] and diplomatic safe houses
-- Transportation: Diplomatic pouches and foreign [[Merchant]] vessels
+- Safe Houses: [[Embassy District|[Embassy District]]s]] and diplomatic safe houses
+- Transportation: Diplomatic pouches and foreign [[Merchant vessels
 - Destination: Other nations with different plague policies
 
 #### Notable Operations
@@ -129,7 +129,7 @@ Underground railroad network that moves [[People]] through a series of safe hous
 *Government Response:* Complete review of quarantine zone security, 15 enforcement officers reassigned
 
 **The Children's Exodus**  
-*Scale:* Relocated 12 infected children from government [[Crystal Plague Wards]] to [[Crystal Cult Temples]] sanctuary  
+*Scale:* Relocated 12 infected children from government [Crystal Plague Wards]] to [[Crystal Cult Temples sanctuary  
 *Controversy:* Parents consented to removal but legal guardianship questions remain unresolved  
 *Method:* Corrupt medical staff provided access and distraction while transport team removed children during shift change  
 *Impact:* Major security overhaul at all medical facilities, investigation of medical staff loyalties
@@ -140,7 +140,7 @@ Underground railroad network that moves [[People]] through a series of safe hous
 **Membership:** 25 active medical personnel, 15 transport specialists  
 **Territory:** Entire kingdom through mobile operations  
 **Specialty:** Delivering medical supplies and treatments to quarantine zones and unofficial medical facilities  
-**Funding:** Combination of donations, [[Black Market Crystal Trade]] sales, and foreign support
+**Funding:** Combination of donations, [Black Market Crystal Trade]] sales, and foreign support
 
 #### Supply Chain Operations
 
@@ -173,12 +173,12 @@ Mobile medical teams provide emergency care in quarantine zones where official m
 *Recent Emergency:* Responded to outbreak in mining community where official services were delayed by bureaucratic processes. Treated 23 cases and prevented 8 deaths while official help was still 3 days away.
 
 **Experimental Treatment Access**
-Provides access to experimental treatments and cures not available through official channels, including foreign medications and [[Crystal Cult Temples]]-developed therapies.
+Provides access to experimental treatments and cures not available through official channels, including foreign medications and [[Crystal Cult Temples-developed therapies.
 
 *Treatment Options:*
 - Foreign research medications smuggled from other nations
 - Traditional healing methods from remote communities
-- [[Crystal Cult Temples]]-developed spiritual and medical therapies
+- [Crystal Cult Temples]]-developed spiritual and medical therapies
 - Experimental procedures developed by expelled researchers
 
 ### The Identity Underground
@@ -225,9 +225,9 @@ The Identity Underground operates through cell structure with compartmentalized 
 
 *Security Measures:*
 - Multiple safe house locations with regular rotation
-- Coded [[Communication_Systems|Communication Systems]] using legitimate business channels
+- Coded [[Communication_Systems|Communication Systems using legitimate business channels
 - Counter-surveillance training for all network members
-- [[Emergency Protocol]]s for rapid [[Evidence]] destruction and personnel evacuation
+- [Emergency Protocol]]s for rapid [[Evidence destruction and personnel evacuation
 
 **Government Infiltration Detection**
 Network maintains active counter-intelligence operations to identify government infiltration attempts and protect ongoing operations.
@@ -246,7 +246,7 @@ Network maintains active counter-intelligence operations to identify government 
 **Message Types**
 - **Emergency Alerts:** Immediate warnings about enforcement operations or security threats
 - **Resource Coordination:** Supply sharing and transportation scheduling between network elements
-- **Intelligence [[reports]]:** Information about government activities, enforcement patterns, and security vulnerabilities
+- **Intelligence [reports]]:** Information about government activities, enforcement patterns, and security vulnerabilities
 - **Recruitment Communications:** Screening and coordination of new network members
 
 **Security Features**
@@ -308,14 +308,14 @@ Network maintains active counter-intelligence operations to identify government 
 - Security concerns about cult religious extremism attracting government attention
 - Ideological conflicts over long-term goals and methods
 
-*Recent Joint Operation:* Coordinated evacuation of 30 Stage 3-4 patients from overwhelmed [[Crystal Plague Wards]] to cult sanctuary facilities with medical care capabilities.
+*Recent Joint Operation:* Coordinated evacuation of 30 Stage 3-4 patients from overwhelmed [[Crystal Plague Wards to cult sanctuary facilities with medical care capabilities.
 
 ### Black Market Trade Integration
 
 **Supply Chain Connections:**
-- Networks purchase medical supplies from [[Black Market Crystal Trade]] traders
+- Networks purchase medical supplies from [Black Market Crystal Trade]] traders
 - Transportation services shared between smuggling and commercial operations
-- [[Information Exchange]] about government enforcement activities and vulnerabilities
+- [[Information Exchange about government enforcement activities and vulnerabilities
 - Ficial services through black market banking and currency exchange systems
 
 **Operational Differences:**
@@ -329,7 +329,7 @@ Network maintains active counter-intelligence operations to identify government 
 ### Government Infiltration and Double Agents
 
 **Network Penetration:**
-Estimated 10-15% of network personnel are [[Government Informants]] or double agents, creating constant security challenges and operational limitations.
+Estimated 10-15% of network personnel are [Government Informants]] or double agents, creating constant security challenges and operational limitations.
 
 **Counter-Intelligence Operations:**
 - Regular security reviews and loyalty testing of network members
@@ -337,12 +337,12 @@ Estimated 10-15% of network personnel are [[Government Informants]] or double ag
 - False information campaigns to identify and neutralize government agents
 - Recruitment of government personnel as counter-agents within enforcement agencies
 
-*Major Security Breach:* Discovery that senior [[Quarantine Enforcement]] officer was providing intelligence to networks led to 6 months of operational disruption while networks rebuilt security protocols.
+*Major Security Breach:* Discovery that senior [[Quarantine Enforcement officer was providing intelligence to networks led to 6 months of operational disruption while networks rebuilt security protocols.
 
 #### Donation Networks
 
 **Individual Donors:** 500+ regular contributors providing estimated 30,000 gold annually  
-**Institutional Support:** Religious organizations, merchant guilds, and [[Foreign Governments]]  
+**Institutional Support:** Religious organizations, merchant guilds, and [Foreign Governments]]  
 **Fundraising Events:** Disguised as legitimate charitable activities for plague relief  
 **Corporate Sponsors:** Businesses that benefit from reduced government control or have ideological alignment
 
@@ -355,7 +355,7 @@ Estimated 10-15% of network personnel are [[Government Informants]] or double ag
 
 #### Ficial Management
 
-**[[Annual Budget]]:** Estimated 150,000 gold pieces across all network operations  
+**[[Annual Budget:** Estimated 150,000 gold pieces across all network operations  
 **Major Expenses:** Transportation (30%), Safe Houses (25%), Medical Supplies (20%), Personnel (15%), Security (10%)  
 **Ficial Security:** Distributed treasury across multiple hidden accounts and physical caches  
 **Money Laundering:** Legitimate businesses used to process funds and provide operational cover
@@ -387,7 +387,7 @@ Networks operate informal educational programs for children in safe houses and r
 *Educational Programs:*
 - Basic literacy and numeracy education for children
 - Trade skills training for adults in relocated communities
-- [[Cultural Preservation]] programs for displaced [[Community Groups]]
+- [Cultural Preservation]] programs for displaced [[Community Groups
 - Language instruction for people relocated to foreign communities
 
 #### The Underground Crimes Division
@@ -425,7 +425,7 @@ Networks operate informal educational programs for children in safe houses and r
 
 #### Ethical Complexity
 
-Networks operate in moral gray area where humanitarian impulses conflict with [[Public Safety]] concerns, legitimate government authority conflicts with individual rights, and community needs conflict with broader social stability.
+Networks operate in moral gray area where humanitarian impulses conflict with [Public Safety]] concerns, legitimate government authority conflicts with individual rights, and community needs conflict with broader social stability.
 
 *Philosophical Questions:*
 - When does legitimate resistance to unjust government policy become dangerous criminal activity?
@@ -435,7 +435,7 @@ Networks operate in moral gray area where humanitarian impulses conflict with [[
 
 #### Support Base
 
-**Demographics:** Working-class families, [[Religious Communities]], rural populations, plague victims and their families  
+**Demographics:** Working-class families, [[Religious Communities, rural populations, plague victims and their families  
 **Motivations:** Personal experience with quarantine separation, distrust of government efficiency, religious obligation to help suffering individuals  
 **Support Activities:** Ficial donations, safe house provision, information sharing, passive resistance to enforcement
 
@@ -455,9 +455,9 @@ Network activities have created significant social tension between different com
 - Religious and cultural conflicts over appropriate response to government authority
 - Family relationship strain when members support different approaches
 
-### The Reluctant [[Smuggler]]
+### The Reluctant [Smuggler]]
 
-A respected community member has been secretly helping plague victims escape quarantine to reunite with their families. When their activities are discovered, [[The Party]] must investigate whether this represents genuine humanitarian aid or dangerous criminal activity.
+A respected community member has been secretly helping plague victims escape quarantine to reunite with their families. When their activities are discovered, [[The Party must investigate whether this represents genuine humanitarian aid or dangerous criminal activity.
 
 *Moral Complexity:*
 - The smuggler's activities have helped reunite families but may have contributed to plague spread
@@ -497,7 +497,7 @@ Medical supplies designated for official plague treatment have been disappearing
 
 ### The Diplomatic Sanctuary
 
-A foreign embassy is providing sanctuary for plague victims fleeing quarantine, creating international incident with public health implications. The party must navigate [[Diplomatic Immunity]], public health law, and international relations.
+A foreign embassy is providing sanctuary for plague victims fleeing quarantine, creating international incident with public health implications. The party must navigate [Diplomatic Immunity]], public health law, and international relations.
 
 *Political Complexity:*
 - Embassy personnel may be acting from genuine humanitarian concern or political calculation
@@ -505,7 +505,7 @@ A foreign embassy is providing sanctuary for plague victims fleeing quarantine, 
 - Resolution affects broader diplomatic relationships and trade agreements
 - Multiple government agencies have competing interests and jurisdictions
 
-## [[Historical Context]]
+## [[Historical Context
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -513,7 +513,7 @@ The origins of this lore trace back through the ages, influenced by major events
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
-## Historical [[Timeline]]
+## Historical [Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
@@ -548,5 +548,5 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Quarantine Enforcement]]
-- [[Quarantine Enforcement (D&D_References)]]
+- [[Quarantine Enforcement
+- [Quarantine Enforcement (D&D_References)]]

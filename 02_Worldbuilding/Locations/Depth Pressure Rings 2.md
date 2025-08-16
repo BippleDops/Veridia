@@ -8,7 +8,7 @@ item_type: Environmental Adaptation Ring
 rarity: Common
 requires_attunement: 'No'
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/item
@@ -20,8 +20,6 @@ type: Item
 updated: '2025-08-13T12:34:17.756842+00:00'
 world: Aquabyssos
 ---
-
-
 
 # Depth Pressure Rings
 *Essential Protection for the Ocean's Embrace*

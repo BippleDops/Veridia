@@ -2,7 +2,7 @@
 
 title: Surface Sympathizer Settlements
 type: Location
-tags:
+tags: 
 - aquabyssos
 - access/secret
 - political-dissidents
@@ -277,11 +277,9 @@ Key stop on magic items trade route
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

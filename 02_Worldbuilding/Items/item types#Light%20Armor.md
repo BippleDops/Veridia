@@ -1,7 +1,7 @@
 ---
-title: item types#Light%20Armor
+title: "item types#Light%20Armor"
 type: note
-tags:
+tags: 
 - auto-generated
 - linked
 created: '2025-01-15'
@@ -10,13 +10,13 @@ created: '2025-01-15'
 # item types#Light%20Armor
 
 ## Overview
-This topic is referenced in [[Barbarian Xphb]] and other parts of the campaign.
+This topic is referenced in [[Barbarian Xphb and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Barbarian Xphb]]
+- Referenced by: [Barbarian Xphb]]
 - Related topics in the same category
 
 ## Details

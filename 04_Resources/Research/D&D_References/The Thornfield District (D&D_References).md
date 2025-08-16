@@ -2,7 +2,7 @@
 
 title: The Thornfield District (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,12 +42,11 @@ danger_level: Moderate
 
 - A map reveals the truth about the cult
 - A journal reveals the truth about a local noble
-- A noble needs help delivering before the festival ## Related Notes - [[Similar Topic 1]]
+- A noble needs help delivering before the festival ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]]
 
 ## Notes
 

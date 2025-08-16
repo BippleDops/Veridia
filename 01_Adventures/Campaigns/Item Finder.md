@@ -9,7 +9,6 @@ aliases: ["Item Finder"]
 
 > *More than mere metal and magic...* This remarkable element adds depth and intrigue to any campaign.
 
-
 ## Overview
 
 Comprehensive overview of this content.
@@ -68,7 +67,6 @@ modified: '2025-08-14'
 
 **Tactile Qualities**: The surface feels [texture] to the touch, with [weight/temperature] properties. *To be added* ## Properties *To be added* ## History *To be added* ## Current Location *To be a
 *The [texture] surface feels [description] to the touch.*dded* ## Powers *To be added*
-
 
 ## Notes {#notes}
 

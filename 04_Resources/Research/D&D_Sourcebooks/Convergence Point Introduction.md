@@ -2,7 +2,7 @@
 
 title: Convergence Point Introduction
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -60,7 +60,7 @@ world: Both Aethermoor and Aquabyssos
 
 *When Two Worlds Become One* ### The Epic Stakes
 
-Reality itself hangs in the balance. The **[[Convergence Point]]** - a dimensional nexus where all realities intersect - has begun expanding at an unprecedented rate. What started as a curious magical phenomenon studied by scholars from both **[[Aethermoor]]** and **[[Aquabyssos]]** has become an existential threat to both worlds. As the convergence accelerates, pieces of both realms are beginning to merge permanently, creating impossible landscapes where crystal spires grow beneath crushing ocean depths and coral reefs float through endless skies. The characters stand at the center of this crisis, chosen not by prophecy but by circumstance - they are among the few beings capable of existing in both worlds' harsh environments. Their choices will determine whether the convergence destroys both civilizations, creates something entirely new, or can somehow be controlled to preserve what has been built over centuries of careful adaptation. ### Adventure Scope and Scale
+Reality itself hangs in the balance. The **[[Convergence Point** - a dimensional nexus where all realities intersect - has begun expanding at an unprecedented rate. What started as a curious magical phenomenon studied by scholars from both **[Aethermoor]]** and **[[Aquabyssos** has become an existential threat to both worlds. As the convergence accelerates, pieces of both realms are beginning to merge permanently, creating impossible landscapes where crystal spires grow beneath crushing ocean depths and coral reefs float through endless skies. The characters stand at the center of this crisis, chosen not by prophecy but by circumstance - they are among the few beings capable of existing in both worlds' harsh environments. Their choices will determine whether the convergence destroys both civilizations, creates something entirely new, or can somehow be controlled to preserve what has been built over centuries of careful adaptation. ### Adventure Scope and Scale
 
 This is an **Epic Tier adventure** designed for characters of **levels 10-12**, taking place over **6 major sessions** that will fundamentally alter both campaign worlds. The adventure assumes characters have some familiarity with both Aethermoor and Aquabyssos, though extensive knowledge isn't required - the unfolding crisis will teach them everything they need to know. **Expected Duration:** 6-8 sessions of 4-5 hours each **Character Levels:** Start at 10, advance to 12 by adventure's end **Party Size:** 4-6 characters (optimally 5) **Campaign Type:** World-shaping epic with multiple possible endings ### The Prophecy of Convergence
 
@@ -82,13 +82,13 @@ Intelligence from both realms indicates the convergence is **accelerating**. Wha
 The characters are uniquely suited for this crisis due to their **proven ability to operate in both realms**. Whether through magical adaptation, technological assistance, or natural resistance to environmental extremes, they have demonstrated the capability to survive in both the crystal-charged atmosphere of Aethermoor and the crushing depths of Aquabyssos. This rare qualification makes them invaluable to both governments and essential to any solution. ### Cross-Realm Connections
 
 The adventure works best if characters have established relationships in both worlds: **Aethermoor Connections:**
-- Allies among the **[[Crystal Wardens]]** or **[[The Crystal Throne]]**
+- Allies among the **[Crystal Wardens]]** or **[[The Crystal Throne**
 - Contacts with researchers studying the convergence phenomenon
 - Relationships with merchants involved in inter-realm trade
 - Previous adventures involving crystal corruption or dimensional magic **Aquabyssos Connections:**
-- Contacts with the **[[Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]** or depth nobility
-- Relationships with scholars from the **[[Abyssal Academy]]**
-- Previous encounters with **[[Deep Mother]]** cultists or deep magic
+- Contacts with the **[Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]** or depth nobility
+- Relationships with scholars from the **[[Abyssal Academy**
+- Previous encounters with **[Deep Mother]]** cultists or deep magic
 - Experience with pressure adaptation and underwater survival ### Character Motivations
 
 Each character should have personal stakes in both worlds: - **Protectors:** Those who have sworn to defend both realms from threats
@@ -97,17 +97,17 @@ Each character should have personal stakes in both worlds: - **Protectors:** Tho
 - **Survivors:** Characters who have adapted to live in both environments
 - **Seekers:** Those pursuing knowledge or power that the convergence might provide ### Aethermoor's Response
 
-**[[Queen Seraphina Lumengarde]]** has declared a **State of Dimensional Emergency**, granting extraordinary powers to deal with the crisis: - **Military Mobilization:** Crystal Wardens deployed around the convergence zone
+**[[Queen Seraphina Lumengarde** has declared a **State of Dimensional Emergency**, granting extraordinary powers to deal with the crisis: - **Military Mobilization:** Crystal Wardens deployed around the convergence zone
 - **Scientific Priority:** All magical research redirected to convergence studies
 - **Diplomatic Outreach:** Unprecedented cooperation with Aquabyssos authorities
 - **Civilian Evacuation:** Planned relocation of affected population centers
-- **Resource Allocation:** Emergency stockpiling of critical supplies **Political Tensions:** The **[[Purist Coalition]]** opposes cooperation with Aquabyssos, viewing the convergence as contamination that must be purged. Meanwhile, the **[[The Order of the Shattered Crown|02 Worldbuilding/Groups/The Order Of The Shattered Crown]]** sees this as an opportunity to restore ancient power structures. ### Aquabyssos's Response
+- **Resource Allocation:** Emergency stockpiling of critical supplies **Political Tensions:** The **[Purist Coalition]]** opposes cooperation with Aquabyssos, viewing the convergence as contamination that must be purged. Meanwhile, the **[[The Order of the Shattered Crown|02 Worldbuilding/Groups/The Order Of The Shattered Crown** sees this as an opportunity to restore ancient power structures. ### Aquabyssos's Response
 
-The **[[Queen Seraphina|02 Worldbuilding/People/Queen Seraphina]]** (sharing the same name but ruling the depths) has invoked the **Deep Emergency Protocols**, activating ancient systems designed for existential threats: - **Depth Mobilization:** All levels of society contributing to the crisis response
+The **[Queen Seraphina|02 Worldbuilding/People/Queen Seraphina]]** (sharing the same name but ruling the depths) has invoked the **Deep Emergency Protocols**, activating ancient systems designed for existential threats: - **Depth Mobilization:** All levels of society contributing to the crisis response
 - **Memory Archives:** Ancient knowledge being retrieved and analyzed
 - **Reality Anchoring:** Pressure-based magic being used to stabilize local reality
 - **Surface Coordination:** Working with Aethermoor despite historical tensions
-- **Deep Mother Consultation:** Attempting to understand if this relates to the primordial entity **Cultural Conflicts:** Traditional **[[Deep Mother]]** worshippers believe this is part of her awakening and should not be interfered with. The **[[Groups]]** sees this as an opportunity to complete the Great Drowning and submerge all surface lands. ### Inter-Realm Cooperation
+- **Deep Mother Consultation:** Attempting to understand if this relates to the primordial entity **Cultural Conflicts:** Traditional **[[Deep Mother** worshippers believe this is part of her awakening and should not be interfered with. The **[Groups]]** sees this as an opportunity to complete the Great Drowning and submerge all surface lands. ### Inter-Realm Cooperation
 
 The **[[Aquabyssos-Aethermoor Treaties]]** have been expanded with **Emergency Convergence Protocols**: - **Joint Command Structure:** Unified crisis response leadership
 - **Resource Sharing:** Free exchange of all necessary materials and knowledge
@@ -189,7 +189,6 @@ Through their established relationships in both worlds, the characters are uniqu
 - A prisoner has gone missing and truth emerges
 - A stranger needs help delivering before dawn
 - A document has gone missing and chaos spreads ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

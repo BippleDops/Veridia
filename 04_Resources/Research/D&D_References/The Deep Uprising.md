@@ -2,7 +2,7 @@
 
 title: The Deep Uprising
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -53,19 +53,17 @@ Active uprising lasted two years, with political ramifications continuing to pre
 2. **Unfinished Business**: Remaining uprising goals create new conflicts
 3. Meanwhile, **Counter-Revolution**: Surface loyalists attempt to reverse reforms ## Campaign Use
 
-
 Provides political complexity and opportunities for characters to engage with social justice themes in underwater society. ## Player-Facing Summary The Deep Uprising is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Deep Uprising as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Deep Uprising. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A noble needs help delivering before the new moon
 
 - The authorities needs help delivering before the festival
 - A prisoner has gone missing and truth emerges
-- A document has gone missing and evil awakens ## Related Notes - [[Similar Topic 1]]
+- A document has gone missing and evil awakens ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[The Bathyal Palace]]
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[The Bathyal Palace
 
-- [[The Bathyal Palace (D&D_References)]]
-
+- [The Bathyal Palace (D&D_References)]]
 
 ## Notes
 

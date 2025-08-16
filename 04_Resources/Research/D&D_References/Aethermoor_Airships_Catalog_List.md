@@ -2,7 +2,7 @@
 
 title: Aethermoor_Airships_Catalog
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -105,10 +105,8 @@ world: Aethermoor
 59. Sky Anchor — Portable anchor pylon; stabilizes zones
 60. Choir Courier — Broadcasts morale; allied initiative +1 Integration keys: Altitude pressure inversion, resoce arrays, anchors, sanity hooks, memory charts, faction doctrines. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary Aethermoor Airships Catalog is a sky-borne element of the setting, known for brass fittings and cloudstone terraces. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Aethermoor Airships Catalog as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aethermoor Airships Catalog. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A corpse reveals the truth about a local noble
 
-
 - A prisoner has gone missing and truth emerges
 - Someone is blackmailing a witness for money ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

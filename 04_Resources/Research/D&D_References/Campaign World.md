@@ -2,7 +2,7 @@
 
 title: Campaign World
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -53,22 +53,20 @@ The campaign world represents an ongoing, evolving setting where character actio
 2. **Cultural Ambassador**: Serve as diplomatic representatives facilitating peace between factions
 3. **Ancient Secrets**: Investigate ruins and artifacts that predate the Convergence ## Secrets (DM Only) The Great Convergence was actually triggered by an ancient entity attempting to merge all possible worlds into one reality under its control. This entity remains dormant but is slowly awakening, and the increasing instabilities in both realms are signs of its growing influence. ## Campaign Use The dual-realm nature of the campaign world provides endless opportunities for adventure variety. Use the contrast between environments to challenge players in different ways, while the interconnected nature ensures that all adventures feel meaningful to the larger world. The political complexity provides rich roleplay opportunities, while the environmental challenges offer unique combat and exploration scenarios. ## Player-Facing Summary Campaign World is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Campaign World as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Campaign World. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Plot Hooks - Strange disappearances suggest a portal
 
-
 - Someone is searching for a witness for revenge
-- Someone is searching for a witness for love ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Assets Item Artifact Explorers Pack Xphb Explorers Pack Xphb.png]]
+- Someone is searching for a witness for love ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Assets Item Artifact Explorers Pack Xphb Explorers Pack Xphb.png
 
-- [[step_037 (phase_017)]]
-- [[step_010 (phase_020)]]
-- [[step_092 (phase_021)]]
-- [[step_079 (phase_023)]]
-- [[step_039 (phase_024)]]
-- [[step_035 (phase_030)]]
-- [[step_074 (phase_046)]]
-- [[step_062 (phase_058)]]
-- [[step_082 (phase_069)]]
-- [[step_057 (phase_075)]]
-- [[step_100 (phase_076)]]
-
+- [step_037 (phase_017)]]
+- [[step_010 (phase_020)
+- [step_092 (phase_021)]]
+- [[step_079 (phase_023)
+- [step_039 (phase_024)]]
+- [[step_035 (phase_030)
+- [step_074 (phase_046)]]
+- [[step_062 (phase_058)
+- [step_082 (phase_069)]]
+- [[step_057 (phase_075)
+- [step_100 (phase_076)]]
 
 ## Notes
 

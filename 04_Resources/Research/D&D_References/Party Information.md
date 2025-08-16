@@ -2,7 +2,7 @@
 
 title: Party Information
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -60,11 +60,9 @@ Ongoing campaign element requiring constant updates and maintece. ## Adventure H
 2. **Reputation Recovery**: Repair damaged standing with crucial faction
 3. **Legacy Investigation**: Research the history of a legendary party ## Secrets (DM Only)
 
-
 Some long-term adventuring parties develop subtle magical bonds that allow limited telepathic communication and shared magical resistance. ## Campaign Use
 
 Use party information to create personalized consequences, rewards, and opportunities. Track reputation changes to make the world feel reactive to player choices. ## Player-Facing Summary Party Information is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Party Information as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Party Information. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

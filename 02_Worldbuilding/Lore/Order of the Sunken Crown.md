@@ -1,15 +1,15 @@
 ---
 
 title: Order of the Sunken Crown
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - order
 - sunken-crown
 - faction
 - aquatic
-- [[Organization]]
+- [[Organization
 - active
 - complete
 created: '2025-08-08'
@@ -40,7 +40,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -84,7 +84,7 @@ improvements: 20
 
 ## Overview
 
-The Order of the Sunken Crown is a secretive organization dedicated to preserving the memory and recovering the artifacts of an ancient underwater kingdom that was destroyed in a cataclysmic event predating the founding of Aquabyssos. Members believe they are guardians of a rightful claim to underwater rulership and work to gather [[Evidence]] of their kingdom's former glory.
+The Order of the Sunken Crown is a secretive organization dedicated to preserving the memory and recovering the artifacts of an ancient underwater kingdom that was destroyed in a cataclysmic event predating the founding of Aquabyssos. Members believe they are guardians of a rightful claim to underwater rulership and work to gather [[Evidence of their kingdom's former glory.
 
 ## Historical Background
 
@@ -92,15 +92,15 @@ Founded by survivors and descendants of the lost kingdom, the Order has operated
 
 ## Current State
 
-The Order has gained new relevance as [[Dimensional Instabilities]] reveal previously hidden ruins and artifacts from their lost kingdom. Some members advocate for open declaration of their claims, while others prefer continued secrecy.
+The Order has gained new relevance as [Dimensional Instabilities]] reveal previously hidden ruins and artifacts from their lost kingdom. Some members advocate for open declaration of their claims, while others prefer continued secrecy.
 
 ### Duration
 
-Life[[Time]] membership with generational inheritance of obligations.
+Life[[Time membership with generational inheritance of obligations.
 
 ## Adventure Hooks
 
-1. **[[Crown Fragment]]**: Discovery of artifact that proves Order's claims
+1. **[Crown Fragment]]**: Discovery of artifact that proves Order's claims
 2. **Infiltration Mission**: Government seeks to expose Order activities
 3. **Succession Crisis**: Order must choose new leadership during political upheaval
 
@@ -116,11 +116,11 @@ Order of the Sunken Crown is a undersea element of the setting, known for biolum
 
 Legends speak of Order of the Sunken Crown as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Order of the Sunken Crown.
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [map]] use.
 
-## [[Historical Context]]
+## [[Historical Context
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -165,12 +165,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Kraken Territories]]
-- [[The Cerulean Trench]]
-- [[The Primordial Vaults]]
-- [[Kraken Territories (D&D_References)]]
-- [[The Cerulean Trench (D&D_References)]]
-- [[The Primordial Vaults (D&D_References)]]
-- [[The Seven Shards (D&D_References)]]
-- [[The Seven Shards 3 (D&D_References)]]
-- [[The Void Touched Depths (D&D_Statblocks)]]
+- [Kraken Territories]]
+- [[The Cerulean Trench
+- [The Primordial Vaults]]
+- [[Kraken Territories (D&D_References)
+- [The Cerulean Trench (D&D_References)]]
+- [[The Primordial Vaults (D&D_References)
+- [The Seven Shards (D&D_References)]]
+- [[The Seven Shards 3 (D&D_References)
+- [The Void Touched Depths (D&D_Statblocks)]]

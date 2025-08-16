@@ -2,7 +2,7 @@
 
 title: Silverbrook City (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -41,12 +41,11 @@ updated: '2025-08-13T01:18:35.311821+00:00'
 
 - A stranger needs help stealing before the new moon
 - A merchant needs help finding before winter
-- A stranger needs help delivering before dawn ## Related Notes - [[Similar Topic 1]]
+- A stranger needs help delivering before dawn ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

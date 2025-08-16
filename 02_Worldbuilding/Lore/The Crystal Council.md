@@ -1,12 +1,12 @@
 ---
 
 title: The Crystal Council
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
 - active
-- [[location]]
-- [[Aethermoor]]
+- [location]]
+- [[Aethermoor
 - crystal-enhanced
 - bloodline
 created: '2025-08-11'
@@ -28,11 +28,11 @@ improvements: 20
 
 ### Culture Improvements
 
-- Define unique [[Cultural Practices|Cultural Practices]] and taboos
+- Define unique [Cultural Practices|Cultural Practices]] and taboos
 
 ### Economy Improvements
 
-- Detail currency, [[[[Trade_Goods|Trade_Goods]]|Trade Goods]], and wealth distribution
+- Detail currency, [[[Trade_Goods|Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -40,7 +40,7 @@ improvements: 20
 
 ### Lifestyle Improvements
 
-- Describe typical day for different social [[classes|classes]]
+- Describe typical day for different social [[classes|classes
 
 ### Sensory Improvements
 
@@ -72,17 +72,17 @@ improvements: 20
 
 ### Material_Culture Improvements
 
-- Detail common [[objects|objects]] and their cultural significance
+- Detail common [objects|objects]] and their cultural significance
 
-## Player-[[facing|facing]] Summary
+## Player-[[facing|facing Summary
 
 The Crystal Council is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of The Crystal Council as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or [[Whispers|Whispers]] on the wind—that herald change around The Crystal Council.
+Legends speak of The Crystal Council as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or [Whispers|Whispers]] on the wind—that herald change around The Crystal Council.
 
-## [[[[DM_Notes|DM_Notes]]|DM Notes]]
+## [[[DM_Notes|DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
@@ -98,12 +98,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 *[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
 
-## Historical [[Time|[[Time]]line]]
+## Historical [[Time|[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[People]]s
+- War with indigenous [[Peoples
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -113,7 +113,7 @@ Different cultures interpret this lore through their own lens, creating variatio
 ### The Time of Troubles (100 years ago)
 - Civil war
 - Natural disasters
-- Current [[Power Structures|Power Structures]] established
+- Current [Power Structures|Power Structures]] established
 
 ## Cultural Practices
 
@@ -140,4 +140,4 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Tithing of 10% income
 
 ---
-**Navigation**: [[00_Indexes/Home|🏠 Home]] | [[00_Indexes/Master_Index|📚 Index]]
+**Navigation**: [[00_Indexes/Home|🏠 Home | [00_Indexes/Master_Index|📚 Index]]

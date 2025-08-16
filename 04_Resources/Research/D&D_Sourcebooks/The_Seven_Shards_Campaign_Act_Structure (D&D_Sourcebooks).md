@@ -2,7 +2,7 @@
 
 title: The_Seven_Shards_Campaign_Act_Structure (D&D_Sourcebooks)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -50,7 +50,6 @@ obsidian UIMode: preview
 7) Tidal Shard: Memory and Mercy
 8) Crown Shard: Sovereignty and Song
 9) Epilogue: The Second Rising ## Player-Facing Summary Act Structure is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Act Structure as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Act Structure. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

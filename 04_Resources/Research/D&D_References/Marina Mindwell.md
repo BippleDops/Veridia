@@ -2,7 +2,7 @@
 
 title: Marina Mindwell
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,10 +42,9 @@ updated: '2025-08-13T01:18:34.939828+00:00'
 
 - Strange accidents suggest a curse
 - Strange dreams suggest ancient magic
-- Someone is hunting a artifact for money ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Keeper Elara Mindwell]]
+- Someone is hunting a artifact for money ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Keeper Elara Mindwell
 
-- [[Keeper Elara Mindwell (D&D_Statblocks)]]
-
+- [Keeper Elara Mindwell (D&D_Statblocks)]]
 
 ## Notes
 

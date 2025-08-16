@@ -1,7 +1,7 @@
 ---
-title: [[Crystal Corruption]] [[Time|[[Time]]line]]
-type: [[Lore]]
-tags:
+title: [[Crystal Corruption [[Time|[Time]]line]]
+type: [[Lore
+tags: 
 - lore
 - active
 created: '2025-08-14'
@@ -20,12 +20,12 @@ Crystal Corruption Timeline represents a significant element within the campaign
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: [[Link]]ed to multiple other elements
+- **Connections**: [Link]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-[[Historical Context]] and development over time.
+[[Historical Context and development over time.
 
 ### Current State
 Present circumstances and ongoing relevance.
@@ -46,5 +46,5 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 *Customize as needed for your specific campaign requirements.*

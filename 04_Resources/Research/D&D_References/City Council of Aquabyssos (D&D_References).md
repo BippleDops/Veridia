@@ -2,7 +2,7 @@
 
 title: City Council of Aquabyssos (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -46,7 +46,6 @@ danger_level: Moderate
 - Strange sightings suggest a portal
 - A corpse reveals a conspiracy about the government
 - Someone is blackmailing information for money ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

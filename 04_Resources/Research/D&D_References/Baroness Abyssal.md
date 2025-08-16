@@ -2,7 +2,7 @@
 
 title: Baroness Abyssal
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,10 +42,9 @@ updated: '2025-08-13T01:18:35.093064+00:00'
 
 - Someone is protecting a witness for revenge
 - Strange dreams suggest a curse
-- Strange sightings suggest a conspiracy ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Abyssos Prime - Inverse Palace]]
+- Strange sightings suggest a conspiracy ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Abyssos Prime - Inverse Palace
 
-- [[Abyssos Prime - Inverse Palace (D&D_Statblocks)]]
-
+- [Abyssos Prime - Inverse Palace (D&D_Statblocks)]]
 
 ## Notes
 

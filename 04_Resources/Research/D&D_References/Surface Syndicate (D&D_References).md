@@ -2,7 +2,7 @@
 
 title: Surface Syndicate (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -89,7 +89,6 @@ Increased security measures following recent political tensions have disrupted t
 4. Respect territorial boundaries of member operations
 5. Share intelligence about law enforcement activities ## Resources and Assets
 
-
 **Ficial:** Estimated 2 million gold equivalent in liquid assets
 **Naval:** Dozen modified vessels capable of depth/surface operation
 **Personnel:** 200+ active associates across both realms
@@ -116,11 +115,9 @@ The Syndicate has expanded into magical artifact trafficking following increased
 5. Missing person connected to forced recruitment or elimination
 6. Ancient artifact smuggling threatens dimensional stability ## Roleplaying Notes
 
-
 Syndicate members blend surface and depth cultural elements, often speaking with mixed accents and wearing hybrid clothing styles. They're pragmatic and business-focused but can be ruthless when threatened. Higher-ranking members display sophisticated criminal expertise while lower associates may be desperate or opportunistic. ## DM Notes
 
 The Surface Syndicate provides excellent opportunities for morally ambiguous adventures. They can serve as employers, antagonists, or uneasy allies depending on circumstances. Their cross-realm nature allows for adventures that span both underwater and surface settings, while their criminal activities offer heist scenarios and underworld intrigue. ## Player-Facing Summary Surface Syndicate is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Surface Syndicate as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Surface Syndicate. ## Related *Links to related content will be added here.*
-
 
 ## Notes
 

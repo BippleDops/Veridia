@@ -2,7 +2,7 @@
 
 title: The Visiting Scholar Complex (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,7 +43,6 @@ updated: '2025-08-13T01:18:35.301643+00:00'
 - Strange disappearances suggest a portal
 - A shipment has gone missing and war looms
 - Someone is searching for a artifact for money ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

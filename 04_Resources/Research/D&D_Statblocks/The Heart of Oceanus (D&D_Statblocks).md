@@ -2,7 +2,7 @@
 
 title: The Heart of Oceanus (D&D_Statblocks)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -82,8 +82,6 @@ Aquabyssos holds special significance as the Heart's most concentrated presence 
 4. **Guide Aquabyssos**: Serve as the ultimate patron and protector of the underwater realm
 5. **Heal Ancient Wounds**: Slowly repair damage done to oceans by wars, pollution, and supernatural corruption ## Secrets and Hidden Truths > [!warning] DM Secrets
 
-
-
 > - **The Great Weakness**: The Heart can be temporarily "stunned" if enough of its water is simultaneously contaminated or destroyed
 > - **The Missing Piece**: A portion of the Heart was stolen/separated long ago and exists as a separate entity elsewhere
 > - **The Final Tide**: If mortals continue polluting oceans, the Heart may reclaim all water, ending life on dry land
@@ -91,7 +89,7 @@ Aquabyssos holds special significance as the Heart's most concentrated presence 
 > - **The Deep Prison**: The Heart has been unknowingly containing an ancient evil in the deepest ocean trenches
 > - **Convergence Truth**: The dimensional merger threatens to "dilute" the Heart across too many realities ### The Heart's Dilemma
 
-The Heart faces an impossible choice: remain fragmented and gentle, allowing mortals free will with water but risking corruption and abuse, or reunify its consciousness and impose absolute control over all waters, saving the oceans but enslaving all water-dependent life. ## Combat Capabilities *Gargantuan elemental (primordial), neutral good* **Armor Class** 22 (Natural Armor) **Hit Points** 950 (50d20 + 400) **Speed** 0 ft., swim 300 ft., fly 150 ft. (hover) **STR** 30 (+10) **DEX** 18 (+4) **CON** 26 (+8) **INT** 25 (+7) **WIS** 28 (+9) **CHA** 24 (+7) **Saving Throws** Int +16, Wis +18, Cha +16 **Skills** Insight +27, Nature +25, Perception +27, Survival +18 **Damage Resistances** All physical damage **Damage Immunities** Cold, Necrotic; Poison from water sources **Condition Immunities** Charmed, Exhausted, Frightened, Paralyzed, Poisoned **Senses** Truesight 1 mile, Water Sense (all water everywhere), passive Perception 37 **Languages** All languages, Deep Speech, Primordial, telepathy (unlimited range through water) **Challenge Rating** 25 (75,000 XP) **Proficiency Bonus** +8 ### Legendary Resistance (5/Day)
+The Heart faces an impossible choice: remain fragmented and gentle, allowing mortals free will with water but risking corruption and abuse, or reunify its consciousness and impose absolute control over all waters, saving the oceans but enslaving all water-dependent life. ## Combat Capabilities *Gargantuan elemental (primordial), neutral good* **Armor Class** 22 (Natural Armor) **Hit Points** 950 (`dice: 50d20` + 400) **Speed** 0 ft., swim 300 ft., fly 150 ft. (hover) **STR** 30 (+10) **DEX** 18 (+4) **CON** 26 (+8) **INT** 25 (+7) **WIS** 28 (+9) **CHA** 24 (+7) **Saving Throws** Int +16, Wis +18, Cha +16 **Skills** Insight +27, Nature +25, Perception +27, Survival +18 **Damage Resistances** All physical damage **Damage Immunities** Cold, Necrotic; Poison from water sources **Condition Immunities** Charmed, Exhausted, Frightened, Paralyzed, Poisoned **Senses** Truesight 1 mile, Water Sense (all water everywhere), passive Perception 37 **Languages** All languages, Deep Speech, Primordial, telepathy (unlimited range through water) **Challenge Rating** 25 (75,000 XP) **Proficiency Bonus** +8 ### Legendary Resistance (5/Day)
 
 If the Heart fails a saving throw, it can choose to succeed instead. ### Water Omnipresence
 
@@ -99,7 +97,7 @@ The Heart exists in all water simultaneously. Destroying its manifestation only 
 
 All water within 10 miles obeys the Heart's will. It can reshape terrain, create whirlpools, summon tsunamis, or calm storms as bonus actions. ### Life Connection
 
-All aquatic creatures within 50 miles gain +2 to attack rolls and saving throws. The Heart takes half damage when water-dwelling creatures it considers "children" are harmed nearby. ### Actions **Multiattack**: The Heart can cast a spell and use one other action. **Tidal Wave**: Every creature in a 300-foot line must make a DC 24 Strength saving throw. On failure, they take 65 (10d12) bludgeoning damage and are pushed 100 feet. On success, half damage and pushed 50 feet. **Drowning Grasp**: The Heart controls water in a creature's lungs. Target within 1 mile must make DC 24 Constitution save or begin drowning regardless of their ability to breathe water. This continues until the Heart releases them or they succeed on three saves. **Oceanic Wrath** (Recharge 5-6): All water within 5 miles becomes violently turbulent. All creatures touching water take 45 (10d8) bludgeoning damage (DC 24 Dex save for half) and are stunned for 1 round. **Leviathan Summon** (1/Day): The Heart calls 1d4+1 ancient sea monsters (use Kraken stats) that arrive in 1d4 rounds and serve for 1 hour. **Primordial Healing** (3/Day): The Heart can cast *mass heal* affecting all creatures in a 1-mile radius, or restore all water in that area to perfect purity. ### Legendary Actions (3 per turn)
+All aquatic creatures within 50 miles gain +2 to attack rolls and saving throws. The Heart takes half damage when water-dwelling creatures it considers "children" are harmed nearby. ### Actions **Multiattack**: The Heart can cast a spell and use one other action. **Tidal Wave**: Every creature in a 300-foot line must make a **DC 24** Strength saving throw. On failure, they take 65 (`dice: 10d12`) bludgeoning damage and are pushed 100 feet. On success, half damage and pushed 50 feet. **Drowning Grasp**: The Heart controls water in a creature's lungs. Target within 1 mile must make **DC 24** Constitution save or begin drowning regardless of their ability to breathe water. This continues until the Heart releases them or they succeed on three saves. **Oceanic Wrath** (Recharge 5-6): All water within 5 miles becomes violently turbulent. All creatures touching water take 45 (`dice: 10d8`) bludgeoning damage (**DC 24** Dex save for half) and are stunned for 1 round. **Leviathan Summon** (1/Day): The Heart calls `dice: 1d4`+1 ancient sea monsters (use Kraken stats) that arrive in `dice: 1d4` rounds and serve for 1 hour. **Primordial Healing** (3/Day): The Heart can cast *mass heal* affecting all creatures in a 1-mile radius, or restore all water in that area to perfect purity. ### Legendary Actions (3 per turn)
 
 The Heart can take 3 legendary actions, choosing from the options below. **Move**: The Heart moves up to its speed without provoking opportunity attacks. **Current Command**: The Heart repositions all creatures within 500 feet as if by *telekinesis*. **Tide Speak**: The Heart communicates with all water-dwelling creatures within 10 miles, coordinating their actions. **Oceanic Spell** (Costs 2 Actions): The Heart casts a spell of 7th level or lower. **Heart's Blessing** (Costs 3 Actions): The Heart grants all allies within 1 mile temporary immunity to one damage type for 1 minute. ## Lair Actions
 
@@ -123,15 +121,14 @@ The Heart of Oceanus serves as the ultimate environmental patron, the voice of o
 - Serve as ultimate judge of character for water-based conflicts
 - Offer both incredible power and terrible responsibility to those who earn its favor
 - Create scenarios where the greatest power requires the greatest sacrifice
-- Bridge the gap between cosmic forces and personal, intimate connections to nature The Heart represents the philosophy that true power comes from giving rather than taking, and that the greatest strength is often shown through restraint and nurturing rather than domination. ## Player-Facing Summary The Heart of Oceanus is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Heart of Oceanus as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Heart of Oceanus. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Second Prophecy of Depths ## Relationships - **Sibling**: [[Npc]]
+- Bridge the gap between cosmic forces and personal, intimate connections to nature The Heart represents the philosophy that true power comes from giving rather than taking, and that the greatest strength is often shown through restraint and nurturing rather than domination. ## Player-Facing Summary The Heart of Oceanus is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Heart of Oceanus as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Heart of Oceanus. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Second Prophecy of Depths ## Relationships - **Sibling**: [[Npc
 
-- **Ally**: [[Npc]]
-- **Enemy**: [[Militant-Priest Abyssal (D&D_References)]]
-- **Blackmailer**: [[Scarlet Torrent]]
+- **Ally**: [Npc]]
+- **Enemy**: [[Militant-Priest Abyssal (D&D_References)
+- **Blackmailer**: [Scarlet Torrent]]
 - **Parent**: [[Border Territories]] ## Plot Hooks - A letter reveals ancient history about the government
 
 - A letter reveals ancient history about this place ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

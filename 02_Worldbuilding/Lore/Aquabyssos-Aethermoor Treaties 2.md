@@ -3,7 +3,7 @@ created: '2025-08-08'
 created_by: auto-stub
 expanded: 2025-08-10
 status: complete
-tags:
+tags: 
 - aethermoor
 - complete
 - content/lore
@@ -20,9 +20,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.140916+00:00'
 world: Aethermoor
 ---
-
-
-
 
 # Aquabyssos-Aethermoor Treaties
 
@@ -282,15 +279,15 @@ Someone with access to the highest levels of both governments has been systemati
 ## Connected References
 
 - Inter Realm Council - Governing body for treaty implementation
-- [[02_Worldbuilding/Lore/Ambassador Marina Tidecrest]] - Key diplomatic figure
+- [[02_Worldbuilding/Lore/Ambassador Marina Tidecrest - Key diplomatic figure
 - Twilight Zone - Primary diplomatic meeting area
-- [[02_Worldbuilding/Lore/Convergence Engine]] - Hidden stabilization technology
-- [[02_Worldbuilding/Lore/The Great Elevation]] - Aethermoor's founding catastrophe
-- [[02_Worldbuilding/Places/The Great Drowning]] - Aquabyssos's founding catastrophe
+- [02_Worldbuilding/Lore/Convergence Engine]] - Hidden stabilization technology
+- [[02_Worldbuilding/Lore/The Great Elevation - Aethermoor's founding catastrophe
+- [02_Worldbuilding/Places/The Great Drowning]] - Aquabyssos's founding catastrophe
 - Memory Plague - Recent crisis requiring treaty cooperation
-- [[02_Worldbuilding/Lore/Shadow Collective]] - Anti-treaty extremist organization
+- [[02_Worldbuilding/Lore/Shadow Collective - Anti-treaty extremist organization
 - The Reshaper - True cause of both catastrophes
-- [[02_Worldbuilding/Lore/Twilight Born]] - Products of secret hybrid experiments
+- [02_Worldbuilding/Lore/Twilight Born]] - Products of secret hybrid experiments
 - Dimensional Guard - Joint military force
 - Neutral Trading Posts - Economic integration points
 - Reality Bridge - Experimental connection technology
@@ -309,7 +306,6 @@ Both realms have discovered evidence of other surviving civilizations adapted to
 Ancient texts from both realms speak of a time when all realities will merge permanently. The treaties may be unconscious preparation for this event, creating the diplomatic and cultural infrastructure needed to manage a unified existence across multiple dimensions.
 
 The Aquabyssos-Aethermoor Treaties represent more than diplomatic agreements - they embody the triumph of cooperation over isolation, demonstrating that even the most fundamental differences can be bridged through patience, creativity, and mutual respect. As both realms face an uncertain future filled with dimensional threats and reality-altering phenomena, these treaties provide a foundation of trust that may prove essential for survival itself.
-
 
 ## Connections
 

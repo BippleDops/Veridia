@@ -3,7 +3,7 @@ enhanced: true
 
 title: Side Adventures
 type: note
-tags:
+tags: 
 - auto-generated
 - linked
 
@@ -23,7 +23,6 @@ publish: false
  # Side Adventures ## Overview
 
 **Difficulty**: Moderate (Levels 3-5)
-
 
 This topic is referenced in [[deep_quality_enhancement_20250814_175143]] and other parts of the campaign. ## Description
 
@@ -95,18 +94,17 @@ Further information about this topic will be developed as the campaign progresse
 
 > 💡 **Running This Content**: Advice for game masters
 
-> Adjust difficulty based on party composition ## References - [[Quest Dependency System]]
+> Adjust difficulty based on party composition ## References - [[Quest Dependency System
 
-- [[optimization_report_*.md]]
-- [[deployment_report]]
-- [[Complete_NPC_Matrix (Indexes)]]
-- [[Monster_Ecology_Web (Indexes)]]
-- [[cleanup_report_20250814_173558]]
-- [[deep_quality_enhancement_20250814_175143]]
-- [[smart_link_fix_20250814_175123]]
-- [[step_003_build_image_generation_queue]]
-- [[step_008_generate_character_sheets]]
-
+- [optimization_report_*.md]]
+- [[deployment_report
+- [Complete_NPC_Matrix (Indexes)]]
+- [[Monster_Ecology_Web (Indexes)
+- [cleanup_report_20250814_173558]]
+- [[deep_quality_enhancement_20250814_175143
+- [smart_link_fix_20250814_175123]]
+- [[step_003_build_image_generation_queue
+- [step_008_generate_character_sheets]]
 
 ## Notes
 
@@ -133,16 +131,13 @@ Further information about this topic will be developed as the campaign progresse
 - Key events
 - Deadlines
 
-
 ## NPCs Involved
 - Quest giver
 - Antagonists
 
-
 ## Complications
 - Potential problems
 - Twists
-
 
 ## Alternative Solutions
 - Non-combat options

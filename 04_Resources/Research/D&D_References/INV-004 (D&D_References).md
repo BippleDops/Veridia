@@ -2,7 +2,7 @@
 
 title: INV-004 (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -55,14 +55,12 @@ The investigation remains officially ongoing, though its findings have already l
 2. **Cover-up Attempt**: Someone tries to suppress the investigation's findings
 3. **Related Incident**: Similar pattern emerges requiring investigation ## Secrets (DM Only)
 
-
 INV-004 uncovered evidence that some diplomatic incidents were orchestrated by entities from neither realm, suggesting external interference in inter-realm relations. ## Campaign Use
 
 Provides framework for mystery adventures involving political intrigue and inter-dimensional crime. ## Player-Facing Summary INV 004 is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of INV 004 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around INV 004. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - A shipment has gone missing and war looms
 
 - Someone is blackmailing a artifact for love
 - A noble needs help stealing before the festival ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

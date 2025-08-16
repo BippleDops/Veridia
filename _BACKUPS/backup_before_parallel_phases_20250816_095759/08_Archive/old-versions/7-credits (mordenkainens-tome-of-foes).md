@@ -1,0 +1,46 @@
+---
+
+title: 7-credits (mordenkainens-tome-of-foes)
+type: note
+tags:
+- note
+
+created: '2025-01-15'
+modified: '2025-01-15'
+
+--- # 7-credits ---
+
+## Description
+
+Detailed description pending.
+title: 7 credits
+aliases:
+- Credits
+
+type: note
+tags:
+- research
+- world/both
+- active
+- ttrpg-cli/compendium/src/5e/mtf
+- note
+- status/in-progress
+
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidian UIMode: preview
+updated: '2025-08-12T23:37:34.761266'
+world: Both
+
+--- # Credits
+
+*Source: Mordenkainen's Tome of Foes* - **Lead Designers.** Mike Mearls, Jeremy Crawford - **Designers.** Adam Lee, Ben Petrisor, Robert J. Schwalb, Matt Sernett, Steve Winter - **Additional Design.** Kim Mohan, Christopher Perkins, Kate Welch - **Guest Designer.** Nolan Whale (oblex, Balthran Ireheart) - **Managing Editor.** Jeremy Crawford - **Editors.** Kim Mohan, Michele Carter, Scott Fitzgerald Gray - **Art Director.** Kate Irwin - **Graphic Designer.** Emi Tanji - **Additional Art Direction.** Shauna Narciso - **Cover Illustrator.** Jason Rainville - **Cover Illustrator (Alternative Cover).** Vance Kelly - **Concept Artists.** Richard Whitters, Shawn Wood - **Interior Illustrators.** Dave Allsop, Tom Babbey, Mark Behm, Eric Belisle, Michael Berube, Zoltan Boros, Aleksi Briclot, Filip Burburan, Christopher Burdett, Matt Cavotta, Sidharth Chaturvedi, Jedd Chevrier, Ed Cox, Olga Drebas, Wayne England, Justin Gerard, Lars Grant-West, Leesha Hannigan, Jon Hodgson, Ralph Horsley, Lake Hurwitz, Tyler Jacobson, Julian Kok, Daniel Landerman, Olly Lawson, Howard Lyon, Warren Mahy, Brynn Metheney, Aaron Miller, Scott Murphy, Jim Nelson, William O'Connor, Efrem Palacios, Adam Paquette, Claudio Pozas, Vincent Proce, Rob Rey, Richard Sardinha, Chris Seaman, Ilya Shkipin, Craig J Spearing, Zack Stella, Philip Straub, Bryan Syme, David A. Trampier, Cory Trego-Erdner, Richard Whitters, Anthony S. Waters, Shawn Wood, Ben Wootten, Min Yum, Xi James Zhang, Arnie Sweke - **Project Management.** Stan! - **Production Services.** Cynda Callaway, Carmen Cheung, Jefferson Dunlap, David Gershman - **Other D&D Team Members.** Bart Carroll, Trevor Kidd, Christopher Lindsay, Shelly Mazzanoble, Hilary Ross, Liz Schuh, Nathan Stewart, Greg Tito - **Playtesters.** Adam Hennebeck, Adam Pearson, Alex D'Amico, Alex Kammer, Alexander Forsyth, Andrew Norman, Andrey Sarafanov, Arthur Wright, Ashleigh Bishop, Beau Coker, Ben Rabin, Brian Dahl, Brittany Schoen, Bryan Gillispie, Bryan Harris, Burt Beegle, C. Mc Govern, Cait Davis-Pauley, Caleb Zutavern, Cameron Scruggs, Charles Benscoter, Chloe Urbano, Chris Garner, Chris Presnall, Cody Helms, Daniel "KBlin" Oliveira, Dave Rosser Jr., Davena Oaks, David Callander, David Gidcumb, David Krolnik, David Merritt, David Morris, Derek Da Silva, Derek Gray, Emre Cihangir, Enrique Bertran, Eric Weberg, Evan Jackson, Garrett Colon, George Strayton, Gerald Wan, Grant Fisk, Gregory L. Harris, Grigory Parovichnikov, J. Connor Self, Jacob Del Mauro, James Schweiss, Jared Fegan, Jawsh Murdock, Jay Anderson, Jay Elmore, Jay White, Jenna Schmitt, Jeremy Nagorny, Jerry Behrendt, Jia Jian Tin, Jim Berrier, Jimmer Moeller, Joe Alfano, Joe Reilly, Jonathan Longstaff, Joseph Schenck, Joshua Hart, Justin Donie, Karl Resch, Keith Williams, Kerry Kaszak, Kevin Engling, Kevin Grigsby, Kevin Moore, Kevin Murphy, Kevin Neff, Kirsten Thomas, Kyle Turner, Justin Hicks, Lawrence "Bear" Beals, Lou Michelli, Marcello De Velazquez, Marcus Wiles, Mark Merida, Matt Maranda, Matthew H Budde, Matthew Roderick, Matthew Shurboff, Matthew Warwick, Michael Long, Michael Obermeier, Mike Mihalas, Nel Pulanco, Nichola Sobota, Nicholas Giovannetti, Oleg Suetnov, Paige Miller, Paul Hughes, Phil Morlan, Pieter Sleijpen, Randall Harris, Randall Shepherd, Richard Chamberlain, Robert Alaniz, Russ Paulsen, Russell Engel, Sam Robertson, Sam Shircel, Samuel Sherry, Scott Beck, Scott Chipman, Shane Leahy, Stacy Bermes, Stephen Lindberg, Stephen Morman, Sterling Hershey, Tashfeen Bhimdi, Teos Abadía, Timothy Hunt, Travis Fuller, Travis Woodall, Troy Sandlin, Wayne Chang, Zachary Pickett - This book is dedicated to artist William O'Connor, who passed away during its creation. Since 2001, his work has graced numerous D&D products, including this one. Like his art, his was a spirit of vibrancy and warmth. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Player-Facing Summary 7 credits is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of 7 credits as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 7 credits. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Secret Pact - Summon ancient evil ## Plot Hooks - A noble needs help investigating before the festival
+
+- A shipment has gone missing and chaos spreads
+- Someone is hunting information for power ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
+
+## Notes
+
+*Additional notes*

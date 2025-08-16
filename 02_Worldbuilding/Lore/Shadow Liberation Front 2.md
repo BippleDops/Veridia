@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/lore
@@ -13,11 +13,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.402678+00:00'
 world: Aquabyssos
 ---
-
-
-
-
-
 
 ## Overview
 
@@ -45,11 +40,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Silverscale Consortium]]
-
+- [[02_Worldbuilding/Groups/Silverscale Consortium
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Lord Vexton Shadowmere]]
-- [[02_Worldbuilding/Groups/Silverscale Consortium]]
-- [[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]
+- [02_Worldbuilding/Groups/Criminal_Organizations/Lord Vexton Shadowmere]]
+- [[02_Worldbuilding/Groups/Silverscale Consortium
+- [02_Worldbuilding/People/Tribune Cassia Deepcurrent]]

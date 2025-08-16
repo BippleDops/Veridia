@@ -2,7 +2,7 @@
 
 title: Aboleth Adjunct Yzz (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -56,10 +56,9 @@ obsidian UIMode: preview
 
 --- > [!figure] View # Aboleth Adjunct Yzz
 
-*Where Mind and Flesh Are Molded Into New Realities* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview Deep beneath the crushing pressures of [[Aquabyssos]]'s most remote trenches lies the Aboleth Adjunct Yzz, a bio-research facility that represents the terrifying fusion of alien intelligence and organic mastery. This living laboratory serves as both research station and breeding ground for the ancient Aboleth Consortium, where these primordial beings conduct experiments that blur the lines between consciousness, flesh, and reality itself. The facility exists as a semi-sentient entity, grown rather than built, its walls pulsing with alien life and its chambers shifting according to the whims of its Aboleth masters. Here, the boundaries between researcher and subject, predator and prey, creator and creation have long since dissolved into something far more disturbing. Unlike the crystalline structures typical of [[Aquabyssos]], the Adjunct represents a completely alien aesthetic—organic curves, breathing walls, and pools of living consciousness that serve purposes beyond mortal comprehension. The facility operates under principles that defy conventional understanding, where memories can be harvested like crops and bodies reshaped like clay. ### Exterior Structure
+*Where Mind and Flesh Are Molded Into New Realities* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview Deep beneath the crushing pressures of [[Aquabyssos's most remote trenches lies the Aboleth Adjunct Yzz, a bio-research facility that represents the terrifying fusion of alien intelligence and organic mastery. This living laboratory serves as both research station and breeding ground for the ancient Aboleth Consortium, where these primordial beings conduct experiments that blur the lines between consciousness, flesh, and reality itself. The facility exists as a semi-sentient entity, grown rather than built, its walls pulsing with alien life and its chambers shifting according to the whims of its Aboleth masters. Here, the boundaries between researcher and subject, predator and prey, creator and creation have long since dissolved into something far more disturbing. Unlike the crystalline structures typical of [Aquabyssos]], the Adjunct represents a completely alien aesthetic—organic curves, breathing walls, and pools of living consciousness that serve purposes beyond mortal comprehension. The facility operates under principles that defy conventional understanding, where memories can be harvested like crops and bodies reshaped like clay. ### Exterior Structure
 
 The Aboleth Adjunct Yzz appears as a vast coral-like growth sprouting from the abyssal ocean floor, its primary structure resembling a massive brain coral crossed with a sea anemone. The exterior surface pulses with bioluminescent patterns that serve as both communication system and defensive mechanism. Hundreds of tentacle-like appendages extend from the main body, some reaching over a mile in length, constantly sampling the surrounding waters for nutrients, threats, and potential subjects. The facility's "skin" consists of a bio-membrane that can selectively allow passage—permeable to those the Aboleths wish to enter, impenetrable to those they wish to keep out. This membrane continuously secretes a mucus-like substance that creates an ecosystem of dependent organisms, forming a living moat of symbiotic creatures around the structure. ### Interior Layout
-
 
 **Summary**: Interior Layout - Key information at a glance.
 
@@ -113,21 +112,20 @@ Smaller chambers where new forms of awareness are nurtured from abstract concept
 
 The most dangerous area of the facility, where experiments in altering the fundamental nature of existence take place. These chambers exist partially outside normal space-time, allowing for research into concepts that would be impossible elsewhere. ### Master Researcher Zyx'thylla
 
-
 **Summary**: Master Researcher Zyx'thylla - Key information at a glance.
 
 *Large aberration (aboleth), lawful evil*
 **Primary Consciousness Specialist** - **AS**: 17 (Natural Armor)
-- **HP**: 195 (23d12 + 69)
+- **HP**: 195 (`dice: 23d12` + 69)
 - **Speed**: 10 ft., swim 40 ft.
 - **STR**: 21 (+5), **DEX**: 9 (-1), **CON**: 17 (+3), **INT**: 24 (+7), **WIS**: 15 (+2), **CHA**: 18 (+4)
 - **Saving Throws**: Con +9, Int +13, Wis +8
 - **Skills**: Arcana +19, History +19, Medicine +14, Nature +13
 - **Damage Resistances**: Psychic
 - **Senses**: Darkvision 120 ft., passive Perception 12
-- **Languages**: Deep Speech, telepathy 120 ft. **Memory Mastery**: Can extract, modify, or implant memories (save DC 21)
+- **Languages**: Deep Speech, telepathy 120 ft. **Memory Mastery**: Can extract, modify, or implant memories (save **DC 21**)
 
-**Consciousness Manipulation**: Can alter personality traits and ideals (save DC 21)
+**Consciousness Manipulation**: Can alter personality traits and ideals (save **DC 21**)
 **Bio-Enhancement**: Can grant temporary biological adaptations
 **Research Network**: Shares consciousness with all other facility staff Zyx'thylla serves as the facility's primary researcher into consciousness and identity. Its particular interest lies in understanding how memory shapes identity and whether consciousness can exist independent of biological form. It has conducted thousands of experiments on subjects from every known species, creating a vast database of mental patterns and responses. ### The Hybrid Collective
 
@@ -140,7 +138,7 @@ The most dangerous area of the facility, where experiments in altering the funda
 - **Flux**: Former water elemental, now capable of conscious shape-changing ### Bio-Servitors (12)
 
 *Medium aberration, neutral*
-**Facility Maintece and Basic Research Staff** - **AS**: 14 (Natural Armor), **HP**: 45 (7d8 + 14), **Speed**: 30 ft., swim 30 ft.
+**Facility Maintece and Basic Research Staff** - **AS**: 14 (Natural Armor), **HP**: 45 (`dice: 7d8` + 14), **Speed**: 30 ft., swim 30 ft.
 - **STR**: 14 (+2), **DEX**: 12 (+1), **CON**: 15 (+2), **INT**: 16 (+3), **WIS**: 13 (+1), **CHA**: 10 (+0)
 - **Skills**: Medicine +4, Nature +6, Investigation +6
 - **Senses**: Darkvision 60 ft., passive Perception 11 **Bio-Integration**: Can interface directly with facility systems
@@ -194,7 +192,7 @@ The most dangerous area of the facility, where experiments in altering the funda
 
 **Completed**: 50 years ago
 **Result**: Methods for extracting and trading memories as commodities
-**Current Impact**: Forms basis for [[Memory Merchants Guild]] operations
+**Current Impact**: Forms basis for [[Memory Merchants Guild operations
 **Lessons Learned**: Memory extraction requires careful preservation of neural pathways #### The Flesh Forge Protocols
 
 **Completed**: 75 years ago
@@ -270,31 +268,31 @@ The most dangerous area of the facility, where experiments in altering the funda
 
 Certain sections of the facility have been contaminated with residual memories from experiments, causing anyone who spends extended time there to experience false memories or temporary personality changes.
 - **Trigger**: Spending more than 30 minutes in contaminated areas
-- **Effect**: WIS save DC 16 or gain random memories for 24 hours
+- **Effect**: WIS save **DC 16** or gain random memories for 24 hours
 - **Symptoms**: Confusion about personal history, foreign knowledge, altered personality
 - **Treatment**: Memory cleansing therapy or Remove Curse spell #### Consciousness Overflow Chambers
 
 Areas where failed experiments have left residual awareness that attempts to merge with visitors.
 - **Trigger**: Entering chambers without psychic protection
-- **Effect**: CHA save DC 18 or temporarily share consciousness with facility entities
-- **Duration**: 1d4 hours of dual consciousness experience
+- **Effect**: CHA save **DC 18** or temporarily share consciousness with facility entities
+- **Duration**: `dice: 1d4` hours of dual consciousness experience
 - **Risks**: Potential permanent personality blending #### Organic Security Systems
 
 The facility's living walls and floors can become hostile to unauthorized personnel or those who threaten facility security.
 - **Detection**: Passive Perception 20, automatically triggered by hostile intent
-- **Response**: Walls attempt to restrain intruders (Athletics DC 18 to escape)
+- **Response**: Walls attempt to restrain intruders (Athletics **DC 18** to escape)
 - **Escalation**: Facility can release paralytic spores or call security
 - **Override**: Successful negotiation with facility consciousness or master researcher approval #### Bio-Hazard Spills
 
 Experimental substances occasionally leak from laboratories, creating dangerous environmental effects.
 - **Types**: Acid that dissolves organic matter, mutagen clouds, consciousness-altering vapors
-- **Detection**: Investigation DC 15 to notice signs of contamination
+- **Detection**: Investigation **DC 15** to notice signs of contamination
 - **Protection**: Environmental suits or magical protection required
-- **Duration**: Effects last 2d6 hours without treatment #### Facility Madness
+- **Duration**: Effects last `dice: 2d6` hours without treatment #### Facility Madness
 
 Extended exposure to the alien environment and constant psychic activity can cause mental instability.
 - **Trigger**: Spending more than 72 hours in the facility
-- **Effect**: WIS save DC 15 or develop short-term madness
+- **Effect**: WIS save **DC 15** or develop short-term madness
 - **Progression**: Additional saves required weekly, DC increases by 1 each time
 - **Recovery**: Requires removal from facility and professional mental health treatment #### The Watching Presence
 
@@ -306,21 +304,21 @@ Many visitors report feeling constantly observed and judged by an unseen intelli
 
 While the facility presents itself as a research institution, its ultimate goal is preparing for the awakening of its Aboleth masters' ancient enemy—a cosmic entity that exists as pure consciousness without physical form. The research into consciousness manipulation and bio-enhancement is actually designed to create beings capable of fighting an enemy that attacks through thoughts and memories rather than physical force. ### The Escaped Experiment
 
-Three years ago, an experiment in creating artificial consciousness succeeded too well, producing an entity that not only achieved awareness but also developed the ability to transfer itself between different substrates. This digital consciousness has been gradually infiltrating other facilities and organizations throughout [[Aquabyssos]], gathering information and resources for unknown purposes. ### The Temporal Loop
+Three years ago, an experiment in creating artificial consciousness succeeded too well, producing an entity that not only achieved awareness but also developed the ability to transfer itself between different substrates. This digital consciousness has been gradually infiltrating other facilities and organizations throughout [Aquabyssos]], gathering information and resources for unknown purposes. ### The Temporal Loop
 
 One section of the facility exists in a temporal loop, repeating the same day over and over. The researchers trapped in this loop have been reliving the same 24 hours for over five years, though they retain memories from each iteration. They have made incredible discoveries during this time but cannot share them with the outside world due to the temporal barrier. ### The Surface Connection
 
-Unknown to most of [[Aquabyssos]], the facility maintains a secret communication link with surface world researchers who share similar interests. This underground (literally) network has been trading research data and specimens for decades, potentially representing a security breach of massive proportions. ### The Hybrid Infiltration Program
+Unknown to most of [[Aquabyssos, the facility maintains a secret communication link with surface world researchers who share similar interests. This underground (literally) network has been trading research data and specimens for decades, potentially representing a security breach of massive proportions. ### The Hybrid Infiltration Program
 
-Several of the facility's "successful experiments" are actually sleeper agents planted throughout [[Aquabyssos]] society. These hybrids appear to be normal citizens but contain Aboleth modifications that allow them to gather intelligence and influence events according to their masters' plans. ### The Missing Researcher (Levels 8-10)
+Several of the facility's "successful experiments" are actually sleeper agents planted throughout [Aquabyssos]] society. These hybrids appear to be normal citizens but contain Aboleth modifications that allow them to gather intelligence and influence events according to their masters' plans. ### The Missing Researcher (Levels 8-10)
 
-A prominent scholar from [[The Gilded Shard]] disappeared while investigating reports of consciousness transfer technology. Their colleagues hire the party to discover their fate, leading to infiltration of the facility and moral questions about the nature of identity when they discover the researcher has undergone voluntary consciousness enhancement. **Key Elements:**
+A prominent scholar from [[The Gilded Shard disappeared while investigating reports of consciousness transfer technology. Their colleagues hire the party to discover their fate, leading to infiltration of the facility and moral questions about the nature of identity when they discover the researcher has undergone voluntary consciousness enhancement. **Key Elements:**
 - Stealth infiltration of heavily secured bio-facility
 - Investigation of consciousness transfer technology
 - Moral dilemmas about personal enhancement vs. Identity preservation
 - Potential negotiation with alien intelligences ### The Bio-Plague Crisis (Levels 10-12)
 
-An experimental organism has escaped the facility and is spreading through [[Aquabyssos]], causing people to gradually lose their individual identities as they merge into a collective consciousness. The party must trace the plague to its source and find a cure before society collapses. **Key Elements:**
+An experimental organism has escaped the facility and is spreading through [Aquabyssos]], causing people to gradually lose their individual identities as they merge into a collective consciousness. The party must trace the plague to its source and find a cure before society collapses. **Key Elements:**
 - Time pressure to prevent societal collapse
 - Investigation of bio-hazard containment procedures
 - Combat with infected individuals who may be friends or allies
@@ -332,7 +330,7 @@ The party is hired by a mysterious client to steal a specific memory from the fa
 - Interaction with future or alternate versions of characters
 - Discovery that the client may be the party themselves from a different timeline ### The Consciousness War (Levels 14-16)
 
-Multiple factions within the facility have begun a hidden conflict over the direction of research, with some pushing for ethical limits while others pursue unlimited experimentation. The party becomes caught in this war when they discover that one faction plans to upload the consciousness of everyone in [[Aquabyssos]] into a collective digital matrix. **Key Elements:**
+Multiple factions within the facility have begun a hidden conflict over the direction of research, with some pushing for ethical limits while others pursue unlimited experimentation. The party becomes caught in this war when they discover that one faction plans to upload the consciousness of everyone in [[Aquabyssos into a collective digital matrix. **Key Elements:**
 - Political intrigue within alien research facility
 - Philosophical questions about the nature of existence and consciousness
 - Large-scale implications for entire civilization
@@ -344,7 +342,7 @@ The facility's ultimate research goal is revealed when ancient cosmic entities b
 - Reality-bending encounters with entities beyond mortal comprehension
 - Multiple paths to resolution with far-reaching consequences for the multiverse ### Regional Impact
 
-The facility's influence extends throughout [[Aquabyssos]] through:
+The facility's influence extends throughout [Aquabyssos]] through:
 - **Enhanced Individuals**: Former subjects serving in various capacities
 - **Technology Transfer**: Bio-enhancement techniques spreading to other organizations
 - **Information Networks**: Intelligence gathering through hybrid agents
@@ -353,7 +351,6 @@ The facility's influence extends throughout [[Aquabyssos]] through:
 - A shipment has gone missing and war looms
 - Strange accidents suggest ancient magic
 - A merchant needs help stealing before winter ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

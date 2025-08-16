@@ -2,7 +2,7 @@
 
 title: 02_Worldbuilding/Lore/Aquabyssos Depth Caste System
 type: lore
-tags:
+tags: 
 - lore
 - worldbuilding
 - conspiracy

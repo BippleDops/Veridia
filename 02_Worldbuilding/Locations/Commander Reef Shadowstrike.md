@@ -1,9 +1,9 @@
 ---
 
 title: Commander Reef Shadowstrike
-type: [[location]]
-tags:
-- [[Aquabyssos]]
+type: [[location
+tags: 
+- [Aquabyssos]]
 - world/aquabyssos
 - content/location
 - place
@@ -45,7 +45,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -87,26 +87,26 @@ improvements: 20
 
 Commander Reef Shadowstrike is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
-## [[Lore]] Details
+## [Lore]] Details
 
 Legends speak of Commander Reef Shadowstrike as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Commander Reef Shadowstrike.
 
-### [[Key Locations]]
+### [[Key Locations
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map use.
 
 ## Sensory Details
 
 **Sights**: The architecture features sweeping arches and ornate carvings
 
-**Sounds**: [[Merchant]]s hawk their wares with practiced calls
+**Sounds**: [Merchant]]s hawk their wares with practiced calls
 
 **Smells**: Wood smoke curls from countless chimneys
 
@@ -133,7 +133,7 @@ Commander Reef Shadowstrike is a notable location characterized by its unique fe
 
 ## Connections
 - **North**: Trade road to neighboring settlement
-- **South**: [[path]] through wilderness
+- **South**: [[path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
 
@@ -191,19 +191,16 @@ Ongoing situations affecting Commander Reef Shadowstrike:
 
 ## References
 
-- [[Shadow Ambush - Optional (Criminal_Organizations)]]
+- [Shadow Ambush - Optional (Criminal_Organizations)]]
 - [[Shadow Ambush - Optional]]
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

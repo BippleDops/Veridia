@@ -2,7 +2,7 @@
 
 title: Antiquarian Eliza Tidecaller (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -94,7 +94,6 @@ The heart of the Antiquarium is a vast, circular chamber with soaring ceilings t
 - **Sea Serpent Scales**: Armored plates from legendary creatures, each with unique magical properties
 - **Deep Current Compasses**: Navigation tools that respond to the movements of massive sea creatures ### The Sunken Civilization Wing
 
-
 **Summary**: The Sunken Civilization Wing - Key information at a glance.
 
 *Remts of lost underwater cultures* **The Atlantean Collection**
@@ -159,7 +158,6 @@ The heart of the Antiquarium is a vast, circular chamber with soaring ceilings t
 **Government Bodies**: Official agencies needing historical evidence or diplomatic artifacts
 **Religious Orders**: Sacred institutions seeking items of spiritual significance
 **Adventure Companies**: Groups preparing for deep-sea expeditions who need historical intelligence ### Antiquarian Eliza Tidecaller
-
 
 **Summary**: Antiquarian Eliza Tidecaller - Key information at a glance.
 

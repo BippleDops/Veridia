@@ -2,7 +2,7 @@
 
 title: The Umbral Community Center
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -44,14 +44,13 @@ updated: '2025-08-13T01:18:34.684852+00:00'
 
 - Someone is hunting information for love
 - A noble needs help stealing before the festival
-- A document has gone missing and evil awakens ## Related Notes - [[Similar Topic 1]]
+- A document has gone missing and evil awakens ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Shadow Vale (Criminal_Organizations)]]
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Shadow Vale (Criminal_Organizations)
 
-- [[Shadow Vale]]
-
+- [Shadow Vale]]
 
 ## Notes
 

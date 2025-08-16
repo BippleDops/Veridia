@@ -2,7 +2,7 @@
 
 title: Brother Matthias Inkdrinker (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -48,7 +48,6 @@ Brother Matthias Inkdrinker is a living crossroads where memory-currents and tra
 - Someone is hunting a witness for money
 - A journal reveals a conspiracy about this place
 - Strange accidents suggest ancient magic ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

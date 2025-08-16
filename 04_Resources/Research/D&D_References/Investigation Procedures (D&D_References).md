@@ -2,7 +2,7 @@
 
 title: Investigation Procedures (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -69,7 +69,6 @@ The recent increase in crystal corruption cases has prompted development of spec
 3. The party must investigate a crime scene that phases between realities, requiring new procedures
 4. Evidence from a formal investigation contradicts information from shadow networks, suggesting conspiracy ### Early Campaign
 
-
 Introduce through minor crime investigations that demonstrate the unique challenges of underwater detective work and the importance of following proper procedures. ### Mid Campaign
 
 Procedural knowledge becomes crucial for uncovering larger conspiracies and navigating the complex political implications of major investigations. ### Late Campaign
@@ -87,7 +86,6 @@ Adapt procedures to reflect your campaign's tone - more bureaucratic for politic
 - A noble needs help investigating before the festival
 - A journal reveals a conspiracy about the cult
 - An heirloom has gone missing and chaos spreads ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

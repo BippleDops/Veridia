@@ -3,7 +3,7 @@ created: '2025-08-08'
 created_by: auto-stub
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/faction
@@ -18,13 +18,8 @@ updated: '2025-08-13T12:34:17.008088+00:00'
 world: Aquabyssos
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-deep-patrol-the-deep-patrol.svg)
-
-
-
 
 # The Deep Patrol
 
@@ -161,12 +156,11 @@ The Deep Patrol is Aquabyssos's elite military unit specializing in extreme dept
 ## DM Notes
 The Deep Patrol provides opportunities for extreme environment adventures, military campaigns, and exploration of deep-sea mysteries. Their specialized equipment and training make them valuable allies or formidable opponents in appropriate scenarios.
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/Harbor District]]
-- [[02_Worldbuilding/Places/Pressure Terminal]]
-- [[02_Worldbuilding/Places/Pressure's End]]
+- [[02_Worldbuilding/Places/Harbor District
+- [02_Worldbuilding/Places/Pressure Terminal]]
+- [[02_Worldbuilding/Places/Pressure's End
 
 ## Player-Facing Summary
 
@@ -178,30 +172,25 @@ Legends speak of The Deep Patrol as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Deep Patrol]]
+- [02_Worldbuilding/Places/The Deep Patrol]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

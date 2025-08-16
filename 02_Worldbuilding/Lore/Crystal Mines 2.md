@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - aethermoor
 - complete
 - content/faction
@@ -14,13 +14,8 @@ updated: '2025-08-13T12:34:16.010696+00:00'
 world: Aethermoor
 ---
 
-
 > [!figure] Asset
 ![](04_Resources/Assets/Locations/location-city-crystal-mines-crystal-mines.svg)
-
-
-
-
 
 ## Overview
 

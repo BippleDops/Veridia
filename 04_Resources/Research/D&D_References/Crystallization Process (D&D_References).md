@@ -2,7 +2,7 @@
 
 title: Crystallization Process (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -145,7 +145,6 @@ The specialized magical and scientific process used in Aquabyssos to create vari
 3. Industrial espionage targeting crystallization techniques
 4. Defective crystals cause magical disasters throughout city ## Competitive Advantages
 
-
 **Aquabyssos Monopoly**: Only city with perfect combination of pressure and magical expertise
 **Resource Access**: Unique materials from deepest ocean trenches
 **Technical Knowledge**: Centuries of refinement in crystallization methods
@@ -153,7 +152,6 @@ The specialized magical and scientific process used in Aquabyssos to create vari
 **Quality Reputation**: Known throughout world for superior crystal products ## DM Notes
 
 The crystallization process provides background for industrial adventures, corporate espionage, and technological quests. It explains the city's wealth and magical capabilities while offering plot hooks around sabotage, rare materials, and magical innovation. ## Player-Facing Summary Crystallization Process is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Crystallization Process as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Crystallization Process. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

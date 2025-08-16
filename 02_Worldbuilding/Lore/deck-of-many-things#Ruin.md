@@ -1,16 +1,16 @@
 ---
-title: deck-of-many-things#Ruin
+title: "deck-of-many-things#Ruin"
 type: note
-tags:
+tags: 
 - auto-generated
-- [[Link]]ed
+- [[Linked
 created: '2025-01-15'
 ---
 
 # deck-of-many-things#Ruin
 
 ## Overview
-This topic is referenced in [[Deck of Many Things 13 Cards]] and other parts of the campaign.
+This topic is referenced in [Deck of Many Things 13 Cards]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.

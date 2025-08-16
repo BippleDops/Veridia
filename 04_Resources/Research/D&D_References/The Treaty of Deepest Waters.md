@@ -2,7 +2,7 @@
 
 title: The Treaty of Deepest Waters
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,12 +42,11 @@ updated: '2025-08-13T01:18:34.813413+00:00'
 
 - A letter reveals the truth about the cult
 - A stranger needs help investigating before the new moon
-- A stranger needs help stealing before winter ## Related Notes - [[Similar Topic 1]]
+- A stranger needs help stealing before winter ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]]
 
 ## Notes
 

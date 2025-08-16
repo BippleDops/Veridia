@@ -2,7 +2,7 @@
 
 title: The Shadow Exchange
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -44,7 +44,6 @@ updated: '2025-08-13T01:18:34.768617+00:00'
 
 - Someone is hunting a witness for revenge
 - Someone is blackmailing an heir for revenge ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Traveling Merchant Finn (D&D_Statblocks)]]
-
 
 ## Notes
 

@@ -2,7 +2,7 @@
 
 title: Shadow Corruption Timeline
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -44,14 +44,12 @@ updated: '2025-08-13T01:18:34.631206+00:00'
 
 **Dr. Shade Scalpel's Notes**: *"Patient reports persistent melancholy following six months of deep-trench diving work. Describes his shadow as 'acting wrong' - moving independently, appearing to whisper inaudibly, and sometimes disappearing entirely during daylight hours. Patient convinced his shadow is 'sick' and infecting his mental state. Conventional treatments ineffective. Experimental shadow separation may provide relief."* **Marcus Shadowsick's Own Words**: *"It started small, doc. Just feeling like someone was following me, but when I'd turn around, only my shadow was there. Then I began hearing whispers when I was alone - my shadow talking to me, but I couldn't understand the words. Finally saw it move on its own during the full moon. That's when I knew something had to be done. I can't live with a shadow that has its own mind."* ### The Surgical Procedure
 
-
 **Summary**: The Surgical Procedure - Key information at a glance.
 
 **Duration**: 4 hours, 17 minutes
 **Method**: Crystal-enhanced separation using resoce frequencies to temporarily detach patient's shadow
 **Anesthesia**: Deep-pressure sedation combined with reality-dampening crystals
 **Assistants**: 2 (identities classified, presumed to be other members of shadow surgery network) **Surgical Log - Hour 1**: *"Initial resoce crystal calibration successful. Patient's shadow clearly visible on surgical chamber wall despite absence of direct light sources. Shadow appears to be... Observing the procedure. This is unprecedented."* **Surgical Log - Hour 2**: *"Separation frequency achieved. Patient's shadow has detached and is moving independently on the chamber wall. Most remarkably, it appears to be attempting communication - forming shapes that resemble written letters. The shadow is intelligent."* **Surgical Log - Hour 3**: *"Shadow separation complete. Patient's shadow now exists as independent entity in chamber while patient sleeps peacefully for first time in months. However, shadow appears distressed by separation - pacing along walls, reaching toward patient. Possible emotional bond between human and shadow consciousness?"* **Surgical Log - Hour 4**: *"Procedure concluded. Shadow voluntarily reattached to patient as he awakened. Patient reports immediate relief from depression and anxiety. Shadow now moves normally. Remarkable success, though many questions remain about the nature of shadow consciousness."* ### Post-Surgical Results
-
 
 **Summary**: Post-Surgical Results - Key information at a glance.
 
@@ -155,7 +153,6 @@ Shadow partnership techniques now serve as the foundation for consciousness deve
 In modern Aquabyssos, shadow partnership is available to all citizens seeking consciousness expansion. The process is completely voluntary, fully understood, and universally celebrated as personal development. ## DM Notes The Shadow Corruption timeline provides rich material for exploring themes of fear versus understanding, cooperation versus control, and preparation versus invasion. Use shadow surgery sites as locations where the boundary between individual consciousness and cosmic awareness is thin. NPCs with shadow partnerships should demonstrate enhanced capabilities while maintaining clear individual personality. The historical records offer opportunities for players to uncover the truth about events their characters may have misunderstood, creating revelations about the true nature of cooperation and cosmic preparation. ## Related *Links to related content will be added here.* ## Plot Hooks - A stranger needs help stealing before the festival
 
 - The authorities needs help finding before dawn ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

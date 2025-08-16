@@ -2,7 +2,7 @@
 aliases: ["Random Encounter 84", "random encounter 84", "84 Encounter Random"]
 tags: [generated]
 id: ENC0083_Random_Encounter_84
-created: 2025-08-15T04:09:51.460Z
+created: "2025-08-15T04:09:51.460Z"
 generator: mega_generator_10k
 ---
 # Random Encounter 84
@@ -10,8 +10,8 @@ generator: mega_generator_10k
 *Deadly encounter for Urban environment*
 
 ## Enemies
-- 2d6 Skeletons
-- 1d4 Dire Wolves
+- `dice: 2d6` Skeletons
+- `dice: 1d4` Dire Wolves
 
 ## Tactics
 Enemies coordinate attacks and use terrain to their advantage

@@ -2,7 +2,7 @@
 
 title: The Seven Shards Mystery (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -91,8 +91,6 @@ The most esoteric theory proposes that the shards are a test or puzzle left by a
 2. **Shard Thieves**: Someone is systematically attempting to steal all known shards, and the party must protect or recover them.
 3. **The Reunion Prophecy**: An ancient prophecy suggests that the shards' reunion will either save or doom the world, and the party must determine which.
 4. **Temporal Echoes**: The party encounters versions of themselves from alternate timelines where the shards were never separated. ## Player-Facing Summary The Seven Shards Mystery is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Seven Shards Mystery as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Seven Shards Mystery. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
-
 
 ## Notes
 

@@ -10,7 +10,7 @@ primary_participants: Aquabyssos and Aethermoor
 scope: Inter-Realm Relations
 significance: Foundational
 status: complete
-tags:
+tags: 
 - agreement
 - both worlds
 - complete
@@ -32,15 +32,8 @@ updated: '2025-08-13T12:34:16.538517+00:00'
 world: Both Worlds
 ---
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-treaty-of-the-depths-treaty-of-the-depths.svg)
-
-
-
-
-
-
 
 # Treaty of the Depths
 *The Foundational Agreement Between Two Worlds*
@@ -50,7 +43,7 @@ world: Both Worlds
 
 ## Overview
 
-The Treaty of the Depths stands as the foundational diplomatic agreement between [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]], establishing formal relations between the underwater and surface realms while creating frameworks for cooperation, trade, and mutual assistance. This landmark document transformed centuries of separation and occasional conflict into structured partnership based on mutual respect and shared interests.
+The Treaty of the Depths stands as the foundational diplomatic agreement between [[02_Worldbuilding/Places/Aquabyssos and [02_Worldbuilding/Places/Aethermoor]], establishing formal relations between the underwater and surface realms while creating frameworks for cooperation, trade, and mutual assistance. This landmark document transformed centuries of separation and occasional conflict into structured partnership based on mutual respect and shared interests.
 
 Negotiated over eighteen months of complex diplomatic discussions, the Treaty addresses everything from territorial boundaries and trade relationships to cultural exchange and mutual defense arrangements. Its success has served as model for subsequent inter-realm agreements and established precedents for international cooperation in an increasingly interconnected world.
 
@@ -60,7 +53,7 @@ The Treaty's implementation has created lasting institutions and relationships t
 
 ### Pre-Treaty Relations
 
-Before the Treaty of the Depths, relations between [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]] were characterized by mutual ignorance punctuated by occasional misunderstandings and minor conflicts over resource access and territorial boundaries.
+Before the Treaty of the Depths, relations between [[02_Worldbuilding/Places/Aquabyssos and [02_Worldbuilding/Places/Aethermoor]] were characterized by mutual ignorance punctuated by occasional misunderstandings and minor conflicts over resource access and territorial boundaries.
 
 Both realms maintained separate development paths with minimal contact, leading to divergent cultural practices, technological advancement, and political systems that created barriers to communication and cooperation.
 
@@ -86,7 +79,7 @@ The negotiation process itself became foundation for ongoing diplomatic relation
 
 ### Foundational Principles
 
-The Treaty establishes fundamental principles of mutual respect, sovereign equality, and voluntary cooperation as basis for all inter-realm relations between [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]].
+The Treaty establishes fundamental principles of mutual respect, sovereign equality, and voluntary cooperation as basis for all inter-realm relations between [[02_Worldbuilding/Places/Aquabyssos and [02_Worldbuilding/Places/Aethermoor]].
 
 Recognition of distinct cultural values and governmental systems ensures that cooperation enhances rather than undermines each realm's unique characteristics and autonomous decision-making authority.
 
@@ -136,7 +129,7 @@ Joint environmental monitoring and research programs advance scientific understa
 
 ### Treaty Administration
 
-The [[02_Worldbuilding/Lore/United Councils of Both Worlds]] serves as primary administrative body for treaty implementation, providing forum for ongoing communication and coordination between realm representatives.
+The [[02_Worldbuilding/Lore/United Councils of Both Worlds serves as primary administrative body for treaty implementation, providing forum for ongoing communication and coordination between realm representatives.
 
 Specialized committees address specific treaty areas, including trade, cultural exchange, environmental protection, and security cooperation, ensuring detailed attention to implementation challenges.
 
@@ -272,7 +265,7 @@ Evolution of both societies continues to create new opportunities for cooperatio
 
 ### Preamble
 
-*"We, the representatives of the sovereign realms of [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]], recognizing our shared heritage, common challenges, and complementary strengths, do hereby establish this Treaty of the Depths to guide our relations in a spirit of mutual respect, voluntary cooperation, and peaceful coexistence."*
+*"We, the representatives of the sovereign realms of [02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor, recognizing our shared heritage, common challenges, and complementary strengths, do hereby establish this Treaty of the Depths to guide our relations in a spirit of mutual respect, voluntary cooperation, and peaceful coexistence."*
 
 ### Article I: Fundamental Principles
 
@@ -302,11 +295,10 @@ As living document that continues to evolve and develop, the Treaty represents o
 
 Its ultimate significance may lie not just in specific provisions or immediate benefits, but in its demonstration that cooperative approaches to international relations can achieve results that competitive or isolationist approaches cannot match.
 
-
 ## Connections
 
 - Envoy Blackwater Jr.
-- [[02_Worldbuilding/Places/The Bathyal Palace]]
+- [02_Worldbuilding/Places/The Bathyal Palace]]
 
 ## Player-Facing Summary
 
@@ -328,32 +320,27 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Treaty of the Depths]]
+- [[02_Worldbuilding/Places/Treaty of the Depths
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Lore/United Councils of Both Worlds]]
+- [02_Worldbuilding/Lore/United Councils of Both Worlds]]
 - [[02_Worldbuilding/Places/Aethermoor]]
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

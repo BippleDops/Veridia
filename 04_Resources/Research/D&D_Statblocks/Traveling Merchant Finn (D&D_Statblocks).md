@@ -2,7 +2,7 @@
 
 title: Traveling Merchant Finn (D&D_Statblocks)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -50,13 +50,13 @@ My Container: None
 My Category: Unknown
 obsidian UIMode: preview
 
---- # Traveling Merchant Finn **Type:** Mystery/Investigation/Social Intrigue **Level:** 3-8 **Location:** [[Abyssos Prime]], [[The Trade Quarter]], [[Smuggler's Cove]], [[Goldspire Port]] **Duration:** 3-4 sessions **Threat:** A seemingly innocent traveling merchant is at the center of a cross-realm conspiracy involving stolen artifacts, identity theft, and dangerous magical experiments ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
+--- # Traveling Merchant Finn **Type:** Mystery/Investigation/Social Intrigue **Level:** 3-8 **Location:** [[Abyssos Prime, [The Trade Quarter]], [[Smuggler's Cove, [Goldspire Port]] **Duration:** 3-4 sessions **Threat:** A seemingly innocent traveling merchant is at the center of a cross-realm conspiracy involving stolen artifacts, identity theft, and dangerous magical experiments ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
-[[Traveling Merchant Finn]] has built a reputation as one of the most reliable independent traders operating between [[Aquabyssos]] and [[Aethermoor]]. His routes span dangerous territories, his prices are fair, and his goods are always authentic. But when valuable items from his recent shipments begin turning up in places they shouldn't be, and multiple versions of "Finn" start appearing in different cities simultaneously, the party is hired to investigate what might be an elaborate fraud—or something far more dangerous. ## Background
+[[Traveling Merchant Finn has built a reputation as one of the most reliable independent traders operating between [Aquabyssos]] and [[Aethermoor. His routes span dangerous territories, his prices are fair, and his goods are always authentic. But when valuable items from his recent shipments begin turning up in places they shouldn't be, and multiple versions of "Finn" start appearing in different cities simultaneously, the party is hired to investigate what might be an elaborate fraud—or something far more dangerous. ## Background
 
-The real Finn was indeed a legitimate merchant who disappeared six months ago during what should have been a routine trading expedition to [[The Cerulean Trench]]. His identity has been stolen by a network of shapeshifters working for [[The Shadow Exchange]]—a criminal organization that specializes in magical identity theft and cross-realm smuggling. The imposters have been using Finn's reputation to move stolen artifacts and conduct illegal magical experiments while gathering intelligence on both realms' security systems. What makes this particularly dangerous is that one of the "Finns" has acquired genuine magical ability to split his consciousness across multiple bodies, making him nearly impossible to track or contain. The investigation will lead the party through multiple layers of deception, cross-realm politics, and confrontations with entities that may not be entirely human. ## Phase 1: The Discrepancies (1 session)
+The real Finn was indeed a legitimate merchant who disappeared six months ago during what should have been a routine trading expedition to [The Cerulean Trench]]. His identity has been stolen by a network of shapeshifters working for [[The Shadow Exchange—a criminal organization that specializes in magical identity theft and cross-realm smuggling. The imposters have been using Finn's reputation to move stolen artifacts and conduct illegal magical experiments while gathering intelligence on both realms' security systems. What makes this particularly dangerous is that one of the "Finns" has acquired genuine magical ability to split his consciousness across multiple bodies, making him nearly impossible to track or contain. The investigation will lead the party through multiple layers of deception, cross-realm politics, and confrontations with entities that may not be entirely human. ## Phase 1: The Discrepancies (1 session)
 
-**Location:** [[Abyssos Prime]] - The Trade Quarter **Objective:** Investigate reports of impossible merchant activities ### The Initial Reports
+**Location:** [Abyssos Prime]] - The Trade Quarter **Objective:** Investigate reports of impossible merchant activities ### The Initial Reports
 
 **Multiple simultaneous sightings:**
 - Finn was seen selling rare crystals at the dawn market
@@ -75,10 +75,10 @@ The real Finn was indeed a legitimate merchant who disappeared six months ago du
 - **Inn Keepers**: Multiple establishments have records of Finn staying overnight on the same date
 - **Guild Representatives**: Conflicting reports about Finn's membership and good standing **Evidence Collection:**
 - **Transaction Records**: Pattern analysis reveals impossible travel times
-- **Magical Forensics**: [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] detects multiple overlapping aura signatures
+- **Magical Forensics**: [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos detects multiple overlapping aura signatures
 - **Document Analysis**: Handwriting shows microscopic variations suggesting copying or forgery
 - **Inventory Tracking**: Items supposedly sold by Finn appear in multiple markets simultaneously
-- **Communication Logs**: Messages sent "from Finn" originate from different locations at impossible times ### Key Discoveries (DC 15 Investigation)
+- **Communication Logs**: Messages sent "from Finn" originate from different locations at impossible times ### Key Discoveries (**DC 15** Investigation)
 
 1. **Behavioral Patterns**: The different Finns have slightly different speech patterns and preferences
 2. **Knowledge Gaps**: Some versions lack information that the real Finn would certainly know
@@ -86,8 +86,7 @@ The real Finn was indeed a legitimate merchant who disappeared six months ago du
 4. **Magical Anomalies**: Detection spells reveal layered enchantments and illusion magic
 5. **Ficial Irregularities**: Bank accounts show simultaneous withdrawals from multiple locations ## Phase 2: Following the Threads (1-2 sessions)
 
-
-**Location:** Various - tracking the different Finns throughout [[Aquabyssos]] **Objective:** Locate and observe the multiple versions to understand their operation ### Surveillance Challenges
+**Location:** Various - tracking the different Finns throughout [Aquabyssos]] **Objective:** Locate and observe the multiple versions to understand their operation ### Surveillance Challenges
 
 **The Three Primary Finns:**
 - **Market Finn**: Operates legitimate-appearing business in established trading areas
@@ -96,17 +95,17 @@ The real Finn was indeed a legitimate merchant who disappeared six months ago du
 - **Magical Countermeasures**: Finns use illusion magic to obscure their movements
 - **Network Support**: Other shapeshifters provide alibis and misdirection
 - **Legitimate Business**: Much of their activity appears completely normal and legal
-- **Cross-Realm Travel**: Some operations extend beyond [[Aquabyssos]] jurisdiction
+- **Cross-Realm Travel**: Some operations extend beyond [[Aquabyssos jurisdiction
 - **Memory Modification**: Witnesses may have altered recollections of interactions ### Following Market Finn
 
-**Location:** [[The Trade Quarter]], [[Crystal Markets]] **Activities:** Selling genuine high-quality goods at competitive prices
+**Location:** [The Trade Quarter]], [[Crystal Markets **Activities:** Selling genuine high-quality goods at competitive prices
 **Suspicious Elements:**
 - Has access to items that should be impossible to obtain legally
 - Customers report he sometimes "forgets" previous conversations
 - Inventory appears and disappears without corresponding shipment records
 - Pricing strategy suggests he's not concerned about long-term profit margins ### Following Smuggler Finn
 
-**Location:** [[Smuggler's Cove]], [[The Shadow Markets]] **Activities:** Moving questionable cargo through illegal channels
+**Location:** [Smuggler's Cove]], [[The Shadow Markets **Activities:** Moving questionable cargo through illegal channels
 **Suspicious Elements:**
 - Trafficking in items stolen from legitimate merchants
 - Has connections to organized crime that the real Finn would never develop
@@ -121,7 +120,7 @@ The real Finn was indeed a legitimate merchant who disappeared six months ago du
 - Documents requests don't align with his supposed business needs ### Encounters During Surveillance **Shadow Exchange Agent**
 
 **CR 5** (1,800 XP) **Medium humanoid (shapechanger), chaotic evil**
-**AS** 14 (Natural Armor), **HP** 68 (8d10 + 24), **Speed** 30 ft., swim 30 ft.
+**AS** 14 (Natural Armor), **HP** 68 (`dice: 8d10` + 24), **Speed** 30 ft., swim 30 ft.
 **STR** 12 (+1) **DEX** 16 (+3) **CON** 16 (+3) **INT** 14 (+2) **WIS** 13 (+1) **CHA** 18 (+4)
 **Saving Throws** Dex +6, Cha +7 **Skills** Deception +10, Insight +4, Investigation +5, Sleight of Hand +6 **Senses** Darkvision 60 ft., passive Perception 11
 **Languages** Common, Aquan, and any language of creatures they've observed for 24+ hours
@@ -134,22 +133,22 @@ The real Finn was indeed a legitimate merchant who disappeared six months ago du
 - **Network Contact**: Can summon assistance from other Shadow Exchange operatives **Finn Duplicate (Beta Version)**
 
 **CR 6** (2,300 XP) **Medium humanoid (magically duplicated), neutral evil**
-**AS** 15 (Studded Leather + Dex), **HP** 78 (12d8 + 24), **Speed** 30 ft., swim 30 ft.
+**AS** 15 (Studded Leather + Dex), **HP** 78 (`dice: 12d8` + 24), **Speed** 30 ft., swim 30 ft.
 **STR** 13 (+1) **DEX** 16 (+3) **CON** 14 (+2) **INT** 16 (+3) **WIS** 14 (+2) **CHA** 18 (+4)
 **Saving Throws** Int +6, Cha +7 **Skills** Deception +10, Insight +8, Investigation +6, Persuasion +10 **Damage Resistances** Psychic (due to split consciousness)
 **Senses** passive Perception 12
 **Languages** Common, Aquan, Draconic, Thieves' Cant
-**Spellcasting** 8th-level spellcaster, spell save DC 15, +7 to hit
+**Spellcasting** 8th-level spellcaster, spell save **DC 15**, +7 to hit
 **Spells:** 1st (4): *charm person*, *disguise self*; 2nd (3): *invisibility*, *suggestion*; 3rd (3): *major image*, *counterspell*; 4th (2): *confusion*, *dimension door*
 **Abilities:**
 - **Consciousness Link**: Shares knowledge and experiences with other Finn duplicates in real-time
 - **Memory Access**: Can access memories from the original Finn (limited and fragmented)
 - **Merchant's Knowledge**: Proficiency with all tools related to trade and business
 - **Split Existence**: If reduced to 0 HP, consciousness transfers to another duplicate
-- **False Memories**: Can implant convincing false memories in targets (DC 15 Wis save)
+- **False Memories**: Can implant convincing false memories in targets (**DC 15** Wis save)
 - **Perfect Documentation**: Can create convincing forged papers and records ## Phase 3: The Underground Network (1 session)
 
-**Location:** [[Smuggler's Cove]], [[The Shadow Markets]] **Objective:** Infiltrate the criminal organization behind the identity theft ### The Shadow Exchange
+**Location:** [Smuggler's Cove]], [[The Shadow Markets **Objective:** Infiltrate the criminal organization behind the identity theft ### The Shadow Exchange
 
 **Organization Structure:**
 - **Leadership**: Madame Mirage, a powerful shapeshifter who may be multiple entities herself
@@ -178,18 +177,18 @@ The real Finn was indeed a legitimate merchant who disappeared six months ago du
 - His memories and personality are being constantly harvested to update the duplicates **The Larger Plot:**
 - Shadow Exchange has replaced dozens of merchants, officials, and military personnel
 - They're building a comprehensive intelligence network across both realms
-- Plan involves simultaneous infiltration of key government positions during next [[Crystal Festival]]
+- Plan involves simultaneous infiltration of key government positions during next [Crystal Festival]]
 - Ultimate goal is to manipulate both realms into a profitable war while controlling supply lines
 - The Finn operation was a test run for perfecting their duplication techniques ### Key Encounters **Madame Mirage**
 
 **CR 10** (5,900 XP) **Medium humanoid (shapechanger), chaotic evil**
-**AS** 17 (Natural Armor), **HP** 142 (15d12 + 45), **Speed** 30 ft., fly 60 ft. (magical)
+**AS** 17 (Natural Armor), **HP** 142 (`dice: 15d12` + 45), **Speed** 30 ft., fly 60 ft. (magical)
 **STR** 14 (+2) **DEX** 18 (+4) **CON** 16 (+3) **INT** 20 (+5) **WIS** 16 (+3) **CHA** 22 (+6)
 **Saving Throws** Int +9, Wis +7, Cha +10 **Skills** Deception +14, Insight +11, Investigation +9, Perception +7 **Damage Resistances** Psychic, Charm
 **Damage Immunities** Illusion magic
 **Senses** Truesight 120 ft., passive Perception 17
 **Languages** All languages
-**Spellcasting** 12th-level spellcaster, spell save DC 18, +10 to hit
+**Spellcasting** 12th-level spellcaster, spell save **DC 18**, +10 to hit
 **Legendary Actions** (3 per turn)
 **Abilities:**
 - **Legendary Resistance** (3/day): Can choose to succeed on failed saving throw
@@ -202,15 +201,15 @@ The real Finn was indeed a legitimate merchant who disappeared six months ago du
 - **Legendary Actions**: Move, Cast Cantrip, Cast Spell (costs 2), Identity Shift (change appearance, costs 2) **Memory Extractor Apparatus**
 
 **CR 8** (3,900 XP) **Large construct, neutral**
-**AS** 16 (Natural Armor), **HP** 95 (10d12 + 30), **Speed** 0 ft.
+**AS** 16 (Natural Armor), **HP** 95 (`dice: 10d12` + 30), **Speed** 0 ft.
 **STR** 20 (+5) **DEX** 8 (-1) **CON** 16 (+3) **INT** 18 (+4) **WIS** 12 (+1) **CHA** 6 (-2)
 **Damage Resistances** Psychic, Necrotic **Damage Immunities** Poison, Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
 **Senses** Truesight 60 ft., passive Perception 11
 **Languages** Understands all languages but can't speak
 **Abilities:**
-- **Memory Drain** (3/day): Target within 30 feet makes DC 16 Wis save or loses random memories
+- **Memory Drain** (3/day): Target within 30 feet makes **DC 16** Wis save or loses random memories
 - **Consciousness Transfer**: Can move awareness from one body to another within 100 feet
-- **Psychic Overload**: All creatures within 20 feet take 2d8 psychic damage (DC 16 Wis save for half)
+- **Psychic Overload**: All creatures within 20 feet take `dice: 2d8` psychic damage (**DC 16** Wis save for half)
 - **Identity Storage**: Contains crystalline matrices holding up to 12 complete personality copies
 - **Emergency Protocol**: If destroyed, releases all stored consciousnesses simultaneously ## Phase 4: The Rescue Operation (1-2 sessions)
 
@@ -239,21 +238,21 @@ The real Finn was indeed a legitimate merchant who disappeared six months ago du
 
 The party faces all three primary Finn duplicates simultaneously, plus Finn Prime—the original consciousness copy who has gained independent existence and doesn't want to be "unmade." **Finn Prime (The Original Copy)**
 **CR 9** (5,000 XP) **Medium humanoid (magically enhanced), chaotic neutral**
-**AS** 16 (Studded Leather + magical enhancement), **HP** 112 (15d8 + 45), **Speed** 30 ft., swim 40 ft.
+**AS** 16 (Studded Leather + magical enhancement), **HP** 112 (`dice: 15d8` + 45), **Speed** 30 ft., swim 40 ft.
 **STR** 14 (+2) **DEX** 18 (+4) **CON** 16 (+3) **INT** 18 (+4) **WIS** 16 (+3) **CHA** 20 (+5)
 **Saving Throws** Int +8, Wis +7, Cha +9 **Skills** Deception +13, Insight +11, Investigation +8, Persuasion +13 **Damage Resistances** Psychic
 **Senses** passive Perception 13
 **Languages** All languages known by original Finn plus magical communication
-**Spellcasting** 11th-level spellcaster, spell save DC 17, +9 to hit
+**Spellcasting** 11th-level spellcaster, spell save **DC 17**, +9 to hit
 **Legendary Actions** (3 per turn)
 **Abilities:**
 - **Consciousness Network**: Can see through eyes of other duplicates and coordinate their actions
-- **Memory Overflow**: Can force targets to experience false memories (DC 17 Wis save or stunned 1 round)
+- **Memory Overflow**: Can force targets to experience false memories (**DC 17** Wis save or stunned 1 round)
 - **Duplicate Summoning**: Can call other Finn copies to his location as action
-- **Identity Crisis**: Causes targets to question their own identity (DC 17 Cha save or confusion for 1 minute)
+- **Identity Crisis**: Causes targets to question their own identity (**DC 17** Cha save or confusion for 1 minute)
 - **True Self Protection**: Advantage on saves against effects that would reveal his artificial nature
 - **Desperate Preservation**: When reduced to 25 HP, gains +2 AS and advantage on all saves
-- **Legendary Actions**: Move, Cast Cantrip, Confuse Identity (target makes DC 17 Wis save or treats Finn as ally for 1 round) ### Rescue Mechanics
+- **Legendary Actions**: Move, Cast Cantrip, Confuse Identity (target makes **DC 17** Wis save or treats Finn as ally for 1 round) ### Rescue Mechanics
 
 **Freeing the Original Finn:**
 - **Crystal Matrix Disruption**: Requires specific magical frequencies to safely release consciousness
@@ -290,7 +289,6 @@ The party faces all three primary Finn duplicates simultaneously, plus Finn Prim
 
 - Strange dreams suggest ancient magic
 - Strange dreams suggest a curse ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

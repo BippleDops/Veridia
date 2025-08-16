@@ -1,0 +1,144 @@
+---
+
+title: deck-of-many-things-13-cards (decks)
+type: note
+tags: 
+- note
+
+created: '2025-01-15'
+modified: '2025-01-15'
+aliases: ["deck-of-many-things-13-cards (decks)"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
+---
+
+ # deck-of-many-things-13-cards ---
+
+## Description
+
+Detailed description pending.
+title: deck of many things 13 cards
+aliases:
+- Deck of Many Things (13 Cards)
+
+type: note
+tags:
+- research
+- world/both
+- active
+- note
+- ttrpg-cli/compendium/src/5e/dmg
+- status/in-progress
+
+created: 2025-07-23 12:39
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-deck
+obsidian UIMode: preview
+updated: '2025-08-12T23:37:34.909287'
+world: Both
+
+--- # Deck of Many Things (13 Cards)
+
+*Source: Dungeon Master's Guide p. 162. Available in the SRD* Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75 percent) of these decks have only thirteen cards, but the rest have twenty-two. Before you draw a card, you must declare how many cards you intend to draw and then draw them randomly (you can use an altered deck of playing cards to simulate the deck). Any cards drawn in excess of this number have no effect. Otherwise, as soon as you draw a card from the deck, its magic takes effect. You must draw each card no more than 1 hour after the previous draw. If you fail to draw the chosen number, the remaining number of cards fly from the deck on their own and take effect all at once. Once a card is drawn, it fades from existence. Unless the card is the [[deck-of-many-things#Fool|Fool or the [deck-of-many-things#Jester|Jester]], the card reappears in the deck, making it possible to draw the same card twice. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## A Question of Enmity Two of the cards in a deck of many things can earn a character the enmity of another being. With the [[deck-of-many-things#Flames|Flames card, the enmity is overt. The character should experience the devil's malevolent efforts on multiple occasions. Seeking out the fiend shouldn't be a simple task, and the adventurer should clash with the devil's allies and followers a few times before being able to confront the devil itself. In the case of the [deck-of-many-things#Rogue|Rogue]] card, the enmity is secret and should come from someone thought to be a friend or an ally. As Dungeon Master, you should wait for a dramatically appropriate moment to reveal this enmity, leaving the adventurer guessing who is likely to become a betrayer.`dice: [](deck-of-many-things-13-cards.md#^1-playing-card-card)`| dice: `dice: 1d13` | Playing Card | Card |
+
+|------------|--------------|------|
+| 1 | King of diamonds | [[deck-of-many-things#Sun|Sun |
+| 2 | Queen of diamonds | [deck-of-many-things#Moon|Moon]] |
+| 3 | Jack of diamonds | [[deck-of-many-things#Star|Star |
+| 4 | King of hearts | [deck-of-many-things#Throne|Throne]] |
+| 5 | Queen of hearts | [[deck-of-many-things#Key|Key |
+| 6 | Jack of hearts | [deck-of-many-things#Knight|Knight]] |
+| 7 | King of clubs | [[deck-of-many-things#The%20Void|The Void |
+| 8 | Queen of clubs | [deck-of-many-things#Flames|Flames]] |
+| 9 | Jack of clubs | [[deck-of-many-things#Skull|Skull |
+| 10 | King of spades | [deck-of-many-things#Ruin|Ruin]] |
+| 11 | Queen of spades | [[deck-of-many-things#Euryale|Euryale |
+| 12 | Jack of spades | [deck-of-many-things#Rogue|Rogue]] |
+| 13 | Joker (without TM) | [[deck-of-many-things#Jester|Jester]] |
+
+^1-playing-card-card ### Sun
+
+![](/03_Mechanics/CLI/decks/img/deck-of-many-things-02-sun.webp#card)
+
+You gain 50,000 XP, and a wondrous item (which the DM determines randomly) appears in your hands. ### Moon
+
+![](/03_Mechanics/CLI/decks/img/deck-of-many-things-03-moon.webp#card)
+
+You are granted the ability to cast the [[wish-xphb (spells)]] spell`d3`times. ### Star
+
+![](/03_Mechanics/CLI/decks/img/deck-of-many-things-04-star.webp#card)
+
+Increase one of your ability scores by 2. The score can exceed 20 but can't exceed 24. ### Throne
+
+![](/03_Mechanics/CLI/decks/img/deck-of-many-things-07-throne.webp#card)
+
+You gain proficiency in the [[skills#Persuasion|Persuasion]] skill, and you double your proficiency bonus on checks made with that skill. In addition, you gain rightful ownership of a small keep somewhere in the world. However, the keep is currently in the hands of monsters, which you must clear out before you can claim the keep as yours. ### Key
+
+![](/03_Mechanics/CLI/decks/img/deck-of-many-things-08-key.webp#card)
+
+A rare or rarer magic weapon with which you are proficient appears in your hands. The DM chooses the weapon. ### Knight
+
+![](/03_Mechanics/CLI/decks/img/deck-of-many-things-09-knight.webp#card)
+
+You gain the service of a 4th-level fighter who appears in a space you choose within 30 feet of you. The fighter is of the same race as you and serves you loyally until death, believing the fates have drawn him or her to you. You control this character. ### The Void
+
+![](/03_Mechanics/CLI/decks/img/deck-of-many-things-12-void.webp#card)
+
+This black card spells disaster. Your soul is drawn from your body and contained in an object in a place of the DM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is [[conditions#Incapacitated|incapacitated. A [wish-xphb (spells)]] spell can't restore your soul, but the spell reveals the location of the object that holds it. You draw no more cards. ### Flames
+
+![](/03_Mechanics/CLI/decks/img/deck-of-many-things-13-flames.webp#card)
+
+A powerful devil becomes your enemy. The devil seeks your ruin and plagues your life, savoring your suffering before attempting to slay you. This enmity lasts until either you or the devil dies. ### Skull
+
+![](/03_Mechanics/CLI/decks/img/deck-of-many-things-14-skull.webp#card)
+
+You summon an [[avatar-of-death-dmg (undead)—a ghostly humanoid skeleton clad in a tattered black robe and carrying a spectral scythe. It appears in a space of the DM's choice within 10 feet of you and attacks you, warning all others that you must win the battle alone. The avatar fights until you die or it drops to 0 hit points, whereupon it disappears. If anyone tries to help you, the helper summons its own [avatar-of-death-dmg (undead)]]. A creature slain by an [[avatar-of-death-dmg (undead)]] can't be restored to life. ### Ruin
+
+![](/03_Mechanics/CLI/decks/img/deck-of-many-things-17-ruin.webp#card)
+
+All forms of wealth that you carry or own, other than magic items, are lost to you. Portable property vanishes. Businesses, buildings, and land you own are lost in a way that alters reality the least. Any documentation that proves you should own something lost to this card also disappears. ### Euryale
+
+![](/03_Mechanics/CLI/decks/img/deck-of-many-things-18-euryale.webp#card)
+
+The card's [[medusa-xmm (monstrosity)-like visage curses you. You take a −2 penalty on saving throws while cursed in this way. Only a god or the magic of [deck-of-many-things#The%20Fates|The Fates]] card can end this curse. ### Rogue
+
+![](/03_Mechanics/CLI/decks/img/deck-of-many-things-19-rogue.webp#card)
+
+A nonplayer character of the DM's choice becomes hostile toward you. The identity of your new enemy isn't known until the NPC or someone else reveals it. Nothing less than a [[wish-xphb (spells)]] spell or divine intervention can end the NPC's hostility toward you. ### Jester
+
+![](/03_Mechanics/CLI/decks/img/deck-of-many-things-22-jester.webp#card)
+
+You gain 10,000 XP, or you can draw two additional cards beyond your declared draws. ## Player-Facing Summary Deck of many things 13 cards is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of deck of many things 13 cards as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around deck of many things 13 cards. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is searching for an heir for money
+
+- A merchant needs help stealing before the new moon
+- A merchant needs help delivering before the festival
+- The authorities needs help finding before winter ## 12_Research Specific Content Contextual improvement based on 12_Research
+
+## Notes
+
+*Additional notes*
+
+#mechanics/mechanics
+#mechanics/dice
+#story/plot
+#story/story
+#story/lore
+#world/location
+#world/world
+#world/setting
+#world/place
+#character/npc
+#character/character
+#character/creature
+#character/monster
+#gameplay/adventure
+#gameplay/quest
+#resource/item
+#meta/reference

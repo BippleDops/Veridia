@@ -2,7 +2,7 @@
 
 title: Seven Shards of the Crown of Stars
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,12 +42,11 @@ updated: '2025-08-13T01:18:34.812029+00:00'
 
 - The authorities needs help delivering before winter
 - A merchant needs help investigating before winter
-- Someone is protecting information for power ## Related Notes - [[Similar Topic 1]]
+- Someone is protecting information for power ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]]
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]]
 
 ## Notes
 

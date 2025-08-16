@@ -2,7 +2,7 @@
 created: '2025-08-12'
 obsidianUIMode: preview
 status: complete
-tags:
+tags: 
 - both
 - complete
 - content/lore
@@ -18,8 +18,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.313303+00:00'
 world: Both
 ---
-
-
 
 # Name Etymology Guide
 
@@ -411,11 +409,11 @@ Names indicating high social status:
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Depth Speak Variations]]
-- [[02_Worldbuilding/Lore/Wind Song Linguistic Guide]]
+- [[02_Worldbuilding/Lore/Depth Speak Variations
+- [02_Worldbuilding/Lore/Wind Song Linguistic Guide]]
 - Common Idioms And Sayings
-- [[02_Worldbuilding/Lore/Professional Terminology]]
-- [[02_Worldbuilding/Groups/Cultural_Organizations/Cultural Exchange Society]]
+- [[02_Worldbuilding/Lore/Professional Terminology
+- [02_Worldbuilding/Groups/Cultural_Organizations/Cultural Exchange Society]]
 - Marriage Between Worlds
 
 ## Player-Facing Summary

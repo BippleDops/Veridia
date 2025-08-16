@@ -2,7 +2,7 @@
 
 title: The Memory Storm Fields (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -59,12 +59,12 @@ The Memory Storm Fields represent one of Aquabyssos's most mysterious and danger
 
 | d20 | Effect | Duration | Save |
 |-----|--------|----------|------|
-| 1-4 | Gain skill proficiency from absorbed memory | 24 hours | WIS DC 12 |
-| 5-8 | Experience vivid flashback from historical event | 10 minutes | WIS DC 15 |
-| 9-12 | Temporary personality change | 1 hour | WIS DC 16 |
-| 13-16 | Foreign language fluency | 8 hours | WIS DC 14 |
-| 17-18 | Complete memory replacement | Until dispelled | WIS DC 20 |
-| 19-20 | Temporal displacement | Variable | WIS DC 25 | #### The Lost Expedition
+| 1-4 | Gain skill proficiency from absorbed memory | 24 hours | WIS **DC 12** |
+| 5-8 | Experience vivid flashback from historical event | 10 minutes | WIS **DC 15** |
+| 9-12 | Temporary personality change | 1 hour | WIS **DC 16** |
+| 13-16 | Foreign language fluency | 8 hours | WIS **DC 14** |
+| 17-18 | Complete memory replacement | Until dispelled | WIS **DC 20** |
+| 19-20 | Temporal displacement | Variable | WIS **DC 25** | #### The Lost Expedition
 
 **Level**: 6-11 **Hook**: Research team disappeared in memory storm three weeks ago **Investigation**: Track expedition through memory trail evidence **Complication**: Team members scattered across different historical periods **Challenge**: Navigate multiple memory zones while avoiding temporal displacement **Resolution**: Rescue survivors while recovering critical research data #### The Memory Thief
 
@@ -76,7 +76,6 @@ The Memory Storm Fields represent one of Aquabyssos's most mysterious and danger
 
 - A shipment has gone missing and chaos spreads
 - Someone is protecting information for revenge ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

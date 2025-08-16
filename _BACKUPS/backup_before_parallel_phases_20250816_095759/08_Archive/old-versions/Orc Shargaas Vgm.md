@@ -1,0 +1,69 @@
+---
+
+title: Orc Shargaas Vgm
+type: note
+tags: 
+- note
+
+created: '2025-01-15'
+modified: '2025-01-15'
+aliases: ["Orc Shargaas Vgm"]
+status: active
+priority: normal
+category: 12 Research
+subcategory: D&D Sourcebooks
+related: []
+cssclass: standard
+publish: false
+
+---
+
+ # Orc Shargaas Vgm ---
+
+## Description
+
+Detailed description pending.
+title: Orc Shargaas Vgm
+aliases:
+- Shargaas
+
+type: note
+tags:
+- both
+- ttrpg-cli/deity/orc
+- research
+- world/both
+- active
+- note
+- status/in-progress
+- importance/core
+- ttrpg-cli/compendium/src/5e/vgm
+
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-deity
+obsidian UIMode: preview
+updated: '2025-08-13T12:34:04.376027+00:00'
+world: Both
+
+--- # Shargaas
+
+*Source: Volo's Guide to Monsters p. 84* - **Alignment**: Neutral Evil
+- **Domains**: Trickery
+- **Pantheon**: Orc
+- **Symbol**: Red crescent moon with a skull between the moon's horns Shargaas is a god of darkness and the unknown. He is a secretive and murderous deity, dangerous to all except Gruumsh. His realm is the darkness that no creatures but those devoted to him can see through. To other orcs, the followers of Shargaas are depraved and twisted creatures that have no honor and skulk in the shadows. Rejected by Yurtrus as too unsuitable to serve as custodians of the dead, these orcs live even deeper inside the lair, close to where the entrance to Shargaas's realm is located. There in the darkness, orcs exiled to meet their fate are either brought into the fold as members of the tribe's Shargaas cult, or are torn to pieces and devoured as sacrificial tributes by the worshipers of the Night Lord. ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Culling the Weak Although most followers of Shargaas are exiles, living in the farthest reaches of the lair away from the rest of the tribe, others remain within the main body, posing as ordinary warriors. These agents single out the weakest members of the fighting force, because removing these weak links strengthens the rest of the group. Soon after being born, an orc must be able to show that it will grow into a capable warrior, or else it will be visited by the cultists of Shargaas. The cultists also waylay orcs that have proved themselves ineffectual in leadership or combat, then drag them into Shargaas's dark caverns to be ritually murdered and devoured. This culling of the weak and the unworthy is accepted as necessary by the tribe, but speaking about it is taboo. Those that disappear are simply said to be "with Shargaas" and are spoken of no more. ## Alliance of Convenience When faced with a particularly skilled foe able to withstand direct assaults, a war chief might call upon the cultists of Shargaas to assassinate an enemy leader, kidnap an influential hostage, or steal a valuable item. Gruumsh doesn't always look kindly on acts of subterfuge and indirectness, because orcs are meant to take and do what they want through straightforward assault and brutality. Nonetheless, when the chief seeks the aid of Shargaas to accomplish such a task, the leader of the cult is willing to comply-for a price. In exchange for its less than honorable services, the leader will strike a deal with the war chief to provide food, tools, slaves, or some other commodity that the cult prizes. ## Player-Facing Summary Orc shargaas vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of orc shargaas vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around orc shargaas vgm. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.*
+
+## Notes
+
+*Additional notes*
+
+#mechanics/combat
+#story/story
+#story/lore
+#world/world
+#world/setting
+#character/creature
+#character/monster
+#resource/item
+#meta/reference

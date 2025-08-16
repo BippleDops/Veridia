@@ -9,7 +9,6 @@ aliases: ["Combat Lookup"]
 
 > *An opportunity for greatness awaits...* This remarkable element adds depth and intrigue to any campaign.
 
-
 ## Overview
 
 Comprehensive overview of this content.
@@ -84,6 +83,6 @@ modified: '2025-08-14' --- # Combat Lookup > Quick combat reference searches ## 
 *Every story needs its heroes.*
 
 ## Visual References
-![[04_Resources/Assets/Placeholder Images/CombatActionsTitleBar.png]]
-![[04_Resources/Assets/Placeholder Images/CombatDefault.png]]
+![[04_Resources/Assets/Placeholder Images/CombatActionsTitleBar.png
+![04_Resources/Assets/Placeholder Images/CombatDefault.png]]
 ![[04_Resources/Assets/Placeholder Images/MiscCombatRulesTitleBar.png]]

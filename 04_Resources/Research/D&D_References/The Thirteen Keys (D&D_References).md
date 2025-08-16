@@ -2,7 +2,7 @@
 
 title: The Thirteen Keys (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -66,7 +66,6 @@ Centuries ago, the First Builders created thirteen keys to lock away either thei
 12. **Key of Love** - Protected by reunited spirit lovers
 13. **Key of Unity** - Created only when the other twelve are brought together ## Quest Structure
 
-
 **Discovery Phase**: Learn about the legend and locate first clues
 **Gathering Phase**: Search for and recover individual keys
 **Trial Phase**: Face the guardians and pass their tests
@@ -108,12 +107,10 @@ Each key is protected by a unique challenge that tests the associated virtue:
 3. Earthquake reveals sealed chamber requiring the keys
 4. Enemy faction begins collecting keys, forcing players to act ## DM Notes
 
-
 This quest works best as a campaign centerpiece spanning multiple levels. Each key should feel unique and meaningful. Consider what the vault actually contains and how it fits your campaign's themes. ## Player-Facing Summary The Thirteen Keys is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Thirteen Keys as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Thirteen Keys. ## Related *Links to related content will be added here.* ## Plot Hooks - A letter reveals a betrayal about the cult
 
 - A stranger needs help delivering before the festival
 - A letter reveals a conspiracy about the government ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

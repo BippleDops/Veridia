@@ -3,7 +3,7 @@ created: '2025-08-08'
 created_by: auto-stub
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - ancient-evil
 - aquabyssos
 - complete
@@ -19,14 +19,8 @@ updated: '2025-08-13T12:34:17.063340+00:00'
 world: Aquabyssos
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-quieting-the-depths-quieting-the-depths.svg)
-
-
-
-
 
 # Quieting the Depths
 
@@ -154,38 +148,27 @@ The quest explores themes of sacrifice for greater good, ancient wisdom versus m
 ## DM Notes
 This quest combines Lovecraftian horror with heroic fantasy. Build tension gradually through increasing supernatural influence. The ritual should feel dangerous and uncertain even when performed correctly.
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/The Whispering Depths]]
-
+- [[02_Worldbuilding/Places/The Whispering Depths
 
 ## History
 
-
 TODO
-
 
 ## Layout
 
-
 TODO
-
 
 ## Notables
 
-
 TODO
-
 
 ## Threats
 
-
 TODO
 
-
 ## Hooks
-
 
 TODO
 
@@ -199,30 +182,25 @@ Legends speak of Quieting the Depths as a nexus where past and present converge.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quieting the Depths]]
+- [02_Worldbuilding/Places/Quieting the Depths]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

@@ -2,7 +2,7 @@
 created: '2025-08-12'
 created_by: claude
 status: complete
-tags:
+tags: 
 - both
 - complete
 - culture
@@ -19,15 +19,12 @@ updated: '2025-08-13T12:34:15.736711+00:00'
 world: Both
 ---
 
-
-
-
 # Working Class Routines
 *The Backbone of Two Realms: Daily Life of Laborers and Common Folk*
 
 ## Overview
 
-The working classes of both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]] form the essential foundation that keeps their respective societies functioning. From dawn pressure adjustments to evening wind readings, these dedicated individuals maintain the infrastructure, produce the goods, and provide the services that allow their realms to thrive. Their routines are shaped by necessity, community solidarity, and the unique environmental challenges of underwater and aerial life.
+The working classes of both [[02_Worldbuilding/Places/Aquabyssos and [02_Worldbuilding/Places/Aethermoor]] form the essential foundation that keeps their respective societies functioning. From dawn pressure adjustments to evening wind readings, these dedicated individuals maintain the infrastructure, produce the goods, and provide the services that allow their realms to thrive. Their routines are shaped by necessity, community solidarity, and the unique environmental challenges of underwater and aerial life.
 
 ## Aquabyssos Working Class
 
@@ -551,8 +548,8 @@ From the harbor docks of Aquabyssos to the wind platforms of Aethermoor, working
 ---
 
 **Related Topics**:
-- [[02_Worldbuilding/Lore/A Day in Aquabyssos]]
-- [[02_Worldbuilding/Lore/Aethermoor Daily Rhythms]]
+- [[02_Worldbuilding/Lore/A Day in Aquabyssos
+- [02_Worldbuilding/Lore/Aethermoor Daily Rhythms]]
 - [[02_Worldbuilding/Lore/Noble Leisure Schedules]]
 - Child Life In The Realms
 - Labor Organizations And Guilds

@@ -2,7 +2,7 @@
 
 title: Medical College of Aquabyssos
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -44,18 +44,17 @@ updated: '2025-08-13T01:18:34.553586+00:00'
 
 - A shipment has gone missing and chaos spreads
 - Strange sightings suggest ancient magic
-- A merchant needs help investigating before the festival ## Related Notes - [[Similar Topic 1]]
+- A merchant needs help investigating before the festival ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## DM Tips
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## DM Tips
 
 > 💡 **Running This Content**: Advice for game masters
 
-> Adjust difficulty based on party composition ## References - [[Investigate Shadow Surgeons (Criminal_Organizations)]]
+> Adjust difficulty based on party composition ## References - [[Investigate Shadow Surgeons (Criminal_Organizations)
 
-- [[Investigate Shadow Surgeons]]
-
+- [Investigate Shadow Surgeons]]
 
 ## Notes
 

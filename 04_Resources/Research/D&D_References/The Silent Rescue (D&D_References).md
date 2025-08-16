@@ -2,7 +2,7 @@
 
 title: The Silent Rescue (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -118,7 +118,6 @@ A covert rescue operation where characters must extract a high-value prisoner fr
 2. Prisoner's family makes private appeal for help
 3. Underground resistance seeks assistance with rescue operation
 4. Characters witness kidnapping and feel morally compelled to act ## Long-term Impact
-
 
 Successful rescue improves diplomatic relations and establishes characters as capable covert operatives. Failure could destabilize regional politics and create ongoing enemies. ## DM Notes
 

@@ -1,7 +1,7 @@
 ---
 title: Crystal Architecture Philosophy
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
 - active
 - conspiracy
@@ -21,12 +21,12 @@ Crystal Architecture Philosophy represents a significant element within the camp
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: [[Link]]ed to multiple other elements
+- **Connections**: [Link]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-[[Historical Context]] and development over [[Time]].
+[[Historical Context and development over [Time]].
 
 ### Current State
 Present circumstances and ongoing relevance.

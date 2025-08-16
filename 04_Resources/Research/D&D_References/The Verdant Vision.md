@@ -2,7 +2,7 @@
 
 title: The Verdant Vision
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,10 +42,9 @@ updated: '2025-08-13T01:18:34.928534+00:00'
 
 - A merchant needs help finding before winter
 - Strange accidents suggest a portal
-- A shipment has gone missing and chaos spreads ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Verdant Shard]]
+- A shipment has gone missing and chaos spreads ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Verdant Shard
 
-- [[Verdant Shard (D&D_References)]]
-
+- [Verdant Shard (D&D_References)]]
 
 ## Notes
 

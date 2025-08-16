@@ -1,7 +1,7 @@
 ---
-title: A Day in [[Aquabyssos]]
-type: [[Lore]]
-tags:
+title: A Day in [[Aquabyssos
+type: [Lore]]
+tags: 
 - lore
 - aquabyssos
 - status/complete
@@ -38,12 +38,12 @@ A Day in Aquabyssos represents a significant element within the campaign world, 
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: [[Link]]ed to multiple other elements
+- **Connections**: [[Linked to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-[[Historical Context]] and development over [[Time]].
+[Historical Context]] and development over [[Time.
 
 ### Current State
 Present circumstances and ongoing relevance.
@@ -64,13 +64,13 @@ This content can be adapted and expanded based on specific campaign needs.
 - May provide crucial information at key moments
 - Offers opportunities for player engagement
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 *Customize as needed for your specific campaign requirements.*
 
 ## References
 
-- [[Daily Routine Nuances and Details]]
-- [[Working Class Routines]]
-- [[Child Life in the Realms]]
-- [[Daily Routine Nuances and Details (D&D_References)]]
+- [[Daily Routine Nuances and Details
+- [Working Class Routines]]
+- [[Child Life in the Realms
+- [Daily Routine Nuances and Details (D&D_References)]]
 - [[Working Class Routines (D&D_References)]]

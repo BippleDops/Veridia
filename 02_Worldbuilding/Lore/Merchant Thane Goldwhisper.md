@@ -1,10 +1,10 @@
 ---
 
-title: [[Merchant]] Thane Goldwhisper
-type: [[Lore]]
-tags:
+title: [[Merchant Thane Goldwhisper
+type: [Lore]]
+tags: 
 - lore
-- [[Aquabyssos]]
+- [[Aquabyssos
 - content/adventure
 - world/aquabyssos
 - content/lore
@@ -35,7 +35,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 

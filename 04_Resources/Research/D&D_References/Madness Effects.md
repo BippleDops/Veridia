@@ -2,7 +2,7 @@
 
 title: Madness Effects
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -57,15 +57,15 @@ Madness effects typically result from:
 - Traumatic encounters with impossible phenomena
 - Overuse of certain magical abilities or items ### Effects
 
-**Temporary Madness (1d4 hours):**
+**Temporary Madness (`dice: 1d4` hours):**
 - Confusion and disorientation
 - Compulsive behaviors related to trigger source
 - Altered perception of reality
-- Emotional instability **Short-term Madness (1d10 days):**
+- Emotional instability **Short-term Madness (`dice: 1d10` days):**
 - Persistent delusions or hallucinations
 - Phobias or obsessions
 - Altered personality traits
-- Magical ability fluctuations **Long-term Madness (1d10 × 10 years or permanent):**
+- Magical ability fluctuations **Long-term Madness (`dice: 1d10` × 10 years or permanent):**
 - Fundamental personality changes
 - Persistent altered reality perception
 - Compulsive behaviors that dominate daily life
@@ -79,8 +79,6 @@ Duration varies based on:
 
 2. **Therapeutic Mission**: Party must safely escort a group of madness-affected individuals to treatment facilities
 3. **The Mad Prophet**: A madness-afflicted NPC provides crucial information, but filtering truth from delusion proves challenging ## Secrets (DM Only) Certain forms of "madness" are actually the mind's attempt to process information from higher dimensions or alternative timelines. These individuals aren't truly insane but are perceiving realities that others cannot access. Some secret organizations actively seek out such individuals for their unique insights. ## Campaign Use Use madness effects as both mechanical challenges and roleplay opportunities. They can serve as consequences for reckless behavior, plot devices for mystery scenarios, or character development tools. Consider allowing players to choose how their characters express madness effects rather than imposing specific behaviors, maintaining agency while creating interesting complications. ## Player-Facing Summary Madness Effects is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Madness Effects as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Madness Effects. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## 12_Research Specific Content Contextual improvement based on 12_Research
-
-
 
 ## Notes
 

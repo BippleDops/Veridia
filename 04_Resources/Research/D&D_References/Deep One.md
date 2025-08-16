@@ -2,7 +2,7 @@
 
 title: Deep One
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -45,7 +45,6 @@ updated: '2025-08-13T01:18:34.781134+00:00'
 - Strange dreams suggest ancient magic
 - A noble needs help investigating before the festival
 - A document has gone missing and evil awakens ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

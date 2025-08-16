@@ -2,7 +2,7 @@
 
 title: Enchanter Valdris Peacewarden (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -53,7 +53,7 @@ danger_level: Moderate
 
 **Medium humanoid (sea elf), lawful good**
 - **AS** 15 (Enchanted Robes)
-- **HP** 68 (15d6 + 15)
+- **HP** 68 (`dice: 15d6` + 15)
 - **Speed** 30 ft, swim 30 ft
 - **STR** 10 (+0) **DEX** 16 (+3) **CON** 12 (+1) **INT** 20 (+5) **WIS** 15 (+2) **CHA** 17 (+3)
 - **Skills** Arcana +11, Insight +8, Investigation +8, Persuasion +9
@@ -63,7 +63,7 @@ danger_level: Moderate
 
 **Peaceweaving.** Valdris can spend 10 minutes to create a zone of peace in a 30-foot radius that lasts for 1 hour. Creatures in this area have disadvantage on attack rolls and cannot cast spells intended to harm others. **Enchantment Expertise.** Valdris has advantage on saving throws against enchantment spells, and creatures have disadvantage on saves against his enchantment spells. **Magic Resistance.** Valdris has advantage on saving throws against spells and other magical effects. ### Actions
 
-**Quarterstaff of Harmony.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning damage plus 7 (2d6) psychic damage. The target must make a DC 16 Wisdom save or be charmed for 1 minute. **Spellcasting.** Valdris is a 12th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). He has the following spells prepared:
+**Quarterstaff of Harmony.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (`dice: 1d6`) bludgeoning damage plus 7 (`dice: 2d6`) psychic damage. The target must make a **DC 16** Wisdom save or be charmed for 1 minute. **Spellcasting.** Valdris is a 12th-level spellcaster. His spellcasting ability is Intelligence (spell save **DC 16**, +8 to hit with spell attacks). He has the following spells prepared:
 - Cantrips: *guidance*, *mage hand*, *minor illusion*, *prestidigitation*
 - 1st level (4 slots): *charm person*, *comprehend languages*, *detect magic*
 - 2nd level (3 slots): *calm emotions*, *suggestion*, *zone of truth*
@@ -80,15 +80,13 @@ danger_level: Moderate
 2. The party needs specialized enchanted items for a dangerous mission, and Valdris requires them to complete a task proving their peaceful intentions first.
 3. A diplomatic meeting under Valdris's protection is attacked by unknown assailants using magic that shouldn't work in his peace zone. ## DM Notes
 
-
 Valdris serves as an excellent source of magical items, information about the city's political situation, and a safe meeting place for NPCs. His peace zones can provide interesting roleplay opportunities where combat is discouraged. Use his ethical stance to challenge players' assumptions about the morality of magic use. ## Player-Facing Summary Enchanter Valdris Peacewarden is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Enchanter Valdris Peacewarden as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Enchanter Valdris Peacewarden. ## Related *Links to related content will be added here.* ## Plot Hooks - Someone is hunting an heir for money
 
-- A map reveals a betrayal about a local noble ## Related Notes - [[Similar Topic 1]]
+- A map reveals a betrayal about a local noble ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

@@ -2,7 +2,7 @@
 
 title: Memory Vault
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,11 +43,10 @@ updated: '2025-08-13T01:18:34.623671+00:00'
 
 - A journal reveals ancient history about the government
 - Someone is hunting a artifact for love
-- Someone is searching for a witness for power ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Timeline of the Drowning]]
+- Someone is searching for a witness for power ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Timeline of the Drowning
 
-- [[Timeline of the Drowning (D&D_References)]]
+- [Timeline of the Drowning (D&D_References)]]
 - [[Timeline of the Drowning 3 (D&D_References)]]
-
 
 ## Notes
 

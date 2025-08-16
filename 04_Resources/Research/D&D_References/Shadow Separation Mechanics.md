@@ -2,7 +2,7 @@
 
 title: Shadow Separation Mechanics
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -47,11 +47,10 @@ world: Aquabyssos
 Practical, table-ready rules for Shadow Separation Mechanics across Aquabyssos and Aethermoor. ## Player-Facing Summary Shadow Separation Mechanics is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. Furthermore, ## Lore Details Legends speak of Shadow Separation Mechanics as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Separation Mechanics. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Plot Hooks - Strange disappearances suggest ancient magic
 
 - A journal reveals ancient history about this place
-- A document has gone missing and evil awakens ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Comprehensive-World-Connection-Guide]]
+- A document has gone missing and evil awakens ## 12_Research Specific Content Contextual improvement based on 12_Research ## References - [[Comprehensive-World-Connection-Guide
 
-- [[Comprehensive-World-Connection-Guide (D&D_References)]]
+- [Comprehensive-World-Connection-Guide (D&D_References)]]
 - [[Comprehensive-World-Connection-Guide 3 (D&D_References)]]
-
 
 ## Notes
 

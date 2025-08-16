@@ -2,7 +2,7 @@
 
 title: The Sunken Markets
 type: Location
-tags:
+tags: 
 - both
 - mysterious
 - trade
@@ -18,20 +18,20 @@ tags:
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
-region: '[[Port Meridian]] Harbor District'
+region: '[[Port Meridian Harbor District'
 population: Unknown
 MyCategory: Unknown
 MyContainer: None
-connected_locations:
-- '[[Port Meridian]]'
-- '[[Aquabyssos]]'
+connected_locations: 
+- '[Port Meridian]]'
+- '[[Aquabyssos'
 - The Shadowmere (via underwater passages)
 - Category/Place
 danger_level: Moderate
-notable_npcs:
-- '[[Captain Thaddeus Blackwater]]'
-- '[[Ambassador Nerida Deepcurrent]]'
-- '[[Castellan Ironledger III]]'
+notable_npcs: 
+- '[Captain Thaddeus Blackwater]]'
+- '[[Ambassador Nerida Deepcurrent'
+- '[Castellan Ironledger III]]'
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.096186+00:00'
 world: Both
@@ -105,7 +105,7 @@ improvements: 20
 - Explain guest rights and host obligations
 
 ## Overview
-Beneath [[Port Meridian]]'s harbor lies an otherworldly marketplace that exists half-submerged, where air-breathing merchants trade with denizens of the deep. Discovered only two years ago when the Crimson Shard's placement in the harbor caused tidal anomalies, the Sunken Markets have become a crucial but dangerous connection point between Aethermoor and [[Aquabyssos]].
+Beneath [[Port Meridian's harbor lies an otherworldly marketplace that exists half-submerged, where air-breathing merchants trade with denizens of the deep. Discovered only two years ago when the Crimson Shard's placement in the harbor caused tidal anomalies, the Sunken Markets have become a crucial but dangerous connection point between Aethermoor and [Aquabyssos]].
 
 ## Structure
 The Markets occupy a series of partially flooded caves and ruins that predate the current city:
@@ -173,13 +173,11 @@ The Sunken Markets is a notable location characterized by its unique features an
 ### Founding
 The Sunken Markets was established in the distant past, growing from humble beginnings to its current state.
 
-
 ## Demographics
 - **Population**: ~1,000
 - **Races**: Diverse mix
 - **Primary Industry**: Trade and crafts
 - **Wealth Level**: Moderate
-
 
 ## Notable Locations
 - **Town Square**: Central gathering place
@@ -187,13 +185,11 @@ The Sunken Markets was established in the distant past, growing from humble begi
 - **Temple Quarter**: Religious center
 - **Residential Areas**: Living quarters
 
-
 ## Connections
 - **North**: Trade road to neighboring settlement
 - **South**: Path through wilderness
 - **East**: River crossing
 - **West**: Mountain pass
-
 
 ## Government
 - **Type**: Local council
@@ -220,7 +216,6 @@ Key stop on textiles trade route
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
-
 
 ## Climate & Weather
 - **Typical Weather**: Common conditions
@@ -262,11 +257,9 @@ Key stop on textiles trade route
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

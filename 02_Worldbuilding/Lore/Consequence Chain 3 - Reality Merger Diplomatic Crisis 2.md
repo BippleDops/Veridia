@@ -1,12 +1,12 @@
 ---
 created: '2025-08-12'
 magnitude: 5
-primary_sessions:
+primary_sessions: 
 - 'Session 08: Between Two Worlds'
 - 'Session 09: The Price of Unity'
 - 'Session 10: The Deep Mother Rises'
 status: complete
-tags:
+tags: 
 - campaign/arc
 - content/lore
 - convergence-event
@@ -23,8 +23,6 @@ visibility: 5
 world: Both Worlds
 ---
 
-
-
 # Consequence Chain 3: Reality Merger Diplomatic Crisis
 *When Two Worlds Became One and Politics Had to Follow*
 
@@ -39,12 +37,12 @@ world: Both Worlds
 - Defeated/communicated with the Deep Mother, stabilizing merged reality
 
 **Who was directly affected:**
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Had to acknowledge underwater civilization's legitimacy
-- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Forced to engage in international diplomacy
-- **[[02_Worldbuilding/Lore/United Councils of Both Worlds]]**: Emergency joint government formed
-- **[[02_Worldbuilding/Lore/Eastern Kingdom Fleet]]**: Arrived during crisis, became mediators/observers
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde**: Had to acknowledge underwater civilization's legitimacy
+- **[02_Worldbuilding/People/The Scattered Emperor]]**: Forced to engage in international diplomacy
+- **[[02_Worldbuilding/Lore/United Councils of Both Worlds**: Emergency joint government formed
+- **[02_Worldbuilding/Lore/Eastern Kingdom Fleet]]**: Arrived during crisis, became mediators/observers
 - **Citizens of merged districts**: Instant cultural integration required
-- **[[02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother]]**: Either sealed, communicated with, or departed
+- **[[02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother**: Either sealed, communicated with, or departed
 
 **Immediate visible results:**
 - New Meridian created: floating districts of Aquabyssos merged with surface city
@@ -66,7 +64,7 @@ world: Both Worlds
 
 **Political shifts:**
 - **Sovereignty crisis**: Neither realm could claim exclusive authority over merged areas
-- **Emergency coalition government**: [[02_Worldbuilding/Lore/United Councils of Both Worlds]] formed
+- **Emergency coalition government**: [02_Worldbuilding/Lore/United Councils of Both Worlds]] formed
 - **Constitutional emergency**: Existing laws couldn't address merged reality situations
 - **International intervention**: Eastern Kingdoms demanded formal diplomatic recognition
 - **Succession questions**: Which realm's laws applied to inherited mixed properties
@@ -91,7 +89,7 @@ world: Both Worlds
 ## Secondary Ripples (Weeks/Months)
 
 **Faction realignments:**
-- **[[02_Worldbuilding/Groups/The Crown]]** and **[[02_Worldbuilding/Places/Parliament of Echoes]]** forced into cooperation
+- **[[02_Worldbuilding/Groups/The Crown** and **[02_Worldbuilding/Places/Parliament of Echoes]]** forced into cooperation
 - **Cross-realm trade guilds** formed to exploit new opportunities
 - **Cultural preservation societies** emerged to protect distinct traditions
 - **Unification movements** promoted complete realm merger
@@ -185,9 +183,9 @@ world: Both Worlds
 ## Connected Consequences
 
 ### Links to Other Major Events
-- **[[02_Worldbuilding/Lore/Consequence Chain 4 - Deep Mother Awakening]]**: The cosmic entity encounter catalyzed merger
-- **[[Consequence Chain 5 - Marina's Identity Revelation]]**: Marina's bloodline enabled merger negotiations
-- **[[02_Worldbuilding/Lore/Crystal Plague Origins]]**: Combined research accelerated plague understanding
+- **[[02_Worldbuilding/Lore/Consequence Chain 4 - Deep Mother Awakening**: The cosmic entity encounter catalyzed merger
+- **[Consequence Chain 5 - Marina's Identity Revelation]]**: Marina's bloodline enabled merger negotiations
+- **[[02_Worldbuilding/Lore/Crystal Plague Origins**: Combined research accelerated plague understanding
 - **Eastern Kingdoms diplomatic expansion**: Foreign powers gained permanent presence
 
 ### Constitutional Innovations Implemented
@@ -214,15 +212,15 @@ world: Both Worlds
 ---
 
 *"The day two worlds became one, we learned that 'impossible' is just another word for 'no one's tried it yet.' The politics were harder than the physics, but we made it work because we had to. Now my children swim to school and fly home for dinner, and that's just Tuesday."*
-— [[Councilor Marina Deepbridge]], First Minister of Merged Affairs
+— [Councilor Marina Deepbridge]], First Minister of Merged Affairs
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Campaign Consequence Tracking Framework]]
-- [[1-Session Journals/Aethermoor - Session 08 Between Two Worlds]]
-- [[1-Session Journals/Aethermoor - Session 09 The Price of Unity]]
-- [[1-Session Journals/Aethermoor - Session 10 The Deep Mother Rises]]
-- [[03_Mechanics/Merged Reality Mechanics]]
-- [[02_Worldbuilding/Places/New Meridian|02 Worldbuilding/Places/New Meridian]]
-- [[02_Worldbuilding/Lore/United Councils of Both Worlds]]
-- [[02_Worldbuilding/Lore/Political Intrigue Master Index]]
+- [[02_Worldbuilding/Lore/Campaign Consequence Tracking Framework
+- [1-Session Journals/Aethermoor - Session 08 Between Two Worlds]]
+- [[1-Session Journals/Aethermoor - Session 09 The Price of Unity
+- [1-Session Journals/Aethermoor - Session 10 The Deep Mother Rises]]
+- [[03_Mechanics/Merged Reality Mechanics
+- [02_Worldbuilding/Places/New Meridian|02 Worldbuilding/Places/New Meridian]]
+- [[02_Worldbuilding/Lore/United Councils of Both Worlds
+- [02_Worldbuilding/Lore/Political Intrigue Master Index]]

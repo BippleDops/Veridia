@@ -2,7 +2,7 @@
 
 title: Merchant Delilah Currentrunner (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -54,7 +54,7 @@ danger_level: Moderate
 
 **Medium humanoid (triton), neutral**
 - **AS** 15 (Studded Leather + Dex)
-- **HP** 78 (12d8 + 24)
+- **HP** 78 (`dice: 12d8` + 24)
 - **Speed** 30 ft, swim 40 ft
 - **STR** 14 (+2) **DEX** 17 (+3) **CON** 15 (+2) **INT** 16 (+3) **WIS** 14 (+2) **CHA** 18 (+4)
 - **Skills** Deception +7, Insight +5, Perception +5, Persuasion +10, Sleight of Hand +6
@@ -64,7 +64,7 @@ danger_level: Moderate
 
 **Amphibious.** Delilah can breathe air and water. **Current Mastery.** Delilah has advantage on all Navigation checks and can predict weather and current changes with 90% accuracy up to 24 hours in advance. **Merchant Network.** Delilah can call upon her network of contacts to gather information, arrange meetings, or obtain items. This functions as having contacts in every major settlement within 500 miles. **Fast Talking.** Once per day, Delilah can make a Persuasion check as a bonus action to distract an enemy, giving allies advantage on their next attack. ### Actions
 
-**Multiattack.** Delilah makes two attacks with her cutlass or crossbow. **Enchanted Cutlass +1.** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 4) slashing damage. **Light Crossbow.** *Ranged Weapon Attack:* +6 to hit, range 80/320 ft., one target. *Hit:* 6 (1d8 + 3) piercing damage. **Call for Backup (1/day).** Delilah can use her conch shell to summon 1d4 loyal crew members who arrive in 1d4 rounds by the fastest available route. **Triton Heritage.** Delilah can cast *fog cloud* once per day without expending a spell slot. ### Legendary Actions (3 per turn, when conducting business)
+**Multiattack.** Delilah makes two attacks with her cutlass or crossbow. **Enchanted Cutlass +1.** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (`dice: 1d6` + 4) slashing damage. **Light Crossbow.** *Ranged Weapon Attack:* +6 to hit, range 80/320 ft., one target. *Hit:* 6 (`dice: 1d8` + 3) piercing damage. **Call for Backup (1/day).** Delilah can use her conch shell to summon `dice: 1d4` loyal crew members who arrive in `dice: 1d4` rounds by the fastest available route. **Triton Heritage.** Delilah can cast *fog cloud* once per day without expending a spell slot. ### Legendary Actions (3 per turn, when conducting business)
 
 **Move.** Delilah moves up to her speed.
 **Quick Deal.** Delilah makes a Persuasion check to negotiate terms or gather information.
@@ -74,11 +74,9 @@ danger_level: Moderate
 2. The party needs fast, discrete transportation to reach a critical location, requiring negotiation with Delilah for her services.
 3. Attacks on merchant vessels threaten to disrupt Delilah's business, and she needs investigators to identify the perpetrators. ## DM Notes
 
-
 Delilah serves as both a transportation resource and a source of information about regional trade and politics. Her independent status and diverse client base make her useful for introducing plot complications and opportunities. Use her merchant network to provide information and her vessels for transportation while creating moral dilemmas about the nature of her various clients. ## Player-Facing Summary Merchant Delilah Currentrunner is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Merchant Delilah Currentrunner as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Merchant Delilah Currentrunner. ## Related *Links to related content will be added here.* ## Plot Hooks - A corpse reveals a betrayal about a local noble
 
 - A shipment has gone missing and chaos spreads ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

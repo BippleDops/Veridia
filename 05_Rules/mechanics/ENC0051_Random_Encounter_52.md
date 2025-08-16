@@ -2,7 +2,7 @@
 aliases: ["Random Encounter 52", "random encounter 52", "52 Encounter Random"]
 tags: [generated]
 id: ENC0051_Random_Encounter_52
-created: 2025-08-15T04:09:51.451Z
+created: "2025-08-15T04:09:51.451Z"
 generator: mega_generator_10k
 ---
 # Random Encounter 52
@@ -10,7 +10,7 @@ generator: mega_generator_10k
 *Hard encounter for Mountain environment*
 
 ## Enemies
-- 1d6 Bandits
+- `dice: 1d6` Bandits
 - 1 Owlbear
 
 ## Tactics

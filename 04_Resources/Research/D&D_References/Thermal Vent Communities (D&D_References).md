@@ -2,7 +2,7 @@
 
 title: Thermal Vent Communities (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,12 +42,11 @@ updated: '2025-08-13T01:18:35.817489+00:00'
 
 - The authorities needs help finding before the festival
 - Someone is blackmailing a witness for love
-- A map reveals the truth about the cult ## Related Notes - [[Similar Topic 1]]
+- A map reveals the truth about the cult ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

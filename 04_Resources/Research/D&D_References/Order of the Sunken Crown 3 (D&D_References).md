@@ -2,7 +2,7 @@
 
 title: Order of the Sunken Crown 3 (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -59,13 +59,11 @@ Lifetime membership with generational inheritance of obligations. ## Adventure H
 2. **Infiltration Mission**: Government seeks to expose Order activities
 3. **Succession Crisis**: Order must choose new leadership during political upheaval ## Campaign Use
 
-
 Provides political intrigue, ancient mysteries, and moral complexity around legitimate authority and lost heritage. ## Player-Facing Summary Order of the Sunken Crown is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Order of the Sunken Crown as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Order of the Sunken Crown. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Hidden Prophecy of Shadows ## Plot Hooks - A map reveals a betrayal about the government
 
 - A shipment has gone missing and evil awakens
 - A shipment has gone missing and truth emerges
 - Strange dreams suggest a curse ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

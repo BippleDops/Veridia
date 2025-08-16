@@ -2,7 +2,7 @@
 
 title: The Thirteen Keys
 type: Location
-tags:
+tags: 
 - aquabyssos
 - content/adventure
 - ancient-mystery
@@ -348,11 +348,9 @@ Key stop on magic items trade route
 - Mood and feeling
 - Sensory details
 
-
 ## Dangers
 - Environmental hazards
 - Hostile creatures
-
 
 ## Weather
 - Typical conditions

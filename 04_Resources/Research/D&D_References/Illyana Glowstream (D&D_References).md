@@ -2,7 +2,7 @@
 
 title: Illyana Glowstream (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -54,7 +54,7 @@ danger_level: Moderate
 
 **Medium humanoid (water genasi), neutral good**
 - **AS** 14 (Mage Armor)
-- **HP** 72 (16d6 + 16)
+- **HP** 72 (`dice: 16d6` + 16)
 - **Speed** 30 ft, swim 30 ft
 - **STR** 10 (+0) **DEX** 14 (+2) **CON** 13 (+1) **INT** 18 (+4) **WIS** 16 (+3) **CHA** 17 (+3)
 - **Skills** Arcana +10, Investigation +7, Medicine +6, Persuasion +6
@@ -65,7 +65,7 @@ danger_level: Moderate
 
 **Amphibious.** Illyana can breathe air and water. **Master of Light.** Illyana can cast *light*, *dancing lights*, and *daylight* at will without expending spell slots. Her light spells last twice as long as normal and can be dismissed or modified as a bonus action. **Illumination Network.** Illyana can sense the status of all magical light sources within a 1-mile radius and can remotely adjust their intensity or color. **Beacon of Hope.** Creatures within 30 feet of Illyana have advantage on saving throws against fear and despair effects. ### Actions
 
-**Crystal Staff.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning damage plus 7 (2d6) radiant damage. **Blinding Flash (Recharge 5-6).** Illyana creates a brilliant flash of light in a 30-foot radius. All creatures in the area must make a DC 15 Constitution saving throw or be blinded for 1 minute. **Healing Light (3/day).** Illyana touches a creature and heals them for 2d8 + 4 hit points while removing one condition caused by darkness or negative energy. **Spellcasting.** Illyana is a 12th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). She has the following spells prepared:
+**Crystal Staff.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (`dice: 1d6`) bludgeoning damage plus 7 (`dice: 2d6`) radiant damage. **Blinding Flash (Recharge 5-6).** Illyana creates a brilliant flash of light in a 30-foot radius. All creatures in the area must make a **DC 15** Constitution saving throw or be blinded for 1 minute. **Healing Light (3/day).** Illyana touches a creature and heals them for `dice: 2d8` + 4 hit points while removing one condition caused by darkness or negative energy. **Spellcasting.** Illyana is a 12th-level spellcaster. Her spellcasting ability is Intelligence (spell save **DC 15**, +7 to hit with spell attacks). She has the following spells prepared:
 - Cantrips: *light*, *dancing lights*, *mage hand*, *prestidigitation*
 - 1st level (4 slots): *faerie fire*, *color spray*, *cure wounds*
 - 2nd level (3 slots): *scorching ray*, *misty step*, *aid*
@@ -78,13 +78,11 @@ danger_level: Moderate
 2. The party requires specialized light magic for a mission, leading them to seek Illyana's assistance and expertise.
 3. Saboteurs have targeted critical illumination infrastructure, and Illyana needs protection while making dangerous repairs. ## DM Notes
 
-
 Illyana serves as both a technical resource and an emotional anchor for the party and other NPCs. Her light magic can provide creative solutions to various challenges while her optimistic outlook offers hope during dark campaign moments. Use her illumination network to provide information and her healing abilities to support party recovery. Her neutral status makes her a safe contact regardless of factional allegiances. ## Player-Facing Summary Illyana Glowstream is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Illyana Glowstream as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Illyana Glowstream. ## Related *Links to related content will be added here.* ## Prophecy Connection Mentioned in The Second Prophecy of Stars ## Plot Hooks - A noble needs help delivering before dawn
 
 - An heirloom has gone missing and truth emerges
 - Strange disappearances suggest a portal
 - A shipment has gone missing and truth emerges ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

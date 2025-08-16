@@ -1,8 +1,8 @@
 ---
 
-title: [[Aethermoor]] Sky Fleet
-type: [[Lore]]
-tags:
+title: [[Aethermoor Sky Fleet
+type: [Lore]]
+tags: 
 - lore
 - worldbuilding
 created: '2025-08-14'
@@ -25,7 +25,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -49,7 +49,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[region]]s
+- Describe how this culture exists in other [region]]s
 
 ### Oral_Tradition Improvements
 
@@ -75,7 +75,7 @@ Aethermoor Sky Fleet represents a crucial aspect of the world's history, cosmolo
 
 *Last Updated: 2025-08-14 19:03*
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
 *Private notes for campaign integration:*
 - Can be adapted to fit current story needs
@@ -83,12 +83,12 @@ Aethermoor Sky Fleet represents a crucial aspect of the world's history, cosmolo
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-## Historical [[Time|[[Time]]line]]
+## Historical [[Time|[Time]]line]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[People]]s
+- War with indigenous [[Peoples
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -114,4 +114,4 @@ Aethermoor Sky Fleet represents a crucial aspect of the world's history, cosmolo
 
 ## References
 
-- [[Faction_Reputation_System]]
+- [Faction_Reputation_System]]

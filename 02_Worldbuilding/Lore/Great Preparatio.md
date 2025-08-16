@@ -1,10 +1,10 @@
 ---
 
 title: Great Preparatio
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - world/aquabyssos
 - content/lore
 - active
@@ -33,7 +33,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -77,7 +77,7 @@ improvements: 20
 
 ## Player-Facing Summary
 
-[[Great Preparation]] 2 is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+[Great Preparation]] 2 is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
@@ -99,12 +99,12 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
 
-## Historical [[Time|[[Time]]line]]
+## Historical [[Time|[Timeline]]
 
 ### The Age of Founding (1000 years ago)
 - The First Settlement
 - Discovery of magical crystals
-- War with indigenous [[People]]s
+- War with indigenous [[Peoples
 
 ### The Golden Era (500 years ago)
 - Economic prosperity
@@ -118,4 +118,4 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Great Preparation]]
+- [Great Preparation]]

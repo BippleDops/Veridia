@@ -6,7 +6,7 @@ created_by: auto-stub
 danger_level: Moderate
 obsidianUIMode: preview
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -22,15 +22,8 @@ updated: '2025-08-13T12:34:16.545412+00:00'
 world: Aquabyssos
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-enchanter-valdris-peacewarden-enchanter-valdris-peacewarden.svg)
-
-
-
-
-
 
 # Enchanter Valdris Peacewarden
 
@@ -59,7 +52,7 @@ He dresses in flowing robes that seem to be woven from sea silk and starlight, w
 ## Statistics
 **Medium humanoid (sea elf), lawful good**
 - **AS** 15 (Enchanted Robes)
-- **HP** 68 (15d6 + 15)
+- **HP** 68 (`dice: 15d6` + 15)
 - **Speed** 30 ft, swim 30 ft
 - **STR** 10 (+0) **DEX** 16 (+3) **CON** 12 (+1) **INT** 20 (+5) **WIS** 15 (+2) **CHA** 17 (+3)
 - **Skills** Arcana +11, Insight +8, Investigation +8, Persuasion +9
@@ -75,9 +68,9 @@ He dresses in flowing robes that seem to be woven from sea silk and starlight, w
 **Magic Resistance.** Valdris has advantage on saving throws against spells and other magical effects.
 
 ### Actions
-**Quarterstaff of Harmony.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning damage plus 7 (2d6) psychic damage. The target must make a DC 16 Wisdom save or be charmed for 1 minute.
+**Quarterstaff of Harmony.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (`dice: 1d6`) bludgeoning damage plus 7 (`dice: 2d6`) psychic damage. The target must make a **DC 16** Wisdom save or be charmed for 1 minute.
 
-**Spellcasting.** Valdris is a 12th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). He has the following spells prepared:
+**Spellcasting.** Valdris is a 12th-level spellcaster. His spellcasting ability is Intelligence (spell save **DC 16**, +8 to hit with spell attacks). He has the following spells prepared:
 - Cantrips: *guidance*, *mage hand*, *minor illusion*, *prestidigitation*
 - 1st level (4 slots): *charm person*, *comprehend languages*, *detect magic*
 - 2nd level (3 slots): *calm emotions*, *suggestion*, *zone of truth*
@@ -126,38 +119,27 @@ He's been quietly investigating the source of this magical disruption while main
 ## DM Notes
 Valdris serves as an excellent source of magical items, information about the city's political situation, and a safe meeting place for NPCs. His peace zones can provide interesting roleplay opportunities where combat is discouraged. Use his ethical stance to challenge players' assumptions about the morality of magic use.
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/The Bathyal Palace]]
-
+- [[02_Worldbuilding/Places/The Bathyal Palace
 
 ## History
 
-
 TODO
-
 
 ## Layout
 
-
 TODO
-
 
 ## Notables
 
-
 TODO
-
 
 ## Threats
 
-
 TODO
 
-
 ## Hooks
-
 
 TODO
 
@@ -177,30 +159,25 @@ Legends speak of Enchanter Valdris Peacewarden as a nexus where past and present
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Enchanter Valdris Peacewarden]]
+- [02_Worldbuilding/Places/Enchanter Valdris Peacewarden]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

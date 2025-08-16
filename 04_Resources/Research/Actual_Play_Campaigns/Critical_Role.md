@@ -2,7 +2,7 @@
 
 title: Critical_Role
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -37,7 +37,7 @@ modified: '2025-08-14'
 
 --- ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Exandria Unlimited
 
-- **Playlist**: https://www.youtube.com/playlist?list=PL1tiwbzk Oj Qw7YO0M0d8v RCITuq Am Ut7S
+- **Playlist**: https://www.youtube.com/playlist?list=PL1tiwbzk Oj Qw7YO0M`dice: 0d8`v RCITuq Am Ut7S
 - **DM**: Aabria Iyengar
 - **Mini-campaigns** and side stories ---
 
@@ -51,7 +51,6 @@ modified: '2025-08-14'
 - Strange disappearances suggest a conspiracy
 - A merchant needs help investigating before the festival
 - Strange accidents suggest a conspiracy ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

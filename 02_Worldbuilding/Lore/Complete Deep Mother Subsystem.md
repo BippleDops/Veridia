@@ -3,14 +3,14 @@ created: 2025-08-14
 evaluated: '2025-08-14'
 improvements: 20
 modified: '2025-08-14'
-tags:
-- [[Lore]]
-title: Complete [[Deep Mother]] Subsystem
+tags: 
+- [[Lore
+title: Complete [Deep Mother]] Subsystem
 type: lore
 updated: 2025-08-14
 ---
 
-# Complete [[Deep_Mother_Subsystem|Deep Mother Subsystem]]
+# Complete [[Deep_Mother_Subsystem|Deep Mother Subsystem
 
 ## Overview
 This document contains important information regarding Complete Deep Mother Subsystem and its role within the greater narrative.
@@ -20,12 +20,12 @@ Complete Deep Mother Subsystem represents a significant element within the campa
 
 ## Key Information
 - **Primary Purpose**: Serves specific function within the world
-- **Connections**: [[Link]]ed to multiple other elements
+- **Connections**: [Link]]ed to multiple other elements
 - **Significance**: Important for understanding broader context
 
 ## Details
 ### Background
-[[Historical Context]] and development over [[Time]].
+[[Historical Context and development over [Time]].
 
 ### Current State
 Present circumstances and ongoing relevance.

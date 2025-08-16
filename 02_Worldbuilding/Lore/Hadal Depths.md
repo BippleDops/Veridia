@@ -1,10 +1,10 @@
 ---
 
 title: Hadal Depths
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
-- [[Aquabyssos]]
+- [Aquabyssos]]
 - world/aquabyssos
 - content/lore
 - active
@@ -34,7 +34,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -84,11 +84,11 @@ Hadal Depths is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of Hadal Depths as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Hadal Depths.
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## [[Historical Context]]
+## [[Historical Context
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -134,10 +134,10 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Deep Mother]]
-- [[Name Etymology Guide]]
-- [[Timeline of the Drowning]]
-- [[Deep Mother (D&D_References)]]
-- [[Deep Mother 3 (D&D_References)]]
-- [[Timeline of the Drowning (D&D_References)]]
-- [[Timeline of the Drowning 3 (D&D_References)]]
+- [Deep Mother]]
+- [[Name Etymology Guide
+- [Timeline of the Drowning]]
+- [[Deep Mother (D&D_References)
+- [Deep Mother 3 (D&D_References)]]
+- [[Timeline of the Drowning (D&D_References)
+- [Timeline of the Drowning 3 (D&D_References)]]

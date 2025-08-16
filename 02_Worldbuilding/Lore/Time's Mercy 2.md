@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - both
 - complete
 - content/lore
@@ -13,20 +13,15 @@ updated: '2025-08-13T12:34:15.723766+00:00'
 world: Both
 ---
 
-
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Deep Mother]]
-
+- [[02_Worldbuilding/Lore/Deep Mother
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Deep Mother]]
-- [[02_Worldbuilding/Places/Aethermoor]]
-- [[02_Worldbuilding/Places/Old Valdris]]
+- [02_Worldbuilding/Lore/Deep Mother]]
+- [[02_Worldbuilding/Places/Aethermoor
+- [02_Worldbuilding/Places/Old Valdris]]
 
 ## Player-Facing Summary
 

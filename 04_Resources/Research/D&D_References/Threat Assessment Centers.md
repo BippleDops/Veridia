@@ -2,7 +2,7 @@
 
 title: Threat Assessment Centers
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,7 +43,6 @@ updated: '2025-08-13T01:18:35.157967+00:00'
 - A journal reveals ancient history about a local noble
 - Someone is blackmailing information for love
 - A document has gone missing and chaos spreads ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

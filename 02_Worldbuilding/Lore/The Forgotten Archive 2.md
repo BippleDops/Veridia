@@ -1,8 +1,8 @@
 ---
-accessibility:
+accessibility: 
   content_warnings: []
   pronunciation: The Forgotten Archive
-  safety_tools:
+  safety_tools: 
   - Lines & Veils
   - X-Card
   screen_reader_summary: This lore entry explains a pivotal principle or event and
@@ -10,7 +10,7 @@ accessibility:
 created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/lore
@@ -21,10 +21,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.190132+00:00'
 world: Aquabyssos
 ---
-
-
-
-
 
 # The Forgotten Archive
 
@@ -148,7 +144,7 @@ Beings who gave up their identities to serve the Archive:
 *Medium aberration, true neutral*
 
 **Armor Class** 18 (forgotten ward)
-**Hit Points** 165 (22d8 + 66)
+**Hit Points** 165 (`dice: 22d8` + 66)
 **Speed** 30 ft., teleport 60 ft. (within Archive only)
 
 STR 10 (+0), DEX 16 (+3), CON 16 (+3), INT 25 (+7), WIS 20 (+5), CHA 8 (-1)
@@ -161,7 +157,7 @@ STR 10 (+0), DEX 16 (+3), CON 16 (+3), INT 25 (+7), WIS 20 (+5), CHA 8 (-1)
 **Languages** All (including dead languages)
 **Challenge** 16 (15,000 XP)
 
-**Forgotten Existence.** The Archivist cannot be remembered. Creatures forget them 1 minute after interaction unless they pass a DC 20 Intelligence saving throw.
+**Forgotten Existence.** The Archivist cannot be remembered. Creatures forget them 1 minute after interaction unless they pass a **DC 20** Intelligence saving throw.
 
 **Living Index.** The Archivist knows the location and contents of every item in the Archive instantly.
 
@@ -170,7 +166,7 @@ STR 10 (+0), DEX 16 (+3), CON 16 (+3), INT 25 (+7), WIS 20 (+5), CHA 8 (-1)
 **Actions**
 **Multiattack.** The Archivist makes three Forgotten Lore attacks.
 
-**Forgotten Lore.** *Ranged Spell Attack:* +12 to hit, range 120 ft., one target. *Hit:* 18 (4d8) psychic damage and the target must make a DC 20 Intelligence saving throw or forget one significant memory.
+**Forgotten Lore.** *Ranged Spell Attack:* +12 to hit, range 120 ft., one target. *Hit:* 18 (`dice: 4d8`) psychic damage and the target must make a **DC 20** Intelligence saving throw or forget one significant memory.
 
 **Restore the Erased (Recharge 5-6).** The Archivist can make one destroyed thing temporarily exist again for 1 hour. This can be a person, object, or even a concept.
 
@@ -178,7 +174,7 @@ STR 10 (+0), DEX 16 (+3), CON 16 (+3), INT 25 (+7), WIS 20 (+5), CHA 8 (-1)
 The Archivist can take 3 legendary actions.
 - **Teleport.** Move anywhere within the Archive.
 - **Forget.** One creature within 60 feet forgets what they were doing.
-- **Remember (Costs 2 Actions).** Force a creature to remember something they've forgotten, dealing 27 (6d8) psychic damage.
+- **Remember (Costs 2 Actions).** Force a creature to remember something they've forgotten, dealing 27 (`dice: 6d8`) psychic damage.
 
 ### The Memory Moths
 
@@ -395,11 +391,11 @@ Remember: Some knowledge is forgotten for good reason.
 ---
 
 ## See Also
-- [[02_Worldbuilding/Lore/The Memory Trade|02 Worldbuilding/Lore/The Memory Trade]]
-- [[02_Worldbuilding/Groups/The Nameless Librarians|02 Worldbuilding/Groups/The Nameless Librarians]]
-- [[02_Worldbuilding/Places/Forgotten Doorways|02 Worldbuilding/Places/Forgotten Doorways]]
-- [[03_Mechanics/Memory_Mechanics|03 Mechanics/Memory Mechanics]]
-- [[02_Worldbuilding/Lore/Censorship Magic|02 Worldbuilding/Lore/Censorship Magic]]
+- [[02_Worldbuilding/Lore/The Memory Trade|02 Worldbuilding/Lore/The Memory Trade
+- [02_Worldbuilding/Groups/The Nameless Librarians|02 Worldbuilding/Groups/The Nameless Librarians]]
+- [[02_Worldbuilding/Places/Forgotten Doorways|02 Worldbuilding/Places/Forgotten Doorways
+- [03_Mechanics/Memory_Mechanics|03 Mechanics/Memory Mechanics]]
+- [[02_Worldbuilding/Lore/Censorship Magic|02 Worldbuilding/Lore/Censorship Magic
 
 *"In the Forgotten Archive, every burning makes books eternal, every erasure makes memories permanent, and every forgetting makes truth undeniable."*
 
@@ -415,15 +411,14 @@ Legends speak of The Forgotten Archive as a nexus where past and present converg
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Thalassius the Wise]]
-
+- [02_Worldbuilding/Lore/Thalassius the Wise]]
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]
-- [[02_Worldbuilding/Lore/Aetheron]]
-- [[02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
-- [[02_Worldbuilding/Lore/Evidence Chain Analysis]]
-- [[02_Worldbuilding/Lore/Thalassius the Wise]]
-- [[02_Worldbuilding/Lore/The Final Choice]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody
+- [02_Worldbuilding/Lore/Aetheron]]
+- [[02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide
+- [02_Worldbuilding/Lore/Evidence Chain Analysis]]
+- [[02_Worldbuilding/Lore/Thalassius the Wise
+- [02_Worldbuilding/Lore/The Final Choice]]
 - [[02_Worldbuilding/Lore/The Threshold]]

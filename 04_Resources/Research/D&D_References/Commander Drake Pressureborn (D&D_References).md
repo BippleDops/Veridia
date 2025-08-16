@@ -2,7 +2,7 @@
 
 title: Commander Drake Pressureborn (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -257,7 +257,6 @@ Secret passages beneath the fortress connect to an ancient underground river sys
 - **Trade Protection**: Provides security for commercial shipping and trade routes
 - **Diplomatic Corps**: Supports political negotiations through military strength and capability
 - **Research Institutions**: Collaborates with civilian scientists on military applications of new technologies *Fort Pressureborn stands as an unbreachable bastion in the depths, where the crushing power of the ocean itself serves the cause of defense, and where the finest underwater warriors forge themselves into weapons as formidable as the fortress they protect.* ## Player-Facing Summary Commander Drake Pressureborn is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Commander Drake Pressureborn as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Commander Drake Pressureborn. ## DM Notes Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. Parley) and one wildcard complication tied to a faction clock. Reward scouting and map use. ## Related *Links to related content will be added here.* ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

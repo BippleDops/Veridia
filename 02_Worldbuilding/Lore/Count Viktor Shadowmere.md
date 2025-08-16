@@ -1,12 +1,12 @@
 ---
 
-title: Count Viktor [[Shadowmere]]
-type: [[Lore]]
-tags:
+title: Count Viktor [[Shadowmere
+type: [Lore]]
+tags: 
 - lore
 - content/lore
-- content/[[location]]
-- world/[[Aethermoor]]
+- content/[[location
+- world/[Aethermoor]]
 - active
 - complete
 - status/in-progress
@@ -35,7 +35,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -89,7 +89,7 @@ Count Viktor Shadowmere is a undersea element of the setting, known for biolumin
 
 Legends speak of Count Viktor Shadowmere as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Count Viktor Shadowmere.
 
-## [[DM_Notes|DM Notes]]
+## [DM_Notes|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 

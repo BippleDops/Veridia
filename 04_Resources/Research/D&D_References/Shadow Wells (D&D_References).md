@@ -2,7 +2,7 @@
 
 title: Shadow Wells (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -53,7 +53,7 @@ danger_level: Moderate
 
 *Where the Mother's Nightmares Surface* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
-Shadow Wells are mysterious phenomena scattered throughout [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]], appearing as pools of absolute darkness from which emerge the [[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'s nightmares and darker dreams. These sites serve as manifestation points where the sleeping goddess's unconscious anxieties, fears, and sorrows take physical form in the material world. Each Well represents a different aspect of cosmic dread, making them both fascinating research sites and extremely dangerous locations. #### The Despair Depths
+Shadow Wells are mysterious phenomena scattered throughout [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos, appearing as pools of absolute darkness from which emerge the [The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'s nightmares and darker dreams. These sites serve as manifestation points where the sleeping goddess's unconscious anxieties, fears, and sorrows take physical form in the material world. Each Well represents a different aspect of cosmic dread, making them both fascinating research sites and extremely dangerous locations. #### The Despair Depths
 
 **Location**: Deepest oceanic trenches near [[The Hadal Depths|02 Worldbuilding/Places/The Hadal Depths]] **Count**: ~50 Wells **Manifestations**: Existential dread, cosmic loneliness, fear of meaninglessness
 - **The Void Well**: Largest Well producing entities of pure nihilism
@@ -81,19 +81,17 @@ Shadow Wells are mysterious phenomena scattered throughout [[Aquabyssos|02 World
 4. **The Therapy Mission**: Escort traumatized individual through shadow-based healing
 5. **The Well Defense**: Protect sacred site from commercial or military exploitation ## DM Notes ### Campaign Integration
 
-
 - Perfect for horror-themed adventures emphasizing psychological rather than physical threats
 - Can provide unique magical materials and services unavailable elsewhere
 - Represents themes of confronting fear, processing trauma, and understanding suffering
 - Offers opportunities for character development through facing personalized fears
 - Can serve as early warning system for Deep Mother's awakening ## Player-Facing Summary Shadow Wells is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Shadow Wells as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Wells. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes ## Plot Hooks - The authorities needs help delivering before the festival
 
-- A shipment has gone missing and chaos spreads ## Related Notes - [[Similar Topic 1]]
+- A shipment has gone missing and chaos spreads ## Related Notes - [[Similar Topic 1
 
-- [[Contrasting Approach]]
-- [[Advanced Version]]
-- [[Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
-
+- [Contrasting Approach]]
+- [[Advanced Version
+- [Historical Context]] ## 12_Research Specific Content Contextual improvement based on 12_Research
 
 ## Notes
 

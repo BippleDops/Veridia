@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - complete
 - content/lore
 - lore
@@ -12,10 +12,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.452965+00:00'
 world: Universal
 ---
-
-
-
-
 
 ## Overview
 

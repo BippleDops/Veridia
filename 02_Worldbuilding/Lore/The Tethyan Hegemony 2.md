@@ -3,7 +3,7 @@ created: '2025-08-08'
 created_by: auto-stub
 expanded: 2025-08-10
 status: complete
-tags:
+tags: 
 - ancient-civilizations
 - aquabyssos
 - complete
@@ -18,9 +18,6 @@ type: Lore
 updated: '2025-08-13T12:34:15.719439+00:00'
 world: Aquabyssos
 ---
-
-
-
 
 # The Tethyan Hegemony
 
@@ -423,11 +420,11 @@ Magical researchers have detected "temporal echoes" of Tethyan Hegemony events r
 
 ### Knowledge Checks
 **Tethyan History Information** (History checks):
-- **DC 10**: Basic knowledge of the Hegemony's existence and general timeline
-- **DC 15**: Understanding of major political and military events
-- **DC 20**: Detailed knowledge of cultural practices and technological achievements
-- **DC 25**: Specialized information about specific rulers, battles, or innovations
-- **DC 30**: Secret or classified information about hidden aspects of the Hegemony
+- ****DC 10****: Basic knowledge of the Hegemony's existence and general timeline
+- ****DC 15****: Understanding of major political and military events
+- ****DC 20****: Detailed knowledge of cultural practices and technological achievements
+- ****DC 25****: Specialized information about specific rulers, battles, or innovations
+- ****DC 30****: Secret or classified information about hidden aspects of the Hegemony
 
 ### Exploration Mechanics
 **Tethyan Ruins Exploration**:
@@ -439,18 +436,18 @@ Magical researchers have detected "temporal echoes" of Tethyan Hegemony events r
 ## Connected References
 
 - Tethys The Sea Walker - Legendary founder and first emperor
-- [[02_Worldbuilding/Places/Crystal Palace Complex]] - Major archaeological site and imperial capital
+- [[02_Worldbuilding/Places/Crystal Palace Complex - Major archaeological site and imperial capital
 - Council Of Admiralties - Government structure model for modern Aquabyssos
-- [[02_Worldbuilding/Lore/Seven Fleets System]] - Military organization influencing current naval structure
-- [[02_Worldbuilding/Lore/Deep Current Network]] - Ancient magical transportation system
+- [02_Worldbuilding/Lore/Seven Fleets System]] - Military organization influencing current naval structure
+- [[02_Worldbuilding/Lore/Deep Current Network - Ancient magical transportation system
 - Imperial Chronicle Of Deep History - Historical records and documentation
 - Ocean Pantheon - Religious system with continuing influence
-- [[02_Worldbuilding/Lore/Great Preparation]] - Final period survival planning
-- [[02_Worldbuilding/People/Emperor Abyssal the Deep-Sighted]] - Ruler who prepared for the Great Drowning
-- [[02_Worldbuilding/People/Emperor Pelagic the Last]] - Final ruler of the Hegemony
-- [[02_Worldbuilding/Lore/Lost Fleet]] - Hidden naval forces potentially still existing
-- [[02_Worldbuilding/Lore/Deep Archives]] - Sealed repository of Hegemony knowledge
-- [[02_Worldbuilding/Lore/Continuity Protocol]] - Secret plan for imperial restoration
+- [02_Worldbuilding/Lore/Great Preparation]] - Final period survival planning
+- [[02_Worldbuilding/People/Emperor Abyssal the Deep-Sighted - Ruler who prepared for the Great Drowning
+- [02_Worldbuilding/People/Emperor Pelagic the Last]] - Final ruler of the Hegemony
+- [[02_Worldbuilding/Lore/Lost Fleet - Hidden naval forces potentially still existing
+- [02_Worldbuilding/Lore/Deep Archives]] - Sealed repository of Hegemony knowledge
+- [[02_Worldbuilding/Lore/Continuity Protocol - Secret plan for imperial restoration
 - Imperial Museum Of Deep History - Modern repository of Tethyan artifacts
 - Maritime Research Institute - Academic institution studying Hegemony legacy
 
@@ -470,10 +467,9 @@ The Tethyan Hegemony provides a rich foundation for long-term campaigns in Aquab
 
 The Hegemony's legacy ensures that the past remains a living force in Aquabyssos, creating ongoing tension between tradition and progress, unity and autonomy, and the dream of restored greatness versus the reality of changed circumstances. Characters who engage deeply with this history will find themselves at the center of debates about identity, destiny, and the price of civilization itself.
 
-
 ## Connections
 
-- [[02_Worldbuilding/Lore/Thalassius the Wise]]
+- [02_Worldbuilding/Lore/Thalassius the Wise]]
 
 ## Player-Facing Summary
 

@@ -2,7 +2,7 @@
 
 title: Medical Arsenal
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -42,7 +42,6 @@ updated: '2025-08-13T01:18:34.846549+00:00'
 
 - A letter reveals a conspiracy about a local noble
 - Strange accidents suggest a portal ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

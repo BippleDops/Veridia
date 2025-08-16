@@ -2,7 +2,7 @@
 
 title: Party Quarters - Inverse Palace (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -65,12 +65,10 @@ The Party Quarters of the Inverse Palace are an architectural marvel where enter
 3. Political assassination attempt in gravity-neutral zone
 4. Characters must infiltrate exclusive inverted party ## DM Notes
 
-
 This location provides unique tactical challenges and memorable social encounters. Use the inverted gravity for creative puzzle-solving and combat scenarios that force players to think three-dimensionally. ## Player-Facing Summary Party Quarters Inverse Palace is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of Party Quarters Inverse Palace as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Party Quarters Inverse Palace. ## Related *Links to related content will be added here.* ## Secret Connections *[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession ## Plot Hooks - The authorities needs help stealing before dawn
 
 - A merchant needs help investigating before dawn
 - Strange accidents suggest a portal ## References - [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
-
 
 ## Notes
 

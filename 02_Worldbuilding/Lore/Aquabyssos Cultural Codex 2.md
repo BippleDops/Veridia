@@ -2,7 +2,7 @@
 created: '2025-08-12'
 created_by: cultural-expansion
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/lore
@@ -16,11 +16,10 @@ updated: '2025-08-13T12:34:16.201291+00:00'
 world: Aquabyssos
 ---
 
-
 # Aquabyssos Cultural Codex
 *"In the depths, tradition flows like the eternal currents - ancient, powerful, and ever-present."*
 
-> *"To understand Aquabyssos, one must think not in terms of land and air, but in currents and pressures, depths and tides. Our culture has been shaped by forces that surface dwellers cannot comprehend."* - [[02_Worldbuilding/People/Cultural Sage Deep-Memory|02 Worldbuilding/People/Cultural Sage Deep Memory]]
+> *"To understand Aquabyssos, one must think not in terms of land and air, but in currents and pressures, depths and tides. Our culture has been shaped by forces that surface dwellers cannot comprehend."* - [[02_Worldbuilding/People/Cultural Sage Deep-Memory|02 Worldbuilding/People/Cultural Sage Deep Memory
 
 ## Overview
 
@@ -478,27 +477,27 @@ The Cultural Codex of Aquabyssos represents the accumulated wisdom of millennia 
 4. **The Etiquette Master**: Players must train foreign diplomats in proper cultural behavior
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Cultural Sage Deep-Memory|02 Worldbuilding/People/Cultural Sage Deep Memory]] - Master of traditional knowledge and customs
-- [[02_Worldbuilding/People/Ambassador Marina Tidecaller|02 Worldbuilding/People/Ambassador Marina Tidecaller]] - Diplomatic expert in cultural translation
-- [[02_Worldbuilding/People/High Priestess Tidal Blessing|02 Worldbuilding/People/High Priestess Tidal Blessing]] - Religious leader maintaining sacred traditions
-- [[Elder Kythara the Wise]] - Community elder and keeper of cultural wisdom
+- [02_Worldbuilding/People/Cultural Sage Deep-Memory|02 Worldbuilding/People/Cultural Sage Deep Memory]] - Master of traditional knowledge and customs
+- [[02_Worldbuilding/People/Ambassador Marina Tidecaller|02 Worldbuilding/People/Ambassador Marina Tidecaller - Diplomatic expert in cultural translation
+- [02_Worldbuilding/People/High Priestess Tidal Blessing|02 Worldbuilding/People/High Priestess Tidal Blessing]] - Religious leader maintaining sacred traditions
+- [[Elder Kythara the Wise - Community elder and keeper of cultural wisdom
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Aquabyssos]] - Primary homeland where these customs are practiced
-- [[02_Worldbuilding/Places/The Deep Academy|02 Worldbuilding/Places/The Deep Academy]] - Educational institution teaching cultural traditions
-- [[The Cultural Heritage Center]] - Museum and preservation site for cultural artifacts
-- [[The Community Feast Halls]] - Social gathering spaces for cultural celebrations
+- [02_Worldbuilding/Places/Aquabyssos]] - Primary homeland where these customs are practiced
+- [[02_Worldbuilding/Places/The Deep Academy|02 Worldbuilding/Places/The Deep Academy - Educational institution teaching cultural traditions
+- [The Cultural Heritage Center]] - Museum and preservation site for cultural artifacts
+- [[The Community Feast Halls - Social gathering spaces for cultural celebrations
 
 ## Connected Organizations
-- [[02_Worldbuilding/Groups/The Cultural Heritage Society|02 Worldbuilding/Groups/The Cultural Heritage Society]] - Organization dedicated to cultural preservation
-- [[The Professional Guilds Council]] - Coordinating body for trade and professional customs
-- [[The Deep Mother's Temple]] - Religious organization maintaining spiritual traditions
+- [02_Worldbuilding/Groups/The Cultural Heritage Society|02 Worldbuilding/Groups/The Cultural Heritage Society]] - Organization dedicated to cultural preservation
+- [[The Professional Guilds Council - Coordinating body for trade and professional customs
+- [The Deep Mother's Temple]] - Religious organization maintaining spiritual traditions
 
 ## Cross-References
-- [[02_Worldbuilding/Lore/Aethermoor Social Customs]]
-- [[02_Worldbuilding/Lore/Cross-Realm Etiquette Guide]]
-- [[02_Worldbuilding/Lore/Festival Calendar Complete]]
-- [[02_Worldbuilding/Lore/Guild Traditions Compendium]]
+- [[02_Worldbuilding/Lore/Aethermoor Social Customs
+- [02_Worldbuilding/Lore/Cross-Realm Etiquette Guide]]
+- [[02_Worldbuilding/Lore/Festival Calendar Complete
+- [02_Worldbuilding/Lore/Guild Traditions Compendium]]
 
 ## Player-Facing Summary
 

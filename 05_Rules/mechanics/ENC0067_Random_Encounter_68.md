@@ -2,7 +2,7 @@
 aliases: ["Random Encounter 68", "random encounter 68", "68 Encounter Random"]
 tags: [generated]
 id: ENC0067_Random_Encounter_68
-created: 2025-08-15T04:09:51.455Z
+created: "2025-08-15T04:09:51.455Z"
 generator: mega_generator_10k
 ---
 # Random Encounter 68
@@ -11,7 +11,7 @@ generator: mega_generator_10k
 
 ## Enemies
 - 1 Owlbear
-- 2d6 Skeletons
+- `dice: 2d6` Skeletons
 
 ## Tactics
 Enemies coordinate attacks and use terrain to their advantage

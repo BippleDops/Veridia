@@ -1,8 +1,8 @@
 ---
 enhanced: true
 tags: [enhanced, 03_people]
-created: 2025-08-15T12:24:43.130504
-modified: 2025-08-15T12:24:43.130506
+created: "2025-08-15T12:24:43.130504"
+modified: "2025-08-15T12:24:43.130506"
 aliases: [NPC1]
 ---
 
@@ -23,7 +23,7 @@ category: 03 People
 subcategory: Npc1.Md
 related: []
 cssclass: standard
-publish: false --- # NPC1 ## Portrait![[Npc|Npc]] *Portrait reference for NPC1* ## Overview This topic is referenced in [[Npc|Npc]] and other parts of the campaign. ## Description
+publish: false --- # NPC1 ## Portrait![[Npc|Npc *Portrait reference for NPC1* ## Overview This topic is referenced in [Npc|Npc]] and other parts of the campaign. ## Description
 
 **Sensory Details**: The character's presence fills the space with [distinctive scent/sound/aura]. An important element of the campaign world that connects to various other aspects of the adventure.
 *The air carries the scent of [appropriate smell].* ## Connections - Referenced by: [[Npc|Npc]]
@@ -41,10 +41,10 @@ publish: false --- # NPC1 ## Portrait![[Npc|Npc]] *Portrait reference for NPC1* 
 - Similar topics
 - Connected elements ## Alternate Descriptions - **First Impression**: Initial appearance
 - **Closer Look**: Detailed examination
-- **Hidden Details**: Secret aspects ## DM Tips > 💡 **Running This Content**: Advice for game masters > Adjust difficulty based on party composition ## References - [[Assets Art Astrologer Prime Cassandra Starweaver.png|Assets Art Astrologer Prime Cassandra Starweaver.Png]] - [[Assets Locations Location City Dream Enhancement Techniques Dream Enhancement Techniques.svg|Assets Locations Location City Dream Enhancement Techniques Dream Enhancement Techniques.Svg]]
-- [[NPC1_Quick_Ref|Npc1 Quick Ref]]
-- [[Location_Template_1 (09_Templates)|Location Template 1 (09 Templates)]]
-- [[NPC_Template_1 (09_Templates)|Npc Template 1 (09 Templates)]] ## Notes {#notes} *Additional notes* #mechanics/combat
+- **Hidden Details**: Secret aspects ## DM Tips > 💡 **Running This Content**: Advice for game masters > Adjust difficulty based on party composition ## References - [[Assets Art Astrologer Prime Cassandra Starweaver.png|Assets Art Astrologer Prime Cassandra Starweaver.Png - [Assets Locations Location City Dream Enhancement Techniques Dream Enhancement Techniques.svg|Assets Locations Location City Dream Enhancement Techniques Dream Enhancement Techniques.Svg]]
+- [[NPC1_Quick_Ref|Npc1 Quick Ref
+- [Location_Template_1 (09_Templates)|Location Template 1 (09 Templates)]]
+- [[NPC_Template_1 (09_Templates)|Npc Template 1 (09 Templates) ## Notes {#notes} *Additional notes* #mechanics/combat
 #story/plot
 #story/story
 #world/location
@@ -66,12 +66,11 @@ publish: false --- # NPC1 ## Portrait![[Npc|Npc]] *Portrait reference for NPC1* 
 - Hidden knowledge
 - Personal mysteries
 
-
 **Key Question**: What drives this character's actions?
 
 *Adventure awaits those brave enough to seek it.*
 
 ## Visual References
-![[04_Resources/Assets/Portraits/NPCs/portrait_npc1.png]]
-![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_npc1_people_friendly.png]]
-![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_npc1_people_standard.png]]
+![04_Resources/Assets/Portraits/NPCs/portrait_npc1.png]]
+![[04_Resources/Assets/Portraits/NPCs/Minor/portrait_npc1_people_friendly.png
+![04_Resources/Assets/Portraits/NPCs/Minor/portrait_npc1_people_standard.png]]

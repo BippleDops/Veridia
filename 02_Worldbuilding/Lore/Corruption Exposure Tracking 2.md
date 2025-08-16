@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - both
 - complete
 - content/lore
@@ -13,26 +13,21 @@ updated: '2025-08-13T12:34:15.856875+00:00'
 world: Both
 ---
 
-
-
-
-
 ## Cross-References
 
 - Rewriting The Ritual
-
 
 ## Connections
 
 - Depth Adaptation Points
 - Echo Of The Mother
-- [[02_Worldbuilding/Lore/Investigation Procedures]]
+- [[02_Worldbuilding/Lore/Investigation Procedures
 - Madness Effects
 - Sorrow Pearls
 - Spell Components
-- [[02_Worldbuilding/Places/Aethermoor]]
-- [[02_Worldbuilding/Places/Port Meridian]]
-- [[1-Session Journals/Aethermoor - Session 04 The Silverscale Gambit]]
+- [02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Port Meridian
+- [1-Session Journals/Aethermoor - Session 04 The Silverscale Gambit]]
 
 ## Player-Facing Summary
 

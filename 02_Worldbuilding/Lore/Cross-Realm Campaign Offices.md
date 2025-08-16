@@ -1,12 +1,12 @@
 ---
 
 title: Cross Realm Campaign Offices
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
 - content/faction
 - content/lore
-- both [[Aethermoor]] & [[Aquabyssos]]
+- both [Aethermoor]] & [[Aquabyssos
 - active
 - complete
 - status/in-progress
@@ -31,11 +31,11 @@ improvements: 20
 
 ### Culture Improvements
 
-- Define unique [[Cultural Practices|Cultural Practices]] and taboos
+- Define unique [Cultural Practices|Cultural Practices]] and taboos
 
 ### Economy Improvements
 
-- Detail currency, [[[[Trade_Goods|Trade_Goods]]|Trade Goods]], and wealth distribution
+- Detail currency, [[[Trade_Goods|Trade_Goods|Trade Goods]], and wealth distribution
 
 ### Religion Improvements
 
@@ -43,7 +43,7 @@ improvements: 20
 
 ### Lifestyle Improvements
 
-- Describe typical day for different social [[classes|classes]]
+- Describe typical day for different social [[classes|classes
 
 ### Superstitions Improvements
 
@@ -69,19 +69,19 @@ improvements: 20
 
 - Detail funeral rites and afterlife beliefs
 
-## Player-[[facing|facing]] Summary
+## Player-[facing|facing]] Summary
 
 Cross Realm Campaign Offices is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of Cross Realm Campaign Offices as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or [[Whispers|Whispers]] on the wind—that herald change around Cross Realm Campaign Offices.
+Legends speak of Cross Realm Campaign Offices as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or [[Whispers|Whispers on the wind—that herald change around Cross Realm Campaign Offices.
 
-## [[[[DM_Notes|DM_Notes]]|DM Notes]]
+## [[[DM_Notes|DM_Notes]]|DM Notes]]
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## [[Historical Context]]
+## [[Historical Context
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -116,8 +116,8 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Parliament-of-Shadows-Campaign (Government_and_Parliament)]]
-- [[Parliament-of-Shadows-Campaign]]
+- [Parliament-of-Shadows-Campaign (Government_and_Parliament)]]
+- [[Parliament-of-Shadows-Campaign
 
 ---
-**Navigation**: [[00_Indexes/Home|🏠 Home]] | [[00_Indexes/Master_Index|📚 Index]]
+**Navigation**: [00_Indexes/Home|🏠 Home]] | [[00_Indexes/Master_Index|📚 Index]]

@@ -3,22 +3,22 @@ category: Political Entity
 created: '2025-08-08'
 created_by: auto-stub
 outcome: Ongoing Major Power
-participants:
+participants: 
 - Eastern Royal Houses
 - Imperial Navy
 - Colonial Administrations
 - Trade Guilds
-related_entities:
-- '[[02_Worldbuilding/Places/Aethermoor]]'
-- '[[02_Worldbuilding/Lore/Continental War]]'
-- '[[02_Worldbuilding/Lore/The Great Crystallization]]'
-- '[[02_Worldbuilding/Lore/The Bathyal Succession]]'
-- '[[02_Worldbuilding/Places/Aquabyssos]]'
-- '[[02_Worldbuilding/Lore/The Shattering of the Crown]]'
+related_entities: 
+- '[[02_Worldbuilding/Places/Aethermoor'
+- '[02_Worldbuilding/Lore/Continental War]]'
+- '[[02_Worldbuilding/Lore/The Great Crystallization'
+- '[02_Worldbuilding/Lore/The Bathyal Succession]]'
+- '[[02_Worldbuilding/Places/Aquabyssos'
+- '[02_Worldbuilding/Lore/The Shattering of the Crown]]'
 scale: Multi-Continental Empire
 significance: Major Continental Power
 status: complete
-tags:
+tags: 
 - aethermoor
 - campaign/arc
 - complete
@@ -37,17 +37,12 @@ updated: '2025-08-13T12:34:15.938818+00:00'
 world: Aethermoor
 ---
 
-
-
-
-
-
 # Eastern Kingdoms
 *The Maritime Empire of the Rising Sun*
 
 ## Overview
 
-The Eastern Kingdoms represent the largest and most influential political entity in the post-[[02_Worldbuilding/Lore/The Great Crystallization]] world, controlling vast territories across multiple continents through sophisticated naval power and complex diplomatic networks. Unlike the crystal-focused civilizations of [[02_Worldbuilding/Places/Aethermoor]] or the depth-adapted societies of [[02_Worldbuilding/Places/Aquabyssos]], the Eastern Kingdoms built their power on traditional monarchy, merchant capitalism, and military expansion.
+The Eastern Kingdoms represent the largest and most influential political entity in the post-[[02_Worldbuilding/Lore/The Great Crystallization world, controlling vast territories across multiple continents through sophisticated naval power and complex diplomatic networks. Unlike the crystal-focused civilizations of [02_Worldbuilding/Places/Aethermoor]] or the depth-adapted societies of [[02_Worldbuilding/Places/Aquabyssos, the Eastern Kingdoms built their power on traditional monarchy, merchant capitalism, and military expansion.
 
 Spanning over 4.2 million square miles across seven major continents and countless islands, the Eastern Kingdoms maintain political unity through the **Imperial Throne of the Rising Sun** while allowing significant regional autonomy. Their influence extends far beyond direct territorial control through trade networks, diplomatic alliances, and strategic military interventions that have shaped global politics for over eight centuries.
 
@@ -352,7 +347,7 @@ Following internal consolidation, the Eastern Kingdoms began systematic external
 
 **The Crystal Encounter (23-19 BGC)**:
 The Eastern Kingdoms' first major contact with crystal-affected civilizations:
-- Diplomatic missions to territories affected by [[02_Worldbuilding/Lore/The Great Crystallization]]
+- Diplomatic missions to territories affected by [02_Worldbuilding/Lore/The Great Crystallization]]
 - Military conflicts with crystal-enhanced opponents
 - Technological exchange leading to limited crystal adoption
 - Establishment of the Crystal Borderlands as specialized frontier region
@@ -360,7 +355,7 @@ The Eastern Kingdoms' first major contact with crystal-affected civilizations:
 #### The Magical Challenge Period (50 GC - 200 GC)
 **Adaptation to a Transformed World**
 
-The period following [[02_Worldbuilding/Lore/The Great Crystallization]] required significant adaptation:
+The period following [[02_Worldbuilding/Lore/The Great Crystallization required significant adaptation:
 
 **The Crystal Wars (67-89 GC)**:
 Military conflicts with crystal-enhanced civilizations:
@@ -397,14 +392,14 @@ First diplomatic contact with the underwater civilization:
 - Cultural exchange programs despite environmental barriers
 
 **The Continental War Intervention (234-245 GC)**:
-Participation in [[02_Worldbuilding/Places/Aethermoor]]'s major continental conflict:
+Participation in [02_Worldbuilding/Places/Aethermoor]]'s major continental conflict:
 - Military support for traditional monarchist factions
 - Economic aid maintaining alliance relationships
 - Diplomatic pressure promoting peaceful resolution
 - Strategic positioning protecting Eastern Kingdom interests
 
 **The Bathyal Succession Crisis (234-267 GC)**:
-Involvement in [[02_Worldbuilding/Places/Aquabyssos]]'s political transformation:
+Involvement in [[02_Worldbuilding/Places/Aquabyssos's political transformation:
 - Diplomatic support for traditional monarchy against democratic revolution
 - Military aid to royalist forces during civil war
 - Economic pressure through trade restrictions
@@ -644,7 +639,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 - Financial services supporting commerce through banking, credit, and investment
 
 **International Trade Operations**:
-- Trade relationships with all major civilizations including [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]
+- Trade relationships with all major civilizations including [02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos
 - Specialized transportation systems handling goods with unusual requirements
 - Commercial diplomacy managing trade disputes and negotiating agreements
 - Market intelligence providing information about international supply and demand
@@ -846,7 +841,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 **Complex Partnership with Crystal-Enhanced Civilization**
 
 **Historical Development**:
-- Initial contact during [[02_Worldbuilding/Lore/The Great Crystallization]] period
+- Initial contact during [02_Worldbuilding/Lore/The Great Crystallization]] period
 - Military conflicts during early crystal expansion phase
 - Gradual development of diplomatic relations and mutual understanding
 - Current status as strategic partners with occasional disagreements
@@ -868,7 +863,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 **Underwater-Surface Diplomatic Innovation**
 
 **Historical Development**:
-- First contact during [[02_Worldbuilding/Lore/The Bathyal Succession]] crisis
+- First contact during [[02_Worldbuilding/Lore/The Bathyal Succession crisis
 - Military intervention supporting traditional monarchy against democracy
 - Eventual recognition of democratic government following military defeat
 - Development of unique diplomatic protocols for underwater-surface relations
@@ -1037,8 +1032,8 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 **Adapting to Changing Global Economy**
 
 **New Trade Relationships**: Developing commerce with transformed civilizations
-- Underwater trade with [[02_Worldbuilding/Places/Aquabyssos]] requiring technological innovation
-- Crystal-enhanced trade with [[02_Worldbuilding/Places/Aethermoor]] requiring adaptation to magical conditions
+- Underwater trade with [02_Worldbuilding/Places/Aquabyssos]] requiring technological innovation
+- Crystal-enhanced trade with [[02_Worldbuilding/Places/Aethermoor requiring adaptation to magical conditions
 - Exploration of trade opportunities with other transformed or distant civilizations
 - Development of trade relationships supporting convergence preparation
 
@@ -1318,30 +1313,29 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 
 ## Connected References
 
-- [[02_Worldbuilding/Places/Aethermoor]] - Major ally and strategic partner with complex relationship
-- [[02_Worldbuilding/Places/Aquabyssos]] - Underwater civilization with innovative diplomatic relationship
-- [[02_Worldbuilding/Lore/Continental War]] - Major historical conflict involving Eastern Kingdoms intervention
-- [[02_Worldbuilding/Lore/The Great Crystallization]] - World transformation event affecting imperial policy
-- [[02_Worldbuilding/Lore/The Bathyal Succession]] - Political crisis involving Eastern Kingdoms diplomatic intervention
-- [[02_Worldbuilding/Lore/The Shattering of the Crown]] - Historical event affecting international balance of power
-- [[02_Worldbuilding/Lore/The Great Convergence Prophecies]] - Prophetic traditions influencing imperial strategic planning
+- [02_Worldbuilding/Places/Aethermoor]] - Major ally and strategic partner with complex relationship
+- [[02_Worldbuilding/Places/Aquabyssos - Underwater civilization with innovative diplomatic relationship
+- [02_Worldbuilding/Lore/Continental War]] - Major historical conflict involving Eastern Kingdoms intervention
+- [[02_Worldbuilding/Lore/The Great Crystallization - World transformation event affecting imperial policy
+- [02_Worldbuilding/Lore/The Bathyal Succession]] - Political crisis involving Eastern Kingdoms diplomatic intervention
+- [[02_Worldbuilding/Lore/The Shattering of the Crown - Historical event affecting international balance of power
+- [02_Worldbuilding/Lore/The Great Convergence Prophecies]] - Prophetic traditions influencing imperial strategic planning
 - Imperial Navy - Primary military force supporting Eastern Kingdoms global influence
-- [[02_Worldbuilding/Lore/Trade Networks]] - Commercial relationships connecting Eastern Kingdoms with global civilization
+- [[02_Worldbuilding/Lore/Trade Networks - Commercial relationships connecting Eastern Kingdoms with global civilization
 - Cultural Exchange Programs - Diplomatic and cultural initiatives promoting international understanding
-- [[02_Worldbuilding/Lore/Colonial Administration]] - Governmental systems managing diverse territorial populations
-- [[02_Worldbuilding/Places/Diplomatic Corps]] - Professional international relations service representing imperial interests
+- [02_Worldbuilding/Lore/Colonial Administration]] - Governmental systems managing diverse territorial populations
+- [[02_Worldbuilding/Places/Diplomatic Corps - Professional international relations service representing imperial interests
 
 ---
 
 *"The Eastern Kingdoms endure not through resistance to change, but through wisdom in adapting while preserving what truly matters. In a world of transformation, our strength lies in balance."*
 *- Emperor Aurelius Magnus VII, Address to the Imperial Council*
 
-
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Lighthouse of Storms]]
-- [[1-Session Journals/Aethermoor - Session 09 The Price of Unity]]
-- [[1-Session Journals/Aethermoor - Session 10 The Deep Mother Rises]]
+- [02_Worldbuilding/Lore/The Lighthouse of Storms]]
+- [[1-Session Journals/Aethermoor - Session 09 The Price of Unity
+- [1-Session Journals/Aethermoor - Session 10 The Deep Mother Rises]]
 
 ## Player-Facing Summary
 
@@ -1365,10 +1359,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[00_Indexes/Master_Lore_Index]]
-- [[02_Worldbuilding/Lore/Continental War]]
-- [[02_Worldbuilding/Lore/The Bathyal Succession]]
-- [[02_Worldbuilding/Lore/The Great Convergence Prophecies]]
-- [[02_Worldbuilding/Lore/The Great Crystallization]]
-- [[02_Worldbuilding/Lore/The Shattering of the Crown]]
+- [[00_Indexes/Master_Lore_Index
+- [02_Worldbuilding/Lore/Continental War]]
+- [[02_Worldbuilding/Lore/The Bathyal Succession
+- [02_Worldbuilding/Lore/The Great Convergence Prophecies]]
+- [[02_Worldbuilding/Lore/The Great Crystallization
+- [02_Worldbuilding/Lore/The Shattering of the Crown]]
 - [[02_Worldbuilding/Places/Aethermoor]]

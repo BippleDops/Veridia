@@ -1,13 +1,13 @@
 ---
 
 title: Silverscale Banking House
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
 - session-notes
 - status/complete
 - content/lore
-- world/[[Aethermoor]]
+- world/[Aethermoor]]
 - active
 - complete
 - aethermoor
@@ -15,10 +15,10 @@ tags:
 created: '2025-08-12'
 modified: '2025-08-14'
 status: complete
-accessibility:
+accessibility: 
   content_warnings: []
   pronunciation: Silverscale Banking House
-  safety_tools:
+  safety_tools: 
   - Lines & Veils
   - X-Card
   screen_reader_summary: This lore entry explains a pivotal principle or event and
@@ -46,7 +46,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -86,7 +86,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[region]]s
+- Describe how this culture exists in other [region]]s
 
 ## Summary
 
@@ -100,9 +100,9 @@ Silverscale Banking House is a undersea element of the setting, known for biolum
 
 Legends speak of Silverscale Banking House as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Silverscale Banking House.
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [map]] use.
 
 ## Overview
 
@@ -149,18 +149,18 @@ Different cultures interpret this lore through their own lens, creating variatio
 
 ## References
 
-- [[Campaign_Relationship_Matrix]]
-- [[Aurelius Goldwave]]
-- [[Consequence Chain 2 - Crystal Trade Disruption]]
-- [[Goldwave Manor]]
-- [[Silver Mask]]
-- [[The Forgetting Bomb]]
-- [[The Silverscale Conspiracy]]
-- [[Aquabyssos Trade Seal (D&D_References)]]
-- [[Goldwave Manor (D&D_References)]]
-- [[Goldwave Manor 3 (D&D_References)]]
-- [[Silver Mask (D&D_References)]]
-- [[The Forgetting Bomb (D&D_References)]]
-- [[The Silverscale Conspiracy (D&D_References)]]
-- [[Aethermoor - Session 04 The Silverscale Gambit]]
+- [[Campaign_Relationship_Matrix
+- [Aurelius Goldwave]]
+- [[Consequence Chain 2 - Crystal Trade Disruption
+- [Goldwave Manor]]
+- [[Silver Mask
+- [The Forgetting Bomb]]
+- [[The Silverscale Conspiracy
+- [Aquabyssos Trade Seal (D&D_References)]]
+- [[Goldwave Manor (D&D_References)
+- [Goldwave Manor 3 (D&D_References)]]
+- [[Silver Mask (D&D_References)
+- [The Forgetting Bomb (D&D_References)]]
+- [[The Silverscale Conspiracy (D&D_References)
+- [Aethermoor - Session 04 The Silverscale Gambit]]
 - [[Aurelius Goldwave (D&D_Statblocks)]]

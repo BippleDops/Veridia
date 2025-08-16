@@ -1,7 +1,7 @@
 ---
 created: '2025-08-11'
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -14,14 +14,8 @@ updated: '2025-08-13T12:34:16.234761+00:00'
 world: Aquabyssos
 ---
 
-
-
-
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-marina-red-tide-coralheart-aquabyssos-marina-red-tide-coralheart-aquabyssos.svg)
-
-
 
 ## Overview
 
@@ -49,9 +43,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Teacher Miranda Hopekeeper]]
-
+- [[02_Worldbuilding/Places/Teacher Miranda Hopekeeper
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Teacher Miranda Hopekeeper]]
+- [02_Worldbuilding/Places/Teacher Miranda Hopekeeper]]

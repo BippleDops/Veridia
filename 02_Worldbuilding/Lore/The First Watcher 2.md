@@ -1,7 +1,7 @@
 ---
 type: Lore
 status: complete
-tags:
+tags: 
 - active
 - both aethermoor & aquabyssos
 - both-aethermoor-&-aquabyssos
@@ -11,11 +11,6 @@ world: Both Aethermoor & Aquabyssos
 created: '2025-08-11'
 updated: '2025-08-13T01:18:35.178916+00:00'
 ---
-
-
-
-
-
 
 ## Overview
 
@@ -43,10 +38,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis|02 Worldbuilding/Quests/Quest The Convergence Crisis]]
-
+- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis|02 Worldbuilding/Quests/Quest The Convergence Crisis
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/The Void Watchers]]
+- [02_Worldbuilding/Groups/The Void Watchers]]
 - [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]

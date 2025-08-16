@@ -2,7 +2,7 @@
 
 title: The Recursion Oracle
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -50,7 +50,6 @@ updated: '2025-08-11T00:00:00+00:00'
 
 --- # The Recursion Oracle *"Time flows in circles here, and every question asked askeded before, will be asked again, and askeds right now." - The Recursion Oracle* ## 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview
 
-
 **Summary**: 🔧 Deep Evaluation Improvements *20 targeted improvements identified* ### Connection Improvements - Add cross-references to related notes ### Enhancement Improvements - Add 12_Research-specific enhancement ## Overview - Key information at a glance.
 
 The Recursion Oracle represents one of the most enigmatic and powerful prophetic entities within Aquabyssos, capable of perceiving time as a recursive loop where past, present, and future exist simultaneously in overlapping patterns. Unlike traditional oracles who glimpse potential futures, the Recursion Oracle experiences all temporal possibilities as concurrent realities, speaking in riddles that reference events that have happened, are happening, and will happen in infinite variation. This unique temporal perspective makes their prophecies both incredibly accurate and maddeningly difficult to interpret. Located in the deepest meditation chambers beneath the city, the Oracle exists in a state of constant temporal flux, their consciousness spread across multiple timeline iterations. Consultations with the Oracle require special preparation and often leave visitors with temporal displacement effects that can last for days. The Oracle's pronouncements have shaped major decisions throughout Aquabyssos history, though their recursive nature means interpretations often become clear only after events have already occurred. ### Origins
@@ -78,7 +77,6 @@ Recent Oracle consultations have become increasingly urgent and fragmented, sugg
 3. The Oracle requests the party's help in preventing their own past transformation, creating a complex temporal paradox
 4. Contradictory Oracle prophecies suggest timeline manipulation by unknown forces ### Early Campaign
 
-
 Introduce the Oracle as mysterious source of cryptic guidance, with prophecies that become clearer as characters gain experience interpreting temporal riddles. ### Mid Campaign
 
 Oracle consultations provide crucial guidance for major campaign decisions while introducing temporal complications and moral dilemmas. ### Late Campaign
@@ -95,10 +93,9 @@ Adjust the Oracle's accessibility and clarity based on campaign needs - more ava
 
 - Related content
 - Similar topics
-- Connected elements ## References - [[The Recursion Cult]]
+- Connected elements ## References - [[The Recursion Cult
 
-- [[The Dream Shepherds]]
-
+- [The Dream Shepherds]]
 
 ## Notes
 

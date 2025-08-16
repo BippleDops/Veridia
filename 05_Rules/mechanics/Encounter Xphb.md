@@ -2,7 +2,7 @@
 
 title: Encounter Xphb
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -43,14 +43,13 @@ world: Both
 - **Level 1-4**: Reduce enemies
 - **Level 5-10**: Standard difficulty
 - **Level 11-15**: Add elite enemies
-- **Level 16-20**: Legendary difficulty ## References - [[11 Rules Glossary]]
+- **Level 16-20**: Legendary difficulty ## References - [[11 Rules Glossary
 
-- [[11-rules-glossary (players-handbook-2024)]]
-- [[Adventure Xphb]]
-- [[Challenge Rating Xphb]]
-- [[adventure-xphb (variant-rules)]]
-- [[challenge-rating-xphb (variant-rules)]]
-
+- [11-rules-glossary (players-handbook-2024)]]
+- [[Adventure Xphb
+- [Challenge Rating Xphb]]
+- [[adventure-xphb (variant-rules)
+- [challenge-rating-xphb (variant-rules)]]
 
 ## Notes
 

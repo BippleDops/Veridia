@@ -1,7 +1,7 @@
 ---
 title: 02_Worldbuilding/Lore/The Forgotten Archive
 type: lore
-tags:
+tags: 
 - lore
 - worldbuilding
 created: '2025-08-14'

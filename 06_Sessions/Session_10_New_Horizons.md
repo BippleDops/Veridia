@@ -10,38 +10,38 @@ Session_10_New_Horizons represents an important concept, event, or element withi
 
 ## Description
 
-### Basic Information
+### [[Basic Information
 Session_10_New_Horizons can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:
 - Physical: A tangible thing or place
 - Conceptual: An idea or belief system
 - Event: Something that happened or will happen
 - Process: An ongoing or repeatable occurrence
 
-### Detailed Explanation
+### [Detailed Explanation]]
 The full nature of Session_10_New_Horizons involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
 
 ## Context & Connections
 
-### [[Historical Context]]
+### [[[Historical Context]]
 The origins and development of Session_10_New_Horizons trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
 
-### Related Elements
+### [[Related Elements
 Connected to Session_10_New_Horizons are various other important elements:
 - Direct relationships with other concepts
 - Indirect influences on broader systems
 - Parallel developments in other areas
 - Opposing or complementary forces
 
-### Cultural Significance
-Different [[Groups]] view Session_10_New_Horizons through their own cultural lenses:
+### [Cultural Significance]]
+Different [[Groups view Session_10_New_Horizons through their own cultural lenses:
 - Traditional interpretations
 - Modern understandings
-- [[region]]al variations
+- [region]]al variations
 - Conflicting perspectives
 
 ## Characteristics
 
-### Defining Features
+### [[Defining Features
 What makes Session_10_New_Horizons unique:
 - Specific attributes or qualities
 - Distinctive markers or signs
@@ -55,9 +55,9 @@ Different forms or interpretations:
 - Cultural adaptations
 - Individual variations
 
-## Practical Information
+## [Practical Information]]
 
-### How It Works
+### [[How It Works
 The functional aspects of Session_10_New_Horizons:
 - Mechanisms or processes involved
 - Requirements or prerequisites
@@ -80,14 +80,14 @@ How one might encounter or utilize Session_10_New_Horizons:
 
 ## Impact & Influence
 
-### Direct Effects
+### [Direct Effects]]
 Immediate consequences of Session_10_New_Horizons:
 - On individuals
 - On groups
 - On environments
 - On other systems
 
-### Indirect Consequences
+### [[Indirect Consequences
 Broader implications:
 - Social changes
 - Political ramifications
@@ -101,16 +101,16 @@ Future implications:
 - Possible endpoints
 - Cyclical patterns
 
-## Current Status
+## [Current Status]]
 
-### Present Situation
+### [[Present Situation
 The current state of Session_10_New_Horizons:
 - Active developments
 - Recent changes
 - Current holders or guardians
 - Present threats or opportunities
 
-### [[Recent Events]]
+### [[[Recent Events]]]]
 How Session_10_New_Horizons has been involved recently:
 - Notable occurrences
 - Changes in understanding
@@ -119,23 +119,23 @@ How Session_10_New_Horizons has been involved recently:
 
 ## Mysteries & Questions
 
-### Unknown Aspects
+### [[Unknown Aspects
 What remains unclear about Session_10_New_Horizons:
 - Unanswered questions
 - Conflicting information
 - Hidden dimensions
 - Lost knowledge
 
-### Active Research
+### [Active Research]]
 Current efforts to understand:
 - Who is investigating
 - Methods being employed
 - Recent discoveries
 - Obstacles to understanding
 
-## Game Applications
+## [[Game Applications
 
-### Adventure Hooks
+### [Adventure Hooks]]
 Ways to incorporate Session_10_New_Horizons into gameplay:
 1. **Discovery**: First encounter with Session_10_New_Horizons
 2. **Investigation**: Uncovering its secrets
@@ -143,21 +143,21 @@ Ways to incorporate Session_10_New_Horizons into gameplay:
 4. **Utilization**: Using it to achieve goals
 5. **Prevention**: Stopping its misuse
 
-### Mechanical Considerations
+### [[Mechanical Considerations
 If applicable, how to handle mechanically:
 - Dice rolls and DCs
 - Resource management
-- [[Time]] requirements
+- [Time]] requirements
 - Success and failure conditions
 
-### Story Integration
+### [[Story Integration
 How Session_10_New_Horizons fits into narratives:
 - As plot device
 - As background element
 - As character motivation
 - As campaign theme
 
-## Additional Notes
+## [Additional Notes]]
 
 ### Variations by Campaign
 How to adjust for different games:
@@ -166,11 +166,11 @@ How to adjust for different games:
 - Complexity options
 - Alternative interpretations
 
-### Development Potential
+### [[Development Potential
 Ways Session_10_New_Horizons might evolve:
 - Through player action
 - Via story progression
-- Based on [[World Events]]
+- Based on [[[World Events]]]]
 - Through discovery
 
 ## References
@@ -182,14 +182,14 @@ Where information comes from:
 - Rumors and legends
 - Direct observation
 
-### Related Topics
+### [[Related Topics
 Other connected subjects:
 - Similar concepts
 - Opposing forces
 - Parallel developments
 - Dependent systems
 
-### Further Investigation
+### [Further Investigation]]
 Where to learn more:
 - Specific locations
 - Knowledgeable individuals
@@ -198,17 +198,17 @@ Where to learn more:
 
 ## DM Notes
 
-### True Nature
+### [[True Nature]]
 [Hidden information for DM only]
 
-### Campaign Role
+### [[Campaign Role
 How this serves the campaign:
 - Immediate purposes
 - Long-term significance
 - Connection to main plot
 - Player engagement opportunities
 
-### Customization Notes
+### [Customization Notes]]
 Adapt as needed for:
 - Player interests
 - Campaign themes
@@ -216,4 +216,25 @@ Adapt as needed for:
 - Story needs
 
 ---
-*Tags*: [[#General]] #worldbuilding #session_10_new_horizons
+*Tags*: [[#General #worldbuilding #session_10_new_horizons
+## [Session Summary]]
+*Brief overview of this session*
+
+## [[Key Events
+- Event 1
+- Event 2
+
+## NPCs Encountered
+- [[NPC [Name]]]] - Brief description
+
+## [[Locations Visited
+- [[[Location Name]]]] - What happened here
+
+## [[Quest Progress
+- [[[Quest Name]]]] - What was accomplished
+
+## Notes for [[Next Session]]
+- Important things to remember
+- Plot threads to follow up
+
+---

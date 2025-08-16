@@ -1,22 +1,22 @@
 ---
 title: The Resoce Forge Hammer
 type: note
-tags:
+tags: 
 - auto-generated
-- [[Link]]ed
+- [[Linked
 created: '2025-01-15'
 ---
 
 # The Resoce Forge Hammer
 
 ## Overview
-This topic is referenced in [[World_Bible_Index (D&D_References)]] and other parts of the campaign.
+This topic is referenced in [World_Bible_Index (D&D_References)]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[World_Bible_Index (D&D_References)]]
+- Referenced by: [[World_Bible_Index (D&D_References)
 - Related topics in the same category
 
 ## Details
@@ -29,5 +29,5 @@ Further information about this topic will be developed as the campaign progresse
 
 ## References
 
-- [[World Bible Index]]
+- [World Bible Index]]
 - [[World_Bible_Index (D&D_References)]]

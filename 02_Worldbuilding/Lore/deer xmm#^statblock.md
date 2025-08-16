@@ -1,16 +1,16 @@
 ---
-title: deer xmm#^statblock
+title: "deer xmm#^statblock"
 type: note
-tags:
+tags: 
 - auto-generated
-- [[Link]]ed
+- [[Linked
 created: '2025-01-15'
 ---
 
 # deer xmm#^statblock
 
 ## Overview
-This topic is referenced in [[3-animals (monster-manual-2025)]] and other parts of the campaign.
+This topic is referenced in [3-animals (monster-manual-2025)]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.

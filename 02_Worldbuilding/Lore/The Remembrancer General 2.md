@@ -3,30 +3,26 @@ type: Lore
 status: complete
 updated: '2025-08-13T01:18:35.276053+00:00'
 created: '2025-08-11'
-tags:
+tags: 
 - aquabyssos
 - category/lore
 - complete
 - lore
 world: Aquabyssos
 obsidianUIMode: preview
-accessibility:
+accessibility: 
   screen_reader_summary: This lore entry explains a pivotal principle or event and
     its consequences for play.
   content_warnings: []
   pronunciation: The Remembrancer General
-  safety_tools:
+  safety_tools: 
   - Lines & Veils
   - X-Card
 ---
 
-
-
-
-
 # The Remembrancer General
 
-![[04_Resources/Assets/Art/Lore/The_Remembrancer_General.png|The Remembrancer General Portrait]]
+![[04_Resources/Assets/Art/Lore/The_Remembrancer_General.png|The Remembrancer General Portrait
 
 ## Summary
 The Remembrancer General describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.
@@ -42,14 +38,14 @@ The Remembrancer General describes a turning current in history where choices ab
 - Exploration: Recognizing encoded waystones reduces the chance of getting lost by one step.
 
 ## Threads and Revelations
-- Records implicate agents tied to [[02_Worldbuilding/Places/The Sunken Library of Thalassius]].
-- A rite echoes the activation cadence needed for [[02_Worldbuilding/Places/Aquabyssos]].
-- Testimony suggests [[02_Worldbuilding/People/Vex Shadowthorn]] financed a pivotal bribe.
+- Records implicate agents tied to [02_Worldbuilding/Places/The Sunken Library of Thalassius]].
+- A rite echoes the activation cadence needed for [[02_Worldbuilding/Places/Aquabyssos.
+- Testimony suggests [02_Worldbuilding/People/Vex Shadowthorn]] financed a pivotal bribe.
 
 ## Cross-References
-- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
-- [[02_Worldbuilding/Places/Aquabyssos]]
-- [[02_Worldbuilding/People/Vex Shadowthorn]]
+- [[02_Worldbuilding/Places/The Sunken Library of Thalassius
+- [02_Worldbuilding/Places/Aquabyssos]]
+- [[02_Worldbuilding/People/Vex Shadowthorn
 
 ## Player-Facing Summary
 
@@ -71,8 +67,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 
-
 ## Connections
 
-- [[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]
+- [02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]
 - [[02_Worldbuilding/Lore/The Convergence Point]]

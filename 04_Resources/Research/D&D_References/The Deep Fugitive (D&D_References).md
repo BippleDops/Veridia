@@ -2,7 +2,7 @@
 
 title: The Deep Fugitive (D&D_References)
 type: note
-tags:
+tags: 
 - note
 
 created: '2025-01-15'
@@ -59,10 +59,10 @@ The Deep Fugitive is a mysterious individual who operates in the deepest trenche
 - **CR** 8 ### Actions
 
 **Multiattack.** Makes two attacks with Pressure Blade or Deep Strike.
-**Pressure Blade.** +8 to hit, 1d8+4 slashing + 1d6 cold damage.
-**Deep Strike.** Ranged attack using water pressure, +8 to hit, range 60 ft, 2d8+4 force damage.
+**Pressure Blade.** +8 to hit, `dice: 1d8`+4 slashing + `dice: 1d6` cold damage.
+**Deep Strike.** Ranged attack using water pressure, +8 to hit, range 60 ft, `dice: 2d8`+4 force damage.
 **Vanish (3/day).** Becomes invisible and gains swimming speed of 120 ft for 1 minute.
-**Depth Call (1/day).** Summons 2d4 deep-sea creatures to aid in escape. ## Background
+**Depth Call (1/day).** Summons `dice: 2d4` deep-sea creatures to aid in escape. ## Background
 
 Little is known about the Deep Fugitive's past. Some claim they were once a royal guard who discovered corruption. Others believe they're a foreign spy. Most disturbing are rumors that they're a test subject who escaped from illegal experiments. What's certain is their ability to survive in the deepest ocean trenches where pressure would crush most beings, and their knowledge of Aquabyssos's hidden secrets. ## Known Associates
 
@@ -88,13 +88,11 @@ Little is known about the Deep Fugitive's past. Some claim they were once a roya
 3. Fugitive saves players from danger, then vanishes
 4. False accusations make players temporary allies with the fugitive ## DM Notes
 
-
 Use the Deep Fugitive as a recurring character who appears when least expected. They should embody themes of justice versus law, freedom versus security. Their true identity and motivations can drive long-term campaign arcs. ## Player-Facing Summary The Deep Fugitive is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices. ## Lore Details Legends speak of The Deep Fugitive as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Deep Fugitive. ## Related *Links to related content will be added here.* ## Plot Hooks - A letter reveals a betrayal about the government
 
 - A stranger needs help investigating before the new moon
 - Strange sightings suggest a curse
 - Someone is protecting information for power ## 12_Research Specific Content Contextual improvement based on 12_Research ## 12_Research Specific Content Contextual improvement based on 12_Research
-
 
 ## Notes
 

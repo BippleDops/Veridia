@@ -40,8 +40,8 @@ Possible developments and plot opportunities.
 ## Relationships
 
 ### Direct Connections
-- [[Assets Locations Location City Master Smith Vulcan Deepforge Master Smith Vulcan Deepforge.svg]]
-- [[Assets Portraits Portrait NPC Captain Lyanna Brightshield Captain Lyanna Brightshield.svg]]
+- [[Assets Locations Location City Master Smith Vulcan Deepforge Master Smith Vulcan Deepforge.svg
+- [Assets Portraits Portrait NPC Captain Lyanna Brightshield Captain Lyanna Brightshield.svg]]
 
 ### Indirect Influences
 - Broader campaign themes
@@ -84,21 +84,17 @@ Possible developments and plot opportunities.
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

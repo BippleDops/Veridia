@@ -3,7 +3,7 @@ created: '2025-08-08'
 created_by: auto-stub
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - aquabyssos
 - complete
 - content/location
@@ -18,13 +18,8 @@ updated: '2025-08-13T12:34:17.023303+00:00'
 world: Aquabyssos
 ---
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-party-quarters-inverse-palace-party-quarters-inverse-palace.svg)
-
-
-
-
 
 # Party Quarters - Inverse Palace
 
@@ -86,32 +81,23 @@ This unique venue hosts the most exclusive social events in Aquabyssos, where th
 ## DM Notes
 This location provides unique tactical challenges and memorable social encounters. Use the inverted gravity for creative puzzle-solving and combat scenarios that force players to think three-dimensionally.
 
-
 ## Connections
 
-- [[1-Session Journals/Aquabyssos - Session 03 - The Gallery Conspiracy]]
-
+- [[1-Session Journals/Aquabyssos - Session 03 - The Gallery Conspiracy
 
 ## History
 
-
 TODO
-
 
 ## Notables
 
-
 TODO
-
 
 ## Threats
 
-
 TODO
 
-
 ## Hooks
-
 
 TODO
 
@@ -125,30 +111,25 @@ Legends speak of Party Quarters   Inverse Palace as a nexus where past and prese
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Party Quarters - Inverse Palace]]
+- [02_Worldbuilding/Places/Party Quarters - Inverse Palace]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

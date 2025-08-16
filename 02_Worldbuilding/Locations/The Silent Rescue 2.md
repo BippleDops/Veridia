@@ -3,7 +3,7 @@ created: '2025-08-08'
 created_by: auto-stub
 danger_level: Moderate
 status: complete
-tags:
+tags: 
 - aquabyssos
 - campaign/objective
 - complete
@@ -18,10 +18,6 @@ type: Location
 updated: '2025-08-13T12:34:17.061130+00:00'
 world: Aquabyssos
 ---
-
-
-
-
 
 # The Silent Rescue
 
@@ -156,10 +152,9 @@ Successful rescue improves diplomatic relations and establishes characters as ca
 ## DM Notes
 This mission emphasizes planning, stealth, and non-violent solutions over direct combat. Reward creative thinking and careful preparation. The stealth requirement creates natural tension and forces players to think strategically.
 
-
 ## Connections
 
-- [[02_Worldbuilding/Places/The Whispering Depths]]
+- [[02_Worldbuilding/Places/The Whispering Depths
 
 ## Player-Facing Summary
 
@@ -171,30 +166,25 @@ Legends speak of The Silent Rescue as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Silent Rescue]]
+- [02_Worldbuilding/Places/The Silent Rescue]]
 
 <!-- enriched: true -->
-
 
 ## Atmosphere
 - Mood and feeling
 - Sensory details
 
-
 ## Resources
 - Natural resources
 - Trade goods
-
 
 ## Dangers
 - Environmental hazards
 - Hostile creatures
 
-
 ## Rumors
 - Local gossip
 - Urban legends
-
 
 ## Weather
 - Typical conditions

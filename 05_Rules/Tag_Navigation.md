@@ -34,7 +34,6 @@ publish: false
 
  # Tag_Navigation ---
 
-
 ## Description
 
 **Details**: Rich sensory elements bring this to life. {#description}
@@ -101,7 +100,6 @@ WHERE file.mtime >= date(today) - dur(3 days) AND tags != SORT file.mtime DESC #
 | 5 | Option E |
 | 6 | Option F | ## Overview *To be added* ## Goals *To be added* ## Structure *To be added* ## Members *To be added* ## Resources *To be added* ## Relationships *To be added*
 
-
 ## Notes {#notes}
 
 *Additional notes*
@@ -120,6 +118,6 @@ WHERE file.mtime >= date(today) - dur(3 days) AND tags != SORT file.mtime DESC #
 *Every story needs its heroes.*
 
 ## Visual References
-![[04_Resources/Assets/Misc/aerial_navigation_guild.png]]
-![[04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_current_navigation_techniques_current_navigation_techniques_svg_physical.png]]
+![[04_Resources/Assets/Misc/aerial_navigation_guild.png
+![04_Resources/Assets/Maps/World/Continents/world_assets_locations_location_city_current_navigation_techniques_current_navigation_techniques_svg_physical.png]]
 ![[04_Resources/Assets/Maps/World/Continents/world_current_navigation_techniques_physical.png]]

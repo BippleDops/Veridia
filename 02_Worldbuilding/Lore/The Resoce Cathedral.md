@@ -1,22 +1,22 @@
 ---
 title: The Resoce Cathedral
 type: note
-tags:
+tags: 
 - auto-generated
-- [[Link]]ed
+- [[Linked
 created: '2025-01-15'
 ---
 
 # The Resoce Cathedral
 
 ## Overview
-This topic is referenced in [[Cult of Screams]] and other parts of the campaign.
+This topic is referenced in [Cult of Screams]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Cult of Screams]]
+- Referenced by: [[Cult of Screams
 - Related topics in the same category
 
 ## Details
@@ -29,7 +29,7 @@ Further information about this topic will be developed as the campaign progresse
 
 ## References
 
-- [[Cult of Screams (Cults_and_Movements)]]
-- [[Surface Signals]]
-- [[The Resonance Cathedral]]
+- [Cult of Screams (Cults_and_Movements)]]
+- [[Surface Signals
+- [The Resonance Cathedral]]
 - [[Cult of Screams]]

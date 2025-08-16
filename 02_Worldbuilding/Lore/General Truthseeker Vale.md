@@ -1,11 +1,11 @@
 ---
 
 title: General Truthseeker Vale
-type: [[Lore]]
-tags:
+type: [[Lore
+tags: 
 - lore
 - content/lore
-- world/[[Aethermoor]]
+- world/[Aethermoor]]
 - active
 - complete
 - status/in-progress
@@ -33,7 +33,7 @@ improvements: 20
 
 ### Economy Improvements
 
-- Detail currency, [[Trade_Goods|Trade Goods]], and wealth distribution
+- Detail currency, [[Trade_Goods|Trade Goods, and wealth distribution
 
 ### Religion Improvements
 
@@ -73,7 +73,7 @@ improvements: 20
 
 ### Diaspora Improvements
 
-- Describe how this culture exists in other [[region]]s
+- Describe how this culture exists in other [region]]s
 
 ### Sensory Improvements
 
@@ -87,11 +87,11 @@ General Truthseeker Vale is a undersea element of the setting, known for biolumi
 
 Legends speak of General Truthseeker Vale as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around General Truthseeker Vale.
 
-## [[DM_Notes|DM Notes]]
+## [[DM_Notes|DM Notes
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [[map]] use.
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and [map]] use.
 
-## [[Historical Context]]
+## [[Historical Context
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
@@ -145,6 +145,6 @@ Mentioned in The First Prophecy of Shadows
 
 ## References
 
-- [[The Queen]]
-- [[The Queen (D&D_References)]]
-- [[The Queen 3 (D&D_References)]]
+- [The Queen]]
+- [[The Queen (D&D_References)
+- [The Queen 3 (D&D_References)]]

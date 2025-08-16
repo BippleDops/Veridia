@@ -11,10 +11,14 @@
             "id": "fa5c4d6e2915788c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03_People/02 Chapter 1 Playing the Game#stabilizing a Character.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "02 Chapter 1 Playing the Game#stabilizing a Character"
             }
           }
         ]
@@ -407,6 +411,12 @@
   },
   "active": "fa5c4d6e2915788c",
   "lastOpenFiles": [
+    "_SCRIPTS/targeted_fake_file_remover.py",
+    "09_Performance/comprehensive_clean_report.md",
+    "09_Performance/comprehensive_clean_report.json",
+    "_SCRIPTS/comprehensive_vault_cleaner.py",
+    "_SCRIPTS/deep_clean_fake_files.py",
+    "03_People/00_Indexes_Master_Index.md",
     "09_Performance/WRITING_QUALITY_10K_REPORT.md",
     "scripts/writing_quality_10k_improvements.py.tmp.42253.1755262057416",
     "scripts/fix_numbered_files.py",
@@ -416,9 +426,6 @@
     "04_Resources/Assets/Generated/Music/generic/special/assets_locations_location_city_abyssos_prime_docks_v1_abyssos_prime_docks_svg_special_v90_metadata.json",
     "04_Resources/Assets/Generated/Music/generic/special/assets_locations_location_city_abyssos_prime_docks_abyssos_prime_docks_svg_special_v89_metadata.json",
     "04_Resources/Assets/Generated/Music/generic/special/assets_locations_location_city_abyssos_prime_abyssos_prime_svg_special_v88_metadata.json",
-    "04_Resources/Assets/Generated/Music/generic/special/assets_locations_location_city_abyssos_prime_2_v1_abyssos_prime_2_svg_special_v87_metadata.json",
-    "04_Resources/Assets/Generated/Music/generic/special/assets_locations_location_city_abyssos_prime_2_abyssos_prime_2_svg_special_v86_metadata.json",
-    "04_Resources/Assets/Generated/Music/generic/special/assets_locations_location_city_abyssal_territories_v1_abyssal_territories_svg_special_v85_metadata.json",
     "09_Performance/audio_fit_report.md",
     "AGILE_VAULT_IMPLEMENTATION_ROADMAP.md",
     "VAULT_ORGANIZATION_STATUS.md",
@@ -440,9 +447,6 @@
     "09_Templates/Scene Framing Templates.md",
     "09_Templates/Template-PointofInterest.md",
     "09_Templates/Template-SapientSpecies.md",
-    "09_Templates/Template-Character.md",
-    "09_Templates/Text Generator Templates - Convert Monster.md",
-    "09_Templates/Template-Player-Demiplane.md",
     "04_Resources/Assets/Generated/Misc/master_cultivator_polyp_growe.png",
     "04_Resources/Assets/Generated/Misc/master_cultivator_apprenticeships.png",
     "04_Resources/Assets/Generated/Misc/master_cultivator_apprenticeship.png",
